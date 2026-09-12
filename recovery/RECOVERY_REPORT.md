@@ -50,6 +50,7 @@ SHA identifiers alone cannot recreate missing trees, blobs, parent links, or aut
 - **Recovering GitHub Repository Data** was still uploading objects to the new repository when inspected. Its blobs were not yet attached to a commit. Any resulting commit should be fetched and reconciled without overwriting either recovery.
 - The library lists `SwordHound-MTL-Source-Corpus-001-493.tar.xz`, an archive checksum, two `Missing Raws` ZIPs, raw text files, and older formatting reports/EPUBs. A download of `Missing Raws(1).zip` failed.
 - The library copy of the completed EPUB failed to download. The local complete EPUB is preserved separately with its own provenance.
+- `library-inventory.json` records 55 observed project-library filenames, including 31 raw-text documents and older exports. The `001` document has a readable Korean preview, but its Markdown export did not complete. A bulk download attempt also failed. These are retained as recovery leads, not presented as restored files.
 - `SwordHound-Info-Windows-and-Grammar-Corrected.epub` is referenced in the earlier recovery task and is the audit's named source; it needs separate recovery and validation.
 - Original edited chapter Markdown, per-chapter QA, continuity YAML, glossaries, `chapters.yml`, mappings, workflows, and the 373–374 branch remain absent as original files. Historical reports must not be used to mark them present.
 
