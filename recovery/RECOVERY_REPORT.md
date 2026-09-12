@@ -25,6 +25,8 @@ The last report says PR #57 was merged and `main` was translated/QA-complete thr
 
 The local EPUB's internal modified date is July 29. A library display date of September 9 may indicate upload/save time, not manuscript revision. The audit concerns 500 chapters; the recovered corpus and local EPUB each contain 493. These versions must be mapped before applying editorial changes.
 
+`source-vs-local-epub.json` records a comparison of whitespace-normalized XHTML body text, including headings and other body elements. All 493 chapter documents differ by this measure. The source corpus has therefore not been replaced by the older EPUB's chapter files.
+
 ## Commit history
 
 The new repository started with README commit `dd63f4915a6aceaa0c92d942b355d4c97bee51ba`. Recovery retains it as an ancestor. No original historical commits have been fabricated.
@@ -52,3 +54,7 @@ SHA identifiers alone cannot recreate missing trees, blobs, parent links, or aut
 - Original edited chapter Markdown, per-chapter QA, continuity YAML, glossaries, `chapters.yml`, mappings, workflows, and the 373–374 branch remain absent as original files. Historical reports must not be used to mark them present.
 
 All restored data is separate from the read-only synced project `sources/` directory. Artifact hashes are recorded in `artifact-checksums.json`; the verifier checks byte integrity, not translation quality.
+
+## Remote verification
+
+Recovery commit `0a403ca9b97e7f4a6aeae78ff205efa72b473de7` was pushed to both `main` and `recovery/2026-09-13` without force. A fresh clone of GitHub `main` passed the recovery verifier. A complete Git bundle of the available new-repository history was also created locally. That bundle backs up the recovered repository; it does not contain the unavailable old-account history.

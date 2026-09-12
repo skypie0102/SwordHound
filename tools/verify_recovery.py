@@ -20,6 +20,9 @@ def sha(data):
 
 
 def main():
+    for item in json.loads((ROOT / 'recovery/artifact-checksums.json').read_text(encoding='utf-8')):
+        data = (ROOT / item['path']).read_bytes()
+        require(len(data) == item['bytes'] and sha(data) == item['sha256'], 'Artifact checksum mismatch: '+item['path'])
     manifest = json.loads((ROOT / 'recovery/source-corpus-manifest.json').read_text(encoding='utf-8'))
     archive = ROOT / manifest['archive']
     require(sha(archive.read_bytes()) == manifest['sha256'], 'Source archive checksum mismatch')
@@ -58,7 +61,7 @@ def main():
             require('EPUB/' + item.attrib['href'] in z.namelist(), 'Missing package resource: '+item.attrib['href'])
         for ref in package.findall('opf:spine/opf:itemref', ns):
             require(ref.attrib['idref'] in items, 'Unresolved spine reference')
-    print('PASS: 493 source hashes, original archive members, 524 EPUB snapshot members, XML parsing, EPUB manifest and spine.')
+    print('PASS: artifact hashes (including original audit), 493 source hashes, archive members, 524 EPUB snapshot members, XML parsing, EPUB manifest and spine.')
 
 
 if __name__ == '__main__':
