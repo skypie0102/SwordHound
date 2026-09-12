@@ -1,0 +1,482 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+:root {
+  --blood: #7b111b;
+  --blood-dark: #4a0a10;
+  --iron: #60636a;
+  --ink: #1d1d1f;
+  --muted: #6b6b70;
+  --paper: #fbfaf7;
+  --panel: #f2efea;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0 6%;
+  padding: 0;
+  color: var(--ink);
+  background: transparent;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1em;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  widows: 2;
+  orphans: 2;
+}
+
+main, section, header, nav {
+  display: block;
+}
+
+h1, h2, h3, p, ol, ul, dl, dd, dt {
+  margin-top: 0;
+}
+
+h1, h2, h3 {
+  page-break-after: avoid;
+  break-after: avoid-page;
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: inherit;
+}
+
+/* Compiler credit */
+.blood-text,
+a.blood-text:link,
+a.blood-text:visited {
+  color: var(--blood);
+}
+
+/* Cover */
+body.cover-page {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.cover-wrap {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.cover-wrap img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Front matter */
+body.title-page,
+body.info-page,
+body.colophon-page,
+body.contents-page {
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.title-block {
+  margin: 16vh auto 0;
+  max-width: 34em;
+  text-align: center;
+}
+
+.title-ornament {
+  margin-bottom: 1.4em;
+  color: var(--blood);
+  font-size: 1.15em;
+  letter-spacing: 0.45em;
+  text-indent: 0;
+}
+
+.book-title {
+  margin: 0;
+  font-size: 2.25em;
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: 0.015em;
+  text-transform: uppercase;
+}
+
+.original-title {
+  margin: 1.35em 0 0;
+  color: var(--muted);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.95em;
+  letter-spacing: 0.06em;
+  text-indent: 0;
+}
+
+.author-line {
+  margin: 3.2em 0 0;
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 1.05em;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
+  text-indent: 0;
+}
+
+.author-korean {
+  margin: 0.45em 0 0;
+  color: var(--muted);
+  font-size: 0.9em;
+  text-indent: 0;
+}
+
+.edition-line {
+  margin: 4.5em 0 0;
+  color: var(--blood-dark);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  text-indent: 0;
+}
+
+.front-heading {
+  margin: 12vh 0 2em;
+  padding-bottom: 0.55em;
+  border-bottom: 0.12em solid var(--blood);
+  font-size: 1.55em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.synopsis {
+  margin: 0 0 2.2em;
+  font-size: 1.04em;
+  line-height: 1.65;
+  text-indent: 0;
+}
+
+.metadata-list {
+  margin: 0;
+}
+
+.metadata-list dt {
+  margin-top: 1em;
+  color: var(--blood-dark);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.metadata-list dd {
+  margin: 0.18em 0 0;
+  text-indent: 0;
+}
+
+.reference-note,
+.edition-note,
+.colophon-copy {
+  margin: 1.6em 0 0;
+  color: var(--muted);
+  font-size: 0.88em;
+  line-height: 1.55;
+  text-indent: 0;
+}
+
+.reference-links {
+  margin: 0.6em 0 0;
+  padding-left: 1.2em;
+}
+
+.reference-links li {
+  margin: 0.35em 0;
+}
+
+.reference-links a {
+  border-bottom: 0.08em solid var(--iron);
+}
+
+/* Contents */
+nav[epub|type~="toc"] > ol,
+.volume-toc {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.toc-volume {
+  margin: 1.4em 0 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.toc-volume > a {
+  display: block;
+  padding-bottom: 0.28em;
+  border-bottom: 0.08em solid var(--iron);
+  color: var(--blood-dark);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.toc-volume ol {
+  margin: 0.55em 0 0.8em;
+  padding: 0;
+  list-style: none;
+}
+
+.toc-volume li li,
+.toc-chapter {
+  margin: 0.32em 0;
+  padding-left: 0.7em;
+}
+
+.toc-chapter a {
+  display: block;
+}
+
+nav[epub|type~="landmarks"] {
+  margin-top: 3em;
+}
+
+nav[epub|type~="landmarks"] ol {
+  padding-left: 1.2em;
+}
+
+/* Volume dividers */
+body.volume-divider {
+  margin-left: 8%;
+  margin-right: 8%;
+  text-align: center;
+}
+
+.volume-page {
+  margin: 18vh auto 0;
+  max-width: 28em;
+}
+
+.volume-emblem {
+  margin: 0 0 1.2em;
+  color: var(--blood);
+  font-size: 1.4em;
+}
+
+.volume-series {
+  margin: 0 0 1.2em;
+  color: var(--iron);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  text-indent: 0;
+}
+
+.volume-page h1 {
+  margin: 0;
+  font-size: 2.5em;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.volume-range {
+  margin: 1.4em 0 0;
+  color: var(--muted);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.9em;
+  letter-spacing: 0.08em;
+  text-indent: 0;
+}
+
+.volume-rule {
+  width: 8em;
+  margin: 2em auto 0;
+  border-top: 0.16em solid var(--blood);
+}
+
+/* Chapters */
+body.chapter-page {
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+.chapter-header {
+  margin: 10vh auto 3.1em;
+  max-width: 34em;
+  text-align: center;
+}
+
+.chapter-kicker {
+  margin: 0 0 0.8em;
+  color: var(--blood);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-indent: 0;
+  text-transform: uppercase;
+}
+
+.chapter-header h1 {
+  margin: 0;
+  font-size: 1.72em;
+  font-weight: 700;
+  line-height: 1.18;
+  letter-spacing: 0.02em;
+}
+
+.chapter-rule {
+  margin: 1.5em auto 0;
+  color: var(--blood);
+  font-size: 0.65em;
+  letter-spacing: 0.4em;
+}
+
+.chapter-rule::before,
+.chapter-rule::after {
+  content: "";
+  display: inline-block;
+  width: 4.2em;
+  margin: 0 0.8em 0.18em;
+  border-top: 0.08em solid var(--iron);
+}
+
+.chapter-content {
+  margin: 0 auto 3em;
+  max-width: 38em;
+}
+
+.chapter-content p {
+  margin: 0.1em 0 0;
+  text-indent: 0;
+  hyphens: auto;
+}
+
+.chapter-content p.dialogue {
+  text-indent: 1.05em;
+}
+
+.chapter-content p.lead,
+.chapter-content p.scene-break {
+  text-indent: 0;
+}
+
+.chapter-content p.scene-break {
+  margin: 1.55em 0;
+  color: var(--blood);
+  text-align: center;
+  letter-spacing: 0.45em;
+}
+
+.chapter-content p.lead.dialogue {
+  text-indent: 1.05em;
+}
+
+/* Dialogue clusters: normal internal leading with separation only at cluster boundaries */
+.chapter-content > p.dialogue {
+  line-height: 1.65;
+}
+
+.chapter-content > p.dialogue-cluster-start {
+  margin-top: 0.75em;
+}
+
+.chapter-content > p.dialogue-cluster-end {
+  margin-bottom: 0.75em;
+}
+
+/* In-story information windows */
+.info-window {
+  margin: 0;
+  padding: 0.72em 0.9em 0.78em;
+  border-top: 0.08em solid var(--iron);
+  border-right: 0.08em solid var(--iron);
+  border-bottom: 0.08em solid var(--iron);
+  border-left: 0.22em solid var(--blood);
+  background: var(--panel);
+  font-family: "Trebuchet MS", "Avenir Next", Avenir, Arial, sans-serif;
+  font-size: 0.92em;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.chapter-content .info-window p {
+  margin: 0;
+  text-indent: 0;
+  hyphens: none;
+}
+
+.chapter-content .info-window p + p {
+  margin-top: 0.22em;
+}
+
+.chapter-content .info-window p.info-window-title {
+  margin-bottom: 0.42em;
+  padding-bottom: 0.3em;
+  border-bottom: 0.06em solid var(--iron);
+  color: var(--blood-dark);
+  font-weight: 700;
+  letter-spacing: 0.025em;
+  text-align: center;
+}
+
+.chapter-content .info-window p.info-window-message {
+  font-weight: 600;
+}
+
+.chapter-content .info-window p.info-window-subhead {
+  margin-top: 0.42em;
+  padding-top: 0.3em;
+  border-top: 0.06em solid var(--iron);
+  color: var(--blood-dark);
+  font-weight: 700;
+  letter-spacing: 0.025em;
+}
+
+.chapter-content .info-window p.info-window-total {
+  margin-top: 0.46em;
+  padding-top: 0.34em;
+  border-top: 0.06em solid var(--iron);
+  color: var(--blood-dark);
+  font-weight: 700;
+}
+
+/* Colophon */
+.colophon-mark {
+  margin: 12vh 0 1.4em;
+  color: var(--blood);
+  font-size: 1.2em;
+  letter-spacing: 0.4em;
+  text-indent: 0;
+}
+
+.colophon-title {
+  margin: 0 0 1.8em;
+  font-size: 1.35em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --blood: #d2626b;
+    --blood-dark: #e08a91;
+    --iron: #a4a6ab;
+    --ink: #eeeeef;
+    --muted: #c1c1c5;
+    --panel: #28282b;
+  }
+}

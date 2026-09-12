@@ -1,0 +1,7 @@
+# Preserve recovered bytes and their original checksums on every platform.
+source/** -text
+epub/** -text
+editorial/Editorial-Audit.md -text
+*.epub binary
+*.xz binary
+*.zip binary

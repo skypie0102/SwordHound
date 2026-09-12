@@ -1,0 +1,2627 @@
+{
+  "artifact": "artifacts/SwordHound-Local-2026-07-29.epub",
+  "artifact_sha256": "81bb7a5d2bccd67dfd18b4670fbf3aeab3c4ad3b80229f44c87c4119883f9eb4",
+  "provenance": "Existing local EPUB; package metadata modified 2026-07-29T14:11:26Z. Not verified as the later edited production repository.",
+  "members": [
+    {
+      "path": "epub/local-2026-07-29/mimetype",
+      "bytes": 20,
+      "sha256": "e468e350d1143eb648f60c7b0bd6031101ec0544a361ca74ecef256ac901f48b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/images/cover.jpg",
+      "bytes": 1565476,
+      "sha256": "568e4570f1b7447a25978f26a151170ce5cd794f5f0f4398f370b3223cadcab9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/nav.xhtml",
+      "bytes": 59562,
+      "sha256": "6c298ceee22c26dc18f26f7bf85fce9b5a1db5650f9e318db03875fe64ab01bc"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/package.opf",
+      "bytes": 69881,
+      "sha256": "f6f5811740e197a661289f490fb6140f40cb2d53d111ce111ba5e428d9d8e2a1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/styles/book.css",
+      "bytes": 8490,
+      "sha256": "7d144ccbafa2786b944373e419842b6f034c80e9058cae73944a154d585dd9a3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/about.xhtml",
+      "bytes": 2112,
+      "sha256": "150866460b635dbc9d827ae05a74ef7e4ef79d793ba7d83c87c11de4fe7ce4ba"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-001.xhtml",
+      "bytes": 10231,
+      "sha256": "708053a080e3ad165e30fb00513a2afdb3379accee6af481f6c585546a7e36d6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-002.xhtml",
+      "bytes": 12709,
+      "sha256": "fd187a987d1c2b79c760406b982d8918bd1e37e3da6e03e46d41c961a99310b6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-003.xhtml",
+      "bytes": 11082,
+      "sha256": "bb9c0b426d5bcbb767ae66cb94c9846b4039ff33280db99b12ebbd897a17b89a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-004.xhtml",
+      "bytes": 13282,
+      "sha256": "f3887777f2321fa9542a97a83a772f02907ea622e46a6587b2779f9f0478b207"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-005.xhtml",
+      "bytes": 14882,
+      "sha256": "ae9a9d9c9083749022092a306d3345fabba2b595914eae41d8f46abee688e61e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-006.xhtml",
+      "bytes": 13043,
+      "sha256": "9a983ce800d700a7efe24267fa3de802990dab1415d01572537c9e0be1f1c56a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-007.xhtml",
+      "bytes": 13952,
+      "sha256": "b666cd43298f6864001aa4df0841af877203f4873ba5a8e6525dd5134e6f68d1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-008.xhtml",
+      "bytes": 11606,
+      "sha256": "413a712d69d283c59ed2a1e1c01c4d0e913bcb1d896e267f52180c65bef0e89c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-009.xhtml",
+      "bytes": 16800,
+      "sha256": "4293c2de58cb6844861f69164b160f46574052c92da370bac5fdbc981a63c8a7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-010.xhtml",
+      "bytes": 13018,
+      "sha256": "97c2cd51fcc93d43b5ad0d0a9336c89d22bc93f9316a2e0741f98ca350662690"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-011.xhtml",
+      "bytes": 18136,
+      "sha256": "a4d8119704cee3161c8f4c1e0a3c3f1f1c22c1fc5eb1295330cfe923d66bda45"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-012.xhtml",
+      "bytes": 14088,
+      "sha256": "a1cd0f5e1babf83fccbf6e3e700ea4b450b8e725c8ec2d8b771eba246c5f28af"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-013.xhtml",
+      "bytes": 15460,
+      "sha256": "dbb72d0ccea88cb773e83f243dd5eae12ba8b18a72bd9490a7b188836b03d089"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-014.xhtml",
+      "bytes": 16273,
+      "sha256": "8cbc47ab84c4e2db0302cf7662b74486d9ffe17ae16d5cb254021bcbbe176e69"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-015.xhtml",
+      "bytes": 12343,
+      "sha256": "d07e815caa624d59e550c10f75394189ae28f31d59629ed837b75ba06c1e1126"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-016.xhtml",
+      "bytes": 10024,
+      "sha256": "ea83b6a5e46e36bdca8917ab16ebebb3667d2a96c010153300bb6711f901369c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-017.xhtml",
+      "bytes": 12933,
+      "sha256": "9bc31750a32d213a30c64b00b7b1dbc7881d81fa3b39d2d3a27c20f78fc5dae4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-018.xhtml",
+      "bytes": 15719,
+      "sha256": "6347ec168789c8e6404ffa63ba3df065299a4aeb2a68384d82a2f8a2c4820658"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-019.xhtml",
+      "bytes": 15205,
+      "sha256": "4d4f9b7f367979caceebb7b7222f642e0b32e0c6d56dfef5810b5b62ca829e6a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-020.xhtml",
+      "bytes": 19487,
+      "sha256": "bc55f19d2c19d0043fd39f3aa8a0139a619c1f76830b39e534a1c2d1a1a6ba8a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-021.xhtml",
+      "bytes": 9890,
+      "sha256": "81e9c9f1d0fd4875cafee4989c0784fb055a037ac7148f675d637db954820864"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-022.xhtml",
+      "bytes": 13354,
+      "sha256": "2384bb6ae8d8543b87f75643fa5eb0cd859df3db2651b142f675b9525bb7619f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-023.xhtml",
+      "bytes": 16075,
+      "sha256": "2c297abbcfa352c7756133d8b722c9d43fffbb00fb3994ff5f8b123ba6709369"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-024.xhtml",
+      "bytes": 22556,
+      "sha256": "b1b62306cf32e88b836f26fde0c03b8d1fa645dc3eb5f04e92a899e1354cb70e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-025.xhtml",
+      "bytes": 13661,
+      "sha256": "1e52d158b5cb1ad6cb4e42f3e31bb65dd4c365154484052f57a596d05624fc01"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-026.xhtml",
+      "bytes": 16883,
+      "sha256": "84442ffeb49111d1b7df9427c1e8ee1d2242df9684280adc61295fac286bc718"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-027.xhtml",
+      "bytes": 15924,
+      "sha256": "08c9fed5d1a6cea4af3840d53395c3263a0ab78fb0ee65a6aa9df9dba8f3bba6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-028.xhtml",
+      "bytes": 13794,
+      "sha256": "848d394fd632e6aaddc5cf3da11b93d50695fb380d72b6cc21ff9e9339c87733"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-029.xhtml",
+      "bytes": 12664,
+      "sha256": "8192373deab9f5b6cbbaca981fd185ed053d148b94221ffa769b705254b1b22d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-030.xhtml",
+      "bytes": 14167,
+      "sha256": "3097a424c2abf73b119401b50fbd412accccbc9b16a1ceaed3044469f8461939"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-031.xhtml",
+      "bytes": 12937,
+      "sha256": "d91262bb13862185cac5f4876a9af04b1daaffa0f7d2088c3bd9278cf4421c21"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-032.xhtml",
+      "bytes": 17830,
+      "sha256": "26b9de2f1976fff1a81e53fc8c26054a5ec860c62037bd8e342d4d72829826f1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-033.xhtml",
+      "bytes": 12615,
+      "sha256": "8a48fdf071985ac85a156de421576d2b836beb908cf8ab29cb640d3409b538ca"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-034.xhtml",
+      "bytes": 19250,
+      "sha256": "2adea08bed4887d7111d086370387ba3a240f0c54fa2395bff06f16b83c97b7c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-035.xhtml",
+      "bytes": 15379,
+      "sha256": "4056ca8f566a05695e1499531d1aa14c95244fecd89184f14409ee43f9145630"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-036.xhtml",
+      "bytes": 15681,
+      "sha256": "8aba078cc3af17dde1afdf7cbc79515f9872a6ac890f5fdbc636eeb3ab1d4474"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-037.xhtml",
+      "bytes": 15293,
+      "sha256": "0da85bde80ae4a2e0e259ec150c245b27d0a77b323a1f94af9a43cdae3678bc5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-038.xhtml",
+      "bytes": 13355,
+      "sha256": "d4043f560e0f69f710b97fc220ed08503a78492c9fddd958d7fa202b6c52f50e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-039.xhtml",
+      "bytes": 21911,
+      "sha256": "861ff96d7aae7afd8d7621a8b16873ecc27973e48e2584ebb79198defdec2d22"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-040.xhtml",
+      "bytes": 17608,
+      "sha256": "9fc2d6c7ddf347873aad130a2faddd88b308edb9931d342e96944364eb4e403d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-041.xhtml",
+      "bytes": 14455,
+      "sha256": "93f260ec9c46a8fc389b87359a90ea4574706785d0dc918777aa1058d2743fbf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-042.xhtml",
+      "bytes": 13657,
+      "sha256": "c2c8bee5e357426d58b609f218dc39b0abaf419e988105442de6c922e12d37d1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-043.xhtml",
+      "bytes": 14972,
+      "sha256": "4864b7a79961f2eaedb40e933578bba3ac65dab90e01398d5f355db199caad31"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-044.xhtml",
+      "bytes": 17317,
+      "sha256": "d7368660e9d4fb82cf0c76ee806d950884beeb6c40fe5bcc9e55093d98f20762"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-045.xhtml",
+      "bytes": 18280,
+      "sha256": "06c6b691736209344b34bd4ccb2b7df455448cccd79388fb9a9dded468d8f38a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-046.xhtml",
+      "bytes": 12461,
+      "sha256": "12a31b8c7466c3001e4b28fa84beb2599697c650acaa0c85bdde3083a1fac0ac"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-047.xhtml",
+      "bytes": 14425,
+      "sha256": "14138ab6b3de6a0e080061b0c0d01b07cb8675f775d5ed0d6642241ff80babec"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-048.xhtml",
+      "bytes": 15209,
+      "sha256": "4353a103dd1faed8039eac42ab6e0661b5fe2717e6140598ad058e8b8b92999e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-049.xhtml",
+      "bytes": 12728,
+      "sha256": "16ee960f8bdbd1736362753895685f19e329a90f7bceb45cc554899967455d20"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-050.xhtml",
+      "bytes": 15254,
+      "sha256": "5b34275c924351dc161d6aed8a0f18070d19b8b7211f42a7d6a38a8e05a93210"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-051.xhtml",
+      "bytes": 13264,
+      "sha256": "4fd1e534b4036f3df09963ec8176c075ad985ec14da1ad00ea648679caee9666"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-052.xhtml",
+      "bytes": 13527,
+      "sha256": "da8421ffc6862ed2f658d801682fc230f860121f1c80144938fd1ff666261dac"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-053.xhtml",
+      "bytes": 14830,
+      "sha256": "cae23b651807ec393459de799ffe0d9ecc342c0f8f11b76dc1f4479af7f49e9d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-054.xhtml",
+      "bytes": 15222,
+      "sha256": "e35eaffe7d1b20e0be5101e1520b6bd8e987b596428bd391bccd3ffcbe1f3111"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-055.xhtml",
+      "bytes": 14857,
+      "sha256": "f65b9d7d7d5569480cb6e4897a523666314d053b8af80fb541fbcb28119ee6fa"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-056.xhtml",
+      "bytes": 13973,
+      "sha256": "2e7533d0c3f6b60be2e4a6f7133874971458b9b99d2505917b650d2278b16b95"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-057.xhtml",
+      "bytes": 11019,
+      "sha256": "5f9221f6f375af57a9131fd0ac60dc848a85c71fa985774afaac0f8da4fc0772"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-058.xhtml",
+      "bytes": 15979,
+      "sha256": "5d5b519a16a0cd35f20682b3638df8b5269d4c28ed4b543cb1c1bf5ccca8c0d5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-059.xhtml",
+      "bytes": 15162,
+      "sha256": "d84629afc06b35a71f245f5768f6fd372e59ec6eb3110557c3f80c0095027ac1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-060.xhtml",
+      "bytes": 14896,
+      "sha256": "efd52adc4f4eccebb4d2745bc7ac51b259d98270785ccb6184857e116c7323ee"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-061.xhtml",
+      "bytes": 14990,
+      "sha256": "1393c2e9b9dd5eb15589e074adda39c22617580cf59187d71d60e6e864b0dd9d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-062.xhtml",
+      "bytes": 16401,
+      "sha256": "1161f76a511ca7e07a9f59a6ce0f62769659dc009e6766dcb07c5640ce1c0e37"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-063.xhtml",
+      "bytes": 15379,
+      "sha256": "d27239480ef75f9aee1ff820811120a70162a8789883dc597cf3ad1b252084b3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-064.xhtml",
+      "bytes": 21553,
+      "sha256": "a7cb3252d04ee1068c8a336608bd20d1a6e7760353a28e432e1fe66260eaed05"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-065.xhtml",
+      "bytes": 20418,
+      "sha256": "f6f51721f6fcb6ae8ed5ce37650bb3ac1fc6ef271e522aa98f71b9e00758c4b3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-066.xhtml",
+      "bytes": 18248,
+      "sha256": "1063361058cf84c3b669d552bb34b7dbc7b68d3a580e1d20a30302e844f5801a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-067.xhtml",
+      "bytes": 13349,
+      "sha256": "928c84c11e690a58d91427fa7c5d405699a47526b2c1a299901f0c570ab20e54"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-068.xhtml",
+      "bytes": 16222,
+      "sha256": "a73e2b4b7ba0912185cdaad7334437991a7103392f9051d8fd71c1be17fccaf8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-069.xhtml",
+      "bytes": 14916,
+      "sha256": "5a32a40551b71bf718aaffe8e31f5b6cc8e44014aeba8546dcf63f52d003faa3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-070.xhtml",
+      "bytes": 14088,
+      "sha256": "0c3772adf314160409c3597c27d14bcb8839b2508073904f7dff2d33ac19ee41"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-071.xhtml",
+      "bytes": 13718,
+      "sha256": "e83399f79f4b6c3924dd3268f8eac40717bb6343b98932f1af04c00343ebe51a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-072.xhtml",
+      "bytes": 14853,
+      "sha256": "55c8963cc2ce559cad63be71df6e38d680653ee2bc850c9c925d350ede1486a1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-073.xhtml",
+      "bytes": 12858,
+      "sha256": "61ea8ebadee85386b2afd0e8259aa5da8cf8573bd04571a785124baba51d9ed5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-074.xhtml",
+      "bytes": 15442,
+      "sha256": "ff9f309de13de3f22434075e1bc752ecc7f31837be67dcd8f28a44f331bb2c52"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-075.xhtml",
+      "bytes": 12513,
+      "sha256": "9541bbf3485845c080664d6a485c9ac27cf71406ba2d3ff3e25c237041768847"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-076.xhtml",
+      "bytes": 17785,
+      "sha256": "e2628823808802c03598ee002304ca706142f0d60d8cfb7899c3723073acd7e8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-077.xhtml",
+      "bytes": 13401,
+      "sha256": "790a2ae585d7ac8dcd110a9ada838eb8c2371f2e7ec38f88c23da48b0e074de6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-078.xhtml",
+      "bytes": 11638,
+      "sha256": "e8d4d84faf6f66f0f2e630d96b678d4e91b1758d3a5a08c6ee7d1dd333a3b8d5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-079.xhtml",
+      "bytes": 12420,
+      "sha256": "ccfbc5a7d6db7d4f647a4c0333d3f7d38043db1ced115d8a66695e4589576c23"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-080.xhtml",
+      "bytes": 12713,
+      "sha256": "a499af90db7405e46b069095b8e0a2d9ecaf77297c1bfd14c0386287c32999f6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-081.xhtml",
+      "bytes": 14098,
+      "sha256": "2a89c8e1cb010a7db86bdc79eca4339d81ee392db00a0f8075af8bc7bc24a80b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-082.xhtml",
+      "bytes": 12905,
+      "sha256": "8a1fa5d5d84244b7dc280e233c2ba50782f7e64ab155a98a57aeaea39f01fd92"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-083.xhtml",
+      "bytes": 13565,
+      "sha256": "eec18dcc963ff845eb6ccd58b357f008f0b8007cbc223f39ad8f4f6de35829c4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-084.xhtml",
+      "bytes": 14374,
+      "sha256": "2bb5c6741baddab91fa672a0f551ce3f0b533a41b76e1653e6876b7135dc52eb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-085.xhtml",
+      "bytes": 11635,
+      "sha256": "775a1a143584a6ed67ac905876c3613b6e80cd36782607f8921c895fbf724f12"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-086.xhtml",
+      "bytes": 16935,
+      "sha256": "52ebd4be737ce00237e24bcd907c1e45ec1f26d7383e5dbcc7263a342aba3766"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-087.xhtml",
+      "bytes": 13975,
+      "sha256": "0ee60d5cd67775eacbba01011e0570409f8a2db1a2be34427e42c0c3a673e2f8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-088.xhtml",
+      "bytes": 14032,
+      "sha256": "f5de4ecb4be234b47f9292dc8763f1c4ce24a8e95092ef05eaad746e4339e63f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-089.xhtml",
+      "bytes": 12378,
+      "sha256": "59fc5f25476272b07ba3f100ba9c4df20be40cf89948b9261d3a232b08946fdc"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-090.xhtml",
+      "bytes": 13266,
+      "sha256": "14ca0d72d969b0b257f01de22bec3e92a0b7f6716fe5be27c68eda74d7546111"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-091.xhtml",
+      "bytes": 12903,
+      "sha256": "e03ead8b769bb36ef81c316c7a29ed97e44cc48a7a0ed27d89f45724c7d0d2a3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-092.xhtml",
+      "bytes": 16151,
+      "sha256": "9ec9241cd1e07b568020376d502cb48cb598b962a0244775919a5fa22a5a4d80"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-093.xhtml",
+      "bytes": 12877,
+      "sha256": "6d2726af65e98b2c489900eeacc47fa3b86ba2cf43e1c97473aa9a7ff939d82e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-094.xhtml",
+      "bytes": 12482,
+      "sha256": "c281ef9867613bcf8a623e676ed465e717e9ee65c2947b940328c771c964ee11"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-095.xhtml",
+      "bytes": 12093,
+      "sha256": "7644d79f965899ac6af51ab1f744508a32da13a156d872520fc588f7cfd5205d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-096.xhtml",
+      "bytes": 15440,
+      "sha256": "836a3b0b4aaf8424e5943ad69f48a706ddd2c3001da133907d3ff6acedd21f12"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-097.xhtml",
+      "bytes": 11963,
+      "sha256": "4f4cf2b6f76f707a5708ce0d9cf82f9ad4c719b83e3f83133b54a071f690208e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-098.xhtml",
+      "bytes": 12527,
+      "sha256": "c8f40dc50ce0009ffd127c9f4b2c9b431ad6f03e2b5e5241a35b6ae5b851a061"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-099.xhtml",
+      "bytes": 15889,
+      "sha256": "228919c8c2b66f823178ebd80f1c6fe3d15d1f27b89b296325aab96ef2811551"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-100.xhtml",
+      "bytes": 13027,
+      "sha256": "a4f3a37637102fb51d299828d9babe1fa2fffc8ef171658cfc03dba78315ce10"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-101.xhtml",
+      "bytes": 15193,
+      "sha256": "1a912286fe3f135cdd9720f4466442a6ef762053baa954102777f1e366862ded"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-102.xhtml",
+      "bytes": 11902,
+      "sha256": "753d77a67a600c1e85cf01f564fa34ab34a632a09f915e98be5d9a998fc5eaa4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-103.xhtml",
+      "bytes": 13887,
+      "sha256": "b5c88321715e02cc4477fc5adcf971250cab8fc62d3126a2a27a953bca0b8478"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-104.xhtml",
+      "bytes": 12748,
+      "sha256": "770fc74d1006022497ea2ea78e42d354ef76ba7b5369c46caec4ee5ec69e7858"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-105.xhtml",
+      "bytes": 15019,
+      "sha256": "528595c9ef83f1330bd0e96cddd07d21d4220130a2170694fd0f098506cdba1b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-106.xhtml",
+      "bytes": 13884,
+      "sha256": "d80eedabe1e934dfd95747eee993b8f9905c0f470852edc5fa962c1090aab088"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-107.xhtml",
+      "bytes": 21380,
+      "sha256": "465cb0a5410cac36977407f6a76cdd173bed988e9f4990fda2664178529ef1a0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-108.xhtml",
+      "bytes": 15894,
+      "sha256": "ca7d3c4cde605aaba3318754eaa6f5fec6ecc9760b998b3346def65230575b35"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-109.xhtml",
+      "bytes": 13106,
+      "sha256": "f64b59823eddad2dd1c86f6103e189a1395c06f0511fca172c2540d2e62fbf58"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-110.xhtml",
+      "bytes": 22454,
+      "sha256": "fb10ae65032459e6448c33b6927f0753b89c213b0958ccb6e36ab703c320efba"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-111.xhtml",
+      "bytes": 12970,
+      "sha256": "7c5a6ed39fbbf2a8a06d2e2c7a8ab0e71a0e1fdbde0e3a500965ccb785d45313"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-112.xhtml",
+      "bytes": 12899,
+      "sha256": "9aef47256630ae5a8249828d3eb4bbe03cf374e800d7b387215baa9c57b39814"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-113.xhtml",
+      "bytes": 12706,
+      "sha256": "44b688ee52ec499a545e7fc2dfc26038af0518fa94cde8d79f70abe4a9fc546c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-114.xhtml",
+      "bytes": 17203,
+      "sha256": "e2eaa0ec9dc02bb7b2d759bf542d9f431b6ab2e197caf3f43f379c1cead56a5d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-115.xhtml",
+      "bytes": 13971,
+      "sha256": "77b5fa1ce35d6d83e3d4238d4259ef8744f573956fc20ff063dc5351dde2666a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-116.xhtml",
+      "bytes": 16501,
+      "sha256": "b71e3e73bcf6c368acf8bfa7659553ab0bb34c27abcbdd3f76e48d8dc0995eb5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-117.xhtml",
+      "bytes": 14261,
+      "sha256": "1c567ba0629a3b9a39b12a8e7680d2b5a011ddaf6d515455e07338965f756bbc"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-118.xhtml",
+      "bytes": 13600,
+      "sha256": "d5e8ef4fe53d9431005584fd23f6cd1e210ec1bcaeb327e9485117db64e39aa7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-119.xhtml",
+      "bytes": 13095,
+      "sha256": "a1b4a82ae7eebe60b24a3e80a5fd005c86bafce30ef3c654783a18dc53e11191"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-120.xhtml",
+      "bytes": 14248,
+      "sha256": "b1482c21314881d98825ccf48b1a1bc6fba354160093ae1b4b8668d3ef940e00"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-121.xhtml",
+      "bytes": 13937,
+      "sha256": "49ccbf4bb80af44aceea41943a24ae83e70163f99d2460a2d0be21a847724eb0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-122.xhtml",
+      "bytes": 13410,
+      "sha256": "9a8fc512ca599079bed61ffe5caade4d520910ebdf2e63bee263295df3de59be"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-123.xhtml",
+      "bytes": 16830,
+      "sha256": "4a7d95fa7758ef81756d1b9438ad973c4f168eb0ccc4810194d52825b00e57f4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-124.xhtml",
+      "bytes": 12505,
+      "sha256": "fbf4602cb03adcc3072cf37357d51ecafcacfec8bd5e709ce7b7146dc12dbd9a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-125.xhtml",
+      "bytes": 12226,
+      "sha256": "068b99339ce7ec2d3b22fef0116944fa250753a3169f69146848c76d7d52f238"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-126.xhtml",
+      "bytes": 15690,
+      "sha256": "01681f9fb5cc3e35e9179a8a25749d23e07b2dccc9073d6817be6f93765ea1f7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-127.xhtml",
+      "bytes": 12621,
+      "sha256": "b6fbd722de3f08f7a83cdbabcd5fed7ce034eb3c9f882c8a1787941b2af6b5d9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-128.xhtml",
+      "bytes": 18613,
+      "sha256": "363498ee703ba5d28338ffa1f11cabf5df26f04a3af7dce6ea306d3ed04ff3da"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-129.xhtml",
+      "bytes": 15368,
+      "sha256": "6a6281c58acb20e7d6d57062ecc8b300ccf9cdf76cc940f8f320e1b05b6319e6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-130.xhtml",
+      "bytes": 14559,
+      "sha256": "8a5d04f03f245631bacca66152afb40e495452b8d1d4294eb23d6106042d3fd9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-131.xhtml",
+      "bytes": 13994,
+      "sha256": "02708ff2a7d5856ebe5eb409b4e1bb0c131bdb7e120662e32877e4f591664f49"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-132.xhtml",
+      "bytes": 19089,
+      "sha256": "b6948c6d6c91969b21fb66c01abc7b5dd4455fdb6514b25d3f9d956fd5d9a05e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-133.xhtml",
+      "bytes": 11608,
+      "sha256": "e7b08672c23b9bb1814e97182de584bae15bbf964496b7e873ac128cc7bddb15"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-134.xhtml",
+      "bytes": 16094,
+      "sha256": "c7a6ca96f697f9ed03fb3f25d330be80723d6aaa301dfba9b1b408658bf80e80"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-135.xhtml",
+      "bytes": 13739,
+      "sha256": "169a7e791c5e5b8d67c48e4d60bde4ab3f60015c3321b90207061f3e5f5fa80e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-136.xhtml",
+      "bytes": 16750,
+      "sha256": "b1a00cca05c15dee32a25da908baf0a24cd80a841114c2d10a0fcda1ce1d24b0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-137.xhtml",
+      "bytes": 18879,
+      "sha256": "c810e633337df95d8f25fbd4ddad93e828134fa101ad30003aad0e32ae1ba03c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-138.xhtml",
+      "bytes": 17283,
+      "sha256": "5157c5397bc2c98d5495ae87b4fa79ca0d6831562fb88d8efa62bce073480c96"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-139.xhtml",
+      "bytes": 17266,
+      "sha256": "9c873331488595c50811dfceb9f8cfccd6ff0c1e11f95c2ccf3b5e8b589d6608"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-140.xhtml",
+      "bytes": 17607,
+      "sha256": "95de8bbf837a48f284aa9f1833307e81fec88af05e5dd616f9bd7f8a90f048f8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-141.xhtml",
+      "bytes": 16583,
+      "sha256": "6d9d3784f1c364faf171cf4dbf861c6cf1ec302a2bca78e14a9c8e418fe925b7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-142.xhtml",
+      "bytes": 16402,
+      "sha256": "dc233657339faf2b37221d12e240928482f47d2718abe40d06af2db55127f082"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-143.xhtml",
+      "bytes": 11975,
+      "sha256": "91044a4ee78fa5286a6f9d399f25320d9e9c78e76492a502ffb88f90876ee6b7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-144.xhtml",
+      "bytes": 15390,
+      "sha256": "22de7b8779fd47672046919ade9a1afae24039b921893b1ad97499cd415eef7c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-145.xhtml",
+      "bytes": 14273,
+      "sha256": "25abdefae4b98e26dea0d6923832e884505455cf7f46ec04043f72cef6632064"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-146.xhtml",
+      "bytes": 14319,
+      "sha256": "3a8f57aeef30d5a276425b5e7e0b7b9ebe2fcec7b2b356720de1bde95e3703fb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-147.xhtml",
+      "bytes": 14684,
+      "sha256": "38a239f16bdd604d176389ab1c2bd1faa7f846a3b058907db6131e6acafdad38"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-148.xhtml",
+      "bytes": 20660,
+      "sha256": "708d1236695f5437ea2898f8c1838838b9c562e480b18622274d7f382a60fa00"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-149.xhtml",
+      "bytes": 14621,
+      "sha256": "692c22bc60b7d145bb532dbcfc90f74546c454d05272c5a988a948eb08a2cd06"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-150.xhtml",
+      "bytes": 13054,
+      "sha256": "7f771583e4a1e4008fa63409da04cf9d9cb0a4606783209404be58bf730c9177"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-151.xhtml",
+      "bytes": 15533,
+      "sha256": "6d1ce0086444554a4ac22cb9fce63b816ea59a4b6585657153f475e3667e647b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-152.xhtml",
+      "bytes": 14314,
+      "sha256": "dbfba23270067054726b8a8fcf477077b8c8171a4d83ac5b04c4cdcb38e92d68"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-153.xhtml",
+      "bytes": 18441,
+      "sha256": "49cbebc02c698cfc08174cb6f812f0d34c0cd3579cc6968a7dfb06b6d449ae63"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-154.xhtml",
+      "bytes": 11094,
+      "sha256": "ec0e91c9719831c056af0c43ee0cdde835b8d62a7d42ec2fd2c96c8f37700970"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-155.xhtml",
+      "bytes": 11776,
+      "sha256": "6f00499ef46c4f034b86c30c50ca64a45f21e0b8f5966177df7eb1cbaff04fa8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-156.xhtml",
+      "bytes": 12184,
+      "sha256": "8fb2586bb9daf9ec448ddf8f5d111ac3248ca21f0ee3f416ef3adb80db311b3e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-157.xhtml",
+      "bytes": 13966,
+      "sha256": "fd7bdfe3ef2b3397c2f40fd3a086936e402b4c08089af5af7528d2d237b5c6fe"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-158.xhtml",
+      "bytes": 13008,
+      "sha256": "91c23aa9b70b87f0c132e1e3a2db8a4a424f1b7e3896b935a9e1b76d54ea5f59"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-159.xhtml",
+      "bytes": 16612,
+      "sha256": "bf460f53f88a5fba6a422fbbf922e410e41486268cb2b4d3329f528f98529646"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-160.xhtml",
+      "bytes": 13781,
+      "sha256": "c050b3aeefe560e7539d469e5651ab3bb1950b15064810c1fbedf0c15c3074b7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-161.xhtml",
+      "bytes": 15256,
+      "sha256": "a400edac23bd940feec36dcfdcafe5f366858933932c50d321ca1f89321af68a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-162.xhtml",
+      "bytes": 18334,
+      "sha256": "13fbccd520cf60d940a8594e74148c33a10f37eeea41c5fc657e8f19791e0453"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-163.xhtml",
+      "bytes": 16565,
+      "sha256": "c2f034054ea140a1d57e15a6bd569a9e70ff2144ce51b4621b390c1a62c5345a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-164.xhtml",
+      "bytes": 11755,
+      "sha256": "618d2655f929657f14c86b9048b0cc217574d7fb832d5bcac542cb56b09b94da"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-165.xhtml",
+      "bytes": 14027,
+      "sha256": "85dc9f251136dedb9039dbcd44a57c88f031566f2bb3655e9f130a5f06a6d921"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-166.xhtml",
+      "bytes": 14262,
+      "sha256": "960da731014e2bede95fd4df1dbec15e61ae4352acde27143ec43a46acedb895"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-167.xhtml",
+      "bytes": 11653,
+      "sha256": "8cccb6caeb08a70d786130eaa25a5ea1777749d4e41dad7f415af4de540df2d3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-168.xhtml",
+      "bytes": 15499,
+      "sha256": "8bc9dfd0ad96427760b1cd2c18928826e2974ecfb3fb5288213c48049bf52ac5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-169.xhtml",
+      "bytes": 15640,
+      "sha256": "bd6af3f38c2bec15f8627738922c3e93713c5817c060e8fe572e3ba0b1e910ee"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-170.xhtml",
+      "bytes": 18063,
+      "sha256": "199621bd6f89780a9b2db87fdec294520510f070353ede5cf30148f039e3b744"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-171.xhtml",
+      "bytes": 17834,
+      "sha256": "17d366288c06639a9b4486e3cfdfeb56bd92533e88c951b577d7738f62f4677b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-172.xhtml",
+      "bytes": 18242,
+      "sha256": "c4cd23f086d9aff7454c1339d0ce3b5e6f413c52d7e4a69403d49bf962e970a2"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-173.xhtml",
+      "bytes": 12357,
+      "sha256": "a52f3bad1e743401e273c600cbc9d444314687a15016a200d9ea7d302212023b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-174.xhtml",
+      "bytes": 13439,
+      "sha256": "51310556c002e9ddf694e223299da4538e758b37284c86b264a308ec3c6b1756"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-175.xhtml",
+      "bytes": 14838,
+      "sha256": "871e0b11df42fbdf87d3ddebabef07345ced60f54d88ba46c8deac4582849000"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-176.xhtml",
+      "bytes": 14756,
+      "sha256": "f23ed23e366c2db96969a0dbd1cd88d06bb6d8eda55425baa5c4dff21f6a281b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-177.xhtml",
+      "bytes": 13993,
+      "sha256": "31662987c4146231b0631ae67e14258064cc22fe6bf5eaf82e8cbd1edee660a0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-178.xhtml",
+      "bytes": 15433,
+      "sha256": "6d3b9ef37571bfbcb6ba4da9a2b43fc852615ee54195b3fadd1841f01f5d2862"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-179.xhtml",
+      "bytes": 19771,
+      "sha256": "4802dbeae6b5e8f3ecd5ea03c5588fa5569fa1a48109b94b9160174b1c66e8e1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-180.xhtml",
+      "bytes": 15977,
+      "sha256": "40411c5386ede5518374ba4ce4a38d084f765882b3980c14069e8e970988e57f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-181.xhtml",
+      "bytes": 13999,
+      "sha256": "45853c80e32d7ce4514afecc5fff08aeca68e2a75a8fbcdddf6cc605c646e3af"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-182.xhtml",
+      "bytes": 12838,
+      "sha256": "acf47d65a564c4cee9c80b12919eb148697cd954332a70df8fd636e798329d22"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-183.xhtml",
+      "bytes": 14569,
+      "sha256": "283728952c5fa1e08943ed11d3762acfdd4358d86a0a390988cdff019333c7c6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-184.xhtml",
+      "bytes": 13823,
+      "sha256": "7dc63566f37992c98a2426c90fd665f25ad6ac410c7293f920a3634b7a1fbf99"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-185.xhtml",
+      "bytes": 19751,
+      "sha256": "120818c5c52e6ffd4cfee6c52917ae0b314678f378f47d90a07b961a3b74e17b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-186.xhtml",
+      "bytes": 15542,
+      "sha256": "bf89815eba0974302405cc3e40cabdf1893d870f98942e35b3e6f5c1d6560a93"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-187.xhtml",
+      "bytes": 13888,
+      "sha256": "e50a3cbd643fc6ac838239eab811bd90e625ae008ff86071fb099270fc5f23fe"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-188.xhtml",
+      "bytes": 16100,
+      "sha256": "8a2b2543b21501b90917eb1b4854786c70d97785d7d7fede552b7aa518f88f4e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-189.xhtml",
+      "bytes": 12403,
+      "sha256": "c23e45a88d07e1f5f4bd4e7602d041d9420283d056fba0b935e8bb8bed2c490e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-190.xhtml",
+      "bytes": 16630,
+      "sha256": "22b541bdd014ea6787d17c18a7eae1f4aa74ea12fdce472069c1be12a365deeb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-191.xhtml",
+      "bytes": 19357,
+      "sha256": "74e49a2e9977cbc8e73ada65966aa77f73a3318b496cff6cf52b9425bc43f990"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-192.xhtml",
+      "bytes": 12300,
+      "sha256": "4f955bac06bf6cd4b4cbe0ef32290cec7f566330444d50bdeb6c9bc9735e742a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-193.xhtml",
+      "bytes": 14283,
+      "sha256": "2a04672f0dad6287812687ed09cd3b3e379db8c238d0055471dca50cd660670a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-194.xhtml",
+      "bytes": 25935,
+      "sha256": "d98320f217d7f7d979293418d805170e11ca065c0ca6f07f37384d52b5d058f4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-195.xhtml",
+      "bytes": 26898,
+      "sha256": "13259c5a7d6424240174bce8aad5e85926fdf6847914d92295d26a291ba38ab5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-196.xhtml",
+      "bytes": 12127,
+      "sha256": "e1992f94790a8671d983ce258b33a85d0f5a676cb82430c441c4207f3e15782f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-197.xhtml",
+      "bytes": 14260,
+      "sha256": "7fa57e83efc82a166022ec0ed1e500eabcd35cb540f32cf2104d6bf27a9ad730"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-198.xhtml",
+      "bytes": 14485,
+      "sha256": "f749c7c9d8bbfd74b157e2c1c0f1dda7b71feb05df125449a533058d3caaaadf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-199.xhtml",
+      "bytes": 13319,
+      "sha256": "4f900aef5b538acad4e582e83aa9c4341f2b632294f76256f291234cceff3003"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-200.xhtml",
+      "bytes": 13050,
+      "sha256": "2bd4cd48991bd1d7162dab1f68efdeca5026e82889a4c3f69dec0d1350ee33b4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-201.xhtml",
+      "bytes": 12811,
+      "sha256": "1916d7c62a49abd1b59d98e810055d0ba5ad3a786f203ebbb93b96e7778d9921"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-202.xhtml",
+      "bytes": 15054,
+      "sha256": "988a8e2124b2ef6eb13b70ed0eda63eee1200f51b9a09995154f7dc8a67df315"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-203.xhtml",
+      "bytes": 14493,
+      "sha256": "e78fe4dac588938ea8a95bf90a7bad9832ecbfd845e8351aef3a8de996496679"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-204.xhtml",
+      "bytes": 13819,
+      "sha256": "6af9db7f6ec928fc0e6810eeac0f67a97b128fbc612b2b243a136eb85b547261"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-205.xhtml",
+      "bytes": 15466,
+      "sha256": "2f7db684754a294576bd189e9368ab95a9d593a6c78e3e0485378ccfccd1d9b1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-206.xhtml",
+      "bytes": 14315,
+      "sha256": "c2abb57c63db0cf925ac3985246cb8c9d1935db97c198f2bd6c8126e37ba4a35"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-207.xhtml",
+      "bytes": 13995,
+      "sha256": "48bb58fa1a2c645f73cf091a7014249a2ad06e687e72792d8dd28744b4ce0474"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-208.xhtml",
+      "bytes": 11835,
+      "sha256": "690741e35a594e66ea1ed72d852c9690f028a567f2126aa185e3db194c749feb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-209.xhtml",
+      "bytes": 14092,
+      "sha256": "3f1a5bd2b2bbbfc5c3d02b93f2c68d773371a4b42223122f6bb97d5d1eb87509"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-210.xhtml",
+      "bytes": 12496,
+      "sha256": "f4d767063f1dde8052d4be6c289c4edd621b6005e568c57132406d55761423cd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-211.xhtml",
+      "bytes": 12653,
+      "sha256": "c77d7aae22f35a994c45a74f3aea1f68b9555734214d52272983a63374fa8c1b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-212.xhtml",
+      "bytes": 15713,
+      "sha256": "8e0574c8494d81580f553059eb383234fb49263692c96a1c18759018d7ffb710"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-213.xhtml",
+      "bytes": 13272,
+      "sha256": "150daf11f10cec0cd881be2d0bec925f9565b9165d385b155da0c11ef6d177e5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-214.xhtml",
+      "bytes": 17644,
+      "sha256": "39850b06dd174988eb53d9d185e4115c4af9fa6ec05930225bbe426756ad9f77"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-215.xhtml",
+      "bytes": 14027,
+      "sha256": "914ee23c863e6123fe8810fc1701fe74537a94e8b66c2e60f78597c348cec7fd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-216.xhtml",
+      "bytes": 12739,
+      "sha256": "9e0f408127bebe30764c9d45dcb967d2ae9543ccbc2f263ead3c0fd2e3410617"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-217.xhtml",
+      "bytes": 16642,
+      "sha256": "9826e7ee21face6de38898a00c6b5fc628b71fb8e0473627882d20b7cd32fb69"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-218.xhtml",
+      "bytes": 16422,
+      "sha256": "146ea18795d4efd38fa7c24c2d9d7c7528bb4b72147cc33f8a697807636df435"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-219.xhtml",
+      "bytes": 12850,
+      "sha256": "94615a50dd3c8c26b2e5937decdeb5a6840ce24c21984d23479a9168750543ab"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-220.xhtml",
+      "bytes": 18089,
+      "sha256": "51117fabf9e27a815c4282c95d446359c6c2b913cace529bc330602033bc3aeb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-221.xhtml",
+      "bytes": 15241,
+      "sha256": "ea2b1c4ddd76bf000721e3f241a3b43caf029f8b6c2b186af38887ae7402ac65"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-222.xhtml",
+      "bytes": 20409,
+      "sha256": "95053b9f60801b74373f909cf8e7552bdedce03881a2d0bf0e0c2246eccb36e1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-223.xhtml",
+      "bytes": 16333,
+      "sha256": "1420638aa173bb0012f5210a68c8d24ac76a0544a401269ef5f5424ae415ba11"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-224.xhtml",
+      "bytes": 13120,
+      "sha256": "2cda55b19a85f74eabc5d6395eb62a3752eae2d5472b4290e0fcbfb83909e3ac"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-225.xhtml",
+      "bytes": 13139,
+      "sha256": "d087415bd30961325cb555587634814c013c03e4516d393ff4e75f46c8950bac"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-226.xhtml",
+      "bytes": 15260,
+      "sha256": "3acbfadbb003f6f6591d1a3bf7e3a9c7d4fd1dbe4e2e13b554fd5d135b648173"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-227.xhtml",
+      "bytes": 14521,
+      "sha256": "2b9026db0144d48b5603d8781833536fdce6652722dd3513b967408ddec9543d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-228.xhtml",
+      "bytes": 15149,
+      "sha256": "09b62433449296cd4238bd84b6a55b56bd8574758ed4a889b06ed413693ee7f3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-229.xhtml",
+      "bytes": 13375,
+      "sha256": "482b1faf42961d414462b3eac5b6cbe020812369f78cbf4e2579f7a90aca0f0c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-230.xhtml",
+      "bytes": 16608,
+      "sha256": "b43bb2bea7e4975d0b784526428c30b268244f56ef555b665e6e2845504678ae"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-231.xhtml",
+      "bytes": 13309,
+      "sha256": "127e25cfbce9c9d5af7b619491de89d92c83f5e7832336687c51e9b8479cbf92"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-232.xhtml",
+      "bytes": 16326,
+      "sha256": "4c9130555d150405007c4d61a32fe78be912b26f7e48a59b9d9da5ff430e60c2"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-233.xhtml",
+      "bytes": 18924,
+      "sha256": "a41f0b64e4185976b454a00ba83645786eafb74c91fb65af7d687657a6fc0ec2"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-234.xhtml",
+      "bytes": 14764,
+      "sha256": "2b06e4a3d4f2da396fc59e8c716f61fe92170d09a1fcd7e1ba8cc0f78f458cbf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-235.xhtml",
+      "bytes": 13775,
+      "sha256": "084c7f5adcd17140a40f44650372e963cd5446735d2456c1c1cad6183a37c671"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-236.xhtml",
+      "bytes": 15060,
+      "sha256": "e56b263215034fca822acbeee28d769bd5216e4b53ef72bfcb4d3bdcc293239f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-237.xhtml",
+      "bytes": 15002,
+      "sha256": "bc7a8f9f4c58688a864265686f2e8b09ebc04eef946186ca8f01236bb4ecc00b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-238.xhtml",
+      "bytes": 15692,
+      "sha256": "945dc51c7f9db259712624402e7cb355b3e9b493e5dac2abc929193ea5f5fa7e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-239.xhtml",
+      "bytes": 17776,
+      "sha256": "2f3c56f2f953fb9e7b15c39ab33687f1e75b9b8b49af648a99863f54398f31c5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-240.xhtml",
+      "bytes": 16719,
+      "sha256": "d389e6e76fd0fb6eea7ab22401ec90217dcdb500ee8bc0836152fb4260276b90"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-241.xhtml",
+      "bytes": 15359,
+      "sha256": "f811a1d2509010c1229510b282f1e8bbcadd56d07dc4100880d872ff413214f2"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-242.xhtml",
+      "bytes": 18553,
+      "sha256": "9f72b43f28e9c41bb31accbfe63e453c5a710df3c992e02b5d5cc847eee99e1d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-243.xhtml",
+      "bytes": 15246,
+      "sha256": "8375aa09a63d72295521cfbc714a3f6c378b6b7176b4063953e8efc26d9fca8c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-244.xhtml",
+      "bytes": 13851,
+      "sha256": "9fbcee3f4ec24e98e3a77d86aca30f4bfff6e9e8c79b492f5f8f1d1cd40a679b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-245.xhtml",
+      "bytes": 14156,
+      "sha256": "4d9275aa1ac8a83cccb9e610de6ae63592215c14920be7a9d5344d7586d4064d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-246.xhtml",
+      "bytes": 14534,
+      "sha256": "b1eba346b69f23bd2ab2fd7770da444c34c24d4a887de485ed7f8c3a1650595d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-247.xhtml",
+      "bytes": 14540,
+      "sha256": "6bb764570c577f741c93cbbed71c25ac80ed0898887e962d28b1e4a9c3683ae9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-248.xhtml",
+      "bytes": 13875,
+      "sha256": "44a546b5b5ec1095e2e442797d320f2fdedc84c6692fd30d2735db73e380cbdb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-249.xhtml",
+      "bytes": 15880,
+      "sha256": "12f381d13545624579ac0e6e11ea3c68f4f8456953e166994db93c3466dce6fa"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-250.xhtml",
+      "bytes": 15007,
+      "sha256": "5d4fb4f437dfd3eeefb33fdfd6043ab5936bf3e18a96c10adefb47fbcc750c78"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-251.xhtml",
+      "bytes": 13849,
+      "sha256": "b64c7914d3ab1b52f5718a8ff486121478c13ea962ae4372f9b86052a8191ea7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-252.xhtml",
+      "bytes": 15071,
+      "sha256": "78ad770440c7e9fa33bc7f3fd41fc8478bde45f922a2c2ee581e20ec71d98dc7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-253.xhtml",
+      "bytes": 12973,
+      "sha256": "9ac056872fd66e9e9d8082dca1c7c8d481e771e305594488c668c4034474e211"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-254.xhtml",
+      "bytes": 12608,
+      "sha256": "d32157387936cb9fee2435797cc298c807b879a10b6f529f848c53cf7f659efb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-255.xhtml",
+      "bytes": 11793,
+      "sha256": "a00c80ffc98a60bf9ed5d1b37e36cabcd23abd0a30361c4698469bc3b04a65de"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-256.xhtml",
+      "bytes": 12694,
+      "sha256": "9b22ada4dccdea36d50627d93b196ce9076d221bb44b18a191c1e65dc89b2801"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-257.xhtml",
+      "bytes": 12794,
+      "sha256": "874b2c2a0e44a34c6d4567df9286b5ef77e30c3413489f49912188888e8c581e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-258.xhtml",
+      "bytes": 12503,
+      "sha256": "8543ef905989e0f1daf434edf241ba955901efe6f34d1495e19ec7ee17a9a181"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-259.xhtml",
+      "bytes": 18833,
+      "sha256": "a161706a857f69b0fb5de7fd299f68cc92ffa8b724937d798300d736bffa35e9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-260.xhtml",
+      "bytes": 15365,
+      "sha256": "6740b88627aab7be6816a6d0b110d6cfde6bc75954faec9da7e766f4c0931793"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-261.xhtml",
+      "bytes": 18165,
+      "sha256": "6833ffe14297db1f1c556f7c9b3d706833a2e8699cea86048d9dffe45ebfaca6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-262.xhtml",
+      "bytes": 15713,
+      "sha256": "c1580e8bde8dc728e43ccef80da8e846f6e8ad977c2db9967ac6825adddd1146"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-263.xhtml",
+      "bytes": 17954,
+      "sha256": "cf1b73cc3efe39d8a16d21a210ada0bc4101dca2cc7bfc79fab20b0cd71a9818"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-264.xhtml",
+      "bytes": 14278,
+      "sha256": "55e7339ca85acb4cbcc24b60bda669a21893e8017d69104f0bcc241ea0bf5f5b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-265.xhtml",
+      "bytes": 20565,
+      "sha256": "caa84a0b0d35fc1622eba17b170df645be00113c12b5b3e0ec380a3538cdde8d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-266.xhtml",
+      "bytes": 14129,
+      "sha256": "283d56c00752ccc0d4af6348841eedf8edbd111f53183ef13d895362d7b73baf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-267.xhtml",
+      "bytes": 23115,
+      "sha256": "66b7096b7dfb50a0db0949f89006dfe40d5d9b786df4e5fe930df4b16d6c281a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-268.xhtml",
+      "bytes": 14428,
+      "sha256": "d8c601e7c0c690417b8b2cba0e10ede1ef5275f7d791fdbf002547fcc676f6ce"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-269.xhtml",
+      "bytes": 15180,
+      "sha256": "9d8e72cfd999811079c013e75c32671d6ab2706eac27ffc2c7702511f59db820"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-270.xhtml",
+      "bytes": 15408,
+      "sha256": "bf49af2c2035033cbf5ac5137ab1d69b41f9369929d62baa64bfa0ff576b7a86"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-271.xhtml",
+      "bytes": 19599,
+      "sha256": "f663c47d2fe8a6900ac8dd6749e363cae17cb00ca8b0e4150265c5b7aacf2a2e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-272.xhtml",
+      "bytes": 16056,
+      "sha256": "8033c8910b82326b3d7a81cb56b555a4425fdd4ac121fe94d9f3029b7c51b998"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-273.xhtml",
+      "bytes": 12943,
+      "sha256": "bcdb659c7ed08c123639b6e74c3a308bb1b3b20dd4dd76e97a46cecde5122b99"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-274.xhtml",
+      "bytes": 15589,
+      "sha256": "0bf17417c2c84dae48b27584fa35395f0ebc03dd1c4e50c15c12f6dec7f2df33"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-275.xhtml",
+      "bytes": 13816,
+      "sha256": "69304f5862c393918785d5d127cad12bc0e7a028a55b3a4a12518c5d9ba0a5df"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-276.xhtml",
+      "bytes": 13671,
+      "sha256": "7657b0a15991b852aa237c70f761908cae08c108726eab313a580ad14e8f1855"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-277.xhtml",
+      "bytes": 13728,
+      "sha256": "1e335d48fccc90c267e27e1dd207c215bbdf0ef4ad36be60f9b1ec79e977bc14"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-278.xhtml",
+      "bytes": 17556,
+      "sha256": "fcf681b397919a4afd59874637678c5bd09abedbc4a0456c60626f28c5eb5380"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-279.xhtml",
+      "bytes": 14752,
+      "sha256": "5a83fd58969850d1cda47aa011a5f7177f17719e1c07c98ecfa85f9df4cf6a6c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-280.xhtml",
+      "bytes": 14779,
+      "sha256": "4d8eb6c29287f1ea3826cfbe8ccf5e7145ca696d2606b0e318621d69ba549adc"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-281.xhtml",
+      "bytes": 13774,
+      "sha256": "ebc0f823eaa07ff091da4bd1c9aed268ab15202da67167a67a81ed92dc0fa900"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-282.xhtml",
+      "bytes": 14692,
+      "sha256": "d7463d005e8c783cd9897e48c8b731b6b2a7d25941a4d62d3d0640e12ecc62e1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-283.xhtml",
+      "bytes": 14301,
+      "sha256": "529a9cf33514e692f3aa0e12c763a38e6a90c1296aa9be9270e15ff8401682fb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-284.xhtml",
+      "bytes": 14516,
+      "sha256": "acb97925273efaa196268faba84ced607e3626932bac9cb97a60a4f0f4f51259"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-285.xhtml",
+      "bytes": 13259,
+      "sha256": "261e99761efbce9b402ef59b15d02a27ce5b1448a8dde59cbbe7a053fac9daef"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-286.xhtml",
+      "bytes": 16726,
+      "sha256": "b7ff013c9db3f211315478ed5880039b36f1b765edef82dedc75c31b8460efc6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-287.xhtml",
+      "bytes": 14504,
+      "sha256": "2561344d8fd5838d878e5636fc7d3c740d83a23de91b99ca199a23a47c7b6dea"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-288.xhtml",
+      "bytes": 14020,
+      "sha256": "fada7bc67c8e11153fd56f4dbac12e191f7ac0bc1eda448d148fd981b0ac5c62"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-289.xhtml",
+      "bytes": 15341,
+      "sha256": "2afe668924fa83d27d0c16304331fb7f077eab5ba107ae6530f5c81b7361c3d3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-290.xhtml",
+      "bytes": 14651,
+      "sha256": "585403575f4f64f3ef97fb55440db888580ff0dcd3d6d133d9c7592d1ccf70d3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-291.xhtml",
+      "bytes": 13519,
+      "sha256": "023187580784d5d1913078b30b329505065bb0e6f7d5b6375a42663f66e22bbd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-292.xhtml",
+      "bytes": 14143,
+      "sha256": "b8c7f2db264c83478a2684cacec4ceef25e0e39b4921ba720a24cf587415b248"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-293.xhtml",
+      "bytes": 21919,
+      "sha256": "aa2d39958fcb83cdf238f6ad5db849fc612dc84b2580eacdc2ea92d389464aeb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-294.xhtml",
+      "bytes": 20206,
+      "sha256": "f95e91c3d81dcd982acb615cdf957cf2bacab9c44b4e5b14ed3ff881507df0cb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-295.xhtml",
+      "bytes": 13297,
+      "sha256": "e3704699bf2ec97e28e833ff8b0238543b9776c22d9b27702c0b3c6afe92ce1c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-296.xhtml",
+      "bytes": 16053,
+      "sha256": "3dab7ed853b4276730ab50e10f79df38aec8ef859984a046abe72c34f928b716"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-297.xhtml",
+      "bytes": 17409,
+      "sha256": "d99d7afade2e8771c564830ca45313372b82b39f15b9c14c70e76a0beeac11f5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-298.xhtml",
+      "bytes": 19912,
+      "sha256": "36a5ca90a264faa260910f219b17ad543982ac6cfb0236a42fb6dbf8b2cc2320"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-299.xhtml",
+      "bytes": 15805,
+      "sha256": "ea55e3f2df3cdc6e2f39b171c449d7321ee634c4853e5ca2ba5d8f044edc8289"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-300.xhtml",
+      "bytes": 13673,
+      "sha256": "69aa1ce77c45ceaef5a10b4631343bf5dc2f5e486d3baba77ad287edd665a48b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-301.xhtml",
+      "bytes": 14365,
+      "sha256": "df649773d5dcab728fada4af90b76c471203ec3c768c7d44ba6b0bbf93d076c7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-302.xhtml",
+      "bytes": 14669,
+      "sha256": "9f3cd1a3a5f7bb0975487f6926fcfab5c6f5b11907038252c70255e9ca7b4a55"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-303.xhtml",
+      "bytes": 15815,
+      "sha256": "6d176bc0f3bb9c1cccb54e6e1143a376e8f6351892693de2ec4867087b010529"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-304.xhtml",
+      "bytes": 16346,
+      "sha256": "06363622096b72b309be7accb49eb7e6f68a429715bcf7829141c4006dad38bb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-305.xhtml",
+      "bytes": 13195,
+      "sha256": "0c3fe3ab7fd748905db0f83a54986c07862178271c51ed1d2485857f48d2e34e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-306.xhtml",
+      "bytes": 15284,
+      "sha256": "24a91933f85fdea128d920e4c939f13f243929a15bf44340aa519bb5ec26627f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-307.xhtml",
+      "bytes": 12754,
+      "sha256": "3f3adb9f7605108dea09071f56ea1258ce9bd465e906a659b715f954f46321d6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-308.xhtml",
+      "bytes": 15111,
+      "sha256": "0d5c073aabeb4781702d48396a9b69dbb62b63b66bcc418b7c9ec995d242f838"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-309.xhtml",
+      "bytes": 15198,
+      "sha256": "5be106302262d05411cfbd8cad18b3e435b46e5c6868406047d63c2880cc2b2d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-310.xhtml",
+      "bytes": 13506,
+      "sha256": "1c8c3918bac5c641c2c37c0e7fe7b8c126c390f661a99748a98fa2a7da10e675"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-311.xhtml",
+      "bytes": 17406,
+      "sha256": "5e1e00c2d911ae4afaea8b99706ad094425152ece10a5e75f2974471c4487246"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-312.xhtml",
+      "bytes": 17904,
+      "sha256": "74477ea3123fe92eed14a74ce2ae2503e72e126278ff96c557481b9ae03944dd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-313.xhtml",
+      "bytes": 15002,
+      "sha256": "b850e6ad764a9afb4adc72974911a70956d5bba403d3578d22f359da6f4a7659"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-314.xhtml",
+      "bytes": 16693,
+      "sha256": "5eded96829693de9d4a5a120f32989daeb5470d69763dae5ca50301f53faafe8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-315.xhtml",
+      "bytes": 15830,
+      "sha256": "57a35336e294349210540100634434b6857a6610851d1b8c667994e669bab24d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-316.xhtml",
+      "bytes": 14808,
+      "sha256": "262cd2764b730744bf355d4c017a5dbecaba344a794bc2bbd3d60b9f249511c0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-317.xhtml",
+      "bytes": 17949,
+      "sha256": "bd2603eaa8084f6ee2819818df85688a491b421b9d1e644268e35be61c0bc0ef"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-318.xhtml",
+      "bytes": 13772,
+      "sha256": "0f021f9cda632a52a1ade75a18dbff8eb725588d21ce2264b4c70802080bac63"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-319.xhtml",
+      "bytes": 16539,
+      "sha256": "491dcc89bbd5db509af7736cfc4312a4785b5757004a983d14b698d6f2b981a7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-320.xhtml",
+      "bytes": 18456,
+      "sha256": "cd5e8fa30425657d054f7ac8811e3a6d32f8a6a68a42fd3411d11c4445d3fdac"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-321.xhtml",
+      "bytes": 18402,
+      "sha256": "c46a3a36004972fb336550d987348721311499153d44f04f6354db5794e31b26"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-322.xhtml",
+      "bytes": 13363,
+      "sha256": "203705d44d521907bac4ceb476a8144a3824ec93dcfe84ec0f94152919487b72"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-323.xhtml",
+      "bytes": 19616,
+      "sha256": "f6516582a17cef6e2fbb763f2347a623bd9ec6f08c3d4df0e6e196698620872c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-324.xhtml",
+      "bytes": 12631,
+      "sha256": "0533766a091c6c4839c3bff5a37e442939598bc2c47b34bc3fc12bbd8b3d6d30"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-325.xhtml",
+      "bytes": 12684,
+      "sha256": "d618095c156a26b3132ed5d82a7ba8afb1d713b7468e6a05aaec0a142cef6b9d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-326.xhtml",
+      "bytes": 13173,
+      "sha256": "243b31a855f1d723507ec4000a467c5199fdd07217d49b5bd5a57c3bcc64819f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-327.xhtml",
+      "bytes": 13397,
+      "sha256": "98fa064ec3a8c7e0511ae61a95d81ec6f654ba14619a38af2af665b14fe882a1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-328.xhtml",
+      "bytes": 13524,
+      "sha256": "e5ab84e1af264ed3fd64360c71add90c0357f4a281894ca6979d1682bd47512a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-329.xhtml",
+      "bytes": 17831,
+      "sha256": "5c1f3a808cb53b470346683f0832ca6de4993eda70aef8969a366682a3af5de4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-330.xhtml",
+      "bytes": 13910,
+      "sha256": "44ca8aecf2195f2a585dd8623aa2837b4474751497c132788d7abb5f751339cb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-331.xhtml",
+      "bytes": 13254,
+      "sha256": "7bbc15bbedc5b7808866aef46bb4826a5e711c9cbc555a20a612fb6ad9d5d3f4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-332.xhtml",
+      "bytes": 13607,
+      "sha256": "8f9e01596c1e18a713fd59dc8577b7e43ced2fedc9d72af85637e36bd764aa0a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-333.xhtml",
+      "bytes": 17840,
+      "sha256": "da54e6ee88af6f0dbca9c96219178c26d7520c59738c74519c20ec0f68451ff0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-334.xhtml",
+      "bytes": 13355,
+      "sha256": "fa8fc9cf9badb1f80391b83e94d5ca5d8882ebc9ba6027acd0d31a784cccc3c8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-335.xhtml",
+      "bytes": 13661,
+      "sha256": "5ffedb872f6a660109851ffdf8304d5d28d7daceade329f56ee32b609e9d87f3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-336.xhtml",
+      "bytes": 12662,
+      "sha256": "89f71c8810fd4c438ccd055d8b579650c1330a59b0878d1f2d5243ff7ca71db5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-337.xhtml",
+      "bytes": 14464,
+      "sha256": "9e9b794de4539a30805a05ead2bd3e9d9cc2cbd691ed355bf67a605b70950f65"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-338.xhtml",
+      "bytes": 15908,
+      "sha256": "1f12d6a8a33c3978fe995205e7ff8b43041cd46f1f99a4f871be09c6ce826758"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-339.xhtml",
+      "bytes": 13115,
+      "sha256": "eb6a0c213d30585152d6b9e2edfdd970869194b0f4490867792c808ff4dfdbc7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-340.xhtml",
+      "bytes": 14801,
+      "sha256": "b13fd960e379dfb9626486bfd07e14a2350a1e374b85ebe306dbefbd8a18d78f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-341.xhtml",
+      "bytes": 14566,
+      "sha256": "1027164f7e09ad25b95869d6a10b9dd9246897006e39bf3e3a07956d95355cd7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-342.xhtml",
+      "bytes": 14377,
+      "sha256": "afe44393a8028e33f21d729b7d6cecbc5e15e50542afab8f070258640a4508d1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-343.xhtml",
+      "bytes": 16063,
+      "sha256": "79d08adc5e90453a983f90bef3c097cec3c5888c92f3af96b420f47adb4d4e68"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-344.xhtml",
+      "bytes": 14319,
+      "sha256": "f930bfd66bb5b68d1fbca5f03406609166d8d47f13269c3e4d2bd2fb26d8c3db"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-345.xhtml",
+      "bytes": 14774,
+      "sha256": "b23c2210a397412953c578b70c0eaae663f1b54a6b4d4f4fedfa06017a626e78"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-346.xhtml",
+      "bytes": 25885,
+      "sha256": "7485d124e33ca12149eec2c0a354f2e878a58144f713cf2cbbb6a1c39317f780"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-347.xhtml",
+      "bytes": 14512,
+      "sha256": "75618a345bc64aab9d17280760d504fe4204ff537d921bbaf17e2f34d5141428"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-348.xhtml",
+      "bytes": 15072,
+      "sha256": "f92c3c128be507328a66bfc5bfda6c50fc63d583db0f3d89ae71791715bf7764"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-349.xhtml",
+      "bytes": 15710,
+      "sha256": "87acec538f2ddc5900705b525d9c6bd2c369aa672bd9669a3ba5b5e4c0d7f2be"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-350.xhtml",
+      "bytes": 14052,
+      "sha256": "7c08dcad232afac8d621e24388ee1c46378b4ec472a1e871f9e03d0fc1b6a831"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-351.xhtml",
+      "bytes": 15181,
+      "sha256": "c996f85fce653ef35690e1832c29a6599acfa42ed1c9d23c147f07e1fcd30661"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-352.xhtml",
+      "bytes": 13234,
+      "sha256": "81616fb8519988d62675e150366159f27e9483fad69508842872612645f5f8f1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-353.xhtml",
+      "bytes": 14026,
+      "sha256": "2c2777a16fbd92956e7fec936c4d9edddbd9dc5771edd5f5f2e9531195250db1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-354.xhtml",
+      "bytes": 15254,
+      "sha256": "5ff221e876a0d489064d9fc6dcc8f2a691d30cb4e5853650a8efb95ea58f7bfa"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-355.xhtml",
+      "bytes": 15300,
+      "sha256": "3ef5c12d6919e2258858e133c00bf804dc7c75b2b77fd8c405f908cf9123e976"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-356.xhtml",
+      "bytes": 13917,
+      "sha256": "29cef369637e3dd06b1916a61e6eb64439e0f3ccd301cabd5d5805e16d66c9ba"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-357.xhtml",
+      "bytes": 17045,
+      "sha256": "8ceddaa88d6ac3ee517418533ae6fc80538b54d3b3772974f76126ec2fc47a46"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-358.xhtml",
+      "bytes": 13177,
+      "sha256": "6fde3c948952ca0f5506019a7ebd0efd395129877bf07b4a991cb1ce334bf1b8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-359.xhtml",
+      "bytes": 15755,
+      "sha256": "e68e6eec5186ff938669338f447ca72e536cc50296d0c54f5623dc3e13374d38"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-360.xhtml",
+      "bytes": 12777,
+      "sha256": "34aa33769206f252c1493411f104fbff39d4e14010b02953605b7e9bf3f68624"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-361.xhtml",
+      "bytes": 13216,
+      "sha256": "793feddb5b3fbcb6728dee438c3cc467e761b0d5ee963ef89d2fdf0df86abfd5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-362.xhtml",
+      "bytes": 16581,
+      "sha256": "eadb37e400d3a683580618f90f16e7790f0755eeb694b1aa724458d49704fe8d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-363.xhtml",
+      "bytes": 12627,
+      "sha256": "b7c966164ee7169104abc80f532ec6950827e48b71706ac5cd95e4ce1fe3ac83"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-364.xhtml",
+      "bytes": 12752,
+      "sha256": "af24e2029580a677642fb4ffa4067f181515b8d58767b958702d3066aa9e9dd8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-365.xhtml",
+      "bytes": 15088,
+      "sha256": "bb7c73c4d2b81486b13c65d28aad55c05105e0d0f1f8c11e013aa19775c21195"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-366.xhtml",
+      "bytes": 14336,
+      "sha256": "33e85068b3558d478d819390b48976e17fb8a068998126e7c489f022d16bab6d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-367.xhtml",
+      "bytes": 13259,
+      "sha256": "48632319a67a289bf95327e55658ff5cc673164868a20622c66a0ac9821d83db"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-368.xhtml",
+      "bytes": 13558,
+      "sha256": "49f5c8c3e3b438c986ebb0b3846e81d450e8c3e2e1f30d66b99a386129bb254c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-369.xhtml",
+      "bytes": 13681,
+      "sha256": "ff656350a6e21a1e2e34e0e4cd8da92d0afa18b7a3427af1450d8a506a7e4e44"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-370.xhtml",
+      "bytes": 17385,
+      "sha256": "6a2232c7e7548fb3b8783ce43ac75481c2ac86e8737e091a2feabd13ad085973"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-371.xhtml",
+      "bytes": 14297,
+      "sha256": "5d5299c0a53413a2d8c6cef2b15463874c140f72e50bff29098f71ca1bf64852"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-372.xhtml",
+      "bytes": 13408,
+      "sha256": "17c4c3edfdba2865cc92d2803515ce21e784c07b4cadf19900a7230f2440561b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-373.xhtml",
+      "bytes": 12174,
+      "sha256": "1189d266122d270d1b06a75a11042c7acd437ae534dc42dc3a9e51ca51511f9b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-374.xhtml",
+      "bytes": 15670,
+      "sha256": "ef501951e848819adec636b8283d2213fe1798df2724d6992ed22ae578949354"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-375.xhtml",
+      "bytes": 13195,
+      "sha256": "06b79a9ab404424650cbd0991800f5c5ac843ec3adb6ba4e30b66a1b2a67335a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-376.xhtml",
+      "bytes": 12661,
+      "sha256": "917a1cda8f4af073992cbaf4de6888c0dc2f0411b6fc09638639f301bba8f56c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-377.xhtml",
+      "bytes": 13850,
+      "sha256": "01a63127b3e69e4fbd8b530f966e355e4205f7d2b7ab50293ce2d11dbcba681a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-378.xhtml",
+      "bytes": 12806,
+      "sha256": "732753f0f5dc1152d8b3b76a37542f1af7981b8f6fcb2b854e0028e0633f4829"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-379.xhtml",
+      "bytes": 14383,
+      "sha256": "b21ac5ec1528e6edf446c855113273c4e358e7360901cd62df7e191b2f5d7477"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-380.xhtml",
+      "bytes": 13765,
+      "sha256": "690fceb38df4c7f0112f29537aa2d88b63d447ebfd354aefbad30ea5729232cd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-381.xhtml",
+      "bytes": 13211,
+      "sha256": "77b829ca4708f17f07c08e92cc1bea58e1ca229f6b917a48904017d0e9d8292a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-382.xhtml",
+      "bytes": 13242,
+      "sha256": "cad4c24cbb3017e5305a47192316f1dbe08a6b183613321907b75458a11fb9a6"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-383.xhtml",
+      "bytes": 13571,
+      "sha256": "6acb0d562df1c8ef5a1bc2da0c8084cb4c18affd7e5e29c5de1d89bfc8ea4d4a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-384.xhtml",
+      "bytes": 15535,
+      "sha256": "526682b84be24d17095a2e0f28bed34255c370731f91112732c5fd38792c6a06"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-385.xhtml",
+      "bytes": 15525,
+      "sha256": "57acc7efd87b9822ddbaa1568e40d91e477cbb7d623913010f9e7c0f2057dbaf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-386.xhtml",
+      "bytes": 13892,
+      "sha256": "d1f0ab4b55f9675184c9c8c56bd3c8f55cf17f54f20e43f9908ac460154302e7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-387.xhtml",
+      "bytes": 15520,
+      "sha256": "e6ae8c3f6dbb4b21dd8f304221e59c416ac993205a680b26fba5a2dca9e199fd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-388.xhtml",
+      "bytes": 12294,
+      "sha256": "29386a443ab1417b2f8fdb7238dd4ee05bc374fe144157e28a00abefc7c09414"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-389.xhtml",
+      "bytes": 13286,
+      "sha256": "501503646916007376ba3163699417d213489c1ac1464ea59e30c4280728dd0b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-390.xhtml",
+      "bytes": 15215,
+      "sha256": "7fee4659e3e0c3749e1e616b1d8611e0560617941d5dde7f9997185924984279"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-391.xhtml",
+      "bytes": 13156,
+      "sha256": "e29fde373d1862af1835b2edcbcc08ac9df0a0bda01c1bec79be67fcf5593c86"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-392.xhtml",
+      "bytes": 15949,
+      "sha256": "ef4e1fd29207c97fa050424cdb3bd0c2150021a9204ebf12153ae55c818bd377"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-393.xhtml",
+      "bytes": 16115,
+      "sha256": "ceea8c8548610ef76831ee07c3b5a7aedf6dd8a739f060c327836535b8ec2ebf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-394.xhtml",
+      "bytes": 14669,
+      "sha256": "45f59fc463cd6506133a635c5297780caa1471d7f3c83c6eaecfef2e773ddcb1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-395.xhtml",
+      "bytes": 13505,
+      "sha256": "8aa8ba2bbe846141e795a6d8f5b253d4ebeca53bc5dfd599b69d438c230f4d11"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-396.xhtml",
+      "bytes": 15496,
+      "sha256": "6188538405f0534d60ad3244d1c9261dca24cd29d0748f17afa7ed3b71a851ce"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-397.xhtml",
+      "bytes": 12975,
+      "sha256": "c219bd061335ef095c81c32c3a0a5e155d38357a86f19058c1b92481e7edd2d9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-398.xhtml",
+      "bytes": 13723,
+      "sha256": "ac2f74cc3d208901d802f5b42598985f0a08bd62144d6226b8bd033ddbdc5041"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-399.xhtml",
+      "bytes": 17985,
+      "sha256": "e1a8e5f48ada63efdfdf856874f1b3b3a35a2c86c572827fec7dff2aaf124195"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-400.xhtml",
+      "bytes": 13211,
+      "sha256": "c3beea773679dbd3aa370397ddf15b225a7a48cf4c5e77b1418b0c369cd5f25c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-401.xhtml",
+      "bytes": 13224,
+      "sha256": "959948fd6899379bdbf9a10af3d4aa278cf6b8fe4b1fe0508fe524c25cd6b016"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-402.xhtml",
+      "bytes": 13828,
+      "sha256": "77c6fd25c7eb92d21cf2318baa37791ec01c6d995b34a3210664f19dc3e1041c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-403.xhtml",
+      "bytes": 14206,
+      "sha256": "0ad3be2ed510b3fbc09ad2ca0a5a2ce35a0808b79d12e7716a16bc961d93c73e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-404.xhtml",
+      "bytes": 14136,
+      "sha256": "3b09eff61e4e9af02ded4688a74dd0b939cf8e528922c6f4ffc4ee366ca7d713"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-405.xhtml",
+      "bytes": 14278,
+      "sha256": "4e83a29e7def6b56ea41032848d487c56e8d011c683c13f35e5b1c880e0575ce"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-406.xhtml",
+      "bytes": 17330,
+      "sha256": "decf383396a1d8c352c37e37103fb5046feb1e86ec00cc9edd80f9413c7b363d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-407.xhtml",
+      "bytes": 13774,
+      "sha256": "82220a2a1f7a6d3f5a8b31e8f501fb875c3b8fe981b36cd3b46ebfa234735d27"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-408.xhtml",
+      "bytes": 12891,
+      "sha256": "b350eb3d6aab4aa1d956e4c70545a5323ecaca483c8d25e796ab6ff57de0c75b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-409.xhtml",
+      "bytes": 13634,
+      "sha256": "0433e6164a32dbfcfd880bd9810a0d7340244f628f13fb9ad0625e7b8c914fdf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-410.xhtml",
+      "bytes": 17075,
+      "sha256": "99c79e125bd2ad00dc3bb2fbf6e08604129a465e1285fff2a88b1c3af21a2c3e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-411.xhtml",
+      "bytes": 13450,
+      "sha256": "3a9c3967eea4c5010328452491cd6911da06467fc6c6f608d16401c287b459f1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-412.xhtml",
+      "bytes": 13701,
+      "sha256": "05409703bb1ac03690a6795c6280c78b91b7e789a260744eabdef3836e7616d9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-413.xhtml",
+      "bytes": 14353,
+      "sha256": "c00c29a73529097514d9d027111e9a2b96b08158dfb58d26f6af5ce113d674f9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-414.xhtml",
+      "bytes": 16678,
+      "sha256": "dbe9a6e41309bd0e52b15ba6946dbfbda4bf05c5068e95b0e7d18b17798f697f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-415.xhtml",
+      "bytes": 16304,
+      "sha256": "9144fd6f125dd1e96f2fade807d812352981df2e6719f9e238f1862800584f18"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-416.xhtml",
+      "bytes": 12444,
+      "sha256": "527d5ccf0ff173d7be5e1a1d2f35a5a48095a0f7388b054499165b9f2afeac85"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-417.xhtml",
+      "bytes": 14649,
+      "sha256": "44ba1cf87ac761254602dec402ae0fce3d172e0f8df33953e3d3e0ab117c3222"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-418.xhtml",
+      "bytes": 21046,
+      "sha256": "7a77bfdda197124d186ef0d82b8ea88b5c5ba306e9d8a347d83eaf4e59b1b15d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-419.xhtml",
+      "bytes": 16027,
+      "sha256": "651527eba7e2f43f1bc009c54979b21d92eba79abcdc447749447ef8be742b67"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-420.xhtml",
+      "bytes": 15022,
+      "sha256": "8cb3375211603b1fb2286aded94d5a8e32ecab0b9664d088eec3ae6ec57d77ef"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-421.xhtml",
+      "bytes": 13303,
+      "sha256": "5aa418f7325d40611a008a931502ff9c8c244e206f402cd3997d2a35493e3629"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-422.xhtml",
+      "bytes": 14024,
+      "sha256": "7d0d1d48e50f03218b39f1de3ba103a063f9bfa7a3da3d771a8c151fb43de501"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-423.xhtml",
+      "bytes": 14026,
+      "sha256": "4ccc63b938bd2f26d790d37f2544b3a0a528c0ba5305bfe12d12a4a407162fcc"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-424.xhtml",
+      "bytes": 16111,
+      "sha256": "f02024a4bd284571ff4ef4688e2a6c42cb6dcf2e8ac0709695323c9992c39478"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-425.xhtml",
+      "bytes": 14942,
+      "sha256": "dbff6f7842ae1e6f556d43a80336fbb1ac16cdbd8ab83d4543684f11c199cf64"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-426.xhtml",
+      "bytes": 14918,
+      "sha256": "2dc67d491a423805dce3cf43151b000e15d16103c963c3c8472051de5dcc775d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-427.xhtml",
+      "bytes": 16128,
+      "sha256": "aa2299820a414c4228b25f8126fca76a0d230368e2bbac2cc6c38cf48184929a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-428.xhtml",
+      "bytes": 16480,
+      "sha256": "eb2e4539d84e271d31b120f9d2d687106dee2e1364e90971a0a51b644cfb9dcf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-429.xhtml",
+      "bytes": 12603,
+      "sha256": "7d927c230ec2f1810b28451b56741eef403527a92126cb770e127f131d3a2e0a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-430.xhtml",
+      "bytes": 12818,
+      "sha256": "f04c6d23aeb5a2acd073b00a766c608c11610b122ce810e5caf89805e3faf1fe"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-431.xhtml",
+      "bytes": 14755,
+      "sha256": "2cb8823c5f1da7d0ca2f88822b738e8f0166e1e1625df0295a0090060a319f86"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-432.xhtml",
+      "bytes": 15859,
+      "sha256": "a21c454f4220cf9f333559a97f381acd1623e75d7c0f09c4ba252ab1a3e4a06f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-433.xhtml",
+      "bytes": 14187,
+      "sha256": "ab90357f14d36339dcab895e682ae5d3d15a113830b2b46ab7569c2f25f531e1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-434.xhtml",
+      "bytes": 14640,
+      "sha256": "90e5a24e2375708a26b514b727a4828ddb5683d18b72324393c2880ec3ed0d0c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-435.xhtml",
+      "bytes": 15138,
+      "sha256": "1f26f2f57e1add273e75d09d00626330a1e48fc7d712479e45c2f3d448595dea"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-436.xhtml",
+      "bytes": 14925,
+      "sha256": "129d50e0bd04f274a748a0f4fd776e1e44b15acc2e3903a8ca8f39f175274880"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-437.xhtml",
+      "bytes": 13580,
+      "sha256": "7d37fdf128c80a63f2fb3c02dc2e58219add389fad4d5d3a6c806a1b35e16d95"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-438.xhtml",
+      "bytes": 15724,
+      "sha256": "dc5f91ca0738093a35dbfe01b18ea490a8bc18d2d477f233c0c2d655ea8d308a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-439.xhtml",
+      "bytes": 13974,
+      "sha256": "e355291f5219994164cad36d9738df9171ecfb561eb511d95cc86729748cec1d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-440.xhtml",
+      "bytes": 14930,
+      "sha256": "d28f050e80a643c56c61b4d468df56d117670bb7816cf01378f2af3616d20213"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-441.xhtml",
+      "bytes": 14976,
+      "sha256": "58ddcc39fcc87eea1e0b217f17cf89f5773203460ccc987b0f25d6e4c80efb5b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-442.xhtml",
+      "bytes": 16028,
+      "sha256": "bfe50533310e40f1686010c298dc347f048d5c1328e6328eab56b508c247b82a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-443.xhtml",
+      "bytes": 13609,
+      "sha256": "754d0cbb74b66fbc6a3ded590b00807d4ce64d4161ea2d3f822c0ccf66359808"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-444.xhtml",
+      "bytes": 14755,
+      "sha256": "eeaefe6067af8818512792617edb3dd44ec57581c2169ee0b55eef12cb5b2ca1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-445.xhtml",
+      "bytes": 14253,
+      "sha256": "96783b1c929f59198c23d28beedf176e451c96750e401a1fc98ee8ce002a6c78"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-446.xhtml",
+      "bytes": 13999,
+      "sha256": "98bb4966c72ad3c451252af4245f9203f4d5cb236235baad0c2f8907ee97ba25"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-447.xhtml",
+      "bytes": 13257,
+      "sha256": "b299295f9693f7e8e73bd3255339682c16cda6f06f6d804564a7be9bbedcc225"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-448.xhtml",
+      "bytes": 16133,
+      "sha256": "c826df26fdb28b348cbc2e21217a5c8a6aa4c963fd7b004346dc8fa7b8e7b400"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-449.xhtml",
+      "bytes": 14807,
+      "sha256": "28f1c0375bc4451104314d0e1bfd8e02985fb3656649915637561a97b8c80a6d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-450.xhtml",
+      "bytes": 13778,
+      "sha256": "af12361ad9666d139f525e1b21381f393fcb00d6c2cb74c1666f3c5c9f66bf86"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-451.xhtml",
+      "bytes": 13242,
+      "sha256": "d62b95ea3e16a9cd52310dc9ead9bd25b567ebd70b35f14056780d68d755a1fd"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-452.xhtml",
+      "bytes": 14194,
+      "sha256": "9e53643169b9d00618c8edc78c86014672718c2b6cabb18494be4162f0986951"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-453.xhtml",
+      "bytes": 14281,
+      "sha256": "0bd9f90de6324f1aa1bedc452fdf6ed666ff0cb11637108e0ca51b8c529fd130"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-454.xhtml",
+      "bytes": 14697,
+      "sha256": "f988ff985f668a243c9e3d39fb807d8773b75f1bd294187490c68223ffcec3ab"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-455.xhtml",
+      "bytes": 14830,
+      "sha256": "c8faac7ec07a9fe9e602d69027bd0f945598f16d51155ab9d35306ba4f421014"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-456.xhtml",
+      "bytes": 13879,
+      "sha256": "608a520765bfba9adfb911084f52583c7a3c82cbb46c96f614a9fc9bf88595b1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-457.xhtml",
+      "bytes": 13317,
+      "sha256": "fe1561de990b7404837a02adf195a1512eb942995b54337875dde8b555bb8e1d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-458.xhtml",
+      "bytes": 12929,
+      "sha256": "9c618f0ada6dfe550d9454a7d77d1fb02ce7efd2b24b1ff7733323681ec033e3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-459.xhtml",
+      "bytes": 15873,
+      "sha256": "250cb911485ea434a7facdca3afdd087fbf6d097b8b7cc0b7b9229546af9b30c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-460.xhtml",
+      "bytes": 13891,
+      "sha256": "ec5b98095ef97b098cab10804edb6845ed4e97a41f2f3cdf368a0c52dbc251d3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-461.xhtml",
+      "bytes": 13390,
+      "sha256": "df9de877bbb671201805cdb9059dccc5e4227b19c2234b199fb32ecc6213d6c4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-462.xhtml",
+      "bytes": 14462,
+      "sha256": "150c018e7e4117550e406a1d0ee9b15a741fe88dc7f009f9c80c0c5aecf2ffcb"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-463.xhtml",
+      "bytes": 12689,
+      "sha256": "f55bcf1761e4e35b53b07fda166f15b8f2ab657e92c7f236b4ec19fb253eb349"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-464.xhtml",
+      "bytes": 16006,
+      "sha256": "a7f3c0d51d8d2d3fd4d50382ffc46da8cac8033fbdff2416a553bddbdad7e9e4"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-465.xhtml",
+      "bytes": 17286,
+      "sha256": "609dd10f23dad2f399b0ea42097ed54b49f77a1c9518652e00bff7a9f5be91b7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-466.xhtml",
+      "bytes": 13771,
+      "sha256": "cd57c251508c74b98f24792f53456354bd3655b158a8a43d9e7a32e6d3e45925"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-467.xhtml",
+      "bytes": 13790,
+      "sha256": "41cfe3f1cc2e535205153d250bd31d7a793be03f2ad61e11e8ea2875589f7c37"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-468.xhtml",
+      "bytes": 13235,
+      "sha256": "ce679da5f11c17bf13484b2d0cbb5543082e47aab55c21b76398f06bc282738e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-469.xhtml",
+      "bytes": 15723,
+      "sha256": "c5923d732d3284b784cc16d4c8ca5feb4702a2ac21d1a33569c4c0581ee0f6f9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-470.xhtml",
+      "bytes": 12735,
+      "sha256": "e58df5dfd6ca08b86d8b01f093bde6b17957f6d0b7c6d4efb1f602054e3bfa0e"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-471.xhtml",
+      "bytes": 17094,
+      "sha256": "8780cd075a2d5a01cbb7dc35f5752a3a8e4926fec0de35713ce5502b7d078284"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-472.xhtml",
+      "bytes": 13521,
+      "sha256": "75b4e18a695195b381f94261c0d7d8b27a69ceddaf4c90eb3583ed9c3e19cfaa"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-473.xhtml",
+      "bytes": 12390,
+      "sha256": "1e2f7b820a0dd7862689f202051d9a2650abca5baf806da7a67cf31a81624bec"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-474.xhtml",
+      "bytes": 12935,
+      "sha256": "80737d8b9e6407a6474a67b93e11f9f8b25f60d03453a47c93858997fde8d5b1"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-475.xhtml",
+      "bytes": 15074,
+      "sha256": "2c6797c8ce89f9b9cb384795956309f0416ecd8beb71b1718a542731cc10972f"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-476.xhtml",
+      "bytes": 16730,
+      "sha256": "7f23fffe7f4d5112f3b570ccbae2a74f678bd167439206fb36296bfa0b366816"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-477.xhtml",
+      "bytes": 19619,
+      "sha256": "43599121600b9fdb542b9934ad6c6b0233ffe8558fa34ee704c2ae3f0073a922"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-478.xhtml",
+      "bytes": 15124,
+      "sha256": "19ca95d1efde4842d8b563ff670019649e8658578aea07ef987e8e7ca266c45b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-479.xhtml",
+      "bytes": 13636,
+      "sha256": "78d49928cf1f957db8b1d72ab4272434f507fc434fc4d4c8a0a345dc7e492bd2"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-480.xhtml",
+      "bytes": 13124,
+      "sha256": "967891c55fb8ce7e0c5d73470e0bd55e184a72e9c8f266bdd304c3c4b00e47d8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-481.xhtml",
+      "bytes": 16527,
+      "sha256": "ddc5d6fb4c99da2ad69eb436bdaf800f196c74ebb7f310ce7e4ba393ef858cc0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-482.xhtml",
+      "bytes": 15665,
+      "sha256": "568dc23bc18c78b7ff430ca13a7cbe128f1760a56830483fad36ef5e639aad31"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-483.xhtml",
+      "bytes": 15528,
+      "sha256": "c33fbf991b2b2c201829c44281abf9d45c28ab88bdee8b5b6d6ac1587c64c429"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-484.xhtml",
+      "bytes": 12939,
+      "sha256": "a49ba613ef98186cc41b04d59cf8931f038272e55ee00fba75f88d7bce604ba3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-485.xhtml",
+      "bytes": 13248,
+      "sha256": "2e3a2d3b114ef9e339ff1b6fda6bbfee8dc2decf6b1d42dbfb76e8d7430fab46"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-486.xhtml",
+      "bytes": 12976,
+      "sha256": "b2741255c9c6445b24b998b0731d8798bf68545e12bfac2d1a2e8da2354951f8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-487.xhtml",
+      "bytes": 13043,
+      "sha256": "70c184663bfd424947da4b85dee44ea770e50a440bc9c9fab0b8f662d2536177"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-488.xhtml",
+      "bytes": 15514,
+      "sha256": "994e34902fa92c397affce2bbe69c47671678be0c08bec210527ff30b90c026c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-489.xhtml",
+      "bytes": 12456,
+      "sha256": "ea24fa16f0f49f432eb66026d7c0da798f4c28fa57d2f4c0899dfd369cb708a9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-490.xhtml",
+      "bytes": 13254,
+      "sha256": "a8f41cb16c421f744276594355f6d6a6c970282c7afc135b36e87ce86a958c02"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-491.xhtml",
+      "bytes": 15543,
+      "sha256": "ebe6b0224d00f5ce47f8bac830f730e3123bce417b06a64ae97fc29b6161a970"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-492.xhtml",
+      "bytes": 22351,
+      "sha256": "bb190179bfc13aca24f7f4b15d674b6f93fcfa9a5eac5a1867b133594d6e39b8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/chapter-493.xhtml",
+      "bytes": 101887,
+      "sha256": "07fc4554515ce49f3b5d477e11b9db007d37743c0fdd9625b1360ee607e0bb21"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/colophon.xhtml",
+      "bytes": 1160,
+      "sha256": "7632b59a44e5f62b8b004bc13588b100ac8a70f56511b1334b82c741da1f99a9"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/cover.xhtml",
+      "bytes": 608,
+      "sha256": "311ce5f8ce91cdf266463f71bc2a19928dd1b32c727c157ca5cdabd10455824c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/titlepage.xhtml",
+      "bytes": 1038,
+      "sha256": "dbbd2af6f82c422a4d6845c83bd5b6976b7389adfd9b3a92d9defdb94f9389e7"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-01.xhtml",
+      "bytes": 820,
+      "sha256": "573f1c0b4d8796e52823dc202b52387018faf7b8cae451ff7f31072b08da82c8"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-02.xhtml",
+      "bytes": 823,
+      "sha256": "5250bdbb2443f398ed4130fe7090c4a302390d66c085bfd9e1507efe4921906b"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-03.xhtml",
+      "bytes": 825,
+      "sha256": "a383536590f5db5d5f83da6aa3fe273f23390b41477fed194ba6a5b2cb46186d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-04.xhtml",
+      "bytes": 824,
+      "sha256": "28b2a41340598aecf4f87dd31f39548a94e7cf66034542c4316e224e9911bd02"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-05.xhtml",
+      "bytes": 823,
+      "sha256": "767be12904c22b16e776fda9761f04a117db82537674bb703cf430e3834428bf"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-06.xhtml",
+      "bytes": 825,
+      "sha256": "2988f1d16ddfd951bdaaf4ee709901956de6175a9012d57f114b13504ce3f7e3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-07.xhtml",
+      "bytes": 827,
+      "sha256": "2544c401aab0bb1535c83102627a5b384f3ee6c83f535d701b393788caa91174"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-08.xhtml",
+      "bytes": 829,
+      "sha256": "11e329858cd63a9cfc1d924a8fb952aab86d6b2b41c931ad525792bedb4df0da"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-09.xhtml",
+      "bytes": 825,
+      "sha256": "de563b0e8329ccea70a3003dd9f797ee78a0933e26b8bccdbc403d045792636d"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-10.xhtml",
+      "bytes": 825,
+      "sha256": "9a3a817f31b752ae9ccf2fb789d97c1dffbb8ff0730230dadb202bf98d07125a"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-11.xhtml",
+      "bytes": 827,
+      "sha256": "0786bf330fa54c5b7fd8a7d34c1c48b96c80eaee3c61fced147a819870065077"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-12.xhtml",
+      "bytes": 829,
+      "sha256": "21f34330e9a9148c35545290809c7487a9cea1c534ae3a3f37dab66f88f44dd2"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-13.xhtml",
+      "bytes": 831,
+      "sha256": "e4e960129294487a85a821f57b07f8d71bad78a681bcb697cb78a95c61354ae3"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-14.xhtml",
+      "bytes": 829,
+      "sha256": "f5b4b9709f9d9cf50b1c5f688a84f9d56ff3ee92c8826a4db67e4b8a8506adb0"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-15.xhtml",
+      "bytes": 827,
+      "sha256": "678305e71aca6af59c63382a39849712a7152493637ed73312ec4e1754b98911"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-16.xhtml",
+      "bytes": 829,
+      "sha256": "e8340a4af79a055837fa8c019dc154f11923487436a6a9ef8dce812d8c2efc7c"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-17.xhtml",
+      "bytes": 831,
+      "sha256": "4a602543dea181cae4bec1613ea38e2770a725a92af218df8217b84fb2c7f5e5"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-18.xhtml",
+      "bytes": 833,
+      "sha256": "01eca8fca30b7b2677bc122d8fd8ce3701085079e8e078cfe5ff39b8bc9c1984"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-19.xhtml",
+      "bytes": 829,
+      "sha256": "6cbb1f426045eecbe59a2f9845f32ef464ae0016e31b46177eae48ecd569c371"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/text/volume-20.xhtml",
+      "bytes": 827,
+      "sha256": "0f45746d6cf282a878a89406962ef9b3da917e27f4d3c75ceca0b7c9a1af6047"
+    },
+    {
+      "path": "epub/local-2026-07-29/EPUB/toc.ncx",
+      "bytes": 99463,
+      "sha256": "5d4b5744554b4a5e2a670361044bcf2e820f1dc621967f3c2fffbd6bc340b774"
+    },
+    {
+      "path": "epub/local-2026-07-29/META-INF/container.xml",
+      "bytes": 251,
+      "sha256": "d573ec3f393c16e5523e6ed1310b3cf736b1a32312f861f39f7d9683c70a3fba"
+    }
+  ]
+}
