@@ -20,3 +20,5 @@ This is a new register seeded from recovered context. It is not the lost glossar
 | Poseidon | Later continuity lead only | Chapters 373–374 reportedly describe a blue sphere and aura roots. See historical context; not early-chapter terminology evidence. |
 
 Add new decisions with the chapter, source location, reasoning, and review status. An accepted term must not erase a source contradiction or introduce a later reveal.
+
+Chapter 2: use **mana channels** for its inconsistent paths/veins/barrel and Korean qi-channel wording, with the MTL mana/aura distinction preserved. Its isolated **Tower of Swords** reference is adjudicated as the same **Cradle of Swords** trial, not a global equivalence for later locations. The Styx grants no further blessing to a surfaced body part; this chapter does not establish loss of protection already received. See the accepted [Chapter 2 source decisions](reviews/chapter-0002.md).

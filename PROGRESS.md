@@ -2,6 +2,18 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-13 — Chapter 2 reconstruction and editorial acceptance
+
+**Result: 2 reconstructed chapters editorially accepted; Chapter 3 is next.** Chapter 2's five QA items are resolved. Chapters 3–493 remain unstarted; full-EPUB release work remains pending.
+
+- Compared all 143 MTL paragraphs with all 149 Korean physical lines. Preserved four heading lines as classified evidence; integrated two Korean-only details within the corresponding paragraphs. Recorded 140 explicit edits with paragraph provenance and unchanged source hashes.
+- Documented names, the hundred-day age, the overlapping Chapter 1 viewpoint, Cradle/Tower wording, mana/aura terminology, blood-loss and blessing mechanics, source sound corruption, and the unnamed ancestor's heel legend in [the source review](editorial/reviews/chapter-0002.md). All seven historical Chapter 2 audit suggestions were manually triaged. Fandom search-retrieved text supported narrow terminology; Namu access again failed.
+- Read the complete English draft, refined five passages, and wrote the [continuity handoff](editorial/continuity/chapter-0002.md). No later wiki events were inserted.
+- Built and inspected the [preview](preview/chapter-0002.html) at desktop and mobile sizes. All 143 paragraphs display, dialogue is indented, narration is not, eleven thoughts are italicized, and no horizontal overflow was found. Four final screenshots and measurements support [the final review](editorial/reviews/chapter-0002-final.md).
+- Extended preview thought styling while retaining Chapter 1's exact preview output. Preserved-source checks, fourteen integrity tests, draft/preview reproducibility, tracker consistency and whitespace checks passed. [Acceptance evidence](qa/acceptance/chapter-0002.json) binds the reviewed text and supporting files.
+
+**Next:** reconstruct Chapter 3 using Korean plus MTL, checking its opening against Hugo noticing Vikir's new teeth. Continue source comparison and chapter-level acceptance before whole-EPUB assembly. This remains new reconstruction; lost original QA and Git history are not falsely counted as recovered.
+
 ## 2026-09-13 — Chapter 1 editorial acceptance
 
 **Result: 1 reconstructed chapter editorially accepted; Chapter 2 is next.** All nine Chapter 1 QA items are resolved. Whole-EPUB packaging and release QA remain pending.

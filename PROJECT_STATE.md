@@ -10,7 +10,8 @@ Recovery has preserved the available source corpus, local EPUB, historical audit
 - All 2,151 historical audit findings are indexed: 266 have a unique text-and-title match, 40 are ambiguous, and 1,845 are unmatched. Matching does not approve a suggested change.
 - Chapter 1 is **editorially accepted**: 106 paragraphs retained, 91 edited, all 116 Korean lines accounted for, and all nine QA items resolved. The [acceptance record](qa/acceptance/chapter-0001.json) binds the exact reviewed text and evidence.
 - Final source decisions, explicit age harmonization and source limitations are documented in the [final review](editorial/reviews/chapter-0001-final.md). Desktop/mobile chapter layout was checked and visually inspected. Whole-EPUB packaging and release QA remain pending.
-- Chapters 2–493 have not yet begun reconstruction. No recovered or newly reconstructed chapter is currently certified as the former finished production version.
+- Chapter 2 is **editorially accepted**: 143 paragraphs retained, 140 edited, all 149 Korean lines accounted for, and all five QA items resolved. See its [final review](editorial/reviews/chapter-0002-final.md) and [acceptance record](qa/acceptance/chapter-0002.json).
+- **Current total: 2 accepted reconstructions; Chapters 3–493 remain unstarted.** No recovered or newly reconstructed chapter is certified as the former finished production version.
 - Read [PROGRESS.md](PROGRESS.md) for work completed, validation, and next actions; use [the workflow](editorial/WORKFLOW.md) for future batches.
 
 ## Verified recovery

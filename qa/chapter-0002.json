@@ -1,0 +1,133 @@
+{
+  "chapter": 2,
+  "source_sha256": "f8b281777c3a6b7636fee8be5ca7c3722f55b0535f0c23a453dce10cdbf0b8a5",
+  "review_date": "2026-09-13",
+  "review_basis": "korean_plus_mtl",
+  "korean_source": "source/korean/chapters/002.txt",
+  "supporting_reference_policy": "editorial/SOURCES.md",
+  "source_update": "Both supplied witnesses compared in full; Fandom search retrieval supports narrow terminology; Namu opening returned an internal error. No publisher provenance claim.",
+  "pass": "Final Korean/MTL adjudication, complete English reading, continuity review, and desktop/mobile chapter-layout review",
+  "accepted": true,
+  "issues": [
+    {
+      "id": "CH002-01",
+      "status": "resolved",
+      "paragraphs": [
+        11,
+        13,
+        18,
+        30,
+        34,
+        44,
+        76
+      ],
+      "question": "Names, age, ritual and chapter overlap",
+      "required_evidence": "Written source adjudication and final reading/layout evidence for acceptance.",
+      "resolution": "Use established names, hundred-day infancy and Cradle of Swords; preserve the viewpoint rewind, not a second trial.",
+      "evidence": [
+        "editorial/reviews/chapter-0002.md",
+        "editorial/korean-alignment/chapter-0002.json"
+      ]
+    },
+    {
+      "id": "CH002-02",
+      "status": "resolved",
+      "paragraphs": [
+        3,
+        4,
+        36,
+        59,
+        73,
+        74,
+        78,
+        97,
+        103,
+        116,
+        117
+      ],
+      "question": "Power terminology and river mechanics",
+      "required_evidence": "Written source adjudication and final reading/layout evidence for acceptance.",
+      "resolution": "Retain MTL mana/aura distinction; follow Korean soul clarity and no further blessing after surfacing. The heel legend concerns an unnamed ancestor.",
+      "evidence": [
+        "editorial/reviews/chapter-0002.md",
+        "editorial/korean-alignment/chapter-0002.json"
+      ]
+    },
+    {
+      "id": "CH002-03",
+      "status": "resolved",
+      "paragraphs": [
+        19,
+        26,
+        27,
+        49,
+        55,
+        72,
+        80,
+        81,
+        84,
+        89,
+        113,
+        124,
+        131
+      ],
+      "question": "Korean additions and conflicting readings",
+      "required_evidence": "Written source adjudication and final reading/layout evidence for acceptance.",
+      "resolution": "Explicit editorial choices and restored Korean-only details are recorded in the source decision table; neither witness is treated as infallible.",
+      "evidence": [
+        "editorial/reviews/chapter-0002.md",
+        "editorial/korean-alignment/chapter-0002.json"
+      ]
+    },
+    {
+      "id": "CH002-04",
+      "status": "resolved",
+      "paragraphs": [
+        9,
+        21,
+        42,
+        64,
+        94,
+        112,
+        133,
+        137,
+        138,
+        143
+      ],
+      "question": "Sound, viewpoint, and historical audit",
+      "required_evidence": "Written source adjudication and final reading/layout evidence for acceptance.",
+      "resolution": "Use contextual English action/sound cues and consistent perspective; triage all seven Chapter 2 historical audit suggestions.",
+      "evidence": [
+        "editorial/reviews/chapter-0002.md",
+        "editorial/korean-alignment/chapter-0002.json"
+      ]
+    },
+    {
+      "id": "CH002-05",
+      "status": "resolved",
+      "paragraphs": [
+        1,
+        143
+      ],
+      "question": "Final whole-chapter reading and layout",
+      "required_evidence": "Written source adjudication and final reading/layout evidence for acceptance.",
+      "resolution": "Read all 143 final paragraphs; checked 149-line source accounting and continuity endpoint; inspected desktop/mobile layout and four screenshots. Editorial acceptance is limited to this reconstructed chapter; full EPUB release QA remains separate.",
+      "evidence": [
+        "editorial/reviews/chapter-0002-final.md",
+        "qa/layout/chapter-0002.json"
+      ]
+    }
+  ],
+  "acceptance_evidence": "qa/acceptance/chapter-0002.json",
+  "release_status": "epub_not_built",
+  "final_review_evidence": [
+    "editorial/reviews/chapter-0002-final.md",
+    "editorial/continuity/chapter-0002.md",
+    "preview/chapter-0002.html",
+    "qa/layout/chapter-0002.json",
+    "qa/layout/chapter-0002-desktop-opening.png",
+    "qa/layout/chapter-0002-desktop-river.png",
+    "qa/layout/chapter-0002-desktop-legend.png",
+    "qa/layout/chapter-0002-mobile-ending.png"
+  ]
+}

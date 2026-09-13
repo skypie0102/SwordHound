@@ -14,7 +14,9 @@ def render_preview(chapter):
     for row in record['paragraphs']:
         text = row['draft_text']
         content = html.escape(text)
-        if 'thought, ‘' in text:
+        if text.startswith('‘') and text.endswith('’'):
+            content = '<em>' + content + '</em>'
+        elif 'thought, ‘' in text:
             start = content.index('‘')
             content = content[:start] + '<em>' + content[start:] + '</em>'
         kind = 'dialogue' if text.startswith('“') else 'narrative'

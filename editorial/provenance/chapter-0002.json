@@ -1,0 +1,1878 @@
+{
+  "chapter": 2,
+  "source": "source/chapters/chapter-002.xhtml",
+  "source_sha256": "f8b281777c3a6b7636fee8be5ca7c3722f55b0535f0c23a453dce10cdbf0b8a5",
+  "draft": "manuscript/drafts/chapter-0002.md",
+  "draft_sha256": "974c13a17ead66cd6e303a4803a42dc2f7b409ec654840ea98a9e55e8821f140",
+  "paragraph_count": 143,
+  "changed_paragraphs": 140,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "source_text_sha256": "3d62f5e58061e21d751d03315a2fa6459cb485529cd60fffc7753c952eb4d817",
+      "draft_text_sha256": "ed6b24f56a80bd0fc67b40b430dda7ed56df6bbd1d1d677ed88a4e02158b4730",
+      "source_text": "‘Where is this place?’",
+      "draft_text": "‘Where am I?’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 1 in consistent English after comparison with Korean lines 5; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        5
+      ]
+    },
+    {
+      "paragraph": 2,
+      "source_text_sha256": "be32a46512b3452213710af9215204bb122c2dae35d30158beedb2c7b9a362c7",
+      "draft_text_sha256": "854aabbcdb43e41db10c238e3570dc3dbbf73c61a163fe8bc5648c80c2929e6e",
+      "source_text": "Vikir checked his body.",
+      "draft_text": "Vikir examined his body.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 2 in consistent English after comparison with Korean lines 6; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        6
+      ]
+    },
+    {
+      "paragraph": 3,
+      "source_text_sha256": "f580eed6eb3e57d54e0a7dd2bb1a55aeaa9be78a5d50ae7be1f18082b7c471e2",
+      "draft_text_sha256": "e3af82b784a06fef0b2bf6fe8284a3bdcb08e15d8fea5482a4c88cc3cb5f0884",
+      "source_text": "There was no mana and it was extremely weak",
+      "draft_text": "It held no mana and was utterly weak.",
+      "changed": true,
+      "rationale": "Retain MTL mana and bodily weakness rather than generic Korean magic/strength; see terminology decision.",
+      "open_issues": [],
+      "korean_lines": [
+        7
+      ]
+    },
+    {
+      "paragraph": 4,
+      "source_text_sha256": "44faedafd1e4e1c6d86b7b8cd239d3e2a26e9768c259741285580a30733aa584",
+      "draft_text_sha256": "c060af436f3dc680c6ec76b62f68927ac835c9dddbe973a96c4c65cf0234e18c",
+      "source_text": "There is not even a handful of auras that he had built up across his countless battles",
+      "draft_text": "Not a trace remained of the aura he had built up through countless battles.",
+      "changed": true,
+      "rationale": "Retain MTL aura terminology instead of generic Korean mysterious techniques; source limitation documented.",
+      "open_issues": [],
+      "korean_lines": [
+        8
+      ]
+    },
+    {
+      "paragraph": 5,
+      "source_text_sha256": "5dce6f3b45fb7a1ddeca3c27ceeba180800db0e8696a9d98dd6bca107d1aa492",
+      "draft_text_sha256": "d1a4b17e29a2c2af6d6306deb351ca135b542a08b3065971d068bf7b7dcad3fa",
+      "source_text": "‘Did I fall into hell?’",
+      "draft_text": "‘Have I fallen into hell?’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 5 in consistent English after comparison with Korean lines 9; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        9
+      ]
+    },
+    {
+      "paragraph": 6,
+      "source_text_sha256": "38ef849d0c3ecb8a0a8a271c9a4471cae84c5325821c82fa04a598cc4a920dac",
+      "draft_text_sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f",
+      "source_text": "But it is not.",
+      "draft_text": "No.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 6 in consistent English after comparison with Korean lines 10; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        10
+      ]
+    },
+    {
+      "paragraph": 7,
+      "source_text_sha256": "dd2136d990137c3f32c75678423f220a5a86bd405f211ab192732ad04324d6a5",
+      "draft_text_sha256": "4bc61b617184920c666ade350f2ea5762d4e0f37b0067fb14b6bbbe64dae4e2c",
+      "source_text": "This place…… It’s too barren to even call it hell.",
+      "draft_text": "This place… was too desolate even to call hell.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 7 in consistent English after comparison with Korean lines 11; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        11
+      ]
+    },
+    {
+      "paragraph": 8,
+      "source_text_sha256": "5389cd39afc85505640416a2f0b5e3eab833003bf5a06a68a1ccbbc7b76cd799",
+      "draft_text_sha256": "a1a05d4576f8cbae2ffa32a5de1e5ae01f63547a190e087b1872f21011692b05",
+      "source_text": "A place where even hell would look more hospitable. Because that is the Baskerville family.",
+      "draft_text": "Even hell would have seemed hospitable beside the Baskerville family.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 8 in consistent English after comparison with Korean lines 12; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        12
+      ]
+    },
+    {
+      "paragraph": 9,
+      "source_text_sha256": "c06a60323089faaa507d51be799c51ee58a2f4133b166d3a39254e5757b7bc64",
+      "draft_text_sha256": "aa77bb1b6109fd6cfa5ae76c935276509db42b669e4c089c0ae973c654f23d9b",
+      "source_text": "’ There is no way that I do not know the atmosphere of the place where I have lived as a hunting dog for the past 30 years. ‘",
+      "draft_text": "‘I could never mistake the atmosphere of the place where I spent thirty years as a hunting dog.’",
+      "changed": true,
+      "rationale": "Repair thought quotation and natural English; preserve MTL direct thought where Korean narrates.",
+      "open_issues": [],
+      "korean_lines": [
+        13
+      ]
+    },
+    {
+      "paragraph": 10,
+      "source_text_sha256": "96615ba61abb889ae91f90fa86acb33bebfaf93ca2dbbcd2c2ff276c1764c0c4",
+      "draft_text_sha256": "2f2704bcc818cec57c6423bf72b816016c206d9762f9d30a3d440a1150b18db0",
+      "source_text": "The smell of blood, of pus, of all that was filthy and dead.",
+      "draft_text": "The smell of blood, of pus, of everything filthy and dead.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 10 in consistent English after comparison with Korean lines 14; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        14
+      ]
+    },
+    {
+      "paragraph": 11,
+      "source_text_sha256": "579bd5f26e150599f74082e5ce839253c0f94695c63aa1206f7808d0514f5d6d",
+      "draft_text_sha256": "bc03b7b619a1a015fadeff60e1dbce835de1cf911e75da1540d27d4c05d10faf",
+      "source_text": "Vikir van Baskerville had a hunch. That he had returned to the time when he had just been born.",
+      "draft_text": "Vikir Van Baskerville knew instinctively that he had returned to his infancy.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 11 in consistent English after comparison with Korean lines 15; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        15
+      ]
+    },
+    {
+      "paragraph": 12,
+      "source_text_sha256": "8dfc59cf514048a82b8a9fc252602206947b99c4cdeb6af6339f042b34a63c6c",
+      "draft_text_sha256": "8dfc59cf514048a82b8a9fc252602206947b99c4cdeb6af6339f042b34a63c6c",
+      "source_text": "‘What should I do now?’",
+      "draft_text": "‘What should I do now?’",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [],
+      "korean_lines": [
+        16
+      ]
+    },
+    {
+      "paragraph": 13,
+      "source_text_sha256": "d42202f836905bb6ee23d1f45d33e6d0e50a8f8376906a18d93c8f8812e44c11",
+      "draft_text_sha256": "15af4675dfb3677a789e6a843f945b96f2d3195f7db29518967474a261e5a654",
+      "source_text": "A body that has just lived for about 100 days. There’s not much you can do.",
+      "draft_text": "There was little he could do in a body only about a hundred days old.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 13 in consistent English after comparison with Korean lines 17; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        17
+      ]
+    },
+    {
+      "paragraph": 14,
+      "source_text_sha256": "324b9ddbbdb3d02e7474b2304797d441417cdc5025a816318f8e990c23695873",
+      "draft_text_sha256": "16f4c9fcae86ab2e5a69b95c50e47ca157993047825f82f75ae75c4fd2b58627",
+      "source_text": "Just turning over and signaling the shared nursery nanny to breastfeed?",
+      "draft_text": "Roll over and signal the nursery nanny to nurse him?",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 14 in consistent English after comparison with Korean lines 18; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        18
+      ]
+    },
+    {
+      "paragraph": 15,
+      "source_text_sha256": "cc5fb7e15d4eb42b626bedfa9f59d22c934310ffe7206e827b85444a8626ba3c",
+      "draft_text_sha256": "a0f67875451cc85a5e78233b0e6a1218e8a8858ca0180974d91c340aee978614",
+      "source_text": "Right then.",
+      "draft_text": "Just then—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 15 in consistent English after comparison with Korean lines 19; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        19
+      ]
+    },
+    {
+      "paragraph": 16,
+      "source_text_sha256": "b178563a1090a0560d35cf4c0c73c48b66b46922e1d30389969d19f4d6fbfc93",
+      "draft_text_sha256": "291b2bc8b2700c6c696a655c4c9e6ef101ae494044d7f03ef65e45fa727b14c1",
+      "source_text": "“There aren’t any guys that look useful.”",
+      "draft_text": "“None of them looks useful.”",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 16 in consistent English after comparison with Korean lines 20; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        20
+      ]
+    },
+    {
+      "paragraph": 17,
+      "source_text_sha256": "de7ef1a80d3d024cc1c61981eb9803b7cb137442f53af68430a07590c0080ff0",
+      "draft_text_sha256": "dd4e766e7a67b4b5903bf87264e476740cc9ffbef45765a8af4cfaff96e0c294",
+      "source_text": "A familiar voice was heard.",
+      "draft_text": "A familiar voice reached him.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 17 in consistent English after comparison with Korean lines 21; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        21
+      ]
+    },
+    {
+      "paragraph": 18,
+      "source_text_sha256": "e3701066b83fac4d66afe80a0aed831c699fdb9f1388f64142e6f229b3524262",
+      "draft_text_sha256": "c75599e49ad0867275b3dd297de8a114615cbfc6f616d55cdc27fec1d7d31ccc",
+      "source_text": "Hugo Le Baskerville, patriarch of the Baskervilles, was seen standing in the center of the nursery.",
+      "draft_text": "Hugo Le Baskerville, head of the Baskerville family, stood in the middle of the nursery.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 18 in consistent English after comparison with Korean lines 22; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        22
+      ]
+    },
+    {
+      "paragraph": 19,
+      "source_text_sha256": "53157d3fb917bee46febaf29fd31ea9b979168cdb77f77333c77ecea3dd5c00b",
+      "draft_text_sha256": "054c0683b6fd6d9fac260190454e43f599733a3911bfba1dc089548efe0bd069",
+      "source_text": "The moment he heard his voice, Vikir almost got up and bowed, as was his habit in life.",
+      "draft_text": "At the sound of his voice, Vikir almost rose and bowed out of habit from his previous life.",
+      "changed": true,
+      "rationale": "Retain MTL habitual bow rather than Korean kneeling; same involuntary deference, no new completed action.",
+      "open_issues": [],
+      "korean_lines": [
+        23
+      ]
+    },
+    {
+      "paragraph": 20,
+      "source_text_sha256": "f02af795ccf962e227680a2a146d3401662ff02bd45aac1bd11f71d9d7066764",
+      "draft_text_sha256": "5a998b865edfeb6e22ab5ae15e4630fabf5568dd597c366cdcfea413548b6205",
+      "source_text": "Fortunately, it was impossible because of the body of a newborn baby.",
+      "draft_text": "Fortunately, his infant body made that impossible.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 20 in consistent English after comparison with Korean lines 24; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        24
+      ]
+    },
+    {
+      "paragraph": 21,
+      "source_text_sha256": "c441fa35c572d1fd0e6c44059d0092f5cc55bab5f3a81c6332713bf755161c2e",
+      "draft_text_sha256": "08e50d68bdcfecfca68be3d8216867263415009c9bc6c7acd4984c15adf471db",
+      "source_text": "Pudeuk-",
+      "draft_text": "Clench—",
+      "changed": true,
+      "rationale": "Contextual clenching action cue, not an audible tooth sound; both sources immediately state he has no teeth.",
+      "open_issues": [],
+      "korean_lines": [
+        25
+      ]
+    },
+    {
+      "paragraph": 22,
+      "source_text_sha256": "514e7f14c0212fad9b91aa0a5ceb30dea9f3a83be36ffca33e93031122bb7bf8",
+      "draft_text_sha256": "339456a517e2a5a5b8a3960772d0ff6b205c171a369b4cdf6bfdc15a7a12965b",
+      "source_text": "Seeing the main culprit who had executed him , he gritted his teeth.",
+      "draft_text": "At the sight of the man who had framed and executed him, he clenched his jaw.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 22 in consistent English after comparison with Korean lines 26; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        26
+      ]
+    },
+    {
+      "paragraph": 23,
+      "source_text_sha256": "420ea657a9c7766d67743acdd2aa8cb9b64c414b9a623b3e75b86f5aa4469d75",
+      "draft_text_sha256": "af031d7076996ffb4871e2d8fef904ba160681fa940580fbeb4e52a03f33eeda",
+      "source_text": "However, because the body had not yet grown teeth, there was no sound.",
+      "draft_text": "But he had no teeth yet, so he made no sound.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 23 in consistent English after comparison with Korean lines 27; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        27
+      ]
+    },
+    {
+      "paragraph": 24,
+      "source_text_sha256": "058adf5565f82bffc9f2a030cfd2feb41593ee4b3f86c38f532b028a25beb2ae",
+      "draft_text_sha256": "d44a700d8dcb92d4238a3321f1948f98c9f5eb600a5a8605c21f88d4b1266fb0",
+      "source_text": "‘Let’s calm down.’",
+      "draft_text": "‘Calm down.’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 24 in consistent English after comparison with Korean lines 28; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        28
+      ]
+    },
+    {
+      "paragraph": 25,
+      "source_text_sha256": "f7811a77abd0347909813ecea692e6b08803304f83539ea8d381eb7db6ab2dc4",
+      "draft_text_sha256": "46f4ebe354727cc903e38081fe8c9b5385c5c9d3066cb9a6bedcd5605f65a9f8",
+      "source_text": "In the past, in order to become a member of the Baskerville family, to be recognized by his father, and to get rid of the pretense of being an illegitimate child, the days of shame and shame he struggled with.",
+      "draft_text": "In his previous life, he had struggled desperately to belong to the Baskerville family, to earn his father’s recognition, to cast off the stigma of being an illegitimate child.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 25 in consistent English after comparison with Korean lines 29; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        29
+      ]
+    },
+    {
+      "paragraph": 26,
+      "source_text_sha256": "f74febede09ff4d23a066bd9e37a45180e7d7212fe10d090e97b646ea9632c8a",
+      "draft_text_sha256": "e7a291b80338b4a9d54beede079bf81c4895dc2e8726998da49476b38cd2866c",
+      "source_text": "Inferior blood, the tag did not leave him no matter what he did.",
+      "draft_text": "Inferior blood. No matter what he did, that label had clung to him.",
+      "changed": true,
+      "rationale": "Retain MTL stigma that clung to him; Korean says this past life is over, expressed in the next paragraph.",
+      "open_issues": [],
+      "korean_lines": [
+        30
+      ]
+    },
+    {
+      "paragraph": 27,
+      "source_text_sha256": "568257e5bf24ad1bf8554daf62fe842549ac2d74e0cdee52837f0c1722fec1e7",
+      "draft_text_sha256": "7851ab4b13f9696de76f447367db4f0d7818e924110a160b5a839d6ad2b29c7a",
+      "source_text": "I would live differently in this life. If the rabbit disappears, it will not live a life like a hound being boiled.",
+      "draft_text": "This life would be different. He would not be a hound boiled in the pot once the rabbits were gone.",
+      "changed": true,
+      "rationale": "Preserve hound-cooked-after-hunt metaphor supported by later Korean lines 95–96, repairing Korean lost-prey wording.",
+      "open_issues": [],
+      "korean_lines": [
+        31
+      ]
+    },
+    {
+      "paragraph": 28,
+      "source_text_sha256": "cc5fb7e15d4eb42b626bedfa9f59d22c934310ffe7206e827b85444a8626ba3c",
+      "draft_text_sha256": "a0f67875451cc85a5e78233b0e6a1218e8a8858ca0180974d91c340aee978614",
+      "source_text": "Right then.",
+      "draft_text": "Just then—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 28 in consistent English after comparison with Korean lines 32; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        32
+      ]
+    },
+    {
+      "paragraph": 29,
+      "source_text_sha256": "f68e64fbb3a47a016db377eb9458b559db81ff3aa9e3cda2e31a0936c2ea6f86",
+      "draft_text_sha256": "51e4ae8441a9e95fc83c00e821976a7a7a46558c9015c722a3ea5feda7779101",
+      "source_text": "There was an opportunity that made Vikir’s determination even stronger.",
+      "draft_text": "An opportunity arose that strengthened Vikir’s resolve.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 29 in consistent English after comparison with Korean lines 33; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        33
+      ]
+    },
+    {
+      "paragraph": 30,
+      "source_text_sha256": "618052e67719e276840714e651f629cfaf534104cd698faaa06c701204081116",
+      "draft_text_sha256": "e847ae524f5f1cefc10f19286d7048c132b763d98a253124e0b02f55c0048c76",
+      "source_text": "“Move the children to the ‘cradle of the sword’.”",
+      "draft_text": "“Take the children to the Cradle of Swords.”",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 30 in consistent English after comparison with Korean lines 34; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        34
+      ]
+    },
+    {
+      "paragraph": 31,
+      "source_text_sha256": "cb394c7c6b4687742575f414ec4650954f15b2e9a1c8ef99baacd426be5ab48a",
+      "draft_text_sha256": "e12675689c2b3e5ca16920db2b3c4c7bb721fc6bf7e1b0b746fd26b5e55e889d",
+      "source_text": "I heard Hugo’s words.",
+      "draft_text": "Hugo’s order rang out.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 31 in consistent English after comparison with Korean lines 35; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        35
+      ]
+    },
+    {
+      "paragraph": 32,
+      "source_text_sha256": "e1ee7af22db10cc880c51646b0e3a685188c176bd954d82ee853b1af4ca76f07",
+      "draft_text_sha256": "2995f4348cff5d365cd2c55a4e9451b89ccdcb78111a4d9ce4b31327d090239c",
+      "source_text": "As she left in the hands of her nanny, Vikir’s mind was racing.",
+      "draft_text": "As the nanny carried him away, Vikir’s thoughts raced.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 32 in consistent English after comparison with Korean lines 36; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        36
+      ]
+    },
+    {
+      "paragraph": 33,
+      "source_text_sha256": "e809c01d69f8d0e317534c40a5b0b1e1f116c476846fd501d5fb981edef69b00",
+      "draft_text_sha256": "962c702952a38a16a45003cd8b076520645c0f39e2a97adafb5911be978ef7b3",
+      "source_text": "‘Is it the first rite of passage?’",
+      "draft_text": "‘The first rite of passage?’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 33 in consistent English after comparison with Korean lines 37; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        37
+      ]
+    },
+    {
+      "paragraph": 34,
+      "source_text_sha256": "a3713f73b0910738c07807f7a5ae4fe6013c219b426cfd262f8f777ea6a044ed",
+      "draft_text_sha256": "0b60cd438a7082051f6d02412d7e6e08d29363bccf33195bc3f1a25c4e439a16",
+      "source_text": "The Cradle of Swords is a journey to the River Styx, which took place around a small hill.",
+      "draft_text": "The Cradle of Swords wound around a small hill toward the River Styx.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 34 in consistent English after comparison with Korean lines 38; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        38
+      ]
+    },
+    {
+      "paragraph": 35,
+      "source_text_sha256": "fd5e4f9943f7bd20cb5e289267c4b98e507f41219210266c5bc234e7d377c711",
+      "draft_text_sha256": "5f0ee282bb33658aeefa32a3c563d1bf79fc977f9d77c538ddd5cc1326d9c5bd",
+      "source_text": "The moment they moved through the maze made of swords and dive into the River Styx, the children of the Baskerville family are reborn as warriors.",
+      "draft_text": "Once they passed through the maze of blades and plunged into the Styx, the Baskerville children were reborn as warriors.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 35 in consistent English after comparison with Korean lines 39; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        39
+      ]
+    },
+    {
+      "paragraph": 36,
+      "source_text_sha256": "90a3b79beb8937ac026f474a3c85b05e2c6a75d3bbe376f7ba6ad4eeffddd895",
+      "draft_text_sha256": "ed784537e1991bca46a774dce500980edd091f0df618271170847eb3c96cbbd1",
+      "source_text": "Of course, the blessing of the River Styx did not give strength equally.",
+      "draft_text": "But the river did not have enough power to bless them all equally.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 36 in consistent English after comparison with Korean lines 40; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        40
+      ]
+    },
+    {
+      "paragraph": 37,
+      "source_text_sha256": "bbf792226b4b505632b5395c709b96053800a4afcc6d6821a9fb2dc7f0a83b54",
+      "draft_text_sha256": "73b866214118206fabe0cde6851dcd127d19d42775b068638211406a96f2656e",
+      "source_text": "The weak die and the strong survive.",
+      "draft_text": "The weak became prey to the strong. Only the fittest survived.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 37 in consistent English after comparison with Korean lines 41; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        41
+      ]
+    },
+    {
+      "paragraph": 38,
+      "source_text_sha256": "f68cdf137e1c7aa23e7b6b9b4607737ccd47e4bf6450d5c0e32d78edbfbacbda",
+      "draft_text_sha256": "9b48e6e89e97c327f3cf85fa2392a8fa94c304e545087370904734382f49a18a",
+      "source_text": "The strong get more than the weak.",
+      "draft_text": "The strong took the greater share. That rule held from birth.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 38 in consistent English after comparison with Korean lines 42; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        42
+      ]
+    },
+    {
+      "paragraph": 39,
+      "source_text_sha256": "b8fe259ec4d9fdc63670615c869eabd199e2163814fd3d4432a492af33dde250",
+      "draft_text_sha256": "f2ca633769770db235655c860cd6981e3df5c4e6b0979fa3c3eb3ad4e5ad287a",
+      "source_text": "The children of the Baskervilles must get out of the cradle of swords as quickly as possible and dive into the River Styx.",
+      "draft_text": "The Baskerville children had to escape the Cradle of Swords and enter the Styx as quickly as possible.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 39 in consistent English after comparison with Korean lines 43; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        43
+      ]
+    },
+    {
+      "paragraph": 40,
+      "source_text_sha256": "5be533bcc529bee0f6db9511b32b24fe9100f450a4798c4096fa92b756cfd5d4",
+      "draft_text_sha256": "bbe38d3c4432f5659cbb1b2dd29295247a27af5f1ded0b41cccfd9256e1f7624",
+      "source_text": "You need to soak in the river as quickly as possible and for as long as possible to gain an advantage over your brothers.",
+      "draft_text": "To gain an advantage over their siblings, they had to enter the water early and stay submerged as long as they could.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 40 in consistent English after comparison with Korean lines 44; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        44
+      ]
+    },
+    {
+      "paragraph": 41,
+      "source_text_sha256": "c3fa67cc5444f45010b1b0d35da88ffd6acc5a1bd315c17b53f2a39bb626c44a",
+      "draft_text_sha256": "b825a5ab02f962fbaff6205afca0bb9dcaaa65738cee9ac7e9b1f91195217414",
+      "source_text": "So Vikir moved as soon as he was thrown into the center of the cradle of swords.",
+      "draft_text": "So Vikir began moving the instant he was thrown into the middle of the Cradle of Swords.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 41 in consistent English after comparison with Korean lines 45; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        45
+      ]
+    },
+    {
+      "paragraph": 42,
+      "source_text_sha256": "8280cb40b43057cd3318e0b99083767fcf797a4086d3e7b376aa82afaa7fa868",
+      "draft_text_sha256": "a1839b72e29a6d41e22bfc2ca14339e6931d42b90fadf759e756aed70addf22b",
+      "source_text": "…Bck!",
+      "draft_text": "Grip—",
+      "changed": true,
+      "rationale": "Both source sound tokens are corrupt; use an explicit contextual gripping cue, not a claimed literal translation.",
+      "open_issues": [],
+      "korean_lines": [
+        46
+      ]
+    },
+    {
+      "paragraph": 43,
+      "source_text_sha256": "a12140a942be74588e9a8e3b6714a96291e798c74dc102c7edea37a59e76938d",
+      "draft_text_sha256": "64c50ea101f51a14822128e4609dc77622b5834c56303659f1151f33bde45c76",
+      "source_text": "He moved the blade with two soft hands.",
+      "draft_text": "He seized a blade with both tiny hands.",
+      "changed": true,
+      "rationale": "K047 explicitly says grasp the blade tightly; repair MTL moving it.",
+      "open_issues": [],
+      "korean_lines": [
+        47
+      ]
+    },
+    {
+      "paragraph": 44,
+      "source_text_sha256": "91d78e24be9c39bd60203d9055a99b785ed1309e1896263d0631270a9efc792a",
+      "draft_text_sha256": "ff2b08b19e0c4e4189e5c66fe3853ae4d43a7d32121ef44eef350e10a163aa88",
+      "source_text": "It is said that children from some prestigious families take things that help them in the future, but children from the Baskerville family have to grab the blades that threaten their future from the first birthday.",
+      "draft_text": "Children of other noble families grasped objects meant to help their futures during their first grasping ceremony. Baskerville children had to grasp blades that threatened theirs.",
+      "changed": true,
+      "rationale": "Follow K048 first grasping ceremony; MTL first birthday contradicts the hundred-day age and Chapter 1.",
+      "open_issues": [],
+      "korean_lines": [
+        48
+      ]
+    },
+    {
+      "paragraph": 45,
+      "source_text_sha256": "baf7fddb54d906815dc4a42e6b33eabb62623f3eb740732286d7bbe602685013",
+      "draft_text_sha256": "bbde48b73911d647c97a9e72bf538fd0e482e9a3223154e0b036be8f8dcf581d",
+      "source_text": "Spit- Pot- Jjik- Jjik-",
+      "draft_text": "Slash—rip—tear—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 45 in consistent English after comparison with Korean lines 49; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        49
+      ]
+    },
+    {
+      "paragraph": 46,
+      "source_text_sha256": "6aa0221703355607063da92104c71e3a61ad0332d1a0d42294a9876665e179a9",
+      "draft_text_sha256": "4fee4fd16dd14f86cb2e3da6a14178ac89a73ef3ba1102d32fd081b48f631b58",
+      "source_text": "The blade cut through his skin.",
+      "draft_text": "The blades sliced his skin.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 46 in consistent English after comparison with Korean lines 50; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        50
+      ]
+    },
+    {
+      "paragraph": 47,
+      "source_text_sha256": "e0e17ae38f39254379851bc2766afd072a470a5cae5f50744c8869712701c4e0",
+      "draft_text_sha256": "108e705fa9b8b16985ac693f121a8181eab554ae3753c7619baf3589339df951",
+      "source_text": "Every time he squeezed between the blades with force, a burning pain rushed through his whole body.",
+      "draft_text": "Each time he forced himself through a gap between the blades, searing pain coursed through his body.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 47 in consistent English after comparison with Korean lines 51; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        51
+      ]
+    },
+    {
+      "paragraph": 48,
+      "source_text_sha256": "35123ab00071965ddba0c6ce003a19791a5d7cc55caf99219ddf6d5f8f3485d7",
+      "draft_text_sha256": "8f2b8cb2bb858b942044312c245414e6058db0a13b60a80a076a2ae2dac3a6ad",
+      "source_text": "But it didn’t matter.",
+      "draft_text": "But that did not matter.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 48 in consistent English after comparison with Korean lines 52; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        52
+      ]
+    },
+    {
+      "paragraph": 49,
+      "source_text_sha256": "c32476586e8421c9af59dcdacc3e30cda549de8103ed33f5ada2f5bde2264c2f",
+      "draft_text_sha256": "ca5658d8934546f0eb6f6804f237d8dd07b0f0e649cfc290e0972a3650b23944",
+      "source_text": "This level of pain is something he had become accustomed to after living as a hunting dog for the past few decades.",
+      "draft_text": "Decades as a hunting dog had made him accustomed to such pain. He had endured it countless times while biting, clawing at, and subduing others.",
+      "changed": true,
+      "rationale": "Include K054 biting/clawing/subduing sentence absent from MTL within its corresponding pain paragraph.",
+      "open_issues": [],
+      "korean_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "paragraph": 50,
+      "source_text_sha256": "a39f0613d5c956f0a2ca9a223528cd923004eb9ed17c8cf8c063eb3c4204771b",
+      "draft_text_sha256": "1842716af75d347cb28b9505b9bb6adfabe100803c7f07c4c636b4f918e89346",
+      "source_text": "‘Moreover, the deeper the wound, the better, so that the water of the Styx can permeate the body better.’",
+      "draft_text": "‘Besides, the deeper the wounds, the better the Styx’s water can seep into my body.’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 50 in consistent English after comparison with Korean lines 55; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        55
+      ]
+    },
+    {
+      "paragraph": 51,
+      "source_text_sha256": "1b82dc69ed6df1277df10db20a1d9ff8e19eea0e6a58266bf603c79da5271dac",
+      "draft_text_sha256": "1d72053d5813ae6d060e73e95800a2a91b8e6673d756b6aa6606d131db61ab26",
+      "source_text": "Vikir knew all the secrets, legends, myths, and ghost stories of the Baskervilles.",
+      "draft_text": "Vikir knew the Baskervilles’ secrets, legends, myths, and ghost stories.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 51 in consistent English after comparison with Korean lines 56; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        56
+      ]
+    },
+    {
+      "paragraph": 52,
+      "source_text_sha256": "26097aeb424b92c2beab587d90eeaaf60a87e52ba3b5a6d2f5f3e7d269ffabe5",
+      "draft_text_sha256": "802754bd95c55eaaec76b4a8646fb4d579c1773e98a7b89bd7381fe2176dc3a3",
+      "source_text": "That’s why he knows how to make the most of the River Styx.",
+      "draft_text": "He knew how to make the most of the River Styx.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 52 in consistent English after comparison with Korean lines 57; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        57
+      ]
+    },
+    {
+      "paragraph": 53,
+      "source_text_sha256": "789e521de3d392e8a7d00dc0740dd4b80fea930467b10dcf5d1a6f19aa33112b",
+      "draft_text_sha256": "20a09b067d3652c4f55bb2d454142ee46babd458c0f17464a11afc5093258350",
+      "source_text": "Eonggeum… Eonggeum… Eonggeum…",
+      "draft_text": "Wriggle… wriggle… wriggle…",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 53 in consistent English after comparison with Korean lines 58; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        58
+      ]
+    },
+    {
+      "paragraph": 54,
+      "source_text_sha256": "1895d7d96c0b6d8506e4dc87af81d572298767a5c8bfd9f975312c63f4e517a7",
+      "draft_text_sha256": "6204dc01b12ecb61c92ef73d1f3509d62e73f86987ef679fe8dd4b8bccbaf888",
+      "source_text": "The child’s soft body is led to hell by the hound’s hardened soul.",
+      "draft_text": "The hound’s tenacious soul dragged the child’s fragile body toward hell.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 54 in consistent English after comparison with Korean lines 59; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        59
+      ]
+    },
+    {
+      "paragraph": 55,
+      "source_text_sha256": "ef4811864d445779daf7f6c86ef1becdeddc1794a390984b55af8489d90df9cb",
+      "draft_text_sha256": "1f4c4712c133c95d2e0eab6226c5dbc3ada4a6e339765a67158c479988f6b691",
+      "source_text": "The blood flowing from his body and going down the ramp indicated the straight route and the shortest distance to go forward.",
+      "draft_text": "Blood marked a crimson trail. Flowing from his body and down the slope, it showed him the shortest way forward.",
+      "changed": true,
+      "rationale": "Include K060 crimson blood-trail fragment within its matching MTL paragraph.",
+      "open_issues": [],
+      "korean_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "paragraph": 56,
+      "source_text_sha256": "763ad598e945c2db1977b01f3eab9d32463ad2cd96d875448901046c17c23774",
+      "draft_text_sha256": "785a96b2775774b2325f45dc76cd62b192bdd8d9d2117cb8a8a759c54baddc82",
+      "source_text": "Vikir continued to crawl in the direction as he continued to bleed.",
+      "draft_text": "Vikir crawled in the direction his blood flowed.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 56 in consistent English after comparison with Korean lines 62; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        62
+      ]
+    },
+    {
+      "paragraph": 57,
+      "source_text_sha256": "982416f2ed3dae3803d6b3e23b7277ed5b6eadd6169b78ea389a3cfe08373638",
+      "draft_text_sha256": "38a2e57771b3383bd6b8f3464239a1268f9eb38c35a1f2b207e582e59667c1fa",
+      "source_text": "And soon, he reached the holy ground of the Baskervilles.",
+      "draft_text": "Before long, he reached the Baskervilles’ sacred grounds.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 57 in consistent English after comparison with Korean lines 63; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        63
+      ]
+    },
+    {
+      "paragraph": 58,
+      "source_text_sha256": "0329e4aa5200e9ccbc254bde5fc7ccf0d5b1b82dcc16941b8ca3d508378cde64",
+      "draft_text_sha256": "59d170bea13e4ac732637ac9fa1ea7780400f79d72051f6b265cb6e836f8edbb",
+      "source_text": "River Styx flowing through the swamp.",
+      "draft_text": "The River Styx flowed through the marsh.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 58 in consistent English after comparison with Korean lines 64; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        64
+      ]
+    },
+    {
+      "paragraph": 59,
+      "source_text_sha256": "0648c9e510fa6ecca9191a34429bf83972365f8c66d66649df6ca59e88697174",
+      "draft_text_sha256": "8d8d62f009f3182bf7cf4307ac9e281b015a4477b723a0e4467f1b7101cc037f",
+      "source_text": "When you soak in this place, your body becomes as hard as steel and your soul becomes extremely strong.",
+      "draft_text": "Its waters made the body as hard as steel and the soul remarkably clear.",
+      "changed": true,
+      "rationale": "Follow K065 clarity of soul rather than MTL strength; do not substitute a precise aura mechanic here.",
+      "open_issues": [],
+      "korean_lines": [
+        65
+      ]
+    },
+    {
+      "paragraph": 60,
+      "source_text_sha256": "491022df9a3fc24b98f12844e88154db9b936684222db30b5ae617d2082dfb5c",
+      "draft_text_sha256": "fb91322bf2bf5191052364fce74ea590508a6dde60e2aba158cf4952edde8e52",
+      "source_text": "Vikir threw himself into the river in his fetal position.",
+      "draft_text": "Vikir curled into a fetal position and threw himself into the river.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 60 in consistent English after comparison with Korean lines 66; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        66
+      ]
+    },
+    {
+      "paragraph": 61,
+      "source_text_sha256": "46773288baed683d3e0328ceb354928cba241dcdcddb4f0180823fa757211efb",
+      "draft_text_sha256": "7a649b170eeac2d297803c9889f015e352c98d1b0434d60388aa91f84a1c82af",
+      "source_text": "…With a plop!",
+      "draft_text": "Splash!",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 61 in consistent English after comparison with Korean lines 67; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        67
+      ]
+    },
+    {
+      "paragraph": 62,
+      "source_text_sha256": "b682e25ef7de81b0c3633b022327ec116e002b68aab9e5d129720307152bde2f",
+      "draft_text_sha256": "318c2d7c6d94c3c4c1ae376dc2ca64817e9d4e9b454b0d927f1120499a2f0d59",
+      "source_text": "Heavy. It was as painful as if I had been submerged in boiling molten iron.",
+      "draft_text": "The weight pressed down on him. The pain was like being plunged into boiling molten iron.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 62 in consistent English after comparison with Korean lines 68; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        68
+      ]
+    },
+    {
+      "paragraph": 63,
+      "source_text_sha256": "2c437ddc8946254570665ff450634a5e3a412e3801d36c4d889b11e97144648e",
+      "draft_text_sha256": "f01f31f09cff78bad379e3605983a804c880fda9c71e69da6c114c7b00f765e2",
+      "source_text": "Water hot enough to steam up. Having fallen here with countless stabs all over her body, there was no doubt that it would not be painful.",
+      "draft_text": "Steam rose from the water. Falling into it with cuts all over his body was sheer torment.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 63 in consistent English after comparison with Korean lines 69; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        69
+      ]
+    },
+    {
+      "paragraph": 64,
+      "source_text_sha256": "ef447d17221e5e4610b34ba9f2334dfc78bfc29495dc75afcdf31fb5cab5b5bb",
+      "draft_text_sha256": "8d8b3b8f26615241e310e4446792b23071192899736f60ff54abda6082a77f57",
+      "source_text": "But Vikir endured the pain of being boiled. And he waited",
+      "draft_text": "But Vikir endured the boiling pain and waited.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 64 in consistent English after comparison with Korean lines 70; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        70
+      ]
+    },
+    {
+      "paragraph": 65,
+      "source_text_sha256": "5f8ff67b6727207c542235b64f900cfc14cf0830e3691cb721e3562077bce320",
+      "draft_text_sha256": "9a67f3510321ef1ce2960b72883e6f9d92ecd0685d66966442c694a1b47db8e3",
+      "source_text": "The waters of the Styx permeated through the cuts, torn, and bursting wounds.",
+      "draft_text": "He waited for the Styx’s water to seep through his torn and gaping wounds.",
+      "changed": true,
+      "rationale": "Follow K071 waiting for absorption, retaining MTL description of torn wounds.",
+      "open_issues": [],
+      "korean_lines": [
+        71
+      ]
+    },
+    {
+      "paragraph": 66,
+      "source_text_sha256": "bbf045f02a6beda4f8be52956120bf4ef91d8523fa9890fc014d4df96129a11e",
+      "draft_text_sha256": "30188b9c8b25ae106c9e2483895b40859bfc14a902a328322833d4def805fea9",
+      "source_text": "Yet.",
+      "draft_text": "Before long—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 66 in consistent English after comparison with Korean lines 72; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        72
+      ]
+    },
+    {
+      "paragraph": 67,
+      "source_text_sha256": "163e50c956eb916ff5ea855a60082f225e888a88c8322d209fc139784cae69d9",
+      "draft_text_sha256": "549200b28682a91a60a3b401aff7214618ef774d96d0ce90f56a2f266e0179ff",
+      "source_text": "Tsutsutsutsutsu……",
+      "draft_text": "Sss…",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 67 in consistent English after comparison with Korean lines 73; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        73
+      ]
+    },
+    {
+      "paragraph": 68,
+      "source_text_sha256": "0f1ed6233102a47a8438f65f7cab9ff1b48f96b05a1e871277ca013493a3b073",
+      "draft_text_sha256": "fd86c0613bd17bd1e96c6e79c626fa516ef75355231125f905b3c4461a629ccc",
+      "source_text": "The body began to change.",
+      "draft_text": "His body began to change.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 68 in consistent English after comparison with Korean lines 74; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        74
+      ]
+    },
+    {
+      "paragraph": 69,
+      "source_text_sha256": "b1a9f0a3da65736c3b817fc2be053a12a5fdbd198034e14f990f66aa058ad803",
+      "draft_text_sha256": "3b02b6ff6062bccdaa327cfb78a0e409d273e3077e64113626a750560aebf504",
+      "source_text": "The water of Styx, which permeated through the wounds and penetrated into the bones and intestines, was transforming Vikir’s body from one to ten.",
+      "draft_text": "The water seeped through his wounds into his bones and organs, transforming his body completely.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 69 in consistent English after comparison with Korean lines 75; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        75
+      ]
+    },
+    {
+      "paragraph": 70,
+      "source_text_sha256": "e368068ec470c52cfab2de913c1dec40c1093bcbc6f02b688fc4c080c38cfc6b",
+      "draft_text_sha256": "01d53e9d570bfb93be9094fa799e25d256decd229faa025f4a702a825a12a373",
+      "source_text": "‘It’s definitely different.’",
+      "draft_text": "‘It really is different.’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 70 in consistent English after comparison with Korean lines 76; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        76
+      ]
+    },
+    {
+      "paragraph": 71,
+      "source_text_sha256": "8035c3b37763d2515d7bd31cf4fc5f67043fe5a158b95c4349b7002df15d14aa",
+      "draft_text_sha256": "750ecb8d3e0771c319f9370cfcc2ad0ae5e7e5d21678d5573981d55f2cffafd5",
+      "source_text": "Vikir was amazed that his good start could make such a dramatic difference.",
+      "draft_text": "Vikir marveled at how much a good start could change.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 71 in consistent English after comparison with Korean lines 77; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        77
+      ]
+    },
+    {
+      "paragraph": 72,
+      "source_text_sha256": "c02417585e58ec0194afcda08af9eb4ca9985c70f25d9cbe99d2af4df91e06c7",
+      "draft_text_sha256": "4c7b7851c43e4c4db2f33fc9592e7ca50e345d29d8c4d36eb605ef90cde1f108",
+      "source_text": "The body of the previous life was tough and seasoned, but it was still small and thin compared to the others.",
+      "draft_text": "In his previous life, his body had been tough and battle-hardened, but small and thin compared with the others.",
+      "changed": true,
+      "rationale": "Retain MTL battle-hardened instead of Korean talented, which conflicts with the immediately following limited-ability comparison.",
+      "open_issues": [],
+      "korean_lines": [
+        78
+      ]
+    },
+    {
+      "paragraph": 73,
+      "source_text_sha256": "ac02ff064082494a835283fbb010e625fd62a6b57b2db2e77ac2e8285bdfe820",
+      "draft_text_sha256": "f6bd287c9787f2c63826482d998abeef538ca60c0e81f0d771f6d919880c8640",
+      "source_text": "Since the bones themselves were weak, there were limits to attaching muscles, and since the mana paths were narrow, there were clear restrictions on raising the aura.",
+      "draft_text": "His weak bones limited how much muscle he could build, and his narrow mana channels restricted the growth of his aura.",
+      "changed": true,
+      "rationale": "Retain MTL mana channels/aura distinction; Korean uses qi channels/magical power generically.",
+      "open_issues": [],
+      "korean_lines": [
+        79
+      ]
+    },
+    {
+      "paragraph": 74,
+      "source_text_sha256": "5a4f8bce429567c98207ab609ec0349a89f4d2aec48b95e8fafe65824f47a53f",
+      "draft_text_sha256": "71b60f113cd8c827aea788f52bf9f57b9e48e6c13adf1b86a5b52f795378e48f",
+      "source_text": "But his brothers were different. Tall, thick bones, and a wide mana veins.",
+      "draft_text": "His brothers were different: tall, thick-boned, with broad mana channels.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 74 in consistent English after comparison with Korean lines 80; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        80
+      ]
+    },
+    {
+      "paragraph": 75,
+      "source_text_sha256": "8929335b92a2c14e04c9a7fe46be154b5a972e5ebd40928d56ca8674bf884b67",
+      "draft_text_sha256": "f507e0b1e4022814dbba96745afc810ad1f69484c12aaeeb817e109644c31618",
+      "source_text": "It is different in talent, quality, and starting line.",
+      "draft_text": "Their talent, their potential, even their starting point had been different.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 75 in consistent English after comparison with Korean lines 81; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        81
+      ]
+    },
+    {
+      "paragraph": 76,
+      "source_text_sha256": "e9052dd82dbbf210743fc1d0d9a8eb54c27e17650ea83f3be864a4f478ec0a05",
+      "draft_text_sha256": "651e52d14226be9a904822d000470d1e9f168eb0776e24574fd24868b7ea0cd1",
+      "source_text": "In his previous life, Vikir almost came out of the Tower of Swords in last place.",
+      "draft_text": "In his previous life, Vikir had been among the last to leave the Cradle of Swords.",
+      "changed": true,
+      "rationale": "Normalize isolated Tower of Swords variant in both witnesses to the same Cradle trial established by the surrounding account; record as contextual adjudication.",
+      "open_issues": [],
+      "korean_lines": [
+        82
+      ]
+    },
+    {
+      "paragraph": 77,
+      "source_text_sha256": "c810572f944c97a7b0a7ca92e8efa2757452d796a7a9a5244f9c880a9b98e270",
+      "draft_text_sha256": "556dbdee01240b87f3c4509f863989e2618160cfa7e2b9b710e8e6531675aca6",
+      "source_text": "So he couldn’t properly enjoy the effect of the River Styx.",
+      "draft_text": "He had gained little benefit from the River Styx.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 77 in consistent English after comparison with Korean lines 83; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        83
+      ]
+    },
+    {
+      "paragraph": 78,
+      "source_text_sha256": "426da8fd4f6a3e5a70dd07f2f692d708fe026918ee01d0e96c12105f2d143b63",
+      "draft_text_sha256": "5c6a89a53fa95085386a5d8f28ead8e31b1adf103f20b20f3fc7d9e30acbf83c",
+      "source_text": "Because all of his brothers had already absorbed that power.",
+      "draft_text": "His brothers had already absorbed most of its power.",
+      "changed": true,
+      "rationale": "K084 power seized by brothers is physical river power in the surrounding passage; preserve MTL mechanism, qualify most rather than all.",
+      "open_issues": [],
+      "korean_lines": [
+        84
+      ]
+    },
+    {
+      "paragraph": 79,
+      "source_text_sha256": "b6119086e6fb4b0bd96d2d345a5110a189bc5adc243f290fb5816210862c3e47",
+      "draft_text_sha256": "290566e4e8f87b5ffc4fcd56452f32155ad2a986ca9dd4253efb0597fd701700",
+      "source_text": "Since then, due to his background as an illegitimate child and poor talent, he has been given only the last rank every time.",
+      "draft_text": "After that, his illegitimate birth and limited ability had always consigned him to last place.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 79 in consistent English after comparison with Korean lines 85; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        85
+      ]
+    },
+    {
+      "paragraph": 80,
+      "source_text_sha256": "9c9faccc97a78ae9f68935dd7f7d23bf5ad7a8ca77602d2f0fecebf0c0200eda",
+      "draft_text_sha256": "efddcc21a694cd79b6c085ab34b6d2e68726be3c0d14a7a28bc493fff4a01197",
+      "source_text": "When others ate healthy food, wore the best stuff, slept in comfortable beds.",
+      "draft_text": "While the others enjoyed good food, fine clothes, comfortable lodgings, and clean work…",
+      "changed": true,
+      "rationale": "Restore Korean contrast of clean work with dirty work in K086–087.",
+      "open_issues": [],
+      "korean_lines": [
+        86
+      ]
+    },
+    {
+      "paragraph": 81,
+      "source_text_sha256": "2f848d593ba04ba9ad9f3129e1f6cd80bf714cab9b8bd70d5d5845f3d3ac456b",
+      "draft_text_sha256": "866f853092a5945e570d9af74a197f5b482e2b8f17652e0f8bb6235836ae7a56",
+      "source_text": "He ate dirty scarps, wore shitty clothes, slept in dirty places.",
+      "draft_text": "He ate filthy scraps, wore shabby clothes, slept in squalor, and did the dirty work.",
+      "changed": true,
+      "rationale": "Restore Korean dirty-work contrast and repair source typo/profanity register.",
+      "open_issues": [],
+      "korean_lines": [
+        87
+      ]
+    },
+    {
+      "paragraph": 82,
+      "source_text_sha256": "4630874a5ee93bb3102466a0033ef466c212f042f57d97f3bb161a8461ea135e",
+      "draft_text_sha256": "c249f428b26cfc724406a43db17533b14e13d2afc30f5e0209c90cd95b02dbaa",
+      "source_text": "The achievements obtained by him were taken by his brothers.",
+      "draft_text": "His half brothers reaped the rewards of his labor.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 82 in consistent English after comparison with Korean lines 88; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        88
+      ]
+    },
+    {
+      "paragraph": 83,
+      "source_text_sha256": "bd4dfb81ff5964cab98e1dfd099b1bc7a8551c047212be20c5898f8b4e32b3b7",
+      "draft_text_sha256": "b004223ba6cf11009c9653cb67b3c966224fb87c710313025b4c7ae1ebdbe861",
+      "source_text": "It was the same in the war with the demons.",
+      "draft_text": "It had been no different during the war against the demons.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 83 in consistent English after comparison with Korean lines 89; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        89
+      ]
+    },
+    {
+      "paragraph": 84,
+      "source_text_sha256": "e17aeba51a4a3cf9c475746d73ef87e2a1ba6700f07be462f657b20d91674d39",
+      "draft_text_sha256": "ee986799eac3665a5fd6c74117841368d1100342089b4beb53a20d5bc25abb85",
+      "source_text": "No matter how many demons and demons he killed, the achievements always belonged to his father or half brothers.",
+      "draft_text": "No matter how many demons or evil spirits he killed, the credit went to his father or half brothers.",
+      "changed": true,
+      "rationale": "Use Korean demons/evil spirits to repair duplicated English demons; not a formal species taxonomy.",
+      "open_issues": [],
+      "korean_lines": [
+        90
+      ]
+    },
+    {
+      "paragraph": 85,
+      "source_text_sha256": "a6c4389190ba03f0fb1d7be3a6e86e0b87f39bb547b7b92fd3fff8f3145a6ee1",
+      "draft_text_sha256": "2d63cd36fc71c013af46c5a5923559ba72a7f1f54f00314221b200d69e644dd4",
+      "source_text": "There was little to no reward.",
+      "draft_text": "He received almost nothing in return.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 85 in consistent English after comparison with Korean lines 91; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        91
+      ]
+    },
+    {
+      "paragraph": 86,
+      "source_text_sha256": "a5501399370388df01c80d0a4a7e695373ca0d48f26e58d9ef58d7028b415279",
+      "draft_text_sha256": "bbb58d7354f10e62249fa1009e41f92d78000b8b827141af37106cad6dbef032",
+      "source_text": "It was not only the demons that had to be killed, but also his father’s political enemies and humans.",
+      "draft_text": "Nor were demons his only targets. He had to kill his father’s political enemies, humans included.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 86 in consistent English after comparison with Korean lines 92; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        92
+      ]
+    },
+    {
+      "paragraph": 87,
+      "source_text_sha256": "168b9767d672447b0d50276719b74b20e0d4d22ce1ee37eaa525608851c3132b",
+      "draft_text_sha256": "e14fec93663289c731f4eb093d18ef1a22fcc2882d19a276eeee47a41e5787a3",
+      "source_text": "He had to spy, assassinate, espionage, ambush, and intimidate the entire seven families, and in doing so, he raised Baskerville to the top of the seven families.",
+      "draft_text": "Through spying, assassination, intelligence gathering, ambushes, and intimidation among the seven great families, he had raised the Baskervilles above them all.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 87 in consistent English after comparison with Korean lines 93; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        93
+      ]
+    },
+    {
+      "paragraph": 88,
+      "source_text_sha256": "77641ba9ea23819e46f7353c8982623928c2412c7ee86b62ede069270c3f3899",
+      "draft_text_sha256": "9ffe9c1ffbce8427cd61b18805a65bdf7cd12feaf0cee29926b63b840e2d802c",
+      "source_text": "……But what was the result?",
+      "draft_text": "…And what had it earned him?",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 88 in consistent English after comparison with Korean lines 94; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        94
+      ]
+    },
+    {
+      "paragraph": 89,
+      "source_text_sha256": "a45cd4bd0998e5683cdf4839b883fc0c77599eecfa9c7b658b32dbbd499a8039",
+      "draft_text_sha256": "e377f6074478d5b9aca961354663674f60090e9a3c1b8686ea0bec50907a5a31",
+      "source_text": "Execution",
+      "draft_text": "The rabbit was dead; the hound was cooked.",
+      "changed": true,
+      "rationale": "Follow K095 rabbit/hound proverb instead of MTL execution label; actual execution retained at paragraph 91.",
+      "open_issues": [],
+      "korean_lines": [
+        95
+      ]
+    },
+    {
+      "paragraph": 90,
+      "source_text_sha256": "3c5de877ea9bc3be6d6073a960556864b1b3c6381167b3eb4844114fe4ddec9c",
+      "draft_text_sha256": "c1c6a034f109246d41713b4fa8c4b0d24e34956d2af6418577c9a9c3eeccf70e",
+      "source_text": "When the rabbit disappears and the hunt is over, there is no need for a hunting dog.",
+      "draft_text": "Once the rabbits were gone and the hunt was over, the hound went into the pot.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 90 in consistent English after comparison with Korean lines 96; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        96
+      ]
+    },
+    {
+      "paragraph": 91,
+      "source_text_sha256": "eb4a40e93f727a68480ea906827e54c325ede88bb30b88440d2d720ccc4fb0da",
+      "draft_text_sha256": "91a86dd287176f21196d12e0598245e7d2c3e802a9f374d88dbe0e7bcd3a099c",
+      "source_text": "Accused of conspiring with the demons, Vikir was executed while bearing all the dirty sins of Hugo.",
+      "draft_text": "Accused of colluding with demons, Vikir had been executed, bearing the blame for all of Hugo’s dirty deeds.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 91 in consistent English after comparison with Korean lines 97; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        97
+      ]
+    },
+    {
+      "paragraph": 92,
+      "source_text_sha256": "420aacc6cbbfe12e8df52aebd56a136b2fe0c27eae2ff951d179f72dab9da151",
+      "draft_text_sha256": "3a9ef2712e9bb8cbdef1e14c7a4b4e94b59868cb81b14692a1bd44968fe08026",
+      "source_text": "His sin was only one.",
+      "draft_text": "He had committed only one sin.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 92 in consistent English after comparison with Korean lines 98; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        98
+      ]
+    },
+    {
+      "paragraph": 93,
+      "source_text_sha256": "dca5831ad7a3bfe01a4aacec8e3928aaf1749133f979a0926594546f76e7179b",
+      "draft_text_sha256": "7fd717040c8c41c9c77e1612cd8158594828bbebb3c7fb3c8977603af3b45488",
+      "source_text": "‘Knowing too much’.",
+      "draft_text": "‘Knowing too much.’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 93 in consistent English after comparison with Korean lines 99; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        99
+      ]
+    },
+    {
+      "paragraph": 94,
+      "source_text_sha256": "bb29886024041b5b162a2859fed73281fc436ae4eba244e902da97c0bda1bf74",
+      "draft_text_sha256": "f85dc81b8581a159d0d039c94a2505f829c23ad897e6febdaa5f14eb0387cde6",
+      "source_text": "Sigh-",
+      "draft_text": "Grind—",
+      "changed": true,
+      "rationale": "Render contextual grinding cue; subsequent new teeth distinguish it from noiseless paragraph 21.",
+      "open_issues": [],
+      "korean_lines": [
+        100
+      ]
+    },
+    {
+      "paragraph": 95,
+      "source_text_sha256": "fd054c574bc1cf75f7943a61c519843f9b8334ba152637a01f66cf69773407bc",
+      "draft_text_sha256": "70e825e9de204629951d8ac6e909d5b620bc44b27576a7ced7a0bfd4155d3741",
+      "source_text": "Vikir gnashed his teeth.",
+      "draft_text": "Vikir clenched his teeth.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 95 in consistent English after comparison with Korean lines 101; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        101
+      ]
+    },
+    {
+      "paragraph": 96,
+      "source_text_sha256": "559147a9842008cae4f9ad240e5180ec286c35b3aa5844dba4bf0269c73f9d3d",
+      "draft_text_sha256": "aac337d9ab39deabe91a7502c03d63573b3b34a052c82a4ddccee60241ebeee8",
+      "source_text": "The teeth that started to grow in the mouth collided fiercely before he knew it.",
+      "draft_text": "Without his noticing, teeth had rapidly grown in his mouth. Now they ground against one another.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 96 in consistent English after comparison with Korean lines 102; preserve its event and point of view. Final prose review: clarify syntax, source detail or speaker transition.",
+      "open_issues": [],
+      "korean_lines": [
+        102
+      ]
+    },
+    {
+      "paragraph": 97,
+      "source_text_sha256": "2f7930318d61dad92420c823821867d5391c1532dd012a4b07c1354aa861262a",
+      "draft_text_sha256": "2d74574c7111022179f7f96a35e34bf5725322c2246dc510fd9f46bad48dbf01",
+      "source_text": "The water of the Styx rushed in following the fury that reached the marrow within the bones, and soon changed the bones thicker, the flesh tougher, and the mana barrel wider.",
+      "draft_text": "The Styx’s water surged into his marrow with his fury, thickening his bones, toughening his flesh, and widening his mana channels.",
+      "changed": true,
+      "rationale": "Normalize mana channels across paragraphs 73–74 and 97; retain water entering marrow and transformation.",
+      "open_issues": [],
+      "korean_lines": [
+        103
+      ]
+    },
+    {
+      "paragraph": 98,
+      "source_text_sha256": "7cd56be99d70244612b9ff143857be85a7ae295c2e0b32230c33f6d240350ef6",
+      "draft_text_sha256": "1f9efbd5ffecc9bae87212a6bd4d246763aceacdbed5467b981d122bd3f512a0",
+      "source_text": "Of course, the burning pain continued to creep in, but it didn’t matter.",
+      "draft_text": "The burning pain continued, but it no longer mattered.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 98 in consistent English after comparison with Korean lines 104; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        104
+      ]
+    },
+    {
+      "paragraph": 99,
+      "source_text_sha256": "71969ec596c765446c5fb513b1ad35cd1daee4b901253f2c74f7271fab1aea37",
+      "draft_text_sha256": "98952d2efdc92ee02fd69b9a2234c60b2d0c8ffbd6a853b0ce94d44886fcb3a9",
+      "source_text": "Vikir even started drinking water.",
+      "draft_text": "Vikir even began drinking the water.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 99 in consistent English after comparison with Korean lines 105; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        105
+      ]
+    },
+    {
+      "paragraph": 100,
+      "source_text_sha256": "d61b02875abb477e46e94c700bdae96287fcd81532345a2ea55e6c0c12a9d678",
+      "draft_text_sha256": "0318798d8e2c141ff0e65c78299d60e0dc0e9c947ad923a0efa5f18c4d15f638",
+      "source_text": "He was thinking of strengthening the internal organs as well.",
+      "draft_text": "He intended to strengthen his internal organs as well.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 100 in consistent English after comparison with Korean lines 106; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        106
+      ]
+    },
+    {
+      "paragraph": 101,
+      "source_text_sha256": "42a39a337bb5c079f563286a26f38909f2d7b0ce40127f22d42835d4a6bb2a05",
+      "draft_text_sha256": "44087a176bb346941b73406b7f059192268b99866ca701613a1ccf9ab7d70fe6",
+      "source_text": "He was thinking of an old legend passed down in the Baskervilles.",
+      "draft_text": "An old Baskerville legend came to mind.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 101 in consistent English after comparison with Korean lines 107; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        107
+      ]
+    },
+    {
+      "paragraph": 102,
+      "source_text_sha256": "521fa067b839560c66b25d51e8f4d15aaef6049defec29cdd6205a81abb1d386",
+      "draft_text_sha256": "ecb9ba88e4361226cf9874a5f70ac9995de59c54c462b0b4d17dc21b05f2525b",
+      "source_text": "‘A long time ago, there was an invincible warrior in Baskerville, right?’",
+      "draft_text": "‘Wasn’t there an invincible warrior in the family long ago?’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 102 in consistent English after comparison with Korean lines 108; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        108
+      ]
+    },
+    {
+      "paragraph": 103,
+      "source_text_sha256": "0014152794bfb20879bb3e43e91b41235bdd01dd368fd2dcc28f02b3abf8b241",
+      "draft_text_sha256": "d2903eb7d22e9bb56bf33cd2210804447c8fee81c794cd4b47f23c4ab383c77c",
+      "source_text": "The strongest swordsman who did not even get a single scratch on his skin, let alone a bone, even when hit by an axe.",
+      "draft_text": "Even an ax could not scratch the skin of that peerless swordsman, much less damage his bones.",
+      "changed": true,
+      "rationale": "Retain fuller MTL skin-and-bones invulnerability; Korean abbreviated bones wording does not contradict it. Final prose review: clarify syntax, source detail or speaker transition.",
+      "open_issues": [],
+      "korean_lines": [
+        109
+      ]
+    },
+    {
+      "paragraph": 104,
+      "source_text_sha256": "5137e5b9a8d06c689db24ee28e4c39dbf6b0dcd78ad3b475fa945211d934d64d",
+      "draft_text_sha256": "3ed23d89cd617356cba27caca2a6338673eb0a5ac4ee79352dfad716f3a2e028",
+      "source_text": "But his end was truly absurd.",
+      "draft_text": "Yet his death had been absurd.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 104 in consistent English after comparison with Korean lines 110; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        110
+      ]
+    },
+    {
+      "paragraph": 105,
+      "source_text_sha256": "2e3da2aeb72b5b492b40843296cca4926f0e14bfa9c2947fe21347964b4d73b6",
+      "draft_text_sha256": "ad5c9663b5bfcb4e9e79d5f0cfeb877a022dd603fdf190a373a105514e7b06ae",
+      "source_text": "A poisoned arrow shot by a rival from another clan struck him in the heel, and he died from the aftereffects.",
+      "draft_text": "A rival from another family had struck his heel with a poisoned arrow, and he had died from its effects.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 105 in consistent English after comparison with Korean lines 111; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        111
+      ]
+    },
+    {
+      "paragraph": 106,
+      "source_text_sha256": "ad397b761e9f07b6075bde7679b1464c1748df8fa433f48623b95dddd4fc10e5",
+      "draft_text_sha256": "d31e893517add38f7a5009eb49b883fd486a2860dc83d51750171ef84da1562a",
+      "source_text": "It was because, when he was a baby, his nurse grabbed him by the ankles and dipped him upside down into the Styx, leaving a relatively weak spot where the water didn’t reach because of the nurse’s palms.",
+      "draft_text": "When he was a baby, his nurse had held him by the ankles and dipped him upside down into the Styx. Her palms had kept the water from touching part of him, leaving that spot vulnerable.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 106 in consistent English after comparison with Korean lines 112; preserve its event and point of view. Final prose review: clarify syntax, source detail or speaker transition.",
+      "open_issues": [],
+      "korean_lines": [
+        112
+      ]
+    },
+    {
+      "paragraph": 107,
+      "source_text_sha256": "552d65aad2e557fe79e641def44c02681953fc683f7a92016249c42757717f71",
+      "draft_text_sha256": "f8f7b2cc186b52c3e8644b01b6146cf8e3417471c5040f93dde49151154685d0",
+      "source_text": "‘It shouldn’t have that kind of part.’",
+      "draft_text": "‘I won’t leave a weak spot like that.’",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 107 in consistent English after comparison with Korean lines 113; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        113
+      ]
+    },
+    {
+      "paragraph": 108,
+      "source_text_sha256": "0cd411c244d883a89e83554066fac08bce560be43ae48dcfc8af1b2855a8844e",
+      "draft_text_sha256": "403c54fc49a36e6e60827cac1a3eb517cf670a3800fda67488bfd36e2d89127f",
+      "source_text": "Vikir did his best to stir himself in the river.",
+      "draft_text": "Vikir thrashed in the river with all his strength.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 108 in consistent English after comparison with Korean lines 114; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        114
+      ]
+    },
+    {
+      "paragraph": 109,
+      "source_text_sha256": "57f070a063077032e50b9fd4a8acc4a63b38a0b741a1f62d842c5785f47d19c1",
+      "draft_text_sha256": "fbb26144561141061488ceab18003b078e8cccd73401815e12aa4731ccb14b48",
+      "source_text": "He twisted his body as best he can, leaving no part untouched by the water.",
+      "draft_text": "He twisted his body, trying to let the water touch every part of him.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 109 in consistent English after comparison with Korean lines 115; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        115
+      ]
+    },
+    {
+      "paragraph": 110,
+      "source_text_sha256": "673f6ce2f3a765b798295a45941af2e540343bf119e1517465c9629f73b36092",
+      "draft_text_sha256": "8b8f71f9c447df181434fa9bba29d611fc3d5672c82cbf319210b887bb8e5fa6",
+      "source_text": "In the meantime, the wound opened and opened, but it was even better.",
+      "draft_text": "His wounds pulled open, but that was all the better.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 110 in consistent English after comparison with Korean lines 116; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        116
+      ]
+    },
+    {
+      "paragraph": 111,
+      "source_text_sha256": "a8cea4b716ccbf5ef4d565bad1ae72110472950aa210afa604276e0348e2ed68",
+      "draft_text_sha256": "319d0a8ef92169ee00ad6427df0bb94e0a1e9d35826f7e2b4c3e53f1a51a962c",
+      "source_text": "Because the water can permeate well into the body.",
+      "draft_text": "The water could seep into his body more easily.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 111 in consistent English after comparison with Korean lines 117; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        117
+      ]
+    },
+    {
+      "paragraph": 112,
+      "source_text_sha256": "b2b525d2fee82aeb3086c71ae12ef20b3b7f6b4694cc14777703b7c0b4c00be4",
+      "draft_text_sha256": "19f5e559d82a743490773ef6ec319e3c5e62753b015f7c1b92353fcc9831d2af",
+      "source_text": "Bubbling bubbling……",
+      "draft_text": "Bubble… bubble…",
+      "changed": true,
+      "rationale": "Retain MTL bubbling sound rather than Korean gulping; drinking is separately explicit at 99 and 135–136.",
+      "open_issues": [],
+      "korean_lines": [
+        118
+      ]
+    },
+    {
+      "paragraph": 113,
+      "source_text_sha256": "4522d12212f08536cf5b1efa1a8927283b150a8e003bb092f4cd7ae9e2796b95",
+      "draft_text_sha256": "2839cccd44a70dde549219325a559f898f9c95e8e7427ce1429cc6503fe7a973",
+      "source_text": "The blood drained out and his body started turning numb..",
+      "draft_text": "Blood loss clouded his consciousness.",
+      "changed": true,
+      "rationale": "Follow K119 blood loss clouding consciousness rather than MTL bodily numbness.",
+      "open_issues": [],
+      "korean_lines": [
+        119
+      ]
+    },
+    {
+      "paragraph": 114,
+      "source_text_sha256": "e3fba1601b8e112d4d5fec81bcf3abcd1931b67fc45e186e227735bfc77a5755",
+      "draft_text_sha256": "4645eb8fdf9461ce9144a835ce6b18dfe82b7cc00b82fa21b8b2ae4bfda6a63d",
+      "source_text": "He was out of breath and wanted to get to the surface as quickly as possible.",
+      "draft_text": "His breath was running out. He ached to reach the surface.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 114 in consistent English after comparison with Korean lines 120; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        120
+      ]
+    },
+    {
+      "paragraph": 115,
+      "source_text_sha256": "c530906e486656ffef8c891a1530ebf4233fd982148c9b87f34e214e12e7bb0a",
+      "draft_text_sha256": "9fa6b15b7f84daf247897935d862e885952f80287980fbff4bb41e6a17a854e6",
+      "source_text": "But it can’t be.",
+      "draft_text": "But he could not.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 115 in consistent English after comparison with Korean lines 121; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        121
+      ]
+    },
+    {
+      "paragraph": 116,
+      "source_text_sha256": "5e34697ce4f09703e51cb7f438ada05f824c06afc4e64226bad835aa4e97a3e3",
+      "draft_text_sha256": "2394c622384bb0f669a69a5d594c282a1b2252302b7cfd19c683758840acc13c",
+      "source_text": "The River Styx never accepts a child once it has left its arms.",
+      "draft_text": "The River Styx would not welcome a child back once he had left its embrace.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 116 in consistent English after comparison with Korean lines 122; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        122
+      ]
+    },
+    {
+      "paragraph": 117,
+      "source_text_sha256": "0beaf211ad16f2d0919a2c6616713f7ae5a9e037bcfb37a35e17dc929f204f10",
+      "draft_text_sha256": "57f4e733a6ce9cb372aa7b1243800a50f270d922515632285db569165a709fea",
+      "source_text": "If only the head was exposed to breathe, only the head would no longer be protected.",
+      "draft_text": "If he raised his head to breathe, that part would receive no further blessing.",
+      "changed": true,
+      "rationale": "K123 receiving no further blessing clarifies MTL protection wording; do not invent loss of previously gained protection.",
+      "open_issues": [],
+      "korean_lines": [
+        123
+      ]
+    },
+    {
+      "paragraph": 118,
+      "source_text_sha256": "ff53a883b8ff163b4f0f16faf57d6fbb17881bc6f9017f7458281f0c68e3564b",
+      "draft_text_sha256": "7e187f43ef9ee83d0e394c3124d571e05b5f5477adfdfa16df27486844f37c6d",
+      "source_text": "So Vikir desperately held on to the stone in the river.",
+      "draft_text": "Vikir clung desperately to the stones on the riverbed.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 118 in consistent English after comparison with Korean lines 124; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        124
+      ]
+    },
+    {
+      "paragraph": 119,
+      "source_text_sha256": "ed3a1834f5f41cc9badd685c41e85fd49094c597fce106180cdc4f5eab04c4f4",
+      "draft_text_sha256": "b1219f5b874884f322950f5c3d70ed5e0319d35b12067122f8fee476e56280eb",
+      "source_text": "He continued to stir his arm so that the river water could touch the palm holding the stone.",
+      "draft_text": "Even then, he kept shifting his arms so that the water could reach his palms.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 119 in consistent English after comparison with Korean lines 125; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        125
+      ]
+    },
+    {
+      "paragraph": 120,
+      "source_text_sha256": "36022d2276862f0aef769ef2b38e0866e1f9b921fb750776f11be8c6588996a5",
+      "draft_text_sha256": "a0f67875451cc85a5e78233b0e6a1218e8a8858ca0180974d91c340aee978614",
+      "source_text": "At that time.",
+      "draft_text": "Just then—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 120 in consistent English after comparison with Korean lines 126; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        126
+      ]
+    },
+    {
+      "paragraph": 121,
+      "source_text_sha256": "1a6ea1cbf469d91c219918d527ba70a61aaa717bcf79844ff4fad1b1f13848b5",
+      "draft_text_sha256": "1c939d92e476b584092b30f96bac7d027e89317489b62acbd4e1dc565375736c",
+      "source_text": "I hear faint voices in my ears.",
+      "draft_text": "Faint voices reached his ears.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 121 in consistent English after comparison with Korean lines 127; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        127
+      ]
+    },
+    {
+      "paragraph": 122,
+      "source_text_sha256": "3b33c12f97b86a17f381df6576c2e49b89a71d724aaf84dd4fb304c956c3afff",
+      "draft_text_sha256": "3b33c12f97b86a17f381df6576c2e49b89a71d724aaf84dd4fb304c956c3afff",
+      "source_text": "“Young master! You must come out!”",
+      "draft_text": "“Young master! You must come out!”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [],
+      "korean_lines": [
+        128
+      ]
+    },
+    {
+      "paragraph": 123,
+      "source_text_sha256": "39176ee02675bcbc90d48b283a3e20b139f5b3b8a5cc1d80e79dcb2fd2a687a2",
+      "draft_text_sha256": "522ce0eb2a51e7db09f890ba9e7d3bf78db7c2705b65d137081bb63f24d65f07",
+      "source_text": "“If you stay submerged any longer, you will die!”",
+      "draft_text": "“You’ll die if you stay under any longer!”",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 123 in consistent English after comparison with Korean lines 129; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        129
+      ]
+    },
+    {
+      "paragraph": 124,
+      "source_text_sha256": "dd826cfbbcae88205c28a89c2dc5aef4ed967417cae02cbfc7e55636b9ae08b9",
+      "draft_text_sha256": "4d0b3b6eb99c77470100e9ceeee8cd86796ac8e76834c919005d3561ab05dcda",
+      "source_text": "“Oh my god! He might die like this!”",
+      "draft_text": "“Oh, heavens! What do we do?”",
+      "changed": true,
+      "rationale": "Follow Korean alarm/question instead of MTL repeated predicted death.",
+      "open_issues": [],
+      "korean_lines": [
+        130
+      ]
+    },
+    {
+      "paragraph": 125,
+      "source_text_sha256": "82c287e970e1c49bb377fedcddc5c855a050907f55863af734c8fc0b2a2851d7",
+      "draft_text_sha256": "aa61d9936de9a137ea6b73345592c47bb3d7fd5a3e1131a910944eb359113985",
+      "source_text": "“Get it! We have to pick him up!”",
+      "draft_text": "“Quick, get him out! We have to pull him up!”",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 125 in consistent English after comparison with Korean lines 131; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        131
+      ]
+    },
+    {
+      "paragraph": 126,
+      "source_text_sha256": "dd1481342660e65e0efbb577d55b6ad1236453fffdebf8adbbc5f8024d5cd102",
+      "draft_text_sha256": "24ab0b0d93c25660c0523098a26754e4c14c35eddd535296db1b8fc27a4ee8c8",
+      "source_text": "It looks like there was an uproar from above. Well, that’s bound to be the case.",
+      "draft_text": "There seemed to be an uproar above. That was only natural.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 126 in consistent English after comparison with Korean lines 132; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        132
+      ]
+    },
+    {
+      "paragraph": 127,
+      "source_text_sha256": "72987d7a1e83163168432e5c69e4eb7076e7a8d360f1eadc8665bb683d3d206e",
+      "draft_text_sha256": "5505ffd8520c160bc64401bc4039792323e91f5d24d909c77d743a678e1b9137",
+      "source_text": "Excessive greed becomes poison. It’s good to strengthen the body, but shouldn’t it be suffocating and dying?",
+      "draft_text": "Too much greed became poison. Strengthening his body was all very well, but what good would it do if he drowned?",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 127 in consistent English after comparison with Korean lines 133; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        133
+      ]
+    },
+    {
+      "paragraph": 128,
+      "source_text_sha256": "c5e9fd2307258019c13c04abc2e5092f2f4c5eea074440c1dafb0db11d500a04",
+      "draft_text_sha256": "a31bbc4dea037d66360d1adbd74ff9847b11ec82c782cc127f525dddfaabc098",
+      "source_text": "Even.",
+      "draft_text": "Then another voice joined them.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 128 in consistent English after comparison with Korean lines 134; preserve its event and point of view. Final prose review: clarify syntax, source detail or speaker transition.",
+      "open_issues": [],
+      "korean_lines": [
+        134
+      ]
+    },
+    {
+      "paragraph": 129,
+      "source_text_sha256": "f669ba130acc6cf2a22411d84d0168cbc1c26f077194eec3bf9fae7fc2625ea0",
+      "draft_text_sha256": "f669ba130acc6cf2a22411d84d0168cbc1c26f077194eec3bf9fae7fc2625ea0",
+      "source_text": "“Son. Come up now.”",
+      "draft_text": "“Son. Come up now.”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [],
+      "korean_lines": [
+        135
+      ]
+    },
+    {
+      "paragraph": 130,
+      "source_text_sha256": "bddd8e2f8eeee702e79ea416582d214649dcd202424e8250acebfff3c14757b1",
+      "draft_text_sha256": "08f66ebb78ae89ddce76496ee86065f331cee841f13556d2a55266b6f5e99a16",
+      "source_text": "The voice of Hugo Le Baskerville is also heard.",
+      "draft_text": "It was Hugo Le Baskerville.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 130 in consistent English after comparison with Korean lines 136; preserve its event and point of view. Final prose review: clarify syntax, source detail or speaker transition.",
+      "open_issues": [],
+      "korean_lines": [
+        136
+      ]
+    },
+    {
+      "paragraph": 131,
+      "source_text_sha256": "7a7d4a3b319650cfa147392ffc4bac06d8e675f926dace86c506407f1a91940a",
+      "draft_text_sha256": "ef2d3ce995f04ecb0a75bee744bdb5794c51d558a2775901691ced6583b20242",
+      "source_text": "But that voice only fuels Vikir’s rage.",
+      "draft_text": "But that voice only stoked Vikir’s fury.",
+      "changed": true,
+      "rationale": "Keep MTL anger, consistent with surrounding revenge memories, rather than Korean fighting spirit; repair tense.",
+      "open_issues": [],
+      "korean_lines": [
+        137
+      ]
+    },
+    {
+      "paragraph": 132,
+      "source_text_sha256": "fda6f00e3c60359acfc14eed5eaeb4a91dd7155a8190a50314dc4342350a67c1",
+      "draft_text_sha256": "dbacb32ffe3128603cd30cad3f731585998ff3994361c5a248b0199ca3c097ac",
+      "source_text": "Soowook-",
+      "draft_text": "Whoosh—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 132 in consistent English after comparison with Korean lines 138; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        138
+      ]
+    },
+    {
+      "paragraph": 133,
+      "source_text_sha256": "51c95602bb45c56a791c6134cf0eb27e6035740ab5904e2e9fcb7753bfded564",
+      "draft_text_sha256": "b99993b96bf8d3809d08e26086dca1e98b17c8e12a953c14355b9875da1747fb",
+      "source_text": "Vikir stood up.",
+      "draft_text": "Vikir rose toward the surface.",
+      "changed": true,
+      "rationale": "Render upward movement in the river rather than implying he stands on the riverbed.",
+      "open_issues": [],
+      "korean_lines": [
+        139
+      ]
+    },
+    {
+      "paragraph": 134,
+      "source_text_sha256": "0af983df88da789b6e784a52649549c89c8ab0691b0cb350bc6cecfec6183d78",
+      "draft_text_sha256": "ed095ae73658706c5389f30a8f6dbf750464d19f06871cbce654d42dde33d74e",
+      "source_text": "But he just didn’t get up.",
+      "draft_text": "But he did not simply rise.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 134 in consistent English after comparison with Korean lines 140; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        140
+      ]
+    },
+    {
+      "paragraph": 135,
+      "source_text_sha256": "5fa8366fa79595dba08b0b9b066e8f75ceb8ba9deba92338a78b3f7b0c256d62",
+      "draft_text_sha256": "499cba22def4cb8d77bfef42689cc83492c80294c06a1721bdebb7669ddff1c6",
+      "source_text": "Gulp- gulp- gulp- gulp-",
+      "draft_text": "Gulp—gulp—gulp—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 135 in consistent English after comparison with Korean lines 141; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        141
+      ]
+    },
+    {
+      "paragraph": 136,
+      "source_text_sha256": "b091a4cdd955fc81bfdea4e94f0cc9310b3213c90948329258765238569508a3",
+      "draft_text_sha256": "454e968d43a16e4a0a33ced4eab108166f25858f0b69d3d39b9c50d3048c997b",
+      "source_text": "Drink the water of the River Styx in your mouth. To the very end.",
+      "draft_text": "He swallowed the Styx’s water until the very last moment.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 136 in consistent English after comparison with Korean lines 142; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        142
+      ]
+    },
+    {
+      "paragraph": 137,
+      "source_text_sha256": "a9f1be15cd949e7e15c42e8b9b87e078427ec0d05a4698d683a56c3d47ce6969",
+      "draft_text_sha256": "bfac93d91c3028badf92386dd0ec69c9df90ca637542ff812cae28c32d73d8e1",
+      "source_text": "And.",
+      "draft_text": "Then—",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 137 in consistent English after comparison with Korean lines 143; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        143
+      ]
+    },
+    {
+      "paragraph": 138,
+      "source_text_sha256": "c6cfd6dae645b59975f2ddfc0d9c96ee459b0e868f5621e274385763c0f7c984",
+      "draft_text_sha256": "828a6360e03bc74387b6befcd397dc9de5ff61ecf7c9b222f2e928ecdd787368",
+      "source_text": "“Puha-”",
+      "draft_text": "“Hah!”",
+      "changed": true,
+      "rationale": "Render a gasp for breath from both surrounding passages; Korean ha-ha token is not treated as laughter.",
+      "open_issues": [],
+      "korean_lines": [
+        144
+      ]
+    },
+    {
+      "paragraph": 139,
+      "source_text_sha256": "a7aa42e1cf916d3459f4a4c11b6cd74cf34daa991dc3173d36d1be02e313ebe4",
+      "draft_text_sha256": "621c931e53fd0968ddec52f738976e2f08ace1832ace7dad22d12ca038fe97d6",
+      "source_text": "As soon as you come up, breathe in the air to your heart’s content.",
+      "draft_text": "The moment he broke the surface, he drew a deep breath.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 139 in consistent English after comparison with Korean lines 145; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        145
+      ]
+    },
+    {
+      "paragraph": 140,
+      "source_text_sha256": "8ea6861a9aa7ca2937a3d0f8fa00961bb36a1f99dfb5d7c0067a0f47e4966e28",
+      "draft_text_sha256": "6f7dac1860459df65dd4454ede7a311cb534d3a4df949e41115eff733ff89a3c",
+      "source_text": "Vikir opened his mouth wide to breathe.",
+      "draft_text": "Vikir opened his mouth wide for air.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 140 in consistent English after comparison with Korean lines 146; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        146
+      ]
+    },
+    {
+      "paragraph": 141,
+      "source_text_sha256": "f97e0ad4901397f937df1bece26a5ded67df5cc31b7f0b2b939f80a10fd50969",
+      "draft_text_sha256": "a9bf0501e671d9791170cfcf8067cb6475256ed68f7a506731cd1d64a8401a75",
+      "source_text": "Seeing him, Hugo Le Baskerville smiles brightly, which is rare.",
+      "draft_text": "At the sight, Hugo Le Baskerville broke into a rare, broad smile.",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 141 in consistent English after comparison with Korean lines 147; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        147
+      ]
+    },
+    {
+      "paragraph": 142,
+      "source_text_sha256": "4909d99648416c7d10fd2812145e3670ecad39c13934fa65f995c677f8d3b5c5",
+      "draft_text_sha256": "5dd9629e2a8f2c821692f0c775dec90410d096aabb7f21a99a69db27690c69c6",
+      "source_text": "“Hahaha, look at this guy? Didn’t your teeth grow back then!”",
+      "draft_text": "“Hahaha! Look at this boy! He’s already grown teeth!”",
+      "changed": true,
+      "rationale": "Recast MTL paragraph 142 in consistent English after comparison with Korean lines 148; preserve its event and point of view.",
+      "open_issues": [],
+      "korean_lines": [
+        148
+      ]
+    },
+    {
+      "paragraph": 143,
+      "source_text_sha256": "f650a74b018d348d053ee351dc05deeae4671c4fb508cc869368552e161a44e6",
+      "draft_text_sha256": "8438cbfae00b894164c560b36ea922e6cbc99c6fe863e8ee9abc97517c0b098f",
+      "source_text": "Hounds boiled in boiling water exposed fangs.",
+      "draft_text": "The hound boiled in scalding water had bared his fangs.",
+      "changed": true,
+      "rationale": "Preserve singular hound metaphor and past tense; avoid MTL plural hounds.",
+      "open_issues": [],
+      "korean_lines": [
+        149
+      ]
+    }
+  ],
+  "scene_breaks_after": [],
+  "editorial_accepted": true,
+  "acceptance_evidence": "qa/acceptance/chapter-0002.json",
+  "korean_source": "source/korean/chapters/002.txt",
+  "korean_sha256": "4a24ecbace17f09b6e9e83adabf6257914aa6abcda80f718eb9a646badc9f136",
+  "korean_alignment": "editorial/korean-alignment/chapter-0002.json"
+}
