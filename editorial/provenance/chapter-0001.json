@@ -1,0 +1,1136 @@
+{
+  "chapter": 1,
+  "source": "source/chapters/chapter-001.xhtml",
+  "source_sha256": "475fe7ffc331bc2a79255108ada508a811d104d6ec3101d2e8b9bd31aaf99382",
+  "draft": "manuscript/drafts/chapter-0001.md",
+  "draft_sha256": "f67941637ac857a195bd0e3582aa3fe0380e011a57ab813fd3f087a5fcebb5b2",
+  "paragraph_count": 106,
+  "changed_paragraphs": 41,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "source_text_sha256": "ea12a50ac84ef44d8210189d05b605a2adb51b4df457bd47bb23b4e34e9c4704",
+      "draft_text_sha256": "ad23bb352dd1c34bf5e90c5826bfff123aa08d923da5ca1e80fc041072a62545",
+      "source_text": "The years of bloodshed had finally ended",
+      "draft_text": "The years of bloodshed had finally ended.",
+      "changed": true,
+      "rationale": "Add missing terminal punctuation.",
+      "open_issues": [
+        "CH001-09"
+      ]
+    },
+    {
+      "paragraph": 2,
+      "source_text_sha256": "d5f366bf7a5c9a205835f1c8b1c8697f205171269a364c72ef83e9799c331fba",
+      "draft_text_sha256": "fddb5f07be79636d0a994308ffa6df8310adfa14b33ec3fbb8e1cc6c526f6621",
+      "source_text": "The war between the humans and the demons that lasted for decades left a terrifying record in the history books as the ‘Age of Destruction’.",
+      "draft_text": "The war between humans and demons had lasted for decades, leaving a terrifying record in the history books as the ‘Age of Destruction’.",
+      "changed": true,
+      "rationale": "Repair narrative tense and clause structure; retain the named era.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 3,
+      "source_text_sha256": "d098e6f9a6b05e897b2c1ef849aab53b7c1d360c60e1ed4b957bf037f6a497f4",
+      "draft_text_sha256": "156dc10c10ad87e928243f8ffdd722d97845d137a00cb4c008866e2334313e0b",
+      "source_text": "And the day when the victory of the humans has been written down in the books.",
+      "draft_text": "And then came the day when humanity’s victory was written down in the books.",
+      "changed": true,
+      "rationale": "Repair the fragment and narrative tense without changing the chronology.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 4,
+      "source_text_sha256": "3b3ddf914abfee05b2689b6f6355925ef9c76bb39cc833a26896fc94df1be4f1",
+      "draft_text_sha256": "3b3ddf914abfee05b2689b6f6355925ef9c76bb39cc833a26896fc94df1be4f1",
+      "source_text": "A neck was hung at the front gate of the Baskervilles, famous for their iron-blooded swordsmen.",
+      "draft_text": "A neck was hung at the front gate of the Baskervilles, famous for their iron-blooded swordsmen.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-01"
+      ]
+    },
+    {
+      "paragraph": 5,
+      "source_text_sha256": "4685d35686c6a5b6db281421c7bd7b8333821d15e7ef66a4403c2d4d81ec517b",
+      "draft_text_sha256": "4685d35686c6a5b6db281421c7bd7b8333821d15e7ef66a4403c2d4d81ec517b",
+      "source_text": "Vikir. ‘Vikir Van Baskerville’.",
+      "draft_text": "Vikir. ‘Vikir Van Baskerville’.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-02"
+      ]
+    },
+    {
+      "paragraph": 6,
+      "source_text_sha256": "27ac0b9513ee30ab1838238c7737f2fd0efbaf599f57cf03d83b85cc27031616",
+      "draft_text_sha256": "27ac0b9513ee30ab1838238c7737f2fd0efbaf599f57cf03d83b85cc27031616",
+      "source_text": "The illegitimate son of Hugo Le Baskerville, the head of the Baskerville family.",
+      "draft_text": "The illegitimate son of Hugo Le Baskerville, the head of the Baskerville family.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 7,
+      "source_text_sha256": "2f40790028f1833bdaad141abc4b0902995796cdd41cd7e9074537386dfc491a",
+      "draft_text_sha256": "2f40790028f1833bdaad141abc4b0902995796cdd41cd7e9074537386dfc491a",
+      "source_text": "The shadow that has been covered with countless blood on the back of the family.",
+      "draft_text": "The shadow that has been covered with countless blood on the back of the family.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-01"
+      ]
+    },
+    {
+      "paragraph": 8,
+      "source_text_sha256": "d9cdac88b6f439e35c845dc708f01bc26a5244b9468806a43b8d30fa5827b224",
+      "draft_text_sha256": "d9cdac88b6f439e35c845dc708f01bc26a5244b9468806a43b8d30fa5827b224",
+      "source_text": "It was the hound of the Baskervilles.",
+      "draft_text": "It was the hound of the Baskervilles.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 9,
+      "source_text_sha256": "752cb07ed10d9b95f34a73bc5e8658beafba05425739b8bdc145634fd793b79b",
+      "draft_text_sha256": "833c7aa555281cda0e85711d1a4c4270de45d0b5a3eb47c17f7ae2420f40ddae",
+      "source_text": "Vikir struggled",
+      "draft_text": "Vikir struggled.",
+      "changed": true,
+      "rationale": "Add missing terminal punctuation.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 10,
+      "source_text_sha256": "a7605a16328b0006c1b7ff858ad1a2315d8f10fc278a113177ea864b31d7f842",
+      "draft_text_sha256": "a7605a16328b0006c1b7ff858ad1a2315d8f10fc278a113177ea864b31d7f842",
+      "source_text": "He had always struggled.",
+      "draft_text": "He had always struggled.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 11,
+      "source_text_sha256": "c68385ed9bc0b626289bc07d08df5c2831af829b48f7ec8d57da8e30753ca95d",
+      "draft_text_sha256": "202fddef07732c6de20f00a29226ac59523cedbcd18e6ff4878d2b564d63cabf",
+      "source_text": "A bastard. Son of a Concubine.",
+      "draft_text": "A bastard. The son of a concubine.",
+      "changed": true,
+      "rationale": "Fix capitalization and article; preserve the rhetorical fragments.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 12,
+      "source_text_sha256": "918bdcf887b496c41bff0352e363175915ffdbbb3ddd67b91867290ec93c9db0",
+      "draft_text_sha256": "d95b158862cd8c23bd2fda546be1bbf8bc6a1dd5f2c25b51adcbe915f9fdcd3c",
+      "source_text": "So ‘Van’ middle name.",
+      "draft_text": "That was why his middle name was ‘Van’.",
+      "changed": true,
+      "rationale": "Supply the missing predicate; spelling remains provisional.",
+      "open_issues": [
+        "CH001-02"
+      ]
+    },
+    {
+      "paragraph": 13,
+      "source_text_sha256": "ce6648874fc0384589b434758ab5786e45b3776788365a13b6adffd54acd0701",
+      "draft_text_sha256": "6eefa60cc2c5ae3115663723680115bcfd5f81c1dcc28ff93b4439c0e8f3ce3a",
+      "source_text": "He was not born with a surname such as ‘Le’ or ‘Re’, which his half-siblings in the main family received, and because of that, he had to work hundreds of times more than others.",
+      "draft_text": "He had not been born with a surname such as ‘Le’ or ‘Re’, which his half-siblings in the main family received. Because of that, he had to work hundreds of times harder than others.",
+      "changed": true,
+      "rationale": "Repair tense and comparative wording; retain source surname terminology pending review.",
+      "open_issues": [
+        "CH001-02"
+      ]
+    },
+    {
+      "paragraph": 14,
+      "source_text_sha256": "c959fcbb577b6a8c2877ac733dbafae83c157e56b7e56c3c83c32742b7aaf71d",
+      "draft_text_sha256": "b30053bee1d49b5c2ffbe1bb96d6a18ed0d312921bc156e8b214520a3364fb2e",
+      "source_text": "But in the end it was all for nothing.",
+      "draft_text": "But in the end, it was all for nothing.",
+      "changed": true,
+      "rationale": "Add introductory comma.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 15,
+      "source_text_sha256": "9a48f1a32050434b83aae3d2927e631caa8a520104acfc76a50b0744b1eb5344",
+      "draft_text_sha256": "02a2da6e961710ea4ac88dd9d952881dbe27ac46173b76108c255e6b461c71ae",
+      "source_text": "Spying, assassination, kidnapping, blackmail, smuggling…… For the sake of his family, he crossed over 500 dangerous missions but in the end, they forsook him.",
+      "draft_text": "Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, they forsook him.",
+      "changed": true,
+      "rationale": "Repair mission collocation, tense, and punctuation; preserve quantity and activities.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 16,
+      "source_text_sha256": "349a556ebfe4fc3b07c487c3c02be6a972234394791f8972849de07140a60548",
+      "draft_text_sha256": "2cd82f4da4a51dd7798e30dc380f7e925cbb4bb96ad3b227beb7768a4449e654",
+      "source_text": "The moment when he is accused of being a spy for the demons and executed along with an unfair false charge.",
+      "draft_text": "He was falsely accused of being a spy for the demons and executed.",
+      "changed": true,
+      "rationale": "Repair the fragment and redundant false-charge wording using the recovered English claim; accusation needs source review.",
+      "open_issues": [
+        "CH001-01"
+      ]
+    },
+    {
+      "paragraph": 17,
+      "source_text_sha256": "e63a6f6e1435fe3e788d1c7d08a4bebfc04a9928bd096a594cfb67793ef7726d",
+      "draft_text_sha256": "e63a6f6e1435fe3e788d1c7d08a4bebfc04a9928bd096a594cfb67793ef7726d",
+      "source_text": "He gritted his teeth.",
+      "draft_text": "He gritted his teeth.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 18,
+      "source_text_sha256": "98166b93284ea98c43f47a23c587d9da9b73f851967df7f66c5ed74fea0829ed",
+      "draft_text_sha256": "6b886a8c801bfd708a87bfb22ca2c18385f2be47e4846a611603e0a9222ce6a6",
+      "source_text": "He wanted to live",
+      "draft_text": "He wanted to live.",
+      "changed": true,
+      "rationale": "Add missing terminal punctuation.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 19,
+      "source_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
+      "draft_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
+      "source_text": "Aye- Aye- Aye-",
+      "draft_text": "Aye- Aye- Aye-",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-07"
+      ]
+    },
+    {
+      "paragraph": 20,
+      "source_text_sha256": "4940de70906595e651f806c5309a5b2b6c6e487571f69ed03c09a969c7245b48",
+      "draft_text_sha256": "4940de70906595e651f806c5309a5b2b6c6e487571f69ed03c09a969c7245b48",
+      "source_text": "A baby’s cry echoed throughout the large room.",
+      "draft_text": "A baby’s cry echoed throughout the large room.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 21,
+      "source_text_sha256": "a033254b49e48124f102db91c572ee28b766776e909aa52d67eea01c54720963",
+      "draft_text_sha256": "a033254b49e48124f102db91c572ee28b766776e909aa52d67eea01c54720963",
+      "source_text": "The iron-blooded swordsman, the Baskerville family, had dozens of layers of slopes.",
+      "draft_text": "The iron-blooded swordsman, the Baskerville family, had dozens of layers of slopes.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-03"
+      ]
+    },
+    {
+      "paragraph": 22,
+      "source_text_sha256": "cdd208a46a80333dfeccbfda5808aead03ab73f6fd1138141eb3ea4a257f402c",
+      "draft_text_sha256": "cdd208a46a80333dfeccbfda5808aead03ab73f6fd1138141eb3ea4a257f402c",
+      "source_text": "The head of the house, the Marquis Hugo Le Baskerville, raised a nonchalant eye and scanned the children born this year.",
+      "draft_text": "The head of the house, the Marquis Hugo Le Baskerville, raised a nonchalant eye and scanned the children born this year.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-02"
+      ]
+    },
+    {
+      "paragraph": 23,
+      "source_text_sha256": "b178563a1090a0560d35cf4c0c73c48b66b46922e1d30389969d19f4d6fbfc93",
+      "draft_text_sha256": "b178563a1090a0560d35cf4c0c73c48b66b46922e1d30389969d19f4d6fbfc93",
+      "source_text": "“There aren’t any guys that look useful.”",
+      "draft_text": "“There aren’t any guys that look useful.”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 24,
+      "source_text_sha256": "727029251b8acd61107ce6c29bd5481cd472ecd6dc24ef98be4c53bb7b282a0a",
+      "draft_text_sha256": "462457ad88b1ad4c91729c733e8263ff0e0dbbd156ea95291cb6599af8ef7c2f",
+      "source_text": "It was quite harsh for a father’s first evaluation of children born this year.",
+      "draft_text": "It was a harsh first assessment for a father to make of his children born that year.",
+      "changed": true,
+      "rationale": "Repair English clause order and temporal reference.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 25,
+      "source_text_sha256": "808ce5546564a218066ca764fb8a40f77b55097340773ba98550c4512495e44a",
+      "draft_text_sha256": "c1f2a4711f79811193a3fea92bdaf70b71f23c28fc72080bbcfe7e10749b91e8",
+      "source_text": "……At that time.",
+      "draft_text": "… At that moment.",
+      "changed": true,
+      "rationale": "Normalize ellipsis; retain transition as a deliberate fragment.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 26,
+      "source_text_sha256": "4bb4fd1562250274952af15e480ff107980fb6b34461dc1b4d061dba806e1095",
+      "draft_text_sha256": "26c331df64bb259d0cbcca643a22d1b733fe5bc7a5f9bc37317ac5a3ce97842f",
+      "source_text": "Hugo, passing through the cribs in the nursery, stopped at one point.",
+      "draft_text": "As Hugo passed the cribs in the nursery, he stopped at one of them.",
+      "changed": true,
+      "rationale": "Repair awkward location wording using the cribs already named.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 27,
+      "source_text_sha256": "d0384d09cc6f6a630714fa68382780a90637bcf59c36697ade0597c5f12466ee",
+      "draft_text_sha256": "d0384d09cc6f6a630714fa68382780a90637bcf59c36697ade0597c5f12466ee",
+      "source_text": "Vikir. Vikir van Baskerville.",
+      "draft_text": "Vikir. Vikir van Baskerville.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-02"
+      ]
+    },
+    {
+      "paragraph": 28,
+      "source_text_sha256": "ee7930d5716f44b6de74458ab5f5d7c87cb81360641f7d401bf7a6390f1c7461",
+      "draft_text_sha256": "ee7930d5716f44b6de74458ab5f5d7c87cb81360641f7d401bf7a6390f1c7461",
+      "source_text": "Originally, an illegitimate child who did not even deserve to be here.",
+      "draft_text": "Originally, an illegitimate child who did not even deserve to be here.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 29,
+      "source_text_sha256": "71fb5810085738c937278d9fc8533c867f3a5f3ca5bcdc55f6240b919efbf0e6",
+      "draft_text_sha256": "71fb5810085738c937278d9fc8533c867f3a5f3ca5bcdc55f6240b919efbf0e6",
+      "source_text": "Unlike the other siblings who are almost 6 to 8 months old, a being who has just entered this room after having just completed 100 days.",
+      "draft_text": "Unlike the other siblings who are almost 6 to 8 months old, a being who has just entered this room after having just completed 100 days.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-04"
+      ]
+    },
+    {
+      "paragraph": 30,
+      "source_text_sha256": "2542f85d3cb2f249f4de6b0f51239a1343402f1afef9c2c7e218cd91944964d6",
+      "draft_text_sha256": "2542f85d3cb2f249f4de6b0f51239a1343402f1afef9c2c7e218cd91944964d6",
+      "source_text": "The baby wasn’t crying.",
+      "draft_text": "The baby wasn’t crying.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 31,
+      "source_text_sha256": "4070c980d94f5a2186681ba52bbcfb687968b3241092ab89328b7c994f4cf359",
+      "draft_text_sha256": "4070c980d94f5a2186681ba52bbcfb687968b3241092ab89328b7c994f4cf359",
+      "source_text": "He just lay still with his eyes closed, as if he were dead.",
+      "draft_text": "He just lay still with his eyes closed, as if he were dead.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 32,
+      "source_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
+      "draft_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
+      "source_text": "“…….”",
+      "draft_text": "“…….”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 33,
+      "source_text_sha256": "687ddb99ed2e2758e532b309d1e0ac8c0d5fa29b8c7d14e786a7df13b6ab8ccc",
+      "draft_text_sha256": "9e995d4f7b2bfa14704607851862ad0a46c60368a324601ffb5ab7e5fbb7efc3",
+      "source_text": "Hugo looked at Vikir and relaxed his complexion a little.",
+      "draft_text": "Hugo looked at Vikir, and his expression softened a little.",
+      "changed": true,
+      "rationale": "Use idiomatic wording for the stated change in expression.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 34,
+      "source_text_sha256": "6ac64bcb3045bdc44112b3204596be68650a6c258b3a146a98901c06faf9e438",
+      "draft_text_sha256": "8ed68d3db27453a86cea5f5aa83d7f9a10a32a846239e03766e7b9e015854297",
+      "source_text": "It’s not that he was happy that Vikir’s qualities seem superior to those of his other offspring.",
+      "draft_text": "It was not because he was pleased that Vikir’s qualities seemed superior to those of his other offspring.",
+      "changed": true,
+      "rationale": "Repair tense; preserve the denial rather than asserting superiority.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 35,
+      "source_text_sha256": "5aac315b23426d6aecd0112efecefb454c1b2a7b12e2e70adbd1bfc0b6108904",
+      "draft_text_sha256": "0d4216a2ba5edb02cd7aac33ab00f7e3b52e13ee9f3d883fbc858f6ed6a39ae4",
+      "source_text": "However, it was from the thought that if it was a place where only garbage was lined up anyway, it would be better to have garbage that was a little less noisy.",
+      "draft_text": "He merely thought that if all he had before him was garbage anyway, it would be better to have garbage that was a little less noisy.",
+      "changed": true,
+      "rationale": "Repair clause structure while retaining Hugo’s contempt and comparison.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 36,
+      "source_text_sha256": "777d021fdfe69c96c295db6aeded3ca2efb9445703ad72265a9de0cb02e42452",
+      "draft_text_sha256": "777d021fdfe69c96c295db6aeded3ca2efb9445703ad72265a9de0cb02e42452",
+      "source_text": "Eventually, Hugo spoke to dozens of nannies in the city behind him.",
+      "draft_text": "Eventually, Hugo spoke to dozens of nannies in the city behind him.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-03"
+      ]
+    },
+    {
+      "paragraph": 37,
+      "source_text_sha256": "7454dcd402f9bf3d3c1c478db5f35098970419ba27939c8c515dde666938fda6",
+      "draft_text_sha256": "7454dcd402f9bf3d3c1c478db5f35098970419ba27939c8c515dde666938fda6",
+      "source_text": "“Move the children to the ‘Cradle of the swords’.”",
+      "draft_text": "“Move the children to the ‘Cradle of the swords’.”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 38,
+      "source_text_sha256": "63223e8bc1dc132ec12a28174ed02119b59b6057453a386b821fbcd4679ab2fd",
+      "draft_text_sha256": "63223e8bc1dc132ec12a28174ed02119b59b6057453a386b821fbcd4679ab2fd",
+      "source_text": "The children of the Baskervilles are put to the test from the moment they are born.",
+      "draft_text": "The children of the Baskervilles are put to the test from the moment they are born.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 39,
+      "source_text_sha256": "ad8001fcc2ecd124916d0be6859fcd6a14a5d8a77daa96a731747914263fe2bd",
+      "draft_text_sha256": "7baa6d32c75074c442e56c6886b8b9b549807338070136e4c94a0e0cc0ab08e9",
+      "source_text": "From cradle to the grave.",
+      "draft_text": "From the cradle to the grave.",
+      "changed": true,
+      "rationale": "Supply missing article.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 40,
+      "source_text_sha256": "8fe23493873f854caece74d1d4379524d23b1d2292df6162998e1d0ef7ae5bda",
+      "draft_text_sha256": "8fe23493873f854caece74d1d4379524d23b1d2292df6162998e1d0ef7ae5bda",
+      "source_text": "The first of these tests began right away.",
+      "draft_text": "The first of these tests began right away.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 41,
+      "source_text_sha256": "1aac6d930a28b5d3eaf1d7fa1b051bbec0ec43baceb83445f91a57f663c5a632",
+      "draft_text_sha256": "1aac6d930a28b5d3eaf1d7fa1b051bbec0ec43baceb83445f91a57f663c5a632",
+      "source_text": "……What is the cradle of swords?",
+      "draft_text": "……What is the cradle of swords?",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 42,
+      "source_text_sha256": "a1fd1db92e03f1481797cdd74f51602ced8b82605a65f38c3a452a9bd2e13025",
+      "draft_text_sha256": "a1fd1db92e03f1481797cdd74f51602ced8b82605a65f38c3a452a9bd2e13025",
+      "source_text": "It is a unique rite of passage for the Baskervilles.",
+      "draft_text": "It is a unique rite of passage for the Baskervilles.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 43,
+      "source_text_sha256": "031d99d07ace1f8e25ce81a68b93dbed69a4cb2cf4e3c05a82ab402c9972d2e4",
+      "draft_text_sha256": "031d99d07ace1f8e25ce81a68b93dbed69a4cb2cf4e3c05a82ab402c9972d2e4",
+      "source_text": "Countless knives are planted like a maze on a round hill and a baby is dropped in the middle.",
+      "draft_text": "Countless knives are planted like a maze on a round hill and a baby is dropped in the middle.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 44,
+      "source_text_sha256": "fce31aa1fe85455c2c32e5ca127097ab8a18a12aab860ca61482cddb883308db",
+      "draft_text_sha256": "8ccacb4009fd48bb0a74e2466d17d7eae54bb93cf360b86b2427914d77bd9533",
+      "source_text": "The baby is trapped in the maze created by the blade and wandered through it.",
+      "draft_text": "The baby is trapped in the maze of blades and wanders through it.",
+      "changed": true,
+      "rationale": "Use consistent present tense for the general description and plural blades.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 45,
+      "source_text_sha256": "721dabb96564c4c2f3a5967a766e913cf4721a4bba96fe8c05cb2df725bee7fe",
+      "draft_text_sha256": "c67656c5252d5b5fea0ef3207fdc20d228105489cef1d5f8da1c90c2a41cb294",
+      "source_text": "Even if it moves, he get cut by the blades all over his body.",
+      "draft_text": "Every movement leaves the baby with cuts from the blades.",
+      "changed": true,
+      "rationale": "Repair subject and verb agreement without alternating pronouns.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 46,
+      "source_text_sha256": "9eaa2a4682355038c2ad048381be2464d2ca012aac2d6bb762a57ec813a5c7df",
+      "draft_text_sha256": "9eaa2a4682355038c2ad048381be2464d2ca012aac2d6bb762a57ec813a5c7df",
+      "source_text": "In this environment, babies have to crawl on the floor and through a labyrinth of needles.",
+      "draft_text": "In this environment, babies have to crawl on the floor and through a labyrinth of needles.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 47,
+      "source_text_sha256": "abdc88c70dd58fabf6692d55b461827f88dfe0c9e6c562ee1167528b7cce52d4",
+      "draft_text_sha256": "abdc88c70dd58fabf6692d55b461827f88dfe0c9e6c562ee1167528b7cce52d4",
+      "source_text": "It is only when you immerse yourself in the river ‘Styx’ outside of the labyrinth that you become a Baskerville in its true sense.",
+      "draft_text": "It is only when you immerse yourself in the river ‘Styx’ outside of the labyrinth that you become a Baskerville in its true sense.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 48,
+      "source_text_sha256": "a5d30bf5879ec667962d609821231e0c8968e222d658daf97f9906351cf67047",
+      "draft_text_sha256": "a5d30bf5879ec667962d609821231e0c8968e222d658daf97f9906351cf67047",
+      "source_text": "‘The Styx water is only effective for children under one year of age. If you soak your body in this river, your whole body becomes as hard as steel.’",
+      "draft_text": "‘The Styx water is only effective for children under one year of age. If you soak your body in this river, your whole body becomes as hard as steel.’",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 49,
+      "source_text_sha256": "2d403cacfdd0cef91ec8b55a491c945ad6bc985efe1da3413f4ef429be9706aa",
+      "draft_text_sha256": "2d403cacfdd0cef91ec8b55a491c945ad6bc985efe1da3413f4ef429be9706aa",
+      "source_text": "Of course, the power of this river is not infinite.",
+      "draft_text": "Of course, the power of this river is not infinite.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 50,
+      "source_text_sha256": "e5740386bd2cc68bdb3fbee3b603c1d1717e5fc31f9fdbe2afec168a7cb44a28",
+      "draft_text_sha256": "48edb335660a8f73d46891105ea04d71d39677b7f2c0c0d70a5b8910391b78c8",
+      "source_text": "If one baby sucks up most of her power, the other sucks in relatively less since the power remaining is lesser.",
+      "draft_text": "If one baby absorbs most of the river’s power, another receives relatively less because less power remains.",
+      "changed": true,
+      "rationale": "Replace the inconsistent river pronoun and repair comparison; preserve finite power distribution.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 51,
+      "source_text_sha256": "bad43a71f088ac6f0888ae7a7f869c8f825e62048eedd20ece07b1939fd1fa35",
+      "draft_text_sha256": "bad43a71f088ac6f0888ae7a7f869c8f825e62048eedd20ece07b1939fd1fa35",
+      "source_text": "It’s like her mother’s lifeline.",
+      "draft_text": "It’s like her mother’s lifeline.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 52,
+      "source_text_sha256": "5d083709e04c8a736b997ce27fa7e70478bf73f57d7cc228e33f8bd41f7a4f34",
+      "draft_text_sha256": "5d083709e04c8a736b997ce27fa7e70478bf73f57d7cc228e33f8bd41f7a4f34",
+      "source_text": "The children of the Baskervilles were now thrown into the cradle of the sword.",
+      "draft_text": "The children of the Baskervilles were now thrown into the cradle of the sword.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 53,
+      "source_text_sha256": "42d043fbe239f689823fde7be2ee13bd23ce2b35a2a8e5fa032f6b9033eb7949",
+      "draft_text_sha256": "76845fe6551af70656c9bc5b3f8cae35011384f203c62315839232a8a8882c3f",
+      "source_text": "Who is the first to get out of this labyrinth and jump into the river first? That will determine the future of these children.",
+      "draft_text": "Who would be the first to escape this labyrinth and jump into the river? That would determine the future of these children.",
+      "changed": true,
+      "rationale": "Remove duplicated first and align narration with past tense.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 54,
+      "source_text_sha256": "7ca80163b15633830884bbd6f0ae1ce6ff5027b42d28afd622ca5708a4195a88",
+      "draft_text_sha256": "50960dc133cdc3436bcc1bbbdfb9157f5eeb93649f89da50e2728d741c77a623",
+      "source_text": "Thirty-two children born this year, including all of the family’s rightful sons, bastards, and cousins, compete with each other in the middle of the cradle of swords.",
+      "draft_text": "Thirty-two children born that year, including all of the family’s rightful sons, bastards, and cousins, competed in the middle of the cradle of swords.",
+      "changed": true,
+      "rationale": "Align narrative tense; preserve participants and number.",
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 55,
+      "source_text_sha256": "950e598b4d37fd5a1347ccb8f4850d31508be4b2c3411f9c5a897f6212f6240e",
+      "draft_text_sha256": "950e598b4d37fd5a1347ccb8f4850d31508be4b2c3411f9c5a897f6212f6240e",
+      "source_text": "The blades, densely packed with tracks for the children to the go through and become the sharpest of thorns.",
+      "draft_text": "The blades, densely packed with tracks for the children to the go through and become the sharpest of thorns.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-06"
+      ]
+    },
+    {
+      "paragraph": 56,
+      "source_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
+      "draft_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
+      "source_text": "Aye- Aye- Aye-",
+      "draft_text": "Aye- Aye- Aye-",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-07"
+      ]
+    },
+    {
+      "paragraph": 57,
+      "source_text_sha256": "451a2aee50a5edea7170193cad8d181c605522c9b06a84ea252dc0d7525e10c5",
+      "draft_text_sha256": "38b9e5c9a2849e40b532ae2ee8ee2e3403344b3bd675c26d1e7a7e8c3ba6c2d2",
+      "source_text": "A baby who cried looking for a babysitter, while another was already crawling, he was bleeding from being cut by the blades, and another one who sat down and sucking his finger as he had no intention of escaping yet…… Babies are usually like that.",
+      "draft_text": "One baby cried for a babysitter. Another was already crawling, bleeding from cuts inflicted by the blades. Another sat sucking his finger, showing no intention of escaping yet… Babies are usually like that.",
+      "changed": true,
+      "rationale": "Repair subject coordination and verb forms; preserve all three described responses.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 58,
+      "source_text_sha256": "b03022e9ed700111f8d6264bb9075b24e1b3a773138fa827e5131527fd96ae39",
+      "draft_text_sha256": "95efb6b38051f00b63d87b47dd52f99830e51431364c8fd7a9c02afa4f14d949",
+      "source_text": "In fact, since these babies are less than a year old, it is a natural result.",
+      "draft_text": "In fact, since these babies were less than a year old, this was only natural.",
+      "changed": true,
+      "rationale": "Repair narrative tense and literal result phrasing.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 59,
+      "source_text_sha256": "1113f7e4230150176a63ac7b2eba8c3eac1cbf1f7e76a89db6a854663801fca9",
+      "draft_text_sha256": "1113f7e4230150176a63ac7b2eba8c3eac1cbf1f7e76a89db6a854663801fca9",
+      "source_text": "However.",
+      "draft_text": "However.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 60,
+      "source_text_sha256": "68852eab095c56c4a846fe67ab97aeedb10fea5baf95bca67fcb6a781c64fbf5",
+      "draft_text_sha256": "68852eab095c56c4a846fe67ab97aeedb10fea5baf95bca67fcb6a781c64fbf5",
+      "source_text": "“Useless.”",
+      "draft_text": "“Useless.”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 61,
+      "source_text_sha256": "3b119e87684e9a25432fe3c54578c1c191d472115e4ee72a108ebbe70602a07f",
+      "draft_text_sha256": "3b119e87684e9a25432fe3c54578c1c191d472115e4ee72a108ebbe70602a07f",
+      "source_text": "Hugo Le Baskerville’s assessment was terribly cold.",
+      "draft_text": "Hugo Le Baskerville’s assessment was terribly cold.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 62,
+      "source_text_sha256": "31851e057112babba57eebf16f778dcb5ce6cf6f1b7b34544d17bc389c2ca84c",
+      "draft_text_sha256": "31851e057112babba57eebf16f778dcb5ce6cf6f1b7b34544d17bc389c2ca84c",
+      "source_text": "A small, fragile creature. A creature that cannot survive without the help of others.",
+      "draft_text": "A small, fragile creature. A creature that cannot survive without the help of others.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 63,
+      "source_text_sha256": "3e0c2a529e4dd2cc5f9851a86d2550a8cdac1a94fc0f507d063f2d34d3c809f4",
+      "draft_text_sha256": "3e0c2a529e4dd2cc5f9851a86d2550a8cdac1a94fc0f507d063f2d34d3c809f4",
+      "source_text": "There was contempt in Hugo’s gaze at the human body.",
+      "draft_text": "There was contempt in Hugo’s gaze at the human body.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-06"
+      ]
+    },
+    {
+      "paragraph": 64,
+      "source_text_sha256": "a952078f86693f1b81fb91fa2eb2e7c2e5682d7b96b3c2271d116255e26b71d1",
+      "draft_text_sha256": "0056941b8da1e43811f833d45747b8f2b59356f9cbe471bfe5d6ef7a3b3e6c30",
+      "source_text": "Even if it is your own child, there is no exception.",
+      "draft_text": "Even his own children were no exception.",
+      "changed": true,
+      "rationale": "Remove accidental second-person shift in narration.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 65,
+      "source_text_sha256": "9efe0198bb4a3d30dc896fef106af34dbae5abb1afc2b7ab3d233246b57d5f8c",
+      "draft_text_sha256": "9efe0198bb4a3d30dc896fef106af34dbae5abb1afc2b7ab3d233246b57d5f8c",
+      "source_text": "Being one of the seven best swordsmen on the continent, he was famous for being an iron man from birth.",
+      "draft_text": "Being one of the seven best swordsmen on the continent, he was famous for being an iron man from birth.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-02"
+      ]
+    },
+    {
+      "paragraph": 66,
+      "source_text_sha256": "3c51cbcbaba951f5887019fee60144d170e68ff1001a0c5e240a2fde687c3b25",
+      "draft_text_sha256": "ad280e41be1d7ff12c7962bb09fb8e3c10c63d0f548d599c54f062740e8719dc",
+      "source_text": "“Only like this can we fight the demons. The strong will survive and leave the weak behind”",
+      "draft_text": "“Only like this can we fight the demons. The strong will survive and leave the weak behind.”",
+      "changed": true,
+      "rationale": "Add quotation punctuation only; the disputed speech remains unchanged in meaning.",
+      "open_issues": [
+        "CH001-06"
+      ]
+    },
+    {
+      "paragraph": 67,
+      "source_text_sha256": "eff8fb9ccbdd6a556c356cc9066e88bf2e3b6948deabe1171a6768ab99d3c6f0",
+      "draft_text_sha256": "eff8fb9ccbdd6a556c356cc9066e88bf2e3b6948deabe1171a6768ab99d3c6f0",
+      "source_text": "Hugo stood high and looked at the waters of the Styx, which flowed around the cradle of the sword, and lamented.",
+      "draft_text": "Hugo stood high and looked at the waters of the Styx, which flowed around the cradle of the sword, and lamented.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 68,
+      "source_text_sha256": "814dde7f4bc4e81a9c67f40d4ec0fd4dd88fcacfe48348c825c7827aba93cb46",
+      "draft_text_sha256": "814dde7f4bc4e81a9c67f40d4ec0fd4dd88fcacfe48348c825c7827aba93cb46",
+      "source_text": "The secret river, which flows only in the Holy Land of the Baskerville family, has the effect of increasing mana, purifying one’s aura, and making one’s body as tough and hard as steel just by soaking one’s body.",
+      "draft_text": "The secret river, which flows only in the Holy Land of the Baskerville family, has the effect of increasing mana, purifying one’s aura, and making one’s body as tough and hard as steel just by soaking one’s body.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 69,
+      "source_text_sha256": "b28900dfb26b91e3e77c4f0f0a97bced72fc84969c2a86319fd56f11529bd312",
+      "draft_text_sha256": "cf44fab6ecf8b9a7aa60fdcb75822a7726ef82368add17cd8d3f7e74da140eed",
+      "source_text": "If it hadn’t been for something that only worked for children under the age of 1, Hugo would have soaked himself right away.",
+      "draft_text": "If the river’s power had not worked only on children under the age of one, Hugo would have soaked himself in it right away.",
+      "changed": true,
+      "rationale": "Repair the conditional while preserving the stated age restriction.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 70,
+      "source_text_sha256": "d0aa366bdd9ca2fa5fb5958b98b14319a68a9d45d121e9e87a1070ae7238b1a2",
+      "draft_text_sha256": "92d33f8715a549352d70e6310cc008fad3316fbbc5c09eda4edcbf11a2c7b435",
+      "source_text": "When Hugo is looking at the river with a sad expression.",
+      "draft_text": "Hugo was looking at the river with a sad expression.",
+      "changed": true,
+      "rationale": "Repair incomplete temporal clause.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 71,
+      "source_text_sha256": "6fb8d160d3c068836878282b1ec1591057f260a3210e331f74c24a75f4dffd14",
+      "draft_text_sha256": "6fb8d160d3c068836878282b1ec1591057f260a3210e331f74c24a75f4dffd14",
+      "source_text": "“……Hey, over there!”",
+      "draft_text": "“……Hey, over there!”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 72,
+      "source_text_sha256": "c91b72f06b1fadc846339fb0881888605f31b466c9cc856f99bdb29f80b264c0",
+      "draft_text_sha256": "5a3361836c02f41452fbea52d1f3533ff3379b5d6114ae6b0866579baac8fa3b",
+      "source_text": "“Ah, how can it be!”",
+      "draft_text": "“Ah, how can that be!”",
+      "changed": true,
+      "rationale": "Repair English exclamation.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 73,
+      "source_text_sha256": "2db59e9bf64b24951771e133e0eb52ca78b93ff1dd70387a2fbcd910d06f2cea",
+      "draft_text_sha256": "2db59e9bf64b24951771e133e0eb52ca78b93ff1dd70387a2fbcd910d06f2cea",
+      "source_text": "“Nonsense!”",
+      "draft_text": "“Nonsense!”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 74,
+      "source_text_sha256": "141f0694b095c9225dd3d64a7bd1fb3724d2bebbeed37776f716c26379bc3cfc",
+      "draft_text_sha256": "141f0694b095c9225dd3d64a7bd1fb3724d2bebbeed37776f716c26379bc3cfc",
+      "source_text": "Arguments erupted from everywhere.",
+      "draft_text": "Arguments erupted from everywhere.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-06"
+      ]
+    },
+    {
+      "paragraph": 75,
+      "source_text_sha256": "bdd39f02770dbe1ca124e7f2bd0782c0553534d6d6d1fd6b276131982a9fbd09",
+      "draft_text_sha256": "bdd39f02770dbe1ca124e7f2bd0782c0553534d6d6d1fd6b276131982a9fbd09",
+      "source_text": "What was there to be astonished at by the family’s guardian knights, who were not shaken by anything?",
+      "draft_text": "What was there to be astonished at by the family’s guardian knights, who were not shaken by anything?",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 76,
+      "source_text_sha256": "3549fa6e9faa6b6c67070836e11d2657194aa0d0d3c7fb9d2035f169479f4f2d",
+      "draft_text_sha256": "3549fa6e9faa6b6c67070836e11d2657194aa0d0d3c7fb9d2035f169479f4f2d",
+      "source_text": "Hugo raised his head with a puzzled expression.",
+      "draft_text": "Hugo raised his head with a puzzled expression.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 77,
+      "source_text_sha256": "fd08b635e6b8006c25de87aae8eb2d547c8f90cf05ff9da12ee2a41fa433d768",
+      "draft_text_sha256": "b7268ea864cb59b21ccd9475f81cc6b813b6cbbe23bdfe6d5e74143676181030",
+      "source_text": "And that moment.",
+      "draft_text": "And at that moment…",
+      "changed": true,
+      "rationale": "Repair transition wording and signal the continuing sentence.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 78,
+      "source_text_sha256": "270bc34893f5a8f8f15a02cfa37c5bdcc4be076baa9bd1010a587059b974017a",
+      "draft_text_sha256": "270bc34893f5a8f8f15a02cfa37c5bdcc4be076baa9bd1010a587059b974017a",
+      "source_text": "“……!”",
+      "draft_text": "“……!”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 79,
+      "source_text_sha256": "47269d7bf5843d63f505ccfecf3ea25806561232ae911cc976a0fca62a74759e",
+      "draft_text_sha256": "47269d7bf5843d63f505ccfecf3ea25806561232ae911cc976a0fca62a74759e",
+      "source_text": "His eyes, which had been filled with bitter boredom, contempt, impatience, and disappointment, lit up.",
+      "draft_text": "His eyes, which had been filled with bitter boredom, contempt, impatience, and disappointment, lit up.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 80,
+      "source_text_sha256": "39a6c3d700deb49b17a2e5853f2a1b1a50edd1792efb95ff425eaabbf7c96d9f",
+      "draft_text_sha256": "39a6c3d700deb49b17a2e5853f2a1b1a50edd1792efb95ff425eaabbf7c96d9f",
+      "source_text": "The cradle of the sword.",
+      "draft_text": "The cradle of the sword.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 81,
+      "source_text_sha256": "0abf8fdf914d7c1f0426ad265b2af36083b5cbc4b494c2a6343cd06e8358f263",
+      "draft_text_sha256": "341795bc5d2b0e80fdfbe8e72d04f53a48c10295c8d46caef40f5cb411532627",
+      "source_text": "For through this thick forest of blades a child was heading straight for the River Styx.",
+      "draft_text": "Through this thick forest of blades, a child was heading straight for the River Styx.",
+      "changed": true,
+      "rationale": "Remove unnecessary conjunction and clarify clause punctuation.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 82,
+      "source_text_sha256": "4b8a11526a03ecaa665bd1270c4520f7426bf0c15721d35b3988140b13c6369c",
+      "draft_text_sha256": "4b8a11526a03ecaa665bd1270c4520f7426bf0c15721d35b3988140b13c6369c",
+      "source_text": "Jjoeok- Jjeook- Fit-",
+      "draft_text": "Jjoeok- Jjeook- Fit-",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-07"
+      ]
+    },
+    {
+      "paragraph": 83,
+      "source_text_sha256": "90141c20255a3f0dc3174bb0b5e048321a44b065a399a4533ca1b81e66abbcd0",
+      "draft_text_sha256": "1a27fe637e52d1f012202d9d5ffcfbf1a895beaba63af62aaac0055b2a1e71c6",
+      "source_text": "The child’s body is already covered in blood.",
+      "draft_text": "The child’s body was already covered in blood.",
+      "changed": true,
+      "rationale": "Align narrative tense.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 84,
+      "source_text_sha256": "bc4586f7c2ae4bb13da6be1977a34f7a9fd139d611ebf1b26f9423bea6e99b7f",
+      "draft_text_sha256": "bc4586f7c2ae4bb13da6be1977a34f7a9fd139d611ebf1b26f9423bea6e99b7f",
+      "source_text": "Surprisingly, the child was going straight through the cradle of needles, which were spiraled like a snail’s shell.",
+      "draft_text": "Surprisingly, the child was going straight through the cradle of needles, which were spiraled like a snail’s shell.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 85,
+      "source_text_sha256": "374c220bb08ea406e78f24c2db3eecabe603e80e4c81322aa0b0494ee83e04e5",
+      "draft_text_sha256": "932403b41871196c2f2e3d36faa2005bc902493aa545082e624e57b31d56945d",
+      "source_text": "Instead of going round and round on a relatively safe road, he directly squeezes into the small gap between the blades.",
+      "draft_text": "Instead of following the relatively safe path around and around, he squeezed directly into the small gaps between the blades.",
+      "changed": true,
+      "rationale": "Repair narrative tense and idiom; retain the contrast between routes.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 86,
+      "source_text_sha256": "5dab21b60c378bbb67d983babdee166dc94ad24fa702ee0f196ff7cfbb2f0534",
+      "draft_text_sha256": "5dab21b60c378bbb67d983babdee166dc94ad24fa702ee0f196ff7cfbb2f0534",
+      "source_text": "There was a knife mark on his white, soft cheek.",
+      "draft_text": "There was a knife mark on his white, soft cheek.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 87,
+      "source_text_sha256": "9e2950640e629789f76e6b019879e759a80cf20999362ce5182f8854ff83c08e",
+      "draft_text_sha256": "9e2950640e629789f76e6b019879e759a80cf20999362ce5182f8854ff83c08e",
+      "source_text": "His soft waist and forearms were cut and torn all over.",
+      "draft_text": "His soft waist and forearms were cut and torn all over.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 88,
+      "source_text_sha256": "8ac151d9a0284e3d1168d3ae210c03e1dabf87a5531105b0e85cd3399234e526",
+      "draft_text_sha256": "a82ed9bee05bdd91d871009f96f1f81ee46c3084a5c795b4d451c82355d36b7d",
+      "source_text": "His knees were all bruised and the soft palms were already bloody.",
+      "draft_text": "His knees were bruised, and his soft palms were already bloody.",
+      "changed": true,
+      "rationale": "Repair article and possessive consistency.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 89,
+      "source_text_sha256": "af5f519d98296e4f3ea9c7990001454adc5182429c4988d3b6ca233efe32a803",
+      "draft_text_sha256": "76f2b09ab46e2863f71f2c2bbcdc60b6fda2753a7cddf8efca297eead6591557",
+      "source_text": "A child crawling forward, making a bloody path by squeezing between the countless needles.",
+      "draft_text": "The child crawled forward, leaving a bloody path as he squeezed between the countless needles.",
+      "changed": true,
+      "rationale": "Supply a finite verb; retain the source needle metaphor.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 90,
+      "source_text_sha256": "5fa7ec8127d236eefbbbbf491a8ec7207721dad7e6158c3f03e2c764f9b0efb3",
+      "draft_text_sha256": "5fa7ec8127d236eefbbbbf491a8ec7207721dad7e6158c3f03e2c764f9b0efb3",
+      "source_text": "Everyone in the family was overwhelmed by the spirit of this child who was less than 100 days old.",
+      "draft_text": "Everyone in the family was overwhelmed by the spirit of this child who was less than 100 days old.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-04"
+      ]
+    },
+    {
+      "paragraph": 91,
+      "source_text_sha256": "2487423ae259aff445e5f7ce77df76c590e45c1d79c5351a565d3e671f033db8",
+      "draft_text_sha256": "2487423ae259aff445e5f7ce77df76c590e45c1d79c5351a565d3e671f033db8",
+      "source_text": "It was the same with Hugo Le Baskerville, the head of Baskerville, the iron-blooded swordsman.",
+      "draft_text": "It was the same with Hugo Le Baskerville, the head of Baskerville, the iron-blooded swordsman.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 92,
+      "source_text_sha256": "a75d243e5a2deae5bf0e5c881f270aaaba6ae32e6273dd0580865eec8ef547a8",
+      "draft_text_sha256": "a75d243e5a2deae5bf0e5c881f270aaaba6ae32e6273dd0580865eec8ef547a8",
+      "source_text": "Before long, the child was completely out of the maze.",
+      "draft_text": "Before long, the child was completely out of the maze.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 93,
+      "source_text_sha256": "ef428be162bb44f839f7a1f1c93344a28b84a1981b6617dd24a0ec2c7970999f",
+      "draft_text_sha256": "f0365e015f6c71fb26aae39a0f011b06cbe1f93040caed45510541a1572193e7",
+      "source_text": "His siblings were still trapped in the center of the cradle of the sword and could not get out.",
+      "draft_text": "His siblings were still trapped in the center of the cradle of the sword, unable to get out.",
+      "changed": true,
+      "rationale": "Reduce redundant clause without changing the stated location.",
+      "open_issues": [
+        "CH001-05"
+      ]
+    },
+    {
+      "paragraph": 94,
+      "source_text_sha256": "46773288baed683d3e0328ceb354928cba241dcdcddb4f0180823fa757211efb",
+      "draft_text_sha256": "46773288baed683d3e0328ceb354928cba241dcdcddb4f0180823fa757211efb",
+      "source_text": "…With a plop!",
+      "draft_text": "…With a plop!",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-07"
+      ]
+    },
+    {
+      "paragraph": 95,
+      "source_text_sha256": "1dc8b114fc280271aa04d61d01804ffc152ace8b2734a80004e531566c6ca9bc",
+      "draft_text_sha256": "81e5006e6293d5cc1fc03995269e5d69dcf4efcff859e5e0b775704b56e58ac4",
+      "source_text": "Soon the child came out of the cradle, he threw himself into the River Styx.",
+      "draft_text": "As soon as the child emerged from the cradle, he threw himself into the River Styx.",
+      "changed": true,
+      "rationale": "Repair missing conjunction and comma splice.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 96,
+      "source_text_sha256": "4a5355a18f0f722406c1f2c4997f99956d4438d475dc6810de618cb8895739a5",
+      "draft_text_sha256": "4a5355a18f0f722406c1f2c4997f99956d4438d475dc6810de618cb8895739a5",
+      "source_text": "The river water started turning red.",
+      "draft_text": "The river water started turning red.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 97,
+      "source_text_sha256": "203c989424fe2d3d84ae874360dbd16f74a53e2d0425e617f7d0cf8c9c55ec7c",
+      "draft_text_sha256": "203c989424fe2d3d84ae874360dbd16f74a53e2d0425e617f7d0cf8c9c55ec7c",
+      "source_text": "Hugo moved forward in an unusual way, clutching the railing with both hands.",
+      "draft_text": "Hugo moved forward in an unusual way, clutching the railing with both hands.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 98,
+      "source_text_sha256": "52eed64ed52c1b7d1a42dfa5ebd60a56ef72153c1b619e8b582636482c31848c",
+      "draft_text_sha256": "52eed64ed52c1b7d1a42dfa5ebd60a56ef72153c1b619e8b582636482c31848c",
+      "source_text": "Seeing the cracks in the marble railing, the attendants widened their eyes.",
+      "draft_text": "Seeing the cracks in the marble railing, the attendants widened their eyes.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 99,
+      "source_text_sha256": "4daf10aa0255406938f5a9ed075258fbb96fb5ea0ec8ffea968a74c4d10a49d4",
+      "draft_text_sha256": "9607068b7cb36ba5a4c35989708de3a9cba700f6f1bf9d16842387645e26c425",
+      "source_text": "It was because it was the first time I had seen him, who usually showed an emotionless attitude in everything, be so agitated.",
+      "draft_text": "They had never seen him so agitated; he usually showed no emotion in anything he did.",
+      "changed": true,
+      "rationale": "Remove accidental first-person narration; they refers to the attendants in paragraph 98.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 100,
+      "source_text_sha256": "fd61ee7101246ccdf551830da31823afdacab095a6c42c37a9c3e3487c756b55",
+      "draft_text_sha256": "fd61ee7101246ccdf551830da31823afdacab095a6c42c37a9c3e3487c756b55",
+      "source_text": "“What happened to him?”",
+      "draft_text": "“What happened to him?”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 101,
+      "source_text_sha256": "fd113ea5bad609a21ff18643d0fb37cb5c1b2d960fc0021d6387d0b88579b304",
+      "draft_text_sha256": "fd113ea5bad609a21ff18643d0fb37cb5c1b2d960fc0021d6387d0b88579b304",
+      "source_text": "Hugo raised his voice.",
+      "draft_text": "Hugo raised his voice.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 102,
+      "source_text_sha256": "3256018e982d1e82c0c00d455a0866956d881c84628ccad07dbabaa16be34130",
+      "draft_text_sha256": "c2d8a135979efa05b4482695854487533bd96e662e878d14a8bf62b3288bbf8d",
+      "source_text": "The child who fell into the River Styx still did not come up.",
+      "draft_text": "The child who had fallen into the River Styx still had not surfaced.",
+      "changed": true,
+      "rationale": "Repair narrative tense and water-specific wording.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 103,
+      "source_text_sha256": "05cc2374f5dbb3cd2e17c6ee15ef0099d88cbfd901a8f824648333317eccd46f",
+      "draft_text_sha256": "05cc2374f5dbb3cd2e17c6ee15ef0099d88cbfd901a8f824648333317eccd46f",
+      "source_text": "Before long, several of the family’s guardian knights approached the River Styx and peered into it.",
+      "draft_text": "Before long, several of the family’s guardian knights approached the River Styx and peered into it.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 104,
+      "source_text_sha256": "9a6cc718a2a33909d749ab47f13af94935236869534dce51d6c48f4135d75511",
+      "draft_text_sha256": "8fc790223a46b84842aeeab0d60a9cedc4c43561a8cadf76203c9352e94c35c1",
+      "source_text": "And. The knights were frightened at once.",
+      "draft_text": "The knights were immediately frightened.",
+      "changed": true,
+      "rationale": "Repair orphaned conjunction and adverb placement.",
+      "open_issues": []
+    },
+    {
+      "paragraph": 105,
+      "source_text_sha256": "f7f8fea0bea59ad77d9bcb5051da8a2ce14b89e88154831e7f44ab3a6beb8f95",
+      "draft_text_sha256": "f7f8fea0bea59ad77d9bcb5051da8a2ce14b89e88154831e7f44ab3a6beb8f95",
+      "source_text": "“Sir, he is drinking the river water!”",
+      "draft_text": "“Sir, he is drinking the river water!”",
+      "changed": false,
+      "rationale": null,
+      "open_issues": []
+    },
+    {
+      "paragraph": 106,
+      "source_text_sha256": "10a9b7e4aeabe06c8008cb02b02ce51ccf412c4b0f048bc40668823fef96dd61",
+      "draft_text_sha256": "10a9b7e4aeabe06c8008cb02b02ce51ccf412c4b0f048bc40668823fef96dd61",
+      "source_text": "It was an answer that would make Hugo’s mouth turn into a grin.",
+      "draft_text": "It was an answer that would make Hugo’s mouth turn into a grin.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [
+        "CH001-08",
+        "CH001-09"
+      ]
+    }
+  ]
+}

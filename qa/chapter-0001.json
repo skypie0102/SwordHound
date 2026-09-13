@@ -1,0 +1,19 @@
+{
+  "chapter": 1,
+  "source_sha256": "475fe7ffc331bc2a79255108ada508a811d104d6ec3101d2e8b9bd31aaf99382",
+  "review_date": "2026-09-13",
+  "pass": "English grammar and initial source comparison",
+  "accepted": false,
+  "acceptance_evidence": null,
+  "issues": [
+    {"id":"CH001-01","status":"open","paragraphs":[4,7,16],"question":"Verify the execution display, shadow/blood metaphor, and exact accusation. English says neck and spy; the library preview suggests head and collusion. The shadow sentence remains broken.","required_evidence":"An attributable Korean chapter and a recorded passage comparison."},
+    {"id":"CH001-02","status":"open","paragraphs":[5,12,13,22,27,65],"question":"Resolve Van/van and the role of Le/Re; confirm Hugo's rank and the seven-swordsmen description. The library preview has inconsistent Korean names and a count title where English says Marquis.","required_evidence":"Verified names/ranks and chapter-specific glossary decisions, without later-story backfill."},
+    {"id":"CH001-03","status":"open","paragraphs":[21,36],"question":"Resolve dozens of layers of slopes and nannies in the city behind him. The audit's collateral-branches suggestion is not supported by the displayed Korean, which instead suggests celebratory events and nannies standing behind Hugo.","required_evidence":"Reliable Korean passage comparison; do not apply the old proposed branch wording automatically."},
+    {"id":"CH001-04","status":"open","paragraphs":[29,90],"question":"Reconcile just completed 100 days with less than 100 days old. Both inconsistent ages also appear in the library preview.","required_evidence":"An attributable edition or an explicit, documented editorial treatment of the source contradiction."},
+    {"id":"CH001-05","status":"open","paragraphs":[37,41,48,51,52,54,67,80,93],"question":"Verify the ritual's canonical name, the speaker of the quoted Styx explanation, and mother's lifeline versus mother's milk. Keep the current variants and unattributed thought pending evidence.","required_evidence":"Source-backed ritual term, speaker attribution, and metaphor decision."},
+    {"id":"CH001-06","status":"open","paragraphs":[55,63,66,74],"question":"Check the blade-path description, object of Hugo's contempt, his actual spoken words, and arguments versus exclamations. Only terminal punctuation has been changed in paragraph 66.","required_evidence":"Full passage comparison, particularly the speech whose content differs substantially between witnesses."},
+    {"id":"CH001-07","status":"open","paragraphs":[19,56,82,94],"question":"Resolve baby cries and romanized blade sounds; distinguish voiced cries from physical sounds and scene breaks. Do not replace them all using a global rule.","required_evidence":"Contextual sound-effect review and a consistent documented English treatment."},
+    {"id":"CH001-08","status":"open","paragraphs":[106],"question":"Confirm Hugo's final reaction: the recovered English says grin; the library preview suggests his mouth fell open.","required_evidence":"Reliable Korean wording before changing character emotion."},
+    {"id":"CH001-09","status":"open","paragraphs":[1,106],"question":"Complete a full bilingual and continuity pass over paragraphs 1–106 after the source questions are resolved, followed by final English reading and publication-format checks. The listed issues are an initial review, not an exhaustive QA certificate.","required_evidence":"Recorded whole-chapter review, resolved findings, and acceptance evidence linked to final draft checksum."}
+  ]
+}

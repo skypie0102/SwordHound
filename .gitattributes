@@ -2,6 +2,9 @@
 source/** -text
 epub/** -text
 editorial/Editorial-Audit.md -text
+# Draft hashes use canonical UTF-8 / LF bytes across checkouts.
+manuscript/drafts/** text eol=lf
+editorial/provenance/** text eol=lf
 *.epub binary
 *.xz binary
 *.zip binary
