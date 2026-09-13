@@ -2,6 +2,12 @@
 
 Recovery date: 2026-09-13 (Asia/Manila).
 
+## Subsequent user-supplied source update
+
+The user supplied `001-054.zip`, now preserved as `archives/korean-raws-001-054.zip`, with all 54 Korean text files under `source/korean/chapters/`. Archive SHA-256: `e250131a9fe927c52b403258ca98696ac946b5b088106eba9909e01bbe3b9923`. The [manifest](korean-raws-manifest.json) records original member bytes, checksums, and numbered headings. This supersedes the earlier limitation below that Korean files were only library leads.
+
+The user has no Korean raws after Chapter 54 and authorizes MTL-based work from 55 onward. The designated Fandom and Namu Wiki references and additional-web-research policy are in [editorial/SOURCES.md](../editorial/SOURCES.md). This is newly supplied source material, not recovery of the lost production QA or old Git history.
+
 ## Verified materials
 
 | Material | Provenance | Verification |

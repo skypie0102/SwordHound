@@ -2,6 +2,8 @@
 
 **Status: draft with open issues. QA NOT accepted.** This is new editing work, not recovery of the old finished chapter or its QA report.
 
+**Source update:** the user has now supplied the full [Korean Chapter 1 file](../source/korean/chapters/001.txt), preserved with Chapters 1–54. Use it with the MTL and the [designated wiki references](../editorial/SOURCES.md) for the next review. The nine issues below remain open; obtaining the file does not itself resolve its internal contradictions or complete bilingual QA.
+
 The [draft](../manuscript/drafts/chapter-0001.md) preserves all 106 source paragraphs in order. Its first pass repairs English grammar, tense, punctuation, and accidental pronoun shifts where the recovered English supplies sufficient context. The [edit set](../editorial/edits/chapter-0001.json) gives every replacement and reason; the [provenance record](../editorial/provenance/chapter-0001.json) includes original and edited text and hashes for every paragraph. Original XHTML is unchanged.
 
 ## Review limits and open questions

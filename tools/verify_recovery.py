@@ -6,6 +6,7 @@ import json
 import tarfile
 import xml.etree.ElementTree as ET
 import zipfile
+from import_korean_raws import check_korean_raws
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -20,6 +21,7 @@ def sha(data):
 
 
 def main():
+    check_korean_raws(ROOT)
     for item in json.loads((ROOT / 'recovery/artifact-checksums.json').read_text(encoding='utf-8')):
         data = (ROOT / item['path']).read_bytes()
         require(len(data) == item['bytes'] and sha(data) == item['sha256'], 'Artifact checksum mismatch: '+item['path'])
@@ -61,7 +63,7 @@ def main():
             require('EPUB/' + item.attrib['href'] in z.namelist(), 'Missing package resource: '+item.attrib['href'])
         for ref in package.findall('opf:spine/opf:itemref', ns):
             require(ref.attrib['idref'] in items, 'Unresolved spine reference')
-    print('PASS: artifact hashes (including original audit), 493 source hashes, archive members, 524 EPUB snapshot members, XML parsing, EPUB manifest and spine.')
+    print('PASS: Korean archive and 54 raw chapters; artifact hashes (including original audit), 493 MTL source hashes, archive members, 524 EPUB snapshot members, XML parsing, EPUB manifest and spine.')
 
 
 if __name__ == '__main__':

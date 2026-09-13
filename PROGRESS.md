@@ -2,6 +2,20 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-13 — Korean sources and wiki QA policy restored
+
+The user supplied `001-054.zip` and clarified that Korean raws are unavailable after Chapter 54. The current policy supersedes any earlier plan that would wait for Korean throughout the project.
+
+- Preserved the original 285,286-byte ZIP and all 54 text files without changes. No missing or duplicate numbered files; strict UTF-8 decoding and each opening chapter number checked. Full passage alignment remains part of per-chapter QA.
+- Added the archive/member checksum manifest and incorporated its verification into `tools/verify_recovery.py`.
+- Registered the user-designated Fandom and Namu Wiki URLs in [SOURCES.md](editorial/SOURCES.md) for canonical names, terms, locations, and series context. Additional web research remains allowed. Direct opening failed in this batch, so no wiki content or term is falsely marked verified.
+- Updated the 493-chapter tracker: 54 chapters use `korean_plus_mtl`, and 439 use `mtl_with_supporting_references`. Each available Korean source has a path and checksum.
+- Added repository `AGENTS.md` and updated workflow, README, project state, and Chapter 1 review records so other agents receive the same source instructions.
+- Chapter 1's full Korean file is now present. Existing nine QA items remain open; this source import makes no manuscript changes or new QA-acceptance claims.
+- Validation passed: both source archives and chapter sets, unchanged EPUB/audit evidence, existing Chapter 1 draft/provenance, tracker regeneration, all six editorial tests, all Korean tracker links, and the Chapter 54/55 review-mode boundary.
+
+**Next:** review Chapter 1 against its complete Korean file and specific wiki evidence, then proceed with assigned chapter batches. For Chapters 55 onward, complete MTL-based editorial QA under the declared source limitation rather than waiting for unavailable Korean. Preserve actual unresolved semantic issues and avoid introducing later wiki revelations into earlier chapters.
+
 ## 2026-09-13 — First reconstruction checkpoint
 
 **Result:** the project now has an auditable editing workflow, a full chapter tracker, and a first Chapter 1 draft. **Newly QA-accepted chapters: 0.**

@@ -1,0 +1,555 @@
+{
+  "received_date": "2026-09-13",
+  "provenance": "User supplied 001-054.zip as Korean raws for Chapters 1-54.",
+  "archive": "archives/korean-raws-001-054.zip",
+  "archive_bytes": 285286,
+  "archive_sha256": "e250131a9fe927c52b403258ca98696ac946b5b088106eba9909e01bbe3b9923",
+  "chapter_count": 54,
+  "chapter_range": [
+    1,
+    54
+  ],
+  "notice": "Original archive and member bytes preserved. Numbered coverage is verified, not translation accuracy or publisher provenance. User states Korean raws are unavailable from Chapter 55 onward; use MTL with supporting QA references there.",
+  "members": [
+    {
+      "chapter": 1,
+      "archive_member": "001.txt",
+      "path": "source/korean/chapters/001.txt",
+      "bytes": 8968,
+      "sha256": "2d82b95faaa6968b72dc6acdf18160984a28699cac7e1be232c2529eb0e1c64f",
+      "encoding": "utf-8",
+      "opening_heading": "#1철혈검사 하운드의 귀환",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 2,
+      "archive_member": "002.txt",
+      "path": "source/korean/chapters/002.txt",
+      "bytes": 11437,
+      "sha256": "4a24ecbace17f09b6e9e83adabf6257914aa6abcda80f718eb9a646badc9f136",
+      "encoding": "utf-8",
+      "opening_heading": "#2헬하운드",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 3,
+      "archive_member": "003.txt",
+      "path": "source/korean/chapters/003.txt",
+      "bytes": 9589,
+      "sha256": "6226812ad8bb5b3eb8c66dd34a3a56691b66744d95a10728c1c8fb85b1caab1a",
+      "encoding": "utf-8",
+      "opening_heading": "#3헤르 한",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 4,
+      "archive_member": "004.txt",
+      "path": "source/korean/chapters/004.txt",
+      "bytes": 11236,
+      "sha256": "5f4fd2b8c5d78d3b6b141557ec61dac0ec7f706add446ce0fa9538d46ed7c221",
+      "encoding": "utf-8",
+      "opening_heading": "#4바스크빌의 개 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 5,
+      "archive_member": "005.txt",
+      "path": "source/korean/chapters/005.txt",
+      "bytes": 12003,
+      "sha256": "65c416b6d8a09534b0a2bf4eed602cc91d3b47ed80a0e1e8f536034be1bd6ee9",
+      "encoding": "utf-8",
+      "opening_heading": "#5바스커빌의 사냥개들 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 6,
+      "archive_member": "006.txt",
+      "path": "source/korean/chapters/006.txt",
+      "bytes": 10708,
+      "sha256": "98f2e69064d358227ce68d32c0f576c20b1d007ad5c56d0b0afa244e4a0cd567",
+      "encoding": "utf-8",
+      "opening_heading": "#6바스커빌의 사냥개들 (3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 7,
+      "archive_member": "007.txt",
+      "path": "source/korean/chapters/007.txt",
+      "bytes": 11794,
+      "sha256": "e2162bd21803c27643465970557aac3ffe7bcede3460982362cc841e3295a7f4",
+      "encoding": "utf-8",
+      "opening_heading": "#7바스커빌의 사냥개들 (4)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 8,
+      "archive_member": "008.txt",
+      "path": "source/korean/chapters/008.txt",
+      "bytes": 10159,
+      "sha256": "04c2b50afb454f6d6068492e080b813870afd8a042abd2d538259b0e6edb839f",
+      "encoding": "utf-8",
+      "opening_heading": "#8지옥의 사냥개 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 9,
+      "archive_member": "009.txt",
+      "path": "source/korean/chapters/009.txt",
+      "bytes": 15552,
+      "sha256": "c138ca1813382e341b1b9a0a330a7761e9a9f16ebb8e3516023a73fe4ae9c1e0",
+      "encoding": "utf-8",
+      "opening_heading": "#9지옥의 사냥개 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 10,
+      "archive_member": "010.txt",
+      "path": "source/korean/chapters/010.txt",
+      "bytes": 11905,
+      "sha256": "72d8f7f1c9ca55c2c4904d9df5ecb0cae5262ce625e02b529e6f25cb1ecc5586",
+      "encoding": "utf-8",
+      "opening_heading": "#10헬하운드(3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 11,
+      "archive_member": "011.txt",
+      "path": "source/korean/chapters/011.txt",
+      "bytes": 15802,
+      "sha256": "24988d46d5a1a48115fcb42eab2ea7e99e2702f4e253aa26b3b12391994ed7a1",
+      "encoding": "utf-8",
+      "opening_heading": "#11헬하운드(4)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 12,
+      "archive_member": "012.txt",
+      "path": "source/korean/chapters/012.txt",
+      "bytes": 12032,
+      "sha256": "38d0e42019a9aba00b809e4fc8685ff49f99b40357407961360b05a43a401305",
+      "encoding": "utf-8",
+      "opening_heading": "#12탐욕스러운 파리 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 13,
+      "archive_member": "013.txt",
+      "path": "source/korean/chapters/013.txt",
+      "bytes": 12394,
+      "sha256": "f44e049710f465061adfd8416be5e490ff3e0be2e584ffc2ffd3e1745acb83c5",
+      "encoding": "utf-8",
+      "opening_heading": "#13탐욕스러운 파리 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 14,
+      "archive_member": "014.txt",
+      "path": "source/korean/chapters/014.txt",
+      "bytes": 14307,
+      "sha256": "3076ff8dd328c7fb64bccdb5231586a667a6c7a3047eaa23f1bbc7039d01b07d",
+      "encoding": "utf-8",
+      "opening_heading": "#14혼자 식사하기 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 15,
+      "archive_member": "015.txt",
+      "path": "source/korean/chapters/015.txt",
+      "bytes": 10793,
+      "sha256": "ea3e459ff222cc88b67a1101d081b5fdffca5199cd73a2c5ce04a29ea2aa07ac",
+      "encoding": "utf-8",
+      "opening_heading": "#15혼자 식사하기 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 16,
+      "archive_member": "016.txt",
+      "path": "source/korean/chapters/016.txt",
+      "bytes": 9165,
+      "sha256": "d69f3b90e75f90d988586453eb49e59720eb894467f80b2bc33b51003c10b195",
+      "encoding": "utf-8",
+      "opening_heading": "#16혼자 먹기(혼자 먹기)(3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 17,
+      "archive_member": "017.txt",
+      "path": "source/korean/chapters/017.txt",
+      "bytes": 12048,
+      "sha256": "a2f08408ef117d007d55c5bdd7975d701f2141eaa640bcb63a9eeeda43a59e4e",
+      "encoding": "utf-8",
+      "opening_heading": "#17혼자 식사하기 (4)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 18,
+      "archive_member": "018.txt",
+      "path": "source/korean/chapters/018.txt",
+      "bytes": 13733,
+      "sha256": "941530fabe7faf3f3df8f41cde94953e994ce2a77681724ef59e4433b6c4280f",
+      "encoding": "utf-8",
+      "opening_heading": "#18드러낸 송곳니 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 19,
+      "archive_member": "019.txt",
+      "path": "source/korean/chapters/019.txt",
+      "bytes": 13241,
+      "sha256": "0b935d5a522cb9eb46e29e197e435f7802335ec0fd9725074c843730064e5f2a",
+      "encoding": "utf-8",
+      "opening_heading": "#19송곳니(2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 20,
+      "archive_member": "020.txt",
+      "path": "source/korean/chapters/020.txt",
+      "bytes": 17799,
+      "sha256": "4b02b8957c5375be905d2a3b121c67251513e0ef04f5c46deba25fadcf4dbd05",
+      "encoding": "utf-8",
+      "opening_heading": "#20Morgue Camille (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 21,
+      "archive_member": "021.txt",
+      "path": "source/korean/chapters/021.txt",
+      "bytes": 8109,
+      "sha256": "53f00b1de5e5d3abbfb677ec4d9b18689d133d29a9853953d437092554758584",
+      "encoding": "utf-8",
+      "opening_heading": "#21영안실 카밀(2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 22,
+      "archive_member": "022.txt",
+      "path": "source/korean/chapters/022.txt",
+      "bytes": 11868,
+      "sha256": "913a49cebeb0c3319116a3dbf2f16e6f61ebe1250e0ff3f23cc8d71e2f71d9d6",
+      "encoding": "utf-8",
+      "opening_heading": "#22영안실 카밀(3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 23,
+      "archive_member": "023.txt",
+      "path": "source/korean/chapters/023.txt",
+      "bytes": 13775,
+      "sha256": "2cc29de0d3fdc5c0ac29a44d0f1bb995f0892bbfa3ce0ab911cd3e857812c743",
+      "encoding": "utf-8",
+      "opening_heading": "#23영안실 카밀(4)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 24,
+      "archive_member": "024.txt",
+      "path": "source/korean/chapters/024.txt",
+      "bytes": 19666,
+      "sha256": "bf78d739049bd9df40b4a41ef376e75d1ca9ccc05bf2cba3555bfd569d4f2c7b",
+      "encoding": "utf-8",
+      "opening_heading": "#24Morgue Camille (5)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 25,
+      "archive_member": "025.txt",
+      "path": "source/korean/chapters/025.txt",
+      "bytes": 11763,
+      "sha256": "2b2cae03c961948ee5a87d96d78bf05b378e13a978f6b2d6cb154f5b0b043376",
+      "encoding": "utf-8",
+      "opening_heading": "#25Morgue Camille (6)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 26,
+      "archive_member": "026.txt",
+      "path": "source/korean/chapters/026.txt",
+      "bytes": 15513,
+      "sha256": "af2ae23051226baa8c6bbb96dba58cd92e3dbc25fee90b3c53a8b0f1dedfad02",
+      "encoding": "utf-8",
+      "opening_heading": "#26졸업생(1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 27,
+      "archive_member": "027.txt",
+      "path": "source/korean/chapters/027.txt",
+      "bytes": 14114,
+      "sha256": "2d585b8fdf90e6c4db5b0dd252ddfb3a42e39178385855c2cb70964ba0f5b4df",
+      "encoding": "utf-8",
+      "opening_heading": "#27졸업생(2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 28,
+      "archive_member": "028.txt",
+      "path": "source/korean/chapters/028.txt",
+      "bytes": 11613,
+      "sha256": "a75eae99aabb41564bcccdf4f4e858ab82f27f0374c26aa431dd9e649806d792",
+      "encoding": "utf-8",
+      "opening_heading": "#28페레스의 특별법(1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 29,
+      "archive_member": "029.txt",
+      "path": "source/korean/chapters/029.txt",
+      "bytes": 10329,
+      "sha256": "041e857914c7a30a1c4d26979a37da05a56c71a0d59768f196146cf9952b6a61",
+      "encoding": "utf-8",
+      "opening_heading": "#29페레스의 특별법(2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 30,
+      "archive_member": "030.txt",
+      "path": "source/korean/chapters/030.txt",
+      "bytes": 11447,
+      "sha256": "32fac3c69f7b2edebafd40832c98ca2e426a7807b4a8dd44c7f7eb3539fb9812",
+      "encoding": "utf-8",
+      "opening_heading": "#30페레스의 특별법(3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 31,
+      "archive_member": "031.txt",
+      "path": "source/korean/chapters/031.txt",
+      "bytes": 11286,
+      "sha256": "094f6fc26c1e0281b5e6aa94a2959d3610115177b8d26b136d7b244a5e7c8c27",
+      "encoding": "utf-8",
+      "opening_heading": "#31페레스의 특별법(4)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 32,
+      "archive_member": "032.txt",
+      "path": "source/korean/chapters/032.txt",
+      "bytes": 15726,
+      "sha256": "b0549aa1300faff23832bff0dc402adb0b9b2d16527225550e14edac5109f57c",
+      "encoding": "utf-8",
+      "opening_heading": "#32소셜 클럽(1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 33,
+      "archive_member": "033.txt",
+      "path": "source/korean/chapters/033.txt",
+      "bytes": 11296,
+      "sha256": "dce05dc1329c7fd22fc78f570a857a02de030871da87ac3a4980851647f99b0a",
+      "encoding": "utf-8",
+      "opening_heading": "#33소셜 클럽 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 34,
+      "archive_member": "034.txt",
+      "path": "source/korean/chapters/034.txt",
+      "bytes": 16054,
+      "sha256": "2fe68006da8e2beebc0194cf27e11e1c2a52ead4b851775e9cf22887b2152e0e",
+      "encoding": "utf-8",
+      "opening_heading": "#34소셜 클럽(3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 35,
+      "archive_member": "035.txt",
+      "path": "source/korean/chapters/035.txt",
+      "bytes": 12909,
+      "sha256": "1517e969c79d205d488f819c8bdf029f9af1280a35559ab7941bcfe84aa15a68",
+      "encoding": "utf-8",
+      "opening_heading": "#35경매장의 꽃 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 36,
+      "archive_member": "036.txt",
+      "path": "source/korean/chapters/036.txt",
+      "bytes": 12885,
+      "sha256": "b88f3fc84340954e48cdf9d8fbd2549e5bc316c35def9402df859267d5d55323",
+      "encoding": "utf-8",
+      "opening_heading": "#36노예 경매 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 37,
+      "archive_member": "037.txt",
+      "path": "source/korean/chapters/037.txt",
+      "bytes": 13440,
+      "sha256": "eb3f2190bc348429a8386026ff0b7bfa3548b18f0fb45d11e21ec75b6e51df6b",
+      "encoding": "utf-8",
+      "opening_heading": "#37노예 경매 (3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 38,
+      "archive_member": "038.txt",
+      "path": "source/korean/chapters/038.txt",
+      "bytes": 11938,
+      "sha256": "932c1705065619e17280421755e946428c3260aca21018210564f03d43b3c24a",
+      "encoding": "utf-8",
+      "opening_heading": "#38후원자(1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 39,
+      "archive_member": "039.txt",
+      "path": "source/korean/chapters/039.txt",
+      "bytes": 17080,
+      "sha256": "b0b8bc84973d63f56e79d9708ba72bbde91bcfc2dd1d15368b76c5596f74383a",
+      "encoding": "utf-8",
+      "opening_heading": "#39후원사(2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 40,
+      "archive_member": "040.txt",
+      "path": "source/korean/chapters/040.txt",
+      "bytes": 14180,
+      "sha256": "7e1519a55867e6c513b44c593e070154d5e354b7dc0a43cb4be97425915e7064",
+      "encoding": "utf-8",
+      "opening_heading": "#40",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 41,
+      "archive_member": "041.txt",
+      "path": "source/korean/chapters/041.txt",
+      "bytes": 9964,
+      "sha256": "3d7f2a1fe3b89298f664df9b8a9d3eda2fe144b9e4e93f2426eca0c2a42fb5c3",
+      "encoding": "utf-8",
+      "opening_heading": "#41미르거 가족의 통일전선(2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 42,
+      "archive_member": "042.txt",
+      "path": "source/korean/chapters/042.txt",
+      "bytes": 11641,
+      "sha256": "778a4a1642ce747c5090c4708dad5a299a737219d842dd41d1c8711b33abcb4d",
+      "encoding": "utf-8",
+      "opening_heading": "#42밀거 가족의 연합 전선(3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 43,
+      "archive_member": "043.txt",
+      "path": "source/korean/chapters/043.txt",
+      "bytes": 12639,
+      "sha256": "aff145ef7504f10fed0d6e3f5ed6e7e8f328ae503ecaf5f0577dbe348efc121c",
+      "encoding": "utf-8",
+      "opening_heading": "#43약혼한 여성 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 44,
+      "archive_member": "044.txt",
+      "path": "source/korean/chapters/044.txt",
+      "bytes": 14338,
+      "sha256": "ffc112b09ce8e8e0010c288f881f74ab0f29093b28422dc60c3c4115aa6410a9",
+      "encoding": "utf-8",
+      "opening_heading": "#44약혼한 여성 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 45,
+      "archive_member": "045.txt",
+      "path": "source/korean/chapters/045.txt",
+      "bytes": 16774,
+      "sha256": "5ac60d299db0263c1ced253f873473c47a4768e4650598542f37b11b5b1e45ac",
+      "encoding": "utf-8",
+      "opening_heading": "#45약혼한 여성 (3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 46,
+      "archive_member": "046.txt",
+      "path": "source/korean/chapters/046.txt",
+      "bytes": 10572,
+      "sha256": "f8fc5bc8fb596d187bab16582ff4796ca2a9dbe809c6bb45772d38065da445f2",
+      "encoding": "utf-8",
+      "opening_heading": "#46남편 찾기 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 47,
+      "archive_member": "047.txt",
+      "path": "source/korean/chapters/047.txt",
+      "bytes": 12672,
+      "sha256": "e804b6796158ce55ce90de8cd77f1a166a047a1e2f9a2fe0dcd6121358ca4430",
+      "encoding": "utf-8",
+      "opening_heading": "#47결혼 상대 찾기 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 48,
+      "archive_member": "048.txt",
+      "path": "source/korean/chapters/048.txt",
+      "bytes": 13226,
+      "sha256": "a2b6222f33b64797872e7c0d6e090e0536990c0dcd88129ec2882ded3f32de78",
+      "encoding": "utf-8",
+      "opening_heading": "#48남편 찾기 (3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 49,
+      "archive_member": "049.txt",
+      "path": "source/korean/chapters/049.txt",
+      "bytes": 8355,
+      "sha256": "c218a71e031d9ee770f10f69f47de5bc30e176b1e1a2340f383ace32936b3dbc",
+      "encoding": "utf-8",
+      "opening_heading": "#49남편 찾기 (4)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 50,
+      "archive_member": "050.txt",
+      "path": "source/korean/chapters/050.txt",
+      "bytes": 13490,
+      "sha256": "77c689e86292442bb397f9149dfce701340e00cde85612745e0f6e6980f73f80",
+      "encoding": "utf-8",
+      "opening_heading": "#50남편 찾기 (5)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 51,
+      "archive_member": "051.txt",
+      "path": "source/korean/chapters/051.txt",
+      "bytes": 11667,
+      "sha256": "369eefda3c942299f8eae40ce6ef5c0cc1548d6d16a5c3fa8dc47c05256d4672",
+      "encoding": "utf-8",
+      "opening_heading": "#51남편 찾기 (6)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 52,
+      "archive_member": "052.txt",
+      "path": "source/korean/chapters/052.txt",
+      "bytes": 12783,
+      "sha256": "35f48247a6e90922d0c7874367fc1be377271fbbae222d4e1c77902362322e52",
+      "encoding": "utf-8",
+      "opening_heading": "#52야만 부족의 노예들 (1)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 53,
+      "archive_member": "053.txt",
+      "path": "source/korean/chapters/053.txt",
+      "bytes": 12492,
+      "sha256": "47bc30f875306863cae657f93b54e4895d729d5cd5bbeeb3fa05e8eedf677d90",
+      "encoding": "utf-8",
+      "opening_heading": "#53야만 부족의 노예들 (2)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    },
+    {
+      "chapter": 54,
+      "archive_member": "054.txt",
+      "path": "source/korean/chapters/054.txt",
+      "bytes": 23617,
+      "sha256": "ec9e71f9b5b87398c785e29ded68f0eb5e115f69164556ac19e6dd669ff388bf",
+      "encoding": "utf-8",
+      "opening_heading": "#54야만 부족의 노예 (3)",
+      "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
+    }
+  ]
+}

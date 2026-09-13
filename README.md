@@ -6,9 +6,12 @@ Recovered source and reference material for the English EPUB project after loss 
 
 Chapter 1 has an initial English editing pass with nine open review items. It is not QA accepted. The lost production chapters and original QA reports remain unrecovered.
 
+**Sources are now configured:** Korean raws plus MTL for Chapters **1–54**; MTL with supporting-reference QA for **55–493**. [Source policy and wiki links](editorial/SOURCES.md) · [Agent instructions](AGENTS.md). Agents may seek additional web support when needed.
+
 ## Repository contents
 
 - `source/chapters/` — all 493 chapter XHTML files from the September source corpus, unchanged.
+- `source/korean/chapters/` — all 54 user-supplied Korean text files, unchanged; original ZIP in `archives/korean-raws-001-054.zip`, checksum/coverage manifest in `recovery/korean-raws-manifest.json`.
 - `source/chapter-sha256.tsv` and `source/chapter-index.tsv` — original checksums and index.
 - `archives/source-corpus.tar.xz` — the original downloaded source archive.
 - `artifacts/SwordHound-Local-2026-07-29.epub` — complete local reference EPUB, unchanged.

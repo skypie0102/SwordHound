@@ -1,6 +1,8 @@
 # Reconstruction workflow
 
-The recovered 493-chapter corpus is the working source. The older audit concerns 500 chapters, and historical reports describe lost edited production through 374. These are three different kinds of evidence. Preserve their identities throughout editing.
+The recovered 493-chapter English MTL corpus is the working narrative base. User-supplied Korean raws are available for Chapters 1–54; from Chapter 55 onward the user has no Korean raws and authorizes MTL-based reconstruction. Use the Fandom and Namu Wiki references for QA, with additional web research as needed. Follow [SOURCES.md](SOURCES.md) for exact paths, links, evidence rules, and review modes.
+
+The older audit concerns 500 chapters, and historical reports describe lost edited production through 374. Preserve the identities of each source and do not equate historical reports with recovered finished chapters.
 
 ## Current files and ownership
 
@@ -15,10 +17,10 @@ The recovered 493-chapter corpus is the working source. The older audit concerns
 
 1. Confirm source hash and identify corresponding reference editions. Check chapter title and actual text rather than trusting old chapter numbers.
 2. Read the entire chapter. Make explicit English edits and record the reason for each. Keep unresolved meaning, chronology, names, ranks, and speaker attribution in the QA record.
-3. Compare source-dependent changes against an attributable original-language witness. Record the passage, edition, decision, and reviewer basis. A file labeled Korean/raw is not automatically authoritative.
+3. For Chapters 1–54, compare the supplied Korean and MTL passages. For Chapters 55–493, review the MTL against context, continuity, and supporting references; Korean availability is not a prerequisite. Consult the two designated wikis for applicable names, terms, and locations, and seek other web support when needed. Record specific evidence, access dates, decisions, and conflicts. Label the review basis as `korean_plus_mtl` or `mtl_with_supporting_references`.
 4. Check continuity against the chapter's current knowledge and reveal timeline. Recovered later summaries are leads, not permission to introduce later knowledge early.
 5. Render the draft and paragraph provenance, regenerate the tracker, and run the checks below. Review the resulting draft as prose, including every unchanged paragraph.
-6. Accept only after all required reviews and open issues are resolved, with evidence linked to the final draft hash. Current Chapter 1 has not reached this step. Extend the draft-only tooling and acceptance validation before using it for an accepted release.
+6. Accept only after all reviews required by the chapter's source mode and its actual open issues are resolved, with evidence linked to the final draft hash. MTL-only chapters can receive editorial acceptance under that explicitly recorded limitation; do not call them bilingually verified. Current Chapter 1 has not reached acceptance. Extend the draft-only tooling and acceptance validation before using it for an accepted release.
 7. Record the scope, unresolved issues, validation, and next checkpoint in `PROGRESS.md`, then commit and push without rewriting existing history.
 
 ## Checks for the current batch

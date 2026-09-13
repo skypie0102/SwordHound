@@ -1,5 +1,7 @@
 # Chapter 1 library witness — 2026-09-13
 
+**Later source update:** the user supplied `001-054.zip`; the complete Chapter 1 text is now preserved at [source/korean/chapters/001.txt](../source/korean/chapters/001.txt). The initial inspection found the same name/rank inconsistencies described below. This historical preview note is no longer the only available Korean evidence. Follow [the current source policy](../editorial/SOURCES.md).
+
 The ChatGPT Library document displayed as `001` / inventoried as `001.txt` was inspected in the [project library](https://chatgpt.com/library/d/6a68b83560508191805b6eac81bf2079). This note records selected displayed excerpts and editorial observations. It is not a byte-for-byte recovery of the file, a complete transcript, or proof of an authoritative Korean edition. Its Markdown download did not complete.
 
 The preview identifies itself as 1/500, whereas the recovered English corpus has 493 files. It contains inconsistent romanizations, titles, and awkward or apparently corrupted Korean wording. Similar plot events establish a comparison lead, but not authority to override the English automatically.
