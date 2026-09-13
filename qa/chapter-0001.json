@@ -6,13 +6,13 @@
   "korean_source": "source/korean/chapters/001.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
   "source_update": "Full supplied Korean text compared; Fandom search-retrieved page content supports limited terminology decisions. Namu retrieval failed. Import and comparison do not establish publisher provenance.",
-  "pass": "Supplied Korean comparison across 106 MTL paragraphs, terminology checks, and second English editing pass",
-  "accepted": false,
-  "acceptance_evidence": null,
+  "pass": "Final Korean/MTL adjudication, complete English reading, continuity review, and desktop/mobile chapter-layout review",
+  "accepted": true,
+  "acceptance_evidence": "qa/acceptance/chapter-0001.json",
   "issues": [
     {
       "id": "CH001-01",
-      "status": "open",
+      "status": "resolved",
       "paragraphs": [
         4,
         7,
@@ -21,7 +21,12 @@
         17
       ],
       "question": "Execution display, shadow wording and accusation repaired. Remaining disagreement: MTL says the family forsook him and he gritted his teeth; K022 says fate abandoned him and K024 says he thought deeply. Retain the MTL for these two details pending adjudication.",
-      "required_evidence": "A better independent passage witness or a reasoned editorial resolution of the two retained differences; an MTL mirror does not supply independent confirmation."
+      "required_evidence": "A better independent passage witness or a reasoned editorial resolution of the two retained differences; an MTL mirror does not supply independent confirmation.",
+      "resolution": "Follow supplied Korean K022/K024 for fate and reflection; preserve the prior English alternatives in the final adjudication record.",
+      "evidence": [
+        "editorial/reviews/chapter-0001-final.md",
+        "editorial/korean-alignment/chapter-0001.json"
+      ]
     },
     {
       "id": "CH001-02",
@@ -96,7 +101,7 @@
     },
     {
       "id": "CH001-06",
-      "status": "open",
+      "status": "resolved",
       "paragraphs": [
         55,
         63,
@@ -105,7 +110,12 @@
         74
       ],
       "question": "Blade layout, contempt and crowd reaction repaired. Hugo’s speech in K076 differs substantially from MTL66; K078’s power/technique wording also differs from MTL68 mana/aura wording. The draft retains those MTL passages pending adjudication.",
-      "required_evidence": "Resolve the speech and mana/aura wording without treating a general wiki catchphrase or glossary summary as proof of exact novel dialogue."
+      "required_evidence": "Resolve the speech and mana/aura wording without treating a general wiki catchphrase or glossary summary as proof of exact novel dialogue.",
+      "resolution": "Follow both supplied Korean K076 questions for the speech; retain MTL mana/aura terminology corroborated by two specifically relevant Fandom sections. These are documented editorial choices, not proof that witnesses agree.",
+      "evidence": [
+        "editorial/reviews/chapter-0001-final.md",
+        "editorial/korean-alignment/chapter-0001.json"
+      ]
     },
     {
       "id": "CH001-07",
@@ -140,15 +150,31 @@
     },
     {
       "id": "CH001-09",
-      "status": "open",
+      "status": "resolved",
       "paragraphs": [
         1,
         106
       ],
       "question": "Korean/MTL comparison and second English pass completed for all 106 paragraphs, with all 116 Korean lines accounted for. Resolve remaining source conflicts, then complete the final whole-chapter reading and publication-format review before acceptance.",
-      "required_evidence": "Recorded whole-chapter review, resolved findings, and acceptance evidence linked to final draft checksum."
+      "required_evidence": "Recorded whole-chapter review, resolved findings, and acceptance evidence linked to final draft checksum.",
+      "resolution": "Read all 106 final paragraphs; checked 116-line source accounting and continuity endpoint; inspected desktop/mobile layout and four screenshots. Editorial acceptance is limited to this reconstructed chapter; full EPUB release QA remains separate.",
+      "evidence": [
+        "editorial/reviews/chapter-0001-final.md",
+        "qa/layout/chapter-0001.json"
+      ]
     }
   ],
   "review_evidence": "editorial/reviews/chapter-0001.md",
-  "korean_alignment": "editorial/korean-alignment/chapter-0001.json"
+  "korean_alignment": "editorial/korean-alignment/chapter-0001.json",
+  "release_status": "epub_not_built",
+  "final_review_evidence": [
+    "editorial/reviews/chapter-0001-final.md",
+    "editorial/continuity/chapter-0001.md",
+    "preview/chapter-0001.html",
+    "qa/layout/chapter-0001.json",
+    "qa/layout/chapter-0001-desktop-opening.png",
+    "qa/layout/chapter-0001-desktop-scene.png",
+    "qa/layout/chapter-0001-desktop-thought.png",
+    "qa/layout/chapter-0001-mobile-ending.png"
+  ]
 }

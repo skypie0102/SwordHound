@@ -1,6 +1,6 @@
 # Chapter 1 source comparison and second English pass
 
-Review date: 2026-09-13. Basis: `korean_plus_mtl`. **QA remains unaccepted: six issues resolved, three open.** This is a reconstruction decision record, not recovered historical QA or certification of the supplied Korean edition.
+Review date: 2026-09-13. Basis: `korean_plus_mtl`. **Historical second-pass checkpoint: six issues resolved, three open at that time.** The subsequent [final adjudication](chapter-0001-final.md) records editorial closure. The decisions below preserve the earlier comparison state, not the latest acceptance status. This is not recovered historical QA or certification of the supplied Korean edition.
 
 ## Sources actually consulted
 

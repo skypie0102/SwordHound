@@ -2,6 +2,20 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-13 — Chapter 1 editorial acceptance
+
+**Result: 1 reconstructed chapter editorially accepted; Chapter 2 is next.** All nine Chapter 1 QA items are resolved. Whole-EPUB packaging and release QA remain pending.
+
+- Completed the remaining source adjudications: follow the supplied Korean for fate/reflection and Hugo's two questions; retain MTL mana/aura terminology with specific Fandom trial/blessing support. Conflicting readings and evidence limits remain documented in [the final review](editorial/reviews/chapter-0001-final.md).
+- Read the complete final chapter: 106 paragraphs, 91 edited, with all 116 Korean lines accounted for. Updated the chapter continuity handoff without adding later wiki events.
+- Built a [standalone chapter preview](preview/chapter-0001.html). Desktop and mobile browser checks confirmed paragraph/scene coverage, dialogue indentation, unindented narration, thought styling, 1.65 line height, and no horizontal overflow. Visually inspected four saved screenshots covering opening, scene break, thought passage, and mobile ending.
+- Added [acceptance evidence](qa/acceptance/chapter-0001.json) tied to final text, source hashes, edit set, decisions, alignment, continuity, review notes and layout artifacts. Changed reviewed material now fails normal generation or tracker integration until reviewed again.
+- Validation passed: all preserved source/archive/EPUB/audit integrity checks, draft and preview reproducibility, tracker consistency, and 14 tests including stale-text/evidence rejection and Windows line-ending portability.
+
+Editorial acceptance is by the project's Codex editing/QA agent under the stated source policy. It is not recovery of old QA, a claim of independent human review, or a complete EPUB release.
+
+**Next:** reconstruct Chapter 2 from the supplied Korean and preserved MTL, starting from the drinking-water report at Chapter 1's endpoint. Reuse the verified alignment, review, preview and acceptance workflow; the remaining 492 chapters have not yet been reconstructed.
+
 ## 2026-09-13 — Chapter 1 Korean comparison and second editing pass
 
 **Result:** six of nine QA items resolved; three remain open. Chapter 1 is not yet accepted for release.

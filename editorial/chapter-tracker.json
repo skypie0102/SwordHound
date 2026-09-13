@@ -12,14 +12,10 @@
       "original_edited_file": "not_recovered",
       "original_qa_file": "not_recovered",
       "historical_reported_state": "merged_through_372",
-      "reconstruction_status": "draft_open_issues",
+      "reconstruction_status": "qa_accepted",
       "draft": "manuscript/drafts/chapter-0001.md",
       "qa_report": "qa/chapter-0001.md",
-      "open_issues": [
-        "CH001-01",
-        "CH001-06",
-        "CH001-09"
-      ],
+      "open_issues": [],
       "audit_findings_with_exact_unique_match": [
         "ED-00001",
         "ED-00002",
@@ -62,7 +58,9 @@
         "sha256": "2d82b95faaa6968b72dc6acdf18160984a28699cac7e1be232c2529eb0e1c64f",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": true,
+      "acceptance_evidence": "qa/acceptance/chapter-0001.json"
     },
     {
       "chapter": 2,
@@ -92,7 +90,9 @@
         "sha256": "4a24ecbace17f09b6e9e83adabf6257914aa6abcda80f718eb9a646badc9f136",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 3,
@@ -121,7 +121,9 @@
         "sha256": "6226812ad8bb5b3eb8c66dd34a3a56691b66744d95a10728c1c8fb85b1caab1a",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 4,
@@ -154,7 +156,9 @@
         "sha256": "5f4fd2b8c5d78d3b6b141557ec61dac0ec7f706add446ce0fa9538d46ed7c221",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 5,
@@ -186,7 +190,9 @@
         "sha256": "65c416b6d8a09534b0a2bf4eed602cc91d3b47ed80a0e1e8f536034be1bd6ee9",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 6,
@@ -212,7 +218,9 @@
         "sha256": "98f2e69064d358227ce68d32c0f576c20b1d007ad5c56d0b0afa244e4a0cd567",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 7,
@@ -239,7 +247,9 @@
         "sha256": "e2162bd21803c27643465970557aac3ffe7bcede3460982362cc841e3295a7f4",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 8,
@@ -264,7 +274,9 @@
         "sha256": "04c2b50afb454f6d6068492e080b813870afd8a042abd2d538259b0e6edb839f",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 9,
@@ -291,7 +303,9 @@
         "sha256": "c138ca1813382e341b1b9a0a330a7761e9a9f16ebb8e3516023a73fe4ae9c1e0",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 10,
@@ -319,7 +333,9 @@
         "sha256": "72d8f7f1c9ca55c2c4904d9df5ecb0cae5262ce625e02b529e6f25cb1ecc5586",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 11,
@@ -348,7 +364,9 @@
         "sha256": "24988d46d5a1a48115fcb42eab2ea7e99e2702f4e253aa26b3b12391994ed7a1",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 12,
@@ -389,7 +407,9 @@
         "sha256": "38d0e42019a9aba00b809e4fc8685ff49f99b40357407961360b05a43a401305",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 13,
@@ -416,7 +436,9 @@
         "sha256": "f44e049710f465061adfd8416be5e490ff3e0be2e584ffc2ffd3e1745acb83c5",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 14,
@@ -445,7 +467,9 @@
         "sha256": "3076ff8dd328c7fb64bccdb5231586a667a6c7a3047eaa23f1bbc7039d01b07d",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 15,
@@ -472,7 +496,9 @@
         "sha256": "ea3e459ff222cc88b67a1101d081b5fdffca5199cd73a2c5ce04a29ea2aa07ac",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 16,
@@ -497,7 +523,9 @@
         "sha256": "d69f3b90e75f90d988586453eb49e59720eb894467f80b2bc33b51003c10b195",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 17,
@@ -520,7 +548,9 @@
         "sha256": "a2f08408ef117d007d55c5bdd7975d701f2141eaa640bcb63a9eeeda43a59e4e",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 18,
@@ -553,7 +583,9 @@
         "sha256": "941530fabe7faf3f3df8f41cde94953e994ce2a77681724ef59e4433b6c4280f",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 19,
@@ -576,7 +608,9 @@
         "sha256": "0b935d5a522cb9eb46e29e197e435f7802335ec0fd9725074c843730064e5f2a",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 20,
@@ -604,7 +638,9 @@
         "sha256": "4b02b8957c5375be905d2a3b121c67251513e0ef04f5c46deba25fadcf4dbd05",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 21,
@@ -629,7 +665,9 @@
         "sha256": "53f00b1de5e5d3abbfb677ec4d9b18689d133d29a9853953d437092554758584",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 22,
@@ -656,7 +694,9 @@
         "sha256": "913a49cebeb0c3319116a3dbf2f16e6f61ebe1250e0ff3f23cc8d71e2f71d9d6",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 23,
@@ -683,7 +723,9 @@
         "sha256": "2cc29de0d3fdc5c0ac29a44d0f1bb995f0892bbfa3ce0ab911cd3e857812c743",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 24,
@@ -710,7 +752,9 @@
         "sha256": "bf78d739049bd9df40b4a41ef376e75d1ca9ccc05bf2cba3555bfd569d4f2c7b",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 25,
@@ -738,7 +782,9 @@
         "sha256": "2b2cae03c961948ee5a87d96d78bf05b378e13a978f6b2d6cb154f5b0b043376",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 26,
@@ -761,7 +807,9 @@
         "sha256": "af2ae23051226baa8c6bbb96dba58cd92e3dbc25fee90b3c53a8b0f1dedfad02",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 27,
@@ -788,7 +836,9 @@
         "sha256": "2d585b8fdf90e6c4db5b0dd252ddfb3a42e39178385855c2cb70964ba0f5b4df",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 28,
@@ -814,7 +864,9 @@
         "sha256": "a75eae99aabb41564bcccdf4f4e858ab82f27f0374c26aa431dd9e649806d792",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 29,
@@ -839,7 +891,9 @@
         "sha256": "041e857914c7a30a1c4d26979a37da05a56c71a0d59768f196146cf9952b6a61",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 30,
@@ -867,7 +921,9 @@
         "sha256": "32fac3c69f7b2edebafd40832c98ca2e426a7807b4a8dd44c7f7eb3539fb9812",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 31,
@@ -890,7 +946,9 @@
         "sha256": "094f6fc26c1e0281b5e6aa94a2959d3610115177b8d26b136d7b244a5e7c8c27",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 32,
@@ -929,7 +987,9 @@
         "sha256": "b0549aa1300faff23832bff0dc402adb0b9b2d16527225550e14edac5109f57c",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 33,
@@ -959,7 +1019,9 @@
         "sha256": "dce05dc1329c7fd22fc78f570a857a02de030871da87ac3a4980851647f99b0a",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 34,
@@ -982,7 +1044,9 @@
         "sha256": "2fe68006da8e2beebc0194cf27e11e1c2a52ead4b851775e9cf22887b2152e0e",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 35,
@@ -1005,7 +1069,9 @@
         "sha256": "1517e969c79d205d488f819c8bdf029f9af1280a35559ab7941bcfe84aa15a68",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 36,
@@ -1036,7 +1102,9 @@
         "sha256": "b88f3fc84340954e48cdf9d8fbd2549e5bc316c35def9402df859267d5d55323",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 37,
@@ -1063,7 +1131,9 @@
         "sha256": "eb3f2190bc348429a8386026ff0b7bfa3548b18f0fb45d11e21ec75b6e51df6b",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 38,
@@ -1086,7 +1156,9 @@
         "sha256": "932c1705065619e17280421755e946428c3260aca21018210564f03d43b3c24a",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 39,
@@ -1115,7 +1187,9 @@
         "sha256": "b0b8bc84973d63f56e79d9708ba72bbde91bcfc2dd1d15368b76c5596f74383a",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 40,
@@ -1138,7 +1212,9 @@
         "sha256": "7e1519a55867e6c513b44c593e070154d5e354b7dc0a43cb4be97425915e7064",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 41,
@@ -1163,7 +1239,9 @@
         "sha256": "3d7f2a1fe3b89298f664df9b8a9d3eda2fe144b9e4e93f2426eca0c2a42fb5c3",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 42,
@@ -1190,7 +1268,9 @@
         "sha256": "778a4a1642ce747c5090c4708dad5a299a737219d842dd41d1c8711b33abcb4d",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 43,
@@ -1217,7 +1297,9 @@
         "sha256": "aff145ef7504f10fed0d6e3f5ed6e7e8f328ae503ecaf5f0577dbe348efc121c",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 44,
@@ -1243,7 +1325,9 @@
         "sha256": "ffc112b09ce8e8e0010c288f881f74ab0f29093b28422dc60c3c4115aa6410a9",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 45,
@@ -1270,7 +1354,9 @@
         "sha256": "5ac60d299db0263c1ced253f873473c47a4768e4650598542f37b11b5b1e45ac",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 46,
@@ -1293,7 +1379,9 @@
         "sha256": "f8fc5bc8fb596d187bab16582ff4796ca2a9dbe809c6bb45772d38065da445f2",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 47,
@@ -1320,7 +1408,9 @@
         "sha256": "e804b6796158ce55ce90de8cd77f1a166a047a1e2f9a2fe0dcd6121358ca4430",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 48,
@@ -1347,7 +1437,9 @@
         "sha256": "a2b6222f33b64797872e7c0d6e090e0536990c0dcd88129ec2882ded3f32de78",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 49,
@@ -1374,7 +1466,9 @@
         "sha256": "c218a71e031d9ee770f10f69f47de5bc30e176b1e1a2340f383ace32936b3dbc",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 50,
@@ -1403,7 +1497,9 @@
         "sha256": "77c689e86292442bb397f9149dfce701340e00cde85612745e0f6e6980f73f80",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 51,
@@ -1431,7 +1527,9 @@
         "sha256": "369eefda3c942299f8eae40ce6ef5c0cc1548d6d16a5c3fa8dc47c05256d4672",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 52,
@@ -1454,7 +1552,9 @@
         "sha256": "35f48247a6e90922d0c7874367fc1be377271fbbae222d4e1c77902362322e52",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 53,
@@ -1477,7 +1577,9 @@
         "sha256": "47bc30f875306863cae657f93b54e4895d729d5cd5bbeeb3fa05e8eedf677d90",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 54,
@@ -1500,7 +1602,9 @@
         "sha256": "ec9e71f9b5b87398c785e29ded68f0eb5e115f69164556ac19e6dd669ff388bf",
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 55,
@@ -1519,7 +1623,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 56,
@@ -1540,7 +1646,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 57,
@@ -1559,7 +1667,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 58,
@@ -1578,7 +1688,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 59,
@@ -1597,7 +1709,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 60,
@@ -1619,7 +1733,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 61,
@@ -1645,7 +1761,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 62,
@@ -1664,7 +1782,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 63,
@@ -1687,7 +1807,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 64,
@@ -1711,7 +1833,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 65,
@@ -1735,7 +1859,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 66,
@@ -1759,7 +1885,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 67,
@@ -1778,7 +1906,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 68,
@@ -1797,7 +1927,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 69,
@@ -1816,7 +1948,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 70,
@@ -1835,7 +1969,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 71,
@@ -1854,7 +1990,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 72,
@@ -1873,7 +2011,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 73,
@@ -1892,7 +2032,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 74,
@@ -1911,7 +2053,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 75,
@@ -1930,7 +2074,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 76,
@@ -1949,7 +2095,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 77,
@@ -1968,7 +2116,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 78,
@@ -1987,7 +2137,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 79,
@@ -2006,7 +2158,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 80,
@@ -2025,7 +2179,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 81,
@@ -2044,7 +2200,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 82,
@@ -2063,7 +2221,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 83,
@@ -2082,7 +2242,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 84,
@@ -2101,7 +2263,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 85,
@@ -2120,7 +2284,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 86,
@@ -2139,7 +2305,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 87,
@@ -2158,7 +2326,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 88,
@@ -2177,7 +2347,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 89,
@@ -2196,7 +2368,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 90,
@@ -2215,7 +2389,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 91,
@@ -2234,7 +2410,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 92,
@@ -2253,7 +2431,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 93,
@@ -2272,7 +2452,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 94,
@@ -2291,7 +2473,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 95,
@@ -2310,7 +2494,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 96,
@@ -2334,7 +2520,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 97,
@@ -2353,7 +2541,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 98,
@@ -2372,7 +2562,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 99,
@@ -2393,7 +2585,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 100,
@@ -2412,7 +2606,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 101,
@@ -2431,7 +2627,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 102,
@@ -2450,7 +2648,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 103,
@@ -2469,7 +2669,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 104,
@@ -2488,7 +2690,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 105,
@@ -2507,7 +2711,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 106,
@@ -2526,7 +2732,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 107,
@@ -2545,7 +2753,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 108,
@@ -2564,7 +2774,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 109,
@@ -2583,7 +2795,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 110,
@@ -2607,7 +2821,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 111,
@@ -2626,7 +2842,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 112,
@@ -2645,7 +2863,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 113,
@@ -2664,7 +2884,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 114,
@@ -2683,7 +2905,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 115,
@@ -2702,7 +2926,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 116,
@@ -2721,7 +2947,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 117,
@@ -2740,7 +2968,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 118,
@@ -2759,7 +2989,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 119,
@@ -2778,7 +3010,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 120,
@@ -2797,7 +3031,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 121,
@@ -2816,7 +3052,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 122,
@@ -2837,7 +3075,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 123,
@@ -2858,7 +3098,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 124,
@@ -2877,7 +3119,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 125,
@@ -2896,7 +3140,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 126,
@@ -2915,7 +3161,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 127,
@@ -2934,7 +3182,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 128,
@@ -2953,7 +3203,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 129,
@@ -2972,7 +3224,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 130,
@@ -2991,7 +3245,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 131,
@@ -3010,7 +3266,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 132,
@@ -3029,7 +3287,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 133,
@@ -3048,7 +3308,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 134,
@@ -3067,7 +3329,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 135,
@@ -3086,7 +3350,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 136,
@@ -3105,7 +3371,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 137,
@@ -3124,7 +3392,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 138,
@@ -3143,7 +3413,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 139,
@@ -3162,7 +3434,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 140,
@@ -3181,7 +3455,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 141,
@@ -3200,7 +3476,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 142,
@@ -3219,7 +3497,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 143,
@@ -3238,7 +3518,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 144,
@@ -3257,7 +3539,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 145,
@@ -3276,7 +3560,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 146,
@@ -3295,7 +3581,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 147,
@@ -3314,7 +3602,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 148,
@@ -3333,7 +3623,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 149,
@@ -3352,7 +3644,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 150,
@@ -3371,7 +3665,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 151,
@@ -3392,7 +3688,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 152,
@@ -3411,7 +3709,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 153,
@@ -3430,7 +3730,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 154,
@@ -3449,7 +3751,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 155,
@@ -3468,7 +3772,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 156,
@@ -3487,7 +3793,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 157,
@@ -3506,7 +3814,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 158,
@@ -3525,7 +3835,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 159,
@@ -3544,7 +3856,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 160,
@@ -3563,7 +3877,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 161,
@@ -3582,7 +3898,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 162,
@@ -3601,7 +3919,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 163,
@@ -3620,7 +3940,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 164,
@@ -3639,7 +3961,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 165,
@@ -3660,7 +3984,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 166,
@@ -3679,7 +4005,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 167,
@@ -3698,7 +4026,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 168,
@@ -3717,7 +4047,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 169,
@@ -3736,7 +4068,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 170,
@@ -3755,7 +4089,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 171,
@@ -3774,7 +4110,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 172,
@@ -3793,7 +4131,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 173,
@@ -3812,7 +4152,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 174,
@@ -3831,7 +4173,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 175,
@@ -3850,7 +4194,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 176,
@@ -3869,7 +4215,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 177,
@@ -3888,7 +4236,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 178,
@@ -3907,7 +4257,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 179,
@@ -3926,7 +4278,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 180,
@@ -3945,7 +4299,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 181,
@@ -3964,7 +4320,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 182,
@@ -3983,7 +4341,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 183,
@@ -4002,7 +4362,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 184,
@@ -4021,7 +4383,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 185,
@@ -4040,7 +4404,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 186,
@@ -4059,7 +4425,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 187,
@@ -4078,7 +4446,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 188,
@@ -4097,7 +4467,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 189,
@@ -4116,7 +4488,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 190,
@@ -4135,7 +4509,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 191,
@@ -4154,7 +4530,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 192,
@@ -4173,7 +4551,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 193,
@@ -4192,7 +4572,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 194,
@@ -4211,7 +4593,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 195,
@@ -4230,7 +4614,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 196,
@@ -4249,7 +4635,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 197,
@@ -4268,7 +4656,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 198,
@@ -4287,7 +4677,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 199,
@@ -4306,7 +4698,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 200,
@@ -4325,7 +4719,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 201,
@@ -4344,7 +4740,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 202,
@@ -4363,7 +4761,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 203,
@@ -4384,7 +4784,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 204,
@@ -4403,7 +4805,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 205,
@@ -4422,7 +4826,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 206,
@@ -4441,7 +4847,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 207,
@@ -4460,7 +4868,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 208,
@@ -4479,7 +4889,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 209,
@@ -4498,7 +4910,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 210,
@@ -4517,7 +4931,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 211,
@@ -4536,7 +4952,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 212,
@@ -4555,7 +4973,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 213,
@@ -4574,7 +4994,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 214,
@@ -4596,7 +5018,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 215,
@@ -4615,7 +5039,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 216,
@@ -4634,7 +5060,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 217,
@@ -4653,7 +5081,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 218,
@@ -4672,7 +5102,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 219,
@@ -4691,7 +5123,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 220,
@@ -4710,7 +5144,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 221,
@@ -4729,7 +5165,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 222,
@@ -4748,7 +5186,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 223,
@@ -4767,7 +5207,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 224,
@@ -4786,7 +5228,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 225,
@@ -4805,7 +5249,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 226,
@@ -4824,7 +5270,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 227,
@@ -4843,7 +5291,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 228,
@@ -4862,7 +5312,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 229,
@@ -4881,7 +5333,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 230,
@@ -4900,7 +5354,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 231,
@@ -4919,7 +5375,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 232,
@@ -4938,7 +5396,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 233,
@@ -4957,7 +5417,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 234,
@@ -4976,7 +5438,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 235,
@@ -4995,7 +5459,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 236,
@@ -5014,7 +5480,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 237,
@@ -5033,7 +5501,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 238,
@@ -5052,7 +5522,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 239,
@@ -5071,7 +5543,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 240,
@@ -5090,7 +5564,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 241,
@@ -5109,7 +5585,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 242,
@@ -5128,7 +5606,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 243,
@@ -5147,7 +5627,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 244,
@@ -5166,7 +5648,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 245,
@@ -5185,7 +5669,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 246,
@@ -5204,7 +5690,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 247,
@@ -5223,7 +5711,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 248,
@@ -5242,7 +5732,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 249,
@@ -5261,7 +5753,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 250,
@@ -5280,7 +5774,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 251,
@@ -5299,7 +5795,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 252,
@@ -5318,7 +5816,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 253,
@@ -5337,7 +5837,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 254,
@@ -5356,7 +5858,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 255,
@@ -5375,7 +5879,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 256,
@@ -5394,7 +5900,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 257,
@@ -5413,7 +5921,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 258,
@@ -5432,7 +5942,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 259,
@@ -5451,7 +5963,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 260,
@@ -5472,7 +5986,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 261,
@@ -5491,7 +6007,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 262,
@@ -5510,7 +6028,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 263,
@@ -5529,7 +6049,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 264,
@@ -5548,7 +6070,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 265,
@@ -5567,7 +6091,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 266,
@@ -5586,7 +6112,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 267,
@@ -5605,7 +6133,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 268,
@@ -5624,7 +6154,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 269,
@@ -5643,7 +6175,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 270,
@@ -5662,7 +6196,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 271,
@@ -5681,7 +6217,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 272,
@@ -5700,7 +6238,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 273,
@@ -5719,7 +6259,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 274,
@@ -5738,7 +6280,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 275,
@@ -5757,7 +6301,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 276,
@@ -5776,7 +6322,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 277,
@@ -5795,7 +6343,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 278,
@@ -5814,7 +6364,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 279,
@@ -5833,7 +6385,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 280,
@@ -5852,7 +6406,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 281,
@@ -5871,7 +6427,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 282,
@@ -5890,7 +6448,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 283,
@@ -5909,7 +6469,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 284,
@@ -5928,7 +6490,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 285,
@@ -5949,7 +6513,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 286,
@@ -5968,7 +6534,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 287,
@@ -5987,7 +6555,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 288,
@@ -6006,7 +6576,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 289,
@@ -6025,7 +6597,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 290,
@@ -6044,7 +6618,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 291,
@@ -6063,7 +6639,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 292,
@@ -6082,7 +6660,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 293,
@@ -6101,7 +6681,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 294,
@@ -6120,7 +6702,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 295,
@@ -6139,7 +6723,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 296,
@@ -6158,7 +6744,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 297,
@@ -6177,7 +6765,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 298,
@@ -6196,7 +6786,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 299,
@@ -6215,7 +6807,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 300,
@@ -6234,7 +6828,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 301,
@@ -6253,7 +6849,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 302,
@@ -6272,7 +6870,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 303,
@@ -6291,7 +6891,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 304,
@@ -6310,7 +6912,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 305,
@@ -6329,7 +6933,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 306,
@@ -6348,7 +6954,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 307,
@@ -6367,7 +6975,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 308,
@@ -6386,7 +6996,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 309,
@@ -6405,7 +7017,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 310,
@@ -6424,7 +7038,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 311,
@@ -6443,7 +7059,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 312,
@@ -6462,7 +7080,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 313,
@@ -6481,7 +7101,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 314,
@@ -6500,7 +7122,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 315,
@@ -6519,7 +7143,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 316,
@@ -6538,7 +7164,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 317,
@@ -6557,7 +7185,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 318,
@@ -6576,7 +7206,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 319,
@@ -6595,7 +7227,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 320,
@@ -6614,7 +7248,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 321,
@@ -6633,7 +7269,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 322,
@@ -6652,7 +7290,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 323,
@@ -6671,7 +7311,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 324,
@@ -6690,7 +7332,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 325,
@@ -6709,7 +7353,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 326,
@@ -6730,7 +7376,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 327,
@@ -6749,7 +7397,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 328,
@@ -6770,7 +7420,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 329,
@@ -6789,7 +7441,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 330,
@@ -6808,7 +7462,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 331,
@@ -6827,7 +7483,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 332,
@@ -6846,7 +7504,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 333,
@@ -6865,7 +7525,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 334,
@@ -6884,7 +7546,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 335,
@@ -6903,7 +7567,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 336,
@@ -6922,7 +7588,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 337,
@@ -6941,7 +7609,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 338,
@@ -6960,7 +7630,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 339,
@@ -6979,7 +7651,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 340,
@@ -6998,7 +7672,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 341,
@@ -7017,7 +7693,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 342,
@@ -7036,7 +7714,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 343,
@@ -7055,7 +7735,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 344,
@@ -7074,7 +7756,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 345,
@@ -7093,7 +7777,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 346,
@@ -7112,7 +7798,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 347,
@@ -7131,7 +7819,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 348,
@@ -7150,7 +7840,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 349,
@@ -7169,7 +7861,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 350,
@@ -7188,7 +7882,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 351,
@@ -7207,7 +7903,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 352,
@@ -7226,7 +7924,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 353,
@@ -7245,7 +7945,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 354,
@@ -7264,7 +7966,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 355,
@@ -7283,7 +7987,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 356,
@@ -7302,7 +8008,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 357,
@@ -7321,7 +8029,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 358,
@@ -7340,7 +8050,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 359,
@@ -7359,7 +8071,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 360,
@@ -7378,7 +8092,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 361,
@@ -7397,7 +8113,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 362,
@@ -7416,7 +8134,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 363,
@@ -7435,7 +8155,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 364,
@@ -7454,7 +8176,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 365,
@@ -7473,7 +8197,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 366,
@@ -7492,7 +8218,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 367,
@@ -7511,7 +8239,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 368,
@@ -7530,7 +8260,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 369,
@@ -7549,7 +8281,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 370,
@@ -7570,7 +8304,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 371,
@@ -7589,7 +8325,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 372,
@@ -7608,7 +8346,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 373,
@@ -7627,7 +8367,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 374,
@@ -7646,7 +8388,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 375,
@@ -7665,7 +8409,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 376,
@@ -7684,7 +8430,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 377,
@@ -7703,7 +8451,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 378,
@@ -7722,7 +8472,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 379,
@@ -7741,7 +8493,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 380,
@@ -7760,7 +8514,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 381,
@@ -7779,7 +8535,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 382,
@@ -7798,7 +8556,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 383,
@@ -7817,7 +8577,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 384,
@@ -7836,7 +8598,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 385,
@@ -7855,7 +8619,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 386,
@@ -7874,7 +8640,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 387,
@@ -7893,7 +8661,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 388,
@@ -7912,7 +8682,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 389,
@@ -7931,7 +8703,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 390,
@@ -7950,7 +8724,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 391,
@@ -7969,7 +8745,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 392,
@@ -7988,7 +8766,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 393,
@@ -8007,7 +8787,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 394,
@@ -8026,7 +8808,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 395,
@@ -8045,7 +8829,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 396,
@@ -8064,7 +8850,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 397,
@@ -8083,7 +8871,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 398,
@@ -8102,7 +8892,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 399,
@@ -8121,7 +8913,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 400,
@@ -8140,7 +8934,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 401,
@@ -8159,7 +8955,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 402,
@@ -8178,7 +8976,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 403,
@@ -8197,7 +8997,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 404,
@@ -8216,7 +9018,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 405,
@@ -8235,7 +9039,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 406,
@@ -8254,7 +9060,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 407,
@@ -8273,7 +9081,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 408,
@@ -8292,7 +9102,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 409,
@@ -8311,7 +9123,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 410,
@@ -8330,7 +9144,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 411,
@@ -8349,7 +9165,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 412,
@@ -8368,7 +9186,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 413,
@@ -8387,7 +9207,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 414,
@@ -8406,7 +9228,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 415,
@@ -8425,7 +9249,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 416,
@@ -8446,7 +9272,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 417,
@@ -8465,7 +9293,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 418,
@@ -8486,7 +9316,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 419,
@@ -8507,7 +9339,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 420,
@@ -8526,7 +9360,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 421,
@@ -8547,7 +9383,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 422,
@@ -8568,7 +9406,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 423,
@@ -8587,7 +9427,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 424,
@@ -8606,7 +9448,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 425,
@@ -8625,7 +9469,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 426,
@@ -8644,7 +9490,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 427,
@@ -8663,7 +9511,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 428,
@@ -8682,7 +9532,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 429,
@@ -8701,7 +9553,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 430,
@@ -8720,7 +9574,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 431,
@@ -8739,7 +9595,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 432,
@@ -8758,7 +9616,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 433,
@@ -8777,7 +9637,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 434,
@@ -8796,7 +9658,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 435,
@@ -8815,7 +9679,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 436,
@@ -8834,7 +9700,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 437,
@@ -8853,7 +9721,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 438,
@@ -8872,7 +9742,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 439,
@@ -8891,7 +9763,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 440,
@@ -8910,7 +9784,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 441,
@@ -8929,7 +9805,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 442,
@@ -8948,7 +9826,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 443,
@@ -8967,7 +9847,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 444,
@@ -8986,7 +9868,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 445,
@@ -9005,7 +9889,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 446,
@@ -9024,7 +9910,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 447,
@@ -9043,7 +9931,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 448,
@@ -9062,7 +9952,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 449,
@@ -9081,7 +9973,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 450,
@@ -9100,7 +9994,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 451,
@@ -9119,7 +10015,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 452,
@@ -9138,7 +10036,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 453,
@@ -9157,7 +10057,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 454,
@@ -9176,7 +10078,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 455,
@@ -9195,7 +10099,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 456,
@@ -9214,7 +10120,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 457,
@@ -9233,7 +10141,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 458,
@@ -9252,7 +10162,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 459,
@@ -9271,7 +10183,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 460,
@@ -9290,7 +10204,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 461,
@@ -9309,7 +10225,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 462,
@@ -9328,7 +10246,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 463,
@@ -9347,7 +10267,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 464,
@@ -9366,7 +10288,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 465,
@@ -9385,7 +10309,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 466,
@@ -9404,7 +10330,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 467,
@@ -9423,7 +10351,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 468,
@@ -9442,7 +10372,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 469,
@@ -9461,7 +10393,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 470,
@@ -9480,7 +10414,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 471,
@@ -9499,7 +10435,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 472,
@@ -9518,7 +10456,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 473,
@@ -9537,7 +10477,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 474,
@@ -9556,7 +10498,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 475,
@@ -9575,7 +10519,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 476,
@@ -9594,7 +10540,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 477,
@@ -9613,7 +10561,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 478,
@@ -9632,7 +10582,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 479,
@@ -9651,7 +10603,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 480,
@@ -9670,7 +10624,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 481,
@@ -9691,7 +10647,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 482,
@@ -9712,7 +10670,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 483,
@@ -9733,7 +10693,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 484,
@@ -9752,7 +10714,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 485,
@@ -9771,7 +10735,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 486,
@@ -9792,7 +10758,9 @@
       ],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 487,
@@ -9811,7 +10779,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 488,
@@ -9830,7 +10800,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 489,
@@ -9849,7 +10821,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 490,
@@ -9868,7 +10842,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 491,
@@ -9887,7 +10863,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 492,
@@ -9906,7 +10884,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     },
     {
       "chapter": 493,
@@ -9925,7 +10905,9 @@
       "audit_findings_with_exact_unique_match": [],
       "review_basis": "mtl_with_supporting_references",
       "korean_source": null,
-      "source_policy": "editorial/SOURCES.md"
+      "source_policy": "editorial/SOURCES.md",
+      "editorial_accepted": false,
+      "acceptance_evidence": null
     }
   ]
 }

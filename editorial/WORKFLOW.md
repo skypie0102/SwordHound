@@ -21,7 +21,7 @@ The older audit concerns 500 chapters, and historical reports describe lost edit
 3. For Chapters 1–54, compare the supplied Korean and MTL passages. For Chapters 55–493, review the MTL against context, continuity, and supporting references; Korean availability is not a prerequisite. Consult the two designated wikis for applicable names, terms, and locations, and seek other web support when needed. Record specific evidence, access dates, decisions, and conflicts. Label the review basis as `korean_plus_mtl` or `mtl_with_supporting_references`.
 4. Check continuity against the chapter's current knowledge and reveal timeline. Recovered later summaries are leads, not permission to introduce later knowledge early.
 5. Render the draft and paragraph provenance, regenerate the tracker, and run the checks below. Review the resulting draft as prose, including every unchanged paragraph.
-6. Accept only after all reviews required by the chapter's source mode and its actual open issues are resolved, with evidence linked to the final draft hash. MTL-only chapters can receive editorial acceptance under that explicitly recorded limitation; do not call them bilingually verified. Current Chapter 1 has not reached acceptance. Extend the draft-only tooling and acceptance validation before using it for an accepted release.
+6. Accept only after all reviews required by the chapter's source mode and its actual open issues are resolved, with evidence linked to the final text hash. MTL-only chapters can receive editorial acceptance under that explicitly recorded limitation; do not call them bilingually verified. Chapter 1 now demonstrates the acceptance format in `qa/acceptance/`. The renderer and tracker reject stale acceptance records. Whole-EPUB release validation remains separate.
 7. Record the scope, unresolved issues, validation, and next checkpoint in `PROGRESS.md`, then commit and push without rewriting existing history.
 
 ## Checks for the current batch
@@ -31,11 +31,22 @@ python tools/build_editorial_draft.py 1
 python tools/rebuild_editorial_tracking.py
 python tools/verify_recovery.py
 python tools/build_editorial_draft.py 1 --check
+python tools/build_chapter_preview.py 1 --check
 python tools/rebuild_editorial_tracking.py --check
 python -m unittest discover -s tests -v
 ```
 
 The first two commands regenerate outputs. The remaining commands check preserved evidence, draft reproducibility, tracker consistency, and failure handling. They do not certify a translation. EPUB building, presentation verification, and EPUBCheck remain release work after editorial acceptance.
+
+For an edited chapter preview, run `python tools/build_chapter_preview.py 1` after generating the draft, then inspect its layout and record the actual results. Chapter 1's standalone layout has been inspected; final EPUB rendering still needs its own review.
+
+## Acceptance records
+
+Before changing accepted chapter material, set `accepted` to false in its QA record and reopen the corresponding overlay state and issues. Keep prior decisions in Git history. Complete the review again before setting `qa_accepted`.
+
+The reviewing agent records closed issues, review basis, final-review evidence paths, date and reviewer identity. The acceptance record binds `acceptance_context` from `tools/build_editorial_draft.py`: final Markdown, source hashes, edit-set and decision digests, alignment and evidence hashes. Text evidence is normalized for checkout line endings; PNG evidence is byte-exact. This is an integrity mechanism, not proof of reviewer identity.
+
+When preparing a record after actual review, the agent may use `render(chapter, validate_acceptance=False)` solely to compute the proposed final bytes before the record exists. Ordinary generation, checks, and tracker integration must use validation. Never refresh hashes automatically to hide a change from review. A valid record must pass the normal builder and tracker checks before publishing.
 
 ## Working style
 

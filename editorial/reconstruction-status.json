@@ -1,12 +1,9 @@
 {
   "1": {
-    "status": "draft_open_issues",
+    "status": "qa_accepted",
     "draft": "manuscript/drafts/chapter-0001.md",
     "qa_report": "qa/chapter-0001.md",
-    "open_issues": [
-      "CH001-01",
-      "CH001-06",
-      "CH001-09"
-    ]
+    "open_issues": [],
+    "acceptance_evidence": "qa/acceptance/chapter-0001.json"
   }
 }

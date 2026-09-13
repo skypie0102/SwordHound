@@ -7,6 +7,7 @@ import json
 import re
 import sys
 import xml.etree.ElementTree as ET
+from build_editorial_draft import render as validate_editorial_chapter
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'h': 'http://www.w3.org/1999/xhtml'}
@@ -88,11 +89,15 @@ def main():
     chapters = []
     for number, item in sorted(chapter_data.items()):
         state = overlay.get(str(number), {})
+        if state.get('status') == 'qa_accepted':
+            validate_editorial_chapter(number)
         chapters.append({'chapter':number,'title':item['title'],'source':item['source'],'source_sha256':item['sha256'],'source_integrity':'verified','source_paragraphs':len(item['paragraphs']),'original_edited_file':'not_recovered','original_qa_file':'not_recovered','historical_reported_state':'merged_through_372' if number <=372 else ('validated_unmerged_373_374' if number <=374 else 'not_reported_complete'),'reconstruction_status':state.get('status','not_started'),'draft':state.get('draft'),'qa_report':state.get('qa_report'),'open_issues':state.get('open_issues',[]),'audit_findings_with_exact_unique_match':aligned[number]})
         raw = korean.get(number)
         chapters[-1].update({'review_basis': 'korean_plus_mtl' if raw else 'mtl_with_supporting_references',
                              'korean_source': {key: raw[key] for key in ('path', 'sha256', 'alignment')} if raw else None,
                              'source_policy': 'editorial/SOURCES.md'})
+        chapters[-1]['editorial_accepted'] = state.get('status') == 'qa_accepted'
+        chapters[-1]['acceptance_evidence'] = state.get('acceptance_evidence')
     save('editorial/audit-alignment.json', {'notice':'Exact quoted text plus chapter title matching after whitespace normalization only. A match locates an old suggestion; it does not approve or apply it. Unmatched findings may involve changed text, numbering, or titles. Duplicate suggestions remain separate.', 'counts':dict(Counter(x['match_status'] for x in findings)), 'findings':findings})
     save('editorial/chapter-tracker.json',{'notice':'Reconstructed tracker. Historical completion reports and current QA acceptance are separate. Only original source integrity is verified for every chapter.','chapter_count':len(chapters),'chapters':chapters})
     print(json.dumps({'chapters':len(chapters),'audit_findings':len(findings),'alignment_counts':dict(Counter(x['match_status'] for x in findings))}))

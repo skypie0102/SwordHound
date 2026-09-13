@@ -8,7 +8,7 @@ This is a new register seeded from recovered context. It is not the lost glossar
 | Hugo Le Baskerville / Marquis | Chapter 1 spelling and title decision | MTL and Fandom Hugo entry agree on Marquis; supplied Korean count title is a recorded conflict. See [Chapter 1 review](reviews/chapter-0001.md). |
 | Baskerville family / House / Clan | Preserve contextual distinctions pending source review | Older audit lists variants, without establishing equivalence. |
 | Cradle of Swords | Chapter 1 ritual term | Korean ritual context, MTL variants and Fandom Vikir entry support this normalization; CH001-05 resolved. |
-| River Styx | Chapter 1 name retained | Hugo's thought attribution, finite shared power and milk metaphor reviewed. Exact mana/aura wording remains open under CH001-06. |
+| River Styx | Chapter 1 name and mechanics accepted | Hugo's thought attribution, finite shared power and milk metaphor reviewed. Mana increase and aura purification are supported by the Fandom trial/blessing sections cited in [the final review](reviews/chapter-0001-final.md). |
 | Highbro / Middlebro / Lowbro | Historical decision for Baskerville triplets | `Recovered-Editorial-Decisions.md`; do not rename unrelated siblings. |
 | Aiyen / Akwilla / Ballak / Ahun | Historical production spellings | Prior reports; confirm individual chapter references before application. |
 | Kirko | Ensign through 372; Lieutenant promotion pending, per latest historical report | `PROJECT_STATE.md`; supersedes an earlier conflicting rank report. Do not backfill the later rank. |

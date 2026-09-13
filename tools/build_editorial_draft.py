@@ -13,7 +13,25 @@ def sha(data):
     return hashlib.sha256(data).hexdigest()
 
 
-def render(chapter):
+def canonical_sha(value):
+    return sha(json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode())
+
+
+def evidence_sha(path):
+    return sha(path.read_bytes() if path.suffix == '.png' else path.read_text(encoding='utf-8').encode())
+
+
+def acceptance_context(chapter, spec, qa, text, alignment):
+    evidence = sorted({p for issue in qa['issues'] for p in issue.get('evidence', [])} | set(qa.get('final_review_evidence', [])))
+    return {'chapter': chapter, 'scope': 'editorial_only', 'review_basis': qa['review_basis'],
+            'draft_sha256': sha(text.encode()), 'mtl_sha256': spec['source_sha256'],
+            'korean_sha256': alignment['korean_sha256'] if alignment else None,
+            'edit_set_sha256': canonical_sha(spec), 'decisions_sha256': canonical_sha(qa['issues']),
+            'alignment_sha256': canonical_sha(alignment),
+            'evidence_sha256': {p: evidence_sha(ROOT / p) for p in evidence}}
+
+
+def render(chapter, *, validate_acceptance=True):
     spec = json.loads((ROOT / f'editorial/edits/chapter-{chapter:04d}.json').read_text(encoding='utf-8'))
     source = (ROOT / spec['source']).read_bytes()
     if spec['chapter'] != chapter or sha(source) != spec['source_sha256']:
@@ -83,6 +101,8 @@ def render(chapter):
         raise ValueError('Tracker overlay disagrees with QA issues')
     if not qa['accepted'] and state['status'] == 'qa_accepted':
         raise ValueError('Tracker incorrectly claims QA acceptance')
+    if qa['accepted'] and state['status'] != 'qa_accepted':
+        raise ValueError('Tracker does not reflect QA acceptance')
     draft_path = f'manuscript/drafts/chapter-{chapter:04d}.md'
     qa_path = f'qa/chapter-{chapter:04d}.md'
     if state['draft'] != draft_path or state['qa_report'] != qa_path:
@@ -99,11 +119,25 @@ def render(chapter):
                      'open_issues': [i['id'] for i in issues if i['status'] == 'open' and number in i['paragraphs']]})
         if alignment:
             rows[-1]['korean_lines'] = korean_by_paragraph[number]
-    text = f'# Chapter {chapter}: {title}\n\n> Reconstruction draft — QA not accepted. See [review](../../{qa_path}). Paragraph markers refer to the unchanged source.\n\n' + '\n\n'.join(draft) + '\n'
+    status = 'Editorially accepted reconstruction — EPUB release pending.' if qa['accepted'] else 'Reconstruction draft — QA not accepted.'
+    text = f'# Chapter {chapter}: {title}\n\n> {status} See [review](../../{qa_path}). Paragraph markers refer to the unchanged source.\n\n' + '\n\n'.join(draft) + '\n'
+    if qa['accepted'] and validate_acceptance:
+        if qa['review_basis'] not in ('korean_plus_mtl', 'mtl_with_supporting_references'):
+            raise ValueError('Invalid accepted review basis')
+        if (qa['review_basis'] == 'korean_plus_mtl') != bool(alignment):
+            raise ValueError('Accepted review basis disagrees with available alignment')
+        record = json.loads((ROOT / qa['acceptance_evidence']).read_text(encoding='utf-8'))
+        expected = acceptance_context(chapter, spec, qa, text, alignment)
+        if any(record.get(key) != value for key, value in expected.items()):
+            raise ValueError('Acceptance evidence is stale or does not match the final chapter')
+        if not record.get('reviewer') or not record.get('review_date') or not qa.get('final_review_evidence'):
+            raise ValueError('Acceptance lacks final review evidence')
     provenance = {'chapter': chapter, 'source': spec['source'], 'source_sha256': sha(source),
                   'draft': draft_path, 'draft_sha256': sha(text.encode()), 'paragraph_count': len(rows),
                   'changed_paragraphs': len(edits), 'paragraphs': rows}
     provenance['scene_breaks_after'] = scene_breaks
+    provenance['editorial_accepted'] = qa['accepted']
+    provenance['acceptance_evidence'] = qa.get('acceptance_evidence')
     if alignment:
         provenance.update(korean_source=alignment['korean_source'], korean_sha256=alignment['korean_sha256'], korean_alignment=spec['korean_alignment'])
     return {draft_path: text, f'editorial/provenance/chapter-{chapter:04d}.json': json.dumps(provenance, ensure_ascii=False, indent=2) + '\n'}

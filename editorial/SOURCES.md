@@ -33,8 +33,8 @@ Direct automated opening of these URLs failed during registration on 2026-09-13 
 
 ## Acceptance and integrity
 
-Neither importing the archive nor registering the wikis closes existing chapter QA. Chapter 1's nine issues remain open until reviewed using the newly available full Korean text and supporting evidence. The current renderer produces drafts; its acceptance tooling still needs extension before a final release.
+Neither importing an archive nor registering wiki links grants QA acceptance. Chapter 1 has now completed review with all nine issues editorially resolved; its [final decision record](reviews/chapter-0001-final.md) and [acceptance evidence](../qa/acceptance/chapter-0001.json) preserve the choices, limits, and exact reviewed content. Fandom content was available through search retrieval for specific terminology checks; Namu access failed during source review. Registration-time failures above remain historical observations.
 
-Subsequent Chapter 1 review has now resolved six of those nine issues; three remain open. Fandom character-page content was available through search retrieval for limited terminology checks, while Namu access still failed. See [the dated review record](reviews/chapter-0001.md) for actual sources consulted and decisions; the registration-time failures above remain historical observations.
+The renderer and tracker validate accepted chapters against hashes of their text, source alignment, decisions, and evidence. Editorial acceptance is limited to the reviewed chapter; whole-EPUB packaging and release checks are separate.
 
 Run `python tools/verify_recovery.py` to check both preserved source sets. Run `python tools/rebuild_editorial_tracking.py` after source/status changes; each tracker entry states its review mode and whether a Korean file is available.

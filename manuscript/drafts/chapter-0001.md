@@ -1,6 +1,6 @@
 # Chapter 1: Hellhound (1)
 
-> Reconstruction draft — QA not accepted. See [review](../../qa/chapter-0001.md). Paragraph markers refer to the unchanged source.
+> Editorially accepted reconstruction — EPUB release pending. See [review](../../qa/chapter-0001.md). Paragraph markers refer to the unchanged source.
 
 <!-- source-p:001 -->
 The years of bloodshed had finally ended.
@@ -45,13 +45,13 @@ Unlike his half-siblings in the main family, he had not been given ‘Le’ or �
 But in the end, it was all for nothing.
 
 <!-- source-p:015 -->
-Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, they forsook him.
+Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, fate abandoned him.
 
 <!-- source-p:016 -->
 Now he faced execution on a false charge of spying for the demons.
 
 <!-- source-p:017 -->
-He gritted his teeth.
+He reflected.
 
 <!-- source-p:018 -->
 He wanted to live. To live again.
@@ -200,13 +200,13 @@ Even his own children were no exception.
 One of the seven greatest swordsmen on the continent, he was said to have been a man of iron from birth.
 
 <!-- source-p:066 -->
-“Only like this can we fight the demons. The strong will survive and leave the weak behind.”
+“How are they supposed to fight demons? When will I be able to train them to watch my back?”
 
 <!-- source-p:067 -->
 Hugo stood above the Cradle of Swords, gazing at the waters of the Styx that encircled it, and sighed.
 
 <!-- source-p:068 -->
-The secret river, which flows only in the Holy Land of the Baskerville family, has the effect of increasing mana, purifying one’s aura, and making one’s body as tough and hard as steel just by soaking one’s body.
+The mysterious river flowed only through the Baskerville family’s sacred grounds. Simply bathing in it increased mana, purified aura, and made the body as hard as steel.
 
 <!-- source-p:069 -->
 Had the river’s power not been limited to children under a year old, Hugo would have bathed in it long ago.

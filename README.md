@@ -4,7 +4,7 @@ Recovered source and reference material for the English EPUB project after loss 
 
 **Reconstruction has started.** [Progress and next steps](PROGRESS.md) · [Chapter 1 draft](manuscript/drafts/chapter-0001.md) · [Chapter 1 QA](qa/chapter-0001.md) · [493-chapter tracker](editorial/chapter-tracker.json)
 
-Chapter 1 has a second English editing pass and a complete supplied-Korean comparison: six QA items resolved, three still open. It is not QA accepted. The lost production chapters and original QA reports remain unrecovered. See [the current review](editorial/reviews/chapter-0001.md).
+**Chapter 1 is editorially accepted**, with all nine QA items resolved, complete source comparison, and desktop/mobile layout review. The full EPUB release remains pending. The lost production chapters and original QA reports remain unrecovered. See [the final review](editorial/reviews/chapter-0001-final.md), [acceptance evidence](qa/acceptance/chapter-0001.json), and [chapter preview](preview/chapter-0001.html).
 
 **Sources are now configured:** Korean raws plus MTL for Chapters **1–54**; MTL with supporting-reference QA for **55–493**. [Source policy and wiki links](editorial/SOURCES.md) · [Agent instructions](AGENTS.md). Agents may seek additional web support when needed.
 
