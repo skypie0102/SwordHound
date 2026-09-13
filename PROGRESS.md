@@ -23,6 +23,8 @@ This log records recovered evidence and new reconstruction work separately. Hist
 - Tracker/alignment regeneration check passed with the counts above.
 - Six tests passed, covering paragraph conservation, altered source rejection, duplicate edits, paragraph deletion, unsupported QA acceptance, and hidden open issues.
 - Generated draft and provenance files use fixed LF line endings so their hashes survive Windows checkouts.
+- Published implementation commit `e97b254` to `main` and `reconstruction/first-batch` without rewriting history. A fresh clone from GitHub at that commit passed all recovery, draft, tracker, and six test checks, with a clean working tree.
+- Created and verified the local backup `SwordHound-reconstruction-20260913.bundle` beside the checkout, containing all available repository history through this implementation checkpoint. The bundle is local and is not stored in GitHub.
 
 These checks establish integrity and reproducibility. They do not certify translation quality or a new EPUB release.
 
