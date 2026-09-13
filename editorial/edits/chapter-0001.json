@@ -3,48 +3,456 @@
   "source": "source/chapters/chapter-001.xhtml",
   "source_sha256": "475fe7ffc331bc2a79255108ada508a811d104d6ec3101d2e8b9bd31aaf99382",
   "expected_paragraphs": 106,
-  "notice": "New English editing pass, not restoration of the lost production translation. Each entry contains paragraph number, replacement, and rationale. Semantic questions remain in qa/chapter-0001.json.",
+  "notice": "New reconstruction, not recovered production. English edits are supplemented by supplied Korean comparison and limited wiki terminology checks. Remaining source conflicts and final QA remain open.",
   "edits": [
-    [1, "The years of bloodshed had finally ended.", "Add missing terminal punctuation."],
-    [2, "The war between humans and demons had lasted for decades, leaving a terrifying record in the history books as the ‘Age of Destruction’.", "Repair narrative tense and clause structure; retain the named era."],
-    [3, "And then came the day when humanity’s victory was written down in the books.", "Repair the fragment and narrative tense without changing the chronology."],
-    [9, "Vikir struggled.", "Add missing terminal punctuation."],
-    [11, "A bastard. The son of a concubine.", "Fix capitalization and article; preserve the rhetorical fragments."],
-    [12, "That was why his middle name was ‘Van’.", "Supply the missing predicate; spelling remains provisional."],
-    [13, "He had not been born with a surname such as ‘Le’ or ‘Re’, which his half-siblings in the main family received. Because of that, he had to work hundreds of times harder than others.", "Repair tense and comparative wording; retain source surname terminology pending review."],
-    [14, "But in the end, it was all for nothing.", "Add introductory comma."],
-    [15, "Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, they forsook him.", "Repair mission collocation, tense, and punctuation; preserve quantity and activities."],
-    [16, "He was falsely accused of being a spy for the demons and executed.", "Repair the fragment and redundant false-charge wording using the recovered English claim; accusation needs source review."],
-    [18, "He wanted to live.", "Add missing terminal punctuation."],
-    [24, "It was a harsh first assessment for a father to make of his children born that year.", "Repair English clause order and temporal reference."],
-    [25, "… At that moment.", "Normalize ellipsis; retain transition as a deliberate fragment."],
-    [26, "As Hugo passed the cribs in the nursery, he stopped at one of them.", "Repair awkward location wording using the cribs already named."],
-    [33, "Hugo looked at Vikir, and his expression softened a little.", "Use idiomatic wording for the stated change in expression."],
-    [34, "It was not because he was pleased that Vikir’s qualities seemed superior to those of his other offspring.", "Repair tense; preserve the denial rather than asserting superiority."],
-    [35, "He merely thought that if all he had before him was garbage anyway, it would be better to have garbage that was a little less noisy.", "Repair clause structure while retaining Hugo’s contempt and comparison."],
-    [39, "From the cradle to the grave.", "Supply missing article."],
-    [44, "The baby is trapped in the maze of blades and wanders through it.", "Use consistent present tense for the general description and plural blades."],
-    [45, "Every movement leaves the baby with cuts from the blades.", "Repair subject and verb agreement without alternating pronouns."],
-    [50, "If one baby absorbs most of the river’s power, another receives relatively less because less power remains.", "Replace the inconsistent river pronoun and repair comparison; preserve finite power distribution."],
-    [53, "Who would be the first to escape this labyrinth and jump into the river? That would determine the future of these children.", "Remove duplicated first and align narration with past tense."],
-    [54, "Thirty-two children born that year, including all of the family’s rightful sons, bastards, and cousins, competed in the middle of the cradle of swords.", "Align narrative tense; preserve participants and number."],
-    [57, "One baby cried for a babysitter. Another was already crawling, bleeding from cuts inflicted by the blades. Another sat sucking his finger, showing no intention of escaping yet… Babies are usually like that.", "Repair subject coordination and verb forms; preserve all three described responses."],
-    [58, "In fact, since these babies were less than a year old, this was only natural.", "Repair narrative tense and literal result phrasing."],
-    [64, "Even his own children were no exception.", "Remove accidental second-person shift in narration."],
-    [66, "“Only like this can we fight the demons. The strong will survive and leave the weak behind.”", "Add quotation punctuation only; the disputed speech remains unchanged in meaning."],
-    [69, "If the river’s power had not worked only on children under the age of one, Hugo would have soaked himself in it right away.", "Repair the conditional while preserving the stated age restriction."],
-    [70, "Hugo was looking at the river with a sad expression.", "Repair incomplete temporal clause."],
-    [72, "“Ah, how can that be!”", "Repair English exclamation."],
-    [77, "And at that moment…", "Repair transition wording and signal the continuing sentence."],
-    [81, "Through this thick forest of blades, a child was heading straight for the River Styx.", "Remove unnecessary conjunction and clarify clause punctuation."],
-    [83, "The child’s body was already covered in blood.", "Align narrative tense."],
-    [85, "Instead of following the relatively safe path around and around, he squeezed directly into the small gaps between the blades.", "Repair narrative tense and idiom; retain the contrast between routes."],
-    [88, "His knees were bruised, and his soft palms were already bloody.", "Repair article and possessive consistency."],
-    [89, "The child crawled forward, leaving a bloody path as he squeezed between the countless needles.", "Supply a finite verb; retain the source needle metaphor."],
-    [93, "His siblings were still trapped in the center of the cradle of the sword, unable to get out.", "Reduce redundant clause without changing the stated location."],
-    [95, "As soon as the child emerged from the cradle, he threw himself into the River Styx.", "Repair missing conjunction and comma splice."],
-    [99, "They had never seen him so agitated; he usually showed no emotion in anything he did.", "Remove accidental first-person narration; they refers to the attendants in paragraph 98."],
-    [102, "The child who had fallen into the River Styx still had not surfaced.", "Repair narrative tense and water-specific wording."],
-    [104, "The knights were immediately frightened.", "Repair orphaned conjunction and adverb placement."]
+    [
+      1,
+      "The years of bloodshed had finally ended.",
+      "Add missing terminal punctuation."
+    ],
+    [
+      2,
+      "The war between humans and demons had lasted for decades, leaving a terrifying record in the history books as the ‘Age of Destruction’.",
+      "Repair narrative tense and clause structure; retain the named era."
+    ],
+    [
+      3,
+      "And then came the day when humanity’s victory was written down in the books.",
+      "Repair the fragment and narrative tense without changing the chronology."
+    ],
+    [
+      4,
+      "A head hung above the front gate of the Baskervilles, a family famed for its iron-blooded swordsmen.",
+      "K007 explicitly names a human head; repair the MTL neck mistranslation."
+    ],
+    [
+      5,
+      "Vikir. Vikir Van Baskerville.",
+      "K008/K010 identify the same name; use the Fandom entry spelling, removing redundant name quotation marks."
+    ],
+    [
+      6,
+      "The illegitimate son of Hugo Le Baskerville, head of the Baskerville family.",
+      "K011 and MTL establish parentage; retain the wiki-supported English name rather than the inconsistent Korean transcription."
+    ],
+    [
+      7,
+      "The family’s shadow, his hands stained with blood.",
+      "Preserve the MTL shadow metaphor; K012 supplies blood on his hands. The broken back-of-family phrase is not translated as a physical location."
+    ],
+    [
+      8,
+      "He was the hound of the Baskervilles.",
+      "K013 explicitly refers to Vikir; repair the MTL impersonal pronoun."
+    ],
+    [
+      9,
+      "Vikir struggled.",
+      "Add missing terminal punctuation."
+    ],
+    [
+      11,
+      "A bastard. The son of a concubine.",
+      "Fix capitalization and article; preserve the rhetorical fragments."
+    ],
+    [
+      12,
+      "That was why his middle name was ‘Van’.",
+      "Supply the missing predicate; spelling remains provisional."
+    ],
+    [
+      13,
+      "Unlike his half-siblings in the main family, he had not been given ‘Le’ or ‘Re’. Because of that, he had to work hundreds of times harder than anyone else.",
+      "K020/MTL establish a naming distinction. Preserve MTL spellings but avoid falsely defining them as surnames; the wider naming system is not locked here."
+    ],
+    [
+      14,
+      "But in the end, it was all for nothing.",
+      "Add introductory comma."
+    ],
+    [
+      15,
+      "Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, they forsook him.",
+      "Repair mission collocation, tense, and punctuation; preserve quantity and activities."
+    ],
+    [
+      16,
+      "Now he faced execution on a false charge of spying for the demons.",
+      "K009 gives collusion as the accusation and K023 explicitly mentions being framed as a spy before execution. Repair the first draft’s premature completed-execution wording."
+    ],
+    [
+      18,
+      "He wanted to live. To live again.",
+      "K025-K026 explicitly repeat the desire to live, then to live again."
+    ],
+    [
+      19,
+      "Waa—waa—waa—",
+      "K028 and MTL identify a baby cry; deliberate English sound-effect localization, not a literal phonetic transcription."
+    ],
+    [
+      20,
+      "A baby’s cry echoed through the large room.",
+      "English line edit; K029 confirms the nursery sound. Retain the MTL singular focal cry."
+    ],
+    [
+      21,
+      "The Baskerville family was celebrating a series of happy events.",
+      "K030 supports happy events; do not apply the historical audit’s unsupported collateral-branches interpretation."
+    ],
+    [
+      22,
+      "The head of the family, Marquis Hugo Le Baskerville, surveyed the children born that year with an indifferent gaze.",
+      "K031 supports the action. MTL and the Fandom Hugo entry agree on Marquis; choose that over the supplied Korean count title and record the conflict."
+    ],
+    [
+      23,
+      "“Not one of them looks useful.”",
+      "K032/MTL both give a dismissive assessment; naturalize the MTL wording without importing a different speech."
+    ],
+    [
+      24,
+      "It was a harsh first assessment for a father to make of his children born that year.",
+      "Repair English clause order and temporal reference."
+    ],
+    [
+      25,
+      "… At that moment.",
+      "Normalize ellipsis; retain transition as a deliberate fragment."
+    ],
+    [
+      26,
+      "As Hugo passed the cribs in the nursery, he stopped at one of them.",
+      "Repair awkward location wording using the cribs already named."
+    ],
+    [
+      27,
+      "Vikir. Vikir Van Baskerville.",
+      "K036 and the Fandom character entry support consistent name spelling/capitalization."
+    ],
+    [
+      28,
+      "An illegitimate child who should never have been here.",
+      "K037 confirms exclusion; repair the fragment’s literal introductory wording while retaining its rhetorical form."
+    ],
+    [
+      29,
+      "His siblings were already six to eight months old. He had only just reached a hundred days when he was brought into this room.",
+      "K038 and MTL agree on 100 days here. The contradiction at K100/MTL90 is explicitly harmonized to this established age; see CH001-04."
+    ],
+    [
+      32,
+      "“…”",
+      "K041 uses a single ellipsis for silence; normalize punctuation."
+    ],
+    [
+      33,
+      "Hugo looked at Vikir, and his expression softened a little.",
+      "Use idiomatic wording for the stated change in expression."
+    ],
+    [
+      34,
+      "It was not because he was pleased that Vikir’s qualities seemed superior to those of his other offspring.",
+      "Repair tense; preserve the denial rather than asserting superiority."
+    ],
+    [
+      35,
+      "He merely thought that if all he had before him was garbage anyway, it would be better to have garbage that was a little less noisy.",
+      "Repair clause structure while retaining Hugo’s contempt and comparison."
+    ],
+    [
+      36,
+      "After a while, Hugo addressed the dozens of nannies standing behind him.",
+      "K045 explicitly says standing behind him; remove the spurious city."
+    ],
+    [
+      37,
+      "“Move the children to the Cradle of Swords.”",
+      "K046 identifies the ritual; the Fandom Vikir entry corroborates the English term. Preserve a direct command."
+    ],
+    [
+      39,
+      "From the cradle to the grave.",
+      "Supply missing article."
+    ],
+    [
+      41,
+      "… What was the Cradle of Swords?",
+      "K050 rhetorical question; normalize the ritual term and transition punctuation."
+    ],
+    [
+      42,
+      "It was a rite of passage unique to the Baskervilles.",
+      "Retain MTL rite of passage rather than literal coming-of-age ceremony, which would misstate an infant trial."
+    ],
+    [
+      43,
+      "Countless blades were planted in a maze on a small, round hill, and a baby was placed in the middle.",
+      "K052 supplies small circular hill and placement; MTL supplies the maze, confirmed in K053."
+    ],
+    [
+      44,
+      "The baby was trapped in a maze of blades.",
+      "K053; use narrative past tense for this extended explanatory passage."
+    ],
+    [
+      45,
+      "Even the slightest movement would leave the baby covered in cuts.",
+      "K054 explicitly describes small movements causing blade wounds; maintain the conditional consequence."
+    ],
+    [
+      46,
+      "To escape, the baby had to crawl through the maze of blades.",
+      "K055 establishes escape by crawling; repair the floor-and-needles wording."
+    ],
+    [
+      47,
+      "Only upon entering the River Styx, which encircled the maze, would the child truly become a Baskerville.",
+      "K056 specifies the river’s location and the criterion for acceptance; stabilize narrative viewpoint."
+    ],
+    [
+      48,
+      "Hugo Le Baskerville thought, ‘The waters of the Styx work only on children under a year old. A child who bathes in this river gains a body as hard as steel.’",
+      "K057 explicitly attributes the thought to Hugo; K058 supplies its content. Restore attribution within the existing paragraph."
+    ],
+    [
+      49,
+      "Of course, the river’s power was not infinite.",
+      "K059/MTL agree; align narrative tense."
+    ],
+    [
+      50,
+      "If one baby absorbed much of the river’s power, less would remain for the others.",
+      "K060/MTL describe a finite shared resource; repair pronouns and keep the conditional distribution."
+    ],
+    [
+      51,
+      "Like a mother’s milk.",
+      "K061 explicitly says mother’s milk; replace the lifeline mistranslation."
+    ],
+    [
+      52,
+      "The children of the Baskerville family were now thrown into the Cradle of Swords.",
+      "K062/MTL; normalize the ritual name without treating knife/sword variants as separate trials."
+    ],
+    [
+      53,
+      "Who would be the first to escape this labyrinth and jump into the river? That would determine the future of these children.",
+      "Remove duplicated first and align narration with past tense."
+    ],
+    [
+      54,
+      "Thirty-two children born that year, including the family’s legitimate sons, bastards, and cousins, competed in the Cradle of Swords.",
+      "K064 confirms the number and groups; use idiomatic legitimate rather than rightful and the established ritual term."
+    ],
+    [
+      55,
+      "The blades formed a spiral maze, a path of sharp thorns for the children to crawl through.",
+      "K065 supplies spiral arrangement and the thorn-path metaphor; MTL84 independently confirms the spiral layout. This resolves layout without adding new obstacles."
+    ],
+    [
+      56,
+      "Waa—waa—waa—",
+      "K066-K067 and surrounding MTL describe crying infants; localize consistently with paragraph 19."
+    ],
+    [
+      57,
+      "Some babies cried for their nannies. Others were already crawling, while some bled from cuts inflicted by the blades. Still others lay sucking their fingers, showing no intention of escaping yet… Babies were usually like that.",
+      "K067 separates the infant reactions into groups. Retain all reactions and use its explicit lying position instead of MTL sitting."
+    ],
+    [
+      58,
+      "In fact, since these babies were less than a year old, this was only natural.",
+      "Repair narrative tense and literal result phrasing."
+    ],
+    [
+      62,
+      "Small, fragile creatures. Creatures that could not survive without help.",
+      "K072/MTL describe dependent infants; align number and narrative tense."
+    ],
+    [
+      63,
+      "Hugo looked at the babies with contempt.",
+      "K073 explicitly directs his contemptuous gaze at the babies; remove the unstable human-body wording."
+    ],
+    [
+      64,
+      "Even his own children were no exception.",
+      "Remove accidental second-person shift in narration."
+    ],
+    [
+      65,
+      "One of the seven greatest swordsmen on the continent, he was said to have been a man of iron from birth.",
+      "Retain the MTL count and description; K075 supports renown and reported iron-blooded temperament. Do not turn this into a new named rank or equate it with the wiki’s seven pillars."
+    ],
+    [
+      66,
+      "“Only like this can we fight the demons. The strong will survive and leave the weak behind.”",
+      "Add quotation punctuation only; the disputed speech remains unchanged in meaning."
+    ],
+    [
+      67,
+      "Hugo stood above the Cradle of Swords, gazing at the waters of the Styx that encircled it, and sighed.",
+      "K077 supplies elevated viewpoint, surrounding river, and sigh; normalize the ritual name."
+    ],
+    [
+      69,
+      "Had the river’s power not been limited to children under a year old, Hugo would have bathed in it long ago.",
+      "K079/MTL agree on the age restriction and Hugo’s counterfactual desire; repair the conditional."
+    ],
+    [
+      70,
+      "Hugo gazed at the river with regret.",
+      "K080 specifically describes regret; use that more precise reading."
+    ],
+    [
+      71,
+      "“… Look over there!”",
+      "K081 explicit imperative; normalize ellipsis."
+    ],
+    [
+      72,
+      "“Ah, how is that possible!”",
+      "K082 confirms an exclamation of disbelief."
+    ],
+    [
+      73,
+      "“Unbelievable!”",
+      "K083 expresses disbelief; avoid making the reaction a dismissal of nonsense."
+    ],
+    [
+      74,
+      "Exclamations rose from all around.",
+      "K084 explicitly identifies exclamations, not arguments."
+    ],
+    [
+      75,
+      "What could have startled the family’s normally unshakable guardian knights?",
+      "Repair the MTL question; K085 also conveys the knights’ alarm. Keep the MTL characterization without adding an actual threat."
+    ],
+    [
+      77,
+      "And at that moment…",
+      "Repair transition wording and signal the continuing sentence."
+    ],
+    [
+      78,
+      "“…”",
+      "Normalize a wordless reaction; surprise is carried by the following narrative rather than mixed ellipsis/exclamation punctuation."
+    ],
+    [
+      80,
+      "The Cradle of Swords.",
+      "Retain the rhetorical refocusing fragment; normalize the ritual term."
+    ],
+    [
+      81,
+      "Through this thick forest of blades, a child was heading straight for the River Styx.",
+      "Remove unnecessary conjunction and clarify clause punctuation."
+    ],
+    [
+      82,
+      "Scrape—slash—",
+      "Deliberate contextual sound localization for contact with blades. Neither the inconsistent Korean sound string nor MTL romanization establishes a unique English phonetic equivalent."
+    ],
+    [
+      83,
+      "The child’s body was already covered in blood.",
+      "Align narrative tense."
+    ],
+    [
+      84,
+      "To everyone’s astonishment, the child was crawling straight across the spiral maze, laid out like a snail’s shell.",
+      "MTL84 plus K094 establish the direct route through the spiral; preserve the MTL comparison."
+    ],
+    [
+      85,
+      "Instead of following the relatively safe path around and around, he squeezed directly into the small gaps between the blades.",
+      "Repair narrative tense and idiom; retain the contrast between routes."
+    ],
+    [
+      86,
+      "A blade had marked his soft, pale cheek.",
+      "K096/MTL confirm a cut on the cheek; English line edit."
+    ],
+    [
+      87,
+      "His waist and forearms were cut and torn.",
+      "K097/MTL agree on injuries; remove repetitive body adjectives."
+    ],
+    [
+      88,
+      "His knees were bruised, and his soft palms were already bloody.",
+      "Repair article and possessive consistency."
+    ],
+    [
+      89,
+      "The child crawled on, leaving a bloody trail between the countless blades.",
+      "K099 explicitly identifies blades and the blood trail; use concrete wording."
+    ],
+    [
+      90,
+      "Everyone in the family was overwhelmed by the spirit of this child, only a hundred days old.",
+      "Explicit editorial harmonization: choose K038/MTL29 and the wiki’s 100-day rebirth over conflicting not-yet-100-day wording here. No age change is presented as a literal translation of K100."
+    ],
+    [
+      91,
+      "Even Hugo Le Baskerville, head of the iron-blooded Baskerville family, was no exception.",
+      "K101/MTL agree; keep the established name rather than the inconsistent Korean transcription."
+    ],
+    [
+      93,
+      "His siblings were still trapped in the center of the Cradle of Swords, unable to escape.",
+      "K103/MTL agree on location and inability to escape; normalize the ritual name."
+    ],
+    [
+      94,
+      "Plop!",
+      "Retain the water-entry sound supported by MTL94 and K105. Reject the anomalous Korean fried-food word as a literal English sound translation."
+    ],
+    [
+      95,
+      "As soon as the child emerged from the cradle, he threw himself into the River Styx.",
+      "Repair missing conjunction and comma splice."
+    ],
+    [
+      97,
+      "In an uncharacteristic display, Hugo stepped forward and gripped the railing with both hands.",
+      "K107/MTL describe the unusual forward movement and grip; improve English wording."
+    ],
+    [
+      98,
+      "The attendants’ eyes widened as cracks appeared in the marble railing.",
+      "K108/MTL confirm the witnesses and visible cracks; preserve the implication without adding force measurements."
+    ],
+    [
+      99,
+      "They had never seen him so agitated; he usually showed no emotion in anything he did.",
+      "Remove accidental first-person narration; they refers to the attendants in paragraph 98."
+    ],
+    [
+      102,
+      "The child who had fallen into the River Styx still had not surfaced.",
+      "Repair narrative tense and water-specific wording."
+    ],
+    [
+      104,
+      "The knights cried out in alarm.",
+      "K114 says they exclaimed together; MTL says they were frightened. The wording captures the compatible outward reaction."
+    ],
+    [
+      105,
+      "“Sir, the child is drinking the river water!”",
+      "Preserve the MTL addressee and river-water content, both contextually clear; clarify the child referent without importing the Korean exclamation’s register."
+    ],
+    [
+      106,
+      "Hugo’s mouth fell open at the reply.",
+      "K116 explicitly describes an open-mouthed reaction. Prefer that direct Korean reading to the MTL grin; preserve the disagreement in the review record."
+    ]
+  ],
+  "korean_alignment": "editorial/korean-alignment/chapter-0001.json",
+  "scene_breaks_after": [
+    18
   ]
 }

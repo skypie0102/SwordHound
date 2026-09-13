@@ -12,19 +12,19 @@ The war between humans and demons had lasted for decades, leaving a terrifying r
 And then came the day when humanity’s victory was written down in the books.
 
 <!-- source-p:004 -->
-A neck was hung at the front gate of the Baskervilles, famous for their iron-blooded swordsmen.
+A head hung above the front gate of the Baskervilles, a family famed for its iron-blooded swordsmen.
 
 <!-- source-p:005 -->
-Vikir. ‘Vikir Van Baskerville’.
+Vikir. Vikir Van Baskerville.
 
 <!-- source-p:006 -->
-The illegitimate son of Hugo Le Baskerville, the head of the Baskerville family.
+The illegitimate son of Hugo Le Baskerville, head of the Baskerville family.
 
 <!-- source-p:007 -->
-The shadow that has been covered with countless blood on the back of the family.
+The family’s shadow, his hands stained with blood.
 
 <!-- source-p:008 -->
-It was the hound of the Baskervilles.
+He was the hound of the Baskervilles.
 
 <!-- source-p:009 -->
 Vikir struggled.
@@ -39,7 +39,7 @@ A bastard. The son of a concubine.
 That was why his middle name was ‘Van’.
 
 <!-- source-p:013 -->
-He had not been born with a surname such as ‘Le’ or ‘Re’, which his half-siblings in the main family received. Because of that, he had to work hundreds of times harder than others.
+Unlike his half-siblings in the main family, he had not been given ‘Le’ or ‘Re’. Because of that, he had to work hundreds of times harder than anyone else.
 
 <!-- source-p:014 -->
 But in the end, it was all for nothing.
@@ -48,28 +48,30 @@ But in the end, it was all for nothing.
 Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, they forsook him.
 
 <!-- source-p:016 -->
-He was falsely accused of being a spy for the demons and executed.
+Now he faced execution on a false charge of spying for the demons.
 
 <!-- source-p:017 -->
 He gritted his teeth.
 
 <!-- source-p:018 -->
-He wanted to live.
+He wanted to live. To live again.
+
+◆◆◆
 
 <!-- source-p:019 -->
-Aye- Aye- Aye-
+Waa—waa—waa—
 
 <!-- source-p:020 -->
-A baby’s cry echoed throughout the large room.
+A baby’s cry echoed through the large room.
 
 <!-- source-p:021 -->
-The iron-blooded swordsman, the Baskerville family, had dozens of layers of slopes.
+The Baskerville family was celebrating a series of happy events.
 
 <!-- source-p:022 -->
-The head of the house, the Marquis Hugo Le Baskerville, raised a nonchalant eye and scanned the children born this year.
+The head of the family, Marquis Hugo Le Baskerville, surveyed the children born that year with an indifferent gaze.
 
 <!-- source-p:023 -->
-“There aren’t any guys that look useful.”
+“Not one of them looks useful.”
 
 <!-- source-p:024 -->
 It was a harsh first assessment for a father to make of his children born that year.
@@ -81,13 +83,13 @@ It was a harsh first assessment for a father to make of his children born that y
 As Hugo passed the cribs in the nursery, he stopped at one of them.
 
 <!-- source-p:027 -->
-Vikir. Vikir van Baskerville.
+Vikir. Vikir Van Baskerville.
 
 <!-- source-p:028 -->
-Originally, an illegitimate child who did not even deserve to be here.
+An illegitimate child who should never have been here.
 
 <!-- source-p:029 -->
-Unlike the other siblings who are almost 6 to 8 months old, a being who has just entered this room after having just completed 100 days.
+His siblings were already six to eight months old. He had only just reached a hundred days when he was brought into this room.
 
 <!-- source-p:030 -->
 The baby wasn’t crying.
@@ -96,7 +98,7 @@ The baby wasn’t crying.
 He just lay still with his eyes closed, as if he were dead.
 
 <!-- source-p:032 -->
-“…….”
+“…”
 
 <!-- source-p:033 -->
 Hugo looked at Vikir, and his expression softened a little.
@@ -108,10 +110,10 @@ It was not because he was pleased that Vikir’s qualities seemed superior to th
 He merely thought that if all he had before him was garbage anyway, it would be better to have garbage that was a little less noisy.
 
 <!-- source-p:036 -->
-Eventually, Hugo spoke to dozens of nannies in the city behind him.
+After a while, Hugo addressed the dozens of nannies standing behind him.
 
 <!-- source-p:037 -->
-“Move the children to the ‘Cradle of the swords’.”
+“Move the children to the Cradle of Swords.”
 
 <!-- source-p:038 -->
 The children of the Baskervilles are put to the test from the moment they are born.
@@ -123,55 +125,55 @@ From the cradle to the grave.
 The first of these tests began right away.
 
 <!-- source-p:041 -->
-……What is the cradle of swords?
+… What was the Cradle of Swords?
 
 <!-- source-p:042 -->
-It is a unique rite of passage for the Baskervilles.
+It was a rite of passage unique to the Baskervilles.
 
 <!-- source-p:043 -->
-Countless knives are planted like a maze on a round hill and a baby is dropped in the middle.
+Countless blades were planted in a maze on a small, round hill, and a baby was placed in the middle.
 
 <!-- source-p:044 -->
-The baby is trapped in the maze of blades and wanders through it.
+The baby was trapped in a maze of blades.
 
 <!-- source-p:045 -->
-Every movement leaves the baby with cuts from the blades.
+Even the slightest movement would leave the baby covered in cuts.
 
 <!-- source-p:046 -->
-In this environment, babies have to crawl on the floor and through a labyrinth of needles.
+To escape, the baby had to crawl through the maze of blades.
 
 <!-- source-p:047 -->
-It is only when you immerse yourself in the river ‘Styx’ outside of the labyrinth that you become a Baskerville in its true sense.
+Only upon entering the River Styx, which encircled the maze, would the child truly become a Baskerville.
 
 <!-- source-p:048 -->
-‘The Styx water is only effective for children under one year of age. If you soak your body in this river, your whole body becomes as hard as steel.’
+Hugo Le Baskerville thought, ‘The waters of the Styx work only on children under a year old. A child who bathes in this river gains a body as hard as steel.’
 
 <!-- source-p:049 -->
-Of course, the power of this river is not infinite.
+Of course, the river’s power was not infinite.
 
 <!-- source-p:050 -->
-If one baby absorbs most of the river’s power, another receives relatively less because less power remains.
+If one baby absorbed much of the river’s power, less would remain for the others.
 
 <!-- source-p:051 -->
-It’s like her mother’s lifeline.
+Like a mother’s milk.
 
 <!-- source-p:052 -->
-The children of the Baskervilles were now thrown into the cradle of the sword.
+The children of the Baskerville family were now thrown into the Cradle of Swords.
 
 <!-- source-p:053 -->
 Who would be the first to escape this labyrinth and jump into the river? That would determine the future of these children.
 
 <!-- source-p:054 -->
-Thirty-two children born that year, including all of the family’s rightful sons, bastards, and cousins, competed in the middle of the cradle of swords.
+Thirty-two children born that year, including the family’s legitimate sons, bastards, and cousins, competed in the Cradle of Swords.
 
 <!-- source-p:055 -->
-The blades, densely packed with tracks for the children to the go through and become the sharpest of thorns.
+The blades formed a spiral maze, a path of sharp thorns for the children to crawl through.
 
 <!-- source-p:056 -->
-Aye- Aye- Aye-
+Waa—waa—waa—
 
 <!-- source-p:057 -->
-One baby cried for a babysitter. Another was already crawling, bleeding from cuts inflicted by the blades. Another sat sucking his finger, showing no intention of escaping yet… Babies are usually like that.
+Some babies cried for their nannies. Others were already crawling, while some bled from cuts inflicted by the blades. Still others lay sucking their fingers, showing no intention of escaping yet… Babies were usually like that.
 
 <!-- source-p:058 -->
 In fact, since these babies were less than a year old, this was only natural.
@@ -186,46 +188,46 @@ However.
 Hugo Le Baskerville’s assessment was terribly cold.
 
 <!-- source-p:062 -->
-A small, fragile creature. A creature that cannot survive without the help of others.
+Small, fragile creatures. Creatures that could not survive without help.
 
 <!-- source-p:063 -->
-There was contempt in Hugo’s gaze at the human body.
+Hugo looked at the babies with contempt.
 
 <!-- source-p:064 -->
 Even his own children were no exception.
 
 <!-- source-p:065 -->
-Being one of the seven best swordsmen on the continent, he was famous for being an iron man from birth.
+One of the seven greatest swordsmen on the continent, he was said to have been a man of iron from birth.
 
 <!-- source-p:066 -->
 “Only like this can we fight the demons. The strong will survive and leave the weak behind.”
 
 <!-- source-p:067 -->
-Hugo stood high and looked at the waters of the Styx, which flowed around the cradle of the sword, and lamented.
+Hugo stood above the Cradle of Swords, gazing at the waters of the Styx that encircled it, and sighed.
 
 <!-- source-p:068 -->
 The secret river, which flows only in the Holy Land of the Baskerville family, has the effect of increasing mana, purifying one’s aura, and making one’s body as tough and hard as steel just by soaking one’s body.
 
 <!-- source-p:069 -->
-If the river’s power had not worked only on children under the age of one, Hugo would have soaked himself in it right away.
+Had the river’s power not been limited to children under a year old, Hugo would have bathed in it long ago.
 
 <!-- source-p:070 -->
-Hugo was looking at the river with a sad expression.
+Hugo gazed at the river with regret.
 
 <!-- source-p:071 -->
-“……Hey, over there!”
+“… Look over there!”
 
 <!-- source-p:072 -->
-“Ah, how can that be!”
+“Ah, how is that possible!”
 
 <!-- source-p:073 -->
-“Nonsense!”
+“Unbelievable!”
 
 <!-- source-p:074 -->
-Arguments erupted from everywhere.
+Exclamations rose from all around.
 
 <!-- source-p:075 -->
-What was there to be astonished at by the family’s guardian knights, who were not shaken by anything?
+What could have startled the family’s normally unshakable guardian knights?
 
 <!-- source-p:076 -->
 Hugo raised his head with a puzzled expression.
@@ -234,55 +236,55 @@ Hugo raised his head with a puzzled expression.
 And at that moment…
 
 <!-- source-p:078 -->
-“……!”
+“…”
 
 <!-- source-p:079 -->
 His eyes, which had been filled with bitter boredom, contempt, impatience, and disappointment, lit up.
 
 <!-- source-p:080 -->
-The cradle of the sword.
+The Cradle of Swords.
 
 <!-- source-p:081 -->
 Through this thick forest of blades, a child was heading straight for the River Styx.
 
 <!-- source-p:082 -->
-Jjoeok- Jjeook- Fit-
+Scrape—slash—
 
 <!-- source-p:083 -->
 The child’s body was already covered in blood.
 
 <!-- source-p:084 -->
-Surprisingly, the child was going straight through the cradle of needles, which were spiraled like a snail’s shell.
+To everyone’s astonishment, the child was crawling straight across the spiral maze, laid out like a snail’s shell.
 
 <!-- source-p:085 -->
 Instead of following the relatively safe path around and around, he squeezed directly into the small gaps between the blades.
 
 <!-- source-p:086 -->
-There was a knife mark on his white, soft cheek.
+A blade had marked his soft, pale cheek.
 
 <!-- source-p:087 -->
-His soft waist and forearms were cut and torn all over.
+His waist and forearms were cut and torn.
 
 <!-- source-p:088 -->
 His knees were bruised, and his soft palms were already bloody.
 
 <!-- source-p:089 -->
-The child crawled forward, leaving a bloody path as he squeezed between the countless needles.
+The child crawled on, leaving a bloody trail between the countless blades.
 
 <!-- source-p:090 -->
-Everyone in the family was overwhelmed by the spirit of this child who was less than 100 days old.
+Everyone in the family was overwhelmed by the spirit of this child, only a hundred days old.
 
 <!-- source-p:091 -->
-It was the same with Hugo Le Baskerville, the head of Baskerville, the iron-blooded swordsman.
+Even Hugo Le Baskerville, head of the iron-blooded Baskerville family, was no exception.
 
 <!-- source-p:092 -->
 Before long, the child was completely out of the maze.
 
 <!-- source-p:093 -->
-His siblings were still trapped in the center of the cradle of the sword, unable to get out.
+His siblings were still trapped in the center of the Cradle of Swords, unable to escape.
 
 <!-- source-p:094 -->
-…With a plop!
+Plop!
 
 <!-- source-p:095 -->
 As soon as the child emerged from the cradle, he threw himself into the River Styx.
@@ -291,10 +293,10 @@ As soon as the child emerged from the cradle, he threw himself into the River St
 The river water started turning red.
 
 <!-- source-p:097 -->
-Hugo moved forward in an unusual way, clutching the railing with both hands.
+In an uncharacteristic display, Hugo stepped forward and gripped the railing with both hands.
 
 <!-- source-p:098 -->
-Seeing the cracks in the marble railing, the attendants widened their eyes.
+The attendants’ eyes widened as cracks appeared in the marble railing.
 
 <!-- source-p:099 -->
 They had never seen him so agitated; he usually showed no emotion in anything he did.
@@ -312,10 +314,10 @@ The child who had fallen into the River Styx still had not surfaced.
 Before long, several of the family’s guardian knights approached the River Styx and peered into it.
 
 <!-- source-p:104 -->
-The knights were immediately frightened.
+The knights cried out in alarm.
 
 <!-- source-p:105 -->
-“Sir, he is drinking the river water!”
+“Sir, the child is drinking the river water!”
 
 <!-- source-p:106 -->
-It was an answer that would make Hugo’s mouth turn into a grin.
+Hugo’s mouth fell open at the reply.

@@ -1,4 +1,4 @@
-"""Failure and conservation checks using the actual first reconstruction batch."""
+"""Failure and conservation checks using the current reconstruction batch."""
 import importlib.util
 import json
 from pathlib import Path
@@ -19,7 +19,9 @@ class DraftChecks(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
         for name in ('source/chapters/chapter-001.xhtml', 'editorial/edits/chapter-0001.json',
-                     'qa/chapter-0001.json', 'editorial/reconstruction-status.json'):
+                     'qa/chapter-0001.json', 'editorial/reconstruction-status.json',
+                     'source/korean/chapters/001.txt', 'editorial/korean-alignment/chapter-0001.json',
+                     'editorial/reviews/chapter-0001.md'):
             target = self.root / name
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(ROOT / name, target)
@@ -39,11 +41,10 @@ class DraftChecks(unittest.TestCase):
         outputs = builder.render(1)
         record = json.loads(outputs['editorial/provenance/chapter-0001.json'])
         self.assertEqual([p['paragraph'] for p in record['paragraphs']], list(range(1, 107)))
-        self.assertEqual(record['changed_paragraphs'], 41)
-        for number in (4, 7, 21, 22, 29, 36, 48, 51, 55, 63, 74, 82, 90, 106):
-            row = record['paragraphs'][number - 1]
-            self.assertEqual(row['source_text'], row['draft_text'])
-            self.assertTrue(row['open_issues'])
+        self.assertEqual(record['paragraphs'][16]['source_text'], record['paragraphs'][16]['draft_text'])
+        self.assertIn('CH001-01', record['paragraphs'][16]['open_issues'])
+        self.assertIn('CH001-06', record['paragraphs'][65]['open_issues'])
+        self.assertEqual(record['scene_breaks_after'], [18])
         self.assertIn('QA not accepted', outputs['manuscript/drafts/chapter-0001.md'])
         self.assertEqual(source.read_bytes(), before)
 
@@ -71,6 +72,22 @@ class DraftChecks(unittest.TestCase):
     def test_rejects_tracker_hiding_open_questions(self):
         self.change_json('editorial/reconstruction-status.json', lambda d: d['1'].update(open_issues=[]))
         with self.assertRaisesRegex(ValueError, 'disagrees with QA'):
+            builder.render(1)
+
+    def test_rejects_changed_korean_source(self):
+        path = self.root / 'source/korean/chapters/001.txt'
+        path.write_bytes(path.read_bytes() + b'\n')
+        with self.assertRaisesRegex(ValueError, 'alignment source mismatch'):
+            builder.render(1)
+
+    def test_rejects_omitted_korean_line(self):
+        self.change_json('editorial/korean-alignment/chapter-0001.json', lambda d: d['non_body_lines'].pop())
+        with self.assertRaisesRegex(ValueError, 'coverage omits or duplicates'):
+            builder.render(1)
+
+    def test_rejects_resolution_without_evidence(self):
+        self.change_json('qa/chapter-0001.json', lambda d: next(i for i in d['issues'] if i['status']=='resolved').update(evidence=[]))
+        with self.assertRaisesRegex(ValueError, 'requires a decision and evidence'):
             builder.render(1)
 
 

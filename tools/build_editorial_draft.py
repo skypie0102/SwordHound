@@ -24,6 +24,32 @@ def render(chapter):
     paragraphs = [''.join(p.itertext()) for p in body.findall('.//h:p', NS)]
     if len(paragraphs) != spec['expected_paragraphs']:
         raise ValueError('Source paragraph count changed')
+    alignment = None
+    korean_by_paragraph = {}
+    if spec.get('korean_alignment'):
+        alignment = json.loads((ROOT / spec['korean_alignment']).read_text(encoding='utf-8'))
+        korean = (ROOT / alignment['korean_source']).read_bytes()
+        lines = korean.decode('utf-8-sig').splitlines()
+        if alignment['chapter'] != chapter or alignment['mtl_source'] != spec['source'] or alignment['mtl_sha256'] != sha(source) or alignment['korean_sha256'] != sha(korean):
+            raise ValueError('Korean alignment source mismatch')
+        if len(lines) != alignment['line_count']:
+            raise ValueError('Korean line count mismatch')
+        if [p['mtl_paragraph'] for p in alignment['paragraphs']] != list(range(1, len(paragraphs)+1)):
+            raise ValueError('Korean alignment omits or duplicates an MTL paragraph')
+        accounted = [entry['line'] for entry in alignment['non_body_lines']]
+        for entry in alignment['paragraphs']:
+            numbers = entry['korean_lines']
+            if not numbers or any(not 1 <= n <= len(lines) for n in numbers):
+                raise ValueError('Invalid Korean line reference')
+            if entry['line_text_sha256'] != [sha(lines[n-1].encode()) for n in numbers]:
+                raise ValueError('Korean quoted-line hash mismatch')
+            accounted.extend(numbers)
+            korean_by_paragraph[entry['mtl_paragraph']] = numbers
+        if sorted(accounted) != list(range(1, len(lines)+1)):
+            raise ValueError('Korean coverage omits or duplicates a line')
+    scene_breaks = spec.get('scene_breaks_after', [])
+    if len(set(scene_breaks)) != len(scene_breaks) or any(not 1 <= n < len(paragraphs) for n in scene_breaks):
+        raise ValueError('Invalid scene-break placement')
     edits = {}
     for number, replacement, reason in spec['edits']:
         if number in edits or not 1 <= number <= len(paragraphs):
@@ -44,6 +70,12 @@ def render(chapter):
             raise ValueError('Invalid issue state or missing location')
         if any(not 1 <= n <= len(paragraphs) for n in issue['paragraphs']):
             raise ValueError('QA issue points outside source')
+        if issue['status'] == 'resolved':
+            if not issue.get('resolution') or not issue.get('evidence'):
+                raise ValueError('Resolved QA issue requires a decision and evidence')
+            for evidence in issue['evidence']:
+                if not (ROOT / evidence).is_file():
+                    raise ValueError(f'Missing QA resolution evidence: {evidence}')
     if qa['accepted'] and (any(i['status'] == 'open' for i in issues) or not qa.get('acceptance_evidence')):
         raise ValueError('QA acceptance requires closed issues and acceptance evidence')
     state = json.loads((ROOT / 'editorial/reconstruction-status.json').read_text(encoding='utf-8'))[str(chapter)]
@@ -59,14 +91,21 @@ def render(chapter):
     for number, original in enumerate(paragraphs, 1):
         replacement, reason = edits.get(number, (original, None))
         draft.append(f'<!-- source-p:{number:03d} -->\n{replacement}')
+        if number in scene_breaks:
+            draft.append('◆◆◆')
         rows.append({'paragraph': number, 'source_text_sha256': sha(original.encode()),
                      'draft_text_sha256': sha(replacement.encode()), 'source_text': original,
                      'draft_text': replacement, 'changed': original != replacement, 'rationale': reason,
                      'open_issues': [i['id'] for i in issues if i['status'] == 'open' and number in i['paragraphs']]})
+        if alignment:
+            rows[-1]['korean_lines'] = korean_by_paragraph[number]
     text = f'# Chapter {chapter}: {title}\n\n> Reconstruction draft — QA not accepted. See [review](../../{qa_path}). Paragraph markers refer to the unchanged source.\n\n' + '\n\n'.join(draft) + '\n'
     provenance = {'chapter': chapter, 'source': spec['source'], 'source_sha256': sha(source),
                   'draft': draft_path, 'draft_sha256': sha(text.encode()), 'paragraph_count': len(rows),
                   'changed_paragraphs': len(edits), 'paragraphs': rows}
+    provenance['scene_breaks_after'] = scene_breaks
+    if alignment:
+        provenance.update(korean_source=alignment['korean_source'], korean_sha256=alignment['korean_sha256'], korean_alignment=spec['korean_alignment'])
     return {draft_path: text, f'editorial/provenance/chapter-{chapter:04d}.json': json.dumps(provenance, ensure_ascii=False, indent=2) + '\n'}
 
 

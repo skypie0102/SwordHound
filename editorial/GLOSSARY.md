@@ -4,11 +4,11 @@ This is a new register seeded from recovered context. It is not the lost glossar
 
 | Term / topic | Working record | Evidence and scope |
 |---|---|---|
-| Vikir | Historical spelling; Van/van and Le/Re naming conventions provisional | Later production reports use Vikir. Chapter 1 has conflicting particles/case; CH001-02. |
-| Hugo Le Baskerville | Recovered English spelling; rank provisional | Chapter 1 says Marquis; the library preview has inconsistent names and a count title. CH001-02. |
+| Vikir Van Baskerville | Chapter 1 spelling/capitalization decision | Supplied Korean identifies Vikir with inconsistent transcriptions; MTL and Fandom character entry support this English spelling. Le/Re are retained neutrally; wider naming-system semantics remain provisional. See [Chapter 1 review](reviews/chapter-0001.md). |
+| Hugo Le Baskerville / Marquis | Chapter 1 spelling and title decision | MTL and Fandom Hugo entry agree on Marquis; supplied Korean count title is a recorded conflict. See [Chapter 1 review](reviews/chapter-0001.md). |
 | Baskerville family / House / Clan | Preserve contextual distinctions pending source review | Older audit lists variants, without establishing equivalence. |
-| Cradle of the swords / cradle of swords / cradle of the sword | Provisional ritual name | Chapter 1 variants remain pending CH001-05. |
-| River Styx | Recovered English river name | Chapter 1; verify mechanics, thought attribution, and metaphor before acceptance. |
+| Cradle of Swords | Chapter 1 ritual term | Korean ritual context, MTL variants and Fandom Vikir entry support this normalization; CH001-05 resolved. |
+| River Styx | Chapter 1 name retained | Hugo's thought attribution, finite shared power and milk metaphor reviewed. Exact mana/aura wording remains open under CH001-06. |
 | Highbro / Middlebro / Lowbro | Historical decision for Baskerville triplets | `Recovered-Editorial-Decisions.md`; do not rename unrelated siblings. |
 | Aiyen / Akwilla / Ballak / Ahun | Historical production spellings | Prior reports; confirm individual chapter references before application. |
 | Kirko | Ensign through 372; Lieutenant promotion pending, per latest historical report | `PROJECT_STATE.md`; supersedes an earlier conflicting rank report. Do not backfill the later rank. |

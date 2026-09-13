@@ -35,4 +35,6 @@ Direct automated opening of these URLs failed during registration on 2026-09-13 
 
 Neither importing the archive nor registering the wikis closes existing chapter QA. Chapter 1's nine issues remain open until reviewed using the newly available full Korean text and supporting evidence. The current renderer produces drafts; its acceptance tooling still needs extension before a final release.
 
+Subsequent Chapter 1 review has now resolved six of those nine issues; three remain open. Fandom character-page content was available through search retrieval for limited terminology checks, while Namu access still failed. See [the dated review record](reviews/chapter-0001.md) for actual sources consulted and decisions; the registration-time failures above remain historical observations.
+
 Run `python tools/verify_recovery.py` to check both preserved source sets. Run `python tools/rebuild_editorial_tracking.py` after source/status changes; each tracker entry states its review mode and whether a Korean file is available.

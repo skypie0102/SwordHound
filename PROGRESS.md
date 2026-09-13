@@ -2,6 +2,20 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-13 — Chapter 1 Korean comparison and second editing pass
+
+**Result:** six of nine QA items resolved; three remain open. Chapter 1 is not yet accepted for release.
+
+- Compared all 106 MTL paragraphs with the full supplied Korean chapter. Added checksum-linked alignment for all 116 Korean physical lines, with title duplicates and the scene break explicitly accounted for.
+- Expanded the English draft from 41 to 89 edited paragraphs while preserving the 106-paragraph MTL structure. Restored the source scene break after paragraph 18 as `◆◆◆`.
+- Resolved names/rank treatment, family-events/nanny wording, the contradictory age statements through explicit 100-day harmonization, ritual/thought/milk terminology, contextual sound effects, and the final open-mouthed reaction.
+- Used search-retrieved Fandom character-page content for narrowly scoped terminology checks. Namu opening remained unavailable; an English chapter mirror was not treated as independent confirmation of its near-identical MTL wording. Evidence and conflicts are cited in [the review record](editorial/reviews/chapter-0001.md).
+- Added [Chapter 1 continuity notes](editorial/continuity/chapter-0001.md), including the exact chapter endpoint and limits on importing later wiki revelations.
+- Extended draft verification to cover Korean source hashes, line mappings, complete line accounting, and written evidence for resolved issues. Added failure tests for changed Korean, omitted Korean lines, and unsupported issue closure.
+- Validation passed: both original source sets and all recovered artifacts, regenerated draft/provenance, regenerated tracker, all nine editorial tests, and Git whitespace checks. Original source files remain unchanged.
+
+**Remaining:** CH001-01 covers the family/fate and gritted-teeth/deep-thought differences; CH001-06 covers exact speech and mana/aura wording; CH001-09 covers final acceptance after those decisions. Keep the retained MTL readings provisional rather than claiming the wikis establish exact novel dialogue. Chapter 2 remains the next unstarted reconstruction chapter.
+
 ## 2026-09-13 — Korean sources and wiki QA policy restored
 
 The user supplied `001-054.zip` and clarified that Korean raws are unavailable after Chapter 54. The current policy supersedes any earlier plan that would wait for Korean throughout the project.

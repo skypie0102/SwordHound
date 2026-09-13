@@ -3,9 +3,9 @@
   "source": "source/chapters/chapter-001.xhtml",
   "source_sha256": "475fe7ffc331bc2a79255108ada508a811d104d6ec3101d2e8b9bd31aaf99382",
   "draft": "manuscript/drafts/chapter-0001.md",
-  "draft_sha256": "f67941637ac857a195bd0e3582aa3fe0380e011a57ab813fd3f087a5fcebb5b2",
+  "draft_sha256": "e1f7400169ac0e11a023fda05819b240e75d4e0f435d59074db98752a4f4243a",
   "paragraph_count": 106,
-  "changed_paragraphs": 41,
+  "changed_paragraphs": 89,
   "paragraphs": [
     {
       "paragraph": 1,
@@ -17,6 +17,9 @@
       "rationale": "Add missing terminal punctuation.",
       "open_issues": [
         "CH001-09"
+      ],
+      "korean_lines": [
+        4
       ]
     },
     {
@@ -27,7 +30,10 @@
       "draft_text": "The war between humans and demons had lasted for decades, leaving a terrifying record in the history books as the ‘Age of Destruction’.",
       "changed": true,
       "rationale": "Repair narrative tense and clause structure; retain the named era.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        5
+      ]
     },
     {
       "paragraph": 3,
@@ -37,63 +43,80 @@
       "draft_text": "And then came the day when humanity’s victory was written down in the books.",
       "changed": true,
       "rationale": "Repair the fragment and narrative tense without changing the chronology.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        6
+      ]
     },
     {
       "paragraph": 4,
       "source_text_sha256": "3b3ddf914abfee05b2689b6f6355925ef9c76bb39cc833a26896fc94df1be4f1",
-      "draft_text_sha256": "3b3ddf914abfee05b2689b6f6355925ef9c76bb39cc833a26896fc94df1be4f1",
+      "draft_text_sha256": "863b8373f074b21803ced9b24a6d5e46cd0adf3c5ad3a9bc8cce223767c6059a",
       "source_text": "A neck was hung at the front gate of the Baskervilles, famous for their iron-blooded swordsmen.",
-      "draft_text": "A neck was hung at the front gate of the Baskervilles, famous for their iron-blooded swordsmen.",
-      "changed": false,
-      "rationale": null,
+      "draft_text": "A head hung above the front gate of the Baskervilles, a family famed for its iron-blooded swordsmen.",
+      "changed": true,
+      "rationale": "K007 explicitly names a human head; repair the MTL neck mistranslation.",
       "open_issues": [
         "CH001-01"
+      ],
+      "korean_lines": [
+        7
       ]
     },
     {
       "paragraph": 5,
       "source_text_sha256": "4685d35686c6a5b6db281421c7bd7b8333821d15e7ef66a4403c2d4d81ec517b",
-      "draft_text_sha256": "4685d35686c6a5b6db281421c7bd7b8333821d15e7ef66a4403c2d4d81ec517b",
+      "draft_text_sha256": "07e55324048d0e031a32f1dcc0cd69784841f63d6eb4a642a08778a789a509e2",
       "source_text": "Vikir. ‘Vikir Van Baskerville’.",
-      "draft_text": "Vikir. ‘Vikir Van Baskerville’.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-02"
+      "draft_text": "Vikir. Vikir Van Baskerville.",
+      "changed": true,
+      "rationale": "K008/K010 identify the same name; use the Fandom entry spelling, removing redundant name quotation marks.",
+      "open_issues": [],
+      "korean_lines": [
+        8,
+        10
       ]
     },
     {
       "paragraph": 6,
       "source_text_sha256": "27ac0b9513ee30ab1838238c7737f2fd0efbaf599f57cf03d83b85cc27031616",
-      "draft_text_sha256": "27ac0b9513ee30ab1838238c7737f2fd0efbaf599f57cf03d83b85cc27031616",
+      "draft_text_sha256": "4faa4d4161e9869acf2f097c2d871a1aeec3762c1c8405321d4bf483963c5fc3",
       "source_text": "The illegitimate son of Hugo Le Baskerville, the head of the Baskerville family.",
-      "draft_text": "The illegitimate son of Hugo Le Baskerville, the head of the Baskerville family.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "The illegitimate son of Hugo Le Baskerville, head of the Baskerville family.",
+      "changed": true,
+      "rationale": "K011 and MTL establish parentage; retain the wiki-supported English name rather than the inconsistent Korean transcription.",
+      "open_issues": [],
+      "korean_lines": [
+        11
+      ]
     },
     {
       "paragraph": 7,
       "source_text_sha256": "2f40790028f1833bdaad141abc4b0902995796cdd41cd7e9074537386dfc491a",
-      "draft_text_sha256": "2f40790028f1833bdaad141abc4b0902995796cdd41cd7e9074537386dfc491a",
+      "draft_text_sha256": "f37a7e3b2f1064a4d42996f5471dc3eb877723e136b49ed7b6bd67161d2b2d31",
       "source_text": "The shadow that has been covered with countless blood on the back of the family.",
-      "draft_text": "The shadow that has been covered with countless blood on the back of the family.",
-      "changed": false,
-      "rationale": null,
+      "draft_text": "The family’s shadow, his hands stained with blood.",
+      "changed": true,
+      "rationale": "Preserve the MTL shadow metaphor; K012 supplies blood on his hands. The broken back-of-family phrase is not translated as a physical location.",
       "open_issues": [
         "CH001-01"
+      ],
+      "korean_lines": [
+        12
       ]
     },
     {
       "paragraph": 8,
       "source_text_sha256": "d9cdac88b6f439e35c845dc708f01bc26a5244b9468806a43b8d30fa5827b224",
-      "draft_text_sha256": "d9cdac88b6f439e35c845dc708f01bc26a5244b9468806a43b8d30fa5827b224",
+      "draft_text_sha256": "7b133382b3fcf85063419341b0e59aa15baff82b7a3b982bce7d16c2fceb9df5",
       "source_text": "It was the hound of the Baskervilles.",
-      "draft_text": "It was the hound of the Baskervilles.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "He was the hound of the Baskervilles.",
+      "changed": true,
+      "rationale": "K013 explicitly refers to Vikir; repair the MTL impersonal pronoun.",
+      "open_issues": [],
+      "korean_lines": [
+        13
+      ]
     },
     {
       "paragraph": 9,
@@ -103,7 +126,11 @@
       "draft_text": "Vikir struggled.",
       "changed": true,
       "rationale": "Add missing terminal punctuation.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        15,
+        16
+      ]
     },
     {
       "paragraph": 10,
@@ -113,7 +140,10 @@
       "draft_text": "He had always struggled.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        17
+      ]
     },
     {
       "paragraph": 11,
@@ -123,7 +153,10 @@
       "draft_text": "A bastard. The son of a concubine.",
       "changed": true,
       "rationale": "Fix capitalization and article; preserve the rhetorical fragments.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        18
+      ]
     },
     {
       "paragraph": 12,
@@ -133,20 +166,22 @@
       "draft_text": "That was why his middle name was ‘Van’.",
       "changed": true,
       "rationale": "Supply the missing predicate; spelling remains provisional.",
-      "open_issues": [
-        "CH001-02"
+      "open_issues": [],
+      "korean_lines": [
+        19
       ]
     },
     {
       "paragraph": 13,
       "source_text_sha256": "ce6648874fc0384589b434758ab5786e45b3776788365a13b6adffd54acd0701",
-      "draft_text_sha256": "6eefa60cc2c5ae3115663723680115bcfd5f81c1dcc28ff93b4439c0e8f3ce3a",
+      "draft_text_sha256": "2e101b0a1756151d2d8c3feb14ee5f3f4aafaf30d6507eb225efab6e1a09a885",
       "source_text": "He was not born with a surname such as ‘Le’ or ‘Re’, which his half-siblings in the main family received, and because of that, he had to work hundreds of times more than others.",
-      "draft_text": "He had not been born with a surname such as ‘Le’ or ‘Re’, which his half-siblings in the main family received. Because of that, he had to work hundreds of times harder than others.",
+      "draft_text": "Unlike his half-siblings in the main family, he had not been given ‘Le’ or ‘Re’. Because of that, he had to work hundreds of times harder than anyone else.",
       "changed": true,
-      "rationale": "Repair tense and comparative wording; retain source surname terminology pending review.",
-      "open_issues": [
-        "CH001-02"
+      "rationale": "K020/MTL establish a naming distinction. Preserve MTL spellings but avoid falsely defining them as surnames; the wider naming system is not locked here.",
+      "open_issues": [],
+      "korean_lines": [
+        20
       ]
     },
     {
@@ -157,7 +192,10 @@
       "draft_text": "But in the end, it was all for nothing.",
       "changed": true,
       "rationale": "Add introductory comma.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        21
+      ]
     },
     {
       "paragraph": 15,
@@ -167,18 +205,27 @@
       "draft_text": "Spying, assassination, kidnapping, blackmail, smuggling… For the sake of his family, he had carried out more than 500 dangerous missions, but in the end, they forsook him.",
       "changed": true,
       "rationale": "Repair mission collocation, tense, and punctuation; preserve quantity and activities.",
-      "open_issues": []
+      "open_issues": [
+        "CH001-01"
+      ],
+      "korean_lines": [
+        22
+      ]
     },
     {
       "paragraph": 16,
       "source_text_sha256": "349a556ebfe4fc3b07c487c3c02be6a972234394791f8972849de07140a60548",
-      "draft_text_sha256": "2cd82f4da4a51dd7798e30dc380f7e925cbb4bb96ad3b227beb7768a4449e654",
+      "draft_text_sha256": "52b33429b236ce3bb81a352329a8f6366df14c4eb07cf2c962836e8ba15fd899",
       "source_text": "The moment when he is accused of being a spy for the demons and executed along with an unfair false charge.",
-      "draft_text": "He was falsely accused of being a spy for the demons and executed.",
+      "draft_text": "Now he faced execution on a false charge of spying for the demons.",
       "changed": true,
-      "rationale": "Repair the fragment and redundant false-charge wording using the recovered English claim; accusation needs source review.",
+      "rationale": "K009 gives collusion as the accusation and K023 explicitly mentions being framed as a spy before execution. Repair the first draft’s premature completed-execution wording.",
       "open_issues": [
         "CH001-01"
+      ],
+      "korean_lines": [
+        9,
+        23
       ]
     },
     {
@@ -189,73 +236,91 @@
       "draft_text": "He gritted his teeth.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [
+        "CH001-01"
+      ],
+      "korean_lines": [
+        24
+      ]
     },
     {
       "paragraph": 18,
       "source_text_sha256": "98166b93284ea98c43f47a23c587d9da9b73f851967df7f66c5ed74fea0829ed",
-      "draft_text_sha256": "6b886a8c801bfd708a87bfb22ca2c18385f2be47e4846a611603e0a9222ce6a6",
+      "draft_text_sha256": "8150e416e28b76d334bb79d4da60b72cf35bb971e4bf1548dfef9ffc367f3567",
       "source_text": "He wanted to live",
-      "draft_text": "He wanted to live.",
+      "draft_text": "He wanted to live. To live again.",
       "changed": true,
-      "rationale": "Add missing terminal punctuation.",
-      "open_issues": []
+      "rationale": "K025-K026 explicitly repeat the desire to live, then to live again.",
+      "open_issues": [],
+      "korean_lines": [
+        25,
+        26
+      ]
     },
     {
       "paragraph": 19,
       "source_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
-      "draft_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
+      "draft_text_sha256": "a2a6e02790b9b1c16bf65b6d23f1df75f32b45ff69df2c8ac25f1a90baeb9486",
       "source_text": "Aye- Aye- Aye-",
-      "draft_text": "Aye- Aye- Aye-",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-07"
+      "draft_text": "Waa—waa—waa—",
+      "changed": true,
+      "rationale": "K028 and MTL identify a baby cry; deliberate English sound-effect localization, not a literal phonetic transcription.",
+      "open_issues": [],
+      "korean_lines": [
+        28
       ]
     },
     {
       "paragraph": 20,
       "source_text_sha256": "4940de70906595e651f806c5309a5b2b6c6e487571f69ed03c09a969c7245b48",
-      "draft_text_sha256": "4940de70906595e651f806c5309a5b2b6c6e487571f69ed03c09a969c7245b48",
+      "draft_text_sha256": "3e21932c691e448879441581a8014400d7afcdd29da695438d08ae5eec40a5c1",
       "source_text": "A baby’s cry echoed throughout the large room.",
-      "draft_text": "A baby’s cry echoed throughout the large room.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "A baby’s cry echoed through the large room.",
+      "changed": true,
+      "rationale": "English line edit; K029 confirms the nursery sound. Retain the MTL singular focal cry.",
+      "open_issues": [],
+      "korean_lines": [
+        29
+      ]
     },
     {
       "paragraph": 21,
       "source_text_sha256": "a033254b49e48124f102db91c572ee28b766776e909aa52d67eea01c54720963",
-      "draft_text_sha256": "a033254b49e48124f102db91c572ee28b766776e909aa52d67eea01c54720963",
+      "draft_text_sha256": "6d663a6fae2b4227af04396b72229ae7851a1c92f1d32ac08e79efaaf7a8a2fa",
       "source_text": "The iron-blooded swordsman, the Baskerville family, had dozens of layers of slopes.",
-      "draft_text": "The iron-blooded swordsman, the Baskerville family, had dozens of layers of slopes.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-03"
+      "draft_text": "The Baskerville family was celebrating a series of happy events.",
+      "changed": true,
+      "rationale": "K030 supports happy events; do not apply the historical audit’s unsupported collateral-branches interpretation.",
+      "open_issues": [],
+      "korean_lines": [
+        30
       ]
     },
     {
       "paragraph": 22,
       "source_text_sha256": "cdd208a46a80333dfeccbfda5808aead03ab73f6fd1138141eb3ea4a257f402c",
-      "draft_text_sha256": "cdd208a46a80333dfeccbfda5808aead03ab73f6fd1138141eb3ea4a257f402c",
+      "draft_text_sha256": "f443f8631f5b6567334d32448c46de822fc569223a8f62893ffb2f3e06b9fb21",
       "source_text": "The head of the house, the Marquis Hugo Le Baskerville, raised a nonchalant eye and scanned the children born this year.",
-      "draft_text": "The head of the house, the Marquis Hugo Le Baskerville, raised a nonchalant eye and scanned the children born this year.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-02"
+      "draft_text": "The head of the family, Marquis Hugo Le Baskerville, surveyed the children born that year with an indifferent gaze.",
+      "changed": true,
+      "rationale": "K031 supports the action. MTL and the Fandom Hugo entry agree on Marquis; choose that over the supplied Korean count title and record the conflict.",
+      "open_issues": [],
+      "korean_lines": [
+        31
       ]
     },
     {
       "paragraph": 23,
       "source_text_sha256": "b178563a1090a0560d35cf4c0c73c48b66b46922e1d30389969d19f4d6fbfc93",
-      "draft_text_sha256": "b178563a1090a0560d35cf4c0c73c48b66b46922e1d30389969d19f4d6fbfc93",
+      "draft_text_sha256": "b05f704b284728611e6f8b7796737d62ad97d1f01d0cfc82a974a9ef1556e025",
       "source_text": "“There aren’t any guys that look useful.”",
-      "draft_text": "“There aren’t any guys that look useful.”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "“Not one of them looks useful.”",
+      "changed": true,
+      "rationale": "K032/MTL both give a dismissive assessment; naturalize the MTL wording without importing a different speech.",
+      "open_issues": [],
+      "korean_lines": [
+        32
+      ]
     },
     {
       "paragraph": 24,
@@ -265,7 +330,10 @@
       "draft_text": "It was a harsh first assessment for a father to make of his children born that year.",
       "changed": true,
       "rationale": "Repair English clause order and temporal reference.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        33
+      ]
     },
     {
       "paragraph": 25,
@@ -275,7 +343,10 @@
       "draft_text": "… At that moment.",
       "changed": true,
       "rationale": "Normalize ellipsis; retain transition as a deliberate fragment.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        34
+      ]
     },
     {
       "paragraph": 26,
@@ -285,40 +356,48 @@
       "draft_text": "As Hugo passed the cribs in the nursery, he stopped at one of them.",
       "changed": true,
       "rationale": "Repair awkward location wording using the cribs already named.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        35
+      ]
     },
     {
       "paragraph": 27,
       "source_text_sha256": "d0384d09cc6f6a630714fa68382780a90637bcf59c36697ade0597c5f12466ee",
-      "draft_text_sha256": "d0384d09cc6f6a630714fa68382780a90637bcf59c36697ade0597c5f12466ee",
+      "draft_text_sha256": "07e55324048d0e031a32f1dcc0cd69784841f63d6eb4a642a08778a789a509e2",
       "source_text": "Vikir. Vikir van Baskerville.",
-      "draft_text": "Vikir. Vikir van Baskerville.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-02"
+      "draft_text": "Vikir. Vikir Van Baskerville.",
+      "changed": true,
+      "rationale": "K036 and the Fandom character entry support consistent name spelling/capitalization.",
+      "open_issues": [],
+      "korean_lines": [
+        36
       ]
     },
     {
       "paragraph": 28,
       "source_text_sha256": "ee7930d5716f44b6de74458ab5f5d7c87cb81360641f7d401bf7a6390f1c7461",
-      "draft_text_sha256": "ee7930d5716f44b6de74458ab5f5d7c87cb81360641f7d401bf7a6390f1c7461",
+      "draft_text_sha256": "c19f1a29ad9648a106c2d164556ef7a7ac0b7eca116e99502f4104a5674c5224",
       "source_text": "Originally, an illegitimate child who did not even deserve to be here.",
-      "draft_text": "Originally, an illegitimate child who did not even deserve to be here.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "An illegitimate child who should never have been here.",
+      "changed": true,
+      "rationale": "K037 confirms exclusion; repair the fragment’s literal introductory wording while retaining its rhetorical form.",
+      "open_issues": [],
+      "korean_lines": [
+        37
+      ]
     },
     {
       "paragraph": 29,
       "source_text_sha256": "71fb5810085738c937278d9fc8533c867f3a5f3ca5bcdc55f6240b919efbf0e6",
-      "draft_text_sha256": "71fb5810085738c937278d9fc8533c867f3a5f3ca5bcdc55f6240b919efbf0e6",
+      "draft_text_sha256": "ea06c6d25ffb0562727294eb1f2a24a5a80766901c791a6c8468fdb339e462b4",
       "source_text": "Unlike the other siblings who are almost 6 to 8 months old, a being who has just entered this room after having just completed 100 days.",
-      "draft_text": "Unlike the other siblings who are almost 6 to 8 months old, a being who has just entered this room after having just completed 100 days.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-04"
+      "draft_text": "His siblings were already six to eight months old. He had only just reached a hundred days when he was brought into this room.",
+      "changed": true,
+      "rationale": "K038 and MTL agree on 100 days here. The contradiction at K100/MTL90 is explicitly harmonized to this established age; see CH001-04.",
+      "open_issues": [],
+      "korean_lines": [
+        38
       ]
     },
     {
@@ -329,7 +408,10 @@
       "draft_text": "The baby wasn’t crying.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        39
+      ]
     },
     {
       "paragraph": 31,
@@ -339,17 +421,23 @@
       "draft_text": "He just lay still with his eyes closed, as if he were dead.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        40
+      ]
     },
     {
       "paragraph": 32,
       "source_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
-      "draft_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
+      "draft_text_sha256": "063cb34fad7582c34dfbc441f090c39369356befe94d63a1809d0e0dda02872d",
       "source_text": "“…….”",
-      "draft_text": "“…….”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "“…”",
+      "changed": true,
+      "rationale": "K041 uses a single ellipsis for silence; normalize punctuation.",
+      "open_issues": [],
+      "korean_lines": [
+        41
+      ]
     },
     {
       "paragraph": 33,
@@ -359,7 +447,10 @@
       "draft_text": "Hugo looked at Vikir, and his expression softened a little.",
       "changed": true,
       "rationale": "Use idiomatic wording for the stated change in expression.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        42
+      ]
     },
     {
       "paragraph": 34,
@@ -369,7 +460,10 @@
       "draft_text": "It was not because he was pleased that Vikir’s qualities seemed superior to those of his other offspring.",
       "changed": true,
       "rationale": "Repair tense; preserve the denial rather than asserting superiority.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        43
+      ]
     },
     {
       "paragraph": 35,
@@ -379,30 +473,35 @@
       "draft_text": "He merely thought that if all he had before him was garbage anyway, it would be better to have garbage that was a little less noisy.",
       "changed": true,
       "rationale": "Repair clause structure while retaining Hugo’s contempt and comparison.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        44
+      ]
     },
     {
       "paragraph": 36,
       "source_text_sha256": "777d021fdfe69c96c295db6aeded3ca2efb9445703ad72265a9de0cb02e42452",
-      "draft_text_sha256": "777d021fdfe69c96c295db6aeded3ca2efb9445703ad72265a9de0cb02e42452",
+      "draft_text_sha256": "f349f11ca8507df1a771139751f1e7f4c90090574e4508ffc48af22315d7db78",
       "source_text": "Eventually, Hugo spoke to dozens of nannies in the city behind him.",
-      "draft_text": "Eventually, Hugo spoke to dozens of nannies in the city behind him.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-03"
+      "draft_text": "After a while, Hugo addressed the dozens of nannies standing behind him.",
+      "changed": true,
+      "rationale": "K045 explicitly says standing behind him; remove the spurious city.",
+      "open_issues": [],
+      "korean_lines": [
+        45
       ]
     },
     {
       "paragraph": 37,
       "source_text_sha256": "7454dcd402f9bf3d3c1c478db5f35098970419ba27939c8c515dde666938fda6",
-      "draft_text_sha256": "7454dcd402f9bf3d3c1c478db5f35098970419ba27939c8c515dde666938fda6",
+      "draft_text_sha256": "816f88a7b31712f3caf2ca8cae63bad4938004c9fa9f85613da2d51de15be354",
       "source_text": "“Move the children to the ‘Cradle of the swords’.”",
-      "draft_text": "“Move the children to the ‘Cradle of the swords’.”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "“Move the children to the Cradle of Swords.”",
+      "changed": true,
+      "rationale": "K046 identifies the ritual; the Fandom Vikir entry corroborates the English term. Preserve a direct command.",
+      "open_issues": [],
+      "korean_lines": [
+        46
       ]
     },
     {
@@ -413,7 +512,10 @@
       "draft_text": "The children of the Baskervilles are put to the test from the moment they are born.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        47
+      ]
     },
     {
       "paragraph": 39,
@@ -423,7 +525,10 @@
       "draft_text": "From the cradle to the grave.",
       "changed": true,
       "rationale": "Supply missing article.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        48
+      ]
     },
     {
       "paragraph": 40,
@@ -433,134 +538,166 @@
       "draft_text": "The first of these tests began right away.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        49
+      ]
     },
     {
       "paragraph": 41,
       "source_text_sha256": "1aac6d930a28b5d3eaf1d7fa1b051bbec0ec43baceb83445f91a57f663c5a632",
-      "draft_text_sha256": "1aac6d930a28b5d3eaf1d7fa1b051bbec0ec43baceb83445f91a57f663c5a632",
+      "draft_text_sha256": "a21e4f7e523007e7c9b5da186a798c536424ffdfac1ac9cde78fb7c032a75ab7",
       "source_text": "……What is the cradle of swords?",
-      "draft_text": "……What is the cradle of swords?",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "… What was the Cradle of Swords?",
+      "changed": true,
+      "rationale": "K050 rhetorical question; normalize the ritual term and transition punctuation.",
+      "open_issues": [],
+      "korean_lines": [
+        50
       ]
     },
     {
       "paragraph": 42,
       "source_text_sha256": "a1fd1db92e03f1481797cdd74f51602ced8b82605a65f38c3a452a9bd2e13025",
-      "draft_text_sha256": "a1fd1db92e03f1481797cdd74f51602ced8b82605a65f38c3a452a9bd2e13025",
+      "draft_text_sha256": "e6041364bb3dce850621657de22f99575e7fa68177fa98e291419fdd17916172",
       "source_text": "It is a unique rite of passage for the Baskervilles.",
-      "draft_text": "It is a unique rite of passage for the Baskervilles.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "It was a rite of passage unique to the Baskervilles.",
+      "changed": true,
+      "rationale": "Retain MTL rite of passage rather than literal coming-of-age ceremony, which would misstate an infant trial.",
+      "open_issues": [],
+      "korean_lines": [
+        51
+      ]
     },
     {
       "paragraph": 43,
       "source_text_sha256": "031d99d07ace1f8e25ce81a68b93dbed69a4cb2cf4e3c05a82ab402c9972d2e4",
-      "draft_text_sha256": "031d99d07ace1f8e25ce81a68b93dbed69a4cb2cf4e3c05a82ab402c9972d2e4",
+      "draft_text_sha256": "3ea6c05f17ffc4bb6c36b1cf8b87fe3b3348d581f268077ab5abcb3860c23043",
       "source_text": "Countless knives are planted like a maze on a round hill and a baby is dropped in the middle.",
-      "draft_text": "Countless knives are planted like a maze on a round hill and a baby is dropped in the middle.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "Countless blades were planted in a maze on a small, round hill, and a baby was placed in the middle.",
+      "changed": true,
+      "rationale": "K052 supplies small circular hill and placement; MTL supplies the maze, confirmed in K053.",
+      "open_issues": [],
+      "korean_lines": [
+        52
+      ]
     },
     {
       "paragraph": 44,
       "source_text_sha256": "fce31aa1fe85455c2c32e5ca127097ab8a18a12aab860ca61482cddb883308db",
-      "draft_text_sha256": "8ccacb4009fd48bb0a74e2466d17d7eae54bb93cf360b86b2427914d77bd9533",
+      "draft_text_sha256": "c9381125ba5eb857c87f34362eaf633a53665bfd7ba657123a72be372575c63e",
       "source_text": "The baby is trapped in the maze created by the blade and wandered through it.",
-      "draft_text": "The baby is trapped in the maze of blades and wanders through it.",
+      "draft_text": "The baby was trapped in a maze of blades.",
       "changed": true,
-      "rationale": "Use consistent present tense for the general description and plural blades.",
-      "open_issues": []
+      "rationale": "K053; use narrative past tense for this extended explanatory passage.",
+      "open_issues": [],
+      "korean_lines": [
+        53
+      ]
     },
     {
       "paragraph": 45,
       "source_text_sha256": "721dabb96564c4c2f3a5967a766e913cf4721a4bba96fe8c05cb2df725bee7fe",
-      "draft_text_sha256": "c67656c5252d5b5fea0ef3207fdc20d228105489cef1d5f8da1c90c2a41cb294",
+      "draft_text_sha256": "296bf0dee355d224f43612cb696207a4cd67f85ce436fc612aa5735b6f298c22",
       "source_text": "Even if it moves, he get cut by the blades all over his body.",
-      "draft_text": "Every movement leaves the baby with cuts from the blades.",
+      "draft_text": "Even the slightest movement would leave the baby covered in cuts.",
       "changed": true,
-      "rationale": "Repair subject and verb agreement without alternating pronouns.",
-      "open_issues": []
+      "rationale": "K054 explicitly describes small movements causing blade wounds; maintain the conditional consequence.",
+      "open_issues": [],
+      "korean_lines": [
+        54
+      ]
     },
     {
       "paragraph": 46,
       "source_text_sha256": "9eaa2a4682355038c2ad048381be2464d2ca012aac2d6bb762a57ec813a5c7df",
-      "draft_text_sha256": "9eaa2a4682355038c2ad048381be2464d2ca012aac2d6bb762a57ec813a5c7df",
+      "draft_text_sha256": "d5954ec4239d6108ba39aef6c71da7be7fb27fe86b8535aa73bd7289c730d5ee",
       "source_text": "In this environment, babies have to crawl on the floor and through a labyrinth of needles.",
-      "draft_text": "In this environment, babies have to crawl on the floor and through a labyrinth of needles.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "To escape, the baby had to crawl through the maze of blades.",
+      "changed": true,
+      "rationale": "K055 establishes escape by crawling; repair the floor-and-needles wording.",
+      "open_issues": [],
+      "korean_lines": [
+        55
+      ]
     },
     {
       "paragraph": 47,
       "source_text_sha256": "abdc88c70dd58fabf6692d55b461827f88dfe0c9e6c562ee1167528b7cce52d4",
-      "draft_text_sha256": "abdc88c70dd58fabf6692d55b461827f88dfe0c9e6c562ee1167528b7cce52d4",
+      "draft_text_sha256": "c1e8e3a8690af2965fcc6774fdb56c41d63a145d2834661116020baf706d5cdf",
       "source_text": "It is only when you immerse yourself in the river ‘Styx’ outside of the labyrinth that you become a Baskerville in its true sense.",
-      "draft_text": "It is only when you immerse yourself in the river ‘Styx’ outside of the labyrinth that you become a Baskerville in its true sense.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "Only upon entering the River Styx, which encircled the maze, would the child truly become a Baskerville.",
+      "changed": true,
+      "rationale": "K056 specifies the river’s location and the criterion for acceptance; stabilize narrative viewpoint.",
+      "open_issues": [],
+      "korean_lines": [
+        56
+      ]
     },
     {
       "paragraph": 48,
       "source_text_sha256": "a5d30bf5879ec667962d609821231e0c8968e222d658daf97f9906351cf67047",
-      "draft_text_sha256": "a5d30bf5879ec667962d609821231e0c8968e222d658daf97f9906351cf67047",
+      "draft_text_sha256": "d7a42f97a7dab7bb93c0e025b130705da3ebc5c08c00d5af12d23c49c124ae11",
       "source_text": "‘The Styx water is only effective for children under one year of age. If you soak your body in this river, your whole body becomes as hard as steel.’",
-      "draft_text": "‘The Styx water is only effective for children under one year of age. If you soak your body in this river, your whole body becomes as hard as steel.’",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "Hugo Le Baskerville thought, ‘The waters of the Styx work only on children under a year old. A child who bathes in this river gains a body as hard as steel.’",
+      "changed": true,
+      "rationale": "K057 explicitly attributes the thought to Hugo; K058 supplies its content. Restore attribution within the existing paragraph.",
+      "open_issues": [],
+      "korean_lines": [
+        57,
+        58
       ]
     },
     {
       "paragraph": 49,
       "source_text_sha256": "2d403cacfdd0cef91ec8b55a491c945ad6bc985efe1da3413f4ef429be9706aa",
-      "draft_text_sha256": "2d403cacfdd0cef91ec8b55a491c945ad6bc985efe1da3413f4ef429be9706aa",
+      "draft_text_sha256": "7c180b7a73dcc5f784daa12f0df78dd8d8162ce3406cf964cf74cff670a35052",
       "source_text": "Of course, the power of this river is not infinite.",
-      "draft_text": "Of course, the power of this river is not infinite.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "Of course, the river’s power was not infinite.",
+      "changed": true,
+      "rationale": "K059/MTL agree; align narrative tense.",
+      "open_issues": [],
+      "korean_lines": [
+        59
+      ]
     },
     {
       "paragraph": 50,
       "source_text_sha256": "e5740386bd2cc68bdb3fbee3b603c1d1717e5fc31f9fdbe2afec168a7cb44a28",
-      "draft_text_sha256": "48edb335660a8f73d46891105ea04d71d39677b7f2c0c0d70a5b8910391b78c8",
+      "draft_text_sha256": "a00132f7a60bdee0c4c46d95d085ffb173dd9aad1ae5fbbdfa3f75b9eb71eb73",
       "source_text": "If one baby sucks up most of her power, the other sucks in relatively less since the power remaining is lesser.",
-      "draft_text": "If one baby absorbs most of the river’s power, another receives relatively less because less power remains.",
+      "draft_text": "If one baby absorbed much of the river’s power, less would remain for the others.",
       "changed": true,
-      "rationale": "Replace the inconsistent river pronoun and repair comparison; preserve finite power distribution.",
-      "open_issues": []
+      "rationale": "K060/MTL describe a finite shared resource; repair pronouns and keep the conditional distribution.",
+      "open_issues": [],
+      "korean_lines": [
+        60
+      ]
     },
     {
       "paragraph": 51,
       "source_text_sha256": "bad43a71f088ac6f0888ae7a7f869c8f825e62048eedd20ece07b1939fd1fa35",
-      "draft_text_sha256": "bad43a71f088ac6f0888ae7a7f869c8f825e62048eedd20ece07b1939fd1fa35",
+      "draft_text_sha256": "91b568a9234b3bc3275e5bd1e2af8420670a8a96c887842e6ef5df3e4ec60569",
       "source_text": "It’s like her mother’s lifeline.",
-      "draft_text": "It’s like her mother’s lifeline.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "Like a mother’s milk.",
+      "changed": true,
+      "rationale": "K061 explicitly says mother’s milk; replace the lifeline mistranslation.",
+      "open_issues": [],
+      "korean_lines": [
+        61
       ]
     },
     {
       "paragraph": 52,
       "source_text_sha256": "5d083709e04c8a736b997ce27fa7e70478bf73f57d7cc228e33f8bd41f7a4f34",
-      "draft_text_sha256": "5d083709e04c8a736b997ce27fa7e70478bf73f57d7cc228e33f8bd41f7a4f34",
+      "draft_text_sha256": "885ea234d0864979c21688a970f0844539e25ad42233dd89ee767730c2660322",
       "source_text": "The children of the Baskervilles were now thrown into the cradle of the sword.",
-      "draft_text": "The children of the Baskervilles were now thrown into the cradle of the sword.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "The children of the Baskerville family were now thrown into the Cradle of Swords.",
+      "changed": true,
+      "rationale": "K062/MTL; normalize the ritual name without treating knife/sword variants as separate trials.",
+      "open_issues": [],
+      "korean_lines": [
+        62
       ]
     },
     {
@@ -571,53 +708,64 @@
       "draft_text": "Who would be the first to escape this labyrinth and jump into the river? That would determine the future of these children.",
       "changed": true,
       "rationale": "Remove duplicated first and align narration with past tense.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        63
+      ]
     },
     {
       "paragraph": 54,
       "source_text_sha256": "7ca80163b15633830884bbd6f0ae1ce6ff5027b42d28afd622ca5708a4195a88",
-      "draft_text_sha256": "50960dc133cdc3436bcc1bbbdfb9157f5eeb93649f89da50e2728d741c77a623",
+      "draft_text_sha256": "9693b225c99e08bf3874c756c6db0aedbd16f18d1995d8d82fe4e6da9679813c",
       "source_text": "Thirty-two children born this year, including all of the family’s rightful sons, bastards, and cousins, compete with each other in the middle of the cradle of swords.",
-      "draft_text": "Thirty-two children born that year, including all of the family’s rightful sons, bastards, and cousins, competed in the middle of the cradle of swords.",
+      "draft_text": "Thirty-two children born that year, including the family’s legitimate sons, bastards, and cousins, competed in the Cradle of Swords.",
       "changed": true,
-      "rationale": "Align narrative tense; preserve participants and number.",
-      "open_issues": [
-        "CH001-05"
+      "rationale": "K064 confirms the number and groups; use idiomatic legitimate rather than rightful and the established ritual term.",
+      "open_issues": [],
+      "korean_lines": [
+        64
       ]
     },
     {
       "paragraph": 55,
       "source_text_sha256": "950e598b4d37fd5a1347ccb8f4850d31508be4b2c3411f9c5a897f6212f6240e",
-      "draft_text_sha256": "950e598b4d37fd5a1347ccb8f4850d31508be4b2c3411f9c5a897f6212f6240e",
+      "draft_text_sha256": "481b1e774a7cce8e5e95e81dc3b2877a108e35ba744418304da437f9a760beff",
       "source_text": "The blades, densely packed with tracks for the children to the go through and become the sharpest of thorns.",
-      "draft_text": "The blades, densely packed with tracks for the children to the go through and become the sharpest of thorns.",
-      "changed": false,
-      "rationale": null,
+      "draft_text": "The blades formed a spiral maze, a path of sharp thorns for the children to crawl through.",
+      "changed": true,
+      "rationale": "K065 supplies spiral arrangement and the thorn-path metaphor; MTL84 independently confirms the spiral layout. This resolves layout without adding new obstacles.",
       "open_issues": [
         "CH001-06"
+      ],
+      "korean_lines": [
+        65
       ]
     },
     {
       "paragraph": 56,
       "source_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
-      "draft_text_sha256": "32d9fe323b48b1d79bc6d94bc77a301abca53644b2c9daa45c4fe45f16372c0c",
+      "draft_text_sha256": "a2a6e02790b9b1c16bf65b6d23f1df75f32b45ff69df2c8ac25f1a90baeb9486",
       "source_text": "Aye- Aye- Aye-",
-      "draft_text": "Aye- Aye- Aye-",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-07"
+      "draft_text": "Waa—waa—waa—",
+      "changed": true,
+      "rationale": "K066-K067 and surrounding MTL describe crying infants; localize consistently with paragraph 19.",
+      "open_issues": [],
+      "korean_lines": [
+        66
       ]
     },
     {
       "paragraph": 57,
       "source_text_sha256": "451a2aee50a5edea7170193cad8d181c605522c9b06a84ea252dc0d7525e10c5",
-      "draft_text_sha256": "38b9e5c9a2849e40b532ae2ee8ee2e3403344b3bd675c26d1e7a7e8c3ba6c2d2",
+      "draft_text_sha256": "4416410bc6211601ca046a14ef320ef869e535fb59bc9a8358acf83946741d62",
       "source_text": "A baby who cried looking for a babysitter, while another was already crawling, he was bleeding from being cut by the blades, and another one who sat down and sucking his finger as he had no intention of escaping yet…… Babies are usually like that.",
-      "draft_text": "One baby cried for a babysitter. Another was already crawling, bleeding from cuts inflicted by the blades. Another sat sucking his finger, showing no intention of escaping yet… Babies are usually like that.",
+      "draft_text": "Some babies cried for their nannies. Others were already crawling, while some bled from cuts inflicted by the blades. Still others lay sucking their fingers, showing no intention of escaping yet… Babies were usually like that.",
       "changed": true,
-      "rationale": "Repair subject coordination and verb forms; preserve all three described responses.",
-      "open_issues": []
+      "rationale": "K067 separates the infant reactions into groups. Retain all reactions and use its explicit lying position instead of MTL sitting.",
+      "open_issues": [],
+      "korean_lines": [
+        67
+      ]
     },
     {
       "paragraph": 58,
@@ -627,7 +775,10 @@
       "draft_text": "In fact, since these babies were less than a year old, this was only natural.",
       "changed": true,
       "rationale": "Repair narrative tense and literal result phrasing.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        68
+      ]
     },
     {
       "paragraph": 59,
@@ -637,7 +788,10 @@
       "draft_text": "However.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        69
+      ]
     },
     {
       "paragraph": 60,
@@ -647,7 +801,10 @@
       "draft_text": "“Useless.”",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        70
+      ]
     },
     {
       "paragraph": 61,
@@ -657,28 +814,37 @@
       "draft_text": "Hugo Le Baskerville’s assessment was terribly cold.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        71
+      ]
     },
     {
       "paragraph": 62,
       "source_text_sha256": "31851e057112babba57eebf16f778dcb5ce6cf6f1b7b34544d17bc389c2ca84c",
-      "draft_text_sha256": "31851e057112babba57eebf16f778dcb5ce6cf6f1b7b34544d17bc389c2ca84c",
+      "draft_text_sha256": "a2edcf08e3b180526fbb4ff1a073d484864097c6a071bc27622d035e45baea3d",
       "source_text": "A small, fragile creature. A creature that cannot survive without the help of others.",
-      "draft_text": "A small, fragile creature. A creature that cannot survive without the help of others.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "Small, fragile creatures. Creatures that could not survive without help.",
+      "changed": true,
+      "rationale": "K072/MTL describe dependent infants; align number and narrative tense.",
+      "open_issues": [],
+      "korean_lines": [
+        72
+      ]
     },
     {
       "paragraph": 63,
       "source_text_sha256": "3e0c2a529e4dd2cc5f9851a86d2550a8cdac1a94fc0f507d063f2d34d3c809f4",
-      "draft_text_sha256": "3e0c2a529e4dd2cc5f9851a86d2550a8cdac1a94fc0f507d063f2d34d3c809f4",
+      "draft_text_sha256": "8895fea3c207de288238fd6273333cb79448dfb04d5816777599ba4d8b8b0069",
       "source_text": "There was contempt in Hugo’s gaze at the human body.",
-      "draft_text": "There was contempt in Hugo’s gaze at the human body.",
-      "changed": false,
-      "rationale": null,
+      "draft_text": "Hugo looked at the babies with contempt.",
+      "changed": true,
+      "rationale": "K073 explicitly directs his contemptuous gaze at the babies; remove the unstable human-body wording.",
       "open_issues": [
         "CH001-06"
+      ],
+      "korean_lines": [
+        73
       ]
     },
     {
@@ -689,18 +855,22 @@
       "draft_text": "Even his own children were no exception.",
       "changed": true,
       "rationale": "Remove accidental second-person shift in narration.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        74
+      ]
     },
     {
       "paragraph": 65,
       "source_text_sha256": "9efe0198bb4a3d30dc896fef106af34dbae5abb1afc2b7ab3d233246b57d5f8c",
-      "draft_text_sha256": "9efe0198bb4a3d30dc896fef106af34dbae5abb1afc2b7ab3d233246b57d5f8c",
+      "draft_text_sha256": "8fc96725a5cafc642f3aec5e7a353d1712ef2459d7de9b3afd2fffde8964e41b",
       "source_text": "Being one of the seven best swordsmen on the continent, he was famous for being an iron man from birth.",
-      "draft_text": "Being one of the seven best swordsmen on the continent, he was famous for being an iron man from birth.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-02"
+      "draft_text": "One of the seven greatest swordsmen on the continent, he was said to have been a man of iron from birth.",
+      "changed": true,
+      "rationale": "Retain the MTL count and description; K075 supports renown and reported iron-blooded temperament. Do not turn this into a new named rank or equate it with the wiki’s seven pillars.",
+      "open_issues": [],
+      "korean_lines": [
+        75
       ]
     },
     {
@@ -713,18 +883,22 @@
       "rationale": "Add quotation punctuation only; the disputed speech remains unchanged in meaning.",
       "open_issues": [
         "CH001-06"
+      ],
+      "korean_lines": [
+        76
       ]
     },
     {
       "paragraph": 67,
       "source_text_sha256": "eff8fb9ccbdd6a556c356cc9066e88bf2e3b6948deabe1171a6768ab99d3c6f0",
-      "draft_text_sha256": "eff8fb9ccbdd6a556c356cc9066e88bf2e3b6948deabe1171a6768ab99d3c6f0",
+      "draft_text_sha256": "defde7ddd05547c4673174b73ec61010d059cfd33bb93103694aaa1ae31cbaba",
       "source_text": "Hugo stood high and looked at the waters of the Styx, which flowed around the cradle of the sword, and lamented.",
-      "draft_text": "Hugo stood high and looked at the waters of the Styx, which flowed around the cradle of the sword, and lamented.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "Hugo stood above the Cradle of Swords, gazing at the waters of the Styx that encircled it, and sighed.",
+      "changed": true,
+      "rationale": "K077 supplies elevated viewpoint, surrounding river, and sigh; normalize the ritual name.",
+      "open_issues": [],
+      "korean_lines": [
+        77
       ]
     },
     {
@@ -735,79 +909,105 @@
       "draft_text": "The secret river, which flows only in the Holy Land of the Baskerville family, has the effect of increasing mana, purifying one’s aura, and making one’s body as tough and hard as steel just by soaking one’s body.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [
+        "CH001-06"
+      ],
+      "korean_lines": [
+        78
+      ]
     },
     {
       "paragraph": 69,
       "source_text_sha256": "b28900dfb26b91e3e77c4f0f0a97bced72fc84969c2a86319fd56f11529bd312",
-      "draft_text_sha256": "cf44fab6ecf8b9a7aa60fdcb75822a7726ef82368add17cd8d3f7e74da140eed",
+      "draft_text_sha256": "39124a5562c807f59ee86a80d757653fca009b0d5f87ad7d4343a831b18bb497",
       "source_text": "If it hadn’t been for something that only worked for children under the age of 1, Hugo would have soaked himself right away.",
-      "draft_text": "If the river’s power had not worked only on children under the age of one, Hugo would have soaked himself in it right away.",
+      "draft_text": "Had the river’s power not been limited to children under a year old, Hugo would have bathed in it long ago.",
       "changed": true,
-      "rationale": "Repair the conditional while preserving the stated age restriction.",
-      "open_issues": []
+      "rationale": "K079/MTL agree on the age restriction and Hugo’s counterfactual desire; repair the conditional.",
+      "open_issues": [],
+      "korean_lines": [
+        79
+      ]
     },
     {
       "paragraph": 70,
       "source_text_sha256": "d0aa366bdd9ca2fa5fb5958b98b14319a68a9d45d121e9e87a1070ae7238b1a2",
-      "draft_text_sha256": "92d33f8715a549352d70e6310cc008fad3316fbbc5c09eda4edcbf11a2c7b435",
+      "draft_text_sha256": "75dd854d8593d734ac4b4d3fe7567adb53dcc9cabee4e027ecb8537dd5989886",
       "source_text": "When Hugo is looking at the river with a sad expression.",
-      "draft_text": "Hugo was looking at the river with a sad expression.",
+      "draft_text": "Hugo gazed at the river with regret.",
       "changed": true,
-      "rationale": "Repair incomplete temporal clause.",
-      "open_issues": []
+      "rationale": "K080 specifically describes regret; use that more precise reading.",
+      "open_issues": [],
+      "korean_lines": [
+        80
+      ]
     },
     {
       "paragraph": 71,
       "source_text_sha256": "6fb8d160d3c068836878282b1ec1591057f260a3210e331f74c24a75f4dffd14",
-      "draft_text_sha256": "6fb8d160d3c068836878282b1ec1591057f260a3210e331f74c24a75f4dffd14",
+      "draft_text_sha256": "54a341c38086c2221adf1b28221e9af284517469a94f5d5174c654ad2c2175f9",
       "source_text": "“……Hey, over there!”",
-      "draft_text": "“……Hey, over there!”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "“… Look over there!”",
+      "changed": true,
+      "rationale": "K081 explicit imperative; normalize ellipsis.",
+      "open_issues": [],
+      "korean_lines": [
+        81
+      ]
     },
     {
       "paragraph": 72,
       "source_text_sha256": "c91b72f06b1fadc846339fb0881888605f31b466c9cc856f99bdb29f80b264c0",
-      "draft_text_sha256": "5a3361836c02f41452fbea52d1f3533ff3379b5d6114ae6b0866579baac8fa3b",
+      "draft_text_sha256": "c95e343b54aeeed8f71f6d7550ed60c822e5bae39975e58dfc7cdcf810fdecdd",
       "source_text": "“Ah, how can it be!”",
-      "draft_text": "“Ah, how can that be!”",
+      "draft_text": "“Ah, how is that possible!”",
       "changed": true,
-      "rationale": "Repair English exclamation.",
-      "open_issues": []
+      "rationale": "K082 confirms an exclamation of disbelief.",
+      "open_issues": [],
+      "korean_lines": [
+        82
+      ]
     },
     {
       "paragraph": 73,
       "source_text_sha256": "2db59e9bf64b24951771e133e0eb52ca78b93ff1dd70387a2fbcd910d06f2cea",
-      "draft_text_sha256": "2db59e9bf64b24951771e133e0eb52ca78b93ff1dd70387a2fbcd910d06f2cea",
+      "draft_text_sha256": "45093379e290f1a4691aa3d21fcf1384b87c97585320fc4d7e597cf185093544",
       "source_text": "“Nonsense!”",
-      "draft_text": "“Nonsense!”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "“Unbelievable!”",
+      "changed": true,
+      "rationale": "K083 expresses disbelief; avoid making the reaction a dismissal of nonsense.",
+      "open_issues": [],
+      "korean_lines": [
+        83
+      ]
     },
     {
       "paragraph": 74,
       "source_text_sha256": "141f0694b095c9225dd3d64a7bd1fb3724d2bebbeed37776f716c26379bc3cfc",
-      "draft_text_sha256": "141f0694b095c9225dd3d64a7bd1fb3724d2bebbeed37776f716c26379bc3cfc",
+      "draft_text_sha256": "e594e5a3d39c277cbea599e66c37c1fd81168e99d054f124253f3a3fc40cbf78",
       "source_text": "Arguments erupted from everywhere.",
-      "draft_text": "Arguments erupted from everywhere.",
-      "changed": false,
-      "rationale": null,
+      "draft_text": "Exclamations rose from all around.",
+      "changed": true,
+      "rationale": "K084 explicitly identifies exclamations, not arguments.",
       "open_issues": [
         "CH001-06"
+      ],
+      "korean_lines": [
+        84
       ]
     },
     {
       "paragraph": 75,
       "source_text_sha256": "bdd39f02770dbe1ca124e7f2bd0782c0553534d6d6d1fd6b276131982a9fbd09",
-      "draft_text_sha256": "bdd39f02770dbe1ca124e7f2bd0782c0553534d6d6d1fd6b276131982a9fbd09",
+      "draft_text_sha256": "6dbac1c02600402d6fbead0220603620e32d82f01762911f62ea7594ef9787d4",
       "source_text": "What was there to be astonished at by the family’s guardian knights, who were not shaken by anything?",
-      "draft_text": "What was there to be astonished at by the family’s guardian knights, who were not shaken by anything?",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "What could have startled the family’s normally unshakable guardian knights?",
+      "changed": true,
+      "rationale": "Repair the MTL question; K085 also conveys the knights’ alarm. Keep the MTL characterization without adding an actual threat.",
+      "open_issues": [],
+      "korean_lines": [
+        85
+      ]
     },
     {
       "paragraph": 76,
@@ -817,7 +1017,10 @@
       "draft_text": "Hugo raised his head with a puzzled expression.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        86
+      ]
     },
     {
       "paragraph": 77,
@@ -827,17 +1030,23 @@
       "draft_text": "And at that moment…",
       "changed": true,
       "rationale": "Repair transition wording and signal the continuing sentence.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        87
+      ]
     },
     {
       "paragraph": 78,
       "source_text_sha256": "270bc34893f5a8f8f15a02cfa37c5bdcc4be076baa9bd1010a587059b974017a",
-      "draft_text_sha256": "270bc34893f5a8f8f15a02cfa37c5bdcc4be076baa9bd1010a587059b974017a",
+      "draft_text_sha256": "063cb34fad7582c34dfbc441f090c39369356befe94d63a1809d0e0dda02872d",
       "source_text": "“……!”",
-      "draft_text": "“……!”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "“…”",
+      "changed": true,
+      "rationale": "Normalize a wordless reaction; surprise is carried by the following narrative rather than mixed ellipsis/exclamation punctuation.",
+      "open_issues": [],
+      "korean_lines": [
+        88
+      ]
     },
     {
       "paragraph": 79,
@@ -847,18 +1056,22 @@
       "draft_text": "His eyes, which had been filled with bitter boredom, contempt, impatience, and disappointment, lit up.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        89
+      ]
     },
     {
       "paragraph": 80,
       "source_text_sha256": "39a6c3d700deb49b17a2e5853f2a1b1a50edd1792efb95ff425eaabbf7c96d9f",
-      "draft_text_sha256": "39a6c3d700deb49b17a2e5853f2a1b1a50edd1792efb95ff425eaabbf7c96d9f",
+      "draft_text_sha256": "0d58d4d8dceebb737dffaeebaf64722f283e9ba3751dbbdce440a0998ed18cc3",
       "source_text": "The cradle of the sword.",
-      "draft_text": "The cradle of the sword.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-05"
+      "draft_text": "The Cradle of Swords.",
+      "changed": true,
+      "rationale": "Retain the rhetorical refocusing fragment; normalize the ritual term.",
+      "open_issues": [],
+      "korean_lines": [
+        90
       ]
     },
     {
@@ -869,18 +1082,22 @@
       "draft_text": "Through this thick forest of blades, a child was heading straight for the River Styx.",
       "changed": true,
       "rationale": "Remove unnecessary conjunction and clarify clause punctuation.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        91
+      ]
     },
     {
       "paragraph": 82,
       "source_text_sha256": "4b8a11526a03ecaa665bd1270c4520f7426bf0c15721d35b3988140b13c6369c",
-      "draft_text_sha256": "4b8a11526a03ecaa665bd1270c4520f7426bf0c15721d35b3988140b13c6369c",
+      "draft_text_sha256": "a3eccd05cdb86e70f727c75f7056956e4e9b0891f50c669efa89e69dd6c8c849",
       "source_text": "Jjoeok- Jjeook- Fit-",
-      "draft_text": "Jjoeok- Jjeook- Fit-",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-07"
+      "draft_text": "Scrape—slash—",
+      "changed": true,
+      "rationale": "Deliberate contextual sound localization for contact with blades. Neither the inconsistent Korean sound string nor MTL romanization establishes a unique English phonetic equivalent.",
+      "open_issues": [],
+      "korean_lines": [
+        92
       ]
     },
     {
@@ -891,17 +1108,23 @@
       "draft_text": "The child’s body was already covered in blood.",
       "changed": true,
       "rationale": "Align narrative tense.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        93
+      ]
     },
     {
       "paragraph": 84,
       "source_text_sha256": "bc4586f7c2ae4bb13da6be1977a34f7a9fd139d611ebf1b26f9423bea6e99b7f",
-      "draft_text_sha256": "bc4586f7c2ae4bb13da6be1977a34f7a9fd139d611ebf1b26f9423bea6e99b7f",
+      "draft_text_sha256": "070de720e5e507a3370ead8baa9762667a26b30f26104ff789c48e03c411de34",
       "source_text": "Surprisingly, the child was going straight through the cradle of needles, which were spiraled like a snail’s shell.",
-      "draft_text": "Surprisingly, the child was going straight through the cradle of needles, which were spiraled like a snail’s shell.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "To everyone’s astonishment, the child was crawling straight across the spiral maze, laid out like a snail’s shell.",
+      "changed": true,
+      "rationale": "MTL84 plus K094 establish the direct route through the spiral; preserve the MTL comparison.",
+      "open_issues": [],
+      "korean_lines": [
+        94
+      ]
     },
     {
       "paragraph": 85,
@@ -911,27 +1134,36 @@
       "draft_text": "Instead of following the relatively safe path around and around, he squeezed directly into the small gaps between the blades.",
       "changed": true,
       "rationale": "Repair narrative tense and idiom; retain the contrast between routes.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        95
+      ]
     },
     {
       "paragraph": 86,
       "source_text_sha256": "5dab21b60c378bbb67d983babdee166dc94ad24fa702ee0f196ff7cfbb2f0534",
-      "draft_text_sha256": "5dab21b60c378bbb67d983babdee166dc94ad24fa702ee0f196ff7cfbb2f0534",
+      "draft_text_sha256": "8b5e239f16e29b71b103d3f87570d7c62e0c3d43946bf088d3332a196edbc8d5",
       "source_text": "There was a knife mark on his white, soft cheek.",
-      "draft_text": "There was a knife mark on his white, soft cheek.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "A blade had marked his soft, pale cheek.",
+      "changed": true,
+      "rationale": "K096/MTL confirm a cut on the cheek; English line edit.",
+      "open_issues": [],
+      "korean_lines": [
+        96
+      ]
     },
     {
       "paragraph": 87,
       "source_text_sha256": "9e2950640e629789f76e6b019879e759a80cf20999362ce5182f8854ff83c08e",
-      "draft_text_sha256": "9e2950640e629789f76e6b019879e759a80cf20999362ce5182f8854ff83c08e",
+      "draft_text_sha256": "3b0a8c14d141b2361745a19b3c8060cddd328f6211daf38352b297c137ec7945",
       "source_text": "His soft waist and forearms were cut and torn all over.",
-      "draft_text": "His soft waist and forearms were cut and torn all over.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "His waist and forearms were cut and torn.",
+      "changed": true,
+      "rationale": "K097/MTL agree on injuries; remove repetitive body adjectives.",
+      "open_issues": [],
+      "korean_lines": [
+        97
+      ]
     },
     {
       "paragraph": 88,
@@ -941,39 +1173,49 @@
       "draft_text": "His knees were bruised, and his soft palms were already bloody.",
       "changed": true,
       "rationale": "Repair article and possessive consistency.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        98
+      ]
     },
     {
       "paragraph": 89,
       "source_text_sha256": "af5f519d98296e4f3ea9c7990001454adc5182429c4988d3b6ca233efe32a803",
-      "draft_text_sha256": "76f2b09ab46e2863f71f2c2bbcdc60b6fda2753a7cddf8efca297eead6591557",
+      "draft_text_sha256": "185e3dc678248b2aae285b97864cfc0826e49291e099d9082293e937e14ddae1",
       "source_text": "A child crawling forward, making a bloody path by squeezing between the countless needles.",
-      "draft_text": "The child crawled forward, leaving a bloody path as he squeezed between the countless needles.",
+      "draft_text": "The child crawled on, leaving a bloody trail between the countless blades.",
       "changed": true,
-      "rationale": "Supply a finite verb; retain the source needle metaphor.",
-      "open_issues": []
+      "rationale": "K099 explicitly identifies blades and the blood trail; use concrete wording.",
+      "open_issues": [],
+      "korean_lines": [
+        99
+      ]
     },
     {
       "paragraph": 90,
       "source_text_sha256": "5fa7ec8127d236eefbbbbf491a8ec7207721dad7e6158c3f03e2c764f9b0efb3",
-      "draft_text_sha256": "5fa7ec8127d236eefbbbbf491a8ec7207721dad7e6158c3f03e2c764f9b0efb3",
+      "draft_text_sha256": "bdc4c7a0ab0358839564c84961d133090cf9d7354707bead97e0efb76798f1d6",
       "source_text": "Everyone in the family was overwhelmed by the spirit of this child who was less than 100 days old.",
-      "draft_text": "Everyone in the family was overwhelmed by the spirit of this child who was less than 100 days old.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-04"
+      "draft_text": "Everyone in the family was overwhelmed by the spirit of this child, only a hundred days old.",
+      "changed": true,
+      "rationale": "Explicit editorial harmonization: choose K038/MTL29 and the wiki’s 100-day rebirth over conflicting not-yet-100-day wording here. No age change is presented as a literal translation of K100.",
+      "open_issues": [],
+      "korean_lines": [
+        100
       ]
     },
     {
       "paragraph": 91,
       "source_text_sha256": "2487423ae259aff445e5f7ce77df76c590e45c1d79c5351a565d3e671f033db8",
-      "draft_text_sha256": "2487423ae259aff445e5f7ce77df76c590e45c1d79c5351a565d3e671f033db8",
+      "draft_text_sha256": "3776fbc06bcec11871e09ef77fde9cd07cee536520523f2164450c65df070002",
       "source_text": "It was the same with Hugo Le Baskerville, the head of Baskerville, the iron-blooded swordsman.",
-      "draft_text": "It was the same with Hugo Le Baskerville, the head of Baskerville, the iron-blooded swordsman.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "Even Hugo Le Baskerville, head of the iron-blooded Baskerville family, was no exception.",
+      "changed": true,
+      "rationale": "K101/MTL agree; keep the established name rather than the inconsistent Korean transcription.",
+      "open_issues": [],
+      "korean_lines": [
+        101
+      ]
     },
     {
       "paragraph": 92,
@@ -983,30 +1225,35 @@
       "draft_text": "Before long, the child was completely out of the maze.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        102
+      ]
     },
     {
       "paragraph": 93,
       "source_text_sha256": "ef428be162bb44f839f7a1f1c93344a28b84a1981b6617dd24a0ec2c7970999f",
-      "draft_text_sha256": "f0365e015f6c71fb26aae39a0f011b06cbe1f93040caed45510541a1572193e7",
+      "draft_text_sha256": "d2400deb60f19c744a3807bcabc8868e60e4fbab5f984137c0ad56e8087d8204",
       "source_text": "His siblings were still trapped in the center of the cradle of the sword and could not get out.",
-      "draft_text": "His siblings were still trapped in the center of the cradle of the sword, unable to get out.",
+      "draft_text": "His siblings were still trapped in the center of the Cradle of Swords, unable to escape.",
       "changed": true,
-      "rationale": "Reduce redundant clause without changing the stated location.",
-      "open_issues": [
-        "CH001-05"
+      "rationale": "K103/MTL agree on location and inability to escape; normalize the ritual name.",
+      "open_issues": [],
+      "korean_lines": [
+        103
       ]
     },
     {
       "paragraph": 94,
       "source_text_sha256": "46773288baed683d3e0328ceb354928cba241dcdcddb4f0180823fa757211efb",
-      "draft_text_sha256": "46773288baed683d3e0328ceb354928cba241dcdcddb4f0180823fa757211efb",
+      "draft_text_sha256": "f944bf6f08b0ce9b982ebb5fea0eb109fd983ed1747cbdde1f8c06f8652bd8a5",
       "source_text": "…With a plop!",
-      "draft_text": "…With a plop!",
-      "changed": false,
-      "rationale": null,
-      "open_issues": [
-        "CH001-07"
+      "draft_text": "Plop!",
+      "changed": true,
+      "rationale": "Retain the water-entry sound supported by MTL94 and K105. Reject the anomalous Korean fried-food word as a literal English sound translation.",
+      "open_issues": [],
+      "korean_lines": [
+        104
       ]
     },
     {
@@ -1017,7 +1264,10 @@
       "draft_text": "As soon as the child emerged from the cradle, he threw himself into the River Styx.",
       "changed": true,
       "rationale": "Repair missing conjunction and comma splice.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        105
+      ]
     },
     {
       "paragraph": 96,
@@ -1027,27 +1277,36 @@
       "draft_text": "The river water started turning red.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        106
+      ]
     },
     {
       "paragraph": 97,
       "source_text_sha256": "203c989424fe2d3d84ae874360dbd16f74a53e2d0425e617f7d0cf8c9c55ec7c",
-      "draft_text_sha256": "203c989424fe2d3d84ae874360dbd16f74a53e2d0425e617f7d0cf8c9c55ec7c",
+      "draft_text_sha256": "85f6f6dfa5e7ccb4a7f6ad191cd08e70b7ae9af078afd11b0651ba6e80b1d03d",
       "source_text": "Hugo moved forward in an unusual way, clutching the railing with both hands.",
-      "draft_text": "Hugo moved forward in an unusual way, clutching the railing with both hands.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "In an uncharacteristic display, Hugo stepped forward and gripped the railing with both hands.",
+      "changed": true,
+      "rationale": "K107/MTL describe the unusual forward movement and grip; improve English wording.",
+      "open_issues": [],
+      "korean_lines": [
+        107
+      ]
     },
     {
       "paragraph": 98,
       "source_text_sha256": "52eed64ed52c1b7d1a42dfa5ebd60a56ef72153c1b619e8b582636482c31848c",
-      "draft_text_sha256": "52eed64ed52c1b7d1a42dfa5ebd60a56ef72153c1b619e8b582636482c31848c",
+      "draft_text_sha256": "3f138e6742961f58bf1b7c748e82af5ca61bbd0d899cbe53eec79208caee30a5",
       "source_text": "Seeing the cracks in the marble railing, the attendants widened their eyes.",
-      "draft_text": "Seeing the cracks in the marble railing, the attendants widened their eyes.",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "The attendants’ eyes widened as cracks appeared in the marble railing.",
+      "changed": true,
+      "rationale": "K108/MTL confirm the witnesses and visible cracks; preserve the implication without adding force measurements.",
+      "open_issues": [],
+      "korean_lines": [
+        108
+      ]
     },
     {
       "paragraph": 99,
@@ -1057,7 +1316,10 @@
       "draft_text": "They had never seen him so agitated; he usually showed no emotion in anything he did.",
       "changed": true,
       "rationale": "Remove accidental first-person narration; they refers to the attendants in paragraph 98.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        109
+      ]
     },
     {
       "paragraph": 100,
@@ -1067,7 +1329,10 @@
       "draft_text": "“What happened to him?”",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        110
+      ]
     },
     {
       "paragraph": 101,
@@ -1077,7 +1342,10 @@
       "draft_text": "Hugo raised his voice.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        111
+      ]
     },
     {
       "paragraph": 102,
@@ -1087,7 +1355,10 @@
       "draft_text": "The child who had fallen into the River Styx still had not surfaced.",
       "changed": true,
       "rationale": "Repair narrative tense and water-specific wording.",
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        112
+      ]
     },
     {
       "paragraph": 103,
@@ -1097,40 +1368,57 @@
       "draft_text": "Before long, several of the family’s guardian knights approached the River Styx and peered into it.",
       "changed": false,
       "rationale": null,
-      "open_issues": []
+      "open_issues": [],
+      "korean_lines": [
+        113
+      ]
     },
     {
       "paragraph": 104,
       "source_text_sha256": "9a6cc718a2a33909d749ab47f13af94935236869534dce51d6c48f4135d75511",
-      "draft_text_sha256": "8fc790223a46b84842aeeab0d60a9cedc4c43561a8cadf76203c9352e94c35c1",
+      "draft_text_sha256": "b3512b06726224cf768417293855b4cbf9412c2fe66f3532890ea7ed6496d2c4",
       "source_text": "And. The knights were frightened at once.",
-      "draft_text": "The knights were immediately frightened.",
+      "draft_text": "The knights cried out in alarm.",
       "changed": true,
-      "rationale": "Repair orphaned conjunction and adverb placement.",
-      "open_issues": []
+      "rationale": "K114 says they exclaimed together; MTL says they were frightened. The wording captures the compatible outward reaction.",
+      "open_issues": [],
+      "korean_lines": [
+        114
+      ]
     },
     {
       "paragraph": 105,
       "source_text_sha256": "f7f8fea0bea59ad77d9bcb5051da8a2ce14b89e88154831e7f44ab3a6beb8f95",
-      "draft_text_sha256": "f7f8fea0bea59ad77d9bcb5051da8a2ce14b89e88154831e7f44ab3a6beb8f95",
+      "draft_text_sha256": "a3c96121831feee80370907983472c685e55ff291d1c9d3558076274fb2b380b",
       "source_text": "“Sir, he is drinking the river water!”",
-      "draft_text": "“Sir, he is drinking the river water!”",
-      "changed": false,
-      "rationale": null,
-      "open_issues": []
+      "draft_text": "“Sir, the child is drinking the river water!”",
+      "changed": true,
+      "rationale": "Preserve the MTL addressee and river-water content, both contextually clear; clarify the child referent without importing the Korean exclamation’s register.",
+      "open_issues": [],
+      "korean_lines": [
+        115
+      ]
     },
     {
       "paragraph": 106,
       "source_text_sha256": "10a9b7e4aeabe06c8008cb02b02ce51ccf412c4b0f048bc40668823fef96dd61",
-      "draft_text_sha256": "10a9b7e4aeabe06c8008cb02b02ce51ccf412c4b0f048bc40668823fef96dd61",
+      "draft_text_sha256": "107c30789a30e5576a25f513aaba6970b046c9c65728ec2ba8ea61df56ee9ba1",
       "source_text": "It was an answer that would make Hugo’s mouth turn into a grin.",
-      "draft_text": "It was an answer that would make Hugo’s mouth turn into a grin.",
-      "changed": false,
-      "rationale": null,
+      "draft_text": "Hugo’s mouth fell open at the reply.",
+      "changed": true,
+      "rationale": "K116 explicitly describes an open-mouthed reaction. Prefer that direct Korean reading to the MTL grin; preserve the disagreement in the review record.",
       "open_issues": [
-        "CH001-08",
         "CH001-09"
+      ],
+      "korean_lines": [
+        116
       ]
     }
-  ]
+  ],
+  "scene_breaks_after": [
+    18
+  ],
+  "korean_source": "source/korean/chapters/001.txt",
+  "korean_sha256": "2d82b95faaa6968b72dc6acdf18160984a28699cac7e1be232c2529eb0e1c64f",
+  "korean_alignment": "editorial/korean-alignment/chapter-0001.json"
 }
