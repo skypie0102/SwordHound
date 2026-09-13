@@ -1,5 +1,7 @@
 # Preserve recovered bytes and their original checksums on every platform.
 source/** -text
+# Keep original raw-file whitespace; these files are validated byte for byte.
+source/korean/** -whitespace
 epub/** -text
 editorial/Editorial-Audit.md -text
 # Draft hashes use canonical UTF-8 / LF bytes across checkouts.
