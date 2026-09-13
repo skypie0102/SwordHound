@@ -1,0 +1,116 @@
+{
+  "chapter": 4,
+  "source_sha256": "9b3954220539f78e6b0bc7c0c13ed2846fce8cfe4af9004ed74f3ccb706cca0b",
+  "review_date": "2026-09-14",
+  "review_basis": "korean_plus_mtl",
+  "korean_source": "source/korean/chapters/004.txt",
+  "supporting_reference_policy": "editorial/SOURCES.md",
+  "pass": "Final editorial and chapter-layout review",
+  "accepted": true,
+  "issues": [
+    {
+      "id": "CH004-01",
+      "status": "resolved",
+      "paragraphs": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        23,
+        26,
+        71,
+        72
+      ],
+      "question": "Ranks, country and naming particles",
+      "resolution": "Use source-defined Beginner/Expert/Graduator/Master, Rok and Le/La; record wiki scope and preserve the tutor’s limited claim.",
+      "evidence": [
+        "editorial/reviews/chapter-0004.md",
+        "editorial/korean-alignment/chapter-0004.json"
+      ]
+    },
+    {
+      "id": "CH004-02",
+      "status": "resolved",
+      "paragraphs": [
+        34,
+        51,
+        57,
+        58,
+        59,
+        65,
+        110
+      ],
+      "question": "Conflicting chronology",
+      "resolution": "Explicitly harmonize first sword aura to fifteen, first mana sensing to eight, river age to one hundred days, and snake scene to under eight months; sources and inference are documented.",
+      "evidence": [
+        "editorial/reviews/chapter-0004.md",
+        "editorial/korean-alignment/chapter-0004.json"
+      ]
+    },
+    {
+      "id": "CH004-03",
+      "status": "resolved",
+      "paragraphs": [
+        76,
+        85,
+        88,
+        92,
+        96,
+        108
+      ],
+      "question": "Triplet attribution and recollections",
+      "resolution": "Keep Highbro as the demonstrated sphere’s owner through the scene; source name switches and alternate reactions remain recorded.",
+      "evidence": [
+        "editorial/reviews/chapter-0004.md",
+        "editorial/korean-alignment/chapter-0004.json"
+      ]
+    },
+    {
+      "id": "CH004-04",
+      "status": "resolved",
+      "paragraphs": [
+        3,
+        5,
+        9,
+        46,
+        47,
+        132
+      ],
+      "question": "Structure and historical audit",
+      "resolution": "Preserve all paragraphs, explicitly share Korean rank line, restore scene break and triage all eleven old audit findings.",
+      "evidence": [
+        "editorial/reviews/chapter-0004.md",
+        "editorial/korean-alignment/chapter-0004.json"
+      ]
+    },
+    {
+      "id": "CH004-05",
+      "status": "resolved",
+      "paragraphs": [
+        1,
+        132
+      ],
+      "question": "Final complete reading, continuity and layout review",
+      "required_evidence": "Complete final review and actual inspected layout evidence.",
+      "resolution": "Complete English reading, source adjudication, continuity review and inspected desktop/mobile layout completed; see final review.",
+      "evidence": [
+        "editorial/reviews/chapter-0004-final.md",
+        "qa/layout/chapter-0004.json"
+      ]
+    }
+  ],
+  "acceptance_evidence": "qa/acceptance/chapter-0004.json",
+  "release_status": "epub_not_built",
+  "pass_description": "Complete source comparison, final prose reading, continuity and desktop/mobile review",
+  "final_review_evidence": [
+    "editorial/reviews/chapter-0004-final.md",
+    "editorial/continuity/chapter-0004.md",
+    "preview/chapter-0004.html",
+    "qa/layout/chapter-0004.json",
+    "qa/layout/chapter-0004-desktop-opening.png",
+    "qa/layout/chapter-0004-desktop-scene.png",
+    "qa/layout/chapter-0004-desktop-triplets.png",
+    "qa/layout/chapter-0004-mobile-ending.png"
+  ]
+}

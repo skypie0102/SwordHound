@@ -12,6 +12,7 @@ The older audit concerns 500 chapters, and historical reports describe lost edit
 - `editorial/reconstruction-status.json` is the manually maintained status overlay. The tracker is generated from this file and original source records.
 - `manuscript/drafts/` and `editorial/provenance/` are generated. Change the edit set, then regenerate; do not silently hand-edit the output.
 - `editorial/korean-alignment/` accounts for supplied Korean lines against MTL paragraphs, including headings and scene breaks. `editorial/reviews/` records source decisions and web evidence. Resolved QA items must link to their written decision and evidence files.
+- When one Korean physical line spans several MTL paragraphs, repeat its reference only with an explicit `shared_lines` declaration containing the line number, all owning MTL paragraphs in order, and the reason. The validator requires exact coverage and rejects undeclared duplicates or incorrect owners. This preserves split age headings without manufacturing source lines.
 - `editorial/audit-alignment.json` locates historical findings using exact quoted text and title after whitespace normalization. Its `not_reviewed` disposition belongs to the immutable locator index; chapter QA reports hold actual manual triage. Unmatched and ambiguous findings remain available for review.
 
 ## Per-chapter procedure

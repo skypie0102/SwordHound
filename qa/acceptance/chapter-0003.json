@@ -1,0 +1,26 @@
+{
+  "chapter": 3,
+  "scope": "editorial_only",
+  "review_basis": "korean_plus_mtl",
+  "draft_sha256": "b4766bc212586990e86f48da6e1ad5e797b0980d332c71d0ea3590762e16fdfb",
+  "mtl_sha256": "2d97fb997e88597d6c717ab02b97bf048b096c53936568d2abc6a28004d39076",
+  "korean_sha256": "6226812ad8bb5b3eb8c66dd34a3a56691b66744d95a10728c1c8fb85b1caab1a",
+  "edit_set_sha256": "6ec146ac1bd59f2b536cceb5ab157c709573f7a2deea253a7e7821177d173d76",
+  "decisions_sha256": "f289445d355d05a032b9a61c003201af121a11538e523de8c2b3a912bfacf73a",
+  "alignment_sha256": "7f63e2c0cd7736e0895ce39068d95b6d872584f522c6f2f4067c0e2b2ba616a4",
+  "evidence_sha256": {
+    "editorial/continuity/chapter-0003.md": "5ba173555819b9b36669aace44f27e825702c1d59c66104b1b6ebe194eb5ab32",
+    "editorial/korean-alignment/chapter-0003.json": "14114c8cfc5617fc428cf75755c4053eb7e87b5aa1df337ba8adc1ca17807c33",
+    "editorial/reviews/chapter-0003-final.md": "3054d27bd980434c004e78f4a20e98528ac9c5577c564eb7430b25b9e7655086",
+    "editorial/reviews/chapter-0003.md": "8181ce33b17c9f4dba569c2a35bd73c973a3b1f17f5ef301e42fccadd88ed585",
+    "preview/chapter-0003.html": "d1e30f0c3d532c87a596116e1204b12d675c3242b3c2a4beaaf2dca671a1bb53",
+    "qa/layout/chapter-0003-desktop-opening.png": "5cf223139352c9b46a13689787ccb6c4c5b3516e9a802c6bf8f9de4fee352329",
+    "qa/layout/chapter-0003-desktop-scene.png": "1f8cba7236c97744bbe01f19812539674a3aef262a6004013203660a5ad0fe12",
+    "qa/layout/chapter-0003-desktop-snakes.png": "8590dbb5c65589d7020967f6b91f3ab1de7b42e6b6dfbf85d81dfb023fd9e2d4",
+    "qa/layout/chapter-0003-mobile-ending.png": "2c17515bbf7408445a6022eb24d3f9dbbd2420463df3d109e03095d6b871645d",
+    "qa/layout/chapter-0003.json": "48cce9d2b2f9b2b0a4c9c35b955f36133235f3f76e90a6da15251d036900eea0"
+  },
+  "review_date": "2026-09-14",
+  "reviewer": "Codex editorial/QA agent; no independent human review claimed",
+  "release_status": "epub_not_built"
+}

@@ -98,6 +98,34 @@ class DraftChecks(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'requires a decision and evidence'):
             builder.render(1)
 
+    def add_shared_reference(self, declared=True):
+        def mutate(d):
+            first, second = d['paragraphs'][:2]
+            second['korean_lines'].insert(0, first['korean_lines'][0])
+            second['line_text_sha256'].insert(0, first['line_text_sha256'][0])
+            if declared:
+                d['shared_lines']=[{'line':first['korean_lines'][0], 'mtl_paragraphs':[1,2], 'reason':'Fixture for a combined Korean line spanning two MTL paragraphs.'}]
+        self.change_json('editorial/korean-alignment/chapter-0001.json', mutate)
+
+    def test_explicit_shared_line_preserves_both_paragraphs(self):
+        self.add_shared_reference()
+        # This fixture changes alignment, so ordinary acceptance must still reject it.
+        with self.assertRaisesRegex(ValueError, 'Acceptance evidence is stale'):
+            builder.render(1)
+        outputs=builder.render(1, validate_acceptance=False)
+        self.assertEqual(json.loads(outputs['editorial/provenance/chapter-0001.json'])['paragraph_count'],106)
+
+    def test_undeclared_shared_line_is_rejected(self):
+        self.add_shared_reference(declared=False)
+        with self.assertRaisesRegex(ValueError, 'coverage omits or duplicates'):
+            builder.render(1)
+
+    def test_wrong_shared_line_owners_are_rejected(self):
+        self.add_shared_reference()
+        self.change_json('editorial/korean-alignment/chapter-0001.json', lambda d:d['shared_lines'][0].update(mtl_paragraphs=[1,3]))
+        with self.assertRaisesRegex(ValueError, 'Invalid shared Korean'):
+            builder.render(1)
+
     def test_rejects_stale_accepted_text(self):
         self.change_json('editorial/edits/chapter-0001.json', lambda d: d['edits'][0].__setitem__(1, 'Changed after acceptance.'))
         with self.assertRaisesRegex(ValueError, 'Acceptance evidence is stale'):

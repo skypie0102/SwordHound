@@ -1,0 +1,35 @@
+{
+  "chapter": 3,
+  "viewports": [
+    {
+      "width": 1100,
+      "paragraphs": 126,
+      "sceneBreaks": 1,
+      "overflow": false,
+      "dialogueIndent": "28.5px",
+      "narrativeIndent": "0px",
+      "lineHeightRatio": 1.6500000000000001,
+      "thoughts": 3,
+      "allParagraphsVisible": true,
+      "lastParagraph": "And eight years passed."
+    },
+    {
+      "width": 390,
+      "paragraphs": 126,
+      "sceneBreaks": 1,
+      "overflow": false,
+      "dialogueIndent": "27px",
+      "narrativeIndent": "0px",
+      "lineHeightRatio": 1.65,
+      "thoughts": 3,
+      "allParagraphsVisible": true,
+      "lastParagraph": "And eight years passed."
+    }
+  ],
+  "screenshots": [
+    "qa/layout/chapter-0003-desktop-opening.png",
+    "qa/layout/chapter-0003-desktop-snakes.png",
+    "qa/layout/chapter-0003-desktop-scene.png",
+    "qa/layout/chapter-0003-mobile-ending.png"
+  ]
+}

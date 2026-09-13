@@ -2,6 +2,17 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — Chapters 3–4 reconstructed and accepted
+
+**Result: 4 chapters editorially accepted; Chapter 5 is next.** Newly reviewed: 258 MTL paragraphs and 255 Korean physical lines, with 248 explicit paragraph edits. Both chapters have complete source comparisons, continuity notes, final readings and inspected desktop/mobile layouts. Nine new QA items are resolved.
+
+- Chapter 3 preserves the old-life age chronology, nursery attack and eight-year transition. Source conflicts about snakes, fang resistance, box delivery and locations are explicitly adjudicated; the instigator remains unnamed. All five old audit findings were manually triaged.
+- Chapter 4 establishes the sword ranks and records the naming, age and actor corrections rather than silently carrying contradictions forward. First mana at eight and sword aura at fifteen follow Chapter 3; the Highbro/Lowbro switch is resolved through uninterrupted action attribution. All eleven old audit findings were triaged. See [Chapter 3 review](editorial/reviews/chapter-0003.md) and [Chapter 4 review](editorial/reviews/chapter-0004.md).
+- Added explicit shared-Korean-line declarations for combined age paragraphs and the rank answer. The validator rejects undeclared duplicates and wrong owners while retaining every MTL paragraph; accepted Chapters 1–2 remain valid. Three new integrity tests bring the suite to seventeen passing tests.
+- Each new chapter has a restored source scene break, four inspected screenshots, complete paragraph coverage, styled thoughts, correct indentation, 1.65 line height and no overflow at desktop/mobile widths. Acceptance binds the exact text and evidence. Preserved-source integrity and generated draft/preview/tracker checks passed before publication.
+
+**Next:** continue Chapter 5 from the watchman's two-suns question. Whole-EPUB release is still pending. Existing source and old artifact files remain unchanged.
+
 ## 2026-09-13 — Chapter 2 reconstruction and editorial acceptance
 
 **Result: 2 reconstructed chapters editorially accepted; Chapter 3 is next.** Chapter 2's five QA items are resolved. Chapters 3–493 remain unstarted; full-EPUB release work remains pending.

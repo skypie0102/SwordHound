@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import json
 import xml.etree.ElementTree as ET
+from collections import Counter
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'h': 'http://www.w3.org/1999/xhtml'}
@@ -63,7 +64,15 @@ def render(chapter, *, validate_acceptance=True):
                 raise ValueError('Korean quoted-line hash mismatch')
             accounted.extend(numbers)
             korean_by_paragraph[entry['mtl_paragraph']] = numbers
-        if sorted(accounted) != list(range(1, len(lines)+1)):
+        shared = {}
+        for group in alignment.get('shared_lines', []):
+            line, owners = group['line'], group['mtl_paragraphs']
+            actual = [p for p, refs in korean_by_paragraph.items() if line in refs]
+            if line in shared or not group.get('reason') or len(owners) < 2 or owners != sorted(set(owners)) or owners != actual:
+                raise ValueError('Invalid shared Korean line declaration')
+            shared[line] = len(owners)
+        expected_coverage = Counter({n: shared.get(n, 1) for n in range(1, len(lines)+1)})
+        if Counter(accounted) != expected_coverage:
             raise ValueError('Korean coverage omits or duplicates a line')
     scene_breaks = spec.get('scene_breaks_after', [])
     if len(set(scene_breaks)) != len(scene_breaks) or any(not 1 <= n < len(paragraphs) for n in scene_breaks):
