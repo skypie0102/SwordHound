@@ -1,6 +1,7 @@
 """Render browser layout evidence for the Hounds of Hell title-family batch."""
 from pathlib import Path
 import json
+import shutil
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -53,9 +54,18 @@ def screenshot_at(page, chapter, label, paragraph, mobile=False):
     return path.relative_to(ROOT).as_posix()
 
 
+def find_system_chrome():
+    for executable in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser"):
+        path = shutil.which(executable)
+        if path:
+            return path
+    raise RuntimeError("No preinstalled Chrome/Chromium executable found; do not download a browser implicitly")
+
+
 def main():
+    chrome = find_system_chrome()
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=True, executable_path=chrome)
         page = browser.new_page()
         for chapter, captures in CONFIG.items():
             provenance = json.loads((ROOT / f"editorial/provenance/chapter-{chapter:04d}.json").read_text(encoding="utf-8"))
@@ -99,6 +109,7 @@ def main():
                 "preview": preview.relative_to(ROOT).as_posix(),
                 "source_paragraph_slots": provenance["paragraph_count"],
                 "suppressed_source_slots": provenance.get("suppressed_paragraphs", []),
+                "browser_executable": Path(chrome).name,
                 "viewports": viewports,
                 "screenshots": screenshots,
                 "result": "pass",
@@ -106,13 +117,13 @@ def main():
                     "All recovered source paragraph slots remain provenance-accounted; explicitly suppressed structural slots are omitted only from reader-facing output.",
                     "Dialogue is indented; narration is unindented; info-window rows remain unindented inside bordered windows.",
                     "No horizontal overflow at desktop or mobile widths.",
-                    "Browser evidence for the full title family was generated in one Chromium installation/session."
+                    "Browser evidence for the full title family was generated in one preinstalled-Chrome session without downloading a separate browser build."
                 ]
             }
             out = ROOT / f"qa/layout/chapter-{chapter:04d}.json"
             out.write_text(json.dumps(layout, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         browser.close()
-    print("Hounds of Hell layout evidence rendered for Chapters 8-11.")
+    print("Hounds of Hell layout evidence rendered for Chapters 8-11 using preinstalled Chrome.")
 
 
 if __name__ == "__main__":
