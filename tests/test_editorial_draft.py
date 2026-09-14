@@ -126,6 +126,45 @@ class DraftChecks(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Invalid shared Korean'):
             builder.render(1)
 
+    def make_second_paragraph_mtl_only(self, declared=True):
+        def mutate(d):
+            first, second = d['paragraphs'][:2]
+            first['korean_lines'].extend(second['korean_lines'])
+            first['line_text_sha256'].extend(second['line_text_sha256'])
+            second['korean_lines'] = []
+            second['line_text_sha256'] = []
+            if declared:
+                d['mtl_only_paragraphs'] = [{
+                    'mtl_paragraph': 2,
+                    'reason': 'Fixture for a recovered MTL paragraph absent from the Korean witness.'
+                }]
+        self.change_json('editorial/korean-alignment/chapter-0001.json', mutate)
+
+    def test_declared_mtl_only_paragraph_preserves_korean_coverage(self):
+        self.make_second_paragraph_mtl_only()
+        with self.assertRaisesRegex(ValueError, 'Acceptance evidence is stale'):
+            builder.render(1)
+        outputs = builder.render(1, validate_acceptance=False)
+        provenance = json.loads(outputs['editorial/provenance/chapter-0001.json'])
+        self.assertEqual(provenance['mtl_only_paragraphs'], [2])
+        self.assertTrue(provenance['paragraphs'][1]['mtl_only'])
+        self.assertEqual(provenance['paragraphs'][1]['korean_lines'], [])
+
+    def test_undeclared_empty_korean_mapping_is_rejected(self):
+        self.make_second_paragraph_mtl_only(declared=False)
+        with self.assertRaisesRegex(ValueError, 'requires declared MTL-only'):
+            builder.render(1, validate_acceptance=False)
+
+    def test_declared_mtl_only_paragraph_cannot_carry_korean_lines(self):
+        def mutate(d):
+            d['mtl_only_paragraphs'] = [{
+                'mtl_paragraph': 2,
+                'reason': 'Invalid fixture that still carries Korean lines.'
+            }]
+        self.change_json('editorial/korean-alignment/chapter-0001.json', mutate)
+        with self.assertRaisesRegex(ValueError, 'carries Korean line reference'):
+            builder.render(1, validate_acceptance=False)
+
     def test_rejects_stale_accepted_text(self):
         self.change_json('editorial/edits/chapter-0001.json', lambda d: d['edits'][0].__setitem__(1, 'Changed after acceptance.'))
         with self.assertRaisesRegex(ValueError, 'Acceptance evidence is stale'):
