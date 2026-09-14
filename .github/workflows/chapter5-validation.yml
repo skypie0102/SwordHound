@@ -1,0 +1,64 @@
+name: Chapter 5 validation
+
+on:
+  push:
+    branches:
+      - production/chapter-0005
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Chapter 5 branch
+        uses: actions/checkout@v4
+        with:
+          ref: production/chapter-0005
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Materialize reviewed Chapter 5
+        run: python tools/materialize_chapter_0005.py
+
+      - name: Regenerate tracker before acceptance
+        run: python tools/rebuild_editorial_tracking.py
+
+      - name: Pre-acceptance repository checks
+        run: |
+          python tools/verify_recovery.py
+          python tools/build_editorial_draft.py 5 --check
+          python tools/build_chapter_preview.py 5 --check
+          python tools/rebuild_editorial_tracking.py --check
+          python -m unittest discover -s tests -v
+          git diff --check
+
+      - name: Finalize Chapter 5 acceptance evidence
+        run: python tools/finalize_chapter_0005.py
+
+      - name: Regenerate accepted tracker
+        run: python tools/rebuild_editorial_tracking.py
+
+      - name: Final accepted-state checks
+        run: |
+          python tools/verify_recovery.py
+          python tools/build_editorial_draft.py 5 --check
+          python tools/build_chapter_preview.py 5 --check
+          python tools/rebuild_editorial_tracking.py --check
+          python -m unittest discover -s tests -v
+          git diff --check
+
+      - name: Commit validated Chapter 5 outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md PROJECT_STATE.md PROGRESS.md editorial manuscript preview qa tools/materialize_chapter_0005.py tools/finalize_chapter_0005.py
+          git status --short
+          git commit -m "Materialize and accept Chapter 5"
+          git push origin HEAD:production/chapter-0005
