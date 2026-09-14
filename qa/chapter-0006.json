@@ -1,0 +1,63 @@
+{
+  "chapter": 6,
+  "source_sha256": "e3d04aedc45bede6f35674fba1189ac452f76189c94802afe3fb818271eff938",
+  "review_date": "2026-09-14",
+  "review_basis": "korean_plus_mtl",
+  "korean_source": "source/korean/chapters/006.txt",
+  "supporting_reference_policy": "editorial/SOURCES.md",
+  "pass": "Bilingual translation/source reconstruction in progress",
+  "accepted": false,
+  "issues": [
+    {
+      "id": "CH006-01",
+      "status": "resolved",
+      "paragraphs": [1,2,4,5,6,7,8,9,10],
+      "question": "Opening attribution, Hugo titles, Morgue name and ruby-mine location",
+      "resolution": "Use canonical Barrymore/Hugo/Morgue names, restore complete opening sentences, and use Red Fang Mountain while recording Red Cane/Red Peak as source variants.",
+      "evidence": ["editorial/reviews/chapter-0006.md", "editorial/korean-alignment/chapter-0006.json"]
+    },
+    {
+      "id": "CH006-02",
+      "status": "resolved",
+      "paragraphs": [17,18,19,20,34,39,44,45,66],
+      "question": "Advertisement corruption, two-suns omen and scene break",
+      "resolution": "Replace the non-narrative advertisement insertion by redistributing the adjacent Korean meaning without deleting a paragraph, restore the heir/colorful-cloud omen, and restore the Korean scene break after paragraph 66.",
+      "evidence": ["editorial/reviews/chapter-0006.md", "editorial/korean-alignment/chapter-0006.json"]
+    },
+    {
+      "id": "CH006-03",
+      "status": "resolved",
+      "paragraphs": [53,54,57,59,61,62,66,67,101,102,105],
+      "question": "Chapter 5 aftermath and triplet mental collapse",
+      "resolution": "Preserve the accepted injury sequence, identify Vikir as the single younger attacker, retain the Korean fear/wetting detail, and restore the three-dull-blades versus one-fine-blade metaphor.",
+      "evidence": ["editorial/reviews/chapter-0006.md", "editorial/continuity/chapter-0006.md"]
+    },
+    {
+      "id": "CH006-04",
+      "status": "resolved",
+      "paragraphs": [73,74,75,76,77,78],
+      "question": "Mana concealment and Age of Destruction wording",
+      "resolution": "Treat concealment as experience learned through the demonic war/Age of Destruction, not raw strength, and conservatively repair the corrupted thought about needing a solution before Hugo notices stronger mana.",
+      "evidence": ["editorial/reviews/chapter-0006.md", "editorial/korean-alignment/chapter-0006.json"]
+    },
+    {
+      "id": "CH006-05",
+      "status": "resolved",
+      "paragraphs": [81,83,85,86,87,89,91,92,118,119,120,124],
+      "question": "Hugo's changed attitude, father/patriarch address, family creed and endpoint",
+      "resolution": "Preserve Hugo's unusually warm behavior, adjudicate the corrupt title exchange as Patriarch versus Father, render strength-as-justice/weakness-as-sin directly, and stop on Hugo finding the child painfully endearing.",
+      "evidence": ["editorial/reviews/chapter-0006.md", "editorial/continuity/chapter-0006.md"]
+    },
+    {
+      "id": "CH006-06",
+      "status": "open",
+      "paragraphs": [1,124],
+      "question": "Final prose/layout and repository acceptance validation",
+      "required_evidence": "Materialize all 124 paragraphs and complete Korean alignment, render/inspect desktop and mobile layout, run recovery/draft/preview/tracker/test/whitespace checks, then bind acceptance evidence only if all pass."
+    }
+  ],
+  "acceptance_evidence": null,
+  "release_status": "epub_not_built",
+  "pass_description": "Korean/MTL translation and source adjudication complete; final materialization/layout/repository validation pending",
+  "final_review_evidence": []
+}
