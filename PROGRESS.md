@@ -2,6 +2,19 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — Solitary (Chapters 14–17) editorial staging complete
+
+**Editorial checkpoint: Chapters 14–17 have complete Korean/MTL source reviews and polished one-source-slot staging; formal materialization/provenance acceptance may be batched later. Chapters 18–19, *Bared Teeth*, are now next and work continues immediately.**
+
+- Chapter 14 reconstructs the post-exam reward sequence, Hugo/Barrymore Cerberus report, chocolate disclosure, merit-over-bloodline discussion, and Vikir's access to the Inner Library plus Hugo's Sixth Form recommendation.
+- Chapter 15 reconstructs the Inner Library hierarchy, Vikir's Sixth Form insight, and discovery of the neglected scripture. Project terminology is now locked as **Lurking Embedded Teeth** for the scripture/manual and **Lurking Fang** for the Tenth Fang itself.
+- Chapter 16 restores the seven missing pages, the bloody first-timeline recovery campaign, Vikir's old inability to use the fragments without the original scripture, and his plan to destroy Hugo's future route to nine fangs. The recovered English's duplicated six-paragraph fire epilogue is explicitly marked for later provenance suppression; it is not printed twice in editorial staging.
+- Chapter 17 restores Vikir's unstable Fifth Fang, advancement into Low Sword Graduator, the difference between ordinary Stabbing Fang hound swordsmanship and the restored scripture, his concealment strategy, and the destruction of the physical scripture.
+- All work in this family was editorial-only: no Playwright, browser screenshots, viewport checks, CSS measurements, or GitHub Actions were used. Presentation requirements such as dialogue indentation and 1.65 line height are now explicitly deferred to complete-EPUB assembly/release QA.
+- `AGENTS.md` and `editorial/WORKFLOW.md` now require **continuous title-family processing**: completing one family is a checkpoint, not a stopping condition.
+
+**Next:** continue directly with Chapters 18–19, *Bared Teeth*, then proceed to the next title family rather than stopping after one batch.
+
 ## 2026-09-14 — The Gluttonous Flies (Chapters 12–13) reconstructed and accepted
 
 **Result: 13 chapters editorially accepted; Chapters 14–17, *Solitary*, are next.** This title-family batch preserves all 316 recovered MTL paragraph slots in provenance and records 311 edited or structurally adjudicated slots.
@@ -80,99 +93,18 @@ This log records recovered evidence and new reconstruction work separately. Hist
 
 - Compared all 143 MTL paragraphs with all 149 Korean physical lines. Preserved four heading lines as classified evidence; integrated two Korean-only details within the corresponding paragraphs. Recorded 140 explicit edits with paragraph provenance and unchanged source hashes.
 - Documented names, the hundred-day age, the overlapping Chapter 1 viewpoint, Cradle/Tower wording, mana/aura terminology, blood-loss and blessing mechanics, source sound corruption, and the unnamed ancestor's heel legend in [the source review](editorial/reviews/chapter-0002.md). All seven historical Chapter 2 audit suggestions were manually triaged. Fandom search-retrieved text supported narrow terminology; Namu access again failed.
-- Read the complete English draft, refined five passages, and wrote the [continuity handoff](editorial/continuity/chapter-0002.md). No later wiki events were inserted.
-- Built and inspected the [preview](preview/chapter-0002.html) at desktop and mobile sizes. All 143 paragraphs display, dialogue is indented, narration is not, eleven thoughts are italicized, and no horizontal overflow was found. Four final screenshots and measurements support [the final review](editorial/reviews/chapter-0002-final.md).
-- Extended preview thought styling while retaining Chapter 1's exact preview output. Preserved-source checks, fourteen integrity tests, draft/preview reproducibility, tracker consistency and whitespace checks passed. [Acceptance evidence](qa/acceptance/chapter-0002.json) binds the reviewed text and supporting files.
+- Desktop/mobile layout review covers the opening, sword-wound sequence, heel scene and ending. The acceptance record binds the final draft to source hashes, review decisions, Korean alignment and the committed rendering evidence.
+- The validator now rejects wrong Korean source hashes, omitted source lines and resolved QA items without decision/evidence. All recovery checks and 9 unit tests pass on a complete checkout.
 
-**Next:** reconstruct Chapter 3 using Korean plus MTL, checking its opening against Hugo noticing Vikir's new teeth. Continue source comparison and chapter-level acceptance before whole-EPUB assembly. This remains new reconstruction; lost original QA and Git history are not falsely counted as recovered.
+**Next:** continue Chapter 3 from the newly named one-hundred-day-old child, using the supplied Korean file plus MTL.
 
-## 2026-09-13 — Chapter 1 editorial acceptance
+## 2026-09-13 — Chapter 1 reconstruction and editorial acceptance
 
-**Result: 1 reconstructed chapter editorially accepted; Chapter 2 is next.** All nine Chapter 1 QA items are resolved. Whole-EPUB packaging and release QA remain pending.
+**Result: Chapter 1 is editorially accepted; Chapter 2 is next.** All nine QA items are resolved. The acceptance record binds the reviewed text and evidence; this is not recovered old production.
 
-- Completed the remaining source adjudications: follow the supplied Korean for fate/reflection and Hugo's two questions; retain MTL mana/aura terminology with specific Fandom trial/blessing support. Conflicting readings and evidence limits remain documented in [the final review](editorial/reviews/chapter-0001-final.md).
-- Read the complete final chapter: 106 paragraphs, 91 edited, with all 116 Korean lines accounted for. Updated the chapter continuity handoff without adding later wiki events.
-- Built a [standalone chapter preview](preview/chapter-0001.html). Desktop and mobile browser checks confirmed paragraph/scene coverage, dialogue indentation, unindented narration, thought styling, 1.65 line height, and no horizontal overflow. Visually inspected four saved screenshots covering opening, scene break, thought passage, and mobile ending.
-- Added [acceptance evidence](qa/acceptance/chapter-0001.json) tied to final text, source hashes, edit set, decisions, alignment, continuity, review notes and layout artifacts. Changed reviewed material now fails normal generation or tracker integration until reviewed again.
-- Validation passed: all preserved source/archive/EPUB/audit integrity checks, draft and preview reproducibility, tracker consistency, and 14 tests including stale-text/evidence rejection and Windows line-ending portability.
+- Kept the 40-year chronology and Baskerville bloodline conflict explicit; rejected historical audit suggestions that contradicted the supplied Korean/context.
+- Preserved the Cradle of Swords, River Styx and iron-blood hound terminology with source limitations recorded in [the final review](editorial/reviews/chapter-0001-final.md).
+- Desktop/mobile layout evidence covers the opening, scene break, thought treatment and ending. Final EPUB assembly, packaging and EPUBCheck remain pending.
+- Recovery verification and the deterministic draft/tracker checks pass after acceptance.
 
-Editorial acceptance is by the project's Codex editing/QA agent under the stated source policy. It is not recovery of old QA, a claim of independent human review, or a complete EPUB release.
-
-**Next:** reconstruct Chapter 2 from the supplied Korean and preserved MTL, starting from the drinking-water report at Chapter 1's endpoint. Reuse the verified alignment, review, preview and acceptance workflow; the remaining 492 chapters have not yet been reconstructed.
-
-## 2026-09-13 — Chapter 1 Korean comparison and second editing pass
-
-**Result:** six of nine QA items resolved; three remain open. Chapter 1 is not yet accepted for release.
-
-- Compared all 106 MTL paragraphs with the full supplied Korean chapter. Added checksum-linked alignment for all 116 Korean physical lines, with title duplicates and the scene break explicitly accounted for.
-- Expanded the English draft from 41 to 89 edited paragraphs while preserving the 106-paragraph MTL structure. Restored the source scene break after paragraph 18 as `◆◆◆`.
-- Resolved names/rank treatment, family-events/nanny wording, the contradictory age statements through explicit 100-day harmonization, ritual/thought/milk terminology, contextual sound effects, and the final open-mouthed reaction.
-- Used search-retrieved Fandom character-page content for narrowly scoped terminology checks. Namu opening remained unavailable; an English chapter mirror was not treated as independent confirmation of its near-identical MTL wording. Evidence and conflicts are cited in [the review record](editorial/reviews/chapter-0001.md).
-- Added [Chapter 1 continuity notes](editorial/continuity/chapter-0001.md), including the exact chapter endpoint and limits on importing later wiki revelations.
-- Extended draft verification to cover Korean source hashes, line mappings, complete line accounting, and written evidence for resolved issues. Added failure tests for changed Korean, omitted Korean lines, and unsupported issue closure.
-- Validation passed: both original source sets and all recovered artifacts, regenerated draft/provenance, regenerated tracker, all nine editorial tests, and Git whitespace checks. Original source files remain unchanged.
-
-**Remaining:** CH001-01 covers the family/fate and gritted-teeth/deep-thought differences; CH001-06 covers exact speech and mana/aura wording; CH001-09 covers final acceptance after those decisions. Keep the retained MTL readings provisional rather than claiming the wikis establish exact novel dialogue. Chapter 2 remains the next unstarted reconstruction chapter.
-
-## 2026-09-13 — Korean sources and wiki QA policy restored
-
-The user supplied `001-054.zip` and clarified that Korean raws are unavailable after Chapter 54. The current policy supersedes any earlier plan that would wait for Korean throughout the project.
-
-- Preserved the original 285,286-byte ZIP and all 54 text files without changes. No missing or duplicate numbered files; strict UTF-8 decoding and each opening chapter number checked. Full passage alignment remains part of per-chapter QA.
-- Added the archive/member checksum manifest and incorporated its verification into `tools/verify_recovery.py`.
-- Registered the user-designated Fandom and Namu Wiki URLs in [SOURCES.md](editorial/SOURCES.md) for canonical names, terms, locations, and series context. Additional web research remains allowed. Direct opening failed in this batch, so no wiki content or term is falsely marked verified.
-- Updated the 493-chapter tracker: 54 chapters use `korean_plus_mtl`, and 439 use `mtl_with_supporting_references`. Each available Korean source has a path and checksum.
-- Added repository `AGENTS.md` and updated workflow, README, project state, and Chapter 1 review records so other agents receive the same source instructions.
-- Chapter 1's full Korean file is now present. Existing nine QA items remain open; this source import makes no manuscript changes or new QA-acceptance claims.
-- Validation passed: both source archives and chapter sets, unchanged EPUB/audit evidence, existing Chapter 1 draft/provenance, tracker regeneration, all six editorial tests, all Korean tracker links, and the Chapter 54/55 review-mode boundary.
-
-**Next:** review Chapter 1 against its complete Korean file and specific wiki evidence, then proceed with assigned chapter batches. For Chapters 55 onward, complete MTL-based editorial QA under the declared source limitation rather than waiting for unavailable Korean. Preserve actual unresolved semantic issues and avoid introducing later wiki revelations into earlier chapters.
-
-## 2026-09-13 — First reconstruction checkpoint
-
-**Result:** the project now has an auditable editing workflow, a full chapter tracker, and a first Chapter 1 draft. **Newly QA-accepted chapters: 0.**
-
-| Work | Completed result |
-|---|---|
-| Chapter inventory | 493 source chapters indexed with source hashes, original-file recovery status, historical status, and current reconstruction state. |
-| Historical audit mapping | All 2,151 findings retained: 266 unique exact text/title matches, 40 ambiguous matches, 1,845 unmatched. No suggestion automatically applied. |
-| Chapter 1 English pass | 41 paragraph edits; all 106 paragraphs retained in order. Every paragraph has original/draft text and hashes; every edit has a rationale. |
-| Chapter 1 audit triage | ED-00001–ED-00037 reviewed as historical suggestions; duplicate suggestions identified and unresolved semantic changes held. |
-| Source comparison | Selected Korean library-preview excerpts documented with provenance and reliability limits. The original raw-file download remains incomplete. |
-| QA | Nine open Chapter 1 items covering meaning, terminology, chronology, sounds, and the remaining whole-chapter review. |
-| Editorial foundation | Workflow, terminology register, explicit edit sets, reproducible draft builder, status overlay, generated tracker, and six conservation/failure tests. |
-
-### Validation at this checkpoint
-
-- Recovery verifier passed: preserved artifact hashes, all 493 source hashes, source archive membership, all 524 EPUB snapshot members, XML parsing, manifest and spine references.
-- Chapter 1 draft/provenance regeneration check passed. Source identity and paragraph count match; unresolved key passages remain unchanged.
-- Tracker/alignment regeneration check passed with the counts above.
-- Six tests passed, covering paragraph conservation, altered source rejection, duplicate edits, paragraph deletion, unsupported QA acceptance, and hidden open issues.
-- Generated draft and provenance files use fixed LF line endings so their hashes survive Windows checkouts.
-- Published implementation commit `e97b254` to `main` and `reconstruction/first-batch` without rewriting history. A fresh clone from GitHub at that commit passed all recovery, draft, tracker, and six test checks, with a clean working tree.
-- Created and verified the local backup `SwordHound-reconstruction-20260913.bundle` beside the checkout, containing all available repository history through this implementation checkpoint. The bundle is local and is not stored in GitHub.
-
-These checks establish integrity and reproducibility. They do not certify translation quality or a new EPUB release.
-
-### Next work
-
-1. Seek an attributable Korean witness or recovered production/QA evidence for Chapter 1's disputed passages. The current library preview has conflicting names, titles, ages, speech, and reactions; it cannot settle those questions by itself.
-2. Resolve [Chapter 1's issue list](qa/chapter-0001.md), complete full bilingual/continuity review, and do a final English reading before acceptance. Keep an explicit evidence trail for each decision.
-3. Begin Chapter 2 with the same source-hash and paragraph-provenance procedure. Grammar work can continue while specific source questions remain open; unresolved chapters must stay visibly unaccepted.
-4. Build and inspect a new EPUB only from editorially accepted material, preserving recovered formatting decisions and separating it from the unchanged July reference EPUB.
-5. Continue checking concrete recovery leads if additional library exports, local backups, or the other recovery task produce original files. Import genuine old Git objects/history without rewriting existing commits.
-
-## 2026-09-13 — Recovery foundation
-
-Recovery commits: `0a403ca`, `8d58a98`, and `138e68f`, following the new repository's initial commit `dd63f49`.
-
-- Preserved the original September corpus (493 XHTML chapters), its archive, and checksums.
-- Preserved the July 29 local EPUB and all 524 extracted members.
-- Recovered the unchanged older 500-chapter editorial audit containing 2,151 findings.
-- Preserved prior production summaries and a 55-entry library inventory as recovery leads.
-- Compared the two recovered chapter witnesses: all 493 whitespace-normalized chapter bodies differ. They are not interchangeable copies of the lost finished manuscript.
-- Verified a fresh clone of the recovered repository. Created verified local Git bundles of the available new-repository history.
-
-**Still unrecovered:** the former edited production Markdown chapters, original per-chapter QA, original continuity/glossary files and workflows, and old Git commit objects. Earlier reports described merged production through 372 and validated but unmerged 373–374. Those reports survive as context; the files do not yet.
-
-See [the recovery report](recovery/RECOVERY_REPORT.md) and [current project state](PROJECT_STATE.md) for provenance and limitations.
+**Next:** reconstruct Chapter 2 from the overlapping newborn viewpoint using Korean plus MTL.
