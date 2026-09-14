@@ -130,6 +130,13 @@ def main() -> None:
         )
         edits.append([number, replacement, reason])
 
+    suppression_reasons = {
+        "66": "Recovered XHTML NBSP spacer immediately before the Norvegicus info window; retain the source slot in provenance but suppress reader-facing blank output.",
+        "72": "Recovered XHTML NBSP spacer immediately after the Norvegicus info window; retain the source slot in provenance but suppress reader-facing blank output.",
+        "136": "Recovered XHTML NBSP spacer immediately before the Hellhound info window; retain the source slot in provenance but suppress reader-facing blank output.",
+        "142": "Recovered XHTML NBSP spacer immediately after the Hellhound info window; retain the source slot in provenance but suppress reader-facing blank output."
+    }
+
     spec = {
         "chapter": CHAPTER,
         "source": "source/chapters/chapter-009.xhtml",
@@ -138,6 +145,8 @@ def main() -> None:
         "notice": "New reconstruction, not recovered production. Explicit source adjudications and structural exceptions are recorded in editorial/reviews/chapter-0009.md.",
         "korean_alignment": "editorial/korean-alignment/chapter-0009.json",
         "scene_breaks_after": [],
+        "suppressed_paragraphs": sorted(SPACER_SLOTS),
+        "suppression_reasons": suppression_reasons,
         "edits": edits,
     }
 
@@ -180,7 +189,7 @@ def main() -> None:
 
     dump(ROOT / "editorial/edits/chapter-0009.json", spec)
     dump(ROOT / "editorial/korean-alignment/chapter-0009.json", alignment)
-    print(f"Chapter 9 editorial inputs materialized: {len(edits)} changed paragraph slots.")
+    print(f"Chapter 9 editorial inputs materialized: {len(edits)} changed paragraph slots; {len(SPACER_SLOTS)} structural slots suppressed.")
 
 
 if __name__ == "__main__":
