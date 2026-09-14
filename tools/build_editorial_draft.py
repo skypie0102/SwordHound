@@ -140,13 +140,16 @@ def render(chapter, *, validate_acceptance=True):
             draft.append(f'<!-- source-p:{number:03d} -->\n{replacement}')
         if number in scene_breaks:
             draft.append('◆◆◆')
-        rows.append({'paragraph': number, 'source_text_sha256': sha(original.encode()),
-                     'draft_text_sha256': sha(replacement.encode()), 'source_text': original,
-                     'draft_text': replacement, 'changed': original != replacement or suppressed_here,
-                     'suppressed': suppressed_here, 'rationale': reason,
-                     'open_issues': [i['id'] for i in issues if i['status'] == 'open' and number in i['paragraphs']]})
+        row = {'paragraph': number, 'source_text_sha256': sha(original.encode()),
+               'draft_text_sha256': sha(replacement.encode()), 'source_text': original,
+               'draft_text': replacement, 'changed': original != replacement or suppressed_here,
+               'rationale': reason,
+               'open_issues': [i['id'] for i in issues if i['status'] == 'open' and number in i['paragraphs']]}
+        if suppressed_here:
+            row['suppressed'] = True
         if alignment:
-            rows[-1]['korean_lines'] = korean_by_paragraph[number]
+            row['korean_lines'] = korean_by_paragraph[number]
+        rows.append(row)
     status = 'Editorially accepted reconstruction — EPUB release pending.' if qa['accepted'] else 'Reconstruction draft — QA not accepted.'
     text = f'# Chapter {chapter}: {title}\n\n> {status} See [review](../../{qa_path}). Paragraph markers refer to the unchanged source.\n\n' + '\n\n'.join(draft) + '\n'
     if qa['accepted'] and validate_acceptance:
@@ -164,7 +167,8 @@ def render(chapter, *, validate_acceptance=True):
                   'draft': draft_path, 'draft_sha256': sha(text.encode()), 'paragraph_count': len(rows),
                   'changed_paragraphs': sum(1 for row in rows if row['changed']), 'paragraphs': rows}
     provenance['scene_breaks_after'] = scene_breaks
-    provenance['suppressed_paragraphs'] = sorted(suppressed)
+    if suppressed:
+        provenance['suppressed_paragraphs'] = sorted(suppressed)
     provenance['editorial_accepted'] = qa['accepted']
     provenance['acceptance_evidence'] = qa.get('acceptance_evidence')
     if alignment:
