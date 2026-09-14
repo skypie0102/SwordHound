@@ -34,7 +34,7 @@ def source_paragraph_metadata(source_rel):
 
 
 def legacy_preview(record, title):
-    """Preserve byte-for-byte preview behavior for accepted chapters without structured-window/suppression needs."""
+    """Preserve byte-for-byte preview behavior for accepted Chapters 1-7."""
     body = []
     for row in record['paragraphs']:
         text = row['draft_text']
@@ -68,6 +68,12 @@ p.dialogue { text-indent: 1.5em; }
 def render_preview(chapter):
     record = json.loads((ROOT / f'editorial/provenance/chapter-{chapter:04d}.json').read_text(encoding='utf-8'))
     title = (ROOT / f'manuscript/drafts/chapter-{chapter:04d}.md').read_text(encoding='utf-8').splitlines()[0][2:]
+
+    # Accepted Chapters 1-7 predate structured-window/suppression rendering.
+    # Keep their generator path exact so acceptance hashes remain byte-stable.
+    if chapter <= 7:
+        return legacy_preview(record, title)
+
     source_meta = source_paragraph_metadata(record['source'])
     if len(source_meta) != len(record['paragraphs']):
         raise ValueError('Source structure no longer matches paragraph provenance')
