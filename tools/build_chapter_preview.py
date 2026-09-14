@@ -10,7 +10,7 @@ NS = {'h': 'http://www.w3.org/1999/xhtml'}
 
 
 def source_paragraph_metadata(source_rel):
-    """Return source structural metadata without changing provenance/acceptance schemas."""
+    """Return source structural metadata without changing recovered XHTML."""
     doc = ET.fromstring((ROOT / source_rel).read_bytes())
     body = doc.find('.//h:div[@class="chapter-content"]', NS)
     rows = []
@@ -47,6 +47,14 @@ def render_preview(chapter):
         source_classes = meta['source_class'].split()
         is_formatting_blank = not text.replace('\xa0', '').strip()
         is_source_divider = 'scene-break' in source_classes and text.strip() in {'◆', '◆◆◆', '* * *'}
+
+        if row.get('suppressed'):
+            if not meta['info_window'] and info_open:
+                body.append('</div>')
+                info_open = False
+            if row['paragraph'] in record['scene_breaks_after']:
+                body.append('<div class="scene-break" role="separator" aria-label="Scene break">◆◆◆</div>')
+            continue
 
         if is_source_divider:
             if info_open:
