@@ -1,0 +1,603 @@
+{
+  "chapter": 6,
+  "source": "source/chapters/chapter-006.xhtml",
+  "source_sha256": "e3d04aedc45bede6f35674fba1189ac452f76189c94802afe3fb818271eff938",
+  "expected_paragraphs": 124,
+  "notice": "New reconstruction, not recovered production. Explicit source adjudications and limitations are recorded in editorial/reviews/chapter-0006.md.",
+  "korean_alignment": "editorial/korean-alignment/chapter-0006.json",
+  "scene_breaks_after": [
+    66
+  ],
+  "edits": [
+    [
+      2,
+      "He had served the Baskerville family as a butler for four generations.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 4."
+    ],
+    [
+      3,
+      "“My lord. I’m here to give today’s report.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 5."
+    ],
+    [
+      4,
+      "Seated before Barrymore was a middle-aged man.",
+      "Repair historical audit fragment ED-00070 by restoring a complete seated-subject sentence from Korean line 6."
+    ],
+    [
+      5,
+      "He had a blade-sharp nose, a thick beard, and eyes as cold as ice.",
+      "Repair historical audit fragment ED-00071 while preserving the separate physical-description paragraph."
+    ],
+    [
+      6,
+      "A Sword Master. The Sword Star. One of the Seven Pillars who had saved the Empire.",
+      "Restore Hugo’s Sword Master/Sword Star/Seven Pillars titles from the combined Korean line and canonical series terminology."
+    ],
+    [
+      7,
+      "Hugo Le Baskerville, patriarch of the Iron-Blooded Sword Clan, watched Barrymore with an expressionless face.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 7."
+    ],
+    [
+      8,
+      "“First report: the bloodshed with the Morgue Family at the ruby mines of Red Fang Mountain.”",
+      "Use Morgue Family and canonical Red Fang Mountain; preserve Red Cane/Red Peak only in the source review as variants."
+    ],
+    [
+      9,
+      "The Morgue Family, famed for its magic, was one of the seven great families alongside the Baskervilles.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 9."
+    ],
+    [
+      10,
+      "The two families had recently been locked in a territorial dispute over a rich ruby mine in the west, right along the boundary of their domains.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 10."
+    ],
+    [
+      11,
+      "After a while, Hugo finally spoke.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 11."
+    ],
+    [
+      12,
+      "“We’ll have a chance to discuss that soon. Morgue will contact us first.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 12."
+    ],
+    [
+      13,
+      "Hugo gestured for him to continue.",
+      "Render the Korean action as Hugo gesturing for Barrymore to continue, rather than the MTL’s broken folded-hands clause."
+    ],
+    [
+      14,
+      "Barrymore resumed his report.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 14."
+    ],
+    [
+      15,
+      "Hugo listened with little interest, his expression barely changing.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 15."
+    ],
+    [
+      16,
+      "An occasional irritated frown was his only response.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 16."
+    ],
+    [
+      17,
+      "Just then—",
+      "Remove the MTL-only advertising insertion by assigning this conserved paragraph to Korean line 17, “Just then—”."
+    ],
+    [
+      18,
+      "One report, however, was different.",
+      "Split Korean line 18 across two conserved MTL paragraphs; shared-line ownership is declared explicitly."
+    ],
+    [
+      19,
+      "For the first time that day, Hugo’s expression changed.",
+      "Complete the second half of Korean line 18 without restoring the advertisement text."
+    ],
+    [
+      20,
+      "“…Master Vikir placed first in the written portion of this midterm evaluation at Fang Castle.”",
+      "Correct MTL “handwriting” to the written portion of the midterm evaluation."
+    ],
+    [
+      21,
+      "At Barrymore’s words, Hugo gently stroked his chin.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 20."
+    ],
+    [
+      22,
+      "Barrymore knew from experience that this was Hugo’s habit whenever he was pleased.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 21."
+    ],
+    [
+      23,
+      "Hugo rarely remembered the names of the family’s children, so Barrymore’s expression brightened as well.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 22."
+    ],
+    [
+      24,
+      "Soon Hugo asked a question.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 23."
+    ],
+    [
+      25,
+      "“Butler. When do the children take their practical exam?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 24."
+    ],
+    [
+      26,
+      "“Soon. It starts in five days. Most of Fang Castle’s Guardian Knights have already left to prepare.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 25."
+    ],
+    [
+      27,
+      "“Then Fang Castle must be nearly empty.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 26."
+    ],
+    [
+      28,
+      "Barrymore’s expression shifted slightly.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 27."
+    ],
+    [
+      29,
+      "“As it happens, the next report concerns Fang Castle, my lord.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 28."
+    ],
+    [
+      31,
+      "“Well… there’s good news and bad news.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 30."
+    ],
+    [
+      32,
+      "“Good news first.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 31."
+    ],
+    [
+      33,
+      "At Hugo’s show of interest, Barrymore’s voice gained a little strength.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 32."
+    ],
+    [
+      34,
+      "“They say two suns appeared in the sky above Fang Castle.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 33."
+    ],
+    [
+      36,
+      "Hugo’s eyes widened slightly.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 35."
+    ],
+    [
+      37,
+      "The Baskerville family was surprisingly superstitious.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 36."
+    ],
+    [
+      38,
+      "“An auspicious sign?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 37."
+    ],
+    [
+      39,
+      "“At the very least, there were two suns, weren’t there? The servants are saying a little sun has been born to aid the heir.”",
+      "Restore Korean’s rumor that a little sun was born to aid the heir, not merely the children."
+    ],
+    [
+      40,
+      "“…Hmm. Could someone have been playing a trick with mana?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 39."
+    ],
+    [
+      41,
+      "“Everyone capable of such a prank was away on official business or helping prepare the practical exam.”",
+      "Restore Korean’s official-business/practical-exam preparation explanation for why no capable prankster was present."
+    ],
+    [
+      42,
+      "“Then it doesn’t sound like a bad omen. Another sun…”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 41."
+    ],
+    [
+      43,
+      "Hugo nodded quietly.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 42."
+    ],
+    [
+      44,
+      "Since ancient times, the appearance of two suns—or of multicolored clouds—had been regarded as an auspicious sign.",
+      "Restore Korean’s two-suns/multicolored-cloud omen; reject MTL “Chae-un” as a corrupted proper noun."
+    ],
+    [
+      45,
+      "“Whenever such signs appear, good fortune comes to the family. I wonder what will happen at Fang Castle.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 44."
+    ],
+    [
+      46,
+      "Barrymore’s expression darkened.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 45."
+    ],
+    [
+      47,
+      "“Well… something did happen.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 46."
+    ],
+    [
+      48,
+      "“That’s the bad news you mentioned? Tell me.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 47."
+    ],
+    [
+      49,
+      "Barrymore resumed his report in a grave tone.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 48."
+    ],
+    [
+      50,
+      "“There was a serious fight among the young masters.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 49."
+    ],
+    [
+      51,
+      "At once, Hugo’s expression changed completely.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 50."
+    ],
+    [
+      52,
+      "“A serious fight? How many died?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 51."
+    ],
+    [
+      53,
+      "“…No one died. But Master Highbro’s teeth were shattered, Master Middlebro’s jaw was broken, and Master Lowbro’s right index finger was severed. They have all received treatment and recovered.”",
+      "Keep the accepted Chapter 5 injury sequence and note that treatment restored the triplets physically."
+    ],
+    [
+      54,
+      "“Then it was only a minor scuffle. Brothers grow up fighting.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 53."
+    ],
+    [
+      55,
+      "Relieved, Hugo leaned back in his chair.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 54."
+    ],
+    [
+      56,
+      "He flipped through the reports on the triplets and murmured.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 55."
+    ],
+    [
+      57,
+      "“The three of them are always together. Surely they didn’t fight one another?”",
+      "Repair the malformed question about whether the inseparable triplets fought one another."
+    ],
+    [
+      58,
+      "“Correct. They clashed with another young master.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 57."
+    ],
+    [
+      59,
+      "“Fools. In this family, anyone older than them should obviously be stronger. Even pups size up whether an opponent is stronger or weaker before attacking.”",
+      "Preserve Hugo’s assumption that older Baskerville children should be stronger and his pups-sizing-up-opponents analogy."
+    ],
+    [
+      61,
+      "“Actually… the young master who did that to them was younger.”",
+      "Clarify that the attacker was younger than the triplets."
+    ],
+    [
+      62,
+      "“What? Younger? Are you saying the entire class of eight-year-olds ganged up on them?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 61."
+    ],
+    [
+      63,
+      "“No. One boy.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 62."
+    ],
+    [
+      64,
+      "A strange light returned to Hugo’s eyes.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 63."
+    ],
+    [
+      65,
+      "Barrymore’s next words made that light sharpen.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 64."
+    ],
+    [
+      66,
+      "“The culprit was Master Vikir—the same boy I mentioned, who ranked first on the written exam.”",
+      "Identify Vikir as both the sole attacker and the written-exam first place immediately before the Korean scene break."
+    ],
+    [
+      67,
+      "Vikir Van Baskerville was eight years old that year.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 67."
+    ],
+    [
+      68,
+      "Summoned by the patriarch, he made his way to a private study deep within the mansion.",
+      "Render the summons as a visit to the patriarch’s private study without treating the Korean “city” corruption as a new location."
+    ],
+    [
+      69,
+      "When he opened the door, Hugo Le Baskerville’s imposing frame came into view.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 69."
+    ],
+    [
+      70,
+      "“Sit.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 70."
+    ],
+    [
+      71,
+      "Though Hugo released no deliberate aura, the pressure of his mere presence was immense.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 71."
+    ],
+    [
+      72,
+      "Vikir moved carefully, making sure not to expose the mana hidden within his body.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 72."
+    ],
+    [
+      73,
+      "‘I’m confident in hiding my mana.’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 73."
+    ],
+    [
+      74,
+      "Warriors who had survived the war against demons and the long Age of Destruction were masters at concealing their mana.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 74."
+    ],
+    [
+      75,
+      "No warrior of the present era, who had never lived through that age, knew how to hide mana so completely.",
+      "Restore Korean’s Age-of-Destruction knowledge distinction rather than the MTL’s vague “unknown right now”."
+    ],
+    [
+      76,
+      "It was a matter of experience, not strength.",
+      "Use Korean experience, not MTL skill, as the basis of advanced mana concealment."
+    ],
+    [
+      77,
+      "Yet even that technique had limits. If his mana grew much stronger, Hugo would inevitably notice.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 77."
+    ],
+    [
+      78,
+      "‘I’ll need a solution before that happens.’",
+      "Conservatively repair the conflicting witnesses as Vikir needing a solution before stronger mana becomes noticeable."
+    ],
+    [
+      79,
+      "With that thought, Vikir sat down on the small chair prepared for him.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 79."
+    ],
+    [
+      80,
+      "Hugo spoke.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 80."
+    ],
+    [
+      81,
+      "“It’s been a while. You’ve grown a lot.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 81."
+    ],
+    [
+      82,
+      "Vikir was slightly surprised.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 82."
+    ],
+    [
+      83,
+      "His voice, usually honed like a blade and sharp enough to cut merely by being heard, sounded strangely subdued today.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 83."
+    ],
+    [
+      84,
+      "The words themselves were just as unexpected.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 84."
+    ],
+    [
+      85,
+      "‘Piglets grow quickly. Why do these brats look so scrawny every time I see them?’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 85."
+    ],
+    [
+      86,
+      "Before his regression, Hugo used to say things like that all the time.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 86."
+    ],
+    [
+      87,
+      "Back then, he watched children grow the way a butcher judged livestock for market. Today, however, his gaze was strangely warm.",
+      "Restore the livestock/butcher comparison while keeping today’s warmer gaze distinct."
+    ],
+    [
+      88,
+      "Almost as if he expected something from Vikir.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 88."
+    ],
+    [
+      89,
+      "“Greetings, Patriarch.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 89."
+    ],
+    [
+      90,
+      "Vikir greeted him brightly, like a child.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 90."
+    ],
+    [
+      91,
+      "But Hugo seemed oddly dissatisfied with the title “Patriarch.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 91."
+    ],
+    [
+      92,
+      "“Patriarch, huh? Not ‘Father’?”",
+      "Adjudicate the corrupted title exchange as Patriarch versus Father; Hugo is canonically Vikir’s father and the reaction otherwise has no coherent object."
+    ],
+    [
+      93,
+      "He considered something for a moment, then changed the subject.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 93."
+    ],
+    [
+      94,
+      "“I hear you crippled the triplets in the nine-year-old advanced class.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 94."
+    ],
+    [
+      95,
+      "“As I understand it, they received proper treatment afterward.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 95."
+    ],
+    [
+      96,
+      "“I’m not talking about their bodies.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 96."
+    ],
+    [
+      98,
+      "“What about their minds?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 98."
+    ],
+    [
+      99,
+      "“… ”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 99."
+    ],
+    [
+      100,
+      "“Since that day, they eat separately, sleep separately, and barely speak to one another. Their teamwork used to be excellent, but now they’ve completely fallen apart.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 100."
+    ],
+    [
+      101,
+      "And that wasn’t all. These days, all three were so terrified of Vikir that they wet themselves whenever they saw him.",
+      "Restore Korean’s explicit detail that the triplets now wet themselves in fear when they see Vikir."
+    ],
+    [
+      102,
+      "A hound that had lost its fighting spirit was useless on the battlefield.",
+      "Use battlefield for the hound-without-fighting-spirit maxim."
+    ],
+    [
+      103,
+      "Vikir saw no need to mention that.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 103."
+    ],
+    [
+      104,
+      "Instead, he simply stated his opinion.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 104."
+    ],
+    [
+      105,
+      "“Carrying three dull blades only weighs you down. Better one finely forged sword.”",
+      "Restore the Korean metaphor of three dull blades versus one finely forged blade."
+    ],
+    [
+      106,
+      "Admiration flashed through Hugo’s eyes.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 106."
+    ],
+    [
+      107,
+      "“…Indeed.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 107."
+    ],
+    [
+      108,
+      "Stroking his chin, he looked down at the eight-year-old before him.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 108."
+    ],
+    [
+      109,
+      "A faint smile tugged at the corners of his mouth.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 109."
+    ],
+    [
+      110,
+      "“But don’t you think it was wrong to hurt your brothers?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 110."
+    ],
+    [
+      111,
+      "Vikir looked genuinely puzzled.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 111."
+    ],
+    [
+      112,
+      "“Wrong? What did I do wrong?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 112."
+    ],
+    [
+      113,
+      "“What are you talking about? You battered your brothers.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 113."
+    ],
+    [
+      114,
+      "Vikir tilted his head as though he truly did not understand.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 114."
+    ],
+    [
+      115,
+      "“What’s wrong with that? I’m stronger.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 115."
+    ],
+    [
+      116,
+      "“…What?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 116."
+    ],
+    [
+      117,
+      "Vikir turned the question back on the stunned Hugo.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 117."
+    ],
+    [
+      118,
+      "“How can the strong be wrong?”",
+      "Render Vikir’s challenge in direct modern English: how can the strong be wrong?"
+    ],
+    [
+      119,
+      "Strength was justice. Weakness was sin.",
+      "Use the established Baskerville creed “Strength is justice. Weakness is sin.”"
+    ],
+    [
+      120,
+      "Wasn’t that the creed of Baskerville?",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 120."
+    ],
+    [
+      121,
+      "A moment passed.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 121."
+    ],
+    [
+      122,
+      "“… ”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 122."
+    ],
+    [
+      124,
+      "The little boy before him was so endearing it made his chest ache.",
+      "Preserve the Korean endpoint that the child is endearing enough to make Hugo’s chest ache; do not import later reconciliation."
+    ]
+  ]
+}
