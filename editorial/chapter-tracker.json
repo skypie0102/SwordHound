@@ -232,10 +232,12 @@
       "original_edited_file": "not_recovered",
       "original_qa_file": "not_recovered",
       "historical_reported_state": "merged_through_372",
-      "reconstruction_status": "not_started",
-      "draft": null,
-      "qa_report": null,
-      "open_issues": [],
+      "reconstruction_status": "qa_in_progress",
+      "draft": "manuscript/drafts/chapter-0007.md",
+      "qa_report": "qa/chapter-0007.md",
+      "open_issues": [
+        "CH007-06"
+      ],
       "audit_findings_with_exact_unique_match": [
         "ED-00072",
         "ED-00073",

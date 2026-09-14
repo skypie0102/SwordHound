@@ -1,0 +1,688 @@
+{
+  "chapter": 7,
+  "source": "source/chapters/chapter-007.xhtml",
+  "source_sha256": "857afae47af7eab43b52d7a578664446df0a711bfdb2d31e9184ea9d80d440cb",
+  "expected_paragraphs": 146,
+  "notice": "New reconstruction, not recovered production. Explicit source adjudications and limitations are recorded in editorial/reviews/chapter-0007.md.",
+  "korean_alignment": "editorial/korean-alignment/chapter-0007.json",
+  "scene_breaks_after": [
+    93
+  ],
+  "edits": [
+    [
+      1,
+      "Vikir knew Hugo’s personality well.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 5."
+    ],
+    [
+      2,
+      "‘…A lizard.’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 6."
+    ],
+    [
+      3,
+      "His blood ran so cold he could have been mistaken for a cold-blooded reptile.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 7."
+    ],
+    [
+      4,
+      "At heart, Hugo cared only about the future of the family and his own achievements.",
+      "Repair historical audit ED-00072 and restore Hugo’s self/family-focused utilitarian characterization from Korean."
+    ],
+    [
+      5,
+      "To him, everyone but himself was a tool—especially those meant to serve as weapons.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 9."
+    ],
+    [
+      6,
+      "Weapons existed to harm others. The notion of a weapon independently showing mercy or hesitation was unthinkable.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 10."
+    ],
+    [
+      7,
+      "And naturally, the more poison a weapon carried, the better.",
+      "Use the Korean weapon-poison metaphor rather than the MTL’s altered quantity-of-weapons reading."
+    ],
+    [
+      8,
+      "So there was nothing strange about Hugo’s gaze toward Vikir gradually growing warmer with satisfaction.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 12."
+    ],
+    [
+      9,
+      "“So. You think you’re innocent?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 13."
+    ],
+    [
+      10,
+      "“Yes. My brothers were the ones in the wrong.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 14."
+    ],
+    [
+      13,
+      "In this world, the strong were respected and the weak were sinners.",
+      "Restore the explicit strong-respected/weak-sinner half of the Baskerville creed."
+    ],
+    [
+      14,
+      "Wasn’t that Baskerville?",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 18."
+    ],
+    [
+      15,
+      "Vikir’s answer struck straight at the heart of the family creed.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 19."
+    ],
+    [
+      16,
+      "A lion devouring a deer was not committing a sin.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 20."
+    ],
+    [
+      17,
+      "The strong defeating the weak was the law of nature; calling it a matter of crime and punishment was merely the absurd protest of the weak.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 21."
+    ],
+    [
+      18,
+      "That lesson had been driven into Vikir throughout childhood by tutors whose teachings ultimately came from Hugo.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 22."
+    ],
+    [
+      19,
+      "‘…So whining that my brothers bullied me first would have been useless.’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 23."
+    ],
+    [
+      20,
+      "Before his regression, Vikir had tried to explain his innocence and his brothers’ wrongdoing like any ordinary child, only for Hugo to regard him with even greater contempt.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 24."
+    ],
+    [
+      21,
+      "…And that gaze had not changed even at the very end, when Vikir knelt before the guillotine.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 25."
+    ],
+    [
+      22,
+      "Meanwhile—",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 26."
+    ],
+    [
+      24,
+      "He clasped his hands before his mouth.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 28."
+    ],
+    [
+      25,
+      "Then he spoke in a low, subdued voice.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 29."
+    ],
+    [
+      26,
+      "“Your brothers came here before you.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 30."
+    ],
+    [
+      27,
+      "“…”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 31."
+    ],
+    [
+      28,
+      "“They said that, as your older brothers, they would forgive you.”",
+      "Clarify that the triplets offered forgiveness in their role as Vikir’s older brothers."
+    ],
+    [
+      29,
+      "Vikir did not bother answering.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 33."
+    ],
+    [
+      30,
+      "Having spent so long at Hugo’s side in his previous life, he could guess what had happened.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 34."
+    ],
+    [
+      31,
+      "The triplets had probably failed to give Hugo the answer he wanted and only irritated him further.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 35."
+    ],
+    [
+      32,
+      "‘They must have been terrified. And “forgiveness”? They probably begged to be kept away from me.’",
+      "Restore Korean’s fuller implication that the frightened triplets likely wanted distance from Vikir."
+    ],
+    [
+      33,
+      "Vikir answered in an emotionless voice.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 37."
+    ],
+    [
+      34,
+      "“Growing older costs nothing, after all.”",
+      "Reconstruct the age/eldest wordplay using the supplied Korean age line plus the later callback as narrow corroboration."
+    ],
+    [
+      35,
+      "“…”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 39."
+    ],
+    [
+      37,
+      "Then he gave a faint laugh.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 41."
+    ],
+    [
+      38,
+      "“Heh. True. Even this father had to work hard to become the eldest son when I became patriarch.”",
+      "Preserve Hugo’s self-reference as “this father” and the dark claim that he worked to become the eldest son."
+    ],
+    [
+      39,
+      "It was strange enough just to hear Hugo refer to himself as “this father.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 43."
+    ],
+    [
+      40,
+      "‘He worked hard to become the eldest son? Is that something effort can accomplish?’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 44."
+    ],
+    [
+      41,
+      "Vikir pondered the unfamiliar remark for a moment before understanding.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 45."
+    ],
+    [
+      42,
+      "Hugo had risen to the patriarch’s seat by killing all of his older brothers.",
+      "Preserve Korean’s explicit statement that Hugo became patriarch by killing his older brothers."
+    ],
+    [
+      43,
+      "‘I always thought only the eldest son could inherit the family. So even the eldest son can be made afterward.’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 47."
+    ],
+    [
+      44,
+      "Once again, Vikir was reminded of the true nature of Baskerville.",
+      "Repair historical audit ED-00073 with a natural statement of Vikir recognizing Baskerville’s true nature."
+    ],
+    [
+      45,
+      "Hugo asked another question.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 49."
+    ],
+    [
+      46,
+      "“Whatever the circumstances, your older brothers reached out first and offered forgiveness. Do you still feel no guilt?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 50."
+    ],
+    [
+      47,
+      "“…”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 51."
+    ],
+    [
+      49,
+      "The warm eyes of a father—something Vikir had never once received from him in his previous life.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 53."
+    ],
+    [
+      50,
+      "But a heart already frozen solid could never be melted by such faint warmth.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 54."
+    ],
+    [
+      51,
+      "…It had happened sometime before his regression.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 55."
+    ],
+    [
+      52,
+      "The last surviving daughter of a family exterminated by Baskerville had once come to see Hugo in person.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 56."
+    ],
+    [
+      53,
+      "Years later, after becoming a nun, she had come to him with the words, “I forgive you.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 57."
+    ],
+    [
+      54,
+      "Back then, Hugo had answered:",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 58."
+    ],
+    [
+      55,
+      "“Forgiveness is nothing but an excuse used by the weak who lack the power to take revenge.”",
+      "Use Hugo’s established forgiveness maxim, corroborated by the series reference."
+    ],
+    [
+      56,
+      "Vikir repeated those exact words now, changing only the honorifics.",
+      "Clarify that Vikir is repeating Hugo’s old words in the present rather than leaving the active speaker ambiguous."
+    ],
+    [
+      57,
+      "Hugo’s eyes widened at once.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 61."
+    ],
+    [
+      58,
+      "“Hahahahahaha—!”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 62."
+    ],
+    [
+      59,
+      "His laughter rang through the room loudly enough to shake the windows.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 63."
+    ],
+    [
+      60,
+      "Hugo leaned back in his chair, looking utterly satisfied.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 64."
+    ],
+    [
+      61,
+      "“Now that’s a child of mine. It’s like looking at my eldest son.”",
+      "Preserve Korean’s comparison to Hugo’s eldest son."
+    ],
+    [
+      62,
+      "It was the first time Vikir had ever seen Hugo show such strong emotion toward one of his children.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 66."
+    ],
+    [
+      63,
+      "Their conversation ended there.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 67."
+    ],
+    [
+      65,
+      "Hugo called for the butler, his face returning to its usual impassive expression.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 69."
+    ],
+    [
+      66,
+      "But a trace of warmth still lingered in his voice.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 70."
+    ],
+    [
+      68,
+      "Barrymore’s eyes widened.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 72."
+    ],
+    [
+      69,
+      "Baskerville children ate the same food every day until they turned fifteen.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 73."
+    ],
+    [
+      70,
+      "Water and haggis.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 74."
+    ],
+    [
+      71,
+      "The haggis was a dense mash of meat and offal from various animals mixed with a little vegetable matter—extremely high in calories and nutrients, but salty and thoroughly unpleasant.",
+      "Restore Korean’s fuller haggis description, including its calorie/nutrient density and salty unpleasant taste."
+    ],
+    [
+      72,
+      "The supply was unlimited and kept impeccably hygienic, but taste was clearly not a concern.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 76."
+    ],
+    [
+      73,
+      "That was why Baskerville children went wild for sweets and chocolate whenever good grades earned them a reward.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 77."
+    ],
+    [
+      74,
+      "It was an inexpensive system for motivating children, fostering competition, and ultimately producing capable members of Baskerville.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 78."
+    ],
+    [
+      75,
+      "Knowing that, Hugo asked Vikir a question.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 79."
+    ],
+    [
+      76,
+      "“Is there any snack you want?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 80."
+    ],
+    [
+      77,
+      "Vikir answered at once with the innocent smile of an eight-year-old.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 81."
+    ],
+    [
+      79,
+      "Hugo watched him and nodded.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 83."
+    ],
+    [
+      80,
+      "‘He probably thinks I’m finally acting my age.’",
+      "Render Vikir’s interpretation of Hugo’s reaction naturally without awkward nested quotation."
+    ],
+    [
+      81,
+      "Barrymore smiled as well, as though thinking that a child was still a child after all.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 85."
+    ],
+    [
+      82,
+      "Hugo gestured to Barrymore.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 86."
+    ],
+    [
+      83,
+      "“Take him to the food storage and let him have as much chocolate as he wants. Don’t let him get too greedy—only what he can carry.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 87."
+    ],
+    [
+      85,
+      "Barrymore took Vikir by the hand and headed for the door.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 89."
+    ],
+    [
+      86,
+      "Just as they were leaving—",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 90."
+    ],
+    [
+      87,
+      "Hugo spoke with his back to the door.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 91."
+    ],
+    [
+      88,
+      "“Do well on this midterm evaluation.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 92."
+    ],
+    [
+      89,
+      "Such encouragement from Hugo was rare.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 93."
+    ],
+    [
+      90,
+      "What followed was even more unusual.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 94."
+    ],
+    [
+      91,
+      "“…Don’t lose to the direct line.”",
+      "Keep Korean/MTL direct-line distinction without naming later competitors."
+    ],
+    [
+      92,
+      "At those words, Vikir’s eyes glowed blood-red.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 96."
+    ],
+    [
+      94,
+      "“We’re here, young master.”",
+      "Repurpose the MTL scene-divider paragraph as the first post-break narrative slot; Korean line 98 is separately restored as ◆◆◆ after paragraph 93."
+    ],
+    [
+      95,
+      "Barrymore led Vikir to the kitchen on the outskirts of Fang Castle.",
+      "Use established Fang Castle terminology for the juvenile residence/kitchen location."
+    ],
+    [
+      96,
+      "Several chefs followed politely behind them.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 101."
+    ],
+    [
+      97,
+      "The food storage deep underground was always cool.",
+      "Repair historical audit ED-00074 by rendering the underground food-storage statement as a complete sentence in the post-break realignment."
+    ],
+    [
+      98,
+      "Cold air seeping through gaps in the stone met the warm air entering through the open door, forming a faint haze of condensation.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 103."
+    ],
+    [
+      99,
+      "Barrymore raised a lantern to illuminate the interior of the storage room.",
+      "Follow Korean: Barrymore raises a lantern to illuminate the storage room; reject the MTL hand-dissipating-mist corruption."
+    ],
+    [
+      100,
+      "The same task could have been handled with mana, but the old butler performed it himself without the slightest awkwardness.",
+      "Conservatively render the mana-versus-manual-lighting contrast without inventing a new technique."
+    ],
+    [
+      101,
+      "Vikir stepped inside.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 106."
+    ],
+    [
+      102,
+      "Ingredients for the family’s Guardian Knights, relatives over fifteen, and other servants were neatly arranged throughout the room.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 107."
+    ],
+    [
+      103,
+      "“The candies and jellies are over here, young master. If there’s anything you’d like prepared separately, I can have the chefs make it.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 108."
+    ],
+    [
+      104,
+      "Vikir shook his head at Barrymore’s kind offer.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 109."
+    ],
+    [
+      105,
+      "“Chocolate is enough.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 110."
+    ],
+    [
+      106,
+      "Barrymore looked down at him with a trace of pity.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 111."
+    ],
+    [
+      107,
+      "How badly must the boy have craved chocolate?",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 112."
+    ],
+    [
+      108,
+      "“Once you’re over fifteen, you’ll be able to eat whatever you like.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 113."
+    ],
+    [
+      109,
+      "It was sincere consolation.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 114."
+    ],
+    [
+      110,
+      "The chefs behind them, watching the butler’s expression, began taking the finest chocolates from the shelves.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 115."
+    ],
+    [
+      111,
+      "“These are the finest chocolates, favored by the gourmets of the Morgue Family. We managed to obtain several boxes this time. They say nuts from the south and honey from the west deepen the flavor even further.”",
+      "Use Morgue Family consistently with accepted terminology."
+    ],
+    [
+      112,
+      "But Vikir shook his head.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 117."
+    ],
+    [
+      113,
+      "“I don’t need anything processed.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 118."
+    ],
+    [
+      114,
+      "“…Pardon?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 119."
+    ],
+    [
+      115,
+      "Barrymore and the chefs stared at him in confusion. Vikir explained.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 120."
+    ],
+    [
+      116,
+      "“I need raw cacao beans. A variety with an extremely intense flavor.”",
+      "Normalize raw cacao beans, not MTL coca beans."
+    ],
+    [
+      117,
+      "Barrymore furrowed his brow.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 122."
+    ],
+    [
+      118,
+      "Cacao beans were the raw material used to make chocolate.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 123."
+    ],
+    [
+      119,
+      "But unprocessed cacao beans were not sweet at all. They were unbearably bitter.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 124."
+    ],
+    [
+      120,
+      "And a variety prized for an especially intense flavor would be more bitter still.",
+      "Preserve the Korean-only separate sentence that an intense-flavored variety would be even more bitter."
+    ],
+    [
+      121,
+      "After hearing the chefs’ report, Barrymore spoke.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 126."
+    ],
+    [
+      122,
+      "“Hmm. An especially intense variety… there is one. Long ago, the patriarch personally led the family elders against the barbarians on the western frontier, then cleared the vast jungle there into farmland. A local specialty called the ‘Bloody Bean’ is so concentrated that a single bean can make one hundred liters of chocolate.”",
+      "Restore the Bloody Bean origin/concentration explanation with family elders rather than MTL senators."
+    ],
+    [
+      124,
+      "“How much should we bring?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 129."
+    ],
+    [
+      125,
+      "“All you have.”",
+      "Render Korean 있는 만큼 as all available beans."
+    ],
+    [
+      126,
+      "At Vikir’s order, the chefs immediately moved.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 131."
+    ],
+    [
+      127,
+      "Before long, one returned carrying a small leather pouch.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 132."
+    ],
+    [
+      128,
+      "The pouch, barely large enough to hold two fists, was filled with vivid red cacao beans.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 133."
+    ],
+    [
+      129,
+      "There were easily more than a hundred of them.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 134."
+    ],
+    [
+      130,
+      "These were Bloody Beans. Each bean was concentrated enough to make roughly one hundred liters of chocolate.",
+      "Use concentration/enough-to-make wording rather than MTL consistency."
+    ],
+    [
+      131,
+      "Vikir bit into one as a test.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 136."
+    ],
+    [
+      132,
+      "Crunch!",
+      "Replace the opaque bite sound token with contextual Crunch!."
+    ],
+    [
+      133,
+      "The reaction in his mouth was immediate.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 138."
+    ],
+    [
+      134,
+      "The astringent bitterness was so intense that his entire tongue went numb.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 139."
+    ],
+    [
+      135,
+      "Vikir spat out the bean and nodded in satisfaction.",
+      "Correct MTL peas to cacao bean."
+    ],
+    [
+      136,
+      "Barrymore nodded as well.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 141."
+    ],
+    [
+      137,
+      "‘He really does love chocolate.’",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 142."
+    ],
+    [
+      138,
+      "Hugo had told them to let Vikir take as much food as he could carry, so there was no problem with him taking all of the cacao beans.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 143."
+    ],
+    [
+      139,
+      "But this single pouch held enough concentrated cacao to make roughly ten thousand liters of chocolate.",
+      "Correct the 10,000-liter figure to the whole pouch, not one bean; over 100 beans × about 100 liters each supports the total."
+    ],
+    [
+      140,
+      "Barrymore marveled at the greed and foresight of an eight-year-old.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 145."
+    ],
+    [
+      141,
+      "At this rate, Vikir could spend the rest of his life indulging in his beloved chocolate.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 146."
+    ],
+    [
+      142,
+      "“Young master, shall we process these and send them to your room?”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 147."
+    ],
+    [
+      143,
+      "…But—",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 148."
+    ],
+    [
+      144,
+      "Vikir gave an answer that left everyone puzzled.",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 149."
+    ],
+    [
+      145,
+      "“No processing. They’re fine as they are.”",
+      "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 150."
+    ],
+    [
+      146,
+      "Apparently, he had not taken them to eat.",
+      "Preserve the exact endpoint: Vikir did not take the raw beans to eat; do not reveal their later use."
+    ]
+  ]
+}
