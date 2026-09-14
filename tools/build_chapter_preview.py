@@ -33,12 +33,48 @@ def source_paragraph_metadata(source_rel):
     return rows
 
 
+def legacy_preview(record, title):
+    """Preserve byte-for-byte preview behavior for accepted chapters without structured-window/suppression needs."""
+    body = []
+    for row in record['paragraphs']:
+        text = row['draft_text']
+        content = html.escape(text)
+        if text.startswith('‘') and text.endswith('’'):
+            content = '<em>' + content + '</em>'
+        elif 'thought, ‘' in text:
+            start = content.index('‘')
+            content = content[:start] + '<em>' + content[start:] + '</em>'
+        kind = 'dialogue' if text.startswith('“') else 'narrative'
+        body.append(f'<p id="p{row["paragraph"]:03d}" class="{kind}">{content}</p>')
+        if row['paragraph'] in record['scene_breaks_after']:
+            body.append('<div class="scene-break" role="separator" aria-label="Scene break">◆◆◆</div>')
+    return '''<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>''' + html.escape(title) + '''</title>
+<style>
+* { box-sizing: border-box; }
+body { margin: 0; background: #f7f4ed; color: #262421; font: 19px/1.65 Georgia, 'Times New Roman', serif; }
+main { max-width: 720px; margin: 0 auto; padding: 52px 28px 72px; }
+.edition-note { font: 12px/1.5 Arial,sans-serif; letter-spacing: .08em; text-transform: uppercase; color: #68625a; }
+h1 { font-size: 32px; font-weight: normal; line-height: 1.25; margin: 22px 0 38px; }
+p { margin: 0 0 .85em; text-indent: 0; overflow-wrap: break-word; }
+p.dialogue { text-indent: 1.5em; }
+.scene-break { text-align: center; letter-spacing: .45em; margin: 2.5em 0; font-size: 13px; }
+@media(max-width: 480px) { body { font-size: 18px; } main { padding: 30px 22px 50px; } h1 { font-size: 28px; } }
+@media print { body { background: white; } main { max-width: none; padding: 0; } p { orphans: 2; widows: 2; } }
+</style></head><body><main><div class="edition-note">Chapter layout preview · EPUB packaging pending</div><h1>''' + html.escape(title) + '</h1>\n' + '\n'.join(body) + '\n</main></body></html>\n'
+
+
 def render_preview(chapter):
     record = json.loads((ROOT / f'editorial/provenance/chapter-{chapter:04d}.json').read_text(encoding='utf-8'))
     title = (ROOT / f'manuscript/drafts/chapter-{chapter:04d}.md').read_text(encoding='utf-8').splitlines()[0][2:]
     source_meta = source_paragraph_metadata(record['source'])
     if len(source_meta) != len(record['paragraphs']):
         raise ValueError('Source structure no longer matches paragraph provenance')
+
+    enhanced = bool(record.get('suppressed_paragraphs')) or any(meta['info_window'] for meta in source_meta)
+    if not enhanced:
+        return legacy_preview(record, title)
 
     body = []
     info_open = False
