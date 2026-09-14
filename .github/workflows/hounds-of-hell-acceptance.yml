@@ -36,7 +36,7 @@ jobs:
       - name: Pre-acceptance repository checks
         run: |
           python tools/verify_recovery.py
-          for n in 8 9 10 11; do
+          for n in $(seq 1 11); do
             python tools/build_editorial_draft.py "$n" --check
             python tools/build_chapter_preview.py "$n" --check
           done
@@ -44,10 +44,10 @@ jobs:
           python -m unittest discover -s tests -v
           git diff --check
 
-      - name: Install browser tooling once for the family
+      - name: Use preinstalled Chrome for the family
         run: |
           python -m pip install --disable-pip-version-check playwright
-          python -m playwright install --with-deps chromium
+          google-chrome --version
 
       - name: Render all family layout evidence
         run: python tools/render_hounds_of_hell_layout.py
