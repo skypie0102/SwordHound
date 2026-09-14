@@ -1,9 +1,7 @@
-# Chapter 12 QA — The Gluttonous Flies (1)
+# Chapter 12 — The Gluttonous Flies (1): reconstruction QA
 
-Status: **QA pending final title-family validation; not editorially accepted.**
+**Editorially accepted as part of The Gluttonous Flies (1–2) title-family batch.** All 150 recovered MTL paragraph slots remain accounted for, 145 are edited or structurally adjudicated, and all 145 supplied Korean physical lines are explicitly accounted for. Complete source comparison, continuity review, one-session desktop/mobile browser rendering and repository-level reproducibility checks passed.
 
-The full 150-slot English reconstruction has completed Korean/MTL source review. Consequential decisions are documented in [the source review](../editorial/reviews/chapter-0012.md), continuity is fixed in [the handoff](../editorial/continuity/chapter-0012.md), and the machine-readable issue record is [chapter-0012.json](chapter-0012.json).
+[Source decisions](../editorial/reviews/chapter-0012.md) · [Family review](../editorial/reviews/batch-the-gluttonous-flies-0012-0013.md) · [Continuity](../editorial/continuity/chapter-0012.md) · [Final review](../editorial/reviews/chapter-0012-final.md) · [Acceptance evidence](acceptance/chapter-0012.json) · [Validation](chapter-0012-validation.md) · [Preview](../preview/chapter-0012.html).
 
-Resolved source issues include the Cerberus aftermath, Guide Hound continuity, Red Fang Mountain dungeon geography, the single Abel skeleton/Cain journal attribution, all uniquely matched historical audit punctuation findings, the shadow solution, and the exact unnamed-artifact cliffhanger.
-
-Open item `CH012-06`: deterministic materialization/provenance, browser layout evidence, complete repository checks and hash-bound acceptance must pass together with Chapter 13 in the *The Gluttonous Flies* title-family gate. Whole-EPUB packaging remains separate.
+Whole-EPUB packaging and EPUBCheck remain pending; this is not recovered old production.

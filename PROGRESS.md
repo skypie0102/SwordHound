@@ -2,6 +2,18 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — The Gluttonous Flies (Chapters 12–13) reconstructed and accepted
+
+**Result: 13 chapters editorially accepted; Chapters 14–17, *Solitary*, are next.** This title-family batch preserves all 316 recovered MTL paragraph slots in provenance and records 311 edited or structurally adjudicated slots.
+
+- Chapter 12 restores the Cerberus aftermath, Red Fang Mountain dungeon geography, one Abel skeleton/Cain journal attribution, all recovered diary splits, the shadow solution and the unnamed Beelzebub cliffhanger.
+- Chapter 13 names and binds Beelzebub, preserves its three-skill limit and two structured skill windows, restores the shared-pain sentence, normalizes Brown Rat Norvegicus and Expert/Graduator terminology, and ends on Hugo eventually giving Vikir the apparently worthless Tenth-Form-related book.
+- The supplied Korean Chapter 13 has a real 21-paragraph witness gap across recovered MTL p15–35. Those slots remain explicitly MTL-only in alignment/provenance and are never presented as Korean-verified; new regression tests reject undeclared or contradictory gaps.
+- All uniquely matched historical audit findings for Chapters 12–13 were manually triaged. No audit suggestion was automatically applied.
+- One preinstalled-Chrome session rendered desktop/mobile evidence for both chapters; preserved-source checks, deterministic generation, tracker validation, the full unit-test suite and whitespace checks passed before and after hash-bound acceptance.
+
+**Next:** reconstruct Chapters 14–17 as the contiguous *Solitary* title-family batch. Whole-EPUB release remains pending.
+
 ## 2026-09-14 — Hounds of Hell (Chapters 8–11) reconstructed and accepted
 
 **Result: 11 chapters editorially accepted; Chapters 12–13, *The Gluttonous Flies*, are next.** The Hounds of Hell title-family batch preserves all 626 recovered MTL paragraph slots in provenance and records 610 edited or structurally adjudicated slots across Chapters 8–11.

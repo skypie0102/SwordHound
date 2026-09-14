@@ -1,9 +1,7 @@
-# Chapter 13 QA — The Gluttonous Flies (2)
+# Chapter 13 — The Gluttonous Flies (2): reconstruction QA
 
-Status: **QA pending final title-family validation; not editorially accepted.**
+**Editorially accepted as part of The Gluttonous Flies (1–2) title-family batch.** All 166 recovered MTL paragraph slots remain accounted for, 166 are edited or structurally adjudicated, and all 146 supplied Korean physical lines are explicitly accounted for; 4 structural source slots are provenance-preserved but suppressed from reader-facing output; 21 recovered MTL slots are explicitly declared absent from the supplied Korean witness. Complete source comparison, continuity review, one-session desktop/mobile browser rendering and repository-level reproducibility checks passed.
 
-The full 166-slot reconstruction has completed source review. The supplied Korean witness gap across recovered MTL paragraphs 15–35 is explicitly declared rather than hidden or falsely aligned. Consequential decisions are documented in [the source review](../editorial/reviews/chapter-0013.md), continuity is fixed in [the handoff](../editorial/continuity/chapter-0013.md), and the machine-readable issue record is [chapter-0013.json](chapter-0013.json).
+[Source decisions](../editorial/reviews/chapter-0013.md) · [Family review](../editorial/reviews/batch-the-gluttonous-flies-0012-0013.md) · [Continuity](../editorial/continuity/chapter-0013.md) · [Final review](../editorial/reviews/chapter-0013-final.md) · [Acceptance evidence](acceptance/chapter-0013.json) · [Validation](chapter-0013-validation.md) · [Preview](../preview/chapter-0013.html).
 
-Resolved source issues include Beelzebub's reveal and right-hand fusion, supernatural hunger, the three-skill limit, both structured skill windows, the Korean-only shared-pain explanation, Brown Rat Norvegicus terminology, the Expert/Graduator self-assessment, and the Ninth/Tenth Form lead. All three uniquely matched historical audit findings were manually triaged.
-
-Open item `CH013-06`: deterministic materialization/provenance, structured-window browser layout, complete repository checks and hash-bound acceptance must pass together with Chapter 12 in the *The Gluttonous Flies* title-family gate. Whole-EPUB packaging remains separate.
+Whole-EPUB packaging and EPUBCheck remain pending; this is not recovered old production.

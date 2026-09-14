@@ -77,17 +77,17 @@
     "acceptance_evidence": "qa/acceptance/chapter-0011.json"
   },
   "12": {
-    "status": "qa_pending",
+    "status": "qa_accepted",
     "draft": "manuscript/drafts/chapter-0012.md",
     "qa_report": "qa/chapter-0012.md",
-    "open_issues": ["CH012-06"],
-    "acceptance_evidence": null
+    "open_issues": [],
+    "acceptance_evidence": "qa/acceptance/chapter-0012.json"
   },
   "13": {
-    "status": "qa_pending",
+    "status": "qa_accepted",
     "draft": "manuscript/drafts/chapter-0013.md",
     "qa_report": "qa/chapter-0013.md",
-    "open_issues": ["CH013-06"],
-    "acceptance_evidence": null
+    "open_issues": [],
+    "acceptance_evidence": "qa/acceptance/chapter-0013.json"
   }
 }

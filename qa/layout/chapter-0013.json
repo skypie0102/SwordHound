@@ -1,0 +1,87 @@
+{
+  "chapter": 13,
+  "review_date": "2026-09-14",
+  "preview": "preview/chapter-0013.html",
+  "source_paragraph_slots": 166,
+  "suppressed_source_slots": [
+    78,
+    83,
+    121,
+    126
+  ],
+  "mtl_only_source_slots": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "browser_executable": "google-chrome",
+  "viewports": {
+    "desktop": {
+      "rendered_paragraph_count": 162,
+      "scene_break_count": 0,
+      "info_window_count": 2,
+      "info_window_row_count": 8,
+      "italic_count": 9,
+      "dialogue_count": 9,
+      "narrative_count": 145,
+      "body_line_height": "31.35px",
+      "dialogue_indent": "28.5px",
+      "narrative_indent": "0px",
+      "scroll_width": 1100,
+      "client_width": 1100,
+      "horizontal_overflow": false,
+      "document_height": 9622,
+      "width": 1100,
+      "height": 900
+    },
+    "mobile": {
+      "rendered_paragraph_count": 162,
+      "scene_break_count": 0,
+      "info_window_count": 2,
+      "info_window_row_count": 8,
+      "italic_count": 9,
+      "dialogue_count": 9,
+      "narrative_count": 145,
+      "body_line_height": "29.7px",
+      "dialogue_indent": "27px",
+      "narrative_indent": "0px",
+      "scroll_width": 390,
+      "client_width": 390,
+      "horizontal_overflow": false,
+      "document_height": 12570,
+      "width": 390,
+      "height": 844
+    }
+  },
+  "screenshots": {
+    "desktop_beelzebub": "qa/layout/chapter-0013-desktop-beelzebub.png",
+    "desktop_first_window": "qa/layout/chapter-0013-desktop-first-window.png",
+    "desktop_second_window": "qa/layout/chapter-0013-desktop-second-window.png",
+    "mobile_ending": "qa/layout/chapter-0013-mobile-ending.png"
+  },
+  "result": "pass",
+  "notes": [
+    "Every recovered MTL paragraph slot remains provenance-accounted; declared structural spacers are omitted only from reader-facing output.",
+    "Chapter 13's 21 MTL-only slots remain explicitly marked as absent from the supplied Korean witness and are still rendered as recovered source content.",
+    "Dialogue is indented; narration and info-window rows are unindented; no horizontal overflow occurs at either viewport.",
+    "Both chapters were rendered in one session using the runner's preinstalled Chrome without downloading a separate browser build."
+  ]
+}

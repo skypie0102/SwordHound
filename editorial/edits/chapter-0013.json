@@ -1,0 +1,833 @@
+{
+  "chapter": 13,
+  "source": "source/chapters/chapter-013.xhtml",
+  "source_sha256": "2bef27c163e103c90c2af57bd7170d4ed16782b7035e8919b14513e30865be14",
+  "expected_paragraphs": 166,
+  "notice": "New reconstruction, not recovered production. The declared Korean witness gap and source adjudications are recorded in editorial/reviews/chapter-0013.md.",
+  "korean_alignment": "editorial/korean-alignment/chapter-0013.json",
+  "scene_breaks_after": [],
+  "suppressed_paragraphs": [
+    78,
+    83,
+    121,
+    126
+  ],
+  "suppression_reasons": {
+    "78": "Recovered XHTML NBSP spacer around a Beelzebub info window; retain the source slot in provenance but suppress reader-facing blank output.",
+    "83": "Recovered XHTML NBSP spacer around a Beelzebub info window; retain the source slot in provenance but suppress reader-facing blank output.",
+    "121": "Recovered XHTML NBSP spacer around a Beelzebub info window; retain the source slot in provenance but suppress reader-facing blank output.",
+    "126": "Recovered XHTML NBSP spacer around a Beelzebub info window; retain the source slot in provenance but suppress reader-facing blank output."
+  },
+  "edits": [
+    [
+      1,
+      "‘Only those of Baskerville blood can draw this blade—Beelzebub.’",
+      "Name the Chapter 12 cliffhanger artifact as Beelzebub while preserving the Baskerville-blood inscription."
+    ],
+    [
+      2,
+      "The inscription contained both the Baskerville family name and the sword’s name.",
+      "Repair the MTL's 'Devil's first name' corruption: the inscription contains the sword's name."
+    ],
+    [
+      3,
+      "“...So this is the artifact that was found here.”",
+      "Compared the corresponding Korean witness with MTL paragraph 3; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      4,
+      "By the faint light of the shattered ruby fragments, Vikir traced the weapon’s shape.",
+      "Compared the corresponding Korean witness with MTL paragraph 4; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      5,
+      "Three rounded, ruby-red nodes formed its guard, while a long black awl-like blade projected from the center.",
+      "Restore Beelzebub's awl/stinger blade and three ruby-like guard nodes."
+    ],
+    [
+      6,
+      "A rough green sheen glimmered around the hilt, giving the whole weapon the appearance of a giant fly.",
+      "Compared the corresponding Korean witness with MTL paragraph 6; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      7,
+      "Vikir knew exactly what this artifact was.",
+      "Compared the corresponding Korean witness with MTL paragraph 7; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      8,
+      "He remembered seeing an illustration of it in a book of myths during his first life.",
+      "Compared the corresponding Korean witness with MTL paragraph 8; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      9,
+      "‘Beelzebub, the Gluttonous Fly.’",
+      "Use the established epithet Beelzebub, the Gluttonous Fly."
+    ],
+    [
+      10,
+      "Explaining the sword’s full origin would take a long time.",
+      "Compared the corresponding Korean witness with MTL paragraph 10; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      11,
+      "In short—",
+      "Compared the corresponding Korean witness with MTL paragraph 11; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      12,
+      "Ancient myth told of seven unprecedented demon constellations known as the Seven Calamities, against which the peoples of the continent once united.",
+      "Normalize the ancient invaders as the Seven Calamities/demon constellations without importing later individual identities."
+    ],
+    [
+      13,
+      "Although those seven beings were defeated, remnants of them endured in material or conceptual forms, each retaining a fraction of the power it had possessed in life.",
+      "Clarify that the defeated beings left remnants retaining only part of their former power."
+    ],
+    [
+      14,
+      "One such remnant was this sword: Beelzebub.",
+      "Compared the corresponding Korean witness with MTL paragraph 14; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      15,
+      "The founding heads of the Seven Great Families had each brought down one of those demon constellations.",
+      "MTL-only witness-gap passage: retain the seven-family victory background with explicit provenance rather than fabricate Korean support."
+    ],
+    [
+      16,
+      "That was why Beelzebub’s remains had once been kept by House Baskerville, their demonic aura drawing powerful monsters into the surrounding lands.",
+      "MTL-only witness-gap passage: retain Beelzebub's Baskerville custody and monster-attracting demonic aura."
+    ],
+    [
+      17,
+      "‘So the old legend was true. And later, this sword fell into the demons’ hands.’",
+      "MTL-only witness-gap passage: preserve Vikir's first-timeline knowledge that the artifact later fell to demons."
+    ],
+    [
+      18,
+      "The forgotten artifact would one day reappear on a battlefield and send countless humans to their deaths.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      19,
+      "Its wielder changed repeatedly even among the demons, and in time the number of demons slain by the weapon may have exceeded the number of humans.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      20,
+      "…But this time, things were different.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      21,
+      "Beelzebub had come into Vikir’s hands first.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      22,
+      "In his previous life, the demons had taken it before Baskerville even understood what had been lost. That would not happen now.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      23,
+      "Bzzzzzz—",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      24,
+      "The sword resonated with Vikir’s mana, the droning of fly wings filling his ears.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      25,
+      "When Vikir reached out and touched it, Beelzebub began sinking into his palm as though returning to a part of his own body.",
+      "MTL-only witness-gap passage: preserve Beelzebub fusing into Vikir's palm/right hand."
+    ],
+    [
+      26,
+      "Fssht!",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      27,
+      "Black fissure-like lines spread along the artery side of his wrist.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      28,
+      "Beelzebub settled quietly inside Vikir’s body, ready to spring from his hand as a hidden spare weapon whenever he willed it.",
+      "MTL-only witness-gap passage: preserve its concealed-spare-weapon behavior."
+    ],
+    [
+      29,
+      "However—",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      30,
+      "Beelzebub was no ordinary sword. It had been fashioned from the remains of a demon constellation.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      31,
+      "Its supernatural abilities did not end with hiding inside its wielder.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      32,
+      "Grrrrr—!",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      33,
+      "The instant Beelzebub settled within him, a sudden wave of weakness swept over Vikir. He was ravenously hungry.",
+      "MTL-only witness-gap passage: make the supernatural hunger onset explicit."
+    ],
+    [
+      34,
+      "“...What is this?”",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      35,
+      "For once, Vikir was genuinely taken aback.",
+      "Recovered MTL-only passage absent from the supplied Korean witness; preserve and polish the source text with explicit gap provenance."
+    ],
+    [
+      36,
+      "In his first life, he had often gone hungry for an entire week and then eaten everything he needed in a single meal.",
+      "Compared the corresponding Korean witness with MTL paragraph 36; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      37,
+      "On campaigns, he had sometimes remained hidden for a month while surviving on little more than water.",
+      "Compared the corresponding Korean witness with MTL paragraph 37; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      38,
+      "A stomach trained under conditions that harsh should have endured ordinary hunger without complaint.",
+      "Compared the corresponding Korean witness with MTL paragraph 38; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      39,
+      "Even in a child’s body, he should not have been this weak.",
+      "Compared the corresponding Korean witness with MTL paragraph 39; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      40,
+      "Grrrrr—!",
+      "Compared the corresponding Korean witness with MTL paragraph 40; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      41,
+      "His stomach twisted again as though throwing a violent fit.",
+      "Compared the corresponding Korean witness with MTL paragraph 41; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      42,
+      "Vikir realized that this extreme hunger was anything but normal.",
+      "Compared the corresponding Korean witness with MTL paragraph 42; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      43,
+      "“Are you asking me for something?”",
+      "Compared the corresponding Korean witness with MTL paragraph 43; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      44,
+      "That was exactly it.",
+      "Compared the corresponding Korean witness with MTL paragraph 44; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      45,
+      "Beelzebub answered with the agitated buzzing of fly wings.",
+      "Compared the corresponding Korean witness with MTL paragraph 45; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      46,
+      "Sniff—",
+      "Compared the corresponding Korean witness with MTL paragraph 46; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      47,
+      "His sense of smell seemed sharper as well. Somewhere nearby, an irresistible scent reached him.",
+      "Compared the corresponding Korean witness with MTL paragraph 47; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      48,
+      "It was the scent of a demonic creature, mouthwatering in a way it had never been before.",
+      "Compared the corresponding Korean witness with MTL paragraph 48; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      49,
+      "Vikir crawled out of the dungeon and into the rat-infested forest.",
+      "Compared the corresponding Korean witness with MTL paragraph 49; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      50,
+      "The closer he drew to the assessment boundary and his former position, the stronger the scent became.",
+      "Compared the corresponding Korean witness with MTL paragraph 50; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      51,
+      "The first thing he found was the corpse of a Hellhound.",
+      "Compared the corresponding Korean witness with MTL paragraph 51; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      52,
+      "Before Vikir even summoned it, Beelzebub thrust its stinger from his hand on its own.",
+      "Compared the corresponding Korean witness with MTL paragraph 52; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      53,
+      "Normally, a hound that bared its fangs without its master’s command deserved punishment.",
+      "Compared the corresponding Korean witness with MTL paragraph 53; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      54,
+      "This time, however, Vikir made an exception.",
+      "Compared the corresponding Korean witness with MTL paragraph 54; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      55,
+      "The hunger Beelzebub shared with him was simply too intense.",
+      "Resolve historical audit ED-00108 and state naturally that Vikir and Beelzebub share the same intense hunger."
+    ],
+    [
+      56,
+      "‘It must have been starving for a very long time.’",
+      "Compared the corresponding Korean witness with MTL paragraph 56; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      57,
+      "The Hellhound’s corpse around Beelzebub’s stinger—and even the soil beneath it—began to dry and shrivel.",
+      "Restore the drying/shriveling effect around Beelzebub's feeding point."
+    ],
+    [
+      58,
+      "‘Could Beelzebub’s insane hunger be why so much of Le Rouge et Le Noir Mountain is filled with dead trees and parched earth?’",
+      "Preserve Vikir's speculation that Beelzebub's hunger may explain the mountain's dead, parched landscape."
+    ],
+    [
+      59,
+      "If so, just how much food would he have to provide to satisfy the thing from now on?",
+      "Compared the corresponding Korean witness with MTL paragraph 59; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      60,
+      "“...”",
+      "Compared the corresponding Korean witness with MTL paragraph 60; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      61,
+      "Vikir shook his head and cleared the thought away.",
+      "Compared the corresponding Korean witness with MTL paragraph 61; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      62,
+      "Beelzebub’s power was valuable enough to justify its appetite.",
+      "Compared the corresponding Korean witness with MTL paragraph 62; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      63,
+      "Before long—",
+      "Compared the corresponding Korean witness with MTL paragraph 63; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      64,
+      "the Beelzebub Vikir remembered began to reveal its true ability.",
+      "Compared the corresponding Korean witness with MTL paragraph 64; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      65,
+      "Gulp. Gulp. Gulp. Gulp—",
+      "Compared the corresponding Korean witness with MTL paragraph 65; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      66,
+      "With Beelzebub buried in its neck, the Hellhound’s corpse was drained of blood at an astonishing speed.",
+      "Compared the corresponding Korean witness with MTL paragraph 66; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      67,
+      "Blood and bodily fluids flowed through Beelzebub’s hollow stinger and into Vikir.",
+      "Restore blood and bodily fluids passing through Beelzebub's hollow stinger into Vikir."
+    ],
+    [
+      68,
+      "The gnawing hunger inside him eased, his cramped stomach gradually settling.",
+      "Compared the corresponding Korean witness with MTL paragraph 68; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      69,
+      "Flash!",
+      "Compared the corresponding Korean witness with MTL paragraph 69; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      70,
+      "One of Beelzebub’s three eye-like nodes suddenly glowed a vivid red.",
+      "Compared the corresponding Korean witness with MTL paragraph 70; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      71,
+      "‘It acquired a skill.’",
+      "Compared the corresponding Korean witness with MTL paragraph 71; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      72,
+      "Vikir’s intuition was correct.",
+      "Compared the corresponding Korean witness with MTL paragraph 72; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      73,
+      "Beelzebub, the Gluttonous Fly, possessed the power to steal the distinctive traits and specialties of those whose blood it consumed.",
+      "State Beelzebub's living-form ability to steal distinctive traits/skills through consumed blood."
+    ],
+    [
+      74,
+      "When Beelzebub had been alive, the scope of that absorption had been nearly limitless, leaving countless victims stripped of achievements they had spent their entire lives building.",
+      "Compared the corresponding Korean witness with MTL paragraph 74; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      75,
+      "As a mere artifact, however, it could no longer exercise that boundless power.",
+      "Resolve historical audit ED-00109: as an artifact, Beelzebub no longer has its former near-limitless absorption scope."
+    ],
+    [
+      76,
+      "It could store only three stolen skills at a time.",
+      "Preserve the current three-skill storage limit."
+    ],
+    [
+      77,
+      "By drinking the Hellhound’s blood, Vikir’s Beelzebub had obtained its first skill.",
+      "Compared the corresponding Korean witness with MTL paragraph 77; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      79,
+      "<Beelzebub, the Gluttonous Fly> / Stinger",
+      "Keep the first Beelzebub skill display as a structured info-window title."
+    ],
+    [
+      80,
+      "- Slot 1: Bleeding — Hellhound (B+)",
+      "Normalize the first slot as Bleeding/Hemorrhage from Hellhound (B+)."
+    ],
+    [
+      81,
+      "- Slot 2: None",
+      "Compared the corresponding Korean witness with MTL paragraph 81; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      82,
+      "- Slot 3: None",
+      "Compared the corresponding Korean witness with MTL paragraph 82; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      84,
+      "The ability manifested only when Vikir willed it.",
+      "Compared the corresponding Korean witness with MTL paragraph 84; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      85,
+      "Anyone pierced by Beelzebub’s stinger would experience the Hellhound’s deadly bleeding power.",
+      "Describe the Hellhound-derived bleeding effect without universalizing it beyond the displayed mechanic."
+    ],
+    [
+      86,
+      "Even a shallow wound that would normally stop bleeding could begin to seep again, and the bleeding would persist far longer than an ordinary injury.",
+      "Compared the corresponding Korean witness with MTL paragraph 86; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      87,
+      "Meanwhile—",
+      "Compared the corresponding Korean witness with MTL paragraph 87; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      88,
+      "Sluuuurp—",
+      "Compared the corresponding Korean witness with MTL paragraph 88; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      89,
+      "Beelzebub kept drinking until the Hellhound’s corpse was nearly mummified.",
+      "Compared the corresponding Korean witness with MTL paragraph 89; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      90,
+      "It had acquired the skill long before finishing, so the continued feeding was clearly nothing more than hunger.",
+      "Compared the corresponding Korean witness with MTL paragraph 90; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      91,
+      "Vikir felt his own hunger ease somewhat as well.",
+      "Compared the corresponding Korean witness with MTL paragraph 91; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      92,
+      "Grrrrr—!",
+      "Compared the corresponding Korean witness with MTL paragraph 92; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      93,
+      "Even so, he was still hungry.",
+      "Compared the corresponding Korean witness with MTL paragraph 93; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      94,
+      "The delicious scent that had brushed his nose continued to drift from farther away.",
+      "Compared the corresponding Korean witness with MTL paragraph 94; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      95,
+      "Vikir quickly left the forest.",
+      "Compared the corresponding Korean witness with MTL paragraph 95; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      96,
+      "Soon, the familiar boundary came into view.",
+      "Compared the corresponding Korean witness with MTL paragraph 96; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      97,
+      "The Cradle.",
+      "Continue the accepted Cradle terminology for the practical-assessment area."
+    ],
+    [
+      98,
+      "Beyond it lay the area where Baskerville’s children were undergoing their practical examination.",
+      "Compared the corresponding Korean witness with MTL paragraph 98; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      99,
+      "After slipping across the boundary, Vikir spotted the pit he had dug beneath a distant rock.",
+      "Compared the corresponding Korean witness with MTL paragraph 99; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      100,
+      "Fortunately, none of the Guide Hounds had noticed his return yet.",
+      "Use Guide Hounds consistently for the practical-assessment supervisors."
+    ],
+    [
+      101,
+      "The Cradle covered a vast area; even the Guide Hounds could not watch every corner of the examination grounds at once.",
+      "Compared the corresponding Korean witness with MTL paragraph 101; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      102,
+      "Besides, because Vikir had spent so long sitting quietly in his pit, he had likely been classified as a safe subject and was now watched only loosely.",
+      "Compared the corresponding Korean witness with MTL paragraph 102; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      103,
+      "Vikir crossed back to his hideout and brushed away the thin covering of soil and fallen leaves.",
+      "Compared the corresponding Korean witness with MTL paragraph 103; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      104,
+      "A mouthwatering slab of meat soon appeared beneath them.",
+      "Compared the corresponding Korean witness with MTL paragraph 104; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      105,
+      "Cerberus lay exactly where it had died.",
+      "Compared the corresponding Korean witness with MTL paragraph 105; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      106,
+      "Bzzzzzz—",
+      "Compared the corresponding Korean witness with MTL paragraph 106; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      107,
+      "At the rich scent of flesh and fat, Beelzebub quivered with almost delirious excitement.",
+      "Compared the corresponding Korean witness with MTL paragraph 107; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      108,
+      "The buzzing of fly wings grew louder.",
+      "Compared the corresponding Korean witness with MTL paragraph 108; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      109,
+      "Then Beelzebub drove its stinger into Cerberus’s corpse and began greedily drinking from its flesh and organs.",
+      "Compared the corresponding Korean witness with MTL paragraph 109; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      110,
+      "But Vikir stopped it.",
+      "Compared the corresponding Korean witness with MTL paragraph 110; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      111,
+      "“Whoa, whoa. This is evidence for the practical examination. If you ruin it too badly, it’ll be difficult to explain during the autopsy.”",
+      "Preserve Cerberus as practical-test evidence that must remain inspectable."
+    ],
+    [
+      112,
+      "Beelzebub ignored him and tried to push its stinger in deeper.",
+      "Compared the corresponding Korean witness with MTL paragraph 112; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      113,
+      "Vikir’s expression hardened.",
+      "Compared the corresponding Korean witness with MTL paragraph 113; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      114,
+      "“No.”",
+      "Compared the corresponding Korean witness with MTL paragraph 114; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      115,
+      "Smack!",
+      "Compared the corresponding Korean witness with MTL paragraph 115; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      116,
+      "Vikir slapped the back of his own hand hard.",
+      "Compared the corresponding Korean witness with MTL paragraph 116; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      117,
+      "Of course striking his own hand hurt. And because Beelzebub was fused with him, pain Vikir felt was pain Beelzebub felt as well.",
+      "Restore the Korean-only shared-pain explanation: pain to Vikir's fused hand is pain to Beelzebub as well."
+    ],
+    [
+      118,
+      "Keeeeeng…",
+      "Compared the corresponding Korean witness with MTL paragraph 118; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      119,
+      "Only then did Beelzebub withdraw its stinger from Cerberus’s corpse.",
+      "Compared the corresponding Korean witness with MTL paragraph 119; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      120,
+      "Vikir watched fresh blood and new power course through the artery-like lines on the back of his hand.",
+      "Compared the corresponding Korean witness with MTL paragraph 120; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      122,
+      "<Beelzebub, the Gluttonous Fly> / Stinger",
+      "Keep the second Beelzebub skill display as a structured info-window title."
+    ],
+    [
+      123,
+      "- Slot 1: Burn — Cerberus (A+)",
+      "Normalize Cerberus's acquired skill as Burn/Incinerate (A+)."
+    ],
+    [
+      124,
+      "- Slot 2: Bleeding — Hellhound (B+)",
+      "Keep Hellhound Bleeding/Hemorrhage in Slot 2 after the stronger Cerberus skill arrives."
+    ],
+    [
+      125,
+      "- Slot 3: Rapid Regeneration — Brown Rat Norvegicus (F)",
+      "Correct Norbegicus to Brown Rat Norvegicus and normalize Rapid Regeneration (F)."
+    ],
+    [
+      127,
+      "Was it because Cerberus was the stronger demonic creature?",
+      "Compared the corresponding Korean witness with MTL paragraph 127; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      128,
+      "Cerberus’s power had taken Slot 1.",
+      "Compared the corresponding Korean witness with MTL paragraph 128; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      129,
+      "The Hellhound’s bleeding ability had been pushed down to Slot 2.",
+      "Compared the corresponding Korean witness with MTL paragraph 129; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      130,
+      "And, absurdly enough, Slot 3 now held the power of a Brown Rat Norvegicus.",
+      "Compared the corresponding Korean witness with MTL paragraph 130; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      131,
+      "Apparently, the remains of a rat Cerberus had eaten were scattered beneath its corpse.",
+      "Compared the corresponding Korean witness with MTL paragraph 131; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      132,
+      "‘So if it takes in a stronger ability, it can push out or replace an older one.’",
+      "Frame skill replacement as Vikir's current inference rather than a later exhaustive ruleset."
+    ],
+    [
+      133,
+      "Vikir watched the artery carrying the rat’s power pulse more faintly than the other two.",
+      "Compared the corresponding Korean witness with MTL paragraph 133; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      134,
+      "For now, he decided to leave it alone. Even a weak ability was better than an empty slot.",
+      "Compared the corresponding Korean witness with MTL paragraph 134; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      135,
+      "More importantly, obtaining Cerberus’s Burn ability was an enormous gain.",
+      "Preserve Cerberus's Burn/Incinerate as the chapter's major new combat gain."
+    ],
+    [
+      136,
+      "Anyone pierced by Beelzebub could now be afflicted by Cerberus’s hellish burning power, a flame-like injury that would not simply fade on its own.",
+      "Avoid the MTL's absolute natural-healing claim while preserving the persistent hellfire-like burning effect."
+    ],
+    [
+      137,
+      "The victim could be left suffering searing pain for an agonizingly long time.",
+      "Compared the corresponding Korean witness with MTL paragraph 137; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      138,
+      "Considering that burning was among the worst pains a person could endure, it was a far more vicious effect than the Hellhound’s bleeding.",
+      "Compared the corresponding Korean witness with MTL paragraph 138; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      139,
+      "“I’ve taken everything worth taking from this mountain.”",
+      "Compared the corresponding Korean witness with MTL paragraph 139; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      140,
+      "There was little left for Vikir to do.",
+      "Compared the corresponding Korean witness with MTL paragraph 140; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      141,
+      "He only had to wait out the practical examination, hand Cerberus’s corpse over to the Guide Hounds, and collect the highest evaluation.",
+      "Compared the corresponding Korean witness with MTL paragraph 141; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      142,
+      "On top of that, he would probably receive a reward for the achievement.",
+      "Compared the corresponding Korean witness with MTL paragraph 142; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      143,
+      "“...”",
+      "Compared the corresponding Korean witness with MTL paragraph 143; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      144,
+      "Vikir closed his eyes and examined the state of his body.",
+      "Compared the corresponding Korean witness with MTL paragraph 144; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      145,
+      "His mana reserves were already comparable to those of a Fourth-Circle Mage.",
+      "Describe Vikir's mana as roughly Fourth-Circle-equivalent rather than falsely recasting him as a wizard."
+    ],
+    [
+      146,
+      "He could manifest three Baskerville fangs with his sword—perhaps even four now.",
+      "Compared the corresponding Korean witness with MTL paragraph 146; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      147,
+      "He stood at the very top of Sword Expert, already peering into the threshold of Sword Graduator.",
+      "Keep rank terminology consistent: upper Sword Expert approaching Sword Graduator."
+    ],
+    [
+      148,
+      "‘Conservatively, I’m at the highest level of Sword Expert. Generously, I could be called a Low Sword Graduator.’",
+      "Clarify the conservative/generous Expert-versus-Low-Graduator self-assessment."
+    ],
+    [
+      149,
+      "In actual combat, however, his young body dragged his output down by roughly half a stage, so Sword Expert remained the fair classification.",
+      "Compared the corresponding Korean witness with MTL paragraph 149; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      150,
+      "In his first life, no matter how much mana or combat experience he accumulated, the swordsmanship he had been taught could never produce more than four fangs.",
+      "Compared the corresponding Korean witness with MTL paragraph 150; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      151,
+      "For comparison, the present Hugo could produce seven fangs, while the Hugo Vikir remembered from before his regression could produce nine.",
+      "Preserve current Hugo at seven fangs and Vikir's remembered future Hugo at nine."
+    ],
+    [
+      152,
+      "Baskerville Style, Ninth Form.",
+      "Compared the corresponding Korean witness with MTL paragraph 152; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      153,
+      "That swordsmanship was reserved for the direct line—the eldest son chosen to inherit the family and the sons selected to support him.",
+      "Clarify that the Ninth Form belongs to the direct succession line and chosen supporting sons."
+    ],
+    [
+      154,
+      "It was a refined and exalted art on an entirely different level from the Fourth Form Vikir had learned.",
+      "Compared the corresponding Korean witness with MTL paragraph 154; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      155,
+      "But now things were different.",
+      "Resolve historical audit ED-00110 with a complete transition into the newly known Tenth Form lead."
+    ],
+    [
+      156,
+      "“...Tenth Form.”",
+      "Correct the MTL's '10 meals' corruption to Tenth Form."
+    ],
+    [
+      157,
+      "Baskerville Style, Tenth Form. Ten fangs.",
+      "State Baskerville Style, Tenth Form as ten fangs."
+    ],
+    [
+      158,
+      "It was an ultimate realm no Baskerville of the present age had reached.",
+      "Compared the corresponding Korean witness with MTL paragraph 158; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      159,
+      "A legendary secret text preserved the teachings of the first patriarch, who in ancient times had subdued one of the demon constellations of the Seven Calamities.",
+      "Preserve the legendary first-patriarch secret text without importing later technique details."
+    ],
+    [
+      160,
+      "Vikir knew where that treasure was.",
+      "Compared the corresponding Korean witness with MTL paragraph 160; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      161,
+      "‘I don’t even have to go far.’",
+      "Compared the corresponding Korean witness with MTL paragraph 161; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      162,
+      "It was lying in a place very close at hand, rotting among miscellaneous books so ordinary that almost anyone could read them.",
+      "Clarify that the hidden inheritance is decaying among seemingly ordinary miscellaneous books."
+    ],
+    [
+      163,
+      "And who would give it to him?",
+      "Compared the corresponding Korean witness with MTL paragraph 163; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      164,
+      "Hugo Le Baskerville, patriarch of House Baskerville.",
+      "Use the established name Hugo Le Baskerville."
+    ],
+    [
+      165,
+      "Hugo himself would eventually place it in Vikir’s hands.",
+      "Compared the corresponding Korean witness with MTL paragraph 165; repair English grammar, punctuation, register or attribution while preserving event and source slot."
+    ],
+    [
+      166,
+      "He would never imagine the true value of the seemingly worthless book he was giving away.",
+      "Preserve the exact endpoint: Hugo will hand over the apparently worthless book without knowing its true value."
+    ]
+  ]
+}

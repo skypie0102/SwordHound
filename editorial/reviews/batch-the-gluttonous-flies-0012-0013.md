@@ -1,6 +1,6 @@
 # The Gluttonous Flies title-family review — Chapters 12–13
 
-Status: **source review in progress; not QA accepted**. This batch follows the repository rule to reconstruct contiguous numbered parts under one base title. Both chapters are reviewed under the Chapters 1–54 policy: supplied Korean plus recovered English MTL, with Fandom/supporting references used only to adjudicate corrupted names, mechanics, and continuity.
+Status: **editorially accepted as a title-family batch on 2026-09-14; whole-EPUB release pending**. This batch follows the repository rule to reconstruct contiguous numbered parts under one base title. Both chapters are reviewed under the Chapters 1–54 policy: supplied Korean plus recovered English MTL, with Fandom/supporting references used only to adjudicate corrupted names, mechanics, and continuity.
 
 ## Batch boundary
 
@@ -43,3 +43,8 @@ For the dungeon geography, keep **Red Fang Mountain** as the previously adjudica
 - Fandom `Vikir Van Baskerville/Equipment`: confirms the three-slot limit and the same early slot sequence.
 
 These are supporting witnesses, not publisher authentication and not permission to import later reveals.
+
+
+## Acceptance outcome
+
+The final shared gate materialized both chapters from source-hash-gated staging, verified all accepted Chapters 1–13, rendered Chapters 12–13 together in one preinstalled-Chrome session, regenerated the accepted state, and reran the complete recovery/determinism/test/whitespace checks before committing. Chapter 13's 21 recovered MTL-only slots remain explicitly declared in alignment and provenance and are not represented as Korean-verified. No independent human review or publisher authentication is claimed.
