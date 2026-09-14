@@ -1,14 +1,14 @@
 # Chapter 12 source comparison — 2026-09-14
 
-Status: **source review in progress; not QA accepted**. New Korean-plus-MTL reconstruction. Recovered MTL SHA-256: `2f04dc2121d6667bab974b49dcbc49c623a9c41ae77c5f0330d55b8263db3b22`. Supplied Korean SHA-256: `38d0e42019a9aba00b809e4fc8685ff49f99b40357407961360b05a43a401305`.
+Status: **source review complete; final generated-output/browser/repository validation pending; not QA accepted**. New Korean-plus-MTL reconstruction. Recovered MTL SHA-256: `2f04dc2121d6667bab974b49dcbc49c623a9c41ae77c5f0330d55b8263db3b22`. Supplied Korean SHA-256: `38d0e42019a9aba00b809e4fc8685ff49f99b40357407961360b05a43a401305`.
 
-Chapter 12 contains 150 recovered MTL paragraph slots and 145 Korean physical lines. Korean lines 1–4 are repeated headings, leaving 141 body lines. All 150 source slots can be aligned without deletion: eleven Korean lines are split across multiple recovered MTL paragraphs and two MTL paragraphs each cover two adjacent Korean lines. The eventual alignment must declare those relationships explicitly.
+Chapter 12 contains 150 recovered MTL paragraph slots and 145 Korean physical lines. Korean lines 1–4 are repeated headings, leaving 141 body lines. All 150 source slots align without deletion: ten Korean lines are shared by recovered MTL splits, while MTL paragraphs 2 and 136 each own two adjacent Korean lines. The deterministic materializer records every ownership explicitly.
 
 ## Cerberus aftermath and dungeon search
 
 The opening restores the physical aftermath omitted or softened by MTL: oily saliva and excrement drain from Cerberus's three mouths and single anus. After its death, the energy described as karma/experience is absorbed into Vikir and strengthens body and spirit.
 
-Vikir cannot carry the entire Cerberus corpse. He leaves it where it fell, removes only several important parts/organs for safekeeping, and relies on the practical-test supervisors' earlier observation of his trap preparation to establish provenance of the kill. In this context the supervisory term should remain **Guide Hounds**; the supplied Korean's local `Hellhound` wording conflicts with the immediately preceding assessment continuity and is treated as a witness corruption rather than a new actor.
+Vikir cannot carry the entire Cerberus corpse. He leaves it where it fell, removes only several important parts/organs for safekeeping, and relies on the practical-test supervisors' earlier observation of his trap preparation to establish provenance of the kill. In this context the supervisory term remains **Guide Hounds**; the supplied Korean's local `Hellhound` wording conflicts with the immediately preceding assessment continuity and is treated as a witness corruption rather than a new actor.
 
 Cerberus is a territorial gatekeeper monster. Vikir therefore infers that a dungeon or treasure site is nearby. The scent of Cerberus clinging to him—including its excrement—drives ordinary Hellhounds and lesser creatures away while he backtracks the monster's trail.
 
@@ -16,7 +16,7 @@ Cerberus is a territorial gatekeeper monster. Vikir therefore infers that a dung
 
 The dungeon is old and concealed between earthen mounds. Ruby veins connect it to the same mountain system already established in the preceding chapters. Use **Red Fang Mountain**, a branch of **Le Rouge et Le Noir Mountain**. The supplied Korean's `Red Peak` wording and other recovered mountain variants are recorded as alternate witnesses, not separate locations.
 
-Vikir remembers the site being discovered roughly ten years later in his first life and remembers it as empty by then. In the present timeline, however, he detects demonic energy and enters.
+Vikir remembers this site being discovered roughly ten years later in his first life and remembers it as empty by then. In the present timeline, however, he detects demonic energy and enters.
 
 ## One skeleton, Cain's notes, and Abel
 
@@ -65,6 +65,28 @@ Multi-line MTL ownership:
 
 With Korean lines 1–4 classified as headings, those declarations account exactly for all 145 physical Korean lines and all 150 recovered MTL paragraph slots.
 
-## Historical audit
+## Historical audit triage
 
-The tracker reports uniquely matched historical findings `ED-00089`, `ED-00090`, `ED-00092`–`ED-00099`, and `ED-00101`–`ED-00107` for this chapter. They remain pending explicit paragraph-by-paragraph triage before QA acceptance. No audit suggestion is automatically applied.
+All 17 uniquely matched Chapter 12 findings are manually resolved by the reconstructed diary/riddle prose; none is automatically applied:
+
+- **ED-00089 p51:** replace malformed bracket/quotation opening with Cain's clean journal voice and correct `Gain` -> `Cain`.
+- **ED-00090 p53:** complete the split sentence introducing Cain's warning to later descendants.
+- **ED-00092 p60 / ED-00093 p61:** regularize journal quotation punctuation across the ancient-dungeon statement and its continuation.
+- **ED-00094 p65:** complete the inference introducing the writer/skeleton as twins while keeping the lone skeleton singular.
+- **ED-00095 p68:** complete the final-task statement leading into the three-year duration.
+- **ED-00096 p77 / ED-00097 p78:** regularize the second diary block's opening and continuation.
+- **ED-00098 p82:** complete the womb/birth sentence without collapsing its recovered source split.
+- **ED-00099 p85:** complete the mistaken `become one` interpretation across the split sentence.
+- **ED-00101 p88:** complete the brothers' fight statement before Abel's death in p89.
+- **ED-00102 p96:** regularize the journal quotation in which Cain states he killed his brother.
+- **ED-00103 p100:** regularize the maddened journal outburst.
+- **ED-00104 p103:** complete the transition to Cain's later, neater handwriting.
+- **ED-00105 p106:** complete the warning addressed to future descendants.
+- **ED-00106 p108:** restore the complete imperative to leave immediately.
+- **ED-00107 p109:** close Cain's final journal warning cleanly.
+
+Historical **ED-00091** and **ED-00100** are unmatched in this recovered corpus and are not applied by analogy.
+
+## Remaining gate
+
+The full 150-slot English staging text and deterministic materializer are committed. The only unresolved QA item is final materialization/provenance generation, browser layout evidence, complete repository checks, and hash-bound batch acceptance together with Chapter 13. No independent human review is claimed.
