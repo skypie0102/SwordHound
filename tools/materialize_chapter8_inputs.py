@@ -2,6 +2,7 @@
 from pathlib import Path
 import hashlib
 import json
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTER = 8
@@ -10,6 +11,7 @@ KOREAN = ROOT / "source/korean/chapters/008.txt"
 STAGING = ROOT / "editorial/staging/chapter-0008-final-text.txt"
 MTL_SHA = "d0174210fffb9ee884a456e0c70d31f6c5de6620de3da01193210fcdd288d26f"
 KOREAN_SHA = "04c2b50afb454f6d6068492e080b813870afd8a042abd2d538259b0e6edb839f"
+NS = {'h': 'http://www.w3.org/1999/xhtml'}
 
 
 def sha(data: bytes) -> str:
@@ -22,11 +24,18 @@ def dump(path: Path, value) -> None:
 
 
 def main() -> None:
-    if sha(MTL.read_bytes()) != MTL_SHA:
+    mtl_bytes = MTL.read_bytes()
+    if sha(mtl_bytes) != MTL_SHA:
         raise ValueError("Chapter 8 MTL source hash changed")
     korean_bytes = KOREAN.read_bytes()
     if sha(korean_bytes) != KOREAN_SHA:
         raise ValueError("Chapter 8 Korean source hash changed")
+
+    doc = ET.fromstring(mtl_bytes)
+    body = doc.find('.//h:div[@class="chapter-content"]', NS)
+    source_paragraphs = [''.join(node.itertext()) for node in body.findall('.//h:p', NS)]
+    if len(source_paragraphs) != 104:
+        raise ValueError(f"Expected 104 MTL paragraph slots, got {len(source_paragraphs)}")
 
     texts = STAGING.read_text(encoding="utf-8").splitlines()
     if len(texts) != 104:
@@ -73,6 +82,8 @@ def main() -> None:
 
     edits = []
     for paragraph, text in enumerate(texts, 1):
+        if text == source_paragraphs[paragraph - 1]:
+            continue
         reason = key_reasons.get(
             paragraph,
             f"Compared Korean line {paragraph + 4} with MTL paragraph {paragraph}; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
@@ -125,7 +136,7 @@ def main() -> None:
 
     dump(ROOT / "editorial/edits/chapter-0008.json", spec)
     dump(ROOT / "editorial/korean-alignment/chapter-0008.json", alignment)
-    print("Chapter 8 editorial edit/alignment inputs materialized.")
+    print(f"Chapter 8 editorial inputs materialized: {len(edits)} changed paragraph slots.")
 
 
 if __name__ == "__main__":
