@@ -77,10 +77,23 @@ def render(chapter, *, validate_acceptance=True):
     scene_breaks = spec.get('scene_breaks_after', [])
     if len(set(scene_breaks)) != len(scene_breaks) or any(not 1 <= n < len(paragraphs) for n in scene_breaks):
         raise ValueError('Invalid scene-break placement')
+
+    suppressed = spec.get('suppressed_paragraphs', [])
+    suppression_reasons = spec.get('suppression_reasons', {})
+    if len(set(suppressed)) != len(suppressed) or any(not 1 <= n <= len(paragraphs) for n in suppressed):
+        raise ValueError('Invalid suppressed paragraph placement')
+    suppressed = set(suppressed)
+    if set(map(str, suppressed)) != set(suppression_reasons):
+        raise ValueError('Suppressed paragraphs require exactly one recorded reason each')
+    if any(not suppression_reasons[str(n)].strip() for n in suppressed):
+        raise ValueError('Suppressed paragraph reason cannot be blank')
+
     edits = {}
     for number, replacement, reason in spec['edits']:
         if number in edits or not 1 <= number <= len(paragraphs):
             raise ValueError(f'Duplicate or invalid paragraph: {number}')
+        if number in suppressed:
+            raise ValueError(f'Suppressed paragraph must not also carry an edit: {number}')
         if not replacement.strip() or '\n' in replacement or not reason.strip():
             raise ValueError(f'Invalid replacement or missing rationale: {number}')
         if replacement == paragraphs[number - 1]:
@@ -118,13 +131,19 @@ def render(chapter, *, validate_acceptance=True):
         raise ValueError('Tracker links disagree with generated chapter paths')
     rows, draft = [], []
     for number, original in enumerate(paragraphs, 1):
-        replacement, reason = edits.get(number, (original, None))
-        draft.append(f'<!-- source-p:{number:03d} -->\n{replacement}')
+        replacement, edit_reason = edits.get(number, (original, None))
+        suppressed_here = number in suppressed
+        reason = suppression_reasons[str(number)] if suppressed_here else edit_reason
+        if suppressed_here:
+            draft.append(f'<!-- source-p:{number:03d} suppressed: {suppression_reasons[str(number)]} -->')
+        else:
+            draft.append(f'<!-- source-p:{number:03d} -->\n{replacement}')
         if number in scene_breaks:
             draft.append('◆◆◆')
         rows.append({'paragraph': number, 'source_text_sha256': sha(original.encode()),
                      'draft_text_sha256': sha(replacement.encode()), 'source_text': original,
-                     'draft_text': replacement, 'changed': original != replacement, 'rationale': reason,
+                     'draft_text': replacement, 'changed': original != replacement or suppressed_here,
+                     'suppressed': suppressed_here, 'rationale': reason,
                      'open_issues': [i['id'] for i in issues if i['status'] == 'open' and number in i['paragraphs']]})
         if alignment:
             rows[-1]['korean_lines'] = korean_by_paragraph[number]
@@ -143,8 +162,9 @@ def render(chapter, *, validate_acceptance=True):
             raise ValueError('Acceptance lacks final review evidence')
     provenance = {'chapter': chapter, 'source': spec['source'], 'source_sha256': sha(source),
                   'draft': draft_path, 'draft_sha256': sha(text.encode()), 'paragraph_count': len(rows),
-                  'changed_paragraphs': len(edits), 'paragraphs': rows}
+                  'changed_paragraphs': sum(1 for row in rows if row['changed']), 'paragraphs': rows}
     provenance['scene_breaks_after'] = scene_breaks
+    provenance['suppressed_paragraphs'] = sorted(suppressed)
     provenance['editorial_accepted'] = qa['accepted']
     provenance['acceptance_evidence'] = qa.get('acceptance_evidence')
     if alignment:
