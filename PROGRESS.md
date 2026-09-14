@@ -2,6 +2,18 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — Chapter 5 reconstructed and accepted
+
+**Result: 5 chapters editorially accepted; Chapter 6 is next.** Chapter 5 retains all 183 MTL paragraphs, records 179 explicit edits, accounts for all 188 Korean physical lines, and resolves all six QA items.
+
+- Corrected pervasive machine-translation damage against the supplied Korean while preserving the MTL paragraph structure. The unused-corridor room replaces the corrupted “bikinis” line; ten minutes is restored as six hundred seconds; Hugo’s child-rearing maxim is reconstructed from Korean; and the extra short-sword line is integrated into Highbro’s second charge.
+- Resolved localized actor conflicts with explicit evidence: Lowbro remains the youngest, restrains Vikir, and loses the finger; Highbro is the eldest and later attacks with the short sword. Fandom search-retrieved character/synopsis evidence was used narrowly where the supplied witnesses conflict, without importing Chapter 6 events.
+- Final continuity stops when the Trident of Baskerville begins splitting from within. Styx protection is scoped to the blade resistance demonstrated in this scene rather than generalized into universal invulnerability.
+- Desktop/mobile layout review covered all 183 paragraphs, 61 dialogue paragraphs, 122 narrative paragraphs and two italic thoughts at 1100px and 390px widths, with 1.65 line height, correct indentation and no horizontal overflow.
+- Complete-checkout recovery verification, deterministic draft/preview checks, tracker regeneration/check, full unittest suite and whitespace checks passed before the acceptance record was generated. Source/archive evidence remains unchanged.
+
+**Next:** reconstruct Chapter 6 from the triplets’ internal collapse, again using Korean plus MTL and preserving the Chapter 5 endpoint. Whole-EPUB release remains pending.
+
 ## 2026-09-14 — Chapters 3–4 reconstructed and accepted
 
 **Result: 4 chapters editorially accepted; Chapter 5 is next.** Newly reviewed: 258 MTL paragraphs and 255 Korean physical lines, with 248 explicit paragraph edits. Both chapters have complete source comparisons, continuity notes, final readings and inspected desktop/mobile layouts. Nine new QA items are resolved.

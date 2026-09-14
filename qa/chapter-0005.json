@@ -5,68 +5,145 @@
   "review_basis": "korean_plus_mtl",
   "korean_source": "source/korean/chapters/005.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
-  "pass": "Bilingual translation, prose, continuity and layout review complete; repository integration validation pending",
-  "accepted": false,
+  "pass": "Final editorial, source, continuity, layout and repository validation",
+  "accepted": true,
   "issues": [
     {
       "id": "CH005-01",
       "status": "resolved",
-      "paragraphs": [4, 9, 39, 40, 88, 92, 96, 108, 109, 114, 118, 120],
+      "paragraphs": [
+        4,
+        9,
+        39,
+        40,
+        88,
+        92,
+        96,
+        108,
+        109,
+        114,
+        118,
+        120
+      ],
       "question": "Triplet ages, order and action attribution",
       "resolution": "Keep Highbro/Middlebro/Lowbro; Highbro eldest, Lowbro youngest. Keep Lowbro as the continuous restraining actor and bitten-finger victim despite localized Korean actor corruptions.",
-      "evidence": ["editorial/reviews/chapter-0005.md", "editorial/korean-alignment/chapter-0005.json"]
+      "evidence": [
+        "editorial/reviews/chapter-0005.md",
+        "editorial/korean-alignment/chapter-0005.json"
+      ]
     },
     {
       "id": "CH005-02",
       "status": "resolved",
-      "paragraphs": [24, 25, 26],
+      "paragraphs": [
+        24,
+        25,
+        26
+      ],
       "question": "Fang Castle route and corrupted room description",
       "resolution": "Retain Fang Castle continuity and restore the unused-corridor room from Korean, rejecting the MTL's 'bikinis' corruption.",
-      "evidence": ["editorial/reviews/chapter-0005.md", "editorial/korean-alignment/chapter-0005.json"]
+      "evidence": [
+        "editorial/reviews/chapter-0005.md",
+        "editorial/korean-alignment/chapter-0005.json"
+      ]
     },
     {
       "id": "CH005-03",
       "status": "resolved",
-      "paragraphs": [36, 42, 59, 72, 73, 74, 75, 76, 77, 78, 79, 80, 84, 85, 92, 96, 100, 109, 148, 151, 154, 155, 156],
+      "paragraphs": [
+        36,
+        42,
+        59,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        84,
+        85,
+        92,
+        96,
+        100,
+        109,
+        148,
+        151,
+        154,
+        155,
+        156
+      ],
       "question": "Breath-holding, finger wager and Styx protection",
       "resolution": "Restore ten minutes/six hundred seconds, preserve the severed finger and Lowbro attribution, integrate the short-sword detail, and scope Styx protection to the blade resistance demonstrated here.",
-      "evidence": ["editorial/reviews/chapter-0005.md", "editorial/korean-alignment/chapter-0005.json"]
+      "evidence": [
+        "editorial/reviews/chapter-0005.md",
+        "editorial/korean-alignment/chapter-0005.json"
+      ]
     },
     {
       "id": "CH005-04",
       "status": "resolved",
-      "paragraphs": [16, 94, 120, 135, 144, 145, 146, 149, 162, 174, 183],
+      "paragraphs": [
+        16,
+        94,
+        120,
+        135,
+        144,
+        145,
+        146,
+        149,
+        162,
+        174,
+        183
+      ],
       "question": "Broken MTL prose, Hugo maxim, historical audit and chapter endpoint",
       "resolution": "Reconstruct broken clauses from Korean, restore Hugo's two-part maxim, contextualize sound tokens, triage all eight unique audit matches, and stop at the Trident splitting from within.",
-      "evidence": ["editorial/reviews/chapter-0005.md", "editorial/korean-alignment/chapter-0005.json"]
+      "evidence": [
+        "editorial/reviews/chapter-0005.md",
+        "editorial/korean-alignment/chapter-0005.json"
+      ]
     },
     {
       "id": "CH005-05",
       "status": "resolved",
-      "paragraphs": [1, 84, 144, 183],
+      "paragraphs": [
+        1,
+        84,
+        144,
+        183
+      ],
       "question": "Complete final English reading, continuity and desktop/mobile presentation",
       "resolution": "Complete prose reading and continuity review finished; desktop/mobile rendering was measured and four screenshots visually inspected with no overflow or formatting defect.",
-      "evidence": ["editorial/reviews/chapter-0005-final.md", "editorial/continuity/chapter-0005.md", "qa/layout/chapter-0005.json"]
+      "evidence": [
+        "editorial/reviews/chapter-0005-final.md",
+        "editorial/continuity/chapter-0005.md",
+        "qa/layout/chapter-0005.json"
+      ]
     },
     {
       "id": "CH005-06",
-      "status": "open",
-      "paragraphs": [1, 183],
+      "status": "resolved",
+      "paragraphs": [
+        1,
+        183
+      ],
       "question": "Repository-level reproducibility and acceptance checks",
-      "required_evidence": "Run recovery verification, Chapter 5 draft/preview checks, tracker rebuild/check, full unittest suite and whitespace check from a complete checkout; generate acceptance hashes only after they pass."
+      "resolution": "Complete-checkout recovery verification, deterministic draft/preview checks, tracker regeneration/check, full unittest suite, and whitespace check passed before acceptance.",
+      "evidence": [
+        "qa/chapter-0005-validation.md"
+      ]
     }
   ],
-  "acceptance_evidence": null,
+  "acceptance_evidence": "qa/acceptance/chapter-0005.json",
   "release_status": "epub_not_built",
-  "pass_description": "Korean/MTL translation, complete prose reading, continuity and actual desktop/mobile layout review; repository-wide validation still required",
+  "pass_description": "Complete Korean/MTL source comparison, final prose reading, continuity, actual desktop/mobile layout review, and complete-checkout reproducibility validation",
   "final_review_evidence": [
     "editorial/reviews/chapter-0005-final.md",
     "editorial/continuity/chapter-0005.md",
     "preview/chapter-0005.html",
     "qa/layout/chapter-0005.json",
-    "qa/layout/chapter-0005-desktop-opening.png",
-    "qa/layout/chapter-0005-desktop-breath.png",
-    "qa/layout/chapter-0005-desktop-maxim.png",
-    "qa/layout/chapter-0005-mobile-ending.png"
+    "qa/chapter-0005-validation.md"
   ]
 }
