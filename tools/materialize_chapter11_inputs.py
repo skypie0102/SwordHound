@@ -211,7 +211,7 @@ def main() -> None:
             {"line": 36, "mtl_paragraphs": [34, 35], "reason": "Recovered XHTML inserts an NBSP spacer immediately before the first sword/mage equivalence row."},
             {"line": 42, "mtl_paragraphs": [41, 42], "reason": "Recovered XHTML inserts an NBSP spacer immediately after the final sword/mage equivalence row."},
             {"line": 143, "mtl_paragraphs": [143, 144], "reason": "Recovered MTL splits one Korean sentence about stakes piercing Cerberus and leaving serious wounds across two paragraph slots."},
-            {"line": 149, "mtl_paragraphs": [150, 151], "reason": "Recovered MTL adds an unsupported fragment after the Korean unexpected-harvest line; p151 remains provenance-accounted but is suppressed."
+            {"line": 149, "mtl_paragraphs": [150, 151], "reason": "Recovered MTL adds an unsupported fragment after the Korean unexpected-harvest line; p151 remains provenance-accounted but is suppressed."}
         ],
     }
 
