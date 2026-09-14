@@ -45,6 +45,7 @@ def render(chapter, *, validate_acceptance=True):
         raise ValueError('Source paragraph count changed')
     alignment = None
     korean_by_paragraph = {}
+    mtl_only = set()
     if spec.get('korean_alignment'):
         alignment = json.loads((ROOT / spec['korean_alignment']).read_text(encoding='utf-8'))
         korean = (ROOT / alignment['korean_source']).read_bytes()
@@ -55,15 +56,35 @@ def render(chapter, *, validate_acceptance=True):
             raise ValueError('Korean line count mismatch')
         if [p['mtl_paragraph'] for p in alignment['paragraphs']] != list(range(1, len(paragraphs)+1)):
             raise ValueError('Korean alignment omits or duplicates an MTL paragraph')
+
+        mtl_only_reasons = {}
+        for item in alignment.get('mtl_only_paragraphs', []):
+            paragraph = item.get('mtl_paragraph')
+            reason = item.get('reason', '')
+            if not isinstance(paragraph, int) or not 1 <= paragraph <= len(paragraphs) or paragraph in mtl_only_reasons or not reason.strip():
+                raise ValueError('Invalid MTL-only paragraph declaration')
+            mtl_only_reasons[paragraph] = reason
+        mtl_only = set(mtl_only_reasons)
+
         accounted = [entry['line'] for entry in alignment['non_body_lines']]
         for entry in alignment['paragraphs']:
+            paragraph = entry['mtl_paragraph']
             numbers = entry['korean_lines']
-            if not numbers or any(not 1 <= n <= len(lines) for n in numbers):
+            hashes = entry['line_text_sha256']
+            if not numbers:
+                if paragraph not in mtl_only or hashes:
+                    raise ValueError('Empty Korean reference requires declared MTL-only paragraph')
+                korean_by_paragraph[paragraph] = []
+                continue
+            if paragraph in mtl_only:
+                raise ValueError('Declared MTL-only paragraph carries Korean line reference')
+            if any(not 1 <= n <= len(lines) for n in numbers):
                 raise ValueError('Invalid Korean line reference')
-            if entry['line_text_sha256'] != [sha(lines[n-1].encode()) for n in numbers]:
+            if hashes != [sha(lines[n-1].encode()) for n in numbers]:
                 raise ValueError('Korean quoted-line hash mismatch')
             accounted.extend(numbers)
-            korean_by_paragraph[entry['mtl_paragraph']] = numbers
+            korean_by_paragraph[paragraph] = numbers
+
         shared = {}
         for group in alignment.get('shared_lines', []):
             line, owners = group['line'], group['mtl_paragraphs']
@@ -149,6 +170,8 @@ def render(chapter, *, validate_acceptance=True):
             row['suppressed'] = True
         if alignment:
             row['korean_lines'] = korean_by_paragraph[number]
+            if number in mtl_only:
+                row['mtl_only'] = True
         rows.append(row)
     status = 'Editorially accepted reconstruction — EPUB release pending.' if qa['accepted'] else 'Reconstruction draft — QA not accepted.'
     text = f'# Chapter {chapter}: {title}\n\n> {status} See [review](../../{qa_path}). Paragraph markers refer to the unchanged source.\n\n' + '\n\n'.join(draft) + '\n'
@@ -169,6 +192,8 @@ def render(chapter, *, validate_acceptance=True):
     provenance['scene_breaks_after'] = scene_breaks
     if suppressed:
         provenance['suppressed_paragraphs'] = sorted(suppressed)
+    if mtl_only:
+        provenance['mtl_only_paragraphs'] = sorted(mtl_only)
     provenance['editorial_accepted'] = qa['accepted']
     provenance['acceptance_evidence'] = qa.get('acceptance_evidence')
     if alignment:
