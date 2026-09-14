@@ -1,4 +1,4 @@
-name: Chapter 6 candidate render
+name: Chapter 6 acceptance
 
 on:
   push:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  render-candidate:
+  accept:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
@@ -25,11 +25,11 @@ jobs:
         run: |
           python -m pip install playwright
           python -m playwright install --with-deps chromium
-      - name: Materialize Chapter 6
-        run: |
-          python tools/materialize_chapter_0006.py
-          python tools/rebuild_editorial_tracking.py
-      - name: Validate candidate
+      - name: Apply final prose corrections
+        run: python tools/prepare_chapter_0006_final.py
+      - name: Render final layout evidence
+        run: python tools/inspect_chapter_0006.py
+      - name: Pre-acceptance checks
         run: |
           python tools/verify_recovery.py
           python tools/build_editorial_draft.py 6 --check
@@ -37,12 +37,22 @@ jobs:
           python tools/rebuild_editorial_tracking.py --check
           python -m unittest discover -s tests -v
           git diff --check
-      - name: Inspect layout
-        run: python tools/inspect_chapter_0006.py
-      - name: Commit candidate outputs
+      - name: Generate acceptance evidence
+        run: python tools/finalize_chapter_0006.py
+      - name: Regenerate accepted tracker
+        run: python tools/rebuild_editorial_tracking.py
+      - name: Final accepted-state checks
+        run: |
+          python tools/verify_recovery.py
+          python tools/build_editorial_draft.py 6 --check
+          python tools/build_chapter_preview.py 6 --check
+          python tools/rebuild_editorial_tracking.py --check
+          python -m unittest discover -s tests -v
+          git diff --check
+      - name: Commit accepted Chapter 6
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add editorial/edits/chapter-0006.json editorial/korean-alignment/chapter-0006.json editorial/provenance/chapter-0006.json editorial/chapter-tracker.json manuscript/drafts/chapter-0006.md preview/chapter-0006.html qa/layout/chapter-0006.json qa/layout/chapter-0006-*.png
-          git commit -m "Materialize Chapter 6 candidate [skip ci]"
+          git add README.md PROJECT_STATE.md PROGRESS.md editorial manuscript preview qa
+          git commit -m "Accept Chapter 6 reconstruction [skip ci]"
           git push origin HEAD:production/chapter-0006
