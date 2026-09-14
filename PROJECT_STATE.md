@@ -14,7 +14,8 @@ Recovery has preserved the available source corpus, local EPUB, historical audit
 - Chapters 3–4 are **editorially accepted**: 258 paragraphs retained, 248 edited, 255 Korean lines accounted for and nine QA items resolved. Their source decisions, final reviews and acceptance evidence are linked from [Chapter 3 QA](qa/chapter-0003.md) and [Chapter 4 QA](qa/chapter-0004.md).
 - Chapter 5 is **editorially accepted**: 183 paragraphs retained, 179 edited, all 188 Korean physical lines accounted for and all six QA items resolved. See [Chapter 5 QA](qa/chapter-0005.md) and its [acceptance record](qa/acceptance/chapter-0005.json).
 - Chapter 6 is **editorially accepted**: 124 paragraphs retained, 118 edited, all 124 Korean physical lines accounted for and all six QA items resolved. See [Chapter 6 QA](qa/chapter-0006.md) and its [acceptance record](qa/acceptance/chapter-0006.json).
-- **Current total: 6 accepted reconstructions; Chapters 7–493 remain unstarted.** No recovered or newly reconstructed chapter is certified as the former finished production version.
+- Chapter 7 is **editorially accepted**: 146 paragraph slots retained, 135 edited, all 151 Korean physical lines accounted for and all six QA items resolved. See [Chapter 7 QA](qa/chapter-0007.md) and its [acceptance record](qa/acceptance/chapter-0007.json).
+- **Current total: 7 accepted reconstructions; Chapters 8–493 remain unstarted.** No recovered or newly reconstructed chapter is certified as the former finished production version.
 - Read [PROGRESS.md](PROGRESS.md) for work completed, validation, and next actions; use [the workflow](editorial/WORKFLOW.md) for future batches.
 
 ## Verified recovery

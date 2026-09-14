@@ -1,6 +1,6 @@
 # Chapter 7: The Baskerville Dog (4)
 
-> Reconstruction draft — QA not accepted. See [review](../../qa/chapter-0007.md). Paragraph markers refer to the unchanged source.
+> Editorially accepted reconstruction — EPUB release pending. See [review](../../qa/chapter-0007.md). Paragraph markers refer to the unchanged source.
 
 <!-- source-p:001 -->
 Vikir knew Hugo’s personality well.
@@ -129,7 +129,7 @@ Vikir pondered the unfamiliar remark for a moment before understanding.
 Hugo had risen to the patriarch’s seat by killing all of his older brothers.
 
 <!-- source-p:043 -->
-‘I always thought only the eldest son could inherit the family. So even the eldest son can be made afterward.’
+‘I always thought only the eldest son could inherit the family. So even an eldest son could be made after the fact.’
 
 <!-- source-p:044 -->
 Once again, Vikir was reminded of the true nature of Baskerville.
@@ -302,7 +302,7 @@ Cold air seeping through gaps in the stone met the warm air entering through the
 Barrymore raised a lantern to illuminate the interior of the storage room.
 
 <!-- source-p:100 -->
-The same task could have been handled with mana, but the old butler performed it himself without the slightest awkwardness.
+It was a task easily handled with mana, but there was nothing strange about the old butler tending to it by hand.
 
 <!-- source-p:101 -->
 Vikir stepped inside.
@@ -401,7 +401,7 @@ Vikir bit into one as a test.
 Crunch!
 
 <!-- source-p:133 -->
-The reaction in his mouth was immediate.
+The flavor hit his mouth at once.
 
 <!-- source-p:134 -->
 The astringent bitterness was so intense that his entire tongue went numb.

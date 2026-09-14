@@ -3,7 +3,7 @@
   "source": "source/chapters/chapter-007.xhtml",
   "source_sha256": "857afae47af7eab43b52d7a578664446df0a711bfdb2d31e9184ea9d80d440cb",
   "draft": "manuscript/drafts/chapter-0007.md",
-  "draft_sha256": "ff6a7ca21b26b124fcf37ef8e4e25decce4271c936575e43ae8d3e9e4d7412f1",
+  "draft_sha256": "2f81dd09f4612fce79f668cb0e0234960fdef8e368c78aaa85e4d1e6937b9a94",
   "paragraph_count": 146,
   "changed_paragraphs": 135,
   "paragraphs": [
@@ -15,9 +15,7 @@
       "draft_text": "Vikir knew Hugo’s personality well.",
       "changed": true,
       "rationale": "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 5.",
-      "open_issues": [
-        "CH007-06"
-      ],
+      "open_issues": [],
       "korean_lines": [
         5
       ]
@@ -558,11 +556,11 @@
     {
       "paragraph": 43,
       "source_text_sha256": "18fb8281524d6be5ae26486d8adfaf2be34a9f80a2e7afc99c4f0012d0eaac7c",
-      "draft_text_sha256": "fe747004fa41e00b478f5762ccc5c338904701ec41a36e1932356682d438206c",
+      "draft_text_sha256": "34ea2713153317dfef480fa1b3517374f595dd23955f1fcea27973e9a78bca4f",
       "source_text": "‘Right. He only heard that the eldest son is unconditionally the one who inherit the family. Even the position of sucessor could be acquired.’",
-      "draft_text": "‘I always thought only the eldest son could inherit the family. So even the eldest son can be made afterward.’",
+      "draft_text": "‘I always thought only the eldest son could inherit the family. So even an eldest son could be made after the fact.’",
       "changed": true,
-      "rationale": "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 47.",
+      "rationale": "Smooth the eldest-son realization after the complete prose read without changing the source decision.",
       "open_issues": [],
       "korean_lines": [
         47
@@ -1299,11 +1297,11 @@
     {
       "paragraph": 100,
       "source_text_sha256": "4e6e3fcbe52bf6e7ae4ef8191da850c3f69b5e319593950b082f48380c45007e",
-      "draft_text_sha256": "069728ce4076a7e272582369a3a548773910965fbc3f919be627eb511b034d1b",
+      "draft_text_sha256": "73f69dd06fa5bfe044bcefa70f1e1005a5182a253865bd27319dfc4923825a17",
       "source_text": "Barrymore held up his hand to dissapating the mist inside of the warehouse.",
-      "draft_text": "The same task could have been handled with mana, but the old butler performed it himself without the slightest awkwardness.",
+      "draft_text": "It was a task easily handled with mana, but there was nothing strange about the old butler tending to it by hand.",
       "changed": true,
-      "rationale": "Conservatively render the mana-versus-manual-lighting contrast without inventing a new technique.",
+      "rationale": "Smooth the lantern/mana contrast after the complete prose read while preserving the Korean action.",
       "open_issues": [],
       "korean_lines": [
         105
@@ -1728,11 +1726,11 @@
     {
       "paragraph": 133,
       "source_text_sha256": "f562889cb2f8d75f79c3e4d1d5c068b47a6f0bb604b15acb5f99ca05722236db",
-      "draft_text_sha256": "d0da3037bdadeae0a795365c470d1a4b75b7922c450709c939d5b4dbc34d02c6",
+      "draft_text_sha256": "c1f520d35973421831f43539231fdf7202b8c308ec8d87dea0b15fda2125efda",
       "source_text": "Reaction comes right in the mouth.",
-      "draft_text": "The reaction in his mouth was immediate.",
+      "draft_text": "The flavor hit his mouth at once.",
       "changed": true,
-      "rationale": "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 138.",
+      "rationale": "Sharpen the immediate taste reaction after the complete prose read without changing meaning.",
       "open_issues": [],
       "korean_lines": [
         138
@@ -1902,9 +1900,7 @@
       "draft_text": "Apparently, he had not taken them to eat.",
       "changed": true,
       "rationale": "Preserve the exact endpoint: Vikir did not take the raw beans to eat; do not reveal their later use.",
-      "open_issues": [
-        "CH007-06"
-      ],
+      "open_issues": [],
       "korean_lines": [
         151
       ]
@@ -1913,8 +1909,8 @@
   "scene_breaks_after": [
     93
   ],
-  "editorial_accepted": false,
-  "acceptance_evidence": null,
+  "editorial_accepted": true,
+  "acceptance_evidence": "qa/acceptance/chapter-0007.json",
   "korean_source": "source/korean/chapters/007.txt",
   "korean_sha256": "e2162bd21803c27643465970557aac3ffe7bcede3460982362cc841e3295a7f4",
   "korean_alignment": "editorial/korean-alignment/chapter-0007.json"

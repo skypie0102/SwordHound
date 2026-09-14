@@ -232,12 +232,10 @@
       "original_edited_file": "not_recovered",
       "original_qa_file": "not_recovered",
       "historical_reported_state": "merged_through_372",
-      "reconstruction_status": "qa_in_progress",
+      "reconstruction_status": "qa_accepted",
       "draft": "manuscript/drafts/chapter-0007.md",
       "qa_report": "qa/chapter-0007.md",
-      "open_issues": [
-        "CH007-06"
-      ],
+      "open_issues": [],
       "audit_findings_with_exact_unique_match": [
         "ED-00072",
         "ED-00073",
@@ -250,8 +248,8 @@
         "alignment": "filename_and_opening_number_verified; full_passage_alignment_pending"
       },
       "source_policy": "editorial/SOURCES.md",
-      "editorial_accepted": false,
-      "acceptance_evidence": null
+      "editorial_accepted": true,
+      "acceptance_evidence": "qa/acceptance/chapter-0007.json"
     },
     {
       "chapter": 8,

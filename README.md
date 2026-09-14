@@ -8,7 +8,7 @@ Recovered source and reference material for the English EPUB project after loss 
 
 **Sources are now configured:** Korean raws plus MTL for Chapters **1–54**; MTL with supporting-reference QA for **55–493**. [Source policy and wiki links](editorial/SOURCES.md) · [Agent instructions](AGENTS.md). Agents may seek additional web support when needed.
 
-**Current checkpoint: Chapters 1–6 editorially accepted; Chapter 7 is next.** Each includes Korean/MTL comparison, explicit source decisions and desktop/mobile layout review. [Chapter 5](manuscript/drafts/chapter-0005.md) · [Chapter 6](manuscript/drafts/chapter-0006.md) · [Latest QA and evidence](qa/chapter-0006.md). The remaining 487 chapters await reconstruction.
+**Current checkpoint: Chapters 1–7 editorially accepted; Chapter 8 is next.** Each includes Korean/MTL comparison, explicit source decisions and desktop/mobile layout review. [Chapter 6](manuscript/drafts/chapter-0006.md) · [Chapter 7](manuscript/drafts/chapter-0007.md) · [Latest QA and evidence](qa/chapter-0007.md). The remaining 486 chapters await reconstruction.
 
 ## Repository contents
 

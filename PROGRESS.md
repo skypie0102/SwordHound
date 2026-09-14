@@ -2,6 +2,18 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — Chapter 7 reconstructed and accepted
+
+**Result: 7 chapters editorially accepted; Chapter 8 is next.** Chapter 7 retains all 146 MTL paragraph slots, records 135 explicit edits, accounts for all 151 Korean physical lines, and resolves all six QA items.
+
+- Restored Hugo's utilitarian worldview and Baskerville's strength/weakness creed, reconstructed the triplets' forgiveness and age/eldest-son wordplay, and clarified that Vikir turns Hugo's own old forgiveness maxim back on him.
+- Restored the under-fifteen haggis/chocolate reward system, Hugo's instruction not to lose to the direct line, and the two-suns visual echo without naming later competitors.
+- Realigned the source divider safely: Korean line 98 becomes the real `◆◆◆` break after paragraph 93, while the MTL divider slot is reused for the first post-break line. All 146 slots and all Korean lines remain accounted for.
+- Normalized raw cacao/Bloody Bean terminology, corrected the 100-liter-per-bean versus roughly 10,000-liter-per-pouch math, and preserved the endpoint that Vikir did not take the beans to eat.
+- Final Chromium rendering and repository checks passed before hash-bound acceptance evidence was generated.
+
+**Next:** reconstruct Chapter 8 (*Hounds of Hell (1)*) using Korean plus MTL, beginning from the still-unrevealed purpose of the Bloody Beans. Whole-EPUB release remains pending.
+
 ## 2026-09-14 — Chapter 6 reconstructed and accepted
 
 **Result: 6 chapters editorially accepted; Chapter 7 is next.** Chapter 6 retains all 124 MTL paragraphs, records 118 explicit edits, accounts for all 124 Korean physical lines, and resolves all six QA items.
