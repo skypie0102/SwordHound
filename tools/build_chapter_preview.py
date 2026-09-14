@@ -44,29 +44,36 @@ def render_preview(chapter):
     info_open = False
     for row, meta in zip(record['paragraphs'], source_meta):
         text = row['draft_text']
+        source_classes = meta['source_class'].split()
         is_formatting_blank = not text.replace('\xa0', '').strip()
+        is_source_divider = 'scene-break' in source_classes and text.strip() in {'◆', '◆◆◆', '* * *'}
 
-        if meta['info_window'] and not info_open:
-            body.append('<div class="info-window">')
-            info_open = True
-        elif not meta['info_window'] and info_open:
-            body.append('</div>')
-            info_open = False
+        if is_source_divider:
+            if info_open:
+                body.append('</div>')
+                info_open = False
+            body.append('<div class="scene-break" role="separator" aria-label="Scene break">◆◆◆</div>')
+        else:
+            if meta['info_window'] and not info_open:
+                body.append('<div class="info-window">')
+                info_open = True
+            elif not meta['info_window'] and info_open:
+                body.append('</div>')
+                info_open = False
 
-        if not is_formatting_blank:
-            content = html.escape(text)
-            if meta['info_window']:
-                source_classes = meta['source_class'].split()
-                info_class = 'info-window-title' if 'info-window-title' in source_classes else 'info-window-row'
-                body.append(f'<p id="p{row["paragraph"]:03d}" class="{info_class}">{content}</p>')
-            else:
-                if text.startswith('‘') and text.endswith('’'):
-                    content = '<em>' + content + '</em>'
-                elif 'thought, ‘' in text:
-                    start = content.index('‘')
-                    content = content[:start] + '<em>' + content[start:] + '</em>'
-                kind = 'dialogue' if text.startswith('“') else 'narrative'
-                body.append(f'<p id="p{row["paragraph"]:03d}" class="{kind}">{content}</p>')
+            if not is_formatting_blank:
+                content = html.escape(text)
+                if meta['info_window']:
+                    info_class = 'info-window-title' if 'info-window-title' in source_classes else 'info-window-row'
+                    body.append(f'<p id="p{row["paragraph"]:03d}" class="{info_class}">{content}</p>')
+                else:
+                    if text.startswith('‘') and text.endswith('’'):
+                        content = '<em>' + content + '</em>'
+                    elif 'thought, ‘' in text:
+                        start = content.index('‘')
+                        content = content[:start] + '<em>' + content[start:] + '</em>'
+                    kind = 'dialogue' if text.startswith('“') else 'narrative'
+                    body.append(f'<p id="p{row["paragraph"]:03d}" class="{kind}">{content}</p>')
 
         if row['paragraph'] in record['scene_breaks_after']:
             if info_open:
