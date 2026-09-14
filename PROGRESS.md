@@ -2,6 +2,19 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — Hounds of Hell (Chapters 8–11) reconstructed and accepted
+
+**Result: 11 chapters editorially accepted; Chapters 12–13, *The Gluttonous Flies*, are next.** The Hounds of Hell title-family batch preserves all 626 recovered MTL paragraph slots in provenance and records 610 edited or structurally adjudicated slots across Chapters 8–11.
+
+- Reviewed the entire contiguous title family together under Korean-plus-MTL mode so practical-exam rules, Guide Hounds, Le Rouge et Le Noir Mountain, Bloody Beans/cacao, Hellhound weaknesses, Cerberus geography and sword ranks remain consistent across chapter boundaries.
+- Preserved Norvegicus, Hellhound, Cerberus and sword/mage comparison data as reader-facing info windows while keeping all recovered source slots auditable; source-only NBSP spacers and explicitly documented duplicate/unsupported fragments are suppressed only from presentation.
+- Corrected consequential machine-translation failures including Chapter 10 Korean `신장` as **kidneys**, not height; limited River Styx protection to strong but finite resistance; restored Chapter 11's **Cradle of Needles**; and preserved the seven-step Bloody Mamba venom payoff at the exact family endpoint.
+- All historical audit hits for Chapters 8–11 were manually triaged. No audit suggestion was automatically applied.
+- One shared Chromium installation/session rendered desktop/mobile evidence for all four chapters, then preserved-source checks, deterministic generation, tracker validation, the full test suite and whitespace checks passed before hash-bound acceptance records were created.
+- The repository now requires title-family batching and sparse GitHub-runner usage in `AGENTS.md`; this batch used one final family-level runner rather than per-chapter candidate/acceptance runs.
+
+**Next:** reconstruct Chapters 12–13 as the contiguous *The Gluttonous Flies* title-family batch. Whole-EPUB release remains pending.
+
 ## 2026-09-14 — Chapter 7 reconstructed and accepted
 
 **Result: 7 chapters editorially accepted; Chapter 8 is next.** Chapter 7 retains all 146 MTL paragraph slots, records 135 explicit edits, accounts for all 151 Korean physical lines, and resolves all six QA items.

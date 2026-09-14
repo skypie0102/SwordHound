@@ -1,0 +1,28 @@
+{
+  "chapter": 10,
+  "scope": "editorial_only",
+  "review_basis": "korean_plus_mtl",
+  "draft_sha256": "70c0ee8cb36b3add94ed07fde6299d0c33268ccfce622ecd768e1871888e3131",
+  "mtl_sha256": "67ab38d1c1e0fe7543833696b5147599cfaa5f796e2726bdabc22fbbe6131f20",
+  "korean_sha256": "72d8f7f1c9ca55c2c4904d9df5ecb0cae5262ce625e02b529e6f25cb1ecc5586",
+  "edit_set_sha256": "ef6c55445aa64d6c7477e3b9bd25a203eedb8fa696eb6e4a73896263fa942dc4",
+  "decisions_sha256": "69077258c3467ec0a1805994057411037d35e38144756535a1f9cfae7b592346",
+  "alignment_sha256": "cf1e773bd4e160bd72885fccfe7d4887efcbddfa06009c1379769baab8b996f3",
+  "evidence_sha256": {
+    "editorial/continuity/chapter-0010.md": "9c02c67d46aaccddbeed7ec68f473f1c2d91798431ee7f801061d7bb21d5a633",
+    "editorial/korean-alignment/chapter-0010.json": "581517c18452675b0b677733d6581afc12bbe2505ddcd2598c6d5056a361a8ca",
+    "editorial/reviews/batch-hounds-of-hell-0008-0011.md": "58891ea1e39bbb8a7ae2b0e0af3f01242243bbc5715f7adefd42175d6037f502",
+    "editorial/reviews/chapter-0010-final.md": "6f7fd589dd080f971a152e58b41da2087a7a9717fbb7e5ea463ccf463f4f6b2a",
+    "editorial/reviews/chapter-0010.md": "3073cf1e3788f64077f2596e33964fa42e189841d37fb26d6ac80da235123266",
+    "preview/chapter-0010.html": "23200ce512d9aedd4fc8306f9bb37ad254ba36556583b12f7d9b7f3ec0ce85fc",
+    "qa/chapter-0010-validation.md": "679ec8746f04cf0dd4688a5503bd8d0045149efbadfbd57aef955cf511dc91ad",
+    "qa/layout/chapter-0010-desktop-cerberus.png": "2b2b931af9b95feb38e08bf1bfd5f0b06a5d1d5d7057c122d5cb351c4fd12d39",
+    "qa/layout/chapter-0010-desktop-kidney.png": "665787fbf3ce2b1e9fc9247d84343bedcd6fad7fdc3107a3382d11f0a64c76cd",
+    "qa/layout/chapter-0010-desktop-pack.png": "5d3e66f4e2926ea67934f713318bd1672b56e23a5a90171570f16433cd3c6099",
+    "qa/layout/chapter-0010-mobile-ending.png": "d5c16228fa073c6ab2398e41b97401dd19d33b829ad5e1ba226e77d392d045d7",
+    "qa/layout/chapter-0010.json": "614dc455794e19bcc5a6c6d1632bc455342a104bb8f030736e6784d2f1e558ff"
+  },
+  "review_date": "2026-09-14",
+  "reviewer": "Codex editorial/QA agent; no independent human review claimed",
+  "release_status": "epub_not_built"
+}

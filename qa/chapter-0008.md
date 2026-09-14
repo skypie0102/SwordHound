@@ -1,7 +1,7 @@
 # Chapter 8 — Hounds of Hell (1): reconstruction QA
 
-**Korean-plus-MTL reconstruction is source-reviewed and QA-ready, but not yet editorially accepted.** All 104 MTL paragraph slots have a reviewed replacement, and all 108 Korean physical lines are accounted for as four repeated headings plus a strict one-to-one 104-line body mapping. Five source/continuity QA items are resolved. Final generated-output, browser-layout and repository validation are intentionally deferred so GitHub Actions can be batched and used sparingly.
+**Editorially accepted Korean-plus-MTL reconstruction as part of the Hounds of Hell (1–4) title-family batch.** All 104 recovered MTL paragraph slots remain accounted for, 104 slots are edited or structurally adjudicated, and all 108 Korean physical lines are accounted for. Complete source comparison, continuity review, one-session desktop/mobile browser rendering and repository-level reproducibility checks passed.
 
-[Source decisions](../editorial/reviews/chapter-0008.md) · [Continuity](../editorial/continuity/chapter-0008.md) · [QA decisions](chapter-0008.json). Generated draft/provenance, preview, screenshots and acceptance evidence will be created only at the batched final gate.
+[Source decisions](../editorial/reviews/chapter-0008.md) · [Family review](../editorial/reviews/batch-hounds-of-hell-0008-0011.md) · [Continuity](../editorial/continuity/chapter-0008.md) · [Final review](../editorial/reviews/chapter-0008-final.md) · [Acceptance evidence](acceptance/chapter-0008.json) · [Validation](chapter-0008-validation.md) · [Preview](../preview/chapter-0008.html).
 
-This is a new reconstruction, not recovered old production. EPUB release remains pending.
+Whole-EPUB packaging and EPUBCheck remain pending; this is not recovered old production.

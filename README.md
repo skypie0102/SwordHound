@@ -8,7 +8,7 @@ Recovered source and reference material for the English EPUB project after loss 
 
 **Sources are now configured:** Korean raws plus MTL for Chapters **1–54**; MTL with supporting-reference QA for **55–493**. [Source policy and wiki links](editorial/SOURCES.md) · [Agent instructions](AGENTS.md). Agents may seek additional web support when needed.
 
-**Current checkpoint: Chapters 1–7 editorially accepted; Chapter 8 is next.** Each includes Korean/MTL comparison, explicit source decisions and desktop/mobile layout review. [Chapter 6](manuscript/drafts/chapter-0006.md) · [Chapter 7](manuscript/drafts/chapter-0007.md) · [Latest QA and evidence](qa/chapter-0007.md). The remaining 486 chapters await reconstruction.
+**Current checkpoint: Chapters 1–11 editorially accepted; Chapters 12–13 (*The Gluttonous Flies*) are the next title-family batch.** Accepted reconstructions include explicit source decisions and desktop/mobile layout review. [Hounds of Hell family review](editorial/reviews/batch-hounds-of-hell-0008-0011.md) · [Chapter 11](manuscript/drafts/chapter-0011.md) · [Latest QA and evidence](qa/chapter-0011.md). The remaining 482 chapters await reconstruction.
 
 ## Repository contents
 

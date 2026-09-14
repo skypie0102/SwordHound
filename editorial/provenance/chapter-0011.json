@@ -1,0 +1,2642 @@
+{
+  "chapter": 11,
+  "source": "source/chapters/chapter-011.xhtml",
+  "source_sha256": "3e33fad1699136e0baf0506c349abfd068ac7411893aeb6199753c77b90b8268",
+  "draft": "manuscript/drafts/chapter-0011.md",
+  "draft_sha256": "33a74a44eaac480f4619a5c4ed3ae08d783793b29b8c948439d008beeae9cd5d",
+  "paragraph_count": 201,
+  "changed_paragraphs": 198,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "source_text_sha256": "92c7d95efdf3c6e66034ebc94e7bad7731ffc167d78ba7038c14b38c0f6b46cc",
+      "draft_text_sha256": "43e5d73b26d4d1ef8bba28d6eacfd7a7d4def6f518edfc027ec3c176788a14a7",
+      "source_text": "An unpleasant growl that might be heard when metal pieces rub against each other.",
+      "draft_text": "An unpleasant growl rang out, like bronze beasts grinding their bodies together.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 1; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        5
+      ]
+    },
+    {
+      "paragraph": 2,
+      "source_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "draft_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "source_text": " ",
+      "draft_text": " ",
+      "changed": true,
+      "rationale": "Recovered XHTML NBSP spacer before the opening Cerberus info window; retain provenance but suppress reader-facing blank output.",
+      "open_issues": [],
+      "suppressed": true,
+      "korean_lines": [
+        6
+      ]
+    },
+    {
+      "paragraph": 3,
+      "source_text_sha256": "5cee47314cf3f3abb4c7b529ccc23333c4052dbf4bd65040d6957300ea9a43a6",
+      "draft_text_sha256": "5cee47314cf3f3abb4c7b529ccc23333c4052dbf4bd65040d6957300ea9a43a6",
+      "source_text": "<Cerberus>",
+      "draft_text": "<Cerberus>",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [],
+      "korean_lines": [
+        6
+      ]
+    },
+    {
+      "paragraph": 4,
+      "source_text_sha256": "4c687f8407019e71aada6310a6371786466b4004b79a6d88924e7bc31627e34c",
+      "draft_text_sha256": "00903803f9d01801f5466f1ce0ee668e9d6bfebd56ef151d36ead48e56911da8",
+      "source_text": "Risk level: A+",
+      "draft_text": "Danger Level: A+",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 4; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        7
+      ]
+    },
+    {
+      "paragraph": 5,
+      "source_text_sha256": "35cd5b9906446a449ff58498e9fa297652f167aa79d3f3eee20f6296fdfa4e32",
+      "draft_text_sha256": "9369c8c801efbf04937d4908d11f4d1f032755badc46c37c4e641e37ce411c5a",
+      "source_text": "Size: 7m",
+      "draft_text": "Size: 7 m",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 5; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        8
+      ]
+    },
+    {
+      "paragraph": 6,
+      "source_text_sha256": "741434e4a081c8e5fae36cda838e06c8ad719fcacb335f7f21d465595775e019",
+      "draft_text_sha256": "6d3a30eb818d2182027913828f5c882c1467aaecbdfbf459a6a9b62117facf17",
+      "source_text": "Discovery Location: Le Rouge Et Le Noir Mountain 7th ridge",
+      "draft_text": "Discovery Location: Le Rouge et Le Noir Mountain, Seventh Ridge",
+      "changed": true,
+      "rationale": "Standardize Cerberus discovery location as Le Rouge et Le Noir Mountain, Seventh Ridge.",
+      "open_issues": [],
+      "korean_lines": [
+        9
+      ]
+    },
+    {
+      "paragraph": 7,
+      "source_text_sha256": "5c07fd6a20c07dbc2cfa2fd6efb2dc97790e26cbfb9aa794846e7521c4de0d97",
+      "draft_text_sha256": "7e05741fd776dfd53b544f2cbf1a770eb86e2a8976575f0021d7862fb37b02be",
+      "source_text": "-Aka “Hell’s Guard Dog”",
+      "draft_text": "AKA: “Hell’s Guard Dog”",
+      "changed": true,
+      "rationale": "Keep the Cerberus AKA inside its info window.",
+      "open_issues": [],
+      "korean_lines": [
+        10
+      ]
+    },
+    {
+      "paragraph": 8,
+      "source_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "draft_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "source_text": " ",
+      "draft_text": " ",
+      "changed": true,
+      "rationale": "Recovered XHTML NBSP spacer after the opening Cerberus info window; retain provenance but suppress reader-facing blank output.",
+      "open_issues": [],
+      "suppressed": true,
+      "korean_lines": [
+        10
+      ]
+    },
+    {
+      "paragraph": 9,
+      "source_text_sha256": "8398bb77c5464eff9c88f2265d2ae9c2015a2e602a692c2de5fdd9ad7bf2b121",
+      "draft_text_sha256": "706b835420435deb330db448b2e197ed21335c47b410a1afdd35afdfa2756122",
+      "source_text": "It is not interested in the ghosts who want to enter hell, but the ghosts who wanted to get out of hell are immediately torn to pieces and made into rags.",
+      "draft_text": "It showed no interest in souls entering hell, but any soul that tried to escape was immediately torn to pieces.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 9; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        11
+      ]
+    },
+    {
+      "paragraph": 10,
+      "source_text_sha256": "92250d083713e29a220241ede63e9b90549fb69838775c3b3fe62811b4189962",
+      "draft_text_sha256": "1cab8577bb3a4182385b67b836f78f04990864fbb541823d4589fd8d1d51dcaa",
+      "source_text": "It lives in the depths of hell, where all the ghosts finally head, and leads to the ultimate of monsters of the Canine species.",
+      "draft_text": "It dwelled in the deepest reaches of the underworld, the final destination of all souls, and stood at the pinnacle of hell-type canine demonic creatures.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 10; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        12
+      ]
+    },
+    {
+      "paragraph": 11,
+      "source_text_sha256": "0557f64ece6277e8525643d4eb07e1cd53d8d88b8c95776f0883ff06cb8c03d9",
+      "draft_text_sha256": "b9f9a0cb3a090fb79e8bbc31bfe1a66227c8bde2db3629617d770a29530c1029",
+      "source_text": "This monster that spewed gas, oil, and flames from deep inside its three throats is Cerberus, the guardian dog of hell.",
+      "draft_text": "Gas, oil, and flame spewed from deep within its three throats. This was Cerberus, the guard dog of hell.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 11; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        13
+      ]
+    },
+    {
+      "paragraph": 12,
+      "source_text_sha256": "e698a456ea4ca3b6c2fc5d5c0689f2b54185312ebad3d71191385dfc175eac66",
+      "draft_text_sha256": "df329e4719715925e4d8e746205aae587252983c76312dc1dd4c95e86e9f004a",
+      "source_text": "Even for a seasoned hunter Vikir was a super-elite monster that he had only seen once from a distance before returning.",
+      "draft_text": "Even Vikir, a seasoned hunter, had seen this super-elite monster only once from a distance before his regression.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 12; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        14
+      ]
+    },
+    {
+      "paragraph": 13,
+      "source_text_sha256": "206ec338db35d02bfddc5bc61f32cbc6ed520f43f293b8b797b91cc45bbc99bf",
+      "draft_text_sha256": "cb8bbd4a624c27583998de1cf882e96aca5cbf3ef72c34e94df282be456544d0",
+      "source_text": "One day, the gate to the demon world suddenly opened, and demons would explode from all over the place.",
+      "draft_text": "One day, the gates of the Demon Realm had suddenly opened and demonic creatures poured out across the continent.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 13; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        15
+      ]
+    },
+    {
+      "paragraph": 14,
+      "source_text_sha256": "30f5683e3b334f48f2acf306e1ca3d211f25bcf1606d84caf7e898244d8a14e0",
+      "draft_text_sha256": "3b49446c9cea1e345dd0bb33b31fb2f0c038c45f5bc81b510fbf05d70c2d6cf0",
+      "source_text": "On the day that announced the beginning of a long disaster, warriors selected from the family died by more than three digits to this Cerberus who was rampaging at the forefront.",
+      "draft_text": "On the day that marked the beginning of the long catastrophe, a single Cerberus rampaging at the front killed hundreds of warriors selected from the Seven Great Families.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 14; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        16
+      ]
+    },
+    {
+      "paragraph": 15,
+      "source_text_sha256": "5746461f5bf9e0c578321ff8c21b442532f20b40c45292a5a287fe61c924a808",
+      "draft_text_sha256": "26e264e8c3420955f8da9c10cd6833b158d543c0b844e6e6a904e46781af8e3a",
+      "source_text": "Because it was the beginning of the war when everyone was clumsy, the damage was even more severe.",
+      "draft_text": "The losses had been even worse because everyone was still inexperienced at the beginning of the war.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 15; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        17
+      ]
+    },
+    {
+      "paragraph": 16,
+      "source_text_sha256": "8721fdb714cd36f143e45ebd7d09cff19a389bdcce1ec182b7d31c8858344bba",
+      "draft_text_sha256": "a21b15a780ea20f6ce3a71e9a81eff97dd23648cbb856fd3c84cd6b2d3ab53ba",
+      "source_text": "The damage would have been out of control had it not been for the youngest female head of the House of Morgue at the time, Empress Dowager Camus Morgue.",
+      "draft_text": "Greater disaster had been prevented only when Camus Morgue—the youngest female head of the Morgue Family at the time, later known as the Ironblood Empress—personally intervened.",
+      "changed": true,
+      "rationale": "Use the established Camus Morgue spelling/title context rather than the corrupted Korean/MTL royal epithet.",
+      "open_issues": [],
+      "korean_lines": [
+        18
+      ]
+    },
+    {
+      "paragraph": 17,
+      "source_text_sha256": "37eb81bebff171d1229a095c2cbfb821caaaa33e12a5d6ed7ccaa27d7e5377c9",
+      "draft_text_sha256": "07f0487116432b053971147721a79e34ccdb8bd626d43c7abc5e42c416bcc312",
+      "source_text": "And now, that same Cerberus appeared before Vikir’s eyes.",
+      "draft_text": "And now that very same kind of Cerberus stood before Vikir.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 17; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        19
+      ]
+    },
+    {
+      "paragraph": 18,
+      "source_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
+      "draft_text_sha256": "063cb34fad7582c34dfbc441f090c39369356befe94d63a1809d0e0dda02872d",
+      "source_text": "“…….”",
+      "draft_text": "“…”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 18; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        20
+      ]
+    },
+    {
+      "paragraph": 19,
+      "source_text_sha256": "d761180dea3cba301330569357167e1c88a1f37140734e546864353efa86f532",
+      "draft_text_sha256": "9a838ad875697ee43eddbb78de648ac5b23349fa8406599392b9cde88b3c0dd3",
+      "source_text": "Even in the face of this mighty monster, which would be useless even if a hundred hellhounds attacked at once, Vikir remained calm.",
+      "draft_text": "Even before a monster powerful enough to make a hundred Hellhounds meaningless, Vikir remained calm.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 19; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        21
+      ]
+    },
+    {
+      "paragraph": 20,
+      "source_text_sha256": "98d812144616aae3a4e6637dd111e0662130c745e69d59843505c298ee4939f8",
+      "draft_text_sha256": "b5da210f12b0b498d0f76637d81557c054a9053eb459da7ae34330dfe8723f44",
+      "source_text": "“Right. Has Cerberus already crossed over? Why did a guy who only lived around the 7th ridge come all the way here?”",
+      "draft_text": "“So Cerberus has already made it this far? Why is a creature that should stay around the Seventh Ridge all the way down here?”",
+      "changed": true,
+      "rationale": "Restore Vikir's question about a Seventh-Ridge Cerberus descending this far.",
+      "open_issues": [],
+      "korean_lines": [
+        22
+      ]
+    },
+    {
+      "paragraph": 21,
+      "source_text_sha256": "f3758bbcf390493ad3b2816cf501cd6e040248e1a63c54c0109c698998bb957e",
+      "draft_text_sha256": "7bdfd71e9cff830989280e784240e7146937630e9155b0b88fec29f6a0f602a0",
+      "source_text": "As the saying goes, the area where Cerberus was first discovered was the highlands of Le Rouge Et Le Noir Mountain.",
+      "draft_text": "As he said, Cerberus had originally been encountered in the highlands of Le Rouge et Le Noir Mountain.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 21; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        23
+      ]
+    },
+    {
+      "paragraph": 22,
+      "source_text_sha256": "7c6f6fe38e0332585e3adadbe39cb06a20af58494057b99ef4cbd0c71ee831d2",
+      "draft_text_sha256": "93c9e29f6961a8658af48d402751b9d2e53e1d80a99eec5456d478804f8c8053",
+      "source_text": "But now, Cerberus is down to the lowlands of the first part of the ridge here.",
+      "draft_text": "Yet this one had descended all the way to the lowlands around the First Ridge.",
+      "changed": true,
+      "rationale": "Place the encounter in the lowlands around the First Ridge rather than flattening the mountain geography.",
+      "open_issues": [],
+      "korean_lines": [
+        24
+      ]
+    },
+    {
+      "paragraph": 23,
+      "source_text_sha256": "f4e5b02551b16ae71e87db72e54fb852479e88262f39868e23b05f71d372d5ac",
+      "draft_text_sha256": "0b5731066cf1ac9be13222c5ce88ac853e37aca6e7c5736d5b2ed82680ccf357",
+      "source_text": "I don’t know what brought him here…….",
+      "draft_text": "What could have driven it this far down…?",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 23; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        25
+      ]
+    },
+    {
+      "paragraph": 24,
+      "source_text_sha256": "1c3648235ebd1abeb67a3858d4b0d6ca0c7b2bd3bea89304012acd061429d0bc",
+      "draft_text_sha256": "9e76450bd87be0f7e13d568886b6d680892f4c1466e451b2e5282a7fa3251325",
+      "source_text": "[Kreureung!]",
+      "draft_text": "[Grrrrr!]",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 24; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        26
+      ]
+    },
+    {
+      "paragraph": 25,
+      "source_text_sha256": "3353c24146668c095a20b8bf191f71e17cab02b4a8985eb2238764ee50a3d5e7",
+      "draft_text_sha256": "5531058fa46c8ca229cbee407739e466b72ff02d5e912f41f19d400ca2c40321",
+      "source_text": "It was a pretty embarrassing situation for Vikir.",
+      "draft_text": "It was an awkward situation even for Vikir.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 25; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        27
+      ]
+    },
+    {
+      "paragraph": 26,
+      "source_text_sha256": "9f133b03b0d8b30d2df7dda6d8c12f106acc524bd7a9d2a742dc85adb95c2867",
+      "draft_text_sha256": "10a1f6f1225acfc2a6d9dc30ddfb47f6749d2328e3819c91ce78c8a9dbfd6089",
+      "source_text": "“I can’t help it.”",
+      "draft_text": "“There’s no other choice.”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 26; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        28
+      ]
+    },
+    {
+      "paragraph": 27,
+      "source_text_sha256": "ed8f4d0c33ea5143a889f6375aa60b58cb84b99f116e5d7db9b362f594f6681c",
+      "draft_text_sha256": "f1110a1247cc7b90b0f5721871e960b539784798a9978d4560aaebc993d18ae7",
+      "source_text": "Vikir decided to flip all of his hidden paddles.",
+      "draft_text": "Vikir decided to reveal every card he had been keeping hidden.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 27; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        29
+      ]
+    },
+    {
+      "paragraph": 28,
+      "source_text_sha256": "61f9555eb9e43509abbb91520e7896dc2b4aff8700f849d75800f244112f74b9",
+      "draft_text_sha256": "cbb5d1947959d594f892406c8e3e2000c92691f325d833a6838b8ff154cff4a8",
+      "source_text": "There is no room to hide his pre-return skills.",
+      "draft_text": "There was no longer any room to conceal the skills he had possessed before his regression.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 28; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        30
+      ]
+    },
+    {
+      "paragraph": 29,
+      "source_text_sha256": "c8e9dbd8673b6deb17bb9a0f43cf080a2457aa2c3dc292d77ece9cadcb569f64",
+      "draft_text_sha256": "b26b78236005092ae78ea56ae99e85a7a611c0b0e120d43809a65449e2f22324",
+      "source_text": "Fortunately, I had crossed the border quite a bit, so I didn’t feel any stares around me.",
+      "draft_text": "Fortunately, he had crossed well beyond the boundary, and he could sense no one watching nearby.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 29; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        31
+      ]
+    },
+    {
+      "paragraph": 30,
+      "source_text_sha256": "7f846723075df7838929204cc2a7cbb901e84e3c0a7b407e411d82287afde379",
+      "draft_text_sha256": "05abf6eca4633135dd08aab69e2fe44b2bf44543977a35565d211ce125753cf7",
+      "source_text": "He doesn’t even have Young Do Dog Guardian Knights, so he doesn’t even have to fight while hiding his skills.",
+      "draft_text": "There were no Guide Hound Guardian Knights here, so he did not need to hide his strength while fighting.",
+      "changed": true,
+      "rationale": "Use Guide Hound Guardian Knights consistently and clarify why Vikir may reveal his strength.",
+      "open_issues": [],
+      "korean_lines": [
+        32
+      ]
+    },
+    {
+      "paragraph": 31,
+      "source_text_sha256": "0895bd4140ee42b894cec08d2ad2cc126eb78955b50cb47d16233779fd2a99b3",
+      "draft_text_sha256": "4dce81196092dbfae33ee316e0a1211ebf559a7767a4a8300a8415ab088a9243",
+      "source_text": "…Flash!",
+      "draft_text": "Flash!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 31; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        33
+      ]
+    },
+    {
+      "paragraph": 32,
+      "source_text_sha256": "a2e1cf0aa4a6074827ce04540b8d12dc774387a33a6e461ef684e62c74aa8456",
+      "draft_text_sha256": "d5029222a0db42b7c718a73950865a493c7db2676a876f7b53da8e8de7cf004e",
+      "source_text": "Vikir took out his shortsword and blew mana into it.",
+      "draft_text": "Vikir drew his shortsword and channeled mana into it.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 32; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        34
+      ]
+    },
+    {
+      "paragraph": 33,
+      "source_text_sha256": "830600c2ea6078e2263da8629ccc90f401440c4955cbaa34dc56bb7604843c1e",
+      "draft_text_sha256": "bad04a53933bf9b5d576ad2c85b7833e9d568ac8c4fee52169f81e6dc0dcaf7d",
+      "source_text": "At the tip of his sword, a gaseous aura that can only be created by those who have reached the advanced level of Sword Expert overflows.",
+      "draft_text": "A dense gaseous aura welled from the tip—the hallmark of an Advanced Sword Expert.",
+      "changed": true,
+      "rationale": "State gaseous aura as the hallmark of an Advanced Sword Expert.",
+      "open_issues": [],
+      "korean_lines": [
+        35
+      ]
+    },
+    {
+      "paragraph": 34,
+      "source_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "draft_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "source_text": " ",
+      "draft_text": " ",
+      "changed": true,
+      "rationale": "Recovered XHTML NBSP spacer before the sword/mage rank comparison window; retain provenance but suppress reader-facing blank output.",
+      "open_issues": [],
+      "suppressed": true,
+      "korean_lines": [
+        36
+      ]
+    },
+    {
+      "paragraph": 35,
+      "source_text_sha256": "1d8b74d865ecd5f12ba561ace9d5d01e280a59f56c3384e74caad37cc2c90557",
+      "draft_text_sha256": "08ef943074e8b842a4a8e0720f18ee72d6838789911b10279d43b1ee0b17dfab",
+      "source_text": "Low Expert = Wizard Circle 1",
+      "draft_text": "Low Sword Expert = 1st-Circle Mage",
+      "changed": true,
+      "rationale": "Normalize the sword/mage equivalence window starting with Low Sword Expert.",
+      "open_issues": [],
+      "korean_lines": [
+        36
+      ]
+    },
+    {
+      "paragraph": 36,
+      "source_text_sha256": "c2b034a152c13a759e2cbdbc7f6ae6cb8d30b779ea73ca917a48cd401dc42117",
+      "draft_text_sha256": "1c7f07ac216734306ea3b09934515bca4d46a87085e5fb05d538eebb61f7830e",
+      "source_text": "Expert Intermediate = Wizard 2nd Circle",
+      "draft_text": "Intermediate Sword Expert = 2nd-Circle Mage",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 36; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        37
+      ]
+    },
+    {
+      "paragraph": 37,
+      "source_text_sha256": "90b92e87cb725e9da4be9913abe07d38ad8026e2625308fb70fd750d30d68964",
+      "draft_text_sha256": "9956c692e7933af09784a96d0ab54b6c125ad660b3e47b0b85f8c7be42209d17",
+      "source_text": "Advanced Expert = Mage 3rd Circle",
+      "draft_text": "Advanced Sword Expert = 3rd-Circle Mage",
+      "changed": true,
+      "rationale": "Use Advanced Sword Expert consistently with the accepted Chapter 4 rank terminology.",
+      "open_issues": [],
+      "korean_lines": [
+        38
+      ]
+    },
+    {
+      "paragraph": 38,
+      "source_text_sha256": "cfe0bc18a740b7cc794d05c30e77b82013f0df7196b38164f55254f428972bf8",
+      "draft_text_sha256": "d0d13d9009437707db7f1025bebad05e8d284e9d6588e46e188e91dac11cb4fd",
+      "source_text": "Lower Grader = Wizard 4th Circle",
+      "draft_text": "Low Sword Graduator = 4th-Circle Mage",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 38; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        39
+      ]
+    },
+    {
+      "paragraph": 39,
+      "source_text_sha256": "52500ba338bc3b21a559cd75d70e71ebef0a3d0c17170ce1e66f4fc5df4df9a4",
+      "draft_text_sha256": "59c24d0073d4325da0f3eea9e5d59cbba5cab08ffe80e900f5c21c08c14ee0dc",
+      "source_text": "Graduate Intermediate = Wizard 5th Circle",
+      "draft_text": "Intermediate Sword Graduator = 5th-Circle Mage",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 39; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        40
+      ]
+    },
+    {
+      "paragraph": 40,
+      "source_text_sha256": "6e25ea19422067e2939afa047c0ed22c00957d85d27b1b3d61820356852bf6d7",
+      "draft_text_sha256": "0de359ffb2ef61093587f5834f96023787732bb6d2801dc7e496b0bec0e4bc38",
+      "source_text": "Advanced Graduate = Wizard Circle 6",
+      "draft_text": "Advanced Sword Graduator = 6th-Circle Mage",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 40; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        41
+      ]
+    },
+    {
+      "paragraph": 41,
+      "source_text_sha256": "857fbb88e5603751808562edaeb428e650761992814c962a1cfd51535eeb94b6",
+      "draft_text_sha256": "784f3fab93786fede0ec38813d762acc9e972fff04bd53e28e37b335b4a8aff3",
+      "source_text": "Sword Master = Wizard 7th Circle",
+      "draft_text": "Sword Master = 7th-Circle Mage",
+      "changed": true,
+      "rationale": "Retain Sword Master = 7th-Circle Mage as the final comparison row.",
+      "open_issues": [],
+      "korean_lines": [
+        42
+      ]
+    },
+    {
+      "paragraph": 42,
+      "source_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "draft_text_sha256": "abfbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365",
+      "source_text": " ",
+      "draft_text": " ",
+      "changed": true,
+      "rationale": "Recovered XHTML NBSP spacer after the sword/mage rank comparison window; retain provenance but suppress reader-facing blank output.",
+      "open_issues": [],
+      "suppressed": true,
+      "korean_lines": [
+        42
+      ]
+    },
+    {
+      "paragraph": 43,
+      "source_text_sha256": "3ced85039d31128b238ed48097a0bf5cd8c6b58ad7e6c57dc14901082eef994e",
+      "draft_text_sha256": "836262e4484328ea824a252855cb0d82df817d2ea27960d7e17bb028d323a703",
+      "source_text": "This is the general martial law formula.",
+      "draft_text": "This was the general equivalence used between swordsmanship and magical ranks.",
+      "changed": true,
+      "rationale": "Repair the MTL's 'martial law' error into a rank-equivalence statement.",
+      "open_issues": [],
+      "korean_lines": [
+        43
+      ]
+    },
+    {
+      "paragraph": 44,
+      "source_text_sha256": "5d4d47540a7691d30810a035eb981681a44912a3e8bf0142961e00b8907e62f1",
+      "draft_text_sha256": "7c0b52637ed6d33c5834937dae10fba87aef27379c07a44b5ffdb8d3a6689df6",
+      "source_text": "What burns at the tip of 8-year-old Vikir’s sword is a dense gaseous aura that seems to turn into liquid at any moment.",
+      "draft_text": "At the tip of eight-year-old Vikir’s sword burned a dense gaseous aura that looked ready to condense into liquid at any moment.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 44; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        44
+      ]
+    },
+    {
+      "paragraph": 45,
+      "source_text_sha256": "95d55106d5753b26911450530a0aead566d751a881a0c340336d7f1ce742f6c0",
+      "draft_text_sha256": "442a856c22270b418ddc3d89e6131ff71071ba02730d5e189753322e322f2ab8",
+      "source_text": "It symbolizes an expert advanced level, and it is a skill that corresponds to a whopping 3rd class in terms of magicians.",
+      "draft_text": "It signified the Advanced Sword Expert level, roughly equivalent to a 3rd-Circle Mage.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 45; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        45
+      ]
+    },
+    {
+      "paragraph": 46,
+      "source_text_sha256": "43c6d61e0022cc5dd4051f577fa773fff0326762455c31785341ff4815d5767a",
+      "draft_text_sha256": "48a108519c95e819a739e2c34d038708f82769aeb4bb4e557994e25cb5a802af",
+      "source_text": "Before he returned, he was about 20 years old.",
+      "draft_text": "In his previous life, Vikir had not reached this stage until around age twenty.",
+      "changed": true,
+      "rationale": "Clarify that Vikir did not reach this stage in his prior life until around age twenty.",
+      "open_issues": [],
+      "korean_lines": [
+        46
+      ]
+    },
+    {
+      "paragraph": 47,
+      "source_text_sha256": "09894808d61ecde0d1b3f5f796f018ce27e26fb8c4a96f1731d8dc0eb432c3fa",
+      "draft_text_sha256": "70d149b8cd5efbb1c6616286db36aa84f66069d5efcfab07d3fe24dedd61c2fb",
+      "source_text": "Vikir raised his mana and quickly moved his hand.",
+      "draft_text": "Vikir drew up his mana and moved his hand swiftly.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 47; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        47
+      ]
+    },
+    {
+      "paragraph": 48,
+      "source_text_sha256": "98c85be1081e043ff0593c285fe7e712c820a856cc481126b53c6ee8e5e2f842",
+      "draft_text_sha256": "58fe5be434d955c1d527084df251a854eb731f0feb7854082e37786589be64ce",
+      "source_text": "The shortsword moves while drawing strange scars in the air.",
+      "draft_text": "The shortsword carved strange trajectories through the air.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 48; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        48
+      ]
+    },
+    {
+      "paragraph": 49,
+      "source_text_sha256": "638643f95d836ef60a5173bc6075130e1a4d4c5d7943a3cb7f8b3bf38cd7ef55",
+      "draft_text_sha256": "030cdcd32e56ddaceb9ee639f884ab1fd4558fb849d8efd8da7e5f3b62adab92",
+      "source_text": "A trajectory shaped like a sharp tooth, it looked as if three teeth had been summoned in the air.",
+      "draft_text": "Sharp, fang-shaped arcs appeared as though three teeth had been summoned into the air.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 49; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        49
+      ]
+    },
+    {
+      "paragraph": 50,
+      "source_text_sha256": "4ecabfbba4bb298987d9ae7434c519d88dc9ddbc191b635ef45fa41c86bbc61a",
+      "draft_text_sha256": "c86e59d0af6ec80ad961c01aedf4daec6be323a927ae7316077138f467c4ecc8",
+      "source_text": "Baskerville Type 3. A swordsmanship in which three teeth are drawn with a sword and driven into the opponent’s neck.",
+      "draft_text": "Baskerville Style, Third Form: a sword technique that draws three fangs and drives them into the opponent’s neck.",
+      "changed": true,
+      "rationale": "Normalize Baskerville Style, Third Form and the three-fang description.",
+      "open_issues": [],
+      "korean_lines": [
+        50
+      ]
+    },
+    {
+      "paragraph": 51,
+      "source_text_sha256": "4864016daaa8112d9db5088dff86f8594bdbdbf83de267f0d3b573e5bba2ef60",
+      "draft_text_sha256": "ca7f437396fd9f242f8f045bea54b76df416772f434eb245c07d530dae75d558",
+      "source_text": "Vikir in his previous life had mastered this Baskerville formula up to the 4th formula, and was originally able to create four teeth.",
+      "draft_text": "In his previous life, Vikir had mastered the Baskerville Style through the Fourth Form and could produce four fangs.",
+      "changed": true,
+      "rationale": "Restore prior mastery through the Fourth Form and four fangs.",
+      "open_issues": [],
+      "korean_lines": [
+        51
+      ]
+    },
+    {
+      "paragraph": 52,
+      "source_text_sha256": "6561202b1d2346e647fb0f504176e987ae4ed14a297d5329847bec6dc4ec937a",
+      "draft_text_sha256": "4ec07834da5a4efad882cd2cccad3f040475f01c8884ac7ce49b0315cbb872fb",
+      "source_text": "On top of that, he had even the mana and aura of a high-level Duator, so if you compare then and now, the level is shabby.",
+      "draft_text": "Back then, he had also possessed the mana and aura of an Advanced Sword Graduator, so his present level was still far below his former peak.",
+      "changed": true,
+      "rationale": "Restore the prior-life Advanced Sword Graduator comparison rather than the corrupted 'Duator'.",
+      "open_issues": [],
+      "korean_lines": [
+        52
+      ]
+    },
+    {
+      "paragraph": 53,
+      "source_text_sha256": "51d8f549e030e19c42cf06c88c278d1f5a252144eb42a4a2c98d419af41bc70d",
+      "draft_text_sha256": "ceab4e1448cf9621e58ab9630ee65cd03fe09756053b1e41b88284a36927487f",
+      "source_text": "But Vikir has another weapon.",
+      "draft_text": "But Vikir possessed other weapons now.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 53; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        53
+      ]
+    },
+    {
+      "paragraph": 54,
+      "source_text_sha256": "a00bc2849a88c46e36e61da122e3af2933ab8c610106b6f902071e868b307fb4",
+      "draft_text_sha256": "b686f80fdd306b86cbd57768f6d29612fb2fb35cd6d3981822a56f3e64fd2f95",
+      "source_text": "His small body and quick mobility, as well as his body hardened by the blessing of the River Styx, are just that.",
+      "draft_text": "His small body and quick mobility, together with a body hardened by the blessing of the River Styx, gave him advantages his former self had not possessed.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 54; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        54
+      ]
+    },
+    {
+      "paragraph": 55,
+      "source_text_sha256": "73685af5ad2051336e761c3584aac977d22032249b0057c8786b3e81a1d341c8",
+      "draft_text_sha256": "20a630cd7474361efce9c5694434c68b12cd2d719e1d13fe929c63c2aa04ae1f",
+      "source_text": "The pros are clear and the cons are clear.",
+      "draft_text": "His strengths and weaknesses were both clear.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 55; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        55
+      ]
+    },
+    {
+      "paragraph": 56,
+      "source_text_sha256": "20d4068229d13f06b851d481b1d3d4993af972aecce5a630bd50dd7334cc1cbe",
+      "draft_text_sha256": "c24bdba6ee9720a2163056ec5f4166a8f557470de025a4b410c8f82d5cfcd390",
+      "source_text": "Vikir swung his sword and created three teeth.",
+      "draft_text": "Vikir swung his sword and formed three fangs.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 56; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        56
+      ]
+    },
+    {
+      "paragraph": 57,
+      "source_text_sha256": "bf91a0817e7febd59771138033ee87ecac8e99efa98c6fce3ae48a97b194a85d",
+      "draft_text_sha256": "b9ba819e1055960641d1cae6520c4b283187ae8fe26bc3bbbd1d6a62723b269c",
+      "source_text": "The child’s hands and arms were small and short, so he couldn’t create the ‘fourth tooth’, which was an organ in his previous life, but nevertheless, the gaseous aura and three teeth clearly extending from the tip of his sword were able to block Cerberus’ claws well.",
+      "draft_text": "His child-sized hands and arms were too short to form the fourth fang he had wielded in his previous life, but the gaseous aura and three clear fangs extending from his blade were still enough to block Cerberus’s claws.",
+      "changed": true,
+      "rationale": "Remove the MTL's nonsense 'organ' insertion while preserving the missing fourth fang due to a child's reach.",
+      "open_issues": [],
+      "korean_lines": [
+        57
+      ]
+    },
+    {
+      "paragraph": 58,
+      "source_text_sha256": "680c7fa198f1362eb40f2aaa80bfa59397c306f60e653f1246f99863fce246c1",
+      "draft_text_sha256": "5d9481b3a4ee02549663456689a980fe632e5343e990df797bde7884dddef72d",
+      "source_text": "“……?”",
+      "draft_text": "“…?”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 58; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        58
+      ]
+    },
+    {
+      "paragraph": 59,
+      "source_text_sha256": "6910dfec9817e2f27f5411917e265e7b4f5157029c287c42591125f4b0701394",
+      "draft_text_sha256": "d41f8d52b6027d93585aa7eef528edd0554bee4d8ff71d96dcb8d2f5e9ff7423",
+      "source_text": "Vikir felt something strange.",
+      "draft_text": "Vikir sensed that something was wrong.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 59; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        59
+      ]
+    },
+    {
+      "paragraph": 60,
+      "source_text_sha256": "2974a10e82cc58b3c855ac5e9d21d2a0278449fb6442b167b1339a3dbc741fb8",
+      "draft_text_sha256": "ff0cab72d7ba2f77147edf41f972314a1eab90c0f0d7d96e1eed260bfcd35f0e",
+      "source_text": "It is Cerberus that was too daunting even with the strength before the return, but is it possible to be an opponent with the body of an infant who is far behind the inaction at that time?",
+      "draft_text": "Cerberus had been a terrifying opponent even at his old strength. How could he contend with one now in a child’s body far weaker than his former self?",
+      "changed": true,
+      "rationale": "Make the apparent mismatch explicit: current-child Vikir should not normally contend with Cerberus at his former difficulty.",
+      "open_issues": [],
+      "korean_lines": [
+        60
+      ]
+    },
+    {
+      "paragraph": 61,
+      "source_text_sha256": "a8a3a096ba4282e24cf162a944802448721fe08e5fa7b69ff82e9e175fc3f14b",
+      "draft_text_sha256": "d7fe9e351dd0b1efac2658004956a7daa5d8b4ff0f32f32b15b76599284038b0",
+      "source_text": "This means that something is wrong on the Cerberus side as well.",
+      "draft_text": "That meant something was wrong with Cerberus as well.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 61; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        61
+      ]
+    },
+    {
+      "paragraph": 62,
+      "source_text_sha256": "f3c093c166d451bbdbe09c96841e9991d4e39241aa4f8c0b33551c37b0dbf6b7",
+      "draft_text_sha256": "895a18b0f3755a9de284204b0cc8237bb4e778d2eb979f933ac4baac60fd2f9f",
+      "source_text": "Indeed.",
+      "draft_text": "Just as he suspected—",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 62; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        62
+      ]
+    },
+    {
+      "paragraph": 63,
+      "source_text_sha256": "270bc34893f5a8f8f15a02cfa37c5bdcc4be076baa9bd1010a587059b974017a",
+      "draft_text_sha256": "b171907336e9b6b25c58703eca0afd6f2a4a1ebb68da885bef6408b90fff1d70",
+      "source_text": "“……!”",
+      "draft_text": "“…!”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 63; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        63
+      ]
+    },
+    {
+      "paragraph": 64,
+      "source_text_sha256": "b584e0784cdeb59844cf12c5de1b41618315b68412a08453b98aca0982487be2",
+      "draft_text_sha256": "be74aa571622a0e4b17f0bd1c6995e43e71b0a790fad79e091ec9c12a72f411e",
+      "source_text": "Vikir’s keen eye caught something.",
+      "draft_text": "Vikir’s keen eyes caught something.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 64; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        64
+      ]
+    },
+    {
+      "paragraph": 65,
+      "source_text_sha256": "630f0ea395c19ea22118d1b2410f920a78079ab1b649d872c27123122de8c4d4",
+      "draft_text_sha256": "f7f425a897ad00ca47ab63156ea1562df685a6d6bcaea98124215033c9181228",
+      "source_text": "If you look closely at the inside of Cerberus’ side, you can see a dent.",
+      "draft_text": "One side of Cerberus’s rib cage was visibly caved in.",
+      "changed": true,
+      "rationale": "Restore the caved-in rib area as evidence Cerberus is already injured.",
+      "open_issues": [],
+      "korean_lines": [
+        65
+      ]
+    },
+    {
+      "paragraph": 66,
+      "source_text_sha256": "b21a48609f6877cd7d2f77cb488edf963bf346c0a465b035dc2c6a96bb067ec0",
+      "draft_text_sha256": "370a71d07e3cfd9774bce7c83a61767a258b15bce131c3b2690ead4f5efc82da",
+      "source_text": "His movements were a little unnatural, so it was clear that he had several broken ribs.",
+      "draft_text": "Its movement was slightly unnatural; several ribs were clearly broken.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 66; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        66
+      ]
+    },
+    {
+      "paragraph": 67,
+      "source_text_sha256": "7d47cf2c32a3bf44bbe2a9a7ca405a3f0422047df1695d3a411e675007d312d0",
+      "draft_text_sha256": "9370203d92b7a58a6e878e38d9ad7860b246cd8c6b7e95779ddb140ee29edbb7",
+      "source_text": "Even in the area where the fur was torn off, clear arrowhead marks were engraved.",
+      "draft_text": "Clear arrow wounds also marked the places where its fur had been torn away.",
+      "changed": true,
+      "rationale": "Preserve arrow wounds as the clue to outside attackers.",
+      "open_issues": [],
+      "korean_lines": [
+        67
+      ]
+    },
+    {
+      "paragraph": 68,
+      "source_text_sha256": "2aa3dfa00765c8108156f2b97cd78c966db1f97aa565b8f35b35778e3777b594",
+      "draft_text_sha256": "ad55ce8a834ee0331562b40c5378153c88552052116fe02e31bf1abf02188645",
+      "source_text": "“Who caught it?”",
+      "draft_text": "“Who did this to it?”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 68; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        68
+      ]
+    },
+    {
+      "paragraph": 69,
+      "source_text_sha256": "20a79f343ad69fddce866632a086ea75ed3ff7ad74544228e64e69ef457ac8ff",
+      "draft_text_sha256": "594ff9aeb55efb5ba99ffbe29bf09b1c735ece94b1aedc26a97582618c87637b",
+      "source_text": "Vikir laughed incredulously.",
+      "draft_text": "Vikir let out an incredulous laugh.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 69; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        69
+      ]
+    },
+    {
+      "paragraph": 70,
+      "source_text_sha256": "5a4a309deaf02f2237b6e0d6ffb7c8f835fb4dacc98bfdf050a7a1fea0caf480",
+      "draft_text_sha256": "67592ae73d47cdce3add2a54ae5763b67de2c57f61f7bf1f5bc7facbbd725725",
+      "source_text": "Come to think of it, barbarians live on the other side of Le Rouge Et Le Noir Mountain.",
+      "draft_text": "Then he remembered the barbarian tribes living beyond Le Rouge et Le Noir Mountain.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 70; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        70
+      ]
+    },
+    {
+      "paragraph": 71,
+      "source_text_sha256": "e230493c29dfd629d0407f0aeefd641098a78633e26b68f084afbb863eba7c10",
+      "draft_text_sha256": "98cc424078beaa9390ab5bb79f1d3f939900739f8b9a8c8f491b9a1ddc5ea801",
+      "source_text": "In the meantime, the barbaric tribes that the iron-blooded swordsman Baskerville and the prestigious mage have been harassing Morgue.",
+      "draft_text": "Those tribes had long clashed with both the iron-blooded Baskerville Family and the prestigious mage family Morgue.",
+      "changed": true,
+      "rationale": "Clarify long-standing conflict between mountain tribes and both Baskerville/Morgue rather than reversing actor roles.",
+      "open_issues": [],
+      "korean_lines": [
+        71
+      ]
+    },
+    {
+      "paragraph": 72,
+      "source_text_sha256": "0a187a644cdff2ac1b2ca9b6be5960e136f438855b90b7b2c92df2f4ea5c45d0",
+      "draft_text_sha256": "73409388671fc0219a74ed8d997a6e36d2cc5bf8a1b5bc12f53eb47100e10b4d",
+      "source_text": "If he was driven to this place by the backslidings of barbarians, it seems that Cerberus’ situation is not very good.",
+      "draft_text": "If the barbarians had driven Cerberus down here, then the monster was already in poor condition.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 72; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        72
+      ]
+    },
+    {
+      "paragraph": 73,
+      "source_text_sha256": "2d73e6992719aac580471eda53620994f4755442ecc58000210095ac4dcc72d0",
+      "draft_text_sha256": "81d88fb5898867a81e4f4eb83940ad8e278d2e24dc4c3fbe2a55cfca74178026",
+      "source_text": "Earth! Daang! Kang!",
+      "draft_text": "Clang! Crash! Bang!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 73; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        73
+      ]
+    },
+    {
+      "paragraph": 74,
+      "source_text_sha256": "91873ebbb1c0b5873a405c00aed078fc3a10a2f8f000ebd51a6cbbff8f8f0d4d",
+      "draft_text_sha256": "869db2ae88c052e18a442763536fd97f413f3b962ddee19e5623b966190969d4",
+      "source_text": "Vikir gathered the aura that was scattered like a gas and continued to block Cerberus’ claws and teeth.",
+      "draft_text": "Vikir repeatedly gathered his dispersing gaseous aura to block Cerberus’s claws and teeth.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 74; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        74
+      ]
+    },
+    {
+      "paragraph": 75,
+      "source_text_sha256": "1dae98c391350a968c2b348cdd3204ef6de9f1981536ec62bff2939886f4f44c",
+      "draft_text_sha256": "a0cbadc52907938d7defa788d1f1b95b287b5cd88e1588fab069a771752ecae7",
+      "source_text": "Every time the sword and teeth clashed, there was a sound of iron and bronze clashing, and sparks flew.",
+      "draft_text": "Every collision between blade and fang rang like metal striking bronze and sent sparks flying.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 75; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        75
+      ]
+    },
+    {
+      "paragraph": 76,
+      "source_text_sha256": "3d10a20d130ec6c4a7f3b4eb97e0939fa148662ef38902aafc1043fcb890ff6f",
+      "draft_text_sha256": "72e166161436d9f1a149a6b3e78c3990469f72a36c4fff85bf337b7ff113ea17",
+      "source_text": "[Kreureung! Kong! Damn!]",
+      "draft_text": "[Grrr! Bark! Grrr!]",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 76; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        76
+      ]
+    },
+    {
+      "paragraph": 77,
+      "source_text_sha256": "a0f3ea43e2e7d98b5e8845fe46d4589e0bc91b4827329e02de58151707fa3d28",
+      "draft_text_sha256": "c745b19d2dfa8ce2279ab6971080f8eeb7b293ac60a238ed0848047376819bd9",
+      "source_text": "Cerberus tries to bite Vikir by moving his three heads, but fails every time.",
+      "draft_text": "Cerberus attacked with all three heads, trying to bite Vikir, but each attempt failed.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 77; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        77
+      ]
+    },
+    {
+      "paragraph": 78,
+      "source_text_sha256": "ab6363ca437b2809b61ed2afcab24f7d90c42b446d6317b9915292c308a7a1a4",
+      "draft_text_sha256": "14987419a1803e42fc85d3af5dac2c7e11c803ad782a5f0f22dc83d344e20bdb",
+      "source_text": "“I’m kind of used to fighting triplets.”",
+      "draft_text": "“I’ve had plenty of practice dealing with triplets.”",
+      "changed": true,
+      "rationale": "Carry the Highbro/Middlebro/Lowbro continuity into Vikir's familiarity with three-headed attack patterns.",
+      "open_issues": [],
+      "korean_lines": [
+        78
+      ]
+    },
+    {
+      "paragraph": 79,
+      "source_text_sha256": "b798c0a0c3eb9a97995644d81b72a2a007629f98574eb99db7b2b389b0dc9a83",
+      "draft_text_sha256": "4251e55d467e50e444197006807933ed4b85d9c3290a92b73176d4682d005300",
+      "source_text": "Not that it isn’t It is true that the three twins Highbro, Middlebro, and Lowbro’s swordsmanship and trident tactics were inspired by Cerberus’ fighting style.",
+      "draft_text": "Indeed, the swordsmanship and trident tactics of Highbro, Middlebro, and Lowbro had been inspired by Cerberus’s three-headed fighting style.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 79; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        79
+      ]
+    },
+    {
+      "paragraph": 80,
+      "source_text_sha256": "7fc48c20064d769aa38fb2ee86e41b9232f27f08600de7a533a1b00ddf3085e5",
+      "draft_text_sha256": "24f10a2b95c289de422472389737f6fcec48210c044f83f1d78b667ac525f406",
+      "source_text": "I’m used to it because I was terribly bullied by the triplets during numerous performance evaluations in my previous life.",
+      "draft_text": "Vikir had been tormented by those three through countless practical evaluations in his previous life, so their coordination was painfully familiar.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 80; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        80
+      ]
+    },
+    {
+      "paragraph": 81,
+      "source_text_sha256": "64e73508964be63992fe1e4109db890b96374176cfb3cad5c324790f99ce27a7",
+      "draft_text_sha256": "3fb1d7b3e2e2082532270901eb728629004503829eba22dda0cecd023ffbba04",
+      "source_text": "Most of the numerous anomalous patterns were familiar.",
+      "draft_text": "He remembered most of their countless variations as well.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 81; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        81
+      ]
+    },
+    {
+      "paragraph": 82,
+      "source_text_sha256": "dadc33848661adb4eea2647bddbb5e765798ae9ea878a42c352c84c7aee4d2a0",
+      "draft_text_sha256": "bb84c8e5c4037d3549aad36b03ef430b1cb49d8dfe1bf22c1df287e4444416ac",
+      "source_text": "The triplets in the previous life were skilled and smart, so they learned Cerberus’ attack patterns as if they were born with them, and Vikir is reminiscing about those days and dealing with Cerberus.",
+      "draft_text": "The triplets of his previous life had been skilled and clever enough to reproduce Cerberus’s attack patterns almost instinctively. Drawing on those memories, Vikir faced the real thing.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 82; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        82
+      ]
+    },
+    {
+      "paragraph": 83,
+      "source_text_sha256": "fcdb75a9d574e82fd542c31dfa783855c4b46597fcbf8c6a30bd3bc07078fb2b",
+      "draft_text_sha256": "b019d8046d7cdf45ddfa70483f4aa8b3877716ab56f854354c6d05107f0f4229",
+      "source_text": "Booung!",
+      "draft_text": "Whoosh!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 83; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        83
+      ]
+    },
+    {
+      "paragraph": 84,
+      "source_text_sha256": "bf578a02f01f8a28886dd1197483e1b3e709c74503a0a2ba51448cc54c70f8cb",
+      "draft_text_sha256": "295c7a371674d5bf82ecce35feb404194627a0439f23abd5ccb2fd7760cf20f1",
+      "source_text": "Baskerville Type 1, sharp teeth bounce off Cerberus’ teeth.",
+      "draft_text": "Baskerville Style, First Form—the first fang knocked Cerberus’s bite aside.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 84; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        84
+      ]
+    },
+    {
+      "paragraph": 85,
+      "source_text_sha256": "89d2ffcd347ce2eee3cc572e3dc10834b7c196ec408883b5319c1a02a7dab07b",
+      "draft_text_sha256": "9c5d682055ca469676863aae6256b97c58dc5e65976f8d02b8c4627b69f4067b",
+      "source_text": "Kang!",
+      "draft_text": "Clang!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 85; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        85
+      ]
+    },
+    {
+      "paragraph": 86,
+      "source_text_sha256": "a8432f3d5c76ca00f972d1268a5dab785574decbad9d6ea37546f16bf164b073",
+      "draft_text_sha256": "bab7286cab08842870222a0cb87d85a226406f15e14648e60cef9801f8b15c81",
+      "source_text": "Baskerville Type 2, second tooth half lodged in Cerberus’ neck.",
+      "draft_text": "Baskerville Style, Second Form—the second fang drove halfway into Cerberus’s neck.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 86; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        86
+      ]
+    },
+    {
+      "paragraph": 87,
+      "source_text_sha256": "459c60dd12c1bf3001020213d6a02c218f8ba04077458a373452a8fcd736f8c3",
+      "draft_text_sha256": "4fefa002587f4ca772b914fc46f194da60d4f12a295c589183574b0439f42483",
+      "source_text": "…Fu-wook!",
+      "draft_text": "Thrust!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 87; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        87
+      ]
+    },
+    {
+      "paragraph": 88,
+      "source_text_sha256": "50b0025102f508cfe23eb1d4b0b59afa6e0dd4f9672dfe8bf33339b11e8c3f0a",
+      "draft_text_sha256": "8474f988b61280e167fecf90abc817fe8649d53fe4a013c0c24a5234cfa7f8dc",
+      "source_text": "Baskerville Type 3, the third tooth strikes the second, driving it even deeper into Cerberus’ neck.",
+      "draft_text": "Baskerville Style, Third Form—the third fang struck the second and drove it even deeper into Cerberus’s neck.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 88; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        88
+      ]
+    },
+    {
+      "paragraph": 89,
+      "source_text_sha256": "7eca2197f908bfd3d1f18bffb9210cdf708e05f1bc226771e86f6bc76d8be3f2",
+      "draft_text_sha256": "c6068aa28787d6a548b8d3af5b2c29ae091e3c6b8de7d202c14edf0fb7b444be",
+      "source_text": "Vikir’s Baskerville ceremony was clearly similar to the normal Baskerville ceremony, but was subtly different.",
+      "draft_text": "Vikir’s Baskerville Style resembled the orthodox family swordsmanship, yet it was subtly different.",
+      "changed": true,
+      "rationale": "Explain that Vikir's post-destruction Baskerville Style is subtly different from the orthodox form.",
+      "open_issues": [],
+      "korean_lines": [
+        89
+      ]
+    },
+    {
+      "paragraph": 90,
+      "source_text_sha256": "6da14f652372233a627211ea64075dfbe585a5eee9ce24303cbee9fda85d5a92",
+      "draft_text_sha256": "15ce20c51fac8fd2f551119700c140d14b1a2bcf99785d7188aace0b2238879c",
+      "source_text": "The swordsmen who have passed through the age of destruction have something that the swordsmen of the previous era cannot copy.",
+      "draft_text": "Those who had survived the Age of Destruction possessed something swordsmen of the peaceful era could not imitate.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 90; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        90
+      ]
+    },
+    {
+      "paragraph": 91,
+      "source_text_sha256": "466c02eedaba94a903949ae68614f1a62007e97b02c2308593c268288a4d3ca5",
+      "draft_text_sha256": "b0ee97647b2b1c8dd3b2182af7548929ae84f9357be256c4b8e1ba075c8b3d89",
+      "source_text": "Existing swordsmanship theories of the peaceful era were completely reinterpreted through the era of destruction, and unnecessary flab, fat, and grease were drained to the limit.",
+      "draft_text": "Traditional sword theory had been completely reinterpreted through the Age of Destruction, with every unnecessary flourish stripped away.",
+      "changed": true,
+      "rationale": "Restore the Age-of-Destruction stripping-away of unnecessary swordsmanship flourishes.",
+      "open_issues": [],
+      "korean_lines": [
+        91
+      ]
+    },
+    {
+      "paragraph": 92,
+      "source_text_sha256": "3877285cbdd375903db9dbb09025d01cb2f7aee6ad8be6183c4cd4f7737e3a55",
+      "draft_text_sha256": "aaf21faf2875cbccf8b0aa0918411eae183b21a3031c048e58be6977e18ea0ca",
+      "source_text": "A sword that only moves to kill its opponent.",
+      "draft_text": "A sword that moved only to kill its opponent.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 92; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        92
+      ]
+    },
+    {
+      "paragraph": 93,
+      "source_text_sha256": "b09b62dc1a747273b5ccf49bead9aee99b838b253a19a92b94834efa6722eb0d",
+      "draft_text_sha256": "092d8ae6a3b193ceb42864d984e7749b2601b06b7831595a3072d1cc5d0d8eaa",
+      "source_text": "Here, extreme practical experience was added.",
+      "draft_text": "Extreme practical experience was layered on top of that.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 93; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        93
+      ]
+    },
+    {
+      "paragraph": 94,
+      "source_text_sha256": "37d5cca94769fc9520547be34e252e7e1256bcb8491a5b80089b6ce9ca2bc2a5",
+      "draft_text_sha256": "95dfd623895bdd439b42a7e5eb32f6deae400f8b433b8949d1cd46f69428d284",
+      "source_text": "To put it in an analogy, the swordsmanship of the general world is like beef with good marbling, the swordsmanship of the Baskerville family is tough chicken breast, and the current swordsmanship of Vikir is like dried beef jerky.",
+      "draft_text": "If ordinary swordsmanship was well-marbled beef, Baskerville swordsmanship was dry chicken breast, and Vikir’s current swordsmanship was hard, dried jerky.",
+      "changed": true,
+      "rationale": "Preserve the beef/chicken/jerky analogy as an intentional comparison of increasingly stripped-down swordsmanship.",
+      "open_issues": [],
+      "korean_lines": [
+        94
+      ]
+    },
+    {
+      "paragraph": 95,
+      "source_text_sha256": "05194a7a8bc305fc1c356d72d324e46075a1268fd8d7b1bb0a975b5b2c37ccd3",
+      "draft_text_sha256": "48e3a21d6682e5bfe19acb5cb62659d5079863e1c4d4515b788695b69b4722fb",
+      "source_text": "The essence of the extreme, that is the intention to kill the other person.",
+      "draft_text": "At its limit, only killing intent remained.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 95; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        95
+      ]
+    },
+    {
+      "paragraph": 96,
+      "source_text_sha256": "bd4a7c4939e32a39afa5fbed39afb53058bf421ca886dd80509caad2a4fbef64",
+      "draft_text_sha256": "f4de2f528ddd23fa9d4e6b7ad8429d6b1154b7f2ca99300ca06087b1b03eb96d",
+      "source_text": "Vikir’s sword has a clear sense of purpose.",
+      "draft_text": "Vikir’s sword possessed an unmistakable purpose.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 96; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        96
+      ]
+    },
+    {
+      "paragraph": 97,
+      "source_text_sha256": "924cc15292908cc6d76a1d85bde318f1e4bb12ba4a520d3be3e74bce08aae084",
+      "draft_text_sha256": "0a4628c5ae0771b1d27ac71e2d2574dec4174f35fa0a6c5e7e0f98871fbcc657",
+      "source_text": "…Fuck!",
+      "draft_text": "Boom!",
+      "changed": true,
+      "rationale": "Repair the MTL profanity corruption; Korean supplies an impact sound, not an expletive.",
+      "open_issues": [],
+      "korean_lines": [
+        97
+      ]
+    },
+    {
+      "paragraph": 98,
+      "source_text_sha256": "a79b30f52d109aa32846cfa81b4922949424f427a8c8577d53f8ba5e1f3f02c9",
+      "draft_text_sha256": "ff850018ba7cdaf1f8b81a907173a9b4ed3d329ace7b9653b0c5cc7279e64d89",
+      "source_text": "The shortsword hit Cerberus’ side.",
+      "draft_text": "The shortsword slammed into Cerberus’s injured side.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 98; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        98
+      ]
+    },
+    {
+      "paragraph": 99,
+      "source_text_sha256": "fb7fefc423fca34af89539ab6c14bd142f56f6bb589f5dd05e2cb7b5c800ed9d",
+      "draft_text_sha256": "271bc70a1ab6cdd7f47dd88eb39a90094674f8d7bca8c278b755762760644cbc",
+      "source_text": "The gas-like aura exploded and Cerberus let out a scream.",
+      "draft_text": "The gaseous aura burst, and Cerberus screamed in pain.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 99; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        99
+      ]
+    },
+    {
+      "paragraph": 100,
+      "source_text_sha256": "304dac6303808826c2b0939dd8e29dfe3fadcc2a0bc55445a3d2368b89569672",
+      "draft_text_sha256": "5cf3859e1eb7b9faf48f6f79b298ec83f4e24b0262c34740ffa390b8141d499c",
+      "source_text": "However, Cerberus, the guard dog of hell, does not faint at this level.",
+      "draft_text": "But Cerberus was the guard dog of hell. Damage at this level was nowhere near enough to bring it down.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 100; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        100
+      ]
+    },
+    {
+      "paragraph": 101,
+      "source_text_sha256": "b9f47bfab7ceb102a76cc4ba5c37dc5080720f989dfe0a7a79b7fee993296420",
+      "draft_text_sha256": "a86b5ef3a6dcf3f38656e6b63b5ba5225a618fdb5731d0b48a8e4b791c43f8d7",
+      "source_text": "The guy stabbed his claw into the empty part just below the trajectory the shortsword had drawn.",
+      "draft_text": "It drove a claw into the opening beneath the path Vikir’s shortsword had just traced.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 101; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        101
+      ]
+    },
+    {
+      "paragraph": 102,
+      "source_text_sha256": "8004ccb33e30b279264fe5fa396efe490cd93ec59ce17c62e3d48905fb5b6976",
+      "draft_text_sha256": "9f450b8233153f29c5469399d00e31c20903d6a0d79967a22946d7ed70f04b07",
+      "source_text": "Knock!",
+      "draft_text": "Thud!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 102; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        102
+      ]
+    },
+    {
+      "paragraph": 103,
+      "source_text_sha256": "6d69ebdd2d957c4483b6cc649d60f723b96642680b226841f0b36960b0afef07",
+      "draft_text_sha256": "d1b9c1b11740041312c42ac2d6fed0969360295cfa10ece0a0799299ae892306",
+      "source_text": "Since I took the bones of my opponent, it is natural for me to sacrifice my own flesh.",
+      "draft_text": "To break the enemy’s bones, one had to be willing to sacrifice some flesh.",
+      "changed": true,
+      "rationale": "Render the bone-for-flesh exchange as a combat maxim rather than broken first-person grammar.",
+      "open_issues": [],
+      "korean_lines": [
+        103
+      ]
+    },
+    {
+      "paragraph": 104,
+      "source_text_sha256": "396290348bf65215b1c7574081d70d849101e2bc34d5d8559d0aaad4af6fd0a5",
+      "draft_text_sha256": "71d27929d2b5f0dab98ea2ab2a63afaec5a26ca0682111ecea87151c34aa8e6e",
+      "source_text": "Vikir’s back snapped.",
+      "draft_text": "Vikir’s body buckled under the impact.",
+      "changed": true,
+      "rationale": "Avoid implying Vikir's spine literally snaps; the following Korean establishes broken ribs rather than a severed back.",
+      "open_issues": [],
+      "korean_lines": [
+        104
+      ]
+    },
+    {
+      "paragraph": 105,
+      "source_text_sha256": "972908c5b799f578eecc6144d7e171187d7d9d18c72591321706860b8d7b9d07",
+      "draft_text_sha256": "44fee842ca3a9a40c9962c966eb811cb25b26f433345a7869fe9846436894be1",
+      "source_text": "But. Surprisingly, his body, which was almost pickled in the River Styx, withstood Cerberus’ claws.",
+      "draft_text": "Even so, his body—tempered by the River Styx—managed to withstand Cerberus’s claw.",
+      "changed": true,
+      "rationale": "Keep River Styx durability finite: Cerberus's claw is survived once, not rendered harmless.",
+      "open_issues": [],
+      "korean_lines": [
+        105
+      ]
+    },
+    {
+      "paragraph": 106,
+      "source_text_sha256": "300654e011e8a9e78c94f17ebe1f2c4e01d9b4991719e72df28656822ba64abc",
+      "draft_text_sha256": "5af8ab09b0e54e2e18dac68637fc2c57fcebcecc4f02c3d94c6351b1b6a534ed",
+      "source_text": "“……But twice would be impossible.”",
+      "draft_text": "“…But I doubt I could take that twice.”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 106; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        106
+      ]
+    },
+    {
+      "paragraph": 107,
+      "source_text_sha256": "ebbaf4086aa6a3410930a448297c1d14fe003ff1c2db92a8b2b4659c77547584",
+      "draft_text_sha256": "ebbaf4086aa6a3410930a448297c1d14fe003ff1c2db92a8b2b4659c77547584",
+      "source_text": "Vikir frowned.",
+      "draft_text": "Vikir frowned.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [],
+      "korean_lines": [
+        107
+      ]
+    },
+    {
+      "paragraph": 108,
+      "source_text_sha256": "9e1afbbb89ed87e775a4f2e8cbe91975aa4d3877e0c96e9363c065b2cb4454cb",
+      "draft_text_sha256": "276cb9367a4756b1e7a6f852d3e173ea5b53a75874b5aa9ff01a25bcd9539c8c",
+      "source_text": "No gut burst, but several of his ribs were definitely broken.",
+      "draft_text": "His organs had not ruptured, but several ribs were definitely broken.",
+      "changed": true,
+      "rationale": "Restore several broken ribs, directly confirming Chapter 10's resistance was not invulnerability.",
+      "open_issues": [],
+      "korean_lines": [
+        108
+      ]
+    },
+    {
+      "paragraph": 109,
+      "source_text_sha256": "082987c07c553a67a7e9569e5bd0e2c2680d0a2b24db65502d2406fc0d1e3be9",
+      "draft_text_sha256": "d66dc947130cf4100929175fb2d3a40343da548e18428ec017789ecabb7be997",
+      "source_text": "Besides, to make matters worse.",
+      "draft_text": "And to make matters worse—",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 109; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        109
+      ]
+    },
+    {
+      "paragraph": 110,
+      "source_text_sha256": "f24d46570ee14c9b1cfc0ba1dda0916e801be4b6a857d1f1c1fe08b1c50c122f",
+      "draft_text_sha256": "c2f4bd7b2009fd669db1650ce102b90be4d93422f0a06dd3de320811798cd652",
+      "source_text": "Pacan!",
+      "draft_text": "Snap!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 110; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        110
+      ]
+    },
+    {
+      "paragraph": 111,
+      "source_text_sha256": "9e1d2d468ef2d51429e4626205a34389ffc2c3fbc107a3c41577e7dec9cb530f",
+      "draft_text_sha256": "53660a86a82661f905b351a09303942548a0b7b209f4d2836dbc04d2c12c2e16",
+      "source_text": "The short sword that couldn’t withstand Vikir’s aura eventually broke.",
+      "draft_text": "The shortsword finally shattered under the strain of Vikir’s aura.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 111; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        111
+      ]
+    },
+    {
+      "paragraph": 112,
+      "source_text_sha256": "642436a60da4ce17d4573caf435c0cb696e9be399be5fab7b0314cb8655f5875",
+      "draft_text_sha256": "9bdba6ef47cf909d15e33442e90d2b6792fb8e21970d01d3e21403f75619bb88",
+      "source_text": "“This.”",
+      "draft_text": "“Damn.”",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 112; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        112
+      ]
+    },
+    {
+      "paragraph": 113,
+      "source_text_sha256": "e32a2decf76118f96a86df50057121a0615a400f0f7a19697a1368efc9655323",
+      "draft_text_sha256": "7b781d1242284216dcbaeb7b85b74c4f74f0e74728b5945948b8156a3e113c3f",
+      "source_text": "Difficulty. But a seasoned hunter always finds the best route even under these circumstances. That.",
+      "draft_text": "It hurt, but an experienced hunter always found the best route even in a situation like this.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 113; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        113
+      ]
+    },
+    {
+      "paragraph": 114,
+      "source_text_sha256": "26f7eaac5bd306aef0c66b90d2a703471ae58808e7a6ff2fe21ec770788efe91",
+      "draft_text_sha256": "7a170422cadc0ee5db941993b355c26814ebf05ef726418277d8e8fc776112ff",
+      "source_text": "“It’s a series of 36 lines.”",
+      "draft_text": "“Of the Thirty-Six Stratagems, fleeing is the best.”",
+      "changed": true,
+      "rationale": "Restore the Thirty-Six Stratagems retreat maxim from Korean.",
+      "open_issues": [],
+      "korean_lines": [
+        114
+      ]
+    },
+    {
+      "paragraph": 115,
+      "source_text_sha256": "989ffe167e75a477d3a889465ad0f30f565a432480ebeba2d6c1af6f7bb78298",
+      "draft_text_sha256": "b9ac086b444c04660a4ddf1dcaa24fbe77adc93ef5424cb42804aae91a695586",
+      "source_text": "Thirty-six strategies devised by the head of the Leviathan family, who is the most knowledgeable in the art of war among the 7 families.",
+      "draft_text": "One of the Thirty-Six Stratagems had been devised by the head of the Leviathan Family, the greatest strategist among the Seven Great Families.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 115; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        115
+      ]
+    },
+    {
+      "paragraph": 116,
+      "source_text_sha256": "82f96b9f7526829b61c0322418eea0c675493ad5377189cff1640eb58eeb129a",
+      "draft_text_sha256": "98f62bc5d90a33427343ac379ca1c854cbcf0719dc39e75a1b19c65a8b783738",
+      "source_text": "Among them, the 36th is the circumstance sangchaek (走爲上策).",
+      "draft_text": "The thirty-sixth was simple: when all else failed, retreat was the best policy.",
+      "changed": true,
+      "rationale": "Translate 走爲上策 by meaning: retreat/run away is the best policy when all else fails.",
+      "open_issues": [],
+      "korean_lines": [
+        116
+      ]
+    },
+    {
+      "paragraph": 117,
+      "source_text_sha256": "487481345a415ec583673c83f90fa2963b8a058648b4cc8babbbfdd3c300b0ea",
+      "draft_text_sha256": "dbacb32ffe3128603cd30cad3f731585998ff3994361c5a248b0199ca3c097ac",
+      "source_text": "Hodak-",
+      "draft_text": "Whoosh—",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 117; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        117
+      ]
+    },
+    {
+      "paragraph": 118,
+      "source_text_sha256": "835a3994ed188a82016ceff6229f92c114e7b57a3f9a154415b8427db11109fe",
+      "draft_text_sha256": "5d7c04399e6f2994dbc4450ff85dc6d42065029e5c0b056e984e855b929d2072",
+      "source_text": "Vikir quickly turned around and kicked the ground as hard as he could.",
+      "draft_text": "Vikir spun around and kicked off the ground with all his strength.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 118; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        118
+      ]
+    },
+    {
+      "paragraph": 119,
+      "source_text_sha256": "ff4788539c71914b3ceadde26674364ae58b79eb950bd95721220684de9d8f3f",
+      "draft_text_sha256": "a70d746848c9d50541f856856e49d925662ca9c87afd756980bdf81471534975",
+      "source_text": "Then Cerberus, who seized the victory, goes after such a Vikir.",
+      "draft_text": "Cerberus, sensing victory, immediately gave chase.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 119; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        119
+      ]
+    },
+    {
+      "paragraph": 120,
+      "source_text_sha256": "8846a681480b9b2a67ceed5d32028f0ccaa5a8c17906fb7f5a7c17970ab7dee4",
+      "draft_text_sha256": "94497c5ae3c1a51a5865e758b2bce8304ba01b770af2440bcf32bdcd9df3bbc1",
+      "source_text": "[…] Kreureung!]",
+      "draft_text": "[Grrrroar!]",
+      "changed": true,
+      "rationale": "Resolve historical audit ED-00084 by repairing malformed roar brackets.",
+      "open_issues": [],
+      "korean_lines": [
+        120
+      ]
+    },
+    {
+      "paragraph": 121,
+      "source_text_sha256": "833f581f86401e54835a443ad850775d3944146a1ec53e0967d4422d0297d80a",
+      "draft_text_sha256": "0a16efe8daf136ca8def975067c8e0f4a5856314d96119c42f96c6e1749cbb44",
+      "source_text": "Cerberus, who attacked in an instant, would have been caught right away if it hadn’t been for the huge wounds carved on his side.",
+      "draft_text": "With its speed, Cerberus would have caught him almost instantly if not for the severe wounds along its side.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 121; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        121
+      ]
+    },
+    {
+      "paragraph": 122,
+      "source_text_sha256": "13a39d5aab6ecfcaaacfa876e909449fa602c53bc127b92ccc77b9553e9112d1",
+      "draft_text_sha256": "921b9e4b7f2fe5108a669a3bbd805d2914e3752f6ced1ed196e0b748b1a59341",
+      "source_text": "Vikir escaped the floodwaters, deeply grateful to the nameless savage tribe beyond the mountains.",
+      "draft_text": "Vikir fled through the sea of trees, silently grateful to the nameless barbarian tribe beyond the mountains.",
+      "changed": true,
+      "rationale": "Repair the MTL water-disaster homonym as the sea of trees and retain gratitude to the unknown tribe.",
+      "open_issues": [],
+      "korean_lines": [
+        122
+      ]
+    },
+    {
+      "paragraph": 123,
+      "source_text_sha256": "87308b4b42f9f958fefdcff86c649f041a76842b74246789d4f25e834c24c6ec",
+      "draft_text_sha256": "988c52227b7ef36357ddc8784a3aeebd0d98caca6850d6964ff4adcb1b63faba",
+      "source_text": "Yet. You can see the boundary that Vikir has crossed.",
+      "draft_text": "Soon the boundary he had crossed earlier came into view.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 123; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        123
+      ]
+    },
+    {
+      "paragraph": 124,
+      "source_text_sha256": "6acb4f71e28a3c81c45263cfe29e77e915afcfa53dc27787dfbf1036db3c210b",
+      "draft_text_sha256": "c6b73caf4213cf93f864de86ba2d18136ac3e4c3fa3273d329fb0eb001b25b8b",
+      "source_text": "Unfortunately or fortunately, there were no guide dogs around.",
+      "draft_text": "Fortunately, there were no Guide Hounds nearby.",
+      "changed": true,
+      "rationale": "Use Guide Hounds consistently at the boundary.",
+      "open_issues": [],
+      "korean_lines": [
+        124
+      ]
+    },
+    {
+      "paragraph": 125,
+      "source_text_sha256": "8b880fc83338768b53f626a182ae8ab36214bafa9920ec81eea6cabea2db29db",
+      "draft_text_sha256": "4644bc3b6dd0023632c6c6aa2f5c9a0e1b2c3de70ae9d602329de819f3d31325",
+      "source_text": "Vikir jumped over the barbed wire marking the border and ran.",
+      "draft_text": "Vikir vaulted over the barbed wire marking the boundary and kept running.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 125; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        125
+      ]
+    },
+    {
+      "paragraph": 126,
+      "source_text_sha256": "eb4d525bfd05f44ec70015380c7aaf8044175a42b5e1ac289efcebc19784edde",
+      "draft_text_sha256": "69f42f2d9f8b948394a7fc8552472a7253d927810e73fbfffa07979df27dbdb9",
+      "source_text": "Cerberus smashed the barbed wire and stake right in front of his eyes and smashed them, then thrust three of his heads into Vikir’s back.",
+      "draft_text": "Cerberus smashed through the wire and wooden stakes, thrusting all three heads toward Vikir’s back.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 126; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        126
+      ]
+    },
+    {
+      "paragraph": 127,
+      "source_text_sha256": "53079465422365b2647459647c2c816fec6f825ce19e150ef2a2cb008f37caaf",
+      "draft_text_sha256": "2e87bee75c8844d0465326fba8ca6c3d903d6ee32d9734ca9375798eda0976b8",
+      "source_text": "[Kong! Kong! Keong!]",
+      "draft_text": "[Bark! Bark! Bark!]",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 127; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        127
+      ]
+    },
+    {
+      "paragraph": 128,
+      "source_text_sha256": "95085d425c22d0a78a41f22602dbeb4d5ff7b2a90348d6664d7b04f257de3320",
+      "draft_text_sha256": "1c3f3f29e5cff52662ec945427dca0e51565e30c6b0e1df417001e1f7aef850a",
+      "source_text": "What could be more powerful than a hound chasing its prey?",
+      "draft_text": "What could be more relentless than a hound chasing its prey?",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 128; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        128
+      ]
+    },
+    {
+      "paragraph": 129,
+      "source_text_sha256": "e778e5016e59ba7771b89f3e4a719748cf964b0a0e60e4c747e0cab5279299e2",
+      "draft_text_sha256": "3df74381fe1fce7c7edf07326bc23988a39ebc9a8f7058b42a7f9f748568fb4e",
+      "source_text": "Cerberus opens his mouth in triumph.",
+      "draft_text": "Cerberus opened its mouths in triumph.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 129; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        129
+      ]
+    },
+    {
+      "paragraph": 130,
+      "source_text_sha256": "971b291c2e50dffa61b97006d2f20a36f14dc1d1a44eaeb665782f34189b8c6b",
+      "draft_text_sha256": "4257b2bd37ac6dfa96ee509b3cc72b08bc6d962e24ef6f48380fb77ea368e230",
+      "source_text": "The distance now narrowed right in front of him. Soon. Soon you will be able to chew the flesh and bite the bones of your prey.",
+      "draft_text": "The distance vanished. In another moment it would tear into its prey’s flesh and crush his bones.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 130; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        130
+      ]
+    },
+    {
+      "paragraph": 131,
+      "source_text_sha256": "13af0becdb868265693f6725e99dc1632b20ef5dd00b8dc82497c0744f6500e9",
+      "draft_text_sha256": "1cf4da68884901a4d2b6d913d28611276bb1e4f8b862d3b51217f8034ef13bb2",
+      "source_text": "…Thump!",
+      "draft_text": "Thump!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 131; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        131
+      ]
+    },
+    {
+      "paragraph": 132,
+      "source_text_sha256": "a7d81462a4b149c5504dccf6e1b77cfcf839e9d6e414c86bcd0090971c0e352a",
+      "draft_text_sha256": "6649192cea6c4b43e729293438fc42665785af3bbc3667c99fb9693b400b2c1c",
+      "source_text": "If only it hadn’t been for the floor that suddenly went down.",
+      "draft_text": "If only the ground had not suddenly given way beneath it.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 132; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        132
+      ]
+    },
+    {
+      "paragraph": 133,
+      "source_text_sha256": "330d7e70e36e8305e2bd813889d388b637fe2ff52f4ca0ec883a182c8607284d",
+      "draft_text_sha256": "509104581c2852862b565ca7770aa7417b53b38fd60622f9d476f7cfe6aff5f7",
+      "source_text": "Pook-",
+      "draft_text": "Crack—!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 133; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        133
+      ]
+    },
+    {
+      "paragraph": 134,
+      "source_text_sha256": "aa789035e9ad665a6efb0d83092d6ca103bd81167ce3bd1b3e80a6fdf15502b4",
+      "draft_text_sha256": "073dd9d9caaff3435a5907e9614c712b48c8c1a37d81f4872a00421323106c6d",
+      "source_text": "Suddenly, the floor collapsed.",
+      "draft_text": "The earth collapsed.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 134; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        134
+      ]
+    },
+    {
+      "paragraph": 135,
+      "source_text_sha256": "57c33130d1554d1cb6cc5aee393dd8ff3843f7de3dcdf9555e6a78beaa7c4c2e",
+      "draft_text_sha256": "d8730cdf45f4b8fc0bb0b7736823616393337dcfe71e62244dabffd1730dd92b",
+      "source_text": "Cerberus threw himself into a pit covered with dry straw to make it indistinguishable from the plain.",
+      "draft_text": "Cerberus charged onto a patch of flat ground disguised beneath dry straw and plunged into the pit below.",
+      "changed": true,
+      "rationale": "Restore the straw-disguised pit trap set up in Chapter 9.",
+      "open_issues": [],
+      "korean_lines": [
+        135
+      ]
+    },
+    {
+      "paragraph": 136,
+      "source_text_sha256": "b89ec2c183213db822969f8f4c8fac9d5592b2d57a270af7219a11567bc7d4e8",
+      "draft_text_sha256": "85fba5b052f150f97514ecdbd52769a4ac3baf841b040e9e20c08fd7d033ab8b",
+      "source_text": "Falling into the trap, Cerberus lost his balance, but he landed on the ground and tried to jump back over the pit.",
+      "draft_text": "Thrown off balance by the trap, Cerberus planted its feet and tried to leap back out.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 136; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        136
+      ]
+    },
+    {
+      "paragraph": 137,
+      "source_text_sha256": "18ad0448ab7c3326bb3a025f3746f8e47e790c41aa1f0f3dd16ec152bb6d33e0",
+      "draft_text_sha256": "bee4ac240c6bb48d89d49cc0eabd69ddad3e1f85f139f4d137ac52136548a301",
+      "source_text": "……But that was impossible.",
+      "draft_text": "But that was impossible.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 137; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        137
+      ]
+    },
+    {
+      "paragraph": 138,
+      "source_text_sha256": "c999d645bc8054d05f144bfe64e9ed1553d1eadd878c68ef6a2758049f3f84c5",
+      "draft_text_sha256": "f102d6e6ab1e76a1419f6e93a1f49d1b43e0c315b631fb9fb463d572eaeb5b8f",
+      "source_text": "Fufufufufu!",
+      "draft_text": "Thud! Thud! Thud!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 138; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        138
+      ]
+    },
+    {
+      "paragraph": 139,
+      "source_text_sha256": "b7f09c110c221738b816f5a08176e6c6be0b1007b195e276064f548fc21f410f",
+      "draft_text_sha256": "8e1ef35a7dc6a2dc7f84593ea74d9c2909d8f13214103fa30e7ae7495676a27d",
+      "source_text": "This is because numerous wooden spears stuck upside down on the floor stabbed her body.",
+      "draft_text": "Dozens of upward-pointing wooden stakes drove into its body.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 139; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        139
+      ]
+    },
+    {
+      "paragraph": 140,
+      "source_text_sha256": "56a02d427d5fff632a1dedb1441386f216a6f0e35c5c2b7692ebd45ec4a1bd8e",
+      "draft_text_sha256": "7ebaa5ee1141c9dca6e6948b928a535590d7e8d80fe28bf6d24996c92de6ca90",
+      "source_text": "[Sweet!]",
+      "draft_text": "[GRAAAH!]",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 140; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        140
+      ]
+    },
+    {
+      "paragraph": 141,
+      "source_text_sha256": "4165f76eb7201135ccaaf52073cbfcd0e6d295fcc0256fc8ef39e2111b60ee61",
+      "draft_text_sha256": "c76b53d940d2964e2ebcb8d067d1f217d47919046a6b685746da235d7e4bb4bb",
+      "source_text": "A tearing scream erupted from each of Cerberus’ three heads.",
+      "draft_text": "A tearing scream burst from all three of Cerberus’s heads.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 141; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        141
+      ]
+    },
+    {
+      "paragraph": 142,
+      "source_text_sha256": "07f37b4c95b1b856bb22329c523fc3219a39e0513a330c56cc1611939850dd86",
+      "draft_text_sha256": "fb9cb0e96e43023b4fce716e06d3ad056b82b31d21cca603df028cf19c01fda1",
+      "source_text": "At the bottom of the pit Vikir had dug, there were countless wooden spears protruding.",
+      "draft_text": "The bottom of Vikir’s pit bristled with countless sharpened wooden stakes.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 142; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        142
+      ]
+    },
+    {
+      "paragraph": 143,
+      "source_text_sha256": "7713e1d2585bdc7287da54205f6c403bce4ceff19748247206d00be51d78a9d4",
+      "draft_text_sha256": "1d6c2caa2daf5df8c7ac38047aad2fc543aeab15f81fefd13402382d5928d4e5",
+      "source_text": "Of course, most of the wooden spears could not pierce Cerberus’ hard skin and broke, but some wooden spears penetrated",
+      "draft_text": "Most shattered against Cerberus’s tough hide, but some managed to pierce through.",
+      "changed": true,
+      "rationale": "Resolve historical audit ED-00085: complete the stake-penetration sentence.",
+      "open_issues": [],
+      "korean_lines": [
+        143
+      ]
+    },
+    {
+      "paragraph": 144,
+      "source_text_sha256": "1af42d17ee30ca37134e5b6b848997ec49cfd08ae78473607555e1536215d806",
+      "draft_text_sha256": "732cd24d48c393b489d7664d59fcb2fea336bf6ce030a1af1a403cacc38acf94",
+      "source_text": "Cerberus’ body and left fatal wounds.",
+      "draft_text": "They drove into its body and opened serious wounds.",
+      "changed": true,
+      "rationale": "Preserve the second half of the Korean wound line in its separate recovered source slot.",
+      "open_issues": [],
+      "korean_lines": [
+        143
+      ]
+    },
+    {
+      "paragraph": 145,
+      "source_text_sha256": "4e950a57a5af2532a9d62f351210f739e7637db8a9c700d662016c50c0f86146",
+      "draft_text_sha256": "b26267f5621a54d72a29ca1ee33b80a1659f2deba126e3b7d86073ad0a2444fa",
+      "source_text": "It was the lower abdomen on the inside of the side, where the arrowhead-shaped wound had been deeply dug.",
+      "draft_text": "Most of those wounds clustered around the inner flank where the earlier arrow injury had already torn deep.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 145; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        144
+      ]
+    },
+    {
+      "paragraph": 146,
+      "source_text_sha256": "06c84a82e67d3111f4f8ee418d52d491f3ab7b244faf0d2d81e9c7f594ecd6ff",
+      "draft_text_sha256": "f214e7bc99999c784ebca607cb840d244d656939a94a41c0e4ac1bb02708d470",
+      "source_text": "“Welcome to the cradle of the sword.”",
+      "draft_text": "“Welcome to the Cradle of Needles.”",
+      "changed": true,
+      "rationale": "Use Korean's deliberate trap pun 'Cradle of Needles', distinct from the Cradle of Swords ritual.",
+      "open_issues": [],
+      "korean_lines": [
+        145
+      ]
+    },
+    {
+      "paragraph": 147,
+      "source_text_sha256": "34d0d60d185968548fcf3d889df02fea6b22097ecf2d5be5169c1edb77452e06",
+      "draft_text_sha256": "ce5e88a28604712431d5fd0a90eee80cd0d836fb4507472b6aed0586cf29fc79",
+      "source_text": "Vikir briefly congratulated himself.",
+      "draft_text": "Vikir gave himself a brief, dry smile.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 147; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        146
+      ]
+    },
+    {
+      "paragraph": 148,
+      "source_text_sha256": "58de7a846d6683a82ad625a430d19168b4fd6e4d3ce29d542d4241d4aad45956",
+      "draft_text_sha256": "3d87fb1bb523d9d3071257799c3be762f6064d8c05ea5e80873d90ae81d8e286",
+      "source_text": "Originally, this trap was made in preparation for being chased by other monsters such as hellhounds.",
+      "draft_text": "He had originally built the trap in case other monsters such as Hellhounds chased him.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 148; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        147
+      ]
+    },
+    {
+      "paragraph": 149,
+      "source_text_sha256": "ae8941b6b2f6a2b3363ba3fe206f8913aeaead4024bcac8433453c2babb8767d",
+      "draft_text_sha256": "6795110c04519854f353f0f3e6b90649dee753e648f0bbb0e8ca5403955724f7",
+      "source_text": "They were installed just to impede movement or a little.",
+      "draft_text": "The stakes had only been meant to slow their movement a little.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 149; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        148
+      ]
+    },
+    {
+      "paragraph": 150,
+      "source_text_sha256": "973023e3ba3f7c4fe3436430b1624114b545d0918d79fbbda01d5b9bdc27a2a5",
+      "draft_text_sha256": "05892e8a3aa2c0bce47aa6626c2c99f29ea2d6900993823975acd0b83c88ddaf",
+      "source_text": "Now I’m making quite an unexpected income.",
+      "draft_text": "Against Cerberus, however, the trap had produced an unexpected harvest.",
+      "changed": true,
+      "rationale": "Restore the unexpected usefulness/harvest of a trap originally meant only to slow pursuers.",
+      "open_issues": [],
+      "korean_lines": [
+        149
+      ]
+    },
+    {
+      "paragraph": 151,
+      "source_text_sha256": "408f27dfbb09aa590da11c92b9d27ba3456e7700e0287821e826aab4dcf6cace",
+      "draft_text_sha256": "408f27dfbb09aa590da11c92b9d27ba3456e7700e0287821e826aab4dcf6cace",
+      "source_text": "But that’s it",
+      "draft_text": "But that’s it",
+      "changed": true,
+      "rationale": "MTL-only sentence fragment with no Korean body-line witness between the unexpected-trap payoff and Cerberus's trembling; retain the source slot in provenance but suppress it from reader-facing text.",
+      "open_issues": [],
+      "suppressed": true,
+      "korean_lines": [
+        149
+      ]
+    },
+    {
+      "paragraph": 152,
+      "source_text_sha256": "62aa1cdb550f5d4123a022678a57c5cca49b2b5ed6df2819856ce404b98b8a2c",
+      "draft_text_sha256": "4c28beaeb6bf232384405533db13e0853d5ecd5f68287e8354e21d6b1c361d7c",
+      "source_text": "Bubbly……",
+      "draft_text": "Rattle…",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 152; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        150
+      ]
+    },
+    {
+      "paragraph": 153,
+      "source_text_sha256": "e07509e57c632627f229412c06a42e01b723e0b2bd0b49e58497650989e48355",
+      "draft_text_sha256": "6ce04310fbb006cb06a465220281e89f5e739bed5d1b5358663d1348cfb6a1de",
+      "source_text": "Cerberus snapped and broke the wooden spears stuck in his side and mouth, and his whole body trembled violently.",
+      "draft_text": "Cerberus snapped the stakes embedded in its flank and mouths, its entire body trembling violently.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 153; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        151
+      ]
+    },
+    {
+      "paragraph": 154,
+      "source_text_sha256": "adcdd451d9d5bf54908379204e603d5b861789d6505dd90e0cbe766a4a958a3c",
+      "draft_text_sha256": "b75b8ec57688977c52c533eb9505705fdb5ea4598d3a14fcc9c527d02fa41ee9",
+      "source_text": "A mad rage, but it was something else that made Cerberus’ body tremble before that.",
+      "draft_text": "Rage shook it, but something else was making its body tremble even more.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 154; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        152
+      ]
+    },
+    {
+      "paragraph": 155,
+      "source_text_sha256": "311dce3a135e0257a8316167e6cc29cd5413e221a7355283595531bf156ea9c1",
+      "draft_text_sha256": "febbd28d8d3564ac33e6bbe6a87db98b5dfb18c8fbae46de6fd5da05904b8e09",
+      "source_text": "Blood Bean!",
+      "draft_text": "Bloody Beans!",
+      "changed": true,
+      "rationale": "Continue Bloody Bean terminology from Chapters 7–10.",
+      "open_issues": [],
+      "korean_lines": [
+        153
+      ]
+    },
+    {
+      "paragraph": 156,
+      "source_text_sha256": "e6ba361ff4f8a66d233459cf2cb0aa0fb75e866509511eeba5900b7fd31b276e",
+      "draft_text_sha256": "0c47b2328afcd1f92b3b371d49861cc562168513dfec24044e35b420555024ad",
+      "source_text": "Vikir boiled the bloodbean beans and soaked the wooden spear in the water so that the energy soaked into the tip of the spear.",
+      "draft_text": "Vikir had boiled Bloody Beans and soaked the wooden stakes in the liquid, letting the cacao compounds seep into their tips.",
+      "changed": true,
+      "rationale": "Restore the boiled-Bloody-Bean infusion applied to the wooden stakes.",
+      "open_issues": [],
+      "korean_lines": [
+        154
+      ]
+    },
+    {
+      "paragraph": 157,
+      "source_text_sha256": "b3e7ea05ebdd5f5a8581b463adeeae1903b6a72db486aabfc94d60c49802d2ed",
+      "draft_text_sha256": "972e8e07fab6d96bddeeb5732b0b6a5ceee67e01d7d1a046f7a88b325907ed85",
+      "source_text": "Cerberus is also a canine monster. A large amount of chocolate energy permeates directly into the body through the blood of the wound.",
+      "draft_text": "Cerberus was a canine demonic creature too. Through the open wounds, a large dose of chocolate entered directly into its body.",
+      "changed": true,
+      "rationale": "Explain chocolate compounds entering Cerberus directly through the stake wounds.",
+      "open_issues": [],
+      "korean_lines": [
+        155
+      ]
+    },
+    {
+      "paragraph": 158,
+      "source_text_sha256": "7068c0c4752f32cb31304003c221267ecda25abf7abaf6e32d8cb299c84a0a34",
+      "draft_text_sha256": "c388e159b9dd1900720ff9186ba3d13fe33965a0c4ce288c098b00442ce1371e",
+      "source_text": "However, like a high-ranking monster, he did not fall down at once.",
+      "draft_text": "But as expected of a top-tier monster, it did not collapse immediately.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 158; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        156
+      ]
+    },
+    {
+      "paragraph": 159,
+      "source_text_sha256": "509844ccd7521fc5ddcb3cbad134d49f3e91c4dd086221162812ad03e3594e1c",
+      "draft_text_sha256": "0b8e18dc3acc51f87995a9a5e80944a97d1b3faea477c666185bd1630d586f51",
+      "source_text": "Foam at the mouth, burning excrement dripping from the anus, and the thick smell of chocolate coffee.",
+      "draft_text": "Foam bubbled from its mouths, burning excrement leaked from behind, and the heavy scent of chocolate and coffee filled the air.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 159; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        157
+      ]
+    },
+    {
+      "paragraph": 160,
+      "source_text_sha256": "0bfba25555485b9de470f793b6961326e5af612d208ba0cefd215e0cf12f97ca",
+      "draft_text_sha256": "48b91a5a0425a1a8d78479eb2461aeb76681903db5debec78bf36d0a84fd2a8b",
+      "source_text": "But even so, the three heads stand upright and stare at Vikir.",
+      "draft_text": "Even then, all three heads remained upright, staring fixedly at Vikir.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 160; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        158
+      ]
+    },
+    {
+      "paragraph": 161,
+      "source_text_sha256": "8a6da18ba6a11adc53be67312b1714fc760560dd0ce598eeb423af5878f0e228",
+      "draft_text_sha256": "9dc1cd6a8e7932bda51bab183dd3d4fd0aa4395092ce0dd980f4ed0bde3a1da0",
+      "source_text": "Vikir shook his sack and took out all the Bloody Beans.",
+      "draft_text": "Vikir emptied his pouch and drew out every Bloody Bean he had left.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 161; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        159
+      ]
+    },
+    {
+      "paragraph": 162,
+      "source_text_sha256": "9fbc607274c6475b5d4f5045c374889f4875cce69c21987d40899180a7c729d5",
+      "draft_text_sha256": "eda304ded9d210736480bb757b9e8850d416a525a8835b88701baa184abb85d2",
+      "source_text": "Tick! Tick tick! Sudden!",
+      "draft_text": "Rattle! Rattle! Rattle!",
+      "changed": true,
+      "rationale": "Resolve historical audit ED-00088 by replacing duplicated/fused bean sounds with a clean rattle sequence.",
+      "open_issues": [],
+      "korean_lines": [
+        160
+      ]
+    },
+    {
+      "paragraph": 163,
+      "source_text_sha256": "1aa8d1dfc8f3821943525770d1d99562780175831ba2943a967bb9f6ad84a248",
+      "draft_text_sha256": "bb73487268a819ca769ba39501c9470f2a38f0e18a5db18f1a98ee741508e477",
+      "source_text": "Beans fly towards Cerberus’s three gaping jaws.",
+      "draft_text": "The beans flew toward Cerberus’s three open mouths.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 163; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        161
+      ]
+    },
+    {
+      "paragraph": 164,
+      "source_text_sha256": "75a9897b1c44e20bf2ca092a050ea96cc97a5bae1d64063f141d949475454275",
+      "draft_text_sha256": "dcf6d33218df72abf9fab11bec3901288b0a9e189631586e2394abb718abae48",
+      "source_text": "Most of the beans thrown by Vikir landed in Cerberus’s mouth, which was slowed down by his spear.",
+      "draft_text": "Almost every bean Vikir threw landed inside one of the mouths of the Cerberus slowed by the stakes.",
+      "changed": true,
+      "rationale": "Preserve that almost all thrown beans enter Cerberus's three open mouths after the stakes slow it.",
+      "open_issues": [],
+      "korean_lines": [
+        162
+      ]
+    },
+    {
+      "paragraph": 165,
+      "source_text_sha256": "17c03a991a6ca8959c6a22b5fb53676e7332924ef33a02af8cdca0755083d3b4",
+      "draft_text_sha256": "a6e375f8f895a64dec41ed92746d80216fc6702514b3376e56d055b52883c7d6",
+      "source_text": "As a result, Cerberus’ movement gradually slows down.",
+      "draft_text": "As a result, Cerberus’s movements grew slower and slower.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 165; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        163
+      ]
+    },
+    {
+      "paragraph": 166,
+      "source_text_sha256": "631796956971576a95865028dfad7c8fb5be9f5a411943650323c8fc8cf150e5",
+      "draft_text_sha256": "ce4bbe68427c597ebb85b1fb157869364d44242580c849807df1b13cf56571f4",
+      "source_text": "Dduduk! Pop!",
+      "draft_text": "Crack! Snap!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 166; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        164
+      ]
+    },
+    {
+      "paragraph": 167,
+      "source_text_sha256": "3d5666873b8009e0d60817fcf72abd70101336a0aaeb93ccf04b6fd406baf19b",
+      "draft_text_sha256": "fc3f3c74951106a3c6e8fc0d4f62ef9feeae54da57830e85a33de1114a95df35",
+      "source_text": "Eventually, Cerberus broke several wooden spears stuck in his body and drove Vikir to the corner of his pit.",
+      "draft_text": "At last Cerberus broke the remaining stakes embedded in its body and drove Vikir into a corner of the pit.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 167; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        165
+      ]
+    },
+    {
+      "paragraph": 168,
+      "source_text_sha256": "1c0b95df0a571d2fb6bdc931f4e3bb169a7a48dc928fa6be48487a5152f5d63f",
+      "draft_text_sha256": "fd41c6e6fa69bd8cd83cf0ac244e6acbf9087c7b431025bcbcc9f548d99d950f",
+      "source_text": "It was around the time the sack of Blood Bean Beans was empty.",
+      "draft_text": "By then, the pouch of Bloody Beans was empty.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 168; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        166
+      ]
+    },
+    {
+      "paragraph": 169,
+      "source_text_sha256": "6d6a39dd63b39bac5617528c1417ae1d9cfd33ae91455823f7baba7a9c19f8ed",
+      "draft_text_sha256": "be801c15bb5f7cf19a5c09a526c71cc57e50fabfad61728abd3cea1617117b19",
+      "source_text": "Cerberus has become a wreck, but he still has the strength to bite his prey by the neck with a final leap.",
+      "draft_text": "Cerberus was a wreck, but it still had enough strength left for one final leap at its prey’s throat.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 169; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        167
+      ]
+    },
+    {
+      "paragraph": 170,
+      "source_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
+      "draft_text_sha256": "063cb34fad7582c34dfbc441f090c39369356befe94d63a1809d0e0dda02872d",
+      "source_text": "“…….”",
+      "draft_text": "“…”",
+      "changed": true,
+      "rationale": "Preserve Vikir's silent calculation before Cerberus's final leap.",
+      "open_issues": [],
+      "korean_lines": [
+        168
+      ]
+    },
+    {
+      "paragraph": 171,
+      "source_text_sha256": "a2ad3ad10551ae0a20ce2399411bbc2577f51d39ef9912a06f6e9cf72f547906",
+      "draft_text_sha256": "6b57fb2c9787fa61f21e94cc56a345d6ee017248f661a24d152963cbb35ab3e9",
+      "source_text": "Knowing that, Vikir, who had been driven to a dead end, looked extremely prudent.",
+      "draft_text": "Knowing that, the cornered Vikir watched it with extreme care.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 171; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        169
+      ]
+    },
+    {
+      "paragraph": 172,
+      "source_text_sha256": "c472de9b98ab9ce48df013c82b02f042c591024703e113c66e7ab064d71d644f",
+      "draft_text_sha256": "c472de9b98ab9ce48df013c82b02f042c591024703e113c66e7ab064d71d644f",
+      "source_text": "Before long, Cerberus moved.",
+      "draft_text": "Before long, Cerberus moved.",
+      "changed": false,
+      "rationale": null,
+      "open_issues": [],
+      "korean_lines": [
+        170
+      ]
+    },
+    {
+      "paragraph": 173,
+      "source_text_sha256": "fa1034648f9e164008aca49da217faf4af55413f85fc7aec5be23aeccc535603",
+      "draft_text_sha256": "d05291bddbec00cd5cabe579e6650769f57d1f4c41fad7e42d1363b1d0f1538c",
+      "source_text": "Vikir also lunges forward, clutching one of his wooden spears.",
+      "draft_text": "Vikir lunged forward as well, gripping one of his wooden spears.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 173; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        171
+      ]
+    },
+    {
+      "paragraph": 174,
+      "source_text_sha256": "6621521798f37c366835e6bfa8c5c924ca64a5b2d51e2e761867e2f5e1b8c6ad",
+      "draft_text_sha256": "c2f4bd7b2009fd669db1650ce102b90be4d93422f0a06dd3de320811798cd652",
+      "source_text": "…Pod!",
+      "draft_text": "Snap!",
+      "changed": true,
+      "rationale": "Restore the hunter-thrown spear/stake action leading to the hidden venom payoff.",
+      "open_issues": [],
+      "korean_lines": [
+        172
+      ]
+    },
+    {
+      "paragraph": 175,
+      "source_text_sha256": "a46ea02d4ce387fb3239e6964fcee595f4f3ada283e09f278d5f78db2cfd57ca",
+      "draft_text_sha256": "2b39b4af051b7780a1e075f0b1ac94a40168741e6a2fe272bcd994057d646281",
+      "source_text": "The wooden spear thrown by the hunter flew through the air and grazed Cerberus’ body.",
+      "draft_text": "The spear thrown by the hunter cut through the air and grazed Cerberus’s body.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 175; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        173
+      ]
+    },
+    {
+      "paragraph": 176,
+      "source_text_sha256": "e7d5dce473eba5ed44ceb1298978726045b201c889678289c62e5b44e6546bf1",
+      "draft_text_sha256": "b752907c9ffd03d08fbeffd534834ad758d6fcbba3015b7b7850eec9acf29af3",
+      "source_text": "The wooden spear, which seemed to be slightly stuck in the wound on the side, was pulled out helplessly.",
+      "draft_text": "It seemed to slip briefly into the wound on its side before popping helplessly back out.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 176; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        174
+      ]
+    },
+    {
+      "paragraph": 177,
+      "source_text_sha256": "cdb5fb5a10db36e9e8c9ff96fecc3d99de0605784538d67d0a83efe1f9efcf53",
+      "draft_text_sha256": "670e6f4be16c21e328213f16f52799f1719e2b3875f8e83add7be66fec8bf61e",
+      "source_text": "If it wasn’t for the original arrow mark, it would have bounced off at all.",
+      "draft_text": "Without the existing arrow wound, it would have bounced off entirely.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 177; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        175
+      ]
+    },
+    {
+      "paragraph": 178,
+      "source_text_sha256": "13bc9141afc01052f2c7f44a60f05e001b1096af29528d5fad22d9264b5a37a3",
+      "draft_text_sha256": "a2193bc4b964a803ba52cf8ee9bc9813a141a8bdc664920d1f137088969c227d",
+      "source_text": "Cerberus bared his teeth at Vikir.",
+      "draft_text": "Cerberus bared its fangs and charged the seemingly defenseless Vikir.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 178; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        176
+      ]
+    },
+    {
+      "paragraph": 179,
+      "source_text_sha256": "ff970660fec6d48a3871bb529ddbc6de6efe60ac1647e14081ac434174653321",
+      "draft_text_sha256": "5bac2e1173d0da62a95def312d7493878426306dac8530d3d6f2c1ab68a76d17",
+      "source_text": "Cerberus’ six eyes burned even more intensely at the thought that he would soon see the end of his prey that had been so annoying.",
+      "draft_text": "Its six eyes burned even brighter at the thought that this infuriating prey was finally within reach.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 179; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        177
+      ]
+    },
+    {
+      "paragraph": 180,
+      "source_text_sha256": "af175ac774502bc05e745ec36bdaa624ba686ae2bbf228608a11ee4970b0cc0d",
+      "draft_text_sha256": "6fe7d115d81a4f104e4d56d4862bc2d6ae08ab792762c237d18b97f8b62b2d95",
+      "source_text": "……But.",
+      "draft_text": "But—",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 180; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        178
+      ]
+    },
+    {
+      "paragraph": 181,
+      "source_text_sha256": "d1a21e511cf749e4a1ebd546dad331ce95a24f06b25c8a05a82ae8d97fe7c65c",
+      "draft_text_sha256": "67fdcf0e2157d69d5039b238e0ece0f3d8434bdc83a9f4a03d5d66812ba58c6e",
+      "source_text": "Breetle!",
+      "draft_text": "Stagger!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 181; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        179
+      ]
+    },
+    {
+      "paragraph": 182,
+      "source_text_sha256": "34fa709be0e6777b25cb6aa0e4a383b259c455b555fb05b7f35783808eed440e",
+      "draft_text_sha256": "193dd9d898e51251fd42e81993db498e90833c716ebdbfabea2e6b7c91df0e19",
+      "source_text": "Cerberus, who was running, staggered his body for an instant.",
+      "draft_text": "Cerberus’s charging body suddenly lurched.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 182; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        180
+      ]
+    },
+    {
+      "paragraph": 183,
+      "source_text_sha256": "65d8e78a862cbf4d0bcbd91dacbf61f21d6300e759bfb52a52b566be3c62153e",
+      "draft_text_sha256": "2f449b812a4de01f2e7bad879b85054bf1a6c426deb83a250304a4238768f59b",
+      "source_text": "Cerberus, who suddenly lost his balance, panicked, but calmly took a step forward again.",
+      "draft_text": "Startled by the loss of balance, it steadied itself and took another step.",
+      "changed": true,
+      "rationale": "Keep the first recovery step after Cerberus loses balance.",
+      "open_issues": [],
+      "korean_lines": [
+        181
+      ]
+    },
+    {
+      "paragraph": 184,
+      "source_text_sha256": "5392c8c9c96c4777f6f820b4c1297a2f51acbeef833cfa17bf0d80b55f0b3c4f",
+      "draft_text_sha256": "d1c8836536215b3841ed4c3f797ba64beaf7dfea8a89b99d29b3bdb49dd08f86",
+      "source_text": "Stagger-",
+      "draft_text": "Stagger—",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 184; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        182
+      ]
+    },
+    {
+      "paragraph": 185,
+      "source_text_sha256": "076d24593b31e88ac2c30c60eb194aa727edfdc8082e645fbaad8c555a4c74c8",
+      "draft_text_sha256": "23af43cd3983247ffb625a08b58a4963d74670f5543db09397079d34c7c65ba1",
+      "source_text": "However, the second step was also slightly out of focus.",
+      "draft_text": "The second step was off as well.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 185; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        183
+      ]
+    },
+    {
+      "paragraph": 186,
+      "source_text_sha256": "029e00d81f588958c58292b749eaef39df2f6dfacf156eed8c53903183e0d709",
+      "draft_text_sha256": "b258c6fb2fbb08e7666302b7721a2666af1bbe3602f20646a3c35d87b9aa6072",
+      "source_text": "The same goes for the third step. In the fourth step, it even nearly fell over with its legs bent in a strange direction, and in the fifth step fell.",
+      "draft_text": "The third was no better. On the fourth its legs bent at a strange angle; on the fifth it collapsed.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 186; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        184
+      ]
+    },
+    {
+      "paragraph": 187,
+      "source_text_sha256": "afeadfb8e92c8cf675f1be8e448c034965d4ba40d2b578fb98813fc12a2685fd",
+      "draft_text_sha256": "fcf1dc59c719774eb9e6abeaaafb044391ef6be41a1bcaa772223a00fb11db3d",
+      "source_text": "And in the sixth step, he dragged his body forward once, and in the seventh step, he fell flat on the floor without even crawling.",
+      "draft_text": "On the sixth it dragged itself forward once more, and on the seventh it fell flat, unable even to crawl.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 187; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        185
+      ]
+    },
+    {
+      "paragraph": 188,
+      "source_text_sha256": "d5b37bd647e695923eac15dc4d8fe52c1874837954fda7f299156a699803ae77",
+      "draft_text_sha256": "c0ca402069868804b103959597354825ec6cd3984835f3ef1e58203636fab79f",
+      "source_text": "Only seven times.",
+      "draft_text": "Seven steps.",
+      "changed": true,
+      "rationale": "Preserve the seven-step countdown that foreshadows the venom clue.",
+      "open_issues": [],
+      "korean_lines": [
+        186
+      ]
+    },
+    {
+      "paragraph": 189,
+      "source_text_sha256": "4fc4c98596ea000563c7771beeafd38e6beb8658df55f563433dba8dc6ac6eef",
+      "draft_text_sha256": "f1b417bdca4b12e4628941d43f6edbbcd5a65e349dc544a2cdbf56e2cff3cf0a",
+      "source_text": "The number of steps Cerberus took while approaching Vikir.",
+      "draft_text": "That was all Cerberus managed while approaching Vikir.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 189; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        187
+      ]
+    },
+    {
+      "paragraph": 190,
+      "source_text_sha256": "c89988f8b9d05056032067966138101dd9440af2195a1dd986714fa6e3fcb231",
+      "draft_text_sha256": "3b026e5761090639f3cbfee119c2887f6f7d3ee5ec389f49594962aa6f135aa2",
+      "source_text": "That was his last.",
+      "draft_text": "And then it was over.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 190; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        188
+      ]
+    },
+    {
+      "paragraph": 191,
+      "source_text_sha256": "427718956e42774b8762024d84a4a9983bdc1e5f8017dae8def88b803b9b273a",
+      "draft_text_sha256": "9f450b8233153f29c5469399d00e31c20903d6a0d79967a22946d7ed70f04b07",
+      "source_text": "…Cheeky!",
+      "draft_text": "Thud!",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 191; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        189
+      ]
+    },
+    {
+      "paragraph": 192,
+      "source_text_sha256": "018d20c4d9a4e1611de1dd1ba2996d8533c7165503967147806825262684c105",
+      "draft_text_sha256": "da4a09bcde4bcb69d444a4a4475b771effd5aa2afa946fbd5856de4ed18e3514",
+      "source_text": "The three heads, foam bubbling at the corners of their mouths, fell down and never moved again.",
+      "draft_text": "Its three foam-covered heads struck the red earth and never moved again.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 192; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        190
+      ]
+    },
+    {
+      "paragraph": 193,
+      "source_text_sha256": "cd41336340462af201eca87d271b5760b647cc580712d6c8e69b78968ce89140",
+      "draft_text_sha256": "ce0fb344e004de39d0da4746592aa64bbd67cffc38d9e5635b531974722b6077",
+      "source_text": "Only then did Vikir sit down leaning against the cliff.",
+      "draft_text": "Only then did Vikir sit down with his back against the cliff.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 193; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        191
+      ]
+    },
+    {
+      "paragraph": 194,
+      "source_text_sha256": "6ba1f089e57c46f9d0de6637dc27f4c661c574631d61cdfe618ee8400cbd2623",
+      "draft_text_sha256": "bf8f5320a4d36e604a6408c2849a4c04b4a9a591581c32274543c811b35a2a6a",
+      "source_text": "“……There is something worth hiding.”",
+      "draft_text": "“…So the work I hid away finally paid off.”",
+      "changed": true,
+      "rationale": "Restore the meaning that Vikir's hidden preparation finally paid off.",
+      "open_issues": [],
+      "korean_lines": [
+        192
+      ]
+    },
+    {
+      "paragraph": 195,
+      "source_text_sha256": "9f0742f8014dbea96d05d1c9b5dca66a99f98def5148dfe870abfc74dd79debd",
+      "draft_text_sha256": "86e0d334c670cb48b7c28c748e46935b10c2c0f3b607f17aba905697ee7523a8",
+      "source_text": "The hunter’s gaze is directed at the wooden spear he threw earlier.",
+      "draft_text": "The hunter’s gaze shifted to the wooden spear he had thrown moments earlier.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 195; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        193
+      ]
+    },
+    {
+      "paragraph": 196,
+      "source_text_sha256": "053e4a481b41d57eb3e9c0dc5abc4aa150de24cca1acf6b1041d8c1c4729da11",
+      "draft_text_sha256": "38e84440bb15bcd4a847584298effab0f9beb9605a9e6908eab2c278af837396",
+      "source_text": "A wooden spear that just grazed Cerberus.",
+      "draft_text": "It had only grazed Cerberus.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 196; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        194
+      ]
+    },
+    {
+      "paragraph": 197,
+      "source_text_sha256": "de32e3576a4bc1e13b67819bdc67361ba3593cab45a68af649b8e566c343943c",
+      "draft_text_sha256": "3415c4d5822f940d6c04860b3cf588b40daf3b26459fe37284d92805377ca731",
+      "source_text": "However, the wooden spear is a little different from other wooden spears.",
+      "draft_text": "But this spear was different from the others.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 197; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        195
+      ]
+    },
+    {
+      "paragraph": 198,
+      "source_text_sha256": "54897326fbb96524e0ac0a05e1ef217af758599c737009cc9a0c97147ee2bf22",
+      "draft_text_sha256": "75ffd1f4ddad541d8fb46b2d58d1beafbec6f142a7da6c20ffe08e762b661e40",
+      "source_text": "Attached to the tip of the spear were two small but sharp spikes.",
+      "draft_text": "Two small, sharp thorns had been fixed to its tip.",
+      "changed": true,
+      "rationale": "Place the two small sharp thorns on the thrown spear tip.",
+      "open_issues": [],
+      "korean_lines": [
+        196
+      ]
+    },
+    {
+      "paragraph": 199,
+      "source_text_sha256": "909b732652641dd336749756c9900a106cf7e639cd7adfff174a357a2dca37bc",
+      "draft_text_sha256": "fb0d2835cc628e5ff8ee20918bd86e74a454ec9a84087e369e643c68464ead0f",
+      "source_text": "At the end of this dry thorn, you can see that there is a dark aura.",
+      "draft_text": "A dark aura still clung faintly to those dried thorns.",
+      "changed": true,
+      "rationale": "Compared Korean source mapping with MTL paragraph 199; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "open_issues": [],
+      "korean_lines": [
+        197
+      ]
+    },
+    {
+      "paragraph": 200,
+      "source_text_sha256": "8a7f111f8f8a4c37bd8ef11979aa3f790cd1e5e384f24f08ab566be3ab11a2c8",
+      "draft_text_sha256": "a7a1ebc178a48b0eab61f7656fe6d7f97bb1cfba9c099e5a8899a29b2b3ca471",
+      "source_text": "A snake’s venom that makes it difficult to even walk.",
+      "draft_text": "They were venomous snake fangs whose poison could make even seven steps impossible.",
+      "changed": true,
+      "rationale": "Tie the venom clue to being unable to make even seven steps.",
+      "open_issues": [],
+      "korean_lines": [
+        198
+      ]
+    },
+    {
+      "paragraph": 201,
+      "source_text_sha256": "3d9a73ffed7baf86686698ed6e79878577a25f90bbeb31546bf173645e581c84",
+      "draft_text_sha256": "2d03954d2097ed219a9c837802a18f971091cc3dd84f8e7018767265bada768a",
+      "source_text": "The Bloody Mamba’s posion was still flowing through it.",
+      "draft_text": "The Bloody Mamba’s venom still lingered within them.",
+      "changed": true,
+      "rationale": "Preserve the exact endpoint: Bloody Mamba venom still lingers on the hidden thorns.",
+      "open_issues": [],
+      "korean_lines": [
+        199
+      ]
+    }
+  ],
+  "scene_breaks_after": [],
+  "suppressed_paragraphs": [
+    2,
+    8,
+    34,
+    42,
+    151
+  ],
+  "editorial_accepted": true,
+  "acceptance_evidence": "qa/acceptance/chapter-0011.json",
+  "korean_source": "source/korean/chapters/011.txt",
+  "korean_sha256": "24988d46d5a1a48115fcb42eab2ea7e99e2702f4e253aa26b3b12391994ed7a1",
+  "korean_alignment": "editorial/korean-alignment/chapter-0011.json"
+}

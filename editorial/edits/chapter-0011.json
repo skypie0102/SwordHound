@@ -1,0 +1,990 @@
+{
+  "chapter": 11,
+  "source": "source/chapters/chapter-011.xhtml",
+  "source_sha256": "3e33fad1699136e0baf0506c349abfd068ac7411893aeb6199753c77b90b8268",
+  "expected_paragraphs": 201,
+  "notice": "New reconstruction, not recovered production. Explicit source adjudications and structural exceptions are recorded in editorial/reviews/chapter-0011.md.",
+  "korean_alignment": "editorial/korean-alignment/chapter-0011.json",
+  "scene_breaks_after": [],
+  "suppressed_paragraphs": [
+    2,
+    8,
+    34,
+    42,
+    151
+  ],
+  "suppression_reasons": {
+    "2": "Recovered XHTML NBSP spacer before the opening Cerberus info window; retain provenance but suppress reader-facing blank output.",
+    "8": "Recovered XHTML NBSP spacer after the opening Cerberus info window; retain provenance but suppress reader-facing blank output.",
+    "34": "Recovered XHTML NBSP spacer before the sword/mage rank comparison window; retain provenance but suppress reader-facing blank output.",
+    "42": "Recovered XHTML NBSP spacer after the sword/mage rank comparison window; retain provenance but suppress reader-facing blank output.",
+    "151": "MTL-only sentence fragment with no Korean body-line witness between the unexpected-trap payoff and Cerberus's trembling; retain the source slot in provenance but suppress it from reader-facing text."
+  },
+  "edits": [
+    [
+      1,
+      "An unpleasant growl rang out, like bronze beasts grinding their bodies together.",
+      "Compared Korean source mapping with MTL paragraph 1; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      4,
+      "Danger Level: A+",
+      "Compared Korean source mapping with MTL paragraph 4; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      5,
+      "Size: 7 m",
+      "Compared Korean source mapping with MTL paragraph 5; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      6,
+      "Discovery Location: Le Rouge et Le Noir Mountain, Seventh Ridge",
+      "Standardize Cerberus discovery location as Le Rouge et Le Noir Mountain, Seventh Ridge."
+    ],
+    [
+      7,
+      "AKA: “Hell’s Guard Dog”",
+      "Keep the Cerberus AKA inside its info window."
+    ],
+    [
+      9,
+      "It showed no interest in souls entering hell, but any soul that tried to escape was immediately torn to pieces.",
+      "Compared Korean source mapping with MTL paragraph 9; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      10,
+      "It dwelled in the deepest reaches of the underworld, the final destination of all souls, and stood at the pinnacle of hell-type canine demonic creatures.",
+      "Compared Korean source mapping with MTL paragraph 10; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      11,
+      "Gas, oil, and flame spewed from deep within its three throats. This was Cerberus, the guard dog of hell.",
+      "Compared Korean source mapping with MTL paragraph 11; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      12,
+      "Even Vikir, a seasoned hunter, had seen this super-elite monster only once from a distance before his regression.",
+      "Compared Korean source mapping with MTL paragraph 12; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      13,
+      "One day, the gates of the Demon Realm had suddenly opened and demonic creatures poured out across the continent.",
+      "Compared Korean source mapping with MTL paragraph 13; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      14,
+      "On the day that marked the beginning of the long catastrophe, a single Cerberus rampaging at the front killed hundreds of warriors selected from the Seven Great Families.",
+      "Compared Korean source mapping with MTL paragraph 14; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      15,
+      "The losses had been even worse because everyone was still inexperienced at the beginning of the war.",
+      "Compared Korean source mapping with MTL paragraph 15; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      16,
+      "Greater disaster had been prevented only when Camus Morgue—the youngest female head of the Morgue Family at the time, later known as the Ironblood Empress—personally intervened.",
+      "Use the established Camus Morgue spelling/title context rather than the corrupted Korean/MTL royal epithet."
+    ],
+    [
+      17,
+      "And now that very same kind of Cerberus stood before Vikir.",
+      "Compared Korean source mapping with MTL paragraph 17; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      18,
+      "“…”",
+      "Compared Korean source mapping with MTL paragraph 18; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      19,
+      "Even before a monster powerful enough to make a hundred Hellhounds meaningless, Vikir remained calm.",
+      "Compared Korean source mapping with MTL paragraph 19; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      20,
+      "“So Cerberus has already made it this far? Why is a creature that should stay around the Seventh Ridge all the way down here?”",
+      "Restore Vikir's question about a Seventh-Ridge Cerberus descending this far."
+    ],
+    [
+      21,
+      "As he said, Cerberus had originally been encountered in the highlands of Le Rouge et Le Noir Mountain.",
+      "Compared Korean source mapping with MTL paragraph 21; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      22,
+      "Yet this one had descended all the way to the lowlands around the First Ridge.",
+      "Place the encounter in the lowlands around the First Ridge rather than flattening the mountain geography."
+    ],
+    [
+      23,
+      "What could have driven it this far down…?",
+      "Compared Korean source mapping with MTL paragraph 23; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      24,
+      "[Grrrrr!]",
+      "Compared Korean source mapping with MTL paragraph 24; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      25,
+      "It was an awkward situation even for Vikir.",
+      "Compared Korean source mapping with MTL paragraph 25; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      26,
+      "“There’s no other choice.”",
+      "Compared Korean source mapping with MTL paragraph 26; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      27,
+      "Vikir decided to reveal every card he had been keeping hidden.",
+      "Compared Korean source mapping with MTL paragraph 27; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      28,
+      "There was no longer any room to conceal the skills he had possessed before his regression.",
+      "Compared Korean source mapping with MTL paragraph 28; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      29,
+      "Fortunately, he had crossed well beyond the boundary, and he could sense no one watching nearby.",
+      "Compared Korean source mapping with MTL paragraph 29; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      30,
+      "There were no Guide Hound Guardian Knights here, so he did not need to hide his strength while fighting.",
+      "Use Guide Hound Guardian Knights consistently and clarify why Vikir may reveal his strength."
+    ],
+    [
+      31,
+      "Flash!",
+      "Compared Korean source mapping with MTL paragraph 31; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      32,
+      "Vikir drew his shortsword and channeled mana into it.",
+      "Compared Korean source mapping with MTL paragraph 32; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      33,
+      "A dense gaseous aura welled from the tip—the hallmark of an Advanced Sword Expert.",
+      "State gaseous aura as the hallmark of an Advanced Sword Expert."
+    ],
+    [
+      35,
+      "Low Sword Expert = 1st-Circle Mage",
+      "Normalize the sword/mage equivalence window starting with Low Sword Expert."
+    ],
+    [
+      36,
+      "Intermediate Sword Expert = 2nd-Circle Mage",
+      "Compared Korean source mapping with MTL paragraph 36; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      37,
+      "Advanced Sword Expert = 3rd-Circle Mage",
+      "Use Advanced Sword Expert consistently with the accepted Chapter 4 rank terminology."
+    ],
+    [
+      38,
+      "Low Sword Graduator = 4th-Circle Mage",
+      "Compared Korean source mapping with MTL paragraph 38; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      39,
+      "Intermediate Sword Graduator = 5th-Circle Mage",
+      "Compared Korean source mapping with MTL paragraph 39; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      40,
+      "Advanced Sword Graduator = 6th-Circle Mage",
+      "Compared Korean source mapping with MTL paragraph 40; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      41,
+      "Sword Master = 7th-Circle Mage",
+      "Retain Sword Master = 7th-Circle Mage as the final comparison row."
+    ],
+    [
+      43,
+      "This was the general equivalence used between swordsmanship and magical ranks.",
+      "Repair the MTL's 'martial law' error into a rank-equivalence statement."
+    ],
+    [
+      44,
+      "At the tip of eight-year-old Vikir’s sword burned a dense gaseous aura that looked ready to condense into liquid at any moment.",
+      "Compared Korean source mapping with MTL paragraph 44; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      45,
+      "It signified the Advanced Sword Expert level, roughly equivalent to a 3rd-Circle Mage.",
+      "Compared Korean source mapping with MTL paragraph 45; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      46,
+      "In his previous life, Vikir had not reached this stage until around age twenty.",
+      "Clarify that Vikir did not reach this stage in his prior life until around age twenty."
+    ],
+    [
+      47,
+      "Vikir drew up his mana and moved his hand swiftly.",
+      "Compared Korean source mapping with MTL paragraph 47; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      48,
+      "The shortsword carved strange trajectories through the air.",
+      "Compared Korean source mapping with MTL paragraph 48; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      49,
+      "Sharp, fang-shaped arcs appeared as though three teeth had been summoned into the air.",
+      "Compared Korean source mapping with MTL paragraph 49; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      50,
+      "Baskerville Style, Third Form: a sword technique that draws three fangs and drives them into the opponent’s neck.",
+      "Normalize Baskerville Style, Third Form and the three-fang description."
+    ],
+    [
+      51,
+      "In his previous life, Vikir had mastered the Baskerville Style through the Fourth Form and could produce four fangs.",
+      "Restore prior mastery through the Fourth Form and four fangs."
+    ],
+    [
+      52,
+      "Back then, he had also possessed the mana and aura of an Advanced Sword Graduator, so his present level was still far below his former peak.",
+      "Restore the prior-life Advanced Sword Graduator comparison rather than the corrupted 'Duator'."
+    ],
+    [
+      53,
+      "But Vikir possessed other weapons now.",
+      "Compared Korean source mapping with MTL paragraph 53; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      54,
+      "His small body and quick mobility, together with a body hardened by the blessing of the River Styx, gave him advantages his former self had not possessed.",
+      "Compared Korean source mapping with MTL paragraph 54; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      55,
+      "His strengths and weaknesses were both clear.",
+      "Compared Korean source mapping with MTL paragraph 55; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      56,
+      "Vikir swung his sword and formed three fangs.",
+      "Compared Korean source mapping with MTL paragraph 56; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      57,
+      "His child-sized hands and arms were too short to form the fourth fang he had wielded in his previous life, but the gaseous aura and three clear fangs extending from his blade were still enough to block Cerberus’s claws.",
+      "Remove the MTL's nonsense 'organ' insertion while preserving the missing fourth fang due to a child's reach."
+    ],
+    [
+      58,
+      "“…?”",
+      "Compared Korean source mapping with MTL paragraph 58; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      59,
+      "Vikir sensed that something was wrong.",
+      "Compared Korean source mapping with MTL paragraph 59; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      60,
+      "Cerberus had been a terrifying opponent even at his old strength. How could he contend with one now in a child’s body far weaker than his former self?",
+      "Make the apparent mismatch explicit: current-child Vikir should not normally contend with Cerberus at his former difficulty."
+    ],
+    [
+      61,
+      "That meant something was wrong with Cerberus as well.",
+      "Compared Korean source mapping with MTL paragraph 61; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      62,
+      "Just as he suspected—",
+      "Compared Korean source mapping with MTL paragraph 62; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      63,
+      "“…!”",
+      "Compared Korean source mapping with MTL paragraph 63; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      64,
+      "Vikir’s keen eyes caught something.",
+      "Compared Korean source mapping with MTL paragraph 64; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      65,
+      "One side of Cerberus’s rib cage was visibly caved in.",
+      "Restore the caved-in rib area as evidence Cerberus is already injured."
+    ],
+    [
+      66,
+      "Its movement was slightly unnatural; several ribs were clearly broken.",
+      "Compared Korean source mapping with MTL paragraph 66; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      67,
+      "Clear arrow wounds also marked the places where its fur had been torn away.",
+      "Preserve arrow wounds as the clue to outside attackers."
+    ],
+    [
+      68,
+      "“Who did this to it?”",
+      "Compared Korean source mapping with MTL paragraph 68; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      69,
+      "Vikir let out an incredulous laugh.",
+      "Compared Korean source mapping with MTL paragraph 69; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      70,
+      "Then he remembered the barbarian tribes living beyond Le Rouge et Le Noir Mountain.",
+      "Compared Korean source mapping with MTL paragraph 70; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      71,
+      "Those tribes had long clashed with both the iron-blooded Baskerville Family and the prestigious mage family Morgue.",
+      "Clarify long-standing conflict between mountain tribes and both Baskerville/Morgue rather than reversing actor roles."
+    ],
+    [
+      72,
+      "If the barbarians had driven Cerberus down here, then the monster was already in poor condition.",
+      "Compared Korean source mapping with MTL paragraph 72; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      73,
+      "Clang! Crash! Bang!",
+      "Compared Korean source mapping with MTL paragraph 73; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      74,
+      "Vikir repeatedly gathered his dispersing gaseous aura to block Cerberus’s claws and teeth.",
+      "Compared Korean source mapping with MTL paragraph 74; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      75,
+      "Every collision between blade and fang rang like metal striking bronze and sent sparks flying.",
+      "Compared Korean source mapping with MTL paragraph 75; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      76,
+      "[Grrr! Bark! Grrr!]",
+      "Compared Korean source mapping with MTL paragraph 76; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      77,
+      "Cerberus attacked with all three heads, trying to bite Vikir, but each attempt failed.",
+      "Compared Korean source mapping with MTL paragraph 77; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      78,
+      "“I’ve had plenty of practice dealing with triplets.”",
+      "Carry the Highbro/Middlebro/Lowbro continuity into Vikir's familiarity with three-headed attack patterns."
+    ],
+    [
+      79,
+      "Indeed, the swordsmanship and trident tactics of Highbro, Middlebro, and Lowbro had been inspired by Cerberus’s three-headed fighting style.",
+      "Compared Korean source mapping with MTL paragraph 79; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      80,
+      "Vikir had been tormented by those three through countless practical evaluations in his previous life, so their coordination was painfully familiar.",
+      "Compared Korean source mapping with MTL paragraph 80; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      81,
+      "He remembered most of their countless variations as well.",
+      "Compared Korean source mapping with MTL paragraph 81; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      82,
+      "The triplets of his previous life had been skilled and clever enough to reproduce Cerberus’s attack patterns almost instinctively. Drawing on those memories, Vikir faced the real thing.",
+      "Compared Korean source mapping with MTL paragraph 82; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      83,
+      "Whoosh!",
+      "Compared Korean source mapping with MTL paragraph 83; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      84,
+      "Baskerville Style, First Form—the first fang knocked Cerberus’s bite aside.",
+      "Compared Korean source mapping with MTL paragraph 84; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      85,
+      "Clang!",
+      "Compared Korean source mapping with MTL paragraph 85; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      86,
+      "Baskerville Style, Second Form—the second fang drove halfway into Cerberus’s neck.",
+      "Compared Korean source mapping with MTL paragraph 86; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      87,
+      "Thrust!",
+      "Compared Korean source mapping with MTL paragraph 87; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      88,
+      "Baskerville Style, Third Form—the third fang struck the second and drove it even deeper into Cerberus’s neck.",
+      "Compared Korean source mapping with MTL paragraph 88; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      89,
+      "Vikir’s Baskerville Style resembled the orthodox family swordsmanship, yet it was subtly different.",
+      "Explain that Vikir's post-destruction Baskerville Style is subtly different from the orthodox form."
+    ],
+    [
+      90,
+      "Those who had survived the Age of Destruction possessed something swordsmen of the peaceful era could not imitate.",
+      "Compared Korean source mapping with MTL paragraph 90; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      91,
+      "Traditional sword theory had been completely reinterpreted through the Age of Destruction, with every unnecessary flourish stripped away.",
+      "Restore the Age-of-Destruction stripping-away of unnecessary swordsmanship flourishes."
+    ],
+    [
+      92,
+      "A sword that moved only to kill its opponent.",
+      "Compared Korean source mapping with MTL paragraph 92; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      93,
+      "Extreme practical experience was layered on top of that.",
+      "Compared Korean source mapping with MTL paragraph 93; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      94,
+      "If ordinary swordsmanship was well-marbled beef, Baskerville swordsmanship was dry chicken breast, and Vikir’s current swordsmanship was hard, dried jerky.",
+      "Preserve the beef/chicken/jerky analogy as an intentional comparison of increasingly stripped-down swordsmanship."
+    ],
+    [
+      95,
+      "At its limit, only killing intent remained.",
+      "Compared Korean source mapping with MTL paragraph 95; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      96,
+      "Vikir’s sword possessed an unmistakable purpose.",
+      "Compared Korean source mapping with MTL paragraph 96; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      97,
+      "Boom!",
+      "Repair the MTL profanity corruption; Korean supplies an impact sound, not an expletive."
+    ],
+    [
+      98,
+      "The shortsword slammed into Cerberus’s injured side.",
+      "Compared Korean source mapping with MTL paragraph 98; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      99,
+      "The gaseous aura burst, and Cerberus screamed in pain.",
+      "Compared Korean source mapping with MTL paragraph 99; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      100,
+      "But Cerberus was the guard dog of hell. Damage at this level was nowhere near enough to bring it down.",
+      "Compared Korean source mapping with MTL paragraph 100; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      101,
+      "It drove a claw into the opening beneath the path Vikir’s shortsword had just traced.",
+      "Compared Korean source mapping with MTL paragraph 101; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      102,
+      "Thud!",
+      "Compared Korean source mapping with MTL paragraph 102; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      103,
+      "To break the enemy’s bones, one had to be willing to sacrifice some flesh.",
+      "Render the bone-for-flesh exchange as a combat maxim rather than broken first-person grammar."
+    ],
+    [
+      104,
+      "Vikir’s body buckled under the impact.",
+      "Avoid implying Vikir's spine literally snaps; the following Korean establishes broken ribs rather than a severed back."
+    ],
+    [
+      105,
+      "Even so, his body—tempered by the River Styx—managed to withstand Cerberus’s claw.",
+      "Keep River Styx durability finite: Cerberus's claw is survived once, not rendered harmless."
+    ],
+    [
+      106,
+      "“…But I doubt I could take that twice.”",
+      "Compared Korean source mapping with MTL paragraph 106; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      108,
+      "His organs had not ruptured, but several ribs were definitely broken.",
+      "Restore several broken ribs, directly confirming Chapter 10's resistance was not invulnerability."
+    ],
+    [
+      109,
+      "And to make matters worse—",
+      "Compared Korean source mapping with MTL paragraph 109; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      110,
+      "Snap!",
+      "Compared Korean source mapping with MTL paragraph 110; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      111,
+      "The shortsword finally shattered under the strain of Vikir’s aura.",
+      "Compared Korean source mapping with MTL paragraph 111; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      112,
+      "“Damn.”",
+      "Compared Korean source mapping with MTL paragraph 112; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      113,
+      "It hurt, but an experienced hunter always found the best route even in a situation like this.",
+      "Compared Korean source mapping with MTL paragraph 113; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      114,
+      "“Of the Thirty-Six Stratagems, fleeing is the best.”",
+      "Restore the Thirty-Six Stratagems retreat maxim from Korean."
+    ],
+    [
+      115,
+      "One of the Thirty-Six Stratagems had been devised by the head of the Leviathan Family, the greatest strategist among the Seven Great Families.",
+      "Compared Korean source mapping with MTL paragraph 115; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      116,
+      "The thirty-sixth was simple: when all else failed, retreat was the best policy.",
+      "Translate 走爲上策 by meaning: retreat/run away is the best policy when all else fails."
+    ],
+    [
+      117,
+      "Whoosh—",
+      "Compared Korean source mapping with MTL paragraph 117; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      118,
+      "Vikir spun around and kicked off the ground with all his strength.",
+      "Compared Korean source mapping with MTL paragraph 118; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      119,
+      "Cerberus, sensing victory, immediately gave chase.",
+      "Compared Korean source mapping with MTL paragraph 119; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      120,
+      "[Grrrroar!]",
+      "Resolve historical audit ED-00084 by repairing malformed roar brackets."
+    ],
+    [
+      121,
+      "With its speed, Cerberus would have caught him almost instantly if not for the severe wounds along its side.",
+      "Compared Korean source mapping with MTL paragraph 121; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      122,
+      "Vikir fled through the sea of trees, silently grateful to the nameless barbarian tribe beyond the mountains.",
+      "Repair the MTL water-disaster homonym as the sea of trees and retain gratitude to the unknown tribe."
+    ],
+    [
+      123,
+      "Soon the boundary he had crossed earlier came into view.",
+      "Compared Korean source mapping with MTL paragraph 123; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      124,
+      "Fortunately, there were no Guide Hounds nearby.",
+      "Use Guide Hounds consistently at the boundary."
+    ],
+    [
+      125,
+      "Vikir vaulted over the barbed wire marking the boundary and kept running.",
+      "Compared Korean source mapping with MTL paragraph 125; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      126,
+      "Cerberus smashed through the wire and wooden stakes, thrusting all three heads toward Vikir’s back.",
+      "Compared Korean source mapping with MTL paragraph 126; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      127,
+      "[Bark! Bark! Bark!]",
+      "Compared Korean source mapping with MTL paragraph 127; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      128,
+      "What could be more relentless than a hound chasing its prey?",
+      "Compared Korean source mapping with MTL paragraph 128; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      129,
+      "Cerberus opened its mouths in triumph.",
+      "Compared Korean source mapping with MTL paragraph 129; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      130,
+      "The distance vanished. In another moment it would tear into its prey’s flesh and crush his bones.",
+      "Compared Korean source mapping with MTL paragraph 130; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      131,
+      "Thump!",
+      "Compared Korean source mapping with MTL paragraph 131; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      132,
+      "If only the ground had not suddenly given way beneath it.",
+      "Compared Korean source mapping with MTL paragraph 132; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      133,
+      "Crack—!",
+      "Compared Korean source mapping with MTL paragraph 133; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      134,
+      "The earth collapsed.",
+      "Compared Korean source mapping with MTL paragraph 134; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      135,
+      "Cerberus charged onto a patch of flat ground disguised beneath dry straw and plunged into the pit below.",
+      "Restore the straw-disguised pit trap set up in Chapter 9."
+    ],
+    [
+      136,
+      "Thrown off balance by the trap, Cerberus planted its feet and tried to leap back out.",
+      "Compared Korean source mapping with MTL paragraph 136; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      137,
+      "But that was impossible.",
+      "Compared Korean source mapping with MTL paragraph 137; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      138,
+      "Thud! Thud! Thud!",
+      "Compared Korean source mapping with MTL paragraph 138; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      139,
+      "Dozens of upward-pointing wooden stakes drove into its body.",
+      "Compared Korean source mapping with MTL paragraph 139; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      140,
+      "[GRAAAH!]",
+      "Compared Korean source mapping with MTL paragraph 140; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      141,
+      "A tearing scream burst from all three of Cerberus’s heads.",
+      "Compared Korean source mapping with MTL paragraph 141; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      142,
+      "The bottom of Vikir’s pit bristled with countless sharpened wooden stakes.",
+      "Compared Korean source mapping with MTL paragraph 142; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      143,
+      "Most shattered against Cerberus’s tough hide, but some managed to pierce through.",
+      "Resolve historical audit ED-00085: complete the stake-penetration sentence."
+    ],
+    [
+      144,
+      "They drove into its body and opened serious wounds.",
+      "Preserve the second half of the Korean wound line in its separate recovered source slot."
+    ],
+    [
+      145,
+      "Most of those wounds clustered around the inner flank where the earlier arrow injury had already torn deep.",
+      "Compared Korean source mapping with MTL paragraph 145; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      146,
+      "“Welcome to the Cradle of Needles.”",
+      "Use Korean's deliberate trap pun 'Cradle of Needles', distinct from the Cradle of Swords ritual."
+    ],
+    [
+      147,
+      "Vikir gave himself a brief, dry smile.",
+      "Compared Korean source mapping with MTL paragraph 147; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      148,
+      "He had originally built the trap in case other monsters such as Hellhounds chased him.",
+      "Compared Korean source mapping with MTL paragraph 148; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      149,
+      "The stakes had only been meant to slow their movement a little.",
+      "Compared Korean source mapping with MTL paragraph 149; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      150,
+      "Against Cerberus, however, the trap had produced an unexpected harvest.",
+      "Restore the unexpected usefulness/harvest of a trap originally meant only to slow pursuers."
+    ],
+    [
+      152,
+      "Rattle…",
+      "Compared Korean source mapping with MTL paragraph 152; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      153,
+      "Cerberus snapped the stakes embedded in its flank and mouths, its entire body trembling violently.",
+      "Compared Korean source mapping with MTL paragraph 153; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      154,
+      "Rage shook it, but something else was making its body tremble even more.",
+      "Compared Korean source mapping with MTL paragraph 154; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      155,
+      "Bloody Beans!",
+      "Continue Bloody Bean terminology from Chapters 7–10."
+    ],
+    [
+      156,
+      "Vikir had boiled Bloody Beans and soaked the wooden stakes in the liquid, letting the cacao compounds seep into their tips.",
+      "Restore the boiled-Bloody-Bean infusion applied to the wooden stakes."
+    ],
+    [
+      157,
+      "Cerberus was a canine demonic creature too. Through the open wounds, a large dose of chocolate entered directly into its body.",
+      "Explain chocolate compounds entering Cerberus directly through the stake wounds."
+    ],
+    [
+      158,
+      "But as expected of a top-tier monster, it did not collapse immediately.",
+      "Compared Korean source mapping with MTL paragraph 158; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      159,
+      "Foam bubbled from its mouths, burning excrement leaked from behind, and the heavy scent of chocolate and coffee filled the air.",
+      "Compared Korean source mapping with MTL paragraph 159; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      160,
+      "Even then, all three heads remained upright, staring fixedly at Vikir.",
+      "Compared Korean source mapping with MTL paragraph 160; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      161,
+      "Vikir emptied his pouch and drew out every Bloody Bean he had left.",
+      "Compared Korean source mapping with MTL paragraph 161; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      162,
+      "Rattle! Rattle! Rattle!",
+      "Resolve historical audit ED-00088 by replacing duplicated/fused bean sounds with a clean rattle sequence."
+    ],
+    [
+      163,
+      "The beans flew toward Cerberus’s three open mouths.",
+      "Compared Korean source mapping with MTL paragraph 163; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      164,
+      "Almost every bean Vikir threw landed inside one of the mouths of the Cerberus slowed by the stakes.",
+      "Preserve that almost all thrown beans enter Cerberus's three open mouths after the stakes slow it."
+    ],
+    [
+      165,
+      "As a result, Cerberus’s movements grew slower and slower.",
+      "Compared Korean source mapping with MTL paragraph 165; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      166,
+      "Crack! Snap!",
+      "Compared Korean source mapping with MTL paragraph 166; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      167,
+      "At last Cerberus broke the remaining stakes embedded in its body and drove Vikir into a corner of the pit.",
+      "Compared Korean source mapping with MTL paragraph 167; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      168,
+      "By then, the pouch of Bloody Beans was empty.",
+      "Compared Korean source mapping with MTL paragraph 168; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      169,
+      "Cerberus was a wreck, but it still had enough strength left for one final leap at its prey’s throat.",
+      "Compared Korean source mapping with MTL paragraph 169; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      170,
+      "“…”",
+      "Preserve Vikir's silent calculation before Cerberus's final leap."
+    ],
+    [
+      171,
+      "Knowing that, the cornered Vikir watched it with extreme care.",
+      "Compared Korean source mapping with MTL paragraph 171; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      173,
+      "Vikir lunged forward as well, gripping one of his wooden spears.",
+      "Compared Korean source mapping with MTL paragraph 173; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      174,
+      "Snap!",
+      "Restore the hunter-thrown spear/stake action leading to the hidden venom payoff."
+    ],
+    [
+      175,
+      "The spear thrown by the hunter cut through the air and grazed Cerberus’s body.",
+      "Compared Korean source mapping with MTL paragraph 175; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      176,
+      "It seemed to slip briefly into the wound on its side before popping helplessly back out.",
+      "Compared Korean source mapping with MTL paragraph 176; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      177,
+      "Without the existing arrow wound, it would have bounced off entirely.",
+      "Compared Korean source mapping with MTL paragraph 177; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      178,
+      "Cerberus bared its fangs and charged the seemingly defenseless Vikir.",
+      "Compared Korean source mapping with MTL paragraph 178; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      179,
+      "Its six eyes burned even brighter at the thought that this infuriating prey was finally within reach.",
+      "Compared Korean source mapping with MTL paragraph 179; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      180,
+      "But—",
+      "Compared Korean source mapping with MTL paragraph 180; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      181,
+      "Stagger!",
+      "Compared Korean source mapping with MTL paragraph 181; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      182,
+      "Cerberus’s charging body suddenly lurched.",
+      "Compared Korean source mapping with MTL paragraph 182; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      183,
+      "Startled by the loss of balance, it steadied itself and took another step.",
+      "Keep the first recovery step after Cerberus loses balance."
+    ],
+    [
+      184,
+      "Stagger—",
+      "Compared Korean source mapping with MTL paragraph 184; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      185,
+      "The second step was off as well.",
+      "Compared Korean source mapping with MTL paragraph 185; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      186,
+      "The third was no better. On the fourth its legs bent at a strange angle; on the fifth it collapsed.",
+      "Compared Korean source mapping with MTL paragraph 186; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      187,
+      "On the sixth it dragged itself forward once more, and on the seventh it fell flat, unable even to crawl.",
+      "Compared Korean source mapping with MTL paragraph 187; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      188,
+      "Seven steps.",
+      "Preserve the seven-step countdown that foreshadows the venom clue."
+    ],
+    [
+      189,
+      "That was all Cerberus managed while approaching Vikir.",
+      "Compared Korean source mapping with MTL paragraph 189; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      190,
+      "And then it was over.",
+      "Compared Korean source mapping with MTL paragraph 190; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      191,
+      "Thud!",
+      "Compared Korean source mapping with MTL paragraph 191; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      192,
+      "Its three foam-covered heads struck the red earth and never moved again.",
+      "Compared Korean source mapping with MTL paragraph 192; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      193,
+      "Only then did Vikir sit down with his back against the cliff.",
+      "Compared Korean source mapping with MTL paragraph 193; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      194,
+      "“…So the work I hid away finally paid off.”",
+      "Restore the meaning that Vikir's hidden preparation finally paid off."
+    ],
+    [
+      195,
+      "The hunter’s gaze shifted to the wooden spear he had thrown moments earlier.",
+      "Compared Korean source mapping with MTL paragraph 195; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      196,
+      "It had only grazed Cerberus.",
+      "Compared Korean source mapping with MTL paragraph 196; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      197,
+      "But this spear was different from the others.",
+      "Compared Korean source mapping with MTL paragraph 197; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      198,
+      "Two small, sharp thorns had been fixed to its tip.",
+      "Place the two small sharp thorns on the thrown spear tip."
+    ],
+    [
+      199,
+      "A dark aura still clung faintly to those dried thorns.",
+      "Compared Korean source mapping with MTL paragraph 199; repair English grammar, tense, punctuation or phrasing while preserving event and speaker."
+    ],
+    [
+      200,
+      "They were venomous snake fangs whose poison could make even seven steps impossible.",
+      "Tie the venom clue to being unable to make even seven steps."
+    ],
+    [
+      201,
+      "The Bloody Mamba’s venom still lingered within them.",
+      "Preserve the exact endpoint: Bloody Mamba venom still lingers on the hidden thorns."
+    ]
+  ]
+}
