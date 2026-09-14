@@ -2,6 +2,18 @@
 
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
+## 2026-09-14 — Chapter 6 reconstructed and accepted
+
+**Result: 6 chapters editorially accepted; Chapter 7 is next.** Chapter 6 retains all 124 MTL paragraphs, records 118 explicit edits, accounts for all 124 Korean physical lines, and resolves all six QA items.
+
+- Removed the MTL-only advertisement insertion without deleting a paragraph, declared the three combined Korean-line mappings, and restored the Korean scene break after Barrymore identifies Vikir.
+- Standardized Morgue Family and Red Fang Mountain with the witness variants documented; repaired the two-suns/multicolored-cloud omen, written-exam wording and Chapter 5 injury aftermath.
+- Restored the Age-of-Destruction explanation for mana concealment, the triplets' loss of fighting spirit, the three-dull-blades metaphor, and the Baskerville creed. The corrupt form-of-address exchange is explicitly adjudicated as `Patriarch` versus `Father`, supported by established relationship continuity rather than presented as literal Korean wording.
+- Final Chromium rendering at desktop/mobile widths confirmed 124 paragraphs, one scene break, three italic thoughts, 1.65 line height, correct dialogue/narration indentation and no horizontal overflow. Four browser captures were committed as presentation evidence.
+- Preserved-source verification, deterministic draft/preview checks, tracker checks, the full unittest suite and whitespace checks passed before the acceptance record was generated.
+
+**Next:** reconstruct Chapter 7 from Hugo's satisfaction with Vikir, preserving Chapter 6's exact endpoint and continuing Korean-plus-MTL review. Whole-EPUB release remains pending.
+
 ## 2026-09-14 — Chapter 5 reconstructed and accepted
 
 **Result: 5 chapters editorially accepted; Chapter 6 is next.** Chapter 5 retains all 183 MTL paragraphs, records 179 explicit edits, accounts for all 188 Korean physical lines, and resolves all six QA items.

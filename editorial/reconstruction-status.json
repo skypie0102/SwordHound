@@ -35,12 +35,10 @@
     "acceptance_evidence": "qa/acceptance/chapter-0005.json"
   },
   "6": {
-    "status": "qa_in_progress",
+    "status": "qa_accepted",
     "draft": "manuscript/drafts/chapter-0006.md",
     "qa_report": "qa/chapter-0006.md",
-    "open_issues": [
-      "CH006-06"
-    ],
-    "acceptance_evidence": null
+    "open_issues": [],
+    "acceptance_evidence": "qa/acceptance/chapter-0006.json"
   }
 }

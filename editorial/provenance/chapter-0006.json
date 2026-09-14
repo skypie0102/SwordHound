@@ -3,7 +3,7 @@
   "source": "source/chapters/chapter-006.xhtml",
   "source_sha256": "e3d04aedc45bede6f35674fba1189ac452f76189c94802afe3fb818271eff938",
   "draft": "manuscript/drafts/chapter-0006.md",
-  "draft_sha256": "a715a3b0e09d50b59c7e94d2f4dd4ba89d4e7c751dd9248abefe776363c8195e",
+  "draft_sha256": "7e93ffbda3368aeffe7cc44cacda6a27de8d8e17b448738139d8e7bc7f1714dc",
   "paragraph_count": 124,
   "changed_paragraphs": 118,
   "paragraphs": [
@@ -15,9 +15,7 @@
       "draft_text": "John Barrymore.",
       "changed": false,
       "rationale": null,
-      "open_issues": [
-        "CH006-06"
-      ],
+      "open_issues": [],
       "korean_lines": [
         4
       ]
@@ -1286,11 +1284,11 @@
     {
       "paragraph": 99,
       "source_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
-      "draft_text_sha256": "ab494d856cb846846894e9d609f44035a288d6d149ff7ee80fecfe207847ae91",
+      "draft_text_sha256": "063cb34fad7582c34dfbc441f090c39369356befe94d63a1809d0e0dda02872d",
       "source_text": "“…….”",
-      "draft_text": "“… ”",
+      "draft_text": "“…”",
       "changed": true,
-      "rationale": "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 99.",
+      "rationale": "Normalize the silent-response ellipsis after the complete bilingual prose read; remove the accidental interior space.",
       "open_issues": [],
       "korean_lines": [
         99
@@ -1585,11 +1583,11 @@
     {
       "paragraph": 122,
       "source_text_sha256": "3ac068b8c931bc71cfc6e16d0f84600864f8b11d5a5f1e3fabaeb5f2a3c644da",
-      "draft_text_sha256": "ab494d856cb846846894e9d609f44035a288d6d149ff7ee80fecfe207847ae91",
+      "draft_text_sha256": "063cb34fad7582c34dfbc441f090c39369356befe94d63a1809d0e0dda02872d",
       "source_text": "“…….”",
-      "draft_text": "“… ”",
+      "draft_text": "“…”",
       "changed": true,
-      "rationale": "Repair English tense, phrasing, punctuation, attribution or perspective after comparing Korean line 122.",
+      "rationale": "Normalize the silent-response ellipsis after the complete bilingual prose read; remove the accidental interior space.",
       "open_issues": [],
       "korean_lines": [
         122
@@ -1616,9 +1614,7 @@
       "draft_text": "The little boy before him was so endearing it made his chest ache.",
       "changed": true,
       "rationale": "Preserve the Korean endpoint that the child is endearing enough to make Hugo’s chest ache; do not import later reconciliation.",
-      "open_issues": [
-        "CH006-06"
-      ],
+      "open_issues": [],
       "korean_lines": [
         124
       ]
@@ -1627,8 +1623,8 @@
   "scene_breaks_after": [
     66
   ],
-  "editorial_accepted": false,
-  "acceptance_evidence": null,
+  "editorial_accepted": true,
+  "acceptance_evidence": "qa/acceptance/chapter-0006.json",
   "korean_source": "source/korean/chapters/006.txt",
   "korean_sha256": "98f2e69064d358227ce68d32c0f576c20b1d007ad5c56d0b0afa244e4a0cd567",
   "korean_alignment": "editorial/korean-alignment/chapter-0006.json"

@@ -1,0 +1,27 @@
+{
+  "chapter": 6,
+  "scope": "editorial_only",
+  "review_basis": "korean_plus_mtl",
+  "draft_sha256": "7e93ffbda3368aeffe7cc44cacda6a27de8d8e17b448738139d8e7bc7f1714dc",
+  "mtl_sha256": "e3d04aedc45bede6f35674fba1189ac452f76189c94802afe3fb818271eff938",
+  "korean_sha256": "98f2e69064d358227ce68d32c0f576c20b1d007ad5c56d0b0afa244e4a0cd567",
+  "edit_set_sha256": "a08b9fa66f1658662fc9d684fe5ec133d0c586a1e6332e677b7b0fa8cfd14f7e",
+  "decisions_sha256": "ac6ebc8e4a6dfc7d5bc0be3efda5a08bbefe44c08b27dc6d2ab47e291b6f584b",
+  "alignment_sha256": "61f114ab0ed129fd7feb2eccb0c1c024946c2f4188d3b075ee88cbec2946f802",
+  "evidence_sha256": {
+    "editorial/continuity/chapter-0006.md": "69b5ab66409ef7e57b7122a6456e6e7cf04f65ff4a7361dba4eb1da2ad66dcc8",
+    "editorial/korean-alignment/chapter-0006.json": "cbc6000b7724264f25c193a16621ee0914a08c5051918d2b3b8863fe478ecef8",
+    "editorial/reviews/chapter-0006-final.md": "4a624734d2cc99884b9f19cc03163f587016ca1be557577d48fb93346490c82e",
+    "editorial/reviews/chapter-0006.md": "7168234209fbb4ff08e2a768445824786747c50b7979001a7d961f560ea6f4e5",
+    "preview/chapter-0006.html": "8a4b3aa7191225ab617b4db3939ab63b9450f3d10a33cbbe985f226815a09e24",
+    "qa/chapter-0006-validation.md": "6f30368aec62ddcbc8b14964501d666c62768fba2029c4731e0efd1fd6bc74d8",
+    "qa/layout/chapter-0006-desktop-father.png": "c816459a36a4362436b3f8e6c7f7f436bce3f5753192f72ea99db88cfb649633",
+    "qa/layout/chapter-0006-desktop-omen.png": "3379a0255d131a7980597ff7695089d3718fdf7e5ee88551b1180326a7810ee1",
+    "qa/layout/chapter-0006-desktop-opening.png": "68044b481fd7d09d6a556173d61ac6c145a4325428b571c3b412072cbd37a504",
+    "qa/layout/chapter-0006-mobile-ending.png": "d764f8b42577180c9e1b28007e5f41b24dc2ba1c603f71564835aec7a7b9f154",
+    "qa/layout/chapter-0006.json": "5e2dd376bec853af07ea6a1e59a92060dc87cc8bf46b0c7ea77fc56f466bdfdf"
+  },
+  "review_date": "2026-09-14",
+  "reviewer": "Codex editorial/QA agent; no independent human review claimed",
+  "release_status": "epub_not_built"
+}

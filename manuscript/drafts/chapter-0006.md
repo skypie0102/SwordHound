@@ -1,6 +1,6 @@
 # Chapter 6: The Baskerville Dog (3)
 
-> Reconstruction draft — QA not accepted. See [review](../../qa/chapter-0006.md). Paragraph markers refer to the unchanged source.
+> Editorially accepted reconstruction — EPUB release pending. See [review](../../qa/chapter-0006.md). Paragraph markers refer to the unchanged source.
 
 <!-- source-p:001 -->
 John Barrymore.
@@ -299,7 +299,7 @@ Hugo frowned.
 “What about their minds?”
 
 <!-- source-p:099 -->
-“… ”
+“…”
 
 <!-- source-p:100 -->
 “Since that day, they eat separately, sleep separately, and barely speak to one another. Their teamwork used to be excellent, but now they’ve completely fallen apart.”
@@ -368,7 +368,7 @@ Wasn’t that the creed of Baskerville?
 A moment passed.
 
 <!-- source-p:122 -->
-“… ”
+“…”
 
 <!-- source-p:123 -->
 The corners of Hugo Le Baskerville’s mouth began to twitch.
