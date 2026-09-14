@@ -26,5 +26,14 @@
     "qa_report": "qa/chapter-0004.md",
     "open_issues": [],
     "acceptance_evidence": "qa/acceptance/chapter-0004.json"
+  },
+  "5": {
+    "status": "qa_in_progress",
+    "draft": "manuscript/drafts/chapter-0005.md",
+    "qa_report": "qa/chapter-0005.md",
+    "open_issues": [
+      "CH005-06"
+    ],
+    "acceptance_evidence": null
   }
 }

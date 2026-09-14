@@ -1,0 +1,54 @@
+{
+  "chapter": 5,
+  "review_date": "2026-09-14",
+  "preview": "preview/chapter-0005.html",
+  "inspection": "Rendered from the Chapter 5 final prose candidate and visually inspected.",
+  "viewports": {
+    "desktop": {
+      "width": 1100,
+      "height": 900,
+      "paragraph_count": 183,
+      "scene_break_count": 0,
+      "italic_count": 2,
+      "dialogue_count": 61,
+      "narrative_count": 122,
+      "body_line_height": "31.35px",
+      "dialogue_indent": "28.5px",
+      "narrative_indent": "0px",
+      "scroll_width": 1100,
+      "client_width": 1100,
+      "horizontal_overflow": false,
+      "document_height": 9684
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "paragraph_count": 183,
+      "scene_break_count": 0,
+      "italic_count": 2,
+      "dialogue_count": 61,
+      "narrative_count": 122,
+      "body_line_height": "29.7px",
+      "dialogue_indent": "27px",
+      "narrative_indent": "0px",
+      "scroll_width": 390,
+      "client_width": 390,
+      "horizontal_overflow": false,
+      "document_height": 11298
+    }
+  },
+  "screenshots": {
+    "desktop_opening": "qa/layout/chapter-0005-desktop-opening.png",
+    "desktop_breath": "qa/layout/chapter-0005-desktop-breath.png",
+    "desktop_maxim": "qa/layout/chapter-0005-desktop-maxim.png",
+    "mobile_ending": "qa/layout/chapter-0005-mobile-ending.png"
+  },
+  "result": "pass",
+  "notes": [
+    "All 183 paragraphs rendered; no scene break is present in either source witness.",
+    "Dialogue indentation is 1.5em; narration remains unindented.",
+    "Two full-paragraph thoughts are italicized.",
+    "No horizontal overflow at 1100px desktop or 390px mobile widths.",
+    "Opening, ten-minute breath-hold, restored Hugo maxim, and mobile ending were visually inspected."
+  ]
+}
