@@ -1,12 +1,12 @@
 # Title-family review — The Protagonist of Hunting (Chapters 60–62)
 
-Status: **editorial reconstruction complete; 453/453 recovered source slots; presentation/layout QA deferred to complete-EPUB work**.
+Status: **editorial reconstruction complete; 452/452 recovered source slots; presentation/layout QA deferred to complete-EPUB work**.
 
 ## Provenance
 
 - Recovered English witnesses:
   - `source/chapters/chapter-060.xhtml` — 147 slots
-  - `source/chapters/chapter-061.xhtml` — 163 slots
+  - `source/chapters/chapter-061.xhtml` — 162 slots
   - `source/chapters/chapter-062.xhtml` — 143 slots
 - The repository's Korean witness set ends at `source/korean/chapters/054.txt`; therefore **all three chapters in this family are MTL-only editorial reconstructions**.
 - Historical audit numbering is offset by one for this section: its Chapters 61–63 correspond by title/content to recovered Chapters 60–62. Audit findings were matched by title and quoted text, not blindly by chapter number.
@@ -31,8 +31,8 @@ Status: **editorial reconstruction complete; 453/453 recovered source slots; pre
 ## Staging gate
 
 - Chapter 60: **147/147**
-- Chapter 61: **163/163**
+- Chapter 61: **162/162**
 - Chapter 62: **143/143**
-- Family total: **453/453**
+- Family total: **452/452**
 
 Next title family: **Unfair Trade**, beginning at Chapter 63.
