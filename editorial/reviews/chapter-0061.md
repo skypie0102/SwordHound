@@ -2,7 +2,7 @@
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-061.xhtml`, **163** paragraph slots. No Korean Chapter 61 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-061.xhtml`, **162** paragraph slots. No Korean Chapter 61 witness exists in the repository.
 
 ## Editorial decisions
 
@@ -24,4 +24,4 @@ The historical audit numbers this title part as **Chapter 62: The Protagonist of
 - `ED-00483`, `ED-00484`, `ED-00488` — fragmentary MTL narration: rewritten as complete prose while preserving the same source slots.
 - `ED-00485`, `ED-00486`, `ED-00487` — spacing in the Piranha Nattereri information window: normalized.
 
-Source-slot staging: `editorial/staging/chapter-0061-final-text.txt` — **163/163** slots.
+Source-slot staging: `editorial/staging/chapter-0061-final-text.txt` — **162/162** slots.
