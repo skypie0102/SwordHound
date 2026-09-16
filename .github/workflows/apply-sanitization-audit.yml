@@ -37,14 +37,14 @@ jobs:
 
       - name: Reopen affected accepted chapters
         run: |
-          python -m tools.apply_sanitization_audit_v2 reopen
+          python -m tools.apply_sanitization_audit_v3 reopen
           git add editorial/reconstruction-status.json \
             qa/chapter-0001.json qa/chapter-0002.json qa/chapter-0008.json \
             qa/chapter-0010.json qa/chapter-0011.json qa/chapter-0013.json
           git commit -m "qa: reopen sanitized accepted chapters"
 
       - name: Apply corrections, regenerate, and re-accept
-        run: python -m tools.apply_sanitization_audit_v2 apply
+        run: python -m tools.apply_sanitization_audit_v3 apply
 
       - name: Run deterministic editorial QA
         run: |
