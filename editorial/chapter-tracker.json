@@ -1,8 +1,25 @@
 {
-  "notice": "Reset 2026-09-16 after source-authority migration. Chinese raws are primary. Prior Korean-assisted reconstruction states are superseded and remain only in Git history. Run tools/rebuild_editorial_tracking.py to materialize per-chapter records as work resumes.",
+  "notice": "Chinese-first reconstruction tracker. Prior Korean-assisted reconstruction states are superseded and remain only in Git history.",
   "target_chapter_count": 500,
-  "accepted_count": 0,
+  "accepted_count": 1,
   "staged_count": 0,
-  "next_chapter": 1,
-  "chapters": []
+  "next_chapter": 2,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Hellhound (1)",
+      "primary_source": "source/chinese/chapters/001.txt",
+      "primary_source_sha": "fa9dfcf2f15c575d3a5971a93b9951d1ae0d0431",
+      "raw_status": "single",
+      "english_reference": "source/chapters/chapter-001.xhtml",
+      "english_reference_alignment": "verified_by_title_and_content",
+      "status": "accepted",
+      "draft": "manuscript/drafts/chapter-0001.md",
+      "qa": "qa/chapter-0001.md",
+      "acceptance": "qa/acceptance/chapter-0001.json",
+      "provenance": "editorial/provenance/chapter-0001.json",
+      "open_issues": [],
+      "accepted_date": "2026-09-16"
+    }
+  ]
 }
