@@ -31,7 +31,7 @@ A bastard. The son of a concubine.
 
 That was why he bore the middle name ‘Van’.
 
-Unlike the legitimate children of the main family, who bore the clan’s main-line name particles, Vikir had been marked as an outsider. Because of that, he had been forced to work hundreds of times harder than everyone else.
+Unlike the legitimate children of the main family, who bore ‘Le’ or ‘La’, Vikir carried ‘Van’, marking him as an outsider. Because of that, he had been forced to work hundreds of times harder than everyone else.
 
 But in the end, none of it brought him a good result.
 
