@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "scope": {
+    "canonical_chapters": [14, 54],
+    "audit_type": "sanitation_source_fidelity",
+    "authority": "korean_raw",
+    "comparison_target": "historical_staged_reconstruction"
+  },
+  "status": "sanitation_focused_review_complete",
+  "confirmed_affected_chapters": [22, 24, 28, 34, 35, 39, 43, 45, 46, 48, 49, 52, 53, 54],
+  "confirmed_chapter_count": 14,
+  "rule": "Preserve source-supported intensity and specificity. Do not euphemize, omit, or generalize harsh, crude, sexual, bodily, degrading, or anatomical details; do not intensify beyond the Korean evidence.",
+  "findings": [
+    {
+      "id": "SAN-22-01",
+      "chapter": 22,
+      "category": ["sexual", "physical_description", "euphemistic_generalization"],
+      "korean_path": "source/korean/chapters/022.txt",
+      "staging_branch": "production/batch-camus-morgue-0020-0025",
+      "staging_path": "editorial/staging/chapter-0022-final-text.txt",
+      "korean_evidence": [
+        "미인계 전술에도 능숙했다",
+        "그녀의 글래머러스한 몸매는 오만한 황실 가족 조차도 매료시킬 만큼"
+      ],
+      "current_problem": "Staging generalizes explicit seduction tactics and the physical-figure statement into vague charm/intelligence and drawing royalty into her orbit.",
+      "required_restoration": [
+        "State directly that future-adult Camus was skilled in seduction / beauty-trap tactics.",
+        "Retain that her glamorous / voluptuous figure could captivate even the Imperial Family.",
+        "Do not add erotic detail beyond the Korean."
+      ]
+    },
+    {
+      "id": "SAN-24-01",
+      "chapter": 24,
+      "category": ["nudity", "bodily_detail", "omission"],
+      "korean_path": "source/korean/chapters/024.txt",
+      "staging_branch": "production/batch-camus-morgue-0020-0025",
+      "staging_path": "editorial/staging/chapter-0024-final-text.txt",
+      "korean_evidence": [
+        "그녀의 얼굴은 눈물과 콧물로 범벅이 되었을 뿐만 아니라, 사람들 앞에서 속옷 차림으로 노출될 처지였다.",
+        "과거에 어머니에게 말대꾸했다는 이유로 옷이 벗겨진 채 집에서 쫓겨났던 경험",
+        "비키르. 그는 속옷만 입은 채 카밀 앞에 서 있었다.",
+        "품위를 잃지 않고 벌거벗을 수 있다는 것은 아이의 특권이다.",
+        "아이들이 벌거벗고 뛰어다니는 것은 심리적으로 큰 고통을 주지 않았다.",
+        "발가벗은 채 피를 흘리고 서 있는 비키르",
+        "여전히 당당하게 알몸으로 서 있는 젊은 바스커빌"
+      ],
+      "current_problem": "Staging removes tears-and-snot specificity, omits that the earlier punishment involved stripping, replaces underwear/naked wording with outer-garment/half-dressed/barely-dressed language, and avoids stating that Vikir is naked after the smoke clears.",
+      "required_restoration": [
+        "Restore tears-and-snot wording.",
+        "Restore the stripped-and-driven-out punishment memory.",
+        "State that Vikir is left in only his underwear after covering Camus.",
+        "Use naked where the Korean uses 벌거벗/발가벗/알몸.",
+        "Restore the post-smoke reveal and Baskerville reaction to Vikir standing naked, using neutral non-erotic prose."
+      ]
+    },
+    {
+      "id": "SAN-28-01",
+      "chapter": 28,
+      "category": ["crude_language", "bodily_function", "euphemism"],
+      "korean_path": "source/korean/chapters/028.txt",
+      "staging_branch": "production/batch-special-laws-of-vikir-0028-0031",
+      "staging_path": "editorial/staging/chapter-0028-final-text.txt",
+      "korean_evidence": ["파리를 잡으려면 먼저 똥을 좀 놓아둬야죠."],
+      "current_problem": "Staging changes shit/dung into the abstract 'something that draws flies'.",
+      "required_restoration": ["Preserve the crude metaphor directly, e.g. 'If you want to catch flies, you have to put out some shit first.'"]
+    },
+    {
+      "id": "SAN-34-01",
+      "chapter": 34,
+      "category": ["torture", "vomiting", "urination", "intensity_loss"],
+      "korean_path": "source/korean/chapters/034.txt",
+      "staging_branch": "production/batch-the-social-club-0032-0034",
+      "staging_path": "editorial/staging/chapter-0034-final-text.txt",
+      "korean_evidence": [
+        "끔찍한 고문 도구들",
+        "나조차도 저런 도구를 보면 먹은 걸 다 토할 것 같아.",
+        "저들의 고문 앞에서는 악마 포로조차도 군사 기밀을 털어놓을 정도였지.",
+        "지옥의 악마조차도 공포에 질려 오줌을 지릴 정도였다."
+      ],
+      "current_problem": "Staging shifts torture to interrogation/instruments, reduces the veteran's vomiting reaction to being unsettled, and drops the demons pissing themselves in fear.",
+      "required_restoration": [
+        "Use torture for 고문.",
+        "Restore the veteran's statement that looking at the tools makes him feel like vomiting everything he ate.",
+        "Restore that even demons from hell would piss themselves in fear before those torture techniques."
+      ]
+    },
+    {
+      "id": "SAN-35-01",
+      "chapter": 35,
+      "category": ["slavery", "nudity", "sexual_exploitation", "dehumanization"],
+      "korean_path": "source/korean/chapters/035.txt",
+      "staging_branch": "production/batch-slave-auction-0035-0037",
+      "staging_path": "editorial/staging/chapter-0035-final-text.txt",
+      "korean_evidence": [
+        "비밀리에 납치되어 잔혹하게 길들여졌으며, 절대적으로 복종적이고 도망치거나 저항하지 않습니다.",
+        "무대 위의 벌거벗은 야만인 노예",
+        "그녀를 침대에서 시중들게 할지, 아니면 검투사로 만들지!",
+        "백만! 눈 감고 백만! 고기 값도 괜찮아! 고기 값만 생각하면!"
+      ],
+      "current_problem": "Staging softens brutal conditioning, omits naked, replaces bed service with hard labor/guard duty, and replaces meat-value degradation with labor value.",
+      "required_restoration": [
+        "Retain brutally tamed/broken-in conditioning and absolute obedience/no escape or resistance.",
+        "Restore naked barbarian slave.",
+        "Restore 'serve you in bed, or make her a gladiator'.",
+        "Restore the one-million meat-value degradation without adding extra violence."
+      ]
+    },
+    {
+      "id": "SAN-39-01",
+      "chapter": 39,
+      "category": ["torture", "euphemism"],
+      "korean_path": "source/korean/chapters/039.txt",
+      "staging_branch": "production/batch-sponsored-0038-0039",
+      "staging_path": "editorial/staging/chapter-0039-final-text.txt",
+      "korean_evidence": [
+        "온갖 잔혹하고 비열하며 굴욕적인 고문을 당했습니다.",
+        "그 고문의 세부적인 내용은…"
+      ],
+      "current_problem": "Staging substitutes 'abuse' for explicit torture in this sentence.",
+      "required_restoration": ["Use torture directly in both references; do not invent the deliberately unspoken details."]
+    },
+    {
+      "id": "SAN-43-01",
+      "chapter": 43,
+      "category": ["nudity", "bodily_detail", "omission"],
+      "korean_path": "source/korean/chapters/043.txt",
+      "staging_branch": "production/batch-the-fiancee-0043-0045",
+      "staging_path": "editorial/staging/chapter-0043-final-text.txt",
+      "korean_evidence": [
+        "과거 비키르 가 알몸의 카미유 에게 둘러주었던 바로 그 옷이었다.",
+        "망토에서는 여전히 그날의 땀 냄새가 희미하게 남아 있었다."
+      ],
+      "current_problem": "Staging removes naked and generalizes the faint smell of sweat into 'a faint trace of that day'.",
+      "required_restoration": ["Retain naked Camus and the faint smell of sweat from that day."]
+    },
+    {
+      "id": "SAN-45-01",
+      "chapter": 45,
+      "category": ["nudity", "memory", "systematic_generalization"],
+      "korean_path": "source/korean/chapters/045.txt",
+      "staging_branch": "production/batch-the-fiancee-0043-0045",
+      "staging_path": "editorial/staging/chapter-0045-final-text.txt",
+      "korean_evidence": [
+        "모두 앞에서 알몸을 드러내려 하고 있었다.",
+        "그 여자들 앞에서 발가벗은 채 울고 싶지 않았다.",
+        "그는 자신의 옷을 벗어 카밀 에게 덮어주었고, 자신은 알몸이었다.",
+        "당당하게 알몸을 드러내고 있었다.",
+        "카밀은 그 남자의 알몸을 바라보며 심장이 빠르게 뛰는 것을 느꼈다.",
+        "처음으로 이성 동료의 나체를 본 순간이었다.",
+        "왜 갑자기 여덟 살 때 봤던 그 남자의 알몸이 머릿속에 떠올랐을까?",
+        "몸도 많이 변했죠, 그렇죠?"
+      ],
+      "current_problem": "Staging repeatedly replaces naked with exposed/humiliation/incident, invents a cloak/outer garment so Vikir is never naked, and deletes the later direct memory of his naked body.",
+      "required_restoration": [
+        "Reconstruct the sequence directly from Korean using neutral prose.",
+        "Preserve each source-supported naked-state fact.",
+        "Restore the later memory as specifically a memory of his naked body and her thought about how much his body has changed.",
+        "Do not eroticize beyond the Korean."
+      ]
+    },
+    {
+      "id": "SAN-46-01",
+      "chapter": 46,
+      "category": ["crude_language", "bodily_function", "euphemism"],
+      "korean_path": "source/korean/chapters/046.txt",
+      "staging_branch": "production/batch-the-husband-hunt-0046-0051",
+      "staging_path": "editorial/staging/chapter-0046-final-text.txt",
+      "korean_evidence": [
+        "고기에 똥이 들어있어요?",
+        "너 마치 똥을 먹는 것처럼 얼굴을 찡그리고 있잖아."
+      ],
+      "current_problem": "Staging replaces both uses of shit with 'something disgusting' / 'something awful'.",
+      "required_restoration": [
+        "Restore 'Is there shit in the meat?'",
+        "Restore the comparison 'You look like you're eating shit.'"
+      ]
+    },
+    {
+      "id": "SAN-48-01",
+      "chapter": 48,
+      "category": ["nudity", "euphemism"],
+      "korean_path": "source/korean/chapters/048.txt",
+      "staging_branch": "production/batch-the-husband-hunt-0046-0051",
+      "staging_path": "editorial/staging/chapter-0048-final-text.txt",
+      "korean_evidence": [
+        "그녀는 알몸으로 무릎을 꿇고 있었다.",
+        "내가 그녀를 볼 때마다, 그녀는 벌거벗고 있어."
+      ],
+      "current_problem": "Staging uses 'clothing removed' and changes the direct naked callback into 'some disaster seems to ruin her clothes'.",
+      "required_restoration": ["Use direct naked wording in both places."]
+    },
+    {
+      "id": "SAN-49-01",
+      "chapter": 49,
+      "category": ["sexual_reproductive", "slavery", "degradation"],
+      "korean_path": "source/korean/chapters/049.txt",
+      "staging_branch": "production/batch-the-husband-hunt-0046-0051",
+      "staging_path": "editorial/staging/chapter-0049-final-text.txt",
+      "korean_evidence": [
+        "아쉰 ... 카밀을 노려보며 음탕한 미소를 짓고",
+        "내가 너희 야만인들을 위해 아이를 낳으라고? 차라리 죽겠다!",
+        "이 오만한 노예는 교육을 받아야 할 것 같군."
+      ],
+      "current_problem": "Staging changes lewd to ugly, deletes the explicit childbearing refusal in favor of generic submission, and changes slave to captive.",
+      "required_restoration": [
+        "Retain lewd smile.",
+        "Restore 'You expect me to bear children for you barbarians? I'd rather die!'",
+        "Use slave where the Korean says 노예."
+      ]
+    },
+    {
+      "id": "SAN-52-01",
+      "chapter": 52,
+      "category": ["nudity", "punishment", "euphemism"],
+      "korean_path": "source/korean/chapters/052.txt",
+      "staging_branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+      "staging_path": "editorial/staging/chapter-0052-final-text.txt",
+      "korean_evidence": [
+        "포로들을 발가벗긴 채 이 칼날 나무에 오르도록 강요했다.",
+        "어린 소녀가 알몸으로 물에서 걸어 나왔다."
+      ],
+      "current_problem": "Staging changes naked prisoners to 'without protection' and naked Aiyen to 'without her usual clothing'.",
+      "required_restoration": ["Use naked directly in both source-supported places."]
+    },
+    {
+      "id": "SAN-53-01",
+      "chapter": 53,
+      "category": ["sexual_reproductive", "coercion", "slavery", "nudity_detail"],
+      "korean_path": "source/korean/chapters/053.txt",
+      "staging_branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+      "staging_path": "editorial/staging/chapter-0053-final-text.txt",
+      "korean_evidence": [
+        "사슴 가죽 몇 조각으로만 몸을 감쌌지만, 전혀 부끄러움을 느끼지 않았다.",
+        "정글에 사는 대부분의 야만인들은 외부에서 배우자를 납치한다.",
+        "그 부족의 여성들은 외부에서 사로잡은 남성들을 번식 도구로만 이용한다.",
+        "남자가 남성으로서의 의무를 다하지 못하면 대개 죽임을 당하지만"
+      ],
+      "current_problem": "Staging generalizes limited deerskin to simple clothing, kidnapping to merely taking outside spouses, breeding tools to strengthening the tribe, and the explicit male-role consequence to generic suitability/rejection.",
+      "required_restoration": [
+        "Retain that she is wrapped in only a few pieces of deerskin.",
+        "Use kidnapping for the spouse-taking custom where the Korean does.",
+        "Retain that captured men are used only as breeding tools / breeding stock.",
+        "Retain that men unable to fulfill that male role are usually killed."
+      ]
+    },
+    {
+      "id": "SAN-54-01",
+      "chapter": 54,
+      "category": ["urination", "excretion", "nudity_exposure", "sexual_custom", "anatomical_specificity"],
+      "korean_path": "source/korean/chapters/054.txt",
+      "staging_branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+      "staging_path": "editorial/staging/chapter-0054-final-text.txt",
+      "korean_evidence": [
+        "그녀는 비키르가 판 배수로에 앉아 소변을 봤을 뿐이었다.",
+        "오줌을 오랫동안 참았더니 너무 많이 쌌어요.",
+        "주인이 이렇게 남이 소변 보는 걸 보는 게 적절한가요?",
+        "다리를 벌리고 소변을 보고 있었다.",
+        "배설에 관해 부끄러워할 게 뭐가 있나요?",
+        "아엔은 의도적으로 치마를 더욱 높이 들어 올렸다.",
+        "자유롭게 성관계를 가질 수 있다 ... 생식 능력이나 성병 감염 여부 ... 남녀 모두 성기를 노출",
+        "그녀의 다리는 여전히 활짝 벌어져 있었고, 치마는 완전히 드러나 있었기에 비키르는 시선을 위로 고정할 수밖에 없었다.",
+        "창밖으로 똥을 내던지지 않았나요? 거리마다 똥이 쌓여 있었다고 하죠."
+      ],
+      "current_problem": "Staging systematically replaces direct urination/pee/excretion, spread-leg/skirt action, sexual intercourse/genital/reproductive-capacity/STI explanation, and later visual-avoidance callback with generalized privacy language.",
+      "required_restoration": [
+        "Reconstruct the entire exchange directly from Korean rather than patching isolated euphemisms.",
+        "Retain urination/pee/excretion terminology.",
+        "Retain the spread-leg and skirt-lifting actions exactly to source intensity.",
+        "Retain the study note's sexual intercourse, genitals, reproductive capacity, and sexually transmitted disease rationale.",
+        "Retain the later callback explaining why Vikir keeps his gaze raised.",
+        "Retain the explicit shit-in-the-streets historical comparison.",
+        "Do not add sexual detail beyond the Korean."
+      ]
+    }
+  ],
+  "non_findings_examples": [
+    {
+      "chapter": 19,
+      "note": "Raw MTL weakened the troll's entrails image, but historical staging already restored it."
+    },
+    {
+      "chapter": 36,
+      "note": "Historical staging preserves Baron Gambino's groping/sexual threat and the subsequent graphic violence."
+    },
+    {
+      "chapter": 38,
+      "note": "Historical staging preserves severed heads and the source's crude 'You. Are. Fucked.' summary."
+    },
+    {
+      "chapter": 39,
+      "note": "Historical staging already preserves 'crippled', bloody tear, vomiting, foul dungeon smell, spitting, and later torture; only the identified abuse-for-torture substitution is a confirmed sanitation defect."
+    }
+  ]
+}
