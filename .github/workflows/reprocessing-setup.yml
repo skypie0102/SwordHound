@@ -18,6 +18,27 @@ jobs:
           ref: editorial/reprocess-0014-0125
           fetch-depth: 0
 
+      - name: Print Korean and MTL chapter headings
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, xml.etree.ElementTree as ET
+          ns = {'h': 'http://www.w3.org/1999/xhtml'}
+          print('=== KOREAN HEADINGS 054-125 ===')
+          for n in range(54, 126):
+              p = Path(f'source/korean/chapters/{n:03d}.txt')
+              if not p.exists():
+                  print(f'KO {n:03d}: <MISSING FILE>')
+                  continue
+              lines = [line.strip() for line in p.read_text(encoding='utf-8-sig').splitlines() if line.strip()]
+              print(f'KO {n:03d}: {lines[0] if lines else "<EMPTY>"}')
+          print('=== MTL TITLES 054-125 ===')
+          for n in range(54, 126):
+              p = Path(f'source/chapters/chapter-{n:03d}.xhtml')
+              root = ET.fromstring(p.read_bytes())
+              title = root.find('.//h:title', ns)
+              print(f'MTL {n:03d}: {title.text if title is not None else "<NO TITLE>"}')
+
       - name: Prepare inventories and policy
         run: python tools/setup_reprocessing.py
 
