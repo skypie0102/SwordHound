@@ -1,0 +1,985 @@
+{
+  "received_date": "2026-09-16",
+  "provenance": "User added supplemental Korean raws directly to the repository after the preserved Chapters 1-54 archive. Files are preserved byte-for-byte and independently hash-bound here.",
+  "file_count": 69,
+  "source_chapter_count_declared": 70,
+  "source_chapters_declared": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125
+  ],
+  "files": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125
+  ],
+  "missing_filenames_within_055_125": [
+    55,
+    76
+  ],
+  "notice": "This supplemental manifest does not modify the original 001-054 ZIP or its historical manifest. Korean source numbering is not assumed to equal recovered MTL numbering; 075.txt explicitly bundles source Chapters 75 and 76. Passage-level edition alignment is a separate editorial step.",
+  "members": [
+    {
+      "chapter": 56,
+      "source_chapters_declared": [
+        56
+      ],
+      "path": "source/korean/chapters/056.txt",
+      "bytes": 11889,
+      "sha256": "a6519810b2996be2b3b6da8668b0ff68d89448ac82f3051c95ea9ee59c459329",
+      "encoding": "utf-8",
+      "opening_heading": "제56장: 사냥꾼과 먹이 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 57,
+      "source_chapters_declared": [
+        57
+      ],
+      "path": "source/korean/chapters/057.txt",
+      "bytes": 12881,
+      "sha256": "59467793490758968e726b8012f9b61b5759c5cf52e81998674bd1f8cdb6622b",
+      "encoding": "utf-8",
+      "opening_heading": "제57장: 사냥꾼과 먹이 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 58,
+      "source_chapters_declared": [
+        58
+      ],
+      "path": "source/korean/chapters/058.txt",
+      "bytes": 9518,
+      "sha256": "f72513fa7b6e2b16a1b436d171e2ee22fda3d82c12f0922abc0959bcef75410f",
+      "encoding": "utf-8",
+      "opening_heading": "제58장: 사냥꾼과 먹이 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 59,
+      "source_chapters_declared": [
+        59
+      ],
+      "path": "source/korean/chapters/059.txt",
+      "bytes": 14411,
+      "sha256": "49fe80fed2db2fd197776c55be3b3075aa9c4eb32ef822fb0996ebff4d879f94",
+      "encoding": "utf-8",
+      "opening_heading": "제59장: 사냥꾼과 먹이 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 60,
+      "source_chapters_declared": [
+        60
+      ],
+      "path": "source/korean/chapters/060.txt",
+      "bytes": 12359,
+      "sha256": "de75e037be822dfe65c53958c1707e5575870c972c5559b9aeeb8ce5d6c8e26f",
+      "encoding": "utf-8",
+      "opening_heading": "제60장: 사냥꾼과 먹이 (6)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 61,
+      "source_chapters_declared": [
+        61
+      ],
+      "path": "source/korean/chapters/061.txt",
+      "bytes": 13043,
+      "sha256": "79ac7dedf5a98cefd80b25d853ea68fdc368bd8c1931b24cba575070d31473ee",
+      "encoding": "utf-8",
+      "opening_heading": "제61장 추석의 주인공 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 62,
+      "source_chapters_declared": [
+        62
+      ],
+      "path": "source/korean/chapters/062.txt",
+      "bytes": 12900,
+      "sha256": "9ddf488935cb21416496fde55ad51c6ee8af8b07aac27e6994c45577b8dd75f9",
+      "encoding": "utf-8",
+      "opening_heading": "제62장: 추석의 주인공 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 63,
+      "source_chapters_declared": [
+        63
+      ],
+      "path": "source/korean/chapters/063.txt",
+      "bytes": 13950,
+      "sha256": "d277e5661b3cb16b7d21882c5002f906fdc573d9fe5f99eb1beb354ca1c1421e",
+      "encoding": "utf-8",
+      "opening_heading": "제63장: 포획 축제의 주인공 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 64,
+      "source_chapters_declared": [
+        64
+      ],
+      "path": "source/korean/chapters/064.txt",
+      "bytes": 13873,
+      "sha256": "6e9150513dbc2ae579551846c2861dfb046dc3f26fe58155466e912e8c0ada91",
+      "encoding": "utf-8",
+      "opening_heading": "제64장: 불공정한 거래 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 65,
+      "source_chapters_declared": [
+        65
+      ],
+      "path": "source/korean/chapters/065.txt",
+      "bytes": 18803,
+      "sha256": "d2bef4c045d7714806bdb6b0c4228153d27ef91760bf75b16066fc5d214efaaa",
+      "encoding": "utf-8",
+      "opening_heading": "제65장: 불공정 거래 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 66,
+      "source_chapters_declared": [
+        66
+      ],
+      "path": "source/korean/chapters/066.txt",
+      "bytes": 16550,
+      "sha256": "34593cabc81f6caf0f0dd579e524801931951fb4b8c835cb50bb79473549b377",
+      "encoding": "utf-8",
+      "opening_heading": "제66장: 불공정 거래 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 67,
+      "source_chapters_declared": [
+        67
+      ],
+      "path": "source/korean/chapters/067.txt",
+      "bytes": 15920,
+      "sha256": "ef6fd4374490db5bf07209033c829ee40a4eac91c57bb161f20b391845646152",
+      "encoding": "utf-8",
+      "opening_heading": "제67장: 부적절한 거래 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 68,
+      "source_chapters_declared": [
+        68
+      ],
+      "path": "source/korean/chapters/068.txt",
+      "bytes": 11902,
+      "sha256": "abe91a28a1295292a24dcc5c122cddd3addb345166aebf918224b3b56b572344",
+      "encoding": "utf-8",
+      "opening_heading": "제68장: 살과 피 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 69,
+      "source_chapters_declared": [
+        69
+      ],
+      "path": "source/korean/chapters/069.txt",
+      "bytes": 14492,
+      "sha256": "c8904b7766eb07bb36f0da16f5a8935138d05a48f0bdf3ae4d733631f62b33a2",
+      "encoding": "utf-8",
+      "opening_heading": "제69장 육체 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 70,
+      "source_chapters_declared": [
+        70
+      ],
+      "path": "source/korean/chapters/070.txt",
+      "bytes": 12838,
+      "sha256": "4e8e0e15f07c887c5ac7a41fe4bc8670f885ac04303af02bf97535e0ceb15ad6",
+      "encoding": "utf-8",
+      "opening_heading": "제70장: 육체 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 71,
+      "source_chapters_declared": [
+        71
+      ],
+      "path": "source/korean/chapters/071.txt",
+      "bytes": 12205,
+      "sha256": "900fb3ed961cf563b0d218a6e81de5ad0472165ba148538853ad4c0c398acaa6",
+      "encoding": "utf-8",
+      "opening_heading": "제71장: 살과 피 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 72,
+      "source_chapters_declared": [
+        72
+      ],
+      "path": "source/korean/chapters/072.txt",
+      "bytes": 12370,
+      "sha256": "eed993074e431f163945c15daec7c0eddddbb7590c0f630c3974373af2a422e9",
+      "encoding": "utf-8",
+      "opening_heading": "제72장: 붉은 죽음 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 73,
+      "source_chapters_declared": [
+        73
+      ],
+      "path": "source/korean/chapters/073.txt",
+      "bytes": 12419,
+      "sha256": "ee3b7c9b91ed060c27f376a38cf70cb1ee7c463bf7d723927e3e34a31684af3c",
+      "encoding": "utf-8",
+      "opening_heading": "제73장: 붉은 죽음 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 74,
+      "source_chapters_declared": [
+        74
+      ],
+      "path": "source/korean/chapters/074.txt",
+      "bytes": 11089,
+      "sha256": "dea6f15787fe8e8071c8ad1a3d0fbe4cb76acf396498afbf0fa4459066edb837",
+      "encoding": "utf-8",
+      "opening_heading": "제74장: 붉은 죽음 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 75,
+      "source_chapters_declared": [
+        75,
+        76
+      ],
+      "path": "source/korean/chapters/075.txt",
+      "bytes": 21842,
+      "sha256": "ea2445b77962c5df7446e2089009354deb191da4516ab7321f9cbd0d2ffdfc35",
+      "encoding": "utf-8",
+      "opening_heading": "75장+76장 나이트 하운드 (1+2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 77,
+      "source_chapters_declared": [
+        77
+      ],
+      "path": "source/korean/chapters/077.txt",
+      "bytes": 16090,
+      "sha256": "dc07abf41516f6dcf8167cd12f5d0f76af227cdff02fba28ba3928d5dd984853",
+      "encoding": "utf-8",
+      "opening_heading": "제77장: 밤의 사냥개 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 78,
+      "source_chapters_declared": [
+        78
+      ],
+      "path": "source/korean/chapters/078.txt",
+      "bytes": 12104,
+      "sha256": "163c90196508c0f3f74bd3efffef263712bd515660d9c74f0002fcda051962a1",
+      "encoding": "utf-8",
+      "opening_heading": "제78 장 성녀 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 79,
+      "source_chapters_declared": [
+        79
+      ],
+      "path": "source/korean/chapters/079.txt",
+      "bytes": 10763,
+      "sha256": "04b38b8d0797964ee8891d87140c75a68bbde9cdfe8021d2e5b584daf3adc013",
+      "encoding": "utf-8",
+      "opening_heading": "제79 장 성녀 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 80,
+      "source_chapters_declared": [
+        80
+      ],
+      "path": "source/korean/chapters/080.txt",
+      "bytes": 10881,
+      "sha256": "f9292671beb61129766705766a5e8f9b70f3aa5291ee566298fe4f352bdeaa32",
+      "encoding": "utf-8",
+      "opening_heading": "제80 장 성녀 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 81,
+      "source_chapters_declared": [
+        81
+      ],
+      "path": "source/korean/chapters/081.txt",
+      "bytes": 12742,
+      "sha256": "6010788b2e52ebe64e42c2720bb8fb0d36522c68836aef61352a64463537a992",
+      "encoding": "utf-8",
+      "opening_heading": "제81장: 성녀 ( Saintess )(4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 82,
+      "source_chapters_declared": [
+        82
+      ],
+      "path": "source/korean/chapters/082.txt",
+      "bytes": 12292,
+      "sha256": "6ad101118f8c9a1d84ca14d784f8bde99e43340b9703e8998e1e4afe33d8c912",
+      "encoding": "utf-8",
+      "opening_heading": "제82장 성인(Saint)(5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 83,
+      "source_chapters_declared": [
+        83
+      ],
+      "path": "source/korean/chapters/083.txt",
+      "bytes": 12744,
+      "sha256": "670ba522d4336f81f256cf3d6af62577610cf7611789d29de2e8f3af884f15df",
+      "encoding": "utf-8",
+      "opening_heading": "제83장 상사병 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 84,
+      "source_chapters_declared": [
+        84
+      ],
+      "path": "source/korean/chapters/084.txt",
+      "bytes": 12322,
+      "sha256": "e3219ce6fbcf69bc289f0bf907135d937285d44c9093faadbc2ebeaac5961c31",
+      "encoding": "utf-8",
+      "opening_heading": "제84장 상사병 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 85,
+      "source_chapters_declared": [
+        85
+      ],
+      "path": "source/korean/chapters/085.txt",
+      "bytes": 12788,
+      "sha256": "5d473c5ca8a3b657f5d1c33c42d1be92f8976b31d50087afe62130a3077f1685",
+      "encoding": "utf-8",
+      "opening_heading": "일리아스 제85장 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 86,
+      "source_chapters_declared": [
+        86
+      ],
+      "path": "source/korean/chapters/086.txt",
+      "bytes": 10870,
+      "sha256": "ffe2eb9b89f9147c9938cf29ab0dd264833d7719acda390683ce4bb25feb6792",
+      "encoding": "utf-8",
+      "opening_heading": "제86장: 일리아스 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 87,
+      "source_chapters_declared": [
+        87
+      ],
+      "path": "source/korean/chapters/087.txt",
+      "bytes": 14732,
+      "sha256": "770029bd5799e5a82eee80e19937893fa5f54c52c1e4ea2a803fc66f85e5ca9a",
+      "encoding": "utf-8",
+      "opening_heading": "제87장: 일리아스 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 88,
+      "source_chapters_declared": [
+        88
+      ],
+      "path": "source/korean/chapters/088.txt",
+      "bytes": 12598,
+      "sha256": "e8100109ae1079ac3635385273031ef1b5a37fb25c7e85a35dc661e2d4f0ce2e",
+      "encoding": "utf-8",
+      "opening_heading": "제88장: 일리아스 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 89,
+      "source_chapters_declared": [
+        89
+      ],
+      "path": "source/korean/chapters/089.txt",
+      "bytes": 12639,
+      "sha256": "9c1d97b00c0b9a56436460e1c7347cd700c515522252ab6a44249945be733690",
+      "encoding": "utf-8",
+      "opening_heading": "일리아스 89장 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 90,
+      "source_chapters_declared": [
+        90
+      ],
+      "path": "source/korean/chapters/090.txt",
+      "bytes": 10401,
+      "sha256": "53964d67d10460a08d3722a782f5fb70e909ec59ad7c840d5b5a36d3e9efd5df",
+      "encoding": "utf-8",
+      "opening_heading": "제90장: 선조의 언데드 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 91,
+      "source_chapters_declared": [
+        91
+      ],
+      "path": "source/korean/chapters/091.txt",
+      "bytes": 11679,
+      "sha256": "f2e3abc67ed17f3b3b99fc7dc9ce319b9e0a88c5f79a3fa80793ceff15597695",
+      "encoding": "utf-8",
+      "opening_heading": "제91장: 조상의 언데드 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 92,
+      "source_chapters_declared": [
+        92
+      ],
+      "path": "source/korean/chapters/092.txt",
+      "bytes": 12041,
+      "sha256": "9294407ff2965040e2c9da7159e938220b64f29a1a6956d237d51eefa91f8e86",
+      "encoding": "utf-8",
+      "opening_heading": "제92장: 조상의 언데드 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 93,
+      "source_chapters_declared": [
+        93
+      ],
+      "path": "source/korean/chapters/093.txt",
+      "bytes": 14453,
+      "sha256": "31a2490108f697a8ff912707e2189b69c727a5e153a006942a270001f064532a",
+      "encoding": "utf-8",
+      "opening_heading": "제93장: 조상의 영혼 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 94,
+      "source_chapters_declared": [
+        94
+      ],
+      "path": "source/korean/chapters/094.txt",
+      "bytes": 12021,
+      "sha256": "83bc8f68ba1557865286c2a44baebafffc0f1beb87e2ca4572e788f7f279b57d",
+      "encoding": "utf-8",
+      "opening_heading": "제94장: 조상의 영혼 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 95,
+      "source_chapters_declared": [
+        95
+      ],
+      "path": "source/korean/chapters/095.txt",
+      "bytes": 9114,
+      "sha256": "a35a813304700b8ef63e079fa479eebbf7ef99a909e78d96145c5d18245494d4",
+      "encoding": "utf-8",
+      "opening_heading": "제95장: 여덟 다리의 여인 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 96,
+      "source_chapters_declared": [
+        96
+      ],
+      "path": "source/korean/chapters/096.txt",
+      "bytes": 10175,
+      "sha256": "0e8e765d866376382f79874796fa8ae6b2fec0f85636ff332f76cf9d8bf0a9bb",
+      "encoding": "utf-8",
+      "opening_heading": "제96장: 여덟 다리 여인 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 97,
+      "source_chapters_declared": [
+        97
+      ],
+      "path": "source/korean/chapters/097.txt",
+      "bytes": 14465,
+      "sha256": "7ab79fc5d5f947116c61cb34aff538e55343b5849417427fec505c1260c4328e",
+      "encoding": "utf-8",
+      "opening_heading": "제97장: 여덟 다리 여인 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 98,
+      "source_chapters_declared": [
+        98
+      ],
+      "path": "source/korean/chapters/098.txt",
+      "bytes": 11428,
+      "sha256": "c23b80ae9958e1290c744e1f5b5a7123fd39fbadd484a3f22bbe5c5fc9834f42",
+      "encoding": "utf-8",
+      "opening_heading": "제98장 여덟 다리 부인 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 99,
+      "source_chapters_declared": [
+        99
+      ],
+      "path": "source/korean/chapters/099.txt",
+      "bytes": 11255,
+      "sha256": "5c63d801091a4f07c4038afd0833fd852e92f0a3254c7cf828260299103b3a78",
+      "encoding": "utf-8",
+      "opening_heading": "제99장 여덟 다리 여인 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 100,
+      "source_chapters_declared": [
+        100
+      ],
+      "path": "source/korean/chapters/100.txt",
+      "bytes": 14153,
+      "sha256": "5404d8043db0707b12fe51a278e49fadb8b86a6db2e19dd06928cc4da004cfba",
+      "encoding": "utf-8",
+      "opening_heading": "제100장 여덟 다리 여인 (6)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 101,
+      "source_chapters_declared": [
+        101
+      ],
+      "path": "source/korean/chapters/101.txt",
+      "bytes": 11889,
+      "sha256": "baa04d79d4e4a4fdecf8a710fd85349ecb938926d3bba317da107758341e32a5",
+      "encoding": "utf-8",
+      "opening_heading": "제101장: 향수, 그리고 향수 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 102,
+      "source_chapters_declared": [
+        102
+      ],
+      "path": "source/korean/chapters/102.txt",
+      "bytes": 13671,
+      "sha256": "fd39a73d0883ed16d56f82822094cb2fc2a42849e11a1654bbf0fe001f6e0b05",
+      "encoding": "utf-8",
+      "opening_heading": "제102장: 향수, 그리고 향수 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 103,
+      "source_chapters_declared": [
+        103
+      ],
+      "path": "source/korean/chapters/103.txt",
+      "bytes": 8400,
+      "sha256": "3ffe3108bb93935a9a61338e5854e8453b31ceb3bde47be9c7978bd71b19d78d",
+      "encoding": "utf-8",
+      "opening_heading": "제103장: 향수와 그리워하는 것들 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 104,
+      "source_chapters_declared": [
+        104
+      ],
+      "path": "source/korean/chapters/104.txt",
+      "bytes": 12571,
+      "sha256": "98bc27a2df13d702473d1a34fe0909cc28e5279131a22b43d6e0ce968b3a2220",
+      "encoding": "utf-8",
+      "opening_heading": "제104장: 실종, 그리고 실종(4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 105,
+      "source_chapters_declared": [
+        105
+      ],
+      "path": "source/korean/chapters/105.txt",
+      "bytes": 11380,
+      "sha256": "81b3083faed3a8b053061871dd77203f46614a99e5a4cd7a5023b5798d88bb47",
+      "encoding": "utf-8",
+      "opening_heading": "제105장 영웅의 귀환 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 106,
+      "source_chapters_declared": [
+        106
+      ],
+      "path": "source/korean/chapters/106.txt",
+      "bytes": 13340,
+      "sha256": "edc51f478c57be31228e3d7dd3ec192bc11e9a78db38731aa54da1e48fef090b",
+      "encoding": "utf-8",
+      "opening_heading": "제106장: 영웅의 귀환 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 107,
+      "source_chapters_declared": [
+        107
+      ],
+      "path": "source/korean/chapters/107.txt",
+      "bytes": 11921,
+      "sha256": "6e13a359ed9a806c20de06e8fbbda77fb0339ebd9b0b7cb02c8df9a2858813e3",
+      "encoding": "utf-8",
+      "opening_heading": "제107장: 돌아온 영웅 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 108,
+      "source_chapters_declared": [
+        108
+      ],
+      "path": "source/korean/chapters/108.txt",
+      "bytes": 17560,
+      "sha256": "4940ba459506f05be056d23d8ea7dc964abbe3bcd6f46b654f2bfb8991345e44",
+      "encoding": "utf-8",
+      "opening_heading": "제108장 영웅의 귀환 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 109,
+      "source_chapters_declared": [
+        109
+      ],
+      "path": "source/korean/chapters/109.txt",
+      "bytes": 14842,
+      "sha256": "8526b3da0f6b8cd10fed1d5562bb73b2a1fe9f91c7261914f0a3f7b53d9ed39c",
+      "encoding": "utf-8",
+      "opening_heading": "제109장: 돌아온 영웅 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 110,
+      "source_chapters_declared": [
+        110
+      ],
+      "path": "source/korean/chapters/110.txt",
+      "bytes": 11085,
+      "sha256": "5e3881e671c4771e4b55bc526180d1d358298ba4ad7742e7b9b27c9fa44d3571",
+      "encoding": "utf-8",
+      "opening_heading": "제110장: 성대한 만찬 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 111,
+      "source_chapters_declared": [
+        111
+      ],
+      "path": "source/korean/chapters/111.txt",
+      "bytes": 19358,
+      "sha256": "fbbd0b1bc970a4b431f05ecb479cd355770f8f721e09b6dc6b7812f5f81ecc89",
+      "encoding": "utf-8",
+      "opening_heading": "제111장 성대한 만찬(성대한 만찬)(2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 112,
+      "source_chapters_declared": [
+        112
+      ],
+      "path": "source/korean/chapters/112.txt",
+      "bytes": 11320,
+      "sha256": "18beeca30ce320036c519d5681f1ce84224881212410bf56ffab98ac55bc0926",
+      "encoding": "utf-8",
+      "opening_heading": "제112장: 성대한 만찬 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 113,
+      "source_chapters_declared": [
+        113
+      ],
+      "path": "source/korean/chapters/113.txt",
+      "bytes": 11435,
+      "sha256": "5f7c54809f7ae7c1ac2da34fe0dd9552fafca4a0a2f906105d5edbb02b0fca9e",
+      "encoding": "utf-8",
+      "opening_heading": "제113장 큰 저녁 식사 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 114,
+      "source_chapters_declared": [
+        114
+      ],
+      "path": "source/korean/chapters/114.txt",
+      "bytes": 11617,
+      "sha256": "10f27dff3ca5e380aa3f38d103031182df4467988f52078f6ea1c05881dd9f78",
+      "encoding": "utf-8",
+      "opening_heading": "제114장: 성대한 만찬 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 115,
+      "source_chapters_declared": [
+        115
+      ],
+      "path": "source/korean/chapters/115.txt",
+      "bytes": 16079,
+      "sha256": "07eede710b7a48fcc9d8184e99f65ca9047837dbf61f9f92391440ba92db06be",
+      "encoding": "utf-8",
+      "opening_heading": "제115장: 성대한 연회(성대한 만찬)(6)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 116,
+      "source_chapters_declared": [
+        116
+      ],
+      "path": "source/korean/chapters/116.txt",
+      "bytes": 12322,
+      "sha256": "711a918b102883221d891c13df8140d9a96aefce83c1a79fbec83bcfb4f1596d",
+      "encoding": "utf-8",
+      "opening_heading": "제116장 성대한 만찬 (7)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 117,
+      "source_chapters_declared": [
+        117
+      ],
+      "path": "source/korean/chapters/117.txt",
+      "bytes": 13998,
+      "sha256": "71ae1cbde0dc4ea6447d04d904c43cda394e28b5e9e30bcdcf54b5016c021d2c",
+      "encoding": "utf-8",
+      "opening_heading": "제117장: 무릎 꿇은 사랑 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 118,
+      "source_chapters_declared": [
+        118
+      ],
+      "path": "source/korean/chapters/118.txt",
+      "bytes": 12835,
+      "sha256": "e5c7e4eb35ecf0097c5da334efaaadbd4a25fdce21023de74ba60560456f4721",
+      "encoding": "utf-8",
+      "opening_heading": "제118장: 펜던트의 사랑 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 119,
+      "source_chapters_declared": [
+        119
+      ],
+      "path": "source/korean/chapters/119.txt",
+      "bytes": 12210,
+      "sha256": "cda9768845203ab02ea557af7a6e6df7b9fa328e2681b1a3e03539f010debd04",
+      "encoding": "utf-8",
+      "opening_heading": "제119장: 절제된 사랑 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 120,
+      "source_chapters_declared": [
+        120
+      ],
+      "path": "source/korean/chapters/120.txt",
+      "bytes": 11209,
+      "sha256": "94a17ca6631482f71d07f5998fe7bef95c39a2e4d7ec3be0c3ef3c3bb2a69883",
+      "encoding": "utf-8",
+      "opening_heading": "제120장: 둘째 아들 사냥 (1)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 121,
+      "source_chapters_declared": [
+        121
+      ],
+      "path": "source/korean/chapters/121.txt",
+      "bytes": 12758,
+      "sha256": "2115e4b10a3b0029943ecd497309b733753c1b6ff6dc076a20d55e561831c234",
+      "encoding": "utf-8",
+      "opening_heading": "제121장: 둘째 아들 사냥 (2)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 122,
+      "source_chapters_declared": [
+        122
+      ],
+      "path": "source/korean/chapters/122.txt",
+      "bytes": 12627,
+      "sha256": "fa7af170a5c6ef0444d1f48b31f4424a976e14d59d18619db44d991a13b3adc9",
+      "encoding": "utf-8",
+      "opening_heading": "제122장 둘째 아들 사냥 (3)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 123,
+      "source_chapters_declared": [
+        123
+      ],
+      "path": "source/korean/chapters/123.txt",
+      "bytes": 35772,
+      "sha256": "40d3a545387cf48bd5260b2f0a54dc18f3b59b0ba22bc473ef5024f2838979c9",
+      "encoding": "utf-8",
+      "opening_heading": "제123장: 둘째 아들의 사냥 (4)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 124,
+      "source_chapters_declared": [
+        124
+      ],
+      "path": "source/korean/chapters/124.txt",
+      "bytes": 14695,
+      "sha256": "fb31caaf3b05b1608969dafe77d0d116559bf2a210f8281807162c624ff625e7",
+      "encoding": "utf-8",
+      "opening_heading": "제124장 둘째 아들 사냥 (5)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    },
+    {
+      "chapter": 125,
+      "source_chapters_declared": [
+        125
+      ],
+      "path": "source/korean/chapters/125.txt",
+      "bytes": 11050,
+      "sha256": "9446bdffa8022bb15e7ea432fffe18a62ff34a8c370b2b24f5116d61d30927dd",
+      "encoding": "utf-8",
+      "opening_heading": "제125장: 둘째 아들 사냥 (6)",
+      "alignment": "filename_and_opening_number_verified; edition_to_mtl_passage_alignment_pending"
+    }
+  ]
+}
