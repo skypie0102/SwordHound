@@ -1,16 +1,20 @@
 {
   "1": {
-    "status": "qa_accepted",
+    "status": "qa_pending",
     "draft": "manuscript/drafts/chapter-0001.md",
     "qa_report": "qa/chapter-0001.md",
-    "open_issues": [],
+    "open_issues": [
+      "CH001-SANITIZATION"
+    ],
     "acceptance_evidence": "qa/acceptance/chapter-0001.json"
   },
   "2": {
-    "status": "qa_accepted",
+    "status": "qa_pending",
     "draft": "manuscript/drafts/chapter-0002.md",
     "qa_report": "qa/chapter-0002.md",
-    "open_issues": [],
+    "open_issues": [
+      "CH002-SANITIZATION"
+    ],
     "acceptance_evidence": "qa/acceptance/chapter-0002.json"
   },
   "3": {
@@ -49,10 +53,12 @@
     "acceptance_evidence": "qa/acceptance/chapter-0007.json"
   },
   "8": {
-    "status": "qa_accepted",
+    "status": "qa_pending",
     "draft": "manuscript/drafts/chapter-0008.md",
     "qa_report": "qa/chapter-0008.md",
-    "open_issues": [],
+    "open_issues": [
+      "CH008-SANITIZATION"
+    ],
     "acceptance_evidence": "qa/acceptance/chapter-0008.json"
   },
   "9": {
@@ -63,17 +69,21 @@
     "acceptance_evidence": "qa/acceptance/chapter-0009.json"
   },
   "10": {
-    "status": "qa_accepted",
+    "status": "qa_pending",
     "draft": "manuscript/drafts/chapter-0010.md",
     "qa_report": "qa/chapter-0010.md",
-    "open_issues": [],
+    "open_issues": [
+      "CH010-SANITIZATION"
+    ],
     "acceptance_evidence": "qa/acceptance/chapter-0010.json"
   },
   "11": {
-    "status": "qa_accepted",
+    "status": "qa_pending",
     "draft": "manuscript/drafts/chapter-0011.md",
     "qa_report": "qa/chapter-0011.md",
-    "open_issues": [],
+    "open_issues": [
+      "CH011-SANITIZATION"
+    ],
     "acceptance_evidence": "qa/acceptance/chapter-0011.json"
   },
   "12": {
@@ -84,10 +94,12 @@
     "acceptance_evidence": "qa/acceptance/chapter-0012.json"
   },
   "13": {
-    "status": "qa_accepted",
+    "status": "qa_pending",
     "draft": "manuscript/drafts/chapter-0013.md",
     "qa_report": "qa/chapter-0013.md",
-    "open_issues": [],
+    "open_issues": [
+      "CH013-SANITIZATION"
+    ],
     "acceptance_evidence": "qa/acceptance/chapter-0013.json"
   }
 }

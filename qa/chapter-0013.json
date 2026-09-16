@@ -1,12 +1,12 @@
 {
   "chapter": 13,
   "source_sha256": "2bef27c163e103c90c2af57bd7170d4ed16782b7035e8919b14513e30865be14",
-  "review_date": "2026-09-14",
+  "review_date": "2026-09-16",
   "review_basis": "korean_plus_mtl",
   "korean_source": "source/korean/chapters/013.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
-  "pass": "Final editorial, source-witness, continuity, title-family browser-layout and repository validation",
-  "accepted": true,
+  "pass": "Reopened for sanitation/fidelity re-review against the supplied Korean witness",
+  "accepted": false,
   "issues": [
     {
       "id": "CH013-01",
@@ -252,6 +252,18 @@
         "qa/chapter-0013-validation.md",
         "editorial/reviews/batch-the-gluttonous-flies-0012-0013.md"
       ]
+    },
+    {
+      "id": "CH013-SANITIZATION",
+      "status": "open",
+      "paragraphs": [
+        67,
+        68,
+        74,
+        109
+      ],
+      "question": "Sanitization / source-intensity fidelity re-review",
+      "required_evidence": "Compare the accepted English against the supplied Korean and restore any softened, generalized, euphemized, or omitted source detail without gratuitous intensification."
     }
   ],
   "acceptance_evidence": "qa/acceptance/chapter-0013.json",

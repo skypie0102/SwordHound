@@ -1,12 +1,12 @@
 {
   "chapter": 10,
   "source_sha256": "67ab38d1c1e0fe7543833696b5147599cfaa5f796e2726bdabc22fbbe6131f20",
-  "review_date": "2026-09-14",
+  "review_date": "2026-09-16",
   "review_basis": "korean_plus_mtl",
   "korean_source": "source/korean/chapters/010.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
-  "pass": "Final editorial, bilingual source, continuity, title-family browser-layout and repository validation",
-  "accepted": true,
+  "pass": "Reopened for sanitation/fidelity re-review against the supplied Korean witness",
+  "accepted": false,
   "issues": [
     {
       "id": "CH010-01",
@@ -233,6 +233,15 @@
         "qa/chapter-0010-validation.md",
         "editorial/reviews/batch-hounds-of-hell-0008-0011.md"
       ]
+    },
+    {
+      "id": "CH010-SANITIZATION",
+      "status": "open",
+      "paragraphs": [
+        24
+      ],
+      "question": "Sanitization / source-intensity fidelity re-review",
+      "required_evidence": "Compare the accepted English against the supplied Korean and restore any softened, generalized, euphemized, or omitted source detail without gratuitous intensification."
     }
   ],
   "acceptance_evidence": "qa/acceptance/chapter-0010.json",

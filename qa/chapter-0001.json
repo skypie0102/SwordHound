@@ -1,13 +1,13 @@
 {
   "chapter": 1,
   "source_sha256": "475fe7ffc331bc2a79255108ada508a811d104d6ec3101d2e8b9bd31aaf99382",
-  "review_date": "2026-09-13",
+  "review_date": "2026-09-16",
   "review_basis": "korean_plus_mtl",
   "korean_source": "source/korean/chapters/001.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
   "source_update": "Full supplied Korean text compared; Fandom search-retrieved page content supports limited terminology decisions. Namu retrieval failed. Import and comparison do not establish publisher provenance.",
-  "pass": "Final Korean/MTL adjudication, complete English reading, continuity review, and desktop/mobile chapter-layout review",
-  "accepted": true,
+  "pass": "Reopened for sanitation/fidelity re-review against the supplied Korean witness",
+  "accepted": false,
   "acceptance_evidence": "qa/acceptance/chapter-0001.json",
   "issues": [
     {
@@ -162,6 +162,16 @@
         "editorial/reviews/chapter-0001-final.md",
         "qa/layout/chapter-0001.json"
       ]
+    },
+    {
+      "id": "CH001-SANITIZATION",
+      "status": "open",
+      "paragraphs": [
+        75,
+        88
+      ],
+      "question": "Sanitization / source-intensity fidelity re-review",
+      "required_evidence": "Compare the accepted English against the supplied Korean and restore any softened, generalized, euphemized, or omitted source detail without gratuitous intensification."
     }
   ],
   "review_evidence": "editorial/reviews/chapter-0001.md",
