@@ -167,6 +167,7 @@ He closed his eyes for a moment while roasting a rat he had caught the night bef
 <p class="info-window-row">Discovery Location: Throughout the continent</p>
 <p class="info-window-row">A rat grotesquely altered by demonic energy.</p>
 <p class="info-window-row">An adult possesses the intelligence and size of a small dog.</p>
+<p class="info-window-row">Adult specimens are especially loathed by women.</p>
 <p class="info-window-row">If properly gutted, it is surprisingly edible when roasted over fire or boiled in water.</p>
 </div>
 
@@ -311,6 +312,7 @@ Two yellow eyes glowing like lamps.
 <p class="info-window-row">Danger Rating: B+</p>
 <p class="info-window-row">Size: 3 m</p>
 <p class="info-window-row">Discovery Location: Le Rouge et Le Noir Mountain, 2nd Ridge</p>
+<p class="info-window-row">Commonly called ‘the dog that carries hell.’</p>
 <p class="info-window-row">A canine monster that carries the fires of hell within its body.</p>
 <p class="info-window-row">Sulfuric flame pours from its eyes and mouth. That fire will not go out until the life serving as its fuel has burned away.</p>
 </div>
