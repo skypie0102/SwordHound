@@ -1,0 +1,39 @@
+{
+  "chapter": 10,
+  "title": "Hounds of Hell (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
+    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/010.txt",
+    "primary_source_sha": "6be1944dd10561d5246cff6ab830e6f5e39bc736",
+    "english_reference_path": "source/chapters/chapter-010.xhtml",
+    "english_reference_sha": "8c2442bf760ee8ca0c3174c5d49556dab379cdac",
+    "english_alignment": "verified_by_title_chocolate_payoff_hellhound_kill_pack_sequence_and_cerberus_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0010.md",
+    "draft_sha": "5a340ea07718a4119488d153a9f37a265ba90781",
+    "qa_path": "qa/chapter-0010.md",
+    "qa_sha": "ef0b10235e9dfd9b99a97abb37904bae05909e52",
+    "provenance_path": "editorial/provenance/chapter-0010.json",
+    "provenance_sha": "c32728ab4962a6461a77538d76d7f47159a73f69"
+  },
+  "canonical_checks": [
+    "Bloody Beans",
+    "Hellhound",
+    "Cerberus",
+    "Hell’s Watchdog",
+    "Le Rouge et Le Noir Mountain",
+    "High Sword Expert"
+  ],
+  "documented_limits": [
+    "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
+    "The post-kill energy remains intentionally non-numerical because Chinese gives broad labels rather than a fixed game-stat system."
+  ]
+}
