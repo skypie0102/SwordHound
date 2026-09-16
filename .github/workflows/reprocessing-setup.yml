@@ -1,0 +1,39 @@
+name: Reprocessing setup gate
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    if: github.head_ref == 'editorial/reprocess-0014-0125'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: editorial/reprocess-0014-0125
+          fetch-depth: 0
+
+      - name: Prepare inventories and policy
+        run: python tools/setup_reprocessing.py
+
+      - name: Verify source integrity and tracking
+        run: |
+          python tools/verify_recovery.py
+          python tools/rebuild_editorial_tracking.py
+          python -m unittest discover -s tests -v
+          git diff --check
+
+      - name: Commit prepared state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editorial recovery tools
+          if ! git diff --cached --quiet; then
+            git commit -m "editorial: register Korean coverage through chapter 125"
+            git push origin HEAD:editorial/reprocess-0014-0125
+          fi
