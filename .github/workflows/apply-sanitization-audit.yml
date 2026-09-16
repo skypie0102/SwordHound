@@ -6,12 +6,22 @@ on:
       - audit/sanitization-ch1-13
     paths:
       - .github/workflows/apply-sanitization-audit.yml
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+    paths:
+      - .github/workflows/apply-sanitization-audit.yml
 
 permissions:
   contents: write
 
 jobs:
   reaccept:
+    if: github.head_ref == 'audit/sanitization-ch1-13' || github.ref_name == 'audit/sanitization-ch1-13'
     runs-on: ubuntu-latest
     steps:
       - name: Check out audit branch
