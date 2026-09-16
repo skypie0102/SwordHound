@@ -114,7 +114,7 @@ Swordsmanship of a level Vikir had never been allowed to dream of in his previou
 
 He took out the book and began reading carefully.
 
-Its diagrams traced fang-shaped sword paths and explained methods of cutting, thrusting, defending, crushing, redirecting, and striking again.
+Its diagrams traced fang-shaped sword paths and explained methods of cutting, thrusting, defending, crushing, cutting, and crushing again.
 
 Above all, it explained how to manifest six Fangs.
 
