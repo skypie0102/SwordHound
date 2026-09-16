@@ -1,0 +1,92 @@
+{
+  "chapter": 10,
+  "title": "Hounds of Hell (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
+    "family_qa": {
+      "path": "qa/families/hounds-of-hell-0008-0011.md",
+      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/010.txt",
+    "blob_sha": "6be1944dd10561d5246cff6ab830e6f5e39bc736",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-010.xhtml",
+    "blob_sha": "8c2442bf760ee8ca0c3174c5d49556dab379cdac",
+    "target_alignment": 10,
+    "alignment_status": "verified_by_title_chocolate_payoff_hellhound_kill_pack_sequence_and_cerberus_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Hellhound",
+      "applies_to": ["Hellhound", "canine chocolate weakness"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Cerberus",
+      "applies_to": ["Cerberus", "A+", "7 m", "7th Ridge", "Hell’s Watchdog"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Le Rouge et Le Noir Mountain",
+      "applies_to": ["Le Rouge et Le Noir Mountain"]
+    }
+  ],
+  "canonical_reference_access": {
+    "date": "2026-09-16",
+    "status": "principal evidence retrieved earlier in active-family research; later refresh blocked by Fandom robots rules",
+    "rule": "no canonical claim added from the failed refresh"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0010.md",
+    "blob_sha": "5a340ea07718a4119488d153a9f37a265ba90781"
+  },
+  "qa": {
+    "path": "qa/chapter-0010.md",
+    "blob_sha": "ef0b10235e9dfd9b99a97abb37904bae05909e52",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "Hellhound organ target",
+      "final": "kidneys",
+      "basis": "Chinese source explicitly names kidneys; recovered MTL `height` is a mistranslation"
+    },
+    {
+      "topic": "post-kill strengthening",
+      "final": "kept as loosely named experience / effort / karma / cause-and-effect energy",
+      "basis": "Chinese gives several colloquial labels; no numeric game system was invented"
+    },
+    {
+      "topic": "Vikir current rank",
+      "final": "High Sword Expert at age eight; most Baskerville children reach that level only after the coming-of-age ceremony",
+      "basis": "Chinese meaning normalized to accepted rank terminology"
+    },
+    {
+      "topic": "Cerberus taxonomy",
+      "final": "pinnacle of underworld-type monsters",
+      "basis": "Chinese `幽界种怪物的极致`; corrects MTL semantic drift toward generic canine classification"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored explicit chocolate-poison symptoms",
+    "corrected height to kidneys",
+    "preserved blunt kidney attack",
+    "kept experience/karma energy non-numerical",
+    "restored near-impervious body statement",
+    "restored post-coming-of-age comparison for High Sword Expert",
+    "preserved eleven-Hellhound pack sequence",
+    "rebuilt complete Cerberus window and taxonomy"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

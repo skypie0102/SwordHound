@@ -1,0 +1,37 @@
+{
+  "chapter": 8,
+  "title": "Hounds of Hell (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
+    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/008.txt",
+    "primary_source_sha": "d62d365170a0107c5c726c9da1901d996d2d508d",
+    "english_reference_path": "source/chapters/chapter-008.xhtml",
+    "english_reference_sha": "1ec6b7bff255d7ea718dcca063e5ded4ee5ba523",
+    "english_alignment": "verified_by_title_opening_scene_sequence_entities_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0008.md",
+    "draft_sha": "33ead486847f4fdb3cff95e00778d85dddc69315",
+    "qa_path": "qa/chapter-0008.md",
+    "qa_sha": "c511faeada26320a8e764819051b15f570db622f",
+    "provenance_path": "editorial/provenance/chapter-0008.json",
+    "provenance_sha": "03106e337c848627c611eec212d110be7fec0710"
+  },
+  "canonical_checks": [
+    "Le Rouge et Le Noir Mountain",
+    "Pavlov Van Baskerville",
+    "Guide Dog",
+    "Rok Empire"
+  ],
+  "documented_limits": [
+    "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
+    "Chinese controls the practical-exam score meanings and narrative details even where the recovered English differs."
+  ]
+}

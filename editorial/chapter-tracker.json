@@ -1,14 +1,15 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 7,
+  "accepted_count": 11,
   "staged_count": 0,
-  "next_chapter": 8,
+  "next_chapter": 12,
   "active_title_family": {
-    "name": "Hounds of Hell",
-    "start": 8,
-    "boundary_status": "pending_full_boundary_verification",
-    "known_first_title": "Hounds of Hell (1)"
+    "name": "The Gluttonous Flies",
+    "range": [12, 13],
+    "boundary_status": "verified_from_chinese_headings",
+    "following_family_starts": 14,
+    "following_chinese_title": "独食 (1)"
   },
   "chapters": [
     {
@@ -108,6 +109,62 @@
       "acceptance": "qa/acceptance/chapter-0007.json",
       "acceptance_sha": "67a63daf7754fc38e1dd860a096120ff08301672",
       "family_qa": "qa/families/baskerville-dog-0004-0007.md"
+    },
+    {
+      "chapter": 8,
+      "title": "Hounds of Hell (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/008.txt",
+      "english_mtl_reference": "source/chapters/chapter-008.xhtml",
+      "draft": "manuscript/drafts/chapter-0008.md",
+      "qa": "qa/chapter-0008.md",
+      "provenance": "editorial/provenance/chapter-0008.json",
+      "acceptance": "qa/acceptance/chapter-0008.json",
+      "acceptance_sha": "08bb5f82d60975a0b7905f9111df92cff32fccc9",
+      "family_qa": "qa/families/hounds-of-hell-0008-0011.md"
+    },
+    {
+      "chapter": 9,
+      "title": "Hounds of Hell (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/009.txt",
+      "english_mtl_reference": "source/chapters/chapter-009.xhtml",
+      "draft": "manuscript/drafts/chapter-0009.md",
+      "qa": "qa/chapter-0009.md",
+      "provenance": "editorial/provenance/chapter-0009.json",
+      "acceptance": "qa/acceptance/chapter-0009.json",
+      "acceptance_sha": "e307b687650f1e3c74172b3e2539e811650bbc5b",
+      "family_qa": "qa/families/hounds-of-hell-0008-0011.md"
+    },
+    {
+      "chapter": 10,
+      "title": "Hounds of Hell (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/010.txt",
+      "english_mtl_reference": "source/chapters/chapter-010.xhtml",
+      "draft": "manuscript/drafts/chapter-0010.md",
+      "qa": "qa/chapter-0010.md",
+      "provenance": "editorial/provenance/chapter-0010.json",
+      "acceptance": "qa/acceptance/chapter-0010.json",
+      "acceptance_sha": "127831a7386c1d2e55cda9e11a7a6e01942560b7",
+      "family_qa": "qa/families/hounds-of-hell-0008-0011.md"
+    },
+    {
+      "chapter": 11,
+      "title": "Hounds of Hell (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/011.txt",
+      "english_mtl_reference": "source/chapters/chapter-011.xhtml",
+      "draft": "manuscript/drafts/chapter-0011.md",
+      "qa": "qa/chapter-0011.md",
+      "provenance": "editorial/provenance/chapter-0011.json",
+      "acceptance": "qa/acceptance/chapter-0011.json",
+      "acceptance_sha": "1430850ac6559c96234f044c34e4e92d46a61617",
+      "family_qa": "qa/families/hounds-of-hell-0008-0011.md"
     }
   ]
 }

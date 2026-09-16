@@ -1,0 +1,97 @@
+{
+  "chapter": 11,
+  "title": "Hounds of Hell (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
+    "family_qa": {
+      "path": "qa/families/hounds-of-hell-0008-0011.md",
+      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/011.txt",
+    "blob_sha": "db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-011.xhtml",
+    "blob_sha": "26e15feb304acd8e94d8f902c82a369dc900fb7e",
+    "target_alignment": 11,
+    "alignment_status": "verified_by_title_cerberus_window_rank_table_baskerville_forms_trap_and_seven_step_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Cerberus",
+      "applies_to": ["Cerberus", "Hell’s Watchdog", "A+", "7 m", "7th Ridge"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Camus Morgue",
+      "applies_to": ["Camus Morgue", "Ironblood Empress"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville / sword progression material",
+      "applies_to": ["Sword Expert / Sword Graduator / Sword Master terminology", "Baskerville Forms"]
+    }
+  ],
+  "canonical_reference_access": {
+    "date": "2026-09-16",
+    "status": "principal evidence retrieved earlier in active-family research; later refresh blocked by Fandom robots rules",
+    "rule": "no canonical claim added from the failed refresh"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0011.md",
+    "blob_sha": "15673ea64dfa3d9375c97a3bcd1ff605f3984ade"
+  },
+  "qa": {
+    "path": "qa/chapter-0011.md",
+    "blob_sha": "5f8d12c1c8c9ffeb3116940ce23e393490fcb0ae",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "Cerberus taxonomy",
+      "final": "pinnacle of underworld-type monsters",
+      "basis": "Chinese source; fixes MTL canine-classification drift"
+    },
+    {
+      "topic": "sword/mage equivalence",
+      "final": "Low/Mid/High Sword Expert = 1st/2nd/3rd Circle; Low/Mid/High Sword Graduator = 4th/5th/6th Circle; Sword Master = 7th Circle",
+      "basis": "Chinese comparison table normalized to already accepted English rank names"
+    },
+    {
+      "topic": "Baskerville technique naming",
+      "final": "Baskerville 1st / 2nd / 3rd Form; first-life mastery through 4th Form",
+      "basis": "canonical project English form, replacing unstable MTL Type/formula wording"
+    },
+    {
+      "topic": "Camus Morgue retrospective",
+      "final": "Camus Morgue / Ironblood Empress only within the future-war recollection already present in Chinese",
+      "basis": "canonical English naming without importing unrelated later revelations into the current timeline"
+    },
+    {
+      "topic": "chapter endpoint",
+      "final": "Cerberus collapses after exactly seven steps from Bloody Mamba venom",
+      "basis": "Chinese Chapter 11; Chapter 12 begins on the collapsed Cerberus"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "rebuilt Cerberus taxonomy and complete information window",
+    "normalized rank-equivalence table",
+    "normalized Baskerville Forms",
+    "preserved pre-existing Cerberus rib/arrow injuries",
+    "preserved Vikir's broken ribs and shattered shortsword",
+    "restored Cradle of Needles trap",
+    "preserved Bloody-Bean stake poisoning and explicit waste",
+    "restored Bloody Mamba fang payoff and exact seven-step collapse"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

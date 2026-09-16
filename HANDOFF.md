@@ -5,153 +5,161 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-16
-- **Updated by:** ChatGPT — Baskerville Dog family acceptance checkpoint
-- **Working branch:** `editorial/restart-baskerville-dog-family`
-- **Previous merged PR:** #7 — Hellhound Chapters 1–3
-- **Base main commit for this branch:** `786cbd96627a86fca550ee684001b7ba2cc94665`
+- **Updated by:** ChatGPT — Hounds of Hell acceptance checkpoint
+- **Working branch:** `editorial/restart-hounds-of-hell-family`
+- **Previous merged PR:** #8 — The Baskerville Dog Chapters 4–7
+- **Base main checkpoint:** `c4bf56635b966ba5f7f7b9d67dc4b724f93c723f`
 - **Open PR for current branch:** pending creation
 
 ## Authoritative current checkpoint
 
 - **Target edition:** 500 chapters
-- **Accepted:** **7**
+- **Accepted:** **11**
 - **Staged:** **0**
-- **Next chapter:** **8**
+- **Next chapter:** **12**
 - **Accepted title families:**
   - Chapters 1–3 — *Hellhound (1)–(3)*
   - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
-- **Next family start:** Chapter 8 — *Hounds of Hell (1)*
-- **Next-family full boundary:** **NOT YET VERIFIED**. Determine the complete contiguous run from Chapter 8 before accepting any chapter in it.
+  - Chapters 8–11 — *Hounds of Hell (1)–(4)*
+- **Latest family QA:** `qa/families/hounds-of-hell-0008-0011.md` — **PASS**
+- **Next title family:** **Chapters 12–13 — The Gluttonous Flies (1)–(2)**
+- **Next-family boundary:** **VERIFIED**. Chinese Chapters 12–13 carry parts (1)–(2); Chinese Chapter 14 changes to `独食 (1)`.
 - **Blocking issue:** none
 
 ## Rules that must not be lost
 
 - Chinese raw = semantic/narrative authority.
-- English Fandom wiki = canonical English authority for identified proper nouns/terms where an applicable entry exists.
-- English MTL = secondary alignment/phrasing reference only except Chapter 55.
-- Do not sanitize source content.
+- English Fandom wiki = canonical English authority for identified names/terms/locations/ranks/skills/monsters/organizations/titles where applicable.
+- English MTL/XHTML = secondary alignment/phrasing witness only except Chapter 55.
+- Do not sanitize or soften source content.
 - Process complete contiguous title families; chapter/family/PR completion is a checkpoint, not a stopping condition.
-- Do not assume target N == MTL N without content verification.
-- Final EPUB visual/layout QA remains deferred until complete-EPUB assembly.
+- Never assume target N == MTL N without title/content verification.
+- Protect reveal chronology even when canonical references contain later information.
+- Keep information windows complete and atomic.
 
-## Accepted production evidence — Chapters 4–7
+## Completed family — Chapters 8–11
 
-### Family
+### Boundary and alignment
 
-- `qa/families/baskerville-dog-0004-0007.md` — PASS
-- Family range: **4–7**
-- Chapter 8 changes title to *Hounds of Hell (1)*, establishing the boundary.
+Chinese headings:
+- Ch. 8 — *Hounds of Hell (1)*
+- Ch. 9 — *Hounds of Hell (2)*
+- Ch. 10 — *Hounds of Hell (3)*
+- Ch. 11 — *Hounds of Hell (4)*
+- Ch. 12 changes to *The Gluttonous Flies (1)*
 
-### Chapter 4 — The Baskerville Dog (1)
+Verified recovered-English mappings:
+- target 8 → MTL 8 — SHA `1ec6b7bff255d7ea718dcca063e5ded4ee5ba523`
+- target 9 → MTL 9 — SHA `d765e36aa4083e8054c7ea179c89730cd347e398`
+- target 10 → MTL 10 — SHA `8c2442bf760ee8ca0c3174c5d49556dab379cdac`
+- target 11 → MTL 11 — SHA `26e15feb304acd8e94d8f902c82a369dc900fb7e`
 
-- Chinese: `source/chinese/chapters/004.txt` — `a72d0371ccf0b3da0ad5a4cdb660ac7223753379`
-- MTL: `source/chapters/chapter-004.xhtml` — `42ad39ef16ea789978c405e5c80038df6edf3a08`
-- Draft: `manuscript/drafts/chapter-0004.md` — `ff0997d2b046a92f88d077094281ecd01f106e31`
-- QA: `qa/chapter-0004.md` — `fcd9d715a72245b301b53f14e74780f50a3bf515`
-- Provenance: `editorial/provenance/chapter-0004.json` — `b962e5787a5e19f9b357f31f3e9f789adda7cb9e`
-- Acceptance: `qa/acceptance/chapter-0004.json` — `d0d02a010f82d87420f0268d6b4288e2e69ada43`
+Chinese source SHAs:
+- `008.txt` — `d62d365170a0107c5c726c9da1901d996d2d508d`
+- `009.txt` — `316950c50ba6c3774ffbc779fb319bd1bcff8874`
+- `010.txt` — `6be1944dd10561d5246cff6ab830e6f5e39bc736`
+- `011.txt` — `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44`
+- boundary witness `012.txt` — `9cbd4648873cda28a0e9410966d0643dda873968`
 
-### Chapter 5 — The Baskerville Dog (2)
+### Final drafts
 
-- Chinese: `005.txt` — `2c2540ed32360a8010ff2083fdb6151d1b758971`
-- MTL 5 — `e8d0886160b5d4ec02db37cb7f939e77eb87631f`
-- Draft — `4ab417641b7f81ccf0f406a13a2e861df2e8fe06`
-- QA — `c653369290a599555598e5c58f1568273cde2b17`
-- Provenance — `f29379417da8e5bb9e7003867a3b5b0eeb3eb3f9`
-- Acceptance — `233d3763b1d9fe81e9945e20447a9fc9bcc18b1c`
+- `manuscript/drafts/chapter-0008.md` — `33ead486847f4fdb3cff95e00778d85dddc69315`
+- `manuscript/drafts/chapter-0009.md` — `e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2`
+- `manuscript/drafts/chapter-0010.md` — `5a340ea07718a4119488d153a9f37a265ba90781`
+- `manuscript/drafts/chapter-0011.md` — `15673ea64dfa3d9375c97a3bcd1ff605f3984ade`
 
-### Chapter 6 — The Baskerville Dog (3)
+### Chapter QA
 
-- Chinese: `006.txt` — `66ddbad71c43a90215fa1f56f4336071033c4e3a`
-- MTL 6 — `4827e0019e9a6e707c4e75debed26a974e9e4a33`
-- Draft — `561828cb5d4298d6e5a4649d45d293ce867da308`
-- QA — `4d0ba3155211857a9922a6463d97a18d75cc2814`
-- Provenance — `8a4749898e74371e6b69fd1e1fa3fc0f5c1d5d5d`
-- Acceptance — `76e0f558223ad1997b319e70b5b6f216be08e62b`
+- `qa/chapter-0008.md` — PASS — `c511faeada26320a8e764819051b15f570db622f`
+- `qa/chapter-0009.md` — PASS — `1406b60bb5f13639eab798b9a946446fca526893`
+- `qa/chapter-0010.md` — PASS — `ef0b10235e9dfd9b99a97abb37904bae05909e52`
+- `qa/chapter-0011.md` — PASS — `5f8d12c1c8c9ffeb3116940ce23e393490fcb0ae`
 
-### Chapter 7 — The Baskerville Dog (4)
+### Family QA
 
-- Chinese: `007.txt` — `f1a4dcf06a722c6d14b38d8beb08a425d471eb4d`
-- MTL 7 — `9d5414b25ad77e975bfb326666cc868be161953b`
-- Draft — `5a1d8c21aff248d7b8fe667dac47c06505116d11`
-- QA — `d4fcb71ffce885d0cc1ebda06e0e539f94db0f0c`
-- Provenance — `9f517b4492f81b13f378133e55dd42eb4405c97b`
-- Acceptance — `67a63daf7754fc38e1dd860a096120ff08301672`
+- `qa/families/hounds-of-hell-0008-0011.md` — PASS — `a5c43f7276f0bfe5e86f12a34238abcdcc79d003`
 
-## Accepted terminology/decisions from Chapters 4–7
+Continuity gates passed:
+- 7→8: Bloody Beans → practical-exam setup
+- 8→9: Pavlov bell → exam action
+- 9→10: chocolate setup → Hellhound poisoning payoff
+- 10→11: Cerberus reveal → continuous Cerberus fight
+- 11→12: seven-step Cerberus collapse → Chapter 12 opens on collapsed Cerberus
 
-- **Sword Beginner → Sword Expert → Sword Graduator → Sword Master**
-- **Low / Mid / High** substages when source-supported
-- Vikir at age eight: **High Sword Expert**
-- Previous-life High Sword Expert age: **sixteen**; MTL age-ten line rejected
-- **Highbro / Middlebro / Lowbro Le Baskerville**
-- contextual **Baskerville Trident / Hugo’s Trident** image
-- **John Barrymore**, Head Butler
-- **Morgue Clan**
-- **Red Fang Mountain** for the ruby-mine dispute; MTL Red Cane Mountain rejected
-- **Rok Empire** / Seven Great Clans context
-- **Bloody Beans**
-- child-rearing/nursery castle remains descriptive; MTL **Fang Castle** is not treated as canonically verified
+### Provenance
 
-## Important source/editorial findings preserved
+- `editorial/provenance/chapter-0008.json` — `03106e337c848627c611eec212d110be7fec0710`
+- `editorial/provenance/chapter-0009.json` — `5654c0b34c92d41653365c07f018a1d1f33c4895`
+- `editorial/provenance/chapter-0010.json` — `c32728ab4962a6461a77538d76d7f47159a73f69`
+- `editorial/provenance/chapter-0011.json` — `d857a77cfca1a027aba71eeb12091c2514c09ced`
 
-### Chapter 4
+### Acceptance records
 
-- complete Chinese sword-rank mechanics restored;
-- Hugo’s Seventh-Circle-equivalent mana + Sword Master standing retained;
-- Vikir’s previous-life age corrected to sixteen;
-- two-suns ending preserved as a distant guard’s observation of Vikir’s enormous mana manifestation.
+- `qa/acceptance/chapter-0008.json` — `08bb5f82d60975a0b7905f9111df92cff32fccc9`
+- `qa/acceptance/chapter-0009.json` — `e307b687650f1e3c74172b3e2539e811650bbc5b`
+- `qa/acceptance/chapter-0010.json` — `127831a7386c1d2e55cda9e11a7a6e01942560b7`
+- `qa/acceptance/chapter-0011.json` — `1430850ac6559c96234f044c34e4e92d46a61617`
 
-### Chapter 5
+## Accepted Hounds of Hell terminology / decisions
 
-- ten-minute suffocation attempt preserved;
-- Lowbro’s severed finger, Highbro’s broken nose/teeth, Middlebro’s jaw injury, blood/saliva/urine retained;
-- Styx protection stops Highbro’s dagger;
-- Vikir’s one-survivor threat and forced internal fracture of the Trident retained.
+- **Le Rouge et Le Noir Mountain**
+- **Guide Dog**
+- **Pavlov Van Baskerville**
+- **Brown Rat ‘Norvegicus’**
+- **Hellhound** — Danger Rating B+, 3 m, 2nd Ridge
+- **Cerberus** — Danger Rating A+, 7 m, 7th Ridge
+- **Hell’s Watchdog**
+- **Camus Morgue / Ironblood Empress** only within the future-war retrospective already present in Chinese
+- **Sword Expert / Sword Graduator / Sword Master** with Low/Mid/High substages
+- Sword/mage equivalence: Expert Low/Mid/High = 1st/2nd/3rd Circle; Graduator Low/Mid/High = 4th/5th/6th Circle; Sword Master = 7th Circle
+- **Baskerville 1st / 2nd / 3rd Form**; first-life Vikir had mastered through the 4th Form
+- **Cradle of Needles** as Vikir’s contextual label for the stake pit
+- **Bloody Beans** revalidated through the combat payoff
+- **Bloody Mamba** remains a scoped recovered-English fallback, not a newly claimed direct Fandom canonicalization
 
-### Chapter 6
+Key repairs include:
+- Chapter 8 scoring rebuilt from Chinese rather than MTL interpretation;
+- Chapter 9 Brown Rat/Hellhound windows restored as complete blocks;
+- Chapter 10 MTL `height` corrected to **kidneys**;
+- Chapter 10 near-impervious-body and post-coming-of-age High Sword Expert comparison restored;
+- Cerberus taxonomy corrected to **pinnacle of underworld-type monsters**;
+- Chapter 11 rank table and Baskerville Forms normalized;
+- explicit poisoning/waste/broken-rib details retained without sanitization;
+- exact seven-step Bloody Mamba payoff retained.
 
-- John Barrymore introduction restored;
-- Morgue/Red Fang ruby dispute canonicalized;
-- MTL `Advertisement` debris removed;
-- Hugo’s “How many died?” reaction retained;
-- physical healing versus psychological destruction of the triplets kept distinct;
-- ends on Vikir’s “How can the strong be wrong?” doctrine.
+## Fandom access note
 
-### Chapter 7
+The principal Fandom evidence for this family was successfully retrieved earlier during the active-family research pass. A later refresh attempt on 2026-09-16 was blocked by Fandom robots rules. QA/provenance records explicitly scope that limitation. Do not claim the blocked refresh succeeded, and do not invent canonical facts from it.
 
-- direct continuation of Chapter 6 interview preserved;
-- Hugo’s implied fratricide retained;
-- destroyed-family survivor/nun forgiveness anecdote retained;
-- under-fifteen water + haggis/offal diet and sweets-as-reward system restored;
-- concentrated **Bloody Beans** sequence retained with source quantities;
-- Vikir refuses bean processing, leading into the next family’s practical-exam arc.
+## Next family — Chapters 12–13
 
-## Canonical-reference access note
+### Boundary
 
-Current-family Fandom evidence was gathered during the active source-review phase. During final QA, fresh direct Fandom retrieval was blocked by robots.txt. This is recorded as an access limitation; no new canonical claim was fabricated after the block. Chinese remains narrative authority throughout.
+Chinese:
+- `012.txt` — `贪食的苍蝇 (1)` — SHA `9cbd4648873cda28a0e9410966d0643dda873968`
+- `013.txt` — `贪食的苍蝇 (2)` — SHA `9187c6e887445ee9cd416f323939e7165f0ada4b`
+- `014.txt` — `独食 (1)` — SHA `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`, proving a new family starts at 14
 
-## Global state files synchronized
+Recovered English title witnesses:
+- target 12 candidate → `source/chapters/chapter-012.xhtml`, title *The Gluttonous Flies (1)* — SHA `594ce3566f95cc8983e1298a593967f41ab73c3f`
+- target 13 candidate → `source/chapters/chapter-013.xhtml`, title *The Gluttonous Flies (2)* — SHA `63a478d5df24e966953d739028801391a3d09727`
 
-- `editorial/chapter-tracker.json` — 7 accepted, next 8
-- `editorial/reconstruction-status.json` — 7 accepted, next 8
-- `PROJECT_STATE.md` — 7 accepted, next 8
-- `PROGRESS.md` — Chapters 4–7 acceptance logged
-- `editorial/GLOSSARY.md` — Chapters 4–7 terms promoted/scoped
-- `README.md` — current checkpoint updated
+**Important:** title matching is promising but full 12→12 and 13→13 content alignment still requires normal verification from complete Chinese/English reads. Do not mark it verified solely from numbering/title.
 
-## Exact next actions
+### Exact next actions
 
-1. Open the Chapters 4–7 PR from `editorial/restart-baskerville-dog-family` to `main`, verify mergeability, and squash merge.
-2. Create a fresh branch from merged `main` for the Chapter 8 family.
-3. Inspect Chinese headings starting at `008.txt` until the base title changes; determine the complete **Hounds of Hell** family boundary.
-4. Verify the corresponding target↔MTL mappings by title/content, not number alone.
-5. Read every Chinese raw in the family completely and inspect the next chapter for boundary continuity.
-6. Revalidate applicable Fandom canonical terms, especially **Le Rouge et Le Noir Mountain**, Guide Hounds, monster names/ranks, exam terminology, Bloody Beans usage, and any sword ranks/skills that recur.
-7. Draft and QA the full family, create hash-bound provenance/acceptance evidence, update tracker/status/glossary/progress/handoff, merge, and continue to the next family.
+1. Open and merge the current Chapters 8–11 PR after verifying it is mergeable.
+2. Create a fresh branch from the new merged main for *The Gluttonous Flies*.
+3. Read complete Chinese Chapters 12 and 13; read Chapter 14 opening/endpoint context as needed.
+4. Read the full recovered English Chapters 12 and 13 and verify target↔MTL alignment by opening, event sequence, distinctive entities, information windows, and endpoints.
+5. Canonicalize every newly introduced name/term against the English Fandom wiki where accessible. **Do not assume the English spelling of the Chinese `巴尔泽布`/related fly-demon or weapon term; establish the canonical form from evidence before locking it.**
+6. Reconstruct Chapters 12–13 from Chinese, preserving explicit source detail and information-window integrity.
+7. QA both chapters individually and as one title-family unit, including the 11→12 collapsed-Cerberus handoff and the 13→14 title-family boundary.
+8. Create hash-bound provenance/acceptance records; update glossary/tracker/status/project/progress/handoff.
+9. Merge the 12–13 family if clean, then immediately determine and begin the Chapter 14 family.
 
-## Persistent source exceptions
+## Persistent exceptions
 
-- Chapter 55 Chinese raw missing; MTL 55 fallback.
-- Combined raw containers retained intact: 075→75–76, 267→267–268, 284→284–285, 351→351–352, 353→353–354, 385→385–386, 495→495–496.
+- Chapter 55 Chinese raw missing; verified MTL 55 fallback.
+- Combined raw containers retained intact: `075.txt`→75–76, `267.txt`→267–268, `284.txt`→284–285, `351.txt`→351–352, `353.txt`→353–354, `385.txt`→385–386, `495.txt`→495–496.
 - Verified nontrivial mappings already recorded: target 75→MTL 74, 76→75, 267→265, 268→266.

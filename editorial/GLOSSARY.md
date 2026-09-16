@@ -12,37 +12,47 @@ This register follows the restarted 2026-09-16 workflow:
 | Term / topic | Current status | Evidence and scope |
 |---|---|---|
 | Vikir Van Baskerville | **Accepted — Hellhound Ch. 1–3 onward** | Chinese identifies the protagonist; Fandom dedicated page establishes **Vikir Van Baskerville**. |
-| Hugo Le Baskerville / Marquis | **Accepted — Ch. 1–7; source conflict documented** | Fandom establishes **Hugo Le Baskerville**, Patriarch, **Marquis**. Chinese Ch. 1 uses `伯爵` (“Count”) once; canonical Marquis is retained with the conflict recorded. |
-| Baskerville Clan / Iron-Blooded Sword Clan | **Accepted — Ch. 1–7** | Fandom Baskerville page uses **Baskerville Clan** and alias **Iron-Blooded Sword Clan**. Contextual “Baskervilles” / “family” remains natural in kinship prose. |
-| Le / La / Van name particles | **Accepted — Ch. 1 and revalidated Ch. 4** | Current source + canonical evidence supports **Le/La** for main/direct family naming and **Van** for Vikir’s outsider/illegitimate line. |
+| Hugo Le Baskerville / Marquis | **Accepted — Ch. 1–11; source conflict documented** | Fandom establishes **Hugo Le Baskerville**, Patriarch, **Marquis**. Chinese Ch. 1 uses `伯爵` (“Count”) once; canonical Marquis is retained with the conflict recorded. |
+| Baskerville Clan / Iron-Blooded Sword Clan | **Accepted — Ch. 1–11** | Fandom Baskerville page uses **Baskerville Clan** and alias **Iron-Blooded Sword Clan**. Contextual “Baskervilles” / “family” remains natural in kinship prose. |
+| Le / La / Van name particles | **Accepted — Ch. 1 onward where applicable** | Current source + canonical evidence supports **Le/La** for main/direct family naming and **Van** for Vikir’s outsider/illegitimate line. |
 | Cradle of Swords | **Accepted — Hellhound Ch. 1–3** | Chinese uses blade-cradle variants; Fandom explicitly names the trial **Cradle of Swords**. MTL “Tower of Swords” is not treated as a separate place. |
-| River Styx | **Accepted — Ch. 1–5 scope** | Fandom explicitly uses **River Styx**. Mechanics come from Chinese, not wiki summaries. |
-| Seven Great Families / Seven Great Clans | **Accepted — Ch. 2, 4, 6 scope** | Use according to narrative context. Ch. 4 public sword-master explanation and Ch. 6 Morgue/Baskerville context revalidate the worldbuilding term without importing later clan details. |
-| Rok Empire | **Accepted — Ch. 4–6 scope** | Revalidated in the sword-master and Seven Great Clans context. |
-| 1 Circle | **Accepted — Ch. 3 retrospective scope** | Fandom Vikir Sword Progress supports **1 Circle** wording for his age-15 mana milestone; Chinese controls the accompanying faint-aura description. |
-| Sword Beginner | **Accepted — The Baskerville Dog Ch. 4–7** | Chinese Ch. 4: cannot channel/imbue mana into the sword. Fandom Baskerville swordsmanship material supports the English form. |
-| Sword Expert | **Accepted — The Baskerville Dog Ch. 4–7** | Chinese Ch. 4: mana can be placed on the sword, producing gas-like aura. |
-| Sword Graduator | **Accepted — The Baskerville Dog Ch. 4–7** | Chinese Ch. 4: aura becomes dense/viscous like liquid. Use **Graduator** as the established project/Fandom form despite occasional “Graduate” wording in secondary wiki prose. |
-| Sword Master | **Accepted — The Baskerville Dog Ch. 4–7** | Chinese Ch. 4: aura becomes solid and shapeable at will. Hugo is established at this rank. |
-| Low / Mid / High sword-rank substages | **Accepted — Ch. 4 scope onward where source-supported** | Fandom/project rank evidence supports the substages. Do not invent a substage when Chinese does not specify one. |
-| High Sword Expert — Vikir | **Accepted — Ch. 4** | Chinese explicitly places eight-year-old Vikir at High Sword Expert. Previous-life attainment was at **sixteen**, correcting the MTL’s corrupted age-ten line. |
-| Highbro Le Baskerville | **Accepted — Ch. 4–6** | Chinese identifies the triplet; canonical English form revalidated against current Fandom evidence. |
-| Middlebro Le Baskerville | **Accepted — Ch. 4–6** | Same scope as Highbro. |
-| Lowbro Le Baskerville | **Accepted — Ch. 4–6** | Same scope as Highbro. |
-| Baskerville Trident / Hugo’s Trident | **Accepted — Ch. 4–6 contextual image** | Chinese uses the trident image for the three brothers; Fandom also records Three Spears/Trident-type naming. Do not import later relationship outcomes early. |
-| John Barrymore / Head Butler | **Accepted — Ch. 6–7** | Chinese introduces `约翰·贝里摩尔`; Fandom establishes **John Barrymore**, Head Butler, with four generations of service. |
-| Morgue Clan | **Accepted — Ch. 6–7** | Chinese `米尔格` identified as the canonical **Morgue Clan**, one of the Seven Great Clans. |
+| River Styx | **Accepted — Ch. 1–11 where referenced** | Fandom explicitly uses **River Styx**. Mechanics come from Chinese, not wiki summaries. |
+| Seven Great Families / Seven Great Clans | **Accepted — Ch. 2, 4, 6, 11 scope** | Use according to narrative context. Ch. 11 future-war retrospective revalidates the clans as the source of selected warriors without importing later clan details. |
+| Rok Empire | **Accepted — Ch. 4–8 scope** | Revalidated in the sword-master / Seven Great Clans / territory-expansion context. |
+| 1 Circle | **Accepted — Chapter 3 retrospective scope** | Fandom Vikir Sword Progress supports **1 Circle** wording for his age-15 mana milestone; Chinese controls the accompanying faint-aura description. |
+| Sword Beginner | **Accepted — The Baskerville Dog Ch. 4 onward** | Chinese Ch. 4: cannot channel/imbue mana into the sword. Fandom Baskerville swordsmanship material supports the English form. |
+| Sword Expert | **Accepted — Ch. 4 onward** | Chinese Ch. 4: mana can be placed on the sword, producing gas-like aura. Ch. 11 revalidates the rank in the sword/mage equivalence table. |
+| Sword Graduator | **Accepted — Ch. 4 onward** | Chinese Ch. 4: aura becomes dense/viscous like liquid. Use **Graduator** as the established project/Fandom form despite occasional “Graduate” wording in secondary prose. Ch. 11 revalidates it. |
+| Sword Master | **Accepted — Ch. 4 onward** | Chinese Ch. 4: aura becomes solid and shapeable at will. Hugo is established at this rank; Ch. 11 revalidates it in the equivalence table. |
+| Low / Mid / High sword-rank substages | **Accepted — Ch. 4 onward where source-supported** | Fandom/project rank evidence supports the substages. Do not invent a substage when Chinese does not specify one. |
+| High Sword Expert — Vikir | **Accepted — Ch. 4; revalidated Ch. 10–11** | Chinese explicitly places eight-year-old Vikir at High Sword Expert. Ch. 10 states most Baskerville children reach it only after the coming-of-age ceremony. |
+| Sword / mage rank equivalence | **Accepted — Ch. 11** | Low/Mid/High Sword Expert = 1st/2nd/3rd Circle; Low/Mid/High Sword Graduator = 4th/5th/6th Circle; Sword Master = 7th Circle. Source table normalized to accepted English ranks. |
+| Baskerville 1st / 2nd / 3rd Form | **Accepted — Ch. 11** | Chinese `第一式/第二式/第三式`; established English project/Fandom wording uses **Form**. First-life Vikir had mastered through the 4th Form. |
+| Highbro Le Baskerville | **Accepted — Ch. 4–11 where present** | Chinese identifies the triplet; canonical English form revalidated against current Fandom evidence. |
+| Middlebro Le Baskerville | **Accepted — Ch. 4–11 where present** | Same scope as Highbro. |
+| Lowbro Le Baskerville | **Accepted — Ch. 4–11 where present** | Same scope as Highbro. |
+| Baskerville Trident / Hugo’s Trident | **Accepted — Ch. 4–11 contextual image** | Chinese uses the trident image for the three brothers; Ch. 11 explicitly connects their tactics to Cerberus. Do not import later relationship outcomes early. |
+| John Barrymore / Head Butler | **Accepted — Ch. 6–10 where present** | Chinese introduces `约翰·贝里摩尔`; Fandom establishes **John Barrymore**, Head Butler, with four generations of service. |
+| Morgue Clan | **Accepted — Ch. 6–11 where present** | Chinese `米尔格` identified as the canonical **Morgue Clan**, one of the Seven Great Clans. |
 | Red Fang Mountain | **Accepted — Ch. 6** | Canonical location for the ruby-mine dispute. MTL **Red Cane Mountain** is rejected. |
-| Bloody Beans | **Accepted — Ch. 7** | Chinese names the concentrated red cocoa beans; current Fandom synopsis independently supports **Bloody Beans**. Source quantities/mechanics remain Chinese-controlled. |
-| child-rearing / nursery castle | **Descriptive rendering — Ch. 3–7; proper name unresolved** | Chinese varies descriptive forms. Current canonical evidence does not establish the MTL label **Fang Castle** as a dedicated proper name, so do not force it. |
-| Bloody Mamba | **Scoped fallback — Ch. 3; not directly Fandom-canonized** | Recovered English novel consistently uses **Bloody Mamba**. Current Fandom retrieval describes the snakes generically as black mambas and exposes no dedicated formal species entry. |
+| Bloody Beans | **Accepted — Ch. 7–11** | Chinese names the concentrated red cocoa beans; current Fandom evidence independently supports **Bloody Beans**. Source quantities/mechanics remain Chinese-controlled. |
+| child-rearing / nursery castle | **Descriptive rendering — Ch. 3–8; proper name unresolved** | Chinese varies descriptive forms. Current canonical evidence does not establish the MTL label **Fang Castle** as a dedicated proper name, so do not force it. |
+| Le Rouge et Le Noir Mountain | **Accepted — Ch. 8–11** | Fandom canonical location retrieved during the Hounds of Hell research pass. Replaces unstable MTL `Le Rouge` / `Le Rogue` forms and supersedes the old “Red and Black Mountains” placeholder. |
+| Guide Dog | **Accepted — Ch. 8–11** | Canonical role for Baskerville guardian knights supervising the practical survival examination boundary. |
+| Pavlov Van Baskerville | **Accepted — Ch. 8** | Fandom identifies Pavlov as an instructor / Guide Dog; Chinese has him ring the exam-start bell. |
+| Brown Rat ‘Norvegicus’ | **Accepted — Ch. 9** | Chinese monster window identifies the F-rank rat; project/Fandom evidence supports the Brown Rat/Norvegicus English identification. Later abilities are not backfilled into Ch. 9. |
+| Hellhound | **Accepted — Ch. 9–10** | **Danger Rating B+**, **3 m**, **Le Rouge et Le Noir Mountain, 2nd Ridge**. Chinese controls the descriptive epithet, fatal-bite warning, sulfuric fire, movement/water weakness, and poison sequence. |
+| Cerberus | **Accepted — Ch. 10–11** | **Danger Rating A+**, **7 m**, **Le Rouge et Le Noir Mountain, 7th Ridge**. Chinese taxonomy: pinnacle of **underworld-type monsters**. |
+| Hell’s Watchdog | **Accepted — Ch. 10–11** | Canonical English alias for Cerberus; kept inside the complete monster information window. |
+| Camus Morgue / Ironblood Empress | **Accepted — Ch. 11 future-war retrospective scope** | Canonical English name/title used only where Chinese already invokes her future-war intervention against Cerberus. Do not import unrelated later revelations early. |
+| Cradle of Needles | **Accepted contextual scene label — Ch. 11** | Vikir’s name for the prepared stake pit that catches Cerberus. Do not confuse with the Cradle of Swords. |
+| Bloody Mamba | **Scoped fallback — Ch. 3 and Ch. 11 payoff; not directly Fandom-canonized** | Recovered English novel consistently uses **Bloody Mamba**. Fandom retrieval describes the infancy snakes generically as black mambas and exposes no dedicated formal species entry. Ch. 11 reuses the preserved venom/fangs; fallback status remains unchanged. |
 | Demon Realm / demons | Contextual translation choice | Chinese `魔界` is rendered **Demon Realm** where it denotes the world/realm; `魔族` is translated contextually as demons/demon race. |
+| Danger Rating | **Accepted working monster-window label — Ch. 9–11** | Used consistently for the Chinese danger/risk field in Brown Rat, Hellhound, and Cerberus windows. Reassess only if later Chinese establishes a distinct competing formal system. |
 | Aiyen / Akwilla / Ballak / Ahun | Historical canonical leads | Reverify against Fandom at first restarted appearance. |
 | Kirko | Historical rank-continuity lead | Prior reports place Kirko as Ensign through Chapter 372 with later Lieutenant promotion. Revalidate chapter-by-chapter and never backfill later rank. |
 | Andras | Historical reveal lead | “First Corpse Andras” is a recovered correction. Revalidate against Chinese + Fandom when reached and respect reveal chronology. |
 | Flauros / Andrealphus / Cimeries | Historical reveal leads | Previously recorded as Second / Third / Fourth Corpse. Revalidate when reached. |
-| Red and Black Mountains 7th Ridge | Historical correction lead | Known prior correction; verify the full information window against Chinese and canonical location terminology when reached. |
-| Danger / Risk / Threat labels | Unresolved | Determine whether Chinese describes distinct systems before standardizing English. |
 | Poseidon | Later continuity lead only | Historical reports mention a blue sphere/aura-root context around Chapters 373–374. Revalidate when reached. |
 
 ## Accepted title-family evidence
@@ -55,7 +65,11 @@ See `editorial/provenance/chapter-0001.json` through `chapter-0003.json` and `qa
 
 See `editorial/provenance/chapter-0004.json` through `chapter-0007.json` and `qa/families/baskerville-dog-0004-0007.md`.
 
-The final QA pass for Chapters 4–7 encountered a Fandom robots.txt block. Canonical claims promoted above were based on current-session Fandom evidence gathered before that block and are scoped to identified terminology only; no new wiki claim was fabricated after access failed.
+### Hounds of Hell, Chapters 8–11
+
+See `editorial/provenance/chapter-0008.json` through `chapter-0011.json` and `qa/families/hounds-of-hell-0008-0011.md`.
+
+The Hounds of Hell research pass successfully retrieved the principal Fandom evidence before a later refresh attempt was blocked by robots rules. The QA/provenance records explicitly scope that access limitation; no canonical claim was fabricated from the failed refresh.
 
 ## Rules for adding or promoting entries
 
