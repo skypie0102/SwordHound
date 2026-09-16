@@ -1,0 +1,80 @@
+{
+  "chapter": 8,
+  "title": "Hounds of Hell (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
+    "family_qa": {
+      "path": "qa/families/hounds-of-hell-0008-0011.md",
+      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/008.txt",
+    "blob_sha": "d62d365170a0107c5c726c9da1901d996d2d508d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-008.xhtml",
+    "blob_sha": "1ec6b7bff255d7ea718dcca063e5ded4ee5ba523",
+    "target_alignment": 8,
+    "alignment_status": "verified_by_title_opening_scene_sequence_entities_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Pavlov Van Baskerville",
+      "applies_to": ["Pavlov Van Baskerville", "Instructor", "Guide Dog"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Le Rouge et Le Noir Mountain",
+      "applies_to": ["Le Rouge et Le Noir Mountain", "survival-exam location"]
+    }
+  ],
+  "canonical_reference_access": {
+    "date": "2026-09-16",
+    "status": "principal pages retrieved earlier in active-family research; later refresh blocked by Fandom robots rules",
+    "rule": "no canonical claim added from the failed refresh"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0008.md",
+    "blob_sha": "33ead486847f4fdb3cff95e00778d85dddc69315"
+  },
+  "qa": {
+    "path": "qa/chapter-0008.md",
+    "blob_sha": "c511faeada26320a8e764819051b15f570db622f",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "practical-exam score rubric",
+      "final": "10 / 30 / 50 / 70 / 90 with no 100-point tier",
+      "basis": "Chinese source controls the conditions; competitor wording was kept close to the Chinese rather than converted into a generic kill/elimination mechanic"
+    },
+    {
+      "topic": "mountain name",
+      "final": "Le Rouge et Le Noir Mountain",
+      "basis": "canonical English reference previously retrieved; replaces unstable MTL Le Rouge/Le Rogue forms"
+    },
+    {
+      "topic": "boundary supervisors",
+      "final": "Guide Dogs; Pavlov Van Baskerville as the instructor who rings the bell",
+      "basis": "Chinese role plus previously retrieved Fandom canonical terminology"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored full mountain name",
+    "rebuilt training and food-ration explanation",
+    "reconstructed the score rubric from Chinese",
+    "preserved no-100-point and death-equals-zero rules",
+    "restored Guide Dog supervision and Pavlov endpoint",
+    "preserved triplets' conspicuous silence after their earlier defeat"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}
