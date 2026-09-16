@@ -2,6 +2,58 @@
 
 These instructions govern reconstruction and editorial work in this repository.
 
+## Mandatory session startup and handoff
+
+`HANDOFF.md` is the live operational continuation record for this project.
+
+### At the start of every work session
+
+Read these files **before editing any chapter**:
+
+1. `AGENTS.md`
+2. `HANDOFF.md`
+3. `PROJECT_STATE.md`
+4. `PROGRESS.md`
+5. `editorial/WORKFLOW.md`
+6. `editorial/SOURCES.md`
+7. `editorial/chapter-tracker.json`
+8. `editorial/GLOSSARY.md`
+
+Reconcile the handoff against accepted tracker/provenance evidence. Never assume a chapter is complete solely because `HANDOFF.md` or a historical progress note says so.
+
+### During every work session
+
+Keep `HANDOFF.md` current after meaningful checkpoints, especially after:
+
+- determining a title-family boundary;
+- verifying or changing MTL alignment;
+- resolving a consequential canonical-name/term decision;
+- accepting/staging chapters;
+- opening, updating, or merging a PR;
+- encountering a blocker that would matter to the next agent.
+
+This reduces lost work if a session ends unexpectedly.
+
+### Before ending or handing off every session
+
+Updating `HANDOFF.md` is **mandatory**, even if no chapter was accepted. It must state:
+
+- accepted/staged counts and exact next chapter;
+- current contiguous title family and verified boundary, or why the boundary is still unresolved;
+- chapter(s) actively in progress and their exact state;
+- Chinese source container(s) reviewed;
+- verified English-MTL mapping(s) and evidence;
+- Fandom canonical-name/term/location checks completed and still pending;
+- consequential translation/continuity decisions;
+- unresolved questions/blockers;
+- branch, PR, and merge state;
+- files created/updated during the session;
+- **the exact next actions another agent should perform**, in order.
+
+Never leave the next agent with a vague instruction such as “continue Chapter N.” Preserve enough detail to resume without rediscovering completed analysis.
+
+If `HANDOFF.md` conflicts with accepted chapter tracker/provenance evidence, accepted evidence wins and the handoff must be corrected immediately.
+
 ## Source authority
 
 Effective **2026-09-16**, the project uses separate authorities for **semantic content** and **canonical English terminology**.
@@ -26,7 +78,7 @@ Namu Wiki and other supporting sources may be used for additional context and di
 
 ### Missing Chinese raws
 
-When no Chinese raw exists, the English MTL becomes the sole text source. Currently this applies to **Chapter 55**. Such chapters still require a full line edit, continuity pass, terminology pass, and QA. Record the absence of the primary source explicitly.
+When no Chinese raw exists, the English MTL becomes the sole text source. Currently this applies to **Chapter 55**. Such chapters still require a full line edit, continuity pass, terminology pass, Fandom canonicalization pass, and QA. Record the absence of the primary source explicitly.
 
 ### Combined Chinese raws
 
@@ -38,13 +90,13 @@ Do not split a source file merely to make filenames look sequential. Split the r
 
 The target edition has **500 chapters**. The recovered English MTL corpus has **493 chapters**, and its numbering is not globally one-to-one with the Chinese target edition.
 
-Never infer `target N == MTL N` unless explicitly verified. Before using an English MTL chapter as a reference, align it by chapter title, neighboring title family, opening/closing events, named entities, and scene sequence. Store verified nontrivial mappings in `source/chinese/chapter-exceptions.tsv` or a future complete alignment table.
+Never infer `target N == MTL N` unless explicitly verified. Before using an English MTL chapter as a reference, align it by chapter title, neighboring title family, opening/closing events, named entities, and scene sequence. Store verified nontrivial mappings in `source/chinese/chapter-exceptions.tsv` or a future complete alignment table, and summarize newly verified mappings in `HANDOFF.md`.
 
 ## Continuous title-family processing
 
-**Process reconstruction in contiguous chapter-title families, not as isolated one-chapter stopping points.** Chapters sharing the same base title with numbered parts — for example, `Hellhound (1)`, `Hellhound (2)`, and so on — form one editorial/QA batch whenever they are contiguous in the target edition.
+**Process reconstruction in contiguous chapter-title families, not as isolated one-chapter stopping points.** Chapters sharing the same base title with numbered parts form one editorial/QA batch whenever they are contiguous in the target edition.
 
-Before beginning a batch, determine the complete contiguous title-family boundary from the available target titles, tracker, Chinese headings, and verified English alignment. Keep terminology, continuity, chronology, and source decisions consistent across the whole family.
+Before accepting any chapter in a batch, determine the complete contiguous title-family boundary from Chinese headings, verified English alignment, and available tracker/index evidence. Keep terminology, continuity, chronology, and source decisions consistent across the whole family.
 
 **A completed title family is a checkpoint, not a stopping condition.** After one family has been editorially completed and integrated, immediately identify the next contiguous title family and continue processing it. Continue for as many chapters/title families as can be safely completed in the active work session until one of these conditions occurs:
 
@@ -52,7 +104,7 @@ Before beginning a batch, determine the complete contiguous title-family boundar
 - the source corpus ends; or
 - a genuine blocking issue prevents safe editorial work.
 
-Do **not** stop merely because one chapter, one PR, or one title-family batch has finished. Start a new batch when the base title changes. If a title family is unusually large or a genuine blocker forces a split, document the exception and preserve a clear continuity handoff.
+Do **not** stop merely because one chapter, one PR, or one title-family batch has finished. If a family is unusually large or a genuine blocker forces a split, document the exception and exact continuity handoff in `HANDOFF.md`.
 
 ## Editorial-first reconstruction workflow
 
@@ -67,15 +119,15 @@ For every chapter within the active title-family batch:
 5. Produce a faithful natural-English chapter. Preserve explicitness, tone, sequence, and information. Do not invent connective material to smooth over MTL problems.
 6. **Do not sanitize the source.** Preserve violence, gore, profanity, anatomical language, degradation, sexual material, and other harsh or explicit content when present. Do not euphemize, generalize, omit, or soften it for palatability; equally, do not intensify beyond the evidence.
 7. Check proper nouns and recurring terminology against the Fandom wiki, `editorial/GLOSSARY.md`, and neighboring accepted chapters while protecting reveal chronology.
-8. Run chapter QA: semantic fidelity; no dropped, duplicated, or invented material; names/terms consistency; title-family and chapter-boundary continuity; grammar and naturalness; project formatting semantics; removal of machine-translation artifacts; and, for combined raws, documented split integrity with no gap or overlap.
+8. Run chapter QA: semantic fidelity; no dropped, duplicated, invented, or sanitized material; canonical names/terms; title-family and chapter-boundary continuity; grammar and naturalness; information-window and scene-break semantics; provenance/alignment; and combined-pair integrity where relevant.
 9. Only then mark the chapter accepted.
-10. At the end of the full title-family batch, update status/progress and continue directly into the next title family unless one of the explicit stopping conditions applies.
+10. Update `HANDOFF.md` at the meaningful checkpoint and continue through the rest of the title family and subsequent families unless an explicit stopping condition applies.
 
 For MTL-only Chapter 55, add a dedicated uncertainty pass: compare both neighboring chapters, resolve terminology from established context and the canonical English wiki, and avoid speculative fixes that cannot be supported.
 
 ## Editorial versus presentation QA
 
-Editorial work comes first. During chapter reconstruction, prioritize source fidelity, grammar, awkward wording, mistranslations, names/terms, speaker attribution, continuity, chronology, information-window content/structure, scene-break semantics, paragraph provenance, source alignment, and readable final prose.
+Editorial work comes first. During chapter reconstruction, prioritize source fidelity, grammar, awkward wording, mistranslations, names/terms, speaker attribution, continuity, chronology, information-window content/structure, scene-break semantics, provenance/alignment, historical-audit triage, and readable final prose.
 
 Defer presentation/layout QA until the complete EPUB phase. Do not spend ordinary chapter-processing time or GitHub runners on Playwright/browser rendering, screenshots, dialogue-indent measurements, 1.65 line-height checks, viewport overflow checks, visual CSS tuning, or other final presentation validation unless the user specifically requests an earlier visual check.
 
@@ -83,26 +135,27 @@ Editorial acceptance must not depend on browser screenshots or layout metrics.
 
 ## Current checkpoint
 
-The source-policy migration invalidated the previous Korean-assisted acceptance state. Reconstruction has now resumed under the Chinese-first policy.
+The project has been fully restarted under the restored workflow.
 
-- Accepted: **1 / 500**
+- Accepted: **0 / 500**
 - Staged: **0**
-- Latest accepted: **Chapter 1 — Hellhound (1)**
-- Next target: **Chapter 2 — Hellhound (2)**
+- Next target: **Chapter 1**
+- Active family: must be determined before acceptance
+- Live continuation record: `HANDOFF.md`
 - Current policy/state: `PROJECT_STATE.md`
 - Detailed procedure: `editorial/WORKFLOW.md`
 - Source exceptions: `source/chinese/chapter-exceptions.tsv`
 
-Chapter 2 intentionally repeats part of the nursery/Cradle sequence from Chapter 1 from Vikir's internal perspective. Preserve this source-authentic overlap rather than treating it as accidental duplication.
+The earlier Chinese-first Chapter 1 acceptance is superseded and may be consulted only as historical analysis; it is not current accepted evidence.
 
 ## Repository hygiene
 
-- Work on a dedicated branch; do not write source-policy migrations directly to `main`.
+- Work on a dedicated branch for meaningful editorial batches/infrastructure changes.
 - Preserve user-supplied Chinese raws byte-for-byte unless a source-file repair is explicitly justified.
 - Do not physically split the seven audited combined raws without new evidence of a reliable boundary.
-- Keep generated draft/QA/provenance artifacts out of the accepted state until they pass the current Chinese-first workflow.
-- Record explicit edits, provenance, QA questions, evidence, review mode, and title-family continuity decisions.
-- Update `PROGRESS.md`, `PROJECT_STATE.md`, `editorial/reconstruction-status.json`, and `editorial/chapter-tracker.json` as accepted batches advance.
+- Keep generated draft/QA/provenance artifacts out of accepted state until they pass the current workflow.
+- Record explicit edits, provenance, QA questions, evidence, review mode, canonical-reference decisions, and title-family continuity decisions.
+- Update `PROGRESS.md`, `PROJECT_STATE.md`, `editorial/reconstruction-status.json`, `editorial/chapter-tracker.json`, and `HANDOFF.md` as accepted batches advance.
 
 ## GitHub Actions / runner policy
 
