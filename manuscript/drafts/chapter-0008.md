@@ -22,7 +22,7 @@ Guardian knights serving as instructors drove them without mercy.
 
 During breaks, the children played with rubber knives.
 
-When they slept, they were sometimes placed beside the corpses of enormous monsters or the young of smaller monsters.
+When they slept, they were sometimes placed beside the corpses of enormous monsters or small monster cubs.
 
 The purpose was simple: accustom them to the grotesque appearance of prey and the savagery of wild beasts.
 
@@ -30,7 +30,7 @@ At eight years old, formal combat training began.
 
 Their diet changed as well.
 
-Chicken bones were boiled into broth, then mixed with assorted scraps of meat, sinew, and offal and cooked down together.
+Chicken bones were boiled into broth, then mixed with assorted scraps of meat and sinew and cooked down together.
 
 The mixture was stuffed into tough intestines and boiled again until even the last of the excess fat had been drawn out.
 
@@ -72,9 +72,9 @@ That was Hugo’s view.
 <p class="info-window-title">Practical Examination Scoring</p>
 <p class="info-window-row">Survive: 10 points</p>
 <p class="info-window-row">Survive without being seriously injured or crippled: 30 points</p>
-<p class="info-window-row">Outlast or eliminate other children and survive: 50 points</p>
+<p class="info-window-row">Abandon the other children and survive alone: 50 points</p>
 <p class="info-window-row">Kill a monster and survive: 70 points</p>
-<p class="info-window-row">Combine competitor elimination or monster hunting with survival without crippling injury: 90 points</p>
+<p class="info-window-row">Leave other children behind or kill a monster, then survive without crippling injury: 90 points</p>
 </div>
 
 There was no score of one hundred.
