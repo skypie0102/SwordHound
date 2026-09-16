@@ -313,7 +313,7 @@ Two yellow eyes glowing like lamps.
 <p class="info-window-row">Size: 3 m</p>
 <p class="info-window-row">Discovery Location: Le Rouge et Le Noir Mountain, 2nd Ridge</p>
 <p class="info-window-row">Commonly called ‘the dog that carries hell.’</p>
-<p class="info-window-row">A canine monster that carries the fires of hell within its body.</p>
+<p class="info-window-row">Those who encounter one are said to suffer terrible misfortune; once bitten, there is no chance of survival.</p>
 <p class="info-window-row">Sulfuric flame pours from its eyes and mouth. That fire will not go out until the life serving as its fuel has burned away.</p>
 </div>
 
