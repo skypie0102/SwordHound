@@ -1,0 +1,36 @@
+{
+  "chapter": 5,
+  "title": "The Baskerville Dog (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "family_qa_path": "qa/families/baskerville-dog-0004-0007.md",
+    "family_qa_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/005.txt",
+    "primary_source_sha": "2c2540ed32360a8010ff2083fdb6151d1b758971",
+    "english_reference_path": "source/chapters/chapter-005.xhtml",
+    "english_reference_sha": "e8d0886160b5d4ec02db37cb7f939e77eb87631f",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0005.md",
+    "draft_sha": "4ab417641b7f81ccf0f406a13a2e861df2e8fe06",
+    "qa_path": "qa/chapter-0005.md",
+    "qa_sha": "c653369290a599555598e5c58f1568273cde2b17",
+    "provenance_path": "editorial/provenance/chapter-0005.json",
+    "provenance_sha": "f29379417da8e5bb9e7003867a3b5b0eeb3eb3f9"
+  },
+  "canonical_checks": [
+    "Highbro / Middlebro / Lowbro",
+    "Baskerville Trident",
+    "River Styx"
+  ],
+  "documented_limits": [
+    "One Chinese wager line is locally damaged; the final line is repaired conservatively from immediate Chinese context plus the aligned English witness without changing event sequence.",
+    "Child-rearing-castle naming remains descriptive because a dedicated canonical proper name is not confirmed."
+  ]
+}
