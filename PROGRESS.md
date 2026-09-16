@@ -1,8 +1,47 @@
 # Reconstruction Progress
 
+## 2026-09-16 — Hounds of Hell (1)–(4) accepted under restarted workflow
+
+**Current state:** 11 / 500 accepted; 0 staged; next Chapter 12.
+
+Completed the third contiguous title-family batch:
+
+- Chapter 8 — *Hounds of Hell (1)*
+- Chapter 9 — *Hounds of Hell (2)*
+- Chapter 10 — *Hounds of Hell (3)*
+- Chapter 11 — *Hounds of Hell (4)*
+
+The family boundary was verified from Chinese headings before acceptance; Chapter 12 changes to *The Gluttonous Flies (1)*. English references 8→8, 9→9, 10→10, and 11→11 were independently verified by title, opening, scene sequence, distinctive monster windows/events, and endpoints.
+
+Major editorial/canonical work in this family:
+
+- revalidated **Le Rouge et Le Noir Mountain**, **Guide Dogs**, and **Pavlov Van Baskerville** for the survival examination;
+- restored the full Chapter 8 practical-exam score rubric, including the no-100-point rule and death = 0;
+- rebuilt the **Brown Rat ‘Norvegicus’** and **Hellhound** information windows as complete blocks;
+- restored Hellhound B+, 3 m, 2nd Ridge, its descriptive epithet, fatal-bite warning, straight-line behavior, water weakness, and chocolate setup;
+- corrected the Chapter 10 MTL error `height` to **kidneys** and preserved the full chocolate-poison symptom sequence;
+- kept post-kill strengthening broad/non-numerical as the Chinese does;
+- restored Vikir as **High Sword Expert** and the source comparison that most Baskerville children reach that level only after the coming-of-age ceremony;
+- rebuilt the **Cerberus** information window as A+, 7 m, 7th Ridge, **Hell’s Watchdog**, and the **pinnacle of underworld-type monsters**;
+- normalized the Sword Expert / Sword Graduator / Sword Master ↔ mage-circle equivalence table;
+- standardized **Baskerville 1st / 2nd / 3rd Form**, with first-life mastery through the 4th Form;
+- preserved Vikir’s broken ribs, shattered shortsword, **Cradle of Needles**, Bloody-Bean stake poisoning, explicit monster waste, and the final **seven-step Bloody Mamba** collapse without sanitization.
+
+Family QA: `qa/families/hounds-of-hell-0008-0011.md` — **PASS**.
+
+A Fandom refresh attempt during this batch was blocked by robots rules. QA/provenance therefore rely only on canonical evidence already retrieved earlier in the active-family research pass; no unsupported fresh claim was invented.
+
+The next family is already bounded:
+
+- **Chapters 12–13 — The Gluttonous Flies (1)–(2)**
+- Chapter 14 changes to `独食 (1)`.
+- Recovered English Chapters 12 and 13 carry matching *The Gluttonous Flies (1)–(2)* titles; full content alignment still requires the normal next-batch review.
+
+Per the continuous-processing rule, work proceeds directly into Chapters 12–13 after the 8–11 merge.
+
 ## 2026-09-16 — The Baskerville Dog (1)–(4) accepted under restarted workflow
 
-**Current state:** 7 / 500 accepted; 0 staged; next Chapter 8.
+**Checkpoint at that time:** 7 / 500 accepted; next Chapter 8.
 
 Completed the second contiguous title-family batch:
 
@@ -27,8 +66,6 @@ Major editorial/canonical work in this family:
 Family QA: `qa/families/baskerville-dog-0004-0007.md` — **PASS**.
 
 Each chapter has fresh Chinese-first draft, chapter QA, provenance, and hash-bound acceptance evidence.
-
-**Next:** Chapter 8 begins *Hounds of Hell (1)*. Determine the full contiguous family boundary from Chapter 8 onward before acceptance, verify target↔MTL mappings by content, then continue reconstruction without stopping at the 4–7 merge.
 
 ## 2026-09-16 — Hellhound (1)–(3) accepted under restarted workflow
 
