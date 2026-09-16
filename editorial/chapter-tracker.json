@@ -1,15 +1,14 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 3,
+  "accepted_count": 7,
   "staged_count": 0,
-  "next_chapter": 4,
+  "next_chapter": 8,
   "active_title_family": {
-    "name": "The Baskerville Dog",
-    "range": [4, 7],
-    "boundary_status": "verified_from_chinese_and_english_titles",
-    "next_family_starts": 8,
-    "next_family_title": "Hounds of Hell (1)"
+    "name": "Hounds of Hell",
+    "start": 8,
+    "boundary_status": "pending_full_boundary_verification",
+    "known_first_title": "Hounds of Hell (1)"
   },
   "chapters": [
     {
@@ -53,6 +52,62 @@
       "acceptance": "qa/acceptance/chapter-0003.json",
       "acceptance_sha": "4b82137ec8a82ea9ae1ea2510d78655276a62d20",
       "family_qa": "qa/families/hellhound-0001-0003.md"
+    },
+    {
+      "chapter": 4,
+      "title": "The Baskerville Dog (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/004.txt",
+      "english_mtl_reference": "source/chapters/chapter-004.xhtml",
+      "draft": "manuscript/drafts/chapter-0004.md",
+      "qa": "qa/chapter-0004.md",
+      "provenance": "editorial/provenance/chapter-0004.json",
+      "acceptance": "qa/acceptance/chapter-0004.json",
+      "acceptance_sha": "d0d02a010f82d87420f0268d6b4288e2e69ada43",
+      "family_qa": "qa/families/baskerville-dog-0004-0007.md"
+    },
+    {
+      "chapter": 5,
+      "title": "The Baskerville Dog (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/005.txt",
+      "english_mtl_reference": "source/chapters/chapter-005.xhtml",
+      "draft": "manuscript/drafts/chapter-0005.md",
+      "qa": "qa/chapter-0005.md",
+      "provenance": "editorial/provenance/chapter-0005.json",
+      "acceptance": "qa/acceptance/chapter-0005.json",
+      "acceptance_sha": "233d3763b1d9fe81e9945e20447a9fc9bcc18b1c",
+      "family_qa": "qa/families/baskerville-dog-0004-0007.md"
+    },
+    {
+      "chapter": 6,
+      "title": "The Baskerville Dog (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/006.txt",
+      "english_mtl_reference": "source/chapters/chapter-006.xhtml",
+      "draft": "manuscript/drafts/chapter-0006.md",
+      "qa": "qa/chapter-0006.md",
+      "provenance": "editorial/provenance/chapter-0006.json",
+      "acceptance": "qa/acceptance/chapter-0006.json",
+      "acceptance_sha": "76e0f558223ad1997b319e70b5b6f216be08e62b",
+      "family_qa": "qa/families/baskerville-dog-0004-0007.md"
+    },
+    {
+      "chapter": 7,
+      "title": "The Baskerville Dog (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/007.txt",
+      "english_mtl_reference": "source/chapters/chapter-007.xhtml",
+      "draft": "manuscript/drafts/chapter-0007.md",
+      "qa": "qa/chapter-0007.md",
+      "provenance": "editorial/provenance/chapter-0007.json",
+      "acceptance": "qa/acceptance/chapter-0007.json",
+      "acceptance_sha": "67a63daf7754fc38e1dd860a096120ff08301672",
+      "family_qa": "qa/families/baskerville-dog-0004-0007.md"
     }
   ]
 }
