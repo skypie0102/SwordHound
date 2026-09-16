@@ -16,6 +16,15 @@ def sha256(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def opening_chapter_number(first_line: str) -> int | None:
+    """Accept the preserved archive's #NN heading or supplemental 제NN장 heading."""
+    for pattern in (r'#(\d+)(?!\d)', r'제\s*(\d+)\s*장(?:\s*:)?'):
+        match = re.match(pattern, first_line)
+        if match:
+            return int(match.group(1))
+    return None
+
+
 def inspect_supplemental(root: Path = ROOT) -> dict:
     members = []
     chapter_dir = root / 'source/korean/chapters'
@@ -30,9 +39,12 @@ def inspect_supplemental(root: Path = ROOT) -> dict:
         raw = path.read_bytes()
         text = raw.decode('utf-8-sig')
         first_line = next((line.strip() for line in text.splitlines() if line.strip()), '')
-        heading = re.match(r'#(\d+)(?!\d)', first_line)
-        if not heading or int(heading.group(1)) != chapter:
-            raise ValueError(f'Opening chapter number does not match filename: {path.name}')
+        opening_number = opening_chapter_number(first_line)
+        if opening_number != chapter:
+            raise ValueError(
+                f'Opening chapter number does not match filename: {path.name}; '
+                f'opening={first_line!r}, parsed={opening_number!r}'
+            )
         members.append({
             'chapter': chapter,
             'path': path.relative_to(root).as_posix(),
