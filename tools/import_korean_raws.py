@@ -39,7 +39,7 @@ def inspect_archive(data):
     manifest = {'received_date': '2026-09-13', 'provenance': 'User supplied 001-054.zip as Korean raws for Chapters 1-54.',
                 'archive': ARCHIVE, 'archive_bytes': len(data), 'archive_sha256': EXPECTED_SHA256,
                 'chapter_count': 54, 'chapter_range': [1, 54],
-                'notice': 'Original archive and member bytes preserved. Numbered coverage is verified, not translation accuracy or publisher provenance. User states Korean raws are unavailable from Chapter 55 onward; use MTL with supporting QA references there.',
+                'notice': 'Original archive and member bytes preserved. Numbered coverage is verified, not translation accuracy or publisher provenance. This historical notice predates later supplemental raws; live coverage is tracked separately.',
                 'members': members}
     outputs[ARCHIVE] = data
     outputs[MANIFEST] = (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
@@ -52,6 +52,7 @@ def check_korean_raws(root=ROOT):
     for name, expected in outputs.items():
         path = root / name
         if name == MANIFEST:
+            # Preserve the historical manifest's semantics except for the live-coverage clarification above.
             if json.loads(path.read_text(encoding='utf-8')) != json.loads(expected):
                 raise ValueError('Korean manifest differs from verified archive evidence')
         elif path.read_bytes() != expected:
@@ -88,7 +89,10 @@ def main():
             if not path.exists():
                 path.write_bytes(data)
     supplemental = check_korean_raws()
-    print(f"PASS: preserved Korean ZIP checksum/CRC and all 54 original chapter bytes; {supplemental['chapter_count']} supplemental raw chapters are hash-bound separately.")
+    print(
+        f"PASS: preserved Korean ZIP checksum/CRC and all 54 original chapter bytes; "
+        f"{supplemental['file_count']} supplemental raw files are hash-bound separately."
+    )
 
 
 if __name__ == '__main__':
