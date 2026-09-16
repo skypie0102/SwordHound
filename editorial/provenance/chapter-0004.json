@@ -1,0 +1,84 @@
+{
+  "chapter": 4,
+  "title": "The Baskerville Dog (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/baskerville-dog-0004-0007.md",
+      "blob_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/004.txt",
+    "blob_sha": "a72d0371ccf0b3da0ad5a4cdb660ac7223753379",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-004.xhtml",
+    "blob_sha": "42ad39ef16ea789978c405e5c80038df6edf3a08",
+    "target_alignment": 4,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan/Swordsmanship",
+      "applies_to": ["Sword Beginner", "Sword Expert", "Sword Graduator", "Sword Master", "aura-state definitions"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville/Sword_Progress",
+      "applies_to": ["Vikir age-eight High Sword Expert state", "rank progression terminology"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan",
+      "applies_to": ["Baskerville Clan", "Rok Empire / Seven Great Clans context"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "canonical_reference_final_qa_access_limitation": "Fresh direct retrieval was blocked by robots.txt during final QA; current-session evidence recorded before that block was retained without adding new wiki claims.",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0004.md",
+    "blob_sha": "ff0997d2b046a92f88d077094281ecd01f106e31"
+  },
+  "qa": {
+    "path": "qa/chapter-0004.md",
+    "blob_sha": "fcd9d715a72245b301b53f14e74780f50a3bf515",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "sword ranks",
+      "final": "Sword Beginner / Sword Expert / Sword Graduator / Sword Master",
+      "basis": "Chinese mechanics plus current Fandom/project canonical terminology"
+    },
+    {
+      "topic": "Vikir previous-life High Sword Expert age",
+      "chinese": "sixteen",
+      "final": "sixteen",
+      "basis": "Chinese semantic authority; MTL age-ten wording is corrupt"
+    },
+    {
+      "topic": "triplet names",
+      "final": "Highbro / Middlebro / Lowbro Le Baskerville",
+      "basis": "identified Chinese entities normalized to current Fandom canonical English forms"
+    },
+    {
+      "topic": "child-rearing castle",
+      "final": "descriptive nursery castle wording",
+      "basis": "Chinese uses varying descriptive terms; dedicated Fandom canonical proper name not established"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "rebuilt sword-rank definitions",
+    "corrected previous-life age sixteen",
+    "normalized direct-line name particles and triplet names",
+    "removed unsupported Fang Castle proper-name certainty",
+    "restored two-suns ending as external observation of Vikir's mana manifestation"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

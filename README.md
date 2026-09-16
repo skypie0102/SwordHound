@@ -6,7 +6,7 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **3 / 500 accepted; next Chapter 4.** Chapters 1–3 (*Hellhound (1)–(3)*) are accepted as one title-family batch under the restarted workflow. The next verified family is **Chapters 4–7 — The Baskerville Dog (1)–(4)**; Chapter 8 starts *Hounds of Hell (1)*.
+Current checkpoint: **7 / 500 accepted; next Chapter 8.** Two complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound (1)–(3)*) and Chapters 4–7 (*The Baskerville Dog (1)–(4)*). Chapter 8 begins *Hounds of Hell (1)*; its full family boundary must be verified before acceptance.
 
 ## Current source policy
 
@@ -34,13 +34,14 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Accepted evidence
 
-Current accepted work begins with:
+Current accepted production evidence covers Chapters 1–7:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0003.md`
-- `qa/chapter-0001.md` through `chapter-0003.md`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0007.md`
+- `qa/chapter-0001.md` through `chapter-0007.md`
 - `qa/families/hellhound-0001-0003.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0003.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0003.json`
+- `qa/families/baskerville-dog-0004-0007.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0007.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0007.json`
 
 The earlier pre-restart Chapter 1 acceptance remains in Git history only and is superseded by the current family-reviewed evidence.
 

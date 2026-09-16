@@ -1,8 +1,38 @@
 # Reconstruction Progress
 
+## 2026-09-16 — The Baskerville Dog (1)–(4) accepted under restarted workflow
+
+**Current state:** 7 / 500 accepted; 0 staged; next Chapter 8.
+
+Completed the second contiguous title-family batch:
+
+- Chapter 4 — *The Baskerville Dog (1)*
+- Chapter 5 — *The Baskerville Dog (2)*
+- Chapter 6 — *The Baskerville Dog (3)*
+- Chapter 7 — *The Baskerville Dog (4)*
+
+The family boundary was verified before acceptance: Chinese Chapters 4–7 carry continuing parts (1)–(4), while Chinese Chapter 8 changes to *Hounds of Hell (1)*. English references 4→4, 5→5, 6→6, and 7→7 were each independently verified by title, opening, full scene order, distinctive events, and endpoint.
+
+Major editorial/canonical work in this family:
+
+- rebuilt the sword hierarchy from Chinese as **Sword Beginner → Sword Expert → Sword Graduator → Sword Master**, with Low/Mid/High substages where source-supported;
+- corrected previous-life Vikir’s High Sword Expert age to **sixteen**, rejecting the MTL’s corrupted age-ten line;
+- revalidated **Highbro / Middlebro / Lowbro Le Baskerville**;
+- preserved Chapter 5’s ten-minute suffocation attempt, severed finger, broken teeth/nose/jaw, blood/saliva/urine, and one-survivor dagger threat without sanitization;
+- revalidated **John Barrymore**, **Morgue Clan**, **Red Fang Mountain**, and **Rok Empire / Seven Great Clans** context in Chapter 6;
+- removed recovered-English `Advertisement` contamination and preserved Hugo’s first question about the children’s severe fight: **how many died**;
+- preserved Chapter 7’s implied fratricide, forgiveness/revenge anecdote, under-fifteen haggis/offal diet, and **Bloody Beans** sequence;
+- kept the child-rearing castle descriptively named rather than falsely claiming the MTL label **Fang Castle** is Fandom-verified.
+
+Family QA: `qa/families/baskerville-dog-0004-0007.md` — **PASS**.
+
+Each chapter has fresh Chinese-first draft, chapter QA, provenance, and hash-bound acceptance evidence.
+
+**Next:** Chapter 8 begins *Hounds of Hell (1)*. Determine the full contiguous family boundary from Chapter 8 onward before acceptance, verify target↔MTL mappings by content, then continue reconstruction without stopping at the 4–7 merge.
+
 ## 2026-09-16 — Hellhound (1)–(3) accepted under restarted workflow
 
-**Current state:** 3 / 500 accepted; 0 staged; next Chapter 4.
+**Checkpoint at that time:** 3 / 500 accepted; next Chapter 4.
 
 Completed the first full contiguous title-family batch after the deliberate restart:
 
@@ -28,13 +58,6 @@ Current canonical-reference checks established/scoped:
 Important corrections include restoration of Chapter 1’s execution placard and “live again” wish, source-faithful Hugo dialogue, Chapter 2’s rabbit/hound proverb and full Styx mechanics, and Chapter 3’s nursing favoritism, explicit snake-death details, and removal of MTL-only Le Rogue/Fang Castle assertions not supported by the Chinese/current Fandom evidence.
 
 Family QA: `qa/families/hellhound-0001-0003.md` — PASS.
-
-The next family boundary has already been verified:
-
-- **Chapters 4–7 — The Baskerville Dog (1)–(4)**
-- Chapter 8 changes to **Hounds of Hell (1)**.
-
-Per the continuous-processing rule, work proceeds directly into Chapters 4–7 rather than stopping at this checkpoint.
 
 ## 2026-09-16 — Full restart from Chapter 1 with mandatory handoff
 

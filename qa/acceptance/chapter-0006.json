@@ -1,0 +1,38 @@
+{
+  "chapter": 6,
+  "title": "The Baskerville Dog (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "family_qa_path": "qa/families/baskerville-dog-0004-0007.md",
+    "family_qa_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/006.txt",
+    "primary_source_sha": "66ddbad71c43a90215fa1f56f4336071033c4e3a",
+    "english_reference_path": "source/chapters/chapter-006.xhtml",
+    "english_reference_sha": "4827e0019e9a6e707c4e75debed26a974e9e4a33",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0006.md",
+    "draft_sha": "561828cb5d4298d6e5a4649d45d293ce867da308",
+    "qa_path": "qa/chapter-0006.md",
+    "qa_sha": "4d0ba3155211857a9922a6463d97a18d75cc2814",
+    "provenance_path": "editorial/provenance/chapter-0006.json",
+    "provenance_sha": "8a4749898e74371e6b69fd1e1fa3fc0f5c1d5d5d"
+  },
+  "canonical_checks": [
+    "John Barrymore / Head Butler",
+    "Morgue Clan",
+    "Red Fang Mountain",
+    "Rok Empire / Seven Great Clans",
+    "Highbro / Middlebro / Lowbro"
+  ],
+  "documented_limits": [
+    "Fresh direct Fandom retrieval was blocked during final QA; current-session canonical evidence gathered earlier was retained without adding new claims.",
+    "The recovered English Advertisement line is non-narrative contamination and is excluded because it is absent from Chinese."
+  ]
+}

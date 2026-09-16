@@ -1,0 +1,71 @@
+{
+  "chapter": 5,
+  "title": "The Baskerville Dog (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/baskerville-dog-0004-0007.md",
+      "blob_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/005.txt",
+    "blob_sha": "2c2540ed32360a8010ff2083fdb6151d1b758971",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-005.xhtml",
+    "blob_sha": "e8d0886160b5d4ec02db37cb7f939e77eb87631f",
+    "target_alignment": 5,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan",
+      "applies_to": ["Baskerville Clan", "triplet family context"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "canonical_reference_final_qa_access_limitation": "Fresh direct retrieval was blocked by robots.txt during final QA; no new wiki claim was added.",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0005.md",
+    "blob_sha": "4ab417641b7f81ccf0f406a13a2e861df2e8fe06"
+  },
+  "qa": {
+    "path": "qa/chapter-0005.md",
+    "blob_sha": "c653369290a599555598e5c58f1568273cde2b17",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "triplet names",
+      "final": "Highbro / Middlebro / Lowbro",
+      "basis": "canonical forms carried consistently from Chapter 4"
+    },
+    {
+      "topic": "damaged wager wording",
+      "final": "hand-on-the-line taunt rendered conservatively",
+      "basis": "immediate Chinese context plus aligned English witness; no event added or removed"
+    },
+    {
+      "topic": "violence explicitness",
+      "final": "retain severed finger, broken facial bones/teeth, jaw injury, blood, saliva, urine, and death threat",
+      "basis": "Chinese source; no sanitization"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored ten-minute suffocation progression",
+    "clarified Lowbro finger severing",
+    "restored Highbro and Middlebro injury sequence",
+    "preserved Styx protection against dagger",
+    "restored source bodily detail and wetting themselves",
+    "preserved one-survivor dagger threat and internal Trident split"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

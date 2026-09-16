@@ -1,0 +1,84 @@
+{
+  "chapter": 6,
+  "title": "The Baskerville Dog (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/baskerville-dog-0004-0007.md",
+      "blob_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/006.txt",
+    "blob_sha": "66ddbad71c43a90215fa1f56f4336071033c4e3a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-006.xhtml",
+    "blob_sha": "4827e0019e9a6e707c4e75debed26a974e9e4a33",
+    "target_alignment": 6,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/John_Barrymore",
+      "applies_to": ["John Barrymore", "Head Butler", "four-generation service"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Morgue_Clan",
+      "applies_to": ["Morgue Clan", "Seven Great Clans context", "ruby-mine dispute"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Le_Rouge_Et_Le_Noir_Mountain",
+      "applies_to": ["Red Fang Mountain", "ruby-mine location"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Rok_Empire",
+      "applies_to": ["Rok Empire", "Seven Great Clans context"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "canonical_reference_final_qa_access_limitation": "Fresh direct retrieval was blocked by robots.txt during final QA; current-session evidence was retained without adding new wiki claims.",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0006.md",
+    "blob_sha": "561828cb5d4298d6e5a4649d45d293ce867da308"
+  },
+  "qa": {
+    "path": "qa/chapter-0006.md",
+    "blob_sha": "4d0ba3155211857a9922a6463d97a18d75cc2814",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "米尔格 entity",
+      "final": "Morgue Clan",
+      "basis": "Chinese establishes the rival magic clan; canonical English reference identifies the entity as Morgue Clan"
+    },
+    {
+      "topic": "ruby mine location",
+      "final": "Red Fang Mountain",
+      "basis": "current Fandom canonical location evidence; MTL Red Cane Mountain rejected"
+    },
+    {
+      "topic": "non-narrative contamination",
+      "final": "omit Advertisement line",
+      "basis": "present only in recovered English witness, absent from Chinese narrative"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored John Barrymore introduction",
+    "canonicalized Morgue Clan and Red Fang Mountain",
+    "removed Advertisement contamination",
+    "restored Hugo's how-many-died response",
+    "distinguished physical recovery from psychological collapse",
+    "restored three-bad-swords versus one-good-sword metaphor",
+    "restored strength/weakness doctrine at endpoint"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

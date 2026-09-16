@@ -1,0 +1,37 @@
+{
+  "chapter": 7,
+  "title": "The Baskerville Dog (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "family_qa_path": "qa/families/baskerville-dog-0004-0007.md",
+    "family_qa_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/007.txt",
+    "primary_source_sha": "f1a4dcf06a722c6d14b38d8beb08a425d471eb4d",
+    "english_reference_path": "source/chapters/chapter-007.xhtml",
+    "english_reference_sha": "9d5414b25ad77e975bfb326666cc868be161953b",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0007.md",
+    "draft_sha": "5a1d8c21aff248d7b8fe667dac47c06505116d11",
+    "qa_path": "qa/chapter-0007.md",
+    "qa_sha": "d4fcb71ffce885d0cc1ebda06e0e539f94db0f0c",
+    "provenance_path": "editorial/provenance/chapter-0007.json",
+    "provenance_sha": "9f517b4492f81b13f378133e55dd42eb4405c97b"
+  },
+  "canonical_checks": [
+    "Hugo Le Baskerville",
+    "John Barrymore",
+    "Morgue Clan",
+    "Bloody Beans"
+  ],
+  "documented_limits": [
+    "Fresh direct Fandom retrieval was blocked during final QA; existing current-session terminology evidence was preserved without fabricating new verification.",
+    "Child-rearing-castle naming remains descriptive because a dedicated canonical proper name was not confirmed."
+  ]
+}
