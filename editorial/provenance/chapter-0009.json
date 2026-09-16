@@ -1,0 +1,86 @@
+{
+  "chapter": 9,
+  "title": "Hounds of Hell (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
+    "family_qa": {
+      "path": "qa/families/hounds-of-hell-0008-0011.md",
+      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/009.txt",
+    "blob_sha": "316950c50ba6c3774ffbc779fb319bd1bcff8874",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-009.xhtml",
+    "blob_sha": "d765e36aa4083e8054c7ea179c89730cd347e398",
+    "target_alignment": 9,
+    "alignment_status": "verified_by_title_opening_scene_sequence_monster_windows_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Hellhound",
+      "applies_to": ["Hellhound", "B+", "3 m", "2nd Ridge", "water/chocolate weaknesses"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Le Rouge et Le Noir Mountain",
+      "applies_to": ["Le Rouge et Le Noir Mountain"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Brown Rat / Brown Rat Norvegicus material",
+      "applies_to": ["Brown Rat ‘Norvegicus’ canonical identification only"],
+      "scope_note": "later skill/equipment knowledge was not imported into Chapter 9"
+    }
+  ],
+  "canonical_reference_access": {
+    "date": "2026-09-16",
+    "status": "principal evidence retrieved earlier in active-family research; later refresh blocked by Fandom robots rules",
+    "rule": "no canonical claim added from the failed refresh"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0009.md",
+    "blob_sha": "e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2"
+  },
+  "qa": {
+    "path": "qa/chapter-0009.md",
+    "blob_sha": "1406b60bb5f13639eab798b9a946446fca526893",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "Brown Rat information window",
+      "final": "Brown Rat ‘Norvegicus’, F, 50 cm, throughout the continent, with all Chinese descriptive lines retained",
+      "basis": "Chinese source; corrected MTL grammar and restored omitted women-loathing line"
+    },
+    {
+      "topic": "Hellhound information window",
+      "final": "B+, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, descriptive epithet, no-survival bite warning, sulfuric fire description",
+      "basis": "complete Chinese window plus previously retrieved canonical English Hellhound/location forms"
+    },
+    {
+      "topic": "exam killing rule",
+      "final": "killing is discouraged by point deductions, not prohibited",
+      "basis": "explicit Chinese wording"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "corrected Brown Rat grammar",
+    "restored Brown Rat descriptive line about women loathing adult specimens",
+    "rebuilt complete Hellhound window instead of split/missing lines",
+    "restored Hellhound descriptive epithet and fatal-bite warning",
+    "preserved Guide Dog surveillance and hidden-death implication",
+    "preserved water weakness and chocolate setup"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}
