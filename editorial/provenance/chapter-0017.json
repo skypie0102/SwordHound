@@ -1,0 +1,86 @@
+{
+  "chapter": 17,
+  "title": "Solitary (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Solitary",
+    "range": [14, 17],
+    "boundary_status": "verified_from_chinese_and_recovered_english_headings",
+    "family_qa": {
+      "path": "qa/families/solitary-0014-0017.md",
+      "blob_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/017.txt",
+    "blob_sha": "a06435731264acf695a613b6bffc28270bd8d3fe",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-017.xhtml",
+    "blob_sha": "186f5ce33d50b654427866f735e8f223e3786b3f",
+    "target_alignment": 17,
+    "alignment_status": "verified_by_title_fifth_fang_low_graduator_beelzebub_power_estimate_book_burning_servants_and_hugo_summons_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville/Synopsis",
+      "applies_to": ["Lurking Embedded Teeth", "Fifth Fang breakthrough", "book burning", "subsequent Hugo summons"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Sword Skills",
+      "applies_to": ["Baskerville Fang Sword Style", "numbered Fangs"]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0017.md",
+    "blob_sha": "217b62806c86b7d4d641276fc925a0e0723823a1"
+  },
+  "qa": {
+    "path": "qa/chapter-0017.md",
+    "blob_sha": "1ca241417fbc048ce4745ef71c47b4c9ab86dbe6",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "advancement rank",
+      "final": "Low Sword Graduator",
+      "basis": "Chinese source progression from High Sword Expert to low/beginning Graduator realm"
+    },
+    {
+      "topic": "new Fang",
+      "final": "Fifth Fang",
+      "basis": "Chinese source plus canonical Fang naming"
+    },
+    {
+      "topic": "scripture title",
+      "final": "Lurking Embedded Teeth",
+      "basis": "current indexed Fandom canonical English evidence"
+    },
+    {
+      "topic": "combat estimate",
+      "final": "could contend with a Mid Sword Graduator if committed; Vikir estimates 100% assassination and about 50% frontal success",
+      "basis": "Chinese source; retained as Vikir's own estimate, not objective narration"
+    },
+    {
+      "topic": "chapter endpoint",
+      "final": "scripture burned; Vikir leaves while preparing for Hugo's summons",
+      "basis": "Chinese Chapter 17; Chapter 18 opens with the summons"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "canonicalized Fifth Fang terminology",
+    "specified Low Sword Graduator advancement",
+    "preserved gaseous-versus-liquid aura distinction",
+    "canonicalized Lurking Embedded Teeth",
+    "preserved Vikir's own assassination/frontal-combat percentages",
+    "preserved deliberate book destruction and servant manipulation",
+    "stopped before Chapter 18 Hugo test scene"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
