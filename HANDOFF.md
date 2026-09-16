@@ -5,11 +5,11 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-16
-- **Updated by:** ChatGPT — Baskerville Dog family acceptance checkpoint
-- **Working branch:** `editorial/restart-baskerville-dog-family`
-- **Previous merged PR:** #7 — Hellhound Chapters 1–3
-- **Base main commit for this branch:** `786cbd96627a86fca550ee684001b7ba2cc94665`
-- **Open PR for current branch:** pending creation
+- **Updated by:** ChatGPT — Hounds of Hell source-review checkpoint
+- **Working branch:** `editorial/restart-hounds-of-hell-family`
+- **Previous merged PR:** #8 — The Baskerville Dog Chapters 4–7
+- **Merged main checkpoint:** `c4bf56635b966ba5f7f7b9d67dc4b724f93c723f`
+- **Open PR for current branch:** none yet
 
 ## Authoritative current checkpoint
 
@@ -17,141 +17,118 @@
 - **Accepted:** **7**
 - **Staged:** **0**
 - **Next chapter:** **8**
-- **Accepted title families:**
-  - Chapters 1–3 — *Hellhound (1)–(3)*
-  - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
-- **Next family start:** Chapter 8 — *Hounds of Hell (1)*
-- **Next-family full boundary:** **NOT YET VERIFIED**. Determine the complete contiguous run from Chapter 8 before accepting any chapter in it.
+- **Latest accepted family:** Chapters 4–7 — *The Baskerville Dog (1)–(4)*
+- **Active family:** **Chapters 8–11 — Hounds of Hell (1)–(4)**
+- **Family boundary:** **VERIFIED** from Chinese headings. Ch. 8–11 are parts (1)–(4); Ch. 12 changes to `贪食的苍蝇 (1)` / *The Gluttonous Flies (1)*.
+- **Current work:** Chinese 8–11 read for the active-family source pass; aligned English 8–11 are current secondary witnesses; canonical terminology research is underway/completed for the principal early-family terms. Drafting/QA remain.
 - **Blocking issue:** none
 
 ## Rules that must not be lost
 
 - Chinese raw = semantic/narrative authority.
-- English Fandom wiki = canonical English authority for identified proper nouns/terms where an applicable entry exists.
-- English MTL = secondary alignment/phrasing reference only except Chapter 55.
-- Do not sanitize source content.
-- Process complete contiguous title families; chapter/family/PR completion is a checkpoint, not a stopping condition.
-- Do not assume target N == MTL N without content verification.
-- Final EPUB visual/layout QA remains deferred until complete-EPUB assembly.
+- English Fandom wiki = canonical English authority for identified names/terms/locations/ranks/skills/monsters/organizations/titles where applicable.
+- English MTL = secondary alignment/phrasing witness only except Chapter 55.
+- Do not sanitize explicit source content.
+- Process full title families; chapter/family/PR completion is a checkpoint, not a stopping condition.
+- Never assume target N == MTL N without content verification.
 
-## Accepted production evidence — Chapters 4–7
+## Active family boundary and mapping
 
-### Family
+Chinese headings:
+- Ch. 8 — Hounds of Hell (1)
+- Ch. 9 — Hounds of Hell (2)
+- Ch. 10 — Hounds of Hell (3)
+- Ch. 11 — Hounds of Hell (4)
+- Ch. 12 — The Gluttonous Flies (1), therefore next family
 
-- `qa/families/baskerville-dog-0004-0007.md` — PASS
-- Family range: **4–7**
-- Chapter 8 changes title to *Hounds of Hell (1)*, establishing the boundary.
+Recovered English references 8–11 use the matching Hounds of Hell (1)–(4) title sequence. Content alignment is consistent with the same practical-exam / Hellhound / Cerberus sequence; record final hashes in provenance after drafting.
 
-### Chapter 4 — The Baskerville Dog (1)
+Chinese source SHAs already established:
+- `008.txt` — `d62d365170a0107c5c726c9da1901d996d2d508d`
+- `009.txt` — `316950c50ba6c3774ffbc779fb319bd1bcff8874`
+- `010.txt` — `6be1944dd10561d5246cff6ab830e6f5e39bc736`
+- `011.txt` — `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44`
+- boundary witness `012.txt` — `9cbd4648873cda28a0e9410966d0643dda873968`
 
-- Chinese: `source/chinese/chapters/004.txt` — `a72d0371ccf0b3da0ad5a4cdb660ac7223753379`
-- MTL: `source/chapters/chapter-004.xhtml` — `42ad39ef16ea789978c405e5c80038df6edf3a08`
-- Draft: `manuscript/drafts/chapter-0004.md` — `ff0997d2b046a92f88d077094281ecd01f106e31`
-- QA: `qa/chapter-0004.md` — `fcd9d715a72245b301b53f14e74780f50a3bf515`
-- Provenance: `editorial/provenance/chapter-0004.json` — `b962e5787a5e19f9b357f31f3e9f789adda7cb9e`
-- Acceptance: `qa/acceptance/chapter-0004.json` — `d0d02a010f82d87420f0268d6b4288e2e69ada43`
+## Current canonical terminology evidence
 
-### Chapter 5 — The Baskerville Dog (2)
+Current Fandom retrieval confirms:
 
-- Chinese: `005.txt` — `2c2540ed32360a8010ff2083fdb6151d1b758971`
-- MTL 5 — `e8d0886160b5d4ec02db37cb7f939e77eb87631f`
-- Draft — `4ab417641b7f81ccf0f406a13a2e861df2e8fe06`
-- QA — `c653369290a599555598e5c58f1568273cde2b17`
-- Provenance — `f29379417da8e5bb9e7003867a3b5b0eeb3eb3f9`
-- Acceptance — `233d3763b1d9fe81e9945e20447a9fc9bcc18b1c`
+- **Pavlov Van Baskerville** — Instructor; occupation includes Clan Instructor (**Guide Dog**); novel first appearance Ch. 8 — *Hounds of Hell (1)*.
+- **Le Rouge et Le Noir Mountain** — canonical mountain-range name; practical Survival Exam occurs in a previously subjugated/restricted area under Guide Dog supervision.
+- **Hellhound** — Danger Rating **B+**, size **3 m**, natural habitat **2nd Ridge** of Le Rouge et Le Noir Mountain; sulfuric hellfire; canonical weaknesses include straight-line movement, inability to cross water, mouth-open running, and chocolate poisoning.
+- **Cerberus** — Danger Rating **A+**, size **7 m**, natural habitat **7th Ridge**, alias **Hell’s Watchdog**; stronger chocolate resistance than Hellhound.
+- **Brown Rat** / **Brown Rat Norvegicus** — F-rank rat entity; later canonical equipment/skill references use Rapid Regeneration. Keep Chapter 9’s info-window species wording aligned with the source and project history; do not import later skill knowledge into Chapter 9 prose.
+- **Camus Morgue** — canonical name; Fandom title **Ironblood Empress**. Chapter 11’s retrospective may use the source-established future-war title/role without importing unrelated future revelations.
+- Existing canonical rank system remains **Sword Expert → Sword Graduator → Sword Master**, with Low/Mid/High substages.
 
-### Chapter 6 — The Baskerville Dog (3)
+## Source findings / high-risk corrections
 
-- Chinese: `006.txt` — `66ddbad71c43a90215fa1f56f4336071033c4e3a`
-- MTL 6 — `4827e0019e9a6e707c4e75debed26a974e9e4a33`
-- Draft — `561828cb5d4298d6e5a4649d45d293ce867da308`
-- QA — `4d0ba3155211857a9922a6463d97a18d75cc2814`
-- Provenance — `8a4749898e74371e6b69fd1e1fa3fc0f5c1d5d5d`
-- Acceptance — `76e0f558223ad1997b319e70b5b6f216be08e62b`
+### Chapter 8
 
-### Chapter 7 — The Baskerville Dog (4)
+- Baskerville children receive midterm/final evaluations twice yearly before fifteen.
+- From age eight, practical training becomes extreme; food changes to haggis-like meat/offal mash and dried jerky rations.
+- Month-long practical Survival Exam occurs at **Le Rouge et Le Noir Mountain**.
+- Restricted-zone boundaries are supervised by **Guide Dogs**; Pavlov Van Baskerville rings the starting bell.
+- Preserve the exact point rubric: 10 survive; 30 survive uninjured/not crippled; 50 outlast/drop other children and survive; 70 kill a monster and survive; 90 combine competitor elimination/monster kill with survival without crippling injury. No 100-point score because complacency kills a swordsman; death = 0.
+- 8-year-olds protect badges; 9-year-olds can steal them for points.
+- Highbro/Middlebro/Lowbro are conspicuously quiet after the Ch. 5 incident.
 
-- Chinese: `007.txt` — `f1a4dcf06a722c6d14b38d8beb08a425d471eb4d`
-- MTL 7 — `9d5414b25ad77e975bfb326666cc868be161953b`
-- Draft — `5a1d8c21aff248d7b8fe667dac47c06505116d11`
-- QA — `d4fcb71ffce885d0cc1ebda06e0e539f94db0f0c`
-- Provenance — `9f517b4492f81b13f378133e55dd42eb4405c97b`
-- Acceptance — `67a63daf7754fc38e1dd860a096120ff08301672`
+### Chapter 9
 
-## Accepted terminology/decisions from Chapters 4–7
+- Practical battles begin at the bell; killing is not prohibited, merely discouraged by point deductions.
+- Vikir ignores score competition and digs a deep pit near the forbidden-zone boundary while Guide Dogs eventually stop watching him.
+- Preserve the **Brown Rat Norvegicus** info window and correct grammar (`An adult`, not `A adult`).
+- Bloody Beans are used to remove the rat meat’s gamey smell; this comes from Vikir’s old wartime camping knowledge.
+- Vikir fills the pit with sharpened wooden stakes, then crosses into the forbidden zone for more wood.
+- Preserve the Hellhound info window: B+, 3 m, **2nd Ridge**, hellfire description.
+- Hellhound weaknesses: straight-line charge, cannot cross even shallow water, opens mouth while running; Chapter 10 supplies chocolate weakness payoff.
+- Chapter 9 ends on Vikir preparing the Bloody Beans/chocolate countermeasure.
 
-- **Sword Beginner → Sword Expert → Sword Graduator → Sword Master**
-- **Low / Mid / High** substages when source-supported
-- Vikir at age eight: **High Sword Expert**
-- Previous-life High Sword Expert age: **sixteen**; MTL age-ten line rejected
-- **Highbro / Middlebro / Lowbro Le Baskerville**
-- contextual **Baskerville Trident / Hugo’s Trident** image
-- **John Barrymore**, Head Butler
-- **Morgue Clan**
-- **Red Fang Mountain** for the ruby-mine dispute; MTL Red Cane Mountain rejected
-- **Rok Empire** / Seven Great Clans context
-- **Bloody Beans**
-- child-rearing/nursery castle remains descriptive; MTL **Fang Castle** is not treated as canonically verified
+### Chapter 10
 
-## Important source/editorial findings preserved
+- Bloody Bean goes into Hellhound’s open mouth; chocolate is toxic to canine monsters.
+- Preserve explicit poisoning symptoms: mucus/vomit, breathing difficulty, incontinence/diarrhea, temperature/heart-rate increase, seizures/agitation, etc.
+- Critical old MTL mistranslation: Chinese says target the **kidneys**, not “height.”
+- Vikir bludgeons the kidneys through the unprotected lower abdomen with the blunt shortsword, then finishes the Hellhound completely.
+- Monster death releases experience/karma-like energy that strengthens the killer; do not over-systematize beyond source wording.
+- Vikir remains High Sword Expert; avoid the Chinese localization’s misleading machine-like rank labels and keep the accepted English rank system.
+- He tries to drag the B+ corpse back for first place, then remembers Hellhounds are pack creatures.
+- Eleven Hellhounds surround him, then retreat from something worse.
+- Chapter ends with **Cerberus** info window: A+, 7 m, **7th Ridge**, alias **Hell’s Watchdog**.
 
-### Chapter 4
+### Chapter 11
 
-- complete Chinese sword-rank mechanics restored;
-- Hugo’s Seventh-Circle-equivalent mana + Sword Master standing retained;
-- Vikir’s previous-life age corrected to sixteen;
-- two-suns ending preserved as a distant guard’s observation of Vikir’s enormous mana manifestation.
-
-### Chapter 5
-
-- ten-minute suffocation attempt preserved;
-- Lowbro’s severed finger, Highbro’s broken nose/teeth, Middlebro’s jaw injury, blood/saliva/urine retained;
-- Styx protection stops Highbro’s dagger;
-- Vikir’s one-survivor threat and forced internal fracture of the Trident retained.
-
-### Chapter 6
-
-- John Barrymore introduction restored;
-- Morgue/Red Fang ruby dispute canonicalized;
-- MTL `Advertisement` debris removed;
-- Hugo’s “How many died?” reaction retained;
-- physical healing versus psychological destruction of the triplets kept distinct;
-- ends on Vikir’s “How can the strong be wrong?” doctrine.
-
-### Chapter 7
-
-- direct continuation of Chapter 6 interview preserved;
-- Hugo’s implied fratricide retained;
-- destroyed-family survivor/nun forgiveness anecdote retained;
-- under-fifteen water + haggis/offal diet and sweets-as-reward system restored;
-- concentrated **Bloody Beans** sequence retained with source quantities;
-- Vikir refuses bean processing, leading into the next family’s practical-exam arc.
-
-## Canonical-reference access note
-
-Current-family Fandom evidence was gathered during the active source-review phase. During final QA, fresh direct Fandom retrieval was blocked by robots.txt. This is recorded as an access limitation; no new canonical claim was fabricated after the block. Chinese remains narrative authority throughout.
-
-## Global state files synchronized
-
-- `editorial/chapter-tracker.json` — 7 accepted, next 8
-- `editorial/reconstruction-status.json` — 7 accepted, next 8
-- `PROJECT_STATE.md` — 7 accepted, next 8
-- `PROGRESS.md` — Chapters 4–7 acceptance logged
-- `editorial/GLOSSARY.md` — Chapters 4–7 terms promoted/scoped
-- `README.md` — current checkpoint updated
+- Cerberus retrospective: in the future demon war, one Cerberus kills hundreds of warriors chosen from the Seven Great Clans before **Camus Morgue** intervenes; render her established source/canonical epithet carefully and do not import unrelated current-timeline knowledge.
+- Cerberus is injured already: broken ribs + arrow wound, plausibly driven down from higher ridge by barbarians.
+- Rank-equivalence info window should be normalized consistently as:
+  - Low Sword Expert = 1st Circle mage
+  - Mid Sword Expert = 2nd Circle mage
+  - High Sword Expert = 3rd Circle mage
+  - Low Sword Graduator = 4th Circle mage
+  - Mid Sword Graduator = 5th Circle mage
+  - High Sword Graduator = 6th Circle mage
+  - Sword Master = 7th Circle mage
+- Vikir uses **Baskerville 1st / 2nd / 3rd Form**; established English material supports `Form` rather than the MTL’s `Type` wording.
+- He previously mastered through the 4th Form and High Sword Graduator in his first life.
+- Cerberus’s combat pattern parallels the triplets’ Trident tactics.
+- Cerberus breaks Vikir’s ribs; Vikir’s blunt shortsword breaks under aura.
+- Preserve the retreat proverb/Thirty-Six Stratagems idea but avoid inventing lore beyond Chinese.
+- Vikir lures Cerberus into the prebuilt stake pit, calls it the **Cradle of Needles**, and uses Bloody-Bean-treated stakes.
+- Final weapon is a wooden spear tipped with the preserved fangs/venom of the infancy **Bloody Mamba**; Cerberus collapses after exactly seven steps.
+- Chapter 12 opens on the collapsed Cerberus, so Ch. 11 endpoint must leave it down/dead without prematurely importing Chapter 12’s Beelzebub events.
 
 ## Exact next actions
 
-1. Open the Chapters 4–7 PR from `editorial/restart-baskerville-dog-family` to `main`, verify mergeability, and squash merge.
-2. Create a fresh branch from merged `main` for the Chapter 8 family.
-3. Inspect Chinese headings starting at `008.txt` until the base title changes; determine the complete **Hounds of Hell** family boundary.
-4. Verify the corresponding target↔MTL mappings by title/content, not number alone.
-5. Read every Chinese raw in the family completely and inspect the next chapter for boundary continuity.
-6. Revalidate applicable Fandom canonical terms, especially **Le Rouge et Le Noir Mountain**, Guide Hounds, monster names/ranks, exam terminology, Bloody Beans usage, and any sword ranks/skills that recur.
-7. Draft and QA the full family, create hash-bound provenance/acceptance evidence, update tracker/status/glossary/progress/handoff, merge, and continue to the next family.
+1. Draft Chapters 8–11 from Chinese, using MTL only as aligned secondary witness.
+2. Preserve info-window content and titles as complete blocks; do not leave lines such as ridge/alias outside the window.
+3. Keep Le Rouge et Le Noir / Guide Dog / Pavlov / Hellhound / Cerberus / accepted sword-rank terminology consistent across all four chapters.
+4. QA each chapter for semantic coverage, explicitness, info-window integrity, grammar, and MTL additions/errors.
+5. Run family QA across 7→8 (Bloody Beans to practical exam), 8→9 (bell/start), 9→10 (chocolate setup/payoff), 10→11 (Cerberus reveal/battle), 11→12 (collapsed Cerberus into Gluttonous Flies).
+6. Create hash-bound provenance/acceptance records, update glossary/state/progress/handoff, merge, then continue into Chapter 12 family.
 
-## Persistent source exceptions
+## Persistent exceptions
 
 - Chapter 55 Chinese raw missing; MTL 55 fallback.
 - Combined raw containers retained intact: 075→75–76, 267→267–268, 284→284–285, 351→351–352, 353→353–354, 385→385–386, 495→495–496.
-- Verified nontrivial mappings already recorded: target 75→MTL 74, 76→75, 267→265, 268→266.
+- Verified nontrivial mappings: target 75→MTL 74, 76→75, 267→265, 268→266.
