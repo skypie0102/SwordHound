@@ -3,7 +3,7 @@
   "source": "source/chapters/chapter-010.xhtml",
   "source_sha256": "67ab38d1c1e0fe7543833696b5147599cfaa5f796e2726bdabc22fbbe6131f20",
   "draft": "manuscript/drafts/chapter-0010.md",
-  "draft_sha256": "70c0ee8cb36b3add94ed07fde6299d0c33268ccfce622ecd768e1871888e3131",
+  "draft_sha256": "49e1a089e5ed1651964f1a218bf622f47f35f3d09cd654e14c1811091085b0eb",
   "paragraph_count": 138,
   "changed_paragraphs": 134,
   "paragraphs": [
@@ -310,11 +310,11 @@
     {
       "paragraph": 24,
       "source_text_sha256": "f1bcfc287a407afa360b51ecc3f212228f2e0f73cc357f177e79f3dbe8c8d54b",
-      "draft_text_sha256": "3f60c00de2d41be040424ce091184f215f04e57b06ba6d2b713fab5bac33eaa7",
+      "draft_text_sha256": "3aef0ffe33fcfc8e1640b3b3bb1cf78b88516cb3d8481fef13ba8da6d2fad1ef",
       "source_text": "It heart beat quickened as if it were going to burst, and it started bleed ing from the eyes.",
-      "draft_text": "Its heart hammered as though it might burst, and the blood vessels in its eyes swelled red.",
+      "draft_text": "Its heart hammered as though it might burst, and its bloodshot eyes looked ready to burst as well.",
       "changed": true,
-      "rationale": "Compared Korean source mapping with MTL paragraph 24; repair English grammar, tense, punctuation or phrasing while preserving event and speaker.",
+      "rationale": "Sanitization re-review: Korean applies the bursting image to the bloodshot eyes as well as the heart.",
       "open_issues": [],
       "korean_lines": [
         29

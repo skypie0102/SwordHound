@@ -12,7 +12,7 @@ Vikir examined his body.
 It held no mana and was utterly weak.
 
 <!-- source-p:004 -->
-Not a trace remained of the aura he had built up through countless battles.
+Not a trace remained of the aura he had built up while repeatedly hovering at death’s door and coughing up blood.
 
 <!-- source-p:005 -->
 ‘Have I fallen into hell?’

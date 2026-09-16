@@ -2,16 +2,16 @@
   "chapter": 2,
   "scope": "editorial_only",
   "review_basis": "korean_plus_mtl",
-  "draft_sha256": "974c13a17ead66cd6e303a4803a42dc2f7b409ec654840ea98a9e55e8821f140",
+  "draft_sha256": "f98dda4d2e21f66a0ef903cdd4b637aea7cc481a1a12981f3e68ddad4299608a",
   "mtl_sha256": "f8b281777c3a6b7636fee8be5ca7c3722f55b0535f0c23a453dce10cdbf0b8a5",
   "korean_sha256": "4a24ecbace17f09b6e9e83adabf6257914aa6abcda80f718eb9a646badc9f136",
-  "edit_set_sha256": "d3fcee744a808d6c4b4cc19f759910692f518cdf7b645d63ed66e822a2c5413e",
-  "decisions_sha256": "cdf23af89f8c1e6ad3c9ba0cbdae3e104b0385aecb8d3d4e50df3de8f6d00732",
+  "edit_set_sha256": "2f69720f6d9aa856338428de9bf2fcd6c529dc2919137fe88c0af7fe0ab5db2c",
+  "decisions_sha256": "8182101011217e545d5bc9eae9e1f1671f5c3386243804055f64c58faa928777",
   "alignment_sha256": "f3b1de8a57958a0a3c42b270ef83ec72e415e5333c22c6be6a4cf3e5280fb514",
   "evidence_sha256": {
     "editorial/continuity/chapter-0002.md": "2b08319ac1c92f696919ff78755b50139a3d4c66340c9ba838a55e7d73c98103",
     "editorial/korean-alignment/chapter-0002.json": "e5d0a0a1fd295cf90831ca221b53816777de9ce34c96ee58a625ce004f593784",
-    "editorial/reviews/chapter-0002-final.md": "8db1d22c98c0a37dad58b4a2a3ad34ad928efd246f1a4772147d9bbaf5197b49",
+    "editorial/reviews/chapter-0002-final.md": "a7fd40f0f096bb616bd45eec04a307291cb84327508767e8e2c1e99650e25651",
     "editorial/reviews/chapter-0002.md": "c16358600cc542721d557d937f302ff6ad20d6c450baa55667fcd767a7be956f",
     "preview/chapter-0002.html": "6d184dcdbc9085d09f0f74b102c3a5ebd899c75af9caa3c6bbfbfbf411ad46f2",
     "qa/layout/chapter-0002-desktop-legend.png": "f34e70e31ae3d1bd66d770957ab82c1f7451e81abe58bb40a2db83704260c152",
@@ -20,7 +20,7 @@
     "qa/layout/chapter-0002-mobile-ending.png": "e1e5130f6f9506f868dfbc4afa786d2188383c0f505d59267de6049052e8b61f",
     "qa/layout/chapter-0002.json": "91c03e511d50d4c59bdd2174c017153a1de81a935123d2a5c075a423c4d2832a"
   },
-  "review_date": "2026-09-13",
-  "reviewer": "Codex editorial/QA agent; no independent human review claimed",
+  "review_date": "2026-09-16",
+  "reviewer": "Codex editorial/QA agent; sanitation fidelity re-review; no independent human review claimed",
   "release_status": "epub_not_built"
 }

@@ -21,3 +21,9 @@ The preview renderer now recognizes complete standalone single-quoted thoughts a
 All five Chapter 2 QA items are resolved. The [acceptance record](../../qa/acceptance/chapter-0002.json) binds the final manuscript, source hashes, edit set, alignment, decisions, review notes, continuity and preview/layout evidence. Routine generation must validate this record; changing accepted text or evidence requires renewed review.
 
 The preserved-source verification and fourteen editorial integrity tests passed. Draft/preview reproducibility and generated tracker validation form the publication gate. Whole-EPUB assembly, rendering and EPUBCheck remain separate release work. Chapter 3 is the next reconstruction chapter.
+
+## 2026-09-16 sanitation fidelity re-review
+
+The previously accepted English was rechecked specifically for source sanitization against the supplied Korean witness. Paragraph(s) 4 contained localized softening, generalization, or omission of source intensity/specificity. The authoritative edit set was corrected, the chapter was regenerated from source, the QA record was formally reopened and resolved, and new acceptance hashes were calculated. The correction standard is fidelity rather than gratuitous intensification: preserve the source's actual force and anatomical/violent specificity, but do not make it harsher than the evidence supports.
+
+See `editorial/reviews/sanitization-audit-0001-0013.md` for the cross-chapter audit and `editorial/reviews/sanitization-corrections-0001-0013.json` for the exact replacements.

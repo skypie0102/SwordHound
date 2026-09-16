@@ -36,7 +36,7 @@ At eight years old, their real training began.
 Even their diet changed.
 
 <!-- source-p:012 -->
-Tough, sinewy cuts of meat were simmered in broth made from chicken bones until everything softened into a thick mash.
+Various kinds of tough, sinewy offal were simmered in chicken-bone broth until everything softened into a thick mash.
 
 <!-- source-p:013 -->
 The mixture was packed into sturdy intestines and boiled again until the last of the fat had been rendered out.

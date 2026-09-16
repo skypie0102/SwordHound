@@ -2,16 +2,17 @@
   "chapter": 13,
   "scope": "editorial_only",
   "review_basis": "korean_plus_mtl",
-  "draft_sha256": "b639a1802bd865ceec2d82b2a5efe1f8ab1edbfd670c66c94040164e359bfe77",
+  "draft_sha256": "a44ff8970c38398bb9a4d5db565788eb1432cc5d81f574db0b6a22c5bd4a27b6",
   "mtl_sha256": "2bef27c163e103c90c2af57bd7170d4ed16782b7035e8919b14513e30865be14",
   "korean_sha256": "f44e049710f465061adfd8416be5e490ff3e0be2e584ffc2ffd3e1745acb83c5",
-  "edit_set_sha256": "21117b2fd4d5c52add24e03c9a99856f928cd68caf19664e9e831f967111b3f2",
-  "decisions_sha256": "6dea1145cf8d5624bb32b8ebd11a9d60d430933fb83f59cd58cf65939f5b508d",
+  "edit_set_sha256": "e123874840b8c8ef491d31e8261bf77a22c69a7621ea9384950057be6519bf2b",
+  "decisions_sha256": "a7c5f77c6d566d89cae755ee622aaf3688202bcd2d89120386d7bc9f37b414cd",
   "alignment_sha256": "38fec65182279e173e90119a22b9d5f3fe5158d864bba8246fa740901ce458b7",
   "evidence_sha256": {
     "editorial/continuity/chapter-0013.md": "6a523ad9d714b208de2e5f9ce96c009202d8f7def5639f3e7df6fb7509189af8",
+    "editorial/korean-alignment/chapter-0013.json": "37a8afdf9711ca70c6a14eba4b761e0b186e177a2619fda2550cd9d66f534c7f",
     "editorial/reviews/batch-the-gluttonous-flies-0012-0013.md": "b6bf3b7079d3471c09fa675c1cbc35596f08525077087a761e5a5054f7cd374c",
-    "editorial/reviews/chapter-0013-final.md": "5f51147352e4388184af10ea8eeb3927e9b8e47b00f1189173ecb8c16749d8b6",
+    "editorial/reviews/chapter-0013-final.md": "5dd7307ebde210bf68f301f5f582e03c1d4c57b7b69b1f9c027a9a6394791bd6",
     "editorial/reviews/chapter-0013.md": "1fb115d5ad4f5f81bc3b40e3335a9fc45011f39c966931a2c81d227232387adf",
     "preview/chapter-0013.html": "2b260dc04823a0c139338adecd2ed2a509eaa50bea9983178eabb5bff1f2be19",
     "qa/chapter-0013-validation.md": "8f0762d2fc8544601987c870087ba4b3e502099fa431ab0632136cfe382a48ac",
@@ -21,7 +22,7 @@
     "qa/layout/chapter-0013-mobile-ending.png": "e8c53dad1cb1954067a353cf7fc1f84d8e895b1db5f09b7e89e84b4f8ae62b12",
     "qa/layout/chapter-0013.json": "844cbee4b6cef3d4cb6e904714719fa5d7c337c8d30ede9b4c9313467b0fd96a"
   },
-  "review_date": "2026-09-14",
-  "reviewer": "Codex editorial/QA agent; no independent human review claimed",
+  "review_date": "2026-09-16",
+  "reviewer": "Codex editorial/QA agent; sanitation fidelity re-review; no independent human review claimed",
   "release_status": "epub_not_built"
 }

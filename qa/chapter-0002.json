@@ -1,12 +1,12 @@
 {
   "chapter": 2,
   "source_sha256": "f8b281777c3a6b7636fee8be5ca7c3722f55b0535f0c23a453dce10cdbf0b8a5",
-  "review_date": "2026-09-13",
+  "review_date": "2026-09-16",
   "review_basis": "korean_plus_mtl",
   "korean_source": "source/korean/chapters/002.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
   "source_update": "Both supplied witnesses compared in full; Fandom search retrieval supports narrow terminology; Namu opening returned an internal error. No publisher provenance claim.",
-  "pass": "Final Korean/MTL adjudication, complete English reading, continuity review, and desktop/mobile chapter-layout review",
+  "pass": "Sanitization/fidelity re-review, corrected edit-source regeneration, complete deterministic QA, and editorial re-acceptance",
   "accepted": true,
   "issues": [
     {
@@ -115,6 +115,20 @@
       "evidence": [
         "editorial/reviews/chapter-0002-final.md",
         "qa/layout/chapter-0002.json"
+      ]
+    },
+    {
+      "id": "CH002-SANITIZATION",
+      "status": "resolved",
+      "paragraphs": [
+        4
+      ],
+      "question": "Sanitization / source-intensity fidelity re-review",
+      "required_evidence": "Compare the accepted English against the supplied Korean and restore any softened, generalized, euphemized, or omitted source detail without gratuitous intensification.",
+      "resolution": "Restored every sanitation/fidelity softening identified in the accepted text for this chapter against the supplied Korean witness. The replacement wording preserves source force and specificity without adding unsupported intensity.",
+      "evidence": [
+        "editorial/reviews/chapter-0002-final.md",
+        "editorial/korean-alignment/chapter-0002.json"
       ]
     }
   ],

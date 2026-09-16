@@ -1,11 +1,11 @@
 {
   "chapter": 8,
   "source_sha256": "d0174210fffb9ee884a456e0c70d31f6c5de6620de3da01193210fcdd288d26f",
-  "review_date": "2026-09-14",
+  "review_date": "2026-09-16",
   "review_basis": "korean_plus_mtl",
   "korean_source": "source/korean/chapters/008.txt",
   "supporting_reference_policy": "editorial/SOURCES.md",
-  "pass": "Final editorial, bilingual source, continuity, title-family browser-layout and repository validation",
+  "pass": "Sanitization/fidelity re-review, corrected edit-source regeneration, complete deterministic QA, and editorial re-acceptance",
   "accepted": true,
   "issues": [
     {
@@ -199,6 +199,20 @@
         "qa/layout/chapter-0008.json",
         "qa/chapter-0008-validation.md",
         "editorial/reviews/batch-hounds-of-hell-0008-0011.md"
+      ]
+    },
+    {
+      "id": "CH008-SANITIZATION",
+      "status": "resolved",
+      "paragraphs": [
+        12
+      ],
+      "question": "Sanitization / source-intensity fidelity re-review",
+      "required_evidence": "Compare the accepted English against the supplied Korean and restore any softened, generalized, euphemized, or omitted source detail without gratuitous intensification.",
+      "resolution": "Restored every sanitation/fidelity softening identified in the accepted text for this chapter against the supplied Korean witness. The replacement wording preserves source force and specificity without adding unsupported intensity.",
+      "evidence": [
+        "editorial/reviews/chapter-0008-final.md",
+        "editorial/korean-alignment/chapter-0008.json"
       ]
     }
   ],

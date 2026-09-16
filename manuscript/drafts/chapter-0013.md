@@ -201,10 +201,10 @@ Gulp. Gulp. Gulp. Gulp—
 With Beelzebub buried in its neck, the Hellhound’s corpse was drained of blood at an astonishing speed.
 
 <!-- source-p:067 -->
-Blood and bodily fluids flowed through Beelzebub’s hollow stinger and into Vikir.
+Blood and fluids from its organs flowed through Beelzebub’s hollow stinger and into Vikir.
 
 <!-- source-p:068 -->
-The gnawing hunger inside him eased, his cramped stomach gradually settling.
+His starving intestines filled, and the organs twisted by hunger gradually settled back into place.
 
 <!-- source-p:069 -->
 Flash!
@@ -222,7 +222,7 @@ Vikir’s intuition was correct.
 Beelzebub, the Gluttonous Fly, possessed the power to steal the distinctive traits and specialties of those whose blood it consumed.
 
 <!-- source-p:074 -->
-When Beelzebub had been alive, the scope of that absorption had been nearly limitless, leaving countless victims stripped of achievements they had spent their entire lives building.
+When Beelzebub had been alive, the scope of that absorption had been nearly limitless, leaving countless victims stripped of abilities they had spent their entire lives building, powerless and disabled.
 
 <!-- source-p:075 -->
 As a mere artifact, however, it could no longer exercise that boundless power.
@@ -325,7 +325,7 @@ At the rich scent of flesh and fat, Beelzebub quivered with almost delirious exc
 The buzzing of fly wings grew louder.
 
 <!-- source-p:109 -->
-Then Beelzebub drove its stinger into Cerberus’s corpse and began greedily drinking from its flesh and organs.
+Then Beelzebub drove its stinger into Cerberus’s corpse and began voraciously devouring its flesh and entrails.
 
 <!-- source-p:110 -->
 But Vikir stopped it.

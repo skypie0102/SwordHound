@@ -3,7 +3,7 @@
   "source": "source/chapters/chapter-011.xhtml",
   "source_sha256": "3e33fad1699136e0baf0506c349abfd068ac7411893aeb6199753c77b90b8268",
   "draft": "manuscript/drafts/chapter-0011.md",
-  "draft_sha256": "33a74a44eaac480f4619a5c4ed3ae08d783793b29b8c948439d008beeae9cd5d",
+  "draft_sha256": "69fe9b108d1b9e565e3548c6fd507970f5424581ea8d8c61140679be5d93d16f",
   "paragraph_count": 201,
   "changed_paragraphs": 198,
   "paragraphs": [
@@ -1873,11 +1873,11 @@
     {
       "paragraph": 144,
       "source_text_sha256": "1af42d17ee30ca37134e5b6b848997ec49cfd08ae78473607555e1536215d806",
-      "draft_text_sha256": "732cd24d48c393b489d7664d59fcb2fea336bf6ce030a1af1a403cacc38acf94",
+      "draft_text_sha256": "801345c02747fc1a91f1c331467e5763cac7d3ff935101c9fa5fdda46af30296",
       "source_text": "Cerberus’ body and left fatal wounds.",
-      "draft_text": "They drove into its body and opened serious wounds.",
+      "draft_text": "They drove into its body and opened grievous, potentially fatal wounds.",
       "changed": true,
-      "rationale": "Preserve the second half of the Korean wound line in its separate recovered source slot.",
+      "rationale": "Sanitization re-review: Korean uses 치명적인; restore the potentially fatal severity without falsely claiming Cerberus dies at this instant.",
       "open_issues": [],
       "korean_lines": [
         143

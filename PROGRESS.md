@@ -1,5 +1,14 @@
 # Project progress
 
+## 2026-09-16 — Sanitization fidelity re-review and re-acceptance
+
+**Result: Chapters 1, 2, 8, 10, 11, and 13 were formally reopened, corrected at the authoritative edit-source layer, regenerated, and re-accepted. The accepted chapter count remains 13; Chapters 14–17 remain editorially staged.**
+
+- Restored 10 localized source-intensity/fidelity details identified by the sanitation audit, including Chapter 2's near-death/blood imagery, Chapter 8's offal, Chapter 11's potentially fatal stake wounds, and Chapter 13's anatomical/Beelzebub feeding details.
+- Added a permanent no-sanitization rule to `AGENTS.md` and `editorial/WORKFLOW.md`: preserve source force and specificity without euphemizing, generalizing, omitting, or gratuitously intensifying harsh material.
+- Reopened the six accepted chapters before changing their edit sets, recorded a dedicated resolved QA issue in each chapter, regenerated manuscript/provenance from the edit specifications, and replaced stale acceptance records with new hash-bound evidence dated 2026-09-16.
+- The audit scope of Chapters 1–13 refers only to the chapters formally accepted by the newer reconstruction pipeline. The recovered repository still contains the full 493-chapter MTL corpus and older EPUB/editorial artifacts; those are separate from the current reconstruction-acceptance count.
+
 This log records recovered evidence and new reconstruction work separately. Historical completion reports do not count as recovered chapter QA.
 
 ## 2026-09-14 — Solitary (Chapters 14–17) editorial staging complete
