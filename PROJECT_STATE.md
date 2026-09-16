@@ -2,29 +2,47 @@
 
 **Checkpoint:** 2026-09-16  
 **Target edition:** 500 chapters  
-**Accepted:** 1  
+**Accepted:** 0  
 **Staged:** 0  
-**Next chapter:** 2
+**Next chapter:** 1
 
-## Chinese-first reconstruction
+## Full editorial restart
 
-The active reconstruction uses the user-supplied Chinese raws as the primary source of truth. The Korean raw path remains retired from the repository and workflow.
+The active reconstruction has been restarted from **Chapter 1** after restoring two project rules that were unintentionally lost during the Chinese-source migration:
 
-### Accepted under the current policy
+1. chapters must be processed as complete contiguous **title-family batches**, and work must continue across subsequent title families for as long as safe work can be completed; and
+2. the user-designated English Fandom wiki is the canonical English authority for established names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns, while the Chinese raw remains the semantic/narrative authority.
 
-- **Chapter 1 — Hellhound (1)**: rebuilt from `source/chinese/chapters/001.txt`, with English MTL Chapter 1 independently aligned by title/content and used only as a secondary reference. Full semantic, coverage, terminology, continuity, prose, explicitness, and formatting QA passed. See `qa/chapter-0001.md` and `editorial/provenance/chapter-0001.json`.
+The earlier Chinese-first Chapter 1 acceptance is therefore **superseded**. Its draft, QA, acceptance, and provenance records have been removed from the active tree and remain available in Git history for reference only. No part of that former acceptance may be treated as current evidence without re-review under the complete workflow.
 
-The prior Korean-assisted Chapter 1–13 acceptance and later staging state remain superseded. Their history is recoverable through Git but does not count toward current completion.
+## Mandatory continuation record
+
+`HANDOFF.md` is the operational handoff file for every work session.
+
+Every agent/session must:
+
+- read `HANDOFF.md` before beginning editorial work;
+- reconcile it with this file, `PROGRESS.md`, and `editorial/chapter-tracker.json`;
+- update it after meaningful progress and **always before ending a session or handing work to another agent**;
+- record the exact next chapter/title-family action, in-progress work, source alignment, canonical-wiki checks, decisions, blockers, branch/PR state, and files created or changed.
+
+If `HANDOFF.md` disagrees with accepted tracker/provenance evidence, correct the handoff immediately; accepted evidence remains authoritative for completed chapters.
 
 ## Active source baseline
 
-Chinese is the primary source for the 500-chapter target edition.
+### Semantic / narrative authority
+
+Chinese is primary for the 500-chapter target edition.
 
 - Physical Chinese files: **492**
 - Target chapters covered by Chinese: **499 / 500**
 - Confirmed missing Chinese chapter: **55**
 - Combined two-chapter source containers: **7**
 - Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source only except Chapter 55
+
+### Canonical English terminology authority
+
+The English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki is the canonical English reference for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns. It does not override Chinese narrative meaning or reveal chronology.
 
 Combined containers:
 
@@ -42,16 +60,15 @@ The combined raws remain intact because none exposes a sufficiently reliable sec
 
 ## Missing Chapter 55
 
-`055.txt` is genuinely absent between Chinese Chapters 54 and 56. The recovered English MTL Chapter 55 is the verified fallback source. Chapter 55 must receive the same full editing and QA as every other chapter, with additional uncertainty and neighboring-continuity review because no Chinese raw is available.
+`055.txt` is genuinely absent between Chinese Chapters 54 and 56. The recovered English MTL Chapter 55 is the verified fallback source. It still requires full editing, canonical terminology verification, neighboring-continuity review, uncertainty review, and normal QA.
 
 ## Numbering warning
 
-The Chinese target numbering and 493-chapter English MTL numbering diverge later. Same-number lookup is prohibited unless verified. Known exceptions are documented in `source/chinese/chapter-exceptions.tsv`; future mappings must be established by title/content alignment.
+The Chinese target numbering and 493-chapter English MTL numbering diverge later. Same-number lookup is prohibited unless verified by title/content. Known nontrivial mappings are documented in `source/chinese/chapter-exceptions.tsv`.
 
-## Chapter 1 source decisions
+## Current work
 
-The Chapter 1 QA records several material MTL corrections: the omitted execution placard, the missing “live again” line, the altered Hugo dialogue, the mistranslated final “young master” exchange, and the incorrect final grin. It also documents two terminology normalizations: **Marquis Hugo Le Baskerville** despite the Chinese localization’s `伯爵`, and **Cradle of Swords** for `刀刃摇篮`.
-
-## Next work
-
-Proceed to **Chapter 2 — Hellhound (2)** under `editorial/WORKFLOW.md`. Chapter 2 intentionally overlaps part of Chapter 1 from Vikir’s internal perspective; preserve that source-authentic structure rather than deduplicating it.
+- **Accepted:** none under the restarted workflow.
+- **Current target:** Chapter 1.
+- **Active title family:** determine the full contiguous family beginning with Chapter 1 before accepting any chapter.
+- **Next action:** follow `HANDOFF.md` and `editorial/WORKFLOW.md`; verify the title-family boundary, English-MTL alignment, and applicable Fandom canonical terms, then reconstruct the whole batch.
