@@ -8,6 +8,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from build_editorial_draft import render as validate_editorial_chapter
+from import_korean_raws import check_korean_raws
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'h': 'http://www.w3.org/1999/xhtml'}
@@ -79,13 +80,15 @@ def main():
             aligned[item['source_match']['chapter']].append(item['id'])
     overlay_path = ROOT / 'editorial/reconstruction-status.json'
     overlay = json.loads(overlay_path.read_text(encoding='utf-8')) if overlay_path.exists() else {}
-    korean_manifest = json.loads((ROOT / 'recovery/korean-raws-manifest.json').read_text(encoding='utf-8'))
-    korean = {entry['chapter']: entry for entry in korean_manifest['members']}
-    if len(korean_manifest['members']) != 54 or set(korean) != set(range(1, 55)):
-        raise ValueError('Expected Korean source coverage 1-54')
-    for entry in korean.values():
-        if hashlib.sha256((ROOT / entry['path']).read_bytes()).hexdigest() != entry['sha256']:
-            raise ValueError(f'Korean source checksum mismatch: {entry["chapter"]}')
+
+    supplemental_manifest = check_korean_raws(ROOT)
+    original_manifest = json.loads((ROOT / 'recovery/korean-raws-manifest.json').read_text(encoding='utf-8'))
+    combined_members = original_manifest['members'] + supplemental_manifest['members']
+    korean = {entry['chapter']: entry for entry in combined_members}
+    expected_korean = set(range(1, 126)) - {55, 76}
+    if len(korean) != 123 or set(korean) != expected_korean:
+        raise ValueError(f'Expected current Korean source coverage 1-125 except 55 and 76; got {sorted(korean)}')
+
     chapters = []
     for number, item in sorted(chapter_data.items()):
         state = overlay.get(str(number), {})
@@ -100,7 +103,7 @@ def main():
         chapters[-1]['acceptance_evidence'] = state.get('acceptance_evidence')
     save('editorial/audit-alignment.json', {'notice':'Exact quoted text plus chapter title matching after whitespace normalization only. A match locates an old suggestion; it does not approve or apply it. Unmatched findings may involve changed text, numbering, or titles. Duplicate suggestions remain separate.', 'counts':dict(Counter(x['match_status'] for x in findings)), 'findings':findings})
     save('editorial/chapter-tracker.json',{'notice':'Reconstructed tracker. Historical completion reports and current QA acceptance are separate. Only original source integrity is verified for every chapter.','chapter_count':len(chapters),'chapters':chapters})
-    print(json.dumps({'chapters':len(chapters),'audit_findings':len(findings),'alignment_counts':dict(Counter(x['match_status'] for x in findings))}))
+    print(json.dumps({'chapters':len(chapters),'audit_findings':len(findings),'alignment_counts':dict(Counter(x['match_status'] for x in findings)), 'korean_raws': len(korean), 'korean_gaps_1_125': [55, 76]}))
 
 
 if __name__ == '__main__':
