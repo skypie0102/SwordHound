@@ -140,7 +140,7 @@ As a result, his body grew stronger again.
 
 The blessing of the River Styx combined with the power gained from killing the Hellhound.
 
-His resistance to poison, magic, and physical force rose even further.
+His body was now almost impervious to poison, magic, and other physical forces.
 
 ‘… My bones feel thicker. Have I grown a little taller too?’
 
@@ -162,7 +162,7 @@ He was only eight years old.
 
 Yet he had already reached High Sword Expert.
 
-Most Baskerville children would not approach such a level until much later.
+Most Baskerville children would not reach that level until after the coming-of-age ceremony.
 
 Vikir was confident that within the next seven years he could surpass the power of his previous life entirely.
 
