@@ -1,16 +1,18 @@
-# Reprocessing source inventory — recovered MTL Chapters 1–125
+# Reprocessing source inventory — canonical Chapters 1–125
 
-- Recovered MTL chapters with a Korean witness: **123/125**
-- MTL-only chapters after edition alignment: 55, 125
-- Missing MTL chapters: none
+**Canonical numbering is the original Korean/source chapter number.** Recovered MTL numbering is only an auxiliary witness and must never redefine chapter identity.
 
-## Edition-alignment notes
+- Canonical chapters with a committed Korean witness: **124/125**
+- Korean source chapters currently absent from the repository: 55
+- User reports that Chapter 55 raw exists; no `source/korean/chapters/055.txt` is currently committed in the accessible repository tree. If it is added, the inventory will adopt it automatically.
+- Chapter 125 **is Korean-backed** by `source/korean/chapters/125.txt`.
 
-- Korean and recovered MTL numbering are identical through Chapter 58, except that Korean 55 is absent.
-- Recovered MTL Chapter 59 combines Korean source Chapters 59 and 60.
-- Recovered MTL Chapters 60–73 align to Korean source chapter number +1.
-- `source/korean/chapters/075.txt` explicitly bundles source Chapters 75+76 and covers recovered MTL Chapters 74+75.
-- Recovered MTL Chapters 76–124 align to Korean source chapter number +1.
-- Recovered MTL Chapter 125 would require Korean source Chapter 126, which is not in the supplied raw set, so Chapter 125 is MTL-only.
+## MTL boundary/alignment notes
 
-MTL-only chapters must never be described as bilingually verified. Missing Korean is a declared source limitation, not by itself an acceptance blocker.
+- Source Chapters 1–58 align to the same recovered MTL chapter number.
+- Recovered MTL Chapter 59 contains both canonical source Chapters 59 and 60. Reconstruction must split that material back across two canonical chapters.
+- Canonical source Chapters 61–125 align to recovered MTL chapter number minus one, with passage-level checks rather than blind filename matching.
+- `source/korean/chapters/075.txt` physically bundles source Chapters 75 and 76; this is a packaging detail, not a chapter renumbering.
+- Canonical source Chapter 125 uses Korean `125.txt` and recovered MTL Chapter 124. Recovered MTL Chapter 125 is not a reason to call source Chapter 125 MTL-only.
+
+Where a Korean raw is genuinely unavailable in the repository, MTL fallback is permitted under the user’s instruction, but the limitation must be recorded explicitly.

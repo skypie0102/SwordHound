@@ -1,27 +1,28 @@
-# Chapter 65 source comparison — 2026-09-15
+<!-- Canonical source Chapter 65; imported from legacy recovered-MTL Chapter 64. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 64 source comparison — 2026-09-15
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-065.xhtml`, **229** paragraph slots. No Korean Chapter 65 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-064.xhtml`, **215** paragraph slots. No Korean Chapter 64 witness exists in the repository.
 
 ## Editorial decisions
 
-- Lord Smuggler returns with a criminal/deserter mercenary force because the abandoned Ballak trade goods are worth too much for the caravan to surrender.
-- Ballak exploits cigarette embers and voices as night targets; the three-men-one-match superstition becomes a practical timing joke for position, distance, and shot.
-- Vikir stops Aiyen from eliminating every attacker not out of mercy, but so fleeing survivors expose the reserve camp, supply base, and escape route.
-- The reserve force includes roughly another hundred fighters and mages using shields/barriers against arrows.
-- Preserve the coordinated oil-barrel tactic: multiple arrows carry rope-slung barrels over defenses, followed by fire arrows that destroy both personnel and jungle-survival supplies.
-- Lord Smuggler possesses a genuine Underdog prospecting permit. Vikir reveals enough of his identity for Smuggler to recognize him, personally revokes the authorization tied to his office, and burns it before Smuggler is killed by Ballak arrows.
-- The fire is also bait: surviving attackers mistake Ballak's retreat for weakness, while Vikir has deliberately left the noisy, brightly lit camp inside the range of **Madam Eight-Legs**.
-- The chapter ends only after the screams behind Aiyen, Vikir, and Bakira disappear.
+- Vikir voids the day's exchanges and explains the caravan's weak bargaining position: its grain and vegetables are perishable, while Ballak's hides, medicine, spices, gems, and monster materials retain value.
+- Preserve Vikir's plan to use Cindywendy later as a possible route for fairer trade once he can act through Imperial channels again.
+- His market valuations come from real administrative experience in Underdog; retain the Hellhound-tooth chess pieces, ox-horn billiard balls, natural red ivory, and goblin chanterelle examples as evidence that he knows wholesale/retail margins.
+- Separate a **fair repricing** of the actual trade from **punitive damages** for fraud.
+- The merchants deliberately heat-killed seeds so Ballak could not germinate crops and escape dependence on the caravan.
+- The supposedly harmless beads, jewelry, perfumes, and cosmetics conceal a low-grade narcotic that induces sleep/dreams and causes serious harm with long exposure.
+- Vikir does not assume Baskerville/Morgue innocence; weakening Ballak could benefit the Empire, but his own interest is preserving his standing in the tribe and continuing to learn Ballak archery.
+- Aheul is Ahun's younger sister and one of the children harmed by the contaminated goods. Keep her illness and the merchants' humiliation of her plot-relevant but nonsexual.
+- The chapter ends with word that the expelled merchants are returning at night with hostile intent.
 
 ## Historical audit triage
 
-The historical audit labels this title part as **Chapter 66: Unfair Trade (3)**.
+The historical audit labels this title part as **Chapter 65: Unfair Trade (2)**.
 
-- `ED-00510` — broken match-lighting sentence: reconstructed as complete action.
-- `ED-00514` — standalone `But.` transition: repaired.
-- `ED-00515` — isolated Lord Smuggler arrow-hit fragment: integrated into the execution sequence.
-- `ED-00518` — `The Madam with Eight Legs.` fragment: rewritten as the reveal that the camp's noise has attracted Madam Eight-Legs.
+- `ED-00502`, `ED-00503` — machine-fragment transitions: rewritten as complete prose.
+- `ED-00504`, `ED-00505` — broken capitalization/sentence flow: normalized in the reconstructed market-price and goods passages.
 
-Source-slot staging: `editorial/staging/chapter-0065-final-text.txt` — **229/229** slots.
+Source-slot staging: `editorial/staging/chapter-0064-final-text.txt` — **215/215** slots.

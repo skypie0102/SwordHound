@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 50; imported from legacy recovered-MTL Chapter 50. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 50 source comparison — 2026-09-15
 
 Status: **editorial review complete; presentation/layout QA deferred to complete-EPUB work**. Basis: supplied Korean plus recovered MTL.

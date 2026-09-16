@@ -1,26 +1,27 @@
-# Chapter 70 source comparison — 2026-09-16
+<!-- Canonical source Chapter 70; imported from legacy recovered-MTL Chapter 69. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 69 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-070.xhtml`, **146** paragraph slots. No Korean Chapter 70 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-069.xhtml`, **162** paragraph slots. No Korean Chapter 69 witness exists in the repository.
 
 ## Editorial decisions
 
-- Vikir confirms that the man in the pendant portrait is unmistakably **young Hugo Le Baskerville**.
-- Pomeranian identifies the three people in the portrait as **mother, grandfather, and grandmother**. Vikir then constructs a family-tree hypothesis from the portrait and Baskerville history.
-- Treat the genealogy as **Vikir's inference at this point in the narrative**, not as independently verified fact: he reasons that Hugo's first wife was Roxana, their first daughter was Penelope, and Pomeranian is Penelope's daughter—therefore Hugo's granddaughter and Vikir's niece.
-- Preserve the historical explanation that Baskerville's move west was not a demotion: Hugo personally requested relocation after the death of his first wife and disappearance of his beloved first daughter, then devoted himself to frontier war.
-- Correct the MTL's `uncle and nephew` to **uncle and niece** because Pomeranian is consistently female in the surrounding source.
-- Vikir does not immediately decide to hand Pomeranian to Hugo. His first concern is getting her somewhere within reach of Imperial civilization where she can be raised safely.
-- The oxbear hide is repurposed as a carrying sling for Pomeranian; Vikir considers eventually asking Chihuahua for practical help.
-- Pomeranian's attachment to Vikir is grounded in recent trauma, isolation, and his resemblance to her mother rather than romanticized framing.
-- Aiyen's explanation at Penelope's grave is retained as Ballak spiritual custom: the dead become stars while the body left behind is only a shell.
-- The chapter returns to the epidemic plot: witnesses report Red Death symptoms among multiple jungle species, not only Rokoko.
-- Ahmen insists the outbreak is a **curse** requiring ritual sacrifice, while younger hunters argue it is a disease and advocate relocation. This restores his institutional conflict with Vikir without yet proving complicity in the Leviathan contamination.
-- The chapter endpoint is Vikir stating that he **knows how to stop the disease**, handing directly into The Red Death.
+- The dead Rokoko hunters show the same syndrome: chills, vomiting, diarrhea, severe weakness, and **red spots** across the skin.
+- Vikir identifies the outbreak from pre-regression memory as the **Red Death**, a first-class epidemic that historically devastated the jungle tribes and eventually reached the Imperial frontier.
+- Preserve the important distinction that the Rokoko village was **not completely exterminated in place**. Survivors appear to have fled, abandoning dead and dying people behind, which creates an obvious risk of wider spread.
+- Aiyen's fear reflects frontier superstition and the terrifying speed of past epidemics; Vikir explicitly treats the condition as disease rather than a divine curse.
+- Rokoko's abandoned settlement is searched for cultural/intelligence material because the family remains a historic enemy and almost nothing is normally accessible from inside their territory.
+- The surviving child is approximately five, Imperial in appearance, and had been used as a **kitchen slave** by Rokoko.
+- Her name is **Pomeranian**, and she gives the family form **Pomeranian La Baskerville**.
+- Correct gender consistently: Pomeranian is a girl. The recovered MTL repeatedly switches pronouns.
+- `La` is treated as a Baskerville middle-name marker associated with direct female relatives, making the child's claim immediately significant to Vikir.
+- The old gold pendant bears the Baskerville fang emblem and contains a portrait of a young Hugo, a blonde woman, and a dark-haired red-eyed girl in her early teens.
+- The chapter endpoint is the recognition that the young man in the portrait is unquestionably **Hugo Le Baskerville**.
 
 ## Historical audit triage
 
-- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 70. No findings were imported from neighboring historical numbering without direct alignment.
+- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 69. Neighboring historical numbering is not used as a substitute for direct alignment.
 
-Source-slot staging: `editorial/staging/chapter-0070-final-text.txt` — **146/146** slots.
+Source-slot staging: `editorial/staging/chapter-0069-final-text.txt` — **162/162** slots.

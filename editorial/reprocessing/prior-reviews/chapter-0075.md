@@ -1,24 +1,29 @@
-# Chapter 75 source comparison — 2026-09-16
+<!-- Canonical source Chapter 75; imported from legacy recovered-MTL Chapter 74. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 74 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-075.xhtml`, **111** paragraph slots. No Korean Chapter 75 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-074.xhtml`, **141** paragraph slots. No Korean Chapter 74 witness exists in the repository.
 
 ## Editorial decisions
 
-- Preserve St. Mecca's highly regulated Quovadis social atmosphere and Vikir's discomfort after two years in comparatively free Ballak culture.
-- Vikir deliberately introduces a sample carrying the **fictional Red Death** into a slum well to force Quovadis healers to confront the same disease threatening Ballak. This is preserved as a morally dangerous in-story gambit, not endorsed or expanded into real-world biological procedure.
-- He immediately warns nearby children away from the well and expects Quovadis to react before civilian deaths occur; keep those mitigating narrative facts explicit.
-- Vikir plants the recovered **House Leviathan** serpent-marked evidence near the site, deliberately steering Quovadis suspicion toward a longstanding rival.
-- His working belief is that Leviathan was responsible for triggering the original frontier outbreak, but at this point the chapter presents that as Vikir's conclusion rather than externally verified fact.
-- The Quovadis–Leviathan rivalry is used as political leverage: Vikir expects disease plus Leviathan evidence to force a rapid institutional response.
-- Dolores is established as a direct Quovadis descendant, second-year Imperial Academy student, and student-council vice president.
-- Wealthy nobles and merchants fail to gain access because they lead with lineage, titles, money, and offers of reward.
-- Vikir's prior-life memory of Dolores emphasizes battlefield healing and selfless service rather than aristocratic prestige.
-- His answer **“Only a lost lamb”** succeeds where status displays fail, and the previously closed Quovadis gate opens.
+- Establish St. Mecca as a major Quovadis city and Vikir's destination for obtaining a cure for Aheul.
+- Preserve the infiltration method: Vikir hides inside a sealed oil barrel, wearing a plague-doctor-style beaked mask, black hat, and coat, and pays the merchant with an oxbear fang.
+- Vikir adopts the alias **Hound of the Night**, consciously echoing Akwilla's Night Fox title while distancing himself from the old Hound of Baskerville identity.
+- Preserve the four-day travel accounting after leaving Ballak: two days out of the depths, one surveying Baskerville territory, and one reaching/infiltrating Quovadis territory.
+- Flood conditions accelerate travel; giant frontier animals are now routine obstacles for a fully recovered Vikir, with the bone-sucking mosquito swarm retained as the one notably troublesome incident.
+- Pomeranian catches a cold during the journey, reinforcing why Vikir must place her somewhere safer before continuing the cure mission.
+- Vikir returns secretly to Underdog and entrusts Pomeranian to **Chihuahua Baskerville**, one of the few Baskerville-affiliated people he genuinely trusts.
+- Normalize Pomeranian consistently to female. Chihuahua's mistaken assumption that she is Vikir's daughter remains a comic misunderstanding, not a factual genealogy claim.
+- Vikir funds her care with valuable oxbear hide/horns and instructs Chihuahua to provide food, medical attention, safety, and basic education without interrogating her history.
+- Chihuahua preserved two years of newspaper clippings on Baskerville, Morgue, and regional developments in case Vikir returned.
+- Underdog's criminal problems have resurged during the vacancy. Vikir points Chihuahua toward **Messinadnaro Sen Cindywendy**, using Judy and the ten-billion-gold investment as the likely contact path.
+- The proposed incentive is a monopoly on **legal frontier trade** reopened through Vikir's Ballak standing, not a revival of Bourgeois-style exploitative smuggling.
+- Chapter endpoint: Vikir heads for Quovadis because he believes even a small quantity of their holy water can cure Aheul's Red Death.
 
 ## Historical audit triage
 
-- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 75. No neighboring offset findings are applied without direct alignment.
+- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 74. Neighboring historical numbering is not imported automatically.
 
-Source-slot staging: `editorial/staging/chapter-0075-final-text.txt` — **111/111** slots.
+Source-slot staging: `editorial/staging/chapter-0074-final-text.txt` — **141/141** slots.

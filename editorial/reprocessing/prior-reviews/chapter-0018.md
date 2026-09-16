@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 18; imported from legacy recovered-MTL Chapter 18. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 18 source comparison — 2026-09-14
 
 Status: **editorial review complete; presentation/layout QA deferred to the complete-EPUB phase**. Review basis: supplied Korean plus recovered MTL, with narrow supporting-reference checks. New reconstruction, not recovered old production.

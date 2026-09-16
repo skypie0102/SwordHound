@@ -1,21 +1,27 @@
-# Chapter 82 source comparison — 2026-09-16
+<!-- Canonical source Chapter 82; imported from legacy recovered-MTL Chapter 81. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 81 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-082.xhtml`, **128** paragraph slots. No Korean Chapter 82 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-081.xhtml`, **137** paragraph slots. No Korean Chapter 81 witness exists in the repository.
 
 ## Editorial decisions
 
-- The chapter is structured as Aiyen's dream/retrospective: Cerberus attack, enslavement, Vikir's rescue, years of searching for him, reunion, Madam Eight-Legs, and his gradual integration into Ballak.
-- Preserve Aiyen's attachment as something that develops from gratitude and possessiveness into a much deeper emotional dependence over two years.
-- The source's sexualized or bodily-comedy recollections involving teenage characters are reduced to neutral memories of hunts, arguments, healing, meals, training, and the Fountain of Valor.
-- Aiyen wakes feverish and miserable but lacks the characteristic red spots of the Red Death.
-- Akwilla's story about Aiyen's father remains an intentionally absurd family-history joke: the parents' drug-related recklessness led to Aiyen's conception, and her father was executed the next day for dangerous misconduct. Explicit sexual detail is not reproduced.
-- The title payoff is comic and immediate: Aiyen goes from barely able to move to sprinting through the village the instant she hears that Vikir has returned.
-- The endpoint therefore strongly implies **lovesickness**, not Red Death.
+- Quovadis successfully produces three concentrated drops of **Plany de la Verge / Saintess's Tears**, with one drop sufficient to cleanse the infected St. Mecca water network.
+- Preserve the Old Covenant/New Covenant tension inside Quovadis and Cardinal **Humbert L. Quovadis** as Dolores's father and a senior Old Covenant authority.
+- Dolores traces the outbreak to the unregistered slum well using witness testimony, including the children Vikir deliberately frightened away from the contaminated water.
+- The Leviathan dagger and Bourgeois-marked button are presented to Humbert as physical evidence, but the reader already knows Vikir planted the evidence. Humbert's causal conclusion is therefore based on manipulated evidence, not independent authentication.
+- Humbert interprets the plague's artificial structure plus the planted symbols as grounds for hostile action against rival great houses.
+- Humbert also correctly regards the unknown Night Hound as suspicious and orders him detained for questioning.
+- Dolores's defense of Vikir is rooted in what she witnessed in the slums and in her idealized reading of his motives; it does not establish his innocence from the reader's perspective.
+- Preserve Vikir's prior conversation with Dolores about why her compassion may itself explain her calling. The exchange is important because it deepens her trust in him.
+- When Humbert moves to arrest him, Vikir has already escaped through the window.
+- Exactly **one** drop of Saintess's Tears is missing. This is the cure Vikir came to obtain for Aheul and Ballak.
+- The chapter ends on Dolores realizing that the Night Hound has completed his purpose and may be gone permanently, producing a different emotional reaction from her earlier admiration.
 
 ## Historical audit triage
 
 The tracker lists no exact-unique historical audit findings for this chapter.
 
-Source-slot staging: `editorial/staging/chapter-0082-final-text.txt` — **128/128** slots.
+Source-slot staging: `editorial/staging/chapter-0081-final-text.txt` — **137/137** slots.

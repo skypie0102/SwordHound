@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 54; imported from legacy recovered-MTL Chapter 54. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 54 source comparison — 2026-09-15
 
 Status: **editorial review complete; presentation/layout QA deferred to complete-EPUB work**. Basis: supplied Korean plus recovered MTL, with a confirmed Korean file-boundary anomaly.

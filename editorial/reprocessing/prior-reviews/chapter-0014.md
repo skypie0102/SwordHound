@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 14; imported from legacy recovered-MTL Chapter 14. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 14 source comparison — 2026-09-14
 
 Status: **editorial review in progress; presentation/layout QA deliberately deferred to complete-EPUB work**. Review basis: Korean plus recovered MTL, with supporting reference checks. This is new reconstruction work, not recovered old production.

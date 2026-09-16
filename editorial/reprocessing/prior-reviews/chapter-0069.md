@@ -1,25 +1,26 @@
-# Chapter 69 source comparison — 2026-09-16
+<!-- Canonical source Chapter 69; imported from legacy recovered-MTL Chapter 68. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 68 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-069.xhtml`, **162** paragraph slots. No Korean Chapter 69 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-068.xhtml`, **187** paragraph slots. No Korean Chapter 68 witness exists in the repository.
 
 ## Editorial decisions
 
-- The dead Rokoko hunters show the same syndrome: chills, vomiting, diarrhea, severe weakness, and **red spots** across the skin.
-- Vikir identifies the outbreak from pre-regression memory as the **Red Death**, a first-class epidemic that historically devastated the jungle tribes and eventually reached the Imperial frontier.
-- Preserve the important distinction that the Rokoko village was **not completely exterminated in place**. Survivors appear to have fled, abandoning dead and dying people behind, which creates an obvious risk of wider spread.
-- Aiyen's fear reflects frontier superstition and the terrifying speed of past epidemics; Vikir explicitly treats the condition as disease rather than a divine curse.
-- Rokoko's abandoned settlement is searched for cultural/intelligence material because the family remains a historic enemy and almost nothing is normally accessible from inside their territory.
-- The surviving child is approximately five, Imperial in appearance, and had been used as a **kitchen slave** by Rokoko.
-- Her name is **Pomeranian**, and she gives the family form **Pomeranian La Baskerville**.
-- Correct gender consistently: Pomeranian is a girl. The recovered MTL repeatedly switches pronouns.
-- `La` is treated as a Baskerville middle-name marker associated with direct female relatives, making the child's claim immediately significant to Vikir.
-- The old gold pendant bears the Baskerville fang emblem and contains a portrait of a young Hugo, a blonde woman, and a dark-haired red-eyed girl in her early teens.
-- The chapter endpoint is the recognition that the young man in the portrait is unquestionably **Hugo Le Baskerville**.
+- Aiyen tells Vikir that **Camus Morgue has continued searching for him for two years**. Her reluctance to say so is interpersonal conflict, not evidence that Ballak has been actively concealing Camus from him.
+- Vikir answers that he is **not returning yet**. His reason is strategic: before re-entering Baskerville's sphere, he wants enough recovered strength and control to hide his actual capabilities from Hugo.
+- Preserve Vikir's uncertainty over Camus's motive. He reads her persistence as loyalty or possibly diplomacy rather than assuming romance as fact.
+- Aiyen gives Vikir the dagger recovered from the river contaminator. Vikir identifies the large-serpent emblem as **House Leviathan**, one of the Seven Great Families.
+- The giant lungfish confirms that the rainy season is near and may be unusually severe.
+- The dead Rokoko hunter inside the lungfish was **swallowed first**; his harpoon pierced outward through the animal from inside. This establishes that the hunter had become abnormally weak rather than losing a normal hunt.
+- The corpse shows no obvious pre-swallowing trauma. Weak struggle marks and erratic tracks suggest systemic debilitation.
+- Vikir's working hypothesis is that Rokoko's situation has deteriorated so badly that even weakened people are being forced to forage or hunt.
+- The trail leads toward Rokoko territory and ends on a campsite where **every Rokoko hunter is dead**.
+- Rokoko's dark-elf ancestry, black magic/curses, and historic vulnerability to slavers are retained as background, but none of those traits is treated as the cause of the deaths.
 
 ## Historical audit triage
 
-- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 69. Neighboring historical numbering is not used as a substitute for direct alignment.
+- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 68. No neighboring offset findings were applied automatically.
 
-Source-slot staging: `editorial/staging/chapter-0069-final-text.txt` — **162/162** slots.
+Source-slot staging: `editorial/staging/chapter-0068-final-text.txt` — **187/187** slots.

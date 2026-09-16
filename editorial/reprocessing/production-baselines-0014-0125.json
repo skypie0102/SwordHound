@@ -1,8 +1,9 @@
 {
-  "range": [
+  "canonical_range": [
     14,
     125
   ],
+  "note": "Production branch names use the recovered MTL numbering. Rows are re-keyed here to canonical Korean/source chapter numbers.",
   "production_branches_scanned": [
     "origin/production/batch-0008-0010",
     "origin/production/batch-bared-teeth-0018-0019",
@@ -36,9 +37,13 @@
   ],
   "chapters": [
     {
-      "chapter": 14,
+      "canonical_source_chapter": 14,
+      "legacy_mtl_chapters": [
+        14
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 14,
           "branch": "production/batch-solitary-0014-0017",
           "files": {
             "draft": null,
@@ -52,14 +57,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-solitary-0014-0017",
+        "legacy_mtl_chapter": 14,
         "source_path": "editorial/reviews/chapter-0014.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0014.md"
       }
     },
     {
-      "chapter": 15,
+      "canonical_source_chapter": 15,
+      "legacy_mtl_chapters": [
+        15
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 15,
           "branch": "production/batch-solitary-0014-0017",
           "files": {
             "draft": null,
@@ -73,14 +83,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-solitary-0014-0017",
+        "legacy_mtl_chapter": 15,
         "source_path": "editorial/reviews/chapter-0015.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0015.md"
       }
     },
     {
-      "chapter": 16,
+      "canonical_source_chapter": 16,
+      "legacy_mtl_chapters": [
+        16
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 16,
           "branch": "production/batch-solitary-0014-0017",
           "files": {
             "draft": null,
@@ -94,14 +109,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-solitary-0014-0017",
+        "legacy_mtl_chapter": 16,
         "source_path": "editorial/reviews/chapter-0016.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0016.md"
       }
     },
     {
-      "chapter": 17,
+      "canonical_source_chapter": 17,
+      "legacy_mtl_chapters": [
+        17
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 17,
           "branch": "production/batch-solitary-0014-0017",
           "files": {
             "draft": null,
@@ -115,14 +135,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-solitary-0014-0017",
+        "legacy_mtl_chapter": 17,
         "source_path": "editorial/reviews/chapter-0017.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0017.md"
       }
     },
     {
-      "chapter": 18,
+      "canonical_source_chapter": 18,
+      "legacy_mtl_chapters": [
+        18
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 18,
           "branch": "production/batch-bared-teeth-0018-0019",
           "files": {
             "draft": null,
@@ -136,14 +161,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-bared-teeth-0018-0019",
+        "legacy_mtl_chapter": 18,
         "source_path": "editorial/reviews/chapter-0018.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0018.md"
       }
     },
     {
-      "chapter": 19,
+      "canonical_source_chapter": 19,
+      "legacy_mtl_chapters": [
+        19
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 19,
           "branch": "production/batch-bared-teeth-0018-0019",
           "files": {
             "draft": null,
@@ -157,14 +187,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-bared-teeth-0018-0019",
+        "legacy_mtl_chapter": 19,
         "source_path": "editorial/reviews/chapter-0019.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0019.md"
       }
     },
     {
-      "chapter": 20,
+      "canonical_source_chapter": 20,
+      "legacy_mtl_chapters": [
+        20
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 20,
           "branch": "production/batch-camus-morgue-0020-0025",
           "files": {
             "draft": null,
@@ -178,14 +213,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-camus-morgue-0020-0025",
+        "legacy_mtl_chapter": 20,
         "source_path": "editorial/reviews/chapter-0020.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0020.md"
       }
     },
     {
-      "chapter": 21,
+      "canonical_source_chapter": 21,
+      "legacy_mtl_chapters": [
+        21
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 21,
           "branch": "production/batch-camus-morgue-0020-0025",
           "files": {
             "draft": null,
@@ -199,14 +239,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-camus-morgue-0020-0025",
+        "legacy_mtl_chapter": 21,
         "source_path": "editorial/reviews/chapter-0021.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0021.md"
       }
     },
     {
-      "chapter": 22,
+      "canonical_source_chapter": 22,
+      "legacy_mtl_chapters": [
+        22
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 22,
           "branch": "production/batch-camus-morgue-0020-0025",
           "files": {
             "draft": null,
@@ -220,14 +265,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-camus-morgue-0020-0025",
+        "legacy_mtl_chapter": 22,
         "source_path": "editorial/reviews/chapter-0022.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0022.md"
       }
     },
     {
-      "chapter": 23,
+      "canonical_source_chapter": 23,
+      "legacy_mtl_chapters": [
+        23
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 23,
           "branch": "production/batch-camus-morgue-0020-0025",
           "files": {
             "draft": null,
@@ -241,14 +291,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-camus-morgue-0020-0025",
+        "legacy_mtl_chapter": 23,
         "source_path": "editorial/reviews/chapter-0023.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0023.md"
       }
     },
     {
-      "chapter": 24,
+      "canonical_source_chapter": 24,
+      "legacy_mtl_chapters": [
+        24
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 24,
           "branch": "production/batch-camus-morgue-0020-0025",
           "files": {
             "draft": null,
@@ -262,14 +317,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-camus-morgue-0020-0025",
+        "legacy_mtl_chapter": 24,
         "source_path": "editorial/reviews/chapter-0024.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0024.md"
       }
     },
     {
-      "chapter": 25,
+      "canonical_source_chapter": 25,
+      "legacy_mtl_chapters": [
+        25
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 25,
           "branch": "production/batch-camus-morgue-0020-0025",
           "files": {
             "draft": null,
@@ -283,14 +343,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-camus-morgue-0020-0025",
+        "legacy_mtl_chapter": 25,
         "source_path": "editorial/reviews/chapter-0025.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0025.md"
       }
     },
     {
-      "chapter": 26,
+      "canonical_source_chapter": 26,
+      "legacy_mtl_chapters": [
+        26
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 26,
           "branch": "production/batch-the-graduate-0026-0027",
           "files": {
             "draft": null,
@@ -304,14 +369,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-graduate-0026-0027",
+        "legacy_mtl_chapter": 26,
         "source_path": "editorial/reviews/chapter-0026.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0026.md"
       }
     },
     {
-      "chapter": 27,
+      "canonical_source_chapter": 27,
+      "legacy_mtl_chapters": [
+        27
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 27,
           "branch": "production/batch-the-graduate-0026-0027",
           "files": {
             "draft": null,
@@ -325,14 +395,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-graduate-0026-0027",
+        "legacy_mtl_chapter": 27,
         "source_path": "editorial/reviews/chapter-0027.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0027.md"
       }
     },
     {
-      "chapter": 28,
+      "canonical_source_chapter": 28,
+      "legacy_mtl_chapters": [
+        28
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 28,
           "branch": "production/batch-special-laws-of-vikir-0028-0031",
           "files": {
             "draft": null,
@@ -346,14 +421,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-special-laws-of-vikir-0028-0031",
+        "legacy_mtl_chapter": 28,
         "source_path": "editorial/reviews/chapter-0028.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0028.md"
       }
     },
     {
-      "chapter": 29,
+      "canonical_source_chapter": 29,
+      "legacy_mtl_chapters": [
+        29
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 29,
           "branch": "production/batch-special-laws-of-vikir-0028-0031",
           "files": {
             "draft": null,
@@ -367,14 +447,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-special-laws-of-vikir-0028-0031",
+        "legacy_mtl_chapter": 29,
         "source_path": "editorial/reviews/chapter-0029.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0029.md"
       }
     },
     {
-      "chapter": 30,
+      "canonical_source_chapter": 30,
+      "legacy_mtl_chapters": [
+        30
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 30,
           "branch": "production/batch-special-laws-of-vikir-0028-0031",
           "files": {
             "draft": null,
@@ -388,14 +473,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-special-laws-of-vikir-0028-0031",
+        "legacy_mtl_chapter": 30,
         "source_path": "editorial/reviews/chapter-0030.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0030.md"
       }
     },
     {
-      "chapter": 31,
+      "canonical_source_chapter": 31,
+      "legacy_mtl_chapters": [
+        31
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 31,
           "branch": "production/batch-special-laws-of-vikir-0028-0031",
           "files": {
             "draft": null,
@@ -409,14 +499,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-special-laws-of-vikir-0028-0031",
+        "legacy_mtl_chapter": 31,
         "source_path": "editorial/reviews/chapter-0031.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0031.md"
       }
     },
     {
-      "chapter": 32,
+      "canonical_source_chapter": 32,
+      "legacy_mtl_chapters": [
+        32
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 32,
           "branch": "production/batch-the-social-club-0032-0034",
           "files": {
             "draft": null,
@@ -430,14 +525,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-social-club-0032-0034",
+        "legacy_mtl_chapter": 32,
         "source_path": "editorial/reviews/chapter-0032.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0032.md"
       }
     },
     {
-      "chapter": 33,
+      "canonical_source_chapter": 33,
+      "legacy_mtl_chapters": [
+        33
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 33,
           "branch": "production/batch-the-social-club-0032-0034",
           "files": {
             "draft": null,
@@ -451,14 +551,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-social-club-0032-0034",
+        "legacy_mtl_chapter": 33,
         "source_path": "editorial/reviews/chapter-0033.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0033.md"
       }
     },
     {
-      "chapter": 34,
+      "canonical_source_chapter": 34,
+      "legacy_mtl_chapters": [
+        34
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 34,
           "branch": "production/batch-the-social-club-0032-0034",
           "files": {
             "draft": null,
@@ -472,14 +577,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-social-club-0032-0034",
+        "legacy_mtl_chapter": 34,
         "source_path": "editorial/reviews/chapter-0034.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0034.md"
       }
     },
     {
-      "chapter": 35,
+      "canonical_source_chapter": 35,
+      "legacy_mtl_chapters": [
+        35
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 35,
           "branch": "production/batch-slave-auction-0035-0037",
           "files": {
             "draft": null,
@@ -493,14 +603,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-slave-auction-0035-0037",
+        "legacy_mtl_chapter": 35,
         "source_path": "editorial/reviews/chapter-0035.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0035.md"
       }
     },
     {
-      "chapter": 36,
+      "canonical_source_chapter": 36,
+      "legacy_mtl_chapters": [
+        36
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 36,
           "branch": "production/batch-slave-auction-0035-0037",
           "files": {
             "draft": null,
@@ -514,14 +629,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-slave-auction-0035-0037",
+        "legacy_mtl_chapter": 36,
         "source_path": "editorial/reviews/chapter-0036.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0036.md"
       }
     },
     {
-      "chapter": 37,
+      "canonical_source_chapter": 37,
+      "legacy_mtl_chapters": [
+        37
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 37,
           "branch": "production/batch-slave-auction-0035-0037",
           "files": {
             "draft": null,
@@ -535,14 +655,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-slave-auction-0035-0037",
+        "legacy_mtl_chapter": 37,
         "source_path": "editorial/reviews/chapter-0037.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0037.md"
       }
     },
     {
-      "chapter": 38,
+      "canonical_source_chapter": 38,
+      "legacy_mtl_chapters": [
+        38
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 38,
           "branch": "production/batch-sponsored-0038-0039",
           "files": {
             "draft": null,
@@ -556,14 +681,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-sponsored-0038-0039",
+        "legacy_mtl_chapter": 38,
         "source_path": "editorial/reviews/chapter-0038.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0038.md"
       }
     },
     {
-      "chapter": 39,
+      "canonical_source_chapter": 39,
+      "legacy_mtl_chapters": [
+        39
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 39,
           "branch": "production/batch-sponsored-0038-0039",
           "files": {
             "draft": null,
@@ -577,14 +707,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-sponsored-0038-0039",
+        "legacy_mtl_chapter": 39,
         "source_path": "editorial/reviews/chapter-0039.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0039.md"
       }
     },
     {
-      "chapter": 40,
+      "canonical_source_chapter": 40,
+      "legacy_mtl_chapters": [
+        40
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 40,
           "branch": "production/batch-morgues-united-front-0040-0042",
           "files": {
             "draft": null,
@@ -598,14 +733,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-morgues-united-front-0040-0042",
+        "legacy_mtl_chapter": 40,
         "source_path": "editorial/reviews/chapter-0040.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0040.md"
       }
     },
     {
-      "chapter": 41,
+      "canonical_source_chapter": 41,
+      "legacy_mtl_chapters": [
+        41
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 41,
           "branch": "production/batch-morgues-united-front-0040-0042",
           "files": {
             "draft": null,
@@ -619,14 +759,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-morgues-united-front-0040-0042",
+        "legacy_mtl_chapter": 41,
         "source_path": "editorial/reviews/chapter-0041.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0041.md"
       }
     },
     {
-      "chapter": 42,
+      "canonical_source_chapter": 42,
+      "legacy_mtl_chapters": [
+        42
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 42,
           "branch": "production/batch-morgues-united-front-0040-0042",
           "files": {
             "draft": null,
@@ -640,14 +785,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-morgues-united-front-0040-0042",
+        "legacy_mtl_chapter": 42,
         "source_path": "editorial/reviews/chapter-0042.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0042.md"
       }
     },
     {
-      "chapter": 43,
+      "canonical_source_chapter": 43,
+      "legacy_mtl_chapters": [
+        43
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 43,
           "branch": "production/batch-the-fiancee-0043-0045",
           "files": {
             "draft": null,
@@ -661,14 +811,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-fiancee-0043-0045",
+        "legacy_mtl_chapter": 43,
         "source_path": "editorial/reviews/chapter-0043.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0043.md"
       }
     },
     {
-      "chapter": 44,
+      "canonical_source_chapter": 44,
+      "legacy_mtl_chapters": [
+        44
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 44,
           "branch": "production/batch-the-fiancee-0043-0045",
           "files": {
             "draft": null,
@@ -682,14 +837,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-fiancee-0043-0045",
+        "legacy_mtl_chapter": 44,
         "source_path": "editorial/reviews/chapter-0044.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0044.md"
       }
     },
     {
-      "chapter": 45,
+      "canonical_source_chapter": 45,
+      "legacy_mtl_chapters": [
+        45
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 45,
           "branch": "production/batch-the-fiancee-0043-0045",
           "files": {
             "draft": null,
@@ -703,14 +863,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-fiancee-0043-0045",
+        "legacy_mtl_chapter": 45,
         "source_path": "editorial/reviews/chapter-0045.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0045.md"
       }
     },
     {
-      "chapter": 46,
+      "canonical_source_chapter": 46,
+      "legacy_mtl_chapters": [
+        46
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 46,
           "branch": "production/batch-the-husband-hunt-0046-0051",
           "files": {
             "draft": null,
@@ -724,14 +889,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-husband-hunt-0046-0051",
+        "legacy_mtl_chapter": 46,
         "source_path": "editorial/reviews/chapter-0046.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0046.md"
       }
     },
     {
-      "chapter": 47,
+      "canonical_source_chapter": 47,
+      "legacy_mtl_chapters": [
+        47
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 47,
           "branch": "production/batch-the-husband-hunt-0046-0051",
           "files": {
             "draft": null,
@@ -745,14 +915,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-husband-hunt-0046-0051",
+        "legacy_mtl_chapter": 47,
         "source_path": "editorial/reviews/chapter-0047.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0047.md"
       }
     },
     {
-      "chapter": 48,
+      "canonical_source_chapter": 48,
+      "legacy_mtl_chapters": [
+        48
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 48,
           "branch": "production/batch-the-husband-hunt-0046-0051",
           "files": {
             "draft": null,
@@ -766,14 +941,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-husband-hunt-0046-0051",
+        "legacy_mtl_chapter": 48,
         "source_path": "editorial/reviews/chapter-0048.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0048.md"
       }
     },
     {
-      "chapter": 49,
+      "canonical_source_chapter": 49,
+      "legacy_mtl_chapters": [
+        49
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 49,
           "branch": "production/batch-the-husband-hunt-0046-0051",
           "files": {
             "draft": null,
@@ -787,14 +967,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-husband-hunt-0046-0051",
+        "legacy_mtl_chapter": 49,
         "source_path": "editorial/reviews/chapter-0049.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0049.md"
       }
     },
     {
-      "chapter": 50,
+      "canonical_source_chapter": 50,
+      "legacy_mtl_chapters": [
+        50
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 50,
           "branch": "production/batch-the-husband-hunt-0046-0051",
           "files": {
             "draft": null,
@@ -808,14 +993,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-husband-hunt-0046-0051",
+        "legacy_mtl_chapter": 50,
         "source_path": "editorial/reviews/chapter-0050.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0050.md"
       }
     },
     {
-      "chapter": 51,
+      "canonical_source_chapter": 51,
+      "legacy_mtl_chapters": [
+        51
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 51,
           "branch": "production/batch-the-husband-hunt-0046-0051",
           "files": {
             "draft": null,
@@ -829,14 +1019,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-husband-hunt-0046-0051",
+        "legacy_mtl_chapter": 51,
         "source_path": "editorial/reviews/chapter-0051.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0051.md"
       }
     },
     {
-      "chapter": 52,
+      "canonical_source_chapter": 52,
+      "legacy_mtl_chapters": [
+        52
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 52,
           "branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
           "files": {
             "draft": null,
@@ -850,14 +1045,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+        "legacy_mtl_chapter": 52,
         "source_path": "editorial/reviews/chapter-0052.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0052.md"
       }
     },
     {
-      "chapter": 53,
+      "canonical_source_chapter": 53,
+      "legacy_mtl_chapters": [
+        53
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 53,
           "branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
           "files": {
             "draft": null,
@@ -871,14 +1071,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+        "legacy_mtl_chapter": 53,
         "source_path": "editorial/reviews/chapter-0053.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0053.md"
       }
     },
     {
-      "chapter": 54,
+      "canonical_source_chapter": 54,
+      "legacy_mtl_chapters": [
+        54
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 54,
           "branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
           "files": {
             "draft": null,
@@ -892,14 +1097,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+        "legacy_mtl_chapter": 54,
         "source_path": "editorial/reviews/chapter-0054.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0054.md"
       }
     },
     {
-      "chapter": 55,
+      "canonical_source_chapter": 55,
+      "legacy_mtl_chapters": [
+        55
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 55,
           "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
           "files": {
             "draft": null,
@@ -913,14 +1123,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+        "legacy_mtl_chapter": 55,
         "source_path": "editorial/reviews/chapter-0055.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0055.md"
       }
     },
     {
-      "chapter": 56,
+      "canonical_source_chapter": 56,
+      "legacy_mtl_chapters": [
+        56
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 56,
           "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
           "files": {
             "draft": null,
@@ -934,14 +1149,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+        "legacy_mtl_chapter": 56,
         "source_path": "editorial/reviews/chapter-0056.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0056.md"
       }
     },
     {
-      "chapter": 57,
+      "canonical_source_chapter": 57,
+      "legacy_mtl_chapters": [
+        57
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 57,
           "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
           "files": {
             "draft": null,
@@ -955,14 +1175,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+        "legacy_mtl_chapter": 57,
         "source_path": "editorial/reviews/chapter-0057.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0057.md"
       }
     },
     {
-      "chapter": 58,
+      "canonical_source_chapter": 58,
+      "legacy_mtl_chapters": [
+        58
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 58,
           "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
           "files": {
             "draft": null,
@@ -976,14 +1201,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+        "legacy_mtl_chapter": 58,
         "source_path": "editorial/reviews/chapter-0058.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0058.md"
       }
     },
     {
-      "chapter": 59,
+      "canonical_source_chapter": 59,
+      "legacy_mtl_chapters": [
+        59
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 59,
           "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
           "files": {
             "draft": null,
@@ -997,14 +1227,45 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+        "legacy_mtl_chapter": 59,
         "source_path": "editorial/reviews/chapter-0059.md",
         "copied_to": "editorial/reprocessing/prior-reviews/chapter-0059.md"
       }
     },
     {
-      "chapter": 60,
+      "canonical_source_chapter": 60,
+      "legacy_mtl_chapters": [
+        59
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 59,
+          "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0059.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false,
+      "prior_review": {
+        "source_branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+        "legacy_mtl_chapter": 59,
+        "source_path": "editorial/reviews/chapter-0059.md",
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0060.md"
+      }
+    },
+    {
+      "canonical_source_chapter": 61,
+      "legacy_mtl_chapters": [
+        60
+      ],
+      "claimed_branches": [
+        {
+          "legacy_mtl_chapter": 60,
           "branch": "production/batch-the-protagonist-of-hunting-0060-0062",
           "files": {
             "draft": null,
@@ -1018,14 +1279,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-protagonist-of-hunting-0060-0062",
+        "legacy_mtl_chapter": 60,
         "source_path": "editorial/reviews/chapter-0060.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0060.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0061.md"
       }
     },
     {
-      "chapter": 61,
+      "canonical_source_chapter": 62,
+      "legacy_mtl_chapters": [
+        61
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 61,
           "branch": "production/batch-the-protagonist-of-hunting-0060-0062",
           "files": {
             "draft": null,
@@ -1039,14 +1305,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-protagonist-of-hunting-0060-0062",
+        "legacy_mtl_chapter": 61,
         "source_path": "editorial/reviews/chapter-0061.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0061.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0062.md"
       }
     },
     {
-      "chapter": 62,
+      "canonical_source_chapter": 63,
+      "legacy_mtl_chapters": [
+        62
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 62,
           "branch": "production/batch-the-protagonist-of-hunting-0060-0062",
           "files": {
             "draft": null,
@@ -1060,14 +1331,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-protagonist-of-hunting-0060-0062",
+        "legacy_mtl_chapter": 62,
         "source_path": "editorial/reviews/chapter-0062.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0062.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0063.md"
       }
     },
     {
-      "chapter": 63,
+      "canonical_source_chapter": 64,
+      "legacy_mtl_chapters": [
+        63
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 63,
           "branch": "production/batch-unfair-trade-0063-0066",
           "files": {
             "draft": null,
@@ -1081,14 +1357,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-unfair-trade-0063-0066",
+        "legacy_mtl_chapter": 63,
         "source_path": "editorial/reviews/chapter-0063.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0063.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0064.md"
       }
     },
     {
-      "chapter": 64,
+      "canonical_source_chapter": 65,
+      "legacy_mtl_chapters": [
+        64
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 64,
           "branch": "production/batch-unfair-trade-0063-0066",
           "files": {
             "draft": null,
@@ -1102,14 +1383,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-unfair-trade-0063-0066",
+        "legacy_mtl_chapter": 64,
         "source_path": "editorial/reviews/chapter-0064.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0064.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0065.md"
       }
     },
     {
-      "chapter": 65,
+      "canonical_source_chapter": 66,
+      "legacy_mtl_chapters": [
+        65
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 65,
           "branch": "production/batch-unfair-trade-0063-0066",
           "files": {
             "draft": null,
@@ -1123,14 +1409,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-unfair-trade-0063-0066",
+        "legacy_mtl_chapter": 65,
         "source_path": "editorial/reviews/chapter-0065.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0065.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0066.md"
       }
     },
     {
-      "chapter": 66,
+      "canonical_source_chapter": 67,
+      "legacy_mtl_chapters": [
+        66
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 66,
           "branch": "production/batch-unfair-trade-0063-0066",
           "files": {
             "draft": null,
@@ -1144,14 +1435,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-unfair-trade-0063-0066",
+        "legacy_mtl_chapter": 66,
         "source_path": "editorial/reviews/chapter-0066.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0066.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0067.md"
       }
     },
     {
-      "chapter": 67,
+      "canonical_source_chapter": 68,
+      "legacy_mtl_chapters": [
+        67
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 67,
           "branch": "production/batch-blood-relatives-0067-0070",
           "files": {
             "draft": null,
@@ -1165,14 +1461,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-blood-relatives-0067-0070",
+        "legacy_mtl_chapter": 67,
         "source_path": "editorial/reviews/chapter-0067.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0067.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0068.md"
       }
     },
     {
-      "chapter": 68,
+      "canonical_source_chapter": 69,
+      "legacy_mtl_chapters": [
+        68
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 68,
           "branch": "production/batch-blood-relatives-0067-0070",
           "files": {
             "draft": null,
@@ -1186,14 +1487,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-blood-relatives-0067-0070",
+        "legacy_mtl_chapter": 68,
         "source_path": "editorial/reviews/chapter-0068.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0068.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0069.md"
       }
     },
     {
-      "chapter": 69,
+      "canonical_source_chapter": 70,
+      "legacy_mtl_chapters": [
+        69
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 69,
           "branch": "production/batch-blood-relatives-0067-0070",
           "files": {
             "draft": null,
@@ -1207,14 +1513,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-blood-relatives-0067-0070",
+        "legacy_mtl_chapter": 69,
         "source_path": "editorial/reviews/chapter-0069.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0069.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0070.md"
       }
     },
     {
-      "chapter": 70,
+      "canonical_source_chapter": 71,
+      "legacy_mtl_chapters": [
+        70
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 70,
           "branch": "production/batch-blood-relatives-0067-0070",
           "files": {
             "draft": null,
@@ -1228,14 +1539,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-blood-relatives-0067-0070",
+        "legacy_mtl_chapter": 70,
         "source_path": "editorial/reviews/chapter-0070.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0070.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0071.md"
       }
     },
     {
-      "chapter": 71,
+      "canonical_source_chapter": 72,
+      "legacy_mtl_chapters": [
+        71
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 71,
           "branch": "production/batch-the-red-death-0071-0073",
           "files": {
             "draft": null,
@@ -1249,14 +1565,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-red-death-0071-0073",
+        "legacy_mtl_chapter": 71,
         "source_path": "editorial/reviews/chapter-0071.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0071.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0072.md"
       }
     },
     {
-      "chapter": 72,
+      "canonical_source_chapter": 73,
+      "legacy_mtl_chapters": [
+        72
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 72,
           "branch": "production/batch-the-red-death-0071-0073",
           "files": {
             "draft": null,
@@ -1270,14 +1591,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-red-death-0071-0073",
+        "legacy_mtl_chapter": 72,
         "source_path": "editorial/reviews/chapter-0072.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0072.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0073.md"
       }
     },
     {
-      "chapter": 73,
+      "canonical_source_chapter": 74,
+      "legacy_mtl_chapters": [
+        73
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 73,
           "branch": "production/batch-the-red-death-0071-0073",
           "files": {
             "draft": null,
@@ -1291,14 +1617,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-red-death-0071-0073",
+        "legacy_mtl_chapter": 73,
         "source_path": "editorial/reviews/chapter-0073.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0073.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0074.md"
       }
     },
     {
-      "chapter": 74,
+      "canonical_source_chapter": 75,
+      "legacy_mtl_chapters": [
+        74
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 74,
           "branch": "production/batch-the-hound-of-the-night-0074-0076",
           "files": {
             "draft": null,
@@ -1312,14 +1643,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hound-of-the-night-0074-0076",
+        "legacy_mtl_chapter": 74,
         "source_path": "editorial/reviews/chapter-0074.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0074.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0075.md"
       }
     },
     {
-      "chapter": 75,
+      "canonical_source_chapter": 76,
+      "legacy_mtl_chapters": [
+        75
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 75,
           "branch": "production/batch-the-hound-of-the-night-0074-0076",
           "files": {
             "draft": null,
@@ -1333,14 +1669,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hound-of-the-night-0074-0076",
+        "legacy_mtl_chapter": 75,
         "source_path": "editorial/reviews/chapter-0075.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0075.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0076.md"
       }
     },
     {
-      "chapter": 76,
+      "canonical_source_chapter": 77,
+      "legacy_mtl_chapters": [
+        76
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 76,
           "branch": "production/batch-the-hound-of-the-night-0074-0076",
           "files": {
             "draft": null,
@@ -1354,14 +1695,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-hound-of-the-night-0074-0076",
+        "legacy_mtl_chapter": 76,
         "source_path": "editorial/reviews/chapter-0076.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0076.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0077.md"
       }
     },
     {
-      "chapter": 77,
+      "canonical_source_chapter": 78,
+      "legacy_mtl_chapters": [
+        77
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 77,
           "branch": "production/batch-the-saintess-0077-0081",
           "files": {
             "draft": null,
@@ -1375,14 +1721,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-saintess-0077-0081",
+        "legacy_mtl_chapter": 77,
         "source_path": "editorial/reviews/chapter-0077.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0077.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0078.md"
       }
     },
     {
-      "chapter": 78,
+      "canonical_source_chapter": 79,
+      "legacy_mtl_chapters": [
+        78
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 78,
           "branch": "production/batch-the-saintess-0077-0081",
           "files": {
             "draft": null,
@@ -1396,14 +1747,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-saintess-0077-0081",
+        "legacy_mtl_chapter": 78,
         "source_path": "editorial/reviews/chapter-0078.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0078.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0079.md"
       }
     },
     {
-      "chapter": 79,
+      "canonical_source_chapter": 80,
+      "legacy_mtl_chapters": [
+        79
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 79,
           "branch": "production/batch-the-saintess-0077-0081",
           "files": {
             "draft": null,
@@ -1417,14 +1773,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-saintess-0077-0081",
+        "legacy_mtl_chapter": 79,
         "source_path": "editorial/reviews/chapter-0079.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0079.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0080.md"
       }
     },
     {
-      "chapter": 80,
+      "canonical_source_chapter": 81,
+      "legacy_mtl_chapters": [
+        80
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 80,
           "branch": "production/batch-the-saintess-0077-0081",
           "files": {
             "draft": null,
@@ -1438,14 +1799,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-saintess-0077-0081",
+        "legacy_mtl_chapter": 80,
         "source_path": "editorial/reviews/chapter-0080.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0080.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0081.md"
       }
     },
     {
-      "chapter": 81,
+      "canonical_source_chapter": 82,
+      "legacy_mtl_chapters": [
+        81
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 81,
           "branch": "production/batch-the-saintess-0077-0081",
           "files": {
             "draft": null,
@@ -1459,14 +1825,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-saintess-0077-0081",
+        "legacy_mtl_chapter": 81,
         "source_path": "editorial/reviews/chapter-0081.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0081.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0082.md"
       }
     },
     {
-      "chapter": 82,
+      "canonical_source_chapter": 83,
+      "legacy_mtl_chapters": [
+        82
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 82,
           "branch": "production/batch-lovesickness-0082-0083",
           "files": {
             "draft": null,
@@ -1480,14 +1851,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-lovesickness-0082-0083",
+        "legacy_mtl_chapter": 82,
         "source_path": "editorial/reviews/chapter-0082.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0082.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0083.md"
       }
     },
     {
-      "chapter": 83,
+      "canonical_source_chapter": 84,
+      "legacy_mtl_chapters": [
+        83
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 83,
           "branch": "production/batch-lovesickness-0082-0083",
           "files": {
             "draft": null,
@@ -1501,14 +1877,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-lovesickness-0082-0083",
+        "legacy_mtl_chapter": 83,
         "source_path": "editorial/reviews/chapter-0083.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0083.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0084.md"
       }
     },
     {
-      "chapter": 84,
+      "canonical_source_chapter": 85,
+      "legacy_mtl_chapters": [
+        84
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 84,
           "branch": "production/batch-the-illiad-0084-0088",
           "files": {
             "draft": null,
@@ -1522,14 +1903,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-illiad-0084-0088",
+        "legacy_mtl_chapter": 84,
         "source_path": "editorial/reviews/chapter-0084.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0084.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0085.md"
       }
     },
     {
-      "chapter": 85,
+      "canonical_source_chapter": 86,
+      "legacy_mtl_chapters": [
+        85
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 85,
           "branch": "production/batch-the-illiad-0084-0088",
           "files": {
             "draft": null,
@@ -1543,14 +1929,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-illiad-0084-0088",
+        "legacy_mtl_chapter": 85,
         "source_path": "editorial/reviews/chapter-0085.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0085.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0086.md"
       }
     },
     {
-      "chapter": 86,
+      "canonical_source_chapter": 87,
+      "legacy_mtl_chapters": [
+        86
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 86,
           "branch": "production/batch-the-illiad-0084-0088",
           "files": {
             "draft": null,
@@ -1564,14 +1955,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-illiad-0084-0088",
+        "legacy_mtl_chapter": 86,
         "source_path": "editorial/reviews/chapter-0086.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0086.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0087.md"
       }
     },
     {
-      "chapter": 87,
+      "canonical_source_chapter": 88,
+      "legacy_mtl_chapters": [
+        87
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 87,
           "branch": "production/batch-the-illiad-0084-0088",
           "files": {
             "draft": null,
@@ -1585,14 +1981,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-illiad-0084-0088",
+        "legacy_mtl_chapter": 87,
         "source_path": "editorial/reviews/chapter-0087.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0087.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0088.md"
       }
     },
     {
-      "chapter": 88,
+      "canonical_source_chapter": 89,
+      "legacy_mtl_chapters": [
+        88
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 88,
           "branch": "production/batch-the-illiad-0084-0088",
           "files": {
             "draft": null,
@@ -1606,14 +2007,19 @@
       "has_production_baseline": false,
       "prior_review": {
         "source_branch": "production/batch-the-illiad-0084-0088",
+        "legacy_mtl_chapter": 88,
         "source_path": "editorial/reviews/chapter-0088.md",
-        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0088.md"
+        "copied_to": "editorial/reprocessing/prior-reviews/chapter-0089.md"
       }
     },
     {
-      "chapter": 89,
+      "canonical_source_chapter": 90,
+      "legacy_mtl_chapters": [
+        89
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 89,
           "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
           "files": {
             "draft": null,
@@ -1628,9 +2034,13 @@
       "prior_review": null
     },
     {
-      "chapter": 90,
+      "canonical_source_chapter": 91,
+      "legacy_mtl_chapters": [
+        90
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 90,
           "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
           "files": {
             "draft": null,
@@ -1645,9 +2055,13 @@
       "prior_review": null
     },
     {
-      "chapter": 91,
+      "canonical_source_chapter": 92,
+      "legacy_mtl_chapters": [
+        91
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 91,
           "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
           "files": {
             "draft": null,
@@ -1662,9 +2076,13 @@
       "prior_review": null
     },
     {
-      "chapter": 92,
+      "canonical_source_chapter": 93,
+      "legacy_mtl_chapters": [
+        92
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 92,
           "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
           "files": {
             "draft": null,
@@ -1679,9 +2097,13 @@
       "prior_review": null
     },
     {
-      "chapter": 93,
+      "canonical_source_chapter": 94,
+      "legacy_mtl_chapters": [
+        93
+      ],
       "claimed_branches": [
         {
+          "legacy_mtl_chapter": 93,
           "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
           "files": {
             "draft": null,
@@ -1696,193 +2118,280 @@
       "prior_review": null
     },
     {
-      "chapter": 94,
+      "canonical_source_chapter": 95,
+      "legacy_mtl_chapters": [
+        94
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 95,
+      "canonical_source_chapter": 96,
+      "legacy_mtl_chapters": [
+        95
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 96,
+      "canonical_source_chapter": 97,
+      "legacy_mtl_chapters": [
+        96
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 97,
+      "canonical_source_chapter": 98,
+      "legacy_mtl_chapters": [
+        97
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 98,
+      "canonical_source_chapter": 99,
+      "legacy_mtl_chapters": [
+        98
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 99,
+      "canonical_source_chapter": 100,
+      "legacy_mtl_chapters": [
+        99
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 100,
+      "canonical_source_chapter": 101,
+      "legacy_mtl_chapters": [
+        100
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 101,
+      "canonical_source_chapter": 102,
+      "legacy_mtl_chapters": [
+        101
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 102,
+      "canonical_source_chapter": 103,
+      "legacy_mtl_chapters": [
+        102
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 103,
+      "canonical_source_chapter": 104,
+      "legacy_mtl_chapters": [
+        103
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 104,
+      "canonical_source_chapter": 105,
+      "legacy_mtl_chapters": [
+        104
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 105,
+      "canonical_source_chapter": 106,
+      "legacy_mtl_chapters": [
+        105
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 106,
+      "canonical_source_chapter": 107,
+      "legacy_mtl_chapters": [
+        106
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 107,
+      "canonical_source_chapter": 108,
+      "legacy_mtl_chapters": [
+        107
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 108,
+      "canonical_source_chapter": 109,
+      "legacy_mtl_chapters": [
+        108
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 109,
+      "canonical_source_chapter": 110,
+      "legacy_mtl_chapters": [
+        109
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 110,
+      "canonical_source_chapter": 111,
+      "legacy_mtl_chapters": [
+        110
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 111,
+      "canonical_source_chapter": 112,
+      "legacy_mtl_chapters": [
+        111
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 112,
+      "canonical_source_chapter": 113,
+      "legacy_mtl_chapters": [
+        112
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 113,
+      "canonical_source_chapter": 114,
+      "legacy_mtl_chapters": [
+        113
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 114,
+      "canonical_source_chapter": 115,
+      "legacy_mtl_chapters": [
+        114
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 115,
+      "canonical_source_chapter": 116,
+      "legacy_mtl_chapters": [
+        115
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 116,
+      "canonical_source_chapter": 117,
+      "legacy_mtl_chapters": [
+        116
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 117,
+      "canonical_source_chapter": 118,
+      "legacy_mtl_chapters": [
+        117
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 118,
+      "canonical_source_chapter": 119,
+      "legacy_mtl_chapters": [
+        118
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 119,
+      "canonical_source_chapter": 120,
+      "legacy_mtl_chapters": [
+        119
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 120,
+      "canonical_source_chapter": 121,
+      "legacy_mtl_chapters": [
+        120
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 121,
+      "canonical_source_chapter": 122,
+      "legacy_mtl_chapters": [
+        121
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 122,
+      "canonical_source_chapter": 123,
+      "legacy_mtl_chapters": [
+        122
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 123,
+      "canonical_source_chapter": 124,
+      "legacy_mtl_chapters": [
+        123
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null
     },
     {
-      "chapter": 124,
-      "claimed_branches": [],
-      "has_production_baseline": false,
-      "prior_review": null
-    },
-    {
-      "chapter": 125,
+      "canonical_source_chapter": 125,
+      "legacy_mtl_chapters": [
+        124
+      ],
       "claimed_branches": [],
       "has_production_baseline": false,
       "prior_review": null

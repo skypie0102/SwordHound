@@ -1,30 +1,29 @@
-# Chapter 66 source comparison — 2026-09-15
+<!-- Canonical source Chapter 66; imported from legacy recovered-MTL Chapter 65. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 65 source comparison — 2026-09-15
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-066.xhtml`, **197** paragraph slots. No Korean Chapter 66 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-065.xhtml`, **229** paragraph slots. No Korean Chapter 65 witness exists in the repository.
 
 ## Editorial decisions
 
-- Vikir's exposure of the narcotics, oil-barrel tactic, and earlier oxbear hunt provide enough public merit that Akwilla can grant his request to use the **Fountain of Valor** over the elders' objections.
-- Ahmen's prestige falls because he had interpreted narcotic poisoning as a curse/plague treatable by shamanic rites.
-- Aiyen suspects Ahmen of involvement with the merchants. Vikir independently finds the suspicion plausible because the merchants claimed the trade had the shaman's blessing, but he explicitly notes that this is **not yet proof** and proposes waiting for Ahmen to expose himself.
-- The Fountain of Valor is a rare, mineral-rich sacred spring accessible on limited full-moon nights. It strongly stabilizes mana, bones, muscles, and internal injuries; it is somewhat weaker than Baskerville's River Styx but has no age restriction.
-- Preserve the hot spring's animal truce: predator and prey enter without attacking one another.
-- Aiyen's silent approach is valuable to Vikir primarily as evidence of a stealth technique he failed to detect and wants to learn.
-- Adonai is remembered as the legendary Ballak archer associated with the spring and as someone capable of confronting Madam Eight-Legs. Do not quantify his level beyond that evidence.
-- Ballak treats descent as inheritance of spirit/belonging rather than blood alone, supporting Vikir's new status as Ballak despite Imperial birth.
-- Preserve Aiyen's comic inability to comprehend Imperial diamond prices; her value system prioritizes food and practical survival.
-- The source's sexualized hot-spring sequence involving teenage characters is not reproduced. Its narrative function is retained as Aiyen trying to obtain private time to discuss Vikir's future, Vikir focusing on healing efficiency, and Akwilla sending recovering children into the spring and ruining the private conversation.
-- The chapter closes with Aiyen formally welcoming Vikir to Ballak.
+- Lord Smuggler returns with a criminal/deserter mercenary force because the abandoned Ballak trade goods are worth too much for the caravan to surrender.
+- Ballak exploits cigarette embers and voices as night targets; the three-men-one-match superstition becomes a practical timing joke for position, distance, and shot.
+- Vikir stops Aiyen from eliminating every attacker not out of mercy, but so fleeing survivors expose the reserve camp, supply base, and escape route.
+- The reserve force includes roughly another hundred fighters and mages using shields/barriers against arrows.
+- Preserve the coordinated oil-barrel tactic: multiple arrows carry rope-slung barrels over defenses, followed by fire arrows that destroy both personnel and jungle-survival supplies.
+- Lord Smuggler possesses a genuine Underdog prospecting permit. Vikir reveals enough of his identity for Smuggler to recognize him, personally revokes the authorization tied to his office, and burns it before Smuggler is killed by Ballak arrows.
+- The fire is also bait: surviving attackers mistake Ballak's retreat for weakness, while Vikir has deliberately left the noisy, brightly lit camp inside the range of **Madam Eight-Legs**.
+- The chapter ends only after the screams behind Aiyen, Vikir, and Bakira disappear.
 
 ## Historical audit triage
 
-The historical audit labels this title part as **Chapter 67: Unfair Trade (4)**.
+The historical audit labels this title part as **Chapter 66: Unfair Trade (3)**.
 
-- `ED-00523` — isolated `The Fountain of Valor.` fragment: retained as a deliberate reveal/label in context rather than accidental machine syntax.
-- `ED-00526` — standalone `But.` transition in the spring conversation: rewritten naturally while preserving the slot.
-- `ED-00529` — `A moment.` fragment: recast as a complete beat before the splash.
-- `ED-00530` — fragmentary splash/noise line: integrated into the children's entrance.
+- `ED-00510` — broken match-lighting sentence: reconstructed as complete action.
+- `ED-00514` — standalone `But.` transition: repaired.
+- `ED-00515` — isolated Lord Smuggler arrow-hit fragment: integrated into the execution sequence.
+- `ED-00518` — `The Madam with Eight Legs.` fragment: rewritten as the reveal that the camp's noise has attracted Madam Eight-Legs.
 
-Source-slot staging: `editorial/staging/chapter-0066-final-text.txt` — **197/197** slots.
+Source-slot staging: `editorial/staging/chapter-0065-final-text.txt` — **229/229** slots.

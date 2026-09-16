@@ -1,26 +1,28 @@
-# Chapter 60 source comparison — 2026-09-15
+<!-- Canonical source Chapter 60; imported from legacy recovered-MTL Chapter 59. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 59 source comparison — 2026-09-15
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-060.xhtml`, **147** paragraph slots. No Korean Chapter 60 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-059.xhtml`, **183** paragraph slots. No Korean Chapter 59 witness exists in the repository.
 
 ## Editorial decisions
 
-- Preserve Ballak's hunting-honor custom: the hunter who contributes most receives the **smallest ordinary meat share**, exchanging material reward for public honor.
-- Vikir values the practical gains more than ceremonial honor: recovery from the oxbear's karma/experience and Beelzebub's updated stored abilities.
-- Preserve Beelzebub's current three-slot state after the oxbear hunt: **Burn — Cerberus (A+)**, **Sacral Spine — Oxbear (A)**, and **Tight Throat — Infernal Buffalo (A)**.
-- **Sacral Spine** temporarily increases Vikir's body weight to roughly **600 kg** while he holds his breath; retain it as a close-combat/anchoring ability rather than overgeneralizing the effect.
-- The replaced lower-value stored ability is treated as superseded by the stronger oxbear ability; do not imply Beelzebub can exceed the established three-slot limit at this point.
-- Vikir's butchery, tanning, smoking, and preservation skills come from extensive pre-regression battlefield survival experience and become socially valuable to Ballak.
-- Keep the village's organ-eating custom as a folk-healing superstition: people eat the corresponding organ/body part of prey in hopes of strengthening an ailing part of themselves.
-- The source's sexualized teasing around the special organ stew involving teenage characters is not reproduced. Its narrative function is retained as Aiyen giving Vikir a prized restorative portion, obvious favoritism, and the village teasing her for it.
+- The exhausted male oxbear is still intelligent enough to detect pursuit and counter-ambush the hunters before dawn.
+- Aiyen demonstrates advanced Ballak archery: multi-arrow rapid fire, curved/ricochet trajectories, and **aura transmission through cover** rather than simply smashing the intervening object.
+- Vikir recognizes this technique as potentially useful for refining his own aura control.
+- Aiyen is seventeen and already roughly Low Sword Graduator-equivalent in combat output; this establishes her as a genuine prodigy without changing the formal Baskerville rank system.
+- Vikir exploits the oxbear’s left-side blind spot created by the earlier injury from the female, then uses heated arrows to disable the eye.
+- Preserve Beelzebub’s information window and early slot state: **Slot 1: Burn — Cerberus (A+)**.
+- Cerberus Burn is rendered as persistent oil-fed infernal fire that is difficult to extinguish with water and remains active while Vikir sustains it; avoid introducing an unsupported universal “unhealable” rule.
+- Beelzebub’s awl penetrates through the oxbear’s mouth to the brain, with Burn delivering the decisive internal damage.
+- Aiyen and Bakira save Vikir from being crushed by the monster’s falling body after the kill.
+- The source’s final sexualized panic about Vikir’s reproductive value is not reproduced. Its narrative function is retained as Aiyen dropping her composure and frantically checking whether the badly injured Vikir is still alive.
 
 ## Historical audit triage
 
-The historical audit numbers this title part as **Chapter 61: The Protagonist of Hunting (1)**; findings are matched by title/content rather than raw chapter number.
+- `ED-00462`, `ED-00465` — malformed quotation boundaries: repaired where they correspond to the recovered witness.
+- `ED-00463` — source-site distribution debris: excluded.
+- `ED-00464` — fragmentary MTL prose: rewritten as complete narration in the current source context.
 
-- `ED-00477` — fragmentary opening label: rewritten into complete festival narration.
-- `ED-00478` — machine-translation conjunction in the honor/meat explanation: repaired in idiomatic English.
-- `ED-00479`, `ED-00480` — malformed quotation boundaries: repaired in the staged text.
-
-Source-slot staging: `editorial/staging/chapter-0060-final-text.txt` — **147/147** slots.
+Source-slot staging: `editorial/staging/chapter-0059-final-text.txt` — **183/183** slots.

@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 44; imported from legacy recovered-MTL Chapter 44. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 44 source comparison — 2026-09-15
 
 Status: **editorial review complete; presentation/layout QA deferred to complete-EPUB work**. Basis: supplied Korean plus recovered MTL.

@@ -1,21 +1,24 @@
-# Chapter 79 source comparison — 2026-09-16
+<!-- Canonical source Chapter 79; imported from legacy recovered-MTL Chapter 78. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 78 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-079.xhtml`, **115** paragraph slots. No Korean Chapter 79 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-078.xhtml`, **110** paragraph slots. No Korean Chapter 78 witness exists in the repository.
 
 ## Editorial decisions
 
-- Dolores correctly recognizes that repeated individual healing cannot solve the outbreak while contaminated groundwater continues producing new cases.
-- Preserve Quovadis's plan to concentrate divine power into a water-purifying essence capable of cleansing the connected underground waterways.
-- The Red Death remains a fictional engineered plague with recurring infection risk; no real-world medical claim is implied.
-- Dolores's exhaustion is kept as overwork from repeated healing, not as a new illness.
-- The noble followers who trail Dolores into the slums are contrasted with her actual service: their charity is performative and collapses when confronted with severe illness and filth.
-- Preserve Dolores's ethical emphasis on selfless service, but keep it as character belief rather than narrator endorsement of a real religion.
-- The chapter's final reveal is that the Night Hound is already working in the most severe quarantine section, directing priests and tending patients personally.
+- Vikir identifies himself only as the **Hound of the Night**; neither Dolores nor Mozgus learns his real identity.
+- Dolores escalates the warning through Quovadis channels: Mozgus organizes relief, Cardinal Humbert is notified, and the matter is positioned to reach the patriarch/Pope.
+- Vikir withholds the Red Death's earlier appearance in Le Rouge Et Le Noir Mountain because that information would also implicate Baskerville and Morgue as political beneficiaries.
+- Preserve his prior-life reasoning that the plague's devastation of frontier tribes indirectly strengthened Baskerville and Morgue through later monster waves and border militarization.
+- Dolores's growing interpretation of Vikir as a wounded believer/seeker is kept explicitly as **her misconception**, built from his scripture quotation, conduct, and emotional aura.
+- The slum outbreak remains at an early stage with no deaths yet; Vikir's earlier warning at the well explains why children are absent from the infected group.
+- Dolores demonstrates the holy healing Vikir came to obtain: a tear/prayer immediately removes the Red Death from several early patients.
+- The chapter ends with Vikir recognizing that concentrated Quovadis holy power is the cure mechanism he needs for Aheul.
 
 ## Historical audit triage
 
-The tracker lists no exact-unique historical audit findings for this chapter.
+The tracker lists no exact-unique historical audit findings for this chapter. No offset findings were assumed.
 
-Source-slot staging: `editorial/staging/chapter-0079-final-text.txt` — **115/115** slots.
+Source-slot staging: `editorial/staging/chapter-0078-final-text.txt` — **110/110** slots.

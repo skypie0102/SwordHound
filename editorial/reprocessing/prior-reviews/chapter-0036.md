@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 36; imported from legacy recovered-MTL Chapter 36. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 36 — Slave Auction (2)
 
 ## Review basis

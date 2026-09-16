@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 57; imported from legacy recovered-MTL Chapter 57. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 57 source comparison — 2026-09-15
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.

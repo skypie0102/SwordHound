@@ -1,25 +1,25 @@
-# Chapter 81 source comparison — 2026-09-16
+<!-- Canonical source Chapter 81; imported from legacy recovered-MTL Chapter 80. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 80 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-081.xhtml`, **137** paragraph slots. No Korean Chapter 81 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-080.xhtml`, **121** paragraph slots. No Korean Chapter 80 witness exists in the repository.
 
 ## Editorial decisions
 
-- Quovadis successfully produces three concentrated drops of **Plany de la Verge / Saintess's Tears**, with one drop sufficient to cleanse the infected St. Mecca water network.
-- Preserve the Old Covenant/New Covenant tension inside Quovadis and Cardinal **Humbert L. Quovadis** as Dolores's father and a senior Old Covenant authority.
-- Dolores traces the outbreak to the unregistered slum well using witness testimony, including the children Vikir deliberately frightened away from the contaminated water.
-- The Leviathan dagger and Bourgeois-marked button are presented to Humbert as physical evidence, but the reader already knows Vikir planted the evidence. Humbert's causal conclusion is therefore based on manipulated evidence, not independent authentication.
-- Humbert interprets the plague's artificial structure plus the planted symbols as grounds for hostile action against rival great houses.
-- Humbert also correctly regards the unknown Night Hound as suspicious and orders him detained for questioning.
-- Dolores's defense of Vikir is rooted in what she witnessed in the slums and in her idealized reading of his motives; it does not establish his innocence from the reader's perspective.
-- Preserve Vikir's prior conversation with Dolores about why her compassion may itself explain her calling. The exchange is important because it deepens her trust in him.
-- When Humbert moves to arrest him, Vikir has already escaped through the window.
-- Exactly **one** drop of Saintess's Tears is missing. This is the cure Vikir came to obtain for Aheul and Ballak.
-- The chapter ends on Dolores realizing that the Night Hound has completed his purpose and may be gone permanently, producing a different emotional reaction from her earlier admiration.
+- Preserve the fictional Quovadis model of divine power as a limited resource whose output depends on faith, service, and accumulated religious merit.
+- Vikir's future-war knowledge includes an emergency technique compared metaphorically to **short selling/borrowing holy power**. This remains fictional magic-system worldbuilding, not real religious or medical instruction.
+- Vikir can access limited holy power because of accumulated demon-killing karma and because he is physically inside Quovadis sanctuary territory; he is not rewritten as a formal priest.
+- Keep the treatment sequence focused on supernatural healing efficiency and battlefield experience rather than real-world procedural guidance.
+- Ballak herbal knowledge is retained as symptom-management worldbuilding: it delays suffering but does not cure the Red Death.
+- Vikir's motives remain mixed and explicit: gain Quovadis trust, obtain a concentrated cure for Ballak, and compensate for civilian suffering connected to his own plan.
+- He gives away the money he is carrying to affected families without framing the act as performative charity.
+- Dolores contrasts his behavior with the nobles who followed her for status and increasingly idealizes the Night Hound as a lonely seeker. That idealization remains her personal interpretation.
+- The chapter closes on Dolores becoming emotionally affected by the masked man rather than on any mutual romantic declaration.
 
 ## Historical audit triage
 
 The tracker lists no exact-unique historical audit findings for this chapter.
 
-Source-slot staging: `editorial/staging/chapter-0081-final-text.txt` — **137/137** slots.
+Source-slot staging: `editorial/staging/chapter-0080-final-text.txt` — **121/121** slots.

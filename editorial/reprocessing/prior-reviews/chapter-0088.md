@@ -1,23 +1,25 @@
-# Chapter 88 source comparison — 2026-09-16
+<!-- Canonical source Chapter 88; imported from legacy recovered-MTL Chapter 87. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 87 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-088.xhtml`, **150** paragraph slots. No Korean Chapter 88 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-087.xhtml`, **133** paragraph slots. No Korean Chapter 87 witness exists in the repository.
 
 ## Editorial decisions
 
-- Ahmen uses his decades of jungle familiarity to prepare venom, nearly invisible cutting vines, mud pits, and disturbed insect nests around the Illiad battlefield.
-- Vikir's newly acquired **Silent Heel — Mushuhushu (A+)** is the decisive counter to Ahmen's terrain awareness: he moves through the jungle rapidly without producing useful sound cues.
-- Vikir's public combat level remains advanced Graduator-class here, using Beelzebub, the Sixth Fang, Cerberus burn, and the archery learned from Ballak.
-- Preserve Ahmen abandoning dignity and retreating once the duel turns decisively against him; the spectators' contempt matters because the Illiad is also a contest of public honor.
-- The source's groin-strike/body-comedy beat is retained only as a brief combat callback to an earlier recovery-food incident, without expanding sexualized detail.
-- Ahmen's hidden card is corpse reanimation through shamanic magic. This finally lets Vikir infer that Ahmen's original tribe was **Rokoko**, whose corpse-working practices are known as witchcraft among the tribes and black magic in the Empire.
-- The Rokoko origin is a Chapter 88 inference/reveal and is not imported backward into Chapter 87's earlier uncertainty.
-- Ahmen raises freshly dead orangutans as shields, but an unexpected old female oxbear crushes the undead and knocks Ahmen down.
-- The family endpoint is the oxbear standing over the fallen Ahmen; do not import the next family's explanation early.
+- Akwilla has deliberately praised Ahmen's pride, honor, and traditionalism so that refusing the Illiad would publicly contradict everything he claims to represent.
+- Ahmen formally challenges Vikir, but Vikir refuses the requested three-day delay because he correctly assumes a shaman would use the preparation time for hidden rituals, poisons, or traps.
+- Preserve Vikir's doctrine of never treating a weaker opponent casually; his future-war experience with shamans, warlocks, and alchemists makes hidden final cards an expected part of combat.
+- Ahmen's background is important to his resentment: he was **not born Ballak**, but entered the tribe as a young outsider and slave.
+- The source contains explicit sexual-abuse details concerning Ahmen when he was young. Staging preserves the essential history—he was enslaved and abused by the shaman who controlled him—without reproducing explicit sexual material involving a minor.
+- Ahmen later killed that shaman, inherited the role, and spent years performing humiliating and dangerous work before Ballak accepted him.
+- His later hunger for authority is framed as resentment and entitlement growing out of years of humiliation; the chapter does not excuse his later crimes because of that history.
+- Aiyen does not know Ahmen's original tribe at this point.
+- The chapter closes on an unexpected `BOOM!` before the contest properly unfolds.
 
 ## Historical audit triage
 
 The tracker lists no exact-unique historical audit findings for this chapter.
 
-Source-slot staging: `editorial/staging/chapter-0088-final-text.txt` — **150/150** slots.
+Source-slot staging: `editorial/staging/chapter-0087-final-text.txt` — **133/133** slots.

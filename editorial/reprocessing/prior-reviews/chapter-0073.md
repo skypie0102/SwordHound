@@ -1,27 +1,27 @@
-# Chapter 73 source comparison — 2026-09-16
+<!-- Canonical source Chapter 73; imported from legacy recovered-MTL Chapter 72. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 72 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-073.xhtml`, **155** paragraph slots. No Korean Chapter 73 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-072.xhtml`, **159** paragraph slots. No Korean Chapter 72 witness exists in the repository.
 
 ## Editorial decisions
 
-- Aheul is now fourteen and clearly symptomatic with the Red Death. The presentation remains clinical: red spots, digestive symptoms, fever, pain, and swollen lymph nodes.
-- Ahun's desperation is the personal crisis that turns Vikir's prevention campaign into a search for an actual cure.
-- Ahmen responds by framing Aheul's illness as divine punishment and physically striking Ahun. His behavior is retained as family/institutional abuse, not softened into harmless eccentricity.
-- Vikir's immediate instructions focus on isolation/sanitation: avoid direct contact with waste, sterilize utensils, and reduce exposure to possible animal/insect carriers.
-- Preserve the key limitation: Vikir says prevention can be taught broadly, but treatment requires specialists he does not have inside Ballak.
-- Vikir therefore asks Aiyen for permission to **leave the depths** and promises to return with a cure.
-- Ballak's outsider rules are kept as social/legal custom rather than sexualized material: outsiders may move freely inside accepted territory but normally cannot leave the depths until long residence and deep family ties bind them to Ballak.
-- Aiyen knowingly acts without Akwilla's approval because she expects the chieftain to prioritize tribal law over one sick girl.
-- Her deeper hesitation is whether Vikir will ever return once physically beyond Ballak's reach.
-- Vikir leaves with Pomeranian because the child also needs access to Imperial civilization and cannot be left permanently in the depths.
-- Aiyen follows despite being told not to, then stops only after Vikir explicitly draws the boundary three times.
-- Their final exchange centers on trust rather than ownership: Aiyen asks whether Vikir will come back; he answers **“Of course.”** and reaffirms that he keeps his promises.
-- The family ends with Vikir running into the dawn while Aiyen remains behind watching him disappear.
+- The rainy season arrives at record intensity. Vikir's civil works keep Ballak above the flood by moving housing into the canopy, anchoring structures, linking trees with bridges, and redirecting water with ditches/banks.
+- Preserve the flood-era monster ecology: aquatic creatures now attack prey among the trees.
+- Preserve the full information window for **Monsieur Hushu**: A+ danger, approximately 32 m, Eighth Ridge, Le Rouge et Le Noir Mountain, and the “Full-Body Intestine Snake” nickname.
+- The creature is initially mistaken for a giant catfish because only its flat head and enormous mouth emerge; the full body reveals a giant snake.
+- Vikir uses Beelzebub and the **Sixth Fang** with dense Graduator aura to shatter scales, damage the neck, and blind one eye. He drives the monster away rather than killing it.
+- Do not overstate the outcome: the flood/current helps carry Monsieur Hushu away, and Vikir deliberately decides not to pursue through the storm.
+- Aiyen's two-year `Pass` running joke remains intact after the fight.
+- Pomeranian's dependence on Vikir is framed as recent-childhood trauma and trust. MTL pronoun drift is normalized consistently to female.
+- Domestic/cooking material is kept as character work: Vikir can solve practical childcare through food even though he has little emotional experience with children.
+- Pomeranian comparing Vikir and Aiyen as `Mommy/Daddy` is retained as childlike association rather than adult romantic framing.
+- The chapter endpoint is Ahun entering in panic and begging Vikir to save his sister.
 
 ## Historical audit triage
 
-- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 73. Neighboring historical numbering is not used as a proxy.
+- The chapter tracker assigns **no exact-unique historical audit findings** to recovered Chapter 72. No offset audit entries are applied automatically.
 
-Source-slot staging: `editorial/staging/chapter-0073-final-text.txt` — **155/155** slots.
+Source-slot staging: `editorial/staging/chapter-0072-final-text.txt` — **159/159** slots.

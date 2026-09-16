@@ -1,23 +1,23 @@
-# Chapter 80 source comparison — 2026-09-16
+<!-- Canonical source Chapter 80; imported from legacy recovered-MTL Chapter 79. Prior review is evidence, not automatic acceptance. -->
+
+# Chapter 79 source comparison — 2026-09-16
 
 Status: **editorial review complete; MTL-only reconstruction; presentation/layout QA deferred to complete-EPUB work**.
 
-Recovered MTL: `source/chapters/chapter-080.xhtml`, **121** paragraph slots. No Korean Chapter 80 witness exists in the repository.
+Recovered MTL: `source/chapters/chapter-079.xhtml`, **115** paragraph slots. No Korean Chapter 79 witness exists in the repository.
 
 ## Editorial decisions
 
-- Preserve the fictional Quovadis model of divine power as a limited resource whose output depends on faith, service, and accumulated religious merit.
-- Vikir's future-war knowledge includes an emergency technique compared metaphorically to **short selling/borrowing holy power**. This remains fictional magic-system worldbuilding, not real religious or medical instruction.
-- Vikir can access limited holy power because of accumulated demon-killing karma and because he is physically inside Quovadis sanctuary territory; he is not rewritten as a formal priest.
-- Keep the treatment sequence focused on supernatural healing efficiency and battlefield experience rather than real-world procedural guidance.
-- Ballak herbal knowledge is retained as symptom-management worldbuilding: it delays suffering but does not cure the Red Death.
-- Vikir's motives remain mixed and explicit: gain Quovadis trust, obtain a concentrated cure for Ballak, and compensate for civilian suffering connected to his own plan.
-- He gives away the money he is carrying to affected families without framing the act as performative charity.
-- Dolores contrasts his behavior with the nobles who followed her for status and increasingly idealizes the Night Hound as a lonely seeker. That idealization remains her personal interpretation.
-- The chapter closes on Dolores becoming emotionally affected by the masked man rather than on any mutual romantic declaration.
+- Dolores correctly recognizes that repeated individual healing cannot solve the outbreak while contaminated groundwater continues producing new cases.
+- Preserve Quovadis's plan to concentrate divine power into a water-purifying essence capable of cleansing the connected underground waterways.
+- The Red Death remains a fictional engineered plague with recurring infection risk; no real-world medical claim is implied.
+- Dolores's exhaustion is kept as overwork from repeated healing, not as a new illness.
+- The noble followers who trail Dolores into the slums are contrasted with her actual service: their charity is performative and collapses when confronted with severe illness and filth.
+- Preserve Dolores's ethical emphasis on selfless service, but keep it as character belief rather than narrator endorsement of a real religion.
+- The chapter's final reveal is that the Night Hound is already working in the most severe quarantine section, directing priests and tending patients personally.
 
 ## Historical audit triage
 
 The tracker lists no exact-unique historical audit findings for this chapter.
 
-Source-slot staging: `editorial/staging/chapter-0080-final-text.txt` — **121/121** slots.
+Source-slot staging: `editorial/staging/chapter-0079-final-text.txt` — **115/115** slots.

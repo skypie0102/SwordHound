@@ -1,3 +1,5 @@
+<!-- Canonical source Chapter 25; imported from legacy recovered-MTL Chapter 25. Prior review is evidence, not automatic acceptance. -->
+
 # Chapter 25 source comparison — 2026-09-14
 
 Status: **editorial review complete; presentation/layout QA deferred to complete-EPUB work**. Review basis: supplied Korean plus recovered MTL, with supporting-reference checks for Adolf's rank/relationship. New reconstruction, not recovered old production.
