@@ -46,14 +46,17 @@ For MTL-only Chapter 55, add a dedicated uncertainty pass: compare both neighbor
 
 ## Current checkpoint
 
-The source-policy migration invalidates the previous Korean-assisted acceptance state.
+The source-policy migration invalidated the previous Korean-assisted acceptance state. Reconstruction has now resumed under the Chinese-first policy.
 
-- Accepted: **0 / 500**
+- Accepted: **1 / 500**
 - Staged: **0**
-- Next target: **Chapter 1**
+- Latest accepted: **Chapter 1 — Hellhound (1)**
+- Next target: **Chapter 2 — Hellhound (2)**
 - Current policy/state: `PROJECT_STATE.md`
 - Detailed procedure: `editorial/WORKFLOW.md`
 - Source exceptions: `source/chinese/chapter-exceptions.tsv`
+
+Chapter 2 intentionally repeats part of the nursery/Cradle sequence from Chapter 1 from Vikir's internal perspective. Preserve this source-authentic overlap rather than treating it as accidental duplication.
 
 ## Repository hygiene
 

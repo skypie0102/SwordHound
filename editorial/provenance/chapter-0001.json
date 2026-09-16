@@ -1,0 +1,80 @@
+{
+  "chapter": 1,
+  "title": "Hellhound (1)",
+  "source_policy": "chinese_primary_2026-09-16",
+  "primary_source": {
+    "path": "source/chinese/chapters/001.txt",
+    "blob_sha": "fa9dfcf2f15c575d3a5971a93b9951d1ae0d0431",
+    "status": "primary_authority",
+    "raw_status": "single"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-001.xhtml",
+    "blob_sha": "93188cc599feec0ec8bbfc1e326fe3b70d2be0eb",
+    "target_alignment": 1,
+    "alignment_status": "verified_by_title_and_content",
+    "alignment_evidence": [
+      "Hellhound (1) title family",
+      "Age of Destruction and execution opening",
+      "Vikir/Hugo/Baskerville named entities",
+      "Cradle of Swords and River Styx scene sequence",
+      "ending with the infant drinking from the Styx"
+    ],
+    "authority": "secondary_reference_only"
+  },
+  "neighbor_check": {
+    "path": "source/chinese/chapters/002.txt",
+    "blob_sha": "9993c01485cee99e207f7dd366c6bdb1a63a3706",
+    "purpose": "chapter-boundary and continuity verification only",
+    "result": "Chapter 2 intentionally revisits the nursery and Cradle sequence from Vikir's internal perspective."
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0001.md",
+    "blob_sha_after_initial_write": "812eef3ef952c430ace75ba4c071c9c4b226ebd8"
+  },
+  "qa": {
+    "path": "qa/chapter-0001.md",
+    "status": "pass",
+    "checks": [
+      "semantic_fidelity",
+      "coverage",
+      "no_invention",
+      "terminology",
+      "explicitness_and_tone",
+      "natural_english",
+      "chapter_boundary",
+      "formatting"
+    ]
+  },
+  "documented_source_conflicts": [
+    {
+      "topic": "Hugo noble title",
+      "chinese": "伯爵 (Count)",
+      "final": "Marquis",
+      "basis": "established English series terminology and aligned English reference; retained as canonical title normalization"
+    },
+    {
+      "topic": "Cradle term",
+      "chinese": "刀刃摇篮 (literally Cradle of Blades)",
+      "final": "Cradle of Swords",
+      "basis": "established project terminology; mechanics remain governed by Chinese source"
+    },
+    {
+      "topic": "Vikir age",
+      "chinese": "first says just reached 100 days, later says not yet 100 days",
+      "final": "both source statements preserved in context",
+      "basis": "do not invent an unsupported reconciliation"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored execution name/charge placard",
+    "restored carved-into-stone victory wording",
+    "restored live-again wish",
+    "repaired birth-celebration machine translation",
+    "restored Hugo's watch-my-back dialogue",
+    "restored young-master wording at Styx",
+    "corrected Hugo's final reaction from grin to open-mouthed shock"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

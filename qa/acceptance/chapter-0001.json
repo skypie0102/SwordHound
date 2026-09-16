@@ -1,0 +1,40 @@
+{
+  "chapter": 1,
+  "title": "Hellhound (1)",
+  "source_policy": "chinese_primary_2026-09-16",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "primary_source": {
+    "path": "source/chinese/chapters/001.txt",
+    "blob_sha": "fa9dfcf2f15c575d3a5971a93b9951d1ae0d0431"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-001.xhtml",
+    "blob_sha": "93188cc599feec0ec8bbfc1e326fe3b70d2be0eb",
+    "alignment": "verified_by_title_and_content"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0001.md",
+    "blob_sha": "812eef3ef952c430ace75ba4c071c9c4b226ebd8"
+  },
+  "qa": {
+    "path": "qa/chapter-0001.md",
+    "blob_sha": "45c7543955665890333a73c4654f1ef3e95baa6e",
+    "status": "pass"
+  },
+  "provenance": {
+    "path": "editorial/provenance/chapter-0001.json",
+    "blob_sha": "229d628e8a7c2c9c4e19886ff01542e0f9558817"
+  },
+  "checks": {
+    "semantic_fidelity": "pass",
+    "coverage": "pass",
+    "no_invention": "pass",
+    "terminology": "pass",
+    "explicitness_and_tone": "pass",
+    "natural_english": "pass",
+    "chapter_boundary": "pass",
+    "formatting": "pass"
+  },
+  "open_issues": []
+}

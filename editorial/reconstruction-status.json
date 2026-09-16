@@ -2,9 +2,9 @@
   "checkpoint_date": "2026-09-16",
   "source_policy": "chinese_primary",
   "target_chapters": 500,
-  "accepted_chapters": 0,
+  "accepted_chapters": 1,
   "staged_chapters": 0,
-  "next_chapter": 1,
+  "next_chapter": 2,
   "chinese_raw_physical_files": 492,
   "chinese_raw_target_coverage": 499,
   "missing_chinese_raw_chapters": [55],
@@ -17,8 +17,18 @@
     "385.txt": [385, 386],
     "495.txt": [495, 496]
   },
+  "accepted": [
+    {
+      "chapter": 1,
+      "title": "Hellhound (1)",
+      "source": "source/chinese/chapters/001.txt",
+      "qa": "qa/chapter-0001.md",
+      "accepted_date": "2026-09-16"
+    }
+  ],
   "notes": [
-    "Prior Korean-assisted draft, QA, acceptance, provenance, staging, and alignment artifacts are superseded by this reset.",
+    "Chapter 1 has been rebuilt and accepted under the Chinese-first policy.",
+    "Prior Korean-assisted draft, QA, acceptance, provenance, staging, and alignment artifacts remain superseded.",
     "Combined Chinese files remain intact because no defensible second-chapter heading/boundary was found in the raw alone; translated outputs must still be split per target chapter.",
     "English MTL numbering diverges from Chinese target numbering later; do not assume same-number alignment except where explicitly verified."
   ]
