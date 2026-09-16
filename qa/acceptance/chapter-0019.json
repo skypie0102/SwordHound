@@ -1,0 +1,40 @@
+{
+  "chapter": 19,
+  "title": "Bared Teeth (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Bared Teeth",
+    "range": [18, 19],
+    "family_qa_path": "qa/families/bared-teeth-0018-0019.md",
+    "family_qa_sha": "42ca0651bb0ec731cc80a3aac892e5dfd0cf02b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/019.txt",
+    "primary_source_sha": "bc88dc2708487354d9ff29ca8978252e8001d572",
+    "english_reference_path": "source/chapters/chapter-019.xhtml",
+    "english_reference_sha": "bdaa1abc7dfe521570a9998c43099c576da16d37",
+    "draft_path": "manuscript/drafts/chapter-0019.md",
+    "draft_sha": "9ce9bca35ff2b02ac8362d408d256ea42e47194e",
+    "qa_path": "qa/chapter-0019.md",
+    "qa_sha": "8c392cd67005b44826ab58e927996efd06efcc92",
+    "provenance_path": "editorial/provenance/chapter-0019.json",
+    "provenance_sha": "4d5abd647ad9cd11a79770b0cb76b764103abb32"
+  },
+  "canonical_checks": [
+    "Troll",
+    "Danger Rating C+",
+    "Superspeed Regeneration",
+    "Le Rouge et Le Noir Mountain, 2nd Ridge",
+    "1st Fang",
+    "2nd Fang",
+    "Mid Sword Expert"
+  ],
+  "documented_limits": [
+    "Vikir's public 2nd Fang / Mid Sword Expert display is deliberate concealment; accepted hidden state remains Low Sword Graduator from Chapter 17.",
+    "The Troll-derived Beelzebub Slot 3 replacement is first narrated in Chapter 20 and is not imported into Chapter 19.",
+    "Current Fandom pages conflict on some early Fang descriptive names; dedicated Baskerville Clan/Swordsmanship progression is used for rank/Fang mapping."
+  ]
+}
