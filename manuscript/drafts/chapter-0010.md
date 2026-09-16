@@ -281,7 +281,7 @@ Even Vikir looked surprised.
 <p class="info-window-row">Discovery Location: Le Rouge et Le Noir Mountain, 7th Ridge</p>
 <p class="info-window-row">Alias: ‘Hell’s Watchdog’</p>
 <p class="info-window-row">It ignores souls entering hell, but immediately tears apart those that try to escape.</p>
-<p class="info-window-row">It dwells deep in the underworld where souls ultimately gather and is regarded as one of the supreme canine monsters.</p>
+<p class="info-window-row">It dwells deep in the underworld where souls ultimately gather and is regarded as the pinnacle of underworld-type monsters.</p>
 </div>
 
 A three-headed beast embodying hell itself stood before him.
