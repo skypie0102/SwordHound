@@ -21,15 +21,11 @@ def opening_chapter_numbers(first_line: str) -> list[int]:
     match = re.match(r'#(\d+)(?!\d)', first_line)
     if match:
         return [int(match.group(1))]
-    match = re.match(r'제\s*(\d+)\s*(?:장|화)(?:\s*:)?', first_line)
-    if match:
-        return [int(match.group(1))]
-    # Supplemental 075.txt explicitly packages two source chapters as
-    # "75장+76장 ... (1+2)". Keep that packaging fact in the manifest.
-    match = re.match(r'(\d+)\s*장\s*\+\s*(\d+)\s*장', first_line)
-    if match:
-        return [int(match.group(1)), int(match.group(2))]
-    return []
+    # Most supplemental files use variants such as 제56장, 일리아스 제85장,
+    # 일리아스 89장, or 제78 장. Extract every explicit 장/화 number on the
+    # opening line so bundled headings such as 75장+76장 remain represented.
+    numbers = [int(value) for value in re.findall(r'(?:제\s*)?(\d+)\s*(?:장|화)', first_line)]
+    return list(dict.fromkeys(numbers))
 
 
 def inspect_supplemental(root: Path = ROOT) -> dict:
