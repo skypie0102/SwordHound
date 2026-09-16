@@ -6,12 +6,26 @@ on:
       - editorial/reprocess-0014-0125
     paths:
       - .github/workflows/inventory-reprocess.yml
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+    paths:
+      - .github/workflows/inventory-reprocess.yml
+      - tools/manage_supplemental_korean_raws.py
+      - tools/import_korean_raws.py
+      - tools/verify_recovery.py
+      - tools/rebuild_editorial_tracking.py
 
 permissions:
   contents: write
 
 jobs:
   inventory:
+    if: github.head_ref == 'editorial/reprocess-0014-0125' || github.ref_name == 'editorial/reprocess-0014-0125'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
