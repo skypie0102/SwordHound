@@ -1,0 +1,40 @@
+{
+  "chapter": 3,
+  "title": "Hellhound (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Hellhound",
+    "range": [1, 3],
+    "family_qa_path": "qa/families/hellhound-0001-0003.md",
+    "family_qa_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/003.txt",
+    "primary_source_sha": "76a0aa87980a8c0f680bd66c90872472833c693c",
+    "english_reference_path": "source/chapters/chapter-003.xhtml",
+    "english_reference_sha": "3970e9dffdabc773bfefd29674785430679ccec5",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0003.md",
+    "draft_sha": "0d7deb6fcbb5ab8fc2d9e25188f064ab552dd3d7",
+    "qa_path": "qa/chapter-0003.md",
+    "qa_sha": "25c28844dc43a912e7e1adce26f522539bf74d21",
+    "provenance_path": "editorial/provenance/chapter-0003.json",
+    "provenance_sha": "1febfdc33169908db0f3b8a2ca69e9fb92e351ca"
+  },
+  "canonical_checks": [
+    "Vikir Van Baskerville",
+    "Baskerville Clan",
+    "Cradle of Swords",
+    "River Styx",
+    "1 Circle mana wording"
+  ],
+  "documented_limits": [
+    "Bloody Mamba is retained as a scoped recovered-English fallback; current Fandom retrieval describes black mambas generically but exposes no dedicated formal species entry.",
+    "Chinese does not place the snakes in Le Rogue Mountain in Chapter 3; that MTL-only location was excluded.",
+    "Current Fandom retrieval does not verify Fang Castle for the Chinese descriptive nursery-castle reference; the MTL proper name was not forced.",
+    "Chinese first shows venom on exposed fangs and later says the fangs had already been removed by next-day inspection; both temporal statements are preserved without inventing the removal event."
+  ]
+}

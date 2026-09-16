@@ -1,0 +1,91 @@
+{
+  "chapter": 3,
+  "title": "Hellhound (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hellhound",
+    "range": [1, 3],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/hellhound-0001-0003.md",
+      "blob_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/003.txt",
+    "blob_sha": "76a0aa87980a8c0f680bd66c90872472833c693c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-003.xhtml",
+    "blob_sha": "3970e9dffdabc773bfefd29674785430679ccec5",
+    "target_alignment": 3,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville",
+      "applies_to": ["Vikir Van Baskerville", "past-life and infancy chronology"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville/Sword_Progress",
+      "applies_to": ["1 Circle wording", "early aura progression"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville/Synopsis",
+      "applies_to": ["nursery snake incident", "generic black-mamba description only"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan",
+      "applies_to": ["Baskerville Clan", "Cradle of Swords", "River Styx"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0003.md",
+    "blob_sha": "0d7deb6fcbb5ab8fc2d9e25188f064ab552dd3d7"
+  },
+  "qa": {
+    "path": "qa/chapter-0003.md",
+    "blob_sha": "25c28844dc43a912e7e1adce26f522539bf74d21",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "snake species English name",
+      "final": "Bloody Mamba",
+      "basis": "recovered English novel consistently uses this proper name; current Fandom retrieval only gives generic black-mamba wording and no dedicated species entry",
+      "canonical_status": "scoped_fallback_not_directly_fandom_verified"
+    },
+    {
+      "topic": "Le Rogue Mountains attribution",
+      "final": "omitted from Chapter 3",
+      "basis": "location appears in MTL but not Chinese Chapter 3; narrative source authority controls"
+    },
+    {
+      "topic": "Fang Castle",
+      "final": "descriptive infant-rearing/nursery castle wording",
+      "basis": "Chinese is descriptive and current Fandom retrieval does not verify the MTL proper name"
+    },
+    {
+      "topic": "snake fang sequence",
+      "chinese": "venom drips from exposed fangs at death; next-day text says fangs already removed",
+      "final": "both temporal statements retained",
+      "basis": "do not invent removal timing or silently erase source inconsistency"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "rebuilt 8/15/20/25/29/30/35/39/40 timeline",
+    "normalized one-Circle mana wording",
+    "corrected wet-nurse favoritism scene",
+    "removed unsupported Le Rogue Mountains addition",
+    "restored explicit snake feces and urine",
+    "avoided unsupported Fang Castle insertion",
+    "removed MTL-added longest-immersion claim from final legend sentence",
+    "retained eight-year timeskip"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

@@ -1,0 +1,39 @@
+{
+  "chapter": 2,
+  "title": "Hellhound (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Hellhound",
+    "range": [1, 3],
+    "family_qa_path": "qa/families/hellhound-0001-0003.md",
+    "family_qa_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/002.txt",
+    "primary_source_sha": "9993c01485cee99e207f7dd366c6bdb1a63a3706",
+    "english_reference_path": "source/chapters/chapter-002.xhtml",
+    "english_reference_sha": "e40f701a687b0e9dfc8faef2544a3c098c44748c",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0002.md",
+    "draft_sha": "5d705d015d86168dc1a38996bd1f6e3f08c5b60c",
+    "qa_path": "qa/chapter-0002.md",
+    "qa_sha": "7146b4111bced94602e8b90ca51979547b0e1e40",
+    "provenance_path": "editorial/provenance/chapter-0002.json",
+    "provenance_sha": "27eac0959a2c93fa30ab6c98312b018d70d56076"
+  },
+  "canonical_checks": [
+    "Vikir Van Baskerville",
+    "Hugo Le Baskerville",
+    "Baskerville Clan",
+    "Cradle of Swords",
+    "River Styx",
+    "Seven Great Families"
+  ],
+  "documented_limits": [
+    "Chinese blade-cradle variants are normalized to the canonical Cradle of Swords; MTL Tower of Swords is not treated as a separate location.",
+    "The ancient poisoned-heel warrior remains descriptive because no separate proper epithet is needed or canonically established."
+  ]
+}

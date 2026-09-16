@@ -5,26 +5,27 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-16
-- **Updated by:** ChatGPT — workflow-reset session
-- **Working branch:** `restart-from-chapter-001-with-handoff`
-- **Open PR:** none yet
+- **Updated by:** ChatGPT — Hellhound-family acceptance checkpoint
+- **Working branch:** `editorial/restart-hellhound-family`
+- **Open PR:** pending creation
 - **Base:** `main`
-- **Main at session start:** `c6195db419baf7344806b0d8a352bc86ccaa5a03`
-- **Reason for handoff state:** User requested a full restart from the beginning plus a durable per-session continuation file.
+- **Base main commit:** `6186004e6e095401e457b1b258a6545bb07b7640`
+- **Reason for current state:** Chapters 1–3 were fully rebuilt and accepted under the restarted Chinese-semantic/Fandom-canonical workflow. The next family boundary has already been verified.
 
 ## Authoritative current checkpoint
 
 - **Target edition:** 500 chapters
-- **Accepted:** 0
-- **Staged:** 0
-- **Next chapter:** 1
-- **Active title family:** not yet fully bounded under the restarted workflow
-- **Current chapter work:** none accepted or staged
+- **Accepted:** **3**
+- **Staged:** **0**
+- **Next chapter:** **4**
+- **Latest accepted family:** **Chapters 1–3 — Hellhound (1)–(3)**
+- **Next active title family:** **Chapters 4–7 — The Baskerville Dog (1)–(4)**
+- **Next-family boundary:** **VERIFIED**. Chinese Chapters 4–7 are parts (1)–(4) of the Baskerville-dog/hounds title family; Chinese Chapter 8 changes to `地狱的猎犬 (1)` and the aligned English reference calls it *Hounds of Hell (1)*.
 - **Blocking issue:** none
 
-The previous Chinese-first Chapter 1 acceptance is **superseded**. Its active draft/QA/acceptance/provenance files were removed on this branch. The old work remains in Git history (notably the earlier Chapter 1 merge at `797810e4e0aafc64b37153395c5e57ffe2354f6e`) and may be consulted only as a non-authoritative analysis lead.
+The earlier one-chapter Chinese-first Chapter 1 acceptance remains superseded. The current Chapters 1–3 acceptance is the first valid production acceptance after the full restart.
 
-## Rules that must not be lost again
+## Rules that must not be lost
 
 ### Semantic versus canonical authority
 
@@ -48,85 +49,119 @@ The previous Chinese-first Chapter 1 acceptance is **superseded**. Its active dr
 - Verified nontrivial MTL mappings already recorded: target 75→MTL 74, 76→75, 267→265, 268→266.
 - Do not assume target N == MTL N elsewhere without content verification.
 
-## Work completed in this session
+## Completed work — Chapters 1–3
 
-1. Created branch `restart-from-chapter-001-with-handoff` from current `main`.
-2. Invalidated the previous Chapter 1 active acceptance by removing:
-   - `manuscript/drafts/chapter-0001.md`
-   - `qa/chapter-0001.md`
-   - `qa/acceptance/chapter-0001.json`
-   - `editorial/provenance/chapter-0001.json`
-3. Reset active state to 0/500, next Chapter 1 in:
-   - `PROJECT_STATE.md`
-   - `PROGRESS.md`
-   - `editorial/reconstruction-status.json`
-   - `editorial/chapter-tracker.json`
-   - `README.md`
-4. Reset `editorial/GLOSSARY.md` so old Chapter 1 decisions are leads, not accepted terms.
-5. Updated `AGENTS.md` and `editorial/WORKFLOW.md` to make this handoff file mandatory at session start, meaningful checkpoints, and session end.
-6. Restored/retained the corrected authority split and continuous title-family rules.
+### Family boundary and alignment
 
-## Source review state after this restart
+- Ch. 1 — Hellhound (1) → MTL 1, verified by title/content/opening/ending.
+- Ch. 2 — Hellhound (2) → MTL 2, verified by title/content/opening/ending.
+- Ch. 3 — Hellhound (3) → MTL 3, verified by title/content/opening/ending.
+- Chinese Ch. 4 changes title family, so 1–3 is complete.
 
-No chapter raw has yet been **re-reviewed as current work after this full restart**.
+### Accepted output/evidence
 
-Historical analysis from the superseded Chapter 1 pass identified useful leads such as MTL omissions around the execution placard, Vikir's “live again” wish, Hugo's dialogue, and the ending Styx exchange. Those findings may accelerate review, but every item must be revalidated under the complete workflow, including current Fandom canonical-term evidence and title-family continuity.
+- `manuscript/drafts/chapter-0001.md`
+- `manuscript/drafts/chapter-0002.md`
+- `manuscript/drafts/chapter-0003.md`
+- `qa/chapter-0001.md`
+- `qa/chapter-0002.md`
+- `qa/chapter-0003.md`
+- `qa/families/hellhound-0001-0003.md`
+- `qa/acceptance/chapter-0001.json`
+- `qa/acceptance/chapter-0002.json`
+- `qa/acceptance/chapter-0003.json`
+- `editorial/provenance/chapter-0001.json`
+- `editorial/provenance/chapter-0002.json`
+- `editorial/provenance/chapter-0003.json`
 
-## English MTL alignment state
+The family QA passed the intentional Ch. 1→2 replay, Ch. 2→3 progression, and Ch. 3→4 eight-year-timeskip boundary.
 
-### Current first batch
+### Accepted canonical/translation decisions from the family
 
-- Target Chapter 1 → MTL Chapter 1 was historically aligned by title/content, but under the full restart it should be quickly reconfirmed and recorded as current evidence.
-- The complete title-family boundary beginning at Chapter 1 is **not yet verified in this restarted session**.
-- Do not accept Chapter 1 until the full family boundary is known and the family has been reviewed consistently.
+- **Vikir Van Baskerville** — canonical English form.
+- **Hugo Le Baskerville** — canonical English form.
+- **Marquis** — canonical English title for Hugo; Chinese Ch. 1 uses `伯爵` (“Count”) at one point, and that source conflict is preserved in QA/provenance.
+- **Baskerville Clan** / **Iron-Blooded Sword Clan** — canonical organization forms where a formal organization name is intended; ordinary family/kinship prose remains contextual.
+- **Cradle of Swords** — canonical English trial name; Chinese variants in Ch. 1–2 refer to the same trial in context.
+- **River Styx** — canonical English proper name; mechanics are taken from Chinese.
+- **Seven Great Families / Seven Great Clans** — use contextually without importing later lore.
+- Ch. 3 snake species uses **Bloody Mamba** as a transparent recovered-English continuity choice because current Fandom retrieval did not expose a dedicated canonical species entry; the limitation is documented.
+- Do **not** import MTL-only “Le Rogue Mountains” or “Fang Castle” into Ch. 3 without Chinese/canonical support.
 
-## Fandom canonical-reference state
+## Key source findings preserved in accepted Chapters 1–3
 
-No Fandom check is counted as completed under the restarted workflow yet.
+### Chapter 1
 
-Likely early terms requiring explicit current verification include, at minimum:
+- execution placard retained;
+- humanity’s victory carved into stone;
+- Vikir’s wish to live and live again retained;
+- Cradle/Styx mechanics follow Chinese;
+- Hugo’s Demon Realm/watch-my-back dialogue restored;
+- final “young master is drinking the water” exchange restored;
+- Hugo’s open-mouthed shock restored;
+- Chinese 100-days wording inconsistency preserved rather than invented away.
 
-- Vikir Van Baskerville
-- Hugo Le Baskerville and his canonical noble title
-- Baskerville naming/house terminology where a canonical form exists
-- River Styx
-- Cradle of Swords / any canonical trial name
-- any early sword-rank terminology that appears within the first title family
-- any named location, organization, skill, monster, or formal title introduced in the batch
+### Chapter 2
 
-Record exact relevant page/entry evidence or an access limitation in QA/provenance rather than citing the wiki homepage as proof of a specific term.
+- intentional replay of nursery/Cradle events preserved;
+- rabbit/hunting-dog proverb preserved;
+- Vikir bearing Hugo’s sins / “knowing too much” restored;
+- Styx wound/internal-organ/full-body blessing mechanics retained;
+- old poisoned-heel Baskerville-warrior anecdote retained;
+- final teeth/fangs scene retained.
 
-## Open decisions / blockers
+### Chapter 3
 
-- **No blocker.**
-- Need to determine the complete contiguous title-family boundary starting at Chapter 1 before reconstruction acceptance begins.
-- Need to establish current Fandom evidence for applicable canonical early terminology.
+- full past-life age timeline retained and repaired;
+- mothers arranging extra nursing for their own children restored;
+- snake gore, defecation, and urination retained without sanitization;
+- source inconsistency about venomous fangs documented;
+- unsupported MTL location additions removed;
+- chapter-ending revenge wait + eight-year timeskip retained.
 
-## Exact next actions for the next agent/session
+## Next family — Chapters 4–7
 
-Perform these in order:
+### Verified title boundary
 
-1. Read `AGENTS.md`, this `HANDOFF.md`, `PROJECT_STATE.md`, `PROGRESS.md`, `editorial/WORKFLOW.md`, `editorial/SOURCES.md`, `editorial/chapter-tracker.json`, and `editorial/GLOSSARY.md`.
-2. Inspect Chinese chapter headings beginning with Chapters 1 onward until the base title changes; determine the **complete contiguous title-family range** beginning at Chapter 1.
-3. Inspect the corresponding recovered English MTL chapter titles/content and verify the target↔MTL mapping for **every chapter in that family**. Do not rely on chapter numbers alone.
-4. Consult the English Fandom wiki for every consequential name/term/location/rank/skill/monster/organization/title introduced in the family. Record specific evidence and protect reveal chronology.
-5. Read every Chinese raw in the family completely before finalizing English prose.
-6. Reconstruct/edit the full family in natural modern English, preserving all source detail and explicitness and correcting MTL omissions/additions/mistranslations.
-7. QA the family both per chapter and as a contiguous unit: semantic coverage, canonical English terminology, chronology, repeated/overlapping material, chapter boundaries, windows, scene breaks, grammar, and continuity.
-8. Only after the full gate passes, create current drafts/QA/provenance/acceptance records and update tracker/status/glossary/progress.
-9. Update this `HANDOFF.md` with the exact accepted/in-progress state.
-10. Continue immediately into the next contiguous title family unless an explicit stopping condition exists.
+| Target | Chinese heading | Aligned English title | Alignment state |
+| --- | --- | --- | --- |
+| 4 | `巴斯克维家的狗 (1)` | *The Baskerville Dog (1)* | MTL 4 title verified; full content review still required |
+| 5 | `巴斯克维家的猎犬们 (2)` | *The Baskerville Dog (2)* | MTL 5 title verified; full content review still required |
+| 6 | `巴斯克维家族的猎犬们 (3)` | *The Baskerville Dog (3)* | MTL 6 title verified; full content review still required |
+| 7 | `巴斯克维家的猎犬们 (4)` | *The Baskerville Dog (4)* | MTL 7 title verified; full content review still required |
+| 8 | `地狱的猎犬 (1)` | *Hounds of Hell (1)* | boundary evidence; begins next family |
+
+### Known terminology work for Chapters 4–7
+
+- Rebuild sword-rank terminology from Chinese + current Fandom evidence. Historical forms **Sword Beginner / Expert / Graduator / Master** are leads only until this family is reviewed.
+- Verify any rank definitions/subranks precisely; do not inherit old Chapter 4 acceptance automatically.
+- Verify **John Barrymore** / butler terminology when Chapter 6 is reviewed.
+- Revalidate any Baskerville techniques, fang numbering/forms, locations, exam terminology, or named people against Fandom when they first appear.
+- Protect later-reveal chronology even if wiki pages expose advanced forms or identities.
+
+## Exact next actions
+
+1. Create/open the Hellhound-family PR from `editorial/restart-hellhound-family`, verify it is mergeable, and merge it into `main`.
+2. Immediately create a new editorial branch from the merged `main` for Chapters 4–7.
+3. Read complete Chinese raws `004.txt` through `007.txt` and inspect `008.txt` only as needed for boundary continuity.
+4. Read complete recovered English references `chapter-004.xhtml` through `chapter-007.xhtml`; confirm each target↔MTL mapping by content, not merely title/number.
+5. Perform current Fandom canonical-reference research for every consequential proper noun/term in 4–7, especially sword ranks, Barrymore, named techniques/forms, locations, and formal titles.
+6. Draft Chapters 4–7 from Chinese in natural modern English, using MTL only as secondary reference and preserving all explicit/source-specific detail.
+7. QA each chapter and the full 4–7 family as one unit; verify the Ch. 3→4 eight-year transition and Ch. 7→8 family boundary.
+8. Create fresh provenance/acceptance evidence, promote only revalidated glossary entries, and advance tracker/status/progress.
+9. Update this `HANDOFF.md` after each meaningful checkpoint and before any session ends.
+10. Continue immediately into the Chapter 8 title family after 4–7 is integrated unless a genuine blocker appears.
 
 ## Session-end checklist for future agents
 
-Before stopping, verify all boxes conceptually:
+Before stopping, ensure:
 
 - checkpoint counts match tracker/status;
 - active family and next chapter are explicit;
-- in-progress work is described at paragraph/source-review granularity where useful;
+- in-progress work is described precisely;
 - MTL mappings are recorded;
 - Fandom checks done/pending are recorded;
-- decisions and unresolved issues are recorded;
+- source conflicts and unresolved issues are recorded;
 - branch/PR/merge state is current;
 - exact next actions are ordered and concrete;
-- `HANDOFF.md` has been updated **after** the latest meaningful work.
+- `HANDOFF.md` has been updated after the latest meaningful work.

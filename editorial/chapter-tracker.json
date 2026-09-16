@@ -1,9 +1,58 @@
 {
-  "notice": "Full restart 2026-09-16. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work. Prior accepted/staged reconstruction remains only in Git history.",
+  "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 0,
+  "accepted_count": 3,
   "staged_count": 0,
-  "next_chapter": 1,
-  "active_title_family": null,
-  "chapters": []
+  "next_chapter": 4,
+  "active_title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "boundary_status": "verified_from_chinese_and_english_titles",
+    "next_family_starts": 8,
+    "next_family_title": "Hounds of Hell (1)"
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Hellhound (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/001.txt",
+      "english_mtl_reference": "source/chapters/chapter-001.xhtml",
+      "draft": "manuscript/drafts/chapter-0001.md",
+      "qa": "qa/chapter-0001.md",
+      "provenance": "editorial/provenance/chapter-0001.json",
+      "acceptance": "qa/acceptance/chapter-0001.json",
+      "acceptance_sha": "09179b9ab590d05cfc0fc7ac03bad75a8a0df272",
+      "family_qa": "qa/families/hellhound-0001-0003.md"
+    },
+    {
+      "chapter": 2,
+      "title": "Hellhound (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/002.txt",
+      "english_mtl_reference": "source/chapters/chapter-002.xhtml",
+      "draft": "manuscript/drafts/chapter-0002.md",
+      "qa": "qa/chapter-0002.md",
+      "provenance": "editorial/provenance/chapter-0002.json",
+      "acceptance": "qa/acceptance/chapter-0002.json",
+      "acceptance_sha": "4c000a493efb722128b62ed97a06ed1e57187fea",
+      "family_qa": "qa/families/hellhound-0001-0003.md"
+    },
+    {
+      "chapter": 3,
+      "title": "Hellhound (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/003.txt",
+      "english_mtl_reference": "source/chapters/chapter-003.xhtml",
+      "draft": "manuscript/drafts/chapter-0003.md",
+      "qa": "qa/chapter-0003.md",
+      "provenance": "editorial/provenance/chapter-0003.json",
+      "acceptance": "qa/acceptance/chapter-0003.json",
+      "acceptance_sha": "4b82137ec8a82ea9ae1ea2510d78655276a62d20",
+      "family_qa": "qa/families/hellhound-0001-0003.md"
+    }
+  ]
 }

@@ -6,12 +6,12 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **0 / 500 accepted; next Chapter 1.** The project was deliberately restarted from the beginning on 2026-09-16 after restoring the complete title-family batching rule and the English Fandom canonical-terminology rule.
+Current checkpoint: **3 / 500 accepted; next Chapter 4.** Chapters 1–3 (*Hellhound (1)–(3)*) are accepted as one title-family batch under the restarted workflow. The next verified family is **Chapters 4–7 — The Baskerville Dog (1)–(4)**; Chapter 8 starts *Hounds of Hell (1)*.
 
 ## Current source policy
 
 - `source/chinese/chapters/` — **semantic/narrative authority** for the 500-chapter target edition.
-- English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki — **canonical English authority** for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns.
+- English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki — **canonical English authority** for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns where an applicable entry exists.
 - `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus; secondary alignment/phrasing reference only, except Chapter 55 where no Chinese raw exists.
 - `source/chinese/chapter-exceptions.tsv` — missing/combined raw exceptions and verified nontrivial English-MTL alignments.
 - `editorial/SOURCES.md` and `editorial/WORKFLOW.md` — authoritative source and editorial procedures.
@@ -31,6 +31,18 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 - Protect reveal chronology even when the wiki contains later information.
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 - Keep GitHub-hosted runner use sparse.
+
+## Accepted evidence
+
+Current accepted work begins with:
+
+- `manuscript/drafts/chapter-0001.md` through `chapter-0003.md`
+- `qa/chapter-0001.md` through `chapter-0003.md`
+- `qa/families/hellhound-0001-0003.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0003.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0003.json`
+
+The earlier pre-restart Chapter 1 acceptance remains in Git history only and is superseded by the current family-reviewed evidence.
 
 ## Editorial quality bar
 

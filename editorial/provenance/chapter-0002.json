@@ -1,0 +1,87 @@
+{
+  "chapter": 2,
+  "title": "Hellhound (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hellhound",
+    "range": [1, 3],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/hellhound-0001-0003.md",
+      "blob_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/002.txt",
+    "blob_sha": "9993c01485cee99e207f7dd366c6bdb1a63a3706",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-002.xhtml",
+    "blob_sha": "e40f701a687b0e9dfc8faef2544a3c098c44748c",
+    "target_alignment": 2,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville",
+      "applies_to": ["Vikir Van Baskerville", "regression and infancy context"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Hugo_Le_Baskerville",
+      "applies_to": ["Hugo Le Baskerville"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan",
+      "applies_to": ["Baskerville Clan", "Cradle of Swords", "River Styx", "poisoned-heel Styx legend"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Grand_Mansion_of_the_Baskerville_Clan",
+      "applies_to": ["Cradle of Swords", "River Styx"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Revenge_of_the_Iron-Blooded_Sword_Hound_Novel",
+      "applies_to": ["Seven Great Families"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0002.md",
+    "blob_sha": "5d705d015d86168dc1a38996bd1f6e3f08c5b60c"
+  },
+  "qa": {
+    "path": "qa/chapter-0002.md",
+    "blob_sha": "7146b4111bced94602e8b90ca51979547b0e1e40",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "blade-cradle localized variants / MTL Tower of Swords",
+      "final": "Cradle of Swords",
+      "basis": "same source event/context plus Fandom canonical trial name"
+    },
+    {
+      "topic": "ancient poisoned-heel warrior",
+      "final": "descriptive warrior/swordsman wording",
+      "basis": "Fandom verifies Styx legend but no separate proper epithet needed"
+    },
+    {
+      "topic": "River Styx one-time exposure rule",
+      "final": "retained from Chinese",
+      "basis": "semantic source authority; explains Vikir refusing to surface early"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "rebuilt regression realization",
+    "restored rabbit-and-hound proverb",
+    "removed separate Tower of Swords interpretation",
+    "restored dirty living/work sequence",
+    "restored Hugo-blame transfer and knowing-too-much motive",
+    "restored organ-strengthening intent and full Styx mechanics",
+    "repaired final resurfacing and teeth dialogue"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}

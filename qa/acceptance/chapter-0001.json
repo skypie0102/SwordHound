@@ -1,0 +1,41 @@
+{
+  "chapter": 1,
+  "title": "Hellhound (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Hellhound",
+    "range": [1, 3],
+    "family_qa_path": "qa/families/hellhound-0001-0003.md",
+    "family_qa_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/001.txt",
+    "primary_source_sha": "fa9dfcf2f15c575d3a5971a93b9951d1ae0d0431",
+    "english_reference_path": "source/chapters/chapter-001.xhtml",
+    "english_reference_sha": "93188cc599feec0ec8bbfc1e326fe3b70d2be0eb",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0001.md",
+    "draft_sha": "c92ac8fbb549d26c247d91b4cb2724f5927d1d20",
+    "qa_path": "qa/chapter-0001.md",
+    "qa_sha": "724feed13f29281703f6f54a6c4a458dd747ec6b",
+    "provenance_path": "editorial/provenance/chapter-0001.json",
+    "provenance_sha": "7d9ecf93f400840b888ce3949552f3a8353291e6"
+  },
+  "canonical_checks": [
+    "Vikir Van Baskerville",
+    "Hugo Le Baskerville",
+    "Marquis",
+    "Baskerville Clan",
+    "Iron-Blooded Sword Clan",
+    "Le/La/Van naming distinction",
+    "Cradle of Swords",
+    "River Styx"
+  ],
+  "documented_limits": [
+    "Chinese Chapter 1 uses Count for Hugo once; canonical Fandom title Marquis is used and the conflict is preserved in QA.",
+    "Chinese contains an internal just-100-days/not-yet-100-days wording inconsistency; no exact reconciliation was invented."
+  ]
+}
