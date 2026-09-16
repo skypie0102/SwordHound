@@ -43,7 +43,9 @@ jobs:
         run: python tools/setup_reprocessing.py
 
       - name: Build Chapters 14-54 sanitization review queue
-        run: python tools/build_sanitization_candidates.py
+        run: |
+          python tools/build_sanitization_candidates.py
+          python tools/build_sanitization_shortlist.py
 
       - name: Verify source integrity and tracking
         run: |
