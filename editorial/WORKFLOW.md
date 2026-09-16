@@ -28,6 +28,8 @@ At minimum, identify from the handoff:
 - current branch/PR state;
 - exact next actions.
 
+**Do not hard-code the live project checkpoint into this workflow file.** The current accepted/staged counts, next chapter, active family, and branch/PR state belong in `HANDOFF.md`, `PROJECT_STATE.md`, and `editorial/chapter-tracker.json`.
+
 Update `HANDOFF.md` after meaningful checkpoints and always before ending the session.
 
 ## 1. Continuous title-family processing
@@ -167,6 +169,6 @@ Use past-tense narration with intentional exceptions for general descriptions, d
 
 Keep source-dependent terminology decisions documented in `editorial/GLOSSARY.md`. Canonical English wiki spellings should be preferred for identified entities, but do not flatten genuinely distinct source concepts merely because their translations look similar.
 
-## Current restart state
+## Live state
 
-The active reconstruction is **0 / 500 accepted, next Chapter 1**. The earlier Chinese-first Chapter 1 acceptance is superseded and remains only in Git history. The first task is to establish the complete contiguous title-family boundary beginning at Chapter 1, then reconstruct that family under this complete workflow.
+Always derive the current checkpoint from `HANDOFF.md`, `PROJECT_STATE.md`, `editorial/chapter-tracker.json`, and accepted evidence. This workflow intentionally contains no fixed chapter/count checkpoint so it does not become stale as batches advance.
