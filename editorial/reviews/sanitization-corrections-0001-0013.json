@@ -1,0 +1,79 @@
+{
+  "audit_date": "2026-09-16",
+  "scope": "accepted chapters 1-13",
+  "policy": "Preserve source force and specificity; do not euphemize, generalize, omit, or gratuitously intensify harsh material.",
+  "corrections": [
+    {
+      "chapter": 1,
+      "paragraph": 75,
+      "current": "What could have startled the family’s normally unshakable guardian knights?",
+      "replacement": "What could have made the family’s normally unshakable guardian knights tremble in fear?",
+      "reason": "Korean explicitly describes the knights trembling in fear; 'startled' weakens the reaction."
+    },
+    {
+      "chapter": 1,
+      "paragraph": 88,
+      "current": "His knees were bruised, and his soft palms were already bloody.",
+      "replacement": "His knees were covered in scrapes, and his small hands were already covered in blood.",
+      "reason": "Korean specifies abrasion-covered knees and hands covered in blood; the accepted line weakens and partly changes the injuries."
+    },
+    {
+      "chapter": 2,
+      "paragraph": 4,
+      "current": "Not a trace remained of the aura he had built up through countless battles.",
+      "replacement": "Not a trace remained of the aura he had built up while repeatedly hovering at death’s door and coughing up blood.",
+      "reason": "Korean explicitly includes repeatedly crossing death’s threshold and coughing/spitting up blood."
+    },
+    {
+      "chapter": 8,
+      "paragraph": 12,
+      "current": "Tough, sinewy cuts of meat were simmered in broth made from chicken bones until everything softened into a thick mash.",
+      "replacement": "Various kinds of tough, sinewy offal were simmered in chicken-bone broth until everything softened into a thick mash.",
+      "reason": "Korean explicitly says various kinds of offal/internal organs; generic meat removes visceral specificity."
+    },
+    {
+      "chapter": 10,
+      "paragraph": 24,
+      "current": "Its heart hammered as though it might burst, and the blood vessels in its eyes swelled red.",
+      "replacement": "Its heart hammered as though it might burst, and its bloodshot eyes looked ready to burst as well.",
+      "reason": "Korean applies the 'about to burst' image to both heart and bloodshot eyes."
+    },
+    {
+      "chapter": 11,
+      "paragraph": 144,
+      "current": "They drove into its body and opened serious wounds.",
+      "replacement": "They drove into its body and opened grievous, potentially fatal wounds.",
+      "reason": "Korean uses 치명적인 for the wounds; 'serious' is too mild while outright 'fatal' would overstate the immediate outcome."
+    },
+    {
+      "chapter": 13,
+      "paragraph": 67,
+      "current": "Blood and bodily fluids flowed through Beelzebub’s hollow stinger and into Vikir.",
+      "replacement": "Blood and fluids from its organs flowed through Beelzebub’s hollow stinger and into Vikir.",
+      "reason": "Korean specifically says blood and organ/internal-organ fluids."
+    },
+    {
+      "chapter": 13,
+      "paragraph": 68,
+      "current": "The gnawing hunger inside him eased, his cramped stomach gradually settling.",
+      "replacement": "His starving intestines filled, and the organs twisted by hunger gradually settled back into place.",
+      "reason": "Korean explicitly describes intestines filling and twisted internal organs returning to position."
+    },
+    {
+      "chapter": 13,
+      "paragraph": 74,
+      "current": "When Beelzebub had been alive, the scope of that absorption had been nearly limitless, leaving countless victims stripped of achievements they had spent their entire lives building.",
+      "replacement": "When Beelzebub had been alive, the scope of that absorption had been nearly limitless, leaving countless victims stripped of abilities they had spent their entire lives building, powerless and disabled.",
+      "reason": "Korean additionally states that the victims were left powerless/incapacitated and disabled."
+    },
+    {
+      "chapter": 13,
+      "paragraph": 109,
+      "current": "Then Beelzebub drove its stinger into Cerberus’s corpse and began greedily drinking from its flesh and organs.",
+      "replacement": "Then Beelzebub drove its stinger into Cerberus’s corpse and began voraciously devouring its flesh and entrails.",
+      "reason": "Korean uses deliberately visceral flesh/entrails language and a verb meaning to devour greedily."
+    }
+  ],
+  "chapters_without_sanitization_corrections": [3, 4, 5, 6, 7, 9, 12],
+  "acceptance_note": "Affected accepted chapters must be reopened, regenerated from edit sources, and re-accepted; do not silently patch generated manuscript files."
+}
