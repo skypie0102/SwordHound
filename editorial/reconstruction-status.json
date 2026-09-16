@@ -2,20 +2,20 @@
   "checkpoint_date": "2026-09-16",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 11,
+  "accepted_chapters": 13,
   "staged_chapters": 0,
-  "next_chapter": 12,
+  "next_chapter": 14,
   "latest_accepted_family": {
-    "name": "Hounds of Hell",
-    "range": [8, 11],
-    "family_qa": "qa/families/hounds-of-hell-0008-0011.md"
-  },
-  "next_title_family": {
     "name": "The Gluttonous Flies",
     "range": [12, 13],
-    "boundary_status": "verified_from_chinese_headings",
-    "following_family_starts": 14,
-    "following_chinese_title": "独食 (1)"
+    "family_qa": "qa/families/gluttonous-flies-0012-0013.md"
+  },
+  "next_title_family": {
+    "name": "Solitary",
+    "start": 14,
+    "boundary_status": "pending_full_boundary_verification",
+    "known_first_title": "Solitary (1)",
+    "chinese_title": "独食 (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -30,15 +30,16 @@
     "385.txt": [385, 386],
     "495.txt": [495, 496]
   },
-  "accepted": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+  "accepted": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
   "notes": [
-    "Chapters 1-3 are accepted as the complete Hellhound title family under the restarted workflow.",
+    "Chapters 1-3 are accepted as the complete Hellhound title family.",
     "Chapters 4-7 are accepted as the complete The Baskerville Dog title family.",
-    "Chapters 8-11 are accepted as the complete Hounds of Hell title family after Chinese-first chapter QA and family continuity QA.",
-    "Hounds of Hell revalidated Le Rouge et Le Noir Mountain, Guide Dogs, Pavlov Van Baskerville, Hellhound, Cerberus, Hell's Watchdog, Camus Morgue, Baskerville Forms, and the accepted sword/mage rank equivalence.",
-    "The family restores complete monster information windows, the Hellhound kidney target, Cerberus underworld-type taxonomy, Cradle of Needles, and the seven-step Bloody Mamba payoff.",
-    "A Fandom refresh attempt during the Hounds of Hell family was blocked by robots rules; only canonical evidence already retrieved earlier in the active-family research pass was used, and the limitation is recorded in QA/provenance.",
-    "Chinese raws control narrative/semantic content; the English Fandom wiki controls canonical English renderings for identified proper nouns where an applicable entry exists.",
+    "Chapters 8-11 are accepted as the complete Hounds of Hell title family.",
+    "Chapter 11 canonical terminology was reopened and rebound on 2026-09-16 after stronger current Fandom evidence established Baskerville numbered techniques as Fangs rather than Forms; semantic content did not change.",
+    "Chapters 12-13 are accepted as the complete The Gluttonous Flies title family after Chinese-first chapter/family QA.",
+    "The Gluttonous Flies family canonicalizes Cain Baskerville, Abel Baskerville, Beelzebub, The Fly of Gluttony, Seven Calamities, Hemorrhage, Incinerate, Rapid Regeneration, and Baskerville Fangs.",
+    "Recovered-English Beelzebub custody/theft/battlefield/fusion exposition absent from Chinese Chapter 13 was deliberately excluded.",
+    "Chinese raws control narrative/semantic content; the English Fandom wiki controls canonical English renderings for identified proper nouns where applicable.",
     "Every session must read and update HANDOFF.md.",
     "English MTL numbering diverges later; do not assume same-number alignment except where explicitly verified."
   ]
