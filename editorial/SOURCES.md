@@ -1,17 +1,24 @@
 # Source policy and QA references
 
-Updated 2026-09-13 from the user's supplied archive and explicit source instructions. This policy supersedes earlier notes that Korean material existed only as library recovery leads or that every chapter must await Korean-source availability.
+Updated 2026-09-16 from the user's preserved 1–54 archive, supplemental repository raws, and explicit source instructions. This policy supersedes earlier notes that Korean material existed only as library recovery leads or that every chapter must await Korean-source availability.
 
 ## Chapter coverage
 
-| Chapters | Working material | Required review mode |
+| Recovered MTL chapters | Working material | Required review mode |
 |---|---|---|
-| 1–54 | User-supplied Korean raws in `source/korean/chapters/001.txt` through `054.txt`, plus recovered English MTL in `source/chapters/` | Compare Korean and MTL passage by passage. Use the wiki references for canonical names, terms, and locations; document conflicting evidence. |
-| 55–493 | Recovered English MTL in `source/chapters/`; the user has no Korean raws for this range | Reconstruct from MTL with contextual, continuity, and wiki-supported QA. Do not make Korean retrieval a prerequisite for starting or completing this review mode. |
+| 1–54 | Preserved Korean raws from the original ZIP plus recovered English MTL | Compare Korean and MTL passage by passage. |
+| 55 | No aligned Korean witness in the supplied set; recovered English MTL remains available | MTL-only reconstruction with contextual, continuity, and supporting-reference QA; record the limitation explicitly. |
+| 56–58 | Same-number supplemental Korean raw plus recovered English MTL | Compare Korean and MTL passage by passage. |
+| 59 | Korean source Chapters 59+60 plus recovered English MTL Chapter 59 | Treat as a composite Korean witness and align both source chapters against the single recovered MTL chapter. |
+| 60–73 | Korean source chapter number +1 plus recovered English MTL | Compare mapped Korean and MTL passage by passage. |
+| 74–75 | Bundled `source/korean/chapters/075.txt`, which declares source Chapters 75+76, plus recovered English MTL | Split/alignment by passage: source 75 → MTL 74; source 76 → MTL 75. |
+| 76–124 | Korean source chapter number +1 plus recovered English MTL | Compare mapped Korean and MTL passage by passage. |
+| 125 | Would require Korean source Chapter 126, not present in the supplied set | MTL-only reconstruction with contextual, continuity, and supporting-reference QA. |
+| 126–493 | Recovered English MTL; no Korean witness currently registered | MTL-only reconstruction unless more Korean evidence is supplied later. |
 
 Preserve the original supplied ZIP at `archives/korean-raws-001-054.zip`. The [manifest](../recovery/korean-raws-manifest.json) records all 54 file hashes, byte counts, original names, and opening headings. The ZIP has exactly 54 files; each filename and opening chapter number agrees. This verifies numbered coverage, not full correspondence between the 500-chapter label inside some Korean files and the 493-chapter MTL edition. Check actual passage boundaries during each chapter review.
 
-The supplied files are the Korean comparison source for 1–54. Their publisher/edition provenance is not independently established. Chapter 1 has the same inconsistent naming and rank wording previously observed in the library; Chapter 54 includes English phrases within Korean prose. Preserve these observations and review conflicts rather than assuming every raw-file wording is automatically correct. The earlier library excerpt note remains historical evidence; agents can now inspect the complete supplied file directly.
+The original ZIP remains the Korean comparison source for MTL Chapters 1–54. Supplemental raw files are separately hash-bound in `recovery/korean-supplemental-raws-manifest.json`; the edition-aware mapping into recovered MTL Chapters 56–124 is recorded in `editorial/reprocessing/source-inventory-001-125.json`. Their publisher/edition provenance is not independently established. Chapter 1 has the same inconsistent naming and rank wording previously observed in the library; Chapter 54 includes English phrases within Korean prose. Preserve these observations and review conflicts rather than assuming every raw-file wording is automatically correct. The earlier library excerpt note remains historical evidence; agents can now inspect the complete supplied file directly.
 
 ## User-designated wiki references
 
@@ -25,10 +32,10 @@ Direct automated opening of these URLs failed during registration on 2026-09-13 
 ## Applying source evidence
 
 - For each consequential name/term/location decision, record the specific page URL, section or evidence summary, access date, and why it applies to this chapter. A homepage link alone is not verification of a term.
-- Use Korean text, MTL context, and wiki evidence together for 1–54. For 55 onward, use the MTL as the narrative basis and consult both wiki sources where relevant. Do not invent Korean wording or describe an MTL-only chapter as bilingually verified.
+- Use mapped Korean witness text, MTL context, and wiki evidence together wherever the inventory records a Korean witness. Do not infer correspondence from filenames alone. For MTL-only Chapters 55 and 125 and chapters beyond current Korean coverage, use the MTL as the narrative basis and consult supporting references where relevant. Do not invent Korean wording or describe an MTL-only chapter as bilingually verified.
 - Wiki pages can summarize later revelations or another adaptation. Record novel/manhwa differences where relevant and keep character knowledge, identities, ranks, and abilities at the current chapter's reveal point.
 - Where sources disagree, record the alternatives and choose only what the evidence supports. A wiki summary cannot establish omitted dialogue or justify inserting new narrative events. Retain uncertainty when a specific meaning cannot be established.
-- Missing Korean from Chapter 55 onward is a declared source limitation, not itself an unresolved QA issue. Actual unresolved story-changing ambiguities still need explicit treatment before editorial acceptance. Acceptance must identify its basis as `korean_plus_mtl` or `mtl_with_supporting_references`.
+- Missing aligned Korean for recovered MTL Chapters 55 and 125, and beyond the currently mapped raw range, is a declared source limitation, not itself an unresolved QA issue. Actual unresolved story-changing ambiguities still need explicit treatment before editorial acceptance. Acceptance must identify its basis as `korean_plus_mtl` or `mtl_with_supporting_references`.
 - If a reference cannot be accessed, record the failed attempt and use other accessible support. Do not fabricate a citation or claim the reference was consulted successfully.
 
 ## Acceptance and integrity

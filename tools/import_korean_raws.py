@@ -1,4 +1,4 @@
-"""Import or verify the user-supplied Korean 001-054 archive without changing bytes."""
+"""Import or verify the preserved Korean 001-054 archive and registered supplemental raws."""
 import argparse
 import hashlib
 import io
@@ -6,6 +6,8 @@ import json
 from pathlib import Path
 import re
 import zipfile
+
+from manage_supplemental_korean_raws import check_supplemental_raws
 
 ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = 'archives/korean-raws-001-054.zip'
@@ -45,6 +47,7 @@ def inspect_archive(data):
 
 
 def check_korean_raws(root=ROOT):
+    """Verify the immutable 001-054 archive, then all separately registered supplemental raws."""
     outputs = inspect_archive((root / ARCHIVE).read_bytes())
     for name, expected in outputs.items():
         path = root / name
@@ -53,9 +56,17 @@ def check_korean_raws(root=ROOT):
                 raise ValueError('Korean manifest differs from verified archive evidence')
         elif path.read_bytes() != expected:
             raise ValueError(f'Korean source byte mismatch: {name}')
-    actual = {p.name for p in (root / 'source/korean/chapters').iterdir()}
-    if actual != {f'{n:03d}.txt' for n in range(1, 55)}:
-        raise ValueError('Unexpected or missing Korean chapter files')
+
+    supplemental = check_supplemental_raws(root)
+    original_names = {f'{n:03d}.txt' for n in range(1, 55)}
+    supplemental_names = {Path(item['path']).name for item in supplemental['members']}
+    actual = {p.name for p in (root / 'source/korean/chapters').glob('*.txt')}
+    expected_names = original_names | supplemental_names
+    if actual != expected_names:
+        missing = sorted(expected_names - actual)
+        extra = sorted(actual - expected_names)
+        raise ValueError(f'Unexpected Korean chapter file set; missing={missing}, extra={extra}')
+    return supplemental
 
 
 def main():
@@ -76,8 +87,11 @@ def main():
             path.parent.mkdir(parents=True, exist_ok=True)
             if not path.exists():
                 path.write_bytes(data)
-    check_korean_raws()
-    print('PASS: Korean ZIP checksum/CRC, all 54 chapter bytes, UTF-8 decoding, numbered headings, and manifest.')
+    supplemental = check_korean_raws()
+    print(
+        f"PASS: preserved Korean ZIP checksum/CRC and all 54 original chapter bytes; "
+        f"{supplemental['file_count']} supplemental raw files are hash-bound separately."
+    )
 
 
 if __name__ == '__main__':

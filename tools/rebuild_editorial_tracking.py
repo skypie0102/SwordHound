@@ -8,6 +8,8 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from build_editorial_draft import render as validate_editorial_chapter
+from import_korean_raws import check_korean_raws
+from korean_mtl_witness_map import mtl_gaps, verify_mapping_files, witnesses_for_mtl
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'h': 'http://www.w3.org/1999/xhtml'}
@@ -45,6 +47,7 @@ def main():
         paragraphs = [''.join(p.itertext()) for p in body.findall('.//h:p', NS)]
         chapter_data[number] = {'title': title, 'paragraphs': paragraphs, 'source': path.relative_to(ROOT).as_posix(), 'sha256': row['sha256']}
         titles[normalize(title).casefold()].append(number)
+
     audit = (ROOT / 'editorial/Editorial-Audit.md').read_text(encoding='utf-8')
     findings = []
     historical_title = None
@@ -70,7 +73,13 @@ def main():
             status = 'exact_text_and_title'
         elif len(hits) > 1:
             status = 'ambiguous_text'
-        findings.append({'id':head.group(1),'historical_chapter':old_chapter,'historical_paragraph':old_paragraph,'historical_title':historical_title,'category_and_severity':head.group(2),'match_status':status,'source_match':match,'candidate_matches':[{'chapter':n,'paragraph':p} for n,p in hits], 'disposition':'not_reviewed'})
+        findings.append({
+            'id': head.group(1), 'historical_chapter': old_chapter, 'historical_paragraph': old_paragraph,
+            'historical_title': historical_title, 'category_and_severity': head.group(2),
+            'match_status': status, 'source_match': match,
+            'candidate_matches': [{'chapter': n, 'paragraph': p} for n, p in hits],
+            'disposition': 'not_reviewed',
+        })
     if len(findings) != 2151:
         raise ValueError(f'Expected 2151 original findings, got {len(findings)}')
     aligned = defaultdict(list)
@@ -79,28 +88,78 @@ def main():
             aligned[item['source_match']['chapter']].append(item['id'])
     overlay_path = ROOT / 'editorial/reconstruction-status.json'
     overlay = json.loads(overlay_path.read_text(encoding='utf-8')) if overlay_path.exists() else {}
-    korean_manifest = json.loads((ROOT / 'recovery/korean-raws-manifest.json').read_text(encoding='utf-8'))
-    korean = {entry['chapter']: entry for entry in korean_manifest['members']}
-    if len(korean_manifest['members']) != 54 or set(korean) != set(range(1, 55)):
-        raise ValueError('Expected Korean source coverage 1-54')
-    for entry in korean.values():
-        if hashlib.sha256((ROOT / entry['path']).read_bytes()).hexdigest() != entry['sha256']:
-            raise ValueError(f'Korean source checksum mismatch: {entry["chapter"]}')
+
+    supplemental_manifest = check_korean_raws(ROOT)
+    original_manifest = json.loads((ROOT / 'recovery/korean-raws-manifest.json').read_text(encoding='utf-8'))
+    path_meta = {
+        item['path']: item
+        for item in original_manifest['members'] + supplemental_manifest['members']
+    }
+    verify_mapping_files(ROOT, 125)
+    if mtl_gaps(125) != [55, 125]:
+        raise ValueError(f'Unexpected edition-aligned MTL Korean gaps: {mtl_gaps(125)}')
+
     chapters = []
     for number, item in sorted(chapter_data.items()):
         state = overlay.get(str(number), {})
         if state.get('status') == 'qa_accepted':
             validate_editorial_chapter(number)
-        chapters.append({'chapter':number,'title':item['title'],'source':item['source'],'source_sha256':item['sha256'],'source_integrity':'verified','source_paragraphs':len(item['paragraphs']),'original_edited_file':'not_recovered','original_qa_file':'not_recovered','historical_reported_state':'merged_through_372' if number <=372 else ('validated_unmerged_373_374' if number <=374 else 'not_reported_complete'),'reconstruction_status':state.get('status','not_started'),'draft':state.get('draft'),'qa_report':state.get('qa_report'),'open_issues':state.get('open_issues',[]),'audit_findings_with_exact_unique_match':aligned[number]})
-        raw = korean.get(number)
-        chapters[-1].update({'review_basis': 'korean_plus_mtl' if raw else 'mtl_with_supporting_references',
-                             'korean_source': {key: raw[key] for key in ('path', 'sha256', 'alignment')} if raw else None,
-                             'source_policy': 'editorial/SOURCES.md'})
-        chapters[-1]['editorial_accepted'] = state.get('status') == 'qa_accepted'
-        chapters[-1]['acceptance_evidence'] = state.get('acceptance_evidence')
-    save('editorial/audit-alignment.json', {'notice':'Exact quoted text plus chapter title matching after whitespace normalization only. A match locates an old suggestion; it does not approve or apply it. Unmatched findings may involve changed text, numbering, or titles. Duplicate suggestions remain separate.', 'counts':dict(Counter(x['match_status'] for x in findings)), 'findings':findings})
-    save('editorial/chapter-tracker.json',{'notice':'Reconstructed tracker. Historical completion reports and current QA acceptance are separate. Only original source integrity is verified for every chapter.','chapter_count':len(chapters),'chapters':chapters})
-    print(json.dumps({'chapters':len(chapters),'audit_findings':len(findings),'alignment_counts':dict(Counter(x['match_status'] for x in findings))}))
+        row = {
+            'chapter': number,
+            'title': item['title'],
+            'source': item['source'],
+            'source_sha256': item['sha256'],
+            'source_integrity': 'verified',
+            'source_paragraphs': len(item['paragraphs']),
+            'original_edited_file': 'not_recovered',
+            'original_qa_file': 'not_recovered',
+            'historical_reported_state': 'merged_through_372' if number <= 372 else ('validated_unmerged_373_374' if number <= 374 else 'not_reported_complete'),
+            'reconstruction_status': state.get('status', 'not_started'),
+            'draft': state.get('draft'),
+            'qa_report': state.get('qa_report'),
+            'open_issues': state.get('open_issues', []),
+            'audit_findings_with_exact_unique_match': aligned[number],
+        }
+        mapped = witnesses_for_mtl(number) if number <= 125 else []
+        witnesses = []
+        for mapping in mapped:
+            meta = path_meta[mapping['path']]
+            witnesses.append({
+                **mapping,
+                'sha256': meta['sha256'],
+                'alignment': meta['alignment'],
+            })
+        row.update({
+            'review_basis': 'korean_plus_mtl' if witnesses else 'mtl_with_supporting_references',
+            'korean_source': {
+                'path': witnesses[0]['path'],
+                'sha256': witnesses[0]['sha256'],
+                'alignment': witnesses[0]['alignment'],
+            } if len(witnesses) == 1 else None,
+            'korean_witnesses': witnesses,
+            'source_policy': 'editorial/SOURCES.md',
+            'editorial_accepted': state.get('status') == 'qa_accepted',
+            'acceptance_evidence': state.get('acceptance_evidence'),
+        })
+        chapters.append(row)
+
+    save('editorial/audit-alignment.json', {
+        'notice': 'Exact quoted text plus chapter title matching after whitespace normalization only. A match locates an old suggestion; it does not approve or apply it. Unmatched findings may involve changed text, numbering, or titles. Duplicate suggestions remain separate.',
+        'counts': dict(Counter(x['match_status'] for x in findings)),
+        'findings': findings,
+    })
+    save('editorial/chapter-tracker.json', {
+        'notice': 'Reconstructed tracker. Historical completion reports and current QA acceptance are separate. Only original source integrity is verified for every chapter. Korean witness mapping through MTL 125 is edition-aware and may be composite or bundled.',
+        'chapter_count': len(chapters),
+        'chapters': chapters,
+    })
+    print(json.dumps({
+        'chapters': len(chapters),
+        'audit_findings': len(findings),
+        'alignment_counts': dict(Counter(x['match_status'] for x in findings)),
+        'supplemental_korean_files': supplemental_manifest['file_count'],
+        'mtl_korean_gaps_1_125': [55, 125],
+    }))
 
 
 if __name__ == '__main__':

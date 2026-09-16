@@ -1,0 +1,65 @@
+name: Reprocessing setup gate
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    if: github.head_ref == 'editorial/reprocess-0014-0125'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: editorial/reprocess-0014-0125
+          fetch-depth: 0
+
+      - name: Print Korean and MTL chapter headings
+        shell: python
+        run: |
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          ns = {'h': 'http://www.w3.org/1999/xhtml'}
+          print('=== KOREAN HEADINGS 054-125 ===')
+          for n in range(54, 126):
+              p = Path(f'source/korean/chapters/{n:03d}.txt')
+              if not p.exists():
+                  print(f'KO {n:03d}: <MISSING FILE>')
+                  continue
+              lines = [line.strip() for line in p.read_text(encoding='utf-8-sig').splitlines() if line.strip()]
+              print(f'KO {n:03d}: {lines[0] if lines else "<EMPTY>"}')
+          print('=== MTL TITLES 054-125 ===')
+          for n in range(54, 126):
+              p = Path(f'source/chapters/chapter-{n:03d}.xhtml')
+              root = ET.fromstring(p.read_bytes())
+              title = root.find('.//h:title', ns)
+              print(f'MTL {n:03d}: {title.text if title is not None else "<NO TITLE>"}')
+
+      - name: Prepare inventories and policy
+        run: python tools/setup_reprocessing.py
+
+      - name: Build Chapters 14-54 sanitization review queue
+        run: |
+          python tools/build_sanitization_candidates.py
+          python tools/build_sanitization_shortlist.py
+
+      - name: Verify source integrity and tracking
+        run: |
+          python tools/verify_recovery.py
+          python tools/rebuild_editorial_tracking.py
+          python -m unittest discover -s tests -v
+          git diff --check
+
+      - name: Commit prepared state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editorial recovery tools
+          if ! git diff --cached --quiet; then
+            git commit -m "editorial: refresh reprocessing evidence and audit queue"
+            git push origin HEAD:editorial/reprocess-0014-0125
+          fi
