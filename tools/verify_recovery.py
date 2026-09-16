@@ -63,8 +63,12 @@ def main():
             require('EPUB/' + item.attrib['href'] in z.namelist(), 'Missing package resource: '+item.attrib['href'])
         for ref in package.findall('opf:spine/opf:itemref', ns):
             require(ref.attrib['idref'] in items, 'Unresolved spine reference')
-    total_korean = 54 + supplemental['chapter_count']
-    print(f"PASS: preserved Korean 001-054 archive plus {supplemental['chapter_count']} supplemental raws ({total_korean} Korean chapters total); artifact hashes (including original audit), 493 MTL source hashes, archive members, 524 EPUB snapshot members, XML parsing, EPUB manifest and spine.")
+    print(
+        f"PASS: preserved Korean 001-054 archive plus {supplemental['file_count']} supplemental raw files "
+        f"declaring {supplemental['source_chapter_count_declared']} source chapters; artifact hashes "
+        f"(including original audit), 493 MTL source hashes, archive members, 524 EPUB snapshot members, "
+        f"XML parsing, EPUB manifest and spine."
+    )
 
 
 if __name__ == '__main__':
