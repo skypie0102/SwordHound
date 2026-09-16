@@ -1,0 +1,86 @@
+{
+  "chapter": 1,
+  "title": "Hellhound (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Hellhound",
+    "range": [1, 3],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/hellhound-0001-0003.md",
+      "blob_sha": "3b983b37269ec586d8bf3602f7b1029e44459529",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/001.txt",
+    "blob_sha": "fa9dfcf2f15c575d3a5971a93b9951d1ae0d0431",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-001.xhtml",
+    "blob_sha": "93188cc599feec0ec8bbfc1e326fe3b70d2be0eb",
+    "target_alignment": 1,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville",
+      "applies_to": ["Vikir Van Baskerville", "Van naming status", "Hellhound (1) first appearance"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Hugo_Le_Baskerville",
+      "applies_to": ["Hugo Le Baskerville", "Marquis", "Patriarch"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Baskerville_Clan",
+      "applies_to": ["Baskerville Clan", "Iron-Blooded Sword Clan", "Le/La/Van naming distinction", "Cradle of Swords", "River Styx"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Grand_Mansion_of_the_Baskerville_Clan",
+      "applies_to": ["Cradle of Swords", "River Styx"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0001.md",
+    "blob_sha": "c92ac8fbb549d26c247d91b4cb2724f5927d1d20"
+  },
+  "qa": {
+    "path": "qa/chapter-0001.md",
+    "blob_sha": "724feed13f29281703f6f54a6c4a458dd747ec6b",
+    "status": "pass"
+  },
+  "documented_conflicts": [
+    {
+      "topic": "Hugo noble title",
+      "chinese": "伯爵 (Count)",
+      "final": "Marquis",
+      "basis": "Fandom canonical English title; Chinese conflict retained in QA"
+    },
+    {
+      "topic": "Baskerville name particles",
+      "chinese": "localized/transliterated main-line variants",
+      "final": "Le/La for main family; Van for secondary/illegitimate line",
+      "basis": "Fandom Baskerville Clan naming-system evidence"
+    },
+    {
+      "topic": "Vikir infant age",
+      "chinese": "just reached 100 days earlier; later not yet 100 days",
+      "final": "source inconsistency preserved in context",
+      "basis": "no unsupported reconciliation"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored execution placard",
+    "restored carved-into-stone victory wording",
+    "restored live-again wish",
+    "repaired birth-celebration machine translation",
+    "restored Hugo watch-my-back dialogue",
+    "restored young-master Styx line",
+    "corrected Hugo final reaction"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}
