@@ -1,0 +1,1479 @@
+{
+  "range": [
+    14,
+    125
+  ],
+  "production_branches_scanned": [
+    "origin/production/batch-0008-0010",
+    "origin/production/batch-bared-teeth-0018-0019",
+    "origin/production/batch-blood-relatives-0067-0070",
+    "origin/production/batch-camus-morgue-0020-0025",
+    "origin/production/batch-hounds-of-hell-0008-0011",
+    "origin/production/batch-lovesickness-0082-0083",
+    "origin/production/batch-morgues-united-front-0040-0042",
+    "origin/production/batch-slave-auction-0035-0037",
+    "origin/production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+    "origin/production/batch-solitary-0014-0017",
+    "origin/production/batch-special-laws-of-vikir-0028-0031",
+    "origin/production/batch-sponsored-0038-0039",
+    "origin/production/batch-the-fiancee-0043-0045",
+    "origin/production/batch-the-ghosts-of-the-ancestors-0089-0093",
+    "origin/production/batch-the-gluttonous-flies-0012-0013",
+    "origin/production/batch-the-graduate-0026-0027",
+    "origin/production/batch-the-hound-of-the-night-0074-0076",
+    "origin/production/batch-the-hunter-and-the-hunted-0055-0059",
+    "origin/production/batch-the-husband-hunt-0046-0051",
+    "origin/production/batch-the-illiad-0084-0088",
+    "origin/production/batch-the-protagonist-of-hunting-0060-0062",
+    "origin/production/batch-the-red-death-0071-0073",
+    "origin/production/batch-the-saintess-0077-0081",
+    "origin/production/batch-the-social-club-0032-0034",
+    "origin/production/batch-unfair-trade-0063-0066",
+    "origin/production/chapter-0005",
+    "origin/production/chapter-0006",
+    "origin/production/chapter-0007",
+    "origin/production/chapter-0008"
+  ],
+  "chapters": [
+    {
+      "chapter": 14,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-solitary-0014-0017",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0014.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 15,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-solitary-0014-0017",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0015.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 16,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-solitary-0014-0017",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0016.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 17,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-solitary-0014-0017",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0017.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 18,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-bared-teeth-0018-0019",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0018.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 19,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-bared-teeth-0018-0019",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0019.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 20,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-camus-morgue-0020-0025",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0020.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 21,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-camus-morgue-0020-0025",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0021.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 22,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-camus-morgue-0020-0025",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0022.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 23,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-camus-morgue-0020-0025",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0023.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 24,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-camus-morgue-0020-0025",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0024.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 25,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-camus-morgue-0020-0025",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0025.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 26,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-graduate-0026-0027",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0026.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 27,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-graduate-0026-0027",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0027.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 28,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-special-laws-of-vikir-0028-0031",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0028.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 29,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-special-laws-of-vikir-0028-0031",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0029.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 30,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-special-laws-of-vikir-0028-0031",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0030.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 31,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-special-laws-of-vikir-0028-0031",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0031.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 32,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-social-club-0032-0034",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0032.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 33,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-social-club-0032-0034",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0033.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 34,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-social-club-0032-0034",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0034.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 35,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-slave-auction-0035-0037",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0035.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 36,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-slave-auction-0035-0037",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0036.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 37,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-slave-auction-0035-0037",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0037.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 38,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-sponsored-0038-0039",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0038.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 39,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-sponsored-0038-0039",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0039.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 40,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-morgues-united-front-0040-0042",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0040.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 41,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-morgues-united-front-0040-0042",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0041.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 42,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-morgues-united-front-0040-0042",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0042.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 43,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-fiancee-0043-0045",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0043.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 44,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-fiancee-0043-0045",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0044.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 45,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-fiancee-0043-0045",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0045.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 46,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-husband-hunt-0046-0051",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0046.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 47,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-husband-hunt-0046-0051",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0047.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 48,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-husband-hunt-0046-0051",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0048.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 49,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-husband-hunt-0046-0051",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0049.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 50,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-husband-hunt-0046-0051",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0050.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 51,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-husband-hunt-0046-0051",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0051.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 52,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0052.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 53,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0053.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 54,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-slaves-of-the-barbarian-tribe-0052-0054",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0054.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 55,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0055.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 56,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0056.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 57,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0057.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 58,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0058.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 59,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hunter-and-the-hunted-0055-0059",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0059.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 60,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-protagonist-of-hunting-0060-0062",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0060.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 61,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-protagonist-of-hunting-0060-0062",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0061.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 62,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-protagonist-of-hunting-0060-0062",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0062.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 63,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-unfair-trade-0063-0066",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0063.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 64,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-unfair-trade-0063-0066",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0064.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 65,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-unfair-trade-0063-0066",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0065.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 66,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-unfair-trade-0063-0066",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0066.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 67,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-blood-relatives-0067-0070",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0067.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 68,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-blood-relatives-0067-0070",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0068.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 69,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-blood-relatives-0067-0070",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0069.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 70,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-blood-relatives-0067-0070",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0070.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 71,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-red-death-0071-0073",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0071.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 72,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-red-death-0071-0073",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0072.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 73,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-red-death-0071-0073",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0073.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 74,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hound-of-the-night-0074-0076",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0074.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 75,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hound-of-the-night-0074-0076",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0075.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 76,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-hound-of-the-night-0074-0076",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0076.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 77,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-saintess-0077-0081",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0077.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 78,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-saintess-0077-0081",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0078.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 79,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-saintess-0077-0081",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0079.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 80,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-saintess-0077-0081",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0080.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 81,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-saintess-0077-0081",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0081.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 82,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-lovesickness-0082-0083",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0082.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 83,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-lovesickness-0082-0083",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0083.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 84,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-illiad-0084-0088",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0084.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 85,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-illiad-0084-0088",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0085.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 86,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-illiad-0084-0088",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0086.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 87,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-illiad-0084-0088",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0087.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 88,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-illiad-0084-0088",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": "editorial/reviews/chapter-0088.md",
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 89,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": null,
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 90,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": null,
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 91,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": null,
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 92,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": null,
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 93,
+      "claimed_branches": [
+        {
+          "branch": "production/batch-the-ghosts-of-the-ancestors-0089-0093",
+          "files": {
+            "draft": null,
+            "edit_set": null,
+            "qa_json": null,
+            "review": null,
+            "final_review": null
+          }
+        }
+      ],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 94,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 95,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 96,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 97,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 98,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 99,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 100,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 101,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 102,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 103,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 104,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 105,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 106,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 107,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 108,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 109,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 110,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 111,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 112,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 113,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 114,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 115,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 116,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 117,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 118,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 119,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 120,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 121,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 122,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 123,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 124,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    },
+    {
+      "chapter": 125,
+      "claimed_branches": [],
+      "has_production_baseline": false
+    }
+  ]
+}

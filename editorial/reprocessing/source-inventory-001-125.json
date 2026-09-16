@@ -1,0 +1,1756 @@
+{
+  "range": [
+    1,
+    125
+  ],
+  "korean_present_count": 123,
+  "korean_missing": [
+    55,
+    76
+  ],
+  "mtl_missing": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/001.txt",
+        "bytes": 8968,
+        "sha256": "2d82b95faaa6968b72dc6acdf18160984a28699cac7e1be232c2529eb0e1c64f"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-001.xhtml",
+        "bytes": 10760,
+        "sha256": "475fe7ffc331bc2a79255108ada508a811d104d6ec3101d2e8b9bd31aaf99382"
+      }
+    },
+    {
+      "chapter": 2,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/002.txt",
+        "bytes": 11437,
+        "sha256": "4a24ecbace17f09b6e9e83adabf6257914aa6abcda80f718eb9a646badc9f136"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-002.xhtml",
+        "bytes": 13483,
+        "sha256": "f8b281777c3a6b7636fee8be5ca7c3722f55b0535f0c23a453dce10cdbf0b8a5"
+      }
+    },
+    {
+      "chapter": 3,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/003.txt",
+        "bytes": 9589,
+        "sha256": "6226812ad8bb5b3eb8c66dd34a3a56691b66744d95a10728c1c8fb85b1caab1a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-003.xhtml",
+        "bytes": 11733,
+        "sha256": "2d97fb997e88597d6c717ab02b97bf048b096c53936568d2abc6a28004d39076"
+      }
+    },
+    {
+      "chapter": 4,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/004.txt",
+        "bytes": 11236,
+        "sha256": "5f4fd2b8c5d78d3b6b141557ec61dac0ec7f706add446ce0fa9538d46ed7c221"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-004.xhtml",
+        "bytes": 13948,
+        "sha256": "9b3954220539f78e6b0bc7c0c13ed2846fce8cfe4af9004ed74f3ccb706cca0b"
+      }
+    },
+    {
+      "chapter": 5,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/005.txt",
+        "bytes": 12003,
+        "sha256": "65c416b6d8a09534b0a2bf4eed602cc91d3b47ed80a0e1e8f536034be1bd6ee9"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-005.xhtml",
+        "bytes": 15635,
+        "sha256": "7ba389ee1e36d3b0beedf8c0dded8e6d863e6647a59fab9b716ec854630f53bd"
+      }
+    },
+    {
+      "chapter": 6,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/006.txt",
+        "bytes": 10708,
+        "sha256": "98f2e69064d358227ce68d32c0f576c20b1d007ad5c56d0b0afa244e4a0cd567"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-006.xhtml",
+        "bytes": 13524,
+        "sha256": "e3d04aedc45bede6f35674fba1189ac452f76189c94802afe3fb818271eff938"
+      }
+    },
+    {
+      "chapter": 7,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/007.txt",
+        "bytes": 11794,
+        "sha256": "e2162bd21803c27643465970557aac3ffe7bcede3460982362cc841e3295a7f4"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-007.xhtml",
+        "bytes": 14550,
+        "sha256": "857afae47af7eab43b52d7a578664446df0a711bfdb2d31e9184ea9d80d440cb"
+      }
+    },
+    {
+      "chapter": 8,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/008.txt",
+        "bytes": 10159,
+        "sha256": "04c2b50afb454f6d6068492e080b813870afd8a042abd2d538259b0e6edb839f"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-008.xhtml",
+        "bytes": 12147,
+        "sha256": "d0174210fffb9ee884a456e0c70d31f6c5de6620de3da01193210fcdd288d26f"
+      }
+    },
+    {
+      "chapter": 9,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/009.txt",
+        "bytes": 15552,
+        "sha256": "c138ca1813382e341b1b9a0a330a7761e9a9f16ebb8e3516023a73fe4ae9c1e0"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-009.xhtml",
+        "bytes": 17833,
+        "sha256": "bde389754e2c64cc279949fd5a6e260768af2a294a3135f826879c7f167454b7"
+      }
+    },
+    {
+      "chapter": 10,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/010.txt",
+        "bytes": 11905,
+        "sha256": "72d8f7f1c9ca55c2c4904d9df5ecb0cae5262ce625e02b529e6f25cb1ecc5586"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-010.xhtml",
+        "bytes": 13733,
+        "sha256": "67ab38d1c1e0fe7543833696b5147599cfaa5f796e2726bdabc22fbbe6131f20"
+      }
+    },
+    {
+      "chapter": 11,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/011.txt",
+        "bytes": 15802,
+        "sha256": "24988d46d5a1a48115fcb42eab2ea7e99e2702f4e253aa26b3b12391994ed7a1"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-011.xhtml",
+        "bytes": 19160,
+        "sha256": "3e33fad1699136e0baf0506c349abfd068ac7411893aeb6199753c77b90b8268"
+      }
+    },
+    {
+      "chapter": 12,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/012.txt",
+        "bytes": 12032,
+        "sha256": "38d0e42019a9aba00b809e4fc8685ff49f99b40357407961360b05a43a401305"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-012.xhtml",
+        "bytes": 14772,
+        "sha256": "2f04dc2121d6667bab974b49dcbc49c623a9c41ae77c5f0330d55b8263db3b22"
+      }
+    },
+    {
+      "chapter": 13,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/013.txt",
+        "bytes": 12394,
+        "sha256": "f44e049710f465061adfd8416be5e490ff3e0be2e584ffc2ffd3e1745acb83c5"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-013.xhtml",
+        "bytes": 16402,
+        "sha256": "2bef27c163e103c90c2af57bd7170d4ed16782b7035e8919b14513e30865be14"
+      }
+    },
+    {
+      "chapter": 14,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/014.txt",
+        "bytes": 14307,
+        "sha256": "3076ff8dd328c7fb64bccdb5231586a667a6c7a3047eaa23f1bbc7039d01b07d"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-014.xhtml",
+        "bytes": 16875,
+        "sha256": "35e458b6d316860a1474c08c1d2c497c2bc67119028c897e1f98601210d06db9"
+      }
+    },
+    {
+      "chapter": 15,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/015.txt",
+        "bytes": 10793,
+        "sha256": "ea3e459ff222cc88b67a1101d081b5fdffca5199cd73a2c5ce04a29ea2aa07ac"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-015.xhtml",
+        "bytes": 12963,
+        "sha256": "cb3130e17e70572a1c0eca1263cbf6d23ab48df125566db058219fa6a27486a8"
+      }
+    },
+    {
+      "chapter": 16,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/016.txt",
+        "bytes": 9165,
+        "sha256": "d69f3b90e75f90d988586453eb49e59720eb894467f80b2bc33b51003c10b195"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-016.xhtml",
+        "bytes": 10512,
+        "sha256": "92ed89fa126d4831d9bfa6f46e5955e3894aebcd5d920db51a405a104985be93"
+      }
+    },
+    {
+      "chapter": 17,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/017.txt",
+        "bytes": 12048,
+        "sha256": "a2f08408ef117d007d55c5bdd7975d701f2141eaa640bcb63a9eeeda43a59e4e"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-017.xhtml",
+        "bytes": 13564,
+        "sha256": "1cb05175a4d0d7b6ee2dab0e5375d566f9795188c0f3aa769e9dd156917b8c79"
+      }
+    },
+    {
+      "chapter": 18,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/018.txt",
+        "bytes": 13733,
+        "sha256": "941530fabe7faf3f3df8f41cde94953e994ce2a77681724ef59e4433b6c4280f"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-018.xhtml",
+        "bytes": 16634,
+        "sha256": "c5354b68df9a5adcf53fe9b10f09b06eeccee24c44ff34cb66cd688fa31c9fb1"
+      }
+    },
+    {
+      "chapter": 19,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/019.txt",
+        "bytes": 13241,
+        "sha256": "0b935d5a522cb9eb46e29e197e435f7802335ec0fd9725074c843730064e5f2a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-019.xhtml",
+        "bytes": 16038,
+        "sha256": "99e5bb2f8fdd19bea162356bb1fd4ae575f89f11ed6f6273499b5f5adbbc20a0"
+      }
+    },
+    {
+      "chapter": 20,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/020.txt",
+        "bytes": 17799,
+        "sha256": "4b02b8957c5375be905d2a3b121c67251513e0ef04f5c46deba25fadcf4dbd05"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-020.xhtml",
+        "bytes": 20555,
+        "sha256": "3c67cb7b65b7f26a7a5b5c0cf1bcc52c790388c4bbd3c4b60b7ba70f7bdaa272"
+      }
+    },
+    {
+      "chapter": 21,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/021.txt",
+        "bytes": 8109,
+        "sha256": "53f00b1de5e5d3abbfb677ec4d9b18689d133d29a9853953d437092554758584"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-021.xhtml",
+        "bytes": 10339,
+        "sha256": "a19976368cb3ee715a1011f693b4cc8974cffd5efdffd8c9fe3500d9f2979bdd"
+      }
+    },
+    {
+      "chapter": 22,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/022.txt",
+        "bytes": 11868,
+        "sha256": "913a49cebeb0c3319116a3dbf2f16e6f61ebe1250e0ff3f23cc8d71e2f71d9d6"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-022.xhtml",
+        "bytes": 13942,
+        "sha256": "09cb91279591fe68c83fe4e2408b36ff4cfbb1e475426e51d9bb7b2f82ea1f0d"
+      }
+    },
+    {
+      "chapter": 23,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/023.txt",
+        "bytes": 13775,
+        "sha256": "2cc29de0d3fdc5c0ac29a44d0f1bb995f0892bbfa3ce0ab911cd3e857812c743"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-023.xhtml",
+        "bytes": 16870,
+        "sha256": "5f62b41a43b91b2b1b080009083e511c814fe58fbcfba5d3306affa95e4cd020"
+      }
+    },
+    {
+      "chapter": 24,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/024.txt",
+        "bytes": 19666,
+        "sha256": "bf78d739049bd9df40b4a41ef376e75d1ca9ccc05bf2cba3555bfd569d4f2c7b"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-024.xhtml",
+        "bytes": 23485,
+        "sha256": "9b1d509bf981fe70e95dff8b603033d09a2176bb1bc3c62c4bf7895cb5023de2"
+      }
+    },
+    {
+      "chapter": 25,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/025.txt",
+        "bytes": 11763,
+        "sha256": "2b2cae03c961948ee5a87d96d78bf05b378e13a978f6b2d6cb154f5b0b043376"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-025.xhtml",
+        "bytes": 14284,
+        "sha256": "47d01ac94c16f3edd75ca99253ab327cf549d58a8e948430d55831a7cdf39c84"
+      }
+    },
+    {
+      "chapter": 26,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/026.txt",
+        "bytes": 15513,
+        "sha256": "af2ae23051226baa8c6bbb96dba58cd92e3dbc25fee90b3c53a8b0f1dedfad02"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-026.xhtml",
+        "bytes": 17658,
+        "sha256": "dfb2c8ea219ac2ad90e9b4a746c6ac5b367dbc057243a74e5d2e20255156e02d"
+      }
+    },
+    {
+      "chapter": 27,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/027.txt",
+        "bytes": 14114,
+        "sha256": "2d585b8fdf90e6c4db5b0dd252ddfb3a42e39178385855c2cb70964ba0f5b4df"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-027.xhtml",
+        "bytes": 16574,
+        "sha256": "329295fb2a6963b4763d8a8cbf95cafeeffdf599602e1bd795ef1eae86cdfa2a"
+      }
+    },
+    {
+      "chapter": 28,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/028.txt",
+        "bytes": 11613,
+        "sha256": "a75eae99aabb41564bcccdf4f4e858ab82f27f0374c26aa431dd9e649806d792"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-028.xhtml",
+        "bytes": 14343,
+        "sha256": "9b834bc3ee13a55279ac292ac5e024560ae2e8c3983ef096b24bfd14608fdf9d"
+      }
+    },
+    {
+      "chapter": 29,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/029.txt",
+        "bytes": 10329,
+        "sha256": "041e857914c7a30a1c4d26979a37da05a56c71a0d59768f196146cf9952b6a61"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-029.xhtml",
+        "bytes": 13255,
+        "sha256": "86b5ecd01b17db383b3a5633c4c76c05268194d8b25a78d65ade13a3b0c20db2"
+      }
+    },
+    {
+      "chapter": 30,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/030.txt",
+        "bytes": 11447,
+        "sha256": "32fac3c69f7b2edebafd40832c98ca2e426a7807b4a8dd44c7f7eb3539fb9812"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-030.xhtml",
+        "bytes": 14788,
+        "sha256": "cf877254fa73a7e4528b89ea130a9e6405ee5522e2e3f39c608d06d046a14d7e"
+      }
+    },
+    {
+      "chapter": 31,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/031.txt",
+        "bytes": 11286,
+        "sha256": "094f6fc26c1e0281b5e6aa94a2959d3610115177b8d26b136d7b244a5e7c8c27"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-031.xhtml",
+        "bytes": 13466,
+        "sha256": "5ce220bf8eba375bc73d5aa67616688b0a929d9393719bffe2d5597c11220dcd"
+      }
+    },
+    {
+      "chapter": 32,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/032.txt",
+        "bytes": 15726,
+        "sha256": "b0549aa1300faff23832bff0dc402adb0b9b2d16527225550e14edac5109f57c"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-032.xhtml",
+        "bytes": 18719,
+        "sha256": "3c0fb1fdfb5727eabf9547c89e66aebd58bbe6b7ea3935ea7c8e8c09eb80ef3f"
+      }
+    },
+    {
+      "chapter": 33,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/033.txt",
+        "bytes": 11296,
+        "sha256": "dce05dc1329c7fd22fc78f570a857a02de030871da87ac3a4980851647f99b0a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-033.xhtml",
+        "bytes": 13170,
+        "sha256": "857c2e9eafa9b9f859eb6efc821de54f9cd06e443c610d1732fa848071f1f691"
+      }
+    },
+    {
+      "chapter": 34,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/034.txt",
+        "bytes": 16054,
+        "sha256": "2fe68006da8e2beebc0194cf27e11e1c2a52ead4b851775e9cf22887b2152e0e"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-034.xhtml",
+        "bytes": 20343,
+        "sha256": "cc090a8b09b82a9a5626e6fb512e814ba9230b6573930c82c3d04ad684811e39"
+      }
+    },
+    {
+      "chapter": 35,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/035.txt",
+        "bytes": 12909,
+        "sha256": "1517e969c79d205d488f819c8bdf029f9af1280a35559ab7941bcfe84aa15a68"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-035.xhtml",
+        "bytes": 15998,
+        "sha256": "2eb51155b2186ed521e7beb9b6f439ce67dca7291c210e0a6c4064f2b3866755"
+      }
+    },
+    {
+      "chapter": 36,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/036.txt",
+        "bytes": 12885,
+        "sha256": "b88f3fc84340954e48cdf9d8fbd2549e5bc316c35def9402df859267d5d55323"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-036.xhtml",
+        "bytes": 16427,
+        "sha256": "aaf7990b0408ec3cebf3cbd77858fa532514528df1ca4b6025dbb67ecdda5d1e"
+      }
+    },
+    {
+      "chapter": 37,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/037.txt",
+        "bytes": 13440,
+        "sha256": "eb3f2190bc348429a8386026ff0b7bfa3548b18f0fb45d11e21ec75b6e51df6b"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-037.xhtml",
+        "bytes": 15991,
+        "sha256": "4eaf81993c2e454ab44cbb77b1ea7b479d21eabc2cd419a52895b3775425dd94"
+      }
+    },
+    {
+      "chapter": 38,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/038.txt",
+        "bytes": 11938,
+        "sha256": "932c1705065619e17280421755e946428c3260aca21018210564f03d43b3c24a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-038.xhtml",
+        "bytes": 13896,
+        "sha256": "6ce057ca2e42e3faafff0ced994e6692317086481a63aeeb805fdf0372424494"
+      }
+    },
+    {
+      "chapter": 39,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/039.txt",
+        "bytes": 17080,
+        "sha256": "b0b8bc84973d63f56e79d9708ba72bbde91bcfc2dd1d15368b76c5596f74383a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-039.xhtml",
+        "bytes": 22836,
+        "sha256": "a32ab02d1e4b27e1157a90b162f94630ae461b645cbf7db1b87f326dee31c980"
+      }
+    },
+    {
+      "chapter": 40,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/040.txt",
+        "bytes": 14180,
+        "sha256": "7e1519a55867e6c513b44c593e070154d5e354b7dc0a43cb4be97425915e7064"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-040.xhtml",
+        "bytes": 18428,
+        "sha256": "8e7210c3270f59a88623eba1ea2067acdff081db666449b2c83a283601d361dd"
+      }
+    },
+    {
+      "chapter": 41,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/041.txt",
+        "bytes": 9964,
+        "sha256": "3d7f2a1fe3b89298f664df9b8a9d3eda2fe144b9e4e93f2426eca0c2a42fb5c3"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-041.xhtml",
+        "bytes": 15139,
+        "sha256": "013a16b8233d36b924bd7546185614a5d1e191ff28ffc2604c25107ab06755af"
+      }
+    },
+    {
+      "chapter": 42,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/042.txt",
+        "bytes": 11641,
+        "sha256": "778a4a1642ce747c5090c4708dad5a299a737219d842dd41d1c8711b33abcb4d"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-042.xhtml",
+        "bytes": 14331,
+        "sha256": "29c38a81139f047f526fc25e42b2f3e1cbac7fabd917bfdc1b74cd1b3da65058"
+      }
+    },
+    {
+      "chapter": 43,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/043.txt",
+        "bytes": 12639,
+        "sha256": "aff145ef7504f10fed0d6e3f5ed6e7e8f328ae503ecaf5f0577dbe348efc121c"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-043.xhtml",
+        "bytes": 15599,
+        "sha256": "a9c8cf46968940fd370e44fe619ee5f9e1d8b9b544583bd80d4ff89202dc0510"
+      }
+    },
+    {
+      "chapter": 44,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/044.txt",
+        "bytes": 14338,
+        "sha256": "ffc112b09ce8e8e0010c288f881f74ab0f29093b28422dc60c3c4115aa6410a9"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-044.xhtml",
+        "bytes": 18020,
+        "sha256": "7c8c996bb74b2e471101eb2b532d6a0bde550331c5a0e155f294d9d5a0cca71c"
+      }
+    },
+    {
+      "chapter": 45,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/045.txt",
+        "bytes": 16774,
+        "sha256": "5ac60d299db0263c1ced253f873473c47a4768e4650598542f37b11b5b1e45ac"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-045.xhtml",
+        "bytes": 19229,
+        "sha256": "5d7421e5defc246ebf2d61e02e2cd6eeff47360505b2e1e3cde5201c51d59da2"
+      }
+    },
+    {
+      "chapter": 46,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/046.txt",
+        "bytes": 10572,
+        "sha256": "f8fc5bc8fb596d187bab16582ff4796ca2a9dbe809c6bb45772d38065da445f2"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-046.xhtml",
+        "bytes": 12976,
+        "sha256": "9d6f4241177fe659067e50f356b0f4810537e397fb25f00a3497624534ecb8b6"
+      }
+    },
+    {
+      "chapter": 47,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/047.txt",
+        "bytes": 12672,
+        "sha256": "e804b6796158ce55ce90de8cd77f1a166a047a1e2f9a2fe0dcd6121358ca4430"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-047.xhtml",
+        "bytes": 15247,
+        "sha256": "82fad2e1333007020f82a2d1ca923d078250709c283243aedcbad7f1d954fc37"
+      }
+    },
+    {
+      "chapter": 48,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/048.txt",
+        "bytes": 13226,
+        "sha256": "a2b6222f33b64797872e7c0d6e090e0536990c0dcd88129ec2882ded3f32de78"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-048.xhtml",
+        "bytes": 15907,
+        "sha256": "48b1e8241acb6bddf80351ad83e0f7ed73de2e11bf465bf5376c3670aaa2ec7d"
+      }
+    },
+    {
+      "chapter": 49,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/049.txt",
+        "bytes": 8355,
+        "sha256": "c218a71e031d9ee770f10f69f47de5bc30e176b1e1a2340f383ace32936b3dbc"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-049.xhtml",
+        "bytes": 13309,
+        "sha256": "1ea0676b0a682191542d759cd4b912b2d89cb1346c56f7701c601a577f255e84"
+      }
+    },
+    {
+      "chapter": 50,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/050.txt",
+        "bytes": 13490,
+        "sha256": "77c689e86292442bb397f9149dfce701340e00cde85612745e0f6e6980f73f80"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-050.xhtml",
+        "bytes": 16038,
+        "sha256": "ef5b7fd360fd555a3fb6de1d98f54ec1367231120301cba23483dd1bdb2eebf7"
+      }
+    },
+    {
+      "chapter": 51,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/051.txt",
+        "bytes": 11667,
+        "sha256": "369eefda3c942299f8eae40ce6ef5c0cc1548d6d16a5c3fa8dc47c05256d4672"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-051.xhtml",
+        "bytes": 13909,
+        "sha256": "3c042854eb9b7ddf23cff69ac0505b399f8cdc31eafcf1a7cf99cb6ac7dc9a14"
+      }
+    },
+    {
+      "chapter": 52,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/052.txt",
+        "bytes": 12783,
+        "sha256": "35f48247a6e90922d0c7874367fc1be377271fbbae222d4e1c77902362322e52"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-052.xhtml",
+        "bytes": 14211,
+        "sha256": "f7b1aaa767be576e2a6255226d18166ba6b0ef33944d0323a066b9e004c74f9e"
+      }
+    },
+    {
+      "chapter": 53,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/053.txt",
+        "bytes": 12492,
+        "sha256": "47bc30f875306863cae657f93b54e4895d729d5cd5bbeeb3fa05e8eedf677d90"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-053.xhtml",
+        "bytes": 15498,
+        "sha256": "1dbb04acdd0a74fce0c257afd871a4fa0ee896cdc9e76ce36a258204498d41ec"
+      }
+    },
+    {
+      "chapter": 54,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/054.txt",
+        "bytes": 23617,
+        "sha256": "ec9e71f9b5b87398c785e29ded68f0eb5e115f69164556ac19e6dd669ff388bf"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-054.xhtml",
+        "bytes": 15824,
+        "sha256": "3c2bf6f5db67fa3a2a51833980bcefef9b7314ff2502d0fdda291c2d7b19a416"
+      }
+    },
+    {
+      "chapter": 55,
+      "basis": "mtl_only",
+      "korean": null,
+      "mtl": {
+        "path": "source/chapters/chapter-055.xhtml",
+        "bytes": 15559,
+        "sha256": "cfa7f4c988b5d0301a5822eeb710e5a2d03ae69fe2f8db813a57acc086c52c6a"
+      }
+    },
+    {
+      "chapter": 56,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/056.txt",
+        "bytes": 11889,
+        "sha256": "a6519810b2996be2b3b6da8668b0ff68d89448ac82f3051c95ea9ee59c459329"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-056.xhtml",
+        "bytes": 14628,
+        "sha256": "f5303bac515b8a6bc3c0757042dfdf130df99580ff47bfec079c39aedede51f8"
+      }
+    },
+    {
+      "chapter": 57,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/057.txt",
+        "bytes": 12881,
+        "sha256": "59467793490758968e726b8012f9b61b5759c5cf52e81998674bd1f8cdb6622b"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-057.xhtml",
+        "bytes": 11525,
+        "sha256": "b74cb2c00615bdc9ab72f611e6b18fd9c1b45fd930312e641d976c1d111b79dc"
+      }
+    },
+    {
+      "chapter": 58,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/058.txt",
+        "bytes": 9518,
+        "sha256": "f72513fa7b6e2b16a1b436d171e2ee22fda3d82c12f0922abc0959bcef75410f"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-058.xhtml",
+        "bytes": 16736,
+        "sha256": "8605218a257b309271c210c8af1e12035cea519519ec098ba6321ac445d66f68"
+      }
+    },
+    {
+      "chapter": 59,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/059.txt",
+        "bytes": 14411,
+        "sha256": "49fe80fed2db2fd197776c55be3b3075aa9c4eb32ef822fb0996ebff4d879f94"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-059.xhtml",
+        "bytes": 16032,
+        "sha256": "f71d059425483ff691f0e0ce68d8c56f090dc07e6d247d8dd75bb46c9519954f"
+      }
+    },
+    {
+      "chapter": 60,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/060.txt",
+        "bytes": 12359,
+        "sha256": "de75e037be822dfe65c53958c1707e5575870c972c5559b9aeeb8ce5d6c8e26f"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-060.xhtml",
+        "bytes": 15552,
+        "sha256": "82c6e8364ab1865a3b0efc6a2d8fc15f5826c40f350d96f223b616d031f71acf"
+      }
+    },
+    {
+      "chapter": 61,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/061.txt",
+        "bytes": 13043,
+        "sha256": "79ac7dedf5a98cefd80b25d853ea68fdc368bd8c1931b24cba575070d31473ee"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-061.xhtml",
+        "bytes": 15715,
+        "sha256": "746f21d552b07dd68f4859ae3b1dbe5cbe2da457cf6e965055970901fe8feb2b"
+      }
+    },
+    {
+      "chapter": 62,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/062.txt",
+        "bytes": 12900,
+        "sha256": "9ddf488935cb21416496fde55ad51c6ee8af8b07aac27e6994c45577b8dd75f9"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-062.xhtml",
+        "bytes": 16931,
+        "sha256": "28c311e54041fe66b475b9e972c0957d6291695378e95d36dcd6961804e315fa"
+      }
+    },
+    {
+      "chapter": 63,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/063.txt",
+        "bytes": 13950,
+        "sha256": "d277e5661b3cb16b7d21882c5002f906fdc573d9fe5f99eb1beb354ca1c1421e"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-063.xhtml",
+        "bytes": 15943,
+        "sha256": "99dd30afc8d9d6cd02d0e03d41f6fff7db201bf8b8db8352315da22c24804341"
+      }
+    },
+    {
+      "chapter": 64,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/064.txt",
+        "bytes": 13873,
+        "sha256": "6e9150513dbc2ae579551846c2861dfb046dc3f26fe58155466e912e8c0ada91"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-064.xhtml",
+        "bytes": 22386,
+        "sha256": "3e489a4f33db5163ef699cdf919aee4a6c3e23187ff03e84fa0da58b6c29fb79"
+      }
+    },
+    {
+      "chapter": 65,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/065.txt",
+        "bytes": 18803,
+        "sha256": "d2bef4c045d7714806bdb6b0c4228153d27ef91760bf75b16066fc5d214efaaa"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-065.xhtml",
+        "bytes": 21388,
+        "sha256": "d8ff3c99890e1093c00aea3b942bb1d381986c02270b67e357c090d9ccc7ad29"
+      }
+    },
+    {
+      "chapter": 66,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/066.txt",
+        "bytes": 16550,
+        "sha256": "34593cabc81f6caf0f0dd579e524801931951fb4b8c835cb50bb79473549b377"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-066.xhtml",
+        "bytes": 19106,
+        "sha256": "d23de206d4f42e71ebcb9f0fe0053dd3d2c751d9bbefcb744706d865e6c38080"
+      }
+    },
+    {
+      "chapter": 67,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/067.txt",
+        "bytes": 15920,
+        "sha256": "ef6fd4374490db5bf07209033c829ee40a4eac91c57bb161f20b391845646152"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-067.xhtml",
+        "bytes": 13952,
+        "sha256": "52e0d133f73c6adeb9856249ca83c9746ef507e5ed027b3abb54bce806bbca5a"
+      }
+    },
+    {
+      "chapter": 68,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/068.txt",
+        "bytes": 11902,
+        "sha256": "abe91a28a1295292a24dcc5c122cddd3addb345166aebf918224b3b56b572344"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-068.xhtml",
+        "bytes": 17000,
+        "sha256": "8043eabce07556f67da7fd4fbe789f9b3d356a7bae9ef038c0cf8988f8d0e5df"
+      }
+    },
+    {
+      "chapter": 69,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/069.txt",
+        "bytes": 14492,
+        "sha256": "c8904b7766eb07bb36f0da16f5a8935138d05a48f0bdf3ae4d733631f62b33a2"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-069.xhtml",
+        "bytes": 15539,
+        "sha256": "b4bc381726502914c5974b40b19c87ee216e041550a6f858a4adf9ebf6484d49"
+      }
+    },
+    {
+      "chapter": 70,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/070.txt",
+        "bytes": 12838,
+        "sha256": "4e8e0e15f07c887c5ac7a41fe4bc8670f885ac04303af02bf97535e0ceb15ad6"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-070.xhtml",
+        "bytes": 14702,
+        "sha256": "d9e861e250ff2759f3d10724523cf78922297cabf3f8de267cadfaa7e5be6a8e"
+      }
+    },
+    {
+      "chapter": 71,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/071.txt",
+        "bytes": 12205,
+        "sha256": "900fb3ed961cf563b0d218a6e81de5ad0472165ba148538853ad4c0c398acaa6"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-071.xhtml",
+        "bytes": 14300,
+        "sha256": "82b308821696c068a4e5c047bda01837a50e4d9767aadc2b7c302b3b44153afb"
+      }
+    },
+    {
+      "chapter": 72,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/072.txt",
+        "bytes": 12370,
+        "sha256": "eed993074e431f163945c15daec7c0eddddbb7590c0f630c3974373af2a422e9"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-072.xhtml",
+        "bytes": 15537,
+        "sha256": "bb9510ac901f3fe78c85a65b57b2993cedc03a02e0ee7bb333cb71948ae0db6d"
+      }
+    },
+    {
+      "chapter": 73,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/073.txt",
+        "bytes": 12419,
+        "sha256": "ee3b7c9b91ed060c27f376a38cf70cb1ee7c463bf7d723927e3e34a31684af3c"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-073.xhtml",
+        "bytes": 13516,
+        "sha256": "81748b70e80c3b70a606dfb2f993dadf494fce6e7b7f5d12fb1a95962c4468c4"
+      }
+    },
+    {
+      "chapter": 74,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/074.txt",
+        "bytes": 11089,
+        "sha256": "dea6f15787fe8e8071c8ad1a3d0fbe4cb76acf396498afbf0fa4459066edb837"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-074.xhtml",
+        "bytes": 16057,
+        "sha256": "4393a0c0f841098fdcbb3f5ecd1936f63b69e114b9964cadc5a31f202488cd68"
+      }
+    },
+    {
+      "chapter": 75,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/075.txt",
+        "bytes": 21842,
+        "sha256": "ea2445b77962c5df7446e2089009354deb191da4516ab7321f9cbd0d2ffdfc35"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-075.xhtml",
+        "bytes": 12995,
+        "sha256": "89b5fe4aded7975e3e50d9eae07506dfc53b2487059c13bedad3777990a92f09"
+      }
+    },
+    {
+      "chapter": 76,
+      "basis": "mtl_only",
+      "korean": null,
+      "mtl": {
+        "path": "source/chapters/chapter-076.xhtml",
+        "bytes": 18579,
+        "sha256": "b40864d37428babc1dd1ec599397a2dbbfa9ed679d4cba472c730e1bf442a548"
+      }
+    },
+    {
+      "chapter": 77,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/077.txt",
+        "bytes": 16090,
+        "sha256": "dc07abf41516f6dcf8167cd12f5d0f76af227cdff02fba28ba3928d5dd984853"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-077.xhtml",
+        "bytes": 13899,
+        "sha256": "23e194d308a931d7528f578ad5282e7250a40f9327b701ebe519cff85315442b"
+      }
+    },
+    {
+      "chapter": 78,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/078.txt",
+        "bytes": 12104,
+        "sha256": "163c90196508c0f3f74bd3efffef263712bd515660d9c74f0002fcda051962a1"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-078.xhtml",
+        "bytes": 12130,
+        "sha256": "6adec42cd8da37485b21ebb02e4852c4e69935f31db3a3f37d8cf2eefdb2096e"
+      }
+    },
+    {
+      "chapter": 79,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/079.txt",
+        "bytes": 10763,
+        "sha256": "04b38b8d0797964ee8891d87140c75a68bbde9cdfe8021d2e5b584daf3adc013"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-079.xhtml",
+        "bytes": 12922,
+        "sha256": "12bf8149e1f58131c593bb570f0191cd93068c449d2ecd9a44a395684f91c226"
+      }
+    },
+    {
+      "chapter": 80,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/080.txt",
+        "bytes": 10881,
+        "sha256": "f9292671beb61129766705766a5e8f9b70f3aa5291ee566298fe4f352bdeaa32"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-080.xhtml",
+        "bytes": 13301,
+        "sha256": "5b7b167ddbb29b006b67a7da47a1ce6f36a5bdab3c0118bba874c7101f5b95d3"
+      }
+    },
+    {
+      "chapter": 81,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/081.txt",
+        "bytes": 12742,
+        "sha256": "6010788b2e52ebe64e42c2720bb8fb0d36522c68836aef61352a64463537a992"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-081.xhtml",
+        "bytes": 14644,
+        "sha256": "770da2e044533150a1942408c29b3a54f4faa69775c173234c4d5dd82241e696"
+      }
+    },
+    {
+      "chapter": 82,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/082.txt",
+        "bytes": 12292,
+        "sha256": "6ad101118f8c9a1d84ca14d784f8bde99e43340b9703e8998e1e4afe33d8c912"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-082.xhtml",
+        "bytes": 13515,
+        "sha256": "ac394663fabdd1d671eaae41d9d098a1394a739704e17454bf23e755d6b668bf"
+      }
+    },
+    {
+      "chapter": 83,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/083.txt",
+        "bytes": 12744,
+        "sha256": "670ba522d4336f81f256cf3d6af62577610cf7611789d29de2e8f3af884f15df"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-083.xhtml",
+        "bytes": 14146,
+        "sha256": "f8e8ad433ed617076e3ed7190b0e44df62aa75b95873a3cf4e2420b92af75cd3"
+      }
+    },
+    {
+      "chapter": 84,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/084.txt",
+        "bytes": 12322,
+        "sha256": "e3219ce6fbcf69bc289f0bf907135d937285d44c9093faadbc2ebeaac5961c31"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-084.xhtml",
+        "bytes": 15197,
+        "sha256": "43a371789c348bee160058fbb396b54059b7d0cbbe3d6f9eb7378fe60117e701"
+      }
+    },
+    {
+      "chapter": 85,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/085.txt",
+        "bytes": 12788,
+        "sha256": "5d473c5ca8a3b657f5d1c33c42d1be92f8976b31d50087afe62130a3077f1685"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-085.xhtml",
+        "bytes": 12187,
+        "sha256": "4d2789e5ab04516844eb88c901ff15dad5973111939fe6b67f621186f049e06e"
+      }
+    },
+    {
+      "chapter": 86,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/086.txt",
+        "bytes": 10870,
+        "sha256": "ffe2eb9b89f9147c9938cf29ab0dd264833d7719acda390683ce4bb25feb6792"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-086.xhtml",
+        "bytes": 17735,
+        "sha256": "ba3137a088c4d8017047597d2d3dcab0a55f1961cc4447ce5465ec2bdd9ef327"
+      }
+    },
+    {
+      "chapter": 87,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/087.txt",
+        "bytes": 14732,
+        "sha256": "770029bd5799e5a82eee80e19937893fa5f54c52c1e4ea2a803fc66f85e5ca9a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-087.xhtml",
+        "bytes": 14556,
+        "sha256": "59e21e8323fd9f488953b29b8f4d13772fdbecfc17c3faef304d603d40e06651"
+      }
+    },
+    {
+      "chapter": 88,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/088.txt",
+        "bytes": 12598,
+        "sha256": "e8100109ae1079ac3635385273031ef1b5a37fb25c7e85a35dc661e2d4f0ce2e"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-088.xhtml",
+        "bytes": 14747,
+        "sha256": "872d8439e1d9cc26c4f58d247af27dc3011d6252a145ff57fcd5e4686d4f2ab7"
+      }
+    },
+    {
+      "chapter": 89,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/089.txt",
+        "bytes": 12639,
+        "sha256": "9c1d97b00c0b9a56436460e1c7347cd700c515522252ab6a44249945be733690"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-089.xhtml",
+        "bytes": 13088,
+        "sha256": "968d23dc565740781079aff534f77c3ff3f83615e7cdee58956465b3e7c99fc7"
+      }
+    },
+    {
+      "chapter": 90,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/090.txt",
+        "bytes": 10401,
+        "sha256": "53964d67d10460a08d3722a782f5fb70e909ec59ad7c840d5b5a36d3e9efd5df"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-090.xhtml",
+        "bytes": 13971,
+        "sha256": "5be5f42782e43fe9ceba87a1d44a82ff6b55489c5e69c06f2121250ffc27cb0a"
+      }
+    },
+    {
+      "chapter": 91,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/091.txt",
+        "bytes": 11679,
+        "sha256": "f2e3abc67ed17f3b3b99fc7dc9ce319b9e0a88c5f79a3fa80793ceff15597695"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-091.xhtml",
+        "bytes": 13582,
+        "sha256": "116e76f7d19d381d45292cdb9b102e2973178e0b2922c7c6e4c91a092f43c378"
+      }
+    },
+    {
+      "chapter": 92,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/092.txt",
+        "bytes": 12041,
+        "sha256": "9294407ff2965040e2c9da7159e938220b64f29a1a6956d237d51eefa91f8e86"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-092.xhtml",
+        "bytes": 16992,
+        "sha256": "a566a411fb97014d0e2b8bb0d385dfd3240f58e1fb530341d9b9bda017b52f19"
+      }
+    },
+    {
+      "chapter": 93,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/093.txt",
+        "bytes": 14453,
+        "sha256": "31a2490108f697a8ff912707e2189b69c727a5e153a006942a270001f064532a"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-093.xhtml",
+        "bytes": 13492,
+        "sha256": "6fd6463c2f3fb9609837b72f8b1eab052eb45476bbc6c314e05e4d2f3fbeea58"
+      }
+    },
+    {
+      "chapter": 94,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/094.txt",
+        "bytes": 12021,
+        "sha256": "83bc8f68ba1557865286c2a44baebafffc0f1beb87e2ca4572e788f7f279b57d"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-094.xhtml",
+        "bytes": 12976,
+        "sha256": "6a40531a261a2f48e05199e36da4ea92b944cca17f3c02a6fbbe967a759443f9"
+      }
+    },
+    {
+      "chapter": 95,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/095.txt",
+        "bytes": 9114,
+        "sha256": "a35a813304700b8ef63e079fa479eebbf7ef99a909e78d96145c5d18245494d4"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-095.xhtml",
+        "bytes": 12626,
+        "sha256": "86c2622757f4e0aa6ad66a3e4b58ab90820d0f77f5654d84b8bfcd699740340f"
+      }
+    },
+    {
+      "chapter": 96,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/096.txt",
+        "bytes": 10175,
+        "sha256": "0e8e765d866376382f79874796fa8ae6b2fec0f85636ff332f76cf9d8bf0a9bb"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-096.xhtml",
+        "bytes": 16353,
+        "sha256": "fc3d74b5292a9d7692eff74f92e192a64f852e0113230a332a98bae9ba175dee"
+      }
+    },
+    {
+      "chapter": 97,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/097.txt",
+        "bytes": 14465,
+        "sha256": "7ab79fc5d5f947116c61cb34aff538e55343b5849417427fec505c1260c4328e"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-097.xhtml",
+        "bytes": 12584,
+        "sha256": "d987a03bf16c6b68e7513f20d38108802a4f0c638b257c1cfe30c4eefbc68385"
+      }
+    },
+    {
+      "chapter": 98,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/098.txt",
+        "bytes": 11428,
+        "sha256": "c23b80ae9958e1290c744e1f5b5a7123fd39fbadd484a3f22bbe5c5fc9834f42"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-098.xhtml",
+        "bytes": 13279,
+        "sha256": "81114561d33c2b47b466a17b168502ced88433df4b93aead64f97a086ead01df"
+      }
+    },
+    {
+      "chapter": 99,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/099.txt",
+        "bytes": 11255,
+        "sha256": "5c63d801091a4f07c4038afd0833fd852e92f0a3254c7cf828260299103b3a78"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-099.xhtml",
+        "bytes": 16804,
+        "sha256": "9f25e80f9a1a689984b98eb1201587239fca5ce5e39c87a6ba6f94f826b8faea"
+      }
+    },
+    {
+      "chapter": 100,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/100.txt",
+        "bytes": 14153,
+        "sha256": "5404d8043db0707b12fe51a278e49fadb8b86a6db2e19dd06928cc4da004cfba"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-100.xhtml",
+        "bytes": 13767,
+        "sha256": "08dcc5cc5e690e26fc56b72113a3e1479cc50464d35ffd6c3979e2f983faf171"
+      }
+    },
+    {
+      "chapter": 101,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/101.txt",
+        "bytes": 11889,
+        "sha256": "baa04d79d4e4a4fdecf8a710fd85349ecb938926d3bba317da107758341e32a5"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-101.xhtml",
+        "bytes": 15949,
+        "sha256": "adc99f74244e823be5fb19d39c523287367b19ce5e96ce68eef6aa64e8e350f4"
+      }
+    },
+    {
+      "chapter": 102,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/102.txt",
+        "bytes": 13671,
+        "sha256": "fd39a73d0883ed16d56f82822094cb2fc2a42849e11a1654bbf0fe001f6e0b05"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-102.xhtml",
+        "bytes": 12515,
+        "sha256": "fc6f26b98a98d71af4d642400650f4e4978a2a28c27357efa5bbd548f3b5885e"
+      }
+    },
+    {
+      "chapter": 103,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/103.txt",
+        "bytes": 8400,
+        "sha256": "3ffe3108bb93935a9a61338e5854e8453b31ceb3bde47be9c7978bd71b19d78d"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-103.xhtml",
+        "bytes": 14587,
+        "sha256": "d47460de34a93f3f417b18d5c01c3a7b61fe154bb5bd86bfc5070f8fc14866e1"
+      }
+    },
+    {
+      "chapter": 104,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/104.txt",
+        "bytes": 12571,
+        "sha256": "98bc27a2df13d702473d1a34fe0909cc28e5279131a22b43d6e0ce968b3a2220"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-104.xhtml",
+        "bytes": 13245,
+        "sha256": "3127496eeb24094551fbeb5c9ba3fe91c60bf8d23923eef95add27ae831b812a"
+      }
+    },
+    {
+      "chapter": 105,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/105.txt",
+        "bytes": 11380,
+        "sha256": "81b3083faed3a8b053061871dd77203f46614a99e5a4cd7a5023b5798d88bb47"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-105.xhtml",
+        "bytes": 15664,
+        "sha256": "848608bad51f720b8d9de97ada15da35e795285365ae33a3d64807844002bb37"
+      }
+    },
+    {
+      "chapter": 106,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/106.txt",
+        "bytes": 13340,
+        "sha256": "edc51f478c57be31228e3d7dd3ec192bc11e9a78db38731aa54da1e48fef090b"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-106.xhtml",
+        "bytes": 14504,
+        "sha256": "1f37ef67fbccd27a1ae5c94af69561f4c336e5efbcd7db1f798797da66cf8458"
+      }
+    },
+    {
+      "chapter": 107,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/107.txt",
+        "bytes": 11921,
+        "sha256": "6e13a359ed9a806c20de06e8fbbda77fb0339ebd9b0b7cb02c8df9a2858813e3"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-107.xhtml",
+        "bytes": 22566,
+        "sha256": "9a2ddd155277284d6979410983c1c739d728b0f83c4cd2bddbacc09d9913e177"
+      }
+    },
+    {
+      "chapter": 108,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/108.txt",
+        "bytes": 17560,
+        "sha256": "4940ba459506f05be056d23d8ea7dc964abbe3bcd6f46b654f2bfb8991345e44"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-108.xhtml",
+        "bytes": 16646,
+        "sha256": "b0e1d5f6bebb063982db0be13c5b9a01927bdb7d99640df01cc5a1f1325ff448"
+      }
+    },
+    {
+      "chapter": 109,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/109.txt",
+        "bytes": 14842,
+        "sha256": "8526b3da0f6b8cd10fed1d5562bb73b2a1fe9f91c7261914f0a3f7b53d9ed39c"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-109.xhtml",
+        "bytes": 13644,
+        "sha256": "887f6e1ee557052b79614c9f27bf38b560c8cdb2c978bedbf66e30a6893cd3b7"
+      }
+    },
+    {
+      "chapter": 110,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/110.txt",
+        "bytes": 11085,
+        "sha256": "5e3881e671c4771e4b55bc526180d1d358298ba4ad7742e7b9b27c9fa44d3571"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-110.xhtml",
+        "bytes": 23964,
+        "sha256": "402e20bc8297615252530cbfee1baf0a8a391fb15f3570e297fe38e653fa9906"
+      }
+    },
+    {
+      "chapter": 111,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/111.txt",
+        "bytes": 19358,
+        "sha256": "fbbd0b1bc970a4b431f05ecb479cd355770f8f721e09b6dc6b7812f5f81ecc89"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-111.xhtml",
+        "bytes": 13485,
+        "sha256": "be032c6544b03ca1686b64373b66a1934ab44a30a4b75a08170281e56f380220"
+      }
+    },
+    {
+      "chapter": 112,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/112.txt",
+        "bytes": 11320,
+        "sha256": "18beeca30ce320036c519d5681f1ce84224881212410bf56ffab98ac55bc0926"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-112.xhtml",
+        "bytes": 13446,
+        "sha256": "56f90838800a39ca18829f858028b43181bdca19a4d6ab77adfac7a2130ce8b2"
+      }
+    },
+    {
+      "chapter": 113,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/113.txt",
+        "bytes": 11435,
+        "sha256": "5f7c54809f7ae7c1ac2da34fe0dd9552fafca4a0a2f906105d5edbb02b0fca9e"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-113.xhtml",
+        "bytes": 13311,
+        "sha256": "1d42134eb94038f9b443c17164e28ea55399a4dab1e75e2dea614db5dd0c3c0c"
+      }
+    },
+    {
+      "chapter": 114,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/114.txt",
+        "bytes": 11617,
+        "sha256": "10f27dff3ca5e380aa3f38d103031182df4467988f52078f6ea1c05881dd9f78"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-114.xhtml",
+        "bytes": 18041,
+        "sha256": "e8401ec55362faecc60614a8422634207e6717594eecbfef5beb9ce8be1d171d"
+      }
+    },
+    {
+      "chapter": 115,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/115.txt",
+        "bytes": 16079,
+        "sha256": "07eede710b7a48fcc9d8184e99f65ca9047837dbf61f9f92391440ba92db06be"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-115.xhtml",
+        "bytes": 14654,
+        "sha256": "09639eaa2bfacd5430d483dc0737697df2a4651560114d1bd851d2534852231a"
+      }
+    },
+    {
+      "chapter": 116,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/116.txt",
+        "bytes": 12322,
+        "sha256": "711a918b102883221d891c13df8140d9a96aefce83c1a79fbec83bcfb4f1596d"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-116.xhtml",
+        "bytes": 17308,
+        "sha256": "d0a484a151ace5e2118b1afd4f0b757ddaf64007201f65393f64ca95588f3af9"
+      }
+    },
+    {
+      "chapter": 117,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/117.txt",
+        "bytes": 13998,
+        "sha256": "71ae1cbde0dc4ea6447d04d904c43cda394e28b5e9e30bcdcf54b5016c021d2c"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-117.xhtml",
+        "bytes": 14866,
+        "sha256": "75a45b4ab3998c851dd1056a2d1ccdc721e45e99b9a6f716a3b699f08aab1f82"
+      }
+    },
+    {
+      "chapter": 118,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/118.txt",
+        "bytes": 12835,
+        "sha256": "e5c7e4eb35ecf0097c5da334efaaadbd4a25fdce21023de74ba60560456f4721"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-118.xhtml",
+        "bytes": 14263,
+        "sha256": "4ea9ef7602b93179a3fd656640a3b78dee4722c95246d2fbdef466ec5a2bf397"
+      }
+    },
+    {
+      "chapter": 119,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/119.txt",
+        "bytes": 12210,
+        "sha256": "cda9768845203ab02ea557af7a6e6df7b9fa328e2681b1a3e03539f010debd04"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-119.xhtml",
+        "bytes": 13612,
+        "sha256": "98b1a1d7bd4b82507bf915b3678c7a7c577aba36fc253d1cb1c112ab95e20eda"
+      }
+    },
+    {
+      "chapter": 120,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/120.txt",
+        "bytes": 11209,
+        "sha256": "94a17ca6631482f71d07f5998fe7bef95c39a2e4d7ec3be0c3ef3c3bb2a69883"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-120.xhtml",
+        "bytes": 15079,
+        "sha256": "1e32b338667baeefe6c97ba46e4718fd5dc6747a2eaa55f5c9efb7dfd096031a"
+      }
+    },
+    {
+      "chapter": 121,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/121.txt",
+        "bytes": 12758,
+        "sha256": "2115e4b10a3b0029943ecd497309b733753c1b6ff6dc076a20d55e561831c234"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-121.xhtml",
+        "bytes": 14711,
+        "sha256": "70ddaef64f49ebf9e2b8ae87bad80328eb714e101adafca2a808a854f8917f13"
+      }
+    },
+    {
+      "chapter": 122,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/122.txt",
+        "bytes": 12627,
+        "sha256": "fa7af170a5c6ef0444d1f48b31f4424a976e14d59d18619db44d991a13b3adc9"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-122.xhtml",
+        "bytes": 14135,
+        "sha256": "31ddcca3f090370a9f4af1b28e5d9262857dcc50c6378587603fc7e6d9e76fb2"
+      }
+    },
+    {
+      "chapter": 123,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/123.txt",
+        "bytes": 35772,
+        "sha256": "40d3a545387cf48bd5260b2f0a54dc18f3b59b0ba22bc473ef5024f2838979c9"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-123.xhtml",
+        "bytes": 17648,
+        "sha256": "82d71dafe9814194f533a9d9e2277833a53a2165b673da0d0984a42e74d20043"
+      }
+    },
+    {
+      "chapter": 124,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/124.txt",
+        "bytes": 14695,
+        "sha256": "fb31caaf3b05b1608969dafe77d0d116559bf2a210f8281807162c624ff625e7"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-124.xhtml",
+        "bytes": 13083,
+        "sha256": "b1c43c32872ba81cdf9d9de338d583736e8754fa1299adcb823ff199e4d5e43f"
+      }
+    },
+    {
+      "chapter": 125,
+      "basis": "korean_plus_mtl",
+      "korean": {
+        "path": "source/korean/chapters/125.txt",
+        "bytes": 11050,
+        "sha256": "9446bdffa8022bb15e7ea432fffe18a62ff34a8c370b2b24f5116d61d30927dd"
+      },
+      "mtl": {
+        "path": "source/chapters/chapter-125.xhtml",
+        "bytes": 12913,
+        "sha256": "75f323aaba62bf2224288522e78f2f4291341373ca4e7e04f6c17c13bcc7ac34"
+      }
+    }
+  ]
+}
