@@ -5,11 +5,11 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-16
-- **Updated by:** ChatGPT — Hounds of Hell acceptance checkpoint
-- **Working branch:** `editorial/restart-hounds-of-hell-family`
-- **Previous merged PR:** #8 — The Baskerville Dog Chapters 4–7
-- **Base main checkpoint:** `c4bf56635b966ba5f7f7b9d67dc4b724f93c723f`
-- **Open PR for current branch:** pending creation
+- **Updated by:** ChatGPT — Gluttonous Flies source/canonicalization checkpoint
+- **Working branch:** `editorial/restart-gluttonous-flies-family`
+- **Previous merged PR:** #9 — Hounds of Hell Chapters 8–11
+- **Merged main checkpoint:** `f4085b0451588b9c917e19c3c972954c3446ead5`
+- **Open PR for current branch:** none yet
 
 ## Authoritative current checkpoint
 
@@ -21,9 +21,8 @@
   - Chapters 1–3 — *Hellhound (1)–(3)*
   - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
   - Chapters 8–11 — *Hounds of Hell (1)–(4)*
-- **Latest family QA:** `qa/families/hounds-of-hell-0008-0011.md` — **PASS**
-- **Next title family:** **Chapters 12–13 — The Gluttonous Flies (1)–(2)**
-- **Next-family boundary:** **VERIFIED**. Chinese Chapters 12–13 carry parts (1)–(2); Chinese Chapter 14 changes to `独食 (1)`.
+- **Active family:** **Chapters 12–13 — The Gluttonous Flies (1)–(2)**
+- **Family boundary:** **VERIFIED**. Chinese Chapter 14 changes to `独食 (1)`; recovered English Chapter 14 is *Solitary (1)*.
 - **Blocking issue:** none
 
 ## Rules that must not be lost
@@ -32,131 +31,111 @@
 - English Fandom wiki = canonical English authority for identified names/terms/locations/ranks/skills/monsters/organizations/titles where applicable.
 - English MTL/XHTML = secondary alignment/phrasing witness only except Chapter 55.
 - Do not sanitize or soften source content.
+- Do not import wiki/MTL exposition that is absent from Chinese.
 - Process complete contiguous title families; chapter/family/PR completion is a checkpoint, not a stopping condition.
 - Never assume target N == MTL N without title/content verification.
-- Protect reveal chronology even when canonical references contain later information.
+- Protect reveal chronology.
 - Keep information windows complete and atomic.
 
-## Completed family — Chapters 8–11
+## Chapter 11 accepted-evidence reopen — completed
 
-### Boundary and alignment
+A stronger current Fandom result established that the numbered Baskerville techniques are canonically **Fangs**, not the earlier project fallback **Forms**.
 
-Chinese headings:
-- Ch. 8 — *Hounds of Hell (1)*
-- Ch. 9 — *Hounds of Hell (2)*
-- Ch. 10 — *Hounds of Hell (3)*
-- Ch. 11 — *Hounds of Hell (4)*
-- Ch. 12 changes to *The Gluttonous Flies (1)*
+Current Fandom evidence:
+- `Sword Skills` / `Baskerville Clan/Swordsmanship` explicitly uses **Baskerville Fang Sword Style**, **1st Fang**, **2nd Fang**, **3rd Fang**, **4th Fang**, through **10th Fang**.
 
-Verified recovered-English mappings:
-- target 8 → MTL 8 — SHA `1ec6b7bff255d7ea718dcca063e5ded4ee5ba523`
-- target 9 → MTL 9 — SHA `d765e36aa4083e8054c7ea179c89730cd347e398`
-- target 10 → MTL 10 — SHA `8c2442bf760ee8ca0c3174c5d49556dab379cdac`
-- target 11 → MTL 11 — SHA `26e15feb304acd8e94d8f902c82a369dc900fb7e`
+Chapter 11 was reopened for **canonical terminology only**; Chinese-governed semantics/mechanics were unchanged.
 
-Chinese source SHAs:
-- `008.txt` — `d62d365170a0107c5c726c9da1901d996d2d508d`
-- `009.txt` — `316950c50ba6c3774ffbc779fb319bd1bcff8874`
-- `010.txt` — `6be1944dd10561d5246cff6ab830e6f5e39bc736`
-- `011.txt` — `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44`
-- boundary witness `012.txt` — `9cbd4648873cda28a0e9410966d0643dda873968`
+Updated evidence on this branch:
+- `manuscript/drafts/chapter-0011.md` — draft SHA `eed36a1afd207edcf761034350426ff39c1fa8db`
+- `qa/chapter-0011.md` — QA SHA `394d7610011f25000acda6a5d5e43bd02ac75571`
+- `qa/families/hounds-of-hell-0008-0011.md` — family QA SHA `81e2e1f230a38e6693bf06c01908c910cdd35eec`
+- `editorial/provenance/chapter-0011.json` — provenance SHA `d53caf5e2c825c9f2c85b399bf5c1b81ff99520c`
+- `qa/acceptance/chapter-0011.json` — acceptance SHA `1b3e6c4906e5d13005a41bdc864f7bb5329f38d1`
 
-### Final drafts
+Still pending synchronization after the current 12–13 batch: update Chapter 11’s acceptance SHA in `editorial/chapter-tracker.json` and replace remaining `Forms` wording in `editorial/GLOSSARY.md` / human-readable state as applicable.
 
-- `manuscript/drafts/chapter-0008.md` — `33ead486847f4fdb3cff95e00778d85dddc69315`
-- `manuscript/drafts/chapter-0009.md` — `e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2`
-- `manuscript/drafts/chapter-0010.md` — `5a340ea07718a4119488d153a9f37a265ba90781`
-- `manuscript/drafts/chapter-0011.md` — `15673ea64dfa3d9375c97a3bcd1ff605f3984ade`
-
-### Chapter QA
-
-- `qa/chapter-0008.md` — PASS — `c511faeada26320a8e764819051b15f570db622f`
-- `qa/chapter-0009.md` — PASS — `1406b60bb5f13639eab798b9a946446fca526893`
-- `qa/chapter-0010.md` — PASS — `ef0b10235e9dfd9b99a97abb37904bae05909e52`
-- `qa/chapter-0011.md` — PASS — `5f8d12c1c8c9ffeb3116940ce23e393490fcb0ae`
-
-### Family QA
-
-- `qa/families/hounds-of-hell-0008-0011.md` — PASS — `a5c43f7276f0bfe5e86f12a34238abcdcc79d003`
-
-Continuity gates passed:
-- 7→8: Bloody Beans → practical-exam setup
-- 8→9: Pavlov bell → exam action
-- 9→10: chocolate setup → Hellhound poisoning payoff
-- 10→11: Cerberus reveal → continuous Cerberus fight
-- 11→12: seven-step Cerberus collapse → Chapter 12 opens on collapsed Cerberus
-
-### Provenance
-
-- `editorial/provenance/chapter-0008.json` — `03106e337c848627c611eec212d110be7fec0710`
-- `editorial/provenance/chapter-0009.json` — `5654c0b34c92d41653365c07f018a1d1f33c4895`
-- `editorial/provenance/chapter-0010.json` — `c32728ab4962a6461a77538d76d7f47159a73f69`
-- `editorial/provenance/chapter-0011.json` — `d857a77cfca1a027aba71eeb12091c2514c09ced`
-
-### Acceptance records
-
-- `qa/acceptance/chapter-0008.json` — `08bb5f82d60975a0b7905f9111df92cff32fccc9`
-- `qa/acceptance/chapter-0009.json` — `e307b687650f1e3c74172b3e2539e811650bbc5b`
-- `qa/acceptance/chapter-0010.json` — `127831a7386c1d2e55cda9e11a7a6e01942560b7`
-- `qa/acceptance/chapter-0011.json` — `1430850ac6559c96234f044c34e4e92d46a61617`
-
-## Accepted Hounds of Hell terminology / decisions
-
-- **Le Rouge et Le Noir Mountain**
-- **Guide Dog**
-- **Pavlov Van Baskerville**
-- **Brown Rat ‘Norvegicus’**
-- **Hellhound** — Danger Rating B+, 3 m, 2nd Ridge
-- **Cerberus** — Danger Rating A+, 7 m, 7th Ridge
-- **Hell’s Watchdog**
-- **Camus Morgue / Ironblood Empress** only within the future-war retrospective already present in Chinese
-- **Sword Expert / Sword Graduator / Sword Master** with Low/Mid/High substages
-- Sword/mage equivalence: Expert Low/Mid/High = 1st/2nd/3rd Circle; Graduator Low/Mid/High = 4th/5th/6th Circle; Sword Master = 7th Circle
-- **Baskerville 1st / 2nd / 3rd Form**; first-life Vikir had mastered through the 4th Form
-- **Cradle of Needles** as Vikir’s contextual label for the stake pit
-- **Bloody Beans** revalidated through the combat payoff
-- **Bloody Mamba** remains a scoped recovered-English fallback, not a newly claimed direct Fandom canonicalization
-
-Key repairs include:
-- Chapter 8 scoring rebuilt from Chinese rather than MTL interpretation;
-- Chapter 9 Brown Rat/Hellhound windows restored as complete blocks;
-- Chapter 10 MTL `height` corrected to **kidneys**;
-- Chapter 10 near-impervious-body and post-coming-of-age High Sword Expert comparison restored;
-- Cerberus taxonomy corrected to **pinnacle of underworld-type monsters**;
-- Chapter 11 rank table and Baskerville Forms normalized;
-- explicit poisoning/waste/broken-rib details retained without sanitization;
-- exact seven-step Bloody Mamba payoff retained.
-
-## Fandom access note
-
-The principal Fandom evidence for this family was successfully retrieved earlier during the active-family research pass. A later refresh attempt on 2026-09-16 was blocked by Fandom robots rules. QA/provenance records explicitly scope that limitation. Do not claim the blocked refresh succeeded, and do not invent canonical facts from it.
-
-## Next family — Chapters 12–13
-
-### Boundary
+## Active family boundary and mapping
 
 Chinese:
 - `012.txt` — `贪食的苍蝇 (1)` — SHA `9cbd4648873cda28a0e9410966d0643dda873968`
 - `013.txt` — `贪食的苍蝇 (2)` — SHA `9187c6e887445ee9cd416f323939e7165f0ada4b`
 - `014.txt` — `独食 (1)` — SHA `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`, proving a new family starts at 14
 
-Recovered English title witnesses:
-- target 12 candidate → `source/chapters/chapter-012.xhtml`, title *The Gluttonous Flies (1)* — SHA `594ce3566f95cc8983e1298a593967f41ab73c3f`
-- target 13 candidate → `source/chapters/chapter-013.xhtml`, title *The Gluttonous Flies (2)* — SHA `63a478d5df24e966953d739028801391a3d09727`
+Recovered English mappings are **verified by full content**, not merely title/number:
+- target 12 → `source/chapters/chapter-012.xhtml` — *The Gluttonous Flies (1)* — SHA `594ce3566f95cc8983e1298a593967f41ab73c3f`
+  - matches collapsed Cerberus opening, hidden dungeon, Cain/Abel note and riddle, ruby/shadow solution, sword-hilt endpoint.
+- target 13 → `source/chapters/chapter-013.xhtml` — *The Gluttonous Flies (2)* — SHA `63a478d5df24e966953d739028801391a3d09727`
+  - matches Beelzebub inscription/reveal, hunger, Hellhound/Cerberus feeding, three skill slots, Vikir sword-rank/Fang progression goal.
 
-**Important:** title matching is promising but full 12→12 and 13→13 content alignment still requires normal verification from complete Chinese/English reads. Do not mark it verified solely from numbering/title.
+## Canonical English evidence for Chapters 12–13
 
-### Exact next actions
+Current indexed Fandom evidence establishes:
 
-1. Open and merge the current Chapters 8–11 PR after verifying it is mergeable.
-2. Create a fresh branch from the new merged main for *The Gluttonous Flies*.
-3. Read complete Chinese Chapters 12 and 13; read Chapter 14 opening/endpoint context as needed.
-4. Read the full recovered English Chapters 12 and 13 and verify target↔MTL alignment by opening, event sequence, distinctive entities, information windows, and endpoints.
-5. Canonicalize every newly introduced name/term against the English Fandom wiki where accessible. **Do not assume the English spelling of the Chinese `巴尔泽布`/related fly-demon or weapon term; establish the canonical form from evidence before locking it.**
-6. Reconstruct Chapters 12–13 from Chinese, preserving explicit source detail and information-window integrity.
-7. QA both chapters individually and as one title-family unit, including the 11→12 collapsed-Cerberus handoff and the 13→14 title-family boundary.
-8. Create hash-bound provenance/acceptance records; update glossary/tracker/status/project/progress/handoff.
-9. Merge the 12–13 family if clean, then immediately determine and begin the Chapter 14 family.
+- **Cain Baskerville** / **Abel Baskerville** — twin Baskerville ancestors associated with the ancient dungeon.
+- **Beelzebub** — canonical relic/demonic weapon name.
+- **The Fly of Gluttony** — canonical alias/title associated with Beelzebub.
+- **Gluttonous Blade** — canonical weapon title/description.
+- **Seven Calamities** — canonical English form for the ancient group referenced by Chinese `七大灾难`.
+- **Red Fang Mountain** — canonical location; Fandom Dungeon material identifies the dungeon as connected to Red Fang Mountain, a branch of Le Rouge et Le Noir Mountain.
+- **Hemorrhage** — Hellhound (B+) slot ability.
+- **Incinerate** — Cerberus (A+) slot ability.
+- **Rapid Regeneration** — Brown Rat Norvegicus (F) slot ability.
+- **Baskerville Fang Sword Style** / numbered **Fangs** for 1st–10th techniques.
+
+Direct Fandom page access can be blocked by robots rules. Current search-indexed Fandom results are available and should be cited/recorded as indexed evidence rather than falsely described as successful direct-page refreshes.
+
+## Chapter 12 source findings
+
+- Opens directly on the collapsed/dead Cerberus from Chapter 11; greasy saliva and feces flow from its three mouths/anus.
+- Cerberus’s post-death soul/karma/experience enters Vikir and strengthens body/spirit.
+- Vikir cannot practically carry the corpse and plans to preserve important parts/organs and evidence.
+- He infers a territory-guarding Cerberus likely protected a **dungeon** containing a strong demonic relic.
+- He tracks it using Baskerville-hound perception; Cerberus scent/feces repel ordinary monsters.
+- The dungeon connects toward **Red Fang Mountain**, a branch of Le Rouge et Le Noir Mountain; exposed ruby veins illuminate the chamber.
+- Chinese shows **one skeleton** in the final chamber; recovered English incorrectly says **two skeletons**. Use Chinese.
+- The note writer says to call him **Cain**; he and younger twin **Abel** spent three years misunderstanding the final riddle and Cain ultimately killed Abel.
+- Riddle meaning is **shadow**, not fratricide: one person in darkness → person + shadow in ruby light → one again when ruby light is destroyed.
+- Vikir smashes the ruby, opening an enormous hidden wall/door.
+- Cain and Abel had already cleared the preceding monsters, leaving the reward path safe.
+- Chapter ends as Vikir touches a sword hilt and reads an inscription stating only Baskerville blood may draw the named sword; the raw cuts at/around the relic-name revelation and Chapter 13 intentionally repeats/completes it.
+
+## Chapter 13 source findings
+
+- Opens by completing/repeating the inscription: only Baskerville blood can draw **Beelzebub**.
+- Relic resembles an elongated black spike/rapier-like blade with three reddish bead-like structures and a green, fly-like hilt/form.
+- Chinese calls it `贪食的苍蝇 巴尔泽布`; use canonical **The Fly of Gluttony, Beelzebub** where natural.
+- Chinese establishes ancient **Seven Calamities** whose remains persisted with portions of their old power; Beelzebub is one such relic.
+- **Critical MTL addition:** recovered English inserts several paragraphs about the seven family heads defeating one calamity each, Beelzebub being stored on the estate, later stolen by demons, battlefield ownership, and explicit fusion into Vikir’s palm. These paragraphs are **absent from Chinese Chapter 13** and must NOT be imported into the draft.
+- The raw jumps from the basic Seven Calamities/remains explanation into Vikir’s abnormal hunger and Beelzebub responding to that hunger. Preserve the Chinese sequence even if the MTL is smoother.
+- Beelzebub feeds on the dead Hellhound and gains a three-slot ability system.
+- First window: **Hemorrhage — Hellhound (B+)** in Slot 1; Slots 2–3 empty.
+- Beelzebub keeps feeding until the Hellhound corpse is nearly mummified.
+- It then attacks the Cerberus corpse; Vikir stops it from damaging his exam evidence too badly.
+- Second window after Cerberus/Brown Rat absorption:
+  - Slot 1: **Incinerate — Cerberus (A+)**
+  - Slot 2: **Hemorrhage — Hellhound (B+)**
+  - Slot 3: **Rapid Regeneration — Brown Rat Norvegicus (F)**
+- Stronger monster abilities can displace earlier/weaker slot occupants; do not over-systematize beyond source wording.
+- Incinerate inflicts Cerberus hellfire burns that do not naturally heal; the source explicitly emphasizes severe burning pain lasting until death.
+- Vikir assesses his current mana as roughly **4th Circle quantity**, while practical sword output remains around **High Sword Expert**, perhaps nearing **Low Sword Graduator**; he can draw three, perhaps four Fangs.
+- In the previous life Vikir was limited to four Fangs; current Hugo can draw seven; future/pre-regression Hugo could draw nine.
+- The **9th Fang** is restricted high-level family swordsmanship; Vikir knows of the legendary **10th Fang** material derived from the first patriarch / Seven Calamities experience.
+- Vikir knows the 10th-Fang material is hidden among ordinary nearby books and expects **Hugo Le Baskerville** himself will unknowingly hand it to him.
+- Chapter 14 begins after the practical examination, so Chapter 13 must stop before Chapter 14’s assessment-return sequence.
+
+## Exact next actions
+
+1. Draft Chapters 12–13 directly from Chinese using the verified canonical forms above.
+2. Preserve the Chapter 12→13 deliberate inscription/relic overlap.
+3. Exclude the MTL-only Beelzebub history/fusion paragraphs absent from Chinese.
+4. Keep all Beelzebub ability windows atomic and use **Hemorrhage / Incinerate / Rapid Regeneration**.
+5. Use **Fang** consistently for Baskerville numbered techniques.
+6. QA Chapters 12 and 13 individually, then run a family QA across 11→12, 12→13, and 13→14.
+7. Create hash-bound provenance/acceptance records.
+8. Synchronize Chapter 11 reopened hashes plus new 12–13 acceptance into tracker/status/glossary/project/progress/handoff.
+9. Merge the 12–13 family if clean.
+10. Immediately determine and begin the Chapter 14 *Solitary* family; do not stop merely because the 12–13 PR merges.
 
 ## Persistent exceptions
 
