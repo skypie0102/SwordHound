@@ -1,0 +1,80 @@
+{
+  "chapter": 15,
+  "title": "Solitary (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Solitary",
+    "range": [14, 17],
+    "boundary_status": "verified_from_chinese_and_recovered_english_headings",
+    "family_qa": {
+      "path": "qa/families/solitary-0014-0017.md",
+      "blob_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/015.txt",
+    "blob_sha": "d2ed35aa2f110b51c245d860dbf151c9db7f2a9f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-015.xhtml",
+    "blob_sha": "b081799012eb00f8ae21fc555cff817ce586cddf",
+    "target_alignment": 15,
+    "alignment_status": "verified_by_title_library_entry_sixth_fang_manual_miscellaneous_shelves_lurking_embedded_teeth_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville/Synopsis",
+      "applies_to": ["10,000 Book Library", "Baskerville Sixth Fang", "Lurking Embedded Teeth"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Sword Skills",
+      "applies_to": ["Baskerville Fang Sword Style", "numbered Fangs"]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0015.md",
+    "blob_sha": "6c79f7db01d40e4eb5ee823ce1007e969aca55f1"
+  },
+  "qa": {
+    "path": "qa/chapter-0015.md",
+    "blob_sha": "f3a72f7b55976588f2eb6004fabc189f19691bf6",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "library naming",
+      "final": "10,000 Book Library",
+      "basis": "current indexed Fandom canonical English evidence"
+    },
+    {
+      "topic": "scripture title",
+      "final": "Lurking Embedded Teeth",
+      "basis": "current indexed Fandom canonical English evidence; supersedes MTL Lurking Ambush"
+    },
+    {
+      "topic": "Sixth Fang motion list",
+      "final": "cutting, thrusting, defending, crushing, cutting, and crushing again",
+      "basis": "Chinese source sequence; avoids interpretive substitution"
+    },
+    {
+      "topic": "chapter endpoint",
+      "final": "Vikir identifies the damaged scripture and remembers recovering its missing pages",
+      "basis": "Chinese Chapter 15; Chapter 16 narrates that first-life recovery history"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "canonicalized 10,000 Book Library",
+    "canonicalized Baskerville Sixth Fang",
+    "restored source Fang access hierarchy",
+    "restored exact six-motion manual sequence",
+    "canonicalized Lurking Embedded Teeth",
+    "preserved missing-page / missing-fang setup"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

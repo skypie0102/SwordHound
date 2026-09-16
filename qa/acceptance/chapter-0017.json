@@ -1,0 +1,40 @@
+{
+  "chapter": 17,
+  "title": "Solitary (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Solitary",
+    "range": [14, 17],
+    "family_qa_path": "qa/families/solitary-0014-0017.md",
+    "family_qa_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/017.txt",
+    "primary_source_sha": "a06435731264acf695a613b6bffc28270bd8d3fe",
+    "english_reference_path": "source/chapters/chapter-017.xhtml",
+    "english_reference_sha": "186f5ce33d50b654427866f735e8f223e3786b3f",
+    "english_alignment": "verified_by_title_fifth_fang_low_graduator_beelzebub_power_estimate_book_burning_servants_and_hugo_summons_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0017.md",
+    "draft_sha": "217b62806c86b7d4d641276fc925a0e0723823a1",
+    "qa_path": "qa/chapter-0017.md",
+    "qa_sha": "1ca241417fbc048ce4745ef71c47b4c9ab86dbe6",
+    "provenance_path": "editorial/provenance/chapter-0017.json",
+    "provenance_sha": "4e4d7953c27785e5aa347148ac777644622db2d8"
+  },
+  "canonical_checks": [
+    "Lurking Embedded Teeth",
+    "Baskerville Fang Sword Style",
+    "Fifth Fang",
+    "Sword Expert",
+    "Low Sword Graduator",
+    "Beelzebub",
+    "10,000 Book Library"
+  ],
+  "documented_limits": [
+    "Vikir's 100% assassination / approximately 50% frontal-combat figures are preserved as his own estimate, not presented as an objective universal probability.",
+    "Chapter 18's Hugo test scene is not imported before the Solitary family endpoint."
+  ]
+}

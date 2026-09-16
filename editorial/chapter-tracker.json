@@ -1,15 +1,15 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 13,
+  "accepted_count": 17,
   "staged_count": 0,
-  "next_chapter": 14,
+  "next_chapter": 18,
   "active_title_family": {
-    "name": "Solitary",
-    "start": 14,
-    "boundary_status": "pending_full_boundary_verification",
-    "known_first_title": "Solitary (1)",
-    "chinese_title": "独食 (1)"
+    "name": "Bared Teeth",
+    "range": [18, 19],
+    "boundary_status": "verified_from_chinese_and_recovered_english_headings",
+    "following_family_starts": 20,
+    "following_title": "Camus Morgue (1)"
   },
   "chapters": [
     {
@@ -194,6 +194,62 @@
       "acceptance": "qa/acceptance/chapter-0013.json",
       "acceptance_sha": "d648d0abafee5687f8be606ae3f6279b3a7aab88",
       "family_qa": "qa/families/gluttonous-flies-0012-0013.md"
+    },
+    {
+      "chapter": 14,
+      "title": "Solitary (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/014.txt",
+      "english_mtl_reference": "source/chapters/chapter-014.xhtml",
+      "draft": "manuscript/drafts/chapter-0014.md",
+      "qa": "qa/chapter-0014.md",
+      "provenance": "editorial/provenance/chapter-0014.json",
+      "acceptance": "qa/acceptance/chapter-0014.json",
+      "acceptance_sha": "4ae5d314e18ab5964285a21cf317cf8cce1e1bf3",
+      "family_qa": "qa/families/solitary-0014-0017.md"
+    },
+    {
+      "chapter": 15,
+      "title": "Solitary (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/015.txt",
+      "english_mtl_reference": "source/chapters/chapter-015.xhtml",
+      "draft": "manuscript/drafts/chapter-0015.md",
+      "qa": "qa/chapter-0015.md",
+      "provenance": "editorial/provenance/chapter-0015.json",
+      "acceptance": "qa/acceptance/chapter-0015.json",
+      "acceptance_sha": "42d06e19ce46861428d6098e64dd692d2f2a73e0",
+      "family_qa": "qa/families/solitary-0014-0017.md"
+    },
+    {
+      "chapter": 16,
+      "title": "Solitary (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/016.txt",
+      "english_mtl_reference": "source/chapters/chapter-016.xhtml",
+      "draft": "manuscript/drafts/chapter-0016.md",
+      "qa": "qa/chapter-0016.md",
+      "provenance": "editorial/provenance/chapter-0016.json",
+      "acceptance": "qa/acceptance/chapter-0016.json",
+      "acceptance_sha": "bb9b9039523c1e5c90c94ccb35efcebf8b778c3f",
+      "family_qa": "qa/families/solitary-0014-0017.md"
+    },
+    {
+      "chapter": 17,
+      "title": "Solitary (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/017.txt",
+      "english_mtl_reference": "source/chapters/chapter-017.xhtml",
+      "draft": "manuscript/drafts/chapter-0017.md",
+      "qa": "qa/chapter-0017.md",
+      "provenance": "editorial/provenance/chapter-0017.json",
+      "acceptance": "qa/acceptance/chapter-0017.json",
+      "acceptance_sha": "cb8cca9d3e4c39094624d3bb97dce255cd0d6328",
+      "family_qa": "qa/families/solitary-0014-0017.md"
     }
   ]
 }

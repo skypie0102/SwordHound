@@ -1,0 +1,86 @@
+{
+  "chapter": 16,
+  "title": "Solitary (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Solitary",
+    "range": [14, 17],
+    "boundary_status": "verified_from_chinese_and_recovered_english_headings",
+    "family_qa": {
+      "path": "qa/families/solitary-0014-0017.md",
+      "blob_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/016.txt",
+    "blob_sha": "66d7a6dc326cd1118d5c4c06660429db0812d0f6",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-016.xhtml",
+    "blob_sha": "a585d0e5d5df242bb52e478550ab651be2d93558",
+    "target_alignment": 16,
+    "alignment_status": "verified_by_title_torn_page_origin_lurking_embedded_teeth_seven_pages_retrieval_campaign_hugo_ninth_fang_and_fire_flashforward",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Hugo Le Baskerville",
+      "applies_to": ["Lurking Embedded Teeth missing-page campaign", "Hugo reaching the 9th Fang"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville",
+      "applies_to": ["Vikir recovering and memorizing missing pages"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Sword Skills",
+      "applies_to": ["Baskerville Fang Sword Style", "numbered Fangs"]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0016.md",
+    "blob_sha": "a26bedbdddac060808091e7aeef8b090e504f9e9"
+  },
+  "qa": {
+    "path": "qa/chapter-0016.md",
+    "blob_sha": "7d804fb8770669f172787116730242f54d07c214",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "first-life hound description",
+      "final": "one-eyed black hound",
+      "basis": "Chinese `独眼黑犬`; rejects MTL right-handed mistranslation"
+    },
+    {
+      "topic": "missing page count",
+      "final": "seven total torn pages; first found by Vikir, six more initially missing",
+      "basis": "Chinese source"
+    },
+    {
+      "topic": "Hugo progression",
+      "final": "seven Fangs to nine Fangs after the recovered scripture/pages",
+      "basis": "Chinese source plus canonical identity corroboration"
+    },
+    {
+      "topic": "fire timing",
+      "final": "about 10 hours 50 minutes later",
+      "basis": "Chinese source; rejects MTL duplicated 11 hours 50 minutes"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "right-handed black dog corrected to one-eyed black hound",
+    "canonicalized Lurking Embedded Teeth",
+    "restored seven-page retrieval mechanics",
+    "preserved Vikir's bodily losses and dead companions",
+    "restored Hugo seven-to-nine-Fang progression",
+    "corrected fire timing to about 10 hours 50 minutes",
+    "removed duplicated fire ending"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
