@@ -8,7 +8,7 @@
     "name": "Hounds of Hell",
     "range": [8, 11],
     "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
-    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+    "family_qa_sha": "81e2e1f230a38e6693bf06c01908c910cdd35eec",
     "status": "pass"
   },
   "evidence": {
@@ -16,13 +16,13 @@
     "primary_source_sha": "db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44",
     "english_reference_path": "source/chapters/chapter-011.xhtml",
     "english_reference_sha": "26e15feb304acd8e94d8f902c82a369dc900fb7e",
-    "english_alignment": "verified_by_title_cerberus_window_rank_table_baskerville_forms_trap_and_seven_step_endpoint",
+    "english_alignment": "verified_by_title_cerberus_window_rank_table_baskerville_fangs_trap_and_seven_step_endpoint",
     "draft_path": "manuscript/drafts/chapter-0011.md",
-    "draft_sha": "15673ea64dfa3d9375c97a3bcd1ff605f3984ade",
+    "draft_sha": "eed36a1afd207edcf761034350426ff39c1fa8db",
     "qa_path": "qa/chapter-0011.md",
-    "qa_sha": "5f8d12c1c8c9ffeb3116940ce23e393490fcb0ae",
+    "qa_sha": "394d7610011f25000acda6a5d5e43bd02ac75571",
     "provenance_path": "editorial/provenance/chapter-0011.json",
-    "provenance_sha": "d857a77cfca1a027aba71eeb12091c2514c09ced"
+    "provenance_sha": "d53caf5e2c825c9f2c85b399bf5c1b81ff99520c"
   },
   "canonical_checks": [
     "Cerberus",
@@ -30,12 +30,18 @@
     "Le Rouge et Le Noir Mountain",
     "Camus Morgue",
     "Sword Expert / Sword Graduator / Sword Master",
-    "Baskerville Forms",
+    "Baskerville Fang Sword Style / numbered Fangs",
     "Bloody Mamba scoped fallback"
   ],
   "documented_limits": [
-    "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
+    "Direct Fandom refreshes may be blocked by robots rules; the Fang correction uses a current indexed Fandom Sword Skills result rather than pretending direct-page access succeeded.",
     "Bloody Mamba remains under the previously documented recovered-English fallback limitation rather than being newly claimed as directly Fandom-canonized.",
     "Chapter 12 events were deliberately not imported before the Chapter 11 endpoint."
-  ]
+  ],
+  "acceptance_reopen": {
+    "date": "2026-09-16",
+    "scope": "canonical terminology only",
+    "reason": "stronger current canonical evidence established Fang rather than Form",
+    "semantic_content_changed": false
+  }
 }
