@@ -22,7 +22,7 @@ jobs:
         shell: python
         run: |
           from pathlib import Path
-          import re, xml.etree.ElementTree as ET
+          import xml.etree.ElementTree as ET
           ns = {'h': 'http://www.w3.org/1999/xhtml'}
           print('=== KOREAN HEADINGS 054-125 ===')
           for n in range(54, 126):
@@ -42,6 +42,9 @@ jobs:
       - name: Prepare inventories and policy
         run: python tools/setup_reprocessing.py
 
+      - name: Build Chapters 14-54 sanitization review queue
+        run: python tools/build_sanitization_candidates.py
+
       - name: Verify source integrity and tracking
         run: |
           python tools/verify_recovery.py
@@ -55,6 +58,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add editorial recovery tools
           if ! git diff --cached --quiet; then
-            git commit -m "editorial: register Korean coverage through chapter 125"
+            git commit -m "editorial: refresh reprocessing evidence and audit queue"
             git push origin HEAD:editorial/reprocess-0014-0125
           fi
