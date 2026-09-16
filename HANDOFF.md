@@ -5,12 +5,11 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-16
-- **Updated by:** ChatGPT — Hellhound-family acceptance checkpoint
-- **Working branch:** `editorial/restart-hellhound-family`
-- **Open PR:** pending creation
-- **Base:** `main`
-- **Base main commit:** `6186004e6e095401e457b1b258a6545bb07b7640`
-- **Reason for current state:** Chapters 1–3 were fully rebuilt and accepted under the restarted Chinese-semantic/Fandom-canonical workflow. The next family boundary has already been verified.
+- **Updated by:** ChatGPT — Baskerville Dog family source-review checkpoint
+- **Working branch:** `editorial/restart-baskerville-dog-family`
+- **Previous PR:** #7 — merged into `main`
+- **Merged main checkpoint:** `786cbd96627a86fca550ee684001b7ba2cc94665`
+- **Open PR for current branch:** none yet
 
 ## Authoritative current checkpoint
 
@@ -18,150 +17,142 @@
 - **Accepted:** **3**
 - **Staged:** **0**
 - **Next chapter:** **4**
-- **Latest accepted family:** **Chapters 1–3 — Hellhound (1)–(3)**
-- **Next active title family:** **Chapters 4–7 — The Baskerville Dog (1)–(4)**
-- **Next-family boundary:** **VERIFIED**. Chinese Chapters 4–7 are parts (1)–(4) of the Baskerville-dog/hounds title family; Chinese Chapter 8 changes to `地狱的猎犬 (1)` and the aligned English reference calls it *Hounds of Hell (1)*.
+- **Latest accepted family:** Chapters 1–3 — *Hellhound (1)–(3)*
+- **Active family:** **Chapters 4–7 — The Baskerville Dog (1)–(4)**
+- **Family boundary:** **VERIFIED**. Chinese 4–7 are parts (1)–(4); Chinese 8 changes to `地狱的猎犬 (1)` and aligned English Chapter 8 is *Hounds of Hell (1)*.
+- **Current work state:** Chinese 4–7 fully read; MTL 4–7 content-aligned; current Fandom terminology research completed for the main consequential terms; drafting and QA remain.
 - **Blocking issue:** none
-
-The earlier one-chapter Chinese-first Chapter 1 acceptance remains superseded. The current Chapters 1–3 acceptance is the first valid production acceptance after the full restart.
 
 ## Rules that must not be lost
 
-### Semantic versus canonical authority
-
-- Chinese raw = semantic/narrative authority: plot, dialogue meaning, sequence, explicitness, omissions/additions, and identification of what appears in the source.
+- Chinese raw = semantic/narrative authority.
 - English Fandom wiki = canonical English authority for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns.
 - English MTL = secondary alignment/phrasing reference only except Chapter 55.
-- Wiki material never authorizes adding later revelations or narrative content absent from the Chinese source.
-- Do not sanitize source content.
+- Do not sanitize source material.
+- Process complete contiguous title families; a chapter/family/PR merge is a checkpoint, not a stopping condition.
+- Do not assume target N == MTL N without content verification.
 
-### Continuous title-family processing
+## Accepted production state — Chapters 1–3
 
-- Determine the complete contiguous title-family boundary before accepting a chapter in that family.
-- Process the entire family as one continuity/QA batch.
-- Completing a chapter, family, PR, or merge is **not a stopping condition**.
-- Continue directly into subsequent title families for as long as safe work can be completed, unless the user explicitly pauses/stops, the corpus ends, or a genuine blocker prevents safe editorial work.
+Chapters 1–3 are accepted under the restarted workflow with fresh drafts, chapter QA, family QA, provenance, and acceptance records. The first valid post-reset production checkpoint is therefore **3/500**.
 
-### Source exceptions already established
+Key accepted early terminology includes Vikir Van Baskerville, Hugo Le Baskerville, Marquis (with the Chinese Count conflict documented), Baskerville Clan / Iron-Blooded Sword Clan, Cradle of Swords, River Styx, and contextual Seven Great Families/Clans.
 
-- Chapter 55: Chinese raw missing; verified MTL Chapter 55 fallback.
-- Combined raw containers retained intact: `075.txt`→75–76, `267.txt`→267–268, `284.txt`→284–285, `351.txt`→351–352, `353.txt`→353–354, `385.txt`→385–386, `495.txt`→495–496.
-- Verified nontrivial MTL mappings already recorded: target 75→MTL 74, 76→75, 267→265, 268→266.
-- Do not assume target N == MTL N elsewhere without content verification.
+## Active family source review — Chapters 4–7
 
-## Completed work — Chapters 1–3
+### Target↔MTL alignment — VERIFIED
 
-### Family boundary and alignment
-
-- Ch. 1 — Hellhound (1) → MTL 1, verified by title/content/opening/ending.
-- Ch. 2 — Hellhound (2) → MTL 2, verified by title/content/opening/ending.
-- Ch. 3 — Hellhound (3) → MTL 3, verified by title/content/opening/ending.
-- Chinese Ch. 4 changes title family, so 1–3 is complete.
-
-### Accepted output/evidence
-
-- `manuscript/drafts/chapter-0001.md`
-- `manuscript/drafts/chapter-0002.md`
-- `manuscript/drafts/chapter-0003.md`
-- `qa/chapter-0001.md`
-- `qa/chapter-0002.md`
-- `qa/chapter-0003.md`
-- `qa/families/hellhound-0001-0003.md`
-- `qa/acceptance/chapter-0001.json`
-- `qa/acceptance/chapter-0002.json`
-- `qa/acceptance/chapter-0003.json`
-- `editorial/provenance/chapter-0001.json`
-- `editorial/provenance/chapter-0002.json`
-- `editorial/provenance/chapter-0003.json`
-
-The family QA passed the intentional Ch. 1→2 replay, Ch. 2→3 progression, and Ch. 3→4 eight-year-timeskip boundary.
-
-### Accepted canonical/translation decisions from the family
-
-- **Vikir Van Baskerville** — canonical English form.
-- **Hugo Le Baskerville** — canonical English form.
-- **Marquis** — canonical English title for Hugo; Chinese Ch. 1 uses `伯爵` (“Count”) at one point, and that source conflict is preserved in QA/provenance.
-- **Baskerville Clan** / **Iron-Blooded Sword Clan** — canonical organization forms where a formal organization name is intended; ordinary family/kinship prose remains contextual.
-- **Cradle of Swords** — canonical English trial name; Chinese variants in Ch. 1–2 refer to the same trial in context.
-- **River Styx** — canonical English proper name; mechanics are taken from Chinese.
-- **Seven Great Families / Seven Great Clans** — use contextually without importing later lore.
-- Ch. 3 snake species uses **Bloody Mamba** as a transparent recovered-English continuity choice because current Fandom retrieval did not expose a dedicated canonical species entry; the limitation is documented.
-- Do **not** import MTL-only “Le Rogue Mountains” or “Fang Castle” into Ch. 3 without Chinese/canonical support.
-
-## Key source findings preserved in accepted Chapters 1–3
-
-### Chapter 1
-
-- execution placard retained;
-- humanity’s victory carved into stone;
-- Vikir’s wish to live and live again retained;
-- Cradle/Styx mechanics follow Chinese;
-- Hugo’s Demon Realm/watch-my-back dialogue restored;
-- final “young master is drinking the water” exchange restored;
-- Hugo’s open-mouthed shock restored;
-- Chinese 100-days wording inconsistency preserved rather than invented away.
-
-### Chapter 2
-
-- intentional replay of nursery/Cradle events preserved;
-- rabbit/hunting-dog proverb preserved;
-- Vikir bearing Hugo’s sins / “knowing too much” restored;
-- Styx wound/internal-organ/full-body blessing mechanics retained;
-- old poisoned-heel Baskerville-warrior anecdote retained;
-- final teeth/fangs scene retained.
-
-### Chapter 3
-
-- full past-life age timeline retained and repaired;
-- mothers arranging extra nursing for their own children restored;
-- snake gore, defecation, and urination retained without sanitization;
-- source inconsistency about venomous fangs documented;
-- unsupported MTL location additions removed;
-- chapter-ending revenge wait + eight-year timeskip retained.
-
-## Next family — Chapters 4–7
-
-### Verified title boundary
-
-| Target | Chinese heading | Aligned English title | Alignment state |
+| Target | Chinese family part | English reference | Evidence |
 | --- | --- | --- | --- |
-| 4 | `巴斯克维家的狗 (1)` | *The Baskerville Dog (1)* | MTL 4 title verified; full content review still required |
-| 5 | `巴斯克维家的猎犬们 (2)` | *The Baskerville Dog (2)* | MTL 5 title verified; full content review still required |
-| 6 | `巴斯克维家族的猎犬们 (3)` | *The Baskerville Dog (3)* | MTL 6 title verified; full content review still required |
-| 7 | `巴斯克维家的猎犬们 (4)` | *The Baskerville Dog (4)* | MTL 7 title verified; full content review still required |
-| 8 | `地狱的猎犬 (1)` | *Hounds of Hell (1)* | boundary evidence; begins next family |
+| 4 | Baskerville dog/hounds (1) | MTL 4 — *The Baskerville Dog (1)* | same eight-year opening, sword-rank lesson, triplets, two-suns ending |
+| 5 | part (2) | MTL 5 — *The Baskerville Dog (2)* | same triplet abduction, ten-minute suffocation attempt, injuries, dagger ending |
+| 6 | part (3) | MTL 6 — *The Baskerville Dog (3)* | same Barrymore report, Morgue ruby dispute, triplet aftermath, Hugo/Vikir interview |
+| 7 | part (4) | MTL 7 — *The Baskerville Dog (4)* | same Hugo/Vikir philosophy exchange, pantry reward, Bloody Beans ending |
 
-### Known terminology work for Chapters 4–7
+Chinese source SHAs:
+- `004.txt` — `a72d0371ccf0b3da0ad5a4cdb660ac7223753379`
+- `005.txt` — `2c2540ed32360a8010ff2083fdb6151d1b758971`
+- `006.txt` — `66ddbad71c43a90215fa1f56f4336071033c4e3a`
+- `007.txt` — `f1a4dcf06a722c6d14b38d8beb08a425d471eb4d`
 
-- Rebuild sword-rank terminology from Chinese + current Fandom evidence. Historical forms **Sword Beginner / Expert / Graduator / Master** are leads only until this family is reviewed.
-- Verify any rank definitions/subranks precisely; do not inherit old Chapter 4 acceptance automatically.
-- Verify **John Barrymore** / butler terminology when Chapter 6 is reviewed.
-- Revalidate any Baskerville techniques, fang numbering/forms, locations, exam terminology, or named people against Fandom when they first appear.
-- Protect later-reveal chronology even if wiki pages expose advanced forms or identities.
+Aligned English-reference SHAs:
+- MTL 4 — `42ad39ef16ea789978c405e5c80038df6edf3a08`
+- MTL 5 — `e8d0886160b5d4ec02db37cb7f939e77eb87631f`
+- MTL 6 — `4827e0019e9a6e707c4e75debed26a974e9e4a33`
+- MTL 7 — `9d5414b25ad77e975bfb326666cc868be161953b`
+
+## Current canonical terminology decisions for Chapters 4–7
+
+### Sword ranks
+
+Fandom evidence supports the four-stage system and mechanics:
+- **Sword Beginner** — cannot channel/imbue mana into the sword.
+- **Sword Expert** — can channel mana; aura is gas-like.
+- **Sword Graduator** — aura becomes liquid-like / dense and concentrated.
+- **Sword Master** — aura becomes solid and can be shaped at will.
+
+Use **Sword Graduator**, not a newly invented synonym. Fandom itself contains some inconsistent prose using “Graduate,” but its Baskerville swordsmanship page, Vikir progression page, character rank fields, and later rank references repeatedly use **Graduator**.
+
+Substages are **Low / Mid / High**. Chinese Chapter 4 places eight-year-old Vikir at **High Sword Expert**. Preserve the Chinese statement that in his previous life he reached that level at **sixteen**, not the MTL’s corrupted age-ten line.
+
+### Triplets
+
+Canonical forms:
+- **Highbro Le Baskerville**
+- **Middlebro Le Baskerville**
+- **Lowbro Le Baskerville**
+
+They are collectively described by Fandom as the **Three Spears of Baskerville** / Hugo’s Trident. Use “Baskerville’s Trident” contextually where the source uses the trident image; do not backfill later loyalty/reveal material.
+
+### John Barrymore
+
+Use **John Barrymore**, canonical **Head Butler** of the Baskerville family/clan. Fandom explicitly places his novel first appearance at Chapter 6 — *The Baskerville Dog (3)* and notes his four generations of service.
+
+### Morgue / ruby-mine dispute
+
+Chinese `米尔格` in Chapter 6 corresponds to the canonical **Morgue Clan**. Fandom confirms the Morgue Clan as one of the Seven Great Clans and explicitly records the ruby-mine border dispute with the Baskervilles.
+
+Use **Red Fang Mountain** for the ruby-mine area. Fandom identifies Red Fang Mountain as a branch of Le Rouge et Le Noir Mountain and specifically notes the Baskerville/Morgue ruby mines there. Do not retain MTL’s unsupported “Red Cane Mountain.”
+
+### Rok Empire / Seven Great Clans
+
+Use **Rok Empire** and **Seven Great Clans/Families** according to sentence context. Fandom explicitly places both Baskerville and Morgue within the Seven Great Clans of the Rok Empire.
+
+### Bloody Beans
+
+Fandom synopsis independently confirms **Bloody Beans** as the extremely concentrated cocoa beans Vikir requests from the pantry in this sequence. Preserve Chinese mechanics: roughly 100+ red beans; one bean is said to flavor enough material for about 100 liters of chocolate; the whole pouch therefore represents roughly 10,000 liters.
+
+### Child-rearing castle naming
+
+Chinese varies among forms equivalent to Milk-Tooth Castle / Young-Wolf Castle / childhood or nursery castle. The recovered MTL consistently uses **Fang Castle**, but current Fandom retrieval does not expose a dedicated canonical location entry. Do not claim Fandom verification. For the restarted draft, use a transparent descriptive rendering unless a stronger canonical source is found during final QA; if `Fang Castle` is retained as a recovered-English fallback, document that limitation explicitly.
+
+## Major source corrections / risks to preserve
+
+### Chapter 4
+
+- Use Chinese rank definitions, not MTL grammar.
+- Hugo has **7th-Circle-equivalent mana** and is a Sword Master.
+- Chinese says only seven people in Rok have reached that level in this public understanding, corresponding to the heads of the Seven Great Clans.
+- Chinese says previous-life Vikir reached High Sword Expert at **16**, not 10.
+- Canonical triplet names are Highbro / Middlebro / Lowbro.
+- The ending implies Vikir’s mana manifestation is enormous enough that a distant guard sees what looks like a second sun above the child-rearing castle.
+
+### Chapter 5
+
+- Preserve the full ten-minute suffocation attempt.
+- Vikir bites off Lowbro’s index finger; surrounding Chinese wording about the wager is damaged, so use the surrounding bet sequence + aligned MTL only to repair the local sentence, not to alter the event.
+- Preserve broken nose/teeth, dislocated/broken jaw, severed finger, urine, blood, saliva, tears, and the dagger threat without sanitizing.
+- Highbro’s dagger cannot pierce Vikir because of Styx protection.
+- Chapter ends with Vikir forcing the triplets to turn on one another over who may leave alive.
+
+### Chapter 6
+
+- John Barrymore reports to Hugo.
+- Replace Chinese transliteration `米尔格` with canonical Morgue Clan after entity identification.
+- Ruby-mine dispute is at **Red Fang Mountain**.
+- Remove the MTL’s stray “Advertisement.”
+- Hugo’s first reaction to a “serious fight” is to ask how many died; preserve the brutality.
+- The triplets were physically healed but psychologically broken as a unit.
+- Vikir’s thesis to Hugo is that carrying three soft/poor swords is worse than one well-forged good sword.
+- Chapter ends with Vikir stating that the strong cannot be wrong because Baskerville doctrine treats weakness itself as sin.
+
+### Chapter 7
+
+- Preserve Hugo’s cold instrumental view of people as weapons.
+- Chinese makes clear Hugo became the “eldest”/heir by killing older brothers; do not soften this implication.
+- Preserve the destroyed-family survivor/nun forgiveness anecdote.
+- Hugo grants Vikir access to the pantry and tells him not to lose to the direct line in the midterm.
+- Children under fifteen eat water + haggis-like meat/offal mash; sweets/chocolate are performance rewards.
+- Preserve the pantry/cocoa-bean logic and **Bloody Beans**.
+- Do not “correct” Bloody Beans into ordinary sweet chocolate; their extreme bitterness/concentration is plot-relevant.
 
 ## Exact next actions
 
-1. Create/open the Hellhound-family PR from `editorial/restart-hellhound-family`, verify it is mergeable, and merge it into `main`.
-2. Immediately create a new editorial branch from the merged `main` for Chapters 4–7.
-3. Read complete Chinese raws `004.txt` through `007.txt` and inspect `008.txt` only as needed for boundary continuity.
-4. Read complete recovered English references `chapter-004.xhtml` through `chapter-007.xhtml`; confirm each target↔MTL mapping by content, not merely title/number.
-5. Perform current Fandom canonical-reference research for every consequential proper noun/term in 4–7, especially sword ranks, Barrymore, named techniques/forms, locations, and formal titles.
-6. Draft Chapters 4–7 from Chinese in natural modern English, using MTL only as secondary reference and preserving all explicit/source-specific detail.
-7. QA each chapter and the full 4–7 family as one unit; verify the Ch. 3→4 eight-year transition and Ch. 7→8 family boundary.
-8. Create fresh provenance/acceptance evidence, promote only revalidated glossary entries, and advance tracker/status/progress.
-9. Update this `HANDOFF.md` after each meaningful checkpoint and before any session ends.
-10. Continue immediately into the Chapter 8 title family after 4–7 is integrated unless a genuine blocker appears.
-
-## Session-end checklist for future agents
-
-Before stopping, ensure:
-
-- checkpoint counts match tracker/status;
-- active family and next chapter are explicit;
-- in-progress work is described precisely;
-- MTL mappings are recorded;
-- Fandom checks done/pending are recorded;
-- source conflicts and unresolved issues are recorded;
-- branch/PR/merge state is current;
-- exact next actions are ordered and concrete;
-- `HANDOFF.md` has been updated after the latest meaningful work.
+1. Draft Chapters 4–7 from Chinese using the canonical decisions above.
+2. Keep the four chapters internally consistent in sword-rank terminology, triplet naming, Barrymore naming, Morgue/Red Fang terminology, and location handling.
+3. QA each chapter against the complete Chinese raw and aligned MTL; record every consequential MTL omission/addition/corruption.
+4. Run family-level QA across Ch. 3→4 (eight-year transition), 4→5 (triplet confrontation), 5→6 (aftermath report), 6→7 (same Hugo interview), and 7→8 (Bloody Beans feeding directly into the practical-assessment/Hounds of Hell family).
+5. Create provenance and acceptance records only after the whole 4–7 family passes.
+6. Promote revalidated glossary entries, update tracker/status/project/progress, and update this handoff.
+7. Open/merge the 4–7 family PR.
+8. Immediately begin the Chapter 8 *Hounds of Hell* family unless a genuine blocker appears.
