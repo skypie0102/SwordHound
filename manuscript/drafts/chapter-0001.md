@@ -227,7 +227,7 @@ Hugo gazed at the river with regret.
 Exclamations rose from all around.
 
 <!-- source-p:075 -->
-What could have startled the family’s normally unshakable guardian knights?
+What could have made the family’s normally unshakable guardian knights tremble in fear?
 
 <!-- source-p:076 -->
 Hugo raised his head with a puzzled expression.
@@ -266,7 +266,7 @@ A blade had marked his soft, pale cheek.
 His waist and forearms were cut and torn.
 
 <!-- source-p:088 -->
-His knees were bruised, and his soft palms were already bloody.
+His knees were covered in scrapes, and his small hands were already covered in blood.
 
 <!-- source-p:089 -->
 The child crawled on, leaving a bloody trail between the countless blades.

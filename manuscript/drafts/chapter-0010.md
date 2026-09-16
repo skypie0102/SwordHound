@@ -72,7 +72,7 @@ Foam gathered around its mouth, and thick saliva streamed out.
 Watery stool leaked from it as its entire body shook with spasms.
 
 <!-- source-p:024 -->
-Its heart hammered as though it might burst, and the blood vessels in its eyes swelled red.
+Its heart hammered as though it might burst, and its bloodshot eyes looked ready to burst as well.
 
 <!-- source-p:025 -->
 ‘As expected.’

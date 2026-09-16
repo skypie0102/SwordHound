@@ -428,7 +428,7 @@ The bottom of Vikir’s pit bristled with countless sharpened wooden stakes.
 Most shattered against Cerberus’s tough hide, but some managed to pierce through.
 
 <!-- source-p:144 -->
-They drove into its body and opened serious wounds.
+They drove into its body and opened grievous, potentially fatal wounds.
 
 <!-- source-p:145 -->
 Most of those wounds clustered around the inner flank where the earlier arrow injury had already torn deep.

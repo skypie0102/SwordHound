@@ -3,7 +3,7 @@
   "source": "source/chapters/chapter-008.xhtml",
   "source_sha256": "d0174210fffb9ee884a456e0c70d31f6c5de6620de3da01193210fcdd288d26f",
   "draft": "manuscript/drafts/chapter-0008.md",
-  "draft_sha256": "1047f2778a3fa9fb4cf11aa9c6ab60432b3c23329992b9260b7993750b21732b",
+  "draft_sha256": "3a4e9d00c35388d3560efa4581bf80c0b26a26fc7a61cb6e1c3863bae83afde3",
   "paragraph_count": 104,
   "changed_paragraphs": 104,
   "paragraphs": [
@@ -153,11 +153,11 @@
     {
       "paragraph": 12,
       "source_text_sha256": "b31b191233873c9bdebe7b699c1eb44d7a69669be45cf90abc5cedc8bae84a88",
-      "draft_text_sha256": "692ce066b2828e0720a00a46c2690460ad91b791bbf685b91f07ee8fdbc73e7d",
+      "draft_text_sha256": "03a0d5ce19a283c9c7bcebb902abe22b808b8a148cee6d9db22a9ad0c791ffe8",
       "source_text": "In the broth made from boiling chicken bones, various types of fish, which are full of meat, are beaten and boiled until they turn into mush.",
-      "draft_text": "Tough, sinewy cuts of meat were simmered in broth made from chicken bones until everything softened into a thick mash.",
+      "draft_text": "Various kinds of tough, sinewy offal were simmered in chicken-bone broth until everything softened into a thick mash.",
       "changed": true,
-      "rationale": "Use the Korean meat/chicken-bone-broth preparation rather than the MTL fish corruption.",
+      "rationale": "Sanitization re-review: Korean explicitly says various kinds of offal/internal organs; do not generalize this to ordinary cuts of meat.",
       "open_issues": [],
       "korean_lines": [
         16

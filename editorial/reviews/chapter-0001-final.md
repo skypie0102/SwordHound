@@ -32,3 +32,9 @@ Editorial acceptance is separate from EPUB packaging and distribution. The chapt
 ## Persistent source limitations
 
 The supplied Korean has inconsistent transcriptions and some anomalous wording. Explicit adjudications—including the earlier 100-day harmonization and the decisions above—remain documented even after editorial closure. Namu content was not accessible during the preceding source review; no verification claim is made for that site. Acceptance means that the project has chosen and reviewed its reconstruction under this evidence, not that every source discrepancy has been proven away.
+
+## 2026-09-16 sanitation fidelity re-review
+
+The previously accepted English was rechecked specifically for source sanitization against the supplied Korean witness. Paragraph(s) 75, 88 contained localized softening, generalization, or omission of source intensity/specificity. The authoritative edit set was corrected, the chapter was regenerated from source, the QA record was formally reopened and resolved, and new acceptance hashes were calculated. The correction standard is fidelity rather than gratuitous intensification: preserve the source's actual force and anatomical/violent specificity, but do not make it harsher than the evidence supports.
+
+See `editorial/reviews/sanitization-audit-0001-0013.md` for the cross-chapter audit and `editorial/reviews/sanitization-corrections-0001-0013.json` for the exact replacements.
