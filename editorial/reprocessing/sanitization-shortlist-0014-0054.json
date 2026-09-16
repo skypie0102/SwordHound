@@ -1,0 +1,6617 @@
+{
+  "notice": "Shortlist remains diagnostic. These rows have a sensitive Korean keyword, no expected English stem in the rough positional window, and no obvious prior-review mention. They require manual context/alignment judgment.",
+  "count": 100,
+  "by_category": {
+    "bodily_functions": 80,
+    "degradation_slavery": 13,
+    "organs_entrails": 7
+  },
+  "by_chapter": {
+    "14": 5,
+    "17": 1,
+    "19": 2,
+    "20": 2,
+    "21": 4,
+    "23": 4,
+    "24": 4,
+    "25": 1,
+    "26": 1,
+    "29": 2,
+    "30": 8,
+    "31": 1,
+    "33": 4,
+    "35": 3,
+    "36": 2,
+    "37": 1,
+    "38": 2,
+    "39": 5,
+    "40": 10,
+    "41": 2,
+    "42": 2,
+    "43": 4,
+    "45": 8,
+    "47": 2,
+    "48": 2,
+    "49": 1,
+    "50": 5,
+    "52": 5,
+    "54": 7
+  },
+  "candidates": [
+    {
+      "chapter": 14,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 22,
+      "korean_context": [
+        {
+          "index": 21,
+          "text": "금단의 땅 바깥의 지형과 생태계에 대한 증언을 듣 거나 지도를 그리는 것만으로도 엄청난 성과였을 것이다."
+        },
+        {
+          "index": 22,
+          "text": "하지만 이 전례 없는 8살짜리 아이는 지옥 에 침입해 살아남았을 뿐만 아니라, 지옥의 케르베로스 까지 사로잡았습니다!"
+        },
+        {
+          "index": 23,
+          "text": "\"... 지옥의 케르베로스는 가문 의 수호기사들조차 상대하기 까다로운 고급 몬스터 입니다.\""
+        }
+      ],
+      "estimated_english_paragraph": 21,
+      "english_context": [
+        {
+          "index": 18,
+          "text": "It’s the second time he talking about, but it still sounded ridiculous."
+        },
+        {
+          "index": 19,
+          "text": "An 8-year-old child went out to the forbidden area and came back alive."
+        },
+        {
+          "index": 20,
+          "text": "Actually, this alone is great enough."
+        },
+        {
+          "index": 21,
+          "text": "Just being able to draw a map or listen to testimonies that help them guess the topography and ecosystem outside the Unsealed Zone is a tremendous achievement."
+        },
+        {
+          "index": 22,
+          "text": "However, this unprecedented 8-year-old child went into hell and returned to life unharmed, and even brought back Cerberus, the guard dog of hell!"
+        },
+        {
+          "index": 23,
+          "text": "“……Cerberus is a high-ranking monster that even the family guardian knights feel burdened to deal with.”"
+        },
+        {
+          "index": 24,
+          "text": "Hugo stroked his beard with a puzzled expression."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 14,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 73,
+      "korean_context": [
+        {
+          "index": 72,
+          "text": "저도 그렇게 생각해요."
+        },
+        {
+          "index": 73,
+          "text": "피레우스의 침착한 답변에 헤이가오의 입꼬리가 살짝 올라갔다."
+        },
+        {
+          "index": 74,
+          "text": "헤이가오는 약간 차가운 목소리로 물었다."
+        }
+      ],
+      "estimated_english_paragraph": 70,
+      "english_context": [
+        {
+          "index": 67,
+          "text": "“Yes.”"
+        },
+        {
+          "index": 68,
+          "text": "Vikir gave a short answer."
+        },
+        {
+          "index": 69,
+          "text": "After thinking for a while, Hugo opened his mouth again."
+        },
+        {
+          "index": 70,
+          "text": "“If true, the value of the information is quite great. It will be useful when subjugating canine monsters. There will be many advantages in trade with the information guild when raising dispatch results.”"
+        },
+        {
+          "index": 71,
+          "text": "“I think so too.”"
+        },
+        {
+          "index": 72,
+          "text": "The corner of Hugo’s mouth went up slightly at Vikir’s nonchalant reply."
+        },
+        {
+          "index": 73,
+          "text": "Hugo asked in a presumably cold voice."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 14,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 80,
+      "korean_context": [
+        {
+          "index": 79,
+          "text": "\"그렇다면 너의 주인은 누구냐?\""
+        },
+        {
+          "index": 80,
+          "text": "헤이가오의 질문에 피레우스는 다시 한번 침착하게 대답했다."
+        },
+        {
+          "index": 81,
+          "text": "\"저는 패밀리 의 일원이니, 패밀리 의 수장이 제 수장이 아닌가요?\""
+        }
+      ],
+      "estimated_english_paragraph": 76,
+      "english_context": [
+        {
+          "index": 73,
+          "text": "Hugo asked in a presumably cold voice."
+        },
+        {
+          "index": 74,
+          "text": "He said, “I heard that when the butler asked, he did not answer properly about hunting Cerberus.”"
+        },
+        {
+          "index": 75,
+          "text": "“You’re right. Because he is not my master.”"
+        },
+        {
+          "index": 76,
+          "text": "“Then who is your master?”"
+        },
+        {
+          "index": 77,
+          "text": "To Hugo’s question, Vikir answered again calmly."
+        },
+        {
+          "index": 78,
+          "text": "“I belong to a family, so wouldn’t the owner of the family be you?”"
+        },
+        {
+          "index": 79,
+          "text": "At that, Hugo finally nodded his head and smiled contentedly."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 14,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 82,
+      "korean_context": [
+        {
+          "index": 81,
+          "text": "\"저는 패밀리 의 일원이니, 패밀리 의 수장이 제 수장이 아닌가요?\""
+        },
+        {
+          "index": 82,
+          "text": "이 말을 듣고 헤이가오는 마침내 고개를 끄덕이며 만족스러운 미소를 지었다."
+        },
+        {
+          "index": 83,
+          "text": "\"잘 배웠군. 보상으로 네가 사로잡은 괴물의 시체는 네 것이 될 것이다.\""
+        }
+      ],
+      "estimated_english_paragraph": 78,
+      "english_context": [
+        {
+          "index": 75,
+          "text": "“You’re right. Because he is not my master.”"
+        },
+        {
+          "index": 76,
+          "text": "“Then who is your master?”"
+        },
+        {
+          "index": 77,
+          "text": "To Hugo’s question, Vikir answered again calmly."
+        },
+        {
+          "index": 78,
+          "text": "“I belong to a family, so wouldn’t the owner of the family be you?”"
+        },
+        {
+          "index": 79,
+          "text": "At that, Hugo finally nodded his head and smiled contentedly."
+        },
+        {
+          "index": 80,
+          "text": "“You learned well. As a reward, the carcass of the monster you caught will belong to you in its entirety.”"
+        },
+        {
+          "index": 81,
+          "text": "Cerberus, a monster of danger grade A+. Its corpse was worth the cost."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 14,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 151,
+      "korean_context": [
+        {
+          "index": 150,
+          "text": "모든 일이 해결되었다고 생각한 헤이가오는 아무렇지 않게 고개를 돌렸다."
+        },
+        {
+          "index": 151,
+          "text": "피레우스는 만좡 도서관 에 들어갈 허락을 받은 후, 마침내 정중하게 절을 하고 총대주교를 떠났다."
+        },
+        {
+          "index": 152,
+          "text": "그 다음에."
+        }
+      ],
+      "estimated_english_paragraph": 144,
+      "english_context": [
+        {
+          "index": 141,
+          "text": "Of course, if he had known what kind of evil lurked inside him, Hugo would have stopped Vikir even if he had to burn the library."
+        },
+        {
+          "index": 142,
+          "text": "“…….”"
+        },
+        {
+          "index": 143,
+          "text": "Thinking that he has finished all his business, Hugo just indifferently turned his head away."
+        },
+        {
+          "index": 144,
+          "text": "Having obtained access to the Inner Library, Vikir greeted politely until the end and then turned around and left the room."
+        },
+        {
+          "index": 145,
+          "text": "And."
+        },
+        {
+          "index": 146,
+          "text": "He set out on his way to the most precious treasure in all of the Baskervilles."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 17,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 20,
+      "korean_context": [
+        {
+          "index": 19,
+          "text": "바스커빌 5형식(Fifth Style)."
+        },
+        {
+          "index": 20,
+          "text": "비록 비키르 의 손이 불안정했지만, 그럼에도 불구하고 그것이 바로 비키르가 만들어낸 결과물이었다!"
+        },
+        {
+          "index": 21,
+          "text": "\"...이건 믿을 수 없어.\""
+        }
+      ],
+      "estimated_english_paragraph": 20,
+      "english_context": [
+        {
+          "index": 17,
+          "text": "Baskerville Fifth."
+        },
+        {
+          "index": 18,
+          "text": "And there it was, in Vikir’s hands, unsteadily recreated!"
+        },
+        {
+          "index": 19,
+          "text": "“…In the world.”"
+        },
+        {
+          "index": 20,
+          "text": "Vikir repeated the gesture he had just made several times."
+        },
+        {
+          "index": 21,
+          "text": "The result: success."
+        },
+        {
+          "index": 22,
+          "text": "The trajectory of the sword was not quite right, given the child’s small hands and short arms, but it was there nonetheless."
+        },
+        {
+          "index": 23,
+          "text": "The fifth tooth was growing."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 19,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 27,
+      "korean_context": [
+        {
+          "index": 26,
+          "text": "이 사실을 알고 있었기에 버틀러 베리모어 와 다른 사람들은 쉽게 입을 열지 못했다."
+        },
+        {
+          "index": 27,
+          "text": "아래 사람들의 침묵을 더 이상 견딜 수 없었던 휴고는 먼저 나서서 자신의 생각을 표현했다."
+        },
+        {
+          "index": 28,
+          "text": "\"생각해 보니, 예전에 야만인들을 진압했을 때 남은 실험 대상 하나가 있지 않았나?\""
+        }
+      ],
+      "estimated_english_paragraph": 30,
+      "english_context": [
+        {
+          "index": 27,
+          "text": "Hugo, unable to bear the silence, spoke first."
+        },
+        {
+          "index": 28,
+          "text": "“Come to think of it, isn’t there an object that you captured as an experiment when you were exterminating the barbarians?”"
+        },
+        {
+          "index": 29,
+          "text": "“Yes, …. There is only one left.”"
+        },
+        {
+          "index": 30,
+          "text": "Deacon Barrymore answered matter-of-factly."
+        },
+        {
+          "index": 31,
+          "text": "Hugo smirked."
+        },
+        {
+          "index": 32,
+          "text": "“It must be weak from not being fed for so long.”"
+        },
+        {
+          "index": 33,
+          "text": "“Ha, but they’ll be just as fierce, I’m afraid, and not much of an opponent for one who’s just turned eight years old….”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 19,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 134,
+      "korean_context": [
+        {
+          "index": 133,
+          "text": "【아--!】"
+        },
+        {
+          "index": 134,
+          "text": "마치 내장을 뱉어낼 듯한 포효와 함께 트롤은 온 힘을 다해 비키르 에게 달려들었다."
+        },
+        {
+          "index": 135,
+          "text": "하지만 비키르는 여전히 트롤을 차갑게 바라보기만 했다."
+        }
+      ],
+      "estimated_english_paragraph": 151,
+      "english_context": [
+        {
+          "index": 148,
+          "text": "Hugo fell silent. The signal to resume the battle."
+        },
+        {
+          "index": 149,
+          "text": "[Caw! Caw! Caw!]"
+        },
+        {
+          "index": 150,
+          "text": "The trolls rampaged."
+        },
+        {
+          "index": 151,
+          "text": "Several of the Guardian Knights stepped out of the way of the troll’s rampage, removed the cuffs and chains, and led him back out into the open."
+        },
+        {
+          "index": 152,
+          "text": "Then. The troll, now completely free, pushed himself to his feet."
+        },
+        {
+          "index": 153,
+          "text": "His eyes, red and bloodshot, no longer even pupils."
+        },
+        {
+          "index": 154,
+          "text": "[He-ahhhhhh!]"
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 20,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 31,
+      "korean_context": [
+        {
+          "index": 30,
+          "text": "이 영역은 검술 고수 초급 이라고 불립니다."
+        },
+        {
+          "index": 31,
+          "text": "또한, 마나를 뒷받침하는 검술 또한 매우 중요합니다. 바스커빌 가문 의 대부분 구성원들은 ' 바스커빌류 ' 라는 검술을 배우는데, 이는 제1류, 제2류, 제3류 등 여러 단계로 나뉩니다."
+        },
+        {
+          "index": 32,
+          "text": "첫 번째 스타일은 송곳니 하나를 묘사할 수 있고, 두 번째 스타일은 송곳니 두 개를, 세 번째 스타일은 송곳니 세 개를, 네 번째 스타일은 송곳니 세 개를, 그리고 다섯 번째 스타일은 송곳니 세 개를 묘사할 수 있습니다..."
+        }
+      ],
+      "estimated_english_paragraph": 32,
+      "english_context": [
+        {
+          "index": 29,
+          "text": "Most young hounds of House Baskerville progress according to the following formula."
+        },
+        {
+          "index": 30,
+          "text": "Children of House Baskerville typically first become in touch with mana around the age of seven or eight, at which point they can, at best, concentrate it in their hands and feel its warmth."
+        },
+        {
+          "index": 31,
+          "text": "It’s not until around age 15 that they can truly channel mana into a sword and emit an aura."
+        },
+        {
+          "index": 32,
+          "text": "This is called the lower level of Sword Expert."
+        },
+        {
+          "index": 33,
+          "text": "Most members of the Baskerville family learn a sword technique called the Baskerville Style, which is divided into three levels: first, second, and third …."
+        },
+        {
+          "index": 34,
+          "text": "It starts with Baskerville 1, which is the level where you can draw a single tooth with the trajectory of the blade tip, then Baskerville 2, where you can draw two teeth, and then 3, 4, and 5, where you can draw three teeth…."
+        },
+        {
+          "index": 35,
+          "text": "Considering that most 15-year-old Baskervilles who reach the rank of Sword Expert are trained in Baskerville 1 swordplay, the following formula is established"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 20,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 164,
+      "korean_context": [
+        {
+          "index": 163,
+          "text": "허가오의 무심한 말에 아돌프 의 이마 에 핏줄이 솟구쳤다."
+        },
+        {
+          "index": 164,
+          "text": "아돌프는 미소를 지으며 목소리를 높인 후, 몇 번 헛기침을 하고 화제를 바꿨다."
+        },
+        {
+          "index": 165,
+          "text": "\"콜록. 흠. 그럼 합동 훈련에 대해 얘기해 볼까요? 아, 맞다!\""
+        }
+      ],
+      "estimated_english_paragraph": 168,
+      "english_context": [
+        {
+          "index": 165,
+          "text": "“Heh heh heh. Didn’t we have two children seriously injured last year, one from Baskerville and one from Morgue?”"
+        },
+        {
+          "index": 166,
+          "text": "“They survived, and were treated in time. How can you call that a loss?”"
+        },
+        {
+          "index": 167,
+          "text": "Hugo’s nonchalant words brought a line of blood to Adolf’s forehead."
+        },
+        {
+          "index": 168,
+          "text": "After a moment’s grimace, he coughed a few times and changed the subject."
+        },
+        {
+          "index": 169,
+          "text": "“Hmmm. Hum. So, let’s talk about this joint exercise, shall we? Oh, by the way!”"
+        },
+        {
+          "index": 170,
+          "text": "Just as he was about to cut to the chase, Adolf had a sudden thought."
+        },
+        {
+          "index": 171,
+          "text": "“I heard that there’s a supernova over Baskerville, and I’d really like to see it, I’m looking forward to it.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 21,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 11,
+      "korean_context": [
+        {
+          "index": 10,
+          "text": "바스커빌 가문 수장의 사무실은 마치 그 안에 생명이 존재하지 않는 것처럼 몹시 조용해졌다."
+        },
+        {
+          "index": 11,
+          "text": "이후, 카밀 이 다시 한번 그 침묵을 깼다."
+        },
+        {
+          "index": 12,
+          "text": "\" 루비 광산을 우리에게 돌려주시오.\""
+        }
+      ],
+      "estimated_english_paragraph": 11,
+      "english_context": [
+        {
+          "index": 8,
+          "text": "Hugo, too, remained silent, looking somewhat dazed."
+        },
+        {
+          "index": 9,
+          "text": "“What did I just hear?” is a thought that peeks through his poker face."
+        },
+        {
+          "index": 10,
+          "text": "The Baskervilles’ family room is silent, as if no living thing exists."
+        },
+        {
+          "index": 11,
+          "text": "The silence is broken once more by the camouflage."
+        },
+        {
+          "index": 12,
+          "text": "“Give it back, Ruby Mine.”"
+        },
+        {
+          "index": 13,
+          "text": "The camouflaged creature strides forward and holds out a white palm in front of you."
+        },
+        {
+          "index": 14,
+          "text": "Hugo, meanwhile, was still dumbfounded by the glare."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 21,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 29,
+      "korean_context": [
+        {
+          "index": 28,
+          "text": "휴고는 눈을 가늘게 뜨고 이쪽을 바라보았다."
+        },
+        {
+          "index": 29,
+          "text": "아돌프는 손수건을 꺼내 입을 가리고 마른기침을 했다."
+        },
+        {
+          "index": 30,
+          "text": "\"흠. 오해가 있는 것 같습니다. 나중에 바로잡도록 하겠습니다.\""
+        }
+      ],
+      "estimated_english_paragraph": 30,
+      "english_context": [
+        {
+          "index": 27,
+          "text": "A cold voice came from the front."
+        },
+        {
+          "index": 28,
+          "text": "Hugo turned to look at it, narrowing his eyes."
+        },
+        {
+          "index": 29,
+          "text": "Adolf pulled out his handkerchief, covered his mouth, and coughed."
+        },
+        {
+          "index": 30,
+          "text": "“Hmph. There seems to be a misunderstanding. I’ll be sure to clear that up later.”"
+        },
+        {
+          "index": 31,
+          "text": "“What does a puppy know? There is no need to explain to me the problem of the house education in the Morgue.”"
+        },
+        {
+          "index": 32,
+          "text": "Hugo’s words were barbed, but he seemed to have already lost his temper."
+        },
+        {
+          "index": 33,
+          "text": "Adolf turned to the Camus, thinking it was an accusation."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 21,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 73,
+      "korean_context": [
+        {
+          "index": 72,
+          "text": "이것은 휴고 에게 큰 골칫거리였다."
+        },
+        {
+          "index": 73,
+          "text": "오랫동안 침묵 속에 묻혀 있던 루비 광산 문제를 다시 제기할 필요가 있었을까요?"
+        },
+        {
+          "index": 74,
+          "text": "이 문제를 처리하는 것은 바스커빌 가문 에게는 자존심의 손실을 의미했지만, 밀지 가문 에게는 이익이 되는 일이었다."
+        }
+      ],
+      "estimated_english_paragraph": 75,
+      "english_context": [
+        {
+          "index": 72,
+          "text": "And Hugo with a scowl on his face."
+        },
+        {
+          "index": 73,
+          "text": "It’s embarrassing for an adult to argue with an 8-year-old, but this Adolf guy keeps trying to exploit her innocence for political purposes."
+        },
+        {
+          "index": 74,
+          "text": "It was very annoying for Hugo."
+        },
+        {
+          "index": 75,
+          "text": "Should we reignite the ruby mine issue, which we’ve been silent about?"
+        },
+        {
+          "index": 76,
+          "text": "For Baskerville, it’s a matter of pride, and for Morgue, it’s a matter of business."
+        },
+        {
+          "index": 77,
+          "text": "In the first place, rubies are more important to the Morgue than to Baskerville, as they are used as a key ingredient in magical experiments."
+        },
+        {
+          "index": 78,
+          "text": "Hugo is a closed-minded man who doesn’t like to interact with other families, so he just wants to keep his mind off the ruby veins."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 21,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 83,
+      "korean_context": [
+        {
+          "index": 82,
+          "text": "하지만 상대방은 어린아이였기에, 그는 속으로만 분노를 끓어오르게 할 수밖에 없었다."
+        },
+        {
+          "index": 83,
+          "text": "철혈검 가문 의 수장임에도 불구하고, 이는 마찬가지였다."
+        },
+        {
+          "index": 84,
+          "text": "바로 지금 이 순간에 말이죠."
+        }
+      ],
+      "estimated_english_paragraph": 85,
+      "english_context": [
+        {
+          "index": 82,
+          "text": "I can’t even stand to listen to the conversation between the girl named Camus and the guy named Adolf."
+        },
+        {
+          "index": 83,
+          "text": "‘No matter how you look at it, this is a political performance….’"
+        },
+        {
+          "index": 84,
+          "text": "But since the other party is a child, I can’t say anything, and I can only boil inside."
+        },
+        {
+          "index": 85,
+          "text": "Even if the iron-blooded swordsman, who is in a position to recognize things, asks me to stop."
+        },
+        {
+          "index": 86,
+          "text": "…Right then."
+        },
+        {
+          "index": 87,
+          "text": "A voice made Hugo’s ears perk up."
+        },
+        {
+          "index": 88,
+          "text": "“Don’t they teach you not to covet what belongs to others in Morgue?”"
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 23,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 34,
+      "korean_context": [
+        {
+          "index": 33,
+          "text": "비키르 의 아우라가 갑자기 폭발하자 놀라서 칼의 품질을 제대로 살펴보지 못한 것은 큰 실수였다."
+        },
+        {
+          "index": 34,
+          "text": "신중하고 침착하기로 유명했던 아돌프가 당황하고 놀라는 모습을 보자 허가오레이 바스커빌은 만족감을 느꼈다."
+        },
+        {
+          "index": 35,
+          "text": "그러므로 그는 방금 전 자신도 놀랐다는 사실을 금세 잊어버렸다."
+        }
+      ],
+      "estimated_english_paragraph": 34,
+      "english_context": [
+        {
+          "index": 31,
+          "text": "It was only at Hugo’s words, which seemed to surprise him, that Adolf opened his eyes and saw the sword in Vikir’s hand."
+        },
+        {
+          "index": 32,
+          "text": "It was a crude rubber knife, obviously a fake, the sort of thing that even the average child in the world would play with."
+        },
+        {
+          "index": 33,
+          "text": "My mistake was that I didn’t recognize the quality of the knife in Vikir’s momentary burst of strength."
+        },
+        {
+          "index": 34,
+          "text": "Seeing Adolf, who was known for his meticulousness and composure, stumble in surprise gave Hugo a bit of satisfaction."
+        },
+        {
+          "index": 35,
+          "text": "He quickly forgot his own surprise."
+        },
+        {
+          "index": 36,
+          "text": "“Now, I’ve thought of something about the ruby mine. Maybe the Morgue will like it.”"
+        },
+        {
+          "index": 37,
+          "text": "“….”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 23,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 71,
+      "korean_context": [
+        {
+          "index": 70,
+          "text": "\"야아아!\""
+        },
+        {
+          "index": 71,
+          "text": "큰 외침 소리가 울려 퍼졌다."
+        },
+        {
+          "index": 72,
+          "text": "카밀은 즉시 마법을 사용하여 비키르 를 공격했다."
+        }
+      ],
+      "estimated_english_paragraph": 71,
+      "english_context": [
+        {
+          "index": 68,
+          "text": "The bell rang, signaling the start of the real competition."
+        },
+        {
+          "index": 69,
+          "text": "And with that, the match began."
+        },
+        {
+          "index": 70,
+          "text": "“Yaaaaaah!”"
+        },
+        {
+          "index": 71,
+          "text": "A loud cheer rang out."
+        },
+        {
+          "index": 72,
+          "text": "Camus immediately drew up his mana and charged at Vikir."
+        },
+        {
+          "index": 73,
+          "text": "A performance that draws all of its power from the start."
+        },
+        {
+          "index": 74,
+          "text": "It’s a great way to get a quick start, but in the long run, it’s not a good strategy because it reveals all of your cards."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 23,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 74,
+      "korean_context": [
+        {
+          "index": 73,
+          "text": "경기 시작부터 자신의 모든 힘을 발휘하는 모습을 보여주었다."
+        },
+        {
+          "index": 74,
+          "text": "아우라 측면에서는 훌륭했지만, 장기적으로 볼 때 이 전략은 그녀의 비장의 카드를 노출시켰기 때문에 현명하지 못했습니다."
+        },
+        {
+          "index": 75,
+          "text": "하지만 카미유 의 재능은 정말 놀라웠습니다."
+        }
+      ],
+      "estimated_english_paragraph": 74,
+      "english_context": [
+        {
+          "index": 71,
+          "text": "A loud cheer rang out."
+        },
+        {
+          "index": 72,
+          "text": "Camus immediately drew up his mana and charged at Vikir."
+        },
+        {
+          "index": 73,
+          "text": "A performance that draws all of its power from the start."
+        },
+        {
+          "index": 74,
+          "text": "It’s a great way to get a quick start, but in the long run, it’s not a good strategy because it reveals all of your cards."
+        },
+        {
+          "index": 75,
+          "text": "However, Camus’s talent was indeed impressive."
+        },
+        {
+          "index": 76,
+          "text": "Quadra casting!"
+        },
+        {
+          "index": 77,
+          "text": "He casts four spells at the same time, when most people can’t even cast two in a row."
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 23,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 120,
+      "korean_context": [
+        {
+          "index": 119,
+          "text": "\"이 손은 누구의 손입니까?\""
+        },
+        {
+          "index": 120,
+          "text": "카미유 의 벽을 뚫고 그녀의 공간을 침범한 손."
+        },
+        {
+          "index": 121,
+          "text": "카밀은 너무 놀라서 아무 말도 못 했지만, 비 키르 의 손가락은 빠르게 움직였다."
+        }
+      ],
+      "estimated_english_paragraph": 119,
+      "english_context": [
+        {
+          "index": 116,
+          "text": "…Puck!"
+        },
+        {
+          "index": 117,
+          "text": "The two layers of mud are as easy to break through as a sheet of paper."
+        },
+        {
+          "index": 118,
+          "text": "It was Vikir’s hand that broke through the wall and stretched out in front of Camus face."
+        },
+        {
+          "index": 119,
+          "text": "“Who does this hand belong to?”"
+        },
+        {
+          "index": 120,
+          "text": "The hand that broke through Camus wall and into her space."
+        },
+        {
+          "index": 121,
+          "text": "Vikir’s fingers moved quickly while Camus was stunned and unable to find the words to answer."
+        },
+        {
+          "index": 122,
+          "text": "“The answer is, turn off the stronger one.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 24,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 132,
+      "korean_context": [
+        {
+          "index": 131,
+          "text": "하지만 이제 그는 고개를 숙이고 정중하게 대답하는 것밖에 할 수 없었다."
+        },
+        {
+          "index": 132,
+          "text": "\"그럼에도 불구하고, 밀게가 우리 영토로 들어오는 움직임을 면밀히 감시할 필요가 여전히 있다고 생각합니다.\""
+        },
+        {
+          "index": 133,
+          "text": "\"그 부분은 걱정하실 필요 없습니다. 이미 그곳에 투입하는 사냥개 수를 점진적으로 늘려왔습니다.\""
+        }
+      ],
+      "estimated_english_paragraph": 131,
+      "english_context": [
+        {
+          "index": 128,
+          "text": "Vikir knew this well, for before the regression, he had served as a hound to drive demons and barbarians toward the Morgue."
+        },
+        {
+          "index": 129,
+          "text": "For now, however, he must simply lower his eyes and answer politely."
+        },
+        {
+          "index": 130,
+          "text": "“Still, I think we should carefully monitor the movements of any Morgue who have entered our territory, just in case.”"
+        },
+        {
+          "index": 131,
+          "text": "“There is no need to worry about that. I have been slowly increasing the number of hounds I have sent there for some time now.”"
+        },
+        {
+          "index": 132,
+          "text": "Hugo’s answer came as a surprise. Not that the plan was surprising, but that he’d bothered to tell Vikir about it."
+        },
+        {
+          "index": 133,
+          "text": "Vikir was stunned to realize that Hugo’s gaze had softened to the color of tanned leather."
+        },
+        {
+          "index": 134,
+          "text": "Just as they were about to enter the chamber."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 24,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 149,
+      "korean_context": [
+        {
+          "index": 148,
+          "text": "\"…\""
+        },
+        {
+          "index": 149,
+          "text": "카밀은 침묵을 지켰다."
+        },
+        {
+          "index": 150,
+          "text": "문에 들어서기 직전, 그녀는 비키르를 흘끗 보고 는 다시 고개를 숙이고 그를 지나쳐 걸어갔다."
+        }
+      ],
+      "estimated_english_paragraph": 148,
+      "english_context": [
+        {
+          "index": 145,
+          "text": "Adolf followed him in and sat down on the couch."
+        },
+        {
+          "index": 146,
+          "text": "“….”"
+        },
+        {
+          "index": 147,
+          "text": "Camus still didn’t say anything."
+        },
+        {
+          "index": 148,
+          "text": "He merely glanced at Vikir before entering, then dropped his gaze to the floor and walked away."
+        },
+        {
+          "index": 149,
+          "text": "He still wore the blood robe Vikir had given him after the duel, wrapped tightly around his body."
+        },
+        {
+          "index": 150,
+          "text": "Adolf said to Hugo."
+        },
+        {
+          "index": 151,
+          "text": "“The truth is, Morgue has been putting a lot of thought into resolving the ruby mine issue amicably, and the rent for the manor is just one of many issues.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 24,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 182,
+      "korean_context": [
+        {
+          "index": 181,
+          "text": "바로 그때였다."
+        },
+        {
+          "index": 182,
+          "text": "침묵을 지키던 카미유는 갑자기 고개를 들고 큰 소리로 외쳤다."
+        },
+        {
+          "index": 183,
+          "text": "\"나는 어머니보다 약한 사람과는 결혼하지 않을 거야!\""
+        }
+      ],
+      "estimated_english_paragraph": 180,
+      "english_context": [
+        {
+          "index": 177,
+          "text": "“It’s a prenatal marriage. You don’t even know.”"
+        },
+        {
+          "index": 178,
+          "text": "Hugo’s answer gave Adolf a troubled look."
+        },
+        {
+          "index": 179,
+          "text": "Just then."
+        },
+        {
+          "index": 180,
+          "text": "Suddenly, Camus raised his head and shouted."
+        },
+        {
+          "index": 181,
+          "text": "“I will not marry anyone weaker than my mother!”"
+        },
+        {
+          "index": 182,
+          "text": "Her tone was quite confident."
+        },
+        {
+          "index": 183,
+          "text": "Adolf and Hugo’s gazes turned to her."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 24,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 217,
+      "korean_context": [
+        {
+          "index": 216,
+          "text": "\"방금 훈련장을 자세히 살펴보지 못했는데, 지금 제대로 살펴봐도 될까요?\""
+        },
+        {
+          "index": 217,
+          "text": "비키르는 마침내 눈앞의 아돌프를 똑바로 쳐다볼 수 있었다."
+        },
+        {
+          "index": 218,
+          "text": "6단계 마스터, 밀지 가문 내에서도 최고 수준의 전문가."
+        }
+      ],
+      "estimated_english_paragraph": 215,
+      "english_context": [
+        {
+          "index": 212,
+          "text": "Adolf looked down at Vikir with a smile on his face."
+        },
+        {
+          "index": 213,
+          "text": "But the smile was cold and hard."
+        },
+        {
+          "index": 214,
+          "text": "“I didn’t get a good look at you in the training grounds earlier, do you mind if I take a good look at you?”"
+        },
+        {
+          "index": 215,
+          "text": "Vikir finally managed to look up at Adolf, who stood before him."
+        },
+        {
+          "index": 216,
+          "text": "Sixth Circle Master. A powerhouse at the very top of the Mage House Morgue."
+        },
+        {
+          "index": 217,
+          "text": "A delegate to the Great House and a master of words who is often the go-to person for diplomatic and political matters."
+        },
+        {
+          "index": 218,
+          "text": "“And known as a terrible nephew fool.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 25,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 134,
+      "korean_context": [
+        {
+          "index": 133,
+          "text": "...금이 가다!"
+        },
+        {
+          "index": 134,
+          "text": "비키르 의 검은 마침내 부서졌다."
+        },
+        {
+          "index": 135,
+          "text": "비키르는 부러진 검을 뽑아 들고 뒤로 물러설 수밖에 없었다."
+        }
+      ],
+      "estimated_english_paragraph": 133,
+      "english_context": [
+        {
+          "index": 130,
+          "text": "Bam! Bam!"
+        },
+        {
+          "index": 131,
+          "text": "Vikir’s sword struck Adolf’s shield for the tenth time."
+        },
+        {
+          "index": 132,
+          "text": "…Pow!"
+        },
+        {
+          "index": 133,
+          "text": "Vikir’s sword finally shatters and breaks."
+        },
+        {
+          "index": 134,
+          "text": "Vikir was forced to retrieve his broken sword and step back."
+        },
+        {
+          "index": 135,
+          "text": "Hugo stroked his chin and remained speechless, while Camus looked disappointed."
+        },
+        {
+          "index": 136,
+          "text": "Adolf turned to Vikir, who had retreated into the distance."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 26,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 135,
+      "korean_context": [
+        {
+          "index": 134,
+          "text": "그와 동시에 비키르는 눈을 감고 방금 죽인 짐승을 떠올렸다."
+        },
+        {
+          "index": 135,
+          "text": "오랜 포로 생활로 인해 힘이 약해졌음에도 불구하고, 그는 여러 차례 위기를 겪었지만 여전히 수월하게 사냥할 수 있었다."
+        },
+        {
+          "index": 136,
+          "text": "비키르는 지금 자신의 현재 힘이 어느 정도인지, 그리고 환생 전과 비교했을 때 어떤지 생각에 잠겨 있었고, 그의 생각은 뒤죽박죽이었다."
+        }
+      ],
+      "estimated_english_paragraph": 135,
+      "english_context": [
+        {
+          "index": 132,
+          "text": "He had never mastered a sword technique above the fourth level in his previous life."
+        },
+        {
+          "index": 133,
+          "text": "Because of this, it would take him a little longer than he had originally planned to become a perfect Graduator Intermediate."
+        },
+        {
+          "index": 134,
+          "text": "Meanwhile, Vikir closed his eyes and recalled the oxbear he had just killed."
+        },
+        {
+          "index": 135,
+          "text": "It had been a close call, but the animal had been weakened by years in captivity, and he’d been able to kill it with his hidden skills."
+        },
+        {
+          "index": 136,
+          "text": "Vikir’s mind raced as he tried to figure out how good he was now, and how much he’d lost in comparison to his pre-regression skills."
+        },
+        {
+          "index": 137,
+          "text": "He couldn’t be bothered with the chatter of the Baskervilles’ day pups, who were just getting their teeth."
+        },
+        {
+          "index": 138,
+          "text": "Then."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 29,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 44,
+      "korean_context": [
+        {
+          "index": 43,
+          "text": "이는 그 소년에게서 뿜어져 나오는 산과 같은 기운 때문이었다."
+        },
+        {
+          "index": 44,
+          "text": "이 불가침의 아우라 뒤에서 몇몇 공무원들은 매우 불안해 보였다."
+        },
+        {
+          "index": 45,
+          "text": "여기에는 치와와 바스커빌을 포함한 주지사 사무실 직원 들이 포함되었습니다."
+        }
+      ],
+      "estimated_english_paragraph": 46,
+      "english_context": [
+        {
+          "index": 43,
+          "text": "Seventy centimeters long. A small stake weighing about three kilograms."
+        },
+        {
+          "index": 44,
+          "text": "People crowded around to see the new deputy magistrate, but they never got close."
+        },
+        {
+          "index": 45,
+          "text": "That’s because of the mountainous energy emanating from the boy’s tiny body."
+        },
+        {
+          "index": 46,
+          "text": "Behind this untouchable aura, several government officials stood nervously."
+        },
+        {
+          "index": 47,
+          "text": "They were employees of the Executive Office, including Chihuahua Baskerville."
+        },
+        {
+          "index": 48,
+          "text": "“Oh, my God, what is he going to do?”"
+        },
+        {
+          "index": 49,
+          "text": "“He’s been standing there since the crack of dawn, do you understand?”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 29,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 47,
+      "korean_context": [
+        {
+          "index": 46,
+          "text": "\"어머나, 부지사님께서 지금 뭘 하고 계시는 거지?\""
+        },
+        {
+          "index": 47,
+          "text": "\"그는 아침 일찍부터 거기 서 있었을지도 몰라요. 누가 알겠어요?\""
+        },
+        {
+          "index": 48,
+          "text": "“와, 정말 많은 사람들이 왔네요—”"
+        }
+      ],
+      "estimated_english_paragraph": 49,
+      "english_context": [
+        {
+          "index": 46,
+          "text": "Behind this untouchable aura, several government officials stood nervously."
+        },
+        {
+          "index": 47,
+          "text": "They were employees of the Executive Office, including Chihuahua Baskerville."
+        },
+        {
+          "index": 48,
+          "text": "“Oh, my God, what is he going to do?”"
+        },
+        {
+          "index": 49,
+          "text": "“He’s been standing there since the crack of dawn, do you understand?”"
+        },
+        {
+          "index": 50,
+          "text": "“There’s a lot of people here, wow-”"
+        },
+        {
+          "index": 51,
+          "text": "The citizens and officials alike had no idea what Vikir was trying to do here."
+        },
+        {
+          "index": 52,
+          "text": "Then."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 29,
+      "korean_context": [
+        {
+          "index": 28,
+          "text": "그들 중 일부는 비키르를 공개적으로 광대라고 조롱하기까지 했다."
+        },
+        {
+          "index": 29,
+          "text": "하지만 비키르는 침착함을 유지했다."
+        },
+        {
+          "index": 30,
+          "text": "\"아무도 없나요?\""
+        }
+      ],
+      "estimated_english_paragraph": 29,
+      "english_context": [
+        {
+          "index": 26,
+          "text": "“This is pretty funny now that I look at it, isn’t it some kind of stand-up comedy?”"
+        },
+        {
+          "index": 27,
+          "text": "The people gathered in the square were stunned by the absurdity of the situation."
+        },
+        {
+          "index": 28,
+          "text": "Some of them even openly call Vikir a clown."
+        },
+        {
+          "index": 29,
+          "text": "But Vikir remains nonchalant."
+        },
+        {
+          "index": 30,
+          "text": "“Is anyone here?”"
+        },
+        {
+          "index": 31,
+          "text": "He asks, and he hears a few laughing responses from around him."
+        },
+        {
+          "index": 32,
+          "text": "The faces of the enforcement officials, including Chihuahua Baskerville, turn bright red."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 40,
+      "korean_context": [
+        {
+          "index": 39,
+          "text": "그 숫자가 언급되는 순간, 현장은 순식간에 조용해졌다."
+        },
+        {
+          "index": 40,
+          "text": "완전한 침묵 속에서."
+        },
+        {
+          "index": 41,
+          "text": "\"이 몫을 따내는 사람에게는 100억 금화의 현금 보상이 주어집니다.\""
+        }
+      ],
+      "estimated_english_paragraph": 40,
+      "english_context": [
+        {
+          "index": 37,
+          "text": "-To the person who pulls this stake (hereinafter referred to as “the stake”), there shall be paid an additional 9,000,000,000 gold, as determined by the Deputy Magistrate, Vikir Van Baskerville."
+        },
+        {
+          "index": 38,
+          "text": "A total of ten billion."
+        },
+        {
+          "index": 39,
+          "text": "At the mention of this sum, the room fell silent at once."
+        },
+        {
+          "index": 40,
+          "text": "A deathly silence."
+        },
+        {
+          "index": 41,
+          "text": "“Whoever pulls this stake will be paid 10 billion gold in cash.”"
+        },
+        {
+          "index": 42,
+          "text": "Article 3 of the Special Law of Vikir was proclaimed."
+        },
+        {
+          "index": 43,
+          "text": "The stares and sneering taunts are gone, and the central square is silent, as if nothing is alive."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 44,
+      "korean_context": [
+        {
+          "index": 43,
+          "text": "조롱과 냉소적인 시선으로 가득했던 중앙 광장은 마치 생명이 없는 듯 순식간에 고요해졌다."
+        },
+        {
+          "index": 44,
+          "text": "수많은 사람들이 모여 있었음에도 불구하고 아무 소리도 들리지 않아 구경꾼들은 등골이 오싹해졌다."
+        },
+        {
+          "index": 45,
+          "text": "치와와 바스커빌을 비롯한 행정부의 모든 공무원들은 이 엄청난 침묵에 압도당했다."
+        }
+      ],
+      "estimated_english_paragraph": 44,
+      "english_context": [
+        {
+          "index": 41,
+          "text": "“Whoever pulls this stake will be paid 10 billion gold in cash.”"
+        },
+        {
+          "index": 42,
+          "text": "Article 3 of the Special Law of Vikir was proclaimed."
+        },
+        {
+          "index": 43,
+          "text": "The stares and sneering taunts are gone, and the central square is silent, as if nothing is alive."
+        },
+        {
+          "index": 44,
+          "text": "The absence of sound, despite the huge crowds of people, gave me chills."
+        },
+        {
+          "index": 45,
+          "text": "Chihuahua Baskerville and all the officials of the Executive Office were momentarily overwhelmed by the silence on such a massive scale."
+        },
+        {
+          "index": 46,
+          "text": "But Vikir remained nonchalant."
+        },
+        {
+          "index": 47,
+          "text": "“Is anyone there?”"
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 45,
+      "korean_context": [
+        {
+          "index": 44,
+          "text": "수많은 사람들이 모여 있었음에도 불구하고 아무 소리도 들리지 않아 구경꾼들은 등골이 오싹해졌다."
+        },
+        {
+          "index": 45,
+          "text": "치와와 바스커빌을 비롯한 행정부의 모든 공무원들은 이 엄청난 침묵에 압도당했다."
+        },
+        {
+          "index": 46,
+          "text": "하지만 비키르는 침착함을 유지했다."
+        }
+      ],
+      "estimated_english_paragraph": 45,
+      "english_context": [
+        {
+          "index": 42,
+          "text": "Article 3 of the Special Law of Vikir was proclaimed."
+        },
+        {
+          "index": 43,
+          "text": "The stares and sneering taunts are gone, and the central square is silent, as if nothing is alive."
+        },
+        {
+          "index": 44,
+          "text": "The absence of sound, despite the huge crowds of people, gave me chills."
+        },
+        {
+          "index": 45,
+          "text": "Chihuahua Baskerville and all the officials of the Executive Office were momentarily overwhelmed by the silence on such a massive scale."
+        },
+        {
+          "index": 46,
+          "text": "But Vikir remained nonchalant."
+        },
+        {
+          "index": 47,
+          "text": "“Is anyone there?”"
+        },
+        {
+          "index": 48,
+          "text": "This time, no one answered the question."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 46,
+      "korean_context": [
+        {
+          "index": 45,
+          "text": "치와와 바스커빌을 비롯한 행정부의 모든 공무원들은 이 엄청난 침묵에 압도당했다."
+        },
+        {
+          "index": 46,
+          "text": "하지만 비키르는 침착함을 유지했다."
+        },
+        {
+          "index": 47,
+          "text": "\"아무도 없나요?\""
+        }
+      ],
+      "estimated_english_paragraph": 46,
+      "english_context": [
+        {
+          "index": 43,
+          "text": "The stares and sneering taunts are gone, and the central square is silent, as if nothing is alive."
+        },
+        {
+          "index": 44,
+          "text": "The absence of sound, despite the huge crowds of people, gave me chills."
+        },
+        {
+          "index": 45,
+          "text": "Chihuahua Baskerville and all the officials of the Executive Office were momentarily overwhelmed by the silence on such a massive scale."
+        },
+        {
+          "index": 46,
+          "text": "But Vikir remained nonchalant."
+        },
+        {
+          "index": 47,
+          "text": "“Is anyone there?”"
+        },
+        {
+          "index": 48,
+          "text": "This time, no one answered the question."
+        },
+        {
+          "index": 49,
+          "text": "The citizens stared, unable to laugh or talk."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 98,
+      "korean_context": [
+        {
+          "index": 97,
+          "text": "\"그것은 뽑혔습니다.\""
+        },
+        {
+          "index": 98,
+          "text": "\"마침내 뽑아냈어요.\""
+        },
+        {
+          "index": 99,
+          "text": "주변의 속삭임이 점점 더 커져갔다."
+        }
+      ],
+      "estimated_english_paragraph": 98,
+      "english_context": [
+        {
+          "index": 95,
+          "text": "“Pulled it.”"
+        },
+        {
+          "index": 96,
+          "text": "“I got it.”"
+        },
+        {
+          "index": 97,
+          "text": "“Pulled it.”"
+        },
+        {
+          "index": 98,
+          "text": "“He’s got it.”"
+        },
+        {
+          "index": 99,
+          "text": "The chatter around me grows louder."
+        },
+        {
+          "index": 100,
+          "text": "What will happen to the girl who pulled the stake now?"
+        },
+        {
+          "index": 101,
+          "text": "That was the initial concern, the one that had the crowd gathered here on the edge of their seats."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 127,
+      "korean_context": [
+        {
+          "index": 126,
+          "text": "광장의 분위기는 불길하게 변했다."
+        },
+        {
+          "index": 127,
+          "text": "죽은 듯이 침묵을 지키던 군중은 일제히 분노를 터뜨리기 시작했다."
+        },
+        {
+          "index": 128,
+          "text": "치와와를 비롯한 관계자들은 언제라도 폭동이 일어날 것 같은 분위기 속에서 불안하게 서성일 수밖에 없었다."
+        }
+      ],
+      "estimated_english_paragraph": 127,
+      "english_context": [
+        {
+          "index": 124,
+          "text": "“What did that mother and daughter do wrong!”"
+        },
+        {
+          "index": 125,
+          "text": "“Who are you to persecute Judy when you have the power!”"
+        },
+        {
+          "index": 126,
+          "text": "The atmosphere in the square turned nasty."
+        },
+        {
+          "index": 127,
+          "text": "The crowd, which had been as quiet as death, began to boil."
+        },
+        {
+          "index": 128,
+          "text": "The officials, including Chihuahua, shuffle their feet nervously in what looks like a riot at any moment."
+        },
+        {
+          "index": 129,
+          "text": "…Then."
+        },
+        {
+          "index": 130,
+          "text": "Vikir reached for Judy."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 30,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 141,
+      "korean_context": [
+        {
+          "index": 140,
+          "text": "순식간에 주변은 다시 정적에 휩싸였다."
+        },
+        {
+          "index": 141,
+          "text": "주디와 그녀의 어머니, 그리고 그 애처로운 모녀를 지켜보던 수많은 구경꾼들은 모두 침묵에 잠겼다."
+        },
+        {
+          "index": 142,
+          "text": "비키르가 말했다."
+        }
+      ],
+      "estimated_english_paragraph": 141,
+      "english_context": [
+        {
+          "index": 138,
+          "text": "A blindingly bright golden glow emanates from within the sack."
+        },
+        {
+          "index": 139,
+          "text": "Gold coins. Countless, countless, countless."
+        },
+        {
+          "index": 140,
+          "text": "For a moment, the room falls silent again."
+        },
+        {
+          "index": 141,
+          "text": "Judy, her mother, the countless others watching the poor mother and daughter, all fell silent in unison."
+        },
+        {
+          "index": 142,
+          "text": "Vikir spoke."
+        },
+        {
+          "index": 143,
+          "text": "“Ten billion gold.”"
+        },
+        {
+          "index": 144,
+          "text": "The words were like some kind of oracle."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 31,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 32,
+      "korean_context": [
+        {
+          "index": 31,
+          "text": "바스커빌 가문 의 본가 출신인 한 명사가 처음으로 하인 일을 시작한 부하에게 명령이 아닌 요청을 하고 있었다."
+        },
+        {
+          "index": 32,
+          "text": "게다가 그는 무술가였음에도 불구하고 서예에 관심을 갖게 되었다는 점도 빼놓을 수 없다."
+        },
+        {
+          "index": 33,
+          "text": "\"물론이죠! 물론 가르쳐 드릴 수 있어요! 영광입니다!\""
+        }
+      ],
+      "estimated_english_paragraph": 32,
+      "english_context": [
+        {
+          "index": 29,
+          "text": "“Can’t I learn to do that too?”"
+        },
+        {
+          "index": 30,
+          "text": "The Chihuahua’s eyes widened at Vikir’s words."
+        },
+        {
+          "index": 31,
+          "text": "It was the first time a high-snouted member of the Baskerville clan from the main family had ever asked him to do something that wasn’t a command."
+        },
+        {
+          "index": 32,
+          "text": "Moreover, despite being a sword eater, he was interested in brushes."
+        },
+        {
+          "index": 33,
+          "text": "“Of course I can teach you, I’d be honoured!”"
+        },
+        {
+          "index": 34,
+          "text": "“Thank you. I’ll ask you whenever I have time.”"
+        },
+        {
+          "index": 35,
+          "text": "The Chihuahua hums and teases the brush after hearing the praise."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 33,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 72,
+      "korean_context": [
+        {
+          "index": 71,
+          "text": "비키르는 아무런 표정도 짓지 않았다."
+        },
+        {
+          "index": 72,
+          "text": "그들은 침묵을 '말해 보자'라는 뜻으로 해석하고, 침착한 척하며 계속 진행했다."
+        },
+        {
+          "index": 73,
+          "text": "솔직히 말해서, 안데독시 는 이미 상당히 부패한 도시 아닌가요?"
+        }
+      ],
+      "estimated_english_paragraph": 73,
+      "english_context": [
+        {
+          "index": 70,
+          "text": "But a certain amount of pride, built up over the years as the second generation of the local holding family, has allowed them to save some dignity for last."
+        },
+        {
+          "index": 71,
+          "text": "“Actually, we wanted to test you, Deputy Magistrate.”"
+        },
+        {
+          "index": 72,
+          "text": "The Masters composed themselves and spoke in a polite manner."
+        },
+        {
+          "index": 73,
+          "text": "Vikir remained expressionless."
+        },
+        {
+          "index": 74,
+          "text": "Taking the silence to mean ‘let’s hear it’, the Masters relaxed and continued in a polite tone."
+        },
+        {
+          "index": 75,
+          "text": "“Honestly, Underdog City is quite corrupt, isn’t it?”"
+        },
+        {
+          "index": 76,
+          "text": "“If you’re going to purify a city like this, you shouldn’t be able to resist such a temptation.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 33,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 95,
+      "korean_context": [
+        {
+          "index": 94,
+          "text": "하지만 그 반대는 사실이 아닙니다. 개는 어떤 상황에서도 주인을 시험할 수 없습니다."
+        },
+        {
+          "index": 95,
+          "text": "바로 그 순간, 휴고 의 가르침이 그의 머릿속에 떠올랐다."
+        },
+        {
+          "index": 96,
+          "text": "비키르는 뻣뻣하게 서 있는 도련님 옆 을 천천히 걸어갔다."
+        }
+      ],
+      "estimated_english_paragraph": 97,
+      "english_context": [
+        {
+          "index": 94,
+          "text": "“A master can test his dog as much as he likes.”"
+        },
+        {
+          "index": 95,
+          "text": "“….”"
+        },
+        {
+          "index": 96,
+          "text": "“But not the other way round. A dog can never test his master, under any circumstances.”"
+        },
+        {
+          "index": 97,
+          "text": "It was a moment that reminded her of Hugo’s teaching from long ago."
+        },
+        {
+          "index": 98,
+          "text": "Vikir paced slowly in front of the frozen masters."
+        },
+        {
+          "index": 99,
+          "text": "“You have all this money and power, so you’re not afraid, are you?” he asked."
+        },
+        {
+          "index": 100,
+          "text": "Unsurprisingly, there was no reply."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 33,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 101,
+      "korean_context": [
+        {
+          "index": 100,
+          "text": "\"왜냐하면 그들은 진정으로 무서운 것을 본 적이 없기 때문입니다.\""
+        },
+        {
+          "index": 101,
+          "text": "그렇기에 그들은 모든 것을 예상한 척, 세련된 척, 침착한 척 감히 행동할 수 있었던 것이다."
+        },
+        {
+          "index": 102,
+          "text": "그리고 이러한 '가식'의 대가는 컸습니다."
+        }
+      ],
+      "estimated_english_paragraph": 103,
+      "english_context": [
+        {
+          "index": 100,
+          "text": "Unsurprisingly, there was no reply."
+        },
+        {
+          "index": 101,
+          "text": "Vikir continued."
+        },
+        {
+          "index": 102,
+          "text": "“It’s just that I’ve never seen anything really scary.”"
+        },
+        {
+          "index": 103,
+          "text": "So how dare you pretend to be expected, to be gentle, to be relaxed."
+        },
+        {
+          "index": 104,
+          "text": "And the price of that “pretence” was heavy."
+        },
+        {
+          "index": 105,
+          "text": "Vikir pulled a flimsy stick from his arm."
+        },
+        {
+          "index": 106,
+          "text": "It was the very same stake that had won the girl a prize of ten billion not long ago."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 33,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 109,
+      "korean_context": [
+        {
+          "index": 108,
+          "text": "예고 없이 갑자기 공격이 가해지는 것."
+        },
+        {
+          "index": 109,
+          "text": "이빨이 하나둘씩 빠져나가고, 피와 눈물, 콧물이 섞인 침이 사방으로 튀었다."
+        },
+        {
+          "index": 110,
+          "text": "눈 깜짝할 사이에 비키르는 도련님 의 얼굴, 머리, 목, 어깨를 일곱 번 연속으로 가격했고, 다른 도련님 들에게도 똑같이 했다."
+        }
+      ],
+      "estimated_english_paragraph": 111,
+      "english_context": [
+        {
+          "index": 108,
+          "text": "A dull noise."
+        },
+        {
+          "index": 109,
+          "text": "The stake bent for a moment, then flew out at a tremendous speed, smashing the face of the master in front of her into a bloody mess."
+        },
+        {
+          "index": 110,
+          "text": "The blow came from nowhere, with no end in sight."
+        },
+        {
+          "index": 111,
+          "text": "Teeth gnashing, spittle, blood, and tears snorting."
+        },
+        {
+          "index": 112,
+          "text": "In the time it took him to blink three times, Vikir struck him seven times across the face, head, neck, and shoulders, and then did the same to the others."
+        },
+        {
+          "index": 113,
+          "text": "The next thing you know, they’re all sprawled flat on the floor of the VVIP room."
+        },
+        {
+          "index": 114,
+          "text": "Puck! Thud! Thud! Thud! Thud! Thud! Thud!"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 35,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 107,
+      "korean_context": [
+        {
+          "index": 106,
+          "text": "하지만 상품을 판매해야 한다는 입장에서 그는 여전히 최선을 다해 홍보하려고 노력했습니다."
+        },
+        {
+          "index": 107,
+          "text": "\"신사 숙녀 여러분! 신사 숙녀 여러분! 노예 상인들이 정글 깊숙한 곳에서 그녀를 발견했다고 합니다! 신사 숙녀 여러분, 놓치지 마세요! 이렇게 사나운 노예를 다시 길들이는 건 분명 흥미진진한 일일 겁니다! 그녀를 침대에서 시중들게 할지, 아니면 검투사로 만들지! 지금이 바로 당신의 노예 길들이기 기술을 보여줄 때입니다! 시작가는 500만 달러입니다! 신사 숙녀 여러분! 시작하세요!\""
+        },
+        {
+          "index": 108,
+          "text": "..."
+        }
+      ],
+      "estimated_english_paragraph": 113,
+      "english_context": [
+        {
+          "index": 110,
+          "text": "“Come on, come on, slave traders say they’ve picked this one up from the depths of the jungle! Come on, come on, don’t you think a slave this fierce could use some taming? Use him as a night watchman or a gladiator! This is your chance to prove your slave taming skills! I’ll start the bidding at 5 million! Let’s go!”"
+        },
+        {
+          "index": 111,
+          "text": "…."
+        },
+        {
+          "index": 112,
+          "text": "But no one raises their hand."
+        },
+        {
+          "index": 113,
+          "text": "Usually there’s someone who calls out the lowest bid, for the sake of the moderator’s dignity and the atmosphere of the auction house, but… this time there wasn’t even that."
+        },
+        {
+          "index": 114,
+          "text": "“Eight, then let’s lower the minimum bid a bit, 3 million, anyone got 3 million?”"
+        },
+        {
+          "index": 115,
+          "text": "…."
+        },
+        {
+          "index": 116,
+          "text": "“Then you don’t have it either! Two million! I’ll take it at two million! I’ll say it again, you don’t have it either!”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 35,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 127,
+      "korean_context": [
+        {
+          "index": 126,
+          "text": "무거운 수갑에도 불구하고 젊은이는 조금도 망설이지 않고 발걸음을 옮겼다."
+        },
+        {
+          "index": 127,
+          "text": "그의 침착한 태도는 관객들에게 감탄의 탄성을 자아냈다."
+        },
+        {
+          "index": 128,
+          "text": "젊은이가 무대 중앙에 서자, 위쪽의 횃불 불빛이 그의 얼굴을 직접 비췄다."
+        }
+      ],
+      "estimated_english_paragraph": 134,
+      "english_context": [
+        {
+          "index": 131,
+          "text": "A boy with handcuffs on his wrists and heavy chains dangling from them."
+        },
+        {
+          "index": 132,
+          "text": "He looked to be about 15 years old."
+        },
+        {
+          "index": 133,
+          "text": "Despite the weight of the restraints, the boy’s gait is effortless."
+        },
+        {
+          "index": 134,
+          "text": "There was a faint murmur of admiration from the audience at his confident and calm demeanour."
+        },
+        {
+          "index": 135,
+          "text": "As he stands at the centre of the stage, the torchlight from above illuminates his face."
+        },
+        {
+          "index": 136,
+          "text": "The boy’s appearance was revealed in a glow of light."
+        },
+        {
+          "index": 137,
+          "text": "And the audience’s jaws dropped in unison."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 35,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 130,
+      "korean_context": [
+        {
+          "index": 129,
+          "text": "밝은 불빛 아래서 젊은 남자의 모습이 뚜렷하게 드러났다."
+        },
+        {
+          "index": 130,
+          "text": "이 모습을 본 관객들은 모두 일제히 침묵에 잠겼다."
+        },
+        {
+          "index": 131,
+          "text": "\"세상에.\""
+        }
+      ],
+      "estimated_english_paragraph": 137,
+      "english_context": [
+        {
+          "index": 134,
+          "text": "There was a faint murmur of admiration from the audience at his confident and calm demeanour."
+        },
+        {
+          "index": 135,
+          "text": "As he stands at the centre of the stage, the torchlight from above illuminates his face."
+        },
+        {
+          "index": 136,
+          "text": "The boy’s appearance was revealed in a glow of light."
+        },
+        {
+          "index": 137,
+          "text": "And the audience’s jaws dropped in unison."
+        },
+        {
+          "index": 138,
+          "text": "“…Wow.”"
+        },
+        {
+          "index": 139,
+          "text": "The expressions of all the noblewomen and some of the middle-aged men gathered here had become dazed."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 36,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 109,
+      "korean_context": [
+        {
+          "index": 108,
+          "text": "“가족들을 생각하세요!”"
+        },
+        {
+          "index": 109,
+          "text": "귀족과 부유층의 큰 외침에 칼을 휘두르던 몇몇 자들이 멈춰 섰다."
+        },
+        {
+          "index": 110,
+          "text": "곧이어 경매장의 혼란은 점차 가라앉았다."
+        }
+      ],
+      "estimated_english_paragraph": 109,
+      "english_context": [
+        {
+          "index": 106,
+          "text": "But."
+        },
+        {
+          "index": 107,
+          "text": "“You fools, there’s no business in Daguri, even if you’re a grader!”"
+        },
+        {
+          "index": 108,
+          "text": "“If you run away now, you’re all going to slavery!”"
+        },
+        {
+          "index": 109,
+          "text": "“Yay, so you’re not going to make any money!”"
+        },
+        {
+          "index": 110,
+          "text": "“Think of your families!”"
+        },
+        {
+          "index": 111,
+          "text": "Here and there, the shouts of nobles and signers turned a few swordsmen on their heels."
+        },
+        {
+          "index": 112,
+          "text": "By now, the chaos in the auction house had subsided somewhat."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 36,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 144,
+      "korean_context": [
+        {
+          "index": 143,
+          "text": "치와와 의 걱정은 타당했다."
+        },
+        {
+          "index": 144,
+          "text": "하지만 비키르는 침착함을 유지했다."
+        },
+        {
+          "index": 145,
+          "text": "“걱정하지 마세요. 우리가 바스커빌 저택을 떠날 때…”"
+        }
+      ],
+      "estimated_english_paragraph": 144,
+      "english_context": [
+        {
+          "index": 141,
+          "text": "All around him, the air is alive with life."
+        },
+        {
+          "index": 142,
+          "text": "Countless mercenaries and knights of the local Sedoga armed with swords, spears, arrows, and magic glared at Vikir and the Chihuahua."
+        },
+        {
+          "index": 143,
+          "text": "“Zee, my lord. No matter how good a fighter you are, this number of people is a bit… overwhelming, especially with all the baggage I’m carrying.”"
+        },
+        {
+          "index": 144,
+          "text": "Chihuahua’s concern was justified."
+        },
+        {
+          "index": 145,
+          "text": "But Vikir remained nonchalant."
+        },
+        {
+          "index": 146,
+          "text": "“Don’t worry. When we leave the Baskervilles’ mansion.”"
+        },
+        {
+          "index": 147,
+          "text": "He tore a small slit in the flesh of his thigh and pulled out what he had hidden within."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 37,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 41,
+      "korean_context": [
+        {
+          "index": 40,
+          "text": "피로 얼룩진 모피 코트 아래로 그녀의 머리가 땅바닥으로 굴러떨어졌다."
+        },
+        {
+          "index": 41,
+          "text": "도망치던 중년 남성의 내장이 그 자리에서 흩뿌려졌다."
+        },
+        {
+          "index": 42,
+          "text": "남자든 여자든, 도망치거나 비명을 지르던 사람들은 한 명씩 살해당했다."
+        }
+      ],
+      "estimated_english_paragraph": 42,
+      "english_context": [
+        {
+          "index": 39,
+          "text": "Those who lost the will to fight quickly dropped their weapons, dropped to the ground, and raised their hands and feet upward."
+        },
+        {
+          "index": 40,
+          "text": "The majority, however, could not."
+        },
+        {
+          "index": 41,
+          "text": "“Aaaaah!”"
+        },
+        {
+          "index": 42,
+          "text": "“Aaaah help me!”"
+        },
+        {
+          "index": 43,
+          "text": "As she screamed and writhed, her head was mercilessly sliced off."
+        },
+        {
+          "index": 44,
+          "text": "I could see her fat head rolling around under her fur coat, which was stained red."
+        },
+        {
+          "index": 45,
+          "text": "The fleeing middle-aged man is disemboweled on the spot."
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 38,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 16,
+      "korean_context": [
+        {
+          "index": 15,
+          "text": "그들 아래에는 생전에 저지른 온갖 만행들이 상세하게 적힌 목록이 있었다."
+        },
+        {
+          "index": 16,
+          "text": "다음날 아침, 비키르는 부지사 임명을 발표했습니다."
+        },
+        {
+          "index": 17,
+          "text": "그는 대변인을 거치지 않고 직접 광장에 나와 발표를 했다."
+        }
+      ],
+      "estimated_english_paragraph": 16,
+      "english_context": [
+        {
+          "index": 13,
+          "text": "Only their heads remained."
+        },
+        {
+          "index": 14,
+          "text": "Their severed heads bore the marks of torture."
+        },
+        {
+          "index": 15,
+          "text": "Underneath, a long list of accusations of misdeeds they had committed in their lifetimes."
+        },
+        {
+          "index": 16,
+          "text": "At dawn the next day, Vikir announced the executioner’s position."
+        },
+        {
+          "index": 17,
+          "text": "Without a spokesperson, he stepped out into the square."
+        },
+        {
+          "index": 18,
+          "text": "“Before the law, caste is meaningless. Everyone is subject to the law.”"
+        },
+        {
+          "index": 19,
+          "text": "The tone was nonchalant, but the impact was enormous."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 38,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 17,
+      "korean_context": [
+        {
+          "index": 16,
+          "text": "다음날 아침, 비키르는 부지사 임명을 발표했습니다."
+        },
+        {
+          "index": 17,
+          "text": "그는 대변인을 거치지 않고 직접 광장에 나와 발표를 했다."
+        },
+        {
+          "index": 18,
+          "text": "\"법 앞에서 신분은 아무 의미가 없습니다. 모든 사람은 법을 따라야 합니다.\""
+        }
+      ],
+      "estimated_english_paragraph": 17,
+      "english_context": [
+        {
+          "index": 14,
+          "text": "Their severed heads bore the marks of torture."
+        },
+        {
+          "index": 15,
+          "text": "Underneath, a long list of accusations of misdeeds they had committed in their lifetimes."
+        },
+        {
+          "index": 16,
+          "text": "At dawn the next day, Vikir announced the executioner’s position."
+        },
+        {
+          "index": 17,
+          "text": "Without a spokesperson, he stepped out into the square."
+        },
+        {
+          "index": 18,
+          "text": "“Before the law, caste is meaningless. Everyone is subject to the law.”"
+        },
+        {
+          "index": 19,
+          "text": "The tone was nonchalant, but the impact was enormous."
+        },
+        {
+          "index": 20,
+          "text": "Public opinion of Vikir was either favorable or extremely favorable."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 39,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 26,
+      "korean_context": [
+        {
+          "index": 25,
+          "text": "비록 그녀가 죽지는 않았더라도, 손목과 발목이 잘린 것은 곧 죽음을 의미했다."
+        },
+        {
+          "index": 26,
+          "text": "그녀는 해야 할 일들이 있었기 때문에, 이런 곳에서 절대 죽거나 불구가 되어서는 안 됐습니다."
+        },
+        {
+          "index": 27,
+          "text": "비록 사망자 중에는 예외가 거의 없었지만, 적어도 신디 웬디는 다른 사람들보다 더 절박하고 절박한 심정을 느꼈다."
+        }
+      ],
+      "estimated_english_paragraph": 29,
+      "english_context": [
+        {
+          "index": 26,
+          "text": "She had a job to do, and she could never die in a place like this and be a wastrel because of it."
+        },
+        {
+          "index": 27,
+          "text": "Who among the dying was not, or at least Cindywendy thought she was, far more desperate and needy than the others."
+        },
+        {
+          "index": 28,
+          "text": "But the teeth of the fighting dog before her were cold."
+        },
+        {
+          "index": 29,
+          "text": "One of the Pit Bull Templars stepped in front of her, and it was a death sentence."
+        },
+        {
+          "index": 30,
+          "text": "She gritted her teeth as the jagged blade sank into her throat."
+        },
+        {
+          "index": 31,
+          "text": "But."
+        },
+        {
+          "index": 32,
+          "text": "…Earth!"
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 39,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 73,
+      "korean_context": [
+        {
+          "index": 72,
+          "text": "\"왜?\""
+        },
+        {
+          "index": 73,
+          "text": "\"모든 제국 연구에서 명망 있는 총독 의 핵심 덕목 은 '덕성'입니다. 강력한 법치는 단기적으로는 효과적일 수 있지만, 장기적으로는 그렇지 않을 수도 있습니다.\""
+        },
+        {
+          "index": 74,
+          "text": "“미덕? 그게 뭐지?”"
+        }
+      ],
+      "estimated_english_paragraph": 81,
+      "english_context": [
+        {
+          "index": 78,
+          "text": "“Is it a great blemish that I am not virtuous?”"
+        },
+        {
+          "index": 79,
+          "text": "“If it is a great blemish, it is a great blemish, for you will not live long because of it. You may have established your majesty by beating up on cheap scoundrels with the Thrash Furun Law, but in the long run, you will kill and injure many commoners, which will build up resentment and anger.”"
+        },
+        {
+          "index": 80,
+          "text": "“Do you think I should fear the resentment and anger of the common people?”"
+        },
+        {
+          "index": 81,
+          "text": "“The commoners won’t like it, but neither will the Baskervilles, and although it’s an underdog city, the citizens will be more afraid of you, the deputy, than they are of the Baskervilles.”"
+        },
+        {
+          "index": 82,
+          "text": "“Hmm. That’s true.”"
+        },
+        {
+          "index": 83,
+          "text": "“The same will be true when your superior arrives, or when your successor does, and the reason you changed the law is to assert your authority and hasten your accomplishments, which will have many native factions gnashing their teeth. There are plenty of underworlders in other cities, too, and I don’t think you’ll have long to live, considering their sentiments.”"
+        },
+        {
+          "index": 84,
+          "text": "“So what do you think I should do?”"
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 39,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 77,
+      "korean_context": [
+        {
+          "index": 76,
+          "text": "“제가 미덕이 부족한 것이 큰 결점일까요?”"
+        },
+        {
+          "index": 77,
+          "text": "\"그건 중대한 결점입니다. 이런 식으로는 오래 살 수 없을 겁니다. 가혹한 법으로 사소한 악당들을 단속하여 일시적으로 권위를 확립할 수는 있겠지만, 장기적으로는 원망과 분노만 쌓일 뿐입니다.\""
+        },
+        {
+          "index": 78,
+          "text": "“내가 일반 백성들의 원망과 분노를 두려워해야 할까?”"
+        }
+      ],
+      "estimated_english_paragraph": 85,
+      "english_context": [
+        {
+          "index": 82,
+          "text": "“Hmm. That’s true.”"
+        },
+        {
+          "index": 83,
+          "text": "“The same will be true when your superior arrives, or when your successor does, and the reason you changed the law is to assert your authority and hasten your accomplishments, which will have many native factions gnashing their teeth. There are plenty of underworlders in other cities, too, and I don’t think you’ll have long to live, considering their sentiments.”"
+        },
+        {
+          "index": 84,
+          "text": "“So what do you think I should do?”"
+        },
+        {
+          "index": 85,
+          "text": "“You are as precarious as dew right now. If you wish to live to see another day, you must resign as Deputy Magistrate, return all your powers to House Baskerville, return the balls here to the Gazoo and the Imperial House, and go to a place befitting your age, such as Yazi in Le Rouge Et Le Noir Mountain, or an academy in the center of the empire, and look forward to the future.”"
+        },
+        {
+          "index": 86,
+          "text": "“And?”"
+        },
+        {
+          "index": 87,
+          "text": "“Keep yourself as unnoticed as possible, conceal your strength and cultivate your learning, and suggest to your superiors that you seek out and promote undiscovered talent, honor the elderly, care for orphans, praise the unmerited, and honor the virtuous.”"
+        },
+        {
+          "index": 88,
+          "text": "“And what will I gain by doing so?”"
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 39,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 139,
+      "korean_context": [
+        {
+          "index": 138,
+          "text": "비키 르는 말을 이었다."
+        },
+        {
+          "index": 139,
+          "text": "'그 소녀는 총명하고 비열하게 아름다웠음에도 불구하고 온갖 잔혹하고 비열하며 굴욕적인 고문을 당했습니다. 그 고문의 세부적인 내용은… 차마 입에 담을 수가 없습니다.'"
+        },
+        {
+          "index": 140,
+          "text": "'더 이상 듣고 싶지 않아. 넌 충분히 잘했어.'"
+        }
+      ],
+      "estimated_english_paragraph": 154,
+      "english_context": [
+        {
+          "index": 151,
+          "text": "“And quite a bit of time has passed, and a new deputy magistrate has come to the city.”"
+        },
+        {
+          "index": 152,
+          "text": "“….”"
+        },
+        {
+          "index": 153,
+          "text": "“He brought out all the old enemies within the city and punished them.”"
+        },
+        {
+          "index": 154,
+          "text": "“….”"
+        },
+        {
+          "index": 155,
+          "text": "“And the trigger for the event was the seven rascals who drove House Messinadnaro to ruin.”"
+        },
+        {
+          "index": 156,
+          "text": "Cindywendy turned her head to look at Vikir."
+        },
+        {
+          "index": 157,
+          "text": "Vikir looked him straight in the eye and spoke."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 39,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 200,
+      "korean_context": [
+        {
+          "index": 199,
+          "text": "비키르는 질문에 답하지 않았다."
+        },
+        {
+          "index": 200,
+          "text": "영리한 신디 웬디는 그의 침묵의 의미를 이해했다."
+        },
+        {
+          "index": 201,
+          "text": "마음속으로든 겉모습으로든, 바스커빌을 미워하고 혐오하는 마음은 똑같았다."
+        }
+      ],
+      "estimated_english_paragraph": 222,
+      "english_context": [
+        {
+          "index": 219,
+          "text": "The two stared at each other for a while, unmoving."
+        },
+        {
+          "index": 220,
+          "text": "Then Cindywendy spoke."
+        },
+        {
+          "index": 221,
+          "text": "“Since you are also a Baskerville,… why are you helping me?”"
+        },
+        {
+          "index": 222,
+          "text": "Vikir made no reply."
+        },
+        {
+          "index": 223,
+          "text": "And the sharp-eyed Cindywendy understood the meaning of his silence."
+        },
+        {
+          "index": 224,
+          "text": "The dislike and hatred of Baskerville is within and without, but it is the same."
+        },
+        {
+          "index": 225,
+          "text": "In that way, Vikir and Cindywendy understood each other well."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 3,
+      "korean_context": [
+        {
+          "index": 2,
+          "text": "어젯밤, 비키 르는 야근 후 시청 맞은편에 있는 관저에서 잠을 잤다."
+        },
+        {
+          "index": 3,
+          "text": "이 사실을 알고 있던 치와와는 이른 아침에 그를 찾아 나섰다."
+        },
+        {
+          "index": 4,
+          "text": "\" 부지사님, 아직 졸리세요? 벌써 해가 떴어요. 출근하실 시간이에요… 아아아!?\" 치와와는 아침 인사를 채 끝내기도 전에 노크를 하고 방에 들어서며 이상한 소리를 질렀다."
+        }
+      ],
+      "estimated_english_paragraph": 3,
+      "english_context": [
+        {
+          "index": 1,
+          "text": "The morning dawned."
+        },
+        {
+          "index": 2,
+          "text": "Last night. Vikir had slept in the pavilion across the street from the city magistrate’s office after his night shift."
+        },
+        {
+          "index": 3,
+          "text": "Knowing that, the Chihuahua had been there early in the morning."
+        },
+        {
+          "index": 4,
+          "text": "“Hey, sleepy assistant magistrate. The sun is already up, it’s time for you to go to work…uhhhhhhhh!?”"
+        },
+        {
+          "index": 5,
+          "text": "After knocking on the door, the Chihuahua didn’t get to finish his morning greeting before letting out a grotesque scream."
+        },
+        {
+          "index": 6,
+          "text": "There was blood everywhere."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 4,
+      "korean_context": [
+        {
+          "index": 3,
+          "text": "이 사실을 알고 있던 치와와는 이른 아침에 그를 찾아 나섰다."
+        },
+        {
+          "index": 4,
+          "text": "\" 부지사님, 아직 졸리세요? 벌써 해가 떴어요. 출근하실 시간이에요… 아아아!?\" 치와와는 아침 인사를 채 끝내기도 전에 노크를 하고 방에 들어서며 이상한 소리를 질렀다."
+        },
+        {
+          "index": 5,
+          "text": "관저 안의 방은 온통 피로 뒤덮여 있었다."
+        }
+      ],
+      "estimated_english_paragraph": 4,
+      "english_context": [
+        {
+          "index": 1,
+          "text": "The morning dawned."
+        },
+        {
+          "index": 2,
+          "text": "Last night. Vikir had slept in the pavilion across the street from the city magistrate’s office after his night shift."
+        },
+        {
+          "index": 3,
+          "text": "Knowing that, the Chihuahua had been there early in the morning."
+        },
+        {
+          "index": 4,
+          "text": "“Hey, sleepy assistant magistrate. The sun is already up, it’s time for you to go to work…uhhhhhhhh!?”"
+        },
+        {
+          "index": 5,
+          "text": "After knocking on the door, the Chihuahua didn’t get to finish his morning greeting before letting out a grotesque scream."
+        },
+        {
+          "index": 6,
+          "text": "There was blood everywhere."
+        },
+        {
+          "index": 7,
+          "text": "Blood, blood, blood, soaking down the white bedspread and staining the marble tiles on the floor in a grid-like pattern."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 7,
+      "korean_context": [
+        {
+          "index": 6,
+          "text": "하얀 시트는 피로 흠뻑 젖어 있었고, 피는 바닥으로 흘러내려 대리석 타일 틈새를 붉게 물들였다. 피, 피, 피!"
+        },
+        {
+          "index": 7,
+          "text": "벽, 천장, 침대 모두 피로 흠뻑 젖어 있었다."
+        },
+        {
+          "index": 8,
+          "text": "\"아, 좋은 아침입니다, 장관님.\""
+        }
+      ],
+      "estimated_english_paragraph": 7,
+      "english_context": [
+        {
+          "index": 4,
+          "text": "“Hey, sleepy assistant magistrate. The sun is already up, it’s time for you to go to work…uhhhhhhhh!?”"
+        },
+        {
+          "index": 5,
+          "text": "After knocking on the door, the Chihuahua didn’t get to finish his morning greeting before letting out a grotesque scream."
+        },
+        {
+          "index": 6,
+          "text": "There was blood everywhere."
+        },
+        {
+          "index": 7,
+          "text": "Blood, blood, blood, soaking down the white bedspread and staining the marble tiles on the floor in a grid-like pattern."
+        },
+        {
+          "index": 8,
+          "text": "The walls, the ceiling, the bed, all drenched in blood."
+        },
+        {
+          "index": 9,
+          "text": "“Ah. Good morning, sir.”"
+        },
+        {
+          "index": 10,
+          "text": "Vikir gets up from the bed with too much nonchalance."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 8,
+      "korean_context": [
+        {
+          "index": 7,
+          "text": "벽, 천장, 침대 모두 피로 흠뻑 젖어 있었다."
+        },
+        {
+          "index": 8,
+          "text": "\"아, 좋은 아침입니다, 장관님.\""
+        },
+        {
+          "index": 9,
+          "text": "비키르는 아주 차분하게 침대에서 일어났다."
+        }
+      ],
+      "estimated_english_paragraph": 8,
+      "english_context": [
+        {
+          "index": 5,
+          "text": "After knocking on the door, the Chihuahua didn’t get to finish his morning greeting before letting out a grotesque scream."
+        },
+        {
+          "index": 6,
+          "text": "There was blood everywhere."
+        },
+        {
+          "index": 7,
+          "text": "Blood, blood, blood, soaking down the white bedspread and staining the marble tiles on the floor in a grid-like pattern."
+        },
+        {
+          "index": 8,
+          "text": "The walls, the ceiling, the bed, all drenched in blood."
+        },
+        {
+          "index": 9,
+          "text": "“Ah. Good morning, sir.”"
+        },
+        {
+          "index": 10,
+          "text": "Vikir gets up from the bed with too much nonchalance."
+        },
+        {
+          "index": 11,
+          "text": "Judging by his sleepy expression, he really was asleep just a moment ago."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 9,
+      "korean_context": [
+        {
+          "index": 8,
+          "text": "\"아, 좋은 아침입니다, 장관님.\""
+        },
+        {
+          "index": 9,
+          "text": "비키르는 아주 차분하게 침대에서 일어났다."
+        },
+        {
+          "index": 10,
+          "text": "그의 졸린 표정은 그가 방금 전까지 잠들어 있었다는 것을 보여주었다."
+        }
+      ],
+      "estimated_english_paragraph": 9,
+      "english_context": [
+        {
+          "index": 6,
+          "text": "There was blood everywhere."
+        },
+        {
+          "index": 7,
+          "text": "Blood, blood, blood, soaking down the white bedspread and staining the marble tiles on the floor in a grid-like pattern."
+        },
+        {
+          "index": 8,
+          "text": "The walls, the ceiling, the bed, all drenched in blood."
+        },
+        {
+          "index": 9,
+          "text": "“Ah. Good morning, sir.”"
+        },
+        {
+          "index": 10,
+          "text": "Vikir gets up from the bed with too much nonchalance."
+        },
+        {
+          "index": 11,
+          "text": "Judging by his sleepy expression, he really was asleep just a moment ago."
+        },
+        {
+          "index": 12,
+          "text": "And on the bed beneath him lies a corpse, head and torso separated."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 11,
+      "korean_context": [
+        {
+          "index": 10,
+          "text": "그의 졸린 표정은 그가 방금 전까지 잠들어 있었다는 것을 보여주었다."
+        },
+        {
+          "index": 11,
+          "text": "침대 밑에는 머리가 없는 시체가 놓여 있었다."
+        },
+        {
+          "index": 12,
+          "text": "검은 마스크를 쓰고 짧은 단검을 든 남자는 누가 봐도 암살자였다."
+        }
+      ],
+      "estimated_english_paragraph": 11,
+      "english_context": [
+        {
+          "index": 8,
+          "text": "The walls, the ceiling, the bed, all drenched in blood."
+        },
+        {
+          "index": 9,
+          "text": "“Ah. Good morning, sir.”"
+        },
+        {
+          "index": 10,
+          "text": "Vikir gets up from the bed with too much nonchalance."
+        },
+        {
+          "index": 11,
+          "text": "Judging by his sleepy expression, he really was asleep just a moment ago."
+        },
+        {
+          "index": 12,
+          "text": "And on the bed beneath him lies a corpse, head and torso separated."
+        },
+        {
+          "index": 13,
+          "text": "A dagger is clutched in the hand of a black-cloaked man, clearly an assassin."
+        },
+        {
+          "index": 14,
+          "text": "Vikir looked at the assassin’s body on the floor."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 25,
+      "korean_context": [
+        {
+          "index": 24,
+          "text": "독화살 두 발, 독이 든 음료 네 잔, 신원 불명의 거리 공격 여섯 건, 칼에 찔린 상처, 염산 테러, 저격, 방화, 마차 충돌 등등… 이 모든 일들이 지난 사흘 동안 일어났다."
+        },
+        {
+          "index": 25,
+          "text": "암살자가 침실에 침입한 것은 처음 있는 일이었지만, 그는 분명 비키르 의 상대가 되지 못했다."
+        },
+        {
+          "index": 26,
+          "text": "대멸종시대를 경험한 전사들은 잠자는 동안에도 살기를 감지할 수 있었고, 비키르 역시 예외는 아니었다."
+        }
+      ],
+      "estimated_english_paragraph": 26,
+      "english_context": [
+        {
+          "index": 23,
+          "text": "Vikir shook his head in disbelief."
+        },
+        {
+          "index": 24,
+          "text": "“I’ve been getting a lot of these flies lately.”"
+        },
+        {
+          "index": 25,
+          "text": "Two poisoned arrows, four poisoned glasses, six street burying attacks, stabbings, sulfuric acid spraying, sniping, arson, carriage ramming, etc….."
+        },
+        {
+          "index": 26,
+          "text": "All in the last three days."
+        },
+        {
+          "index": 27,
+          "text": "This was the first assassin to enter his bedroom, but even he was no match for Vikir."
+        },
+        {
+          "index": 28,
+          "text": "Every warrior who had lived through the Age of Destruction had mastered the art of sensing the killing around them in their sleep, and Vikir was no different."
+        },
+        {
+          "index": 29,
+          "text": "“Hmph. I guess I should look on the bright side. It means I’m getting noticed, right?”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 31,
+      "korean_context": [
+        {
+          "index": 30,
+          "text": "비키르는 무심하게 대답하며 코트를 입었다."
+        },
+        {
+          "index": 31,
+          "text": "치와와는 비키르를 따라갔고, 비키르는 고개를 연신 저으며 태연하게 침실에서 걸어 나왔다."
+        },
+        {
+          "index": 32,
+          "text": "\"부지사님, 15 살밖에 안 되셨다니 믿기지가 않네요.\""
+        }
+      ],
+      "estimated_english_paragraph": 32,
+      "english_context": [
+        {
+          "index": 29,
+          "text": "“Hmph. I guess I should look on the bright side. It means I’m getting noticed, right?”"
+        },
+        {
+          "index": 30,
+          "text": "“You’ve got some nerve, man.”"
+        },
+        {
+          "index": 31,
+          "text": "“You’re disrespectful to your superiors, sir.”"
+        },
+        {
+          "index": 32,
+          "text": "I retorted nonchalantly and turned to put on my robe."
+        },
+        {
+          "index": 33,
+          "text": "The Chihuahua stuck out its tongue as Vikir nonchalantly followed her out of the bedroom."
+        },
+        {
+          "index": 34,
+          "text": "“Looking at you, it’s hard to believe you’re really 15 years old.”"
+        },
+        {
+          "index": 35,
+          "text": "“Where’s the blood in that?”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 64,
+      "korean_context": [
+        {
+          "index": 63,
+          "text": "이 고급 마차에는 바스커빌 가문을 상징하는 이빨 모양의 문장이 상감되어 있습니다."
+        },
+        {
+          "index": 64,
+          "text": "이른 아침에 시청을 찾아온 사람은 비키르가 아주 잘 아는 사람이었다."
+        },
+        {
+          "index": 65,
+          "text": "집사 존 베리모어. 그는 직접 비키르를 찾아 나섰다."
+        }
+      ],
+      "estimated_english_paragraph": 67,
+      "english_context": [
+        {
+          "index": 64,
+          "text": "Something happened to help Vikir’s plans."
+        },
+        {
+          "index": 65,
+          "text": "The call came from Baskerville itself."
+        },
+        {
+          "index": 66,
+          "text": "A huge black carriage stood in front of the city hall."
+        },
+        {
+          "index": 67,
+          "text": "A luxury carriage emblazoned with the Baskervilles’ toothy logo."
+        },
+        {
+          "index": 68,
+          "text": "Visiting the town hall early in the morning was a man Vicky knew well."
+        },
+        {
+          "index": 69,
+          "text": "Deacon John Barrymore, who had come to see Vikir personally."
+        },
+        {
+          "index": 70,
+          "text": "“Master. Long time no see.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 40,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 87,
+      "korean_context": [
+        {
+          "index": 86,
+          "text": "날씨가 유난히 따뜻했다."
+        },
+        {
+          "index": 87,
+          "text": "허가오는 오늘 아침 신문을 책상 위에 올려놓았다."
+        },
+        {
+          "index": 88,
+          "text": "<First place for most beloved figure by </a></a>지하 도시 시민들, ' 비키르 '"
+        }
+      ],
+      "estimated_english_paragraph": 91,
+      "english_context": [
+        {
+          "index": 88,
+          "text": "It was."
+        },
+        {
+          "index": 89,
+          "text": "“…Well done, son.”"
+        },
+        {
+          "index": 90,
+          "text": "It was uncharacteristically warm."
+        },
+        {
+          "index": 91,
+          "text": "Hugo set today’s morning paper down on his desk."
+        },
+        {
+          "index": 92,
+          "text": ""
+        },
+        {
+          "index": 93,
+          "text": "<Underdog City’s citizens’ favorite person is Vikir, number one>."
+        },
+        {
+          "index": 94,
+          "text": "<Vikir, the #1 most trusted person by merchants in Underdog City>."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 41,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 54,
+      "korean_context": [
+        {
+          "index": 53,
+          "text": "\"신분을 밝히세요!\""
+        },
+        {
+          "index": 54,
+          "text": "앞쪽 망루에서 엄중한 외침이 들려왔다."
+        },
+        {
+          "index": 55,
+          "text": "비키르는 고개를 들어 망루 꼭대기에서 세 여자가 내려오는 것을 보았다."
+        }
+      ],
+      "estimated_english_paragraph": 64,
+      "english_context": [
+        {
+          "index": 61,
+          "text": "Skulls. And charred flesh."
+        },
+        {
+          "index": 62,
+          "text": "The bodies impaled on the skewers had all been burned to death."
+        },
+        {
+          "index": 63,
+          "text": "The bodies were mixed and matched, demonic and human alike, and some of them had been burned to the bone, leaving nothing but empty skewers."
+        },
+        {
+          "index": 64,
+          "text": "Whirling."
+        },
+        {
+          "index": 65,
+          "text": "With each gust of wind, the skewered corpses crumble into black powder."
+        },
+        {
+          "index": 66,
+          "text": "…Gross!"
+        },
+        {
+          "index": 67,
+          "text": "A lump of charcoal, unknown to the barbarians or the demons, falls from the skewer and scatters ash on the ground."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 41,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 57,
+      "korean_context": [
+        {
+          "index": 56,
+          "text": "그들은 마치 계단을 내려가는 것처럼 가볍게 공중을 걸었다."
+        },
+        {
+          "index": 57,
+          "text": "불타는 듯한 붉은 머리카락과, 이 음침한 요새에는 어울리지 않는 격식 있는 드레스."
+        },
+        {
+          "index": 58,
+          "text": "비키르는 귀환 전부터 알고 있던 정보 덕분에 그들의 정체를 이미 알고 있었다."
+        }
+      ],
+      "estimated_english_paragraph": 67,
+      "english_context": [
+        {
+          "index": 64,
+          "text": "Whirling."
+        },
+        {
+          "index": 65,
+          "text": "With each gust of wind, the skewered corpses crumble into black powder."
+        },
+        {
+          "index": 66,
+          "text": "…Gross!"
+        },
+        {
+          "index": 67,
+          "text": "A lump of charcoal, unknown to the barbarians or the demons, falls from the skewer and scatters ash on the ground."
+        },
+        {
+          "index": 68,
+          "text": "“You’ve been warned.”"
+        },
+        {
+          "index": 69,
+          "text": "Staffordshire said, looking up at all the things that had been impaled on the skewer and burned to death."
+        },
+        {
+          "index": 70,
+          "text": "This must be a warning to the demons and barbarians of Morgoth."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 42,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 31,
+      "korean_context": [
+        {
+          "index": 30,
+          "text": "그는 당시 이 세 사람에 대해 아무렇지 않게 언급했는데, 그들에게는 꽤 감동적인 일이었던 것 같습니다."
+        },
+        {
+          "index": 31,
+          "text": "비키르는 침묵을 지키기로 했다."
+        },
+        {
+          "index": 32,
+          "text": "\""
+        }
+      ],
+      "estimated_english_paragraph": 31,
+      "english_context": [
+        {
+          "index": 28,
+          "text": "The triplets speak with determination."
+        },
+        {
+          "index": 29,
+          "text": "Vikir suddenly remembered his conversation with Hugo not long ago."
+        },
+        {
+          "index": 30,
+          "text": "He had mentioned the triplets without thinking when asked who he was close to, and it had apparently impressed them."
+        },
+        {
+          "index": 31,
+          "text": "Vikir decided to keep his mouth shut."
+        },
+        {
+          "index": 32,
+          "text": "“….”"
+        },
+        {
+          "index": 33,
+          "text": "It’s always cute to see a kid who thinks he’s doing something great."
+        },
+        {
+          "index": 34,
+          "text": "(Plus, these triplets have a fucked-up personality, so that’s one cute thing about them.)"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 42,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 65,
+      "korean_context": [
+        {
+          "index": 64,
+          "text": "게다가 흙벽 표면에는 날카로운 돌들이 덮여 있어 방어와 공격 모두에 사용할 수 있었다."
+        },
+        {
+          "index": 65,
+          "text": "마침내 맏언니인 히시스도 전투에 합류했다."
+        },
+        {
+          "index": 66,
+          "text": "강력한 식물 마법에 능숙한 그녀는 손을 휘둘러 땅에서 풀씨를 뽑아냈다."
+        }
+      ],
+      "estimated_english_paragraph": 65,
+      "english_context": [
+        {
+          "index": 62,
+          "text": "Crunch, crunch, crunch."
+        },
+        {
+          "index": 63,
+          "text": "At Middlesis’s command, the waterlogged and deformable soil formed an earth wall that surrounded the three sisters."
+        },
+        {
+          "index": 64,
+          "text": "What’s more, sharp rocks protruded from its surface like blades, allowing for both defense and offense."
+        },
+        {
+          "index": 65,
+          "text": "Finally, the eldest sister, Highsis, stepped forward."
+        },
+        {
+          "index": 66,
+          "text": "Specializing in powerful grass magic, she flicked her hands together and pulled the grass seeds from beneath the ground."
+        },
+        {
+          "index": 67,
+          "text": "Thick plant stalks sprouted and vines grew, feeding on the waters of Lowsis and the soil of Middlesis."
+        },
+        {
+          "index": 68,
+          "text": "Land, water, and plant life worked in synergy to make Morgue’s fortifications stronger and stronger, while at the same time putting pressure on their enemies."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 43,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 10,
+      "korean_context": [
+        {
+          "index": 9,
+          "text": "\"카, 카밀, 우리는... 네 자매들이야...\""
+        },
+        {
+          "index": 10,
+          "text": "\"우, 우린 그냥 침입자를 막으려고 했을 뿐이야...\""
+        },
+        {
+          "index": 11,
+          "text": "\"먼저 그들이 시작한 거야!\""
+        }
+      ],
+      "estimated_english_paragraph": 10,
+      "english_context": [
+        {
+          "index": 7,
+          "text": "Camus Morgue. She stood in an arrogant pose, looking down."
+        },
+        {
+          "index": 8,
+          "text": "Her three sisters, sprawled out on the floor, tremble at the sight of her."
+        },
+        {
+          "index": 9,
+          "text": "“Oh, it’s a camel, sisters…”"
+        },
+        {
+          "index": 10,
+          "text": "“Ooohhh, they’re just trying to ward off intruders…”"
+        },
+        {
+          "index": 11,
+          "text": "“They started the fight!”"
+        },
+        {
+          "index": 12,
+          "text": "Highsis, Middlesis, and Lowsis are a year older than Camus."
+        },
+        {
+          "index": 13,
+          "text": "But they were crushed by the overwhelming force of Camus’s strength, unable to catch their breath."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 43,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 24,
+      "korean_context": [
+        {
+          "index": 23,
+          "text": "한 살 어린 여동생의 말을 들은 세 자매는 공포에 질려 도망쳤다."
+        },
+        {
+          "index": 24,
+          "text": "그들이 사라진 후, 전장에는 섬뜩한 침묵만이 남았다."
+        },
+        {
+          "index": 25,
+          "text": "\""
+        }
+      ],
+      "estimated_english_paragraph": 24,
+      "english_context": [
+        {
+          "index": 21,
+          "text": "It became clear who had created this murderous landscape."
+        },
+        {
+          "index": 22,
+          "text": "“Gah!”"
+        },
+        {
+          "index": 23,
+          "text": "The three sisters fled, shaken by the words of their one-year-old brother."
+        },
+        {
+          "index": 24,
+          "text": "An eerie silence falls over the battlefield as they disappear."
+        },
+        {
+          "index": 25,
+          "text": "“….”"
+        },
+        {
+          "index": 26,
+          "text": "“….”"
+        },
+        {
+          "index": 27,
+          "text": "“….”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 43,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 50,
+      "korean_context": [
+        {
+          "index": 49,
+          "text": "열다섯 살이면 그녀는 이미 왕실 과 다른 여섯 명문가 의 주요 인물들을 장악하고 있어야 했지만, 지금은 놀랍도록 조용했다."
+        },
+        {
+          "index": 50,
+          "text": "무슨 이유에서인지, 결혼 적령기임에도 불구하고 그녀가 어떤 남자와도 어울린다는 소식이 전혀 없었다."
+        },
+        {
+          "index": 51,
+          "text": "\"정말 이해하기 어렵네요.\""
+        }
+      ],
+      "estimated_english_paragraph": 51,
+      "english_context": [
+        {
+          "index": 48,
+          "text": "…But."
+        },
+        {
+          "index": 49,
+          "text": "This was before the regression."
+        },
+        {
+          "index": 50,
+          "text": "In this life, the Camouflage is somehow less scandalous."
+        },
+        {
+          "index": 51,
+          "text": "She is surprisingly quiet, considering that by the time she turned 15, she was already managing fisheries for the imperial family, as well as the other powerful men of the other six families."
+        },
+        {
+          "index": 52,
+          "text": "Rumor has it that she is not seeing a single man, despite her age."
+        },
+        {
+          "index": 53,
+          "text": "“I don’t understand.”"
+        },
+        {
+          "index": 54,
+          "text": "Vikir reined in his horse with a bit of puzzlement."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 43,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 142,
+      "korean_context": [
+        {
+          "index": 141,
+          "text": "\"나는 천재 다. 내가 본 것은 절대 잊지 않는다. 그걸 명심해!\""
+        },
+        {
+          "index": 142,
+          "text": "카밀 의 외침 과 함께 무언가가 비키르 의 얼굴을 향해 날아왔다."
+        },
+        {
+          "index": 143,
+          "text": "그것은 검은 천 조각이었다. 여덟 살짜리 아이에게 맞는 크기의 망토였다."
+        }
+      ],
+      "estimated_english_paragraph": 144,
+      "english_context": [
+        {
+          "index": 141,
+          "text": "For the first time since his regression, Vikir panicked."
+        },
+        {
+          "index": 142,
+          "text": "He had just opened his mouth to say something."
+        },
+        {
+          "index": 143,
+          "text": "“I know because I’m a genius and I never forget what I’ve seen!”"
+        },
+        {
+          "index": 144,
+          "text": "With the camo’s shout, something flew into Vikir’s face."
+        },
+        {
+          "index": 145,
+          "text": "A shredded piece of cloth. It was a blood-red robe, the size of an eight-year-old’s."
+        },
+        {
+          "index": 146,
+          "text": "Boldly emblazoned with the Baskervilles’ sigil, it was the cloak Vikir had once used to cover the naked camo."
+        },
+        {
+          "index": 147,
+          "text": "Seven years old, the cloak still smelled faintly of that day’s sweat."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 21,
+      "korean_context": [
+        {
+          "index": 20,
+          "text": "카미유 의 말이 정말 일리가 있었기 때문이다."
+        },
+        {
+          "index": 21,
+          "text": "그는 5단계까지 승급하여 마력을 다섯 번 순환시킬 수 있었지만, 마법의 심연 에 의해 침식된 적은 한 번도 없었다."
+        },
+        {
+          "index": 22,
+          "text": "물론, 마도 의 한계라고 알려진 7단계에 도달 하고 그 이상으로 올라가면 상황은 달라지겠죠."
+        }
+      ],
+      "estimated_english_paragraph": 21,
+      "english_context": [
+        {
+          "index": 18,
+          "text": "“….”"
+        },
+        {
+          "index": 19,
+          "text": "“Well, maybe once you get to a certain level, but don’t instill fear in kids who can’t even handle their mana yet.”"
+        },
+        {
+          "index": 20,
+          "text": "At that, the tutor fell silent."
+        },
+        {
+          "index": 21,
+          "text": "The tutor’s jaw dropped."
+        },
+        {
+          "index": 22,
+          "text": "In all the years he’d been able to reach Class 5 and roll five mana circles, he’d never once fallen into the abyss of Mado."
+        },
+        {
+          "index": 23,
+          "text": "Unless, of course, you’re knocking on the door of Class 7, the ultimate in Mado."
+        },
+        {
+          "index": 24,
+          "text": "When the tedious lesson was over, the camel shook himself out of his seat and stood up."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 117,
+      "korean_context": [
+        {
+          "index": 116,
+          "text": "'저 남자는' 계속해서 그녀의 삼촌에게 시비를 걸었다."
+        },
+        {
+          "index": 117,
+          "text": "이처럼 명백한 실력 차이에도 불구하고 그는 굴복하지 않고 불굴의 투지를 보여주었다."
+        },
+        {
+          "index": 118,
+          "text": "카밀은 복잡한 감정을 느꼈다."
+        }
+      ],
+      "estimated_english_paragraph": 118,
+      "english_context": [
+        {
+          "index": 115,
+          "text": "“He’s a grown man, and he’s persecuting a child.”"
+        },
+        {
+          "index": 116,
+          "text": "She had always been grateful to her uncle for treating her like an adult, but not as much as she was at this moment."
+        },
+        {
+          "index": 117,
+          "text": "What?"
+        },
+        {
+          "index": 118,
+          "text": "‘The kid’ continued to challenge his uncle."
+        },
+        {
+          "index": 119,
+          "text": "An indomitable spirit that refused to back down in the face of such a stark disparity in skill."
+        },
+        {
+          "index": 120,
+          "text": "Camus felt mixed feelings."
+        },
+        {
+          "index": 121,
+          "text": "He knew of his uncle’s strength and greatness, but he couldn’t stop his gaze from drifting to…."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 131,
+      "korean_context": [
+        {
+          "index": 130,
+          "text": "협상이 순조롭게 마무리된 후."
+        },
+        {
+          "index": 131,
+          "text": "집으로 돌아온 카밀은 침대에 누웠다."
+        },
+        {
+          "index": 132,
+          "text": "그녀는 오늘부터 잠들 때마다 꼭 껴안던 인형을 더 이상 안고 있지 않고, 가지런히 옆에 놓아두기로 결심했다."
+        }
+      ],
+      "estimated_english_paragraph": 132,
+      "english_context": [
+        {
+          "index": 129,
+          "text": "It even jumped up and down in place."
+        },
+        {
+          "index": 130,
+          "text": "Her uncle looked shocked and expressed his disappointment, but it was none of her business."
+        },
+        {
+          "index": 131,
+          "text": "She had always despised the frivolous laughing and jumping of 8-year-olds her age, but before she knew it, she was laughing and jumping like a normal 8-year-old."
+        },
+        {
+          "index": 132,
+          "text": "After the negotiation went well."
+        },
+        {
+          "index": 133,
+          "text": "Arriving home, the camel went to bed."
+        },
+        {
+          "index": 134,
+          "text": "The stuffed animal she always hugged when she went to sleep, she decided to put it aside."
+        },
+        {
+          "index": 135,
+          "text": "“I’m not a child anymore.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 147,
+      "korean_context": [
+        {
+          "index": 146,
+          "text": "카밀은 루비를 좋아한다는 핑계로 루비 광산에 자주 갔지만, '그 남자'는 끝내 나타나지 않았다."
+        },
+        {
+          "index": 147,
+          "text": "그녀는 그가 장기 실무 교육에 들어갔다는 소식만 들었다."
+        },
+        {
+          "index": 148,
+          "text": "얼마나 지난 후인가요?"
+        }
+      ],
+      "estimated_english_paragraph": 148,
+      "english_context": [
+        {
+          "index": 145,
+          "text": "And so the seasons changed, and a few birthday cakes came and went, and the camel always thought the same thing."
+        },
+        {
+          "index": 146,
+          "text": "“Where would she be now, what would she be doing, and how tall would she be?”"
+        },
+        {
+          "index": 147,
+          "text": "And just like that, the little girl became a lady."
+        },
+        {
+          "index": 148,
+          "text": "She went to the ruby mines all the time because she loved rubies, but she never saw ‘him’."
+        },
+        {
+          "index": 149,
+          "text": "She had only heard rumors on the wind that he had gone on a long training run."
+        },
+        {
+          "index": 150,
+          "text": "And time passed."
+        },
+        {
+          "index": 151,
+          "text": "One day, Camus heard a rumor."
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 168,
+      "korean_context": [
+        {
+          "index": 167,
+          "text": "...그날에."
+        },
+        {
+          "index": 168,
+          "text": "카밀은 마침내 화가 났다."
+        },
+        {
+          "index": 169,
+          "text": "그녀는 마침내 낭만적인 장소를 골랐지만, 그곳은 이미 엉망이 되어 있었다."
+        }
+      ],
+      "estimated_english_paragraph": 170,
+      "english_context": [
+        {
+          "index": 167,
+          "text": "There, among the white flowers and their delicate scent, the seven-year wait would end."
+        },
+        {
+          "index": 168,
+          "text": "The camel went to bed with a puffed-up chest."
+        },
+        {
+          "index": 169,
+          "text": "…And that day."
+        },
+        {
+          "index": 170,
+          "text": "The camel was furious."
+        },
+        {
+          "index": 171,
+          "text": "He had picked an atmospheric spot, but it was already in shambles."
+        },
+        {
+          "index": 172,
+          "text": "His sisters, who had been so disrespectful when he was younger, and who now dared not even breathe in his presence when he was older, had ruined it."
+        },
+        {
+          "index": 173,
+          "text": "“What the … do you think you’re doing?”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 169,
+      "korean_context": [
+        {
+          "index": 168,
+          "text": "카밀은 마침내 화가 났다."
+        },
+        {
+          "index": 169,
+          "text": "그녀는 마침내 낭만적인 장소를 골랐지만, 그곳은 이미 엉망이 되어 있었다."
+        },
+        {
+          "index": 170,
+          "text": "어렸을 적 늘 그녀를 괴롭히던 언니들이, 이제 어른이 되어서는 그녀 앞에서 숨소리조차 제대로 내지 못할 정도로 그녀를 괴롭혔다. 모든 게 엉망이 되어버린 것이다."
+        }
+      ],
+      "estimated_english_paragraph": 171,
+      "english_context": [
+        {
+          "index": 168,
+          "text": "The camel went to bed with a puffed-up chest."
+        },
+        {
+          "index": 169,
+          "text": "…And that day."
+        },
+        {
+          "index": 170,
+          "text": "The camel was furious."
+        },
+        {
+          "index": 171,
+          "text": "He had picked an atmospheric spot, but it was already in shambles."
+        },
+        {
+          "index": 172,
+          "text": "His sisters, who had been so disrespectful when he was younger, and who now dared not even breathe in his presence when he was older, had ruined it."
+        },
+        {
+          "index": 173,
+          "text": "“What the … do you think you’re doing?”"
+        },
+        {
+          "index": 174,
+          "text": "Camus asked with infernal fury."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 176,
+      "korean_context": [
+        {
+          "index": 175,
+          "text": "\"카, 카밀, 자매님들...\""
+        },
+        {
+          "index": 176,
+          "text": "\"우와, 우린 그냥 침입자들을 막고 싶었을 뿐이야...\""
+        },
+        {
+          "index": 177,
+          "text": "\"먼저 그들이 시작한 거야!\""
+        }
+      ],
+      "estimated_english_paragraph": 178,
+      "english_context": [
+        {
+          "index": 175,
+          "text": "The aftermath of Romantic’s destruction was horrifying."
+        },
+        {
+          "index": 176,
+          "text": "Morgue’s three sisters sobbed, unable to speak English."
+        },
+        {
+          "index": 177,
+          "text": "“Kaa, Camus, my sisters are…”"
+        },
+        {
+          "index": 178,
+          "text": "“Woohoo, we just wanted to keep the intruders out….”"
+        },
+        {
+          "index": 179,
+          "text": "“Well, they started the fight!”"
+        },
+        {
+          "index": 180,
+          "text": "But Camus’s mood was already low."
+        },
+        {
+          "index": 181,
+          "text": "The reunion he’d been waiting seven years for had been ruined."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 45,
+      "category": "organs_entrails",
+      "score": 4,
+      "korean_line": 189,
+      "korean_context": [
+        {
+          "index": 188,
+          "text": "7년 만에 다시 만난 '그 남자'의 얼굴은 처음 만났을 때와 크게 다르지 않았다."
+        },
+        {
+          "index": 189,
+          "text": "그는 아직 성장기인 것처럼 보였다. 키는 그녀와 크게 다르지 않았지만, 얼굴은 다소 변해 있었다."
+        },
+        {
+          "index": 190,
+          "text": "턱선이 더 날렵해졌고, 코는 더 높았다."
+        }
+      ],
+      "estimated_english_paragraph": 191,
+      "english_context": [
+        {
+          "index": 188,
+          "text": "Camus reined in his horse and stood in front of ‘him’."
+        },
+        {
+          "index": 189,
+          "text": "“Welcome, partner.”"
+        },
+        {
+          "index": 190,
+          "text": "Seeing him again after seven years, he didn’t look much different than when they first met."
+        },
+        {
+          "index": 191,
+          "text": "He wasn’t much taller than her, as if he was still growing, but his face had changed slightly."
+        },
+        {
+          "index": 192,
+          "text": "His jawline was more defined, and his nose was more prominent."
+        },
+        {
+          "index": 193,
+          "text": "It was better than the version that had been glorified and beautified in Camus’s imagination."
+        },
+        {
+          "index": 194,
+          "text": "‘You’ve grown a lot. Mmm. You’ve grown."
+        }
+      ],
+      "expected_english_stems": [
+        "organ",
+        "entrail",
+        "intestin",
+        "gut"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 47,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 81,
+      "korean_context": [
+        {
+          "index": 80,
+          "text": "그들은 후퇴할 계획인 것 같았다."
+        },
+        {
+          "index": 81,
+          "text": "카밀은 침입자들을 제압하는 와중에도 비키르를 힐끗 쳐다보았다."
+        },
+        {
+          "index": 82,
+          "text": "그녀의 시선은 비키르 의 검 끝에 맺힌 몇 방울의 붉은 액체에 멈췄다."
+        }
+      ],
+      "estimated_english_paragraph": 81,
+      "english_context": [
+        {
+          "index": 78,
+          "text": "Powerful blasts of fire and wind, steel and rock, drove firestorms and rock showers."
+        },
+        {
+          "index": 79,
+          "text": "Ballak’s barbarian warriors were biting the wolves back, signaling loudly among themselves."
+        },
+        {
+          "index": 80,
+          "text": "Perhaps it was time to retreat."
+        },
+        {
+          "index": 81,
+          "text": "Camus kept the invaders at bay, but glanced back at Vikir."
+        },
+        {
+          "index": 82,
+          "text": "Her gaze was drawn to the few drops of black liquid on the tip of Vikir’s blade."
+        },
+        {
+          "index": 83,
+          "text": "“You were a Gradient? That’s amazing.”"
+        },
+        {
+          "index": 84,
+          "text": "Camus was genuinely impressed."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 47,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 151,
+      "korean_context": [
+        {
+          "index": 150,
+          "text": "“…”"
+        },
+        {
+          "index": 151,
+          "text": "비키르는 당황한 기색 없이 침착하게 손에 든 칼을 뻗어 반격에 나섰습니다."
+        },
+        {
+          "index": 152,
+          "text": "바스커빌 가문을 상징하는 핏빛 아우라는 허공에 날카로운 이빨 네 개를 그려냈다."
+        }
+      ],
+      "estimated_english_paragraph": 151,
+      "english_context": [
+        {
+          "index": 148,
+          "text": "She threw her lasso right at Vikir, as if she knew he would dodge it."
+        },
+        {
+          "index": 149,
+          "text": "The snake-like lasso swooped down, aiming for Vikir’s throat at an exquisite angle."
+        },
+        {
+          "index": 150,
+          "text": "“….”"
+        },
+        {
+          "index": 151,
+          "text": "Vikir didn’t react, instead calmly reaching for his sword."
+        },
+        {
+          "index": 152,
+          "text": "The black aura that symbolized the Baskervilles drew four teeth in the air."
+        },
+        {
+          "index": 153,
+          "text": "The noose snapped in half in midair."
+        },
+        {
+          "index": 154,
+          "text": "Just then."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 48,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 61,
+      "korean_context": [
+        {
+          "index": 60,
+          "text": "그를 지지하러 온 마법사들도 마찬가지였다."
+        },
+        {
+          "index": 61,
+          "text": "밀지 가족 이 침략을 발견하고 비상 신호를 보낸 후 대응에 이르기까지 단 3분밖에 걸리지 않았지만, 파락 의 공격은 그토록 신속하고 질서정연했다."
+        },
+        {
+          "index": 62,
+          "text": "공격자들은 만반의 준비를 갖췄고, 카미유 는 실전 전투 경험이 부족했기에 상황은 심각해졌다."
+        }
+      ],
+      "estimated_english_paragraph": 61,
+      "english_context": [
+        {
+          "index": 58,
+          "text": "“This, this nonsense…!”"
+        },
+        {
+          "index": 59,
+          "text": "Adolf stood dumbfounded."
+        },
+        {
+          "index": 60,
+          "text": "So did the mages who had brought reinforcements."
+        },
+        {
+          "index": 61,
+          "text": "It took less than three minutes for the Morgans to respond to the emergency signal announcing the invasion, but the Ballak assault was so methodical and swift that it would have been all over in that time."
+        },
+        {
+          "index": 62,
+          "text": "The raiders were well organized and caught the inexperienced camo off guard."
+        },
+        {
+          "index": 63,
+          "text": "Slaves and crops would have been one thing, but the kidnapping of the next head of the family was a big deal."
+        },
+        {
+          "index": 64,
+          "text": "“How can this be good!”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 48,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 110,
+      "korean_context": [
+        {
+          "index": 109,
+          "text": "스태퍼드는 아돌프 의 당황한 질문 에 어깨를 으쓱했다."
+        },
+        {
+          "index": 110,
+          "text": "하지만 실제로 앞장서서 이끌고 있던 비키르는 매우 침착해 보였다."
+        },
+        {
+          "index": 111,
+          "text": "'파괴의 시대에 이것은 흔히 사용되던 추적 기술이었습니다.'"
+        }
+      ],
+      "estimated_english_paragraph": 110,
+      "english_context": [
+        {
+          "index": 107,
+          "text": "“Are all … Baskerville boys like that?”"
+        },
+        {
+          "index": 108,
+          "text": "“Of course not, you’re a special case.”"
+        },
+        {
+          "index": 109,
+          "text": "Staffordshire shrugged at Adolf’s quizzical look."
+        },
+        {
+          "index": 110,
+          "text": "But Vikir, who is actually leading the way, is nonchalant."
+        },
+        {
+          "index": 111,
+          "text": "“It was a universal tracking technique in the Age of Destruction.”"
+        },
+        {
+          "index": 112,
+          "text": "Swordsmen of that era weren’t just good at swordfighting."
+        },
+        {
+          "index": 113,
+          "text": "There was nothing they couldn’t do: foraging, scouting, searching, hiding, ambushing, assassinating, pharmaceutical, healing, and cooking."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 49,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 89,
+      "korean_context": [
+        {
+          "index": 88,
+          "text": "그녀가 제일 먼저 한 일은 밀지 의 마법이나 바스커빌 가문 의 검을 처리하는 것이 아니라, 모래를 걷어차고 모닥불을 끄는 것이었다."
+        },
+        {
+          "index": 89,
+          "text": "희미한 불빛이 사라지자, 팔록족 사냥꾼들은 마침내 움직이기 시작했다."
+        },
+        {
+          "index": 90,
+          "text": "그들은 늑대의 등에 올라타 화살을 쏘면서 끊임없이 홍수 깊은 곳으로 후퇴했다."
+        }
+      ],
+      "estimated_english_paragraph": 107,
+      "english_context": [
+        {
+          "index": 104,
+          "text": "It was as if they were more worried about Morgue and Baskerville’s surprise than they were about the lights and sounds they were creating."
+        },
+        {
+          "index": 105,
+          "text": "“Ugh! These lunatics are making such a ruckus in the waters of the night!”"
+        },
+        {
+          "index": 106,
+          "text": "Ahun jumped back in surprise."
+        },
+        {
+          "index": 107,
+          "text": "His uneasy gaze was fixed not on the swords and magic raging around him, but on the darkness of the water beyond."
+        },
+        {
+          "index": 108,
+          "text": "It was the same for their leader, Aiyen."
+        },
+        {
+          "index": 109,
+          "text": "“….”"
+        },
+        {
+          "index": 110,
+          "text": "Aiyen moved quickly."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 50,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 15,
+      "korean_context": [
+        {
+          "index": 14,
+          "text": "그 짧은 100일 동안 제국은 헤아릴 수 없는 손실을 입었다. 그 이후로 제국은 검은 산을 \"무법 지대\"로 지정하고 전면전을 피했다."
+        },
+        {
+          "index": 15,
+          "text": "제국 역사책에서는 이러한 사실을 축소해서 다루었지만, 그럼에도 불구하고 이는 놀라운 업적이었다."
+        },
+        {
+          "index": 16,
+          "text": "\"...그러나 지금은 아도나이께서 사시던 시대가 아닙니다.\""
+        }
+      ],
+      "estimated_english_paragraph": 15,
+      "english_context": [
+        {
+          "index": 12,
+          "text": "He was so famous that he single-handedly declared war on the Empire, sniping and killing 542 Gradients during the 100-day war."
+        },
+        {
+          "index": 13,
+          "text": "The number of casualties among the rank-and-file soldiers was uncountable."
+        },
+        {
+          "index": 14,
+          "text": "The Empire suffered untold losses in the short span of 100 days, and from then on, the enemy and the Black Mountains were categorized as “extralegal” territory, and all-out war was avoided."
+        },
+        {
+          "index": 15,
+          "text": "It’s a much devalued account in the Empire’s history books, but a remarkable one all the same."
+        },
+        {
+          "index": 16,
+          "text": "‘…But this is not the age of the Adonai.’"
+        },
+        {
+          "index": 17,
+          "text": "Vikir thought for a moment."
+        },
+        {
+          "index": 18,
+          "text": "Adonai was from a whole generation before."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 50,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 49,
+      "korean_context": [
+        {
+          "index": 48,
+          "text": "비키르는 날아오는 물체를 막기 위해 망토를 휘둘렀다."
+        },
+        {
+          "index": 49,
+          "text": "그것은 선인장 가시였는데, 마비시키는 독이 묻은 독침이었다."
+        },
+        {
+          "index": 50,
+          "text": "그것은 바로 앞서 카밀을 독살했던 것과 같은 것이었다."
+        }
+      ],
+      "estimated_english_paragraph": 49,
+      "english_context": [
+        {
+          "index": 46,
+          "text": "But the hunter’s senses, trained through the ages of destruction, would not allow for a gap as thin as a hair."
+        },
+        {
+          "index": 47,
+          "text": "Boom!"
+        },
+        {
+          "index": 48,
+          "text": "Vikir swung the hem of the bloodwind to stop it in its tracks."
+        },
+        {
+          "index": 49,
+          "text": "It was a cactus thorn, a stinger laced with paralyzing poison."
+        },
+        {
+          "index": 50,
+          "text": "The same ones that had poisoned the camo before."
+        },
+        {
+          "index": 51,
+          "text": "“…What! How did you stop it!?”"
+        },
+        {
+          "index": 52,
+          "text": "An exclamation of horror echoes across the water."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 50,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 54,
+      "korean_context": [
+        {
+          "index": 53,
+          "text": "나무뿌리 아래에 숨어 입에 휘파람을 물고 있던 아쉰은 몹시 당황한 ​​기색이었다."
+        },
+        {
+          "index": 54,
+          "text": "비키르는 잠시 망설이다가 마침내 자신의 아우라를 거두었다."
+        },
+        {
+          "index": 55,
+          "text": "지금 가장 중요한 것은 카밀을 안전하게 구출하고 밀지 가문에게 막대한 빚을 지게 만드는 것이었다."
+        }
+      ],
+      "estimated_english_paragraph": 54,
+      "english_context": [
+        {
+          "index": 51,
+          "text": "“…What! How did you stop it!?”"
+        },
+        {
+          "index": 52,
+          "text": "An exclamation of horror echoes across the water."
+        },
+        {
+          "index": 53,
+          "text": "Ahun, hiding beneath the roots of a tree, was panicking, his mouth clamped shut."
+        },
+        {
+          "index": 54,
+          "text": "Vikir debated whether or not to fight back, then withdrew his aura."
+        },
+        {
+          "index": 55,
+          "text": "All that mattered now was getting the camel in his arms to safety, and by extension, erasing his massive debt to the Morgue Clan."
+        },
+        {
+          "index": 56,
+          "text": "“Just be patient, I’ll take you to your uncle soon enough…?”"
+        },
+        {
+          "index": 57,
+          "text": "But Vikir did not finish his sentence."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 50,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 73,
+      "korean_context": [
+        {
+          "index": 72,
+          "text": "비키르는 또한 자신의 전투 기운을 발산하여 모든 밧줄을 끊어버렸다."
+        },
+        {
+          "index": 73,
+          "text": "주변에 많은 사람들이 있었음에도 불구하고, 그는 하급 학자 수준의 검술과 전투 기운만을 보여줄 수 있었지만, 그것만으로도 파락 의 일반 무사들을 압도하기에 충분했다."
+        },
+        {
+          "index": 74,
+          "text": "하지만."
+        }
+      ],
+      "estimated_english_paragraph": 73,
+      "english_context": [
+        {
+          "index": 70,
+          "text": "But."
+        },
+        {
+          "index": 71,
+          "text": "Kiririk-grrrr!"
+        },
+        {
+          "index": 72,
+          "text": "Vikir, too, has unleashed his auras, slicing through the lassos."
+        },
+        {
+          "index": 73,
+          "text": "With so many eyes on him, he was only able to display the swordsmanship and aura of a lower level Gradient, but that was enough to overwhelm the common warriors of Ballak."
+        },
+        {
+          "index": 74,
+          "text": "But."
+        },
+        {
+          "index": 75,
+          "text": "Ping-ping!"
+        },
+        {
+          "index": 76,
+          "text": "Aiyen’s arrows were so powerful that even Vikir had to be careful."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 50,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 113,
+      "korean_context": [
+        {
+          "index": 112,
+          "text": "아돌프는 카미유 의 몸 에서 마비성 독의 일부를 성공적으로 제거했습니다."
+        },
+        {
+          "index": 113,
+          "text": "\"이 마비독은 너무 강력해서 완전히 제거하기가 매우 어려울 겁니다. 앞으로 몇 달 동안은 침대에 누워 쉬어야 할지도 몰라요. 돌아가고 나면 성가정과 케와디 가문을 방문 합시다. \" 가족.\""
+        },
+        {
+          "index": 114,
+          "text": "아돌프 조차 완전히 제거할 수 없었던 맹독성 독이었다."
+        }
+      ],
+      "estimated_english_paragraph": 112,
+      "english_context": [
+        {
+          "index": 109,
+          "text": "CURE POISON."
+        },
+        {
+          "index": 110,
+          "text": "It was a very high class magic, and not just anyone could use it."
+        },
+        {
+          "index": 111,
+          "text": "Adolf succeeded in removing some of the paralyzing poison from the camel’s body."
+        },
+        {
+          "index": 112,
+          "text": "“That’s a lot of paralyzing poison, and it’s going to be hard to get it all out. You’re going to have to lie down for a few months, and when we get back, we’ll start by visiting the Holy House of Quovadis.”"
+        },
+        {
+          "index": 113,
+          "text": "Even Adolf’s strength could not remove the poison."
+        },
+        {
+          "index": 114,
+          "text": "Afterward, the camel recovered from the paralyzing poison and leapt to his feet."
+        },
+        {
+          "index": 115,
+          "text": "And then?"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 52,
+      "category": "degradation_slavery",
+      "score": 4,
+      "korean_line": 2,
+      "korean_context": [
+        {
+          "index": 1,
+          "text": "철혈검 가문의 사냥개의 귀환 - 52화 (52/500)"
+        },
+        {
+          "index": 2,
+          "text": "제52화: 야만 부족의 노예 (1)"
+        },
+        {
+          "index": 3,
+          "text": "짹짹짹짹."
+        }
+      ],
+      "estimated_english_paragraph": 2,
+      "english_context": [
+        {
+          "index": 1,
+          "text": "Chirp-."
+        },
+        {
+          "index": 2,
+          "text": "A small bird chirped."
+        },
+        {
+          "index": 3,
+          "text": "Vikir opened his eyes to the sunlight streaming in."
+        },
+        {
+          "index": 4,
+          "text": "The morning light stabbed painfully through her body."
+        },
+        {
+          "index": 5,
+          "text": "As Vikir tried to sit up, he grimaced at the pain, as if his entire body had been shattered."
+        }
+      ],
+      "expected_english_stems": [
+        "prostitut",
+        "whore",
+        "slave",
+        "disabled",
+        "cripple",
+        "vermin",
+        "beast"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 52,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 6,
+      "korean_context": [
+        {
+          "index": 5,
+          "text": "비키르는 햇살이 스며드는 가운데 눈을 떴다."
+        },
+        {
+          "index": 6,
+          "text": "아침 햇살이 그의 온몸을 따갑게 했다."
+        },
+        {
+          "index": 7,
+          "text": "일어나려던 비키 르는 온몸이 산산조각 나는 듯한 극심한 고통에 얼굴을 찌푸렸다."
+        }
+      ],
+      "estimated_english_paragraph": 6,
+      "english_context": [
+        {
+          "index": 3,
+          "text": "Vikir opened his eyes to the sunlight streaming in."
+        },
+        {
+          "index": 4,
+          "text": "The morning light stabbed painfully through her body."
+        },
+        {
+          "index": 5,
+          "text": "As Vikir tried to sit up, he grimaced at the pain, as if his entire body had been shattered."
+        },
+        {
+          "index": 6,
+          "text": "With superhuman strength, he managed to keep his upper body upright, but getting fully to his feet was painful."
+        },
+        {
+          "index": 7,
+          "text": "“Where am I?”"
+        },
+        {
+          "index": 8,
+          "text": "Vikir thought back to last night, which could have been any number of days ago."
+        },
+        {
+          "index": 9,
+          "text": "He remembered hurling every ounce of his strength at the darkness under the water."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 52,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 68,
+      "korean_context": [
+        {
+          "index": 67,
+          "text": "'서둘러! 어서 움직여!'"
+        },
+        {
+          "index": 68,
+          "text": "어딘가에서 다급한 외침이 들려왔다."
+        },
+        {
+          "index": 69,
+          "text": "비키르는 고개를 돌려 밧줄로 묶인 포로들을 끌고 가는 몇몇 야만적인 전사들을 보았다."
+        }
+      ],
+      "estimated_english_paragraph": 67,
+      "english_context": [
+        {
+          "index": 64,
+          "text": "Just then."
+        },
+        {
+          "index": 65,
+          "text": "“Quick, quick, quick, walk!”"
+        },
+        {
+          "index": 66,
+          "text": "A nervous shout came from somewhere."
+        },
+        {
+          "index": 67,
+          "text": "Vikir turned his head to see several barbarian warriors dragging rope-bound prisoners."
+        },
+        {
+          "index": 68,
+          "text": "The prisoners, standing in a line and staggering, were of various races."
+        },
+        {
+          "index": 69,
+          "text": "Most were black-haired, brown-skinned men of other tribes."
+        },
+        {
+          "index": 70,
+          "text": "Every single one of them had been tortured and abused in some way."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 52,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 141,
+      "korean_context": [
+        {
+          "index": 140,
+          "text": "..."
+        },
+        {
+          "index": 141,
+          "text": "잠시 침묵이 흘렀다."
+        },
+        {
+          "index": 142,
+          "text": "침묵을 먼저 깬 것은 야만 부족의 어린 소녀였다."
+        }
+      ],
+      "estimated_english_paragraph": 139,
+      "english_context": [
+        {
+          "index": 136,
+          "text": "They were diametrically opposed then. Vikir held her eyes steady."
+        },
+        {
+          "index": 137,
+          "text": "“….”"
+        },
+        {
+          "index": 138,
+          "text": "“….”"
+        },
+        {
+          "index": 139,
+          "text": "A brief silence followed."
+        },
+        {
+          "index": 140,
+          "text": "It was the barbarian girl who broke it first."
+        },
+        {
+          "index": 141,
+          "text": "She tugged at the leash around Vikir’s neck and grinned."
+        },
+        {
+          "index": 142,
+          "text": "“Get down.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 52,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 142,
+      "korean_context": [
+        {
+          "index": 141,
+          "text": "잠시 침묵이 흘렀다."
+        },
+        {
+          "index": 142,
+          "text": "침묵을 먼저 깬 것은 야만 부족의 어린 소녀였다."
+        },
+        {
+          "index": 143,
+          "text": "그녀는 비키르 의 목덜미를 잡고 환한 미소를 지었다."
+        }
+      ],
+      "estimated_english_paragraph": 140,
+      "english_context": [
+        {
+          "index": 137,
+          "text": "“….”"
+        },
+        {
+          "index": 138,
+          "text": "“….”"
+        },
+        {
+          "index": 139,
+          "text": "A brief silence followed."
+        },
+        {
+          "index": 140,
+          "text": "It was the barbarian girl who broke it first."
+        },
+        {
+          "index": 141,
+          "text": "She tugged at the leash around Vikir’s neck and grinned."
+        },
+        {
+          "index": 142,
+          "text": "“Get down.”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 76,
+      "korean_context": [
+        {
+          "index": 75,
+          "text": "그녀의 이름은 아엔 이었고, 그녀는 야만 부족인 바라크 의 공주였다."
+        },
+        {
+          "index": 76,
+          "text": "그녀는 비키르가 판 배수로에 앉아 소변을 봤을 뿐이었다."
+        },
+        {
+          "index": 77,
+          "text": "\"오줌을 오랫동안 참았더니 너무 많이 쌌어요.\""
+        }
+      ],
+      "estimated_english_paragraph": 39,
+      "english_context": [
+        {
+          "index": 36,
+          "text": "A slave who thinks and acts on his own before his master asks him to do anything, and takes care of all those pesky chores."
+        },
+        {
+          "index": 37,
+          "text": "Literally a class A slave."
+        },
+        {
+          "index": 38,
+          "text": "“The bricks under the chieftain’s tent look unstable.”"
+        },
+        {
+          "index": 39,
+          "text": "“…My mother’s house?”"
+        },
+        {
+          "index": 40,
+          "text": "“Yes. The way it is, the ground beneath the center pole of the tent could shake and leak water during the next rainy season. If you give me the order, I will mix the limestone soil down there with stone dust from the hill across the street, make bricks, oil them, bake them, and reinforce them.”"
+        },
+        {
+          "index": 41,
+          "text": "“…Yes, do that. I was just thinking of that myself.”"
+        },
+        {
+          "index": 42,
+          "text": "Aiyen scratched his head."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 77,
+      "korean_context": [
+        {
+          "index": 76,
+          "text": "그녀는 비키르가 판 배수로에 앉아 소변을 봤을 뿐이었다."
+        },
+        {
+          "index": 77,
+          "text": "\"오줌을 오랫동안 참았더니 너무 많이 쌌어요.\""
+        },
+        {
+          "index": 78,
+          "text": "\""
+        }
+      ],
+      "estimated_english_paragraph": 39,
+      "english_context": [
+        {
+          "index": 36,
+          "text": "A slave who thinks and acts on his own before his master asks him to do anything, and takes care of all those pesky chores."
+        },
+        {
+          "index": 37,
+          "text": "Literally a class A slave."
+        },
+        {
+          "index": 38,
+          "text": "“The bricks under the chieftain’s tent look unstable.”"
+        },
+        {
+          "index": 39,
+          "text": "“…My mother’s house?”"
+        },
+        {
+          "index": 40,
+          "text": "“Yes. The way it is, the ground beneath the center pole of the tent could shake and leak water during the next rainy season. If you give me the order, I will mix the limestone soil down there with stone dust from the hill across the street, make bricks, oil them, bake them, and reinforce them.”"
+        },
+        {
+          "index": 41,
+          "text": "“…Yes, do that. I was just thinking of that myself.”"
+        },
+        {
+          "index": 42,
+          "text": "Aiyen scratched his head."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 79,
+      "korean_context": [
+        {
+          "index": 78,
+          "text": "\""
+        },
+        {
+          "index": 79,
+          "text": "\"어머나, 주인이 이렇게 남이 소변 보는 걸 보는 게 적절한가요?\""
+        },
+        {
+          "index": 80,
+          "text": "아엔은 비키르가 일하는 바로 옆에서 뻔뻔스럽게 다리를 벌리고 소변을 보고 있었다."
+        }
+      ],
+      "estimated_english_paragraph": 40,
+      "english_context": [
+        {
+          "index": 37,
+          "text": "Literally a class A slave."
+        },
+        {
+          "index": 38,
+          "text": "“The bricks under the chieftain’s tent look unstable.”"
+        },
+        {
+          "index": 39,
+          "text": "“…My mother’s house?”"
+        },
+        {
+          "index": 40,
+          "text": "“Yes. The way it is, the ground beneath the center pole of the tent could shake and leak water during the next rainy season. If you give me the order, I will mix the limestone soil down there with stone dust from the hill across the street, make bricks, oil them, bake them, and reinforce them.”"
+        },
+        {
+          "index": 41,
+          "text": "“…Yes, do that. I was just thinking of that myself.”"
+        },
+        {
+          "index": 42,
+          "text": "Aiyen scratched his head."
+        },
+        {
+          "index": 43,
+          "text": "Vikir had indeed done so."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 80,
+      "korean_context": [
+        {
+          "index": 79,
+          "text": "\"어머나, 주인이 이렇게 남이 소변 보는 걸 보는 게 적절한가요?\""
+        },
+        {
+          "index": 80,
+          "text": "아엔은 비키르가 일하는 바로 옆에서 뻔뻔스럽게 다리를 벌리고 소변을 보고 있었다."
+        },
+        {
+          "index": 81,
+          "text": "비키르는 놀란 듯 물었다."
+        }
+      ],
+      "estimated_english_paragraph": 41,
+      "english_context": [
+        {
+          "index": 38,
+          "text": "“The bricks under the chieftain’s tent look unstable.”"
+        },
+        {
+          "index": 39,
+          "text": "“…My mother’s house?”"
+        },
+        {
+          "index": 40,
+          "text": "“Yes. The way it is, the ground beneath the center pole of the tent could shake and leak water during the next rainy season. If you give me the order, I will mix the limestone soil down there with stone dust from the hill across the street, make bricks, oil them, bake them, and reinforce them.”"
+        },
+        {
+          "index": 41,
+          "text": "“…Yes, do that. I was just thinking of that myself.”"
+        },
+        {
+          "index": 42,
+          "text": "Aiyen scratched his head."
+        },
+        {
+          "index": 43,
+          "text": "Vikir had indeed done so."
+        },
+        {
+          "index": 44,
+          "text": "Moving on his limp legs, he scooped up white dirt from the hills behind him and flew in stones from the hill opposite, cracking and breaking them to mix into the soil."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 85,
+      "korean_context": [
+        {
+          "index": 84,
+          "text": "\"...적어도 가릴 수는 없나요?\""
+        },
+        {
+          "index": 85,
+          "text": "\"배설에 관해 부끄러워할 게 뭐가 있나요? 우리 부족에는 그런 관습이 없어요.\""
+        },
+        {
+          "index": 86,
+          "text": "반면, 아엔은 의도적으로 치마를 더욱 높이 들어 올렸다."
+        }
+      ],
+      "estimated_english_paragraph": 43,
+      "english_context": [
+        {
+          "index": 40,
+          "text": "“Yes. The way it is, the ground beneath the center pole of the tent could shake and leak water during the next rainy season. If you give me the order, I will mix the limestone soil down there with stone dust from the hill across the street, make bricks, oil them, bake them, and reinforce them.”"
+        },
+        {
+          "index": 41,
+          "text": "“…Yes, do that. I was just thinking of that myself.”"
+        },
+        {
+          "index": 42,
+          "text": "Aiyen scratched his head."
+        },
+        {
+          "index": 43,
+          "text": "Vikir had indeed done so."
+        },
+        {
+          "index": 44,
+          "text": "Moving on his limp legs, he scooped up white dirt from the hills behind him and flew in stones from the hill opposite, cracking and breaking them to mix into the soil."
+        },
+        {
+          "index": 45,
+          "text": "Then he added water to make a dough, shaped it into a rectangle, baked it over a fire, and dried the bricks with hyena oil."
+        },
+        {
+          "index": 46,
+          "text": "The bricks were then used to form the base of the tent, making it even stronger."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 93,
+      "korean_context": [
+        {
+          "index": 92,
+          "text": "\"하지만 적어도 집 안에서 싸우지는 마세요.\""
+        },
+        {
+          "index": 93,
+          "text": "\"왜요? 수백 년 전 당신네 제국 사람들도 창밖으로 똥을 내던지지 않았나요? 거리마다 똥이 쌓여 있었다고 하죠. 그래서 사람들이 하이힐을 신기 시작했고, 향수를 뿌리기 시작했다는 건가요?\""
+        },
+        {
+          "index": 94,
+          "text": "그건 꽤 그럴듯하게 들렸어요."
+        }
+      ],
+      "estimated_english_paragraph": 47,
+      "english_context": [
+        {
+          "index": 44,
+          "text": "Moving on his limp legs, he scooped up white dirt from the hills behind him and flew in stones from the hill opposite, cracking and breaking them to mix into the soil."
+        },
+        {
+          "index": 45,
+          "text": "Then he added water to make a dough, shaped it into a rectangle, baked it over a fire, and dried the bricks with hyena oil."
+        },
+        {
+          "index": 46,
+          "text": "The bricks were then used to form the base of the tent, making it even stronger."
+        },
+        {
+          "index": 47,
+          "text": "Even Akwilla, who was initially annoyed at the extra work, was pleased with the results."
+        },
+        {
+          "index": 48,
+          "text": "“The ceiling won’t leak anymore. It was annoying that no matter how many leaves or hides I put on the ceiling, it would still leak, but it must have been the foundation.”"
+        },
+        {
+          "index": 49,
+          "text": "Akwilla still didn’t pay much attention to Vikir."
+        },
+        {
+          "index": 50,
+          "text": "He merely ordered him to make his usual rounds around the chieftain’s barracks, observing, maintaining, and repairing the shabby things."
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    },
+    {
+      "chapter": 54,
+      "category": "bodily_functions",
+      "score": 4,
+      "korean_line": 161,
+      "korean_context": [
+        {
+          "index": 160,
+          "text": "나는 내 사고방식을 바꿔야 해."
+        },
+        {
+          "index": 161,
+          "text": "비키르는 소변이 마려워 바지를 벗고 소변을 보기 시작했다."
+        },
+        {
+          "index": 162,
+          "text": "그는 이러한 기본적인 것들부터 시작해서 이곳 생활에 적응해 나가려고 했다."
+        }
+      ],
+      "estimated_english_paragraph": 81,
+      "english_context": [
+        {
+          "index": 78,
+          "text": "“….”"
+        },
+        {
+          "index": 79,
+          "text": "“Ugh, master, are we supposed to watch you pee like that?”"
+        },
+        {
+          "index": 80,
+          "text": "Aiyen was peeing with his legs open, right next to where Vikir was working."
+        },
+        {
+          "index": 81,
+          "text": "Vikir was dumbfounded and asked."
+        },
+        {
+          "index": 82,
+          "text": "“What are you doing?”"
+        },
+        {
+          "index": 83,
+          "text": "“Marking the territory. This is my slave’s house, so it’s also mine.”"
+        },
+        {
+          "index": 84,
+          "text": "“…Doesn’t cover it?”"
+        }
+      ],
+      "expected_english_stems": [
+        "piss",
+        "urine",
+        "shit",
+        "fec",
+        "stool",
+        "excret",
+        "diarr",
+        "vomit",
+        "saliva",
+        "mucus",
+        "bladder"
+      ],
+      "expected_stem_seen_near_estimate": false,
+      "prior_review_mentions": [],
+      "diagnostic_only": true
+    }
+  ]
+}
