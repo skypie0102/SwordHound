@@ -1,6 +1,6 @@
 # Chapter 11: Hounds of Hell (4)
 
-> Restarted Chinese-first reconstruction. Primary source: `source/chinese/chapters/011.txt`. Canonical English forms for Cerberus, Hell’s Watchdog, Le Rouge et Le Noir Mountain, Camus Morgue, accepted sword ranks, and Baskerville Forms are normalized from current project/Fandom evidence. Recovered English Chapter 11 is an aligned secondary reference only.
+> Restarted Chinese-first reconstruction. Primary source: `source/chinese/chapters/011.txt`. Canonical English forms for Cerberus, Hell’s Watchdog, Le Rouge et Le Noir Mountain, Camus Morgue, accepted sword ranks, and Baskerville Fangs are normalized from current project/Fandom evidence. Recovered English Chapter 11 is an aligned secondary reference only.
 
 A grating growl rang out, like bronze beasts scraping against one another.
 
@@ -95,11 +95,11 @@ The shortsword traced strange marks through the air.
 
 Three sharp, fang-like arcs appeared.
 
-The Baskerville 3rd Form.
+The Baskerville 3rd Fang.
 
 A sword technique that created three fangs and drove them into an opponent’s neck.
 
-In his previous life, Vikir had mastered the Baskerville swordsmanship through the 4th Form and had eventually possessed the mana and aura of a High Sword Graduator.
+In his previous life, Vikir had mastered the Baskerville swordsmanship through the 4th Fang and had eventually possessed the mana and aura of a High Sword Graduator.
 
 Compared with that former self, his current strength remained far lower.
 
@@ -179,19 +179,19 @@ Their patterns had been burned into his memory.
 
 Whoosh!
 
-Baskerville 1st Form.
+Baskerville 1st Fang.
 
 The first fang knocked aside Cerberus’s bite.
 
 Clang!
 
-Baskerville 2nd Form.
+Baskerville 2nd Fang.
 
 The second fang drove partway into the monster’s neck.
 
 Thrust!
 
-Baskerville 3rd Form.
+Baskerville 3rd Fang.
 
 The third fang struck the second and hammered it deeper.
 
