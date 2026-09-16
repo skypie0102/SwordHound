@@ -19,7 +19,7 @@ jobs:
           ref: editorial/reprocess-0014-0125
           fetch-depth: 0
 
-      - name: Build inventories
+      - name: Build inventories and import prior review records
         shell: python
         run: |
           from pathlib import Path
@@ -37,36 +37,17 @@ jobs:
                   if not path.is_file():
                       return None
                   data = path.read_bytes()
-                  return {
-                      'path': path.as_posix(),
-                      'bytes': len(data),
-                      'sha256': hashlib.sha256(data).hexdigest(),
-                  }
+                  return {'path': path.as_posix(), 'bytes': len(data), 'sha256': hashlib.sha256(data).hexdigest()}
               ko_info = info(ko)
               mtl_info = info(mtl)
-              source_rows.append({
-                  'chapter': chapter,
-                  'basis': 'korean_plus_mtl' if ko_info else 'mtl_only',
-                  'korean': ko_info,
-                  'mtl': mtl_info,
-              })
+              source_rows.append({'chapter': chapter, 'basis': 'korean_plus_mtl' if ko_info else 'mtl_only', 'korean': ko_info, 'mtl': mtl_info})
 
           missing_korean = [r['chapter'] for r in source_rows if r['korean'] is None]
           missing_mtl = [r['chapter'] for r in source_rows if r['mtl'] is None]
-          source_doc = {
-              'range': [1, 125],
-              'korean_present_count': sum(r['korean'] is not None for r in source_rows),
-              'korean_missing': missing_korean,
-              'mtl_missing': missing_mtl,
-              'chapters': source_rows,
-          }
-          (out / 'source-inventory-001-125.json').write_text(
-              json.dumps(source_doc, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          source_doc = {'range': [1, 125], 'korean_present_count': sum(r['korean'] is not None for r in source_rows), 'korean_missing': missing_korean, 'mtl_missing': missing_mtl, 'chapters': source_rows}
+          (out / 'source-inventory-001-125.json').write_text(json.dumps(source_doc, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
-          refs = subprocess.check_output(
-              ['git', 'for-each-ref', '--format=%(refname:short)', 'refs/remotes/origin/production/'],
-              text=True).splitlines()
-
+          refs = subprocess.check_output(['git', 'for-each-ref', '--format=%(refname:short)', 'refs/remotes/origin/production/'], text=True).splitlines()
           claims = {}
           for ref in refs:
               name = ref.split('origin/', 1)[-1]
@@ -83,9 +64,12 @@ jobs:
                   claims.setdefault(chapter, []).append(name)
 
           baseline_rows = []
+          prior_dir = out / 'prior-reviews'
+          prior_dir.mkdir(parents=True, exist_ok=True)
           for chapter in range(14, 126):
               candidates = claims.get(chapter, [])
               records = []
+              copied_review = None
               for branch in candidates:
                   ref = f'origin/{branch}'
                   paths = {
@@ -99,34 +83,85 @@ jobs:
                   for kind, path in paths.items():
                       probe = subprocess.run(['git', 'cat-file', '-e', f'{ref}:{path}'], capture_output=True)
                       present[kind] = path if probe.returncode == 0 else None
+                  if copied_review is None and present['review']:
+                      body = subprocess.check_output(['git', 'show', f"{ref}:{present['review']}"], text=True)
+                      target = prior_dir / f'chapter-{chapter:04d}.md'
+                      target.write_text(body.rstrip() + '\n', encoding='utf-8')
+                      copied_review = {'source_branch': branch, 'source_path': present['review'], 'copied_to': target.as_posix()}
                   records.append({'branch': branch, 'files': present})
-              baseline_rows.append({
-                  'chapter': chapter,
-                  'claimed_branches': records,
-                  'has_production_baseline': any(
-                      r['files']['draft'] or r['files']['edit_set'] for r in records),
-              })
+              baseline_rows.append({'chapter': chapter, 'claimed_branches': records, 'has_production_baseline': any(r['files']['draft'] or r['files']['edit_set'] for r in records), 'prior_review': copied_review})
 
-          baseline_doc = {
-              'range': [14, 125],
-              'production_branches_scanned': refs,
-              'chapters': baseline_rows,
-          }
-          (out / 'production-baselines-0014-0125.json').write_text(
-              json.dumps(baseline_doc, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          baseline_doc = {'range': [14, 125], 'production_branches_scanned': refs, 'chapters': baseline_rows}
+          (out / 'production-baselines-0014-0125.json').write_text(json.dumps(baseline_doc, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
-          md = ['# Reprocessing source inventory — Chapters 1–125', '']
-          md.append(f"- Korean raws present: **{source_doc['korean_present_count']}/125**")
-          md.append('- Missing Korean raws: ' + (', '.join(map(str, missing_korean)) if missing_korean else 'none'))
-          md.append('- Missing MTL chapters: ' + (', '.join(map(str, missing_mtl)) if missing_mtl else 'none'))
-          md.append('')
-          md.append('Chapters without a Korean raw must be reviewed from the recovered MTL only and explicitly marked `mtl_only`; no Korean evidence may be claimed for them.')
+          md = ['# Reprocessing source inventory — Chapters 1–125', '', f"- Korean raws present: **{source_doc['korean_present_count']}/125**", '- Missing Korean raws: ' + (', '.join(map(str, missing_korean)) if missing_korean else 'none'), '- Missing MTL chapters: ' + (', '.join(map(str, missing_mtl)) if missing_mtl else 'none'), '', 'Chapters without a Korean raw must be reviewed from the recovered MTL only and explicitly marked `mtl_only`; no Korean evidence may be claimed for them.']
           (out / 'SOURCE-INVENTORY.md').write_text('\n'.join(md) + '\n', encoding='utf-8')
 
-      - name: Commit inventories
+      - name: Register supplemental Korean raws
+        run: python tools/manage_supplemental_korean_raws.py --write
+
+      - name: Update source policy to live coverage
+        shell: python
+        run: |
+          from pathlib import Path
+
+          p = Path('editorial/WORKFLOW.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace(
+              'The recovered 493-chapter English MTL corpus is the working narrative base. User-supplied Korean raws are available for Chapters 1–54; from Chapter 55 onward the user has no Korean raws and authorizes MTL-based reconstruction. Use the Fandom and Namu Wiki references for QA, with additional web research as needed. Follow [SOURCES.md](SOURCES.md) for exact paths, links, evidence rules, and review modes.',
+              'The recovered 493-chapter English MTL corpus is the working narrative base. Korean raws are currently available for Chapters 1–125 except the unrecoverable Chapters 55 and 76. Chapters 55 and 76, and currently Chapters 126–493, use MTL-based reconstruction unless additional Korean evidence is later supplied. Use the Fandom and Namu Wiki references for QA, with additional web research as needed. Follow [SOURCES.md](SOURCES.md) and `editorial/reprocessing/source-inventory-001-125.json` for exact paths, live coverage, evidence rules, and review modes.'
+          )
+          text = text.replace(
+              '3. For Chapters 1–54, compare the supplied Korean and MTL passages. For Chapters 55–493, review the MTL against context, continuity, and supporting references; Korean availability is not a prerequisite. Consult the two designated wikis for applicable names, terms, and locations, and seek other web support when needed. Record specific evidence, access dates, decisions, and conflicts. Label the review basis as `korean_plus_mtl` or `mtl_with_supporting_references`.',
+              '3. For every chapter with a Korean raw recorded in the current source inventory, compare Korean and MTL passage by passage. For Chapters 55 and 76, and for chapters beyond the currently supplied Korean range, review the MTL against context, continuity, and supporting references; missing Korean is not a prerequisite for MTL-only acceptance when the limitation is explicit. Consult the two designated wikis for applicable names, terms, and locations, and seek other web support when needed. Record specific evidence, access dates, decisions, and conflicts. Label the review basis as `korean_plus_mtl` or `mtl_with_supporting_references`.'
+          )
+          p.write_text(text, encoding='utf-8')
+
+          p = Path('editorial/SOURCES.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace('Updated 2026-09-13 from the user\'s supplied archive and explicit source instructions.', 'Updated 2026-09-16 from the user\'s preserved 1–54 archive, supplemental repository raws, and explicit source instructions.')
+          old_table = '''| Chapters | Working material | Required review mode |
+|---|---|---|
+| 1–54 | User-supplied Korean raws in `source/korean/chapters/001.txt` through `054.txt`, plus recovered English MTL in `source/chapters/` | Compare Korean and MTL passage by passage. Use the wiki references for canonical names, terms, and locations; document conflicting evidence. |
+| 55–493 | Recovered English MTL in `source/chapters/`; the user has no Korean raws for this range | Reconstruct from MTL with contextual, continuity, and wiki-supported QA. Do not make Korean retrieval a prerequisite for starting or completing this review mode. |'''
+          new_table = '''| Chapters | Working material | Required review mode |
+|---|---|---|
+| 1–54 | Preserved user-supplied Korean raws from the original ZIP, plus recovered English MTL | Compare Korean and MTL passage by passage. |
+| 55 | Korean raw unrecoverable; recovered English MTL remains available | MTL-only reconstruction with contextual, continuity, and supporting-reference QA; record the source limitation explicitly. |
+| 56–75 | Supplemental Korean raws plus recovered English MTL | Compare Korean and MTL passage by passage. |
+| 76 | Korean raw unrecoverable; recovered English MTL remains available | MTL-only reconstruction with contextual, continuity, and supporting-reference QA; record the source limitation explicitly. |
+| 77–125 | Supplemental Korean raws plus recovered English MTL | Compare Korean and MTL passage by passage. |
+| 126–493 | Recovered English MTL; no Korean raw currently registered | MTL-only reconstruction with contextual, continuity, and supporting-reference QA unless more Korean evidence is supplied later. |'''
+          if old_table not in text:
+              raise RuntimeError('SOURCES coverage table anchor changed')
+          text = text.replace(old_table, new_table)
+          text = text.replace(
+              'The supplied files are the Korean comparison source for 1–54. Their publisher/edition provenance is not independently established.',
+              'The original ZIP files remain the Korean comparison source for 1–54. Supplemental raws for 56–75 and 77–125 are separately hash-bound in `recovery/korean-supplemental-raws-manifest.json`; Chapters 55 and 76 are explicitly unrecoverable. Their publisher/edition provenance is not independently established.'
+          )
+          text = text.replace(
+              '- Use Korean text, MTL context, and wiki evidence together for 1–54. For 55 onward, use the MTL as the narrative basis and consult both wiki sources where relevant. Do not invent Korean wording or describe an MTL-only chapter as bilingually verified.',
+              '- Use Korean text, MTL context, and wiki evidence together whenever a Korean raw is registered. For Chapters 55 and 76, and chapters beyond the currently supplied Korean range, use the MTL as the narrative basis and consult supporting references where relevant. Do not invent Korean wording or describe an MTL-only chapter as bilingually verified.'
+          )
+          text = text.replace(
+              '- Missing Korean from Chapter 55 onward is a declared source limitation, not itself an unresolved QA issue.',
+              '- Missing Korean for Chapters 55 and 76, and beyond the currently supplied raw range, is a declared source limitation, not itself an unresolved QA issue.'
+          )
+          p.write_text(text, encoding='utf-8')
+
+      - name: Validate recovery and regenerate source tracker
+        run: |
+          python tools/verify_recovery.py
+          python tools/rebuild_editorial_tracking.py
+          python -m unittest discover -s tests -v
+          git diff --check
+
+      - name: Commit inventories and source-policy update
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add editorial/reprocessing
-          git commit -m "editorial: inventory sources through chapter 125"
-          git push origin HEAD:editorial/reprocess-0014-0125
+          git add editorial/reprocessing editorial/WORKFLOW.md editorial/SOURCES.md editorial/chapter-tracker.json editorial/audit-alignment.json recovery/korean-supplemental-raws-manifest.json tools
+          if ! git diff --cached --quiet; then
+            git commit -m "editorial: register Korean coverage through chapter 125"
+            git push origin HEAD:editorial/reprocess-0014-0125
+          fi
