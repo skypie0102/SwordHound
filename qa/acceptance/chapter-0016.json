@@ -1,0 +1,37 @@
+{
+  "chapter": 16,
+  "title": "Solitary (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Solitary",
+    "range": [14, 17],
+    "family_qa_path": "qa/families/solitary-0014-0017.md",
+    "family_qa_sha": "506806e1fa1da7aac61b9d54d202e3e727d14308",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/016.txt",
+    "primary_source_sha": "66d7a6dc326cd1118d5c4c06660429db0812d0f6",
+    "english_reference_path": "source/chapters/chapter-016.xhtml",
+    "english_reference_sha": "a585d0e5d5df242bb52e478550ab651be2d93558",
+    "english_alignment": "verified_by_title_torn_page_origin_lurking_embedded_teeth_seven_pages_retrieval_campaign_hugo_ninth_fang_and_fire_flashforward",
+    "draft_path": "manuscript/drafts/chapter-0016.md",
+    "draft_sha": "a26bedbdddac060808091e7aeef8b090e504f9e9",
+    "qa_path": "qa/chapter-0016.md",
+    "qa_sha": "7d804fb8770669f172787116730242f54d07c214",
+    "provenance_path": "editorial/provenance/chapter-0016.json",
+    "provenance_sha": "9fcef3f48729ad8e41e6b348ebcf63a3d7126702"
+  },
+  "canonical_checks": [
+    "Lurking Embedded Teeth",
+    "Baskerville Fang Sword Style",
+    "Hugo Le Baskerville",
+    "Vikir Van Baskerville"
+  ],
+  "documented_limits": [
+    "Canonical references corroborate identity and English naming only; Chinese controls the seven-page retrieval narrative and losses.",
+    "The fire timing is taken from Chinese and deliberately rejects the recovered English duplicate."
+  ]
+}
