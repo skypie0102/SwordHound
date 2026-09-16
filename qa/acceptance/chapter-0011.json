@@ -1,0 +1,41 @@
+{
+  "chapter": 11,
+  "title": "Hounds of Hell (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Hounds of Hell",
+    "range": [8, 11],
+    "family_qa_path": "qa/families/hounds-of-hell-0008-0011.md",
+    "family_qa_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/011.txt",
+    "primary_source_sha": "db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44",
+    "english_reference_path": "source/chapters/chapter-011.xhtml",
+    "english_reference_sha": "26e15feb304acd8e94d8f902c82a369dc900fb7e",
+    "english_alignment": "verified_by_title_cerberus_window_rank_table_baskerville_forms_trap_and_seven_step_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0011.md",
+    "draft_sha": "15673ea64dfa3d9375c97a3bcd1ff605f3984ade",
+    "qa_path": "qa/chapter-0011.md",
+    "qa_sha": "5f8d12c1c8c9ffeb3116940ce23e393490fcb0ae",
+    "provenance_path": "editorial/provenance/chapter-0011.json",
+    "provenance_sha": "d857a77cfca1a027aba71eeb12091c2514c09ced"
+  },
+  "canonical_checks": [
+    "Cerberus",
+    "Hell’s Watchdog",
+    "Le Rouge et Le Noir Mountain",
+    "Camus Morgue",
+    "Sword Expert / Sword Graduator / Sword Master",
+    "Baskerville Forms",
+    "Bloody Mamba scoped fallback"
+  ],
+  "documented_limits": [
+    "A later Fandom refresh was blocked by robots rules; only earlier retrieved canonical evidence was used.",
+    "Bloody Mamba remains under the previously documented recovered-English fallback limitation rather than being newly claimed as directly Fandom-canonized.",
+    "Chapter 12 events were deliberately not imported before the Chapter 11 endpoint."
+  ]
+}
