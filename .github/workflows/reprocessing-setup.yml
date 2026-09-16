@@ -46,6 +46,7 @@ jobs:
         run: |
           python tools/build_sanitization_candidates.py
           python tools/build_sanitization_shortlist.py
+          python tools/build_staged_sanitization_scan.py
 
       - name: Verify source integrity and tracking
         run: |
