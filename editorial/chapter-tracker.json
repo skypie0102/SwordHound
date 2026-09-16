@@ -1,15 +1,15 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 11,
+  "accepted_count": 13,
   "staged_count": 0,
-  "next_chapter": 12,
+  "next_chapter": 14,
   "active_title_family": {
-    "name": "The Gluttonous Flies",
-    "range": [12, 13],
-    "boundary_status": "verified_from_chinese_headings",
-    "following_family_starts": 14,
-    "following_chinese_title": "独食 (1)"
+    "name": "Solitary",
+    "start": 14,
+    "boundary_status": "pending_full_boundary_verification",
+    "known_first_title": "Solitary (1)",
+    "chinese_title": "独食 (1)"
   },
   "chapters": [
     {
@@ -163,8 +163,37 @@
       "qa": "qa/chapter-0011.md",
       "provenance": "editorial/provenance/chapter-0011.json",
       "acceptance": "qa/acceptance/chapter-0011.json",
-      "acceptance_sha": "1430850ac6559c96234f044c34e4e92d46a61617",
-      "family_qa": "qa/families/hounds-of-hell-0008-0011.md"
+      "acceptance_sha": "1b3e6c4906e5d13005a41bdc864f7bb5329f38d1",
+      "family_qa": "qa/families/hounds-of-hell-0008-0011.md",
+      "acceptance_note": "canonical terminology reopened and rebound on 2026-09-16: Baskerville numbered techniques corrected from Forms to Fangs"
+    },
+    {
+      "chapter": 12,
+      "title": "The Gluttonous Flies (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/012.txt",
+      "english_mtl_reference": "source/chapters/chapter-012.xhtml",
+      "draft": "manuscript/drafts/chapter-0012.md",
+      "qa": "qa/chapter-0012.md",
+      "provenance": "editorial/provenance/chapter-0012.json",
+      "acceptance": "qa/acceptance/chapter-0012.json",
+      "acceptance_sha": "e97c696ccbeb949131b4efbab6865bd634efafbd",
+      "family_qa": "qa/families/gluttonous-flies-0012-0013.md"
+    },
+    {
+      "chapter": 13,
+      "title": "The Gluttonous Flies (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_fandom_canonical",
+      "chinese_source": "source/chinese/chapters/013.txt",
+      "english_mtl_reference": "source/chapters/chapter-013.xhtml",
+      "draft": "manuscript/drafts/chapter-0013.md",
+      "qa": "qa/chapter-0013.md",
+      "provenance": "editorial/provenance/chapter-0013.json",
+      "acceptance": "qa/acceptance/chapter-0013.json",
+      "acceptance_sha": "d648d0abafee5687f8be606ae3f6279b3a7aab88",
+      "family_qa": "qa/families/gluttonous-flies-0012-0013.md"
     }
   ]
 }

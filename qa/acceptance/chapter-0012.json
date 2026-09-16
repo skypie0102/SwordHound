@@ -1,0 +1,38 @@
+{
+  "chapter": 12,
+  "title": "The Gluttonous Flies (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Gluttonous Flies",
+    "range": [12, 13],
+    "family_qa_path": "qa/families/gluttonous-flies-0012-0013.md",
+    "family_qa_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/012.txt",
+    "primary_source_sha": "9cbd4648873cda28a0e9410966d0643dda873968",
+    "english_reference_path": "source/chapters/chapter-012.xhtml",
+    "english_reference_sha": "594ce3566f95cc8983e1298a593967f41ab73c3f",
+    "english_alignment": "verified_by_title_collapsed_cerberus_dungeon_cain_abel_shadow_riddle_ruby_solution_and_relic_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0012.md",
+    "draft_sha": "22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32",
+    "qa_path": "qa/chapter-0012.md",
+    "qa_sha": "689cb3d7d13c0de8386a86c89f5391633e98562a",
+    "provenance_path": "editorial/provenance/chapter-0012.json",
+    "provenance_sha": "016eedb297eab1b67bfcee2e1c27c3f947b6ce6e"
+  },
+  "canonical_checks": [
+    "Cain Baskerville",
+    "Abel Baskerville",
+    "Red Fang Mountain",
+    "Le Rouge et Le Noir Mountain",
+    "Cerberus"
+  ],
+  "documented_limits": [
+    "Fandom evidence is used for canonical English naming only; Chinese controls the note, riddle, one-skeleton detail, and chapter reveal sequence.",
+    "Chapter 13 Beelzebub mechanics are deliberately not imported before the Chapter 12 endpoint."
+  ]
+}

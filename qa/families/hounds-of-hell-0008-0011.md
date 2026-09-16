@@ -23,7 +23,7 @@ Recovered English Chapters 8–11 independently match the same title-part sequen
 | 8 | `d62d365170a0107c5c726c9da1901d996d2d508d` | `1ec6b7bff255d7ea718dcca063e5ded4ee5ba523` | `33ead486847f4fdb3cff95e00778d85dddc69315` | PASS |
 | 9 | `316950c50ba6c3774ffbc779fb319bd1bcff8874` | `d765e36aa4083e8054c7ea179c89730cd347e398` | `e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2` | PASS |
 | 10 | `6be1944dd10561d5246cff6ab830e6f5e39bc736` | `8c2442bf760ee8ca0c3174c5d49556dab379cdac` | `5a340ea07718a4119488d153a9f37a265ba90781` | PASS |
-| 11 | `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44` | `26e15feb304acd8e94d8f902c82a369dc900fb7e` | `15673ea64dfa3d9375c97a3bcd1ff605f3984ade` | PASS |
+| 11 | `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44` | `26e15feb304acd8e94d8f902c82a369dc900fb7e` | `eed36a1afd207edcf761034350426ff39c1fa8db` | PASS |
 
 Boundary witness Chapter 12 Chinese SHA: `9cbd4648873cda28a0e9410966d0643dda873968`.
 
@@ -49,6 +49,8 @@ Chapter 10 ends on the complete **Cerberus** information window and its three-he
 
 Rank terminology remains consistent across the transition: Vikir is **High Sword Expert**, while Chapter 11’s comparison table expands the accepted Sword Expert → Sword Graduator → Sword Master hierarchy without changing his current rank.
 
+Current canonical terminology for the numbered Baskerville techniques is **Fang**, not the earlier fallback `Form`. Chapter 11 therefore uses **1st Fang / 2nd Fang / 3rd Fang / 4th Fang** in accordance with the dedicated Fandom Sword Skills entry. This is a terminology-only correction; source-governed mechanics and continuity are unchanged.
+
 ### Chapter 11 → Chapter 12 — PASS
 
 Chapter 11 ends after Cerberus takes the Bloody Mamba venom and collapses after exactly seven steps. Chinese Chapter 12 opens on the collapsed Cerberus, with saliva/excrement flowing from its bodies, before beginning *The Gluttonous Flies (1)* material.
@@ -67,7 +69,7 @@ PASS for consistency across Chapters 8–11:
 - **Hellhound** — B+, 3 m, 2nd Ridge
 - **Cerberus** — A+, 7 m, 7th Ridge, **Hell’s Watchdog**
 - **Sword Expert / Sword Graduator / Sword Master** with Low/Mid/High substages
-- **Baskerville Forms**
+- **Baskerville Fangs** / **Baskerville Fang Sword Style** for numbered techniques
 - **Camus Morgue**
 - **Bloody Mamba** retained under the previously documented scoped fallback/canonicalization limitation
 
@@ -89,10 +91,10 @@ Nothing is softened merely because it is violent, crude, or unpleasant; nothing 
 
 ## Canonical-reference gate
 
-**PASS within documented evidence.** Applicable Fandom terminology was retrieved during the active-family research pass. A later refresh attempt on 2026-09-16 was blocked by Fandom robots rules, so the family records rely on already-retrieved evidence and do not manufacture a fresh verification.
+**PASS.** Applicable Fandom terminology was retrieved during the active-family research pass. A later indexed current Fandom result additionally established the dedicated **Baskerville Fang Sword Style** terminology and numbered **Fangs**, superseding the earlier project fallback `Forms`. Direct Fandom page refreshes can be intermittently blocked by robots rules, so the evidence record distinguishes indexed current retrieval from direct-page access and does not fabricate a successful direct refresh.
 
 ## Family decision
 
-**PASS. Chapters 8–11 may be accepted together.**
+**PASS. Chapters 8–11 remain accepted together after the Chapter 11 canonical-terminology reopen.**
 
-No semantic, coverage, continuity, terminology, explicitness, information-window, or chapter-boundary blocker remains. The next required work begins by determining the complete contiguous *The Gluttonous Flies* family from Chapter 12 before accepting any chapter in it.
+No semantic, coverage, continuity, terminology, explicitness, information-window, or chapter-boundary blocker remains. The next required work is Chapters 12–13, *The Gluttonous Flies (1)–(2)*.

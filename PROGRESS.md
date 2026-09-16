@@ -1,8 +1,43 @@
 # Reconstruction Progress
 
+## 2026-09-16 — The Gluttonous Flies (1)–(2) accepted under restarted workflow
+
+**Current state:** 13 / 500 accepted; 0 staged; next Chapter 14.
+
+Completed the fourth contiguous title-family batch:
+
+- Chapter 12 — *The Gluttonous Flies (1)*
+- Chapter 13 — *The Gluttonous Flies (2)*
+
+The family boundary was verified from Chinese headings before acceptance: Chapter 14 changes to `独食 (1)`, while recovered English Chapter 14 is *Solitary (1)*. English references 12→12 and 13→13 were independently verified by full content rather than numbering alone.
+
+Major editorial/canonical work in this family:
+
+- canonicalized **Cain Baskerville** and **Abel Baskerville**;
+- corrected Chapter 12 from the recovered English’s **two skeletons** to the Chinese source’s **one skeleton**;
+- rebuilt Cain and Abel’s three-year riddle sequence and its actual **shadow** solution;
+- preserved the source-authentic Chapter 12→13 overlap around the Beelzebub inscription/relic reveal;
+- canonicalized **Beelzebub**, **The Fly of Gluttony**, and **Seven Calamities**;
+- rejected a large recovered-English-only Chapter 13 block about Beelzebub’s estate custody, later theft by demons, battlefield ownership, and explicit hand-fusion mechanics because those paragraphs are absent from Chinese;
+- preserved the Chinese’s abrupt mythology→hunger transition rather than smoothing it with unsupported MTL exposition;
+- rebuilt the two Beelzebub ability windows with canonical skills **Hemorrhage**, **Incinerate**, and **Rapid Regeneration**;
+- preserved Hellhound mummification, Cerberus feeding, unhealing hellfire burns, and severe burning pain without sanitization;
+- normalized Vikir’s Chapter 13 self-assessment to roughly Fourth-Circle mana quantity while practical sword output remains **High Sword Expert**, perhaps nearing **Low Sword Graduator**;
+- canonicalized the numbered Baskerville techniques as **Fangs**, including the 9th/10th-Fang discussion.
+
+Family QA: `qa/families/gluttonous-flies-0012-0013.md` — **PASS**.
+
+### Chapter 11 acceptance reopen
+
+During the Chapter 12–13 canonical pass, stronger current Fandom evidence established **Baskerville Fang Sword Style** and numbered **Fangs**, superseding the earlier project fallback `Forms` used in Chapter 11.
+
+Chapter 11 was reopened for terminology only and rebound through draft, chapter QA, Hounds of Hell family QA, provenance, acceptance, and tracker evidence. Chinese semantics/mechanics were unchanged.
+
+**Next:** Chapter 14 begins *Solitary (1)*. Determine the complete contiguous Solitary-family boundary before accepting any chapter, then continue reconstruction without stopping at the 12–13 merge.
+
 ## 2026-09-16 — Hounds of Hell (1)–(4) accepted under restarted workflow
 
-**Current state:** 11 / 500 accepted; 0 staged; next Chapter 12.
+**Checkpoint at that time:** 11 / 500 accepted; next Chapter 12.
 
 Completed the third contiguous title-family batch:
 
@@ -24,20 +59,12 @@ Major editorial/canonical work in this family:
 - restored Vikir as **High Sword Expert** and the source comparison that most Baskerville children reach that level only after the coming-of-age ceremony;
 - rebuilt the **Cerberus** information window as A+, 7 m, 7th Ridge, **Hell’s Watchdog**, and the **pinnacle of underworld-type monsters**;
 - normalized the Sword Expert / Sword Graduator / Sword Master ↔ mage-circle equivalence table;
-- standardized **Baskerville 1st / 2nd / 3rd Form**, with first-life mastery through the 4th Form;
+- initially used the project fallback `Forms` for Baskerville numbered techniques; this was later corrected to canonical **Fangs** during the Chapter 12–13 pass and all Chapter 11 acceptance evidence was rebound;
 - preserved Vikir’s broken ribs, shattered shortsword, **Cradle of Needles**, Bloody-Bean stake poisoning, explicit monster waste, and the final **seven-step Bloody Mamba** collapse without sanitization.
 
-Family QA: `qa/families/hounds-of-hell-0008-0011.md` — **PASS**.
+Family QA: `qa/families/hounds-of-hell-0008-0011.md` — **PASS** (later refreshed for Fang terminology).
 
-A Fandom refresh attempt during this batch was blocked by robots rules. QA/provenance therefore rely only on canonical evidence already retrieved earlier in the active-family research pass; no unsupported fresh claim was invented.
-
-The next family is already bounded:
-
-- **Chapters 12–13 — The Gluttonous Flies (1)–(2)**
-- Chapter 14 changes to `独食 (1)`.
-- Recovered English Chapters 12 and 13 carry matching *The Gluttonous Flies (1)–(2)* titles; full content alignment still requires the normal next-batch review.
-
-Per the continuous-processing rule, work proceeds directly into Chapters 12–13 after the 8–11 merge.
+A Fandom refresh attempt during this batch was blocked by robots rules. Later current indexed Fandom results supplied the stronger Fang terminology evidence; records distinguish indexed evidence from direct-page access.
 
 ## 2026-09-16 — The Baskerville Dog (1)–(4) accepted under restarted workflow
 
@@ -64,8 +91,6 @@ Major editorial/canonical work in this family:
 - kept the child-rearing castle descriptively named rather than falsely claiming the MTL label **Fang Castle** is Fandom-verified.
 
 Family QA: `qa/families/baskerville-dog-0004-0007.md` — **PASS**.
-
-Each chapter has fresh Chinese-first draft, chapter QA, provenance, and hash-bound acceptance evidence.
 
 ## 2026-09-16 — Hellhound (1)–(3) accepted under restarted workflow
 
@@ -94,7 +119,7 @@ Current canonical-reference checks established/scoped:
 
 Important corrections include restoration of Chapter 1’s execution placard and “live again” wish, source-faithful Hugo dialogue, Chapter 2’s rabbit/hound proverb and full Styx mechanics, and Chapter 3’s nursing favoritism, explicit snake-death details, and removal of MTL-only Le Rogue/Fang Castle assertions not supported by the Chinese/current Fandom evidence.
 
-Family QA: `qa/families/hellhound-0001-0003.md` — PASS.
+Family QA: `qa/families/hellhound-0001-0003.md` — **PASS**.
 
 ## 2026-09-16 — Full restart from Chapter 1 with mandatory handoff
 

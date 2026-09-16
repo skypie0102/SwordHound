@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/011.txt` — `db1c2c6ec0304cf4e19390cf88de0f5d4a8a9b44`
 - Aligned English reference: `source/chapters/chapter-011.xhtml` — `26e15feb304acd8e94d8f902c82a369dc900fb7e`
-- Reviewed draft: `manuscript/drafts/chapter-0011.md` — `15673ea64dfa3d9375c97a3bcd1ff605f3984ade`
+- Reviewed draft: `manuscript/drafts/chapter-0011.md` — `eed36a1afd207edcf761034350426ff39c1fa8db`
 - Following-boundary witness: `source/chinese/chapters/012.txt` — `9cbd4648873cda28a0e9410966d0643dda873968`
 
 ## Alignment
@@ -18,7 +18,7 @@ Target Chapter 11 → recovered English Chapter 11 is **verified** by matching:
 - repeated Cerberus window opening;
 - future-war Cerberus retrospective and Camus Morgue intervention;
 - Sword Expert / Sword Graduator / Sword Master equivalence table;
-- Baskerville 1st–3rd Forms and first-life 4th Form reference;
+- Baskerville 1st–3rd Fangs and first-life 4th Fang reference;
 - wounded Cerberus battle;
 - retreat into the prepared pit;
 - Bloody Bean stakes and Bloody Mamba fang payoff;
@@ -26,10 +26,10 @@ Target Chapter 11 → recovered English Chapter 11 is **verified** by matching:
 
 ## QA checks
 
-- **Semantic fidelity:** PASS. Future-war memory, present-rank disclosure, Cerberus injuries, Forms, broken ribs/sword, retreat, trap, poison delivery, and exact seven-step collapse follow Chinese.
+- **Semantic fidelity:** PASS. Future-war memory, present-rank disclosure, Cerberus injuries, numbered Fangs, broken ribs/sword, retreat, trap, poison delivery, and exact seven-step collapse follow Chinese.
 - **Coverage:** PASS. No material fight phase or information-window line is omitted.
-- **No invention:** PASS. Later wiki knowledge is not imported into the current timeline beyond canonical English naming for entities already revealed by the source.
-- **Canonical terminology:** PASS within current evidence. Uses **Cerberus**, **Hell’s Watchdog**, **Le Rouge et Le Noir Mountain**, **Camus Morgue**, accepted sword ranks, and **Baskerville Forms**.
+- **No invention:** PASS. Later wiki knowledge is not imported into the current timeline beyond canonical English naming for entities/techniques already revealed by the source.
+- **Canonical terminology:** PASS. Uses **Cerberus**, **Hell’s Watchdog**, **Le Rouge et Le Noir Mountain**, **Camus Morgue**, accepted sword ranks, and canonical **Baskerville Fangs**.
 - **Explicitness/tone:** PASS. Broken ribs, burning excrement, poisoning, and lethal trap effects remain explicit without embellishment.
 - **Natural English:** PASS.
 - **Information-window integrity:** PASS. Cerberus and sword/mage equivalence remain atomic blocks.
@@ -47,8 +47,8 @@ Target Chapter 11 → recovered English Chapter 11 is **verified** by matching:
    - Mid Sword Graduator = 5th Circle mage
    - High Sword Graduator = 6th Circle mage
    - Sword Master = 7th Circle mage
-4. Uses **Baskerville 1st / 2nd / 3rd Form** rather than the MTL’s unstable `Type` / `formula` wording.
-5. Preserves that first-life Vikir had mastered through the 4th Form and reached High Sword Graduator.
+4. Uses canonical **Baskerville 1st / 2nd / 3rd Fang** rather than the MTL’s unstable `Type` / `formula` wording or the earlier project fallback `Form`. Current Fandom’s dedicated sword-skills entry explicitly names the system **Baskerville Fang Sword Style** and its numbered techniques **1st Fang, 2nd Fang, 3rd Fang, 4th Fang**.
+5. Preserves that first-life Vikir had mastered through the **4th Fang** and reached High Sword Graduator.
 6. Preserves the tactical connection between Cerberus’s three-headed attack pattern and the triplets’ Trident style.
 7. Preserves Cerberus’s pre-existing broken ribs and arrow wound, which explain why child Vikir can contest it at all.
 8. Preserves the source result of Cerberus’s claw strike: Vikir survives because of the River Styx, but several ribs break and a second such blow would be dangerous.
@@ -60,8 +60,10 @@ Target Chapter 11 → recovered English Chapter 11 is **verified** by matching:
 
 ## Canonical-reference note
 
-Earlier active-family Fandom retrieval established the English forms for Cerberus, Hell’s Watchdog, Le Rouge et Le Noir Mountain, Camus Morgue, and related early-family entities. A refresh attempt on 2026-09-16 was blocked by Fandom robots rules; provenance will record that limitation rather than claiming a new successful retrieval.
+The Chapter 11 terminology layer was reopened on 2026-09-16 after a current indexed Fandom result exposed stronger dedicated sword-style evidence than the earlier fallback terminology. The dedicated **Sword Skills** page names the style **Baskerville Fang Sword Style** and the numbered techniques **1st Fang / 2nd Fang / 3rd Fang / 4th Fang**. This correction changes English canonical terminology only; it does not alter Chinese-governed plot, action sequence, or technique mechanics.
+
+Earlier active-family Fandom retrieval also established the English forms for Cerberus, Hell’s Watchdog, Le Rouge et Le Noir Mountain, Camus Morgue, and related early-family entities. Direct page refreshes may still be intermittently blocked by Fandom robots rules; indexed current results are therefore recorded explicitly rather than claiming a direct page refresh succeeded.
 
 ## Decision
 
-**PASS at chapter level.** No semantic, coverage, terminology, explicitness, info-window, or boundary blocker remains. Final acceptance requires family QA.
+**PASS at chapter level after terminology reopen.** No semantic, coverage, terminology, explicitness, info-window, or boundary blocker remains. Final acceptance remains bound to family QA.

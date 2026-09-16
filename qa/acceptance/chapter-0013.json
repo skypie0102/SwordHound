@@ -1,0 +1,42 @@
+{
+  "chapter": 13,
+  "title": "The Gluttonous Flies (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Gluttonous Flies",
+    "range": [12, 13],
+    "family_qa_path": "qa/families/gluttonous-flies-0012-0013.md",
+    "family_qa_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/013.txt",
+    "primary_source_sha": "9187c6e887445ee9cd416f323939e7165f0ada4b",
+    "english_reference_path": "source/chapters/chapter-013.xhtml",
+    "english_reference_sha": "63a478d5df24e966953d739028801391a3d09727",
+    "english_alignment": "verified_by_title_beelzebub_reveal_hunger_feeding_slot_windows_rank_progression_and_10th_fang_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0013.md",
+    "draft_sha": "4292e992c25fd210f742648cac71de9f7b500e5a",
+    "qa_path": "qa/chapter-0013.md",
+    "qa_sha": "6ae592ec4b11fde9173ba8810d2ff6ec0746ed54",
+    "provenance_path": "editorial/provenance/chapter-0013.json",
+    "provenance_sha": "c615e13f935ba10ba6b088027049f7e1dfac1dd8"
+  },
+  "canonical_checks": [
+    "Beelzebub",
+    "The Fly of Gluttony",
+    "Seven Calamities",
+    "Hemorrhage — Hellhound (B+)",
+    "Incinerate — Cerberus (A+)",
+    "Rapid Regeneration — Brown Rat Norvegicus (F)",
+    "Baskerville Fang Sword Style / numbered Fangs",
+    "Sword Expert / Sword Graduator"
+  ],
+  "documented_limits": [
+    "Recovered-English paragraphs about Beelzebub custody, theft, battlefield history, and explicit hand fusion are excluded because they are absent from Chinese Chapter 13.",
+    "Current canonical evidence comes from indexed Fandom results where direct page access is blocked; no failed direct refresh is represented as successful.",
+    "Chapter 14 practical-exam result/report material is not imported into Chapter 13."
+  ]
+}

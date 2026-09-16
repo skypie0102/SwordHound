@@ -1,0 +1,106 @@
+{
+  "chapter": 12,
+  "title": "The Gluttonous Flies (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Gluttonous Flies",
+    "range": [12, 13],
+    "boundary_status": "verified_from_chinese_headings_and_chapter_14_title_change",
+    "family_qa": {
+      "path": "qa/families/gluttonous-flies-0012-0013.md",
+      "blob_sha": "f61b2f219cb2c6c9a2835df7cd62aeb0cd7630b4",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/012.txt",
+    "blob_sha": "9cbd4648873cda28a0e9410966d0643dda873968",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-012.xhtml",
+    "blob_sha": "594ce3566f95cc8983e1298a593967f41ab73c3f",
+    "target_alignment": 12,
+    "alignment_status": "verified_by_title_collapsed_cerberus_dungeon_cain_abel_shadow_riddle_ruby_solution_and_relic_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Cain Baskerville",
+      "access_mode": "indexed_current_result",
+      "applies_to": ["Cain Baskerville", "Abel Baskerville twin relationship", "ancient dungeon context"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Abel Baskerville",
+      "access_mode": "indexed_current_result",
+      "applies_to": ["Abel Baskerville", "younger twin", "killed by Cain after riddle misunderstanding"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Dungeon",
+      "access_mode": "indexed_current_result",
+      "applies_to": ["Red Fang Mountain", "Le Rouge et Le Noir Mountain connection", "Beelzebub dungeon identity"]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0012.md",
+    "blob_sha": "22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32"
+  },
+  "qa": {
+    "path": "qa/chapter-0012.md",
+    "blob_sha": "689cb3d7d13c0de8386a86c89f5391633e98562a",
+    "status": "pass"
+  },
+  "boundary_witnesses": [
+    {
+      "path": "manuscript/drafts/chapter-0011.md",
+      "blob_sha": "eed36a1afd207edcf761034350426ff39c1fa8db",
+      "role": "previous accepted chapter ends with Cerberus collapsed after seven steps"
+    },
+    {
+      "path": "source/chinese/chapters/013.txt",
+      "blob_sha": "9187c6e887445ee9cd416f323939e7165f0ada4b",
+      "role": "following chapter repeats/completes the Beelzebub inscription"
+    }
+  ],
+  "documented_decisions": [
+    {
+      "topic": "skeleton count",
+      "final": "one skeleton in the chamber",
+      "basis": "Chinese source explicitly presents one skeleton; recovered English incorrectly says two"
+    },
+    {
+      "topic": "Cain/Abel identity",
+      "final": "Cain is the surviving note writer; Abel is the dead younger twin/skeleton",
+      "basis": "Chinese note sequence plus canonical Fandom names"
+    },
+    {
+      "topic": "riddle solution",
+      "final": "shadow produced by ruby light and reunited with body in darkness",
+      "basis": "Chinese source; fratricide is Cain/Abel's mistaken interpretation, not the real answer"
+    },
+    {
+      "topic": "location",
+      "final": "dungeon connected toward Red Fang Mountain, a branch of Le Rouge et Le Noir Mountain",
+      "basis": "Chinese source identity plus canonical English location evidence"
+    },
+    {
+      "topic": "chapter endpoint",
+      "final": "stop at relic-name shock/recognition without importing Chapter 13 mechanics",
+      "basis": "Chinese 12→13 overlap"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "restored explicit Cerberus saliva/feces opening",
+    "restored post-kill karma/experience absorption",
+    "corrected two skeletons to one",
+    "canonicalized Gain to Cain Baskerville and Abel Baskerville",
+    "rebuilt the shadow riddle solution",
+    "replaced corrupted Le Rogue location wording with Red Fang Mountain / Le Rouge et Le Noir Mountain",
+    "preserved source-authentic 12→13 relic overlap"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}
