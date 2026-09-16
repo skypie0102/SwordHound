@@ -1,41 +1,28 @@
 # Revenge of the Iron-Blooded Sword Hound
 
-Recovered source and reference material for the English EPUB project after loss of access to `shadowmonarchbooks-cloud/SwordHound`.
+Recovered source, reference, and reconstruction material for the English EPUB project.
 
-**Reconstruction has started.** [Progress and next steps](PROGRESS.md) · [Chapter 1 draft](manuscript/drafts/chapter-0001.md) · [Chapter 1 QA](qa/chapter-0001.md) · [493-chapter tracker](editorial/chapter-tracker.json)
+## Current source policy
 
-**Chapter 1 is editorially accepted**, with all nine QA items resolved, complete source comparison, and desktop/mobile layout review. The full EPUB release remains pending. The lost production chapters and original QA reports remain unrecovered. See [the final review](editorial/reviews/chapter-0001-final.md), [acceptance evidence](qa/acceptance/chapter-0001.json), and [chapter preview](preview/chapter-0001.html).
+As of **2026-09-16**, the project has restarted from **Chapter 1** with the user-supplied Chinese raws as the primary source of truth. The previously used Korean raws were themselves translated from the Chinese material and are no longer part of the active repository or workflow.
 
-**Sources are now configured:** Korean raws plus MTL for Chapters **1–54**; MTL with supporting-reference QA for **55–493**. [Source policy and wiki links](editorial/SOURCES.md) · [Agent instructions](AGENTS.md). Agents may seek additional web support when needed.
+- `source/chinese/chapters/` — primary text source for the 500-chapter target edition.
+- `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus. It is a secondary reference, and the sole text source only when a Chinese raw is unavailable.
+- `source/chinese/chapter-exceptions.tsv` — missing/combined raw exceptions and any verified English-MTL alignment.
+- `editorial/SOURCES.md` and `editorial/WORKFLOW.md` — authoritative source and editorial procedures.
+- `editorial/chapter-tracker.json` — reset 500-chapter tracker.
+- `PROJECT_STATE.md` / `PROGRESS.md` — current checkpoint.
 
-**Current checkpoint: Chapters 1–13 editorially accepted; Chapters 14–17 (*Solitary*) are the next title-family batch.** Accepted reconstructions include explicit source decisions and desktop/mobile layout review. [Gluttonous Flies family review](editorial/reviews/batch-the-gluttonous-flies-0012-0013.md) · [Chapter 13](manuscript/drafts/chapter-0013.md) · [Latest QA and evidence](qa/chapter-0013.md). The remaining 480 chapters await reconstruction.
+The Chinese corpus contains **492 physical files covering 499 of 500 target chapters**. Chapter **55** is the only confirmed missing Chinese raw and therefore uses the English MTL as its source. Seven physical files contain two target chapters each; they are intentionally retained intact because the raw files do not expose a reliable second-chapter boundary on their own. The English output must nevertheless remain one translated chapter per target chapter.
 
-## Repository contents
+## Critical numbering rule
 
-- `source/chapters/` — all 493 chapter XHTML files from the September source corpus, unchanged.
-- `source/korean/chapters/` — all 54 user-supplied Korean text files, unchanged; original ZIP in `archives/korean-raws-001-054.zip`, checksum/coverage manifest in `recovery/korean-raws-manifest.json`.
-- `source/chapter-sha256.tsv` and `source/chapter-index.tsv` — original checksums and index.
-- `archives/source-corpus.tar.xz` — the original downloaded source archive.
-- `artifacts/SwordHound-Local-2026-07-29.epub` — complete local reference EPUB, unchanged.
-- `epub/local-2026-07-29/` — all 524 extracted EPUB files, including cover, styles, navigation, and front matter.
-- `editorial/Editorial-Audit.md` — original historical audit of a separate 500-chapter edition; 2,151 findings/candidates.
-- `PROJECT_STATE.md` and `recovery/` — recovered production context, provenance, checksums, and limitations.
-- `manuscript/drafts/`, `qa/`, and `editorial/provenance/` — new reconstruction drafts, open review issues, and paragraph-level edit evidence.
-- `editorial/audit-alignment.json` — all 2,151 old findings mapped conservatively against the recovered corpus; no automatic application.
-- `editorial/WORKFLOW.md` and `editorial/GLOSSARY.md` — reconstruction procedure and terminology register with evidence status.
+Do **not** assume that Chinese target chapter `N` maps to English MTL chapter `N`. The numbering diverges later in the novel. Align English references by title and content before using them. Chapter 55 is explicitly verified as MTL Chapter 55; additional verified exceptions are recorded in `source/chinese/chapter-exceptions.tsv`.
 
-## Formatting decisions preserved
+## Editorial quality bar
 
-Prior project decisions include dialogue indentation, no narrative indentation, 1.65 line height, single-quote handling, styled information windows, `◆◆◆` scene breaks, Highbro/Middlebro/Lowbro, and separate side stories. See `editorial/Recovered-Editorial-Decisions.md`. These requirements are not a claim that every recovered version implements them.
+Every chapter is edited and QA'd individually for semantic fidelity to the Chinese primary source, omissions/additions, names and terminology, title-family continuity, grammar and natural English, paragraph/scene integrity, and project formatting. MTL-only fallback chapters receive the same full editorial pass plus explicit uncertainty review.
 
-## Recovery note
+Formatting decisions preserved from the prior project include dialogue indentation, no narrative indentation, 1.65 line height, single-quote handling, styled information windows, `◆◆◆` scene breaks, Highbro/Middlebro/Lowbro, and separate side stories. See `editorial/Recovered-Editorial-Decisions.md`.
 
-The former repository was reported complete through Chapter 372, with 373–374 validated on an unmerged branch and Chapter 375 next. **Those edited production files and their original Git history have not been recovered.** Do not mistake the source XHTML for that finished translation/QA work. See [the recovery checkpoint](PROJECT_STATE.md) and [recovery report](recovery/RECOVERY_REPORT.md).
-
-## Working with the source
-
-Run `python tools/verify_recovery.py` with Python 3 to verify source hashes, archive contents, EPUB snapshot hashes, XML parsing, and EPUB manifest/spine references. This does not certify translation quality or replace EPUBCheck.
-
-Keep archived originals unchanged. The September chapter corpus is not a complete EPUB package; the July snapshot is a separate complete reference package. Do not combine them silently or assume the older audit has been applied.
-
-For draft generation, tracker updates, and editorial integrity checks, follow [the reconstruction workflow](editorial/WORKFLOW.md). Keep [the progress log](PROGRESS.md) current in each batch commit.
+Historical reconstruction work based on the superseded source policy remains available in Git history but is not accepted production state.

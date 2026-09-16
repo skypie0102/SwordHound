@@ -1,46 +1,49 @@
-# Recovery and reconstruction checkpoint — 2026-09-14
+# Project State
 
-Recovery has preserved the available source corpus, local EPUB, historical audit, and production context. Reconstruction has begun. Distinguish recovered source bytes from the former repository's edited production state.
+**Checkpoint:** 2026-09-16  
+**Target edition:** 500 chapters  
+**Accepted:** 0  
+**Staged:** 0  
+**Next chapter:** 1
 
-## Current reconstruction checkpoint
+## Source-policy reset
 
-- **Current source policy:** Korean plus MTL for Chapters 1–54; MTL with supporting-reference QA for 55–493. The user supplied all 54 Korean files and designated Fandom and Namu Wiki for terminology/context checks; further web research is allowed. See [SOURCES.md](editorial/SOURCES.md).
+The reconstruction has been reset to Chapter 1 because the newly supplied Chinese raws are a better source than the previously used Korean raw set. The Korean files were translations from the Chinese material, so they have been removed from the active repository and workflow.
 
-- All 493 chapters have a [new tracker](editorial/chapter-tracker.json); original edited and QA files remain marked not recovered.
-- All 2,151 historical audit findings are indexed: 266 have a unique text-and-title match, 40 are ambiguous, and 1,845 are unmatched. Matching does not approve a suggested change.
-- Chapter 1 is **editorially accepted**: 106 paragraphs retained, 91 edited, all 116 Korean lines accounted for, and all nine QA items resolved. The [acceptance record](qa/acceptance/chapter-0001.json) binds the exact reviewed text and evidence.
-- Final source decisions, explicit age harmonization and source limitations are documented in the [final review](editorial/reviews/chapter-0001-final.md). Desktop/mobile chapter layout was checked and visually inspected. Whole-EPUB packaging and release QA remain pending.
-- Chapter 2 is **editorially accepted**: 143 paragraphs retained, 140 edited, all 149 Korean lines accounted for, and all five QA items resolved. See its [final review](editorial/reviews/chapter-0002-final.md) and [acceptance record](qa/acceptance/chapter-0002.json).
-- Chapters 3–4 are **editorially accepted**: 258 paragraphs retained, 248 edited, 255 Korean lines accounted for and nine QA items resolved. Their source decisions, final reviews and acceptance evidence are linked from [Chapter 3 QA](qa/chapter-0003.md) and [Chapter 4 QA](qa/chapter-0004.md).
-- Chapter 5 is **editorially accepted**: 183 paragraphs retained, 179 edited, all 188 Korean physical lines accounted for and all six QA items resolved. See [Chapter 5 QA](qa/chapter-0005.md) and its [acceptance record](qa/acceptance/chapter-0005.json).
-- Chapter 6 is **editorially accepted**: 124 paragraphs retained, 118 edited, all 124 Korean physical lines accounted for and all six QA items resolved. See [Chapter 6 QA](qa/chapter-0006.md) and its [acceptance record](qa/acceptance/chapter-0006.json).
-- Chapter 7 is **editorially accepted**: 146 paragraph slots retained, 135 edited, all 151 Korean physical lines accounted for and all six QA items resolved. See [Chapter 7 QA](qa/chapter-0007.md) and its [acceptance record](qa/acceptance/chapter-0007.json).
-- Chapters 8–11, **Hounds of Hell (1–4)**, are **editorially accepted** as one title-family batch: 626 recovered MTL paragraph slots remain provenance-accounted, 610 are edited or structurally adjudicated, and all supplied Korean physical lines are explicitly aligned. Structured monster/rank windows, source-only spacer suppression, kidney/Cerberus mistranslations, the Cradle of Needles and Bloody Mamba payoff are documented in the [family review](editorial/reviews/batch-hounds-of-hell-0008-0011.md). See [Chapter 11 QA](qa/chapter-0011.md) and its [acceptance record](qa/acceptance/chapter-0011.json).
-- Chapters 12–13, **The Gluttonous Flies (1–2)**, are **editorially accepted** as one title-family batch: 316 recovered MTL paragraph slots remain provenance-accounted and 311 are edited or structurally adjudicated. All 291 supplied Korean physical lines are accounted for; Chapter 13 additionally declares 21 recovered MTL-only slots absent from the Korean witness rather than falsely aligning them. The shadow riddle, Cain/Abel correction, Beelzebub mechanics/windows and Tenth Form lead are documented in the [family review](editorial/reviews/batch-the-gluttonous-flies-0012-0013.md). See [Chapter 13 QA](qa/chapter-0013.md) and its [acceptance record](qa/acceptance/chapter-0013.json).
-- **Current total: 13 accepted reconstructions; Chapters 14–493 remain.** The next contiguous title-family batch is Chapters 14–17, *Solitary*. No recovered or newly reconstructed chapter is certified as the former finished production version.
-- Read [PROGRESS.md](PROGRESS.md) for work completed, validation, and next actions; use [the workflow](editorial/WORKFLOW.md) for future batches.
+The prior Chapter 1–13 accepted state and Chapter 14–17 staging state are superseded. Their history remains recoverable through Git, but none of those artifacts count as accepted under the new policy.
 
-## Verified recovery
+## Active source baseline
 
-- User-supplied Korean archive `001-054.zip`: all 54 files preserved unchanged, numbered headings checked, archive and member checksums verified. This establishes source availability and byte integrity, not editorial acceptance.
+Chinese is the primary source for the 500-chapter target edition.
 
-- Original September source corpus: Chapters 001–493, all embedded SHA-256 checksums verified.
-- Local July 29 EPUB snapshot: 493 chapters plus cover, CSS, navigation, and front matter, preserved unchanged and extracted under `epub/local-2026-07-29/`.
-- Original editorial audit: 2,151 findings concerning a separate, older 500-chapter corrected EPUB. These findings are historical suggestions, not completed edits or a QA pass for the recovered 493-chapter corpus.
-- Prior production status reports, including commit identifiers and continuity notes, preserved in `recovery/prior-production-records.json`.
+- Physical Chinese files: **492**
+- Target chapters covered by Chinese: **499 / 500**
+- Confirmed missing Chinese chapter: **55**
+- Combined two-chapter source containers: **7**
+- Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source only except Chapter 55
 
-## Last reported production checkpoint (historical; edited files not recovered)
+Combined containers:
 
-The latest report in **Continue Chapter 54** says `shadowmonarchbooks-cloud/SwordHound` had merged PR #57 and completed translation and QA through Chapter 372. Chapters 373–374, *Poseidon*, were reported complete and validated on `production/chapters-0373-plus`, but PR creation/merge was blocked by account suspension. Chapter 375, *The Hounds of Nouvelle Vague (1)*, was next.
+| Raw file | Target chapters |
+| --- | --- |
+| `075.txt` | 75–76 |
+| `267.txt` | 267–268 |
+| `284.txt` | 284–285 |
+| `351.txt` | 351–352 |
+| `353.txt` | 353–354 |
+| `385.txt` | 385–386 |
+| `495.txt` | 495–496 |
 
-Do not label the recovered MTL XHTML as those finished translations. The old `chapter-XXXX.md` production files, per-chapter QA, continuity YAML, glossaries, source mappings, and validator workflows have not yet been recovered as original files. Do not resume at Chapter 54: that earlier status was explicitly corrected in the conversation.
+The combined raws were audited for explicit second-chapter markers. None exposes a sufficiently reliable second heading/boundary to justify destructive splitting from the raw alone, so they remain intact. Translation outputs must still be split into individual target chapters.
 
-## Continuity leads from the last reports
+## Missing Chapter 55
 
-- Kirko: Ensign through Chapter 372; Lieutenant promotion pending. This supersedes an earlier report calling her Lieutenant in 367–368.
-- Flauros = Second Corpse; Andrealphus = Third; Cimeries = Fourth.
-- The 373–374 report describes roughly two years in Nouvelle Vague, the Rainy Season of Fear lasting 150 days/five months, and 98% mortality among living humanity.
-- Poseidon: approximately five-meter blue egg-like sphere with underground aura roots; disturbing roots causes explosions, while impacts to the central body feed its growth/brightness.
-- Treat these as recovered context to compare against source, not a substitute for the lost edited chapter files.
+`055.txt` is genuinely absent between the Chinese Chapter 54 and Chapter 56 files. The recovered English MTL Chapter 55 is the verified fallback source. Chapter 55 must receive the same full editing and QA as every other chapter, with additional uncertainty and neighboring-continuity review because no Chinese raw is available.
 
-See `recovery/RECOVERY_REPORT.md` for provenance, limitations, and remaining recovery leads.
+## Numbering warning
+
+The Chinese target numbering and 493-chapter English MTL numbering diverge later. Same-number lookup is prohibited unless verified. Known examples are documented in `source/chinese/chapter-exceptions.tsv`; future mappings must be established by title/content alignment.
+
+## Next work
+
+Restart at Chapter 1 under `editorial/WORKFLOW.md`. No chapter is accepted until it has been rebuilt and QA'd against the Chinese-first policy.

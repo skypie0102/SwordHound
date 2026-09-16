@@ -1,93 +1,25 @@
 {
-  "1": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0001.md",
-    "qa_report": "qa/chapter-0001.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0001.json"
+  "checkpoint_date": "2026-09-16",
+  "source_policy": "chinese_primary",
+  "target_chapters": 500,
+  "accepted_chapters": 0,
+  "staged_chapters": 0,
+  "next_chapter": 1,
+  "chinese_raw_physical_files": 492,
+  "chinese_raw_target_coverage": 499,
+  "missing_chinese_raw_chapters": [55],
+  "combined_raw_containers": {
+    "075.txt": [75, 76],
+    "267.txt": [267, 268],
+    "284.txt": [284, 285],
+    "351.txt": [351, 352],
+    "353.txt": [353, 354],
+    "385.txt": [385, 386],
+    "495.txt": [495, 496]
   },
-  "2": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0002.md",
-    "qa_report": "qa/chapter-0002.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0002.json"
-  },
-  "3": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0003.md",
-    "qa_report": "qa/chapter-0003.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0003.json"
-  },
-  "4": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0004.md",
-    "qa_report": "qa/chapter-0004.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0004.json"
-  },
-  "5": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0005.md",
-    "qa_report": "qa/chapter-0005.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0005.json"
-  },
-  "6": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0006.md",
-    "qa_report": "qa/chapter-0006.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0006.json"
-  },
-  "7": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0007.md",
-    "qa_report": "qa/chapter-0007.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0007.json"
-  },
-  "8": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0008.md",
-    "qa_report": "qa/chapter-0008.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0008.json"
-  },
-  "9": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0009.md",
-    "qa_report": "qa/chapter-0009.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0009.json"
-  },
-  "10": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0010.md",
-    "qa_report": "qa/chapter-0010.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0010.json"
-  },
-  "11": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0011.md",
-    "qa_report": "qa/chapter-0011.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0011.json"
-  },
-  "12": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0012.md",
-    "qa_report": "qa/chapter-0012.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0012.json"
-  },
-  "13": {
-    "status": "qa_accepted",
-    "draft": "manuscript/drafts/chapter-0013.md",
-    "qa_report": "qa/chapter-0013.md",
-    "open_issues": [],
-    "acceptance_evidence": "qa/acceptance/chapter-0013.json"
-  }
+  "notes": [
+    "Prior Korean-assisted draft, QA, acceptance, provenance, staging, and alignment artifacts are superseded by this reset.",
+    "Combined Chinese files remain intact because no defensible second-chapter heading/boundary was found in the raw alone; translated outputs must still be split per target chapter.",
+    "English MTL numbering diverges from Chinese target numbering later; do not assume same-number alignment except where explicitly verified."
+  ]
 }

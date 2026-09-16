@@ -1,70 +1,30 @@
-"""Verify recovered files against their preserved evidence; no dependencies."""
+#!/usr/bin/env python3
+"""Verify the active Chinese-first source baseline; not translation-quality certification."""
 from pathlib import Path
 import csv
-import hashlib
-import json
-import tarfile
-import xml.etree.ElementTree as ET
-import zipfile
-from import_korean_raws import check_korean_raws
-
-ROOT = Path(__file__).resolve().parents[1]
-
-
-def require(condition, message):
-    if not condition:
-        raise ValueError(message)
-
-
-def sha(data):
-    return hashlib.sha256(data).hexdigest()
-
-
+ROOT=Path(__file__).resolve().parents[1]; CHINESE=ROOT/"source/chinese/chapters"; EX=ROOT/"source/chinese/chapter-exceptions.tsv"; EN=ROOT/"source/chapters"
+COMBINED={75:"075.txt",76:"075.txt",267:"267.txt",268:"267.txt",284:"284.txt",285:"284.txt",351:"351.txt",352:"351.txt",353:"353.txt",354:"353.txt",385:"385.txt",386:"385.txt",495:"495.txt",496:"495.txt"}
+def fail(m): raise SystemExit("ERROR: "+m)
 def main():
-    check_korean_raws(ROOT)
-    for item in json.loads((ROOT / 'recovery/artifact-checksums.json').read_text(encoding='utf-8')):
-        data = (ROOT / item['path']).read_bytes()
-        require(len(data) == item['bytes'] and sha(data) == item['sha256'], 'Artifact checksum mismatch: '+item['path'])
-    manifest = json.loads((ROOT / 'recovery/source-corpus-manifest.json').read_text(encoding='utf-8'))
-    archive = ROOT / manifest['archive']
-    require(sha(archive.read_bytes()) == manifest['sha256'], 'Source archive checksum mismatch')
-    with (ROOT / 'source/chapter-sha256.tsv').open(encoding='utf-8', newline='') as stream:
-        rows = list(csv.DictReader(stream, delimiter='\t'))
-    require(sorted(int(r['chapter']) for r in rows) == list(range(1, 494)), 'Chapter coverage mismatch')
-    require(len(list((ROOT / 'source/chapters').glob('*.xhtml'))) == 493, 'Unexpected chapter count')
-    with tarfile.open(archive) as tf:
-        for member in tf.getmembers():
-            if member.isfile():
-                target = ROOT / 'source' / member.name
-                require(target.read_bytes() == tf.extractfile(member).read(), f'Archive mismatch: {member.name}')
-    for row in rows:
-        data = (ROOT / 'source/chapters' / row['repo_file']).read_bytes()
-        require(len(data) == int(row['bytes']) and sha(data) == row['sha256'], f'Chapter checksum mismatch: {row["chapter"]}')
-        ET.fromstring(data)
-    local = json.loads((ROOT / 'recovery/local-epub-manifest.json').read_text(encoding='utf-8'))
-    epub = ROOT / local['artifact']
-    require(sha(epub.read_bytes()) == local['artifact_sha256'], 'Local EPUB checksum mismatch')
-    with zipfile.ZipFile(epub) as z:
-        require(z.testzip() is None, 'EPUB ZIP integrity failure')
-        require(z.namelist()[0] == 'mimetype' and z.getinfo('mimetype').compress_type == 0, 'Invalid EPUB mimetype placement')
-        require(z.read('mimetype') == b'application/epub+zip', 'Invalid EPUB mimetype')
-        for item in local['members']:
-            p = ROOT / item['path']
-            data = p.read_bytes()
-            require(sha(data) == item['sha256'] and len(data) == item['bytes'], f'Snapshot checksum mismatch: {p}')
-            member = p.relative_to(ROOT / 'epub/local-2026-07-29').as_posix()
-            require(data == z.read(member), f'Snapshot differs from EPUB: {member}')
-            if p.suffix in {'.xhtml', '.xml', '.opf', '.ncx'}:
-                ET.fromstring(data)
-        ns = {'opf': 'http://www.idpf.org/2007/opf'}
-        package = ET.fromstring(z.read('EPUB/package.opf'))
-        items = {x.attrib['id']: x for x in package.findall('opf:manifest/opf:item', ns)}
-        for item in items.values():
-            require('EPUB/' + item.attrib['href'] in z.namelist(), 'Missing package resource: '+item.attrib['href'])
-        for ref in package.findall('opf:spine/opf:itemref', ns):
-            require(ref.attrib['idref'] in items, 'Unresolved spine reference')
-    print('PASS: Korean archive and 54 raw chapters; artifact hashes (including original audit), 493 MTL source hashes, archive members, 524 EPUB snapshot members, XML parsing, EPUB manifest and spine.')
-
-
-if __name__ == '__main__':
-    main()
+    actual={p.name for p in CHINESE.glob("*.txt")}
+    if len(actual)!=492: fail(f"expected 492 Chinese files, found {len(actual)}")
+    expected={f"{n:03d}.txt" for n in range(1,501)}; expected.discard("055.txt")
+    for n,f in COMBINED.items():
+        if n!=int(f[:3]): expected.discard(f"{n:03d}.txt")
+    if actual!=expected: fail(f"Chinese corpus mismatch; missing={sorted(expected-actual)} extra={sorted(actual-expected)}")
+    with EX.open(encoding="utf-8",newline="") as fh: rows={int(r["target_chapter"]):r for r in csv.DictReader(fh,delimiter="\t")}
+    if rows.get(55,{}).get("raw_status")!="missing": fail("Chapter 55 missing declaration absent")
+    for n,f in COMBINED.items():
+        r=rows.get(n)
+        if not r or r["raw_status"]!="combined" or r["raw_file"]!=f: fail(f"bad combined mapping for {n}")
+    if len(list(EN.glob("chapter-*.xhtml")))!=493: fail("expected 493 English MTL chapter files")
+    forbidden=[ROOT/"source/korean",ROOT/"archives/korean-raws-001-054.zip",ROOT/"recovery/korean-raws-manifest.json",ROOT/"editorial/korean-alignment",ROOT/"tools/import_korean_raws.py"]
+    present=[str(p.relative_to(ROOT)) for p in forbidden if p.exists()]
+    if present: fail(f"retired Korean artifacts still present: {present}")
+    for n in range(1,501):
+        if n==55:
+            if not (EN/"chapter-055.xhtml").is_file(): fail("Chapter 55 English fallback missing")
+        elif not (CHINESE/COMBINED.get(n,f"{n:03d}.txt")).is_file(): fail(f"target {n} has no Chinese container")
+    print("Chinese-first source baseline: OK")
+    print("500 targets; 499 Chinese-backed; Chapter 55 MTL-only; 7 combined containers.")
+if __name__=="__main__": main()

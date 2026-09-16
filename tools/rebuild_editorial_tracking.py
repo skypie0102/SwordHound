@@ -1,107 +1,30 @@
-"""Rebuild source/audit indexes without applying editorial suggestions."""
-from collections import Counter, defaultdict
+#!/usr/bin/env python3
+"""Rebuild the 500-chapter Chinese-first reconstruction tracker."""
+from __future__ import annotations
+import csv, json
 from pathlib import Path
-import csv
-import hashlib
-import json
-import re
-import sys
-import xml.etree.ElementTree as ET
-from build_editorial_draft import render as validate_editorial_chapter
-
 ROOT = Path(__file__).resolve().parents[1]
-NS = {'h': 'http://www.w3.org/1999/xhtml'}
+EXCEPTIONS = ROOT / "source/chinese/chapter-exceptions.tsv"
 
+def exceptions():
+    with EXCEPTIONS.open(encoding="utf-8", newline="") as fh:
+        return {int(r["target_chapter"]):r for r in csv.DictReader(fh, delimiter="\t")}
 
-def normalize(text):
-    return ' '.join(text.split())
-
-
-def save(path, data):
-    target = ROOT / path
-    rendered = json.dumps(data, ensure_ascii=False, indent=2) + '\n'
-    if '--check' in sys.argv:
-        if not target.exists() or target.read_text(encoding='utf-8') != rendered:
-            raise ValueError(f'Stale generated index: {path}')
-        return
-    target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text(rendered, encoding='utf-8')
-
+def build():
+    ex=exceptions(); chapters=[]; accepted=[]; staged=[]
+    for n in range(1,501):
+        r=ex.get(n); status=r["raw_status"] if r else "single"; raw=None if status=="missing" else (r["raw_file"] if r and r["raw_file"] else f"{n:03d}.txt")
+        draft=ROOT/f"manuscript/drafts/chapter-{n:04d}.md"; acc=ROOT/f"qa/acceptance/chapter-{n:04d}.json"; stage=ROOT/f"editorial/staging/chapter-{n:04d}-sources.json"
+        state="unstarted"
+        if draft.exists() or stage.exists(): state="draft"; staged.append(n)
+        if acc.exists() and json.loads(acc.read_text(encoding="utf-8")).get("accepted") is True: state="qa_accepted"; accepted.append(n)
+        m=int(r["verified_english_mtl_chapter"]) if r and r["verified_english_mtl_chapter"].strip() else None
+        chapters.append({"chapter":n,"reconstruction_status":state,"primary_source":None if raw is None else f"source/chinese/chapters/{raw}","raw_status":status,"english_mtl_reference":f"source/chapters/chapter-{m:03d}.xhtml" if m else None,"english_mtl_alignment":"verified_exception_table" if m else "align_by_title_and_content_before_use","draft":f"manuscript/drafts/chapter-{n:04d}.md" if draft.exists() else None})
+    next_ch=next((n for n in range(1,501) if n not in accepted),None)
+    tracker={"notice":"Chinese-first tracker; prior Korean-assisted state superseded.","target_chapter_count":500,"accepted_count":len(accepted),"next_chapter":next_ch,"chapters":chapters}
+    status={"checkpoint_policy":"chinese_primary_2026-09-16","target_chapters":500,"accepted_chapters":len(accepted),"accepted":accepted,"staged_or_draft":sorted(set(staged)-set(accepted)),"next_chapter":next_ch,"missing_chinese_raw_chapters":[55],"combined_raw_containers":{"075.txt":[75,76],"267.txt":[267,268],"284.txt":[284,285],"351.txt":[351,352],"353.txt":[353,354],"385.txt":[385,386],"495.txt":[495,496]}}
+    return tracker,status
 
 def main():
-    with (ROOT / 'source/chapter-sha256.tsv').open(encoding='utf-8') as f:
-        source_rows = list(csv.DictReader(f, delimiter='\t'))
-    chapter_data = {}
-    titles = defaultdict(list)
-    for row in source_rows:
-        number = int(row['chapter'])
-        path = ROOT / 'source/chapters' / row['repo_file']
-        data = path.read_bytes()
-        if hashlib.sha256(data).hexdigest() != row['sha256']:
-            raise ValueError(f'Source checksum mismatch: {number}')
-        doc = ET.fromstring(data)
-        title = ''.join(doc.find('.//h:h1', NS).itertext())
-        body = doc.find('.//h:div[@class="chapter-content"]', NS)
-        paragraphs = [''.join(p.itertext()) for p in body.findall('.//h:p', NS)]
-        chapter_data[number] = {'title': title, 'paragraphs': paragraphs, 'source': path.relative_to(ROOT).as_posix(), 'sha256': row['sha256']}
-        titles[normalize(title).casefold()].append(number)
-    audit = (ROOT / 'editorial/Editorial-Audit.md').read_text(encoding='utf-8')
-    findings = []
-    historical_title = None
-    for block in re.split(r'(?=^### Chapter |^#### ED-)', audit, flags=re.M):
-        title_match = re.match(r'### Chapter (\d+): (.+)', block)
-        if title_match:
-            historical_title = title_match.group(2)
-        head = re.match(r'#### (ED-\d+) — (.+)', block)
-        if not head:
-            continue
-        loc = re.search(r'^- \*\*Location:\*\* Chapter (\d+), paragraph (\d+)', block, re.M)
-        quoted = re.search(r'^- \*\*Current text:\*\* “(.*)”\s*$', block, re.M)
-        if not loc or not quoted:
-            raise ValueError(f'Unrecognized audit structure: {head.group(1)}')
-        old_chapter, old_paragraph = map(int, loc.groups())
-        text = normalize(quoted.group(1))
-        candidates = titles.get(normalize(historical_title).casefold(), [])
-        hits = [(n, i+1) for n in candidates for i, p in enumerate(chapter_data[n]['paragraphs']) if normalize(p) == text]
-        status = 'unmatched'
-        match = None
-        if len(hits) == 1:
-            match = {'chapter': hits[0][0], 'paragraph': hits[0][1]}
-            status = 'exact_text_and_title'
-        elif len(hits) > 1:
-            status = 'ambiguous_text'
-        findings.append({'id':head.group(1),'historical_chapter':old_chapter,'historical_paragraph':old_paragraph,'historical_title':historical_title,'category_and_severity':head.group(2),'match_status':status,'source_match':match,'candidate_matches':[{'chapter':n,'paragraph':p} for n,p in hits], 'disposition':'not_reviewed'})
-    if len(findings) != 2151:
-        raise ValueError(f'Expected 2151 original findings, got {len(findings)}')
-    aligned = defaultdict(list)
-    for item in findings:
-        if item['source_match']:
-            aligned[item['source_match']['chapter']].append(item['id'])
-    overlay_path = ROOT / 'editorial/reconstruction-status.json'
-    overlay = json.loads(overlay_path.read_text(encoding='utf-8')) if overlay_path.exists() else {}
-    korean_manifest = json.loads((ROOT / 'recovery/korean-raws-manifest.json').read_text(encoding='utf-8'))
-    korean = {entry['chapter']: entry for entry in korean_manifest['members']}
-    if len(korean_manifest['members']) != 54 or set(korean) != set(range(1, 55)):
-        raise ValueError('Expected Korean source coverage 1-54')
-    for entry in korean.values():
-        if hashlib.sha256((ROOT / entry['path']).read_bytes()).hexdigest() != entry['sha256']:
-            raise ValueError(f'Korean source checksum mismatch: {entry["chapter"]}')
-    chapters = []
-    for number, item in sorted(chapter_data.items()):
-        state = overlay.get(str(number), {})
-        if state.get('status') == 'qa_accepted':
-            validate_editorial_chapter(number)
-        chapters.append({'chapter':number,'title':item['title'],'source':item['source'],'source_sha256':item['sha256'],'source_integrity':'verified','source_paragraphs':len(item['paragraphs']),'original_edited_file':'not_recovered','original_qa_file':'not_recovered','historical_reported_state':'merged_through_372' if number <=372 else ('validated_unmerged_373_374' if number <=374 else 'not_reported_complete'),'reconstruction_status':state.get('status','not_started'),'draft':state.get('draft'),'qa_report':state.get('qa_report'),'open_issues':state.get('open_issues',[]),'audit_findings_with_exact_unique_match':aligned[number]})
-        raw = korean.get(number)
-        chapters[-1].update({'review_basis': 'korean_plus_mtl' if raw else 'mtl_with_supporting_references',
-                             'korean_source': {key: raw[key] for key in ('path', 'sha256', 'alignment')} if raw else None,
-                             'source_policy': 'editorial/SOURCES.md'})
-        chapters[-1]['editorial_accepted'] = state.get('status') == 'qa_accepted'
-        chapters[-1]['acceptance_evidence'] = state.get('acceptance_evidence')
-    save('editorial/audit-alignment.json', {'notice':'Exact quoted text plus chapter title matching after whitespace normalization only. A match locates an old suggestion; it does not approve or apply it. Unmatched findings may involve changed text, numbering, or titles. Duplicate suggestions remain separate.', 'counts':dict(Counter(x['match_status'] for x in findings)), 'findings':findings})
-    save('editorial/chapter-tracker.json',{'notice':'Reconstructed tracker. Historical completion reports and current QA acceptance are separate. Only original source integrity is verified for every chapter.','chapter_count':len(chapters),'chapters':chapters})
-    print(json.dumps({'chapters':len(chapters),'audit_findings':len(findings),'alignment_counts':dict(Counter(x['match_status'] for x in findings))}))
-
-
-if __name__ == '__main__':
-    main()
+    t,s=build(); (ROOT/"editorial/chapter-tracker.json").write_text(json.dumps(t,ensure_ascii=False,indent=2)+"\n",encoding="utf-8"); (ROOT/"editorial/reconstruction-status.json").write_text(json.dumps(s,ensure_ascii=False,indent=2)+"\n",encoding="utf-8"); print(f"accepted={t['accepted_count']} next={t['next_chapter']}")
+if __name__=="__main__": main()

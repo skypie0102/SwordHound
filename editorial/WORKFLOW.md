@@ -1,73 +1,56 @@
-# Reconstruction workflow
+# Chinese-First Reconstruction Workflow
 
-The recovered 493-chapter English MTL corpus is the working narrative base. User-supplied Korean raws are available for Chapters 1–54; from Chapter 55 onward the user has no Korean raws and authorizes MTL-based reconstruction. Use the Fandom and Namu Wiki references for QA, with additional web research as needed. Follow [SOURCES.md](SOURCES.md) for exact paths, links, evidence rules, and review modes.
+## Goal
 
-The older audit concerns 500 chapters, and historical reports describe lost edited production through 374. Preserve the identities of each source and do not equate historical reports with recovered finished chapters.
+Produce one polished English chapter for each target Chapter 1–500, using the Chinese raw as the semantic authority wherever available and applying a full editorial/QA pass to every chapter.
 
-## Current files and ownership
+## 1. Resolve the source container
 
-- `source/`, `archives/`, `artifacts/`, `epub/`, and `editorial/Editorial-Audit.md` preserve recovered originals. Do not edit them to incorporate new corrections.
-- `editorial/edits/chapter-NNNN.json` contains explicit, reviewable paragraph replacements anchored to a source file hash.
-- `qa/chapter-NNNN.json` records source questions, review scope, and acceptance. The companion Markdown report explains the review to readers.
-- `editorial/reconstruction-status.json` is the manually maintained status overlay. The tracker is generated from this file and original source records.
-- `manuscript/drafts/` and `editorial/provenance/` are generated. Change the edit set, then regenerate; do not silently hand-edit the output.
-- `editorial/korean-alignment/` accounts for supplied Korean lines against MTL paragraphs, including headings and scene breaks. `editorial/reviews/` records source decisions and web evidence. Resolved QA items must link to their written decision and evidence files.
-- When one Korean physical line spans several MTL paragraphs, repeat its reference only with an explicit `shared_lines` declaration containing the line number, all owning MTL paragraphs in order, and the reason. The validator requires exact coverage and rejects undeclared duplicates or incorrect owners.
-- When a recovered MTL paragraph genuinely has no counterpart in the supplied Korean witness, declare it explicitly through `mtl_only_paragraphs` with a reason. Do not fabricate Korean coverage. Korean physical-line coverage must still remain exact.
-- `editorial/audit-alignment.json` locates historical findings using exact quoted text and title after whitespace normalization. Its `not_reviewed` disposition belongs to the immutable locator index; chapter QA reports hold actual manual triage. Unmatched and ambiguous findings remain available for review.
+Read `source/chinese/chapter-exceptions.tsv`.
 
-## Continuous title-family processing
+- Normal chapter: use `source/chinese/chapters/NNN.txt`.
+- Missing Chapter 55: use verified English MTL Chapter 55 as the sole source.
+- Combined chapter: use the shared Chinese container listed in the exception table. Do not require a physical raw split.
 
-Reconstruct chapters as contiguous title families. Determine the complete family boundary from `editorial/chapter-tracker.json` before starting. A family such as `Solitary (1)` through `Solitary (4)` is one editorial batch for continuity and QA purposes.
+Record the source path(s) in provenance.
 
-Finishing one title family is a checkpoint, **not a stopping condition**. After integrating a completed family, immediately identify the next base-title family and continue editorial work. Continue across title families until the user explicitly asks to stop/pause, the corpus ends, or a genuine editorial blocker prevents safe progress.
+## 2. Read Chinese before touching the English draft
 
-Do not introduce runner/browser work between ordinary title families. Preserve a short continuity handoff at each boundary so the next family begins from the exact preceding endpoint.
+For Chinese-backed chapters, read the complete relevant raw/container first. Establish scene order, title/title-family information, names, terminology, explicit content, windows/lists, and chapter-ending transition. The recovered English MTL is not an authority when it conflicts with the Chinese.
 
-## Editorial-first per-chapter procedure
+## 3. Align the English MTL reference
 
-1. Confirm source hash and corresponding reference editions. Check chapter title and actual text rather than trusting old chapter numbers.
-2. Read the entire chapter. Make explicit English edits and record the reason for each. Prioritize translation fidelity, grammar, awkward wording, mistranslations, names/terms, speaker attribution, chronology, information-window content/structure, scene-break meaning, and natural prose.
-   - Preserve the source's actual intensity and specificity. Do not sanitize violence, gore, profanity, anatomical language, degradation, sexual material, or other harsh content; do not euphemize or omit it for palatability, and do not intensify beyond what the evidence supports.
-3. For Chapters 1–54, compare the supplied Korean and MTL passages. For Chapters 55–493, review the MTL against context, continuity, and supporting references; Korean availability is not a prerequisite. Consult the two designated wikis for applicable names, terms, and locations, and seek other web support when needed. Record specific evidence, access dates, decisions, and conflicts. Label the review basis as `korean_plus_mtl` or `mtl_with_supporting_references`.
-4. Check continuity against the chapter's current knowledge and reveal timeline. Recovered later summaries are leads, not permission to introduce later knowledge early.
-5. Generate/review the draft and paragraph provenance, regenerate the tracker, and review the resulting draft as prose, including every unchanged paragraph. Run deterministic text/source/alignment/tracker checks that do not require a browser or hosted runner.
-6. Accept editorially only after all reviews required by the source mode and all actual open editorial issues are resolved, with evidence linked to the final text hash. MTL-only passages or chapters may receive editorial acceptance under an explicitly recorded limitation; do not call them bilingually verified.
-7. Record scope, unresolved issues, validation, continuity handoff, and the next title-family checkpoint in `PROGRESS.md`, then continue directly into the next family.
+The 493-chapter MTL numbering diverges from the 500-chapter target. Align by content, not by number: title/title-family sequence; first and last scene; distinctive proper nouns/skills/monsters; scene ordering/transitions; and neighboring continuity.
 
-## Checks during editorial reconstruction
+If alignment is uncertain, do not silently use a same-number chapter. Record the uncertainty and resolve it before acceptance.
 
-Use deterministic text/integrity checks only during chapter processing. Typical checks include:
+## 4. Translate/edit
 
-```text
-python tools/build_editorial_draft.py N
-python tools/rebuild_editorial_tracking.py
-python tools/verify_recovery.py
-python tools/build_editorial_draft.py N --check
-python tools/rebuild_editorial_tracking.py --check
-python -m unittest discover -s tests -v
-```
+Create natural modern English that preserves the Chinese meaning, tone, explicitness, sequence, and level of detail. The MTL may provide a useful scaffold, but rewrite mistranslations, omissions, additions, awkward syntax, pronoun errors, terminology drift, and machine-like phrasing. Do not add explanatory material absent from the source.
 
-These checks protect recovered evidence, alignment/provenance conservation, deterministic draft generation, tracker consistency, acceptance hashes, and failure handling. They do **not** certify the translation by themselves.
+## 5. Combined-container chapter division
 
-Do not require `build_chapter_preview.py`, Playwright, browser screenshots, CSS measurements, viewport checks, or GitHub Actions for ordinary title-family editorial acceptance. Existing preview/layout evidence from earlier accepted chapters may remain in history, but future editorial batches should not spend time or runner capacity producing equivalent evidence.
+For a shared raw container:
 
-## Complete-EPUB presentation/release phase
+1. Determine the two English target chapter identities through title/content alignment.
+2. Locate the most defensible source-sequence boundary using the paired English references and event continuity.
+3. Keep the original Chinese file intact unless the raw itself gives a reliable direct split marker.
+4. Produce two separate translated chapter files.
+5. QA the pair together and verify that the shared source has no untranslated gap and no duplicated overlap.
+6. Record the chosen division in provenance/review notes.
 
-Defer presentation work until a complete EPUB is assembled. At that stage, apply and verify the recovered formatting requirements, including dialogue indentation, unindented narration, 1.65 line height, single-quote handling, information-window presentation, `◆◆◆` scene breaks, typography, CSS behavior, device/viewport rendering, and any other visual polish.
+The absence of a safe physical split is not permission to merge the English output.
 
-Browser rendering, screenshots, Playwright-based layout inspection, overflow measurements, final CSS tuning, EPUB packaging, and EPUBCheck belong to this complete-EPUB/release phase unless the user explicitly requests an earlier visual check. Batch these expensive checks together rather than repeating them per chapter or title family.
+## 6. Chapter QA gate
 
-## Acceptance records
+Every chapter must pass: semantic fidelity; full coverage with no dropped/duplicated/invented material; terminology/proper-noun consistency; neighboring/title-family continuity; polished grammar and natural English; correct project formatting; source provenance; and, where applicable, combined-pair split integrity.
 
-Before changing accepted chapter material, set `accepted` to false in its QA record and reopen the corresponding overlay state and issues. Keep prior decisions in Git history. Complete the editorial review again before setting `qa_accepted`.
+Chapter 55 additionally requires explicit neighboring-context and uncertainty review because Chinese source evidence is unavailable.
 
-The reviewing agent records closed issues, review basis, final-review evidence paths, date and reviewer identity. The acceptance record binds `acceptance_context` from `tools/build_editorial_draft.py`: final Markdown, source hashes, edit-set and decision digests, alignment and evidence hashes. Text evidence is normalized for checkout line endings. Existing older records may also bind PNG layout evidence; new editorial-first records do not require browser/layout evidence.
+## 7. Acceptance/state update
 
-When preparing a record after actual review, the agent may use `render(chapter, validate_acceptance=False)` solely to compute the proposed final bytes before the record exists. Ordinary generation, checks, and tracker integration must use validation. Never refresh hashes automatically to hide a change from review. A valid record must pass the normal deterministic builder and tracker checks before publishing.
+Only after the QA gate: write the accepted draft and QA/provenance evidence; mark the chapter accepted in `editorial/chapter-tracker.json`; update `editorial/reconstruction-status.json`, `PROJECT_STATE.md`, and `PROGRESS.md`.
 
-## Working style
+## Reset state
 
-Use past-tense narration with intentional exceptions for general descriptions, direct thoughts, dialogue, and system text. Preserve rhetorical fragments when useful. Keep curly quotation marks; repair accidental point-of-view shifts. Normalize ellipses where editing has been reviewed, without treating all sounds or pauses as scene breaks. Apply the recovered formatting requirements in [Recovered-Editorial-Decisions.md](Recovered-Editorial-Decisions.md) when building the complete EPUB rather than interrupting chapter-by-chapter editorial work for presentation tuning.
-
-Keep source-dependent terminology provisional in [GLOSSARY.md](GLOSSARY.md). Do not globally flatten family/clan/house, sword ranks, threat labels, or ritual names merely because variants exist. Do not treat a grammar repair as evidence of correct meaning.
+The 2026-09-16 source migration supersedes all earlier Korean-assisted draft/acceptance state. Restart from Chapter 1. Historical files remain retrievable from Git history but do not count toward current completion.
