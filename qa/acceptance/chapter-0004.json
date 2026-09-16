@@ -1,0 +1,40 @@
+{
+  "chapter": 4,
+  "title": "The Baskerville Dog (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-16",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "family_qa_path": "qa/families/baskerville-dog-0004-0007.md",
+    "family_qa_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/004.txt",
+    "primary_source_sha": "a72d0371ccf0b3da0ad5a4cdb660ac7223753379",
+    "english_reference_path": "source/chapters/chapter-004.xhtml",
+    "english_reference_sha": "42ad39ef16ea789978c405e5c80038df6edf3a08",
+    "english_alignment": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "draft_path": "manuscript/drafts/chapter-0004.md",
+    "draft_sha": "ff0997d2b046a92f88d077094281ecd01f106e31",
+    "qa_path": "qa/chapter-0004.md",
+    "qa_sha": "fcd9d715a72245b301b53f14e74780f50a3bf515",
+    "provenance_path": "editorial/provenance/chapter-0004.json",
+    "provenance_sha": "b962e5787a5e19f9b357f31f3e9f789adda7cb9e"
+  },
+  "canonical_checks": [
+    "Sword Beginner",
+    "Sword Expert",
+    "Sword Graduator",
+    "Sword Master",
+    "High Sword Expert",
+    "Highbro / Middlebro / Lowbro Le Baskerville",
+    "Rok Empire / Seven Great Clans"
+  ],
+  "documented_limits": [
+    "Current Fandom evidence supports the four-stage sword-rank terminology; final direct retrieval was blocked by robots.txt and no new wiki claim was invented.",
+    "The Chinese child-rearing-castle terms are rendered descriptively because a dedicated canonical proper name was not confirmed; the MTL Fang Castle label is not forced."
+  ]
+}
