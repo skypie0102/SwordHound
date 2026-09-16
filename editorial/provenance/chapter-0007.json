@@ -1,0 +1,85 @@
+{
+  "chapter": 7,
+  "title": "The Baskerville Dog (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Baskerville Dog",
+    "range": [4, 7],
+    "boundary_status": "verified",
+    "family_qa": {
+      "path": "qa/families/baskerville-dog-0004-0007.md",
+      "blob_sha": "be2c8b06c0fab67fe0c397cbbd600bd9176aaa36",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/007.txt",
+    "blob_sha": "f1a4dcf06a722c6d14b38d8beb08a425d471eb4d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-007.xhtml",
+    "blob_sha": "9d5414b25ad77e975bfb326666cc868be161953b",
+    "target_alignment": 7,
+    "alignment_status": "verified_by_title_opening_scene_sequence_and_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "canonical_references": [
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/John_Barrymore",
+      "applies_to": ["John Barrymore"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Morgue_Clan",
+      "applies_to": ["Morgue Clan"]
+    },
+    {
+      "url": "https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Vikir_Van_Baskerville/Synopsis",
+      "applies_to": ["Bloody Beans sequence and pantry chronology"]
+    }
+  ],
+  "canonical_reference_access_date": "2026-09-16",
+  "canonical_reference_final_qa_access_limitation": "Fresh direct retrieval was blocked by robots.txt during final QA; no new wiki claim was invented.",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0007.md",
+    "blob_sha": "5a1d8c21aff248d7b8fe667dac47c06505116d11"
+  },
+  "qa": {
+    "path": "qa/chapter-0007.md",
+    "blob_sha": "d4fcb71ffce885d0cc1ebda06e0e539f94db0f0c",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "Hugo becoming eldest",
+      "final": "retain Vikir's realization that Hugo killed older brothers to become eldest/heir",
+      "basis": "Chinese narrative implication; do not soften fratricide"
+    },
+    {
+      "topic": "forgiveness anecdote",
+      "final": "retain destroyed-family survivor/nun and Hugo's revenge-power response",
+      "basis": "Chinese source"
+    },
+    {
+      "topic": "Bloody Beans",
+      "final": "Bloody Beans",
+      "basis": "Chinese descriptive name plus current Fandom synopsis support; quantities/mechanics remain Chinese-controlled"
+    },
+    {
+      "topic": "child-rearing castle",
+      "final": "descriptive nursery castle wording",
+      "basis": "canonical proper location name remains unverified"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "repaired age/seniority exchange",
+    "restored fratricide implication",
+    "restored forgiveness anecdote",
+    "clarified under-fifteen haggis/offal diet",
+    "corrected cocoa-bean terminology",
+    "preserved Bloody Beans concentration and approximate quantities",
+    "retained Vikir's refusal to process the beans"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-16"
+}
