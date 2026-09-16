@@ -8,7 +8,7 @@
     "boundary_status": "verified_from_chinese_headings_and_chapter_12_title_change",
     "family_qa": {
       "path": "qa/families/hounds-of-hell-0008-0011.md",
-      "blob_sha": "a5c43f7276f0bfe5e86f12a34238abcdcc79d003",
+      "blob_sha": "81e2e1f230a38e6693bf06c01908c910cdd35eec",
       "status": "pass"
     }
   },
@@ -21,7 +21,7 @@
     "path": "source/chapters/chapter-011.xhtml",
     "blob_sha": "26e15feb304acd8e94d8f902c82a369dc900fb7e",
     "target_alignment": 11,
-    "alignment_status": "verified_by_title_cerberus_window_rank_table_baskerville_forms_trap_and_seven_step_endpoint",
+    "alignment_status": "verified_by_title_cerberus_window_rank_table_baskerville_fangs_trap_and_seven_step_endpoint",
     "authority": "secondary_reference_only"
   },
   "canonical_references": [
@@ -37,22 +37,27 @@
     },
     {
       "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Sword Skills",
+      "applies_to": ["Baskerville Fang Sword Style", "1st Fang", "2nd Fang", "3rd Fang", "4th Fang"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
       "page_title": "Vikir Van Baskerville / sword progression material",
-      "applies_to": ["Sword Expert / Sword Graduator / Sword Master terminology", "Baskerville Forms"]
+      "applies_to": ["Sword Expert / Sword Graduator / Sword Master terminology"]
     }
   ],
   "canonical_reference_access": {
     "date": "2026-09-16",
-    "status": "principal evidence retrieved earlier in active-family research; later refresh blocked by Fandom robots rules",
-    "rule": "no canonical claim added from the failed refresh"
+    "status": "principal family evidence retrieved earlier; later direct Fandom refreshes intermittently blocked by robots, while a current indexed Fandom Sword Skills result supplied stronger Fang terminology evidence",
+    "rule": "distinguish indexed current retrieval from direct-page access and do not fabricate a successful direct refresh"
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0011.md",
-    "blob_sha": "15673ea64dfa3d9375c97a3bcd1ff605f3984ade"
+    "blob_sha": "eed36a1afd207edcf761034350426ff39c1fa8db"
   },
   "qa": {
     "path": "qa/chapter-0011.md",
-    "blob_sha": "5f8d12c1c8c9ffeb3116940ce23e393490fcb0ae",
+    "blob_sha": "394d7610011f25000acda6a5d5e43bd02ac75571",
     "status": "pass"
   },
   "documented_decisions": [
@@ -68,8 +73,8 @@
     },
     {
       "topic": "Baskerville technique naming",
-      "final": "Baskerville 1st / 2nd / 3rd Form; first-life mastery through 4th Form",
-      "basis": "canonical project English form, replacing unstable MTL Type/formula wording"
+      "final": "Baskerville 1st / 2nd / 3rd Fang; first-life mastery through 4th Fang",
+      "basis": "current Fandom Sword Skills entry explicitly names Baskerville Fang Sword Style and the numbered techniques as Fangs; supersedes earlier project fallback Form terminology"
     },
     {
       "topic": "Camus Morgue retrospective",
@@ -85,13 +90,19 @@
   "notable_mtl_repairs": [
     "rebuilt Cerberus taxonomy and complete information window",
     "normalized rank-equivalence table",
-    "normalized Baskerville Forms",
+    "canonicalized numbered Baskerville techniques as Fangs",
     "preserved pre-existing Cerberus rib/arrow injuries",
     "preserved Vikir's broken ribs and shattered shortsword",
     "restored Cradle of Needles trap",
     "preserved Bloody-Bean stake poisoning and explicit waste",
     "restored Bloody Mamba fang payoff and exact seven-step collapse"
   ],
+  "acceptance_reopen": {
+    "date": "2026-09-16",
+    "scope": "canonical terminology only",
+    "reason": "stronger current Fandom Sword Skills evidence established Fang rather than the earlier fallback Form wording",
+    "semantic_content_changed": false
+  },
   "accepted": true,
   "accepted_date": "2026-09-16"
 }
