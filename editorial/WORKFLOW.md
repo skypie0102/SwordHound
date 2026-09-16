@@ -4,15 +4,43 @@
 
 Produce one polished English chapter for each target Chapter 1–500, using the Chinese raw as the semantic authority wherever available, the English Fandom wiki as the canonical English naming/terminology reference, and a full editorial/QA pass for every chapter.
 
-## Continuous title-family processing
+## 0. Resume from the handoff
 
-Reconstruct chapters as **contiguous title families**. Before starting, determine the complete family boundary from the target titles, `editorial/chapter-tracker.json`, Chinese headings, and verified English-reference alignment. A family such as `Hellhound (1)` through its last contiguous numbered part is one editorial batch for continuity and QA purposes.
+Before chapter work, read `HANDOFF.md` and reconcile it against:
+
+- `PROJECT_STATE.md`
+- `PROGRESS.md`
+- `editorial/chapter-tracker.json`
+- accepted QA/provenance files, if any
+- `editorial/GLOSSARY.md`
+
+`HANDOFF.md` is the operational continuation record, not a substitute for accepted evidence. If it is stale or conflicts with accepted tracker/provenance state, correct it before proceeding.
+
+At minimum, identify from the handoff:
+
+- exact next chapter;
+- active title family and whether its complete boundary is verified;
+- in-progress chapters and what review steps remain;
+- Chinese source containers already read;
+- English MTL mappings already verified;
+- Fandom canonical terminology already checked and remaining checks;
+- unresolved decisions/blockers;
+- current branch/PR state;
+- exact next actions.
+
+Update `HANDOFF.md` after meaningful checkpoints and always before ending the session.
+
+## 1. Continuous title-family processing
+
+Reconstruct chapters as **contiguous title families**. Before accepting any chapter in a family, determine the complete family boundary from Chinese headings, verified English-reference alignment, `editorial/chapter-tracker.json`, and other available index/title evidence.
+
+A family such as `Hellhound (1)` through its final contiguous numbered part is one editorial batch for continuity and QA purposes.
 
 Finishing one title family is a checkpoint, **not a stopping condition**. After integrating a completed family, immediately identify the next base-title family and continue editorial work. Continue across title families for as many chapters as can be safely completed until the user explicitly asks to stop/pause, the corpus ends, or a genuine editorial blocker prevents safe progress.
 
-Do not stop merely because one chapter, one PR, or one title-family batch has finished. Start a new batch when the base title changes. If a title family is unusually large or a genuine blocker forces a split, document the exception and preserve a clear continuity handoff.
+Do not stop merely because one chapter, one PR, or one title-family batch has finished. If a title family is unusually large or a genuine blocker forces a split, document the exception and preserve a precise continuity handoff in `HANDOFF.md`.
 
-## 1. Resolve the source container
+## 2. Resolve the source container
 
 Read `source/chinese/chapter-exceptions.tsv`.
 
@@ -20,21 +48,27 @@ Read `source/chinese/chapter-exceptions.tsv`.
 - Missing Chapter 55: use verified English MTL Chapter 55 as the sole text source.
 - Combined chapter: use the shared Chinese container listed in the exception table. Do not require a physical raw split.
 
-Record the source path(s) in provenance.
+Record source paths in provenance and summarize unusual source status in the handoff.
 
-## 2. Read Chinese before touching the English draft
+## 3. Read Chinese before touching the English draft
 
 For Chinese-backed chapters, read the complete relevant raw/container first. Establish scene order, title/title-family information, entities, terminology, explicit content, windows/lists, and chapter-ending transition. The recovered English MTL is not an authority when it conflicts with the Chinese.
 
 The Chinese raw governs **what happens and what is said**. Canonical English rendering of established names, terms, locations, ranks, skills, monsters, organizations, and other proper nouns is handled separately through the English Fandom wiki.
 
-## 3. Align the English MTL reference
+## 4. Align the English MTL reference
 
-The 493-chapter MTL numbering diverges from the 500-chapter target. Align by content, not by number: title/title-family sequence; first and last scene; distinctive proper nouns/skills/monsters; scene ordering/transitions; and neighboring continuity.
+The 493-chapter MTL numbering diverges from the 500-chapter target. Align by content, not by number, using:
 
-If alignment is uncertain, do not silently use a same-number chapter. Record the uncertainty and resolve it before acceptance.
+- title/title-family sequence;
+- first and last scene;
+- distinctive entities, skills, monsters, or locations;
+- scene ordering/transitions;
+- neighboring continuity.
 
-## 4. Canonical English terminology check
+If alignment is uncertain, do not silently use a same-number chapter. Record the uncertainty and resolve it before acceptance. Put newly verified or changed alignment in `HANDOFF.md`; record nontrivial mappings in `source/chinese/chapter-exceptions.tsv` when appropriate.
+
+## 5. Canonical English terminology check
 
 Use the user-designated English Fandom wiki as the canonical English reference for names, terminology, locations, ranks, skills, monsters, organizations, titles, and other proper nouns:
 
@@ -42,28 +76,30 @@ https://revenge-of-the-ironblooded-sword-hound.fandom.com/wiki/Revenge_of_the_Ir
 
 Use the wiki to choose the established English rendering **after the Chinese source identifies the underlying entity or term**. Do not use a wiki summary to override source dialogue, invent omitted events, alter characterization, or introduce future revelations before the chapter establishes them.
 
-Consult `editorial/GLOSSARY.md` and neighboring accepted chapters for project continuity. Where the wiki, Chinese transliteration, MTL, and existing glossary differ, record the alternatives and adjudication. Namu Wiki and other supporting sources may be used for additional context and disambiguation.
+For consequential terms, record the page/entry or evidence summary, access limitation if any, competing forms, and decision. Consult `editorial/GLOSSARY.md` and neighboring accepted chapters for continuity. Namu Wiki and other supporting sources may be used for additional context and disambiguation.
 
-## 5. Translate/edit
+Update `HANDOFF.md` with completed and pending canonical checks so the next agent does not repeat research unnecessarily.
+
+## 6. Translate/edit
 
 Create natural modern English that preserves the Chinese meaning, tone, explicitness, sequence, and level of detail. The MTL may provide a useful scaffold, but rewrite mistranslations, omissions, additions, awkward syntax, pronoun errors, terminology drift, and machine-like phrasing. Do not add explanatory material absent from the source.
 
 **Do not sanitize.** Preserve violence, gore, profanity, anatomical language, degradation, sexual material, and other harsh or explicit content when present. Do not euphemize, generalize, omit, or soften it for palatability, and do not intensify beyond the evidence.
 
-## 6. Combined-container chapter division
+## 7. Combined-container chapter division
 
 For a shared raw container:
 
-1. Determine the two English target chapter identities through title/content alignment.
-2. Locate the most defensible source-sequence boundary using the paired English references and event continuity.
-3. Keep the original Chinese file intact unless the raw itself gives a reliable direct split marker.
-4. Produce two separate translated chapter files.
-5. QA the pair together and verify that the shared source has no untranslated gap and no duplicated overlap.
-6. Record the chosen division in provenance/review notes.
+1. determine the two English target chapter identities through title/content alignment;
+2. locate the most defensible source-sequence boundary using paired English references and event continuity;
+3. keep the original Chinese file intact unless the raw itself gives a reliable direct split marker;
+4. produce separate translated chapter files;
+5. QA the pair together for no untranslated gap and no duplicated overlap;
+6. record the chosen division in provenance/review notes and `HANDOFF.md`.
 
 The absence of a safe physical split is not permission to merge the English output.
 
-## 7. Chapter QA gate
+## 8. Chapter QA gate
 
 Every chapter must pass:
 
@@ -79,17 +115,39 @@ Every chapter must pass:
 
 Chapter 55 additionally requires explicit neighboring-context and uncertainty review because Chinese source evidence is unavailable.
 
-## 8. Acceptance and batch continuation
+## 9. Acceptance and batch continuation
 
 Only after the QA gate:
 
 1. write the accepted draft and QA/provenance evidence;
 2. mark the chapter accepted in `editorial/chapter-tracker.json`;
 3. update `editorial/reconstruction-status.json`, `PROJECT_STATE.md`, and `PROGRESS.md` at the appropriate batch checkpoint;
-4. complete the rest of the current contiguous title family;
-5. once that family is integrated, immediately determine the next title family and continue unless the user has asked to stop, the corpus has ended, or a genuine blocker exists.
+4. update `editorial/GLOSSARY.md` for newly accepted scoped terminology decisions;
+5. update `HANDOFF.md` with the exact completed state and next action;
+6. finish the rest of the current contiguous title family;
+7. once that family is integrated, immediately determine the next title family and continue unless the user has asked to stop, the corpus has ended, or a genuine blocker exists.
 
 A successful acceptance or PR merge is **not** itself a reason to stop processing.
+
+## 10. End-of-session handoff gate
+
+Before any session ends or work is handed to another agent, update `HANDOFF.md` even if no chapter was accepted.
+
+The handoff must contain:
+
+- timestamp/date and branch/PR state;
+- accepted/staged counts and exact next chapter;
+- active title family and verified range/boundary evidence;
+- per-chapter in-progress status;
+- source files reviewed;
+- MTL mappings with alignment evidence;
+- Fandom checks completed and pending;
+- terminology/translation/continuity decisions;
+- unresolved questions and blockers;
+- changed/generated files;
+- exact ordered next actions.
+
+The next agent should be able to resume from this record without redoing completed analysis.
 
 ## Editorial-first checks
 
@@ -111,4 +169,4 @@ Keep source-dependent terminology decisions documented in `editorial/GLOSSARY.md
 
 ## Current restart state
 
-The 2026-09-16 source migration superseded all earlier Korean-assisted draft/acceptance state. Reconstruction restarted from Chapter 1 under this Chinese-first policy. Chapter 1 has now been accepted; processing resumes at Chapter 2 and should proceed continuously by title family.
+The active reconstruction is **0 / 500 accepted, next Chapter 1**. The earlier Chinese-first Chapter 1 acceptance is superseded and remains only in Git history. The first task is to establish the complete contiguous title-family boundary beginning at Chapter 1, then reconstruct that family under this complete workflow.
