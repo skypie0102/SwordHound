@@ -1,0 +1,93 @@
+{
+  "chapter": 19,
+  "title": "Bared Teeth (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Bared Teeth",
+    "range": [18, 19],
+    "boundary_status": "verified_from_chinese_and_recovered_english_headings",
+    "family_qa": {
+      "path": "qa/families/bared-teeth-0018-0019.md",
+      "blob_sha": "42ca0651bb0ec731cc80a3aac892e5dfd0cf02b3",
+      "status": "pass"
+    }
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/019.txt",
+    "blob_sha": "bc88dc2708487354d9ff29ca8978252e8001d572",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-019.xhtml",
+    "blob_sha": "bdaa1abc7dfe521570a9998c43099c576da16d37",
+    "target_alignment": 19,
+    "alignment_status": "verified_by_orc_endpoint_troll_window_stamina_tactics_restraint_release_second_fang_and_decapitation_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/020.txt",
+    "blob_sha": "b4b2011e2c0ab569f7ee420c05608498970d2dd8",
+    "purpose": "confirms Camus Morgue title-family change and delayed public/hidden rank plus Beelzebub Troll-slot update"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Demonic Creatures",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": ["Troll", "Danger Rating C+", "Superspeed Regeneration"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Baskerville Clan/Swordsmanship",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": ["1st Fang", "2nd Fang", "Low Sword Expert", "Mid Sword Expert"]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville/Equipment",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": ["later Troll-derived regeneration identity only; Chapter 20 slot update not imported early"]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0019.md",
+    "blob_sha": "9ce9bca35ff2b02ac8362d408d256ea42e47194e"
+  },
+  "qa": {
+    "path": "qa/chapter-0019.md",
+    "blob_sha": "8c392cd67005b44826ab58e927996efd06efcc92",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "Troll window",
+      "final": "Danger Rating C+, 4 m, Le Rouge et Le Noir Mountain 2nd Ridge",
+      "basis": "Chinese source; corrects recovered-English C-rank drift"
+    },
+    {
+      "topic": "Troll regeneration",
+      "final": "Superspeed Regeneration",
+      "basis": "current indexed Fandom canonical terminology for the source-identified Troll"
+    },
+    {
+      "topic": "publicly displayed power",
+      "final": "1st Fang initially, then 2nd Fang / Mid Sword Expert for the final strike",
+      "basis": "Chinese source and dedicated Baskerville swordsmanship progression; true hidden state remains Low Sword Graduator"
+    },
+    {
+      "topic": "Beelzebub slot chronology",
+      "final": "Do not update Slot 3 inside Chapter 19.",
+      "basis": "Chinese Chapter 20 is where the Troll-derived Superspeed Regeneration replacement is actually revealed"
+    }
+  ],
+  "notable_mtl_repairs": [
+    "corrected Troll C to C+",
+    "restored Le Rouge et Le Noir Mountain 2nd Ridge",
+    "canonicalized Superspeed Regeneration",
+    "restored 1st Fang instead of '1 meal' corruption",
+    "restored 2nd Fang / Mid Sword Expert instead of 'Two-Thirds' corruption",
+    "preserved delayed Chapter 20 Beelzebub slot reveal"
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
