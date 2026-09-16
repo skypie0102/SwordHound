@@ -1,0 +1,132 @@
+name: Inventory reprocessing sources
+
+on:
+  push:
+    branches:
+      - editorial/reprocess-0014-0125
+    paths:
+      - .github/workflows/inventory-reprocess.yml
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: editorial/reprocess-0014-0125
+          fetch-depth: 0
+
+      - name: Build inventories
+        shell: python
+        run: |
+          from pathlib import Path
+          import hashlib, json, re, subprocess
+
+          root = Path('.')
+          out = root / 'editorial' / 'reprocessing'
+          out.mkdir(parents=True, exist_ok=True)
+
+          source_rows = []
+          for chapter in range(1, 126):
+              ko = root / f'source/korean/chapters/{chapter:03d}.txt'
+              mtl = root / f'source/chapters/chapter-{chapter:03d}.xhtml'
+              def info(path):
+                  if not path.is_file():
+                      return None
+                  data = path.read_bytes()
+                  return {
+                      'path': path.as_posix(),
+                      'bytes': len(data),
+                      'sha256': hashlib.sha256(data).hexdigest(),
+                  }
+              ko_info = info(ko)
+              mtl_info = info(mtl)
+              source_rows.append({
+                  'chapter': chapter,
+                  'basis': 'korean_plus_mtl' if ko_info else 'mtl_only',
+                  'korean': ko_info,
+                  'mtl': mtl_info,
+              })
+
+          missing_korean = [r['chapter'] for r in source_rows if r['korean'] is None]
+          missing_mtl = [r['chapter'] for r in source_rows if r['mtl'] is None]
+          source_doc = {
+              'range': [1, 125],
+              'korean_present_count': sum(r['korean'] is not None for r in source_rows),
+              'korean_missing': missing_korean,
+              'mtl_missing': missing_mtl,
+              'chapters': source_rows,
+          }
+          (out / 'source-inventory-001-125.json').write_text(
+              json.dumps(source_doc, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          refs = subprocess.check_output(
+              ['git', 'for-each-ref', '--format=%(refname:short)', 'refs/remotes/origin/production/'],
+              text=True).splitlines()
+
+          claims = {}
+          for ref in refs:
+              name = ref.split('origin/', 1)[-1]
+              nums = [int(x) for x in re.findall(r'(?<!\d)(\d{4})(?!\d)', name)]
+              if len(nums) >= 2:
+                  lo, hi = nums[-2], nums[-1]
+              elif len(nums) == 1:
+                  lo = hi = nums[0]
+              else:
+                  continue
+              if lo > hi:
+                  lo, hi = hi, lo
+              for chapter in range(max(14, lo), min(125, hi) + 1):
+                  claims.setdefault(chapter, []).append(name)
+
+          baseline_rows = []
+          for chapter in range(14, 126):
+              candidates = claims.get(chapter, [])
+              records = []
+              for branch in candidates:
+                  ref = f'origin/{branch}'
+                  paths = {
+                      'draft': f'manuscript/drafts/chapter-{chapter:04d}.md',
+                      'edit_set': f'editorial/edits/chapter-{chapter:04d}.json',
+                      'qa_json': f'qa/chapter-{chapter:04d}.json',
+                      'review': f'editorial/reviews/chapter-{chapter:04d}.md',
+                      'final_review': f'editorial/reviews/chapter-{chapter:04d}-final.md',
+                  }
+                  present = {}
+                  for kind, path in paths.items():
+                      probe = subprocess.run(['git', 'cat-file', '-e', f'{ref}:{path}'], capture_output=True)
+                      present[kind] = path if probe.returncode == 0 else None
+                  records.append({'branch': branch, 'files': present})
+              baseline_rows.append({
+                  'chapter': chapter,
+                  'claimed_branches': records,
+                  'has_production_baseline': any(
+                      r['files']['draft'] or r['files']['edit_set'] for r in records),
+              })
+
+          baseline_doc = {
+              'range': [14, 125],
+              'production_branches_scanned': refs,
+              'chapters': baseline_rows,
+          }
+          (out / 'production-baselines-0014-0125.json').write_text(
+              json.dumps(baseline_doc, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          md = ['# Reprocessing source inventory — Chapters 1–125', '']
+          md.append(f"- Korean raws present: **{source_doc['korean_present_count']}/125**")
+          md.append('- Missing Korean raws: ' + (', '.join(map(str, missing_korean)) if missing_korean else 'none'))
+          md.append('- Missing MTL chapters: ' + (', '.join(map(str, missing_mtl)) if missing_mtl else 'none'))
+          md.append('')
+          md.append('Chapters without a Korean raw must be reviewed from the recovered MTL only and explicitly marked `mtl_only`; no Korean evidence may be claimed for them.')
+          (out / 'SOURCE-INVENTORY.md').write_text('\n'.join(md) + '\n', encoding='utf-8')
+
+      - name: Commit inventories
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editorial/reprocessing
+          git commit -m "editorial: inventory sources through chapter 125"
+          git push origin HEAD:editorial/reprocess-0014-0125
