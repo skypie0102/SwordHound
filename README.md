@@ -4,14 +4,18 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 ## Current source policy
 
-As of **2026-09-16**, the project has restarted from **Chapter 1** with the user-supplied Chinese raws as the primary source of truth. The previously used Korean raws were themselves translated from the Chinese material and are no longer part of the active repository or workflow.
+As of **2026-09-16**, the project uses the user-supplied Chinese raws as the primary source of truth. The previously used Korean raws were themselves translated from the Chinese material and are no longer part of the active repository or workflow.
+
+**Current checkpoint: 1 / 500 accepted; next Chapter 2.** Chapter 1 (*Hellhound (1)*) has been rebuilt and QA'd under the Chinese-first workflow.
 
 - `source/chinese/chapters/` — primary text source for the 500-chapter target edition.
 - `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus. It is a secondary reference, and the sole text source only when a Chinese raw is unavailable.
-- `source/chinese/chapter-exceptions.tsv` — missing/combined raw exceptions and any verified English-MTL alignment.
+- `source/chinese/chapter-exceptions.tsv` — missing/combined raw exceptions and verified nontrivial English-MTL alignments.
 - `editorial/SOURCES.md` and `editorial/WORKFLOW.md` — authoritative source and editorial procedures.
-- `editorial/chapter-tracker.json` — reset 500-chapter tracker.
-- `PROJECT_STATE.md` / `PROGRESS.md` — current checkpoint.
+- `editorial/chapter-tracker.json` — current 500-chapter tracker.
+- `PROJECT_STATE.md` / `PROGRESS.md` — current checkpoint and work log.
+- `manuscript/drafts/chapter-0001.md` — accepted Chinese-first Chapter 1 draft.
+- `qa/chapter-0001.md` — Chapter 1 source comparison and QA record.
 
 The Chinese corpus contains **492 physical files covering 499 of 500 target chapters**. Chapter **55** is the only confirmed missing Chinese raw and therefore uses the English MTL as its source. Seven physical files contain two target chapters each; they are intentionally retained intact because the raw files do not expose a reliable second-chapter boundary on their own. The English output must nevertheless remain one translated chapter per target chapter.
 
