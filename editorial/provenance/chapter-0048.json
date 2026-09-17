@@ -1,0 +1,89 @@
+{
+  "chapter": 48,
+  "title": "The Husband Hunt (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/048.txt",
+    "blob_sha": "d6b3593e2fdb18e22f3279872afa515c1f7d6e18",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-048.xhtml",
+    "blob_sha": "4d2f292ef1a7fc3701b1af13874a27d1b2d2fe81",
+    "target_alignment": 48,
+    "alignment_status": "verified_by_slave_auction_captive_recognition_ballak_withdrawal_night_pursuit_silence_spell_and_camus_camp_rescue_setup",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "purpose": "new Slaves of the Savage Tribe title family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ballak Tribe",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ballak Tribe"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Camus Morgue",
+        "Adolf Morgue",
+        "Staffordshire Baskerville",
+        "Highbro Le Baskerville",
+        "Middlebro Le Baskerville",
+        "Lowbro Le Baskerville",
+        "Le Rouge et Le Noir Mountain"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0048.md",
+    "blob_sha": "11125e08c987906ac3f57329afa6c9b88681683a"
+  },
+  "qa": {
+    "path": "qa/chapter-0048.md",
+    "blob_sha": "a8ce8f8ccda336b45e2f36cb30e7d1eba94b52fc",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "aiyen_chronology",
+      "final": "the returning slave-auction captive is recognized but still not personally named",
+      "basis": "Chinese Chapter 48 reveal order"
+    },
+    {
+      "topic": "camus_captivity",
+      "final": "naked/bound/collared captivity retained nonsexually; Chinese explicitly says no beating or other abuse",
+      "basis": "Chinese Chapter 48 source"
+    },
+    {
+      "topic": "adolf_kinship",
+      "final": "Camus is Adolf's niece; masculine/nephew raw drift normalized",
+      "basis": "established family identity"
+    },
+    {
+      "topic": "nephew_in_law",
+      "final": "侄女婿 rendered nephew-in-law as Adolf's marriage joke",
+      "basis": "Chinese semantics; recovered-English nephew rejected"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
