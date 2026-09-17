@@ -9,6 +9,18 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Social Club additions — Chapters 32–34
+
+- **Burning Suspension** — accepted club name for the elite 69th–70th-floor Underdog City social club; supported by current indexed Fandom evidence.
+- **Messinadnaro Family** — accepted name for the removed eighth local/merchant family referenced in Ch. 32. Do not import later destruction details before the Chinese reveals them.
+- **Youth Self-Governance Committee** — descriptive rendering for the local heirs’ civic organization. Do not promote corrupted Chinese/MTL syllables into a false canonical proper noun.
+- **Montblanc / Pierre / Louis Vuitton / Chanel / Ferragamo / Hermes / Prada** — seven active local-house spellings retained from Chinese/transliterated witnesses. Treat as source-controlled unless stronger dedicated Fandom entries are found.
+- **Donquixote Perignon 666** — source fictional luxury champagne label in Ch. 32; not independently promoted as a Fandom-canonical term.
+- **Sword Graduator** — established rank used in Ch. 33; recovered-English `Gradient` is rejected.
+- Chapter 32 champagne tower = **385 glasses**: 100 + 81 + 64 + 49 + 36 + 25 + 16 + 9 + 4 + 1. Isolated later Chinese `80` on the 9×9 explosion tier is a source slip; preserve 81.
+- Chapter 34’s isolated line assigning the Deputy Magistrate role to **Hugo** is referent drift; immediate continuity establishes **Vikir** as the intended subject.
+- Chapter 34 evidence-manufacturing line, executions, mutilation penalties, and Age-of-Destruction torture references remain explicit and source-controlled.
+
 ## Special Laws of Vikir additions — Chapters 28–31
 
 - **Underdog City** — accepted canonical city name; Vikir serves as **Deputy Magistrate** and, while the higher seat is vacant, effectively **Acting Magistrate**.
@@ -17,9 +29,9 @@ This register follows the restarted 2026-09-16 workflow:
 - **Vikir's Special Law / Special Laws of Vikir** — title-family/legal label. Article 1 Sections 1–3 escalate the stake reward from 100,000,000 → 1,000,000,000 → **10,000,000,000 gold total**.
 - **Judy** — female flower seller in Ch. 30; recovered-English male pronouns are MTL drift.
 - **Trust Won by Moving the Stake** — descriptive rendering of `移木之信` in Ch. 31; not claimed as a Fandom-canonical proper title.
-- **Kamu Morgue** — separate future Morgue ruler referenced in Ch. 31. Do **not** replace with Camus Morgue; the recovered English does so incorrectly and later Chinese continuity independently supports Kamu as distinct.
+- **Kamu Morgue** — separate future Morgue ruler referenced in Ch. 31. Do **not** replace with Camus Morgue.
 - **Heaven-Tilting Martial Marquis** — provisional/source-descriptive rendering of `侧天武侯` for Kamu. Recheck if stronger canonical English evidence appears.
-- Ch. 29 statute punishments remain source-controlled and explicit: drowning for smuggling; extermination of three clans for military-supply embezzlement; other bodily punishments as documented in chapter QA. Do not import MTL errors such as `waterboarding` or `three legs`.
+- Ch. 29 statute punishments remain source-controlled and explicit: drowning for smuggling; extermination of three clans for military-supply embezzlement; other bodily punishments as documented in chapter QA.
 
 ## The Graduate additions — Chapters 26–27
 
@@ -28,7 +40,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Oxbear** — accepted monster name. Ch. 26 window: Danger Rating **A**, **5 m**, **Le Rouge et Le Noir Mountain, 7th Ridge**. Surrounding narrative separately gives the captive specimen as roughly **800 kg / 3 m**; preserve both source measurements.
 - **Doberman Knights / Pit Bull Knights / Rottweiler Knights / Wolfhound Knights / Shepherd Knights / Mastiff Knights** — accepted recognized Baskerville order names where invoked.
 - **Colosseo Academy** — accepted canonical academy name.
-- **Deputy Magistrate of Underdog City** — accepted canonical operational office for Vikir from Ch. 27. Chinese lower-/upper-council terminology remains descriptive and is not forced into modern parliamentary language.
+- **Deputy Magistrate of Underdog City** — accepted canonical operational office for Vikir from Ch. 27.
 - Ch. 26 public Vikir = **High Sword Expert / 3rd Fang**; hidden Vikir = **Mid Sword Graduator / 5th Fang**.
 
 ## Camus Morgue family additions — Chapters 20–25
@@ -55,6 +67,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Baskerville Trident** | Accepted contextual label for the triplets where source invokes it. |
 | **Cain Baskerville / Abel Baskerville** | Accepted in Ch. 12. Cain survives/leaves note; Abel is the dead younger twin. |
 | **Chihuahua Baskerville** | Accepted from Ch. 28; male outsider-born administrator / General Secretary. |
+| **Messinadnaro Family** | Accepted from Ch. 32; removed eighth local/merchant house, chronology-scoped. |
 
 ## Sword / magic ranks and Fangs
 
@@ -66,7 +79,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Sword Master** | Accepted. Solid/shapeable aura; roughly 7th-Circle equivalent. |
 | **Sword↔mage equivalence** | Low/Mid/High Expert = 1st/2nd/3rd Circle; Low/Mid/High Graduator = 4th/5th/6th Circle; Sword Master = 7th Circle. |
 | **Baskerville Fang Sword Style / numbered Fangs** | Accepted; supersedes earlier `Forms`. Mapping: 1st=Low Expert, 2nd=Mid Expert, 3rd=High Expert, 4th=Low Graduator, 5th=Mid Graduator, 6th=High Graduator, 7th=Sword Master. |
-| **Stabbing Fang** | Accepted contextual Fang label; dedicated progression evidence controls rank/Fang mapping where Fandom pages conflict. |
+| **Stabbing Fang** | Accepted contextual Fang label. |
 
 ## Places / institutions / texts
 
@@ -82,6 +95,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Colosseo Academy** | Accepted from Ch. 26. |
 | **Underdog City** | Accepted from Ch. 27. |
 | **Dortmeyer Street** | Retained Ch. 29. |
+| **Burning Suspension** | Accepted club/location from Ch. 32. |
 
 ## Monsters / Beelzebub abilities
 
@@ -123,6 +137,8 @@ This register follows the restarted 2026-09-16 workflow:
 - Ch. 26 hidden Vikir is **Mid Sword Graduator / 5th Fang**; one contradictory Chinese phrase is documented rather than silently followed.
 - Ch. 30 reward total = **10 billion gold** from the law's own arithmetic; isolated Chinese unit-conversion slips documented.
 - Ch. 31 **Kamu Morgue ≠ Camus Morgue**.
+- Ch. 32 385-glass tower uses 81 for the 9×9 tier; isolated Chinese 80 slip rejected.
+- Ch. 34 Deputy Magistrate referent = **Vikir**, not the isolated Chinese-layer `Hugo` drift.
 
 ## Accepted title-family evidence
 
@@ -135,6 +151,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Camus Morgue, Ch. 20–25:** `qa/families/camus-morgue-0020-0025.md`
 - **The Graduate, Ch. 26–27:** `qa/families/graduate-0026-0027.md`
 - **Special Laws of Vikir, Ch. 28–31:** `qa/families/special-laws-0028-0031.md`
+- **The Social Club, Ch. 32–34:** `qa/families/social-club-0032-0034.md`
 
 ## Canonical-reference access note
 
