@@ -310,7 +310,7 @@ They were nearly the same height, but at that moment she somehow looked much sma
 
 Vikir searched for something useful to say.
 
-“Don't grieve too much. She probably died quickly.”
+“Don't grieve too much. She should have gone peacefully.”
 
 Camus glared at him through tears.
 
