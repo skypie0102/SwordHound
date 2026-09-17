@@ -1,44 +1,47 @@
 # Reconstruction Progress
 
-## 2026-09-17 — Camus Morgue (1)–(6) accepted under restarted workflow
+## 2026-09-17 — The Graduate (1)–(2) accepted under restarted workflow
 
-**Current state:** 25 / 500 accepted; 0 staged; next Chapter 26.
+**Current state:** 27 / 500 accepted; 0 staged; next Chapter 28.
 
-Completed the seventh contiguous title-family batch:
+Completed the eighth contiguous title-family batch:
 
-- Chapter 20 — *Camus Morgue (1)*
-- Chapter 21 — *Camus Morgue (2)*
-- Chapter 22 — *Camus Morgue (3)*
-- Chapter 23 — *Camus Morgue (4)*
-- Chapter 24 — *Camus Morgue (5)*
-- Chapter 25 — *Camus Morgue (6)*
+- Chapter 26 — *The Graduate (1)*
+- Chapter 27 — *The Graduate (2)*
 
-The family boundary was verified from both Chinese and recovered-English headings; Chapter 26 changes to *The Graduate (1)* and begins after a seven-year timeskip. English references 20→20 through 25→25 were independently verified by complete scene sequence and endpoints.
+The family boundary was verified from both Chinese and recovered-English headings; Chapter 28 changes to *Special Laws of Vikir (1)*. English references 26→26 and 27→27 were independently verified by complete scene sequence and endpoints.
 
 Major editorial/canonical work:
 
-- rebuilt Chapter 20's sword-rank ↔ mage-circle, age-milestone, and Fang-rank formula blocks;
-- preserved public Vikir = **Mid Sword Expert / 2nd Fang** versus hidden Vikir = **Low Sword Graduator / 4th Fang**, approaching Fifth Fang;
-- moved Beelzebub Slot 3 to canonical **Superspeed Regeneration — Troll (C+)** at the exact Chapter 20 reveal point;
-- canonicalized **Camus Morgue**, **Adolf Morgue**, **Raspane Morgue**, **Osiris Le Baskerville**, and **Morgue Clan**;
-- rebuilt the ruby-mine border geometry and preserved prior covert tunneling/bloodshed;
-- kept Chapter 22's future Camus retrospective only to the facts the Chinese itself reveals, including **Ironblood Empress**, while excluding later wiki-only spoilers;
-- canonicalized **Quadra Casting / Fireball / Ice Sphere / Thunder Ring / Mud Wall** for Camus's Chapter 23 duel;
-- rendered the Chapter 24 clothing accident involving two eight-year-olds neutrally/non-sexually without deleting source-relevant events;
-- corrected the proposed Camus (8) / Osiris (20) marriage gap to **12 years**, rejecting recovered-English 17-year drift;
-- preserved Baskerville's explicit frontier policy of driving monsters/barbarians toward Morgue and hunting down fleeing hostile survivors;
-- preserved Vikir's old-life Adolf odds (~50% ambush/assassination, ~10% direct confrontation);
-- rebuilt Adolf's earth/fire/water pot handicap and shield magic;
-- preserved Vikir's deliberate sword-break solution: a fragment pierces the pot and spills water.
+- preserved the hard seven-year Chapter 25→26 timeskip;
+- canonicalized **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, recognized Baskerville knight-order names, and the established rank/Fang system;
+- preserved the Oxbear source inconsistency: roughly **800 kg / 3 m** in narrative versus **5 m** in the information window;
+- preserved explicit Oxbear killing, dissection, exposed organs, and raw flesh/organ consumption;
+- retained **3.5 years basic + 3.5 years practical** training and the expected roughly **21 months** of frontier experience;
+- corrected public fifteen-year-old Vikir to **High Sword Expert / 3rd Fang**;
+- resolved his hidden state as **Mid Sword Graduator / 5th Fang** from the passage's rank math plus current canonical progression evidence while documenting the source's isolated contradictory phrase;
+- kept Hugo's Chapter 27 female archer unnamed to protect reveal chronology;
+- preserved Vikir's expected old-life **Pit Bull Knights + frontier** route before Hugo diverts him to elite administration;
+- rendered the clan's civil structure descriptively rather than importing modern parliamentary terminology;
+- canonicalized **Deputy Magistrate of Underdog City** and preserved the city population of **500,000**;
+- preserved the vacancy logic involving Hugo's second son and the bribery-removed deputies;
+- preserved the seven-year-old ruby-mine reward promise while keeping the borrowed object deliberately unrevealed;
+- preserved Barrymore's interpretation of the appointment as leadership training and likely **Colosseo Academy** preparation.
 
-Family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
+Family QA: `qa/families/graduate-0026-0027.md` — **PASS**.
 
 Next verified family:
 
-- **Chapters 26–27 — The Graduate (1)–(2)**
-- Chapter 28 changes to **Special Laws of Vikir (1)**.
+- **Chapters 28–31 — Special Laws of Vikir (1)–(4)**
+- Chapter 32 changes to **The Social Club (1)**.
 
-Per the continuous-processing rule, work proceeds directly into Chapters 26–27 after the Camus Morgue merge.
+Per the continuous-processing rule, work proceeds directly into Chapters 28–31 after the Graduate merge.
+
+## 2026-09-17 — Camus Morgue (1)–(6) accepted under restarted workflow
+
+**Checkpoint at that time:** 25 / 500 accepted; next Chapter 26.
+
+Completed Chapters 20–25. Major decisions include Camus/Adolf/Raspane/Osiris canonicalization, public Mid Sword Expert / hidden Low Sword Graduator separation, Troll Superspeed Regeneration reveal timing, Quadra Casting and spell terminology, the 12-year Camus–Osiris proposed-engagement gap, explicit Baskerville frontier pursuit doctrine, and Vikir's deliberate broken-sword fragment solution. Family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
 
 ## 2026-09-17 — Bared Teeth (1)–(2) accepted under restarted workflow
 
