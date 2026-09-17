@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 51,
+  "accepted_chapters": 54,
   "staged_chapters": 0,
-  "next_chapter": 52,
+  "next_chapter": 55,
   "latest_accepted_family": {
-    "name": "The Husband Hunt",
-    "range": [
-      46,
-      51
-    ],
-    "family_qa": "qa/families/husband-hunt-0046-0051.md"
-  },
-  "next_title_family": {
     "name": "Slaves of the Savage Tribe",
     "range": [
       52,
       54
     ],
-    "boundary_status": "verified_from_chinese_and_recovered_english_title_sequence",
-    "following_family_starts": 55,
-    "following_title": "The Hunter and the Hunted (1)",
-    "following_source_note": "Chinese Chapter 55 raw is missing; recovered English 55 is the verified fallback."
+    "family_qa": "qa/families/slaves-savage-tribe-0052-0054.md"
+  },
+  "next_title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "boundary_status": "verified_target_family_from_english_55_fallback_plus_chinese_56_60; recovered English numbering shifts by the end of the family and must be content-aligned",
+    "following_family_starts": 61,
+    "following_chinese_title": "丰收节的主角 (1)",
+    "alignment_note": "Chinese target 60 content matches recovered English 59; Chinese target 61 content matches recovered English 60."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -111,15 +111,19 @@
     48,
     49,
     50,
-    51
+    51,
+    52,
+    53,
+    54
   ],
   "notes": [
-    "Chapters 46-51 are accepted as the complete The Husband Hunt title family after Chinese-first chapter QA and family continuity QA.",
-    "Targets 46-51 map to recovered English 46-51 by complete content alignment.",
-    "Chapter 49 contains a verified localized Chinese raw gap; only the missing Aiyen/Ahun/husband-hunt connective block is restored from aligned recovered English.",
-    "Chapter 51 corrects an isolated broad-daylight slip to the continuously established night setting and ends with Vikir exposing five Fangs / Mid Sword Graduator power to Camus and the Baskerville triplets.",
-    "Aiyen and Ahun enter canonically in the Chapter 49 camp setup; Divine Archer Adonai and Madam Eight-Legs are source-revealed in Chapters 50-51, while the contemporary Night Fox remains unidentified.",
-    "The next verified family is Chapters 52-54, Slaves of the Savage Tribe (1)-(3). Chinese Chapter 55 is genuinely missing; recovered English Chapter 55 begins The Hunter and the Hunted (1) and is the verified fallback source.",
+    "Chapters 52-54 are accepted as the complete Slaves of the Savage Tribe title family after Chinese-first chapter QA and family continuity QA.",
+    "Targets 52-54 map to recovered English 52-54 by complete content alignment despite title wording variation.",
+    "Chapter 52 preserves Vikir's post-Madam Eight-Legs injuries, River Styx/Tough Life/noose survival logic, Ballak village duality, and the explicit Thorn-Tree Punishment.",
+    "Chapter 53 source-reveals Akwilla as Aiyen's mother, Ballak chieftain, and current Night Fox; the earlier identity spoiler guard lifts only from this chapter forward.",
+    "Chapter 54 preserves Vikir's survival-era domestic skills, Ballak body/reproductive-health customs in factual non-erotic form, the toilet-culture joke, hunting rite, and Aiyen/Ahun slave-rule conflict.",
+    "Chinese Chapter 55 is genuinely missing. Target family The Hunter and the Hunted spans 55-60: recovered English 55 is the fallback for target 55, while later recovered-English numbering shifts and must be aligned by content.",
+    "Verified shift lead: Chinese target 60 matches recovered English 59; Chinese target 61 matches recovered English 60.",
     "Chinese raws control narrative/semantic content; English Fandom controls canonical English renderings for identified proper nouns where applicable.",
     "Every session must read and update HANDOFF.md."
   ]
