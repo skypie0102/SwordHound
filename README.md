@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **34 / 500 accepted; next Chapter 35.** Ten complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), and 32–34 (*The Social Club*).
+Current checkpoint: **37 / 500 accepted; next Chapter 38.** Eleven complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), and 35–37 (*Slave Auction*).
 
-The next verified family is **Chapters 35–37 — Slave Auction (1)–(3)**. Chinese Chapter 35 has an anomalous translated heading `拍卖场之花 (1)`, but recovered English 35 and Chinese 36–37 establish the numbered Slave Auction family. Chapter 38 changes to **Sponsor (1)**.
+The next verified family is **Chapters 38–39 — Sponsored (1)–(2)**. Chinese Chapter 40 changes to `米尔格家族的联合战线 (1)` and begins a new title family.
 
 ## Current source policy
 
@@ -38,29 +38,29 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Social Club family adds/revalidates:
+The accepted Slave Auction family adds/revalidates:
 
-- **Burning Suspension** — elite club in Underdog City.
-- **Messinadnaro Family** — removed eighth local/merchant house; later details remain chronology-scoped.
-- **Youth Self-Governance Committee** — descriptive rendering for the local heirs' organization.
-- **Sword Graduator** — established rank; recovered-English `Gradient` rejected.
-- Seven active local houses: **Montblanc, Pierre, Louis Vuitton, Chanel, Ferragamo, Hermes, Prada** — source/transliteration controlled where dedicated Fandom entries are unavailable.
-- Chapter 32 tower arithmetic: **385 glasses**, with the 9×9 tier fixed at **81** despite an isolated later Chinese `80` slip.
-- Chapter 34's isolated Hugo/Deputy-Magistrate referent is corrected to **Vikir** from immediate continuity.
+- **Freak Show** — clandestine auction/event wording used in the source.
+- **Chihuahua Montblanc** — Chihuahua’s cover identity for infiltration.
+- **Infernal Buffalo ‘Murcielago’** — source/aligned-English monster form; A-rank, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, nineteen hearts. No dedicated Fandom monster entry is claimed.
+- **Boston Terrier Le Baskerville** — accepted Fandom-backed commander of the **Pit Bull Knights**.
+- **Pit Bull Knights** — Chapter 36–37 force of 100 Sword Graduators temporarily loaned to Vikir by Hugo.
+- **Sword Graduator / 5th Fang** — established terminology; recovered-English `Gradient / Fifth Form` rejected.
+- The tribal girl and Baron Gambino’s secretary remain intentionally unnamed in Chapters 35–37 to protect reveal chronology.
 
-Earlier accepted terminology includes **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, recognized Baskerville knight-order names, and the established **Baskerville Fang Sword Style** rank/Fang system.
+Earlier accepted terminology includes **Burning Suspension**, **Messinadnaro Family**, **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–34**:
+Current accepted production evidence covers Chapters **1–37**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0034.md`
-- `qa/chapter-0001.md` through `chapter-0034.md`
-- accepted family QA through `qa/families/social-club-0032-0034.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0034.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0034.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0037.md`
+- `qa/chapter-0001.md` through `chapter-0037.md`
+- accepted family QA through `qa/families/slave-auction-0035-0037.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0037.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0037.json`
 
-Latest family QA: `qa/families/social-club-0032-0034.md` — **PASS**.
+Latest family QA: `qa/families/slave-auction-0035-0037.md` — **PASS**.
 
 ## Editorial quality bar
 
