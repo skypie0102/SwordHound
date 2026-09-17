@@ -1,5 +1,37 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Husband Hunt (1)–(6) accepted under restarted workflow
+
+**Current state:** 51 / 500 accepted; 0 staged; next Chapter 52.
+
+Completed the fifteenth contiguous title-family batch:
+
+- Chapter 46 — *The Husband Hunt (1)*
+- Chapter 47 — *The Husband Hunt (2)*
+- Chapter 48 — *The Husband Hunt (3)*
+- Chapter 49 — *The Husband Hunt (4)*
+- Chapter 50 — *The Husband Hunt (5)*
+- Chapter 51 — *The Husband Hunt (6)*
+
+Targets 46→46 through 51→51 were independently verified by complete content. Family QA: `qa/families/husband-hunt-0046-0051.md` — **PASS**.
+
+Major editorial/canonical work:
+
+- normalized raw-layer Camus/Rosie kinship drift against the already accepted Chapter 44 continuity rather than inventing a dead younger brother;
+- preserved the Ballak fortress raid, Camus's Quadra Casting, paralytic dart, four-Fang defense, capture, and the night rescue pursuit;
+- kept Camus's bound/naked prisoner state and coercion explicit but nonsexual, with no erotic embellishment;
+- documented a real physical Chinese raw gap in Chapter 49 and restored only the missing Aiyen/Ahun/husband-hunt connective passage from the aligned recovered-English witness;
+- accepted **Aiyen** and **Ahun** at their source-level naming point while excluding later biography/spoilers;
+- accepted **Divine Archer Adonai** while leaving the contemporary **Night Fox** unidentified;
+- accepted **Madam Eight-Legs**, **Danger Rating S**, and the nation-destroying threat level;
+- corrected the isolated Chapter 51 “broad daylight” slip to the repeatedly established nighttime setting;
+- preserved Vikir's staged-death plan and final hidden-strength reveal as **five Fangs / Mid Sword Graduator**, seen by Camus and the triplets.
+
+Next verified family:
+
+- **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**
+- Chinese Chapter 55 is genuinely missing; recovered English Chapter 55 begins **The Hunter and the Hunted (1)** and is the verified fallback.
+
 ## 2026-09-18 — The Fiancée (1)–(3) accepted under restarted workflow
 
 **Current state:** 45 / 500 accepted; 0 staged; next Chapter 46.

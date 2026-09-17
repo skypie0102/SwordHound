@@ -1,0 +1,81 @@
+{
+  "chapter": 46,
+  "title": "The Husband Hunt (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/046.txt",
+    "blob_sha": "325e92501828c070a163fed83b1ef0089f4beb27",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-046.xhtml",
+    "blob_sha": "04a250fc2c638a60e88f363a5e85ff81bd838c7f",
+    "target_alignment": 46,
+    "alignment_status": "verified_by_shared_meals_morgue_potatoes_future_survival_cooking_academy_talk_and_raid_alarm",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "purpose": "new Slaves of the Savage Tribe title family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Camus Morgue",
+        "Staffordshire Baskerville",
+        "Highbro Le Baskerville",
+        "Middlebro Le Baskerville",
+        "Lowbro Le Baskerville",
+        "Colosseo Academy",
+        "Rosie Morgue"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0046.md",
+    "blob_sha": "890f9bc15c6f33da72c3bfb68c0ed17162ac4f97"
+  },
+  "qa": {
+    "path": "qa/chapter-0046.md",
+    "blob_sha": "c08b3b3b085c52633f9bc6da22d77fceb90d132b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "rosie_kinship_drift",
+      "final": "recent bereavement remains Rosie Morgue, Camus's younger foster/adopted sister",
+      "basis": "Chinese/recovered layer's younger-brother wording conflicts with accepted Chapter 44 identity continuity"
+    },
+    {
+      "topic": "camus_attention",
+      "final": "repeated shared meals and political-marriage suspicion retained without later relationship outcome",
+      "basis": "Chinese Chapter 46 source chronology"
+    },
+    {
+      "topic": "morgue_potato",
+      "final": "magically improved high-nutrition potato prepared with salt, vinegar, Mentrake leaves, and Sabik juice",
+      "basis": "Chinese Chapter 46 source"
+    },
+    {
+      "topic": "baskerville_break",
+      "final": "Vikir still intends eventually to leave and destroy Baskerville",
+      "basis": "Chinese Chapter 46 explicit internal monologue"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

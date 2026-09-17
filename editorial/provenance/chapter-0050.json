@@ -1,0 +1,111 @@
+{
+  "chapter": 50,
+  "title": "The Husband Hunt (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/050.txt",
+    "blob_sha": "1b14b2ee6c95ca12e093288ffb064aaedd2220e0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-050.xhtml",
+    "blob_sha": "8de87a16c6295969054df6c2de4d0c9d40cedda8",
+    "target_alignment": 50,
+    "alignment_status": "verified_by_passed_question_ballak_history_adonai_night_fox_speculation_cure_poison_and_madam_eight_legs_arrival",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "purpose": "new Slaves of the Savage Tribe title family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Adonai",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Adonai",
+        "Divine Archer"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ballak Tribe",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ballak Tribe"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Aiyen",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Aiyen"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ahun",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ahun"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Hugo Le Baskerville",
+        "Adolf Morgue",
+        "Sword Graduator",
+        "Quovadis"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0050.md",
+    "blob_sha": "767c670a23f2c0e39886220a059f0bac4a754036"
+  },
+  "qa": {
+    "path": "qa/chapter-0050.md",
+    "blob_sha": "09f62418b9bb3c03358eb3e96c14cb589a23adbb",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "adonai",
+      "final": "canonical Adonai / Divine Archer used for the legendary Ballak warrior",
+      "basis": "indexed Fandom evidence plus Chinese source reveal"
+    },
+    {
+      "topic": "night_fox",
+      "final": "contemporary Night Fox remains unidentified",
+      "basis": "Chinese Chapter 50 only speculates; later Akwilla/Aiyen succession evidence chronology-blocked"
+    },
+    {
+      "topic": "three_calamaties_beyond_border",
+      "final": "境外三灾 kept descriptive pending stronger canonical evidence",
+      "basis": "Chinese semantic authority"
+    },
+    {
+      "topic": "camus_second_poison",
+      "final": "Vikir suspects another toxin; Adolf explicitly finds none",
+      "basis": "Chinese Chapter 50 contrast preserved without narrator-added explanation"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

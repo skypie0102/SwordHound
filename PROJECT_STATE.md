@@ -2,13 +2,13 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 45  
+**Accepted:** 51  
 **Staged:** 0  
-**Next chapter:** 46
+**Next chapter:** 52
 
 ## Current accepted checkpoint
 
-Fourteen complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
+Fifteen complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
 
 - Chapters 1–3 — *Hellhound (1)–(3)*
 - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
@@ -24,34 +24,29 @@ Fourteen complete title families have passed the restarted Chinese-semantic/Fand
 - Chapters 38–39 — *Sponsored (1)–(2)*
 - Chapters 40–42 — *Morgue's United Front (1)–(3)*
 - Chapters 43–45 — *The Fiancée (1)–(3)*
+- Chapters 46–51 — *The Husband Hunt (1)–(6)*
 
-Latest family QA: `qa/families/fiancee-0043-0045.md` — **PASS**.
+Latest family QA: `qa/families/husband-hunt-0046-0051.md` — **PASS**.
 
-Every accepted chapter has a Chinese-first draft, chapter QA, provenance, and hash-bound acceptance record. Recovered English MTL/XHTML is used only after title/content alignment and never overrides Chinese narrative meaning.
+Every accepted chapter has a Chinese-first draft, chapter QA, provenance, and hash-bound acceptance record. Recovered English MTL/XHTML is used only after title/content alignment and never overrides Chinese narrative meaning, except for a documented localized raw-gap repair in Chapter 49 and Chapter 55 where no Chinese raw exists.
 
-## The Fiancée family decisions
+## The Husband Hunt family decisions
 
-- Targets 43→43 through 45→45 were verified by complete scene sequence and endpoints.
-- **Camus Morgue** is fifteen in the current timeline; Highsis/Middlesis/Lowsis are one year older and still defer to her.
-- Chapter 43 follows the Chinese first-life recollection of Camus at **around thirteen** and rejects the recovered-English corruption `thirty`.
-- **Ballak Tribe** and **Rokoko Clan** use canonical English forms while Chinese controls chapter-specific semantics.
-- Camus's scorecard and future-husband-candidate claim are preserved; no later marriage result is imported.
-- The seven-year keepsake is consistently a **black Baskerville cloak**.
-- Chapter 44 preserves the Ballak's extreme archery, Adolf's serious chest wound, and the unnamed female sniper. Later evidence identifying that sniper as Akwilla is not imported before the source reveals it.
-- **Rosie Morgue** uses the canonical English name, but Chinese relationship wording controls: in this chapter Camus calls her a foster/adopted younger sister. Later cousin/resurrection material is excluded.
-- The Rokoko captive's true answer is **“Eaten.”** Rokoko cannibalism and Camus's iron-spike-and-fire execution remain explicit and unsanitized.
-- Vikir's awkward Ch. 44 comfort line is bound to **“She should have gone peacefully.”**
-- Chapter 45 follows Chinese over severe recovered-English gender/name corruption. Camus is the originator of the child-led negotiation and **marriage-alliance strategy**, initially nominating Highsis/Middlesis/Lowsis rather than herself.
-- The childhood clothing accident is retained as nonsexual embarrassment/first-crush context without added erotic detail.
-- Adolf's test retains the decisive mechanism: Vikir breaks Adolf's sword and a flying fragment shatters the water jar.
-- The black cloak becomes Camus's **first treasured possession**, not an object literally labeled `first love`; she keeps it unwashed for seven years.
+- Targets 46→46 through 51→51 were verified by complete scene sequence and endpoints.
+- Chapter 46 preserves Camus's repeated meal invitations, Vikir's political-marriage suspicion, Morgue's matriarchal labor split, and the magically improved potato/cooking sequence. Raw-layer recent-bereavement references to a “younger brother” are normalized to accepted **Rosie Morgue** continuity.
+- Chapter 47 preserves the Ballak raid, Camus's **Quadra Casting**, paralytic cactus dart, Vikir's **Sword Graduator** aura, **four Fangs**, and Camus's capture. The silver/black-haired Ballak woman remains unnamed through this chapter.
+- Chapter 48 identifies that woman only as the same captive Vikir freed at the slave auction, preserves the night pursuit and Adolf's **Silence** support spell, and renders Camus's bound/naked prisoner state nonsexually. Adolf's `侄女婿` is **nephew-in-law**.
+- Chapter 49 contains a verified physical Chinese raw gap. Only the missing connective block identifying **Aiyen / Ahun** and explaining the coercive Ballak husband-hunt custom is restored from the aligned recovered-English witness; Chinese resumes semantic authority immediately afterward.
+- Chapter 50 accepts **Divine Archer Adonai** and retains the contemporary **Night Fox** as unidentified. Later Akwilla/Aiyen succession spoilers are excluded.
+- Chapter 51 accepts **Madam Eight-Legs**, **Danger Rating S**, and the nation-destroying threat level. An isolated “broad daylight” phrase is corrected to the continuously established nighttime setting.
+- Chapter 51 ends with Vikir deliberately exploiting the crisis as a staged-death opportunity and revealing **five Fangs / Mid Sword Graduator** power to Camus and the Baskerville triplets only.
 
 ## Next verified title family
 
-- **Chapters 46–51 — The Husband Hunt (1)–(6)**
-- Chinese headings: Ch. 46 `丈夫狩猎 (1)`, Ch. 47 `婚姻狩猎 (2)` variant wording, Ch. 48–51 `丈夫狩猎 (3)–(6)`.
-- Recovered English Ch. 47 confirms **The Husband Hunt (2)**; the family numbering remains contiguous through Ch. 51.
-- Chinese Chapter 52 switches to `野蛮部落的奴隶 (1)`, establishing the next boundary.
+- **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**
+- Chinese headings: `野蛮部落的奴隶 (1)` through `(3)`.
+- Recovered English headings vary slightly between *Slaves of the Savage Tribe* and *Slave of the Barbarian Tribe* but align to the same three-part family.
+- Chinese Chapter 55 is genuinely missing; recovered English Chapter 55 begins **The Hunter and the Hunted (1)** and is the verified fallback source.
 
 ## Source authority
 
@@ -73,4 +68,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Merge the clean **The Fiancée (1)–(3), Chapters 43–45** checkpoint, branch from merged main for **The Husband Hunt, Chapters 46–51**, read complete Chinese 46–51 with Chapter 52 as the boundary witness, independently align recovered English 46–51 by complete content, revalidate all newly revealed Ballak/Morgue/Baskerville terminology and reveal chronology, reconstruct and QA the full six-part family, then continue onward without stopping at the PR.
+Merge the clean **The Husband Hunt (1)–(6), Chapters 46–51** checkpoint, branch from merged main for **Slaves of the Savage Tribe, Chapters 52–54**, read complete Chinese 52–54 with recovered-English 52–54 and Chapter 55 as the boundary/fallback witness, reconstruct and QA the full family, then continue directly into **The Hunter and the Hunted (1)** using the documented Chapter 55 English fallback.

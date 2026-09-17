@@ -1,0 +1,45 @@
+{
+  "chapter": 50,
+  "title": "The Husband Hunt (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/050.txt",
+    "primary_source_sha": "1b14b2ee6c95ca12e093288ffb064aaedd2220e0",
+    "english_reference_path": "source/chapters/chapter-050.xhtml",
+    "english_reference_sha": "8de87a16c6295969054df6c2de4d0c9d40cedda8",
+    "draft_path": "manuscript/drafts/chapter-0050.md",
+    "draft_sha": "767c670a23f2c0e39886220a059f0bac4a754036",
+    "qa_path": "qa/chapter-0050.md",
+    "qa_sha": "09f62418b9bb3c03358eb3e96c14cb589a23adbb",
+    "provenance_path": "editorial/provenance/chapter-0050.json",
+    "provenance_sha": "b363666411f8beab02efa6dc505b44c09ab1dea3"
+  },
+  "canonical_checks": [
+    "Ballak Tribe",
+    "Aiyen",
+    "Ahun",
+    "Adonai",
+    "Divine Archer",
+    "Hugo Le Baskerville",
+    "Adolf Morgue",
+    "Sword Graduator",
+    "Quovadis"
+  ],
+  "documented_limits": [
+    "Contemporary Night Fox remains unidentified; later Akwilla/Aiyen succession material is excluded.",
+    "境外三灾 remains descriptive as Three Calamities Beyond the Border pending stronger canonical evidence.",
+    "Vikir suspects a second poison in Camus, but Adolf explicitly finds none."
+  ]
+}

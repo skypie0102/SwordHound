@@ -1,0 +1,106 @@
+{
+  "chapter": 51,
+  "title": "The Husband Hunt (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/051.txt",
+    "blob_sha": "0b85b6565e7ac2009d9e413cba72e49e621d5e9e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-051.xhtml",
+    "blob_sha": "63ad5fc0d15370c4c1f12cae2c8c3dace426ca46",
+    "target_alignment": 51,
+    "alignment_status": "verified_by_madam_eight_legs_s_class_attack_staged_death_plan_five_fangs_and_mid_sword_graduator_reveal",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "purpose": "new Slaves of the Savage Tribe title family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Madam Eight-Legs",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Madam Eight-Legs",
+        "Danger Rating S"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Aiyen",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Aiyen"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ahun",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ahun"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Ballak Tribe",
+        "Camus Morgue",
+        "Staffordshire Baskerville",
+        "River Styx",
+        "Beelzebub",
+        "5th Fang",
+        "Mid Sword Graduator"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0051.md",
+    "blob_sha": "429c9af4d1e427789541037036d0647ab63a852d"
+  },
+  "qa": {
+    "path": "qa/chapter-0051.md",
+    "blob_sha": "89a7ae8c555c4fbcc4200ad66bb5b75bcc4d51c7",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "daylight_slip",
+      "final": "scene remains nighttime",
+      "basis": "isolated broad-daylight phrase contradicts repeated explicit night setting across Chapters 48-51"
+    },
+    {
+      "topic": "ten_techniques",
+      "final": "ten Baskerville sword techniques retained descriptively, not converted to unsupported 10th Fang",
+      "basis": "Chinese source wording"
+    },
+    {
+      "topic": "hidden_strength",
+      "final": "five Fangs / Mid Sword Graduator revealed to Camus and the triplets only",
+      "basis": "Chinese Chapter 51 endpoint; Adolf and Staffordshire do not witness it"
+    },
+    {
+      "topic": "staged_death",
+      "final": "Vikir deliberately uses Madam Eight-Legs crisis as an opportunity to fake death and leave Hugo's surveillance",
+      "basis": "Chinese Chapter 51 explicit plan"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
