@@ -1,0 +1,17 @@
+{
+  "chapter": 26,
+  "title": "The Graduate (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Graduate","range":[26,27],"family_qa_path":"qa/families/graduate-0026-0027.md","family_qa_sha":"13584c51f736e5768447eec82bf9929c23b59821","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/026.txt","primary_source_sha":"6920eefdb1a96d09fb192e54c63f9accef9e5312",
+    "english_reference_path":"source/chapters/chapter-026.xhtml","english_reference_sha":"4eed63b8033df0171e64a1c1b902aa359f0fca99",
+    "draft_path":"manuscript/drafts/chapter-0026.md","draft_sha":"e99bdbcc79fe7cbc4082f53983e1dd682abb9e1f",
+    "qa_path":"qa/chapter-0026.md","qa_sha":"a9ada25c6eb88b1b9707a9995f7c0cf352822b41",
+    "provenance_path":"editorial/provenance/chapter-0026.json","provenance_sha":"af3ce818fe65f8b330f3646bed5f786bf1686566"
+  },
+  "canonical_checks": ["Staffordshire Baskerville","Oxbear","Le Rouge et Le Noir Mountain","Colosseo Academy","Baskerville knight orders","Baskerville Fangs","Mid Sword Graduator"],
+  "documented_limits": ["The source itself gives the captive Oxbear as about 800 kg / 3 m in narrative while its information window says 5 m; both are preserved.","One Chinese phrase conflicts with the surrounding rank math; Vikir's hidden state is resolved as Mid Sword Graduator / 5th Fang from the passage as a whole plus current canonical progression evidence.","Public rumor remains High Sword Expert / 3rd Fang and is not collapsed into Vikir's hidden state."]
+}

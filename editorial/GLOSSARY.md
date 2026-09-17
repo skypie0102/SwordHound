@@ -9,6 +9,21 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Graduate family additions — Chapters 26–27
+
+- **Staffordshire Baskerville** — accepted; age 35 in Ch. 26, veteran Guide Dog/instructor, **Mid Sword Graduator**, capable of four Fangs.
+- **Stabbing Fang** — retained for Staffordshire's practiced hound swordsmanship; numbered Baskerville techniques remain **Fangs**, not Forms.
+- **Oxbear** — accepted monster name. Ch. 26 window: Danger Rating **A**, **5 m**, **Le Rouge et Le Noir Mountain, 7th Ridge**. The surrounding narrative separately describes the captive specimen as roughly **800 kg / 3 m**; preserve both source measurements.
+- **Doberman Knights / Pit Bull Knights / Rottweiler Knights / Wolfhound Knights / Shepherd Knights / Mastiff Knights** — accepted recognized Baskerville order names where Ch. 26 invokes them. Chinese's bull-mastiff expression is normalized to canonical **Mastiff Knights** unless later evidence establishes a distinct order.
+- **Colosseo Academy** — accepted canonical academy name.
+- **Underdog City** — accepted canonical city name.
+- **Deputy Magistrate of Underdog City** — accepted canonical operational office for Vikir from Ch. 27. Chinese lower-/upper-council terminology remains descriptive and is not forced into modern parliamentary language.
+- **Vikir public state at Ch. 26** — **High Sword Expert / 3rd Fang** rumor.
+- **Vikir true state at Ch. 26** — **Mid Sword Graduator / 5th Fang**. One isolated Chinese phrase conflicts with this, but the same passage places him two stages above High Sword Expert, comparable to Staffordshire, at five Fangs, and says becoming a complete Mid Graduator took longer than planned; current canonical progression evidence agrees.
+- **Underdog City population in Ch. 27** — **500,000**.
+- Hugo's skilled female archer in Ch. 27 remains **unnamed** at this reveal point.
+- Vikir's Ch. 27 reward request remains deliberately **unrevealed**; do not fill in the borrowed object from later knowledge.
+
 ## Camus Morgue family additions — Chapters 20–25
 
 - **Camus Morgue** — accepted current-era name; female; age eight at introduction. Chinese Chapter 22 itself invokes her future identity/title **Ironblood Empress**; later Fandom-only biography/faction/spouse spoilers remain excluded.
@@ -37,6 +52,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Adolf Morgue** | Accepted from Ch. 20. |
 | **Raspane Morgue** | Accepted from Ch. 20 context. |
 | **Osiris Le Baskerville / Young Patriarch** | Accepted from Ch. 20. |
+| **Staffordshire Baskerville** | Accepted from Ch. 26; Guide Dog/instructor. |
 | **Cain Baskerville / Abel Baskerville** | Accepted in Ch. 12. Cain survives/leaves note; Abel is the dead younger twin. |
 
 ## Sword / magic ranks and Fangs
@@ -49,8 +65,9 @@ This register follows the restarted 2026-09-16 workflow:
 | **Sword Master** | Accepted. Solid/shapeable aura; roughly 7th-Circle equivalent. |
 | **Sword↔mage equivalence** | Low/Mid/High Expert = 1st/2nd/3rd Circle; Low/Mid/High Graduator = 4th/5th/6th Circle; Sword Master = 7th Circle. Revalidated Ch. 20. |
 | **Baskerville Fang Sword Style / numbered Fangs** | Accepted; supersedes earlier `Forms`. Normal Ch. 20 mapping: 1st=Low Expert, 2nd=Mid Expert, 3rd=High Expert, 4th=Low Graduator, 5th=Mid Graduator, 6th=High Graduator, 7th=Sword Master. |
-| **Stabbing Fang** | Accepted contextual 1st-Fang label in Ch. 18. A separate Fandom page conflicts on some early descriptive Fang names; dedicated Baskerville swordsmanship progression controls rank/Fang mapping. |
+| **Stabbing Fang** | Accepted contextual Fang label in Ch. 18 and Staffordshire context in Ch. 26. A separate Fandom page conflicts on some early descriptive Fang names; dedicated Baskerville swordsmanship progression controls rank/Fang mapping. |
 | **Vikir true state at Ch. 20–25** | Hidden **Low Sword Graduator / stable 4th Fang**, with progress toward 5th Fang; public reputation remains **Mid Sword Expert / 2nd Fang**. |
+| **Vikir state at Ch. 26** | Public rumor **High Sword Expert / 3rd Fang**; hidden **Mid Sword Graduator / 5th Fang**. |
 
 ## Places / trials / books
 
@@ -63,6 +80,8 @@ This register follows the restarted 2026-09-16 workflow:
 | **10,000 Book Library** | Accepted Ch. 14–17. |
 | **Lurking Embedded Teeth** | Accepted scripture title Ch. 15–17. |
 | **Cradle of Needles** | Accepted contextual Vikir label in Ch. 11. |
+| **Colosseo Academy** | Accepted from Ch. 26. |
+| **Underdog City** | Accepted from Ch. 27. |
 | child-rearing / nursery castle | Descriptive rendering; MTL `Fang Castle` is not established as a proper canonical name. |
 
 ## Monsters / Beelzebub abilities
@@ -74,6 +93,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Cerberus** | A+, 7 m, Le Rouge et Le Noir Mountain 7th Ridge; **Hell's Watchdog**; source of **Incinerate**. |
 | **Orc** | Ch. 18: C, 2 m, lowlands; **High-Speed Regeneration**. |
 | **Troll** | Ch. 19: C+, 4 m, 2nd Ridge; **Superspeed Regeneration**. |
+| **Oxbear** | Ch. 26: A, info-window size 5 m, Le Rouge et Le Noir Mountain 7th Ridge; captive narrative specimen separately described as ~800 kg / 3 m. |
 | **Beelzebub** | Accepted Ch. 12 onward; canonical alias **The Fly of Gluttony**. `Gluttonous Blade` is a canonical reference term where context calls for the weapon title. |
 | **Hemorrhage** | Beelzebub ability from Hellhound (B+). |
 | **Incinerate** | Beelzebub ability from Cerberus (A+). |
@@ -86,13 +106,14 @@ This register follows the restarted 2026-09-16 workflow:
 - **Seven Great Families / Seven Great Clans** — accepted according to narrative context; do not import unrevealed clan details.
 - **Rok Empire** — accepted where referenced.
 - **Bloody Beans** — accepted Ch. 7–11.
-- **Guide Dog** — accepted survival-exam role.
+- **Guide Dog** — accepted survival-exam/training role.
 - **Pavlov Van Baskerville** — accepted Ch. 8 instructor/Guide Dog.
 - **Seven Calamities** — accepted Ch. 13.
 - **The Fly of Gluttony** — accepted Beelzebub title.
 - **Demon Realm / demons** — contextual translation: Chinese `魔界` → Demon Realm where it is the realm; `魔族` → demons/demon race contextually.
 - **Danger Rating** — accepted working label for monster info-window risk field.
 - **Le / La / Van particles** — accepted canonical naming distinctions; do not treat Van status as evidence of lesser actual talent.
+- **Deputy Magistrate** — accepted Ch. 27 operational civil office for Vikir in Underdog City.
 
 ## Important source / continuity decisions
 
@@ -104,6 +125,8 @@ This register follows the restarted 2026-09-16 workflow:
 - Ch. 20 revalidates public vs hidden strength and first reveals Troll-derived Slot 3.
 - Ch. 22 future Camus information is allowed only because Chinese itself narrates it; Fandom does not authorize additional spoilers.
 - Ch. 24 Baskerville frontier extermination/pursuit strategy is preserved without sanitization.
+- Ch. 26 advances seven years and moves Vikir's hidden state to **Mid Sword Graduator / 5th Fang** while public rumor is **High Sword Expert / 3rd Fang**.
+- Ch. 27 redirects Vikir from the expected Pit Bull/frontier path into **Deputy Magistrate of Underdog City**; Hugo's archer and Vikir's requested borrowed object remain unrevealed.
 
 ## Accepted title-family evidence
 
@@ -114,6 +137,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Solitary, Ch. 14–17:** `qa/families/solitary-0014-0017.md`
 - **Bared Teeth, Ch. 18–19:** `qa/families/bared-teeth-0018-0019.md`
 - **Camus Morgue, Ch. 20–25:** `qa/families/camus-morgue-0020-0025.md`
+- **The Graduate, Ch. 26–27:** `qa/families/graduate-0026-0027.md`
 
 ## Canonical-reference access note
 

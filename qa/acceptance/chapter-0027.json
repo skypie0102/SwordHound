@@ -1,0 +1,17 @@
+{
+  "chapter": 27,
+  "title": "The Graduate (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Graduate","range":[26,27],"family_qa_path":"qa/families/graduate-0026-0027.md","family_qa_sha":"13584c51f736e5768447eec82bf9929c23b59821","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/027.txt","primary_source_sha":"ce75a1a41c973c028aebeedf20aa1e366c7f2871",
+    "english_reference_path":"source/chapters/chapter-027.xhtml","english_reference_sha":"d38e9375af1faf9786857a8b1e925e1a8bbe8b18",
+    "draft_path":"manuscript/drafts/chapter-0027.md","draft_sha":"11803c08298fb1ddbeebe864dbdf1c6c9e192ecc",
+    "qa_path":"qa/chapter-0027.md","qa_sha":"a55b36b0ca8056822b71d1e65403d30d809096ed",
+    "provenance_path":"editorial/provenance/chapter-0027.json","provenance_sha":"8d03cb3f6ad88f082b2a6956c4667c8f243b893f"
+  },
+  "canonical_checks": ["Hugo Le Baskerville","Pit Bull Knights","Underdog City","Deputy Magistrate","Colosseo Academy","Head Butler John Barrymore"],
+  "documented_limits": ["Hugo's skilled female archer remains unnamed here to protect reveal chronology.","The object Vikir asks Hugo to lend him remains deliberately unrevealed.","Chinese lower-council/upper-council wording is rendered descriptively; the operational office is canonical Deputy Magistrate of Underdog City."]
+}

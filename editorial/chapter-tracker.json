@@ -1,15 +1,15 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 25,
+  "accepted_count": 27,
   "staged_count": 0,
-  "next_chapter": 26,
+  "next_chapter": 28,
   "active_title_family": {
-    "name": "The Graduate",
-    "range": [26, 27],
+    "name": "Special Laws of Vikir",
+    "range": [28, 31],
     "boundary_status": "verified_from_chinese_and_recovered_english_headings",
-    "following_family_starts": 28,
-    "following_title": "Special Laws of Vikir (1)"
+    "following_family_starts": 32,
+    "following_title": "The Social Club (1)"
   },
   "chapters": [
     {"chapter":1,"title":"Hellhound (1)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/001.txt","english_mtl_reference":"source/chapters/chapter-001.xhtml","draft":"manuscript/drafts/chapter-0001.md","qa":"qa/chapter-0001.md","provenance":"editorial/provenance/chapter-0001.json","acceptance":"qa/acceptance/chapter-0001.json","acceptance_sha":"09179b9ab590d05cfc0fc7ac03bad75a8a0df272","family_qa":"qa/families/hellhound-0001-0003.md"},
@@ -36,6 +36,8 @@
     {"chapter":22,"title":"Camus Morgue (3)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/022.txt","english_mtl_reference":"source/chapters/chapter-0022.xhtml","draft":"manuscript/drafts/chapter-0022.md","qa":"qa/chapter-0022.md","provenance":"editorial/provenance/chapter-0022.json","acceptance":"qa/acceptance/chapter-0022.json","acceptance_sha":"dc3de53413f9fd13374349d151e8b38327bbf999","family_qa":"qa/families/camus-morgue-0020-0025.md"},
     {"chapter":23,"title":"Camus Morgue (4)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/023.txt","english_mtl_reference":"source/chapters/chapter-0023.xhtml","draft":"manuscript/drafts/chapter-0023.md","qa":"qa/chapter-0023.md","provenance":"editorial/provenance/chapter-0023.json","acceptance":"qa/acceptance/chapter-0023.json","acceptance_sha":"34436625a1589dab8034d9dfbc49783aa582f1d3","family_qa":"qa/families/camus-morgue-0020-0025.md"},
     {"chapter":24,"title":"Camus Morgue (5)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/024.txt","english_mtl_reference":"source/chapters/chapter-0024.xhtml","draft":"manuscript/drafts/chapter-0024.md","qa":"qa/chapter-0024.md","provenance":"editorial/provenance/chapter-0024.json","acceptance":"qa/acceptance/chapter-0024.json","acceptance_sha":"69671aec11ba4c4dc750909a4fc086a9fc0c52e4","family_qa":"qa/families/camus-morgue-0020-0025.md"},
-    {"chapter":25,"title":"Camus Morgue (6)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/025.txt","english_mtl_reference":"source/chapters/chapter-0025.xhtml","draft":"manuscript/drafts/chapter-0025.md","qa":"qa/chapter-0025.md","provenance":"editorial/provenance/chapter-0025.json","acceptance":"qa/acceptance/chapter-0025.json","acceptance_sha":"b443fa796d780d644a824c0892bf55fdff24f7b1","family_qa":"qa/families/camus-morgue-0020-0025.md"}
+    {"chapter":25,"title":"Camus Morgue (6)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/025.txt","english_mtl_reference":"source/chapters/chapter-0025.xhtml","draft":"manuscript/drafts/chapter-0025.md","qa":"qa/chapter-0025.md","provenance":"editorial/provenance/chapter-0025.json","acceptance":"qa/acceptance/chapter-0025.json","acceptance_sha":"b443fa796d780d644a824c0892bf55fdff24f7b1","family_qa":"qa/families/camus-morgue-0020-0025.md"},
+    {"chapter":26,"title":"The Graduate (1)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/026.txt","english_mtl_reference":"source/chapters/chapter-026.xhtml","draft":"manuscript/drafts/chapter-0026.md","qa":"qa/chapter-0026.md","provenance":"editorial/provenance/chapter-0026.json","acceptance":"qa/acceptance/chapter-0026.json","acceptance_sha":"25bfccfed339694e4fa877531fd9272699a79ee3","family_qa":"qa/families/graduate-0026-0027.md"},
+    {"chapter":27,"title":"The Graduate (2)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/027.txt","english_mtl_reference":"source/chapters/chapter-027.xhtml","draft":"manuscript/drafts/chapter-0027.md","qa":"qa/chapter-0027.md","provenance":"editorial/provenance/chapter-0027.json","acceptance":"qa/acceptance/chapter-0027.json","acceptance_sha":"6d14aa7c6f84b794c3141b8aca847ac6612a336a","family_qa":"qa/families/graduate-0026-0027.md"}
   ]
 }
