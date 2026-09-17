@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **37 / 500 accepted; next Chapter 38.** Eleven complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), and 35–37 (*Slave Auction*).
+Current checkpoint: **39 / 500 accepted; next Chapter 40.** Twelve complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), 35–37 (*Slave Auction*), and 38–39 (*Sponsored*).
 
-The next verified family is **Chapters 38–39 — Sponsored (1)–(2)**. Chinese Chapter 40 changes to `米尔格家族的联合战线 (1)` and begins a new title family.
+The next verified family is **Chapters 40–42 — Morgue's United Front (1)–(3)**. Chinese and recovered English Chapter 43 change to **The Fiancée (1)**.
 
 ## Current source policy
 
@@ -38,29 +38,28 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Slave Auction family adds/revalidates:
+The accepted Sponsored family adds/revalidates:
 
-- **Freak Show** — clandestine auction/event wording used in the source.
-- **Chihuahua Montblanc** — Chihuahua’s cover identity for infiltration.
-- **Infernal Buffalo ‘Murcielago’** — source/aligned-English monster form; A-rank, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, nineteen hearts. No dedicated Fandom monster entry is claimed.
-- **Boston Terrier Le Baskerville** — accepted Fandom-backed commander of the **Pit Bull Knights**.
-- **Pit Bull Knights** — Chapter 36–37 force of 100 Sword Graduators temporarily loaned to Vikir by Hugo.
-- **Sword Graduator / 5th Fang** — established terminology; recovered-English `Gradient / Fifth Form` rejected.
-- The tribal girl and Baron Gambino’s secretary remain intentionally unnamed in Chapters 35–37 to protect reveal chronology.
+- **Cindywendy** — first revealed by name in Chapter 39.
+- **Messinadnaro Sen Cindywendy** — Chapter 39 true family identity; later-life material remains chronology-scoped and excluded.
+- **Messinadnaro Family** — the framed eighth local merchant family; Chapter 39 establishes the stolen-swordsmanship setup and the surviving daughter's connection.
+- Chapter 38 stray Korean `티오` = an available **vacancy/open slot**, rendered contextually as an open dungeon cell/space rather than a person named “Tio.”
+- The imperial anti-slave-hunting rationale remains source-faithful: fear of private military forces, rebellion, and coups.
+- Vikir's apology on behalf of Baskerville and Cindywendy's promise to finance him are preserved exactly at their Chapter 39 reveal point.
 
-Earlier accepted terminology includes **Burning Suspension**, **Messinadnaro Family**, **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
+Earlier accepted terminology includes **Freak Show**, **Infernal Buffalo ‘Murcielago’**, **Boston Terrier Le Baskerville**, **Pit Bull Knights**, **Burning Suspension**, **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–37**:
+Current accepted production evidence covers Chapters **1–39**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0037.md`
-- `qa/chapter-0001.md` through `chapter-0037.md`
-- accepted family QA through `qa/families/slave-auction-0035-0037.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0037.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0037.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0039.md`
+- `qa/chapter-0001.md` through `chapter-0039.md`
+- accepted family QA through `qa/families/sponsored-0038-0039.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0039.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0039.json`
 
-Latest family QA: `qa/families/slave-auction-0035-0037.md` — **PASS**.
+Latest family QA: `qa/families/sponsored-0038-0039.md` — **PASS**.
 
 ## Editorial quality bar
 
