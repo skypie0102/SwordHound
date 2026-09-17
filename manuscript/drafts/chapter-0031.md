@@ -126,7 +126,7 @@ Vikir gave a small nod.
 
 “You can't just get angry because the people distrust the law or look down on it. I needed something that would seize their attention and leave an impression they couldn't forget.”
 
-In fact, Vikir had borrowed the underlying idea from something that Kamu of the Morgue Clan would do much later.
+In fact, Vikir had borrowed the underlying idea from a performance Kamu of the Morgue Clan had used in his previous life.
 
 Kamu Morgue, later remembered by the epithet **Heaven-Tilting Martial Marquis**, became a terrifying ruler almost as soon as taking power and transformed the territory under Kamu's control into an uncompromising domain of law and order.
 
@@ -148,7 +148,7 @@ After the Generation of Destruction, the Morgue territory was said to have retai
 
 Vikir looked down at a map of Underdog City.
 
-“We just paid out more than ten billion gold in prize money. We need a way to fill that hole.”
+“With ten billion gold paid out as prize money, we need a way to fill that hole.”
 
 He picked up a pen and began drawing red X marks across the map.
 
