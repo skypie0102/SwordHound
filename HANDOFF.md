@@ -74,6 +74,7 @@ Current indexed English Fandom evidence establishes:
 - **Pit Bull Knights**, **Mastiff Knights**, **Doberman Knights**, **Shepherd Knights**, **Rottweiler Knights**, **Wolfhound Knights** — canonical Baskerville order names. Chinese Ch. 26 uses a bull-mastiff expression; normalize to canonical **Mastiff Knights** unless later source establishes a distinct seventh order.
 - **Baskerville Fang Sword Style** / numbered **Fangs**.
 - Dedicated Baskerville swordsmanship evidence supports **Stabbing Fang** as a canonical Fang name, while other Fandom martial-skill pages remain internally inconsistent; document conflicts rather than pretending uniformity.
+- Fandom's current Vikir Sword Progress table places Vikir at **Mid Sword Graduator in Novel Chapter 26, age 15**.
 
 ### Chapter 26 source decisions
 
@@ -81,12 +82,13 @@ Current indexed English Fandom evidence establishes:
 - **Staffordshire Baskerville**, age 35, is a **Mid Sword Graduator** veteran/Guide Dog in Chinese (`毕业者中级`).
 - Staffordshire's practiced hound swordsmanship is described as **Stabbing Fang** and he can draw four Fangs.
 - Oxbear window is atomic: **Danger Rating A**, **5 m**, **Le Rouge et Le Noir Mountain, 7th Ridge**; enormous horned bear, near-perfect terrestrial killing machine.
+- Narrative prose separately describes the captive specimen as roughly **800 kg / 3 m** before the window says **5 m**. Preserve this source inconsistency rather than silently collapsing the measurements.
 - The captive specimen is sub-adult and undernourished, making it more nervous/aggressive.
 - The trainees kill and butcher the Oxbear, then eat the raw meat/organs. Preserve this explicitly.
 - Training structure: 3.5 years basic + 3.5 years practical = seven years; next stage would be roughly **21 months** in undeveloped territory.
 - Young hounds discuss knight-order preferences; canonicalize recognized order names.
-- Public rumor about Vikir: **High Sword Expert / 3rd Fang** at age 15. The old MTL's vague/incorrect rank wording must not override Chinese.
-- Vikir's real hidden state has advanced **beyond Mid Sword Graduator** and he has mastered **five Fangs**; do not collapse this into his public rumor.
+- Public rumor about Vikir: **High Sword Expert / 3rd Fang** at age 15. The old MTL's vague/incorrect rank wording must not override Chinese rank semantics.
+- Vikir's real hidden state is **Mid Sword Graduator / 5th Fang**. Chinese contains one contradictory phrase saying he has gone beyond Mid Graduator, but the same passage says he is exactly two stages above High Sword Expert, comparable to Mid-Graduator Staffordshire, has five Fangs, and that becoming a complete Mid Graduator took longer than planned. Current Fandom progression independently confirms **Mid Sword Graduator at Chapter 26**. Resolve the contradiction in favor of the internally consistent rank math and canonical progression; document it in QA.
 - He is interested in **Colosseo Academy** not for prestige but because it lets him get away from Hugo, grow stronger, repay old-life debts, and obtain hidden relics.
 
 ### Chapter 27 source decisions
@@ -105,7 +107,7 @@ Current indexed English Fandom evidence establishes:
 ## Exact next actions
 
 1. Draft fresh Chinese-first Chapters 26–27 using the decisions above.
-2. QA Ch. 26 for Oxbear window, raw butchering/eating, training duration, knight orders, public-vs-hidden power, five-Fang state, Colosseo motivation.
+2. QA Ch. 26 for Oxbear window, 800 kg/3 m vs 5 m source inconsistency, raw butchering/eating, training duration, knight orders, public-vs-hidden power, five-Fang state, Colosseo motivation.
 3. QA Ch. 27 for Hugo's scar chronology, 21-month expected deployment, administrative-track semantics, Underdog City appointment, population 500,000, unrevealed reward request, Barrymore continuity.
 4. Run family QA including the seven-year 25→26 jump and 27→28 boundary.
 5. Create hash-bound provenance/acceptance.
