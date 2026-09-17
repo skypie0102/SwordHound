@@ -1,0 +1,17 @@
+{
+  "chapter": 43,
+  "title": "The Fiancée (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Fiancée","range":[43,45],"family_qa_path":"qa/families/fiancee-0043-0045.md","family_qa_sha":"932b45edb24e81340d6fee22b98348d44e782492","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/043.txt","primary_source_sha":"ae784307ac6946639434992c4fd9db247c5b5ad8",
+    "english_reference_path":"source/chapters/chapter-043.xhtml","english_reference_sha":"d11385e69ad861e41ffaac72cf41cd285d8d19df",
+    "draft_path":"manuscript/drafts/chapter-0043.md","draft_sha":"8a467170dbc48b3093620855bb890dbe80fea24d",
+    "qa_path":"qa/chapter-0043.md","qa_sha":"dd49ea3bd205e3d2c47714801ba3e9ed35c5f2a6",
+    "provenance_path":"editorial/provenance/chapter-0043.json","provenance_sha":"cf4e54eee332c4681981ed0dfda8ccbcd7770b91"
+  },
+  "canonical_checks": ["Camus Morgue","Raspane Morgue","Adolf Morgue","Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Ballak Tribe","Rokoko Clan","black Baskerville cloak"],
+  "documented_limits": ["Chinese around thirteen overrides recovered-English thirty.","Later Camus marriage/relationship spoilers are excluded.","Recovered-English cloak color corruption is rejected; Chinese black cloak controls."]
+}
