@@ -1,0 +1,20 @@
+{
+  "chapter": 22,
+  "title": "Camus Morgue (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/022.txt","blob_sha":"17f6cd386ca806da124b0de11909715de7944a3f","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-022.xhtml","blob_sha":"e68bf780fc6fc3ea98d4db202ca550454235b894","target_alignment":22,"alignment_status":"verified_by_vikir_entry_future_camus_retrospective_property_debate_paper_wall_arm_analogy_and_blade_cliffhanger","authority":"secondary_reference_only"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue","Ironblood Empress title only where Chinese itself reveals future Camus"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0022.md","blob_sha":"d0ac31bc3fffbf6f6c0305eec164f411dbca18d8"},
+  "qa": {"path":"qa/chapter-0022.md","blob_sha":"b3883173f41ffd8ccb0faab7d5c6a0bf07df6831","status":"pass"},
+  "documented_decisions": [
+    {"topic":"future_camus_scope","final":"translate only the future biography explicitly narrated by Chinese Chapter 22; exclude later Fandom-only spoilers","basis":"source authority and reveal chronology"},
+    {"topic":"child_interaction","final":"render Camus's embarrassment and brief thought that Vikir is cute as non-sexual childish novelty","basis":"Chinese source; no erotic embellishment"},
+    {"topic":"ownership_line","final":"Vikir claims Camus's arm after it crosses the boundary, not Camus herself","basis":"Chinese wording and following clarification"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

@@ -1,15 +1,15 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 19,
+  "accepted_count": 25,
   "staged_count": 0,
-  "next_chapter": 20,
+  "next_chapter": 26,
   "active_title_family": {
-    "name": "Camus Morgue",
-    "range": [20, 25],
+    "name": "The Graduate",
+    "range": [26, 27],
     "boundary_status": "verified_from_chinese_and_recovered_english_headings",
-    "following_family_starts": 26,
-    "following_title": "The Graduate (1)"
+    "following_family_starts": 28,
+    "following_title": "Special Laws of Vikir (1)"
   },
   "chapters": [
     {"chapter":1,"title":"Hellhound (1)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/001.txt","english_mtl_reference":"source/chapters/chapter-001.xhtml","draft":"manuscript/drafts/chapter-0001.md","qa":"qa/chapter-0001.md","provenance":"editorial/provenance/chapter-0001.json","acceptance":"qa/acceptance/chapter-0001.json","acceptance_sha":"09179b9ab590d05cfc0fc7ac03bad75a8a0df272","family_qa":"qa/families/hellhound-0001-0003.md"},
@@ -30,6 +30,12 @@
     {"chapter":16,"title":"Solitary (3)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/016.txt","english_mtl_reference":"source/chapters/chapter-016.xhtml","draft":"manuscript/drafts/chapter-0016.md","qa":"qa/chapter-0016.md","provenance":"editorial/provenance/chapter-0016.json","acceptance":"qa/acceptance/chapter-0016.json","acceptance_sha":"bb9b9039523c1e5c90c94ccb35efcebf8b778c3f","family_qa":"qa/families/solitary-0014-0017.md"},
     {"chapter":17,"title":"Solitary (4)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/017.txt","english_mtl_reference":"source/chapters/chapter-017.xhtml","draft":"manuscript/drafts/chapter-0017.md","qa":"qa/chapter-0017.md","provenance":"editorial/provenance/chapter-0017.json","acceptance":"qa/acceptance/chapter-0017.json","acceptance_sha":"cb8cca9d3e4c39094624d3bb97dce255cd0d6328","family_qa":"qa/families/solitary-0014-0017.md"},
     {"chapter":18,"title":"Bared Teeth (1)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/018.txt","english_mtl_reference":"source/chapters/chapter-018.xhtml","draft":"manuscript/drafts/chapter-0018.md","qa":"qa/chapter-0018.md","provenance":"editorial/provenance/chapter-0018.json","acceptance":"qa/acceptance/chapter-0018.json","acceptance_sha":"6700aa6ade3cb75144ba018d424f52259759c460","family_qa":"qa/families/bared-teeth-0018-0019.md"},
-    {"chapter":19,"title":"Bared Teeth (2)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/019.txt","english_mtl_reference":"source/chapters/chapter-019.xhtml","draft":"manuscript/drafts/chapter-0019.md","qa":"qa/chapter-0019.md","provenance":"editorial/provenance/chapter-0019.json","acceptance":"qa/acceptance/chapter-0019.json","acceptance_sha":"cedeab6407b3364e25fa22a42f5770ee90f2c76c","family_qa":"qa/families/bared-teeth-0018-0019.md"}
+    {"chapter":19,"title":"Bared Teeth (2)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/019.txt","english_mtl_reference":"source/chapters/chapter-019.xhtml","draft":"manuscript/drafts/chapter-0019.md","qa":"qa/chapter-0019.md","provenance":"editorial/provenance/chapter-0019.json","acceptance":"qa/acceptance/chapter-0019.json","acceptance_sha":"cedeab6407b3364e25fa22a42f5770ee90f2c76c","family_qa":"qa/families/bared-teeth-0018-0019.md"},
+    {"chapter":20,"title":"Camus Morgue (1)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/020.txt","english_mtl_reference":"source/chapters/chapter-020.xhtml","draft":"manuscript/drafts/chapter-0020.md","qa":"qa/chapter-0020.md","provenance":"editorial/provenance/chapter-0020.json","acceptance":"qa/acceptance/chapter-0020.json","acceptance_sha":"22eb767bce2f4ae28d668276b8e406c86dc2e9c0","family_qa":"qa/families/camus-morgue-0020-0025.md"},
+    {"chapter":21,"title":"Camus Morgue (2)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/021.txt","english_mtl_reference":"source/chapters/chapter-0021.xhtml","draft":"manuscript/drafts/chapter-0021.md","qa":"qa/chapter-0021.md","provenance":"editorial/provenance/chapter-0021.json","acceptance":"qa/acceptance/chapter-0021.json","acceptance_sha":"5ad09ddc620ff7c891bbc981323e4b923d33bf0a","family_qa":"qa/families/camus-morgue-0020-0025.md"},
+    {"chapter":22,"title":"Camus Morgue (3)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/022.txt","english_mtl_reference":"source/chapters/chapter-0022.xhtml","draft":"manuscript/drafts/chapter-0022.md","qa":"qa/chapter-0022.md","provenance":"editorial/provenance/chapter-0022.json","acceptance":"qa/acceptance/chapter-0022.json","acceptance_sha":"dc3de53413f9fd13374349d151e8b38327bbf999","family_qa":"qa/families/camus-morgue-0020-0025.md"},
+    {"chapter":23,"title":"Camus Morgue (4)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/023.txt","english_mtl_reference":"source/chapters/chapter-0023.xhtml","draft":"manuscript/drafts/chapter-0023.md","qa":"qa/chapter-0023.md","provenance":"editorial/provenance/chapter-0023.json","acceptance":"qa/acceptance/chapter-0023.json","acceptance_sha":"34436625a1589dab8034d9dfbc49783aa582f1d3","family_qa":"qa/families/camus-morgue-0020-0025.md"},
+    {"chapter":24,"title":"Camus Morgue (5)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/024.txt","english_mtl_reference":"source/chapters/chapter-0024.xhtml","draft":"manuscript/drafts/chapter-0024.md","qa":"qa/chapter-0024.md","provenance":"editorial/provenance/chapter-0024.json","acceptance":"qa/acceptance/chapter-0024.json","acceptance_sha":"69671aec11ba4c4dc750909a4fc086a9fc0c52e4","family_qa":"qa/families/camus-morgue-0020-0025.md"},
+    {"chapter":25,"title":"Camus Morgue (6)","status":"accepted","source_mode":"chinese_primary_fandom_canonical","chinese_source":"source/chinese/chapters/025.txt","english_mtl_reference":"source/chapters/chapter-0025.xhtml","draft":"manuscript/drafts/chapter-0025.md","qa":"qa/chapter-0025.md","provenance":"editorial/provenance/chapter-0025.json","acceptance":"qa/acceptance/chapter-0025.json","acceptance_sha":"b443fa796d780d644a824c0892bf55fdff24f7b1","family_qa":"qa/families/camus-morgue-0020-0025.md"}
   ]
 }
