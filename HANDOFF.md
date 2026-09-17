@@ -5,22 +5,22 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-17
-- **Updated by:** ChatGPT — The Social Club acceptance checkpoint
-- **Working branch:** `editorial/restart-social-club-family`
-- **Base main checkpoint:** `505fa91f5e48fcd682431630a13c848336ba76c3` (PR #15, Special Laws of Vikir 28–31, merged)
-- **Current PR:** #16 — `Rebuild The Social Club Chapters 32–34`
+- **Updated by:** ChatGPT — Slave Auction acceptance checkpoint
+- **Working branch:** `editorial/restart-slave-auction-family`
+- **Base main checkpoint:** `12a600168e75db84baa949dfaadb01f34b887e8b` (PR #16, The Social Club 32–34, merged)
+- **Current PR:** #17 — `Rebuild Slave Auction Chapters 35–37`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
 - **Target:** 500 chapters
-- **Accepted:** **34**
+- **Accepted:** **37**
 - **Staged:** **0**
-- **Next:** **Chapter 35**
-- **Latest accepted family:** **Chapters 32–34 — The Social Club (1)–(3)**
-- **Latest family QA:** `qa/families/social-club-0032-0034.md` — **PASS** — `e88bec6495040e957fec7e1393eb15d3f4c87e2c`
-- **Next family:** **Chapters 35–37 — Slave Auction (1)–(3)**
-- **Next-family boundary:** **VERIFIED**. Chapter 38 changes to **Sponsor (1)**.
+- **Next:** **Chapter 38**
+- **Latest accepted family:** **Chapters 35–37 — Slave Auction (1)–(3)**
+- **Latest family QA:** `qa/families/slave-auction-0035-0037.md` — **PASS** — `cf32e938cae2abdd3cc1892463b5edaf56b9ffba`
+- **Next family:** **Chapters 38–39 — Sponsored (1)–(2)**
+- **Next-family boundary:** **VERIFIED** from Chinese headings; Chapter 40 changes to `米尔格家族的联合战线 (1)`.
 
 Accepted families:
 1. 1–3 — *Hellhound (1)–(3)*
@@ -33,6 +33,7 @@ Accepted families:
 8. 26–27 — *The Graduate (1)–(2)*
 9. 28–31 — *Special Laws of Vikir (1)–(4)*
 10. 32–34 — *The Social Club (1)–(3)*
+11. 35–37 — *Slave Auction (1)–(3)*
 
 ## Rules that must not be lost
 
@@ -48,68 +49,62 @@ Accepted families:
 - Numbered Baskerville techniques are **Fangs**, not Forms.
 - Final browser/CSS/EPUB visual QA remains deferred to complete-EPUB assembly.
 
-## Accepted family — Chapters 32–34: The Social Club
+## Accepted family — Chapters 35–37: Slave Auction
 
 ### Immutable evidence
 
 | Ch. | Chinese SHA | English ref SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 32 | `bf20c4badf1293273a41ed24d938eff1077b4c57` | `b5bfe56c08798e17e4601864be33686a5f43fbbe` | `f90eef8a1a540636ac903ac22e3bee4ae5cdf5e5` | `940a0926493330e746f275b30b256df4f3bddede` | `ba7ab706fc77eb26dc5b8c37c7ae92611fce7f2a` | `ac66c133ab8cdcf51a23e4766e01e843a5e89e30` |
-| 33 | `a3f2ccd52eb78eb2a4769de9d8ce150b040a641f` | `29544810fe3c2d5fb7b088c4b4ef8c04fb03c6fd` | `1379e7eb224675d031a45369e493a687b203bae7` | `132d4c445759cd3c656878e9f5f58606288e5465` | `169a3cbfc87b16f8bab8fc86e3cfb1a7f51fb4e1` | `846d89f9f9d26b9eb13877de486796428fe9855c` |
-| 34 | `9c7259208f84aee63dd7b99850a8189145129d8c` | `2df34ee0c86cab6cc6599b828390d1e16573d97e` | `3c30ca807bfe0f186d7b07c7a9a91c3f31843150` | `dfb7f4ecc752753aaa26d9353ca43844f0eb6b0f` | `17ffaf551b6ea9ec6f7bfc0ab02439e6277080e6` | `e2b2f9bd82a87c60bcdee8dfba8ef91c77bc3a27` |
+| 35 | `6923567bc4710210eaac4dc6b7252d56ea557b7e` | `4817a300dea855bc448be223b70c84d69e1ff43f` | `4334e13c2cb25b322af22f13cd90698d44b68026` | `c6bf9e8d3abf1991ec1d306cc1305463731d7e4e` | `7cb1ad4725cd114ad3fdf91410d87127e761a333` | `66add4984a60dfe9ce680b486932f40467a9f3e2` |
+| 36 | `94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf` | `b4a7de354d870c31685419c8a011cd853ca5381d` | `f70bdea52bca018e94cd53d1e02f1ee87fcd0953` | `a1b543f3e84df1f2838f758c78e64d47dd4e2627` | `08c8bf3f09d47909ced9636186ccbb771745e167` | `ca02aef8dad869d7c08b4b2bb5092cbff43ca825` |
+| 37 | `fab7c365f52addab267414058f52bd31ba9515cb` | `ad9f97b0e15250e7cf96f301b0aa28c58a58796c` | `bfd323d93a26d6307cf699779e22c519b227075c` | `4de71f1c48bf06f2546367ed3306d13a6c1f6762` | `d70661435491c9711083740e26ae9d8d698a1051` | `03c01f4bb4487246a5b5a8f3ac219d67284ac536` |
 
-Target 32→MTL 32 through 34→MTL 34 were verified by complete content, not numbering alone.
+Target 35→MTL 35 through 37→MTL 37 were verified by complete content, not numbering alone.
 
 ### Accepted decisions
 
-- **Burning Suspension** is the elite Underdog City club; current indexed Fandom evidence supports the name.
-- **Messinadnaro Family** is the removed eighth merchant/local family referenced in Ch. 32; do not import later reveal details early.
-- Seven active houses: **Montblanc, Pierre, Louis Vuitton, Chanel, Ferragamo, Hermes, Prada**. These are source/transliteration controlled where dedicated canonical entries are not indexed.
-- The local heirs' organization is rendered descriptively as the **Youth Self-Governance Committee**.
-- Chapter 32 champagne tower = **385 glasses**. The 9×9 tier is **81**; the isolated later Chinese `80` is a source arithmetic slip.
-- Illegal slave trafficking, abduction, black-market income, and the waiter/table class-degradation scene remain explicit.
-- Vikir destroys the tower from the **top downward** through precise mana resonance.
-- Chapter 33 uses **Sword Graduator**, not recovered-English `Gradient`.
-- The stake beating, broken teeth, split lips/tongues, and continued blows remain explicit.
-- Chapter 34 preserves the seven executions, salted severed heads, cumulative mutilation penalties, eye removal, postmortem exile, and broader criminal charges.
-- Chinese Ch. 34 briefly says **Hugo** will not remain Deputy Magistrate; this is referent drift. Immediate continuity and aligned English establish **Vikir**.
-- The line that evidence may be found—or **manufactured** if necessary—is preserved without moral gloss.
-- The 100+ custom torture tools and Age-of-Destruction interrogation memories remain explicit.
+- Chinese Ch. 35 heading `拍卖场之花 (1)` is anomalous; Chinese Ch. 36–37 numbering plus complete English alignment establish **Slave Auction (1)–(3)** as the production family.
+- **Freak Show** is retained as the clandestine auction/event wording.
+- Chihuahua infiltrates under the cover identity **Chihuahua Montblanc**.
+- **Infernal Buffalo ‘Murcielago’** is retained from Chinese/transliterated source plus independently aligned English: A-rank, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, nineteen hearts. Do not claim a dedicated Fandom monster-name entry unless one is later verified.
+- Human trafficking, kidnapping, drugging, forced submission, sexual exploitation, mutilation, execution, and the auction patrons’ cruelty remain explicit.
+- The feral tribal girl remains **unnamed** in this family even though later canonical sources identify her. Reveal chronology controls.
+- Baron Gambino’s green-blond monocled secretary likewise remains **unnamed** until the Chinese reveals her identity.
+- Chapter 36 preserves Vikir’s staged sale as the premium final slave lot and Baron Gambino’s **6-billion-gold** winning bid.
+- Baron Gambino’s sexual groping of Vikir and Vikir’s violent retaliation are preserved without sanitization or embellishment.
+- Established terminology: **Sword Graduator / 5th Fang / Beelzebub / Pit Bull Knights**. Recovered-English `Gradient / Fifth Form` rejected.
+- Vikir’s red-tooth horn summons **100 Pit Bull Knights, all Sword Graduators**.
+- **Boston Terrier Le Baskerville** is accepted as Count/commander of the Pit Bull Knights from current Fandom evidence.
+- Chapter 37 preserves the purge order, the killings, and severed wrists/ankles of captured suspects who stay down.
+- Auction cash is confiscated for the city treasury; ledgers/contact records become evidence for follow-up raids.
+- Vikir frees the abused tribal girl after recognizing Cerberus-related wounds and leaves her a healing potion.
+- The family ends with Vikir locating Murcielago for Beelzebub while the Pit Bull purge continues outside.
 
-## Next family — Chapters 35–37: Slave Auction
+## Next family — Chapters 38–39: Sponsored
 
 ### Verified boundary
 
 Chinese:
-- Ch. 35 — `拍卖场之花 (1)` — `6923567bc4710210eaac4dc6b7252d56ea557b7e`
-- Ch. 36 — `奴隶拍卖 (2)` — `94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf`
-- Ch. 37 — `奴隶拍卖会 (3)` — `fab7c365f52addab267414058f52bd31ba9515cb`
-- Ch. 38 changes to `赞助商 (1)` — `172b7a69e9cd841c14d311aa0bafe03b998d9738`
+- Ch. 38 — `赞助商 (1)` — `172b7a69e9cd841c14d311aa0bafe03b998d9738`
+- Ch. 39 — `赞助商 (2)` — `00bff99e9c659823dc9bdcd0367e776c11c48e2b`
+- Ch. 40 changes to `米尔格家族的联合战线 (1)` — `d2758d17729fe7ef698710531ee80db1469bd077`
 
 Recovered English:
-- Ch. 35 — *Slave Auction (1)* — `4817a300dea855bc448be223b70c84d69e1ff43f`
-- Ch. 36 — *Slave Auction (2)* — `b4a7de354d870c31685419c8a011cd853ca5381d`
+- Ch. 38 — *Sponsored (1)* — `48267aed194d2bba467a9007c7d96b21de0deb73`
+- Ch. 39 — heading/content must still be independently read and aligned before editorial use.
 
-The Chinese Ch. 35 title wording is inconsistent with Ch. 36–37, but the numbering, scene continuity, and recovered-English headings establish a single three-part **Slave Auction** family.
-
-### Known Chapter 35 opening facts
-
-- Nighttime clandestine auction on Underdog City's outskirts.
-- Masked nobles/wealthy buyers; unregistered slaves include displaced tribespeople, nobles, and kidnapped commoners.
-- Auction brand/event uses **Freak Show** wording in the Chinese layer.
-- Chihuahua enters under a Montblanc identity/signature setup.
-- Ch. 35 introduces an A-rank three-eyed black buffalo monster whose English canonical name must be revalidated before drafting.
+Only the 38–39 Chinese family boundary and Ch. 38 recovered-English heading are established at this checkpoint. Complete content alignment remains mandatory.
 
 ## Exact next actions
 
-1. Final-check PR #16 and merge if clean.
-2. Create a fresh branch from merged main for **Slave Auction Chapters 35–37**.
-3. Read complete Chinese 35–37 and Chapter 38 boundary.
-4. Read complete recovered English 35–37 and independently verify mappings by opening/auction sequence/entities/endpoints.
-5. Revalidate **Freak Show**, Chihuahua's assumed identity, the A-rank buffalo monster, auction terminology, and any newly named characters against current Fandom evidence while protecting reveal chronology.
-6. Reconstruct all three chapters as one family; keep slave-trafficking and other explicit material source-faithful.
-7. Run per-chapter QA + family QA, bind provenance/acceptance, update all state surfaces, merge if clean.
-8. Continue immediately into **Sponsor (1)** at Chapter 38.
+1. Final-check PR #17 and merge if clean.
+2. Create a fresh branch from merged main for **Sponsored Chapters 38–39**.
+3. Read complete Chinese 38–39; use Chinese 40 as boundary witness.
+4. Read complete recovered English 38–39 and verify mappings by scene sequence/entities/endpoints rather than numbering alone.
+5. Revalidate any newly revealed proper names, sponsorship terminology, monsters/abilities, organizations, and family names against current Fandom evidence while protecting reveal chronology.
+6. Reconstruct both chapters as one family.
+7. Run per-chapter QA + family QA, bind provenance/acceptance, update tracker/status/project/progress/glossary/readme/handoff, merge if clean.
+8. Continue immediately into the Chapter 40 family.
 
 ## Persistent exceptions
 
