@@ -1,0 +1,24 @@
+{
+  "chapter": 32,
+  "title": "The Social Club (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Social Club","range":[32,34],"family_qa_path":"qa/families/social-club-0032-0034.md","family_qa_sha":"e88bec6495040e957fec7e1393eb15d3f4c87e2c","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/032.txt","blob_sha":"bf20c4badf1293273a41ed24d938eff1077b4c57","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-032.xhtml","blob_sha":"b5bfe56c08798e17e4601864be33686a5f43fbbe","target_alignment":32,"alignment_status":"verified_by_burning_suspension_champagne_tower_illegal_slave_income_vikir_entry_and_top_down_resonance","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/033.txt","blob_sha":"a3f2ccd52eb78eb2a4769de9d8ce150b040a641f","purpose":"continues same VVIP confrontation and seven-heir reaction"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Burning Suspension","retrieval_mode":"indexed_web_result","applies_to":["Burning Suspension"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Messinadnaro Family","retrieval_mode":"indexed_web_result","applies_to":["Messinadnaro Family"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Deputy Magistrate"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0032.md","blob_sha":"f90eef8a1a540636ac903ac22e3bee4ae5cdf5e5"},
+  "qa": {"path":"qa/chapter-0032.md","blob_sha":"940a0926493330e746f275b30b256df4f3bddede","status":"pass"},
+  "documented_decisions": [
+    {"topic":"club_name","final":"Burning Suspension","basis":"Chinese plus indexed Fandom location evidence"},
+    {"topic":"local_committee","final":"Youth Self-Governance Committee — descriptive","basis":"Chinese semantics; corrupted MTL syllables not promoted to proper noun"},
+    {"topic":"champagne_tower","final":"385 glasses; 9x9 tier = 81","basis":"chapter arithmetic; isolated later Chinese 80 slip corrected"},
+    {"topic":"criminal_income","final":"illegal slave trafficking and abduction remain explicit","basis":"Chinese Chapter 32"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

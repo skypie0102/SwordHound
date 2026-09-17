@@ -1,0 +1,17 @@
+{
+  "chapter": 32,
+  "title": "The Social Club (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Social Club","range":[32,34],"family_qa_path":"qa/families/social-club-0032-0034.md","family_qa_sha":"e88bec6495040e957fec7e1393eb15d3f4c87e2c","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/032.txt","primary_source_sha":"bf20c4badf1293273a41ed24d938eff1077b4c57",
+    "english_reference_path":"source/chapters/chapter-032.xhtml","english_reference_sha":"b5bfe56c08798e17e4601864be33686a5f43fbbe",
+    "draft_path":"manuscript/drafts/chapter-0032.md","draft_sha":"f90eef8a1a540636ac903ac22e3bee4ae5cdf5e5",
+    "qa_path":"qa/chapter-0032.md","qa_sha":"940a0926493330e746f275b30b256df4f3bddede",
+    "provenance_path":"editorial/provenance/chapter-0032.json","provenance_sha":"ba7ab706fc77eb26dc5b8c37c7ae92611fce7f2a"
+  },
+  "canonical_checks": ["Burning Suspension","Messinadnaro Family","Underdog City","Deputy Magistrate"],
+  "documented_limits": ["Seven active local-house names are source/transliteration controlled where individual Fandom entries are not indexed.","The Youth Self-Governance Committee is descriptive, not asserted as a canonical proper noun.","The isolated 80-glass Chinese slip is normalized to the chapter-established 81 for the 9x9 tier."]
+}

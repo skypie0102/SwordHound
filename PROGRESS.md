@@ -1,62 +1,67 @@
 # Reconstruction Progress
 
-## 2026-09-17 — Special Laws of Vikir (1)–(4) accepted under restarted workflow
+## 2026-09-17 — The Social Club (1)–(3) accepted under restarted workflow
 
-**Current state:** 31 / 500 accepted; 0 staged; next Chapter 32.
+**Current state:** 34 / 500 accepted; 0 staged; next Chapter 35.
 
-Completed the ninth contiguous title-family batch:
+Completed the tenth contiguous title-family batch:
 
-- Chapter 28 — *Special Laws of Vikir (1)*
-- Chapter 29 — *Special Laws of Vikir (2)*
-- Chapter 30 — *Special Laws of Vikir (3)*
-- Chapter 31 — *Special Laws of Vikir (4)*
+- Chapter 32 — *The Social Club (1)*
+- Chapter 33 — *The Social Club (2)*
+- Chapter 34 — *The Social Club (3)*
 
-The family boundary was verified from Chinese and recovered-English headings; Chapter 32 changes to *The Social Club (1)*. English references 28→28 through 31→31 were independently verified by complete scene sequence and endpoints.
+English references 32→32 through 34→34 were independently verified by complete content. Family QA: `qa/families/social-club-0032-0034.md` — **PASS**.
 
 Major editorial/canonical work:
 
-- preserved Vikir's one-day-early arrival at **Underdog City Hall** and his status as **Deputy Magistrate / Acting Magistrate**;
-- canonicalized **Chihuahua Baskerville** as a male outsider-born administrator / General Secretary rather than following recovered-English gender and office drift;
-- preserved the `wine and women` order as deliberate bait and kept the Chapter 28 scene in City Hall rather than inventing an Academy transition;
-- preserved both severe Baskerville statute blocks in Chapter 29 as atomic information windows;
-- corrected MTL punishment errors including **waterboarding → death by drowning** and **three legs → extermination of three clans**;
-- preserved the stake at about **70 cm / 3 kg**, driven roughly **10 cm** into the ground;
-- preserved the Article 1 reward escalation from **100 million → 1 billion → 10 billion gold total**;
-- retained Judy as female and preserved her poverty, limp, malnutrition, sick mother, flower-selling, public fear, and the crowd's near-riot without sanitization;
-- documented the Chinese layer's isolated payout unit-conversion slip and kept the internally coherent **10-billion** total established by the law itself;
-- preserved the core declaration: **“This is the law. It will be obeyed.”**;
-- preserved Chihuahua's plaque/calligraphy scene, his local loyalty and prior-life integrity, and Vikir asking rather than commanding him to teach calligraphy;
-- rejected the recovered-English substitution of **Camus Morgue** for the separate future ruler **Kamu Morgue**;
-- retained **Heaven-Tilting Martial Marquis** only as a provisional/source-descriptive rendering of `侧天武侯` pending stronger canonical evidence;
-- preserved Vikir's anti-corruption fiscal plan: seize criminal black money, return it to the treasury, strengthen welfare for the poor;
-- preserved the fly/bait motif that directly triggers the next Social Club family.
-
-Family QA: `qa/families/special-laws-0028-0031.md` — **PASS**.
+- accepted **Burning Suspension** from indexed Fandom evidence;
+- accepted **Messinadnaro Family** as the removed eighth local/merchant house while protecting later reveal chronology;
+- retained the seven active local-house spellings from Chinese/transliterated witnesses where dedicated canonical entries are not indexed;
+- rendered the local organization descriptively as the **Youth Self-Governance Committee**;
+- preserved the **385-glass** champagne tower and corrected the isolated Chinese `80` tier slip to the internally established **81** for 9×9;
+- preserved illegal slave trafficking as the hidden funding source and retained the waiters/table/champagne class-degradation scene without sanitization;
+- preserved Vikir's entrance, broken-arm/sub-second staff takedown, and top-down mana-resonance destruction of the tower;
+- corrected recovered-English **Gradient** to established **Sword Graduator** terminology;
+- preserved the stake beating and all explicit injuries in Chapter 33;
+- preserved Chapter 34's seven executions, salted severed heads, cumulative mutilation penalties, criminal charges, and postmortem exile;
+- corrected the Chinese translation-layer **Hugo-as-Deputy-Magistrate** referent to **Vikir** from immediate continuity and the aligned witness;
+- preserved Vikir's statement that evidence can be manufactured if necessary;
+- preserved the 100+ custom torture tools and Age-of-Destruction interrogation memories without sanitization.
 
 Next verified family:
 
-- **Chapters 32–34 — The Social Club (1)–(3)**
-- Chapter 35 changes to **Slave Auction (1)** in the recovered English index; Chinese title is `拍卖场之花 (1)`.
+- **Chapters 35–37 — Slave Auction (1)–(3)**
+- Chinese Chapter 35 has an anomalous translated heading `拍卖场之花 (1)`, but recovered English 35 and Chinese 36–37 establish the numbered **Slave Auction** family.
+- Chapter 38 changes to **Sponsor (1)**.
 
-Per the continuous-processing rule, work proceeds directly into Chapters 32–34 after the Special Laws merge.
+## 2026-09-17 — Special Laws of Vikir (1)–(4) accepted
 
-## 2026-09-17 — The Graduate (1)–(2) accepted under restarted workflow
+**Checkpoint at that time:** 31 / 500 accepted; next Chapter 32.  
+Family QA: `qa/families/special-laws-0028-0031.md` — **PASS**.
 
-**Checkpoint at that time:** 27 / 500 accepted; next Chapter 28.
+Major decisions: Underdog City / Deputy Magistrate terminology, Chihuahua Baskerville, deliberate City Hall bait, severe statute windows, 10-billion-gold stake law, Judy gender correction, Kamu Morgue ≠ Camus Morgue, provisional Heaven-Tilting Martial Marquis, and criminal-black-money fiscal plan.
 
-Completed Chapters 26–27. Major decisions include the seven-year timeskip, Staffordshire Baskerville / Oxbear / Colosseo Academy canonicalization, the 3 m narrative vs 5 m Oxbear-window inconsistency, explicit raw butchering/eating, public High Sword Expert / hidden Mid Sword Graduator separation, Hugo's unnamed female archer, the Pit Bull/frontier expected path, and Deputy Magistrate of Underdog City appointment. Family QA: `qa/families/graduate-0026-0027.md` — **PASS**.
+## 2026-09-17 — The Graduate (1)–(2) accepted
 
-## 2026-09-17 — Camus Morgue (1)–(6) accepted under restarted workflow
+**Checkpoint at that time:** 27 / 500 accepted; next Chapter 28.  
+Family QA: `qa/families/graduate-0026-0027.md` — **PASS**.
 
-**Checkpoint at that time:** 25 / 500 accepted; next Chapter 26. Family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
+Major decisions: seven-year timeskip, Staffordshire Baskerville, Oxbear, Colosseo Academy, explicit raw butchering/eating, public High Sword Expert / hidden Mid Sword Graduator separation, Pit Bull/frontier expected route, and Deputy Magistrate of Underdog City appointment.
 
-## 2026-09-17 — Bared Teeth (1)–(2) accepted under restarted workflow
+## 2026-09-17 — Camus Morgue (1)–(6) accepted
 
-**Checkpoint at that time:** 19 / 500 accepted; next Chapter 20. Family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
+**Checkpoint at that time:** 25 / 500 accepted; next Chapter 26.  
+Family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
 
-## 2026-09-17 — Solitary (1)–(4) accepted under restarted workflow
+## 2026-09-17 — Bared Teeth (1)–(2) accepted
 
-**Checkpoint at that time:** 17 / 500 accepted; next Chapter 18. Family QA: `qa/families/solitary-0014-0017.md` — **PASS**.
+**Checkpoint at that time:** 19 / 500 accepted; next Chapter 20.  
+Family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
+
+## 2026-09-17 — Solitary (1)–(4) accepted
+
+**Checkpoint at that time:** 17 / 500 accepted; next Chapter 18.  
+Family QA: `qa/families/solitary-0014-0017.md` — **PASS**.
 
 ## Earlier accepted checkpoints
 
