@@ -1,0 +1,23 @@
+{
+  "chapter": 33,
+  "title": "The Social Club (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Social Club","range":[32,34],"family_qa_path":"qa/families/social-club-0032-0034.md","family_qa_sha":"e88bec6495040e957fec7e1393eb15d3f4c87e2c","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/033.txt","blob_sha":"a3f2ccd52eb78eb2a4769de9d8ce150b040a641f","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-033.xhtml","blob_sha":"29544810fe3c2d5fb7b088c4b4ef8c04fb03c6fd","target_alignment":33,"alignment_status":"verified_by_champagne_aftermath_graduator_recognition_heirs_excuse_hugo_dog_teaching_and_stake_beating","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/034.txt","blob_sha":"9c7259208f84aee63dd7b99850a8189145129d8c","purpose":"continues directly with arrests and public reaction after the beating"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Vikir Van Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Vikir Van Baskerville","Sword Graduator"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Colosseo Academy","retrieval_mode":"indexed_web_result","applies_to":["Colosseo Academy"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0033.md","blob_sha":"1379e7eb224675d031a45369e493a687b203bae7"},
+  "qa": {"path":"qa/chapter-0033.md","blob_sha":"132d4c445759cd3c656878e9f5f58606288e5465","status":"pass"},
+  "documented_decisions": [
+    {"topic":"rank_term","final":"Sword Graduator","basis":"established project/Fandom terminology; recovered English Gradient rejected"},
+    {"topic":"seven_houses","final":"Montblanc, Pierre, Louis Vuitton, Chanel, Ferragamo, Hermes, Prada","basis":"Chinese/transliterated witnesses; no unsupported per-house Fandom claim"},
+    {"topic":"hugo_teaching","final":"master may test dog; dog may not test master","basis":"Chinese Chapter 33"},
+    {"topic":"violence","final":"stake beating retained explicitly","basis":"Chinese Chapter 33; no sanitization"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
