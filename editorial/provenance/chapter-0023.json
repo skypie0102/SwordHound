@@ -1,0 +1,21 @@
+{
+  "chapter": 23,
+  "title": "Camus Morgue (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/023.txt","blob_sha":"73fb36644fc0e0c51009d97bc9c07f2b0a0af637","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-023.xhtml","blob_sha":"9ef560af4531c37e8c0116a30657582abe0bf768","target_alignment":23,"alignment_status":"verified_by_rubber_blade_reveal_sixth_circle_pressure_friendly_match_quadra_casting_forehead_flicks_and_explosion_endpoint","authority":"secondary_reference_only"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Adolf Morgue","retrieval_mode":"indexed_web_result","applies_to":["Adolf Morgue","Sixth Circle"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Magic Skills","retrieval_mode":"indexed_web_result","applies_to":["Quadra Casting","Fireball","Ice Sphere","Thunder Ring","Mud Wall"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0023.md","blob_sha":"fd3f051a374fd86368792aa0a6180d6f444ba286"},
+  "qa": {"path":"qa/chapter-0023.md","blob_sha":"6f41ad4092f809dbb290abd69d46c6592872a9bd","status":"pass"},
+  "documented_decisions": [
+    {"topic":"toy_blade","final":"the apparent cutting weapon is a cheap rubber toy knife","basis":"Chinese Chapter 23 immediate reveal"},
+    {"topic":"camus_magic","final":"Quadra Casting with Fireball, Ice Sphere, Thunder Ring, and Mud Wall","basis":"Chinese spell identities plus indexed Fandom canonical terms"},
+    {"topic":"veteran_kill_thought","final":"retain Vikir's cold statement that killing Camus would be easy while keeping the scene non-erotic and source-bounded","basis":"Chinese source explicitness"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
