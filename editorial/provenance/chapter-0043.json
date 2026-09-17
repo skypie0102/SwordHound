@@ -1,0 +1,25 @@
+{
+  "chapter": 43,
+  "title": "The Fiancée (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Fiancée","range":[43,45],"family_qa_path":"qa/families/fiancee-0043-0045.md","family_qa_sha":"932b45edb24e81340d6fee22b98348d44e782492","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/043.txt","blob_sha":"ae784307ac6946639434992c4fd9db247c5b5ad8","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-043.xhtml","blob_sha":"d11385e69ad861e41ffaac72cf41cd285d8d19df","target_alignment":43,"alignment_status":"verified_by_camus_reunion_partner_tribal_quiz_scorecard_husband_candidate_and_black_cloak_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/046.txt","blob_sha":"325e92501828c070a163fed83b1ef0089f4beb27","purpose":"new The Husband Hunt title family"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Ballak Tribe","retrieval_mode":"indexed_web_result","applies_to":["Ballak Tribe"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Barbarian Clans","retrieval_mode":"indexed_web_result","applies_to":["Rokoko Clan"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"project-established accepted terminology","retrieval_mode":"accepted_project_evidence","applies_to":["Raspane Morgue","Adolf Morgue","Highsis Morgue","Middlesis Morgue","Lowsis Morgue"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0043.md","blob_sha":"8a467170dbc48b3093620855bb890dbe80fea24d"},
+  "qa": {"path":"qa/chapter-0043.md","blob_sha":"dd49ea3bd205e3d2c47714801ba3e9ed35c5f2a6","status":"pass"},
+  "documented_decisions": [
+    {"topic":"first_life_camus_age_recollection","final":"around thirteen","basis":"Chinese Chapter 43 explicit age; recovered-English thirty rejected as corruption"},
+    {"topic":"tribal_names","final":"Ballak Tribe / Rokoko Clan","basis":"canonical English forms with Chinese semantics"},
+    {"topic":"cloak_color","final":"black Baskerville cloak","basis":"Chinese Chapter 43 and Chapter 45 continuity; recovered-English color corruption rejected"},
+    {"topic":"later_relationship_spoilers","final":"excluded","basis":"not source-revealed at this point"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

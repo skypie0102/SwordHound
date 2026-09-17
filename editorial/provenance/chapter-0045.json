@@ -1,0 +1,26 @@
+{
+  "chapter": 45,
+  "title": "The Fiancée (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Fiancée","range":[43,45],"family_qa_path":"qa/families/fiancee-0043-0045.md","family_qa_sha":"932b45edb24e81340d6fee22b98348d44e782492","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/045.txt","blob_sha":"9209bfced5d548f0d915f2cd5fde46b8f0c30973","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-045.xhtml","blob_sha":"39d7fab73c1531449d33b23f16176ded5ef47b14","target_alignment":45,"alignment_status":"verified_by_magic_lesson_ruby_negotiation_marriage_strategy_childhood_defeat_cloak_adolf_test_seven_year_wait_and_reunion","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/046.txt","blob_sha":"325e92501828c070a163fed83b1ef0089f4beb27","purpose":"new The Husband Hunt title family"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"project-established accepted terminology","retrieval_mode":"accepted_project_evidence","applies_to":["Raspane Morgue","Adolf Morgue","Hugo Le Baskerville","Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Vikir Van Baskerville"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0045.md","blob_sha":"eb86186e62aabe403e6146a7cd42436303de46b2"},
+  "qa": {"path":"qa/chapter-0045.md","blob_sha":"4e22ee1ba44c738e4d592b9d1f9a013b4ee33eec","status":"pass"},
+  "documented_decisions": [
+    {"topic":"camus_gender_pronouns","final":"female identity normalized consistently","basis":"established Camus identity; Chinese machine/translation pronoun noise not semantically authoritative"},
+    {"topic":"marriage_alliance_origin","final":"Camus proposes the strategy and initially nominates the Morgue triplets","basis":"Chinese Chapter 45 explicit sequence"},
+    {"topic":"childhood_clothing_accident","final":"retained as nonsexual embarrassment and first-crush context","basis":"Chinese source preserved without eroticization or added detail"},
+    {"topic":"adolf_test_mechanism","final":"Vikir breaks Adolf's sword; flying fragment shatters the water jar","basis":"Chinese sequence and established earlier-chapter continuity"},
+    {"topic":"cloak_status","final":"Camus's first treasured possession","basis":"Chinese 珍爱之物; recovered-English first love object-label rejected"},
+    {"topic":"cloak_washing","final":"kept unwashed for seven years","basis":"Chinese source explicit"},
+    {"topic":"closing_reunion","final":"Camus notices Vikir matured, remembers childhood accident, wonders how much he changed, feels warm without magic","basis":"Chinese endpoint retained at non-explicit level"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

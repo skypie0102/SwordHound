@@ -1,37 +1,45 @@
 # Reconstruction Progress
 
-## 2026-09-18 — Morgue's United Front (1)–(3) accepted under restarted workflow
+## 2026-09-18 — The Fiancée (1)–(3) accepted under restarted workflow
 
-**Current state:** 42 / 500 accepted; 0 staged; next Chapter 43.
+**Current state:** 45 / 500 accepted; 0 staged; next Chapter 46.
 
-Completed the thirteenth contiguous title-family batch:
+Completed the fourteenth contiguous title-family batch:
 
-- Chapter 40 — *Morgue's United Front (1)*
-- Chapter 41 — *Morgue's United Front (2)*
-- Chapter 42 — *Morgue's United Front (3)*
+- Chapter 43 — *The Fiancée (1)*
+- Chapter 44 — *The Fiancée (2)*
+- Chapter 45 — *The Fiancée (3)*
 
-English references 40→40 through 42→42 were independently verified by complete content. Family QA: `qa/families/morgue-united-front-0040-0042.md` — **PASS**.
+English references 43→43 through 45→45 were independently verified by complete content. Family QA: `qa/families/fiancee-0043-0045.md` — **PASS**.
 
 Major editorial/canonical work:
 
-- accepted **Tough Life — Infernal Buffalo (A)** as Beelzebub's new ability and rejected recovered-English `Choke / Tight Throat Breath / Tough Breath` variants;
-- preserved the **Sword Graduator** assassin, River Styx + Tough Life defensive synergy, and three-day assassination-attempt sequence;
-- retained **Head Butler John Barrymore** instead of recovered-English `Deacon`;
-- preserved Hugo's Colosseo Academy reward, the admission-age limits, Vikir's recommendation of Highbro/Middlebro/Lowbro, and the agricultural-law inspection setup;
-- rendered the Ch. 40 endpoint as a **joint punitive expedition**, rejecting the MTL's weaker `war of attrition` wording;
-- preserved the covert Morgue/Baskerville frontier deployment and the burned, impaled corpses used as border warnings;
-- excluded a recovered-English Wolfhound Knights rivalry line absent from Chinese;
-- accepted **Highsis Morgue / Middlesis Morgue / Lowsis Morgue**, **Three Flowers of Morgue**, and **Samhwa / Three Plagues**;
-- where current Fandom summary material conflicts with the chapter, followed Chinese semantic authority: **Lowsis = water, Middlesis = earth, Highsis = plant**;
-- preserved the six-way triplet confrontation and normalized Baskerville `first form` to established **1st Fang**;
-- preserved Vikir's cynical internal reaction and the full burns/iron-spike injuries from the interruption;
-- accepted **Camus Morgue** as the returning fifteen-year-old from Vikir's age-eight meeting and retained source-revealed epithets **Queen of Fire and Skewers** and **Queen of Red and Black** without importing later relationship spoilers;
-- did not automatically rewrite the separately documented Chapter 31 `Kamu` decision from Chapter 42 alone.
+- followed Chinese Ch. 43's first-life recollection of Camus at **around thirteen**, rejecting recovered-English `thirty`;
+- retained the full Ballak/Rokoko quiz, Camus's scorecard, future-husband-candidate claim, and the **black Baskerville cloak**;
+- preserved **Ballak Tribe** and **Rokoko Clan** canonical forms while keeping Chinese semantic control;
+- retained Ballak arrows piercing two-to-three-meter walls and the unnamed female sniper who seriously wounded Adolf, without importing later Akwilla identity early;
+- accepted **Rosie Morgue** as the canonical name while following Chinese Ch. 44 relationship wording: Camus calls Rosie a foster/adopted younger sister; later cousin/resurrection material is excluded;
+- preserved the hidden Rokoko answer **“Eaten,”** the cannibalism explanation, Camus's iron-spike-and-fire execution, scorched-flesh aftermath, and her private grief without sanitization;
+- corrected Vikir's awkward comfort line to **“She should have gone peacefully.”** from the Chinese rather than the interpretive earlier draft;
+- followed Chinese Ch. 45 over severe recovered-English gender/name corruption;
+- preserved Camus as the originator of both the child-led ruby negotiation and the **marriage-alliance strategy**, initially nominating Highsis/Middlesis/Lowsis;
+- retained the childhood clothing accident as nonsexual embarrassment/first-crush context without added erotic detail;
+- preserved Vikir breaking Adolf's sword and using a flying fragment to shatter the water jar;
+- bound the black cloak as Camus's **first treasured possession**, not an object literally labeled `first love`, and preserved the seven-year refusal to wash it;
+- closed the family on Camus's prepared reunion with Vikir and her source-level, non-explicit reaction to how much he had matured.
 
 Next verified family:
 
-- **Chapters 43–45 — The Fiancée (1)–(3)**
-- Chinese and recovered English Chapter 46 switch to **The Husband Hunt (1)**.
+- **Chapters 46–51 — The Husband Hunt (1)–(6)**
+- Chinese Ch. 47 uses the variant heading `婚姻狩猎 (2)`, while recovered English confirms *The Husband Hunt (2)* and numbering continues through part (6).
+- Chinese Chapter 52 switches to `野蛮部落的奴隶 (1)`.
+
+## 2026-09-18 — Morgue's United Front (1)–(3) accepted under restarted workflow
+
+**Checkpoint at that time:** 42 / 500 accepted; next Chapter 43.  
+Family QA: `qa/families/morgue-united-front-0040-0042.md` — **PASS**.
+
+Major decisions: Tough Life — Infernal Buffalo (A); Sword Graduator assassin; River Styx synergy; Head Butler John Barrymore; Colosseo Academy reward; joint punitive expedition; covert frontier deployment; Highsis/Middlesis/Lowsis Morgue; Three Flowers / Samhwa; Chinese-controlled Lowsis=water, Middlesis=earth, Highsis=plant; 1st Fang; Camus return at fifteen; Queen of Fire and Skewers / Queen of Red and Black; Ch. 31 Kamu issue not automatically reopened.
 
 ## 2026-09-18 — Sponsored (1)–(2) accepted under restarted workflow
 

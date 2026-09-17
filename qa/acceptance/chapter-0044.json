@@ -1,0 +1,17 @@
+{
+  "chapter": 44,
+  "title": "The Fiancée (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Fiancée","range":[43,45],"family_qa_path":"qa/families/fiancee-0043-0045.md","family_qa_sha":"932b45edb24e81340d6fee22b98348d44e782492","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/044.txt","primary_source_sha":"d527b9d7c4758c98cc1ce2b0562e84b434b59238",
+    "english_reference_path":"source/chapters/chapter-044.xhtml","english_reference_sha":"cba8ff2cd1450467429b3037bcc5f2d3fe2b50fd",
+    "draft_path":"manuscript/drafts/chapter-0044.md","draft_sha":"025f5792f2a17ff432c209989562f32d00be204e",
+    "qa_path":"qa/chapter-0044.md","qa_sha":"f99b17b7a0647fcadb42e624fc36185c7996dd7d",
+    "provenance_path":"editorial/provenance/chapter-0044.json","provenance_sha":"5a6cc3e6956acfee3b0f1121967d56fbc1e4d096"
+  },
+  "canonical_checks": ["Ballak Tribe","Rokoko Clan","Camus Morgue","Adolf Morgue","Hugo Le Baskerville","Rosie Morgue"],
+  "documented_limits": ["Chinese relationship wording controls Rosie as Camus's foster/adopted younger sister in this chapter; later wiki cousin/resurrection material is excluded.","The female Ballak sniper is not named Akwilla before the source reveals that identity.","Rokoko cannibalism and Camus's execution remain explicit and unsanitized.","Vikir's comfort line is bound as She should have gone peacefully."]
+}
