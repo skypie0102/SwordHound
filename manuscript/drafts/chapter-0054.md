@@ -208,7 +208,7 @@ Aiyen treated bodily exposure with none of the shame expected in imperial societ
 
 Vikir remembered an old anthropological paper on the tribes of Le Rouge et Le Noir Mountain.
 
-Their customs around nudity and the body were far less restrictive, partly because mate selection placed practical importance on fertility and disease.
+Sexual relationships among the mountain tribes were comparatively unrestricted, and prospective partners openly considered fertility and disease status. As a result, nudity carried far less taboo.
 
 *Right. I did read something like that.*
 
@@ -414,7 +414,6 @@ She was smiling.
 
 The instant he caught her eye, she looked away.
 
-*So that was a trick.*
 
 ◆◆◆
 
