@@ -1,0 +1,25 @@
+{
+  "chapter": 37,
+  "title": "Slave Auction (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Slave Auction","range":[35,37],"family_qa_path":"qa/families/slave-auction-0035-0037.md","family_qa_sha":"cf32e938cae2abdd3cc1892463b5edaf56b9ffba","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/037.txt","blob_sha":"fab7c365f52addab267414058f52bd31ba9515cb","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-037.xhtml","blob_sha":"ad9f97b0e15250e7cf96f301b0aa28c58a58796c","target_alignment":37,"alignment_status":"verified_by_hugo_knight_loan_pit_bull_purge_boston_terrier_warehouse_girl_release_and_murcielago_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/038.txt","blob_sha":"172b7a69e9cd841c14d311aa0bafe03b998d9738","purpose":"new Sponsored title family"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Boston Terrier Le Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Boston Terrier Le Baskerville","Count","Knight Commander of the Pit Bull Knights","Vikir's uncle"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Baskerville Clan","retrieval_mode":"indexed_web_result","applies_to":["Pit Bull Knights"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Aiyen","retrieval_mode":"indexed_web_result","applies_to":["reveal chronology only; identity intentionally withheld in Ch.37"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0037.md","blob_sha":"bfd323d93a26d6307cf699779e22c519b227075c"},
+  "qa": {"path":"qa/chapter-0037.md","blob_sha":"4de71f1c48bf06f2546367ed3306d13a6c1f6762","status":"pass"},
+  "documented_decisions": [
+    {"topic":"knight_commander","final":"Count Boston Terrier Le Baskerville","basis":"Chinese identity plus indexed Fandom canonical form"},
+    {"topic":"temporary_command","final":"Pit Bull Knights for half a day / six hours","basis":"Chinese Chapter 37"},
+    {"topic":"wooden_cock_idiom","final":"virtue of the wooden fighting cock — descriptive","basis":"source idiom; not promoted as canonical technique"},
+    {"topic":"tribal_girl_identity","final":"unnamed","basis":"protect reveal chronology despite later Fandom identification"},
+    {"topic":"monster_name","final":"Infernal Buffalo ‘Murcielago’","basis":"Chinese transliteration + independently aligned English; exact Murcielago not claimed as dedicated Fandom entry"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
