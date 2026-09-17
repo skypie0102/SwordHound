@@ -1,0 +1,45 @@
+{
+  "chapter": 53,
+  "title": "Slaves of the Savage Tribe (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Slaves of the Savage Tribe",
+    "range": [
+      52,
+      54
+    ],
+    "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
+    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/053.txt",
+    "primary_source_sha": "5205b110cfd0e74607d4dfcf49c71250c0d990cd",
+    "english_reference_path": "source/chapters/chapter-053.xhtml",
+    "english_reference_sha": "910996f812cb9ce17380cda49af7e5a9e3889e99",
+    "draft_path": "manuscript/drafts/chapter-0053.md",
+    "draft_sha": "6864d9f5d6647ed4d048d718ebd691bf632fddb5",
+    "qa_path": "qa/chapter-0053.md",
+    "qa_sha": "12dca40cfa5c826c88bb8f8950966a45afea8867",
+    "provenance_path": "editorial/provenance/chapter-0053.json",
+    "provenance_sha": "62cf5c38592ea415bf3bddc635441348305277cd"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Akwilla",
+    "Ballak Tribe",
+    "Night Fox",
+    "Hugo Le Baskerville",
+    "Adolf Morgue",
+    "Cerberus",
+    "Sword Graduator",
+    "Madam Eight-Legs"
+  ],
+  "documented_limits": [
+    "Akwilla identity becomes valid only from this source reveal onward; earlier chapters remain spoiler-guarded.",
+    "Reproductive-role material is preserved clinically/non-erotically.",
+    "No unsupported formal rank is assigned to Akwilla."
+  ]
+}
