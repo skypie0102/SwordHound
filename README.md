@@ -6,7 +6,7 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **25 / 500 accepted; next Chapter 26.** Seven complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), and 20–25 (*Camus Morgue*). The next verified family is **Chapters 26–27 — The Graduate (1)–(2)**; Chapter 28 changes to *Special Laws of Vikir (1)*.
+Current checkpoint: **27 / 500 accepted; next Chapter 28.** Eight complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), and 26–27 (*The Graduate*). The next verified family is **Chapters 28–31 — Special Laws of Vikir (1)–(4)**; Chapter 32 changes to *The Social Club (1)*.
 
 ## Current source policy
 
@@ -37,27 +37,29 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 Current Fandom evidence establishes numbered Baskerville sword techniques as **Fangs** under the **Baskerville Fang Sword Style**.
 
-The accepted Camus Morgue family adds/revalidates:
+The accepted Graduate family adds/revalidates:
 
-- **Camus Morgue**, **Adolf Morgue**, **Raspane Morgue**, **Osiris Le Baskerville**
-- **Morgue Clan**
-- **Quadra Casting**
-- **Fireball / Ice Sphere / Thunder Ring / Mud Wall**
-- **Sixth Circle** for Adolf
-- source-scoped later title **Ironblood Empress** for future Camus where Chinese explicitly invokes it
-- Beelzebub Slot 3 = Troll **Superspeed Regeneration** from Chapter 20 onward
+- **Staffordshire Baskerville** / Guide Dog
+- **Oxbear**
+- **Colosseo Academy**
+- **Underdog City** / **Deputy Magistrate**
+- **Doberman / Pit Bull / Rottweiler / Wolfhound / Shepherd / Mastiff Knights**
+- Vikir public state at Ch. 26: **High Sword Expert / 3rd Fang**
+- Vikir hidden state at Ch. 26: **Mid Sword Graduator / 5th Fang**
+
+The accepted Camus Morgue family previously added/revalidated **Camus Morgue**, **Adolf Morgue**, **Raspane Morgue**, **Osiris Le Baskerville**, **Morgue Clan**, **Quadra Casting**, **Fireball / Ice Sphere / Thunder Ring / Mud Wall**, **Sixth Circle**, source-scoped **Ironblood Empress**, and Troll **Superspeed Regeneration** from Chapter 20 onward.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–25**:
+Current accepted production evidence covers Chapters **1–27**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0025.md`
-- `qa/chapter-0001.md` through `chapter-0025.md`
-- accepted family QA through `qa/families/camus-morgue-0020-0025.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0025.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0025.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0027.md`
+- `qa/chapter-0001.md` through `chapter-0027.md`
+- accepted family QA through `qa/families/graduate-0026-0027.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0027.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0027.json`
 
-Latest family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
+Latest family QA: `qa/families/graduate-0026-0027.md` — **PASS**.
 
 The earlier pre-restart Chapter 1 acceptance remains in Git history only and is superseded by the current family-reviewed evidence.
 
