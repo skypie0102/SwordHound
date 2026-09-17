@@ -1,0 +1,24 @@
+{
+  "chapter": 34,
+  "title": "The Social Club (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Social Club","range":[32,34],"family_qa_path":"qa/families/social-club-0032-0034.md","family_qa_sha":"e88bec6495040e957fec7e1393eb15d3f4c87e2c","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/034.txt","blob_sha":"9c7259208f84aee63dd7b99850a8189145129d8c","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-034.xhtml","blob_sha":"2df34ee0c86cab6cc6599b828390d1e16573d97e","target_alignment":34,"alignment_status":"verified_by_public_execution_reveal_existing_statute_punishments_dungeon_scene_criminal_network_and_torture_tools","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/035.txt","blob_sha":"6923567bc4710210eaac4dc6b7252d56ea557b7e","purpose":"new Auction House Flower title family; opens at clandestine slave auction outside Underdog City"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Deputy Magistrate"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Chihuahua Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Chihuahua Baskerville"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Colosseo Academy","retrieval_mode":"indexed_web_result","applies_to":["Colosseo Academy"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0034.md","blob_sha":"3c30ca807bfe0f186d7b07c7a9a91c3f31843150"},
+  "qa": {"path":"qa/chapter-0034.md","blob_sha":"dfb7f4ecc752753aaa26d9353ca43844f0eb6b0f","status":"pass"},
+  "documented_decisions": [
+    {"topic":"deputy_referent","final":"Vikir, not Hugo","basis":"immediate office continuity plus aligned witness; Chinese translation-layer referent drift"},
+    {"topic":"legal_punishments","final":"cumulative statute punishments and execution preserved explicitly","basis":"Chinese Chapters 29 and 34"},
+    {"topic":"evidence_line","final":"evidence may be manufactured if not found","basis":"Chinese Chapter 34; preserved without moral gloss"},
+    {"topic":"torture_sequence","final":"100+ tools and Age-of-Destruction interrogation memory retained","basis":"Chinese Chapter 34; no sanitization"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
