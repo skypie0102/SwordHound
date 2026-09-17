@@ -1,38 +1,40 @@
 # Reconstruction Progress
 
-## 2026-09-17 — Slave Auction (1)–(3) accepted under restarted workflow
+## 2026-09-18 — Sponsored (1)–(2) accepted under restarted workflow
 
-**Current state:** 37 / 500 accepted; 0 staged; next Chapter 38.
+**Current state:** 39 / 500 accepted; 0 staged; next Chapter 40.
 
-Completed the eleventh contiguous title-family batch:
+Completed the twelfth contiguous title-family batch:
 
-- Chapter 35 — *Slave Auction (1)*
-- Chapter 36 — *Slave Auction (2)*
-- Chapter 37 — *Slave Auction (3)*
+- Chapter 38 — *Sponsored (1)*
+- Chapter 39 — *Sponsored (2)*
 
-English references 35→35 through 37→37 were independently verified by complete content. Family QA: `qa/families/slave-auction-0035-0037.md` — **PASS**.
+English references 38→38 and 39→39 were independently verified by complete content. Family QA: `qa/families/sponsored-0038-0039.md` — **PASS**.
 
 Major editorial/canonical work:
 
-- resolved the anomalous Chinese Chapter 35 heading into the three-part **Slave Auction** production family from Chinese 36–37 plus complete recovered-English alignment;
-- retained **Freak Show** as the clandestine auction/event wording and **Chihuahua Montblanc** as Chihuahua’s cover identity;
-- retained **Infernal Buffalo ‘Murcielago’** from Chinese/transliterated source plus independently aligned English witness without falsely claiming a dedicated Fandom monster entry;
-- preserved the monster window: A-rank, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, nineteen hearts;
-- preserved kidnapping, trafficking, drugging, forced submission, sexual exploitation, mutilation, and auction cruelty without sanitization;
-- kept the feral tribal girl unnamed despite later canonical identification, protecting reveal chronology;
-- kept Baron Gambino’s green-blond secretary unnamed for the same reason;
-- preserved Vikir’s deliberate sale as the premium final lot, Baron Gambino’s six-billion-gold bid and sexual groping, Vikir’s breakout, and the lethal counterattack;
-- corrected recovered-English **Gradient / Fifth Form** to established **Sword Graduator / 5th Fang** terminology;
-- preserved Hugo’s hidden red-tooth horn and the arrival of **100 Pit Bull Knights, all Sword Graduators**;
-- accepted **Boston Terrier Le Baskerville** for the Pit Bull commander from current Fandom evidence;
-- preserved the Chapter 37 purge, including deaths and severed wrists/ankles, without softening;
-- preserved the seizure of auction cash for the city treasury and the ledgers/contact records as evidence for follow-up raids;
-- preserved Vikir freeing the abused tribal girl after recognizing Cerberus-related wounds and then retrieving Murcielago for Beelzebub.
+- preserved the full Burning Suspension aftermath, including the seven-house confiscation/treason punishments and the imperial anti-slave-hunting rationale centered on private armies, rebellion, and coups;
+- preserved Vikir's public-support surge, review of prior convictions, releases, administrative hiring, tax changes, and broader legal reform sequence;
+- resolved the Chapter 38 stray Korean `티오` as an available vacancy/open slot and rendered the final question as whether an open dungeon cell/space remained, rejecting the MTL's invented person-like “Tio” reading;
+- accepted **Cindywendy** at her Chapter 39 reveal point and preserved the alias-to-family-identity sequence **Sen Rose Cindywendy → Messinadnaro Sen Cindywendy**;
+- preserved Cindywendy's critique of Vikir's rule and her advice to relinquish authority, keep a low profile, cultivate learning, and build long-term legitimacy;
+- preserved the Messinadnaro frame-up through stolen Baskerville swordsmanship and the revelation that the other seven heirs engineered it;
+- retained the survivor's cruel/degrading/humiliating abuse only at the level stated by the Chinese narrator, which explicitly declines to describe the acts;
+- preserved the seven heirs' blood-written apologies, the room of headless corpses, Vikir's statement that House Baskerville remains Cindywendy's final enemy, and his apology on behalf of Baskerville;
+- preserved Cindywendy's endpoint promise that Vikir will never lack money, establishing the title-family payoff;
+- excluded later Cindywendy titles, relationships, and other post-Chapter-39 information to protect reveal chronology.
 
 Next verified family:
 
-- **Chapters 38–39 — Sponsored (1)–(2)**
-- Chapter 40 changes to Chinese `米尔格家族的联合战线 (1)` and begins a new title family.
+- **Chapters 40–42 — Morgue's United Front (1)–(3)**
+- Chinese and recovered English Chapter 43 switch to **The Fiancée (1)**.
+
+## 2026-09-17 — Slave Auction (1)–(3) accepted under restarted workflow
+
+**Checkpoint at that time:** 37 / 500 accepted; next Chapter 38.  
+Family QA: `qa/families/slave-auction-0035-0037.md` — **PASS**.
+
+Major decisions: anomalous Chapter 35 heading resolved to the Slave Auction family; Freak Show / Chihuahua Montblanc; Infernal Buffalo ‘Murcielago’; explicit trafficking and auction cruelty preserved; tribal girl and Gambino's secretary kept unnamed; Sword Graduator / 5th Fang terminology; 100 Pit Bull Knights; Boston Terrier Le Baskerville; purge, ledgers, treasury cash, tribal-girl release, and Murcielago recovery.
 
 ## 2026-09-17 — The Social Club (1)–(3) accepted under restarted workflow
 
