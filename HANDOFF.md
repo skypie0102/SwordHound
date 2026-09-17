@@ -5,22 +5,22 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Sponsored acceptance checkpoint
-- **Working branch:** `editorial/restart-sponsored-family`
-- **Base main checkpoint:** `95b11cf9e4a6e47efd6499a5f3b34e096e71fbbc` (PR #17, Slave Auction 35–37, merged)
-- **Current PR:** #18 — `Rebuild Sponsored Chapters 38–39`
+- **Updated by:** ChatGPT — Morgue's United Front acceptance checkpoint
+- **Working branch:** `editorial/restart-morgue-united-front-family`
+- **Base main checkpoint:** `aaa3fdf16a8e65285750a7274fbca177cc372fba` (PR #18, Sponsored 38–39, merged)
+- **Current PR:** #19 — `Rebuild Morgue's United Front Chapters 40–42`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
 - **Target:** 500 chapters
-- **Accepted:** **39**
+- **Accepted:** **42**
 - **Staged:** **0**
-- **Next:** **Chapter 40**
-- **Latest accepted family:** **Chapters 38–39 — Sponsored (1)–(2)**
-- **Latest family QA:** `qa/families/sponsored-0038-0039.md` — **PASS** — `b3cd0785bb5613a49332e7c1041a6939fa559935`
-- **Next family:** **Chapters 40–42 — Morgue's United Front (1)–(3)**
-- **Next-family boundary:** **VERIFIED**. Chinese and recovered English Chapter 43 switch to **The Fiancée (1)**.
+- **Next:** **Chapter 43**
+- **Latest accepted family:** **Chapters 40–42 — Morgue's United Front (1)–(3)**
+- **Latest family QA:** `qa/families/morgue-united-front-0040-0042.md` — **PASS** — `4d9218d405809337682b7f114b055076d970d8e3`
+- **Next family:** **Chapters 43–45 — The Fiancée (1)–(3)**
+- **Next-family boundary:** **VERIFIED**. Chinese and recovered English Chapter 46 switch to **The Husband Hunt (1)**.
 
 Accepted families:
 1. 1–3 — *Hellhound (1)–(3)*
@@ -35,6 +35,7 @@ Accepted families:
 10. 32–34 — *The Social Club (1)–(3)*
 11. 35–37 — *Slave Auction (1)–(3)*
 12. 38–39 — *Sponsored (1)–(2)*
+13. 40–42 — *Morgue's United Front (1)–(3)*
 
 ## Rules that must not be lost
 
@@ -50,56 +51,57 @@ Accepted families:
 - Numbered Baskerville techniques are **Fangs**, not Forms.
 - Final browser/CSS/EPUB visual QA remains deferred to complete-EPUB assembly.
 
-## Accepted family — Chapters 38–39: Sponsored
+## Accepted family — Chapters 40–42: Morgue's United Front
 
 ### Immutable evidence
 
 | Ch. | Chinese SHA | English ref SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 38 | `172b7a69e9cd841c14d311aa0bafe03b998d9738` | `48267aed194d2bba467a9007c7d96b21de0deb73` | `77a7a665336262537e427a9c88d0b876bb22172a` | `6ad1a27fa429da47bf0dea51854c9cc7415eab7e` | `f994bb4420b9d8d69710f1cf840c336fa278409d` | `ffe0b60fbbc45afa023ffa72689bc0cb4fb77847` |
-| 39 | `00bff99e9c659823dc9bdcd0367e776c11c48e2b` | `77df8a07ae4c025e4ea5ff6c7ec63fb02efdc2f5` | `6f4c927efc29a1979de2f42c923f86adc328bbda` | `05d99430db1b42ef62d19c74619c0d912d763609` | `6575f90e22cc564bb9a859919c6d06cf94e1565e` | `e26be929ec87d019f68fb4e2341d8af03402a615` |
+| 40 | `d2758d17729fe7ef698710531ee80db1469bd077` | `13f04369195db38d7375047cf2adb9f93400a5ce` | `36e7e2c1edfcd5c4a58e80ab9e60dd8b9ba4dc93` | `de25334243fd8a9a5c8e26870f2f7d5ae5817833` | `4cd25a5814dce06459b1bd3b059278ad6db2e054` | `2b4d632c3e0d0567b165d176754146b88c1b3c19` |
+| 41 | `e14c8f6d51bbfff8d70ad08c9210c20c328f35bd` | `6f26e1b0d0263d8058396d8bc88d373cd88f1e11` | `51282f4dc00cd391bdc602e00d221d8bfc896478` | `2331dbecb297a4e3e153f7090edbe5363b1d43fc` | `d6256a6909b93c4265e500a11f1bf74465ef1774` | `854bc53dfe0c57c599d6cf3204dd94bbab927b1c` |
+| 42 | `dfff190d237d8d28eee561048fdf829f686a4bc5` | `825f9d72c7ed616bcdf154ce8ae451024ec33681` | `a1aa1e637ca4c989bf8af23a27b140dc7ec46617` | `86f0339cb518587f946e5b7db7108a88b372f5c3` | `530ccd13a8209e8b1512dc7ba27bdd438db80496` | `e87982c1e809003c355c8b9015a2ad15f50c2e1e` |
 
-Targets 38→MTL 38 and 39→MTL 39 were verified by complete content, not numbering alone.
+Targets 40→MTL 40 through 42→MTL 42 were verified by complete content, not numbering alone.
 
 ### Accepted decisions
 
-- Chapter 38 preserves the Burning Suspension aftermath, the seven local families' asset confiscation/treason punishments, and the imperial anti-slave-hunting rationale centered on preventing private military forces, rebellions, and coups.
-- Public support for Vikir, historical-case review, releases, civil-service hiring, and legal/economic reforms are retained from the Chinese source.
-- The stray Korean `티오` at the end of Ch. 38 is an available **vacancy/open slot**. In context Vikir asks whether there is an open cell/space left in the dungeon. Do **not** invent a person named `Tio`.
-- Chapter 39 is the first accepted reveal point for **Cindywendy**.
-- Preserve reveal order: **Sen Rose Cindywendy → Messinadnaro Sen Cindywendy**. Do not import later titles, relationships, or future biography early.
-- Cindywendy's governance critique and recommendation that Vikir relinquish authority, stay low-profile, study, and cultivate long-term legitimacy remain intact.
-- The **Messinadnaro Family** was framed when heirs of the seven local houses arranged for a child to learn stolen Baskerville swordsmanship, causing House Baskerville to treat the family as military-secret thieves.
-- The surviving girl's abuse is described only as cruel, degrading, and humiliating because the narrator deliberately withholds the details. Do not invent specific acts.
-- Preserve the seven heirs' headless corpses and blood-written apologies, Vikir's statement that House Baskerville remains Cindywendy's final enemy, and his apology on behalf of Baskerville.
-- Family endpoint: Cindywendy promises that Vikir will never lack money, establishing her as his sponsor.
+- Ch. 40 current Beelzebub state includes **Tough Life — Infernal Buffalo (A)** replacing Troll **Superspeed Regeneration**; recovered-English `Choke / Tough Breath` variants are rejected.
+- Ch. 40 assassin = **Sword Graduator**. River Styx + Tough Life jointly explain the failed close-range dagger strike.
+- **Head Butler John Barrymore** replaces recovered-English `Deacon`; **Colosseo Academy** remains canonical.
+- Ch. 40 ends on a **joint punitive expedition** with Morgue, not the MTL's `war of attrition`.
+- Ch. 41 preserves the covert Morgue/Baskerville deployment and the burned/impaled warning bodies. A Wolfhound-rivalry line present only in recovered English is excluded.
+- **Highsis Morgue / Middlesis Morgue / Lowsis Morgue**, **Three Flowers of Morgue**, and **Samhwa / Three Plagues** are accepted.
+- Chinese semantics control the sisters' elements despite conflicting current wiki-summary wording: **Lowsis = water, Middlesis = earth, Highsis = plant**.
+- Ch. 42 uses **1st Fang**, never recovered-English `first form`.
+- **Camus Morgue** returns at age fifteen after seven years. Source-revealed **Queen of Fire and Skewers / Queen of Red and Black** epithets are allowed; later relationship spoilers remain excluded.
+- Ch. 42's Camus identity does not by itself rewrite the separately documented Ch. 31 `Kamu` issue without explicit textual linkage.
 
-## Next family — Chapters 40–42: Morgue's United Front
+## Next family — Chapters 43–45: The Fiancée
 
 ### Verified boundary
 
 Chinese:
-- Ch. 40 — `米尔格家族的联合战线 (1)` — `d2758d17729fe7ef698710531ee80db1469bd077`
-- Ch. 41 — `米尔格家族的联合战线 (2)` — `e14c8f6d51bbfff8d70ad08c9210c20c328f35bd`
-- Ch. 42 — `米尔格家的联合战线 (3)` — `dfff190d237d8d28eee561048fdf829f686a4bc5`
-- Ch. 43 changes to `订婚女 (1)` — `ae784307ac6946639434992c4fd9db247c5b5ad8`
+- Ch. 43 — `订婚女 (1)` — `ae784307ac6946639434992c4fd9db247c5b5ad8`
+- Ch. 44 — `订婚女 (2)` — `d527b9d7c4758c98cc1ce2b0562e84b434b59238`
+- Ch. 45 — `订婚女 (3)` — `9209bfced5d548f0d915f2cd5fde46b8f0c30973`
+- Ch. 46 changes to `丈夫狩猎 (1)` — `325e92501828c070a163fed83b1ef0089f4beb27`
 
 Recovered English:
-- Ch. 40 — *Morgue's United Front (1)* — `13f04369195db38d7375047cf2adb9f93400a5ce`
-- Ch. 41 — *Morgue's United Front (2)* — `6f26e1b0d0263d8058396d8bc88d373cd88f1e11`
-- Ch. 42 — *Morgue's United Front (3)* — `825f9d72c7ed616bcdf154ce8ae451024ec33681`
 - Ch. 43 — *The Fiancée (1)* — `d11385e69ad861e41ffaac72cf41cd285d8d19df`
+- Ch. 44 — *The Fiancée (2)* — `cba8ff2cd1450467429b3037bcc5f2d3fe2b50fd`
+- Ch. 45 — *The Fiancée (3)* — `39d7fab73c1531449d33b23f16176ded5ef47b14`
+- Ch. 46 — *The Husband Hunt (1)* — `04a250fc2c638a60e88f363a5e85ff81bd838c7f`
 
 ### Exact next actions
 
-1. Final-check PR #18 and merge if clean.
-2. Create a fresh branch from merged main for **Morgue's United Front Chapters 40–42**.
-3. Read complete Chinese 40–42, with Chinese 43 as the boundary witness.
-4. Read complete recovered English 40–42 and independently verify each mapping by scene sequence/entities/endpoints.
-5. Revalidate all newly introduced Morgue/Baskerville names, ruby-mine terminology, monsters/abilities, and any political/military titles against current canonical evidence while protecting reveal chronology.
+1. Final-check PR #19 and merge if clean.
+2. Create a fresh branch from merged main for **The Fiancée Chapters 43–45**.
+3. Read complete Chinese 43–45 with Chinese 46 as the boundary witness.
+4. Read complete recovered English 43–45 and independently verify mappings by scene sequence/entities/endpoints.
+5. Revalidate Camus, Raspane, Morgue/Baskerville relationship and engagement terminology while protecting reveal chronology.
 6. Reconstruct all three chapters as one continuity family.
 7. Run per-chapter QA + family QA, bind provenance/acceptance, update all state surfaces, merge if clean.
-8. Continue immediately into **The Fiancée (1)** at Chapter 43.
+8. Continue immediately into **The Husband Hunt (1)** at Chapter 46.
 
 ## Persistent exceptions
 

@@ -1,0 +1,25 @@
+{
+  "chapter": 42,
+  "title": "Morgue's United Front (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Morgue's United Front","range":[40,42],"family_qa_path":"qa/families/morgue-united-front-0040-0042.md","family_qa_sha":"4d9218d405809337682b7f114b055076d970d8e3","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/042.txt","blob_sha":"dfff190d237d8d28eee561048fdf829f686a4bc5","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-042.xhtml","blob_sha":"825f9d72c7ed616bcdf154ce8ae451024ec33681","target_alignment":42,"alignment_status":"verified_by_triplet_loyalty_academy_debt_six_way_duel_elemental_synergy_fire_iron_intervention_and_camus_reunion_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/043.txt","blob_sha":"ae784307ac6946639434992c4fd9db247c5b5ad8","purpose":"new The Fiancée title family and direct continuation of Camus arrival"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Morgue Triplets","retrieval_mode":"indexed_web_result","applies_to":["Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Three Flowers of Morgue","Samhwa / Three Plagues"],"semantic_limit":"page summary elemental assignment conflicts with Chinese chapter; Chinese controls"},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue","Queen of Fire and Skewers","Queen of Red and Black"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"project-established accepted terminology","retrieval_mode":"accepted_project_evidence","applies_to":["Highbro","Middlebro","Lowbro","Baskerville Trident","1st Fang","Staffordshire Baskerville"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0042.md","blob_sha":"a1aa1e637ca4c989bf8af23a27b140dc7ec46617"},
+  "qa": {"path":"qa/chapter-0042.md","blob_sha":"86f0339cb518587f946e5b7db7108a88b372f5c3","status":"pass"},
+  "documented_decisions": [
+    {"topic":"morgue_triplet_elements","final":"Lowsis water; Middlesis earth; Highsis plant","basis":"Chinese Chapter 42 plus independently aligned English scene; source overrides conflicting wiki summary"},
+    {"topic":"baskerville_technique","final":"1st Fang","basis":"established Fang terminology; recovered-English first form rejected"},
+    {"topic":"camus_identity","final":"Camus Morgue, age 15, same girl met at age 8","basis":"Chinese Ch. 42 identity continuity and Ch. 43 boundary confirmation"},
+    {"topic":"camus_source_epithets","final":"Queen of Fire and Skewers / Queen of Red and Black","basis":"Chinese Ch. 42 plus current indexed canonical evidence"},
+    {"topic":"chapter31_kamu","final":"not automatically reopened from Ch. 42 alone","basis":"separate prior documented issue; explicit textual linkage still required"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

@@ -9,6 +9,23 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## Morgue's United Front additions — Chapters 40–42
+
+- **Morgue's United Front** — accepted production family title for Chapters 40–42. Chinese/recovered English Ch. 43 switch to **The Fiancée (1)**.
+- **Tough Life — Infernal Buffalo (A)** — accepted Ch. 40 Beelzebub ability. It replaces Troll-derived **Superspeed Regeneration**. Recovered-English `Choke / Tight Throat Breath / Tough Breath` variants are rejected.
+- Ch. 40 current Beelzebub window: **Slot 1 Incinerate — Cerberus (A+) / Slot 2 Tough Life — Infernal Buffalo (A) / Slot 3 Hemorrhage — Hellhound (B+)**. Do not invent an old slot number for the removed Troll ability.
+- **Head Butler John Barrymore** — reaffirmed in Ch. 40; recovered-English `Deacon` is rejected.
+- **Joint punitive expedition** — accepted semantic rendering of the Ch. 40 `联合讨伐战` endpoint; recovered-English `war of attrition` is too weak/inaccurate.
+- **Light Faction / Dark Faction** — accepted Morgue internal-faction labels in Ch. 41. The source's Grand Senator / Middle Senator rank labels remain descriptive pending stronger dedicated canonical evidence.
+- **Highsis Morgue / Middlesis Morgue / Lowsis Morgue** — accepted triplet names from Ch. 41 onward.
+- **Three Flowers of Morgue** — accepted positive collective epithet for the triplets.
+- **Samhwa / Three Plagues** — accepted hostile/public collective epithet for the same triplets.
+- Triplet elemental assignments are controlled by Chinese narrative semantics despite a conflicting current Fandom summary: **Lowsis = water, Middlesis = earth, Highsis = plant**.
+- **1st Fang** — accepted Ch. 42 Baskerville-triplet technique level; recovered-English `first form` is rejected.
+- **Camus Morgue** — Ch. 42 returning fifteen-year-old, explicitly the same girl Vikir met at age eight seven years earlier.
+- **Queen of Fire and Skewers / Queen of Red and Black** — source-revealed future Camus epithets allowed from Ch. 42 onward. Do not import unrelated later relationship spoilers.
+- Ch. 42 Camus identity does **not by itself** reopen the separately documented Ch. 31 `Kamu` decision; require explicit textual linkage before retroactive revision.
+
 ## Sponsored additions — Chapters 38–39
 
 - **Sponsored** — accepted production family title for Chapters 38–39; both Chinese and recovered-English headings agree, and Chapter 40 begins **Morgue's United Front**.
@@ -55,7 +72,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Vikir's Special Law / Special Laws of Vikir** — title-family/legal label. Article 1 Sections 1–3 escalate the stake reward from 100,000,000 → 1,000,000,000 → **10,000,000,000 gold total**.
 - **Judy** — female flower seller in Ch. 30; recovered-English male pronouns are MTL drift.
 - **Trust Won by Moving the Stake** — descriptive rendering of `移木之信` in Ch. 31; not claimed as a Fandom-canonical proper title.
-- **Kamu Morgue** — separate future Morgue ruler referenced in Ch. 31. Do **not** replace with Camus Morgue.
+- **Kamu Morgue** — separate future Morgue ruler referenced in Ch. 31. Do **not** replace with Camus Morgue without explicit textual linkage.
 - **Heaven-Tilting Martial Marquis** — provisional/source-descriptive rendering of `侧天武侯` for Kamu. Recheck if stronger canonical English evidence appears.
 - Ch. 29 statute punishments remain source-controlled and explicit: drowning for smuggling; extermination of three clans for military-supply embezzlement; other bodily punishments as documented in chapter QA.
 
@@ -78,7 +95,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Morgue Clan** — accepted canonical clan name.
 - **Quadra Casting** — accepted Camus technique: simultaneous four-spell control.
 - **Fireball / Ice Sphere / Thunder Ring / Mud Wall** — accepted Ch. 23 spell names.
-- **Superspeed Regeneration — Troll (C+)** — from Ch. 20 onward, Beelzebub Slot 3 replaces Brown Rat Rapid Regeneration with this ability.
+- **Superspeed Regeneration — Troll (C+)** — from Ch. 20 onward, Beelzebub replaces Brown Rat Rapid Regeneration with this ability; this is itself replaced by Tough Life in Ch. 40.
 - Camus (8) / Osiris (20) proposed engagement gap = **12 years**; recovered-English 17-year wording rejected.
 
 ## Core names / houses
@@ -96,6 +113,8 @@ This register follows the restarted 2026-09-16 workflow:
 | **Messinadnaro Family** | Accepted from Ch. 32; destruction details become source-revealed in Ch. 39. |
 | **Boston Terrier Le Baskerville** | Accepted from Ch. 37; Count and commander of the Pit Bull Knights. |
 | **Cindywendy / Messinadnaro Sen Cindywendy** | Accepted from Ch. 39 only; preserve pre-reveal anonymity in Ch. 36–38 and exclude later spoilers. |
+| **Highsis / Middlesis / Lowsis Morgue** | Accepted from Ch. 41; triplet mages, age sixteen in current scope. |
+| **Camus Morgue** | Reaffirmed Ch. 42 at age fifteen after seven-year time skip. |
 
 ## Sword / magic ranks and Fangs
 
@@ -108,19 +127,20 @@ This register follows the restarted 2026-09-16 workflow:
 | **Sword↔mage equivalence** | Low/Mid/High Expert = 1st/2nd/3rd Circle; Low/Mid/High Graduator = 4th/5th/6th Circle; Sword Master = 7th Circle. |
 | **Baskerville Fang Sword Style / numbered Fangs** | Accepted; supersedes earlier `Forms`. Mapping: 1st=Low Expert, 2nd=Mid Expert, 3rd=High Expert, 4th=Low Graduator, 5th=Mid Graduator, 6th=High Graduator, 7th=Sword Master. |
 | **Stabbing Fang** | Accepted contextual Fang label. |
+| **1st Fang** | Reaffirmed in Ch. 42 for the young Baskerville triplets; never `first form`. |
 
 ## Places / institutions / texts
 
 | Term | Status / scope |
 |---|---|
 | **Cradle of Swords** | Accepted Ch. 1–3. |
-| **River Styx** | Accepted. Ch. 18 rumor = seven minutes, not MTL eight. |
+| **River Styx** | Accepted. Ch. 18 rumor = seven minutes, not MTL eight; Ch. 40 Tough Life stacks defensively with Styx protection. |
 | **Le Rouge et Le Noir Mountain** | Accepted. |
 | **Red Fang Mountain** | Accepted for ruby-mine/dungeon geography where source/canonical context applies. |
 | **10,000 Book Library** | Accepted Ch. 14–17. |
 | **Lurking Embedded Teeth** | Accepted scripture title Ch. 15–17. |
 | **Cradle of Needles** | Accepted contextual Vikir label in Ch. 11. |
-| **Colosseo Academy** | Accepted from Ch. 26. |
+| **Colosseo Academy** | Accepted from Ch. 26; Ch. 40 establishes Vikir's planned early enrollment. |
 | **Underdog City** | Accepted from Ch. 27. |
 | **Dortmeyer Street** | Retained Ch. 29. |
 | **Burning Suspension** | Accepted club/location from Ch. 32. |
@@ -130,15 +150,16 @@ This register follows the restarted 2026-09-16 workflow:
 
 | Term | Accepted details |
 |---|---|
-| **Brown Rat Norvegicus** | F-rank source of **Rapid Regeneration**; Slot 3 through Ch. 18. |
+| **Brown Rat Norvegicus** | F-rank source of **Rapid Regeneration**; early Beelzebub ability. |
 | **Hellhound** | B+, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge; source of **Hemorrhage**. |
 | **Cerberus** | A+, 7 m, Le Rouge et Le Noir Mountain 7th Ridge; **Hell's Watchdog**; source of **Incinerate**. |
 | **Orc** | Ch. 18: C, 2 m; **High-Speed Regeneration**. |
-| **Troll** | Ch. 19: C+, 4 m, 2nd Ridge; **Superspeed Regeneration**. |
+| **Troll** | Ch. 19: C+, 4 m, 2nd Ridge; source of **Superspeed Regeneration**, later replaced in Ch. 40. |
 | **Oxbear** | Ch. 26: A; info-window 5 m / narrative captive specimen ~3 m. |
-| **Infernal Buffalo ‘Murcielago’** | Ch. 35/37: A, 3 m, 2nd Ridge, nineteen hearts; source/aligned-English form, dedicated Fandom name not established. |
+| **Infernal Buffalo ‘Murcielago’** | Ch. 35/37: A, 3 m, 2nd Ridge, nineteen hearts; source/aligned-English name. Ch. 40 supplies **Tough Life**. |
 | **Beelzebub** | Accepted Ch. 12 onward; canonical alias **The Fly of Gluttony**. |
-| **Hemorrhage / Incinerate / Rapid Regeneration / Superspeed Regeneration** | Accepted ability names in current scope. |
+| **Tough Life** | Accepted Ch. 40 from Infernal Buffalo (A); hardens the body and replaces Troll Superspeed Regeneration. |
+| **Hemorrhage / Incinerate / Rapid Regeneration / Superspeed Regeneration** | Accepted ability names in their established scopes. |
 | **Bloody Mamba** | Scoped recovered-English fallback for Ch. 3/11 snake/venom continuity; dedicated Fandom formal species entry not established. |
 
 ## Other accepted terms / decisions
@@ -161,18 +182,21 @@ This register follows the restarted 2026-09-16 workflow:
 - Ch. 16 first-life Vikir is a **one-eyed black hound**, not MTL `right-handed black dog`; library-fire timing is ~**10h50m**.
 - Ch. 17 advances Vikir to **Low Sword Graduator**; stable 4th Fang, unstable/emerging 5th.
 - Ch. 18 isolated age phrase is resolved against repeated age-eight chronology as comparison to normal age-fifteen Low Expert milestone.
-- Ch. 20 first reveals Troll-derived Slot 3 and preserves public-vs-hidden strength separation.
+- Ch. 20 first reveals Troll-derived regeneration ability and preserves public-vs-hidden strength separation.
 - Ch. 22 future Camus information is allowed only because Chinese itself narrates it.
 - Ch. 24 Baskerville frontier extermination/pursuit strategy is preserved without sanitization.
 - Ch. 26 hidden Vikir is **Mid Sword Graduator / 5th Fang**; one contradictory Chinese phrase is documented rather than silently followed.
 - Ch. 30 reward total = **10 billion gold** from the law's own arithmetic; isolated Chinese unit-conversion slips documented.
-- Ch. 31 **Kamu Morgue ≠ Camus Morgue**.
+- Ch. 31 **Kamu Morgue ≠ Camus Morgue** remains the accepted scoped decision pending explicit contrary textual linkage.
 - Ch. 32 385-glass tower uses 81 for the 9×9 tier; isolated Chinese 80 slip rejected.
 - Ch. 34 Deputy Magistrate referent = **Vikir**, not the isolated Chinese-layer `Hugo` drift.
 - Ch. 35–37 do **not** reveal the tribal girl’s or Gambino secretary’s later canonical names early.
 - Ch. 36 uses **5th Fang / Sword Graduator**, not recovered-English `Fifth Form / Gradient`.
 - Ch. 38 `티오` = dungeon vacancy/open slot, not a proper name.
 - Ch. 39 is the first accepted reveal point for **Cindywendy** and **Messinadnaro Sen Cindywendy**.
+- Ch. 40 Tough Life replaces Superspeed Regeneration; no unsupported old slot number is invented.
+- Ch. 41 recovered-English Wolfhound rivalry line is excluded because it is absent from Chinese.
+- Ch. 42 Chinese controls Morgue-triplet elemental assignments; **1st Fang** replaces `first form`; Camus returns after seven years.
 
 ## Accepted title-family evidence
 
@@ -188,6 +212,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **The Social Club, Ch. 32–34:** `qa/families/social-club-0032-0034.md`
 - **Slave Auction, Ch. 35–37:** `qa/families/slave-auction-0035-0037.md`
 - **Sponsored, Ch. 38–39:** `qa/families/sponsored-0038-0039.md`
+- **Morgue's United Front, Ch. 40–42:** `qa/families/morgue-united-front-0040-0042.md`
 
 ## Canonical-reference access note
 

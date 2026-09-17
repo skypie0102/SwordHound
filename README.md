@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **39 / 500 accepted; next Chapter 40.** Twelve complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), 35–37 (*Slave Auction*), and 38–39 (*Sponsored*).
+Current checkpoint: **42 / 500 accepted; next Chapter 43.** Thirteen complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), 35–37 (*Slave Auction*), 38–39 (*Sponsored*), and 40–42 (*Morgue's United Front*).
 
-The next verified family is **Chapters 40–42 — Morgue's United Front (1)–(3)**. Chinese and recovered English Chapter 43 change to **The Fiancée (1)**.
+The next verified family is **Chapters 43–45 — The Fiancée (1)–(3)**. Chinese and recovered English Chapter 46 change to **The Husband Hunt (1)**.
 
 ## Current source policy
 
@@ -38,28 +38,29 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Sponsored family adds/revalidates:
+The accepted Morgue's United Front family adds/revalidates:
 
-- **Cindywendy** — first revealed by name in Chapter 39.
-- **Messinadnaro Sen Cindywendy** — Chapter 39 true family identity; later-life material remains chronology-scoped and excluded.
-- **Messinadnaro Family** — the framed eighth local merchant family; Chapter 39 establishes the stolen-swordsmanship setup and the surviving daughter's connection.
-- Chapter 38 stray Korean `티오` = an available **vacancy/open slot**, rendered contextually as an open dungeon cell/space rather than a person named “Tio.”
-- The imperial anti-slave-hunting rationale remains source-faithful: fear of private military forces, rebellion, and coups.
-- Vikir's apology on behalf of Baskerville and Cindywendy's promise to finance him are preserved exactly at their Chapter 39 reveal point.
+- **Tough Life — Infernal Buffalo (A)** — Beelzebub ability replacing Troll-derived Superspeed Regeneration in Chapter 40.
+- **Sword Graduator** — the Chapter 40 assassin's rank; recovered-English `Gradual` rejected.
+- **Head Butler John Barrymore** — canonical role/name; recovered-English `Deacon` rejected.
+- **Highsis Morgue / Middlesis Morgue / Lowsis Morgue** — Morgue triplets, also the **Three Flowers of Morgue** / **Samhwa (Three Plagues)**.
+- Chinese semantics control their elements despite a conflicting wiki summary: **Lowsis = water, Middlesis = earth, Highsis = plant**.
+- **1st Fang** — Baskerville triplets' Chapter 42 technique level; recovered-English `first form` rejected.
+- **Camus Morgue** — returns at age fifteen after seven years; source-revealed epithets **Queen of Fire and Skewers** and **Queen of Red and Black** are allowed without importing later spoilers.
 
-Earlier accepted terminology includes **Freak Show**, **Infernal Buffalo ‘Murcielago’**, **Boston Terrier Le Baskerville**, **Pit Bull Knights**, **Burning Suspension**, **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
+Earlier accepted terminology includes **Cindywendy / Messinadnaro Sen Cindywendy**, **Freak Show**, **Infernal Buffalo ‘Murcielago’**, **Boston Terrier Le Baskerville**, **Pit Bull Knights**, **Burning Suspension**, **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–39**:
+Current accepted production evidence covers Chapters **1–42**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0039.md`
-- `qa/chapter-0001.md` through `chapter-0039.md`
-- accepted family QA through `qa/families/sponsored-0038-0039.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0039.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0039.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0042.md`
+- `qa/chapter-0001.md` through `chapter-0042.md`
+- accepted family QA through `qa/families/morgue-united-front-0040-0042.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0042.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0042.json`
 
-Latest family QA: `qa/families/sponsored-0038-0039.md` — **PASS**.
+Latest family QA: `qa/families/morgue-united-front-0040-0042.md` — **PASS**.
 
 ## Editorial quality bar
 

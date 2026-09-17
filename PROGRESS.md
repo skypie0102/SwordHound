@@ -1,33 +1,44 @@
 # Reconstruction Progress
 
-## 2026-09-18 — Sponsored (1)–(2) accepted under restarted workflow
+## 2026-09-18 — Morgue's United Front (1)–(3) accepted under restarted workflow
 
-**Current state:** 39 / 500 accepted; 0 staged; next Chapter 40.
+**Current state:** 42 / 500 accepted; 0 staged; next Chapter 43.
 
-Completed the twelfth contiguous title-family batch:
+Completed the thirteenth contiguous title-family batch:
 
-- Chapter 38 — *Sponsored (1)*
-- Chapter 39 — *Sponsored (2)*
+- Chapter 40 — *Morgue's United Front (1)*
+- Chapter 41 — *Morgue's United Front (2)*
+- Chapter 42 — *Morgue's United Front (3)*
 
-English references 38→38 and 39→39 were independently verified by complete content. Family QA: `qa/families/sponsored-0038-0039.md` — **PASS**.
+English references 40→40 through 42→42 were independently verified by complete content. Family QA: `qa/families/morgue-united-front-0040-0042.md` — **PASS**.
 
 Major editorial/canonical work:
 
-- preserved the full Burning Suspension aftermath, including the seven-house confiscation/treason punishments and the imperial anti-slave-hunting rationale centered on private armies, rebellion, and coups;
-- preserved Vikir's public-support surge, review of prior convictions, releases, administrative hiring, tax changes, and broader legal reform sequence;
-- resolved the Chapter 38 stray Korean `티오` as an available vacancy/open slot and rendered the final question as whether an open dungeon cell/space remained, rejecting the MTL's invented person-like “Tio” reading;
-- accepted **Cindywendy** at her Chapter 39 reveal point and preserved the alias-to-family-identity sequence **Sen Rose Cindywendy → Messinadnaro Sen Cindywendy**;
-- preserved Cindywendy's critique of Vikir's rule and her advice to relinquish authority, keep a low profile, cultivate learning, and build long-term legitimacy;
-- preserved the Messinadnaro frame-up through stolen Baskerville swordsmanship and the revelation that the other seven heirs engineered it;
-- retained the survivor's cruel/degrading/humiliating abuse only at the level stated by the Chinese narrator, which explicitly declines to describe the acts;
-- preserved the seven heirs' blood-written apologies, the room of headless corpses, Vikir's statement that House Baskerville remains Cindywendy's final enemy, and his apology on behalf of Baskerville;
-- preserved Cindywendy's endpoint promise that Vikir will never lack money, establishing the title-family payoff;
-- excluded later Cindywendy titles, relationships, and other post-Chapter-39 information to protect reveal chronology.
+- accepted **Tough Life — Infernal Buffalo (A)** as Beelzebub's new ability and rejected recovered-English `Choke / Tight Throat Breath / Tough Breath` variants;
+- preserved the **Sword Graduator** assassin, River Styx + Tough Life defensive synergy, and three-day assassination-attempt sequence;
+- retained **Head Butler John Barrymore** instead of recovered-English `Deacon`;
+- preserved Hugo's Colosseo Academy reward, the admission-age limits, Vikir's recommendation of Highbro/Middlebro/Lowbro, and the agricultural-law inspection setup;
+- rendered the Ch. 40 endpoint as a **joint punitive expedition**, rejecting the MTL's weaker `war of attrition` wording;
+- preserved the covert Morgue/Baskerville frontier deployment and the burned, impaled corpses used as border warnings;
+- excluded a recovered-English Wolfhound Knights rivalry line absent from Chinese;
+- accepted **Highsis Morgue / Middlesis Morgue / Lowsis Morgue**, **Three Flowers of Morgue**, and **Samhwa / Three Plagues**;
+- where current Fandom summary material conflicts with the chapter, followed Chinese semantic authority: **Lowsis = water, Middlesis = earth, Highsis = plant**;
+- preserved the six-way triplet confrontation and normalized Baskerville `first form` to established **1st Fang**;
+- preserved Vikir's cynical internal reaction and the full burns/iron-spike injuries from the interruption;
+- accepted **Camus Morgue** as the returning fifteen-year-old from Vikir's age-eight meeting and retained source-revealed epithets **Queen of Fire and Skewers** and **Queen of Red and Black** without importing later relationship spoilers;
+- did not automatically rewrite the separately documented Chapter 31 `Kamu` decision from Chapter 42 alone.
 
 Next verified family:
 
-- **Chapters 40–42 — Morgue's United Front (1)–(3)**
-- Chinese and recovered English Chapter 43 switch to **The Fiancée (1)**.
+- **Chapters 43–45 — The Fiancée (1)–(3)**
+- Chinese and recovered English Chapter 46 switch to **The Husband Hunt (1)**.
+
+## 2026-09-18 — Sponsored (1)–(2) accepted under restarted workflow
+
+**Checkpoint at that time:** 39 / 500 accepted; next Chapter 40.  
+Family QA: `qa/families/sponsored-0038-0039.md` — **PASS**.
+
+Major decisions: Burning Suspension aftermath, seven-house punishments, `티오`→dungeon vacancy/open slot, Cindywendy reveal chronology, Messinadnaro frame-up, blood-written apologies, Vikir's apology, and sponsor promise.
 
 ## 2026-09-17 — Slave Auction (1)–(3) accepted under restarted workflow
 

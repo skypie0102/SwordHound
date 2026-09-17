@@ -2,13 +2,13 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 39  
+**Accepted:** 42  
 **Staged:** 0  
-**Next chapter:** 40
+**Next chapter:** 43
 
 ## Current accepted checkpoint
 
-Twelve complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
+Thirteen complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
 
 - Chapters 1–3 — *Hellhound (1)–(3)*
 - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
@@ -22,29 +22,33 @@ Twelve complete title families have passed the restarted Chinese-semantic/Fandom
 - Chapters 32–34 — *The Social Club (1)–(3)*
 - Chapters 35–37 — *Slave Auction (1)–(3)*
 - Chapters 38–39 — *Sponsored (1)–(2)*
+- Chapters 40–42 — *Morgue's United Front (1)–(3)*
 
-Latest family QA: `qa/families/sponsored-0038-0039.md` — **PASS**.
+Latest family QA: `qa/families/morgue-united-front-0040-0042.md` — **PASS**.
 
 Every accepted chapter has a Chinese-first draft, chapter QA, provenance, and hash-bound acceptance record. Recovered English MTL/XHTML is used only after title/content alignment and never overrides Chinese narrative meaning.
 
-## Sponsored family decisions
+## Morgue's United Front family decisions
 
-- Targets 38→38 and 39→39 were verified by complete scene sequence and endpoints.
-- Chapter 38 begins with the destruction of **Burning Suspension** and preserves the purge's legal/economic aftermath: confiscation of the seven local families' property, treason/three-clan extermination penalties, doubled punishment for implicated affiliates, and the public reform sequence.
-- The imperial prohibition on slave hunting is retained in its source logic: the court fears private armies and rebellion, not a newly invented humanitarian rationale.
-- Vikir's public support, review of historical convictions, release of wrongfully imprisoned people, civil-service hiring, and tax-funded administrative expansion remain source-controlled.
-- The Chapter 38 stray Korean `티오` is interpreted by meaning as an available **vacancy/open slot**; in context Vikir asks whether there is an open cell/space left in the dungeon. It is not treated as a person named “Tio.”
-- Chapter 39 reveals **Sen Rose Cindywendy** and then her true family identity, **Messinadnaro Sen Cindywendy**, in source order. Later-life titles/relationships are not imported early.
-- Cindywendy's critique of Vikir's harsh governance, her recommendation that he return authority and keep a lower profile, and Vikir's recognition that this matches his own future plans are preserved.
-- The **Messinadnaro Family** was framed through stolen Baskerville swordsmanship by the heirs of the seven local families; the surviving girl suffered cruel, degrading, humiliating abuse, but the Chinese narrator deliberately withholds details and the reconstruction does not invent them.
-- The seven executed heirs' blood-written apologies, the revelation that House Baskerville itself remains Cindywendy's final enemy, Vikir's apology on behalf of Baskerville, and Cindywendy's promise that Vikir will never lack money are preserved without sanitization or later spoilers.
+- Targets 40→40 through 42→42 were verified by complete scene sequence and endpoints.
+- Chapter 40 replaces Troll-derived **Superspeed Regeneration** with **Tough Life — Infernal Buffalo (A)** in Beelzebub. Recovered-English `Choke / Tight Throat Breath / Tough Breath` are rejected.
+- The Chapter 40 assassin is a **Sword Graduator**, and the River Styx + Tough Life synergy leaves only a faint wound from his dagger.
+- **Head Butler John Barrymore** brings Vikir to Hugo; recovered-English `Deacon` is rejected.
+- Hugo rewards Vikir with admission to **Colosseo Academy**, asks which brothers he wants to accompany him, and accepts Highbro/Middlebro/Lowbro as his answer.
+- Hugo's agricultural-law discussion leads directly into the age-eight ruby-mine strategy and a **joint punitive expedition** with the Morgue Clan; recovered-English `war of attrition` is rejected.
+- Chapter 41 preserves the covert Morgue/Baskerville frontier deployment and the burned, impaled corpses used as a border warning. The recovered-English Wolfhound-rivalry line absent from Chinese is excluded.
+- **Highsis Morgue, Middlesis Morgue, Lowsis Morgue**, **Three Flowers of Morgue**, and **Samhwa / Three Plagues** are accepted for the Morgue triplets.
+- Chinese semantic authority controls the sisters' elements where current Fandom summary material conflicts: **Lowsis = water, Middlesis = earth, Highsis = plant**.
+- Chapter 42 uses **1st Fang**, not recovered-English `first form`, for the Baskerville triplets' current technique level.
+- **Camus Morgue** returns at age fifteen, seven years after the age-eight meeting. Source-revealed epithets **Queen of Fire and Skewers** and **Queen of Red and Black** are retained without importing later relationship spoilers.
+- Camus's identity here does not by itself rewrite the separately documented Chapter 31 `Kamu` decision without explicit textual linkage.
 
 ## Next verified title family
 
-- **Chapters 40–42 — Morgue's United Front (1)–(3)**
-- Chinese headings: `米尔格家族的联合战线 (1)` through `(3)`.
-- Recovered English headings: *Morgue's United Front (1)–(3)*.
-- Chinese and recovered English Chapter 43 switch to **The Fiancée (1)**.
+- **Chapters 43–45 — The Fiancée (1)–(3)**
+- Chinese headings: `订婚女 (1)` through `(3)`.
+- Recovered English headings: *The Fiancée (1)–(3)*.
+- Chinese and recovered English Chapter 46 switch to **The Husband Hunt (1)**.
 
 ## Source authority
 
@@ -66,4 +70,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Merge the clean **Sponsored (1)–(2), Chapters 38–39** checkpoint, branch from merged main for **Morgue's United Front, Chapters 40–42**, read complete Chinese 40–42 with Chapter 43 as the boundary witness, independently align recovered English 40–42 by complete content, revalidate newly introduced terms and characters, reconstruct and QA the full family, then continue onward without stopping at the PR.
+Merge the clean **Morgue's United Front (1)–(3), Chapters 40–42** checkpoint, branch from merged main for **The Fiancée, Chapters 43–45**, read complete Chinese 43–45 with Chapter 46 as the boundary witness, independently align recovered English 43–45 by complete content, revalidate Camus/Morgue terminology and reveal chronology, reconstruct and QA the full family, then continue onward without stopping at the PR.
