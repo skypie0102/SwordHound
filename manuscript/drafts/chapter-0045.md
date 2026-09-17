@@ -184,7 +184,7 @@ There were many people nearby besides her and the boy.
 
 For Camus—the supernova of Morgue, the prodigy everyone admired, the future clan head—the thought of being exposed and humiliated in front of them was unbearable.
 
-Eight years old or not, she had pride.
+Even at eight, she could have the beginnings of a first crush, and she certainly had pride.
 
 Camus fought back tears.
 
@@ -272,9 +272,11 @@ Then the impossible happened.
 
 The boy turned what Camus had considered a hopeless situation around.
 
+At the decisive moment, Vikir broke Adolf's sword. A flying fragment struck the water jar balanced above him.
+
 CRASH!
 
-The water jar broke, soaking Adolf as water streamed down over him.
+The jar shattered, soaking Adolf as water streamed down over him.
 
 Her uncle's expression went completely blank.
 
