@@ -5,21 +5,31 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-17
-- **Updated by:** ChatGPT — Bared Teeth source/alignment checkpoint
+- **Updated by:** ChatGPT — Bared Teeth acceptance checkpoint
 - **Working branch:** `editorial/restart-bared-teeth-family`
 - **Base main checkpoint:** `fc4620c6134c9230eb6fe1047949021fa3c98b9b` (PR #11 merged)
-- **Current PR:** not yet created
+- **Current PR:** pending creation
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
 - **Target edition:** 500 chapters
-- **Accepted:** **17**
+- **Accepted:** **19**
 - **Staged:** **0**
-- **Next chapter:** **18**
-- **Active family:** **Chapters 18–19 — Bared Teeth (1)–(2)**
-- **Family boundary:** **VERIFIED**. Chapter 20 changes to **Camus Morgue (1)**.
-- **Latest accepted family:** Chapters 14–17 — *Solitary (1)–(4)* — family QA PASS.
+- **Next chapter:** **20**
+- **Latest accepted family:** **Chapters 18–19 — Bared Teeth (1)–(2)**
+- **Latest family QA:** `qa/families/bared-teeth-0018-0019.md` — **PASS** — `42ca0651bb0ec731cc80a3aac892e5dfd0cf02b3`
+- **Next family:** **Chapters 20–25 — Camus Morgue (1)–(6)**
+- **Next-family boundary:** **VERIFIED** from Chinese + recovered-English headings. Chinese Chapter 26 changes to `毕业生 (graduater) (1)` and recovered English Chapter 26 is *The Graduate (1)*.
+
+Accepted families so far:
+
+1. Chapters 1–3 — *Hellhound (1)–(3)*
+2. Chapters 4–7 — *The Baskerville Dog (1)–(4)*
+3. Chapters 8–11 — *Hounds of Hell (1)–(4)*
+4. Chapters 12–13 — *The Gluttonous Flies (1)–(2)*
+5. Chapters 14–17 — *Solitary (1)–(4)*
+6. Chapters 18–19 — *Bared Teeth (1)–(2)*
 
 ## Rules that must not be lost
 
@@ -34,9 +44,9 @@
 - Keep information windows atomic.
 - Numbered Baskerville techniques are **Fangs**, not Forms.
 
-## Current family — Chapters 18–19: Bared Teeth
+## Accepted family — Chapters 18–19: Bared Teeth
 
-### Boundary and source SHAs
+### Boundary and verified MTL mapping
 
 Chinese:
 - `018.txt` — `显露的獠牙 (1)` — `7c313862e83ae30acfd9270ae5e0972d82eecf65`
@@ -44,54 +54,83 @@ Chinese:
 - boundary witness `020.txt` — `米尔格·卡米耶 (1)` — `b4b2011e2c0ab569f7ee420c05608498970d2dd8`
 
 Recovered English:
-- target 18 → MTL 18 — `5d58111d3a188ea82343910782f38dc22da8caea` — **verified by full content**
-- target 19 → MTL 19 — `bdaa1abc7dfe521570a9998c43099c576da16d37` — **verified by full content**
+- target 18 → MTL 18 — `5d58111d3a188ea82343910782f38dc22da8caea` — verified by full content
+- target 19 → MTL 19 — `bdaa1abc7dfe521570a9998c43099c576da16d37` — verified by full content
 - Chapter 20 title witness — `5706f9f22b35d53b4e58208c3e24c04f59e40632`
 
-Alignment evidence:
-- 17→18: Vikir leaves the burned scripture/library and is immediately summoned by Hugo.
-- Ch. 18: Hugo asks what Vikir learned; training-ground test; C-rank Orc; Vikir reveals gaseous aura/1st Fang; asks for a larger opponent.
-- Ch. 19: C+ Troll; Vikir first uses 1st Fang, then deliberately reveals 2nd Fang / Mid Sword Expert to sever the neck.
-- 19→20: Chapter 20 explicitly records the public state as **2nd Fang / Mid Sword Expert** and the real hidden state as **Low Sword Graduator / 4th Fang**, then begins the Camus Morgue family.
-
-### Current canonical evidence
-
-Current indexed Fandom evidence establishes:
-- **Orc** — Danger Rating **C**, **2 m**, humanoid demonic creature; **High-Speed Regeneration**.
-- **Troll** — Danger Rating **C+**; canonical skill **Superspeed Regeneration**.
-- **Le Rouge et Le Noir Mountain** remains the canonical mountain name.
-- Dedicated `Baskerville Clan/Swordsmanship` page maps **1st Fang = Stabbing Fang = Low Sword Expert** and **2nd Fang = Mid Sword Expert**.
-- A separate Fandom `Martial Skills` page gives conflicting descriptive names for early Fang material. For this family, use the dedicated clan swordsmanship progression and document the page conflict rather than pretending the wiki is uniform.
-- Existing accepted Beelzebub slot terms remain **Incinerate / Hemorrhage / Rapid Regeneration**.
-
-### Source-specific issues / repairs to preserve
+### Final evidence
 
 Chapter 18:
-- Chinese repeatedly establishes Vikir as **eight**, but one late sentence literally calls him a `15-year-old youth`. Chapter 20 immediately explains that **Low Sword Expert / 1st Fang is the typical fifteen-year-old Baskerville milestone**. Treat the isolated Ch. 18 age phrase as a source/translation inconsistency and render the intended comparison rather than changing Vikir's actual age.
-- Chinese rumor says Vikir stayed in River Styx for **seven minutes**; recovered English incorrectly says eight.
-- Opening question means Hugo asks what Vikir **gained/realized**, not MTL `Did you have a bad day?`.
-- Orc location should follow the Chinese lowlands/foothills of the Le Rouge et Le Noir range, not MTL `Enemies and the Black Mountains Valley`.
-- Keep the Orc information block complete.
-- Beelzebub's Hemorrhage suppresses the Orc's High-Speed Regeneration.
-- Vikir is really Low Sword Graduator after Ch. 17 but intentionally displays only **Low Sword Expert / 1st Fang** here.
+- draft — `5ec87f0e1ebd2dfd8ff4022a820f9dfb1c4c14e6`
+- QA — `73d94ecad060606f77111fec4ee3c9fabac857ec`
+- provenance — `134eee9c797fcfe4c4e190c41475afb02d34b06a`
+- acceptance — `6700aa6ade3cb75144ba018d424f52259759c460`
 
 Chapter 19:
-- Troll window is **Danger Rating C+**, not MTL C.
-- Troll location is the **2nd Ridge of Le Rouge et Le Noir Mountain**.
-- Troll's regeneration is the reason nonfatal attacks are wasted.
-- Vikir deliberately waits for the Troll's charge to supply counterforce.
-- Final disclosed power is **2nd Fang / Mid Sword Expert**, still far below his actual Low Sword Graduator / stable 4th Fang state.
-- Chapter 20, not Chapter 19, reveals Beelzebub's third slot changing to the Troll's **Superspeed Regeneration**; do not import that update early.
+- draft — `9ce9bca35ff2b02ac8362d408d256ea42e47194e`
+- QA — `8c392cd67005b44826ab58e927996efd06efcc92`
+- provenance — `4d5abd647ad9cd11a79770b0cb76b764103abb32`
+- acceptance — `cedeab6407b3364e25fa22a42f5770ee90f2c76c`
+
+### Accepted terminology / decisions
+
+- **Orc** — Danger Rating **C**, **2 m**, Le Rouge et Le Noir Mountain lowlands
+- Orc **High-Speed Regeneration**
+- **Troll** — Danger Rating **C+**, **4 m**, Le Rouge et Le Noir Mountain 2nd Ridge
+- Troll **Superspeed Regeneration**
+- **1st Fang / Low Sword Expert** — Vikir's public Chapter 18 reveal
+- **2nd Fang / Mid Sword Expert** — Vikir's public Chapter 19 reveal
+- Vikir's actual hidden state remains **Low Sword Graduator** from Chapter 17.
+- Chapter 18 contains one isolated source phrase calling Vikir fifteen. It conflicts with repeated age-eight chronology and Chapter 20's age/rank formula; accepted rendering treats it as comparison with the normal age-fifteen Low Sword Expert milestone.
+- Chinese Chapter 18 River Styx rumor is **seven minutes**, not the MTL's eight.
+- Chapter 19 does not reveal the Troll-derived Beelzebub Slot 3 update early; that occurs in Chinese Chapter 20.
+- Current Fandom pages conflict on some descriptive names for early Fang techniques. Use the dedicated `Baskerville Clan/Swordsmanship` progression for Fang/rank mapping and keep the conflict documented.
+
+## Next family — Chapters 20–25: Camus Morgue
+
+### Verified boundary
+
+Chinese headings:
+- Ch. 20 — `米尔格·卡米耶 (Morgue Camille) (1)` — `b4b2011e2c0ab569f7ee420c05608498970d2dd8`
+- Ch. 21 — `米尔格·卡穆 (Morgue Camille) (2)` — `27a08de60fce2e2150ebcc90ba5eea86ab383b13`
+- Ch. 22 — `米尔格·卡穆 (Morgue Camille) (3)` — `17f6cd386ca806da124b0de11909715de7944a3f`
+- Ch. 23 — `米尔格·卡缪 (Morgue Camille) (4)` — `73fb36644fc0e0c51009d97bc9c07f2b0a0af637`
+- Ch. 24 — `米尔格 卡穆 (Morgue Camille) (5)` — `e3d233f295f21607d3202b9c7f22f063554b23dc`
+- Ch. 25 — `米尔格 卡米尔 (Morgue Camille) (6)` — `572b82701f79f0783d4f6b9b8d24a9260fd3ba02`
+- Ch. 26 changes to `毕业生 (graduater) (1)` — `6920eefdb1a96d09fb192e54c63f9accef9e5312`
+
+Recovered English headings:
+- Ch. 20 — *Camus Morgue (1)* — `5706f9f22b35d53b4e58208c3e24c04f59e40632`
+- Ch. 21 — *Camus Morgue (2)* — `6a136140fa0bbd0ea36149300c06556f02f3ab35`
+- Ch. 22 — *Camus Morgue (3)* — `e68bf780fc6fc3ea98d4db202ca550454235b894`
+- Ch. 23 — *Camus Morgue (4)* — `9ef560af4531c37e8c0116a30657582abe0bf768`
+- Ch. 24 — *Camus Morgue (5)* — `7a799d74556660c1012b4cc784949918c9b60bd4`
+- Ch. 25 — *Camus Morgue (6)* — `6786ee3abb472c7967c026cf82732e4c0d9d325e`
+- Ch. 26 — *The Graduate (1)* — `4eed63b8033df0171e64a1c1b902aa359f0fca99`
+
+**Important:** only the title-family boundary is verified so far. Full 20→20 through 25→25 content alignment must still be established before those English files are used editorially.
+
+### Known Chapter 20 continuity lead
+
+Chinese Chapter 20 immediately records:
+- public Vikir = **Mid Sword Expert / 2nd Fang** at age eight;
+- hidden real Vikir = **Low Sword Graduator / 4th Fang**, with Fifth Fang progress near at hand;
+- Beelzebub Slot 3 replaces Brown Rat Rapid Regeneration with Troll **Superspeed Regeneration**;
+- the Highbro/Middlebro/Lowbro triplets approach Vikir while he eats haggis.
+
+This is legitimate Chapter 20 material and must not be backfilled into Chapter 19.
 
 ## Exact next actions
 
-1. Draft fresh Chinese-first Chapters 18–19.
-2. QA Chapter 18 with special attention to the age inconsistency, seven-minute Styx rumor, Orc window, Beelzebub window, and deliberate low-rank disclosure.
-3. QA Chapter 19 with complete Troll window and deliberate Mid Sword Expert / 2nd Fang disclosure.
-4. Run 18–19 family QA including 17→18 and 19→20 continuity.
-5. Create hash-bound provenance/acceptance; update tracker/status/project/progress/glossary/handoff.
-6. Merge the Bared Teeth family if clean.
-7. Immediately determine and begin the complete **Camus Morgue** family starting at Chapter 20.
+1. Open and merge the clean Bared Teeth PR after verifying mergeability.
+2. Create a fresh branch from merged main for **Camus Morgue Chapters 20–25**.
+3. Read complete Chinese Chapters 20–25 first; use Chinese 26 opening as the boundary/continuity witness.
+4. Read complete recovered English 20–25 and independently verify each target↔MTL mapping by opening, scene sequence, entities, techniques, and endpoints.
+5. Reverify **Camus Morgue** current-era canonical details against current English Fandom evidence without importing later Ironblood Empress revelations before the Chinese does.
+6. Reconstruct all six chapters as one family.
+7. Run per-chapter QA + 20–25 family QA, including 19→20 and 25→26 continuity.
+8. Create hash-bound provenance/acceptance, update glossary/tracker/status/project/progress/handoff, merge if clean.
+9. Immediately determine and begin the Chapter 26 *The Graduate/Graduator* family.
 
 ## Persistent exceptions
 
