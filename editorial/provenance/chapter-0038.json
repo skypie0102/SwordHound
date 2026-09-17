@@ -1,0 +1,23 @@
+{
+  "chapter": 38,
+  "title": "Sponsored (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Sponsored","range":[38,39],"family_qa_path":"qa/families/sponsored-0038-0039.md","family_qa_sha":"b3cd0785bb5613a49332e7c1041a6939fa559935","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/038.txt","blob_sha":"172b7a69e9cd841c14d311aa0bafe03b998d9738","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-038.xhtml","blob_sha":"48267aed194d2bba467a9007c7d96b21de0deb73","target_alignment":38,"alignment_status":"verified_by_burning_suspension_aftermath_seven_house_punishments_public_reforms_chihuahua_and_dungeon_vacancy_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/039.txt","blob_sha":"00bff99e9c659823dc9bdcd0367e776c11c48e2b","purpose":"continues directly in dungeon with the single preserved prisoner"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Deputy Magistrate"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Morgue Clan","retrieval_mode":"project_established_plus_aligned_boundary","applies_to":["Morgue"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0038.md","blob_sha":"77a7a665336262537e427a9c88d0b876bb22172a"},
+  "qa": {"path":"qa/chapter-0038.md","blob_sha":"6ad1a27fa429da47bf0dea51854c9cc7415eab7e","status":"pass"},
+  "documented_decisions": [
+    {"topic":"dungeon_tio","final":"open cell / vacancy, not a person named Tio","basis":"stray Korean 티오 is vacancy/available-slot slang plus Chapter 39 dungeon continuity"},
+    {"topic":"ruby_mine_partner","final":"Morgue","basis":"aligned English Chapter 38 plus following Morgue's United Front family"},
+    {"topic":"seven_house_punishment","final":"asset confiscation, treason/three-clan extermination, doubled affiliate punishment","basis":"Chinese Chapter 38"},
+    {"topic":"governance_aftermath","final":"public support, historical-case review, releases, hiring and legal reforms retained","basis":"Chinese Chapter 38"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

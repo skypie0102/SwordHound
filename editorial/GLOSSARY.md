@@ -9,6 +9,18 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## Sponsored additions — Chapters 38–39
+
+- **Sponsored** — accepted production family title for Chapters 38–39; both Chinese and recovered-English headings agree, and Chapter 40 begins **Morgue's United Front**.
+- **Cindywendy** — accepted at her first source reveal in Ch. 39. Before this point, Baron Gambino's green-blond secretary remains unnamed.
+- **Sen Rose Cindywendy** — Ch. 39 alias/presented identity used before the family reveal.
+- **Messinadnaro Sen Cindywendy** — accepted true family identity as revealed in Ch. 39. Later titles, relationships, and life history remain chronology-scoped and must not be imported early.
+- **Messinadnaro Family** — Ch. 39 establishes that the family was framed through stolen Baskerville swordsmanship by heirs of the seven local families; the family was then destroyed by Baskerville action based on the false appearance of a military-secret leak.
+- The Messinadnaro survivor's abuse is described only as cruel, degrading, and humiliating; the narrator explicitly refuses to detail it. Do not invent specific acts.
+- Chapter 38 stray Korean `티오` means a **vacancy / open slot** in context. Render Vikir's question as asking whether there is an open cell/space in the dungeon; do not create a character named `Tio`.
+- Chapter 38's anti-slave-hunting law rationale is political/military: the imperial court fears private slave-hunting armies becoming rebellion or coup forces. Do not rewrite it as a modern humanitarian rationale absent from the source.
+- Chapter 39 preserves Vikir's apology on behalf of Baskerville and Cindywendy's promise that he will never lack money; this is the title-family payoff establishing her as his sponsor.
+
 ## Slave Auction additions — Chapters 35–37
 
 - **Slave Auction** — accepted production family title for Chapters 35–37. Chinese Ch. 35 has anomalous `拍卖场之花 (1)`, but Ch. 36–37 numbering plus complete recovered-English alignment establish one three-part family.
@@ -28,7 +40,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Burning Suspension** — accepted club name for the elite 69th–70th-floor Underdog City social club; supported by current indexed Fandom evidence.
 - **Messinadnaro Family** — accepted name for the removed eighth local/merchant family referenced in Ch. 32. Do not import later destruction details before the Chinese reveals them.
 - **Youth Self-Governance Committee** — descriptive rendering for the local heirs’ civic organization. Do not promote corrupted Chinese/MTL syllables into a false canonical proper noun.
-- **Montblanc / Pierre / Louis Vuitton / Chanel / Ferragamo / Hermes / Prada** — seven active local-house spellings retained from Chinese/transliterated witnesses. Treat as source-controlled unless stronger dedicated Fandom entries are found.
+- **Montblanc / Pierre / Louis Vuitton / Chanel / Ferragamo / Hermes / Prada** — seven active local-house spellings retained from Chinese/transliterated witnesses. Treat as source-controlled unless stronger dedicated canonical entries are found.
 - **Donquixote Perignon 666** — source fictional luxury champagne label in Ch. 32; not independently promoted as a Fandom-canonical term.
 - **Sword Graduator** — established rank used in Ch. 33; recovered-English `Gradient` is rejected.
 - Chapter 32 champagne tower = **385 glasses**: 100 + 81 + 64 + 49 + 36 + 25 + 16 + 9 + 4 + 1. Isolated later Chinese `80` on the 9×9 explosion tier is a source slip; preserve 81.
@@ -81,8 +93,9 @@ This register follows the restarted 2026-09-16 workflow:
 | **Baskerville Trident** | Accepted contextual label for the triplets where source invokes it. |
 | **Cain Baskerville / Abel Baskerville** | Accepted in Ch. 12. Cain survives/leaves note; Abel is the dead younger twin. |
 | **Chihuahua Baskerville** | Accepted from Ch. 28; male outsider-born administrator / General Secretary. |
-| **Messinadnaro Family** | Accepted from Ch. 32; removed eighth local/merchant house, chronology-scoped. |
+| **Messinadnaro Family** | Accepted from Ch. 32; destruction details become source-revealed in Ch. 39. |
 | **Boston Terrier Le Baskerville** | Accepted from Ch. 37; Count and commander of the Pit Bull Knights. |
+| **Cindywendy / Messinadnaro Sen Cindywendy** | Accepted from Ch. 39 only; preserve pre-reveal anonymity in Ch. 36–38 and exclude later spoilers. |
 
 ## Sword / magic ranks and Fangs
 
@@ -158,6 +171,8 @@ This register follows the restarted 2026-09-16 workflow:
 - Ch. 34 Deputy Magistrate referent = **Vikir**, not the isolated Chinese-layer `Hugo` drift.
 - Ch. 35–37 do **not** reveal the tribal girl’s or Gambino secretary’s later canonical names early.
 - Ch. 36 uses **5th Fang / Sword Graduator**, not recovered-English `Fifth Form / Gradient`.
+- Ch. 38 `티오` = dungeon vacancy/open slot, not a proper name.
+- Ch. 39 is the first accepted reveal point for **Cindywendy** and **Messinadnaro Sen Cindywendy**.
 
 ## Accepted title-family evidence
 
@@ -172,6 +187,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Special Laws of Vikir, Ch. 28–31:** `qa/families/special-laws-0028-0031.md`
 - **The Social Club, Ch. 32–34:** `qa/families/social-club-0032-0034.md`
 - **Slave Auction, Ch. 35–37:** `qa/families/slave-auction-0035-0037.md`
+- **Sponsored, Ch. 38–39:** `qa/families/sponsored-0038-0039.md`
 
 ## Canonical-reference access note
 
