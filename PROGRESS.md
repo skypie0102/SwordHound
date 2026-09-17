@@ -1,38 +1,45 @@
 # Reconstruction Progress
 
-## 2026-09-17 — The Social Club (1)–(3) accepted under restarted workflow
+## 2026-09-17 — Slave Auction (1)–(3) accepted under restarted workflow
 
-**Current state:** 34 / 500 accepted; 0 staged; next Chapter 35.
+**Current state:** 37 / 500 accepted; 0 staged; next Chapter 38.
 
-Completed the tenth contiguous title-family batch:
+Completed the eleventh contiguous title-family batch:
 
-- Chapter 32 — *The Social Club (1)*
-- Chapter 33 — *The Social Club (2)*
-- Chapter 34 — *The Social Club (3)*
+- Chapter 35 — *Slave Auction (1)*
+- Chapter 36 — *Slave Auction (2)*
+- Chapter 37 — *Slave Auction (3)*
 
-English references 32→32 through 34→34 were independently verified by complete content. Family QA: `qa/families/social-club-0032-0034.md` — **PASS**.
+English references 35→35 through 37→37 were independently verified by complete content. Family QA: `qa/families/slave-auction-0035-0037.md` — **PASS**.
 
 Major editorial/canonical work:
 
-- accepted **Burning Suspension** from indexed Fandom evidence;
-- accepted **Messinadnaro Family** as the removed eighth local/merchant house while protecting later reveal chronology;
-- retained the seven active local-house spellings from Chinese/transliterated witnesses where dedicated canonical entries are not indexed;
-- rendered the local organization descriptively as the **Youth Self-Governance Committee**;
-- preserved the **385-glass** champagne tower and corrected the isolated Chinese `80` tier slip to the internally established **81** for 9×9;
-- preserved illegal slave trafficking as the hidden funding source and retained the waiters/table/champagne class-degradation scene without sanitization;
-- preserved Vikir's entrance, broken-arm/sub-second staff takedown, and top-down mana-resonance destruction of the tower;
-- corrected recovered-English **Gradient** to established **Sword Graduator** terminology;
-- preserved the stake beating and all explicit injuries in Chapter 33;
-- preserved Chapter 34's seven executions, salted severed heads, cumulative mutilation penalties, criminal charges, and postmortem exile;
-- corrected the Chinese translation-layer **Hugo-as-Deputy-Magistrate** referent to **Vikir** from immediate continuity and the aligned witness;
-- preserved Vikir's statement that evidence can be manufactured if necessary;
-- preserved the 100+ custom torture tools and Age-of-Destruction interrogation memories without sanitization.
+- resolved the anomalous Chinese Chapter 35 heading into the three-part **Slave Auction** production family from Chinese 36–37 plus complete recovered-English alignment;
+- retained **Freak Show** as the clandestine auction/event wording and **Chihuahua Montblanc** as Chihuahua’s cover identity;
+- retained **Infernal Buffalo ‘Murcielago’** from Chinese/transliterated source plus independently aligned English witness without falsely claiming a dedicated Fandom monster entry;
+- preserved the monster window: A-rank, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, nineteen hearts;
+- preserved kidnapping, trafficking, drugging, forced submission, sexual exploitation, mutilation, and auction cruelty without sanitization;
+- kept the feral tribal girl unnamed despite later canonical identification, protecting reveal chronology;
+- kept Baron Gambino’s green-blond secretary unnamed for the same reason;
+- preserved Vikir’s deliberate sale as the premium final lot, Baron Gambino’s six-billion-gold bid and sexual groping, Vikir’s breakout, and the lethal counterattack;
+- corrected recovered-English **Gradient / Fifth Form** to established **Sword Graduator / 5th Fang** terminology;
+- preserved Hugo’s hidden red-tooth horn and the arrival of **100 Pit Bull Knights, all Sword Graduators**;
+- accepted **Boston Terrier Le Baskerville** for the Pit Bull commander from current Fandom evidence;
+- preserved the Chapter 37 purge, including deaths and severed wrists/ankles, without softening;
+- preserved the seizure of auction cash for the city treasury and the ledgers/contact records as evidence for follow-up raids;
+- preserved Vikir freeing the abused tribal girl after recognizing Cerberus-related wounds and then retrieving Murcielago for Beelzebub.
 
 Next verified family:
 
-- **Chapters 35–37 — Slave Auction (1)–(3)**
-- Chinese Chapter 35 has an anomalous translated heading `拍卖场之花 (1)`, but recovered English 35 and Chinese 36–37 establish the numbered **Slave Auction** family.
-- Chapter 38 changes to **Sponsor (1)**.
+- **Chapters 38–39 — Sponsored (1)–(2)**
+- Chapter 40 changes to Chinese `米尔格家族的联合战线 (1)` and begins a new title family.
+
+## 2026-09-17 — The Social Club (1)–(3) accepted under restarted workflow
+
+**Checkpoint at that time:** 34 / 500 accepted; next Chapter 35.  
+Family QA: `qa/families/social-club-0032-0034.md` — **PASS**.
+
+Major decisions: Burning Suspension, Messinadnaro Family, 385-glass tower arithmetic, Sword Graduator terminology, unsanitized stake beating/executions, Vikir-not-Hugo Deputy Magistrate correction, evidence-manufacturing line, and Age-of-Destruction torture material.
 
 ## 2026-09-17 — Special Laws of Vikir (1)–(4) accepted
 
