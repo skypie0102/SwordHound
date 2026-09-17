@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **45 / 500 accepted; next Chapter 46.** Fourteen complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), 35–37 (*Slave Auction*), 38–39 (*Sponsored*), 40–42 (*Morgue's United Front*), and 43–45 (*The Fiancée*).
+Current checkpoint: **51 / 500 accepted; next Chapter 52.** Fifteen complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), 35–37 (*Slave Auction*), 38–39 (*Sponsored*), 40–42 (*Morgue's United Front*), 43–45 (*The Fiancée*), and 46–51 (*The Husband Hunt*).
 
-The next verified family is **Chapters 46–51 — The Husband Hunt (1)–(6)**. Chinese Chapter 52 switches to `野蛮部落的奴隶 (1)`.
+The next verified family is **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**. Chinese Chapter 55 is missing; recovered English Chapter 55 begins **The Hunter and the Hunted (1)** and is the verified fallback.
 
 ## Current source policy
 
@@ -38,31 +38,30 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted *The Fiancée* family adds/revalidates:
+The accepted Husband Hunt family adds/revalidates:
 
-- **Camus Morgue** — age fifteen in the current timeline; later relationship outcomes remain spoiler-guarded.
-- **Ballak Tribe / Rokoko Clan** — canonical English forms with Chinese semantic authority.
-- **Rosie Morgue** — canonical name; Chapter 44 relationship wording follows Chinese, where Camus calls Rosie a foster/adopted younger sister.
-- Ch. 43 first-life recollection = **around thirteen**, rejecting recovered-English `thirty`.
-- The keepsake is the **black Baskerville cloak**.
-- Ch. 44 true Rokoko answer = **“Eaten.”** Cannibalism and Camus's iron-spike-and-fire execution remain explicit.
-- Ch. 44 comfort line = **“She should have gone peacefully.”**
-- Ch. 45 establishes Camus as originator of the **marriage-alliance strategy** and the cloak as her **first treasured possession**.
-- Ch. 45 childhood clothing-accident material is retained without sanitization but remains nonsexual and non-eroticized.
+- **Aiyen / Ahun** — enter by name in the Chapter 49 camp setup; later biography and Night Fox succession spoilers remain excluded.
+- **Divine Archer Adonai** — canonical form/title accepted at the Chapter 50 source reveal.
+- **Night Fox** — the contemporary sniper remains unidentified in current source chronology.
+- **Madam Eight-Legs** — accepted in Chapter 51 with **Danger Rating S** and nation-destroying capability.
+- **4th Fang / 5th Fang** — Vikir's Chapter 47 public display and Chapter 51 hidden-power release respectively.
+- **Mid Sword Graduator** — Chapter 51 hidden strength witnessed by Camus and the Baskerville triplets.
+- Chapter 49 has a localized, documented Chinese raw gap; only the missing Aiyen/Ahun/husband-hunt connective block is restored from recovered English.
+- Chapter 51's isolated daylight wording is rejected against the continuous nighttime setting.
 
-Earlier accepted terminology includes **Tough Life — Infernal Buffalo (A)**, **Highsis / Middlesis / Lowsis Morgue**, **Queen of Fire and Skewers**, **Cindywendy / Messinadnaro Sen Cindywendy**, **Freak Show**, **Infernal Buffalo ‘Murcielago’**, **Boston Terrier Le Baskerville**, **Pit Bull Knights**, **Burning Suspension**, **Underdog City**, **Chihuahua Baskerville**, **Kamu Morgue**, **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
+Earlier accepted terminology includes **Camus Morgue**, **Rosie Morgue**, **Cindywendy / Messinadnaro Sen Cindywendy**, **Tough Life**, **Infernal Buffalo ‘Murcielago’**, **Boston Terrier Le Baskerville**, **Burning Suspension**, **Underdog City**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–45**:
+Current accepted production evidence covers Chapters **1–51**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0045.md`
-- `qa/chapter-0001.md` through `chapter-0045.md`
-- accepted family QA through `qa/families/fiancee-0043-0045.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0045.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0045.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0051.md`
+- `qa/chapter-0001.md` through `chapter-0051.md`
+- accepted family QA through `qa/families/husband-hunt-0046-0051.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0051.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0051.json`
 
-Latest family QA: `qa/families/fiancee-0043-0045.md` — **PASS**.
+Latest family QA: `qa/families/husband-hunt-0046-0051.md` — **PASS**.
 
 ## Editorial quality bar
 
