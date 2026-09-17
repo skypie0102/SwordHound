@@ -1,0 +1,24 @@
+{
+  "chapter": 24,
+  "title": "Camus Morgue (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/024.txt","blob_sha":"e3d233f295f21607d3202b9c7f22f063554b23dc","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-024.xhtml","blob_sha":"7a799d74556660c1012b4cc784949918c9b60bd4","target_alignment":24,"alignment_status":"verified_by_explosion_clothing_accident_match_end_ruby_strategy_marriage_proposal_and_stop_listening_endpoint","authority":"secondary_reference_only"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue","Raspane relationship scope"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Osiris Le Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Osiris Le Baskerville","Young Patriarch"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Morgue Clan","retrieval_mode":"indexed_web_result","applies_to":["Morgue Clan"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0024.md","blob_sha":"8d651112d999fa468a45ab7c48d385a72ea2607f"},
+  "qa": {"path":"qa/chapter-0024.md","blob_sha":"366de318ba1e583c30dabcd48c94f9748a610609","status":"pass"},
+  "documented_decisions": [
+    {"topic":"child_clothing_accident","final":"preserve accidental clothing damage, underclothes, cloak assistance, and minor blood injury in neutral non-sexual prose","basis":"Chinese source event relevance; no erotic embellishment"},
+    {"topic":"ruby_strategy","final":"concede mining rights and use Morgue manpower as a buffer while Baskerville expansion drives monsters/barbarians toward them","basis":"Chinese Chapter 24"},
+    {"topic":"frontier_explicitness","final":"retain pursuit/extermination doctrine against fleeing hostile monsters/barbarians","basis":"no-sanitization rule"},
+    {"topic":"camus_osiris_age_gap","final":"Camus 8 vs Osiris 20 = 12 years","basis":"Chinese stated ages; recovered English 17-year gap rejected"},
+    {"topic":"adolf_arithmetic_jab","final":"preserve Hugo's source forty/fifty-seven comparison as an awkward rhetorical jab without using it to redefine the Camus-Osiris gap","basis":"source inconsistency handling"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
