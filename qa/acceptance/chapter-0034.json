@@ -1,0 +1,17 @@
+{
+  "chapter": 34,
+  "title": "The Social Club (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Social Club","range":[32,34],"family_qa_path":"qa/families/social-club-0032-0034.md","family_qa_sha":"e88bec6495040e957fec7e1393eb15d3f4c87e2c","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/034.txt","primary_source_sha":"9c7259208f84aee63dd7b99850a8189145129d8c",
+    "english_reference_path":"source/chapters/chapter-034.xhtml","english_reference_sha":"2df34ee0c86cab6cc6599b828390d1e16573d97e",
+    "draft_path":"manuscript/drafts/chapter-0034.md","draft_sha":"3c30ca807bfe0f186d7b07c7a9a91c3f31843150",
+    "qa_path":"qa/chapter-0034.md","qa_sha":"dfb7f4ecc752753aaa26d9353ca43844f0eb6b0f",
+    "provenance_path":"editorial/provenance/chapter-0034.json","provenance_sha":"17ffaf551b6ea9ec6f7bfc0ab02439e6277080e6"
+  },
+  "canonical_checks": ["Underdog City","Chihuahua Baskerville","Deputy Magistrate","Colosseo Academy"],
+  "documented_limits": ["The isolated Chinese Hugo-as-Deputy-Magistrate referent is corrected to Vikir from immediate continuity and aligned witness.","The evidence-manufacturing line and torture material are preserved without sanitization or endorsement.","Chapter 35 starts a new Auction House Flower family and is not merged into Social Club."]
+}
