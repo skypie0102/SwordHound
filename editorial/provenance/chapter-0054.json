@@ -1,0 +1,84 @@
+{
+  "chapter": 54,
+  "title": "Slaves of the Savage Tribe (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Slaves of the Savage Tribe",
+    "range": [
+      52,
+      54
+    ],
+    "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
+    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/054.txt",
+    "blob_sha": "4e16871bc046c162978c419dc585f526b37d2dc4",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-054.xhtml",
+    "blob_sha": "eb3146da8a6b112d89944b9142280e8282c375d2",
+    "target_alignment": 54,
+    "alignment_status": "verified_by_tent_building_domestic_work_ballak_body_customs_hunt_offer_charcoal_rite_toilet_joke_wolf_riding_ahun_conflict_and_did_it_hurt_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chapters/chapter-055.xhtml",
+    "blob_sha": "b3d243ed6bdbd0268e0281d18589d0b4c308604e",
+    "purpose": "new The Hunter and the Hunted title family; Chinese 055.txt is missing and this is the verified fallback"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Aiyen",
+        "Akwilla",
+        "Ahun",
+        "Ballak Tribe",
+        "Age of Destruction"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0054.md",
+    "blob_sha": "a7306b778094a10f7b0acd65bc3bde36e2e34018"
+  },
+  "qa": {
+    "path": "qa/chapter-0054.md",
+    "blob_sha": "f8e99eac36bee4958beff7e4f956a12da8022fb8",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "body_customs",
+      "final": "sexual/body/reproductive-health customs retained factually and non-erotically",
+      "basis": "Chinese Chapter 54 social context"
+    },
+    {
+      "topic": "toilet_joke",
+      "final": "Aiyen's smile and later village reaction preserved without explicitly asserting her motive",
+      "basis": "Chinese Chapter 54 sequence"
+    },
+    {
+      "topic": "hunting_economy",
+      "final": "~300 people and ~200 kg boar-equivalent meat daily with gathered-food supplementation",
+      "basis": "Chinese Chapter 54"
+    },
+    {
+      "topic": "slave_punishment",
+      "final": "Aiyen personally punishes Vikir under ownership rules and warns Ahun not to interfere again",
+      "basis": "Chinese Chapter 54 explicit violence"
+    },
+    {
+      "topic": "boundary",
+      "final": "Chinese 055.txt missing; recovered English 55 starts The Hunter and the Hunted (1)",
+      "basis": "verified corpus exception and aligned English witness"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
