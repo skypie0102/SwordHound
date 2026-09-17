@@ -1,0 +1,45 @@
+{
+  "chapter": 52,
+  "title": "Slaves of the Savage Tribe (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Slaves of the Savage Tribe",
+    "range": [
+      52,
+      54
+    ],
+    "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
+    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/052.txt",
+    "primary_source_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "english_reference_path": "source/chapters/chapter-052.xhtml",
+    "english_reference_sha": "bfb4389c3f6342b2426691d03ea07af21e3c30cf",
+    "draft_path": "manuscript/drafts/chapter-0052.md",
+    "draft_sha": "55c7ca51c4886c8b70ccb4121b341155f8362886",
+    "qa_path": "qa/chapter-0052.md",
+    "qa_sha": "081f4684327d130cd87dcb20db5f13b298e8e752",
+    "provenance_path": "editorial/provenance/chapter-0052.json",
+    "provenance_sha": "34f8787c5cb5f5a9a126ef990f112febb511e96c"
+  },
+  "canonical_checks": [
+    "Ballak Tribe",
+    "Aiyen",
+    "Ahun",
+    "Madam Eight-Legs",
+    "River Styx",
+    "Beelzebub",
+    "Tough Life",
+    "Infernal Buffalo ‘Murcielago’",
+    "Mid Sword Graduator"
+  ],
+  "documented_limits": [
+    "Recovered-English Gradient/camel/gender corruption does not control semantics.",
+    "The Thorn-Tree Punishment remains explicit and source-descriptive rather than promoted as a canonical proper noun.",
+    "Aiyen's bathing/nudity is retained only at the source's nonsexual level."
+  ]
+}
