@@ -9,6 +9,23 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Husband Hunt additions — Chapters 46–51
+
+- **The Husband Hunt** — accepted production family title for Chapters 46–51. Chinese Ch. 47 uses variant `婚姻狩猎 (2)`, but numbered continuity and complete alignment keep it in the same family.
+- **Rosie Morgue continuity** — raw-layer “younger brother” references in Ch. 46–47 are referent drift. Camus's recent loss remains the already accepted Rosie, her younger foster/adopted sister.
+- **Aiyen** — canonical name enters at the Ch. 49 camp setup. She is the same Ballak captive Vikir freed during the slave-auction arc. Do not import later parentage, marriage, chieftainship, or Night Fox succession before source reveal.
+- **Ahun** — canonical name enters with the Ch. 49 camp setup; later biography remains chronology-blocked.
+- **Husband hunt** — Ballak spouse-capture custom intended to introduce outside blood into the small population. The coercive capture/enslavement/killing implications are source-level and must not be romanticized.
+- **Chapter 49 raw-gap exception** — the physical Chinese file drops the connective passage that names Aiyen/Ahun and explains the husband hunt, then visibly resumes mid-explanation at “They especially welcome women…”. Only that localized missing passage is restored from aligned recovered English; this is not a general source-policy change.
+- **Divine Archer Adonai** — accepted canonical name/title from Ch. 50. Source memory gives the 100-day war and 542 Sword Graduator kills.
+- **Three Calamities Beyond the Border** — descriptive rendering of `境外三灾`; not promoted to dedicated canonical status without stronger evidence.
+- **Night Fox** — current Ch. 50 identity remains unrevealed. Later Akwilla identification and Aiyen succession material are spoiler-blocked.
+- **Madam Eight-Legs** — accepted canonical monster name from Ch. 51. Source reveals **Danger Rating S** and nation-destroying capability.
+- **Ch. 51 night correction** — isolated “broad daylight” wording is raw-layer drift against the explicit continuous night setting from Ch. 48 onward.
+- **Ten Baskerville sword techniques** — source says Vikir memorized the theory of ten techniques; do not convert this into an unsupported **10th Fang**.
+- **4th Fang / 5th Fang** — Ch. 47 public four-Fang display; Ch. 51 hidden five-Fang release.
+- **Mid Sword Graduator** — Ch. 51 hidden power revealed to Camus and Highbro/Middlebro/Lowbro only; Adolf and Staffordshire are not looking back.
+
 ## The Fiancée additions — Chapters 43–45
 
 - **The Fiancée** — accepted production family title for Chapters 43–45. Chinese/recovered English Ch. 46 switch to **The Husband Hunt (1)**.
