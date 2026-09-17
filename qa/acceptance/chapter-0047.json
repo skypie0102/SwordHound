@@ -1,0 +1,43 @@
+{
+  "chapter": 47,
+  "title": "The Husband Hunt (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/047.txt",
+    "primary_source_sha": "34f8dc0298a7c898333b642016e7a3f410729739",
+    "english_reference_path": "source/chapters/chapter-047.xhtml",
+    "english_reference_sha": "12b422a1e79086b317dc58d0d95140005262b0c1",
+    "draft_path": "manuscript/drafts/chapter-0047.md",
+    "draft_sha": "62398e8c0c50ec82ccf8dfd2d2c0216a0398a650",
+    "qa_path": "qa/chapter-0047.md",
+    "qa_sha": "a0426c260d89c76265b9a2280f809799bc99368f",
+    "provenance_path": "editorial/provenance/chapter-0047.json",
+    "provenance_sha": "b0b043426b5053f39ed078ece22148708a6b05cb"
+  },
+  "canonical_checks": [
+    "Ballak Tribe",
+    "Camus Morgue",
+    "Quadra Casting",
+    "Sword Graduator",
+    "4th Fang",
+    "Queen of Red and Black",
+    "Rosie Morgue"
+  ],
+  "documented_limits": [
+    "Recovered-English Gradient, gender flips, and brother drift are rejected.",
+    "The silver/black-haired Ballak woman remains unnamed until the source reveal.",
+    "Camus is captured only after pushing Vikir out of the lasso's path."
+  ]
+}
