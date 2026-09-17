@@ -1,0 +1,47 @@
+{
+  "chapter": 51,
+  "title": "The Husband Hunt (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/051.txt",
+    "primary_source_sha": "0b85b6565e7ac2009d9e413cba72e49e621d5e9e",
+    "english_reference_path": "source/chapters/chapter-051.xhtml",
+    "english_reference_sha": "63ad5fc0d15370c4c1f12cae2c8c3dace426ca46",
+    "draft_path": "manuscript/drafts/chapter-0051.md",
+    "draft_sha": "429c9af4d1e427789541037036d0647ab63a852d",
+    "qa_path": "qa/chapter-0051.md",
+    "qa_sha": "89a7ae8c555c4fbcc4200ad66bb5b75bcc4d51c7",
+    "provenance_path": "editorial/provenance/chapter-0051.json",
+    "provenance_sha": "83fb2a5bfea64dfd47948f91b10cb857a12accdd"
+  },
+  "canonical_checks": [
+    "Madam Eight-Legs",
+    "Danger Rating S",
+    "Ballak Tribe",
+    "Aiyen",
+    "Ahun",
+    "Camus Morgue",
+    "Staffordshire Baskerville",
+    "River Styx",
+    "Beelzebub",
+    "5th Fang",
+    "Mid Sword Graduator"
+  ],
+  "documented_limits": [
+    "The isolated broad-daylight phrase is corrected to night because the surrounding Chinese continuity repeatedly and explicitly establishes nighttime.",
+    "Ten Baskerville sword techniques is not converted into an unsupported 10th Fang.",
+    "Five Fangs / Mid Sword Graduator power is witnessed by Camus and the triplets, not Adolf or Staffordshire."
+  ]
+}
