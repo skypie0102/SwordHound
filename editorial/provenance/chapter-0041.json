@@ -1,0 +1,25 @@
+{
+  "chapter": 41,
+  "title": "Morgue's United Front (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Morgue's United Front","range":[40,42],"family_qa_path":"qa/families/morgue-united-front-0040-0042.md","family_qa_sha":"4d9218d405809337682b7f114b055076d970d8e3","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/041.txt","blob_sha":"e14c8f6d51bbfff8d70ad08c9210c20c328f35bd","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-041.xhtml","blob_sha":"6f26e1b0d0263d8058396d8bc88d373cd88f1e11","target_alignment":41,"alignment_status":"verified_by_staffordshire_joint_deployment_impaled_warning_morgue_triplets_gate_dispute_and_baskerville_triplet_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/042.txt","blob_sha":"dfff190d237d8d28eee561048fdf829f686a4bc5","purpose":"continues the gate confrontation directly"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Morgue Triplets","retrieval_mode":"indexed_web_result","applies_to":["Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Three Flowers of Morgue","Samhwa / Three Plagues"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Morgue Clan","retrieval_mode":"indexed_web_result","applies_to":["Morgue Clan","Light Faction","Dark Faction"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"project-established accepted terminology","retrieval_mode":"accepted_project_evidence","applies_to":["Staffordshire Baskerville","Boston Terrier Le Baskerville","Pit Bull Knights","Underdog City","Highbro","Middlebro","Lowbro"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0041.md","blob_sha":"51282f4dc00cd391bdc602e00d221d8bfc896478"},
+  "qa": {"path":"qa/chapter-0041.md","blob_sha":"2331dbecb297a4e3e153f7090edbe5363b1d43fc","status":"pass"},
+  "documented_decisions": [
+    {"topic":"mtl_only_wolfhound_line","final":"excluded","basis":"absent from Chinese Chapter 41"},
+    {"topic":"morgue_force_structure","final":"Light Faction 1 Grand Senator + 12 Middle Senators; Dark Faction 1 Grand Senator + 19 Middle Senators; ~100 other mages","basis":"Chinese Chapter 41; rank labels remain source-descriptive"},
+    {"topic":"triplet_names","final":"Highsis Morgue / Middlesis Morgue / Lowsis Morgue","basis":"indexed canonical terminology"},
+    {"topic":"triplet_titles","final":"Three Flowers of Morgue / Samhwa (Three Plagues)","basis":"Chinese plus indexed canonical terminology"},
+    {"topic":"element_semantics","final":"defer specific assignments to Ch. 42 Chinese scene; wiki summary conflict does not override source","basis":"Chinese semantic authority"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
