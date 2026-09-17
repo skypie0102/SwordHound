@@ -6,7 +6,7 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **19 / 500 accepted; next Chapter 20.** Six complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), and 18–19 (*Bared Teeth*). The next verified family is **Chapters 20–25 — Camus Morgue (1)–(6)**; Chapter 26 changes to *The Graduate (1)* in the recovered English.
+Current checkpoint: **25 / 500 accepted; next Chapter 26.** Seven complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), and 20–25 (*Camus Morgue*). The next verified family is **Chapters 26–27 — The Graduate (1)–(2)**; Chapter 28 changes to *Special Laws of Vikir (1)*.
 
 ## Current source policy
 
@@ -37,25 +37,27 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 Current Fandom evidence establishes numbered Baskerville sword techniques as **Fangs** under the **Baskerville Fang Sword Style**.
 
-The accepted Bared Teeth family adds/revalidates:
+The accepted Camus Morgue family adds/revalidates:
 
-- **Orc** — Danger Rating **C**, **High-Speed Regeneration**
-- **Troll** — Danger Rating **C+**, **Superspeed Regeneration**
-- **1st Fang / Low Sword Expert** as Vikir's first public reveal
-- **2nd Fang / Mid Sword Expert** as his second public reveal
-- Vikir's actual hidden state remains **Low Sword Graduator** from Chapter 17
+- **Camus Morgue**, **Adolf Morgue**, **Raspane Morgue**, **Osiris Le Baskerville**
+- **Morgue Clan**
+- **Quadra Casting**
+- **Fireball / Ice Sphere / Thunder Ring / Mud Wall**
+- **Sixth Circle** for Adolf
+- source-scoped later title **Ironblood Empress** for future Camus where Chinese explicitly invokes it
+- Beelzebub Slot 3 = Troll **Superspeed Regeneration** from Chapter 20 onward
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–19**:
+Current accepted production evidence covers Chapters **1–25**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0019.md`
-- `qa/chapter-0001.md` through `chapter-0019.md`
-- accepted family QA through `qa/families/bared-teeth-0018-0019.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0019.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0019.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0025.md`
+- `qa/chapter-0001.md` through `chapter-0025.md`
+- accepted family QA through `qa/families/camus-morgue-0020-0025.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0025.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0025.json`
 
-Latest family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
+Latest family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
 
 The earlier pre-restart Chapter 1 acceptance remains in Git history only and is superseded by the current family-reviewed evidence.
 
