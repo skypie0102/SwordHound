@@ -1,0 +1,41 @@
+{
+  "chapter": 54,
+  "title": "Slaves of the Savage Tribe (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Slaves of the Savage Tribe",
+    "range": [
+      52,
+      54
+    ],
+    "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
+    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/054.txt",
+    "primary_source_sha": "4e16871bc046c162978c419dc585f526b37d2dc4",
+    "english_reference_path": "source/chapters/chapter-054.xhtml",
+    "english_reference_sha": "eb3146da8a6b112d89944b9142280e8282c375d2",
+    "draft_path": "manuscript/drafts/chapter-0054.md",
+    "draft_sha": "a7306b778094a10f7b0acd65bc3bde36e2e34018",
+    "qa_path": "qa/chapter-0054.md",
+    "qa_sha": "f8e99eac36bee4958beff7e4f956a12da8022fb8",
+    "provenance_path": "editorial/provenance/chapter-0054.json",
+    "provenance_sha": "ea17489640e93e2a97d98b6b090eb9e0bbda3713"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Akwilla",
+    "Ahun",
+    "Ballak Tribe",
+    "Age of Destruction"
+  ],
+  "documented_limits": [
+    "Body/reproductive-health customs are kept factual and non-erotic.",
+    "The toilet-culture joke preserves Aiyen's reaction without asserting an unstated motive.",
+    "Chinese 055.txt is missing; recovered English 55 is the verified next-family fallback."
+  ]
+}
