@@ -1,0 +1,17 @@
+{
+  "chapter": 29,
+  "title": "Special Laws of Vikir (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"Special Laws of Vikir","range":[28,31],"family_qa_path":"qa/families/special-laws-0028-0031.md","family_qa_sha":"873b6ba47c68d7f974ae1a137db37e553adcd480","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/029.txt","primary_source_sha":"68aaa0e15d41710dfd127bc38537f809f552d104",
+    "english_reference_path":"source/chapters/chapter-029.xhtml","english_reference_sha":"379b1737e8edc968281caec89bf88ea000fdb8fb",
+    "draft_path":"manuscript/drafts/chapter-0029.md","draft_sha":"d56407b157dc3ec39c860a47904596ba19820b67",
+    "qa_path":"qa/chapter-0029.md","qa_sha":"f36beec116afa4715304cffa7df65a23d83b5556",
+    "provenance_path":"editorial/provenance/chapter-0029.json","provenance_sha":"0cd9c7c2e2c20f634e70e4b8a844e63b348a5cb0"
+  },
+  "canonical_checks": ["Underdog City","Chihuahua Baskerville","Deputy Magistrate","Dortmeyer Street"],
+  "documented_limits": ["All statute punishments follow Chinese semantics; recovered-English waterboarding/three-legs errors are rejected.","The first Special Law clause remains 100,000,000 gold for pulling the stake."]
+}
