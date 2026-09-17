@@ -1,0 +1,83 @@
+{
+  "chapter": 52,
+  "title": "Slaves of the Savage Tribe (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Slaves of the Savage Tribe",
+    "range": [
+      52,
+      54
+    ],
+    "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
+    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-052.xhtml",
+    "blob_sha": "bfb4389c3f6342b2426691d03ea07af21e3c30cf",
+    "target_alignment": 52,
+    "alignment_status": "verified_by_madam_aftermath_ballak_village_thorn_tree_ahun_and_aiyen_pool_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chapters/chapter-055.xhtml",
+    "blob_sha": "b3d243ed6bdbd0268e0281d18589d0b4c308604e",
+    "purpose": "new The Hunter and the Hunted title family; Chinese 055.txt is missing and this is the verified fallback"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Ballak Tribe",
+        "Aiyen",
+        "Ahun",
+        "Madam Eight-Legs",
+        "River Styx",
+        "Beelzebub",
+        "Tough Life",
+        "Infernal Buffalo ‘Murcielago’",
+        "Mid Sword Graduator"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0052.md",
+    "blob_sha": "55c7ca51c4886c8b70ccb4121b341155f8362886"
+  },
+  "qa": {
+    "path": "qa/chapter-0052.md",
+    "blob_sha": "081f4684327d130cd87dcb20db5f13b298e8e752",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "tough_life_recovery",
+      "final": "River Styx + Murcielago-derived Tough Life + Aiyen's noose explain Vikir's survival",
+      "basis": "Chinese Chapter 52; recovered-English corrupted ability wording rejected"
+    },
+    {
+      "topic": "thorn_tree_punishment",
+      "final": "retain as descriptive Thorn-Tree Punishment without canonical promotion",
+      "basis": "Chinese source term and execution sequence"
+    },
+    {
+      "topic": "execution_explicitness",
+      "final": "prisoner stripping, blade branches, fire, falls, spears, and wolves retained",
+      "basis": "Chinese source preserved without sanitization"
+    },
+    {
+      "topic": "aiyen_pool_scene",
+      "final": "nonsexual bathing/nudity retained matter-of-factly",
+      "basis": "Chinese source with no added erotic detail"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
