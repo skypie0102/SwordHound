@@ -1,0 +1,23 @@
+{
+  "chapter": 20,
+  "title": "Camus Morgue (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/020.txt","blob_sha":"b4b2011e2c0ab569f7ee420c05608498970d2dd8","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-020.xhtml","blob_sha":"5706f9f22b35d53b4e58208c3e24c04f59e40632","target_alignment":20,"alignment_status":"verified_by_rank_tables_hidden_public_state_beelzebub_update_triplets_adolf_camus_and_ruby_accusation","authority":"secondary_reference_only"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue","female","age eight at introduction"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Adolf Morgue","retrieval_mode":"indexed_web_result","applies_to":["Adolf Morgue","Camus's uncle","Sixth Circle identity"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Raspane Morgue","retrieval_mode":"indexed_web_result","applies_to":["Raspane Morgue","Morgue head/matriarch","Camus's mother","Adolf's sister"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Osiris Le Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Osiris Le Baskerville","Young Patriarch"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0020.md","blob_sha":"5ba5c4e3e149f8affc5ffc7874f1d1dc39f11a90"},
+  "qa": {"path":"qa/chapter-0020.md","blob_sha":"93f017eaf9a38fddb9debb8ebe274b4207639e9f","status":"pass"},
+  "documented_decisions": [
+    {"topic":"public_vs_hidden_vikir","final":"public Mid Sword Expert / 2nd Fang; hidden Low Sword Graduator / 4th Fang, approaching Fifth Fang","basis":"Chinese Chapter 20 plus accepted Chapter 19 continuity"},
+    {"topic":"beelzebub_slot_3","final":"Superspeed Regeneration — Troll (C+)","basis":"Chinese first narrative reveal after Chapter 19 Troll kill"},
+    {"topic":"higher_fang_access","final":"higher Fang teachings are reserved to acknowledged direct-line elites in normal Baskerville practice","basis":"Chinese chapter description plus previously accepted library/access context"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
