@@ -1,26 +1,26 @@
 # SwordHound Session Handoff
 
-> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint and always before ending or handing work to another agent. Hash-bound accepted evidence wins over this file if they ever conflict; immediately repair this file when that happens.
+> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint and always before ending or handing work to another agent. Hash-bound accepted evidence wins over this file if they ever conflict.
 
 ## Handoff metadata
 
 - **Last updated:** 2026-09-17
-- **Updated by:** ChatGPT — The Graduate acceptance checkpoint
-- **Working branch:** `editorial/restart-graduate-family`
-- **Base main checkpoint:** `4b66ccc20fe791215c7ae6c3b8a2d6b5f28819ec` (PR #13, Camus Morgue 20–25, squash-merged)
-- **Current PR:** pending creation
+- **Updated by:** ChatGPT — Special Laws of Vikir acceptance checkpoint
+- **Working branch:** `editorial/restart-special-laws-family`
+- **Base main checkpoint:** `421514845a8b7975ca659ab5e9bb3ea965e19819` (PR #14, The Graduate 26–27, merged)
+- **Current PR:** #15 — `WIP: Special Laws of Vikir Chapters 28–31` — draft until final state/glossary/readme review, then ready/merge
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
 - **Target:** 500 chapters
-- **Accepted:** **27**
+- **Accepted:** **31**
 - **Staged:** **0**
-- **Next:** **Chapter 28**
-- **Latest accepted family:** **Chapters 26–27 — The Graduate (1)–(2)**
-- **Latest family QA:** `qa/families/graduate-0026-0027.md` — **PASS** — `13584c51f736e5768447eec82bf9929c23b59821`
-- **Next family:** **Chapters 28–31 — Special Laws of Vikir (1)–(4)**
-- **Next-family boundary:** **VERIFIED** from Chinese + recovered-English headings. Chapter 32 changes to **The Social Club (1)**.
+- **Next:** **Chapter 32**
+- **Latest accepted family:** **Chapters 28–31 — Special Laws of Vikir (1)–(4)**
+- **Latest family QA:** `qa/families/special-laws-0028-0031.md` — **PASS** — `873b6ba47c68d7f974ae1a137db37e553adcd480`
+- **Next family:** **Chapters 32–34 — The Social Club (1)–(3)**
+- **Next-family boundary:** **VERIFIED**. Chinese Chapter 35 changes to `拍卖场之花 (1)`; recovered English index calls it *Slave Auction (1)*.
 
 Accepted families:
 1. 1–3 — *Hellhound (1)–(3)*
@@ -31,6 +31,7 @@ Accepted families:
 6. 18–19 — *Bared Teeth (1)–(2)*
 7. 20–25 — *Camus Morgue (1)–(6)*
 8. 26–27 — *The Graduate (1)–(2)*
+9. 28–31 — *Special Laws of Vikir (1)–(4)*
 
 ## Rules that must not be lost
 
@@ -41,95 +42,68 @@ Accepted families:
 - Preserve explicitness; do not sanitize, soften, or intensify.
 - Do not import MTL/wiki narrative exposition absent from Chinese.
 - Protect reveal chronology.
-- Process whole contiguous title families. A chapter, family, or PR is a checkpoint, **not a stopping condition**.
+- Process whole contiguous title families. A chapter, family, or PR is a checkpoint, not a stopping condition.
 - Keep information windows atomic.
 - Numbered Baskerville techniques are **Fangs**, not Forms.
 - Final browser/CSS/EPUB visual QA remains deferred to complete-EPUB assembly.
 
-## Accepted family — Chapters 26–27: The Graduate
+## Accepted family — Chapters 28–31: Special Laws of Vikir
 
 ### Immutable evidence
 
 | Ch. | Chinese SHA | English ref SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 26 | `6920eefdb1a96d09fb192e54c63f9accef9e5312` | `4eed63b8033df0171e64a1c1b902aa359f0fca99` | `e99bdbcc79fe7cbc4082f53983e1dd682abb9e1f` | `a9ada25c6eb88b1b9707a9995f7c0cf352822b41` | `af3ce818fe65f8b330f3646bed5f786bf1686566` | `25bfccfed339694e4fa877531fd9272699a79ee3` |
-| 27 | `ce75a1a41c973c028aebeedf20aa1e366c7f2871` | `d38e9375af1faf9786857a8b1e925e1a8bbe8b18` | `11803c08298fb1ddbeebe864dbdf1c6c9e192ecc` | `a55b36b0ca8056822b71d1e65403d30d809096ed` | `8d03cb3f6ad88f082b2a6956c4667c8f243b893f` | `6d14aa7c6f84b794c3141b8aca847ac6612a336a` |
+| 28 | `96db8ceb0b55b0baabc3514c1675c692d7172f97` | `093c745e87f97c9758ec0afb38b6fda15ac2f5a6` | `ad6f2b85c662f51164c5b7ccc2fcbdfcf7f9baf8` | `4d1a78886b8e93371525656dc8a4ecb0d28d3cf8` | `c688ca5f1c00d86671e2ed75ff1dbeacddcad596` | `b24a16e81b6253bf93e16a5f363c6bf7a4e3d5f8` |
+| 29 | `68aaa0e15d41710dfd127bc38537f809f552d104` | `379b1737e8edc968281caec89bf88ea000fdb8fb` | `d56407b157dc3ec39c860a47904596ba19820b67` | `f36beec116afa4715304cffa7df65a23d83b5556` | `0cd9c7c2e2c20f634e70e4b8a844e63b348a5cb0` | `c22ff669fd2efcfe49ed25134592925af3558f2e` |
+| 30 | `83a76c0ca225a629895c9ecff0c72dd55baa0852` | `a7440c1d0a786f9cc579ee2120616fb4b13c4932` | `1594f4c3717c495bcade949684b44efad77de255` | `109a5b6b884abdb633f04affa249c0d06d9cbc42` | `42218e9510d48fe385f6fc2fb895072fe0462d2a` | `10df9a7c737fb2d58acef83e032e968d6c782fe8` |
+| 31 | `269e4c7e789fe7aef93a0edefd1c0fd3f864d904` | `1f301f5e5e21d11922801ffe0d79b5979dae29e1` | `179cfc142bf20657a235bce6380da8abb03e3cc9` | `475ca28b4419be73dc4c9a232949a45df9c5bbe7` | `fe623f48c6d69d552ac11b19aec83c4ccb7fe54b` | `09a6b90458db6112814d3d389bd811768a32e6d0` |
 
-Target 26→MTL 26 and target 27→MTL 27 were verified by complete content, not numbering alone.
+Target 28→MTL 28 through 31→MTL 31 were verified by complete content, not numbering alone.
 
 ### Accepted decisions
 
-- Seven years pass between Chapters 25 and 26.
-- **Staffordshire Baskerville**, age 35, is a **Mid Sword Graduator** Guide Dog/instructor capable of four Fangs.
-- **Oxbear** window: Danger Rating A, 5 m, Le Rouge et Le Noir Mountain 7th Ridge. Chinese narrative separately describes the captive specimen as ~800 kg / 3 m; both measurements remain.
-- Oxbear killing, dissection, exposed organs, and raw meat/organ consumption remain explicit.
-- Training remains 3.5 years basic + 3.5 years practical; next expected field phase is ~21 months.
-- Canonical recognized knight-order names used where source invokes them: Doberman, Pit Bull, Rottweiler, Wolfhound, Shepherd, Mastiff.
-- Public Vikir at age fifteen = **High Sword Expert / 3rd Fang**.
-- Hidden Vikir = **Mid Sword Graduator / 5th Fang**. One isolated Chinese phrase conflicts, but the passage's own rank math plus current canonical progression evidence supports Mid Graduator; QA documents the conflict.
-- **Colosseo Academy** motivation remains strategic rather than prestige-driven.
-- Hugo's skilled female archer remains unnamed in Chapter 27.
-- Expected old-life route: Pit Bull Knights apprentice + ~21 months frontier. Hugo instead places Vikir on an elite administrative/political track.
-- Operational office = **Deputy Magistrate of Underdog City**; city population = 500,000.
-- Previous Magistrate/deputy vacancies follow Hugo's second son's prolonged training and removal of affiliated deputies over bribery allegations.
-- Vikir invokes the seven-year-old Morgue ruby-mine reward, but the borrowed object remains deliberately unrevealed.
+- **Underdog City** and **Deputy Magistrate / Acting Magistrate** remain the operational city/office terminology.
+- **Chihuahua Baskerville** is male, outsider-born, local to Underdog City, and serves as the senior administrative official / General Secretary.
+- Chapter 28 preserves Vikir's `Bring me wine and women` order as deliberate bait and rejects a spurious MTL/Chinese-layer implication that he physically goes to the Academy mid-scene.
+- Chapter 29 legal windows retain the source's severe punishments. MTL errors such as `waterboarding` for drowning and `three legs` for extermination of three clans are rejected.
+- Stake: ~70 cm, ~3 kg, driven ~10 cm into the ground; intentionally easy to pull.
+- Special Law Article 1 reward sequence: 100 million → 1 billion → **10 billion gold total**.
+- Chinese Chapter 30/31 contains isolated unit-conversion slips around the payout; the law's own arithmetic plus aligned English witness establish the intended **10-billion** total. QA records this explicitly.
+- **Judy** is female. Her poverty, limp, malnutrition, sick mother, flower-selling, public fear, and the crowd's near-riot remain source-faithful.
+- Chapter 31 future-law precedent = **Kamu Morgue**, not Camus Morgue. Recovered-English substitution rejected.
+- `侧天武侯` → **Heaven-Tilting Martial Marquis** is provisional/source-descriptive; no strong current Fandom English form was found.
+- Vikir's fiscal plan is to seize criminal black money, return it to the treasury, increase revenue, and fund welfare for the poor.
+- The family ends with influential local heirs objecting to the Special Laws; Chihuahua calls their group a decadent social club, directly setting up Chapter 32.
 
-## Next family — Chapters 28–31: Special Laws of Vikir
+## Next family — Chapters 32–34: The Social Club
 
 ### Verified boundary
 
 Chinese:
-- Ch. 28 — `彼勒斯特别法 (1)` — `96db8ceb0b55b0baabc3514c1675c692d7172f97`
-- Ch. 29 — `彼勒斯特别法 (2)` — `68aaa0e15d41710dfd127bc38537f809f552d104`
-- Ch. 30 — `彼勒斯特别法 (3)` — `83a76c0ca225a629895c9ecff0c72dd55baa0852`
-- Ch. 31 — `彼勒斯特别法 (4)` — `269e4c7e789fe7aef93a0edefd1c0fd3f864d904`
-- Ch. 32 changes to `社交俱乐部 (1)` — `bf20c4badf1293273a41ed24d938eff1077b4c57`
+- Ch. 32 — `社交俱乐部 (1)` — `bf20c4badf1293273a41ed24d938eff1077b4c57`
+- Ch. 33 — `社交俱乐部 (2)` — `a3f2ccd52eb78eb2a4769de9d8ce150b040a641f`
+- Ch. 34 — `社交俱乐部 (3)` — `9c7259208f84aee63dd7b99850a8189145129d8c`
+- Ch. 35 changes to `拍卖场之花 (1)` — `6923567bc4710210eaac4dc6b7252d56ea557b7e`
 
-Recovered English headings:
-- Ch. 28 — *Special Laws of Vikir (1)*
-- Ch. 29 — *Special Laws of Vikir (2)*
-- Ch. 30 — *Special Law of Vikir (3)*
-- Ch. 31 — *Special Laws of Vikir (4)*
+Recovered English index:
 - Ch. 32 — *The Social Club (1)*
+- Ch. 33 — *The Social Club (2)*
+- Ch. 34 — *The Social Club (3)*
+- Ch. 35 — *Slave Auction (1)*
 
-Only the family boundary is verified at this checkpoint. Full 28→MTL 28 through 31→31 content alignment must be independently verified before those English witnesses are used editorially.
-
-### Known continuity
-
-- Chapter 27 ends with Vikir leaving Hugo's chamber carrying the sealed Deputy Magistrate appointment and deciding to gain achievements quickly.
-- Chapter 28 begins at Underdog City Hall with Vikir arriving as the new Deputy Magistrate / acting Magistrate.
-- Chapter 32 begins a new *The Social Club* family.
+Only the family boundary is verified. Full 32→32 through 34→34 content alignment must still be established before recovered English is used editorially.
 
 ## Exact next actions
 
-1. Open and merge the clean **The Graduate Chapters 26–27** PR after verifying mergeability.
-2. Create a fresh branch from merged main for **Special Laws of Vikir Chapters 28–31**.
-3. Read complete Chinese Chapters 28–31 and use Chinese 32 as boundary witness.
-4. Read complete recovered English 28–31 and independently verify mappings by openings, scene sequences, administrative terms, named entities, and endpoints.
-5. Reverify new proper nouns, city institutions, laws, ranks/titles, and any named techniques/organizations against current Fandom evidence while protecting reveal chronology.
-6. Reconstruct all four chapters as one family; preserve legal/policy semantics rather than importing modern institutional assumptions.
-7. Run per-chapter QA + 28–31 family QA, including 27→28 appointment continuity and 31→32 boundary.
-8. Create hash-bound provenance/acceptance, update all state surfaces and this handoff, merge if clean.
-9. Immediately determine and begin the Chapter 32 **The Social Club** title family.
-
-## Files updated/created in this checkpoint
-
-- `manuscript/drafts/chapter-0026.md`
-- `manuscript/drafts/chapter-0027.md`
-- `qa/chapter-0026.md`
-- `qa/chapter-0027.md`
-- `qa/families/graduate-0026-0027.md`
-- `editorial/provenance/chapter-0026.json`
-- `editorial/provenance/chapter-0027.json`
-- `qa/acceptance/chapter-0026.json`
-- `qa/acceptance/chapter-0027.json`
-- `editorial/chapter-tracker.json`
-- `editorial/reconstruction-status.json`
-- `editorial/GLOSSARY.md`
-- `PROJECT_STATE.md`
-- `PROGRESS.md`
-- `README.md`
-- `HANDOFF.md`
+1. Finish final PR #15 metadata/state review; mark ready and merge if clean.
+2. Create a fresh branch from merged main for **The Social Club Chapters 32–34**.
+3. Read complete Chinese 32–34; use Chinese 35 opening as boundary witness.
+4. Read complete recovered English 32–34 and verify mappings by club location, named heirs/families, scene sequence, Vikir confrontation, and endpoints.
+5. Reverify new proper nouns, club name, local families, luxury goods, and any ranks/organizations against current Fandom evidence while protecting reveal chronology.
+6. Reconstruct all three chapters as one family.
+7. Run per-chapter QA + family QA, including 31→32 invitation continuity and 34→35 auction-family boundary.
+8. Bind provenance/acceptance, update tracker/status/project/progress/glossary/readme/handoff, merge if clean.
+9. Continue immediately into the Chapter 35 auction title family.
 
 ## Persistent exceptions
 
