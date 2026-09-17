@@ -1,5 +1,29 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Slaves of the Savage Tribe (1)–(3) accepted under restarted workflow
+
+**Current state:** 54 / 500 accepted; 0 staged; next Chapter 55.
+
+Completed the sixteenth contiguous title-family batch:
+
+- Chapter 52 — *Slaves of the Savage Tribe (1)*
+- Chapter 53 — *Slaves of the Savage Tribe (2)*
+- Chapter 54 — *Slaves of the Savage Tribe (3)*
+
+Targets 52→52 through 54→54 were independently verified by complete content. Family QA: `qa/families/slaves-savage-tribe-0052-0054.md` — **PASS**.
+
+Major editorial/canonical work:
+
+- preserved the severe post–Madam Eight-Legs injury aftermath and Vikir's River Styx / Tough Life / Aiyen-noose survival logic;
+- retained the Ballak Thorn-Tree execution without sanitization;
+- kept Aiyen's bathing/body material nonsexual and source-level;
+- source-revealed **Akwilla** as Aiyen's mother, Ballak chieftain, and current **Night Fox** from Chapter 53 onward;
+- preserved Akwilla's Hugo/Adolf/Night Fox record without inventing an unsupported formal rank;
+- preserved Ballak communal/slave customs, reproductive-health context, toilet humor, hunting rites, and ownership-rule violence factually and non-erotically;
+- verified that Chapter 55 begins the next family under the English-fallback exception.
+
+Next target family: **Chapters 55–60 — The Hunter and the Hunted**. Chapter 55 has no Chinese raw. Recovered-English numbering shifts inside the family, so complete content alignment is mandatory.
+
 ## 2026-09-18 — The Husband Hunt (1)–(6) accepted under restarted workflow
 
 **Current state:** 51 / 500 accepted; 0 staged; next Chapter 52.
