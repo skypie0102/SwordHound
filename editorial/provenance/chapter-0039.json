@@ -1,0 +1,24 @@
+{
+  "chapter": 39,
+  "title": "Sponsored (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Sponsored","range":[38,39],"family_qa_path":"qa/families/sponsored-0038-0039.md","family_qa_sha":"b3cd0785bb5613a49332e7c1041a6939fa559935","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/039.txt","blob_sha":"00bff99e9c659823dc9bdcd0367e776c11c48e2b","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-039.xhtml","blob_sha":"77df8a07ae4c025e4ea5ff6c7ec63fb02efdc2f5","target_alignment":39,"alignment_status":"verified_by_cindywendy_prison_interview_virtue_advice_messinadnaro_reveal_blood_apologies_baskerville_apology_and_sponsor_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/040.txt","blob_sha":"d2758d17729fe7ef698710531ee80db1469bd077","purpose":"new Morgue's United Front title family"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Cindywendy","retrieval_mode":"indexed_web_result","applies_to":["Cindywendy","Messinadnaro Family","Messinadnaro Sen Cindywendy"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Messinadnaro Family","retrieval_mode":"indexed_web_result","applies_to":["Messinadnaro Family"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0039.md","blob_sha":"6f4c927efc29a1979de2f42c923f86adc328bbda"},
+  "qa": {"path":"qa/chapter-0039.md","blob_sha":"05d99430db1b42ef62d19c74619c0d912d763609","status":"pass"},
+  "documented_decisions": [
+    {"topic":"identity_reveal","final":"Sen Rose Cindywendy -> Messinadnaro Sen Cindywendy","basis":"Chinese Chapter 39 reveal order plus current indexed Fandom identity evidence"},
+    {"topic":"governance_advice","final":"virtue/withdrawal/low-profile strategy retained","basis":"Chinese Chapter 39"},
+    {"topic":"messinadnaro_frameup","final":"seven local heirs framed innocent Messinadnaro child/family through stolen Baskerville swordsmanship","basis":"Chinese Chapter 39"},
+    {"topic":"abuse_scope","final":"cruel/degrading/humiliating abuse acknowledged without invented acts","basis":"Chinese narrator explicitly declines details"},
+    {"topic":"sponsor_payoff","final":"Cindywendy promises Vikir will never lack money","basis":"Chinese Chapter 39 endpoint"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
