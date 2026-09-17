@@ -1,0 +1,42 @@
+{
+  "chapter": 48,
+  "title": "The Husband Hunt (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/048.txt",
+    "primary_source_sha": "d6b3593e2fdb18e22f3279872afa515c1f7d6e18",
+    "english_reference_path": "source/chapters/chapter-048.xhtml",
+    "english_reference_sha": "4d2f292ef1a7fc3701b1af13874a27d1b2d2fe81",
+    "draft_path": "manuscript/drafts/chapter-0048.md",
+    "draft_sha": "11125e08c987906ac3f57329afa6c9b88681683a",
+    "qa_path": "qa/chapter-0048.md",
+    "qa_sha": "a8ce8f8ccda336b45e2f36cb30e7d1eba94b52fc",
+    "provenance_path": "editorial/provenance/chapter-0048.json",
+    "provenance_sha": "25adf1dba70675444a98c5fe8d1fdb43c967bfe8"
+  },
+  "canonical_checks": [
+    "Ballak Tribe",
+    "Camus Morgue",
+    "Adolf Morgue",
+    "Staffordshire Baskerville",
+    "Le Rouge et Le Noir Mountain",
+    "Sword Graduator"
+  ],
+  "documented_limits": [
+    "Returning slave-auction captive is recognized but remains personally unnamed.",
+    "Camus's bound/naked captivity is preserved as nonsexual humiliation; no erotic detail is added.",
+    "Adolf's 侄女婿 is rendered nephew-in-law; masculine Camus/nephew drift is rejected."
+  ]
+}
