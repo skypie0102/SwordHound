@@ -1,0 +1,28 @@
+{
+  "chapter": 26,
+  "title": "The Graduate (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Graduate","range":[26,27],"family_qa_path":"qa/families/graduate-0026-0027.md","family_qa_sha":"13584c51f736e5768447eec82bf9929c23b59821","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/026.txt","blob_sha":"6920eefdb1a96d09fb192e54c63f9accef9e5312","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-026.xhtml","blob_sha":"4eed63b8033df0171e64a1c1b902aa359f0fca99","target_alignment":26,"alignment_status":"verified_by_seven_year_timeskip_staffordshire_oxbear_graduation_knight_orders_academy_and_barrymore_summons","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/027.txt","blob_sha":"ce75a1a41c973c028aebeedf20aa1e366c7f2871","purpose":"direct continuation from Barrymore summons into Hugo appointment scene"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Staffordshire Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Staffordshire Baskerville","Guide Dog"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Monsters","retrieval_mode":"indexed_web_result","applies_to":["Oxbear","Danger Rating A"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Baskerville Clan/Swordsmanship","retrieval_mode":"indexed_web_result","applies_to":["Baskerville Fang Sword Style","Stabbing Fang","Sword Expert","Sword Graduator"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Vikir Van Baskerville/Sword Progress","retrieval_mode":"indexed_web_result","applies_to":["Mid Sword Graduator at Chapter 26 age 15"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Colosseo Academy","retrieval_mode":"indexed_web_result","applies_to":["Colosseo Academy"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Baskerville Clan","retrieval_mode":"indexed_web_result","applies_to":["Doberman Knights","Pit Bull Knights","Rottweiler Knights","Wolfhound Knights","Shepherd Knights","Mastiff Knights"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0026.md","blob_sha":"e99bdbcc79fe7cbc4082f53983e1dd682abb9e1f"},
+  "qa": {"path":"qa/chapter-0026.md","blob_sha":"a9ada25c6eb88b1b9707a9995f7c0cf352822b41","status":"pass"},
+  "documented_decisions": [
+    {"topic":"oxbear_measurement_conflict","final":"preserve narrative 800 kg / about 3 m alongside information-window size 5 m","basis":"Chinese Chapter 26 internal inconsistency"},
+    {"topic":"public_vikir_rank","final":"High Sword Expert / 3rd Fang rumor","basis":"Chinese Chapter 26 rank definition and Fang count"},
+    {"topic":"hidden_vikir_rank","final":"Mid Sword Graduator / 5th Fang","basis":"Chinese Chapter 26 internal rank math plus current Fandom Chapter 26 progression; one contradictory source phrase documented in QA"},
+    {"topic":"knight_orders","final":"normalize recognized order names to current Fandom canonical English forms, including Mastiff Knights","basis":"Chinese order references plus Fandom canonical naming"},
+    {"topic":"explicit_training_meal","final":"retain Oxbear dissection and raw organ/flesh consumption","basis":"Chinese Chapter 26; no sanitization"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
