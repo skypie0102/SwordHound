@@ -1,0 +1,17 @@
+{
+  "chapter": 33,
+  "title": "The Social Club (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Social Club","range":[32,34],"family_qa_path":"qa/families/social-club-0032-0034.md","family_qa_sha":"e88bec6495040e957fec7e1393eb15d3f4c87e2c","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/033.txt","primary_source_sha":"a3f2ccd52eb78eb2a4769de9d8ce150b040a641f",
+    "english_reference_path":"source/chapters/chapter-033.xhtml","english_reference_sha":"29544810fe3c2d5fb7b088c4b4ef8c04fb03c6fd",
+    "draft_path":"manuscript/drafts/chapter-0033.md","draft_sha":"1379e7eb224675d031a45369e493a687b203bae7",
+    "qa_path":"qa/chapter-0033.md","qa_sha":"132d4c445759cd3c656878e9f5f58606288e5465",
+    "provenance_path":"editorial/provenance/chapter-0033.json","provenance_sha":"169a3cbfc87b16f8bab8fc86e3cfb1a7f51fb4e1"
+  },
+  "canonical_checks": ["Vikir Van Baskerville","Sword Graduator","Colosseo Academy"],
+  "documented_limits": ["The seven local-house spellings are source/transliteration controlled where dedicated Fandom entries are unavailable.","Recovered-English Gradient is rejected in favor of established Sword Graduator terminology.","No later Vikir biography is imported beyond rumors explicitly spoken in Chapter 33."]
+}
