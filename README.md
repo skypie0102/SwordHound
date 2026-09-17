@@ -6,7 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **27 / 500 accepted; next Chapter 28.** Eight complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), and 26–27 (*The Graduate*). The next verified family is **Chapters 28–31 — Special Laws of Vikir (1)–(4)**; Chapter 32 changes to *The Social Club (1)*.
+Current checkpoint: **31 / 500 accepted; next Chapter 32.** Nine complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), and 28–31 (*Special Laws of Vikir*).
+
+The next verified family is **Chapters 32–34 — The Social Club (1)–(3)**; Chinese Chapter 35 changes to `拍卖场之花 (1)` and the recovered English index labels it *Slave Auction (1)*.
 
 ## Current source policy
 
@@ -33,35 +35,33 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 - Keep GitHub-hosted runner use sparse.
 
-## Current canonical terminology notes
+## Current terminology / editorial notes
 
 Current Fandom evidence establishes numbered Baskerville sword techniques as **Fangs** under the **Baskerville Fang Sword Style**.
 
-The accepted Graduate family adds/revalidates:
+The accepted Special Laws family adds/revalidates:
 
-- **Staffordshire Baskerville** / Guide Dog
-- **Oxbear**
-- **Colosseo Academy**
-- **Underdog City** / **Deputy Magistrate**
-- **Doberman / Pit Bull / Rottweiler / Wolfhound / Shepherd / Mastiff Knights**
-- Vikir public state at Ch. 26: **High Sword Expert / 3rd Fang**
-- Vikir hidden state at Ch. 26: **Mid Sword Graduator / 5th Fang**
+- **Underdog City** / **Deputy Magistrate / Acting Magistrate**
+- **Chihuahua Baskerville** as a male outsider-born administrator / General Secretary
+- atomic legal-information windows for Baskerville statutes and Vikir's Special Law
+- reward arithmetic fixed to **10,000,000,000 gold** from Article 1 Sections 1–3, with isolated Chinese unit-conversion slips documented
+- **Judy** as female; recovered-English gender drift rejected
+- **Kamu Morgue** as distinct from Camus Morgue in Chapter 31
+- **Heaven-Tilting Martial Marquis** as a provisional/source-descriptive rendering of `侧天武侯`, pending stronger canonical English evidence
 
-The accepted Camus Morgue family previously added/revalidated **Camus Morgue**, **Adolf Morgue**, **Raspane Morgue**, **Osiris Le Baskerville**, **Morgue Clan**, **Quadra Casting**, **Fireball / Ice Sphere / Thunder Ring / Mud Wall**, **Sixth Circle**, source-scoped **Ironblood Empress**, and Troll **Superspeed Regeneration** from Chapter 20 onward.
+The accepted Graduate family previously added/revalidated **Staffordshire Baskerville**, **Oxbear**, **Colosseo Academy**, recognized Baskerville knight-order names, and Vikir's Chapter 26 public **High Sword Expert / 3rd Fang** versus hidden **Mid Sword Graduator / 5th Fang** state.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–27**:
+Current accepted production evidence covers Chapters **1–31**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0027.md`
-- `qa/chapter-0001.md` through `chapter-0027.md`
-- accepted family QA through `qa/families/graduate-0026-0027.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0027.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0027.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0031.md`
+- `qa/chapter-0001.md` through `chapter-0031.md`
+- accepted family QA through `qa/families/special-laws-0028-0031.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0031.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0031.json`
 
-Latest family QA: `qa/families/graduate-0026-0027.md` — **PASS**.
-
-The earlier pre-restart Chapter 1 acceptance remains in Git history only and is superseded by the current family-reviewed evidence.
+Latest family QA: `qa/families/special-laws-0028-0031.md` — **PASS**.
 
 ## Editorial quality bar
 
