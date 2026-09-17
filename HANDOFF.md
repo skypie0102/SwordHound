@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Slaves of the Savage Tribe acceptance checkpoint
 - **Working branch:** `editorial/restart-slaves-savage-tribe-family`
 - **Base main checkpoint:** `81135d55fd1eae962b7d5f3180365b78efe6a912` (PR #21, The Husband Hunt 46–51, merged)
-- **Current PR:** pending
+- **Current PR:** #22 — `Rebuild Slaves of the Savage Tribe Chapters 52–54`
+- **Pre-handoff branch head before PR stamp:** `e3ed2280249e0fd4b328790e791d2deecad0e970`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
