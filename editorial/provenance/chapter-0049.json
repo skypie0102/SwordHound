@@ -1,0 +1,102 @@
+{
+  "chapter": 49,
+  "title": "The Husband Hunt (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/049.txt",
+    "blob_sha": "67bf8cd54a8e9899580d276f31a450f69a80fca0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-049.xhtml",
+    "blob_sha": "158d9d8dceeea506dd3355b7d8e906b6b3515f11",
+    "target_alignment": 49,
+    "alignment_status": "verified_by_ballak_camp_ahun_threat_aiyen_intervention_rescue_attack_and_passed_endpoint_with_localized_raw_gap_restoration",
+    "authority": "secondary_reference_plus_localized_verified_raw_gap_restoration"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "purpose": "new Slaves of the Savage Tribe title family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Aiyen",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Aiyen"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ahun",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ahun"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ballak Tribe",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ballak Tribe"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Low Sword Graduator",
+        "Camus Morgue",
+        "Adolf Morgue",
+        "Staffordshire Baskerville"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0049.md",
+    "blob_sha": "8d6f0d7d9fec645a15ce543f15f62e8685171120"
+  },
+  "qa": {
+    "path": "qa/chapter-0049.md",
+    "blob_sha": "afbb2799aac3c017b0fd8f7fe993e06b71b2d044",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "raw_gap_restoration",
+      "final": "restore only the missing Aiyen/Ahun/husband-hunt connective block from aligned recovered English",
+      "basis": "Chinese file visibly jumps into the middle of the population explanation; recovered English supplies the missing immediately adjacent sequence"
+    },
+    {
+      "topic": "husband_hunt_custom",
+      "final": "coercive outside-blood spouse hunt retained without romanticization",
+      "basis": "restored aligned witness plus surviving Chinese continuation"
+    },
+    {
+      "topic": "aiyen_ahun_names",
+      "final": "Aiyen and Ahun enter at this source-level camp setup",
+      "basis": "canonical English forms with reveal chronology"
+    },
+    {
+      "topic": "captivity_explicitness",
+      "final": "coercion, self-destructive refusal, and humiliation threat retained without erotic embellishment",
+      "basis": "source level preserved"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
