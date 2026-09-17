@@ -1,0 +1,89 @@
+{
+  "chapter": 47,
+  "title": "The Husband Hunt (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/047.txt",
+    "blob_sha": "34f8dc0298a7c898333b642016e7a3f410729739",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-047.xhtml",
+    "blob_sha": "12b422a1e79086b317dc58d0d95140005262b0c1",
+    "target_alignment": 47,
+    "alignment_status": "verified_by_ballak_raid_quadra_casting_paralytic_dart_four_fangs_camus_capture_and_unnamed_woman_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/052.txt",
+    "blob_sha": "e2bc13949910b9abb7d4085e9cd858de1cca0e25",
+    "purpose": "new Slaves of the Savage Tribe title family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ballak Tribe",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Ballak Tribe"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Camus Morgue",
+        "Quadra Casting",
+        "Low Sword Graduator",
+        "4th Fang",
+        "Hugo Le Baskerville",
+        "Queen of Red and Black",
+        "Rosie Morgue"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0047.md",
+    "blob_sha": "62398e8c0c50ec82ccf8dfd2d2c0216a0398a650"
+  },
+  "qa": {
+    "path": "qa/chapter-0047.md",
+    "blob_sha": "a0426c260d89c76265b9a2280f809799bc99368f",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "rank_terminology",
+      "final": "Vikir's displayed liquid aura is Sword Graduator; recovered-English Gradient rejected",
+      "basis": "established rank glossary plus Chinese semantics"
+    },
+    {
+      "topic": "fang_count",
+      "final": "lasso is cut with four Fangs",
+      "basis": "Chinese Chapter 47 and established Fang terminology"
+    },
+    {
+      "topic": "aiyen_reveal",
+      "final": "silver/black-haired Ballak woman remains unnamed in Chapter 47",
+      "basis": "source reveal chronology; later canonical identity excluded"
+    },
+    {
+      "topic": "rosie_kinship_drift",
+      "final": "Camus's recent bereavement refers to Rosie Morgue, not a brother",
+      "basis": "accepted Chapter 44 continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
