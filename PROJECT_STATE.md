@@ -2,13 +2,13 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 51  
+**Accepted:** 54  
 **Staged:** 0  
-**Next chapter:** 52
+**Next chapter:** 55
 
 ## Current accepted checkpoint
 
-Fifteen complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
+Sixteen complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
 
 - Chapters 1–3 — *Hellhound (1)–(3)*
 - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
@@ -25,28 +25,28 @@ Fifteen complete title families have passed the restarted Chinese-semantic/Fando
 - Chapters 40–42 — *Morgue's United Front (1)–(3)*
 - Chapters 43–45 — *The Fiancée (1)–(3)*
 - Chapters 46–51 — *The Husband Hunt (1)–(6)*
+- Chapters 52–54 — *Slaves of the Savage Tribe (1)–(3)*
 
-Latest family QA: `qa/families/husband-hunt-0046-0051.md` — **PASS**.
+Latest family QA: `qa/families/slaves-savage-tribe-0052-0054.md` — **PASS**.
 
-Every accepted chapter has a Chinese-first draft, chapter QA, provenance, and hash-bound acceptance record. Recovered English MTL/XHTML is used only after title/content alignment and never overrides Chinese narrative meaning, except for a documented localized raw-gap repair in Chapter 49 and Chapter 55 where no Chinese raw exists.
+Every accepted chapter has a reconstructed draft, chapter QA, provenance, and hash-bound acceptance record. Chinese is semantic authority wherever present; recovered English is secondary except the documented Chapter 49 partial raw gap and the full Chapter 55 fallback.
 
-## The Husband Hunt family decisions
+## Slaves of the Savage Tribe family decisions
 
-- Targets 46→46 through 51→51 were verified by complete scene sequence and endpoints.
-- Chapter 46 preserves Camus's repeated meal invitations, Vikir's political-marriage suspicion, Morgue's matriarchal labor split, and the magically improved potato/cooking sequence. Raw-layer recent-bereavement references to a “younger brother” are normalized to accepted **Rosie Morgue** continuity.
-- Chapter 47 preserves the Ballak raid, Camus's **Quadra Casting**, paralytic cactus dart, Vikir's **Sword Graduator** aura, **four Fangs**, and Camus's capture. The silver/black-haired Ballak woman remains unnamed through this chapter.
-- Chapter 48 identifies that woman only as the same captive Vikir freed at the slave auction, preserves the night pursuit and Adolf's **Silence** support spell, and renders Camus's bound/naked prisoner state nonsexually. Adolf's `侄女婿` is **nephew-in-law**.
-- Chapter 49 contains a verified physical Chinese raw gap. Only the missing connective block identifying **Aiyen / Ahun** and explaining the coercive Ballak husband-hunt custom is restored from the aligned recovered-English witness; Chinese resumes semantic authority immediately afterward.
-- Chapter 50 accepts **Divine Archer Adonai** and retains the contemporary **Night Fox** as unidentified. Later Akwilla/Aiyen succession spoilers are excluded.
-- Chapter 51 accepts **Madam Eight-Legs**, **Danger Rating S**, and the nation-destroying threat level. An isolated “broad daylight” phrase is corrected to the continuously established nighttime setting.
-- Chapter 51 ends with Vikir deliberately exploiting the crisis as a staged-death opportunity and revealing **five Fangs / Mid Sword Graduator** power to Camus and the Baskerville triplets only.
+- Targets 52→52 through 54→54 are verified by complete content alignment despite recovered-English title wording variation.
+- Chapter 52 preserves Vikir's catastrophic post–Madam Eight-Legs injuries, River Styx + Murcielago-derived Tough Life + Aiyen's noose survival logic, the Ballak village, and the explicit Thorn-Tree Punishment.
+- Chapter 53 keeps the coercive husband-hunt/slave distinction and source-reveals **Akwilla** as Aiyen's mother, Ballak chieftain, and the current **Night Fox**. The earlier spoiler guard ends only from this chapter onward.
+- Akwilla is source-linked to Hugo's nose scar, Adolf's wound, the historic 16 Sword Graduator / 10 Fourth-Circle / 6 Fifth-Circle kills, and likely Cerberus arrow scars; no unsupported formal rank is invented.
+- Chapter 54 preserves Vikir's survival-era construction/domestic skills, Ballak body/reproductive-health customs in factual non-erotic form, the toilet-culture joke, hunting rite, wolf-riding lesson, and the Aiyen/Ahun slave-rule conflict.
+- Chapter 55 Chinese raw is genuinely missing, so the next family begins under the documented English-fallback rule.
 
 ## Next verified title family
 
-- **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**
-- Chinese headings: `野蛮部落的奴隶 (1)` through `(3)`.
-- Recovered English headings vary slightly between *Slaves of the Savage Tribe* and *Slave of the Barbarian Tribe* but align to the same three-part family.
-- Chinese Chapter 55 is genuinely missing; recovered English Chapter 55 begins **The Hunter and the Hunted (1)** and is the verified fallback source.
+- **Chapters 55–60 — The Hunter and the Hunted**
+- Target Chapter 55 uses recovered English 55 as the sole text source because Chinese 055.txt is missing.
+- Chinese 56–60 continue the numbered family through `猎人与猎物 (6)`.
+- Recovered-English numbering shifts before the end of the family: verified lead **target 60 Chinese content = recovered English 59**, while **target 61 Chinese content = recovered English 60**.
+- Therefore every target in 55–60 must be aligned by content rather than assumed equal numbering.
 
 ## Source authority
 
@@ -68,4 +68,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Merge the clean **The Husband Hunt (1)–(6), Chapters 46–51** checkpoint, branch from merged main for **Slaves of the Savage Tribe, Chapters 52–54**, read complete Chinese 52–54 with recovered-English 52–54 and Chapter 55 as the boundary/fallback witness, reconstruct and QA the full family, then continue directly into **The Hunter and the Hunted (1)** using the documented Chapter 55 English fallback.
+Merge the clean **Slaves of the Savage Tribe (1)–(3), Chapters 52–54** checkpoint, branch from merged main for **The Hunter and the Hunted, target Chapters 55–60**, treat recovered English 55 as the sole Chapter 55 text source, independently resolve recovered-English mappings for 56–60 by content, reconstruct and QA the entire family, then continue onward.
