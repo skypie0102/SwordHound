@@ -1,0 +1,43 @@
+{
+  "chapter": 46,
+  "title": "The Husband Hunt (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Husband Hunt",
+    "range": [
+      46,
+      51
+    ],
+    "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
+    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/046.txt",
+    "primary_source_sha": "325e92501828c070a163fed83b1ef0089f4beb27",
+    "english_reference_path": "source/chapters/chapter-046.xhtml",
+    "english_reference_sha": "04a250fc2c638a60e88f363a5e85ff81bd838c7f",
+    "draft_path": "manuscript/drafts/chapter-0046.md",
+    "draft_sha": "890f9bc15c6f33da72c3bfb68c0ed17162ac4f97",
+    "qa_path": "qa/chapter-0046.md",
+    "qa_sha": "c08b3b3b085c52633f9bc6da22d77fceb90d132b",
+    "provenance_path": "editorial/provenance/chapter-0046.json",
+    "provenance_sha": "94f4f89f288f84521ae51562addbf15d023eb300"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Staffordshire Baskerville",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville",
+    "Colosseo Academy",
+    "Rosie Morgue"
+  ],
+  "documented_limits": [
+    "Recovered-English camel/camouflage and gender corruption do not control semantics.",
+    "Recent-bereavement brother wording is normalized to accepted Rosie Morgue continuity.",
+    "No later Camus relationship outcome is imported."
+  ]
+}
