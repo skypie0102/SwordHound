@@ -1,0 +1,17 @@
+{
+  "chapter": 42,
+  "title": "Morgue's United Front (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"Morgue's United Front","range":[40,42],"family_qa_path":"qa/families/morgue-united-front-0040-0042.md","family_qa_sha":"4d9218d405809337682b7f114b055076d970d8e3","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/042.txt","primary_source_sha":"dfff190d237d8d28eee561048fdf829f686a4bc5",
+    "english_reference_path":"source/chapters/chapter-042.xhtml","english_reference_sha":"825f9d72c7ed616bcdf154ce8ae451024ec33681",
+    "draft_path":"manuscript/drafts/chapter-0042.md","draft_sha":"a1aa1e637ca4c989bf8af23a27b140dc7ec46617",
+    "qa_path":"qa/chapter-0042.md","qa_sha":"86f0339cb518587f946e5b7db7108a88b372f5c3",
+    "provenance_path":"editorial/provenance/chapter-0042.json","provenance_sha":"530ccd13a8209e8b1512dc7ba27bdd438db80496"
+  },
+  "canonical_checks": ["Highbro","Middlebro","Lowbro","Baskerville Trident","1st Fang","Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Three Flowers of Morgue","Samhwa / Three Plagues","Camus Morgue","Queen of Fire and Skewers","Queen of Red and Black"],
+  "documented_limits": ["Chinese semantic authority fixes Lowsis=water, Middlesis=earth, Highsis=plant despite a conflicting wiki summary.","Recovered-English first form is normalized to established 1st Fang.","Camus's Chapter 42 identity does not by itself rewrite the separately documented Chapter 31 Kamu issue.","Later Camus relationship/title spoilers not present in the Chinese scene are excluded."]
+}
