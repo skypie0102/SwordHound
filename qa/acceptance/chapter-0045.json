@@ -1,0 +1,17 @@
+{
+  "chapter": 45,
+  "title": "The Fiancée (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"The Fiancée","range":[43,45],"family_qa_path":"qa/families/fiancee-0043-0045.md","family_qa_sha":"932b45edb24e81340d6fee22b98348d44e782492","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/045.txt","primary_source_sha":"9209bfced5d548f0d915f2cd5fde46b8f0c30973",
+    "english_reference_path":"source/chapters/chapter-045.xhtml","english_reference_sha":"39d7fab73c1531449d33b23f16176ded5ef47b14",
+    "draft_path":"manuscript/drafts/chapter-0045.md","draft_sha":"eb86186e62aabe403e6146a7cd42436303de46b2",
+    "qa_path":"qa/chapter-0045.md","qa_sha":"4e22ee1ba44c738e4d592b9d1f9a013b4ee33eec",
+    "provenance_path":"editorial/provenance/chapter-0045.json","provenance_sha":"b882d8455189bf66928060e740a744529df80c52"
+  },
+  "canonical_checks": ["Camus Morgue","Raspane Morgue","Adolf Morgue","Hugo Le Baskerville","Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Vikir Van Baskerville","black Baskerville cloak"],
+  "documented_limits": ["Recovered-English gender/name corruption does not control semantics.","The childhood clothing accident is retained as nonsexual embarrassment/first-crush context with no erotic embellishment.","The cloak is Camus's first treasured possession, not an object literally labeled first love.","The marriage-alliance strategy originates with Camus and initially nominates the Morgue triplets."]
+}
