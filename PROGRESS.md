@@ -1,37 +1,50 @@
 # Reconstruction Progress
 
-## 2026-09-17 — Bared Teeth (1)–(2) accepted under restarted workflow
+## 2026-09-17 — Camus Morgue (1)–(6) accepted under restarted workflow
 
-**Current state:** 19 / 500 accepted; 0 staged; next Chapter 20.
+**Current state:** 25 / 500 accepted; 0 staged; next Chapter 26.
 
-Completed the sixth contiguous title-family batch:
+Completed the seventh contiguous title-family batch:
 
-- Chapter 18 — *Bared Teeth (1)*
-- Chapter 19 — *Bared Teeth (2)*
+- Chapter 20 — *Camus Morgue (1)*
+- Chapter 21 — *Camus Morgue (2)*
+- Chapter 22 — *Camus Morgue (3)*
+- Chapter 23 — *Camus Morgue (4)*
+- Chapter 24 — *Camus Morgue (5)*
+- Chapter 25 — *Camus Morgue (6)*
 
-The family boundary was verified from both Chinese and recovered-English headings: Chapter 20 changes to *Camus Morgue (1)*. English references 18→18 and 19→19 were independently verified by complete scene sequence and endpoints.
+The family boundary was verified from both Chinese and recovered-English headings; Chapter 26 changes to *The Graduate (1)* and begins after a seven-year timeskip. English references 20→20 through 25→25 were independently verified by complete scene sequence and endpoints.
 
 Major editorial/canonical work:
 
-- rebuilt the Chapter 18 **Orc** window as Danger Rating **C**, 2 m, Le Rouge et Le Noir Mountain lowlands;
-- canonicalized Orc **High-Speed Regeneration** and kept it distinct from Brown Rat **Rapid Regeneration**;
-- rebuilt the Chapter 19 **Troll** window as Danger Rating **C+**, 4 m, Le Rouge et Le Noir Mountain 2nd Ridge;
-- canonicalized Troll **Superspeed Regeneration** and rejected the recovered-English C-rank drift;
-- preserved Vikir's public concealment strategy: **1st Fang / Low Sword Expert** in Chapter 18 and **2nd Fang / Mid Sword Expert** in Chapter 19, while his hidden accepted state remains **Low Sword Graduator** from Chapter 17;
-- explicitly documented and resolved the isolated Chapter 18 source phrase calling Vikir fifteen against the repeated age-eight chronology and Chapter 20's normal age-fifteen Low Sword Expert formula;
-- preserved severed wrist/ankle, blood loss, Beelzebub feeding, the Orc neck kill, starving/chained Troll, open throat wound, regeneration, and final decapitation without sanitization;
-- kept the Troll-derived Beelzebub Slot 3 replacement out of Chapter 19 because Chinese Chapter 20 is where that update is first narrated;
-- documented current Fandom disagreement on some early Fang descriptive names and used the dedicated Baskerville swordsmanship progression for rank/Fang mapping.
+- rebuilt Chapter 20's sword-rank ↔ mage-circle, age-milestone, and Fang-rank formula blocks;
+- preserved public Vikir = **Mid Sword Expert / 2nd Fang** versus hidden Vikir = **Low Sword Graduator / 4th Fang**, approaching Fifth Fang;
+- moved Beelzebub Slot 3 to canonical **Superspeed Regeneration — Troll (C+)** at the exact Chapter 20 reveal point;
+- canonicalized **Camus Morgue**, **Adolf Morgue**, **Raspane Morgue**, **Osiris Le Baskerville**, and **Morgue Clan**;
+- rebuilt the ruby-mine border geometry and preserved prior covert tunneling/bloodshed;
+- kept Chapter 22's future Camus retrospective only to the facts the Chinese itself reveals, including **Ironblood Empress**, while excluding later wiki-only spoilers;
+- canonicalized **Quadra Casting / Fireball / Ice Sphere / Thunder Ring / Mud Wall** for Camus's Chapter 23 duel;
+- rendered the Chapter 24 clothing accident involving two eight-year-olds neutrally/non-sexually without deleting source-relevant events;
+- corrected the proposed Camus (8) / Osiris (20) marriage gap to **12 years**, rejecting recovered-English 17-year drift;
+- preserved Baskerville's explicit frontier policy of driving monsters/barbarians toward Morgue and hunting down fleeing hostile survivors;
+- preserved Vikir's old-life Adolf odds (~50% ambush/assassination, ~10% direct confrontation);
+- rebuilt Adolf's earth/fire/water pot handicap and shield magic;
+- preserved Vikir's deliberate sword-break solution: a fragment pierces the pot and spills water.
 
-Family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
+Family QA: `qa/families/camus-morgue-0020-0025.md` — **PASS**.
 
-The next family is already bounded on both corpora:
+Next verified family:
 
-- **Chapters 20–25 — Camus Morgue (1)–(6)**
-- Chinese Chapter 26 changes to `毕业生 (graduater) (1)`
-- recovered English Chapter 26 changes to *The Graduate (1)*.
+- **Chapters 26–27 — The Graduate (1)–(2)**
+- Chapter 28 changes to **Special Laws of Vikir (1)**.
 
-Per the continuous-processing rule, work proceeds directly into Chapters 20–25 after the Bared Teeth merge.
+Per the continuous-processing rule, work proceeds directly into Chapters 26–27 after the Camus Morgue merge.
+
+## 2026-09-17 — Bared Teeth (1)–(2) accepted under restarted workflow
+
+**Checkpoint at that time:** 19 / 500 accepted; next Chapter 20.
+
+Completed Chapters 18–19. Major decisions include Orc C / High-Speed Regeneration, Troll C+ / Superspeed Regeneration, public 1st→2nd Fang concealment, the Chapter 18 age-line resolution, and preserving Chapter 20 as the first Troll-slot reveal. Family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
 
 ## 2026-09-17 — Solitary (1)–(4) accepted under restarted workflow
 
