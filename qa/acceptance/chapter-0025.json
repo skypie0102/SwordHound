@@ -1,0 +1,17 @@
+{
+  "chapter": 25,
+  "title": "Camus Morgue (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/025.txt","primary_source_sha":"572b82701f79f0783d4f6b9b8d24a9260fd3ba02",
+    "english_reference_path":"source/chapters/chapter-025.xhtml","english_reference_sha":"6786ee3abb472c7967c026cf82732e4c0d9d325e",
+    "draft_path":"manuscript/drafts/chapter-0025.md","draft_sha":"a5991670d7ff9ff7d7aa9c0b5bd3886b607302b8",
+    "qa_path":"qa/chapter-0025.md","qa_sha":"60abb20e9f224b369c27e3ca0e788ef42be1e662",
+    "provenance_path":"editorial/provenance/chapter-0025.json","provenance_sha":"cf38966a283a16556ac4d321a657ab8d2df2a65d"
+  },
+  "canonical_checks": ["Adolf Morgue","Camus Morgue","Sixth Circle","shield magic"],
+  "documented_limits": ["Pre-regression odds remain source-scoped: about 50% ambush/assassination and 10% direct confrontation.","Vikir's broken-sword fragment hitting the pot is the actual solution to Adolf's handicap.","Chapter 26's seven-year timeskip and training cast are not imported early."]
+}
