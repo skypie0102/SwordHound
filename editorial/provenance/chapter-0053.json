@@ -1,0 +1,83 @@
+{
+  "chapter": 53,
+  "title": "Slaves of the Savage Tribe (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {
+    "name": "Slaves of the Savage Tribe",
+    "range": [
+      52,
+      54
+    ],
+    "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
+    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/053.txt",
+    "blob_sha": "5205b110cfd0e74607d4dfcf49c71250c0d990cd",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-053.xhtml",
+    "blob_sha": "910996f812cb9ce17380cda49af7e5a9e3889e99",
+    "target_alignment": 53,
+    "alignment_status": "verified_by_get_down_arrow_ballak_language_husband_hunt_slave_claim_chieftain_tent_akwilla_reveal_and_mission_setup",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chapters/chapter-055.xhtml",
+    "blob_sha": "b3d243ed6bdbd0268e0281d18589d0b4c308604e",
+    "purpose": "new The Hunter and the Hunted title family; Chinese 055.txt is missing and this is the verified fallback"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Aiyen",
+        "Akwilla",
+        "Ballak Tribe",
+        "Night Fox",
+        "Hugo Le Baskerville",
+        "Adolf Morgue",
+        "Cerberus",
+        "Sword Graduator",
+        "Madam Eight-Legs"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0053.md",
+    "blob_sha": "6864d9f5d6647ed4d048d718ebd691bf632fddb5"
+  },
+  "qa": {
+    "path": "qa/chapter-0053.md",
+    "blob_sha": "12dca40cfa5c826c88bb8f8950966a45afea8867",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "akwilla_reveal",
+      "final": "Akwilla is Ballak chieftain, Aiyen's mother, and current Night Fox from this chapter onward",
+      "basis": "Chinese Chapter 53 explicit reveal; earlier spoiler guard ends here only"
+    },
+    {
+      "topic": "husband_vs_slave",
+      "final": "Aiyen says she does not need a husband and claims Vikir as a slave",
+      "basis": "Chinese Chapter 53 source"
+    },
+    {
+      "topic": "reproductive_wording",
+      "final": "seed-intact line rendered clinically as reproductive health intact",
+      "basis": "Chinese semantic meaning preserved without eroticization"
+    },
+    {
+      "topic": "akwilla_strength",
+      "final": "Hugo scar, Adolf wound, 16 Sword Graduator / 10 Fourth-Circle / 6 Fifth-Circle kills retained; no formal rank invented",
+      "basis": "Chinese Chapter 53"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
