@@ -1,0 +1,23 @@
+{
+  "chapter": 36,
+  "title": "Slave Auction (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Slave Auction","range":[35,37],"family_qa_path":"qa/families/slave-auction-0035-0037.md","family_qa_sha":"cf32e938cae2abdd3cc1892463b5edaf56b9ffba","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/036.txt","blob_sha":"94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-036.xhtml","blob_sha":"b4a7de354d870c31685419c8a011cd853ca5381d","target_alignment":36,"alignment_status":"verified_by_vikir_premium_lot_gambino_purchase_breakout_fifth_fang_hostage_horn_and_pit_bull_arrival","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/037.txt","blob_sha":"fab7c365f52addab267414058f52bd31ba9515cb","purpose":"explains Hugo authorization and continues Pit Bull operation directly"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Baskerville Clan","retrieval_mode":"indexed_web_result","applies_to":["Pit Bull Knights","Fang terminology"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Cindywendy","retrieval_mode":"indexed_web_result","applies_to":["reveal chronology only; secretary identity intentionally withheld in Ch.36"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0036.md","blob_sha":"f70bdea52bca018e94cd53d1e02f1ee87fcd0953"},
+  "qa": {"path":"qa/chapter-0036.md","blob_sha":"a1b543f3e84df1f2838f758c78e64d47dd4e2627","status":"pass"},
+  "documented_decisions": [
+    {"topic":"secretary_identity","final":"unnamed","basis":"Chinese has not revealed Cindywendy name yet"},
+    {"topic":"rank_and_style","final":"Sword Graduator / 5th Fang","basis":"established project/Fandom terminology; MTL Gradient/Fifth Form rejected"},
+    {"topic":"pit_bull_force","final":"100 Pit Bull Knights, all Sword Graduators","basis":"Chinese Chapter 36 and canonical order evidence"},
+    {"topic":"gambino_injury","final":"brutal tearing injury without unsupported anatomical precision","basis":"Chinese translation-layer anatomical wording is noisy while action/outcome are clear"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

@@ -2,13 +2,13 @@
 
 **Checkpoint:** 2026-09-17  
 **Target edition:** 500 chapters  
-**Accepted:** 34  
+**Accepted:** 37  
 **Staged:** 0  
-**Next chapter:** 35
+**Next chapter:** 38
 
 ## Current accepted checkpoint
 
-Ten complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
+Eleven complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
 
 - Chapters 1–3 — *Hellhound (1)–(3)*
 - Chapters 4–7 — *The Baskerville Dog (1)–(4)*
@@ -20,31 +20,35 @@ Ten complete title families have passed the restarted Chinese-semantic/Fandom-ca
 - Chapters 26–27 — *The Graduate (1)–(2)*
 - Chapters 28–31 — *Special Laws of Vikir (1)–(4)*
 - Chapters 32–34 — *The Social Club (1)–(3)*
+- Chapters 35–37 — *Slave Auction (1)–(3)*
 
-Latest family QA: `qa/families/social-club-0032-0034.md` — **PASS**.
+Latest family QA: `qa/families/slave-auction-0035-0037.md` — **PASS**.
 
 Every accepted chapter has a Chinese-first draft, chapter QA, provenance, and hash-bound acceptance record. Recovered English MTL/XHTML is used only after title/content alignment and never overrides Chinese narrative meaning.
 
-## The Social Club family decisions
+## Slave Auction family decisions
 
-- Targets 32→32 through 34→34 were verified by complete scene sequence and endpoints.
-- **Burning Suspension** is accepted as the elite Underdog City club from current indexed Fandom evidence.
-- **Messinadnaro Family** is accepted as the removed eighth local/merchant house; Chapter 32 does not import later massacre details early.
-- The seven active houses are kept as **Montblanc, Pierre, Louis Vuitton, Chanel, Ferragamo, Hermes, and Prada** from the Chinese/transliterated witnesses where dedicated canonical entries are not indexed.
-- The local body is rendered descriptively as the **Youth Self-Governance Committee** rather than promoting corrupted MTL syllables to a false proper noun.
-- Chapter 32 preserves the 385-glass champagne tower, its 100→81→64… tier structure, illegal slave-auction funding, and Vikir's top-down mana-resonance destruction. The isolated Chinese `80` slip for the 9×9 tier is normalized to the internally established 81.
-- Chapter 33 uses established **Sword Graduator** terminology rather than recovered-English `Gradient` and preserves the severe stake beating without sanitization.
-- Chapter 34 applies the already established Baskerville statutes literally: cumulative mutilation penalties, seven executions, salted severed heads, and postmortem exile are preserved.
-- The Chapter 34 Chinese translation layer briefly assigns the Deputy Magistrate office to **Hugo**; immediate continuity and the aligned witness make **Vikir** the intended referent, and the draft corrects it.
-- Vikir's line that evidence can be found—or manufactured if necessary—is retained without moral gloss.
-- The custom torture tools and Age-of-Destruction interrogation memories remain explicit.
+- Targets 35→35 through 37→37 were verified by complete scene sequence and endpoints.
+- Chinese Chapter 35 has the anomalous heading `拍卖场之花 (1)`, while Chinese 36–37 and recovered English 35–37 establish a single three-part **Slave Auction** family.
+- The clandestine event calls itself the **Freak Show**. Chihuahua infiltrates it under the **Chihuahua Montblanc** cover identity.
+- **Infernal Buffalo ‘Murcielago’** is retained from the Chinese/transliterated source plus independently aligned English witness: Danger Rating A, 3 m, Le Rouge et Le Noir Mountain 2nd Ridge, nineteen hearts. No dedicated current Fandom monster-name entry is claimed.
+- Slave trafficking, kidnapping, drugging, forced submission, sexual exploitation, mutilation, execution, and the auction patrons’ cruelty remain explicit and unsanitized.
+- The feral tribal girl remains **unnamed** in Chapters 35–37 even though later canonical material identifies her; reveal chronology controls.
+- Baron Gambino’s green-blond secretary likewise remains **unnamed** because the Chinese source has not yet revealed her identity.
+- Chapter 36 keeps Vikir’s staged sale, the six-billion-gold purchase, Baron Gambino’s sexual groping, Vikir’s breakout, and the resulting killing sequence source-faithful.
+- Established terminology controls Chapter 36: **Sword Graduator**, **5th Fang**, **Beelzebub**, and **Pit Bull Knights**; recovered-English `Gradient` / `Fifth Form` are rejected.
+- Hugo’s hidden red-tooth horn summons **100 Pit Bull Knights, all Sword Graduators**.
+- **Boston Terrier Le Baskerville** is accepted for the Pit Bull Knights’ commander in Chapter 37 from current Fandom evidence.
+- Chapter 37 preserves the Pit Bull purge without sanitization, including execution of movers and the severing of wrists/ankles from captured suspects who remain still.
+- The auction’s cash goes to the city treasury; ledgers and contact records are retained as evidence for follow-up raids.
+- Vikir frees the abused tribal girl after recognizing Cerberus-related wounds, then locates Murcielago for Beelzebub.
 
 ## Next verified title family
 
-- **Chapters 35–37 — Slave Auction (1)–(3)**
-- Recovered English headings: *Slave Auction (1)–(3)*.
-- Chinese Chapter 35 has an inconsistent translated heading `拍卖场之花 (1)` while Chapters 36–37 use `奴隶拍卖 (2)` / `奴隶拍卖会 (3)`; the numbering, scene continuity, and recovered-English headings establish one three-part Slave Auction family.
-- Chinese Chapter 38 changes to `赞助商 (1)` — **Sponsor (1)**.
+- **Chapters 38–39 — Sponsored (1)–(2)**
+- Chinese headings: `赞助商 (1)` / `赞助商 (2)`.
+- Recovered English Chapter 38 is *Sponsored (1)*; Chapter 39 alignment still receives the normal complete-content verification before editorial use.
+- Chinese Chapter 40 changes to `米尔格家族的联合战线 (1)`, beginning a new title family.
 
 ## Source authority
 
@@ -66,4 +70,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Merge the clean **The Social Club (1)–(3), Chapters 32–34** checkpoint, branch from merged main for **Slave Auction, Chapters 35–37**, read complete Chinese 35–37 with Chapter 38 as the boundary witness, independently align recovered English 35–37 by complete content, revalidate new proper nouns/monster names/auction terminology, reconstruct and QA the full family, then continue onward without stopping at the PR.
+Merge the clean **Slave Auction (1)–(3), Chapters 35–37** checkpoint, branch from merged main for **Sponsored, Chapters 38–39**, read complete Chinese 38–39 with Chapter 40 as the boundary witness, independently align recovered English 38–39 by complete content, revalidate newly revealed names/terms, reconstruct and QA the full family, then continue onward without stopping at the PR.
