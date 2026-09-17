@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **51 / 500 accepted; next Chapter 52.** Fifteen complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), 18–19 (*Bared Teeth*), 20–25 (*Camus Morgue*), 26–27 (*The Graduate*), 28–31 (*Special Laws of Vikir*), 32–34 (*The Social Club*), 35–37 (*Slave Auction*), 38–39 (*Sponsored*), 40–42 (*Morgue's United Front*), 43–45 (*The Fiancée*), and 46–51 (*The Husband Hunt*).
+Current checkpoint: **54 / 500 accepted; next Chapter 55.** Sixteen complete title families are accepted under the restarted workflow, through **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**.
 
-The next verified family is **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**. Chinese Chapter 55 is missing; recovered English Chapter 55 begins **The Hunter and the Hunted (1)** and is the verified fallback.
+The next target family is **Chapters 55–60 — The Hunter and the Hunted**. Chinese Chapter 55 is missing, so recovered English 55 is the sole verified text fallback. Later recovered-English numbering shifts within this family, so alignment must be content-based.
 
 ## Current source policy
 
@@ -38,30 +38,29 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Husband Hunt family adds/revalidates:
+The accepted Slaves of the Savage Tribe family adds/revalidates:
 
-- **Aiyen / Ahun** — enter by name in the Chapter 49 camp setup; later biography and Night Fox succession spoilers remain excluded.
-- **Divine Archer Adonai** — canonical form/title accepted at the Chapter 50 source reveal.
-- **Night Fox** — the contemporary sniper remains unidentified in current source chronology.
-- **Madam Eight-Legs** — accepted in Chapter 51 with **Danger Rating S** and nation-destroying capability.
-- **4th Fang / 5th Fang** — Vikir's Chapter 47 public display and Chapter 51 hidden-power release respectively.
-- **Mid Sword Graduator** — Chapter 51 hidden strength witnessed by Camus and the Baskerville triplets.
-- Chapter 49 has a localized, documented Chinese raw gap; only the missing Aiyen/Ahun/husband-hunt connective block is restored from recovered English.
-- Chapter 51's isolated daylight wording is rejected against the continuous nighttime setting.
+- **Akwilla** — source-revealed in Chapter 53 as Aiyen's mother, Ballak chieftain, and the current **Night Fox**. Earlier chapters remain chronology-scoped and are not retroactively rewritten.
+- **Thorn-Tree Punishment** — descriptive working term for the Chapter 52 Ballak execution; not promoted as a dedicated canonical proper noun.
+- **Tough Life** — Chapter 52 explicitly participates in Vikir's recovery after Madam Eight-Legs, alongside River Styx protection and Aiyen's noose rescue.
+- **Ballak slave/husband-hunt distinction** — Aiyen claims Vikir as a slave rather than husband; coercive spouse-capture and reproductive-role context stays source-faithful and non-erotic.
+- Ballak internal communal generosity and extreme hostility toward outsiders are both retained.
+- Chapter 54 body/reproductive-health customs and toilet humor are kept factual and non-erotic.
+- **The Hunter and the Hunted, target 55–60** is the next family; Chapter 55 uses the English fallback and later MTL numbering shifts.
 
-Earlier accepted terminology includes **Camus Morgue**, **Rosie Morgue**, **Cindywendy / Messinadnaro Sen Cindywendy**, **Tough Life**, **Infernal Buffalo ‘Murcielago’**, **Boston Terrier Le Baskerville**, **Burning Suspension**, **Underdog City**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
+Earlier accepted terminology includes **Aiyen**, **Ahun**, **Divine Archer Adonai**, **Madam Eight-Legs**, **Camus Morgue**, **Rosie Morgue**, **Tough Life**, **Infernal Buffalo ‘Murcielago’**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–51**:
+Current accepted production evidence covers Chapters **1–54**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0051.md`
-- `qa/chapter-0001.md` through `chapter-0051.md`
-- accepted family QA through `qa/families/husband-hunt-0046-0051.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0051.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0051.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0054.md`
+- `qa/chapter-0001.md` through `chapter-0054.md`
+- accepted family QA through `qa/families/slaves-savage-tribe-0052-0054.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0054.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0054.json`
 
-Latest family QA: `qa/families/husband-hunt-0046-0051.md` — **PASS**.
+Latest family QA: `qa/families/slaves-savage-tribe-0052-0054.md` — **PASS**.
 
 ## Editorial quality bar
 
