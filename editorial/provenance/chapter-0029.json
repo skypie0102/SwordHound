@@ -1,0 +1,22 @@
+{
+  "chapter": 29,
+  "title": "Special Laws of Vikir (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Special Laws of Vikir","range":[28,31],"family_qa_path":"qa/families/special-laws-0028-0031.md","family_qa_sha":"873b6ba47c68d7f974ae1a137db37e553adcd480","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/029.txt","blob_sha":"68aaa0e15d41710dfd127bc38537f809f552d104","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-029.xhtml","blob_sha":"379b1737e8edc968281caec89bf88ea000fdb8fb","target_alignment":29,"alignment_status":"verified_by_dortmeyer_statutes_public_distrust_stake_dimensions_and_100m_special_law_clause","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/030.txt","blob_sha":"83a76c0ca225a629895c9ecff0c72dd55baa0852","purpose":"repeats Article 1 Section 1 and escalates reward"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Deputy Magistrate"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Chihuahua Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Chihuahua Baskerville"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0029.md","blob_sha":"d56407b157dc3ec39c860a47904596ba19820b67"},
+  "qa": {"path":"qa/chapter-0029.md","blob_sha":"f36beec116afa4715304cffa7df65a23d83b5556","status":"pass"},
+  "documented_decisions": [
+    {"topic":"statute_punishments","final":"retain Chinese punishments exactly, including drowning and extermination of three clans","basis":"Chinese Chapter 29; MTL semantic errors rejected"},
+    {"topic":"legal_windows","final":"keep statute lists and special-law clause atomic","basis":"source structure"},
+    {"topic":"stake","final":"70 cm / ~3 kg / driven ~10 cm; trivial to pull","basis":"Chinese Chapter 29"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

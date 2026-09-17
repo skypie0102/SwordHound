@@ -1,0 +1,17 @@
+{
+  "chapter": 30,
+  "title": "Special Laws of Vikir (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {"name":"Special Laws of Vikir","range":[28,31],"family_qa_path":"qa/families/special-laws-0028-0031.md","family_qa_sha":"873b6ba47c68d7f974ae1a137db37e553adcd480","status":"pass"},
+  "evidence": {
+    "primary_source_path":"source/chinese/chapters/030.txt","primary_source_sha":"83a76c0ca225a629895c9ecff0c72dd55baa0852",
+    "english_reference_path":"source/chapters/chapter-030.xhtml","english_reference_sha":"a7440c1d0a786f9cc579ee2120616fb4b13c4932",
+    "draft_path":"manuscript/drafts/chapter-0030.md","draft_sha":"1594f4c3717c495bcade949684b44efad77de255",
+    "qa_path":"qa/chapter-0030.md","qa_sha":"109a5b6b884abdb633f04affa249c0d06d9cbc42",
+    "provenance_path":"editorial/provenance/chapter-0030.json","provenance_sha":"42218e9510d48fe385f6fc2fb895072fe0462d2a"
+  },
+  "canonical_checks": ["Underdog City","Deputy Magistrate","Judy"],
+  "documented_limits": ["Reward arithmetic is bound to the law's internally consistent 10,000,000,000-gold total despite isolated Chinese unit-conversion slips.","Recovered-English gender drift around Judy is rejected."]
+}

@@ -1,0 +1,21 @@
+{
+  "chapter": 30,
+  "title": "Special Laws of Vikir (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Special Laws of Vikir","range":[28,31],"family_qa_path":"qa/families/special-laws-0028-0031.md","family_qa_sha":"873b6ba47c68d7f974ae1a137db37e553adcd480","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/030.txt","blob_sha":"83a76c0ca225a629895c9ecff0c72dd55baa0852","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-030.xhtml","blob_sha":"a7440c1d0a786f9cc579ee2120616fb4b13c4932","target_alignment":30,"alignment_status":"verified_by_article_1_reward_escalation_judy_stake_pull_mother_crowd_and_ten_billion_payout","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/031.txt","blob_sha":"269e4c7e789fe7aef93a0edefd1c0fd3f864d904","purpose":"opens with the stake-reward story spreading and its legal effect"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Deputy Magistrate"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0030.md","blob_sha":"1594f4c3717c495bcade949684b44efad77de255"},
+  "qa": {"path":"qa/chapter-0030.md","blob_sha":"109a5b6b884abdb633f04affa249c0d06d9cbc42","status":"pass"},
+  "documented_decisions": [
+    {"topic":"reward_arithmetic","final":"10,000,000,000 gold total","basis":"Article 1 Sections 1–3 arithmetic plus aligned witness; isolated Chinese unit-conversion slip documented"},
+    {"topic":"judy_gender","final":"female","basis":"Chinese Chapter 30; MTL gender drift rejected"},
+    {"topic":"law_thesis","final":"This is the law. It will be obeyed.","basis":"Chinese Chapter 30 endpoint"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}

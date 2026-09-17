@@ -1,0 +1,22 @@
+{
+  "chapter": 28,
+  "title": "Special Laws of Vikir (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Special Laws of Vikir","range":[28,31],"family_qa_path":"qa/families/special-laws-0028-0031.md","family_qa_sha":"873b6ba47c68d7f974ae1a137db37e553adcd480","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/028.txt","blob_sha":"96db8ceb0b55b0baabc3514c1675c692d7172f97","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-028.xhtml","blob_sha":"093c745e87f97c9758ec0afb38b6fda15ac2f5a6","target_alignment":28,"alignment_status":"verified_by_underdog_city_hall_chihuahua_underground_economy_bait_banquet_and_special_law_setup","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/029.txt","blob_sha":"68aaa0e15d41710dfd127bc38537f809f552d104","purpose":"continues directly into public Special Law demonstration"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Vikir Van Baskerville — Deputy Magistrate"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Chihuahua Baskerville","retrieval_mode":"indexed_web_result","applies_to":["Chihuahua Baskerville","Underdog City administrator"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0028.md","blob_sha":"ad6f2b85c662f51164c5b7ccc2fcbdfcf7f9baf8"},
+  "qa": {"path":"qa/chapter-0028.md","blob_sha":"4d1a78886b8e93371525656dc8a4ecb0d28d3cf8","status":"pass"},
+  "documented_decisions": [
+    {"topic":"office_titles","final":"Deputy Magistrate / Acting Magistrate; Chihuahua as General Secretary","basis":"Chinese office semantics plus established project/Fandom terminology"},
+    {"topic":"first_order","final":"retain Bring me wine and women as deliberate bait","basis":"Chinese Chapter 28; no sanitization"},
+    {"topic":"academy_drift","final":"preserve City Hall scene continuity and reject spurious physical Academy transition","basis":"surrounding Chinese sequence and chapter continuity"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
