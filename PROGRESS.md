@@ -1,38 +1,43 @@
 # Reconstruction Progress
 
-## 2026-09-17 — Solitary (1)–(4) accepted under restarted workflow
+## 2026-09-17 — Bared Teeth (1)–(2) accepted under restarted workflow
 
-**Current state:** 17 / 500 accepted; 0 staged; next Chapter 18.
+**Current state:** 19 / 500 accepted; 0 staged; next Chapter 20.
 
-Completed the fifth contiguous title-family batch:
+Completed the sixth contiguous title-family batch:
 
-- Chapter 14 — *Solitary (1)*
-- Chapter 15 — *Solitary (2)*
-- Chapter 16 — *Solitary (3)*
-- Chapter 17 — *Solitary (4)*
+- Chapter 18 — *Bared Teeth (1)*
+- Chapter 19 — *Bared Teeth (2)*
 
-The family boundary was verified from both Chinese and recovered-English headings: Chapter 18 changes to *Bared Teeth (1)*. English references 14→14, 15→15, 16→16, and 17→17 were independently verified by full scene sequence, library events, Fang progression, and endpoints.
+The family boundary was verified from both Chinese and recovered-English headings: Chapter 20 changes to *Camus Morgue (1)*. English references 18→18 and 19→19 were independently verified by complete scene sequence and endpoints.
 
 Major editorial/canonical work:
 
-- canonicalized **10,000 Book Library** and **Lurking Embedded Teeth** from current Fandom evidence;
-- kept numbered Baskerville techniques as canonical **Fangs**;
-- preserved Hugo granting Vikir restricted-library access and recommending Sixth-Fang material;
-- preserved the access hierarchy for collateral/illegitimate, direct-line, elite direct-line, and clan-head-level sword manuals;
-- corrected Chapter 16 MTL `right-handed black dog` to the Chinese **one-eyed black hound**;
-- preserved the brutal first-life torn-page retrieval campaign, including Vikir's lost fingers/toes, both ears, burns/scars, dead comrades, and Hugo's meager praise;
-- preserved the source timing of the library fire at about **10 hours 50 minutes**, rejecting the MTL's duplicated `11 hours 50 minutes` passage;
-- advanced Chapter 17 Vikir to **Low Sword Graduator**, with stable Fourth Fang, unstable Fifth Fang, and Fourth-Circle-equivalent mana context;
-- preserved his decision to burn *Lurking Embedded Teeth* after memorizing it, ending cleanly before Hugo's Chapter 18 summons.
+- rebuilt the Chapter 18 **Orc** window as Danger Rating **C**, 2 m, Le Rouge et Le Noir Mountain lowlands;
+- canonicalized Orc **High-Speed Regeneration** and kept it distinct from Brown Rat **Rapid Regeneration**;
+- rebuilt the Chapter 19 **Troll** window as Danger Rating **C+**, 4 m, Le Rouge et Le Noir Mountain 2nd Ridge;
+- canonicalized Troll **Superspeed Regeneration** and rejected the recovered-English C-rank drift;
+- preserved Vikir's public concealment strategy: **1st Fang / Low Sword Expert** in Chapter 18 and **2nd Fang / Mid Sword Expert** in Chapter 19, while his hidden accepted state remains **Low Sword Graduator** from Chapter 17;
+- explicitly documented and resolved the isolated Chapter 18 source phrase calling Vikir fifteen against the repeated age-eight chronology and Chapter 20's normal age-fifteen Low Sword Expert formula;
+- preserved severed wrist/ankle, blood loss, Beelzebub feeding, the Orc neck kill, starving/chained Troll, open throat wound, regeneration, and final decapitation without sanitization;
+- kept the Troll-derived Beelzebub Slot 3 replacement out of Chapter 19 because Chinese Chapter 20 is where that update is first narrated;
+- documented current Fandom disagreement on some early Fang descriptive names and used the dedicated Baskerville swordsmanship progression for rank/Fang mapping.
 
-Family QA: `qa/families/solitary-0014-0017.md` — **PASS**.
+Family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
 
-The next family is already bounded:
+The next family is already bounded on both corpora:
 
-- **Chapters 18–19 — Bared Teeth (1)–(2)**
-- Chapter 20 changes to **Camus Morgue (1)**.
+- **Chapters 20–25 — Camus Morgue (1)–(6)**
+- Chinese Chapter 26 changes to `毕业生 (graduater) (1)`
+- recovered English Chapter 26 changes to *The Graduate (1)*.
 
-Per the continuous-processing rule, work proceeds directly into Chapters 18–19 after the Solitary merge.
+Per the continuous-processing rule, work proceeds directly into Chapters 20–25 after the Bared Teeth merge.
+
+## 2026-09-17 — Solitary (1)–(4) accepted under restarted workflow
+
+**Checkpoint at that time:** 17 / 500 accepted; next Chapter 18.
+
+Completed Chapters 14–17 as one family. Major decisions include canonical **10,000 Book Library**, **Lurking Embedded Teeth**, continued numbered **Fangs**, correction of `right-handed black dog` to **one-eyed black hound**, source fire timing at about **10 hours 50 minutes**, and Vikir's advancement to **Low Sword Graduator**. Family QA: `qa/families/solitary-0014-0017.md` — **PASS**.
 
 ## Earlier accepted checkpoints
 

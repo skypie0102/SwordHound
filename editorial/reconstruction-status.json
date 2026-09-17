@@ -2,20 +2,20 @@
   "checkpoint_date": "2026-09-17",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 17,
+  "accepted_chapters": 19,
   "staged_chapters": 0,
-  "next_chapter": 18,
+  "next_chapter": 20,
   "latest_accepted_family": {
-    "name": "Solitary",
-    "range": [14, 17],
-    "family_qa": "qa/families/solitary-0014-0017.md"
-  },
-  "next_title_family": {
     "name": "Bared Teeth",
     "range": [18, 19],
+    "family_qa": "qa/families/bared-teeth-0018-0019.md"
+  },
+  "next_title_family": {
+    "name": "Camus Morgue",
+    "range": [20, 25],
     "boundary_status": "verified_from_chinese_and_recovered_english_headings",
-    "following_family_starts": 20,
-    "following_title": "Camus Morgue (1)"
+    "following_family_starts": 26,
+    "following_title": "The Graduate (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -30,14 +30,15 @@
     "385.txt": [385, 386],
     "495.txt": [495, 496]
   },
-  "accepted": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17],
+  "accepted": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19],
   "notes": [
-    "Chapters 14-17 are accepted as the complete Solitary title family after Chinese-first chapter QA and family continuity QA.",
-    "Target 14-17 map to recovered English 14-17 by title, scene sequence, library events, Fang progression, and endpoints.",
-    "Solitary canonicalizes 10,000 Book Library, Lurking Embedded Teeth, and continued Baskerville Fang terminology.",
-    "Chapter 16 corrects the recovered-English 'right-handed black dog' error to the Chinese one-eyed black hound and preserves the first-life torn-page retrieval losses.",
-    "Chapter 16 preserves the source fire timing at about 10 hours 50 minutes rather than the MTL's duplicated 11 hours 50 minutes.",
-    "Chapter 17 advances Vikir to Low Sword Graduator, with a stable Fourth Fang and an unstable Fifth Fang, and ends after the scripture is burned before Hugo's Chapter 18 summons.",
+    "Chapters 18-19 are accepted as the complete Bared Teeth title family after Chinese-first chapter QA and family continuity QA.",
+    "Target 18-19 map to recovered English 18-19 by complete content alignment.",
+    "Chapter 18 documents and resolves one isolated Chinese age contradiction: Vikir remains eight; the phrase is treated as comparison with the normal age-fifteen Low Sword Expert milestone.",
+    "Bared Teeth canonicalizes Orc C / High-Speed Regeneration and Troll C+ / Superspeed Regeneration while preserving complete monster windows.",
+    "Vikir publicly reveals Low Sword Expert / 1st Fang in Chapter 18 and Mid Sword Expert / 2nd Fang in Chapter 19 while his accepted hidden state remains Low Sword Graduator from Chapter 17.",
+    "The Troll-derived Beelzebub slot replacement is not imported early; Chinese Chapter 20 is the first narrative reveal.",
+    "The next verified title family is Chapters 20-25, Camus Morgue (1)-(6); Chinese and recovered English Chapter 26 switch to The Graduate/Graduator (1).",
     "Chinese raws control narrative/semantic content; English Fandom controls canonical English renderings for identified proper nouns where applicable.",
     "Every session must read and update HANDOFF.md.",
     "English MTL numbering diverges later; do not assume same-number alignment except where explicitly verified."

@@ -1,0 +1,41 @@
+{
+  "chapter": 18,
+  "title": "Bared Teeth (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-17",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "Bared Teeth",
+    "range": [18, 19],
+    "family_qa_path": "qa/families/bared-teeth-0018-0019.md",
+    "family_qa_sha": "42ca0651bb0ec731cc80a3aac892e5dfd0cf02b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/018.txt",
+    "primary_source_sha": "7c313862e83ae30acfd9270ae5e0972d82eecf65",
+    "english_reference_path": "source/chapters/chapter-018.xhtml",
+    "english_reference_sha": "5d58111d3a188ea82343910782f38dc22da8caea",
+    "draft_path": "manuscript/drafts/chapter-0018.md",
+    "draft_sha": "5ec87f0e1ebd2dfd8ff4022a820f9dfb1c4c14e6",
+    "qa_path": "qa/chapter-0018.md",
+    "qa_sha": "73d94ecad060606f77111fec4ee3c9fabac857ec",
+    "provenance_path": "editorial/provenance/chapter-0018.json",
+    "provenance_sha": "134eee9c797fcfe4c4e190c41475afb02d34b06a"
+  },
+  "canonical_checks": [
+    "Orc",
+    "Danger Rating C",
+    "High-Speed Regeneration",
+    "Le Rouge et Le Noir Mountain",
+    "Beelzebub",
+    "Incinerate / Hemorrhage / Rapid Regeneration",
+    "1st Fang / Stabbing Fang",
+    "Low Sword Expert"
+  ],
+  "documented_limits": [
+    "One isolated Chinese age phrase contradicts the repeated age-eight chronology; QA/provenance document the resolution as a normal age-fifteen rank comparison.",
+    "Current Fandom pages conflict on some early Fang descriptive names; dedicated Baskerville Clan/Swordsmanship progression is used and the conflict is documented.",
+    "Chapter 19 Troll material and Chapter 20 post-kill Beelzebub slot changes are not imported early."
+  ]
+}

@@ -1,26 +1,26 @@
 # SwordHound Session Handoff
 
-> **Mandatory:** Read this file before beginning editorial work. Update it after meaningful checkpoints and always before ending a session or handing work to another agent. `AGENTS.md` and `editorial/WORKFLOW.md` define the required protocol.
+> **Mandatory:** Read this file before beginning editorial work. Update it after meaningful checkpoints and always before ending a session or handing work to another agent.
 
 ## Handoff metadata
 
 - **Last updated:** 2026-09-17
-- **Updated by:** ChatGPT — Solitary acceptance checkpoint
-- **Working branch:** `editorial/restart-solitary-family`
-- **Base main checkpoint:** `6b357f39fcaec5c1ce9185dbbc7342c66a172333` (after PR #10)
+- **Updated by:** ChatGPT — Bared Teeth acceptance checkpoint
+- **Working branch:** `editorial/restart-bared-teeth-family`
+- **Base main checkpoint:** `fc4620c6134c9230eb6fe1047949021fa3c98b9b` (PR #11 merged)
 - **Current PR:** pending creation
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
 - **Target edition:** 500 chapters
-- **Accepted:** **17**
+- **Accepted:** **19**
 - **Staged:** **0**
-- **Next chapter:** **18**
-- **Latest accepted family:** **Chapters 14–17 — Solitary (1)–(4)**
-- **Latest family QA:** `qa/families/solitary-0014-0017.md` — **PASS** — `506806e1fa1da7aac61b9d54d202e3e727d14308`
-- **Next family:** **Chapters 18–19 — Bared Teeth (1)–(2)**
-- **Next-family boundary:** **VERIFIED** from Chinese + recovered-English headings; Chapter 20 changes to **Camus Morgue (1)**.
+- **Next chapter:** **20**
+- **Latest accepted family:** **Chapters 18–19 — Bared Teeth (1)–(2)**
+- **Latest family QA:** `qa/families/bared-teeth-0018-0019.md` — **PASS** — `42ca0651bb0ec731cc80a3aac892e5dfd0cf02b3`
+- **Next family:** **Chapters 20–25 — Camus Morgue (1)–(6)**
+- **Next-family boundary:** **VERIFIED** from Chinese + recovered-English headings. Chinese Chapter 26 changes to `毕业生 (graduater) (1)` and recovered English Chapter 26 is *The Graduate (1)*.
 
 Accepted families so far:
 
@@ -29,110 +29,108 @@ Accepted families so far:
 3. Chapters 8–11 — *Hounds of Hell (1)–(4)*
 4. Chapters 12–13 — *The Gluttonous Flies (1)–(2)*
 5. Chapters 14–17 — *Solitary (1)–(4)*
+6. Chapters 18–19 — *Bared Teeth (1)–(2)*
 
 ## Rules that must not be lost
 
 - Chinese raw = semantic/narrative authority.
-- English Fandom wiki = canonical English authority for identified names, terminology, locations, ranks, skills, monsters, organizations, titles, and other proper nouns where applicable.
+- English Fandom wiki = canonical English authority for identified names/terms/locations/ranks/skills/monsters/organizations/titles where applicable.
 - English MTL/XHTML = secondary alignment/phrasing witness only except Chapter 55.
 - Do not sanitize or soften source content.
 - Do not import MTL/wiki narrative exposition absent from Chinese.
-- Process complete contiguous title families; a chapter/family/PR completion is a checkpoint, not a stopping condition.
+- Process complete contiguous title families; chapter/family/PR completion is a checkpoint, not a stopping condition.
 - Never assume target N == MTL N without title/content verification.
 - Protect reveal chronology.
 - Keep information windows atomic.
 - Numbered Baskerville techniques are **Fangs**, not Forms.
 
-## Accepted family — Chapters 14–17: Solitary
+## Accepted family — Chapters 18–19: Bared Teeth
 
 ### Boundary and verified MTL mapping
 
 Chinese:
-- `014.txt` — `独食 (1)` — `6985275ffc44d7d6cb13674567aeb7b4eb2abe57`
-- `015.txt` — `独食 (2)` — `d2ed35aa2f110b51c245d860dbf151c9db7f2a9f`
-- `016.txt` — `独食 (3)` — `66d7a6dc326cd1118d5c4c06660429db0812d0f6`
-- `017.txt` — `独食 (4)` — `a06435731264acf695a613b6bffc28270bd8d3fe`
-- boundary witness `018.txt` — `显露的獠牙 (1)` — `7c313862e83ae30acfd9270ae5e0972d82eecf65`
+- `018.txt` — `显露的獠牙 (1)` — `7c313862e83ae30acfd9270ae5e0972d82eecf65`
+- `019.txt` — `显露獠牙 (2)` — `bc88dc2708487354d9ff29ca8978252e8001d572`
+- boundary witness `020.txt` — `米尔格·卡米耶 (1)` — `b4b2011e2c0ab569f7ee420c05608498970d2dd8`
 
-Recovered English mappings verified by full content:
-- target 14 → MTL 14 — `1f9904992e6d0354590d923fcab450f7ab60fa14`
-- target 15 → MTL 15 — `b081799012eb00f8ae21fc555cff817ce586cddf`
-- target 16 → MTL 16 — `a585d0e5d5df242bb52e478550ab651be2d93558`
-- target 17 → MTL 17 — `186f5ce33d50b654427866f735e8f223e3786b3f`
+Recovered English:
+- target 18 → MTL 18 — `5d58111d3a188ea82343910782f38dc22da8caea` — verified by full content
+- target 19 → MTL 19 — `bdaa1abc7dfe521570a9998c43099c576da16d37` — verified by full content
+- Chapter 20 title witness — `5706f9f22b35d53b4e58208c3e24c04f59e40632`
 
-Alignment evidence includes title sequence, post-exam report/library-access scene, Sixth-Fang manual, discovery of *Lurking Embedded Teeth*, torn-page retrieval recollection, Fifth-Fang breakthrough, book burning, and Chapter 18 Hugo summons.
+### Final evidence
 
-### Final drafts
+Chapter 18:
+- draft — `5ec87f0e1ebd2dfd8ff4022a820f9dfb1c4c14e6`
+- QA — `73d94ecad060606f77111fec4ee3c9fabac857ec`
+- provenance — `134eee9c797fcfe4c4e190c41475afb02d34b06a`
+- acceptance — `6700aa6ade3cb75144ba018d424f52259759c460`
 
-- `manuscript/drafts/chapter-0014.md` — `556a0e1ff32eb251b35b71f4222b208e04b1f1ae`
-- `manuscript/drafts/chapter-0015.md` — `6c79f7db01d40e4eb5ee823ce1007e969aca55f1`
-- `manuscript/drafts/chapter-0016.md` — `a26bedbdddac060808091e7aeef8b090e504f9e9`
-- `manuscript/drafts/chapter-0017.md` — `217b62806c86b7d4d641276fc925a0e0723823a1`
+Chapter 19:
+- draft — `9ce9bca35ff2b02ac8362d408d256ea42e47194e`
+- QA — `8c392cd67005b44826ab58e927996efd06efcc92`
+- provenance — `4d5abd647ad9cd11a79770b0cb76b764103abb32`
+- acceptance — `cedeab6407b3364e25fa22a42f5770ee90f2c76c`
 
-### Chapter QA
+### Accepted terminology / decisions
 
-- `qa/chapter-0014.md` — PASS — `2f8a11af61456f1a3439c0642712efae662c988e`
-- `qa/chapter-0015.md` — PASS — `f3a72f7b55976588f2eb6004fabc189f19691bf6`
-- `qa/chapter-0016.md` — PASS — `7d804fb8770669f172787116730242f54d07c214`
-- `qa/chapter-0017.md` — PASS — `1ca241417fbc048ce4745ef71c47b4c9ab86dbe6`
+- **Orc** — Danger Rating **C**, **2 m**, Le Rouge et Le Noir Mountain lowlands
+- Orc **High-Speed Regeneration**
+- **Troll** — Danger Rating **C+**, **4 m**, Le Rouge et Le Noir Mountain 2nd Ridge
+- Troll **Superspeed Regeneration**
+- **1st Fang / Low Sword Expert** — Vikir's public Chapter 18 reveal
+- **2nd Fang / Mid Sword Expert** — Vikir's public Chapter 19 reveal
+- Vikir's actual hidden state remains **Low Sword Graduator** from Chapter 17.
+- Chapter 18 contains one isolated source phrase calling Vikir fifteen. It conflicts with repeated age-eight chronology and Chapter 20's age/rank formula; accepted rendering treats it as comparison with the normal age-fifteen Low Sword Expert milestone.
+- Chinese Chapter 18 River Styx rumor is **seven minutes**, not the MTL's eight.
+- Chapter 19 does not reveal the Troll-derived Beelzebub Slot 3 update early; that occurs in Chinese Chapter 20.
+- Current Fandom pages conflict on some descriptive names for early Fang techniques. Use the dedicated `Baskerville Clan/Swordsmanship` progression for Fang/rank mapping and keep the conflict documented.
 
-### Provenance
-
-- `editorial/provenance/chapter-0014.json` — `5687c5f3bb044762efbcc4d5314e8c36ca571dc9`
-- `editorial/provenance/chapter-0015.json` — `3fa2a186c325647d1e200f13694a5bc4dc531cba`
-- `editorial/provenance/chapter-0016.json` — `9fcef3f48729ad8e41e6b348ebcf63a3d7126702`
-- `editorial/provenance/chapter-0017.json` — `4e4d7953c27785e5aa347148ac777644622db2d8`
-
-### Acceptance records
-
-- `qa/acceptance/chapter-0014.json` — `4ae5d314e18ab5964285a21cf317cf8cce1e1bf3`
-- `qa/acceptance/chapter-0015.json` — `42d06e19ce46861428d6098e64dd692d2f2a73e0`
-- `qa/acceptance/chapter-0016.json` — `bb9b9039523c1e5c90c94ccb35efcebf8b778c3f`
-- `qa/acceptance/chapter-0017.json` — `cb8cca9d3e4c39094624d3bb97dce255cd0d6328`
-
-### Accepted canonical terminology / decisions
-
-- **10,000 Book Library**
-- **Lurking Embedded Teeth**
-- **Baskerville Fang Sword Style** / numbered Fangs
-- **Sixth Fang** material offered by Hugo
-- **Low Sword Graduator** for Vikir after the Chapter 17 breakthrough
-- Vikir can stably show four Fangs and unstably produce a fifth at this point.
-
-Material source repairs:
-
-- Chapter 16 Chinese describes first-life Vikir as a **one-eyed black hound**; recovered English `right-handed black dog` is rejected.
-- The first-life torn-page campaign preserves lost fingers/toes, both ears, severe burns/scars, dead siblings/comrades, and Hugo's single `Well done` reward without sanitization.
-- Chapter 16 source timing for the later library fire is about **10 hours 50 minutes**; recovered English's duplicated `11 hours 50 minutes` block is rejected.
-- Chapter 17 preserves the book-burning concealment and the servants' decision not to report it.
-
-## Next family — Chapters 18–19: Bared Teeth
+## Next family — Chapters 20–25: Camus Morgue
 
 ### Verified boundary
 
 Chinese headings:
-- Ch. 18 — `显露的獠牙 (1)` — `7c313862e83ae30acfd9270ae5e0972d82eecf65`
-- Ch. 19 — `显露獠牙 (2)` — `bc88dc2708487354d9ff29ca8978252e8001d572`
-- Ch. 20 changes to `米尔格·卡米耶 (1)` — `b4b2011e2c0ab569f7ee420c05608498970d2dd8`
+- Ch. 20 — `米尔格·卡米耶 (Morgue Camille) (1)` — `b4b2011e2c0ab569f7ee420c05608498970d2dd8`
+- Ch. 21 — `米尔格·卡穆 (Morgue Camille) (2)` — `27a08de60fce2e2150ebcc90ba5eea86ab383b13`
+- Ch. 22 — `米尔格·卡穆 (Morgue Camille) (3)` — `17f6cd386ca806da124b0de11909715de7944a3f`
+- Ch. 23 — `米尔格·卡缪 (Morgue Camille) (4)` — `73fb36644fc0e0c51009d97bc9c07f2b0a0af637`
+- Ch. 24 — `米尔格 卡穆 (Morgue Camille) (5)` — `e3d233f295f21607d3202b9c7f22f063554b23dc`
+- Ch. 25 — `米尔格 卡米尔 (Morgue Camille) (6)` — `572b82701f79f0783d4f6b9b8d24a9260fd3ba02`
+- Ch. 26 changes to `毕业生 (graduater) (1)` — `6920eefdb1a96d09fb192e54c63f9accef9e5312`
 
 Recovered English headings:
-- Ch. 18 — *Bared Teeth (1)* — `5d58111d3a188ea82343910782f38dc22da8caea`
-- Ch. 19 — *Bared Teeth (2)* — `bdaa1abc7dfe521570a9998c43099c576da16d37`
 - Ch. 20 — *Camus Morgue (1)* — `5706f9f22b35d53b4e58208c3e24c04f59e40632`
+- Ch. 21 — *Camus Morgue (2)* — `6a136140fa0bbd0ea36149300c06556f02f3ab35`
+- Ch. 22 — *Camus Morgue (3)* — `e68bf780fc6fc3ea98d4db202ca550454235b894`
+- Ch. 23 — *Camus Morgue (4)* — `9ef560af4531c37e8c0116a30657582abe0bf768`
+- Ch. 24 — *Camus Morgue (5)* — `7a799d74556660c1012b4cc784949918c9b60bd4`
+- Ch. 25 — *Camus Morgue (6)* — `6786ee3abb472c7967c026cf82732e4c0d9d325e`
+- Ch. 26 — *The Graduate (1)* — `4eed63b8033df0171e64a1c1b902aa359f0fca99`
 
-**Important:** only the title-family boundary is verified at this checkpoint. Full 18→18 and 19→19 content alignment still must be established before the English witnesses are used editorially.
+**Important:** only the title-family boundary is verified so far. Full 20→20 through 25→25 content alignment must still be established before those English files are used editorially.
 
-### Exact next actions
+### Known Chapter 20 continuity lead
 
-1. Open and merge the clean Solitary PR after verifying mergeability.
-2. Create a fresh branch from merged main for **Bared Teeth Chapters 18–19**.
-3. Read complete Chinese Chapters 18 and 19; use Chinese 20 opening as boundary/continuity witness.
-4. Read complete recovered English Chapters 18 and 19 and verify target↔MTL alignment by opening, events, distinctive entities/techniques, and endpoints.
-5. Canonicalize newly introduced proper nouns/terms against current English Fandom evidence; do not backfill later reveals.
-6. Reconstruct Chapters 18–19 from Chinese.
-7. Run chapter QA + 18–19 family QA, including the 17→18 Hugo-summons handoff and the 19→20 Camus Morgue boundary.
+Chinese Chapter 20 immediately records:
+- public Vikir = **Mid Sword Expert / 2nd Fang** at age eight;
+- hidden real Vikir = **Low Sword Graduator / 4th Fang**, with Fifth Fang progress near at hand;
+- Beelzebub Slot 3 replaces Brown Rat Rapid Regeneration with Troll **Superspeed Regeneration**;
+- the Highbro/Middlebro/Lowbro triplets approach Vikir while he eats haggis.
+
+This is legitimate Chapter 20 material and must not be backfilled into Chapter 19.
+
+## Exact next actions
+
+1. Open and merge the clean Bared Teeth PR after verifying mergeability.
+2. Create a fresh branch from merged main for **Camus Morgue Chapters 20–25**.
+3. Read complete Chinese Chapters 20–25 first; use Chinese 26 opening as the boundary/continuity witness.
+4. Read complete recovered English 20–25 and independently verify each target↔MTL mapping by opening, scene sequence, entities, techniques, and endpoints.
+5. Reverify **Camus Morgue** current-era canonical details against current English Fandom evidence without importing later Ironblood Empress revelations before the Chinese does.
+6. Reconstruct all six chapters as one family.
+7. Run per-chapter QA + 20–25 family QA, including 19→20 and 25→26 continuity.
 8. Create hash-bound provenance/acceptance, update glossary/tracker/status/project/progress/handoff, merge if clean.
-9. Immediately determine and begin the Chapter 20 **Camus Morgue** title family.
+9. Immediately determine and begin the Chapter 26 *The Graduate/Graduator* family.
 
 ## Persistent exceptions
 

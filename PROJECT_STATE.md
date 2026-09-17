@@ -2,41 +2,42 @@
 
 **Checkpoint:** 2026-09-17  
 **Target edition:** 500 chapters  
-**Accepted:** 17  
+**Accepted:** 19  
 **Staged:** 0  
-**Next chapter:** 18
+**Next chapter:** 20
 
 ## Current accepted checkpoint
 
-Five complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
+Six complete title families have passed the restarted Chinese-semantic/Fandom-canonical workflow:
 
 - **Chapters 1–3 — Hellhound (1)–(3)**
 - **Chapters 4–7 — The Baskerville Dog (1)–(4)**
 - **Chapters 8–11 — Hounds of Hell (1)–(4)**
 - **Chapters 12–13 — The Gluttonous Flies (1)–(2)**
 - **Chapters 14–17 — Solitary (1)–(4)**
+- **Chapters 18–19 — Bared Teeth (1)–(2)**
 
-Latest family QA: `qa/families/solitary-0014-0017.md` — **PASS**.
+Latest family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
 
 Every accepted chapter has a Chinese-first draft, chapter QA, provenance, and hash-bound acceptance record. Recovered English MTL/XHTML is used only after title/content alignment and never overrides Chinese narrative meaning.
 
-## Solitary family decisions
+## Bared Teeth family decisions
 
-- Target Chapters 14–17 map to recovered English Chapters 14–17 by complete content alignment.
-- Canonical English terms promoted in this family include **10,000 Book Library**, **Lurking Embedded Teeth**, and continued **Baskerville Fang Sword Style** / numbered **Fangs**.
-- Chapter 14 preserves Hugo granting Vikir access to the library and recommending the **Sixth Fang** material.
-- Chapter 15 preserves the restricted-library hierarchy and Vikir's discovery of *Lurking Embedded Teeth* among neglected books.
-- Chapter 16 preserves the first-life torn-page recovery campaign and corrects the MTL's `right-handed black dog` to the Chinese **one-eyed black hound**.
-- Chapter 16 keeps the source's fire timing at roughly **10 hours 50 minutes**, rejecting the MTL's duplicated `11 hours 50 minutes` passage.
-- Chapter 17 advances Vikir to **Low Sword Graduator**, with a stable Fourth Fang and unstable Fifth Fang; the scripture is burned before the Chapter 18 summons.
+- Target 18→MTL 18 and 19→MTL 19 are verified by complete content, not numbering alone.
+- Chapter 18 rebuilds the **Orc** window as Danger Rating **C**, 2 m, Le Rouge et Le Noir Mountain lowlands, with canonical **High-Speed Regeneration**.
+- Chapter 19 rebuilds the **Troll** window as Danger Rating **C+**, 4 m, Le Rouge et Le Noir Mountain 2nd Ridge, with canonical **Superspeed Regeneration**.
+- Chapter 18's isolated Chinese phrase calling Vikir a fifteen-year-old conflicts with the repeated age-eight chronology. It is documented and resolved as comparison with the normal age-fifteen **Low Sword Expert / 1st Fang** milestone.
+- Vikir deliberately reveals only **Low Sword Expert / 1st Fang** in Chapter 18 and **Mid Sword Expert / 2nd Fang** in Chapter 19. His accepted hidden state remains **Low Sword Graduator** from Chapter 17.
+- Chapter 19 does **not** import the Troll-derived Beelzebub Slot 3 replacement early; Chinese Chapter 20 is where that update is actually revealed.
+- Fandom pages conflict on some early Fang descriptive names. The dedicated `Baskerville Clan/Swordsmanship` progression is used for Fang/rank mapping and the conflict is documented.
 
 ## Next verified title family
 
-- **Chapter 18 — Bared Teeth (1)**
-- **Chapter 19 — Bared Teeth (2)**
-- **Chapter 20 changes to Camus Morgue (1)**
+- **Chapters 20–25 — Camus Morgue (1)–(6)**
+- Chinese Chapter 26 changes to `毕业生 (graduater) (1)`.
+- Recovered English Chapter 26 changes to **The Graduate (1)**.
 
-The 18–19 boundary is verified from Chinese and recovered-English headings. Full target↔MTL content alignment and canonical checks still must be completed before acceptance.
+The six-part 20–25 boundary is verified from both corpora. Full target↔MTL content alignment and canonical checks must still be completed before acceptance.
 
 ## Mandatory continuation record
 
@@ -66,4 +67,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Process **Bared Teeth (1)–(2), Chapters 18–19** as one title-family batch. Read Chinese 18–19 completely, use Chinese 20 as the boundary witness, verify recovered English alignment by content, canonicalize applicable new terms, reconstruct and QA the pair, accept/merge if clean, then immediately continue into the Chapter 20 *Camus Morgue* family.
+Merge the clean **Bared Teeth (1)–(2), Chapters 18–19** checkpoint, then process **Camus Morgue (1)–(6), Chapters 20–25** as one title-family batch. Read Chinese 20–25 completely, use Chapter 26 as the boundary witness, independently align English references 20–25 by content, canonicalize applicable terms, reconstruct and QA the full family, accept/merge if clean, then continue onward without stopping at the PR.
