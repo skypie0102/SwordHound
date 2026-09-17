@@ -1,120 +1,119 @@
 # SwordHound Session Handoff
 
-> **Mandatory:** Read this file before beginning editorial work. Update it after meaningful checkpoints and always before ending a session or handing work to another agent.
+> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint and always before ending or handing work to another agent. Hash-bound accepted evidence wins over this file if they ever conflict; immediately repair this file when that happens.
 
 ## Handoff metadata
 
 - **Last updated:** 2026-09-17
-- **Updated by:** ChatGPT — Camus Morgue acceptance checkpoint
-- **Working branch:** `editorial/restart-camus-morgue-family`
-- **Base main checkpoint:** `f32229e7b35ad6c682901e66655415582d568062` (PR #12 merged)
-- **Current PR:** pending creation
+- **Updated by:** ChatGPT — The Graduate source/alignment/canonical checkpoint
+- **Working branch:** `editorial/restart-graduate-family`
+- **Base main checkpoint:** `4b66ccc20fe791215c7ae6c3b8a2d6b5f28819ec` (PR #13, Camus Morgue 20–25, squash-merged)
+- **Current PR:** not yet created
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
-- **Target edition:** 500 chapters
+- **Target:** 500 chapters
 - **Accepted:** **25**
 - **Staged:** **0**
-- **Next chapter:** **26**
-- **Latest accepted family:** **Chapters 20–25 — Camus Morgue (1)–(6)**
-- **Latest family QA:** `qa/families/camus-morgue-0020-0025.md` — **PASS** — `a1e81033e781959beca43cbb497def66252093fc`
-- **Next family:** **Chapters 26–27 — The Graduate (1)–(2)**
-- **Next-family boundary:** **VERIFIED** from Chinese + recovered-English headings. Chapter 28 changes to **Special Laws of Vikir (1)**.
+- **Next:** **Chapter 26**
+- **Active family:** **Chapters 26–27 — The Graduate (1)–(2)**
+- **Boundary:** **VERIFIED**. Chinese 28 changes to `彼勒斯特别法 (1)`; recovered English 28 is *Special Laws of Vikir (1)*.
+- **Latest accepted family:** Chapters 20–25 — *Camus Morgue (1)–(6)* — family QA PASS.
 
-Accepted families so far:
-
-1. Chapters 1–3 — *Hellhound (1)–(3)*
-2. Chapters 4–7 — *The Baskerville Dog (1)–(4)*
-3. Chapters 8–11 — *Hounds of Hell (1)–(4)*
-4. Chapters 12–13 — *The Gluttonous Flies (1)–(2)*
-5. Chapters 14–17 — *Solitary (1)–(4)*
-6. Chapters 18–19 — *Bared Teeth (1)–(2)*
-7. Chapters 20–25 — *Camus Morgue (1)–(6)*
+Accepted families:
+1. 1–3 — *Hellhound (1)–(3)*
+2. 4–7 — *The Baskerville Dog (1)–(4)*
+3. 8–11 — *Hounds of Hell (1)–(4)*
+4. 12–13 — *The Gluttonous Flies (1)–(2)*
+5. 14–17 — *Solitary (1)–(4)*
+6. 18–19 — *Bared Teeth (1)–(2)*
+7. 20–25 — *Camus Morgue (1)–(6)*
 
 ## Rules that must not be lost
 
 - Chinese raw = semantic/narrative authority.
-- English Fandom wiki = canonical English authority for identified names/terms/locations/ranks/skills/monsters/organizations/titles where applicable.
-- English MTL/XHTML = secondary alignment/phrasing witness only except Chapter 55.
-- Do not sanitize or soften source content.
-- Do not import MTL/wiki narrative exposition absent from Chinese.
-- Process complete contiguous title families; chapter/family/PR completion is a checkpoint, not a stopping condition.
+- English Fandom wiki = canonical English authority for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns where applicable.
+- Recovered English MTL/XHTML = secondary alignment/phrasing witness only except Chapter 55.
 - Never assume target N == MTL N without title/content verification.
+- Preserve explicitness; do not sanitize, soften, or intensify.
+- Do not import MTL/wiki narrative exposition absent from Chinese.
 - Protect reveal chronology.
+- Process whole contiguous title families. A chapter, family, or PR is a checkpoint, **not a stopping condition**.
 - Keep information windows atomic.
 - Numbered Baskerville techniques are **Fangs**, not Forms.
+- Final browser/CSS/EPUB visual QA remains deferred to complete-EPUB assembly.
 
-## Accepted family — Chapters 20–25: Camus Morgue
+## Active family — Chapters 26–27: The Graduate
 
-### Source / alignment evidence
-
-| Ch. | Chinese SHA | English ref SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
-|---|---|---|---|---|---|---|
-| 20 | `b4b2011e2c0ab569f7ee420c05608498970d2dd8` | `5706f9f22b35d53b4e58208c3e24c04f59e40632` | `5ba5c4e3e149f8affc5ffc7874f1d1dc39f11a90` | `93f017eaf9a38fddb9debb8ebe274b4207639e9f` | `44ce8ccaa7bb2bc736b354da1f78896205d7bfd6` | `22eb767bce2f4ae28d668276b8e406c86dc2e9c0` |
-| 21 | `27a08de60fce2e2150ebcc90ba5eea86ab383b13` | `6a136140fa0bbd0ea36149300c06556f02f3ab35` | `9afa2b06a333eed874f1809d4609921d739a9605` | `ba031dd7d6bfc8c8d4b12adcb4350379de91b7c5` | `174f0184f635fa0fc733c8cd2cc8c47539eda325` | `5ad09ddc620ff7c891bbc981323e4b923d33bf0a` |
-| 22 | `17f6cd386ca806da124b0de11909715de7944a3f` | `e68bf780fc6fc3ea98d4db202ca550454235b894` | `d0ac31bc3fffbf6f6c0305eec164f411dbca18d8` | `b3883173f41ffd8ccb0faab7d5c6a0bf07df6831` | `10c994522addab394dd63b0ebb385e8a2383ee5e` | `dc3de53413f9fd13374349d151e8b38327bbf999` |
-| 23 | `73fb36644fc0e0c51009d97bc9c07f2b0a0af637` | `9ef560af4531c37e8c0116a30657582abe0bf768` | `fd3f051a374fd86368792aa0a6180d6f444ba286` | `6f41ad4092f809dbb290abd69d46c6592872a9bd` | `02a8c053c8018c83d1b4733f5f37e206ab91d843` | `34436625a1589dab8034d9dfbc49783aa582f1d3` |
-| 24 | `e3d233f295f21607d3202b9c7f22f063554b23dc` | `7a799d74556660c1012b4cc784949918c9b60bd4` | `8d651112d999fa468a45ab7c48d385a72ea2607f` | `366de318ba1e583c30dabcd48c94f9748a610609` | `d9c3bc603ee4c1b6c11ac885b97bf97798c2a06e` | `69671aec11ba4c4dc750909a4fc086a9fc0c52e4` |
-| 25 | `572b82701f79f0783d4f6b9b8d24a9260fd3ba02` | `6786ee3abb472c7967c026cf82732e4c0d9d325e` | `a5991670d7ff9ff7d7aa9c0b5bd3886b607302b8` | `60abb20e9f224b369c27e3ca0e788ef42be1e662` | `cf38966a283a16556ac4d321a657ab8d2df2a65d` | `b443fa796d780d644a824c0892bf55fdff24f7b1` |
-
-All target→MTL mappings 20→20 through 25→25 were verified by full content, not numbering alone.
-
-### Accepted canonical terms / decisions
-
-- **Camus Morgue** — female, age eight at introduction.
-- **Adolf Morgue** — Camus's uncle; Sixth-Circle mage; major Morgue political/diplomatic figure.
-- **Raspane Morgue** — current Morgue head/matriarch; Camus's mother; Adolf's sister.
-- **Osiris Le Baskerville / Young Patriarch**.
-- **Morgue Clan**.
-- **Quadra Casting**.
-- **Fireball / Ice Sphere / Thunder Ring / Mud Wall**.
-- Chinese Chapter 22 itself invokes future Camus as **Ironblood Empress**; only source-present future facts are included. Fandom-only later spoilers remain excluded.
-- Chapter 20 public Vikir = **Mid Sword Expert / 2nd Fang**; hidden Vikir = **Low Sword Graduator / 4th Fang**, approaching Fifth Fang.
-- Chapter 20 is the first narrative reveal of Beelzebub Slot 3 = **Superspeed Regeneration — Troll (C+)**.
-- Chapter 24 Camus 8 / Osiris 20 proposed match = **12-year** difference; MTL 17-year wording rejected.
-- Chapter 24's separate Hugo `40 / 57` jab is retained as a source oddity, not used to redefine that gap.
-- Chapter 24 clothing accident is rendered neutrally/non-sexually while preserving all source-relevant events.
-- Chapter 24 Baskerville frontier pursuit/extermination doctrine remains explicit.
-- Chapter 25 Vikir's old-life odds against Adolf remain ~50% by ambush/assassination and ~10% direct.
-- Chapter 25 solution: Vikir deliberately breaks his own sword so a fragment pierces Adolf's water pot.
-
-## Next family — Chapters 26–27: The Graduate
-
-### Verified boundary
+### Source and alignment
 
 Chinese:
-- Ch. 26 — `毕业生 (graduater) (1)` — `6920eefdb1a96d09fb192e54c63f9accef9e5312`
-- Ch. 27 — `毕业生 (graduater) (2)` — `ce75a1a41c973c028aebeedf20aa1e366c7f2871`
-- Ch. 28 changes to `彼勒斯特别法 (1)` — `96db8ceb0b55b0baabc3514c1675c692d7172f97`
+- Ch. 26 `source/chinese/chapters/026.txt` — SHA `6920eefdb1a96d09fb192e54c63f9accef9e5312`
+- Ch. 27 `source/chinese/chapters/027.txt` — SHA `ce75a1a41c973c028aebeedf20aa1e366c7f2871`
+- Ch. 28 boundary witness `source/chinese/chapters/028.txt` — SHA `96db8ceb0b55b0baabc3514c1675c692d7172f97`
 
 Recovered English:
-- Ch. 26 — *The Graduate (1)* — `4eed63b8033df0171e64a1c1b902aa359f0fca99`
-- Ch. 27 — *The Graduate (2)* — `d38e9375af1faf9786857a8b1e925e1a8bbe8b18`
-- Ch. 28 — *Special Laws of Vikir (1)* — `093c745e87f97c9758ec0afb38b6fda15ac2f5a6`
+- target 26 → MTL 26, *The Graduate (1)* — SHA `4eed63b8033df0171e64a1c1b902aa359f0fca99` — **content verified**
+- target 27 → MTL 27, *The Graduate (2)* — SHA `d38e9375af1faf9786857a8b1e925e1a8bbe8b18` — **content verified**
+- Chapter 28 title witness *Special Laws of Vikir (1)* — SHA `093c745e87f97c9758ec0afb38b6fda15ac2f5a6`
 
-Only the title-family boundary is verified at this checkpoint. Full 26→26 / 27→27 content alignment must still be performed before the English witnesses are used editorially.
+Alignment anchors:
+- 25→26: hard **seven-year** timeskip after the Camus/Adolf family.
+- Ch. 26: Staffordshire training, Oxbear exercise, seven-year training graduation, knight-order discussion, fifteen-year-old Vikir, Colosseo Academy interest, Barrymore summons him to Hugo.
+- Ch. 27: Hugo's nose scar / archer anecdote, graduation discussion, expected 21-month field deployment, unexpected administrative elite track, appointment as Deputy Magistrate of Underdog City, request invoking the seven-year-old ruby-mine reward, Barrymore conversation.
+- 27→28: Vikir leaves with his appointment and intends to earn results quickly; Chapter 28 begins the Special Laws of Vikir family.
 
-### Known boundary continuity
+### Current canonical evidence
 
-- Chapter 25 ends on Adolf's leaking water pot after Vikir's broken-blade trick.
-- Chapter 26 opens **seven years later** and introduces Staffordshire Baskerville, fifteen/sixteen-year-old trainees, an Oxbear exercise, and the end of a seven-year training cycle.
-- Therefore no Chapter 26 material belongs in Camus Morgue (6).
+Current indexed English Fandom evidence establishes:
+- **Staffordshire Baskerville** — Guide Dog/instructor.
+- **Oxbear** — A-rank monster; Chinese controls the complete Chapter 26 window and exact 7th-ridge details.
+- **Colosseo Academy** — canonical academy name.
+- **Underdog City** — canonical city name; Fandom explicitly lists **Vikir Van Baskerville (Deputy Magistrate)** as ruler.
+- **Pit Bull Knights**, **Mastiff Knights**, **Doberman Knights**, **Shepherd Knights**, **Rottweiler Knights**, **Wolfhound Knights** — canonical Baskerville order names. Chinese Ch. 26 uses a bull-mastiff expression; normalize to canonical **Mastiff Knights** unless later source establishes a distinct seventh order.
+- **Baskerville Fang Sword Style** / numbered **Fangs**.
+- Dedicated Baskerville swordsmanship evidence supports **Stabbing Fang** as a canonical Fang name, while other Fandom martial-skill pages remain internally inconsistent; document conflicts rather than pretending uniformity.
+
+### Chapter 26 source decisions
+
+- Seven years have passed; Vikir and peers are about fifteen.
+- **Staffordshire Baskerville**, age 35, is a **Mid Sword Graduator** veteran/Guide Dog in Chinese (`毕业者中级`).
+- Staffordshire's practiced hound swordsmanship is described as **Stabbing Fang** and he can draw four Fangs.
+- Oxbear window is atomic: **Danger Rating A**, **5 m**, **Le Rouge et Le Noir Mountain, 7th Ridge**; enormous horned bear, near-perfect terrestrial killing machine.
+- The captive specimen is sub-adult and undernourished, making it more nervous/aggressive.
+- The trainees kill and butcher the Oxbear, then eat the raw meat/organs. Preserve this explicitly.
+- Training structure: 3.5 years basic + 3.5 years practical = seven years; next stage would be roughly **21 months** in undeveloped territory.
+- Young hounds discuss knight-order preferences; canonicalize recognized order names.
+- Public rumor about Vikir: **High Sword Expert / 3rd Fang** at age 15. The old MTL's vague/incorrect rank wording must not override Chinese.
+- Vikir's real hidden state has advanced **beyond Mid Sword Graduator** and he has mastered **five Fangs**; do not collapse this into his public rumor.
+- He is interested in **Colosseo Academy** not for prestige but because it lets him get away from Hugo, grow stronger, repay old-life debts, and obtain hidden relics.
+
+### Chapter 27 source decisions
+
+- Hugo's new scar came from a skilled female archer while fighting barbarians in Le Rouge et Le Noir Mountain; she escaped, and Hugo says he left a matching scar on her face. Do not identify her early from wiki knowledge.
+- Expected path from Vikir's old life: apprentice in the **Pit Bull Knights**, then 21 months on the frontier.
+- Hugo instead puts him on the elite administrative/political track before military service.
+- Translate the Chinese council terminology descriptively and consistently; do not let MTL nonsense such as `bard` or literal modern parliamentary phrasing distort the setting.
+- Final operational title is canonically **Deputy Magistrate of Underdog City**.
+- Underdog City population is **500,000** in this chapter.
+- Existing magistrate/deputy posts are vacant because Hugo's second son entered long seclusion/training and his affiliated deputies were removed over bribery allegations.
+- Vikir effectively receives the vacant authority while technically Deputy Magistrate.
+- He invokes the reward Hugo promised seven years earlier over the Morgue ruby-mine matter; the object/request remains deliberately unrevealed here, so do not fill it in early.
+- Barrymore interprets the appointment as elite/ruler training and predicts Academy admission if Vikir performs adequately.
 
 ## Exact next actions
 
-1. Open and merge the clean Camus Morgue PR after verifying mergeability.
-2. Create a fresh branch from merged main for **The Graduate Chapters 26–27**.
-3. Read complete Chinese Chapters 26–27; use Chinese 28 opening as boundary witness.
-4. Read complete recovered English 26–27 and independently verify mappings by opening, scene sequence, entities, ranks/monsters, and endpoints.
-5. Reverify new proper nouns/monsters/roles against current Fandom evidence; keep **Sword Graduator** as the canonical rank even though the recovered title is *The Graduate* unless stronger title evidence says otherwise.
-6. Reconstruct both chapters as one family.
-7. Run per-chapter QA + 26–27 family QA, including the seven-year timeskip and 27→28 boundary.
-8. Create hash-bound provenance/acceptance, update all state surfaces and this handoff, merge if clean.
-9. Immediately determine and begin the Chapter 28 **Special Laws of Vikir** title family.
+1. Draft fresh Chinese-first Chapters 26–27 using the decisions above.
+2. QA Ch. 26 for Oxbear window, raw butchering/eating, training duration, knight orders, public-vs-hidden power, five-Fang state, Colosseo motivation.
+3. QA Ch. 27 for Hugo's scar chronology, 21-month expected deployment, administrative-track semantics, Underdog City appointment, population 500,000, unrevealed reward request, Barrymore continuity.
+4. Run family QA including the seven-year 25→26 jump and 27→28 boundary.
+5. Create hash-bound provenance/acceptance.
+6. Advance tracker/status/project/progress/glossary/handoff to 27/500 if clean and merge the family.
+7. Immediately determine the complete **Special Laws of Vikir** family beginning at Chapter 28 and continue.
 
 ## Persistent exceptions
 
-- Chapter 55 Chinese raw missing; verified MTL 55 fallback.
-- Combined raw containers retained intact: `075.txt`→75–76, `267.txt`→267–268, `284.txt`→284–285, `351.txt`→351–352, `353.txt`→353–354, `385.txt`→385–386, `495.txt`→495–496.
+- Chapter 55 Chinese raw genuinely missing; verified MTL 55 is sole text fallback and still requires full editorial QA.
+- Combined raw containers remain intact: `075.txt`→75–76, `267.txt`→267–268, `284.txt`→284–285, `351.txt`→351–352, `353.txt`→353–354, `385.txt`→385–386, `495.txt`→495–496.
 - Verified nontrivial mappings already recorded: target 75→MTL 74, 76→75, 267→265, 268→266.
