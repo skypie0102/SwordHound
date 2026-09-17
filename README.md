@@ -6,7 +6,7 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **17 / 500 accepted; next Chapter 18.** Five complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), and 14–17 (*Solitary*). The next verified family is **Chapters 18–19 — Bared Teeth (1)–(2)**; Chapter 20 changes to *Camus Morgue (1)*.
+Current checkpoint: **19 / 500 accepted; next Chapter 20.** Six complete title families are accepted under the restarted workflow: Chapters 1–3 (*Hellhound*), 4–7 (*The Baskerville Dog*), 8–11 (*Hounds of Hell*), 12–13 (*The Gluttonous Flies*), 14–17 (*Solitary*), and 18–19 (*Bared Teeth*). The next verified family is **Chapters 20–25 — Camus Morgue (1)–(6)**; Chapter 26 changes to *The Graduate (1)* in the recovered English.
 
 ## Current source policy
 
@@ -29,27 +29,33 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 - A finished title family or PR is a checkpoint, **not a stopping point**. Continue into the next family until the user pauses work, the corpus ends, or a genuine blocker prevents safe progress.
 - Preserve source explicitness; do not sanitize or intensify.
 - Protect reveal chronology even when the wiki contains later information.
-- Do not import MTL/wiki narrative exposition absent from Chinese merely because it is smoother or later confirmed elsewhere.
+- Do not import MTL/wiki narrative exposition absent from the Chinese merely because it is smoother or later confirmed elsewhere.
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 - Keep GitHub-hosted runner use sparse.
 
 ## Current canonical terminology notes
 
-Current Fandom evidence establishes numbered Baskerville sword techniques as **Fangs** under the **Baskerville Fang Sword Style**. Chapter 11 accepted evidence was reopened and rebound to replace the earlier `Form` fallback.
+Current Fandom evidence establishes numbered Baskerville sword techniques as **Fangs** under the **Baskerville Fang Sword Style**.
 
-The Solitary family additionally revalidates/promotes **10,000 Book Library**, **Lurking Embedded Teeth**, **Sixth Fang**, and Vikir's Chapter 17 advancement to **Low Sword Graduator**.
+The accepted Bared Teeth family adds/revalidates:
+
+- **Orc** — Danger Rating **C**, **High-Speed Regeneration**
+- **Troll** — Danger Rating **C+**, **Superspeed Regeneration**
+- **1st Fang / Low Sword Expert** as Vikir's first public reveal
+- **2nd Fang / Mid Sword Expert** as his second public reveal
+- Vikir's actual hidden state remains **Low Sword Graduator** from Chapter 17
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–17**:
+Current accepted production evidence covers Chapters **1–19**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0017.md`
-- `qa/chapter-0001.md` through `chapter-0017.md`
-- family QA for Hellhound, The Baskerville Dog, Hounds of Hell, The Gluttonous Flies, and Solitary
-- `editorial/provenance/chapter-0001.json` through `chapter-0017.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0017.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0019.md`
+- `qa/chapter-0001.md` through `chapter-0019.md`
+- accepted family QA through `qa/families/bared-teeth-0018-0019.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0019.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0019.json`
 
-Latest family QA: `qa/families/solitary-0014-0017.md` — **PASS**.
+Latest family QA: `qa/families/bared-teeth-0018-0019.md` — **PASS**.
 
 The earlier pre-restart Chapter 1 acceptance remains in Git history only and is superseded by the current family-reviewed evidence.
 
