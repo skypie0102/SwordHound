@@ -117,7 +117,7 @@ It was a strange weapon capable of stealing and absorbing powers from what it co
 
 The power of the Infernal Buffalo ‘Murcielago’, whose corpse Vikir had found at the auction, had now been sealed into it.
 
-The Troll's C+-rank **Superspeed Regeneration** had disappeared from the third set of absorbed abilities and been replaced by the Infernal Buffalo's **Tough Life**.
+The Troll's C+-rank **Superspeed Regeneration** had disappeared and been replaced by the Infernal Buffalo's **Tough Life**.
 
 Superspeed Regeneration rapidly restored an injured body.
 
