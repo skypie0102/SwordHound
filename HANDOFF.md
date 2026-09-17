@@ -1,26 +1,26 @@
 # SwordHound Session Handoff
 
-> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint and always before ending or handing work to another agent. Hash-bound accepted evidence wins over this file if they ever conflict.
+> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint and always before ending or handing work to another agent. Hash-bound accepted evidence wins over this file if they ever conflict; repair this file immediately if that happens.
 
 ## Handoff metadata
 
 - **Last updated:** 2026-09-17
-- **Updated by:** ChatGPT — Special Laws of Vikir acceptance checkpoint
-- **Working branch:** `editorial/restart-special-laws-family`
-- **Base main checkpoint:** `421514845a8b7975ca659ab5e9bb3ea965e19819` (PR #14, The Graduate 26–27, merged)
-- **Current PR:** #15 — `WIP: Special Laws of Vikir Chapters 28–31` — draft until final state/glossary/readme review, then ready/merge
+- **Updated by:** ChatGPT — The Social Club acceptance checkpoint
+- **Working branch:** `editorial/restart-social-club-family`
+- **Base main checkpoint:** `505fa91f5e48fcd682431630a13c848336ba76c3` (PR #15, Special Laws of Vikir 28–31, merged)
+- **Current PR:** #16 — `Rebuild The Social Club Chapters 32–34`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
 
 - **Target:** 500 chapters
-- **Accepted:** **31**
+- **Accepted:** **34**
 - **Staged:** **0**
-- **Next:** **Chapter 32**
-- **Latest accepted family:** **Chapters 28–31 — Special Laws of Vikir (1)–(4)**
-- **Latest family QA:** `qa/families/special-laws-0028-0031.md` — **PASS** — `873b6ba47c68d7f974ae1a137db37e553adcd480`
-- **Next family:** **Chapters 32–34 — The Social Club (1)–(3)**
-- **Next-family boundary:** **VERIFIED**. Chinese Chapter 35 changes to `拍卖场之花 (1)`; recovered English index calls it *Slave Auction (1)*.
+- **Next:** **Chapter 35**
+- **Latest accepted family:** **Chapters 32–34 — The Social Club (1)–(3)**
+- **Latest family QA:** `qa/families/social-club-0032-0034.md` — **PASS** — `e88bec6495040e957fec7e1393eb15d3f4c87e2c`
+- **Next family:** **Chapters 35–37 — Slave Auction (1)–(3)**
+- **Next-family boundary:** **VERIFIED**. Chapter 38 changes to **Sponsor (1)**.
 
 Accepted families:
 1. 1–3 — *Hellhound (1)–(3)*
@@ -32,6 +32,7 @@ Accepted families:
 7. 20–25 — *Camus Morgue (1)–(6)*
 8. 26–27 — *The Graduate (1)–(2)*
 9. 28–31 — *Special Laws of Vikir (1)–(4)*
+10. 32–34 — *The Social Club (1)–(3)*
 
 ## Rules that must not be lost
 
@@ -47,63 +48,68 @@ Accepted families:
 - Numbered Baskerville techniques are **Fangs**, not Forms.
 - Final browser/CSS/EPUB visual QA remains deferred to complete-EPUB assembly.
 
-## Accepted family — Chapters 28–31: Special Laws of Vikir
+## Accepted family — Chapters 32–34: The Social Club
 
 ### Immutable evidence
 
 | Ch. | Chinese SHA | English ref SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 28 | `96db8ceb0b55b0baabc3514c1675c692d7172f97` | `093c745e87f97c9758ec0afb38b6fda15ac2f5a6` | `ad6f2b85c662f51164c5b7ccc2fcbdfcf7f9baf8` | `4d1a78886b8e93371525656dc8a4ecb0d28d3cf8` | `c688ca5f1c00d86671e2ed75ff1dbeacddcad596` | `b24a16e81b6253bf93e16a5f363c6bf7a4e3d5f8` |
-| 29 | `68aaa0e15d41710dfd127bc38537f809f552d104` | `379b1737e8edc968281caec89bf88ea000fdb8fb` | `d56407b157dc3ec39c860a47904596ba19820b67` | `f36beec116afa4715304cffa7df65a23d83b5556` | `0cd9c7c2e2c20f634e70e4b8a844e63b348a5cb0` | `c22ff669fd2efcfe49ed25134592925af3558f2e` |
-| 30 | `83a76c0ca225a629895c9ecff0c72dd55baa0852` | `a7440c1d0a786f9cc579ee2120616fb4b13c4932` | `1594f4c3717c495bcade949684b44efad77de255` | `109a5b6b884abdb633f04affa249c0d06d9cbc42` | `42218e9510d48fe385f6fc2fb895072fe0462d2a` | `10df9a7c737fb2d58acef83e032e968d6c782fe8` |
-| 31 | `269e4c7e789fe7aef93a0edefd1c0fd3f864d904` | `1f301f5e5e21d11922801ffe0d79b5979dae29e1` | `179cfc142bf20657a235bce6380da8abb03e3cc9` | `475ca28b4419be73dc4c9a232949a45df9c5bbe7` | `fe623f48c6d69d552ac11b19aec83c4ccb7fe54b` | `09a6b90458db6112814d3d389bd811768a32e6d0` |
+| 32 | `bf20c4badf1293273a41ed24d938eff1077b4c57` | `b5bfe56c08798e17e4601864be33686a5f43fbbe` | `f90eef8a1a540636ac903ac22e3bee4ae5cdf5e5` | `940a0926493330e746f275b30b256df4f3bddede` | `ba7ab706fc77eb26dc5b8c37c7ae92611fce7f2a` | `ac66c133ab8cdcf51a23e4766e01e843a5e89e30` |
+| 33 | `a3f2ccd52eb78eb2a4769de9d8ce150b040a641f` | `29544810fe3c2d5fb7b088c4b4ef8c04fb03c6fd` | `1379e7eb224675d031a45369e493a687b203bae7` | `132d4c445759cd3c656878e9f5f58606288e5465` | `169a3cbfc87b16f8bab8fc86e3cfb1a7f51fb4e1` | `846d89f9f9d26b9eb13877de486796428fe9855c` |
+| 34 | `9c7259208f84aee63dd7b99850a8189145129d8c` | `2df34ee0c86cab6cc6599b828390d1e16573d97e` | `3c30ca807bfe0f186d7b07c7a9a91c3f31843150` | `dfb7f4ecc752753aaa26d9353ca43844f0eb6b0f` | `17ffaf551b6ea9ec6f7bfc0ab02439e6277080e6` | `e2b2f9bd82a87c60bcdee8dfba8ef91c77bc3a27` |
 
-Target 28→MTL 28 through 31→MTL 31 were verified by complete content, not numbering alone.
+Target 32→MTL 32 through 34→MTL 34 were verified by complete content, not numbering alone.
 
 ### Accepted decisions
 
-- **Underdog City** and **Deputy Magistrate / Acting Magistrate** remain the operational city/office terminology.
-- **Chihuahua Baskerville** is male, outsider-born, local to Underdog City, and serves as the senior administrative official / General Secretary.
-- Chapter 28 preserves Vikir's `Bring me wine and women` order as deliberate bait and rejects a spurious MTL/Chinese-layer implication that he physically goes to the Academy mid-scene.
-- Chapter 29 legal windows retain the source's severe punishments. MTL errors such as `waterboarding` for drowning and `three legs` for extermination of three clans are rejected.
-- Stake: ~70 cm, ~3 kg, driven ~10 cm into the ground; intentionally easy to pull.
-- Special Law Article 1 reward sequence: 100 million → 1 billion → **10 billion gold total**.
-- Chinese Chapter 30/31 contains isolated unit-conversion slips around the payout; the law's own arithmetic plus aligned English witness establish the intended **10-billion** total. QA records this explicitly.
-- **Judy** is female. Her poverty, limp, malnutrition, sick mother, flower-selling, public fear, and the crowd's near-riot remain source-faithful.
-- Chapter 31 future-law precedent = **Kamu Morgue**, not Camus Morgue. Recovered-English substitution rejected.
-- `侧天武侯` → **Heaven-Tilting Martial Marquis** is provisional/source-descriptive; no strong current Fandom English form was found.
-- Vikir's fiscal plan is to seize criminal black money, return it to the treasury, increase revenue, and fund welfare for the poor.
-- The family ends with influential local heirs objecting to the Special Laws; Chihuahua calls their group a decadent social club, directly setting up Chapter 32.
+- **Burning Suspension** is the elite Underdog City club; current indexed Fandom evidence supports the name.
+- **Messinadnaro Family** is the removed eighth merchant/local family referenced in Ch. 32; do not import later reveal details early.
+- Seven active houses: **Montblanc, Pierre, Louis Vuitton, Chanel, Ferragamo, Hermes, Prada**. These are source/transliteration controlled where dedicated canonical entries are not indexed.
+- The local heirs' organization is rendered descriptively as the **Youth Self-Governance Committee**.
+- Chapter 32 champagne tower = **385 glasses**. The 9×9 tier is **81**; the isolated later Chinese `80` is a source arithmetic slip.
+- Illegal slave trafficking, abduction, black-market income, and the waiter/table class-degradation scene remain explicit.
+- Vikir destroys the tower from the **top downward** through precise mana resonance.
+- Chapter 33 uses **Sword Graduator**, not recovered-English `Gradient`.
+- The stake beating, broken teeth, split lips/tongues, and continued blows remain explicit.
+- Chapter 34 preserves the seven executions, salted severed heads, cumulative mutilation penalties, eye removal, postmortem exile, and broader criminal charges.
+- Chinese Ch. 34 briefly says **Hugo** will not remain Deputy Magistrate; this is referent drift. Immediate continuity and aligned English establish **Vikir**.
+- The line that evidence may be found—or **manufactured** if necessary—is preserved without moral gloss.
+- The 100+ custom torture tools and Age-of-Destruction interrogation memories remain explicit.
 
-## Next family — Chapters 32–34: The Social Club
+## Next family — Chapters 35–37: Slave Auction
 
 ### Verified boundary
 
 Chinese:
-- Ch. 32 — `社交俱乐部 (1)` — `bf20c4badf1293273a41ed24d938eff1077b4c57`
-- Ch. 33 — `社交俱乐部 (2)` — `a3f2ccd52eb78eb2a4769de9d8ce150b040a641f`
-- Ch. 34 — `社交俱乐部 (3)` — `9c7259208f84aee63dd7b99850a8189145129d8c`
-- Ch. 35 changes to `拍卖场之花 (1)` — `6923567bc4710210eaac4dc6b7252d56ea557b7e`
+- Ch. 35 — `拍卖场之花 (1)` — `6923567bc4710210eaac4dc6b7252d56ea557b7e`
+- Ch. 36 — `奴隶拍卖 (2)` — `94b5d8cf2fefdae6975ac56c7ddb6642763ba1cf`
+- Ch. 37 — `奴隶拍卖会 (3)` — `fab7c365f52addab267414058f52bd31ba9515cb`
+- Ch. 38 changes to `赞助商 (1)` — `172b7a69e9cd841c14d311aa0bafe03b998d9738`
 
-Recovered English index:
-- Ch. 32 — *The Social Club (1)*
-- Ch. 33 — *The Social Club (2)*
-- Ch. 34 — *The Social Club (3)*
-- Ch. 35 — *Slave Auction (1)*
+Recovered English:
+- Ch. 35 — *Slave Auction (1)* — `4817a300dea855bc448be223b70c84d69e1ff43f`
+- Ch. 36 — *Slave Auction (2)* — `b4a7de354d870c31685419c8a011cd853ca5381d`
 
-Only the family boundary is verified. Full 32→32 through 34→34 content alignment must still be established before recovered English is used editorially.
+The Chinese Ch. 35 title wording is inconsistent with Ch. 36–37, but the numbering, scene continuity, and recovered-English headings establish a single three-part **Slave Auction** family.
+
+### Known Chapter 35 opening facts
+
+- Nighttime clandestine auction on Underdog City's outskirts.
+- Masked nobles/wealthy buyers; unregistered slaves include displaced tribespeople, nobles, and kidnapped commoners.
+- Auction brand/event uses **Freak Show** wording in the Chinese layer.
+- Chihuahua enters under a Montblanc identity/signature setup.
+- Ch. 35 introduces an A-rank three-eyed black buffalo monster whose English canonical name must be revalidated before drafting.
 
 ## Exact next actions
 
-1. Finish final PR #15 metadata/state review; mark ready and merge if clean.
-2. Create a fresh branch from merged main for **The Social Club Chapters 32–34**.
-3. Read complete Chinese 32–34; use Chinese 35 opening as boundary witness.
-4. Read complete recovered English 32–34 and verify mappings by club location, named heirs/families, scene sequence, Vikir confrontation, and endpoints.
-5. Reverify new proper nouns, club name, local families, luxury goods, and any ranks/organizations against current Fandom evidence while protecting reveal chronology.
-6. Reconstruct all three chapters as one family.
-7. Run per-chapter QA + family QA, including 31→32 invitation continuity and 34→35 auction-family boundary.
-8. Bind provenance/acceptance, update tracker/status/project/progress/glossary/readme/handoff, merge if clean.
-9. Continue immediately into the Chapter 35 auction title family.
+1. Final-check PR #16 and merge if clean.
+2. Create a fresh branch from merged main for **Slave Auction Chapters 35–37**.
+3. Read complete Chinese 35–37 and Chapter 38 boundary.
+4. Read complete recovered English 35–37 and independently verify mappings by opening/auction sequence/entities/endpoints.
+5. Revalidate **Freak Show**, Chihuahua's assumed identity, the A-rank buffalo monster, auction terminology, and any newly named characters against current Fandom evidence while protecting reveal chronology.
+6. Reconstruct all three chapters as one family; keep slave-trafficking and other explicit material source-faithful.
+7. Run per-chapter QA + family QA, bind provenance/acceptance, update all state surfaces, merge if clean.
+8. Continue immediately into **Sponsor (1)** at Chapter 38.
 
 ## Persistent exceptions
 
