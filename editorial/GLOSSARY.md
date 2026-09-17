@@ -9,6 +9,24 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Fiancée additions — Chapters 43–45
+
+- **The Fiancée** — accepted production family title for Chapters 43–45. Chinese/recovered English Ch. 46 switch to **The Husband Hunt (1)**.
+- **Camus Morgue** — current age fifteen. Chinese Ch. 43 first-life recollection says Vikir remembers seeing her at **around thirteen**; recovered-English `thirty` is corruption and is rejected.
+- **Ballak Tribe** — accepted canonical English tribe name. Ch. 44 says roughly three hundred members and preserves extreme archery capable of punching through two-to-three-meter walls.
+- **Rokoko Clan** — accepted canonical English shamanic-clan name. Ch. 44 says roughly ten times the Ballak population and explicitly reveals a custom of eating captives.
+- **Rosie Morgue** — accepted canonical English name. In Ch. 44, Chinese relationship wording controls: Camus calls Rosie a **foster/adopted younger sister**. Later Fandom cousin/resurrection material is chronology-spoilered and must not be imported here.
+- The Ch. 44 female Ballak sniper remains **unnamed**. Later canonical evidence identifying her as Akwilla does not authorize naming her before the Chinese source reveals it.
+- Ch. 44 captive answer = **“Eaten.”** Vikir initially tells Camus “She died” as a protective cover, but Camus understands the true Rokoko answer.
+- Ch. 44 Vikir comfort line = **“She should have gone peacefully.”** Earlier `probably died quickly` wording was an interpretive drift and is rejected.
+- Ch. 44 Camus execution remains explicit/source-controlled: iron spike from groin to crown followed by burning, with scorched-flesh smell and ash. Do not sanitize.
+- **Black Baskerville cloak** — the seven-year keepsake connecting Ch. 43 and Ch. 45. Recovered-English color corruption is rejected.
+- Ch. 45 establishes that **Camus herself originated the marriage-alliance strategy** and initially suggested Highsis/Middlesis/Lowsis as the Morgue candidates rather than herself.
+- Ch. 45 childhood clothing accident is retained as nonsexual embarrassment / first-crush context. Preserve the source event and emotional reaction without erotic embellishment.
+- Ch. 45 Adolf-test mechanism: **Vikir breaks Adolf's sword, and a flying fragment shatters the water jar**.
+- The black cloak becomes Camus's **first treasured possession**. Recovered-English wording that turns the object itself into her `first love` is rejected.
+- Camus refuses to have the cloak washed for seven years; scent/sweat details remain only at the source's non-explicit level.
+
 ## Morgue's United Front additions — Chapters 40–42
 
 - **Morgue's United Front** — accepted production family title for Chapters 40–42. Chinese/recovered English Ch. 43 switch to **The Fiancée (1)**.
@@ -114,7 +132,8 @@ This register follows the restarted 2026-09-16 workflow:
 | **Boston Terrier Le Baskerville** | Accepted from Ch. 37; Count and commander of the Pit Bull Knights. |
 | **Cindywendy / Messinadnaro Sen Cindywendy** | Accepted from Ch. 39 only; preserve pre-reveal anonymity in Ch. 36–38 and exclude later spoilers. |
 | **Highsis / Middlesis / Lowsis Morgue** | Accepted from Ch. 41; triplet mages, age sixteen in current scope. |
-| **Camus Morgue** | Reaffirmed Ch. 42 at age fifteen after seven-year time skip. |
+| **Camus Morgue** | Reaffirmed Ch. 42–45 at age fifteen after seven-year time skip. |
+| **Rosie Morgue** | Accepted Ch. 44 name; source-scoped relationship is Camus's foster/adopted younger sister. |
 
 ## Sword / magic ranks and Fangs
 
@@ -174,6 +193,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Demon Realm / demons** — contextual translation of `魔界` / `魔族`.
 - **Danger Rating** — accepted working label for monster info-window risk field.
 - **Le / La / Van particles** — accepted canonical naming distinctions; do not treat `Van` status as evidence of lesser actual talent.
+- **Ballak Tribe / Rokoko Clan** — accepted canonical English forms from Ch. 43–45; Chinese controls semantic characterization.
 
 ## Important source / continuity decisions
 
@@ -197,6 +217,9 @@ This register follows the restarted 2026-09-16 workflow:
 - Ch. 40 Tough Life replaces Superspeed Regeneration; no unsupported old slot number is invented.
 - Ch. 41 recovered-English Wolfhound rivalry line is excluded because it is absent from Chinese.
 - Ch. 42 Chinese controls Morgue-triplet elemental assignments; **1st Fang** replaces `first form`; Camus returns after seven years.
+- Ch. 43 Chinese **around thirteen** overrides recovered-English `thirty`; black Baskerville cloak controls.
+- Ch. 44 Rosie relationship wording follows Chinese; Akwilla identity is spoiler-guarded; true captive answer is **Eaten**; execution remains explicit.
+- Ch. 45 Camus originated the marriage-alliance strategy; cloak = **first treasured possession**; childhood accident remains nonsexual/non-eroticized.
 
 ## Accepted title-family evidence
 
@@ -213,6 +236,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Slave Auction, Ch. 35–37:** `qa/families/slave-auction-0035-0037.md`
 - **Sponsored, Ch. 38–39:** `qa/families/sponsored-0038-0039.md`
 - **Morgue's United Front, Ch. 40–42:** `qa/families/morgue-united-front-0040-0042.md`
+- **The Fiancée, Ch. 43–45:** `qa/families/fiancee-0043-0045.md`
 
 ## Canonical-reference access note
 
