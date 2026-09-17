@@ -304,7 +304,7 @@ Akwilla did, however, immediately understand Vikir's physical condition.
 
 Then Akwilla added casually,
 
-“Still, a broken body isn't necessarily a problem. As long as his bloodline is sound—”
+“Still, a broken body isn't necessarily a problem. As long as his reproductive health is intact—”
 
 “Mother! That's not what this is!” Aiyen burst out. “I'm using him as a slave!”
 
