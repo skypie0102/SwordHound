@@ -1,0 +1,26 @@
+{
+  "chapter": 27,
+  "title": "The Graduate (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"The Graduate","range":[26,27],"family_qa_path":"qa/families/graduate-0026-0027.md","family_qa_sha":"13584c51f736e5768447eec82bf9929c23b59821","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/027.txt","blob_sha":"ce75a1a41c973c028aebeedf20aa1e366c7f2871","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-027.xhtml","blob_sha":"d38e9375af1faf9786857a8b1e925e1a8bbe8b18","target_alignment":27,"alignment_status":"verified_by_hugo_scar_graduation_frontier_expectation_administrative_assignment_underdog_appointment_reward_request_and_barrymore_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/028.txt","blob_sha":"96db8ceb0b55b0baabc3514c1675c692d7172f97","purpose":"new Special Laws of Vikir title family; opens at Underdog City Hall with Vikir as new Deputy Magistrate"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Underdog City","retrieval_mode":"indexed_web_result","applies_to":["Underdog City","Vikir Van Baskerville — Deputy Magistrate"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Colosseo Academy","retrieval_mode":"indexed_web_result","applies_to":["Colosseo Academy"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Baskerville Clan","retrieval_mode":"indexed_web_result","applies_to":["Pit Bull Knights","Hugo Le Baskerville","John Barrymore"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0027.md","blob_sha":"11803c08298fb1ddbeebe864dbdf1c6c9e192ecc"},
+  "qa": {"path":"qa/chapter-0027.md","blob_sha":"a55b36b0ca8056822b71d1e65403d30d809096ed","status":"pass"},
+  "documented_decisions": [
+    {"topic":"hugo_archer","final":"retain as an unnamed skilled female archer who scarred Hugo and escaped; Hugo says he scarred her face in return","basis":"Chinese Chapter 27; protect reveal chronology"},
+    {"topic":"administrative_track","final":"render lower councilor / upper council descriptively while using canonical operational office Deputy Magistrate of Underdog City","basis":"Chinese administrative semantics plus Fandom canonical city/office naming"},
+    {"topic":"underdog_population","final":"500,000","basis":"Chinese Chapter 27"},
+    {"topic":"vacancy_logic","final":"Hugo's second son entered prolonged secluded training; affiliated deputies removed over bribery allegations","basis":"Chinese Chapter 27"},
+    {"topic":"reward_request","final":"keep the object Vikir asks to borrow unrevealed","basis":"Chinese Chapter 27 wording and reveal chronology"},
+    {"topic":"expected_old_life_path","final":"Pit Bull Knights apprentice followed by roughly 21 months on the frontier","basis":"Chinese Chapter 27"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
