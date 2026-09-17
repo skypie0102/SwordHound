@@ -9,6 +9,20 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## Slave Auction additions — Chapters 35–37
+
+- **Slave Auction** — accepted production family title for Chapters 35–37. Chinese Ch. 35 has anomalous `拍卖场之花 (1)`, but Ch. 36–37 numbering plus complete recovered-English alignment establish one three-part family.
+- **Freak Show** — accepted source/event wording for the clandestine Underdog City auction.
+- **Chihuahua Montblanc** — Chihuahua Baskerville’s cover identity for entering the auction as a seller. Treat as an operation alias, not a permanent name.
+- **Infernal Buffalo ‘Murcielago’** — retained source/aligned-English monster form. Ch. 35/37 window: Danger Rating **A**, **3 m**, **Le Rouge et Le Noir Mountain, 2nd Ridge**, nineteen hearts; said to inhabit the Oil Realm deep in Hell. No dedicated current Fandom monster-name entry is claimed.
+- **Baron Gambino** — source-controlled underworld noble in Ch. 36; buys the disguised Vikir for **6 billion gold**. His secretary remains unnamed at this point even if later canonical material identifies her.
+- **Boston Terrier Le Baskerville** — accepted Fandom-backed commander/count of the **Pit Bull Knights**, introduced by name in Ch. 37.
+- **Pit Bull Knights** — reaffirmed. In Ch. 36–37, Hugo lends Vikir the order for six hours; the deployed force consists of **100 Sword Graduators**.
+- **5th Fang** — established Baskerville terminology for Vikir’s Ch. 36 sword technique. Recovered-English `Fifth Form` rejected.
+- The feral tribal girl in Ch. 35–37 remains **unnamed** until the Chinese source reveals her name. Do not import later Fandom identity early.
+- The green-blond monocled secretary beside Baron Gambino in Ch. 36 likewise remains **unnamed** until source reveal.
+- Chapter 37’s captured-auction-patron mutilations, executions, confiscated cash, and criminal ledgers remain explicit/source-controlled; do not soften or moralize them in translation.
+
 ## The Social Club additions — Chapters 32–34
 
 - **Burning Suspension** — accepted club name for the elite 69th–70th-floor Underdog City social club; supported by current indexed Fandom evidence.
@@ -68,6 +82,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Cain Baskerville / Abel Baskerville** | Accepted in Ch. 12. Cain survives/leaves note; Abel is the dead younger twin. |
 | **Chihuahua Baskerville** | Accepted from Ch. 28; male outsider-born administrator / General Secretary. |
 | **Messinadnaro Family** | Accepted from Ch. 32; removed eighth local/merchant house, chronology-scoped. |
+| **Boston Terrier Le Baskerville** | Accepted from Ch. 37; Count and commander of the Pit Bull Knights. |
 
 ## Sword / magic ranks and Fangs
 
@@ -96,6 +111,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Underdog City** | Accepted from Ch. 27. |
 | **Dortmeyer Street** | Retained Ch. 29. |
 | **Burning Suspension** | Accepted club/location from Ch. 32. |
+| **Freak Show** | Source/event name for clandestine slave auction from Ch. 35. |
 
 ## Monsters / Beelzebub abilities
 
@@ -107,6 +123,7 @@ This register follows the restarted 2026-09-16 workflow:
 | **Orc** | Ch. 18: C, 2 m; **High-Speed Regeneration**. |
 | **Troll** | Ch. 19: C+, 4 m, 2nd Ridge; **Superspeed Regeneration**. |
 | **Oxbear** | Ch. 26: A; info-window 5 m / narrative captive specimen ~3 m. |
+| **Infernal Buffalo ‘Murcielago’** | Ch. 35/37: A, 3 m, 2nd Ridge, nineteen hearts; source/aligned-English form, dedicated Fandom name not established. |
 | **Beelzebub** | Accepted Ch. 12 onward; canonical alias **The Fly of Gluttony**. |
 | **Hemorrhage / Incinerate / Rapid Regeneration / Superspeed Regeneration** | Accepted ability names in current scope. |
 | **Bloody Mamba** | Scoped recovered-English fallback for Ch. 3/11 snake/venom continuity; dedicated Fandom formal species entry not established. |
@@ -139,6 +156,8 @@ This register follows the restarted 2026-09-16 workflow:
 - Ch. 31 **Kamu Morgue ≠ Camus Morgue**.
 - Ch. 32 385-glass tower uses 81 for the 9×9 tier; isolated Chinese 80 slip rejected.
 - Ch. 34 Deputy Magistrate referent = **Vikir**, not the isolated Chinese-layer `Hugo` drift.
+- Ch. 35–37 do **not** reveal the tribal girl’s or Gambino secretary’s later canonical names early.
+- Ch. 36 uses **5th Fang / Sword Graduator**, not recovered-English `Fifth Form / Gradient`.
 
 ## Accepted title-family evidence
 
@@ -152,6 +171,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **The Graduate, Ch. 26–27:** `qa/families/graduate-0026-0027.md`
 - **Special Laws of Vikir, Ch. 28–31:** `qa/families/special-laws-0028-0031.md`
 - **The Social Club, Ch. 32–34:** `qa/families/social-club-0032-0034.md`
+- **Slave Auction, Ch. 35–37:** `qa/families/slave-auction-0035-0037.md`
 
 ## Canonical-reference access note
 
