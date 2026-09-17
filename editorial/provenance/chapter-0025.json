@@ -1,0 +1,22 @@
+{
+  "chapter": 25,
+  "title": "Camus Morgue (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
+  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
+  "primary_source": {"path":"source/chinese/chapters/025.txt","blob_sha":"572b82701f79f0783d4f6b9b8d24a9260fd3ba02","authority":"semantic_narrative_primary"},
+  "english_reference": {"path":"source/chapters/chapter-025.xhtml","blob_sha":"6786ee3abb472c7967c026cf82732e4c0d9d325e","target_alignment":25,"alignment_status":"verified_by_adolf_test_water_pot_shield_magic_fire_spears_repeated_strikes_sword_break_and_leak_endpoint","authority":"secondary_reference_only"},
+  "boundary_witness": {"path":"source/chinese/chapters/026.txt","blob_sha":"6920eefdb1a96d09fb192e54c63f9accef9e5312","purpose":"new Graduator title family and seven-year timeskip"},
+  "canonical_references": [
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Adolf Morgue","retrieval_mode":"indexed_web_result","applies_to":["Adolf Morgue","Sixth Circle"]},
+    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Camus Morgue","retrieval_mode":"indexed_web_result","applies_to":["Camus Morgue"]}
+  ],
+  "draft": {"path":"manuscript/drafts/chapter-0025.md","blob_sha":"a5991670d7ff9ff7d7aa9c0b5bd3886b607302b8"},
+  "qa": {"path":"qa/chapter-0025.md","blob_sha":"60abb20e9f224b369c27e3ca0e788ef42be1e662","status":"pass"},
+  "documented_decisions": [
+    {"topic":"pre_regression_odds","final":"about 50% ambush/assassination and 10% direct confrontation against Adolf at Vikir's old peak","basis":"Chinese Chapter 25"},
+    {"topic":"handicap","final":"one spilled drop from Adolf's magically made water pot means Vikir wins","basis":"Chinese Chapter 25"},
+    {"topic":"sword_break_trick","final":"Vikir repeatedly strikes one shield point and deliberately allows his sword to break so a fragment pierces the pot","basis":"Chinese endpoint; clarifies MTL ambiguity"}
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-17"
+}
