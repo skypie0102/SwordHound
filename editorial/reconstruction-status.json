@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 143,
+  "accepted_chapters": 149,
   "staged_chapters": 0,
-  "next_chapter": 144,
+  "next_chapter": 150,
   "latest_accepted_family": {
-    "name": "Identity of the Villain",
-    "range": [
-      141,
-      143
-    ],
-    "family_qa": "qa/families/identity-villain-0141-0143.md"
-  },
-  "next_title_family": {
     "name": "Volunteering for the Golden Week",
     "range": [
       144,
       149
     ],
-    "boundary_status": "verified six-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 150,
-    "following_title": "Not Brother, But Uncle (1)",
-    "alignment_note": "144→E143,145→E144,146→E145,147→E146,148→E147,149→E148;150→E149"
+    "family_qa": "qa/families/golden-week-0144-0149.md"
+  },
+  "next_title_family": {
+    "name": "Not Brother, But Uncle",
+    "range": [
+      150,
+      151
+    ],
+    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 152,
+    "following_title": "The Drinking Game (1)",
+    "alignment_note": "150→E149,151→E150;152→E151"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -205,15 +205,23 @@
     140,
     141,
     142,
-    143
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
   ],
   "notes": [
-    "Chapters 141-143 are accepted as Identity of the Villain (1)-(3).",
-    "The newspaper club publicly coins Night Hound after Dolores unconsciously suggests the name; the label does not prove responsibility for the demon-killed orphanage children.",
-    "Dolores hides the half-burned mask but insists the newspaper remove unsupported speculation and wait for hard evidence.",
-    "Vikir remains Peak Sword Graduator, has just turned eighteen, and continues working toward completion of the Seventh Fang.",
-    "Target143 converts Vikir's covert Academy route-mapping violations into mandatory off-campus service at Indulgentia Orphanage and source-introduces Quilt Rune Indulgentia only as the family head/director and Vikir's next target.",
-    "Next family targets144-149 — Volunteering for the Golden Week (1)-(6), mapped 144→E143 through 149→E148. Target150 begins Not Brother, But Uncle (1) and maps to E149.",
+    "Chapters 144-149 are accepted as Volunteering for the Golden Week (1)-(6).",
+    "Golden Week is a ten-day off-campus-service block; Vikir uses volunteer work to map Indulgentia and prepare access to Quilt's hidden central quarters.",
+    "Quovadis production terminology uses Old Testament Faction / New Testament Faction; Dolores is a prominent New Testament figure while Quilt/Indulgentia support the Old Testament side.",
+    "Target146 keeps 十次中有九次 as the ordinary idiom 'nine times out of ten'; Quilt's later demon identity remains spoiler-guarded.",
+    "Ephebo, Pedo, Hebe, and Geronto are source-revealed as Quilt's four masked escorts; Geronto carries an ominous black sword hilt/relic.",
+    "Peri is the project/Fandom production name; Sinclaire is explicitly seventeen and remains female despite recovered-English pronoun drift.",
+    "Madam Eight-Legs's egg joins the children's game, falls into the drain, and is retrieved by Vikir; Dolores's improving opinion remains her perspective.",
+    "Next family targets150-151 — Not Brother, But Uncle (1)-(2), mapped 150→E149 and 151→E150. Target152 begins The Drinking Game (1) and maps to E151.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
