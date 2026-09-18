@@ -1,0 +1,108 @@
+{
+  "chapter": 79,
+  "title": "The Saintess (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/079.txt",
+    "blob_sha": "97b3cae4efb581b22237affbbb71876d4178b3b3",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-078.xhtml",
+    "blob_sha": "ec5ea6dada4c16d0f1b89b4d9c4ade8a701767b5",
+    "target_alignment": 79,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/083.txt",
+    "chinese_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "english_path": "source/chapters/chapter-082.xhtml",
+    "english_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "purpose": "both begin Lovesickness (1) target83"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Humbert L. Quovadis",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Humbert L. Quovadis"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Nabokov I Quovadis",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Nabokov I Quovadis",
+        "Pope"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Hound of the Night",
+        "Dolores L. Quovadis",
+        "Mozgus Quovadis",
+        "Quovadis",
+        "Rune Religion",
+        "Baskerville",
+        "Morgue",
+        "Leviathan Clan",
+        "Bourgeois Clan",
+        "Ballak Tribe",
+        "Red Death"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0079.md",
+    "blob_sha": "39084d413ac4f670cb1887da6e81608dd5857980"
+  },
+  "qa": {
+    "path": "qa/chapter-0079.md",
+    "blob_sha": "f6891e843279bd7c27626c59e5841e2f24834709",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "identity",
+      "final": "Vikir answers only Hound of the Night",
+      "basis": "Chinese target79"
+    },
+    {
+      "topic": "report_chain",
+      "final": "Dolores orders relief action; report flows through Humbert toward Pope Nabokov I",
+      "basis": "Chinese target79"
+    },
+    {
+      "topic": "dolores_interpretation",
+      "final": "her prophet/pilgrim/Rune-devout reading of Vikir is explicitly her mistaken interpretation",
+      "basis": "Chinese target79"
+    },
+    {
+      "topic": "case_correction",
+      "final": "first slum cluster contains primary waterborne cases only; no secondary saliva/waste cases yet",
+      "basis": "Chinese target79 overrides E78 ambiguity"
+    },
+    {
+      "topic": "healing",
+      "final": "Dolores heals six early patients with one tear/prayer event",
+      "basis": "Chinese target79"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
