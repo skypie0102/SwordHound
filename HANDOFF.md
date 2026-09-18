@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Test Your Skills acceptance checkpoint
 - **Working branch:** `editorial/restart-test-your-skills-0133-0138`
 - **Base main checkpoint:** `ffc22ffc1cd1388bff4fb7ad4eaf70535e9bade6` (Freshman Talent Show checkpoint merged)
-- **Current PR:** pending creation
+- **Current PR:** #41 — `Rebuild Test Your Skills Chapters 133–138`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
