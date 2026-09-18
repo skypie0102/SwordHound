@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Illiad acceptance checkpoint
 - **Working branch:** `editorial/restart-illiad-family`
 - **Base main checkpoint:** `7162feaeb7900b74281d4dfe6971a04868f5d253` (PR #30, Lovesickness 83–84, merged)
-- **Current PR:** pending
+- **Current PR:** #31 — `Rebuild The Illiad Chapters 85–89`
+- **Pre-PR-stamp branch head:** `cea3ec7bbdb4352e20ccc1629eeb8769c5684bff`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
