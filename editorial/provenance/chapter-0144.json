@@ -1,0 +1,66 @@
+{
+  "chapter": 144,
+  "title": "Volunteering for the Golden Week (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/144.txt",
+    "blob_sha": "43d63f5de1a8c5ca09a312cf3423fc6b8f84d527",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-143.xhtml",
+    "blob_sha": "78c627bafc6d401f82b38e86daf91460ab6e7add",
+    "target_alignment": 144,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0144.md",
+    "blob_sha": "6e1515677672f9cca72558a3e136356235dd18a6"
+  },
+  "qa": {
+    "path": "qa/chapter-0144.md",
+    "blob_sha": "b17f08091e17f7f225d6cf4fed52aa0fd96c8cc0",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "golden_week",
+      "final": "Ten-day break from weekend + Academy founding anniversary + Rune Religion Resurrection Festival + scheduling",
+      "basis": "Chinese C144"
+    },
+    {
+      "topic": "quovadis_factions",
+      "final": "Use Old Testament Faction / New Testament Faction for production terminology",
+      "basis": "Chinese C144 + project/Fandom canonical register"
+    },
+    {
+      "topic": "quilt_scope",
+      "final": "Quilt is only source-introduced as Indulgentia head/director and Vikir's target here; later demon identity withheld",
+      "basis": "Chinese C144 + reveal chronology"
+    },
+    {
+      "topic": "orphanage_irregularities",
+      "final": "Military-grade construction and under-reporting of difficult-to-trace children are Vikir's source-timed suspicions",
+      "basis": "Chinese C144"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/150.txt",
+    "chinese_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "english_path": "source/chapters/chapter-149.xhtml",
+    "english_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "purpose": "both begin Not Brother, But Uncle (1), target150"
+  }
+}

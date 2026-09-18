@@ -1,0 +1,66 @@
+{
+  "chapter": 147,
+  "title": "Volunteering for the Golden Week (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/147.txt",
+    "blob_sha": "32b87f5a39e6eab10f5d927c8c038864e3e7c0eb",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-146.xhtml",
+    "blob_sha": "583305128e6b0d0fe7d8c4f2044c48671f680261",
+    "target_alignment": 147,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0147.md",
+    "blob_sha": "1c89a57b6480d8db275e246f3dd031e88ffe7571"
+  },
+  "qa": {
+    "path": "qa/chapter-0147.md",
+    "blob_sha": "3c64665f43b15498b3d7d5591a3bc90ceacd4392",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "route_recon",
+      "final": "Vikir's daytime volunteer intensity is tactical mapping of the children's buildings around Quilt's central quarters",
+      "basis": "Chinese C147"
+    },
+    {
+      "topic": "sinclaire_address",
+      "final": "Retain Big Brother / uncle address joke because it seeds the next family title",
+      "basis": "Chinese C147"
+    },
+    {
+      "topic": "sinclaire_gender",
+      "final": "Keep Sinclaire female despite recovered-English pronoun drift",
+      "basis": "Chinese C147 + accepted continuity"
+    },
+    {
+      "topic": "conspiracy_gag",
+      "final": "Pigi reads Sinclaire's deliberate assignment request as interest; Vikir misreads it as possible conspiracy",
+      "basis": "Chinese C147"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/150.txt",
+    "chinese_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "english_path": "source/chapters/chapter-149.xhtml",
+    "english_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "purpose": "both begin Not Brother, But Uncle (1), target150"
+  }
+}

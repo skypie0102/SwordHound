@@ -1,0 +1,66 @@
+{
+  "chapter": 148,
+  "title": "Volunteering for the Golden Week (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/148.txt",
+    "blob_sha": "0f28089dcd2bd2e4dd3fe18c175b186f0c6689b6",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-147.xhtml",
+    "blob_sha": "baf9a2e37c835471c58cb8d51df28ae32dfefb73",
+    "target_alignment": 148,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0148.md",
+    "blob_sha": "11c2ad0caad17e2d69bbf1e42bebd411a733b9b9"
+  },
+  "qa": {
+    "path": "qa/chapter-0148.md",
+    "blob_sha": "f870c5b89998ca340b4a4e22998df6b1339eb41f",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "geronto_object",
+      "final": "Chinese primary controls Geronto's ominous reverse-gripped black sword hilt/relic, rejecting recovered-English black-sack corruption",
+      "basis": "Chinese C148"
+    },
+    {
+      "topic": "indulgence_records",
+      "final": "Preserve crime/payment ledger and Vikir's distinction between human criminals and demon collaborators",
+      "basis": "Chinese C148"
+    },
+    {
+      "topic": "madam_egg",
+      "final": "Madam Eight-Legs egg retains Ballak/Le Rouge et Le Noir continuity; unusual play behavior is observed without asserting sentience",
+      "basis": "Chinese C148 + accepted continuity"
+    },
+    {
+      "topic": "peri_ball",
+      "final": "Peri's distress and egg-as-ball sequence retained with production name Peri",
+      "basis": "Chinese C148 + canonical register"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/150.txt",
+    "chinese_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "english_path": "source/chapters/chapter-149.xhtml",
+    "english_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "purpose": "both begin Not Brother, But Uncle (1), target150"
+  }
+}

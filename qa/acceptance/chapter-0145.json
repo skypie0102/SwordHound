@@ -1,0 +1,40 @@
+{
+  "chapter": 145,
+  "title": "Volunteering for the Golden Week (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/145.txt",
+    "primary_source_sha": "b92d29d9812d3d8dc3cb5ab7f40d63892ce7f11d",
+    "english_reference_path": "source/chapters/chapter-144.xhtml",
+    "english_reference_sha": "e508ddf67f713c3b3a714d4607d50a4c7e0c2949",
+    "draft_path": "manuscript/drafts/chapter-0145.md",
+    "draft_sha": "cda931752e1c078ba8c8bcf6a207b1308fd3f514",
+    "qa_path": "qa/chapter-0145.md",
+    "qa_sha": "b051ab7008b2688ed319faf096003f660ff6eee5",
+    "provenance_path": "editorial/provenance/chapter-0145.json",
+    "provenance_sha": "b0bd66ebc1669d3ff04a5e0faab600b63c1e77a4"
+  },
+  "canonical_checks": [
+    "Sinclaire",
+    "Peri",
+    "Dolores L. Quovadis",
+    "Quilt Rune Indulgentia"
+  ],
+  "documented_limits": [
+    "Sinclaire is explicitly seventeen.",
+    "Peri uses the project/Fandom canonical name; recovered Nymphet is rejected.",
+    "Do not force a hard Peri age reconciliation beyond the source."
+  ]
+}

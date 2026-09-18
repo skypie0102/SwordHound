@@ -1,0 +1,66 @@
+{
+  "chapter": 146,
+  "title": "Volunteering for the Golden Week (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/146.txt",
+    "blob_sha": "a9a66d0662958927f6daca53ca2d3ead674128b8",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-145.xhtml",
+    "blob_sha": "1880b98aac7e990b04d1d9a4d5fd6148eb22acad",
+    "target_alignment": 146,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0146.md",
+    "blob_sha": "a8082725f02db5a0a3eac6bac7e27a1c6c1a964c"
+  },
+  "qa": {
+    "path": "qa/chapter-0146.md",
+    "blob_sha": "12b737527c88f3915b8adfff3f11cad8d595120c",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "idiom_guard",
+      "final": "Chinese 十次中有九次 means nine times out of ten; do not misread as a Ninth Corpse reveal",
+      "basis": "Chinese C146"
+    },
+    {
+      "topic": "four_escorts",
+      "final": "Ephebo, Pedo, Hebe, Geronto are source-revealed by name",
+      "basis": "Chinese C146"
+    },
+    {
+      "topic": "tetzel",
+      "final": "Attribute indulgence doctrine to former Old Testament cardinal John Tetzel; omit unstable extracted surname",
+      "basis": "Chinese C146"
+    },
+    {
+      "topic": "quilt_identity_guard",
+      "final": "Quilt's later demon name/title remains spoiler-guarded",
+      "basis": "Reveal chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/150.txt",
+    "chinese_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "english_path": "source/chapters/chapter-149.xhtml",
+    "english_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "purpose": "both begin Not Brother, But Uncle (1), target150"
+  }
+}

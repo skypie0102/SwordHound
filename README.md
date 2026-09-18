@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **143 / 500 accepted; next Chapter 144.** Latest accepted family: **targets 141–143 — Identity of the Villain (1)–(3)**.
+Current checkpoint: **149 / 500 accepted; next Chapter 150.** Latest accepted family: **targets 144–149 — Volunteering for the Golden Week (1)–(6)**.
 
-The next verified family is **Volunteering for the Golden Week, targets 144–149**, mapped **144→E143 through 149→E148**. Target 150 begins **Not Brother, But Uncle (1)** and maps to E149.
+The next verified family is **Not Brother, But Uncle, targets 150–151**, mapped **150→E149, 151→E150**. Target 152 begins **The Drinking Game (1)** and maps to E151.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Volunteering for the Golden Week family adds/revalidates:
+
+- **Volunteering for the Golden Week** — accepted production family title for targets 144–149; witnesses E143–E148.
+- **Old Testament Faction / New Testament Faction** — production Quovadis faction terminology.
+- **Quilt Rune Indulgentia** — remains spoiler-guarded beyond his public Indulgentia identity in this family.
+- **Ephebo / Pedo / Hebe / Geronto** — source-revealed masked escorts.
+- **Peri** — production name replacing recovered-English “Nymphet.”
+- **Sinclaire** — explicitly seventeen; assignment-change gag preserved.
+- **Madam Eight-Legs egg** — Ballak continuity preserved through the children's ball / sewer sequence.
+- **Not Brother, But Uncle** — next family targets 150–151; witnesses E149–E150.
+- **The Drinking Game** begins target 152 / E151.
 
 The accepted Identity of the Villain family adds/revalidates:
 
@@ -104,15 +116,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–143**:
+Current accepted production evidence covers targets **1–149**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0143.md`
-- `qa/chapter-0001.md` through `chapter-0138.md`
-- accepted family QA through `qa/families/identity-villain-0141-0143.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0143.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0143.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0149.md`
+- `qa/chapter-0001.md` through `chapter-0149.md`
+- accepted family QA through `qa/families/golden-week-0144-0149.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0149.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0149.json`
 
-Latest family QA: `qa/families/identity-villain-0141-0143.md` — **PASS**.
+Latest family QA: `qa/families/golden-week-0144-0149.md` — **PASS**.
 
 ## Editorial quality bar
 
