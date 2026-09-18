@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **84 / 500 accepted; next Chapter 85.** Latest accepted family: **targets 83–84 — Lovesickness (1)–(2)**.
+Current checkpoint: **89 / 500 accepted; next Chapter 90.** Latest accepted family: **targets 85–89 — The Illiad (1)–(5)**.
 
-The next verified family is **The Illiad, targets 85–89**, mapped **85→E84 through 89→E88**. Target 90 begins **The Ghosts of the Ancestors (1)** and aligns to E89.
+The next verified family is **The Ghosts of the Ancestors, targets 90–94**, mapped **90→E89 through 94→E93**. Target 95 begins **Madam Eight-Legs (1)**.
 
 ## Current source policy
 
@@ -38,29 +38,29 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Lovesickness family adds/revalidates:
+The accepted Illiad family adds/revalidates:
 
-- **Lovesickness** — production family title for targets 83–84.
-- **Aiyen** — target-83 dream recounts established history; no age is inferred.
-- **Akwilla** — mother/chieftain continuity retained; her target-83 conception story is factual/non-erotic.
-- **Saintess's Tears** — cures Aheul and purifies the shared jungle river source in target 84.
-- **Renaissance** — working aligned name for the berserker tribe in target 84 pending stronger canonical evidence.
-- Target-84 patient scale = **about thirty** in Ballak and **thousands** across the other tribes.
-- Aiyen's persistent blush after holy water is the **Lovesickness** payoff, not Red Death.
-- **The Illiad** — next family spans targets 85–89; witnesses E84–E88.
-- **The Ghosts of the Ancestors** begins target 90 / E89.
+- **The Illiad** — production family title for targets 85–89; Ballak's final life-and-death honor duel.
+- **Silent Heel — Mushuhushu (A+)** — new target-85 Beelzebub ability; replaces Tough Life.
+- Current Beelzebub slots after target 85: **Incinerate — Cerberus (A+) / Silent Heel — Mushuhushu (A+) / Kilogram Hammer — Oxbear (A)**.
+- **Ka'ah** — exceptional old Mushuhushu at roughly 40 m / >5 tons in target 85.
+- **Ah'Heman** — target 86 confirms deliberate Leviathan collaboration and infection of Aheul; target 89 source-reveals Rokoko origin.
+- **Forged Ah'Heman letters** — target 87 evidence is fabricated by Vikir; never cite it as authentic correspondence.
+- **Rokoko** — Ah'Heman's birth tribe, identified from corpse-reanimation witchcraft in target 89.
+- **The Ghosts of the Ancestors** — next family targets 90–94; witnesses E89–E93.
+- **Madam Eight-Legs** begins target 95 / E94.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–84**:
+Current accepted production evidence covers targets **1–89**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0084.md`
-- `qa/chapter-0001.md` through `chapter-0084.md`
-- accepted family QA through `qa/families/lovesickness-0083-0084.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0084.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0084.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0089.md`
+- `qa/chapter-0001.md` through `chapter-0089.md`
+- accepted family QA through `qa/families/illiad-0085-0089.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0089.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0089.json`
 
-Latest family QA: `qa/families/lovesickness-0083-0084.md` — **PASS**.
+Latest family QA: `qa/families/illiad-0085-0089.md` — **PASS**.
 
 ## Editorial quality bar
 
