@@ -1,0 +1,42 @@
+{
+  "chapter": 131,
+  "title": "The Freshman Talent Show (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Freshman Talent Show",
+    "range": [
+      130,
+      132
+    ],
+    "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
+    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/131.txt",
+    "primary_source_sha": "99d27957d3eb972cf0affe39920e61e85a5c9f45",
+    "english_reference_path": "source/chapters/chapter-130.xhtml",
+    "english_reference_sha": "b843d5c49b22853b48b21c529c77a2bec5081bc4",
+    "draft_path": "manuscript/drafts/chapter-0131.md",
+    "draft_sha": "9755f192aa86e5c554196ac377297214348dcef1",
+    "qa_path": "qa/chapter-0131.md",
+    "qa_sha": "978183f3c5845472a78e05fe77c739108bc64eb8",
+    "provenance_path": "editorial/provenance/chapter-0131.json",
+    "provenance_sha": "37b9c10204fff00b4710503cb1b2ec8552f0580b"
+  },
+  "canonical_checks": [
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Sinclaire",
+    "Bianca Fo Usher",
+    "Dolores L. Quovadis",
+    "Seven Great Families"
+  ],
+  "documented_limits": [
+    "Sinclaire interest remains limited to source-present curiosity/kindness.",
+    "Bianca and Dolores remain uncertain about Vikir's identity.",
+    "Target131 ends before retaliation."
+  ]
+}

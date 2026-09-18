@@ -1,0 +1,71 @@
+{
+  "chapter": 132,
+  "title": "The Freshman Talent Show (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Freshman Talent Show",
+    "range": [
+      130,
+      132
+    ],
+    "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
+    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/132.txt",
+    "blob_sha": "a104d0dd19a5169608059271b4b105a75b69054f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-131.xhtml",
+    "blob_sha": "ff71c21f20bdaef7ed250fc2cbc15e4b15982226",
+    "target_alignment": 132,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0132.md",
+    "blob_sha": "1db9ba952fc5a7ff73a6af89df993c0b147bdcb4"
+  },
+  "qa": {
+    "path": "qa/chapter-0132.md",
+    "blob_sha": "a28fdd3f7fe3cdf4881772d6cccb5ed8b8ae20e5",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "pigi_humiliation",
+      "final": "Six second-years coerce Pigi into an extreme mixed drink and publicly humiliate him when he becomes sick",
+      "basis": "Chinese C132"
+    },
+    {
+      "topic": "vikir_intervention",
+      "final": "Vikir uses his freshman cloak to clean the mess, sends Pigi away, and finishes the remaining drink himself",
+      "basis": "Chinese C132"
+    },
+    {
+      "topic": "dolores_warning",
+      "final": "Dolores explicitly warns upperclassmen not to mistreat freshmen before later retaliation",
+      "basis": "Chinese C132"
+    },
+    {
+      "topic": "night_hound_warning",
+      "final": "Night Hound later overwhelms/identifies/marks the six and warns them against further misconduct; injury detail is reduced but consequence retained",
+      "basis": "Chinese C132"
+    },
+    {
+      "topic": "boundary",
+      "final": "chapter stops before Test Your Skills (1)",
+      "basis": "C132/C133 and E131/E132 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/133.txt",
+    "chinese_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
+    "english_path": "source/chapters/chapter-132.xhtml",
+    "english_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
+    "purpose": "both begin Test Your Skills (1), target133"
+  }
+}

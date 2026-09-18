@@ -2,44 +2,38 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 129  
+**Accepted:** 132  
 **Staged:** 0  
-**Next chapter:** 130
+**Next chapter:** 133
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 120–125 — *The Hunt for the Second Son (1)–(6)*
 - Chapters 126–129 — *Admission to the Academy (1)–(4)*
+- Chapters 130–132 — *The Freshman Talent Show (1)–(3)*
 
-Latest family QA: `qa/families/admission-academy-0126-0129.md` — **PASS**.
+Latest family QA: `qa/families/freshman-talent-show-0130-0132.md` — **PASS**.
 
-## Admission to the Academy family decisions
+## Freshman Talent Show family decisions
 
-- Verified mapping: **126→E125, 127→E126, 128→E127, 129→E128**.
-- Colosseo is retained as the broad elite academy balancing scholarship and combat, contrasted with the Magic Tower and Varangian.
-- Normalize broad divisions to **Cold Department / Hot Department**.
-- Cold practical ranking: **Tudor Donquixote / Bianca Fo Usher** tied first, then **Highbro / Middlebro / Lowbro Le Baskerville**, then **Sancho Barataria**.
-- **Sinclaire** is first in Hot Department practical assessment and second in written theory.
-- The cohort is called the **Glorious Generation** because many elite heirs/talents entered together.
-- Vikir places first in the comprehensive written/theory exam but receives little attention because Colosseo heavily favors practical results.
-- Vikir temporarily omits **Van Baskerville** and enrolls publicly as the commoner **Vikir** to preserve operational freedom.
-- Cindywendy's Seth-contact intelligence gives Vikir a basis for hunting remaining demonic infiltrators/collaborators in the Imperial Capital.
-- **Dolores L. Quovadis** is third-year top student, student council president, and newspaper-club head; Vikir avoids her because she previously met only his masked Night Hound identity.
-- **Pigi** is source-introduced as Vikir's roommate. Later Pigi bloodline / Corpse spoilers remain excluded.
-- Vikir skips orientation deliberately because outsider status helps him move unnoticed.
-- Target 129 distinguishes Ron Bartison's already-committed demon-pact crime from the military betrayal Vikir remembers from the previous timeline.
-- Demon-pact clues remain rotten soul odor + rapid facial decay; no specific remaining Corpse is identified without evidence.
-- Vikir's use of strong rum to clean his cloak becomes the scent clue that confirms to Bianca that someone escaped her rooftop pursuit.
-- No target-130 talent-show material is imported backward.
+- Verified mapping: **130→E129, 131→E130, 132→E131**.
+- Pigi's false talent-show exemption, panic, and paired performance with Vikir remain source-controlled.
+- Vikir's military song is paraphrased rather than copied line-for-line while preserving its battlefield/fallen-comrade memorial function.
+- The performance is a private time-displaced memorial/reunion for Vikir, not intentional showmanship.
+- Older veteran professors recognize the grief in the song; younger students mostly do not.
+- Sinclaire notices Vikir helping Pigi and expresses source-limited interest in knowing him.
+- Bianca nearly links Vikir to the rooftop through the rum smell, but the surrounding alcohol destroys her certainty.
+- Dolores senses familiarity but does not identify Vikir as the Night Hound.
+- Six second-years continue exploiting Pigi; Vikir intervenes inside the gathering and Dolores explicitly warns the upperclassmen.
+- The later Night Hound confrontation preserves the source's intelligence display, visible X marks, and warning while avoiding gratuitous injury detail.
+- No target-133 Test Your Skills material is imported backward.
 
 ## Next verified title family
 
-- **Targets 130–132 — The Freshman Talent Show (1)–(3)**
-- Verified mapping: **130→E129, 131→E130, 132→E131**
-- Target 133 begins **Test Your Skills (1)** and aligns to **E132**.
-- **Test Your Skills** is separately verified through target 138 (six parts); target 139 begins *Men are Power (1)*.
+- **Targets 133–138 — Test Your Skills (1)–(6)**
+- Verified mapping: **133→E132, 134→E133, 135→E134, 136→E135, 137→E136, 138→E137**
+- Target 139 begins **Men are Power (1)** and aligns to **E138**.
 
 ## Source authority
 
@@ -53,13 +47,6 @@ Corpus constants:
 - Combined/overlapping source containers remain documented in `source/chinese/chapter-exceptions.tsv`
 - Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source
 
-## Persistent exceptions
-
-- Target 49 has a localized connective-block gap restored only from aligned recovered English.
-- Physical `054.txt` overlaps targets 54–55; target 55 has no standalone heading/opening in Chinese, but most of its body survives in the combined container.
-- Physical `075.txt` combines targets 75–76 without an internal target-76 heading; direct E74/E75 alignment shows the seam is not safe for physical source splitting.
-- Other combined containers remain documented for later alignment.
-
 ## Immediate next action
 
-Merge the clean **Admission to the Academy, targets 126–129** checkpoint, then branch from merged main for **The Freshman Talent Show, targets 130–132**. Read C130–132 against E129–131 completely with C133/E132 as the boundary, reconstruct and QA the three-chapter family, then continue into **Test Your Skills**.
+Merge the clean **The Freshman Talent Show, targets 130–132** checkpoint, then branch from merged main for **Test Your Skills, targets 133–138**. Read C133–138 against E132–137 completely with C139/E138 as the boundary, reconstruct and QA the six-chapter family, then continue into **Men are Power**.

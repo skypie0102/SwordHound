@@ -1,0 +1,66 @@
+{
+  "chapter": 131,
+  "title": "The Freshman Talent Show (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Freshman Talent Show",
+    "range": [
+      130,
+      132
+    ],
+    "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
+    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/131.txt",
+    "blob_sha": "99d27957d3eb972cf0affe39920e61e85a5c9f45",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-130.xhtml",
+    "blob_sha": "b843d5c49b22853b48b21c529c77a2bec5081bc4",
+    "target_alignment": 131,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0131.md",
+    "blob_sha": "9755f192aa86e5c554196ac377297214348dcef1"
+  },
+  "qa": {
+    "path": "qa/chapter-0131.md",
+    "blob_sha": "978183f3c5845472a78e05fe77c739108bc64eb8",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "veteran_reaction",
+      "final": "Older professors resonate with Vikir's battlefield grief while younger students largely cannot",
+      "basis": "Chinese C131"
+    },
+    {
+      "topic": "sinclaire_interest",
+      "final": "Sinclaire notices Vikir helping Pigi and says he seems kind; no later relationship material imported",
+      "basis": "Chinese C131"
+    },
+    {
+      "topic": "recognition_pressure",
+      "final": "Bianca nearly links Vikir through rum smell; Dolores senses familiarity; both remain uncertain",
+      "basis": "Chinese C131"
+    },
+    {
+      "topic": "pigi_harassment_boundary",
+      "final": "chapter ends with six second-years surrounding Pigi and Vikir watching without smiling",
+      "basis": "Chinese C131/C132 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/133.txt",
+    "chinese_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
+    "english_path": "source/chapters/chapter-132.xhtml",
+    "english_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
+    "purpose": "both begin Test Your Skills (1), target133"
+  }
+}
