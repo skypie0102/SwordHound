@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **109 / 500 accepted; next Chapter 110.** Latest accepted family: **targets 105–109 — The Returned Hero (1)–(5)**.
+Current checkpoint: **116 / 500 accepted; next Chapter 117.** Latest accepted family: **targets 110–116 — The Great Banquet (1)–(7)**.
 
-The next verified family is **The Great Banquet, targets 110–116**, mapped **110→E109 through 116→E115**. Target 117 begins **Falling in Love (1)** and maps to E116.
+The next verified family is **Falling in Love, targets 117–119**, mapped **117→E116 through 119→E118**. Target 120 begins **The Hunt for the Second Son (1)** and maps to E119.
 
 ## Current source policy
 
@@ -38,28 +38,31 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Returned Hero family adds/revalidates:
+The accepted Great Banquet family adds/revalidates:
 
-- **The Returned Hero** — production family title for targets 105–109; witnesses E104–E108.
-- **Highsis / Middlesis / Lowsis Morgue** — canonical triplet forms retained; source semantic ordering remains plant / earth / water.
-- **Light Faction / Dark Faction** — Morgue’s practical field branch and secluded research branch respectively.
-- **Snake Morgue** — source-revealed target-107 Dark Faction leader; later plot information remains spoiler-guarded.
-- **Pomeranian La Baskerville** — age five in target 108; corpse revival / negative mana aptitude source-revealed.
-- **Lady Roxana / Penelope La Baskerville / Pomeranian La Baskerville** — canonical lineage forms override target-109 raw-layer name drift.
-- **The Great Banquet** — next family spans targets 110–116; witnesses E109–E115.
-- **Falling in Love** begins target 117 / E116.
+- **The Great Banquet** — production family title for targets 110–116; witnesses E109–E115.
+- **Boston Terrier Le Baskerville / Pit Bull Knights** — Count and commander; 100-Graduator extermination-specialist order.
+- **Great Dane Le Baskerville / Mastiff Knights** — Count and commander; 100-Graduator formal-war-specialist order.
+- **Seven Counts** — major Baskerville military/political bloc; all seven sought to attend Vikir's banquet.
+- **Osiris Le Baskerville** — first heir; Peak Sword Graduator in this scope.
+- **Seth Le Baskerville** — second heir; Intermediate Sword Graduator / Underdog Magistrate; target 114 onward establishes nonhuman/demonic evidence without naming the later demon identity.
+- **Intermediate Sword Graduator / Peak Sword Graduator** — public Vikir versus hidden Vikir in this family.
+- **Sixth Fang / Seventh Fang** — target 116 combat comparison; never “Forms.”
+- **Baskerville Trident** — accepted contextual label for Highbro / Middlebro / Lowbro.
+- **Falling in Love** — next family targets 117–119; witnesses E116–E118.
+- **The Hunt for the Second Son** begins target 120 / E119.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–109**:
+Current accepted production evidence covers targets **1–116**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0109.md`
-- `qa/chapter-0001.md` through `chapter-0109.md`
-- accepted family QA through `qa/families/returned-hero-0105-0109.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0109.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0109.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0116.md`
+- `qa/chapter-0001.md` through `chapter-0116.md`
+- accepted family QA through `qa/families/great-banquet-0110-0116.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0116.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0116.json`
 
-Latest family QA: `qa/families/returned-hero-0105-0109.md` — **PASS**.
+Latest family QA: `qa/families/great-banquet-0110-0116.md` — **PASS**.
 
 ## Editorial quality bar
 

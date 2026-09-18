@@ -1,0 +1,42 @@
+{
+  "chapter": 115,
+  "title": "The Great Banquet (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/115.txt",
+    "primary_source_sha": "b821ac6586d9b2b5d7374cf78d5cc09cfaa397ca",
+    "english_reference_path": "source/chapters/chapter-114.xhtml",
+    "english_reference_sha": "98c7c43bd36ce01252dbbed237eefa8f3a8439ce",
+    "draft_path": "manuscript/drafts/chapter-0115.md",
+    "draft_sha": "2aff46596931d301024a3491a29ddc76a59a597e",
+    "qa_path": "qa/chapter-0115.md",
+    "qa_sha": "0b6dfdf9dab95b77c5c9f22d6910582d73ed9967",
+    "provenance_path": "editorial/provenance/chapter-0115.json",
+    "provenance_sha": "a91f0866521bed6a89abb3ed262d241713d6c71e"
+  },
+  "canonical_checks": [
+    "Seth Le Baskerville",
+    "Osiris Le Baskerville",
+    "Hugo Le Baskerville",
+    "Cindywendy",
+    "Beelzebub",
+    "Madam Eight-Legs",
+    "Colosseo Academy"
+  ],
+  "documented_limits": [
+    "Demonic nature is established but demon identity is not named.",
+    "Vikir only considers Hugo may have been deceived; this is not absolution."
+  ]
+}

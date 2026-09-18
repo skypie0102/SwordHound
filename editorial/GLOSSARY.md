@@ -1,3 +1,32 @@
+## The Great Banquet additions — Chapters 110–116
+
+- **The Great Banquet** — production family title for targets 110–116; verified witnesses E109–E115.
+- **Sword Star** — Hugo's source nickname/title-of-renown in target 110. Chinese chronology places the Marquis/Sword Star recognition at roughly age **40**, about ten years before the current chapter.
+- **Boston Terrier Le Baskerville** — Count; commander of the **Pit Bull Knights**; Hugo's half-brother.
+- **Pit Bull Knights** — target 112: roughly 100 Sword Graduators; Baskerville **extermination specialists**, feared for overwhelming slaughter and willingness to use assassination.
+- **Great Dane Le Baskerville** — Count; commander of the **Mastiff Knights**; Hugo's half-brother.
+- **Mastiff Knights** — target 112: roughly 100 Sword Graduators; Baskerville **formal-war specialists**, emphasizing declared conflict, duels, and open subjugation.
+- **Seven Counts** — Baskerville military/political bloc. All seven request attendance in target 111 because of Vikir; only Boston Terrier and Great Dane can return in time.
+- **Osiris Le Baskerville** — reaffirmed first heir / Peak Sword Graduator in this scope. Later Sword Master progression remains chronology-guarded.
+- **Seth Le Baskerville** — target 114 public profile: second heir, Viscount, Intermediate Sword Graduator, Underdog Magistrate. Targets 114–116 source-reveal nonhuman/demonic evidence and old conspiracy links; later demon identity remains excluded until source reveal.
+- **Intermediate Sword Graduator** — Vikir's public demonstrated level during the Great Banquet.
+- **Peak Sword Graduator** — Vikir's hidden level by target 114; also current Seven-Count realm.
+- **Sixth Fang / Seventh Fang** — target 116: current Seven Counts are compared at Sixth-Fang swordsmanship while Vikir possesses the Seventh Fang. Never render numbered techniques as Forms.
+- **Baskerville Trident** — accepted contextual Chinese-source label for Highbro / Middlebro / Lowbro in target 116.
+- **Bloody Mamba** — reused in target 116 for the snakes linked to the infancy assassination attempt; still a scoped working/canonical fallback rather than a dedicated Fandom species entry.
+- **Falling in Love** — next family targets 117–119; witnesses E116–E118.
+- **The Hunt for the Second Son** — following family begins target 120 / E119.
+
+### Great Banquet continuity decisions
+
+- Target 110: E109's age-fifty chronology is rejected; Chinese says Hugo was roughly **40** at the Sword Star/Marquis milestone.
+- Target 111: Chinese says **Lady Roxana died of illness**; E110's battle death is rejected.
+- Target 111: accepted **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** names continue to override raw-layer drift.
+- Targets 114–116: Seth's later external demon-host name is spoiler information and must not be imported before the novel reveals it.
+- Target 115: Vikir merely considers that Hugo may have been deceived before regression; do not turn this into exoneration.
+- Target 116: recovered-English **Yuasa Castle** is unsupported and rejected; use descriptive childhood/old castle wording.
+- Target 116 closes on the triplets' oath posture; the oath explanation/dialogue belongs to target 117.
+
 ## The Returned Hero additions — Chapters 105–109
 
 - **The Returned Hero** — production family title for targets 105–109; verified witnesses E104–E108.

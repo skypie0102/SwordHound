@@ -1,0 +1,41 @@
+{
+  "chapter": 114,
+  "title": "The Great Banquet (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/114.txt",
+    "primary_source_sha": "1936c0da4f7c14434a37759a362f31895cb14af7",
+    "english_reference_path": "source/chapters/chapter-113.xhtml",
+    "english_reference_sha": "ad036d95a5a0dfb7f55bbad39e2732221e58a254",
+    "draft_path": "manuscript/drafts/chapter-0114.md",
+    "draft_sha": "1995c37b51d9d9316540527d8df9c13dac17369f",
+    "qa_path": "qa/chapter-0114.md",
+    "qa_sha": "07d1b30b0897d6144d56fc244494239d01ffaf85",
+    "provenance_path": "editorial/provenance/chapter-0114.json",
+    "provenance_sha": "2c05753adb63e6b770aa3a55989da73756ae8c48"
+  },
+  "canonical_checks": [
+    "Peak Sword Graduator",
+    "Osiris Le Baskerville",
+    "Seth Le Baskerville",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville"
+  ],
+  "documented_limits": [
+    "Target ends only with Seth suspected not human.",
+    "Later external demon-host identity is deliberately excluded."
+  ]
+}

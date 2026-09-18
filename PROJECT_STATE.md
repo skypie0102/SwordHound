@@ -2,36 +2,39 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 109  
+**Accepted:** 116  
 **Staged:** 0  
-**Next chapter:** 110
+**Next chapter:** 117
 
 ## Current accepted checkpoint
 
-Twenty-nine complete title families have passed the restarted workflow, through:
+Thirty complete title families have passed the restarted workflow, through:
 
-- Chapters 101–104 — *Nostalgia (1)–(4)*
 - Chapters 105–109 — *The Returned Hero (1)–(5)*
+- Chapters 110–116 — *The Great Banquet (1)–(7)*
 
-Latest family QA: `qa/families/returned-hero-0105-0109.md` — **PASS**.
+Latest family QA: `qa/families/great-banquet-0110-0116.md` — **PASS**.
 
-## The Returned Hero family decisions
+## The Great Banquet family decisions
 
-- Verified mapping: **105→E104 through 109→E108**.
-- Target 105 reveals the huge Red Salt Castle golden monument as Vikir; the guards’ hero story is intentionally exaggerated.
-- Target 106 reintroduces **Highsis / Middlesis / Lowsis Morgue** with accepted Chinese-controlled plant / earth / water ordering.
-- Target 107: **Camus**, not Adolf, is the member who leaves the Light Faction for **Snake Morgue’s Dark Faction**. The raw’s isolated subject slip is repaired from immediate context and indexed Fandom evidence.
-- Target 108 corrects two recovered-English substitutions: the white-carpet joke uses **coffee**, and Vikir’s visit purpose is **reporting survival / return alive**, not “reunion.”
-- Target 108 establishes the unresolved Underdog child-abduction case and **Pomeranian La Baskerville’s** corpse-revival / negative-mana aptitude at age five.
-- Target 109 preserves Hugo’s unexpectedly warm reunion, Vikir’s Ballak-protection trade strategy, Hugo’s explicit Rokoko extermination demand, and Hugo’s unprecedented shock on seeing Pomeranian.
-- Raw-layer Lucina/Freya/Firian-type naming drift is normalized to accepted **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**.
-- Family ends before target 110 continues Hugo/Pomeranian and begins the Great Banquet sequence.
+- Verified mapping: **110→E109 through 116→E115**.
+- Target 110 corrects recovered-English chronology: Hugo earned the **Sword Star** name / Marquis title around age **40**, roughly ten years before the chapter.
+- Target 111 Chinese controls **Lady Roxana's death as illness**, not battle, and reaffirms **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**.
+- Boston Terrier and Great Dane are the two Seven Counts able to return for the banquet; all seven wanted to attend because of Vikir.
+- Pit Bull Knights remain 100-Sword-Graduator extermination specialists; Mastiff Knights remain 100-Sword-Graduator formal-war specialists.
+- Vikir publicly demonstrates **Intermediate Sword Graduator** at seventeen while concealing **Peak Sword Graduator** strength.
+- Osiris is re-read through Vikir's second-life perspective as cold and awkward rather than purely cruel.
+- Targets 114–116 establish that Seth is suspected nonhuman, then source-reveal demonic scent/reflection evidence, missing-child links, and old conspiracies. Later demon identity remains spoiler-guarded.
+- Vikir only considers the possibility that Hugo may have been deceived before regression; Hugo is **not** absolved.
+- Target 116 preserves the project rule **Fangs, not Forms**: current Seven Counts are Sixth-Fang-level Peak Sword Graduators while Vikir possesses the Seventh Fang.
+- E115's unsupported “Yuasa Castle” is rejected.
+- Family ends on Highbro / Middlebro / Lowbro offering Vikir the formal imperial knight's oath.
 
 ## Next verified title family
 
-- **Target Chapters 110–116 — The Great Banquet (1)–(7)**
-- Verified mapping: **110→E109, 111→E110, 112→E111, 113→E112, 114→E113, 115→E114, 116→E115**.
-- Target Chapter 117 begins **Falling in Love (1)** and aligns to **E116**.
+- **Targets 117–119 — Falling in Love (1)–(3)**
+- Verified mapping: **117→E116, 118→E117, 119→E118**
+- Target 120 begins **The Hunt for the Second Son (1)** and aligns to **E119**.
 
 ## Source authority
 
@@ -43,7 +46,7 @@ Corpus constants:
 - Target chapters with at least partial Chinese coverage: **500 / 500**
 - Localized Chinese raw-gap targets: **49 and 55**
 - Combined/overlapping source containers remain documented in `source/chinese/chapter-exceptions.tsv`
-- Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source; used only for scoped gap restoration where Chinese is absent
+- Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source
 
 ## Persistent exceptions
 
@@ -54,4 +57,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Returned Hero (1)–(5), targets 105–109** checkpoint, then branch from merged main for **The Great Banquet, targets 110–116**. Read C110–116 + E109–115 completely with C117/E116 as the boundary, reconstruct and QA all seven chapters, then continue into **Falling in Love**.
+Merge the clean **The Great Banquet, targets 110–116** checkpoint, then branch from merged main for **Falling in Love, targets 117–119**. Read C117–119 + E116–118 completely with C120/E119 as the boundary, reconstruct and QA all three chapters, then continue into **The Hunt for the Second Son**.

@@ -1,0 +1,54 @@
+{
+  "chapter": 113,
+  "title": "The Great Banquet (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/113.txt",
+    "blob_sha": "732d48b4d2ed32096c603b30559c42cb6120a082",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-112.xhtml",
+    "blob_sha": "bee427a5df37d3e8ffa5cf4b4f06670d2ebac34a",
+    "target_alignment": 113,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0113.md",
+    "blob_sha": "f59a44417a519f9e9bf9298eeb36941b7f3e8c11"
+  },
+  "qa": {
+    "path": "qa/chapter-0113.md",
+    "blob_sha": "ed865f088f19fe5e1906be095dad5fb6bafcbf3c",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "hugo_smile",
+      "final": "Vikir first reads Hugo's smile politically; Hugo then explicitly states paternal pride",
+      "basis": "Chinese C113"
+    },
+    {
+      "topic": "mana_demo",
+      "final": "Vikir precisely cooks Great Dane's steak and boils away half Boston Terrier's wine through the table",
+      "basis": "Chinese C113"
+    },
+    {
+      "topic": "realm_record",
+      "final": "demonstration is Intermediate Sword Graduator at age seventeen, youngest Baskerville record",
+      "basis": "Chinese C113"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

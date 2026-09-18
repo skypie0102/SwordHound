@@ -1,0 +1,59 @@
+{
+  "chapter": 112,
+  "title": "The Great Banquet (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/112.txt",
+    "blob_sha": "47db9853101379f74f5e62e85fad4f4ef3e65498",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-111.xhtml",
+    "blob_sha": "dbf3dfc9bf766f75ec7c5d546a4f9c96cb177845",
+    "target_alignment": 112,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0112.md",
+    "blob_sha": "27b54038ae1c5453ba0a966903336ed9f108b4b3"
+  },
+  "qa": {
+    "path": "qa/chapter-0112.md",
+    "blob_sha": "60ae39301592b5cc74417b7d1c3c96baf34a2eb4",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "pit_bull_knights",
+      "final": "100 Sword Graduators; extermination specialists; willing to use assassination",
+      "basis": "Chinese C112"
+    },
+    {
+      "topic": "mastiff_knights",
+      "final": "100 Sword Graduators; formal-war specialists emphasizing declaration/duel and open subjugation",
+      "basis": "Chinese C112"
+    },
+    {
+      "topic": "public_realm",
+      "final": "Vikir's public reputation remains Intermediate Sword Graduator",
+      "basis": "Chinese C112"
+    },
+    {
+      "topic": "long_term_plan",
+      "final": "Vikir intends to bring all seven Baskerville knight orders and the clan beneath him",
+      "basis": "Chinese C112"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

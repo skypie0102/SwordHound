@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 109,
+  "accepted_count": 116,
   "staged_count": 0,
-  "next_chapter": 110,
+  "next_chapter": 117,
   "active_title_family": {
-    "name": "The Great Banquet",
+    "name": "Falling in Love",
     "range": [
-      110,
-      116
+      117,
+      119
     ],
-    "boundary_status": "verified seven-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 117,
-    "following_title": "Falling in Love (1)",
-    "alignment_note": "110→E109,111→E110,112→E111,113→E112,114→E113,115→E114,116→E115;117→E116"
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 120,
+    "following_title": "The Hunt for the Second Son (1)",
+    "alignment_note": "117→E116,118→E117,119→E118;120→E119"
   },
   "chapters": [
     {
@@ -1541,6 +1541,104 @@
       "acceptance": "qa/acceptance/chapter-0109.json",
       "acceptance_sha": "b0016619dd1058c35c880877c3d5c82a7bdfce64",
       "family_qa": "qa/families/returned-hero-0105-0109.md"
+    },
+    {
+      "chapter": 110,
+      "title": "The Great Banquet (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/110.txt",
+      "english_mtl_reference": "source/chapters/chapter-109.xhtml",
+      "draft": "manuscript/drafts/chapter-0110.md",
+      "qa": "qa/chapter-0110.md",
+      "provenance": "editorial/provenance/chapter-0110.json",
+      "acceptance": "qa/acceptance/chapter-0110.json",
+      "acceptance_sha": "c05bdba53200fb4d8bf19e881134d18e4e4cc4d3",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 111,
+      "title": "The Great Banquet (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/111.txt",
+      "english_mtl_reference": "source/chapters/chapter-110.xhtml",
+      "draft": "manuscript/drafts/chapter-0111.md",
+      "qa": "qa/chapter-0111.md",
+      "provenance": "editorial/provenance/chapter-0111.json",
+      "acceptance": "qa/acceptance/chapter-0111.json",
+      "acceptance_sha": "b1d1d7fe5321374cd6746e3db6adfb88e8d2838d",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 112,
+      "title": "The Great Banquet (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/112.txt",
+      "english_mtl_reference": "source/chapters/chapter-111.xhtml",
+      "draft": "manuscript/drafts/chapter-0112.md",
+      "qa": "qa/chapter-0112.md",
+      "provenance": "editorial/provenance/chapter-0112.json",
+      "acceptance": "qa/acceptance/chapter-0112.json",
+      "acceptance_sha": "522e7ea7cbdddfe44053f6d788d37a5e4fb4a910",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 113,
+      "title": "The Great Banquet (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/113.txt",
+      "english_mtl_reference": "source/chapters/chapter-112.xhtml",
+      "draft": "manuscript/drafts/chapter-0113.md",
+      "qa": "qa/chapter-0113.md",
+      "provenance": "editorial/provenance/chapter-0113.json",
+      "acceptance": "qa/acceptance/chapter-0113.json",
+      "acceptance_sha": "c81662cf6e09006896e5e00153f65cc59b6cdc58",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 114,
+      "title": "The Great Banquet (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/114.txt",
+      "english_mtl_reference": "source/chapters/chapter-113.xhtml",
+      "draft": "manuscript/drafts/chapter-0114.md",
+      "qa": "qa/chapter-0114.md",
+      "provenance": "editorial/provenance/chapter-0114.json",
+      "acceptance": "qa/acceptance/chapter-0114.json",
+      "acceptance_sha": "a4abab5218439a0a952f7aaa7fac1b69b37f8e66",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 115,
+      "title": "The Great Banquet (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/115.txt",
+      "english_mtl_reference": "source/chapters/chapter-114.xhtml",
+      "draft": "manuscript/drafts/chapter-0115.md",
+      "qa": "qa/chapter-0115.md",
+      "provenance": "editorial/provenance/chapter-0115.json",
+      "acceptance": "qa/acceptance/chapter-0115.json",
+      "acceptance_sha": "009685b15205698ede6855069ac208f91d65467b",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 116,
+      "title": "The Great Banquet (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/116.txt",
+      "english_mtl_reference": "source/chapters/chapter-115.xhtml",
+      "draft": "manuscript/drafts/chapter-0116.md",
+      "qa": "qa/chapter-0116.md",
+      "provenance": "editorial/provenance/chapter-0116.json",
+      "acceptance": "qa/acceptance/chapter-0116.json",
+      "acceptance_sha": "428ac8c2a85ea453e9652b304794210b0efd3bb0",
+      "family_qa": "qa/families/great-banquet-0110-0116.md"
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "chapter": 110,
+  "title": "The Great Banquet (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/110.txt",
+    "primary_source_sha": "b02e3225fee0f4da4fa440e01751c5c6c2915a6c",
+    "english_reference_path": "source/chapters/chapter-109.xhtml",
+    "english_reference_sha": "475816122100c441e23204e7b4d86b18b89a248b",
+    "draft_path": "manuscript/drafts/chapter-0110.md",
+    "draft_sha": "adb6b4fe59c82caaed7d84b3aa0a73b90981f976",
+    "qa_path": "qa/chapter-0110.md",
+    "qa_sha": "2196129fe9945ef873f4b18ec56f4959d6fa468d",
+    "provenance_path": "editorial/provenance/chapter-0110.json",
+    "provenance_sha": "6b5bfc6a96e1e57f0a932bf84a386807a8c23708"
+  },
+  "canonical_checks": [
+    "Hugo Le Baskerville",
+    "Sword Star",
+    "Pomeranian La Baskerville",
+    "John Barrymore",
+    "Chihuahua Baskerville",
+    "Great Banquet"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Chinese age forty controls Hugo's Sword Star/Marquis milestone; E109 age fifty is rejected.",
+    "Hugo's recognition is not resolved before source chronology does."
+  ]
+}

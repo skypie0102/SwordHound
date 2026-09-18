@@ -1,0 +1,64 @@
+{
+  "chapter": 115,
+  "title": "The Great Banquet (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/115.txt",
+    "blob_sha": "b821ac6586d9b2b5d7374cf78d5cc09cfaa397ca",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-114.xhtml",
+    "blob_sha": "98c7c43bd36ce01252dbbed237eefa8f3a8439ce",
+    "target_alignment": 115,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0115.md",
+    "blob_sha": "2aff46596931d301024a3491a29ddc76a59a597e"
+  },
+  "qa": {
+    "path": "qa/chapter-0115.md",
+    "blob_sha": "0b6dfdf9dab95b77c5c9f22d6910582d73ed9967",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "set_demonic_evidence",
+      "final": "demonic stench, absent reflection, old suicide/personality-change testimony, and child-disappearance trail support Vikir's inference",
+      "basis": "Chinese C115"
+    },
+    {
+      "topic": "demon_identity_guard",
+      "final": "no later canonical demon name is imported",
+      "basis": "reveal chronology"
+    },
+    {
+      "topic": "hugo_culpability",
+      "final": "Vikir only considers that Hugo may have been deceived; Hugo is not absolved",
+      "basis": "Chinese C115"
+    },
+    {
+      "topic": "osiris_reframe",
+      "final": "Osiris's interruptions and etiquette corrections are understood as instinctive/protective rather than conscious demon knowledge",
+      "basis": "Chinese C115"
+    },
+    {
+      "topic": "academy",
+      "final": "Barrymore identifies Hugo's likely next topic as Academy admission",
+      "basis": "Chinese C115"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
