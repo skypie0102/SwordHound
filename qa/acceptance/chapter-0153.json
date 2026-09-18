@@ -1,0 +1,44 @@
+{
+  "chapter": 153,
+  "title": "The Drinking Game (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Drinking Game",
+    "range": [
+      152,
+      154
+    ],
+    "family_qa_path": "qa/families/drinking-game-0152-0154.md",
+    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/153.txt",
+    "primary_source_sha": "b54f371d1ae74b97df8cfcda609f3962a3ad2c0b",
+    "english_reference_path": "source/chapters/chapter-152.xhtml",
+    "english_reference_sha": "2887cbdd4984819cc7a9572566195982633c71f3",
+    "draft_path": "manuscript/drafts/chapter-0153.md",
+    "draft_sha": "ff2cc52c6826be2df81a450175952cff8c890361",
+    "qa_path": "qa/chapter-0153.md",
+    "qa_sha": "e9ad101bb0130c8cdd9bdc9d94409b4e3ef6a258",
+    "provenance_path": "editorial/provenance/chapter-0153.json",
+    "provenance_sha": "b537769928766cbeb8b13a6fdeefe794b6ca5574"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "atari",
+    "manpae bulcheong",
+    "speed Go",
+    "Tudor Donquixote",
+    "Bianca Fo Usher",
+    "Sinclaire",
+    "Pigi"
+  ],
+  "documented_limits": [
+    "Vikir's roughly second-dan statement is an outdated self-estimate, not a current formal rating.",
+    "Manpae bulcheong replaces recovered-English All clear.",
+    "Intoxication remains comedic without sexual expansion."
+  ]
+}
