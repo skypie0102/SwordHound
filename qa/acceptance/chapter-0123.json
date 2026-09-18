@@ -1,0 +1,44 @@
+{
+  "chapter": 123,
+  "title": "The Hunt for the Second Son (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/123.txt",
+    "primary_source_sha": "1009bb8136f53bdcfa7fc5d9a7cb46427173cf3a",
+    "english_reference_path": "source/chapters/chapter-122.xhtml",
+    "english_reference_sha": "f48004b6caee80cebad06bfbab6d0553bb18006d",
+    "draft_path": "manuscript/drafts/chapter-0123.md",
+    "draft_sha": "dee8dcfcab8bbd47556f0bf927aabb9234b1829d",
+    "qa_path": "qa/chapter-0123.md",
+    "qa_sha": "dec4d7e77e463838e2deafb1a0eb98a5cb96e037",
+    "provenance_path": "editorial/provenance/chapter-0123.json",
+    "provenance_sha": "c9f399a0f27b40534ccc509fbdbaa64eb622f129"
+  },
+  "canonical_checks": [
+    "The Fly of Gluttony",
+    "Venom",
+    "Silent Heel",
+    "Super High-Speed Regeneration",
+    "Anubis",
+    "Adonai",
+    "Seven Counts",
+    "Seven Baskerville Knight Orders"
+  ],
+  "documented_limits": [
+    "Anubis is the bow, not a force Adonai leads.",
+    "The source names only a subset of the seven orders in its list; no missing name is invented.",
+    "Family ends later; Hugo arrival is target123 boundary only."
+  ]
+}
