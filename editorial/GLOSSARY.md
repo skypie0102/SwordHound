@@ -644,3 +644,21 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Familiar Face** — next verified family targets 158–161; witnesses E157–E160.
 - **Sin and Punishment** — begins target 162 / E161.
 
+## Familiar Face additions — Chapters 158–161
+
+- **Familiar Face** — accepted production family title for targets 158–161; shifted witnesses E157–E160.
+- **Quilt Rune Indulgentia** — target 158 source-reveals him as a **Demon King-class demon**. Do not import the later personal demon name/epithet before its source timing.
+- **Seventh Fang** — production form for Vikir's seven-tooth Baskerville killing technique in target 158.
+- **Mozgus's Old Testament twin** — Ephebo's host/body identity. The extracted twin-name spelling is unstable; use relational identification rather than inventing a canonical English form.
+- **Ninth Corpse** — target 159 source-reveals the face-stealing / corrupted-undead demon behind the network. Personal demon name/epithet remains withheld until the next family.
+- **Camus Morgue** — target 159 source-timed concern: Light Faction → Dark Faction → closed-door training. Target 161 explicitly proves Geronto is **not** Camus.
+- **Silent Heel — Mushuhushu** — canonical production name for Vikir's soundless movement ability.
+- **Super Regeneration — Swamp Marsh Salamander** — canonical production name for Vikir's rapid-healing ability in target 160.
+- **Staffordshire Baskerville** — Pedo's revealed identity; Pit Bull Knights member / experienced guide-dog trainer.
+- **Hebe** — Donquixote-affiliated corpse by family tattoos; exact personal identity remains unrevealed.
+- **Geronto** — young female mage, at least fifth-circle / possibly sixth-circle; strongly Morgue-associated by red hair and iron/fire magic, but not Camus.
+- **Great-house grave robberies** — target 161 clue that bodies themselves are being stolen for undead construction.
+- **Four black face coverings** — recovered from Ephebo, Hebe, Pedo, Geronto; combined demonic power approaches Beelzebub. Exact later provenance remains withheld.
+- **Sin and Punishment** — next verified Chinese family targets 162–169. Shifted witnesses exist for 162→E161 through 167→E166, **target 168 has no recovered-English witness in the current sequence**, and 169→E167.
+- **Adorable Pet** — begins target 170 / E168.
+
