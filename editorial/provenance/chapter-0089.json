@@ -1,0 +1,98 @@
+{
+  "chapter": 89,
+  "title": "The Illiad (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/089.txt",
+    "blob_sha": "83256d7003be5bc4fa12c35f1abf1db63c226c1f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-088.xhtml",
+    "blob_sha": "0ca10d5e3a3f4d91fdd882bdcf3545dab3bb2ce5",
+    "target_alignment": 89,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/090.txt",
+    "chinese_sha": "2128d128f66c3208b3d8bacdd37bb7d9c6684773",
+    "english_path": "source/chapters/chapter-089.xhtml",
+    "english_sha": "6cb2efd35be359cd0d25a1de23daf2a2561ef383",
+    "purpose": "both begin The Ghosts of the Ancestors (1) target90"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir",
+        "Ah'Heman",
+        "Aiyen",
+        "Ballak Tribe",
+        "Le Rouge et Le Noir Mountain",
+        "Beelzebub",
+        "High Sword Graduator",
+        "Sixth Fang",
+        "Silent Heel",
+        "Incinerate",
+        "Cerberus",
+        "Rokoko",
+        "Oxbear"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0089.md",
+    "blob_sha": "0db461b8a6c965c98ebd9b889d9141aed87c1197"
+  },
+  "qa": {
+    "path": "qa/chapter-0089.md",
+    "blob_sha": "5a58ccaa8872d8025a6960a8cb1fbddd67627241",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "poison_source",
+      "final": "Chinese large red-bodied black-legged spider overrides E88 centipede",
+      "basis": "Chinese target89"
+    },
+    {
+      "topic": "silent_heel",
+      "final": "Vikir's silent movement explicitly uses Silent Heel—Mushuhushu(A+)",
+      "basis": "Chinese target89 + target85 slot state"
+    },
+    {
+      "topic": "combat",
+      "final": "High Sword Graduator / six Fangs / Cerberus infernal pain retained",
+      "basis": "Chinese target89"
+    },
+    {
+      "topic": "arrow",
+      "final": "Chinese places arrow in Ah'Heman's inner thigh; do not literalize E88 groin",
+      "basis": "Chinese target89"
+    },
+    {
+      "topic": "rokoko",
+      "final": "corpse reanimation lets Vikir identify Ah'Heman's birth tribe as Rokoko",
+      "basis": "Chinese target89"
+    },
+    {
+      "topic": "boundary",
+      "final": "end when old female Oxbear raises paw; actual strike belongs target90",
+      "basis": "family boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
