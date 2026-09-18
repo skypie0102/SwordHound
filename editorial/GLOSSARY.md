@@ -728,3 +728,25 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Midterm Random Defense** — next verified family targets 179–185; witnesses E177–E183.
 - **Aftermath** — begins target 186 / E184.
 
+## Midterm Random Defense additions — Chapters 179–185
+
+- **Midterm Random Defense** — accepted production family title for targets 179–185; shifted witnesses E177–E183.
+- **Defense / Attack / written weights** — 50% / 40% / 10%.
+- **Killer Ant** — production monster-family term.
+- **Filthy Spawning Grounds** — production name for the Killer Ant colony map.
+- **Group 69** — Vikir + Highbro / Middlebro / Lowbro; final score 2,253 after 19:50.
+- **Vikir's Trident** — triplets' private loyalty framing; not a formal Academy title.
+- **Group 108** — Tudor / Sancho / Pigi / Bianca; final score 2,269 after 19:52.
+- **Pigi tactical role** — command/analysis materially drives Group 108's record.
+- **Baby Madam phase fault** — poison-fed molt strengthens her life signal enough to keep the automated arena active.
+- **Professor Banshee Morgue / Key A** — canonical faculty name and barrier-key holder.
+- **Professor Sadi / Key B** — canonical Fandom form; absent from her post during the emergency.
+- **Worker Ant** — Danger Rating C; 1 m.
+- **Soldier Ant** — Danger Rating B+; 5 m.
+- **Barrier flaw** — northwest foundation gap about seven meters down; Vikir remembers it from a prior-life assassination attempt on the Baskerville triplets.
+- **Expert-output guard** — Vikir rescues the group without exposing Graduator aura; C185 rank drift is normalized to intermediate-to-advanced Sword Expert output.
+- **Pigi childhood reveal guard** — stop at biological-father rejection, mother escape, loving stepfather, and family sacrifice for Colosseo.
+- **Vikir emergency score** — HP 100 / Kill 968 / Assist 5,321.
+- **Aftermath** — next verified family targets 186–189; witnesses E184–E187.
+- **Attack Land** — begins target 190 / E188.
+
