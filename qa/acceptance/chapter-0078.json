@@ -1,0 +1,42 @@
+{
+  "chapter": 78,
+  "title": "The Saintess (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/078.txt",
+    "primary_source_sha": "155a238a81adfdc32ce7b97d9e28e05f4133c395",
+    "english_reference_path": "source/chapters/chapter-077.xhtml",
+    "english_reference_sha": "64c564988053d5a39bde90c0f81685055f2bf13f",
+    "draft_path": "manuscript/drafts/chapter-0078.md",
+    "draft_sha": "8919fdfc51baec50b1828e8a9433fa22d497da7e",
+    "qa_path": "qa/chapter-0078.md",
+    "qa_sha": "8848cfc5ad09b4de95e79f7eb2196a1e085b25f1",
+    "provenance_path": "editorial/provenance/chapter-0078.json",
+    "provenance_sha": "ad71fb759ba3396cfbe61e35ae87c5a723dd8e20"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Mozgus Quovadis",
+    "Leviathan Clan",
+    "Bourgeois Clan",
+    "Red Death",
+    "Hound of the Night"
+  ],
+  "documented_limits": [
+    "Target 78 maps to E77.",
+    "Dolores is sixteen; emotional/soul-reading material remains nonsexual.",
+    "Later family/relationship spoilers are excluded."
+  ]
+}
