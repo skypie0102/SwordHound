@@ -1,0 +1,91 @@
+{
+  "chapter": 62,
+  "title": "The Protagonist of Hunting (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
+    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/062.txt",
+    "blob_sha": "68c0110eec864429aebd42142991ba3694d8130f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-061.xhtml",
+    "blob_sha": "c03318d7153f27b179a5d2d7c36f4fa1e78d9dc2",
+    "target_alignment": 62,
+    "alignment_status": "target62_verified_to_e61_by_madam_offering_piranha_natteri_fishing_women_queue_aiyen_dispute_and_reward_request_setup",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/064.txt",
+    "chinese_sha": "332ef149eb32e1c0ba4aa67a53410d8d310f5844",
+    "english_path": "source/chapters/chapter-063.xhtml",
+    "english_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
+    "purpose": "both begin Unfair Trade (1) target64 family"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Madam Eight-Legs",
+        "Aiyen",
+        "Ahun",
+        "Akwilla",
+        "Ballak Tribe",
+        "Oxbear",
+        "Le Rouge et Le Noir Mountain"
+      ]
+    },
+    {
+      "site": "aligned recovered English witness",
+      "page_title": "The Protagonist of Hunting (2)",
+      "retrieval_mode": "corpus_alignment",
+      "applies_to": [
+        "Piranha Natteri"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0062.md",
+    "blob_sha": "aa267163bf0959623b7adc94f906518e8ac73ada"
+  },
+  "qa": {
+    "path": "qa/chapter-0062.md",
+    "blob_sha": "96233c67df63ff633095dc751b8a56f33d01ff41",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "madam_offering",
+      "final": "~100 kg premium Oxbear meat offered to Madam Eight-Legs; later disappearance/slime/dead grass preserved",
+      "basis": "Chinese target62"
+    },
+    {
+      "topic": "piranha_window",
+      "final": "Piranha Natteri: D individual / A group / 30 cm / 6th Ridge; Chinese coloration controls",
+      "basis": "Chinese target62 plus aligned E61 name form"
+    },
+    {
+      "topic": "mate_queue",
+      "final": "village women line up because Vikir is expected to be freed and may receive a mate",
+      "basis": "Chinese target62"
+    },
+    {
+      "topic": "aiyen_mutter",
+      "final": "referent is Vikir's recovery; retain 'do what a man is supposed to do' implication without graphic expansion",
+      "basis": "Chinese semantics cross-checked against E61"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
