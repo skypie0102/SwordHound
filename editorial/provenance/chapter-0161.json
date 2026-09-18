@@ -1,0 +1,66 @@
+{
+  "chapter": 161,
+  "title": "Familiar Face (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/161.txt",
+    "blob_sha": "73a757520b40ef0438a9b3873511f190cd16588d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-160.xhtml",
+    "blob_sha": "5c5e33eba33c4d9836193d6bbb29cca53770a817",
+    "target_alignment": 161,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0161.md",
+    "blob_sha": "b5d67f3439f03aedbdfc35499afffcae0c819ca6"
+  },
+  "qa": {
+    "path": "qa/chapter-0161.md",
+    "blob_sha": "022a581ee8322e8b4a1cb40b3d2b96590c44280e",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "geronto_power",
+      "final": "Geronto is a young female mage, at least fifth-circle and possibly sixth-circle",
+      "basis": "Chinese C161"
+    },
+    {
+      "topic": "geronto_not_camus",
+      "final": "Geronto is explicitly not Camus Morgue; physical mismatch and missing collarbone mole resolve the false lead",
+      "basis": "Chinese C161"
+    },
+    {
+      "topic": "grave_robbing",
+      "final": "Recent great-house grave robberies point to corpses themselves being harvested for undead creation",
+      "basis": "Chinese C161"
+    },
+    {
+      "topic": "four_masks",
+      "final": "All four black face coverings are recovered; combined demonic power approaches Beelzebub, exact later provenance withheld",
+      "basis": "Chinese C161 + reveal chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/162.txt",
+    "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
+    "english_path": "source/chapters/chapter-161.xhtml",
+    "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
+    "purpose": "both begin Sin and Punishment (1), target162"
+  }
+}
