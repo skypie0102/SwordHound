@@ -1,0 +1,47 @@
+{
+  "chapter": 84,
+  "title": "Lovesickness (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Lovesickness",
+    "range": [
+      83,
+      84
+    ],
+    "family_qa_path": "qa/families/lovesickness-0083-0084.md",
+    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/084.txt",
+    "primary_source_sha": "33dfc17db6705dd71aff5095081d95e7f903e55b",
+    "english_reference_path": "source/chapters/chapter-083.xhtml",
+    "english_reference_sha": "ab01dd2680467843c542744d55429afbe7b48113",
+    "draft_path": "manuscript/drafts/chapter-0084.md",
+    "draft_sha": "9808a44919d1c1d0f7e1303087f0487488ea4e2f",
+    "qa_path": "qa/chapter-0084.md",
+    "qa_sha": "5da7b3d290eed421d5ef58fcc74ebbbe12209744",
+    "provenance_path": "editorial/provenance/chapter-0084.json",
+    "provenance_sha": "8d2ca1fe26866818aa7df872437f213f87e49033"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Aiyen",
+    "Akwilla",
+    "Ahun",
+    "Aheul",
+    "Ballak Tribe",
+    "Rokoko",
+    "Leviathan Clan",
+    "Baskerville",
+    "Red Death",
+    "Saintess's Tears"
+  ],
+  "documented_limits": [
+    "Target 84 maps to E83.",
+    "Outside-tribe patient count is thousands, not tens of thousands.",
+    "Aiyen's final blush is the Lovesickness payoff, not Red Death."
+  ]
+}
