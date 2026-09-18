@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 169,
+  "accepted_count": 171,
   "staged_count": 0,
-  "next_chapter": 170,
+  "next_chapter": 172,
   "active_title_family": {
-    "name": "Adorable Pet",
+    "name": "The Anti-Columnist",
     "range": [
-      170,
-      171
+      172,
+      175
     ],
-    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 172,
-    "following_title": "The Anti-Columnist (1)",
-    "alignment_note": "170→E168,171→E169;172→E170"
+    "boundary_status": "verified four-part family; Chinese title wording drifts on parts3-4 but sequence/content and recovered witnesses remain contiguous",
+    "following_family_starts": 176,
+    "following_title": "The 99 Hits With 100 Shots (1)",
+    "alignment_note": "172→E170,173→E171,174→E172,175→E173;176→E174"
   },
   "chapters": [
     {
@@ -2381,6 +2381,34 @@
       "acceptance": "qa/acceptance/chapter-0169.json",
       "acceptance_sha": "08edcc902314005e912325dfaf5079bf432f016c",
       "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 170,
+      "title": "Adorable Pet (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/170.txt",
+      "english_mtl_reference": "source/chapters/chapter-168.xhtml",
+      "draft": "manuscript/drafts/chapter-0170.md",
+      "qa": "qa/chapter-0170.md",
+      "provenance": "editorial/provenance/chapter-0170.json",
+      "acceptance": "qa/acceptance/chapter-0170.json",
+      "acceptance_sha": "f5918bbed7a5e09c5f75c6e34339110a4bbf175f",
+      "family_qa": "qa/families/adorable-pet-0170-0171.md"
+    },
+    {
+      "chapter": 171,
+      "title": "Adorable Pet (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/171.txt",
+      "english_mtl_reference": "source/chapters/chapter-169.xhtml",
+      "draft": "manuscript/drafts/chapter-0171.md",
+      "qa": "qa/chapter-0171.md",
+      "provenance": "editorial/provenance/chapter-0171.json",
+      "acceptance": "qa/acceptance/chapter-0171.json",
+      "acceptance_sha": "a770115358baa0cbc98e3c31167a6b68f9b1df9c",
+      "family_qa": "qa/families/adorable-pet-0170-0171.md"
     }
   ]
 }
