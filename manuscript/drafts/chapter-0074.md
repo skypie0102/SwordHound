@@ -164,9 +164,9 @@ For an outsider to gain unrestricted permission to leave, tradition demanded two
 
 More than two years living with Ballak.
 
-And a permanent family bond inside the tribe, including children.
+And a family bond with a native Ballak, including at least three children.
 
-Vikir did not qualify cleanly under either requirement.
+Vikir met neither condition as Ballak law defined it.
 
 Yet he asked anyway.
 
