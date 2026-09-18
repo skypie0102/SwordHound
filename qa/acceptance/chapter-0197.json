@@ -1,0 +1,50 @@
+{
+  "chapter": 197,
+  "title": "Preparing for the Festival",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Preparing for the Festival",
+    "range": [
+      197,
+      197
+    ],
+    "family_qa_path": "qa/families/preparing-festival-0197.md",
+    "family_qa_sha": "623da8f71d31cb7a80109b99048f05a12d7affcd",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/197.txt",
+    "primary_source_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
+    "english_reference_path": "source/chapters/chapter-195.xhtml",
+    "english_reference_sha": "6251eaf6241f9afd29ca07314c3cd27019c79641",
+    "draft_path": "manuscript/drafts/chapter-0197.md",
+    "draft_sha": "eccfef53c50e5ad6f38f3d8713fc5f3e71443cbb",
+    "qa_path": "qa/chapter-0197.md",
+    "qa_sha": "860faaf83d5674c4d2ac2c0ac7635c2e17e34cde",
+    "provenance_path": "editorial/provenance/chapter-0197.json",
+    "provenance_sha": "e6224bb0718b66805c824c93f9c96d58d3c4d3f6"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Tudor Donquixote",
+    "Granola de Leviathan",
+    "Sinclaire",
+    "Bianca Fo Usher",
+    "Sancho Barataria",
+    "Pigi",
+    "Picaresque Mask",
+    "Cindywendy",
+    "Royal Martyrs' Cemetery",
+    "Ten Corpses",
+    "Dolores L. Quovadis",
+    "Choco"
+  ],
+  "documented_limits": [
+    "Target197 is a singleton bridge despite E195 suffix (1).",
+    "Ten Corpse connection remains Vikir's inference, not proof.",
+    "Festival TS shorthand is normalized to cross-dressing/gender-swap costuming."
+  ],
+  "next_family_alignment_note": "The Corpse Queen targets198-202: 198→E196 through 202→E200. C202 title shortens/drifts but remains part5. Target203→E201 begins Mixed Bath (1)."
+}

@@ -5,46 +5,46 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Attack Land acceptance checkpoint
-- **Working branch:** `editorial/restart-attack-land-0190-0196`
-- **Base main checkpoint:** `8bb96188c20a01e266727a96ad0acea3aebc08aa` (Aftermath checkpoint merged)
-- **Current PR:** #55 — `Rebuild Attack Land Chapters 190–196`
+- **Updated by:** ChatGPT — Preparing for the Festival acceptance checkpoint
+- **Working branch:** `editorial/restart-preparing-festival-0197`
+- **Base main checkpoint:** `137e3e14c9228164e0eef71e95912aaf7477eea4` (Attack Land checkpoint merged)
+- **Current PR:** #56 — `Rebuild Preparing for the Festival Chapter 197`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **196 / 500**
+- **Accepted:** **197 / 500**
 - **Staged:** **0**
-- **Next:** **197**
-- **Latest family:** targets **190–196 — Attack Land (1)–(7)**
-- **Family QA:** `qa/families/attack-land-0190-0196.md` — PASS — `78f579053e691c1060d1d470abb284c63b917d6c`
-- **Next bridge:** target **197 — Preparing for the Festival**
-- **Following family:** target **198 — The Corpse Queen (1)**
+- **Next:** **198**
+- **Latest family:** target **197 — Preparing for the Festival**
+- **Family QA:** `qa/families/preparing-festival-0197.md` — PASS — `623da8f71d31cb7a80109b99048f05a12d7affcd`
+- **Next family:** targets **198–202 — The Corpse Queen (1)–(5)**
+- **Following family:** target **203 — Mixed Bath (1)**
 
 ## Key decisions
 
-- Attack-test golems are professor-controlled humanoid avatars with remote-control handicaps.
-- Tudor 35 / Bianca 31 / Granola 35 / Sancho 17; Sinclaire 19.
-- **C192 sequence repair:** Pigi follows Sinclaire.
-- **C193 department repair:** Pigi remains Cold Department.
-- Pigi's one-point broken-blade strike creates the lower-abdomen weakness Vikir exploits.
-- Vikir signs Banshee's bodily-risk acknowledgment and deliberately takes Sadi's exam.
-- Vikir's public combat disclosure remains **Sword Expert Advanced**; C195 crowd Sword Master chatter is exaggeration.
-- Vikir cue: **“Blinded by anger. Where are you looking?”**
-- Returning-arrow eye injury is publicly/faculty-side an accident; reader-facing setup remains.
-- Vikir scores **40** and finishes first overall in the midterms.
-- Sadi removes/consumes the destroyed eye and intends to take over Cold Department after discipline.
-- Chapter 196 ends with Cindywendy's lead on the next Corpse.
+- Target 197 is a singleton bridge despite E195's title suffix.
+- Festival TS shorthand is normalized to cross-dressing / gender-swap costuming.
+- Vikir escapes festival styling with Picaresque dog form and uses his covert outer-wall route.
+- Cindywendy's intelligence marks Royal Martyrs' Cemetery as a dead zone where agents disappear.
+- Vikir suspects the fake Night Hound may be linked to one of the Ten Corpses; this is not yet proven.
+- Dolores continues calling dog-form Vikir Choco and quietly cares for strays.
+- Baskerville / Hugo remain on Vikir's revenge list after Andromalius.
 
-## Next boundary
+## Next family — The Corpse Queen 198–202
 
-- 197 → E195 — **Preparing for the Festival** — single-chapter bridge.
-- 198 → E196 — **The Corpse Queen (1)**.
+- 198 → E196
+- 199 → E197
+- 200 → E198
+- 201 → E199
+- 202 → E200
+- C202 raw title shortens/drifts but remains part 5.
+- boundary 203 → E201 begins **Mixed Bath (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Attack Land checkpoint PR.
-2. Fresh branch from merged main for target **197 — Preparing for the Festival**.
-3. Read C197 against E195 completely; use C198/E196 as boundary.
-4. Reconstruct/QA/provenance-bind/accept Chapter 197.
-5. Continue directly into **The Corpse Queen** family.
+1. Open/validate/merge the Chapter 197 checkpoint PR.
+2. Fresh branch from merged main for **The Corpse Queen 198–202**.
+3. Read C198–202 against E196–200 completely.
+4. Use C203/E201 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept all five chapters, then continue.

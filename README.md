@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **196 / 500 accepted; next Chapter 197.** Latest accepted family: **targets 190–196 — Attack Land (1)–(7)**.
+Current checkpoint: **197 / 500 accepted; next Chapter 198.** Latest accepted family: **target 197 — Preparing for the Festival**.
 
-The next verified boundary is **target 197 — Preparing for the Festival**, aligned to **E195**. Target 198 begins **The Corpse Queen (1)** and aligns to **E196**.
+The next verified family is **The Corpse Queen, targets 198–202**, mapped **198→E196 through 202→E200**. Target 203 begins **Mixed Bath (1)** and maps to E201.
 
 ## Current source policy
 
@@ -37,6 +37,16 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Preparing for the Festival bridge adds/revalidates:
+
+- **Target 197 is a singleton bridge** despite E195's “(1)” suffix.
+- **Festival TS tradition** — cross-dressing / gender-swap costuming.
+- **Royal Martyrs' Cemetery** — Cindywendy's intelligence dead zone.
+- **Ten Corpse connection** — Vikir inference only, not proof.
+- **Choco** — Dolores continues the dog-form naming thread.
+- **The Corpse Queen** — next family targets 198–202; witnesses E196–E200.
+- **Mixed Bath** begins target 203 / E201.
 
 The accepted Attack Land family adds/revalidates:
 
@@ -242,15 +252,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–196**:
+Current accepted production evidence covers targets **1–197**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0196.md`
-- `qa/chapter-0001.md` through `chapter-0196.md`
-- accepted family QA through `qa/families/attack-land-0190-0196.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0196.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0196.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0197.md`
+- `qa/chapter-0001.md` through `chapter-0197.md`
+- accepted family QA through `qa/families/preparing-festival-0197.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0197.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0197.json`
 
-Latest family QA: `qa/families/attack-land-0190-0196.md` — **PASS**.
+Latest family QA: `qa/families/preparing-festival-0197.md` — **PASS**.
 
 ## Editorial quality bar
 

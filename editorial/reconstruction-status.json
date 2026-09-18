@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 196,
+  "accepted_chapters": 197,
   "staged_chapters": 0,
-  "next_chapter": 197,
+  "next_chapter": 198,
   "latest_accepted_family": {
-    "name": "Attack Land",
-    "range": [
-      190,
-      196
-    ],
-    "family_qa": "qa/families/attack-land-0190-0196.md"
-  },
-  "next_title_family": {
     "name": "Preparing for the Festival",
     "range": [
       197,
       197
     ],
-    "boundary_status": "verified single-chapter bridge",
-    "following_family_starts": 198,
-    "following_title": "The Corpse Queen (1)",
-    "alignment_note": "197→E195;198→E196"
+    "family_qa": "qa/families/preparing-festival-0197.md"
+  },
+  "next_title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "boundary_status": "verified five-part family; C202 raw title shortens/drifts but remains part5",
+    "following_family_starts": 203,
+    "following_title": "Mixed Bath (1)",
+    "alignment_note": "198→E196,199→E197,200→E198,201→E199,202→E200;203→E201"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -258,22 +258,18 @@
     193,
     194,
     195,
-    196
+    196,
+    197
   ],
   "notes": [
-    "Chapters 190-196 are accepted as Attack Land (1)-(7).",
-    "Attack test uses professor-controlled humanoid golems with remote synchronization/distance handicaps.",
-    "Tudor scores35, Bianca31, Granola35; Sancho scores17 under Sadi.",
-    "Sinclaire scores19 after triple Class3 fire/ice/wind casting and severe injury.",
-    "C192 final-name slip is repaired: Pigi is called after Sinclaire; C193 confirms sequence.",
-    "C193 department-label drift is repaired: Pigi remains Cold Department.",
-    "Pigi earns1 by embedding a broken blade in the golem lower abdomen; this creates the weakness Vikir later exploits.",
-    "Vikir's public combat disclosure remains Sword Expert Advanced; crowd Sword Master talk in C195 is in-world exaggeration.",
-    "Vikir lip line: Blinded by anger. Where are you looking?",
-    "Returning-arrow eye injury remains publicly accidental while reader-facing setup is preserved.",
-    "Vikir scores40 in Attack and finishes first overall in the midterms.",
-    "Sadi removes/consumes the destroyed eye and declares intent to take over Cold Department after discipline.",
-    "Next target197→E195 is single Preparing for the Festival bridge; target198→E196 begins The Corpse Queen (1).",
+    "Chapter197 is accepted as the singleton Preparing for the Festival bridge.",
+    "Festival prep follows Colosseo's study-hard/play-hard tradition; Banshee resists shortened classes on tuition/student-rights grounds before dismissing distracted students.",
+    "Source TS shorthand is normalized to the Academy's cross-dressing/gender-swap festival costume tradition.",
+    "Vikir escapes festival styling with Picaresque dog form and uses his covert outer-wall route.",
+    "Cindywendy intelligence points to the Royal Martyrs' Cemetery, where agents disappear; Vikir suspects the so-called copycat may be connected to one of the Ten Corpses.",
+    "That Ten Corpse connection is Vikir's inference, not proven fact.",
+    "Dolores feeds/cleans up after strays without credit, calls dog-form Vikir Choco, and considers dorm-pet restrictions because of abandonment.",
+    "Next family targets198-202 — The Corpse Queen (1)-(5), mapped 198→E196 through 202→E200. Target203→E201 begins Mixed Bath (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

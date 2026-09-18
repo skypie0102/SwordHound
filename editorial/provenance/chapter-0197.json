@@ -1,0 +1,66 @@
+{
+  "chapter": 197,
+  "title": "Preparing for the Festival",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Preparing for the Festival",
+    "range": [
+      197,
+      197
+    ],
+    "family_qa_path": "qa/families/preparing-festival-0197.md",
+    "family_qa_sha": "623da8f71d31cb7a80109b99048f05a12d7affcd",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/197.txt",
+    "blob_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-195.xhtml",
+    "blob_sha": "6251eaf6241f9afd29ca07314c3cd27019c79641",
+    "target_alignment": 197,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0197.md",
+    "blob_sha": "eccfef53c50e5ad6f38f3d8713fc5f3e71443cbb"
+  },
+  "qa": {
+    "path": "qa/chapter-0197.md",
+    "blob_sha": "860faaf83d5674c4d2ac2c0ac7635c2e17e34cde",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "single_bridge",
+      "final": "Treat target197 as a singleton Preparing for the Festival bridge despite E195 suffix (1)",
+      "basis": "C197/C198 boundary + E195/E196"
+    },
+    {
+      "topic": "festival_ts",
+      "final": "Render source TS shorthand as cross-dressing / gender-swap festival costuming",
+      "basis": "Chinese C197 context"
+    },
+    {
+      "topic": "cemetery",
+      "final": "Use Royal Martyrs' Cemetery and keep Ten Corpses link as Vikir inference, not proof",
+      "basis": "C197 + accepted Aftermath terminology"
+    },
+    {
+      "topic": "choco",
+      "final": "Dolores continues calling Picaresque-dog Vikir Choco",
+      "basis": "Chinese C197 + accepted C177 continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/198.txt",
+    "chinese_sha": "d26aee9e8aaf10e8255528cced4cc9b7a8c8d296",
+    "english_path": "source/chapters/chapter-196.xhtml",
+    "english_sha": "644da488da68df85b1487d0a5aae178a9c0484d2",
+    "purpose": "both begin The Corpse Queen (1), target198"
+  }
+}

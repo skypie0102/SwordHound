@@ -784,3 +784,14 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Preparing for the Festival** — target 197 / E195; verified single-chapter bridge.
 - **The Corpse Queen** — begins target 198 / E196.
 
+## Preparing for the Festival additions — Chapter 197
+
+- **Preparing for the Festival** — singleton production bridge title for target 197 / E195.
+- **Festival TS tradition** — normalized to cross-dressing / gender-swap costume custom.
+- **Royal Martyrs' Cemetery** — Cindywendy's dead-zone investigation target; agents have disappeared there.
+- **Copycat / Ten Corpse link** — Vikir suspects a connection; not yet proven.
+- **Choco** — Dolores continues using the name for Picaresque-dog Vikir.
+- **Dorm-pet policy** — Dolores considers restrictions because of abandoned animals while personally caring for strays.
+- **The Corpse Queen** — next verified family targets 198–202; witnesses E196–E200.
+- **Mixed Bath** — begins target 203 / E201.
+

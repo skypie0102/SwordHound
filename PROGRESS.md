@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Preparing for the Festival accepted
+
+**Current state:** 197 / 500 accepted; 0 staged; next Chapter 198.
+
+Completed target 197 with mapping **197→E195**.
+
+Key decisions: this is a singleton bridge despite E195's “(1)” suffix; source TS is normalized to festival cross-dressing/gender-swap costuming; Vikir escapes in Picaresque dog form; Cindywendy's Royal Martyrs' Cemetery intelligence points toward a possible Ten Corpse connection; Dolores continues the Choco/stray-animal thread.
+
+Family QA: `qa/families/preparing-festival-0197.md` — **PASS**.
+
+Next verified family: **198–202 — The Corpse Queen (1)–(5)**. Target **203** begins *Mixed Bath (1)*.
+
 ## 2026-09-18 — Attack Land (1)–(7) accepted
 
 **Current state:** 196 / 500 accepted; 0 staged; next Chapter 197.

@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 196,
+  "accepted_count": 197,
   "staged_count": 0,
-  "next_chapter": 197,
+  "next_chapter": 198,
   "active_title_family": {
-    "name": "Preparing for the Festival",
+    "name": "The Corpse Queen",
     "range": [
-      197,
-      197
+      198,
+      202
     ],
-    "boundary_status": "verified single-chapter bridge",
-    "following_family_starts": 198,
-    "following_title": "The Corpse Queen (1)",
-    "alignment_note": "197→E195;198→E196"
+    "boundary_status": "verified five-part family; C202 raw title shortens to Corpse King but sequence/witnesses establish part5",
+    "following_family_starts": 203,
+    "following_title": "Mixed Bath (1)",
+    "alignment_note": "198→E196,199→E197,200→E198,201→E199,202→E200;203→E201"
   },
   "chapters": [
     {
@@ -2759,6 +2759,20 @@
       "acceptance": "qa/acceptance/chapter-0196.json",
       "acceptance_sha": "c4de2376b20bf20862668ce44e7338d8693c93f8",
       "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 197,
+      "title": "Preparing for the Festival",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/197.txt",
+      "english_mtl_reference": "source/chapters/chapter-195.xhtml",
+      "draft": "manuscript/drafts/chapter-0197.md",
+      "qa": "qa/chapter-0197.md",
+      "provenance": "editorial/provenance/chapter-0197.json",
+      "acceptance": "qa/acceptance/chapter-0197.json",
+      "acceptance_sha": "01c234e83b77a4e26060c21d6d48a90b3505d091",
+      "family_qa": "qa/families/preparing-festival-0197.md"
     }
   ]
 }
