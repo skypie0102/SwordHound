@@ -1,0 +1,41 @@
+{
+  "chapter": 144,
+  "title": "Volunteering for the Golden Week (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/144.txt",
+    "primary_source_sha": "43d63f5de1a8c5ca09a312cf3423fc6b8f84d527",
+    "english_reference_path": "source/chapters/chapter-143.xhtml",
+    "english_reference_sha": "78c627bafc6d401f82b38e86daf91460ab6e7add",
+    "draft_path": "manuscript/drafts/chapter-0144.md",
+    "draft_sha": "6e1515677672f9cca72558a3e136356235dd18a6",
+    "qa_path": "qa/chapter-0144.md",
+    "qa_sha": "b17f08091e17f7f225d6cf4fed52aa0fd96c8cc0",
+    "provenance_path": "editorial/provenance/chapter-0144.json",
+    "provenance_sha": "397c824c0c716366be1a7545f53eead12a73e1ea"
+  },
+  "canonical_checks": [
+    "Golden Week",
+    "Old Testament Faction",
+    "New Testament Faction",
+    "Quilt Rune Indulgentia",
+    "Sinclaire"
+  ],
+  "documented_limits": [
+    "Quilt's later demon identity remains spoiler-guarded.",
+    "Newspaper/public Night Hound framing remains in-world reporting, not established guilt.",
+    "Orphanage irregularities are Vikir's source-timed suspicions."
+  ]
+}
