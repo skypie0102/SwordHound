@@ -570,3 +570,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Identity of the Villain** — next verified family targets 141–143, witnesses E140–E142.
 - **Volunteering for the Golden Week** — begins target 144 / E143.
 
+## Identity of the Villain additions — Chapters 141–143
+
+- **Identity of the Villain** — accepted production family title for targets 141–143; shifted witnesses E140–E142.
+- **Ryukeion (Λύκειον)** — Colosseo's small but influential newspaper club; witness spelling resolves corrupted Chinese extraction glyphs.
+- **Night Hound public name** — coined when Dolores unconsciously murmurs the phrase in target 141; newspaper/public suspicion is not proof that Vikir killed the drained orphanage children.
+- **Vikir at eighteen** — target 141 explicitly states he has just turned eighteen; current realm remains **Peak Sword Graduator**.
+- **Seventh Fang** — still incomplete and Vikir's immediate mastery target.
+- **Dolores evidence standard** — despite secretly hiding the Night Hound mask, she orders Ryukeion to remove unsupported speculation and wait for hard evidence.
+- **Professor Banshee Morgue / Ryukeion** — Banshee is the conservative faculty advisor who favors explicitly framing Night Hound as a villain.
+- **Academy route reconnaissance** — Vikir intentionally probes restricted passages for nighttime ingress/egress while claiming poor direction sense.
+- **Golden Week** — ten-day Academy break formed by weekend/anniversary/Resurrection Festival timing.
+- **Indulgentia Orphanage** — off-campus service destination operated by the Indulgentia collateral branch of Quovadis.
+- **Quilt Rune Indulgentia** — accepted canonical form for the Indulgentia family head/orphanage director introduced in target 143. Do not import later demon/Corpse identity before source reveal.
+- **Volunteering for the Golden Week** — next verified family targets 144–149; witnesses E143–E148.
+- **Not Brother, But Uncle** — begins target 150 / E149.
+

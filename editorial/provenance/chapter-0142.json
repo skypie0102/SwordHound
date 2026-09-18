@@ -1,0 +1,66 @@
+{
+  "chapter": 142,
+  "title": "Identity of the Villain (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Identity of the Villain",
+    "range": [
+      141,
+      143
+    ],
+    "family_qa_path": "qa/families/identity-villain-0141-0143.md",
+    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/142.txt",
+    "blob_sha": "0ba20650ef1b656b0b421efa292ce158f92daaf9",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-141.xhtml",
+    "blob_sha": "0bafb0a12533c20cff638df9784cbc7818d03fa8",
+    "target_alignment": 142,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0142.md",
+    "blob_sha": "9f800cc8247efee7ed9317f0857d1c94e1660923"
+  },
+  "qa": {
+    "path": "qa/chapter-0142.md",
+    "blob_sha": "0996f5e528c75d1b28c922e9f581c2be4c6df6f6",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_mask",
+      "final": "Dolores recognizes and secretly retains the half-burned Night Hound mask, creating a real evidence-obstruction conflict",
+      "basis": "Chinese C142"
+    },
+    {
+      "topic": "journalistic_standard",
+      "final": "Dolores orders neutral reporting and removal of unsupported speculation despite her personal trust in the Night Hound",
+      "basis": "Chinese C142"
+    },
+    {
+      "topic": "vikir_villain_answer",
+      "final": "Vikir's claim that the Night Hound is a villain is self-condemnation rooted in survivor guilt, not narrator judgment",
+      "basis": "Chinese C142"
+    },
+    {
+      "topic": "future_dolores",
+      "final": "Retain Vikir's source-timed memory of older Dolores leading Paladins without importing later villain/demon identities",
+      "basis": "Chinese C142"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/144.txt",
+    "chinese_sha": "43d63f5de1a8c5ca09a312cf3423fc6b8f84d527",
+    "english_path": "source/chapters/chapter-143.xhtml",
+    "english_sha": "78c627bafc6d401f82b38e86daf91460ab6e7add",
+    "purpose": "both begin Volunteering for the Golden Week (1), target144"
+  }
+}

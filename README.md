@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **140 / 500 accepted; next Chapter 141.** Latest accepted family: **targets 139–140 — Men are Power (1)–(2)**.
+Current checkpoint: **143 / 500 accepted; next Chapter 144.** Latest accepted family: **targets 141–143 — Identity of the Villain (1)–(3)**.
 
-The next verified family is **Identity of the Villain, targets 141–143**, mapped **141→E140, 142→E141, 143→E142**. Target 144 begins **Volunteering for the Golden Week (1)** and maps to E143.
+The next verified family is **Volunteering for the Golden Week, targets 144–149**, mapped **144→E143 through 149→E148**. Target 150 begins **Not Brother, But Uncle (1)** and maps to E149.
 
 ## Current source policy
 
@@ -37,6 +37,17 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Identity of the Villain family adds/revalidates:
+
+- **Identity of the Villain** — accepted production family title for targets 141–143; witnesses E140–E142.
+- **Ryukeion (Λύκειον)** — Academy newspaper club name resolved from the aligned witness.
+- **Night Hound** — public nickname coined by Dolores; public suspicion remains separate from proof of the children's deaths.
+- **Dolores L. Quovadis** — hidden-mask conflict plus evidence-first journalism standard preserved.
+- **Vikir** — eighteen; Peak Sword Graduator; Seventh Fang still incomplete.
+- **Quilt Rune Indulgentia** — introduced only as Indulgentia head/director and Vikir's next target.
+- **Volunteering for the Golden Week** — next family targets 144–149; witnesses E143–E148.
+- **Not Brother, But Uncle** begins target 150 / E149.
 
 The accepted Men are Power family adds/revalidates:
 
@@ -93,15 +104,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–140**:
+Current accepted production evidence covers targets **1–143**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0140.md`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0143.md`
 - `qa/chapter-0001.md` through `chapter-0138.md`
-- accepted family QA through `qa/families/men-are-power-0139-0140.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0140.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0140.json`
+- accepted family QA through `qa/families/identity-villain-0141-0143.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0143.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0143.json`
 
-Latest family QA: `qa/families/men-are-power-0139-0140.md` — **PASS**.
+Latest family QA: `qa/families/identity-villain-0141-0143.md` — **PASS**.
 
 ## Editorial quality bar
 

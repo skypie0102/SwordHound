@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 140,
+  "accepted_count": 143,
   "staged_count": 0,
-  "next_chapter": 141,
+  "next_chapter": 144,
   "active_title_family": {
-    "name": "Identity of the Villain",
+    "name": "Volunteering for the Golden Week",
     "range": [
-      141,
-      143
+      144,
+      149
     ],
-    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 144,
-    "following_title": "Volunteering for the Golden Week (1)",
-    "alignment_note": "141→E140,142→E141,143→E142;144→E143"
+    "boundary_status": "verified six-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 150,
+    "following_title": "Not Brother, But Uncle (1)",
+    "alignment_note": "144→E143,145→E144,146→E145,147→E146,148→E147,149→E148;150→E149"
   },
   "chapters": [
     {
@@ -1975,6 +1975,48 @@
       "acceptance": "qa/acceptance/chapter-0140.json",
       "acceptance_sha": "2e2ff02e1e13c6b8cde0115697ea9485009e9bd4",
       "family_qa": "qa/families/men-are-power-0139-0140.md"
+    },
+    {
+      "chapter": 141,
+      "title": "Identity of the Villain (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/141.txt",
+      "english_mtl_reference": "source/chapters/chapter-140.xhtml",
+      "draft": "manuscript/drafts/chapter-0141.md",
+      "qa": "qa/chapter-0141.md",
+      "provenance": "editorial/provenance/chapter-0141.json",
+      "acceptance": "qa/acceptance/chapter-0141.json",
+      "acceptance_sha": "3b43b9acc2eb233b8b8c85f9d44f4369587e4cb1",
+      "family_qa": "qa/families/identity-villain-0141-0143.md"
+    },
+    {
+      "chapter": 142,
+      "title": "Identity of the Villain (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/142.txt",
+      "english_mtl_reference": "source/chapters/chapter-141.xhtml",
+      "draft": "manuscript/drafts/chapter-0142.md",
+      "qa": "qa/chapter-0142.md",
+      "provenance": "editorial/provenance/chapter-0142.json",
+      "acceptance": "qa/acceptance/chapter-0142.json",
+      "acceptance_sha": "79f4e117fd72cee11b7182d4e3f673b2caf77cff",
+      "family_qa": "qa/families/identity-villain-0141-0143.md"
+    },
+    {
+      "chapter": 143,
+      "title": "Identity of the Villain (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/143.txt",
+      "english_mtl_reference": "source/chapters/chapter-142.xhtml",
+      "draft": "manuscript/drafts/chapter-0143.md",
+      "qa": "qa/chapter-0143.md",
+      "provenance": "editorial/provenance/chapter-0143.json",
+      "acceptance": "qa/acceptance/chapter-0143.json",
+      "acceptance_sha": "6d21df2275bf509c06be32d8adbed4352f7852a9",
+      "family_qa": "qa/families/identity-villain-0141-0143.md"
     }
   ]
 }

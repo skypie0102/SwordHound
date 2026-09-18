@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Identity of the Villain (1)–(3) accepted
+
+**Current state:** 143 / 500 accepted; 0 staged; next Chapter 144.
+
+Completed targets 141–143 with mapping **141→E140 through 143→E142**.
+
+Key decisions: public **Night Hound** naming is separated from proof of guilt; Vikir remains Peak Sword Graduator and eighteen; **Seventh Fang** remains incomplete; **Ryukeion** resolves the corrupted newspaper-club label; Dolores's hidden-mask conflict and evidence-first journalism standard are preserved; Vikir's “villain” answer remains self-condemnation; his Academy demerits are deliberate route reconnaissance; and **Quilt Rune Indulgentia** is introduced only as the Indulgentia head/director and Vikir's next target, with later identity spoilers excluded.
+
+Family QA: `qa/families/identity-villain-0141-0143.md` — **PASS**.
+
+Next verified family: **144–149 — Volunteering for the Golden Week (1)–(6)**. Target **150** begins *Not Brother, But Uncle (1)*.
+
 ## 2026-09-18 — Men are Power (1)–(2) accepted
 
 **Current state:** 140 / 500 accepted; 0 staged; next Chapter 141.

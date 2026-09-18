@@ -1,0 +1,42 @@
+{
+  "chapter": 141,
+  "title": "Identity of the Villain (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Identity of the Villain",
+    "range": [
+      141,
+      143
+    ],
+    "family_qa_path": "qa/families/identity-villain-0141-0143.md",
+    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/141.txt",
+    "primary_source_sha": "edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06",
+    "english_reference_path": "source/chapters/chapter-140.xhtml",
+    "english_reference_sha": "2b0e8524960469cb4000cfb7d29eb1a3941d20c9",
+    "draft_path": "manuscript/drafts/chapter-0141.md",
+    "draft_sha": "0444d749211982f1c05c9b5d8c612105554aba67",
+    "qa_path": "qa/chapter-0141.md",
+    "qa_sha": "e01ae5ba7e50ecd70e657cd3b1f14c19a13300d1",
+    "provenance_path": "editorial/provenance/chapter-0141.json",
+    "provenance_sha": "79ceab37366e5d51d32e07bffa3db46cac6b3982"
+  },
+  "canonical_checks": [
+    "Night Hound",
+    "Ryukeion",
+    "Peak Sword Graduator",
+    "Seventh Fang",
+    "Dolores L. Quovadis",
+    "Cindywendy"
+  ],
+  "documented_limits": [
+    "Ephebo's later master/Corpse information remains spoiler-guarded.",
+    "Night Hound is a newspaper/public label, not proof of responsibility for the drained children.",
+    "Vikir's formal realm remains Peak Sword Graduator."
+  ]
+}
