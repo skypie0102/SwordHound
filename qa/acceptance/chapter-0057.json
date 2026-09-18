@@ -1,0 +1,40 @@
+{
+  "chapter": 57,
+  "title": "The Hunter and the Hunted (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_partial_english_overlap_only",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/057.txt",
+    "primary_source_sha": "f54503f85e50714fca60b34ff319f4f7ae46166b",
+    "english_reference_path": "source/chapters/chapter-056.xhtml",
+    "english_reference_sha": "684b391e07bb916d944c1bea14ff642eb3007cac",
+    "draft_path": "manuscript/drafts/chapter-0057.md",
+    "draft_sha": "d899cea4cc984265211b60bea59fd46a545ee431",
+    "qa_path": "qa/chapter-0057.md",
+    "qa_sha": "7f071afca07011058b38a354d119dac7bc5c7f48",
+    "provenance_path": "editorial/provenance/chapter-0057.json",
+    "provenance_sha": "15b2a77a50c8af73815dcdfcf84d9dc81563539e"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Ahun",
+    "Ballak Tribe",
+    "Oxbear"
+  ],
+  "documented_limits": [
+    "No clean standalone recovered-English chapter maps to target 57.",
+    "E56 overlaps only part of the Oxbear-selection setup; E57 begins target 58.",
+    "Reproductive mate-selection material remains clinical/non-erotic."
+  ]
+}
