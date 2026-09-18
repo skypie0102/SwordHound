@@ -1,0 +1,41 @@
+{
+  "chapter": 134,
+  "title": "Test Your Skills (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/134.txt",
+    "primary_source_sha": "9b9b0af21b579f22a61526f7fdd630b91f36d66a",
+    "english_reference_path": "source/chapters/chapter-133.xhtml",
+    "english_reference_sha": "94b7abee253add2260a8d236253082e389515ec6",
+    "draft_path": "manuscript/drafts/chapter-0134.md",
+    "draft_sha": "7abe385e58ba6218128c3fed6f2abde56a1cca27",
+    "qa_path": "qa/chapter-0134.md",
+    "qa_sha": "99e979b4876813558e6d52963c35eec720039237",
+    "provenance_path": "editorial/provenance/chapter-0134.json",
+    "provenance_sha": "406c22fd245aa108e4a05ddb1f8e33dfbfc59d4d"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Dark Faction",
+    "Ninth Corpse",
+    "Ballak Tribe",
+    "Cindywendy"
+  ],
+  "documented_limits": [
+    "Ninth Corpse remains a suspicion only; no host/identity is imported.",
+    "Written/theory exam replaces witness handwriting drift.",
+    "Ballak old-settlement details are source-safe after relocation."
+  ]
+}
