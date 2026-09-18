@@ -2,42 +2,46 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 178  
+**Accepted:** 185  
 **Staged:** 0  
-**Next chapter:** 179
+**Next chapter:** 186
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 172–175 — *The Anti-Columnist (1)–(4)*
 - Chapters 176–178 — *The 99 Hits With 100 Shots (1)–(3)*
+- Chapters 179–185 — *Midterm Random Defense (1)–(7)*
 
-Latest family QA: `qa/families/99-hits-0176-0178.md` — **PASS**.
+Latest family QA: `qa/families/midterm-random-defense-0179-0185.md` — **PASS**.
 
-## The 99 Hits With 100 Shots family decisions
+## Midterm Random Defense family decisions
 
-- Verified mapping: **176→E174, 177→E175, 178→E176**.
-- **Bianca Fo Usher** remains the no-mana 100-meter archery benchmark.
-- Bianca scores **1,437 / 1,440** from 141 tens and 3 nines.
-- Vikir scores **1,436 / 1,440** from 143 tens and one six.
-- Vikir's lone apparent miss deliberately pins a **mosquito** on the six-ring; only Bianca notices.
-- Vikir's archery is Ballak-derived; canonical **Akwilla, Ahun, Aheul, Bakilaga Juragio, Aiyen** forms control.
-- Vikir's Aiyen keepsake remains the leather collar made from the first ox-bear they hunted together.
-- Vikir uses **Picaresque / Human Face, Beast Heart** to avoid Dolores by becoming a small black dog.
-- Dolores realizes the dog is male, treats herself as its big sister, names it **Choco**, and causes Vikir to flee with a neutering remark.
-- **Granola de Leviathan** endures 7× gravity for 30+ minutes without mana.
-- Vikir ultimately reaches **12× gravity without mana**.
-- Source explanations for Vikir's body remain River Styx exposure, childhood conditioning, survival experience, Beelzebub-linked reinforcement, and regeneration.
-- Bianca confronts Vikir over the mosquito and the earlier Freshman Welcome Day rum-rooftop clue.
-- Tudor/Bianca eventual romance is Vikir's prior-life future knowledge only.
-- **Baby Madam** has digested Granola's weak poison and is promised more during the practical midterm.
+- Verified mapping: **179→E177 through 185→E183**.
+- Midterm weights: **Defense 50% / Attack 40% / written 10%**.
+- Defense uses four-person teams, HP suits, kill/assist points, survival-time scoring, hologram-covered clay golems, and real diluted poison.
+- Production monster/map terms: **Killer Ant / Filthy Spawning Grounds**.
+- Group 69 = Vikir + **Highbro / Middlebro / Lowbro**; the triplets' public bullying posture is cover for private sworn obedience.
+- Group 69 final score: **2,253** after 19:50.
+- Group 108 = Tudor / Sancho / Pigi / Bianca; Pigi's tactical command is central to the team's efficiency.
+- Group 108 final score: **2,269** after 19:52.
+- Phase 2 is an unintended malfunction.
+- **Baby Madam** causes the phase continuation after gorging on poison, molting, and becoming detectable as a strong living signal.
+- **Professor Banshee Morgue** holds barrier Key A; **Professor Sadi** holds Key B and is absent.
+- Dolores is willing to destroy the Academy's magic stone rather than let trapped students die.
+- Vikir uses **Picaresque dog form** and a remembered northwest barrier flaw roughly seven meters underground to enter covertly.
+- Worker Ant window: **Danger Rating C / 1 m**.
+- Soldier Ant window: **Danger Rating B+ / 5 m**.
+- Vikir explicitly keeps the rescue at **Expert-level output** and does not expose Graduator aura.
+- C185's raw rank wording is normalized to **intermediate-to-advanced Sword Expert aura** under the aligned witness and surrounding no-Graduator constraint.
+- Pigi's source-revealed childhood history remains spoiler-guarded beyond the biological-father rejection / mother escape / loving stepfather material.
+- Vikir closes the family at **HP 100 / Kill 968 / Assist 5,321**, having pushed the swarm backward.
 
 ## Next verified title family
 
-- **Targets 179–185 — Midterm Random Defense (1)–(7)**
-- Mapping: **179→E177, 180→E178, 181→E179, 182→E180, 183→E181, 184→E182, 185→E183**
-- Target 186 begins **Aftermath (1)** and aligns to **E184**.
+- **Targets 186–189 — Aftermath (1)–(4)**
+- Mapping: **186→E184, 187→E185, 188→E186, 189→E187**
+- Target 190 begins **Attack Land (1)** and aligns to **E188**.
 
 ## Source authority
 
@@ -45,4 +49,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **The 99 Hits With 100 Shots, targets 176–178** checkpoint, then branch from merged main for **Midterm Random Defense, targets 179–185**. Read C179–185 against E177–183 completely, with C186/E184 as the next-family boundary.
+Merge the clean **Midterm Random Defense, targets 179–185** checkpoint, then branch from merged main for **Aftermath, targets 186–189**. Read C186–189 against E184–187 completely, with C190/E188 as the next-family boundary.
