@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Hound of the Night acceptance checkpoint
 - **Working branch:** `editorial/restart-hound-night-family`
 - **Base main checkpoint:** `363e0a3b3d7659e5eb3e52944fdceb01b0ffed6c` (PR #27, The Red Death 72–74, merged)
-- **Current PR:** pending
+- **Current PR:** #28 — `Rebuild The Hound of the Night Chapters 75–77`
+- **Pre-PR-stamp branch head:** `ba6547490972789b28026919d57d8f075759bb39`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
