@@ -1,0 +1,41 @@
+{
+  "chapter": 212,
+  "title": "Festival Night (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/212.txt",
+    "primary_source_sha": "6e5d9e92fbde34d10a0cc7a5393014ca7a59e8c7",
+    "english_reference_path": "source/chapters/chapter-210.xhtml",
+    "english_reference_sha": "4e89eac5abc89e36d226026f98c8cfc8799f80a8",
+    "draft_path": "manuscript/drafts/chapter-0212.md",
+    "draft_sha": "0e166092e239bd215f5b9434af91e77b4503feb8",
+    "qa_path": "qa/chapter-0212.md",
+    "qa_sha": "3f44022e8e68d11e7ca84b870273d6e688f51817",
+    "provenance_path": "editorial/provenance/chapter-0212.json",
+    "provenance_sha": "82611bac355cdddc9fa3d4c4f4671a66f9ca3b17"
+  },
+  "canonical_checks": [
+    "Corpse Queen",
+    "Seere",
+    "Rosie",
+    "Night Hound"
+  ],
+  "documented_limits": [
+    "Queen and Seere each control half the day; midnight passes the body to Seere.",
+    "The person sought through Seere remains unnamed.",
+    "Night Hound-costumed cliffhanger is not treated as true Night Hound until C213 resolves it."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
