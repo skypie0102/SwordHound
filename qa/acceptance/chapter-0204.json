@@ -1,0 +1,46 @@
+{
+  "chapter": 204,
+  "title": "Mixed Bath (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Mixed Bath",
+    "range": [
+      203,
+      205
+    ],
+    "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
+    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/204.txt",
+    "primary_source_sha": "2dfd23637cf347377008223498d64b8609285f81",
+    "english_reference_path": "source/chapters/chapter-202.xhtml",
+    "english_reference_sha": "dd261c717a711ac0de17ef4b0106dd4a3f511754",
+    "draft_path": "manuscript/drafts/chapter-0204.md",
+    "draft_sha": "31756ca9ddf560d68da233ca90cc16f5770efd7f",
+    "qa_path": "qa/chapter-0204.md",
+    "qa_sha": "682493d918203a142af6bd85d43903d5541f26fd",
+    "provenance_path": "editorial/provenance/chapter-0204.json",
+    "provenance_sha": "4e8c3cfb27ba32d8e593131e16ebc26b182cfeaf"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Quovadis",
+    "Rune",
+    "Choco",
+    "Iron Saintess",
+    "Peak Sword Graduator",
+    "Sword Master",
+    "Sixth Fang",
+    "Seventh Fang"
+  ],
+  "documented_limits": [
+    "Animal-abuse/serial-killer statement remains Dolores's dialogue.",
+    "Bath sequence remains non-explicit.",
+    "Emotion paradox remains unresolved."
+  ],
+  "next_family_alignment_note": "Target206→E204 begins Festival Night (1)."
+}
