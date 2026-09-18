@@ -750,3 +750,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Aftermath** — next verified family targets 186–189; witnesses E184–E187.
 - **Attack Land** — begins target 190 / E188.
 
+## Aftermath additions — Chapters 186–189
+
+- **Aftermath** — accepted production family title for targets 186–189; shifted witnesses E184–E187.
+- **42:13 rescue delay** — time before Key B is recovered and the arena barrier is opened.
+- **Vikir public rank guard** — Sword Expert Advanced; isolated C186 Sword Master wording rejected under aligned witness / no-Graduator continuity.
+- **Killer Ant research paper** — Worker Ant bio-compass + Soldier Ant skull weakness formalized.
+- **Vikir practical record** — reported as 9,889 points.
+- **Two Night Hound copycats** — one admiration-motivated, one motive unknown; crimes remain separate from Vikir.
+- **Osiris Le Baskerville** — reported leaving the family and heading toward the Imperial Capital.
+- **Professor Sadi** — Donatien Alphonse François Sadi de Sade; Vikir's assigned Attack-test examiner.
+- **Sadi reputation guard** — abuse / severe trauma / sexual-humiliation claims are attributed rumors and reputation, not narrator-proven motive.
+- **Mr. Pringles / Languid Noon, Moustache** — aligned-witness café forms.
+- **House Bourgeois reserve** — Vikir avoids Cindywendy money trails and preserves Bourgeois resources as a later strategic card.
+- **Attack Land** — next verified family targets 190–196; witnesses E188–E194.
+- **Preparing for the Festival** — begins target 197 / E195.
+

@@ -1,0 +1,43 @@
+{
+  "chapter": 189,
+  "title": "Aftermath (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Aftermath",
+    "range": [
+      186,
+      189
+    ],
+    "family_qa_path": "qa/families/aftermath-0186-0189.md",
+    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/189.txt",
+    "primary_source_sha": "2188f948c27048203ba56cbf384f07b1bf694ba1",
+    "english_reference_path": "source/chapters/chapter-187.xhtml",
+    "english_reference_sha": "3119e723eebdb865b487235d4297024272f031f0",
+    "draft_path": "manuscript/drafts/chapter-0189.md",
+    "draft_sha": "b8f18cba51c098537ac5d3e77d84af0d817c5adb",
+    "qa_path": "qa/chapter-0189.md",
+    "qa_sha": "3bbcb6d8f0592fcfee725ce7f03df050d3de1711",
+    "provenance_path": "editorial/provenance/chapter-0189.json",
+    "provenance_sha": "555a0244bf516b70e0e4f07330d001c8e39d7efa"
+  },
+  "canonical_checks": [
+    "Cindywendy",
+    "House Bourgeois",
+    "Mr. Pringles",
+    "Languid Noon, Moustache",
+    "Varangian",
+    "Night Hound"
+  ],
+  "documented_limits": [
+    "Vikir's planned part-time work is monster hunting, not cafe employment.",
+    "Varangian incident is copycat activity.",
+    "Copycat identities remain unrevealed."
+  ],
+  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1)."
+}

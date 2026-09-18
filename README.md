@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **185 / 500 accepted; next Chapter 186.** Latest accepted family: **targets 179–185 — Midterm Random Defense (1)–(7)**.
+Current checkpoint: **189 / 500 accepted; next Chapter 190.** Latest accepted family: **targets 186–189 — Aftermath (1)–(4)**.
 
-The next verified family is **Aftermath, targets 186–189**, mapped **186→E184 through 189→E187**. Target 190 begins **Attack Land (1)** and maps to E188.
+The next verified family is **Attack Land, targets 190–196**, mapped **190→E188 through 196→E194**. Target 197 begins **Preparing for the Festival (1)** and maps to E195.
 
 ## Current source policy
 
@@ -37,6 +37,17 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Aftermath family adds/revalidates:
+
+- **Vikir public rank = Sword Expert Advanced** — isolated C186 Sword Master drift rejected.
+- **Killer Ant research** — Worker bio-compass and Soldier skull weaknesses.
+- **Two Night Hound copycats** — separate from Vikir.
+- **Professor Sadi** — full canonical name and Attack-test assignment established.
+- **Sadi rumor guard** — abuse/trauma claims remain attributed.
+- **House Bourgeois reserve** — financial-cover strategy preserved.
+- **Attack Land** — next family targets 190–196; witnesses E188–E194.
+- **Preparing for the Festival** begins target 197 / E195.
 
 The accepted Midterm Random Defense family adds/revalidates:
 
@@ -219,15 +230,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–185**:
+Current accepted production evidence covers targets **1–189**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0185.md`
-- `qa/chapter-0001.md` through `chapter-0185.md`
-- accepted family QA through `qa/families/midterm-random-defense-0179-0185.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0185.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0185.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0189.md`
+- `qa/chapter-0001.md` through `chapter-0189.md`
+- accepted family QA through `qa/families/aftermath-0186-0189.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0189.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0189.json`
 
-Latest family QA: `qa/families/midterm-random-defense-0179-0185.md` — **PASS**.
+Latest family QA: `qa/families/aftermath-0186-0189.md` — **PASS**.
 
 ## Editorial quality bar
 

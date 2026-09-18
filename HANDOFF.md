@@ -5,51 +5,52 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Midterm Random Defense acceptance checkpoint
-- **Working branch:** `editorial/restart-midterm-random-defense-0179-0185`
-- **Base main checkpoint:** `bb7a871c5627b307177211b55f32139344b1c296` (99 Hits checkpoint merged)
-- **Current PR:** #53 — `Rebuild Midterm Random Defense Chapters 179–185`
+- **Updated by:** ChatGPT — Aftermath acceptance checkpoint
+- **Working branch:** `editorial/restart-aftermath-0186-0189`
+- **Base main checkpoint:** `faa86862d0f199677c9ae21d479ca55671089c80` (Midterm Random Defense checkpoint merged)
+- **Current PR:** #54 — `Rebuild Aftermath Chapters 186–189`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **185 / 500**
+- **Accepted:** **189 / 500**
 - **Staged:** **0**
-- **Next:** **186**
-- **Latest family:** targets **179–185 — Midterm Random Defense (1)–(7)**
-- **Family QA:** `qa/families/midterm-random-defense-0179-0185.md` — PASS — `5e3faad9482fbac0eae393e1b5d7b98293ae7ede`
-- **Next family:** targets **186–189 — Aftermath (1)–(4)**
-- **Following family:** target **190 — Attack Land (1)**
+- **Next:** **190**
+- **Latest family:** targets **186–189 — Aftermath (1)–(4)**
+- **Family QA:** `qa/families/aftermath-0186-0189.md` — PASS — `6eb3b97cbdf0e726c387f4ad5774e43548298cb9`
+- **Next family:** targets **190–196 — Attack Land (1)–(7)**
+- **Following family:** target **197 — Preparing for the Festival (1)**
 
 ## Key decisions
 
-- Midterm weights: Defense 50% / Attack 40% / written 10%.
-- **Killer Ant / Filthy Spawning Grounds** are the production monster/map terms.
-- Group 69 = Vikir + Highbro / Middlebro / Lowbro; score **2,253**.
-- Group 108 = Tudor / Sancho / Pigi / Bianca; score **2,269**.
-- Baby Madam's poison-fed molt creates the life signal that incorrectly advances the arena into Phase 2.
-- **Professor Banshee Morgue** holds Key A; **Professor Sadi** holds Key B and is absent.
-- Dolores is prepared to destroy the magic stone to save the trapped juniors.
-- Vikir enters through the remembered northwest barrier flaw using Picaresque dog form.
-- Worker Ant = Danger Rating C / 1 m.
-- Soldier Ant = Danger Rating B+ / 5 m.
-- Vikir keeps the rescue at Expert-level output and does not expose Graduator aura.
-- C185 rank drift is normalized to intermediate-to-advanced Sword Expert aura.
-- Pigi's childhood reveal remains spoiler-guarded beyond what this family states.
-- Vikir ends at **HP 100 / Kill 968 / Assist 5,321**.
+- Sadi's Key-B absence leads to a 42:13 rescue delay.
+- Vikir's public combat level remains **Sword Expert Advanced**; C186's isolated Sword Master phrase is rank drift.
+- Killer Ant research formalizes Worker bio-compass and Soldier skull weaknesses.
+- Cindywendy reports one-month analysis on the next Ten Corpses clue, two Night Hound copycats, and Osiris heading for the capital.
+- Copycat attacks remain separate from Vikir.
+- Sinclaire's hidden-royal speculation and later disappearance remain unresolved.
+- Dolores dismisses Vikir/Night Hound's matching consolation as coincidence.
+- **Professor Sadi / Donatien Alphonse François Sadi de Sade** is Vikir's assigned Attack examiner.
+- Sadi abuse/trauma claims remain attributed rumor/reputation; motive uncertain.
+- Vikir avoids Cindywendy money trails, reserves House Bourgeois, rejects café work, and plans monster hunting for tuition.
+- Dolores immediately recognizes the Varangian incident as copycat work.
 
-## Next family — Aftermath 186–189
+## Next family — Attack Land 190–196
 
-- 186 → E184
-- 187 → E185
-- 188 → E186
-- 189 → E187
-- boundary 190 → E188 begins **Attack Land (1)**.
+- 190 → E188
+- 191 → E189
+- 192 → E190
+- 193 → E191
+- 194 → E192
+- 195 → E193
+- 196 → E194
+- C192–196 reverse the raw Chinese title word order but remain parts 3–7.
+- boundary 197 → E195 begins **Preparing for the Festival (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Midterm Random Defense checkpoint PR.
-2. Fresh branch from merged main for **Aftermath 186–189**.
-3. Read C186–189 against E184–187 completely.
-4. Use C190/E188 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all four chapters, then continue.
+1. Open/validate/merge the Aftermath checkpoint PR.
+2. Fresh branch from merged main for **Attack Land 190–196**.
+3. Read C190–196 against E188–E194 completely.
+4. Use C197/E195 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept all seven chapters, then continue.
