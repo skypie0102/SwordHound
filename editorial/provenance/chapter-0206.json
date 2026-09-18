@@ -1,0 +1,61 @@
+{
+  "chapter": 206,
+  "title": "Festival Night (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/206.txt",
+    "blob_sha": "86a0e5cf87255b744988fe7b97068b452ad0b76f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-204.xhtml",
+    "blob_sha": "ea1e65fd55cdb60c0f1664c66045de88e993247b",
+    "target_alignment": 206,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0206.md",
+    "blob_sha": "cd2f17f2d95183bd12f316b63b3777ee7a0c21a6"
+  },
+  "qa": {
+    "path": "qa/chapter-0206.md",
+    "blob_sha": "68e7b648cfc5c402950c1fd60bc01eebfe0599e4",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "costumes",
+      "final": "Tudor Death Knight / Sancho Snow Maiden / Pigi Fairy / Bianca Frankenstein / Sinclaire Spider Queen / Vikir Witch / Dolores Night Hound",
+      "basis": "Chinese C206"
+    },
+    {
+      "topic": "vintage_vikir",
+      "final": "Preserve pre-regression scarred/limping social-rejection contrast",
+      "basis": "Chinese C206"
+    },
+    {
+      "topic": "festival_register",
+      "final": "Preserve beauty/cross-dressing comedy without added sexualization",
+      "basis": "Chinese C206"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}
