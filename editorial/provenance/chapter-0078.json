@@ -1,0 +1,105 @@
+{
+  "chapter": 78,
+  "title": "The Saintess (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/078.txt",
+    "blob_sha": "155a238a81adfdc32ce7b97d9e28e05f4133c395",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-077.xhtml",
+    "blob_sha": "64c564988053d5a39bde90c0f81685055f2bf13f",
+    "target_alignment": 78,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/083.txt",
+    "chinese_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "english_path": "source/chapters/chapter-082.xhtml",
+    "english_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "purpose": "both begin Lovesickness (1) target83"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Dolores L. Quovadis",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Dolores L. Quovadis",
+        "Quovadis",
+        "Colosseo Academy"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Mozgus Quovadis",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Mozgus Quovadis"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Rune Religion",
+        "Leviathan Clan",
+        "Bourgeois Clan",
+        "Baskerville",
+        "Morgue",
+        "Red Death",
+        "Hound of the Night"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0078.md",
+    "blob_sha": "8919fdfc51baec50b1828e8a9433fa22d497da7e"
+  },
+  "qa": {
+    "path": "qa/chapter-0078.md",
+    "blob_sha": "8848cfc5ad09b4de95e79f7eb2196a1e085b25f1",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_profile",
+      "final": "Dolores is sixteen, second-year, vice president, early-admission/top-rank prodigy",
+      "basis": "Chinese target78"
+    },
+    {
+      "topic": "future_memory",
+      "final": "Angel of the Battlefield material is Vikir's prior-timeline recollection only",
+      "basis": "Chinese target78"
+    },
+    {
+      "topic": "soul_reading",
+      "final": "retain supernatural perception of Vikir's violence/anger/hatred and buried grief without medicalizing it",
+      "basis": "Chinese target78"
+    },
+    {
+      "topic": "political_analysis",
+      "final": "Vikir presents Leviathan/Bourgeois as hypothesis while internally withholding Baskerville/Morgue benefit because it would expose the mountain origin",
+      "basis": "Chinese target78"
+    },
+    {
+      "topic": "spoiler_guard",
+      "final": "no later Dolores relationship/family history imported",
+      "basis": "reveal chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
