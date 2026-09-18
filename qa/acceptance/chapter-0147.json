@@ -1,0 +1,42 @@
+{
+  "chapter": 147,
+  "title": "Volunteering for the Golden Week (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/147.txt",
+    "primary_source_sha": "32b87f5a39e6eab10f5d927c8c038864e3e7c0eb",
+    "english_reference_path": "source/chapters/chapter-146.xhtml",
+    "english_reference_sha": "583305128e6b0d0fe7d8c4f2044c48671f680261",
+    "draft_path": "manuscript/drafts/chapter-0147.md",
+    "draft_sha": "1c89a57b6480d8db275e246f3dd031e88ffe7571",
+    "qa_path": "qa/chapter-0147.md",
+    "qa_sha": "3c64665f43b15498b3d7d5591a3bc90ceacd4392",
+    "provenance_path": "editorial/provenance/chapter-0147.json",
+    "provenance_sha": "888651aa8fb56a285ee67133e46319c4698ceb0e"
+  },
+  "canonical_checks": [
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Sinclaire",
+    "Bianca Fo Usher",
+    "Cindywendy"
+  ],
+  "documented_limits": [
+    "Sinclaire remains female despite recovered-English pronoun drift.",
+    "Pigi's reading of Sinclaire's behavior is not narrator confirmation of romance.",
+    "Vikir's conspiracy suspicion is intentionally comic hypervigilance."
+  ]
+}
