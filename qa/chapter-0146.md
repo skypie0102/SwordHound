@@ -15,7 +15,7 @@
 - PASS — Ephebo continuity matches target 140: upper/advanced Graduator-class undead, Quovadis blunt-weapon technique, prior impalement and escape during self-destruction.
 - PASS — Ephebo almost detects Vikir by scent before Quilt's conversation draws him away.
 - PASS — the noble's crimes and the indulgence transaction remain explicit, including murder of an enslaved girl and burning a village with roughly thirty child victims; language is not softened or sensationally expanded.
-- PASS — the doctrinal quotation is attributed according to the Chinese primary source to **John Tetzel L. Quovadis**, former Old Testament cardinal; the recovered-English substitution of Humbert is rejected.
+- PASS — the indulgence doctrine is attributed to former Old Testament cardinal **John Tetzel**. The Chinese extraction clearly supports that personal name but has an unstable trailing family-name segment, so no unsupported surname is invented; the recovered-English substitution of Humbert is rejected.
 - PASS — Quovadis faction structure is preserved: **Humbert L. Quovadis / Old Testament Faction**, **Martin Luther / New Testament Faction**, with indulgence sales as the central dispute.
 - PASS — Dolores is the New Testament Faction's prominent “Awakened Young Blood” and follows a different path from her father Humbert.
 - PASS — Quilt and House Indulgentia are retained as major Old Testament-aligned actors.
