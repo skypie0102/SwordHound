@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Volunteering for the Golden Week (1)–(6) accepted
+
+**Current state:** 149 / 500 accepted; 0 staged; next Chapter 150.
+
+Completed targets 144–149 with mapping **144→E143 through 149→E148**.
+
+Key decisions: Vikir's volunteer work doubles as Indulgentia reconnaissance; Quovadis faction naming is **Old Testament / New Testament**; Quilt's later demon identity remains spoiler-guarded; target 146's `十次中有九次` is correctly kept as “nine times out of ten”; **John Tetzel** is retained without inventing an unstable surname; **Ephebo/Pedo/Hebe/Geronto** are source-revealed; **Peri** replaces the old “Nymphet” production alias; Sinclaire is explicitly seventeen; and Madam Eight-Legs's egg / Dolores's sewer-rescue reaction lead cleanly into the “Uncle” setup.
+
+Family QA: `qa/families/golden-week-0144-0149.md` — **PASS**.
+
+Next verified family: **150–151 — Not Brother, But Uncle (1)–(2)**. Target **152** begins *The Drinking Game (1)*.
+
 ## 2026-09-18 — Identity of the Villain (1)–(3) accepted
 
 **Current state:** 143 / 500 accepted; 0 staged; next Chapter 144.
