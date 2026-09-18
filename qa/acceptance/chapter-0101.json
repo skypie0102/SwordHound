@@ -1,0 +1,41 @@
+{
+  "chapter": 101,
+  "title": "Nostalgia (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/101.txt",
+    "primary_source_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_reference_path": "source/chapters/chapter-100.xhtml",
+    "english_reference_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "draft_path": "manuscript/drafts/chapter-0101.md",
+    "draft_sha": "76f635afd2850c78c035d1399b9b9e97bb7980f5",
+    "qa_path": "qa/chapter-0101.md",
+    "qa_sha": "e9b6a0b43dd18edac3a63695c41f47e04124fe42",
+    "provenance_path": "editorial/provenance/chapter-0101.json",
+    "provenance_sha": "c7115f8ddec6adbbf604c9eaa22d9c55101dc1fb"
+  },
+  "canonical_checks": [
+    "Venom",
+    "Silent Heel",
+    "Super High-Speed Regeneration",
+    "Madam Eight-Legs",
+    "Aiyen",
+    "Bakira"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-105 Returned Hero statue/reveal material is imported backward."
+  ]
+}

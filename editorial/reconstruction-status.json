@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 100,
+  "accepted_chapters": 104,
   "staged_chapters": 0,
-  "next_chapter": 101,
+  "next_chapter": 105,
   "latest_accepted_family": {
-    "name": "Madam Eight-Legs",
-    "range": [
-      95,
-      100
-    ],
-    "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
-  },
-  "next_title_family": {
     "name": "Nostalgia",
     "range": [
       101,
       104
     ],
-    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 105,
-    "following_title": "The Returned Hero (1)",
-    "alignment_note": "101→E100,102→E101,103→E102,104→E103;105→E104"
+    "family_qa": "qa/families/nostalgia-0101-0104.md"
+  },
+  "next_title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "boundary_status": "verified five-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 110,
+    "following_title": "The Great Banquet (1)",
+    "alignment_note": "105→E104,106→E105,107→E106,108→E107,109→E108;110→E109"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -162,17 +162,21 @@
     97,
     98,
     99,
-    100
+    100,
+    101,
+    102,
+    103,
+    104
   ],
   "notes": [
-    "Chapters 95-100 are accepted as Madam Eight-Legs (1)-(6).",
-    "Target95: Ah'Heman's delayed lure directly triggers the village attack; Baskerville monster suppression remains the broader ecological cause.",
-    "Target96: Bakira is severely poisoned/injured; Vikir leaves alone after knowingly uncertain promise to Aiyen.",
-    "Target97: Bog Salamander A+/9m/8th Ridge/Infinite-Regeneration Salamander; Bone-Sucking Mosquito individual D/swarm S/3mm/9th Ridge.",
-    "Target99: Madam Eight-Legs window S / size unknown / 10th Ridge / Madam of the Flood / species unknown; severed legs regenerate as two; Bog Salamander regeneration restores Vikir.",
-    "Target100 opening Beelzebub state: Incinerate—Cerberus(A+) / Silent Heel—Mushuhushu(A+) / Super High-Speed Regeneration—Bog Salamander(A+). Kilogram Hammer is displaced.",
-    "Target100 final Beelzebub state: Venom—Madam Eight-Legs(S) / Silent Heel—Mushuhushu(A+) / Super High-Speed Regeneration—Bog Salamander(A+). Cerberus/Incinerate is displaced.",
-    "Next family targets101-104 — Nostalgia (1)-(4), mapped 101→E100 through 104→E103. Target105 begins The Returned Hero (1) and maps to E104.",
+    "Chapters 101-104 are accepted as Nostalgia (1)-(4).",
+    "Target101 deliberately reprises the cliff-impact/Madam death/soul absorption sequence; repetition exists in source and is retained.",
+    "Target102: Vikir reaches Peak Sword Graduator, matching pre-regression peak, while remaining below Sword Master; a small incomplete Seventh Fang is source-revealed.",
+    "Target103: Bakira breeding assistance is retained briefly and non-graphically as animal husbandry/natural-history material.",
+    "Target104: two-month skip; Bakira has five pups; Madam egg remains inert; Ballak farewell confirms Vikir as permanent family.",
+    "Aiyen restores Adonai's bow with Madam webbing; completed weapon is source-named Anubis.",
+    "Vikir is seventeen and Aiyen nineteen; their farewell kiss is retained briefly/nonsexually.",
+    "Next family targets105-109 — The Returned Hero (1)-(5), mapped 105→E104 through 109→E108. Target110 begins The Great Banquet (1) and maps to E109.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

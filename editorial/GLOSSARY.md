@@ -1,3 +1,13 @@
+## Nostalgia additions — Chapters 101–104
+
+- **Nostalgia** — production family title for targets 101–104.
+- **Peak Sword Graduator** — Vikir's formal target-102 realm, equal to his pre-regression peak.
+- **Seventh Fang** — small/incomplete target-102 source reveal; do not equate Fang depth with Sword Master aura.
+- **Anubis** — completed Adonai black bow after Aiyen strings it with Madam Eight-Legs webbing.
+- **Madam's egg** — still inert after the two-month target-104 time skip.
+- **The Returned Hero** — next family targets 105–109; witnesses E104–E108.
+- **The Great Banquet** — begins target 110 / E109.
+
 ## Madam Eight-Legs additions — Chapters 95–100
 
 - **Madam Eight-Legs** — target-99 window: **Danger Rating S / size unknown / Le Rouge et Le Noir Mountain, 10th Ridge / ‘Madam of the Flood’ / species unknown**.

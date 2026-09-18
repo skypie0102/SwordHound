@@ -1,0 +1,61 @@
+{
+  "chapter": 103,
+  "title": "Nostalgia (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/103.txt",
+    "blob_sha": "94b23e81e5e68afb98518c56c9d1c892e6dd4264",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-102.xhtml",
+    "blob_sha": "8f56167764313a2fc68b17b440fd211cff82f092",
+    "target_alignment": 103,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/105.txt",
+    "chinese_sha": "6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab",
+    "english_path": "source/chapters/chapter-104.xhtml",
+    "english_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
+    "purpose": "both begin The Returned Hero (1) target105"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0103.md",
+    "blob_sha": "31d218cd6500473cbbd84bd296aa8f050485ffd4"
+  },
+  "qa": {
+    "path": "qa/chapter-0103.md",
+    "blob_sha": "63561b13a48d40edd7bf902b768603b4e17178d6",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bakira",
+      "final": "missing right hind leg prevents normal breeding balance",
+      "basis": "Chinese target103"
+    },
+    {
+      "topic": "rendering",
+      "final": "animal breeding retained briefly/non-graphically as husbandry/natural history",
+      "basis": "editorial safety + source semantics"
+    },
+    {
+      "topic": "aiyen",
+      "final": "Aiyen hesitates outside Vikir tent after returning",
+      "basis": "Chinese target103"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

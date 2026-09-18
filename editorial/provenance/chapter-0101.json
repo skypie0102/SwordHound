@@ -1,0 +1,61 @@
+{
+  "chapter": 101,
+  "title": "Nostalgia (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/101.txt",
+    "blob_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-100.xhtml",
+    "blob_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "target_alignment": 101,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/105.txt",
+    "chinese_sha": "6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab",
+    "english_path": "source/chapters/chapter-104.xhtml",
+    "english_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
+    "purpose": "both begin The Returned Hero (1) target105"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0101.md",
+    "blob_sha": "76f635afd2850c78c035d1399b9b9e97bb7980f5"
+  },
+  "qa": {
+    "path": "qa/chapter-0101.md",
+    "blob_sha": "e9b6a0b43dd18edac3a63695c41f47e04124fe42",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "reprise",
+      "final": "retain source-level repetition of cliff impact, Madam death, soul absorption, rescue",
+      "basis": "Chinese target101 + E100"
+    },
+    {
+      "topic": "beelzebub",
+      "final": "post-Madam state remains Venom / Silent Heel / Super High-Speed Regeneration",
+      "basis": "Chinese target101"
+    },
+    {
+      "topic": "endpoint",
+      "final": "Aiyen/Bakira rescue and blackout only; recovery waits for target102",
+      "basis": "family chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

@@ -1,0 +1,40 @@
+{
+  "chapter": 103,
+  "title": "Nostalgia (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/103.txt",
+    "primary_source_sha": "94b23e81e5e68afb98518c56c9d1c892e6dd4264",
+    "english_reference_path": "source/chapters/chapter-102.xhtml",
+    "english_reference_sha": "8f56167764313a2fc68b17b440fd211cff82f092",
+    "draft_path": "manuscript/drafts/chapter-0103.md",
+    "draft_sha": "31d218cd6500473cbbd84bd296aa8f050485ffd4",
+    "qa_path": "qa/chapter-0103.md",
+    "qa_sha": "63561b13a48d40edd7bf902b768603b4e17178d6",
+    "provenance_path": "editorial/provenance/chapter-0103.json",
+    "provenance_sha": "6b0f3a981b84a435497f66bbfc455b12036f8cad"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Bakira",
+    "Madam Eight-Legs",
+    "Adonai",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-105 Returned Hero statue/reveal material is imported backward."
+  ]
+}
