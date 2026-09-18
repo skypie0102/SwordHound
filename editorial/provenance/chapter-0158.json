@@ -1,0 +1,66 @@
+{
+  "chapter": 158,
+  "title": "Familiar Face (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/158.txt",
+    "blob_sha": "d0677ff2c2c232ad017287dd0223f04b90a00d3f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-157.xhtml",
+    "blob_sha": "91d67d8d59d68825a4779fe641605572fdff43ab",
+    "target_alignment": 158,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0158.md",
+    "blob_sha": "d168adaae4752967b229d2809859a35a6111d53f"
+  },
+  "qa": {
+    "path": "qa/chapter-0158.md",
+    "blob_sha": "79ccb43920283742751ca220b7adc528e216ee45",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "ephebo_status",
+      "final": "Ephebo remains a high-ranking undead subordinate; no Ten Corpse promotion",
+      "basis": "Chinese C158 + accepted continuity"
+    },
+    {
+      "topic": "seventh_fang",
+      "final": "Use production term Seventh Fang for the seven-tooth Baskerville killing technique",
+      "basis": "Chinese C158 + project canon"
+    },
+    {
+      "topic": "quilt_reveal",
+      "final": "Target158 source-reveals Quilt as a Demon King-class demon; later personal demon name/epithet withheld",
+      "basis": "Chinese C158 + reveal chronology"
+    },
+    {
+      "topic": "mask_artifact",
+      "final": "Black face covering treated as demonic/OOPArt-like artifact without importing later exact origin",
+      "basis": "Chinese C158"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/162.txt",
+    "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
+    "english_path": "source/chapters/chapter-161.xhtml",
+    "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
+    "purpose": "both begin Sin and Punishment (1), target162"
+  }
+}

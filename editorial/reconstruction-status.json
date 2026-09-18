@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 157,
+  "accepted_chapters": 161,
   "staged_chapters": 0,
-  "next_chapter": 158,
+  "next_chapter": 162,
   "latest_accepted_family": {
-    "name": "How to Keep Your Night Shift Employees Safe",
-    "range": [
-      155,
-      157
-    ],
-    "family_qa": "qa/families/night-shift-safety-0155-0157.md"
-  },
-  "next_title_family": {
     "name": "Familiar Face",
     "range": [
       158,
       161
     ],
-    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 162,
-    "following_title": "Sin and Punishment (1)",
-    "alignment_note": "158→E157,159→E158,160→E159,161→E160;162→E161"
+    "family_qa": "qa/families/familiar-face-0158-0161.md"
+  },
+  "next_title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "boundary_status": "verified eight-part Chinese family; recovered-English witness gap at target168",
+    "following_family_starts": 170,
+    "following_title": "Adorable Pet (1)",
+    "alignment_note": "162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness,169→E167;170→E168. C163 heading anomaly normalized by sequence/content."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -219,17 +219,21 @@
     154,
     155,
     156,
-    157
+    157,
+    158,
+    159,
+    160,
+    161
   ],
   "notes": [
-    "Chapters 155-157 are accepted as How to Keep Your Night Shift Employees Safe (1)-(3).",
-    "Vikir uses the party blame/laundry excuse as Night Hound operational cover while also repaying previous-timeline battlefield healing from Dolores.",
-    "Volunteer repairs are revealed as prepared infiltration infrastructure through the four concentric dormitory rings.",
-    "Target156 preserves all fourteen contradictory safety rules; Rule3 bans all sexual activity, and Rules4/14 remain intentionally unresolved.",
-    "Peri is the production name in the corridor HELP ME sequence.",
-    "Target157 explicitly states Dolores is seventeen; she follows Night Hound to talk, not arrest him, after trying unsuccessfully to clear Vikir's name.",
-    "Ephebo closes target157 as the first high-ranking undead guard to appear in this sequence without Ten Corpse promotion.",
-    "Next family targets158-161 — Familiar Face (1)-(4), mapped 158→E157 through 161→E160. Target162 begins Sin and Punishment (1) and maps to E161.",
+    "Chapters 158-161 are accepted as Familiar Face (1)-(4).",
+    "Target158 source-reveals Quilt Rune Indulgentia as a Demon King-class demon while later personal demon naming remains withheld.",
+    "Target159 source-reveals the Ninth Corpse as the face-stealing/corrupted-undead power behind the network; later Dantalian/epithet naming is not imported.",
+    "Ephebo's face is Mozgus Quovadis's Old Testament twin brother; unstable extracted twin-name spelling is not promoted to production canon.",
+    "Target160 locks Silent Heel — Mushuhushu and Super Regeneration — Swamp Marsh Salamander; Pedo is Staffordshire Baskerville and Hebe is Donquixote-affiliated.",
+    "Target161 confirms Geronto is not Camus Morgue, while grave-robbing evidence connects great-house corpses to undead construction.",
+    "All four masks are recovered and all four guards are eliminated before Quilt appears.",
+    "Next family targets162-169 — Sin and Punishment (1)-(8). Recovered English has no witness for target168; E167 aligns to target169. Target170 begins Adorable Pet (1) and maps to E168.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

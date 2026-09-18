@@ -1,0 +1,66 @@
+{
+  "chapter": 160,
+  "title": "Familiar Face (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/160.txt",
+    "blob_sha": "9eff893be76f824143b62d96a0786e3231640510",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-159.xhtml",
+    "blob_sha": "eef7b095585fff9b1d3e3cb29a8f6563e8842654",
+    "target_alignment": 160,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0160.md",
+    "blob_sha": "fc8395cb8dfef12b16924b827e556d0fc642ee11"
+  },
+  "qa": {
+    "path": "qa/chapter-0160.md",
+    "blob_sha": "3c103cd8f520b7d929ee92b3552f005b3e90c033",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "silent_heel",
+      "final": "Use canonical Silent Heel — Mushuhushu for Vikir's soundless movement skill",
+      "basis": "Chinese C160 + Fandom equipment canon"
+    },
+    {
+      "topic": "sealing_target_repair",
+      "final": "Chinese extraction briefly substitutes Vikir where Pedo is clearly intended; local combat logic and E159 resolve Dolores's spell targets as Pedo and Hebe",
+      "basis": "Chinese C160 + E159"
+    },
+    {
+      "topic": "super_regeneration",
+      "final": "Use canonical Super Regeneration — Swamp Marsh Salamander",
+      "basis": "Chinese C160 + Fandom equipment canon"
+    },
+    {
+      "topic": "corpse_identities",
+      "final": "Hebe is Donquixote-affiliated by tattoo; Pedo is Staffordshire Baskerville",
+      "basis": "Chinese C160 + canonical names"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/162.txt",
+    "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
+    "english_path": "source/chapters/chapter-161.xhtml",
+    "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
+    "purpose": "both begin Sin and Punishment (1), target162"
+  }
+}

@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **157 / 500 accepted; next Chapter 158.** Latest accepted family: **targets 155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**.
+Current checkpoint: **161 / 500 accepted; next Chapter 162.** Latest accepted family: **targets 158–161 — Familiar Face (1)–(4)**.
 
-The next verified family is **Familiar Face, targets 158–161**, mapped **158→E157 through 161→E160**. Target 162 begins **Sin and Punishment (1)** and maps to E161.
+The next verified family is **Sin and Punishment, targets 162–169**. Mapping is **162→E161 through 167→E166, 168→no recovered-English witness, 169→E167**. Target 170 begins **Adorable Pet (1)** and maps to E168.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Familiar Face family adds/revalidates:
+
+- **Familiar Face** — accepted production family title for targets 158–161; witnesses E157–E160.
+- **Quilt Rune Indulgentia** — source-revealed Demon King-class in target 158; later personal demon name remains source-timed.
+- **Ninth Corpse** — source-revealed in target 159 as the face-stealing/corrupted-undead power; later personal name remains withheld.
+- **Staffordshire Baskerville** — Pedo's revealed identity.
+- **Hebe** — Donquixote-affiliated by tattoo; exact personal identity still unrevealed.
+- **Geronto ≠ Camus Morgue** — false lead explicitly resolved in target 161.
+- **Great-house grave robberies** — bodies themselves are implicated as targets.
+- **Sin and Punishment** — next family targets 162–169; recovered-English witness gap at target 168.
+- **Adorable Pet** begins target 170 / E168.
 
 The accepted night-shift safety family adds/revalidates:
 
@@ -147,15 +159,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–157**:
+Current accepted production evidence covers targets **1–161**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0157.md`
-- `qa/chapter-0001.md` through `chapter-0157.md`
-- accepted family QA through `qa/families/night-shift-safety-0155-0157.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0157.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0157.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0161.md`
+- `qa/chapter-0001.md` through `chapter-0161.md`
+- accepted family QA through `qa/families/familiar-face-0158-0161.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0161.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0161.json`
 
-Latest family QA: `qa/families/night-shift-safety-0155-0157.md` — **PASS**.
+Latest family QA: `qa/families/familiar-face-0158-0161.md` — **PASS**.
 
 ## Editorial quality bar
 

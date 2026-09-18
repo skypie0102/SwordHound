@@ -1,0 +1,44 @@
+{
+  "chapter": 158,
+  "title": "Familiar Face (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/158.txt",
+    "primary_source_sha": "d0677ff2c2c232ad017287dd0223f04b90a00d3f",
+    "english_reference_path": "source/chapters/chapter-157.xhtml",
+    "english_reference_sha": "91d67d8d59d68825a4779fe641605572fdff43ab",
+    "draft_path": "manuscript/drafts/chapter-0158.md",
+    "draft_sha": "d168adaae4752967b229d2809859a35a6111d53f",
+    "qa_path": "qa/chapter-0158.md",
+    "qa_sha": "79ccb43920283742751ca220b7adc528e216ee45",
+    "provenance_path": "editorial/provenance/chapter-0158.json",
+    "provenance_sha": "1f81ac89352d618a1d18a2a4faa5cd2dc815cecf"
+  },
+  "canonical_checks": [
+    "Ephebo",
+    "Dolores L. Quovadis",
+    "Quilt Rune Indulgentia",
+    "Beelzebub",
+    "Seventh Fang",
+    "Old Testament Faction",
+    "New Testament Faction"
+  ],
+  "documented_limits": [
+    "Ephebo remains a subordinate, not a Ten Corpse.",
+    "Quilt is source-revealed only as Demon King-class here; later personal demon name/epithet remains withheld.",
+    "Black face-covering artifact origin remains unresolved."
+  ],
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+}
