@@ -1,0 +1,41 @@
+{
+  "chapter": 209,
+  "title": "Festival Night (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/209.txt",
+    "primary_source_sha": "771d61bea5c091aed86586d6e389bb853e133e5c",
+    "english_reference_path": "source/chapters/chapter-207.xhtml",
+    "english_reference_sha": "24a49945062468e6e06296172028b726337eb98f",
+    "draft_path": "manuscript/drafts/chapter-0209.md",
+    "draft_sha": "45acb2594af6284b5d498033a352e03a51ecd3df",
+    "qa_path": "qa/chapter-0209.md",
+    "qa_sha": "dec36f2f91d8424c3355fc044c9ffaafbea39ea4",
+    "provenance_path": "editorial/provenance/chapter-0209.json",
+    "provenance_sha": "ede51d26b8d544070e6c97c68e4b771822f32168"
+  },
+  "canonical_checks": [
+    "Osiris Le Baskerville",
+    "Pomeranian La Baskerville",
+    "Hugo Le Baskerville",
+    "Ring of Divine Inviolability",
+    "Finit hic Deus"
+  ],
+  "documented_limits": [
+    "Historical restitution/punishment remains tied to accepted Messinadnaro continuity.",
+    "Ring window title and ability remain distinct."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
