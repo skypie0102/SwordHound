@@ -795,3 +795,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **The Corpse Queen** — next verified family targets 198–202; witnesses E196–E200.
 - **Mixed Bath** — begins target 203 / E201.
 
+## The Corpse Queen additions — Chapters 198–202
+
+- **The Corpse Queen** — accepted family targets 198–202; witnesses E196–E200.
+- **Seere** — Eighth Corpse / Eighth Demon King; Chinese-primary Danger Rating **S+**.
+- **Corpse Queen identity guard** — present contractor is an unnamed woman, not future-history Snake Morgue; human identity remains unrevealed through target 202.
+- **Rosie Morgue** — Geronto's living identity, source-revealed in target 202; target 199 uses only “Rosie.”
+- **Peri necklace guard** — normalize recovered-English “Nymphet” to Peri, but do not identify the wearing skeleton as Peri.
+- **Lich** — production normalization of target-200 high-undead window; Danger Rating A+ / 3 m / Abyssal Edge.
+- **Ah'Heman lich** — source-revealed target 201; death continuity remains Thorn-Tree Punishment + burning.
+- **Flesh-Patch Giant** — A+ / 8 m / Tomb of the Nine Springs; Ephebo + Pedo + Hebe composite.
+- **Seventh Fang recognition** — Queen urgently asks Vikir to wait after seeing his aura; no identity conclusion yet.
+- **Baby Madam lifeline** — apparent retreat in target 201 is revealed in 202 as a rescue setup.
+- **First failed assassination** — Rosie/Geronto teleports the Corpse Queen away.
+- **Mixed Bath** — next family targets 203–205; witnesses E201–E203.
+- **Festival Night** — begins target 206 / E204.
+

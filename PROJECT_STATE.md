@@ -1,42 +1,48 @@
 # Project State
 
-**Checkpoint:** 2026-09-18  
+**Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 197  
+**Accepted:** 202  
 **Staged:** 0  
-**Next chapter:** 198
+**Next chapter:** 203
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 190–196 — *Attack Land (1)–(7)*
 - Chapter 197 — *Preparing for the Festival*
+- Chapters 198–202 — *The Corpse Queen (1)–(5)*
 
-Latest family QA: `qa/families/preparing-festival-0197.md` — **PASS**.
+Latest family QA: `qa/families/corpse-queen-0198-0202.md` — **PASS**.
 
-## Preparing for the Festival decisions
+## The Corpse Queen decisions
 
-- Verified mapping: **197→E195**.
-- Target 197 is a **singleton bridge chapter** despite the recovered-English title carrying “(1)”.
-- Festival prep follows Colosseo's “study hard / play hard” custom.
-- Professor Banshee objects to shortened classes on tuition / student-rights grounds, then dismisses students once festival noise and distraction make instruction ineffective.
-- Source “TS” shorthand is normalized to the Academy's cross-dressing / gender-swap festival costume tradition.
-- Tudor / Granola lead planning; Sinclaire / Bianca / Sancho / Pigi costume banter remains source comedy.
-- Vikir's unusual exhaustion is tied to academic meetings, awards, midterms, and ongoing assassinations.
-- Vikir escapes the festival-styling mob using **Picaresque Mask** dog form.
-- Cindywendy's intelligence identifies the **Royal Martyrs' Cemetery** as an area where her investigators disappear.
-- Vikir suspects the supposed Night Hound copycat may instead be connected to one of the **Ten Corpses**; this remains inference, not proof.
-- Dolores continues calling dog-form Vikir **Choco**, quietly feeds / cleans up after strays, and plans dorm-pet restrictions because of abandonment.
-- Vikir's abandoned-hound reflection preserves Baskerville and Hugo as revenge targets even after Andromalius's death.
-- The neutering gag remains the immediate reason Vikir flees Dolores.
+- Verified mapping: **198→E196 through 202→E200**.
+- **Baby Madam** silk becomes a major Night Hound mobility tool and later a deliberate rescue lifeline.
+- Cindywendy's missing-agent trail reaches the Indulgentia ruins / Royal Martyrs' Cemetery and an unfamiliar diluted human+demon scent.
+- **Seere** is the **Eighth Corpse**, Chinese-primary **Danger Rating S+**.
+- Vikir's prior history says **Snake Morgue** should become Seere's contractor later; the current contractor is an **unnamed woman** and explicitly not Snake.
+- The current Corpse Queen is incomplete / half-human and half-demon. Her human identity remains unrevealed through target 202.
+- The Queen resurrects Geronto and addresses her as **Rosie**; target 202 explicitly reveals Geronto's living identity as **Rosie Morgue**.
+- The gold necklace uses established **Peri**, replacing recovered-English “Nymphet.” The skeleton wearing it is **not** independently identified as Peri.
+- The Queen recognizes Ballak archery / **Night Fox** context and reacts with intense personal anger; the reason remains unrevealed.
+- The high undead is normalized to **Lich** and then source-revealed as **Ah'Heman**.
+- Ah'Heman's death follows accepted **Thorn-Tree Punishment + burning** continuity from target 94.
+- Ah'Heman reanimates Ephebo / Pedo / Hebe into an A+ **Flesh-Patch Giant**.
+- Vikir uses **Peak Sword Graduator** aura and **Seventh Fang** against the Queen's black sun.
+- The Queen recognizes Vikir's aura and urgently asks him to wait; no identity conclusion is imported.
+- Baby Madam's apparent retreat is revealed as a rescue maneuver: its silk lifeline pulls Vikir clear of the final blast.
+- Rosie/Geronto protects and teleports the unconscious Queen away rather than attacking Vikir.
+- Vikir's inference that the Queen's lingering will is “do not attack him” remains inference only.
+- This becomes Vikir's **first failed assassination**.
+- Professor Sadi arrives with Imperial Guard forces; Vikir escapes with **Silent Heel — Mushuhushu** and returns toward the Academy in wounded Picaresque dog form.
+- C202's raw *Corpse King (5)* title is normalized to **The Corpse Queen (5)** by contiguous family evidence.
 
 ## Next verified title family
 
-- **Targets 198–202 — The Corpse Queen (1)–(5)**
-- Mapping: **198→E196, 199→E197, 200→E198, 201→E199, 202→E200**
-- C202's raw Chinese title shortens to *Corpse King (5)*, but numbering, continuity, and E200 establish **The Corpse Queen (5)**.
-- Target 203 begins **Mixed Bath (1)** and aligns to **E201**.
+- **Targets 203–205 — Mixed Bath (1)–(3)**
+- Mapping: **203→E201, 204→E202, 205→E203**
+- Target **206** begins **Festival Night (1)** and aligns to **E204**.
 
 ## Source authority
 
@@ -44,4 +50,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **Preparing for the Festival, target 197** checkpoint, then branch from merged main for **The Corpse Queen, targets 198–202**. Read C198–202 against E196–200 completely, with C203/E201 as the next-family boundary.
+Merge the clean **The Corpse Queen, targets 198–202** checkpoint, then branch from merged main for **Mixed Bath, targets 203–205**. Read C203–205 against E201–203 completely, with C206/E204 as the next-family boundary.

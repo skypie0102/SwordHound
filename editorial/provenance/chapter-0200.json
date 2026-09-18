@@ -1,0 +1,66 @@
+{
+  "chapter": 200,
+  "title": "The Corpse Queen (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/200.txt",
+    "blob_sha": "0704e72d88baf83e94d116979c51fc0381e4fd9c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-198.xhtml",
+    "blob_sha": "32282ad8e61bd98ea77cd51bd211a48a985a8a3f",
+    "target_alignment": 200,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0200.md",
+    "blob_sha": "30757a858c04c47a6ae65901f0aa8393964b828b"
+  },
+  "qa": {
+    "path": "qa/chapter-0200.md",
+    "blob_sha": "aa8c5da3e0cb49d6c5aa5d8351813174ae70a087",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "weaker_contractor",
+      "final": "Vikir assesses current contractor as less experienced/incomplete relative to future Snake Corpse King",
+      "basis": "Chinese C200"
+    },
+    {
+      "topic": "night_fox",
+      "final": "Queen recognizes Ballak archery and asks about Night Fox/Akwilla and her child",
+      "basis": "Chinese C200 + accepted Ballak canon"
+    },
+    {
+      "topic": "lich",
+      "final": "Normalize raw high-undead label to Lich, Danger A+ / 3m",
+      "basis": "Chinese C200 + E198"
+    },
+    {
+      "topic": "identity_guard",
+      "final": "End with recognition of familiar Ballak face; do not name Ah'Heman before C201",
+      "basis": "Chinese C200"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/203.txt",
+    "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
+    "english_path": "source/chapters/chapter-201.xhtml",
+    "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
+    "purpose": "both begin Mixed Bath (1), target203"
+  }
+}

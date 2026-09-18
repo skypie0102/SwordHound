@@ -4,47 +4,49 @@
 
 ## Handoff metadata
 
-- **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Preparing for the Festival acceptance checkpoint
-- **Working branch:** `editorial/restart-preparing-festival-0197`
-- **Base main checkpoint:** `137e3e14c9228164e0eef71e95912aaf7477eea4` (Attack Land checkpoint merged)
-- **Current PR:** #56 — `Rebuild Preparing for the Festival Chapter 197`
+- **Last updated:** 2026-09-19
+- **Updated by:** ChatGPT — Corpse Queen acceptance checkpoint
+- **Working branch:** `editorial/restart-corpse-queen-0198-0202`
+- **Base main checkpoint:** `382526ec95a738a19cd530d61c38a9188122fa30` (Preparing for the Festival checkpoint merged)
+- **Current PR:** #57 — `Rebuild The Corpse Queen Chapters 198–202`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **197 / 500**
+- **Accepted:** **202 / 500**
 - **Staged:** **0**
-- **Next:** **198**
-- **Latest family:** target **197 — Preparing for the Festival**
-- **Family QA:** `qa/families/preparing-festival-0197.md` — PASS — `623da8f71d31cb7a80109b99048f05a12d7affcd`
-- **Next family:** targets **198–202 — The Corpse Queen (1)–(5)**
-- **Following family:** target **203 — Mixed Bath (1)**
+- **Next:** **203**
+- **Latest family:** targets **198–202 — The Corpse Queen (1)–(5)**
+- **Family QA:** `qa/families/corpse-queen-0198-0202.md` — PASS — `fb506d016902b863286ef630d41425b777dd0743`
+- **Next family:** targets **203–205 — Mixed Bath (1)–(3)**
+- **Following family:** target **206 — Festival Night (1)**
 
 ## Key decisions
 
-- Target 197 is a singleton bridge despite E195's title suffix.
-- Festival TS shorthand is normalized to cross-dressing / gender-swap costuming.
-- Vikir escapes festival styling with Picaresque dog form and uses his covert outer-wall route.
-- Cindywendy's intelligence marks Royal Martyrs' Cemetery as a dead zone where agents disappear.
-- Vikir suspects the fake Night Hound may be linked to one of the Ten Corpses; this is not yet proven.
-- Dolores continues calling dog-form Vikir Choco and quietly cares for strays.
-- Baskerville / Hugo remain on Vikir's revenge list after Andromalius.
+- Seere = Eighth Corpse, Chinese-primary S+.
+- Current Corpse Queen is an unnamed female contractor, not future-history Snake Morgue.
+- Her human identity remains unrevealed through target 202.
+- Geronto is addressed as Rosie in 199; full identity **Rosie Morgue** is revealed only in 202.
+- Peri replaces “Nymphet” on the necklace; skeleton identity remains unproven.
+- Ah'Heman returns as an A+ lich; target-94 Thorn-Tree Punishment / burning continuity controls his death.
+- Ephebo / Pedo / Hebe combine into an A+ Flesh-Patch Giant.
+- Vikir uses Peak Sword Graduator aura and Seventh Fang.
+- Queen recognizes the aura and asks him to wait; no identity inference is promoted.
+- Baby Madam's apparent flight is a rescue maneuver; silk lifeline saves Vikir.
+- Rosie evacuates the Queen; Vikir records his first failed assassination.
+- Sadi arrives with Imperial Guard; Vikir escapes with Silent Heel and Picaresque.
 
-## Next family — The Corpse Queen 198–202
+## Next family — Mixed Bath 203–205
 
-- 198 → E196
-- 199 → E197
-- 200 → E198
-- 201 → E199
-- 202 → E200
-- C202 raw title shortens/drifts but remains part 5.
-- boundary 203 → E201 begins **Mixed Bath (1)**.
+- 203 → E201
+- 204 → E202
+- 205 → E203
+- boundary 206 → E204 begins **Festival Night (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Chapter 197 checkpoint PR.
-2. Fresh branch from merged main for **The Corpse Queen 198–202**.
-3. Read C198–202 against E196–200 completely.
-4. Use C203/E201 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all five chapters, then continue.
+1. Open/validate/merge the Corpse Queen checkpoint PR.
+2. Fresh branch from merged main for **Mixed Bath 203–205**.
+3. Read C203–205 against E201–203 completely.
+4. Use C206/E204 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept all three chapters, then continue.

@@ -1,0 +1,76 @@
+{
+  "chapter": 202,
+  "title": "The Corpse Queen (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/202.txt",
+    "blob_sha": "feb37b543cba6b8f777804cc5e13359e222988d2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-200.xhtml",
+    "blob_sha": "337a8fae1eace8e013fd482f29ed0c8f4399d8a7",
+    "target_alignment": 202,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0202.md",
+    "blob_sha": "b5a23f58bd8db5e1d80c7fefc80672bba00541e4"
+  },
+  "qa": {
+    "path": "qa/chapter-0202.md",
+    "blob_sha": "cd88707f9bf45000e551d61d24438e3f0ef7eb17",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "baby_lifeline",
+      "final": "Baby Madam's apparent flight is a rescue maneuver; silk lifeline saves Vikir",
+      "basis": "Chinese C202"
+    },
+    {
+      "topic": "rosie_morgue",
+      "final": "Geronto's living identity is source-revealed as Rosie Morgue",
+      "basis": "Chinese C202 + accepted Rosie continuity"
+    },
+    {
+      "topic": "queen_identity_guard",
+      "final": "Corpse Queen human identity remains unnamed",
+      "basis": "Chinese C202"
+    },
+    {
+      "topic": "failed_assassination",
+      "final": "Rosie evacuates Queen; this is Vikir's first failed assassination",
+      "basis": "Chinese C202"
+    },
+    {
+      "topic": "escape",
+      "final": "Sadi arrives with Imperial Guard; Vikir escapes using Silent Heel and Picaresque",
+      "basis": "Chinese C202"
+    },
+    {
+      "topic": "title_drift",
+      "final": "Normalize raw Corpse King (5) heading to The Corpse Queen (5)",
+      "basis": "C198-C202 + E196-E200"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/203.txt",
+    "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
+    "english_path": "source/chapters/chapter-201.xhtml",
+    "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
+    "purpose": "both begin Mixed Bath (1), target203"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "chapter": 201,
+  "title": "The Corpse Queen (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/201.txt",
+    "primary_source_sha": "b10a88a9439e1d4ebf9c98245f38b4bbe65a7d75",
+    "english_reference_path": "source/chapters/chapter-199.xhtml",
+    "english_reference_sha": "3805f40ea96fb7ec2cd4f36d76cfe12c69fff62d",
+    "draft_path": "manuscript/drafts/chapter-0201.md",
+    "draft_sha": "64c6c2e0916a242285c2bb0b614201e0a31471ca",
+    "qa_path": "qa/chapter-0201.md",
+    "qa_sha": "2297f2e46822acc04db19ebc654a3965737d8872",
+    "provenance_path": "editorial/provenance/chapter-0201.json",
+    "provenance_sha": "1c0b9cc3b21ef7ee07f9112a525904d7486ff214"
+  },
+  "canonical_checks": [
+    "Ah'Heman",
+    "Rokoko",
+    "Thorn-Tree Punishment",
+    "Ephebo",
+    "Pedo",
+    "Hebe",
+    "Peak Sword Graduator",
+    "Seventh Fang"
+  ],
+  "documented_limits": [
+    "Ah'Heman death follows accepted target94 continuity.",
+    "Corpse Queen recognition of Vikir's aura does not reveal her identity."
+  ],
+  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1)."
+}

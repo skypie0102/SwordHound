@@ -1,0 +1,66 @@
+{
+  "chapter": 199,
+  "title": "The Corpse Queen (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/199.txt",
+    "blob_sha": "af39b1f20a77205138870bda8abd175a9b1dc95f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-197.xhtml",
+    "blob_sha": "38bbd0603ec78d734c1ba31f79aa2aca2f0219a3",
+    "target_alignment": 199,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0199.md",
+    "blob_sha": "e77124882fc36e521ab1b156ad05a441581d39d6"
+  },
+  "qa": {
+    "path": "qa/chapter-0199.md",
+    "blob_sha": "178ac325f8b72a549c596c565bd0bbf58bffa5d8",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "seere",
+      "final": "Seere = Eighth Corpse; Chinese Danger Rating S+ controls",
+      "basis": "Chinese C199"
+    },
+    {
+      "topic": "contractor_divergence",
+      "final": "Prior contractor should be Snake Morgue; current contractor is an unnamed woman",
+      "basis": "Chinese C199"
+    },
+    {
+      "topic": "rosie_timing",
+      "final": "Queen addresses Geronto as Rosie; do not add Morgue surname until C202",
+      "basis": "Chinese C199"
+    },
+    {
+      "topic": "peri",
+      "final": "Normalize necklace Nymphet→Peri without identifying the wearer as Peri",
+      "basis": "Project canon + Chinese C199"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/203.txt",
+    "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
+    "english_path": "source/chapters/chapter-201.xhtml",
+    "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
+    "purpose": "both begin Mixed Bath (1), target203"
+  }
+}

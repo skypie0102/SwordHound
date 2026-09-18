@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 197,
+  "accepted_count": 202,
   "staged_count": 0,
-  "next_chapter": 198,
+  "next_chapter": 203,
   "active_title_family": {
-    "name": "The Corpse Queen",
+    "name": "Mixed Bath",
     "range": [
-      198,
-      202
+      203,
+      205
     ],
-    "boundary_status": "verified five-part family; C202 raw title shortens to Corpse King but sequence/witnesses establish part5",
-    "following_family_starts": 203,
-    "following_title": "Mixed Bath (1)",
-    "alignment_note": "198→E196,199→E197,200→E198,201→E199,202→E200;203→E201"
+    "boundary_status": "verified three-part family",
+    "following_family_starts": 206,
+    "following_title": "Festival Night (1)",
+    "alignment_note": "203→E201,204→E202,205→E203;206→E204"
   },
   "chapters": [
     {
@@ -2773,6 +2773,76 @@
       "acceptance": "qa/acceptance/chapter-0197.json",
       "acceptance_sha": "01c234e83b77a4e26060c21d6d48a90b3505d091",
       "family_qa": "qa/families/preparing-festival-0197.md"
+    },
+    {
+      "chapter": 198,
+      "title": "The Corpse Queen (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/198.txt",
+      "english_mtl_reference": "source/chapters/chapter-196.xhtml",
+      "draft": "manuscript/drafts/chapter-0198.md",
+      "qa": "qa/chapter-0198.md",
+      "provenance": "editorial/provenance/chapter-0198.json",
+      "acceptance": "qa/acceptance/chapter-0198.json",
+      "acceptance_sha": "b7dec20a2523ed119a8fd7bc88c0b43dbff38d7a",
+      "family_qa": "qa/families/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 199,
+      "title": "The Corpse Queen (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/199.txt",
+      "english_mtl_reference": "source/chapters/chapter-197.xhtml",
+      "draft": "manuscript/drafts/chapter-0199.md",
+      "qa": "qa/chapter-0199.md",
+      "provenance": "editorial/provenance/chapter-0199.json",
+      "acceptance": "qa/acceptance/chapter-0199.json",
+      "acceptance_sha": "500ecdc2df7b0a2667ce6f65405761014f648f07",
+      "family_qa": "qa/families/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 200,
+      "title": "The Corpse Queen (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/200.txt",
+      "english_mtl_reference": "source/chapters/chapter-198.xhtml",
+      "draft": "manuscript/drafts/chapter-0200.md",
+      "qa": "qa/chapter-0200.md",
+      "provenance": "editorial/provenance/chapter-0200.json",
+      "acceptance": "qa/acceptance/chapter-0200.json",
+      "acceptance_sha": "7eb4848aa94d9d66a85b389c8e0c5bb8e2cb68e5",
+      "family_qa": "qa/families/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 201,
+      "title": "The Corpse Queen (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/201.txt",
+      "english_mtl_reference": "source/chapters/chapter-199.xhtml",
+      "draft": "manuscript/drafts/chapter-0201.md",
+      "qa": "qa/chapter-0201.md",
+      "provenance": "editorial/provenance/chapter-0201.json",
+      "acceptance": "qa/acceptance/chapter-0201.json",
+      "acceptance_sha": "ee9026c236e444ccc8bfac9a8bd0268ac1f2ab1f",
+      "family_qa": "qa/families/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 202,
+      "title": "The Corpse Queen (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/202.txt",
+      "english_mtl_reference": "source/chapters/chapter-200.xhtml",
+      "draft": "manuscript/drafts/chapter-0202.md",
+      "qa": "qa/chapter-0202.md",
+      "provenance": "editorial/provenance/chapter-0202.json",
+      "acceptance": "qa/acceptance/chapter-0202.json",
+      "acceptance_sha": "43bc612c07dc797c48404d220ab752752a85cd5e",
+      "family_qa": "qa/families/corpse-queen-0198-0202.md"
     }
   ]
 }

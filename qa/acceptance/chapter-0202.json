@@ -1,0 +1,43 @@
+{
+  "chapter": 202,
+  "title": "The Corpse Queen (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/202.txt",
+    "primary_source_sha": "feb37b543cba6b8f777804cc5e13359e222988d2",
+    "english_reference_path": "source/chapters/chapter-200.xhtml",
+    "english_reference_sha": "337a8fae1eace8e013fd482f29ed0c8f4399d8a7",
+    "draft_path": "manuscript/drafts/chapter-0202.md",
+    "draft_sha": "b5a23f58bd8db5e1d80c7fefc80672bba00541e4",
+    "qa_path": "qa/chapter-0202.md",
+    "qa_sha": "cd88707f9bf45000e551d61d24438e3f0ef7eb17",
+    "provenance_path": "editorial/provenance/chapter-0202.json",
+    "provenance_sha": "d1e6fd3fd867f1eddf8f462f38599254632ee5ae"
+  },
+  "canonical_checks": [
+    "Baby Madam",
+    "Rosie Morgue",
+    "Professor Sadi",
+    "Silent Heel — Mushuhushu",
+    "Picaresque Mask",
+    "Night Hound"
+  ],
+  "documented_limits": [
+    "Corpse Queen human identity remains unnamed.",
+    "Do not convert Vikir's lingering-will inference into fact.",
+    "Raw C202 Corpse King title is normalized to The Corpse Queen (5)."
+  ],
+  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1)."
+}

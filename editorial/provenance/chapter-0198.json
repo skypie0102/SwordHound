@@ -1,0 +1,66 @@
+{
+  "chapter": 198,
+  "title": "The Corpse Queen (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/198.txt",
+    "blob_sha": "d26aee9e8aaf10e8255528cced4cc9b7a8c8d296",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-196.xhtml",
+    "blob_sha": "644da488da68df85b1487d0a5aae178a9c0484d2",
+    "target_alignment": 198,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0198.md",
+    "blob_sha": "c126653d2e228caf648213a42f93dfdfb7bc64cd"
+  },
+  "qa": {
+    "path": "qa/chapter-0198.md",
+    "blob_sha": "7873c08f424991ef64314fdc7d3c2e9b8bff5031",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "baby_madam_mobility",
+      "final": "Baby Madam silk materially improves Night Hound traversal",
+      "basis": "Chinese C198"
+    },
+    {
+      "topic": "copycat_marks",
+      "final": "Central Clocktower damage reads as whip-like; motive remains speculation",
+      "basis": "Chinese C198"
+    },
+    {
+      "topic": "mixed_scent",
+      "final": "Preserve unfamiliar diluted human+demon odor",
+      "basis": "Chinese C198"
+    },
+    {
+      "topic": "eighth_corpse",
+      "final": "Chapter ends on Eighth Corpse presence after Geronto reappears",
+      "basis": "Chinese C198"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/203.txt",
+    "chinese_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
+    "english_path": "source/chapters/chapter-201.xhtml",
+    "english_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
+    "purpose": "both begin Mixed Bath (1), target203"
+  }
+}
