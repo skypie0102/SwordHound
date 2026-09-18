@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Preparing for the Festival acceptance checkpoint
 - **Working branch:** `editorial/restart-preparing-festival-0197`
 - **Base main checkpoint:** `137e3e14c9228164e0eef71e95912aaf7477eea4` (Attack Land checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #56 — `Rebuild Preparing for the Festival Chapter 197`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
