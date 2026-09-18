@@ -1,0 +1,41 @@
+{
+  "chapter": 164,
+  "title": "Sin and Punishment (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/164.txt",
+    "primary_source_sha": "76950b77a3e36a795c12a5a0b3430c99397870fb",
+    "draft_path": "manuscript/drafts/chapter-0164.md",
+    "draft_sha": "d9564aff082a41cb247215abc446c3bc85db4b05",
+    "qa_path": "qa/chapter-0164.md",
+    "qa_sha": "8bcd44dfa85ce1b481cb9b2551de5bb459aa0acf",
+    "provenance_path": "editorial/provenance/chapter-0164.json",
+    "provenance_sha": "1c45a2edbd7f5ad793fcbe6c053a753b91fb2aef",
+    "english_reference_path": "source/chapters/chapter-163.xhtml",
+    "english_reference_sha": "0ef1f1df2dcc988e6a7f73925b6e36a3e791a891"
+  },
+  "canonical_checks": [
+    "Sack of Shame",
+    "Sack of Fear",
+    "Sack of Love",
+    "Humbert L. Quovadis",
+    "Night Hound"
+  ],
+  "documented_limits": [
+    "Dolores Love result is source supernatural reading, not Vikir reciprocity.",
+    "Memory-device naming is normalized from extraction drift."
+  ],
+  "witness_gap": null
+}
