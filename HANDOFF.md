@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Attack Land acceptance checkpoint
 - **Working branch:** `editorial/restart-attack-land-0190-0196`
 - **Base main checkpoint:** `8bb96188c20a01e266727a96ad0acea3aebc08aa` (Aftermath checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #55 — `Rebuild Attack Land Chapters 190–196`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
