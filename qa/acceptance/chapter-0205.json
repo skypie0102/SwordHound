@@ -1,0 +1,47 @@
+{
+  "chapter": 205,
+  "title": "Mixed Bath (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Mixed Bath",
+    "range": [
+      203,
+      205
+    ],
+    "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
+    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/205.txt",
+    "primary_source_sha": "5d2574f56fcc774d0fcb0a424461585ac2083139",
+    "english_reference_path": "source/chapters/chapter-203.xhtml",
+    "english_reference_sha": "d5ec3cfda68eb2ee1d6fa22367eb34092ae4f2fc",
+    "draft_path": "manuscript/drafts/chapter-0205.md",
+    "draft_sha": "c8ba7fe99be05b2db5a3dcbc43b32eec3e3ee467",
+    "qa_path": "qa/chapter-0205.md",
+    "qa_sha": "197afd2522164c1d16bd02e3b0ca0920ad41ed82",
+    "provenance_path": "editorial/provenance/chapter-0205.json",
+    "provenance_sha": "01a232b2987ee5142a59cc72c8f4931d4d89aeb6"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Choco",
+    "Rune",
+    "Peak Sword Graduator",
+    "Sword Master",
+    "Sixth Fang",
+    "Seventh Fang",
+    "Night Hound",
+    "Saintess awakening",
+    "soul resonance"
+  ],
+  "documented_limits": [
+    "Source explicitly denies Vikir lust; do not eroticize the bath comedy.",
+    "Dolores's Night Hound interest remains one-sided POV.",
+    "Choco familiarity is not identity recognition."
+  ],
+  "next_family_alignment_note": "Target206→E204 begins Festival Night (1)."
+}
