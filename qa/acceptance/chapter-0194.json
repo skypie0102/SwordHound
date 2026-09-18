@@ -1,0 +1,40 @@
+{
+  "chapter": 194,
+  "title": "Attack Land (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/194.txt",
+    "primary_source_sha": "caa0c3d07843b01939aea183868740924932f70c",
+    "english_reference_path": "source/chapters/chapter-192.xhtml",
+    "english_reference_sha": "d36b9ac59f5fdf139a017b372bd4e982b2c3ae77",
+    "draft_path": "manuscript/drafts/chapter-0194.md",
+    "draft_sha": "5ef1527de9109cfa2211f063101e8d930df02de1",
+    "qa_path": "qa/chapter-0194.md",
+    "qa_sha": "5f1d1643e44f2a37fa609496805fafa89a679eb6",
+    "provenance_path": "editorial/provenance/chapter-0194.json",
+    "provenance_sha": "a1822cb8f81d979674e8ee0872d5e20d1866db29"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Professor Sadi",
+    "Professor Banshee Morgue",
+    "Pigi"
+  ],
+  "documented_limits": [
+    "Waiver is rendered as bodily-risk acknowledgment, not literal ownership surrender.",
+    "Early arrows do not score effective hits."
+  ],
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+}

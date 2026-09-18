@@ -1,0 +1,40 @@
+{
+  "chapter": 192,
+  "title": "Attack Land (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/192.txt",
+    "primary_source_sha": "0b25e79b8278c1aa844e684f4128c2504a18f00d",
+    "english_reference_path": "source/chapters/chapter-190.xhtml",
+    "english_reference_sha": "a76086f60e184689100e07137fad0f9652f720c0",
+    "draft_path": "manuscript/drafts/chapter-0192.md",
+    "draft_sha": "1e6e67f29bf9f3af72fbf20a30da77f3748e5219",
+    "qa_path": "qa/chapter-0192.md",
+    "qa_sha": "fda7fa0170a1d8131c11fbb8430440524c169e8f",
+    "provenance_path": "editorial/provenance/chapter-0192.json",
+    "provenance_sha": "4f1558f9b8194095b4a442a311f25f9069a8dac6"
+  },
+  "canonical_checks": [
+    "Sinclaire",
+    "Professor Sadi",
+    "Haste",
+    "Hot Department"
+  ],
+  "documented_limits": [
+    "C192 final Vikir call is repaired to Pigi from E190+C193.",
+    "Scholarship distress does not establish dependence on Dolores."
+  ],
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+}

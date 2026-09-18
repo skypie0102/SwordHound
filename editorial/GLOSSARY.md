@@ -766,3 +766,21 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Attack Land** — next verified family targets 190–196; witnesses E188–E194.
 - **Preparing for the Festival** — begins target 197 / E195.
 
+## Attack Land additions — Chapters 190–196
+
+- **Attack Land** — accepted production family title for targets 190–196; shifted witnesses E188–E194.
+- **Attack-test golem** — professor-controlled humanoid avatar; remote synchronization/distance/body-proportion mismatch is an intentional handicap.
+- **Tudor 35 / Bianca 31 / Granola 35 / Sancho 17** — accepted Attack scores.
+- **Sinclaire 19** — accepted Sadi-exam score after triple Class 3 fire / ice / wind magic.
+- **C192 sequence repair** — Pigi, not Vikir, follows Sinclaire.
+- **C193 department repair** — Pigi remains Cold Department.
+- **Pigi one-point blade** — broken blade embedded in golem lower abdomen; creates the weakness Vikir later exploits.
+- **Bodily-risk acknowledgment** — production rendering of the waiver Banshee requires before Vikir faces Sadi.
+- **Vikir public-rank guard** — Sword Expert Advanced; crowd Sword Master claims remain in-world exaggeration.
+- **Blinded by anger. Where are you looking?** — Vikir's lip-read cue immediately before Sadi's eye injury.
+- **Vikir Attack score** — 40 = 2 effective hits + 28 dodges + 1 critical.
+- **Returning-arrow incident** — faculty/public explanation remains accident; deliberate-reader suspicion is not converted into public proof.
+- **Final midterm ranking** — Vikir 1, Sinclaire 2, Tudor 3, Highbro 4, Granola 5, Bianca 6, Middlebro 7, Sancho 8, Lowbro 9, Pigi 199.
+- **Preparing for the Festival** — target 197 / E195; verified single-chapter bridge.
+- **The Corpse Queen** — begins target 198 / E196.
+

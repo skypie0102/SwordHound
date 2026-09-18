@@ -1,0 +1,43 @@
+{
+  "chapter": 196,
+  "title": "Attack Land (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/196.txt",
+    "primary_source_sha": "412e1f447badbaecf027d33c2fb7e6e1e6a02c3f",
+    "english_reference_path": "source/chapters/chapter-194.xhtml",
+    "english_reference_sha": "99410e31d62178c8fe30f6498f2586434078fbad",
+    "draft_path": "manuscript/drafts/chapter-0196.md",
+    "draft_sha": "0b5bfddf0fc7aab68e7c17e54c21a7b9985d6b9d",
+    "qa_path": "qa/chapter-0196.md",
+    "qa_sha": "8e79742e0a5f678c1622281033a0f54065bdd162",
+    "provenance_path": "editorial/provenance/chapter-0196.json",
+    "provenance_sha": "8f417e3c2108dce436dfccd86c6fa43f6520334f"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Professor Sadi",
+    "Professor Banshee Morgue",
+    "Cindywendy",
+    "Night Hound",
+    "Ten Corpses"
+  ],
+  "documented_limits": [
+    "Returning-arrow event remains publicly accidental.",
+    "Do not convert reader-facing setup into public proof of intent.",
+    "Next Corpse remains unidentified here."
+  ],
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+}

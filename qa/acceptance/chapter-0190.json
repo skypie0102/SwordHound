@@ -1,0 +1,42 @@
+{
+  "chapter": 190,
+  "title": "Attack Land (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/190.txt",
+    "primary_source_sha": "090ea8b431f3d46a7c53469a4f2c0b4c621eef38",
+    "english_reference_path": "source/chapters/chapter-188.xhtml",
+    "english_reference_sha": "14dcf17305b925b422bc79656578fb236858c9c3",
+    "draft_path": "manuscript/drafts/chapter-0190.md",
+    "draft_sha": "b4993195dd51fd5de85111bb1a7bbbaf8d7f7df0",
+    "qa_path": "qa/chapter-0190.md",
+    "qa_sha": "26c78799e4df1f0b4a7da2b70727dffe2f39b479",
+    "provenance_path": "editorial/provenance/chapter-0190.json",
+    "provenance_sha": "594ad925104852396ad97c724df57d476d135977"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Professor Sadi",
+    "Tudor Donquixote",
+    "Bianca Fo Usher",
+    "Granola de Leviathan",
+    "Sancho Barataria"
+  ],
+  "documented_limits": [
+    "Triplets' restraint remains tied to Vikir's prior order.",
+    "Sadi abuse is source behavior, not generalized beyond evidence."
+  ],
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+}

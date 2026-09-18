@@ -1,0 +1,66 @@
+{
+  "chapter": 195,
+  "title": "Attack Land (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/195.txt",
+    "blob_sha": "3f9d91dee6bfc457ab82b461fa0b885c52514697",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-193.xhtml",
+    "blob_sha": "5dd2968d1beaa5f2a25f4794b4ff8599991df421",
+    "target_alignment": 195,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0195.md",
+    "blob_sha": "d2c8becb0e82e104fd4d6d13e4eb94c61153f597"
+  },
+  "qa": {
+    "path": "qa/chapter-0195.md",
+    "blob_sha": "24d44f9d6a499dc16bb30c222edb63e28b860342",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "weakness_chain",
+      "final": "Pigi's embedded blade creates lower-abdomen weakness; Vikir repeatedly strikes it",
+      "basis": "C193-C195"
+    },
+    {
+      "topic": "mosquito",
+      "final": "Bianca confirms prior 100m no-magic mosquito shot as precision evidence",
+      "basis": "Chinese C195 + accepted C176"
+    },
+    {
+      "topic": "rank_guard",
+      "final": "Crowd Sword Master claim is in-world exaggeration; public disclosure remains Sword Expert Advanced",
+      "basis": "C195 + accepted C185-C186"
+    },
+    {
+      "topic": "lip_line",
+      "final": "Preserve: Blinded by anger. Where are you looking?",
+      "basis": "Chinese C195"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/197.txt",
+    "chinese_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
+    "english_path": "source/chapters/chapter-195.xhtml",
+    "english_sha": "6251eaf6241f9afd29ca07314c3cd27019c79641",
+    "purpose": "target197 Preparing for the Festival bridge; target198/E196 begins The Corpse Queen (1)"
+  }
+}

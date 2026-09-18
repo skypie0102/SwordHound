@@ -1,0 +1,41 @@
+{
+  "chapter": 195,
+  "title": "Attack Land (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/195.txt",
+    "primary_source_sha": "3f9d91dee6bfc457ab82b461fa0b885c52514697",
+    "english_reference_path": "source/chapters/chapter-193.xhtml",
+    "english_reference_sha": "5dd2968d1beaa5f2a25f4794b4ff8599991df421",
+    "draft_path": "manuscript/drafts/chapter-0195.md",
+    "draft_sha": "d2c8becb0e82e104fd4d6d13e4eb94c61153f597",
+    "qa_path": "qa/chapter-0195.md",
+    "qa_sha": "24d44f9d6a499dc16bb30c222edb63e28b860342",
+    "provenance_path": "editorial/provenance/chapter-0195.json",
+    "provenance_sha": "237aff7421604a1c2fc66e8d257b1bfb856c0b5d"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Bianca Fo Usher",
+    "Pigi",
+    "Dolores L. Quovadis",
+    "Sword Expert Advanced"
+  ],
+  "documented_limits": [
+    "Crowd Sword Master claim remains in-world exaggeration.",
+    "Public Vikir disclosure remains Sword Expert Advanced."
+  ],
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+}

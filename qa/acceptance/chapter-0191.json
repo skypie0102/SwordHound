@@ -1,0 +1,41 @@
+{
+  "chapter": 191,
+  "title": "Attack Land (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "family_qa_path": "qa/families/attack-land-0190-0196.md",
+    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/191.txt",
+    "primary_source_sha": "a901d71af0594ec76c52f8166d35bf56a5417663",
+    "english_reference_path": "source/chapters/chapter-189.xhtml",
+    "english_reference_sha": "fb919bfe6cdd57b3460cef02c6c002e715505c2e",
+    "draft_path": "manuscript/drafts/chapter-0191.md",
+    "draft_sha": "35add1ff18ea5bc3712581043a661727429fd083",
+    "qa_path": "qa/chapter-0191.md",
+    "qa_sha": "b02232e8ed380342026a0e509c679d67d8b82a70",
+    "provenance_path": "editorial/provenance/chapter-0191.json",
+    "provenance_sha": "f6248a2f315aa7d0f764caf0a74cd4eb6e0fb504"
+  },
+  "canonical_checks": [
+    "Professor Sadi",
+    "Professor Banshee Morgue",
+    "House Morgue",
+    "House Sade",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "Fingertip/vodka story remains rumor.",
+    "Sadi's skill is separated from her abusive conduct."
+  ],
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+}
