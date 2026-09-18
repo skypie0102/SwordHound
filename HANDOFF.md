@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Nostalgia acceptance checkpoint
 - **Working branch:** `editorial/restart-nostalgia-family`
 - **Base main checkpoint:** `9bcd40750724ac71444d7dc496848ea1a63f5ab4` (PR #33, Madam Eight-Legs 95–100, merged)
-- **Current PR:** pending
+- **Current PR:** #34 — `Rebuild Nostalgia Chapters 101–104`
+- **Pre-PR-stamp branch head:** `37d440ae863b11ccad36ecc308e589ac67abf941`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
