@@ -262,7 +262,7 @@ Quilt's smile broadened.
 
 “the soul rises from hell toward heaven.”
 
-“This doctrine was recognized by **John Tetzel L. Quovadis**, former cardinal of the Old Testament Faction.”
+“This doctrine was recognized by former Old Testament cardinal **John Tetzel**.”
 
 Still conversing—
 
