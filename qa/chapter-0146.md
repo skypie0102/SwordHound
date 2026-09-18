@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/146.txt` — `a9a66d0662958927f6daca53ca2d3ead674128b8`
 - English witness: **E145** — `1880b98aac7e990b04d1d9a4d5fd6148eb22acad`
-- Draft: `manuscript/drafts/chapter-0146.md` — `daad8fe14181d1b51249b80c6537a734ab0308e6`
+- Draft: `manuscript/drafts/chapter-0146.md` — `a8082725f02db5a0a3eac6bac7e27a1c6c1a964c`
 
 ## Checks
 - PASS — Chinese `十次中有九次` is treated as the ordinary confidence idiom **“nine times out of ten”**; it is not misread as a numbered Ten Corpses reveal. Quilt's later demon identity remains withheld.
