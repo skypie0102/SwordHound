@@ -1,0 +1,44 @@
+{
+  "chapter": 146,
+  "title": "Volunteering for the Golden Week (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/146.txt",
+    "primary_source_sha": "a9a66d0662958927f6daca53ca2d3ead674128b8",
+    "english_reference_path": "source/chapters/chapter-145.xhtml",
+    "english_reference_sha": "1880b98aac7e990b04d1d9a4d5fd6148eb22acad",
+    "draft_path": "manuscript/drafts/chapter-0146.md",
+    "draft_sha": "a8082725f02db5a0a3eac6bac7e27a1c6c1a964c",
+    "qa_path": "qa/chapter-0146.md",
+    "qa_sha": "12b737527c88f3915b8adfff3f11cad8d595120c",
+    "provenance_path": "editorial/provenance/chapter-0146.json",
+    "provenance_sha": "3f65e17799e6956c634a5a85e6924cca2d85259b"
+  },
+  "canonical_checks": [
+    "Quilt Rune Indulgentia",
+    "Ephebo",
+    "Pedo",
+    "Hebe",
+    "Geronto",
+    "Humbert L. Quovadis",
+    "Martin Luther",
+    "John Tetzel"
+  ],
+  "documented_limits": [
+    "十次中有九次 is ordinary 'nine times out of ten', not a Ninth Corpse reveal.",
+    "Quilt's later demon name/title remains spoiler-guarded.",
+    "John Tetzel's unstable extracted surname is omitted rather than invented."
+  ]
+}
