@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Blood Relatives acceptance checkpoint
 - **Working branch:** `editorial/restart-blood-relatives-family`
 - **Base main checkpoint:** `49fb52204de39480c5c8c888c6775699f8c07f3f` (PR #25, Unfair Trade 64–67, merged)
-- **Current PR:** pending
+- **Current PR:** #26 — `Rebuild Blood Relatives Chapters 68–71`
+- **Pre-PR-stamp branch head:** `3894b36048b0a1502ea13e300b899e90b0ed0935`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
