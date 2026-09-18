@@ -1,0 +1,66 @@
+{
+  "chapter": 143,
+  "title": "Identity of the Villain (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Identity of the Villain",
+    "range": [
+      141,
+      143
+    ],
+    "family_qa_path": "qa/families/identity-villain-0141-0143.md",
+    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/143.txt",
+    "blob_sha": "140eac516bae310422358e3f4071fbfb9257d410",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-142.xhtml",
+    "blob_sha": "7a4a25e93c36de15b9f77981968abaec40d2682b",
+    "target_alignment": 143,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0143.md",
+    "blob_sha": "2277f419a14ea4f2ffa4b78bf5047a42214e9995"
+  },
+  "qa": {
+    "path": "qa/chapter-0143.md",
+    "blob_sha": "f8174ccfdc3de5dc7bd93192ec4982d9872dbaac",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "academy_route_mapping",
+      "final": "Vikir's repeated access violations are deliberate reconnaissance for Night Hound ingress/egress; bad direction is his cover",
+      "basis": "Chinese C143"
+    },
+    {
+      "topic": "demerit_window",
+      "final": "Retain all eight conduct demerits while correcting obvious recovered-English facility-name drift",
+      "basis": "Chinese C143"
+    },
+    {
+      "topic": "golden_week_service",
+      "final": "Accumulated demerits trigger off-campus service during the ten-day Golden Week",
+      "basis": "Chinese C143"
+    },
+    {
+      "topic": "quilt_indulgentia",
+      "final": "Use Quilt Rune Indulgentia as canonical family-head form; later demon/Corpse identity remains excluded",
+      "basis": "Chinese C143 + project/Fandom canonical register"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/144.txt",
+    "chinese_sha": "43d63f5de1a8c5ca09a312cf3423fc6b8f84d527",
+    "english_path": "source/chapters/chapter-143.xhtml",
+    "english_sha": "78c627bafc6d401f82b38e86daf91460ab6e7add",
+    "purpose": "both begin Volunteering for the Golden Week (1), target144"
+  }
+}
