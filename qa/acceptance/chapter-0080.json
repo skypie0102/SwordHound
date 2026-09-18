@@ -1,0 +1,40 @@
+{
+  "chapter": 80,
+  "title": "The Saintess (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/080.txt",
+    "primary_source_sha": "207f6ca71403141a65fa7b56706adab81cc1d37d",
+    "english_reference_path": "source/chapters/chapter-079.xhtml",
+    "english_reference_sha": "f5a35581349ff821b8085433f3f5e7221b3ee5ff",
+    "draft_path": "manuscript/drafts/chapter-0080.md",
+    "draft_sha": "8587821735a14b453f53a71be1dbbf52823c92c7",
+    "qa_path": "qa/chapter-0080.md",
+    "qa_sha": "6de7aaa54e03f3babaa4e4b4bc2d399d1f9dc600",
+    "provenance_path": "editorial/provenance/chapter-0080.json",
+    "provenance_sha": "e84fe9f0b03e6486ed573120a44a8080ddd6f587"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Quovadis",
+    "Red Death",
+    "Hound of the Night"
+  ],
+  "documented_limits": [
+    "Target 80 maps to E79.",
+    "Groundwater purification and clinical-trial stages are fictional worldbuilding.",
+    "Dolores's sixteen-year-old social-attention context is kept nonsexual."
+  ]
+}
