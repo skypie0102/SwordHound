@@ -2,38 +2,35 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 71  
+**Accepted:** 74  
 **Staged:** 0  
-**Next chapter:** 72
+**Next chapter:** 75
 
 ## Current accepted checkpoint
 
-Twenty complete title families have passed the restarted workflow, through:
+Twenty-one complete title families have passed the restarted workflow, through:
 
-- Chapters 64–67 — *Unfair Trade (1)–(4)*
 - Chapters 68–71 — *Blood Relatives (1)–(4)*
+- Chapters 72–74 — *The Red Death (1)–(3)*
 
-Latest family QA: `qa/families/blood-relatives-0068-0071.md` — **PASS**.
+Latest family QA: `qa/families/red-death-0072-0074.md` — **PASS**.
 
-## Blood Relatives family decisions
+## The Red Death family decisions
 
-- Verified shifted mapping: **68→E67, 69→E68, 70→E69, 71→E70**.
-- Target 68 occurs after a **twenty-four-month** time skip. Vikir is **seventeen**.
-- Formal target-68 rank: **High Sword Graduator**. He has mastered the **Sixth Fang**.
-- **Peak Sword Graduator** is Vikir's pre-regression ceiling and his current all-out combat-capability estimate, not his formal rank.
-- Chapter 68 preserves the four patrol reports: approaching rainy season, suspicious Imperial river contamination, disappearing Rokoko activity, and Camus-led Morgue search parties.
-- Chapter 69 identifies the serpent emblem as **Leviathan Clan** only; later Red Death culpability remains chronology-blocked.
-- Chapter 70 identifies the epidemic as **Red Death** and source-reveals **Pomeranian La Baskerville**.
-- Chapter 71 canonicalizes the hidden Baskerville lineage as **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**, preserving the Chinese mother/grandmother/granddaughter semantics while replacing name drift.
-- **John Barrymore** remains the accepted old-butler name.
-- No later Pomeranian abilities, Hugo/Pomeranian relationship outcome, or later Leviathan revelations are imported.
+- Verified shifted mapping: **72→E71, 73→E72, 74→E73**.
+- Chapter 72 preserves the prior-timeline epidemic history, exact Ballak demographic statistics, fictional contaminated-water/boiling tests, prevention guidance, and Vikir's flood-control plan.
+- Chapter 73 preserves the elevated tree-village engineering and source-controlled monster window: **Mushuhushu / Danger Rating A+ / 32 m / 8th Ridge / ‘Nation-Swallowing Snake’**.
+- Recovered-English `Monsieur Hushu` / `Full-body Intestine Snake` are rejected.
+- The local Mushuhushu individual **Ka'ah** escapes wounded; Vikir does not kill it.
+- Chapter 74 keeps **Aheul age fourteen** and all illness material clinical, corrects Ah'Heman's insult to the siblings' **parents**, preserves exact Ballak outsider-exit conditions, and ends with Vikir promising Aiyen he will return.
+- Red Death transmission/prevention details are fictional in-world mechanics, not real-world medical claims.
 
 ## Next verified title family
 
-- **Target Chapters 72–74 — The Red Death (1)–(3)**
-- Verified mapping: **72→E71, 73→E72, 74→E73**.
-- Target Chapter 75 begins **The Hound of the Night (1)** and aligns to **E74**.
-- Physical `075.txt` is the known combined **targets 75–76** container.
+- **Target Chapters 75–77 — The Hound of the Night (1)–(3)**
+- Verified mapping: **75→E74, 76→E75, 77→E76**.
+- Target Chapter 78 begins **The Saintess (1)** and aligns to **E77**.
+- Physical `075.txt` declares combined targets 75–76 but has **no internal Chapter-76 marker**. Content alignment shows an unsafe cross-boundary splice/omission, so the source file must remain intact; reconstructed target outputs stay separate.
 
 ## Source authority
 
@@ -42,17 +39,18 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 Corpus constants:
 
 - Physical Chinese files: **492**
-- Target chapters covered by Chinese: **499 / 500**
-- Confirmed missing Chinese chapter: **55**
-- Combined two-chapter source containers: **7**
-- Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source only except Chapter 55
+- Target chapters with at least partial Chinese coverage: **500 / 500**
+- Localized Chinese raw-gap targets: **49 and 55**
+- Combined/overlapping source containers remain documented in `source/chinese/chapter-exceptions.tsv`
+- Recovered English MTL/XHTML corpus: **493 chapters**, secondary/reference source; used only for scoped gap restoration where Chinese is absent
 
 ## Persistent exceptions
 
-Combined raw containers remain intact: `075.txt`→75–76, `267.txt`→267–268, `284.txt`→284–285, `351.txt`→351–352, `353.txt`→353–354, `385.txt`→385–386, `495.txt`→495–496.
-
-Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 is the fallback source and still requires full editorial/QA treatment.
+- Target 49 has a localized connective-block gap restored only from aligned recovered English.
+- Physical `054.txt` overlaps targets 54–55; target 55 has no standalone heading/opening in Chinese, but most of its body survives in the combined container.
+- Physical `075.txt` combines targets 75–76 without an internal target-76 heading; direct E74/E75 alignment shows the seam is not safe for physical source splitting.
+- Other combined containers remain documented for later alignment.
 
 ## Immediate next action
 
-Merge the clean **Blood Relatives (1)–(4), targets 68–71** checkpoint, then branch from merged main for **The Red Death, targets 72–74**. Use the verified shifted witnesses 72→E71 / 73→E72 / 74→E73, reconstruct and QA the full family, then continue directly into the known combined-source **The Hound of the Night** family beginning at target 75.
+Merge the clean **The Red Death (1)–(3), targets 72–74** checkpoint, then branch from merged main for **The Hound of the Night, targets 75–77**. Keep physical `075.txt` intact, align target 75 to E74 and target 76 to E75 by content, use C077→E76 for target 77, and keep target 78 / E77 as the clean **The Saintess (1)** boundary.
