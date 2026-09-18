@@ -1,0 +1,44 @@
+{
+  "chapter": 62,
+  "title": "The Protagonist of Hunting (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
+    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/062.txt",
+    "primary_source_sha": "68c0110eec864429aebd42142991ba3694d8130f",
+    "english_reference_path": "source/chapters/chapter-061.xhtml",
+    "english_reference_sha": "c03318d7153f27b179a5d2d7c36f4fa1e78d9dc2",
+    "draft_path": "manuscript/drafts/chapter-0062.md",
+    "draft_sha": "aa267163bf0959623b7adc94f906518e8ac73ada",
+    "qa_path": "qa/chapter-0062.md",
+    "qa_sha": "96233c67df63ff633095dc751b8a56f33d01ff41",
+    "provenance_path": "editorial/provenance/chapter-0062.json",
+    "provenance_sha": "e43504b68f0b01feef4c194f81899b7c16c86d54"
+  },
+  "canonical_checks": [
+    "Madam Eight-Legs",
+    "Piranha Natteri",
+    "Aiyen",
+    "Ahun",
+    "Akwilla",
+    "Ballak Tribe",
+    "Oxbear",
+    "Le Rouge et Le Noir Mountain"
+  ],
+  "documented_limits": [
+    "Recovered English is shifted by one chapter here: target 62 uses E61.",
+    "Chinese coloration/detail controls the Piranha Natteri window where E61 is corrupted.",
+    "Mate-selection pressure remains source-level and non-erotic."
+  ]
+}
