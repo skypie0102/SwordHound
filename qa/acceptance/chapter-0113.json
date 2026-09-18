@@ -1,0 +1,39 @@
+{
+  "chapter": 113,
+  "title": "The Great Banquet (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/113.txt",
+    "primary_source_sha": "732d48b4d2ed32096c603b30559c42cb6120a082",
+    "english_reference_path": "source/chapters/chapter-112.xhtml",
+    "english_reference_sha": "bee427a5df37d3e8ffa5cf4b4f06670d2ebac34a",
+    "draft_path": "manuscript/drafts/chapter-0113.md",
+    "draft_sha": "f59a44417a519f9e9bf9298eeb36941b7f3e8c11",
+    "qa_path": "qa/chapter-0113.md",
+    "qa_sha": "ed865f088f19fe5e1906be095dad5fb6bafcbf3c",
+    "provenance_path": "editorial/provenance/chapter-0113.json",
+    "provenance_sha": "1f5b9427e1ea203082e30992f8c5e90bc953af33"
+  },
+  "canonical_checks": [
+    "Hugo Le Baskerville",
+    "Boston Terrier Le Baskerville",
+    "Great Dane Le Baskerville",
+    "Intermediate Sword Graduator"
+  ],
+  "documented_limits": [
+    "Vikir's political reading of Hugo's smile remains an interpretation, followed by Hugo's explicit paternal statement.",
+    "The demonstration does not expose Peak Sword Graduator."
+  ]
+}

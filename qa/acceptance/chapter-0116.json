@@ -1,0 +1,47 @@
+{
+  "chapter": 116,
+  "title": "The Great Banquet (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/116.txt",
+    "primary_source_sha": "d93de9df26898aac338bd6317917cb6e4e1d86a7",
+    "english_reference_path": "source/chapters/chapter-115.xhtml",
+    "english_reference_sha": "0cbdc3ceb45f0eb14d25663c462143e61f017a8d",
+    "draft_path": "manuscript/drafts/chapter-0116.md",
+    "draft_sha": "0f00d5ae777b8868e436d7d87bb42c76d7ddf24e",
+    "qa_path": "qa/chapter-0116.md",
+    "qa_sha": "d843a3ef565896f647e40c9241cad9404af80d68",
+    "provenance_path": "editorial/provenance/chapter-0116.json",
+    "provenance_sha": "71473cb29b1ae89e912717b9613cf4bfc5d3a319"
+  },
+  "canonical_checks": [
+    "Sixth Fang",
+    "Seventh Fang",
+    "Peak Sword Graduator",
+    "Styx",
+    "Beelzebub",
+    "Bloody Mamba",
+    "Ah'Heman",
+    "Penelope La Baskerville",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville"
+  ],
+  "documented_limits": [
+    "Numbered techniques are Fangs, never Forms.",
+    "Recovered-English 'Yuasa Castle' is rejected as unsupported.",
+    "Target 117 oath explanation is not imported backward."
+  ]
+}

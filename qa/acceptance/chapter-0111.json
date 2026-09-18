@@ -1,0 +1,47 @@
+{
+  "chapter": 111,
+  "title": "The Great Banquet (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/111.txt",
+    "primary_source_sha": "0f10d0af79919d323e1db977f647f1dedbe968c2",
+    "english_reference_path": "source/chapters/chapter-110.xhtml",
+    "english_reference_sha": "5725a13f0bc5eab35d7e35851ccb67fe7c62a9f3",
+    "draft_path": "manuscript/drafts/chapter-0111.md",
+    "draft_sha": "78394d942861807dc2469707f5c095d590c1ef7b",
+    "qa_path": "qa/chapter-0111.md",
+    "qa_sha": "55086c18bba2ba668fe4f6e1e482f7f0536a1bf7",
+    "provenance_path": "editorial/provenance/chapter-0111.json",
+    "provenance_sha": "d45d8d03f1d7c395e8cc34320df3af8cdeef2cb5"
+  },
+  "canonical_checks": [
+    "Cindywendy",
+    "Oxbear",
+    "Lady Roxana",
+    "Penelope La Baskerville",
+    "Pomeranian La Baskerville",
+    "Boston Terrier Le Baskerville",
+    "Great Dane Le Baskerville",
+    "Osiris Le Baskerville",
+    "Seth Le Baskerville",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville"
+  ],
+  "documented_limits": [
+    "Chinese controls Lady Roxana's death as illness; E110 battle claim is rejected.",
+    "Raw-layer personal-name drift is normalized to accepted project/Fandom forms."
+  ]
+}

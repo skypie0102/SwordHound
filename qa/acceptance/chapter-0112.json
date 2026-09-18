@@ -1,0 +1,40 @@
+{
+  "chapter": 112,
+  "title": "The Great Banquet (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/112.txt",
+    "primary_source_sha": "47db9853101379f74f5e62e85fad4f4ef3e65498",
+    "english_reference_path": "source/chapters/chapter-111.xhtml",
+    "english_reference_sha": "dbf3dfc9bf766f75ec7c5d546a4f9c96cb177845",
+    "draft_path": "manuscript/drafts/chapter-0112.md",
+    "draft_sha": "27b54038ae1c5453ba0a966903336ed9f108b4b3",
+    "qa_path": "qa/chapter-0112.md",
+    "qa_sha": "60ae39301592b5cc74417b7d1c3c96baf34a2eb4",
+    "provenance_path": "editorial/provenance/chapter-0112.json",
+    "provenance_sha": "5a26365afb7fbe075d6dfa629e8ce64bfac0b0e3"
+  },
+  "canonical_checks": [
+    "Pit Bull Knights",
+    "Mastiff Knights",
+    "Seven Counts",
+    "Club Burning Suspension",
+    "Intermediate Sword Graduator"
+  ],
+  "documented_limits": [
+    "Knight-order functions follow Chinese semantics rather than awkward recovered-English labels.",
+    "Vikir's hidden strength remains unrevealed here."
+  ]
+}
