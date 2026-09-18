@@ -1,0 +1,45 @@
+{
+  "chapter": 186,
+  "title": "Aftermath (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Aftermath",
+    "range": [
+      186,
+      189
+    ],
+    "family_qa_path": "qa/families/aftermath-0186-0189.md",
+    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/186.txt",
+    "primary_source_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_reference_path": "source/chapters/chapter-184.xhtml",
+    "english_reference_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "draft_path": "manuscript/drafts/chapter-0186.md",
+    "draft_sha": "bd5b059d45d07d8b89ff7c8a885ac7a5535fd6a8",
+    "qa_path": "qa/chapter-0186.md",
+    "qa_sha": "51ddb8a2b824d5e0270eefce756173308bb66371",
+    "provenance_path": "editorial/provenance/chapter-0186.json",
+    "provenance_sha": "34fdfa2a3d69e36127a5844e074464b0d708d213"
+  },
+  "canonical_checks": [
+    "Professor Sadi",
+    "Professor Banshee Morgue",
+    "Sword Expert Advanced",
+    "Cindywendy",
+    "Osiris Le Baskerville",
+    "Killer Ant",
+    "Worker Ant",
+    "Soldier Ant"
+  ],
+  "documented_limits": [
+    "C186 Sword Master wording is treated as rank drift; public level remains Sword Expert Advanced.",
+    "Copycat crimes are not attributed to Vikir.",
+    "Hidden-royal discussion remains rumor."
+  ],
+  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1)."
+}
