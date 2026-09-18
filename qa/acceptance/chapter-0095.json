@@ -1,0 +1,42 @@
+{
+  "chapter": 95,
+  "title": "Madam Eight-Legs (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/095.txt",
+    "primary_source_sha": "891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc",
+    "english_reference_path": "source/chapters/chapter-094.xhtml",
+    "english_reference_sha": "88b0d59eb7cc73e684a1d56c7db610c53cd92413",
+    "draft_path": "manuscript/drafts/chapter-0095.md",
+    "draft_sha": "2265a9734052560a06644e5825ae994b9e17c74e",
+    "qa_path": "qa/chapter-0095.md",
+    "qa_sha": "3bf019226172a88cd26ea65a645bae295f5ebb28",
+    "provenance_path": "editorial/provenance/chapter-0095.json",
+    "provenance_sha": "62892f70a303e18001c87d01b510898841fe3b67"
+  },
+  "canonical_checks": [
+    "Madam Eight-Legs",
+    "Ballak Tribe",
+    "Ah'Heman",
+    "Akwilla",
+    "Aiyen",
+    "Aheul",
+    "Ahun"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Target 101 Nostalgia content is not imported backward."
+  ]
+}

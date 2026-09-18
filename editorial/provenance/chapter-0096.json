@@ -1,0 +1,66 @@
+{
+  "chapter": 96,
+  "title": "Madam Eight-Legs (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/096.txt",
+    "blob_sha": "a44930a8cfb09a245054bb64c5b4fad7c53de2e6",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-095.xhtml",
+    "blob_sha": "3e1933668787f9f0138e808d722d9fc5e578bda5",
+    "target_alignment": 96,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/101.txt",
+    "chinese_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_path": "source/chapters/chapter-100.xhtml",
+    "english_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "purpose": "both begin Nostalgia (1) target101"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0096.md",
+    "blob_sha": "8d721a7823cd3bd1cf7b184b1ab3fa334a93894c"
+  },
+  "qa": {
+    "path": "qa/chapter-0096.md",
+    "blob_sha": "bd2ff1db901b7b992c545bf40a2fa528e1a596fd",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bakira",
+      "final": "Bakira right hind leg shattered/poisoned by Madam",
+      "basis": "Chinese target96"
+    },
+    {
+      "topic": "motivation",
+      "final": "Vikir confronts Madam to repay/free Ballak and test strength",
+      "basis": "Chinese target96"
+    },
+    {
+      "topic": "aiyen",
+      "final": "wolf/hound dialogue and survive-promise retained",
+      "basis": "Chinese target96"
+    },
+    {
+      "topic": "lie",
+      "final": "Vikir knows survival promise may be impossible",
+      "basis": "Chinese target96"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

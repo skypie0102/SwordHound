@@ -1,0 +1,39 @@
+{
+  "chapter": 97,
+  "title": "Madam Eight-Legs (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/097.txt",
+    "primary_source_sha": "0ee54bd429913b5081a5728c70d46712dbda7319",
+    "english_reference_path": "source/chapters/chapter-096.xhtml",
+    "english_reference_sha": "1b5f9ec23397fb15b25db1650fb0860234694548",
+    "draft_path": "manuscript/drafts/chapter-0097.md",
+    "draft_sha": "9a760964984d456ab921480a01e7fe6f8f3b6c0e",
+    "qa_path": "qa/chapter-0097.md",
+    "qa_sha": "1a93f085e3aa755319be1516d1e49e8d770c2d90",
+    "provenance_path": "editorial/provenance/chapter-0097.json",
+    "provenance_sha": "39afb3ae5ec729ba19333327dd4ec1e65c8033f9"
+  },
+  "canonical_checks": [
+    "Bog Salamander",
+    "Bone-Sucking Mosquito",
+    "Mushuhushu",
+    "Le Rouge et Le Noir Mountain"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Target 101 Nostalgia content is not imported backward."
+  ]
+}

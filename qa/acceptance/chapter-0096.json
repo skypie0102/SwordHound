@@ -1,0 +1,40 @@
+{
+  "chapter": 96,
+  "title": "Madam Eight-Legs (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/096.txt",
+    "primary_source_sha": "a44930a8cfb09a245054bb64c5b4fad7c53de2e6",
+    "english_reference_path": "source/chapters/chapter-095.xhtml",
+    "english_reference_sha": "3e1933668787f9f0138e808d722d9fc5e578bda5",
+    "draft_path": "manuscript/drafts/chapter-0096.md",
+    "draft_sha": "8d721a7823cd3bd1cf7b184b1ab3fa334a93894c",
+    "qa_path": "qa/chapter-0096.md",
+    "qa_sha": "bd2ff1db901b7b992c545bf40a2fa528e1a596fd",
+    "provenance_path": "editorial/provenance/chapter-0096.json",
+    "provenance_sha": "a933cca9715dcbad3595545de481017a95d826c1"
+  },
+  "canonical_checks": [
+    "Madam Eight-Legs",
+    "Bakira",
+    "Akwilla",
+    "Aiyen",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Target 101 Nostalgia content is not imported backward."
+  ]
+}

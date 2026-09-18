@@ -1,0 +1,71 @@
+{
+  "chapter": 99,
+  "title": "Madam Eight-Legs (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/099.txt",
+    "blob_sha": "9de78fd15855a19f0e67ef0f02752c7d3a0893bc",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-098.xhtml",
+    "blob_sha": "df6f149514287d5fadb6e8e249651cbec0aa8102",
+    "target_alignment": 99,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/101.txt",
+    "chinese_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_path": "source/chapters/chapter-100.xhtml",
+    "english_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "purpose": "both begin Nostalgia (1) target101"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0099.md",
+    "blob_sha": "29ad21e68d1b22ea895b16687de35bdd264c343b"
+  },
+  "qa": {
+    "path": "qa/chapter-0099.md",
+    "blob_sha": "a065965550440bb036c2528042d266c35b9a4fb3",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "window",
+      "final": "S / size unknown / 10th Ridge / Madam of the Flood / species unknown",
+      "basis": "Chinese target99"
+    },
+    {
+      "topic": "taxonomy",
+      "final": "ancient hell-spider relation remains recorded theory",
+      "basis": "Chinese target99"
+    },
+    {
+      "topic": "blindspot",
+      "final": "lightning-assisted shots destroy two left-side eyes",
+      "basis": "Chinese target99"
+    },
+    {
+      "topic": "regeneration",
+      "final": "severed Madam leg regenerates into two",
+      "basis": "Chinese target99"
+    },
+    {
+      "topic": "counter",
+      "final": "Bog Salamander regeneration restores Vikir after catastrophic mutilation",
+      "basis": "Chinese target99"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

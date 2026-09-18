@@ -1,3 +1,14 @@
+## Madam Eight-Legs additions — Chapters 95–100
+
+- **Madam Eight-Legs** — target-99 window: **Danger Rating S / size unknown / Le Rouge et Le Noir Mountain, 10th Ridge / ‘Madam of the Flood’ / species unknown**.
+- **Bog Salamander** — **A+ / 9 m / 8th Ridge / ‘Infinite-Regeneration Salamander’**. Recovered-English “Dragon” is rejected.
+- **Bone-Sucking Mosquito** — **individual D / swarm S / 3 mm / 9th Ridge**.
+- **Super High-Speed Regeneration — Bog Salamander (A+)** — enters Beelzebub Slot 3 in target 100, displacing **Kilogram Hammer — Oxbear (A)**.
+- **Venom — Madam Eight-Legs (S)** — enters Beelzebub Slot 1 after Madam's death, displacing **Incinerate — Cerberus (A+)**.
+- **Post-target-100 Beelzebub slots** — Slot 1 Venom — Madam Eight-Legs (S); Slot 2 Silent Heel — Mushuhushu (A+); Slot 3 Super High-Speed Regeneration — Bog Salamander (A+).
+- **Nostalgia** — next family targets 101–104; witnesses E100–E103.
+- **The Returned Hero** — begins target 105 / E104.
+
 # Terminology register
 
 This register follows the restarted 2026-09-16 workflow:

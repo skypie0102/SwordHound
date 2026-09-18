@@ -1,0 +1,39 @@
+{
+  "chapter": 98,
+  "title": "Madam Eight-Legs (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/098.txt",
+    "primary_source_sha": "3e81774dab8c9a8cc7fff79812a1184a1377a6dc",
+    "english_reference_path": "source/chapters/chapter-097.xhtml",
+    "english_reference_sha": "5c1a936e89692aa380e6aa1b21fd719672a1f09d",
+    "draft_path": "manuscript/drafts/chapter-0098.md",
+    "draft_sha": "0e68738dcc2206a9030bb3eed0d00e15fb9aca7f",
+    "qa_path": "qa/chapter-0098.md",
+    "qa_sha": "3f496d8f4fbd193f2f8d9838fb85064aa31093c8",
+    "provenance_path": "editorial/provenance/chapter-0098.json",
+    "provenance_sha": "5b9d22b9f326c9627a2b75e649d6225b44252e93"
+  },
+  "canonical_checks": [
+    "Madam Eight-Legs",
+    "Silent Heel",
+    "Beelzebub",
+    "River Styx"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Target 101 Nostalgia content is not imported backward."
+  ]
+}

@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 94,
+  "accepted_chapters": 100,
   "staged_chapters": 0,
-  "next_chapter": 95,
+  "next_chapter": 101,
   "latest_accepted_family": {
-    "name": "The Ghosts of the Ancestors",
-    "range": [
-      90,
-      94
-    ],
-    "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
-  },
-  "next_title_family": {
     "name": "Madam Eight-Legs",
     "range": [
       95,
       100
     ],
-    "boundary_status": "verified six-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 101,
-    "following_title": "Nostalgia (1)",
-    "alignment_note": "95→E94,96→E95,97→E96,98→E97,99→E98,100→E99;101→E100"
+    "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+  },
+  "next_title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 105,
+    "following_title": "The Returned Hero (1)",
+    "alignment_note": "101→E100,102→E101,103→E102,104→E103;105→E104"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -156,17 +156,23 @@
     91,
     92,
     93,
-    94
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
   ],
   "notes": [
-    "Chapters 90-94 are accepted as The Ghosts of the Ancestors (1)-(5).",
-    "Target90 ends with Ah'Heman directing forbidden Rokoko necromancy toward the Tomb of the Brave.",
-    "Target91 introduces ancestral Death Knights and source-reveals Divine Archer Adonai.",
-    "Target92 establishes Adonai as master/Bow Master class; his black bow is made from old Madam Eight-Legs material and carries poison.",
-    "Vikir remains High Sword Graduator; master-level solid aura overwhelms his liquid aura.",
-    "Target93 preserves Akwilla's deliberate storm-return arrow strategy and her refusal to equate defeating undead Adonai with surpassing his living prime.",
-    "Target94 uses the salt flood to purify the Death Knights, recovers Adonai's bow, and ends with Ah'Heman dying by the Thorn-Tree Punishment he devised.",
-    "Next family is targets95-100 — Madam Eight-Legs (1)-(6), mapped 95→E94 through 100→E99. Target101 begins Nostalgia (1) and maps to E100.",
+    "Chapters 95-100 are accepted as Madam Eight-Legs (1)-(6).",
+    "Target95: Ah'Heman's delayed lure directly triggers the village attack; Baskerville monster suppression remains the broader ecological cause.",
+    "Target96: Bakira is severely poisoned/injured; Vikir leaves alone after knowingly uncertain promise to Aiyen.",
+    "Target97: Bog Salamander A+/9m/8th Ridge/Infinite-Regeneration Salamander; Bone-Sucking Mosquito individual D/swarm S/3mm/9th Ridge.",
+    "Target99: Madam Eight-Legs window S / size unknown / 10th Ridge / Madam of the Flood / species unknown; severed legs regenerate as two; Bog Salamander regeneration restores Vikir.",
+    "Target100 opening Beelzebub state: Incinerate—Cerberus(A+) / Silent Heel—Mushuhushu(A+) / Super High-Speed Regeneration—Bog Salamander(A+). Kilogram Hammer is displaced.",
+    "Target100 final Beelzebub state: Venom—Madam Eight-Legs(S) / Silent Heel—Mushuhushu(A+) / Super High-Speed Regeneration—Bog Salamander(A+). Cerberus/Incinerate is displaced.",
+    "Next family targets101-104 — Nostalgia (1)-(4), mapped 101→E100 through 104→E103. Target105 begins The Returned Hero (1) and maps to E104.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

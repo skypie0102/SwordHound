@@ -1,0 +1,66 @@
+{
+  "chapter": 98,
+  "title": "Madam Eight-Legs (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/098.txt",
+    "blob_sha": "3e81774dab8c9a8cc7fff79812a1184a1377a6dc",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-097.xhtml",
+    "blob_sha": "5c1a936e89692aa380e6aa1b21fd719672a1f09d",
+    "target_alignment": 98,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/101.txt",
+    "chinese_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_path": "source/chapters/chapter-100.xhtml",
+    "english_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "purpose": "both begin Nostalgia (1) target101"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0098.md",
+    "blob_sha": "0e68738dcc2206a9030bb3eed0d00e15fb9aca7f"
+  },
+  "qa": {
+    "path": "qa/chapter-0098.md",
+    "blob_sha": "3f496d8f4fbd193f2f8d9838fb85064aa31093c8",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "climb",
+      "final": "rest caves are slime traps containing prior challenger skeletons",
+      "basis": "Chinese target98"
+    },
+    {
+      "topic": "summit",
+      "final": "summit floor is rot/bones/slime from discarded prey",
+      "basis": "Chinese target98"
+    },
+    {
+      "topic": "mourning",
+      "final": "Vikir gathers recognizable Ballak remains and mourns briefly",
+      "basis": "Chinese target98"
+    },
+    {
+      "topic": "endpoint",
+      "final": "aura arrow declares war and Madam fully emerges",
+      "basis": "Chinese target98"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

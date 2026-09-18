@@ -1,0 +1,66 @@
+{
+  "chapter": 97,
+  "title": "Madam Eight-Legs (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/097.txt",
+    "blob_sha": "0ee54bd429913b5081a5728c70d46712dbda7319",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-096.xhtml",
+    "blob_sha": "1b5f9ec23397fb15b25db1650fb0860234694548",
+    "target_alignment": 97,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/101.txt",
+    "chinese_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_path": "source/chapters/chapter-100.xhtml",
+    "english_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "purpose": "both begin Nostalgia (1) target101"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0097.md",
+    "blob_sha": "9a760964984d456ab921480a01e7fe6f8f3b6c0e"
+  },
+  "qa": {
+    "path": "qa/chapter-0097.md",
+    "blob_sha": "1a93f085e3aa755319be1516d1e49e8d770c2d90",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bog_salamander",
+      "final": "A+ / 9m / 8th Ridge / Infinite-Regeneration Salamander",
+      "basis": "Chinese target97"
+    },
+    {
+      "topic": "mtl_rejection",
+      "final": "reject E96 Infinite Regeneration Dragon",
+      "basis": "Chinese target97 蝾螈"
+    },
+    {
+      "topic": "mosquito",
+      "final": "Bone-Sucking Mosquito individual D / swarm S / 3mm / 9th Ridge",
+      "basis": "Chinese target97"
+    },
+    {
+      "topic": "preparation",
+      "final": "Vikir uses mosquito swarm to debone salamander and drags it for Madam plan",
+      "basis": "Chinese target97"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

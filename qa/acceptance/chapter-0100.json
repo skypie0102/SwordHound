@@ -1,0 +1,45 @@
+{
+  "chapter": 100,
+  "title": "Madam Eight-Legs (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/100.txt",
+    "primary_source_sha": "0290a265ebc69a85eac8480030fe60e71e21b006",
+    "english_reference_path": "source/chapters/chapter-099.xhtml",
+    "english_reference_sha": "6f7bbdba6b24537df925820e137906b98d46a655",
+    "draft_path": "manuscript/drafts/chapter-0100.md",
+    "draft_sha": "b0e6d98dcf771297e970569f9782a588e2b61f89",
+    "qa_path": "qa/chapter-0100.md",
+    "qa_sha": "79dc7c477a125b591a8ab10ab16cc1805ffa0799",
+    "provenance_path": "editorial/provenance/chapter-0100.json",
+    "provenance_sha": "20224be5a086e8b610110702f1437b723b267063"
+  },
+  "canonical_checks": [
+    "Venom",
+    "Madam Eight-Legs",
+    "Silent Heel",
+    "Mushuhushu",
+    "Super High-Speed Regeneration",
+    "Bog Salamander",
+    "Cerberus",
+    "Beelzebub",
+    "Aiyen",
+    "Bakira"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Target 101 Nostalgia content is not imported backward."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "chapter": 100,
+  "title": "Madam Eight-Legs (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/100.txt",
+    "blob_sha": "0290a265ebc69a85eac8480030fe60e71e21b006",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-099.xhtml",
+    "blob_sha": "6f7bbdba6b24537df925820e137906b98d46a655",
+    "target_alignment": 100,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/101.txt",
+    "chinese_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_path": "source/chapters/chapter-100.xhtml",
+    "english_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "purpose": "both begin Nostalgia (1) target101"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0100.md",
+    "blob_sha": "b0e6d98dcf771297e970569f9782a588e2b61f89"
+  },
+  "qa": {
+    "path": "qa/chapter-0100.md",
+    "blob_sha": "79dc7c477a125b591a8ab10ab16cc1805ffa0799",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "slot3",
+      "final": "Bog Salamander Super High-Speed Regeneration (A+) displaces Kilogram Hammer in Slot3",
+      "basis": "Chinese target100 opening window"
+    },
+    {
+      "topic": "strategy",
+      "final": "Vikir multiplies Madam legs to shift center of gravity, then pushes her over cliff",
+      "basis": "Chinese target100"
+    },
+    {
+      "topic": "fall_plan",
+      "final": "deboned Bog Salamander carcass is prepared fall cushion",
+      "basis": "Chinese target100"
+    },
+    {
+      "topic": "slot1",
+      "final": "Madam S spirit displaces Cerberus/Incinerate and grants Venom",
+      "basis": "Chinese target100 final window"
+    },
+    {
+      "topic": "final_state",
+      "final": "Venom—Madam(S) / Silent Heel—Mushuhushu(A+) / Super High-Speed Regeneration—Bog Salamander(A+)",
+      "basis": "Chinese target100"
+    },
+    {
+      "topic": "boundary",
+      "final": "ends with Aiyen/Bakira finding Vikir and blackout before Nostalgia",
+      "basis": "family boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
