@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Freshman Talent Show acceptance checkpoint
 - **Working branch:** `editorial/restart-freshman-talent-show-0130-0132`
 - **Base main checkpoint:** `3898bacd3750dcd8dc78c21a9f991d00d59e9ef0` (Admission to the Academy checkpoint merged)
-- **Current PR:** pending creation
+- **Current PR:** #40 — `Rebuild The Freshman Talent Show Chapters 130–132`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
