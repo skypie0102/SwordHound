@@ -1,0 +1,44 @@
+{
+  "chapter": 217,
+  "title": "My Neck Will Be Your Sheath (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
+    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/217.txt",
+    "primary_source_sha": "938e3e6279d82a515e2a746207b67f57cbb418e7",
+    "english_reference_path": "source/chapters/chapter-215.xhtml",
+    "english_reference_sha": "1d0cde61f3f2971d05546ffca54359daa43d6639",
+    "draft_path": "manuscript/drafts/chapter-0217.md",
+    "draft_sha": "d4b53a7ba674eb2c790437c84165444c0bfdd2a8",
+    "qa_path": "qa/chapter-0217.md",
+    "qa_sha": "c9cdd032bccc158bdd8f854d03dd1e2724e09a52",
+    "provenance_path": "editorial/provenance/chapter-0217.json",
+    "provenance_sha": "c9957823b66d06d8522e0129bc302c64550faec8"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Seere",
+    "Art of Complete Resurrection",
+    "Bog Salamander",
+    "Anubis",
+    "Baby Madam",
+    "Andromalius",
+    "Dantalian"
+  ],
+  "documented_limits": [
+    "Camus/Seere are twelve-hour roommates/co-controllers, not ordinary host possession.",
+    "Seere's seductive taunts remain source-scoped and not amplified."
+  ],
+  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1)."
+}
