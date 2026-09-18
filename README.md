@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **154 / 500 accepted; next Chapter 155.** Latest accepted family: **targets 152–154 — The Drinking Game (1)–(3)**.
+Current checkpoint: **157 / 500 accepted; next Chapter 158.** Latest accepted family: **targets 155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**.
 
-The next verified family is **How to Keep Your Night Shift Employees Safe, targets 155–157**, mapped **155→E154, 156→E155, 157→E156**. Target 158 begins **Familiar Face (1)** and maps to E157.
+The next verified family is **Familiar Face, targets 158–161**, mapped **158→E157 through 161→E160**. Target 162 begins **Sin and Punishment (1)** and maps to E161.
 
 ## Current source policy
 
@@ -37,6 +37,17 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted night-shift safety family adds/revalidates:
+
+- **How to Keep Your Night Shift Employees Safe** — accepted production family title for targets 155–157; witnesses E154–E156.
+- **Fourteen safety rules** — contradictions preserved rather than repaired.
+- **Rule 3** — all sexual activity prohibited; recovered-English narrowing rejected.
+- **Peri / HELP ME** — canonical naming retained through the looping-corridor sequence.
+- **Dolores** — explicitly seventeen in target 157.
+- **Ephebo** — first undead guard encountered in the night sequence, without Ten Corpse promotion.
+- **Familiar Face** — next family targets 158–161; witnesses E157–E160.
+- **Sin and Punishment** begins target 162 / E161.
 
 The accepted Drinking Game family adds/revalidates:
 
@@ -136,15 +147,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–154**:
+Current accepted production evidence covers targets **1–157**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0154.md`
-- `qa/chapter-0001.md` through `chapter-0154.md`
-- accepted family QA through `qa/families/drinking-game-0152-0154.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0154.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0154.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0157.md`
+- `qa/chapter-0001.md` through `chapter-0157.md`
+- accepted family QA through `qa/families/night-shift-safety-0155-0157.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0157.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0157.json`
 
-Latest family QA: `qa/families/drinking-game-0152-0154.md` — **PASS**.
+Latest family QA: `qa/families/night-shift-safety-0155-0157.md` — **PASS**.
 
 ## Editorial quality bar
 
