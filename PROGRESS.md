@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Festival Night (1)–(10) accepted
+
+**Current state:** 215 / 500 accepted; 0 staged; next Chapter 216.
+
+Completed targets 206–215 with mapping **206→E204 through 215→E213**.
+
+Key decisions: festival costumes and comedy are preserved without added sexualization; C208's isolated name drift is repaired to **Camus Morgue** from target-46 continuity without identifying the Corpse Queen early; Vikir recognizes he still retains emotional capacity to care for others; Osiris/Pomeranian and Messinadnaro restitution continuity are preserved; **Ring of Divine Inviolability / Finit hic Deus** are locked; the Queen's festival humanization and half-day Seere contract are source-timed; her true sought person remains unnamed; Dolores's “Soulmate” remains contextual dialogue; the hidden Ring space reflects Seth's inner world; Vikir's six-and-a-half image is six complete Fangs plus a half-formed Seventh; and target 215 stops before the first explicit Camus Morgue identity reveal in 216.
+
+Family QA: `qa/families/festival-night-0206-0215.md` — **PASS**.
+
+Next verified family: **216–219 — My Neck Will Be Your Sheath (1)–(4)**. Target **220** begins *That Day, Him and Me (1)*.
+
 ## 2026-09-19 — Mixed Bath (1)–(3) accepted
 
 **Current state:** 205 / 500 accepted; 0 staged; next Chapter 206.
