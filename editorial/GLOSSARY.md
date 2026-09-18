@@ -528,3 +528,14 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Rum clue** — Vikir uses strong rum to clean the Night Hound cloak; Bianca detects the odor on the rooftop.
 - **The Freshman Talent Show** — next verified family targets 130–132, witnesses E129–E131.
 - **Test Your Skills** — begins target 133 / E132; verified six-part family through target 138.
+
+## Freshman Talent Show additions — Chapters 130–132
+
+- **The Freshman Talent Show** — accepted production family title for targets 130–132; shifted witnesses E129–E131.
+- **Military-song memorial** — Vikir's performance is a prior-life battlefield memorial/reunion; wording should be paraphrased while preserving the source function.
+- **Pigi paired performance** — Vikir sings; Pigi repeats the simple fist-down/up plus right-foot-stamp motion.
+- **Bianca rum clue** — nearly links Vikir to the rooftop but loses certainty in the alcohol-heavy gathering.
+- **Dolores familiarity** — senses something familiar in Vikir without identifying the Night Hound.
+- **Night Hound X warning** — target 132 confrontation with six second-years; preserve visible marks and warning, avoid gratuitous injury detail.
+- **Test Your Skills** — next verified family targets 133–138; witnesses E132–E137.
+- **Men are Power** — begins target 139 / E138.
