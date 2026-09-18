@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Familiar Face (1)–(4) accepted
+
+**Current state:** 161 / 500 accepted; 0 staged; next Chapter 162.
+
+Completed targets 158–161 with mapping **158→E157 through 161→E160**.
+
+Key decisions: target 158 source-reveals Quilt as a **Demon King-class demon** while withholding his later personal demon name; target 159 source-reveals **the Ninth Corpse** behind the face-stealing/corrupted-undead network without importing later Dantalian naming; Ephebo is Mozgus Quovadis's Old Testament twin brother; target 160 locks **Silent Heel — Mushuhushu**, **Super Regeneration — Swamp Marsh Salamander**, **Staffordshire Baskerville = Pedo**, and Hebe's Donquixote affiliation; target 161 confirms **Geronto is not Camus Morgue** and introduces the great-house grave-robbing clue.
+
+Family QA: `qa/families/familiar-face-0158-0161.md` — **PASS**.
+
+Next verified family: **162–169 — Sin and Punishment (1)–(8)**. Recovered English has **no witness for target 168** in the current sequence; E167 resumes at target 169. Target **170** begins *Adorable Pet (1)* and maps to E168.
+
 ## 2026-09-18 — How to Keep Your Night Shift Employees Safe (1)–(3) accepted
 
 **Current state:** 157 / 500 accepted; 0 staged; next Chapter 158.
