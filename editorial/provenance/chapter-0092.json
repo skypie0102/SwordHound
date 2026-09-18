@@ -1,0 +1,66 @@
+{
+  "chapter": 92,
+  "title": "The Ghosts of the Ancestors (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Ghosts of the Ancestors",
+    "range": [
+      90,
+      94
+    ],
+    "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
+    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/092.txt",
+    "blob_sha": "a880ba08795a97b8343f5b49640e2a46b9b8a9ec",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-091.xhtml",
+    "blob_sha": "98931f3b4140b17b93bba780fb12e99480487f20",
+    "target_alignment": 92,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/095.txt",
+    "chinese_sha": "891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc",
+    "english_path": "source/chapters/chapter-094.xhtml",
+    "english_sha": "88b0d59eb7cc73e684a1d56c7db610c53cd92413",
+    "purpose": "both begin Madam Eight-Legs (1) target95"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0092.md",
+    "blob_sha": "1886d92bea88028644ed52ea7af5834e454e66e0"
+  },
+  "qa": {
+    "path": "qa/chapter-0092.md",
+    "blob_sha": "b04fe3f97e3cfcfad4f8bb459f0efb349b7c7594",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "adonai_rank",
+      "final": "Adonai is master/Bow Master class with solid aura",
+      "basis": "Chinese target92"
+    },
+    {
+      "topic": "bow",
+      "final": "black bow made from old Madam Eight-Legs remains/shed material and retains poison",
+      "basis": "Chinese target92"
+    },
+    {
+      "topic": "vikir_rank",
+      "final": "Vikir remains High Sword Graduator; liquid aura loses to solid master aura",
+      "basis": "Chinese target92"
+    },
+    {
+      "topic": "abilities",
+      "final": "Kilogram Hammer and six Fangs used defensively",
+      "basis": "Chinese target92 + accepted equipment"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
