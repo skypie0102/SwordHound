@@ -1,0 +1,89 @@
+{
+  "chapter": 76,
+  "title": "The Hound of the Night (2)",
+  "source_policy": "chinese_semantic_scoped_combined_raw_restoration_2026-09-18",
+  "title_family": {
+    "name": "The Hound of the Night",
+    "range": [
+      75,
+      77
+    ],
+    "family_qa_path": "qa/families/hound-night-0075-0077.md",
+    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/075.txt",
+    "blob_sha": "e65af08f559f82f470687cc42c1d1420e1e55e15",
+    "authority": "semantic_narrative_primary_combined_container",
+    "source_mode": "hybrid_e75_missing_opening_plus_combined_c075_body"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-075.xhtml",
+    "blob_sha": "68c385dab862c292c4fbf2cc571beb1b6483e9c0",
+    "target_alignment": 76,
+    "authority": "secondary_reference_with_scoped_gap_restoration"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/078.txt",
+    "chinese_sha": "155a238a81adfdc32ce7b97d9e28e05f4133c395",
+    "english_path": "source/chapters/chapter-077.xhtml",
+    "english_sha": "64c564988053d5a39bde90c0f81685055f2bf13f",
+    "purpose": "both begin The Saintess (1) target78"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Saint Mecca",
+        "Quovadis",
+        "Dolores L. Quovadis",
+        "Hound of the Night",
+        "Leviathan Clan",
+        "Bourgeois Clan",
+        "Boston Terrier Le Baskerville",
+        "Red Death"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0076.md",
+    "blob_sha": "d25cee273318020cce6b9c999cfdab91447c2795"
+  },
+  "qa": {
+    "path": "qa/chapter-0076.md",
+    "blob_sha": "966144f8bf892fd4e43f450507af2474ab19faa3",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "target76_scope",
+      "final": "E75 supplies missing Saint Mecca opening/context; C075 controls surviving slum/well/Quovadis-residence body",
+      "basis": "C075/E75 alignment"
+    },
+    {
+      "topic": "well_event",
+      "final": "retain deliberate Red Death well contamination only as source narrative wrongdoing; do not add operational biological detail",
+      "basis": "Chinese target76 body"
+    },
+    {
+      "topic": "children",
+      "final": "Vikir deliberately frightens children away to prevent them drinking from the well",
+      "basis": "Chinese target76 body"
+    },
+    {
+      "topic": "leviathan",
+      "final": "plant Leviathan emblem and frame clan as culprit based on Vikir's prior-life knowledge/current evidence",
+      "basis": "Chinese target76 body"
+    },
+    {
+      "topic": "dolores_chronology",
+      "final": "use canonical Dolores L. Quovadis name but do not import target78 age/profile",
+      "basis": "reveal chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
