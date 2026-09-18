@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 189,
+  "accepted_count": 196,
   "staged_count": 0,
-  "next_chapter": 190,
+  "next_chapter": 197,
   "active_title_family": {
-    "name": "Attack Land",
+    "name": "Preparing for the Festival",
     "range": [
-      190,
-      196
+      197,
+      197
     ],
-    "boundary_status": "verified seven-part family; Chinese word order flips from target192 onward but numbering/content/witnesses remain contiguous",
-    "following_family_starts": 197,
-    "following_title": "Preparing for the Festival (1)",
-    "alignment_note": "190→E188,191→E189,192→E190,193→E191,194→E192,195→E193,196→E194;197→E195"
+    "boundary_status": "verified single-chapter bridge",
+    "following_family_starts": 198,
+    "following_title": "The Corpse Queen (1)",
+    "alignment_note": "197→E195;198→E196"
   },
   "chapters": [
     {
@@ -2661,6 +2661,104 @@
       "acceptance": "qa/acceptance/chapter-0189.json",
       "acceptance_sha": "2705f3f334f0f45225b1b1bc8076f0fe58114168",
       "family_qa": "qa/families/aftermath-0186-0189.md"
+    },
+    {
+      "chapter": 190,
+      "title": "Attack Land (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/190.txt",
+      "english_mtl_reference": "source/chapters/chapter-188.xhtml",
+      "draft": "manuscript/drafts/chapter-0190.md",
+      "qa": "qa/chapter-0190.md",
+      "provenance": "editorial/provenance/chapter-0190.json",
+      "acceptance": "qa/acceptance/chapter-0190.json",
+      "acceptance_sha": "2ed22a31d7f665afaa4a881aeb9873dcaf456bda",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 191,
+      "title": "Attack Land (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/191.txt",
+      "english_mtl_reference": "source/chapters/chapter-189.xhtml",
+      "draft": "manuscript/drafts/chapter-0191.md",
+      "qa": "qa/chapter-0191.md",
+      "provenance": "editorial/provenance/chapter-0191.json",
+      "acceptance": "qa/acceptance/chapter-0191.json",
+      "acceptance_sha": "4e488e1644f46dce8fe65d43876193eb3d754a6b",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 192,
+      "title": "Attack Land (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/192.txt",
+      "english_mtl_reference": "source/chapters/chapter-190.xhtml",
+      "draft": "manuscript/drafts/chapter-0192.md",
+      "qa": "qa/chapter-0192.md",
+      "provenance": "editorial/provenance/chapter-0192.json",
+      "acceptance": "qa/acceptance/chapter-0192.json",
+      "acceptance_sha": "72749504d4995c2edf189722a5f9905e463cb20c",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 193,
+      "title": "Attack Land (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/193.txt",
+      "english_mtl_reference": "source/chapters/chapter-191.xhtml",
+      "draft": "manuscript/drafts/chapter-0193.md",
+      "qa": "qa/chapter-0193.md",
+      "provenance": "editorial/provenance/chapter-0193.json",
+      "acceptance": "qa/acceptance/chapter-0193.json",
+      "acceptance_sha": "2e76bc27e6c62beeb1c38712471bfb66de9313ba",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 194,
+      "title": "Attack Land (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/194.txt",
+      "english_mtl_reference": "source/chapters/chapter-192.xhtml",
+      "draft": "manuscript/drafts/chapter-0194.md",
+      "qa": "qa/chapter-0194.md",
+      "provenance": "editorial/provenance/chapter-0194.json",
+      "acceptance": "qa/acceptance/chapter-0194.json",
+      "acceptance_sha": "5fc714840c812186041c241118360937c14d6264",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 195,
+      "title": "Attack Land (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/195.txt",
+      "english_mtl_reference": "source/chapters/chapter-193.xhtml",
+      "draft": "manuscript/drafts/chapter-0195.md",
+      "qa": "qa/chapter-0195.md",
+      "provenance": "editorial/provenance/chapter-0195.json",
+      "acceptance": "qa/acceptance/chapter-0195.json",
+      "acceptance_sha": "1d37553fa75dbcc2eedc7ce86706cff28b21957c",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 196,
+      "title": "Attack Land (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/196.txt",
+      "english_mtl_reference": "source/chapters/chapter-194.xhtml",
+      "draft": "manuscript/drafts/chapter-0196.md",
+      "qa": "qa/chapter-0196.md",
+      "provenance": "editorial/provenance/chapter-0196.json",
+      "acceptance": "qa/acceptance/chapter-0196.json",
+      "acceptance_sha": "c4de2376b20bf20862668ce44e7338d8693c93f8",
+      "family_qa": "qa/families/attack-land-0190-0196.md"
     }
   ]
 }
