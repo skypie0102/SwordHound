@@ -9,6 +9,16 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## Lovesickness additions — Chapters 83–84
+
+- **Lovesickness** — normalized production family title for targets 83–84.
+- **Target-84 patient count** — about thirty Ballak patients; **thousands** across surrounding tribes. Recovered-English `tens of thousands` rejected.
+- **Saintess's Tears** — one drop cures/purifies at jungle-river scale in target 84.
+- **Renaissance** — working name for the berserker tribe appearing in target 84; retain pending stronger canonical evidence.
+- **Aiyen's target-84 blush** — title-family payoff; holy water does not remove it because it is not Red Death.
+- **The Illiad** — next family targets 85–89, mapped E84–E88.
+- **The Ghosts of the Ancestors** — begins target 90 / E89.
+
 ## The Saintess additions — Chapters 78–82
 
 - **The Saintess** — normalized production family title for targets 78–82.

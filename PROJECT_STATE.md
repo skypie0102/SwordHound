@@ -2,40 +2,36 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 82  
+**Accepted:** 84  
 **Staged:** 0  
-**Next chapter:** 83
+**Next chapter:** 85
 
 ## Current accepted checkpoint
 
-Twenty-three complete title families have passed the restarted workflow, through:
+Twenty-four complete title families have passed the restarted workflow, through:
 
-- Chapters 75–77 — *The Hound of the Night (1)–(3)*
 - Chapters 78–82 — *The Saintess (1)–(5)*
+- Chapters 83–84 — *Lovesickness (1)–(2)*
 
-Latest family QA: `qa/families/saintess-0078-0082.md` — **PASS**.
+Latest family QA: `qa/families/lovesickness-0083-0084.md` — **PASS**.
 
-## The Saintess family decisions
+## Lovesickness family decisions
 
-- Verified shifted mapping: **78→E77, 79→E78, 80→E79, 81→E80, 82→E81**.
-- **Dolores L. Quovadis** is sixteen, second-year, student-council vice president, and an early-admission/top-ranked prodigy in target 78.
-- Dolores's admiration/heartbeat material remains source-level and nonsexual.
-- Target 79 Chinese controls that the first Saint Mecca cluster consists of **primary waterborne cases only; no secondary cases yet**.
-- Dolores heals **six** early patients with one tear/prayer miracle.
-- Target 80 retains **42 registered wells** plus unregistered wells and purification trials **1a–3c**.
-- Target 81's divine-power borrowing / short-selling / overdraft is fantasy magic-system material only; Ballak herbs delay symptoms rather than curing Red Death.
-- Target 82 produces **three drops of Plany de la Verge / Saintess's Tears**.
-- **Humbert L. Quovadis** follows the current canonical Fandom form; later family-history/adoption details remain chronology-blocked.
-- **Old Testament Faction / New Testament Faction** are retained.
-- Chinese **nail-and-hammer** Bourgeois emblem overrides E81's `scythe and hammer`.
-- Chinese `小妖精` is rendered nonsexually as **little sprite**; the sexualized English gloss attached to the raw is not reproduced.
-- The family ends after the Hound vanishes and one Saintess's Tear is missing.
+- Verified shifted mapping: **83→E82, 84→E83**.
+- Target 83 recaps Aiyen's Cerberus injury, enslavement, Vikir rescue, repeated searches for him, Madam Eight-Legs rescue, and Ballak village life as a dream-continuity sequence.
+- Aiyen's slave-cage fears and Ballak partner-capture customs remain coercive source context without eroticization.
+- Aiyen's sickbed nudity is purely medical/nonsexual; no age is inferred for her.
+- Akwilla's conception anecdote is retained factually and non-erotically, including intoxication, lack of contraception, conception, and the father's execution the following day.
+- Target 84 uses **about thirty** Ballak patients and **thousands** across other tribes; recovered-English `tens of thousands` is rejected.
+- **Saintess's Tears** cures Aheul and then purifies the shared river source.
+- Vikir explicitly treats inter-tribal gratitude as a strategic counterweight to Baskerville.
+- Aiyen's blush remains after holy water and completes the **Lovesickness** title payoff.
 
 ## Next verified title family
 
-- **Target Chapters 83–84 — Lovesickness (1)–(2)**
-- Verified mapping: **83→E82, 84→E83**.
-- Target Chapter 85 begins **The Illiad (1)** and aligns to **E84**.
+- **Target Chapters 85–89 — The Illiad (1)–(5)**
+- Verified mapping: **85→E84, 86→E85, 87→E86, 88→E87, 89→E88**.
+- Target Chapter 90 begins **The Ghosts of the Ancestors (1)** and aligns to **E89**.
 
 ## Source authority
 
@@ -58,4 +54,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Saintess (1)–(5), targets 78–82** checkpoint, then branch from merged main for **Lovesickness, targets 83–84**. Use the verified shifted witnesses E82–E83, preserve Aiyen/Akwilla/Vikir continuity, QA the complete two-part family, and continue into **The Illiad** at target 85.
+Merge the clean **Lovesickness (1)–(2), targets 83–84** checkpoint, then branch from merged main for **The Illiad, targets 85–89**. Read and align the full five-part family against E84–E88, use target 90 / E89 as the boundary witness, reconstruct and QA all five chapters, then continue directly into **The Ghosts of the Ancestors**.

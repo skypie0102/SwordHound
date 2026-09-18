@@ -6,15 +6,15 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **82 / 500 accepted; next Chapter 83.** Latest accepted family: **targets 78–82 — The Saintess (1)–(5)**.
+Current checkpoint: **84 / 500 accepted; next Chapter 85.** Latest accepted family: **targets 83–84 — Lovesickness (1)–(2)**.
 
-The next verified family is **Lovesickness, targets 83–84**, mapped **83→E82, 84→E83**. Target 85 begins **The Illiad (1)**.
+The next verified family is **The Illiad, targets 85–89**, mapped **85→E84 through 89→E88**. Target 90 begins **The Ghosts of the Ancestors (1)** and aligns to E89.
 
 ## Current source policy
 
 - `source/chinese/chapters/` — **semantic/narrative authority** for the 500-chapter target edition.
 - English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki — **canonical English authority** for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns where an applicable entry exists.
-- `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus; secondary alignment/phrasing reference only, except Chapter 55 where no Chinese raw exists.
+- `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus; secondary alignment/phrasing reference, with scoped restoration only for documented Chinese gaps/splices.
 - `source/chinese/chapter-exceptions.tsv` — missing/combined raw exceptions and verified nontrivial English-MTL alignments.
 - `editorial/SOURCES.md` and `editorial/WORKFLOW.md` — authoritative source and editorial procedures.
 - `AGENTS.md` — mandatory agent behavior, including continuous title-family processing and handoff maintenance.
@@ -38,30 +38,29 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Saintess family adds/revalidates:
+The accepted Lovesickness family adds/revalidates:
 
-- **Dolores L. Quovadis** — canonical form; sixteen during targets 78–82.
-- **Humbert L. Quovadis** — canonical Fandom form; raw/recovered `Humbert Humbert L. Quovadis` is not used.
-- **Nabokov I Quovadis** — Pope-level authority referenced in target 79.
-- **Plany de la Verge / Saintess's Tears** — three concentrated holy-water drops completed in target 82.
-- **Old Testament Faction / New Testament Faction** — Quovadis internal factions.
-- **Bourgeois emblem** in target 82 = Chinese-source **nail and hammer**; recovered-English `scythe and hammer` rejected.
-- **Target-79 case correction** — primary contaminated-water cases only; no secondary saliva/waste cases yet.
-- **Divine-power short selling** — target-81 fantasy magic mechanic; not real-world medical/religious guidance.
-- **Lovesickness** — next family targets 83–84; witnesses E82–E83.
-- **The Illiad** begins target 85 / E84.
+- **Lovesickness** — production family title for targets 83–84.
+- **Aiyen** — target-83 dream recounts established history; no age is inferred.
+- **Akwilla** — mother/chieftain continuity retained; her target-83 conception story is factual/non-erotic.
+- **Saintess's Tears** — cures Aheul and purifies the shared jungle river source in target 84.
+- **Renaissance** — working aligned name for the berserker tribe in target 84 pending stronger canonical evidence.
+- Target-84 patient scale = **about thirty** in Ballak and **thousands** across the other tribes.
+- Aiyen's persistent blush after holy water is the **Lovesickness** payoff, not Red Death.
+- **The Illiad** — next family spans targets 85–89; witnesses E84–E88.
+- **The Ghosts of the Ancestors** begins target 90 / E89.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–82**:
+Current accepted production evidence covers targets **1–84**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0082.md`
-- `qa/chapter-0001.md` through `chapter-0082.md`
-- accepted family QA through `qa/families/saintess-0078-0082.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0082.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0082.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0084.md`
+- `qa/chapter-0001.md` through `chapter-0084.md`
+- accepted family QA through `qa/families/lovesickness-0083-0084.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0084.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0084.json`
 
-Latest family QA: `qa/families/saintess-0078-0082.md` — **PASS**.
+Latest family QA: `qa/families/lovesickness-0083-0084.md` — **PASS**.
 
 ## Editorial quality bar
 

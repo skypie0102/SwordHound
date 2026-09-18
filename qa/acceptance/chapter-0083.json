@@ -1,0 +1,43 @@
+{
+  "chapter": 83,
+  "title": "Lovesickness (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Lovesickness",
+    "range": [
+      83,
+      84
+    ],
+    "family_qa_path": "qa/families/lovesickness-0083-0084.md",
+    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/083.txt",
+    "primary_source_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "english_reference_path": "source/chapters/chapter-082.xhtml",
+    "english_reference_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "draft_path": "manuscript/drafts/chapter-0083.md",
+    "draft_sha": "3ba29ec77731da0e697b273bf5e92e79daaf3d49",
+    "qa_path": "qa/chapter-0083.md",
+    "qa_sha": "9a799cfa3169cdcad903a606a36b2875e84abf25",
+    "provenance_path": "editorial/provenance/chapter-0083.json",
+    "provenance_sha": "20bb8d753e746f0183752ede9018663b4426c21c"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Akwilla",
+    "Vikir",
+    "Ballak Tribe",
+    "Cerberus",
+    "Madam Eight-Legs",
+    "Red Death"
+  ],
+  "documented_limits": [
+    "Target 83 maps to E82.",
+    "Aiyen's sickbed nudity is medical/nonsexual; no age is inferred.",
+    "Conception anecdote is retained factually without erotic embellishment."
+  ]
+}
