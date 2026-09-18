@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Aftermath acceptance checkpoint
 - **Working branch:** `editorial/restart-aftermath-0186-0189`
 - **Base main checkpoint:** `faa86862d0f199677c9ae21d479ca55671089c80` (Midterm Random Defense checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #54 — `Rebuild Aftermath Chapters 186–189`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
