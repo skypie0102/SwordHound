@@ -1,0 +1,44 @@
+{
+  "chapter": 75,
+  "title": "The Hound of the Night (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "hybrid_combined_c075_plus_e74_missing_close",
+  "title_family": {
+    "name": "The Hound of the Night",
+    "range": [
+      75,
+      77
+    ],
+    "family_qa_path": "qa/families/hound-night-0075-0077.md",
+    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/075.txt",
+    "primary_source_sha": "e65af08f559f82f470687cc42c1d1420e1e55e15",
+    "english_reference_path": "source/chapters/chapter-074.xhtml",
+    "english_reference_sha": "1bc968f310582423381420fc7e09e84aa4cf7e72",
+    "draft_path": "manuscript/drafts/chapter-0075.md",
+    "draft_sha": "d5f09a9758fe8fc1b98a70bee19b586ffe1043a8",
+    "qa_path": "qa/chapter-0075.md",
+    "qa_sha": "c1a6ed52d6982d2a3d0dd53bfa9580458ee2093b",
+    "provenance_path": "editorial/provenance/chapter-0075.json",
+    "provenance_sha": "4adb740e03554271a026abbee41bc99e188e1ad6"
+  },
+  "canonical_checks": [
+    "Saint Mecca",
+    "Hound of the Night",
+    "Pomeranian La Baskerville",
+    "Chihuahua Baskerville",
+    "Cindywendy",
+    "Messinadnaro",
+    "Judy",
+    "Quovadis"
+  ],
+  "documented_limits": [
+    "Physical C075 combines targets 75-76 and is not safely splittable.",
+    "Target75 uses Chinese body and only the missing E74 close toward Quovadis.",
+    "Four-day travel total follows the itemized Chinese route plus E74, overriding isolated contradictory raw wording."
+  ]
+}
