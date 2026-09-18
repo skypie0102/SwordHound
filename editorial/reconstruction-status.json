@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 171,
+  "accepted_chapters": 175,
   "staged_chapters": 0,
-  "next_chapter": 172,
+  "next_chapter": 176,
   "latest_accepted_family": {
-    "name": "Adorable Pet",
-    "range": [
-      170,
-      171
-    ],
-    "family_qa": "qa/families/adorable-pet-0170-0171.md"
-  },
-  "next_title_family": {
     "name": "The Anti-Columnist",
     "range": [
       172,
       175
     ],
-    "boundary_status": "verified four-part family; Chinese title wording drifts on parts3-4 but sequence/content and recovered witnesses remain contiguous",
-    "following_family_starts": 176,
-    "following_title": "The 99 Hits With 100 Shots (1)",
-    "alignment_note": "172→E170,173→E171,174→E172,175→E173;176→E174"
+    "family_qa": "qa/families/anti-columnist-0172-0175.md"
+  },
+  "next_title_family": {
+    "name": "The 99 Hits With 100 Shots",
+    "range": [
+      176,
+      178
+    ],
+    "boundary_status": "verified three-part family",
+    "following_family_starts": 179,
+    "following_title": "Midterm Random Defense (1)",
+    "alignment_note": "176→E174,177→E175,178→E176;179→E177"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -233,17 +233,21 @@
     168,
     169,
     170,
-    171
+    171,
+    172,
+    173,
+    174,
+    175
   ],
   "notes": [
-    "Chapters 170-171 are accepted as Adorable Pet (1)-(2).",
-    "C170 contains two documented localized Chinese omissions restored only from E168: the classmates' give-Vikir-space exchange and the four-mask→Picaresque bridge.",
-    "Picaresque Mask displays Kin-Slaying +0 and Human Face, Beast Heart Off/On; dog transformation is intent-controlled.",
-    "Vikir mourns Peri and resolves to intensify demon hunting.",
-    "Madam Eight-Legs's egg hatches into Baby Madam.",
-    "Target171 reuses the accepted Madam Eight-Legs source-scope window: Danger Rating S / Le Rouge et Le Noir 10th Ridge / Madam of the Flood.",
-    "Baby Madam's silk is exceptionally strong and heat-resistant; extraordinary hatchlings develop through increasingly diverse/strong poisons.",
-    "Next family targets172-175 — The Anti-Columnist (1)-(4), mapped 172→E170 through 175→E173. Target176→E174 begins The 99 Hits With 100 Shots (1).",
+    "Chapters 172-175 are accepted as The Anti-Columnist (1)-(4).",
+    "C172 contains a registered duplicate overlap from the end of C171; only the repeated Pigi/newspaper delivery is omitted.",
+    "Vikir deliberately writes anti–Night Hound propaganda to reduce suspicion while Dolores's counter-column is blocked under Quovadis reporting guidance.",
+    "Banshee's pressure-above-Humbert statement is source fact; Dolores's theory about Humbert filtering an aging Pope remains speculation.",
+    "Granola de Leviathan is introduced; Baby Madam consumes his weak paralytic poison.",
+    "C174-175 raw title-word drift is normalized to The Anti-Columnist parts3-4 by numbering/content/witnesses.",
+    "Dolores's attachment/respect/longing toward Night Hound remains her one-sided POV; she still does not know Vikir is Night Hound.",
+    "Next family targets176-178 — The 99 Hits With 100 Shots (1)-(3), mapped 176→E174 through 178→E176. Target179→E177 begins Midterm Random Defense (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

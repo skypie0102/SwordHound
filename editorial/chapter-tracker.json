@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 171,
+  "accepted_count": 175,
   "staged_count": 0,
-  "next_chapter": 172,
+  "next_chapter": 176,
   "active_title_family": {
-    "name": "The Anti-Columnist",
+    "name": "The 99 Hits With 100 Shots",
     "range": [
-      172,
-      175
+      176,
+      178
     ],
-    "boundary_status": "verified four-part family; Chinese title wording drifts on parts3-4 but sequence/content and recovered witnesses remain contiguous",
-    "following_family_starts": 176,
-    "following_title": "The 99 Hits With 100 Shots (1)",
-    "alignment_note": "172→E170,173→E171,174→E172,175→E173;176→E174"
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 179,
+    "following_title": "Midterm Random Defense (1)",
+    "alignment_note": "176→E174,177→E175,178→E176;179→E177"
   },
   "chapters": [
     {
@@ -2409,6 +2409,62 @@
       "acceptance": "qa/acceptance/chapter-0171.json",
       "acceptance_sha": "a770115358baa0cbc98e3c31167a6b68f9b1df9c",
       "family_qa": "qa/families/adorable-pet-0170-0171.md"
+    },
+    {
+      "chapter": 172,
+      "title": "The Anti-Columnist (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/172.txt",
+      "english_mtl_reference": "source/chapters/chapter-170.xhtml",
+      "draft": "manuscript/drafts/chapter-0172.md",
+      "qa": "qa/chapter-0172.md",
+      "provenance": "editorial/provenance/chapter-0172.json",
+      "acceptance": "qa/acceptance/chapter-0172.json",
+      "acceptance_sha": "ec9578de21fcb8230b5c215c6ebea40918ea593e",
+      "family_qa": "qa/families/anti-columnist-0172-0175.md"
+    },
+    {
+      "chapter": 173,
+      "title": "The Anti-Columnist (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/173.txt",
+      "english_mtl_reference": "source/chapters/chapter-171.xhtml",
+      "draft": "manuscript/drafts/chapter-0173.md",
+      "qa": "qa/chapter-0173.md",
+      "provenance": "editorial/provenance/chapter-0173.json",
+      "acceptance": "qa/acceptance/chapter-0173.json",
+      "acceptance_sha": "4c1d69c91dd0e905259de76b4391797691f89c9b",
+      "family_qa": "qa/families/anti-columnist-0172-0175.md"
+    },
+    {
+      "chapter": 174,
+      "title": "The Anti-Columnist (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/174.txt",
+      "english_mtl_reference": "source/chapters/chapter-172.xhtml",
+      "draft": "manuscript/drafts/chapter-0174.md",
+      "qa": "qa/chapter-0174.md",
+      "provenance": "editorial/provenance/chapter-0174.json",
+      "acceptance": "qa/acceptance/chapter-0174.json",
+      "acceptance_sha": "22b91848db871c218c135921e2424a4c25201313",
+      "family_qa": "qa/families/anti-columnist-0172-0175.md"
+    },
+    {
+      "chapter": 175,
+      "title": "The Anti-Columnist (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/175.txt",
+      "english_mtl_reference": "source/chapters/chapter-173.xhtml",
+      "draft": "manuscript/drafts/chapter-0175.md",
+      "qa": "qa/chapter-0175.md",
+      "provenance": "editorial/provenance/chapter-0175.json",
+      "acceptance": "qa/acceptance/chapter-0175.json",
+      "acceptance_sha": "988edebd2ea8829d4f4583872113aadb5ed34a8f",
+      "family_qa": "qa/families/anti-columnist-0172-0175.md"
     }
   ]
 }

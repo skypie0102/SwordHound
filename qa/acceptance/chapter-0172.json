@@ -1,0 +1,43 @@
+{
+  "chapter": 172,
+  "title": "The Anti-Columnist (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Anti-Columnist",
+    "range": [
+      172,
+      175
+    ],
+    "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
+    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/172.txt",
+    "primary_source_sha": "049d9f2c72305e49d4728d8240875954e6b55d4b",
+    "english_reference_path": "source/chapters/chapter-170.xhtml",
+    "english_reference_sha": "40b561d40785e81c68526d184e508511f3f7c098",
+    "draft_path": "manuscript/drafts/chapter-0172.md",
+    "draft_sha": "f0409a70bbfb5bf6fc93b50be2f3274833d1a835",
+    "qa_path": "qa/chapter-0172.md",
+    "qa_sha": "3165df5a1d15817e45b9fb9e196d80c0dd477adf",
+    "provenance_path": "editorial/provenance/chapter-0172.json",
+    "provenance_sha": "b102d26f5a8e01016bfc4e01dff991c207905249"
+  },
+  "canonical_checks": [
+    "Night Hound",
+    "Professor Banshee Morgue",
+    "Dolores L. Quovadis",
+    "Old Testament Faction",
+    "New Testament Faction",
+    "Ryukeion"
+  ],
+  "documented_limits": [
+    "C172 duplicated C171-end Pigi block is omitted only as registered overlap.",
+    "Damaged Chinese bounty digits are not over-restored.",
+    "Pope/Humbert manipulation remains Dolores's speculation."
+  ],
+  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1)."
+}

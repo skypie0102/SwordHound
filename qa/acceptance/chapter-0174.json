@@ -1,0 +1,45 @@
+{
+  "chapter": 174,
+  "title": "The Anti-Columnist (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Anti-Columnist",
+    "range": [
+      172,
+      175
+    ],
+    "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
+    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/174.txt",
+    "primary_source_sha": "14dbd097378fb90859f17494de99dda5d0713f8a",
+    "english_reference_path": "source/chapters/chapter-172.xhtml",
+    "english_reference_sha": "466928bba4b0c1278b9b09832eeb35d65740fad1",
+    "draft_path": "manuscript/drafts/chapter-0174.md",
+    "draft_sha": "c46e7115716895a9c33812b5c0840df24a00b63d",
+    "qa_path": "qa/chapter-0174.md",
+    "qa_sha": "052100578d1be3441c78ef776397ba1dc6467efa",
+    "provenance_path": "editorial/provenance/chapter-0174.json",
+    "provenance_sha": "52ef29d79ab62b2d96464a29a0e32980b18ffc45"
+  },
+  "canonical_checks": [
+    "Granola de Leviathan",
+    "Baby Madam",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Sinclaire",
+    "Expert",
+    "Graduator"
+  ],
+  "documented_limits": [
+    "Raw Chinese title-word drift is normalized to family title.",
+    "Friends' romance teasing is not upgraded to mutual romance.",
+    "Vikir's public Expert-level cover remains a cover."
+  ],
+  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1)."
+}

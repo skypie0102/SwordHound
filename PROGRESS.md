@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Anti-Columnist (1)–(4) accepted
+
+**Current state:** 175 / 500 accepted; 0 staged; next Chapter 176.
+
+Completed targets 172–175 with mapping **172→E170 through 175→E173**.
+
+Key decisions: C172's duplicated C171-end newspaper-delivery overlap is omitted and registered; Vikir deliberately writes anti–Night Hound propaganda as cover; Dolores's counter-column is blocked under source-explicit Quovadis reporting guidance; pressure above Humbert is source-established while Dolores's Pope-manipulation theory remains speculation; Banshee's monster-strategy / student-protection role is preserved; **Granola de Leviathan** is canonically introduced; **Baby Madam** consumes his weak paralytic poison; C174–175 title-word drift is normalized to the same four-part family; and Dolores's attachment/respect/longing toward Night Hound remains one-sided POV.
+
+Family QA: `qa/families/anti-columnist-0172-0175.md` — **PASS**.
+
+Next verified family: **176–178 — The 99 Hits With 100 Shots (1)–(3)**. Target **179** begins *Midterm Random Defense (1)*.
+
 ## 2026-09-18 — Adorable Pet (1)–(2) accepted
 
 **Current state:** 171 / 500 accepted; 0 staged; next Chapter 172.

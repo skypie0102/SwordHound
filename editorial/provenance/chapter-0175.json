@@ -1,0 +1,67 @@
+{
+  "chapter": 175,
+  "title": "The Anti-Columnist (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Anti-Columnist",
+    "range": [
+      172,
+      175
+    ],
+    "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
+    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/175.txt",
+    "blob_sha": "04b000fa3041b1162c68aee1cccee6de13dcdb8e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-173.xhtml",
+    "blob_sha": "2e5546c26a01b265a53466f0e1b6c85a13fb7930",
+    "target_alignment": 175,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "localized_gap_registry": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0175.md",
+    "blob_sha": "17390a053082bfeffa3909dad990676caaa30b00"
+  },
+  "qa": {
+    "path": "qa/chapter-0175.md",
+    "blob_sha": "45dc94863a683656682ba4b42a03c120586f36d2",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "title_drift",
+      "final": "Normalize raw anti-slanderer wording to The Anti-Columnist (4) by family numbering/content/E173",
+      "basis": "Chinese C175 + E173"
+    },
+    {
+      "topic": "dolores_feelings",
+      "final": "Attachment/respect/longing/undefined pain belong to Dolores's POV only; no reciprocal Vikir romance inferred",
+      "basis": "Chinese C175"
+    },
+    {
+      "topic": "demerit_favoritism",
+      "final": "Dolores admits reducing the monster-breeding control-zone demerit from three to one because Vikir is her club junior",
+      "basis": "Chinese C175"
+    },
+    {
+      "topic": "study_guide",
+      "final": "Contextualize the Chinese/Korean genealogy idiom as first-year written-exam study notes rather than literal ancestry material",
+      "basis": "Chinese C175 context"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/176.txt",
+    "chinese_sha": "94b9589ca40d0c79ed44a8ff83acf2496fc3a197",
+    "english_path": "source/chapters/chapter-174.xhtml",
+    "english_sha": "199060b0ea9fc4e6989b550d35b0e06b474e7430",
+    "purpose": "both begin The 99 Hits With 100 Shots (1), target176"
+  }
+}
