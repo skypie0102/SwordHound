@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **100 / 500 accepted; next Chapter 101.** Latest accepted family: **targets 95–100 — Madam Eight-Legs (1)–(6)**.
+Current checkpoint: **104 / 500 accepted; next Chapter 105.** Latest accepted family: **targets 101–104 — Nostalgia (1)–(4)**.
 
-The next verified family is **Nostalgia, targets 101–104**, mapped **101→E100 through 104→E103**. Target 105 begins **The Returned Hero (1)**.
+The next verified family is **The Returned Hero, targets 105–109**, mapped **105→E104 through 109→E108**. Target 110 begins **The Great Banquet (1)**.
 
 ## Current source policy
 
@@ -38,28 +38,26 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Madam Eight-Legs family adds/revalidates:
+The accepted Nostalgia family adds/revalidates:
 
-- **Madam Eight-Legs** — S-rank monster; size unknown; 10th Ridge; alias **‘Madam of the Flood’**; exact species unknown.
-- **Bog Salamander** — A+, 9 m, 8th Ridge; alias **‘Infinite-Regeneration Salamander’**.
-- **Bone-Sucking Mosquito** — individual D / swarm S / 3 mm / 9th Ridge.
-- **Super High-Speed Regeneration — Bog Salamander (A+)** — target-100 Slot 3 replacement for Kilogram Hammer.
-- **Venom — Madam Eight-Legs (S)** — target-100 Slot 1 replacement for Cerberus/Incinerate.
-- Current Beelzebub slots after target 100: **Venom / Silent Heel / Super High-Speed Regeneration**.
-- **Nostalgia** — next family targets 101–104; witnesses E100–E103.
-- **The Returned Hero** begins target 105 / E104.
+- **Peak Sword Graduator** — Vikir's target-102 formal realm, matching his pre-regression peak.
+- **Seventh Fang** — small/incomplete form first source-revealed in target 102; it does not by itself make Vikir a Sword Master.
+- **Anubis** — completed Adonai black bow after Aiyen adds Madam Eight-Legs webbing as the bowstring.
+- **Madam's egg** — remains inert through the two-month target-104 time skip.
+- **The Returned Hero** — next family spans targets 105–109; witnesses E104–E108.
+- **The Great Banquet** begins target 110 / E109.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–100**:
+Current accepted production evidence covers targets **1–104**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0100.md`
-- `qa/chapter-0001.md` through `chapter-0100.md`
-- accepted family QA through `qa/families/madam-eight-legs-0095-0100.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0100.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0100.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0104.md`
+- `qa/chapter-0001.md` through `chapter-0104.md`
+- accepted family QA through `qa/families/nostalgia-0101-0104.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0104.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0104.json`
 
-Latest family QA: `qa/families/madam-eight-legs-0095-0100.md` — **PASS**.
+Latest family QA: `qa/families/nostalgia-0101-0104.md` — **PASS**.
 
 ## Editorial quality bar
 
