@@ -1,0 +1,71 @@
+{
+  "chapter": 215,
+  "title": "Festival Night (10)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/215.txt",
+    "blob_sha": "3bd060ced55547aa42744c7347affca3868f098e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-213.xhtml",
+    "blob_sha": "333fe1a63e56e341a7420ff0cf858dd61636e303",
+    "target_alignment": 215,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0215.md",
+    "blob_sha": "4526baa8f74f935cdfb8e2b78909190ca1749595"
+  },
+  "qa": {
+    "path": "qa/chapter-0215.md",
+    "blob_sha": "9c309fe323729b83280f62ba2e11c6fc38e003ea",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "seth_mindscape",
+      "final": "Vikir infers ring space reflects Seth Le Baskerville's inner world",
+      "basis": "Chinese C215"
+    },
+    {
+      "topic": "six_half_fangs",
+      "final": "Render raw six-and-a-half imagery as six complete fangs plus half-formed seventh",
+      "basis": "C215 + accepted incomplete Seventh Fang"
+    },
+    {
+      "topic": "emotion_deflection",
+      "final": "Killing strike veers due mental/emotional movement, not physical failure",
+      "basis": "Chinese C215"
+    },
+    {
+      "topic": "contract_reveal",
+      "final": "Queen cannot voluntarily show face or name under contract",
+      "basis": "Chinese C215"
+    },
+    {
+      "topic": "camus_guard",
+      "final": "End on childhood voice/face memory; Camus Morgue name first explicit in C216",
+      "basis": "C215 boundary C216"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}
