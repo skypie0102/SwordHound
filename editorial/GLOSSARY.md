@@ -474,3 +474,19 @@ Direct Fandom page access can be intermittently blocked by robots rules. Indexed
 An entry may be marked **accepted** only when its current chapter/title-family passes the restarted workflow. Record chapter/family scope, Chinese evidence, Fandom evidence or access limitation, competing forms, final English form, and reveal-chronology scope.
 
 The glossary never overrides Chinese plot meaning, explicitness, dialogue, sequence, or omissions/additions. Canonical English naming and semantic translation authority are separate concerns.
+
+## Falling in Love additions — Chapters 117–119
+
+- **Falling in Love** — accepted production family title for targets 117–119; shifted witnesses E116–E118.
+- **Colosseo Academy, 20th class** — target 117 notice: applications Imperial Year 19, November 4–26; eight semesters / four years; entrance Imperial Year 20, January 1. Vikir answers **“I'll go.”**
+- **Baskerville Trident oath** — Highbro / Middlebro / Lowbro kneel with sword tips against their own right feet and hilts toward Vikir, placing their lives in his hands as their chosen master. They keep his two-year-old Intermediate Sword Graduator strength and later growth secret.
+- **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** — reaffirmed throughout targets 117–119. Raw Lucina/Freya/Firian-type variants remain noncanonical source-layer drift.
+- **Lady Roxana** — Hugo's only loved woman; a commoner by birth. Target 118 reaffirms that she dies of illness shortly after Penelope's birth.
+- **Penelope La Baskerville** — her Rokoko abduction becomes the emotional trigger for Hugo's frontier relocation, political marriages, military expansion, and the modern Ironblood Sword House.
+- **Hugo's pendant** — handmade by Hugo, given to Roxana and later worn by Penelope; recovered from Rokoko and used as key lineage evidence.
+- **Pomeranian La Baskerville** — lineage confirmed in target 119 through Baskerville hair/eyes, inherited mole/birthmark, Rokoko provenance, pendant, and memories of Penelope.
+- **Madam Eight-Legs** — accepted identity of the powerful monster that blocked Penelope's attempted return route; Vikir tells Hugo he killed it.
+- **Osiris Le Baskerville** — target 119 lets him recognize and permit his own awkward warmth after seeing Hugo with Pomeranian; this is not a wholesale personality rewrite.
+- **Seven Baskerville Knight Orders** — Vikir requests all seven for half a day to hunt a dangerous monster hiding inside Baskerville; the force is described as roughly half the family's military power.
+- **The Hunt for the Second Son** — next verified family targets 120–125, witnesses E119–E124.
+- **Admission to the Academy** — begins target 126 / E125.

@@ -1,0 +1,44 @@
+{
+  "chapter": 117,
+  "title": "Falling in Love (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "family_qa_path": "qa/families/falling-in-love-0117-0119.md",
+    "family_qa_sha": "e71b0d5349ebf4b718efe2c29ecc2a260257e773",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/117.txt",
+    "primary_source_sha": "bbc6cebf5d4b19c84a5c6890b0ac5c4c17e80e90",
+    "english_reference_path": "source/chapters/chapter-116.xhtml",
+    "english_reference_sha": "6f7468972698dfdb50cc6a57c3a9bbd2e3d05be9",
+    "draft_path": "manuscript/drafts/chapter-0117.md",
+    "draft_sha": "de2e145ed300b2102edcf9ab4f06f06b5409ea59",
+    "qa_path": "qa/chapter-0117.md",
+    "qa_sha": "fb3c8329981ccef78769bf94d32122858945ff51",
+    "provenance_path": "editorial/provenance/chapter-0117.json",
+    "provenance_sha": "5372ab17b443070317ada4e2ac976e124a8f3a4b"
+  },
+  "canonical_checks": [
+    "Colosseo Academy",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville",
+    "Baskerville Trident",
+    "Intermediate Sword Graduator",
+    "Lady Roxana",
+    "Pomeranian La Baskerville"
+  ],
+  "documented_limits": [
+    "Recovered-English 'I'll be back' is rejected; Chinese says Vikir will go/enroll.",
+    "Triplet oath dialogue belongs to target117 and was not imported into target116.",
+    "No target118 Hugo-family-history material is imported backward."
+  ]
+}

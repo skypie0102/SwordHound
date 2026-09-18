@@ -1,0 +1,71 @@
+{
+  "chapter": 119,
+  "title": "Falling in Love (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "family_qa_path": "qa/families/falling-in-love-0117-0119.md",
+    "family_qa_sha": "e71b0d5349ebf4b718efe2c29ecc2a260257e773",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/119.txt",
+    "blob_sha": "30bdce6b0f8f1cb53e18674c32fd2a9be088e327",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-118.xhtml",
+    "blob_sha": "6e9ff434920c889f1224ac2272674fb3da0a1c49",
+    "target_alignment": 119,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0119.md",
+    "blob_sha": "be0515417df37d6e41e23b155b0d93f875de22b5"
+  },
+  "qa": {
+    "path": "qa/chapter-0119.md",
+    "blob_sha": "ac49425aecc3d0db6d75c341c1f79a51afb3dcbc",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "pomeranian_confirmation",
+      "final": "physical traits, Rokoko provenance, pendant, and memories of Penelope confirm Pomeranian's lineage",
+      "basis": "Chinese C119 + accepted names"
+    },
+    {
+      "topic": "route_blocker",
+      "final": "Pomeranian's child-language monster account is normalized to Madam Eight-Legs; Vikir states he killed it",
+      "basis": "Chinese C119 + accepted Madam Eight-Legs continuity"
+    },
+    {
+      "topic": "hugo_osiris_softening",
+      "final": "Hugo openly thanks Vikir and Osiris allows himself a natural smile without broader personality rewrite",
+      "basis": "Chinese C119"
+    },
+    {
+      "topic": "monster_hunt_request",
+      "final": "Vikir asks for all seven Baskerville Knight Orders for half a day to hunt a dangerous monster hiding inside Baskerville",
+      "basis": "Chinese C119"
+    },
+    {
+      "topic": "boundary",
+      "final": "chapter ends before Seth's cave scene and target-120 demon/combat material",
+      "basis": "C119/C120 and E118/E119 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/120.txt",
+    "chinese_sha": "db6dff1ae09b891c3cde68de404f060a71d697b2",
+    "english_path": "source/chapters/chapter-119.xhtml",
+    "english_sha": "c281f25b7cdd12fa76dee622ac88dd7145c6f545",
+    "purpose": "both begin The Hunt for the Second Son (1), target120"
+  }
+}
