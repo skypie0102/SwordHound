@@ -1639,6 +1639,48 @@
       "acceptance": "qa/acceptance/chapter-0116.json",
       "acceptance_sha": "428ac8c2a85ea453e9652b304794210b0efd3bb0",
       "family_qa": "qa/families/great-banquet-0110-0116.md"
+    },
+    {
+      "chapter": 117,
+      "title": "Falling in Love (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/117.txt",
+      "english_mtl_reference": "source/chapters/chapter-116.xhtml",
+      "draft": "manuscript/drafts/chapter-0117.md",
+      "qa": "qa/chapter-0117.md",
+      "provenance": "editorial/provenance/chapter-0117.json",
+      "acceptance": "qa/acceptance/chapter-0117.json",
+      "acceptance_sha": "f0020157932bd5dfbb7cd693d372e18caf392705",
+      "family_qa": "qa/families/falling-in-love-0117-0119.md"
+    },
+    {
+      "chapter": 118,
+      "title": "Falling in Love (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/118.txt",
+      "english_mtl_reference": "source/chapters/chapter-117.xhtml",
+      "draft": "manuscript/drafts/chapter-0118.md",
+      "qa": "qa/chapter-0118.md",
+      "provenance": "editorial/provenance/chapter-0118.json",
+      "acceptance": "qa/acceptance/chapter-0118.json",
+      "acceptance_sha": "b7e081ec80d07b7120f1861000c8b20d2847574c",
+      "family_qa": "qa/families/falling-in-love-0117-0119.md"
+    },
+    {
+      "chapter": 119,
+      "title": "Falling in Love (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/119.txt",
+      "english_mtl_reference": "source/chapters/chapter-118.xhtml",
+      "draft": "manuscript/drafts/chapter-0119.md",
+      "qa": "qa/chapter-0119.md",
+      "provenance": "editorial/provenance/chapter-0119.json",
+      "acceptance": "qa/acceptance/chapter-0119.json",
+      "acceptance_sha": "4c574c116286349ba94bdc3c744ef28d266dd84c",
+      "family_qa": "qa/families/falling-in-love-0117-0119.md"
     }
   ]
 }
