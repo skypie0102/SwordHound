@@ -1,0 +1,44 @@
+{
+  "chapter": 74,
+  "title": "The Red Death (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Red Death",
+    "range": [
+      72,
+      74
+    ],
+    "family_qa_path": "qa/families/red-death-0072-0074.md",
+    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/074.txt",
+    "primary_source_sha": "cc0e1e6b22601d136440825972a08cebcd429e8b",
+    "english_reference_path": "source/chapters/chapter-073.xhtml",
+    "english_reference_sha": "db89bc3ca2cd63106daadf11e113fe3a50da3bef",
+    "draft_path": "manuscript/drafts/chapter-0074.md",
+    "draft_sha": "7693e61cba97e5a84c8b2c864e91cdf7784d31f1",
+    "qa_path": "qa/chapter-0074.md",
+    "qa_sha": "8590cd22276c47218e19c1a13a1b9db02a609f87",
+    "provenance_path": "editorial/provenance/chapter-0074.json",
+    "provenance_sha": "846d4e5f0dc6454e6f114cdd8e4e66286e55853c"
+  },
+  "canonical_checks": [
+    "Aheul",
+    "Ahun",
+    "Ah'Heman",
+    "Aiyen",
+    "Akwilla",
+    "Pomeranian La Baskerville",
+    "Red Death",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Target 74 maps to E73.",
+    "Aheul is fourteen; illness and demographic/exit-law context remain clinical/nonsexual.",
+    "Target 75 begins The Hound of the Night (1) and is not pulled backward."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "chapter": 72,
+  "title": "The Red Death (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Red Death",
+    "range": [
+      72,
+      74
+    ],
+    "family_qa_path": "qa/families/red-death-0072-0074.md",
+    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/072.txt",
+    "primary_source_sha": "8cf8c0385d0680afc3eb1148653abeac43ce12d9",
+    "english_reference_path": "source/chapters/chapter-071.xhtml",
+    "english_reference_sha": "bbee450f38deaf7753263cc92cff28fc1d54e09e",
+    "draft_path": "manuscript/drafts/chapter-0072.md",
+    "draft_sha": "194916079b9a805456013237aec4ef05f389b071",
+    "qa_path": "qa/chapter-0072.md",
+    "qa_sha": "6015dc76bd76c542d457a58681f6faec677818ff",
+    "provenance_path": "editorial/provenance/chapter-0072.json",
+    "provenance_sha": "c5938752aa337cf97b188d6c2c34742955c14a79"
+  },
+  "canonical_checks": [
+    "Red Death",
+    "Camus Morgue",
+    "Dolores Quovadis",
+    "Akwilla",
+    "Aiyen",
+    "Ah'Heman",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Target 72 maps to E71.",
+    "Disease-transmission and prevention details are fictional in-world mechanics, not real-world medical advice.",
+    "Later exact Leviathan mastermind/weapon details remain chronology-blocked."
+  ]
+}

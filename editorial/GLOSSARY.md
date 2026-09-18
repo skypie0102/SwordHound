@@ -9,6 +9,19 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Red Death additions — Chapters 72–74
+
+- **The Red Death** — normalized production family title for targets 72–74.
+- **Mushuhushu** — target-73 giant serpent: **Danger Rating A+ / 32 m / Le Rouge et Le Noir Mountain, 8th Ridge / ‘Nation-Swallowing Snake’**.
+- **Ka'ah** — Ballak name for the old local Mushuhushu specimen; wounded by Vikir/Aiyen and swept away alive.
+- **Red Death mechanics** — fictional source-world transmission/prevention rules only; do not present them as real-world medical guidance.
+- **Aheul** — target 74 age fourteen; Red Death symptoms remain clinical/nonsexual.
+- **Ah'Heman target-74 insult** — Chinese means Ahun is useless like his **parents**; recovered-English `mother-in-law` is rejected.
+- **Ballak outsider exit rule** — >2 years residence + native family bond including at least three children.
+- **The Hound of the Night** — next family targets 75–77; 75→E74, 76→E75, 77→E76.
+- **075.txt combined-source exception** — header declares 75+76, but no internal Chapter-76 marker exists and E74/E75 alignment shows an unsafe splice/omission. Keep the physical raw intact; split reconstructed targets by content.
+- **The Saintess** — begins target 78 / E77.
+
 ## Blood Relatives additions — Chapters 68–71
 
 - **Blood Relatives** — normalized production family title for targets 68–71.

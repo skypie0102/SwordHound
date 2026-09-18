@@ -1,0 +1,94 @@
+{
+  "chapter": 74,
+  "title": "The Red Death (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Red Death",
+    "range": [
+      72,
+      74
+    ],
+    "family_qa_path": "qa/families/red-death-0072-0074.md",
+    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/074.txt",
+    "blob_sha": "cc0e1e6b22601d136440825972a08cebcd429e8b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-073.xhtml",
+    "blob_sha": "db89bc3ca2cd63106daadf11e113fe3a50da3bef",
+    "target_alignment": 74,
+    "alignment_status": "target74_verified_to_e73_by_aheul_illness_ahheman_conflict_exit_request_secret_permission_departure_and_return_promise",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/075.txt",
+    "chinese_sha": "e65af08f559f82f470687cc42c1d1420e1e55e15",
+    "english_path": "source/chapters/chapter-074.xhtml",
+    "english_sha": "1bc968f310582423381420fc7e09e84aa4cf7e72",
+    "purpose": "both begin The Hound of the Night (1) target75; C075 is combined target75-76 container"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Aheul",
+        "Ahun",
+        "Ah'Heman",
+        "Aiyen",
+        "Akwilla",
+        "Pomeranian La Baskerville",
+        "Red Death",
+        "Ballak Tribe"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0074.md",
+    "blob_sha": "7693e61cba97e5a84c8b2c864e91cdf7784d31f1"
+  },
+  "qa": {
+    "path": "qa/chapter-0074.md",
+    "blob_sha": "8590cd22276c47218e19c1a13a1b9db02a609f87",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "aheul",
+      "final": "Aheul is fourteen; Red Death illness/symptoms are kept purely medical and nonsexual",
+      "basis": "Chinese target74"
+    },
+    {
+      "topic": "ahheman_insult",
+      "final": "correct insult to Ahun being useless like his parents; reject MTL mother-in-law",
+      "basis": "Chinese target74"
+    },
+    {
+      "topic": "infection_control",
+      "final": "retain source clinical waste/tool/pest-control instructions as fictional worldbuilding",
+      "basis": "Chinese target74"
+    },
+    {
+      "topic": "exit_rules",
+      "final": "outsider exit requires >2 years residence plus native family bond with at least three children",
+      "basis": "Chinese target74"
+    },
+    {
+      "topic": "aiyen_authorization",
+      "final": "Aiyen secretly permits departure without Akwilla approval and accepts responsibility",
+      "basis": "Chinese target74"
+    },
+    {
+      "topic": "return_promise",
+      "final": "Vikir takes Pomeranian, refuses Aiyen following, and promises he will return",
+      "basis": "Chinese target74"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Red Death (1)–(3) accepted
+
+**Current state:** 74 / 500 accepted; 0 staged; next Chapter 75.
+
+Completed targets 72–74 with verified shifted mapping **72→E71, 73→E72, 74→E73**.
+
+Key decisions:
+- preserved prior-timeline Red Death history, exact Ballak demographic context, and fictional water/boiling prevention tests;
+- kept Red Death medical mechanics source-scoped rather than presenting them as real-world health guidance;
+- preserved Vikir's flood-control / elevated-village engineering;
+- normalized target-73 monster as **Mushuhushu**, A+, 32 m, 8th Ridge, alias **‘Nation-Swallowing Snake’**;
+- rejected recovered-English `Monsieur Hushu` / `Full-body Intestine Snake`;
+- preserved Aiyen's cover fire and Vikir's High Sword Graduator / six-Fang attack; Ka'ah escapes wounded;
+- retained Aheul's target-74 illness strictly clinically;
+- corrected Ah'Heman's MTL-corrupted insult to the siblings' **parents**;
+- preserved the exact Ballak outsider-exit conditions and Vikir's promise to return.
+
+Family QA: `qa/families/red-death-0072-0074.md` — **PASS**.
+
+Next family: **The Hound of the Night (1)–(3), targets 75–77**, mapped **75→E74, 76→E75, 77→E76**. Physical `075.txt` declares targets 75+76 but has no internal Chapter-76 marker; content alignment shows no safe raw-file seam, so it remains intact. Target 78 begins **The Saintess (1)**.
+
+Corpus correction reaffirmed: all **500/500 targets** have at least partial Chinese coverage; targets **49 and 55** contain localized documented gaps rather than being wholly missing.
+
 ## 2026-09-18 — Blood Relatives (1)–(4) accepted
 
 **Current state:** 71 / 500 accepted; 0 staged; next Chapter 72.

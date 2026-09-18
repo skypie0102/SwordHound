@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 71,
+  "accepted_chapters": 74,
   "staged_chapters": 0,
-  "next_chapter": 72,
+  "next_chapter": 75,
   "latest_accepted_family": {
-    "name": "Blood Relatives",
-    "range": [
-      68,
-      71
-    ],
-    "family_qa": "qa/families/blood-relatives-0068-0071.md"
-  },
-  "next_title_family": {
     "name": "The Red Death",
     "range": [
       72,
       74
     ],
-    "boundary_status": "verified from Chinese target headings and shifted recovered-English title/content sequence",
-    "following_family_starts": 75,
-    "following_title": "The Hound of the Night (1)",
-    "alignment_note": "target 72→E71, 73→E72, 74→E73; target 75→E74. Physical 075.txt is combined targets 75-76."
+    "family_qa": "qa/families/red-death-0072-0074.md"
+  },
+  "next_title_family": {
+    "name": "The Hound of the Night",
+    "range": [
+      75,
+      77
+    ],
+    "boundary_status": "verified by combined C075, standalone C077, C078 title switch, and shifted E74-E77 content sequence",
+    "following_family_starts": 78,
+    "following_title": "The Saintess (1)",
+    "alignment_note": "75→E74, 76→E75, 77→E76; 78→E77. Physical C075 combines targets 75-76 and has no safe internal heading/seam for source-file splitting."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -133,17 +133,19 @@
     68,
     69,
     70,
-    71
+    71,
+    72,
+    73,
+    74
   ],
   "notes": [
-    "Chapters 68-71 are accepted as Blood Relatives (1)-(4) after Chinese-first reconstruction, chapter QA, family QA, provenance, and hash-bound acceptance.",
-    "Recovered-English lag remains stable: target 68→E67, 69→E68, 70→E69, 71→E70.",
-    "Chapter 68: Vikir is seventeen after twenty-four months; formal rank High Sword Graduator; Sixth Fang mastered; Peak Sword Graduator is only his pre-regression ceiling/current all-out capability estimate.",
-    "Chapter 69 identifies the serpent emblem as Leviathan Clan only; later Red Death mastermind/weapon/demon details remain chronology-blocked.",
-    "Chapter 70 source-reveals Pomeranian La Baskerville and the Red Death outbreak; pendant identities other than young Hugo remain held until Chapter 71.",
-    "Chapter 71 canonicalizes Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville while preserving Chinese family semantics.",
-    "Next verified family is targets 72-74 — The Red Death (1)-(3), mapped 72→E71, 73→E72, 74→E73.",
-    "Target 75 begins The Hound of the Night (1), maps to E74, and physical 075.txt contains combined targets 75-76.",
+    "Chapters 72-74 are accepted as The Red Death (1)-(3) after Chinese-first reconstruction, chapter QA, family QA, provenance, and hash-bound acceptance.",
+    "Recovered-English lag remains stable: target 72→E71, 73→E72, 74→E73.",
+    "Chapter 72 preserves prior-timeline Red Death history, exact Ballak demographic statistics, fictional water/boiling tests, prevention guidance, and the flood-control plan.",
+    "Chapter 73 source-controls Mushuhushu: Danger Rating A+, 32 m, 8th Ridge, alias Nation-Swallowing Snake; local individual Ka'ah escapes wounded.",
+    "Chapter 74 keeps Aheul age fourteen and illness purely medical, corrects Ah'Heman's insult to the siblings' parents, preserves exact outsider exit conditions, and ends with Vikir's promise to return.",
+    "Next verified family is targets 75-77 — The Hound of the Night (1)-(3), mapped 75→E74, 76→E75, 77→E76. Target78 begins The Saintess (1) and maps to E77.",
+    "Physical source/chinese/chapters/075.txt declares combined targets 75+76 but contains no internal Chapter 76 heading. Alignment shows a cross-boundary splice/omission relative to E74/E75, so physical source splitting is not safe; translated outputs must remain separate.",
     "Chinese raws control narrative/semantic content wherever present; canonical English names/terms use Fandom/project register where confidently identified.",
     "Every editorial session must read and update HANDOFF.md."
   ],
