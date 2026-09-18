@@ -1,0 +1,46 @@
+{
+  "chapter": 63,
+  "title": "The Protagonist of Hunting (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
+    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/063.txt",
+    "primary_source_sha": "9db84e3df9443b7dbe9591327707cf2ff8677504",
+    "english_reference_path": "source/chapters/chapter-062.xhtml",
+    "english_reference_sha": "72c9b67ea93f772a9ab6adadfce10f33f7de34ad",
+    "draft_path": "manuscript/drafts/chapter-0063.md",
+    "draft_sha": "d7438ff75abb5f1413c44d22200953a9fc486628",
+    "qa_path": "qa/chapter-0063.md",
+    "qa_sha": "4fbc22bada0094afda96fb237f9a2e89607c0bed",
+    "provenance_path": "editorial/provenance/chapter-0063.json",
+    "provenance_sha": "09b026e9781a59fc61ec9319934ae65f0c62ddb2"
+  },
+  "canonical_checks": [
+    "Akwilla",
+    "Night Fox",
+    "Aiyen",
+    "Ahun",
+    "Ah'Heman",
+    "Divine Archer Adonai",
+    "Hugo Le Baskerville",
+    "Adolf Morgue",
+    "Ballak Tribe",
+    "Fountain of Valor"
+  ],
+  "documented_limits": [
+    "Recovered English is shifted by one chapter here: target 63 uses E62.",
+    "Source-level Ahun=Ah'Heman's son wording is retained despite later Fandom biography saying grandson.",
+    "Later Ah'Heman spoilers are excluded."
+  ]
+}
