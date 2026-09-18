@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Hunt for the Second Son acceptance checkpoint
 - **Working branch:** `editorial/restart-hunt-second-son-0120-0125`
 - **Base main checkpoint:** `3308f94a4b09be58c08d6a9c778c4716c468042a` (Falling in Love checkpoint merged)
-- **Current PR:** pending creation
+- **Current PR:** #38 — `Rebuild The Hunt for the Second Son Chapters 120–125`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
