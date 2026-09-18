@@ -1,0 +1,62 @@
+{
+  "chapter": 168,
+  "title": "Sin and Punishment (7)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/168.txt",
+    "blob_sha": "486de349a751d03201b5fedbc894710eb0d0f7b1",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": null,
+  "witness_gap": "No recovered-English witness for target168 in current sequence; do not shift E167 or E168 to fill it.",
+  "draft": {
+    "path": "manuscript/drafts/chapter-0168.md",
+    "blob_sha": "3d9cf8f688bba00454bdb4d05fb45a2fcbadda03"
+  },
+  "qa": {
+    "path": "qa/chapter-0168.md",
+    "blob_sha": "9d74608ffba761dbe1920b49a3f7aaef26cc7f95",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "witness_gap",
+      "final": "No recovered-English witness exists for target168 in the current sequence; reconstruction is Chinese-primary only",
+      "basis": "Repository source sequence"
+    },
+    {
+      "topic": "aftermath",
+      "final": "No sleeping resident is dead/injured, but many remains of roughly thirteen-year-old children are found beneath Quilt's residence",
+      "basis": "Chinese C168"
+    },
+    {
+      "topic": "mozgus_twin",
+      "final": "Mozgus acknowledges his elder twin was used as Ephebo and that they were raised separately with different factional faith",
+      "basis": "Chinese C168"
+    },
+    {
+      "topic": "ledger_one",
+      "final": "First public indulgence ledger is retained from Chinese; one-off names are conservative romanizations, not project canon",
+      "basis": "Chinese C168"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/170.txt",
+    "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_path": "source/chapters/chapter-168.xhtml",
+    "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "purpose": "both begin Adorable Pet (1), target170"
+  }
+}
