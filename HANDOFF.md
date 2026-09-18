@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — The Protagonist of Hunting acceptance checkpoint
 - **Working branch:** `editorial/restart-protagonist-hunting-family`
 - **Base main checkpoint:** `1b92622b04cfcf8ed254c435e7d8f51aba6ae436` (PR #23, The Hunter and the Hunted 55–60 + 54/55 source repair, merged)
-- **Current PR:** pending
+- **Current PR:** #24 — `Rebuild The Protagonist of Hunting Chapters 61–63`
+- **Pre-PR-stamp branch head:** `28a7956e763f0cb639acb9f1f82e044e9c364309`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
