@@ -1,0 +1,43 @@
+{
+  "chapter": 173,
+  "title": "The Anti-Columnist (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Anti-Columnist",
+    "range": [
+      172,
+      175
+    ],
+    "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
+    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/173.txt",
+    "primary_source_sha": "c80561975c5d98528a87bea69710078c732c680b",
+    "english_reference_path": "source/chapters/chapter-171.xhtml",
+    "english_reference_sha": "3f533b77c37f916a29522fd2d4fd56ed2edcd87d",
+    "draft_path": "manuscript/drafts/chapter-0173.md",
+    "draft_sha": "3c01f345b6393b033c9829eece324ddba216ca11",
+    "qa_path": "qa/chapter-0173.md",
+    "qa_sha": "73840cbb298f8227e2afbdea16117ce34b593fb4",
+    "provenance_path": "editorial/provenance/chapter-0173.json",
+    "provenance_sha": "f4bf1bc6a1e3a45db921059a1a96b06bcf93ae1e"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Practical Monster Strategy",
+    "Venomphion",
+    "Royal Monster Institute",
+    "Sinclaire",
+    "Granola de Leviathan"
+  ],
+  "documented_limits": [
+    "Vikir's eyewitness description is deliberate cover information.",
+    "Graduate-school invitation is source comedy, not enrollment.",
+    "Sinclaire remains female despite witness pronoun drift."
+  ],
+  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1)."
+}
