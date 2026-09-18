@@ -1,0 +1,67 @@
+{
+  "chapter": 163,
+  "title": "Sin and Punishment (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/163.txt",
+    "blob_sha": "7331200ebbc8dcaf5fa30a95290c77a7f98c26d3",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-162.xhtml",
+    "blob_sha": "8a18b6dd050a973c222cbd368239c7cd5182c836",
+    "target_alignment": 163,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "witness_gap": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0163.md",
+    "blob_sha": "04413470b69380debfc8cd5bfbe9248d38bd74b9"
+  },
+  "qa": {
+    "path": "qa/chapter-0163.md",
+    "blob_sha": "a6c9326181a7ae7cdf26206814e9ec0e0cf181c7",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "heading_anomaly",
+      "final": "Raw Chinese heading is anomalous; sequence/content and E162 normalize production title to Sin and Punishment (2)",
+      "basis": "Chinese C163 + E162"
+    },
+    {
+      "topic": "dantalian_window",
+      "final": "Danger Level S+, Ninth Corpse, A Thousand Faces, thirty-six faces; Chinese overrides recovered S rating",
+      "basis": "Chinese C163"
+    },
+    {
+      "topic": "orphanage_farm",
+      "final": "Indulgentia is explicitly described by Dantalian as a human breeding/food farm",
+      "basis": "Chinese C163"
+    },
+    {
+      "topic": "humbert_certificates",
+      "final": "Dantalian states Humbert issued Old Testament absolution/remission certificates for large donations",
+      "basis": "Chinese C163"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/170.txt",
+    "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_path": "source/chapters/chapter-168.xhtml",
+    "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "purpose": "both begin Adorable Pet (1), target170"
+  }
+}
