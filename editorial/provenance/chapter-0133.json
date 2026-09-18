@@ -1,0 +1,61 @@
+{
+  "chapter": 133,
+  "title": "Test Your Skills (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/133.txt",
+    "blob_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-132.xhtml",
+    "blob_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
+    "target_alignment": 133,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0133.md",
+    "blob_sha": "a80b5d24dc9babec612fe14c63890ad1e8e98509"
+  },
+  "qa": {
+    "path": "qa/chapter-0133.md",
+    "blob_sha": "ab9f48fb31ca1ec557bcbb7583cfd82e6b07c02a",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "pigi_prior_life",
+      "final": "Source now reveals Pigi's dropout, logistics/intelligence service, and wartime assassination; later bloodline/Corpse spoilers remain excluded",
+      "basis": "Chinese C133"
+    },
+    {
+      "topic": "tudor_verse",
+      "final": "Paraphrase recognizable chivalric verse while preserving theatrical knightly persona",
+      "basis": "Chinese C133 + copyright-safe reconstruction"
+    },
+    {
+      "topic": "ballak_question",
+      "final": "Tudor/Bianca partial; Sinclaire prevailing academic answer; Vikir not yet called until chapter end",
+      "basis": "Chinese C133"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/139.txt",
+    "chinese_sha": "29e3a8d69342fe6060038c06042102ed6d352146",
+    "english_path": "source/chapters/chapter-138.xhtml",
+    "english_sha": "a04b8fb16ee9f246de51fbc30247009e6e48e3d8",
+    "purpose": "both begin Men are Power (1), target139"
+  }
+}
