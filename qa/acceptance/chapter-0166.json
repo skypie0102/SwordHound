@@ -1,0 +1,42 @@
+{
+  "chapter": 166,
+  "title": "Sin and Punishment (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/166.txt",
+    "primary_source_sha": "5fb84d087e2a7f3048b3d6fd0096494e7ee95f42",
+    "draft_path": "manuscript/drafts/chapter-0166.md",
+    "draft_sha": "2cb57d300ba3eb51cc946aa8d80e31e80014a65a",
+    "qa_path": "qa/chapter-0166.md",
+    "qa_sha": "43d1b4a575005b105e3b2333c669cf31c46a5578",
+    "provenance_path": "editorial/provenance/chapter-0166.json",
+    "provenance_sha": "e7d152cf6e84a34f9a36821859d531e49fe9eb0e",
+    "english_reference_path": "source/chapters/chapter-165.xhtml",
+    "english_reference_sha": "aff6117fe247984bb19553884da81ab4a3ccdc72"
+  },
+  "canonical_checks": [
+    "Seth Le Baskerville",
+    "Peri",
+    "Soul resonance",
+    "Soulmate",
+    "Sword Master",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "Empty Love Sack describes prior-life Vikir at this source point.",
+    "Soulmate terminology does not imply reciprocal conscious romance from Vikir."
+  ],
+  "witness_gap": null
+}
