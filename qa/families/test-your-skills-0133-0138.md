@@ -9,11 +9,11 @@
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
 | 133 | 133.txt | `e948d42cd33e78a1da4ad882ff6442f932406edd` | **E132** | `cc299d9aa9e64e9b3427b90c84c8c1402881a502` | `a80b5d24dc9babec612fe14c63890ad1e8e98509` | `ab9f48fb31ca1ec557bcbb7583cfd82e6b07c02a` |
-| 134 | 134.txt | `9b9b0af21b579f22a61526f7fdd630b91f36d66a` | **E133** | shifted witness | `7abe385e58ba6218128c3fed6f2abde56a1cca27` | `99e979b4876813558e6d52963c35eec720039237` |
-| 135 | 135.txt | `4fcabd494217aacd467852b46e2f2a0bc6d46250` | **E134** | shifted witness | `9f9795b8f89bcbf1aee346b07df2c1e56c4d6b64` | `b5a3b739658f24375a88ed533055f94a871bf671` |
+| 134 | 134.txt | `9b9b0af21b579f22a61526f7fdd630b91f36d66a` | **E133** | `94b7abee253add2260a8d236253082e389515ec6` | `7abe385e58ba6218128c3fed6f2abde56a1cca27` | `99e979b4876813558e6d52963c35eec720039237` |
+| 135 | 135.txt | `4fcabd494217aacd467852b46e2f2a0bc6d46250` | **E134** | `0ccf0e0e93ed974e9fc1b1b1647982bc951e7770` | `9f9795b8f89bcbf1aee346b07df2c1e56c4d6b64` | `b5a3b739658f24375a88ed533055f94a871bf671` |
 | 136 | 136.txt | `771c95d5d1b61b44be14f72e8dc1ee2f8a1d72aa` | **E135** | `d73450642b27c0f98aca585daa676d00e2b88ced` | `7d3868ee40c1a4461d22ad560bd78474f63c8eb2` | `de4bb971e54aa571b43c74a0bc96937dec257f33` |
-| 137 | 137.txt | `bed95debde0be4d5d02a1c987a22deef76d7eb9a` | **E136** | shifted witness | `0b9acd70039ff39dbb89e8234376899eae932d99` | `0a9cee0d211b5dcc03c1ffe14f53ef36a0e26b66` |
-| 138 | 138.txt | `6c3c9c144ed48c23b470eac433ee48a6ea89f25c` | **E137** | shifted witness | `fc2d439fc5c2a83b76640d055bc1f41e5a467f57` | `271010c5ee4fdd38bf10ee18ef67fcf09f84b6d2` |
+| 137 | 137.txt | `bed95debde0be4d5d02a1c987a22deef76d7eb9a` | **E136** | `64a089ae2b8dc8db74dd65e9835440020974703f` | `0b9acd70039ff39dbb89e8234376899eae932d99` | `0a9cee0d211b5dcc03c1ffe14f53ef36a0e26b66` |
+| 138 | 138.txt | `6c3c9c144ed48c23b470eac433ee48a6ea89f25c` | **E137** | `158084369fc1fb1a8850fbeeaa56a23a2c2b6820` | `fc2d439fc5c2a83b76640d055bc1f41e5a467f57` | `271010c5ee4fdd38bf10ee18ef67fcf09f84b6d2` |
 | boundary | 139.txt — *Men are Power (1)* | `29e3a8d69342fe6060038c06042102ed6d352146` | **E138** | `a04b8fb16ee9f246de51fbc30247009e6e48e3d8` | next family | next family |
 
 Mapping: **133→E132 through 138→E137; 139→E138**.
