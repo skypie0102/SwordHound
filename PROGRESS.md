@@ -1,5 +1,29 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Saintess (1)–(5) accepted
+
+**Current state:** 82 / 500 accepted; 0 staged; next Chapter 83.
+
+Completed targets 78–82 with verified shifted mapping **78→E77 through 82→E81**.
+
+Key decisions:
+- canonicalized **Dolores L. Quovadis**, **Humbert L. Quovadis**, **Mozgus Quovadis**, and **Nabokov I Quovadis** against current Fandom/project forms;
+- kept Dolores's explicit age sixteen and all admiration/heartbeat material nonsexual;
+- preserved Vikir's prior-timeline political knowledge while keeping his spoken Leviathan/Bourgeois case framed as a hypothesis;
+- corrected E78 using Chinese target 79: no secondary Red Death cases had appeared yet;
+- preserved Dolores healing six early patients;
+- retained 42 registered wells, unknown unregistered wells, and purification trial sequence 1a–3c;
+- kept divine-power short selling / borrowing / overdraft strictly as fantasy mechanics;
+- preserved Ballak herbs as symptom-delaying rather than curative;
+- completed three drops of **Plany de la Verge / Saintess's Tears**;
+- used Chinese **nail-and-hammer** for the Bourgeois button;
+- rendered Chinese `小妖精` nonsexually as **little sprite**, rejecting the sexualized English gloss;
+- ended exactly on Vikir's disappearance and the missing Saintess's Tear.
+
+Family QA: `qa/families/saintess-0078-0082.md` — **PASS**.
+
+Next family: **Lovesickness (1)–(2), targets 83–84**, mapped **83→E82, 84→E83**. Target 85 begins **The Illiad (1)** and maps to E84.
+
 ## 2026-09-18 — The Hound of the Night (1)–(3) accepted
 
 **Current state:** 77 / 500 accepted; 0 staged; next Chapter 78.
