@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **171 / 500 accepted; next Chapter 172.** Latest accepted family: **targets 170–171 — Adorable Pet (1)–(2)**.
+Current checkpoint: **175 / 500 accepted; next Chapter 176.** Latest accepted family: **targets 172–175 — The Anti-Columnist (1)–(4)**.
 
-The next verified family is **The Anti-Columnist, targets 172–175**, mapped **172→E170 through 175→E173**. Target 176 begins **The 99 Hits With 100 Shots (1)** and maps to E174.
+The next verified family is **The 99 Hits With 100 Shots, targets 176–178**, mapped **176→E174 through 178→E176**. Target 179 begins **Midterm Random Defense (1)** and maps to E177.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Anti-Columnist family adds/revalidates:
+
+- **C172 duplicate-overlap repair** — repeated C171 newspaper-delivery block omitted and registered.
+- **Vikir's anti-self column** — deliberate operational cover, not sincere public self-identification.
+- **Quovadis reporting guideline** — source-explicit institutional pressure on coverage.
+- **Professor Banshee Morgue** — strict/evidence-conscious advisor who also protects student journalists.
+- **Granola de Leviathan** — canonical introduction.
+- **Baby Madam** — consumes Granola's weak paralytic mist.
+- **Dolores / Night Hound** — one-sided attachment/respect/longing remains source-timed POV.
+- **The 99 Hits With 100 Shots** — next family targets 176–178; witnesses E174–E176.
+- **Midterm Random Defense** begins target 179 / E177.
 
 The accepted Adorable Pet family adds/revalidates:
 
@@ -183,15 +195,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–171**:
+Current accepted production evidence covers targets **1–175**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0171.md`
-- `qa/chapter-0001.md` through `chapter-0171.md`
-- accepted family QA through `qa/families/adorable-pet-0170-0171.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0171.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0171.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0175.md`
+- `qa/chapter-0001.md` through `chapter-0175.md`
+- accepted family QA through `qa/families/anti-columnist-0172-0175.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0175.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0175.json`
 
-Latest family QA: `qa/families/adorable-pet-0170-0171.md` — **PASS**.
+Latest family QA: `qa/families/anti-columnist-0172-0175.md` — **PASS**.
 
 ## Editorial quality bar
 
