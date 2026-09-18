@@ -2,7 +2,8 @@
 
 **Family status:** PASS  
 **Target range:** Chapters 186–189  
-**Following family:** target 190 begins *Attack Land (1)*.
+**Following family:** targets 190–196 — *Attack Land (1)–(7)*.  
+**Following boundary:** target 197 begins *Preparing for the Festival (1)*.
 
 ## Evidence / mapping
 
@@ -40,9 +41,20 @@ Mapping: **186→E184, 187→E185, 188→E186, 189→E187**.
 - Dolores immediately identifies the Varangian incident as copycat Night Hound activity.
 - Family closes with Vikir resolving to finish the Attack test and then hunt the false Night Hound(s).
 
-## Next verified boundary
+## Next verified family
 
-Target **190 → E188** begins **Attack Land (1)**.
+**Attack Land (1)–(7), targets 190–196:**
+- 190 → E188
+- 191 → E189
+- 192 → E190
+- 193 → E191
+- 194 → E192
+- 195 → E193
+- 196 → E194
+
+Chinese C192–196 reverse the title word order, but part numbering, contiguous content, and E190–E194 establish the same **Attack Land** family.
+
+Target **197 → E195** begins **Preparing for the Festival (1)**.
 
 ## Family verdict
 
