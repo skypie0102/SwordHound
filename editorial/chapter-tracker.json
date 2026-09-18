@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 116,
+  "accepted_count": 140,
   "staged_count": 0,
-  "next_chapter": 117,
+  "next_chapter": 141,
   "active_title_family": {
-    "name": "Falling in Love",
+    "name": "Identity of the Villain",
     "range": [
-      117,
-      119
+      141,
+      143
     ],
     "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 120,
-    "following_title": "The Hunt for the Second Son (1)",
-    "alignment_note": "117→E116,118→E117,119→E118;120→E119"
+    "following_family_starts": 144,
+    "following_title": "Volunteering for the Golden Week (1)",
+    "alignment_note": "141→E140,142→E141,143→E142;144→E143"
   },
   "chapters": [
     {
@@ -1947,6 +1947,34 @@
       "acceptance": "qa/acceptance/chapter-0138.json",
       "acceptance_sha": "75756f2335d6713cba3f939c79440cb86ef47bf3",
       "family_qa": "qa/families/test-your-skills-0133-0138.md"
+    },
+    {
+      "chapter": 139,
+      "title": "Men are Power (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/139.txt",
+      "english_mtl_reference": "source/chapters/chapter-138.xhtml",
+      "draft": "manuscript/drafts/chapter-0139.md",
+      "qa": "qa/chapter-0139.md",
+      "provenance": "editorial/provenance/chapter-0139.json",
+      "acceptance": "qa/acceptance/chapter-0139.json",
+      "acceptance_sha": "a6f7b4114a8b7bc568e00a81dcee8f06a6aea100",
+      "family_qa": "qa/families/men-are-power-0139-0140.md"
+    },
+    {
+      "chapter": 140,
+      "title": "Men are Power (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/140.txt",
+      "english_mtl_reference": "source/chapters/chapter-139.xhtml",
+      "draft": "manuscript/drafts/chapter-0140.md",
+      "qa": "qa/chapter-0140.md",
+      "provenance": "editorial/provenance/chapter-0140.json",
+      "acceptance": "qa/acceptance/chapter-0140.json",
+      "acceptance_sha": "2e2ff02e1e13c6b8cde0115697ea9485009e9bd4",
+      "family_qa": "qa/families/men-are-power-0139-0140.md"
     }
   ]
 }

@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Men are Power (1)–(2) accepted
+
+**Current state:** 140 / 500 accepted; 0 staged; next Chapter 141.
+
+Completed targets 139–140 with mapping **139→E138, 140→E139**.
+
+Key decisions: Venomphion's concealed abdominal second stinger is source-revealed through Banshee's specimen test; Bianca's explicit strength standard is preserved; Doxeller remains a fifty-two-year-old administrator/orphanage director tied to trafficking and demonic collaboration; Vikir remains Peak Sword Graduator despite Doxeller's Sword Master mistake; target 140 source-reveals **Ephebo**, preserves the **Seven Fangs** / incomplete Seventh Fang sequence, Doxeller's failsafe and ledger recovery, and ends on **Dolores L. Quovadis** holding the half-burned Night Hound mask.
+
+Family QA: `qa/families/men-are-power-0139-0140.md` — **PASS**.
+
+Next verified family: **141–143 — Identity of the Villain (1)–(3)**. Target **144** begins *Volunteering for the Golden Week (1)*.
+
 ## 2026-09-18 — Test Your Skills (1)–(6) accepted
 
 **Current state:** 138 / 500 accepted; 0 staged; next Chapter 139.

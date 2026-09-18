@@ -2,42 +2,40 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 138  
+**Accepted:** 140  
 **Staged:** 0  
-**Next chapter:** 139
+**Next chapter:** 141
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 130–132 — *The Freshman Talent Show (1)–(3)*
 - Chapters 133–138 — *Test Your Skills (1)–(6)*
+- Chapters 139–140 — *Men are Power (1)–(2)*
 
-Latest family QA: `qa/families/test-your-skills-0133-0138.md` — **PASS**.
+Latest family QA: `qa/families/men-are-power-0139-0140.md` — **PASS**.
 
-## Test Your Skills family decisions
+## Men are Power family decisions
 
-- Verified mapping: **133→E132 through 138→E137**.
-- Target 133 source-reveals Pigi's prior-life dropout, later logistics/intelligence service, and wartime assassination; later Pigi bloodline/Corpse spoilers remain excluded.
-- Tudor's recognizable chivalric verse is paraphrased while preserving his theatrical knightly characterization.
-- Professor **Banshee Morgue** is a Morgue Dark Faction academic; recovered-English “handwriting” drift is normalized to written/theory exam.
-- Vikir privately suspects target-129 rapid facial decay may relate to the **Ninth Corpse**, but no identity/host is imported without source support.
-- Ballak theory challenge keeps Tudor/Bianca partial answers, Sinclaire's prevailing academic answer, and Vikir's broader field/military answer.
-- Written scores: **Vikir 990/990**, **Sinclaire 931**.
-- Naphtali is retained as a 40-player physical ball sport on a 50×100 field with Y-shaped goals; magic and weapons are prohibited.
-- Tudor twice collides with Vikir and is repelled; Vikir deliberately conceals how immovable he is.
-- Vikir's long throw produces the 1–1 buzzer-beater; golden-goal overtime follows.
-- Sancho's strength test confirms Vikir's exceptional base physique without mana; Vikir deliberately yields afterward.
-- Class B wins through the Baskerville triplets; Tudor apologizes for targeting Vikir out of jealousy.
-- Vikir's glasses-off post-match moment creates an unexpected visibility spike due to his current-life unscarred appearance.
-- Venomphion research retains Sinclaire's brute/erratic/cunning taxonomy and Banshee's academic interest.
-- Target 138 ends on Vikir mentioning the Venomphion's **second abdominal stinger**; explanation is reserved for target 139.
+- Verified mapping: **139→E138, 140→E139**.
+- Target 139 begins exactly on Banshee's question about the Venomphion's second stinger and source-reveals the concealed abdominal barb through specimen dissection.
+- Present-era Academy classification remains **Danger Level A**; Vikir's remembered later practical reassessment is kept as future knowledge rather than current canon.
+- **Bianca Fo Usher** explicitly values demonstrated strength over appearance/intelligence and currently underestimates Vikir because his public aura does not reach Expert level.
+- **Doxeller**, age fifty-two, is retained as a local administrator/orphanage director involved in child trafficking and demonic collaboration.
+- Doxeller mistakes Vikir for Sword Master because Beelzebub's aura appears nearly solid; Vikir remains **Peak Sword Graduator**.
+- The black-masked subordinate's Quovadis blunt-weapon technique is treated as a corruption clue, not proof against the Quovadis house as a whole.
+- Target 140 source-reveals **Ephebo** from the chest marking; his later master identity remains spoiler-guarded.
+- **Seven Fangs** terminology controls the combat sequence. The incomplete Seventh Fang functions as the hidden lethal trap and remains tied to Vikir's future Sword Master breakthrough.
+- Doxeller's demon-linked failsafe destroys the hidden safe area; Ephebo escapes during the blast.
+- Vikir prioritizes the child-transfer/payment ledgers over illicit wealth and plans to send the records to **Cindywendy**.
+- The aftermath preserves suspicious Quovadis-linked wealth and dozens of child remains while keeping the treatment clinical rather than sensational.
+- **Dolores L. Quovadis** arrives because the institution is Quovadis-affiliated and ends target 140 privately holding the half-burned Night Hound plague-doctor mask.
 
 ## Next verified title family
 
-- **Targets 139–140 — Men are Power (1)–(2)**
-- Mapping: **139→E138, 140→E139**
-- Target 141 begins **Identity of the Villain (1)** and aligns to **E140**.
+- **Targets 141–143 — Identity of the Villain (1)–(3)**
+- Mapping: **141→E140, 142→E141, 143→E142**
+- Target 144 begins **Volunteering for the Golden Week (1)** and aligns to **E143**.
 
 ## Source authority
 
@@ -45,4 +43,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **Test Your Skills, targets 133–138** checkpoint, then branch from merged main for **Men are Power, targets 139–140**. Read C139–140 against E138–139 completely with C141/E140 as the boundary, reconstruct and QA the two-chapter family, then continue into **Identity of the Villain**.
+Merge the clean **Men are Power, targets 139–140** checkpoint, then branch from merged main for **Identity of the Villain, targets 141–143**. Read C141–143 against E140–142 completely with C144/E143 as the boundary, reconstruct and QA the three-chapter family, then continue into **Volunteering for the Golden Week**.

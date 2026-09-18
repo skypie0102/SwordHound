@@ -1,0 +1,71 @@
+{
+  "chapter": 139,
+  "title": "Men are Power (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Men are Power",
+    "range": [
+      139,
+      140
+    ],
+    "family_qa_path": "qa/families/men-are-power-0139-0140.md",
+    "family_qa_sha": "1afcfad688880997aabc8b5a4d3362bae51ef5ee",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/139.txt",
+    "blob_sha": "29e3a8d69342fe6060038c06042102ed6d352146",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-138.xhtml",
+    "blob_sha": "a04b8fb16ee9f246de51fbc30247009e6e48e3d8",
+    "target_alignment": 139,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0139.md",
+    "blob_sha": "1e049fb5a8d7ca1654bc1ab41400c50ea1fc11a0"
+  },
+  "qa": {
+    "path": "qa/chapter-0139.md",
+    "blob_sha": "be19e166853fa65af11817b6a5b74243eedae20a",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "venomphion_second_stinger",
+      "final": "Source-reveal concealed abdominal stinger via Banshee specimen; present classification remains A while Vikir remembers later B+ reassessment",
+      "basis": "Chinese C139 continuing C138 boundary"
+    },
+    {
+      "topic": "bianca_strength_standard",
+      "final": "Bianca explicitly values strength over looks/intellect and currently assumes Vikir below Expert-level aura",
+      "basis": "Chinese C139"
+    },
+    {
+      "topic": "doxeller",
+      "final": "Doxeller, 52, local administrator/orphanage director involved in child trafficking and demonic collaboration",
+      "basis": "Chinese C139"
+    },
+    {
+      "topic": "vikir_rank",
+      "final": "Doxeller mistakes Vikir for Sword Master; actual current realm remains Peak Sword Graduator",
+      "basis": "Chinese C139 + accepted C120-138 continuity"
+    },
+    {
+      "topic": "quovadis_clue",
+      "final": "Demonic subordinate uses recognizable Quovadis blunt technique; clue is not proof against whole house",
+      "basis": "Chinese C139"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/141.txt",
+    "chinese_sha": "edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06",
+    "english_path": "source/chapters/chapter-140.xhtml",
+    "english_sha": "2b0e8524960469cb4000cfb7d29eb1a3941d20c9",
+    "purpose": "both begin Identity of the Villain (1), target141"
+  }
+}
