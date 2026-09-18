@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 157,
+  "accepted_count": 161,
   "staged_count": 0,
-  "next_chapter": 158,
+  "next_chapter": 162,
   "active_title_family": {
-    "name": "Familiar Face",
+    "name": "Sin and Punishment",
     "range": [
-      158,
-      161
+      162,
+      169
     ],
-    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 162,
-    "following_title": "Sin and Punishment (1)",
-    "alignment_note": "158→E157,159→E158,160→E159,161→E160;162→E161"
+    "boundary_status": "verified eight-part Chinese family; recovered-English sequence has no witness for target168 and E167 resumes at target169",
+    "following_family_starts": 170,
+    "following_title": "Adorable Pet (1)",
+    "alignment_note": "162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness,169→E167;170→E168. C163 heading is anomalous but belongs to Sin and Punishment (2) by content/sequence."
   },
   "chapters": [
     {
@@ -2213,6 +2213,62 @@
       "acceptance": "qa/acceptance/chapter-0157.json",
       "acceptance_sha": "2596f7eba9215447c384be0982b3e3b5af0c8929",
       "family_qa": "qa/families/night-shift-safety-0155-0157.md"
+    },
+    {
+      "chapter": 158,
+      "title": "Familiar Face (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/158.txt",
+      "english_mtl_reference": "source/chapters/chapter-157.xhtml",
+      "draft": "manuscript/drafts/chapter-0158.md",
+      "qa": "qa/chapter-0158.md",
+      "provenance": "editorial/provenance/chapter-0158.json",
+      "acceptance": "qa/acceptance/chapter-0158.json",
+      "acceptance_sha": "56f74b0837ea612a49daefbd3ccf44e2954899f2",
+      "family_qa": "qa/families/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 159,
+      "title": "Familiar Face (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/159.txt",
+      "english_mtl_reference": "source/chapters/chapter-158.xhtml",
+      "draft": "manuscript/drafts/chapter-0159.md",
+      "qa": "qa/chapter-0159.md",
+      "provenance": "editorial/provenance/chapter-0159.json",
+      "acceptance": "qa/acceptance/chapter-0159.json",
+      "acceptance_sha": "a4b331e5640409b93d760b2a39b3d578a81128d1",
+      "family_qa": "qa/families/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 160,
+      "title": "Familiar Face (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/160.txt",
+      "english_mtl_reference": "source/chapters/chapter-159.xhtml",
+      "draft": "manuscript/drafts/chapter-0160.md",
+      "qa": "qa/chapter-0160.md",
+      "provenance": "editorial/provenance/chapter-0160.json",
+      "acceptance": "qa/acceptance/chapter-0160.json",
+      "acceptance_sha": "b37b33ec7fb1b5d921d49c9fd4041f76d406925b",
+      "family_qa": "qa/families/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 161,
+      "title": "Familiar Face (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/161.txt",
+      "english_mtl_reference": "source/chapters/chapter-160.xhtml",
+      "draft": "manuscript/drafts/chapter-0161.md",
+      "qa": "qa/chapter-0161.md",
+      "provenance": "editorial/provenance/chapter-0161.json",
+      "acceptance": "qa/acceptance/chapter-0161.json",
+      "acceptance_sha": "56c72d70d080aece494e3837ca07e9a08919b0c0",
+      "family_qa": "qa/families/familiar-face-0158-0161.md"
     }
   ]
 }
