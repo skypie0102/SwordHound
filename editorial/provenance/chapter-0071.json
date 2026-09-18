@@ -1,0 +1,121 @@
+{
+  "chapter": 71,
+  "title": "Blood Relatives (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Blood Relatives",
+    "range": [
+      68,
+      71
+    ],
+    "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
+    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/071.txt",
+    "blob_sha": "d91c8c4657125f809c7b9b6d28cafd4ead29e797",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-070.xhtml",
+    "blob_sha": "538af64e11972614bfd2e11d6226733b3fe04f91",
+    "target_alignment": 71,
+    "alignment_status": "target71_verified_to_e70_by_hugo_portrait_family_deduction_pomeranian_rescue_ballak_council_and_vikir_red_death_countermeasure_claim",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/072.txt",
+    "chinese_sha": "8cf8c0385d0680afc3eb1148653abeac43ce12d9",
+    "english_path": "source/chapters/chapter-071.xhtml",
+    "english_sha": "bbee450f38deaf7753263cc92cff28fc1d54e09e",
+    "purpose": "both begin The Red Death (1) target72 family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Pomeranian La Baskerville",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Pomeranian La Baskerville",
+        "Penelope La Baskerville",
+        "Hugo Le Baskerville",
+        "Lady Roxana"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Penelope La Baskerville",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Penelope La Baskerville",
+        "Hugo Le Baskerville",
+        "Lady Roxana",
+        "Pomeranian La Baskerville"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Lady Roxana",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Lady Roxana",
+        "Hugo Le Baskerville",
+        "Penelope La Baskerville",
+        "Pomeranian La Baskerville"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "John Barrymore",
+        "Akwilla",
+        "Aiyen",
+        "Ah'Heman",
+        "Oxbear",
+        "Chihuahua Baskerville",
+        "Red Death"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0071.md",
+    "blob_sha": "1921fcb4fffd7e964d4f0f4c5542ae494cf81a16"
+  },
+  "qa": {
+    "path": "qa/chapter-0071.md",
+    "blob_sha": "efa244d6ddc5dc9a04649861ebd0650db5a9d5dd",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "family_line",
+      "final": "canonicalize Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville while preserving Chinese grandmother/mother/child relations",
+      "basis": "Chinese target71 family semantics + indexed canonical pages"
+    },
+    {
+      "topic": "barrymore",
+      "final": "use John Barrymore, not Deacon Barrymore",
+      "basis": "accepted project terminology"
+    },
+    {
+      "topic": "hugo_history",
+      "final": "retain source account that loss of first wife/daughter contributed to Hugo's westward move and hardening",
+      "basis": "Chinese target71"
+    },
+    {
+      "topic": "pomeranian_rescue",
+      "final": "Pomeranian leaves her mother's grave with Vikir after Aiyen's star-comfort explanation",
+      "basis": "Chinese target71"
+    },
+    {
+      "topic": "boundary",
+      "final": "end at Vikir saying he knows how to stop Red Death; do not pull target72 countermeasures backward",
+      "basis": "title-family boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
