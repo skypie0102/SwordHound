@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Lovesickness acceptance checkpoint
 - **Working branch:** `editorial/restart-lovesickness-family`
 - **Base main checkpoint:** `5675dcc85d44d4189fedc5496c42796aa0510d5a` (PR #29, The Saintess 78–82, merged)
-- **Current PR:** pending
+- **Current PR:** #30 — `Rebuild Lovesickness Chapters 83–84`
+- **Pre-PR-stamp branch head:** `afde04b173bb8d24b3ab5b99e26fe21b0a528c63`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
