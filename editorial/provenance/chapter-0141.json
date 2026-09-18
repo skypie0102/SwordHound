@@ -1,0 +1,66 @@
+{
+  "chapter": 141,
+  "title": "Identity of the Villain (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Identity of the Villain",
+    "range": [
+      141,
+      143
+    ],
+    "family_qa_path": "qa/families/identity-villain-0141-0143.md",
+    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/141.txt",
+    "blob_sha": "edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-140.xhtml",
+    "blob_sha": "2b0e8524960469cb4000cfb7d29eb1a3941d20c9",
+    "target_alignment": 141,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0141.md",
+    "blob_sha": "0444d749211982f1c05c9b5d8c612105554aba67"
+  },
+  "qa": {
+    "path": "qa/chapter-0141.md",
+    "blob_sha": "e01ae5ba7e50ecd70e657cd3b1f14c19a13300d1",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "night_hound_name_origin",
+      "final": "Dolores unconsciously coins Night Hound; the newspaper adopts it as a public label without establishing guilt",
+      "basis": "Chinese C141-C142 continuity"
+    },
+    {
+      "topic": "vikir_rank_age",
+      "final": "Vikir remains Peak Sword Graduator, can contend with Sword Master-class foes through accumulated advantages, and has just turned eighteen",
+      "basis": "Chinese C141 + accepted continuity"
+    },
+    {
+      "topic": "ryukeion",
+      "final": "Use Ryukeion (Λύκειον) to resolve corrupted club-name glyphs in the Chinese extraction",
+      "basis": "Chinese C141 + aligned E140 witness"
+    },
+    {
+      "topic": "orphanage_misattribution",
+      "final": "Newspaper/Guard attribution of children's deaths to the attacker is an in-world mistake; the drained children were demon victims",
+      "basis": "Chinese C141 + C140 accepted continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/144.txt",
+    "chinese_sha": "43d63f5de1a8c5ca09a312cf3423fc6b8f84d527",
+    "english_path": "source/chapters/chapter-143.xhtml",
+    "english_sha": "78c627bafc6d401f82b38e86daf91460ab6e7add",
+    "purpose": "both begin Volunteering for the Golden Week (1), target144"
+  }
+}
