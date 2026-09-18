@@ -1,0 +1,43 @@
+{
+  "chapter": 60,
+  "title": "The Hunter and the Hunted (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_e59",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/060.txt",
+    "primary_source_sha": "406e7fe32dc61ee383a11d2405bf85f0684e4814",
+    "english_reference_path": "source/chapters/chapter-059.xhtml",
+    "english_reference_sha": "5e13cc1bc24061a5a94eba0ad352e5126ee65bdd",
+    "draft_path": "manuscript/drafts/chapter-0060.md",
+    "draft_sha": "df77f7700668f8d28bc7ec5f8afa83a02c8b5513",
+    "qa_path": "qa/chapter-0060.md",
+    "qa_sha": "c35796d733c7b5b9728803a382be31d8214bcc95",
+    "provenance_path": "editorial/provenance/chapter-0060.json",
+    "provenance_sha": "3e109c419c440b2a3e6cbd5bff93b74a89ace4f0"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Bakira",
+    "Oxbear",
+    "Low Sword Graduator",
+    "Beelzebub",
+    "Incinerate",
+    "Cerberus (A+)"
+  ],
+  "documented_limits": [
+    "Target 60 maps to E59; E60 belongs to target 61.",
+    "Oxbear kill violence remains explicit.",
+    "Closing seed-collection joke is clinical/non-erotic and not expanded."
+  ]
+}
