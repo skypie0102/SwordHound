@@ -1,6 +1,6 @@
 # Chapter 146: Volunteering for the Golden Week (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/146.txt` — `a9a66d0662958927f6daca53ca2d3ead674128b8`. Recovered English Chapter 145 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Quilt Rune Indulgentia, Ephebo, Quovadis, Dolores L. Quovadis, Old Testament Faction, New Testament Faction, Humbert L. Quovadis, and Martin Luther. The source-timed “Ninth of the Ten Corpses” recognition is retained here without importing Quilt's later demon name.
+> Chinese-primary reconstruction from `source/chinese/chapters/146.txt` — `a9a66d0662958927f6daca53ca2d3ead674128b8`. Recovered English Chapter 145 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Quilt Rune Indulgentia, Ephebo, Quovadis, Dolores L. Quovadis, Old Testament Faction, New Testament Faction, Humbert L. Quovadis, and Martin Luther. Quilt's later demon identity remains spoiler-guarded.
 
 Quilt was a remarkably handsome middle-aged man.
 
@@ -10,7 +10,7 @@ his resemblance to a famous stage actor who had retired and disappeared several 
 
 Vikir recognized him at once.
 
-*The Ninth of the Ten Corpses.*
+*Nine times out of ten.*
 
 The face was different.
 
