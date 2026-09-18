@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Madam Eight-Legs acceptance checkpoint
 - **Working branch:** `editorial/restart-madam-eight-legs-family`
 - **Base main checkpoint:** `9f2b19fa789e89e99f58ca5e97571e8e639b3f1d` (PR #32, Ghosts 90–94, merged)
-- **Current PR:** pending
+- **Current PR:** #33 — `Rebuild Madam Eight-Legs Chapters 95–100`
+- **Pre-PR-stamp branch head:** `69acc8838e1e82ab7c6c93ddbd4eb5c30b36dc14`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
