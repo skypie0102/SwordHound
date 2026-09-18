@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Anti-Columnist acceptance checkpoint
 - **Working branch:** `editorial/restart-anti-columnist-0172-0175`
 - **Base main checkpoint:** `2e537e905a20af83767073e6f2dc85b80c2d282b` (Adorable Pet checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #51 — `Rebuild The Anti-Columnist Chapters 172–175`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
