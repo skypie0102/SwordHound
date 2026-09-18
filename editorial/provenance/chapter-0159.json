@@ -1,0 +1,66 @@
+{
+  "chapter": 159,
+  "title": "Familiar Face (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/159.txt",
+    "blob_sha": "8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-158.xhtml",
+    "blob_sha": "3c7c17917f56fd16b0400a2baa8f8ea093a203d6",
+    "target_alignment": 159,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0159.md",
+    "blob_sha": "d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8"
+  },
+  "qa": {
+    "path": "qa/chapter-0159.md",
+    "blob_sha": "2d1b7ca6f575e546c5c8595008bc37319d832d43",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "mozgus_twin",
+      "final": "Ephebo's face is Mozgus's Old Testament twin brother; unstable extracted twin-name spelling is not promoted to canonical production name",
+      "basis": "Chinese C159 + canonical-name guard"
+    },
+    {
+      "topic": "ninth_corpse",
+      "final": "Target159 reveals the Ninth Corpse as the demon behind the face-stealing/corrupted-undead network; later Dantalian/epithet naming withheld",
+      "basis": "Chinese C159 + reveal chronology"
+    },
+    {
+      "topic": "camus_concern",
+      "final": "Use Camus Morgue; preserve Light Faction→Dark Faction→closed-door-training concern without later outcome",
+      "basis": "Chinese C159 + Fandom canonical name"
+    },
+    {
+      "topic": "martin_luther_report",
+      "final": "Dolores sends evidence toward Cardinal Martin Luther; pigeon is intercepted before report leaves",
+      "basis": "Chinese C159"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/162.txt",
+    "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
+    "english_path": "source/chapters/chapter-161.xhtml",
+    "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
+    "purpose": "both begin Sin and Punishment (1), target162"
+  }
+}
