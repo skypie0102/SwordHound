@@ -490,3 +490,23 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Seven Baskerville Knight Orders** — Vikir requests all seven for half a day to hunt a dangerous monster hiding inside Baskerville; the force is described as roughly half the family's military power.
 - **The Hunt for the Second Son** — next verified family targets 120–125, witnesses E119–E124.
 - **Admission to the Academy** — begins target 126 / E125.
+
+## The Hunt for the Second Son additions — Chapters 120–125
+
+- **The Hunt for the Second Son** — accepted production family title for targets 120–125; shifted witnesses E119–E124.
+- **Andromalius** — **Tenth Corpse**, Danger Level **S+**; first source-explicitly named in target 121. Do not import his name backward into target 120.
+- **Ten Corpses** — canonical group name for the ten Demon Kings and the ten human vessels they possess. Killing one early may delay the Age of Destruction; do not overstate this as guaranteed prevention.
+- **Serpent's Womb** — Andromalius information-window location associated with the depths of the Gate of Destruction.
+- **“They shall swarm like flies.”** — Andromalius/Tenth Corpse calamity line; canonical Fandom register uses 『The Decalogue』 10:1.
+- **Seth Le Baskerville** — source leaves a residual-personality question after his apparent death by hanging and possession. Keep the Seth/Andromalius boundary uncertain where the text is uncertain.
+- **Peak Sword Graduator / Seventh Fang** — Vikir's hidden combat level in targets 120–123. Mentions of eighth/ninth/tenth Baskerville techniques indicate deeper knowledge, not automatic present mastery.
+- **Beelzebub current slots** — Slot 1 Venom — Madam Eight-Legs (S); Slot 2 Silent Heel — Mushuhushu (A+); Slot 3 Super High-Speed Regeneration — Bog Salamander (A+).
+- **Poisoned blood** — Vikir can transmit Madam Eight-Legs' venom through his own blood, turning Andromalius's blood-drain authority against him.
+- **Anubis** — legendary black bow formerly wielded by Adonai; do not reproduce recovered-English wording that treats Anubis as a force/person Adonai led.
+- **Seven Baskerville Knight Orders** — Vikir's signal in target 123 summons the Seven Counts and roughly 700 Sword Graduators; he commands the force for the promised half day.
+- **Andromalius final death** — Osiris's beheading is temporary; Hugo ultimately erases the escaping severed head and spiritual body with seven blood-red lightninglike slashes.
+- **Nute Baskerville** — canonical spelling for Seth's mother; raw/recovered Noot/Nut variants are noncanonical.
+- **Nute indictment** — target 125 gives 1,642 charges, including the source's later “murder of the First Lady” allegation. Preserve it as an unresolved target-125 claim; do not silently rewrite prior Roxana-illness statements.
+- **Vikir Special Law** — target 125 compensation notice cites Article 1, Paragraph 4 for families/orphanages affected by missing infants.
+- **Admission to the Academy** — next verified family targets 126–129, witnesses E125–E128.
+- **The Freshman Talent Show** — begins target 130 / E129.
