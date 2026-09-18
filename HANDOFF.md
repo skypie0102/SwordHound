@@ -5,33 +5,31 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Saintess acceptance checkpoint
-- **Working branch:** `editorial/restart-saintess-family`
-- **Base main checkpoint:** `83965483c0e2798d237cd885115da3880ca4530d` (PR #28, Hound of the Night 75–77, merged)
-- **Current PR:** #29 — `Rebuild The Saintess Chapters 78–82`
-- **Pre-PR-stamp branch head:** `1dae614ef1dfa05e787ea5befcb3d7d89d22efe1`
+- **Updated by:** ChatGPT — Lovesickness acceptance checkpoint
+- **Working branch:** `editorial/restart-lovesickness-family`
+- **Base main checkpoint:** `5675dcc85d44d4189fedc5496c42796aa0510d5a` (PR #29, The Saintess 78–82, merged)
+- **Current PR:** pending
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **82 / 500**
+- **Accepted:** **84 / 500**
 - **Staged:** **0**
-- **Next:** **83**
-- **Latest family:** targets **78–82 — The Saintess (1)–(5)**
-- **Family QA:** `qa/families/saintess-0078-0082.md` — PASS — `31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7`
-- **Next family:** targets **83–84 — Lovesickness (1)–(2)**
-- **Following family:** target **85 — The Illiad (1)**
+- **Next:** **85**
+- **Latest family:** targets **83–84 — Lovesickness (1)–(2)**
+- **Family QA:** `qa/families/lovesickness-0083-0084.md` — PASS — `dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d`
+- **Next family:** targets **85–89 — The Illiad (1)–(5)**
+- **Following family:** target **90 — The Ghosts of the Ancestors (1)**
 
 ## Rules that must not be lost
 
 - Chinese raw = semantic/narrative authority wherever present.
 - English Fandom/project register = canonical English terminology authority.
-- Recovered English MTL/XHTML = aligned secondary witness unless a documented Chinese gap requires scoped restoration.
+- Recovered English MTL/XHTML = aligned secondary witness; scoped restoration only for documented Chinese gaps/splices.
 - Preserve reveal chronology.
 - Process full title families.
 - Numbered Baskerville sword techniques are **Fangs**.
-- Disease/healing mechanics are fictional story material, not real-world medical advice.
-- Do not reproduce sexualized material involving under-18 characters; preserve nonsexual emotional/romantic source content.
+- Preserve source explicitness without eroticizing coercion, nudity, or under-18 content.
 - Every editorial session must update this file.
 
 ## Corpus exceptions
@@ -41,51 +39,44 @@
 - `054.txt` overlaps targets 54–55.
 - `075.txt` combines targets 75–76 and remains unsplittable at raw-file level.
 
-## Accepted family — The Saintess 78–82
+## Accepted family — Lovesickness 83–84
 
 Mapping:
-- 78→E77
-- 79→E78
-- 80→E79
-- 81→E80
-- 82→E81
-- 83→E82 begins Lovesickness
+- 83→E82
+- 84→E83
+- 85→E84 begins The Illiad
 
 | Ch. | Chinese SHA | English witness SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 78 | `155a238a81adfdc32ce7b97d9e28e05f4133c395` | E77 `64c564988053d5a39bde90c0f81685055f2bf13f` | `8919fdfc51baec50b1828e8a9433fa22d497da7e` | `8848cfc5ad09b4de95e79f7eb2196a1e085b25f1` | `ad71fb759ba3396cfbe61e35ae87c5a723dd8e20` | `0acf3fc2a5fea9cab97203338723414dbc2f7121` |
-| 79 | `97b3cae4efb581b22237affbbb71876d4178b3b3` | E78 `ec5ea6dada4c16d0f1b89b4d9c4ade8a701767b5` | `39084d413ac4f670cb1887da6e81608dd5857980` | `f6891e843279bd7c27626c59e5841e2f24834709` | `938f17338c4d633dd3cb414a1744a868f4969510` | `3818b12df4898b576933aeb86642d3b857db3ee4` |
-| 80 | `207f6ca71403141a65fa7b56706adab81cc1d37d` | E79 `f5a35581349ff821b8085433f3f5e7221b3ee5ff` | `8587821735a14b453f53a71be1dbbf52823c92c7` | `6de7aaa54e03f3babaa4e4b4bc2d399d1f9dc600` | `e84fe9f0b03e6486ed573120a44a8080ddd6f587` | `e0b1a7e484e96a7976e5ae4b1c01ede6a2334fb6` |
-| 81 | `b2ad1726acd434f02ec425e8736f672f4e07ca21` | E80 `292720b33c709d7fb636046cc50c3c3cea2e9eb8` | `9ce5707df73fb578ba50774c09ae0af87193b87b` | `088c15acf8afe22fb7b487d973650fb2c4141750` | `6a9d62cd12df6549a500c631788f8fe5324d0fb6` | `0f44d61c32e3edd02123e0f6522a5b4a5d3f6568` |
-| 82 | `704f31d597c22867b02a29e256029d3c428c0fa3` | E81 `51f77bde7626a47169fb61b26b27cdbb16fda8b8` | `74a893872c2f5226a35660e2d7b26d07c5f03812` | `96459e6550502949bd23eb280348ce0a723783ba` | `d1a73da6d14e8fce249f760b762f290bf5b403f4` | `48f5e4e4d9c6834e14d8ed1937f4e2e42da5021b` |
+| 83 | `482b93a20ef26c3c9dccceb3589f35cc09d1f12c` | E82 `43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c` | `3ba29ec77731da0e697b273bf5e92e79daaf3d49` | `9a799cfa3169cdcad903a606a36b2875e84abf25` | `20bb8d753e746f0183752ede9018663b4426c21c` | `d880865f818064d5065f27427d7c7266350cd88b` |
+| 84 | `33dfc17db6705dd71aff5095081d95e7f903e55b` | E83 `ab01dd2680467843c542744d55429afbe7b48113` | `9808a44919d1c1d0f7e1303087f0487488ea4e2f` | `5da7b3d290eed421d5ef58fcc74ebbbe12209744` | `8d2ca1fe26866818aa7df872437f213f87e49033` | `5cf72011eaa4032826408f7a1753a23a87b4ae0d` |
 
 ### Accepted decisions
 
-- **Dolores L. Quovadis** is sixteen in this family; all admiration/heartbeat content remains nonsexual.
-- **Humbert L. Quovadis** uses the current canonical Fandom form; later adoptive-family revelations remain blocked.
-- **Nabokov I Quovadis** is the Pope-level authority named in target 79.
-- Target 79 Chinese controls that initial slum cases are primary waterborne cases only; no secondary cases yet.
-- Dolores heals six patients in the first miracle cluster.
-- Target 80: 42 registered wells + unregistered wells; purification trials 1a–3c.
-- Target 81: divine-power shorting/borrowing/overdraft is fantasy magic-system exposition.
-- Ballak herbs delay symptoms/reduce suffering; they do not cure Red Death.
-- Target 82: three drops of **Plany de la Verge / Saintess's Tears**.
-- **Old Testament Faction / New Testament Faction** retained.
-- Bourgeois evidence uses Chinese **nail-and-hammer** emblem; E81 scythe-and-hammer rejected.
-- Chinese `小妖精` rendered **little sprite**; sexualized English gloss not reproduced.
-- Family ends with Vikir gone and one Saintess's Tear missing.
+- Target 83 is Aiyen's continuity dream, not a rewritten alternate history.
+- Slave-cage exploitation fears and Ballak partner-capture customs remain coercive source context without eroticization.
+- Aiyen's sickbed nudity is medical/nonsexual; no age inferred.
+- Akwilla's conception anecdote is retained factually/non-erotically, including intoxication, lack of contraception, conception, and the father's execution next day.
+- Target 84: **about thirty** Ballak patients and **thousands** in surrounding tribes; E83's tens-of-thousands inflation rejected.
+- **Saintess's Tears** cures Aheul and purifies the shared river source.
+- Vikir intends to convert tribal gratitude into long-term leverage against Baskerville.
+- **Renaissance** remains the aligned working name for the berserker tribe pending stronger canonical evidence.
+- Aiyen's blush persists after holy water, completing the Lovesickness title payoff.
 
-## Next family — Lovesickness 83–84
+## Next family — The Illiad 85–89
 
-Verified:
-- 83 C83 `482b93a20ef26c3c9dccceb3589f35cc09d1f12c` → E82 `43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c`
-- 84 C84 `33dfc17db6705dd71aff5095081d95e7f903e55b` → E83 `ab01dd2680467843c542744d55429afbe7b48113`
-- 85 C85 `a6689c93a2c3810a0a22526f649c060fef1a6407` → E84 `1a33d19bdc16b0b80a945744015bc8414e506ce7` begins **The Illiad (1)**.
+Verified mapping:
+- 85 C85 `a6689c93a2c3810a0a22526f649c060fef1a6407` → E84 `1a33d19bdc16b0b80a945744015bc8414e506ce7`
+- 86 C86 `6be93c9b02e7bbe160e0db039580024f1fa1811a` → E85 `138252313315fc22e277fd2be6c2d5e414178d56`
+- 87 C87 `f954b592f541c39249d6785ae49baff72188738a` → E86 `0be4b81f87e557beb424577368c333587d5cb9ed`
+- 88 C88 `05598847096890576bceb941900bcf04561d90ff` → E87 `153af50c407697afc6c2677b3c301bce111a3bd3`
+- 89 C89 `83256d7003be5bc4fa12c35f1abf1db63c226c1f` → E88 `0ca10d5e3a3f4d91fdd882bdcf3545dab3bb2ce5`
+- 90 C90 `2128d128f66c3208b3d8bacdd37bb7d9c6684773` → E89 `6cb2efd35be359cd0d25a1de23daf2a2561ef383` begins **The Ghosts of the Ancestors (1)**.
 
 ## Exact next actions
 
-1. Compare/open/merge the Saintess 78–82 checkpoint.
-2. Fresh branch from merged main for Lovesickness 83–84.
-3. Read C83–84 + E82–83 fully with C85/E84 boundary.
-4. Reconstruct/QA/provenance/accept the complete Lovesickness family.
-5. Promote/merge and continue into The Illiad.
+1. Compare/open/merge the Lovesickness 83–84 checkpoint.
+2. Fresh branch from merged main for The Illiad 85–89.
+3. Read C85–89 + E84–88 fully, with C90/E89 boundary.
+4. Reconstruct/QA/provenance/accept all five Illiad chapters.
+5. Promote/merge and continue into The Ghosts of the Ancestors.
