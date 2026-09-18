@@ -1,0 +1,82 @@
+{
+  "chapter": 58,
+  "title": "The Hunter and the Hunted (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/058.txt",
+    "blob_sha": "230b6b91bc511e93968956eb799aac9c44441c5e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-057.xhtml",
+    "blob_sha": "33f218cebdc7c91bdd8994b20d30465ecbaaebfa",
+    "target_alignment": 58,
+    "alignment_status": "target58_verified_to_e57_by_three_day_stakeout_stimulant_foods_female_drives_male_away",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/061.txt",
+    "chinese_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "english_path": "source/chapters/chapter-060.xhtml",
+    "english_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "purpose": "both begin next-family harvest/plunder festival content"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "accepted project terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir Van Baskerville",
+        "Aiyen",
+        "Ahun",
+        "Akwilla",
+        "Ballak Tribe",
+        "Bakira",
+        "Oxbear",
+        "Le Rouge et Le Noir Mountain",
+        "Beelzebub",
+        "Incinerate",
+        "Cerberus"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0058.md",
+    "blob_sha": "b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0"
+  },
+  "qa": {
+    "path": "qa/chapter-0058.md",
+    "blob_sha": "403129422383f71784e7497e3b01764ab872e574",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "mapping",
+      "final": "target 58 maps to recovered English 57",
+      "basis": "complete content alignment"
+    },
+    {
+      "topic": "stakeout",
+      "final": "three-day Oxbear breeding/exhaustion strategy retained clinically",
+      "basis": "Chinese target58"
+    },
+    {
+      "topic": "stimulants",
+      "final": "berries/mushrooms temporarily boost strength by consuming reserves",
+      "basis": "Chinese target58"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
