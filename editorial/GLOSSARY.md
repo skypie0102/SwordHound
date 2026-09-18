@@ -662,3 +662,22 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Sin and Punishment** — next verified Chinese family targets 162–169. Shifted witnesses exist for 162→E161 through 167→E166, **target 168 has no recovered-English witness in the current sequence**, and 169→E167.
 - **Adorable Pet** — begins target 170 / E168.
 
+## Sin and Punishment additions — Chapters 162–169
+
+- **Sin and Punishment** — accepted production family title for targets 162–169.
+- **Dantalian** — Ninth Corpse; **A Thousand Faces**; **Danger Level S+**; associated with the Serpent's Womb / Gate of Destruction.
+- **Indulgentia human farm** — Dantalian explicitly describes the orphanage as a breeding/food operation for children; gold necklaces mark his “breeding stock.”
+- **Certificates of Absolution / Remission** — Old Testament documents weaponized by Dantalian; he states Humbert issued his certificates in exchange for large donations.
+- **Sack of Shame / Sack of Fear / Sack of Love** — production names for Dantalian's three memory-based psychological devices.
+- **Dolores / Love Sack** — produces the Night Hound, revealing a source-timed feeling Dolores had not consciously classified.
+- **Vikir / Love Sack** — genuinely empty in his prior-life emotional context; do not retroactively import later attachments.
+- **Soul resonance / soulmate** — source-explicit Saintess-awakening condition in target 166; does not establish reciprocal conscious romance from Vikir.
+- **Temporary lower Sword Master** — Dolores's awakened buff lifts Vikir from Peak Sword Graduator to lower Sword Master in target 167.
+- **Ironblood Empress** — later title used for Camus Morgue in Vikir's prior-life buff-compatible hero examples.
+- **Peri necklace** — physical gold necklace remains after the Dantalian/Peri-faced manifestation disappears.
+- **Target 168 witness gap** — no recovered-English witness exists in the current sequence; accepted Chinese-primary only.
+- **Ninety-five-article rebuttal** — Dolores's public reform statement against indulgence abuses. Render only source-listed articles.
+- **Article-number guard** — Chinese **Article 50** and **Article 90** control over recovered-English 51/99 drift.
+- **Adorable Pet** — next verified family targets 170–171; witnesses E168–E169.
+- **The Anti-Columnist** — begins target 172 / E170.
+
