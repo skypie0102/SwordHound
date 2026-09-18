@@ -1,0 +1,66 @@
+{
+  "chapter": 150,
+  "title": "Not Brother, But Uncle (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Not Brother, But Uncle",
+    "range": [
+      150,
+      151
+    ],
+    "family_qa_path": "qa/families/not-brother-0150-0151.md",
+    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/150.txt",
+    "blob_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-149.xhtml",
+    "blob_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "target_alignment": 150,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0150.md",
+    "blob_sha": "93bbe3a2c57b5c15be4e524b74eca06c8c8caf48"
+  },
+  "qa": {
+    "path": "qa/chapter-0150.md",
+    "blob_sha": "70b5a5c20e44c5e4c5b775b1948bca2c07a8cd53",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "peri_age",
+      "final": "Target150 explicitly reveals Peri is thirteen; earlier visual estimate remains only an approximate impression",
+      "basis": "Chinese C150"
+    },
+    {
+      "topic": "sinclaire_background_guard",
+      "final": "Keep only Vikir's royal-freshman speculation; do not import Sinclaire's later Bourgeois identity",
+      "basis": "Chinese C150 + reveal chronology"
+    },
+    {
+      "topic": "viking_parent_worldview",
+      "final": "Vikir's functional view of parents is character worldview shaped by Baskerville/Age of Destruction, not narrator truth",
+      "basis": "Chinese C150"
+    },
+    {
+      "topic": "uncle_title",
+      "final": "Retain Peri's Big Brother address and Vikir's correction to Uncle as the family-title punchline",
+      "basis": "Chinese C150"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/152.txt",
+    "chinese_sha": "d6fc3f4922a2a3f57c66ece2faa68efa4030859e",
+    "english_path": "source/chapters/chapter-151.xhtml",
+    "english_sha": "55107beb518be3473b627551ec88399ce113f688",
+    "purpose": "both begin The Drinking Game (1), target152"
+  }
+}
