@@ -2,36 +2,37 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 100  
+**Accepted:** 104  
 **Staged:** 0  
-**Next chapter:** 101
+**Next chapter:** 105
 
 ## Current accepted checkpoint
 
-Twenty-seven complete title families have passed the restarted workflow, through:
+Twenty-eight complete title families have passed the restarted workflow, through:
 
-- Chapters 90–94 — *The Ghosts of the Ancestors (1)–(5)*
 - Chapters 95–100 — *Madam Eight-Legs (1)–(6)*
+- Chapters 101–104 — *Nostalgia (1)–(4)*
 
-Latest family QA: `qa/families/madam-eight-legs-0095-0100.md` — **PASS**.
+Latest family QA: `qa/families/nostalgia-0101-0104.md` — **PASS**.
 
-## Madam Eight-Legs family decisions
+## Nostalgia family decisions
 
-- Verified mapping: **95→E94 through 100→E99**.
-- Target 95: Ah'Heman's delayed lure directly triggers Madam's attack; Baskerville monster suppression remains the broader ecological cause.
-- Target 96: Bakira's right hind leg is catastrophically poisoned/injured; Vikir leaves after an uncertain survival promise to Aiyen.
-- Target 97: **Bog Salamander** = A+ / 9 m / 8th Ridge / ‘Infinite-Regeneration Salamander’; **Bone-Sucking Mosquito** = individual D / swarm S / 3 mm / 9th Ridge.
-- Target 98: Vikir climbs Madam's nest, mourns Ballak dead, and declares war.
-- Target 99: **Madam Eight-Legs** = S / size unknown / 10th Ridge / ‘Madam of the Flood’ / species unknown; severed legs regenerate as two.
-- Target 100 opening Beelzebub state: Incinerate — Cerberus (A+) / Silent Heel — Mushuhushu (A+) / **Super High-Speed Regeneration — Bog Salamander (A+)**. Kilogram Hammer is displaced.
-- Target 100 final Beelzebub state: **Venom — Madam Eight-Legs (S)** / Silent Heel — Mushuhushu (A+) / Super High-Speed Regeneration — Bog Salamander (A+). Cerberus/Incinerate is displaced.
-- Family ends with Aiyen/Bakira finding Vikir alive after Madam's death.
+- Verified mapping: **101→E100 through 104→E103**.
+- Target 101 deliberately reprises the cliff-impact / Madam-death / Beelzebub-slot sequence; the repetition exists in the source.
+- Target 102: Vikir reaches **Peak Sword Graduator**, matching his pre-regression peak, while remaining below Sword Master.
+- A small/incomplete **Seventh Fang** is source-revealed in target 102; Fang depth does not equal aura realm.
+- Target 103's Bakira breeding assistance is retained briefly/non-graphically as animal husbandry.
+- Target 104 skips two months; Bakira has five pups and Madam's egg remains inert.
+- Akwilla and the floodland tribes explicitly affirm Vikir as permanent family and future ally.
+- Aiyen restores Adonai's bow with Madam webbing; the completed weapon is source-named **Anubis**.
+- Vikir is seventeen and Aiyen nineteen; their farewell kiss is brief/nonsexual.
+- Family ends before target 105's golden-statue / Returned Hero reveal.
 
 ## Next verified title family
 
-- **Target Chapters 101–104 — Nostalgia (1)–(4)**
-- Verified mapping: **101→E100, 102→E101, 103→E102, 104→E103**.
-- Target Chapter 105 begins **The Returned Hero (1)** and aligns to **E104**.
+- **Target Chapters 105–109 — The Returned Hero (1)–(5)**
+- Verified mapping: **105→E104, 106→E105, 107→E106, 108→E107, 109→E108**.
+- Target Chapter 110 begins **The Great Banquet (1)** and aligns to **E109**.
 
 ## Source authority
 
@@ -54,4 +55,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **Madam Eight-Legs (1)–(6), targets 95–100** checkpoint, then branch from merged main for **Nostalgia, targets 101–104**. Read C101–104 + E100–103 completely with C105/E104 as the boundary, reconstruct and QA the full family, then continue directly into **The Returned Hero**.
+Merge the clean **Nostalgia (1)–(4), targets 101–104** checkpoint, then branch from merged main for **The Returned Hero, targets 105–109**. Read C105–109 + E104–108 completely with C110/E109 as the boundary, reconstruct and QA all five chapters, then continue into **The Great Banquet**.
