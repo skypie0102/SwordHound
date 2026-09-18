@@ -1,0 +1,66 @@
+{
+  "chapter": 125,
+  "title": "The Hunt for the Second Son (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/125.txt",
+    "blob_sha": "5223309f0edcb43c1fa1d18fafd7a38ecb81be3e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-124.xhtml",
+    "blob_sha": "f9b8cd36750f08861f0feb62a62454ecfbd21496",
+    "target_alignment": 125,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0125.md",
+    "blob_sha": "e2ece44fa09a28b1d2304400172db09b1935a85d"
+  },
+  "qa": {
+    "path": "qa/chapter-0125.md",
+    "blob_sha": "3c47456e8c4a61c178d53fd3c9e60f90bbd8a6b4",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "nute_name",
+      "final": "canonical Nute Baskerville controls Noot/Nut drift",
+      "basis": "canonical project/Fandom register"
+    },
+    {
+      "topic": "first_lady_charge",
+      "final": "retain source allegation that Nute was charged with murder of the First Lady without retroactively rewriting earlier illness statements",
+      "basis": "Chinese C125; unresolved source-level relationship"
+    },
+    {
+      "topic": "purge_motive",
+      "final": "political-consolidation reading remains Vikir's analysis, not narrator-certified motive",
+      "basis": "Chinese C125 viewpoint"
+    },
+    {
+      "topic": "next_family",
+      "final": "chapter ends before target126 Admission to the Academy (1)",
+      "basis": "C125/C126 and E124/E125 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/126.txt",
+    "chinese_sha": "0b203c5861b7401737f33d82d33f5e9cf3f282dc",
+    "english_path": "source/chapters/chapter-125.xhtml",
+    "english_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
+    "purpose": "both begin Admission to the Academy (1), target126"
+  }
+}
