@@ -5,50 +5,51 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — 99 Hits acceptance checkpoint
-- **Working branch:** `editorial/restart-99-hits-0176-0178`
-- **Base main checkpoint:** `d9124fab3f92f8e957fe042965f9ade19be1cba9` (Anti-Columnist checkpoint merged)
-- **Current PR:** #52 — `Rebuild The 99 Hits With 100 Shots Chapters 176–178`
+- **Updated by:** ChatGPT — Midterm Random Defense acceptance checkpoint
+- **Working branch:** `editorial/restart-midterm-random-defense-0179-0185`
+- **Base main checkpoint:** `bb7a871c5627b307177211b55f32139344b1c296` (99 Hits checkpoint merged)
+- **Current PR:** not yet opened
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **178 / 500**
+- **Accepted:** **185 / 500**
 - **Staged:** **0**
-- **Next:** **179**
-- **Latest family:** targets **176–178 — The 99 Hits With 100 Shots (1)–(3)**
-- **Family QA:** `qa/families/99-hits-0176-0178.md` — PASS — `17d40518db9be33d4468187ec57fd1003a38f4b3`
-- **Next family:** targets **179–185 — Midterm Random Defense (1)–(7)**
-- **Following family:** target **186 — Aftermath (1)**
+- **Next:** **186**
+- **Latest family:** targets **179–185 — Midterm Random Defense (1)–(7)**
+- **Family QA:** `qa/families/midterm-random-defense-0179-0185.md` — PASS — `5e3faad9482fbac0eae393e1b5d7b98293ae7ede`
+- **Next family:** targets **186–189 — Aftermath (1)–(4)**
+- **Following family:** target **190 — Attack Land (1)**
 
 ## Key decisions
 
-- Bianca: **1,437 / 1,440**.
-- Vikir: **1,436 / 1,440** only because the final six-ring arrow deliberately pins a mosquito.
-- Vikir's archery is Ballak-derived; Akwilla / Ahun / Aheul / Bakilaga Juragio / Aiyen control.
-- Aiyen's leather collar remains the first-ox-bear keepsake.
-- Picaresque dog form is used to avoid Dolores; she names the dog **Choco** and mentions neutering.
-- Granola's no-mana gravity benchmark is 7× for 30+ minutes.
-- Vikir reaches **12× gravity without mana**.
-- Bianca connects the mosquito shot to the Freshman Welcome Day rooftop rum clue.
-- Tudor/Bianca eventual romance is prior-life future knowledge, not a current relationship.
-- Baby Madam has digested Granola's poison and is promised more during the practical midterm.
+- Midterm weights: Defense 50% / Attack 40% / written 10%.
+- **Killer Ant / Filthy Spawning Grounds** are the production monster/map terms.
+- Group 69 = Vikir + Highbro / Middlebro / Lowbro; score **2,253**.
+- Group 108 = Tudor / Sancho / Pigi / Bianca; score **2,269**.
+- Baby Madam's poison-fed molt creates the life signal that incorrectly advances the arena into Phase 2.
+- **Professor Banshee Morgue** holds Key A; **Professor Sadi** holds Key B and is absent.
+- Dolores is prepared to destroy the magic stone to save the trapped juniors.
+- Vikir enters through the remembered northwest barrier flaw using Picaresque dog form.
+- Worker Ant = Danger Rating C / 1 m.
+- Soldier Ant = Danger Rating B+ / 5 m.
+- Vikir keeps the rescue at Expert-level output and does not expose Graduator aura.
+- C185 rank drift is normalized to intermediate-to-advanced Sword Expert aura.
+- Pigi's childhood reveal remains spoiler-guarded beyond what this family states.
+- Vikir ends at **HP 100 / Kill 968 / Assist 5,321**.
 
-## Next family — Midterm Random Defense 179–185
+## Next family — Aftermath 186–189
 
-- 179 → E177
-- 180 → E178
-- 181 → E179
-- 182 → E180
-- 183 → E181
-- 184 → E182
-- 185 → E183
-- boundary 186 → E184 begins **Aftermath (1)**.
+- 186 → E184
+- 187 → E185
+- 188 → E186
+- 189 → E187
+- boundary 190 → E188 begins **Attack Land (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the 99 Hits checkpoint PR.
-2. Fresh branch from merged main for **Midterm Random Defense 179–185**.
-3. Read C179–185 against E177–183 completely.
-4. Use C186/E184 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all seven chapters, then continue.
+1. Open/validate/merge the Midterm Random Defense checkpoint PR.
+2. Fresh branch from merged main for **Aftermath 186–189**.
+3. Read C186–189 against E184–187 completely.
+4. Use C190/E188 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept all four chapters, then continue.
