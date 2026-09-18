@@ -1,0 +1,95 @@
+{
+  "chapter": 88,
+  "title": "The Illiad (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/088.txt",
+    "blob_sha": "05598847096890576bceb941900bcf04561d90ff",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-087.xhtml",
+    "blob_sha": "153af50c407697afc6c2677b3c301bce111a3bd3",
+    "target_alignment": 88,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/090.txt",
+    "chinese_sha": "2128d128f66c3208b3d8bacdd37bb7d9c6684773",
+    "english_path": "source/chapters/chapter-089.xhtml",
+    "english_sha": "6cb2efd35be359cd0d25a1de23daf2a2561ef383",
+    "purpose": "both begin The Ghosts of the Ancestors (1) target90"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Illiad",
+        "Akwilla",
+        "Aiyen",
+        "Ah'Heman",
+        "Ahun",
+        "Ballak Tribe",
+        "Vikir",
+        "Bakira",
+        "Leviathan Clan",
+        "Beelzebub"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0088.md",
+    "blob_sha": "d1817f2819b0c5b43ae97c2867064eb2dc20cec0"
+  },
+  "qa": {
+    "path": "qa/chapter-0088.md",
+    "blob_sha": "85ba279de307fa80731d85c16d2cd06db5abb2ea",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "illiad",
+      "final": "life-and-death honor duel; winner resolves irreconcilable dispute",
+      "basis": "Chinese target88"
+    },
+    {
+      "topic": "challenge",
+      "final": "Vikir as challenged party invokes traditional choice of date/place and starts immediately",
+      "basis": "Chinese target88"
+    },
+    {
+      "topic": "son_in_law",
+      "final": "Akwilla's son-in-law line retained as her joke/claim, not established marriage",
+      "basis": "Chinese target88"
+    },
+    {
+      "topic": "abuse_history",
+      "final": "Ah'Heman abducted as young outsider and sexually abused by prior shaman; preserve non-graphically as abuse",
+      "basis": "Chinese target88"
+    },
+    {
+      "topic": "birth_tribe",
+      "final": "Ah'Heman's original tribe remains unknown in target88",
+      "basis": "reveal chronology"
+    },
+    {
+      "topic": "kiss",
+      "final": "Aiyen's brief kiss with seventeen-year-old Vikir retained as nonsexual romantic affection",
+      "basis": "Chinese target88"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
