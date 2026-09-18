@@ -1,0 +1,66 @@
+{
+  "chapter": 102,
+  "title": "Nostalgia (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/102.txt",
+    "blob_sha": "60e4337839e37330558fd3528f9ae1a8d574987a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-101.xhtml",
+    "blob_sha": "e4aab893ce71c7fc09dbe61db1e076a283241b99",
+    "target_alignment": 102,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/105.txt",
+    "chinese_sha": "6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab",
+    "english_path": "source/chapters/chapter-104.xhtml",
+    "english_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
+    "purpose": "both begin The Returned Hero (1) target105"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0102.md",
+    "blob_sha": "4311b6fdf3fbbf0ef02ab69fc44daec2443c2441"
+  },
+  "qa": {
+    "path": "qa/chapter-0102.md",
+    "blob_sha": "391fe8a0fc44a60fa591778f3cee294a7bf13111",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "crowd",
+      "final": "more than four thousand floodland people gather",
+      "basis": "Chinese target102"
+    },
+    {
+      "topic": "rank",
+      "final": "Vikir reaches Peak Sword Graduator, his pre-regression peak, while remaining below Sword Master",
+      "basis": "Chinese target102"
+    },
+    {
+      "topic": "seventh_fang",
+      "final": "small incomplete Seventh Fang source-revealed; Fang depth does not equal aura realm",
+      "basis": "Chinese target102"
+    },
+    {
+      "topic": "egg",
+      "final": "Madam egg retained as uncertain research material",
+      "basis": "Chinese target102"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
