@@ -1,5 +1,27 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Falling in Love (1)–(3) accepted
+
+**Current state:** 119 / 500 accepted; 0 staged; next Chapter 120.
+
+Completed targets 117–119 with mapping **117→E116, 118→E117, 119→E118**.
+
+Key decisions:
+- preserved Colosseo Academy's Class 20 recruitment notice and corrected Vikir's response to **“I'll go”**;
+- completed Highbro / Middlebro / Lowbro's oath and reaffirmed the **Baskerville Trident** as Vikir's chosen hounds;
+- preserved the triplets' knowledge that Vikir had already reached Intermediate Sword Graduator two years earlier;
+- retained Vikir's two Academy objectives: freedom from Hugo's surveillance to grow stronger, and his pre-regression blacklist;
+- normalized raw-layer family-name drift to **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**;
+- reaffirmed Roxana's death by illness and tied Penelope's abduction to Hugo's frontier transformation of Baskerville;
+- restored the pendant/granddaughter reveal without the recovered-English pronoun and relationship corruption;
+- confirmed Pomeranian's lineage and normalized her route-blocking monster account to **Madam Eight-Legs**;
+- preserved Hugo's unprecedented gratitude and Osiris's restrained emotional change;
+- ended target 119 on Vikir's request for **all seven Baskerville Knight Orders for half a day**, without importing target-120 Seth material.
+
+Family QA: `qa/families/falling-in-love-0117-0119.md` — **PASS**.
+
+Next verified family: targets **120–125 — The Hunt for the Second Son (1)–(6)**, mapped **120→E119 through 125→E124**. Target **126** begins *Admission to the Academy (1)* and maps to **E125**.
+
 ## 2026-09-18 — The Great Banquet (1)–(7) accepted
 
 **Current state:** 116 / 500 accepted; 0 staged; next Chapter 117.
