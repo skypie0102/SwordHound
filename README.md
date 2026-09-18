@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **125 / 500 accepted; next Chapter 126.** Latest accepted family: **targets 120–125 — The Hunt for the Second Son (1)–(6)**.
+Current checkpoint: **129 / 500 accepted; next Chapter 130.** Latest accepted family: **targets 126–129 — Admission to the Academy (1)–(4)**.
 
-The next verified family is **Admission to the Academy, targets 126–129**, mapped **126→E125 through 129→E128**. Target 130 begins **The Freshman Talent Show (1)** and maps to E129.
+The next verified family is **The Freshman Talent Show, targets 130–132**, mapped **130→E129 through 132→E131**. Target 133 begins **Test Your Skills (1)** and maps to E132.
 
 ## Current source policy
 
@@ -38,15 +38,21 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Hunt for the Second Son family adds/revalidates:
+The accepted Admission to the Academy family adds/revalidates:
+
+- **Admission to the Academy** — accepted production family title for targets 126–129; witnesses E125–E128.
+- **Cold Department / Hot Department** — accepted broad Colosseo divisions.
+- **Tudor Donquixote / Bianca Fo Usher / Sinclaire / Pigi / Sancho Barataria** — canonical Academy student register.
+- **Glorious Generation** — label for the unusually strong 20th class.
+- **Commoner Vikir cover** — Vikir temporarily omits Van Baskerville at Colosseo.
+- **The Freshman Talent Show** — next family targets 130–132; witnesses E129–E131.
+- **Test Your Skills** begins target 133 / E132.
 
 - **The Hunt for the Second Son** — accepted production family title for targets 120–125; witnesses E119–E124.
 - **Andromalius / Tenth Corpse** — source-revealed in target 121; Danger Level S+.
 - **Ten Corpses** — canonical collective name for the ten Demon Kings and their human vessels.
 - **Anubis** — legendary black bow formerly wielded by Adonai.
 - **Nute Baskerville** — canonical spelling for Seth's mother.
-- **Admission to the Academy** — next family targets 126–129; witnesses E125–E128.
-- **The Freshman Talent Show** begins target 130 / E129.
 - **Boston Terrier Le Baskerville / Pit Bull Knights** — Count and commander; 100-Graduator extermination-specialist order.
 - **Great Dane Le Baskerville / Mastiff Knights** — Count and commander; 100-Graduator formal-war-specialist order.
 - **Seven Counts** — major Baskerville military/political bloc; all seven sought to attend Vikir's banquet.
@@ -61,15 +67,15 @@ The accepted Hunt for the Second Son family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–125**:
+Current accepted production evidence covers targets **1–129**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0125.md`
-- `qa/chapter-0001.md` through `chapter-0125.md`
-- accepted family QA through `qa/families/hunt-second-son-0120-0125.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0125.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0125.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0129.md`
+- `qa/chapter-0001.md` through `chapter-0129.md`
+- accepted family QA through `qa/families/admission-academy-0126-0129.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0129.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0129.json`
 
-Latest family QA: `qa/families/hunt-second-son-0120-0125.md` — **PASS**.
+Latest family QA: `qa/families/admission-academy-0126-0129.md` — **PASS**.
 
 ## Editorial quality bar
 

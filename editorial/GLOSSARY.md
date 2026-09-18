@@ -510,3 +510,21 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Vikir Special Law** — target 125 compensation notice cites Article 1, Paragraph 4 for families/orphanages affected by missing infants.
 - **Admission to the Academy** — next verified family targets 126–129, witnesses E125–E128.
 - **The Freshman Talent Show** — begins target 130 / E129.
+
+## Admission to the Academy additions — Chapters 126–129
+
+- **Admission to the Academy** — accepted production family title for targets 126–129; shifted witnesses E125–E128.
+- **Cold Department / Hot Department** — accepted broad Colosseo academic/practical divisions; avoid recovered-English “Class” when referring to the departments themselves.
+- **Glorious Generation** — label for the exceptionally talented 20th class.
+- **Tudor Donquixote** — canonical incoming Cold Department spear prodigy; tied first in practical placement.
+- **Bianca Fo Usher** — canonical incoming Cold Department archer; tied first in practical placement.
+- **Sinclaire** — canonical female Hot Department prodigy; first in practical placement, second in written theory.
+- **Sancho Barataria** — canonical scholarship student selected by the Northern Mercenary Guild Alliance; Pigi reports he chose Colosseo over a top Varangian opportunity.
+- **Pigi** — canonical spelling; Vikir's Academy roommate, source-introduced target 127. Do not import later bloodline/Corpse spoilers before source reveal.
+- **Commoner Vikir cover** — Vikir temporarily omits Van Baskerville and enters Colosseo publicly as the commoner Vikir.
+- **Dolores L. Quovadis at Colosseo** — third-year top student, student council president, newspaper-club head; she previously met Vikir only as the masked Night Hound.
+- **Ron Hubert Bartison** — target-129 blacklist target. Keep current demon-pact crime separate from the later Human Alliance betrayal remembered from the prior timeline.
+- **Demon-pact field clues** — rotten soul odor and unusually rapid facial decay; insufficient by themselves to identify a specific remaining Corpse.
+- **Rum clue** — Vikir uses strong rum to clean the Night Hound cloak; Bianca detects the odor on the rooftop.
+- **The Freshman Talent Show** — next verified family targets 130–132, witnesses E129–E131.
+- **Test Your Skills** — begins target 133 / E132; verified six-part family through target 138.

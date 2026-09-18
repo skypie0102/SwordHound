@@ -1,0 +1,44 @@
+{
+  "chapter": 126,
+  "title": "Admission to the Academy (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Admission to the Academy",
+    "range": [
+      126,
+      129
+    ],
+    "family_qa_path": "qa/families/admission-academy-0126-0129.md",
+    "family_qa_sha": "d1976d0ae2095d1c9234fdf5fb5f4de824bb9748",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/126.txt",
+    "primary_source_sha": "0b203c5861b7401737f33d82d33f5e9cf3f282dc",
+    "english_reference_path": "source/chapters/chapter-125.xhtml",
+    "english_reference_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
+    "draft_path": "manuscript/drafts/chapter-0126.md",
+    "draft_sha": "b2bd803effb51401c8dd8c301daa4d198f44a214",
+    "qa_path": "qa/chapter-0126.md",
+    "qa_sha": "097b56c80f71bd28a7c1aa674c8677181eebd869",
+    "provenance_path": "editorial/provenance/chapter-0126.json",
+    "provenance_sha": "6369793c1c105d04cbfcb71ff54bcc842f19af6d"
+  },
+  "canonical_checks": [
+    "Colosseo Academy",
+    "Cold Department",
+    "Hot Department",
+    "Tudor Donquixote",
+    "Bianca Fo Usher",
+    "Sinclaire",
+    "Sancho Barataria",
+    "Glorious Generation"
+  ],
+  "documented_limits": [
+    "Department wording is normalized from witness Class drift.",
+    "Vikir's commoner-cover explanation remains target127 material.",
+    "No target130 talent-show material is imported."
+  ]
+}

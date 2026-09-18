@@ -1,5 +1,29 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Admission to the Academy (1)–(4) accepted
+
+**Current state:** 129 / 500 accepted; 0 staged; next Chapter 130.
+
+Completed targets 126–129 with mapping **126→E125 through 129→E128**.
+
+Key decisions:
+- normalized Colosseo's broad practical divisions to **Cold Department / Hot Department**;
+- preserved the incoming rankings and canonical student register: Tudor Donquixote, Bianca Fo Usher, Sinclaire, Sancho Barataria, Highbro/Middlebro/Lowbro;
+- retained the **Glorious Generation** label for this unusually dense elite cohort;
+- kept Vikir's first-place theory result deliberately low-profile in Colosseo's practical-first culture;
+- preserved Vikir's commoner cover by omitting the Baskerville surname in public;
+- source-introduced **Pigi** as Vikir's roommate without importing later bloodline/Corpse spoilers;
+- preserved Dolores L. Quovadis as third-year top student / student council president / newspaper-club head and Vikir's avoidance of recognition;
+- kept Vikir's orientation absence as intentional cover for the Night Hound's first Imperial-Capital blacklist patrol;
+- distinguished Ron Bartison's current demon-pact crime from the future military betrayal Vikir remembers from the prior timeline;
+- retained rotten soul odor / rapid facial decay only as pact clues;
+- preserved the strong-rum cleanup as the clue Bianca detects after Vikir evades her rooftop pursuit;
+- stopped cleanly before target 130.
+
+Family QA: `qa/families/admission-academy-0126-0129.md` — **PASS**.
+
+Next verified family: targets **130–132 — The Freshman Talent Show (1)–(3)**, mapped **130→E129 through 132→E131**. Target **133** begins *Test Your Skills (1)* and maps to **E132**.
+
 ## 2026-09-18 — The Hunt for the Second Son (1)–(6) accepted
 
 **Current state:** 125 / 500 accepted; 0 staged; next Chapter 126.

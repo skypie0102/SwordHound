@@ -2,42 +2,44 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 125  
+**Accepted:** 129  
 **Staged:** 0  
-**Next chapter:** 126
+**Next chapter:** 130
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 117–119 — *Falling in Love (1)–(3)*
 - Chapters 120–125 — *The Hunt for the Second Son (1)–(6)*
+- Chapters 126–129 — *Admission to the Academy (1)–(4)*
 
-Latest family QA: `qa/families/hunt-second-son-0120-0125.md` — **PASS**.
+Latest family QA: `qa/families/admission-academy-0126-0129.md` — **PASS**.
 
-## Hunt for the Second Son family decisions
+## Admission to the Academy family decisions
 
-- Verified mapping: **120→E119 through 125→E124**.
-- Target 120 exposes Seth's hidden child-killing cave and Gate preparations but keeps the possessing demon unnamed.
-- Target 121 source-reveals **Andromalius — Tenth Corpse — Danger Level S+** and defines the Ten Corpses as Demon Kings plus their human vessels.
-- Vikir's hidden combat level is **Peak Sword Graduator** with the **Seventh Fang**; references to deeper eighth/ninth/tenth Baskerville techniques are not promoted into unsupported present mastery.
-- Beelzebub can damage spiritual bodies; current slots remain **Venom — Madam Eight-Legs (S), Silent Heel — Mushuhushu (A+), Super High-Speed Regeneration — Bog Salamander (A+)**.
-- Andromalius's blood-drain authority is countered by Vikir's poisoned blood.
-- **Anubis** is the legendary black bow formerly wielded by Adonai.
-- Target 123 ends with Hugo, Osiris, the Seven Counts, and seven knight orders totaling roughly **700 Sword Graduators** answering Vikir's signal.
-- During the half-day reward window, Vikir temporarily commands Baskerville's military force and orders the hounds to kill Andromalius.
-- Osiris's beheading is not the final kill; Hugo's seven blood-red lightninglike slashes erase Andromalius's remaining body and soul.
-- Target 125 handles the public compensation/punishment aftermath, memorials, political purge, and investigation into the remaining Ten Corpses.
-- Canonical **Nute Baskerville** controls Noot/Nut drift.
-- Nute's source indictment includes a new **“murder of the First Lady”** allegation. It is retained as target-125 evidence without retroactively rewriting earlier statements that Lady Roxana died of illness, because the source does not reconcile the accounts.
-- Vikir's reading of Hugo's purge as political consolidation remains Vikir's analysis rather than narrator-certified motive.
-- No target-126 Academy-admission content is imported backward.
+- Verified mapping: **126→E125, 127→E126, 128→E127, 129→E128**.
+- Colosseo is retained as the broad elite academy balancing scholarship and combat, contrasted with the Magic Tower and Varangian.
+- Normalize broad divisions to **Cold Department / Hot Department**.
+- Cold practical ranking: **Tudor Donquixote / Bianca Fo Usher** tied first, then **Highbro / Middlebro / Lowbro Le Baskerville**, then **Sancho Barataria**.
+- **Sinclaire** is first in Hot Department practical assessment and second in written theory.
+- The cohort is called the **Glorious Generation** because many elite heirs/talents entered together.
+- Vikir places first in the comprehensive written/theory exam but receives little attention because Colosseo heavily favors practical results.
+- Vikir temporarily omits **Van Baskerville** and enrolls publicly as the commoner **Vikir** to preserve operational freedom.
+- Cindywendy's Seth-contact intelligence gives Vikir a basis for hunting remaining demonic infiltrators/collaborators in the Imperial Capital.
+- **Dolores L. Quovadis** is third-year top student, student council president, and newspaper-club head; Vikir avoids her because she previously met only his masked Night Hound identity.
+- **Pigi** is source-introduced as Vikir's roommate. Later Pigi bloodline / Corpse spoilers remain excluded.
+- Vikir skips orientation deliberately because outsider status helps him move unnoticed.
+- Target 129 distinguishes Ron Bartison's already-committed demon-pact crime from the military betrayal Vikir remembers from the previous timeline.
+- Demon-pact clues remain rotten soul odor + rapid facial decay; no specific remaining Corpse is identified without evidence.
+- Vikir's use of strong rum to clean his cloak becomes the scent clue that confirms to Bianca that someone escaped her rooftop pursuit.
+- No target-130 talent-show material is imported backward.
 
 ## Next verified title family
 
-- **Targets 126–129 — Admission to the Academy (1)–(4)**
-- Verified mapping: **126→E125, 127→E126, 128→E127, 129→E128**
-- Target 130 begins **The Freshman Talent Show (1)** and aligns to **E129**.
+- **Targets 130–132 — The Freshman Talent Show (1)–(3)**
+- Verified mapping: **130→E129, 131→E130, 132→E131**
+- Target 133 begins **Test Your Skills (1)** and aligns to **E132**.
+- **Test Your Skills** is separately verified through target 138 (six parts); target 139 begins *Men are Power (1)*.
 
 ## Source authority
 
@@ -60,4 +62,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Hunt for the Second Son, targets 120–125** checkpoint, then branch from merged main for **Admission to the Academy, targets 126–129**. Read C126–129 against E125–128 completely with C130/E129 as the boundary, reconstruct and QA the four-chapter family, then continue into **The Freshman Talent Show**.
+Merge the clean **Admission to the Academy, targets 126–129** checkpoint, then branch from merged main for **The Freshman Talent Show, targets 130–132**. Read C130–132 against E129–131 completely with C133/E132 as the boundary, reconstruct and QA the three-chapter family, then continue into **Test Your Skills**.

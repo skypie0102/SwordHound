@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 125,
+  "accepted_chapters": 129,
   "staged_chapters": 0,
-  "next_chapter": 126,
+  "next_chapter": 130,
   "latest_accepted_family": {
-    "name": "The Hunt for the Second Son",
-    "range": [
-      120,
-      125
-    ],
-    "family_qa": "qa/families/hunt-second-son-0120-0125.md"
-  },
-  "next_title_family": {
     "name": "Admission to the Academy",
     "range": [
       126,
       129
     ],
-    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 130,
-    "following_title": "The Freshman Talent Show (1)",
-    "alignment_note": "126→E125,127→E126,128→E127,129→E128;130→E129"
+    "family_qa": "qa/families/admission-academy-0126-0129.md"
+  },
+  "next_title_family": {
+    "name": "The Freshman Talent Show",
+    "range": [
+      130,
+      132
+    ],
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 133,
+    "following_title": "Test Your Skills (1)",
+    "alignment_note": "130→E129,131→E130,132→E131;133→E132"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -187,15 +187,19 @@
     122,
     123,
     124,
-    125
+    125,
+    126,
+    127,
+    128,
+    129
   ],
   "notes": [
-    "Chapters 120-125 are accepted as The Hunt for the Second Son (1)-(6).",
-    "Andromalius is source-revealed only in target121 as the Tenth Corpse, Danger Level S+; target120 remains name-spoiler guarded.",
-    "Vikir's Peak Sword Graduator strength, Seventh Fang, Beelzebub spiritual damage, poisoned blood, Anubis, and Baskerville's seven-order mobilization are source-controlled.",
-    "Hugo performs the final destruction of Andromalius after the severed head attempts to reach the river.",
-    "Target125 preserves public compensation/punishment aftermath and the new First-Lady murder charge against Nute as an unresolved later allegation, not a retroactive rewrite of earlier illness statements.",
-    "Next family targets126-129 — Admission to the Academy (1)-(4), mapped 126→E125 through 129→E128. Target130 begins The Freshman Talent Show (1) and maps to E129.",
+    "Chapters 126-129 are accepted as Admission to the Academy (1)-(4).",
+    "Colosseo's departments are normalized to Cold Department / Hot Department; rankings and the Glorious Generation cohort follow the Chinese source.",
+    "Vikir enters under a commoner cover with his Baskerville surname omitted and deliberately emphasizes theory over practical performance.",
+    "Pigi is source-introduced as Vikir's roommate; later Pigi bloodline/Corpse spoilers remain excluded.",
+    "Target129 preserves the first Imperial-Capital blacklist patrol and Bianca's rooftop rum-scent clue, then stops before the talent show.",
+    "Next family targets130-132 — The Freshman Talent Show (1)-(3), mapped 130→E129 through 132→E131. Target133 begins Test Your Skills (1) and maps to E132.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
