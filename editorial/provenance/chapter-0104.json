@@ -1,0 +1,76 @@
+{
+  "chapter": 104,
+  "title": "Nostalgia (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/104.txt",
+    "blob_sha": "5adbd7b928a79f6c21075270a6f4f7b06713bdd2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-103.xhtml",
+    "blob_sha": "4d0c6cf4b03837358ade68d5fd4bbbcca7cb7084",
+    "target_alignment": 104,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/105.txt",
+    "chinese_sha": "6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab",
+    "english_path": "source/chapters/chapter-104.xhtml",
+    "english_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
+    "purpose": "both begin The Returned Hero (1) target105"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0104.md",
+    "blob_sha": "fbb319a494db39e3f63d2cb7c3c40a0bd21a3774"
+  },
+  "qa": {
+    "path": "qa/chapter-0104.md",
+    "blob_sha": "fbb9209b282352289d5f32501f671a78fa5aae4b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "timeskip",
+      "final": "two months; Bakira has five pups and Madam egg remains inert",
+      "basis": "Chinese target104"
+    },
+    {
+      "topic": "family",
+      "final": "Akwilla explicitly affirms Vikir as permanent Ballak family",
+      "basis": "Chinese target104"
+    },
+    {
+      "topic": "anubis",
+      "final": "Aiyen restores Adonai black bow with Madam web string; source names completed weapon Anubis",
+      "basis": "Chinese target104"
+    },
+    {
+      "topic": "ages",
+      "final": "Vikir seventeen / Aiyen nineteen; farewell kiss kept brief/nonsexual",
+      "basis": "Chinese target104"
+    },
+    {
+      "topic": "phrase",
+      "final": "Aiyen says See you again in Imperial, significant because Ballak lacks that farewell phrase",
+      "basis": "Chinese target104"
+    },
+    {
+      "topic": "boundary",
+      "final": "ends before target105 Returned Hero statue sequence",
+      "basis": "family boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
