@@ -2,35 +2,36 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 94  
+**Accepted:** 100  
 **Staged:** 0  
-**Next chapter:** 95
+**Next chapter:** 101
 
 ## Current accepted checkpoint
 
-Twenty-six complete title families have passed the restarted workflow, through:
+Twenty-seven complete title families have passed the restarted workflow, through:
 
-- Chapters 85–89 — *The Illiad (1)–(5)*
 - Chapters 90–94 — *The Ghosts of the Ancestors (1)–(5)*
+- Chapters 95–100 — *Madam Eight-Legs (1)–(6)*
 
-Latest family QA: `qa/families/ghosts-ancestors-0090-0094.md` — **PASS**.
+Latest family QA: `qa/families/madam-eight-legs-0095-0100.md` — **PASS**.
 
-## The Ghosts of the Ancestors family decisions
+## Madam Eight-Legs family decisions
 
-- Verified mapping: **90→E89 through 94→E93**.
-- Target 90: the old female Oxbear completes Ah'Heman's Illiad defeat; Ah'Heman abandons Ballak identity and returns to Rokoko forbidden necromancy.
-- Target 91: ancestral **Death Knights** rise from the **Tomb of the Brave**; endpoint source-reveals **Divine Archer Adonai**.
-- Target 92: Adonai is master/Bow Master class. His black bow is made from old **Madam Eight-Legs** material and carries her poison.
-- Vikir remains **High Sword Graduator**; his liquid aura cannot match Adonai's master-level solid aura.
-- Target 93: Akwilla's apparent misses deliberately ride Adonai's storm and return from behind; she defeats the reanimated Adonai but does not claim superiority over his living prime.
-- Target 94: Vikir releases salt-heavy floodwater to purify the Death Knights; Adonai's bow survives; Ah'Heman dies through the **Thorn-Tree Punishment** he devised.
-- Target 94 ends before the Madam Eight-Legs village-attack aftermath.
+- Verified mapping: **95→E94 through 100→E99**.
+- Target 95: Ah'Heman's delayed lure directly triggers Madam's attack; Baskerville monster suppression remains the broader ecological cause.
+- Target 96: Bakira's right hind leg is catastrophically poisoned/injured; Vikir leaves after an uncertain survival promise to Aiyen.
+- Target 97: **Bog Salamander** = A+ / 9 m / 8th Ridge / ‘Infinite-Regeneration Salamander’; **Bone-Sucking Mosquito** = individual D / swarm S / 3 mm / 9th Ridge.
+- Target 98: Vikir climbs Madam's nest, mourns Ballak dead, and declares war.
+- Target 99: **Madam Eight-Legs** = S / size unknown / 10th Ridge / ‘Madam of the Flood’ / species unknown; severed legs regenerate as two.
+- Target 100 opening Beelzebub state: Incinerate — Cerberus (A+) / Silent Heel — Mushuhushu (A+) / **Super High-Speed Regeneration — Bog Salamander (A+)**. Kilogram Hammer is displaced.
+- Target 100 final Beelzebub state: **Venom — Madam Eight-Legs (S)** / Silent Heel — Mushuhushu (A+) / Super High-Speed Regeneration — Bog Salamander (A+). Cerberus/Incinerate is displaced.
+- Family ends with Aiyen/Bakira finding Vikir alive after Madam's death.
 
 ## Next verified title family
 
-- **Target Chapters 95–100 — Madam Eight-Legs (1)–(6)**
-- Verified mapping: **95→E94, 96→E95, 97→E96, 98→E97, 99→E98, 100→E99**.
-- Target Chapter 101 begins **Nostalgia (1)** and aligns to **E100**.
+- **Target Chapters 101–104 — Nostalgia (1)–(4)**
+- Verified mapping: **101→E100, 102→E101, 103→E102, 104→E103**.
+- Target Chapter 105 begins **The Returned Hero (1)** and aligns to **E104**.
 
 ## Source authority
 
@@ -53,4 +54,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Ghosts of the Ancestors (1)–(5), targets 90–94** checkpoint, then branch from merged main for **Madam Eight-Legs, targets 95–100**. Read C95–100 + E94–99 completely with C101/E100 as the boundary, reconstruct and QA all six chapters, then continue directly into **Nostalgia**.
+Merge the clean **Madam Eight-Legs (1)–(6), targets 95–100** checkpoint, then branch from merged main for **Nostalgia, targets 101–104**. Read C101–104 + E100–103 completely with C105/E104 as the boundary, reconstruct and QA the full family, then continue directly into **The Returned Hero**.
