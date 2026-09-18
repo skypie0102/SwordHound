@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Mixed Bath (1)–(3) accepted
+
+**Current state:** 205 / 500 accepted; 0 staged; next Chapter 206.
+
+Completed targets 203–205 with mapping **203→E201 through 205→E203**.
+
+Key decisions: Snake Morgue remains human in current intelligence; Vikir identifies his sword ceiling as the cause of the Corpse Queen failure; Dolores disciplines the returning Pigi bullies; blessed bathwater restores Vikir; Sixth Fang requires discarding the four core emotions while Seventh Fang requires recovering them; Vikir realizes Baskerville emotion-erasure training may cap Sword Master growth; the bath comedy remains non-explicit; Dolores feels Choco is familiar, confides her burdens, and admits interest in the Night Hound without identifying Vikir.
+
+Family QA: `qa/families/mixed-bath-0203-0205.md` — **PASS**.
+
+Next verified family: **206–215 — Festival Night (1)–(10)**. Target **216** begins *My Neck Will Be Your Sheath (1)*.
+
 ## 2026-09-19 — The Corpse Queen (1)–(5) accepted
 
 **Current state:** 202 / 500 accepted; 0 staged; next Chapter 203.
