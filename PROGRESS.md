@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Illiad (1)–(5) accepted
+
+**Current state:** 89 / 500 accepted; 0 staged; next Chapter 90.
+
+Completed targets 85–89 with verified shifted mapping **85→E84 through 89→E88**.
+
+Key decisions:
+- added **Silent Heel — Mushuhushu (A+)** and updated Beelzebub's active slots to Incinerate / Silent Heel / Kilogram Hammer;
+- retained the accepted Mushuhushu alias **‘Nation-Swallowing Snake’** despite target-85 descriptive alias drift;
+- kept Ka'ah's exceptional ~40 m / >5-ton measurements while rejecting the raw's internally impossible “more than twice normal” ratio;
+- source-confirmed Ah'Heman's deliberate Leviathan collaboration, Bourgeois assistance, and infection of Aheul;
+- documented Vikir's target-87 letters as forged evidence rather than authentic proof;
+- established the **Illiad** as Ballak's life-and-death honor duel;
+- preserved Ah'Heman's youthful sexual abuse only as non-graphic abuse history;
+- kept Aiyen's brief kiss with Vikir nonsexual;
+- corrected target 89 to the Chinese spider and inner-thigh shot;
+- source-revealed Ah'Heman's original tribe as **Rokoko**;
+- stopped target 89 before the old female Oxbear actually strikes.
+
+Family QA: `qa/families/illiad-0085-0089.md` — **PASS**.
+
+Next family: **The Ghosts of the Ancestors (1)–(5), targets 90–94**, mapped **90→E89 through 94→E93**. Target 95 begins **Madam Eight-Legs (1)** and maps to E94.
+
 ## 2026-09-18 — Lovesickness (1)–(2) accepted
 
 **Current state:** 84 / 500 accepted; 0 staged; next Chapter 85.

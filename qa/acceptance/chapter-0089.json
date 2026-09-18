@@ -1,0 +1,46 @@
+{
+  "chapter": 89,
+  "title": "The Illiad (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/089.txt",
+    "primary_source_sha": "83256d7003be5bc4fa12c35f1abf1db63c226c1f",
+    "english_reference_path": "source/chapters/chapter-088.xhtml",
+    "english_reference_sha": "0ca10d5e3a3f4d91fdd882bdcf3545dab3bb2ce5",
+    "draft_path": "manuscript/drafts/chapter-0089.md",
+    "draft_sha": "0db461b8a6c965c98ebd9b889d9141aed87c1197",
+    "qa_path": "qa/chapter-0089.md",
+    "qa_sha": "5a58ccaa8872d8025a6960a8cb1fbddd67627241",
+    "provenance_path": "editorial/provenance/chapter-0089.json",
+    "provenance_sha": "502841085dd6e3c6b05a4a2398b2a11f1e06e537"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Ah'Heman",
+    "Aiyen",
+    "Beelzebub",
+    "High Sword Graduator",
+    "Sixth Fang",
+    "Silent Heel",
+    "Incinerate",
+    "Rokoko",
+    "Oxbear"
+  ],
+  "documented_limits": [
+    "Target89 maps to E88.",
+    "Chinese spider and inner-thigh shot override recovered-English corruption.",
+    "Target89 ends before the Oxbear strike; target90 starts the next family."
+  ]
+}

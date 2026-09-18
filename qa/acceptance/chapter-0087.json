@@ -1,0 +1,42 @@
+{
+  "chapter": 87,
+  "title": "The Illiad (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/087.txt",
+    "primary_source_sha": "f954b592f541c39249d6785ae49baff72188738a",
+    "english_reference_path": "source/chapters/chapter-086.xhtml",
+    "english_reference_sha": "0be4b81f87e557beb424577368c333587d5cb9ed",
+    "draft_path": "manuscript/drafts/chapter-0087.md",
+    "draft_sha": "138db9e61ef2258db5e09e593cda31e6a54c3e29",
+    "qa_path": "qa/chapter-0087.md",
+    "qa_sha": "05a1720e186ad896d0e62e4072c64dde31303af9",
+    "provenance_path": "editorial/provenance/chapter-0087.json",
+    "provenance_sha": "bf07461d1ec4b5bfac2c19cffc31583d78a098d8"
+  },
+  "canonical_checks": [
+    "Ah'Heman",
+    "Akwilla",
+    "Ahun",
+    "Leviathan Clan",
+    "Chihuahua Baskerville",
+    "Illiad"
+  ],
+  "documented_limits": [
+    "Target87 maps to E86.",
+    "The letters are forged evidence, not authentic correspondence.",
+    "Real Ah'Heman-Leviathan collusion is independently established by target86."
+  ]
+}

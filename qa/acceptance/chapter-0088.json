@@ -1,0 +1,45 @@
+{
+  "chapter": 88,
+  "title": "The Illiad (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/088.txt",
+    "primary_source_sha": "05598847096890576bceb941900bcf04561d90ff",
+    "english_reference_path": "source/chapters/chapter-087.xhtml",
+    "english_reference_sha": "153af50c407697afc6c2677b3c301bce111a3bd3",
+    "draft_path": "manuscript/drafts/chapter-0088.md",
+    "draft_sha": "d1817f2819b0c5b43ae97c2867064eb2dc20cec0",
+    "qa_path": "qa/chapter-0088.md",
+    "qa_sha": "85ba279de307fa80731d85c16d2cd06db5abb2ea",
+    "provenance_path": "editorial/provenance/chapter-0088.json",
+    "provenance_sha": "0d6dbb063202de8326f49db87566f042885b6f38"
+  },
+  "canonical_checks": [
+    "Illiad",
+    "Akwilla",
+    "Aiyen",
+    "Ah'Heman",
+    "Ahun",
+    "Ballak Tribe",
+    "Vikir",
+    "Bakira",
+    "Beelzebub"
+  ],
+  "documented_limits": [
+    "Target88 maps to E87.",
+    "Ah'Heman's youthful sexual abuse is preserved non-graphically as abuse.",
+    "Aiyen's brief kiss with seventeen-year-old Vikir remains nonsexual romantic affection."
+  ]
+}

@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 84,
+  "accepted_chapters": 89,
   "staged_chapters": 0,
-  "next_chapter": 85,
+  "next_chapter": 90,
   "latest_accepted_family": {
-    "name": "Lovesickness",
-    "range": [
-      83,
-      84
-    ],
-    "family_qa": "qa/families/lovesickness-0083-0084.md"
-  },
-  "next_title_family": {
     "name": "The Illiad",
     "range": [
       85,
       89
     ],
-    "boundary_status": "verified from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 90,
-    "following_title": "The Ghosts of the Ancestors (1)",
-    "alignment_note": "85→E84, 86→E85, 87→E86, 88→E87, 89→E88; target90→E89"
+    "family_qa": "qa/families/illiad-0085-0089.md"
+  },
+  "next_title_family": {
+    "name": "The Ghosts of the Ancestors",
+    "range": [
+      90,
+      94
+    ],
+    "boundary_status": "verified five-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 95,
+    "following_title": "Madam Eight-Legs (1)",
+    "alignment_note": "90→E89,91→E90,92→E91,93→E92,94→E93;95→E94"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -146,17 +146,23 @@
     81,
     82,
     83,
-    84
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
   ],
   "notes": [
-    "Chapters 83-84 are accepted as Lovesickness (1)-(2).",
-    "Recovered-English lag remains stable: target83→E82 and target84→E83.",
-    "Target83 preserves Aiyen's dream recap, source-level coercive history, nonsexual sickbed nudity, and Akwilla's conception anecdote without erotic embellishment.",
-    "Target84 uses about 30 Ballak patients and thousands across other tribes; recovered-English tens-of-thousands inflation is rejected.",
-    "Saintess's Tears cures Aheul and purifies the shared river source, suppressing Red Death across gathered tribes.",
-    "Aiyen's final blush survives holy water and completes the Lovesickness title payoff.",
-    "Next family is targets85-89 — The Illiad (1)-(5), mapped 85→E84 through 89→E88. Target90 begins The Ghosts of the Ancestors (1) and maps to E89.",
-    "Chinese raws control narrative/semantic content wherever present; canonical English names/terms use Fandom/project register where confidently identified.",
+    "Chapters 85-89 are accepted as The Illiad (1)-(5).",
+    "Recovered-English lag remains stable: target85→E84 through target89→E88.",
+    "Target85 adds Silent Heel—Mushuhushu(A+) to Beelzebub and displaces Tough Life; active slots are Incinerate, Silent Heel, Kilogram Hammer.",
+    "Target85 keeps accepted Nation-Swallowing Snake alias while treating whole-body-intestine wording as descriptive variant; Ka'ah is an exceptional ~40m >5t individual.",
+    "Target86 explicitly confirms Ah'Heman knowingly collaborated with Leviathan, aided Bourgeois exploitation, and deliberately infected Aheul.",
+    "Target87 letters are forged by Vikir using handwriting imitation learned from Chihuahua; underlying collusion is independently real from target86.",
+    "Target88 establishes the Illiad as Ballak's life-and-death honor duel; Ah'Heman's youthful abuse history is kept non-graphic; Aiyen's brief kiss with Vikir is nonsexual.",
+    "Target89 Chinese spider/inner-thigh details override recovered-English corruption; corpse reanimation reveals Ah'Heman's Rokoko origin.",
+    "Next family is targets90-94 — The Ghosts of the Ancestors (1)-(5), mapped 90→E89 through 94→E93. Target95 begins Madam Eight-Legs (1) and maps to E94.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

@@ -1,0 +1,44 @@
+{
+  "chapter": 85,
+  "title": "The Illiad (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/085.txt",
+    "primary_source_sha": "a6689c93a2c3810a0a22526f649c060fef1a6407",
+    "english_reference_path": "source/chapters/chapter-084.xhtml",
+    "english_reference_sha": "1a33d19bdc16b0b80a945744015bc8414e506ce7",
+    "draft_path": "manuscript/drafts/chapter-0085.md",
+    "draft_sha": "72a3f957a6085cd29de42a8abac523e16af097e9",
+    "qa_path": "qa/chapter-0085.md",
+    "qa_sha": "45cc38620f7d5e442e6a9dcbf83dc6fdc6267034",
+    "provenance_path": "editorial/provenance/chapter-0085.json",
+    "provenance_sha": "784278239bb794a8b2d8e40e8a5e457bbccb7052"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Mushuhushu",
+    "Ka'ah",
+    "Beelzebub",
+    "Silent Heel",
+    "Incinerate",
+    "Kilogram Hammer",
+    "Sixth Fang"
+  ],
+  "documented_limits": [
+    "Target85 maps to E84.",
+    "Accepted Nation-Swallowing Snake alias remains stable despite target85 descriptive alias drift.",
+    "Silent Heel replaces Tough Life in Beelzebub's active slots."
+  ]
+}
