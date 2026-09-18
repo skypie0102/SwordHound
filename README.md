@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **71 / 500 accepted; next Chapter 72.** Latest accepted family: **targets 68–71 — Blood Relatives (1)–(4)**.
+Current checkpoint: **74 / 500 accepted; next Chapter 75.** Latest accepted family: **targets 72–74 — The Red Death (1)–(3)**.
 
-Recovered-English numbering remains one chapter behind: **68→E67, 69→E68, 70→E69, 71→E70**. The next family is **The Red Death, targets 72–74**, mapped **72→E71 through 74→E73**. Target 75 begins **The Hound of the Night (1)** and the Chinese `075.txt` container covers targets 75–76.
+Recovered-English numbering remains one chapter behind: **72→E71, 73→E72, 74→E73**. The next family is **The Hound of the Night, targets 75–77**, mapped **75→E74, 76→E75, 77→E76**. Target 78 begins **The Saintess (1)**.
 
 ## Current source policy
 
@@ -21,7 +21,7 @@ Recovered-English numbering remains one chapter behind: **68→E67, 69→E68, 70
 - `HANDOFF.md` — exact operational continuation point for the next session/agent.
 - `editorial/chapter-tracker.json`, `editorial/reconstruction-status.json`, `PROJECT_STATE.md`, and `PROGRESS.md` — accepted-state records and project history.
 
-The Chinese corpus contains **492 physical files covering 499 of 500 target chapters**. Chapter **55** is the only confirmed missing Chinese raw. Seven physical files contain two target chapters each and remain intact; English output must still be split into separate target chapters.
+The Chinese corpus contains **492 physical files with at least partial Chinese coverage for all 500 targets**. Targets **49 and 55** contain documented localized gaps. Combined/overlapping physical containers remain intact where no safe source-level seam exists; reconstructed English output is still split into separate target chapters.
 
 ## Critical workflow rules
 
@@ -38,31 +38,30 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Blood Relatives family adds/revalidates:
+The accepted Red Death family adds/revalidates:
 
-- **High Sword Graduator** — Vikir's formal target-68 rank after the two-year time skip.
-- **Sixth Fang** — mastered in target 68; never `Sixth Teeth` or `Sixth Form`.
-- **Peak Sword Graduator** — Vikir's pre-regression ceiling and current all-out combat estimate, not his formal target-68 rank.
-- **Leviathan Clan** — canonical family/clan form for the serpent-emblem poison house; only this identity is source-revealed in target 69.
-- **Red Death** — source-recognized epidemic in target 70.
-- **Pomeranian La Baskerville** — canonical child name; about five years old at reveal.
-- **Penelope La Baskerville** — canonical Hugo/Roxana daughter and Pomeranian's mother.
-- **Lady Roxana** — canonical Hugo first-wife / Penelope mother form.
-- **John Barrymore** — old Baskerville butler; `Deacon Barrymore` remains rejected.
-- **The Red Death** — next family spans targets 72–74; recovered-English witnesses are E71–E73.
-- **The Hound of the Night** begins at target 75; physical `075.txt` is combined targets 75–76.
+- **Red Death** — fictional in-world plague; source-level transmission/prevention details are narrative mechanics, not real-world medical guidance.
+- **Mushuhushu** — target-73 giant serpent. **Danger Rating A+ / 32 m / Le Rouge et Le Noir Mountain, 8th Ridge / ‘Nation-Swallowing Snake’**.
+- **Ka'ah** — local old Mushuhushu individual known to Ballak; escapes target 73 wounded.
+- **High Sword Graduator / six Fangs** — reaffirmed in the Mushuhushu fight; `Superior Gradient` / `Teeth` rejected.
+- **Aheul** — fourteen in target 74; illness material remains strictly medical/nonsexual.
+- **Ah'Heman** — grandfather of Ahun/Aheul; target-74 insult refers to their **parents**, not the MTL's `mother-in-law`.
+- Ballak outsider-exit rule: >2 years residence plus a native family bond including at least three children; retained as source-level tribal law without sexualization.
+- **The Hound of the Night** — next family spans targets 75–77.
+- Physical `075.txt` combines targets 75–76 but lacks a safe internal source seam; do not invent a raw split.
+- **The Saintess** begins target 78 / E77.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–71**:
+Current accepted production evidence covers targets **1–74**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0071.md`
-- `qa/chapter-0001.md` through `chapter-0071.md`
-- accepted family QA through `qa/families/blood-relatives-0068-0071.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0071.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0071.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0074.md`
+- `qa/chapter-0001.md` through `chapter-0074.md`
+- accepted family QA through `qa/families/red-death-0072-0074.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0074.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0074.json`
 
-Latest family QA: `qa/families/blood-relatives-0068-0071.md` — **PASS**.
+Latest family QA: `qa/families/red-death-0072-0074.md` — **PASS**.
 
 ## Editorial quality bar
 
