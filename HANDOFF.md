@@ -5,48 +5,48 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Adorable Pet acceptance checkpoint
-- **Working branch:** `editorial/restart-adorable-pet-0170-0171`
-- **Base main checkpoint:** `0590aadf4a7f7ac669b01f4dc2660f8354393c25` (Sin and Punishment checkpoint merged)
-- **Current PR:** #50 — `Rebuild Adorable Pet Chapters 170–171`
+- **Updated by:** ChatGPT — Anti-Columnist acceptance checkpoint
+- **Working branch:** `editorial/restart-anti-columnist-0172-0175`
+- **Base main checkpoint:** `2e537e905a20af83767073e6f2dc85b80c2d282b` (Adorable Pet checkpoint merged)
+- **Current PR:** not yet opened
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **171 / 500**
+- **Accepted:** **175 / 500**
 - **Staged:** **0**
-- **Next:** **172**
-- **Latest family:** targets **170–171 — Adorable Pet (1)–(2)**
-- **Family QA:** `qa/families/adorable-pet-0170-0171.md` — PASS — `ceecddccb1283aa1182b1a5f2e88acfffaf15727`
-- **Next family:** targets **172–175 — The Anti-Columnist (1)–(4)**
-- **Following family:** target **176 — The 99 Hits With 100 Shots (1)**
+- **Next:** **176**
+- **Latest family:** targets **172–175 — The Anti-Columnist (1)–(4)**
+- **Family QA:** `qa/families/anti-columnist-0172-0175.md` — PASS — `dfc148fb2e8dde04577e41a680c38423e1a006c1`
+- **Next family:** targets **176–178 — The 99 Hits With 100 Shots (1)–(3)**
+- **Following family:** target **179 — Midterm Random Defense (1)**
 
 ## Key decisions
 
-- C170 has two localized Chinese omissions registered in `source/chinese/chapter-exceptions.tsv`; restore only those spans from E168.
-- **Picaresque Mask** = four black coverings combined.
-- **Kin-Slaying +0** / **Human Face, Beast Heart — Off/On** are its displayed attributes.
-- Dog transformation is intent-controlled.
-- Vikir mourns **Peri** and resolves to intensify demon hunting.
-- **Madam Eight-Legs's egg** hatches into **Baby Madam**.
-- Repeated Madam Eight-Legs source-scope window remains **Danger Rating S / Le Rouge et Le Noir Mountain, 10th Ridge / Madam of the Flood**.
-- Baby Madam's silk is adhesive, elastic, heat-resistant, and exceptionally strong.
-- Extraordinary spider hatchlings develop through increasingly varied/strong poison; maternal venom is initially too strong.
-- Sinclaire remains female; recovered-English gender drift is rejected.
+- C172 repeats the C171-end Pigi/newspaper block after its correct opening; omit only that duplicate. It is registered in `chapter-exceptions.tsv`.
+- Vikir deliberately writes anti–Night Hound propaganda to reduce suspicion.
+- Dolores's rejected counter-column is an evidence-based argument, not omniscient proof.
+- Banshee source-reveals Quovadis reporting guidance to center Night Hound terrorism and minimize faction terms.
+- Pressure above Humbert is source-established; Dolores's aging-Pope manipulation theory remains speculation.
+- **Professor Banshee Morgue** remains strict, evidence-conscious, politically constrained, and protective of students.
+- **Granola de Leviathan** is the canonical name.
+- **Baby Madam** consumes Granola's weak paralytic mist.
+- C174–175 raw title-word drift remains inside **The Anti-Columnist (3)–(4)**.
+- Dolores's Night Hound feelings are her one-sided POV; Vikir remains unaware/unreciprocating at this point.
+- Dolores admits reducing one three-point demerit to one because Vikir is her club junior.
+- The “genealogy” packet is a written-exam study guide.
 
-## Next family — The Anti-Columnist 172–175
+## Next family — The 99 Hits With 100 Shots 176–178
 
-- 172 → E170
-- 173 → E171
-- 174 → E172
-- 175 → E173
-- C174–175 use a variant Chinese title word but remain parts 3–4 by numbering/content.
-- Boundary 176 → E174 begins **The 99 Hits With 100 Shots (1)**.
+- 176 → E174
+- 177 → E175
+- 178 → E176
+- boundary 179 → E177 begins **Midterm Random Defense (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Adorable Pet checkpoint PR.
-2. Fresh branch from merged main for **The Anti-Columnist 172–175**.
-3. Read C172–175 against E170–173 completely.
-4. Use C176/E174 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept the four-chapter family, then continue.
+1. Open/validate/merge the Anti-Columnist checkpoint PR.
+2. Fresh branch from merged main for **The 99 Hits With 100 Shots 176–178**.
+3. Read C176–178 against E174–176 completely.
+4. Use C179/E177 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept all three chapters, then continue.
