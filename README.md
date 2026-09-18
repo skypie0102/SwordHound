@@ -53,8 +53,6 @@ The accepted Admission to the Academy family adds/revalidates:
 - **Ten Corpses** — canonical collective name for the ten Demon Kings and their human vessels.
 - **Anubis** — legendary black bow formerly wielded by Adonai.
 - **Nute Baskerville** — canonical spelling for Seth's mother.
-- **Admission to the Academy** — next family targets 126–129; witnesses E125–E128.
-- **The Freshman Talent Show** begins target 130 / E129.
 - **Boston Terrier Le Baskerville / Pit Bull Knights** — Count and commander; 100-Graduator extermination-specialist order.
 - **Great Dane Le Baskerville / Mastiff Knights** — Count and commander; 100-Graduator formal-war-specialist order.
 - **Seven Counts** — major Baskerville military/political bloc; all seven sought to attend Vikir's banquet.
