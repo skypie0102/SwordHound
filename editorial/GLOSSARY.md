@@ -604,3 +604,15 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Not Brother, But Uncle** — next verified family targets 150–151; witnesses E149–E150.
 - **The Drinking Game** — begins target 152 / E151.
 
+## Not Brother, But Uncle additions — Chapters 150–151
+
+- **Not Brother, But Uncle** — accepted production family title for targets 150–151; shifted witnesses E149–E150.
+- **Peri** — target 150 explicitly reveals age **thirteen**. Preserve prior approximate visual estimate as an impression, not a contradictory hard profile.
+- **Big Brother → Uncle** — Peri writes “Big Brother, thank you”; Vikir insists on “Uncle.” Core family-title joke.
+- **Vikir / parents** — functional worldview shaped by Baskerville and the Age of Destruction; character perspective only.
+- **Sinclaire background guard** — target 150 only supports Vikir's speculation about Cindywendy's rumored royal freshman. Do not import later Bourgeois identity.
+- **Indulgentia night curfew** — surveillance-heavy lockdown, especially around children's residential blocks.
+- **Tudor's midnight meetup** — boys/girls social drinking-game gathering used by Vikir as cover for the Night Hound operation.
+- **The Drinking Game** — next verified family targets 152–154; witnesses E151–E153.
+- **How to Keep Your Night Shift Employees Safe** — begins target 155 / E154.
+
