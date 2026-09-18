@@ -1,0 +1,42 @@
+{
+  "chapter": 76,
+  "title": "The Hound of the Night (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "hybrid_e75_missing_opening_plus_combined_c075_body",
+  "title_family": {
+    "name": "The Hound of the Night",
+    "range": [
+      75,
+      77
+    ],
+    "family_qa_path": "qa/families/hound-night-0075-0077.md",
+    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/075.txt",
+    "primary_source_sha": "e65af08f559f82f470687cc42c1d1420e1e55e15",
+    "english_reference_path": "source/chapters/chapter-075.xhtml",
+    "english_reference_sha": "68c385dab862c292c4fbf2cc571beb1b6483e9c0",
+    "draft_path": "manuscript/drafts/chapter-0076.md",
+    "draft_sha": "d25cee273318020cce6b9c999cfdab91447c2795",
+    "qa_path": "qa/chapter-0076.md",
+    "qa_sha": "966144f8bf892fd4e43f450507af2474ab19faa3",
+    "provenance_path": "editorial/provenance/chapter-0076.json",
+    "provenance_sha": "9e927e350e2297b0249b70ce18c5cf14b77a39f6"
+  },
+  "canonical_checks": [
+    "Saint Mecca",
+    "Dolores L. Quovadis",
+    "Quovadis",
+    "Leviathan Clan",
+    "Boston Terrier Le Baskerville",
+    "Red Death"
+  ],
+  "documented_limits": [
+    "Target76 uses E75 only for the missing opening/context and C075 for surviving body.",
+    "Deliberate well contamination is retained only as fictional narrative wrongdoing, without added biological instructions.",
+    "Dolores target78 age/profile is chronology-blocked."
+  ]
+}

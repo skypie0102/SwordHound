@@ -9,6 +9,18 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Hound of the Night additions — Chapters 75–77
+
+- **The Hound of the Night** — normalized production family title for targets 75–77 and Vikir's masked alias.
+- **075.txt combined-source rule** — targets 75–76 share physical `075.txt`; there is no internal Chapter-76 heading and no safe raw split. Reconstruct outputs separately by content.
+- **Saint Mecca** — Quovadis central city in this arc.
+- **Dolores L. Quovadis** — accepted spelling. Do not import target-78 profile details before source reveal.
+- **Mozgus Quovadis** — accepted spelling; inquisitor/source-revealed target 77. Current combat estimate between Mid and High Sword Graduator.
+- **Kilogram Hammer — Oxbear (A)** — reaffirmed at ~600 kg temporary body weight.
+- **Incinerate — Cerberus (A+)** — reaffirmed against Mozgus.
+- **The Saintess** — next family targets 78–82; witnesses E77–E81.
+- **Lovesickness** — begins target 83 / E82.
+
 ## The Red Death additions — Chapters 72–74
 
 - **The Red Death** — normalized production family title for targets 72–74.

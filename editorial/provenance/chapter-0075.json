@@ -1,0 +1,94 @@
+{
+  "chapter": 75,
+  "title": "The Hound of the Night (1)",
+  "source_policy": "chinese_semantic_scoped_combined_raw_restoration_2026-09-18",
+  "title_family": {
+    "name": "The Hound of the Night",
+    "range": [
+      75,
+      77
+    ],
+    "family_qa_path": "qa/families/hound-night-0075-0077.md",
+    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/075.txt",
+    "blob_sha": "e65af08f559f82f470687cc42c1d1420e1e55e15",
+    "authority": "semantic_narrative_primary_combined_container",
+    "source_mode": "hybrid_combined_c075_plus_e74_missing_close"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-074.xhtml",
+    "blob_sha": "1bc968f310582423381420fc7e09e84aa4cf7e72",
+    "target_alignment": 75,
+    "authority": "secondary_reference_with_scoped_gap_restoration"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/078.txt",
+    "chinese_sha": "155a238a81adfdc32ce7b97d9e28e05f4133c395",
+    "english_path": "source/chapters/chapter-077.xhtml",
+    "english_sha": "64c564988053d5a39bde90c0f81685055f2bf13f",
+    "purpose": "both begin The Saintess (1) target78"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Saint Mecca",
+        "Quovadis",
+        "Hound of the Night",
+        "Akwilla",
+        "Night Fox",
+        "Pomeranian La Baskerville",
+        "Chihuahua Baskerville",
+        "Underdog City",
+        "Cindywendy",
+        "Messinadnaro",
+        "Judy",
+        "Bourgeois Clan",
+        "Ballak Tribe"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0075.md",
+    "blob_sha": "d5f09a9758fe8fc1b98a70bee19b586ffe1043a8"
+  },
+  "qa": {
+    "path": "qa/chapter-0075.md",
+    "blob_sha": "c1a6ed52d6982d2a3d0dd53bfa9580458ee2093b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "combined_raw",
+      "final": "physical C075 contains targets75-76 with no internal target76 marker; do not physically split",
+      "basis": "direct source audit"
+    },
+    {
+      "topic": "target75_scope",
+      "final": "Chinese controls Saint Mecca gate/oil-drum entry through Underdog return; E74 supplies only missing closing transition toward Quovadis healing",
+      "basis": "C075/E74 alignment"
+    },
+    {
+      "topic": "travel_time",
+      "final": "use four days because itemized route is 2+1+1 days and E74 says four; isolated Chinese 'two days and one night' is internally inconsistent",
+      "basis": "Chinese arithmetic + aligned E74"
+    },
+    {
+      "topic": "pomeranian",
+      "final": "Pomeranian entrusted to Chihuahua for treatment/protection/education; blood relation clarified without accepting father misunderstanding",
+      "basis": "Chinese target75 body"
+    },
+    {
+      "topic": "trade_plan",
+      "final": "retain Cindywendy/Judy and proposed monopoly on jungle trade",
+      "basis": "Chinese target75 body"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

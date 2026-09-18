@@ -1,0 +1,43 @@
+{
+  "chapter": 77,
+  "title": "The Hound of the Night (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hound of the Night",
+    "range": [
+      75,
+      77
+    ],
+    "family_qa_path": "qa/families/hound-night-0075-0077.md",
+    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/077.txt",
+    "primary_source_sha": "8800f5f079d10442f23e0d46f2674fcb3d8282ba",
+    "english_reference_path": "source/chapters/chapter-076.xhtml",
+    "english_reference_sha": "47f1a314662aacaf5d0117a6fd461d15258c8b14",
+    "draft_path": "manuscript/drafts/chapter-0077.md",
+    "draft_sha": "e1e686eb4c3ad3279809cda2f260ba5105d49a99",
+    "qa_path": "qa/chapter-0077.md",
+    "qa_sha": "8a0eb293de2412bc54fe3073cfb64a5876e1344a",
+    "provenance_path": "editorial/provenance/chapter-0077.json",
+    "provenance_sha": "5a613b08198da8c4c60e0158d97bdd128ae37afa"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Mozgus Quovadis",
+    "High Sword Graduator",
+    "Kilogram Hammer",
+    "Incinerate",
+    "Cerberus",
+    "Sixth Fang"
+  ],
+  "documented_limits": [
+    "Target77 maps to E76.",
+    "Mozgus current rank is estimated between Mid and High Sword Graduator; later twin/Old Order spoilers excluded.",
+    "Target78 begins The Saintess (1)."
+  ]
+}

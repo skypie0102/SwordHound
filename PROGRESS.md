@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Hound of the Night (1)–(3) accepted
+
+**Current state:** 77 / 500 accepted; 0 staged; next Chapter 78.
+
+Completed targets 75–77 with mapping **75→E74, 76→E75, 77→E76**.
+
+Key decisions:
+- audited combined `075.txt` and confirmed it cannot be physically split safely;
+- reconstructed target 75 from the surviving Chinese body plus only E74's missing close;
+- reconstructed target 76 from only E75's missing opening/context plus the surviving Chinese body;
+- normalized the internally contradictory travel duration to four days from the explicit 2+1+1 itinerary;
+- preserved Pomeranian's Underdog handoff, Chihuahua loyalty, and Cindywendy/Judy trade plan;
+- retained target-76 well contamination only as fictional narrative wrongdoing without adding biological instructions;
+- preserved Vikir's effort to warn children away and trigger immediate Quovadis response;
+- source-revealed **Mozgus Quovadis** in target 77;
+- retained Mozgus at current Mid-to-High Sword Graduator-equivalent strength;
+- preserved Vikir's Kilogram Hammer, six Fangs, and Incinerate—Cerberus attack sequence;
+- ended exactly on Dolores's personal appearance.
+
+Family QA: `qa/families/hound-night-0075-0077.md` — **PASS**.
+
+Next family: **The Saintess (1)–(5), targets 78–82**, mapped **78→E77 through 82→E81**. Target 83 begins **Lovesickness (1)** and maps to E82.
+
 ## 2026-09-18 — The Red Death (1)–(3) accepted
 
 **Current state:** 74 / 500 accepted; 0 staged; next Chapter 75.
