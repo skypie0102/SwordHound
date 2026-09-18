@@ -586,3 +586,21 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Volunteering for the Golden Week** — next verified family targets 144–149; witnesses E143–E148.
 - **Not Brother, But Uncle** — begins target 150 / E149.
 
+## Volunteering for the Golden Week additions — Chapters 144–149
+
+- **Volunteering for the Golden Week** — accepted production family title for targets 144–149; shifted witnesses E143–E148.
+- **Old Testament Faction / New Testament Faction** — production names for the Quovadis doctrinal/political split.
+- **Humbert L. Quovadis** — Old Testament leader and Dolores's father in this scope.
+- **Martin Luther** — cardinal leading the New Testament Faction.
+- **John Tetzel** — former Old Testament cardinal cited in target 146's indulgence doctrine. Do not invent the unstable trailing surname from the extracted raw.
+- **Quilt Rune Indulgentia** — Indulgentia head/orphanage director and Vikir's target. Later demon name/title remains spoiler-guarded through target 149.
+- **Target-146 idiom guard** — `十次中有九次` = “nine times out of ten”; not a Ninth Corpse reveal.
+- **Ephebo / Pedo / Hebe / Geronto** — four masked escorts source-revealed around Quilt.
+- **Geronto** — female mage, at least approximately fifth-circle power; carries an ominous reverse-gripped black sword hilt/relic.
+- **Peri** — production/Fandom-canonical name for the guarded blond orphan girl; reject recovered-English “Nymphet” in production prose.
+- **Sinclaire at Indulgentia** — explicitly seventeen; deliberately requests Vikir's volunteer location. Pigi understands the social implication; Vikir comedically suspects conspiracy.
+- **Madam Eight-Legs egg** — retained from Ballak/Le Rouge et Le Noir continuity; behaves like an unusually durable ball around the children without narrator-confirmed sentience.
+- **Indulgence ledger** — criminal confessions/payments intercepted from Quilt's communications; politically valuable but not equivalent to Night Hound demon-target evidence.
+- **Not Brother, But Uncle** — next verified family targets 150–151; witnesses E149–E150.
+- **The Drinking Game** — begins target 152 / E151.
+
