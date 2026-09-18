@@ -1,0 +1,66 @@
+{
+  "chapter": 208,
+  "title": "Festival Night (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/208.txt",
+    "blob_sha": "a48bb07a4dba1bdda3290e562d4510ac35cd2792",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-206.xhtml",
+    "blob_sha": "cb2fc51562ec992ec79b69758539fd9bd61e231b",
+    "target_alignment": 208,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0208.md",
+    "blob_sha": "a17e8a4f59bc1ea8830807e9eb06eaeff9705923"
+  },
+  "qa": {
+    "path": "qa/chapter-0208.md",
+    "blob_sha": "8bc2ea55e71535a3372e75fad1e1168721a0f344",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "camus_raw_repair",
+      "final": "C208 isolated 马尔甘 restored to Camus Morgue from verbatim C46 potato/cooking/Academy dialogue",
+      "basis": "C208 + source C46"
+    },
+    {
+      "topic": "identity_guard",
+      "final": "Camus memory does not identify current Corpse Queen",
+      "basis": "Reveal chronology; C216 first explicit equation"
+    },
+    {
+      "topic": "emotion",
+      "final": "Vikir realizes he still has emotional room to care about others",
+      "basis": "Chinese C208"
+    },
+    {
+      "topic": "survival_cooking",
+      "final": "Battlefield cooking skills derive from Age-of-Destruction scarcity",
+      "basis": "Chinese C208"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}
