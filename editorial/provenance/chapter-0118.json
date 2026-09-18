@@ -1,0 +1,71 @@
+{
+  "chapter": 118,
+  "title": "Falling in Love (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "family_qa_path": "qa/families/falling-in-love-0117-0119.md",
+    "family_qa_sha": "e71b0d5349ebf4b718efe2c29ecc2a260257e773",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/118.txt",
+    "blob_sha": "b4230bbe8d49f3ab87ce0240e54189f74712d98c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-117.xhtml",
+    "blob_sha": "b183d0b0356beabe4356e97edcfdfeb80471f13d",
+    "target_alignment": 118,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0118.md",
+    "blob_sha": "8d90bea9114c99a3534bbbed3cde169945ebcc43"
+  },
+  "qa": {
+    "path": "qa/chapter-0118.md",
+    "blob_sha": "6eea83754da5b3b192e98bc012d30df069c37a86",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "lineage_normalization",
+      "final": "Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville",
+      "basis": "project canonical continuity overriding raw Lucina/Freya drift"
+    },
+    {
+      "topic": "roxana_death",
+      "final": "Roxana dies of illness shortly after Penelope's birth",
+      "basis": "Chinese C118; consistent with accepted C111"
+    },
+    {
+      "topic": "hugo_frontier_origin",
+      "final": "Penelope's abduction drives Hugo's frontier move, political marriages, military expansion, and the modern Ironblood Sword House",
+      "basis": "Chinese C118"
+    },
+    {
+      "topic": "pendant",
+      "final": "Hugo recognizes his handmade pendant from the Rokoko village as the one passed from Roxana to Penelope",
+      "basis": "Chinese C118"
+    },
+    {
+      "topic": "granddaughter_reveal",
+      "final": "Vikir reveals Penelope had a daughter and tells Hugo directly that he has a granddaughter",
+      "basis": "Chinese C118"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/120.txt",
+    "chinese_sha": "db6dff1ae09b891c3cde68de404f060a71d697b2",
+    "english_path": "source/chapters/chapter-119.xhtml",
+    "english_sha": "c281f25b7cdd12fa76dee622ac88dd7145c6f545",
+    "purpose": "both begin The Hunt for the Second Son (1), target120"
+  }
+}
