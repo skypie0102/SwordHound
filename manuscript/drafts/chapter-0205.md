@@ -30,6 +30,12 @@ A hero whose name—
 
 spread across the continent.
 
+Even beside the classical Saintesses remembered across the continent—
+
+figures such as Joan of Arc and Saint Teresa—
+
+Dolores's future reputation stood above them.
+
 In the bloodiest years of the war—
 
 her authority among humanity—
