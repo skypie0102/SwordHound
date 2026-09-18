@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Aftermath (1)–(4) accepted
+
+**Current state:** 189 / 500 accepted; 0 staged; next Chapter 190.
+
+Completed targets 186–189 with mapping **186→E184 through 189→E187**.
+
+Key decisions: Sadi's Key-B absence yields a **42:13** rescue delay; Academy publicity promotes Vikir's heroism; his public rank remains **Sword Expert Advanced** despite isolated C186 rank drift; Killer Ant research is formalized; Cindywendy reports the next Ten Corpses lead, two Night Hound copycats, and Osiris heading for the capital; Sinclaire's hidden-royal speculation remains unresolved; Sadi is established as Vikir's Attack examiner; abuse/trauma claims remain attributed rumor; Vikir rejects café work and plans monster hunting for tuition; and Dolores correctly recognizes the Varangian incident as copycat work.
+
+Family QA: `qa/families/aftermath-0186-0189.md` — **PASS**.
+
+Next verified family: **190–196 — Attack Land (1)–(7)**. Target **197** begins *Preparing for the Festival (1)*.
+
 ## 2026-09-18 — Midterm Random Defense (1)–(7) accepted
 
 **Current state:** 185 / 500 accepted; 0 staged; next Chapter 186.
