@@ -616,3 +616,18 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **The Drinking Game** — next verified family targets 152–154; witnesses E151–E153.
 - **How to Keep Your Night Shift Employees Safe** — begins target 155 / E154.
 
+## The Drinking Game additions — Chapters 152–154
+
+- **The Drinking Game** — accepted production family title for targets 152–154; shifted witnesses E151–E153.
+- **Yut** — production game name; retain Do/Gae/Geol/Yut/Mo and capture/reset mechanics.
+- **Target-152 register guard** — Chinese `暧昧游戏` = flirting game / romantic-tension game; reject recovered-English vulgar escalation.
+- **Dolores Go rank** — amateur fifth dan in this scope.
+- **Vikir Go rank** — self-estimated around second dan from obsolete wartime-era comparisons; present formal rank uncertain and likely understated.
+- **Atari** — standard Go term for Chinese `阿达里`.
+- **Speed Go** — Chinese `快棋`; never “Shogi.”
+- **Manpae bulcheong** — Korean Go term represented by Chinese `万霸不听`; decisive-ko state where ko threats can be ignored/refused. Reject recovered-English “All clear.”
+- **Mad-dog Go style** — Vikir's destroy-first style reflecting Age-of-Destruction battlefield values.
+- **Bedwetter Queen** — naturalized feared nickname from Chinese `尿布大王` in Dolores's target-154 panic; reject recovered-English “Pisser.”
+- **How to Keep Your Night Shift Employees Safe** — next verified family targets 155–157; witnesses E154–E156.
+- **Familiar Face** — begins target 158 / E157.
+
