@@ -1,0 +1,41 @@
+{
+  "chapter": 92,
+  "title": "The Ghosts of the Ancestors (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Ghosts of the Ancestors",
+    "range": [
+      90,
+      94
+    ],
+    "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
+    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/092.txt",
+    "primary_source_sha": "a880ba08795a97b8343f5b49640e2a46b9b8a9ec",
+    "english_reference_path": "source/chapters/chapter-091.xhtml",
+    "english_reference_sha": "98931f3b4140b17b93bba780fb12e99480487f20",
+    "draft_path": "manuscript/drafts/chapter-0092.md",
+    "draft_sha": "1886d92bea88028644ed52ea7af5834e454e66e0",
+    "qa_path": "qa/chapter-0092.md",
+    "qa_sha": "b04fe3f97e3cfcfad4f8bb459f0efb349b7c7594",
+    "provenance_path": "editorial/provenance/chapter-0092.json",
+    "provenance_sha": "2225798c08883ebd16b742596300d93cf2d28118"
+  },
+  "canonical_checks": [
+    "Divine Archer Adonai",
+    "High Sword Graduator",
+    "Madam Eight-Legs",
+    "Kilogram Hammer",
+    "Sixth Fang",
+    "Akwilla"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-95 Madam Eight-Legs aftermath is imported backward."
+  ]
+}
