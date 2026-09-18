@@ -1,0 +1,91 @@
+{
+  "chapter": 86,
+  "title": "The Illiad (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/086.txt",
+    "blob_sha": "6be93c9b02e7bbe160e0db039580024f1fa1811a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-085.xhtml",
+    "blob_sha": "138252313315fc22e277fd2be6c2d5e414178d56",
+    "target_alignment": 86,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/090.txt",
+    "chinese_sha": "2128d128f66c3208b3d8bacdd37bb7d9c6684773",
+    "english_path": "source/chapters/chapter-089.xhtml",
+    "english_sha": "6cb2efd35be359cd0d25a1de23daf2a2561ef383",
+    "purpose": "both begin The Ghosts of the Ancestors (1) target90"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Ah'Heman",
+        "Ballak Tribe",
+        "Leviathan Clan",
+        "Bourgeois Clan",
+        "Red Death",
+        "Aiyen",
+        "Aheul",
+        "Akwilla",
+        "Night Fox",
+        "Vikir",
+        "Quovadis"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0086.md",
+    "blob_sha": "558079cb63beaac1a921d2f39280f5936546a8ad"
+  },
+  "qa": {
+    "path": "qa/chapter-0086.md",
+    "blob_sha": "fde4f12b78f728dc6d44a9343126e8a28a30e6cb",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "collusion",
+      "final": "Ah'Heman knowingly collaborated with Leviathan and aided Bourgeois exploitation",
+      "basis": "Chinese target86"
+    },
+    {
+      "topic": "authority_method",
+      "final": "secret poisoning followed by cure used to manufacture shamanic authority",
+      "basis": "Chinese target86"
+    },
+    {
+      "topic": "red_death",
+      "final": "Ah'Heman deliberately contaminated river with Leviathan-supplied plague",
+      "basis": "Chinese target86"
+    },
+    {
+      "topic": "aheul",
+      "final": "Ah'Heman deliberately infected granddaughter Aheul to reduce suspicion",
+      "basis": "Chinese target86"
+    },
+    {
+      "topic": "quovadis",
+      "final": "Akwilla presents Quovadis declaration of holy war/investigation against Leviathan",
+      "basis": "Chinese target86"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
