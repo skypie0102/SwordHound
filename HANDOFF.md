@@ -5,56 +5,51 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-19
-- **Updated by:** ChatGPT — Mixed Bath acceptance checkpoint
-- **Working branch:** `editorial/restart-mixed-bath-0203-0205`
-- **Base main checkpoint:** `13e0a177efab61c06cd0e7f3125bfc4506e4d49a` (Corpse Queen checkpoint merged)
-- **Current PR:** #58 — `Rebuild Mixed Bath Chapters 203–205`
+- **Updated by:** ChatGPT — Festival Night acceptance checkpoint
+- **Working branch:** `editorial/restart-festival-night-0206-0215`
+- **Base main checkpoint:** `b07eb37f00b3f4763967a1772dd3671955b16f99` (Mixed Bath checkpoint merged)
+- **Current PR:** not yet opened
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **205 / 500**
+- **Accepted:** **215 / 500**
 - **Staged:** **0**
-- **Next:** **206**
-- **Latest family:** targets **203–205 — Mixed Bath (1)–(3)**
-- **Family QA:** `qa/families/mixed-bath-0203-0205.md` — PASS — `10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a`
-- **Next family:** targets **206–215 — Festival Night (1)–(10)**
-- **Following family:** target **216 — My Neck Will Be Your Sheath (1)**
+- **Next:** **216**
+- **Latest family:** targets **206–215 — Festival Night (1)–(10)**
+- **Family QA:** `qa/families/festival-night-0206-0215.md` — PASS — `f877d22b2f3b27aeb105b22aae2bf6a3f03d150c`
+- **Next family:** targets **216–219 — My Neck Will Be Your Sheath (1)–(4)**
+- **Following family:** targets **220–224 — That Day, Him and Me (1)–(5)**
+- **After that:** target **225 — Tuition (1)**
 
 ## Key decisions
 
-- Snake Morgue remains human; Seere contract remains future-history.
-- Vikir identifies his sword ceiling as the cause of the failed Corpse Queen assassination.
-- Six returning second-years are the Pigi bullies; minor names stay source/witness transliterations.
-- Dolores disciplines them under the principle: gentle toward the weak, firm toward the strong.
-- Her serial-killer / animal-abuse statement remains character dialogue.
-- Blessed bathwater heals Vikir and shows post-Dantalian Iron Saintess growth.
-- Sixth Fang requires discarding joy/anger/sorrow/pleasure.
-- Seventh Fang requires recovering those emotions.
-- Vikir recognizes Baskerville emotion-erasure training as potentially limiting Sword Master progression.
-- Bath scene remains non-explicit awkward comedy; source explicitly denies lust.
-- Choco feels familiar to Dolores, but she does not identify him.
-- Dolores's man of interest is the Night Hound; Vikir remains oblivious.
-- Dolores plans to write the Pope about Saintess awakening and soul resonance.
+- C208 Camus Morgue repair is a memory-continuity repair only; do not identify the Corpse Queen before target 216.
+- Vikir's surviving emotional capacity continues the Sword Master progression thread.
+- Osiris/Pomeranian arrival and Messinadnaro restitution remain accepted Baskerville continuity.
+- Ring of Divine Inviolability / Finit hic Deus locked.
+- Corpse Queen / Seere control body in half-day shifts; midnight hands control to Seere.
+- Seere found Rosie; the Queen's true sought person remains unnamed through 215.
+- Dolores's “Soulmate” remains contextual dialogue tied to soul resonance.
+- Hidden Ring space reflects Seth Le Baskerville's inner world.
+- Six-and-a-half Fang image = six complete Fangs plus half-formed Seventh.
+- Killing strike veers from mental/emotional movement.
+- Queen cannot voluntarily reveal face/name under contract.
+- C215 ends on childhood memory; C216 first explicitly names the Corpse Queen as **Camus Morgue**.
 
-## Next family — Festival Night 206–215
+## Next family — My Neck Will Be Your Sheath 216–219
 
-- 206 → E204
-- 207 → E205
-- 208 → E206
-- 209 → E207
-- 210 → E208
-- 211 → E209
-- 212 → E210
-- 213 → E211
-- 214 → E212
-- 215 → E213
-- boundary 216 → E214 begins **My Neck Will Be Your Sheath (1)**.
+- 216 → E214
+- 217 → E215
+- 218 → E216
+- 219 → E217
+- C219 title wording drifts, but remains part 4.
+- boundary 220 → E218 begins **That Day, Him and Me (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Mixed Bath checkpoint PR.
-2. Fresh branch from merged main for **Festival Night 206–215**.
-3. Read C206–215 against E204–213 completely.
-4. Use C216/E214 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all ten chapters, then continue.
+1. Open/validate/merge the Festival Night checkpoint PR.
+2. Fresh branch from merged main for **My Neck Will Be Your Sheath 216–219**.
+3. Read C216–219 against E214–217 completely.
+4. Use C220/E218 as next boundary.
+5. Reconstruct/QA/provenance-bind/accept all four chapters, then continue.
