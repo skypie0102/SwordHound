@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 185,
+  "accepted_chapters": 189,
   "staged_chapters": 0,
-  "next_chapter": 186,
+  "next_chapter": 190,
   "latest_accepted_family": {
-    "name": "Midterm Random Defense",
-    "range": [
-      179,
-      185
-    ],
-    "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
-  },
-  "next_title_family": {
     "name": "Aftermath",
     "range": [
       186,
       189
     ],
-    "boundary_status": "verified four-part family",
-    "following_family_starts": 190,
-    "following_title": "Attack Land (1)",
-    "alignment_note": "186→E184,187→E185,188→E186,189→E187;190→E188"
+    "family_qa": "qa/families/aftermath-0186-0189.md"
+  },
+  "next_title_family": {
+    "name": "Attack Land",
+    "range": [
+      190,
+      196
+    ],
+    "boundary_status": "verified seven-part family; Chinese title word order drifts from part3",
+    "following_family_starts": 197,
+    "following_title": "Preparing for the Festival (1)",
+    "alignment_note": "190→E188,191→E189,192→E190,193→E191,194→E192,195→E193,196→E194;197→E195"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -247,21 +247,24 @@
     182,
     183,
     184,
-    185
+    185,
+    186,
+    187,
+    188,
+    189
   ],
   "notes": [
-    "Chapters 179-185 are accepted as Midterm Random Defense (1)-(7).",
-    "Defense/Attack/written midterm weights are 50/40/10; Defense uses four-person HP-suit survival scoring against hologram-covered clay golems with real diluted poison.",
-    "Group69 (Vikir + Highbro/Middlebro/Lowbro) scores 2,253; Group108 (Tudor/Sancho/Pigi/Bianca) scores 2,269.",
-    "Baby Madam's poison-fed molt strengthens her life signal and causes the arena to continue into Phase2.",
-    "Professor Banshee Morgue holds barrier Key A; Professor Sadi holds Key B and is absent.",
-    "Dolores is prepared to destroy the magic stone to save the trapped first-years.",
-    "Vikir enters through a remembered northwest barrier flaw using Picaresque dog form.",
-    "Worker Ant = Danger C/1m; Soldier Ant = Danger B+/5m.",
-    "Vikir keeps the rescue at Expert-level output and does not expose Graduator aura; C185 rank drift is normalized accordingly.",
-    "Pigi's childhood reveal stops at biological-father rejection, mother escape, loving stepfather, and family sacrifice for Colosseo.",
-    "Vikir closes at HP100 / Kill968 / Assist5321 after pushing the swarm backward.",
-    "Next family targets186-189 — Aftermath (1)-(4), mapped 186→E184 through 189→E187. Target190→E188 begins Attack Land (1).",
+    "Chapters 186-189 are accepted as Aftermath (1)-(4).",
+    "Professor Sadi is found drunk with barrier Key B; rescue delay was 42:13; Academy publicity redirects attention toward Vikir's heroism.",
+    "Vikir's public combat level remains Sword Expert Advanced; C186's isolated Sword Master phrase is rejected as rank drift under E184 and the accepted no-Graduator rescue constraint.",
+    "Vikir's Killer Ant free research formalizes Worker bio-compass and Soldier skull weaknesses and yields a reported practical score of 9,889.",
+    "Cindywendy reports one-month analysis on the next Ten Corpses lead, two Night Hound imitators, and Osiris Le Baskerville heading toward the Imperial Capital.",
+    "Central Clocktower / Royal Martyrs' Cemetery / Varangian copycat attacks remain separate from Vikir.",
+    "Sinclaire's hidden-royal speculation and later disappearance remain unresolved mysteries.",
+    "Attack test is professor-controlled humanoid golem combat; Professor Sadi is Vikir's assigned examiner.",
+    "Sadi abuse/trauma claims remain attributed reputation and rumor; alleged motive remains uncertain.",
+    "Vikir rejects cafe work and plans monster hunting to cover tuition while avoiding Cindywendy money trails.",
+    "Next family targets190-196 — Attack Land (1)-(7), mapped 190→E188 through 196→E194. Target197→E195 begins Preparing for the Festival (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
