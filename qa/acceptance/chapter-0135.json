@@ -1,0 +1,42 @@
+{
+  "chapter": 135,
+  "title": "Test Your Skills (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/135.txt",
+    "primary_source_sha": "4fcabd494217aacd467852b46e2f2a0bc6d46250",
+    "english_reference_path": "source/chapters/chapter-134.xhtml",
+    "english_reference_sha": "0ccf0e0e93ed974e9fc1b1b1647982bc951e7770",
+    "draft_path": "manuscript/drafts/chapter-0135.md",
+    "draft_sha": "9f9795b8f89bcbf1aee346b07df2c1e56c4d6b64",
+    "qa_path": "qa/chapter-0135.md",
+    "qa_sha": "b5a3b739658f24375a88ed533055f94a871bf671",
+    "provenance_path": "editorial/provenance/chapter-0135.json",
+    "provenance_sha": "06abb3413ff7651e6ef3923d4baa0f665a238510"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Sinclaire",
+    "Tudor Donquixote",
+    "Bianca Fo Usher",
+    "Naphtali",
+    "Cold Department",
+    "Hot Department"
+  ],
+  "documented_limits": [
+    "Vikir's perfect score is written/theory, not handwriting.",
+    "Naphtali family material begins here and target135 ends at first Tudor collision."
+  ]
+}
