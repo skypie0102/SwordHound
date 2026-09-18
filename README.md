@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **138 / 500 accepted; next Chapter 139.** Latest accepted family: **targets 133–138 — Test Your Skills (1)–(6)**.
+Current checkpoint: **140 / 500 accepted; next Chapter 141.** Latest accepted family: **targets 139–140 — Men are Power (1)–(2)**.
 
-The next verified family is **Men are Power, targets 139–140**, mapped **139→E138, 140→E139**. Target 141 begins **Identity of the Villain (1)** and maps to E140.
+The next verified family is **Identity of the Villain, targets 141–143**, mapped **141→E140, 142→E141, 143→E142**. Target 144 begins **Volunteering for the Golden Week (1)** and maps to E143.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Men are Power family adds/revalidates:
+
+- **Men are Power** — accepted production family title for targets 139–140; witnesses E138–E139.
+- **Venomphion second abdominal stinger** — target-139 source reveal through Banshee's specimen test.
+- **Bianca Fo Usher** — explicit demonstrated-strength criterion retained.
+- **Doxeller** — local administrator/orphanage director tied to trafficking and demonic collaboration.
+- **Ephebo** — source-revealed in target 140; Upper/High Graduator-class subordinate, not a Ten Corpse.
+- **Seven Fangs / Seventh Fang** — Fang terminology retained; Seventh Fang remains incomplete.
+- **Dolores mask recovery** — target 140 ends with Dolores holding the half-burned Night Hound mask.
+- **Identity of the Villain** — next family targets 141–143; witnesses E140–E142.
+- **Volunteering for the Golden Week** begins target 144 / E143.
 
 The accepted Test Your Skills family adds/revalidates:
 
@@ -81,15 +93,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–138**:
+Current accepted production evidence covers targets **1–140**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0138.md`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0140.md`
 - `qa/chapter-0001.md` through `chapter-0138.md`
-- accepted family QA through `qa/families/test-your-skills-0133-0138.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0138.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0138.json`
+- accepted family QA through `qa/families/men-are-power-0139-0140.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0140.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0140.json`
 
-Latest family QA: `qa/families/test-your-skills-0133-0138.md` — **PASS**.
+Latest family QA: `qa/families/men-are-power-0139-0140.md` — **PASS**.
 
 ## Editorial quality bar
 
