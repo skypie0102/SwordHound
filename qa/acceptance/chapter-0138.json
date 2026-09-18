@@ -1,0 +1,42 @@
+{
+  "chapter": 138,
+  "title": "Test Your Skills (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/138.txt",
+    "primary_source_sha": "6c3c9c144ed48c23b470eac433ee48a6ea89f25c",
+    "english_reference_path": "source/chapters/chapter-137.xhtml",
+    "english_reference_sha": "158084369fc1fb1a8850fbeeaa56a23a2c2b6820",
+    "draft_path": "manuscript/drafts/chapter-0138.md",
+    "draft_sha": "fc2d439fc5c2a83b76640d055bc1f41e5a467f57",
+    "qa_path": "qa/chapter-0138.md",
+    "qa_sha": "271010c5ee4fdd38bf10ee18ef67fcf09f84b6d2",
+    "provenance_path": "editorial/provenance/chapter-0138.json",
+    "provenance_sha": "ca110af8d069f5f78029e428c414ab00bb9c841e"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Pigi",
+    "Sinclaire",
+    "Venomphion",
+    "Cold Department",
+    "Hot Department"
+  ],
+  "documented_limits": [
+    "Appearance gossip is retained without erotic expansion.",
+    "Second-stinger explanation is reserved for target139.",
+    "No Men are Power material is imported."
+  ]
+}
