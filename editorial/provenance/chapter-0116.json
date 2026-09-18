@@ -1,0 +1,71 @@
+{
+  "chapter": 116,
+  "title": "The Great Banquet (7)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/116.txt",
+    "blob_sha": "d93de9df26898aac338bd6317917cb6e4e1d86a7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-115.xhtml",
+    "blob_sha": "0cbdc3ceb45f0eb14d25663c462143e61f017a8d",
+    "target_alignment": 116,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0116.md",
+    "blob_sha": "0f00d5ae777b8868e436d7d87bb42c76d7ddf24e"
+  },
+  "qa": {
+    "path": "qa/chapter-0116.md",
+    "blob_sha": "d843a3ef565896f647e40c9241cad9404af80d68",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "fang_terminology",
+      "final": "Boston/Great Dane are Sixth-Fang-level Peak Sword Graduators; Vikir possesses the Seventh Fang",
+      "basis": "Chinese C116 + project Fang-not-Form rule"
+    },
+    {
+      "topic": "combat_estimate",
+      "final": "Vikir judges one Seven Count manageable and two difficult",
+      "basis": "Chinese C116"
+    },
+    {
+      "topic": "set_old_conspiracies",
+      "final": "source evidence links Seth's side to Bloody Mambas sent to infant Vikir and leaking Penelope's route to Rokoko",
+      "basis": "Chinese C116"
+    },
+    {
+      "topic": "mtl_proper_noun_rejection",
+      "final": "E115 'Yuasa Castle' is unsupported; rendered as Vikir's old childhood castle",
+      "basis": "Chinese C116"
+    },
+    {
+      "topic": "oath_boundary",
+      "final": "triplets' knight-oath posture closes family; explanation/dialogue belongs to C117",
+      "basis": "C116/C117 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/117.txt",
+    "chinese_sha": "bbc6cebf5d4b19c84a5c6890b0ac5c4c17e80e90",
+    "english_path": "source/chapters/chapter-116.xhtml",
+    "english_sha": "6f7468972698dfdb50cc6a57c3a9bbd2e3d05be9",
+    "purpose": "both begin Falling in Love (1), target117"
+  }
+}

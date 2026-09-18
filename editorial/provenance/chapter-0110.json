@@ -1,0 +1,54 @@
+{
+  "chapter": 110,
+  "title": "The Great Banquet (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/110.txt",
+    "blob_sha": "b02e3225fee0f4da4fa440e01751c5c6c2915a6c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-109.xhtml",
+    "blob_sha": "475816122100c441e23204e7b4d86b18b89a248b",
+    "target_alignment": 110,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0110.md",
+    "blob_sha": "adb6b4fe59c82caaed7d84b3aa0a73b90981f976"
+  },
+  "qa": {
+    "path": "qa/chapter-0110.md",
+    "blob_sha": "2196129fe9945ef873f4b18ec56f4959d6fa468d",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "hugo_age",
+      "final": "Sword Star/Marquis milestone occurs around age forty, about ten years before the present chapter",
+      "basis": "Chinese C110 overrides E109 age fifty"
+    },
+    {
+      "topic": "pomeranian_reaction",
+      "final": "Hugo's recognition-like reaction is preserved without confirming the relationship before source chronology does",
+      "basis": "Chinese C110"
+    },
+    {
+      "topic": "intruder_boundary",
+      "final": "chapter ends after unmasking the nighttime intruder but before naming Cindywendy",
+      "basis": "C110/C111 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

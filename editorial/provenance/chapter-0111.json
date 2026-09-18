@@ -1,0 +1,59 @@
+{
+  "chapter": 111,
+  "title": "The Great Banquet (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/111.txt",
+    "blob_sha": "0f10d0af79919d323e1db977f647f1dedbe968c2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-110.xhtml",
+    "blob_sha": "5725a13f0bc5eab35d7e35851ccb67fe7c62a9f3",
+    "target_alignment": 111,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0111.md",
+    "blob_sha": "78394d942861807dc2469707f5c095d590c1ef7b"
+  },
+  "qa": {
+    "path": "qa/chapter-0111.md",
+    "blob_sha": "55086c18bba2ba668fe4f6e1e482f7f0536a1bf7",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "roxana_death",
+      "final": "Lady Roxana died from illness",
+      "basis": "Chinese C111 overrides E110 battle claim"
+    },
+    {
+      "topic": "lineage_names",
+      "final": "Pomeranian/Roxana/Penelope normalized to accepted canonical forms",
+      "basis": "accepted project/Fandom forms"
+    },
+    {
+      "topic": "seven_counts",
+      "final": "Boston Terrier and Great Dane are the only two Seven Counts close enough to reach the banquet; all seven wished to attend because of Vikir",
+      "basis": "Chinese C111"
+    },
+    {
+      "topic": "triplet_names",
+      "final": "Highbro/Middlebro/Lowbro canonical spellings retained",
+      "basis": "accepted project/Fandom forms"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

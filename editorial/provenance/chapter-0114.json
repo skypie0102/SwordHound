@@ -1,0 +1,54 @@
+{
+  "chapter": 114,
+  "title": "The Great Banquet (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Great Banquet",
+    "range": [
+      110,
+      116
+    ],
+    "family_qa_path": "qa/families/great-banquet-0110-0116.md",
+    "family_qa_sha": "b5095b5b7e48520881a2425f778b44073fe70a85",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/114.txt",
+    "blob_sha": "1936c0da4f7c14434a37759a362f31895cb14af7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-113.xhtml",
+    "blob_sha": "ad036d95a5a0dfb7f55bbad39e2732221e58a254",
+    "target_alignment": 114,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0114.md",
+    "blob_sha": "1995c37b51d9d9316540527d8df9c13dac17369f"
+  },
+  "qa": {
+    "path": "qa/chapter-0114.md",
+    "blob_sha": "07d1b30b0897d6144d56fc244494239d01ffaf85",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "hidden_realm",
+      "final": "Vikir's hidden realm is Peak Sword Graduator while public display remains Intermediate",
+      "basis": "Chinese C114"
+    },
+    {
+      "topic": "osiris_reframe",
+      "final": "Osiris's coldness is re-read as clumsy warmth through Vikir's changed perspective",
+      "basis": "Chinese C114"
+    },
+    {
+      "topic": "set_reveal_limit",
+      "final": "chapter only establishes that Seth is suspected not to be human",
+      "basis": "Chinese C114; later external demon identity excluded"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
