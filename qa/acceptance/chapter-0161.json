@@ -1,0 +1,45 @@
+{
+  "chapter": 161,
+  "title": "Familiar Face (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/161.txt",
+    "primary_source_sha": "73a757520b40ef0438a9b3873511f190cd16588d",
+    "english_reference_path": "source/chapters/chapter-160.xhtml",
+    "english_reference_sha": "5c5e33eba33c4d9836193d6bbb29cca53770a817",
+    "draft_path": "manuscript/drafts/chapter-0161.md",
+    "draft_sha": "b5d67f3439f03aedbdfc35499afffcae0c819ca6",
+    "qa_path": "qa/chapter-0161.md",
+    "qa_sha": "022a581ee8322e8b4a1cb40b3d2b96590c44280e",
+    "provenance_path": "editorial/provenance/chapter-0161.json",
+    "provenance_sha": "f2cf54a5c1d6546d92323eb120325b260d935e66"
+  },
+  "canonical_checks": [
+    "Geronto",
+    "Camus Morgue",
+    "Morgue",
+    "Beelzebub",
+    "Ephebo",
+    "Hebe",
+    "Pedo",
+    "Quilt Rune Indulgentia"
+  ],
+  "documented_limits": [
+    "Geronto is explicitly not Camus Morgue.",
+    "Corpse examination is retained only for identity evidence.",
+    "Four-mask exact provenance remains withheld until later source timing."
+  ],
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+}
