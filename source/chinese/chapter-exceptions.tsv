@@ -1,5 +1,6 @@
 target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
-55		missing	55	Chinese raw genuinely missing; use English MTL Chapter 55 as the sole text source, then perform full editorial and QA passes.
+54	054.txt	combined_overlap	54	Physical 054.txt contains target Chapter 54 plus most of target 55; target-54 closing exchange is missing from Chinese and restored from aligned English 54.
+55	054.txt	partial_combined_overlap	55	No standalone 055.txt. Most target-55 body survives appended in 054.txt without a Chapter 55 heading; aligned English 55 supplies the missing target-55 opening/title boundary and remains secondary where Chinese overlap exists.
 75	075.txt	combined	74	Shared raw container for target Chapters 75-76; verified English title/content alignment: Hound Night (1).
 76	075.txt	combined	75	Shared raw container for target Chapters 75-76; verified English title/content alignment: Hound Night (2).
 267	267.txt	combined	265	Shared raw container for target Chapters 267-268; verified by title/content: Season's Redemption (4).

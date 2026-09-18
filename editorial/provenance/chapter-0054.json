@@ -9,25 +9,25 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
     "status": "pass"
   },
   "primary_source": {
     "path": "source/chinese/chapters/054.txt",
     "blob_sha": "4e16871bc046c162978c419dc585f526b37d2dc4",
-    "authority": "semantic_narrative_primary"
+    "authority": "semantic_narrative_primary_for_target54_portion_of_combined_overlap_container"
   },
   "english_reference": {
     "path": "source/chapters/chapter-054.xhtml",
     "blob_sha": "eb3146da8a6b112d89944b9142280e8282c375d2",
     "target_alignment": 54,
-    "alignment_status": "verified_by_tent_building_domestic_work_ballak_body_customs_hunt_offer_charcoal_rite_toilet_joke_wolf_riding_ahun_conflict_and_did_it_hurt_endpoint",
+    "alignment_status": "verified_by_tent_building_domestic_work_body_customs_hunt_offer_and_dawn_departure_endpoint",
     "authority": "secondary_reference_only"
   },
   "boundary_witness": {
     "path": "source/chapters/chapter-055.xhtml",
     "blob_sha": "b3d243ed6bdbd0268e0281d18589d0b4c308604e",
-    "purpose": "new The Hunter and the Hunted title family; Chinese 055.txt is missing and this is the verified fallback"
+    "purpose": "proves 054.txt appends target-55 body after corrected target-54 endpoint"
   },
   "canonical_references": [
     {
@@ -45,38 +45,33 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0054.md",
-    "blob_sha": "a7306b778094a10f7b0acd65bc3bde36e2e34018"
+    "blob_sha": "a73d3e3b1b8767cf932fd1a98963fbd0abe6aa69"
   },
   "qa": {
     "path": "qa/chapter-0054.md",
-    "blob_sha": "f8e99eac36bee4958beff7e4f956a12da8022fb8",
+    "blob_sha": "c4fb3c2ed5166507df32fffe3262458e03fe9580",
     "status": "pass"
   },
   "documented_decisions": [
     {
       "topic": "body_customs",
       "final": "sexual/body/reproductive-health customs retained factually and non-erotically",
-      "basis": "Chinese Chapter 54 social context"
-    },
-    {
-      "topic": "toilet_joke",
-      "final": "Aiyen's smile and later village reaction preserved without explicitly asserting her motive",
-      "basis": "Chinese Chapter 54 sequence"
+      "basis": "Chinese target-54 portion of 054.txt"
     },
     {
       "topic": "hunting_economy",
       "final": "~300 people and ~200 kg boar-equivalent meat daily with gathered-food supplementation",
-      "basis": "Chinese Chapter 54"
+      "basis": "Chinese target-54 portion of 054.txt"
     },
     {
-      "topic": "slave_punishment",
-      "final": "Aiyen personally punishes Vikir under ownership rules and warns Ahun not to interfere again",
-      "basis": "Chinese Chapter 54 explicit violence"
+      "topic": "boundary_correction",
+      "final": "target 54 ends at hunt offer / dawn-departure setup; ceremony and Ahun-punishment material belongs to target 55",
+      "basis": "E54/E55 overlap audit against physical 054.txt"
     },
     {
-      "topic": "boundary",
-      "final": "Chinese 055.txt missing; recovered English 55 starts The Hunter and the Hunted (1)",
-      "basis": "verified corpus exception and aligned English witness"
+      "topic": "localized_gap",
+      "final": "short E54-only closing exchange restored from aligned English 54",
+      "basis": "Chinese 054 splice omits target-54 closing lines before appended target-55 body"
     }
   ],
   "accepted": true,

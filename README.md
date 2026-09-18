@@ -6,9 +6,11 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
 
-Current checkpoint: **54 / 500 accepted; next Chapter 55.** Sixteen complete title families are accepted under the restarted workflow, through **Chapters 52–54 — Slaves of the Savage Tribe (1)–(3)**.
+Current checkpoint: **60 / 500 accepted; next Chapter 61.** The latest accepted family is **Chapters 55–60 — The Hunter and the Hunted (1)–(6)**.
 
-The next target family is **Chapters 55–60 — The Hunter and the Hunted**. Chinese Chapter 55 is missing, so recovered English 55 is the sole verified text fallback. Later recovered-English numbering shifts within this family, so alignment must be content-based.
+The 54/55 source exception has been corrected: physical `054.txt` overlaps targets 54 and 55. Target 55 is hybrid Chinese-overlap + E55 missing opening, not English-only.
+
+The next verified family is **target Chapters 61–63 — The Protagonist of Hunting**, with shifted recovered-English witnesses **61→E60, 62→E61, 63→E62**. Target 64 begins **Unfair Trade (1)** and aligns to E63.
 
 ## Current source policy
 
@@ -38,29 +40,31 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Slaves of the Savage Tribe family adds/revalidates:
+The accepted Hunter and Hunted family adds/revalidates:
 
-- **Akwilla** — source-revealed in Chapter 53 as Aiyen's mother, Ballak chieftain, and the current **Night Fox**. Earlier chapters remain chronology-scoped and are not retroactively rewritten.
-- **Thorn-Tree Punishment** — descriptive working term for the Chapter 52 Ballak execution; not promoted as a dedicated canonical proper noun.
-- **Tough Life** — Chapter 52 explicitly participates in Vikir's recovery after Madam Eight-Legs, alongside River Styx protection and Aiyen's noose rescue.
-- **Ballak slave/husband-hunt distinction** — Aiyen claims Vikir as a slave rather than husband; coercive spouse-capture and reproductive-role context stays source-faithful and non-erotic.
-- Ballak internal communal generosity and extreme hostility toward outsiders are both retained.
-- Chapter 54 body/reproductive-health customs and toilet humor are kept factual and non-erotic.
-- **The Hunter and the Hunted, target 55–60** is the next family; Chapter 55 uses the English fallback and later MTL numbering shifts.
+- **54/55 combined-overlap exception** — `054.txt` contains target 54 plus most target 55. Target 54 ends at the hunt-offer/dawn-departure setup; target 55 begins with the E55 Ballak-language opening and then converges with the Chinese overlap.
+- **Bakira** — Aiyen's wolf and hunting companion.
+- **Oxbear** — standard window remains **Danger Rating A / 5 m / Le Rouge et Le Noir Mountain, 7th Ridge**; the old female encountered in the wild is an exceptional ~8 m individual.
+- **Low Sword Graduator** — Aiyen's liquid aura in target 60; `Gradient` remains rejected.
+- **Beelzebub Slot 1: Incinerate — Cerberus (A+)** — reaffirmed in target 60.
+- **Cold Valley** — descriptive working rendering for the target-59 camp location; not promoted as a dedicated canonical proper noun absent stronger evidence.
+- Recovered-English mapping through this family is content-shifted: **55 hybrid C054/E55, 56→E56, 57 no clean standalone E chapter, 58→E57, 59→E58, 60→E59**.
+- Chinese target coverage is now 500/500 at least partially; Chapters **49 and 55** carry documented localized gaps.
+- Next family: **The Protagonist of Hunting, target 61–63**; mapping **61→E60, 62→E61, 63→E62**.
 
-Earlier accepted terminology includes **Aiyen**, **Ahun**, **Divine Archer Adonai**, **Madam Eight-Legs**, **Camus Morgue**, **Rosie Morgue**, **Tough Life**, **Infernal Buffalo ‘Murcielago’**, **Colosseo Academy**, and the established **Baskerville Fang Sword Style** rank/Fang system.
+Earlier accepted terminology includes **Akwilla / Night Fox**, **Aiyen**, **Ahun**, **Divine Archer Adonai**, **Madam Eight-Legs**, **Tough Life**, **Infernal Buffalo ‘Murcielago’**, **Colosseo Academy**, and the established Baskerville Fang/rank system.
 
 ## Accepted evidence
 
-Current accepted production evidence covers Chapters **1–54**:
+Current accepted production evidence covers targets **1–60**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0054.md`
-- `qa/chapter-0001.md` through `chapter-0054.md`
-- accepted family QA through `qa/families/slaves-savage-tribe-0052-0054.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0054.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0054.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0060.md`
+- `qa/chapter-0001.md` through `chapter-0060.md`
+- accepted family QA through `qa/families/hunter-hunted-0055-0060.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0060.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0060.json`
 
-Latest family QA: `qa/families/slaves-savage-tribe-0052-0054.md` — **PASS**.
+The corrected Chapter-54 family evidence is rebound after the 54/55 split audit. Latest family QA: `qa/families/hunter-hunted-0055-0060.md` — **PASS**.
 
 ## Editorial quality bar
 

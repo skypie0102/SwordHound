@@ -11,7 +11,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "5db18e9dafe786fcd810820e3dab372560f241fc",
+    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
     "status": "pass"
   },
   "evidence": {
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0053.md",
     "qa_sha": "12dca40cfa5c826c88bb8f8950966a45afea8867",
     "provenance_path": "editorial/provenance/chapter-0053.json",
-    "provenance_sha": "62cf5c38592ea415bf3bddc635441348305277cd"
+    "provenance_sha": "023e73bc5c5dad21c2129694ebc2c2be2bfb4245"
   },
   "canonical_checks": [
     "Aiyen",
@@ -40,6 +40,7 @@
   "documented_limits": [
     "Akwilla identity becomes valid only from this source reveal onward; earlier chapters remain spoiler-guarded.",
     "Reproductive-role material is preserved clinically/non-erotically.",
-    "No unsupported formal rank is assigned to Akwilla."
+    "No unsupported formal rank is assigned to Akwilla.",
+    "Target 55 is not English-only: most of its body overlaps inside physical 054.txt; E55 supplies the missing opening/title boundary."
   ]
 }

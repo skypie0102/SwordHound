@@ -1,0 +1,82 @@
+{
+  "chapter": 55,
+  "title": "The Hunter and the Hunted (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/054.txt",
+    "blob_sha": "4e16871bc046c162978c419dc585f526b37d2dc4",
+    "authority": "semantic_primary_for_overlapping_target55_body_in_combined_54_55_container"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-055.xhtml",
+    "blob_sha": "b3d243ed6bdbd0268e0281d18589d0b4c308604e",
+    "target_alignment": 55,
+    "alignment_status": "hybrid_verified_by_e55_opening_then_chinese054_hunting_rite_ahun_conflict_and_did_it_hurt_endpoint",
+    "authority": "boundary_and_missing_opening_primary; secondary_where_chinese_overlap_exists"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/061.txt",
+    "chinese_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "english_path": "source/chapters/chapter-060.xhtml",
+    "english_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "purpose": "both begin next-family harvest/plunder festival content"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "accepted project terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir Van Baskerville",
+        "Aiyen",
+        "Ahun",
+        "Akwilla",
+        "Ballak Tribe",
+        "Bakira",
+        "Oxbear",
+        "Le Rouge et Le Noir Mountain",
+        "Beelzebub",
+        "Incinerate",
+        "Cerberus"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0055.md",
+    "blob_sha": "e18c5c382ca2fab4bb721c5b33e552f752b986bd"
+  },
+  "qa": {
+    "path": "qa/chapter-0055.md",
+    "blob_sha": "2b86dbfce94de0f26e8b77c5960909e35d12eed9",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "source_mode",
+      "final": "hybrid overlap: E55 supplies missing opening/title; Chinese 054 controls overlapping body",
+      "basis": "direct E54/E55/C54 boundary audit"
+    },
+    {
+      "topic": "boundary",
+      "final": "target55 starts with Ballak martial/language introduction before hunting ceremony",
+      "basis": "E55 title/opening + C54 overlap"
+    },
+    {
+      "topic": "explicitness",
+      "final": "Ahun beating and Aiyen punishment retained; body/toilet material non-erotic",
+      "basis": "Chinese overlap"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

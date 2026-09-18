@@ -1,38 +1,36 @@
 # Chapter 54 QA — Slaves of the Savage Tribe (3)
 
-**Chapter-level status:** PASS  
-**Family acceptance:** contingent on `qa/families/slaves-savage-tribe-0052-0054.md`
+**Chapter-level status:** PASS — REBOUND AFTER 54/55 BOUNDARY AUDIT  
+**Family acceptance:** contingent on revised `qa/families/slaves-savage-tribe-0052-0054.md`
 
 ## Evidence
 
-- Primary Chinese: `source/chinese/chapters/054.txt` — `4e16871bc046c162978c419dc585f526b37d2dc4`
-- Recovered English reference: `source/chapters/chapter-054.xhtml` — `eb3146da8a6b112d89944b9142280e8282c375d2`
-- Draft: `manuscript/drafts/chapter-0054.md` — `a7306b778094a10f7b0acd65bc3bde36e2e34018`
-- Boundary witness: recovered English Chapter 55 — `b3d243ed6bdbd0268e0281d18589d0b4c308604e` — *The Hunter and the Hunted (1)*; Chinese 055.txt is missing.
+- Primary Chinese container: `source/chinese/chapters/054.txt` — `4e16871bc046c162978c419dc585f526b37d2dc4`
+- Recovered English Chapter 54: `source/chapters/chapter-054.xhtml` — `eb3146da8a6b112d89944b9142280e8282c375d2`
+- Corrected draft: `manuscript/drafts/chapter-0054.md` — `a73d3e3b1b8767cf932fd1a98963fbd0abe6aa69`
+- Recovered English Chapter 55: `source/chapters/chapter-055.xhtml` — `b3d243ed6bdbd0268e0281d18589d0b4c308604e`
 
-## Alignment
+## Boundary correction
 
-Target 54 → recovered English 54 is verified by the complete sequence: Vikir builds an advanced shelter → repairs Akwilla's tent/foundation and performs domestic work → Aiyen repeatedly hovers around him → Ballak bodily/custom discussion → Aiyen offers hunting as a path toward removing the collar/freedom → hunter gathering and charcoal rite → Vikir misunderstands toilet customs and is mocked → wolf-riding lesson → Ahun challenges Aiyen and kicks Vikir → Vikir pickpockets Ahun's quiver → Ahun beats him → Aiyen invokes slave-ownership rules and performs the punishment herself → she warns Ahun never to touch her slave privately again → quiet “Did it hurt?” endpoint.
+The original acceptance treated all of physical `054.txt` as target Chapter 54. A direct E54/E55 overlap audit proved that was wrong.
+
+- E54 ends after Aiyen offers hunting as a route toward freedom, Vikir agrees, and Aiyen says they will leave at dawn.
+- E55 begins a new *The Hunter and the Hunted (1)* unit with a Ballak-language/culture introduction, then continues into the hunting ceremony.
+- Physical Chinese `054.txt` omits E54's short closing exchange and then appends most of the E55 hunting-ceremony/Ahun-punishment sequence without a Chapter 55 heading.
+- Therefore `054.txt` is an **unrecorded combined/overlapping 54–55 container**, not a clean Chapter-54-only file.
+
+The corrected target Chapter 54 now stops at the E54 endpoint. Its missing short closing exchange is restored from aligned E54. The appended target-55 material has been removed from the Chapter 54 draft and will be reconstructed as Chapter 55.
 
 ## Fidelity / terminology checks
 
-- PASS — Aiyen is the youngest Ballak hunting captain and Vikir is currently her claimed slave.
-- PASS — Vikir's survival-era engineering/household competence is retained: shelter construction, heated smoke channel, brickmaking, foundation repair, drainage, firewood, leather/cloth work, and laundry.
-- PASS — Akwilla's tent repairs and approval remain; Akwilla still shows little personal interest in Vikir.
-- PASS — Aiyen's repeated hovering/food offers are retained without converting them into explicit romance narration.
-- PASS — bodily/cultural material is preserved matter-of-factly and non-erotically. The source contrasts comparatively unrestricted sexual relationships/body exposure with practical fertility/disease considerations.
-- PASS — the historical-imperial filth/high-heels/perfume exchange remains as source dialogue rather than narrator-certified historical fact.
-- PASS — the later village reaction to Vikir relieving himself openly is preserved. Aiyen's smile/averted gaze is left to imply the joke; the draft does not state an unsupported motive.
-- PASS — Ballak hunting economics remain: approximately 300 people and roughly a 200-kilogram boar equivalent per day, supplemented by gathered food.
-- PASS — the charcoal hunting rite hides hunters' faces from the god of death; younger hunters' irreverence toward the shaman is retained.
-- PASS — the spiked collar is protective hunting gear for the neck, distinct from Vikir's slave leash/collar.
-- PASS — wolf riding is materially different from horse riding; Vikir's injuries are aggravated when he falls.
-- PASS — physical contact during the riding lesson is reduced to functional, non-erotic wording while preserving the source action.
-- PASS — Vikir steals Ahun's quiver during the fall; his “weapon/loved one” taunt is rendered naturally without changing the joke.
-- PASS — Ahun's assault and Aiyen's intervention remain explicit.
-- PASS — Aiyen herself punishes Vikir under Ballak slave rules, then establishes that only she may punish her slave and threatens Ahun if he interferes again.
-- PASS — Aiyen's final **“Did it hurt?”** is retained without adding narrator interpretation.
+- PASS — Vikir's shelter construction, Akwilla-tent repair, drainage, laundry, and other Age-of-Destruction survival skills remain intact.
+- PASS — Aiyen's hovering, food offers, and slave/freedom discussion remain without added romance narration.
+- PASS — bodily/reproductive-health customs remain factual and non-erotic.
+- PASS — Aiyen's drainage-channel urination and the imperial sanitation exchange remain at source level.
+- PASS — hunting economics remain: about 300 people, roughly a 200-kilogram boar-equivalent daily requirement with gathered-food supplementation.
+- PASS — Chapter 54 now ends on the **hunt offer / dawn-departure setup**, rather than duplicating Chapter 55's ceremony, toilet joke, wolf ride, Ahun conflict, and punishment.
+- PASS — the short E54-only closing lines are used as a localized boundary-gap repair; recovered English does not otherwise override Chinese semantics.
 
-## Boundary / explicitness check
+## Corpus implication
 
-Chinese 52–54 form one numbered title family. Chinese 55 is absent, while recovered English 55 clearly begins *The Hunter and the Hunted (1)*. The chapter's body, reproductive-health, urination, and punishment material is neither erased nor eroticized; no sexual detail beyond the source's social/cultural meaning is added.
+The old exception record “target 55 Chinese raw genuinely missing; E55 sole text source” is incomplete. There is no standalone `055.txt`, but a substantial portion of target 55 survives appended inside `054.txt`. Target 55 must therefore use **hybrid evidence**: E55 for its missing opening/title boundary and Chinese 054's overlapping target-55 body wherever available.

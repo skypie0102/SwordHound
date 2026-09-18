@@ -1,0 +1,82 @@
+{
+  "chapter": 57,
+  "title": "The Hunter and the Hunted (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/057.txt",
+    "blob_sha": "f54503f85e50714fca60b34ff319f4f7ae46166b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-056.xhtml",
+    "blob_sha": "684b391e07bb916d944c1bea14ff642eb3007cac",
+    "target_alignment": 57,
+    "alignment_status": "no_clean_english_standalone; e56 partially overlaps oxxbear_selection; e57 begins target58",
+    "authority": "partial_overlap_reference_only_not_full_chapter"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/061.txt",
+    "chinese_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "english_path": "source/chapters/chapter-060.xhtml",
+    "english_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "purpose": "both begin next-family harvest/plunder festival content"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "accepted project terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir Van Baskerville",
+        "Aiyen",
+        "Ahun",
+        "Akwilla",
+        "Ballak Tribe",
+        "Bakira",
+        "Oxbear",
+        "Le Rouge et Le Noir Mountain",
+        "Beelzebub",
+        "Incinerate",
+        "Cerberus"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0057.md",
+    "blob_sha": "d899cea4cc984265211b60bea59fd46a545ee431"
+  },
+  "qa": {
+    "path": "qa/chapter-0057.md",
+    "blob_sha": "7f071afca07011058b38a354d119dac7bc5c7f48",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "english_gap",
+      "final": "no clean standalone recovered-English target57 witness",
+      "basis": "content audit across E56/E57"
+    },
+    {
+      "topic": "ahun_boar",
+      "final": "Ahun returns with >300 kg boar and leads current hunt-prestige contest",
+      "basis": "Chinese target57 unique material"
+    },
+    {
+      "topic": "mate_selection",
+      "final": "smaller/younger reproductively healthy Oxbear selected to reduce post-mating danger; Ballak comparison retained clinically",
+      "basis": "Chinese target57"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

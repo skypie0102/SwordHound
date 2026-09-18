@@ -1,0 +1,82 @@
+{
+  "chapter": 56,
+  "title": "The Hunter and the Hunted (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/056.txt",
+    "blob_sha": "3347b3a5328b1e4629b4fea513c910aae2d851d5",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-056.xhtml",
+    "blob_sha": "684b391e07bb916d944c1bea14ff642eb3007cac",
+    "target_alignment": 56,
+    "alignment_status": "verified_by_wolf_ride_wound_archery_lesson_oxbear_window_and_real_prey_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/061.txt",
+    "chinese_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "english_path": "source/chapters/chapter-060.xhtml",
+    "english_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "purpose": "both begin next-family harvest/plunder festival content"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "accepted project terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir Van Baskerville",
+        "Aiyen",
+        "Ahun",
+        "Akwilla",
+        "Ballak Tribe",
+        "Bakira",
+        "Oxbear",
+        "Le Rouge et Le Noir Mountain",
+        "Beelzebub",
+        "Incinerate",
+        "Cerberus"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0056.md",
+    "blob_sha": "ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694"
+  },
+  "qa": {
+    "path": "qa/chapter-0056.md",
+    "blob_sha": "cfb11c27d12eccfa7ceb398cf45e6b7594c92b9d",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "oxbear_window",
+      "final": "Danger Rating A / 5 m / Le Rouge et Le Noir Mountain 7th Ridge",
+      "basis": "Chinese info window + accepted terminology"
+    },
+    {
+      "topic": "wild_female",
+      "final": "observed old female is ~8 m and exceptional beyond standard specimen",
+      "basis": "Chinese narrative"
+    },
+    {
+      "topic": "wound_contact",
+      "final": "Aiyen briefly licks collar abrasion; Vikir notes infection risk",
+      "basis": "source retained non-erotically"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

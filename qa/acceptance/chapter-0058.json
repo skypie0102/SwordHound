@@ -1,0 +1,40 @@
+{
+  "chapter": 58,
+  "title": "The Hunter and the Hunted (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_e57",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/058.txt",
+    "primary_source_sha": "230b6b91bc511e93968956eb799aac9c44441c5e",
+    "english_reference_path": "source/chapters/chapter-057.xhtml",
+    "english_reference_sha": "33f218cebdc7c91bdd8994b20d30465ecbaaebfa",
+    "draft_path": "manuscript/drafts/chapter-0058.md",
+    "draft_sha": "b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0",
+    "qa_path": "qa/chapter-0058.md",
+    "qa_sha": "403129422383f71784e7497e3b01764ab872e574",
+    "provenance_path": "editorial/provenance/chapter-0058.json",
+    "provenance_sha": "305ab77cc270e7610b739eeb43bd4e6dd171b72d"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Bakira",
+    "Ballak Tribe",
+    "Oxbear"
+  ],
+  "documented_limits": [
+    "Target 58 maps to E57 by content, not numbering.",
+    "Animal reproductive behavior is kept clinical and non-graphic.",
+    "Aiyen's teasing is not amplified."
+  ]
+}
