@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Corpse Queen acceptance checkpoint
 - **Working branch:** `editorial/restart-corpse-queen-0198-0202`
 - **Base main checkpoint:** `382526ec95a738a19cd530d61c38a9188122fa30` (Preparing for the Festival checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #57 — `Rebuild The Corpse Queen Chapters 198–202`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
