@@ -1,0 +1,66 @@
+{
+  "chapter": 212,
+  "title": "Festival Night (7)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/212.txt",
+    "blob_sha": "6e5d9e92fbde34d10a0cc7a5393014ca7a59e8c7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-210.xhtml",
+    "blob_sha": "4e89eac5abc89e36d226026f98c8cfc8799f80a8",
+    "target_alignment": 212,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0212.md",
+    "blob_sha": "0e166092e239bd215f5b9434af91e77b4503feb8"
+  },
+  "qa": {
+    "path": "qa/chapter-0212.md",
+    "blob_sha": "3f44022e8e68d11e7ca84b870273d6e688f51817",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "half_day_contract",
+      "final": "Queen and Seere each control half the day; midnight passes body to Seere",
+      "basis": "Chinese C212"
+    },
+    {
+      "topic": "find_person",
+      "final": "Seere ability found Rosie; Queen contracted primarily to find another person's corpse",
+      "basis": "Chinese C212"
+    },
+    {
+      "topic": "searched_person_guard",
+      "final": "Searched-for person remains unnamed despite two-year Red/Black Mountains search",
+      "basis": "Chinese C212"
+    },
+    {
+      "topic": "fake_hound_cliff",
+      "final": "End on Night Hound-costumed figure without asserting true identity",
+      "basis": "Chinese C212; C213 resolves Dolores"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}
