@@ -1,0 +1,43 @@
+{
+  "chapter": 90,
+  "title": "The Ghosts of the Ancestors (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Ghosts of the Ancestors",
+    "range": [
+      90,
+      94
+    ],
+    "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
+    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/090.txt",
+    "primary_source_sha": "2128d128f66c3208b3d8bacdd37bb7d9c6684773",
+    "english_reference_path": "source/chapters/chapter-089.xhtml",
+    "english_reference_sha": "6cb2efd35be359cd0d25a1de23daf2a2561ef383",
+    "draft_path": "manuscript/drafts/chapter-0090.md",
+    "draft_sha": "71b421e43d11b99367ce210d6d5a3297064daf0e",
+    "qa_path": "qa/chapter-0090.md",
+    "qa_sha": "b7d2bd5555e7a8ce4b69b277aee4d25b9a659d18",
+    "provenance_path": "editorial/provenance/chapter-0090.json",
+    "provenance_sha": "c19f393e47e428eb4b39d0cb9a9c79d5a2fb284f"
+  },
+  "canonical_checks": [
+    "Oxbear",
+    "Beelzebub",
+    "Silent Heel",
+    "Kilogram Hammer",
+    "Ah'Heman",
+    "Ahun",
+    "Rokoko",
+    "Tomb of the Brave"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-95 Madam Eight-Legs aftermath is imported backward."
+  ]
+}
