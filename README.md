@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **116 / 500 accepted; next Chapter 117.** Latest accepted family: **targets 110–116 — The Great Banquet (1)–(7)**.
+Current checkpoint: **119 / 500 accepted; next Chapter 120.** Latest accepted family: **targets 117–119 — Falling in Love (1)–(3)**.
 
-The next verified family is **Falling in Love, targets 117–119**, mapped **117→E116 through 119→E118**. Target 120 begins **The Hunt for the Second Son (1)** and maps to E119.
+The next verified family is **The Hunt for the Second Son, targets 120–125**, mapped **120→E119 through 125→E124**. Target 126 begins **Admission to the Academy (1)** and maps to E125.
 
 ## Current source policy
 
@@ -38,9 +38,9 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Great Banquet family adds/revalidates:
+The accepted Falling in Love family adds/revalidates:
 
-- **The Great Banquet** — production family title for targets 110–116; witnesses E109–E115.
+- **Falling in Love** — production family title for targets 117–119; witnesses E116–E118.
 - **Boston Terrier Le Baskerville / Pit Bull Knights** — Count and commander; 100-Graduator extermination-specialist order.
 - **Great Dane Le Baskerville / Mastiff Knights** — Count and commander; 100-Graduator formal-war-specialist order.
 - **Seven Counts** — major Baskerville military/political bloc; all seven sought to attend Vikir's banquet.
@@ -49,20 +49,23 @@ The accepted Great Banquet family adds/revalidates:
 - **Intermediate Sword Graduator / Peak Sword Graduator** — public Vikir versus hidden Vikir in this family.
 - **Sixth Fang / Seventh Fang** — target 116 combat comparison; never “Forms.”
 - **Baskerville Trident** — accepted contextual label for Highbro / Middlebro / Lowbro.
-- **Falling in Love** — next family targets 117–119; witnesses E116–E118.
-- **The Hunt for the Second Son** begins target 120 / E119.
+- **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** — reaffirmed family line; raw Lucina/Freya/Firian-type drift remains normalized.
+- **Baskerville Trident** — Highbro / Middlebro / Lowbro formally swear their lives to Vikir.
+- **Seven Baskerville Knight Orders** — Vikir requests all seven for half a day at the close of target 119.
+- **The Hunt for the Second Son** — next family targets 120–125; witnesses E119–E124.
+- **Admission to the Academy** begins target 126 / E125.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–116**:
+Current accepted production evidence covers targets **1–119**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0116.md`
-- `qa/chapter-0001.md` through `chapter-0116.md`
-- accepted family QA through `qa/families/great-banquet-0110-0116.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0116.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0116.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0119.md`
+- `qa/chapter-0001.md` through `chapter-0119.md`
+- accepted family QA through `qa/families/falling-in-love-0117-0119.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0119.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0119.json`
 
-Latest family QA: `qa/families/great-banquet-0110-0116.md` — **PASS**.
+Latest family QA: `qa/families/falling-in-love-0117-0119.md` — **PASS**.
 
 ## Editorial quality bar
 
