@@ -1,0 +1,46 @@
+{
+  "chapter": 214,
+  "title": "Festival Night (9)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/214.txt",
+    "primary_source_sha": "02132e7ee15df750cb54183c67c463b521e5b7b2",
+    "english_reference_path": "source/chapters/chapter-212.xhtml",
+    "english_reference_sha": "273f7a07f3c9f2ede1ab2a2f8bfd03ca7af11bf4",
+    "draft_path": "manuscript/drafts/chapter-0214.md",
+    "draft_sha": "c3f78ef4a2523394b015d331fee131f499b1d01e",
+    "qa_path": "qa/chapter-0214.md",
+    "qa_sha": "8cba1440285bdb1911afcc988a33e219bdd32f68",
+    "provenance_path": "editorial/provenance/chapter-0214.json",
+    "provenance_sha": "4333a2909e135331363af96cc2990ec6b6a9051d"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Professor Banshee Morgue",
+    "Professor Sadi",
+    "Ring of Divine Inviolability",
+    "Finit hic Deus",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Bianca Fo Usher",
+    "Sinclaire"
+  ],
+  "documented_limits": [
+    "Dolores requests limited backup to protect civilians without trapping Night Hound.",
+    "Hidden space visibility exception remains monsters or children under eight."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
