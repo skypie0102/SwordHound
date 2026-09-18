@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — 99 Hits acceptance checkpoint
 - **Working branch:** `editorial/restart-99-hits-0176-0178`
 - **Base main checkpoint:** `d9124fab3f92f8e957fe042965f9ade19be1cba9` (Anti-Columnist checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #52 — `Rebuild The 99 Hits With 100 Shots Chapters 176–178`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
