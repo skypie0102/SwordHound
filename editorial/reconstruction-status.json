@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 63,
+  "accepted_chapters": 67,
   "staged_chapters": 0,
-  "next_chapter": 64,
+  "next_chapter": 68,
   "latest_accepted_family": {
-    "name": "The Protagonist of Hunting",
-    "range": [
-      61,
-      63
-    ],
-    "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
-  },
-  "next_title_family": {
     "name": "Unfair Trade",
     "range": [
       64,
       67
     ],
-    "boundary_status": "verified from Chinese target headings and shifted recovered-English headings/content",
-    "following_family_starts": 68,
-    "following_title": "Blood Relatives (1)",
-    "alignment_note": "target 64→E63, 65→E64, 66→E65, 67→E66; target 68→E67"
+    "family_qa": "qa/families/unfair-trade-0064-0067.md"
+  },
+  "next_title_family": {
+    "name": "Blood Relatives",
+    "range": [
+      68,
+      71
+    ],
+    "boundary_status": "verified from Chinese target headings and shifted recovered-English title/content sequence",
+    "following_family_starts": 72,
+    "following_title": "The Red Death (1)",
+    "alignment_note": "68→E67, 69→E68, 70→E69, 71→E70; 72→E71"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -125,17 +125,22 @@
     60,
     61,
     62,
-    63
+    63,
+    64,
+    65,
+    66,
+    67
   ],
   "notes": [
-    "Chapters 61-63 are accepted as The Protagonist of Hunting (1)-(3) after Chinese-first reconstruction, chapter QA, and family QA.",
-    "Verified shifted mapping continues: target 61→E60, 62→E61, 63→E62. Target 64 begins Unfair Trade (1) and maps to E63.",
-    "Chapter 61 updates Beelzebub's active slots to Incinerate—Cerberus(A+), Kilogram Hammer—Oxbear(A), Tough Life—Infernal Buffalo(A); Hemorrhage is displaced.",
-    "Chapter 62 preserves the Madam Eight-Legs offering, Piranha Natteri window, Vikir's food stockpiling, and the village mate-assignment pressure without romanticization.",
-    "Chapter 63 formally frees Vikir and accepts him into Ballak; Ah'Heman is introduced by canonical name and the current source-level Ahun=son wording is retained despite later Fandom biography conflict.",
-    "Fountain of Valor remains the working term for Ballak's sacred healing spring.",
-    "Next verified family is target Chapters 64-67 — Unfair Trade (1)-(4), with shifted recovered-English mapping 64→E63 through 67→E66.",
-    "Chinese raws control narrative/semantic content wherever present; English Fandom/project register controls canonical English renderings.",
+    "Chapters 64-67 are accepted as Unfair Trade (1)-(4) after Chinese-first reconstruction, chapter QA, family QA, provenance, and hash-bound acceptance.",
+    "Recovered-English lag remains stable: target 64→E63, 65→E64, 66→E65, 67→E66.",
+    "Bourgeois Clan and Sir Smuggler canonical/working forms are accepted for this family; later Bourgeois arc spoilers are excluded.",
+    "Chapter 65 reveals Aheul as Ahun's younger sister and exposes heat-killed seeds plus narcotic trinkets/cosmetics used to keep Ballak dependent.",
+    "Chapter 66 preserves the Ballak cigarette-light/sound ambush, survivor tracking, oil-barrel arrow attack, Sir Smuggler permit revocation, and Madam Eight-Legs cleanup.",
+    "Chapter 67 resolves Ahun as Ah'Heman's grandson: target65 Aheul=Ahun's sister + target67 Aheul=Ah'Heman's granddaughter, corroborated by indexed Fandom. Chapter63 evidence has been rebound accordingly.",
+    "Chapter 67 grants Fountain of Valor access and keeps Ah'Heman collusion as suspicion only, without later spoilers.",
+    "Next verified family is targets 68-71 — Blood Relatives (1)-(4), mapped 68→E67 through 71→E70. Target72 begins The Red Death (1) and maps to E71.",
+    "Chinese raws control narrative/semantic content wherever present; canonical English names/terms use Fandom/project register where confidently identified.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

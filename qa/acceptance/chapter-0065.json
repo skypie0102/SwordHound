@@ -1,0 +1,43 @@
+{
+  "chapter": 65,
+  "title": "Unfair Trade (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/065.txt",
+    "primary_source_sha": "aa4cf365529795b9642b925c64ceebb393f978c9",
+    "english_reference_path": "source/chapters/chapter-064.xhtml",
+    "english_reference_sha": "d0e7b5a3e18de27d5cd4a6604d0e1bcdbe298f14",
+    "draft_path": "manuscript/drafts/chapter-0065.md",
+    "draft_sha": "ebd844a6441338d2cc37fafd9fb47a340d0ab9d1",
+    "qa_path": "qa/chapter-0065.md",
+    "qa_sha": "16fb501a9a1a45b925e9b1feb4fba08a1688c88e",
+    "provenance_path": "editorial/provenance/chapter-0065.json",
+    "provenance_sha": "da248a74ec7aaf2adf40b8891715b24d6562fa47"
+  },
+  "canonical_checks": [
+    "Aheul",
+    "Ahun",
+    "Aiyen",
+    "Cindywendy",
+    "Underdog City",
+    "Vikir's Special Law",
+    "Bourgeois Clan"
+  ],
+  "documented_limits": [
+    "Target 65 maps to E64.",
+    "Aheul is source-revealed as Ahun's younger sister; later Red Death material is excluded.",
+    "Baskerville/Morgue tolerance of the drug strategy remains Vikir's speculation."
+  ]
+}

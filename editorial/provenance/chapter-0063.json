@@ -9,7 +9,7 @@
       63
     ],
     "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
-    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "family_qa_sha": "d81ff09d6ec185a8c59730efb8957b7618ebc12c",
     "status": "pass"
   },
   "primary_source": {
@@ -56,15 +56,26 @@
         "Ballak Tribe",
         "Oxbear"
       ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Aheul",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Aheul",
+        "Ahun",
+        "Ah'Heman",
+        "grandfather/sibling relation"
+      ]
     }
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0063.md",
-    "blob_sha": "d7438ff75abb5f1413c44d22200953a9fc486628"
+    "blob_sha": "3a95a006e7bb54d8f35202366da98cff0cebe7a4"
   },
   "qa": {
     "path": "qa/chapter-0063.md",
-    "blob_sha": "4fbc22bada0094afda96fb237f9a2e89607c0bed",
+    "blob_sha": "974cd89773078dda486907bb4cf5aa72d1b2cbcb",
     "status": "pass"
   },
   "documented_decisions": [
@@ -75,8 +86,8 @@
     },
     {
       "topic": "ahun_ahheman_kinship",
-      "final": "retain source-level statement that Ahun is Ah'Heman's son; later Fandom biography says grandson and is chronology/conflict-logged rather than imported",
-      "basis": "Chinese and aligned E62 agree on son in this chapter; later wiki conflicts"
+      "final": "Ahun is Ah'Heman's grandson; target63's isolated son wording is corrected by target65 Aheul=Ahun's sister + target67 Aheul=Ah'Heman's granddaughter, independently corroborated by Fandom",
+      "basis": "later direct Chinese continuity inside current source sequence plus indexed canonical family relation"
     },
     {
       "topic": "fountain_of_valor",

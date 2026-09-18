@@ -1,0 +1,46 @@
+{
+  "chapter": 67,
+  "title": "Unfair Trade (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/067.txt",
+    "primary_source_sha": "b596ba76138b23c6f401ee7b21b2a2a9ae9e1943",
+    "english_reference_path": "source/chapters/chapter-066.xhtml",
+    "english_reference_sha": "7c6a6aa37fdf71c1cef6bd846387009c67b868d2",
+    "draft_path": "manuscript/drafts/chapter-0067.md",
+    "draft_sha": "e1984e1e6f412fdc4466cb45b6422e2747b9cf39",
+    "qa_path": "qa/chapter-0067.md",
+    "qa_sha": "a535221bfb26140c7a1e7920807d62fbee8d7c34",
+    "provenance_path": "editorial/provenance/chapter-0067.json",
+    "provenance_sha": "18210289139e2c10c4c117b307fafe68d7aae764"
+  },
+  "canonical_checks": [
+    "Akwilla",
+    "Aiyen",
+    "Ah'Heman",
+    "Aheul",
+    "Ahun",
+    "Divine Archer Adonai",
+    "Madam Eight-Legs",
+    "Fountain of Valor",
+    "River Styx",
+    "Chihuahua Baskerville"
+  ],
+  "documented_limits": [
+    "Target 67 maps to E66.",
+    "Ahun=Ah'Heman's grandson is now resolved by target65/67 direct continuity plus indexed Fandom corroboration.",
+    "Under-eighteen sexual escalation from the source is not reproduced; only nonsexual relationship intent and plot continuity are retained."
+  ]
+}

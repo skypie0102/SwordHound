@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Unfair Trade (1)–(4) accepted
+
+**Current state:** 67 / 500 accepted; 0 staged; next Chapter 68.
+
+Completed targets 64–67 with verified shifted mapping **64→E63, 65→E64, 66→E65, 67→E66**.
+
+Key decisions:
+- canonicalized **Bourgeois Clan**, **Sir Smuggler**, and **Aheul**;
+- preserved exploitative barter economics and merchant abuse without gratuitous slurs/sexualization;
+- preserved heat-killed seed and narcotic trinkets as deliberate dependency mechanisms;
+- retained Vikir's market/legal expertise and **Vikir's Special Law** irony;
+- preserved Ballak's light/sound ambush, survivor tracking, oil-barrel arrows, permit revocation, and Madam Eight-Legs cleanup;
+- kept Ah'Heman collusion as suspicion rather than proven fact;
+- resolved **Ahun = Ah'Heman's grandson** using target65 Aheul=Ahun's sister + target67 Aheul=Ah'Heman's granddaughter, with indexed Fandom corroboration;
+- rebound target63/family evidence to the corrected kinship.
+
+Family QA: `qa/families/unfair-trade-0064-0067.md` — **PASS**.
+
+Next family: **Blood Relatives (1)–(4), targets 68–71**, mapped **68→E67 through 71→E70**. Target 72 begins **The Red Death (1)** and maps to E71.
+
 ## 2026-09-18 — The Protagonist of Hunting (1)–(3) accepted
 
 **Current state:** 63 / 500 accepted; 0 staged; next Chapter 64.

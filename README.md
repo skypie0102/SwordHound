@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **63 / 500 accepted; next Chapter 64.** Latest accepted family: **targets 61–63 — The Protagonist of Hunting (1)–(3)**.
+Current checkpoint: **67 / 500 accepted; next Chapter 68.** Latest accepted family: **targets 64–67 — Unfair Trade (1)–(4)**.
 
-The recovered-English sequence remains one chapter behind current targets: **61→E60, 62→E61, 63→E62**. The next family is **Unfair Trade, targets 64–67**, mapped **64→E63 through 67→E66**.
+Recovered-English numbering remains one chapter behind: **64→E63, 65→E64, 66→E65, 67→E66**. The next family is **Blood Relatives, targets 68–71**, mapped **68→E67 through 71→E70**.
 
 ## Current source policy
 
@@ -38,28 +38,28 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Protagonist of Hunting family adds/revalidates:
+The accepted Unfair Trade family adds/revalidates:
 
-- **Kilogram Hammer — Oxbear (A)** — canonical Beelzebub ability name; replaces the MTL's `Sacral Spine` / `Thousand Muscles`.
-- Post-Oxbear active Beelzebub slots: **Incinerate — Cerberus (A+) / Kilogram Hammer — Oxbear (A) / Tough Life — Infernal Buffalo (A)**.
-- **Piranha Natteri** — target-62 monster: D individual / A school, 30 cm standard size, Le Rouge et Le Noir Mountain 6th Ridge.
-- **Ah'Heman** — canonical Ballak shaman name, source-revealed in target 63.
-- **Ahun/Ah'Heman kinship conflict** — current source says son; later Fandom biography says grandson. Preserve current source semantics until later text resolves it.
-- **Fountain of Valor** — working rendering for Ballak's sacred healing spring.
-- **The Protagonist of Hunting** — normalized production family title for targets 61–63 despite Chinese title variants.
-- **Unfair Trade** — next family, targets 64–67; shifted witnesses E63–E66.
+- **Bourgeois Clan** — canonical clan/family form for the wealth/trade great family.
+- **Sir Smuggler** — caravan leader in targets 64–66.
+- **Aheul** — canonical spelling; source-revealed in target 65 as Ahun's younger sister.
+- **Ahun / Ah'Heman kinship resolved** — target 67 explicitly says Aheul is Ah'Heman's granddaughter; combined with target 65's sibling relation and indexed Fandom, Ahun is Ah'Heman's **grandson**. Target 63 has been rebound to this correction.
+- **Vikir's Special Law** — retained for the Underdog regulation the merchants unknowingly cite to Vikir himself.
+- Merchant dependency strategy: deliberately non-germinating seed plus harmful narcotics hidden in decorative/personal goods.
+- **Fountain of Valor** — reaffirmed as Vikir's target-67 reward; Ah'Heman collusion remains suspicion only.
+- **Blood Relatives** — next family, targets 68–71; recovered-English witnesses E67–E70.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–63**:
+Current accepted production evidence covers targets **1–67**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0063.md`
-- `qa/chapter-0001.md` through `chapter-0063.md`
-- accepted family QA through `qa/families/protagonist-hunting-0061-0063.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0063.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0063.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0067.md`
+- `qa/chapter-0001.md` through `chapter-0067.md`
+- accepted family QA through `qa/families/unfair-trade-0064-0067.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0067.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0067.json`
 
-Latest family QA: `qa/families/protagonist-hunting-0061-0063.md` — **PASS**.
+The Chapter-63 Ahun/Ah'Heman kinship evidence has been rebound after the direct Chapter-65/67 continuity resolution. Latest family QA: `qa/families/unfair-trade-0064-0067.md` — **PASS**.
 
 ## Editorial quality bar
 

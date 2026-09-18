@@ -1,0 +1,43 @@
+{
+  "chapter": 66,
+  "title": "Unfair Trade (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/066.txt",
+    "primary_source_sha": "72108754001f9ed99d7d87d2788032319851c716",
+    "english_reference_path": "source/chapters/chapter-065.xhtml",
+    "english_reference_sha": "083f5862d89100752c1057afc33d87257f558db2",
+    "draft_path": "manuscript/drafts/chapter-0066.md",
+    "draft_sha": "b4c7957d92f3809bc1e8addf3e811682c7ca10d6",
+    "qa_path": "qa/chapter-0066.md",
+    "qa_sha": "3c37642adfbbd303e72e76d98d961fb797f1db72",
+    "provenance_path": "editorial/provenance/chapter-0066.json",
+    "provenance_sha": "add7e3cb7770bada56886b8f4e68460ca64964ff"
+  },
+  "canonical_checks": [
+    "Sir Smuggler",
+    "Aiyen",
+    "Ahun",
+    "Bakira",
+    "Madam Eight-Legs",
+    "Underdog City",
+    "Baskerville"
+  ],
+  "documented_limits": [
+    "Target 66 maps to E65.",
+    "Racist threats are summarized without gratuitous slurs.",
+    "Permit revocation is kept at source-level action without inventing a more detailed legal mechanism."
+  ]
+}

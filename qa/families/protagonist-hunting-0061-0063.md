@@ -1,6 +1,6 @@
 # Title-Family QA — The Protagonist of Hunting (1)–(3)
 
-**Family status:** PASS  
+**Family status:** PASS — KINSHIP REBOUND  
 **Target range:** Chapters 61–63  
 **Following family:** target Chapter 64 begins *Unfair Trade (1)*.
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|---|
 | 61 | `061.txt` | `834abb36714ce9d7329e7854720ea20170ce5586` | **E60** | `cf367731f723c719b61b06070cb648fa9cf23a95` | `12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b` | `ec787604f0abda5c3bb072f0fc89ab3e1a62c016` |
 | 62 | `062.txt` | `68c0110eec864429aebd42142991ba3694d8130f` | **E61** | `c03318d7153f27b179a5d2d7c36f4fa1e78d9dc2` | `aa267163bf0959623b7adc94f906518e8ac73ada` | `96233c67df63ff633095dc751b8a56f33d01ff41` |
-| 63 | `063.txt` | `9db84e3df9443b7dbe9591327707cf2ff8677504` | **E62** | `72c9b67ea93f772a9ab6adadfce10f33f7de34ad` | `d7438ff75abb5f1413c44d22200953a9fc486628` | `4fbc22bada0094afda96fb237f9a2e89607c0bed` |
+| 63 | `063.txt` | `9db84e3df9443b7dbe9591327707cf2ff8677504` | **E62** | `72c9b67ea93f772a9ab6adadfce10f33f7de34ad` | `3a95a006e7bb54d8f35202366da98cff0cebe7a4` | `974cd89773078dda486907bb4cf5aa72d1b2cbcb` |
 | boundary | `064.txt` — *Unfair Trade (1)* | `332ef149eb32e1c0ba4aa67a53410d8d310f5844` | **E63** — *Unfair Trade (1)* | `54c7cd980ebb6bc505aab824a8e5a26bbe40edfd` | next family | next family |
 
 The one-chapter recovered-English lag established at the end of the previous family continues cleanly: **61→E60, 62→E61, 63→E62, 64→E63**.
@@ -57,7 +57,8 @@ Target 63 ends as a sentry sounds the alarm that outsiders have arrived. Target 
 - **Piranha Natteri** is retained for the target-62 monster window; Chinese controls its blue-green/red coloration over recovered-English color corruption.
 - The line of village women is tied to Vikir's expected freedom and mate assignment. The pressure is preserved as social/reproductive context rather than romanticized.
 - **Akwilla / Night Fox**, **Divine Archer Adonai**, **Ah'Heman**, **Aiyen**, and **Ahun** follow accepted/canonical English forms.
-- Target 63 source text says **Ahun is Ah'Heman's son**. Later Fandom biography says grandson. The source-level relationship is retained for this chapter and the conflict is documented for later re-evaluation.
+- Target 63's isolated **son** wording is superseded by direct continuity evidence inside the current source sequence: target 65 identifies **Aheul as Ahun's sister**, target 67 explicitly identifies **Aheul as Ah'Heman's granddaughter**, and indexed Fandom independently records Ah'Heman as grandfather of both. Target 63 therefore uses **grandson** as a scoped consistency correction.
+- This kinship rebound does not import later Ah'Heman plot spoilers; only the already-present family relation is corrected.
 - No later Ah'Heman conspiracy, origin, Red Death, necromancy, or death spoilers are imported.
 - **Fountain of Valor** remains the working rendering for Ballak's sacred healing spring, which is shallow, slow to refill, and weakened by multiple simultaneous users.
 
