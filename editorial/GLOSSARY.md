@@ -554,3 +554,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Second abdominal stinger** — Vikir mentions it in target 138; explanation remains target 139 material.
 - **Men are Power** — next verified family targets 139–140, witnesses E138–E139.
 - **Identity of the Villain** — begins target 141 / E140.
+
+## Men are Power additions — Chapters 139–140
+
+- **Men are Power** — accepted production family title for targets 139–140; shifted witnesses E138–E139.
+- **Venomphion second abdominal stinger** — concealed one-use barb revealed by Banshee's specimen test in target 139; present Academy classification remains Danger Level A.
+- **Bianca's strength standard** — she explicitly prioritizes demonstrated strength over appearance/intelligence and currently underestimates Vikir's combat realm.
+- **Doxeller** — fifty-two-year-old local administrator/orphanage director involved in child trafficking and demonic collaboration.
+- **Peak Sword Graduator** — Vikir's actual realm in this family; Doxeller's Sword Master conclusion is a mistaken inference from Beelzebub's nearly solid aura.
+- **Ephebo** — source-revealed target 140 from the chest marking; powerful Upper/High Graduator-class undead/demonic subordinate, not one of the Ten Corpses. Keep later master identity spoiler-guarded.
+- **Seventh Fang** — still incomplete in target 140; used as the concealed lethal trap in the Seven Fangs sequence and associated with Vikir's future Sword Master breakthrough.
+- **Quovadis corruption clue** — Ephebo's blunt-weapon technique is recognizably Quovadis, but this is not evidence against the whole house.
+- **Doxeller ledger** — child-transfer/payment records recovered from the hidden safe; Vikir intends to route them through Cindywendy.
+- **Dolores mask recovery** — target 140 ends with Dolores privately recovering the half-burned Night Hound plague-doctor mask.
+- **Identity of the Villain** — next verified family targets 141–143, witnesses E140–E142.
+- **Volunteering for the Golden Week** — begins target 144 / E143.
+
