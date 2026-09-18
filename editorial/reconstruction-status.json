@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 82,
+  "accepted_chapters": 84,
   "staged_chapters": 0,
-  "next_chapter": 83,
+  "next_chapter": 85,
   "latest_accepted_family": {
-    "name": "The Saintess",
-    "range": [
-      78,
-      82
-    ],
-    "family_qa": "qa/families/saintess-0078-0082.md"
-  },
-  "next_title_family": {
     "name": "Lovesickness",
     "range": [
       83,
       84
     ],
+    "family_qa": "qa/families/lovesickness-0083-0084.md"
+  },
+  "next_title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
     "boundary_status": "verified from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 85,
-    "following_title": "The Illiad (1)",
-    "alignment_note": "83→E82, 84→E83; target85 begins The Illiad (1) and maps to E84"
+    "following_family_starts": 90,
+    "following_title": "The Ghosts of the Ancestors (1)",
+    "alignment_note": "85→E84, 86→E85, 87→E86, 88→E87, 89→E88; target90→E89"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -144,18 +144,18 @@
     79,
     80,
     81,
-    82
+    82,
+    83,
+    84
   ],
   "notes": [
-    "Chapters 78-82 are accepted as The Saintess (1)-(5).",
-    "Recovered-English lag remains stable: target78→E77 through target82→E81.",
-    "Dolores L. Quovadis is sixteen in this family; admiration/heartbeat material remains nonsexual.",
-    "Target79 Chinese controls that the first slum cluster contains primary waterborne cases only and no secondary cases yet.",
-    "Target80 preserves 42 registered wells, unregistered wells, and phase1a-3c purification trials.",
-    "Target81 treats divine-power borrowing/shorting as fantasy magic mechanics; Ballak herbs delay symptoms but do not cure Red Death.",
-    "Target82 produces three drops of Plany de la Verge / Saintess's Tears and canonicalizes Humbert L. Quovadis while keeping later family-history spoilers blocked.",
-    "Target82 Chinese nail-and-hammer Bourgeois emblem overrides recovered-English scythe-and-hammer.",
-    "Next verified family is targets83-84 — Lovesickness (1)-(2), mapped 83→E82 and 84→E83. Target85 begins The Illiad (1) and maps to E84.",
+    "Chapters 83-84 are accepted as Lovesickness (1)-(2).",
+    "Recovered-English lag remains stable: target83→E82 and target84→E83.",
+    "Target83 preserves Aiyen's dream recap, source-level coercive history, nonsexual sickbed nudity, and Akwilla's conception anecdote without erotic embellishment.",
+    "Target84 uses about 30 Ballak patients and thousands across other tribes; recovered-English tens-of-thousands inflation is rejected.",
+    "Saintess's Tears cures Aheul and purifies the shared river source, suppressing Red Death across gathered tribes.",
+    "Aiyen's final blush survives holy water and completes the Lovesickness title payoff.",
+    "Next family is targets85-89 — The Illiad (1)-(5), mapped 85→E84 through 89→E88. Target90 begins The Ghosts of the Ancestors (1) and maps to E89.",
     "Chinese raws control narrative/semantic content wherever present; canonical English names/terms use Fandom/project register where confidently identified.",
     "Every editorial session must read and update HANDOFF.md."
   ],
