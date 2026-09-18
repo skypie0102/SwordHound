@@ -1,0 +1,47 @@
+{
+  "chapter": 203,
+  "title": "Mixed Bath (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Mixed Bath",
+    "range": [
+      203,
+      205
+    ],
+    "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
+    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/203.txt",
+    "primary_source_sha": "acd7fa44938fcb72c31431a2e4a93b2ec4ad8fc7",
+    "english_reference_path": "source/chapters/chapter-201.xhtml",
+    "english_reference_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
+    "draft_path": "manuscript/drafts/chapter-0203.md",
+    "draft_sha": "7dcf4379def72d981db05036ec9b80867acf030c",
+    "qa_path": "qa/chapter-0203.md",
+    "qa_sha": "1257ae702365599e13f251c58d17b49782eb7945",
+    "provenance_path": "editorial/provenance/chapter-0203.json",
+    "provenance_sha": "d5bff6aba959a690cdcb429373e94c2ace0783cb"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Picaresque Mask",
+    "Snake Morgue",
+    "Corpse Queen",
+    "Cindywendy",
+    "Hugo Le Baskerville",
+    "Peak Sword Graduator",
+    "Sword Master",
+    "Pigi",
+    "Baby Madam",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "Snake's Seere contract remains future-history.",
+    "Six bully names are source/witness transliterations only."
+  ],
+  "next_family_alignment_note": "Target206→E204 begins Festival Night (1)."
+}
