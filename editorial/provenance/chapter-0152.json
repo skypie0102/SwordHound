@@ -1,0 +1,66 @@
+{
+  "chapter": 152,
+  "title": "The Drinking Game (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Drinking Game",
+    "range": [
+      152,
+      154
+    ],
+    "family_qa_path": "qa/families/drinking-game-0152-0154.md",
+    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/152.txt",
+    "blob_sha": "d6fc3f4922a2a3f57c66ece2faa68efa4030859e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-151.xhtml",
+    "blob_sha": "55107beb518be3473b627551ec88399ce113f688",
+    "target_alignment": 152,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0152.md",
+    "blob_sha": "64ee1d4f880fc20ea7b7c4818540e2c6ba4e4cc9"
+  },
+  "qa": {
+    "path": "qa/chapter-0152.md",
+    "blob_sha": "96c8c5df16cb840909255c3c4e29f83749f4cd85",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "yut",
+      "final": "Use Yut with Do/Gae/Geol/Yut/Mo mechanics; Vikir's expertise comes from Age-of-Destruction front-line play",
+      "basis": "Chinese C152"
+    },
+    {
+      "topic": "flirting_register",
+      "final": "Chinese 暧昧游戏 controls; reject recovered-English vulgar escalation in Tudor/Bianca banter",
+      "basis": "Chinese C152"
+    },
+    {
+      "topic": "gender_continuity",
+      "final": "Pigi remains male; Sinclaire remains female",
+      "basis": "Chinese C152 + accepted continuity"
+    },
+    {
+      "topic": "go_rank_setup",
+      "final": "Dolores amateur fifth dan; Vikir self-reports roughly second dan",
+      "basis": "Chinese C152"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/155.txt",
+    "chinese_sha": "0443c1fb6b741512ddea3695e4307f9e918a91bc",
+    "english_path": "source/chapters/chapter-154.xhtml",
+    "english_sha": "3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c",
+    "purpose": "both begin How to Keep Your Night Shift Employees Safe (1), target155"
+  }
+}

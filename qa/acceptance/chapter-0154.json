@@ -1,0 +1,43 @@
+{
+  "chapter": 154,
+  "title": "The Drinking Game (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Drinking Game",
+    "range": [
+      152,
+      154
+    ],
+    "family_qa_path": "qa/families/drinking-game-0152-0154.md",
+    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/154.txt",
+    "primary_source_sha": "910c44859941096caddc7c6cc87f812d3f5def03",
+    "english_reference_path": "source/chapters/chapter-153.xhtml",
+    "english_reference_sha": "7c51133032286e15be15f8cd72303c4b30c62834",
+    "draft_path": "manuscript/drafts/chapter-0154.md",
+    "draft_sha": "138a97adacfd1ec1c0c3c058890cca0f4940009d",
+    "qa_path": "qa/chapter-0154.md",
+    "qa_sha": "0aab498430c802d24f6581cffd0ed15f24ffa75b",
+    "provenance_path": "editorial/provenance/chapter-0154.json",
+    "provenance_sha": "e39d9efc909923fb2a522d1731cf960ef1fa7daa"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Tudor Donquixote",
+    "Bianca Fo Usher",
+    "Pigi",
+    "Sinclaire",
+    "Sancho Barataria",
+    "Quilt Rune Indulgentia"
+  ],
+  "documented_limits": [
+    "Blanket concealment remains situational dorm-rule comedy.",
+    "Dolores's urinary accident is preserved without gratuitous/vulgar amplification.",
+    "Vikir takes public blame at the chapter close."
+  ]
+}

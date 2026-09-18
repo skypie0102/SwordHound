@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 151,
+  "accepted_chapters": 154,
   "staged_chapters": 0,
-  "next_chapter": 152,
+  "next_chapter": 155,
   "latest_accepted_family": {
-    "name": "Not Brother, But Uncle",
-    "range": [
-      150,
-      151
-    ],
-    "family_qa": "qa/families/not-brother-0150-0151.md"
-  },
-  "next_title_family": {
     "name": "The Drinking Game",
     "range": [
       152,
       154
     ],
+    "family_qa": "qa/families/drinking-game-0152-0154.md"
+  },
+  "next_title_family": {
+    "name": "How to Keep Your Night Shift Employees Safe",
+    "range": [
+      155,
+      157
+    ],
     "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 155,
-    "following_title": "How to Keep Your Night Shift Employees Safe (1)",
-    "alignment_note": "152→E151,153→E152,154→E153;155→E154"
+    "following_family_starts": 158,
+    "following_title": "Familiar Face (1)",
+    "alignment_note": "155→E154,156→E155,157→E156;158→E157"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -213,16 +213,19 @@
     148,
     149,
     150,
-    151
+    151,
+    152,
+    153,
+    154
   ],
   "notes": [
-    "Chapters 150-151 are accepted as Not Brother, But Uncle (1)-(2).",
-    "Target150 explicitly reveals Peri is thirteen and closes the earlier approximate visual-age ambiguity.",
-    "Vikir's functional view of parents is character perspective shaped by Baskerville and the Age of Destruction.",
-    "Sinclaire remains seventeen and female; Vikir only speculates that Cindywendy's royal-freshman rumor might refer to her. Later Bourgeois identity remains spoiler-guarded.",
-    "The Big Brother→Uncle correction is the title-family core and directly continues the target149 setup.",
-    "Target151 establishes Indulgentia's strict nighttime surveillance, the four escorts' continued guard, and Vikir's use of Tudor's boys/girls drinking meetup as assassination cover.",
-    "Next family targets152-154 — The Drinking Game (1)-(3), mapped 152→E151 through 154→E153. Target155 begins How to Keep Your Night Shift Employees Safe (1) and maps to E154.",
+    "Chapters 152-154 are accepted as The Drinking Game (1)-(3).",
+    "Yut / Go continuity is Chinese-primary; Pigi remains male and Sinclaire remains female despite recovered-English pronoun drift.",
+    "Chinese 暧昧游戏 controls target152's register; recovered-English vulgar escalation in Tudor/Bianca banter is rejected.",
+    "Target153 uses standard Go terminology: 阿达里→atari, 快棋→speed Go, 万霸不听→manpae bulcheong rather than recovered-English corruptions.",
+    "Vikir's destructive mad-dog Go style is tied to Age-of-Destruction survival values and wartime play.",
+    "Target154 preserves Dolores's urinary accident clearly but non-gratuitously; Vikir takes public blame at the chapter close.",
+    "Next family targets155-157 — How to Keep Your Night Shift Employees Safe (1)-(3), mapped 155→E154 through 157→E156. Target158 begins Familiar Face (1) and maps to E157.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

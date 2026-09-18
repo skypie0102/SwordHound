@@ -1,0 +1,43 @@
+{
+  "chapter": 152,
+  "title": "The Drinking Game (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Drinking Game",
+    "range": [
+      152,
+      154
+    ],
+    "family_qa_path": "qa/families/drinking-game-0152-0154.md",
+    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/152.txt",
+    "primary_source_sha": "d6fc3f4922a2a3f57c66ece2faa68efa4030859e",
+    "english_reference_path": "source/chapters/chapter-151.xhtml",
+    "english_reference_sha": "55107beb518be3473b627551ec88399ce113f688",
+    "draft_path": "manuscript/drafts/chapter-0152.md",
+    "draft_sha": "64ee1d4f880fc20ea7b7c4818540e2c6ba4e4cc9",
+    "qa_path": "qa/chapter-0152.md",
+    "qa_sha": "96c8c5df16cb840909255c3c4e29f83749f4cd85",
+    "provenance_path": "editorial/provenance/chapter-0152.json",
+    "provenance_sha": "6987be795649f1937bebf29baaa7645822c20176"
+  },
+  "canonical_checks": [
+    "Yut",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Bianca Fo Usher",
+    "Sinclaire",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "Tudor/Bianca teasing follows Chinese flirting-game register, not recovered vulgar escalation.",
+    "Pigi remains male and Sinclaire remains female.",
+    "Dolores believes the drink is soda until the source reveals otherwise in target153."
+  ]
+}

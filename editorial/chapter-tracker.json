@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 151,
+  "accepted_count": 154,
   "staged_count": 0,
-  "next_chapter": 152,
+  "next_chapter": 155,
   "active_title_family": {
-    "name": "The Drinking Game",
+    "name": "How to Keep Your Night Shift Employees Safe",
     "range": [
-      152,
-      154
+      155,
+      157
     ],
     "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 155,
-    "following_title": "How to Keep Your Night Shift Employees Safe (1)",
-    "alignment_note": "152→E151,153→E152,154→E153;155→E154"
+    "following_family_starts": 158,
+    "following_title": "Familiar Face (1)",
+    "alignment_note": "155→E154,156→E155,157→E156;158→E157"
   },
   "chapters": [
     {
@@ -2129,6 +2129,48 @@
       "acceptance": "qa/acceptance/chapter-0151.json",
       "acceptance_sha": "f3f5eaf9ce3a2c19840716e49922bdea0a2903df",
       "family_qa": "qa/families/not-brother-0150-0151.md"
+    },
+    {
+      "chapter": 152,
+      "title": "The Drinking Game (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/152.txt",
+      "english_mtl_reference": "source/chapters/chapter-151.xhtml",
+      "draft": "manuscript/drafts/chapter-0152.md",
+      "qa": "qa/chapter-0152.md",
+      "provenance": "editorial/provenance/chapter-0152.json",
+      "acceptance": "qa/acceptance/chapter-0152.json",
+      "acceptance_sha": "38d015be197f92201005ac47ce386c2dbbd75b76",
+      "family_qa": "qa/families/drinking-game-0152-0154.md"
+    },
+    {
+      "chapter": 153,
+      "title": "The Drinking Game (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/153.txt",
+      "english_mtl_reference": "source/chapters/chapter-152.xhtml",
+      "draft": "manuscript/drafts/chapter-0153.md",
+      "qa": "qa/chapter-0153.md",
+      "provenance": "editorial/provenance/chapter-0153.json",
+      "acceptance": "qa/acceptance/chapter-0153.json",
+      "acceptance_sha": "939e0fa9aaa14f8bd2cd97978dc56b2954de2fa5",
+      "family_qa": "qa/families/drinking-game-0152-0154.md"
+    },
+    {
+      "chapter": 154,
+      "title": "The Drinking Game (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/154.txt",
+      "english_mtl_reference": "source/chapters/chapter-153.xhtml",
+      "draft": "manuscript/drafts/chapter-0154.md",
+      "qa": "qa/chapter-0154.md",
+      "provenance": "editorial/provenance/chapter-0154.json",
+      "acceptance": "qa/acceptance/chapter-0154.json",
+      "acceptance_sha": "a87de4a2d0a447d00378c597a5ff36f8a87dd238",
+      "family_qa": "qa/families/drinking-game-0152-0154.md"
     }
   ]
 }

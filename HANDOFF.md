@@ -5,21 +5,21 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Not Brother, But Uncle acceptance checkpoint
-- **Working branch:** `editorial/restart-not-brother-0150-0151`
-- **Base main checkpoint:** `6375cc74c9a970f8601007ee8f1979cd2df85340` (Golden Week checkpoint merged)
-- **Current PR:** #45 — `Rebuild Not Brother But Uncle Chapters 150–151`
+- **Updated by:** ChatGPT — Drinking Game acceptance checkpoint
+- **Working branch:** `editorial/restart-drinking-game-0152-0154`
+- **Base main checkpoint:** `7595e9378de72225036d1f93f68de9442182d7b9` (Not Brother, But Uncle checkpoint merged)
+- **Current PR:** #46 — `Rebuild Drinking Game Chapters 152–154`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **151 / 500**
+- **Accepted:** **154 / 500**
 - **Staged:** **0**
-- **Next:** **152**
-- **Latest family:** targets **150–151 — Not Brother, But Uncle (1)–(2)**
-- **Family QA:** `qa/families/not-brother-0150-0151.md` — PASS — `a22e704eeb67ea6ac231e483997185d97c094ae6`
-- **Next family:** targets **152–154 — The Drinking Game (1)–(3)**
-- **Following family:** target **155 — How to Keep Your Night Shift Employees Safe (1)**
+- **Next:** **155**
+- **Latest family:** targets **152–154 — The Drinking Game (1)–(3)**
+- **Family QA:** `qa/families/drinking-game-0152-0154.md` — PASS — `45747a29f4164d5b928e0d6ab697604c5acff359`
+- **Next family:** targets **155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**
+- **Following family:** target **158 — Familiar Face (1)**
 
 ## Core rules
 
@@ -31,32 +31,30 @@
 
 ## Key decisions
 
-- **Peri** is explicitly thirteen in target 150.
-- Peri's **Big Brother → Uncle** exchange is the title-family core.
-- Vikir's view of parents is character perspective shaped by Baskerville / the Age of Destruction.
-- Vikir still has no respect/affection for **Hugo Le Baskerville** in this scope.
-- **Sinclaire** remains seventeen and female.
-- Target 150 only supports Vikir's speculation that Cindywendy's royal-freshman rumor may refer to Sinclaire; later Bourgeois identity remains spoiler-guarded.
-- Quilt's donation speech is manipulation, but the children's farewell affection is genuine.
-- Vikir's promise to Peri is only **“as long as both of us still have a tomorrow.”**
-- Dolores's curiosity about Vikir remains source-timed perspective.
-- **Indulgentia night curfew** is surveillance-heavy, especially around the children's quarters.
-- **Geronto, Hebe, Pedo, Ephebo** remain the four internal guards.
-- Vikir joins Tudor's secret boys/girls drinking meetup only as operational cover for the Night Hound assassination attempt.
+- **Yut** mechanics and Do/Gae/Geol/Yut/Mo are retained; Vikir's skill comes from front-line Age-of-Destruction play.
+- Chinese `暧昧游戏` controls the target-152 flirting-game register; reject recovered-English vulgar escalation.
+- **Pigi** remains male and **Sinclaire** remains female.
+- Dolores is **amateur fifth dan**; Vikir's “roughly second dan” is an obsolete wartime self-estimate, not a current formal rank.
+- Chinese `阿达里` → **atari**.
+- Chinese `快棋` → **speed Go**, not Shogi.
+- Chinese `万霸不听` → **manpae bulcheong**, not “All clear.”
+- Vikir's destroy-first “mad dog” Go style reflects Age-of-Destruction battlefield values.
+- Dolores's urinary accident remains clear but non-gratuitous; recovered-English crude escalation is rejected.
+- Vikir stops the gathering and takes public responsibility at the end of target 154.
 
-## Next family — The Drinking Game 152–154
+## Next family — How to Keep Your Night Shift Employees Safe 155–157
 
 | Target | Chinese SHA | English witness | English SHA |
 |---|---|---|---|
-| 152 | `d6fc3f4922a2a3f57c66ece2faa68efa4030859e` | E151 | `55107beb518be3473b627551ec88399ce113f688` |
-| 153 | `b54f371d1ae74b97df8cfcda609f3962a3ad2c0b` | E152 | `2887cbdd4984819cc7a9572566195982633c71f3` |
-| 154 | `910c44859941096caddc7c6cc87f812d3f5def03` | E153 | `7c51133032286e15be15f8cd72303c4b30c62834` |
-| boundary 155 | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | E154 | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` |
+| 155 | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | E154 | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` |
+| 156 | `3997ce7e947b98e28f797031f1469073fa410c73` | E155 | `7c8418bf3b000eac2df141a1f99a738c71185e7b` |
+| 157 | `7e5e07fa00343da715752b93615d4d7ed20c8ca1` | E156 | `a8440def843925046fab5c6beff350b826e95fe4` |
+| boundary 158 | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | E157 | `91d67d8d59d68825a4779fe641605572fdff43ab` |
 
 ## Exact next actions
 
-1. Validate and merge PR #45.
-2. Fresh branch from merged main for **The Drinking Game 152–154**.
-3. Read C152–154 against E151–153 fully, with C155/E154 as boundary.
+1. Validate and merge PR #46.
+2. Fresh branch from merged main for **How to Keep Your Night Shift Employees Safe 155–157**.
+3. Read C155–157 against E154–156 fully, with C158/E157 as boundary.
 4. Reconstruct, QA, provenance-bind, and accept all three chapters.
-5. Promote state and continue into **How to Keep Your Night Shift Employees Safe**.
+5. Promote state and continue into **Familiar Face**.

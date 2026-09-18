@@ -1,0 +1,66 @@
+{
+  "chapter": 153,
+  "title": "The Drinking Game (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Drinking Game",
+    "range": [
+      152,
+      154
+    ],
+    "family_qa_path": "qa/families/drinking-game-0152-0154.md",
+    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/153.txt",
+    "blob_sha": "b54f371d1ae74b97df8cfcda609f3962a3ad2c0b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-152.xhtml",
+    "blob_sha": "2887cbdd4984819cc7a9572566195982633c71f3",
+    "target_alignment": 153,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0153.md",
+    "blob_sha": "ff2cc52c6826be2df81a450175952cff8c890361"
+  },
+  "qa": {
+    "path": "qa/chapter-0153.md",
+    "blob_sha": "e9ad101bb0130c8cdd9bdc9d94409b4e3ef6a258",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "atari",
+      "final": "Normalize 阿达里 to standard Go term atari",
+      "basis": "Chinese C153"
+    },
+    {
+      "topic": "speed_go",
+      "final": "快棋 = speed Go; reject recovered-English Shogi",
+      "basis": "Chinese C153"
+    },
+    {
+      "topic": "manpae_bulcheong",
+      "final": "Resolve 万霸不听 as manpae bulcheong, a decisive-ko position where all ko threats can be ignored",
+      "basis": "Chinese C153 + standard Go terminology"
+    },
+    {
+      "topic": "mad_dog_go",
+      "final": "Vikir's destructive Go style reflects Age-of-Destruction survival logic rather than modern territorial orthodoxy",
+      "basis": "Chinese C153"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/155.txt",
+    "chinese_sha": "0443c1fb6b741512ddea3695e4307f9e918a91bc",
+    "english_path": "source/chapters/chapter-154.xhtml",
+    "english_sha": "3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c",
+    "purpose": "both begin How to Keep Your Night Shift Employees Safe (1), target155"
+  }
+}
