@@ -9,6 +9,20 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## Unfair Trade additions — Chapters 64–67
+
+- **Unfair Trade** — normalized production family title for targets 64–67.
+- **Bourgeois Clan** — canonical name for the wealth/trade great clan; do not import later Bourgeois leadership/demon spoilers into this arc.
+- **Sir Smuggler** — merchant-caravan leader in targets 64–66.
+- **Aheul** — canonical spelling; target 65 source-reveals her as Ahun's younger sister.
+- **Ahun / Ah'Heman** — relationship resolved as **grandson / grandfather** by direct target65/67 continuity plus indexed Fandom. This supersedes the isolated target-63 son drift.
+- **Vikir's Special Law** — working canonical rendering of `彼勒斯特别法`, the Underdog regulation cited by the merchants.
+- Merchant dependency scheme: seed deliberately heated to prevent germination; narcotics hidden in beads/brooches/necklaces/perfume/cosmetics.
+- Target 66 Ballak tactic: first cigarette establishes position, second helps distance, third is shot; survivor escape is deliberately permitted to expose the rear camp.
+- **Oil-barrel arrows** — several arrows/ropes carry one oil barrel, followed by fire arrows.
+- Target 67: **Fountain of Valor** access granted; possible Ah'Heman collusion remains unproven.
+- **Blood Relatives** — next title family spans targets 68–71; recovered-English witnesses are E67–E70.
+
 ## The Protagonist of Hunting additions — Chapters 61–63
 
 - **The Protagonist of Hunting** — normalized production family title for targets 61–63.
@@ -16,7 +30,7 @@ This register follows the restarted 2026-09-16 workflow:
 - **Post-Oxbear Beelzebub slots** — Slot 1 Incinerate — Cerberus (A+); Slot 2 Kilogram Hammer — Oxbear (A); Slot 3 Tough Life — Infernal Buffalo (A). Hellhound/Hemorrhage is displaced.
 - **Piranha Natteri** — target-62 monster. Individual D / school A / 30 cm / Le Rouge et Le Noir Mountain 6th Ridge.
 - **Ah'Heman** — canonical Ballak shaman name, source-revealed in target 63.
-- **Ahun/Ah'Heman relationship** — current target-63 Chinese and aligned E62 say **son**; later Fandom biography says **grandson**. Keep source-level son wording until later source text resolves or explicitly retcons it.
+- **Ahun/Ah'Heman relationship** — resolved as **grandson**. Target 65 identifies Aheul as Ahun's sister; target 67 explicitly identifies Aheul as Ah'Heman's granddaughter; indexed Fandom corroborates Ah'Heman as grandfather of both.
 - **Fountain of Valor** — working rendering for the sacred Ballak healing spring; shallow, slow to replenish, weaker when shared.
 - **Unfair Trade** — next title family spans targets 64–67; recovered-English witnesses are E63–E66.
 
