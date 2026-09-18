@@ -9,7 +9,7 @@
 - Draft: `manuscript/drafts/chapter-0146.md` — `daad8fe14181d1b51249b80c6537a734ab0308e6`
 
 ## Checks
-- PASS — the corrupted raw recognition line is resolved as the source-timed role reveal **Ninth of the Ten Corpses**, supported by surrounding “different face / same inner essence” logic; Quilt's later demon name is still withheld.
+- PASS — Chinese `十次中有九次` is treated as the ordinary confidence idiom **“nine times out of ten”**; it is not misread as a numbered Ten Corpses reveal. Quilt's later demon identity remains withheld.
 - PASS — Quilt's demonic stench is weaker than Vikir remembers before regression but remains dangerous.
 - PASS — four masked escorts are source-revealed by name: **Ephebo, Pedo, Hebe, Geronto**.
 - PASS — Ephebo continuity matches target 140: upper/advanced Graduator-class undead, Quovadis blunt-weapon technique, prior impalement and escape during self-destruction.
