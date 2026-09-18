@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **197 / 500 accepted; next Chapter 198.** Latest accepted family: **target 197 — Preparing for the Festival**.
+Current checkpoint: **202 / 500 accepted; next Chapter 203.** Latest accepted family: **targets 198–202 — The Corpse Queen (1)–(5)**.
 
-The next verified family is **The Corpse Queen, targets 198–202**, mapped **198→E196 through 202→E200**. Target 203 begins **Mixed Bath (1)** and maps to E201.
+The next verified family is **Mixed Bath, targets 203–205**, mapped **203→E201 through 205→E203**. Target 206 begins **Festival Night (1)** and maps to E204.
 
 ## Current source policy
 
@@ -37,6 +37,20 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Corpse Queen family adds/revalidates:
+
+- **Seere** — Eighth Corpse, Chinese-primary Danger Rating S+.
+- **Corpse Queen** — unnamed female contractor, not future-history Snake Morgue; identity remains guarded.
+- **Rosie Morgue** — Geronto's living identity, revealed only in target 202.
+- **Peri necklace** — canonical name, without identifying the skeleton as Peri.
+- **Ah'Heman** — returns as an A+ lich with target-94 death continuity preserved.
+- **Flesh-Patch Giant** — Ephebo/Pedo/Hebe composite.
+- **Seventh Fang** — recognized by the Queen, but identity implications remain unrevealed.
+- **Baby Madam lifeline** — rescue setup saves Vikir from the final blast.
+- **First failed assassination** — Rosie evacuates the Corpse Queen.
+- **Mixed Bath** — next family targets 203–205; witnesses E201–E203.
+- **Festival Night** begins target 206 / E204.
 
 The accepted Preparing for the Festival bridge adds/revalidates:
 
@@ -252,15 +266,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–197**:
+Current accepted production evidence covers targets **1–202**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0197.md`
-- `qa/chapter-0001.md` through `chapter-0197.md`
-- accepted family QA through `qa/families/preparing-festival-0197.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0197.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0197.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0202.md`
+- `qa/chapter-0001.md` through `chapter-0202.md`
+- accepted family QA through `qa/families/corpse-queen-0198-0202.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0202.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0202.json`
 
-Latest family QA: `qa/families/preparing-festival-0197.md` — **PASS**.
+Latest family QA: `qa/families/corpse-queen-0198-0202.md` — **PASS**.
 
 ## Editorial quality bar
 
