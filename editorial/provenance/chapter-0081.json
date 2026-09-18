@@ -1,0 +1,91 @@
+{
+  "chapter": 81,
+  "title": "The Saintess (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/081.txt",
+    "blob_sha": "b2ad1726acd434f02ec425e8736f672f4e07ca21",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-080.xhtml",
+    "blob_sha": "292720b33c709d7fb636046cc50c3c3cea2e9eb8",
+    "target_alignment": 81,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/083.txt",
+    "chinese_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "english_path": "source/chapters/chapter-082.xhtml",
+    "english_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "purpose": "both begin Lovesickness (1) target83"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Dolores L. Quovadis",
+        "Quovadis",
+        "Rune Religion",
+        "Ballak Tribe",
+        "Red Death",
+        "Hound of the Night"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0081.md",
+    "blob_sha": "9ce5707df73fb578ba50774c09ae0af87193b87b"
+  },
+  "qa": {
+    "path": "qa/chapter-0081.md",
+    "blob_sha": "088c15acf8afe22fb7b487d973650fb2c4141750",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "divine_shorting",
+      "final": "retain short-selling/borrowing/overdraft analogy as fictional magic-system mechanics",
+      "basis": "Chinese target81"
+    },
+    {
+      "topic": "v nurtured merit",
+      "final": "Vikir can draw limited divine power in sanctuary because prior demon-killing merit remains attached to his soul",
+      "basis": "Chinese target81"
+    },
+    {
+      "topic": "treatment",
+      "final": "retain direct-incision sacred-power fantasy treatment without presenting it as real medical advice",
+      "basis": "Chinese target81"
+    },
+    {
+      "topic": "herbs",
+      "final": "Ballak herbs delay progression/reduce fever and pain; they do not cure Red Death",
+      "basis": "Chinese target81"
+    },
+    {
+      "topic": "motives",
+      "final": "Vikir acts to build priest confidence, obtain holy water, and atone for infections caused by his plan",
+      "basis": "Chinese target81"
+    },
+    {
+      "topic": "dolores_heartbeat",
+      "final": "retain nonsexual source-level adolescent romantic heartbeat",
+      "basis": "Chinese target81"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

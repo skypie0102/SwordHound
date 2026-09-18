@@ -1,0 +1,89 @@
+{
+  "chapter": 80,
+  "title": "The Saintess (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/080.txt",
+    "blob_sha": "207f6ca71403141a65fa7b56706adab81cc1d37d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-079.xhtml",
+    "blob_sha": "f5a35581349ff821b8085433f3f5e7221b3ee5ff",
+    "target_alignment": 80,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/083.txt",
+    "chinese_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "english_path": "source/chapters/chapter-082.xhtml",
+    "english_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "purpose": "both begin Lovesickness (1) target83"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Dolores L. Quovadis",
+        "Quovadis",
+        "Red Death",
+        "Hound of the Night"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0080.md",
+    "blob_sha": "8587821735a14b453f53a71be1dbbf52823c92c7"
+  },
+  "qa": {
+    "path": "qa/chapter-0080.md",
+    "blob_sha": "6de7aaa54e03f3babaa4e4b4bc2d399d1f9dc600",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "water_system",
+      "final": "retain 42 registered wells plus unknown private wells and groundwater-connected purification strategy",
+      "basis": "Chinese target80"
+    },
+    {
+      "topic": "trials",
+      "final": "retain purification testing progression 1a through 3c",
+      "basis": "Chinese target80"
+    },
+    {
+      "topic": "red_death_design",
+      "final": "retain relapse/short incubation/slow death and narrator inference of deliberate malicious engineering",
+      "basis": "Chinese target80"
+    },
+    {
+      "topic": "dolores_condition",
+      "final": "retain overwork and mild anemia",
+      "basis": "Chinese target80"
+    },
+    {
+      "topic": "ward",
+      "final": "retain explicit ward filth and wealthy followers fleeing without embellishment",
+      "basis": "Chinese target80"
+    },
+    {
+      "topic": "age_tone",
+      "final": "attention toward sixteen-year-old Dolores is rendered nonsexually as social/courtship attention",
+      "basis": "safety + source semantics"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

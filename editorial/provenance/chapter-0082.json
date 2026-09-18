@@ -1,0 +1,117 @@
+{
+  "chapter": 82,
+  "title": "The Saintess (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "family_qa_path": "qa/families/saintess-0078-0082.md",
+    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/082.txt",
+    "blob_sha": "704f31d597c22867b02a29e256029d3c428c0fa3",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-081.xhtml",
+    "blob_sha": "51f77bde7626a47169fb61b26b27cdbb16fda8b8",
+    "target_alignment": 82,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/083.txt",
+    "chinese_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "english_path": "source/chapters/chapter-082.xhtml",
+    "english_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "purpose": "both begin Lovesickness (1) target83"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Humbert L. Quovadis",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Humbert L. Quovadis"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Quovadis Family",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Old Testament Faction",
+        "New Testament Faction",
+        "Quovadis"
+      ]
+    },
+    {
+      "site": "aligned recovered English witness",
+      "page_title": "The Saintess (5)",
+      "retrieval_mode": "corpus_alignment",
+      "applies_to": [
+        "Plany de la Verge",
+        "Saintess's Tears"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Dolores L. Quovadis",
+        "Mozgus Quovadis",
+        "Leviathan Clan",
+        "Bourgeois Clan",
+        "Hound of the Night"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0082.md",
+    "blob_sha": "74a893872c2f5226a35660e2d7b26d07c5f03812"
+  },
+  "qa": {
+    "path": "qa/chapter-0082.md",
+    "blob_sha": "96459e6550502949bd23eb280348ce0a723783ba",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "holy_water",
+      "final": "three drops of Plany de la Verge / Saintess's Tears produced; one drop can cleanse the slum-scale outbreak",
+      "basis": "Chinese target82"
+    },
+    {
+      "topic": "humbert_name",
+      "final": "use Humbert L. Quovadis canonical form; do not import later adoptive-family reveal",
+      "basis": "Chinese identity semantics + current Fandom canonical name"
+    },
+    {
+      "topic": "pet_name",
+      "final": "render Chinese 小妖精 as little sprite; do not reproduce sexualized English gloss for a sixteen-year-old",
+      "basis": "Chinese semantics + safety"
+    },
+    {
+      "topic": "evidence",
+      "final": "Leviathan black serpent dagger + Bourgeois gold nail-and-hammer button; reject E81 scythe-and-hammer conflict",
+      "basis": "Chinese target82"
+    },
+    {
+      "topic": "arrest",
+      "final": "Humbert orders Hound arrested/interrogated; Dolores openly defends him",
+      "basis": "Chinese target82"
+    },
+    {
+      "topic": "endpoint",
+      "final": "Hound vanished through broken window; one Saintess's Tear missing; Dolores realizes his purpose",
+      "basis": "Chinese target82"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

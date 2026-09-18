@@ -9,6 +9,20 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Saintess additions — Chapters 78–82
+
+- **The Saintess** — normalized production family title for targets 78–82.
+- **Dolores L. Quovadis** — canonical form; sixteen during this family.
+- **Humbert L. Quovadis** — canonical Fandom form; do not use raw/recovered reduplication.
+- **Nabokov I Quovadis** — Pope-level Quovadis authority named in target 79.
+- **Plany de la Verge / Saintess's Tears** — three highly concentrated holy-water drops produced in target 82.
+- **Old Testament Faction / New Testament Faction** — Quovadis internal factions.
+- **Target-79 case correction** — first slum cluster has primary waterborne cases only; no secondary cases yet.
+- **Divine-power short selling / borrowing / overdraft** — fantasy magic-system mechanic introduced in target 81.
+- **Bourgeois target-82 emblem** — Chinese source says **nail and hammer**; E81's scythe-and-hammer is rejected.
+- **Lovesickness** — next family targets 83–84; 83→E82, 84→E83.
+- **The Illiad** — begins target 85 / E84.
+
 ## The Hound of the Night additions — Chapters 75–77
 
 - **The Hound of the Night** — normalized production family title for targets 75–77 and Vikir's masked alias.

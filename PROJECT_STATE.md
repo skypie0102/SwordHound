@@ -2,37 +2,40 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 77  
+**Accepted:** 82  
 **Staged:** 0  
-**Next chapter:** 78
+**Next chapter:** 83
 
 ## Current accepted checkpoint
 
-Twenty-two complete title families have passed the restarted workflow, through:
+Twenty-three complete title families have passed the restarted workflow, through:
 
-- Chapters 72–74 — *The Red Death (1)–(3)*
 - Chapters 75–77 — *The Hound of the Night (1)–(3)*
+- Chapters 78–82 — *The Saintess (1)–(5)*
 
-Latest family QA: `qa/families/hound-night-0075-0077.md` — **PASS**.
+Latest family QA: `qa/families/saintess-0078-0082.md` — **PASS**.
 
-## The Hound of the Night family decisions
+## The Saintess family decisions
 
-- Verified mapping: **75→E74, 76→E75, 77→E76**.
-- Physical `075.txt` is a combined 75–76 container with no internal target-76 heading and no safe source-level seam.
-- Target 75 = Chinese body + scoped E74 missing close; target 76 = scoped E75 missing opening/context + Chinese body.
-- Target 75 travel duration is normalized to **four days** from the explicit 2+1+1 itinerary plus E74.
-- Pomeranian is entrusted to Chihuahua in Underdog City; Cindywendy/Judy/jungle-trade continuity is preserved.
-- Target 76 retains Vikir's deliberate Red Death well contamination as fictional narrative wrongdoing without added biological instructions; he warns children away before seeking immediate Quovadis intervention.
-- **Dolores L. Quovadis** is source/canonically normalized without importing her target-78 age/profile early.
-- Target 77 source-reveals **Mozgus Quovadis**. Current combat estimate: between Mid and High Sword Graduator.
-- Vikir remains High Sword Graduator and uses **Kilogram Hammer — Oxbear (A)**, six Fangs, and **Incinerate — Cerberus (A+)**.
-- Mozgus is defeated one-on-one but not killed. The family ends when Dolores appears personally.
+- Verified shifted mapping: **78→E77, 79→E78, 80→E79, 81→E80, 82→E81**.
+- **Dolores L. Quovadis** is sixteen, second-year, student-council vice president, and an early-admission/top-ranked prodigy in target 78.
+- Dolores's admiration/heartbeat material remains source-level and nonsexual.
+- Target 79 Chinese controls that the first Saint Mecca cluster consists of **primary waterborne cases only; no secondary cases yet**.
+- Dolores heals **six** early patients with one tear/prayer miracle.
+- Target 80 retains **42 registered wells** plus unregistered wells and purification trials **1a–3c**.
+- Target 81's divine-power borrowing / short-selling / overdraft is fantasy magic-system material only; Ballak herbs delay symptoms rather than curing Red Death.
+- Target 82 produces **three drops of Plany de la Verge / Saintess's Tears**.
+- **Humbert L. Quovadis** follows the current canonical Fandom form; later family-history/adoption details remain chronology-blocked.
+- **Old Testament Faction / New Testament Faction** are retained.
+- Chinese **nail-and-hammer** Bourgeois emblem overrides E81's `scythe and hammer`.
+- Chinese `小妖精` is rendered nonsexually as **little sprite**; the sexualized English gloss attached to the raw is not reproduced.
+- The family ends after the Hound vanishes and one Saintess's Tear is missing.
 
 ## Next verified title family
 
-- **Target Chapters 78–82 — The Saintess (1)–(5)**
-- Verified mapping: **78→E77, 79→E78, 80→E79, 81→E80, 82→E81**.
-- Target Chapter 83 begins **Lovesickness (1)** and aligns to **E82**.
+- **Target Chapters 83–84 — Lovesickness (1)–(2)**
+- Verified mapping: **83→E82, 84→E83**.
+- Target Chapter 85 begins **The Illiad (1)** and aligns to **E84**.
 
 ## Source authority
 
@@ -55,4 +58,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Hound of the Night (1)–(3), targets 75–77** checkpoint, then branch from merged main for **The Saintess, targets 78–82**. Use the verified shifted witnesses E77–E81, preserve Dolores/Mozgus reveal chronology, reconstruct and QA the whole family, then continue into **Lovesickness (1)**.
+Merge the clean **The Saintess (1)–(5), targets 78–82** checkpoint, then branch from merged main for **Lovesickness, targets 83–84**. Use the verified shifted witnesses E82–E83, preserve Aiyen/Akwilla/Vikir continuity, QA the complete two-part family, and continue into **The Illiad** at target 85.
