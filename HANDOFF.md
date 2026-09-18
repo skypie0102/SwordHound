@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Saintess acceptance checkpoint
 - **Working branch:** `editorial/restart-saintess-family`
 - **Base main checkpoint:** `83965483c0e2798d237cd885115da3880ca4530d` (PR #28, Hound of the Night 75–77, merged)
-- **Current PR:** pending
+- **Current PR:** #29 — `Rebuild The Saintess Chapters 78–82`
+- **Pre-PR-stamp branch head:** `1dae614ef1dfa05e787ea5befcb3d7d89d22efe1`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
