@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 154,
+  "accepted_count": 157,
   "staged_count": 0,
-  "next_chapter": 155,
+  "next_chapter": 158,
   "active_title_family": {
-    "name": "How to Keep Your Night Shift Employees Safe",
+    "name": "Familiar Face",
     "range": [
-      155,
-      157
+      158,
+      161
     ],
-    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 158,
-    "following_title": "Familiar Face (1)",
-    "alignment_note": "155→E154,156→E155,157→E156;158→E157"
+    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 162,
+    "following_title": "Sin and Punishment (1)",
+    "alignment_note": "158→E157,159→E158,160→E159,161→E160;162→E161"
   },
   "chapters": [
     {
@@ -2171,6 +2171,48 @@
       "acceptance": "qa/acceptance/chapter-0154.json",
       "acceptance_sha": "a87de4a2d0a447d00378c597a5ff36f8a87dd238",
       "family_qa": "qa/families/drinking-game-0152-0154.md"
+    },
+    {
+      "chapter": 155,
+      "title": "How to Keep Your Night Shift Employees Safe (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/155.txt",
+      "english_mtl_reference": "source/chapters/chapter-154.xhtml",
+      "draft": "manuscript/drafts/chapter-0155.md",
+      "qa": "qa/chapter-0155.md",
+      "provenance": "editorial/provenance/chapter-0155.json",
+      "acceptance": "qa/acceptance/chapter-0155.json",
+      "acceptance_sha": "9e6fcf9e58a995c1da42016036aeccfd4f2b8ffa",
+      "family_qa": "qa/families/night-shift-safety-0155-0157.md"
+    },
+    {
+      "chapter": 156,
+      "title": "How to Keep Your Night Shift Employees Safe (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/156.txt",
+      "english_mtl_reference": "source/chapters/chapter-155.xhtml",
+      "draft": "manuscript/drafts/chapter-0156.md",
+      "qa": "qa/chapter-0156.md",
+      "provenance": "editorial/provenance/chapter-0156.json",
+      "acceptance": "qa/acceptance/chapter-0156.json",
+      "acceptance_sha": "05200a0d945ba80aea8139c52bd7245b7842828c",
+      "family_qa": "qa/families/night-shift-safety-0155-0157.md"
+    },
+    {
+      "chapter": 157,
+      "title": "How to Keep Your Night Shift Employees Safe (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/157.txt",
+      "english_mtl_reference": "source/chapters/chapter-156.xhtml",
+      "draft": "manuscript/drafts/chapter-0157.md",
+      "qa": "qa/chapter-0157.md",
+      "provenance": "editorial/provenance/chapter-0157.json",
+      "acceptance": "qa/acceptance/chapter-0157.json",
+      "acceptance_sha": "2596f7eba9215447c384be0982b3e3b5af0c8929",
+      "family_qa": "qa/families/night-shift-safety-0155-0157.md"
     }
   ]
 }
