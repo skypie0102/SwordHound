@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Hunter and Hunted acceptance + 54/55 source repair
 - **Working branch:** `editorial/restart-hunter-hunted-family`
 - **Base main checkpoint:** `78647c415ffcbb15d23c3e456380c8ca85717975` (PR #22, Slaves of the Savage Tribe 52–54, merged)
-- **Current PR:** pending
+- **Current PR:** #23 — `Rebuild The Hunter and the Hunted Chapters 55–60`
+- **Pre-PR-stamp branch head:** `94408137b9568c9e4158721900849a669eb3179b`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
