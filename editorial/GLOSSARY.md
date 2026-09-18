@@ -9,6 +9,18 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Illiad additions — Chapters 85–89
+
+- **The Illiad** — production family title and Ballak life-and-death honor duel used when an irreconcilable dispute must be settled by force.
+- **Silent Heel — Mushuhushu (A+)** — target-85 Beelzebub ability reproducing silent movement; replaces Tough Life.
+- **Post-Ka'ah Beelzebub slots** — Slot 1 Incinerate — Cerberus (A+); Slot 2 Silent Heel — Mushuhushu (A+); Slot 3 Kilogram Hammer — Oxbear (A).
+- **Ka'ah** — exceptional old Mushuhushu; target85 numeric description ~40 m, >5 tons, ~3 m body diameter.
+- **Ah'Heman / Leviathan** — target86 explicitly confirms knowing collaboration and deliberate Red Death release.
+- **Ah'Heman letters** — target87 correspondence is forged by Vikir; underlying collusion is still real from target86.
+- **Rokoko origin** — source-revealed for Ah'Heman in target89 via corpse-reanimation witchcraft.
+- **The Ghosts of the Ancestors** — next family targets 90–94, mapped E89–E93.
+- **Madam Eight-Legs** — begins target 95 / E94.
+
 ## Lovesickness additions — Chapters 83–84
 
 - **Lovesickness** — normalized production family title for targets 83–84.
