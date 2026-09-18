@@ -1,0 +1,66 @@
+{
+  "chapter": 207,
+  "title": "Festival Night (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/207.txt",
+    "blob_sha": "580d4a27f5766da7f68efa9e97dd9f9c512f8a09",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-205.xhtml",
+    "blob_sha": "22abaf32cd3794a2d54d7807ab07113f51d9de3f",
+    "target_alignment": 207,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0207.md",
+    "blob_sha": "18e6c64c52de518629988600f4729fd1d9b7a063"
+  },
+  "qa": {
+    "path": "qa/chapter-0207.md",
+    "blob_sha": "4085be3f7fdb78590e76c1497832fd379e30b4cb",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_costume",
+      "final": "Dolores keeps Night Hound costume despite Banshee disapproval",
+      "basis": "Chinese C207"
+    },
+    {
+      "topic": "plague_mask",
+      "final": "Plague-doctor mask predates Night Hound and is normal Halloween wear",
+      "basis": "Chinese C207"
+    },
+    {
+      "topic": "food_criticism",
+      "final": "Banshee food insults remain source comedy",
+      "basis": "Chinese C207"
+    },
+    {
+      "topic": "cook_reveal",
+      "final": "Vikir is the unexpectedly expert Ryukeion cook",
+      "basis": "Chinese C207"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}
