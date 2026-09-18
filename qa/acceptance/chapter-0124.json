@@ -1,0 +1,43 @@
+{
+  "chapter": 124,
+  "title": "The Hunt for the Second Son (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/124.txt",
+    "primary_source_sha": "2c4ff0b5c44575758764afe8d09a726f576de330",
+    "english_reference_path": "source/chapters/chapter-123.xhtml",
+    "english_reference_sha": "5ea0de65a922e2948f7ba37fa137a9fe8b3f9578",
+    "draft_path": "manuscript/drafts/chapter-0124.md",
+    "draft_sha": "8114a7553a9cd68fcccd49206c4ca54ec7290558",
+    "qa_path": "qa/chapter-0124.md",
+    "qa_sha": "4043ed73036f3c2fa98517bdf11b1cfc429c33d5",
+    "provenance_path": "editorial/provenance/chapter-0124.json",
+    "provenance_sha": "8ee98b8de3a75fff46b9c92a8868b0a24b2ee6f3"
+  },
+  "canonical_checks": [
+    "Hugo Le Baskerville",
+    "Osiris Le Baskerville",
+    "Boston Terrier Le Baskerville",
+    "Great Dane Le Baskerville",
+    "Staffordshire Baskerville",
+    "Pit Bull Knights",
+    "Andromalius"
+  ],
+  "documented_limits": [
+    "Andromalius fear is localized to Seth's body's conditioned fear of Hugo.",
+    "Vikir's statement about Seth dying young is acknowledged as partly strategic/uncertain.",
+    "Osiris's beheading is not the final kill; Hugo destroys the escaping head/spirit."
+  ]
+}
