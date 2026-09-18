@@ -1,0 +1,44 @@
+{
+  "chapter": 139,
+  "title": "Men are Power (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Men are Power",
+    "range": [
+      139,
+      140
+    ],
+    "family_qa_path": "qa/families/men-are-power-0139-0140.md",
+    "family_qa_sha": "1afcfad688880997aabc8b5a4d3362bae51ef5ee",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/139.txt",
+    "primary_source_sha": "29e3a8d69342fe6060038c06042102ed6d352146",
+    "english_reference_path": "source/chapters/chapter-138.xhtml",
+    "english_reference_sha": "a04b8fb16ee9f246de51fbc30247009e6e48e3d8",
+    "draft_path": "manuscript/drafts/chapter-0139.md",
+    "draft_sha": "1e049fb5a8d7ca1654bc1ab41400c50ea1fc11a0",
+    "qa_path": "qa/chapter-0139.md",
+    "qa_sha": "be19e166853fa65af11817b6a5b74243eedae20a",
+    "provenance_path": "editorial/provenance/chapter-0139.json",
+    "provenance_sha": "1be8ff2274ec7287289538e4c82ad6c42e606531"
+  },
+  "canonical_checks": [
+    "Venomphion",
+    "Professor Banshee Morgue",
+    "Sinclaire",
+    "Bianca Fo Usher",
+    "Peak Sword Graduator",
+    "Quovadis",
+    "Doxeller"
+  ],
+  "documented_limits": [
+    "Venomphion second-stinger knowledge is source-timed here.",
+    "Doxeller's Sword Master assumption does not upgrade Vikir's rank.",
+    "Quovadis technique is a clue, not proof against the entire house.",
+    "Ephebo's name/master remain target140+ material."
+  ]
+}
