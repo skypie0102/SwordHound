@@ -1,5 +1,35 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Hunter and the Hunted (1)–(6) accepted under corrected source mapping
+
+**Current state:** 60 / 500 accepted; 0 staged; next Chapter 61.
+
+Completed targets 55–60 and repaired the previously incorrect 54/55 source assumption.
+
+Resolved source mapping:
+
+- target 55 = E55 missing opening/title boundary + target-55 Chinese body appended inside physical `054.txt`
+- 56→E56
+- target 57 has no clean standalone recovered-English counterpart
+- 58→E57
+- 59→E58
+- 60→E59
+- E60 belongs to target 61
+
+The corrected target 54 now ends at the hunt-offer/dawn-departure setup and has been re-QA'd/re-hash-bound. `source/chinese/chapter-exceptions.tsv` records `054.txt` as a combined/overlapping 54–55 container.
+
+Family QA: `qa/families/hunter-hunted-0055-0060.md` — **PASS**.
+
+Key work:
+- preserved the Ballak hunting rite, Ahun conflict, and Aiyen punishment in target 55 rather than duplicating them in 54;
+- retained target 57's Chinese-only Ahun/boar and Oxbear-selection material;
+- preserved Oxbear reproductive ecology clinically/non-erotically;
+- retained bone/flesh-sucking mosquito hazards and Cold Valley survival scenes;
+- preserved the target-60 Oxbear kill, Aiyen's Low Sword Graduator aura, and Beelzebub **Incinerate — Cerberus (A+)**;
+- preserved the closing Ballak reproductive contingency joke without erotic expansion.
+
+Next family: **target Chapters 61–63 — The Protagonist of Hunting**, mapped **61→E60, 62→E61, 63→E62**. Target 64 begins **Unfair Trade (1)** and maps to E63.
+
 ## 2026-09-18 — Slaves of the Savage Tribe (1)–(3) accepted under restarted workflow
 
 **Current state:** 54 / 500 accepted; 0 staged; next Chapter 55.
