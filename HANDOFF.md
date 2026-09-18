@@ -5,21 +5,21 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Night Shift Safety acceptance checkpoint
-- **Working branch:** `editorial/restart-night-shift-safety-0155-0157`
-- **Base main checkpoint:** `58336510460f5053d10c5546d76b89d045e79d92` (Drinking Game checkpoint merged)
-- **Current PR:** #47 — `Rebuild Night Shift Safety Chapters 155–157`
+- **Updated by:** ChatGPT — Familiar Face acceptance checkpoint
+- **Working branch:** `editorial/restart-familiar-face-0158-0161`
+- **Base main checkpoint:** `99c126d678fc9687dcf130b14c57742961df157e` (Night Shift Safety checkpoint merged)
+- **Current PR:** #48 — `Rebuild Familiar Face Chapters 158–161`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **157 / 500**
+- **Accepted:** **161 / 500**
 - **Staged:** **0**
-- **Next:** **158**
-- **Latest family:** targets **155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**
-- **Family QA:** `qa/families/night-shift-safety-0155-0157.md` — PASS — `62cf748051afcf6df30bf9b0bef0546443fea7f3`
-- **Next family:** targets **158–161 — Familiar Face (1)–(4)**
-- **Following family:** target **162 — Sin and Punishment (1)**
+- **Next:** **162**
+- **Latest family:** targets **158–161 — Familiar Face (1)–(4)**
+- **Family QA:** `qa/families/familiar-face-0158-0161.md` — PASS — `7bbf0675eebad6e338b69dd12f567f6948c561c2`
+- **Next family:** targets **162–169 — Sin and Punishment (1)–(8)**
+- **Following family:** target **170 — Adorable Pet (1)**
 
 ## Core rules
 
@@ -31,31 +31,39 @@
 
 ## Key decisions
 
-- Vikir's party blame serves both as repayment for previous-timeline Dolores and as Night Hound operational cover.
-- Volunteer repairs are source-revealed as infiltration infrastructure through the four dormitory rings.
-- The fourteen night-worker rules remain intact and contradictory where the source is contradictory.
-- **Rule 3** bans all sexual activity; recovered-English narrowing is rejected.
-- **Rules 4 / 14** remain unresolved by design.
-- **Peri** controls the HELP ME / looping-corridor sequence.
-- **Dolores** is explicitly seventeen in target 157.
-- Dolores follows the Night Hound to talk, not arrest him.
-- Shared **Red Death / Saint Meka** experience informs Vikir's comradeship interpretation.
-- **Ephebo** is the first high-ranking undead guard to appear in this night sequence and remains outside Ten Corpse status.
+- **Ephebo** remains a high-ranking undead subordinate rather than a Ten Corpse.
+- Target 158 source-reveals **Quilt Rune Indulgentia as a Demon King-class demon**; later personal demon naming remains withheld.
+- **Seventh Fang** controls the seven-tooth Baskerville technique.
+- Ephebo's host is **Mozgus Quovadis's Old Testament twin brother**. Do not invent a stable English twin name from the unstable extraction.
+- Target 159 source-reveals **the Ninth Corpse** behind the face-stealing/corrupted-undead network; later personal name/epithet remains source-timed for the next family.
+- **Camus Morgue** remains a concern in target 159, then target 161 explicitly proves **Geronto is not Camus**.
+- **Silent Heel — Mushuhushu** and **Super Regeneration — Swamp Marsh Salamander** are production canonical forms.
+- **Pedo = Staffordshire Baskerville**.
+- **Hebe** is Donquixote-affiliated by tattoo; exact personal identity remains unrevealed.
+- Recent great-house grave robberies suggest corpses themselves are being harvested for undead creation.
+- All four black face coverings are recovered; combined demonic power approaches Beelzebub, exact provenance still withheld.
+- Ephebo, Hebe, Pedo, and Geronto are all eliminated before Quilt appears.
 
-## Next family — Familiar Face 158–161
+## Next family — Sin and Punishment 162–169
 
 | Target | Chinese SHA | English witness | English SHA |
 |---|---|---|---|
-| 158 | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | E157 | `91d67d8d59d68825a4779fe641605572fdff43ab` |
-| 159 | `8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d` | E158 | `3c7c17917f56fd16b0400a2baa8f8ea093a203d6` |
-| 160 | `9eff893be76f824143b62d96a0786e3231640510` | E159 | `eef7b095585fff9b1d3e3cb29a8f6563e8842654` |
-| 161 | `73a757520b40ef0438a9b3873511f190cd16588d` | E160 | `5c5e33eba33c4d9836193d6bbb29cca53770a817` |
-| boundary 162 | `680770fdf7b23729571a227210cf1346b0a82774` | E161 | `2cce07a6f2cc14c6860fee7a3ca615a3d70e001d` |
+| 162 | `680770fdf7b23729571a227210cf1346b0a82774` | E161 | `2cce07a6f2cc14c6860fee7a3ca615a3d70e001d` |
+| 163 | `7331200ebbc8dcaf5fa30a95290c77a7f98c26d3` | E162 | `8a18b6dd050a973c222cbd368239c7cd5182c836` |
+| 164 | `76950b77a3e36a795c12a5a0b3430c99397870fb` | E163 | `0ef1f1df2dcc988e6a7f73925b6e36a3e791a891` |
+| 165 | `273b653625d710a42fb936579b557299162526e3` | E164 | `2cec77c4a60f7c7d1effa3c0e018976f4d0db382` |
+| 166 | `5fb84d087e2a7f3048b3d6fd0096494e7ee95f42` | E165 | `aff6117fe247984bb19553884da81ab4a3ccdc72` |
+| 167 | `51868432649722b2ae41a39858fb4881c4d72b81` | E166 | `4009001cee9c3005c50c3a64a9fc190cdd8d62bb` |
+| 168 | `486de349a751d03201b5fedbc894710eb0d0f7b1` | **no recovered-English witness in current sequence** | — |
+| 169 | `100def7959fe0faec1dc2d892bbf15081925a209` | E167 | `b5de6380956a43497640df2d0d801e03beb1b761` |
+| boundary 170 | `c9640b7a5382c780d05bf0aadd6363dc202a6793` | E168 | `d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b` |
+
+Target 163 has an anomalous Chinese heading, but sequence/content and E162 place it as **Sin and Punishment (2)**.
 
 ## Exact next actions
 
-1. Validate and merge PR #47.
-2. Fresh branch from merged main for **Familiar Face 158–161**.
-3. Read C158–161 against E157–160 fully, with C162/E161 as boundary.
-4. Reconstruct, QA, provenance-bind, and accept all four chapters.
-5. Promote state and continue into **Sin and Punishment**.
+1. Validate and merge PR #48.
+2. Fresh branch from merged main for **Sin and Punishment 162–169**.
+3. Read C162–169 completely against available E161–E167 witnesses.
+4. Treat target 168 as Chinese-primary with no recovered-English counterpart.
+5. Use C170/E168 as the family boundary, reconstruct/QA/provenance-bind/accept all eight chapters.
