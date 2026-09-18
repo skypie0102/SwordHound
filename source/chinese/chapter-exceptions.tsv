@@ -33,3 +33,4 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 119	119.txt	normal_shifted_alignment	118	Verified title-family mapping: Falling in Love (3).
 120	120.txt	normal_shifted_alignment	119	Verified following-family boundary: The Hunt for the Second Son (1).
 170	170.txt	partial_raw_gap	168	Chinese C170 has two visible localized omissions: most of the classmates' embarrassment/give-Vikir-space exchange, and the four black coverings recombining into the Picaresque mask. Restore only those spans from aligned E168; Chinese remains primary elsewhere.
+172	172.txt	overlap_duplicate	170	Chinese C172 begins correctly with Vikir taking Pigi's article, then accidentally repeats the end-of-C171 Pigi-arrives/newspaper-delivery block before resuming the article. Omit only that duplicated overlap; aligned E170 confirms the clean boundary.
