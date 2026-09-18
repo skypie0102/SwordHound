@@ -1,0 +1,42 @@
+{
+  "chapter": 198,
+  "title": "The Corpse Queen (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Corpse Queen",
+    "range": [
+      198,
+      202
+    ],
+    "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
+    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/198.txt",
+    "primary_source_sha": "d26aee9e8aaf10e8255528cced4cc9b7a8c8d296",
+    "english_reference_path": "source/chapters/chapter-196.xhtml",
+    "english_reference_sha": "644da488da68df85b1487d0a5aae178a9c0484d2",
+    "draft_path": "manuscript/drafts/chapter-0198.md",
+    "draft_sha": "c126653d2e228caf648213a42f93dfdfb7bc64cd",
+    "qa_path": "qa/chapter-0198.md",
+    "qa_sha": "7873c08f424991ef64314fdc7d3c2e9b8bff5031",
+    "provenance_path": "editorial/provenance/chapter-0198.json",
+    "provenance_sha": "d68b2826b92b35653ec751fa5a58cc450982296e"
+  },
+  "canonical_checks": [
+    "Baby Madam",
+    "Central Clocktower",
+    "Royal Martyrs' Cemetery",
+    "Anubis",
+    "Geronto",
+    "Eighth Corpse"
+  ],
+  "documented_limits": [
+    "Copycat motive remains Vikir speculation.",
+    "Only some undead are identified as Cindywendy informants."
+  ],
+  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1)."
+}
