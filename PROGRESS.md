@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Great Banquet (1)–(7) accepted
+
+**Current state:** 116 / 500 accepted; 0 staged; next Chapter 117.
+
+Completed targets 110–116 with mapping **110→E109 through 116→E115**.
+
+Key decisions:
+- corrected Hugo's Sword Star/Marquis milestone to about **age 40** from Chinese, rejecting E109's age-fifty drift;
+- preserved Hugo's destabilizing reaction to Pomeranian without resolving the relationship ahead of source chronology;
+- corrected **Lady Roxana's death to illness**, rejecting E110's battle claim;
+- established the Seven Counts' recruitment interest and the Pit Bull/Mastiff knight-order distinction;
+- kept Vikir's public realm at **Intermediate Sword Graduator** while source-revealing hidden **Peak Sword Graduator** strength;
+- reframed Osiris's cold behavior through Vikir's changed perspective without making him overtly affectionate;
+- source-revealed Seth's nonhuman/demonic evidence, child-disappearance link, and old conspiracy trail while withholding the later demon name;
+- preserved uncertainty over Hugo's pre-regression culpability;
+- enforced **Fang, not Form** terminology, including Sixth-Fang Seven Counts versus Vikir's Seventh Fang;
+- rejected unsupported recovered-English proper noun **Yuasa Castle**;
+- ended exactly on Highbro/Middlebro/Lowbro's knight-oath posture.
+
+Family QA: `qa/families/great-banquet-0110-0116.md` — **PASS**.
+
+Next family: **Falling in Love (1)–(3), targets 117–119**, mapped **117→E116 through 119→E118**. Target 120 begins **The Hunt for the Second Son (1)** and maps to E119.
+
 ## 2026-09-18 — The Returned Hero (1)–(5) accepted
 
 **Current state:** 109 / 500 accepted; 0 staged; next Chapter 110.
