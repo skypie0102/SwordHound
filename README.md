@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **104 / 500 accepted; next Chapter 105.** Latest accepted family: **targets 101–104 — Nostalgia (1)–(4)**.
+Current checkpoint: **109 / 500 accepted; next Chapter 110.** Latest accepted family: **targets 105–109 — The Returned Hero (1)–(5)**.
 
-The next verified family is **The Returned Hero, targets 105–109**, mapped **105→E104 through 109→E108**. Target 110 begins **The Great Banquet (1)**.
+The next verified family is **The Great Banquet, targets 110–116**, mapped **110→E109 through 116→E115**. Target 117 begins **Falling in Love (1)** and maps to E116.
 
 ## Current source policy
 
@@ -38,26 +38,28 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Nostalgia family adds/revalidates:
+The accepted Returned Hero family adds/revalidates:
 
-- **Peak Sword Graduator** — Vikir's target-102 formal realm, matching his pre-regression peak.
-- **Seventh Fang** — small/incomplete form first source-revealed in target 102; it does not by itself make Vikir a Sword Master.
-- **Anubis** — completed Adonai black bow after Aiyen adds Madam Eight-Legs webbing as the bowstring.
-- **Madam's egg** — remains inert through the two-month target-104 time skip.
-- **The Returned Hero** — next family spans targets 105–109; witnesses E104–E108.
-- **The Great Banquet** begins target 110 / E109.
+- **The Returned Hero** — production family title for targets 105–109; witnesses E104–E108.
+- **Highsis / Middlesis / Lowsis Morgue** — canonical triplet forms retained; source semantic ordering remains plant / earth / water.
+- **Light Faction / Dark Faction** — Morgue’s practical field branch and secluded research branch respectively.
+- **Snake Morgue** — source-revealed target-107 Dark Faction leader; later plot information remains spoiler-guarded.
+- **Pomeranian La Baskerville** — age five in target 108; corpse revival / negative mana aptitude source-revealed.
+- **Lady Roxana / Penelope La Baskerville / Pomeranian La Baskerville** — canonical lineage forms override target-109 raw-layer name drift.
+- **The Great Banquet** — next family spans targets 110–116; witnesses E109–E115.
+- **Falling in Love** begins target 117 / E116.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–104**:
+Current accepted production evidence covers targets **1–109**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0104.md`
-- `qa/chapter-0001.md` through `chapter-0104.md`
-- accepted family QA through `qa/families/nostalgia-0101-0104.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0104.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0104.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0109.md`
+- `qa/chapter-0001.md` through `chapter-0109.md`
+- accepted family QA through `qa/families/returned-hero-0105-0109.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0109.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0109.json`
 
-Latest family QA: `qa/families/nostalgia-0101-0104.md` — **PASS**.
+Latest family QA: `qa/families/returned-hero-0105-0109.md` — **PASS**.
 
 ## Editorial quality bar
 

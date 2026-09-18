@@ -1,0 +1,59 @@
+{
+  "chapter": 105,
+  "title": "The Returned Hero (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/105.txt",
+    "blob_sha": "6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-104.xhtml",
+    "blob_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
+    "target_alignment": 105,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0105.md",
+    "blob_sha": "d6595091591e73bc14d2f67c134e8b16335f82ee"
+  },
+  "qa": {
+    "path": "qa/chapter-0105.md",
+    "blob_sha": "dd8d9d8e631b06e8161679c7b9a57997a10d5061",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "statue_reveal",
+      "final": "golden Red Salt Castle monument is revealed only at the end as Vikir",
+      "basis": "Chinese target105"
+    },
+    {
+      "topic": "hero_legend",
+      "final": "guards’ account is intentionally exaggerated; Adolf’s actual role is not rewritten into the legend",
+      "basis": "Chinese target105 + target106 continuity"
+    },
+    {
+      "topic": "mtl_exclusion",
+      "final": "Mushuhushu-specific stealth attribution and Barren Jade Leaf wording are not imported",
+      "basis": "absent/unsupported in Chinese target105"
+    },
+    {
+      "topic": "boundary",
+      "final": "ends on statue identity; nightly applause belongs to target106",
+      "basis": "family continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

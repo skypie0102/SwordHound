@@ -1,0 +1,45 @@
+{
+  "chapter": 109,
+  "title": "The Returned Hero (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/109.txt",
+    "primary_source_sha": "a4b8c0eb87ada15c6209a4ff378481ed52254a21",
+    "english_reference_path": "source/chapters/chapter-108.xhtml",
+    "english_reference_sha": "034d1229f1517566c52fedd012b3960b5c6ede7b",
+    "draft_path": "manuscript/drafts/chapter-0109.md",
+    "draft_sha": "138dde967b661bee173f7565a63281d662cbb79b",
+    "qa_path": "qa/chapter-0109.md",
+    "qa_sha": "f23f3dfca4e1b1e7ac3cec773614978f57ca1ab6",
+    "provenance_path": "editorial/provenance/chapter-0109.json",
+    "provenance_sha": "59dbc92eee3a095f2bcdf1c367593afdc55ce7c6"
+  },
+  "canonical_checks": [
+    "Hugo Le Baskerville",
+    "John Barrymore",
+    "Ballak",
+    "Rokoko",
+    "Bourgeois Clan",
+    "Night Fox",
+    "Lady Roxana",
+    "Penelope La Baskerville",
+    "Pomeranian La Baskerville"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Raw-layer personal-name drift is normalized to already accepted Fandom-backed English forms.",
+    "No target-110 Great Banquet material is imported backward."
+  ]
+}

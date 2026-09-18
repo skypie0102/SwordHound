@@ -2,37 +2,36 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 104  
+**Accepted:** 109  
 **Staged:** 0  
-**Next chapter:** 105
+**Next chapter:** 110
 
 ## Current accepted checkpoint
 
-Twenty-eight complete title families have passed the restarted workflow, through:
+Twenty-nine complete title families have passed the restarted workflow, through:
 
-- Chapters 95–100 — *Madam Eight-Legs (1)–(6)*
 - Chapters 101–104 — *Nostalgia (1)–(4)*
+- Chapters 105–109 — *The Returned Hero (1)–(5)*
 
-Latest family QA: `qa/families/nostalgia-0101-0104.md` — **PASS**.
+Latest family QA: `qa/families/returned-hero-0105-0109.md` — **PASS**.
 
-## Nostalgia family decisions
+## The Returned Hero family decisions
 
-- Verified mapping: **101→E100 through 104→E103**.
-- Target 101 deliberately reprises the cliff-impact / Madam-death / Beelzebub-slot sequence; the repetition exists in the source.
-- Target 102: Vikir reaches **Peak Sword Graduator**, matching his pre-regression peak, while remaining below Sword Master.
-- A small/incomplete **Seventh Fang** is source-revealed in target 102; Fang depth does not equal aura realm.
-- Target 103's Bakira breeding assistance is retained briefly/non-graphically as animal husbandry.
-- Target 104 skips two months; Bakira has five pups and Madam's egg remains inert.
-- Akwilla and the floodland tribes explicitly affirm Vikir as permanent family and future ally.
-- Aiyen restores Adonai's bow with Madam webbing; the completed weapon is source-named **Anubis**.
-- Vikir is seventeen and Aiyen nineteen; their farewell kiss is brief/nonsexual.
-- Family ends before target 105's golden-statue / Returned Hero reveal.
+- Verified mapping: **105→E104 through 109→E108**.
+- Target 105 reveals the huge Red Salt Castle golden monument as Vikir; the guards’ hero story is intentionally exaggerated.
+- Target 106 reintroduces **Highsis / Middlesis / Lowsis Morgue** with accepted Chinese-controlled plant / earth / water ordering.
+- Target 107: **Camus**, not Adolf, is the member who leaves the Light Faction for **Snake Morgue’s Dark Faction**. The raw’s isolated subject slip is repaired from immediate context and indexed Fandom evidence.
+- Target 108 corrects two recovered-English substitutions: the white-carpet joke uses **coffee**, and Vikir’s visit purpose is **reporting survival / return alive**, not “reunion.”
+- Target 108 establishes the unresolved Underdog child-abduction case and **Pomeranian La Baskerville’s** corpse-revival / negative-mana aptitude at age five.
+- Target 109 preserves Hugo’s unexpectedly warm reunion, Vikir’s Ballak-protection trade strategy, Hugo’s explicit Rokoko extermination demand, and Hugo’s unprecedented shock on seeing Pomeranian.
+- Raw-layer Lucina/Freya/Firian-type naming drift is normalized to accepted **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**.
+- Family ends before target 110 continues Hugo/Pomeranian and begins the Great Banquet sequence.
 
 ## Next verified title family
 
-- **Target Chapters 105–109 — The Returned Hero (1)–(5)**
-- Verified mapping: **105→E104, 106→E105, 107→E106, 108→E107, 109→E108**.
-- Target Chapter 110 begins **The Great Banquet (1)** and aligns to **E109**.
+- **Target Chapters 110–116 — The Great Banquet (1)–(7)**
+- Verified mapping: **110→E109, 111→E110, 112→E111, 113→E112, 114→E113, 115→E114, 116→E115**.
+- Target Chapter 117 begins **Falling in Love (1)** and aligns to **E116**.
 
 ## Source authority
 
@@ -55,4 +54,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **Nostalgia (1)–(4), targets 101–104** checkpoint, then branch from merged main for **The Returned Hero, targets 105–109**. Read C105–109 + E104–108 completely with C110/E109 as the boundary, reconstruct and QA all five chapters, then continue into **The Great Banquet**.
+Merge the clean **The Returned Hero (1)–(5), targets 105–109** checkpoint, then branch from merged main for **The Great Banquet, targets 110–116**. Read C110–116 + E109–115 completely with C117/E116 as the boundary, reconstruct and QA all seven chapters, then continue into **Falling in Love**.

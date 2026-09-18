@@ -1,0 +1,64 @@
+{
+  "chapter": 107,
+  "title": "The Returned Hero (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/107.txt",
+    "blob_sha": "82d49db27edbc0919b02dea0e0442618bc3b54db",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-106.xhtml",
+    "blob_sha": "b580c3cf7d206e90265480540bb08a13aa59549c",
+    "target_alignment": 107,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0107.md",
+    "blob_sha": "7457cbe0f816aa85c4e2bcb889e3589150299d87"
+  },
+  "qa": {
+    "path": "qa/chapter-0107.md",
+    "blob_sha": "0c94bd77100603cec89672cf97bc0e5801b34302",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "camus_referent_repair",
+      "final": "Camus, not Adolf, leaves the Light Faction; immediate Chinese context and indexed Fandom agree",
+      "basis": "Chinese target107 local referent context + indexed Fandom"
+    },
+    {
+      "topic": "factions",
+      "final": "Light Faction rendered as practical/field branch; Dark Faction as secluded research/development branch",
+      "basis": "Chinese target107"
+    },
+    {
+      "topic": "snake_morgue",
+      "final": "Snake Morgue introduced only as Dark Faction leader, archmage/Marquis, Raspane relative and future-known figure",
+      "basis": "Chinese target107 + indexed Fandom canonical spelling"
+    },
+    {
+      "topic": "poppy",
+      "final": "white horse with pink ears named Poppy; Highsis’s verbal slip retained",
+      "basis": "Chinese target107"
+    },
+    {
+      "topic": "message",
+      "final": "Vikir asks Camus to meet and to leave the Dark Faction",
+      "basis": "Chinese target107"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Returned Hero (1)–(5) accepted
+
+**Current state:** 109 / 500 accepted; 0 staged; next Chapter 110.
+
+Completed targets 105–109 with mapping **105→E104 through 109→E108**.
+
+Key decisions:
+- retained Red Salt Castle’s deliberately exaggerated Vikir hero legend and golden-statue reveal;
+- preserved Highsis/Middlesis/Lowsis with accepted plant/earth/water ordering;
+- repaired target 107’s local subject drift so **Camus**, not Adolf, leaves the Light Faction for **Snake Morgue’s Dark Faction**;
+- kept Snake’s target-107 reveal chronology narrow and spoiler-safe;
+- corrected target 108 to **coffee** for the improvised red-carpet joke and **reporting survival / return alive** for Vikir’s visit purpose;
+- preserved the unresolved serial child-abduction case without inventing a culprit;
+- source-revealed five-year-old **Pomeranian La Baskerville** animating a dead rat with negative mana / corpse revival;
+- retained Hugo’s unexpectedly warm reunion while preserving Vikir’s distrust from his pre-regression execution;
+- preserved Vikir’s Ballak-protection trade strategy and Hugo’s explicit Rokoko extermination demand;
+- normalized target-109 raw-layer name drift to accepted **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**;
+- ended on Hugo’s unprecedented shock at seeing Pomeranian, before target 110’s continuation.
+
+Family QA: `qa/families/returned-hero-0105-0109.md` — **PASS**.
+
+Next family: **The Great Banquet (1)–(7), targets 110–116**, mapped **110→E109 through 116→E115**. Target 117 begins **Falling in Love (1)** and maps to E116.
+
 ## 2026-09-18 — Nostalgia (1)–(4) accepted
 
 **Current state:** 104 / 500 accepted; 0 staged; next Chapter 105.

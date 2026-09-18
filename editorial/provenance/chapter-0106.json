@@ -1,0 +1,64 @@
+{
+  "chapter": 106,
+  "title": "The Returned Hero (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/106.txt",
+    "blob_sha": "90b345956d928fe3d4f0e3f63ce67afa7601a9d2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-105.xhtml",
+    "blob_sha": "a87e013f39bba11650cb28938d27bcc7825e2bd7",
+    "target_alignment": 106,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0106.md",
+    "blob_sha": "484cfa4f595b70c10f1b325a6c999a19a36c9f30"
+  },
+  "qa": {
+    "path": "qa/chapter-0106.md",
+    "blob_sha": "492b26b654e661ca8e82ff54f5e2334e07cd399b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "triplets",
+      "final": "Highsis/Middlesis/Lowsis retained with Chinese-controlled plant/earth/water ordering",
+      "basis": "Chinese target106 + accepted glossary"
+    },
+    {
+      "topic": "legend_correction",
+      "final": "Vikir privately acknowledges Adolf did most allied-force work while his own final stand was real",
+      "basis": "Chinese target106"
+    },
+    {
+      "topic": "camus_search",
+      "final": "Camus searched for Vikir until only weeks before his return",
+      "basis": "Chinese target106"
+    },
+    {
+      "topic": "rank_context",
+      "final": "Highsis’s Bind scene retains the triplets’ near-Third-Circle context",
+      "basis": "Chinese target106"
+    },
+    {
+      "topic": "boundary",
+      "final": "ends on public recognition of returned Vikir",
+      "basis": "family continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

@@ -1,0 +1,42 @@
+{
+  "chapter": 107,
+  "title": "The Returned Hero (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/107.txt",
+    "primary_source_sha": "82d49db27edbc0919b02dea0e0442618bc3b54db",
+    "english_reference_path": "source/chapters/chapter-106.xhtml",
+    "english_reference_sha": "b580c3cf7d206e90265480540bb08a13aa59549c",
+    "draft_path": "manuscript/drafts/chapter-0107.md",
+    "draft_sha": "7457cbe0f816aa85c4e2bcb889e3589150299d87",
+    "qa_path": "qa/chapter-0107.md",
+    "qa_sha": "0c94bd77100603cec89672cf97bc0e5801b34302",
+    "provenance_path": "editorial/provenance/chapter-0107.json",
+    "provenance_sha": "cad352ab40b06ad1209f3216d4cd4a689a0d68ee"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Adolf Morgue",
+    "Snake Morgue",
+    "Raspane Morgue",
+    "Light Faction",
+    "Dark Faction"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Chinese contains a local Adolf/Camus subject slip; immediate context plus indexed Fandom establish Camus as the defector.",
+    "Later Snake/Camus plot information from Fandom is spoiler-guarded."
+  ]
+}

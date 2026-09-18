@@ -1,3 +1,19 @@
+## The Returned Hero additions — Chapters 105–109
+
+- **The Returned Hero** — production family title for targets 105–109; verified witnesses E104–E108.
+- **Red Salt Castle hero monument** — enormous golden Vikir statue erected by Morgue during his two-year absence; surrounding heroic oral history is deliberately exaggerated.
+- **Highsis Morgue / Middlesis Morgue / Lowsis Morgue** — reaffirmed canonical triplet forms. Chinese semantic ordering remains **plant / earth / water** respectively.
+- **Light Faction** — Morgue branch focused on practical/field magic, monster subjugation, construction, and external work.
+- **Dark Faction** — Morgue branch focused on secluded magical research/development.
+- **Snake Morgue** — target-107 source reveal; accepted canonical form for the Dark Faction leader, an archmage/Marquis and Raspane relative. Later necromancy/resurrection events remain chronology-guarded.
+- **Camus faction shift** — target 107 local raw subject slip is resolved contextually: **Camus**, not Adolf, leaves Adolf’s Light Faction and joins Snake’s Dark Faction. Indexed Fandom independently matches this reading.
+- **Trust Won by Moving the Stake** — reaffirmed target 108 for 移木之信; do not use recovered-English “Faith of the Tree.”
+- **Unsolved Serial Child Abduction Case** — target-108 Underdog investigation; culprit remains unrevealed in this family.
+- **Pomeranian La Baskerville** — target 108 reaffirms age five and source-reveals corpse-revival / negative-mana aptitude.
+- **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** — canonical lineage forms retained in target 109 despite Chinese raw-layer Lucina/Freya/Firian-type drift.
+- **The Great Banquet** — next family targets 110–116; witnesses E109–E115.
+- **Falling in Love** — begins target 117 / E116.
+
 ## Nostalgia additions — Chapters 101–104
 
 - **Nostalgia** — production family title for targets 101–104.

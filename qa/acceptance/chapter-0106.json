@@ -1,0 +1,40 @@
+{
+  "chapter": 106,
+  "title": "The Returned Hero (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/106.txt",
+    "primary_source_sha": "90b345956d928fe3d4f0e3f63ce67afa7601a9d2",
+    "english_reference_path": "source/chapters/chapter-105.xhtml",
+    "english_reference_sha": "a87e013f39bba11650cb28938d27bcc7825e2bd7",
+    "draft_path": "manuscript/drafts/chapter-0106.md",
+    "draft_sha": "484cfa4f595b70c10f1b325a6c999a19a36c9f30",
+    "qa_path": "qa/chapter-0106.md",
+    "qa_sha": "492b26b654e661ca8e82ff54f5e2334e07cd399b",
+    "provenance_path": "editorial/provenance/chapter-0106.json",
+    "provenance_sha": "cfdc500c1f8b4014e94f2eeccd36888591de5516"
+  },
+  "canonical_checks": [
+    "Highsis Morgue",
+    "Middlesis Morgue",
+    "Lowsis Morgue",
+    "Camus Morgue",
+    "Hugo Le Baskerville"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Triplet element ordering follows accepted Chinese-controlled project continuity."
+  ]
+}

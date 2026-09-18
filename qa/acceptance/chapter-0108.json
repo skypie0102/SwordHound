@@ -1,0 +1,42 @@
+{
+  "chapter": 108,
+  "title": "The Returned Hero (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/108.txt",
+    "primary_source_sha": "1ff78b25ce13e6d371e39ff8e90ee470586bc83d",
+    "english_reference_path": "source/chapters/chapter-107.xhtml",
+    "english_reference_sha": "330e4b2f308c2a16ae51af1c6793714df8ec9621",
+    "draft_path": "manuscript/drafts/chapter-0108.md",
+    "draft_sha": "f630e8cfccd4f2cefdcac67457262e0b73e9d514",
+    "qa_path": "qa/chapter-0108.md",
+    "qa_sha": "ac4b084031af7a281060dcee97b6afb5c1914000",
+    "provenance_path": "editorial/provenance/chapter-0108.json",
+    "provenance_sha": "e35bff697ac7d901d8a73d622b1e4523ff572c87"
+  },
+  "canonical_checks": [
+    "Underdog City",
+    "Chihuahua Baskerville",
+    "Cindywendy",
+    "Pomeranian La Baskerville",
+    "Rokoko",
+    "Trust Won by Moving the Stake"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Recovered-English blood-carpet joke and Reunion form field are rejected in favor of Chinese coffee and survival/return-alive meanings.",
+    "No culprit is inferred for the child-abduction case."
+  ]
+}
