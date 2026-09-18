@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 138,
+  "accepted_chapters": 140,
   "staged_chapters": 0,
-  "next_chapter": 139,
+  "next_chapter": 141,
   "latest_accepted_family": {
-    "name": "Test Your Skills",
-    "range": [
-      133,
-      138
-    ],
-    "family_qa": "qa/families/test-your-skills-0133-0138.md"
-  },
-  "next_title_family": {
     "name": "Men are Power",
     "range": [
       139,
       140
     ],
-    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 141,
-    "following_title": "Identity of the Villain (1)",
-    "alignment_note": "139→E138,140→E139;141→E140"
+    "family_qa": "qa/families/men-are-power-0139-0140.md"
+  },
+  "next_title_family": {
+    "name": "Identity of the Villain",
+    "range": [
+      141,
+      143
+    ],
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 144,
+    "following_title": "Volunteering for the Golden Week (1)",
+    "alignment_note": "141→E140,142→E141,143→E142;144→E143"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -200,14 +200,16 @@
     135,
     136,
     137,
-    138
+    138,
+    139,
+    140
   ],
   "notes": [
-    "Chapters 133-138 are accepted as Test Your Skills (1)-(6).",
-    "Professor Banshee Morgue, Ballak theory challenge, written score corrections, Naphtali practical, buzzer-beater/overtime, and Venomphion research are accepted through target138.",
-    "Recognizable quoted verse in target133 is paraphrased while Tudor's characterization is preserved.",
-    "Vikir's second-stinger statement ends target138; its explanation remains target139 material.",
-    "Next family targets139-140 — Men are Power (1)-(2), mapped 139→E138 and 140→E139. Target141 begins Identity of the Villain (1) and maps to E140.",
+    "Chapters 139-140 are accepted as Men are Power (1)-(2).",
+    "Target139 source-reveals the Venomphion's concealed abdominal second stinger through Banshee's specimen test while present Academy classification remains A.",
+    "Bianca's explicit strength criterion, Doxeller's trafficking/demonic collaboration, and Vikir's Peak Sword Graduator continuity are preserved.",
+    "Target140 source-reveals Ephebo, preserves Seven Fangs / incomplete Seventh Fang chronology, Doxeller's failsafe, the child-transfer ledgers, and Dolores recovering the half-burned Night Hound mask.",
+    "Next family targets141-143 — Identity of the Villain (1)-(3), mapped 141→E140 through 143→E142. Target144 begins Volunteering for the Golden Week (1) and maps to E143.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
