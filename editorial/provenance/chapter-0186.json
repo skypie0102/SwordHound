@@ -1,0 +1,66 @@
+{
+  "chapter": 186,
+  "title": "Aftermath (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Aftermath",
+    "range": [
+      186,
+      189
+    ],
+    "family_qa_path": "qa/families/aftermath-0186-0189.md",
+    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/186.txt",
+    "blob_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-184.xhtml",
+    "blob_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "target_alignment": 186,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0186.md",
+    "blob_sha": "bd5b059d45d07d8b89ff7c8a885ac7a5535fd6a8"
+  },
+  "qa": {
+    "path": "qa/chapter-0186.md",
+    "blob_sha": "51ddb8a2b824d5e0270eefce756173308bb66371",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "public_rank",
+      "final": "Use Sword Expert Advanced for Vikir's public rescue level; reject isolated C186 Sword Master drift",
+      "basis": "C186 + E184 + accepted C185 no-Graduator constraint"
+    },
+    {
+      "topic": "research",
+      "final": "Killer Ant research formalizes Worker bio-compass and Soldier skull weaknesses",
+      "basis": "Chinese C186"
+    },
+    {
+      "topic": "copycats",
+      "final": "Two Night Hound imitators are separate from Vikir; one admiration-motivated, one unknown",
+      "basis": "Chinese C186"
+    },
+    {
+      "topic": "ten_corpses",
+      "final": "Andromalius and Dantalian dead; eight Demon Kings remain; next lead needs one month analysis",
+      "basis": "Chinese C186"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/190.txt",
+    "chinese_sha": "090ea8b431f3d46a7c53469a4f2c0b4c621eef38",
+    "english_path": "source/chapters/chapter-188.xhtml",
+    "english_sha": "14dcf17305b925b422bc79656578fb236858c9c3",
+    "purpose": "both begin Attack Land (1), target190"
+  }
+}
