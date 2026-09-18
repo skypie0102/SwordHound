@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Test Your Skills (1)–(6) accepted
+
+**Current state:** 138 / 500 accepted; 0 staged; next Chapter 139.
+
+Completed targets 133–138 with mapping **133→E132 through 138→E137**.
+
+Key decisions: source-timed Pigi prior-life reveal; paraphrased Tudor chivalric quote; Banshee Morgue / written-exam corrections; Ballak theory challenge; Vikir 990/990; Naphtali rules, buzzer-beater, Sancho strength test and deliberate concealment; post-match appearance attention; Venomphion taxonomy and second-stinger boundary.
+
+Family QA: `qa/families/test-your-skills-0133-0138.md` — **PASS**.
+
+Next verified family: **139–140 — Men are Power (1)–(2)**. Target **141** begins *Identity of the Villain (1)*.
+
 ## 2026-09-18 — The Freshman Talent Show (1)–(3) accepted
 
 **Current state:** 132 / 500 accepted; 0 staged; next Chapter 133.
