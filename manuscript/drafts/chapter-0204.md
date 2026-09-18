@@ -140,7 +140,9 @@ Their expressions said everything.
 
 Dolores looked up.
 
-“…Do you know that animal abuse can be an early warning sign for later violent crime?”
+“…Most serial killers begin by abusing animals.”
+
+“Does that sound familiar?”
 
 Everyone stiffened.
 
