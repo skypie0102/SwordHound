@@ -1,0 +1,96 @@
+{
+  "chapter": 84,
+  "title": "Lovesickness (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Lovesickness",
+    "range": [
+      83,
+      84
+    ],
+    "family_qa_path": "qa/families/lovesickness-0083-0084.md",
+    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/084.txt",
+    "blob_sha": "33dfc17db6705dd71aff5095081d95e7f903e55b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-083.xhtml",
+    "blob_sha": "ab01dd2680467843c542744d55429afbe7b48113",
+    "target_alignment": 84,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/085.txt",
+    "chinese_sha": "a6689c93a2c3810a0a22526f649c060fef1a6407",
+    "english_path": "source/chapters/chapter-084.xhtml",
+    "english_sha": "1a33d19bdc16b0b80a945744015bc8414e506ce7",
+    "purpose": "both begin The Illiad (1) target85"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir",
+        "Aiyen",
+        "Akwilla",
+        "Ahun",
+        "Aheul",
+        "Ballak Tribe",
+        "Rokoko",
+        "Leviathan Clan",
+        "Baskerville",
+        "Red Death",
+        "Saintess's Tears"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0084.md",
+    "blob_sha": "9808a44919d1c1d0f7e1303087f0487488ea4e2f"
+  },
+  "qa": {
+    "path": "qa/chapter-0084.md",
+    "blob_sha": "5da7b3d290eed421d5ef58fcc74ebbbe12209744",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "aheul",
+      "final": "Saintess's Tears cures Aheul before vial opening via emitted divine light",
+      "basis": "Chinese target84"
+    },
+    {
+      "topic": "counts",
+      "final": "about 30 Ballak patients and thousands across other tribes; reject E83 tens-of-thousands inflation",
+      "basis": "Chinese target84"
+    },
+    {
+      "topic": "strategy",
+      "final": "Vikir intends to convert plague relief into durable tribal influence and pressure against Baskerville",
+      "basis": "Chinese target84"
+    },
+    {
+      "topic": "river",
+      "final": "one drop purifies shared river source and suppresses Red Death across gathered tribes",
+      "basis": "Chinese target84"
+    },
+    {
+      "topic": "renaissance",
+      "final": "retain Renaissance as aligned working name for berserker tribe absent stronger canonical evidence",
+      "basis": "Chinese target84 + E83"
+    },
+    {
+      "topic": "title_payoff",
+      "final": "Aiyen's blush persists after holy water; lovesickness, not Red Death, completes family joke",
+      "basis": "Chinese target84"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
