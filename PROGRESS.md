@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Freshman Talent Show (1)–(3) accepted
+
+**Current state:** 132 / 500 accepted; 0 staged; next Chapter 133.
+
+Completed targets 130–132 with mapping **130→E129 through 132→E131**.
+
+Key decisions: military-song wording paraphrased with memorial function preserved; Pigi's false exemption and harassment kept source-timed; Sinclaire/Bianca/Dolores recognition pressure preserved without later reveals; Night Hound retaliation kept outcome-faithful but non-gratuitous.
+
+Family QA: `qa/families/freshman-talent-show-0130-0132.md` — **PASS**.
+
+Next verified family: targets **133–138 — Test Your Skills (1)–(6)**. Target **139** begins *Men are Power (1)*.
+
 ## 2026-09-18 — Admission to the Academy (1)–(4) accepted
 
 **Current state:** 129 / 500 accepted; 0 staged; next Chapter 130.
