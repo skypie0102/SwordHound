@@ -1,0 +1,71 @@
+{
+  "chapter": 217,
+  "title": "My Neck Will Be Your Sheath (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
+    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/217.txt",
+    "blob_sha": "938e3e6279d82a515e2a746207b67f57cbb418e7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-215.xhtml",
+    "blob_sha": "1d0cde61f3f2971d05546ffca54359daa43d6639",
+    "target_alignment": 217,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0217.md",
+    "blob_sha": "d4b53a7ba674eb2c790437c84165444c0bfdd2a8"
+  },
+  "qa": {
+    "path": "qa/chapter-0217.md",
+    "blob_sha": "c9cdd032bccc158bdd8f854d03dd1e2724e09a52",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "roommate_contract",
+      "final": "Camus/Seere are roommates splitting control in twelve-hour halves",
+      "basis": "Chinese C217"
+    },
+    {
+      "topic": "complete_resurrection",
+      "final": "Art of Complete Resurrection spends caster life and requires target remains",
+      "basis": "Chinese C217"
+    },
+    {
+      "topic": "mana_surge",
+      "final": "Failed resurrection leaves Camus half-brain-dead/half-alive; Seere then offers contract",
+      "basis": "Chinese C217"
+    },
+    {
+      "topic": "baby_madam",
+      "final": "Baby Madam silk traps full-control Seere long enough for Vikir attack",
+      "basis": "Chinese C217"
+    },
+    {
+      "topic": "only_you",
+      "final": "End on Vikir: Only you will die",
+      "basis": "Chinese C217"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/220.txt",
+    "chinese_sha": "8f768db48cb1b62930c38bf5f924bb5176a6e63c",
+    "english_path": "source/chapters/chapter-218.xhtml",
+    "english_sha": "c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3",
+    "purpose": "both begin That Day, Him and Me (1), target220"
+  }
+}
