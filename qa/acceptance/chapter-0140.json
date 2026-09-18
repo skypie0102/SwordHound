@@ -1,0 +1,43 @@
+{
+  "chapter": 140,
+  "title": "Men are Power (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Men are Power",
+    "range": [
+      139,
+      140
+    ],
+    "family_qa_path": "qa/families/men-are-power-0139-0140.md",
+    "family_qa_sha": "1afcfad688880997aabc8b5a4d3362bae51ef5ee",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/140.txt",
+    "primary_source_sha": "cdd9a996413b8b25bbdd467eba1d00c8a83f313f",
+    "english_reference_path": "source/chapters/chapter-139.xhtml",
+    "english_reference_sha": "c6f7fa7bc85cc6035c3f5df0be667b4cda9e1f52",
+    "draft_path": "manuscript/drafts/chapter-0140.md",
+    "draft_sha": "ed3cbfb7e7e0577b3c83e25b68d8169efdacfb9d",
+    "qa_path": "qa/chapter-0140.md",
+    "qa_sha": "c8b593872067217dc644a1ec78942e51907369db",
+    "provenance_path": "editorial/provenance/chapter-0140.json",
+    "provenance_sha": "ce70e8d8580329accca07487518243fa13ae4ab8"
+  },
+  "canonical_checks": [
+    "Ephebo",
+    "Seven Fangs",
+    "Beelzebub",
+    "Cindywendy",
+    "Dolores L. Quovadis",
+    "Ten Corpses"
+  ],
+  "documented_limits": [
+    "Ephebo's later master identity remains spoiler-guarded.",
+    "Interrogation/torture detail is rendered non-gratuitously while preserving evidence mechanics.",
+    "Target140 ends on Dolores finding the half-burned mask.",
+    "No Identity of the Villain material is imported."
+  ]
+}
