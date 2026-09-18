@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Not Brother, But Uncle (1)–(2) accepted
+
+**Current state:** 151 / 500 accepted; 0 staged; next Chapter 152.
+
+Completed targets 150–151 with mapping **150→E149, 151→E150**.
+
+Key decisions: target 150 explicitly reveals **Peri is thirteen**; the Big Brother→**Uncle** correction is the family-title core; Vikir's parent worldview remains character perspective; Sinclaire stays seventeen and female with later Bourgeois identity spoiler-guarded; Dolores's curiosity remains source-timed only; and Vikir joins Tudor's nighttime social gathering solely as cover for the Night Hound assassination attempt.
+
+Family QA: `qa/families/not-brother-0150-0151.md` — **PASS**.
+
+Next verified family: **152–154 — The Drinking Game (1)–(3)**. Target **155** begins *How to Keep Your Night Shift Employees Safe (1)*.
+
 ## 2026-09-18 — Volunteering for the Golden Week (1)–(6) accepted
 
 **Current state:** 149 / 500 accepted; 0 staged; next Chapter 150.
