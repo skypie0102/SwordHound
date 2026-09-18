@@ -1,0 +1,71 @@
+{
+  "chapter": 109,
+  "title": "The Returned Hero (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/109.txt",
+    "blob_sha": "a4b8c0eb87ada15c6209a4ff378481ed52254a21",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-108.xhtml",
+    "blob_sha": "034d1229f1517566c52fedd012b3960b5c6ede7b",
+    "target_alignment": 109,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/110.txt",
+    "chinese_sha": "b02e3225fee0f4da4fa440e01751c5c6c2915a6c",
+    "english_path": "source/chapters/chapter-109.xhtml",
+    "english_sha": "475816122100c441e23204e7b4d86b18b89a248b",
+    "purpose": "both begin The Great Banquet (1) target110"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0109.md",
+    "blob_sha": "138dde967b661bee173f7565a63281d662cbb79b"
+  },
+  "qa": {
+    "path": "qa/chapter-0109.md",
+    "blob_sha": "f23f3dfca4e1b1e7ac3cec773614978f57ca1ab6",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "hugo_reunion",
+      "final": "Hugo personally rushes to Vikir and shows unexpected warmth without probing Vikir’s strength",
+      "basis": "Chinese target109"
+    },
+    {
+      "topic": "ballak_plan",
+      "final": "Vikir presents trade/monster-hunting as control while privately using it to prevent Baskerville-Ballak war",
+      "basis": "Chinese target109"
+    },
+    {
+      "topic": "rokoko",
+      "final": "Hugo explicitly excludes Rokoko from trade and orders extermination; Vikir strategically does not challenge him here",
+      "basis": "Chinese target109"
+    },
+    {
+      "topic": "canonical_name_repair",
+      "final": "raw-layer Lucina/Freya/Firian variants normalized to Lady Roxana / Penelope La Baskerville / Pomeranian La Baskerville",
+      "basis": "accepted project forms + indexed Fandom"
+    },
+    {
+      "topic": "boundary",
+      "final": "ends on Hugo’s unprecedented shocked expression at Pomeranian; Great Banquet material stays in target110",
+      "basis": "C109/C110 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

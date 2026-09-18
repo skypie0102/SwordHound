@@ -1,0 +1,69 @@
+{
+  "chapter": 108,
+  "title": "The Returned Hero (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/108.txt",
+    "blob_sha": "1ff78b25ce13e6d371e39ff8e90ee470586bc83d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-107.xhtml",
+    "blob_sha": "330e4b2f308c2a16ae51af1c6793714df8ec9621",
+    "target_alignment": 108,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0108.md",
+    "blob_sha": "f630e8cfccd4f2cefdcac67457262e0b73e9d514"
+  },
+  "qa": {
+    "path": "qa/chapter-0108.md",
+    "blob_sha": "ac4b084031af7a281060dcee97b6afb5c1914000",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "idiom",
+      "final": "移木之信 remains accepted Trust Won by Moving the Stake",
+      "basis": "Chinese target108 + accepted Ch31 terminology"
+    },
+    {
+      "topic": "carpet_joke",
+      "final": "white carpet is jokingly reddened with coffee, not blood",
+      "basis": "Chinese target108 overrides E107"
+    },
+    {
+      "topic": "visit_purpose",
+      "final": "Vikir writes reporting survival / return alive, not Reunion",
+      "basis": "Chinese target108 overrides E107"
+    },
+    {
+      "topic": "abduction_case",
+      "final": "unresolved serial child-abduction case retained without identifying a culprit",
+      "basis": "Chinese target108"
+    },
+    {
+      "topic": "pomeranian_magic",
+      "final": "Pomeranian age five animates a dead rat through negative mana/corpse revival; Rokoko learning is uncertain",
+      "basis": "Chinese target108"
+    },
+    {
+      "topic": "boundary",
+      "final": "ends on Hugo arriving at City Hall",
+      "basis": "family continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
