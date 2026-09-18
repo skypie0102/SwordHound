@@ -1,0 +1,43 @@
+{
+  "chapter": 179,
+  "title": "Midterm Random Defense (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/179.txt",
+    "primary_source_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
+    "english_reference_path": "source/chapters/chapter-177.xhtml",
+    "english_reference_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
+    "draft_path": "manuscript/drafts/chapter-0179.md",
+    "draft_sha": "d87b7ec507b26b6dd68eb8b6dddad99b77d0efe5",
+    "qa_path": "qa/chapter-0179.md",
+    "qa_sha": "82badcdeb2d2b6635fcd9a0bd0013964cecf87ed",
+    "provenance_path": "editorial/provenance/chapter-0179.json",
+    "provenance_sha": "5dde6f21500f972564978d0f6041f95251638453"
+  },
+  "canonical_checks": [
+    "Killer Ant",
+    "Filthy Spawning Grounds",
+    "Pigi",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville"
+  ],
+  "documented_limits": [
+    "Pigi remains male despite Chinese pronoun drift.",
+    "No later bloodline information is imported.",
+    "Midterm/final mechanics remain source-scoped."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}
