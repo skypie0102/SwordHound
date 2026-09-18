@@ -2,40 +2,42 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 119  
+**Accepted:** 125  
 **Staged:** 0  
-**Next chapter:** 120
+**Next chapter:** 126
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 110–116 — *The Great Banquet (1)–(7)*
 - Chapters 117–119 — *Falling in Love (1)–(3)*
+- Chapters 120–125 — *The Hunt for the Second Son (1)–(6)*
 
-Latest family QA: `qa/families/falling-in-love-0117-0119.md` — **PASS**.
+Latest family QA: `qa/families/hunt-second-son-0120-0125.md` — **PASS**.
 
-## Falling in Love family decisions
+## Hunt for the Second Son family decisions
 
-- Verified mapping: **117→E116, 118→E117, 119→E118**.
-- Target 117 preserves the Colosseo Academy notice, Vikir's source-faithful **“I'll go”** acceptance, and his choice of Highbro / Middlebro / Lowbro.
-- The triplets' oath continues the target-116 boundary: they surrender their lives to Vikir as their chosen master and reaffirm themselves as the **Baskerville Trident**.
-- The triplets know Vikir had already reached **Intermediate Sword Graduator** two years earlier and keep his hidden growth secret.
-- Vikir's Academy objectives remain twofold: escape Hugo's close observation to build strength and work through his pre-regression blacklist.
-- Raw-layer family-name drift is normalized to established **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** continuity.
-- Target 118 reaffirms that Roxana died of illness shortly after Penelope's birth and that Penelope's Rokoko abduction drove Hugo's move to the frontier and the later growth of the Ironblood Sword House.
-- Hugo recognizes his handmade pendant and Vikir reveals that Penelope left behind a daughter.
-- Target 119 confirms Pomeranian's lineage through inherited traits, Rokoko provenance, the pendant, and her memories of Penelope.
-- Pomeranian's account of the monster blocking Penelope's return is normalized to accepted **Madam Eight-Legs** continuity; Vikir states that he killed it.
-- Hugo openly thanks Vikir and bows; Osiris learns that he need not suppress every trace of warmth, without rewriting his broader personality.
-- The family ends with Vikir asking to borrow **all seven Baskerville Knight Orders for half a day** to hunt a dangerous monster hiding inside Baskerville.
-- No target-120 Seth cave, demon dialogue, child-murder, gate-plan, or combat material is imported backward.
+- Verified mapping: **120→E119 through 125→E124**.
+- Target 120 exposes Seth's hidden child-killing cave and Gate preparations but keeps the possessing demon unnamed.
+- Target 121 source-reveals **Andromalius — Tenth Corpse — Danger Level S+** and defines the Ten Corpses as Demon Kings plus their human vessels.
+- Vikir's hidden combat level is **Peak Sword Graduator** with the **Seventh Fang**; references to deeper eighth/ninth/tenth Baskerville techniques are not promoted into unsupported present mastery.
+- Beelzebub can damage spiritual bodies; current slots remain **Venom — Madam Eight-Legs (S), Silent Heel — Mushuhushu (A+), Super High-Speed Regeneration — Bog Salamander (A+)**.
+- Andromalius's blood-drain authority is countered by Vikir's poisoned blood.
+- **Anubis** is the legendary black bow formerly wielded by Adonai.
+- Target 123 ends with Hugo, Osiris, the Seven Counts, and seven knight orders totaling roughly **700 Sword Graduators** answering Vikir's signal.
+- During the half-day reward window, Vikir temporarily commands Baskerville's military force and orders the hounds to kill Andromalius.
+- Osiris's beheading is not the final kill; Hugo's seven blood-red lightninglike slashes erase Andromalius's remaining body and soul.
+- Target 125 handles the public compensation/punishment aftermath, memorials, political purge, and investigation into the remaining Ten Corpses.
+- Canonical **Nute Baskerville** controls Noot/Nut drift.
+- Nute's source indictment includes a new **“murder of the First Lady”** allegation. It is retained as target-125 evidence without retroactively rewriting earlier statements that Lady Roxana died of illness, because the source does not reconcile the accounts.
+- Vikir's reading of Hugo's purge as political consolidation remains Vikir's analysis rather than narrator-certified motive.
+- No target-126 Academy-admission content is imported backward.
 
 ## Next verified title family
 
-- **Targets 120–125 — The Hunt for the Second Son (1)–(6)**
-- Verified mapping: **120→E119, 121→E120, 122→E121, 123→E122, 124→E123, 125→E124**
-- Target 126 begins **Admission to the Academy (1)** and aligns to **E125**.
+- **Targets 126–129 — Admission to the Academy (1)–(4)**
+- Verified mapping: **126→E125, 127→E126, 128→E127, 129→E128**
+- Target 130 begins **The Freshman Talent Show (1)** and aligns to **E129**.
 
 ## Source authority
 
@@ -58,4 +60,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **Falling in Love, targets 117–119** checkpoint, then branch from merged main for **The Hunt for the Second Son, targets 120–125**. Read C120–125 against E119–124 completely with C126/E125 as the boundary, reconstruct and QA the six-chapter family, then continue into **Admission to the Academy**.
+Merge the clean **The Hunt for the Second Son, targets 120–125** checkpoint, then branch from merged main for **Admission to the Academy, targets 126–129**. Read C126–129 against E125–128 completely with C130/E129 as the boundary, reconstruct and QA the four-chapter family, then continue into **The Freshman Talent Show**.

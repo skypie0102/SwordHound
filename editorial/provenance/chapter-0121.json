@@ -1,0 +1,66 @@
+{
+  "chapter": 121,
+  "title": "The Hunt for the Second Son (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/121.txt",
+    "blob_sha": "8361e87f0d379ed6e05fbe2504e0eaed69636700",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-120.xhtml",
+    "blob_sha": "ba7c96996f6090d2e596700ab2d88810d6b0d3e7",
+    "target_alignment": 121,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0121.md",
+    "blob_sha": "258e14cd08510d9a5790a042d7f77de135e77eeb"
+  },
+  "qa": {
+    "path": "qa/chapter-0121.md",
+    "blob_sha": "8c53c86c15b4b96381000aa722f971d91584ea09",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "ten_corpses",
+      "final": "Ten Corpses are ten Demon Kings and their ten human vessels",
+      "basis": "Chinese C121 + canonical group name"
+    },
+    {
+      "topic": "andromalius_reveal",
+      "final": "Andromalius is source-revealed here as Tenth Corpse, Danger Level S+",
+      "basis": "Chinese C121 + canonical Fandom register"
+    },
+    {
+      "topic": "higher_fangs",
+      "final": "eighth/ninth/tenth references remain deeper knowledge, not unsupported present mastery",
+      "basis": "Chinese C121 + project anti-overclaim rule"
+    },
+    {
+      "topic": "seth_residue",
+      "final": "source allows Seth to have died by hanging before possession while memories/personality remain",
+      "basis": "Chinese C121; uncertainty retained"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/126.txt",
+    "chinese_sha": "0b203c5861b7401737f33d82d33f5e9cf3f282dc",
+    "english_path": "source/chapters/chapter-125.xhtml",
+    "english_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
+    "purpose": "both begin Admission to the Academy (1), target126"
+  }
+}

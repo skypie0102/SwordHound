@@ -1,0 +1,44 @@
+{
+  "chapter": 125,
+  "title": "The Hunt for the Second Son (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/125.txt",
+    "primary_source_sha": "5223309f0edcb43c1fa1d18fafd7a38ecb81be3e",
+    "english_reference_path": "source/chapters/chapter-124.xhtml",
+    "english_reference_sha": "f9b8cd36750f08861f0feb62a62454ecfbd21496",
+    "draft_path": "manuscript/drafts/chapter-0125.md",
+    "draft_sha": "e2ece44fa09a28b1d2304400172db09b1935a85d",
+    "qa_path": "qa/chapter-0125.md",
+    "qa_sha": "3c47456e8c4a61c178d53fd3c9e60f90bbd8a6b4",
+    "provenance_path": "editorial/provenance/chapter-0125.json",
+    "provenance_sha": "919e2b0d89d79133797ca5885514b67bec254f0d"
+  },
+  "canonical_checks": [
+    "Nute Baskerville",
+    "Vikir Special Law",
+    "Cindywendy",
+    "Pomeranian La Baskerville",
+    "Lady Roxana",
+    "Penelope La Baskerville",
+    "John Barrymore",
+    "Colosseo Academy"
+  ],
+  "documented_limits": [
+    "First-Lady murder charge is retained as a target125 allegation without retroactively rewriting earlier illness statements.",
+    "Hugo political-consolidation motive remains Vikir's analysis.",
+    "No target126 Academy-admission content is imported."
+  ]
+}

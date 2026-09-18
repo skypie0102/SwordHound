@@ -1,0 +1,43 @@
+{
+  "chapter": 121,
+  "title": "The Hunt for the Second Son (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/121.txt",
+    "primary_source_sha": "8361e87f0d379ed6e05fbe2504e0eaed69636700",
+    "english_reference_path": "source/chapters/chapter-120.xhtml",
+    "english_reference_sha": "ba7c96996f6090d2e596700ab2d88810d6b0d3e7",
+    "draft_path": "manuscript/drafts/chapter-0121.md",
+    "draft_sha": "258e14cd08510d9a5790a042d7f77de135e77eeb",
+    "qa_path": "qa/chapter-0121.md",
+    "qa_sha": "8c53c86c15b4b96381000aa722f971d91584ea09",
+    "provenance_path": "editorial/provenance/chapter-0121.json",
+    "provenance_sha": "4640713a500a933260f3ffdd0b7771f783d74dbd"
+  },
+  "canonical_checks": [
+    "Andromalius",
+    "Tenth Corpse",
+    "Ten Corpses",
+    "Danger Level S+",
+    "Serpent's Womb",
+    "Seventh Fang",
+    "Peak Sword Graduator"
+  ],
+  "documented_limits": [
+    "Higher-Fang references are not converted into unsupported present mastery.",
+    "Residual Seth memory/personality remains source-level uncertainty.",
+    "Early Corpse kill is a delay to the Age, not guaranteed prevention."
+  ]
+}

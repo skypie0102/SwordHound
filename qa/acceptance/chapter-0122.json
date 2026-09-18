@@ -1,0 +1,42 @@
+{
+  "chapter": 122,
+  "title": "The Hunt for the Second Son (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/122.txt",
+    "primary_source_sha": "338e5f6a7e4324c506513103a62c62d50100e304",
+    "english_reference_path": "source/chapters/chapter-121.xhtml",
+    "english_reference_sha": "fea7ada031929b77357ff5eee3de89740feef851",
+    "draft_path": "manuscript/drafts/chapter-0122.md",
+    "draft_sha": "e602bde57f5b6e492f13b3baa6b0ef10558f700d",
+    "qa_path": "qa/chapter-0122.md",
+    "qa_sha": "152ab2de104f26f247a33b893eb68e54b5eecad5",
+    "provenance_path": "editorial/provenance/chapter-0122.json",
+    "provenance_sha": "2f053f4ddd1d99522161a3f4641a6fd24ab08b12"
+  },
+  "canonical_checks": [
+    "Andromalius",
+    "Beelzebub",
+    "Sword Master",
+    "Styx",
+    "Madam Eight-Legs",
+    "Ten Corpses"
+  ],
+  "documented_limits": [
+    "Repeated info window retained from source.",
+    "Spiritual-body mechanics follow C122 rather than witness simplifications.",
+    "Seth psychological remnants remain uncertain rather than narrator-certified."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "chapter": 122,
+  "title": "The Hunt for the Second Son (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/122.txt",
+    "blob_sha": "338e5f6a7e4324c506513103a62c62d50100e304",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-121.xhtml",
+    "blob_sha": "fea7ada031929b77357ff5eee3de89740feef851",
+    "target_alignment": 122,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0122.md",
+    "blob_sha": "e602bde57f5b6e492f13b3baa6b0ef10558f700d"
+  },
+  "qa": {
+    "path": "qa/chapter-0122.md",
+    "blob_sha": "152ab2de104f26f247a33b893eb68e54b5eecad5",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "window_repeat",
+      "final": "repeat Andromalius S+ window at opening",
+      "basis": "present in both C122 and E121"
+    },
+    {
+      "topic": "spiritual_damage",
+      "final": "Beelzebub and aura/magic/holy weapons can affect Andromalius's spiritual body",
+      "basis": "Chinese C122"
+    },
+    {
+      "topic": "blood_drain",
+      "final": "fly swarm drains Vikir's blood remotely and restores the host vessel",
+      "basis": "Chinese C122"
+    },
+    {
+      "topic": "poison_counter",
+      "final": "Vikir's blood carries Madam Eight-Legs venom and poisons Andromalius when drained",
+      "basis": "Chinese C122"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/126.txt",
+    "chinese_sha": "0b203c5861b7401737f33d82d33f5e9cf3f282dc",
+    "english_path": "source/chapters/chapter-125.xhtml",
+    "english_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
+    "purpose": "both begin Admission to the Academy (1), target126"
+  }
+}

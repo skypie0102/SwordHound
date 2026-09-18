@@ -1,0 +1,66 @@
+{
+  "chapter": 123,
+  "title": "The Hunt for the Second Son (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/123.txt",
+    "blob_sha": "1009bb8136f53bdcfa7fc5d9a7cb46427173cf3a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-122.xhtml",
+    "blob_sha": "f48004b6caee80cebad06bfbab6d0553bb18006d",
+    "target_alignment": 123,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0123.md",
+    "blob_sha": "dee8dcfcab8bbd47556f0bf927aabb9234b1829d"
+  },
+  "qa": {
+    "path": "qa/chapter-0123.md",
+    "blob_sha": "dec4d7e77e463838e2deafb1a0eb98a5cb96e037",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "beelzebub_slots",
+      "final": "Venom—Madam Eight-Legs; Silent Heel—Mushuhushu; Super High-Speed Regeneration—Bog Salamander",
+      "basis": "Chinese C123 + accepted project terminology"
+    },
+    {
+      "topic": "anubis",
+      "final": "Anubis is the legendary black bow formerly wielded by Adonai",
+      "basis": "Chinese C123 + canonical equipment register"
+    },
+    {
+      "topic": "terrain_control",
+      "final": "Vikir poisons air/groundwater to suppress flies and force Andromalius outward",
+      "basis": "Chinese C123"
+    },
+    {
+      "topic": "mobilization",
+      "final": "signal horn summons Hugo, Osiris, Seven Counts and seven orders totaling ~700 Sword Graduators",
+      "basis": "Chinese C123"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/126.txt",
+    "chinese_sha": "0b203c5861b7401737f33d82d33f5e9cf3f282dc",
+    "english_path": "source/chapters/chapter-125.xhtml",
+    "english_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
+    "purpose": "both begin Admission to the Academy (1), target126"
+  }
+}
