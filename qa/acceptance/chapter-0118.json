@@ -1,0 +1,44 @@
+{
+  "chapter": 118,
+  "title": "Falling in Love (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "family_qa_path": "qa/families/falling-in-love-0117-0119.md",
+    "family_qa_sha": "e71b0d5349ebf4b718efe2c29ecc2a260257e773",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/118.txt",
+    "primary_source_sha": "b4230bbe8d49f3ab87ce0240e54189f74712d98c",
+    "english_reference_path": "source/chapters/chapter-117.xhtml",
+    "english_reference_sha": "b183d0b0356beabe4356e97edcfdfeb80471f13d",
+    "draft_path": "manuscript/drafts/chapter-0118.md",
+    "draft_sha": "8d90bea9114c99a3534bbbed3cde169945ebcc43",
+    "qa_path": "qa/chapter-0118.md",
+    "qa_sha": "6eea83754da5b3b192e98bc012d30df069c37a86",
+    "provenance_path": "editorial/provenance/chapter-0118.json",
+    "provenance_sha": "b2dd3e704765c7fc39d6df0c01bf3c8f64029854"
+  },
+  "canonical_checks": [
+    "Lady Roxana",
+    "Penelope La Baskerville",
+    "Pomeranian La Baskerville",
+    "John Barrymore",
+    "Rokoko Clan",
+    "Morgue Clan",
+    "Beelzebub",
+    "Ironblood Sword House"
+  ],
+  "documented_limits": [
+    "Raw Lucina/Freya drift is normalized to accepted Roxana/Penelope continuity.",
+    "Recovered-English corruptions such as 'retarded high marquis' are rejected.",
+    "Vikir's separately known Seth evidence is not exposed to Hugo ahead of source chronology."
+  ]
+}
