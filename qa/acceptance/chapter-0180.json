@@ -1,0 +1,41 @@
+{
+  "chapter": 180,
+  "title": "Midterm Random Defense (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/180.txt",
+    "primary_source_sha": "8421a222f4fabd2308d3818c24736d21477a5b08",
+    "english_reference_path": "source/chapters/chapter-178.xhtml",
+    "english_reference_sha": "7709c7e0ba246c79b860e8ac497f19c8484ce190",
+    "draft_path": "manuscript/drafts/chapter-0180.md",
+    "draft_sha": "43cec8f6a8b046666c54a2a928c73d4dbcf619d6",
+    "qa_path": "qa/chapter-0180.md",
+    "qa_sha": "5cd66e3df2a006fc5a7ae2951b7d529544a21024",
+    "provenance_path": "editorial/provenance/chapter-0180.json",
+    "provenance_sha": "be2c0992d438f8825f2605030362cd9791ef7f8c"
+  },
+  "canonical_checks": [
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Sinclaire",
+    "Bianca Fo Usher",
+    "Baskerville Trident"
+  ],
+  "documented_limits": [
+    "Vikir's Trident is the triplets' loyalty framing, not a formal title.",
+    "Public bullying posture and private obedience both remain source-present."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}

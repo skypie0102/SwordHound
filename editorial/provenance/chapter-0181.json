@@ -1,0 +1,66 @@
+{
+  "chapter": 181,
+  "title": "Midterm Random Defense (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/181.txt",
+    "blob_sha": "645c23424e5c5b7b13542b0b750cf89bad56e01e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-179.xhtml",
+    "blob_sha": "63c95813f5e35c163bf4434bed1f1a99829ff617",
+    "target_alignment": 181,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0181.md",
+    "blob_sha": "28960f629861883eb9323e493db5fab42e036b0b"
+  },
+  "qa": {
+    "path": "qa/chapter-0181.md",
+    "blob_sha": "4c1c2468186e97e979e1c38c081d270e92da30b7",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "group69_score",
+      "final": "Group 69 survives 19:50 and scores 2,253",
+      "basis": "Chinese C181"
+    },
+    {
+      "topic": "baby_poison",
+      "final": "Triplets deliberately let diluted paralytic poison reach Vikir so Baby Madam can feed",
+      "basis": "Chinese C181"
+    },
+    {
+      "topic": "crowd_misread",
+      "final": "Crowd still believes Vikir's archery loss to Bianca was an ordinary one-point miss",
+      "basis": "Chinese C181 continuity"
+    },
+    {
+      "topic": "molt",
+      "final": "Chapter closes on Baby Madam's empty molt shell",
+      "basis": "Chinese C181"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/186.txt",
+    "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_path": "source/chapters/chapter-184.xhtml",
+    "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "purpose": "both begin Aftermath (1), target186"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "chapter": 184,
+  "title": "Midterm Random Defense (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/184.txt",
+    "primary_source_sha": "d9e88a6d7ff29c4c471a922697e758015c0ebe98",
+    "english_reference_path": "source/chapters/chapter-182.xhtml",
+    "english_reference_sha": "70344929fc9897662cf1b467631b9178e180bf4f",
+    "draft_path": "manuscript/drafts/chapter-0184.md",
+    "draft_sha": "acfb720da06abdda78820febe7879a54451d3823",
+    "qa_path": "qa/chapter-0184.md",
+    "qa_sha": "9045170989d9484c345ffebf9b0252219ce2f2da",
+    "provenance_path": "editorial/provenance/chapter-0184.json",
+    "provenance_sha": "dd5b10caf1efa723156edbb2778203453d374002"
+  },
+  "canonical_checks": [
+    "Baby Madam",
+    "Picaresque Mask",
+    "River Styx",
+    "Killer Ant",
+    "Soldier Ant",
+    "Ballak"
+  ],
+  "documented_limits": [
+    "Barrier flaw is prior-life knowledge from a specific assassination attempt.",
+    "Dense poison fog limits what outside spectators can see.",
+    "No one publicly discovers Baby Madam."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}

@@ -1,0 +1,66 @@
+{
+  "chapter": 184,
+  "title": "Midterm Random Defense (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/184.txt",
+    "blob_sha": "d9e88a6d7ff29c4c471a922697e758015c0ebe98",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-182.xhtml",
+    "blob_sha": "70344929fc9897662cf1b467631b9178e180bf4f",
+    "target_alignment": 184,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0184.md",
+    "blob_sha": "acfb720da06abdda78820febe7879a54451d3823"
+  },
+  "qa": {
+    "path": "qa/chapter-0184.md",
+    "blob_sha": "9045170989d9484c345ffebf9b0252219ce2f2da",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "malfunction_cause",
+      "final": "Baby Madam's post-poison molt strengthens her detectable life signal and causes the phase error",
+      "basis": "Chinese C184"
+    },
+    {
+      "topic": "barrier_entry",
+      "final": "Vikir uses Picaresque dog form and a remembered seven-meter-deep northwest barrier flaw",
+      "basis": "Chinese C184"
+    },
+    {
+      "topic": "worker_window",
+      "final": "Worker Ant Danger C / 1m",
+      "basis": "Chinese C184"
+    },
+    {
+      "topic": "soldier_window",
+      "final": "Soldier Ant Danger B+ / 5m",
+      "basis": "Chinese C184"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/186.txt",
+    "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_path": "source/chapters/chapter-184.xhtml",
+    "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "purpose": "both begin Aftermath (1), target186"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "chapter": 183,
+  "title": "Midterm Random Defense (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/183.txt",
+    "primary_source_sha": "3d3082eb12bb4e7e66d6dbeb205ea06e29c963e8",
+    "english_reference_path": "source/chapters/chapter-181.xhtml",
+    "english_reference_sha": "c69b91a79addb2cde5501460d248dc7e0aa8764e",
+    "draft_path": "manuscript/drafts/chapter-0183.md",
+    "draft_sha": "01da467438157aab11bb5a14dce76cadeef2363a",
+    "qa_path": "qa/chapter-0183.md",
+    "qa_sha": "2b4fbb899edc1262bc89648a98979eb6d24adf7e",
+    "provenance_path": "editorial/provenance/chapter-0183.json",
+    "provenance_sha": "c364ff4936aaa157952690bfcbb579cb8b607c11"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Professor Sadi",
+    "Dolores L. Quovadis",
+    "Soldier Ant"
+  ],
+  "documented_limits": [
+    "Hidden-royal statement remains rumor only.",
+    "Faculty satire is not expanded beyond source.",
+    "Dolores has not yet destroyed the magic stone."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}

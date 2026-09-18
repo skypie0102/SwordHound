@@ -1,0 +1,40 @@
+{
+  "chapter": 181,
+  "title": "Midterm Random Defense (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/181.txt",
+    "primary_source_sha": "645c23424e5c5b7b13542b0b750cf89bad56e01e",
+    "english_reference_path": "source/chapters/chapter-179.xhtml",
+    "english_reference_sha": "63c95813f5e35c163bf4434bed1f1a99829ff617",
+    "draft_path": "manuscript/drafts/chapter-0181.md",
+    "draft_sha": "28960f629861883eb9323e493db5fab42e036b0b",
+    "qa_path": "qa/chapter-0181.md",
+    "qa_sha": "4c1c2468186e97e979e1c38c081d270e92da30b7",
+    "provenance_path": "editorial/provenance/chapter-0181.json",
+    "provenance_sha": "8c1d40b956017b7136525bdc7e20f95f777308b5"
+  },
+  "canonical_checks": [
+    "Baby Madam",
+    "Sword Expert Advanced",
+    "Granola de Leviathan",
+    "Killer Ant"
+  ],
+  "documented_limits": [
+    "Crowd's one-point archery explanation remains incorrect in-story.",
+    "Baby Madam's molt is revealed only at chapter close."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}

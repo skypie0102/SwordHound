@@ -1,0 +1,66 @@
+{
+  "chapter": 180,
+  "title": "Midterm Random Defense (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/180.txt",
+    "blob_sha": "8421a222f4fabd2308d3818c24736d21477a5b08",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-178.xhtml",
+    "blob_sha": "7709c7e0ba246c79b860e8ac497f19c8484ce190",
+    "target_alignment": 180,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0180.md",
+    "blob_sha": "43cec8f6a8b046666c54a2a928c73d4dbcf619d6"
+  },
+  "qa": {
+    "path": "qa/chapter-0180.md",
+    "blob_sha": "5cd66e3df2a006fc5a7ae2951b7d529544a21024",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "public_private_triplets",
+      "final": "Publicly domineering; privately Vikir's disciplined sworn followers",
+      "basis": "Chinese C180"
+    },
+    {
+      "topic": "lifelong_order",
+      "final": "Vikir bans unauthorized conflict for life; triplets interpret this as lifelong acceptance",
+      "basis": "Chinese C180"
+    },
+    {
+      "topic": "trident",
+      "final": "Vikir's Trident is the triplets' loyalty framing",
+      "basis": "Chinese C180"
+    },
+    {
+      "topic": "group69",
+      "final": "Group 69 is Vikir + three Baskerville triplets",
+      "basis": "Chinese C180"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/186.txt",
+    "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_path": "source/chapters/chapter-184.xhtml",
+    "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "purpose": "both begin Aftermath (1), target186"
+  }
+}

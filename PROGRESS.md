@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Midterm Random Defense (1)–(7) accepted
+
+**Current state:** 185 / 500 accepted; 0 staged; next Chapter 186.
+
+Completed targets 179–185 with mapping **179→E177 through 185→E183**.
+
+Key decisions: Defense/Attack/written weights are 50/40/10; Group 69 scores **2,253** and Group 108 scores **2,269**; Baby Madam's poison-fed molt causes the unintended Phase-2 continuation; Professor Banshee Morgue holds barrier Key A while canonical **Professor Sadi** holds Key B and is absent; Dolores is prepared to destroy the magic stone; Vikir enters through the remembered northwest barrier flaw using Picaresque dog form; Worker/Soldier Ant windows are C/1 m and B+/5 m; Vikir keeps the rescue at Expert-level output and does not expose Graduator aura; and the family closes at **HP 100 / Kill 968 / Assist 5,321**.
+
+Family QA: `qa/families/midterm-random-defense-0179-0185.md` — **PASS**.
+
+Next verified family: **186–189 — Aftermath (1)–(4)**. Target **190** begins *Attack Land (1)*.
+
 ## 2026-09-18 — The 99 Hits With 100 Shots (1)–(3) accepted
 
 **Current state:** 178 / 500 accepted; 0 staged; next Chapter 179.

@@ -1,0 +1,41 @@
+{
+  "chapter": 182,
+  "title": "Midterm Random Defense (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/182.txt",
+    "primary_source_sha": "a138a068d9169223f5f6534bcb4e55bb88f90fde",
+    "english_reference_path": "source/chapters/chapter-180.xhtml",
+    "english_reference_sha": "a71802648a2069a73d07fc8c28f63de01aa817a9",
+    "draft_path": "manuscript/drafts/chapter-0182.md",
+    "draft_sha": "f2b661b7eb5a694fb884c307a3a67f812ad77be8",
+    "qa_path": "qa/chapter-0182.md",
+    "qa_sha": "ab8e38afb8a57eee15b2b06b53104abce48e7233",
+    "provenance_path": "editorial/provenance/chapter-0182.json",
+    "provenance_sha": "d05a3a047ebf9e349f4e4470234b3a0067e7ebeb"
+  },
+  "canonical_checks": [
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Bianca Fo Usher",
+    "Soldier Ant"
+  ],
+  "documented_limits": [
+    "Phase 2 is a malfunction, not an intended freshman challenge.",
+    "Raw title variation is normalized to family title."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}
