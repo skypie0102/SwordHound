@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Admission to the Academy acceptance checkpoint
 - **Working branch:** `editorial/restart-admission-academy-0126-0129`
 - **Base main checkpoint:** `b7c2b399ab1e7b0e1a1d37ccca2149c98fa05f65` (Hunt for the Second Son checkpoint merged)
-- **Current PR:** pending creation
+- **Current PR:** #39 — `Rebuild Admission to the Academy Chapters 126–129`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
