@@ -1,0 +1,41 @@
+{
+  "chapter": 211,
+  "title": "Festival Night (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/211.txt",
+    "primary_source_sha": "8e81771d5f6350cc8f8c5773c8a533f4d495f585",
+    "english_reference_path": "source/chapters/chapter-209.xhtml",
+    "english_reference_sha": "ff56e1bfc2d8e69c3a90ee30f7e2b32059f1c606",
+    "draft_path": "manuscript/drafts/chapter-0211.md",
+    "draft_sha": "02474d7e623a5a9dd8bb68c3421f9f7db013f60d",
+    "qa_path": "qa/chapter-0211.md",
+    "qa_sha": "a31d21114dfeceb922cef5a7d9becc436a1cbfed",
+    "provenance_path": "editorial/provenance/chapter-0211.json",
+    "provenance_sha": "6adcd8efba2fd435fe692ecc4b33fda9ca4e5bff"
+  },
+  "canonical_checks": [
+    "Corpse Queen",
+    "Geronto",
+    "Rosie",
+    "Night Hound",
+    "Vikir"
+  ],
+  "documented_limits": [
+    "Corpse Queen's imagined Academy life leaves the man unnamed.",
+    "Seeing witch-costumed Vikir prompts only a sister question, not identity recognition."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
