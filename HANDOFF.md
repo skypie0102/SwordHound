@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Unfair Trade acceptance checkpoint + Ah'Heman kinship resolution
 - **Working branch:** `editorial/restart-unfair-trade-family`
 - **Base main checkpoint:** `53e451cb302ae93e3e7b12f5d77dceea8b4ba8ff` (PR #24, The Protagonist of Hunting 61–63, merged)
-- **Current PR:** pending
+- **Current PR:** #25 — `Rebuild Unfair Trade Chapters 64–67`
+- **Pre-PR-stamp branch head:** `f17f6b5ab8770a71b32919a98d5f4da04a9b2fce`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
