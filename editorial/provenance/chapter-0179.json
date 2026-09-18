@@ -1,0 +1,66 @@
+{
+  "chapter": 179,
+  "title": "Midterm Random Defense (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/179.txt",
+    "blob_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-177.xhtml",
+    "blob_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
+    "target_alignment": 179,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0179.md",
+    "blob_sha": "d87b7ec507b26b6dd68eb8b6dddad99b77d0efe5"
+  },
+  "qa": {
+    "path": "qa/chapter-0179.md",
+    "blob_sha": "82badcdeb2d2b6635fcd9a0bd0013964cecf87ed",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "exam_weights",
+      "final": "Defense 50%, Attack 40%, written 10%",
+      "basis": "Chinese C179"
+    },
+    {
+      "topic": "killer_ant",
+      "final": "Use Killer Ant / Filthy Spawning Grounds production terms",
+      "basis": "C179 + E177"
+    },
+    {
+      "topic": "pigi_team",
+      "final": "Pigi is pre-registered with Tudor/Sancho as a friend despite practical insecurity",
+      "basis": "Chinese C179"
+    },
+    {
+      "topic": "triplet_team",
+      "final": "Vikir has a prearranged team with Highbro/Middlebro/Lowbro",
+      "basis": "Chinese C179"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/186.txt",
+    "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_path": "source/chapters/chapter-184.xhtml",
+    "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "purpose": "both begin Aftermath (1), target186"
+  }
+}
