@@ -1,0 +1,67 @@
+{
+  "chapter": 171,
+  "title": "Adorable Pet (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Adorable Pet",
+    "range": [
+      170,
+      171
+    ],
+    "family_qa_path": "qa/families/adorable-pet-0170-0171.md",
+    "family_qa_sha": "ceecddccb1283aa1182b1a5f2e88acfffaf15727",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/171.txt",
+    "blob_sha": "701f5aee7efb26c699a8631fa74278e89d5a733a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-169.xhtml",
+    "blob_sha": "9c3f93f72630a6b475137422c87a89ff98b8720d",
+    "target_alignment": 171,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "localized_gap_registry": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0171.md",
+    "blob_sha": "a5a437026a9bddee9dfcdc90a3b9c6c1c91cee98"
+  },
+  "qa": {
+    "path": "qa/chapter-0171.md",
+    "blob_sha": "34a2ad2408b4323fc17ea27c9754f0e6eb57c8b8",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "madam_window",
+      "final": "Retain accepted source-scope Madam Eight-Legs window: Danger Rating S / Le Rouge et Le Noir 10th Ridge / Madam of the Flood",
+      "basis": "Chinese C171 + accepted glossary"
+    },
+    {
+      "topic": "baby_madam",
+      "final": "Use established English name Baby Madam for the hatchling",
+      "basis": "Chinese C171 + Fandom canonical register"
+    },
+    {
+      "topic": "silk",
+      "final": "Baby Madam silk is adhesive, elastic, heat-resistant, and exceptionally strong",
+      "basis": "Chinese C171"
+    },
+    {
+      "topic": "poison_diet",
+      "final": "Extraordinary spider hatchlings develop through increasingly diverse/strong toxins; maternal venom is initially too strong",
+      "basis": "Chinese C171"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/172.txt",
+    "chinese_sha": "049d9f2c72305e49d4728d8240875954e6b55d4b",
+    "english_path": "source/chapters/chapter-170.xhtml",
+    "english_sha": "40b561d40785e81c68526d184e508511f3f7c098",
+    "purpose": "both begin The Anti-Columnist (1), target172"
+  }
+}
