@@ -1,0 +1,66 @@
+{
+  "chapter": 120,
+  "title": "The Hunt for the Second Son (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/120.txt",
+    "blob_sha": "db6dff1ae09b891c3cde68de404f060a71d697b2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-119.xhtml",
+    "blob_sha": "c281f25b7cdd12fa76dee622ac88dd7145c6f545",
+    "target_alignment": 120,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0120.md",
+    "blob_sha": "d4477ea24b1fe621842971e97b6d21ffdb45fb39"
+  },
+  "qa": {
+    "path": "qa/chapter-0120.md",
+    "blob_sha": "cdf3b8062bc9cdb6fd78f768c91d8052c4cc144b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "reveal_guard",
+      "final": "Seth is demonstrably demonic but Andromalius remains unnamed until target121",
+      "basis": "C120/C121 boundary"
+    },
+    {
+      "topic": "barrier",
+      "final": "hidden cave admits demons and human children under eight",
+      "basis": "Chinese C120"
+    },
+    {
+      "topic": "gate_timing",
+      "final": "Seth estimates roughly twelve and a half years to gather enough power for the Gate",
+      "basis": "Chinese C120"
+    },
+    {
+      "topic": "vikir_power",
+      "final": "Vikir reveals Peak Sword Graduator strength plus Seventh Fang",
+      "basis": "Chinese C120 + project Fang terminology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/126.txt",
+    "chinese_sha": "0b203c5861b7401737f33d82d33f5e9cf3f282dc",
+    "english_path": "source/chapters/chapter-125.xhtml",
+    "english_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
+    "purpose": "both begin Admission to the Academy (1), target126"
+  }
+}
