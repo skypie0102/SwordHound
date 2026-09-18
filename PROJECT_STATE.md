@@ -2,38 +2,36 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 63  
+**Accepted:** 67  
 **Staged:** 0  
-**Next chapter:** 64
+**Next chapter:** 68
 
 ## Current accepted checkpoint
 
-Eighteen complete title families have passed the restarted workflow, through:
+Nineteen complete title families have passed the restarted workflow, through:
 
-- Chapters 55–60 — *The Hunter and the Hunted (1)–(6)*
 - Chapters 61–63 — *The Protagonist of Hunting (1)–(3)*
+- Chapters 64–67 — *Unfair Trade (1)–(4)*
 
-Latest family QA: `qa/families/protagonist-hunting-0061-0063.md` — **PASS**.
+Latest family QA: `qa/families/unfair-trade-0064-0067.md` — **PASS**.
 
-## The Protagonist of Hunting family decisions
+## Unfair Trade family decisions
 
-- Verified shifted mapping: **61→E60, 62→E61, 63→E62**.
-- Chapter 61 updates Beelzebub's active slots to:
-  1. **Incinerate — Cerberus (A+)**
-  2. **Kilogram Hammer — Oxbear (A)**
-  3. **Tough Life — Infernal Buffalo (A)**
-- The Oxbear soul displaces the Hellhound soul; **Hemorrhage** is no longer one of the three active slots at this point.
-- Chapter 61 preserves Ballak's inverse meat/honor custom, Vikir's carcass-processing expertise, and the unnamed organ/folk-belief joke without inventing anatomy the source does not name.
-- Chapter 62 preserves the Madam Eight-Legs offering, **Piranha Natteri** window, Vikir's fishing/food stockpile, and the mate-assignment pressure around his expected freedom.
-- Chapter 63 formally releases Vikir from slavery and accepts him into Ballak.
-- **Ah'Heman** enters by canonical name as Ballak's shaman. Current Chinese/recovered-English chapter wording calls Ahun his **son**; later Fandom biography says grandson, so the source-level relationship is retained and the conflict is logged.
-- **Fountain of Valor** remains the working term for the sacred healing spring.
+- Verified shifted mapping: **64→E63, 65→E64, 66→E65, 67→E66**.
+- **Bourgeois Clan** is the accepted canonical form; **Sir Smuggler** is the caravan leader.
+- Chapter 64 preserves the extreme barter imbalance and the merchants' discrimination/harassment as abuse without gratuitous slurs or sexualization.
+- Chapter 65 exposes heat-killed crop seed and harmful narcotics hidden in beads/jewelry/perfume/cosmetics to keep Ballak dependent.
+- **Aheul** enters by canonical name as Ahun's younger sister.
+- Chapter 66 preserves Ballak's cigarette-light/sound ambush, deliberate survivor tracking, oil-barrel arrows, Sir Smuggler's permit revocation, and the use of fire/noise to attract Madam Eight-Legs.
+- Chapter 67 grants the Fountain of Valor reward and keeps suspected Ah'Heman/merchant collusion unproven.
+- **Kinship correction:** target 65 establishes Aheul as Ahun's sister and target 67 establishes Aheul as Ah'Heman's granddaughter. Ahun is therefore Ah'Heman's **grandson**; target 63 has been corrected/rebound accordingly.
+- Current under-eighteen relationship material in the Chapter-67 hot-spring scene is retained only as nonsexual relationship/mate intent and plot continuity.
 
 ## Next verified title family
 
-- **Target Chapters 64–67 — Unfair Trade (1)–(4)**
-- Recovered-English mapping remains shifted: **64→E63, 65→E64, 66→E65, 67→E66**.
-- Target Chapter 68 begins **Blood Relatives (1)** and aligns to **E67**.
+- **Target Chapters 68–71 — Blood Relatives (1)–(4)**
+- Verified mapping: **68→E67, 69→E68, 70→E69, 71→E70**.
+- Target Chapter 72 begins **The Red Death (1)** and aligns to **E71**.
 
 ## Source authority
 
@@ -55,4 +53,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Merge the clean **The Protagonist of Hunting (1)–(3), targets 61–63** checkpoint, then branch from merged main for **Unfair Trade, targets 64–67**. Use the verified shifted witnesses 64→E63 / 65→E64 / 66→E65 / 67→E66, reconstruct and QA the full family, then continue into **Blood Relatives (1)**.
+Merge the clean **Unfair Trade (1)–(4), targets 64–67** checkpoint, then branch from merged main for **Blood Relatives, targets 68–71**. Use the verified shifted witnesses 68→E67 / 69→E68 / 70→E69 / 71→E70, reconstruct and QA the full family, then continue directly into **The Red Death (1)**.
