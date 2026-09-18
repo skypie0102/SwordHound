@@ -8,8 +8,8 @@
 - **Updated by:** ChatGPT — The Great Banquet acceptance checkpoint
 - **Working branch:** `editorial/restart-great-banquet-0110-0116`
 - **Base main checkpoint:** `4393e75ce2727b898db19743c524fe612b8e4a55` (PR #35, Returned Hero 105–109, merged)
-- **Current PR:** pending creation for `Rebuild The Great Banquet Chapters 110–116`
-- **Pre-PR-stamp branch head:** `8d11f835a3b872bfb8bd6f84a6d8ea33f204d98f`
+- **Current PR:** #36 — `Rebuild The Great Banquet Chapters 110–116`
+- **Pre-PR-stamp branch head:** `676820ba032503aed8231d1407ea47376e88cc75`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
