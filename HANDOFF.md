@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Mixed Bath acceptance checkpoint
 - **Working branch:** `editorial/restart-mixed-bath-0203-0205`
 - **Base main checkpoint:** `13e0a177efab61c06cd0e7f3125bfc4506e4d49a` (Corpse Queen checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #58 — `Rebuild Mixed Bath Chapters 203–205`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
