@@ -1,0 +1,43 @@
+{
+  "chapter": 56,
+  "title": "The Hunter and the Hunted (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_fandom_canonical",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/056.txt",
+    "primary_source_sha": "3347b3a5328b1e4629b4fea513c910aae2d851d5",
+    "english_reference_path": "source/chapters/chapter-056.xhtml",
+    "english_reference_sha": "684b391e07bb916d944c1bea14ff642eb3007cac",
+    "draft_path": "manuscript/drafts/chapter-0056.md",
+    "draft_sha": "ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694",
+    "qa_path": "qa/chapter-0056.md",
+    "qa_sha": "cfb11c27d12eccfa7ceb398cf45e6b7594c92b9d",
+    "provenance_path": "editorial/provenance/chapter-0056.json",
+    "provenance_sha": "c8ed01bbdc6fad04508cfb531a5686f993084b55"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Ahun",
+    "Bakira",
+    "Ballak Tribe",
+    "Oxbear",
+    "Danger Rating A",
+    "Le Rouge et Le Noir Mountain"
+  ],
+  "documented_limits": [
+    "Recovered-English gender corruption does not control semantics.",
+    "Aiyen's wound/archery contact is non-erotic.",
+    "The observed old female is exceptional and larger than the standard Oxbear window."
+  ]
+}
