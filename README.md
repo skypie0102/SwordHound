@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **189 / 500 accepted; next Chapter 190.** Latest accepted family: **targets 186–189 — Aftermath (1)–(4)**.
+Current checkpoint: **196 / 500 accepted; next Chapter 197.** Latest accepted family: **targets 190–196 — Attack Land (1)–(7)**.
 
-The next verified family is **Attack Land, targets 190–196**, mapped **190→E188 through 196→E194**. Target 197 begins **Preparing for the Festival (1)** and maps to E195.
+The next verified boundary is **target 197 — Preparing for the Festival**, aligned to **E195**. Target 198 begins **The Corpse Queen (1)** and aligns to **E196**.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Attack Land family adds/revalidates:
+
+- **Attack-test humanoid golems** — remote professor avatars with synchronization/distance handicaps.
+- **Pigi sequence repair** — Pigi follows Sinclaire; C192's final Vikir name is a slip.
+- **Pigi department repair** — remains Cold Department despite C193 label drift.
+- **Pigi one-point blade** — creates the lower-abdomen weakness Vikir exploits.
+- **Vikir public rank remains Sword Expert Advanced** — crowd Sword Master talk is exaggeration.
+- **Vikir Attack score = 40** — 2 hits / 28 dodges / 1 critical.
+- **Returning-arrow incident** — publicly accidental, reader-facing setup preserved.
+- **Preparing for the Festival** — target 197 / E195.
+- **The Corpse Queen** begins target 198 / E196.
 
 The accepted Aftermath family adds/revalidates:
 
@@ -230,15 +242,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–189**:
+Current accepted production evidence covers targets **1–196**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0189.md`
-- `qa/chapter-0001.md` through `chapter-0189.md`
-- accepted family QA through `qa/families/aftermath-0186-0189.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0189.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0189.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0196.md`
+- `qa/chapter-0001.md` through `chapter-0196.md`
+- accepted family QA through `qa/families/attack-land-0190-0196.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0196.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0196.json`
 
-Latest family QA: `qa/families/aftermath-0186-0189.md` — **PASS**.
+Latest family QA: `qa/families/attack-land-0190-0196.md` — **PASS**.
 
 ## Editorial quality bar
 
