@@ -24,7 +24,7 @@ Colosseo Academy.
 
 A vast collective educational institution established by the Rock Empire.
 
-More than seven thousand students studied there at any given time, and when graduates still attached to the Academy were included, the number exceeded twenty thousand.
+More than seven thousand students studied there at any given time, and counting its graduates, the total exceeded twenty thousand.
 
 Its faculty and staff alone numbered roughly four thousand.
 
