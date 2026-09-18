@@ -828,3 +828,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Festival Night** — next family targets 206–215; witnesses E204–E213.
 - **My Neck Will Be Your Sheath** — begins target 216 / E214.
 
+## Festival Night additions — Chapters 206–215
+
+- **Festival Night** — accepted production family targets 206–215; witnesses E204–E213.
+- **Festival costumes** — Tudor Death Knight; Sancho Snow Maiden; Pigi Fairy; Bianca Frankenstein; Sinclaire Spider Queen; Vikir Witch; Dolores Night Hound.
+- **Camus-memory guard** — target 208 restores Camus Morgue from target-46 dialogue but does not identify the Corpse Queen; explicit equation begins target 216.
+- **Vikir emotion thread** — he realizes he still retains room to care about others.
+- **Ring of Divine Inviolability** — accepted equipment name; barrier ability **Finit hic Deus**.
+- **Corpse Queen half-day contract** — Queen / Seere each control half the day; midnight transfers control to Seere.
+- **Sought-person guard** — Seere found Rosie, but the Queen's true sought person remains unnamed through target 215.
+- **Soulmate** — Dolores's answer in soul-resonance context, not an objective relationship status.
+- **Hidden Ring space** — reflects Seth Le Baskerville's inner world; only monsters or children under eight can peer into it externally.
+- **Six-and-a-half Fangs** — six complete Fangs plus a half-formed Seventh Fang.
+- **My Neck Will Be Your Sheath** — next family targets 216–219; witnesses E214–E217.
+- **That Day, Him and Me** — begins target 220 / E218 and runs through target 224.
+- **Tuition** — begins target 225 / E223.
+
