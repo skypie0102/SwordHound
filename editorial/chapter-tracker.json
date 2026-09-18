@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 149,
+  "accepted_count": 151,
   "staged_count": 0,
-  "next_chapter": 150,
+  "next_chapter": 152,
   "active_title_family": {
-    "name": "Not Brother, But Uncle",
+    "name": "The Drinking Game",
     "range": [
-      150,
-      151
+      152,
+      154
     ],
-    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 152,
-    "following_title": "The Drinking Game (1)",
-    "alignment_note": "150→E149,151→E150;152→E151"
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 155,
+    "following_title": "How to Keep Your Night Shift Employees Safe (1)",
+    "alignment_note": "152→E151,153→E152,154→E153;155→E154"
   },
   "chapters": [
     {
@@ -2101,6 +2101,34 @@
       "acceptance": "qa/acceptance/chapter-0149.json",
       "acceptance_sha": "bae733d90896af110634d78fd698040fe6bb59c8",
       "family_qa": "qa/families/golden-week-0144-0149.md"
+    },
+    {
+      "chapter": 150,
+      "title": "Not Brother, But Uncle (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/150.txt",
+      "english_mtl_reference": "source/chapters/chapter-149.xhtml",
+      "draft": "manuscript/drafts/chapter-0150.md",
+      "qa": "qa/chapter-0150.md",
+      "provenance": "editorial/provenance/chapter-0150.json",
+      "acceptance": "qa/acceptance/chapter-0150.json",
+      "acceptance_sha": "57fa1d67f18374601902b755b5660382245de957",
+      "family_qa": "qa/families/not-brother-0150-0151.md"
+    },
+    {
+      "chapter": 151,
+      "title": "Not Brother, But Uncle (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/151.txt",
+      "english_mtl_reference": "source/chapters/chapter-150.xhtml",
+      "draft": "manuscript/drafts/chapter-0151.md",
+      "qa": "qa/chapter-0151.md",
+      "provenance": "editorial/provenance/chapter-0151.json",
+      "acceptance": "qa/acceptance/chapter-0151.json",
+      "acceptance_sha": "f3f5eaf9ce3a2c19840716e49922bdea0a2903df",
+      "family_qa": "qa/families/not-brother-0150-0151.md"
     }
   ]
 }
