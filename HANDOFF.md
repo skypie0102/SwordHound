@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Midterm Random Defense acceptance checkpoint
 - **Working branch:** `editorial/restart-midterm-random-defense-0179-0185`
 - **Base main checkpoint:** `bb7a871c5627b307177211b55f32139344b1c296` (99 Hits checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #53 — `Rebuild Midterm Random Defense Chapters 179–185`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
