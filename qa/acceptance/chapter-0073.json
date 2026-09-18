@@ -1,0 +1,43 @@
+{
+  "chapter": 73,
+  "title": "The Red Death (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Red Death",
+    "range": [
+      72,
+      74
+    ],
+    "family_qa_path": "qa/families/red-death-0072-0074.md",
+    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/073.txt",
+    "primary_source_sha": "9d3b6ccf88426b104e6e2577ae89fd4520bd685e",
+    "english_reference_path": "source/chapters/chapter-072.xhtml",
+    "english_reference_sha": "15de32585922e667eeb7508af7c4b04e1c596f79",
+    "draft_path": "manuscript/drafts/chapter-0073.md",
+    "draft_sha": "7ec4255821d6d640912a6848faf3394ef416ba2d",
+    "qa_path": "qa/chapter-0073.md",
+    "qa_sha": "bf8efc732b0dac66c449b261357ec75c217950fa",
+    "provenance_path": "editorial/provenance/chapter-0073.json",
+    "provenance_sha": "739b2e54793a07ff76b0f5efab2da26d89f1946a"
+  },
+  "canonical_checks": [
+    "Mushuhushu",
+    "Nation-Swallowing Snake",
+    "Ka'ah",
+    "High Sword Graduator",
+    "Sixth Fang",
+    "Pomeranian La Baskerville",
+    "Red Death"
+  ],
+  "documented_limits": [
+    "Target 73 maps to E72.",
+    "Mushuhushu window follows Chinese semantics; recovered-English Monsieur Hushu / Full-body Intestine Snake are rejected.",
+    "The local Ka'ah specimen escapes wounded."
+  ]
+}
