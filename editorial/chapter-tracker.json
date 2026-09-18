@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 178,
+  "accepted_count": 185,
   "staged_count": 0,
-  "next_chapter": 179,
+  "next_chapter": 186,
   "active_title_family": {
-    "name": "Midterm Random Defense",
+    "name": "Aftermath",
     "range": [
-      179,
-      185
+      186,
+      189
     ],
-    "boundary_status": "verified seven-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 186,
-    "following_title": "Aftermath (1)",
-    "alignment_note": "179→E177,180→E178,181→E179,182→E180,183→E181,184→E182,185→E183;186→E184"
+    "boundary_status": "verified four-part family",
+    "following_family_starts": 190,
+    "following_title": "Attack Land (1)",
+    "alignment_note": "186→E184,187→E185,188→E186,189→E187;190→E188"
   },
   "chapters": [
     {
@@ -2507,6 +2507,104 @@
       "acceptance": "qa/acceptance/chapter-0178.json",
       "acceptance_sha": "9538561acd676dbb1187b64b998033331da6d8c2",
       "family_qa": "qa/families/99-hits-0176-0178.md"
+    },
+    {
+      "chapter": 179,
+      "title": "Midterm Random Defense (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/179.txt",
+      "english_mtl_reference": "source/chapters/chapter-177.xhtml",
+      "draft": "manuscript/drafts/chapter-0179.md",
+      "qa": "qa/chapter-0179.md",
+      "provenance": "editorial/provenance/chapter-0179.json",
+      "acceptance": "qa/acceptance/chapter-0179.json",
+      "acceptance_sha": "28717227ea7ae06cbf7b5fc925f40ca79b39adea",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 180,
+      "title": "Midterm Random Defense (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/180.txt",
+      "english_mtl_reference": "source/chapters/chapter-178.xhtml",
+      "draft": "manuscript/drafts/chapter-0180.md",
+      "qa": "qa/chapter-0180.md",
+      "provenance": "editorial/provenance/chapter-0180.json",
+      "acceptance": "qa/acceptance/chapter-0180.json",
+      "acceptance_sha": "dc9f0d48e4a1dfe7636924941eb97f26a8adc0b1",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 181,
+      "title": "Midterm Random Defense (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/181.txt",
+      "english_mtl_reference": "source/chapters/chapter-179.xhtml",
+      "draft": "manuscript/drafts/chapter-0181.md",
+      "qa": "qa/chapter-0181.md",
+      "provenance": "editorial/provenance/chapter-0181.json",
+      "acceptance": "qa/acceptance/chapter-0181.json",
+      "acceptance_sha": "ca35b88617f6f2396ec2679ab1a08e52fcb65647",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 182,
+      "title": "Midterm Random Defense (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/182.txt",
+      "english_mtl_reference": "source/chapters/chapter-180.xhtml",
+      "draft": "manuscript/drafts/chapter-0182.md",
+      "qa": "qa/chapter-0182.md",
+      "provenance": "editorial/provenance/chapter-0182.json",
+      "acceptance": "qa/acceptance/chapter-0182.json",
+      "acceptance_sha": "2042dbde1f762ce50241ea88be446063866ed72d",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 183,
+      "title": "Midterm Random Defense (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/183.txt",
+      "english_mtl_reference": "source/chapters/chapter-181.xhtml",
+      "draft": "manuscript/drafts/chapter-0183.md",
+      "qa": "qa/chapter-0183.md",
+      "provenance": "editorial/provenance/chapter-0183.json",
+      "acceptance": "qa/acceptance/chapter-0183.json",
+      "acceptance_sha": "871c0811ff2701afa28f8b463dd4d9c1b56a819f",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 184,
+      "title": "Midterm Random Defense (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/184.txt",
+      "english_mtl_reference": "source/chapters/chapter-182.xhtml",
+      "draft": "manuscript/drafts/chapter-0184.md",
+      "qa": "qa/chapter-0184.md",
+      "provenance": "editorial/provenance/chapter-0184.json",
+      "acceptance": "qa/acceptance/chapter-0184.json",
+      "acceptance_sha": "ef945c7d6f3aebded1166d8b8703e20850768c57",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 185,
+      "title": "Midterm Random Defense (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/185.txt",
+      "english_mtl_reference": "source/chapters/chapter-183.xhtml",
+      "draft": "manuscript/drafts/chapter-0185.md",
+      "qa": "qa/chapter-0185.md",
+      "provenance": "editorial/provenance/chapter-0185.json",
+      "acceptance": "qa/acceptance/chapter-0185.json",
+      "acceptance_sha": "8d5aba349ec3553983a0001c57c79e372ee788e3",
+      "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
     }
   ]
 }
