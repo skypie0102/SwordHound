@@ -1,0 +1,45 @@
+{
+  "chapter": 104,
+  "title": "Nostalgia (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/104.txt",
+    "primary_source_sha": "5adbd7b928a79f6c21075270a6f4f7b06713bdd2",
+    "english_reference_path": "source/chapters/chapter-103.xhtml",
+    "english_reference_sha": "4d0c6cf4b03837358ade68d5fd4bbbcca7cb7084",
+    "draft_path": "manuscript/drafts/chapter-0104.md",
+    "draft_sha": "fbb319a494db39e3f63d2cb7c3c40a0bd21a3774",
+    "qa_path": "qa/chapter-0104.md",
+    "qa_sha": "fbb9209b282352289d5f32501f671a78fa5aae4b",
+    "provenance_path": "editorial/provenance/chapter-0104.json",
+    "provenance_sha": "d669234ebfe83523fd427680d1551024c040ad7b"
+  },
+  "canonical_checks": [
+    "Anubis",
+    "Divine Archer Adonai",
+    "Aiyen",
+    "Akwilla",
+    "Ahun",
+    "Aheul",
+    "Red Salt Castle",
+    "Camus Morgue",
+    "Colosseo Academy",
+    "Oxbear"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-105 Returned Hero statue/reveal material is imported backward."
+  ]
+}
