@@ -1,0 +1,41 @@
+{
+  "chapter": 132,
+  "title": "The Freshman Talent Show (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Freshman Talent Show",
+    "range": [
+      130,
+      132
+    ],
+    "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
+    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/132.txt",
+    "primary_source_sha": "a104d0dd19a5169608059271b4b105a75b69054f",
+    "english_reference_path": "source/chapters/chapter-131.xhtml",
+    "english_reference_sha": "ff71c21f20bdaef7ed250fc2cbc15e4b15982226",
+    "draft_path": "manuscript/drafts/chapter-0132.md",
+    "draft_sha": "1db9ba952fc5a7ff73a6af89df993c0b147bdcb4",
+    "qa_path": "qa/chapter-0132.md",
+    "qa_sha": "a28fdd3f7fe3cdf4881772d6cccb5ed8b8ae20e5",
+    "provenance_path": "editorial/provenance/chapter-0132.json",
+    "provenance_sha": "59cd350e26568f009e48847ccc8dba1655cbae9a"
+  },
+  "canonical_checks": [
+    "Pigi",
+    "Dolores L. Quovadis",
+    "Night Hound",
+    "Colosseo Academy",
+    "Test Your Skills"
+  ],
+  "documented_limits": [
+    "Night Hound confrontation retains source consequence but reduces gratuitous injury detail.",
+    "No target133 testing/competition developments are imported.",
+    "Second-year identities are not over-canonicalized beyond source support."
+  ]
+}
