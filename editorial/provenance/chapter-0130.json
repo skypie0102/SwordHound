@@ -1,0 +1,66 @@
+{
+  "chapter": 130,
+  "title": "The Freshman Talent Show (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Freshman Talent Show",
+    "range": [
+      130,
+      132
+    ],
+    "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
+    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/130.txt",
+    "blob_sha": "75953e6055debc0292ed261a08a471ff27486894",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-129.xhtml",
+    "blob_sha": "f5e7eb7711468542d89e43edc619d4c81adf015b",
+    "target_alignment": 130,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0130.md",
+    "blob_sha": "0ee70b6ad7745ca92bf769a2938027ba33666a03"
+  },
+  "qa": {
+    "path": "qa/chapter-0130.md",
+    "blob_sha": "7fb8430aac428721d3c55c15e42c761afc519e15",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "pigi_setup",
+      "final": "Pigi is assigned nametag chores for a false promised talent-show exemption and is called immediately after Bianca",
+      "basis": "Chinese C130"
+    },
+    {
+      "topic": "bianca_performance",
+      "final": "Bianca's precise bottle-pouring talent is socially amplified by her background/ranking/reputation",
+      "basis": "Chinese C130"
+    },
+    {
+      "topic": "military_song",
+      "final": "Paraphrase the song wording while preserving its front-line fallen-comrade memorial function",
+      "basis": "Chinese C130 + copyright-safe reconstruction"
+    },
+    {
+      "topic": "memorial_reframe",
+      "final": "Vikir's performance unintentionally becomes a memorial/reunion for prior-life comrades",
+      "basis": "Chinese C130"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/133.txt",
+    "chinese_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
+    "english_path": "source/chapters/chapter-132.xhtml",
+    "english_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
+    "purpose": "both begin Test Your Skills (1), target133"
+  }
+}
