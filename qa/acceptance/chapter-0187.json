@@ -1,0 +1,43 @@
+{
+  "chapter": 187,
+  "title": "Aftermath (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Aftermath",
+    "range": [
+      186,
+      189
+    ],
+    "family_qa_path": "qa/families/aftermath-0186-0189.md",
+    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/187.txt",
+    "primary_source_sha": "11443659b730d1936b42577d78ec83aa8d772559",
+    "english_reference_path": "source/chapters/chapter-185.xhtml",
+    "english_reference_sha": "d0985074e848b6a865240bee565c275b592ebe57",
+    "draft_path": "manuscript/drafts/chapter-0187.md",
+    "draft_sha": "5decd46823aed5348ecd61db63b7db3a9462cf68",
+    "qa_path": "qa/chapter-0187.md",
+    "qa_sha": "e826fa2da0ed43b5ab3578a67a393548cbd2f6b0",
+    "provenance_path": "editorial/provenance/chapter-0187.json",
+    "provenance_sha": "695ca18cdd84975342769916007dfbf7019668f3"
+  },
+  "canonical_checks": [
+    "Sinclaire",
+    "Cindywendy",
+    "Dolores L. Quovadis",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville"
+  ],
+  "documented_limits": [
+    "Sinclaire's relieved reaction does not establish a relationship.",
+    "Hidden royal remains speculation.",
+    "Sinclaire's later identity remains unrevealed."
+  ],
+  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1)."
+}
