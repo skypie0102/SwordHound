@@ -2,34 +2,32 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 54,
+  "accepted_chapters": 60,
   "staged_chapters": 0,
-  "next_chapter": 55,
+  "next_chapter": 61,
   "latest_accepted_family": {
-    "name": "Slaves of the Savage Tribe",
-    "range": [
-      52,
-      54
-    ],
-    "family_qa": "qa/families/slaves-savage-tribe-0052-0054.md"
-  },
-  "next_title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
       55,
       60
     ],
-    "boundary_status": "verified_target_family_from_english_55_fallback_plus_chinese_56_60; recovered English numbering shifts by the end of the family and must be content-aligned",
-    "following_family_starts": 61,
-    "following_chinese_title": "丰收节的主角 (1)",
-    "alignment_note": "Chinese target 60 content matches recovered English 59; Chinese target 61 content matches recovered English 60."
+    "family_qa": "qa/families/hunter-hunted-0055-0060.md"
+  },
+  "next_title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "boundary_status": "verified from Chinese target headings/content and shifted recovered-English sequence",
+    "following_family_starts": 64,
+    "following_title": "Unfair Trade (1)",
+    "alignment_note": "target 61→E60, 62→E61, 63→E62; target 64→E63"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
-  "chinese_raw_target_coverage": 499,
-  "missing_chinese_raw_chapters": [
-    55
-  ],
+  "chinese_raw_target_coverage": 500,
+  "missing_chinese_raw_chapters": [],
   "combined_raw_containers": {
     "075.txt": [
       75,
@@ -58,6 +56,10 @@
     "495.txt": [
       495,
       496
+    ],
+    "054.txt": [
+      54,
+      55
     ]
   },
   "accepted": [
@@ -114,17 +116,28 @@
     51,
     52,
     53,
-    54
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
   ],
   "notes": [
-    "Chapters 52-54 are accepted as the complete Slaves of the Savage Tribe title family after Chinese-first chapter QA and family continuity QA.",
-    "Targets 52-54 map to recovered English 52-54 by complete content alignment despite title wording variation.",
-    "Chapter 52 preserves Vikir's post-Madam Eight-Legs injuries, River Styx/Tough Life/noose survival logic, Ballak village duality, and the explicit Thorn-Tree Punishment.",
-    "Chapter 53 source-reveals Akwilla as Aiyen's mother, Ballak chieftain, and current Night Fox; the earlier identity spoiler guard lifts only from this chapter forward.",
-    "Chapter 54 preserves Vikir's survival-era domestic skills, Ballak body/reproductive-health customs in factual non-erotic form, the toilet-culture joke, hunting rite, and Aiyen/Ahun slave-rule conflict.",
-    "Chinese Chapter 55 is genuinely missing. Target family The Hunter and the Hunted spans 55-60: recovered English 55 is the fallback for target 55, while later recovered-English numbering shifts and must be aligned by content.",
-    "Verified shift lead: Chinese target 60 matches recovered English 59; Chinese target 61 matches recovered English 60.",
-    "Chinese raws control narrative/semantic content; English Fandom controls canonical English renderings for identified proper nouns where applicable.",
-    "Every session must read and update HANDOFF.md."
+    "Chapters 55-60 are accepted as The Hunter and the Hunted (1)-(6) after a corrected source-boundary and content-alignment audit.",
+    "Physical 054.txt is a combined/overlapping target 54-55 container: target 54 ends at the hunt-offer/dawn-departure setup; most target-55 body follows without a Chapter 55 heading.",
+    "Target 55 is hybrid evidence, not English-only: E55 supplies the missing opening/title boundary, while Chinese 054 controls the overlapping body.",
+    "Target 57 has no clean standalone recovered-English counterpart; E56 only partially overlaps its Oxbear-selection material.",
+    "Verified shifted mapping: target 58→E57, target 59→E58, target 60→E59. E60 belongs to target 61.",
+    "Chapter 60 preserves Aiyen's Low Sword Graduator aura and Beelzebub Slot 1 Incinerate — Cerberus (A+) during the Oxbear kill.",
+    "Chinese target coverage is now 500/500 at least partially; Chapters 49 and 55 contain documented localized Chinese gaps.",
+    "Next target family is Chapters 61-63, normalized working title The Protagonist of Hunting; target 64 begins Unfair Trade (1).",
+    "Chinese raws control narrative/semantic content wherever present; English Fandom/project register controls canonical English renderings.",
+    "Every editorial session must read and update HANDOFF.md."
+  ],
+  "partial_chinese_raw_chapters": [
+    49,
+    55
   ]
 }
