@@ -58,8 +58,6 @@ The accepted Hunt for the Second Son family adds/revalidates:
 - **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** — reaffirmed family line; raw Lucina/Freya/Firian-type drift remains normalized.
 - **Baskerville Trident** — Highbro / Middlebro / Lowbro formally swear their lives to Vikir.
 - **Seven Baskerville Knight Orders** — Vikir requests all seven for half a day at the close of target 119.
-- **The Hunt for the Second Son** — next family targets 120–125; witnesses E119–E124.
-- **Admission to the Academy** begins target 126 / E125.
 
 ## Accepted evidence
 
