@@ -1,0 +1,42 @@
+{
+  "chapter": 64,
+  "title": "Unfair Trade (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/064.txt",
+    "primary_source_sha": "332ef149eb32e1c0ba4aa67a53410d8d310f5844",
+    "english_reference_path": "source/chapters/chapter-063.xhtml",
+    "english_reference_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
+    "draft_path": "manuscript/drafts/chapter-0064.md",
+    "draft_sha": "7247c9434ad5695d86de99fd8507c42cc9d90ee1",
+    "qa_path": "qa/chapter-0064.md",
+    "qa_sha": "adef0fb58870464bd98f6850b62dad467a9165aa",
+    "provenance_path": "editorial/provenance/chapter-0064.json",
+    "provenance_sha": "09439531add507c05a81ede38d65946c3192653f"
+  },
+  "canonical_checks": [
+    "Bourgeois Clan",
+    "Sir Smuggler",
+    "Underdog City",
+    "Ballak Tribe",
+    "Rokoko",
+    "Madam Eight-Legs"
+  ],
+  "documented_limits": [
+    "Target 64 maps to E63, not E64.",
+    "The young Ballak girl is not named until target 65.",
+    "Merchant racism/sexual harassment is preserved as abuse without gratuitous reproduction or sexualization."
+  ]
+}
