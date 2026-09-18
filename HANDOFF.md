@@ -8,8 +8,8 @@
 - **Updated by:** ChatGPT — The Returned Hero acceptance checkpoint
 - **Working branch:** `editorial/restart-returned-hero-0105-0109`
 - **Base main checkpoint:** `11b5862975b0b99a940fa8311c101d7f301708a1` (PR #34, Nostalgia 101–104, merged)
-- **Current PR:** pending creation for `Rebuild The Returned Hero Chapters 105–109`
-- **Pre-PR-stamp branch head:** `a227a3d27aa37f3e0d821f5c0657ea7999cc5c2b`
+- **Current PR:** #35 — `Rebuild The Returned Hero Chapters 105–109`
+- **Pre-PR-stamp branch head:** `e9d20abbedb7c97b317216c67cb1afb2d78f88c5`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
