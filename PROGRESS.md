@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — How to Keep Your Night Shift Employees Safe (1)–(3) accepted
+
+**Current state:** 157 / 500 accepted; 0 staged; next Chapter 158.
+
+Completed targets 155–157 with mapping **155→E154 through 157→E156**.
+
+Key decisions: Vikir's party blame doubles as repayment and operational cover; his volunteer repairs become infiltration routes; all fourteen horror rules remain intact; Rule 3 correctly bans **all sexual activity**; Rules 4/14 remain intentionally contradictory; **Peri** controls the HELP ME corridor sequence; target 157 explicitly gives Dolores as seventeen; and **Ephebo** closes the family without importing Ten Corpse status.
+
+Family QA: `qa/families/night-shift-safety-0155-0157.md` — **PASS**.
+
+Next verified family: **158–161 — Familiar Face (1)–(4)**. Target **162** begins *Sin and Punishment (1)*.
+
 ## 2026-09-18 — The Drinking Game (1)–(3) accepted
 
 **Current state:** 154 / 500 accepted; 0 staged; next Chapter 155.
