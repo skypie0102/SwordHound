@@ -1,0 +1,66 @@
+{
+  "chapter": 151,
+  "title": "Not Brother, But Uncle (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Not Brother, But Uncle",
+    "range": [
+      150,
+      151
+    ],
+    "family_qa_path": "qa/families/not-brother-0150-0151.md",
+    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/151.txt",
+    "blob_sha": "2f45910e15e91ff3d0eb55f6235a5b50acc7d93e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-150.xhtml",
+    "blob_sha": "28ad7f3ad872ee30716d513ea55fd1ee830dc5b8",
+    "target_alignment": 151,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0151.md",
+    "blob_sha": "0cc90a3beea435d287a0339e70f349a6e7473db5"
+  },
+  "qa": {
+    "path": "qa/chapter-0151.md",
+    "blob_sha": "0f3a8e7dcda39ce99d4a07c6ee6e5c2e83d61d69",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_curiosity",
+      "final": "Dolores's growing curiosity about Vikir remains her perspective without importing later romance",
+      "basis": "Chinese C151"
+    },
+    {
+      "topic": "indulgentia_curfew",
+      "final": "Nighttime lockdown is surveillance, especially around children's quarters",
+      "basis": "Chinese C151"
+    },
+    {
+      "topic": "pigi_gender",
+      "final": "Keep Pigi male despite recovered-English pronoun drift",
+      "basis": "Chinese C151 + accepted continuity"
+    },
+    {
+      "topic": "night_hound_cover",
+      "final": "Vikir joins Tudor's boys/girls drinking meetup solely as operational cover for the moonless assassination attempt",
+      "basis": "Chinese C151"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/152.txt",
+    "chinese_sha": "d6fc3f4922a2a3f57c66ece2faa68efa4030859e",
+    "english_path": "source/chapters/chapter-151.xhtml",
+    "english_sha": "55107beb518be3473b627551ec88399ce113f688",
+    "purpose": "both begin The Drinking Game (1), target152"
+  }
+}

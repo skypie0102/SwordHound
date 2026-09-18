@@ -1,0 +1,45 @@
+{
+  "chapter": 150,
+  "title": "Not Brother, But Uncle (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Not Brother, But Uncle",
+    "range": [
+      150,
+      151
+    ],
+    "family_qa_path": "qa/families/not-brother-0150-0151.md",
+    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/150.txt",
+    "primary_source_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "english_reference_path": "source/chapters/chapter-149.xhtml",
+    "english_reference_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "draft_path": "manuscript/drafts/chapter-0150.md",
+    "draft_sha": "93bbe3a2c57b5c15be4e524b74eca06c8c8caf48",
+    "qa_path": "qa/chapter-0150.md",
+    "qa_sha": "70b5a5c20e44c5e4c5b775b1948bca2c07a8cd53",
+    "provenance_path": "editorial/provenance/chapter-0150.json",
+    "provenance_sha": "84c4212fad25278d8010c4830ae35d09642f8d72"
+  },
+  "canonical_checks": [
+    "Quilt Rune Indulgentia",
+    "Hugo Le Baskerville",
+    "Sinclaire",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Bianca Fo Usher",
+    "Cindywendy",
+    "Peri"
+  ],
+  "documented_limits": [
+    "Peri is explicitly thirteen in this target.",
+    "Sinclaire's later Bourgeois identity remains spoiler-guarded.",
+    "Vikir's parent worldview is character perspective, not narrator truth."
+  ]
+}

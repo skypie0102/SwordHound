@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 149,
+  "accepted_chapters": 151,
   "staged_chapters": 0,
-  "next_chapter": 150,
+  "next_chapter": 152,
   "latest_accepted_family": {
-    "name": "Volunteering for the Golden Week",
-    "range": [
-      144,
-      149
-    ],
-    "family_qa": "qa/families/golden-week-0144-0149.md"
-  },
-  "next_title_family": {
     "name": "Not Brother, But Uncle",
     "range": [
       150,
       151
     ],
-    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 152,
-    "following_title": "The Drinking Game (1)",
-    "alignment_note": "150→E149,151→E150;152→E151"
+    "family_qa": "qa/families/not-brother-0150-0151.md"
+  },
+  "next_title_family": {
+    "name": "The Drinking Game",
+    "range": [
+      152,
+      154
+    ],
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 155,
+    "following_title": "How to Keep Your Night Shift Employees Safe (1)",
+    "alignment_note": "152→E151,153→E152,154→E153;155→E154"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -211,17 +211,18 @@
     146,
     147,
     148,
-    149
+    149,
+    150,
+    151
   ],
   "notes": [
-    "Chapters 144-149 are accepted as Volunteering for the Golden Week (1)-(6).",
-    "Golden Week is a ten-day off-campus-service block; Vikir uses volunteer work to map Indulgentia and prepare access to Quilt's hidden central quarters.",
-    "Quovadis production terminology uses Old Testament Faction / New Testament Faction; Dolores is a prominent New Testament figure while Quilt/Indulgentia support the Old Testament side.",
-    "Target146 keeps 十次中有九次 as the ordinary idiom 'nine times out of ten'; Quilt's later demon identity remains spoiler-guarded.",
-    "Ephebo, Pedo, Hebe, and Geronto are source-revealed as Quilt's four masked escorts; Geronto carries an ominous black sword hilt/relic.",
-    "Peri is the project/Fandom production name; Sinclaire is explicitly seventeen and remains female despite recovered-English pronoun drift.",
-    "Madam Eight-Legs's egg joins the children's game, falls into the drain, and is retrieved by Vikir; Dolores's improving opinion remains her perspective.",
-    "Next family targets150-151 — Not Brother, But Uncle (1)-(2), mapped 150→E149 and 151→E150. Target152 begins The Drinking Game (1) and maps to E151.",
+    "Chapters 150-151 are accepted as Not Brother, But Uncle (1)-(2).",
+    "Target150 explicitly reveals Peri is thirteen and closes the earlier approximate visual-age ambiguity.",
+    "Vikir's functional view of parents is character perspective shaped by Baskerville and the Age of Destruction.",
+    "Sinclaire remains seventeen and female; Vikir only speculates that Cindywendy's royal-freshman rumor might refer to her. Later Bourgeois identity remains spoiler-guarded.",
+    "The Big Brother→Uncle correction is the title-family core and directly continues the target149 setup.",
+    "Target151 establishes Indulgentia's strict nighttime surveillance, the four escorts' continued guard, and Vikir's use of Tudor's boys/girls drinking meetup as assassination cover.",
+    "Next family targets152-154 — The Drinking Game (1)-(3), mapped 152→E151 through 154→E153. Target155 begins How to Keep Your Night Shift Employees Safe (1) and maps to E154.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

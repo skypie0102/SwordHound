@@ -1,0 +1,46 @@
+{
+  "chapter": 151,
+  "title": "Not Brother, But Uncle (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Not Brother, But Uncle",
+    "range": [
+      150,
+      151
+    ],
+    "family_qa_path": "qa/families/not-brother-0150-0151.md",
+    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/151.txt",
+    "primary_source_sha": "2f45910e15e91ff3d0eb55f6235a5b50acc7d93e",
+    "english_reference_path": "source/chapters/chapter-150.xhtml",
+    "english_reference_sha": "28ad7f3ad872ee30716d513ea55fd1ee830dc5b8",
+    "draft_path": "manuscript/drafts/chapter-0151.md",
+    "draft_sha": "0cc90a3beea435d287a0339e70f349a6e7473db5",
+    "qa_path": "qa/chapter-0151.md",
+    "qa_sha": "0f3a8e7dcda39ce99d4a07c6ee6e5c2e83d61d69",
+    "provenance_path": "editorial/provenance/chapter-0151.json",
+    "provenance_sha": "388e6a23850327f23e7aa0c381a31e94ee160ed2"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Peri",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Geronto",
+    "Hebe",
+    "Pedo",
+    "Ephebo",
+    "Night Hound"
+  ],
+  "documented_limits": [
+    "Dolores's curiosity remains source-timed perspective, not later romance.",
+    "Pigi remains male despite recovered-English drift.",
+    "Vikir joins the social meetup only as operational cover."
+  ]
+}
