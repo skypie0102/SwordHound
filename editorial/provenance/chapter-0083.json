@@ -1,0 +1,88 @@
+{
+  "chapter": 83,
+  "title": "Lovesickness (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Lovesickness",
+    "range": [
+      83,
+      84
+    ],
+    "family_qa_path": "qa/families/lovesickness-0083-0084.md",
+    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/083.txt",
+    "blob_sha": "482b93a20ef26c3c9dccceb3589f35cc09d1f12c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-082.xhtml",
+    "blob_sha": "43b6d40e033dbb1c5d0bf564cfe4d4a7fab22e1c",
+    "target_alignment": 83,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/085.txt",
+    "chinese_sha": "a6689c93a2c3810a0a22526f649c060fef1a6407",
+    "english_path": "source/chapters/chapter-084.xhtml",
+    "english_sha": "1a33d19bdc16b0b80a945744015bc8414e506ce7",
+    "purpose": "both begin The Illiad (1) target85"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Aiyen",
+        "Akwilla",
+        "Vikir",
+        "Ballak Tribe",
+        "Cerberus",
+        "Madam Eight-Legs",
+        "Red Death",
+        "Baskerville"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0083.md",
+    "blob_sha": "3ba29ec77731da0e697b273bf5e92e79daaf3d49"
+  },
+  "qa": {
+    "path": "qa/chapter-0083.md",
+    "blob_sha": "9a799cfa3169cdcad903a606a36b2875e84abf25",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dream_recap",
+      "final": "Aiyen dream is continuity recap of Cerberus/slavery/Vikir rescue/search/reunion/Madam Eight-Legs/Ballak life",
+      "basis": "Chinese target83"
+    },
+    {
+      "topic": "coercive_context",
+      "final": "slave exploitation and Ballak partner capture remain source-level coercive context without eroticization",
+      "basis": "Chinese target83"
+    },
+    {
+      "topic": "nudity",
+      "final": "Aiyen sickbed nudity is retained as nonsexual medical context",
+      "basis": "Chinese target83"
+    },
+    {
+      "topic": "conception_anecdote",
+      "final": "retain Akwilla's intoxication/conception/father-execution story factually and non-erotically",
+      "basis": "Chinese target83"
+    },
+    {
+      "topic": "diagnosis",
+      "final": "withhold narrator diagnosis; endpoint leaves Akwilla questioning whether this was Red Death",
+      "basis": "title-family payoff"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
