@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Madam Eight-Legs (1)–(6) accepted
+
+**Current state:** 100 / 500 accepted; 0 staged; next Chapter 101.
+
+Completed targets 95–100 with mapping **95→E94 through 100→E99**.
+
+Key decisions:
+- preserved Ah'Heman's delayed lure as the direct village-attack trigger and Baskerville policy as the broader ecological cause;
+- retained Bakira's severe poisoned-leg injury and Aiyen's survival-promise scene;
+- normalized **Bog Salamander** to A+ / 9 m / 8th Ridge / **‘Infinite-Regeneration Salamander’**;
+- retained **Bone-Sucking Mosquito** as individual D / swarm S / 3 mm / 9th Ridge;
+- preserved the nest climb, Ballak mourning, and full S-rank Madam reveal;
+- normalized Madam's window to **S / size unknown / 10th Ridge / ‘Madam of the Flood’ / species unknown**;
+- preserved doubled-leg regeneration and Vikir's deliberate balance-overload strategy;
+- added **Super High-Speed Regeneration — Bog Salamander (A+)** to Slot 3, displacing Kilogram Hammer;
+- after Madam's death, added **Venom — Madam Eight-Legs (S)** to Slot 1, displacing Cerberus/Incinerate;
+- final Beelzebub state is **Venom / Silent Heel / Super High-Speed Regeneration**;
+- ended on Aiyen/Bakira finding Vikir alive.
+
+Family QA: `qa/families/madam-eight-legs-0095-0100.md` — **PASS**.
+
+Next family: **Nostalgia (1)–(4), targets 101–104**, mapped **101→E100 through 104→E103**. Target 105 begins **The Returned Hero (1)** and maps to E104.
+
 ## 2026-09-18 — The Ghosts of the Ancestors (1)–(5) accepted
 
 **Current state:** 94 / 500 accepted; 0 staged; next Chapter 95.
