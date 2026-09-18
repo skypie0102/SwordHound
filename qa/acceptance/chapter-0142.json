@@ -1,0 +1,42 @@
+{
+  "chapter": 142,
+  "title": "Identity of the Villain (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Identity of the Villain",
+    "range": [
+      141,
+      143
+    ],
+    "family_qa_path": "qa/families/identity-villain-0141-0143.md",
+    "family_qa_sha": "705d07610094a35415f6e3600cba69f7583a2836",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/142.txt",
+    "primary_source_sha": "0ba20650ef1b656b0b421efa292ce158f92daaf9",
+    "english_reference_path": "source/chapters/chapter-141.xhtml",
+    "english_reference_sha": "0bafb0a12533c20cff638df9784cbc7818d03fa8",
+    "draft_path": "manuscript/drafts/chapter-0142.md",
+    "draft_sha": "9f800cc8247efee7ed9317f0857d1c94e1660923",
+    "qa_path": "qa/chapter-0142.md",
+    "qa_sha": "0996f5e528c75d1b28c922e9f581c2be4c6df6f6",
+    "provenance_path": "editorial/provenance/chapter-0142.json",
+    "provenance_sha": "40a315189f0554d5a13ac68e83af30d17ea183d0"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Night Hound",
+    "Saint Meka",
+    "Saintess's Tears",
+    "Professor Banshee Morgue",
+    "Tudor Donquixote"
+  ],
+  "documented_limits": [
+    "Dolores's trust in Night Hound remains her perspective, not narrator-confirmed innocence.",
+    "Vikir's villain statement is self-judgment, not an objective project verdict.",
+    "Future Dolores recollection does not license later demon/villain spoilers."
+  ]
+}
