@@ -1,0 +1,44 @@
+{
+  "chapter": 169,
+  "title": "Sin and Punishment (8)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/169.txt",
+    "primary_source_sha": "100def7959fe0faec1dc2d892bbf15081925a209",
+    "draft_path": "manuscript/drafts/chapter-0169.md",
+    "draft_sha": "77c3fa0268044ac0393e59250ef5ca80912e72b0",
+    "qa_path": "qa/chapter-0169.md",
+    "qa_sha": "28f1376f6720de76eda5bc06aaa960d2e969ab87",
+    "provenance_path": "editorial/provenance/chapter-0169.json",
+    "provenance_sha": "4e5f15a4b78610d5b60de41c3848fee3be7efa9c",
+    "english_reference_path": "source/chapters/chapter-167.xhtml",
+    "english_reference_sha": "b5de6380956a43497640df2d0d801e03beb1b761"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Mozgus Quovadis",
+    "Humbert L. Quovadis",
+    "Old Testament Faction",
+    "New Testament Faction",
+    "Night Hound",
+    "Rune"
+  ],
+  "documented_limits": [
+    "Only source-listed rebuttal articles are rendered.",
+    "Chinese Article 50/90 numbering overrides recovered 51/99.",
+    "Press holy-war headline is a misunderstanding gag."
+  ],
+  "witness_gap": null
+}

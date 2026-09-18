@@ -1,0 +1,67 @@
+{
+  "chapter": 166,
+  "title": "Sin and Punishment (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/166.txt",
+    "blob_sha": "5fb84d087e2a7f3048b3d6fd0096494e7ee95f42",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-165.xhtml",
+    "blob_sha": "aff6117fe247984bb19553884da81ab4a3ccdc72",
+    "target_alignment": 166,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "witness_gap": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0166.md",
+    "blob_sha": "2cb57d300ba3eb51cc946aa8d80e31e80014a65a"
+  },
+  "qa": {
+    "path": "qa/chapter-0166.md",
+    "blob_sha": "43d1b4a575005b105e3b2333c669cf31c46a5578",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "empty_love_sack",
+      "final": "Vikir's Sack of Love is genuinely empty because prior-life Vikir never learned/experienced love in the searched sense",
+      "basis": "Chinese C166"
+    },
+    {
+      "topic": "seth_memory",
+      "final": "Dantalian's Seth Le Baskerville family-memory gambit backfires and intensifies Vikir's attack",
+      "basis": "Chinese C166"
+    },
+    {
+      "topic": "peri_face",
+      "final": "Use production name Peri when Dantalian weaponizes her face and necklace",
+      "basis": "Chinese C166 + canonical register"
+    },
+    {
+      "topic": "soulmate_resonance",
+      "final": "Dolores's awakened buff is explicitly tied to soul resonance/soulmate condition; no reciprocal romance is inferred for Vikir",
+      "basis": "Chinese C166"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/170.txt",
+    "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_path": "source/chapters/chapter-168.xhtml",
+    "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "purpose": "both begin Adorable Pet (1), target170"
+  }
+}

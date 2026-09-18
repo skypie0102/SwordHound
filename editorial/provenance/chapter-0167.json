@@ -1,0 +1,67 @@
+{
+  "chapter": 167,
+  "title": "Sin and Punishment (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/167.txt",
+    "blob_sha": "51868432649722b2ae41a39858fb4881c4d72b81",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-166.xhtml",
+    "blob_sha": "4009001cee9c3005c50c3a64a9fc190cdd8d62bb",
+    "target_alignment": 167,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "witness_gap": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0167.md",
+    "blob_sha": "c90fc53b4549490af79679955bb9612eaa1ed9fc"
+  },
+  "qa": {
+    "path": "qa/chapter-0167.md",
+    "blob_sha": "53fcd2bcfe0204f8b7604c4f993c0996ebdfe73c",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "temporary_sword_master",
+      "final": "Dolores's buff temporarily raises Vikir from Peak Sword Graduator to lower Sword Master",
+      "basis": "Chinese C167"
+    },
+    {
+      "topic": "prior_heroes",
+      "final": "Prior-life compatible buff heroes include Hugo Le Baskerville and Camus Morgue / Ironblood Empress",
+      "basis": "Chinese C167 + canonical title"
+    },
+    {
+      "topic": "egg_protection",
+      "final": "Madam Eight-Legs's egg intercepts Dantalian's Soul Strike to Vikir's heart",
+      "basis": "Chinese C167"
+    },
+    {
+      "topic": "dantalian_death",
+      "final": "Vikir decapitates Dantalian and destroys the regenerating Peri-faced remnant; Peri necklace remains",
+      "basis": "Chinese C167"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/170.txt",
+    "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_path": "source/chapters/chapter-168.xhtml",
+    "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "purpose": "both begin Adorable Pet (1), target170"
+  }
+}

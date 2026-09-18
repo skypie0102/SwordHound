@@ -1,0 +1,41 @@
+{
+  "chapter": 168,
+  "title": "Sin and Punishment (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_no_recovered_english_witness",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/168.txt",
+    "primary_source_sha": "486de349a751d03201b5fedbc894710eb0d0f7b1",
+    "draft_path": "manuscript/drafts/chapter-0168.md",
+    "draft_sha": "3d9cf8f688bba00454bdb4d05fb45a2fcbadda03",
+    "qa_path": "qa/chapter-0168.md",
+    "qa_sha": "9d74608ffba761dbe1920b49a3f7aaef26cc7f95",
+    "provenance_path": "editorial/provenance/chapter-0168.json",
+    "provenance_sha": "bd1e62e64aa032dd11b86d2e58193d6dc76624ab",
+    "english_reference_path": null,
+    "english_reference_sha": null
+  },
+  "canonical_checks": [
+    "Mozgus Quovadis",
+    "Ephebo",
+    "New Testament Faction",
+    "Old Testament Faction",
+    "Humbert L. Quovadis"
+  ],
+  "documented_limits": [
+    "No recovered-English witness exists; target is Chinese-primary only.",
+    "One-off ledger names are conservative romanizations, not canonical glossary entries."
+  ],
+  "witness_gap": "Target168 has no recovered-English witness in the current sequence; no neighboring witness was reassigned."
+}

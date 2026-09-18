@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 161,
+  "accepted_count": 169,
   "staged_count": 0,
-  "next_chapter": 162,
+  "next_chapter": 170,
   "active_title_family": {
-    "name": "Sin and Punishment",
+    "name": "Adorable Pet",
     "range": [
-      162,
-      169
+      170,
+      171
     ],
-    "boundary_status": "verified eight-part Chinese family; recovered-English sequence has no witness for target168 and E167 resumes at target169",
-    "following_family_starts": 170,
-    "following_title": "Adorable Pet (1)",
-    "alignment_note": "162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness,169→E167;170→E168. C163 heading is anomalous but belongs to Sin and Punishment (2) by content/sequence."
+    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 172,
+    "following_title": "The Anti-Columnist (1)",
+    "alignment_note": "170→E168,171→E169;172→E170"
   },
   "chapters": [
     {
@@ -2269,6 +2269,118 @@
       "acceptance": "qa/acceptance/chapter-0161.json",
       "acceptance_sha": "56c72d70d080aece494e3837ca07e9a08919b0c0",
       "family_qa": "qa/families/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 162,
+      "title": "Sin and Punishment (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/162.txt",
+      "english_mtl_reference": "source/chapters/chapter-161.xhtml",
+      "draft": "manuscript/drafts/chapter-0162.md",
+      "qa": "qa/chapter-0162.md",
+      "provenance": "editorial/provenance/chapter-0162.json",
+      "acceptance": "qa/acceptance/chapter-0162.json",
+      "acceptance_sha": "c826e06f6febd167767b26dee7c2fc4117d0b874",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 163,
+      "title": "Sin and Punishment (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/163.txt",
+      "english_mtl_reference": "source/chapters/chapter-162.xhtml",
+      "draft": "manuscript/drafts/chapter-0163.md",
+      "qa": "qa/chapter-0163.md",
+      "provenance": "editorial/provenance/chapter-0163.json",
+      "acceptance": "qa/acceptance/chapter-0163.json",
+      "acceptance_sha": "393807614c96a1df07a9ca9f2ed61ede6720f33e",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 164,
+      "title": "Sin and Punishment (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/164.txt",
+      "english_mtl_reference": "source/chapters/chapter-163.xhtml",
+      "draft": "manuscript/drafts/chapter-0164.md",
+      "qa": "qa/chapter-0164.md",
+      "provenance": "editorial/provenance/chapter-0164.json",
+      "acceptance": "qa/acceptance/chapter-0164.json",
+      "acceptance_sha": "5472354b97d0241b479dceabbeb1b01ebe5876be",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 165,
+      "title": "Sin and Punishment (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/165.txt",
+      "english_mtl_reference": "source/chapters/chapter-164.xhtml",
+      "draft": "manuscript/drafts/chapter-0165.md",
+      "qa": "qa/chapter-0165.md",
+      "provenance": "editorial/provenance/chapter-0165.json",
+      "acceptance": "qa/acceptance/chapter-0165.json",
+      "acceptance_sha": "e1b9cb54f38c2fde88cd1df222e79ec4db41298a",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 166,
+      "title": "Sin and Punishment (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/166.txt",
+      "english_mtl_reference": "source/chapters/chapter-165.xhtml",
+      "draft": "manuscript/drafts/chapter-0166.md",
+      "qa": "qa/chapter-0166.md",
+      "provenance": "editorial/provenance/chapter-0166.json",
+      "acceptance": "qa/acceptance/chapter-0166.json",
+      "acceptance_sha": "c9c8c1a30d1d4cd86b0da0c2d00e94dd2813a375",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 167,
+      "title": "Sin and Punishment (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/167.txt",
+      "english_mtl_reference": "source/chapters/chapter-166.xhtml",
+      "draft": "manuscript/drafts/chapter-0167.md",
+      "qa": "qa/chapter-0167.md",
+      "provenance": "editorial/provenance/chapter-0167.json",
+      "acceptance": "qa/acceptance/chapter-0167.json",
+      "acceptance_sha": "9a5d2a3800a31f587fa67f485096427c4330407d",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 168,
+      "title": "Sin and Punishment (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_no_recovered_english_witness",
+      "chinese_source": "source/chinese/chapters/168.txt",
+      "english_mtl_reference": null,
+      "draft": "manuscript/drafts/chapter-0168.md",
+      "qa": "qa/chapter-0168.md",
+      "provenance": "editorial/provenance/chapter-0168.json",
+      "acceptance": "qa/acceptance/chapter-0168.json",
+      "acceptance_sha": "1f890e06e5be2bf975a16a8d04df896e7faf1da4",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 169,
+      "title": "Sin and Punishment (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/169.txt",
+      "english_mtl_reference": "source/chapters/chapter-167.xhtml",
+      "draft": "manuscript/drafts/chapter-0169.md",
+      "qa": "qa/chapter-0169.md",
+      "provenance": "editorial/provenance/chapter-0169.json",
+      "acceptance": "qa/acceptance/chapter-0169.json",
+      "acceptance_sha": "08edcc902314005e912325dfaf5079bf432f016c",
+      "family_qa": "qa/families/sin-punishment-0162-0169.md"
     }
   ]
 }

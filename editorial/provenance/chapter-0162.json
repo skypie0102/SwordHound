@@ -1,0 +1,67 @@
+{
+  "chapter": 162,
+  "title": "Sin and Punishment (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/162.txt",
+    "blob_sha": "680770fdf7b23729571a227210cf1346b0a82774",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-161.xhtml",
+    "blob_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
+    "target_alignment": 162,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "witness_gap": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0162.md",
+    "blob_sha": "1f08b101d524d6e8f5771b814b0c947088ef74e2"
+  },
+  "qa": {
+    "path": "qa/chapter-0162.md",
+    "blob_sha": "503a585d2777cd790d25d5a8bbf4787fb18bcec2",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dantalian_name",
+      "final": "Target162 completes Quilt→Dantalian, Ninth Corpse reveal",
+      "basis": "Chinese C162"
+    },
+    {
+      "topic": "andromalius_gate",
+      "final": "Dantalian says all ten Demon Kings were meant to power the Demon Realm gate; Andromalius's death delays the plan",
+      "basis": "Chinese C162"
+    },
+    {
+      "topic": "four_masks_owner_guard",
+      "final": "Dantalian says the four masks were borrowed from an unnamed woman; later identity is withheld",
+      "basis": "Chinese C162"
+    },
+    {
+      "topic": "epigraph",
+      "final": "Richard III epigraph function is paraphrased rather than reproduced verbatim",
+      "basis": "Chinese C162"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/170.txt",
+    "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_path": "source/chapters/chapter-168.xhtml",
+    "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "purpose": "both begin Adorable Pet (1), target170"
+  }
+}

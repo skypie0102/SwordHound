@@ -1,0 +1,43 @@
+{
+  "chapter": 167,
+  "title": "Sin and Punishment (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/167.txt",
+    "primary_source_sha": "51868432649722b2ae41a39858fb4881c4d72b81",
+    "draft_path": "manuscript/drafts/chapter-0167.md",
+    "draft_sha": "c90fc53b4549490af79679955bb9612eaa1ed9fc",
+    "qa_path": "qa/chapter-0167.md",
+    "qa_sha": "53fcd2bcfe0204f8b7604c4f993c0996ebdfe73c",
+    "provenance_path": "editorial/provenance/chapter-0167.json",
+    "provenance_sha": "7c5296476aaf1b0c2b5d1b5fbd5fecbb3d91223b",
+    "english_reference_path": "source/chapters/chapter-166.xhtml",
+    "english_reference_sha": "4009001cee9c3005c50c3a64a9fc190cdd8d62bb"
+  },
+  "canonical_checks": [
+    "lower Sword Master",
+    "Peak Sword Graduator",
+    "Camus Morgue",
+    "Ironblood Empress",
+    "Madam Eight-Legs",
+    "Peri",
+    "Dantalian"
+  ],
+  "documented_limits": [
+    "Sword Master state is temporary and buff-assisted.",
+    "Peri-faced remnant is destroyed before the physical necklace remains."
+  ],
+  "witness_gap": null
+}

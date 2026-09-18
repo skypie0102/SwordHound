@@ -2,50 +2,45 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 161  
+**Accepted:** 169  
 **Staged:** 0  
-**Next chapter:** 162
+**Next chapter:** 170
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 155–157 — *How to Keep Your Night Shift Employees Safe (1)–(3)*
 - Chapters 158–161 — *Familiar Face (1)–(4)*
+- Chapters 162–169 — *Sin and Punishment (1)–(8)*
 
-Latest family QA: `qa/families/familiar-face-0158-0161.md` — **PASS**.
+Latest family QA: `qa/families/sin-punishment-0162-0169.md` — **PASS**.
 
-## Familiar Face family decisions
+## Sin and Punishment family decisions
 
-- Verified mapping: **158→E157, 159→E158, 160→E159, 161→E160**.
-- **Ephebo** remains a high-ranking undead subordinate rather than a Ten Corpse.
-- Target 158 source-reveals **Quilt Rune Indulgentia as a Demon King-class demon**; his later personal demon name/title is still withheld at this checkpoint.
-- The seven-tooth Baskerville technique is **Seventh Fang**.
-- Ephebo's face resembles **Mozgus Quovadis**, but Dolores identifies the corpse as Mozgus's Old Testament twin brother. The extracted twin-name spelling is unstable, so production does not invent a canonical English name.
-- Target 159 source-reveals **the Ninth Corpse** as the power behind the face-stealing / corrupted-undead network. Later personal name and epithet remain source-timed for the next family.
-- **Camus Morgue** is only a concern at this stage: Light Faction → Dark Faction → closed-door training.
-- Dolores attempts to send evidence to **Cardinal Martin Luther** rather than **Humbert L. Quovadis**; the messenger pigeon is intercepted.
-- Target 160 uses **Silent Heel — Mushuhushu** and **Super Regeneration — Swamp Marsh Salamander**.
-- **Pedo** is identified as **Staffordshire Baskerville**. **Hebe** is Donquixote-affiliated by family tattoos; exact personal identity is not yet revealed.
-- Target 161 explicitly disproves **Geronto = Camus Morgue**. Geronto remains strongly associated with Morgue by red hair plus iron/fire magic.
-- Recent great-house grave robberies support the source-timed inference that corpses themselves are being harvested for undead construction.
-- All four black face coverings are recovered; together their demonic power approaches Beelzebub, but exact provenance remains withheld.
-- **Ephebo, Hebe, Pedo, Geronto** are all eliminated before Quilt appears.
+- Verified alignment: **162→E161, 163→E162, 164→E163, 165→E164, 166→E165, 167→E166, 168→no recovered-English witness, 169→E167**.
+- Target 163's raw Chinese heading is anomalous; sequence/content normalize it to **Sin and Punishment (2)**.
+- **Dantalian** is fully source-revealed as **Ninth Corpse**, **A Thousand Faces**, **Danger Level S+**, with thirty-six faces.
+- Dantalian states all ten Demon Kings were intended to combine power to open the Demon Realm gate; Andromalius's death delays that plan.
+- Indulgentia is explicitly revealed as Dantalian's human breeding/food farm.
+- Old Testament **Certificates of Absolution / Remission** and Dantalian's claim that **Humbert L. Quovadis** issued them for large donations are preserved.
+- Memory devices are normalized as **Sack of Shame / Sack of Fear / Sack of Love**.
+- Dolores: Shame = the recent accident; Fear = Humbert; Love = **Night Hound**.
+- Vikir: Shame = prior-life execution; Fear = wartime Hugo; Love = genuinely empty in his prior-life context.
+- Target 166 explicitly establishes **soul resonance / soulmate** as the Saintess-awakening condition. This does not imply reciprocal conscious romance from Vikir.
+- Target 167 temporarily lifts Vikir from Peak Sword Graduator to **lower Sword Master** through Dolores's awakened buff.
+- **Camus Morgue / Ironblood Empress** and Hugo are prior-life examples of heroes compatible with Dolores's strongest buffs.
+- **Madam Eight-Legs's egg** intercepts Dantalian's Soul Strike.
+- Dantalian and the regenerating Peri-faced remnant are destroyed; a physical **Peri** necklace remains.
+- Target **168 has no recovered-English witness** in the current sequence and is accepted Chinese-primary only.
+- The public aftermath exposes indulgence ledgers, diverted offerings, lobbying/political funds, cult ties, and false-relic sales.
+- Dolores's ninety-five-article rebuttal uses source-listed articles only; Chinese **Article 50** and **Article 90** override recovered-English 51/99 drift.
+- The family ends on the press misunderstanding that Dolores has declared holy war against the Night Hound.
 
 ## Next verified title family
 
-- **Targets 162–169 — Sin and Punishment (1)–(8)**
-- Alignment:
-  - 162→E161
-  - 163→E162
-  - 164→E163
-  - 165→E164
-  - 166→E165
-  - 167→E166
-  - **168→no recovered-English witness in the current sequence**
-  - 169→E167
-- Target 163's Chinese heading is anomalous, but the surrounding Chinese sequence and E162 content place it as **Sin and Punishment (2)**.
-- Target 170 begins **Adorable Pet (1)** and aligns to **E168**.
+- **Targets 170–171 — Adorable Pet (1)–(2)**
+- Mapping: **170→E168, 171→E169**
+- Target 172 begins **The Anti-Columnist (1)** and aligns to **E170**.
 
 ## Source authority
 
@@ -53,4 +48,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **Familiar Face, targets 158–161** checkpoint, then branch from merged main for **Sin and Punishment, targets 162–169**. Read C162–169 against the available shifted witnesses completely, treating target 168 as Chinese-primary without a recovered-English counterpart, and use C170/E168 as the next boundary.
+Merge the clean **Sin and Punishment, targets 162–169** checkpoint, then branch from merged main for **Adorable Pet, targets 170–171**. Read C170–171 against E168–169 completely with C172/E170 as the boundary, reconstruct and QA the two-chapter family, then continue into **The Anti-Columnist**.

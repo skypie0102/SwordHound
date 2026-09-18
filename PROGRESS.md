@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Sin and Punishment (1)–(8) accepted
+
+**Current state:** 169 / 500 accepted; 0 staged; next Chapter 170.
+
+Completed targets 162–169 with alignment **162→E161 through 167→E166, 168→no recovered-English witness, 169→E167**.
+
+Key decisions: **Dantalian — Ninth Corpse — A Thousand Faces — Danger Level S+** is fully source-revealed; Indulgentia's human-farm function and Humbert-linked indulgence evidence are preserved; the three memory Sacks resolve Dolores's Love to Night Hound and Vikir's prior-life Love Sack to empty; soul resonance/soulmate is the explicit Saintess-awakening condition; Dolores's buff temporarily raises Vikir to **lower Sword Master**; Dantalian and the Peri-faced remnant are destroyed; target 168 remains Chinese-primary with no fabricated witness; and Dolores's ninety-five-article rebuttal follows Chinese Article 50/90 numbering.
+
+Family QA: `qa/families/sin-punishment-0162-0169.md` — **PASS**.
+
+Next verified family: **170–171 — Adorable Pet (1)–(2)**. Target **172** begins *The Anti-Columnist (1)*.
+
 ## 2026-09-18 — Familiar Face (1)–(4) accepted
 
 **Current state:** 161 / 500 accepted; 0 staged; next Chapter 162.

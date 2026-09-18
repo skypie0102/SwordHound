@@ -1,0 +1,67 @@
+{
+  "chapter": 169,
+  "title": "Sin and Punishment (8)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/169.txt",
+    "blob_sha": "100def7959fe0faec1dc2d892bbf15081925a209",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-167.xhtml",
+    "blob_sha": "b5de6380956a43497640df2d0d801e03beb1b761",
+    "target_alignment": 169,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "witness_gap": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0169.md",
+    "blob_sha": "77c3fa0268044ac0393e59250ef5ca80912e72b0"
+  },
+  "qa": {
+    "path": "qa/chapter-0169.md",
+    "blob_sha": "28f1376f6720de76eda5bc06aaa960d2e969ab87",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "ledger_two",
+      "final": "Preserve second ledger cases and broader financial/cult/false-relic evidence",
+      "basis": "Chinese C169"
+    },
+    {
+      "topic": "ninety_five",
+      "final": "Dolores issues a ninety-five-article rebuttal; only source-listed articles are rendered",
+      "basis": "Chinese C169"
+    },
+    {
+      "topic": "article_number_guard",
+      "final": "Chinese controls Article 50 and Article 90, rejecting E167's 51/99 drift",
+      "basis": "Chinese C169"
+    },
+    {
+      "topic": "press_gag",
+      "final": "Dolores's wish to see Night Hound again is misreported as a declaration of holy war",
+      "basis": "Chinese C169"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/170.txt",
+    "chinese_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_path": "source/chapters/chapter-168.xhtml",
+    "english_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "purpose": "both begin Adorable Pet (1), target170"
+  }
+}

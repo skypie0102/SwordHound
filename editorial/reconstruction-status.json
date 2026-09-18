@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 161,
+  "accepted_chapters": 169,
   "staged_chapters": 0,
-  "next_chapter": 162,
+  "next_chapter": 170,
   "latest_accepted_family": {
-    "name": "Familiar Face",
-    "range": [
-      158,
-      161
-    ],
-    "family_qa": "qa/families/familiar-face-0158-0161.md"
-  },
-  "next_title_family": {
     "name": "Sin and Punishment",
     "range": [
       162,
       169
     ],
-    "boundary_status": "verified eight-part Chinese family; recovered-English witness gap at target168",
-    "following_family_starts": 170,
-    "following_title": "Adorable Pet (1)",
-    "alignment_note": "162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness,169→E167;170→E168. C163 heading anomaly normalized by sequence/content."
+    "family_qa": "qa/families/sin-punishment-0162-0169.md"
+  },
+  "next_title_family": {
+    "name": "Adorable Pet",
+    "range": [
+      170,
+      171
+    ],
+    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 172,
+    "following_title": "The Anti-Columnist (1)",
+    "alignment_note": "170→E168,171→E169;172→E170"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -223,17 +223,25 @@
     158,
     159,
     160,
-    161
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169
   ],
   "notes": [
-    "Chapters 158-161 are accepted as Familiar Face (1)-(4).",
-    "Target158 source-reveals Quilt Rune Indulgentia as a Demon King-class demon while later personal demon naming remains withheld.",
-    "Target159 source-reveals the Ninth Corpse as the face-stealing/corrupted-undead power behind the network; later Dantalian/epithet naming is not imported.",
-    "Ephebo's face is Mozgus Quovadis's Old Testament twin brother; unstable extracted twin-name spelling is not promoted to production canon.",
-    "Target160 locks Silent Heel — Mushuhushu and Super Regeneration — Swamp Marsh Salamander; Pedo is Staffordshire Baskerville and Hebe is Donquixote-affiliated.",
-    "Target161 confirms Geronto is not Camus Morgue, while grave-robbing evidence connects great-house corpses to undead construction.",
-    "All four masks are recovered and all four guards are eliminated before Quilt appears.",
-    "Next family targets162-169 — Sin and Punishment (1)-(8). Recovered English has no witness for target168; E167 aligns to target169. Target170 begins Adorable Pet (1) and maps to E168.",
+    "Chapters 162-169 are accepted as Sin and Punishment (1)-(8).",
+    "Targets162-163 complete the Quilt→Dantalian reveal: Ninth Corpse, A Thousand Faces, Danger Level S+, with Dantalian's ten-Demon-King gate statement and Indulgentia human-farm exposition.",
+    "Targets164-166 preserve Sack of Shame / Fear / Love mechanics: Dolores resolves to Night Hound while Vikir's Love Sack is genuinely empty in his prior-life context.",
+    "Target166 source-explicitly establishes soul resonance / soulmate as the Saintess-awakening condition; target167 temporarily raises Vikir to lower Sword Master.",
+    "Dantalian is killed in target167; the Peri-faced remnant thanks Vikir as Uncle and leaves a physical Peri necklace.",
+    "Target168 has no recovered-English witness in the current sequence and is accepted Chinese-primary only; no neighboring witness was shifted to fill the gap.",
+    "Targets168-169 expose the indulgence ledgers, false relics and financial corruption; Dolores issues a ninety-five-article rebuttal, with Chinese Article 50/90 numbering controlling witness drift.",
+    "Next family targets170-171 — Adorable Pet (1)-(2), mapped 170→E168 and 171→E169. Target172 begins The Anti-Columnist (1) and maps to E170.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
