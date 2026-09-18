@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 189,
+  "accepted_chapters": 196,
   "staged_chapters": 0,
-  "next_chapter": 190,
+  "next_chapter": 197,
   "latest_accepted_family": {
-    "name": "Aftermath",
-    "range": [
-      186,
-      189
-    ],
-    "family_qa": "qa/families/aftermath-0186-0189.md"
-  },
-  "next_title_family": {
     "name": "Attack Land",
     "range": [
       190,
       196
     ],
-    "boundary_status": "verified seven-part family; Chinese title word order drifts from part3",
-    "following_family_starts": 197,
-    "following_title": "Preparing for the Festival (1)",
-    "alignment_note": "190→E188,191→E189,192→E190,193→E191,194→E192,195→E193,196→E194;197→E195"
+    "family_qa": "qa/families/attack-land-0190-0196.md"
+  },
+  "next_title_family": {
+    "name": "Preparing for the Festival",
+    "range": [
+      197,
+      197
+    ],
+    "boundary_status": "verified single-chapter bridge",
+    "following_family_starts": 198,
+    "following_title": "The Corpse Queen (1)",
+    "alignment_note": "197→E195;198→E196"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -251,20 +251,29 @@
     186,
     187,
     188,
-    189
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196
   ],
   "notes": [
-    "Chapters 186-189 are accepted as Aftermath (1)-(4).",
-    "Professor Sadi is found drunk with barrier Key B; rescue delay was 42:13; Academy publicity redirects attention toward Vikir's heroism.",
-    "Vikir's public combat level remains Sword Expert Advanced; C186's isolated Sword Master phrase is rejected as rank drift under E184 and the accepted no-Graduator rescue constraint.",
-    "Vikir's Killer Ant free research formalizes Worker bio-compass and Soldier skull weaknesses and yields a reported practical score of 9,889.",
-    "Cindywendy reports one-month analysis on the next Ten Corpses lead, two Night Hound imitators, and Osiris Le Baskerville heading toward the Imperial Capital.",
-    "Central Clocktower / Royal Martyrs' Cemetery / Varangian copycat attacks remain separate from Vikir.",
-    "Sinclaire's hidden-royal speculation and later disappearance remain unresolved mysteries.",
-    "Attack test is professor-controlled humanoid golem combat; Professor Sadi is Vikir's assigned examiner.",
-    "Sadi abuse/trauma claims remain attributed reputation and rumor; alleged motive remains uncertain.",
-    "Vikir rejects cafe work and plans monster hunting to cover tuition while avoiding Cindywendy money trails.",
-    "Next family targets190-196 — Attack Land (1)-(7), mapped 190→E188 through 196→E194. Target197→E195 begins Preparing for the Festival (1).",
+    "Chapters 190-196 are accepted as Attack Land (1)-(7).",
+    "Attack test uses professor-controlled humanoid golems with remote synchronization/distance handicaps.",
+    "Tudor scores35, Bianca31, Granola35; Sancho scores17 under Sadi.",
+    "Sinclaire scores19 after triple Class3 fire/ice/wind casting and severe injury.",
+    "C192 final-name slip is repaired: Pigi is called after Sinclaire; C193 confirms sequence.",
+    "C193 department-label drift is repaired: Pigi remains Cold Department.",
+    "Pigi earns1 by embedding a broken blade in the golem lower abdomen; this creates the weakness Vikir later exploits.",
+    "Vikir's public combat disclosure remains Sword Expert Advanced; crowd Sword Master talk in C195 is in-world exaggeration.",
+    "Vikir lip line: Blinded by anger. Where are you looking?",
+    "Returning-arrow eye injury remains publicly accidental while reader-facing setup is preserved.",
+    "Vikir scores40 in Attack and finishes first overall in the midterms.",
+    "Sadi removes/consumes the destroyed eye and declares intent to take over Cold Department after discipline.",
+    "Next target197→E195 is single Preparing for the Festival bridge; target198→E196 begins The Corpse Queen (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
