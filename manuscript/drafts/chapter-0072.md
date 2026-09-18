@@ -98,13 +98,13 @@ The tent quieted.
 
 Ballak already had brutal child mortality.
 
-Women began bearing children very young by Imperial standards.
+Ballak women typically began bearing children around fourteen.
 
-Large families were common.
+After that, the average interval was roughly two years, producing ten to fifteen children over a lifetime.
 
 Even then, more than half of newborns died within the first month.
 
-Only a small fraction of children survived beyond the first few years.
+Only about twenty percent of infants survived beyond three years.
 
 Malnutrition.
 
