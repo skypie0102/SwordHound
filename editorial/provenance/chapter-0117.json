@@ -1,0 +1,71 @@
+{
+  "chapter": 117,
+  "title": "Falling in Love (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "family_qa_path": "qa/families/falling-in-love-0117-0119.md",
+    "family_qa_sha": "e71b0d5349ebf4b718efe2c29ecc2a260257e773",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/117.txt",
+    "blob_sha": "bbc6cebf5d4b19c84a5c6890b0ac5c4c17e80e90",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-116.xhtml",
+    "blob_sha": "6f7468972698dfdb50cc6a57c3a9bbd2e3d05be9",
+    "target_alignment": 117,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0117.md",
+    "blob_sha": "de2e145ed300b2102edcf9ab4f06f06b5409ea59"
+  },
+  "qa": {
+    "path": "qa/chapter-0117.md",
+    "blob_sha": "fb3c8329981ccef78769bf94d32122858945ff51",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "colosseo_admission",
+      "final": "Vikir accepts Colosseo enrollment with 'I'll go'; notice dates/program and institutional scale follow Chinese",
+      "basis": "Chinese C117; E116 used only as shifted witness"
+    },
+    {
+      "topic": "triplet_oath",
+      "final": "Highbro/Middlebro/Lowbro swear life-debt loyalty and become Vikir's Trident",
+      "basis": "Chinese C117 continuing C116 oath boundary"
+    },
+    {
+      "topic": "power_secrecy",
+      "final": "triplets know Vikir was already Intermediate Sword Graduator two years earlier and is stronger now",
+      "basis": "Chinese C117"
+    },
+    {
+      "topic": "academy_motives",
+      "final": "Vikir enters to escape Hugo's surveillance/build strength and work through his blacklist",
+      "basis": "Chinese C117"
+    },
+    {
+      "topic": "roxana_question",
+      "final": "Vikir spends the owed reward on a truthful answer about Lady Roxana; Hugo ends by declaring her his only love",
+      "basis": "Chinese C117 + accepted lineage terminology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/120.txt",
+    "chinese_sha": "db6dff1ae09b891c3cde68de404f060a71d697b2",
+    "english_path": "source/chapters/chapter-119.xhtml",
+    "english_sha": "c281f25b7cdd12fa76dee622ac88dd7145c6f545",
+    "purpose": "both begin The Hunt for the Second Son (1), target120"
+  }
+}
