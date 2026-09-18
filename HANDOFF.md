@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Adorable Pet acceptance checkpoint
 - **Working branch:** `editorial/restart-adorable-pet-0170-0171`
 - **Base main checkpoint:** `0590aadf4a7f7ac669b01f4dc2660f8354393c25` (Sin and Punishment checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #50 — `Rebuild Adorable Pet Chapters 170–171`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
