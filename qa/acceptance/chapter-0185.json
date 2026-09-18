@@ -1,0 +1,42 @@
+{
+  "chapter": 185,
+  "title": "Midterm Random Defense (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/185.txt",
+    "primary_source_sha": "66b0d4623e61de229c605875dc748e41ba1fb0de",
+    "english_reference_path": "source/chapters/chapter-183.xhtml",
+    "english_reference_sha": "cd1a89df06ee225d54d0fb7842b8a5798bf8c1b8",
+    "draft_path": "manuscript/drafts/chapter-0185.md",
+    "draft_sha": "5cd5dd8f952de2059a302d44cc53c2cb0cacb8cc",
+    "qa_path": "qa/chapter-0185.md",
+    "qa_sha": "418a1bd2091345586da821a1759c4405dd52ea2b",
+    "provenance_path": "editorial/provenance/chapter-0185.json",
+    "provenance_sha": "cc808b07341d30b5432116da2ebfdc570855a6b0"
+  },
+  "canonical_checks": [
+    "Pigi",
+    "Killer Ant",
+    "Soldier Ant",
+    "Sword Expert Advanced",
+    "Graduator"
+  ],
+  "documented_limits": [
+    "Pigi's later bloodline identity remains unrevealed.",
+    "Vikir does not expose Graduator aura.",
+    "Chinese rank drift is normalized to Sword Expert-level output."
+  ],
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+}
