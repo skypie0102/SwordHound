@@ -1,0 +1,66 @@
+{
+  "chapter": 178,
+  "title": "The 99 Hits With 100 Shots (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The 99 Hits With 100 Shots",
+    "range": [
+      176,
+      178
+    ],
+    "family_qa_path": "qa/families/99-hits-0176-0178.md",
+    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/178.txt",
+    "blob_sha": "5a398b988e653d110d13a5a57ec2b60cf9d08259",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-176.xhtml",
+    "blob_sha": "09b1546722b5c84db469af0e4aa58d4d62c9f03a",
+    "target_alignment": 178,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0178.md",
+    "blob_sha": "09b01b431636ee64e515ba57f18e25d2dceee510"
+  },
+  "qa": {
+    "path": "qa/chapter-0178.md",
+    "blob_sha": "709fb02b2ddeeb7c8272fc3f765011743979011c",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "gravity",
+      "final": "Vikir progresses to 12× gravity without mana; Granola's visible benchmark is 7× for 30+ minutes",
+      "basis": "Chinese C178"
+    },
+    {
+      "topic": "body_explanation",
+      "final": "River Styx + childhood conditioning + survival + Beelzebub-linked reinforcement + regeneration explain Vikir's abnormal body",
+      "basis": "Chinese C178"
+    },
+    {
+      "topic": "bianca_clues",
+      "final": "Bianca confronts Vikir over the mosquito and Freshman Welcome Day rum-rooftop clue",
+      "basis": "Chinese C178"
+    },
+    {
+      "topic": "future_romance",
+      "final": "Tudor/Bianca eventual romance is Vikir's prior-life future knowledge, not current relationship",
+      "basis": "Chinese C178"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/179.txt",
+    "chinese_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
+    "english_path": "source/chapters/chapter-177.xhtml",
+    "english_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
+    "purpose": "both begin Midterm Random Defense (1), target179"
+  }
+}
