@@ -1,0 +1,66 @@
+{
+  "chapter": 185,
+  "title": "Midterm Random Defense (7)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/185.txt",
+    "blob_sha": "66b0d4623e61de229c605875dc748e41ba1fb0de",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-183.xhtml",
+    "blob_sha": "cd1a89df06ee225d54d0fb7842b8a5798bf8c1b8",
+    "target_alignment": 185,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0185.md",
+    "blob_sha": "5cd5dd8f952de2059a302d44cc53c2cb0cacb8cc"
+  },
+  "qa": {
+    "path": "qa/chapter-0185.md",
+    "blob_sha": "418a1bd2091345586da821a1759c4405dd52ea2b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "pigi_history",
+      "final": "Reveal only biological-father rejection, mother escape, loving stepfather, and family sacrifice for Colosseo",
+      "basis": "Chinese C185"
+    },
+    {
+      "topic": "strength_guard",
+      "final": "Vikir explicitly uses Expert-level output and withholds Graduator aura",
+      "basis": "C185 + E183"
+    },
+    {
+      "topic": "rank_drift",
+      "final": "Normalize Soldier Ant shot to intermediate-to-advanced Sword Expert aura, not Sword Master",
+      "basis": "C185 + E183 hierarchy"
+    },
+    {
+      "topic": "final_score",
+      "final": "Vikir ends HP100 / Kill968 / Assist5321 after pushing swarm backward",
+      "basis": "Chinese C185"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/186.txt",
+    "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_path": "source/chapters/chapter-184.xhtml",
+    "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "purpose": "both begin Aftermath (1), target186"
+  }
+}
