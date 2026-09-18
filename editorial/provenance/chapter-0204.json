@@ -1,0 +1,66 @@
+{
+  "chapter": 204,
+  "title": "Mixed Bath (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Mixed Bath",
+    "range": [
+      203,
+      205
+    ],
+    "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
+    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/204.txt",
+    "blob_sha": "2dfd23637cf347377008223498d64b8609285f81",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-202.xhtml",
+    "blob_sha": "dd261c717a711ac0de17ef4b0106dd4a3f511754",
+    "target_alignment": 204,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0204.md",
+    "blob_sha": "31756ca9ddf560d68da233ca90cc16f5770efd7f"
+  },
+  "qa": {
+    "path": "qa/chapter-0204.md",
+    "blob_sha": "682493d918203a142af6bd85d43903d5541f26fd",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "discipline",
+      "final": "Dolores uses annual student-council disciplinary authority against all six abusers",
+      "basis": "Chinese C204"
+    },
+    {
+      "topic": "animal_abuse_claim",
+      "final": "Serial-killer/animal-abuse statement remains Dolores dialogue, not narrator fact",
+      "basis": "Chinese C204"
+    },
+    {
+      "topic": "emotion_paradox",
+      "final": "Sixth Fang demands discarding joy/anger/sorrow/pleasure; Seventh Fang demands recovering them",
+      "basis": "Chinese C204"
+    },
+    {
+      "topic": "training_reassessment",
+      "final": "Vikir recognizes emotion-erasure training as efficient for Graduators but potentially limiting for Sword Master progression",
+      "basis": "Chinese C204"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/206.txt",
+    "chinese_sha": "86a0e5cf87255b744988fe7b97068b452ad0b76f",
+    "english_path": "source/chapters/chapter-204.xhtml",
+    "english_sha": "ea1e65fd55cdb60c0f1664c66045de88e993247b",
+    "purpose": "both begin Festival Night (1), target206"
+  }
+}

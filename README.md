@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **202 / 500 accepted; next Chapter 203.** Latest accepted family: **targets 198–202 — The Corpse Queen (1)–(5)**.
+Current checkpoint: **205 / 500 accepted; next Chapter 206.** Latest accepted family: **targets 203–205 — Mixed Bath (1)–(3)**.
 
-The next verified family is **Mixed Bath, targets 203–205**, mapped **203→E201 through 205→E203**. Target 206 begins **Festival Night (1)** and maps to E204.
+The next verified family is **Festival Night, targets 206–215**, mapped **206→E204 through 215→E213**. Target 216 begins **My Neck Will Be Your Sheath (1)** and maps to E214.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Mixed Bath family adds/revalidates:
+
+- **Snake Morgue timeline guard** — still human; Seere contract remains future-history.
+- **Dolores discipline principle** — gentle toward the weak, firm toward the strong.
+- **Sixth Fang emotion rule** — discard joy / anger / sorrow / pleasure.
+- **Seventh Fang emotion rule** — recover those same emotions.
+- **Graduator ceiling** — Vikir now questions Baskerville emotion-erasure training as a Sword Master limitation.
+- **Choco familiarity** — Dolores feels familiarity without identity recognition.
+- **Night Hound interest** — one-sided Dolores POV; Vikir remains oblivious.
+- **Festival Night** — next family targets 206–215; witnesses E204–E213.
+- **My Neck Will Be Your Sheath** begins target 216 / E214.
 
 The accepted Corpse Queen family adds/revalidates:
 
@@ -266,15 +278,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–202**:
+Current accepted production evidence covers targets **1–205**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0202.md`
-- `qa/chapter-0001.md` through `chapter-0202.md`
-- accepted family QA through `qa/families/corpse-queen-0198-0202.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0202.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0202.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0205.md`
+- `qa/chapter-0001.md` through `chapter-0205.md`
+- accepted family QA through `qa/families/mixed-bath-0203-0205.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0205.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0205.json`
 
-Latest family QA: `qa/families/corpse-queen-0198-0202.md` — **PASS**.
+Latest family QA: `qa/families/mixed-bath-0203-0205.md` — **PASS**.
 
 ## Editorial quality bar
 

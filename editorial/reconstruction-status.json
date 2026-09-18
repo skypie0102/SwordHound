@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 202,
+  "accepted_chapters": 205,
   "staged_chapters": 0,
-  "next_chapter": 203,
+  "next_chapter": 206,
   "latest_accepted_family": {
-    "name": "The Corpse Queen",
-    "range": [
-      198,
-      202
-    ],
-    "family_qa": "qa/families/corpse-queen-0198-0202.md"
-  },
-  "next_title_family": {
     "name": "Mixed Bath",
     "range": [
       203,
       205
     ],
-    "boundary_status": "verified three-part family",
-    "following_family_starts": 206,
-    "following_title": "Festival Night (1)",
-    "alignment_note": "203→E201,204→E202,205→E203;206→E204"
+    "family_qa": "qa/families/mixed-bath-0203-0205.md"
+  },
+  "next_title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "boundary_status": "verified ten-part family",
+    "following_family_starts": 216,
+    "following_title": "My Neck Will Be Your Sheath (1)",
+    "alignment_note": "206→E204 through215→E213;216→E214"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -264,23 +264,25 @@
     199,
     200,
     201,
-    202
+    202,
+    203,
+    204,
+    205
   ],
   "notes": [
-    "Chapters198-202 are accepted as The Corpse Queen (1)-(5).",
-    "Baby Madam silk becomes a major Night Hound mobility and rescue tool.",
-    "Seere is the Eighth Corpse, Chinese-primary Danger Rating S+; prior history expected Snake Morgue as the later contractor.",
-    "Current Corpse Queen is an unnamed woman and an incomplete half-human/half-demon contractor; her human identity remains unrevealed.",
-    "The Queen addresses Geronto as Rosie; target202 explicitly reveals Geronto's living identity as Rosie Morgue.",
-    "Peri replaces recovered-English Nymphet on the gold necklace, but the skeleton wearing it is not asserted to be Peri.",
-    "The Queen recognizes Ballak archery / Night Fox context; her grievance about that night remains unexplained.",
-    "The high undead is Ah'Heman, with death normalized to accepted Thorn-Tree Punishment/burning continuity.",
-    "Ephebo/Pedo/Hebe combine into an A+ Flesh-Patch Giant.",
-    "Vikir uses Peak Sword Graduator aura and Seventh Fang; the Queen urgently asks him to wait after recognizing the aura.",
-    "Baby Madam's apparent flight is a rescue maneuver; its silk lifeline saves Vikir from the final blast.",
-    "Rosie/Geronto evacuates the unconscious Queen, producing Vikir's first failed assassination.",
-    "C202 raw title drift is normalized to The Corpse Queen (5).",
-    "Next family targets203-205 — Mixed Bath (1)-(3), mapped 203→E201 through205→E203. Target206→E204 begins Festival Night (1).",
+    "Chapters203-205 are accepted as Mixed Bath (1)-(3).",
+    "Snake Morgue remains human in current intelligence; his Seere contract remains future-history.",
+    "Vikir identifies insufficient sword power as the main reason the Corpse Queen escaped.",
+    "The six second-years are returning Pigi bullies; minor names remain source/witness transliterations.",
+    "Dolores uses student-council authority against the animal abusers; her serial-killer/animal-abuse statement remains character dialogue.",
+    "Blessed bathwater heals dog-form Vikir and shows Dolores's post-Dantalian decisiveness / future Iron Saintess traits.",
+    "Sixth Fang teaching requires discarding joy/anger/sorrow/pleasure; Seventh Fang teaching requires recovering them.",
+    "Vikir concludes Baskerville emotion-erasure training efficiently produces Graduators but may block Sword Master progression.",
+    "Bath material remains awkward non-explicit pet-owner comedy; source explicitly denies Vikir lust.",
+    "Dolores feels Choco is strangely familiar but does not identify him.",
+    "Dolores's romantic interest is Night Hound; this remains one-sided POV and Vikir does not realize she means him.",
+    "Dolores plans to ask the Pope about Saintess awakening and soul resonance.",
+    "Next family targets206-215 — Festival Night (1)-(10), mapped206→E204 through215→E213. Target216→E214 begins My Neck Will Be Your Sheath (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

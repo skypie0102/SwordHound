@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 202,
+  "accepted_count": 205,
   "staged_count": 0,
-  "next_chapter": 203,
+  "next_chapter": 206,
   "active_title_family": {
-    "name": "Mixed Bath",
+    "name": "Festival Night",
     "range": [
-      203,
-      205
+      206,
+      215
     ],
-    "boundary_status": "verified three-part family",
-    "following_family_starts": 206,
-    "following_title": "Festival Night (1)",
-    "alignment_note": "203→E201,204→E202,205→E203;206→E204"
+    "boundary_status": "verified ten-part family",
+    "following_family_starts": 216,
+    "following_title": "My Neck Will Be Your Sheath (1)",
+    "alignment_note": "206→E204 through 215→E213;216→E214"
   },
   "chapters": [
     {
@@ -2843,6 +2843,48 @@
       "acceptance": "qa/acceptance/chapter-0202.json",
       "acceptance_sha": "43bc612c07dc797c48404d220ab752752a85cd5e",
       "family_qa": "qa/families/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 203,
+      "title": "Mixed Bath (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/203.txt",
+      "english_mtl_reference": "source/chapters/chapter-201.xhtml",
+      "draft": "manuscript/drafts/chapter-0203.md",
+      "qa": "qa/chapter-0203.md",
+      "provenance": "editorial/provenance/chapter-0203.json",
+      "acceptance": "qa/acceptance/chapter-0203.json",
+      "acceptance_sha": "5178ed2de9f6bdded7b615ebf3cc301d0c5c4f70",
+      "family_qa": "qa/families/mixed-bath-0203-0205.md"
+    },
+    {
+      "chapter": 204,
+      "title": "Mixed Bath (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/204.txt",
+      "english_mtl_reference": "source/chapters/chapter-202.xhtml",
+      "draft": "manuscript/drafts/chapter-0204.md",
+      "qa": "qa/chapter-0204.md",
+      "provenance": "editorial/provenance/chapter-0204.json",
+      "acceptance": "qa/acceptance/chapter-0204.json",
+      "acceptance_sha": "63581a5bb408aa0309bb0b9f1c8ca72dfbd64f0d",
+      "family_qa": "qa/families/mixed-bath-0203-0205.md"
+    },
+    {
+      "chapter": 205,
+      "title": "Mixed Bath (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/205.txt",
+      "english_mtl_reference": "source/chapters/chapter-203.xhtml",
+      "draft": "manuscript/drafts/chapter-0205.md",
+      "qa": "qa/chapter-0205.md",
+      "provenance": "editorial/provenance/chapter-0205.json",
+      "acceptance": "qa/acceptance/chapter-0205.json",
+      "acceptance_sha": "c0a33f3358bc69ed91fcc1169be77f0406eaee74",
+      "family_qa": "qa/families/mixed-bath-0203-0205.md"
     }
   ]
 }

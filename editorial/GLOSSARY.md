@@ -811,3 +811,20 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Mixed Bath** — next family targets 203–205; witnesses E201–E203.
 - **Festival Night** — begins target 206 / E204.
 
+## Mixed Bath additions — Chapters 203–205
+
+- **Mixed Bath** — accepted family targets 203–205; witnesses E201–E203.
+- **Snake Morgue timeline guard** — still human in current Cindywendy intelligence; Seere contract remains later-history.
+- **Returning Pigi bullies** — six second-years previously punished by Vikir; minor names remain source/witness transliterations.
+- **Dolores discipline principle** — gentle toward the weak, firm toward the strong.
+- **Iron Saintess growth** — post-Dantalian decisiveness foreshadows future battlefield Dolores.
+- **Sixth Fang emotion rule** — abandon joy / anger / sorrow / pleasure.
+- **Seventh Fang emotion rule** — recover joy / anger / sorrow / pleasure.
+- **Graduator ceiling** — Vikir now questions emotion-erasure training as a mass-Graduator method that may impede Sword Master progression.
+- **Sixth/Seventh interlock** — retain concept only; do not canonize unstable raw “double wisdom tooth/canine” label.
+- **Choco familiarity** — Dolores senses familiarity but does not identify Vikir.
+- **Night Hound interest** — Dolores's one-sided romantic interest; Vikir remains oblivious.
+- **Saintess awakening / soul resonance letter** — Dolores intends to ask the Pope.
+- **Festival Night** — next family targets 206–215; witnesses E204–E213.
+- **My Neck Will Be Your Sheath** — begins target 216 / E214.
+

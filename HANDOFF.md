@@ -5,48 +5,56 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-19
-- **Updated by:** ChatGPT — Corpse Queen acceptance checkpoint
-- **Working branch:** `editorial/restart-corpse-queen-0198-0202`
-- **Base main checkpoint:** `382526ec95a738a19cd530d61c38a9188122fa30` (Preparing for the Festival checkpoint merged)
-- **Current PR:** #57 — `Rebuild The Corpse Queen Chapters 198–202`
+- **Updated by:** ChatGPT — Mixed Bath acceptance checkpoint
+- **Working branch:** `editorial/restart-mixed-bath-0203-0205`
+- **Base main checkpoint:** `13e0a177efab61c06cd0e7f3125bfc4506e4d49a` (Corpse Queen checkpoint merged)
+- **Current PR:** #58 — `Rebuild Mixed Bath Chapters 203–205`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **202 / 500**
+- **Accepted:** **205 / 500**
 - **Staged:** **0**
-- **Next:** **203**
-- **Latest family:** targets **198–202 — The Corpse Queen (1)–(5)**
-- **Family QA:** `qa/families/corpse-queen-0198-0202.md` — PASS — `fb506d016902b863286ef630d41425b777dd0743`
-- **Next family:** targets **203–205 — Mixed Bath (1)–(3)**
-- **Following family:** target **206 — Festival Night (1)**
+- **Next:** **206**
+- **Latest family:** targets **203–205 — Mixed Bath (1)–(3)**
+- **Family QA:** `qa/families/mixed-bath-0203-0205.md` — PASS — `10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a`
+- **Next family:** targets **206–215 — Festival Night (1)–(10)**
+- **Following family:** target **216 — My Neck Will Be Your Sheath (1)**
 
 ## Key decisions
 
-- Seere = Eighth Corpse, Chinese-primary S+.
-- Current Corpse Queen is an unnamed female contractor, not future-history Snake Morgue.
-- Her human identity remains unrevealed through target 202.
-- Geronto is addressed as Rosie in 199; full identity **Rosie Morgue** is revealed only in 202.
-- Peri replaces “Nymphet” on the necklace; skeleton identity remains unproven.
-- Ah'Heman returns as an A+ lich; target-94 Thorn-Tree Punishment / burning continuity controls his death.
-- Ephebo / Pedo / Hebe combine into an A+ Flesh-Patch Giant.
-- Vikir uses Peak Sword Graduator aura and Seventh Fang.
-- Queen recognizes the aura and asks him to wait; no identity inference is promoted.
-- Baby Madam's apparent flight is a rescue maneuver; silk lifeline saves Vikir.
-- Rosie evacuates the Queen; Vikir records his first failed assassination.
-- Sadi arrives with Imperial Guard; Vikir escapes with Silent Heel and Picaresque.
+- Snake Morgue remains human; Seere contract remains future-history.
+- Vikir identifies his sword ceiling as the cause of the failed Corpse Queen assassination.
+- Six returning second-years are the Pigi bullies; minor names stay source/witness transliterations.
+- Dolores disciplines them under the principle: gentle toward the weak, firm toward the strong.
+- Her serial-killer / animal-abuse statement remains character dialogue.
+- Blessed bathwater heals Vikir and shows post-Dantalian Iron Saintess growth.
+- Sixth Fang requires discarding joy/anger/sorrow/pleasure.
+- Seventh Fang requires recovering those emotions.
+- Vikir recognizes Baskerville emotion-erasure training as potentially limiting Sword Master progression.
+- Bath scene remains non-explicit awkward comedy; source explicitly denies lust.
+- Choco feels familiar to Dolores, but she does not identify him.
+- Dolores's man of interest is the Night Hound; Vikir remains oblivious.
+- Dolores plans to write the Pope about Saintess awakening and soul resonance.
 
-## Next family — Mixed Bath 203–205
+## Next family — Festival Night 206–215
 
-- 203 → E201
-- 204 → E202
-- 205 → E203
-- boundary 206 → E204 begins **Festival Night (1)**.
+- 206 → E204
+- 207 → E205
+- 208 → E206
+- 209 → E207
+- 210 → E208
+- 211 → E209
+- 212 → E210
+- 213 → E211
+- 214 → E212
+- 215 → E213
+- boundary 216 → E214 begins **My Neck Will Be Your Sheath (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Corpse Queen checkpoint PR.
-2. Fresh branch from merged main for **Mixed Bath 203–205**.
-3. Read C203–205 against E201–203 completely.
-4. Use C206/E204 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all three chapters, then continue.
+1. Open/validate/merge the Mixed Bath checkpoint PR.
+2. Fresh branch from merged main for **Festival Night 206–215**.
+3. Read C206–215 against E204–213 completely.
+4. Use C216/E214 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept all ten chapters, then continue.
