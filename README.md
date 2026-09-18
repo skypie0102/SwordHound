@@ -4,13 +4,11 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 ## Start here
 
-**Every editorial session must read `HANDOFF.md` first.** It is the live cross-session continuation record and must be updated before the session ends or work is handed to another agent.
+**Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **60 / 500 accepted; next Chapter 61.** The latest accepted family is **Chapters 55–60 — The Hunter and the Hunted (1)–(6)**.
+Current checkpoint: **63 / 500 accepted; next Chapter 64.** Latest accepted family: **targets 61–63 — The Protagonist of Hunting (1)–(3)**.
 
-The 54/55 source exception has been corrected: physical `054.txt` overlaps targets 54 and 55. Target 55 is hybrid Chinese-overlap + E55 missing opening, not English-only.
-
-The next verified family is **target Chapters 61–63 — The Protagonist of Hunting**, with shifted recovered-English witnesses **61→E60, 62→E61, 63→E62**. Target 64 begins **Unfair Trade (1)** and aligns to E63.
+The recovered-English sequence remains one chapter behind current targets: **61→E60, 62→E61, 63→E62**. The next family is **Unfair Trade, targets 64–67**, mapped **64→E63 through 67→E66**.
 
 ## Current source policy
 
@@ -40,31 +38,28 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Hunter and Hunted family adds/revalidates:
+The accepted Protagonist of Hunting family adds/revalidates:
 
-- **54/55 combined-overlap exception** — `054.txt` contains target 54 plus most target 55. Target 54 ends at the hunt-offer/dawn-departure setup; target 55 begins with the E55 Ballak-language opening and then converges with the Chinese overlap.
-- **Bakira** — Aiyen's wolf and hunting companion.
-- **Oxbear** — standard window remains **Danger Rating A / 5 m / Le Rouge et Le Noir Mountain, 7th Ridge**; the old female encountered in the wild is an exceptional ~8 m individual.
-- **Low Sword Graduator** — Aiyen's liquid aura in target 60; `Gradient` remains rejected.
-- **Beelzebub Slot 1: Incinerate — Cerberus (A+)** — reaffirmed in target 60.
-- **Cold Valley** — descriptive working rendering for the target-59 camp location; not promoted as a dedicated canonical proper noun absent stronger evidence.
-- Recovered-English mapping through this family is content-shifted: **55 hybrid C054/E55, 56→E56, 57 no clean standalone E chapter, 58→E57, 59→E58, 60→E59**.
-- Chinese target coverage is now 500/500 at least partially; Chapters **49 and 55** carry documented localized gaps.
-- Next family: **The Protagonist of Hunting, target 61–63**; mapping **61→E60, 62→E61, 63→E62**.
-
-Earlier accepted terminology includes **Akwilla / Night Fox**, **Aiyen**, **Ahun**, **Divine Archer Adonai**, **Madam Eight-Legs**, **Tough Life**, **Infernal Buffalo ‘Murcielago’**, **Colosseo Academy**, and the established Baskerville Fang/rank system.
+- **Kilogram Hammer — Oxbear (A)** — canonical Beelzebub ability name; replaces the MTL's `Sacral Spine` / `Thousand Muscles`.
+- Post-Oxbear active Beelzebub slots: **Incinerate — Cerberus (A+) / Kilogram Hammer — Oxbear (A) / Tough Life — Infernal Buffalo (A)**.
+- **Piranha Natteri** — target-62 monster: D individual / A school, 30 cm standard size, Le Rouge et Le Noir Mountain 6th Ridge.
+- **Ah'Heman** — canonical Ballak shaman name, source-revealed in target 63.
+- **Ahun/Ah'Heman kinship conflict** — current source says son; later Fandom biography says grandson. Preserve current source semantics until later text resolves it.
+- **Fountain of Valor** — working rendering for Ballak's sacred healing spring.
+- **The Protagonist of Hunting** — normalized production family title for targets 61–63 despite Chinese title variants.
+- **Unfair Trade** — next family, targets 64–67; shifted witnesses E63–E66.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–60**:
+Current accepted production evidence covers targets **1–63**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0060.md`
-- `qa/chapter-0001.md` through `chapter-0060.md`
-- accepted family QA through `qa/families/hunter-hunted-0055-0060.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0060.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0060.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0063.md`
+- `qa/chapter-0001.md` through `chapter-0063.md`
+- accepted family QA through `qa/families/protagonist-hunting-0061-0063.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0063.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0063.json`
 
-The corrected Chapter-54 family evidence is rebound after the 54/55 split audit. Latest family QA: `qa/families/hunter-hunted-0055-0060.md` — **PASS**.
+Latest family QA: `qa/families/protagonist-hunting-0061-0063.md` — **PASS**.
 
 ## Editorial quality bar
 

@@ -9,6 +9,17 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Protagonist of Hunting additions — Chapters 61–63
+
+- **The Protagonist of Hunting** — normalized production family title for targets 61–63.
+- **Kilogram Hammer — Oxbear (A)** — accepted canonical Beelzebub skill. Effect: while Vikir holds his breath, his weight can rise to roughly 600 kg.
+- **Post-Oxbear Beelzebub slots** — Slot 1 Incinerate — Cerberus (A+); Slot 2 Kilogram Hammer — Oxbear (A); Slot 3 Tough Life — Infernal Buffalo (A). Hellhound/Hemorrhage is displaced.
+- **Piranha Natteri** — target-62 monster. Individual D / school A / 30 cm / Le Rouge et Le Noir Mountain 6th Ridge.
+- **Ah'Heman** — canonical Ballak shaman name, source-revealed in target 63.
+- **Ahun/Ah'Heman relationship** — current target-63 Chinese and aligned E62 say **son**; later Fandom biography says **grandson**. Keep source-level son wording until later source text resolves or explicitly retcons it.
+- **Fountain of Valor** — working rendering for the sacred Ballak healing spring; shallow, slow to replenish, weaker when shared.
+- **Unfair Trade** — next title family spans targets 64–67; recovered-English witnesses are E63–E66.
+
 ## The Hunter and the Hunted additions — Chapters 55–60
 
 - **54/55 combined-overlap exception** — physical `054.txt` contains target 54 plus most target 55; no standalone `055.txt` exists. E55 supplies the missing target-55 opening/title boundary only, then Chinese overlap controls.

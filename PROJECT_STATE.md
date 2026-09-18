@@ -2,46 +2,38 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 60  
+**Accepted:** 63  
 **Staged:** 0  
-**Next chapter:** 61
+**Next chapter:** 64
 
 ## Current accepted checkpoint
 
-Seventeen complete title families have passed the restarted workflow, through:
+Eighteen complete title families have passed the restarted workflow, through:
 
-- Chapters 52–54 — *Slaves of the Savage Tribe (1)–(3)*
 - Chapters 55–60 — *The Hunter and the Hunted (1)–(6)*
+- Chapters 61–63 — *The Protagonist of Hunting (1)–(3)*
 
-Latest family QA: `qa/families/hunter-hunted-0055-0060.md` — **PASS**.
+Latest family QA: `qa/families/protagonist-hunting-0061-0063.md` — **PASS**.
 
-Every accepted target has a reconstructed draft, chapter QA, provenance, and hash-bound acceptance record. Chinese controls narrative/semantic content wherever present; recovered English is used only as an aligned witness or for explicitly documented Chinese gaps.
+## The Protagonist of Hunting family decisions
 
-## Corrected 54/55 boundary
-
-- Physical `054.txt` is a combined/overlapping **target 54–55** container.
-- Correct target Chapter 54 ends after Aiyen offers hunting as a route toward freedom and sets departure for dawn.
-- The hunting ceremony, public-urination joke, wolf-riding lesson, Ahun conflict, Aiyen punishment, and “Did it hurt?” endpoint belong to target Chapter 55.
-- E54 supplies a short target-54 closing exchange absent at the Chinese splice.
-- E55 supplies the missing target-55 opening/title boundary; Chinese `054.txt` controls the overlapping target-55 body.
-- Chinese target coverage is therefore **500/500 at least partially**, with localized gaps documented for Chapters **49 and 55**.
-
-## The Hunter and the Hunted family decisions
-
-- Resolved content map: **55 = hybrid C054/E55; 56→E56; 57 has no clean standalone English counterpart; 58→E57; 59→E58; 60→E59**.
-- Chapter 56 preserves Aiyen's wound care, archery lesson, Bakira tracking, the Oxbear information window, and the exceptional old female.
-- Chapter 57 preserves Chinese-only/underrepresented material: Ahun's >300 kg boar, waterfall ecology, Oxbear mate-selection behavior, and the coercive Ballak comparison.
-- Chapter 58 preserves the three-day Oxbear breeding/exhaustion strategy without graphic sexualization.
-- Chapter 59 preserves lethal swamp mosquitoes, Cold Valley, the practical liquor/jerky transfer, and the male Oxbear reversing the hunt.
-- Chapter 60 preserves Aiyen's **Low Sword Graduator** aura and **Beelzebub Slot 1: Incinerate — Cerberus (A+)**. The Oxbear kill remains explicit.
-- The closing seed-collection contingency remains a clinical Ballak reproductive joke and is not expanded.
+- Verified shifted mapping: **61→E60, 62→E61, 63→E62**.
+- Chapter 61 updates Beelzebub's active slots to:
+  1. **Incinerate — Cerberus (A+)**
+  2. **Kilogram Hammer — Oxbear (A)**
+  3. **Tough Life — Infernal Buffalo (A)**
+- The Oxbear soul displaces the Hellhound soul; **Hemorrhage** is no longer one of the three active slots at this point.
+- Chapter 61 preserves Ballak's inverse meat/honor custom, Vikir's carcass-processing expertise, and the unnamed organ/folk-belief joke without inventing anatomy the source does not name.
+- Chapter 62 preserves the Madam Eight-Legs offering, **Piranha Natteri** window, Vikir's fishing/food stockpile, and the mate-assignment pressure around his expected freedom.
+- Chapter 63 formally releases Vikir from slavery and accepts him into Ballak.
+- **Ah'Heman** enters by canonical name as Ballak's shaman. Current Chinese/recovered-English chapter wording calls Ahun his **son**; later Fandom biography says grandson, so the source-level relationship is retained and the conflict is logged.
+- **Fountain of Valor** remains the working term for the sacred healing spring.
 
 ## Next verified title family
 
-- **Target Chapters 61–63 — The Protagonist of Hunting**
-- Chinese headings vary among `丰收节的主角`, `丰收祭的主角`, and `捕获祭典的主角`, but numbered/content continuity forms one three-part family.
-- Verified recovered-English mapping: **61→E60, 62→E61, 63→E62**.
-- Target Chapter 64 begins **Unfair Trade (1)** and aligns to **E63**.
+- **Target Chapters 64–67 — Unfair Trade (1)–(4)**
+- Recovered-English mapping remains shifted: **64→E63, 65→E64, 66→E65, 67→E66**.
+- Target Chapter 68 begins **Blood Relatives (1)** and aligns to **E67**.
 
 ## Source authority
 
@@ -63,4 +55,4 @@ Chapter 55 Chinese raw is genuinely missing; verified recovered English MTL 55 i
 
 ## Immediate next action
 
-Merge the clean **The Hunter and the Hunted (1)–(6), Chapters 55–60** checkpoint with the 54/55 corpus correction included. Then branch from merged main for **The Protagonist of Hunting, target Chapters 61–63**, use the verified shifted witnesses 61→E60 / 62→E61 / 63→E62, reconstruct and QA the full family, and continue directly into **Unfair Trade (1)**.
+Merge the clean **The Protagonist of Hunting (1)–(3), targets 61–63** checkpoint, then branch from merged main for **Unfair Trade, targets 64–67**. Use the verified shifted witnesses 64→E63 / 65→E64 / 66→E65 / 67→E66, reconstruct and QA the full family, then continue into **Blood Relatives (1)**.

@@ -1,0 +1,93 @@
+{
+  "chapter": 61,
+  "title": "The Protagonist of Hunting (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
+    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/061.txt",
+    "blob_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-060.xhtml",
+    "blob_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "target_alignment": 61,
+    "alignment_status": "target61_verified_to_e60_by_harvest_feast_inverse_honor_meat_beelzebub_oxbear_skill_butchering_and_organ_broth_endpoint",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/064.txt",
+    "chinese_sha": "332ef149eb32e1c0ba4aa67a53410d8d310f5844",
+    "english_path": "source/chapters/chapter-063.xhtml",
+    "english_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
+    "purpose": "both begin Unfair Trade (1) target64 family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville/Equipment",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Kilogram Hammer",
+        "Oxbear",
+        "Beelzebub"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Incinerate",
+        "Cerberus",
+        "Tough Life",
+        "Infernal Buffalo",
+        "Aiyen",
+        "Ahun",
+        "Ballak Tribe"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0061.md",
+    "blob_sha": "12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b"
+  },
+  "qa": {
+    "path": "qa/chapter-0061.md",
+    "blob_sha": "ec787604f0abda5c3bb072f0fc89ab3e1a62c016",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "beelzebub_slots",
+      "final": "Slot 1 Incinerate—Cerberus(A+); Slot 2 Kilogram Hammer—Oxbear(A); Slot 3 Tough Life—Infernal Buffalo(A)",
+      "basis": "Chinese target61 explicit window + canonical Kilogram Hammer evidence"
+    },
+    {
+      "topic": "hellhound_displaced",
+      "final": "Hemorrhage—Hellhound(B+) is no longer active after the Oxbear soul replaces the Hellhound soul",
+      "basis": "Chinese target61 explicit narrative"
+    },
+    {
+      "topic": "inverse_reward",
+      "final": "highest hunt contribution receives least meat and greatest honor",
+      "basis": "Chinese target61 Ballak custom"
+    },
+    {
+      "topic": "unnamed_organ",
+      "final": "keep final Oxbear organ unnamed while preserving village teasing/folk-belief implication",
+      "basis": "Chinese source does not explicitly identify the organ"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

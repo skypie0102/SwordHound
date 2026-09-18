@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Protagonist of Hunting (1)–(3) accepted
+
+**Current state:** 63 / 500 accepted; 0 staged; next Chapter 64.
+
+Completed targets 61–63 with verified shifted mapping **61→E60, 62→E61, 63→E62**.
+
+Key decisions:
+- canonicalized the Oxbear ability as **Kilogram Hammer — Oxbear (A)**;
+- updated Beelzebub's active three-slot state and displaced Hemorrhage;
+- preserved Ballak's inverse honor/meat custom and body-part folk medicine as cultural belief;
+- preserved the Madam Eight-Legs offering and Piranha Natteri info window;
+- kept mate-assignment pressure source-level and non-romanticized;
+- formally freed Vikir and accepted him into Ballak in target 63;
+- introduced **Ah'Heman** without importing later spoilers;
+- logged the source-vs-Fandom Ahun/Ah'Heman son/grandson conflict;
+- retained **Fountain of Valor** as the working term.
+
+Family QA: `qa/families/protagonist-hunting-0061-0063.md` — **PASS**.
+
+Next family: **Unfair Trade (1)–(4), targets 64–67**, mapped **64→E63 through 67→E66**.
+
 ## 2026-09-18 — The Hunter and the Hunted (1)–(6) accepted under corrected source mapping
 
 **Current state:** 60 / 500 accepted; 0 staged; next Chapter 61.

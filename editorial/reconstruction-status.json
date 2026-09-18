@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 60,
+  "accepted_chapters": 63,
   "staged_chapters": 0,
-  "next_chapter": 61,
+  "next_chapter": 64,
   "latest_accepted_family": {
-    "name": "The Hunter and the Hunted",
-    "range": [
-      55,
-      60
-    ],
-    "family_qa": "qa/families/hunter-hunted-0055-0060.md"
-  },
-  "next_title_family": {
     "name": "The Protagonist of Hunting",
     "range": [
       61,
       63
     ],
-    "boundary_status": "verified from Chinese target headings/content and shifted recovered-English sequence",
-    "following_family_starts": 64,
-    "following_title": "Unfair Trade (1)",
-    "alignment_note": "target 61→E60, 62→E61, 63→E62; target 64→E63"
+    "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
+  },
+  "next_title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "boundary_status": "verified from Chinese target headings and shifted recovered-English headings/content",
+    "following_family_starts": 68,
+    "following_title": "Blood Relatives (1)",
+    "alignment_note": "target 64→E63, 65→E64, 66→E65, 67→E66; target 68→E67"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -122,17 +122,19 @@
     57,
     58,
     59,
-    60
+    60,
+    61,
+    62,
+    63
   ],
   "notes": [
-    "Chapters 55-60 are accepted as The Hunter and the Hunted (1)-(6) after a corrected source-boundary and content-alignment audit.",
-    "Physical 054.txt is a combined/overlapping target 54-55 container: target 54 ends at the hunt-offer/dawn-departure setup; most target-55 body follows without a Chapter 55 heading.",
-    "Target 55 is hybrid evidence, not English-only: E55 supplies the missing opening/title boundary, while Chinese 054 controls the overlapping body.",
-    "Target 57 has no clean standalone recovered-English counterpart; E56 only partially overlaps its Oxbear-selection material.",
-    "Verified shifted mapping: target 58→E57, target 59→E58, target 60→E59. E60 belongs to target 61.",
-    "Chapter 60 preserves Aiyen's Low Sword Graduator aura and Beelzebub Slot 1 Incinerate — Cerberus (A+) during the Oxbear kill.",
-    "Chinese target coverage is now 500/500 at least partially; Chapters 49 and 55 contain documented localized Chinese gaps.",
-    "Next target family is Chapters 61-63, normalized working title The Protagonist of Hunting; target 64 begins Unfair Trade (1).",
+    "Chapters 61-63 are accepted as The Protagonist of Hunting (1)-(3) after Chinese-first reconstruction, chapter QA, and family QA.",
+    "Verified shifted mapping continues: target 61→E60, 62→E61, 63→E62. Target 64 begins Unfair Trade (1) and maps to E63.",
+    "Chapter 61 updates Beelzebub's active slots to Incinerate—Cerberus(A+), Kilogram Hammer—Oxbear(A), Tough Life—Infernal Buffalo(A); Hemorrhage is displaced.",
+    "Chapter 62 preserves the Madam Eight-Legs offering, Piranha Natteri window, Vikir's food stockpiling, and the village mate-assignment pressure without romanticization.",
+    "Chapter 63 formally frees Vikir and accepts him into Ballak; Ah'Heman is introduced by canonical name and the current source-level Ahun=son wording is retained despite later Fandom biography conflict.",
+    "Fountain of Valor remains the working term for Ballak's sacred healing spring.",
+    "Next verified family is target Chapters 64-67 — Unfair Trade (1)-(4), with shifted recovered-English mapping 64→E63 through 67→E66.",
     "Chinese raws control narrative/semantic content wherever present; English Fandom/project register controls canonical English renderings.",
     "Every editorial session must read and update HANDOFF.md."
   ],

@@ -1,0 +1,46 @@
+{
+  "chapter": 61,
+  "title": "The Protagonist of Hunting (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
+    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/061.txt",
+    "primary_source_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "english_reference_path": "source/chapters/chapter-060.xhtml",
+    "english_reference_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "draft_path": "manuscript/drafts/chapter-0061.md",
+    "draft_sha": "12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b",
+    "qa_path": "qa/chapter-0061.md",
+    "qa_sha": "ec787604f0abda5c3bb072f0fc89ab3e1a62c016",
+    "provenance_path": "editorial/provenance/chapter-0061.json",
+    "provenance_sha": "0ae2572b80a6b5a77e53d5c6b12845d465286c3f"
+  },
+  "canonical_checks": [
+    "Beelzebub",
+    "Incinerate",
+    "Kilogram Hammer",
+    "Tough Life",
+    "Cerberus",
+    "Oxbear",
+    "Infernal Buffalo",
+    "Aiyen",
+    "Ahun",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Recovered English is shifted by one chapter here: target 61 uses E60.",
+    "Kilogram Hammer replaces the active Hellhound slot; later Beelzebub upgrades are not imported.",
+    "The unnamed Oxbear organ remains unnamed and is not eroticized."
+  ]
+}
