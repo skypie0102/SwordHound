@@ -1,0 +1,98 @@
+{
+  "chapter": 73,
+  "title": "The Red Death (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Red Death",
+    "range": [
+      72,
+      74
+    ],
+    "family_qa_path": "qa/families/red-death-0072-0074.md",
+    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/073.txt",
+    "blob_sha": "9d3b6ccf88426b104e6e2577ae89fd4520bd685e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-072.xhtml",
+    "blob_sha": "15de32585922e667eeb7508af7c4b04e1c596f79",
+    "target_alignment": 73,
+    "alignment_status": "target73_verified_to_e72_by_elevated_ballak_village_flood_works_mushuhushu_attack_pomeranian_meal_and_ahun_help_endpoint",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/075.txt",
+    "chinese_sha": "e65af08f559f82f470687cc42c1d1420e1e55e15",
+    "english_path": "source/chapters/chapter-074.xhtml",
+    "english_sha": "1bc968f310582423381420fc7e09e84aa4cf7e72",
+    "purpose": "both begin The Hound of the Night (1) target75; C075 is combined target75-76 container"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Ballak Tribe",
+        "Aiyen",
+        "Vikir",
+        "Beelzebub",
+        "High Sword Graduator",
+        "Pomeranian La Baskerville",
+        "Ahun",
+        "Red Death"
+      ]
+    },
+    {
+      "site": "aligned recovered English witness",
+      "page_title": "The Red Death (2)",
+      "retrieval_mode": "corpus_alignment",
+      "applies_to": [
+        "Mushuhushu phonetic name witness",
+        "Ka'ah local individual name"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0073.md",
+    "blob_sha": "7ec4255821d6d640912a6848faf3394ef416ba2d"
+  },
+  "qa": {
+    "path": "qa/chapter-0073.md",
+    "blob_sha": "bf8efc732b0dac66c449b261357ec75c217950fa",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "village_engineering",
+      "final": "habitation raised at least 15m into trees; drainage and embankments redirect floodwater",
+      "basis": "Chinese target73"
+    },
+    {
+      "topic": "monster_window",
+      "final": "Mushuhushu: A+, 32m, 8th Ridge, alias Nation-Swallowing Snake",
+      "basis": "Chinese target73 semantics + target69 phonetic continuity"
+    },
+    {
+      "topic": "mtl_rejection",
+      "final": "reject Monsieur Hushu / Full-body Intestine Snake alias corruption",
+      "basis": "Chinese target73"
+    },
+    {
+      "topic": "combat",
+      "final": "Vikir uses High Sword Graduator aura and six Fangs; Aiyen contributes cover fire; Ka'ah escapes wounded",
+      "basis": "Chinese target73"
+    },
+    {
+      "topic": "endpoint",
+      "final": "Ahun enters in distress and asks Vikir to save Aheul",
+      "basis": "Chinese target73"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
