@@ -1,0 +1,94 @@
+{
+  "chapter": 63,
+  "title": "The Protagonist of Hunting (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Protagonist of Hunting",
+    "range": [
+      61,
+      63
+    ],
+    "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
+    "family_qa_sha": "24830757676e781286800d4b32b6f302c4d2849e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/063.txt",
+    "blob_sha": "9db84e3df9443b7dbe9591327707cf2ff8677504",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-062.xhtml",
+    "blob_sha": "72c9b67ea93f772a9ab6adadfce10f33f7de34ad",
+    "target_alignment": 63,
+    "alignment_status": "target63_verified_to_e62_by_akwilla_audience_freedom_ahheman_opposition_reward_offer_fountain_of_valor_and_outsider_alarm",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/064.txt",
+    "chinese_sha": "332ef149eb32e1c0ba4aa67a53410d8d310f5844",
+    "english_path": "source/chapters/chapter-063.xhtml",
+    "english_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
+    "purpose": "both begin Unfair Trade (1) target64 family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Ah'Heman",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Ah'Heman",
+        "Shaman of the Ballak Clan"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Akwilla",
+        "Night Fox",
+        "Aiyen",
+        "Ahun",
+        "Divine Archer Adonai",
+        "Hugo Le Baskerville",
+        "Adolf Morgue",
+        "Ballak Tribe",
+        "Oxbear"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0063.md",
+    "blob_sha": "d7438ff75abb5f1413c44d22200953a9fc486628"
+  },
+  "qa": {
+    "path": "qa/chapter-0063.md",
+    "blob_sha": "4fbc22bada0094afda96fb237f9a2e89607c0bed",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "viktir_freed",
+      "final": "Vikir's slave status ends and he is formally accepted into Ballak",
+      "basis": "Chinese target63"
+    },
+    {
+      "topic": "ahun_ahheman_kinship",
+      "final": "retain source-level statement that Ahun is Ah'Heman's son; later Fandom biography says grandson and is chronology/conflict-logged rather than imported",
+      "basis": "Chinese and aligned E62 agree on son in this chapter; later wiki conflicts"
+    },
+    {
+      "topic": "fountain_of_valor",
+      "final": "retain current working term Fountain of Valor for sacred healing spring",
+      "basis": "aligned E62 wording + Chinese semantics"
+    },
+    {
+      "topic": "spoiler_guard",
+      "final": "exclude later Ah'Heman origin/conspiracy/Red Death/necromancy/death material",
+      "basis": "source reveal chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
