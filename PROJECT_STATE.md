@@ -2,43 +2,39 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 89  
+**Accepted:** 94  
 **Staged:** 0  
-**Next chapter:** 90
+**Next chapter:** 95
 
 ## Current accepted checkpoint
 
-Twenty-five complete title families have passed the restarted workflow, through:
+Twenty-six complete title families have passed the restarted workflow, through:
 
-- Chapters 83–84 — *Lovesickness (1)–(2)*
 - Chapters 85–89 — *The Illiad (1)–(5)*
+- Chapters 90–94 — *The Ghosts of the Ancestors (1)–(5)*
 
-Latest family QA: `qa/families/illiad-0085-0089.md` — **PASS**.
+Latest family QA: `qa/families/ghosts-ancestors-0090-0094.md` — **PASS**.
 
-## The Illiad family decisions
+## The Ghosts of the Ancestors family decisions
 
-- Verified mapping: **85→E84 through 89→E88**.
-- Target 85 adds **Silent Heel — Mushuhushu (A+)** to Beelzebub; active slots are now **Incinerate / Silent Heel / Kilogram Hammer**, with Tough Life displaced.
-- Mushuhushu's accepted alias remains **‘Nation-Swallowing Snake’**; target-85 intestine wording is retained descriptively.
-- Ka'ah is an exceptional individual at roughly **40 m / >5 tons / ~3 m mid-body diameter**.
-- Target 86 explicitly confirms Ah'Heman knowingly collaborated with Leviathan, aided Bourgeois exploitation, and deliberately infected Aheul.
-- Target 87's letters are **forged by Vikir** using handwriting imitation learned from Chihuahua. The underlying crime remains independently established by Ah'Heman's own target-86 narration.
-- **Illiad** is Ballak's final life-and-death honor duel for irreconcilable disputes.
-- Ah'Heman's youthful abuse by the previous shaman is preserved non-graphically as abuse.
-- Aiyen's brief kiss with seventeen-year-old Vikir remains nonsexual romantic affection.
-- Target 89 Chinese spider / inner-thigh details override recovered-English corruption.
-- Ah'Heman's corpse reanimation reveals his birth tribe as **Rokoko**.
-- Target 89 ends before the old female Oxbear's strike.
+- Verified mapping: **90→E89 through 94→E93**.
+- Target 90: the old female Oxbear completes Ah'Heman's Illiad defeat; Ah'Heman abandons Ballak identity and returns to Rokoko forbidden necromancy.
+- Target 91: ancestral **Death Knights** rise from the **Tomb of the Brave**; endpoint source-reveals **Divine Archer Adonai**.
+- Target 92: Adonai is master/Bow Master class. His black bow is made from old **Madam Eight-Legs** material and carries her poison.
+- Vikir remains **High Sword Graduator**; his liquid aura cannot match Adonai's master-level solid aura.
+- Target 93: Akwilla's apparent misses deliberately ride Adonai's storm and return from behind; she defeats the reanimated Adonai but does not claim superiority over his living prime.
+- Target 94: Vikir releases salt-heavy floodwater to purify the Death Knights; Adonai's bow survives; Ah'Heman dies through the **Thorn-Tree Punishment** he devised.
+- Target 94 ends before the Madam Eight-Legs village-attack aftermath.
 
 ## Next verified title family
 
-- **Target Chapters 90–94 — The Ghosts of the Ancestors (1)–(5)**
-- Verified mapping: **90→E89, 91→E90, 92→E91, 93→E92, 94→E93**.
-- Target Chapter 95 begins **Madam Eight-Legs (1)** and aligns to **E94**.
+- **Target Chapters 95–100 — Madam Eight-Legs (1)–(6)**
+- Verified mapping: **95→E94, 96→E95, 97→E96, 98→E97, 99→E98, 100→E99**.
+- Target Chapter 101 begins **Nostalgia (1)** and aligns to **E100**.
 
 ## Source authority
 
-Chinese is primary for narrative/semantic content. The English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki controls established English names/terms for confidently identified entities where applicable. Recovered English MTL is a secondary alignment/phrasing witness only, except Chapter 55 where no Chinese raw exists.
+Chinese is primary for narrative/semantic content. The English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki controls established English names/terms for confidently identified entities where applicable. Recovered English MTL is a secondary alignment/phrasing witness only, with scoped restoration only where Chinese has documented localized gaps/splices.
 
 Corpus constants:
 
@@ -57,4 +53,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Illiad (1)–(5), targets 85–89** checkpoint, then branch from merged main for **The Ghosts of the Ancestors, targets 90–94**. Read the five Chinese/shifted-English pairs completely with target 95 / E94 as the boundary, reconstruct and QA the entire family, then continue directly into **Madam Eight-Legs**.
+Merge the clean **The Ghosts of the Ancestors (1)–(5), targets 90–94** checkpoint, then branch from merged main for **Madam Eight-Legs, targets 95–100**. Read C95–100 + E94–99 completely with C101/E100 as the boundary, reconstruct and QA all six chapters, then continue directly into **Nostalgia**.
