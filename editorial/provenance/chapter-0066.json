@@ -1,0 +1,89 @@
+{
+  "chapter": 66,
+  "title": "Unfair Trade (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/066.txt",
+    "blob_sha": "72108754001f9ed99d7d87d2788032319851c716",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-065.xhtml",
+    "blob_sha": "083f5862d89100752c1057afc33d87257f558db2",
+    "target_alignment": 66,
+    "alignment_status": "target66_verified_to_e65_by_mercenary_night_attack_cigarette_ambush_survivor_tracking_oil_barrel_attack_permit_revocation_and_madam_endpoint",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/068.txt",
+    "chinese_sha": "6738e266653f25e335c1b4902dff8a82d0a24ba9",
+    "english_path": "source/chapters/chapter-067.xhtml",
+    "english_sha": "e33d1a93a127afe970a5ccc2d3a9d56aa946a087",
+    "purpose": "both begin Blood Relatives (1) target68 family"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Sir Smuggler",
+        "Ballak Tribe",
+        "Aiyen",
+        "Ahun",
+        "Bakira",
+        "Madam Eight-Legs",
+        "Underdog City",
+        "Baskerville"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0066.md",
+    "blob_sha": "b4c7957d92f3809bc1e8addf3e811682c7ca10d6"
+  },
+  "qa": {
+    "path": "qa/chapter-0066.md",
+    "blob_sha": "3c37642adfbbd303e72e76d98d961fb797f1db72",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "ambush",
+      "final": "cigarette light/sound cues used to range and kill attackers; leave some survivors to expose rear camp",
+      "basis": "Chinese target66"
+    },
+    {
+      "topic": "oil_barrels",
+      "final": "multi-arrow rope rig carries oil barrels; fire arrows ignite camp and supplies",
+      "basis": "Chinese target66"
+    },
+    {
+      "topic": "permit",
+      "final": "Sir Smuggler presents Underdog exploration permit; Vikir reveals identity to him and revokes/crosses it out without inventing extra legal procedure",
+      "basis": "Chinese target66"
+    },
+    {
+      "topic": "madam_bait",
+      "final": "camp fire/noise deliberately creates conditions that attract Madam Eight-Legs; Ballak withdraws before arrival",
+      "basis": "Chinese target66"
+    },
+    {
+      "topic": "violence",
+      "final": "retain source-level lethal consequences without reproducing gratuitous racist slurs",
+      "basis": "Chinese target66"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
