@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **77 / 500 accepted; next Chapter 78.** Latest accepted family: **targets 75–77 — The Hound of the Night (1)–(3)**.
+Current checkpoint: **82 / 500 accepted; next Chapter 83.** Latest accepted family: **targets 78–82 — The Saintess (1)–(5)**.
 
-The next verified family is **The Saintess, targets 78–82**, mapped **78→E77 through 82→E81**. Target 83 begins **Lovesickness (1)**.
+The next verified family is **Lovesickness, targets 83–84**, mapped **83→E82, 84→E83**. Target 85 begins **The Illiad (1)**.
 
 ## Current source policy
 
@@ -38,30 +38,30 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Hound of the Night family adds/revalidates:
+The accepted Saintess family adds/revalidates:
 
-- **Hound of the Night** — Vikir's masked alias, derived from Akwilla's **Night Fox** title.
-- **075.txt combined-source exception** — targets 75–76 share one physical raw with no internal target-76 marker and no safe byte-level seam.
-- Target 75 reconstruction mode: Chinese body + scoped E74 missing close.
-- Target 76 reconstruction mode: scoped E75 missing opening/context + Chinese body.
-- **Saint Mecca** — Quovadis central city used for this arc.
-- **Dolores L. Quovadis** — canonical/source-supported spelling; detailed profile begins in target 78.
-- **Mozgus Quovadis** — source-revealed in target 77; current combat estimate between Mid and High Sword Graduator.
-- **Kilogram Hammer — Oxbear (A)** / **Incinerate — Cerberus (A+)** / six Fangs — reaffirmed in target 77.
-- **The Saintess** — next family spans targets 78–82; witnesses E77–E81.
-- **Lovesickness** begins target 83 / E82.
+- **Dolores L. Quovadis** — canonical form; sixteen during targets 78–82.
+- **Humbert L. Quovadis** — canonical Fandom form; raw/recovered `Humbert Humbert L. Quovadis` is not used.
+- **Nabokov I Quovadis** — Pope-level authority referenced in target 79.
+- **Plany de la Verge / Saintess's Tears** — three concentrated holy-water drops completed in target 82.
+- **Old Testament Faction / New Testament Faction** — Quovadis internal factions.
+- **Bourgeois emblem** in target 82 = Chinese-source **nail and hammer**; recovered-English `scythe and hammer` rejected.
+- **Target-79 case correction** — primary contaminated-water cases only; no secondary saliva/waste cases yet.
+- **Divine-power short selling** — target-81 fantasy magic mechanic; not real-world medical/religious guidance.
+- **Lovesickness** — next family targets 83–84; witnesses E82–E83.
+- **The Illiad** begins target 85 / E84.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–77**:
+Current accepted production evidence covers targets **1–82**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0077.md`
-- `qa/chapter-0001.md` through `chapter-0077.md`
-- accepted family QA through `qa/families/hound-night-0075-0077.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0077.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0077.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0082.md`
+- `qa/chapter-0001.md` through `chapter-0082.md`
+- accepted family QA through `qa/families/saintess-0078-0082.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0082.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0082.json`
 
-Latest family QA: `qa/families/hound-night-0075-0077.md` — **PASS**.
+Latest family QA: `qa/families/saintess-0078-0082.md` — **PASS**.
 
 ## Editorial quality bar
 
