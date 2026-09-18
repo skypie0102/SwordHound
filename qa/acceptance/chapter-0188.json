@@ -1,0 +1,43 @@
+{
+  "chapter": 188,
+  "title": "Aftermath (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Aftermath",
+    "range": [
+      186,
+      189
+    ],
+    "family_qa_path": "qa/families/aftermath-0186-0189.md",
+    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/188.txt",
+    "primary_source_sha": "df4e9687bb105e46b08cbce55b062bdac758b608",
+    "english_reference_path": "source/chapters/chapter-186.xhtml",
+    "english_reference_sha": "b24c6082ca68eac0a5cbcc0a2c11d80571badecc",
+    "draft_path": "manuscript/drafts/chapter-0188.md",
+    "draft_sha": "a5acf6864aadc537b94251c915c505b4c1c93de3",
+    "qa_path": "qa/chapter-0188.md",
+    "qa_sha": "622f8ee2e4eb5eed4791633f8589512ec6e204b6",
+    "provenance_path": "editorial/provenance/chapter-0188.json",
+    "provenance_sha": "5e6709d037cafe4e29095a6c4f0172e4a1249331"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Professor Sadi",
+    "Donatien Alphonse François Sadi de Sade",
+    "Professor Banshee Morgue",
+    "Sinclaire",
+    "Bianca Fo Usher"
+  ],
+  "documented_limits": [
+    "Sadi abuse claims remain attributed reputation/rumor.",
+    "Alleged motive remains uncertain.",
+    "Dolores's Vikir/Night Hound phrase overlap remains dismissed by her as coincidence."
+  ],
+  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1)."
+}
