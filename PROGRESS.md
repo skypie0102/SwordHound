@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Drinking Game (1)–(3) accepted
+
+**Current state:** 154 / 500 accepted; 0 staged; next Chapter 155.
+
+Completed targets 152–154 with mapping **152→E151 through 154→E153**.
+
+Key decisions: Yut and Go mechanics are Chinese-primary; Pigi/Sinclaire gender drift is corrected; target 152 follows the source's flirting-game register rather than the old witness's vulgar escalation; target 153 locks **atari**, **speed Go**, and **manpae bulcheong** in place of recovered-English corruptions; Vikir's aggressive Go style remains a wartime-survival artifact; and target 154 preserves Dolores's accident without gratuitous crudity while ending on Vikir taking the blame.
+
+Family QA: `qa/families/drinking-game-0152-0154.md` — **PASS**.
+
+Next verified family: **155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**. Target **158** begins *Familiar Face (1)*.
+
 ## 2026-09-18 — Not Brother, But Uncle (1)–(2) accepted
 
 **Current state:** 151 / 500 accepted; 0 staged; next Chapter 152.
