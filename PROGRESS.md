@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Attack Land (1)–(7) accepted
+
+**Current state:** 196 / 500 accepted; 0 staged; next Chapter 197.
+
+Completed targets 190–196 with mapping **190→E188 through 196→E194**.
+
+Key decisions: Attack-test humanoid golems preserve remote-control handicaps; Tudor 35 / Bianca 31 / Granola 35 / Sancho 17; Sinclaire 19; C192's final-name slip is repaired so **Pigi** follows Sinclaire; C193's department drift is repaired so Pigi remains **Cold Department**; Pigi's one-point broken-blade strike creates the golem weakness Vikir exploits; crowd Sword Master chatter remains in-world exaggeration while Vikir's public level stays **Sword Expert Advanced**; the returning-arrow eye injury remains publicly accidental; Vikir scores **40** and finishes first overall.
+
+Family QA: `qa/families/attack-land-0190-0196.md` — **PASS**.
+
+Next verified boundary: **197 — Preparing for the Festival** (E195), followed by **198 — The Corpse Queen (1)** (E196).
+
 ## 2026-09-18 — Aftermath (1)–(4) accepted
 
 **Current state:** 189 / 500 accepted; 0 staged; next Chapter 190.
