@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The 99 Hits With 100 Shots (1)–(3) accepted
+
+**Current state:** 178 / 500 accepted; 0 staged; next Chapter 179.
+
+Completed targets 176–178 with mapping **176→E174 through 178→E176**.
+
+Key decisions: Bianca records 1,437/1,440; Vikir's 1,436/1,440 is caused by a deliberate mosquito shot on the six-ring; Ballak archery/names are canonicalized; Picaresque dog-form Vikir is named **Choco** by Dolores; Vikir reaches **12× gravity without mana**; Bianca connects the mosquito shot to the rooftop rum clue; Tudor/Bianca future romance remains prior-life knowledge; and Baby Madam is queued for more poison during the midterm practical.
+
+Family QA: `qa/families/99-hits-0176-0178.md` — **PASS**.
+
+Next verified family: **179–185 — Midterm Random Defense (1)–(7)**. Target **186** begins *Aftermath (1)*.
+
 ## 2026-09-18 — The Anti-Columnist (1)–(4) accepted
 
 **Current state:** 175 / 500 accepted; 0 staged; next Chapter 176.
