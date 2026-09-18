@@ -1,5 +1,29 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Hunt for the Second Son (1)–(6) accepted
+
+**Current state:** 125 / 500 accepted; 0 staged; next Chapter 126.
+
+Completed targets 120–125 with mapping **120→E119 through 125→E124**.
+
+Key decisions:
+- preserved target 120's hidden cave / child-murder / Gate setup while withholding Andromalius's name until the source reveal in target 121;
+- canonicalized **Andromalius — Tenth Corpse — Danger Level S+** and **Ten Corpses** at the source-timed reveal;
+- kept Vikir at **Peak Sword Graduator** using the **Seventh Fang**, without converting eighth/ninth/tenth technique knowledge into unsupported current mastery;
+- preserved Beelzebub's spiritual-body mechanics and current slots: Venom / Silent Heel / Super High-Speed Regeneration;
+- retained the poisoned-blood counter to Andromalius's fly/blood-drain authority;
+- normalized **Anubis** as the legendary black bow formerly wielded by Adonai;
+- preserved the full seven-order mobilization: Seven Counts plus roughly 700 Sword Graduators under Vikir's half-day command;
+- preserved Osiris's apparent beheading followed by Andromalius's severed-head escape attempt and Hugo's final soul-erasing kill;
+- canonicalized **Nute Baskerville** and retained the source's 1,642-charge indictment;
+- recorded the target-125 “murder of the First Lady” charge as an unresolved later allegation rather than retroactively rewriting Roxana's earlier illness statements;
+- kept the political-consolidation interpretation explicitly inside Vikir's viewpoint;
+- stopped cleanly before target 126.
+
+Family QA: `qa/families/hunt-second-son-0120-0125.md` — **PASS**.
+
+Next verified family: targets **126–129 — Admission to the Academy (1)–(4)**, mapped **126→E125 through 129→E128**. Target **130** begins *The Freshman Talent Show (1)* and maps to **E129**.
+
 ## 2026-09-18 — Falling in Love (1)–(3) accepted
 
 **Current state:** 119 / 500 accepted; 0 staged; next Chapter 120.
