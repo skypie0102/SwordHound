@@ -1,0 +1,45 @@
+{
+  "chapter": 159,
+  "title": "Familiar Face (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/159.txt",
+    "primary_source_sha": "8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d",
+    "english_reference_path": "source/chapters/chapter-158.xhtml",
+    "english_reference_sha": "3c7c17917f56fd16b0400a2baa8f8ea093a203d6",
+    "draft_path": "manuscript/drafts/chapter-0159.md",
+    "draft_sha": "d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8",
+    "qa_path": "qa/chapter-0159.md",
+    "qa_sha": "2d1b7ca6f575e546c5c8595008bc37319d832d43",
+    "provenance_path": "editorial/provenance/chapter-0159.json",
+    "provenance_sha": "ed33afece52f63f37e29b3305e864b2b9f3e743d"
+  },
+  "canonical_checks": [
+    "Mozgus Quovadis",
+    "Seth Le Baskerville",
+    "Camus Morgue",
+    "Cardinal Martin Luther",
+    "Humbert L. Quovadis",
+    "Ninth Corpse",
+    "Pedo",
+    "Hebe"
+  ],
+  "documented_limits": [
+    "Mozgus's twin uses relational identification because stable canonical English spelling is unavailable.",
+    "Ninth Corpse is revealed, but later personal name/epithet remains withheld.",
+    "Dolores's Quovadis crisis is her perspective, not narrator condemnation of all factions."
+  ],
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+}
