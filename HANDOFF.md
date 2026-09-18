@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Festival Night acceptance checkpoint
 - **Working branch:** `editorial/restart-festival-night-0206-0215`
 - **Base main checkpoint:** `b07eb37f00b3f4763967a1772dd3671955b16f99` (Mixed Bath checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #59 — `Rebuild Festival Night Chapters 206–215`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
