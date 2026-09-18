@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **74 / 500 accepted; next Chapter 75.** Latest accepted family: **targets 72–74 — The Red Death (1)–(3)**.
+Current checkpoint: **77 / 500 accepted; next Chapter 78.** Latest accepted family: **targets 75–77 — The Hound of the Night (1)–(3)**.
 
-Recovered-English numbering remains one chapter behind: **72→E71, 73→E72, 74→E73**. The next family is **The Hound of the Night, targets 75–77**, mapped **75→E74, 76→E75, 77→E76**. Target 78 begins **The Saintess (1)**.
+The next verified family is **The Saintess, targets 78–82**, mapped **78→E77 through 82→E81**. Target 83 begins **Lovesickness (1)**.
 
 ## Current source policy
 
@@ -38,30 +38,30 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Red Death family adds/revalidates:
+The accepted Hound of the Night family adds/revalidates:
 
-- **Red Death** — fictional in-world plague; source-level transmission/prevention details are narrative mechanics, not real-world medical guidance.
-- **Mushuhushu** — target-73 giant serpent. **Danger Rating A+ / 32 m / Le Rouge et Le Noir Mountain, 8th Ridge / ‘Nation-Swallowing Snake’**.
-- **Ka'ah** — local old Mushuhushu individual known to Ballak; escapes target 73 wounded.
-- **High Sword Graduator / six Fangs** — reaffirmed in the Mushuhushu fight; `Superior Gradient` / `Teeth` rejected.
-- **Aheul** — fourteen in target 74; illness material remains strictly medical/nonsexual.
-- **Ah'Heman** — grandfather of Ahun/Aheul; target-74 insult refers to their **parents**, not the MTL's `mother-in-law`.
-- Ballak outsider-exit rule: >2 years residence plus a native family bond including at least three children; retained as source-level tribal law without sexualization.
-- **The Hound of the Night** — next family spans targets 75–77.
-- Physical `075.txt` combines targets 75–76 but lacks a safe internal source seam; do not invent a raw split.
-- **The Saintess** begins target 78 / E77.
+- **Hound of the Night** — Vikir's masked alias, derived from Akwilla's **Night Fox** title.
+- **075.txt combined-source exception** — targets 75–76 share one physical raw with no internal target-76 marker and no safe byte-level seam.
+- Target 75 reconstruction mode: Chinese body + scoped E74 missing close.
+- Target 76 reconstruction mode: scoped E75 missing opening/context + Chinese body.
+- **Saint Mecca** — Quovadis central city used for this arc.
+- **Dolores L. Quovadis** — canonical/source-supported spelling; detailed profile begins in target 78.
+- **Mozgus Quovadis** — source-revealed in target 77; current combat estimate between Mid and High Sword Graduator.
+- **Kilogram Hammer — Oxbear (A)** / **Incinerate — Cerberus (A+)** / six Fangs — reaffirmed in target 77.
+- **The Saintess** — next family spans targets 78–82; witnesses E77–E81.
+- **Lovesickness** begins target 83 / E82.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–74**:
+Current accepted production evidence covers targets **1–77**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0074.md`
-- `qa/chapter-0001.md` through `chapter-0074.md`
-- accepted family QA through `qa/families/red-death-0072-0074.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0074.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0074.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0077.md`
+- `qa/chapter-0001.md` through `chapter-0077.md`
+- accepted family QA through `qa/families/hound-night-0075-0077.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0077.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0077.json`
 
-Latest family QA: `qa/families/red-death-0072-0074.md` — **PASS**.
+Latest family QA: `qa/families/hound-night-0075-0077.md` — **PASS**.
 
 ## Editorial quality bar
 
