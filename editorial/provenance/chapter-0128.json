@@ -1,0 +1,66 @@
+{
+  "chapter": 128,
+  "title": "Admission to the Academy (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Admission to the Academy",
+    "range": [
+      126,
+      129
+    ],
+    "family_qa_path": "qa/families/admission-academy-0126-0129.md",
+    "family_qa_sha": "d1976d0ae2095d1c9234fdf5fb5f4de824bb9748",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/128.txt",
+    "blob_sha": "c90aa1c2bd725d4a07d20e05509a44f2ff49eb89",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-127.xhtml",
+    "blob_sha": "46bf52dc420d5a8993a34b0b009246664b525cb9",
+    "target_alignment": 128,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0128.md",
+    "blob_sha": "399ad580996f4b9af70d044694f38a393cfe7005"
+  },
+  "qa": {
+    "path": "qa/chapter-0128.md",
+    "blob_sha": "a89ddb71c07ec5bd93da2a9bc8567af622369919",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "outsider_strategy",
+      "final": "Pigi is correct that skipping O.T. harms ordinary networking, while Vikir deliberately wants the obscurity",
+      "basis": "Chinese C128"
+    },
+    {
+      "topic": "pigi_prior_timeline",
+      "final": "retain only source-present bullying/Highbro-roommate memories; later Pigi secrets remain excluded",
+      "basis": "Chinese C128"
+    },
+    {
+      "topic": "student_register",
+      "final": "Use Tudor Donquixote, Bianca Fo Usher, Sinclaire, Sancho Barataria, Pigi, and established Baskerville triplet names",
+      "basis": "Chinese C128 + canonical project/Fandom register"
+    },
+    {
+      "topic": "night_hound_departure",
+      "final": "Vikir skips attendance, dons Night Hound disguise, and follows demonic traces into the capital",
+      "basis": "Chinese C128"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/130.txt",
+    "chinese_sha": "75953e6055debc0292ed261a08a471ff27486894",
+    "english_path": "source/chapters/chapter-129.xhtml",
+    "english_sha": "f5e7eb7711468542d89e43edc619d4c81adf015b",
+    "purpose": "both begin The Freshman Talent Show (1), target130"
+  }
+}
