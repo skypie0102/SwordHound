@@ -1,0 +1,66 @@
+{
+  "chapter": 176,
+  "title": "The 99 Hits With 100 Shots (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The 99 Hits With 100 Shots",
+    "range": [
+      176,
+      178
+    ],
+    "family_qa_path": "qa/families/99-hits-0176-0178.md",
+    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/176.txt",
+    "blob_sha": "94b9589ca40d0c79ed44a8ff83acf2496fc3a197",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-174.xhtml",
+    "blob_sha": "199060b0ea9fc4e6989b550d35b0e06b474e7430",
+    "target_alignment": 176,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0176.md",
+    "blob_sha": "d40598073ed5cbfe15966f7ed49e0f3ca1578657"
+  },
+  "qa": {
+    "path": "qa/chapter-0176.md",
+    "blob_sha": "d40086bd0f65224bde00494e32e918a14a289d83",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bianca_score",
+      "final": "Bianca scores 1,437/1,440 from 141 tens and 3 nines",
+      "basis": "Chinese C176"
+    },
+    {
+      "topic": "vikir_form",
+      "final": "Vikir's formal archery form is poor but his Ballak-derived practical accuracy/rate is exceptional",
+      "basis": "Chinese C176"
+    },
+    {
+      "topic": "record_guard",
+      "final": "Academy no-mana 100m record is reported as 1,439; do not invent the unnamed record-holder",
+      "basis": "Chinese C176"
+    },
+    {
+      "topic": "final_arrow",
+      "final": "Chapter ends before revealing Vikir's last-arrow score",
+      "basis": "Chinese C176 chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/179.txt",
+    "chinese_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
+    "english_path": "source/chapters/chapter-177.xhtml",
+    "english_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
+    "purpose": "both begin Midterm Random Defense (1), target179"
+  }
+}

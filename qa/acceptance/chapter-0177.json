@@ -1,0 +1,45 @@
+{
+  "chapter": 177,
+  "title": "The 99 Hits With 100 Shots (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The 99 Hits With 100 Shots",
+    "range": [
+      176,
+      178
+    ],
+    "family_qa_path": "qa/families/99-hits-0176-0178.md",
+    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/177.txt",
+    "primary_source_sha": "b19661ce1ca0d9d6b13a065ed3661fde9639dd14",
+    "english_reference_path": "source/chapters/chapter-175.xhtml",
+    "english_reference_sha": "ed4f71cf07f61263722538a70ce47c1d5d18b490",
+    "draft_path": "manuscript/drafts/chapter-0177.md",
+    "draft_sha": "2b8149986b97dcf7d01b92d65f32e3a002492506",
+    "qa_path": "qa/chapter-0177.md",
+    "qa_sha": "04de6c9c67d3965fb2c0c8bb4c6e93bb515b58d2",
+    "provenance_path": "editorial/provenance/chapter-0177.json",
+    "provenance_sha": "df65e6e1bc401d8fc8a2172d457ee507850ee703"
+  },
+  "canonical_checks": [
+    "Ballak",
+    "Akwilla",
+    "Ahun",
+    "Aheul",
+    "Bakilaga Juragio",
+    "Aiyen",
+    "Picaresque Mask",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "Only Bianca recognizes the mosquito shot.",
+    "Dog kinship wordplay is naturalized rather than left as untranslated Korean grammar.",
+    "Choco is Dolores's spontaneous dog name."
+  ],
+  "next_family_alignment_note": "Target179→E177 begins Midterm Random Defense (1); determine the complete family boundary before acceptance."
+}

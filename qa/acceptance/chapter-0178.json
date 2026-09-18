@@ -1,0 +1,45 @@
+{
+  "chapter": 178,
+  "title": "The 99 Hits With 100 Shots (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The 99 Hits With 100 Shots",
+    "range": [
+      176,
+      178
+    ],
+    "family_qa_path": "qa/families/99-hits-0176-0178.md",
+    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/178.txt",
+    "primary_source_sha": "5a398b988e653d110d13a5a57ec2b60cf9d08259",
+    "english_reference_path": "source/chapters/chapter-176.xhtml",
+    "english_reference_sha": "09b1546722b5c84db469af0e4aa58d4d62c9f03a",
+    "draft_path": "manuscript/drafts/chapter-0178.md",
+    "draft_sha": "09b01b431636ee64e515ba57f18e25d2dceee510",
+    "qa_path": "qa/chapter-0178.md",
+    "qa_sha": "709fb02b2ddeeb7c8272fc3f765011743979011c",
+    "provenance_path": "editorial/provenance/chapter-0178.json",
+    "provenance_sha": "35327c230fa450101f9dc49ad6d609b019a98089"
+  },
+  "canonical_checks": [
+    "Granola de Leviathan",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Bianca Fo Usher",
+    "Sinclaire",
+    "Baby Madam",
+    "River Styx",
+    "Beelzebub"
+  ],
+  "documented_limits": [
+    "Tudor/Bianca future romance is prior-life knowledge only.",
+    "Observers still underestimate Vikir through the low-mana cover.",
+    "Baby Madam's next feeding is only planned for the midterm practical."
+  ],
+  "next_family_alignment_note": "Target179→E177 begins Midterm Random Defense (1); determine the complete family boundary before acceptance."
+}

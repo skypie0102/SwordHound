@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 175,
+  "accepted_count": 178,
   "staged_count": 0,
-  "next_chapter": 176,
+  "next_chapter": 179,
   "active_title_family": {
-    "name": "The 99 Hits With 100 Shots",
+    "name": "Midterm Random Defense",
     "range": [
-      176,
-      178
+      179,
+      185
     ],
-    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 179,
-    "following_title": "Midterm Random Defense (1)",
-    "alignment_note": "176→E174,177→E175,178→E176;179→E177"
+    "boundary_status": "verified seven-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 186,
+    "following_title": "Aftermath (1)",
+    "alignment_note": "179→E177,180→E178,181→E179,182→E180,183→E181,184→E182,185→E183;186→E184"
   },
   "chapters": [
     {
@@ -2465,6 +2465,48 @@
       "acceptance": "qa/acceptance/chapter-0175.json",
       "acceptance_sha": "988edebd2ea8829d4f4583872113aadb5ed34a8f",
       "family_qa": "qa/families/anti-columnist-0172-0175.md"
+    },
+    {
+      "chapter": 176,
+      "title": "The 99 Hits With 100 Shots (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/176.txt",
+      "english_mtl_reference": "source/chapters/chapter-174.xhtml",
+      "draft": "manuscript/drafts/chapter-0176.md",
+      "qa": "qa/chapter-0176.md",
+      "provenance": "editorial/provenance/chapter-0176.json",
+      "acceptance": "qa/acceptance/chapter-0176.json",
+      "acceptance_sha": "ba96f117ab294c58947394803e645f0c2fe9efb3",
+      "family_qa": "qa/families/99-hits-0176-0178.md"
+    },
+    {
+      "chapter": 177,
+      "title": "The 99 Hits With 100 Shots (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/177.txt",
+      "english_mtl_reference": "source/chapters/chapter-175.xhtml",
+      "draft": "manuscript/drafts/chapter-0177.md",
+      "qa": "qa/chapter-0177.md",
+      "provenance": "editorial/provenance/chapter-0177.json",
+      "acceptance": "qa/acceptance/chapter-0177.json",
+      "acceptance_sha": "60719da499ddc48a1a4f787555d5491ab467288e",
+      "family_qa": "qa/families/99-hits-0176-0178.md"
+    },
+    {
+      "chapter": 178,
+      "title": "The 99 Hits With 100 Shots (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/178.txt",
+      "english_mtl_reference": "source/chapters/chapter-176.xhtml",
+      "draft": "manuscript/drafts/chapter-0178.md",
+      "qa": "qa/chapter-0178.md",
+      "provenance": "editorial/provenance/chapter-0178.json",
+      "acceptance": "qa/acceptance/chapter-0178.json",
+      "acceptance_sha": "9538561acd676dbb1187b64b998033331da6d8c2",
+      "family_qa": "qa/families/99-hits-0176-0178.md"
     }
   ]
 }

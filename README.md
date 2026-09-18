@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **175 / 500 accepted; next Chapter 176.** Latest accepted family: **targets 172–175 — The Anti-Columnist (1)–(4)**.
+Current checkpoint: **178 / 500 accepted; next Chapter 179.** Latest accepted family: **targets 176–178 — The 99 Hits With 100 Shots (1)–(3)**.
 
-The next verified family is **The 99 Hits With 100 Shots, targets 176–178**, mapped **176→E174 through 178→E176**. Target 179 begins **Midterm Random Defense (1)** and maps to E177.
+The next verified family is **Midterm Random Defense, targets 179–185**, mapped **179→E177 through 185→E183**. Target 186 begins **Aftermath (1)** and maps to E184.
 
 ## Current source policy
 
@@ -37,6 +37,17 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted 99 Hits family adds/revalidates:
+
+- **Bianca 1,437 / Vikir 1,436** — Vikir's one apparent miss is a deliberate mosquito shot.
+- **Ballak archery** — accepted canonical tribal names retained.
+- **Choco** — Dolores's name for Picaresque-dog Vikir.
+- **12× gravity without mana** — Vikir's physical-training endpoint in target 178.
+- **Bianca clue chain** — mosquito precision + earlier rooftop rum smell.
+- **Tudor/Bianca** — eventual romance remains prior-life future knowledge.
+- **Midterm Random Defense** — next family targets 179–185; witnesses E177–E183.
+- **Aftermath** begins target 186 / E184.
 
 The accepted Anti-Columnist family adds/revalidates:
 
@@ -195,15 +206,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–175**:
+Current accepted production evidence covers targets **1–178**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0175.md`
-- `qa/chapter-0001.md` through `chapter-0175.md`
-- accepted family QA through `qa/families/anti-columnist-0172-0175.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0175.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0175.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0178.md`
+- `qa/chapter-0001.md` through `chapter-0178.md`
+- accepted family QA through `qa/families/99-hits-0176-0178.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0178.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0178.json`
 
-Latest family QA: `qa/families/anti-columnist-0172-0175.md` — **PASS**.
+Latest family QA: `qa/families/99-hits-0176-0178.md` — **PASS**.
 
 ## Editorial quality bar
 

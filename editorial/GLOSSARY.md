@@ -713,3 +713,18 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **The 99 Hits With 100 Shots** — next verified family targets 176–178; witnesses E174–E176.
 - **Midterm Random Defense** — begins target 179 / E177.
 
+## The 99 Hits With 100 Shots additions — Chapters 176–178
+
+- **The 99 Hits With 100 Shots** — accepted production family title for targets 176–178; shifted witnesses E174–E176.
+- **Bianca archery score** — 1,437 / 1,440 (141 tens, 3 nines).
+- **Vikir archery score** — 1,436 / 1,440 (143 tens, one six).
+- **Mosquito shot** — Vikir's one six-ring arrow deliberately pins a mosquito; only Bianca notices.
+- **Ballak archery register** — Akwilla / Ahun / Aheul / Bakilaga Juragio / Aiyen.
+- **Choco** — spontaneous name Dolores gives Picaresque-dog Vikir.
+- **Gravity Room** — Granola 7× for 30+ minutes without mana; Vikir ultimately 12× without mana.
+- **Bianca clue chain** — mosquito precision plus Freshman Welcome Day rooftop rum smell.
+- **Tudor/Bianca future romance** — Vikir's prior-life future knowledge only.
+- **Baby Madam** — Granola poison fully digested; next feeding planned during practical midterms.
+- **Midterm Random Defense** — next verified family targets 179–185; witnesses E177–E183.
+- **Aftermath** — begins target 186 / E184.
+
