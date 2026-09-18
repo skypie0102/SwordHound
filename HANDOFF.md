@@ -5,52 +5,46 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Aftermath acceptance checkpoint
-- **Working branch:** `editorial/restart-aftermath-0186-0189`
-- **Base main checkpoint:** `faa86862d0f199677c9ae21d479ca55671089c80` (Midterm Random Defense checkpoint merged)
-- **Current PR:** #54 — `Rebuild Aftermath Chapters 186–189`
+- **Updated by:** ChatGPT — Attack Land acceptance checkpoint
+- **Working branch:** `editorial/restart-attack-land-0190-0196`
+- **Base main checkpoint:** `8bb96188c20a01e266727a96ad0acea3aebc08aa` (Aftermath checkpoint merged)
+- **Current PR:** not yet opened
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **189 / 500**
+- **Accepted:** **196 / 500**
 - **Staged:** **0**
-- **Next:** **190**
-- **Latest family:** targets **186–189 — Aftermath (1)–(4)**
-- **Family QA:** `qa/families/aftermath-0186-0189.md` — PASS — `6eb3b97cbdf0e726c387f4ad5774e43548298cb9`
-- **Next family:** targets **190–196 — Attack Land (1)–(7)**
-- **Following family:** target **197 — Preparing for the Festival (1)**
+- **Next:** **197**
+- **Latest family:** targets **190–196 — Attack Land (1)–(7)**
+- **Family QA:** `qa/families/attack-land-0190-0196.md` — PASS — `78f579053e691c1060d1d470abb284c63b917d6c`
+- **Next bridge:** target **197 — Preparing for the Festival**
+- **Following family:** target **198 — The Corpse Queen (1)**
 
 ## Key decisions
 
-- Sadi's Key-B absence leads to a 42:13 rescue delay.
-- Vikir's public combat level remains **Sword Expert Advanced**; C186's isolated Sword Master phrase is rank drift.
-- Killer Ant research formalizes Worker bio-compass and Soldier skull weaknesses.
-- Cindywendy reports one-month analysis on the next Ten Corpses clue, two Night Hound copycats, and Osiris heading for the capital.
-- Copycat attacks remain separate from Vikir.
-- Sinclaire's hidden-royal speculation and later disappearance remain unresolved.
-- Dolores dismisses Vikir/Night Hound's matching consolation as coincidence.
-- **Professor Sadi / Donatien Alphonse François Sadi de Sade** is Vikir's assigned Attack examiner.
-- Sadi abuse/trauma claims remain attributed rumor/reputation; motive uncertain.
-- Vikir avoids Cindywendy money trails, reserves House Bourgeois, rejects café work, and plans monster hunting for tuition.
-- Dolores immediately recognizes the Varangian incident as copycat work.
+- Attack-test golems are professor-controlled humanoid avatars with remote-control handicaps.
+- Tudor 35 / Bianca 31 / Granola 35 / Sancho 17; Sinclaire 19.
+- **C192 sequence repair:** Pigi follows Sinclaire.
+- **C193 department repair:** Pigi remains Cold Department.
+- Pigi's one-point broken-blade strike creates the lower-abdomen weakness Vikir exploits.
+- Vikir signs Banshee's bodily-risk acknowledgment and deliberately takes Sadi's exam.
+- Vikir's public combat disclosure remains **Sword Expert Advanced**; C195 crowd Sword Master chatter is exaggeration.
+- Vikir cue: **“Blinded by anger. Where are you looking?”**
+- Returning-arrow eye injury is publicly/faculty-side an accident; reader-facing setup remains.
+- Vikir scores **40** and finishes first overall in the midterms.
+- Sadi removes/consumes the destroyed eye and intends to take over Cold Department after discipline.
+- Chapter 196 ends with Cindywendy's lead on the next Corpse.
 
-## Next family — Attack Land 190–196
+## Next boundary
 
-- 190 → E188
-- 191 → E189
-- 192 → E190
-- 193 → E191
-- 194 → E192
-- 195 → E193
-- 196 → E194
-- C192–196 reverse the raw Chinese title word order but remain parts 3–7.
-- boundary 197 → E195 begins **Preparing for the Festival (1)**.
+- 197 → E195 — **Preparing for the Festival** — single-chapter bridge.
+- 198 → E196 — **The Corpse Queen (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the Aftermath checkpoint PR.
-2. Fresh branch from merged main for **Attack Land 190–196**.
-3. Read C190–196 against E188–E194 completely.
-4. Use C197/E195 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all seven chapters, then continue.
+1. Open/validate/merge the Attack Land checkpoint PR.
+2. Fresh branch from merged main for target **197 — Preparing for the Festival**.
+3. Read C197 against E195 completely; use C198/E196 as boundary.
+4. Reconstruct/QA/provenance-bind/accept Chapter 197.
+5. Continue directly into **The Corpse Queen** family.
