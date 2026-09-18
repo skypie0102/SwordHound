@@ -1,0 +1,101 @@
+{
+  "chapter": 67,
+  "title": "Unfair Trade (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/067.txt",
+    "blob_sha": "b596ba76138b23c6f401ee7b21b2a2a9ae9e1943",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-066.xhtml",
+    "blob_sha": "7c6a6aa37fdf71c1cef6bd846387009c67b868d2",
+    "target_alignment": 67,
+    "alignment_status": "target67_verified_to_e66_by_hero_status_fountain_approval_ahheman_suspicion_full_moon_spring_adonai_value_conversation_and_children_endpoint",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/068.txt",
+    "chinese_sha": "6738e266653f25e335c1b4902dff8a82d0a24ba9",
+    "english_path": "source/chapters/chapter-067.xhtml",
+    "english_sha": "e33d1a93a127afe970a5ccc2d3a9d56aa946a087",
+    "purpose": "both begin Blood Relatives (1) target68 family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Aheul",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Aheul",
+        "Ahun",
+        "Ah'Heman",
+        "grandfather/sibling relation"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Akwilla",
+        "Aiyen",
+        "Ah'Heman",
+        "Divine Archer Adonai",
+        "Madam Eight-Legs",
+        "Fountain of Valor",
+        "River Styx",
+        "Underdog City",
+        "Chihuahua Baskerville"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0067.md",
+    "blob_sha": "e1984e1e6f412fdc4466cb45b6422e2747b9cf39"
+  },
+  "qa": {
+    "path": "qa/chapter-0067.md",
+    "blob_sha": "a535221bfb26140c7a1e7920807d62fbee8d7c34",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "kinship_resolution",
+      "final": "Aheul is Ahun's sister (target65) and Ah'Heman's granddaughter (target67), resolving Ahun as Ah'Heman's grandson and superseding target63 son drift",
+      "basis": "direct Chinese continuity + indexed Fandom corroboration"
+    },
+    {
+      "topic": "ahheman_suspicion",
+      "final": "retain possible merchant collusion as suspicion only; Vikir explicitly says there is no hard evidence yet",
+      "basis": "Chinese target67"
+    },
+    {
+      "topic": "fountain",
+      "final": "Fountain of Valor heals/stabilizes mana, bone, and muscle; somewhat weaker than River Styx and limited to rare full-moon appearances",
+      "basis": "Chinese target67"
+    },
+    {
+      "topic": "adonai",
+      "final": "Ballak spiritual-descendant concept and Aiyen's claim Adonai could confront Madam Eight-Legs retained",
+      "basis": "Chinese target67"
+    },
+    {
+      "topic": "under18_relationship_material",
+      "final": "preserve only nonsexual mate-intent/relationship continuity and children's interruption; do not reproduce source sexual escalation involving under-eighteen characters",
+      "basis": "current source chronology and non-erotic editorial requirement"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
