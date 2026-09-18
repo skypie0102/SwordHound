@@ -1,0 +1,43 @@
+{
+  "chapter": 163,
+  "title": "Sin and Punishment (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/163.txt",
+    "primary_source_sha": "7331200ebbc8dcaf5fa30a95290c77a7f98c26d3",
+    "draft_path": "manuscript/drafts/chapter-0163.md",
+    "draft_sha": "04413470b69380debfc8cd5bfbe9248d38bd74b9",
+    "qa_path": "qa/chapter-0163.md",
+    "qa_sha": "a6c9326181a7ae7cdf26206814e9ec0e0cf181c7",
+    "provenance_path": "editorial/provenance/chapter-0163.json",
+    "provenance_sha": "4232d3230c3078c8a108dedf0574c8575e9258c6",
+    "english_reference_path": "source/chapters/chapter-162.xhtml",
+    "english_reference_sha": "8a18b6dd050a973c222cbd368239c7cd5182c836"
+  },
+  "canonical_checks": [
+    "Dantalian",
+    "A Thousand Faces",
+    "Danger Level S+",
+    "Serpent's Womb",
+    "Humbert L. Quovadis",
+    "Old Testament Faction"
+  ],
+  "documented_limits": [
+    "Chinese heading anomaly normalized by family sequence.",
+    "S+ overrides recovered-English S.",
+    "Cannibal/farm claims remain Dantalian's villain exposition."
+  ],
+  "witness_gap": null
+}
