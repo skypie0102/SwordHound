@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 185,
+  "accepted_count": 189,
   "staged_count": 0,
-  "next_chapter": 186,
+  "next_chapter": 190,
   "active_title_family": {
-    "name": "Aftermath",
+    "name": "Attack Land",
     "range": [
-      186,
-      189
+      190,
+      196
     ],
-    "boundary_status": "verified four-part family",
-    "following_family_starts": 190,
-    "following_title": "Attack Land (1)",
-    "alignment_note": "186→E184,187→E185,188→E186,189→E187;190→E188"
+    "boundary_status": "verified seven-part family; Chinese word order flips from target192 onward but numbering/content/witnesses remain contiguous",
+    "following_family_starts": 197,
+    "following_title": "Preparing for the Festival (1)",
+    "alignment_note": "190→E188,191→E189,192→E190,193→E191,194→E192,195→E193,196→E194;197→E195"
   },
   "chapters": [
     {
@@ -2605,6 +2605,62 @@
       "acceptance": "qa/acceptance/chapter-0185.json",
       "acceptance_sha": "8d5aba349ec3553983a0001c57c79e372ee788e3",
       "family_qa": "qa/families/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 186,
+      "title": "Aftermath (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/186.txt",
+      "english_mtl_reference": "source/chapters/chapter-184.xhtml",
+      "draft": "manuscript/drafts/chapter-0186.md",
+      "qa": "qa/chapter-0186.md",
+      "provenance": "editorial/provenance/chapter-0186.json",
+      "acceptance": "qa/acceptance/chapter-0186.json",
+      "acceptance_sha": "6078c2468241c43a86b4e25747df0c959ad68bd8",
+      "family_qa": "qa/families/aftermath-0186-0189.md"
+    },
+    {
+      "chapter": 187,
+      "title": "Aftermath (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/187.txt",
+      "english_mtl_reference": "source/chapters/chapter-185.xhtml",
+      "draft": "manuscript/drafts/chapter-0187.md",
+      "qa": "qa/chapter-0187.md",
+      "provenance": "editorial/provenance/chapter-0187.json",
+      "acceptance": "qa/acceptance/chapter-0187.json",
+      "acceptance_sha": "4d1d69134139e93e87f29a2cfc6037b8891a686a",
+      "family_qa": "qa/families/aftermath-0186-0189.md"
+    },
+    {
+      "chapter": 188,
+      "title": "Aftermath (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/188.txt",
+      "english_mtl_reference": "source/chapters/chapter-186.xhtml",
+      "draft": "manuscript/drafts/chapter-0188.md",
+      "qa": "qa/chapter-0188.md",
+      "provenance": "editorial/provenance/chapter-0188.json",
+      "acceptance": "qa/acceptance/chapter-0188.json",
+      "acceptance_sha": "78a1129a5362c619ef4c2236745f856ae15df857",
+      "family_qa": "qa/families/aftermath-0186-0189.md"
+    },
+    {
+      "chapter": 189,
+      "title": "Aftermath (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/189.txt",
+      "english_mtl_reference": "source/chapters/chapter-187.xhtml",
+      "draft": "manuscript/drafts/chapter-0189.md",
+      "qa": "qa/chapter-0189.md",
+      "provenance": "editorial/provenance/chapter-0189.json",
+      "acceptance": "qa/acceptance/chapter-0189.json",
+      "acceptance_sha": "2705f3f334f0f45225b1b1bc8076f0fe58114168",
+      "family_qa": "qa/families/aftermath-0186-0189.md"
     }
   ]
 }
