@@ -1,0 +1,46 @@
+{
+  "chapter": 160,
+  "title": "Familiar Face (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "family_qa_path": "qa/families/familiar-face-0158-0161.md",
+    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/160.txt",
+    "primary_source_sha": "9eff893be76f824143b62d96a0786e3231640510",
+    "english_reference_path": "source/chapters/chapter-159.xhtml",
+    "english_reference_sha": "eef7b095585fff9b1d3e3cb29a8f6563e8842654",
+    "draft_path": "manuscript/drafts/chapter-0160.md",
+    "draft_sha": "fc8395cb8dfef12b16924b827e556d0fc642ee11",
+    "qa_path": "qa/chapter-0160.md",
+    "qa_sha": "3c103cd8f520b7d929ee92b3552f005b3e90c033",
+    "provenance_path": "editorial/provenance/chapter-0160.json",
+    "provenance_sha": "677f59f10c986583e29ef6df28533049b99943f7"
+  },
+  "canonical_checks": [
+    "Pedo",
+    "Hebe",
+    "Madam Eight-Legs",
+    "Mushuhushu",
+    "Silent Heel",
+    "Swamp Marsh Salamander",
+    "Staffordshire Baskerville",
+    "Tudor Donquixote",
+    "Geronto"
+  ],
+  "documented_limits": [
+    "The Pedo/Hebe sealing target repairs an obvious Chinese extraction name substitution using local combat logic and E159.",
+    "Hebe's exact personal identity remains unrevealed.",
+    "Night Hound identity remains hidden from Dolores."
+  ],
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+}
