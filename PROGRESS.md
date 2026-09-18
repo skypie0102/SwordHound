@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Nostalgia (1)–(4) accepted
+
+**Current state:** 104 / 500 accepted; 0 staged; next Chapter 105.
+
+Completed targets 101–104 with mapping **101→E100 through 104→E103**.
+
+Key decisions:
+- retained the source-level reprise of the Madam cliff/death sequence in target 101;
+- promoted Vikir to **Peak Sword Graduator** in target 102 while preserving the Sword Master wall;
+- source-revealed a small/incomplete **Seventh Fang**;
+- kept Bakira's breeding assistance brief and non-graphic;
+- advanced two months to Bakira's five pups and Madam's still-inert egg;
+- preserved Ballak's no-goodbye cultural logic and Vikir's explicit family belonging;
+- source-revealed the completed Adonai bow as **Anubis**;
+- retained Vikir/Aiyen's farewell kiss briefly and nonsexually;
+- ended before the target-105 Returned Hero reveal.
+
+Family QA: `qa/families/nostalgia-0101-0104.md` — **PASS**.
+
+Next family: **The Returned Hero (1)–(5), targets 105–109**, mapped **105→E104 through 109→E108**. Target 110 begins **The Great Banquet (1)** and maps to E109.
+
 ## 2026-09-18 — Madam Eight-Legs (1)–(6) accepted
 
 **Current state:** 100 / 500 accepted; 0 staged; next Chapter 101.
