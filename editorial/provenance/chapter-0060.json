@@ -1,0 +1,87 @@
+{
+  "chapter": 60,
+  "title": "The Hunter and the Hunted (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/060.txt",
+    "blob_sha": "406e7fe32dc61ee383a11d2405bf85f0684e4814",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-059.xhtml",
+    "blob_sha": "5e13cc1bc24061a5a94eba0ad352e5126ee65bdd",
+    "target_alignment": 60,
+    "alignment_status": "target60_verified_to_e59_by_night_oxbear_attack_aiyen_archery_heated_eye_arrows_beelzebub_incinerate_kill",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/061.txt",
+    "chinese_sha": "834abb36714ce9d7329e7854720ea20170ce5586",
+    "english_path": "source/chapters/chapter-060.xhtml",
+    "english_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
+    "purpose": "both begin next-family harvest/plunder festival content"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound project canonical register",
+      "page_title": "accepted project terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Vikir Van Baskerville",
+        "Aiyen",
+        "Ahun",
+        "Akwilla",
+        "Ballak Tribe",
+        "Bakira",
+        "Oxbear",
+        "Le Rouge et Le Noir Mountain",
+        "Beelzebub",
+        "Incinerate",
+        "Cerberus"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0060.md",
+    "blob_sha": "df77f7700668f8d28bc7ec5f8afa83a02c8b5513"
+  },
+  "qa": {
+    "path": "qa/chapter-0060.md",
+    "blob_sha": "c35796d733c7b5b9728803a382be31d8214bcc95",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "mapping",
+      "final": "target 60 maps to recovered English 59; E60 belongs to target61",
+      "basis": "complete content alignment"
+    },
+    {
+      "topic": "aiyen_rank",
+      "final": "Aiyen uses Low Sword Graduator liquid aura",
+      "basis": "Chinese semantics + established rank terminology"
+    },
+    {
+      "topic": "beelzebub",
+      "final": "Slot 1 Incinerate — Cerberus (A+)",
+      "basis": "Chinese info window + accepted Beelzebub state"
+    },
+    {
+      "topic": "closing_joke",
+      "final": "Ballak seed-collection emergency line retained clinically/non-erotically",
+      "basis": "Chinese target60"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
