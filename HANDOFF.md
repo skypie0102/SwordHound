@@ -5,21 +5,21 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Men are Power acceptance checkpoint
-- **Working branch:** `editorial/restart-men-are-power-0139-0140`
-- **Base main checkpoint:** `d91aef0088fe513c0f478ed3cee6e386dac9abed` (Test Your Skills checkpoint merged)
-- **Current PR:** #42 — `Rebuild Men are Power Chapters 139–140`
+- **Updated by:** ChatGPT — Identity of the Villain acceptance checkpoint
+- **Working branch:** `editorial/restart-identity-villain-0141-0143`
+- **Base main checkpoint:** `10848d4951c432e7ff5b67a734c5619aa094fb12` (Men are Power checkpoint merged)
+- **Current PR:** #43 — `Rebuild Identity of the Villain Chapters 141–143`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **140 / 500**
+- **Accepted:** **143 / 500**
 - **Staged:** **0**
-- **Next:** **141**
-- **Latest family:** targets **139–140 — Men are Power (1)–(2)**
-- **Family QA:** `qa/families/men-are-power-0139-0140.md` — PASS — `1afcfad688880997aabc8b5a4d3362bae51ef5ee`
-- **Next family:** targets **141–143 — Identity of the Villain (1)–(3)**
-- **Following family:** target **144 — Volunteering for the Golden Week (1)**
+- **Next:** **144**
+- **Latest family:** targets **141–143 — Identity of the Villain (1)–(3)**
+- **Family QA:** `qa/families/identity-villain-0141-0143.md` — PASS — `705d07610094a35415f6e3600cba69f7583a2836`
+- **Next family:** targets **144–149 — Volunteering for the Golden Week (1)–(6)**
+- **Following family:** target **150 — Not Brother, But Uncle (1)**
 
 ## Core rules
 
@@ -31,31 +31,34 @@
 
 ## Key decisions
 
-- Venomphion's concealed abdominal second stinger is source-revealed in target 139 through Banshee's specimen test; present Academy classification remains Danger Level A.
-- Bianca explicitly prioritizes demonstrated strength over appearance/intelligence and currently underestimates Vikir.
-- Doxeller is fifty-two and is retained as a local administrator/orphanage director involved in child trafficking and demonic collaboration.
-- Doxeller's Sword Master conclusion is a mistaken inference from Beelzebub's nearly solid aura; Vikir remains **Peak Sword Graduator**.
-- Ephebo is source-revealed in target 140 from the chest marking; later master identity remains spoiler-guarded.
-- Ephebo is an Upper/High Graduator-class subordinate, not one of the Ten Corpses.
-- Seven Fangs terminology is locked; the Seventh Fang remains incomplete and tied to Vikir's future Sword Master breakthrough.
-- The Quovadis blunt-weapon technique is a corruption clue, not proof against the whole house.
-- Doxeller's failsafe, child-transfer/payment ledgers, and Cindywendy handoff are accepted.
-- Target 140 ends with Dolores L. Quovadis privately holding the half-burned Night Hound plague-doctor mask.
-- The stale top-level `editorial/chapter-tracker.json` accepted count was repaired while promoting this family.
+- Vikir is explicitly eighteen in target 141 and remains **Peak Sword Graduator**; Sword Master remains the next realm.
+- The **Seventh Fang** remains incomplete.
+- **Ryukeion (Λύκειον)** is the accepted newspaper-club name, resolving corrupted glyphs in the extracted Chinese.
+- Dolores unconsciously coins **Night Hound**; the newspaper/public label is not evidence that Vikir killed the demon-drained children.
+- Dolores secretly hides the half-burned mask but professionally requires evidence-first, non-speculative reporting.
+- Vikir calling the Night Hound a villain is self-condemnation rooted in survivor guilt, not an objective narrator verdict.
+- Professor Banshee Morgue is the conservative Ryukeion advisor who wants the Night Hound framed explicitly as a villain.
+- Vikir's Academy demerits come from deliberate reconnaissance of low-traffic nighttime routes, hidden behind a poor-direction excuse.
+- All eight target-143 demerits are retained in the conduct-score window.
+- **Indulgentia Orphanage** is Vikir's off-campus service destination.
+- **Quilt Rune Indulgentia** is accepted for the Indulgentia family head/orphanage director. At this checkpoint he is only Vikir's next assassination target; later demon/Corpse identity remains spoiler-guarded.
 
-## Next family — Identity of the Villain 141–143
+## Next family — Volunteering for the Golden Week 144–149
 
 | Target | Chinese SHA | English witness | English SHA |
 |---|---|---|---|
-| 141 | `edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06` | E140 | `2b0e8524960469cb4000cfb7d29eb1a3941d20c9` |
-| 142 | `0ba20650ef1b656b0b421efa292ce158f92daaf9` | E141 | `0bafb0a12533c20cff638df9784cbc7818d03fa8` |
-| 143 | `140eac516bae310422358e3f4071fbfb9257d410` | E142 | `7a4a25e93c36de15b9f77981968abaec40d2682b` |
-| boundary 144 | `43d63f5de1a8c5ca09a312cf3423fc6b8f84d527` | E143 | `78c627bafc6d401f82b38e86daf91460ab6e7add` |
+| 144 | `43d63f5de1a8c5ca09a312cf3423fc6b8f84d527` | E143 | `78c627bafc6d401f82b38e86daf91460ab6e7add` |
+| 145 | `b92d29d9812d3d8dc3cb5ab7f40d63892ce7f11d` | E144 | `e508ddf67f713c3b3a714d4607d50a4c7e0c2949` |
+| 146 | `a9a66d0662958927f6daca53ca2d3ead674128b8` | E145 | `1880b98aac7e990b04d1d9a4d5fd6148eb22acad` |
+| 147 | `32b87f5a39e6eab10f5d927c8c038864e3e7c0eb` | E146 | `583305128e6b0d0fe7d8c4f2044c48671f680261` |
+| 148 | `0f28089dcd2bd2e4dd3fe18c175b186f0c6689b6` | E147 | `baf9a2e37c835471c58cb8d51df28ae32dfefb73` |
+| 149 | `c5b88ad1f27b96fa6fc2a2a82cf819c66ec005bc` | E148 | `771d8eeffcd0ffb950a571100b4508cbf2a1e86d` |
+| boundary 150 | `8e30ee75b8d75d9ad9100526fc9cea333d9f3b02` | E149 | `460fbc535d134c06c517c1333f022fad1c16f9cd` |
 
 ## Exact next actions
 
-1. Validate and merge PR #42.
-2. Fresh branch from merged main for **Identity of the Villain 141–143**.
-3. Read C141–143 against E140–142 fully, with C144/E143 as boundary.
-4. Reconstruct, QA, provenance-bind, and accept all three chapters.
-5. Promote state and continue into **Volunteering for the Golden Week**.
+1. Validate and merge PR #43.
+2. Fresh branch from merged main for **Volunteering for the Golden Week 144–149**.
+3. Read C144–149 against E143–148 fully, with C150/E149 as boundary.
+4. Reconstruct, QA, provenance-bind, and accept all six chapters.
+5. Promote state and continue into **Not Brother, But Uncle**.
