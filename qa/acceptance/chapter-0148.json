@@ -1,0 +1,44 @@
+{
+  "chapter": 148,
+  "title": "Volunteering for the Golden Week (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/148.txt",
+    "primary_source_sha": "0f28089dcd2bd2e4dd3fe18c175b186f0c6689b6",
+    "english_reference_path": "source/chapters/chapter-147.xhtml",
+    "english_reference_sha": "baf9a2e37c835471c58cb8d51df28ae32dfefb73",
+    "draft_path": "manuscript/drafts/chapter-0148.md",
+    "draft_sha": "11c2ad0caad17e2d69bbf1e42bebd411a733b9b9",
+    "qa_path": "qa/chapter-0148.md",
+    "qa_sha": "f870c5b89998ca340b4a4e22998df6b1339eb41f",
+    "provenance_path": "editorial/provenance/chapter-0148.json",
+    "provenance_sha": "eeb738f71ed86afc3b9aea9bbadd16e4e4f334e5"
+  },
+  "canonical_checks": [
+    "Geronto",
+    "Pedo",
+    "Hebe",
+    "Ephebo",
+    "Humbert L. Quovadis",
+    "Madam Eight-Legs",
+    "Ballak",
+    "Peri"
+  ],
+  "documented_limits": [
+    "Geronto's black sword hilt/relic follows Chinese primary over recovered-English corruption.",
+    "Madam Eight-Legs egg behavior is observed; sentience is not narrator-confirmed.",
+    "Ordinary criminals in the indulgence ledger are not automatically Night Hound targets."
+  ]
+}
