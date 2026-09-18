@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 205,
+  "accepted_count": 215,
   "staged_count": 0,
-  "next_chapter": 206,
+  "next_chapter": 216,
   "active_title_family": {
-    "name": "Festival Night",
+    "name": "My Neck Will Be Your Sheath",
     "range": [
-      206,
-      215
+      216,
+      219
     ],
-    "boundary_status": "verified ten-part family",
-    "following_family_starts": 216,
-    "following_title": "My Neck Will Be Your Sheath (1)",
-    "alignment_note": "206→E204 through 215→E213;216→E214"
+    "boundary_status": "verified four-part family; C219 raw title drifts to knife-under wording but E217 and continuity establish part4",
+    "following_family_starts": 220,
+    "following_title": "That Day, Him and Me (1)",
+    "alignment_note": "216→E214,217→E215,218→E216,219→E217;220→E218"
   },
   "chapters": [
     {
@@ -2885,6 +2885,146 @@
       "acceptance": "qa/acceptance/chapter-0205.json",
       "acceptance_sha": "c0a33f3358bc69ed91fcc1169be77f0406eaee74",
       "family_qa": "qa/families/mixed-bath-0203-0205.md"
+    },
+    {
+      "chapter": 206,
+      "title": "Festival Night (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/206.txt",
+      "english_mtl_reference": "source/chapters/chapter-204.xhtml",
+      "draft": "manuscript/drafts/chapter-0206.md",
+      "qa": "qa/chapter-0206.md",
+      "provenance": "editorial/provenance/chapter-0206.json",
+      "acceptance": "qa/acceptance/chapter-0206.json",
+      "acceptance_sha": "0c556a5aaeaa6374247860da0899d5c098c04902",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 207,
+      "title": "Festival Night (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/207.txt",
+      "english_mtl_reference": "source/chapters/chapter-205.xhtml",
+      "draft": "manuscript/drafts/chapter-0207.md",
+      "qa": "qa/chapter-0207.md",
+      "provenance": "editorial/provenance/chapter-0207.json",
+      "acceptance": "qa/acceptance/chapter-0207.json",
+      "acceptance_sha": "818ee005042f128c7f716752fa58d660086e2711",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 208,
+      "title": "Festival Night (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/208.txt",
+      "english_mtl_reference": "source/chapters/chapter-206.xhtml",
+      "draft": "manuscript/drafts/chapter-0208.md",
+      "qa": "qa/chapter-0208.md",
+      "provenance": "editorial/provenance/chapter-0208.json",
+      "acceptance": "qa/acceptance/chapter-0208.json",
+      "acceptance_sha": "549825d92bb96ba96c13435e1ffcad86e9a1357d",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 209,
+      "title": "Festival Night (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/209.txt",
+      "english_mtl_reference": "source/chapters/chapter-207.xhtml",
+      "draft": "manuscript/drafts/chapter-0209.md",
+      "qa": "qa/chapter-0209.md",
+      "provenance": "editorial/provenance/chapter-0209.json",
+      "acceptance": "qa/acceptance/chapter-0209.json",
+      "acceptance_sha": "b72e72b4981c79e4b36299139fdf238e4aa4e557",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 210,
+      "title": "Festival Night (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/210.txt",
+      "english_mtl_reference": "source/chapters/chapter-208.xhtml",
+      "draft": "manuscript/drafts/chapter-0210.md",
+      "qa": "qa/chapter-0210.md",
+      "provenance": "editorial/provenance/chapter-0210.json",
+      "acceptance": "qa/acceptance/chapter-0210.json",
+      "acceptance_sha": "5da1a32d96b99988d3a4288ff301eb5c20ba30ea",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 211,
+      "title": "Festival Night (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/211.txt",
+      "english_mtl_reference": "source/chapters/chapter-209.xhtml",
+      "draft": "manuscript/drafts/chapter-0211.md",
+      "qa": "qa/chapter-0211.md",
+      "provenance": "editorial/provenance/chapter-0211.json",
+      "acceptance": "qa/acceptance/chapter-0211.json",
+      "acceptance_sha": "a593e9871aed5fd53061fb6e8452a6fde0d6306c",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 212,
+      "title": "Festival Night (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/212.txt",
+      "english_mtl_reference": "source/chapters/chapter-210.xhtml",
+      "draft": "manuscript/drafts/chapter-0212.md",
+      "qa": "qa/chapter-0212.md",
+      "provenance": "editorial/provenance/chapter-0212.json",
+      "acceptance": "qa/acceptance/chapter-0212.json",
+      "acceptance_sha": "1a3c4c52ad235f60905d18979b8d2822fe4dfec5",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 213,
+      "title": "Festival Night (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/213.txt",
+      "english_mtl_reference": "source/chapters/chapter-211.xhtml",
+      "draft": "manuscript/drafts/chapter-0213.md",
+      "qa": "qa/chapter-0213.md",
+      "provenance": "editorial/provenance/chapter-0213.json",
+      "acceptance": "qa/acceptance/chapter-0213.json",
+      "acceptance_sha": "0a165bb5a72abc69c385adbfe163bb73b8db1fe3",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 214,
+      "title": "Festival Night (9)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/214.txt",
+      "english_mtl_reference": "source/chapters/chapter-212.xhtml",
+      "draft": "manuscript/drafts/chapter-0214.md",
+      "qa": "qa/chapter-0214.md",
+      "provenance": "editorial/provenance/chapter-0214.json",
+      "acceptance": "qa/acceptance/chapter-0214.json",
+      "acceptance_sha": "56cc07b4c6f9dc3c685d2add190085e7bc6be905",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 215,
+      "title": "Festival Night (10)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/215.txt",
+      "english_mtl_reference": "source/chapters/chapter-213.xhtml",
+      "draft": "manuscript/drafts/chapter-0215.md",
+      "qa": "qa/chapter-0215.md",
+      "provenance": "editorial/provenance/chapter-0215.json",
+      "acceptance": "qa/acceptance/chapter-0215.json",
+      "acceptance_sha": "14660a908774f0e635d361a50b985cd7247f5aca",
+      "family_qa": "qa/families/festival-night-0206-0215.md"
     }
   ]
 }
