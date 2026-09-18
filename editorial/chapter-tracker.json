@@ -1821,6 +1821,48 @@
       "acceptance": "qa/acceptance/chapter-0129.json",
       "acceptance_sha": "2f1ced6855dfe4d02cde36a6387ac30738dc3422",
       "family_qa": "qa/families/admission-academy-0126-0129.md"
+    },
+    {
+      "chapter": 130,
+      "title": "The Freshman Talent Show (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/130.txt",
+      "english_mtl_reference": "source/chapters/chapter-129.xhtml",
+      "draft": "manuscript/drafts/chapter-0130.md",
+      "qa": "qa/chapter-0130.md",
+      "provenance": "editorial/provenance/chapter-0130.json",
+      "acceptance": "qa/acceptance/chapter-0130.json",
+      "acceptance_sha": "a10f57f37aedd60cf37c892e622496681461a04b",
+      "family_qa": "qa/families/freshman-talent-show-0130-0132.md"
+    },
+    {
+      "chapter": 131,
+      "title": "The Freshman Talent Show (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/131.txt",
+      "english_mtl_reference": "source/chapters/chapter-130.xhtml",
+      "draft": "manuscript/drafts/chapter-0131.md",
+      "qa": "qa/chapter-0131.md",
+      "provenance": "editorial/provenance/chapter-0131.json",
+      "acceptance": "qa/acceptance/chapter-0131.json",
+      "acceptance_sha": "0db884f14b13c856320243c5222abeb96a727a9f",
+      "family_qa": "qa/families/freshman-talent-show-0130-0132.md"
+    },
+    {
+      "chapter": 132,
+      "title": "The Freshman Talent Show (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/132.txt",
+      "english_mtl_reference": "source/chapters/chapter-131.xhtml",
+      "draft": "manuscript/drafts/chapter-0132.md",
+      "qa": "qa/chapter-0132.md",
+      "provenance": "editorial/provenance/chapter-0132.json",
+      "acceptance": "qa/acceptance/chapter-0132.json",
+      "acceptance_sha": "9f74c53e069464ffe2f8427a5d46119db5ad2f3f",
+      "family_qa": "qa/families/freshman-talent-show-0130-0132.md"
     }
   ]
 }
