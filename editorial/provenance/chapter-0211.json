@@ -1,0 +1,71 @@
+{
+  "chapter": 211,
+  "title": "Festival Night (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/211.txt",
+    "blob_sha": "8e81771d5f6350cc8f8c5773c8a533f4d495f585",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-209.xhtml",
+    "blob_sha": "ff56e1bfc2d8e69c3a90ee30f7e2b32059f1c606",
+    "target_alignment": 211,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0211.md",
+    "blob_sha": "02474d7e623a5a9dd8bb68c3421f9f7db013f60d"
+  },
+  "qa": {
+    "path": "qa/chapter-0211.md",
+    "blob_sha": "a31d21114dfeceb922cef5a7d9becc436a1cbfed",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "alternate_life",
+      "final": "Queen imagines attending Academy with unnamed him",
+      "basis": "Chinese C211"
+    },
+    {
+      "topic": "rosie",
+      "final": "Geronto is addressed as Rosie and tracks Night Hound scent",
+      "basis": "Chinese C211"
+    },
+    {
+      "topic": "heart",
+      "final": "Night Hound encounter makes Queen feel heartbeat after half-body-death mana backflow",
+      "basis": "Chinese C211"
+    },
+    {
+      "topic": "festival_humanization",
+      "final": "Cherry blossoms/food/games briefly make Queen feel good",
+      "basis": "Chinese C211"
+    },
+    {
+      "topic": "identity_guard",
+      "final": "Queen sees witch-costumed Vikir but only asks if he has a sister",
+      "basis": "Chinese C211"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}
