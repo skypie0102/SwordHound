@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 143,
+  "accepted_count": 149,
   "staged_count": 0,
-  "next_chapter": 144,
+  "next_chapter": 150,
   "active_title_family": {
-    "name": "Volunteering for the Golden Week",
+    "name": "Not Brother, But Uncle",
     "range": [
-      144,
-      149
+      150,
+      151
     ],
-    "boundary_status": "verified six-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 150,
-    "following_title": "Not Brother, But Uncle (1)",
-    "alignment_note": "144→E143,145→E144,146→E145,147→E146,148→E147,149→E148;150→E149"
+    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 152,
+    "following_title": "The Drinking Game (1)",
+    "alignment_note": "150→E149,151→E150;152→E151"
   },
   "chapters": [
     {
@@ -2017,6 +2017,90 @@
       "acceptance": "qa/acceptance/chapter-0143.json",
       "acceptance_sha": "6d21df2275bf509c06be32d8adbed4352f7852a9",
       "family_qa": "qa/families/identity-villain-0141-0143.md"
+    },
+    {
+      "chapter": 144,
+      "title": "Volunteering for the Golden Week (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/144.txt",
+      "english_mtl_reference": "source/chapters/chapter-143.xhtml",
+      "draft": "manuscript/drafts/chapter-0144.md",
+      "qa": "qa/chapter-0144.md",
+      "provenance": "editorial/provenance/chapter-0144.json",
+      "acceptance": "qa/acceptance/chapter-0144.json",
+      "acceptance_sha": "8eb23173cb2eea87088ec7d12a8f5068ef3eebff",
+      "family_qa": "qa/families/golden-week-0144-0149.md"
+    },
+    {
+      "chapter": 145,
+      "title": "Volunteering for the Golden Week (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/145.txt",
+      "english_mtl_reference": "source/chapters/chapter-144.xhtml",
+      "draft": "manuscript/drafts/chapter-0145.md",
+      "qa": "qa/chapter-0145.md",
+      "provenance": "editorial/provenance/chapter-0145.json",
+      "acceptance": "qa/acceptance/chapter-0145.json",
+      "acceptance_sha": "a8ffd37e3b508fd1f1ee0ccb530a5854183b71c2",
+      "family_qa": "qa/families/golden-week-0144-0149.md"
+    },
+    {
+      "chapter": 146,
+      "title": "Volunteering for the Golden Week (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/146.txt",
+      "english_mtl_reference": "source/chapters/chapter-145.xhtml",
+      "draft": "manuscript/drafts/chapter-0146.md",
+      "qa": "qa/chapter-0146.md",
+      "provenance": "editorial/provenance/chapter-0146.json",
+      "acceptance": "qa/acceptance/chapter-0146.json",
+      "acceptance_sha": "cfae3860dfd6c5f37e4831543205e2ac22dee053",
+      "family_qa": "qa/families/golden-week-0144-0149.md"
+    },
+    {
+      "chapter": 147,
+      "title": "Volunteering for the Golden Week (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/147.txt",
+      "english_mtl_reference": "source/chapters/chapter-146.xhtml",
+      "draft": "manuscript/drafts/chapter-0147.md",
+      "qa": "qa/chapter-0147.md",
+      "provenance": "editorial/provenance/chapter-0147.json",
+      "acceptance": "qa/acceptance/chapter-0147.json",
+      "acceptance_sha": "588cd4d6e6b2a4b4a74ee427556ea73fbacfd9cf",
+      "family_qa": "qa/families/golden-week-0144-0149.md"
+    },
+    {
+      "chapter": 148,
+      "title": "Volunteering for the Golden Week (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/148.txt",
+      "english_mtl_reference": "source/chapters/chapter-147.xhtml",
+      "draft": "manuscript/drafts/chapter-0148.md",
+      "qa": "qa/chapter-0148.md",
+      "provenance": "editorial/provenance/chapter-0148.json",
+      "acceptance": "qa/acceptance/chapter-0148.json",
+      "acceptance_sha": "c9a68c77aa3ea28269f596d1ffc1d37958d2d9ac",
+      "family_qa": "qa/families/golden-week-0144-0149.md"
+    },
+    {
+      "chapter": 149,
+      "title": "Volunteering for the Golden Week (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/149.txt",
+      "english_mtl_reference": "source/chapters/chapter-148.xhtml",
+      "draft": "manuscript/drafts/chapter-0149.md",
+      "qa": "qa/chapter-0149.md",
+      "provenance": "editorial/provenance/chapter-0149.json",
+      "acceptance": "qa/acceptance/chapter-0149.json",
+      "acceptance_sha": "bae733d90896af110634d78fd698040fe6bb59c8",
+      "family_qa": "qa/families/golden-week-0144-0149.md"
     }
   ]
 }
