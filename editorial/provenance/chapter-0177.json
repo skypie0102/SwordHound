@@ -1,0 +1,66 @@
+{
+  "chapter": 177,
+  "title": "The 99 Hits With 100 Shots (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The 99 Hits With 100 Shots",
+    "range": [
+      176,
+      178
+    ],
+    "family_qa_path": "qa/families/99-hits-0176-0178.md",
+    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/177.txt",
+    "blob_sha": "b19661ce1ca0d9d6b13a065ed3661fde9639dd14",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-175.xhtml",
+    "blob_sha": "ed4f71cf07f61263722538a70ce47c1d5d18b490",
+    "target_alignment": 177,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0177.md",
+    "blob_sha": "2b8149986b97dcf7d01b92d65f32e3a002492506"
+  },
+  "qa": {
+    "path": "qa/chapter-0177.md",
+    "blob_sha": "04de6c9c67d3965fb2c0c8bb4c6e93bb515b58d2",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "vikir_score",
+      "final": "143 tens + one six = 1,436/1,440, one point behind Bianca",
+      "basis": "Chinese C177"
+    },
+    {
+      "topic": "mosquito",
+      "final": "The six-ring shot deliberately pins a mosquito; Bianca alone notices",
+      "basis": "Chinese C177"
+    },
+    {
+      "topic": "ballak_names",
+      "final": "Use canonical Akwilla / Ahun / Aheul / Bakilaga Juragio / Aiyen",
+      "basis": "Chinese C177 + Fandom/project canon"
+    },
+    {
+      "topic": "choco",
+      "final": "Naturalize dog-sex kinship wordplay; Dolores names Picaresque-dog Vikir Choco and threatens neutering",
+      "basis": "Chinese C177"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/179.txt",
+    "chinese_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
+    "english_path": "source/chapters/chapter-177.xhtml",
+    "english_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
+    "purpose": "both begin Midterm Random Defense (1), target179"
+  }
+}
