@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Falling in Love acceptance checkpoint
 - **Working branch:** `editorial/restart-falling-in-love-0117-0119`
 - **Base main checkpoint:** `0480e06a96b7d192b2b6df225b42cf6b6e92fb25` (Great Banquet checkpoint merged)
-- **Current PR:** pending creation
+- **Current PR:** #37 — `Rebuild Falling in Love Chapters 117–119`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
