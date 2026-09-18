@@ -1,8 +1,8 @@
 target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 54	054.txt	combined_overlap	54	Physical 054.txt contains target Chapter 54 plus most of target 55; target-54 closing exchange is missing from Chinese and restored from aligned English 54.
 55	054.txt	partial_combined_overlap	55	No standalone 055.txt. Most target-55 body survives appended in 054.txt without a Chapter 55 heading; aligned English 55 supplies the missing target-55 opening/title boundary and remains secondary where Chinese overlap exists.
-75	075.txt	combined	74	Shared raw container for target Chapters 75-76; verified English title/content alignment: Hound Night (1).
-76	075.txt	combined	75	Shared raw container for target Chapters 75-76; verified English title/content alignment: Hound Night (2).
+75	075.txt	combined_unsplittable	74	Shared raw container for targets 75-76. Header declares 75+76, but no internal Chapter-76 heading exists; E74/E75 content alignment shows a cross-boundary splice/omission, so physical source splitting is unsafe. Reconstruct target 75 separately by content.
+76	075.txt	combined_unsplittable	75	Shared raw container for targets 75-76. No safe source-level seam; reconstruct target 76 separately by content using C075 overlap plus aligned E75 where Chinese boundary material is absent.
 267	267.txt	combined	265	Shared raw container for target Chapters 267-268; verified by title/content: Season's Redemption (4).
 268	267.txt	combined	266	Shared raw container for target Chapters 267-268; verified by title/content: Eucharist (1).
 284	284.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
@@ -15,4 +15,4 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 386	385.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
 495	495.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
 496	495.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
-049.txt	49	partial_raw_gap	recovered English chapter-049.xhtml	Chinese file visibly omits the Aiyen/Ahun/husband-hunt connective block near the opening and resumes mid-explanation; restore only that localized missing passage from aligned English.
+49	049.txt	partial_raw_gap	49	Chinese file visibly omits the Aiyen/Ahun/husband-hunt connective block near the opening and resumes mid-explanation; restore only that localized missing passage from aligned English.
