@@ -1,0 +1,90 @@
+{
+  "chapter": 87,
+  "title": "The Illiad (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "family_qa_path": "qa/families/illiad-0085-0089.md",
+    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/087.txt",
+    "blob_sha": "f954b592f541c39249d6785ae49baff72188738a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-086.xhtml",
+    "blob_sha": "0be4b81f87e557beb424577368c333587d5cb9ed",
+    "target_alignment": 87,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/090.txt",
+    "chinese_sha": "2128d128f66c3208b3d8bacdd37bb7d9c6684773",
+    "english_path": "source/chapters/chapter-089.xhtml",
+    "english_sha": "6cb2efd35be359cd0d25a1de23daf2a2561ef383",
+    "purpose": "both begin The Ghosts of the Ancestors (1) target90"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Ah'Heman",
+        "Akwilla",
+        "Aiyen",
+        "Ahun",
+        "Aheul",
+        "Leviathan Clan",
+        "Vikir",
+        "Chihuahua Baskerville",
+        "Underdog City",
+        "Illiad"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0087.md",
+    "blob_sha": "138db9e61ef2258db5e09e593cda31e6a54c3e29"
+  },
+  "qa": {
+    "path": "qa/chapter-0087.md",
+    "blob_sha": "05a1720e186ad896d0e62e4072c64dde31303af9",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bag",
+      "final": "Vikir predicts river disposal and prepositions swimmer; supposed antidote is flour",
+      "basis": "Chinese target87"
+    },
+    {
+      "topic": "letters",
+      "final": "letters are forged/manufactured by Vikir and must never be presented as authentic evidence",
+      "basis": "Chinese target87 internal reveal"
+    },
+    {
+      "topic": "forgery_skill",
+      "final": "Vikir learned handwriting imitation from Chihuahua during Underdog tenure",
+      "basis": "Chinese target87"
+    },
+    {
+      "topic": "underlying_crime",
+      "final": "real collusion is independently established by target86 despite forged evidence",
+      "basis": "family continuity"
+    },
+    {
+      "topic": "illiad_setup",
+      "final": "Akwilla's apparent defense is rhetorical trap leading to Illiad",
+      "basis": "Chinese target87"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
