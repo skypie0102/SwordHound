@@ -1,0 +1,71 @@
+{
+  "chapter": 140,
+  "title": "Men are Power (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Men are Power",
+    "range": [
+      139,
+      140
+    ],
+    "family_qa_path": "qa/families/men-are-power-0139-0140.md",
+    "family_qa_sha": "1afcfad688880997aabc8b5a4d3362bae51ef5ee",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/140.txt",
+    "blob_sha": "cdd9a996413b8b25bbdd467eba1d00c8a83f313f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-139.xhtml",
+    "blob_sha": "c6f7fa7bc85cc6035c3f5df0be667b4cda9e1f52",
+    "target_alignment": 140,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0140.md",
+    "blob_sha": "ed3cbfb7e7e0577b3c83e25b68d8169efdacfb9d"
+  },
+  "qa": {
+    "path": "qa/chapter-0140.md",
+    "blob_sha": "c8b593872067217dc644a1ec78942e51907369db",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "ephebo",
+      "final": "Canonical Ephebo is source-revealed by chest marking; Upper/High Graduator subordinate, not Ten Corpse",
+      "basis": "Chinese C140 + canonical character register"
+    },
+    {
+      "topic": "seven_fangs",
+      "final": "Seven Fangs subdue Ephebo; small Seventh Fang is an intentional lethal trap and remains incomplete",
+      "basis": "Chinese C140 + project Fang terminology"
+    },
+    {
+      "topic": "master_guard",
+      "final": "Ephebo's later master identity remains excluded",
+      "basis": "C140/C141 chronology guard"
+    },
+    {
+      "topic": "ledger",
+      "final": "Doxeller failsafe self-destruction exposes hidden safe; Vikir takes child-transfer/payment ledgers for Cindywendy",
+      "basis": "Chinese C140"
+    },
+    {
+      "topic": "dolores_mask",
+      "final": "Dolores arrives with newspaper team and privately recovers half-burned plague-doctor mask",
+      "basis": "Chinese C140"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/141.txt",
+    "chinese_sha": "edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06",
+    "english_path": "source/chapters/chapter-140.xhtml",
+    "english_sha": "2b0e8524960469cb4000cfb7d29eb1a3941d20c9",
+    "purpose": "both begin Identity of the Villain (1), target141"
+  }
+}
