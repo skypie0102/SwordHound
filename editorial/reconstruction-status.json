@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 109,
+  "accepted_chapters": 116,
   "staged_chapters": 0,
-  "next_chapter": 110,
+  "next_chapter": 117,
   "latest_accepted_family": {
-    "name": "The Returned Hero",
-    "range": [
-      105,
-      109
-    ],
-    "family_qa": "qa/families/returned-hero-0105-0109.md"
-  },
-  "next_title_family": {
     "name": "The Great Banquet",
     "range": [
       110,
       116
     ],
-    "boundary_status": "verified seven-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 117,
-    "following_title": "Falling in Love (1)",
-    "alignment_note": "110→E109,111→E110,112→E111,113→E112,114→E113,115→E114,116→E115;117→E116"
+    "family_qa": "qa/families/great-banquet-0110-0116.md"
+  },
+  "next_title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 120,
+    "following_title": "The Hunt for the Second Son (1)",
+    "alignment_note": "117→E116,118→E117,119→E118;120→E119"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -171,18 +171,23 @@
     106,
     107,
     108,
-    109
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
   ],
   "notes": [
-    "Chapters 105-109 are accepted as The Returned Hero (1)-(5).",
-    "Target105 reveals the Red Salt Castle golden monument as Vikir; the local hero legend is deliberately exaggerated.",
-    "Target106 reintroduces Highsis/Middlesis/Lowsis and preserves the Chinese-controlled plant/earth/water ordering.",
-    "Target107 repairs a local Chinese subject slip: Camus, not Adolf, leaves the Light Faction for Snake Morgue's Dark Faction.",
-    "Target108 corrects E107 using Chinese: the white-carpet joke uses coffee, and Vikir's form purpose is reporting survival/return alive rather than Reunion.",
-    "Target108 establishes the unresolved serial child-abduction case and Pomeranian's corpse-revival/negative-mana aptitude at age five.",
-    "Target109 preserves Hugo's unexpectedly warm reunion, Vikir's Ballak-protection trade strategy, Hugo's Rokoko extermination demand, and Hugo's shocked reaction to Pomeranian.",
-    "Raw-layer Lucina/Freya/Firian naming drift in target109 is normalized to accepted Lady Roxana / Penelope La Baskerville / Pomeranian La Baskerville.",
-    "Next family targets110-116 — The Great Banquet (1)-(7), mapped 110→E109 through 116→E115. Target117 begins Falling in Love (1) and maps to E116.",
+    "Chapters 110-116 are accepted as The Great Banquet (1)-(7).",
+    "Target110 corrects the recovered-English Hugo chronology: Sword Star/Marquis recognition occurred around age forty, roughly ten years before the chapter.",
+    "Target111 Chinese controls Lady Roxana's death as illness and preserves accepted Roxana/Penelope/Pomeranian lineage names.",
+    "Targets111-114 establish the Seven Counts recruitment pressure, Vikir's public Intermediate Sword Graduator record, hidden Peak Sword Graduator strength, and the revised view of Osiris.",
+    "Targets114-116 source-reveal that Seth is suspected nonhuman and provide demonic scent/reflection evidence plus child-disappearance and old-conspiracy links; later demon identity remains spoiler-guarded.",
+    "Target116 preserves Sixth/Seventh Fang terminology, rejects unsupported E115 'Yuasa Castle', and ends on Highbro/Middlebro/Lowbro's formal knight oath.",
+    "Next family targets117-119 — Falling in Love (1)-(3), mapped 117→E116 through 119→E118. Target120 begins The Hunt for the Second Son (1) and maps to E119.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
