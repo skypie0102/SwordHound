@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Red Death acceptance + 075 combined-source audit
 - **Working branch:** `editorial/restart-red-death-family`
 - **Base main checkpoint:** `20d0b84bc8c9a3326e625cb9f6bd4ddfb0ef01f4` (PR #26, Blood Relatives 68–71, merged)
-- **Current PR:** pending
+- **Current PR:** #27 — `Rebuild The Red Death Chapters 72–74`
+- **Pre-PR-stamp branch head:** `ceb51d3e044e586f13a49ecc08b23767d851a25f`
 - **Blocking issue:** none
 
 ## Authoritative current checkpoint
