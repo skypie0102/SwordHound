@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Adorable Pet (1)–(2) accepted
+
+**Current state:** 171 / 500 accepted; 0 staged; next Chapter 172.
+
+Completed targets 170–171 with mapping **170→E168, 171→E169**.
+
+Key decisions: C170 contains two documented localized Chinese omissions restored only from E168; the four masks combine into the **Picaresque Mask** with **Kin-Slaying** and **Human Face, Beast Heart** states; Vikir's dog transformation is intent-controlled; **Madam Eight-Legs's egg** hatches into **Baby Madam**; target 171 retains the accepted **Danger Rating S / Le Rouge et Le Noir 10th Ridge / Madam of the Flood** source-scope profile; Baby Madam's silk and poison-development rules are preserved.
+
+Family QA: `qa/families/adorable-pet-0170-0171.md` — **PASS**.
+
+Next verified family: **172–175 — The Anti-Columnist (1)–(4)**. Target **176** begins *The 99 Hits With 100 Shots (1)*.
+
 ## 2026-09-18 — Sin and Punishment (1)–(8) accepted
 
 **Current state:** 169 / 500 accepted; 0 staged; next Chapter 170.

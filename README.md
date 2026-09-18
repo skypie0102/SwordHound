@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **169 / 500 accepted; next Chapter 170.** Latest accepted family: **targets 162–169 — Sin and Punishment (1)–(8)**.
+Current checkpoint: **171 / 500 accepted; next Chapter 172.** Latest accepted family: **targets 170–171 — Adorable Pet (1)–(2)**.
 
-The next verified family is **Adorable Pet, targets 170–171**, mapped **170→E168, 171→E169**. Target 172 begins **The Anti-Columnist (1)** and maps to E170.
+The next verified family is **The Anti-Columnist, targets 172–175**, mapped **172→E170 through 175→E173**. Target 176 begins **The 99 Hits With 100 Shots (1)** and maps to E174.
 
 ## Current source policy
 
@@ -37,6 +37,17 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Adorable Pet family adds/revalidates:
+
+- **Picaresque Mask** — four recovered coverings combine into the demonic mask.
+- **Kin-Slaying / Human Face, Beast Heart** — Picaresque's displayed attributes.
+- **C170 gap restoration** — two localized missing Chinese spans restored only from E168 and registered in `chapter-exceptions.tsv`.
+- **Baby Madam** — Madam Eight-Legs's newly hatched offspring.
+- **Madam Eight-Legs** — repeated source-scope window remains Danger Rating S / Le Rouge et Le Noir 10th Ridge / Madam of the Flood.
+- **Baby Madam silk / poison diet** — source husbandry mechanics retained.
+- **The Anti-Columnist** — next family targets 172–175; witnesses E170–E173.
+- **The 99 Hits With 100 Shots** begins target 176 / E174.
 
 The accepted Sin and Punishment family adds/revalidates:
 
@@ -172,15 +183,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–169**:
+Current accepted production evidence covers targets **1–171**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0169.md`
-- `qa/chapter-0001.md` through `chapter-0169.md`
-- accepted family QA through `qa/families/sin-punishment-0162-0169.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0169.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0169.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0171.md`
+- `qa/chapter-0001.md` through `chapter-0171.md`
+- accepted family QA through `qa/families/adorable-pet-0170-0171.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0171.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0171.json`
 
-Latest family QA: `qa/families/sin-punishment-0162-0169.md` — **PASS**.
+Latest family QA: `qa/families/adorable-pet-0170-0171.md` — **PASS**.
 
 ## Editorial quality bar
 

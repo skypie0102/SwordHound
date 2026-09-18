@@ -1,0 +1,43 @@
+{
+  "chapter": 171,
+  "title": "Adorable Pet (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Adorable Pet",
+    "range": [
+      170,
+      171
+    ],
+    "family_qa_path": "qa/families/adorable-pet-0170-0171.md",
+    "family_qa_sha": "ceecddccb1283aa1182b1a5f2e88acfffaf15727",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/171.txt",
+    "primary_source_sha": "701f5aee7efb26c699a8631fa74278e89d5a733a",
+    "english_reference_path": "source/chapters/chapter-169.xhtml",
+    "english_reference_sha": "9c3f93f72630a6b475137422c87a89ff98b8720d",
+    "draft_path": "manuscript/drafts/chapter-0171.md",
+    "draft_sha": "a5a437026a9bddee9dfcdc90a3b9c6c1c91cee98",
+    "qa_path": "qa/chapter-0171.md",
+    "qa_sha": "34a2ad2408b4323fc17ea27c9754f0e6eb57c8b8",
+    "provenance_path": "editorial/provenance/chapter-0171.json",
+    "provenance_sha": "7b06ecd66ed5b69b231b9debe1b02598da691eed"
+  },
+  "canonical_checks": [
+    "Madam Eight-Legs",
+    "Baby Madam",
+    "Le Rouge et Le Noir",
+    "Madam of the Flood",
+    "Cerberus",
+    "Sinclaire",
+    "Pigi"
+  ],
+  "documented_limits": [
+    "Madam Eight-Legs remains Danger Rating S in this source scope despite later Fandom S+ summaries.",
+    "Baby Madam poison growth is source-present husbandry lore, not a current full combat profile."
+  ],
+  "next_family_alignment_note": "The Anti-Columnist targets172-175: 172→E170,173→E171,174→E172,175→E173. C174-175 use a variant Chinese title word but remain parts3-4 by sequence/content. Target176→E174 begins The 99 Hits With 100 Shots (1)."
+}

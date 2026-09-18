@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 169,
+  "accepted_chapters": 171,
   "staged_chapters": 0,
-  "next_chapter": 170,
+  "next_chapter": 172,
   "latest_accepted_family": {
-    "name": "Sin and Punishment",
-    "range": [
-      162,
-      169
-    ],
-    "family_qa": "qa/families/sin-punishment-0162-0169.md"
-  },
-  "next_title_family": {
     "name": "Adorable Pet",
     "range": [
       170,
       171
     ],
-    "boundary_status": "verified two-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 172,
-    "following_title": "The Anti-Columnist (1)",
-    "alignment_note": "170→E168,171→E169;172→E170"
+    "family_qa": "qa/families/adorable-pet-0170-0171.md"
+  },
+  "next_title_family": {
+    "name": "The Anti-Columnist",
+    "range": [
+      172,
+      175
+    ],
+    "boundary_status": "verified four-part family; Chinese title wording drifts on parts3-4 but sequence/content and recovered witnesses remain contiguous",
+    "following_family_starts": 176,
+    "following_title": "The 99 Hits With 100 Shots (1)",
+    "alignment_note": "172→E170,173→E171,174→E172,175→E173;176→E174"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -231,17 +231,19 @@
     166,
     167,
     168,
-    169
+    169,
+    170,
+    171
   ],
   "notes": [
-    "Chapters 162-169 are accepted as Sin and Punishment (1)-(8).",
-    "Targets162-163 complete the Quilt→Dantalian reveal: Ninth Corpse, A Thousand Faces, Danger Level S+, with Dantalian's ten-Demon-King gate statement and Indulgentia human-farm exposition.",
-    "Targets164-166 preserve Sack of Shame / Fear / Love mechanics: Dolores resolves to Night Hound while Vikir's Love Sack is genuinely empty in his prior-life context.",
-    "Target166 source-explicitly establishes soul resonance / soulmate as the Saintess-awakening condition; target167 temporarily raises Vikir to lower Sword Master.",
-    "Dantalian is killed in target167; the Peri-faced remnant thanks Vikir as Uncle and leaves a physical Peri necklace.",
-    "Target168 has no recovered-English witness in the current sequence and is accepted Chinese-primary only; no neighboring witness was shifted to fill the gap.",
-    "Targets168-169 expose the indulgence ledgers, false relics and financial corruption; Dolores issues a ninety-five-article rebuttal, with Chinese Article 50/90 numbering controlling witness drift.",
-    "Next family targets170-171 — Adorable Pet (1)-(2), mapped 170→E168 and 171→E169. Target172 begins The Anti-Columnist (1) and maps to E170.",
+    "Chapters 170-171 are accepted as Adorable Pet (1)-(2).",
+    "C170 contains two documented localized Chinese omissions restored only from E168: the classmates' give-Vikir-space exchange and the four-mask→Picaresque bridge.",
+    "Picaresque Mask displays Kin-Slaying +0 and Human Face, Beast Heart Off/On; dog transformation is intent-controlled.",
+    "Vikir mourns Peri and resolves to intensify demon hunting.",
+    "Madam Eight-Legs's egg hatches into Baby Madam.",
+    "Target171 reuses the accepted Madam Eight-Legs source-scope window: Danger Rating S / Le Rouge et Le Noir 10th Ridge / Madam of the Flood.",
+    "Baby Madam's silk is exceptionally strong and heat-resistant; extraordinary hatchlings develop through increasingly diverse/strong poisons.",
+    "Next family targets172-175 — The Anti-Columnist (1)-(4), mapped 172→E170 through 175→E173. Target176→E174 begins The 99 Hits With 100 Shots (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

@@ -1,0 +1,44 @@
+{
+  "chapter": 170,
+  "title": "Adorable Pet (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Adorable Pet",
+    "range": [
+      170,
+      171
+    ],
+    "family_qa_path": "qa/families/adorable-pet-0170-0171.md",
+    "family_qa_sha": "ceecddccb1283aa1182b1a5f2e88acfffaf15727",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/170.txt",
+    "primary_source_sha": "c9640b7a5382c780d05bf0aadd6363dc202a6793",
+    "english_reference_path": "source/chapters/chapter-168.xhtml",
+    "english_reference_sha": "d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b",
+    "draft_path": "manuscript/drafts/chapter-0170.md",
+    "draft_sha": "be1251a9891f391b76edbfedd0cd612a967538a0",
+    "qa_path": "qa/chapter-0170.md",
+    "qa_sha": "cc5d279e3f001d94216977028e518e5339d52ffc",
+    "provenance_path": "editorial/provenance/chapter-0170.json",
+    "provenance_sha": "9979ba9e60cb9d479541a62b9e4faa89a0ee052f"
+  },
+  "canonical_checks": [
+    "Peri",
+    "Picaresque Mask",
+    "Kin-Slaying",
+    "Human Face, Beast Heart",
+    "Bog Salamander",
+    "Madam Eight-Legs",
+    "Dantalian"
+  ],
+  "documented_limits": [
+    "Two C170 localized omissions are restored only from E168 and registered in chapter-exceptions.tsv.",
+    "Picaresque later history remains unrevealed.",
+    "Dog transformation is intent-controlled."
+  ],
+  "next_family_alignment_note": "The Anti-Columnist targets172-175: 172→E170,173→E171,174→E172,175→E173. C174-175 use a variant Chinese title word but remain parts3-4 by sequence/content. Target176→E174 begins The 99 Hits With 100 Shots (1)."
+}

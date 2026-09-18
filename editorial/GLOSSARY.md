@@ -681,3 +681,18 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Adorable Pet** — next verified family targets 170–171; witnesses E168–E169.
 - **The Anti-Columnist** — begins target 172 / E170.
 
+## Adorable Pet additions — Chapters 170–171
+
+- **Adorable Pet** — accepted production family title for targets 170–171; shifted witnesses E168–E169.
+- **C170 localized raw gaps** — two spans restored only from E168: classmates' embarrassment/give-Vikir-space exchange; four black coverings recombining into Picaresque.
+- **Picaresque Mask** — four recovered black coverings combine into one demonic mask.
+- **Kin-Slaying +0** — Picaresque displayed attribute.
+- **Human Face, Beast Heart — Off/On** — Picaresque displayed transformation state; On turns Vikir into a small black dog, controlled by intent.
+- **Peri mourning** — Vikir privately mourns Peri and regrets refusing the farewell kiss.
+- **Baby Madam** — established English name for Madam Eight-Legs's newly hatched offspring.
+- **Madam Eight-Legs repeated window** — Danger Rating S / Le Rouge et Le Noir Mountain, 10th Ridge / Madam of the Flood.
+- **Baby Madam silk** — highly adhesive, elastic, heat-resistant, and exceptionally strong.
+- **Baby Madam diet** — extraordinary spider hatchlings develop through increasingly diverse/strong poisons; Madam Eight-Legs's venom is too strong immediately after hatching.
+- **The Anti-Columnist** — next verified family targets 172–175; witnesses E170–E173.
+- **The 99 Hits With 100 Shots** — begins target 176 / E174.
+
