@@ -1,0 +1,67 @@
+{
+  "chapter": 174,
+  "title": "The Anti-Columnist (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Anti-Columnist",
+    "range": [
+      172,
+      175
+    ],
+    "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
+    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/174.txt",
+    "blob_sha": "14dbd097378fb90859f17494de99dda5d0713f8a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-172.xhtml",
+    "blob_sha": "466928bba4b0c1278b9b09832eeb35d65740fad1",
+    "target_alignment": 174,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "localized_gap_registry": null,
+  "draft": {
+    "path": "manuscript/drafts/chapter-0174.md",
+    "blob_sha": "c46e7115716895a9c33812b5c0840df24a00b63d"
+  },
+  "qa": {
+    "path": "qa/chapter-0174.md",
+    "blob_sha": "052100578d1be3441c78ef776397ba1dc6467efa",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "title_drift",
+      "final": "Normalize raw anti-slanderer wording to The Anti-Columnist (3) by family numbering/content/E172",
+      "basis": "Chinese C174 + E172"
+    },
+    {
+      "topic": "baby_madam_poison",
+      "final": "Baby Madam consumes Granola's weak paralytic mist as food",
+      "basis": "Chinese C174"
+    },
+    {
+      "topic": "rank_context",
+      "final": "Freshmen average lower/intermediate Expert; graduates upper Expert; Tudor upper, Sancho intermediate, Pigi lower Expert",
+      "basis": "Chinese C174"
+    },
+    {
+      "topic": "sinclaire_teasing",
+      "final": "Friends read Sinclaire's friendliness romantically; Vikir explicitly denies a relationship",
+      "basis": "Chinese C174"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/176.txt",
+    "chinese_sha": "94b9589ca40d0c79ed44a8ff83acf2496fc3a197",
+    "english_path": "source/chapters/chapter-174.xhtml",
+    "english_sha": "199060b0ea9fc4e6989b550d35b0e06b474e7430",
+    "purpose": "both begin The 99 Hits With 100 Shots (1), target176"
+  }
+}
