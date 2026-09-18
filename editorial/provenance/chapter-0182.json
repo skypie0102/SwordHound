@@ -1,0 +1,66 @@
+{
+  "chapter": 182,
+  "title": "Midterm Random Defense (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Midterm Random Defense",
+    "range": [
+      179,
+      185
+    ],
+    "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
+    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/182.txt",
+    "blob_sha": "a138a068d9169223f5f6534bcb4e55bb88f90fde",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-180.xhtml",
+    "blob_sha": "a71802648a2069a73d07fc8c28f63de01aa817a9",
+    "target_alignment": 182,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0182.md",
+    "blob_sha": "f2b661b7eb5a694fb884c307a3a67f812ad77be8"
+  },
+  "qa": {
+    "path": "qa/chapter-0182.md",
+    "blob_sha": "ab8e38afb8a57eee15b2b06b53104abce48e7233",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "group108",
+      "final": "Tudor/Sancho/Pigi/Bianca form Group 108; Pigi coordinates tactics",
+      "basis": "Chinese C182"
+    },
+    {
+      "topic": "group108_score",
+      "final": "Group 108 survives 19:52 and scores 2,269",
+      "basis": "Chinese C182"
+    },
+    {
+      "topic": "phase2_fault",
+      "final": "Phase 2 starting after all four HP reach zero is a system malfunction",
+      "basis": "Chinese C182"
+    },
+    {
+      "topic": "soldier_ants",
+      "final": "Phase 2 introduces Soldier Ants calibrated for second-years",
+      "basis": "Chinese C182"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/186.txt",
+    "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
+    "english_path": "source/chapters/chapter-184.xhtml",
+    "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
+    "purpose": "both begin Aftermath (1), target186"
+  }
+}
