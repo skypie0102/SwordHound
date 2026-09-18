@@ -5,75 +5,73 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Madam Eight-Legs acceptance checkpoint
-- **Working branch:** `editorial/restart-madam-eight-legs-family`
-- **Base main checkpoint:** `9f2b19fa789e89e99f58ca5e97571e8e639b3f1d` (PR #32, Ghosts 90–94, merged)
-- **Current PR:** #33 — `Rebuild Madam Eight-Legs Chapters 95–100`
-- **Pre-PR-stamp branch head:** `69acc8838e1e82ab7c6c93ddbd4eb5c30b36dc14`
+- **Updated by:** ChatGPT — Nostalgia acceptance checkpoint
+- **Working branch:** `editorial/restart-nostalgia-family`
+- **Base main checkpoint:** `9bcd40750724ac71444d7dc496848ea1a63f5ab4` (PR #33, Madam Eight-Legs 95–100, merged)
+- **Current PR:** pending
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **100 / 500**
+- **Accepted:** **104 / 500**
 - **Staged:** **0**
-- **Next:** **101**
-- **Latest family:** targets **95–100 — Madam Eight-Legs (1)–(6)**
-- **Family QA:** `qa/families/madam-eight-legs-0095-0100.md` — PASS — `bb396c611ff1dfc2b09fd7a5fce53d9415659645`
-- **Next family:** targets **101–104 — Nostalgia (1)–(4)**
-- **Following family:** target **105 — The Returned Hero (1)**
+- **Next:** **105**
+- **Latest family:** targets **101–104 — Nostalgia (1)–(4)**
+- **Family QA:** `qa/families/nostalgia-0101-0104.md` — PASS — `86ad38592d790d8eb1a4acbb99b53341d2c1b1ac`
+- **Next family:** targets **105–109 — The Returned Hero (1)–(5)**
+- **Following family:** target **110 — The Great Banquet (1)**
 
 ## Core rules
 
 - Chinese raw = semantic/narrative authority wherever present.
-- Project/Fandom register controls canonical English names.
-- Recovered English = secondary alignment witness; scoped restoration only for documented gaps/splices.
+- Project/Fandom register controls canonical English terms.
+- Recovered English = secondary witness; scoped restoration only for documented gaps/splices.
 - Preserve reveal chronology.
 - Process full title families.
-- Baskerville numbered techniques are **Fangs**.
+- Numbered Baskerville techniques are **Fangs**.
 - Every editorial session updates this file.
 
-## Accepted Madam Eight-Legs evidence
+## Accepted Nostalgia evidence
 
 | Ch. | Chinese SHA | English witness SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 95 | `891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc` | E94 `88b0d59eb7cc73e684a1d56c7db610c53cd92413` | `2265a9734052560a06644e5825ae994b9e17c74e` | `3bf019226172a88cd26ea65a645bae295f5ebb28` | `62892f70a303e18001c87d01b510898841fe3b67` | `70e911729e25ffc86b01207bcc4ad7a1dc648acb` |
-| 96 | `a44930a8cfb09a245054bb64c5b4fad7c53de2e6` | E95 `3e1933668787f9f0138e808d722d9fc5e578bda5` | `8d721a7823cd3bd1cf7b184b1ab3fa334a93894c` | `bd2ff1db901b7b992c545bf40a2fa528e1a596fd` | `a933cca9715dcbad3595545de481017a95d826c1` | `87de05ec5635e2da4e7f4590ab84be1ca5253b26` |
-| 97 | `0ee54bd429913b5081a5728c70d46712dbda7319` | E96 `1b5f9ec23397fb15b25db1650fb0860234694548` | `9a760964984d456ab921480a01e7fe6f8f3b6c0e` | `1a93f085e3aa755319be1516d1e49e8d770c2d90` | `39afb3ae5ec729ba19333327dd4ec1e65c8033f9` | `5e580afee99c53e47f2f118a84be0dfd18315d1e` |
-| 98 | `3e81774dab8c9a8cc7fff79812a1184a1377a6dc` | E97 `5c1a936e89692aa380e6aa1b21fd719672a1f09d` | `0e68738dcc2206a9030bb3eed0d00e15fb9aca7f` | `3f496d8f4fbd193f2f8d9838fb85064aa31093c8` | `5b9d22b9f326c9627a2b75e649d6225b44252e93` | `6574b7d4229f45b936c12d60b1ab47597fbaa3d2` |
-| 99 | `9de78fd15855a19f0e67ef0f02752c7d3a0893bc` | E98 `df6f149514287d5fadb6e8e249651cbec0aa8102` | `29ad21e68d1b22ea895b16687de35bdd264c343b` | `a065965550440bb036c2528042d266c35b9a4fb3` | `b6146d2be79a15a291b75b62687fb4e9b7ece050` | `71cf09fd63f409458dcc090797a6ded861b40116` |
-| 100 | `0290a265ebc69a85eac8480030fe60e71e21b006` | E99 `6f7bbdba6b24537df925820e137906b98d46a655` | `b0e6d98dcf771297e970569f9782a588e2b61f89` | `79dc7c477a125b591a8ab10ab16cc1805ffa0799` | `20224be5a086e8b610110702f1437b723b267063` | `a539b753518e3d27cdb2760cba73ba9ac2d99bfb` |
+| 101 | `efce896878033b37c07d419a5533ea538fa601bf` | E100 `fd40f3fd52afa198ff059e4295e47630b294360e` | `76f635afd2850c78c035d1399b9b9e97bb7980f5` | `e9b6a0b43dd18edac3a63695c41f47e04124fe42` | `c7115f8ddec6adbbf604c9eaa22d9c55101dc1fb` | `5a09fd7cfd05df393fa73afeed21c92f82e87965` |
+| 102 | `60e4337839e37330558fd3528f9ae1a8d574987a` | E101 `e4aab893ce71c7fc09dbe61db1e076a283241b99` | `4311b6fdf3fbbf0ef02ab69fc44daec2443c2441` | `391fe8a0fc44a60fa591778f3cee294a7bf13111` | `5b4f889081f3ac9a6d09a1dc4f114d0fe93bc052` | `67eec7022792e009bc13f5299d31a8b92856cc41` |
+| 103 | `94b23e81e5e68afb98518c56c9d1c892e6dd4264` | E102 `8f56167764313a2fc68b17b440fd211cff82f092` | `31d218cd6500473cbbd84bd296aa8f050485ffd4` | `63561b13a48d40edd7bf902b768603b4e17178d6` | `6b0f3a981b84a435497f66bbfc455b12036f8cad` | `accd7e6d83620a8d6f369e918695ab65700df82c` |
+| 104 | `5adbd7b928a79f6c21075270a6f4f7b06713bdd2` | E103 `4d0c6cf4b03837358ade68d5fd4bbbcca7cb7084` | `fbb319a494db39e3f63d2cb7c3c40a0bd21a3774` | `fbb9209b282352289d5f32501f671a78fa5aae4b` | `d669234ebfe83523fd427680d1551024c040ad7b` | `53f0d277b84c1dd62516100623ba5f9c1dbf8406` |
 
 ## Key decisions
 
-- Madam's village attack is directly triggered by Ah'Heman's lure; Baskerville's subjugation policy is the broader ecological pressure.
-- Bog Salamander window: A+ / 9 m / 8th Ridge / Infinite-Regeneration Salamander.
-- Bone-Sucking Mosquito: individual D / swarm S / 3 mm / 9th Ridge.
-- Madam window: S / size unknown / 10th Ridge / Madam of the Flood / species unknown.
-- Bog Salamander regeneration enters Slot 3 and displaces Kilogram Hammer.
-- Madam's Venom enters Slot 1 and displaces Cerberus/Incinerate.
-- Current Beelzebub state after target100: **Venom / Silent Heel / Super High-Speed Regeneration**.
-- Target100 ends with Aiyen/Bakira finding Vikir alive.
+- Target101's repeated Madam-death sequence is source-level.
+- Target102: Peak Sword Graduator + small incomplete Seventh Fang; still below Sword Master.
+- Target103 wolf breeding rendered briefly/non-graphically.
+- Target104: two-month skip, five Bakira pups, Madam egg inert.
+- Akwilla/floodland tribes recognize Vikir as permanent family and ally.
+- Aiyen restores Adonai's bow as **Anubis** using Madam webbing.
+- Vikir 17 / Aiyen 19; farewell kiss brief/nonsexual.
 
-## Next family — Nostalgia 101–104
+## Next family — The Returned Hero 105–109
 
 Verified mapping:
-- 101→E100
-- 102→E101
-- 103→E102
-- 104→E103
-- 105→E104 begins **The Returned Hero (1)**.
+- 105→E104
+- 106→E105
+- 107→E106
+- 108→E107
+- 109→E108
+- 110→E109 begins **The Great Banquet (1)**.
 
 Known Chinese SHAs:
-- C101 `efce896878033b37c07d419a5533ea538fa601bf`
-- C102 `60e4337839e37330558fd3528f9ae1a8d574987a`
-- C103 `94b23e81e5e68afb98518c56c9d1c892e6dd4264`
-- C104 `5adbd7b928a79f6c21075270a6f4f7b06713bdd2`
-- C105 boundary `6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab`
+- C105 `6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab`
+- C106 `90b345956d928fe3d4f0e3f63ce67afa7601a9d2`
+- C107 `82d49db27edbc0919b02dea0e0442618bc3b54db`
+- C108 `1ff78b25ce13e6d371e39ff8e90ee470586bc83d`
+- C109 `a4b8c0eb87ada15c6209a4ff378481ed52254a21`
+- C110 boundary `b02e3225fee0f4da4fa440e01751c5c6c2915a6c`
 
 ## Exact next actions
 
-1. Compare/open/merge this 95–100 checkpoint.
-2. Fresh branch from merged main for Nostalgia 101–104.
-3. Read C101–104 + E100–103 fully with C105/E104 boundary.
-4. Reconstruct/QA/provenance/accept all four chapters.
-5. Promote/merge and continue into The Returned Hero.
+1. Compare/open/merge this 101–104 checkpoint.
+2. Fresh branch from merged main for Returned Hero 105–109.
+3. Read C105–109 + E104–108 fully with C110/E109 boundary.
+4. Reconstruct/QA/provenance/accept all five chapters.
+5. Promote/merge and continue into The Great Banquet.
