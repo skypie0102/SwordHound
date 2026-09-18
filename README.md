@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **129 / 500 accepted; next Chapter 130.** Latest accepted family: **targets 126–129 — Admission to the Academy (1)–(4)**.
+Current checkpoint: **132 / 500 accepted; next Chapter 133.** Latest accepted family: **targets 130–132 — The Freshman Talent Show (1)–(3)**.
 
-The next verified family is **The Freshman Talent Show, targets 130–132**, mapped **130→E129 through 132→E131**. Target 133 begins **Test Your Skills (1)** and maps to E132.
+The next verified family is **Test Your Skills, targets 133–138**, mapped **133→E132 through 138→E137**. Target 139 begins **Men are Power (1)** and maps to E138.
 
 ## Current source policy
 
@@ -37,6 +37,14 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Freshman Talent Show family adds/revalidates:
+
+- **The Freshman Talent Show** — accepted production family title for targets 130–132; witnesses E129–E131.
+- **Pigi paired performance** — Vikir sings while Pigi performs the simple fist-and-step motion.
+- **Military-song memorial** — paraphrased wording; source emotional function preserved.
+- **Test Your Skills** — next family targets 133–138; witnesses E132–E137.
+- **Men are Power** begins target 139 / E138.
 
 The accepted Admission to the Academy family adds/revalidates:
 
@@ -67,15 +75,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–129**:
+Current accepted production evidence covers targets **1–132**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0129.md`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0132.md`
 - `qa/chapter-0001.md` through `chapter-0129.md`
 - accepted family QA through `qa/families/admission-academy-0126-0129.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0129.json`
+- `editorial/provenance/chapter-0001.json` through `chapter-0132.json`
 - `qa/acceptance/chapter-0001.json` through `chapter-0129.json`
 
-Latest family QA: `qa/families/admission-academy-0126-0129.md` — **PASS**.
+Latest family QA: `qa/families/freshman-talent-show-0130-0132.md` — **PASS**.
 
 ## Editorial quality bar
 
