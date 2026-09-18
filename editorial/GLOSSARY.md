@@ -9,17 +9,29 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Hunter and the Hunted additions — Chapters 55–60
+
+- **54/55 combined-overlap exception** — physical `054.txt` contains target 54 plus most target 55; no standalone `055.txt` exists. E55 supplies the missing target-55 opening/title boundary only, then Chinese overlap controls.
+- **Bakira** — Aiyen's wolf/hunting companion.
+- **Oxbear** — standard info window: **Danger Rating A / 5 m / Le Rouge et Le Noir Mountain, 7th Ridge**. The observed old female is an exceptional ~8 m specimen.
+- **Target 57 English gap** — no clean standalone recovered-English chapter; E56 overlaps only part of the Oxbear-selection setup, while E57 begins target 58.
+- **Shifted English map** — target 58→E57, 59→E58, 60→E59; E60 starts target 61.
+- **Cold Valley** — descriptive rendering for the Ch.59 cold camp; keep provisional absent stronger canonical evidence.
+- **Low Sword Graduator** — Aiyen's aura rank in Ch.60; never `Gradient`.
+- **Beelzebub / Slot 1 Incinerate — Cerberus (A+)** — reaffirmed in Ch.60.
+- Oxbear mating/exhaustion strategy and Ballak reproductive comparison are retained clinically and non-erotically.
+- Target 60's “collect your seed” emergency line is a Ballak reproductive contingency joke; preserve meaning without sexual expansion.
+- **The Protagonist of Hunting** — next normalized working family title for targets 61–63. Verified witnesses: 61→E60, 62→E61, 63→E62.
+
 ## Slaves of the Savage Tribe additions — Chapters 52–54
 
-- **Slaves of the Savage Tribe** — normalized working production family title for Chinese `野蛮部落的奴隶 (1)–(3)`; recovered English varies between *Slaves of the Savage Tribe* / *Slave(s) of the Barbarian Tribe*.
-- **Thorn-Tree Punishment** — descriptive rendering of the Ballak execution in Ch. 52. Captives are forced up blade-like branches while fire rises beneath them; do not sanitize or promote the phrase as an independently canonical wiki term.
-- **Tough Life** — Ch. 52 explicitly credits the Murcielago-derived ability, together with River Styx protection and Aiyen's noose, for Vikir's survival/recovery after Madam Eight-Legs.
-- **Akwilla** — Ch. 53 source-reveals the Ballak chieftain, Aiyen's mother, as the current **Night Fox**. The prior Night Fox spoiler guard ends at this chapter only.
-- Akwilla is source-linked to Hugo's nose scar, Adolf's severe wound, sixteen Baskerville Sword Graduator kills, ten Morgue Fourth-Circle kills, six Fifth-Circle kills, and likely Cerberus arrow scars. No unsupported formal rank is assigned.
-- **Ballak slave/husband-hunt distinction** — Aiyen says she does not need a husband and claims Vikir as a slave/hunting assistant. Preserve coercive reproductive-role context without romanticization or eroticization.
-- Ch. 54 Ballak body/reproductive-health customs are source-level cultural context; keep factual and non-erotic.
-- Ch. 54 toilet-culture joke: Aiyen earlier presents public exposure as unremarkable, while villagers later mock Vikir for relieving himself openly. Preserve her smile/averted gaze without asserting an unstated motive.
-- **The Hunter and the Hunted** — next target family spans 55–60. Chinese 055.txt is missing. Recovered-English numbering shifts before the family endpoint; target 60 Chinese content matches recovered English 59.
+- **Slaves of the Savage Tribe** — normalized working production family title for Chinese `野蛮部落的奴隶 (1)–(3)`.
+- **Thorn-Tree Punishment** — descriptive rendering of the Ballak execution in Ch.52; keep the execution explicit without promoting the phrase as an independent wiki-canonical term.
+- **Tough Life** — Ch.52 recovery factor together with River Styx protection and Aiyen's noose.
+- **Akwilla** — Ch.53 source-reveals Aiyen's mother / Ballak chieftain as the current **Night Fox**.
+- **Corrected target-54 endpoint** — Ch.54 ends after Aiyen offers the hunt as a route toward freedom and sets departure for dawn.
+- The hunting ceremony, public-urination joke, wolf riding, Ahun challenge, quiver theft, punishment, and “Did it hurt?” endpoint belong to **target Ch.55**, even though most survive physically appended inside `054.txt`.
+- E54 supplies the short closing exchange missing from the Chinese splice.
 
 ## The Husband Hunt additions — Chapters 46–51
 
