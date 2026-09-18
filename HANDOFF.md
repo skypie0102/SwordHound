@@ -1,98 +1,84 @@
 # SwordHound Session Handoff
 
-> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint and always before ending or handing work to another agent. Hash-bound accepted evidence wins over this file if they conflict.
+> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint. Hash-bound accepted evidence wins over this file if they conflict.
 
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Illiad acceptance checkpoint
-- **Working branch:** `editorial/restart-illiad-family`
-- **Base main checkpoint:** `7162feaeb7900b74281d4dfe6971a04868f5d253` (PR #30, Lovesickness 83–84, merged)
-- **Current PR:** #31 — `Rebuild The Illiad Chapters 85–89`
-- **Pre-PR-stamp branch head:** `cea3ec7bbdb4352e20ccc1629eeb8769c5684bff`
+- **Updated by:** ChatGPT — Ghosts of the Ancestors acceptance checkpoint
+- **Working branch:** `editorial/restart-ghosts-ancestors-family`
+- **Base main checkpoint:** `1e42020d01cb5e422c2a4cb64950a184c3982f4e` (PR #31, The Illiad 85–89, merged)
+- **Current PR:** pending
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **89 / 500**
+- **Accepted:** **94 / 500**
 - **Staged:** **0**
-- **Next:** **90**
-- **Latest family:** targets **85–89 — The Illiad (1)–(5)**
-- **Family QA:** `qa/families/illiad-0085-0089.md` — PASS — `79f17461c32dd9cb0533f55fa3f16ebec367c45c`
-- **Next family:** targets **90–94 — The Ghosts of the Ancestors (1)–(5)**
-- **Following family:** target **95 — Madam Eight-Legs (1)**
+- **Next:** **95**
+- **Latest family:** targets **90–94 — The Ghosts of the Ancestors (1)–(5)**
+- **Family QA:** `qa/families/ghosts-ancestors-0090-0094.md` — PASS — `94ca4ab818c4eefb0681b19f4fbfed903d5bc664`
+- **Next family:** targets **95–100 — Madam Eight-Legs (1)–(6)**
+- **Following family:** target **101 — Nostalgia (1)**
 
-## Rules that must not be lost
+## Core rules
 
 - Chinese raw = semantic/narrative authority wherever present.
-- English Fandom/project register = canonical English terminology authority.
-- Recovered English MTL/XHTML = aligned secondary witness; scoped restoration only for documented Chinese gaps/splices.
+- Project/Fandom canonical register controls established English names.
+- Recovered English is secondary; scoped restoration only for documented gaps/splices.
 - Preserve reveal chronology.
-- Process full title families.
-- Baskerville numbered techniques are **Fangs**.
-- Preserve source coercion/violence without eroticizing abuse, nudity, or under-18 content.
-- Every editorial session must update this file.
+- Process complete title families.
+- Numbered Baskerville techniques are **Fangs**.
+- Preserve violence/coercion without eroticizing abuse or under-18 material.
+- Every editorial session updates this file.
 
-## Corpus exceptions
-
-- 500/500 targets have at least partial Chinese coverage.
-- Localized gaps: targets 49 and 55.
-- `054.txt` overlaps targets 54–55.
-- `075.txt` combines targets 75–76 and remains unsplittable at raw-file level.
-
-## Accepted family — The Illiad 85–89
-
-Mapping:
-- 85→E84
-- 86→E85
-- 87→E86
-- 88→E87
-- 89→E88
-- 90→E89 begins The Ghosts of the Ancestors
+## Accepted Ghosts evidence
 
 | Ch. | Chinese SHA | English witness SHA | Draft SHA | QA SHA | Provenance SHA | Acceptance SHA |
 |---|---|---|---|---|---|---|
-| 85 | `a6689c93a2c3810a0a22526f649c060fef1a6407` | E84 `1a33d19bdc16b0b80a945744015bc8414e506ce7` | `72a3f957a6085cd29de42a8abac523e16af097e9` | `45cc38620f7d5e442e6a9dcbf83dc6fdc6267034` | `784278239bb794a8b2d8e40e8a5e457bbccb7052` | `77e383796961180ed7260916ce291abfe8671f6f` |
-| 86 | `6be93c9b02e7bbe160e0db039580024f1fa1811a` | E85 `138252313315fc22e277fd2be6c2d5e414178d56` | `558079cb63beaac1a921d2f39280f5936546a8ad` | `fde4f12b78f728dc6d44a9343126e8a28a30e6cb` | `d800e042750eed6cf6d367db313508fe612ff22c` | `033586bac22c42b03ae60c4214a10bc69980c81f` |
-| 87 | `f954b592f541c39249d6785ae49baff72188738a` | E86 `0be4b81f87e557beb424577368c333587d5cb9ed` | `138db9e61ef2258db5e09e593cda31e6a54c3e29` | `05a1720e186ad896d0e62e4072c64dde31303af9` | `bf07461d1ec4b5bfac2c19cffc31583d78a098d8` | `ad161f5a05bcf7e18fdd97d90604ec2ed9af289e` |
-| 88 | `05598847096890576bceb941900bcf04561d90ff` | E87 `153af50c407697afc6c2677b3c301bce111a3bd3` | `d1817f2819b0c5b43ae97c2867064eb2dc20cec0` | `85ba279de307fa80731d85c16d2cd06db5abb2ea` | `0d6dbb063202de8326f49db87566f042885b6f38` | `ec52c7d5ccaf19b210c68bcb525a1023e9eb849c` |
-| 89 | `83256d7003be5bc4fa12c35f1abf1db63c226c1f` | E88 `0ca10d5e3a3f4d91fdd882bdcf3545dab3bb2ce5` | `0db461b8a6c965c98ebd9b889d9141aed87c1197` | `5a58ccaa8872d8025a6960a8cb1fbddd67627241` | `502841085dd6e3c6b05a4a2398b2a11f1e06e537` | `201f0f8cb4702b583be60b6221d79dc54ae0cd44` |
+| 90 | `2128d128f66c3208b3d8bacdd37bb7d9c6684773` | E89 `6cb2efd35be359cd0d25a1de23daf2a2561ef383` | `71b421e43d11b99367ce210d6d5a3297064daf0e` | `b7d2bd5555e7a8ce4b69b277aee4d25b9a659d18` | `c19f393e47e428eb4b39d0cb9a9c79d5a2fb284f` | `58095f9c16477da93eea83b5276436afd96323e3` |
+| 91 | `e6a35940a28b58cf1c48dfc7e1e4c3c4c3634104` | E90 `48a2ce1bff9887130d5cbfb1e9a6bcaeb19d9460` | `07b8932b4701fff5559f9643036d2838d7e67572` | `73b58ecd593078c570f56813425cbfd3ec7b23ae` | `026821ddb46058b115c58a1b2cc9e64f6eca6fb0` | `9a1580409819309954b6dcda6b09d1770a182e0b` |
+| 92 | `a880ba08795a97b8343f5b49640e2a46b9b8a9ec` | E91 `98931f3b4140b17b93bba780fb12e99480487f20` | `1886d92bea88028644ed52ea7af5834e454e66e0` | `b04fe3f97e3cfcfad4f8bb459f0efb349b7c7594` | `2225798c08883ebd16b742596300d93cf2d28118` | `5389d3460f6748a73e677a133e0d65220e73021d` |
+| 93 | `7c4558df6c485c790389c25096cb5b1891b078bf` | E92 `d51eb4d49a1518a366550ace45288393bcf06d73` | `2a9c08ae740f6b5f6af2104ec87bf42c6d898ec5` | `733f57f9d5dc3c8965b56f2b2dd5286881002a95` | `37a439acc19fb34165a5db383520b2c1d048df73` | `bbdc935f81c1562e6151f3e99801c7a0ec638f17` |
+| 94 | `6e135c81be871986ae3842c6d8e29346d662aff7` | E93 `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f` | `2842e8516e8acf6f8f75ad133fc04fa37fe2f8ac` | `0d229c65c5d1017619521420f7c50a11ad062c04` | `c4ce4d39a48887cd940a81b009d765b54cabb908` | `494dfbdae67001526e0f45effd97162fbc1e8f12` |
 
-### Accepted decisions
+## Accepted decisions
 
-- Silent Heel replaces Tough Life in Beelzebub's active three-slot state.
-- Ka'ah remains Mushuhushu; accepted Nation-Swallowing Snake alias preserved.
-- Target86 explicitly establishes Ah'Heman/Leviathan collusion and deliberate infection of Aheul.
-- Target87 letters are forged evidence created using Chihuahua-taught handwriting imitation.
-- Illiad is Ballak's final life-and-death honor duel.
-- Ah'Heman's young-captive abuse history is retained non-graphically.
-- Aiyen/Vikir kiss is brief, nonsexual romantic affection.
-- Target89 Chinese spider and inner-thigh details control over E88.
-- Ah'Heman's birth tribe is source-revealed as Rokoko.
-- Target89 stops before the old female Oxbear's attack.
+- Ah'Heman returns to Rokoko forbidden necromancy after losing the Illiad.
+- Death Knights rise from the Tomb of the Brave.
+- Divine Archer Adonai is master/Bow Master class.
+- Adonai's black bow is made from old Madam Eight-Legs material and retains poison.
+- Vikir remains High Sword Graduator.
+- Akwilla's apparent missed arrows ride the storm and return from behind.
+- Salt flood purifies the ancestral Death Knights.
+- Adonai's bow survives and is recovered.
+- Ah'Heman dies through the Thorn-Tree Punishment he created.
+- Target 94 stops before the village-attack aftermath.
 
-## Next family — The Ghosts of the Ancestors 90–94
+## Next family — Madam Eight-Legs 95–100
 
 Verified mapping:
-- 90→E89
-- 91→E90
-- 92→E91
-- 93→E92
-- 94→E93
-- 95→E94 begins **Madam Eight-Legs (1)**.
+- 95→E94
+- 96→E95
+- 97→E96
+- 98→E97
+- 99→E98
+- 100→E99
+- 101→E100 begins **Nostalgia (1)**.
 
-Known source SHAs:
-- C90 `2128d128f66c3208b3d8bacdd37bb7d9c6684773` / E89 `6cb2efd35be359cd0d25a1de23daf2a2561ef383`
-- C91 `e6a35940a28b58cf1c48dfc7e1e4c3c4c3634104` / E90 `48a2ce1bff9887130d5cbfb1e9a6bcaeb19d9460`
-- C92 `a880ba08795a97b8343f5b49640e2a46b9b8a9ec` / E91 `98931f3b4140b17b93bba780fb12e99480487f20`
-- C93 `7c4558df6c485c790389c25096cb5b1891b078bf` / E92 `d51eb4d49a1518a366550ace45288393bcf06d73`
-- C94 `6e135c81be871986ae3842c6d8e29346d662aff7` / E93 `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f`
-- C95 `891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc` / E94 `88b0d59eb7cc73e684a1d56c7db610c53cd92413`
+Known Chinese source SHAs:
+- C95 `891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc`
+- C96 `a44930a8cfb09a245054bb64c5b4fad7c53de2e6`
+- C97 `0ee54bd429913b5081a5728c70d46712dbda7319`
+- C98 `3e81774dab8c9a8cc7fff79812a1184a1377a6dc`
+- C99 `9de78fd15855a19f0e67ef0f02752c7d3a0893bc`
+- C100 `0290a265ebc69a85eac8480030fe60e71e21b006`
+- C101 boundary `efce896878033b37c07d419a5533ea538fa601bf`
 
 ## Exact next actions
 
-1. Compare/open/merge the Illiad checkpoint.
-2. Fresh branch from merged main for Ghosts 90–94.
-3. Read C90–94 + E89–93 fully with C95/E94 boundary.
-4. Reconstruct/QA/provenance/accept all five Ghosts chapters.
-5. Promote/merge and continue into Madam Eight-Legs.
+1. Compare/open/merge this 90–94 checkpoint.
+2. Fresh branch from merged main for Madam Eight-Legs 95–100.
+3. Read C95–100 + E94–99 fully with C101/E100 boundary.
+4. Reconstruct/QA/provenance/accept all six chapters.
+5. Promote/merge and continue into Nostalgia.
