@@ -1,0 +1,42 @@
+{
+  "chapter": 133,
+  "title": "Test Your Skills (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/133.txt",
+    "primary_source_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
+    "english_reference_path": "source/chapters/chapter-132.xhtml",
+    "english_reference_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
+    "draft_path": "manuscript/drafts/chapter-0133.md",
+    "draft_sha": "a80b5d24dc9babec612fe14c63890ad1e8e98509",
+    "qa_path": "qa/chapter-0133.md",
+    "qa_sha": "ab9f48fb31ca1ec557bcbb7583cfd82e6b07c02a",
+    "provenance_path": "editorial/provenance/chapter-0133.json",
+    "provenance_sha": "d8c3a3e5d4747eb5810a9415460b629f7a4d5e42"
+  },
+  "canonical_checks": [
+    "Pigi",
+    "Dolores L. Quovadis",
+    "Tudor Donquixote",
+    "Bianca Fo Usher",
+    "Sinclaire",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Tudor chivalric verse is paraphrased.",
+    "Later Pigi bloodline/Corpse material remains excluded.",
+    "Target133 ends before Banshee's direct confrontation develops."
+  ]
+}
