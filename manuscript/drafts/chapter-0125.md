@@ -64,7 +64,7 @@ Ordinary residents were allowed to participate in the trials as public jurors.
 
 The first major defendant was Seth's mother—
 
-**Noot**.
+**Nute Baskerville**.
 
 Surprisingly—
 
