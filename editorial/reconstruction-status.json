@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 119,
+  "accepted_chapters": 125,
   "staged_chapters": 0,
-  "next_chapter": 120,
+  "next_chapter": 126,
   "latest_accepted_family": {
-    "name": "Falling in Love",
-    "range": [
-      117,
-      119
-    ],
-    "family_qa": "qa/families/falling-in-love-0117-0119.md"
-  },
-  "next_title_family": {
     "name": "The Hunt for the Second Son",
     "range": [
       120,
       125
     ],
-    "boundary_status": "verified six-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 126,
-    "following_title": "Admission to the Academy (1)",
-    "alignment_note": "120→E119,121→E120,122→E121,123→E122,124→E123,125→E124;126→E125"
+    "family_qa": "qa/families/hunt-second-son-0120-0125.md"
+  },
+  "next_title_family": {
+    "name": "Admission to the Academy",
+    "range": [
+      126,
+      129
+    ],
+    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 130,
+    "following_title": "The Freshman Talent Show (1)",
+    "alignment_note": "126→E125,127→E126,128→E127,129→E128;130→E129"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -181,14 +181,21 @@
     116,
     117,
     118,
-    119
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125
   ],
   "notes": [
-    "Chapters 117-119 are accepted as Falling in Love (1)-(3).",
-    "Target117 preserves Colosseo Academy recruitment details, Vikir's acceptance, the triplets' knight oath, Baskerville Trident loyalty, and Vikir's two Academy objectives.",
-    "Target118 normalizes raw lineage drift to Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville; Roxana dies of illness and Penelope's abduction drives Hugo's frontier transformation of Baskerville.",
-    "Target119 confirms Pomeranian's lineage, preserves Hugo's gratitude and Osiris's softened self-understanding, and ends with Vikir requesting all seven Baskerville Knight Orders for half a day.",
-    "Next family targets120-125 — The Hunt for the Second Son (1)-(6), mapped 120→E119 through 125→E124. Target126 begins Admission to the Academy (1) and maps to E125.",
+    "Chapters 120-125 are accepted as The Hunt for the Second Son (1)-(6).",
+    "Andromalius is source-revealed only in target121 as the Tenth Corpse, Danger Level S+; target120 remains name-spoiler guarded.",
+    "Vikir's Peak Sword Graduator strength, Seventh Fang, Beelzebub spiritual damage, poisoned blood, Anubis, and Baskerville's seven-order mobilization are source-controlled.",
+    "Hugo performs the final destruction of Andromalius after the severed head attempts to reach the river.",
+    "Target125 preserves public compensation/punishment aftermath and the new First-Lady murder charge against Nute as an unresolved later allegation, not a retroactive rewrite of earlier illness statements.",
+    "Next family targets126-129 — Admission to the Academy (1)-(4), mapped 126→E125 through 129→E128. Target130 begins The Freshman Talent Show (1) and maps to E129.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
