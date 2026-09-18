@@ -1,0 +1,40 @@
+{
+  "chapter": 136,
+  "title": "Test Your Skills (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/136.txt",
+    "primary_source_sha": "771c95d5d1b61b44be14f72e8dc1ee2f8a1d72aa",
+    "english_reference_path": "source/chapters/chapter-135.xhtml",
+    "english_reference_sha": "d73450642b27c0f98aca585daa676d00e2b88ced",
+    "draft_path": "manuscript/drafts/chapter-0136.md",
+    "draft_sha": "7d3868ee40c1a4461d22ad560bd78474f63c8eb2",
+    "qa_path": "qa/chapter-0136.md",
+    "qa_sha": "de4bb971e54aa571b43c74a0bc96937dec257f33",
+    "provenance_path": "editorial/provenance/chapter-0136.json",
+    "provenance_sha": "7c96163a5ca3f1ee9880ff89774d433a8d9dcd8f"
+  },
+  "canonical_checks": [
+    "Tudor Donquixote",
+    "Vikir",
+    "Baskerville Trident",
+    "Naphtali",
+    "buzzer beater"
+  ],
+  "documented_limits": [
+    "Vikir deliberately conceals strength after both collisions.",
+    "Buzzer-beater outcome only ties 1–1; overtime belongs target137."
+  ]
+}

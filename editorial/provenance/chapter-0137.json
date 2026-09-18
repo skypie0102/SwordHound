@@ -1,0 +1,66 @@
+{
+  "chapter": 137,
+  "title": "Test Your Skills (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Test Your Skills",
+    "range": [
+      133,
+      138
+    ],
+    "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
+    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/137.txt",
+    "blob_sha": "bed95debde0be4d5d02a1c987a22deef76d7eb9a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-136.xhtml",
+    "blob_sha": "64a089ae2b8dc8db74dd65e9835440020974703f",
+    "target_alignment": 137,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0137.md",
+    "blob_sha": "0b9acd70039ff39dbb89e8234376899eae932d99"
+  },
+  "qa": {
+    "path": "qa/chapter-0137.md",
+    "blob_sha": "0a9cee0d211b5dcc03c1ffe14f53ef36a0e26b66",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "sancho_strength",
+      "final": "Sancho cannot move braced Vikir; Vikir uses no mana and intentionally yields afterward",
+      "basis": "Chinese C137"
+    },
+    {
+      "topic": "golden_goal",
+      "final": "Class B wins overtime via Baskerville triplets; they receive public credit",
+      "basis": "Chinese C137"
+    },
+    {
+      "topic": "tudor_apology",
+      "final": "Tudor admits jealousy and apologizes",
+      "basis": "Chinese C137"
+    },
+    {
+      "topic": "face_reveal",
+      "final": "chapter ends when Vikir removes glasses/pushes back wet hair after match",
+      "basis": "Chinese C137"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/139.txt",
+    "chinese_sha": "29e3a8d69342fe6060038c06042102ed6d352146",
+    "english_path": "source/chapters/chapter-138.xhtml",
+    "english_sha": "a04b8fb16ee9f246de51fbc30247009e6e48e3d8",
+    "purpose": "both begin Men are Power (1), target139"
+  }
+}

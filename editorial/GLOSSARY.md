@@ -539,3 +539,18 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Night Hound X warning** — target 132 confrontation with six second-years; preserve visible marks and warning, avoid gratuitous injury detail.
 - **Test Your Skills** — next verified family targets 133–138; witnesses E132–E137.
 - **Men are Power** — begins target 139 / E138.
+
+## Test Your Skills additions — Chapters 133–138
+
+- **Test Your Skills** — accepted production family title for targets 133–138; shifted witnesses E132–E137.
+- **Professor Banshee Morgue** — Morgue Dark Faction elite and long-term Colosseo professor; recovered-English “handwriting” drift is written/theory examination.
+- **Pigi prior-life service** — target 133 source-reveals Academy dropout, later logistics/intelligence contribution, and wartime assassination. Do not import later bloodline/Corpse material.
+- **Ninth Corpse clue** — Vikir privately suspects rapid facial decay may connect to the Ninth Corpse; identity/host still spoiler-guarded.
+- **Vikir theory score** — 990/990. **Sinclaire** — 931.
+- **Naphtali** — 40-player, two-team physical ball sport on a 50×100 field with Y-shaped goals; magic/weapons prohibited.
+- **Buzzer beater** — score remains valid if ball was released when end signal sounded.
+- **Sancho strength test** — braced Vikir cannot be moved without him deliberately yielding; no mana used.
+- **Venomphion** — standard Danger Level A desert scorpion; Sinclaire's report proposes brute / erratic / cunning types.
+- **Second abdominal stinger** — Vikir mentions it in target 138; explanation remains target 139 material.
+- **Men are Power** — next verified family targets 139–140, witnesses E138–E139.
+- **Identity of the Villain** — begins target 141 / E140.
