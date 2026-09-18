@@ -1,0 +1,42 @@
+{
+  "chapter": 59,
+  "title": "The Hunter and the Hunted (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_e58",
+  "title_family": {
+    "name": "The Hunter and the Hunted",
+    "range": [
+      55,
+      60
+    ],
+    "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
+    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/059.txt",
+    "primary_source_sha": "c75833db41cf967973b4679cd6e43c9cfb774770",
+    "english_reference_path": "source/chapters/chapter-058.xhtml",
+    "english_reference_sha": "1e572c7583b36443b10599e7128398bcf5529ea9",
+    "draft_path": "manuscript/drafts/chapter-0059.md",
+    "draft_sha": "81f795ca217e845ef43e135d749081c3c12d5779",
+    "qa_path": "qa/chapter-0059.md",
+    "qa_sha": "54d5b0e4a460771b9f5f34700f32db1f9bc7e8c2",
+    "provenance_path": "editorial/provenance/chapter-0059.json",
+    "provenance_sha": "b778217d3545828738c52f8dad3b130719c1a06b"
+  },
+  "canonical_checks": [
+    "Aiyen",
+    "Bakira",
+    "Ballak Tribe",
+    "Oxbear",
+    "Cold Valley",
+    "Age of Destruction"
+  ],
+  "documented_limits": [
+    "Target 59 maps to E58 by content.",
+    "Mouth-to-mouth food transfer is retained briefly/practically, not eroticized.",
+    "Cold-weather body contact is summarized functionally without sexual detail."
+  ]
+}
