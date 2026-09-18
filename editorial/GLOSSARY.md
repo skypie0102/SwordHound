@@ -631,3 +631,16 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **How to Keep Your Night Shift Employees Safe** — next verified family targets 155–157; witnesses E154–E156.
 - **Familiar Face** — begins target 158 / E157.
 
+## Night-shift safety additions — Chapters 155–157
+
+- **How to Keep Your Night Shift Employees Safe** — accepted production family title for targets 155–157; witnesses E154–E156.
+- **Night-shift Rule 3** — Chinese bans **all sexual activity**, regardless of gender/time/place. Reject recovered-English narrowing.
+- **Night-shift Rules 4 / 14** — intentionally contradictory meta-rules; do not editorially resolve.
+- **Night-shift Rule 6** — strange breathing beside the ear → lie/curl low and remain silent → later clean ceiling stain with another employee.
+- **Peri / HELP ME** — canonical production name controls the target-156 corridor apparition/cloth message.
+- **Dolores age** — target 157 explicitly says **seventeen**.
+- **Dolores / Night Hound** — follows him to talk, not arrest him; shared Red Death/ Saint Meka treatment informs Vikir's comradeship interpretation.
+- **Ephebo** — first high-ranking undead guard to appear in this night sequence; still not a Ten Corpse.
+- **Familiar Face** — next verified family targets 158–161; witnesses E157–E160.
+- **Sin and Punishment** — begins target 162 / E161.
+

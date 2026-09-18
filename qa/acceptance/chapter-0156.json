@@ -1,0 +1,42 @@
+{
+  "chapter": 156,
+  "title": "How to Keep Your Night Shift Employees Safe (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "How to Keep Your Night Shift Employees Safe",
+    "range": [
+      155,
+      157
+    ],
+    "family_qa_path": "qa/families/night-shift-safety-0155-0157.md",
+    "family_qa_sha": "62cf748051afcf6df30bf9b0bef0546443fea7f3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/156.txt",
+    "primary_source_sha": "3997ce7e947b98e28f797031f1469073fa410c73",
+    "english_reference_path": "source/chapters/chapter-155.xhtml",
+    "english_reference_sha": "7c8418bf3b000eac2df141a1f99a738c71185e7b",
+    "draft_path": "manuscript/drafts/chapter-0156.md",
+    "draft_sha": "79433a20cf0eee5b9b2f39a98543f3d1c32a84cf",
+    "qa_path": "qa/chapter-0156.md",
+    "qa_sha": "cc74216374ddba0729a3466ed32921d2c7801160",
+    "provenance_path": "editorial/provenance/chapter-0156.json",
+    "provenance_sha": "7d5a9ed1a1a664c2b72ac89ed746d4346fc07a37"
+  },
+  "canonical_checks": [
+    "Peri",
+    "Night Hound",
+    "Indulgentia safety rules",
+    "Rule 4",
+    "Rule 14",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "Rule 3 bans all sexual activity; recovered narrower wording is rejected.",
+    "Contradictory Rules 4/14 remain unresolved by design.",
+    "Peri uses canonical production naming."
+  ]
+}

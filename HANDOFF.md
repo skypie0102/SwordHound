@@ -5,21 +5,21 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-18
-- **Updated by:** ChatGPT — Drinking Game acceptance checkpoint
-- **Working branch:** `editorial/restart-drinking-game-0152-0154`
-- **Base main checkpoint:** `7595e9378de72225036d1f93f68de9442182d7b9` (Not Brother, But Uncle checkpoint merged)
-- **Current PR:** #46 — `Rebuild Drinking Game Chapters 152–154`
+- **Updated by:** ChatGPT — Night Shift Safety acceptance checkpoint
+- **Working branch:** `editorial/restart-night-shift-safety-0155-0157`
+- **Base main checkpoint:** `58336510460f5053d10c5546d76b89d045e79d92` (Drinking Game checkpoint merged)
+- **Current PR:** #47 — `Rebuild Night Shift Safety Chapters 155–157`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **154 / 500**
+- **Accepted:** **157 / 500**
 - **Staged:** **0**
-- **Next:** **155**
-- **Latest family:** targets **152–154 — The Drinking Game (1)–(3)**
-- **Family QA:** `qa/families/drinking-game-0152-0154.md` — PASS — `45747a29f4164d5b928e0d6ab697604c5acff359`
-- **Next family:** targets **155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**
-- **Following family:** target **158 — Familiar Face (1)**
+- **Next:** **158**
+- **Latest family:** targets **155–157 — How to Keep Your Night Shift Employees Safe (1)–(3)**
+- **Family QA:** `qa/families/night-shift-safety-0155-0157.md` — PASS — `62cf748051afcf6df30bf9b0bef0546443fea7f3`
+- **Next family:** targets **158–161 — Familiar Face (1)–(4)**
+- **Following family:** target **162 — Sin and Punishment (1)**
 
 ## Core rules
 
@@ -31,30 +31,31 @@
 
 ## Key decisions
 
-- **Yut** mechanics and Do/Gae/Geol/Yut/Mo are retained; Vikir's skill comes from front-line Age-of-Destruction play.
-- Chinese `暧昧游戏` controls the target-152 flirting-game register; reject recovered-English vulgar escalation.
-- **Pigi** remains male and **Sinclaire** remains female.
-- Dolores is **amateur fifth dan**; Vikir's “roughly second dan” is an obsolete wartime self-estimate, not a current formal rank.
-- Chinese `阿达里` → **atari**.
-- Chinese `快棋` → **speed Go**, not Shogi.
-- Chinese `万霸不听` → **manpae bulcheong**, not “All clear.”
-- Vikir's destroy-first “mad dog” Go style reflects Age-of-Destruction battlefield values.
-- Dolores's urinary accident remains clear but non-gratuitous; recovered-English crude escalation is rejected.
-- Vikir stops the gathering and takes public responsibility at the end of target 154.
+- Vikir's party blame serves both as repayment for previous-timeline Dolores and as Night Hound operational cover.
+- Volunteer repairs are source-revealed as infiltration infrastructure through the four dormitory rings.
+- The fourteen night-worker rules remain intact and contradictory where the source is contradictory.
+- **Rule 3** bans all sexual activity; recovered-English narrowing is rejected.
+- **Rules 4 / 14** remain unresolved by design.
+- **Peri** controls the HELP ME / looping-corridor sequence.
+- **Dolores** is explicitly seventeen in target 157.
+- Dolores follows the Night Hound to talk, not arrest him.
+- Shared **Red Death / Saint Meka** experience informs Vikir's comradeship interpretation.
+- **Ephebo** is the first high-ranking undead guard to appear in this night sequence and remains outside Ten Corpse status.
 
-## Next family — How to Keep Your Night Shift Employees Safe 155–157
+## Next family — Familiar Face 158–161
 
 | Target | Chinese SHA | English witness | English SHA |
 |---|---|---|---|
-| 155 | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | E154 | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` |
-| 156 | `3997ce7e947b98e28f797031f1469073fa410c73` | E155 | `7c8418bf3b000eac2df141a1f99a738c71185e7b` |
-| 157 | `7e5e07fa00343da715752b93615d4d7ed20c8ca1` | E156 | `a8440def843925046fab5c6beff350b826e95fe4` |
-| boundary 158 | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | E157 | `91d67d8d59d68825a4779fe641605572fdff43ab` |
+| 158 | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | E157 | `91d67d8d59d68825a4779fe641605572fdff43ab` |
+| 159 | `8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d` | E158 | `3c7c17917f56fd16b0400a2baa8f8ea093a203d6` |
+| 160 | `9eff893be76f824143b62d96a0786e3231640510` | E159 | `eef7b095585fff9b1d3e3cb29a8f6563e8842654` |
+| 161 | `73a757520b40ef0438a9b3873511f190cd16588d` | E160 | `5c5e33eba33c4d9836193d6bbb29cca53770a817` |
+| boundary 162 | `680770fdf7b23729571a227210cf1346b0a82774` | E161 | `2cce07a6f2cc14c6860fee7a3ca615a3d70e001d` |
 
 ## Exact next actions
 
-1. Validate and merge PR #46.
-2. Fresh branch from merged main for **How to Keep Your Night Shift Employees Safe 155–157**.
-3. Read C155–157 against E154–156 fully, with C158/E157 as boundary.
-4. Reconstruct, QA, provenance-bind, and accept all three chapters.
-5. Promote state and continue into **Familiar Face**.
+1. Validate and merge PR #47.
+2. Fresh branch from merged main for **Familiar Face 158–161**.
+3. Read C158–161 against E157–160 fully, with C162/E161 as boundary.
+4. Reconstruct, QA, provenance-bind, and accept all four chapters.
+5. Promote state and continue into **Sin and Punishment**.

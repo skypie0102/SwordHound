@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 154,
+  "accepted_chapters": 157,
   "staged_chapters": 0,
-  "next_chapter": 155,
+  "next_chapter": 158,
   "latest_accepted_family": {
-    "name": "The Drinking Game",
-    "range": [
-      152,
-      154
-    ],
-    "family_qa": "qa/families/drinking-game-0152-0154.md"
-  },
-  "next_title_family": {
     "name": "How to Keep Your Night Shift Employees Safe",
     "range": [
       155,
       157
     ],
-    "boundary_status": "verified three-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 158,
-    "following_title": "Familiar Face (1)",
-    "alignment_note": "155→E154,156→E155,157→E156;158→E157"
+    "family_qa": "qa/families/night-shift-safety-0155-0157.md"
+  },
+  "next_title_family": {
+    "name": "Familiar Face",
+    "range": [
+      158,
+      161
+    ],
+    "boundary_status": "verified four-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 162,
+    "following_title": "Sin and Punishment (1)",
+    "alignment_note": "158→E157,159→E158,160→E159,161→E160;162→E161"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -216,16 +216,20 @@
     151,
     152,
     153,
-    154
+    154,
+    155,
+    156,
+    157
   ],
   "notes": [
-    "Chapters 152-154 are accepted as The Drinking Game (1)-(3).",
-    "Yut / Go continuity is Chinese-primary; Pigi remains male and Sinclaire remains female despite recovered-English pronoun drift.",
-    "Chinese 暧昧游戏 controls target152's register; recovered-English vulgar escalation in Tudor/Bianca banter is rejected.",
-    "Target153 uses standard Go terminology: 阿达里→atari, 快棋→speed Go, 万霸不听→manpae bulcheong rather than recovered-English corruptions.",
-    "Vikir's destructive mad-dog Go style is tied to Age-of-Destruction survival values and wartime play.",
-    "Target154 preserves Dolores's urinary accident clearly but non-gratuitously; Vikir takes public blame at the chapter close.",
-    "Next family targets155-157 — How to Keep Your Night Shift Employees Safe (1)-(3), mapped 155→E154 through 157→E156. Target158 begins Familiar Face (1) and maps to E157.",
+    "Chapters 155-157 are accepted as How to Keep Your Night Shift Employees Safe (1)-(3).",
+    "Vikir uses the party blame/laundry excuse as Night Hound operational cover while also repaying previous-timeline battlefield healing from Dolores.",
+    "Volunteer repairs are revealed as prepared infiltration infrastructure through the four concentric dormitory rings.",
+    "Target156 preserves all fourteen contradictory safety rules; Rule3 bans all sexual activity, and Rules4/14 remain intentionally unresolved.",
+    "Peri is the production name in the corridor HELP ME sequence.",
+    "Target157 explicitly states Dolores is seventeen; she follows Night Hound to talk, not arrest him, after trying unsuccessfully to clear Vikir's name.",
+    "Ephebo closes target157 as the first high-ranking undead guard to appear in this sequence without Ten Corpse promotion.",
+    "Next family targets158-161 — Familiar Face (1)-(4), mapped 158→E157 through 161→E160. Target162 begins Sin and Punishment (1) and maps to E161.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

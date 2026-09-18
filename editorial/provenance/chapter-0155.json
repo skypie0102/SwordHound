@@ -1,0 +1,66 @@
+{
+  "chapter": 155,
+  "title": "How to Keep Your Night Shift Employees Safe (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "How to Keep Your Night Shift Employees Safe",
+    "range": [
+      155,
+      157
+    ],
+    "family_qa_path": "qa/families/night-shift-safety-0155-0157.md",
+    "family_qa_sha": "62cf748051afcf6df30bf9b0bef0546443fea7f3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/155.txt",
+    "blob_sha": "0443c1fb6b741512ddea3695e4307f9e918a91bc",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-154.xhtml",
+    "blob_sha": "3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c",
+    "target_alignment": 155,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0155.md",
+    "blob_sha": "56dd3fd684523b1c703f3883f3bd4c5469c53121"
+  },
+  "qa": {
+    "path": "qa/chapter-0155.md",
+    "blob_sha": "7166212e015c4ed81492cc19a4b5d818687dbdbc",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "blame_motive",
+      "final": "Vikir takes Dolores's blame partly to repay previous-timeline battlefield healing and partly to end the gathering for the Quilt operation",
+      "basis": "Chinese C155"
+    },
+    {
+      "topic": "laundry_alibi",
+      "final": "Wet clothing gives Vikir an unquestioned laundry-room separation point",
+      "basis": "Chinese C155"
+    },
+    {
+      "topic": "infiltration_routes",
+      "final": "Volunteer repairs doubled as concealed Night Hound access infrastructure",
+      "basis": "Chinese C155"
+    },
+    {
+      "topic": "dormitory_rings",
+      "final": "Preserve 17–19 / 13–16 / 8–12 / newborn age bands around Quilt's inner quarters",
+      "basis": "Chinese C155"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/158.txt",
+    "chinese_sha": "d0677ff2c2c232ad017287dd0223f04b90a00d3f",
+    "english_path": "source/chapters/chapter-157.xhtml",
+    "english_sha": "91d67d8d59d68825a4779fe641605572fdff43ab",
+    "purpose": "both begin Familiar Face (1), target158"
+  }
+}

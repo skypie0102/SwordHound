@@ -1,0 +1,66 @@
+{
+  "chapter": 157,
+  "title": "How to Keep Your Night Shift Employees Safe (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "How to Keep Your Night Shift Employees Safe",
+    "range": [
+      155,
+      157
+    ],
+    "family_qa_path": "qa/families/night-shift-safety-0155-0157.md",
+    "family_qa_sha": "62cf748051afcf6df30bf9b0bef0546443fea7f3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/157.txt",
+    "blob_sha": "7e5e07fa00343da715752b93615d4d7ed20c8ca1",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-156.xhtml",
+    "blob_sha": "a8440def843925046fab5c6beff350b826e95fe4",
+    "target_alignment": 157,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0157.md",
+    "blob_sha": "0dc5ad3142fe6732d7367eb9f3a7a46d6648b525"
+  },
+  "qa": {
+    "path": "qa/chapter-0157.md",
+    "blob_sha": "c78cd146303698691f030df10811be0256314806",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_age",
+      "final": "Target157 explicitly states Dolores is seventeen",
+      "basis": "Chinese C157"
+    },
+    {
+      "topic": "truth_attempt",
+      "final": "Dolores tries to confess after the party but the girls misread it as self-sacrifice",
+      "basis": "Chinese C157"
+    },
+    {
+      "topic": "night_hound_follow",
+      "final": "Dolores follows Night Hound to talk, not arrest him",
+      "basis": "Chinese C157"
+    },
+    {
+      "topic": "ephebo_close",
+      "final": "End on Ephebo appearing as the first high-ranking undead guard in this sequence; no Ten Corpse promotion",
+      "basis": "Chinese C157 + accepted continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/158.txt",
+    "chinese_sha": "d0677ff2c2c232ad017287dd0223f04b90a00d3f",
+    "english_path": "source/chapters/chapter-157.xhtml",
+    "english_sha": "91d67d8d59d68825a4779fe641605572fdff43ab",
+    "purpose": "both begin Familiar Face (1), target158"
+  }
+}
