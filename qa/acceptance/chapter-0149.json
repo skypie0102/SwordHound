@@ -1,0 +1,46 @@
+{
+  "chapter": 149,
+  "title": "Volunteering for the Golden Week (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/149.txt",
+    "primary_source_sha": "c5b88ad1f27b96fa6fc2a2a82cf819c66ec005bc",
+    "english_reference_path": "source/chapters/chapter-148.xhtml",
+    "english_reference_sha": "771d8eeffcd0ffb950a571100b4508cbf2a1e86d",
+    "draft_path": "manuscript/drafts/chapter-0149.md",
+    "draft_sha": "f12c2b44bed39cbceac7c413d41d0857f44adc7d",
+    "qa_path": "qa/chapter-0149.md",
+    "qa_sha": "ae2ef2b7ad962e25239caf6e4f0db05db091ff65",
+    "provenance_path": "editorial/provenance/chapter-0149.json",
+    "provenance_sha": "a650c9ad18a3d7c39c52e6f05a70dad562678c11"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Night Hound",
+    "Red Death",
+    "Saint Meka",
+    "Peri",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Sinclaire",
+    "Bianca Fo Usher"
+  ],
+  "documented_limits": [
+    "Dolores's martyr framing of Night Hound remains her perspective.",
+    "Her reaction to Vikir remains unfamiliar emotion, not a later romantic conclusion.",
+    "The final Uncle wording is retained only as source setup for the next title family."
+  ]
+}
