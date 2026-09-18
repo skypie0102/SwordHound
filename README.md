@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **161 / 500 accepted; next Chapter 162.** Latest accepted family: **targets 158–161 — Familiar Face (1)–(4)**.
+Current checkpoint: **169 / 500 accepted; next Chapter 170.** Latest accepted family: **targets 162–169 — Sin and Punishment (1)–(8)**.
 
-The next verified family is **Sin and Punishment, targets 162–169**. Mapping is **162→E161 through 167→E166, 168→no recovered-English witness, 169→E167**. Target 170 begins **Adorable Pet (1)** and maps to E168.
+The next verified family is **Adorable Pet, targets 170–171**, mapped **170→E168, 171→E169**. Target 172 begins **The Anti-Columnist (1)** and maps to E170.
 
 ## Current source policy
 
@@ -37,6 +37,19 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Sin and Punishment family adds/revalidates:
+
+- **Dantalian** — Ninth Corpse, A Thousand Faces, Danger Level S+.
+- **Indulgentia human farm / indulgence evidence** — source-explicit in this family.
+- **Sack of Shame / Fear / Love** — memory-attack terminology normalized.
+- **Dolores Love = Night Hound; Vikir prior-life Love = empty** — source-timed spell results.
+- **Soul resonance / soulmate** — Saintess-awakening condition; temporary lower Sword Master buff for Vikir.
+- **Peri necklace** — survives Dantalian's destruction.
+- **Target 168** — Chinese-primary only; no recovered-English witness exists in the current sequence.
+- **Ninety-five-article rebuttal** — Chinese Article 50/90 numbering controls.
+- **Adorable Pet** — next family targets 170–171; witnesses E168–E169.
+- **The Anti-Columnist** begins target 172 / E170.
 
 The accepted Familiar Face family adds/revalidates:
 
@@ -159,15 +172,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–161**:
+Current accepted production evidence covers targets **1–169**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0161.md`
-- `qa/chapter-0001.md` through `chapter-0161.md`
-- accepted family QA through `qa/families/familiar-face-0158-0161.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0161.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0161.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0169.md`
+- `qa/chapter-0001.md` through `chapter-0169.md`
+- accepted family QA through `qa/families/sin-punishment-0162-0169.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0169.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0169.json`
 
-Latest family QA: `qa/families/familiar-face-0158-0161.md` — **PASS**.
+Latest family QA: `qa/families/sin-punishment-0162-0169.md` — **PASS**.
 
 ## Editorial quality bar
 
