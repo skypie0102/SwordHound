@@ -1,0 +1,43 @@
+{
+  "chapter": 120,
+  "title": "The Hunt for the Second Son (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hunt for the Second Son",
+    "range": [
+      120,
+      125
+    ],
+    "family_qa_path": "qa/families/hunt-second-son-0120-0125.md",
+    "family_qa_sha": "4f5e04800620856bd759899676a7a4c31dd39d8f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/120.txt",
+    "primary_source_sha": "db6dff1ae09b891c3cde68de404f060a71d697b2",
+    "english_reference_path": "source/chapters/chapter-119.xhtml",
+    "english_reference_sha": "c281f25b7cdd12fa76dee622ac88dd7145c6f545",
+    "draft_path": "manuscript/drafts/chapter-0120.md",
+    "draft_sha": "d4477ea24b1fe621842971e97b6d21ffdb45fb39",
+    "qa_path": "qa/chapter-0120.md",
+    "qa_sha": "cdf3b8062bc9cdb6fd78f768c91d8052c4cc144b",
+    "provenance_path": "editorial/provenance/chapter-0120.json",
+    "provenance_sha": "2806a81baaafa499f7c531e16ce61b353b85b77b"
+  },
+  "canonical_checks": [
+    "Seth Le Baskerville",
+    "Peak Sword Graduator",
+    "Seventh Fang",
+    "Beelzebub",
+    "Camus Morgue",
+    "Dark Faction",
+    "Ten Corpses"
+  ],
+  "documented_limits": [
+    "Andromalius remains unnamed until target121.",
+    "No individual Eighth Corpse identity/host is imported.",
+    "Barrier entry remains demons and human children under eight."
+  ]
+}
