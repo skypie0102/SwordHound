@@ -696,3 +696,20 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **The Anti-Columnist** — next verified family targets 172–175; witnesses E170–E173.
 - **The 99 Hits With 100 Shots** — begins target 176 / E174.
 
+## The Anti-Columnist additions — Chapters 172–175
+
+- **The Anti-Columnist** — accepted production family title for targets 172–175; shifted witnesses E170–E173.
+- **C172 overlap guard** — omit only the duplicated end-of-C171 Pigi/newspaper-delivery block; registered in `chapter-exceptions.tsv`.
+- **Anti–Night Hound column** — Vikir deliberately writes condemnation as cover to reduce suspicion.
+- **Quovadis reporting guideline** — source-explicit request to center Night Hound terrorism and minimize Quovadis / Old Testament / New Testament references.
+- **Pope-pressure guard** — pressure above Humbert is established; Dolores's aging-Pope manipulation theory remains speculation.
+- **Professor Banshee Morgue** — strict Practical Monster Strategy professor / Ryukeion advisor; verifies Vikir's monster expertise and protects student journalists from outside reporters.
+- **Granola de Leviathan** — canonical name; third son of Leviathan and Hot Department first-year elite / vice representative.
+- **Baby Madam / paralytic mist** — first weak poison feeding shown on-page.
+- **C174–175 title drift** — raw “anti-slanderer” variant is normalized to *The Anti-Columnist (3)–(4)* by sequence/content/witness.
+- **Dolores / Night Hound** — attachment, respect, longing, and undefined pain are source-explicit Dolores POV only.
+- **Vikir demerit favoritism** — Dolores reduced the monster-breeding control-zone penalty from three points to one because he was her club junior.
+- **First-year exam study guide** — contextual rendering of the source “genealogy” idiom; not literal ancestry records.
+- **The 99 Hits With 100 Shots** — next verified family targets 176–178; witnesses E174–E176.
+- **Midterm Random Defense** — begins target 179 / E177.
+
