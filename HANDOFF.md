@@ -8,7 +8,8 @@
 - **Updated by:** ChatGPT — Ghosts of the Ancestors acceptance checkpoint
 - **Working branch:** `editorial/restart-ghosts-ancestors-family`
 - **Base main checkpoint:** `1e42020d01cb5e422c2a4cb64950a184c3982f4e` (PR #31, The Illiad 85–89, merged)
-- **Current PR:** pending
+- **Current PR:** #32 — `Rebuild The Ghosts of the Ancestors Chapters 90–94`
+- **Pre-PR-stamp branch head:** `6f1a33f17e2d7cff188f18cd23a7b4e864e06581`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
