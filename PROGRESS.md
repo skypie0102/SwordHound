@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Lovesickness (1)–(2) accepted
+
+**Current state:** 84 / 500 accepted; 0 staged; next Chapter 85.
+
+Completed targets 83–84 with verified shifted mapping **83→E82, 84→E83**.
+
+Key decisions:
+- preserved Aiyen's dream as continuity recap rather than a rewritten alternate history;
+- kept slavery/partner-capture coercion source-faithful without eroticization;
+- retained Aiyen's sickbed nudity strictly as medical context and inferred no age;
+- preserved Akwilla's conception anecdote factually/non-erotically;
+- corrected target 84 to **thousands** of outside-tribe patients rather than E83's inflated tens of thousands;
+- used Saintess's Tears to cure Aheul and purify the shared river source;
+- retained Vikir's explicit strategic intent to convert tribal gratitude into leverage against Baskerville;
+- completed the family on Aiyen's blush surviving holy water—the Lovesickness payoff.
+
+Family QA: `qa/families/lovesickness-0083-0084.md` — **PASS**.
+
+Next family: **The Illiad (1)–(5), targets 85–89**, mapped **85→E84 through 89→E88**. Target 90 begins **The Ghosts of the Ancestors (1)** and maps to E89.
+
 ## 2026-09-18 — The Saintess (1)–(5) accepted
 
 **Current state:** 82 / 500 accepted; 0 staged; next Chapter 83.
