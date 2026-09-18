@@ -1,0 +1,66 @@
+{
+  "chapter": 149,
+  "title": "Volunteering for the Golden Week (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Volunteering for the Golden Week",
+    "range": [
+      144,
+      149
+    ],
+    "family_qa_path": "qa/families/golden-week-0144-0149.md",
+    "family_qa_sha": "e49a0696fe0b1ba80fbf3c634ef62180f981f696",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/149.txt",
+    "blob_sha": "c5b88ad1f27b96fa6fc2a2a82cf819c66ec005bc",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-148.xhtml",
+    "blob_sha": "771d8eeffcd0ffb950a571100b4508cbf2a1e86d",
+    "target_alignment": 149,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0149.md",
+    "blob_sha": "f12c2b44bed39cbceac7c413d41d0857f44adc7d"
+  },
+  "qa": {
+    "path": "qa/chapter-0149.md",
+    "blob_sha": "ae2ef2b7ad962e25239caf6e4f0db05db091ff65",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_perspective",
+      "final": "Her martyr view of Night Hound and improving opinion of Vikir remain character perspective, not narrator judgment",
+      "basis": "Chinese C149"
+    },
+    {
+      "topic": "volunteer_chain",
+      "final": "Preserve toilets→dining hall→plumbing→laundry→playroom→playground work chain",
+      "basis": "Chinese C149"
+    },
+    {
+      "topic": "sewer_rescue",
+      "final": "Vikir retrieves the egg/ball and warns children from the drain; Dolores interprets the act as selfless",
+      "basis": "Chinese C149"
+    },
+    {
+      "topic": "uncle_setup",
+      "final": "End on Vikir calling himself Uncle, directly setting up Not Brother, But Uncle",
+      "basis": "Chinese C149 + C150 boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/150.txt",
+    "chinese_sha": "8e30ee75b8d75d9ad9100526fc9cea333d9f3b02",
+    "english_path": "source/chapters/chapter-149.xhtml",
+    "english_sha": "460fbc535d134c06c517c1333f022fad1c16f9cd",
+    "purpose": "both begin Not Brother, But Uncle (1), target150"
+  }
+}
