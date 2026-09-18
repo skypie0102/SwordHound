@@ -1,0 +1,43 @@
+{
+  "chapter": 102,
+  "title": "Nostalgia (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Nostalgia",
+    "range": [
+      101,
+      104
+    ],
+    "family_qa_path": "qa/families/nostalgia-0101-0104.md",
+    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/102.txt",
+    "primary_source_sha": "60e4337839e37330558fd3528f9ae1a8d574987a",
+    "english_reference_path": "source/chapters/chapter-101.xhtml",
+    "english_reference_sha": "e4aab893ce71c7fc09dbe61db1e076a283241b99",
+    "draft_path": "manuscript/drafts/chapter-0102.md",
+    "draft_sha": "4311b6fdf3fbbf0ef02ab69fc44daec2443c2441",
+    "qa_path": "qa/chapter-0102.md",
+    "qa_sha": "391fe8a0fc44a60fa591778f3cee294a7bf13111",
+    "provenance_path": "editorial/provenance/chapter-0102.json",
+    "provenance_sha": "5b4f889081f3ac9a6d09a1dc4f114d0fe93bc052"
+  },
+  "canonical_checks": [
+    "Peak Sword Graduator",
+    "Seventh Fang",
+    "Sword Master",
+    "Akwilla",
+    "Aiyen",
+    "Rokoko",
+    "Renaissance",
+    "Madam Eight-Legs"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-105 Returned Hero statue/reveal material is imported backward."
+  ]
+}
