@@ -1,0 +1,44 @@
+{
+  "chapter": 206,
+  "title": "Festival Night (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/206.txt",
+    "primary_source_sha": "86a0e5cf87255b744988fe7b97068b452ad0b76f",
+    "english_reference_path": "source/chapters/chapter-204.xhtml",
+    "english_reference_sha": "ea1e65fd55cdb60c0f1664c66045de88e993247b",
+    "draft_path": "manuscript/drafts/chapter-0206.md",
+    "draft_sha": "cd2f17f2d95183bd12f316b63b3777ee7a0c21a6",
+    "qa_path": "qa/chapter-0206.md",
+    "qa_sha": "68e7b648cfc5c402950c1fd60bc01eebfe0599e4",
+    "provenance_path": "editorial/provenance/chapter-0206.json",
+    "provenance_sha": "fdf9b346cbc1e8854426863b6274a278905b3b8a"
+  },
+  "canonical_checks": [
+    "Ryukeion (Λύκειον)",
+    "Dolores L. Quovadis",
+    "Tudor Donquixote",
+    "Sancho Barataria",
+    "Pigi",
+    "Bianca Fo Usher",
+    "Sinclaire",
+    "Vikir"
+  ],
+  "documented_limits": [
+    "Festival/cross-dressing comedy remains non-sexualized.",
+    "Pre-regression scarred/limping social rejection remains source contrast."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
