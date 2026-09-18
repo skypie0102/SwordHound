@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 74,
+  "accepted_chapters": 77,
   "staged_chapters": 0,
-  "next_chapter": 75,
+  "next_chapter": 78,
   "latest_accepted_family": {
-    "name": "The Red Death",
-    "range": [
-      72,
-      74
-    ],
-    "family_qa": "qa/families/red-death-0072-0074.md"
-  },
-  "next_title_family": {
     "name": "The Hound of the Night",
     "range": [
       75,
       77
     ],
-    "boundary_status": "verified by combined C075, standalone C077, C078 title switch, and shifted E74-E77 content sequence",
-    "following_family_starts": 78,
-    "following_title": "The Saintess (1)",
-    "alignment_note": "75→E74, 76→E75, 77→E76; 78→E77. Physical C075 combines targets 75-76 and has no safe internal heading/seam for source-file splitting."
+    "family_qa": "qa/families/hound-night-0075-0077.md"
+  },
+  "next_title_family": {
+    "name": "The Saintess",
+    "range": [
+      78,
+      82
+    ],
+    "boundary_status": "verified from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 83,
+    "following_title": "Lovesickness (1)",
+    "alignment_note": "78→E77, 79→E78, 80→E79, 81→E80, 82→E81; 83→E82"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -136,17 +136,21 @@
     71,
     72,
     73,
-    74
+    74,
+    75,
+    76,
+    77
   ],
   "notes": [
-    "Chapters 72-74 are accepted as The Red Death (1)-(3) after Chinese-first reconstruction, chapter QA, family QA, provenance, and hash-bound acceptance.",
-    "Recovered-English lag remains stable: target 72→E71, 73→E72, 74→E73.",
-    "Chapter 72 preserves prior-timeline Red Death history, exact Ballak demographic statistics, fictional water/boiling tests, prevention guidance, and the flood-control plan.",
-    "Chapter 73 source-controls Mushuhushu: Danger Rating A+, 32 m, 8th Ridge, alias Nation-Swallowing Snake; local individual Ka'ah escapes wounded.",
-    "Chapter 74 keeps Aheul age fourteen and illness purely medical, corrects Ah'Heman's insult to the siblings' parents, preserves exact outsider exit conditions, and ends with Vikir's promise to return.",
-    "Next verified family is targets 75-77 — The Hound of the Night (1)-(3), mapped 75→E74, 76→E75, 77→E76. Target78 begins The Saintess (1) and maps to E77.",
-    "Physical source/chinese/chapters/075.txt declares combined targets 75+76 but contains no internal Chapter 76 heading. Alignment shows a cross-boundary splice/omission relative to E74/E75, so physical source splitting is not safe; translated outputs must remain separate.",
-    "Chinese raws control narrative/semantic content wherever present; canonical English names/terms use Fandom/project register where confidently identified.",
+    "Chapters 75-77 are accepted as The Hound of the Night (1)-(3).",
+    "Targets 75-76 share physical C075; source file is unsplittable. Target75 uses Chinese body + E74 missing close; target76 uses E75 missing opening/context + Chinese body.",
+    "Target75 travel duration normalized to four days from explicit 2+1+1 itinerary and E74, overriding isolated contradictory raw phrase.",
+    "Pomeranian is entrusted to Chihuahua; Cindywendy/Judy trade-plan continuity preserved.",
+    "Target76 retains the deliberate Red Death well contamination only as fictional narrative wrongdoing and preserves Vikir warning children away before Quovadis intervention.",
+    "Target77 introduces Mozgus Quovadis at current Mid-to-High Sword Graduator-equivalent combat level, with later twin/Old Order spoilers blocked.",
+    "Vikir uses Kilogram Hammer, six Fangs, and Incinerate—Cerberus(A+) and defeats Mozgus nonlethally before Dolores appears.",
+    "Next family is targets 78-82 — The Saintess (1)-(5), mapped 78→E77 through 82→E81. Target83 begins Lovesickness (1) and maps to E82.",
+    "Chinese raws control narrative/semantic content wherever present; scoped recovered-English restoration applies only where documented.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [
