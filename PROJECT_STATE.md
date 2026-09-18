@@ -2,35 +2,37 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 74  
+**Accepted:** 77  
 **Staged:** 0  
-**Next chapter:** 75
+**Next chapter:** 78
 
 ## Current accepted checkpoint
 
-Twenty-one complete title families have passed the restarted workflow, through:
+Twenty-two complete title families have passed the restarted workflow, through:
 
-- Chapters 68–71 — *Blood Relatives (1)–(4)*
 - Chapters 72–74 — *The Red Death (1)–(3)*
+- Chapters 75–77 — *The Hound of the Night (1)–(3)*
 
-Latest family QA: `qa/families/red-death-0072-0074.md` — **PASS**.
+Latest family QA: `qa/families/hound-night-0075-0077.md` — **PASS**.
 
-## The Red Death family decisions
+## The Hound of the Night family decisions
 
-- Verified shifted mapping: **72→E71, 73→E72, 74→E73**.
-- Chapter 72 preserves the prior-timeline epidemic history, exact Ballak demographic statistics, fictional contaminated-water/boiling tests, prevention guidance, and Vikir's flood-control plan.
-- Chapter 73 preserves the elevated tree-village engineering and source-controlled monster window: **Mushuhushu / Danger Rating A+ / 32 m / 8th Ridge / ‘Nation-Swallowing Snake’**.
-- Recovered-English `Monsieur Hushu` / `Full-body Intestine Snake` are rejected.
-- The local Mushuhushu individual **Ka'ah** escapes wounded; Vikir does not kill it.
-- Chapter 74 keeps **Aheul age fourteen** and all illness material clinical, corrects Ah'Heman's insult to the siblings' **parents**, preserves exact Ballak outsider-exit conditions, and ends with Vikir promising Aiyen he will return.
-- Red Death transmission/prevention details are fictional in-world mechanics, not real-world medical claims.
+- Verified mapping: **75→E74, 76→E75, 77→E76**.
+- Physical `075.txt` is a combined 75–76 container with no internal target-76 heading and no safe source-level seam.
+- Target 75 = Chinese body + scoped E74 missing close; target 76 = scoped E75 missing opening/context + Chinese body.
+- Target 75 travel duration is normalized to **four days** from the explicit 2+1+1 itinerary plus E74.
+- Pomeranian is entrusted to Chihuahua in Underdog City; Cindywendy/Judy/jungle-trade continuity is preserved.
+- Target 76 retains Vikir's deliberate Red Death well contamination as fictional narrative wrongdoing without added biological instructions; he warns children away before seeking immediate Quovadis intervention.
+- **Dolores L. Quovadis** is source/canonically normalized without importing her target-78 age/profile early.
+- Target 77 source-reveals **Mozgus Quovadis**. Current combat estimate: between Mid and High Sword Graduator.
+- Vikir remains High Sword Graduator and uses **Kilogram Hammer — Oxbear (A)**, six Fangs, and **Incinerate — Cerberus (A+)**.
+- Mozgus is defeated one-on-one but not killed. The family ends when Dolores appears personally.
 
 ## Next verified title family
 
-- **Target Chapters 75–77 — The Hound of the Night (1)–(3)**
-- Verified mapping: **75→E74, 76→E75, 77→E76**.
-- Target Chapter 78 begins **The Saintess (1)** and aligns to **E77**.
-- Physical `075.txt` declares combined targets 75–76 but has **no internal Chapter-76 marker**. Content alignment shows an unsafe cross-boundary splice/omission, so the source file must remain intact; reconstructed target outputs stay separate.
+- **Target Chapters 78–82 — The Saintess (1)–(5)**
+- Verified mapping: **78→E77, 79→E78, 80→E79, 81→E80, 82→E81**.
+- Target Chapter 83 begins **Lovesickness (1)** and aligns to **E82**.
 
 ## Source authority
 
@@ -53,4 +55,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Red Death (1)–(3), targets 72–74** checkpoint, then branch from merged main for **The Hound of the Night, targets 75–77**. Keep physical `075.txt` intact, align target 75 to E74 and target 76 to E75 by content, use C077→E76 for target 77, and keep target 78 / E77 as the clean **The Saintess (1)** boundary.
+Merge the clean **The Hound of the Night (1)–(3), targets 75–77** checkpoint, then branch from merged main for **The Saintess, targets 78–82**. Use the verified shifted witnesses E77–E81, preserve Dolores/Mozgus reveal chronology, reconstruct and QA the whole family, then continue into **Lovesickness (1)**.
