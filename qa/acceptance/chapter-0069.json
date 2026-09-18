@@ -1,0 +1,42 @@
+{
+  "chapter": 69,
+  "title": "Blood Relatives (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Blood Relatives",
+    "range": [
+      68,
+      71
+    ],
+    "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
+    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/069.txt",
+    "primary_source_sha": "a773e887b3e8514fbe8f133fefeb31f66ed31a57",
+    "english_reference_path": "source/chapters/chapter-068.xhtml",
+    "english_reference_sha": "091517f790c8fd1b7672dce16e7601330e65cfa0",
+    "draft_path": "manuscript/drafts/chapter-0069.md",
+    "draft_sha": "24da6e2f484446ad806117ba9f3748a78c0ff048",
+    "qa_path": "qa/chapter-0069.md",
+    "qa_sha": "87f3043060e5012c8621b340e60297cbf9452b45",
+    "provenance_path": "editorial/provenance/chapter-0069.json",
+    "provenance_sha": "a9925fd995cd61e19a9415862e33170577387709"
+  },
+  "canonical_checks": [
+    "Leviathan Clan",
+    "Camus Morgue",
+    "Aiyen",
+    "Bakira",
+    "Rokoko",
+    "Ballak Tribe"
+  ],
+  "documented_limits": [
+    "Target 69 maps to E68.",
+    "Only the Leviathan Clan identity/poison association is revealed; later Red Death culpability is blocked.",
+    "Aiyen's concern over Vikir leaving remains nonsexual relationship material."
+  ]
+}
