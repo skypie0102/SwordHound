@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Corpse Queen (1)–(5) accepted
+
+**Current state:** 202 / 500 accepted; 0 staged; next Chapter 203.
+
+Completed targets 198–202 with mapping **198→E196 through 202→E200**.
+
+Key decisions: Seere is the Eighth Corpse at Chinese-primary S+; the present contractor is an unnamed woman rather than future-history Snake Morgue; Rosie is source-revealed as Rosie Morgue only at target 202; the Peri necklace does not prove the skeleton is Peri; Ah'Heman returns as a lich; Ephebo/Pedo/Hebe form an A+ Flesh-Patch Giant; Vikir uses Peak Sword Graduator aura and Seventh Fang; Baby Madam's apparent retreat becomes a life-saving silk setup; and Rosie evacuates the Corpse Queen, producing Vikir's first failed assassination.
+
+Family QA: `qa/families/corpse-queen-0198-0202.md` — **PASS**.
+
+Next verified family: **203–205 — Mixed Bath (1)–(3)**. Target **206** begins *Festival Night (1)*.
+
 ## 2026-09-18 — Preparing for the Festival accepted
 
 **Current state:** 197 / 500 accepted; 0 staged; next Chapter 198.
