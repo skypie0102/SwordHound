@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-18 — Blood Relatives (1)–(4) accepted
+
+**Current state:** 71 / 500 accepted; 0 staged; next Chapter 72.
+
+Completed targets 68–71 with verified shifted mapping **68→E67, 69→E68, 70→E69, 71→E70**.
+
+Key decisions:
+- normalized target 68 to **High Sword Graduator / Sixth Fang**;
+- kept **Peak Sword Graduator** as an all-out capability estimate rather than silently promoting Vikir's formal rank;
+- preserved all four patrol reports and Camus's two-year search;
+- source-revealed **Leviathan Clan** in target 69 without importing later Red Death culpability;
+- preserved the failing Rokoko hunter trail and Red Death outbreak;
+- canonicalized **Pomeranian La Baskerville** at target 70;
+- canonicalized **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** at target 71;
+- retained **John Barrymore** for the Baskerville history recollection;
+- held all later Pomeranian/Leviathan spoilers outside the accepted family.
+
+Family QA: `qa/families/blood-relatives-0068-0071.md` — **PASS**.
+
+Next family: **The Red Death (1)–(3), targets 72–74**, mapped **72→E71 through 74→E73**. Target 75 begins **The Hound of the Night (1)** and uses the combined Chinese `075.txt` source for targets 75–76.
+
 ## 2026-09-18 — Unfair Trade (1)–(4) accepted
 
 **Current state:** 67 / 500 accepted; 0 staged; next Chapter 68.

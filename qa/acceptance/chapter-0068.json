@@ -1,0 +1,43 @@
+{
+  "chapter": 68,
+  "title": "Blood Relatives (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Blood Relatives",
+    "range": [
+      68,
+      71
+    ],
+    "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
+    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/068.txt",
+    "primary_source_sha": "6738e266653f25e335c1b4902dff8a82d0a24ba9",
+    "english_reference_path": "source/chapters/chapter-067.xhtml",
+    "english_reference_sha": "e33d1a93a127afe970a5ccc2d3a9d56aa946a087",
+    "draft_path": "manuscript/drafts/chapter-0068.md",
+    "draft_sha": "9ad978191ee34ae273fc1f7246c156b990b231c2",
+    "qa_path": "qa/chapter-0068.md",
+    "qa_sha": "4a578ae47551f398630e520cab36df7d4b0db9f7",
+    "provenance_path": "editorial/provenance/chapter-0068.json",
+    "provenance_sha": "8b6aad1108a7e5540fee80c9d8e5004910a4df54"
+  },
+  "canonical_checks": [
+    "Sixth Fang",
+    "High Sword Graduator",
+    "Peak Sword Graduator",
+    "Sword Master",
+    "Camus Morgue",
+    "Ah'Heman",
+    "Rokoko"
+  ],
+  "documented_limits": [
+    "Target 68 maps to E67.",
+    "Peak Sword Graduator is an all-out capability estimate, not Vikir's formal rank.",
+    "The serpent dagger remains unidentified until target 69."
+  ]
+}

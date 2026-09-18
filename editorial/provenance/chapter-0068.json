@@ -1,0 +1,95 @@
+{
+  "chapter": 68,
+  "title": "Blood Relatives (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Blood Relatives",
+    "range": [
+      68,
+      71
+    ],
+    "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
+    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/068.txt",
+    "blob_sha": "6738e266653f25e335c1b4902dff8a82d0a24ba9",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-067.xhtml",
+    "blob_sha": "e33d1a93a127afe970a5ccc2d3a9d56aa946a087",
+    "target_alignment": 68,
+    "alignment_status": "target68_verified_to_e67_by_ahun_spar_two_year_timeskip_sixth_fang_rank_progression_four_patrol_reports_and_camus_endpoint",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/072.txt",
+    "chinese_sha": "8cf8c0385d0680afc3eb1148653abeac43ce12d9",
+    "english_path": "source/chapters/chapter-071.xhtml",
+    "english_sha": "bbee450f38deaf7753263cc92cff28fc1d54e09e",
+    "purpose": "both begin The Red Death (1) target72 family"
+  },
+  "canonical_references": [
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Ballak Tribe",
+        "Ahun",
+        "Aiyen",
+        "Ah'Heman",
+        "Camus Morgue",
+        "Baskerville Fang Sword Style",
+        "Sixth Fang",
+        "High Sword Graduator",
+        "Peak Sword Graduator",
+        "Sword Master",
+        "Beelzebub",
+        "River Styx",
+        "Hugo Le Baskerville",
+        "Rokoko"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0068.md",
+    "blob_sha": "9ad978191ee34ae273fc1f7246c156b990b231c2"
+  },
+  "qa": {
+    "path": "qa/chapter-0068.md",
+    "blob_sha": "4a578ae47551f398630e520cab36df7d4b0db9f7",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "age_timeskip",
+      "final": "Vikir is seventeen after twenty-four months in the jungle",
+      "basis": "Chinese target68 explicit"
+    },
+    {
+      "topic": "rank",
+      "final": "formal rank is High Sword Graduator with six mana rotations; Sixth Fang mastered",
+      "basis": "Chinese target68 rank/technique semantics + project rank register"
+    },
+    {
+      "topic": "peak_distinction",
+      "final": "Peak Sword Graduator is pre-regression ceiling and current full-power combat estimate, not formal target68 rank",
+      "basis": "Chinese target68 internal comparison"
+    },
+    {
+      "topic": "reports",
+      "final": "preserve four-report order: rainy season, suspicious river contamination, missing Rokoko, Camus-led Morgue search parties",
+      "basis": "Chinese target68"
+    },
+    {
+      "topic": "spoiler_guard",
+      "final": "serpent dagger remains unidentified in target68",
+      "basis": "reveal chronology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}

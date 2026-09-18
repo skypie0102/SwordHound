@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **67 / 500 accepted; next Chapter 68.** Latest accepted family: **targets 64–67 — Unfair Trade (1)–(4)**.
+Current checkpoint: **71 / 500 accepted; next Chapter 72.** Latest accepted family: **targets 68–71 — Blood Relatives (1)–(4)**.
 
-Recovered-English numbering remains one chapter behind: **64→E63, 65→E64, 66→E65, 67→E66**. The next family is **Blood Relatives, targets 68–71**, mapped **68→E67 through 71→E70**.
+Recovered-English numbering remains one chapter behind: **68→E67, 69→E68, 70→E69, 71→E70**. The next family is **The Red Death, targets 72–74**, mapped **72→E71 through 74→E73**. Target 75 begins **The Hound of the Night (1)** and the Chinese `075.txt` container covers targets 75–76.
 
 ## Current source policy
 
@@ -38,28 +38,31 @@ The Chinese corpus contains **492 physical files covering 499 of 500 target chap
 
 ## Current terminology / editorial notes
 
-The accepted Unfair Trade family adds/revalidates:
+The accepted Blood Relatives family adds/revalidates:
 
-- **Bourgeois Clan** — canonical clan/family form for the wealth/trade great family.
-- **Sir Smuggler** — caravan leader in targets 64–66.
-- **Aheul** — canonical spelling; source-revealed in target 65 as Ahun's younger sister.
-- **Ahun / Ah'Heman kinship resolved** — target 67 explicitly says Aheul is Ah'Heman's granddaughter; combined with target 65's sibling relation and indexed Fandom, Ahun is Ah'Heman's **grandson**. Target 63 has been rebound to this correction.
-- **Vikir's Special Law** — retained for the Underdog regulation the merchants unknowingly cite to Vikir himself.
-- Merchant dependency strategy: deliberately non-germinating seed plus harmful narcotics hidden in decorative/personal goods.
-- **Fountain of Valor** — reaffirmed as Vikir's target-67 reward; Ah'Heman collusion remains suspicion only.
-- **Blood Relatives** — next family, targets 68–71; recovered-English witnesses E67–E70.
+- **High Sword Graduator** — Vikir's formal target-68 rank after the two-year time skip.
+- **Sixth Fang** — mastered in target 68; never `Sixth Teeth` or `Sixth Form`.
+- **Peak Sword Graduator** — Vikir's pre-regression ceiling and current all-out combat estimate, not his formal target-68 rank.
+- **Leviathan Clan** — canonical family/clan form for the serpent-emblem poison house; only this identity is source-revealed in target 69.
+- **Red Death** — source-recognized epidemic in target 70.
+- **Pomeranian La Baskerville** — canonical child name; about five years old at reveal.
+- **Penelope La Baskerville** — canonical Hugo/Roxana daughter and Pomeranian's mother.
+- **Lady Roxana** — canonical Hugo first-wife / Penelope mother form.
+- **John Barrymore** — old Baskerville butler; `Deacon Barrymore` remains rejected.
+- **The Red Death** — next family spans targets 72–74; recovered-English witnesses are E71–E73.
+- **The Hound of the Night** begins at target 75; physical `075.txt` is combined targets 75–76.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–67**:
+Current accepted production evidence covers targets **1–71**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0067.md`
-- `qa/chapter-0001.md` through `chapter-0067.md`
-- accepted family QA through `qa/families/unfair-trade-0064-0067.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0067.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0067.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0071.md`
+- `qa/chapter-0001.md` through `chapter-0071.md`
+- accepted family QA through `qa/families/blood-relatives-0068-0071.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0071.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0071.json`
 
-The Chapter-63 Ahun/Ah'Heman kinship evidence has been rebound after the direct Chapter-65/67 continuity resolution. Latest family QA: `qa/families/unfair-trade-0064-0067.md` — **PASS**.
+Latest family QA: `qa/families/blood-relatives-0068-0071.md` — **PASS**.
 
 ## Editorial quality bar
 

@@ -9,6 +9,21 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## Blood Relatives additions — Chapters 68–71
+
+- **Blood Relatives** — normalized production family title for targets 68–71.
+- **High Sword Graduator** — Vikir's formal target-68 rank after twenty-four months in the jungle.
+- **Sixth Fang** — Vikir's mastered Baskerville technique in target 68.
+- **Peak Sword Graduator** — Vikir's pre-regression ceiling and current all-out combat estimate; do not promote him formally to Peak at target 68.
+- **Leviathan Clan** — canonical serpent-emblem poison clan; source-revealed in target 69. Do not import later Red Death/demon details before source reveal.
+- **Red Death** — catastrophic epidemic recognized by Vikir in target 70.
+- **Pomeranian La Baskerville** — canonical name for the approximately five-year-old girl found in the Rokoko village.
+- **Penelope La Baskerville** — Hugo and Lady Roxana's first daughter; Pomeranian's mother.
+- **Lady Roxana** — Hugo's first wife and Penelope's mother.
+- **John Barrymore** — accepted old-butler name in the Baskerville-history recollection.
+- **The Red Death** — next title family spans targets 72–74, mapped to E71–E73.
+- **The Hound of the Night** — begins target 75; physical `075.txt` combines targets 75–76.
+
 ## Unfair Trade additions — Chapters 64–67
 
 - **Unfair Trade** — normalized production family title for targets 64–67.
