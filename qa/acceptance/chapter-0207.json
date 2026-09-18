@@ -1,0 +1,41 @@
+{
+  "chapter": 207,
+  "title": "Festival Night (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/207.txt",
+    "primary_source_sha": "580d4a27f5766da7f68efa9e97dd9f9c512f8a09",
+    "english_reference_path": "source/chapters/chapter-205.xhtml",
+    "english_reference_sha": "22abaf32cd3794a2d54d7807ab07113f51d9de3f",
+    "draft_path": "manuscript/drafts/chapter-0207.md",
+    "draft_sha": "18e6c64c52de518629988600f4729fd1d9b7a063",
+    "qa_path": "qa/chapter-0207.md",
+    "qa_sha": "4085be3f7fdb78590e76c1497832fd379e30b4cb",
+    "provenance_path": "editorial/provenance/chapter-0207.json",
+    "provenance_sha": "24b87bac1765077f3b2896d03ae56639204e5786"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Night Hound",
+    "Professor Banshee Morgue",
+    "Vikir",
+    "Ryukeion"
+  ],
+  "documented_limits": [
+    "Plague-doctor mask predates Night Hound and remains normal Halloween wear.",
+    "Banshee food insults remain source comedy."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
