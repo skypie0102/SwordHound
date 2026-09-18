@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **94 / 500 accepted; next Chapter 95.** Latest accepted family: **targets 90–94 — The Ghosts of the Ancestors (1)–(5)**.
+Current checkpoint: **100 / 500 accepted; next Chapter 101.** Latest accepted family: **targets 95–100 — Madam Eight-Legs (1)–(6)**.
 
-The next verified family is **Madam Eight-Legs, targets 95–100**, mapped **95→E94 through 100→E99**. Target 101 begins **Nostalgia (1)**.
+The next verified family is **Nostalgia, targets 101–104**, mapped **101→E100 through 104→E103**. Target 105 begins **The Returned Hero (1)**.
 
 ## Current source policy
 
@@ -38,28 +38,28 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Ghosts of the Ancestors family adds/revalidates:
+The accepted Madam Eight-Legs family adds/revalidates:
 
-- **Death Knight** — target-91 undead warrior class; Danger Rating A–S.
-- **Tomb of the Brave** — Ballak ancestral burial site from which Ah'Heman summons the dead.
-- **Divine Archer Adonai** — Ballak's greatest recorded archer; master/Bow Master class.
-- **Adonai's black bow** — made from old Madam Eight-Legs material and carrying her poison.
-- **Akwilla wind-return shot** — apparent misses deliberately circle through Adonai's storm and return from behind.
-- **Thorn-Tree Punishment** — target-94 Ah'Heman dies through the punishment he created.
-- **Madam Eight-Legs** — next family spans targets 95–100; witnesses E94–E99.
-- **Nostalgia** begins target 101 / E100.
+- **Madam Eight-Legs** — S-rank monster; size unknown; 10th Ridge; alias **‘Madam of the Flood’**; exact species unknown.
+- **Bog Salamander** — A+, 9 m, 8th Ridge; alias **‘Infinite-Regeneration Salamander’**.
+- **Bone-Sucking Mosquito** — individual D / swarm S / 3 mm / 9th Ridge.
+- **Super High-Speed Regeneration — Bog Salamander (A+)** — target-100 Slot 3 replacement for Kilogram Hammer.
+- **Venom — Madam Eight-Legs (S)** — target-100 Slot 1 replacement for Cerberus/Incinerate.
+- Current Beelzebub slots after target 100: **Venom / Silent Heel / Super High-Speed Regeneration**.
+- **Nostalgia** — next family targets 101–104; witnesses E100–E103.
+- **The Returned Hero** begins target 105 / E104.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–94**:
+Current accepted production evidence covers targets **1–100**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0094.md`
-- `qa/chapter-0001.md` through `chapter-0094.md`
-- accepted family QA through `qa/families/ghosts-ancestors-0090-0094.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0094.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0094.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0100.md`
+- `qa/chapter-0001.md` through `chapter-0100.md`
+- accepted family QA through `qa/families/madam-eight-legs-0095-0100.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0100.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0100.json`
 
-Latest family QA: `qa/families/ghosts-ancestors-0090-0094.md` — **PASS**.
+Latest family QA: `qa/families/madam-eight-legs-0095-0100.md` — **PASS**.
 
 ## Editorial quality bar
 
