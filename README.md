@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **119 / 500 accepted; next Chapter 120.** Latest accepted family: **targets 117–119 — Falling in Love (1)–(3)**.
+Current checkpoint: **125 / 500 accepted; next Chapter 126.** Latest accepted family: **targets 120–125 — The Hunt for the Second Son (1)–(6)**.
 
-The next verified family is **The Hunt for the Second Son, targets 120–125**, mapped **120→E119 through 125→E124**. Target 126 begins **Admission to the Academy (1)** and maps to E125.
+The next verified family is **Admission to the Academy, targets 126–129**, mapped **126→E125 through 129→E128**. Target 130 begins **The Freshman Talent Show (1)** and maps to E129.
 
 ## Current source policy
 
@@ -38,9 +38,15 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Falling in Love family adds/revalidates:
+The accepted Hunt for the Second Son family adds/revalidates:
 
-- **Falling in Love** — production family title for targets 117–119; witnesses E116–E118.
+- **The Hunt for the Second Son** — accepted production family title for targets 120–125; witnesses E119–E124.
+- **Andromalius / Tenth Corpse** — source-revealed in target 121; Danger Level S+.
+- **Ten Corpses** — canonical collective name for the ten Demon Kings and their human vessels.
+- **Anubis** — legendary black bow formerly wielded by Adonai.
+- **Nute Baskerville** — canonical spelling for Seth's mother.
+- **Admission to the Academy** — next family targets 126–129; witnesses E125–E128.
+- **The Freshman Talent Show** begins target 130 / E129.
 - **Boston Terrier Le Baskerville / Pit Bull Knights** — Count and commander; 100-Graduator extermination-specialist order.
 - **Great Dane Le Baskerville / Mastiff Knights** — Count and commander; 100-Graduator formal-war-specialist order.
 - **Seven Counts** — major Baskerville military/political bloc; all seven sought to attend Vikir's banquet.
@@ -57,15 +63,15 @@ The accepted Falling in Love family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–119**:
+Current accepted production evidence covers targets **1–125**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0119.md`
-- `qa/chapter-0001.md` through `chapter-0119.md`
-- accepted family QA through `qa/families/falling-in-love-0117-0119.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0119.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0119.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0125.md`
+- `qa/chapter-0001.md` through `chapter-0125.md`
+- accepted family QA through `qa/families/hunt-second-son-0120-0125.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0125.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0125.json`
 
-Latest family QA: `qa/families/falling-in-love-0117-0119.md` — **PASS**.
+Latest family QA: `qa/families/hunt-second-son-0120-0125.md` — **PASS**.
 
 ## Editorial quality bar
 
