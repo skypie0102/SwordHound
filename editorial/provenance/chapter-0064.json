@@ -1,0 +1,108 @@
+{
+  "chapter": 64,
+  "title": "Unfair Trade (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Unfair Trade",
+    "range": [
+      64,
+      67
+    ],
+    "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
+    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/064.txt",
+    "blob_sha": "332ef149eb32e1c0ba4aa67a53410d8d310f5844",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-063.xhtml",
+    "blob_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
+    "target_alignment": 64,
+    "alignment_status": "target64_verified_to_e63_by_outsider_alarm_bourgeois_market_diamond_corn_exploitation_and_trade_void_endpoint",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/068.txt",
+    "chinese_sha": "6738e266653f25e335c1b4902dff8a82d0a24ba9",
+    "english_path": "source/chapters/chapter-067.xhtml",
+    "english_sha": "e33d1a93a127afe970a5ccc2d3a9d56aa946a087",
+    "purpose": "both begin Blood Relatives (1) target68 family"
+  },
+  "canonical_references": [
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Bourgeois Clan",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Bourgeois Clan",
+        "Seven Great Clans",
+        "wealth/trade identity"
+      ]
+    },
+    {
+      "site": "published aligned English witness",
+      "page_title": "Unfair Trade (1)",
+      "retrieval_mode": "indexed_web_result_2026-09-18",
+      "applies_to": [
+        "Sir Smuggler"
+      ]
+    },
+    {
+      "site": "project accepted terminology",
+      "page_title": "accepted project register",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Baskerville",
+        "Morgue",
+        "Quovadis",
+        "Leviathan",
+        "Underdog City",
+        "Ballak Tribe",
+        "Rokoko",
+        "Madam Eight-Legs",
+        "Aiyen"
+      ]
+    }
+  ],
+  "draft": {
+    "path": "manuscript/drafts/chapter-0064.md",
+    "blob_sha": "7247c9434ad5695d86de99fd8507c42cc9d90ee1"
+  },
+  "qa": {
+    "path": "qa/chapter-0064.md",
+    "blob_sha": "adef0fb58870464bd98f6850b62dad467a9165aa",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bourgeois",
+      "final": "use canonical Bourgeois Clan form; merchants are associated with one of the Seven Great Families/Clans",
+      "basis": "indexed Fandom + Chinese target64"
+    },
+    {
+      "topic": "smuggling",
+      "final": "Vikir infers illegal entry through Baskerville territory/Underdog; preserve as inference",
+      "basis": "Chinese target64"
+    },
+    {
+      "topic": "trade_disparity",
+      "final": "retain diamonds/rare materials for ordinary produce and trinkets at enormous merchant margins",
+      "basis": "Chinese target64"
+    },
+    {
+      "topic": "aheul_pre_reveal",
+      "final": "do not name the young Ballak girl until target65 source reveal",
+      "basis": "reveal chronology"
+    },
+    {
+      "topic": "abuse_treatment",
+      "final": "report merchants' racism and verbal sexual harassment as abuse without gratuitous slurs or sexualization",
+      "basis": "source-level wrongdoing"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
