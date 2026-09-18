@@ -110,7 +110,7 @@ Something struck almost at once.
 
 A fish covered in sawlike teeth came thrashing out of the water.
 
-> **Natteri Piranha**  
+> **Piranha Natteri**  
 > **Danger Rating — Individual:** D  
 > **Danger Rating — School:** A  
 > **Size:** 30 cm  
