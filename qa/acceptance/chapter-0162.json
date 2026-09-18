@@ -1,0 +1,42 @@
+{
+  "chapter": 162,
+  "title": "Sin and Punishment (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sin and Punishment",
+    "range": [
+      162,
+      169
+    ],
+    "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
+    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/162.txt",
+    "primary_source_sha": "680770fdf7b23729571a227210cf1346b0a82774",
+    "draft_path": "manuscript/drafts/chapter-0162.md",
+    "draft_sha": "1f08b101d524d6e8f5771b814b0c947088ef74e2",
+    "qa_path": "qa/chapter-0162.md",
+    "qa_sha": "503a585d2777cd790d25d5a8bbf4787fb18bcec2",
+    "provenance_path": "editorial/provenance/chapter-0162.json",
+    "provenance_sha": "a4450a6b693b9ff26d3e9e374c651c31a4f1224b",
+    "english_reference_path": "source/chapters/chapter-161.xhtml",
+    "english_reference_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d"
+  },
+  "canonical_checks": [
+    "Dantalian",
+    "Ninth Corpse",
+    "Andromalius",
+    "Dolores L. Quovadis",
+    "Quilt Rune Indulgentia"
+  ],
+  "documented_limits": [
+    "Dantalian personal reveal begins here.",
+    "Four-mask lender remains unnamed.",
+    "Gate plan statement is Dantalian's source dialogue."
+  ],
+  "witness_gap": null
+}
