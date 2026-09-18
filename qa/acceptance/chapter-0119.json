@@ -1,0 +1,44 @@
+{
+  "chapter": 119,
+  "title": "Falling in Love (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Falling in Love",
+    "range": [
+      117,
+      119
+    ],
+    "family_qa_path": "qa/families/falling-in-love-0117-0119.md",
+    "family_qa_sha": "e71b0d5349ebf4b718efe2c29ecc2a260257e773",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/119.txt",
+    "primary_source_sha": "30bdce6b0f8f1cb53e18674c32fd2a9be088e327",
+    "english_reference_path": "source/chapters/chapter-118.xhtml",
+    "english_reference_sha": "6e9ff434920c889f1224ac2272674fb3da0a1c49",
+    "draft_path": "manuscript/drafts/chapter-0119.md",
+    "draft_sha": "be0515417df37d6e41e23b155b0d93f875de22b5",
+    "qa_path": "qa/chapter-0119.md",
+    "qa_sha": "ac49425aecc3d0db6d75c341c1f79a51afb3dcbc",
+    "provenance_path": "editorial/provenance/chapter-0119.json",
+    "provenance_sha": "98c6fc21a01f9404490b8fb5552a734956064063"
+  },
+  "canonical_checks": [
+    "Hugo Le Baskerville",
+    "Osiris Le Baskerville",
+    "John Barrymore",
+    "Pomeranian La Baskerville",
+    "Penelope La Baskerville",
+    "Madam Eight-Legs",
+    "Seven Baskerville Knight Orders",
+    "Age of Destruction"
+  ],
+  "documented_limits": [
+    "Pomeranian's damaged child-speech witness is normalized without adding plot content.",
+    "Target119 ends on the seven-knight-orders request.",
+    "No target120 Seth cave, demon dialogue, child-murder, or combat material is imported."
+  ]
+}
