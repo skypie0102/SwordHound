@@ -1765,6 +1765,62 @@
       "acceptance": "qa/acceptance/chapter-0125.json",
       "acceptance_sha": "8ab4dc460d4b601e2581988c308375f0e429f349",
       "family_qa": "qa/families/hunt-second-son-0120-0125.md"
+    },
+    {
+      "chapter": 126,
+      "title": "Admission to the Academy (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/126.txt",
+      "english_mtl_reference": "source/chapters/chapter-125.xhtml",
+      "draft": "manuscript/drafts/chapter-0126.md",
+      "qa": "qa/chapter-0126.md",
+      "provenance": "editorial/provenance/chapter-0126.json",
+      "acceptance": "qa/acceptance/chapter-0126.json",
+      "acceptance_sha": "37f6d34d99954eebb9f173352eb953011295f0cc",
+      "family_qa": "qa/families/admission-academy-0126-0129.md"
+    },
+    {
+      "chapter": 127,
+      "title": "Admission to the Academy (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/127.txt",
+      "english_mtl_reference": "source/chapters/chapter-126.xhtml",
+      "draft": "manuscript/drafts/chapter-0127.md",
+      "qa": "qa/chapter-0127.md",
+      "provenance": "editorial/provenance/chapter-0127.json",
+      "acceptance": "qa/acceptance/chapter-0127.json",
+      "acceptance_sha": "bb3d26b186e3798e2d929eca452fa1c4c3aaa04c",
+      "family_qa": "qa/families/admission-academy-0126-0129.md"
+    },
+    {
+      "chapter": 128,
+      "title": "Admission to the Academy (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/128.txt",
+      "english_mtl_reference": "source/chapters/chapter-127.xhtml",
+      "draft": "manuscript/drafts/chapter-0128.md",
+      "qa": "qa/chapter-0128.md",
+      "provenance": "editorial/provenance/chapter-0128.json",
+      "acceptance": "qa/acceptance/chapter-0128.json",
+      "acceptance_sha": "35cbcdb57cd5bd7e2c044e50405c9a06b047ef4e",
+      "family_qa": "qa/families/admission-academy-0126-0129.md"
+    },
+    {
+      "chapter": 129,
+      "title": "Admission to the Academy (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/129.txt",
+      "english_mtl_reference": "source/chapters/chapter-128.xhtml",
+      "draft": "manuscript/drafts/chapter-0129.md",
+      "qa": "qa/chapter-0129.md",
+      "provenance": "editorial/provenance/chapter-0129.json",
+      "acceptance": "qa/acceptance/chapter-0129.json",
+      "acceptance_sha": "2f1ced6855dfe4d02cde36a6387ac30738dc3422",
+      "family_qa": "qa/families/admission-academy-0126-0129.md"
     }
   ]
 }
