@@ -1,0 +1,42 @@
+{
+  "chapter": 210,
+  "title": "Festival Night (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/210.txt",
+    "primary_source_sha": "1cc6190489c6b36db5debf33a1c187b9a5b5f2a0",
+    "english_reference_path": "source/chapters/chapter-208.xhtml",
+    "english_reference_sha": "1b3871547f9849f5f2257b62f054435ad8fb9923",
+    "draft_path": "manuscript/drafts/chapter-0210.md",
+    "draft_sha": "60f91ace34eb2364f3ad5143ff7712ff9c128511",
+    "qa_path": "qa/chapter-0210.md",
+    "qa_sha": "97f789642b40846403f20cca7f357846e5cefd8b",
+    "provenance_path": "editorial/provenance/chapter-0210.json",
+    "provenance_sha": "a636ae1e4d7f7b16189df37d84d6aab309982fbc"
+  },
+  "canonical_checks": [
+    "Bianca Fo Usher",
+    "Tudor Donquixote",
+    "Vikir",
+    "Corpse Queen",
+    "Professor Sadi"
+  ],
+  "documented_limits": [
+    "Bianca's 7/100 and Vikir 100/100 are her subjective aesthetic scale.",
+    "Adults-only-comic comparison is paraphrased without added erotic detail.",
+    "Corpse Queen identity remains unrevealed."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}

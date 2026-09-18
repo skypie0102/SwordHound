@@ -1,0 +1,71 @@
+{
+  "chapter": 214,
+  "title": "Festival Night (9)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/214.txt",
+    "blob_sha": "02132e7ee15df750cb54183c67c463b521e5b7b2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-212.xhtml",
+    "blob_sha": "273f7a07f3c9f2ede1ab2a2f8bfd03ca7af11bf4",
+    "target_alignment": 214,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0214.md",
+    "blob_sha": "c3f78ef4a2523394b015d331fee131f499b1d01e"
+  },
+  "qa": {
+    "path": "qa/chapter-0214.md",
+    "blob_sha": "8cba1440285bdb1911afcc988a33e219bdd32f68",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "limited_backup",
+      "final": "Dolores requests limited faculty backup to protect civilians without trapping Night Hound",
+      "basis": "Chinese C214"
+    },
+    {
+      "topic": "student_defense",
+      "final": "Tudor/Sancho/Pigi/Bianca/Sinclaire use Defense-test experience but real battle overwhelms them",
+      "basis": "Chinese C214"
+    },
+    {
+      "topic": "banshee_sadi",
+      "final": "Banshee and Sadi protect students/civilians",
+      "basis": "Chinese C214"
+    },
+    {
+      "topic": "ring_on",
+      "final": "Ring of Divine Inviolability activates Finit hic Deus barrier",
+      "basis": "Chinese C214"
+    },
+    {
+      "topic": "visibility_rule",
+      "final": "Hidden space cannot be peered into except by monsters or children under eight",
+      "basis": "Chinese C214"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/216.txt",
+    "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_path": "source/chapters/chapter-214.xhtml",
+    "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  }
+}

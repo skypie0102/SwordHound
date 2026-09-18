@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 205,
+  "accepted_chapters": 215,
   "staged_chapters": 0,
-  "next_chapter": 206,
+  "next_chapter": 216,
   "latest_accepted_family": {
-    "name": "Mixed Bath",
-    "range": [
-      203,
-      205
-    ],
-    "family_qa": "qa/families/mixed-bath-0203-0205.md"
-  },
-  "next_title_family": {
     "name": "Festival Night",
     "range": [
       206,
       215
     ],
-    "boundary_status": "verified ten-part family",
-    "following_family_starts": 216,
-    "following_title": "My Neck Will Be Your Sheath (1)",
-    "alignment_note": "206→E204 through215→E213;216→E214"
+    "family_qa": "qa/families/festival-night-0206-0215.md"
+  },
+  "next_title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "boundary_status": "verified four-part family; C219 title drift normalized by sequence/witness",
+    "following_family_starts": 220,
+    "following_title": "That Day, Him and Me (1)",
+    "alignment_note": "216→E214 through219→E217;220→E218"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -267,22 +267,38 @@
     202,
     203,
     204,
-    205
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215
   ],
   "notes": [
-    "Chapters203-205 are accepted as Mixed Bath (1)-(3).",
-    "Snake Morgue remains human in current intelligence; his Seere contract remains future-history.",
-    "Vikir identifies insufficient sword power as the main reason the Corpse Queen escaped.",
-    "The six second-years are returning Pigi bullies; minor names remain source/witness transliterations.",
-    "Dolores uses student-council authority against the animal abusers; her serial-killer/animal-abuse statement remains character dialogue.",
-    "Blessed bathwater heals dog-form Vikir and shows Dolores's post-Dantalian decisiveness / future Iron Saintess traits.",
-    "Sixth Fang teaching requires discarding joy/anger/sorrow/pleasure; Seventh Fang teaching requires recovering them.",
-    "Vikir concludes Baskerville emotion-erasure training efficiently produces Graduators but may block Sword Master progression.",
-    "Bath material remains awkward non-explicit pet-owner comedy; source explicitly denies Vikir lust.",
-    "Dolores feels Choco is strangely familiar but does not identify him.",
-    "Dolores's romantic interest is Night Hound; this remains one-sided POV and Vikir does not realize she means him.",
-    "Dolores plans to ask the Pope about Saintess awakening and soul resonance.",
-    "Next family targets206-215 — Festival Night (1)-(10), mapped206→E204 through215→E213. Target216→E214 begins My Neck Will Be Your Sheath (1).",
+    "Chapters206-215 are accepted as Festival Night (1)-(10).",
+    "Festival costume set: Tudor Death Knight, Sancho Snow Maiden, Pigi Fairy, Bianca Frankenstein, Sinclaire Spider Queen, Vikir Witch, Dolores Night Hound.",
+    "Vikir's pre-regression scarred/limping social rejection remains a contrast to his current festival popularity.",
+    "Dolores keeps the Night Hound costume despite Banshee disapproval; plague-doctor masks predate the Night Hound and remain normal Halloween wear.",
+    "C208 isolated name drift is repaired to Camus Morgue from verbatim target46 cooking/potato continuity, but this memory does not identify the current Corpse Queen.",
+    "Vikir recognizes that he still retains emotional capacity to care about others, continuing the Sword Master emotion thread.",
+    "Osiris and Pomeranian arrive secretly; Baskerville historical restitution/punishment continues the accepted Messinadnaro line.",
+    "Ring of Divine Inviolability and ability Finit hic Deus are locked.",
+    "Bianca is explicitly18; her 7/100 and Vikir100/100 scores are subjective aesthetics.",
+    "The Corpse Queen experiences ordinary festival pleasure, imagines an Academy life with an unnamed man, and sees witch-costumed Vikir without identifying him.",
+    "Queen and Seere each control half the day; midnight passes the body to Seere.",
+    "Seere's find-person ability found Rosie, but the person the Queen truly seeks remains unnamed through this family.",
+    "Dolores's Soulmate answer is her dialogue in soul-resonance context, not objective relationship status.",
+    "Ring barrier space reflects Seth Le Baskerville's inner world; only monsters or children under eight can peer into it from outside.",
+    "Vikir's six-and-a-half imagery is six complete fangs plus a half-formed Seventh Fang.",
+    "The killing strike against the Queen veers because of mental/emotional movement, not physical failure.",
+    "The Queen cannot voluntarily reveal face/name under her contract.",
+    "C215 ends on childhood voice/face memory; target216 is the first explicit source identification of Corpse Queen as Camus Morgue.",
+    "Next family targets216-219 — My Neck Will Be Your Sheath (1)-(4), mapped216→E214 through219→E217. Target220→E218 begins That Day, Him and Me (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

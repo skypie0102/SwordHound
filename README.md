@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **205 / 500 accepted; next Chapter 206.** Latest accepted family: **targets 203–205 — Mixed Bath (1)–(3)**.
+Current checkpoint: **215 / 500 accepted; next Chapter 216.** Latest accepted family: **targets 206–215 — Festival Night (1)–(10)**.
 
-The next verified family is **Festival Night, targets 206–215**, mapped **206→E204 through 215→E213**. Target 216 begins **My Neck Will Be Your Sheath (1)** and maps to E214.
+The next verified family is **My Neck Will Be Your Sheath, targets 216–219**, mapped **216→E214 through 219→E217**. Target 220 begins **That Day, Him and Me (1)** and maps to E218.
 
 ## Current source policy
 
@@ -37,6 +37,20 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Festival Night family adds/revalidates:
+
+- **Festival costumes** — source-locked character assignments; comedy kept non-sexualized.
+- **Camus Morgue memory guard** — target 208 restores the name but does not identify the Corpse Queen early.
+- **Vikir emotional-capacity thread** — source progression toward Sword Master.
+- **Ring of Divine Inviolability / Finit hic Deus** — equipment + barrier ability.
+- **Corpse Queen / Seere half-day contract** — midnight control transfer.
+- **Sought-person guard** — Rosie was found, but the Queen's true target remains unnamed.
+- **Soulmate** — Dolores's contextual answer, not an objective relationship label.
+- **Seth inner-world Ring space** — external visibility exception for monsters / children under eight.
+- **Six-and-a-half Fangs** — six complete plus half-formed Seventh Fang.
+- **My Neck Will Be Your Sheath** — next family targets 216–219; witnesses E214–E217.
+- **That Day, Him and Me** begins target 220 / E218.
 
 The accepted Mixed Bath family adds/revalidates:
 
@@ -278,15 +292,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–205**:
+Current accepted production evidence covers targets **1–215**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0205.md`
-- `qa/chapter-0001.md` through `chapter-0205.md`
-- accepted family QA through `qa/families/mixed-bath-0203-0205.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0205.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0205.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0215.md`
+- `qa/chapter-0001.md` through `chapter-0215.md`
+- accepted family QA through `qa/families/festival-night-0206-0215.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0215.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0215.json`
 
-Latest family QA: `qa/families/mixed-bath-0203-0205.md` — **PASS**.
+Latest family QA: `qa/families/festival-night-0206-0215.md` — **PASS**.
 
 ## Editorial quality bar
 

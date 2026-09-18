@@ -1,0 +1,40 @@
+{
+  "chapter": 208,
+  "title": "Festival Night (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Festival Night",
+    "range": [
+      206,
+      215
+    ],
+    "family_qa_path": "qa/families/festival-night-0206-0215.md",
+    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/208.txt",
+    "primary_source_sha": "a48bb07a4dba1bdda3290e562d4510ac35cd2792",
+    "english_reference_path": "source/chapters/chapter-206.xhtml",
+    "english_reference_sha": "cb2fc51562ec992ec79b69758539fd9bd61e231b",
+    "draft_path": "manuscript/drafts/chapter-0208.md",
+    "draft_sha": "a17e8a4f59bc1ea8830807e9eb06eaeff9705923",
+    "qa_path": "qa/chapter-0208.md",
+    "qa_sha": "8bc2ea55e71535a3372e75fad1e1168721a0f344",
+    "provenance_path": "editorial/provenance/chapter-0208.json",
+    "provenance_sha": "366bb50750bda5786f04c2048d93ae0c8c9377e2"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Vikir",
+    "Age of Destruction",
+    "Festival Night"
+  ],
+  "documented_limits": [
+    "C208 isolated name drift is repaired to Camus Morgue from verbatim C46 continuity.",
+    "Camus memory does not identify the current Corpse Queen; C216 is first explicit equation."
+  ],
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+}
