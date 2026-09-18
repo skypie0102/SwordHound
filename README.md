@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **89 / 500 accepted; next Chapter 90.** Latest accepted family: **targets 85–89 — The Illiad (1)–(5)**.
+Current checkpoint: **94 / 500 accepted; next Chapter 95.** Latest accepted family: **targets 90–94 — The Ghosts of the Ancestors (1)–(5)**.
 
-The next verified family is **The Ghosts of the Ancestors, targets 90–94**, mapped **90→E89 through 94→E93**. Target 95 begins **Madam Eight-Legs (1)**.
+The next verified family is **Madam Eight-Legs, targets 95–100**, mapped **95→E94 through 100→E99**. Target 101 begins **Nostalgia (1)**.
 
 ## Current source policy
 
@@ -38,29 +38,28 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 ## Current terminology / editorial notes
 
-The accepted Illiad family adds/revalidates:
+The accepted Ghosts of the Ancestors family adds/revalidates:
 
-- **The Illiad** — production family title for targets 85–89; Ballak's final life-and-death honor duel.
-- **Silent Heel — Mushuhushu (A+)** — new target-85 Beelzebub ability; replaces Tough Life.
-- Current Beelzebub slots after target 85: **Incinerate — Cerberus (A+) / Silent Heel — Mushuhushu (A+) / Kilogram Hammer — Oxbear (A)**.
-- **Ka'ah** — exceptional old Mushuhushu at roughly 40 m / >5 tons in target 85.
-- **Ah'Heman** — target 86 confirms deliberate Leviathan collaboration and infection of Aheul; target 89 source-reveals Rokoko origin.
-- **Forged Ah'Heman letters** — target 87 evidence is fabricated by Vikir; never cite it as authentic correspondence.
-- **Rokoko** — Ah'Heman's birth tribe, identified from corpse-reanimation witchcraft in target 89.
-- **The Ghosts of the Ancestors** — next family targets 90–94; witnesses E89–E93.
-- **Madam Eight-Legs** begins target 95 / E94.
+- **Death Knight** — target-91 undead warrior class; Danger Rating A–S.
+- **Tomb of the Brave** — Ballak ancestral burial site from which Ah'Heman summons the dead.
+- **Divine Archer Adonai** — Ballak's greatest recorded archer; master/Bow Master class.
+- **Adonai's black bow** — made from old Madam Eight-Legs material and carrying her poison.
+- **Akwilla wind-return shot** — apparent misses deliberately circle through Adonai's storm and return from behind.
+- **Thorn-Tree Punishment** — target-94 Ah'Heman dies through the punishment he created.
+- **Madam Eight-Legs** — next family spans targets 95–100; witnesses E94–E99.
+- **Nostalgia** begins target 101 / E100.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–89**:
+Current accepted production evidence covers targets **1–94**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0089.md`
-- `qa/chapter-0001.md` through `chapter-0089.md`
-- accepted family QA through `qa/families/illiad-0085-0089.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0089.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0089.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0094.md`
+- `qa/chapter-0001.md` through `chapter-0094.md`
+- accepted family QA through `qa/families/ghosts-ancestors-0090-0094.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0094.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0094.json`
 
-Latest family QA: `qa/families/illiad-0085-0089.md` — **PASS**.
+Latest family QA: `qa/families/ghosts-ancestors-0090-0094.md` — **PASS**.
 
 ## Editorial quality bar
 

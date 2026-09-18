@@ -1,0 +1,41 @@
+{
+  "chapter": 93,
+  "title": "The Ghosts of the Ancestors (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Ghosts of the Ancestors",
+    "range": [
+      90,
+      94
+    ],
+    "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
+    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/093.txt",
+    "primary_source_sha": "7c4558df6c485c790389c25096cb5b1891b078bf",
+    "english_reference_path": "source/chapters/chapter-092.xhtml",
+    "english_reference_sha": "d51eb4d49a1518a366550ace45288393bcf06d73",
+    "draft_path": "manuscript/drafts/chapter-0093.md",
+    "draft_sha": "2a9c08ae740f6b5f6af2104ec87bf42c6d898ec5",
+    "qa_path": "qa/chapter-0093.md",
+    "qa_sha": "733f57f9d5dc3c8965b56f2b2dd5286881002a95",
+    "provenance_path": "editorial/provenance/chapter-0093.json",
+    "provenance_sha": "37a439acc19fb34165a5db383520b2c1d048df73"
+  },
+  "canonical_checks": [
+    "Akwilla",
+    "Aiyen",
+    "Divine Archer Adonai",
+    "Ah'Heman",
+    "Death Knight",
+    "Madam Eight-Legs"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "No target-95 Madam Eight-Legs aftermath is imported backward."
+  ]
+}

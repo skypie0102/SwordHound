@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-18",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 89,
+  "accepted_chapters": 94,
   "staged_chapters": 0,
-  "next_chapter": 90,
+  "next_chapter": 95,
   "latest_accepted_family": {
-    "name": "The Illiad",
-    "range": [
-      85,
-      89
-    ],
-    "family_qa": "qa/families/illiad-0085-0089.md"
-  },
-  "next_title_family": {
     "name": "The Ghosts of the Ancestors",
     "range": [
       90,
       94
     ],
-    "boundary_status": "verified five-part family from Chinese headings and shifted recovered-English sequence",
-    "following_family_starts": 95,
-    "following_title": "Madam Eight-Legs (1)",
-    "alignment_note": "90→E89,91→E90,92→E91,93→E92,94→E93;95→E94"
+    "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
+  },
+  "next_title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "boundary_status": "verified six-part family from Chinese headings and shifted recovered-English sequence",
+    "following_family_starts": 101,
+    "following_title": "Nostalgia (1)",
+    "alignment_note": "95→E94,96→E95,97→E96,98→E97,99→E98,100→E99;101→E100"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -151,18 +151,22 @@
     86,
     87,
     88,
-    89
+    89,
+    90,
+    91,
+    92,
+    93,
+    94
   ],
   "notes": [
-    "Chapters 85-89 are accepted as The Illiad (1)-(5).",
-    "Recovered-English lag remains stable: target85→E84 through target89→E88.",
-    "Target85 adds Silent Heel—Mushuhushu(A+) to Beelzebub and displaces Tough Life; active slots are Incinerate, Silent Heel, Kilogram Hammer.",
-    "Target85 keeps accepted Nation-Swallowing Snake alias while treating whole-body-intestine wording as descriptive variant; Ka'ah is an exceptional ~40m >5t individual.",
-    "Target86 explicitly confirms Ah'Heman knowingly collaborated with Leviathan, aided Bourgeois exploitation, and deliberately infected Aheul.",
-    "Target87 letters are forged by Vikir using handwriting imitation learned from Chihuahua; underlying collusion is independently real from target86.",
-    "Target88 establishes the Illiad as Ballak's life-and-death honor duel; Ah'Heman's youthful abuse history is kept non-graphic; Aiyen's brief kiss with Vikir is nonsexual.",
-    "Target89 Chinese spider/inner-thigh details override recovered-English corruption; corpse reanimation reveals Ah'Heman's Rokoko origin.",
-    "Next family is targets90-94 — The Ghosts of the Ancestors (1)-(5), mapped 90→E89 through 94→E93. Target95 begins Madam Eight-Legs (1) and maps to E94.",
+    "Chapters 90-94 are accepted as The Ghosts of the Ancestors (1)-(5).",
+    "Target90 ends with Ah'Heman directing forbidden Rokoko necromancy toward the Tomb of the Brave.",
+    "Target91 introduces ancestral Death Knights and source-reveals Divine Archer Adonai.",
+    "Target92 establishes Adonai as master/Bow Master class; his black bow is made from old Madam Eight-Legs material and carries poison.",
+    "Vikir remains High Sword Graduator; master-level solid aura overwhelms his liquid aura.",
+    "Target93 preserves Akwilla's deliberate storm-return arrow strategy and her refusal to equate defeating undead Adonai with surpassing his living prime.",
+    "Target94 uses the salt flood to purify the Death Knights, recovers Adonai's bow, and ends with Ah'Heman dying by the Thorn-Tree Punishment he devised.",
+    "Next family is targets95-100 — Madam Eight-Legs (1)-(6), mapped 95→E94 through 100→E99. Target101 begins Nostalgia (1) and maps to E100.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

@@ -9,6 +9,18 @@ This register follows the restarted 2026-09-16 workflow:
 
 “Accepted” means the term has passed the current Chinese-source + Fandom-canonical + title-family workflow for the stated scope. It does not authorize importing later revelations early.
 
+## The Ghosts of the Ancestors additions — Chapters 90–94
+
+- **The Ghosts of the Ancestors** — production family title for targets 90–94.
+- **Death Knight** — target-91 undead warrior class, Danger Rating A–S.
+- **Tomb of the Brave** — Ballak ancestral burial site.
+- **Divine Archer Adonai** — greatest recorded Ballak archer; master/Bow Master class.
+- **Adonai's black bow** — weapon made from old Madam Eight-Legs material; carries her poison.
+- **Akwilla wind-return shot** — target-93 technique using Adonai's storm to return apparent missed arrows from behind.
+- **Thorn-Tree Punishment** — target-94 callback: Ah'Heman dies through the punishment he devised.
+- **Madam Eight-Legs** — next family targets 95–100; witnesses E94–E99.
+- **Nostalgia** — begins target 101 / E100.
+
 ## The Illiad additions — Chapters 85–89
 
 - **The Illiad** — production family title and Ballak life-and-death honor duel used when an irreconcilable dispute must be settled by force.

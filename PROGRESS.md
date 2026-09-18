@@ -1,5 +1,28 @@
 # Reconstruction Progress
 
+## 2026-09-18 — The Ghosts of the Ancestors (1)–(5) accepted
+
+**Current state:** 94 / 500 accepted; 0 staged; next Chapter 95.
+
+Completed targets 90–94 with verified shifted mapping **90→E89 through 94→E93**.
+
+Key decisions:
+- used the old female Oxbear to complete Ah'Heman's Illiad defeat;
+- source-confirmed Ah'Heman's abandonment of Ballak identity and return to Rokoko forbidden necromancy;
+- introduced **Death Knights** from the **Tomb of the Brave**;
+- source-revealed **Divine Archer Adonai** as Ballak's greatest recorded archer;
+- kept Adonai at master/Bow Master level with solid aura exceeding Vikir's High Sword Graduator liquid aura;
+- preserved Adonai's black bow as old **Madam Eight-Legs** material carrying poison;
+- preserved Akwilla's storm-return arrow strategy and her refusal to claim superiority over prime living Adonai;
+- used the salt-heavy flood to purify the ancestral Death Knights;
+- recovered Adonai's black bow;
+- preserved Ah'Heman's explicit **Thorn-Tree Punishment** death without sexualization;
+- ended before the target-95 village-attack aftermath.
+
+Family QA: `qa/families/ghosts-ancestors-0090-0094.md` — **PASS**.
+
+Next family: **Madam Eight-Legs (1)–(6), targets 95–100**, mapped **95→E94 through 100→E99**. Target 101 begins **Nostalgia (1)** and maps to E100.
+
 ## 2026-09-18 — The Illiad (1)–(5) accepted
 
 **Current state:** 89 / 500 accepted; 0 staged; next Chapter 90.
