@@ -53,8 +53,6 @@ The accepted Admission to the Academy family adds/revalidates:
 - **Tudor Donquixote / Bianca Fo Usher / Sinclaire / Pigi / Sancho Barataria** — canonical Academy student register.
 - **Glorious Generation** — label for the unusually strong 20th class.
 - **Commoner Vikir cover** — Vikir temporarily omits Van Baskerville at Colosseo.
-- **The Freshman Talent Show** — next family targets 130–132; witnesses E129–E131.
-- **Test Your Skills** begins target 133 / E132.
 
 - **The Hunt for the Second Son** — accepted production family title for targets 120–125; witnesses E119–E124.
 - **Andromalius / Tenth Corpse** — source-revealed in target 121; Danger Level S+.
@@ -78,10 +76,10 @@ The accepted Admission to the Academy family adds/revalidates:
 Current accepted production evidence covers targets **1–132**:
 
 - `manuscript/drafts/chapter-0001.md` through `chapter-0132.md`
-- `qa/chapter-0001.md` through `chapter-0129.md`
-- accepted family QA through `qa/families/admission-academy-0126-0129.md`
+- `qa/chapter-0001.md` through `chapter-0132.md`
+- accepted family QA through `qa/families/freshman-talent-show-0130-0132.md`
 - `editorial/provenance/chapter-0001.json` through `chapter-0132.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0129.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0132.json`
 
 Latest family QA: `qa/families/freshman-talent-show-0130-0132.md` — **PASS**.
 
