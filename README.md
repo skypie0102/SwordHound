@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **151 / 500 accepted; next Chapter 152.** Latest accepted family: **targets 150–151 — Not Brother, But Uncle (1)–(2)**.
+Current checkpoint: **154 / 500 accepted; next Chapter 155.** Latest accepted family: **targets 152–154 — The Drinking Game (1)–(3)**.
 
-The next verified family is **The Drinking Game, targets 152–154**, mapped **152→E151, 153→E152, 154→E153**. Target 155 begins **How to Keep Your Night Shift Employees Safe (1)** and maps to E154.
+The next verified family is **How to Keep Your Night Shift Employees Safe, targets 155–157**, mapped **155→E154, 156→E155, 157→E156**. Target 158 begins **Familiar Face (1)** and maps to E157.
 
 ## Current source policy
 
@@ -37,6 +37,16 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Drinking Game family adds/revalidates:
+
+- **The Drinking Game** — accepted production family title for targets 152–154; witnesses E151–E153.
+- **Yut** — source game mechanics retained.
+- **Atari / speed Go / manpae bulcheong** — Go terminology corrected against recovered-English drift.
+- **Mad-dog Go style** — Vikir's wartime-derived destructive approach.
+- **Dolores accident** — source preserved without gratuitous/vulgar expansion; Vikir takes the blame.
+- **How to Keep Your Night Shift Employees Safe** — next family targets 155–157; witnesses E154–E156.
+- **Familiar Face** begins target 158 / E157.
 
 The accepted Not Brother, But Uncle family adds/revalidates:
 
@@ -126,15 +136,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–151**:
+Current accepted production evidence covers targets **1–154**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0151.md`
-- `qa/chapter-0001.md` through `chapter-0151.md`
-- accepted family QA through `qa/families/not-brother-0150-0151.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0151.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0151.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0154.md`
+- `qa/chapter-0001.md` through `chapter-0154.md`
+- accepted family QA through `qa/families/drinking-game-0152-0154.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0154.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0154.json`
 
-Latest family QA: `qa/families/not-brother-0150-0151.md` — **PASS**.
+Latest family QA: `qa/families/drinking-game-0152-0154.md` — **PASS**.
 
 ## Editorial quality bar
 
