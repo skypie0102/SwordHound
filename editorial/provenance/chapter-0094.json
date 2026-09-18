@@ -1,0 +1,71 @@
+{
+  "chapter": 94,
+  "title": "The Ghosts of the Ancestors (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "The Ghosts of the Ancestors",
+    "range": [
+      90,
+      94
+    ],
+    "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
+    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/094.txt",
+    "blob_sha": "6e135c81be871986ae3842c6d8e29346d662aff7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-093.xhtml",
+    "blob_sha": "30e1d5378a952bf88dd0c0ac5b11e56af8ba280f",
+    "target_alignment": 94,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/095.txt",
+    "chinese_sha": "891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc",
+    "english_path": "source/chapters/chapter-094.xhtml",
+    "english_sha": "88b0d59eb7cc73e684a1d56c7db610c53cd92413",
+    "purpose": "both begin Madam Eight-Legs (1) target95"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0094.md",
+    "blob_sha": "2842e8516e8acf6f8f75ad133fc04fa37fe2f8ac"
+  },
+  "qa": {
+    "path": "qa/chapter-0094.md",
+    "blob_sha": "0d229c65c5d1017619521420f7c50a11ad062c04",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "purification",
+      "final": "salt flood destroys/purifies Death Knights and prevents blood defilement",
+      "basis": "Chinese target94"
+    },
+    {
+      "topic": "bow_recovery",
+      "final": "Adonai's black bow survives and is recovered",
+      "basis": "Chinese target94"
+    },
+    {
+      "topic": "thorn_tree",
+      "final": "Ah'Heman dies through the Thorn-Tree Punishment he designed; callback kept explicit/nonsexual",
+      "basis": "Chinese target94"
+    },
+    {
+      "topic": "ahun",
+      "final": "Ahun chooses to end Ah'Heman's suffering",
+      "basis": "Chinese target94"
+    },
+    {
+      "topic": "boundary",
+      "final": "chapter ends before Madam Eight-Legs village-attack aftermath",
+      "basis": "family boundary"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
