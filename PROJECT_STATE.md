@@ -2,39 +2,40 @@
 
 **Checkpoint:** 2026-09-18  
 **Target edition:** 500 chapters  
-**Accepted:** 116  
+**Accepted:** 119  
 **Staged:** 0  
-**Next chapter:** 117
+**Next chapter:** 120
 
 ## Current accepted checkpoint
 
-Thirty complete title families have passed the restarted workflow, through:
+The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 105–109 — *The Returned Hero (1)–(5)*
 - Chapters 110–116 — *The Great Banquet (1)–(7)*
+- Chapters 117–119 — *Falling in Love (1)–(3)*
 
-Latest family QA: `qa/families/great-banquet-0110-0116.md` — **PASS**.
+Latest family QA: `qa/families/falling-in-love-0117-0119.md` — **PASS**.
 
-## The Great Banquet family decisions
+## Falling in Love family decisions
 
-- Verified mapping: **110→E109 through 116→E115**.
-- Target 110 corrects recovered-English chronology: Hugo earned the **Sword Star** name / Marquis title around age **40**, roughly ten years before the chapter.
-- Target 111 Chinese controls **Lady Roxana's death as illness**, not battle, and reaffirms **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville**.
-- Boston Terrier and Great Dane are the two Seven Counts able to return for the banquet; all seven wanted to attend because of Vikir.
-- Pit Bull Knights remain 100-Sword-Graduator extermination specialists; Mastiff Knights remain 100-Sword-Graduator formal-war specialists.
-- Vikir publicly demonstrates **Intermediate Sword Graduator** at seventeen while concealing **Peak Sword Graduator** strength.
-- Osiris is re-read through Vikir's second-life perspective as cold and awkward rather than purely cruel.
-- Targets 114–116 establish that Seth is suspected nonhuman, then source-reveal demonic scent/reflection evidence, missing-child links, and old conspiracies. Later demon identity remains spoiler-guarded.
-- Vikir only considers the possibility that Hugo may have been deceived before regression; Hugo is **not** absolved.
-- Target 116 preserves the project rule **Fangs, not Forms**: current Seven Counts are Sixth-Fang-level Peak Sword Graduators while Vikir possesses the Seventh Fang.
-- E115's unsupported “Yuasa Castle” is rejected.
-- Family ends on Highbro / Middlebro / Lowbro offering Vikir the formal imperial knight's oath.
+- Verified mapping: **117→E116, 118→E117, 119→E118**.
+- Target 117 preserves the Colosseo Academy notice, Vikir's source-faithful **“I'll go”** acceptance, and his choice of Highbro / Middlebro / Lowbro.
+- The triplets' oath continues the target-116 boundary: they surrender their lives to Vikir as their chosen master and reaffirm themselves as the **Baskerville Trident**.
+- The triplets know Vikir had already reached **Intermediate Sword Graduator** two years earlier and keep his hidden growth secret.
+- Vikir's Academy objectives remain twofold: escape Hugo's close observation to build strength and work through his pre-regression blacklist.
+- Raw-layer family-name drift is normalized to established **Lady Roxana → Penelope La Baskerville → Pomeranian La Baskerville** continuity.
+- Target 118 reaffirms that Roxana died of illness shortly after Penelope's birth and that Penelope's Rokoko abduction drove Hugo's move to the frontier and the later growth of the Ironblood Sword House.
+- Hugo recognizes his handmade pendant and Vikir reveals that Penelope left behind a daughter.
+- Target 119 confirms Pomeranian's lineage through inherited traits, Rokoko provenance, the pendant, and her memories of Penelope.
+- Pomeranian's account of the monster blocking Penelope's return is normalized to accepted **Madam Eight-Legs** continuity; Vikir states that he killed it.
+- Hugo openly thanks Vikir and bows; Osiris learns that he need not suppress every trace of warmth, without rewriting his broader personality.
+- The family ends with Vikir asking to borrow **all seven Baskerville Knight Orders for half a day** to hunt a dangerous monster hiding inside Baskerville.
+- No target-120 Seth cave, demon dialogue, child-murder, gate-plan, or combat material is imported backward.
 
 ## Next verified title family
 
-- **Targets 117–119 — Falling in Love (1)–(3)**
-- Verified mapping: **117→E116, 118→E117, 119→E118**
-- Target 120 begins **The Hunt for the Second Son (1)** and aligns to **E119**.
+- **Targets 120–125 — The Hunt for the Second Son (1)–(6)**
+- Verified mapping: **120→E119, 121→E120, 122→E121, 123→E122, 124→E123, 125→E124**
+- Target 126 begins **Admission to the Academy (1)** and aligns to **E125**.
 
 ## Source authority
 
@@ -57,4 +58,4 @@ Corpus constants:
 
 ## Immediate next action
 
-Merge the clean **The Great Banquet, targets 110–116** checkpoint, then branch from merged main for **Falling in Love, targets 117–119**. Read C117–119 + E116–118 completely with C120/E119 as the boundary, reconstruct and QA all three chapters, then continue into **The Hunt for the Second Son**.
+Merge the clean **Falling in Love, targets 117–119** checkpoint, then branch from merged main for **The Hunt for the Second Son, targets 120–125**. Read C120–125 against E119–124 completely with C126/E125 as the boundary, reconstruct and QA the six-chapter family, then continue into **Admission to the Academy**.
