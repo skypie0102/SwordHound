@@ -1,0 +1,66 @@
+{
+  "chapter": 95,
+  "title": "Madam Eight-Legs (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "title_family": {
+    "name": "Madam Eight-Legs",
+    "range": [
+      95,
+      100
+    ],
+    "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
+    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/095.txt",
+    "blob_sha": "891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-094.xhtml",
+    "blob_sha": "88b0d59eb7cc73e684a1d56c7db610c53cd92413",
+    "target_alignment": 95,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/101.txt",
+    "chinese_sha": "efce896878033b37c07d419a5533ea538fa601bf",
+    "english_path": "source/chapters/chapter-100.xhtml",
+    "english_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
+    "purpose": "both begin Nostalgia (1) target101"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0095.md",
+    "blob_sha": "2265a9734052560a06644e5825ae994b9e17c74e"
+  },
+  "qa": {
+    "path": "qa/chapter-0095.md",
+    "blob_sha": "3bf019226172a88cd26ea65a645bae295f5ebb28",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "village_attack",
+      "final": "Ah'Heman's delayed lure directly triggers Madam attack",
+      "basis": "Chinese target95"
+    },
+    {
+      "topic": "broader_cause",
+      "final": "Baskerville monster suppression reduced prey and expanded Madam range",
+      "basis": "Chinese target95"
+    },
+    {
+      "topic": "responsibility",
+      "final": "Vikir privately recognizes his prior policy contribution",
+      "basis": "Chinese target95"
+    },
+    {
+      "topic": "endpoint",
+      "final": "Vikir decides to confront Madam",
+      "basis": "Chinese target95"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-18"
+}
