@@ -1,0 +1,39 @@
+{
+  "chapter": 105,
+  "title": "The Returned Hero (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-18",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Returned Hero",
+    "range": [
+      105,
+      109
+    ],
+    "family_qa_path": "qa/families/returned-hero-0105-0109.md",
+    "family_qa_sha": "2e867b28aecbc8a79d40469286bcfec5cf4a27e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/105.txt",
+    "primary_source_sha": "6154ca5fc0ee9cc3d67f0c1c6ca00b62b9493dab",
+    "english_reference_path": "source/chapters/chapter-104.xhtml",
+    "english_reference_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
+    "draft_path": "manuscript/drafts/chapter-0105.md",
+    "draft_sha": "d6595091591e73bc14d2f67c134e8b16335f82ee",
+    "qa_path": "qa/chapter-0105.md",
+    "qa_sha": "dd8d9d8e631b06e8161679c7b9a57997a10d5061",
+    "provenance_path": "editorial/provenance/chapter-0105.json",
+    "provenance_sha": "f8c9aa9a12be3f7b2ee76becc3a0cfcc24d3b24a"
+  },
+  "canonical_checks": [
+    "Red Salt Castle",
+    "Morgue",
+    "Adolf Morgue",
+    "Vikir Van Baskerville"
+  ],
+  "documented_limits": [
+    "Recovered-English numbering lags target by one chapter.",
+    "Guard hero stories are intentionally exaggerated and are not treated as objective history."
+  ]
+}
