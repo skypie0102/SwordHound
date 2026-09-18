@@ -126,7 +126,7 @@ People who survived enough danger often looked for something spiritual to lean o
 
 Ah'Heman understood that better than anyone.
 
-*So Ahun is that old man's son.*
+*So Ahun is that old man's grandson.*
 
 The family resemblance was faint but visible.
 
