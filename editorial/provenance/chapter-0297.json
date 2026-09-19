@@ -1,0 +1,37 @@
+{
+  "chapter": 297,
+  "title": "Last Semester (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Last Semester",
+    "range": [
+      296,
+      298
+    ],
+    "family_qa_path": "qa/families/last-semester-0296-0298.md",
+    "family_qa_sha": "277c7c4b012affc3fbc57b40a87d996fc3f0a1f8",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/297.txt",
+    "blob_sha": "79bb1d1b8d01db1665ce8dab715c25b6c12d2e9c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-295.xhtml",
+    "blob_sha": "0385315d07e4bc92eacd00945e2879c85f32c1c8",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0297.md",
+    "blob_sha": "9c077acfe5154f4d50e6db48516e3183f0897943"
+  },
+  "qa": {
+    "path": "qa/chapter-0297.md",
+    "blob_sha": "8b9eedca98f1952c615addeeab8b3e0111be391d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

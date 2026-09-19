@@ -1,0 +1,38 @@
+{
+  "chapter": 296,
+  "title": "Last Semester (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Last Semester",
+    "range": [
+      296,
+      298
+    ],
+    "family_qa_path": "qa/families/last-semester-0296-0298.md",
+    "family_qa_sha": "277c7c4b012affc3fbc57b40a87d996fc3f0a1f8",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/296.txt",
+    "blob_sha": "fbf37363eecb75a888b52f287e0e7dd6b4de8831",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-294.xhtml",
+    "blob_sha": "f7489b5058fbf6986d891aa94d0e38c8d77ed4fa",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0296.md",
+    "blob_sha": "6ae81414b88b49398e7868190d22892ad3c92d58"
+  },
+  "qa": {
+    "path": "qa/chapter-0296.md",
+    "blob_sha": "a9fd75256a7844604b4968301cd0a81ac3a838ed",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guard": "Winston/Sadi/Forty-Seven People Riot connection remains unexplained; no culprit identity inferred."
+}

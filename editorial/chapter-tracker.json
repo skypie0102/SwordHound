@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 295,
+  "accepted_count": 298,
   "staged_count": 0,
-  "next_chapter": 296,
+  "next_chapter": 299,
   "active_title_family": {
-    "name": "Last Semester",
+    "name": "The Age of the Warmonger",
     "range": [
-      296,
-      298
+      299,
+      306
     ],
-    "boundary_status": "verified complete: target296→E294 through target298→E296",
-    "following_family_starts": 299,
-    "following_title": "The Prison of Nouvelle Vague (1)",
-    "alignment_note": "296→E294 Last Semester (1), 297→E295 Last Semester (2), 298→E296 Last Semester (3); 299→E297 begins The Prison of Nouvelle Vague (1)."
+    "boundary_status": "verified complete: target299→E297 through target306→E304",
+    "following_family_starts": 307,
+    "following_title": "Hell Tree (1)",
+    "alignment_note": "299→E297 through 306→E304; target307→E305 begins Hell Tree (1), continuing through target313→E311."
   },
   "chapters": [
     {
@@ -4145,6 +4145,48 @@
       "acceptance": "qa/acceptance/chapter-0295.json",
       "acceptance_sha": "08a66b47addffaa4f2c6d9a52fdd5bf034da0059",
       "family_qa": "qa/families/confessions-0293-0295.md"
+    },
+    {
+      "chapter": 296,
+      "title": "Last Semester (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/296.txt",
+      "english_mtl_reference": "source/chapters/chapter-294.xhtml",
+      "draft": "manuscript/drafts/chapter-0296.md",
+      "qa": "qa/chapter-0296.md",
+      "provenance": "editorial/provenance/chapter-0296.json",
+      "acceptance": "qa/acceptance/chapter-0296.json",
+      "acceptance_sha": "34b639124cd6db1ac79be8eb8ae4c2e7114f833a",
+      "family_qa": "qa/families/last-semester-0296-0298.md"
+    },
+    {
+      "chapter": 297,
+      "title": "Last Semester (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/297.txt",
+      "english_mtl_reference": "source/chapters/chapter-295.xhtml",
+      "draft": "manuscript/drafts/chapter-0297.md",
+      "qa": "qa/chapter-0297.md",
+      "provenance": "editorial/provenance/chapter-0297.json",
+      "acceptance": "qa/acceptance/chapter-0297.json",
+      "acceptance_sha": "2d696c291c6e30fbfefe4cfe8ba5d7940f5a8f10",
+      "family_qa": "qa/families/last-semester-0296-0298.md"
+    },
+    {
+      "chapter": 298,
+      "title": "Last Semester (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/298.txt",
+      "english_mtl_reference": "source/chapters/chapter-296.xhtml",
+      "draft": "manuscript/drafts/chapter-0298.md",
+      "qa": "qa/chapter-0298.md",
+      "provenance": "editorial/provenance/chapter-0298.json",
+      "acceptance": "qa/acceptance/chapter-0298.json",
+      "acceptance_sha": "687bb62332e14099d5a4d19317006f72609a63fc",
+      "family_qa": "qa/families/last-semester-0296-0298.md"
     }
   ]
 }

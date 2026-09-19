@@ -1,0 +1,38 @@
+{
+  "chapter": 298,
+  "title": "Last Semester (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Last Semester",
+    "range": [
+      296,
+      298
+    ],
+    "family_qa_path": "qa/families/last-semester-0296-0298.md",
+    "family_qa_sha": "277c7c4b012affc3fbc57b40a87d996fc3f0a1f8",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/298.txt",
+    "blob_sha": "c67983a393e4854c00a057ba6310d6a0ae1dae43",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-296.xhtml",
+    "blob_sha": "ba853acea8014632f0fd011c2e675854aaadc28e",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0298.md",
+    "blob_sha": "493e88d6897a8da1a530958bdd5304ac05087dba"
+  },
+  "qa": {
+    "path": "qa/chapter-0298.md",
+    "blob_sha": "2663dcc95d93ab31a355c59aedcc856c7aa24acf",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guard": "New campus stones carry faint demonic scent, but Winston is not declared a demon at this point."
+}

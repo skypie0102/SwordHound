@@ -1,3 +1,17 @@
+## Last Semester additions — Chapters 296–298
+
+- **Last Semester** — accepted three-part family, targets296–298 / witnesses E294–E296.
+- **Forty-Seven People Riot / Forty-Seven Families Riot** — 35-year-old coup led by 47 family heads; 46 executed, one survivor imprisoned in Nouvelle Vague; motive unresolved.
+- **Winston security expansion** — alternating old/new magic stones plus handmade bracelet keys; suspicious but not yet an identity reveal.
+- **Banshee / Sadi link** — Banshee’s investigator says Winston’s protection of Professor Sadi may relate to the Forty-Seven People Riot.
+- **Nabokov I Quovadis** — Pope/head of Quovadis and oldest surviving classical Saintess; survives beyond Vikir’s remembered future because Humbert is missing.
+- **Nabokov cracked-ladle parable** — preserve without forcing a single interpretation.
+- **Saintess resonance / soulmate concept** — Dolores’s sacred-system interpretation tied to emotional understanding and the “Van” name fragment; not reciprocal romance proof.
+- **Campus demonic-scent clue** — target298: newly installed magic stones carry a very faint demonic scent detectable by Night Hound.
+- **The Age of the Warmonger** — corrected next family targets299–306 / E297–E304.
+- **Hell Tree** — follows targets307–313 / E305–E311.
+- **Surplus Man** — follows targets314–315 / E312–E313.
+
 ## Confessions additions — Chapters 293–295
 
 - **Confessions** — accepted three-part family, targets293–295 / witnesses E291–E293.

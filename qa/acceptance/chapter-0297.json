@@ -1,0 +1,33 @@
+{
+  "chapter": 297,
+  "title": "Last Semester (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Last Semester",
+    "range": [
+      296,
+      298
+    ],
+    "family_qa_path": "qa/families/last-semester-0296-0298.md",
+    "family_qa_sha": "277c7c4b012affc3fbc57b40a87d996fc3f0a1f8",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/297.txt",
+    "primary_source_sha": "79bb1d1b8d01db1665ce8dab715c25b6c12d2e9c",
+    "english_reference_path": "source/chapters/chapter-295.xhtml",
+    "english_reference_sha": "0385315d07e4bc92eacd00945e2879c85f32c1c8",
+    "draft_path": "manuscript/drafts/chapter-0297.md",
+    "draft_sha": "9c077acfe5154f4d50e6db48516e3183f0897943",
+    "qa_path": "qa/chapter-0297.md",
+    "qa_sha": "8b9eedca98f1952c615addeeab8b3e0111be391d",
+    "provenance_path": "editorial/provenance/chapter-0297.json",
+    "provenance_sha": "724629e15c8986cd0000d180eb721d4945624565"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No The Prison of Nouvelle Vague material from target299 is imported."
+  ]
+}

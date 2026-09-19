@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Last Semester (1)–(3) accepted
+
+**Current state:** 298 / 500 accepted; 0 staged; next Chapter 299.
+
+Completed targets **296–298** with mapping **E294–E296**.
+
+Key decisions: Winston’s greening/security expansion remains setup only; Banshee links Sadi protection to the Forty-Seven People Riot without explaining the link; Nabokov I Quovadis survives beyond Vikir’s remembered future; and Vikir detects a faint demonic scent in the newly installed campus magic stones.
+
+Family QA: `qa/families/last-semester-0296-0298.md` — **PASS**.
+
+Corrected next family: **299–306 — The Age of the Warmonger (1)–(8)**, mapping **E297–E304**. Hell Tree follows targets307–313 / E305–E311.
+
 ## 2026-09-19 — Confessions (1)–(3) accepted
 
 **Current state:** 295 / 500 accepted; 0 staged; next Chapter 296.

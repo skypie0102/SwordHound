@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 295,
+  "accepted_chapters": 298,
   "staged_chapters": 0,
-  "next_chapter": 296,
+  "next_chapter": 299,
   "latest_accepted_family": {
-    "name": "Confessions",
-    "range": [
-      293,
-      295
-    ],
-    "family_qa": "qa/families/confessions-0293-0295.md"
-  },
-  "next_title_family": {
     "name": "Last Semester",
     "range": [
       296,
       298
     ],
+    "family_qa": "qa/families/last-semester-0296-0298.md"
+  },
+  "next_title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 299,
-    "following_title": "The Prison of Nouvelle Vague (1)",
-    "alignment_note": "296→E294 through 298→E296; target299→E297 begins The Prison of Nouvelle Vague (1)."
+    "following_family_starts": 307,
+    "following_title": "Hell Tree (1)",
+    "alignment_note": "299→E297 through 306→E304; Hell Tree targets307-313 / E305-E311."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -357,9 +357,20 @@
     292,
     293,
     294,
-    295
+    295,
+    296,
+    297,
+    298
   ],
   "notes": [
+    "Chapters296-298 accepted as Last Semester (1)-(3), mapping E294-E296.",
+    "Banshee's serpent/unicorn nightmare remains symbolic setup only.",
+    "Winston's campus changes combine massive greening with alternating old/new magic-stone security and handmade bracelet keys.",
+    "Banshee links Winston's protection of Sadi to the Forty-Seven People Riot, but the reason remains unrevealed.",
+    "Forty-Seven People/Families Riot occurred 35 years ago; 46 leaders were executed and one survivor remains in Nouvelle Vague.",
+    "Nabokov I Quovadis survives beyond Vikir's remembered future because Humbert is missing.",
+    "Vikir detects faint demonic scent in the new campus magic stones but Winston is not declared a demon.",
+    "Corrected next family label: The Age of the Warmonger targets299-306 / E297-E304; Hell Tree follows targets307-313 / E305-E311.",
     "Chapters293-295 accepted as Confessions (1)-(3), mapping E291-E293.",
     "Reader knowledge and Vikir knowledge remain separated: Vikir only infers Sinclaire's Bourgeois identity in target294 from her father statement.",
     "Sinclaire's core distress is the Bourgeois incident and collapse of trust, not ordinary burnout.",
