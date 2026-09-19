@@ -25,11 +25,19 @@
 
 ## Next verified family
 
-**Jailbreaker (1)–(4)** — targets **403–406 / E401–E404**.
+**Jailbreaker (1)–(6)** — targets **403–408 / E401–E406**.
+
+## Corrected next verified family
+
+**Jailbreaker (1)–(6)** — targets **403–408 / E401–E406**.
+
+The previous 403–406 boundary was incomplete. Chinese headings continue *Jailbreaker* through target408, and aligned English titles continue through E406.
+
+Following family: **End game (1)–(10)** — targets **409–418 / E407–E416**.
 
 ## Exact next actions
 
-1. Read C403–C406 completely against E401–E404.
-2. Determine target407+ family boundary before acceptance.
-3. Reconstruct/QA/accept Jailbreaker as one family.
-4. Merge and immediately continue.
+1. Read C403–C408 completely against E401–E406.
+2. Reconstruct/QA/accept Jailbreaker as one six-part family.
+3. Merge it.
+4. Immediately continue into End game (1)–(10), targets409–418 / E407–E416.
