@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Mating Room (1)–(6) accepted
+
+**Current state:** 338 / 500 accepted; 0 staged; next Chapter 339.
+
+Completed targets **333–338** with mapping **E331–E336**. The earlier 333–336 boundary was incomplete and was corrected before acceptance.
+
+Key decisions: Dragon Majin laboratory coercion remains non-eroticized; Giant Mantis identity overrides local “toad” extraction slips; Sinclaire’s Magic Train group history and Return Scroll logic are preserved; Beelzebub regeneration remains **Immortality — Gargoyle (S)** over local Basilisk drift; and Vikir reveals Night Hound identity to Sinclaire only at target337.
+
+Family QA: `qa/families/mating-room-0333-0338.md` — **PASS**.
+
+Next verified family: **339–340 — Trap (1)–(2)**, mapping **E337–E338**. Private Life follows targets341–342 / E339–E340.
+
 ## 2026-09-19 — Draw (1)–(2) accepted
 
 **Current state:** 332 / 500 accepted; 0 staged; next Chapter 333.

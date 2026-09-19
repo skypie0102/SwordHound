@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 332,
+  "accepted_count": 338,
   "staged_count": 0,
-  "next_chapter": 333,
+  "next_chapter": 339,
   "active_title_family": {
-    "name": "The Mating Room",
+    "name": "Trap",
     "range": [
-      333,
-      336
+      339,
+      340
     ],
-    "boundary_status": "verified complete: target333→E331 through target336→E334",
-    "following_family_starts": 337,
-    "following_title": null,
-    "alignment_note": "333→E331 through 336→E334; determine the next complete family boundary from target337 before accepting further work."
+    "boundary_status": "verified complete: target339→E337 through target340→E338",
+    "following_family_starts": 341,
+    "following_title": "Private Life (1)",
+    "alignment_note": "339→E337 Trap (1), 340→E338 Trap (2); 341→E339 begins Private Life (1), continuing through target342→E340."
   },
   "chapters": [
     {
@@ -4663,6 +4663,90 @@
       "acceptance": "qa/acceptance/chapter-0332.json",
       "acceptance_sha": "073b08a3c21ab19a2dde40518d018e12c68da765",
       "family_qa": "qa/families/draw-0331-0332.md"
+    },
+    {
+      "chapter": 333,
+      "title": "The Mating Room (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/333.txt",
+      "english_mtl_reference": "source/chapters/chapter-331.xhtml",
+      "draft": "manuscript/drafts/chapter-0333.md",
+      "qa": "qa/chapter-0333.md",
+      "provenance": "editorial/provenance/chapter-0333.json",
+      "acceptance": "qa/acceptance/chapter-0333.json",
+      "acceptance_sha": "06bc1dda2a307a793e24f8c9276c3baf8dc1af24",
+      "family_qa": "qa/families/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 334,
+      "title": "The Mating Room (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/334.txt",
+      "english_mtl_reference": "source/chapters/chapter-332.xhtml",
+      "draft": "manuscript/drafts/chapter-0334.md",
+      "qa": "qa/chapter-0334.md",
+      "provenance": "editorial/provenance/chapter-0334.json",
+      "acceptance": "qa/acceptance/chapter-0334.json",
+      "acceptance_sha": "72b5318211e88a4bc014a8c12882145dad161fb5",
+      "family_qa": "qa/families/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 335,
+      "title": "The Mating Room (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/335.txt",
+      "english_mtl_reference": "source/chapters/chapter-333.xhtml",
+      "draft": "manuscript/drafts/chapter-0335.md",
+      "qa": "qa/chapter-0335.md",
+      "provenance": "editorial/provenance/chapter-0335.json",
+      "acceptance": "qa/acceptance/chapter-0335.json",
+      "acceptance_sha": "2cae5c190ac989ce3195e5665636c44777fc7db3",
+      "family_qa": "qa/families/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 336,
+      "title": "The Mating Room (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/336.txt",
+      "english_mtl_reference": "source/chapters/chapter-334.xhtml",
+      "draft": "manuscript/drafts/chapter-0336.md",
+      "qa": "qa/chapter-0336.md",
+      "provenance": "editorial/provenance/chapter-0336.json",
+      "acceptance": "qa/acceptance/chapter-0336.json",
+      "acceptance_sha": "9cabee252708ee8c10b5d679c5e51a76a084a700",
+      "family_qa": "qa/families/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 337,
+      "title": "The Mating Room (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/337.txt",
+      "english_mtl_reference": "source/chapters/chapter-335.xhtml",
+      "draft": "manuscript/drafts/chapter-0337.md",
+      "qa": "qa/chapter-0337.md",
+      "provenance": "editorial/provenance/chapter-0337.json",
+      "acceptance": "qa/acceptance/chapter-0337.json",
+      "acceptance_sha": "cf986d5a525ac9c96c3e7c49047100b95465abb5",
+      "family_qa": "qa/families/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 338,
+      "title": "The Mating Room (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/338.txt",
+      "english_mtl_reference": "source/chapters/chapter-336.xhtml",
+      "draft": "manuscript/drafts/chapter-0338.md",
+      "qa": "qa/chapter-0338.md",
+      "provenance": "editorial/provenance/chapter-0338.json",
+      "acceptance": "qa/acceptance/chapter-0338.json",
+      "acceptance_sha": "97097a76b7437af62120e032fa7e846a0fb36a3d",
+      "family_qa": "qa/families/mating-room-0333-0338.md"
     }
   ]
 }

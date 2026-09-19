@@ -1,3 +1,18 @@
+## The Mating Room additions — Chapters 333–338
+
+- **The Mating Room** — accepted six-part family, targets333–338 / witnesses E331–E336. Prior 333–336 boundary was incomplete.
+- **Dragon Majin’s Laboratory** — Basement Floor9 instance for Vikir; specimen-breeding laboratory with multiple enclosure types.
+- **Mating-room progression** — environmental pressure → blue physiological breeding mist → direct external restraint; preserve as coercive laboratory mechanics, not romance.
+- **Giant Mantis** — A-rank, 8–16 m, Fourth Ridge. Local post-window “toad” slips are extraction drift.
+- **Sinclaire Magic Train mission** — Tudor / Sancho / Pigi / Bianca / Sinclaire survive together; the other four choose Sinclaire as the one to continue.
+- **Return Scroll** — return to Tutorial; Level reset, accumulated stats retained.
+- **Vikir target337 tower stats** — Strength300 / Agility300 / Stamina300; Physical Resistance1 / Magic Resistance1 / Reflexes1.
+- **Beelzebub regeneration continuity** — retain Slot2 **Immortality — Gargoyle (S)**; reject local Basilisk drift in targets337–338.
+- **Night Hound reveal to Sinclaire** — explicit only at target337: “I am Night Hound.”
+- **Lost Paradise** — source-local aligned-witness form for Basement Floor10 destination; direct Fandom confirmation unavailable.
+- **Trap** — next family targets339–340 / E337–E338.
+- **Private Life** — follows targets341–342 / E339–E340.
+
 ## Draw additions — Chapters 331–332
 
 - **Draw** — accepted two-part family, targets331–332 / witnesses E329–E330.

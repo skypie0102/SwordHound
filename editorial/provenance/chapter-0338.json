@@ -1,0 +1,41 @@
+{
+  "chapter": 338,
+  "title": "The Mating Room (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Mating Room",
+    "range": [
+      333,
+      338
+    ],
+    "family_qa_path": "qa/families/mating-room-0333-0338.md",
+    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/338.txt",
+    "blob_sha": "3d66fd957f85a924c748bfba90500637e809f89c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-336.xhtml",
+    "blob_sha": "092580cebd87dacb818b94da1aedcc4009ac504d",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0338.md",
+    "blob_sha": "ab34cc44a462bc45ab9252568c13a7b582d96a97"
+  },
+  "qa": {
+    "path": "qa/chapter-0338.md",
+    "blob_sha": "bcf7e601e05ca674760e79b973a01f79bd3988c7",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Local/raw Basilisk regeneration drift rejected; established Beelzebub Slot2 Immortality — Gargoyle (S) retained."
+  ],
+  "boundary_guard": "Chapter ends with Sinclaire transferred through the Floor10 gate while the Dragon Majin fist crushes Vikir's position; next family resolves the immediate aftermath."
+}

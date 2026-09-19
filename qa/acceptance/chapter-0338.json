@@ -1,0 +1,36 @@
+{
+  "chapter": 338,
+  "title": "The Mating Room (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Mating Room",
+    "range": [
+      333,
+      338
+    ],
+    "family_qa_path": "qa/families/mating-room-0333-0338.md",
+    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/338.txt",
+    "primary_source_sha": "3d66fd957f85a924c748bfba90500637e809f89c",
+    "english_reference_path": "source/chapters/chapter-336.xhtml",
+    "english_reference_sha": "092580cebd87dacb818b94da1aedcc4009ac504d",
+    "draft_path": "manuscript/drafts/chapter-0338.md",
+    "draft_sha": "ab34cc44a462bc45ab9252568c13a7b582d96a97",
+    "qa_path": "qa/chapter-0338.md",
+    "qa_sha": "bcf7e601e05ca674760e79b973a01f79bd3988c7",
+    "provenance_path": "editorial/provenance/chapter-0338.json",
+    "provenance_sha": "03f0c521f966411d91a27503da6767ba76d9663b"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Trap-family material from target339 is imported."
+  ],
+  "corrections": [
+    "Regeneration remains Beelzebub Slot2 Immortality — Gargoyle (S); local Basilisk drift rejected."
+  ]
+}
