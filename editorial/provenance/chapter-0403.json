@@ -1,0 +1,37 @@
+{
+  "chapter": 403,
+  "title": "Jailbreaker (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/403.txt",
+    "blob_sha": "ca5086880b037007a61d7ca70286db20fdb6fe3d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-401.xhtml",
+    "blob_sha": "0eb66c8a110fddde4e720bc45ef7d1038cb02a3b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0403.md",
+    "blob_sha": "bf14e3123c20f61eb3a4f499ebb7bd5aecf26aab"
+  },
+  "qa": {
+    "path": "qa/chapter-0403.md",
+    "blob_sha": "61f00f741f3d781a6fbb3857fcdab03ccb77c0d4",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were explicitly marked unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}

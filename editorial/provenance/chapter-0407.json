@@ -1,0 +1,41 @@
+{
+  "chapter": 407,
+  "title": "Jailbreaker (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/407.txt",
+    "blob_sha": "fb03399738a6679c8d5bbecba55abb62a8ed5041",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-405.xhtml",
+    "blob_sha": "e8d70eaaaad15ff3b0914d1ab6862a577884f95d",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0407.md",
+    "blob_sha": "cdacfd39517afe2dc2f0949ea222a3735fb37270"
+  },
+  "qa": {
+    "path": "qa/chapter-0407.md",
+    "blob_sha": "09e37f46dfe49c25d84f1d6583d4f37429c131c4",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were explicitly marked unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "key_reveals": [
+    "Asmodeus returns in living form after consuming Black Tongue and is shattered into nine fragments.",
+    "Doppelganger-leech eggs are secured in Andromalius's barrier."
+  ]
+}
