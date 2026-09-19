@@ -1,0 +1,35 @@
+{
+  "chapter": 340,
+  "title": "Trap (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Trap",
+    "range": [
+      339,
+      340
+    ],
+    "family_qa_path": "qa/families/trap-0339-0340.md",
+    "family_qa_sha": "2e975d71a8a9f2f4ca5eb694d9dd8beef90a29eb",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/340.txt",
+    "primary_source_sha": "b4cafb661729e07284366ea5867f2f05b89dd244",
+    "english_reference_path": "source/chapters/chapter-338.xhtml",
+    "english_reference_sha": "b629f8d5732701bcea53e854f58bfb977f71a45a",
+    "draft_path": "manuscript/drafts/chapter-0340.md",
+    "draft_sha": "0816e966517c2b4c13fa5692889b238ddc901959",
+    "qa_path": "qa/chapter-0340.md",
+    "qa_sha": "31388e51d9d5a621f607c912e459ef8e0ade7b37",
+    "provenance_path": "editorial/provenance/chapter-0340.json",
+    "provenance_sha": "af6b2850770566790588dfe127bfc5e75cd07dff"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Private Life material from target341 is imported."
+  ],
+  "interpretation_guard": "Fake-letter authorship/reading mechanism remains Vikir's inference from the impossible Janet reply.",
+  "reveal_guard": "Dolores's Choco perception is unresolved until the following family."
+}
