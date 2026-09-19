@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — My Neck Will Be Your Sheath acceptance checkpoint
 - **Working branch:** `editorial/restart-my-neck-sheath-0216-0219`
 - **Base main checkpoint:** current merged Festival Night checkpoint
-- **Current PR:** not yet opened
+- **Current PR:** #60 — `Rebuild My Neck Will Be Your Sheath Chapters 216–219`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
