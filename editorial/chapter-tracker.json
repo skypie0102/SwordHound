@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 292,
+  "accepted_count": 295,
   "staged_count": 0,
-  "next_chapter": 293,
+  "next_chapter": 296,
   "active_title_family": {
-    "name": "Confessions",
+    "name": "Last Semester",
     "range": [
-      293,
-      295
+      296,
+      298
     ],
-    "boundary_status": "verified complete: target293→E291 through target295→E293",
-    "following_family_starts": 296,
-    "following_title": "Last Semester (1)",
-    "alignment_note": "293→E291 Confessions (1), 294→E292 Confessions (2), 295→E293 Confession (3); 296→E294 begins Last Semester (1) through target298→E296."
+    "boundary_status": "verified complete: target296→E294 through target298→E296",
+    "following_family_starts": 299,
+    "following_title": "The Prison of Nouvelle Vague (1)",
+    "alignment_note": "296→E294 Last Semester (1), 297→E295 Last Semester (2), 298→E296 Last Semester (3); 299→E297 begins The Prison of Nouvelle Vague (1)."
   },
   "chapters": [
     {
@@ -4103,6 +4103,48 @@
       "acceptance": "qa/acceptance/chapter-0292.json",
       "acceptance_sha": "fb3c4e4cbb2dae59684a1bd750275d572c9f910e",
       "family_qa": "qa/families/successors-0291-0292.md"
+    },
+    {
+      "chapter": 293,
+      "title": "Confessions (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/293.txt",
+      "english_mtl_reference": "source/chapters/chapter-291.xhtml",
+      "draft": "manuscript/drafts/chapter-0293.md",
+      "qa": "qa/chapter-0293.md",
+      "provenance": "editorial/provenance/chapter-0293.json",
+      "acceptance": "qa/acceptance/chapter-0293.json",
+      "acceptance_sha": "e1cb28ffaf7182f60477a206e1297984a8604821",
+      "family_qa": "qa/families/confessions-0293-0295.md"
+    },
+    {
+      "chapter": 294,
+      "title": "Confessions (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/294.txt",
+      "english_mtl_reference": "source/chapters/chapter-292.xhtml",
+      "draft": "manuscript/drafts/chapter-0294.md",
+      "qa": "qa/chapter-0294.md",
+      "provenance": "editorial/provenance/chapter-0294.json",
+      "acceptance": "qa/acceptance/chapter-0294.json",
+      "acceptance_sha": "770908f223f7e2e5d3d2c2de0a02c8b95e267559",
+      "family_qa": "qa/families/confessions-0293-0295.md"
+    },
+    {
+      "chapter": 295,
+      "title": "Confessions (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/295.txt",
+      "english_mtl_reference": "source/chapters/chapter-293.xhtml",
+      "draft": "manuscript/drafts/chapter-0295.md",
+      "qa": "qa/chapter-0295.md",
+      "provenance": "editorial/provenance/chapter-0295.json",
+      "acceptance": "qa/acceptance/chapter-0295.json",
+      "acceptance_sha": "08a66b47addffaa4f2c6d9a52fdd5bf034da0059",
+      "family_qa": "qa/families/confessions-0293-0295.md"
     }
   ]
 }

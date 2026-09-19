@@ -1,46 +1,41 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 292 / 500  
+**Accepted:** 295 / 500  
 **Staged:** 0  
-**Next target:** 293
+**Next target:** 296
 
 ## Latest accepted family
 
-**The Successors (1)–(2)** — targets **291–292**.
+**Confessions (1)–(3)** — targets **293–295**.
 
-- Family QA: `qa/families/successors-0291-0292.md` — PASS.
-- Alignment: **291→E289, 292→E290**.
-- Belial’s defeat closes the Sixth-Corpse operation, but the vault timer forces an immediate escape.
-- Dolores is carried out under a staged-hostage cover.
-- Vikir escapes separately using the Picaresque Mask because the Ring of Andromalius is still on cooldown.
-- Sinclaire refuses to leave with Night Hound and Dolores and is left to decide what she saw, heard, and believes.
-- Dolores says **“Van”** once; Vikir tells her to return to her prior form of address. This does not become a full-identity reveal.
-- Source-timed reveal: **Sinclaire is Bartolomeo Bourgeois’s daughter and Damien Bourgeois’s niece**, one of the next-generation Bourgeois successor candidates.
-- Production uses **Sinclaire Bourgeois** without promoting witness-only middle-initial noise to canon.
-- House Bourgeois raises at least two successor candidates under sealed identities in commoner society under **Esse, Non Videri**.
-- Damien identifies his generation’s candidates as Bartolomeo/Damien and the next generation’s as Juliet/Sinclaire.
-- Sinclaire still does not know when Bartolomeo became possessed or which memories belong to her human father versus Belial’s control.
-- Sinclaire resolves to find Night Hound and declares she will inherit the Bourgeois headship.
-- Humbert had confronted Bartolomeo shortly before the vault operation and received a golden demon-eye object from Belial.
-- Ms. Ouroboros takes the demon eye, severs Humbert’s hands in the process, captures him as part of her “collection,” and invokes the **Warring States Era**.
-- Ms. Ouroboros’s identity and larger plan remain unrevealed.
+- Family QA: `qa/families/confessions-0293-0295.md` — PASS.
+- Alignment: **293→E291, 294→E292, 295→E293**.
+- Public Bourgeois aftermath remains the staged Night-Hound-hostage narrative.
+- Sinclaire withdraws from school life, then returns for finals with extreme training intensity.
+- Reader knowledge and Vikir knowledge remain separate: the reader learned Sinclaire’s Bourgeois identity in target292, while Vikir only infers it in target294 from “Night Hound killed my father.”
+- Sinclaire’s burnout explanation is false; the core issue is the Bourgeois incident and collapse of trust.
+- Sinclaire believes Night Hound killed her father and Dolores was allied with him.
+- Target295 preserves Sinclaire’s first-year recollection from her own perspective.
+- Vikir refuses a present relationship because his war objective comes first.
+- His only future-facing answer is conditional: **“If that day comes.”**
+- Family ends with Vikir planning to leave Colosseo for **Nouvelle Vague** as the Age of Destruction approaches.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Confessions (1)–(3)** — targets **293–295**.
+**Last Semester (1)–(3)** — targets **296–298**.
 
-- 293→E291 — *Confessions (1)*
-- 294→E292 — *Confessions (2)*
-- 295→E293 — *Confession (3)*
+- 296→E294 — *Last Semester (1)*
+- 297→E295 — *Last Semester (2)*
+- 298→E296 — *Last Semester (3)*
 
 Following family:
-- **Last Semester (1)–(3)** — targets **296–298 / E294–E296**.
+- **299→E297 — The Prison of Nouvelle Vague (1)**.
 
 ## Exact next actions
 
-1. Read C293–C295 completely against E291–E293.
-2. Reconstruct and QA Confessions (1)–(3).
+1. Read C296–C298 completely against E294–E296.
+2. Reconstruct and QA Last Semester (1)–(3).
 3. Merge it.
-4. Immediately continue into Last Semester (1)–(3), targets296–298 / E294–E296.
+4. Immediately continue into The Prison of Nouvelle Vague beginning target299 / E297.

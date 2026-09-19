@@ -1,0 +1,38 @@
+{
+  "chapter": 294,
+  "title": "Confessions (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Confessions",
+    "range": [
+      293,
+      295
+    ],
+    "family_qa_path": "qa/families/confessions-0293-0295.md",
+    "family_qa_sha": "6eabea8d34e1d599b5490d639fee708677854110",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/294.txt",
+    "blob_sha": "5272e00091c53465acfe3abab5c01972568daaa1",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-292.xhtml",
+    "blob_sha": "33faf8ed2313d828d720a6334f6bf69daea78d50",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0294.md",
+    "blob_sha": "e28d32fa786545d7c974935cdbac9e1962fb23df"
+  },
+  "qa": {
+    "path": "qa/chapter-0294.md",
+    "blob_sha": "4b6be0f600d59d8fbb322834df51eecc96fbb5fe",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "knowledge_guard": "Reader already knows Sinclaire's Bourgeois identity from target292; Vikir only infers it here from her statement that Night Hound killed her father."
+}
