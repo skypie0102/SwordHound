@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **219 / 500 accepted; next Chapter 220.** Latest accepted family: **targets 216–219 — My Neck Will Be Your Sheath (1)–(4)**.
+Current checkpoint: **224 / 500 accepted; next Chapter 225.** Latest accepted family: **targets 220–224 — That Day, Him and Me (1)–(5)**.
 
-The next verified family is **That Day, Him and Me, targets 220–224**, mapped **220→E218 through 224→E222**. Target 225 begins **Tuition (1)** and maps to E223.
+The next verified family is **Tuition, targets 225–233**, mapped **225→E223 through 233→E231**. Targets 234–235 are **Suspicion (1)–(2)**.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted That Day, Him and Me family adds/revalidates:
+
+- **Camus age 17** — explicit at her Dark Faction entry.
+- **Snake's life-centered black-magic doctrine** — death knowledge begins with understanding life.
+- **Art of Complete Resurrection** — forbidden life-for-life revival.
+- **Snake sacrifice** — failed ritual kills him while saving half-dead Camus.
+- **Seere co-control origin** — Camus's half-death creates the twelve-hour split.
+- **Life Vessel** — black-mage emergency backup heart.
+- **Camus relationship guard** — care/marriage claims remain unilateral.
+- **Tuition** — next family targets 225–233; witnesses E223–E231.
+- **Suspicion** follows at targets 234–235.
 
 The accepted My Neck Will Be Your Sheath family adds/revalidates:
 
@@ -304,15 +316,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–219**:
+Current accepted production evidence covers targets **1–224**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0219.md`
-- `qa/chapter-0001.md` through `chapter-0219.md`
-- accepted family QA through `qa/families/my-neck-sheath-0216-0219.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0219.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0219.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0224.md`
+- `qa/chapter-0001.md` through `chapter-0224.md`
+- accepted family QA through `qa/families/that-day-him-me-0220-0224.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0224.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0224.json`
 
-Latest family QA: `qa/families/my-neck-sheath-0216-0219.md` — **PASS**.
+Latest family QA: `qa/families/that-day-him-me-0220-0224.md` — **PASS**.
 
 ## Editorial quality bar
 
