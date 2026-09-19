@@ -1,0 +1,41 @@
+{
+  "chapter": 227,
+  "title": "Tuition (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/227.txt",
+    "primary_source_sha": "fe128312ab67b5ae9781a6c0702c19b17c630a0f",
+    "english_reference_path": "source/chapters/chapter-225.xhtml",
+    "english_reference_sha": "bae1b5f3e498ab9413408c8c6742bda47d7afe8a",
+    "draft_path": "manuscript/drafts/chapter-0227.md",
+    "draft_sha": "9659a6a94ed5d847507dd9fd9f6f39ce412ce92f",
+    "qa_path": "qa/chapter-0227.md",
+    "qa_sha": "f256429cfe3b0920964cee3753b77e1250d33416",
+    "provenance_path": "editorial/provenance/chapter-0227.json",
+    "provenance_sha": "7b268caac234dbb55090038471712a75c9c997d6"
+  },
+  "canonical_checks": [
+    "Sherpa Guild",
+    "Miniature Pinscher",
+    "MiniPin",
+    "Graduator",
+    "Baskerville"
+  ],
+  "documented_limits": [
+    "MiniPin is over 2.3m and near180kg.",
+    "Vikir request remains deliberately vague."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}
