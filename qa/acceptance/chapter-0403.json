@@ -1,0 +1,33 @@
+{
+  "chapter": 403,
+  "title": "Jailbreaker (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/403.txt",
+    "primary_source_sha": "ca5086880b037007a61d7ca70286db20fdb6fe3d",
+    "english_reference_path": "source/chapters/chapter-401.xhtml",
+    "english_reference_sha": "0eb66c8a110fddde4e720bc45ef7d1038cb02a3b",
+    "draft_path": "manuscript/drafts/chapter-0403.md",
+    "draft_sha": "bf14e3123c20f61eb3a4f499ebb7bd5aecf26aab",
+    "qa_path": "qa/chapter-0403.md",
+    "qa_sha": "61f00f741f3d781a6fbb3857fcdab03ccb77c0d4",
+    "provenance_path": "editorial/provenance/chapter-0403.json",
+    "provenance_sha": "a83bc24c38554c1045faf65ce43dbbd7a7a6fe0f"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No End game material from target409 is imported."
+  ]
+}
