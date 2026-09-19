@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 350  
+**Accepted:** 355  
 **Staged:** 0  
-**Next chapter:** 351
+**Next chapter:** 356
 
-Latest accepted family: **Key man (1)–(3)** — targets348–350 / E346–E348.  
-Family QA: `qa/families/key-man-0348-0350.md` — **PASS**.
+Latest accepted family: **Outside the Tower (1)–(5)** — targets351–355 / E349–E353.  
+Family QA: `qa/families/outside-tower-0351-0355.md` — **PASS**.
 
-Key decisions: C348’s corrupted human/demon-gate line is repaired from immediate context + E346; the kill/be-killed mission requires every participant to experience death; Pigi’s blood is an unexplained anti-demon/tower anomaly; Vikir finishes River of Flow at all-six-stats798, then uses Return Scroll + hoarded golden candy to reach Level100/MAX with all six stats99941; and target350 exposes Amdusias S+ above Tutorial.
+Key decisions: combined-raw seams are explicitly documented; Pigi’s blood remains unexplained; Vikir publicly displays full Sword Master / Eighth Form power; Amdusias is destroyed in target354; and target355 ends with Vikir severing Academy bonds and declaring himself Night Hound.
 
-Next verified family: **Outside the Tower (1)–(2)** — targets351–352 / E349–E350.  
-Chinese `351.txt` is a combined 351+352 raw whose internal split must be verified before drafting.
+Next verified family: **Crime and Punishment (1)–(3)** — targets356–358 / E354–E356. Chinese local part labels are offset by one.  
+Following family begins at **359→E357 — Voluntary Escort (1)**.
