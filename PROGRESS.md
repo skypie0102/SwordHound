@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Confessions (1)–(3) accepted
+
+**Current state:** 295 / 500 accepted; 0 staged; next Chapter 296.
+
+Completed targets **293–295** with mapping **E291–E293**.
+
+Key decisions: Vikir only infers Sinclaire’s Bourgeois identity in target294; her withdrawal is driven by the Bourgeois incident and collapse of trust; Vikir refuses a present relationship and offers only the conditional future answer **“If that day comes”**; and the family closes with his plan to leave Colosseo for Nouvelle Vague.
+
+Family QA: `qa/families/confessions-0293-0295.md` — **PASS**.
+
+Next verified family: **296–298 — Last Semester (1)–(3)**, mapping **E294–E296**. Target299/E297 begins *The Prison of Nouvelle Vague (1)*.
+
 ## 2026-09-19 — The Successors (1)–(2) accepted
 
 **Current state:** 292 / 500 accepted; 0 staged; next Chapter 293.
