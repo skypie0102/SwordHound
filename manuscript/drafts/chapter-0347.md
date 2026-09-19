@@ -18,7 +18,7 @@ The girl who had once lined up outside his tent—
 
 wanting to become his wife.
 
-The girl Vikir had protected from abusive Bourgeois merchants.
+The girl Vikir had protected from Bourgeois merchants who mocked and sexually harassed her.
 
 They had grown closer after that.
 
