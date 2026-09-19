@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 402,
+  "accepted_chapters": 408,
   "staged_chapters": 0,
-  "next_chapter": 403,
+  "next_chapter": 409,
   "latest_accepted_family": {
-    "name": "Black Tongue",
-    "range": [
-      399,
-      402
-    ],
-    "family_qa": "qa/families/black-tongue-0399-0402.md"
-  },
-  "next_title_family": {
     "name": "Jailbreaker",
     "range": [
       403,
-      406
+      408
+    ],
+    "family_qa": "qa/families/jailbreaker-0403-0408.md"
+  },
+  "next_title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
     ],
     "boundary_status": "verified complete",
-    "following_family_starts": 407,
-    "following_title": null,
-    "alignment_note": "403→E401 through 406→E404; next family boundary pending."
+    "following_family_starts": 419,
+    "following_title": "Goodbye, Nouvelle Vague (1)",
+    "alignment_note": "409→E407 through 418→E416; 419→E417 begins Goodbye, Nouvelle Vague (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -464,9 +464,23 @@
     399,
     400,
     401,
-    402
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408
   ],
   "notes": [
+    "Chapters403-408 accepted as Jailbreaker (1)-(6), mapping E401-E406; stale four-part handoff boundary corrected.",
+    "Vikir times the jailbreak around the mass induction and redirects Kirko/junior guards toward the fifth-floor Gulper Eel area.",
+    "Black Tongue identifies Vikir, reveals doppelganger leeches and Asmodeus, and dies after Vikir severs the corridor into the deep sea.",
+    "Asmodeus consumes Black Tongue, returns in living form, and is shattered into nine fragments by Baskerville Eighth Form — Black Sun.",
+    "Vikir secures doppelganger-leech eggs inside Andromalius's barrier.",
+    "BDISSEM is coerced into releasing all restraint/cell-bar material across Levels1-9; the prison-wide uprising begins.",
+    "Second BDISSEM instruction concerning an unnamed person outside the fifth-floor kennel remains reveal-guarded.",
+    "Next family End game verified targets409-418 / E407-E416; Goodbye, Nouvelle Vague begins target419/E417.",
     "Chapters399-402 accepted as Black Tongue (1)-(4), mapping E397-E400.",
     "Kirko's parents were consenting junior guards; Black Tongue/prison authorities fabricated the earlier prisoner-on-guard rape story.",
     "Black Tongue admits leaving Kirko's parents inside leeches for decades after forgetting to release them.",
