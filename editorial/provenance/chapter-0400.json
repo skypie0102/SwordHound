@@ -1,0 +1,37 @@
+{
+  "chapter": 400,
+  "title": "Black Tongue (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Black Tongue",
+    "range": [
+      399,
+      402
+    ],
+    "family_qa_path": "qa/families/black-tongue-0399-0402.md",
+    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/400.txt",
+    "blob_sha": "68ccd549550e59795b09c0918a15f453e8988d15",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-398.xhtml",
+    "blob_sha": "7e30c86e0076796345964bd39683b31cdacaa45b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0400.md",
+    "blob_sha": "e48bc7e4c4600404b34c438200cfc14c7cb92310"
+  },
+  "qa": {
+    "path": "qa/chapter-0400.md",
+    "blob_sha": "7450bf99bb6f7d16007a6b68a0eec2b023fc0cca",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
