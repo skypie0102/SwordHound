@@ -1,5 +1,11 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Main status reconciliation
+
+**No chapter-status change:** 381 / 500 accepted; 0 staged; next Chapter 382.
+
+Reconciled current main against tracker, acceptance, and family-QA evidence. Updated the stale README Chapter235 checkpoint/evidence summary and corrected superseded four-part Hounds references to the accepted **377–381 / E375–E379** boundary. No accepted chapter prose or QA evidence was altered.
+
 ## 2026-09-19 — The Hounds of Nouvelle Vague (1)–(5) accepted
 
 **Current state:** 381 / 500 accepted; 0 staged; next Chapter 382.
