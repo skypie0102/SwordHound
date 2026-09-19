@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 402,
+  "accepted_count": 408,
   "staged_count": 0,
-  "next_chapter": 403,
+  "next_chapter": 409,
   "active_title_family": {
-    "name": "Jailbreaker",
+    "name": "End game",
     "range": [
-      403,
-      408
+      409,
+      418
     ],
-    "boundary_status": "corrected and verified complete: target403→E401 through target408→E406",
-    "following_family_starts": 409,
-    "following_title": "End game (1)",
-    "alignment_note": "403→E401 through 408→E406; target409→E407 begins End game (1), which continues through target418→E416."
+    "boundary_status": "verified complete: target409→E407 through target418→E416",
+    "following_family_starts": 419,
+    "following_title": "Goodbye, Nouvelle Vague (1)",
+    "alignment_note": "409→E407 through 418→E416; target419→E417 begins Goodbye, Nouvelle Vague (1)."
   },
   "chapters": [
     {
@@ -5643,6 +5643,90 @@
       "acceptance": "qa/acceptance/chapter-0402.json",
       "acceptance_sha": "240a63891d32c3c93c450d0166db1409452e4211",
       "family_qa": "qa/families/black-tongue-0399-0402.md"
+    },
+    {
+      "chapter": 403,
+      "title": "Jailbreaker (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/403.txt",
+      "english_mtl_reference": "source/chapters/chapter-401.xhtml",
+      "draft": "manuscript/drafts/chapter-0403.md",
+      "qa": "qa/chapter-0403.md",
+      "provenance": "editorial/provenance/chapter-0403.json",
+      "acceptance": "qa/acceptance/chapter-0403.json",
+      "acceptance_sha": "755abbd73eed5f106130531f1a37ab6b49b57fa0",
+      "family_qa": "qa/families/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 404,
+      "title": "Jailbreaker (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/404.txt",
+      "english_mtl_reference": "source/chapters/chapter-402.xhtml",
+      "draft": "manuscript/drafts/chapter-0404.md",
+      "qa": "qa/chapter-0404.md",
+      "provenance": "editorial/provenance/chapter-0404.json",
+      "acceptance": "qa/acceptance/chapter-0404.json",
+      "acceptance_sha": "9b8d0228591fc9c95b5b79cef68a19b74b90cd99",
+      "family_qa": "qa/families/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 405,
+      "title": "Jailbreaker (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/405.txt",
+      "english_mtl_reference": "source/chapters/chapter-403.xhtml",
+      "draft": "manuscript/drafts/chapter-0405.md",
+      "qa": "qa/chapter-0405.md",
+      "provenance": "editorial/provenance/chapter-0405.json",
+      "acceptance": "qa/acceptance/chapter-0405.json",
+      "acceptance_sha": "555cfe92459a31fb67710f66cb62c88c8c88081f",
+      "family_qa": "qa/families/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 406,
+      "title": "Jailbreaker (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/406.txt",
+      "english_mtl_reference": "source/chapters/chapter-404.xhtml",
+      "draft": "manuscript/drafts/chapter-0406.md",
+      "qa": "qa/chapter-0406.md",
+      "provenance": "editorial/provenance/chapter-0406.json",
+      "acceptance": "qa/acceptance/chapter-0406.json",
+      "acceptance_sha": "1293005b3f2c83439ae016bc365238b826d06b7c",
+      "family_qa": "qa/families/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 407,
+      "title": "Jailbreaker (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/407.txt",
+      "english_mtl_reference": "source/chapters/chapter-405.xhtml",
+      "draft": "manuscript/drafts/chapter-0407.md",
+      "qa": "qa/chapter-0407.md",
+      "provenance": "editorial/provenance/chapter-0407.json",
+      "acceptance": "qa/acceptance/chapter-0407.json",
+      "acceptance_sha": "ba537325748639d73122654b2d6940a997521166",
+      "family_qa": "qa/families/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 408,
+      "title": "Jailbreaker (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/408.txt",
+      "english_mtl_reference": "source/chapters/chapter-406.xhtml",
+      "draft": "manuscript/drafts/chapter-0408.md",
+      "qa": "qa/chapter-0408.md",
+      "provenance": "editorial/provenance/chapter-0408.json",
+      "acceptance": "qa/acceptance/chapter-0408.json",
+      "acceptance_sha": "d93899f52f923f3126fdc03d19c0d5fa584fcba3",
+      "family_qa": "qa/families/jailbreaker-0403-0408.md"
     }
   ]
 }
