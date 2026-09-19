@@ -1,3 +1,19 @@
+## What Money Can't Buy additions — Chapters 279–282
+
+- **What Money Can't Buy** — accepted four-part family, targets279–282 / witnesses E277–E280.
+- **Bourgeois heir test** — true successor candidates live anonymously as commoners without family assistance; `Esse, Non Videri` = “To be, without being seen.”
+- **Romeo** — source-local name for Juliet's sickly commoner/bard partner; direct Fandom confirmation unavailable.
+- **Juliet Bourgeois condition** — she survives the carriage crash physically but becomes a living spirit with her soul wandering apart from the body.
+- **Pomeranian / Wraith Tree soul work** — Pomeranian uses the Wraith Tree to call Juliet's living spirit and Romeo's dead spirit from the crash site.
+- **Gate of Death** — spiritual boundary summoned during Juliet/Romeo resolution; once crossed and closed, ordinary return is impossible.
+- **Damien bargain completion** — after reconciling with Juliet/Romeo, Damien agrees to provide Vikir the head of House Bourgeois.
+- **Bartolomeo vault** — approximately 100 m cube, mithril/orichalcon inner structure, extensive anti-teleportation layers, two-hour sealed interval.
+- **Pit Bull Knights vault test** — roughly 100 Sword Graduators required two hours of continuous attacks to breach the vault.
+- **Bartolomeo / Sixth Corpse** — by target282 Vikir considers the identification almost certain; Damien did not previously know the demon identity.
+- **Power Inflation** — next verified family targets283–290 / E281–E288.
+- **Power Inflation combined raw** — targets284–285 share `source/chinese/chapters/284.txt`; no standalone 285.txt.
+- **The Successors** — begins target291 / E289.
+
 ## Money War additions — Chapters 273–278
 
 - **Money War** — accepted six-part family, targets273–278 / witnesses E271–E276.

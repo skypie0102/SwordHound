@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 278,
+  "accepted_count": 282,
   "staged_count": 0,
-  "next_chapter": 279,
+  "next_chapter": 283,
   "active_title_family": {
-    "name": "What Money Can't Buy",
+    "name": "Power Inflation",
     "range": [
-      279,
-      282
+      283,
+      290
     ],
-    "boundary_status": "verified complete: target279→E277 through target282→E280",
-    "following_family_starts": 283,
-    "following_title": "Time Flies (1)",
-    "alignment_note": "279→E277 through 282→E280; 283→E281 begins Time Flies (1)"
+    "boundary_status": "verified complete: target283→E281 through target290→E288; targets284-285 share Chinese raw 284.txt",
+    "following_family_starts": 291,
+    "following_title": "The Successors (1)",
+    "alignment_note": "283→E281, 284→E282, 285→E283, 286→E284, 287→E285, 288→E286, 289→E287, 290→E288; 291→E289 begins The Successors (1)"
   },
   "chapters": [
     {
@@ -3907,6 +3907,62 @@
       "acceptance": "qa/acceptance/chapter-0278.json",
       "acceptance_sha": "678932b80645727b55a17ad944d872026b6c6603",
       "family_qa": "qa/families/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 279,
+      "title": "What Money Can't Buy (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/279.txt",
+      "english_mtl_reference": "source/chapters/chapter-277.xhtml",
+      "draft": "manuscript/drafts/chapter-0279.md",
+      "qa": "qa/chapter-0279.md",
+      "provenance": "editorial/provenance/chapter-0279.json",
+      "acceptance": "qa/acceptance/chapter-0279.json",
+      "acceptance_sha": "75a1a6e7cd3aba1d944005cedec7f1226aee40a4",
+      "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
+    },
+    {
+      "chapter": 280,
+      "title": "What Money Can't Buy (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/280.txt",
+      "english_mtl_reference": "source/chapters/chapter-278.xhtml",
+      "draft": "manuscript/drafts/chapter-0280.md",
+      "qa": "qa/chapter-0280.md",
+      "provenance": "editorial/provenance/chapter-0280.json",
+      "acceptance": "qa/acceptance/chapter-0280.json",
+      "acceptance_sha": "647606b2668e9ce2573310788e9b9c26b69803a3",
+      "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
+    },
+    {
+      "chapter": 281,
+      "title": "What Money Can't Buy (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/281.txt",
+      "english_mtl_reference": "source/chapters/chapter-279.xhtml",
+      "draft": "manuscript/drafts/chapter-0281.md",
+      "qa": "qa/chapter-0281.md",
+      "provenance": "editorial/provenance/chapter-0281.json",
+      "acceptance": "qa/acceptance/chapter-0281.json",
+      "acceptance_sha": "e7619e2f53fd7ea1e6e990990027091dcac1de2b",
+      "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
+    },
+    {
+      "chapter": 282,
+      "title": "What Money Can't Buy (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/282.txt",
+      "english_mtl_reference": "source/chapters/chapter-280.xhtml",
+      "draft": "manuscript/drafts/chapter-0282.md",
+      "qa": "qa/chapter-0282.md",
+      "provenance": "editorial/provenance/chapter-0282.json",
+      "acceptance": "qa/acceptance/chapter-0282.json",
+      "acceptance_sha": "993225663138eb44b9265b7761e5a3fc37b41bbe",
+      "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
     }
   ]
 }

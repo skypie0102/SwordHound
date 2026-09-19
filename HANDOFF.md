@@ -1,40 +1,53 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 278 / 500  
+**Accepted:** 282 / 500  
 **Staged:** 0  
-**Next target:** 279
+**Next target:** 283
 
 ## Latest accepted family
 
-**Money War (1)–(6)** — targets **273–278**.
+**What Money Can't Buy (1)–(4)** — targets **279–282**.
 
-- Family QA: `qa/families/money-war-0273-0278.md` — PASS.
-- Alignment: **273→E271 through 278→E276**.
-- Oracle's prediction-letter method is a probability filter, not genuine clairvoyance.
-- Pigi supplies financial-target research; Sinclaire handles mass correspondence/administration.
-- Cindywendy's western-jungle trade supplies the genuine investment payoff and credible wealth trail.
-- Vikir declines Oracle publicly while directing it covertly as Night Hound.
-- Dolores suspects Night Hound may be an Academy insider but refuses to use the Mirror of Truth on him.
-- Damien Bourgeois is chosen as an internal contact because he lost the family succession fight to Bartolomeo and now survives partly through Imperial service.
-- Oracle's party is intentionally excessive and partly debt-financed to force elite attention.
-- Sinan Saltsail / Puss in Boots / Bartolomeo / Juliet / Bahamut remain source-local forms pending direct Fandom access.
-- Damien uses an old Bahamut-derived pre-fusion sword system ancestral to Baskerville and can reach a fourth-form Sword Graduator attack.
-- Vikir defeats Damien but explicitly says he did not come to kill him.
-- Chapter278 ends with Damien's death wish exposed; the reason/payoff remains for the next family.
-- Direct Fandom verification remains robots-blocked.
+- Family QA: `qa/families/what-money-cant-buy-0279-0282.md` — PASS.
+- Alignment: **279→E277 through 282→E280**.
+- Public rumor is corrected: Juliet did not die in the carriage crash. Romeo died; Juliet survived physically but her soul separated from her living body.
+- Pomeranian is the soul-sensitive summoner; the Wraith Tree calls Juliet's living spirit and Romeo's dead spirit from the crash site.
+- Damien apologizes to both, recognizes their marriage, and ultimately allows Juliet to make her own choice rather than repeating his earlier coercion.
+- Vikir officiates their wedding.
+- Juliet follows Romeo through the Gate of Death; Damien completes the bargain by agreeing to give Vikir the head of House Bourgeois.
+- Dolores later joins the alliance but is not told the full Juliet/Romeo details.
+- Bartolomeo's outsider dinners occur inside an approximately 100m cube vault lined with mithril/orichalcon and extensive anti-teleportation magic.
+- The vault seals for two hours because the Pit Bull Knights needed two hours of continuous attacks to breach it during testing.
+- Damien did not previously know Bartolomeo was a demon.
+- Vikir now considers Bartolomeo almost certainly the Sixth Corpse.
+- Chapter282 ends on an unrevealed outside-the-vault plan.
 
-## Next verified family
+## Correct next family
 
-**What Money Can't Buy (1)–(4)** — targets **279–282**, mapped **E277–E280**.
+**Power Inflation (1)–(8)** — targets **283–290**.
+
+Verified mapping:
+- 283→E281
+- 284→E282
+- 285→E283
+- 286→E284
+- 287→E285
+- 288→E286
+- 289→E287
+- 290→E288
+
+Source exception:
+- Targets **284–285** share physical Chinese raw `source/chinese/chapters/284.txt`.
+- `284.txt` is explicitly labeled as Chapters 284+285 / Power Inflation (2+3).
+- Do not expect `285.txt`.
 
 Following family:
-- **283→E281 — Time Flies (1)**.
+- **291→E289 — The Successors (1)**.
 
 ## Exact next actions
 
-1. Read C279–C282 completely against E277–E280.
-2. Resolve Damien/Juliet payoff and Bourgeois internal information without importing Time Flies material early.
-3. Reconstruct and QA the full four-part family.
-4. Merge it.
-5. Immediately continue into Time Flies beginning target283.
+1. Read C283, shared C284+285, and C286–C290 completely against E281–E288.
+2. Reconstruct and QA Power Inflation (1)–(8) as one family.
+3. Merge it.
+4. Continue immediately into The Successors beginning target291.

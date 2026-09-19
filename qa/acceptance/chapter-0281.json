@@ -1,0 +1,33 @@
+{
+  "chapter": 281,
+  "title": "What Money Can't Buy (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "What Money Can't Buy",
+    "range": [
+      279,
+      282
+    ],
+    "family_qa_path": "qa/families/what-money-cant-buy-0279-0282.md",
+    "family_qa_sha": "52aa4e0267c9a84ec650222d8910715c5e9d537b",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/281.txt",
+    "primary_source_sha": "c6951188f2482d7932c7834e56fe430bc095fee0",
+    "english_reference_path": "source/chapters/chapter-279.xhtml",
+    "english_reference_sha": "80127eeab46c88a69566a22a0132fcbc820c4399",
+    "draft_path": "manuscript/drafts/chapter-0281.md",
+    "draft_sha": "2f7f73de5ea768c5d7b30367273aff76a84c26d7",
+    "qa_path": "qa/chapter-0281.md",
+    "qa_sha": "f7ae58c066394edc11baaa63d0e0894eb5832d0e",
+    "provenance_path": "editorial/provenance/chapter-0281.json",
+    "provenance_sha": "5badb834e840e868376fceae83604d068cfa786f"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Time Flies material from target283 is imported."
+  ]
+}
