@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 370  
+**Accepted:** 372  
 **Staged:** 0  
-**Next chapter:** 371
+**Next chapter:** 373
 
-Latest accepted family: **The Servant (1)–(2)** — targets369–370 / E367–E368.  
-Family QA: `qa/families/servant-0369-0370.md` — **PASS**.
+Latest accepted family: **Solitary Confinement (1)–(2)** — targets371–372 / E369–E370.  
+Family QA: `qa/families/solitary-confinement-0371-0372.md` — **PASS**.
 
-Key decisions: D'Ordume’s crocodile-beastfolk reveal is source-timed to target370; the nineteen-years-ago incident remains unexplained; Vikir intentionally engineers a riot and surrender; and his punishment is exactly 100 days of solitary confinement.
+Key decisions: Souaré canonicalized; Angajuman retained only as a source alias; his true identity remains guarded despite Vikir’s deduction; and the sword discourse establishes a combatant capable of countering Vikir’s Eighth Form / Black Sun.
 
-Next verified family: **Solitary Confinement (1)–(2)** — targets371–372 / E369–E370.  
-Following: **Sucker Shark (1)–(2)** — targets373–374 / E371–E372.
+Next verified family: **Sucker Shark (1)–(2)** — targets373–374 / E371–E372.  
+Following: **Poseidon (1)–(2)** — targets375–376 / E373–E374.

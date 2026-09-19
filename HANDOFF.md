@@ -1,44 +1,38 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 370 / 500  
+**Accepted:** 372 / 500  
 **Staged:** 0  
-**Next target:** 371
+**Next target:** 373
 
 ## Latest accepted family
 
-**The Servant (1)–(2)** — targets **369–370**.
+**Solitary Confinement (1)–(2)** — targets **371–372**.
 
-- Family QA: `qa/families/servant-0369-0370.md` — PASS.
-- Alignment: **369→E367, 370→E368**.
-- D'Ordume D'Orcdile is a Colonel / one of Nouvelle Vague’s Five Wardens; only Warden Orca is positioned above him in practical hierarchy.
-- His forearm spiral axe-blades convert aura into huge cutting vortexes.
-- The “unpleasant incident” between guard and prisoner nineteen years earlier remains unexplained.
-- Vikir fights without mana, using Hell Tree Reflexes, spatial perception, battle experience, and BDISSEM chains.
-- Target369 ends on the nonhuman-body reveal.
-- Target370 reveals D'Ordume as **saltwater-crocodile beastfolk**.
-- Vikir correctly judges that he cannot defeat D'Ordume outright while BDISSEM-restrained.
-- He uses prepared terrain / rolling boulders to exploit D'Ordume’s pride, eventually knocking him into lava.
-- D'Ordume survives badly burned.
-- Vikir then deliberately surrenders and uses loosened construction supports as leverage against summary execution.
-- D'Ordume publicly waives summary execution before Vikir submits.
-- Vikir receives **100 days of solitary confinement**, described as effectively a death sentence.
-- The solitary route is consistent with Vikir’s intended plan; target371 details are not imported early.
-- Kirko Grimm closes the family by revealing D'Ordume’s rampage accidentally completed the day’s entire work quota.
-- Canonical Fandom-index forms used: **D'Ordume D'Orcdile**, **Kirko Grimm**.
+- Family QA: `qa/families/solitary-confinement-0371-0372.md` — PASS.
+- Alignment: **371→E369, 372→E370**.
+- Garam Nord voluntarily escorts Vikir so unofficial guard abuse does not exceed the assigned punishment.
+- Souaré is Fandom-confirmed canonical; current source establishes dwarf/elf heritage, beard, mineral affinity, and Five-Warden status.
+- Solitary cells are custom asphalt/concrete/BDISSEM cocoons formed directly around the prisoner with only a breathing/feeding tube.
+- Vikir receives one hundred days, far beyond ordinary solitary terms.
+- Neighboring inmate identifies himself only as **Angajuman**; no accessible canonical Fandom entry was found for that alias.
+- Angajuman claims years of survival through extreme metabolic suppression and minimal bread/dew.
+- Historical sword-house context preserves Bahamut, Gis, Sade, Nibelungen, and Baskerville as former Iron-Blooded Sword Houses.
+- Sword discourse escalates from Baskerville First through Eighth Form and Black Sun.
+- Angajuman counters Vikir’s full discourse and remembers Winston, Orca, previous-generation Seven Counts, and Cane Corso.
+- Vikir privately concludes Angajuman is probably the future fugitive whose escape caused Orca to destroy Nouvelle Vague, but **the true name remains unstated and must not be imported**.
 
 ## Next verified family
 
-**Solitary Confinement (1)–(2)** — targets **371–372** / **E369–E370**.
+**Sucker Shark (1)–(2)** — targets **373–374** / **E371–E372**.
 
 Following:
-- **Sucker Shark (1)–(2)** — targets **373–374 / E371–E372**.
-- **Poseidon (1)–(2)** — targets **375–376 / E373–E374**.
-- **The Hounds of Nouvelle Vague (1)–(4)** — targets **377–380 / E375–E378**.
+- **Poseidon (1)–(2)** — targets375–376 / E373–E374.
+- **The Hounds of Nouvelle Vague (1)–(4)** — targets377–380 / E375–E378.
 
 ## Exact next actions
 
-1. Read C371–C372 completely against E369–E370.
-2. Reconstruct and QA Solitary Confinement (1)–(2).
+1. Read C373–C374 completely against E371–E372.
+2. Reconstruct and QA Sucker Shark (1)–(2).
 3. Merge it.
-4. Immediately continue into Sucker Shark (1)–(2), targets373–374 / E371–E372.
+4. Immediately continue into Poseidon (1)–(2), targets375–376 / E373–E374.

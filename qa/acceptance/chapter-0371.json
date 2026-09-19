@@ -1,0 +1,30 @@
+{
+  "chapter": 371,
+  "title": "Solitary Confinement (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Solitary Confinement",
+    "range": [
+      371,
+      372
+    ],
+    "family_qa_path": "qa/families/solitary-confinement-0371-0372.md",
+    "family_qa_sha": "3077e0ce3a79de134d23b9bf8bc80cbe4983e4bc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/371.txt",
+    "primary_source_sha": "b60ea4a000752d3ddf734e82b80840400ba9a93c",
+    "english_reference_path": "source/chapters/chapter-369.xhtml",
+    "english_reference_sha": "35df2b4ee8bf229e4f95260bf1778424da2fb6eb",
+    "draft_path": "manuscript/drafts/chapter-0371.md",
+    "draft_sha": "7b1d8382b95a0827c48129a9e2036f36fc2195a5",
+    "qa_path": "qa/chapter-0371.md",
+    "qa_sha": "d50e49d4643b1aad7522c464f52312244d63049e",
+    "provenance_path": "editorial/provenance/chapter-0371.json",
+    "provenance_sha": "f4abb2e010a47c922ded1b5c94b0101d3c068a0d"
+  },
+  "reveal_guard": "Angajuman true identity is not stated; no later name is imported."
+}

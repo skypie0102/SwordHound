@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 370,
+  "accepted_count": 372,
   "staged_count": 0,
-  "next_chapter": 371,
+  "next_chapter": 373,
   "active_title_family": {
-    "name": "Solitary Confinement",
+    "name": "Sucker Shark",
     "range": [
-      371,
-      372
+      373,
+      374
     ],
-    "boundary_status": "verified complete: target371→E369 and target372→E370",
-    "following_family_starts": 373,
-    "following_title": "Sucker Shark (1)",
-    "alignment_note": "371→E369 Solitary Confinement (1), 372→E370 Solitary Confinement (2); 373→E371 begins Sucker Shark (1)."
+    "boundary_status": "verified complete: target373→E371 and target374→E372",
+    "following_family_starts": 375,
+    "following_title": "Poseidon (1)",
+    "alignment_note": "373→E371 Sucker Shark (1), 374→E372 Sucker Shark (2); 375→E373 begins Poseidon (1)."
   },
   "chapters": [
     {
@@ -5195,6 +5195,34 @@
       "acceptance": "qa/acceptance/chapter-0370.json",
       "acceptance_sha": "70f3dbb8bc3802733f6edc02534c7d0ffeddb08a",
       "family_qa": "qa/families/servant-0369-0370.md"
+    },
+    {
+      "chapter": 371,
+      "title": "Solitary Confinement (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/371.txt",
+      "english_mtl_reference": "source/chapters/chapter-369.xhtml",
+      "draft": "manuscript/drafts/chapter-0371.md",
+      "qa": "qa/chapter-0371.md",
+      "provenance": "editorial/provenance/chapter-0371.json",
+      "acceptance": "qa/acceptance/chapter-0371.json",
+      "acceptance_sha": "72f86d63a08b965490653530baa361e2f2356cc0",
+      "family_qa": "qa/families/solitary-confinement-0371-0372.md"
+    },
+    {
+      "chapter": 372,
+      "title": "Solitary Confinement (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/372.txt",
+      "english_mtl_reference": "source/chapters/chapter-370.xhtml",
+      "draft": "manuscript/drafts/chapter-0372.md",
+      "qa": "qa/chapter-0372.md",
+      "provenance": "editorial/provenance/chapter-0372.json",
+      "acceptance": "qa/acceptance/chapter-0372.json",
+      "acceptance_sha": "c5ecc8be92df1660b7f2177c5374e31437f43187",
+      "family_qa": "qa/families/solitary-confinement-0371-0372.md"
     }
   ]
 }

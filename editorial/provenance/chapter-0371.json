@@ -1,0 +1,37 @@
+{
+  "chapter": 371,
+  "title": "Solitary Confinement (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Solitary Confinement",
+    "range": [
+      371,
+      372
+    ],
+    "family_qa_path": "qa/families/solitary-confinement-0371-0372.md",
+    "family_qa_sha": "3077e0ce3a79de134d23b9bf8bc80cbe4983e4bc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/371.txt",
+    "blob_sha": "b60ea4a000752d3ddf734e82b80840400ba9a93c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-369.xhtml",
+    "blob_sha": "35df2b4ee8bf229e4f95260bf1778424da2fb6eb",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0371.md",
+    "blob_sha": "7b1d8382b95a0827c48129a9e2036f36fc2195a5"
+  },
+  "qa": {
+    "path": "qa/chapter-0371.md",
+    "blob_sha": "d50e49d4643b1aad7522c464f52312244d63049e",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Souaré confirmed by designated Fandom index; no accessible Angajuman canonical page found. Alias retained; true identity guarded.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
