@@ -1,0 +1,42 @@
+{
+  "chapter": 230,
+  "title": "Tuition (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/230.txt",
+    "primary_source_sha": "4cf760cce3e83f9beec0708adc1dc163ed00934c",
+    "english_reference_path": "source/chapters/chapter-228.xhtml",
+    "english_reference_sha": "f34b4f8785d27d42766c0c59061f2425889bed85",
+    "draft_path": "manuscript/drafts/chapter-0230.md",
+    "draft_sha": "8d73df91ed6cfbaffac317e851d5a0ec434eca3b",
+    "qa_path": "qa/chapter-0230.md",
+    "qa_sha": "11672548c6eb255bcd1e09e7d1d4d64214b678cd",
+    "provenance_path": "editorial/provenance/chapter-0230.json",
+    "provenance_sha": "c949ac5e98ceca4ccd2d7dac999e98446d4c97f9"
+  },
+  "canonical_checks": [
+    "Baby Madam",
+    "Gnoll",
+    "Poison Gnoll",
+    "Bourgeois Damien",
+    "Royal Imperial Bank",
+    "Ms. Ouroboros"
+  ],
+  "documented_limits": [
+    "Bank-cache attribution remains Vikir inference.",
+    "Poison Gnoll is Danger Rating A."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}
