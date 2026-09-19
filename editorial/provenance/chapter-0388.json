@@ -1,0 +1,38 @@
+{
+  "chapter": 388,
+  "title": "The Rotten Dog of Nouvelle Vague (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Rotten Dog of Nouvelle Vague",
+    "range": [
+      385,
+      389
+    ],
+    "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
+    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/388.txt",
+    "blob_sha": "c9dd8b4621cd921b6aea0e59431ec35183543baf",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-386.xhtml",
+    "blob_sha": "57a4a13e8d3f045d03ed2b1f3a19fd470b9590bd",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0388.md",
+    "blob_sha": "e9ef1e6c259ef034789703a3103594a9141a80b3"
+  },
+  "qa": {
+    "path": "qa/chapter-0388.md",
+    "blob_sha": "c5d2fb1888a3106fff27e42e031ce06306444142",
+    "status": "pass"
+  },
+  "canonical_reference_note": "Designated Fandom search confirms Garam Nord, Kirko Grimm, and Lieutenant Colonel Flubber J Tarbond. Pal Euspear remains aligned-witness/source-local because no accessible Fandom entry was found.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "localized_repair": "One visibly corrupted mixed-language sentence repaired only from E386 as Kirko wondering whether Garam awakened after Sakkuth's riot."
+}
