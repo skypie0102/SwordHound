@@ -1,0 +1,40 @@
+{
+  "chapter": 405,
+  "title": "Jailbreaker (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/405.txt",
+    "blob_sha": "d6cc20c114dcc6b5839f1dd42addcccd29b24d48",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-403.xhtml",
+    "blob_sha": "d8948a032131f1d565e9cb45dbef00bc4c4b35fb",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0405.md",
+    "blob_sha": "3ee0dd5e325506b8eaa60c94b9fdfa41af3e0eb2"
+  },
+  "qa": {
+    "path": "qa/chapter-0405.md",
+    "blob_sha": "7e570f8175ee2136047ad36dd16439b67cea416c",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were explicitly marked unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "term_decisions": [
+    "doppelganger leech follows aligned E403 for the copy-form parasite strain."
+  ]
+}
