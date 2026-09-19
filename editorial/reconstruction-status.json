@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 254,
+  "accepted_chapters": 260,
   "staged_chapters": 0,
-  "next_chapter": 255,
+  "next_chapter": 261,
   "latest_accepted_family": {
-    "name": "Five Stars",
-    "range": [
-      253,
-      254
-    ],
-    "family_qa": "qa/families/five-stars-0253-0254.md"
-  },
-  "next_title_family": {
     "name": "The Grave of Swords",
     "range": [
       255,
+      260
+    ],
+    "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+  },
+  "next_title_family": {
+    "name": "The Inverted Pentagram",
+    "range": [
+      261,
       null
     ],
     "boundary_status": "start verified; full contiguous family boundary pending forward read",
     "following_family_starts": null,
     "following_title": null,
-    "alignment_note": "255→E253 begins The Grave of Swords (1)"
+    "alignment_note": "261→E259 begins The Inverted Pentagram (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -316,9 +316,24 @@
     251,
     252,
     253,
-    254
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260
   ],
   "notes": [
+    "Chapters255-260 accepted as The Grave of Swords (1)-(6), mapping E253-E258.",
+    "Ballak contact loss remains unresolved.",
+    "Dead Basilisk: S / 44 m / 10th Ridge / Dragon of the Saha River; slain by an unnamed Pit Bull knight using deeply honed Fourth Fang.",
+    "Cane Corso Le Baskerville is the unreachable seventh Count and hidden master of the Grave of Swords.",
+    "Vikir reaches Eighth Fang under genuine mortal pressure against Cane Corso.",
+    "Chinese-primary correction: Beelzebub Slot 2 is Immortality — Gargoyle (S), not shifted-English Basilisk.",
+    "Cane Corso is a Death Knight who has mastered Ninth Fang; Ninth requires death, Tenth requires death followed by awakening.",
+    "Family ends with two Wraith Tree saplings and Vikir returning toward Baskerville/Colosseo.",
+    "Next target261→E259 begins The Inverted Pentagram (1).",
     "Chapters253-254 accepted as Five Stars (1)-(2), mapping E251-E252.",
     "Target253 five-star Baskerville task is childcare; Pomeranian smiling completes it immediately.",
     "Sinclaire's eastbound travel despite choosing Quovadis remains unexplained and spoiler-guarded.",
