@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Key man (1)–(3) accepted
+
+**Current state:** 350 / 500 accepted; 0 staged; next Chapter 351.
+
+Completed targets **348–350** with mapping **E346–E348**.
+
+Key decisions: the kill/be-killed floor requires both killing and being killed; Pigi’s black blood remains an unexplained anti-demon/tower anomaly; Vikir completes River of Flow with six stats798 at Level1; Return Scroll + hoarded Level candy produces Level100 MAX with six stats99941; and target350 exposes Amdusias S+ above Tutorial.
+
+Family QA: `qa/families/key-man-0348-0350.md` — **PASS**.
+
+Next verified family: **351–352 — Outside the Tower (1)–(2)**, mapping **E349–E350**. Chinese raw 351.txt is combined 351+352 and requires explicit split verification.
+
 ## 2026-09-19 — Ballak (1)–(5) accepted
 
 **Current state:** 347 / 500 accepted; 0 staged; next Chapter 348.
