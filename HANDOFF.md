@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Suspicion acceptance checkpoint
 - **Working branch:** `editorial/restart-suspicion-0234-0235`
 - **Base main checkpoint:** `88ea8f46d2c013c333be03e5e590037033d913b6` (Tuition checkpoint merged)
-- **Current PR:** not yet opened
+- **Current PR:** #63 — `Rebuild Suspicion Chapters 234–235`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
