@@ -1,0 +1,38 @@
+{
+  "chapter": 332,
+  "title": "Draw (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Draw",
+    "range": [
+      331,
+      332
+    ],
+    "family_qa_path": "qa/families/draw-0331-0332.md",
+    "family_qa_sha": "4da0c4108b2f283f5561b7aa9f63a2120d8fe478",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/332.txt",
+    "blob_sha": "cacd92387d304768eb9ba2205d75065d13c68e89",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-330.xhtml",
+    "blob_sha": "3c7dec499dc916bdf97dd8e44f7d8fde4d6617e9",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0332.md",
+    "blob_sha": "6623af63391b8e9c30cfe908c2837c4f10843bf0"
+  },
+  "qa": {
+    "path": "qa/chapter-0332.md",
+    "blob_sha": "f62a316e97ae47b7bc1b1bd75128c6946edaccb7",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local item names were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "key_reveal": "S-rank Scale of Forced Equality acquired for 20 golden candies; all stats slowly rise toward highest current stat until equal."
+}
