@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 370,
+  "accepted_chapters": 372,
   "staged_chapters": 0,
-  "next_chapter": 371,
+  "next_chapter": 373,
   "latest_accepted_family": {
-    "name": "The Servant",
-    "range": [
-      369,
-      370
-    ],
-    "family_qa": "qa/families/servant-0369-0370.md"
-  },
-  "next_title_family": {
     "name": "Solitary Confinement",
     "range": [
       371,
       372
     ],
+    "family_qa": "qa/families/solitary-confinement-0371-0372.md"
+  },
+  "next_title_family": {
+    "name": "Sucker Shark",
+    "range": [
+      373,
+      374
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 373,
-    "following_title": "Sucker Shark (1)",
-    "alignment_note": "371→E369, 372→E370; 373→E371 begins Sucker Shark."
+    "following_family_starts": 375,
+    "following_title": "Poseidon (1)",
+    "alignment_note": "373→E371, 374→E372; 375→E373 begins Poseidon."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -432,9 +432,16 @@
     367,
     368,
     369,
-    370
+    370,
+    371,
+    372
   ],
   "notes": [
+    "Chapters371-372 accepted as Solitary Confinement (1)-(2), mapping E369-E370.",
+    "Souaré canonical form verified through designated Fandom index; Angajuman retained only as source alias.",
+    "Angajuman survives years in solitary, verbally counters Baskerville First-Eighth Form plus Black Sun, and knows Winston/Orca/old Seven Counts/Cane Corso.",
+    "Vikir privately deduces Angajuman is likely the future fugitive tied to Nouvelle Vague's destruction, but no true name is imported.",
+    "Next family Sucker Shark verified targets373-374 / E371-E372; Poseidon begins target375/E373.",
     "Chapters369-370 accepted as The Servant (1)-(2), mapping E367-E368.",
     "D'Ordume D'Orcdile is revealed as saltwater-crocodile beastfolk; the 19-years-ago prison incident remains unexplained.",
     "Vikir uses no mana, exploits terrain and D'Ordume's pride, then deliberately surrenders.",
