@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 254,
+  "accepted_count": 260,
   "staged_count": 0,
-  "next_chapter": 255,
+  "next_chapter": 261,
   "active_title_family": {
-    "name": "The Grave of Swords",
+    "name": "The Inverted Pentagram",
     "range": [
-      255,
+      261,
       null
     ],
-    "boundary_status": "begins at target255 / E253; full contiguous family boundary must be verified before acceptance",
+    "boundary_status": "begins at target261 / E259; full contiguous family boundary must be verified before acceptance",
     "following_family_starts": null,
     "following_title": null,
-    "alignment_note": "255→E253 The Grave of Swords (1)"
+    "alignment_note": "261→E259 The Inverted Pentagram (1)"
   },
   "chapters": [
     {
@@ -3571,6 +3571,90 @@
       "acceptance": "qa/acceptance/chapter-0254.json",
       "acceptance_sha": "b2055b772b10ac8296f62b1c32d23c9d2f9a07c6",
       "family_qa": "qa/families/five-stars-0253-0254.md"
+    },
+    {
+      "chapter": 255,
+      "title": "The Grave of Swords (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/255.txt",
+      "english_mtl_reference": "source/chapters/chapter-253.xhtml",
+      "draft": "manuscript/drafts/chapter-0255.md",
+      "qa": "qa/chapter-0255.md",
+      "provenance": "editorial/provenance/chapter-0255.json",
+      "acceptance": "qa/acceptance/chapter-0255.json",
+      "acceptance_sha": "faea1c5ad2fc51fbb00c7e0758e264982ade5a98",
+      "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 256,
+      "title": "The Grave of Swords (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/256.txt",
+      "english_mtl_reference": "source/chapters/chapter-254.xhtml",
+      "draft": "manuscript/drafts/chapter-0256.md",
+      "qa": "qa/chapter-0256.md",
+      "provenance": "editorial/provenance/chapter-0256.json",
+      "acceptance": "qa/acceptance/chapter-0256.json",
+      "acceptance_sha": "2e577c23e25138f8ae6a75ede9543df2aa085017",
+      "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 257,
+      "title": "The Grave of Swords (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/257.txt",
+      "english_mtl_reference": "source/chapters/chapter-255.xhtml",
+      "draft": "manuscript/drafts/chapter-0257.md",
+      "qa": "qa/chapter-0257.md",
+      "provenance": "editorial/provenance/chapter-0257.json",
+      "acceptance": "qa/acceptance/chapter-0257.json",
+      "acceptance_sha": "74ee3acaa582b20b177cb22a8654e2eb1d92f7da",
+      "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 258,
+      "title": "The Grave of Swords (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/258.txt",
+      "english_mtl_reference": "source/chapters/chapter-256.xhtml",
+      "draft": "manuscript/drafts/chapter-0258.md",
+      "qa": "qa/chapter-0258.md",
+      "provenance": "editorial/provenance/chapter-0258.json",
+      "acceptance": "qa/acceptance/chapter-0258.json",
+      "acceptance_sha": "1536b30feac361ea43ef8304325bb44c0d14ace0",
+      "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 259,
+      "title": "The Grave of Swords (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/259.txt",
+      "english_mtl_reference": "source/chapters/chapter-257.xhtml",
+      "draft": "manuscript/drafts/chapter-0259.md",
+      "qa": "qa/chapter-0259.md",
+      "provenance": "editorial/provenance/chapter-0259.json",
+      "acceptance": "qa/acceptance/chapter-0259.json",
+      "acceptance_sha": "a1718b6aa89d73330675afdd2578512a3115f6d0",
+      "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 260,
+      "title": "The Grave of Swords (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/260.txt",
+      "english_mtl_reference": "source/chapters/chapter-258.xhtml",
+      "draft": "manuscript/drafts/chapter-0260.md",
+      "qa": "qa/chapter-0260.md",
+      "provenance": "editorial/provenance/chapter-0260.json",
+      "acceptance": "qa/acceptance/chapter-0260.json",
+      "acceptance_sha": "638cce2bf8456ffe15e525cd36756408613e5eb7",
+      "family_qa": "qa/families/grave-of-swords-0255-0260.md"
     }
   ]
 }
