@@ -1,0 +1,32 @@
+{
+  "chapter": 384,
+  "title": "Kennel (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Kennel",
+    "range": [
+      382,
+      384
+    ],
+    "family_qa_path": "qa/families/kennel-0382-0384.md",
+    "family_qa_sha": "77a570da8dbe91cebe52dfc242cc7da165367995",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/384.txt",
+    "primary_source_sha": "e0650f113f8c8164e6902f13cc70322d1092c001",
+    "english_reference_path": "source/chapters/chapter-382.xhtml",
+    "english_reference_sha": "9bfcc180c3adaab7b67acad817897f40a230f81b",
+    "draft_path": "manuscript/drafts/chapter-0384.md",
+    "draft_sha": "29c6856f31f23c3842822e1bcdb2ecf30871b04e",
+    "qa_path": "qa/chapter-0384.md",
+    "qa_sha": "79ce55272cb5d547bdd4e1a928dd5f77401654dc",
+    "provenance_path": "editorial/provenance/chapter-0384.json",
+    "provenance_sha": "1e07fa91a77fecf4c983a8751d51ff7e7769be34"
+  },
+  "documented_limits": [
+    "No Rotten Dog material from target385 is imported."
+  ]
+}
