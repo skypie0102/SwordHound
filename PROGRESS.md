@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — My Neck Will Be Your Sheath (1)–(4) accepted
+
+**Current state:** 219 / 500 accepted; 0 staged; next Chapter 220.
+
+Completed targets 216–219 with mapping **216→E214 through 219→E217**.
+
+Key decisions: target 216 is the first explicit Camus Morgue reveal; Camus pursued black magic to resurrect Vikir; Seere/Camus share twelve-hour body control; Vikir's feeling for Camus remains uncategorized; Camus forces one final opening; Vikir reaches genuine Sword Master without Dolores's buff, completes Seventh Fang enough to cut the Camus–Seere contract, destroys Seere, and deliberately allows Rosie to evacuate Camus.
+
+Family QA: `qa/families/my-neck-sheath-0216-0219.md` — **PASS**.
+
+Next verified family: **220–224 — That Day, Him and Me (1)–(5)**. Target **225** begins *Tuition (1)*.
+
 ## 2026-09-19 — Festival Night (1)–(10) accepted
 
 **Current state:** 215 / 500 accepted; 0 staged; next Chapter 216.
