@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Ballak (1)–(5) accepted
+
+**Current state:** 347 / 500 accepted; 0 staged; next Chapter 348.
+
+Completed targets **343–347** with mapping **E341–E345**.
+
+Key decisions: River of Flow accelerates biological time; Scale of Forced Equality pushes all six unlocked stats toward Strength798; the Ballak opponents are the infant/child generation aged for decades inside the tower; Aheul leads them; Akwilla died fighting Amdusias; and target347 ends on an unresolved apparent decapitation of both groups while the mission remains uncleared.
+
+Family QA: `qa/families/ballak-0343-0347.md` — **PASS**.
+
+Next verified family: **348–350 — Key man (1)–(3)**, mapping **E346–E348**. Outside the Tower follows targets351–352 / E349–E350 via combined Chinese raw 351.txt.
+
 ## 2026-09-19 — Private Life (1)–(2) accepted
 
 **Current state:** 342 / 500 accepted; 0 staged; next Chapter 343.
