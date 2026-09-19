@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Dead Man Walking (1)–(3) accepted
+
+**Current state:** 398 / 500 accepted; 0 staged; next Chapter 399.
+
+Completed targets **396–398** with mapping **E394–E396**.
+
+Key decisions: Kirko’s birth/inferiority explanation is source-timed; Brigadier General Flubber is distinct from the Flubber mucus barrier; Sakkuth dies after recognizing the rescue deception; Vikir treats Flubber as an escape variable; Garam becomes Major and Kirko Captain; and Black Tongue summons both for audit.
+
+Family QA: `qa/families/dead-man-walking-0396-0398.md` — **PASS**.
+
+Next verified family: **399–402 — Black Tongue (1)–(4)**, mapping **E397–E400**. Jailbreaker follows targets403–406 / E401–E404.
+
 ## 2026-09-20 — The Worst Torture (1)–(6) accepted
 
 **Current state:** 395 / 500 accepted; 0 staged; next Chapter 396.
