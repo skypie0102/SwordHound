@@ -1,3 +1,17 @@
+## Ghost Castle of the Ultra-Deep Sea additions — Chapters 363–365
+
+- **Ghost Castle of the Ultra-Deep Sea** — accepted three-part family, targets363–365 / witnesses E361–E363.
+- **Gate of Good and Evil** — source-local aligned-witness name for Nouvelle Vague’s black/white circular main gate; direct Fandom confirmation unavailable.
+- **Garam Nord** — source-local aligned-witness lieutenant overseeing admission; direct Fandom confirmation unavailable.
+- **Sakkuth de Leviathan / Plague Leper** — source-local aligned-witness forms; Red Death creator, 666 life terms, voluntarily imprisoned to meet an unnamed person.
+- **Admission ceremony** — belongings inspection = magnetic axe-blade bridge; health examination = blood/bone/skin-consuming parasites; bath = boiling sulfur exposure.
+- **Black Tongue** — source-local title/name for a lieutenant colonel receiving examination reports; direct Fandom confirmation unavailable.
+- **Level Nine** — Vikir’s assigned floor after 3,000+ life terms; fully BDISSEM-lined solitary cells.
+- **Level Ten** — new deeper area currently under excavation for prisoners too dangerous even for Level Nine.
+- **Level Nine notorious-prisoner names** — keep source-local aligned-witness forms pending direct Fandom access; do not treat them as newly wiki-confirmed.
+- **The Underground Extension Construction** — next family targets366–368 / E364–E366.
+- **Prisoner Hunt** — begins target369 / E367.
+
 ## Voluntary Escort additions — Chapters 359–362
 
 - **Voluntary Escort** — accepted four-part family, targets359–362 / witnesses E357–E360.

@@ -1,0 +1,33 @@
+{
+  "chapter": 365,
+  "title": "Ghost Castle of the Ultra-Deep Sea (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Ghost Castle of the Ultra-Deep Sea",
+    "range": [
+      363,
+      365
+    ],
+    "family_qa_path": "qa/families/ghost-castle-0363-0365.md",
+    "family_qa_sha": "5bfd85f722bcb4a4dcac7a39e7b8a9503f11469b",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/365.txt",
+    "primary_source_sha": "fd7d661f0718784c6681d574c48f3a69da0bfdd0",
+    "english_reference_path": "source/chapters/chapter-363.xhtml",
+    "english_reference_sha": "e33a2d09c58d34952728c753154f94dd5a1a3708",
+    "draft_path": "manuscript/drafts/chapter-0365.md",
+    "draft_sha": "6e5c23223fbb42620ce8c196a2d08ac540a4e508",
+    "qa_path": "qa/chapter-0365.md",
+    "qa_sha": "2016cb79f41aef9dab51d9e0b8c0af1536c32ddd",
+    "provenance_path": "editorial/provenance/chapter-0365.json",
+    "provenance_sha": "b82f7acc95495cd37bec20f051f30c49b9d0f3f7"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Underground Extension Construction material from target366 is imported."
+  ]
+}

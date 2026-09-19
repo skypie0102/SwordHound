@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 362  
+**Accepted:** 365  
 **Staged:** 0  
-**Next chapter:** 363
+**Next chapter:** 366
 
-Latest accepted family: **Voluntary Escort (1)–(4)** — targets359–362 / E357–E360.  
-Family QA: `qa/families/voluntary-escort-0359-0362.md` — **PASS**.
+Latest accepted family: **Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets363–365 / E361–E363.  
+Family QA: `qa/families/ghost-castle-0363-0365.md` — **PASS**.
 
-Key decisions: BDISSEM remains compositionally unexplained; the demon-aligned escorts are exposed and captured; Vikir refuses all rescue offers; Isabella reveals Baskerville’s secret release order; and target362 ends with Nouvelle Vague coming into view through Decarabia’s shared vision.
+Key decisions: Nouvelle Vague’s nine-level structure is established; Sakkuth de Leviathan is a voluntary prisoner seeking an unnamed person; the three admission stages are lethal euphemistic survival tests; Vikir is assigned Level Nine; and Level Ten is actively being excavated below it.
 
-Next verified family: **Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets363–365 / E361–E363.  
-Following family: **The Underground Extension Construction (1)–(3)** — targets366–368 / E364–E366.
+Next verified family: **The Underground Extension Construction (1)–(3)** — targets366–368 / E364–E366.  
+Following family begins at **369→E367 — Prisoner Hunt (1)** and requires full boundary verification.

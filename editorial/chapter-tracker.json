@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 362,
+  "accepted_count": 365,
   "staged_count": 0,
-  "next_chapter": 363,
+  "next_chapter": 366,
   "active_title_family": {
-    "name": "Ghost Castle of the Ultra-Deep Sea",
+    "name": "The Underground Extension Construction",
     "range": [
-      363,
-      365
+      366,
+      368
     ],
-    "boundary_status": "verified complete: target363→E361 through target365→E363",
-    "following_family_starts": 366,
-    "following_title": "The Underground Extension Construction (1)",
-    "alignment_note": "363→E361 Ghost Castle (1) through 365→E363 (3); 366→E364 begins The Underground Extension Construction (1)."
+    "boundary_status": "verified complete: target366→E364 through target368→E366",
+    "following_family_starts": 369,
+    "following_title": "Prisoner Hunt (1)",
+    "alignment_note": "366→E364 The Underground Extension Construction (1), 367→E365 (2), 368→E366 (3); target369→E367 begins Prisoner Hunt (1)."
   },
   "chapters": [
     {
@@ -5083,6 +5083,48 @@
       "acceptance": "qa/acceptance/chapter-0362.json",
       "acceptance_sha": "f362c846c394bab9daf11a6151a94407d8c64a88",
       "family_qa": "qa/families/voluntary-escort-0359-0362.md"
+    },
+    {
+      "chapter": 363,
+      "title": "Ghost Castle of the Ultra-Deep Sea (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/363.txt",
+      "english_mtl_reference": "source/chapters/chapter-361.xhtml",
+      "draft": "manuscript/drafts/chapter-0363.md",
+      "qa": "qa/chapter-0363.md",
+      "provenance": "editorial/provenance/chapter-0363.json",
+      "acceptance": "qa/acceptance/chapter-0363.json",
+      "acceptance_sha": "0cc110333a574fb28156198c9addc1347a3fdea6",
+      "family_qa": "qa/families/ghost-castle-0363-0365.md"
+    },
+    {
+      "chapter": 364,
+      "title": "Ghost Castle of the Ultra-Deep Sea (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/364.txt",
+      "english_mtl_reference": "source/chapters/chapter-362.xhtml",
+      "draft": "manuscript/drafts/chapter-0364.md",
+      "qa": "qa/chapter-0364.md",
+      "provenance": "editorial/provenance/chapter-0364.json",
+      "acceptance": "qa/acceptance/chapter-0364.json",
+      "acceptance_sha": "52ec0cc07028cdeb2aa507a81ef17c8e7f183f08",
+      "family_qa": "qa/families/ghost-castle-0363-0365.md"
+    },
+    {
+      "chapter": 365,
+      "title": "Ghost Castle of the Ultra-Deep Sea (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/365.txt",
+      "english_mtl_reference": "source/chapters/chapter-363.xhtml",
+      "draft": "manuscript/drafts/chapter-0365.md",
+      "qa": "qa/chapter-0365.md",
+      "provenance": "editorial/provenance/chapter-0365.json",
+      "acceptance": "qa/acceptance/chapter-0365.json",
+      "acceptance_sha": "218aa218c119dc86974538d2af5e320f773054a9",
+      "family_qa": "qa/families/ghost-castle-0363-0365.md"
     }
   ]
 }

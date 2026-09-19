@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Ghost Castle of the Ultra-Deep Sea (1)–(3) accepted
+
+**Current state:** 365 / 500 accepted; 0 staged; next Chapter 366.
+
+Completed targets **363–365** with mapping **E361–E363**.
+
+Key decisions: Nouvelle Vague’s nine-level prison structure; Sakkuth de Leviathan’s voluntary surrender; three lethal admission stages hidden behind ordinary labels; Vikir’s Level Nine placement; and active construction of Level Ten beneath the prison.
+
+Family QA: `qa/families/ghost-castle-0363-0365.md` — **PASS**.
+
+Next verified family: **366–368 — The Underground Extension Construction (1)–(3)**, mapping **E364–E366**. Target369/E367 begins *Prisoner Hunt (1)*.
+
 ## 2026-09-19 — Voluntary Escort (1)–(4) accepted
 
 **Current state:** 362 / 500 accepted; 0 staged; next Chapter 363.

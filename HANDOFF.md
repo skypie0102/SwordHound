@@ -1,43 +1,43 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 362 / 500  
+**Accepted:** 365 / 500  
 **Staged:** 0  
-**Next target:** 363
+**Next target:** 366
 
 ## Latest accepted family
 
-**Voluntary Escort (1)–(4)** — targets **359–362**.
+**Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets **363–365**.
 
-- Family QA: `qa/families/voluntary-escort-0359-0362.md` — PASS.
-- Alignment: **359→E357 through 362→E360**.
-- BDISSEM remains a mysterious anti-mana / physical-restraint substance; exact composition is not explained.
-- Pedro Donquixote, Usher P. Isolde, and Thomas de Leviathan are demon-aligned escort representatives.
-- Thomas uses BDISSEM powder to suppress Isabella/Banshee/Mozgus/Lovebad temporarily.
-- Vikir breaks BDISSEM restraints/cage through a post-Hell-Tree title interaction and insists the ship must reach Nouvelle Vague.
-- Pedro/Isolde/Thomas fully demonize in target360 and are overwhelmed by Vikir’s Black Sun.
-- Target361 reveals their masters as Passamonte / Madeline / Hobbes and source-local demon true names **Chimeries / Andrealphus / Flauros**.
-- Interrogation remains narrative-only.
-- Banshee, Mozgus, and Lovebad all urge Vikir to escape.
-- Isabella reveals Baskerville’s secret order to free Vikir even if the convoy must be sunk.
-- Vikir refuses every escape offer and states he has waited nineteen years to enter Nouvelle Vague.
-- Maelstrom is the midnight intermediate gate; prisoners descend roughly 10,000 meters inside an Iron Maiden.
-- River Styx + tower resistance + aura prevent the Iron Maiden spikes from penetrating Vikir.
-- Surface escorts plan retrial and investigation of Passamonte/Madeline/Hobbes.
-- BDISSEM unexpectedly supplies enough oxygen for the deep-sea descent; mechanism remains unexplained.
-- Decarabia’s shared vision reveals the seaweed forest and Nouvelle Vague fortress.
-- Direct Fandom verification remains robots-blocked.
+- Family QA: `qa/families/ghost-castle-0363-0365.md` — PASS.
+- Alignment: **363→E361, 364→E362, 365→E363**.
+- Nouvelle Vague is a vast vertical prison carved into a dormant volcano beneath the ultra-deep sea.
+- Its main entrance is the black/white **Gate of Good and Evil**.
+- Official structure has nine levels; Vikir’s 3,021 life terms place him at Level Nine.
+- **Sakkuth de Leviathan / Plague Leper** is introduced as creator of the Red Death, expelled from Leviathan for human experimentation, sentenced to 666 life terms, and voluntarily imprisoned to meet an unnamed person.
+- Admission ceremony stages:
+  1. belongings inspection → axe-blade bridge with magnetic demolition balls;
+  2. medical examination → parasites consuming blood/bone/skin while guards record work fitness;
+  3. bath → boiling sulfur-water exposure.
+- Vikir crosses the blade bridge without mana through hardened calluses; Beelzebub and Decarabia are not magnetically affected.
+- Sakkuth’s blood/marrow poisons the examination parasites.
+- Dead admission candidates remain officially “alive and imprisoned” because they were not formally executed.
+- Level Nine cells are fully BDISSEM-lined.
+- Daily labor schedule leaves only three hours of sleep and a ten-minute meal.
+- Prison labor is excavating **Level Ten**, intended for inmates too dangerous even for Level Nine.
+- Solitary confinement is foreshadowed as worse than ordinary Level Nine; only one prisoner is rumored able to endure it.
+- Direct Fandom verification remains robots-blocked; source-local Level Nine names remain unverified.
 
 ## Next verified family
 
-**Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets **363–365** / **E361–E363**.
+**The Underground Extension Construction (1)–(3)** — targets **366–368** / **E364–E366**.
 
 Following family:
-- **The Underground Extension Construction (1)–(3)** — targets **366–368** / **E364–E366**.
+- **Prisoner Hunt (1)–(?)** begins target **369→E367**; determine full contiguous boundary before acceptance.
 
 ## Exact next actions
 
-1. Read C363–C365 completely against E361–E363.
-2. Reconstruct and QA Ghost Castle of the Ultra-Deep Sea (1)–(3).
+1. Read C366–C368 completely against E364–E366.
+2. Reconstruct and QA Underground Extension Construction (1)–(3).
 3. Merge it.
-4. Immediately continue into Underground Extension Construction (1)–(3).
+4. Immediately determine and continue the full Prisoner Hunt family beginning target369/E367.
