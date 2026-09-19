@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Shadowless King of the Black Sea (1)–(5) accepted
+
+**Current state:** 330 / 500 accepted; 0 staged; next Chapter 331.
+
+Completed targets **326–330** with mapping **E324–E328**.
+
+Key decisions: Vikir remains Level1 with all six stats; Beetlemen ship is raised via Daylily air sacs; the S-rank Shadowless King is an independent primordial creature; Beelzebub Slot2 remains Gargoyle; and the Daylily/pressure/Fire-of-Inferiority chain kills the monster.
+
+Family QA: `qa/families/shadowless-king-black-sea-0326-0330.md` — **PASS**.
+
+Next verified family: **331–332 — Draw (1)–(2)**, mapping **E329–E330**. The Mating Room follows targets333–336 / E331–E334.
+
 ## 2026-09-19 — Underdogma (1)–(5) accepted
 
 **Current state:** 325 / 500 accepted; 0 staged; next Chapter 326.
