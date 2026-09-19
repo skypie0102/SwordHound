@@ -1,3 +1,16 @@
+## The Eucharist additions — Chapters 268–269
+
+- **The Eucharist** — accepted two-part family, targets268–269 / witnesses E266–E267.
+- **Target268 shared-raw rule** — uses the remainder of `source/chinese/chapters/267.txt`; no internal Chapter-268 heading exists.
+- **Dolores / Night Hound fate thoughts** — unilateral Dolores interpretation; not reciprocal Vikir romance proof.
+- **Humbert demonic-residue clue** — strong connection to demonic activity without current possession/demon identity.
+- **Cult-gathering operation** — forged Martin Luther invitations reproduced through Baby Madam’s hardened silk.
+- **Predatory-target guard** — operation targets exploitative cults/heresies; harmless indigenous/local folk traditions are explicitly excluded.
+- **Ms. Ouroboros purge** — she independently appears and kills/maims major cult leaders before Imperial Guard arrival.
+- **Ohm ledger clue** — Decarabia extracts the hidden-ledger location; Dolores recovers it. Dominant funding/hiding-place name remains reveal-guarded until next family.
+- **Rich Friends** — next family targets270–272 / E268–E270.
+- **Money War** — begins target273 / E271.
+
 ## The Season of Redemption additions — Chapters 264–267
 
 - **The Season of Redemption** — accepted four-part family, targets264–267 / witnesses E262–E265.
