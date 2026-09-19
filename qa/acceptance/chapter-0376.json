@@ -1,0 +1,32 @@
+{
+  "chapter": 376,
+  "title": "Poseidon (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Poseidon",
+    "range": [
+      375,
+      376
+    ],
+    "family_qa_path": "qa/families/poseidon-0375-0376.md",
+    "family_qa_sha": "ac39c904ab0aaced6962a2f011a3ddbbd4a89559",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/376.txt",
+    "primary_source_sha": "e19bdfb634fc674695abbe5b182047d3cbd6f006",
+    "english_reference_path": "source/chapters/chapter-374.xhtml",
+    "english_reference_sha": "15f87e7810fd827921d791d08e04c8ccc16e514d",
+    "draft_path": "manuscript/drafts/chapter-0376.md",
+    "draft_sha": "6f39640f8c9b40ec013987f17d3f2c8fff35ef40",
+    "qa_path": "qa/chapter-0376.md",
+    "qa_sha": "586cc86dc9248dc38e26f303558c622c4b352322",
+    "provenance_path": "editorial/provenance/chapter-0376.json",
+    "provenance_sha": "a87d0f9e4cb19582114b24d5129a484376e83aab"
+  },
+  "documented_limits": [
+    "No The Hounds of Nouvelle Vague material from target377 is imported."
+  ]
+}

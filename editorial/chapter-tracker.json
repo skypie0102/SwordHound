@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 374,
+  "accepted_count": 376,
   "staged_count": 0,
-  "next_chapter": 375,
+  "next_chapter": 377,
   "active_title_family": {
-    "name": "Poseidon",
+    "name": "The Hounds of Nouvelle Vague",
     "range": [
-      375,
-      376
+      377,
+      380
     ],
-    "boundary_status": "verified complete: target375→E373 and target376→E374",
-    "following_family_starts": 377,
-    "following_title": "The Hounds of Nouvelle Vague (1)",
-    "alignment_note": "375→E373 Poseidon (1), 376→E374 Poseidon (2); 377→E375 begins The Hounds of Nouvelle Vague (1)."
+    "boundary_status": "verified complete: target377→E375 through target380→E378",
+    "following_family_starts": 381,
+    "following_title": null,
+    "alignment_note": "377→E375 through 380→E378; verify target381 family title before acceptance."
   },
   "chapters": [
     {
@@ -5251,6 +5251,34 @@
       "acceptance": "qa/acceptance/chapter-0374.json",
       "acceptance_sha": "21312dc0742b70868273274d7823ce698df2b154",
       "family_qa": "qa/families/sucker-shark-0373-0374.md"
+    },
+    {
+      "chapter": 375,
+      "title": "Poseidon (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/375.txt",
+      "english_mtl_reference": "source/chapters/chapter-373.xhtml",
+      "draft": "manuscript/drafts/chapter-0375.md",
+      "qa": "qa/chapter-0375.md",
+      "provenance": "editorial/provenance/chapter-0375.json",
+      "acceptance": "qa/acceptance/chapter-0375.json",
+      "acceptance_sha": "46a94e190bfbfd7bf102f23f139552eb8d52ce7c",
+      "family_qa": "qa/families/poseidon-0375-0376.md"
+    },
+    {
+      "chapter": 376,
+      "title": "Poseidon (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/376.txt",
+      "english_mtl_reference": "source/chapters/chapter-374.xhtml",
+      "draft": "manuscript/drafts/chapter-0376.md",
+      "qa": "qa/chapter-0376.md",
+      "provenance": "editorial/provenance/chapter-0376.json",
+      "acceptance": "qa/acceptance/chapter-0376.json",
+      "acceptance_sha": "437a3ce7652408b955b504ba01c13c8c881db5a0",
+      "family_qa": "qa/families/poseidon-0375-0376.md"
     }
   ]
 }

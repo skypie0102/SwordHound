@@ -1,3 +1,13 @@
+## Poseidon additions — Chapters 375–376
+
+- **Poseidon** — accepted two-part family, targets375–376 / witnesses E373–E374.
+- **Poseidon form** — approximately five-meter blue, egg-like sphere with aura-root structures.
+- **Poseidon growth** — absorbs external impact and grows stronger/larger from it.
+- **Long Rain of Terror** — five-month / 150-day final demonic weapon remembered as destroying 98% of surviving humanity.
+- **D'Ordume / Souaré promotion race** — D'Ordume forces Level Ten construction forward partly to beat Souaré in personnel evaluation.
+- **Bastille geological concern** — suspects Nouvelle Vague may be dormant rather than extinct and that a major failure could affect surface climate.
+- **The Hounds of Nouvelle Vague** — next family targets377–380 / E375–E378.
+
 ## Sucker Shark additions — Chapters 373–374
 
 - **Sucker Shark** — accepted two-part family, targets373–374 / witnesses E371–E372.
