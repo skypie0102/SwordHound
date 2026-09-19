@@ -13,3 +13,5 @@ Key decisions: family is five parts; stale outside-news chronology preserved; Ki
 
 Next verified family: **Kennel (1)–(3)** — targets382–384 / E380–E382.  
 Following: **The Rotten Dog of Nouvelle Vague (1)–(5)** — targets385–389 / E383–E387.
+
+Main reconciliation: accepted evidence, tracker, status, README, progress history, handoff, and glossary were checked against the Chapter381 merge. The authoritative checkpoint remains **381 / 500**, next **382**; no accepted chapter content changed.

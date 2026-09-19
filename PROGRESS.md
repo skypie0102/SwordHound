@@ -1,5 +1,11 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Main status reconciliation
+
+**No chapter-status change:** 381 / 500 accepted; 0 staged; next Chapter 382.
+
+Reconciled current main against tracker, acceptance, and family-QA evidence. Updated the stale README Chapter235 checkpoint/evidence summary and corrected superseded four-part Hounds references to the accepted **377–381 / E375–E379** boundary. No accepted chapter prose or QA evidence was altered.
+
 ## 2026-09-19 — The Hounds of Nouvelle Vague (1)–(5) accepted
 
 **Current state:** 381 / 500 accepted; 0 staged; next Chapter 382.
@@ -22,7 +28,7 @@ Key decisions: Poseidon is a roughly five-meter blue egg-like ancient weapon tha
 
 Family QA: `qa/families/poseidon-0375-0376.md` — **PASS**.
 
-Next verified family: **377–380 — The Hounds of Nouvelle Vague (1)–(4)**, mapping **E375–E378**.
+Next family was initially recorded as **377–380 — The Hounds of Nouvelle Vague (1)–(4)**; later source review corrected the complete family to **377–381 / E375–E379**.
 
 ## 2026-09-19 — Sucker Shark (1)–(2) accepted
 
