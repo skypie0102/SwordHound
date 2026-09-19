@@ -72,7 +72,7 @@ Everyone in the training yard turned.
 
 A giant entered.
 
-More than two meters tall.
+More than 2.3 meters tall.
 
 Near one hundred eighty kilograms.
 
