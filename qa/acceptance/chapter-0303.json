@@ -1,0 +1,36 @@
+{
+  "chapter": 303,
+  "title": "The Age of the Warmonger (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
+    "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
+    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/303.txt",
+    "primary_source_sha": "99b892c8037ed11cc81c263a5de49e8060e424b6",
+    "english_reference_path": "source/chapters/chapter-301.xhtml",
+    "english_reference_sha": "9916a5be320ddeaa6bbad0848711397cee741514",
+    "draft_path": "manuscript/drafts/chapter-0303.md",
+    "draft_sha": "d63068f3543258f2d408be9bf39a12809797f79f",
+    "qa_path": "qa/chapter-0303.md",
+    "qa_sha": "675416532bf44fa0ac2111d330d7027067c8a769",
+    "provenance_path": "editorial/provenance/chapter-0303.json",
+    "provenance_sha": "c03967709f985e6664bc14184079117582f6c739"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Hell Tree interior content from target307 is imported."
+  ],
+  "corrections": [
+    "Amdusias danger rating = S+ from Chinese, not shifted-English S."
+  ]
+}
