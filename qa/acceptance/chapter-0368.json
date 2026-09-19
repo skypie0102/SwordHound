@@ -1,0 +1,37 @@
+{
+  "chapter": 368,
+  "title": "The Underground Extension Construction (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Underground Extension Construction",
+    "range": [
+      366,
+      368
+    ],
+    "family_qa_path": "qa/families/underground-extension-0366-0368.md",
+    "family_qa_sha": "71737ec5d2a108e6c217b12b66995f7a67409118",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/368.txt",
+    "primary_source_sha": "be779866a6f3629e4d2b61ba9d7ca776dff533d0",
+    "english_reference_path": "source/chapters/chapter-366.xhtml",
+    "english_reference_sha": "d3658eed13f15f035fda9b66845a1d197fe3cb29",
+    "draft_path": "manuscript/drafts/chapter-0368.md",
+    "draft_sha": "6ca7d0dc26381fc8b9cbaa391118e6788888e072",
+    "qa_path": "qa/chapter-0368.md",
+    "qa_sha": "679c82dab9dbb3a8e6c39c0e06dcaff3ae684dee",
+    "provenance_path": "editorial/provenance/chapter-0368.json",
+    "provenance_sha": "af2279377c706dc5208591389fc3d14032038e28"
+  },
+  "canonical_checks": [
+    "Kirko Grimm",
+    "D'Ordume D'Orcdile",
+    "Garam Nord",
+    "Black Tongue",
+    "Lieutenant Bastille"
+  ],
+  "reveal_guard": "No The Servant material from target369 is imported."
+}
