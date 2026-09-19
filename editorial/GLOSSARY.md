@@ -1,3 +1,17 @@
+## Five Stars additions — Chapters 253–254
+
+- **Five Stars** — accepted two-part family, targets 253–254 / witnesses E251–E252.
+- **Baskerville five-star assignment** — childcare; completed when Pomeranian smiles for Vikir.
+- **Sinclaire eastbound-train clue** — she travels east despite choosing Quovadis; reason remains unrevealed.
+- **Senator** — target254 Baskerville active power rank granted to Vikir; carries broad personnel, military, and administrative authority.
+- **Vikir task-force plan** — Cindywendy, Chihuahua, MiniPin, plus later suitable jungle talent such as Aiyen.
+- **174 capital removals** — all demon-linked targets; ordinary anti-Baskerville political enemies were spared.
+- **Wraith Tree** — ancient black-magic artifact introduced through Pomeranian’s myth book; Vikir knows it is real.
+- **Morgue Tzersi** — distant Morgue ancestor associated with the Wraith Tree myth.
+- **Black Whistle** — Hugo grants it to Vikir as broad authority over Baskerville military forces.
+- **Eighth Fang clue** — Vikir associates the Wraith Tree location with the realm beyond Sword Master / Baskerville Eighth Fang.
+- **The Grave of Swords** — next family begins target255 / E253.
+
 ## Recap / Celebration Banquet additions — Chapters 250–252
 
 - **Recap (1)–(2)** — production English titles for targets 250–251 / witnesses E248–E249.
