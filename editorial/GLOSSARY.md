@@ -1,3 +1,15 @@
+## Trap additions — Chapters 339–340
+
+- **Trap** — accepted two-part family, targets339–340 / witnesses E337–E338.
+- **Lost Paradise** — Basement Floor10 source-local aligned-witness form; direct Fandom confirmation unavailable.
+- **Lost Paradise reward** — Dragon Majin escape/pursuit yields 50 golden Level candies and no item reward.
+- **Lost Paradise exchange rule** — full-value item resale; consumed stat candy can be extracted; pre-floor consumed candy yields a 1-per-10 bonus with random RGB color.
+- **Lost Paradise trap model** — comfort, cheap amenities, stat spending, reluctance to leave, and outside-contact attachment weaken challengers voluntarily.
+- **Corporal Janet test** — Vikir writes to the pre-regression 207th Regiment comrade; the instant impossible reply under the changed timeline triggers his deception inference.
+- **Letter-system interpretation guard** — memory/emotion-reading fabricated replies are Vikir's deduction, not narrator-confirmed cosmology.
+- **Choco** — Dolores's established name for Vikir's Picaresque black-dog form; she perceives/calls him Choco at target340 close for still-unresolved reasons.
+- **Private Life** — next family targets341–342 / E339–E340.
+
 ## The Mating Room additions — Chapters 333–338
 
 - **The Mating Room** — accepted six-part family, targets333–338 / witnesses E331–E336. Prior 333–336 boundary was incomplete.
