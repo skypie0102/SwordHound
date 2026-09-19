@@ -1,0 +1,44 @@
+{
+  "chapter": 221,
+  "title": "That Day, Him and Me (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
+    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/221.txt",
+    "primary_source_sha": "5c67124d92986ba285a9ad4066f6fd377ca1a7df",
+    "english_reference_path": "source/chapters/chapter-219.xhtml",
+    "english_reference_sha": "0fc493c78cb6b42a2316ef4c45e9bf7b04362ced",
+    "draft_path": "manuscript/drafts/chapter-0221.md",
+    "draft_sha": "a73b60fb8d76705b9024b66c59f1ab449803925d",
+    "qa_path": "qa/chapter-0221.md",
+    "qa_sha": "2f4b4572eaa26568033e00977173208e7348e416",
+    "provenance_path": "editorial/provenance/chapter-0221.json",
+    "provenance_sha": "d72b28f257a28679eef4d1197ccd897d95980b28"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Snake Morgue",
+    "Raspane Morgue",
+    "Adolf Morgue",
+    "Light Faction",
+    "Dark Faction",
+    "Art of Complete Resurrection"
+  ],
+  "documented_limits": [
+    "Camus is explicitly seventeen.",
+    "Sexual provocation remains brief/non-erotic.",
+    "Snake's taboo love for Raspane is not romanticized."
+  ],
+  "next_family_alignment_note": "Target225→E223 begins Tuition (1)."
+}
