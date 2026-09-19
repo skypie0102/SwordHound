@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 278,
+  "accepted_chapters": 282,
   "staged_chapters": 0,
-  "next_chapter": 279,
+  "next_chapter": 283,
   "latest_accepted_family": {
-    "name": "Money War",
-    "range": [
-      273,
-      278
-    ],
-    "family_qa": "qa/families/money-war-0273-0278.md"
-  },
-  "next_title_family": {
     "name": "What Money Can't Buy",
     "range": [
       279,
       282
     ],
-    "boundary_status": "verified complete",
-    "following_family_starts": 283,
-    "following_title": "Time Flies (1)",
-    "alignment_note": "279→E277 through 282→E280; 283→E281 begins Time Flies (1)"
+    "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
+  },
+  "next_title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "boundary_status": "verified complete; targets284-285 share raw 284.txt",
+    "following_family_starts": 291,
+    "following_title": "The Successors (1)",
+    "alignment_note": "283→E281 through 290→E288; 291→E289 begins The Successors (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -340,9 +340,20 @@
     275,
     276,
     277,
-    278
+    278,
+    279,
+    280,
+    281,
+    282
   ],
   "notes": [
+    "Chapters279-282 accepted as What Money Can't Buy (1)-(4), mapping E277-E280.",
+    "Juliet survived the carriage crash physically but became a living spirit separated from her body; Romeo died.",
+    "Pomeranian uses the Wraith Tree to summon Juliet and Romeo; Damien reconciles with them and recognizes their marriage.",
+    "Juliet chooses to follow Romeo through the Gate of Death; Damien allows her choice and later gives Vikir the head of House Bourgeois as agreed.",
+    "Bartolomeo's outsider dinners occur inside a 100m-cube vault with mithril/orichalcon and extensive anti-teleportation layers; Pit Bull Knights needed two hours to breach it.",
+    "Vikir now treats Bartolomeo as almost certainly the Sixth Corpse; Damien was not previously aware of the demon identity.",
+    "Next family is Power Inflation, not the stale Time Flies label: targets283-290 / E281-E288. Targets284-285 share raw 284.txt. The Successors begins target291/E289.",
     "Chapters273-278 accepted as Money War (1)-(6), mapping E271-E276.",
     "Oracle's apparent market-prediction genius is a probability-filtering scheme followed by a genuine Cindywendy trade payoff.",
     "Dolores declines to expose Night Hound with Mirror of Truth despite growing Academy-insider suspicion.",
