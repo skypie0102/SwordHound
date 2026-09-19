@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 365  
+**Accepted:** 368  
 **Staged:** 0  
-**Next chapter:** 366
+**Next chapter:** 369
 
-Latest accepted family: **Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets363–365 / E361–E363.  
-Family QA: `qa/families/ghost-castle-0363-0365.md` — **PASS**.
+Latest accepted family: **The Underground Extension Construction (1)–(3)** — targets366–368 / E364–E366.  
+Family QA: `qa/families/underground-extension-0366-0368.md` — **PASS**.
 
-Key decisions: Nouvelle Vague’s nine-level structure is established; Sakkuth de Leviathan is a voluntary prisoner seeking an unnamed person; the three admission stages are lethal euphemistic survival tests; Vikir is assigned Level Nine; and Level Ten is actively being excavated below it.
+Key decisions: labor-control mechanics and Level10 excavation are established; Vikir intentionally triggers a Level9 riot response; Kirko Grimm and D'Ordume D'Orcdile are source-timed introductions with fresh Fandom-index canonical verification; and the previous “Prisoner Hunt” label for target369 is corrected.
 
-Next verified family: **The Underground Extension Construction (1)–(3)** — targets366–368 / E364–E366.  
-Following family begins at **369→E367 — Prisoner Hunt (1)** and requires full boundary verification.
+Next verified family: **The Servant (1)–(2)** — targets369–370 / E367–E368.  
+Following: **Solitary Confinement (1)–(2)** — 371–372 / E369–E370; **Sucker Shark (1)–(2)** — 373–374 / E371–E372.

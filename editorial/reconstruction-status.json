@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 365,
+  "accepted_chapters": 368,
   "staged_chapters": 0,
-  "next_chapter": 366,
+  "next_chapter": 369,
   "latest_accepted_family": {
-    "name": "Ghost Castle of the Ultra-Deep Sea",
-    "range": [
-      363,
-      365
-    ],
-    "family_qa": "qa/families/ghost-castle-0363-0365.md"
-  },
-  "next_title_family": {
     "name": "The Underground Extension Construction",
     "range": [
       366,
       368
     ],
+    "family_qa": "qa/families/underground-extension-0366-0368.md"
+  },
+  "next_title_family": {
+    "name": "The Servant",
+    "range": [
+      369,
+      370
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 369,
-    "following_title": "Prisoner Hunt (1)",
-    "alignment_note": "366→E364 through 368→E366; 369→E367 begins Prisoner Hunt (1)."
+    "following_family_starts": 371,
+    "following_title": "Solitary Confinement (1)",
+    "alignment_note": "369→E367, 370→E368; 371→E369 begins Solitary Confinement."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -427,9 +427,18 @@
     362,
     363,
     364,
-    365
+    365,
+    366,
+    367,
+    368
   ],
   "notes": [
+    "Chapters366-368 accepted as The Underground Extension Construction (1)-(3), mapping E364-E366.",
+    "Fresh Fandom-index canonical checks confirm Kirko Grimm, D'Ordume D'Orcdile, Garam Nord, Black Tongue, and Lieutenant Bastille.",
+    "Vikir deliberately refuses labor to test the Level9 riot response and draw out the prison hierarchy.",
+    "Kirko Grimm appears as a highly talented young lieutenant; D'Ordume D'Orcdile appears at target368 as one of the Five Wardens.",
+    "Earlier handoff label 'Prisoner Hunt' for target369 was incorrect; verified next family is The Servant targets369-370 / E367-E368.",
+    "Solitary Confinement begins target371/E369.",
     "Chapters363-365 accepted as Ghost Castle of the Ultra-Deep Sea (1)-(3), mapping E361-E363.",
     "Nouvelle Vague is a vertical dormant-volcano prison entered through the Gate of Good and Evil.",
     "Admission ceremony stages are blade-bridge/magnetic inspection, parasite health examination, and boiling sulfur bath.",

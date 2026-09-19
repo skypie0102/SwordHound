@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Underground Extension Construction (1)–(3) accepted
+
+**Current state:** 368 / 500 accepted; 0 staged; next Chapter 369.
+
+Completed targets **366–368** with mapping **E364–E366**.
+
+Key decisions: Level10 labor mechanics; Sakkuth/Garam continuity; Vikir’s deliberate Level9 work refusal and riot test; fresh Fandom-index confirmation of Kirko Grimm / D'Ordume D'Orcdile / Garam Nord / Black Tongue / Lieutenant Bastille; and correction of the next family from the stale “Prisoner Hunt” label to **The Servant (1)–(2)**.
+
+Family QA: `qa/families/underground-extension-0366-0368.md` — **PASS**.
+
+Next verified family: **369–370 — The Servant (1)–(2)**, mapping **E367–E368**.
+
 ## 2026-09-19 — Ghost Castle of the Ultra-Deep Sea (1)–(3) accepted
 
 **Current state:** 365 / 500 accepted; 0 staged; next Chapter 366.

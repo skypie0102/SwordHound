@@ -1,3 +1,17 @@
+## Underground Extension Construction additions — Chapters 366–368
+
+- **The Underground Extension Construction** — accepted three-part family, targets366–368 / witnesses E364–E366.
+- **Kirko Grimm** — freshly verified canonical English form through designated Fandom index; young Nouvelle Vague lieutenant introduced in target368.
+- **D'Ordume D'Orcdile** — freshly verified canonical English form through designated Fandom index; one of Nouvelle Vague’s Five Wardens.
+- **Garam Nord** — freshly verified canonical English form; mocked as “Stupid Garam.”
+- **Black Tongue** — freshly verified canonical English form through designated Fandom index.
+- **Lieutenant Bastille** — freshly verified Fandom page/title form; production may describe source rank context without inventing later hierarchy.
+- **Level10 excavation motive** — Vikir still seeks an unrevealed object beneath Nouvelle Vague; Decarabia says it is nearby.
+- **Level9 riot response** — a simple labor refusal triggers the highest emergency response.
+- **Next-family correction** — stale handoff “Prisoner Hunt” label rejected. Target369→E367 begins **The Servant (1)**; target370→E368 is **The Servant (2)**.
+- **Solitary Confinement** — targets371–372 / E369–E370.
+- **Sucker Shark** — targets373–374 / E371–E372.
+
 ## Ghost Castle of the Ultra-Deep Sea additions — Chapters 363–365
 
 - **Ghost Castle of the Ultra-Deep Sea** — accepted three-part family, targets363–365 / witnesses E361–E363.

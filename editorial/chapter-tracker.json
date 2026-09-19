@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 365,
+  "accepted_count": 368,
   "staged_count": 0,
-  "next_chapter": 366,
+  "next_chapter": 369,
   "active_title_family": {
-    "name": "The Underground Extension Construction",
+    "name": "The Servant",
     "range": [
-      366,
-      368
+      369,
+      370
     ],
-    "boundary_status": "verified complete: target366→E364 through target368→E366",
-    "following_family_starts": 369,
-    "following_title": "Prisoner Hunt (1)",
-    "alignment_note": "366→E364 The Underground Extension Construction (1), 367→E365 (2), 368→E366 (3); target369→E367 begins Prisoner Hunt (1)."
+    "boundary_status": "verified complete: target369→E367 and target370→E368",
+    "following_family_starts": 371,
+    "following_title": "Solitary Confinement (1)",
+    "alignment_note": "369→E367 The Servant (1), 370→E368 The Servant (2); 371→E369 begins Solitary Confinement (1)."
   },
   "chapters": [
     {
@@ -5125,6 +5125,48 @@
       "acceptance": "qa/acceptance/chapter-0365.json",
       "acceptance_sha": "218aa218c119dc86974538d2af5e320f773054a9",
       "family_qa": "qa/families/ghost-castle-0363-0365.md"
+    },
+    {
+      "chapter": 366,
+      "title": "The Underground Extension Construction (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/366.txt",
+      "english_mtl_reference": "source/chapters/chapter-364.xhtml",
+      "draft": "manuscript/drafts/chapter-0366.md",
+      "qa": "qa/chapter-0366.md",
+      "provenance": "editorial/provenance/chapter-0366.json",
+      "acceptance": "qa/acceptance/chapter-0366.json",
+      "acceptance_sha": "d12552f4e09b02fc1e9d605e928de9b85cb19b43",
+      "family_qa": "qa/families/underground-extension-0366-0368.md"
+    },
+    {
+      "chapter": 367,
+      "title": "The Underground Extension Construction (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/367.txt",
+      "english_mtl_reference": "source/chapters/chapter-365.xhtml",
+      "draft": "manuscript/drafts/chapter-0367.md",
+      "qa": "qa/chapter-0367.md",
+      "provenance": "editorial/provenance/chapter-0367.json",
+      "acceptance": "qa/acceptance/chapter-0367.json",
+      "acceptance_sha": "6ac63a0680f95c79de808de1a44b6f771174f0d3",
+      "family_qa": "qa/families/underground-extension-0366-0368.md"
+    },
+    {
+      "chapter": 368,
+      "title": "The Underground Extension Construction (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/368.txt",
+      "english_mtl_reference": "source/chapters/chapter-366.xhtml",
+      "draft": "manuscript/drafts/chapter-0368.md",
+      "qa": "qa/chapter-0368.md",
+      "provenance": "editorial/provenance/chapter-0368.json",
+      "acceptance": "qa/acceptance/chapter-0368.json",
+      "acceptance_sha": "9075fe3e3971fd01d44b848f15d6eb042fa4ca53",
+      "family_qa": "qa/families/underground-extension-0366-0368.md"
     }
   ]
 }
