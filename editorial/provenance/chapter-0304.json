@@ -1,0 +1,38 @@
+{
+  "chapter": 304,
+  "title": "The Age of the Warmonger (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
+    "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
+    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/304.txt",
+    "blob_sha": "49821354ea646cbd5bf00224933d3ae8210f69f5",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-302.xhtml",
+    "blob_sha": "a76c64ae0b561d3523ecbab19aab526a3f171bdb",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0304.md",
+    "blob_sha": "8b905b80c42af04746146483175e3a4ae23edf3a"
+  },
+  "qa": {
+    "path": "qa/chapter-0304.md",
+    "blob_sha": "1d7ec40aa3f6721290d97c6b0de6905320fb3ff1",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_correction": "Aligned E302 resolves the sea-voyage ambiguity: Winston's partner tells the sailors to throw him overboard."
+}
