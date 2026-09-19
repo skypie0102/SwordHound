@@ -1,0 +1,36 @@
+{
+  "chapter": 356,
+  "title": "Crime and Punishment (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Crime and Punishment",
+    "range": [
+      356,
+      358
+    ],
+    "family_qa_path": "qa/families/crime-punishment-0356-0358.md",
+    "family_qa_sha": "2cde4c25f4c3d52143d9dd3f9e1fc49f672f85e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/356.txt",
+    "primary_source_sha": "d1620b1d37c5df285976482be970e06796c2aa78",
+    "english_reference_path": "source/chapters/chapter-354.xhtml",
+    "english_reference_sha": "aee0b5d0ce6b6e5ab021eb1a58e6620f286583f3",
+    "draft_path": "manuscript/drafts/chapter-0356.md",
+    "draft_sha": "0b46fb1f4ee36ae1a767d8f5600fb384cca6361e",
+    "qa_path": "qa/chapter-0356.md",
+    "qa_sha": "d9292f6349e4a537aef79894c7330ea788ed7cfb",
+    "provenance_path": "editorial/provenance/chapter-0356.json",
+    "provenance_sha": "dac4356cc3b102ae23bff7576fc7d5dcf1206f76"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Voluntary Escort material from target359 is imported."
+  ],
+  "corrections": [
+    "Chinese local Crime and Punishment part labels are offset by +1; production follows verified E354-E356 order."
+  ]
+}
