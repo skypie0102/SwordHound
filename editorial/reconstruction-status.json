@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 267,
+  "accepted_chapters": 269,
   "staged_chapters": 0,
-  "next_chapter": 268,
+  "next_chapter": 270,
   "latest_accepted_family": {
-    "name": "The Season of Redemption",
-    "range": [
-      264,
-      267
-    ],
-    "family_qa": "qa/families/season-redemption-0264-0267.md"
-  },
-  "next_title_family": {
     "name": "The Eucharist",
     "range": [
       268,
       269
     ],
+    "family_qa": "qa/families/eucharist-0268-0269.md"
+  },
+  "next_title_family": {
+    "name": "Rich Friends",
+    "range": [
+      270,
+      272
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 270,
-    "following_title": "Rich Friends (1)",
-    "alignment_note": "268→E266, 269→E267; 270→E268 begins Rich Friends"
+    "following_family_starts": 273,
+    "following_title": "Money War (1)",
+    "alignment_note": "270→E268 through 272→E270; 273→E271 begins Money War (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -329,9 +329,18 @@
     264,
     265,
     266,
-    267
+    267,
+    268,
+    269
   ],
   "notes": [
+    "Chapters268-269 accepted as The Eucharist (1)-(2), mapping E266-E267.",
+    "Target268 uses the remainder of shared raw 267.txt; no internal Chapter-268 heading exists.",
+    "Humbert remains demon-connected but not himself a demon; Dolores still cannot reproduce her Dantalian buff at will.",
+    "Target269 gathers predatory cult leaders using forged Martin Luther invitations; harmless folk/indigenous traditions are explicitly excluded.",
+    "Ms. Ouroboros performs most of the purge; her motives remain unresolved beyond anti-demon hostility and pursuit of Night Hound.",
+    "Decarabia extracts Ohm's ledger clue; the dominant counterparty/hiding-place name remains reveal-guarded for the following family.",
+    "Next family Rich Friends verified targets270-272 / E268-E270; Money War begins target273/E271.",
     "Chapters264-267 accepted as The Season of Redemption (1)-(4), mapping E262-E265.",
     "Pigi remains male despite local Chinese pronoun drift.",
     "Sixth Corpse is historically close to Dantalian; Old Testament indulgence trade carries Sixth-Corpse residue.",

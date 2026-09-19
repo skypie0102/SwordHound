@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 267,
+  "accepted_count": 269,
   "staged_count": 0,
-  "next_chapter": 268,
+  "next_chapter": 270,
   "active_title_family": {
-    "name": "The Eucharist",
+    "name": "Rich Friends",
     "range": [
-      268,
-      269
+      270,
+      272
     ],
-    "boundary_status": "verified complete: target268→E266 and target269→E267; target268 shares raw 267.txt with target267",
-    "following_family_starts": 270,
-    "following_title": "Rich Friends (1)",
-    "alignment_note": "268→E266 The Eucharist (1), 269→E267 The Eucharist (2); 270→E268 begins Rich Friends (1)"
+    "boundary_status": "verified complete: target270→E268 through target272→E270",
+    "following_family_starts": 273,
+    "following_title": "Money War (1)",
+    "alignment_note": "270→E268 Rich Friends (1), 271→E269 Rich Friend (2), 272→E270 Rich Friend (3); 273→E271 begins Money War (1)"
   },
   "chapters": [
     {
@@ -3753,6 +3753,34 @@
       "acceptance": "qa/acceptance/chapter-0267.json",
       "acceptance_sha": "e3110ca9841decab5c7add89d5a08428f9b3b872",
       "family_qa": "qa/families/season-redemption-0264-0267.md"
+    },
+    {
+      "chapter": 268,
+      "title": "The Eucharist (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/267.txt",
+      "english_mtl_reference": "source/chapters/chapter-266.xhtml",
+      "draft": "manuscript/drafts/chapter-0268.md",
+      "qa": "qa/chapter-0268.md",
+      "provenance": "editorial/provenance/chapter-0268.json",
+      "acceptance": "qa/acceptance/chapter-0268.json",
+      "acceptance_sha": "55314321ab71b839a6902ac62d61b808203675c1",
+      "family_qa": "qa/families/eucharist-0268-0269.md"
+    },
+    {
+      "chapter": 269,
+      "title": "The Eucharist (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/269.txt",
+      "english_mtl_reference": "source/chapters/chapter-267.xhtml",
+      "draft": "manuscript/drafts/chapter-0269.md",
+      "qa": "qa/chapter-0269.md",
+      "provenance": "editorial/provenance/chapter-0269.json",
+      "acceptance": "qa/acceptance/chapter-0269.json",
+      "acceptance_sha": "40eab33ade6fcbbd71d87faffe58b5b523539173",
+      "family_qa": "qa/families/eucharist-0268-0269.md"
     }
   ]
 }
