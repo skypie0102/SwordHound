@@ -1,0 +1,33 @@
+{
+  "chapter": 336,
+  "title": "The Mating Room (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Mating Room",
+    "range": [
+      333,
+      338
+    ],
+    "family_qa_path": "qa/families/mating-room-0333-0338.md",
+    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/336.txt",
+    "primary_source_sha": "ee50f1b2a2affd75ae91b8b60da82928a16d6a38",
+    "english_reference_path": "source/chapters/chapter-334.xhtml",
+    "english_reference_sha": "a0d6f62e760747fb8e6597d31f11e5e04b296cde",
+    "draft_path": "manuscript/drafts/chapter-0336.md",
+    "draft_sha": "d6ac99fab9ccfb0458d3de304fe3365f5c9e2e4c",
+    "qa_path": "qa/chapter-0336.md",
+    "qa_sha": "fe0e7a4fbdca31cb84032aeee5160d232f77ecf6",
+    "provenance_path": "editorial/provenance/chapter-0336.json",
+    "provenance_sha": "3f9b57d45c706a727c24565098472e44e0607469"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Trap-family material from target339 is imported."
+  ]
+}
