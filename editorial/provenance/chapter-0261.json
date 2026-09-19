@@ -1,0 +1,37 @@
+{
+  "chapter": 261,
+  "title": "The Inverted Pentagram (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Inverted Pentagram",
+    "range": [
+      261,
+      263
+    ],
+    "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
+    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/261.txt",
+    "blob_sha": "b070d2a1e02771494d00e5a695d94ec5c737b057",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-259.xhtml",
+    "blob_sha": "e2dfe47b87632ceb2b196c29d33dc47893bb8ad9",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0261.md",
+    "blob_sha": "78b49f8a68aee7352bdcfa6be9345c837d504170"
+  },
+  "qa": {
+    "path": "qa/chapter-0261.md",
+    "blob_sha": "d296d732bd1c290e2aee611417fa361dd2ed8987",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
