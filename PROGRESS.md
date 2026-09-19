@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Servant (1)–(2) accepted
+
+**Current state:** 370 / 500 accepted; 0 staged; next Chapter 371.
+
+Completed targets **369–370** with mapping **E367–E368**.
+
+Key decisions: D'Ordume D'Orcdile’s saltwater-crocodile beastfolk reveal; Vikir’s no-mana terrain fight; deliberate surrender; 100-day solitary-confinement sentence; and preservation of the unresolved nineteen-years-ago prison incident.
+
+Family QA: `qa/families/servant-0369-0370.md` — **PASS**.
+
+Next verified family: **371–372 — Solitary Confinement (1)–(2)**, mapping **E369–E370**.
+
 ## 2026-09-19 — The Underground Extension Construction (1)–(3) accepted
 
 **Current state:** 368 / 500 accepted; 0 staged; next Chapter 369.
