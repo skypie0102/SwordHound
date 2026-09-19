@@ -1,0 +1,41 @@
+{
+  "chapter": 370,
+  "title": "The Servant (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Servant",
+    "range": [
+      369,
+      370
+    ],
+    "family_qa_path": "qa/families/servant-0369-0370.md",
+    "family_qa_sha": "252295d65f520aad8536e16934099c2a0503e56c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/370.txt",
+    "blob_sha": "6507aafe5557f09fbc375217c4277c51ee5e9589",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-368.xhtml",
+    "blob_sha": "eb91d38b8cbf22937fa4306124b0f45e09807a5a",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0370.md",
+    "blob_sha": "83e76b9818f6bc7866db2c5e6de5102682d6f277"
+  },
+  "qa": {
+    "path": "qa/chapter-0370.md",
+    "blob_sha": "ea09c6b7e1ce10cccdce07d159a05e2444a06a6f",
+    "status": "pass"
+  },
+  "canonical_reference": "Designated Fandom index confirms D'Ordume D'Orcdile and Kirko Grimm; later spoilers not imported.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "key_reveals": [
+    "D'Ordume is saltwater-crocodile beastfolk.",
+    "Vikir receives 100 days of solitary confinement after deliberately surrendering."
+  ]
+}

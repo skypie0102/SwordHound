@@ -1,0 +1,32 @@
+{
+  "chapter": 370,
+  "title": "The Servant (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Servant",
+    "range": [
+      369,
+      370
+    ],
+    "family_qa_path": "qa/families/servant-0369-0370.md",
+    "family_qa_sha": "252295d65f520aad8536e16934099c2a0503e56c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/370.txt",
+    "primary_source_sha": "6507aafe5557f09fbc375217c4277c51ee5e9589",
+    "english_reference_path": "source/chapters/chapter-368.xhtml",
+    "english_reference_sha": "eb91d38b8cbf22937fa4306124b0f45e09807a5a",
+    "draft_path": "manuscript/drafts/chapter-0370.md",
+    "draft_sha": "83e76b9818f6bc7866db2c5e6de5102682d6f277",
+    "qa_path": "qa/chapter-0370.md",
+    "qa_sha": "ea09c6b7e1ce10cccdce07d159a05e2444a06a6f",
+    "provenance_path": "editorial/provenance/chapter-0370.json",
+    "provenance_sha": "af8c907b3f109d90f8430b903b2673bf57b0b7df"
+  },
+  "documented_limits": [
+    "No Solitary Confinement material from target371 is imported."
+  ]
+}
