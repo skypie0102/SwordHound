@@ -1,0 +1,37 @@
+{
+  "chapter": 277,
+  "title": "Money War (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Money War",
+    "range": [
+      273,
+      278
+    ],
+    "family_qa_path": "qa/families/money-war-0273-0278.md",
+    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/277.txt",
+    "blob_sha": "18fb6d58f321d69b08cf3934f79fc3e2213b14f2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-275.xhtml",
+    "blob_sha": "eb33e3fbb03625ce00f9371e7a22b936b301e272",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0277.md",
+    "blob_sha": "06ab98be7725fa579bdb1bc4d400a7c91d64c056"
+  },
+  "qa": {
+    "path": "qa/chapter-0277.md",
+    "blob_sha": "668f78316d31232be5fead6924f7345db587a2e6",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Bartolomeo / Sinan Saltsail / Puss in Boots / Juliet / Bahamut remain source-local pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
