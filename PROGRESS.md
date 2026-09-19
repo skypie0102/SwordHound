@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Five Stars (1)–(2) accepted
+
+**Current state:** 254 / 500 accepted; 0 staged; next Chapter 255.
+
+Completed targets **253–254** with mapping **253→E251, 254→E252**.
+
+Key decisions: the Baskerville five-star task is childcare and clears immediately when Pomeranian smiles; Sinclaire’s eastbound trip remains unexplained; Vikir is promoted to Senator while retaining his Imperial Capital special-agent role; task-force candidates include Cindywendy, Chihuahua, MiniPin, and jungle talent; the 174 capital targets were demon-linked; Hugo gives Vikir the Black Whistle / broad military command authority; and the Wraith Tree location is tied to a clue toward the Eighth Fang.
+
+Family QA: `qa/families/five-stars-0253-0254.md` — **PASS**.
+
+Next verified start: **255→E253 — The Grave of Swords (1)**.
+
 ## 2026-09-19 — Recap (1)–(2) / Celebration Banquet (3) accepted
 
 **Current state:** 252 / 500 accepted; 0 staged; next Chapter 253.

@@ -1,0 +1,60 @@
+{
+  "chapter": 253,
+  "title": "Five Stars (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Five Stars",
+    "range": [
+      253,
+      254
+    ],
+    "family_qa_path": "qa/families/five-stars-0253-0254.md",
+    "family_qa_sha": "5a5057161dfd291cf7215821ea812730e23f376d",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/253.txt",
+    "blob_sha": "7802d6adc4174defff777a63367474c4878b53a0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-251.xhtml",
+    "blob_sha": "2b7a5185cc5b9ea6fba5ac1766248e842a13c2ee",
+    "target_alignment": 253,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0253.md",
+    "blob_sha": "bf6101f3b888f922085f478a1c65e611e91ccfd5"
+  },
+  "qa": {
+    "path": "qa/chapter-0253.md",
+    "blob_sha": "7a38dbd110239176b235ab64c73f01c36d6120c0",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "assignment",
+      "final": "Five-star Baskerville assignment is childcare and clears when Pomeranian smiles for Vikir.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "sinclaire",
+      "final": "Eastbound travel despite Quovadis selection remains unexplained.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "hugo",
+      "final": "Domestic softening coexists with unchanged Sword Master / head-of-house authority.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target254/E252 continues Five Stars (2).",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    }
+  ],
+  "canonical_reference_limit": "Direct Fandom verification remained blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
