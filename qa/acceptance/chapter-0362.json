@@ -1,0 +1,33 @@
+{
+  "chapter": 362,
+  "title": "Voluntary Escort (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Voluntary Escort",
+    "range": [
+      359,
+      362
+    ],
+    "family_qa_path": "qa/families/voluntary-escort-0359-0362.md",
+    "family_qa_sha": "99bc680e15694db0fcb6ed22965693f3e71e34d4",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/362.txt",
+    "primary_source_sha": "627d785fa212d063f860160858794f4a12b06f65",
+    "english_reference_path": "source/chapters/chapter-360.xhtml",
+    "english_reference_sha": "97d6603dad29a54477e4247e75e222cb98238ba4",
+    "draft_path": "manuscript/drafts/chapter-0362.md",
+    "draft_sha": "6799c226400d59fb00576eaf88e788574cd6e75e",
+    "qa_path": "qa/chapter-0362.md",
+    "qa_sha": "56445cd7575b4346d64493cb1cc5f3688195cbb1",
+    "provenance_path": "editorial/provenance/chapter-0362.json",
+    "provenance_sha": "0c46185a0d7d8683b3df6838ec869effd64e3c8e"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Ghost Castle material from target363 is imported."
+  ]
+}

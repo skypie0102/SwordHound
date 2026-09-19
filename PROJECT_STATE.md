@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 358  
+**Accepted:** 362  
 **Staged:** 0  
-**Next chapter:** 359
+**Next chapter:** 363
 
-Latest accepted family: **Crime and Punishment (1)–(3)** — targets356–358 / E354–E356.  
-Family QA: `qa/families/crime-punishment-0356-0358.md` — **PASS**.
+Latest accepted family: **Voluntary Escort (1)–(4)** — targets359–362 / E357–E360.  
+Family QA: `qa/families/voluntary-escort-0359-0362.md` — **PASS**.
 
-Key decisions: Chinese family part labels are offset by one; Dolores’s mitigation plan is redirected toward the Gate of Destruction; the jury splits 4–3; Vikir receives 3,021 no-parole life terms in Nouvelle Vague; Cindywendy/Osiris is revealed; and the family closes with Vikir ordering ark preparations.
+Key decisions: BDISSEM remains compositionally unexplained; the demon-aligned escorts are exposed and captured; Vikir refuses all rescue offers; Isabella reveals Baskerville’s secret release order; and target362 ends with Nouvelle Vague coming into view through Decarabia’s shared vision.
 
-Next verified family: **Voluntary Escort (1)–(4)** — targets359–362 / E357–E360.  
-Following family begins at **363→E361 — Ghost Castle of the Ultra-Deep Sea (1)**.
+Next verified family: **Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets363–365 / E361–E363.  
+Following family: **The Underground Extension Construction (1)–(3)** — targets366–368 / E364–E366.

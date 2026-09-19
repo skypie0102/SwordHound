@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Voluntary Escort (1)–(4) accepted
+
+**Current state:** 362 / 500 accepted; 0 staged; next Chapter 363.
+
+Completed targets **359–362** with mapping **E357–E360**.
+
+Key decisions: BDISSEM remains mysterious; Vikir breaks the restraints after Hell Tree progression; the three demon-aligned escorts expose their masters and are captured; all four loyal escorts offer/enable escape; Vikir refuses because Nouvelle Vague is his intended destination; and target362 ends with the prison coming into view.
+
+Family QA: `qa/families/voluntary-escort-0359-0362.md` — **PASS**.
+
+Next verified family: **363–365 — Ghost Castle of the Ultra-Deep Sea (1)–(3)**, mapping **E361–E363**.
+
 ## 2026-09-19 — Crime and Punishment (1)–(3) accepted
 
 **Current state:** 358 / 500 accepted; 0 staged; next Chapter 359.

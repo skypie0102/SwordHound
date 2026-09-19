@@ -1,0 +1,37 @@
+{
+  "chapter": 360,
+  "title": "Voluntary Escort (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Voluntary Escort",
+    "range": [
+      359,
+      362
+    ],
+    "family_qa_path": "qa/families/voluntary-escort-0359-0362.md",
+    "family_qa_sha": "99bc680e15694db0fcb6ed22965693f3e71e34d4",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/360.txt",
+    "blob_sha": "00b8407a0f6da8d66561e2139e6507ad22661613",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-358.xhtml",
+    "blob_sha": "a0d5f65eb217fb344ade3f0102e224e1e1760c2f",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0360.md",
+    "blob_sha": "3c000e927d2664ac80d97baaf82821e667838c73"
+  },
+  "qa": {
+    "path": "qa/chapter-0360.md",
+    "blob_sha": "73dfd27c1a1c0701da24eb42130d6e1a935c33e3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local names/forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

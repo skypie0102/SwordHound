@@ -1,3 +1,19 @@
+## Voluntary Escort additions — Chapters 359–362
+
+- **Voluntary Escort** — accepted four-part family, targets359–362 / witnesses E357–E360.
+- **BDISSEM** — source-local witness spelling for the anti-mana / physical-restraint material; composition remains unknown.
+- **Pedro Donquixote / Usher P. Isolde / Thomas de Leviathan** — source-local aligned-witness escort names; direct Fandom confirmation unavailable.
+- **Lovebad Bourgeois** — source-local aligned-witness escort form; direct Fandom confirmation unavailable.
+- **Chimeries / Andrealphus / Flauros** — source-local demon true names revealed by the captured escorts; direct Fandom confirmation unavailable.
+- **Maelstrom** — source-local aligned-witness name for the midnight whirlpool leading to Nouvelle Vague.
+- **Iron Maiden** — deep-sea prisoner coffin used for the Nouvelle Vague descent.
+- **Baskerville secret rescue order** — Isabella was instructed to free Vikir even if the convoy had to be sunk.
+- **Nineteen-year intention** — Vikir explicitly says he has waited nineteen years to enter Nouvelle Vague.
+- **BDISSEM oxygen behavior** — provides enough oxygen to assist descent; mechanism remains unexplained.
+- **Decarabia shared vision** — lets Vikir see outside the coffin during deep-sea descent.
+- **Ghost Castle of the Ultra-Deep Sea** — next family targets363–365 / E361–E363.
+- **The Underground Extension Construction** — follows targets366–368 / E364–E366.
+
 ## Crime and Punishment additions — Chapters 356–358
 
 - **Crime and Punishment** — accepted three-part family, targets356–358 / witnesses E354–E356.
