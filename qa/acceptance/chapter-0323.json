@@ -1,0 +1,33 @@
+{
+  "chapter": 323,
+  "title": "Underdogma (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Underdogma",
+    "range": [
+      321,
+      325
+    ],
+    "family_qa_path": "qa/families/underdogma-0321-0325.md",
+    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/323.txt",
+    "primary_source_sha": "abfadc0b6976bf035317ac5253476492e6cade2f",
+    "english_reference_path": "source/chapters/chapter-321.xhtml",
+    "english_reference_sha": "09137df7567c033b46f0253015134b9d8c013b9f",
+    "draft_path": "manuscript/drafts/chapter-0323.md",
+    "draft_sha": "5f8072959fe21a7251c860cbc63cb608993ac040",
+    "qa_path": "qa/chapter-0323.md",
+    "qa_sha": "8015c102c50f8000ba455e3a9a72f92cbe22e634",
+    "provenance_path": "editorial/provenance/chapter-0323.json",
+    "provenance_sha": "9aa34a128cb8fd1bcdb3cbff87c6d0aae6f0977c"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Shadowless King material from target326 is imported."
+  ]
+}
