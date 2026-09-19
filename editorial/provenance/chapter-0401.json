@@ -1,0 +1,38 @@
+{
+  "chapter": 401,
+  "title": "Black Tongue (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Black Tongue",
+    "range": [
+      399,
+      402
+    ],
+    "family_qa_path": "qa/families/black-tongue-0399-0402.md",
+    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/401.txt",
+    "blob_sha": "eac9701914d960ee4e94fb75003bf3fd68ac68c7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-399.xhtml",
+    "blob_sha": "002614684dd09a6f7692c2ef777d9197d2673e4b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0401.md",
+    "blob_sha": "0ff2131468c16b8bc530053a55c72d6c15a87d9d"
+  },
+  "qa": {
+    "path": "qa/chapter-0401.md",
+    "blob_sha": "504a27209eca590873a488415eb27d9bc0966e2d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "key_correction": "Kirko's parents were consenting junior guards; the prisoner-on-guard rape story was fabricated by Black Tongue/prison authorities."
+}
