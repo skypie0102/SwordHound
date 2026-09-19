@@ -470,25 +470,41 @@ Vikir immediately narrowed the pool.
 
 Of the five thousand people who had received the correct prediction—
 
-half were told Stock B would rise.
+two thousand five hundred were told **Stock B** would rise.
 
-Half—
-
-that it would fall.
+The other two thousand five hundred were told it would fall.
 
 Stock B fell.
 
-The winners were split again.
+So only the two thousand five hundred who had received the “fall” prediction continued.
 
-Then again.
+They were split again.
 
-Then again.
+One thousand two hundred fifty were told **Stock C** would rise.
+
+The other one thousand two hundred fifty were told it would fall.
+
+Stock C rose.
+
+The surviving one thousand two hundred fifty were split again.
+
+Six hundred twenty-five received an “up” prediction for **Stock D**.
+
+The other six hundred twenty-five received a “down” prediction.
+
+Then the same process continued.
+
+Stocks.
 
 Gold.
 
-Grain.
+Beans.
 
-Mineral futures.
+Wheat.
+
+Bronze.
+
+Orichalcum.
 
 Real estate.
 
@@ -496,11 +512,11 @@ Bonds.
 
 The asset did not matter.
 
-Every prediction had two possible outcomes.
+Every prediction was divided between two opposite outcomes.
 
 So every round—
 
-half the recipients received a correct prediction.
+roughly half the recipients received a correct prediction.
 
 After about a week—
 
