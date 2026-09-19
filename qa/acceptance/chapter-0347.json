@@ -1,0 +1,34 @@
+{
+  "chapter": 347,
+  "title": "Ballak (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Ballak",
+    "range": [
+      343,
+      347
+    ],
+    "family_qa_path": "qa/families/ballak-0343-0347.md",
+    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/347.txt",
+    "primary_source_sha": "21fe712bf1d3c94e1b608c3accb26822e2615a42",
+    "english_reference_path": "source/chapters/chapter-345.xhtml",
+    "english_reference_sha": "4f16b8b339197729ed76f174d2bda0f20433e094",
+    "draft_path": "manuscript/drafts/chapter-0347.md",
+    "draft_sha": "d6e41c139122aefa4bed4086a44a77d83f9089d9",
+    "qa_path": "qa/chapter-0347.md",
+    "qa_sha": "30d7accf2b7546586a420c455f2ef94bdb1e51e9",
+    "provenance_path": "editorial/provenance/chapter-0347.json",
+    "provenance_sha": "62432615a4ec5dc5f79f8050599f1629340d4f33"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established project glossary forms were reused.",
+    "No Key man material from target348 is imported."
+  ],
+  "reveal_guard": "Apparent mass-death cliffhanger remains unresolved at target347 end; mission is still uncleared."
+}
