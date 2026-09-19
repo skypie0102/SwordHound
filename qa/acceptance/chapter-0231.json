@@ -1,0 +1,42 @@
+{
+  "chapter": 231,
+  "title": "Tuition (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/231.txt",
+    "primary_source_sha": "298846f7256c049c6f238d1589479c6551ad2050",
+    "english_reference_path": "source/chapters/chapter-229.xhtml",
+    "english_reference_sha": "8872e323f641a16ecf900e576b43abf5c1c17ef7",
+    "draft_path": "manuscript/drafts/chapter-0231.md",
+    "draft_sha": "efcbc9c768314281b4b26ca1cc5d467a99826983",
+    "qa_path": "qa/chapter-0231.md",
+    "qa_sha": "30d2f349c803519c2fd63f00446016f4166d3002",
+    "provenance_path": "editorial/provenance/chapter-0231.json",
+    "provenance_sha": "4d555b83fce1708ff8246fc6d9ce8141d7f53c46"
+  },
+  "canonical_checks": [
+    "Ms. Ouroboros",
+    "Baby Madam",
+    "Anubis",
+    "Sword Master",
+    "Graduator"
+  ],
+  "documented_limits": [
+    "Identity remains unrevealed.",
+    "Left-side reaction delay cause remains unrevealed.",
+    "Again wording remains clue only."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}
