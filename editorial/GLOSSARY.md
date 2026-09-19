@@ -1,3 +1,19 @@
+## The Grave of Swords additions — Chapters 255–260
+
+- **The Grave of Swords** — accepted six-part family, targets 255–260 / witnesses E253–E258.
+- **Yuuni Desert** — extremely dry white salt desert deep in Le Rouge et Le Noir Mountain.
+- **Basilisk / Dragon of the Saha River** — S-rank, 44 m, 10th Ridge; found dead in target255.
+- **Unnamed Pit Bull courier** — old Baskerville knight who mastered the Fourth Fang deeply enough to kill the Basilisk; dies delivering Hugo’s sealed letter.
+- **Cane Corso Le Baskerville** — unreachable seventh Count; oldest/strongest old-line Seven Count revealed in this family.
+- **Grave of Swords** — real tower/tomb tied to the great Baskerville ancestor and final sword path.
+- **Eighth Fang** — Vikir reaches it under genuine mortal pressure; requires attachment to life and extreme combat experience after emotion has been lost and regained.
+- **Ninth Fang** — demonstrated by Cane Corso; requires actual experience of death.
+- **Tenth Fang** — Cane Corso states it exists but requires death followed by awakening; he has not reached it.
+- **Immortality — Gargoyle (S)** — Chinese-primary Beelzebub Slot 2 in target259; shifted-English Basilisk is rejected.
+- **Death Knight** — Cane Corso’s true current state; danger floor A+ but highly variable by individual.
+- **Wraith Tree saplings** — two roots/saplings taken by Vikir at family end.
+- **The Inverted Pentagram** — next family begins target261 / E259.
+
 ## Five Stars additions — Chapters 253–254
 
 - **Five Stars** — accepted two-part family, targets 253–254 / witnesses E251–E252.
