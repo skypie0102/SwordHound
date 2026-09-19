@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 350,
+  "accepted_count": 355,
   "staged_count": 0,
-  "next_chapter": 351,
+  "next_chapter": 356,
   "active_title_family": {
-    "name": "Outside the Tower",
+    "name": "Crime and Punishment",
     "range": [
-      351,
-      352
+      356,
+      358
     ],
-    "boundary_status": "English mapping verified 351→E349 / 352→E350; Chinese 351.txt is declared combined 351+352 and internal split must be explicitly verified before acceptance",
-    "following_family_starts": null,
-    "following_title": null,
-    "alignment_note": "351→E349 Outside the Tower (1), 352→E350 Outside the Tower (2); inspect forward headings before setting following family."
+    "boundary_status": "verified complete from English E354-E356; Chinese local part labels are offset by +1",
+    "following_family_starts": 359,
+    "following_title": "Voluntary Escort (1)",
+    "alignment_note": "356→E354 Crime and Punishment (1), 357→E355 (2), 358→E356 (3); 359→E357 begins Voluntary Escort (1)."
   },
   "chapters": [
     {
@@ -4915,6 +4915,76 @@
       "acceptance": "qa/acceptance/chapter-0350.json",
       "acceptance_sha": "dba16189b02e6e865e54e90bcbdb5539e900bb10",
       "family_qa": "qa/families/key-man-0348-0350.md"
+    },
+    {
+      "chapter": 351,
+      "title": "Outside the Tower (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/351.txt",
+      "english_mtl_reference": "source/chapters/chapter-349.xhtml",
+      "draft": "manuscript/drafts/chapter-0351.md",
+      "qa": "qa/chapter-0351.md",
+      "provenance": "editorial/provenance/chapter-0351.json",
+      "acceptance": "qa/acceptance/chapter-0351.json",
+      "acceptance_sha": "7889b0602e9908e30fc4b5019bcca3f4345ba2cd",
+      "family_qa": "qa/families/outside-tower-0351-0355.md"
+    },
+    {
+      "chapter": 352,
+      "title": "Outside the Tower (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/351.txt",
+      "english_mtl_reference": "source/chapters/chapter-350.xhtml",
+      "draft": "manuscript/drafts/chapter-0352.md",
+      "qa": "qa/chapter-0352.md",
+      "provenance": "editorial/provenance/chapter-0352.json",
+      "acceptance": "qa/acceptance/chapter-0352.json",
+      "acceptance_sha": "1fb01901011b8508de32043306adeacb22ed337f",
+      "family_qa": "qa/families/outside-tower-0351-0355.md"
+    },
+    {
+      "chapter": 353,
+      "title": "Outside the Tower (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/353.txt",
+      "english_mtl_reference": "source/chapters/chapter-351.xhtml",
+      "draft": "manuscript/drafts/chapter-0353.md",
+      "qa": "qa/chapter-0353.md",
+      "provenance": "editorial/provenance/chapter-0353.json",
+      "acceptance": "qa/acceptance/chapter-0353.json",
+      "acceptance_sha": "dde95484e83452441389cd2b4146f89fb32edc5f",
+      "family_qa": "qa/families/outside-tower-0351-0355.md"
+    },
+    {
+      "chapter": 354,
+      "title": "Outside the Tower (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/353.txt",
+      "english_mtl_reference": "source/chapters/chapter-352.xhtml",
+      "draft": "manuscript/drafts/chapter-0354.md",
+      "qa": "qa/chapter-0354.md",
+      "provenance": "editorial/provenance/chapter-0354.json",
+      "acceptance": "qa/acceptance/chapter-0354.json",
+      "acceptance_sha": "e959bed6313f25770fc81524a1ae6365a9c28b8d",
+      "family_qa": "qa/families/outside-tower-0351-0355.md"
+    },
+    {
+      "chapter": 355,
+      "title": "Outside the Tower (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/355.txt",
+      "english_mtl_reference": "source/chapters/chapter-353.xhtml",
+      "draft": "manuscript/drafts/chapter-0355.md",
+      "qa": "qa/chapter-0355.md",
+      "provenance": "editorial/provenance/chapter-0355.json",
+      "acceptance": "qa/acceptance/chapter-0355.json",
+      "acceptance_sha": "d563e8117ae3eb219b71186012b992a0a35974c8",
+      "family_qa": "qa/families/outside-tower-0351-0355.md"
     }
   ]
 }
