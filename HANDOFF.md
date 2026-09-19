@@ -1,35 +1,39 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 244 / 500  
+**Accepted:** 249 / 500  
 **Staged:** 0  
-**Next target:** 245
+**Next target:** 250
 
 ## Latest accepted family
 
-**National University League (1)–(9)** — targets **236–244**.
-
-- Family QA: `qa/families/national-university-league-0236-0244.md` — PASS.
-- Alignment: **236→E234 through 244→E242**.
-- Canonical forms locked: Bakilaga Juragio, Boli Bollason, Merelini Lovegood, Oraorus Hohenheim, Varangian Academy, Mage Tower, Temisquira Women’s College, Decarabia.
-- Vikir’s hidden purpose is top-ten vault access for the dormant Seventh Corpse; do not import Decarabia’s later outcome early.
-- Granola→Sinclaire attraction is one-sided POV only.
-- Royal-freshman rumor remains unresolved.
-- Inn deal is 70% charged / 30% discounted.
-- Vikir has not attained Eighth Fang by target 244.
-- Vikir/Bakilaga arm-wrestling has no pin/winner; the stone table breaks.
-- Bakilaga recognizes Vikir’s Ballak Hunting Leader collar and language.
-- Bakilaga’s Dolores/Vikir girlfriend tease is a misunderstanding.
-
-## Next verified family
-
 **Survival Contest (1)–(5)** — targets **245–249**.
 
-- Mapping: **245→E243, 246→E244, 247→E245, 248→E246, 249→E247**.
-- Verified Chinese title sequence: 245 (1), 246 (2), 247 (3), 248 (4), 249 (5).
-- Boundary: **target 250 → E248 — Recap (1)**.
-- Read C245–249 and E243–247 completely before drafting/accepting.
-- Keep all later League rankings, artifact outcomes, Decarabia behavior, and Eighth Fang developments source-timed.
+- Family QA: `qa/families/survival-contest-0245-0249.md` — PASS.
+- Alignment: **245→E243 through 249→E247**.
+- Map: Jungle — Le Rouge et Le Noir Mountain.
+- Dolores’s hidden-Imperial-student thought is unsupported speculation, not a reveal.
+- Bakilaga’s Dolores/Vikir boyfriend teasing is still a misunderstanding.
+- Target 246: dead wildcat upstream; recovered-English elk rejected.
+- Target 247: Dolores has not eaten for the day; “hungry little lamb” echoes Night Hound without recognition.
+- Target 247 uses **Snub-nosed**; target 248 surfaces **Hohenheim of a Thousand Flames**.
+- Target 248 confirms **Bakilaga = Low Sword Graduator** and **Hohenheim = fourth-circle mage**.
+- Bakilaga is not eliminated before Hohenheim drinks the baited stew.
+- Target 249 food-pairing claims are fictional/in-story mechanism only.
+- Hohenheim wrongly blames Granola; Vikir encourages the misconception.
+- Dolores’s serving contained dried mushrooms that neutralized the trap; Vikir’s later threat was a joke.
+
+## Next verified batch
+
+Targets **250–252**.
+
+- **250→E248** — Chinese 后续 (1) / English *Recap (1)*
+- **251→E249** — Chinese 后续 (2) / English *Recap (2)*
+- **252→E250** — Chinese **庆功宴 (3) / Celebration Banquet (3)** / English *Recap (3)*
+- Treat 250–252 as one contiguous narrative batch, but **do not erase the target-252 title-root divergence**.
+- Boundary: **253→E251 — Five Stars (1)**.
+- Read C250–252 and E248–250 completely before drafting/accepting.
+- Keep rankings, second-round assignments, Decarabia developments, and later artifact outcomes source-timed within this batch.
 
 ## Required workflow
 
@@ -37,6 +41,6 @@
 2. Chinese raw controls semantic content.
 3. Fandom controls established canonical English names/terms where confidently identified.
 4. Recovered English is a secondary shifted witness only.
-5. Work by contiguous title family.
-6. Write chapter QA + family QA + provenance + acceptance evidence before advancing the checkpoint.
+5. Work by contiguous title family/batch.
+6. Write chapter QA + family/batch QA + provenance + acceptance evidence before advancing the checkpoint.
 7. Update this file at the end of every editorial session.

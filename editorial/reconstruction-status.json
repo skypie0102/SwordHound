@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 244,
+  "accepted_chapters": 249,
   "staged_chapters": 0,
-  "next_chapter": 245,
+  "next_chapter": 250,
   "latest_accepted_family": {
-    "name": "National University League",
-    "range": [
-      236,
-      244
-    ],
-    "family_qa": "qa/families/national-university-league-0236-0244.md"
-  },
-  "next_title_family": {
     "name": "Survival Contest",
     "range": [
       245,
       249
     ],
-    "boundary_status": "verified five-part family",
-    "following_family_starts": 250,
-    "following_title": "Recap (1)",
-    "alignment_note": "245→E243 through249→E247;250→E248"
+    "family_qa": "qa/families/survival-contest-0245-0249.md"
+  },
+  "next_title_family": {
+    "name": "Recap / Celebration Banquet",
+    "range": [
+      250,
+      252
+    ],
+    "boundary_status": "verified three-part narrative batch with Chinese title-root divergence at target252",
+    "following_family_starts": 253,
+    "following_title": "Five Stars (1)",
+    "alignment_note": "250→E248;251→E249;252→E250 (Chinese C252 title 庆功宴 (3));253→E251"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -306,10 +306,26 @@
     241,
     242,
     243,
-    244
+    244,
+    245,
+    246,
+    247,
+    248,
+    249
   ],
   "notes": [
-    "Chapters236-244 are accepted as National University League (1)-(9).",
+    "Chapters245-249 are accepted as Survival Contest (1)-(5).",
+    "Dolores’s hidden-Imperial-student thought about Vikir remains unsupported speculation and is immediately doubted.",
+    "Target246 follows Chinese authority for the dead wildcat upstream; recovered-English elk is rejected.",
+    "Vikir’s survival advantage is grounded in Ballak/Baskerville fieldcraft; Granola and the triplets do not receive an identity reveal.",
+    "Target247 keeps Snub-nosed as Hohenheim’s current Mage Tower baptismal name; target248 surfaces the wider epithet Hohenheim of a Thousand Flames.",
+    "Target248 source-confirms Bakilaga as Low Sword Graduator and Hohenheim as newly fourth-circle.",
+    "Target249 food-combination claims are an in-story trap mechanism only, not real-world medical guidance.",
+    "Hohenheim wrongly blames Granola for the stew; Vikir deliberately reinforces the misconception.",
+    "Vikir neutralized Dolores’s serving with dried mushrooms; his later threat to her was a joke.",
+    "Next batch targets250-252 maps to E248-E250. Chinese C252 title is 庆功宴 (3) / Celebration Banquet (3) while E250 labels it Recap (3); preserve and document this divergence.",
+    "Target253→E251 begins Five Stars (1).",
+    "Every editorial session must read and update HANDOFF.md.",
     "Canonical family forms: Bakilaga Juragio, Boli Bollason, Merelini Lovegood, Oraorus Hohenheim, Varangian Academy, Mage Tower, Temisquira Women’s College, Decarabia.",
     "Vikir’s top-ten objective is vault access to dormant Seventh Corpse Decarabia; later Decarabia outcome is not imported.",
     "Granola’s attraction to Sinclaire is unilateral POV only; rumored royal freshman remains unidentified.",
@@ -317,8 +333,6 @@
     "Vikir has stabilized Seventh Fang at Sword Master but only contemplates Eighth Fang in target243.",
     "Boli Bollason concedes after realizing Vikir is deliberately holding the arm-wrestling match at center.",
     "Vikir/Bakilaga match ends without a pin when the stone table breaks; Bakilaga recognizes Vikir’s Ballak Hunting Leader collar/language.",
-    "Next family targets245-249 — Survival Contest (1)-(5), mapped245→E243 through249→E247. Target250→E248 begins Recap (1).",
-    "Every editorial session must read and update HANDOFF.md.",
     "Chapters234-235 are accepted as Suspicion (1)-(2).",
     "Dolores's curiosity around Vikir is evidence-driven but not identity resolution.",
     "Peri Award strengthens Dolores's belief that Vikir has a warm heart; this remains her interpretation.",
