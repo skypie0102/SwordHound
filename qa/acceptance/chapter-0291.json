@@ -1,0 +1,33 @@
+{
+  "chapter": 291,
+  "title": "The Successors (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Successors",
+    "range": [
+      291,
+      292
+    ],
+    "family_qa_path": "qa/families/successors-0291-0292.md",
+    "family_qa_sha": "ad31a426b65a13a70c058d95653063514101fbad",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/291.txt",
+    "primary_source_sha": "95d43122337115e7d342ace684f5fb78b1b6036a",
+    "english_reference_path": "source/chapters/chapter-289.xhtml",
+    "english_reference_sha": "4f557cd3d083f06c37ac56b7175e15241b4bedc1",
+    "draft_path": "manuscript/drafts/chapter-0291.md",
+    "draft_sha": "270d7b714974db47b3eaeb0842d8ee77164722b5",
+    "qa_path": "qa/chapter-0291.md",
+    "qa_sha": "204e76ecc1447a361d68d11d1b0bfa3ff61dfb5d",
+    "provenance_path": "editorial/provenance/chapter-0291.json",
+    "provenance_sha": "897af4f9858d312a9c18892afccc152606782e77"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Confessions material from target293 is imported."
+  ]
+}
