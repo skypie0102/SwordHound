@@ -24,14 +24,17 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0273.md",
-    "blob_sha": "e076494da2fc15226b1a858e724949d1b9158ae2"
+    "blob_sha": "33c45ce850ee7939557fc5d44333893b1693fc43"
   },
   "qa": {
     "path": "qa/chapter-0273.md",
-    "blob_sha": "0cc40d9e1acb74152471b3beaceaf790994f2419",
+    "blob_sha": "c333018c66b62ee16d39f1e396ef270307167b86",
     "status": "pass"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Bartolomeo / Sinan Saltsail / Puss in Boots / Juliet / Bahamut remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Restored explicit probability-filter sequence 10,000 → 5,000 → 2,500 → 1,250 → 625 from source/witness after over-compression in the first accepted draft."
+  ]
 }
