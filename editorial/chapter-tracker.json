@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 358,
+  "accepted_count": 362,
   "staged_count": 0,
-  "next_chapter": 359,
+  "next_chapter": 363,
   "active_title_family": {
-    "name": "Voluntary Escort",
+    "name": "Ghost Castle of the Ultra-Deep Sea",
     "range": [
-      359,
-      362
+      363,
+      365
     ],
-    "boundary_status": "verified complete: target359→E357 through target362→E360",
-    "following_family_starts": 363,
-    "following_title": "Ghost Castle of the Ultra-Deep Sea (1)",
-    "alignment_note": "359→E357 Voluntary Escort (1) through 362→E360 Voluntary Escort (4); 363→E361 begins Ghost Castle of the Ultra-Deep Sea (1)."
+    "boundary_status": "verified complete: target363→E361 through target365→E363",
+    "following_family_starts": 366,
+    "following_title": "The Underground Extension Construction (1)",
+    "alignment_note": "363→E361 Ghost Castle (1) through 365→E363 (3); 366→E364 begins The Underground Extension Construction (1)."
   },
   "chapters": [
     {
@@ -5027,6 +5027,62 @@
       "acceptance": "qa/acceptance/chapter-0358.json",
       "acceptance_sha": "be4fd2c8c810db214288aa63279103e216e22278",
       "family_qa": "qa/families/crime-punishment-0356-0358.md"
+    },
+    {
+      "chapter": 359,
+      "title": "Voluntary Escort (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/359.txt",
+      "english_mtl_reference": "source/chapters/chapter-357.xhtml",
+      "draft": "manuscript/drafts/chapter-0359.md",
+      "qa": "qa/chapter-0359.md",
+      "provenance": "editorial/provenance/chapter-0359.json",
+      "acceptance": "qa/acceptance/chapter-0359.json",
+      "acceptance_sha": "71d4ac3ffe3ebeeeda888ac533d8cbcea9110f09",
+      "family_qa": "qa/families/voluntary-escort-0359-0362.md"
+    },
+    {
+      "chapter": 360,
+      "title": "Voluntary Escort (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/360.txt",
+      "english_mtl_reference": "source/chapters/chapter-358.xhtml",
+      "draft": "manuscript/drafts/chapter-0360.md",
+      "qa": "qa/chapter-0360.md",
+      "provenance": "editorial/provenance/chapter-0360.json",
+      "acceptance": "qa/acceptance/chapter-0360.json",
+      "acceptance_sha": "2d77bc8852da28027b2c212ed09d3cd159d4a172",
+      "family_qa": "qa/families/voluntary-escort-0359-0362.md"
+    },
+    {
+      "chapter": 361,
+      "title": "Voluntary Escort (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/361.txt",
+      "english_mtl_reference": "source/chapters/chapter-359.xhtml",
+      "draft": "manuscript/drafts/chapter-0361.md",
+      "qa": "qa/chapter-0361.md",
+      "provenance": "editorial/provenance/chapter-0361.json",
+      "acceptance": "qa/acceptance/chapter-0361.json",
+      "acceptance_sha": "4b267e74bf3d353bd32973ed0333ce239115085c",
+      "family_qa": "qa/families/voluntary-escort-0359-0362.md"
+    },
+    {
+      "chapter": 362,
+      "title": "Voluntary Escort (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/362.txt",
+      "english_mtl_reference": "source/chapters/chapter-360.xhtml",
+      "draft": "manuscript/drafts/chapter-0362.md",
+      "qa": "qa/chapter-0362.md",
+      "provenance": "editorial/provenance/chapter-0362.json",
+      "acceptance": "qa/acceptance/chapter-0362.json",
+      "acceptance_sha": "f362c846c394bab9daf11a6151a94407d8c64a88",
+      "family_qa": "qa/families/voluntary-escort-0359-0362.md"
     }
   ]
 }
