@@ -1,0 +1,41 @@
+{
+  "chapter": 363,
+  "title": "Ghost Castle of the Ultra-Deep Sea (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Ghost Castle of the Ultra-Deep Sea",
+    "range": [
+      363,
+      365
+    ],
+    "family_qa_path": "qa/families/ghost-castle-0363-0365.md",
+    "family_qa_sha": "5bfd85f722bcb4a4dcac7a39e7b8a9503f11469b",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/363.txt",
+    "blob_sha": "1e2a26d9919597d569d88cf4981ce50b084a0129",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-361.xhtml",
+    "blob_sha": "c29c6fd1e0ee8f294e7b1c4d5401f70261cf81ef",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0363.md",
+    "blob_sha": "560432815970cfea5a9ce8640e2a47923ad02231"
+  },
+  "qa": {
+    "path": "qa/chapter-0363.md",
+    "blob_sha": "824177253fe42776f18298010ebc08a0bc16a627",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local names were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "key_reveals": [
+    "Nine official prison levels; Vikir's 3021 life terms imply Level9 placement.",
+    "Sakkuth de Leviathan voluntarily surrendered to meet an unnamed person."
+  ]
+}
