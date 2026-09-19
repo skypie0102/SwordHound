@@ -1,0 +1,41 @@
+{
+  "chapter": 232,
+  "title": "Tuition (8)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/232.txt",
+    "primary_source_sha": "1a36e5b0d07b36ba3ab1f9f7b0d00c9cece9fbce",
+    "english_reference_path": "source/chapters/chapter-230.xhtml",
+    "english_reference_sha": "3bd9b39a61de45b2b305b6ca73628633c30f07a8",
+    "draft_path": "manuscript/drafts/chapter-0232.md",
+    "draft_sha": "90c9ea8bf3dbbe3113e21261d4fbc640b0e1d8f7",
+    "qa_path": "qa/chapter-0232.md",
+    "qa_sha": "e7888f9ca677939dfd5402228524d785eb27b540",
+    "provenance_path": "editorial/provenance/chapter-0232.json",
+    "provenance_sha": "e12f153ff45eba1810a1015785d23ef866fb65be"
+  },
+  "canonical_checks": [
+    "MiniPin",
+    "Sherpa Guild",
+    "Thrifty Bazaar",
+    "Professor Banshee Morgue",
+    "Dolores L. Quovadis"
+  ],
+  "documented_limits": [
+    "MiniPin recruitment remains Vikir's future plan.",
+    "Faction suppression is economic/social, not formal Academy policy."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}
