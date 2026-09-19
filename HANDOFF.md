@@ -1,41 +1,42 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 384 / 500  
+**Accepted:** 389 / 500  
 **Staged:** 0  
-**Next target:** 385
+**Next target:** 390
 
 ## Latest accepted family
 
-**Kennel (1)–(3)** — targets **382–384**.
+**The Rotten Dog of Nouvelle Vague (1)–(5)** — targets **385–389**.
 
-- Family QA: `qa/families/kennel-0382-0384.md` — PASS.
-- Alignment: **382→E380, 383→E381, 384→E382**.
-- Gulper / Elevator Eels are the only controlled return route to the surface; Vikir releases six only as distractions and deliberately postpones escape.
-- **Flubber** is the self-healing mucus barrier holding back the deep ocean.
-- **BDISSEM** is revealed as the brigadier-general dryad / Ent whose living body produces the mana/strength-suppressing restraints.
-- BDISSEM is a seaweed-line dryad and becomes stronger in concentrated deep-sea saltwater.
-- BDISSEM also converts sulfur / steam / toxic gases into oxygen, making her essential to Nouvelle Vague life support.
-- Orca’s surface absence remains tied only to a broad emergency and increased serious-offender traffic.
-- Starvation Drought + Black Sun supplies the underwater suction attack.
-- Madam Eight-Legs venom leaves BDISSEM critically poisoned at family end; do not import her later fate early.
+- Family QA: `qa/families/rotten-dog-0385-0389.md` — PASS.
+- Alignment: **385→E383 through 389→E387**.
+- Targets385–386 share `source/chinese/chapters/385.txt`; the raw contains an explicit embedded Chapter386 marker.
+- Target385 uses only the pre-marker Chinese segment plus a localized E383 closing restoration: official Night Hound death classification, registry strikeout / surface transmission, and Garam Nord disguise handoff.
+- Target386 begins at the explicit Chapter386 marker.
+- **Flubber J Tarbond** is the lieutenant-colonel officer; **Flubber** is also the separate mucus-barrier substance. Do not conflate them.
+- Gulper Eels are slow-growing and extremely valuable; reject witness fast-growth noise.
+- Garam Nord remains Vikir’s guard identity. Local Basilisk regeneration/scar wording does not overwrite **Immortality — Gargoyle (S)**.
+- Garam’s diaries establish his isolation and unrequited admiration for Kirko.
+- **Pal Euspear** is retained from the aligned witness as a source-local form; no accessible designated-Fandom entry was found.
+- Pal’s explicit sexual threat toward Kirko and the violent riot suppression are preserved without embellishment.
+- Target388 locally repairs one corrupted mixed-language line from E386 (“awakened after Sakkuth’s riot”).
+- Kirko still does not discover Vikir; her changing attitude toward Garam remains suspicion / competition / inferiority rather than confirmed romance.
+- Monthly evaluation: **Garam 108% / Kirko 96% / third place 89%**.
+- Vikir now seeks promotion to at least Captain, preferably Major, for freer Poseidon access.
+- Target389 ends with Kirko secretly observing Garam’s twelve-prisoner labor method.
 
 ## Next verified family
 
-**The Rotten Dog of Nouvelle Vague (1)–(5)** — targets **385–389 / E383–E387**.
-
-- Targets **385–386** share Chinese raw `source/chinese/chapters/385.txt`.
-- The current exception-table rows are still generic; inspect the full shared raw against E383/E384 and replace them with the verified split before drafting.
+**The Worst Torture (1)–(6)** — targets **390–395 / E388–E393**.
 
 Following:
-- **The Worst Torture (1)–(6)** — targets **390–395 / E388–E393**.
-- Target396 begins **Dead Man Walking (1)**.
+- target396 begins **Dead Man Walking (1)**.
 
 ## Exact next actions
 
-1. Read shared C385 completely and align its two target segments to E383/E384.
-2. Update `source/chinese/chapter-exceptions.tsv` with the defensible 385/386 seam.
-3. Read C387–C389 and E385–E387 completely.
-4. Reconstruct and QA The Rotten Dog of Nouvelle Vague (1)–(5).
-5. Merge it.
-6. Immediately continue into The Worst Torture (1)–(6), targets390–395 / E388–E393.
+1. Read C390–C395 completely against E388–E393.
+2. Determine the complete Dead Man Walking family boundary while reading forward.
+3. Reconstruct and QA The Worst Torture (1)–(6).
+4. Merge it.
+5. Immediately continue into Dead Man Walking.
