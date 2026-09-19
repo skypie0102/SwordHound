@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 295  
+**Accepted:** 298  
 **Staged:** 0  
-**Next chapter:** 296
+**Next chapter:** 299
 
-Latest accepted family: **Confessions (1)–(3)** — targets293–295 / E291–E293.  
-Family QA: `qa/families/confessions-0293-0295.md` — **PASS**.
+Latest accepted family: **Last Semester (1)–(3)** — targets296–298 / E294–E296.  
+Family QA: `qa/families/last-semester-0296-0298.md` — **PASS**.
 
-Key decisions: Vikir learns Sinclaire’s Bourgeois identity only from her “father” statement in target294; her school withdrawal is driven by the Bourgeois incident and trust collapse; and no present relationship is established. The family ends with Vikir preparing to leave Colosseo for Nouvelle Vague.
+Key decisions: Winston’s security/greening changes remain suspicious setup rather than a resolved identity; Banshee links Sadi protection to the Forty-Seven People Riot without explaining why; Nabokov I Quovadis survives beyond remembered history; and Vikir detects a faint demonic scent in the new magic stones.
 
-Next verified family: **Last Semester (1)–(3)** — targets296–298 / E294–E296.  
-Following family: **The Prison of Nouvelle Vague (1)** begins target299 / E297.
+Corrected next family: **The Age of the Warmonger (1)–(8)** — targets299–306 / E297–E304.  
+Following: **Hell Tree (1)–(7)** — targets307–313 / E305–E311; **Surplus Man (1)–(2)** — targets314–315 / E312–E313.
