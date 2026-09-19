@@ -28,7 +28,7 @@ The event—
 
 ranked among—
 
-the Empire's largest auctions.
+the Empire's top ten auctions.
 
 And inside the market—
 
