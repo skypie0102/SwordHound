@@ -1,0 +1,37 @@
+{
+  "chapter": 333,
+  "title": "The Mating Room (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Mating Room",
+    "range": [
+      333,
+      338
+    ],
+    "family_qa_path": "qa/families/mating-room-0333-0338.md",
+    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/333.txt",
+    "blob_sha": "908166ea0e9826b84f08da0b2541b014b49d274f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-331.xhtml",
+    "blob_sha": "27c756669761511c9092b03c19b5080a5b39c578",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0333.md",
+    "blob_sha": "20c7ddeccc9418111bd620cbb71b2abb587d5361"
+  },
+  "qa": {
+    "path": "qa/chapter-0333.md",
+    "blob_sha": "60aeae227a2be9f6b48ba824f23cd3c462dbcbad",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
