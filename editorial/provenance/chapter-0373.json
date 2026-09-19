@@ -1,0 +1,36 @@
+{
+  "chapter": 373,
+  "title": "Sucker Shark (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Sucker Shark",
+    "range": [
+      373,
+      374
+    ],
+    "family_qa_path": "qa/families/sucker-shark-0373-0374.md",
+    "family_qa_sha": "14fca4f37bcb0be39aa0e952f7781c3b773e9f01",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/373.txt",
+    "blob_sha": "2f782faf2d7731a00b60b8602cf2dfbc3c7098ff",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-371.xhtml",
+    "blob_sha": "523513a2d67b089b2a3133a663ab4271d223f2f8",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0373.md",
+    "blob_sha": "52ba7f8ea3dab6bd0e8f3244eb5b0178e37bc488"
+  },
+  "qa": {
+    "path": "qa/chapter-0373.md",
+    "blob_sha": "332b0b3e8927f3b2e769ecb0ac1a4d837ef290d0",
+    "status": "pass"
+  },
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
