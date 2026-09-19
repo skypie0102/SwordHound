@@ -1,0 +1,34 @@
+{
+  "chapter": 386,
+  "title": "The Rotten Dog of Nouvelle Vague (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Rotten Dog of Nouvelle Vague",
+    "range": [
+      385,
+      389
+    ],
+    "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
+    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/385.txt",
+    "primary_source_sha": "f961aa3d627f78a4374f687772240eace15ca3f2",
+    "english_reference_path": "source/chapters/chapter-384.xhtml",
+    "english_reference_sha": "8cc1558e7758df6b37efdaec347b37d71dc69a9c",
+    "draft_path": "manuscript/drafts/chapter-0386.md",
+    "draft_sha": "ef5a9550af00ba946abb5d1d010e4e4109959b78",
+    "qa_path": "qa/chapter-0386.md",
+    "qa_sha": "fc37f37c358569498ed18279189f4c4ff039d870",
+    "provenance_path": "editorial/provenance/chapter-0386.json",
+    "provenance_sha": "7b830e60e57b3ed1b38d18bc6417a1d45b4c11c3"
+  },
+  "documented_limits": [
+    "No The Worst Torture material from target390 is imported.",
+    "Pal Euspear remains source-local/aligned-witness spelling because no accessible designated-Fandom entry was found."
+  ],
+  "continuity_guard": "Local Basilisk regeneration wording does not overwrite Immortality — Gargoyle (S)."
+}
