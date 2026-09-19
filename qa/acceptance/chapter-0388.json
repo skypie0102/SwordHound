@@ -1,0 +1,33 @@
+{
+  "chapter": 388,
+  "title": "The Rotten Dog of Nouvelle Vague (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Rotten Dog of Nouvelle Vague",
+    "range": [
+      385,
+      389
+    ],
+    "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
+    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/388.txt",
+    "primary_source_sha": "c9dd8b4621cd921b6aea0e59431ec35183543baf",
+    "english_reference_path": "source/chapters/chapter-386.xhtml",
+    "english_reference_sha": "57a4a13e8d3f045d03ed2b1f3a19fd470b9590bd",
+    "draft_path": "manuscript/drafts/chapter-0388.md",
+    "draft_sha": "e9ef1e6c259ef034789703a3103594a9141a80b3",
+    "qa_path": "qa/chapter-0388.md",
+    "qa_sha": "c5d2fb1888a3106fff27e42e031ce06306444142",
+    "provenance_path": "editorial/provenance/chapter-0388.json",
+    "provenance_sha": "be26da7948c216d9ce7fc71e6683271698558764"
+  },
+  "documented_limits": [
+    "No The Worst Torture material from target390 is imported.",
+    "Pal Euspear remains source-local/aligned-witness spelling because no accessible designated-Fandom entry was found."
+  ]
+}
