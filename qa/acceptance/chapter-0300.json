@@ -1,0 +1,33 @@
+{
+  "chapter": 300,
+  "title": "The Age of the Warmonger (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
+    "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
+    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/300.txt",
+    "primary_source_sha": "f10964217dc81498c252c3ff393cbd0298b2baa8",
+    "english_reference_path": "source/chapters/chapter-298.xhtml",
+    "english_reference_sha": "b36a63b4b4b83aa211ea40fe7d030cbf42069d18",
+    "draft_path": "manuscript/drafts/chapter-0300.md",
+    "draft_sha": "ad83117cd013223afec1e0745dfb08b90e9ee9b6",
+    "qa_path": "qa/chapter-0300.md",
+    "qa_sha": "c9bf9325d932f2904609efac6405db0142f4ac93",
+    "provenance_path": "editorial/provenance/chapter-0300.json",
+    "provenance_sha": "05a0f753cf15a25006622f44fbe1918d397d9979"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Hell Tree interior content from target307 is imported."
+  ]
+}

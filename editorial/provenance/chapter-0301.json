@@ -1,0 +1,37 @@
+{
+  "chapter": 301,
+  "title": "The Age of the Warmonger (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
+    "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
+    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/301.txt",
+    "blob_sha": "4b94c52346c81982318580b650e0b5f77eb4d02e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-299.xhtml",
+    "blob_sha": "d0e38068f8f88b7e091ace14c01808eb435ebabf",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0301.md",
+    "blob_sha": "6d34c07f0f016e2b38fd1324e1027dbc350c622e"
+  },
+  "qa": {
+    "path": "qa/chapter-0301.md",
+    "blob_sha": "52f6036171e0302b1099c2635383bef2e99ea692",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

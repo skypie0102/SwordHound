@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Age of the Warmonger (1)–(8) accepted
+
+**Current state:** 306 / 500 accepted; 0 staged; next Chapter 307.
+
+Completed targets **299–306** with mapping **E297–E304**.
+
+Key decisions: Sadi is Ms. Ouroboros; Amdusias is Fifth Corpse at S+; Winston’s triple-denial history is source-revealed; Dolores breaks her Humbert fear and amplifies Vikir to full Eighth-Fang output; Nabokov’s true combat ability appears; and Child Hunting turns Winston’s campus system into the Hell Tree.
+
+Family QA: `qa/families/age-warmonger-0299-0306.md` — **PASS**.
+
+Next verified family: **307–313 — Hell Tree (1)–(7)**, mapping **E305–E311**. Surplus Man follows targets314–315 / E312–E313.
+
 ## 2026-09-19 — Last Semester (1)–(3) accepted
 
 **Current state:** 298 / 500 accepted; 0 staged; next Chapter 299.
