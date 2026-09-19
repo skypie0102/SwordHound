@@ -1,0 +1,66 @@
+{
+  "chapter": 225,
+  "title": "Tuition (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/225.txt",
+    "blob_sha": "1879573d9f58626cc95bab311a29bccec2ad5cbf",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-223.xhtml",
+    "blob_sha": "fdd69ef9d7396852dca97e9936353a8d32ed6144",
+    "target_alignment": 225,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0225.md",
+    "blob_sha": "885c6bdb2c0c1791c6890d6728913bfbb157e0a2"
+  },
+  "qa": {
+    "path": "qa/chapter-0225.md",
+    "blob_sha": "92b0b9ebcb317f9befb5de918d654249d513f5d5",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "night_hound_article",
+      "final": "Dolores rejects assigning festival/infrastructure crimes to Night Hound when evidence points elsewhere",
+      "basis": "Chinese C225"
+    },
+    {
+      "topic": "ouroboros_public",
+      "final": "Ms. Ouroboros is public alias; presumed female, roughly Graduator-level, identity/weapon/purpose unrevealed",
+      "basis": "Chinese C225"
+    },
+    {
+      "topic": "cover",
+      "final": "Vikir's anti–Night Hound journalism remains identity cover",
+      "basis": "Chinese C225"
+    },
+    {
+      "topic": "cerberus_hide",
+      "final": "Vikir rebuilds disguise from Cerberus hide; Tochka starvation memory retained",
+      "basis": "Chinese C225"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}
