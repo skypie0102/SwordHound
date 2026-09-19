@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Trap (1)–(2) accepted
+
+**Current state:** 340 / 500 accepted; 0 staged; next Chapter 341.
+
+Completed targets **339–340** with mapping **E337–E338**.
+
+Key decisions: Lost Paradise's danger is comfort-driven voluntary weakening; the Janet reply exposes an impossible-current-history correspondence that Vikir interprets as a fabricated memory-targeted response; and Dolores ends the family by calling Vikir **Choco**, with the mechanism deliberately unresolved.
+
+Family QA: `qa/families/trap-0339-0340.md` — **PASS**.
+
+Next verified family: **341–342 — Private Life (1)–(2)**, mapping **E339–E340**. Determine the complete target343+ family before accepting further chapters.
+
 ## 2026-09-19 — The Mating Room (1)–(6) accepted
 
 **Current state:** 338 / 500 accepted; 0 staged; next Chapter 339.
