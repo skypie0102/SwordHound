@@ -1,0 +1,38 @@
+{
+  "chapter": 342,
+  "title": "Private Life (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Private Life",
+    "range": [
+      341,
+      342
+    ],
+    "family_qa_path": "qa/families/private-life-0341-0342.md",
+    "family_qa_sha": "16ec368c5a8b210a2b81391bf1434893f84147a1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/342.txt",
+    "blob_sha": "0d1e37597924fb48f8aecc41fe95a272892d5f83",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-340.xhtml",
+    "blob_sha": "619ee7214ee483c4264127006bd2214e90147e37",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0342.md",
+    "blob_sha": "9c3cdc45becb6e37ab49e02afd64489dfef47928"
+  },
+  "qa": {
+    "path": "qa/chapter-0342.md",
+    "blob_sha": "636df0e6dc2445395fa8fdc49c1966a6c499c29f",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused without false wiki claims.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "key_reveal": "Dolores now knows Choco = Vikir = Night Hound."
+}
