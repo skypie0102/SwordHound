@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 313,
+  "accepted_chapters": 320,
   "staged_chapters": 0,
-  "next_chapter": 314,
+  "next_chapter": 321,
   "latest_accepted_family": {
-    "name": "Hell Tree",
-    "range": [
-      307,
-      313
-    ],
-    "family_qa": "qa/families/hell-tree-0307-0313.md"
-  },
-  "next_title_family": {
     "name": "Surplus Man",
     "range": [
       314,
-      315
+      320
+    ],
+    "family_qa": "qa/families/surplus-man-0314-0320.md"
+  },
+  "next_title_family": {
+    "name": "Underdogma",
+    "range": [
+      321,
+      325
     ],
     "boundary_status": "verified complete",
-    "following_family_starts": 316,
-    "following_title": null,
-    "alignment_note": "314→E312, 315→E313; determine target316 family before acceptance."
+    "following_family_starts": 326,
+    "following_title": "The Shadowless King of the Black Sea (1)",
+    "alignment_note": "321→E319 through 325→E323; Shadowless King 326→E324 through 330→E328."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -375,9 +375,22 @@
     310,
     311,
     312,
-    313
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320
   ],
   "notes": [
+    "Chapters314-320 accepted as Surplus Man (1)-(7), mapping E312-E318; previous 314-315 handoff boundary corrected.",
+    "Daylily of Blood Tree is S-rank; mission duration tracks survivor count and is designed to provoke sacrifice/cannibalism.",
+    "Vikir replaces sacrifice with pooled nonlethal biological material from all survivors and kills the Daylily at Level1.",
+    "Silver Reflexes candy unlocks a fifth tower stat; S-rank Conversion Bug becomes Baby Madam's harmless parasite host.",
+    "All 68 survivors transition to Basement Floor4.",
+    "Next family Underdogma verified targets321-325 / E319-E323; Shadowless King follows targets326-330 / E324-E328.",
     "Chapters307-313 accepted as Hell Tree (1)-(7), mapping E305-E311.",
     "Hell Hounds are Chinese-primary B+; shifted E308 B rejected.",
     "Vikir deliberately remains Level1 to maximize weak-character/high-difficulty achievement rewards.",
