@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Hounds of Nouvelle Vague (1)–(5) accepted
+
+**Current state:** 381 / 500 accepted; 0 staged; next Chapter 382.
+
+Completed targets **377–381** with mapping **E375–E379**.
+
+Key decisions: corrected the family boundary to five parts; preserved stale newspaper chronology and unresolved Sakkuth sponsors; source-timed Kirko’s birth-trauma reveal to target379; preserved Garam’s death/protection arc; and corrected target381 witness noise while guarding established Gargoyle regeneration continuity.
+
+Family QA: `qa/families/hounds-nouvelle-vague-0377-0381.md` — **PASS**.
+
+Next verified family: **382–384 — Kennel (1)–(3)**, mapping **E380–E382**. The Rotten Dog of Nouvelle Vague begins target385/E383.
+
 ## 2026-09-19 — Poseidon (1)–(2) accepted
 
 **Current state:** 376 / 500 accepted; 0 staged; next Chapter 377.

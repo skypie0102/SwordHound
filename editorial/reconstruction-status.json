@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 376,
+  "accepted_chapters": 381,
   "staged_chapters": 0,
-  "next_chapter": 377,
+  "next_chapter": 382,
   "latest_accepted_family": {
-    "name": "Poseidon",
-    "range": [
-      375,
-      376
-    ],
-    "family_qa": "qa/families/poseidon-0375-0376.md"
-  },
-  "next_title_family": {
     "name": "The Hounds of Nouvelle Vague",
     "range": [
       377,
-      380
+      381
+    ],
+    "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
+  },
+  "next_title_family": {
+    "name": "Kennel",
+    "range": [
+      382,
+      384
     ],
     "boundary_status": "verified complete",
-    "following_family_starts": 381,
-    "following_title": null,
-    "alignment_note": "377→E375 through 380→E378; verify target381 family next."
+    "following_family_starts": 385,
+    "following_title": "The Rotten Dog of Nouvelle Vague (1)",
+    "alignment_note": "382→E380 through 384→E382; 385→E383 begins The Rotten Dog of Nouvelle Vague."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -438,9 +438,19 @@
     373,
     374,
     375,
-    376
+    376,
+    377,
+    378,
+    379,
+    380,
+    381
   ],
   "notes": [
+    "Chapters377-381 accepted as The Hounds of Nouvelle Vague (1)-(5), mapping E375-E379.",
+    "Family boundary corrected from stale 377-380 to complete 377-381.",
+    "Kirko's birth-trauma reveal is source-timed to target379; Garam dies protecting her in target380.",
+    "Target381 rejects witness green-vodka noise in favor of Chinese green marker/ink, neutralizes Basilisk-regeneration drift to generic regeneration, and preserves Gargoyle slot continuity.",
+    "Next family Kennel verified targets382-384 / E380-E382; Rotten Dog begins target385/E383.",
     "Chapters375-376 accepted as Poseidon (1)-(2), mapping E373-E374.",
     "Poseidon is a five-meter blue egg-like ancient weapon that absorbs impact and grows from it.",
     "Bastille fears dormant-volcano and surface-climate consequences; D'Ordume suppresses a full resurvey for deadline, budget, and promotion reasons.",

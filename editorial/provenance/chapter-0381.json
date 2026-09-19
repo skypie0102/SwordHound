@@ -1,0 +1,41 @@
+{
+  "chapter": 381,
+  "title": "The Hounds of Nouvelle Vague (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Hounds of Nouvelle Vague",
+    "range": [
+      377,
+      381
+    ],
+    "family_qa_path": "qa/families/hounds-nouvelle-vague-0377-0381.md",
+    "family_qa_sha": "1b62fe323e66c7b1b144a1ad67b2d3a3badf8c4e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/381.txt",
+    "blob_sha": "05ee0695750a038e9bed52c4916e9e747c3b017c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-379.xhtml",
+    "blob_sha": "e04c76c84c5c938a6d2ec33efadd6e81525bd6de",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0381.md",
+    "blob_sha": "515d5edc305942527d80dfad77da7fe06e4d2f41"
+  },
+  "qa": {
+    "path": "qa/chapter-0381.md",
+    "blob_sha": "d1d6a9db14edb873e5a06f54327d9f5736d90efe",
+    "status": "pass"
+  },
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Use Chinese green marker/ink, rejecting witness green-vodka noise.",
+    "Neutralize local Basilisk-regeneration drift to generic regeneration so accepted Gargoyle slot continuity is not overwritten.",
+    "Use Chinese side-story joke for The Worn and Torn Newbie, rejecting witness movie."
+  ]
+}

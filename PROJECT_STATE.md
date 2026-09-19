@@ -2,13 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 376  
+**Accepted:** 381  
 **Staged:** 0  
-**Next chapter:** 377
+**Next chapter:** 382
 
-Latest accepted family: **Poseidon (1)–(2)** — targets375–376 / E373–E374.  
-Family QA: `qa/families/poseidon-0375-0376.md` — **PASS**.
+Latest accepted family: **The Hounds of Nouvelle Vague (1)–(5)** — targets377–381 / E375–E379.  
+Family QA: `qa/families/hounds-nouvelle-vague-0377-0381.md` — **PASS**.
 
-Key decisions: Poseidon is a roughly five-meter blue egg-like ancient weapon that absorbs impact and grows; Bastille fears dormant-volcano / climate consequences; D'Ordume suppresses investigation for construction and promotion reasons; and Vikir welcomes continued excavation.
+Key decisions: family is five parts; stale outside-news chronology preserved; Kirko birth-trauma reveal remains target379; Garam dies target380; target381 corrects green-marker/witness noise and avoids Basilisk-regeneration drift overwriting Gargoyle continuity.
 
-Next verified family: **The Hounds of Nouvelle Vague (1)–(4)** — targets377–380 / E375–E378.
+Next verified family: **Kennel (1)–(3)** — targets382–384 / E380–E382.  
+Following: **The Rotten Dog of Nouvelle Vague (1)–(5)** — targets385–389 / E383–E387.

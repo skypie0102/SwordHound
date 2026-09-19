@@ -1,0 +1,36 @@
+{
+  "chapter": 377,
+  "title": "The Hounds of Nouvelle Vague (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Hounds of Nouvelle Vague",
+    "range": [
+      377,
+      381
+    ],
+    "family_qa_path": "qa/families/hounds-nouvelle-vague-0377-0381.md",
+    "family_qa_sha": "1b62fe323e66c7b1b144a1ad67b2d3a3badf8c4e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/377.txt",
+    "blob_sha": "3d333128201887193aee505019d73d240d6b57de",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-375.xhtml",
+    "blob_sha": "2f00783281b2a762f3bac69f21c7a3cbd9edb44d",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0377.md",
+    "blob_sha": "1c4f978fb6587c396e27ee25939b64031860cd80"
+  },
+  "qa": {
+    "path": "qa/chapter-0377.md",
+    "blob_sha": "bcf80334a739bd5ab5d9b75713f0c5d816127f1e",
+    "status": "pass"
+  },
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

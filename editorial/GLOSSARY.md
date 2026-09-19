@@ -1,3 +1,17 @@
+## The Hounds of Nouvelle Vague additions — Chapters 377–381
+
+- **The Hounds of Nouvelle Vague** — accepted five-part family, targets377–381 / witnesses E375–E379.
+- **Family-boundary correction** — target381 is part (5), not the start of a new family.
+- **Sakkuth sponsor references** — Queen / Boss / “Him” remain unresolved.
+- **Kirko Grimm birth trauma** — target379 source-reveals her as the child born from the old prisoner-on-guard sexual-assault incident; preserve plainly and do not embellish.
+- **Garam Nord death** — target380; dies protecting Kirko, with final wish to show her the outside world.
+- **Target381 disguise correction** — green marker/ink + seawater, rejecting shifted witness “green vodka.”
+- **Regeneration continuity guard** — local target381 Basilisk-regeneration wording is drift; production stays generic and does not overwrite accepted **Immortality — Gargoyle (S)**.
+- **The Worn and Torn Newbie** — target381 meta novel; Chinese joke anticipates a side story, not a movie.
+- **Garam disguise** — rank/uniform/appearance carry the impersonation while the name tag remains hidden; Kirko recognizes only Garam.
+- **Kennel** — next family targets382–384 / E380–E382.
+- **The Rotten Dog of Nouvelle Vague** — targets385–389 / E383–E387.
+
 ## Poseidon additions — Chapters 375–376
 
 - **Poseidon** — accepted two-part family, targets375–376 / witnesses E373–E374.
