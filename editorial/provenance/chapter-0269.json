@@ -1,0 +1,38 @@
+{
+  "chapter": 269,
+  "title": "The Eucharist (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Eucharist",
+    "range": [
+      268,
+      269
+    ],
+    "family_qa_path": "qa/families/eucharist-0268-0269.md",
+    "family_qa_sha": "13b3a0271a96562ba70394aee3d0f74d5be06857",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/269.txt",
+    "blob_sha": "fc5c407e7f1be04dcfd528fac1703822c2fc4538",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-267.xhtml",
+    "blob_sha": "4d4d01f8d706b4b7c11f26599060be3fcdfa9081",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0269.md",
+    "blob_sha": "ce723694efc6e88d0b2efcdee710c751a6d3d91e"
+  },
+  "qa": {
+    "path": "qa/chapter-0269.md",
+    "blob_sha": "eb5aec76ed9f3e192e7bb5f8170585872dac3131",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guard": "Ledger identifies a dominant funding/hiding-place name, but that name is intentionally withheld until the following family reveals it."
+}
