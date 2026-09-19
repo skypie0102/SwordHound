@@ -1,0 +1,37 @@
+{
+  "chapter": 291,
+  "title": "The Successors (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Successors",
+    "range": [
+      291,
+      292
+    ],
+    "family_qa_path": "qa/families/successors-0291-0292.md",
+    "family_qa_sha": "ad31a426b65a13a70c058d95653063514101fbad",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/291.txt",
+    "blob_sha": "95d43122337115e7d342ace684f5fb78b1b6036a",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-289.xhtml",
+    "blob_sha": "4f557cd3d083f06c37ac56b7175e15241b4bedc1",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0291.md",
+    "blob_sha": "270d7b714974db47b3eaeb0842d8ee77164722b5"
+  },
+  "qa": {
+    "path": "qa/chapter-0291.md",
+    "blob_sha": "204e76ecc1447a361d68d11d1b0bfa3ff61dfb5d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and new source-local surname/middle-initial forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
