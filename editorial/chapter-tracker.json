@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 330,
+  "accepted_count": 332,
   "staged_count": 0,
-  "next_chapter": 331,
+  "next_chapter": 333,
   "active_title_family": {
-    "name": "Draw",
+    "name": "The Mating Room",
     "range": [
-      331,
-      332
+      333,
+      336
     ],
-    "boundary_status": "verified complete: target331→E329 through target332→E330",
-    "following_family_starts": 333,
-    "following_title": "The Mating Room (1)",
-    "alignment_note": "331→E329 Draw (1), 332→E330 Draw (2); 333→E331 begins The Mating Room (1), continuing through target336→E334."
+    "boundary_status": "verified complete: target333→E331 through target336→E334",
+    "following_family_starts": 337,
+    "following_title": null,
+    "alignment_note": "333→E331 through 336→E334; determine the next complete family boundary from target337 before accepting further work."
   },
   "chapters": [
     {
@@ -4635,6 +4635,34 @@
       "acceptance": "qa/acceptance/chapter-0330.json",
       "acceptance_sha": "1006275a570f9e79b554318602f6b8026a55d986",
       "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+    },
+    {
+      "chapter": 331,
+      "title": "Draw (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/331.txt",
+      "english_mtl_reference": "source/chapters/chapter-329.xhtml",
+      "draft": "manuscript/drafts/chapter-0331.md",
+      "qa": "qa/chapter-0331.md",
+      "provenance": "editorial/provenance/chapter-0331.json",
+      "acceptance": "qa/acceptance/chapter-0331.json",
+      "acceptance_sha": "180583b9ff32a35cb2883a42f2193218441f3d07",
+      "family_qa": "qa/families/draw-0331-0332.md"
+    },
+    {
+      "chapter": 332,
+      "title": "Draw (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/332.txt",
+      "english_mtl_reference": "source/chapters/chapter-330.xhtml",
+      "draft": "manuscript/drafts/chapter-0332.md",
+      "qa": "qa/chapter-0332.md",
+      "provenance": "editorial/provenance/chapter-0332.json",
+      "acceptance": "qa/acceptance/chapter-0332.json",
+      "acceptance_sha": "073b08a3c21ab19a2dde40518d018e12c68da765",
+      "family_qa": "qa/families/draw-0331-0332.md"
     }
   ]
 }
