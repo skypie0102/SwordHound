@@ -1,0 +1,33 @@
+{
+  "chapter": 287,
+  "title": "Power Inflation (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/287.txt",
+    "primary_source_sha": "66249dc808b8f0818b022971039de660dda269fa",
+    "english_reference_path": "source/chapters/chapter-285.xhtml",
+    "english_reference_sha": "5f0f93bcc10161529d834b6e59ddbce795c31e7e",
+    "draft_path": "manuscript/drafts/chapter-0287.md",
+    "draft_sha": "3d5bf477e87d5a829d09131758f578b89b5dba63",
+    "qa_path": "qa/chapter-0287.md",
+    "qa_sha": "1b7a456a3d81eea8c2c34c36b7d828b9d9736f9a",
+    "provenance_path": "editorial/provenance/chapter-0287.json",
+    "provenance_sha": "9df59301f339b6be01522fba800f54cfb42bf948"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+    "No The Successors material from target291 is imported."
+  ]
+}
