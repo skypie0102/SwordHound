@@ -1,0 +1,71 @@
+{
+  "chapter": 222,
+  "title": "That Day, Him and Me (3)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
+    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/222.txt",
+    "blob_sha": "c96a6345ce61611da8118ceb398308182145cf2b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-220.xhtml",
+    "blob_sha": "6208c7e7e7d8a72f61f6869bd5e19a4a468302d5",
+    "target_alignment": 222,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0222.md",
+    "blob_sha": "71f7a59e082ac00c5403c99c07bd9833552d2659"
+  },
+  "qa": {
+    "path": "qa/chapter-0222.md",
+    "blob_sha": "f06df9076b7358fe374b3e07f80d2ebccfdb8132",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "morgue_origin",
+      "final": "Morgue begins as unidentified-corpse preservation/identification/return work",
+      "basis": "Chinese C222"
+    },
+    {
+      "topic": "black_magic_doctrine",
+      "final": "Snake teaches true black magic begins with love/understanding of life",
+      "basis": "Chinese C222"
+    },
+    {
+      "topic": "complete_resurrection",
+      "final": "Art of Complete Resurrection is life-for-life and forbidden",
+      "basis": "Chinese C222"
+    },
+    {
+      "topic": "snake_sacrifice",
+      "final": "Snake takes most backlash, closes death-door, dies saving Camus",
+      "basis": "Chinese C222"
+    },
+    {
+      "topic": "seere_offer",
+      "final": "Camus ends half-dead/half-alive and hears Seere's offer",
+      "basis": "Chinese C222"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/225.txt",
+    "chinese_sha": "1879573d9f58626cc95bab311a29bccec2ad5cbf",
+    "english_path": "source/chapters/chapter-223.xhtml",
+    "english_sha": "fdd69ef9d7396852dca97e9936353a8d32ed6144",
+    "purpose": "both begin Tuition (1), target225"
+  }
+}

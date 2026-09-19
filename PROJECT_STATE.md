@@ -2,49 +2,47 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 219  
+**Accepted:** 224  
 **Staged:** 0  
-**Next chapter:** 220
+**Next chapter:** 225
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 206–215 — *Festival Night (1)–(10)*
 - Chapters 216–219 — *My Neck Will Be Your Sheath (1)–(4)*
+- Chapters 220–224 — *That Day, Him and Me (1)–(5)*
 
-Latest family QA: `qa/families/my-neck-sheath-0216-0219.md` — **PASS**.
+Latest family QA: `qa/families/that-day-him-me-0220-0224.md` — **PASS**.
 
-## My Neck Will Be Your Sheath decisions
+## That Day, Him and Me decisions
 
-- Verified mapping: **216→E214 through 219→E217**.
-- **Target 216 is the first explicit source identification of the Corpse Queen as Camus Morgue.**
-- Camus's hoarse voice comes from years of crying/searching after Vikir disappeared.
-- Camus leaves Adolf's Light Faction, joins Snake's Dark Faction, and pursues black magic because she believes Vikir dead and wants to resurrect him.
-- Rosie Morgue / Ah'Heman evidence is assembled retrospectively only after the Camus reveal.
-- Camus gives Vikir her diary, accepts that the Demon King must die, and offers her neck: **“My neck will become your sheath.”**
-- Camus's ex-girlfriend / Dolores-girlfriend wording remains her comic misunderstanding.
-- At midnight, **Seere** forcibly takes the body. Their contract is a **twelve-hour co-control / roommate arrangement**, not ordinary total possession.
-- **Art of Complete Resurrection** spends the caster's life to fully revive a target and requires physical remains.
-- Camus's failed resurrection attempt causes catastrophic mana surge and half-alive / half-brain-dead damage; Seere offers the contract afterward.
-- Vikir's first attempt to kill only Seere fails because a Peak Sword Graduator cannot yet cut the abstract contract itself.
-- **Sword Master** is distinguished by perception/cutting of concepts, souls, and abstract bonds.
-- Camus's accumulated feelings reach Vikir through shared mana and restore emotions he believed erased.
-- Vikir's feeling for Camus remains deliberately uncategorized; the source approximates it with younger-sister-like protectiveness rather than declaring romance.
-- Camus overrides Seere beyond her allotted control window at risk of soul destruction and gives Vikir the decisive opening.
-- Vikir reaches genuine **Sword Master** without Dolores's Saintess buff.
-- **Seventh Fang** becomes complete enough to sever the Camus–Seere contract.
-- **Removing the Lens** and **Heart Sword** are conceptual Sword Master explanations, not numbered Baskerville Fangs.
-- Vikir cuts only the contract, leaving Camus physically intact, ejects Seere, then destroys the Eighth Corpse completely with seven Fangs.
-- Vikir deliberately allows **Rosie Morgue / Geronto** to evacuate Camus for black-mage-compatible care.
-- Triplets provide Vikir's public alibi after the hidden barrier disappears.
-- The family ends with Vikir consciously worrying whether Camus will be all right.
+- Verified mapping: **220→E218 through 224→E222**.
+- Camus's grief after Vikir's disappearance, lost voice, self-blame, and search obsession remain the family foundation.
+- Adolf's “the living carry the dead's share” consolation becomes Camus's trigger for resurrection theory; her thermodynamic/state-function reasoning remains her own inference.
+- Camus is explicitly **17** when she leaves the Light Faction and seeks Snake's Dark Faction.
+- Snake's taboo love for Raspane remains source-present and is not romanticized.
+- Camus's desperate attempt to use her body as leverage remains brief and clinical; Snake immediately rejects it and magically redresses her.
+- Snake's black-magic doctrine is life-centered: life, love, friendship, trust, connection, gratitude, and mortality must be understood before death.
+- Morgue's historical origin is corpse preservation, identification, and returning bodies to families.
+- Camus raises Rosie as an intelligent undead but seeks true resurrection.
+- **Art of Complete Resurrection** remains forbidden, life-for-life magic.
+- The ritual fails; Snake absorbs most of the backlash, closes the death-door, and dies saving Camus.
+- Camus survives half-dead / half-alive and Seere's attempted takeover becomes the later twelve-hour co-control arrangement.
+- Seere's person-finding ability becomes Camus's route back toward Vikir.
+- Camus raises Ah'Heman, restores Rosie/Geronto, and creates a **Life Vessel** beneath the ruins.
+- C224's diary is a source-explicit *The Raven* adaptation; production paraphrases rather than reproducing the English poem.
+- Camus interprets Vikir's hesitation/nonfatal targeting as proof he cares. This remains **Camus's interpretation**, not objective relationship status.
+- Residual Seere survives only as a tiny penalty-linked remnant and becomes subordinate to Camus.
+- Camus refuses to open the Gate because the world must survive while she and Vikir live.
+- “Bride,” “future husband,” and **“You are mine”** remain unilateral Camus possessiveness/fantasy.
+- Camus plans recovery, Snake's funeral, Dark Faction succession, return to Morgue, and eventual Colosseo entry in the twenty-first class.
 
-## Next verified title family
+## Next verified title families
 
-- **Targets 220–224 — That Day, Him and Me (1)–(5)**
-- Mapping: **220→E218 through 224→E222**
-- Target **225** begins **Tuition (1)** and aligns to **E223**.
+- **Targets 225–233 — Tuition (1)–(9)** — mapping **225→E223 through 233→E231**. Raw Chinese alternates 学费 / 注册金 / 注册费, but recovered sequence consistently establishes *Tuition*.
+- **Targets 234–235 — Suspicion (1)–(2)** — mapping **234→E232, 235→E233**.
+- Target **236** begins **National University League (1)** and aligns to **E234**.
 
 ## Source authority
 
@@ -52,4 +50,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **My Neck Will Be Your Sheath, targets 216–219** checkpoint, then branch from merged main for **That Day, Him and Me, targets 220–224**. Read C220–224 against E218–222 completely, with C225/E223 as the next-family boundary.
+Merge the clean **That Day, Him and Me, targets 220–224** checkpoint, then branch from merged main for **Tuition, targets 225–233**. Read C225–233 against E223–231 completely, with C234/E232 as the next-family boundary.

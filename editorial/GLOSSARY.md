@@ -860,3 +860,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **That Day, Him and Me** — next family targets 220–224; witnesses E218–E222.
 - **Tuition** — begins target 225 / E223.
 
+## That Day, Him and Me additions — Chapters 220–224
+
+- **That Day, Him and Me** — accepted family targets 220–224; witnesses E218–E222.
+- **Camus grief trigger** — Adolf's “living carry the dead's share” consolation becomes the seed of her resurrection obsession.
+- **Camus age 17** — explicit when she seeks the Dark Faction.
+- **Snake's black-magic doctrine** — true black magic begins with valuing life, love, friendship, trust, connection, gratitude, and mortality.
+- **Morgue origin** — historical corpse preservation / identification / return-to-family work.
+- **Art of Complete Resurrection** — forbidden life-for-life revival magic; failure kills Snake while saving Camus.
+- **Half-death contract origin** — Camus survives half-dead, forcing Seere into twelve-hour co-control.
+- **Life Vessel** — emergency black-mage backup heart built beneath the Indulgentia ruins.
+- **The Raven diary** — source-explicit Poe adaptation; paraphrase in production.
+- **Camus relationship guard** — Vikir-care inference / bride / future-husband / “You are mine” remain unilateral Camus interpretation.
+- **Tuition** — next family targets 225–233; witnesses E223–E231.
+- **Suspicion** — targets 234–235; witnesses E232–E233.
+- **National University League** — begins target 236 / E234.
+

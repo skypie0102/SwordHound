@@ -1,0 +1,42 @@
+{
+  "chapter": 220,
+  "title": "That Day, Him and Me (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
+    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/220.txt",
+    "primary_source_sha": "8f768db48cb1b62930c38bf5f924bb5176a6e63c",
+    "english_reference_path": "source/chapters/chapter-218.xhtml",
+    "english_reference_sha": "c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3",
+    "draft_path": "manuscript/drafts/chapter-0220.md",
+    "draft_sha": "1f44c7100cd758a137522cf957c06cbacd26d096",
+    "qa_path": "qa/chapter-0220.md",
+    "qa_sha": "8f50fd30c205a36bccc1e266490a6c5e569d5eb3",
+    "provenance_path": "editorial/provenance/chapter-0220.json",
+    "provenance_sha": "665bc0e9fbe0bfe74725ffb7b62058e2b44e6166"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Adolf Morgue",
+    "Raspane Morgue",
+    "Rosie Morgue",
+    "Vikir Van Baskerville",
+    "Le Rouge et Le Noir Mountain"
+  ],
+  "documented_limits": [
+    "Camus resurrection/state-function reasoning remains her inference.",
+    "Adolf's comfort line is the obsession trigger, not a resurrection doctrine."
+  ],
+  "next_family_alignment_note": "Target225→E223 begins Tuition (1)."
+}

@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — That Day, Him and Me (1)–(5) accepted
+
+**Current state:** 224 / 500 accepted; 0 staged; next Chapter 225.
+
+Completed targets 220–224 with mapping **220→E218 through 224→E222**.
+
+Key decisions: Camus's grief drives resurrection obsession; at seventeen she joins Snake's Dark Faction; Snake's true-black-mage doctrine centers on valuing life; Complete Resurrection fails and Snake dies saving Camus; the resulting half-death produces Seere's twelve-hour co-control contract; Camus creates a Life Vessel and begins suspecting Night Hound may be Vikir; post-contract Camus subjugates residual Seere while all bride/future-husband language remains her unilateral fantasy.
+
+Family QA: `qa/families/that-day-him-me-0220-0224.md` — **PASS**.
+
+Next verified family: **225–233 — Tuition (1)–(9)**. Targets **234–235** are *Suspicion (1)–(2)*.
+
 ## 2026-09-19 — My Neck Will Be Your Sheath (1)–(4) accepted
 
 **Current state:** 219 / 500 accepted; 0 staged; next Chapter 220.

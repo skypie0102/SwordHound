@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 219,
+  "accepted_chapters": 224,
   "staged_chapters": 0,
-  "next_chapter": 220,
+  "next_chapter": 225,
   "latest_accepted_family": {
-    "name": "My Neck Will Be Your Sheath",
-    "range": [
-      216,
-      219
-    ],
-    "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
-  },
-  "next_title_family": {
     "name": "That Day, Him and Me",
     "range": [
       220,
       224
     ],
-    "boundary_status": "verified five-part family",
-    "following_family_starts": 225,
-    "following_title": "Tuition (1)",
-    "alignment_note": "220→E218 through224→E222;225→E223"
+    "family_qa": "qa/families/that-day-him-me-0220-0224.md"
+  },
+  "next_title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "boundary_status": "verified nine-part family; raw Chinese title wording alternates",
+    "following_family_starts": 234,
+    "following_title": "Suspicion (1)",
+    "alignment_note": "225→E223 through233→E231;234→E232"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -281,23 +281,26 @@
     216,
     217,
     218,
-    219
+    219,
+    220,
+    221,
+    222,
+    223,
+    224
   ],
   "notes": [
-    "Chapters216-219 are accepted as My Neck Will Be Your Sheath (1)-(4).",
-    "Target216 is the first explicit source identification of the Corpse Queen as Camus Morgue.",
-    "Camus left Adolf's Light Faction for Snake's Dark Faction and black magic because she believed Vikir dead and wanted to resurrect him.",
-    "Art of Complete Resurrection spends the caster's life and requires physical remains; Camus's failed attempt left catastrophic half-alive/half-brain-dead damage before Seere's contract.",
-    "Camus/Seere share the body in twelve-hour control shifts rather than ordinary total possession.",
-    "Vikir's feelings for Camus remain deliberately uncategorized; source uses a younger-sister-like protective comparison rather than declaring romance.",
-    "Camus overrides Seere past her allotted control window and gives Vikir an opening.",
-    "Vikir reaches genuine Sword Master without Dolores's external Saintess buff.",
-    "Completed Seventh Fang can cut the Camus-Seere conceptual contract.",
-    "Removing the Lens / Heart Sword are conceptual Sword Master explanations, not numbered Baskerville techniques.",
-    "Vikir severs the contract, ejects Seere, and destroys the Eighth Corpse with seven Fangs while leaving Camus physically intact.",
-    "Vikir deliberately lets Rosie Morgue/Geronto evacuate Camus for black-mage-compatible treatment.",
-    "The family closes with Vikir consciously worrying whether Camus will be all right.",
-    "Next family targets220-224 — That Day, Him and Me (1)-(5), mapped220→E218 through224→E222. Target225→E223 begins Tuition (1).",
+    "Chapters220-224 are accepted as That Day, Him and Me (1)-(5).",
+    "Camus's post-mountain grief and Adolf's living-carry-dead-share consolation trigger her resurrection obsession.",
+    "At17 Camus leaves Light Faction for Snake's Dark Faction to pursue resurrection; her desperate sexual provocation remains brief/non-erotic and Snake immediately rejects it.",
+    "Snake teaches that true black magic requires deep understanding/love of life before death.",
+    "Camus raises Rosie as intelligent undead but pursues Art of Complete Resurrection.",
+    "Failed resurrection kills Snake, who absorbs the backlash and sends Camus back from the death-door.",
+    "Half-dead Camus's Seere contract becomes twelve-hour co-control rather than full possession.",
+    "Camus raises Ah'Heman, restores Rosie/Geronto, builds a Life Vessel, and begins suspecting Night Hound may be surviving Vikir.",
+    "C224 Raven diary is paraphrased from the source's Poe adaptation rather than reproduced line-for-line.",
+    "Camus's belief that Vikir cares, and bride/future-husband/You are mine language, remain unilateral Camus interpretation/fantasy.",
+    "Residual Seere becomes a tiny subordinate remnant; Camus refuses to open the Gate.",
+    "Next family targets225-233 — Tuition (1)-(9), mapped225→E223 through233→E231. Targets234-235 are Suspicion; target236 begins National University League.",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

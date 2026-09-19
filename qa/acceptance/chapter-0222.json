@@ -1,0 +1,41 @@
+{
+  "chapter": 222,
+  "title": "That Day, Him and Me (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
+    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/222.txt",
+    "primary_source_sha": "c96a6345ce61611da8118ceb398308182145cf2b",
+    "english_reference_path": "source/chapters/chapter-220.xhtml",
+    "english_reference_sha": "6208c7e7e7d8a72f61f6869bd5e19a4a468302d5",
+    "draft_path": "manuscript/drafts/chapter-0222.md",
+    "draft_sha": "71f7a59e082ac00c5403c99c07bd9833552d2659",
+    "qa_path": "qa/chapter-0222.md",
+    "qa_sha": "f06df9076b7358fe374b3e07f80d2ebccfdb8132",
+    "provenance_path": "editorial/provenance/chapter-0222.json",
+    "provenance_sha": "9ee2e52d3db4cc7764803522ae3d488b23b4fad5"
+  },
+  "canonical_checks": [
+    "Snake Morgue",
+    "Camus Morgue",
+    "Rosie Morgue",
+    "Art of Complete Resurrection",
+    "Morgue Dark Faction"
+  ],
+  "documented_limits": [
+    "Black-magic life doctrine remains Snake's teaching.",
+    "Snake sacrifice is source-explicit and closes with Seere's offer."
+  ],
+  "next_family_alignment_note": "Target225→E223 begins Tuition (1)."
+}
