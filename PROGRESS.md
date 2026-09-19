@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Worst Torture (1)–(6) accepted
+
+**Current state:** 395 / 500 accepted; 0 staged; next Chapter 396.
+
+Completed targets **390–395** with mapping **E388–E393**.
+
+Key decisions: Sakkuth de Leviathan’s plague is a bluff unknown to Vikir before the cigarette test; Vikir fabricates the Queen escape story from real clues; Kirko’s concern remains ambiguous; Garam is promoted to Captain; Chinese “No” overrides E393 “It might” in the Bible exchange; and the D-7 false-hope message closes the family.
+
+Family QA: `qa/families/worst-torture-0390-0395.md` — **PASS**.
+
+Next verified family: **396–398 — Dead Man Walking (1)–(3)**, mapping **E394–E396**. Black Tongue follows targets399–402 / E397–E400.
+
 ## 2026-09-19 — The Rotten Dog of Nouvelle Vague (1)–(5) accepted
 
 **Current state:** 389 / 500 accepted; 0 staged; next Chapter 390.
