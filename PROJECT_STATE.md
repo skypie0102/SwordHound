@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 320  
+**Accepted:** 325  
 **Staged:** 0  
-**Next chapter:** 321
+**Next chapter:** 326
 
-Latest accepted family: **Surplus Man (1)–(7)** — targets314–320 / E312–E318.  
-Family QA: `qa/families/surplus-man-0314-0320.md` — **PASS**.
+Latest accepted family: **Underdogma (1)–(5)** — targets321–325 / E319–E323.  
+Family QA: `qa/families/underdogma-0321-0325.md` — **PASS**.
 
-Key decisions: the family boundary is corrected from the stale 314–315 note to 314–320; the S-rank Daylily mission is designed to force social collapse, but Vikir substitutes pooled nonlethal biological material for sacrifice; Silver Reflexes unlocks a fifth tower stat; the S-rank Conversion Bug becomes Baby Madam’s harmless parasite host; and all 68 survivors reach Basement Floor4.
+Key decisions: Black Sea no-buoyancy mechanics; Commoner Faction / triplet enslavement chronology; Beetlemen world-fragment reveal; A+ Underdogma transformation; Level1 kill; reverse Candy Shop conversion; White Magic Resistance +1.
 
-Next verified family: **Underdogma (1)–(5)** — targets321–325 / E319–E323.  
-Following: **The Shadowless King of the Black Sea (1)–(5)** — targets326–330 / E324–E328.
+Next verified family: **The Shadowless King of the Black Sea (1)–(5)** — targets326–330 / E324–E328.  
+Following family: **Draw (1)–(2)** — targets331–332 / E329–E330.
