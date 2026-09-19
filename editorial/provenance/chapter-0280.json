@@ -1,0 +1,37 @@
+{
+  "chapter": 280,
+  "title": "What Money Can't Buy (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "What Money Can't Buy",
+    "range": [
+      279,
+      282
+    ],
+    "family_qa_path": "qa/families/what-money-cant-buy-0279-0282.md",
+    "family_qa_sha": "52aa4e0267c9a84ec650222d8910715c5e9d537b",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/280.txt",
+    "blob_sha": "bf942cc63683c901b3f8c9ec92441b81be85ddd5",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-278.xhtml",
+    "blob_sha": "96f2f3e5463de65e429dc82a35739d907874e94c",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0280.md",
+    "blob_sha": "c05456bd49423af19ef9f277293e0a394ab4ddd7"
+  },
+  "qa": {
+    "path": "qa/chapter-0280.md",
+    "blob_sha": "7844af60cd6315eb9a208b81d159c099012282e5",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Juliet/Romeo/Bartolomeo remain source-local pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
