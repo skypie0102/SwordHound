@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 272,
+  "accepted_chapters": 278,
   "staged_chapters": 0,
-  "next_chapter": 273,
+  "next_chapter": 279,
   "latest_accepted_family": {
-    "name": "Rich Friends",
-    "range": [
-      270,
-      272
-    ],
-    "family_qa": "qa/families/rich-friends-0270-0272.md"
-  },
-  "next_title_family": {
     "name": "Money War",
     "range": [
       273,
       278
     ],
+    "family_qa": "qa/families/money-war-0273-0278.md"
+  },
+  "next_title_family": {
+    "name": "What Money Can't Buy",
+    "range": [
+      279,
+      282
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 279,
-    "following_title": "What Money Can't Buy (1)",
-    "alignment_note": "273→E271 through 278→E276; 279→E277 begins What Money Can't Buy (1)"
+    "following_family_starts": 283,
+    "following_title": "Time Flies (1)",
+    "alignment_note": "279→E277 through 282→E280; 283→E281 begins Time Flies (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -334,9 +334,23 @@
     269,
     270,
     271,
-    272
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278
   ],
   "notes": [
+    "Chapters273-278 accepted as Money War (1)-(6), mapping E271-E276.",
+    "Oracle's apparent market-prediction genius is a probability-filtering scheme followed by a genuine Cindywendy trade payoff.",
+    "Dolores declines to expose Night Hound with Mirror of Truth despite growing Academy-insider suspicion.",
+    "Damien Bourgeois is selected as the internal contact because he lost the succession fight to current head Bartolomeo and survives partly through Imperial service.",
+    "Oracle's ultra-luxury party is designed from Vikir's pre-regression end-times excess and financed partly by demon-collaborator debt under false identities.",
+    "Damien uses an old Bahamut-derived pre-fusion sword style ancestral to Baskerville and reaches a fourth-form Sword Graduator attack, but Vikir defeats it.",
+    "Vikir explicitly did not come to kill Damien; Chapter278 ends with Damien's death wish exposed but unexplained.",
+    "Next family What Money Can't Buy verified targets279-282 / E277-E280; Time Flies begins target283/E281.",
     "Chapters270-272 accepted as Rich Friends (1)-(3), mapping E268-E270.",
     "Ledger payoff identifies House Bourgeois as the laundering/funding endpoint; Vikir still seeks the individual demon rather than condemning the whole family.",
     "Cindywendy explicitly reports the head of House Bourgeois is a demon.",
