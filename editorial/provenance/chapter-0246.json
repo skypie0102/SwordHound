@@ -1,0 +1,61 @@
+{
+  "chapter": 246,
+  "title": "Survival Contest (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/246.txt",
+    "blob_sha": "040f3638a11fa3f5e028302678873975a897823f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-244.xhtml",
+    "blob_sha": "c505766d4fe4eee5980b042626d46f6e31220c9d",
+    "target_alignment": 246,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0246.md",
+    "blob_sha": "c7d0c8408ba91cd7a289612058305deca15f4ae2"
+  },
+  "qa": {
+    "path": "qa/chapter-0246.md",
+    "blob_sha": "d4ea1202f5e24cbb54ae13d07b37dd8d457c0f33",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "wildcat_fix",
+      "final": "Dead wildcat upstream controls over recovered-English elk",
+      "basis": "Chinese C246 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "hp",
+      "final": "Granola 74% → 41% → 92% through environmental attrition and Vikir’s food",
+      "basis": "Chinese C246 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "fieldcraft",
+      "final": "Vikir’s Ballak/Baskerville experience controls jungle survival",
+      "basis": "Chinese C246 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/250.txt",
+    "chinese_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
+    "english_path": "source/chapters/chapter-248.xhtml",
+    "english_sha": "c446be097b98c0609a35450640038009a0b502d1",
+    "purpose": "target250 begins Recap (1)"
+  }
+}

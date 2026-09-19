@@ -1,0 +1,66 @@
+{
+  "chapter": 247,
+  "title": "Survival Contest (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/247.txt",
+    "blob_sha": "f4978db3c27649f2cc606f9497a47433b3263027",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-245.xhtml",
+    "blob_sha": "ec107d03414ac032b0dbc5fc19f738c64df25ad1",
+    "target_alignment": 247,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0247.md",
+    "blob_sha": "2d8802daa24a28bb65afe1f8844032f31dbd00ae"
+  },
+  "qa": {
+    "path": "qa/chapter-0247.md",
+    "blob_sha": "69875bcbfaaf950eb44153dc313e963a0b7f36aa",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "dolores_hunger",
+      "final": "Dolores has eaten nothing for the day, not multiple days",
+      "basis": "Chinese C247 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "night_hound_echo",
+      "final": "Hungry-lamb line echoes Night Hound without identity recognition",
+      "basis": "Chinese C247 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "team_resolution",
+      "final": "Dolores’s four teammates were eliminated; Vikir’s four remain present",
+      "basis": "Chinese C247 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "nickname_guard",
+      "final": "Use Snub-nosed here; Thousand Flames appears in target248",
+      "basis": "Chinese C247 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/250.txt",
+    "chinese_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
+    "english_path": "source/chapters/chapter-248.xhtml",
+    "english_sha": "c446be097b98c0609a35450640038009a0b502d1",
+    "purpose": "target250 begins Recap (1)"
+  }
+}

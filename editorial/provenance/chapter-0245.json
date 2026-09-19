@@ -1,0 +1,66 @@
+{
+  "chapter": 245,
+  "title": "Survival Contest (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/245.txt",
+    "blob_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-243.xhtml",
+    "blob_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "target_alignment": 245,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0245.md",
+    "blob_sha": "bff76a5869155a0343301d48d90a9a69157f2323"
+  },
+  "qa": {
+    "path": "qa/chapter-0245.md",
+    "blob_sha": "d7092afd3aa74b4b6374ad5864e2060db5b58865",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "royal_student_guard",
+      "final": "Dolores briefly considers Vikir as the rumored hidden Imperial student, then rejects the idea for lack of evidence",
+      "basis": "Chinese C245 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "map",
+      "final": "Survival Contest map is Jungle — Le Rouge et Le Noir Mountain",
+      "basis": "Chinese C245 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "faculty",
+      "final": "Basilios / Hippolite / Whitebeard Whale / Banshee Morgue",
+      "basis": "Chinese C245 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "principal_absence",
+      "final": "Banshee’s explanation is interrupted; no reason supplied",
+      "basis": "Chinese C245 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/250.txt",
+    "chinese_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
+    "english_path": "source/chapters/chapter-248.xhtml",
+    "english_sha": "c446be097b98c0609a35450640038009a0b502d1",
+    "purpose": "target250 begins Recap (1)"
+  }
+}
