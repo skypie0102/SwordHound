@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 395,
+  "accepted_chapters": 398,
   "staged_chapters": 0,
-  "next_chapter": 396,
+  "next_chapter": 399,
   "latest_accepted_family": {
-    "name": "The Worst Torture",
-    "range": [
-      390,
-      395
-    ],
-    "family_qa": "qa/families/worst-torture-0390-0395.md"
-  },
-  "next_title_family": {
     "name": "Dead Man Walking",
     "range": [
       396,
       398
     ],
+    "family_qa": "qa/families/dead-man-walking-0396-0398.md"
+  },
+  "next_title_family": {
+    "name": "Black Tongue",
+    "range": [
+      399,
+      402
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 399,
-    "following_title": "Black Tongue (1)",
-    "alignment_note": "396→E394 through 398→E396; Black Tongue 399–402 / E397–E400; Jailbreaker begins 403/E401."
+    "following_family_starts": 403,
+    "following_title": "Jailbreaker (1)",
+    "alignment_note": "399→E397 through 402→E400; Jailbreaker 403–406 / E401–E404."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -457,9 +457,19 @@
     392,
     393,
     394,
-    395
+    395,
+    396,
+    397,
+    398
   ],
   "notes": [
+    "Chapters396-398 accepted as Dead Man Walking (1)-(3), mapping E394-E396.",
+    "Kirko explains her birth from the 19-years-ago prisoner-on-guard rape incident and her earlier resentment toward Garam; romance gossip remains unresolved.",
+    "Brigadier General Flubber is the ancient Warden; the Warden and the Flubber mucus/barrier substance are distinct despite sharing the name.",
+    "Sakkuth dies in Flubber after realizing Vikir's rescue story was false; Vikir treats Flubber as an incalculable escape variable.",
+    "Garam is promoted to Major and Kirko to Captain; Bastille's children-resemble-parents remark remains an unresolved clue.",
+    "Black Tongue is introduced as Nouvelle Vague's one-person Audit Team and the guard who punishes guards.",
+    "Next family Black Tongue verified targets399-402 / E397-E400; Jailbreaker follows 403-406 / E401-E404.",
     "Chapters390-395 accepted as The Worst Torture (1)-(6), mapping E388-E393.",
     "Sakkuth de Leviathan is the Level Eight rioter; his apparent plague is a deliberate bluff, but Vikir did not know that before accepting the blood-soaked cigarette.",
     "Vikir manipulates Sakkuth with a fabricated Queen/Ms. Ouroboros escape story built from genuine clues and the Orwell fragment.",
