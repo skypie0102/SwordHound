@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Rich Friends (1)–(3) accepted
+
+**Current state:** 272 / 500 accepted; 0 staged; next Chapter 273.
+
+Completed targets **270–272** with mapping **E268–E270**.
+
+Key decisions: House Bourgeois is the ledger’s financial endpoint; Cindywendy explicitly confirms the family head is a demon; Vikir requires credible wealth provenance rather than raw capital; Winston Smith / damaged Orwell remain a separate Academy mystery; and Oracle uses Pigi/Sinclaire for information/administration.
+
+Family QA: `qa/families/rich-friends-0270-0272.md` — **PASS**.
+
+Next verified family: **273–278 — Money War (1)–(6)**, mapping **E271–E276**. Target279/E277 begins *What Money Can't Buy (1)*.
+
 ## 2026-09-19 — The Eucharist (1)–(2) accepted
 
 **Current state:** 269 / 500 accepted; 0 staged; next Chapter 270.
