@@ -1,0 +1,36 @@
+{
+  "chapter": 304,
+  "title": "The Age of the Warmonger (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
+    "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
+    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/304.txt",
+    "primary_source_sha": "49821354ea646cbd5bf00224933d3ae8210f69f5",
+    "english_reference_path": "source/chapters/chapter-302.xhtml",
+    "english_reference_sha": "a76c64ae0b561d3523ecbab19aab526a3f171bdb",
+    "draft_path": "manuscript/drafts/chapter-0304.md",
+    "draft_sha": "8b905b80c42af04746146483175e3a4ae23edf3a",
+    "qa_path": "qa/chapter-0304.md",
+    "qa_sha": "1d7ec40aa3f6721290d97c6b0de6905320fb3ff1",
+    "provenance_path": "editorial/provenance/chapter-0304.json",
+    "provenance_sha": "ebd72c32b6e7bfd2aeb9e8e7b27974d67e8e5ddb"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Hell Tree interior content from target307 is imported."
+  ],
+  "corrections": [
+    "Sea-voyage clause resolved with E302: Winston's partner tells sailors to throw him overboard."
+  ]
+}
