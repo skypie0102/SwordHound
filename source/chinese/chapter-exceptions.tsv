@@ -3,8 +3,8 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 55	054.txt	partial_combined_overlap	55	No standalone 055.txt. Most target-55 body survives appended in 054.txt without a Chapter 55 heading; aligned English 55 supplies the missing target-55 opening/title boundary and remains secondary where Chinese overlap exists.
 75	075.txt	combined_unsplittable	74	Shared raw container for targets 75-76. Header declares 75+76, but no internal Chapter-76 heading exists; E74/E75 content alignment shows a cross-boundary splice/omission, so physical source splitting is unsafe. Reconstruct target 75 separately by content.
 76	075.txt	combined_unsplittable	75	Shared raw container for targets 75-76. No safe source-level seam; reconstruct target 76 separately by content using C075 overlap plus aligned E75 where Chinese boundary material is absent.
-267	267.txt	combined	265	Shared raw container for target Chapters 267-268; verified by title/content: Season's Redemption (4).
-268	267.txt	combined	266	Shared raw container for target Chapters 267-268; verified by title/content: Eucharist (1).
+267	267.txt	combined_partial_gap	265	Shared raw container for targets 267-268. Target267 Season's Redemption (4) runs through Humbert's adjutant search; the Chinese then visibly omits a short hiding/recognition bridge restored only from aligned E265. Text beginning with Vikir already wearing the child's dog mask belongs to target268.
+268	267.txt	combined_no_internal_heading	266	Shared raw container for targets 267-268 with no internal Chapter-268 heading. Remaining Chinese text beginning with Vikir already wearing the child's dog mask aligns to E266 Eucharist (1) and continues through Vikir's 'I need your body' line; do not physically split the raw.
 284	284.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
 285	284.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
 351	351.txt	combined		Shared raw container; English MTL counterpart must be aligned by title/content before drafting.
