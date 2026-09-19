@@ -1,0 +1,42 @@
+{
+  "chapter": 292,
+  "title": "The Successors (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Successors",
+    "range": [
+      291,
+      292
+    ],
+    "family_qa_path": "qa/families/successors-0291-0292.md",
+    "family_qa_sha": "ad31a426b65a13a70c058d95653063514101fbad",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/292.txt",
+    "blob_sha": "0d711a3f1d93cbb6bb2b1a37b8fbba038d61506e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-290.xhtml",
+    "blob_sha": "83c4441c286d7eccb3e2a35f869bc0dd013d53e4",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0292.md",
+    "blob_sha": "17c78fe172b9a071786c85e6c53e6b250d3d6e14"
+  },
+  "qa": {
+    "path": "qa/chapter-0292.md",
+    "blob_sha": "9062b764da9088a38848ae90ce5262e260d06969",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and new source-local surname/middle-initial forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "key_reveals": [
+    "Sinclaire is Bartolomeo Bourgeois's daughter and Damien Bourgeois's niece.",
+    "Sinclaire and Juliet are the next-generation Bourgeois successor candidates.",
+    "Ms. Ouroboros captures Humbert and Belial's golden demon-eye object, invoking the Warring States Era."
+  ]
+}
