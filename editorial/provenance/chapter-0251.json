@@ -1,0 +1,60 @@
+{
+  "chapter": 251,
+  "title": "Recap (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Recap / Celebration Banquet",
+    "range": [
+      250,
+      252
+    ],
+    "family_qa_path": "qa/families/recap-celebration-banquet-0250-0252.md",
+    "family_qa_sha": "3f91f0b7a1b1a300729480ccd9bbe95aaf821dde",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/251.txt",
+    "blob_sha": "ffec956f8fb7ce30ff42000ca822611411b72454",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-249.xhtml",
+    "blob_sha": "fbea7002cf24f5f8ad2f034130b02ec4d7c0db97",
+    "target_alignment": 251,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0251.md",
+    "blob_sha": "6b7949703db118400184913f0c0b7fbb5f303b05"
+  },
+  "qa": {
+    "path": "qa/chapter-0251.md",
+    "blob_sha": "c7ddbe5676545364ab04f31dbf78776fea8ac4c5",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "crown_prince_theory",
+      "final": "Dolores wrongly theorizes Vikir is the Emperor's surviving illegitimate child / Crown Prince; rumor remains unverified.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "reveal_guard",
+      "final": "Baskerville identity and Night Hound identity remain distinct; Night Hound reveal is still premature.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "temisquira_protest",
+      "final": "Demonstration is a comedic effort to join Colosseo's celebration and see Vikir.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target252/E250 closes the batch with Chinese title Celebration Banquet (3).",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    }
+  ],
+  "canonical_reference_limit": "Direct Fandom verification was blocked by site robots rules; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
