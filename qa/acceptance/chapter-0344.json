@@ -1,0 +1,33 @@
+{
+  "chapter": 344,
+  "title": "Ballak (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Ballak",
+    "range": [
+      343,
+      347
+    ],
+    "family_qa_path": "qa/families/ballak-0343-0347.md",
+    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/344.txt",
+    "primary_source_sha": "bbf260480d91ab7037e8b437e4902a5f258fde4c",
+    "english_reference_path": "source/chapters/chapter-342.xhtml",
+    "english_reference_sha": "fa00bf71687a23ec52739e0b34452c1339e1852e",
+    "draft_path": "manuscript/drafts/chapter-0344.md",
+    "draft_sha": "ddd266309a96349946c1b01f2732576aad32535b",
+    "qa_path": "qa/chapter-0344.md",
+    "qa_sha": "911db69f9edd85fcbe33515bb9e2d497686992fb",
+    "provenance_path": "editorial/provenance/chapter-0344.json",
+    "provenance_sha": "4abe6a7eddb7826b536ccda10e63dfc91ae6831f"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established project glossary forms were reused.",
+    "No Key man material from target348 is imported."
+  ]
+}
