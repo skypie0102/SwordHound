@@ -1,0 +1,36 @@
+{
+  "chapter": 383,
+  "title": "Kennel (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Kennel",
+    "range": [
+      382,
+      384
+    ],
+    "family_qa_path": "qa/families/kennel-0382-0384.md",
+    "family_qa_sha": "77a570da8dbe91cebe52dfc242cc7da165367995",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/383.txt",
+    "blob_sha": "ff4da23f2b79e78c88849b6b19ea76fd05bd30ec",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-381.xhtml",
+    "blob_sha": "4cfc3a69bc33e83d1902f5e1da549f82830170bc",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0383.md",
+    "blob_sha": "07c076e2c4164a6b5dfdc7eac1be773d98692db2"
+  },
+  "qa": {
+    "path": "qa/chapter-0383.md",
+    "blob_sha": "fa42d9f9fa1a8f8621f4dd90899f413de8272ef7",
+    "status": "pass"
+  },
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
