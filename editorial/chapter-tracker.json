@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 347,
+  "accepted_count": 350,
   "staged_count": 0,
-  "next_chapter": 348,
+  "next_chapter": 351,
   "active_title_family": {
-    "name": "Key man",
+    "name": "Outside the Tower",
     "range": [
-      348,
-      350
+      351,
+      352
     ],
-    "boundary_status": "verified complete: target348→E346 through target350→E348",
-    "following_family_starts": 351,
-    "following_title": "Outside the Tower (1)",
-    "alignment_note": "348→E346 Key man (1), 349→E347 Key man (2), 350→E348 Key man (3); target351→E349 begins Outside the Tower (1), with Chinese raw 351.txt declared combined 351+352 and requiring pair-boundary verification."
+    "boundary_status": "English mapping verified 351→E349 / 352→E350; Chinese 351.txt is declared combined 351+352 and internal split must be explicitly verified before acceptance",
+    "following_family_starts": null,
+    "following_title": null,
+    "alignment_note": "351→E349 Outside the Tower (1), 352→E350 Outside the Tower (2); inspect forward headings before setting following family."
   },
   "chapters": [
     {
@@ -4873,6 +4873,48 @@
       "acceptance": "qa/acceptance/chapter-0347.json",
       "acceptance_sha": "8fa0ce45372cfe0635f0eed1ffea33f23b7c9408",
       "family_qa": "qa/families/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 348,
+      "title": "Key man (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/348.txt",
+      "english_mtl_reference": "source/chapters/chapter-346.xhtml",
+      "draft": "manuscript/drafts/chapter-0348.md",
+      "qa": "qa/chapter-0348.md",
+      "provenance": "editorial/provenance/chapter-0348.json",
+      "acceptance": "qa/acceptance/chapter-0348.json",
+      "acceptance_sha": "e3ca3663ae784106118dc71eb89d09e3c5432024",
+      "family_qa": "qa/families/key-man-0348-0350.md"
+    },
+    {
+      "chapter": 349,
+      "title": "Key man (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/349.txt",
+      "english_mtl_reference": "source/chapters/chapter-347.xhtml",
+      "draft": "manuscript/drafts/chapter-0349.md",
+      "qa": "qa/chapter-0349.md",
+      "provenance": "editorial/provenance/chapter-0349.json",
+      "acceptance": "qa/acceptance/chapter-0349.json",
+      "acceptance_sha": "b1892025de0afa5d888fe920bdffd6a518c2736e",
+      "family_qa": "qa/families/key-man-0348-0350.md"
+    },
+    {
+      "chapter": 350,
+      "title": "Key man (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/350.txt",
+      "english_mtl_reference": "source/chapters/chapter-348.xhtml",
+      "draft": "manuscript/drafts/chapter-0350.md",
+      "qa": "qa/chapter-0350.md",
+      "provenance": "editorial/provenance/chapter-0350.json",
+      "acceptance": "qa/acceptance/chapter-0350.json",
+      "acceptance_sha": "dba16189b02e6e865e54e90bcbdb5539e900bb10",
+      "family_qa": "qa/families/key-man-0348-0350.md"
     }
   ]
 }
