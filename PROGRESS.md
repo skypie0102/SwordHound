@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Jailbreaker (1)–(6) accepted
+
+**Current state:** 408 / 500 accepted; 0 staged; next Chapter 409.
+
+Completed targets **403–408** with mapping **E401–E406**.
+
+Key decisions: corrected the stale four-part boundary to six parts; Black Tongue reveals the doppelganger-leech program and Asmodeus; Vikir destroys Asmodeus with **Baskerville Eighth Form — Black Sun**; secures parasite eggs; and coerces BDISSEM into releasing all restraints and cell bars from Levels One through Nine, triggering the prison-wide uprising.
+
+Family QA: `qa/families/jailbreaker-0403-0408.md` — **PASS**.
+
+Next verified family: **409–418 — End game (1)–(10)**, mapping **E407–E416**. Target419/E417 begins *Goodbye, Nouvelle Vague (1)*.
+
 ## 2026-09-20 — Black Tongue (1)–(4) accepted
 
 **Current state:** 402 / 500 accepted; 0 staged; next Chapter 403.
