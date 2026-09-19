@@ -1,0 +1,34 @@
+{
+  "chapter": 351,
+  "title": "Outside the Tower (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      355
+    ],
+    "family_qa_path": "qa/families/outside-tower-0351-0355.md",
+    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/351.txt",
+    "primary_source_sha": "7648be481f894ae456f3b0f8d9c1a6ad1b892081",
+    "english_reference_path": "source/chapters/chapter-349.xhtml",
+    "english_reference_sha": "8b8ac18270640aa8895443cdd39883bf5bdb8f2b",
+    "draft_path": "manuscript/drafts/chapter-0351.md",
+    "draft_sha": "023545fb916c4b0a9e259debe912580cec301c29",
+    "qa_path": "qa/chapter-0351.md",
+    "qa_sha": "a20e9329b2e0a1942916303211d1355a841de598",
+    "provenance_path": "editorial/provenance/chapter-0351.json",
+    "provenance_sha": "3f80ebc9e61143ba9fbf6e2487d736b7af0f13fc"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Crime and Punishment material from target356 is imported."
+  ],
+  "source_exception": "Shared raw 351.txt covers targets351-352 with witness-verified seam at Amdusias's disbelief reaction."
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": 354,
+  "title": "Outside the Tower (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      355
+    ],
+    "family_qa_path": "qa/families/outside-tower-0351-0355.md",
+    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/353.txt",
+    "blob_sha": "8558ee1c53aac4e58fe1d68036f77e0f7db49cc9",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-352.xhtml",
+    "blob_sha": "b2442a52fbfc432eff1e8e04a4c32f40b7b083ad",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0354.md",
+    "blob_sha": "c431679cee85ec6e9acd382c82b3a79aba82bc84"
+  },
+  "qa": {
+    "path": "qa/chapter-0354.md",
+    "blob_sha": "d192aab834a27954c9350f69a3a035708f3d877a",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

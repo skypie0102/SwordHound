@@ -1,0 +1,38 @@
+{
+  "chapter": 351,
+  "title": "Outside the Tower (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      355
+    ],
+    "family_qa_path": "qa/families/outside-tower-0351-0355.md",
+    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/351.txt",
+    "blob_sha": "7648be481f894ae456f3b0f8d9c1a6ad1b892081",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-349.xhtml",
+    "blob_sha": "8b8ac18270640aa8895443cdd39883bf5bdb8f2b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0351.md",
+    "blob_sha": "023545fb916c4b0a9e259debe912580cec301c29"
+  },
+  "qa": {
+    "path": "qa/chapter-0351.md",
+    "blob_sha": "a20e9329b2e0a1942916303211d1355a841de598",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "source_exception": "Shared raw 351.txt target351 ends after Vikir's giant mental-self rises; target352 begins at Amdusias's disbelief reaction."
+}

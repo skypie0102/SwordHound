@@ -1,0 +1,38 @@
+{
+  "chapter": 353,
+  "title": "Outside the Tower (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      355
+    ],
+    "family_qa_path": "qa/families/outside-tower-0351-0355.md",
+    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/353.txt",
+    "blob_sha": "8558ee1c53aac4e58fe1d68036f77e0f7db49cc9",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-351.xhtml",
+    "blob_sha": "82791260a8e5eeb632c82d14bb9bce385e23cac8",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0353.md",
+    "blob_sha": "1bd4b2a62f939fd18ca5d052b482f92c61a6744c"
+  },
+  "qa": {
+    "path": "qa/chapter-0353.md",
+    "blob_sha": "b8a18b939754c8e4f0d3bf1e98d07b98c28020f8",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "source_exception": "Shared raw 353.txt target353 ends after Baskerville hounds assemble; embedded Chapter354 marker starts target354."
+}
