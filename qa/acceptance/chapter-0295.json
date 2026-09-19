@@ -1,0 +1,34 @@
+{
+  "chapter": 295,
+  "title": "Confessions (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Confessions",
+    "range": [
+      293,
+      295
+    ],
+    "family_qa_path": "qa/families/confessions-0293-0295.md",
+    "family_qa_sha": "6eabea8d34e1d599b5490d639fee708677854110",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/295.txt",
+    "primary_source_sha": "227c8baf1d63791d8c9f0d1819ec87277f0f8596",
+    "english_reference_path": "source/chapters/chapter-293.xhtml",
+    "english_reference_sha": "c75108ce26da142993066398aa03dca026ed3349",
+    "draft_path": "manuscript/drafts/chapter-0295.md",
+    "draft_sha": "6e925bb13b095d5b36db1de090666c62669ad957",
+    "qa_path": "qa/chapter-0295.md",
+    "qa_sha": "a89e4af4e649823902b500e70016d681e93db8ed",
+    "provenance_path": "editorial/provenance/chapter-0295.json",
+    "provenance_sha": "39e81b5fe5faa5a6efdc5079216008527061fdbf"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Last Semester material from target296 is imported."
+  ],
+  "relationship_guard": "No present relationship is established; Vikir's answer is conditional on a distant future."
+}
