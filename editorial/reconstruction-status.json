@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 298,
+  "accepted_chapters": 306,
   "staged_chapters": 0,
-  "next_chapter": 299,
+  "next_chapter": 307,
   "latest_accepted_family": {
-    "name": "Last Semester",
-    "range": [
-      296,
-      298
-    ],
-    "family_qa": "qa/families/last-semester-0296-0298.md"
-  },
-  "next_title_family": {
     "name": "The Age of the Warmonger",
     "range": [
       299,
       306
     ],
+    "family_qa": "qa/families/age-warmonger-0299-0306.md"
+  },
+  "next_title_family": {
+    "name": "Hell Tree",
+    "range": [
+      307,
+      313
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 307,
-    "following_title": "Hell Tree (1)",
-    "alignment_note": "299→E297 through 306→E304; Hell Tree targets307-313 / E305-E311."
+    "following_family_starts": 314,
+    "following_title": "Surplus Man (1)",
+    "alignment_note": "307→E305 through 313→E311; Surplus Man 314→E312 through 315→E313."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -360,9 +360,27 @@
     295,
     296,
     297,
-    298
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306
   ],
   "notes": [
+    "Chapters299-306 accepted as The Age of the Warmonger (1)-(8), mapping E297-E304.",
+    "Ms. Ouroboros is source-revealed as Professor Sadi; Sadi's Warring States ideology remains attributed to her.",
+    "Camus Morgue is source-revealed as the new Colosseo enrollee.",
+    "Amdusias is Fifth Corpse, Chinese-primary Danger Rating S+; shifted E301 S rejected.",
+    "Winston's three-denial history is revealed through demon-eroded memories; E302 resolves that his partner tells sailors to throw him overboard.",
+    "Dolores breaks her Humbert fear and awakens stronger divine power; her support lets Vikir perfectly realize the Eighth Fang/Form.",
+    "Nabokov I Quovadis reveals extraordinary physical/sacred power and continues the Quo Vadis family-origin story.",
+    "Banshee sees Night Hound's student bracelet but does not complete the identity deduction.",
+    "Amdusias activates Child Hunting through Winston's bracelets/tree/magic-stone network; all Colosseo students are swallowed into the Hell Tree.",
+    "Next family Hell Tree verified targets307-313 / E305-E311; Surplus Man follows targets314-315 / E312-E313.",
     "Chapters296-298 accepted as Last Semester (1)-(3), mapping E294-E296.",
     "Banshee's serpent/unicorn nightmare remains symbolic setup only.",
     "Winston's campus changes combine massive greening with alternating old/new magic-stone security and handmade bracelet keys.",
