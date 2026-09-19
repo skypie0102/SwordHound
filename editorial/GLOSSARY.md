@@ -1,3 +1,13 @@
+## The Servant additions — Chapters 369–370
+
+- **The Servant** — accepted two-part family, targets369–370 / witnesses E367–E368.
+- **D'Ordume D'Orcdile beastfolk form** — saltwater-crocodile lineage; source-timed reveal in target370.
+- **D'Ordume forearm weapons** — spiral axe-blade guards that convert aura into cutting vortexes.
+- **Nineteen-years-ago incident** — source mentions an unpleasant guard/prisoner event driving strict insubordination policy; details remain unrevealed.
+- **100-day solitary confinement** — Vikir’s target370 punishment; described by Bastille as effectively execution.
+- **Solitary Confinement** — next family targets371–372 / E369–E370.
+- **Sucker Shark** — targets373–374 / E371–E372.
+
 ## Underground Extension Construction additions — Chapters 366–368
 
 - **The Underground Extension Construction** — accepted three-part family, targets366–368 / witnesses E364–E366.
