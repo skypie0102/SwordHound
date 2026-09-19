@@ -1,0 +1,41 @@
+{
+  "chapter": 302,
+  "title": "The Age of the Warmonger (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Age of the Warmonger",
+    "range": [
+      299,
+      306
+    ],
+    "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
+    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/302.txt",
+    "blob_sha": "75a69149c65e72a0afe8a99eaf24beaf07b9c0f5",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-300.xhtml",
+    "blob_sha": "da4f4f6097f9cbba52159fbe72aa5c0be497b113",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0302.md",
+    "blob_sha": "38ef661df59f67b3eb3f51ed16c7cdff19c36a86"
+  },
+  "qa": {
+    "path": "qa/chapter-0302.md",
+    "blob_sha": "00ace5ba903af723d8d7a48153bd4e5d5a3925c9",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guards": [
+    "Sadi's whispered Orwell request remains deliberately ambiguous.",
+    "Demonic scent from Sadi's left-eye socket remains an unresolved clue."
+  ]
+}
