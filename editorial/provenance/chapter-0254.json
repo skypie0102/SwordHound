@@ -1,0 +1,72 @@
+{
+  "chapter": 254,
+  "title": "Five Stars (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Five Stars",
+    "range": [
+      253,
+      254
+    ],
+    "family_qa_path": "qa/families/five-stars-0253-0254.md",
+    "family_qa_sha": "5a5057161dfd291cf7215821ea812730e23f376d",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/254.txt",
+    "blob_sha": "ba715b743ebf526e12d0d91029a8acefd5a8d2ac",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-252.xhtml",
+    "blob_sha": "c8c98e31ab8f3af22726901c4602b8b7c1e69492",
+    "target_alignment": 254,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0254.md",
+    "blob_sha": "2d6f0d3ee372eb7669e308ece3fa5ff1fad4f870"
+  },
+  "qa": {
+    "path": "qa/chapter-0254.md",
+    "blob_sha": "0a6c875507ed532780fbfd35a43e4d25c5e30c9f",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "promotion",
+      "final": "Vikir is promoted to Senator while retaining special-agent freedom in the capital.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "task_force",
+      "final": "Cindywendy, Chihuahua, MiniPin and capable jungle talent are planned recruitment targets.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "black_whistle",
+      "final": "Hugo gives Vikir the Black Whistle / broad Baskerville military command authority.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "eighth_fang",
+      "final": "Wraith Tree location is tied to Vikir's clue toward the realm beyond Sword Master / Eighth Fang.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target255/E253 begins The Grave of Swords (1).",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    }
+  ],
+  "canonical_reference_limit": "Direct Fandom verification remained blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/255.txt",
+    "chinese_sha": "fea825cdfbeeb3a4af538d6a11c9580cdca47d3e",
+    "english_path": "source/chapters/chapter-253.xhtml",
+    "english_sha": "a7af09a6ea4662211da44c74dafe6e902dafb0ea",
+    "purpose": "target255 begins The Grave of Swords (1)"
+  }
+}
