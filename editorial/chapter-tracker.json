@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 395,
+  "accepted_count": 398,
   "staged_count": 0,
-  "next_chapter": 396,
+  "next_chapter": 399,
   "active_title_family": {
-    "name": "Dead Man Walking",
+    "name": "Black Tongue",
     "range": [
-      396,
-      398
+      399,
+      402
     ],
-    "boundary_status": "verified complete: target396→E394 through target398→E396",
-    "following_family_starts": 399,
-    "following_title": "Black Tongue (1)",
-    "alignment_note": "396→E394 through 398→E396; Black Tongue targets399–402 / E397–E400; Jailbreaker begins target403/E401."
+    "boundary_status": "verified complete: target399→E397 through target402→E400",
+    "following_family_starts": 403,
+    "following_title": "Jailbreaker (1)",
+    "alignment_note": "399→E397 through 402→E400; Jailbreaker targets403–406 / E401–E404."
   },
   "chapters": [
     {
@@ -5545,6 +5545,48 @@
       "acceptance": "qa/acceptance/chapter-0395.json",
       "acceptance_sha": "12dec4cb421b70b8c7dbb399baa08fd18162d41e",
       "family_qa": "qa/families/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 396,
+      "title": "Dead Man Walking (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/396.txt",
+      "english_mtl_reference": "source/chapters/chapter-394.xhtml",
+      "draft": "manuscript/drafts/chapter-0396.md",
+      "qa": "qa/chapter-0396.md",
+      "provenance": "editorial/provenance/chapter-0396.json",
+      "acceptance": "qa/acceptance/chapter-0396.json",
+      "acceptance_sha": "23600019174f0cba769955ac4008bbe4d6073ed6",
+      "family_qa": "qa/families/dead-man-walking-0396-0398.md"
+    },
+    {
+      "chapter": 397,
+      "title": "Dead Man Walking (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/397.txt",
+      "english_mtl_reference": "source/chapters/chapter-395.xhtml",
+      "draft": "manuscript/drafts/chapter-0397.md",
+      "qa": "qa/chapter-0397.md",
+      "provenance": "editorial/provenance/chapter-0397.json",
+      "acceptance": "qa/acceptance/chapter-0397.json",
+      "acceptance_sha": "a06fc2d4c3d5fbc17796e585440e3dc61e04a26a",
+      "family_qa": "qa/families/dead-man-walking-0396-0398.md"
+    },
+    {
+      "chapter": 398,
+      "title": "Dead Man Walking (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/398.txt",
+      "english_mtl_reference": "source/chapters/chapter-396.xhtml",
+      "draft": "manuscript/drafts/chapter-0398.md",
+      "qa": "qa/chapter-0398.md",
+      "provenance": "editorial/provenance/chapter-0398.json",
+      "acceptance": "qa/acceptance/chapter-0398.json",
+      "acceptance_sha": "7fe448017c80f08aa2f623cbabc5de11c6573d56",
+      "family_qa": "qa/families/dead-man-walking-0396-0398.md"
     }
   ]
 }

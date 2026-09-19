@@ -1,0 +1,38 @@
+{
+  "chapter": 397,
+  "title": "Dead Man Walking (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Dead Man Walking",
+    "range": [
+      396,
+      398
+    ],
+    "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
+    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/397.txt",
+    "blob_sha": "fd2cacd165f71a5ba7f200a3151b8dd4c7a1411b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-395.xhtml",
+    "blob_sha": "b82f6232a072de0e2a329a9b46bc48dde46f1f64",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0397.md",
+    "blob_sha": "6b4ac9950456e83652b7c0becf817e0a276f8d02"
+  },
+  "qa": {
+    "path": "qa/chapter-0397.md",
+    "blob_sha": "da0f2b24c2a1a2df8468cb0d95f7418385e52156",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "terminology_guard": "Brigadier General Flubber is the ancient Warden; Flubber is also the separate mucus/barrier substance produced by the creature."
+}

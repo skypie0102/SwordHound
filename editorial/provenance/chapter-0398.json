@@ -1,0 +1,38 @@
+{
+  "chapter": 398,
+  "title": "Dead Man Walking (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Dead Man Walking",
+    "range": [
+      396,
+      398
+    ],
+    "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
+    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/398.txt",
+    "blob_sha": "4c3a98201c3cffe8c68f522a1578d6036e121548",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-396.xhtml",
+    "blob_sha": "022a96f4e386f47275dd82df1b75fbcf2f280aa4",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0398.md",
+    "blob_sha": "3e3ae1d360131f4d6074da4b691f8ff86d8bbc62"
+  },
+  "qa": {
+    "path": "qa/chapter-0398.md",
+    "blob_sha": "73f065fc66bfb9daf35fd69b163a71248d4f5de8",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Black Tongue interrogation begins only in target399; target398 ends at the summons."
+}

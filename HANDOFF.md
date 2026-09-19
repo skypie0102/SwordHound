@@ -1,46 +1,43 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 395 / 500  
+**Accepted:** 398 / 500  
 **Staged:** 0  
-**Next target:** 396
+**Next target:** 399
 
 ## Latest accepted family
 
-**The Worst Torture (1)–(6)** — targets **390–395**.
+**Dead Man Walking (1)–(3)** — targets **396–398**.
 
-- Family QA: `qa/families/worst-torture-0390-0395.md` — PASS.
-- Alignment: **390→E388 through 395→E393**.
-- Garam’s work-completion rate rises through 185%, accelerating Vikir’s promotion plan and Level Ten / Poseidon access.
-- A Level Eight riot begins while Orca, D'Ordume, and Souaré are away on surface duty.
-- **Sakkuth de Leviathan** is the rioter.
-- Sakkuth’s apparent plague is a long-running bluff, but Vikir does **not** know that before accepting the blood-soaked cigarette.
-- Vikir can accept the unknown risk because of his established toxin/venom resistance.
-- Kirko is taken hostage; source-explicit degradation tied to her already-revealed birth trauma is preserved without embellishment.
-- Other guards misread Garam’s intervention as romantic self-sacrifice. Vikir’s actual motive is strategic.
-- Kirko’s attempted rescue shows a meaningful aura improvement but does not expose Vikir.
-- Vikir’s Queen/Ms. Ouroboros escape story is deliberately fabricated from genuine clues.
-- The **Winter Sword Orwell** fragment is used as proof and links to the Nouvelle Vague main-gate-key clue.
-- Sakkuth accepts the fake escape plan and deliberately allows capture.
-- Kirko’s burn-ointment scene remains concern/ambiguity, not confirmed romance.
-- Vikir never intends to save Sakkuth because of his Red Death crimes.
-- Four months later Garam receives a two-grade promotion to **Captain**; Kirko becomes his adjutant.
-- Chinese controls Chapter395’s Bible exchange: Vikir says it will **not** calm Sakkuth; shifted E393 “It might” is rejected.
-- Hidden message **D-7** gives Sakkuth false hope ahead of his execution.
-- Vikir explicitly calls false hope the worst torture, while separating it from his own real jailbreak.
-- Direct Fandom verification remains unavailable/robots-blocked for unresolved source-local forms.
+- Family QA: `qa/families/dead-man-walking-0396-0398.md` — PASS.
+- Alignment: **396→E394, 397→E395, 398→E396**.
+- Vikir burns Garam’s journals after extracting all useful information and learning the handwriting.
+- Kirko explains her birth from the nineteen-years-ago prisoner-on-guard rape incident and her earlier inferiority/resentment toward Garam.
+- Kirko’s attempt to address the romantic interpretation of the Level Eight hostage incident remains unresolved.
+- Sakkuth’s unofficial execution is built on the fabricated rescue plan and Vikir’s exploitation of desperation.
+- **Brigadier General Flubber** is the ancient, deeply mysterious Warden whose true species/age/origin are unknown.
+- The Warden Flubber is distinct from the self-healing mucus/barrier substance also called **Flubber**.
+- Flubber and BDISSEM remain the two core physical-security systems of Nouvelle Vague.
+- Sakkuth realizes the lie only while being swallowed/dissolved and dies permanently inside Flubber.
+- Vikir treats Flubber as an incalculable jailbreak variable.
+- Vikir is promoted **Captain Garam Nord → Major Garam Nord** after reaching 200% work completion.
+- Major privileges provide the prisoner control and unrestricted labor-zone access Vikir needs for Poseidon.
+- Vikir keeps Kirko as his sole adjutant; surrounding romance assumptions remain external misinterpretation.
+- Bastille’s “children resemble their parents” remark remains an unresolved parentage clue.
+- Kirko is promoted to **Captain**.
+- **Black Tongue** is introduced as Nouvelle Vague’s one-person Audit Team / Warden who investigates and punishes guards.
+- Family ends with Major Garam and Captain Kirko summoned directly to Black Tongue’s interrogation room.
 
 ## Next verified family
 
-**Dead Man Walking (1)–(3)** — targets **396–398 / E394–E396**.
+**Black Tongue (1)–(4)** — targets **399–402 / E397–E400**.
 
 Following:
-- **Black Tongue (1)–(4)** — targets **399–402 / E397–E400**.
-- **Jailbreaker (1)–(4)** begins target **403 / E401**.
+- **Jailbreaker (1)–(4)** — targets **403–406 / E401–E404**.
 
 ## Exact next actions
 
-1. Read C396–C398 completely against E394–E396.
-2. Reconstruct and QA Dead Man Walking (1)–(3).
+1. Read C399–C402 completely against E397–E400.
+2. Reconstruct and QA Black Tongue (1)–(4).
 3. Merge it.
-4. Immediately continue into Black Tongue (1)–(4), targets399–402 / E397–E400.
+4. Immediately continue into Jailbreaker (1)–(4), targets403–406 / E401–E404.

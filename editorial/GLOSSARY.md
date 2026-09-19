@@ -1,3 +1,19 @@
+## Dead Man Walking additions — Chapters 396–398
+
+- **Dead Man Walking** — accepted three-part family, targets396–398 / witnesses E394–E396.
+- **Kirko parentage disclosure** — Kirko states she was born from the nineteen-years-ago prisoner-on-guard rape incident; both biological parents later disappeared after disciplinary action.
+- **Kirko/Garam resentment** — Kirko attributes earlier contempt partly to envy/inferiority over Garam having parents and a surface homeland.
+- **Brigadier General Flubber** — ancient Warden present since before humans discovered Nouvelle Vague; true species, age, sex, origin, and nature remain unknown.
+- **Flubber disambiguation** — the Warden **Flubber** is distinct from the self-healing mucus/barrier substance also called **Flubber**.
+- **Execution abyss** — Flubber consumes unofficially executed prisoners and certain Blade-Bridge fallers who remain officially recorded as alive.
+- **Major Garam Nord** — target398 promotion after 200% monthly work completion.
+- **Major privileges** — up to 108 Level-3 prisoners, limited summary-execution authority within Level7, unrestricted labor-zone access, and conditional special-area access.
+- **Captain Kirko Grimm** — promoted alongside Major Garam and retained as his sole adjutant.
+- **Bastille parentage clue** — “children resemble their parents” remains unresolved; do not infer Kirko’s parents.
+- **Black Tongue** — one-person Audit Team / Warden known as the guard who punishes guards.
+- **Black Tongue** — next family targets399–402 / E397–E400.
+- **Jailbreaker** — follows targets403–406 / E401–E404.
+
 ## The Worst Torture additions — Chapters 390–395
 
 - **The Worst Torture** — accepted six-part family, targets390–395 / witnesses E388–E393.
