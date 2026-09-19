@@ -1,0 +1,45 @@
+{
+  "chapter": 218,
+  "title": "My Neck Will Be Your Sheath (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
+    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/218.txt",
+    "primary_source_sha": "b96c7f4420c425b60ffe0cde307fb629f76951fd",
+    "english_reference_path": "source/chapters/chapter-216.xhtml",
+    "english_reference_sha": "36d39d9a520583a0b159bb198ba1ca3b280d01af",
+    "draft_path": "manuscript/drafts/chapter-0218.md",
+    "draft_sha": "6c8d01bb60878af8740927876d981af5d3a61b00",
+    "qa_path": "qa/chapter-0218.md",
+    "qa_sha": "3b6e33f6b1f730b8d821c3c4c3bdf730e91680ec",
+    "provenance_path": "editorial/provenance/chapter-0218.json",
+    "provenance_sha": "2d5e3ddbe492919d0649826f8a17cb4c29df4efa"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Seere",
+    "Peak Sword Graduator",
+    "Sword Master",
+    "Sixth Fang",
+    "Seventh Fang",
+    "Hugo Le Baskerville",
+    "Pomeranian La Baskerville"
+  ],
+  "documented_limits": [
+    "Vikir's feeling for Camus remains deliberately uncategorized.",
+    "Pomeranian comparison is protective feeling only; avoid raw kinship/gender drift.",
+    "Breakthrough occurs without Dolores's external buff."
+  ],
+  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1)."
+}

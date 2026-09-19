@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 215,
+  "accepted_chapters": 219,
   "staged_chapters": 0,
-  "next_chapter": 216,
+  "next_chapter": 220,
   "latest_accepted_family": {
-    "name": "Festival Night",
-    "range": [
-      206,
-      215
-    ],
-    "family_qa": "qa/families/festival-night-0206-0215.md"
-  },
-  "next_title_family": {
     "name": "My Neck Will Be Your Sheath",
     "range": [
       216,
       219
     ],
-    "boundary_status": "verified four-part family; C219 title drift normalized by sequence/witness",
-    "following_family_starts": 220,
-    "following_title": "That Day, Him and Me (1)",
-    "alignment_note": "216→E214 through219→E217;220→E218"
+    "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
+  },
+  "next_title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "boundary_status": "verified five-part family",
+    "following_family_starts": 225,
+    "following_title": "Tuition (1)",
+    "alignment_note": "220→E218 through224→E222;225→E223"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -277,28 +277,27 @@
     212,
     213,
     214,
-    215
+    215,
+    216,
+    217,
+    218,
+    219
   ],
   "notes": [
-    "Chapters206-215 are accepted as Festival Night (1)-(10).",
-    "Festival costume set: Tudor Death Knight, Sancho Snow Maiden, Pigi Fairy, Bianca Frankenstein, Sinclaire Spider Queen, Vikir Witch, Dolores Night Hound.",
-    "Vikir's pre-regression scarred/limping social rejection remains a contrast to his current festival popularity.",
-    "Dolores keeps the Night Hound costume despite Banshee disapproval; plague-doctor masks predate the Night Hound and remain normal Halloween wear.",
-    "C208 isolated name drift is repaired to Camus Morgue from verbatim target46 cooking/potato continuity, but this memory does not identify the current Corpse Queen.",
-    "Vikir recognizes that he still retains emotional capacity to care about others, continuing the Sword Master emotion thread.",
-    "Osiris and Pomeranian arrive secretly; Baskerville historical restitution/punishment continues the accepted Messinadnaro line.",
-    "Ring of Divine Inviolability and ability Finit hic Deus are locked.",
-    "Bianca is explicitly18; her 7/100 and Vikir100/100 scores are subjective aesthetics.",
-    "The Corpse Queen experiences ordinary festival pleasure, imagines an Academy life with an unnamed man, and sees witch-costumed Vikir without identifying him.",
-    "Queen and Seere each control half the day; midnight passes the body to Seere.",
-    "Seere's find-person ability found Rosie, but the person the Queen truly seeks remains unnamed through this family.",
-    "Dolores's Soulmate answer is her dialogue in soul-resonance context, not objective relationship status.",
-    "Ring barrier space reflects Seth Le Baskerville's inner world; only monsters or children under eight can peer into it from outside.",
-    "Vikir's six-and-a-half imagery is six complete fangs plus a half-formed Seventh Fang.",
-    "The killing strike against the Queen veers because of mental/emotional movement, not physical failure.",
-    "The Queen cannot voluntarily reveal face/name under her contract.",
-    "C215 ends on childhood voice/face memory; target216 is the first explicit source identification of Corpse Queen as Camus Morgue.",
-    "Next family targets216-219 — My Neck Will Be Your Sheath (1)-(4), mapped216→E214 through219→E217. Target220→E218 begins That Day, Him and Me (1).",
+    "Chapters216-219 are accepted as My Neck Will Be Your Sheath (1)-(4).",
+    "Target216 is the first explicit source identification of the Corpse Queen as Camus Morgue.",
+    "Camus left Adolf's Light Faction for Snake's Dark Faction and black magic because she believed Vikir dead and wanted to resurrect him.",
+    "Art of Complete Resurrection spends the caster's life and requires physical remains; Camus's failed attempt left catastrophic half-alive/half-brain-dead damage before Seere's contract.",
+    "Camus/Seere share the body in twelve-hour control shifts rather than ordinary total possession.",
+    "Vikir's feelings for Camus remain deliberately uncategorized; source uses a younger-sister-like protective comparison rather than declaring romance.",
+    "Camus overrides Seere past her allotted control window and gives Vikir an opening.",
+    "Vikir reaches genuine Sword Master without Dolores's external Saintess buff.",
+    "Completed Seventh Fang can cut the Camus-Seere conceptual contract.",
+    "Removing the Lens / Heart Sword are conceptual Sword Master explanations, not numbered Baskerville techniques.",
+    "Vikir severs the contract, ejects Seere, and destroys the Eighth Corpse with seven Fangs while leaving Camus physically intact.",
+    "Vikir deliberately lets Rosie Morgue/Geronto evacuate Camus for black-mage-compatible treatment.",
+    "The family closes with Vikir consciously worrying whether Camus will be all right.",
+    "Next family targets220-224 — That Day, Him and Me (1)-(5), mapped220→E218 through224→E222. Target225→E223 begins Tuition (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

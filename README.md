@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **215 / 500 accepted; next Chapter 216.** Latest accepted family: **targets 206–215 — Festival Night (1)–(10)**.
+Current checkpoint: **219 / 500 accepted; next Chapter 220.** Latest accepted family: **targets 216–219 — My Neck Will Be Your Sheath (1)–(4)**.
 
-The next verified family is **My Neck Will Be Your Sheath, targets 216–219**, mapped **216→E214 through 219→E217**. Target 220 begins **That Day, Him and Me (1)** and maps to E218.
+The next verified family is **That Day, Him and Me, targets 220–224**, mapped **220→E218 through 224→E222**. Target 225 begins **Tuition (1)** and maps to E223.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted My Neck Will Be Your Sheath family adds/revalidates:
+
+- **Camus Morgue** — first explicit Corpse Queen identity reveal occurs at target 216.
+- **Camus–Seere contract** — twelve-hour co-control arrangement.
+- **Art of Complete Resurrection** — life-for-life resurrection requiring remains.
+- **Sword Master** — Vikir reaches the realm independently.
+- **Concept cutting / Heart Sword** — abstract-bond cutting, not numbered Fang techniques.
+- **Completed Seventh Fang** — severs the Camus–Seere contract.
+- **Seere destroyed / Camus survives** — Rosie evacuation is Vikir's deliberate choice.
+- **That Day, Him and Me** — next family targets 220–224; witnesses E218–E222.
+- **Tuition** begins target 225 / E223.
 
 The accepted Festival Night family adds/revalidates:
 
@@ -292,15 +304,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–215**:
+Current accepted production evidence covers targets **1–219**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0215.md`
-- `qa/chapter-0001.md` through `chapter-0215.md`
-- accepted family QA through `qa/families/festival-night-0206-0215.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0215.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0215.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0219.md`
+- `qa/chapter-0001.md` through `chapter-0219.md`
+- accepted family QA through `qa/families/my-neck-sheath-0216-0219.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0219.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0219.json`
 
-Latest family QA: `qa/families/festival-night-0206-0215.md` — **PASS**.
+Latest family QA: `qa/families/my-neck-sheath-0216-0219.md` — **PASS**.
 
 ## Editorial quality bar
 

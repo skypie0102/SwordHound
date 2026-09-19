@@ -1,0 +1,71 @@
+{
+  "chapter": 216,
+  "title": "My Neck Will Be Your Sheath (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
+    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/216.txt",
+    "blob_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-214.xhtml",
+    "blob_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "target_alignment": 216,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0216.md",
+    "blob_sha": "fb00700ca836c5c6ed586a0fef0c05d1a70d5f75"
+  },
+  "qa": {
+    "path": "qa/chapter-0216.md",
+    "blob_sha": "06ecc4e24dcb5ff8939d014f353559a0a18a552e",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "camus_reveal",
+      "final": "First explicit source identification: Corpse Queen = Camus Morgue",
+      "basis": "Chinese C216"
+    },
+    {
+      "topic": "resurrection_motive",
+      "final": "Camus left Light Faction / joined Dark Faction to pursue Vikir resurrection after believing him dead",
+      "basis": "Chinese C216"
+    },
+    {
+      "topic": "confession_scope",
+      "final": "If death separates us confession remains source-explicit without formal relationship label",
+      "basis": "Chinese C216"
+    },
+    {
+      "topic": "title_line",
+      "final": "My neck will become your sheath",
+      "basis": "Chinese C216"
+    },
+    {
+      "topic": "midnight",
+      "final": "Midnight ends Camus control and Seere forcibly takes body",
+      "basis": "Chinese C216"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/220.txt",
+    "chinese_sha": "8f768db48cb1b62930c38bf5f924bb5176a6e63c",
+    "english_path": "source/chapters/chapter-218.xhtml",
+    "english_sha": "c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3",
+    "purpose": "both begin That Day, Him and Me (1), target220"
+  }
+}

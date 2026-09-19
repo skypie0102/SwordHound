@@ -1,0 +1,46 @@
+{
+  "chapter": 216,
+  "title": "My Neck Will Be Your Sheath (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
+    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/216.txt",
+    "primary_source_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
+    "english_reference_path": "source/chapters/chapter-214.xhtml",
+    "english_reference_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
+    "draft_path": "manuscript/drafts/chapter-0216.md",
+    "draft_sha": "fb00700ca836c5c6ed586a0fef0c05d1a70d5f75",
+    "qa_path": "qa/chapter-0216.md",
+    "qa_sha": "06ecc4e24dcb5ff8939d014f353559a0a18a552e",
+    "provenance_path": "editorial/provenance/chapter-0216.json",
+    "provenance_sha": "0e01df3732c6b6447bd3777f710af7c5096fb962"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Rosie Morgue",
+    "Adolf Morgue",
+    "Snake Morgue",
+    "Seere",
+    "Eighth Corpse",
+    "Sixth Fang",
+    "Seventh Fang",
+    "Sword Master"
+  ],
+  "documented_limits": [
+    "First explicit Corpse Queen=Camus reveal occurs here, never earlier.",
+    "Confession remains source-explicit without imposing a formal relationship label.",
+    "Camus's Dolores/ex-girlfriend language remains her misunderstanding."
+  ],
+  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1)."
+}

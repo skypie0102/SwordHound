@@ -1,0 +1,47 @@
+{
+  "chapter": 219,
+  "title": "My Neck Will Be Your Sheath (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "My Neck Will Be Your Sheath",
+    "range": [
+      216,
+      219
+    ],
+    "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
+    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/219.txt",
+    "primary_source_sha": "04f1c08f00b96bd74e0a7758919568b2b7c85f25",
+    "english_reference_path": "source/chapters/chapter-217.xhtml",
+    "english_reference_sha": "ec2e0a0e9035d6a9c4d9d330d7e0c46e68108ac6",
+    "draft_path": "manuscript/drafts/chapter-0219.md",
+    "draft_sha": "d4943fa0ea13391327904fdef174543a0f0e26f4",
+    "qa_path": "qa/chapter-0219.md",
+    "qa_sha": "09196eb18e0db169aefef362f75705e81f201f82",
+    "provenance_path": "editorial/provenance/chapter-0219.json",
+    "provenance_sha": "c3b0fc0d0b9be695c38cd255ffe865907231bd5e"
+  },
+  "canonical_checks": [
+    "Sword Master",
+    "Seventh Fang",
+    "Heart Sword",
+    "Camus Morgue",
+    "Seere",
+    "Rosie Morgue",
+    "Baby Madam",
+    "Professor Banshee Morgue",
+    "Professor Sadi",
+    "Osiris Le Baskerville"
+  ],
+  "documented_limits": [
+    "Removing the Lens / Heart Sword are conceptual Sword Master explanations, not numbered Baskerville techniques.",
+    "Rosie evacuation is Vikir's deliberate choice, not assassination failure.",
+    "Raw C219 title drift normalizes to family part4."
+  ],
+  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1)."
+}

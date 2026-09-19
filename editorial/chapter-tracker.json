@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 215,
+  "accepted_count": 219,
   "staged_count": 0,
-  "next_chapter": 216,
+  "next_chapter": 220,
   "active_title_family": {
-    "name": "My Neck Will Be Your Sheath",
+    "name": "That Day, Him and Me",
     "range": [
-      216,
-      219
+      220,
+      224
     ],
-    "boundary_status": "verified four-part family; C219 raw title drifts to knife-under wording but E217 and continuity establish part4",
-    "following_family_starts": 220,
-    "following_title": "That Day, Him and Me (1)",
-    "alignment_note": "216→E214,217→E215,218→E216,219→E217;220→E218"
+    "boundary_status": "verified five-part family",
+    "following_family_starts": 225,
+    "following_title": "Tuition (1)",
+    "alignment_note": "220→E218 through224→E222;225→E223"
   },
   "chapters": [
     {
@@ -3025,6 +3025,62 @@
       "acceptance": "qa/acceptance/chapter-0215.json",
       "acceptance_sha": "14660a908774f0e635d361a50b985cd7247f5aca",
       "family_qa": "qa/families/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 216,
+      "title": "My Neck Will Be Your Sheath (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/216.txt",
+      "english_mtl_reference": "source/chapters/chapter-214.xhtml",
+      "draft": "manuscript/drafts/chapter-0216.md",
+      "qa": "qa/chapter-0216.md",
+      "provenance": "editorial/provenance/chapter-0216.json",
+      "acceptance": "qa/acceptance/chapter-0216.json",
+      "acceptance_sha": "0638b5bcd4556b8e1d1c66db3ad2586b6b61aa90",
+      "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
+    },
+    {
+      "chapter": 217,
+      "title": "My Neck Will Be Your Sheath (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/217.txt",
+      "english_mtl_reference": "source/chapters/chapter-215.xhtml",
+      "draft": "manuscript/drafts/chapter-0217.md",
+      "qa": "qa/chapter-0217.md",
+      "provenance": "editorial/provenance/chapter-0217.json",
+      "acceptance": "qa/acceptance/chapter-0217.json",
+      "acceptance_sha": "588c98a09cd20b4c16d6e7f8cfaa1a9ef4895818",
+      "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
+    },
+    {
+      "chapter": 218,
+      "title": "My Neck Will Be Your Sheath (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/218.txt",
+      "english_mtl_reference": "source/chapters/chapter-216.xhtml",
+      "draft": "manuscript/drafts/chapter-0218.md",
+      "qa": "qa/chapter-0218.md",
+      "provenance": "editorial/provenance/chapter-0218.json",
+      "acceptance": "qa/acceptance/chapter-0218.json",
+      "acceptance_sha": "e2a8612cc9ca49573f2a9321f1bcce55ea5da916",
+      "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
+    },
+    {
+      "chapter": 219,
+      "title": "My Neck Will Be Your Sheath (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/219.txt",
+      "english_mtl_reference": "source/chapters/chapter-217.xhtml",
+      "draft": "manuscript/drafts/chapter-0219.md",
+      "qa": "qa/chapter-0219.md",
+      "provenance": "editorial/provenance/chapter-0219.json",
+      "acceptance": "qa/acceptance/chapter-0219.json",
+      "acceptance_sha": "5e8f3aeaba5538ff5ab1466e33b1e7f5feca7cf6",
+      "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
     }
   ]
 }
