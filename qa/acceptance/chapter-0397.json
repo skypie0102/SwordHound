@@ -1,0 +1,33 @@
+{
+  "chapter": 397,
+  "title": "Dead Man Walking (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Dead Man Walking",
+    "range": [
+      396,
+      398
+    ],
+    "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
+    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/397.txt",
+    "primary_source_sha": "fd2cacd165f71a5ba7f200a3151b8dd4c7a1411b",
+    "english_reference_path": "source/chapters/chapter-395.xhtml",
+    "english_reference_sha": "b82f6232a072de0e2a329a9b46bc48dde46f1f64",
+    "draft_path": "manuscript/drafts/chapter-0397.md",
+    "draft_sha": "6b4ac9950456e83652b7c0becf817e0a276f8d02",
+    "qa_path": "qa/chapter-0397.md",
+    "qa_sha": "da0f2b24c2a1a2df8468cb0d95f7418385e52156",
+    "provenance_path": "editorial/provenance/chapter-0397.json",
+    "provenance_sha": "2f7beafd02f9f491f702bf5ea128d76e8cda5e2f"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+    "No Black Tongue material from target399 is imported."
+  ]
+}
