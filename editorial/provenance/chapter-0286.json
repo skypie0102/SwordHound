@@ -1,0 +1,40 @@
+{
+  "chapter": 286,
+  "title": "Power Inflation (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/286.txt",
+    "blob_sha": "b8fe9add080f4e18eeedbf6be9f86ff2a696c5b4",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-284.xhtml",
+    "blob_sha": "0f5f8718a37fcd25db05cad6d61c13d93cbf4bdf",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0286.md",
+    "blob_sha": "ebf4e01dfcac7af68d574ecab7c423d01da17ccd"
+  },
+  "qa": {
+    "path": "qa/chapter-0286.md",
+    "blob_sha": "91bf7ed913436e53adc07c6277342422d90d4a0c",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Eight visible fangs and E284 witness confirm Baskerville Eighth Form; local Chinese 'Fourth Form' wording treated as drift."
+  ]
+}
