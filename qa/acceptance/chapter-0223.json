@@ -1,0 +1,45 @@
+{
+  "chapter": 223,
+  "title": "That Day, Him and Me (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
+    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/223.txt",
+    "primary_source_sha": "6d7d877a88b7c4c77a3a7e82b01b4fcf92a8293a",
+    "english_reference_path": "source/chapters/chapter-221.xhtml",
+    "english_reference_sha": "c65fcfff3f74c813d49085f4925c1b3e45440e3c",
+    "draft_path": "manuscript/drafts/chapter-0223.md",
+    "draft_sha": "fbb2657e42bb794d3efda7e6a4dc69011ac4124a",
+    "qa_path": "qa/chapter-0223.md",
+    "qa_sha": "18fc24560929e33ee64817ca7fe84a92dd09fadd",
+    "provenance_path": "editorial/provenance/chapter-0223.json",
+    "provenance_sha": "10764e00b6311e867efd3ca617a9af870aac67e2"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Seere",
+    "Snake Morgue",
+    "Ah'Heman",
+    "Dantalian",
+    "Rosie Morgue",
+    "Indulgentia",
+    "Night Hound",
+    "Life Vessel"
+  ],
+  "documented_limits": [
+    "Twelve-hour co-control derives from Camus being only half-dead.",
+    "Vikir survival hypothesis remains Camus speculation."
+  ],
+  "next_family_alignment_note": "Target225→E223 begins Tuition (1)."
+}
