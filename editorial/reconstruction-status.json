@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 342,
+  "accepted_chapters": 347,
   "staged_chapters": 0,
-  "next_chapter": 343,
+  "next_chapter": 348,
   "latest_accepted_family": {
-    "name": "Private Life",
-    "range": [
-      341,
-      342
-    ],
-    "family_qa": "qa/families/private-life-0341-0342.md"
-  },
-  "next_title_family": {
     "name": "Ballak",
     "range": [
       343,
       347
     ],
-    "boundary_status": "verified complete despite noisy Chinese title labels",
-    "following_family_starts": 348,
-    "following_title": "Key man (1)",
-    "alignment_note": "343→E341 through 347→E345; 348→E346 begins Key man (1)."
+    "family_qa": "qa/families/ballak-0343-0347.md"
+  },
+  "next_title_family": {
+    "name": "Key man",
+    "range": [
+      348,
+      350
+    ],
+    "boundary_status": "verified complete",
+    "following_family_starts": 351,
+    "following_title": "Outside the Tower (1)",
+    "alignment_note": "348→E346 through 350→E348; target351→E349 begins Outside the Tower (1) in declared combined raw 351.txt (351+352), pair boundary pending explicit verification."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -404,9 +404,22 @@
     339,
     340,
     341,
-    342
+    342,
+    343,
+    344,
+    345,
+    346,
+    347
   ],
   "notes": [
+    "Chapters343-347 accepted as Ballak (1)-(5), mapping E341-E345.",
+    "River of Flow accelerates biological/organic time; Tudor/Bianca have aged seven internal years / 2,555 days.",
+    "Vikir exploits Scale of Forced Equality with Strength798 as the target for all six unlocked stats.",
+    "Ballak enemies are the infant/child generation aged inside the tower; Cindywendy Studio jewelry and Baskerville child-training memories resolve the age mystery.",
+    "Aheul is now near sixty by floor-time; Akwilla died fighting Amdusias after old Adonai-battle injuries contributed.",
+    "Aheul/Ahun/Aiyen established spellings retained; Ahun/Aiyen outside-tower status remains unknown.",
+    "Both Ballak and Academy groups receive mirrored kill-or-be-killed missions; target347 ends on Vikir apparently decapitating everyone while the mission remains uncleared.",
+    "Next family Key man verified targets348-350 / E346-E348; Outside the Tower begins target351/E349 with combined raw 351+352 requiring explicit pair split verification.",
     "Chapters341-342 accepted as Private Life (1)-(2), mapping E339-E340.",
     "Choco perception resolves because Vikir had not canceled Picaresque dog form after the Dragon Majin escape.",
     "Dolores's tower guilt is Amdusias's intended mental pressure; Vikir helps by repeating older pre-regression Dolores's own teaching back to her.",

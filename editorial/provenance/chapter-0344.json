@@ -1,0 +1,37 @@
+{
+  "chapter": 344,
+  "title": "Ballak (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Ballak",
+    "range": [
+      343,
+      347
+    ],
+    "family_qa_path": "qa/families/ballak-0343-0347.md",
+    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/344.txt",
+    "blob_sha": "bbf260480d91ab7037e8b437e4902a5f258fde4c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-342.xhtml",
+    "blob_sha": "fa00bf71687a23ec52739e0b34452c1339e1852e",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0344.md",
+    "blob_sha": "ddd266309a96349946c1b01f2732576aad32535b"
+  },
+  "qa": {
+    "path": "qa/chapter-0344.md",
+    "blob_sha": "911db69f9edd85fcbe33515bb9e2d497686992fb",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established project glossary forms were reused and no source-local form was falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
