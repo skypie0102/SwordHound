@@ -1,0 +1,41 @@
+{
+  "chapter": 263,
+  "title": "The Inverted Pentagram (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Inverted Pentagram",
+    "range": [
+      261,
+      263
+    ],
+    "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
+    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/263.txt",
+    "blob_sha": "7286270c6eaddfb581b37896ea79e268bc8e591b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-261.xhtml",
+    "blob_sha": "296de9f1de7dc6ceb0f4e82eb8b149705af37345",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0263.md",
+    "blob_sha": "3507f2dc33cdf8a6f3a5bba87a3e63b5cf3bbf99"
+  },
+  "qa": {
+    "path": "qa/chapter-0263.md",
+    "blob_sha": "c9271c31e568617cbe9023d423f25a00d9b85325",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Decarabia danger rating is S+ from Chinese; shifted-English S rejected.",
+    "Use established group term Ten Corpses and canonical text title 『The Decalogue』."
+  ]
+}

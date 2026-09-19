@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 260,
+  "accepted_chapters": 263,
   "staged_chapters": 0,
-  "next_chapter": 261,
+  "next_chapter": 264,
   "latest_accepted_family": {
-    "name": "The Grave of Swords",
-    "range": [
-      255,
-      260
-    ],
-    "family_qa": "qa/families/grave-of-swords-0255-0260.md"
-  },
-  "next_title_family": {
     "name": "The Inverted Pentagram",
     "range": [
       261,
-      null
+      263
     ],
-    "boundary_status": "start verified; full contiguous family boundary pending forward read",
-    "following_family_starts": null,
-    "following_title": null,
-    "alignment_note": "261→E259 begins The Inverted Pentagram (1)"
+    "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
+  },
+  "next_title_family": {
+    "name": "The Season of Redemption",
+    "range": [
+      264,
+      267
+    ],
+    "boundary_status": "verified complete; target267 shares raw 267.txt with target268",
+    "following_family_starts": 268,
+    "following_title": "The Eucharist (1)",
+    "alignment_note": "264→E262 through 267→E265; 268→E266 begins The Eucharist (1) in shared raw"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -322,9 +322,18 @@
     257,
     258,
     259,
-    260
+    260,
+    261,
+    262,
+    263
   ],
   "notes": [
+    "Chapters261-263 accepted as The Inverted Pentagram (1)-(3), mapping E259-E261.",
+    "Decarabia is Chinese-primary Danger Rating S+; shifted-English S rejected.",
+    "Decarabia is an inanimate-type Seventh Corpse whose thousand-year alignment is determined by the first being to awaken it.",
+    "Vikir becomes Decarabia's representative contractor; Decarabia shifts away from demon alignment for the current cycle and agrees to disclose prior-contractor information.",
+    "Vikir's public barrier-escape explanation is an artifact cover; actual escape uses Eighth Fang.",
+    "Next family The Season of Redemption is verified targets264-267 / E262-E265; target267 shares raw 267.txt with target268 Eucharist (1).",
     "Chapters255-260 accepted as The Grave of Swords (1)-(6), mapping E253-E258.",
     "Ballak contact loss remains unresolved.",
     "Dead Basilisk: S / 44 m / 10th Ridge / Dragon of the Saha River; slain by an unnamed Pit Bull knight using deeply honed Fourth Fang.",

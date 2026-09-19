@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 260,
+  "accepted_count": 263,
   "staged_count": 0,
-  "next_chapter": 261,
+  "next_chapter": 264,
   "active_title_family": {
-    "name": "The Inverted Pentagram",
+    "name": "The Season of Redemption",
     "range": [
-      261,
-      null
+      264,
+      267
     ],
-    "boundary_status": "begins at target261 / E259; full contiguous family boundary must be verified before acceptance",
-    "following_family_starts": null,
-    "following_title": null,
-    "alignment_note": "261→E259 The Inverted Pentagram (1)"
+    "boundary_status": "verified complete: target264→E262 through target267→E265; target267 shares raw container 267.txt with target268",
+    "following_family_starts": 268,
+    "following_title": "The Eucharist (1)",
+    "alignment_note": "264→E262, 265→E263, 266→E264, 267→E265; target268→E266 begins The Eucharist (1) inside shared source/chinese/chapters/267.txt"
   },
   "chapters": [
     {
@@ -3655,6 +3655,48 @@
       "acceptance": "qa/acceptance/chapter-0260.json",
       "acceptance_sha": "638cce2bf8456ffe15e525cd36756408613e5eb7",
       "family_qa": "qa/families/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 261,
+      "title": "The Inverted Pentagram (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/261.txt",
+      "english_mtl_reference": "source/chapters/chapter-259.xhtml",
+      "draft": "manuscript/drafts/chapter-0261.md",
+      "qa": "qa/chapter-0261.md",
+      "provenance": "editorial/provenance/chapter-0261.json",
+      "acceptance": "qa/acceptance/chapter-0261.json",
+      "acceptance_sha": "b56ac5f05cba8f18a1416e000489143cadc62f8f",
+      "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
+    },
+    {
+      "chapter": 262,
+      "title": "The Inverted Pentagram (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/262.txt",
+      "english_mtl_reference": "source/chapters/chapter-260.xhtml",
+      "draft": "manuscript/drafts/chapter-0262.md",
+      "qa": "qa/chapter-0262.md",
+      "provenance": "editorial/provenance/chapter-0262.json",
+      "acceptance": "qa/acceptance/chapter-0262.json",
+      "acceptance_sha": "f9a88a9c431a5bd9363d4648c741a83bdb1c5cf6",
+      "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
+    },
+    {
+      "chapter": 263,
+      "title": "The Inverted Pentagram (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/263.txt",
+      "english_mtl_reference": "source/chapters/chapter-261.xhtml",
+      "draft": "manuscript/drafts/chapter-0263.md",
+      "qa": "qa/chapter-0263.md",
+      "provenance": "editorial/provenance/chapter-0263.json",
+      "acceptance": "qa/acceptance/chapter-0263.json",
+      "acceptance_sha": "fcdbe266434a0f671c7a77e8ac79b38f1e88ce87",
+      "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
     }
   ]
 }

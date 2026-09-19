@@ -1,0 +1,36 @@
+{
+  "chapter": 263,
+  "title": "The Inverted Pentagram (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Inverted Pentagram",
+    "range": [
+      261,
+      263
+    ],
+    "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
+    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/263.txt",
+    "primary_source_sha": "7286270c6eaddfb581b37896ea79e268bc8e591b",
+    "english_reference_path": "source/chapters/chapter-261.xhtml",
+    "english_reference_sha": "296de9f1de7dc6ceb0f4e82eb8b149705af37345",
+    "draft_path": "manuscript/drafts/chapter-0263.md",
+    "draft_sha": "3507f2dc33cdf8a6f3a5bba87a3e63b5cf3bbf99",
+    "qa_path": "qa/chapter-0263.md",
+    "qa_sha": "c9271c31e568617cbe9023d423f25a00d9b85325",
+    "provenance_path": "editorial/provenance/chapter-0263.json",
+    "provenance_sha": "31afa5bbacb41d5bc73eb8e98efadfb9b151190b"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Season of Redemption material from target264 is imported."
+  ],
+  "corrections": [
+    "Decarabia danger rating = S+ from Chinese, not shifted-English S."
+  ]
+}
