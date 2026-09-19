@@ -1,49 +1,49 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 347 / 500  
+**Accepted:** 350 / 500  
 **Staged:** 0  
-**Next target:** 348
+**Next target:** 351
 
 ## Latest accepted family
 
-**Ballak (1)–(5)** — targets **343–347**.
+**Key man (1)–(3)** — targets **348–350**.
 
-- Family QA: `qa/families/ballak-0343-0347.md` — PASS.
-- Alignment: **343→E341 through 347→E345**.
-- Basement Floor11 is **River of Flow**; biological/organic time is accelerated while wind and river flow remain ordinary.
-- Tudor/Bianca have experienced **2,555 internal days / seven biological years** while only about a week seems to have passed.
-- Sancho and Pigi are also on the floor; Sinclaire alone descended from the previous stage.
-- Pigi’s naturally dark blood remains a non-Majin source trait.
-- Vikir’s pre-growth checkpoint is Level1 / Strength798 / Agility92 / Stamina100 / Physical Resistance1 / Magic Resistance1 / Reflexes1.
-- The **Scale of Forced Equality** pushes all lower stats toward Strength798; River of Flow makes the normally slow item unusually effective.
-- Vikir preserves golden Level candy for later multiplicative value.
-- The opposing warriors are Ballak children/infants who have aged for decades inside the floor and therefore did not recognize Vikir.
-- Cindywendy Studio glass-bead jewelry and childhood Baskerville-technique memories resolve the generation mystery.
-- **Aheul** is the powerful hunting leader; **Ahun / Aiyen / Akwilla** established forms are retained.
-- Aheul’s old Bourgeois-merchant incident preserves the source-explicit sexual-harassment detail.
-- Amdusias attacked Ballak directly without Winston’s body; Akwilla died after severely wounding him, with old Adonai-battle injuries contributing.
-- Ahun/Aiyen were not confirmed inside the tower and remain outside-status unknown.
-- Ballak and the Academy group have mirrored kill-or-be-killed missions; Aheul had reduced the conflict to food raids rather than murder.
-- Target347 ends with Vikir apparently decapitating both groups while the mission remains uncleared. Do **not** import the solution before target348.
+- Family QA: `qa/families/key-man-0348-0350.md` — PASS.
+- Alignment: **348→E346, 349→E347, 350→E348**.
+- C348’s isolated “we are not human” is corrected to **“we are human”** because the immediate next statement identifies the gate as demon-only and aligned E346 confirms the positive reading.
+- Pigi remains male despite local pronoun drift.
+- Floor11’s mission requires everyone both to kill and to be killed; first deaths wake first, while the final survivor wakes last.
+- Physical age resets after waking; accumulated Levels/stats/experience remain.
+- Vikir completes the Scale of Forced Equality at **Level1** with all six stats **798**, total **4,788**.
+- Aheul rejects reverse summoning because the Beetlemen outcome remains uncertain.
+- Pigi’s black blood kills/harms fairies and other demonic tower constructs, especially when applied to a weapon/aura. Its origin, ancestry, species significance, or other hidden explanation remains **unknown**.
+- Pigi’s old scarred guide resembles Vikir in voice/hand details, but Vikir has no memory of the act; residual/pre-regression manifestation remains only Vikir’s hypothesis.
+- Pre-regression Camus Morgue is remembered as the eventual Hell Tree clearer.
+- Everyone gives Vikir their golden mission rewards.
+- Vikir uses his preserved Return Scroll, returning to Tutorial while Level resets.
+- After consuming the hoarded golden candy, Vikir reaches **Level100 MAX**.
+- Exact target350 stats: all six = **1,000 (+98,941) = 99,941**.
+- Vikir independently realizes the full Baskerville Eighth Fang/Form.
+- **Turning the Sky Upside Down** and **Serpent’s Tongue** remain source-local forms pending direct Fandom access.
+- Target350 closes with **Amdusias / Fifth Corpse / S+ / Serpent’s Womb**, the unicorn demon that corrupted Winston Smith.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Key man (1)–(3)** — targets **348–350**.
+**Outside the Tower (1)–(2)** — targets **351–352**.
 
-- 348→E346 — *Key man (1)*
-- 349→E347 — *Key man (2)*
-- 350→E348 — *Key man (3)*
-
-Following family:
 - 351→E349 — *Outside the Tower (1)*
 - 352→E350 — *Outside the Tower (2)*
-- Chinese `351.txt` is declared a combined **351+352** source container; verify the internal split before drafting.
+- Chinese `source/chinese/chapters/351.txt` is declared a combined **351+352** source container.
+- The exact internal split must be verified from source sequence + E349/E350 before drafting.
+- Do not physically split the raw unless the source provides a defensible direct boundary.
 
 ## Exact next actions
 
-1. Read C348–C350 completely against E346–E348.
-2. Reconstruct and QA Key man (1)–(3).
-3. Merge it.
-4. Immediately inspect combined C351+352 against E349–E350, establish the split, and continue into Outside the Tower (1)–(2).
+1. Read all of combined C351+352.
+2. Read E349 and E350 completely.
+3. Establish the precise target351/352 boundary and document it in `source/chinese/chapter-exceptions.tsv`.
+4. Determine the family immediately following target352.
+5. Reconstruct/QA/accept Outside the Tower (1)–(2).
+6. Merge and continue immediately into the next complete title family.

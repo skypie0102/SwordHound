@@ -1,0 +1,34 @@
+{
+  "chapter": 349,
+  "title": "Key man (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Key man",
+    "range": [
+      348,
+      350
+    ],
+    "family_qa_path": "qa/families/key-man-0348-0350.md",
+    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/349.txt",
+    "primary_source_sha": "c9a479ee70e676cd1608ff617b3e1b83951b7c65",
+    "english_reference_path": "source/chapters/chapter-347.xhtml",
+    "english_reference_sha": "573d2866df43848a07a5a1c0f505d51093eb9ec9",
+    "draft_path": "manuscript/drafts/chapter-0349.md",
+    "draft_sha": "ee18ad8e283d24b515664cb435c3742b8d06e806",
+    "qa_path": "qa/chapter-0349.md",
+    "qa_sha": "e0819fa1445328b56e6aa17b30b04642b4f39397",
+    "provenance_path": "editorial/provenance/chapter-0349.json",
+    "provenance_sha": "59e25ef3a7c48f63b0f2bd826ff74015e723872d"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established project glossary forms were reused.",
+    "No Outside the Tower material from target351 is imported."
+  ],
+  "uncertainty_guard": "Pigi blood origin remains unknown."
+}

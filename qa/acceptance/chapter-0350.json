@@ -1,0 +1,37 @@
+{
+  "chapter": 350,
+  "title": "Key man (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Key man",
+    "range": [
+      348,
+      350
+    ],
+    "family_qa_path": "qa/families/key-man-0348-0350.md",
+    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/350.txt",
+    "primary_source_sha": "af56e054b4b78bf6d283940bf576f959f8fadc4e",
+    "english_reference_path": "source/chapters/chapter-348.xhtml",
+    "english_reference_sha": "01ced25b970f6544b8c69addfc33d2d83cc5cb8c",
+    "draft_path": "manuscript/drafts/chapter-0350.md",
+    "draft_sha": "084d512e30c02cb7d3d6e5076205f1afc4f1bbe5",
+    "qa_path": "qa/chapter-0350.md",
+    "qa_sha": "e0e6e188de3cdbc929aefa0dd60b3b99a1488203",
+    "provenance_path": "editorial/provenance/chapter-0350.json",
+    "provenance_sha": "db7e4cb471966d4150ede594ee8ad4b3b4843ef2"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established project glossary forms were reused.",
+    "No Outside the Tower material from target351 is imported."
+  ],
+  "stat_checkpoint": {
+    "level": 100,
+    "all_six_stats": 99941
+  }
+}

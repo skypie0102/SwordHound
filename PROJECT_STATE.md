@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 347  
+**Accepted:** 350  
 **Staged:** 0  
-**Next chapter:** 348
+**Next chapter:** 351
 
-Latest accepted family: **Ballak (1)–(5)** — targets343–347 / E341–E345.  
-Family QA: `qa/families/ballak-0343-0347.md` — **PASS**.
+Latest accepted family: **Key man (1)–(3)** — targets348–350 / E346–E348.  
+Family QA: `qa/families/key-man-0348-0350.md` — **PASS**.
 
-Key decisions: River of Flow accelerates organic aging; Scale of Forced Equality uses Strength798 as the target for all six unlocked stats; the Ballak opponents are the infant/child generation aged inside the tower; Aheul leads them; Akwilla died fighting Amdusias; and target347 ends on an unresolved apparent mass-death cliffhanger.
+Key decisions: C348’s corrupted human/demon-gate line is repaired from immediate context + E346; the kill/be-killed mission requires every participant to experience death; Pigi’s blood is an unexplained anti-demon/tower anomaly; Vikir finishes River of Flow at all-six-stats798, then uses Return Scroll + hoarded golden candy to reach Level100/MAX with all six stats99941; and target350 exposes Amdusias S+ above Tutorial.
 
-Next verified family: **Key man (1)–(3)** — targets348–350 / E346–E348.  
-Following family: **Outside the Tower (1)–(2)** — targets351–352 / E349–E350, with combined Chinese raw `351.txt` requiring split verification.
+Next verified family: **Outside the Tower (1)–(2)** — targets351–352 / E349–E350.  
+Chinese `351.txt` is a combined 351+352 raw whose internal split must be verified before drafting.

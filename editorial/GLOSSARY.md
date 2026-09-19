@@ -1,3 +1,19 @@
+## Key man additions — Chapters 348–350
+
+- **Key man** — accepted three-part family, targets348–350 / witnesses E346–E348.
+- **C348 human/demon-gate correction** — isolated Chinese “we are not human” conflicts with the immediate demon-only gate logic and aligned E346; production uses **“we are human.”**
+- **Pigi dream guide** — scarred older Vikir-like figure helps Pigi walk forward without looking back; Vikir has no memory of doing so. Residual/pre-regression manifestation remains hypothesis only.
+- **Serpent’s Tongue** — source-local entrance name at the Gate of Destruction; direct Fandom confirmation unavailable.
+- **Kill or Be Killed solution** — every participant must both kill and be killed. First deaths awaken first; the last survivor awakens last.
+- **Post-Floor11 Vikir stats** — Level1; Strength798 / Agility798 / Stamina798 / Physical Resistance798 / Magic Resistance798 / Reflexes798; total4788.
+- **Pigi black blood** — demonstrably harmful to fairies / demonic tower constructs and potent as weapon/aura coating; origin/ancestry/species meaning remains unknown.
+- **Camus Morgue pre-regression tower clear** — remembered as the eventual Hell Tree clearer despite humanity then not understanding the demonic origin.
+- **Return Scroll payoff** — Vikir returns to Tutorial, Level resets, accumulated stat foundation remains.
+- **Target350 Vikir stats** — Level100 MAX; all six stats = **1,000 (+98,941) = 99,941**.
+- **Turning the Sky Upside Down** — source-local aligned-witness name for Vikir’s independently completed Eighth-Fang technique; direct Fandom confirmation unavailable.
+- **Amdusias target350 reveal** — Fifth Corpse / Danger Rating S+ / Serpent’s Womb / giant unicorn; Winston Smith’s corrupter.
+- **Outside the Tower** — next family targets351–352 / E349–E350; Chinese raw `351.txt` is a combined 351+352 container requiring explicit split verification.
+
 ## Ballak additions — Chapters 343–347
 
 - **Ballak** — accepted five-part family, targets343–347 / witnesses E341–E345; Chinese title labels are noisy and aligned English family naming controls production.

@@ -1,0 +1,38 @@
+{
+  "chapter": 349,
+  "title": "Key man (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Key man",
+    "range": [
+      348,
+      350
+    ],
+    "family_qa_path": "qa/families/key-man-0348-0350.md",
+    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/349.txt",
+    "blob_sha": "c9a479ee70e676cd1608ff617b3e1b83951b7c65",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-347.xhtml",
+    "blob_sha": "573d2866df43848a07a5a1c0f505d51093eb9ec9",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0349.md",
+    "blob_sha": "ee18ad8e283d24b515664cb435c3742b8d06e806"
+  },
+  "qa": {
+    "path": "qa/chapter-0349.md",
+    "blob_sha": "e0819fa1445328b56e6aa17b30b04642b4f39397",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms are not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "uncertainty_guard": "Pigi blood is an observed anti-demon/tower anomaly only; origin/ancestry/species remains unknown."
+}
