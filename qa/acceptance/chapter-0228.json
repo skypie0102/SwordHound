@@ -1,0 +1,40 @@
+{
+  "chapter": 228,
+  "title": "Tuition (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/228.txt",
+    "primary_source_sha": "cde05a2a56b67513a4ae54ae5e59c94b9ecdc3fb",
+    "english_reference_path": "source/chapters/chapter-226.xhtml",
+    "english_reference_sha": "c342933f93915e0ba6291046288d29971ee810a0",
+    "draft_path": "manuscript/drafts/chapter-0228.md",
+    "draft_sha": "5a6d9df45135f5035a4c1867885cdb069b0577b1",
+    "qa_path": "qa/chapter-0228.md",
+    "qa_sha": "a39dcfb2bac706c8866092b155c977981eeeaa20",
+    "provenance_path": "editorial/provenance/chapter-0228.json",
+    "provenance_sha": "ece88b90564ad60f3ffeb455eabd11c9646d6c9a"
+  },
+  "canonical_checks": [
+    "MiniPin",
+    "Sherpa Guild",
+    "Colosseo Academy",
+    "Graduator"
+  ],
+  "documented_limits": [
+    "Vikir steals nothing.",
+    "MiniPin's wife/daughter are never threatened or harmed."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}

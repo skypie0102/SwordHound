@@ -5,56 +5,48 @@
 ## Handoff metadata
 
 - **Last updated:** 2026-09-19
-- **Updated by:** ChatGPT — That Day, Him and Me acceptance checkpoint
-- **Working branch:** `editorial/restart-that-day-him-me-0220-0224`
-- **Base main checkpoint:** merged My Neck Will Be Your Sheath checkpoint
-- **Current PR:** #61 — `Rebuild That Day, Him and Me Chapters 220–224`
+- **Updated by:** ChatGPT — Tuition acceptance checkpoint
+- **Working branch:** `editorial/restart-tuition-0225-0233`
+- **Base main checkpoint:** merged That Day, Him and Me checkpoint
+- **Current PR:** #62 — `Rebuild Tuition Chapters 225–233`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
 
-- **Accepted:** **224 / 500**
+- **Accepted:** **233 / 500**
 - **Staged:** **0**
-- **Next:** **225**
-- **Latest family:** targets **220–224 — That Day, Him and Me (1)–(5)**
-- **Family QA:** `qa/families/that-day-him-me-0220-0224.md` — PASS — `c19c81072c7046d93d62c86c5c8dec07177a2c30`
-- **Next family:** targets **225–233 — Tuition (1)–(9)**
-- **Following family:** targets **234–235 — Suspicion (1)–(2)**
-- **After that:** target **236 — National University League (1)**
+- **Next:** **234**
+- **Latest family:** targets **225–233 — Tuition (1)–(9)**
+- **Family QA:** `qa/families/tuition-0225-0233.md` — PASS — `24b0b753104d417022151659291e4d3f58671882`
+- **Next family:** targets **234–235 — Suspicion (1)–(2)**
+- **Following family:** target **236 — National University League (1)**
 
 ## Key decisions
 
-- Camus grief / lost voice / self-blame after Vikir disappearance drive the flashback.
-- Adolf's “living carry the dead's share” line triggers Camus resurrection obsession.
-- Camus is explicitly 17 when entering Snake's Dark Faction.
-- Her sexual leverage attempt remains brief/non-erotic; Snake immediately rejects it.
-- Snake teaches that real black magic requires understanding/loving life before death.
-- Morgue begins historically as corpse preservation/identification/return work.
-- Art of Complete Resurrection is forbidden life-for-life magic.
-- Failed resurrection kills Snake while leaving Camus half-dead / half-alive.
-- That half-death produces Seere's twelve-hour co-control arrangement.
-- Camus raises Ah'Heman, restores Rosie, builds Life Vessel, and suspects Night Hound may be surviving Vikir.
-- C224 Raven diary is paraphrased from source adaptation.
-- Camus's claim that Vikir cares, and bride/future-husband/You are mine language, remain unilateral Camus interpretation/fantasy.
-- Residual Seere becomes subordinate; Camus refuses to open the Gate.
+- Raw Tuition title wording alternates; normalize 225–233 to **Tuition (1)–(9)**.
+- Dolores separates Night Hound from Ms. Ouroboros crimes; Vikir's anti-self journalism remains cover.
+- Ms. Ouroboros identity remains unrevealed. C225 says roughly Graduator; C231 reveals High Graduator minimum / possibly higher.
+- Ouroboros flinches on seeing Vikir's face; left-side reaction delay remains unresolved clue.
+- Vikir's scholarship is ~80%; Banshee supplied recommendation.
+- Financial-cover rule keeps Baskerville/Cindywendy money out of tuition.
+- Sherpa Guild / MiniPin established; MiniPin is future guide/researcher recruitment target.
+- Repeated MiniPin home intrusions never target or threaten his family.
+- Gnoll / Poison Gnoll normalized at C+ / A.
+- Baby Madam kills the Poison Gnoll.
+- Den gold / Royal Imperial Bank link remains Vikir inference; Bourgeois Damien serial law is explicit.
+- Thrifty Bazaar is top-ten Imperial auction; faction boycott backfires at 4× minimum bid.
+- Vikir pays four years tuition and anonymously establishes **Peri Award**, conditioned on orphanage volunteer service.
 
-## Next family — Tuition 225–233
+## Next family — Suspicion 234–235
 
-- 225 → E223
-- 226 → E224
-- 227 → E225
-- 228 → E226
-- 229 → E227
-- 230 → E228
-- 231 → E229
-- 232 → E230
-- 233 → E231
-- boundary 234 → E232 begins **Suspicion (1)**.
+- 234 → E232
+- 235 → E233
+- boundary 236 → E234 begins **National University League (1)**.
 
 ## Exact next actions
 
-1. Open/validate/merge the That Day, Him and Me checkpoint PR.
-2. Fresh branch from merged main for **Tuition 225–233**.
-3. Read C225–233 against E223–E231 completely.
-4. Use C234/E232 as next boundary.
-5. Reconstruct/QA/provenance-bind/accept all nine chapters, then continue.
+1. Open/validate/merge the Tuition checkpoint PR.
+2. Fresh branch from merged main for **Suspicion 234–235**.
+3. Read C234–235 against E232–233 completely.
+4. Use C236/E234 as the next boundary.
+5. Reconstruct/QA/provenance-bind/accept both chapters, then continue.

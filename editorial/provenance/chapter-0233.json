@@ -1,0 +1,71 @@
+{
+  "chapter": 233,
+  "title": "Tuition (9)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/233.txt",
+    "blob_sha": "2787112e395bedd25a34846338a1a522b7d9304c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-231.xhtml",
+    "blob_sha": "5b23398ed2ebd49d038a4d811f5db3d408e2f066",
+    "target_alignment": 233,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0233.md",
+    "blob_sha": "114f5413b7c3f9856449f7b2efecdbee869a8ea0"
+  },
+  "qa": {
+    "path": "qa/chapter-0233.md",
+    "blob_sha": "db0df86b18efafc9cb331ec013e8ccb2716842ad",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bazaar_rank",
+      "final": "Thrifty Bazaar is one of Empire top ten auctions and permits outside bidders",
+      "basis": "Chinese C233"
+    },
+    {
+      "topic": "factions",
+      "final": "Noble/power-family factions jointly suppress Vikir's auction after recruitment failures",
+      "basis": "Chinese C233"
+    },
+    {
+      "topic": "scarcity",
+      "final": "Vikir burns stock and resets minimum bid to 4x opening price",
+      "basis": "Chinese C233"
+    },
+    {
+      "topic": "scholarship",
+      "final": "Vikir pays four years and anonymously donates surplus for tuition scholarships tied to orphanage volunteer hours",
+      "basis": "Chinese C233"
+    },
+    {
+      "topic": "peri_award",
+      "final": "Legacy Nymphet award slot normalized to project-canonical Peri Award",
+      "basis": "Chinese C233 + accepted Peri terminology"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}

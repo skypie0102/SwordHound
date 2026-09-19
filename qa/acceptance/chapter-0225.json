@@ -1,0 +1,40 @@
+{
+  "chapter": 225,
+  "title": "Tuition (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/225.txt",
+    "primary_source_sha": "1879573d9f58626cc95bab311a29bccec2ad5cbf",
+    "english_reference_path": "source/chapters/chapter-223.xhtml",
+    "english_reference_sha": "fdd69ef9d7396852dca97e9936353a8d32ed6144",
+    "draft_path": "manuscript/drafts/chapter-0225.md",
+    "draft_sha": "885c6bdb2c0c1791c6890d6728913bfbb157e0a2",
+    "qa_path": "qa/chapter-0225.md",
+    "qa_sha": "92b0b9ebcb317f9befb5de918d654249d513f5d5",
+    "provenance_path": "editorial/provenance/chapter-0225.json",
+    "provenance_sha": "745c5a5b2ee3a0ed59e10d680cd20e9ce137a15d"
+  },
+  "canonical_checks": [
+    "Ms. Ouroboros",
+    "Night Hound",
+    "Professor Banshee Morgue",
+    "Cerberus"
+  ],
+  "documented_limits": [
+    "Ms. Ouroboros identity remains unrevealed.",
+    "C225 public strength estimate is roughly Graduator-level."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}

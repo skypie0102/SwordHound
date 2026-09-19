@@ -1,0 +1,71 @@
+{
+  "chapter": 231,
+  "title": "Tuition (7)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/231.txt",
+    "blob_sha": "298846f7256c049c6f238d1589479c6551ad2050",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-229.xhtml",
+    "blob_sha": "8872e323f641a16ecf900e576b43abf5c1c17ef7",
+    "target_alignment": 231,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0231.md",
+    "blob_sha": "efcbc9c768314281b4b26ca1cc5d467a99826983"
+  },
+  "qa": {
+    "path": "qa/chapter-0231.md",
+    "blob_sha": "30d2f349c803519c2fd63f00446016f4166d3002",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "face_flitch",
+      "final": "Ms. Ouroboros visibly flinches on seeing Vikir's face and her killing intent changes",
+      "basis": "Chinese C231"
+    },
+    {
+      "topic": "rank",
+      "final": "Ouroboros aura is High Graduator minimum, possibly higher",
+      "basis": "Chinese C231"
+    },
+    {
+      "topic": "left_blindspot",
+      "final": "Vikir detects subtle left-side reaction delay / blind spot; cause unrevealed",
+      "basis": "Chinese C231"
+    },
+    {
+      "topic": "escape",
+      "final": "Baby Madam + MiniPin + Anubis + distress flare create retreat window",
+      "basis": "Chinese C231"
+    },
+    {
+      "topic": "identity_guard",
+      "final": "Again wording and left-face gesture remain clues only; identity unrevealed",
+      "basis": "Chinese C231"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}

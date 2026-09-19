@@ -1,0 +1,66 @@
+{
+  "chapter": 228,
+  "title": "Tuition (4)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/228.txt",
+    "blob_sha": "cde05a2a56b67513a4ae54ae5e59c94b9ecdc3fb",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-226.xhtml",
+    "blob_sha": "c342933f93915e0ba6291046288d29971ee810a0",
+    "target_alignment": 228,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0228.md",
+    "blob_sha": "5a6d9df45135f5035a4c1867885cdb069b0577b1"
+  },
+  "qa": {
+    "path": "qa/chapter-0228.md",
+    "blob_sha": "a39dcfb2bac706c8866092b155c977981eeeaa20",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "intrusions",
+      "final": "Repeated home intrusions intimidate MiniPin only; no theft or family threat",
+      "basis": "Chinese C228"
+    },
+    {
+      "topic": "guard",
+      "final": "Imperial Guard stakeout produces no encounter because intruder waits",
+      "basis": "Chinese C228"
+    },
+    {
+      "topic": "paper_clue",
+      "final": "Crumpled request-paper sound links intruder to Vikir's repeatedly resubmitted request",
+      "basis": "Chinese C228"
+    },
+    {
+      "topic": "acceptance_pressure",
+      "final": "Vikir appears openly and asks whether MiniPin will accept the request",
+      "basis": "Chinese C228"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "chapter": 229,
+  "title": "Tuition (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/229.txt",
+    "primary_source_sha": "c8badb3ba83e1d42a4601dd6c9ad7b7330e9cf93",
+    "english_reference_path": "source/chapters/chapter-227.xhtml",
+    "english_reference_sha": "1ee96cb59c421ed3ceb9f9fe92613b02dcade94e",
+    "draft_path": "manuscript/drafts/chapter-0229.md",
+    "draft_sha": "f63abbe7702e79a57b32ac59ab50fd11149e6cf2",
+    "qa_path": "qa/chapter-0229.md",
+    "qa_sha": "7f04b263ced7e3e4320bce72772887a89cd78880",
+    "provenance_path": "editorial/provenance/chapter-0229.json",
+    "provenance_sha": "ae5dd21d09885d2ff68febc9bfe97f250c08e19e"
+  },
+  "canonical_checks": [
+    "MiniPin",
+    "Gnoll",
+    "Monster Wave",
+    "Baskerville"
+  ],
+  "documented_limits": [
+    "No precise colony count is invented.",
+    "Gnoll individual danger C+, group danger can reach A."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}

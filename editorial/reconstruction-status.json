@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 224,
+  "accepted_chapters": 233,
   "staged_chapters": 0,
-  "next_chapter": 225,
+  "next_chapter": 234,
   "latest_accepted_family": {
-    "name": "That Day, Him and Me",
-    "range": [
-      220,
-      224
-    ],
-    "family_qa": "qa/families/that-day-him-me-0220-0224.md"
-  },
-  "next_title_family": {
     "name": "Tuition",
     "range": [
       225,
       233
     ],
-    "boundary_status": "verified nine-part family; raw Chinese title wording alternates",
-    "following_family_starts": 234,
-    "following_title": "Suspicion (1)",
-    "alignment_note": "225→E223 through233→E231;234→E232"
+    "family_qa": "qa/families/tuition-0225-0233.md"
+  },
+  "next_title_family": {
+    "name": "Suspicion",
+    "range": [
+      234,
+      235
+    ],
+    "boundary_status": "verified two-part family",
+    "following_family_starts": 236,
+    "following_title": "National University League (1)",
+    "alignment_note": "234→E232,235→E233;236→E234"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -286,21 +286,32 @@
     221,
     222,
     223,
-    224
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233
   ],
   "notes": [
-    "Chapters220-224 are accepted as That Day, Him and Me (1)-(5).",
-    "Camus's post-mountain grief and Adolf's living-carry-dead-share consolation trigger her resurrection obsession.",
-    "At17 Camus leaves Light Faction for Snake's Dark Faction to pursue resurrection; her desperate sexual provocation remains brief/non-erotic and Snake immediately rejects it.",
-    "Snake teaches that true black magic requires deep understanding/love of life before death.",
-    "Camus raises Rosie as intelligent undead but pursues Art of Complete Resurrection.",
-    "Failed resurrection kills Snake, who absorbs the backlash and sends Camus back from the death-door.",
-    "Half-dead Camus's Seere contract becomes twelve-hour co-control rather than full possession.",
-    "Camus raises Ah'Heman, restores Rosie/Geronto, builds a Life Vessel, and begins suspecting Night Hound may be surviving Vikir.",
-    "C224 Raven diary is paraphrased from the source's Poe adaptation rather than reproduced line-for-line.",
-    "Camus's belief that Vikir cares, and bride/future-husband/You are mine language, remain unilateral Camus interpretation/fantasy.",
-    "Residual Seere becomes a tiny subordinate remnant; Camus refuses to open the Gate.",
-    "Next family targets225-233 — Tuition (1)-(9), mapped225→E223 through233→E231. Targets234-235 are Suspicion; target236 begins National University League.",
+    "Chapters225-233 are accepted as Tuition (1)-(9); raw Chinese alternates tuition/registration-fee wording.",
+    "Dolores separates Night Hound from the Ms. Ouroboros infrastructure attacks; Vikir's anti–Night Hound articles remain identity cover.",
+    "Ms. Ouroboros public C225 profile is presumed female / roughly Graduator-level; identity remains unrevealed.",
+    "Vikir has roughly80% scholarship support through academics/Banshee recommendation but pays the remainder independently to avoid financial traces.",
+    "Sherpa Guild / MiniPin are established; MiniPin is >2.3m, ~180kg, Graduator-level, future high-value guide/researcher and Vikir recruitment target.",
+    "Repeated MiniPin home intrusions target him alone; no theft or family threat is introduced.",
+    "Raw 洛 / 毒变怪 are normalized to Gnoll / Poison Gnoll (C+ / A).",
+    "Vikir clears the Gnoll nest through panic/route compression rather than an invented precise colony count; Baby Madam kills the Poison Gnoll.",
+    "Unnumbered gold in the den is linked by Vikir inference to the Royal Imperial Bank robbery; Bourgeois Damien serial-number law is source-explicit.",
+    "Ms. Ouroboros flinches on seeing Vikir's face, shows High-Graduator-or-higher aura, and has a subtle left-side reaction delay whose cause remains unrevealed.",
+    "MiniPin's old Baskerville ambition and Sherpa financial hardship reinforce Vikir's recruitment plan.",
+    "Thrifty Bazaar is a top-ten Imperial auction; noble/power-family boycott backfires after Vikir burns supply and resets minimum bid to4x.",
+    "Vikir pays four years tuition, anonymously donates surplus to scholarships tied to orphanage volunteer service, and names the fund the Peri Award.",
+    "Next family targets234-235 — Suspicion (1)-(2), mapped234→E232,235→E233. Target236→E234 begins National University League (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

@@ -1,0 +1,66 @@
+{
+  "chapter": 229,
+  "title": "Tuition (5)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/229.txt",
+    "blob_sha": "c8badb3ba83e1d42a4601dd6c9ad7b7330e9cf93",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-227.xhtml",
+    "blob_sha": "1ee96cb59c421ed3ceb9f9fe92613b02dcade94e",
+    "target_alignment": 229,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0229.md",
+    "blob_sha": "f63abbe7702e79a57b32ac59ab50fd11149e6cf2"
+  },
+  "qa": {
+    "path": "qa/chapter-0229.md",
+    "blob_sha": "7f04b263ced7e3e4320bce72772887a89cd78880",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "minipin_future",
+      "final": "Vikir remembers MiniPin as major future alliance guide/researcher and recruitment target",
+      "basis": "Chinese C229"
+    },
+    {
+      "topic": "gnoll",
+      "final": "Normalize raw 洛 to Gnoll; C+ individual / A large-group danger",
+      "basis": "Chinese C229 + aligned witness"
+    },
+    {
+      "topic": "whole_colony",
+      "final": "Vikir targets entire nest, with no invented precise count",
+      "basis": "Chinese C229"
+    },
+    {
+      "topic": "panic_method",
+      "final": "Oil/fire strategy primarily induces panic, trampling, smoke/heat and funnels strongest survivors",
+      "basis": "Chinese C229"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}

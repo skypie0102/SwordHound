@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 224,
+  "accepted_count": 233,
   "staged_count": 0,
-  "next_chapter": 225,
+  "next_chapter": 234,
   "active_title_family": {
-    "name": "Tuition",
+    "name": "Suspicion",
     "range": [
-      225,
-      233
+      234,
+      235
     ],
-    "boundary_status": "verified nine-part family; raw Chinese alternates tuition/registration-fee wording",
-    "following_family_starts": 234,
-    "following_title": "Suspicion (1)",
-    "alignment_note": "225→E223 through233→E231;234→E232"
+    "boundary_status": "verified two-part family",
+    "following_family_starts": 236,
+    "following_title": "National University League (1)",
+    "alignment_note": "234→E232,235→E233;236→E234"
   },
   "chapters": [
     {
@@ -3151,6 +3151,132 @@
       "acceptance": "qa/acceptance/chapter-0224.json",
       "acceptance_sha": "4e425d9e177ab68e901d424feb5535ea04952ca0",
       "family_qa": "qa/families/that-day-him-me-0220-0224.md"
+    },
+    {
+      "chapter": 225,
+      "title": "Tuition (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/225.txt",
+      "english_mtl_reference": "source/chapters/chapter-223.xhtml",
+      "draft": "manuscript/drafts/chapter-0225.md",
+      "qa": "qa/chapter-0225.md",
+      "provenance": "editorial/provenance/chapter-0225.json",
+      "acceptance": "qa/acceptance/chapter-0225.json",
+      "acceptance_sha": "61a052b8abb429c59e6a2741e0e94bfbbf33d25e",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 226,
+      "title": "Tuition (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/226.txt",
+      "english_mtl_reference": "source/chapters/chapter-224.xhtml",
+      "draft": "manuscript/drafts/chapter-0226.md",
+      "qa": "qa/chapter-0226.md",
+      "provenance": "editorial/provenance/chapter-0226.json",
+      "acceptance": "qa/acceptance/chapter-0226.json",
+      "acceptance_sha": "c572b008780bbcfa1759d2b5ca9af2dc4d6136a7",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 227,
+      "title": "Tuition (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/227.txt",
+      "english_mtl_reference": "source/chapters/chapter-225.xhtml",
+      "draft": "manuscript/drafts/chapter-0227.md",
+      "qa": "qa/chapter-0227.md",
+      "provenance": "editorial/provenance/chapter-0227.json",
+      "acceptance": "qa/acceptance/chapter-0227.json",
+      "acceptance_sha": "eaef2f16814b5e7f5c5f6c8dcb99026507dff293",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 228,
+      "title": "Tuition (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/228.txt",
+      "english_mtl_reference": "source/chapters/chapter-226.xhtml",
+      "draft": "manuscript/drafts/chapter-0228.md",
+      "qa": "qa/chapter-0228.md",
+      "provenance": "editorial/provenance/chapter-0228.json",
+      "acceptance": "qa/acceptance/chapter-0228.json",
+      "acceptance_sha": "1521ce3c1da6c17bb3307ec4c06fd9d43dcfcddf",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 229,
+      "title": "Tuition (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/229.txt",
+      "english_mtl_reference": "source/chapters/chapter-227.xhtml",
+      "draft": "manuscript/drafts/chapter-0229.md",
+      "qa": "qa/chapter-0229.md",
+      "provenance": "editorial/provenance/chapter-0229.json",
+      "acceptance": "qa/acceptance/chapter-0229.json",
+      "acceptance_sha": "16df75aca3d9d76dafff6bbd39454412e8a24c97",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 230,
+      "title": "Tuition (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/230.txt",
+      "english_mtl_reference": "source/chapters/chapter-228.xhtml",
+      "draft": "manuscript/drafts/chapter-0230.md",
+      "qa": "qa/chapter-0230.md",
+      "provenance": "editorial/provenance/chapter-0230.json",
+      "acceptance": "qa/acceptance/chapter-0230.json",
+      "acceptance_sha": "9f6c0f7ddab05255806709fb44815d9fe6e828a4",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 231,
+      "title": "Tuition (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/231.txt",
+      "english_mtl_reference": "source/chapters/chapter-229.xhtml",
+      "draft": "manuscript/drafts/chapter-0231.md",
+      "qa": "qa/chapter-0231.md",
+      "provenance": "editorial/provenance/chapter-0231.json",
+      "acceptance": "qa/acceptance/chapter-0231.json",
+      "acceptance_sha": "884ade5eca30e8a0344076eb3406c3c1ddf4a1dd",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 232,
+      "title": "Tuition (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/232.txt",
+      "english_mtl_reference": "source/chapters/chapter-230.xhtml",
+      "draft": "manuscript/drafts/chapter-0232.md",
+      "qa": "qa/chapter-0232.md",
+      "provenance": "editorial/provenance/chapter-0232.json",
+      "acceptance": "qa/acceptance/chapter-0232.json",
+      "acceptance_sha": "2546f6b5f38852b9af41e3e14aa010703587cc15",
+      "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 233,
+      "title": "Tuition (9)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/233.txt",
+      "english_mtl_reference": "source/chapters/chapter-231.xhtml",
+      "draft": "manuscript/drafts/chapter-0233.md",
+      "qa": "qa/chapter-0233.md",
+      "provenance": "editorial/provenance/chapter-0233.json",
+      "acceptance": "qa/acceptance/chapter-0233.json",
+      "acceptance_sha": "55649b5ebc7a2c6c2490a926a190317b494bd987",
+      "family_qa": "qa/families/tuition-0225-0233.md"
     }
   ]
 }

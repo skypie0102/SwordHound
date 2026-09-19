@@ -2,45 +2,47 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 224  
+**Accepted:** 233  
 **Staged:** 0  
-**Next chapter:** 225
+**Next chapter:** 234
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 216–219 — *My Neck Will Be Your Sheath (1)–(4)*
 - Chapters 220–224 — *That Day, Him and Me (1)–(5)*
+- Chapters 225–233 — *Tuition (1)–(9)*
 
-Latest family QA: `qa/families/that-day-him-me-0220-0224.md` — **PASS**.
+Latest family QA: `qa/families/tuition-0225-0233.md` — **PASS**.
 
-## That Day, Him and Me decisions
+## Tuition family decisions
 
-- Verified mapping: **220→E218 through 224→E222**.
-- Camus's grief after Vikir's disappearance, lost voice, self-blame, and search obsession remain the family foundation.
-- Adolf's “the living carry the dead's share” consolation becomes Camus's trigger for resurrection theory; her thermodynamic/state-function reasoning remains her own inference.
-- Camus is explicitly **17** when she leaves the Light Faction and seeks Snake's Dark Faction.
-- Snake's taboo love for Raspane remains source-present and is not romanticized.
-- Camus's desperate attempt to use her body as leverage remains brief and clinical; Snake immediately rejects it and magically redresses her.
-- Snake's black-magic doctrine is life-centered: life, love, friendship, trust, connection, gratitude, and mortality must be understood before death.
-- Morgue's historical origin is corpse preservation, identification, and returning bodies to families.
-- Camus raises Rosie as an intelligent undead but seeks true resurrection.
-- **Art of Complete Resurrection** remains forbidden, life-for-life magic.
-- The ritual fails; Snake absorbs most of the backlash, closes the death-door, and dies saving Camus.
-- Camus survives half-dead / half-alive and Seere's attempted takeover becomes the later twelve-hour co-control arrangement.
-- Seere's person-finding ability becomes Camus's route back toward Vikir.
-- Camus raises Ah'Heman, restores Rosie/Geronto, and creates a **Life Vessel** beneath the ruins.
-- C224's diary is a source-explicit *The Raven* adaptation; production paraphrases rather than reproducing the English poem.
-- Camus interprets Vikir's hesitation/nonfatal targeting as proof he cares. This remains **Camus's interpretation**, not objective relationship status.
-- Residual Seere survives only as a tiny penalty-linked remnant and becomes subordinate to Camus.
-- Camus refuses to open the Gate because the world must survive while she and Vikir live.
-- “Bride,” “future husband,” and **“You are mine”** remain unilateral Camus possessiveness/fantasy.
-- Camus plans recovery, Snake's funeral, Dark Faction succession, return to Morgue, and eventual Colosseo entry in the twenty-first class.
+- Verified mapping: **225→E223 through 233→E231**.
+- Raw 学费 / 注册金 / 注册费 title wording is normalized to one nine-part **Tuition** family.
+- Dolores formally separates the Night Hound from recent snake-mark infrastructure attacks and insists the newspaper distinguish villains by evidence.
+- **Ms. Ouroboros** is the current public alias. At target 225 she is only presumed female and estimated around Graduator level; her true identity remains unrevealed.
+- Vikir's anti–Night Hound articles remain deliberate identity cover.
+- Vikir receives roughly **80% scholarship support** because strong academics offset poor attitude scores; Professor Banshee supplied the recommendation.
+- Vikir refuses Baskerville / Cindywendy money to avoid traceable financial channels.
+- **Sherpa Guild** specializes in guides/porters. **Miniature Pinscher / MiniPin** is over 2.3 m, near 180 kg, Graduator-level, and fiercely protective of support personnel.
+- Repeated home intrusions pressure MiniPin only. Vikir steals nothing and never threatens his wife or daughter.
+- Vikir remembers MiniPin as a future human-alliance guide/researcher and intends to recruit him.
+- Raw 洛 / 毒变怪 are normalized to **Gnoll / Poison Gnoll**. Individual Gnoll danger is C+; Poison Gnoll is A.
+- The nest strategy relies on panic, blocked routes, smoke/heat, trampling, and escape compression. No unsupported exact colony count is introduced.
+- Baby Madam kills the Poison Gnoll with one bite.
+- Unnumbered gold in the Gnoll den is linked by Vikir's inference to the Royal Imperial Bank robbery; **Bourgeois Damien** serial-number law is source-explicit.
+- Ms. Ouroboros visibly flinches on seeing Vikir's face, then her killing intent changes.
+- Her aura is at least High Graduator, possibly higher. Vikir identifies a subtle **left-side reaction delay / blind spot**, but the cause and her identity remain unrevealed.
+- Baby Madam, MiniPin, Anubis, and the hunter distress flare create the withdrawal window.
+- MiniPin's old dream of joining Baskerville and Sherpa's lack of backing reinforce Vikir's recruitment plan.
+- Colosseo's **Thrifty Bazaar** is one of the Empire's top ten auctions and permits outside bidders.
+- Noble faction / power-family faction suppression backfires when Vikir burns stock and raises the minimum bid to **4×** the original opening price.
+- Vikir pays all four years of his own tuition in one lump sum.
+- He anonymously donates the surplus to scholarships on condition that recipients perform orphanage volunteer service.
+- Legacy award naming is normalized to **Peri Award**. Banshee does not recognize the name; Dolores reacts subtly.
 
 ## Next verified title families
 
-- **Targets 225–233 — Tuition (1)–(9)** — mapping **225→E223 through 233→E231**. Raw Chinese alternates 学费 / 注册金 / 注册费, but recovered sequence consistently establishes *Tuition*.
 - **Targets 234–235 — Suspicion (1)–(2)** — mapping **234→E232, 235→E233**.
 - Target **236** begins **National University League (1)** and aligns to **E234**.
 
@@ -50,4 +52,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **That Day, Him and Me, targets 220–224** checkpoint, then branch from merged main for **Tuition, targets 225–233**. Read C225–233 against E223–231 completely, with C234/E232 as the next-family boundary.
+Merge the clean **Tuition, targets 225–233** checkpoint, then branch from merged main for **Suspicion, targets 234–235**. Read C234–235 against E232–233 completely, with C236/E234 as the next-family boundary.

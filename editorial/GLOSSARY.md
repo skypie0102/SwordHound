@@ -876,3 +876,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Suspicion** — targets 234–235; witnesses E232–E233.
 - **National University League** — begins target 236 / E234.
 
+## Tuition additions — Chapters 225–233
+
+- **Tuition** — accepted family targets 225–233; witnesses E223–E231; normalizes raw 学费 / 注册金 / 注册费 variants.
+- **Ms. Ouroboros** — public terrorist alias; identity guarded. C225 estimate roughly Graduator; C231 shows at least High Graduator and possibly higher.
+- **Ouroboros face clue** — visibly flinches upon seeing Vikir; killing intent changes. Do not resolve identity early.
+- **Ouroboros left-side clue** — subtle left reaction delay / blind spot; cause unrevealed.
+- **Sherpa Guild** — guide/porter-focused hunting guild.
+- **Miniature Pinscher / MiniPin** — >2.3 m, ~180 kg, Graduator; future guide/researcher recruitment target.
+- **Gnoll** — normalization of 洛; individual Danger Rating C+, large groups can reach A.
+- **Poison Gnoll** — normalization of 毒变怪; Danger Rating A.
+- **Bourgeois Damien serial law** — unique serial numbering on currency; unnumbered den gold predates/disrupts normal bank distribution.
+- **Thrifty Bazaar** — Colosseo market/auction; one of Empire's top ten auctions; outside bidders allowed.
+- **Peri Award** — anonymous Vikir-funded tuition scholarship requiring orphanage volunteer service.
+- **Suspicion** — next family targets 234–235; witnesses E232–E233.
+- **National University League** — begins target 236 / E234.
+
