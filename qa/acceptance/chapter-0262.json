@@ -1,0 +1,33 @@
+{
+  "chapter": 262,
+  "title": "The Inverted Pentagram (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Inverted Pentagram",
+    "range": [
+      261,
+      263
+    ],
+    "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
+    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/262.txt",
+    "primary_source_sha": "268be07aaab00263cd0ed7e9a6067a629e34a247",
+    "english_reference_path": "source/chapters/chapter-260.xhtml",
+    "english_reference_sha": "4da10f09bc3c3c6721871040ee47e66cf587fa51",
+    "draft_path": "manuscript/drafts/chapter-0262.md",
+    "draft_sha": "9609f00c75d1057381ec8495165a43b4aa0a1223",
+    "qa_path": "qa/chapter-0262.md",
+    "qa_sha": "d5e4baff9ecec61a741b6c530a34d9686bc015f7",
+    "provenance_path": "editorial/provenance/chapter-0262.json",
+    "provenance_sha": "f1fce60892271502139497b643e66d1f4830db14"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Season of Redemption material from target264 is imported."
+  ]
+}
