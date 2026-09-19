@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Kennel (1)–(3) accepted
+
+**Current state:** 384 / 500 accepted; 0 staged; next Chapter 385.
+
+Completed targets **382–384** with mapping **E380–E382**.
+
+Key decisions: Gulper / Elevator Eels are Nouvelle Vague’s controlled return route but Vikir releases six only as distractions; Flubber is the self-healing ocean barrier; BDISSEM is the seaweed-line dryad source of the prison restraints and oxygen supply; Orca remains absent on a broad surface emergency; and target384 ends with BDISSEM critically poisoned by Madam Eight-Legs venom.
+
+Family QA: `qa/families/kennel-0382-0384.md` — **PASS**.
+
+Next verified family: **385–389 — The Rotten Dog of Nouvelle Vague (1)–(5)**, mapping **E383–E387**. Targets385–386 share raw `385.txt` and require explicit split verification. The Worst Torture follows targets390–395 / E388–E393.
+
 ## 2026-09-19 — Main status reconciliation
 
 **No chapter-status change:** 381 / 500 accepted; 0 staged; next Chapter 382.
