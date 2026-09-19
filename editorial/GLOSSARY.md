@@ -1,3 +1,18 @@
+## The Shadowless King of the Black Sea additions — Chapters 326–330
+
+- **The Shadowless King of the Black Sea** — accepted five-part family, targets326–330 / witnesses E324–E328.
+- **Fire of Inferiority / Blaze** — A+ flint-like item fueled by the wielder’s inferiority complex; Heat +1,000 before user-dependent scaling.
+- **Beetlemen ghost ship** — built from fallen insect remains/wings; can float on Black Sea water if hull integrity is restored.
+- **Shadowless King of the Black Sea** — S-rank primordial jellyfish-like Black Sea creature; independent of Amdusias.
+- **Beelzebub continuity guard** — Slot1 Venom — Madam Eight-Legs (S); Slot2 Immortality — Gargoyle (S); Slot3 Starvation Drought — Daylily of Blood Tree (S). Reject local Basilisk drift.
+- **Daylily salvage strategy** — seeds germinate after the oil-paper bag softens in Black Sea water, creating air sacs that raise the ship.
+- **Shadowless King buoyancy trap** — Daylily seeds embedded in the creature force ascent and reveal its translucent body.
+- **Pressure-change damage** — retained as story-world rapid-ascent damage; do not overstate precise real-world physiology.
+- **Daylily ignition kill** — stems/air sacs are knotted so Fire of Inferiority triggers a sustained chain reaction on the surfaced monster.
+- **Bianca precedent** — pre-regression flaming-arrow detonation of Daylilies informs Vikir’s tactic.
+- **Draw** — next family targets331–332 / E329–E330.
+- **The Mating Room** — follows targets333–336 / E331–E334.
+
 ## Underdogma additions — Chapters 321–325
 
 - **Underdogma** — accepted five-part family, targets321–325 / witnesses E319–E323.
