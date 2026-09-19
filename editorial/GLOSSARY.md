@@ -1,3 +1,22 @@
+## Ballak additions — Chapters 343–347
+
+- **Ballak** — accepted five-part family, targets343–347 / witnesses E341–E345; Chinese title labels are noisy and aligned English family naming controls production.
+- **River of Flow** — Basement Floor11; biological/organic time accelerates while ordinary wind/water flow does not.
+- **Tudor / Bianca floor-time** — 2,555 internal days / seven biological years after roughly one subjective week.
+- **Pigi dark blood** — source trait attributed to unusually high iron; do not infer Majin corruption.
+- **Vikir target345 stat checkpoint** — Level1; Strength798 / Agility92 / Stamina100 / Physical Resistance1 / Magic Resistance1 / Reflexes1.
+- **Scale of Forced Equality / River of Flow interaction** — all lower unlocked stats rise toward Strength798; accelerated floor-time makes the slow item practically useful.
+- **Golden Level-candy strategy** — Vikir keeps Level candy for later percentage-based use rather than converting immediately.
+- **Ballak generation reveal** — hostile middle-aged warriors are the infant/child generation swallowed by Amdusias and aged for decades inside the floor.
+- **Aheul** — established project spelling; now near sixty by accumulated floor-time and recognized as the powerful Ballak hunting leader.
+- **Aheul old Bourgeois incident** — source includes both mockery and sexual harassment; do not sanitize.
+- **Akwilla death** — killed during Amdusias’s attack after inflicting a severe wound; lingering Adonai-battle injuries contributed.
+- **Ahun / Aiyen tower status** — not confirmed inside the tower; outside fate remains unknown.
+- **Mirrored kill-or-be-killed missions** — Ballak and Colosseo groups are both ordered to eliminate the other; Aheul substitutes food raids/symbolic fighting rather than murder.
+- **Target347 cliffhanger** — Vikir apparently decapitates Aheul, Ballak, Tudor, Sancho, Pigi, and Bianca, but the mission remains uncleared. Do not import target348’s solution early.
+- **Key man** — next family targets348–350 / E346–E348.
+- **Outside the Tower** — follows targets351–352 / E349–E350; Chinese raw 351.txt is a declared combined 351+352 container requiring explicit split verification.
+
 ## Private Life additions — Chapters 341–342
 
 - **Private Life** — accepted two-part family, targets341–342 / witnesses E339–E340.
