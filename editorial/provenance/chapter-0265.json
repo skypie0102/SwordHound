@@ -1,0 +1,37 @@
+{
+  "chapter": 265,
+  "title": "The Season of Redemption (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Season of Redemption",
+    "range": [
+      264,
+      267
+    ],
+    "family_qa_path": "qa/families/season-redemption-0264-0267.md",
+    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/265.txt",
+    "blob_sha": "a0defc713ae26ab540a8b4a9ce51dac2b7b708d0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-263.xhtml",
+    "blob_sha": "c9f5db6979be1014fa156617ad4a0f923cf70bb6",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0265.md",
+    "blob_sha": "3934b934f330352f2ea34eaf4d71650e3cc1ddc6"
+  },
+  "qa": {
+    "path": "qa/chapter-0265.md",
+    "blob_sha": "9dfc222f0e59c22fef4c44d4bdf91dfb876a4514",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
