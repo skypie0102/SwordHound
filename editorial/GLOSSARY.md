@@ -1,3 +1,19 @@
+## Jailbreaker additions — Chapters 403–408
+
+- **Jailbreaker** — accepted six-part family, targets403–408 / witnesses E401–E406; supersedes stale four-part boundary.
+- **Gate of Good and Evil** — target404 dimensions: 70 m diameter, 5 m thick, 6,535 tons; mithril/adamantium with copper anti-corrosion coating.
+- **Doppelganger leech** — aligned-witness form for Black Tongue’s copy-form parasite strain; steals/copies power and appearance.
+- **Oil-sucking leech / body-heat-sucking leech** — Black Tongue combat variants used to create the corridor inferno.
+- **Asmodeus** — one of the Seven Demon Swords; living blood-parasite weapon that can consume its owner.
+- **Seven Demon Swords count** — Asmodeus is shattered into nine fragments at target407; six intact swords remain, while fragment survival is not ruled out.
+- **Baskerville Eighth Form — Black Sun** — controls over local form-number drift because the technique manifests eight fangs and matches accepted chronology.
+- **Doppelganger-leech eggs** — secured by Vikir inside Andromalius’s barrier for later use.
+- **Daylily of the Blood Tree** — source-local aligned-witness form for target408 S-rank demonic plant; direct Fandom confirmation unavailable.
+- **BDISSEM global release** — all BDISSEM handcuffs, shackles, cell bars, and related restraints from Levels One through Nine are released at target408.
+- **Second BDISSEM command** — concerns an unnamed person appearing outside the fifth-floor kennel window; retain reveal guard.
+- **End game** — next family targets409–418 / E407–E416.
+- **Goodbye, Nouvelle Vague** — follows targets419–421 / E417–E419.
+
 ## Black Tongue additions — Chapters 399–402
 
 - **Black Tongue** — accepted four-part family, targets399–402 / witnesses E397–E400.
