@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 249,
+  "accepted_chapters": 252,
   "staged_chapters": 0,
-  "next_chapter": 250,
+  "next_chapter": 253,
   "latest_accepted_family": {
-    "name": "Survival Contest",
-    "range": [
-      245,
-      249
-    ],
-    "family_qa": "qa/families/survival-contest-0245-0249.md"
-  },
-  "next_title_family": {
     "name": "Recap / Celebration Banquet",
     "range": [
       250,
       252
     ],
-    "boundary_status": "verified three-part narrative batch with Chinese title-root divergence at target252",
-    "following_family_starts": 253,
-    "following_title": "Five Stars (1)",
-    "alignment_note": "250→E248;251→E249;252→E250 (Chinese C252 title 庆功宴 (3));253→E251"
+    "family_qa": "qa/families/recap-celebration-banquet-0250-0252.md"
+  },
+  "next_title_family": {
+    "name": "Five Stars",
+    "range": [
+      253,
+      null
+    ],
+    "boundary_status": "start verified; full contiguous family boundary pending forward read",
+    "following_family_starts": null,
+    "following_title": null,
+    "alignment_note": "253→E251 begins Five Stars (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -311,9 +311,18 @@
     246,
     247,
     248,
-    249
+    249,
+    250,
+    251,
+    252
   ],
   "notes": [
+    "Chapters250-252 accepted as Recap (1)-(2) / Celebration Banquet (3), mapping E248-E250.",
+    "Target252 preserves Chinese title 庆功宴 (3) as Celebration Banquet (3) despite recovered-English Recap (3).",
+    "Target252 artifact list follows Chinese semantics: Talking Window, not recovered-English Talking Spear.",
+    "Baskerville assignment difficulty is ★★★★★ based on C253 explicit confirmation plus E250; damaged C252 four-star display is rejected.",
+    "Direct Fandom re-check was blocked by site robots rules; established glossary forms were reused without asserting new wiki-only canon.",
+    "Next target253→E251 begins Five Stars (1); verify complete title-family boundary before acceptance.",
     "Chapters245-249 are accepted as Survival Contest (1)-(5).",
     "Dolores’s hidden-Imperial-student thought about Vikir remains unsupported speculation and is immediately doubted.",
     "Target246 follows Chinese authority for the dead wildcat upstream; recovered-English elk is rejected.",
