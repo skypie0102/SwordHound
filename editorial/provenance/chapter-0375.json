@@ -1,0 +1,36 @@
+{
+  "chapter": 375,
+  "title": "Poseidon (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Poseidon",
+    "range": [
+      375,
+      376
+    ],
+    "family_qa_path": "qa/families/poseidon-0375-0376.md",
+    "family_qa_sha": "ac39c904ab0aaced6962a2f011a3ddbbd4a89559",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/375.txt",
+    "blob_sha": "bd7665a1cfff93def9d332e6d96c0ef0f803064b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-373.xhtml",
+    "blob_sha": "8825d0c953f5d5515398e0c617a48c4a523a69c2",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0375.md",
+    "blob_sha": "59889e4f7d2441e4d3172edf125f9bf15f731610"
+  },
+  "qa": {
+    "path": "qa/chapter-0375.md",
+    "blob_sha": "1058598dfa69b32ae3b1672623139fc306728896",
+    "status": "pass"
+  },
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
