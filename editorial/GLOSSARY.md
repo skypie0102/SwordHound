@@ -1,3 +1,15 @@
+## Black Tongue additions — Chapters 399–402
+
+- **Black Tongue** — accepted four-part family, targets399–402 / witnesses E397–E400.
+- **Valentine Grimm** — aligned-witness parent-name form associated with Kirko’s mother; direct Fandom confirmation unavailable.
+- **Kirko parentage correction** — both parents were consenting junior guards in a secret relationship; the prisoner-on-guard rape story was fabricated by Black Tongue / prison authorities.
+- **Virginia** — Kirko’s former classmate found alive inside a bone-feeding leech; asks for death and is euthanized by Vikir.
+- **Black Tongue leeches** — specialized parasites consuming blood, bone, flesh, etc.; Black Tongue’s own body is integrated with leech-like fibers.
+- **Copy-form leech larva** — drains blood/mana and copies the host’s appearance; unknown even to Decarabia and treated as a newly developed species.
+- **Kirko Graduator breakthrough** — rage-forced advancement during confrontation with Black Tongue; physically damaging and later stabilized by Vikir.
+- **Parasite-egg objective** — Vikir adds collection of Black Tongue’s leech eggs as a private jailbreak side-objective.
+- **Jailbreaker** — next family targets403–406 / E401–E404.
+
 ## Dead Man Walking additions — Chapters 396–398
 
 - **Dead Man Walking** — accepted three-part family, targets396–398 / witnesses E394–E396.
