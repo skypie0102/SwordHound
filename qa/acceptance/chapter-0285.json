@@ -1,0 +1,34 @@
+{
+  "chapter": 285,
+  "title": "Power Inflation (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/284.txt",
+    "primary_source_sha": "ff110ae3941104950403c5ab431d71203db293f0",
+    "english_reference_path": "source/chapters/chapter-283.xhtml",
+    "english_reference_sha": "e027757669d2fdba67e666be1872f07613a700be",
+    "draft_path": "manuscript/drafts/chapter-0285.md",
+    "draft_sha": "38f11c1278c1d277fd02d1a576952e72b50ecc6c",
+    "qa_path": "qa/chapter-0285.md",
+    "qa_sha": "f2a0d5e628b851eb2562c7c356ce05b7f66603e9",
+    "provenance_path": "editorial/provenance/chapter-0285.json",
+    "provenance_sha": "8c8e87e3bf1327f43064215db2d0fda34118fb94"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+    "No The Successors material from target291 is imported."
+  ],
+  "source_exception": "Shared raw 284.txt target285 begins with Night Hound's first red slash; Chinese Belial Danger Rating S+ controls over E283 S."
+}

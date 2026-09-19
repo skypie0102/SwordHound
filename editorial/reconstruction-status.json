@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 282,
+  "accepted_chapters": 290,
   "staged_chapters": 0,
-  "next_chapter": 283,
+  "next_chapter": 291,
   "latest_accepted_family": {
-    "name": "What Money Can't Buy",
-    "range": [
-      279,
-      282
-    ],
-    "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
-  },
-  "next_title_family": {
     "name": "Power Inflation",
     "range": [
       283,
       290
     ],
-    "boundary_status": "verified complete; targets284-285 share raw 284.txt",
-    "following_family_starts": 291,
-    "following_title": "The Successors (1)",
-    "alignment_note": "283→E281 through 290→E288; 291→E289 begins The Successors (1)"
+    "family_qa": "qa/families/power-inflation-0283-0290.md"
+  },
+  "next_title_family": {
+    "name": "The Successors",
+    "range": [
+      291,
+      292
+    ],
+    "boundary_status": "verified complete",
+    "following_family_starts": 293,
+    "following_title": "Confessions (1)",
+    "alignment_note": "291→E289, 292→E290; Confessions 293→E291 through 295→E293."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -344,9 +344,26 @@
     279,
     280,
     281,
-    282
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290
   ],
   "notes": [
+    "Chapters283-290 accepted as Power Inflation (1)-(8), mapping E281-E288.",
+    "Targets284-285 share Chinese raw 284.txt; target284 restores only the localized E282 Night Hound appearance bridge, while target285 begins with the first red slash.",
+    "Belial is Chinese-primary Danger Rating S+; shifted E283 S rejected.",
+    "C286 local Fourth Form drift is resolved to Baskerville Eighth Form from the eight-fang description and aligned E284.",
+    "Dolores hears only the name fragment 'Van'; no full identity reveal.",
+    "Sinclaire enters accidentally via the gift chest and uses Money Hat; Night Hound identity remains concealed from her.",
+    "Belial's regeneration fails during a temporary two-hour currency-confidence shock; the event remains narrative-only and no practical counterfeiting instructions are added.",
+    "Belial's Oppression is answered by Vikir's previously purchased one-gold indulgence; Sixth Corpse is killed at target290.",
+    "Next family The Successors verified targets291-292 / E289-E290; Confessions follows targets293-295 / E291-E293.",
     "Chapters279-282 accepted as What Money Can't Buy (1)-(4), mapping E277-E280.",
     "Juliet survived the carriage crash physically but became a living spirit separated from her body; Romeo died.",
     "Pomeranian uses the Wraith Tree to summon Juliet and Romeo; Damien reconciles with them and recognizes their marriage.",

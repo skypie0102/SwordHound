@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 282  
+**Accepted:** 290  
 **Staged:** 0  
-**Next chapter:** 283
+**Next chapter:** 291
 
-Latest accepted family: **What Money Can't Buy (1)–(4)** — targets279–282 / E277–E280.  
-Family QA: `qa/families/what-money-cant-buy-0279-0282.md` — **PASS**.
+Latest accepted family: **Power Inflation (1)–(8)** — targets283–290 / E281–E288.  
+Family QA: `qa/families/power-inflation-0283-0290.md` — **PASS**.
 
-Key decisions: Juliet's body survived while her soul wandered; Pomeranian/Wraith Tree restores communication with Juliet and Romeo; Damien lets Juliet choose, completes the bargain, and joins the anti-Bartolomeo plan; Bartolomeo's two-hour vault is the planned confrontation site.
+Key decisions: shared-raw 284/285 seam repaired; Belial is S+; eight-fang attack is Baskerville Eighth Form; Dolores hears only “Van”; Sinclaire’s Money Hat intervention does not reveal Night Hound; and Belial’s value-fed regeneration is broken long enough for the one-gold-indulgence payoff.
 
-Next verified family is **Power Inflation (1)–(8)** — targets283–290 / E281–E288. Targets284–285 share Chinese raw `284.txt`.  
-Following family: **The Successors** begins target291 / E289.
+Next verified family: **The Successors (1)–(2)** — targets291–292 / E289–E290.  
+Following: **Confessions (1)–(3)** — targets293–295 / E291–E293; **Last Semester (1)–(3)** — targets296–298 / E294–E296.

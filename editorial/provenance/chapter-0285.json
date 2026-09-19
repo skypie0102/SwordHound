@@ -1,0 +1,41 @@
+{
+  "chapter": 285,
+  "title": "Power Inflation (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/284.txt",
+    "blob_sha": "ff110ae3941104950403c5ab431d71203db293f0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-283.xhtml",
+    "blob_sha": "e027757669d2fdba67e666be1872f07613a700be",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0285.md",
+    "blob_sha": "38f11c1278c1d277fd02d1a576952e72b50ecc6c"
+  },
+  "qa": {
+    "path": "qa/chapter-0285.md",
+    "blob_sha": "f2a0d5e628b851eb2562c7c356ce05b7f66603e9",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Belial danger rating is S+ from Chinese; shifted E283 S rejected.",
+    "Local Basilisk-regeneration wording conflicts with accepted target259 Gargoyle(S) continuity; production keeps the regeneration reference species-neutral."
+  ]
+}

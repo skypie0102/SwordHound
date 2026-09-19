@@ -1,0 +1,34 @@
+{
+  "chapter": 284,
+  "title": "Power Inflation (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/284.txt",
+    "primary_source_sha": "ff110ae3941104950403c5ab431d71203db293f0",
+    "english_reference_path": "source/chapters/chapter-282.xhtml",
+    "english_reference_sha": "d8999c078e07f5584b79b02bb1a21ea00dc220de",
+    "draft_path": "manuscript/drafts/chapter-0284.md",
+    "draft_sha": "01d4b4755a5630a309bbc1ea855d9aedbdb0333d",
+    "qa_path": "qa/chapter-0284.md",
+    "qa_sha": "0ad40b903f37b15a5a1827d329a82332225fa1c2",
+    "provenance_path": "editorial/provenance/chapter-0284.json",
+    "provenance_sha": "b8b5b2055c85d1c6defb4ed1aa1e941bc272bd13"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+    "No The Successors material from target291 is imported."
+  ],
+  "source_exception": "Shared raw 284.txt target284 ends at Bartolomeo's challenge plus only the localized E282 Night Hound appearance bridge."
+}

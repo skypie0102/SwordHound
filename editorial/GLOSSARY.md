@@ -1,3 +1,21 @@
+## Power Inflation additions — Chapters 283–290
+
+- **Power Inflation** — accepted eight-part family, targets283–290 / witnesses E281–E288.
+- **284/285 shared-raw rule** — `284.txt` covers both targets. Target284 restores only the localized E282 Night Hound appearance bridge; target285 begins with the first red slash.
+- **Belial** — Sixth Corpse / **Worthless One**; lord of greed and lies.
+- **Belial danger rating** — **S+** from Chinese target285; shifted E283 S rejected.
+- **Balmung / Balmung of the Deep Sea / Balmung of Bahamut** — source-local forms pending direct Fandom access.
+- **Baskerville Eighth Form correction** — local C286 “Fourth Form” conflicts with eight visible fangs, accepted Eighth-Fang chronology, and aligned E284; production uses **Eighth Form**.
+- **Belial authorities** — Jealousy, Destruction, Oppression, Exile, Famine, Disturbance, Desolation.
+- **Wailing Wall combat use** — Decarabia supplies extreme physical defense against Belial’s coin barrage at high mana cost.
+- **Van** — the only name fragment Dolores hears from Night Hound in target288; do not expand to a full identity reveal.
+- **Money Hat / Sinclaire** — consumes vault wealth and strengthens Sinclaire’s magic; her intervention does not resolve Night Hound’s identity.
+- **Two-hour currency-confidence shock** — temporary fantasy-world value disruption used to weaken Belial; retain only at narrative level.
+- **Oppression** — Belial’s final death-linked guilt/penalty authority.
+- **One-gold indulgence payoff** — Vikir uses the Old Testament indulgence bought earlier for the future “neighbor’s pig” offense.
+- **The Successors** — next family targets291–292 / E289–E290.
+- **Confessions** — targets293–295 / E291–E293.
+
 ## What Money Can't Buy additions — Chapters 279–282
 
 - **What Money Can't Buy** — accepted four-part family, targets279–282 / witnesses E277–E280.
