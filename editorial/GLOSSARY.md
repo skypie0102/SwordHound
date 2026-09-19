@@ -1,3 +1,29 @@
+## The Age of the Warmonger additions — Chapters 299–306
+
+- **The Age of the Warmonger** — accepted eight-part family, targets299–306 / witnesses E297–E304.
+- **Cervantes Donquixote** — source-local House Donquixote head / Spear King form from aligned witness; direct Fandom confirmation unavailable.
+- **Usher Poe Roderick** — source-local House Usher head / Bow Demon form from aligned witness; direct Fandom confirmation unavailable.
+- **Hobbes De Leviathan** — source-local House Leviathan head form from aligned witness; direct Fandom confirmation unavailable.
+- **Professor Donatien Alphonse François Sadi de Sade** — source-local full Sadi form; Ms. Ouroboros identity is source-revealed in target300.
+- **Sadi rank guard** — formal rank remains Peak Sword Graduator; whip mechanics create near-Master practical threat without promoting her rank.
+- **Warring States ideology** — Sadi’s strength-first political worldview and stated motive; attribute it to her rather than narrator truth.
+- **Camus Morgue enrolment** — target301 source-reveals the unnamed new Hot Department student from Last Semester as Camus.
+- **Winter Sword Orwell / front-gate-key clue** — Sadi calls Orwell a key and gives it to Vikir after the autograph bargain.
+- **Sadi left-eye clue** — faint Corpse-like demonic scent leaks from the empty left-eye socket; identity/meaning unresolved.
+- **Amdusias** — Fifth Corpse, beast-type direct-combat specialist.
+- **Amdusias danger rating** — **S+** from Chinese target303; shifted E301 S rejected.
+- **Amdusias profile** — found deep in the Gate of Destruction, Serpent’s Womb; Decalogue line: “Reap the first life born that year.”
+- **Winston three denials** — childhood charity disaster, sea betrayal, and Sadi’s attack form the three denial stages shown through demonic memory erosion.
+- **Sea-betrayal correction** — aligned E302 confirms Winston’s partner tells sailors to throw **him** overboard.
+- **Dolores target305 awakening** — breaking fear of Humbert coincides with stronger white sacred power; Nabokov frames the change through naturally flowing love/charity.
+- **Eighth Fang/Form target305** — Dolores’s buff lets Vikir perfectly realize living-realm Eighth-Fang output; Ninth remains beyond the death threshold.
+- **Nabokov combat reveal** — target306 shows Pope Nabokov physically/sacredly overwhelming Winston/Amdusias.
+- **Quo Vadis, Domine** — target306 continues the family-origin story beyond the three denials with three declarations of love and the question “Lord, where are you going?”
+- **Child Hunting** — Amdusias’s unique phenomenon; targets firstborn/young generation through Winston’s student bracelet system.
+- **Hell Tree** — cursed black tree created from Winston’s greening, magic-stone, and bracelet network; swallows all Colosseo students at target306.
+- **Hell Tree family** — next targets307–313 / E305–E311.
+- **Surplus Man** — follows targets314–315 / E312–E313.
+
 ## Last Semester additions — Chapters 296–298
 
 - **Last Semester** — accepted three-part family, targets296–298 / witnesses E294–E296.
