@@ -1,0 +1,32 @@
+{
+  "chapter": 264,
+  "title": "The Season of Redemption (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Season of Redemption",
+    "range": [
+      264,
+      267
+    ],
+    "family_qa_path": "qa/families/season-redemption-0264-0267.md",
+    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/264.txt",
+    "primary_source_sha": "fbae68cb218ff15ae209b807f627d661f89e848d",
+    "english_reference_path": "source/chapters/chapter-262.xhtml",
+    "english_reference_sha": "4c67cd90a9939443e68fe847dca6b16f7863b099",
+    "draft_path": "manuscript/drafts/chapter-0264.md",
+    "draft_sha": "2d2c07bfc77f9be4dad7b5293261a08ee5ed3d71",
+    "qa_path": "qa/chapter-0264.md",
+    "qa_sha": "c87fce42d8b204a24d2ca48cf910110d9509de31",
+    "provenance_path": "editorial/provenance/chapter-0264.json",
+    "provenance_sha": "1167d85825cd2608c00934e8f597aad7cb6d51c9"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused."
+  ]
+}
