@@ -1,0 +1,45 @@
+{
+  "chapter": 237,
+  "title": "National University League (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/237.txt",
+    "primary_source_sha": "974b6dcf8dad76b68517c7d38de9089edeb74bbf",
+    "english_reference_path": "source/chapters/chapter-235.xhtml",
+    "english_reference_sha": "820c68da4f5b492d837a81131b1f5ab5d3bbaa1d",
+    "draft_path": "manuscript/drafts/chapter-0237.md",
+    "draft_sha": "ad1c718be9fb8920a29e76753e9dd66e1e097565",
+    "qa_path": "qa/chapter-0237.md",
+    "qa_sha": "bcab4a1e7f177fefe9fec7d35d8c0f7c5bb834af",
+    "provenance_path": "editorial/provenance/chapter-0237.json",
+    "provenance_sha": "4fac74358fe35c9106bf93bdbb8257314656efef"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Bakilaga Juragio",
+    "Boli Bollason",
+    "Merelini Lovegood",
+    "Oraorus Hohenheim",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Friends’ fear of Hell’s Group is based on incomplete public knowledge."
+  ],
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+}

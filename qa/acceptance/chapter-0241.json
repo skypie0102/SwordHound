@@ -1,0 +1,46 @@
+{
+  "chapter": 241,
+  "title": "National University League (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/241.txt",
+    "primary_source_sha": "221e469ffb0368822ffe75d85d4bdfce4e2c5f47",
+    "english_reference_path": "source/chapters/chapter-239.xhtml",
+    "english_reference_sha": "4c99a39ad02fc003042a64616c2497bf98368543",
+    "draft_path": "manuscript/drafts/chapter-0241.md",
+    "draft_sha": "e45adb5a732165a2e5652ac87f1cd39655ee0dc4",
+    "qa_path": "qa/chapter-0241.md",
+    "qa_sha": "5589cb1ac93b3c509ec8afbaefd257138d58db2b",
+    "provenance_path": "editorial/provenance/chapter-0241.json",
+    "provenance_sha": "490b0d17478d8c97223e7167f3211494db857d43"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Bakilaga Juragio",
+    "Boli Bollason",
+    "Merelini Lovegood",
+    "Oraorus Hohenheim",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Bakilaga current Sword Graduator level is rumor only.",
+    "Inn deal is 70% charge / 30% discount per Chinese source."
+  ],
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+}

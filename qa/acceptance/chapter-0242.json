@@ -1,0 +1,46 @@
+{
+  "chapter": 242,
+  "title": "National University League (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/242.txt",
+    "primary_source_sha": "9c764acd54a04895576099dca5a6a960256fc3fe",
+    "english_reference_path": "source/chapters/chapter-240.xhtml",
+    "english_reference_sha": "3aebded2852c0fc4962e91d4652e4f2b461a9e9a",
+    "draft_path": "manuscript/drafts/chapter-0242.md",
+    "draft_sha": "1e4b56b8a4633c3f70473f3ebacd7f3e506ccfee",
+    "qa_path": "qa/chapter-0242.md",
+    "qa_sha": "895ae2c5e34548c95c049a509ed24fd006e5b70a",
+    "provenance_path": "editorial/provenance/chapter-0242.json",
+    "provenance_sha": "0f1575ce22ae3f9c53861cca63065206a0539396"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Bakilaga Juragio",
+    "Boli Bollason",
+    "Merelini Lovegood",
+    "Oraorus Hohenheim",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Bakilaga ancestry connection remains tentative at this point.",
+    "Trident reputation remains in-world reputation."
+  ],
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+}

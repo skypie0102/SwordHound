@@ -1,0 +1,46 @@
+{
+  "chapter": 236,
+  "title": "National University League (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/236.txt",
+    "primary_source_sha": "eddd037aea501c9b125834963a46434320451100",
+    "english_reference_path": "source/chapters/chapter-234.xhtml",
+    "english_reference_sha": "5f04f7dfda83ad287aeac43af4b4d1d44cdffbe7",
+    "draft_path": "manuscript/drafts/chapter-0236.md",
+    "draft_sha": "b53a3770399621c826fd52a0e7a5d9b0424448a2",
+    "qa_path": "qa/chapter-0236.md",
+    "qa_sha": "8aff85eaf5ca372a7d09512185c69b90795563a3",
+    "provenance_path": "editorial/provenance/chapter-0236.json",
+    "provenance_sha": "0089c8c9db357b4dba6d7c651065e61d69b8d3f7"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Bakilaga Juragio",
+    "Boli Bollason",
+    "Merelini Lovegood",
+    "Oraorus Hohenheim",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Vikir’s top-ten goal is hidden from classmates.",
+    "Vikir intends to destroy Decarabia here; no later outcome imported."
+  ],
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+}
