@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Solitary Confinement (1)–(2) accepted
+
+**Current state:** 372 / 500 accepted; 0 staged; next Chapter 373.
+
+Completed targets **371–372** with mapping **E369–E370**.
+
+Key decisions: Souaré canonicalization; custom BDISSEM solitary-cocoon mechanics; Angajuman alias retention; source-timed old-sword-house history; verbal duel through Baskerville Eighth Form / Black Sun; and strict guard against naming Angajuman before the novel does.
+
+Family QA: `qa/families/solitary-confinement-0371-0372.md` — **PASS**.
+
+Next verified family: **373–374 — Sucker Shark (1)–(2)**, mapping **E371–E372**.
+
 ## 2026-09-19 — The Servant (1)–(2) accepted
 
 **Current state:** 370 / 500 accepted; 0 staged; next Chapter 371.
