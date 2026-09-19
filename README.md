@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **224 / 500 accepted; next Chapter 225.** Latest accepted family: **targets 220–224 — That Day, Him and Me (1)–(5)**.
+Current checkpoint: **233 / 500 accepted; next Chapter 234.** Latest accepted family: **targets 225–233 — Tuition (1)–(9)**.
 
-The next verified family is **Tuition, targets 225–233**, mapped **225→E223 through 233→E231**. Targets 234–235 are **Suspicion (1)–(2)**.
+The next verified family is **Suspicion, targets 234–235**, mapped **234→E232, 235→E233**. Target 236 begins **National University League (1)** and maps to E234.
 
 ## Current source policy
 
@@ -37,6 +37,18 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Tuition family adds/revalidates:
+
+- **Tuition** — targets 225–233, witnesses E223–E231.
+- **Ms. Ouroboros** — identity guarded; Vikir-face flinch + left-side delay retained.
+- **Sherpa Guild / MiniPin** — guide network and future recruitment target.
+- **Gnoll / Poison Gnoll** — C+ / A terminology normalization.
+- **Bourgeois Damien serial law** — supports the unnumbered-gold / bank-cache inference.
+- **Thrifty Bazaar** — top-ten Imperial auction.
+- **Peri Award** — anonymous tuition fund tied to orphanage volunteer service.
+- **Suspicion** — next family targets 234–235; witnesses E232–E233.
+- **National University League** begins target 236 / E234.
 
 The accepted That Day, Him and Me family adds/revalidates:
 
@@ -316,15 +328,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–224**:
+Current accepted production evidence covers targets **1–233**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0224.md`
-- `qa/chapter-0001.md` through `chapter-0224.md`
-- accepted family QA through `qa/families/that-day-him-me-0220-0224.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0224.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0224.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0233.md`
+- `qa/chapter-0001.md` through `chapter-0233.md`
+- accepted family QA through `qa/families/tuition-0225-0233.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0233.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0233.json`
 
-Latest family QA: `qa/families/that-day-him-me-0220-0224.md` — **PASS**.
+Latest family QA: `qa/families/tuition-0225-0233.md` — **PASS**.
 
 ## Editorial quality bar
 
