@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Private Life (1)–(2) accepted
+
+**Current state:** 342 / 500 accepted; 0 staged; next Chapter 343.
+
+Completed targets **341–342** with mapping **E339–E340**.
+
+Key decisions: Choco resolves as Vikir's still-active dog form; Dolores receives her future self's own teaching to break the Lost Paradise guilt trap; target342 completes **Choco = Vikir = Night Hound** for Dolores; and both choose to leave Floor10.
+
+Family QA: `qa/families/private-life-0341-0342.md` — **PASS**.
+
+Next verified family: **343–347 — Ballak (1)–(5)**, mapping **E341–E345** despite noisy Chinese title drift. Key man follows targets348–350 / E346–E348.
+
 ## 2026-09-19 — Trap (1)–(2) accepted
 
 **Current state:** 340 / 500 accepted; 0 staged; next Chapter 341.
