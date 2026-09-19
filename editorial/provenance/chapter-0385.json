@@ -1,0 +1,38 @@
+{
+  "chapter": 385,
+  "title": "The Rotten Dog of Nouvelle Vague (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Rotten Dog of Nouvelle Vague",
+    "range": [
+      385,
+      389
+    ],
+    "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
+    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/385.txt",
+    "blob_sha": "f961aa3d627f78a4374f687772240eace15ca3f2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-383.xhtml",
+    "blob_sha": "0aafd10948c8c9251bb0731e7b0a9031ae474760",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0385.md",
+    "blob_sha": "d8055c5962c3dc4279b2e7753a1597411a121ce3"
+  },
+  "qa": {
+    "path": "qa/chapter-0385.md",
+    "blob_sha": "bd64c24763737840c2cff9394babc340c5d863c8",
+    "status": "pass"
+  },
+  "canonical_reference_note": "Designated Fandom search confirms Garam Nord, Kirko Grimm, and Lieutenant Colonel Flubber J Tarbond. Pal Euspear remains aligned-witness/source-local because no accessible Fandom entry was found.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "source_exception": "Shared raw 385.txt target385 ends before explicit embedded Chapter386 marker; localized closing public-death/registry/Garam-disguise handoff restored only from aligned E383."
+}
