@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Outside the Tower (1)–(5) accepted
+
+**Current state:** 355 / 500 accepted; 0 staged; next Chapter 356.
+
+Completed targets **351–355** with mapping **E349–E353**.
+
+Key decisions: target351/352 and target353/354 combined-raw seams are documented; Pigi’s blood remains unexplained; Vikir emerges from the Hell Tree with full Sword Master / Eighth Form power; Baskerville’s military force answers his horn; Amdusias dies in target354; and target355 ends on the public declaration **“I am Night Hound.”**
+
+Family QA: `qa/families/outside-tower-0351-0355.md` — **PASS**.
+
+Next verified family: **356–358 — Crime and Punishment (1)–(3)**, mapping **E354–E356**.
+
 ## 2026-09-19 — Key man (1)–(3) accepted
 
 **Current state:** 350 / 500 accepted; 0 staged; next Chapter 351.
