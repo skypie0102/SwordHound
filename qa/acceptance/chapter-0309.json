@@ -1,0 +1,33 @@
+{
+  "chapter": 309,
+  "title": "Hell Tree (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Hell Tree",
+    "range": [
+      307,
+      313
+    ],
+    "family_qa_path": "qa/families/hell-tree-0307-0313.md",
+    "family_qa_sha": "7d30c8c8e8b9dc3cb5fe5242f651c4a171de655f",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/309.txt",
+    "primary_source_sha": "e5531986c2899f252c4b49b09a15b8ce18bf8474",
+    "english_reference_path": "source/chapters/chapter-307.xhtml",
+    "english_reference_sha": "82b8f6ed42a72db920be85c9834e416906d6fe65",
+    "draft_path": "manuscript/drafts/chapter-0309.md",
+    "draft_sha": "dfa5edb1ecff5d6c1ac2f48065160d29c799fdd0",
+    "qa_path": "qa/chapter-0309.md",
+    "qa_sha": "9e6175ebcd46546289ca221e6f0511602b795577",
+    "provenance_path": "editorial/provenance/chapter-0309.json",
+    "provenance_sha": "b8178ceda541b0bb510da3717604b390260afe00"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Surplus Man material from target314 is imported."
+  ]
+}

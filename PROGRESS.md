@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Hell Tree (1)–(7) accepted
+
+**Current state:** 313 / 500 accepted; 0 staged; next Chapter 314.
+
+Completed targets **307–313** with mapping **E305–E311**.
+
+Key decisions: Hell Hounds are B+ from Chinese; Vikir remains Level1 to maximize achievement rewards; Cerberus is A+; Physical Resistance is unlocked as a rare advanced stat; and Floor2 ends with 69 survivors entering Basement Floor3.
+
+Family QA: `qa/families/hell-tree-0307-0313.md` — **PASS**.
+
+Next verified family: **314–315 — Surplus Man (1)–(2)**, mapping **E312–E313**.
+
 ## 2026-09-19 — The Age of the Warmonger (1)–(8) accepted
 
 **Current state:** 306 / 500 accepted; 0 staged; next Chapter 307.

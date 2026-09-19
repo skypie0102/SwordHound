@@ -1,0 +1,40 @@
+{
+  "chapter": 312,
+  "title": "Hell Tree (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Hell Tree",
+    "range": [
+      307,
+      313
+    ],
+    "family_qa_path": "qa/families/hell-tree-0307-0313.md",
+    "family_qa_sha": "7d30c8c8e8b9dc3cb5fe5242f651c4a171de655f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/312.txt",
+    "blob_sha": "f86aed4c34b7877ef1102aafb05384eb9e007753",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-310.xhtml",
+    "blob_sha": "509ccb7b2c1b733125fb11568d71f3945b9744f0",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0312.md",
+    "blob_sha": "8732c53865d570662c4f300c1e8f9e5da89b5eee"
+  },
+  "qa": {
+    "path": "qa/chapter-0312.md",
+    "blob_sha": "76df3fd3dbc03465bed8a2a59effbbc0c2317928",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Local Chinese regeneration wording is not allowed to overwrite accepted Immortality — Gargoyle (S) continuity."
+  ]
+}

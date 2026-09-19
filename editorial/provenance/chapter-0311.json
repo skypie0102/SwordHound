@@ -1,0 +1,37 @@
+{
+  "chapter": 311,
+  "title": "Hell Tree (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Hell Tree",
+    "range": [
+      307,
+      313
+    ],
+    "family_qa_path": "qa/families/hell-tree-0307-0313.md",
+    "family_qa_sha": "7d30c8c8e8b9dc3cb5fe5242f651c4a171de655f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/311.txt",
+    "blob_sha": "6923e550db04724c5aaede27304e72db1f1e7b0e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-309.xhtml",
+    "blob_sha": "7e9bccbb3577f43836fc48e039e3e0fdbf78a949",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0311.md",
+    "blob_sha": "cc0cea2b6c2b88eba2b99f3ec8bcd899e6da042a"
+  },
+  "qa": {
+    "path": "qa/chapter-0311.md",
+    "blob_sha": "5ce97a4dc2895acb2d4e5a5c286c44fac29d78e7",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

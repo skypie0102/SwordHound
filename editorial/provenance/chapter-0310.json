@@ -1,0 +1,40 @@
+{
+  "chapter": 310,
+  "title": "Hell Tree (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Hell Tree",
+    "range": [
+      307,
+      313
+    ],
+    "family_qa_path": "qa/families/hell-tree-0307-0313.md",
+    "family_qa_sha": "7d30c8c8e8b9dc3cb5fe5242f651c4a171de655f",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/310.txt",
+    "blob_sha": "cf3e4004350eb03553269ad97fda0a84360098f3",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-308.xhtml",
+    "blob_sha": "bfdb97e68e0c20c3fa8b73e76fce0c2de73ff790",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0310.md",
+    "blob_sha": "4f2c2fcae9e3c0232a152fa7c3ca1a7c88f50d3e"
+  },
+  "qa": {
+    "path": "qa/chapter-0310.md",
+    "blob_sha": "c356277151a4f3706d1e85f8a03dd9c2f629cb4d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "Hell Hound danger rating is B+ from Chinese; shifted E308 B rejected."
+  ]
+}
