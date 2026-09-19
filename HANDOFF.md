@@ -1,41 +1,50 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 260 / 500  
+**Accepted:** 263 / 500  
 **Staged:** 0  
-**Next target:** 261
+**Next target:** 264
 
 ## Latest accepted family
 
-**The Grave of Swords (1)–(6)** — targets **255–260**.
+**The Inverted Pentagram (1)–(3)** — targets **261–263**.
 
-- Family QA: `qa/families/grave-of-swords-0255-0260.md` — PASS.
-- Alignment: **255→E253 through 260→E258**.
-- Ballak’s recent disappearance/contact loss remains unresolved.
-- The dead **Basilisk** is S-rank / 44 m / 10th Ridge / ‘Dragon of the Saha River’.
-- The dead courier is an unnamed **Pit Bull knight** whose deeply honed Fourth Fang was enough to kill the Basilisk.
-- Hugo’s sealed letter identifies the unreachable seventh Count as **Cane Corso Le Baskerville**.
-- Cane Corso is an old Seven Count whose sword realm surpassed Hugo’s prior level.
-- The Grave of Swords is real and tied to the ultimate Baskerville sword path.
-- Vikir’s Seventh Fang cannot penetrate Cane Corso’s armor.
-- Cane Corso reveals the **Ninth Fang**.
-- Vikir reaches the **Eighth Fang** only under genuine mortal pressure.
-- Chinese-primary correction: Beelzebub **Slot 2 = Immortality — Gargoyle (S)**; shifted-English ‘Basilisk’ is rejected.
-- Cane Corso did not author Lurking Ambush; he read the sword book, tore out pages, and never mastered its Tenth Fang.
-- Cane Corso’s true identity is **Death Knight**.
-- Ninth Fang requires actual experience of death; Tenth Fang requires death followed by awakening.
-- The family closes with the tower gone, Vikir carrying **two Wraith Tree saplings**, and his Eighth Fang stabilized.
-- Direct Fandom re-check remained unavailable; established glossary canon was reused.
+- Family QA: `qa/families/inverted-pentagram-0261-0263.md` — PASS.
+- Alignment: **261→E259, 262→E260, 263→E261**.
+- Vikir’s Grave of Swords return delay pushes the artifact ceremony back by ten days.
+- The shared artifact vault has a strict 24-hour gate cycle; modern mages cannot freely reopen it.
+- Vikir deliberately waits until all other students leave before approaching the true target.
+- The apparent display rack is **Seventh Corpse Decarabia**.
+- Chinese-primary correction: **Decarabia Danger Rating = S+**; shifted-English S is rejected.
+- Decarabia is the unique inanimate-type member of the Ten Corpses and generates mana-scaled defensive barriers remembered as the **Wailing Wall**.
+- Decarabia’s alignment for each thousand-year cycle is determined by the first being to awaken it.
+- Because Vikir awakens it, its current alignment shifts away from the demons and into a human/Vikir contract.
+- Vikir initially attacks Decarabia and only stops after its demonic presence vanishes and its claims become internally consistent.
+- Decarabia returns absorbed mana, shrinks into a pendant, attaches to Vikir’s collar, and agrees to reveal prior-contractor information.
+- Vikir’s public explanation for escaping the vault is a barrier-breaking artifact; the actual cause is his **Eighth Fang**.
+- The source gag where Decarabia calls Vikir its beautiful “mistress” is preserved.
+- Direct Fandom re-check remains robots-blocked; established glossary canon was reused without inventing wiki confirmation.
 
-## Next verified family start
+## Next verified family
 
-Target **261→E259 — The Inverted Pentagram (1)**.
+**The Season of Redemption (1)–(4)** — targets **264–267**.
 
-Do not import later Inverted Pentagram revelations before their source point.
+Verified mapping:
+- 264→E262
+- 265→E263
+- 266→E264
+- 267→E265
+
+Important source-container exception:
+- `source/chinese/chapters/267.txt` is a shared combined raw for **target 267 (The Season of Redemption (4))** and **target 268 (The Eucharist (1))**.
+- Do not split the raw physically.
+- Reconstruct target267 and target268 separately by the verified internal heading/content boundary.
+- Target **268→E266** begins **The Eucharist (1)**.
 
 ## Exact next actions
 
-1. Read C261 forward with E259+ until the complete contiguous **The Inverted Pentagram** family boundary is verified.
-2. Record the complete target↔English mapping.
-3. Reconstruct and QA the full family Chinese-first.
-4. Update provenance, acceptance, tracker/state/progress/glossary, and this handoff.
+1. Read C264–C267 completely, preserving the target267/268 combined-raw boundary.
+2. Read E262–E265 as shifted secondary witnesses and use E266 only as the following-family boundary witness.
+3. Reconstruct and QA the complete **The Season of Redemption (1)–(4)** family.
+4. Accept/integrate/merge it.
+5. Immediately continue into **The Eucharist** family beginning target268 unless a genuine blocker appears.
