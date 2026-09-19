@@ -1,0 +1,32 @@
+{
+  "chapter": 379,
+  "title": "The Hounds of Nouvelle Vague (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Hounds of Nouvelle Vague",
+    "range": [
+      377,
+      381
+    ],
+    "family_qa_path": "qa/families/hounds-nouvelle-vague-0377-0381.md",
+    "family_qa_sha": "1b62fe323e66c7b1b144a1ad67b2d3a3badf8c4e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/379.txt",
+    "primary_source_sha": "1f9077bd8458cd5b6f476f0d9ef2e007ab20c994",
+    "english_reference_path": "source/chapters/chapter-377.xhtml",
+    "english_reference_sha": "0be501d9ee292e33b750bd7c463fce7b0fc62afe",
+    "draft_path": "manuscript/drafts/chapter-0379.md",
+    "draft_sha": "294b0d20f0c20bcc9417c4031308af401e75ddb1",
+    "qa_path": "qa/chapter-0379.md",
+    "qa_sha": "f2210f93287b60cffaea45dbcdf25e23ffd58b9a",
+    "provenance_path": "editorial/provenance/chapter-0379.json",
+    "provenance_sha": "5ad7b71b00e65c8ff1b6a0f6c32621822afa0dac"
+  },
+  "documented_limits": [
+    "No Kennel-family material from target382 is imported."
+  ]
+}
