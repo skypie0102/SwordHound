@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Inverted Pentagram (1)–(3) accepted
+
+**Current state:** 263 / 500 accepted; 0 staged; next Chapter 264.
+
+Completed targets **261–263** with mapping **261→E259 through 263→E261**.
+
+Key decisions: Decarabia is Chinese-primary **S+**; it is the inanimate-type Seventh Corpse; whoever first wakes it determines its disposition for the next thousand years; Vikir becomes the current representative contractor; Decarabia returns absorbed mana and becomes a pendant; Vikir’s public escape explanation is a one-use artifact cover while the actual exit uses Eighth Fang.
+
+Family QA: `qa/families/inverted-pentagram-0261-0263.md` — **PASS**.
+
+Next verified family: **264–267 — The Season of Redemption (1)–(4)**, mapping **E262–E265**. Target267 shares Chinese raw `267.txt` with target268 (*The Eucharist (1)*).
+
 ## 2026-09-19 — The Grave of Swords (1)–(6) accepted
 
 **Current state:** 260 / 500 accepted; 0 staged; next Chapter 261.
