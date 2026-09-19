@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Power Inflation (1)–(8) accepted
+
+**Current state:** 290 / 500 accepted; 0 staged; next Chapter 291.
+
+Completed targets **283–290** with mapping **E281–E288**.
+
+Key decisions: targets284–285 share raw 284.txt with a localized E282 bridge; Belial is Chinese-primary **S+**; the eight-fang attack is **Baskerville Eighth Form**; Dolores receives only the name fragment **Van**; Sinclaire’s Money Hat intervention preserves identity chronology; and Belial’s two-hour value collapse / Oppression / one-gold-indulgence payoff closes the family.
+
+Family QA: `qa/families/power-inflation-0283-0290.md` — **PASS**.
+
+Next verified family: **291–292 — The Successors (1)–(2)**, mapping **E289–E290**. Confessions follows targets293–295 / E291–E293.
+
 ## 2026-09-19 — What Money Can't Buy (1)–(4) accepted
 
 **Current state:** 282 / 500 accepted; 0 staged; next Chapter 283.
