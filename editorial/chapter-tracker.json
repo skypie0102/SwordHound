@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 244,
+  "accepted_count": 249,
   "staged_count": 0,
-  "next_chapter": 245,
+  "next_chapter": 250,
   "active_title_family": {
-    "name": "Survival Contest",
+    "name": "Recap / Celebration Banquet",
     "range": [
-      245,
-      249
+      250,
+      252
     ],
-    "boundary_status": "verified five-part family",
-    "following_family_starts": 250,
-    "following_title": "Recap (1)",
-    "alignment_note": "245→E243 through249→E247;250→E248"
+    "boundary_status": "verified three-part narrative batch with Chinese title-root divergence at target252",
+    "following_family_starts": 253,
+    "following_title": "Five Stars (1)",
+    "alignment_note": "250→E248 Recap(1);251→E249 Recap(2);252→E250 Recap(3) while Chinese C252 is 庆功宴 (3) / Celebration Banquet (3);253→E251 Five Stars(1)"
   },
   "chapters": [
     {
@@ -3431,6 +3431,76 @@
       "acceptance": "qa/acceptance/chapter-0244.json",
       "acceptance_sha": "ce077ac9f275fd2c5ec1a36df05be9721dd47b97",
       "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 245,
+      "title": "Survival Contest (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/245.txt",
+      "english_mtl_reference": "source/chapters/chapter-243.xhtml",
+      "draft": "manuscript/drafts/chapter-0245.md",
+      "qa": "qa/chapter-0245.md",
+      "provenance": "editorial/provenance/chapter-0245.json",
+      "acceptance": "qa/acceptance/chapter-0245.json",
+      "acceptance_sha": "c1809f5022d02651998a47a16523d5c1e63aaa9c",
+      "family_qa": "qa/families/survival-contest-0245-0249.md"
+    },
+    {
+      "chapter": 246,
+      "title": "Survival Contest (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/246.txt",
+      "english_mtl_reference": "source/chapters/chapter-244.xhtml",
+      "draft": "manuscript/drafts/chapter-0246.md",
+      "qa": "qa/chapter-0246.md",
+      "provenance": "editorial/provenance/chapter-0246.json",
+      "acceptance": "qa/acceptance/chapter-0246.json",
+      "acceptance_sha": "eaaec9bd0add0c7e17cc8d4c5e3f8a8f7b9acd62",
+      "family_qa": "qa/families/survival-contest-0245-0249.md"
+    },
+    {
+      "chapter": 247,
+      "title": "Survival Contest (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/247.txt",
+      "english_mtl_reference": "source/chapters/chapter-245.xhtml",
+      "draft": "manuscript/drafts/chapter-0247.md",
+      "qa": "qa/chapter-0247.md",
+      "provenance": "editorial/provenance/chapter-0247.json",
+      "acceptance": "qa/acceptance/chapter-0247.json",
+      "acceptance_sha": "b80a2fec115798cb98e43ff1b4f87466c20fdab2",
+      "family_qa": "qa/families/survival-contest-0245-0249.md"
+    },
+    {
+      "chapter": 248,
+      "title": "Survival Contest (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/248.txt",
+      "english_mtl_reference": "source/chapters/chapter-246.xhtml",
+      "draft": "manuscript/drafts/chapter-0248.md",
+      "qa": "qa/chapter-0248.md",
+      "provenance": "editorial/provenance/chapter-0248.json",
+      "acceptance": "qa/acceptance/chapter-0248.json",
+      "acceptance_sha": "da0037e30fc4dce20efeacea664b2193b42307d1",
+      "family_qa": "qa/families/survival-contest-0245-0249.md"
+    },
+    {
+      "chapter": 249,
+      "title": "Survival Contest (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/249.txt",
+      "english_mtl_reference": "source/chapters/chapter-247.xhtml",
+      "draft": "manuscript/drafts/chapter-0249.md",
+      "qa": "qa/chapter-0249.md",
+      "provenance": "editorial/provenance/chapter-0249.json",
+      "acceptance": "qa/acceptance/chapter-0249.json",
+      "acceptance_sha": "aa3285e8e2f7c96e013bec246eea3aee93434b99",
+      "family_qa": "qa/families/survival-contest-0245-0249.md"
     }
   ]
 }

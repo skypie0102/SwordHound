@@ -1,5 +1,20 @@
 ## The Great Banquet additions — Chapters 110–116
 
+## Survival Contest additions — Chapters 245–249
+
+- **Magic Water** — Mage Tower artifact demonstrated before the Survival Contest; submerged users remain dry and can breathe.
+- **Extra Eyes** — large observation artifact used by senior academy officials to watch all contestants at distance.
+- **Basilios** — Varangian deputy director / acting school representative at this League.
+- **Hippolite** — principal of Temisquira Women’s College.
+- **Whitebeard Whale** — Mage Tower Master hosting the League.
+- **Hohenheim of a Thousand Flames** — accepted wider epithet surfaced in target 248; recovered-English **Thousand Buddhas** is rejected.
+- **Bakilaga Juragio — Low Sword Graduator** — source-confirmed in target 248, advancing the earlier target-241 rumor.
+- **Oraorus Hohenheim — fourth circle** — source-confirmed in target 248.
+- **Chacachaca Catfish + Sabac tree bark** — target-249 fictional/in-story survival-trap combination; do not present as real-world health guidance.
+- **Dried antidote mushrooms** — added by Vikir to Dolores’s stew serving; neutralize the target-249 trap within the story.
+- **Recap / Celebration Banquet title divergence** — targets 250–252 map E248–E250; C252 Chinese title is 庆功宴 (3) while E250 is *Recap (3)*. Preserve/document rather than silently normalizing.
+- **Five Stars** — begins target 253 / E251.
+
 ## National University League additions — Chapters 236–244
 
 - **National University League** — accepted title family for targets 236–244; witnesses E234–E242.

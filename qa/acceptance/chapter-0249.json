@@ -1,0 +1,49 @@
+{
+  "chapter": 249,
+  "title": "Survival Contest (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/249.txt",
+    "primary_source_sha": "5034a52e538b9562aa741caa36cab2257dbcea24",
+    "english_reference_path": "source/chapters/chapter-247.xhtml",
+    "english_reference_sha": "c9f2667b1b39ce185a3bbe6515979d5689477177",
+    "draft_path": "manuscript/drafts/chapter-0249.md",
+    "draft_sha": "40b9bdeb9bd3b593d49dcb17500ed48380f34432",
+    "qa_path": "qa/chapter-0249.md",
+    "qa_sha": "9b9a5ccea651112858e052fe8747590f7aa2ee33",
+    "provenance_path": "editorial/provenance/chapter-0249.json",
+    "provenance_sha": "d0d8545f7a94917023b4d1792a21ac38855b7e70"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Dolores L. Quovadis",
+    "Granola Leviathan",
+    "Bakilaga Juragio",
+    "Oraorus Hohenheim",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Le Rouge et Le Noir Mountain",
+    "Snub-nosed",
+    "Hohenheim of a Thousand Flames"
+  ],
+  "documented_limits": [
+    "Food-pairing mechanism is fictional/in-story, not medical advice.",
+    "Hohenheim’s blame of Granola is a deliberate false attribution.",
+    "First-round rankings and second-round assignments remain target250+."
+  ],
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+}

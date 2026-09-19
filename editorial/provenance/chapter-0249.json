@@ -1,0 +1,76 @@
+{
+  "chapter": 249,
+  "title": "Survival Contest (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/249.txt",
+    "blob_sha": "5034a52e538b9562aa741caa36cab2257dbcea24",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-247.xhtml",
+    "blob_sha": "c9f2667b1b39ce185a3bbe6515979d5689477177",
+    "target_alignment": 249,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0249.md",
+    "blob_sha": "40b9bdeb9bd3b593d49dcb17500ed48380f34432"
+  },
+  "qa": {
+    "path": "qa/chapter-0249.md",
+    "blob_sha": "9b9a5ccea651112858e052fe8747590f7aa2ee33",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "fictional_food_mechanism",
+      "final": "Food-combination claims remain in-story mechanism, not real-world guidance",
+      "basis": "Chinese C249 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "trap",
+      "final": "Chacachaca Catfish + Sabac bark; dried mushrooms neutralize Dolores’s serving",
+      "basis": "Chinese C249 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "granola_misdirection",
+      "final": "Hohenheim wrongly blames Granola and Vikir reinforces it",
+      "basis": "Chinese C249 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "elimination",
+      "final": "Bakilaga pat leaves 1 HP; Vikir humiliation/stress removes final HP",
+      "basis": "Chinese C249 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "dolores_joke",
+      "final": "Vikir’s threat is a joke; fear costs Dolores about10% HP",
+      "basis": "Chinese C249 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target250/E248 begins Recap (1)",
+      "basis": "Chinese C249 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/250.txt",
+    "chinese_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
+    "english_path": "source/chapters/chapter-248.xhtml",
+    "english_sha": "c446be097b98c0609a35450640038009a0b502d1",
+    "purpose": "target250 begins Recap (1)"
+  }
+}

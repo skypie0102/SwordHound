@@ -1,0 +1,49 @@
+{
+  "chapter": 245,
+  "title": "Survival Contest (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/245.txt",
+    "primary_source_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_reference_path": "source/chapters/chapter-243.xhtml",
+    "english_reference_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "draft_path": "manuscript/drafts/chapter-0245.md",
+    "draft_sha": "bff76a5869155a0343301d48d90a9a69157f2323",
+    "qa_path": "qa/chapter-0245.md",
+    "qa_sha": "d7092afd3aa74b4b6374ad5864e2060db5b58865",
+    "provenance_path": "editorial/provenance/chapter-0245.json",
+    "provenance_sha": "b4ff013c5837ff6666ad048824bd8fad06b46d7e"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Dolores L. Quovadis",
+    "Granola Leviathan",
+    "Bakilaga Juragio",
+    "Oraorus Hohenheim",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Le Rouge et Le Noir Mountain",
+    "Snub-nosed",
+    "Hohenheim of a Thousand Flames"
+  ],
+  "documented_limits": [
+    "Dolores’s Imperial-student theory is unsupported speculation and is immediately doubted.",
+    "Bakilaga’s Dolores/Vikir relationship claim is a misunderstanding.",
+    "Colosseo principal’s absence reason remains unrevealed."
+  ],
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+}

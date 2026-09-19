@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Survival Contest (1)–(5) accepted
+
+**Current state:** 249 / 500 accepted; 0 staged; next Chapter 250.
+
+Completed targets **245–249** with mapping **245→E243 through 249→E247**.
+
+Key decisions: Dolores’s hidden-royal suspicion remains unsupported; the jungle survival corrections follow Chinese (including the dead wildcat upstream and one-day hunger); Hohenheim’s canonical wider epithet is **Hohenheim of a Thousand Flames**; Bakilaga is source-confirmed **Low Sword Graduator** in target 248; Hohenheim is fourth-circle; and target 249’s stew combination remains an in-story trap mechanism rather than real-world medical guidance.
+
+Family QA: `qa/families/survival-contest-0245-0249.md` — **PASS**.
+
+Next batch: targets **250–252**, mapping E248–E250. C252 has a Chinese title-root divergence: **庆功宴 (3) / Celebration Banquet (3)** versus recovered-English **Recap (3)**. Target **253→E251** begins *Five Stars (1)*.
+
 ## 2026-09-19 — National University League (1)–(9) accepted
 
 **Current state:** 244 / 500 accepted; 0 staged; next Chapter 245.

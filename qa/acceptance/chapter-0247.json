@@ -1,0 +1,49 @@
+{
+  "chapter": 247,
+  "title": "Survival Contest (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/247.txt",
+    "primary_source_sha": "f4978db3c27649f2cc606f9497a47433b3263027",
+    "english_reference_path": "source/chapters/chapter-245.xhtml",
+    "english_reference_sha": "ec107d03414ac032b0dbc5fc19f738c64df25ad1",
+    "draft_path": "manuscript/drafts/chapter-0247.md",
+    "draft_sha": "2d8802daa24a28bb65afe1f8844032f31dbd00ae",
+    "qa_path": "qa/chapter-0247.md",
+    "qa_sha": "69875bcbfaaf950eb44153dc313e963a0b7f36aa",
+    "provenance_path": "editorial/provenance/chapter-0247.json",
+    "provenance_sha": "29967fc89040570e7d1bf423d7cf6b31ba94afec"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Dolores L. Quovadis",
+    "Granola Leviathan",
+    "Bakilaga Juragio",
+    "Oraorus Hohenheim",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Le Rouge et Le Noir Mountain",
+    "Snub-nosed",
+    "Hohenheim of a Thousand Flames"
+  ],
+  "documented_limits": [
+    "Temporary Vikir/Dolores cooperation is tactical, not romantic.",
+    "Night Hound lamb echo does not trigger identity recognition.",
+    "Thousand Flames epithet is not backfilled before target248."
+  ],
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+}

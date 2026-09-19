@@ -1,0 +1,66 @@
+{
+  "chapter": 248,
+  "title": "Survival Contest (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/248.txt",
+    "blob_sha": "b8ca5935e21992596579d6773f2960232c3b1b02",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-246.xhtml",
+    "blob_sha": "7b0116d6be1fa8a6d9b32515afa7369e764cea25",
+    "target_alignment": 248,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0248.md",
+    "blob_sha": "0d72f1a2c0717384a39d82c799cca5b062304cf1"
+  },
+  "qa": {
+    "path": "qa/chapter-0248.md",
+    "blob_sha": "72486e932b358957283978db57bc39a5277a3f48",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "survivor_counts",
+      "final": "Colosseo23 / Mage Tower35 / Varangian45 / Temisquira46",
+      "basis": "Chinese C248 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "epithet",
+      "final": "Hohenheim of a Thousand Flames; reject Thousand Buddhas MTL",
+      "basis": "Chinese C248 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "rank_reveal",
+      "final": "Bakilaga now source-confirmed Low Sword Graduator; Hohenheim fourth-circle mage",
+      "basis": "Chinese C248 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    },
+    {
+      "topic": "duel_guard",
+      "final": "Bakilaga not eliminated before Hohenheim drinks stew",
+      "basis": "Chinese C248 + project/Fandom continuity + shifted witness where ambiguity required resolution"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/250.txt",
+    "chinese_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
+    "english_path": "source/chapters/chapter-248.xhtml",
+    "english_sha": "c446be097b98c0609a35450640038009a0b502d1",
+    "purpose": "target250 begins Recap (1)"
+  }
+}
