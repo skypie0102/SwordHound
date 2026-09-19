@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Eucharist (1)–(2) accepted
+
+**Current state:** 269 / 500 accepted; 0 staged; next Chapter 270.
+
+Completed targets **268–269** with mapping **E266–E267**.
+
+Key decisions: target268 uses the remainder of shared Chinese raw 267.txt; Dolores’s Night-Hound attraction remains unilateral; Humbert remains demon-connected but not demonic; the cult-leader gathering excludes harmless folk traditions; Ms. Ouroboros performs most of the purge; and Decarabia extracts the ledger clue whose dominant counterparty remains reveal-guarded for the following family.
+
+Family QA: `qa/families/eucharist-0268-0269.md` — **PASS**.
+
+Next verified family: **270–272 — Rich Friends (1)–(3)**, mapping **E268–E270**. Money War begins target273/E271.
+
 ## 2026-09-19 — The Season of Redemption (1)–(4) accepted
 
 **Current state:** 267 / 500 accepted; 0 staged; next Chapter 268.
