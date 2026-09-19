@@ -1,0 +1,33 @@
+{
+  "chapter": 392,
+  "title": "The Worst Torture (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Worst Torture",
+    "range": [
+      390,
+      395
+    ],
+    "family_qa_path": "qa/families/worst-torture-0390-0395.md",
+    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/392.txt",
+    "primary_source_sha": "4d3dbb26760ec10152cf6d54899773c89a50df86",
+    "english_reference_path": "source/chapters/chapter-390.xhtml",
+    "english_reference_sha": "db22d351043061614505fed8e8c0926ad1297378",
+    "draft_path": "manuscript/drafts/chapter-0392.md",
+    "draft_sha": "faa3c85f9cb321affc003a5c16fd80c02401bc7e",
+    "qa_path": "qa/chapter-0392.md",
+    "qa_sha": "89d1869015c2c8d05b06ff95b9e99acf367c6ae6",
+    "provenance_path": "editorial/provenance/chapter-0392.json",
+    "provenance_sha": "6072a5eae0cf238992b1b8eb4cc51de5b3b7d5c7"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+    "No Dead Man Walking material from target396 is imported."
+  ]
+}
