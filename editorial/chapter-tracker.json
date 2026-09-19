@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 325,
+  "accepted_count": 330,
   "staged_count": 0,
-  "next_chapter": 326,
+  "next_chapter": 331,
   "active_title_family": {
-    "name": "The Shadowless King of the Black Sea",
+    "name": "Draw",
     "range": [
-      326,
-      330
+      331,
+      332
     ],
-    "boundary_status": "verified complete: target326→E324 through target330→E328",
-    "following_family_starts": 331,
-    "following_title": "Draw (1)",
-    "alignment_note": "326→E324 through 330→E328; 331→E329 begins Draw (1), continuing through target332→E330."
+    "boundary_status": "verified complete: target331→E329 through target332→E330",
+    "following_family_starts": 333,
+    "following_title": "The Mating Room (1)",
+    "alignment_note": "331→E329 Draw (1), 332→E330 Draw (2); 333→E331 begins The Mating Room (1), continuing through target336→E334."
   },
   "chapters": [
     {
@@ -4565,6 +4565,76 @@
       "acceptance": "qa/acceptance/chapter-0325.json",
       "acceptance_sha": "571086ab17daa66ab2bb7db4fd8726838d5793bc",
       "family_qa": "qa/families/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 326,
+      "title": "The Shadowless King of the Black Sea (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/326.txt",
+      "english_mtl_reference": "source/chapters/chapter-324.xhtml",
+      "draft": "manuscript/drafts/chapter-0326.md",
+      "qa": "qa/chapter-0326.md",
+      "provenance": "editorial/provenance/chapter-0326.json",
+      "acceptance": "qa/acceptance/chapter-0326.json",
+      "acceptance_sha": "1c6f71c3f53dc59510289783e831f870bf78dcf8",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+    },
+    {
+      "chapter": 327,
+      "title": "The Shadowless King of the Black Sea (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/327.txt",
+      "english_mtl_reference": "source/chapters/chapter-325.xhtml",
+      "draft": "manuscript/drafts/chapter-0327.md",
+      "qa": "qa/chapter-0327.md",
+      "provenance": "editorial/provenance/chapter-0327.json",
+      "acceptance": "qa/acceptance/chapter-0327.json",
+      "acceptance_sha": "5d0a0fa350e4e5818fdfa6033fdd905d9836653b",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+    },
+    {
+      "chapter": 328,
+      "title": "The Shadowless King of the Black Sea (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/328.txt",
+      "english_mtl_reference": "source/chapters/chapter-326.xhtml",
+      "draft": "manuscript/drafts/chapter-0328.md",
+      "qa": "qa/chapter-0328.md",
+      "provenance": "editorial/provenance/chapter-0328.json",
+      "acceptance": "qa/acceptance/chapter-0328.json",
+      "acceptance_sha": "b4272f6e8c370e6782154330b0bcb93177cfbc02",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+    },
+    {
+      "chapter": 329,
+      "title": "The Shadowless King of the Black Sea (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/329.txt",
+      "english_mtl_reference": "source/chapters/chapter-327.xhtml",
+      "draft": "manuscript/drafts/chapter-0329.md",
+      "qa": "qa/chapter-0329.md",
+      "provenance": "editorial/provenance/chapter-0329.json",
+      "acceptance": "qa/acceptance/chapter-0329.json",
+      "acceptance_sha": "9d1e9338891d453dd2811611a8731f9e09737720",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+    },
+    {
+      "chapter": 330,
+      "title": "The Shadowless King of the Black Sea (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/330.txt",
+      "english_mtl_reference": "source/chapters/chapter-328.xhtml",
+      "draft": "manuscript/drafts/chapter-0330.md",
+      "qa": "qa/chapter-0330.md",
+      "provenance": "editorial/provenance/chapter-0330.json",
+      "acceptance": "qa/acceptance/chapter-0330.json",
+      "acceptance_sha": "1006275a570f9e79b554318602f6b8026a55d986",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
     }
   ]
 }
