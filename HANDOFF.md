@@ -1,45 +1,44 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 368 / 500  
+**Accepted:** 370 / 500  
 **Staged:** 0  
-**Next target:** 369
+**Next target:** 371
 
 ## Latest accepted family
 
-**The Underground Extension Construction (1)–(3)** — targets **366–368**.
+**The Servant (1)–(2)** — targets **369–370**.
 
-- Family QA: `qa/families/underground-extension-0366-0368.md` — PASS.
-- Alignment: **366→E364, 367→E365, 368→E366**.
-- Nouvelle Vague labor control uses roll call, exact tool inventory, fixed quotas, monthly guard/prisoner performance, and severe penalties.
-- Rough guard estimate: ~3,000 combat-capable and at least ~4,000 total personnel under five wardens.
-- Sakkuth de Leviathan remains Level Eight, voluntarily imprisoned to serve an unnamed Level Nine person.
-- BDISSEM suppresses mana but not Sakkuth’s physically accumulated poison.
-- Vikir uses a nail-in-mouth strike to establish the predator/prey hierarchy without mana.
-- Level Ten excavation is harsher than the admission ritual; Vikir still seeks an unrevealed object below Nouvelle Vague.
-- Decarabia says the object is nearby; identity remains reveal-guarded.
-- Garam Nord’s low status explains why he repeatedly receives dangerous or thankless assignments.
-- Vikir deliberately refuses labor because excessive cooperation would look suspicious for a Level Nine inmate and because he wants to test the response.
-- Level Nine refusal triggers the prison’s highest riot alarm.
-- Vikir fights without mana using Hell Tree resistance/reflex stats, combat skill, and BDISSEM chains.
-- Fresh designated-Fandom index verification confirmed **Kirko Grimm**, **D'Ordume D'Orcdile**, **Garam Nord**, **Black Tongue**, and **Lieutenant Bastille**.
-- Kirko Grimm appears as a gifted young lieutenant; no later wiki biography/spoilers are imported.
-- D'Ordume D'Orcdile appears at the family close as one of the Five Wardens.
-- Earlier handoff label **“Prisoner Hunt”** for target369 was incorrect.
+- Family QA: `qa/families/servant-0369-0370.md` — PASS.
+- Alignment: **369→E367, 370→E368**.
+- D'Ordume D'Orcdile is a Colonel / one of Nouvelle Vague’s Five Wardens; only Warden Orca is positioned above him in practical hierarchy.
+- His forearm spiral axe-blades convert aura into huge cutting vortexes.
+- The “unpleasant incident” between guard and prisoner nineteen years earlier remains unexplained.
+- Vikir fights without mana, using Hell Tree Reflexes, spatial perception, battle experience, and BDISSEM chains.
+- Target369 ends on the nonhuman-body reveal.
+- Target370 reveals D'Ordume as **saltwater-crocodile beastfolk**.
+- Vikir correctly judges that he cannot defeat D'Ordume outright while BDISSEM-restrained.
+- He uses prepared terrain / rolling boulders to exploit D'Ordume’s pride, eventually knocking him into lava.
+- D'Ordume survives badly burned.
+- Vikir then deliberately surrenders and uses loosened construction supports as leverage against summary execution.
+- D'Ordume publicly waives summary execution before Vikir submits.
+- Vikir receives **100 days of solitary confinement**, described as effectively a death sentence.
+- The solitary route is consistent with Vikir’s intended plan; target371 details are not imported early.
+- Kirko Grimm closes the family by revealing D'Ordume’s rampage accidentally completed the day’s entire work quota.
+- Canonical Fandom-index forms used: **D'Ordume D'Orcdile**, **Kirko Grimm**.
 
 ## Next verified family
 
-**The Servant (1)–(2)** — targets **369–370** / **E367–E368**.
+**Solitary Confinement (1)–(2)** — targets **371–372** / **E369–E370**.
 
-Following families:
-- **Solitary Confinement (1)–(2)** — targets **371–372 / E369–E370**.
+Following:
 - **Sucker Shark (1)–(2)** — targets **373–374 / E371–E372**.
 - **Poseidon (1)–(2)** — targets **375–376 / E373–E374**.
 - **The Hounds of Nouvelle Vague (1)–(4)** — targets **377–380 / E375–E378**.
 
 ## Exact next actions
 
-1. Read C369–C370 completely against E367–E368.
-2. Reconstruct and QA The Servant (1)–(2).
+1. Read C371–C372 completely against E369–E370.
+2. Reconstruct and QA Solitary Confinement (1)–(2).
 3. Merge it.
-4. Immediately continue into Solitary Confinement (1)–(2), targets371–372 / E369–E370.
+4. Immediately continue into Sucker Shark (1)–(2), targets373–374 / E371–E372.
