@@ -1,0 +1,38 @@
+{
+  "chapter": 343,
+  "title": "Ballak (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Ballak",
+    "range": [
+      343,
+      347
+    ],
+    "family_qa_path": "qa/families/ballak-0343-0347.md",
+    "family_qa_sha": "23dd10c41cdfda4f929c7754c3d061e87c34dfe3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/343.txt",
+    "blob_sha": "5736512ca95d412f4c1b4db0f81c18d9553893b1",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-341.xhtml",
+    "blob_sha": "6211552b3ed1b6e2083801b8ddc434ce20d3f8ed",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0343.md",
+    "blob_sha": "98732921a4956672f343f1378d9549c049cfa026"
+  },
+  "qa": {
+    "path": "qa/chapter-0343.md",
+    "blob_sha": "14bfb49f191dae9c5cf1b885945699a35550d90e",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established project glossary forms were reused and no source-local form was falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_correction": "Local Chinese Basilisk-regeneration wording is not promoted over accepted Beelzebub Slot2 Immortality — Gargoyle (S); production keeps the recovery wording non-conflicting."
+}
