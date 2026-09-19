@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 372,
+  "accepted_chapters": 374,
   "staged_chapters": 0,
-  "next_chapter": 373,
+  "next_chapter": 375,
   "latest_accepted_family": {
-    "name": "Solitary Confinement",
-    "range": [
-      371,
-      372
-    ],
-    "family_qa": "qa/families/solitary-confinement-0371-0372.md"
-  },
-  "next_title_family": {
     "name": "Sucker Shark",
     "range": [
       373,
       374
     ],
+    "family_qa": "qa/families/sucker-shark-0373-0374.md"
+  },
+  "next_title_family": {
+    "name": "Poseidon",
+    "range": [
+      375,
+      376
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 375,
-    "following_title": "Poseidon (1)",
-    "alignment_note": "373→E371, 374→E372; 375→E373 begins Poseidon."
+    "following_family_starts": 377,
+    "following_title": "The Hounds of Nouvelle Vague (1)",
+    "alignment_note": "375→E373, 376→E374; 377→E375 begins The Hounds of Nouvelle Vague."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -434,9 +434,16 @@
     369,
     370,
     371,
-    372
+    372,
+    373,
+    374
   ],
   "notes": [
+    "Chapters373-374 accepted as Sucker Shark (1)-(2), mapping E371-E372.",
+    "Poseidon is explicitly the ancient human counterweapon to the Ten Corpses' Long Rain of Terror.",
+    "Sakkuth de Leviathan coerces Garam Nord by threatening Kirko Grimm; Kirko/Garam romance is not narrator-confirmed.",
+    "Vikir identifies Garam/Kirko only as a potential escape lever.",
+    "Next family Poseidon verified targets375-376 / E373-E374; The Hounds of Nouvelle Vague begins target377/E375.",
     "Chapters371-372 accepted as Solitary Confinement (1)-(2), mapping E369-E370.",
     "Souaré canonical form verified through designated Fandom index; Angajuman retained only as source alias.",
     "Angajuman survives years in solitary, verbally counters Baskerville First-Eighth Form plus Black Sun, and knows Winston/Orca/old Seven Counts/Cane Corso.",
