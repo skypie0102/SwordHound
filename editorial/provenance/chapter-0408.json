@@ -1,0 +1,38 @@
+{
+  "chapter": 408,
+  "title": "Jailbreaker (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/408.txt",
+    "blob_sha": "3e9b7230f55f498159fcc0489fcf9589dab13361",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-406.xhtml",
+    "blob_sha": "79fa8d104114a6435d038f7499386f3dfeefd72d",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0408.md",
+    "blob_sha": "13bd65d471d1ac5e057c213fa0a3693191777ee7"
+  },
+  "qa": {
+    "path": "qa/chapter-0408.md",
+    "blob_sha": "ccec2ccbb13b2ca6197b7117e10077b4cd763e8d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were explicitly marked unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Second BDISSEM command remains incomplete/unnamed; only global Levels1-9 restraint release is fully revealed."
+}
