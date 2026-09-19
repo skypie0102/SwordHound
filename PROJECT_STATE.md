@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 372  
+**Accepted:** 374  
 **Staged:** 0  
-**Next chapter:** 373
+**Next chapter:** 375
 
-Latest accepted family: **Solitary Confinement (1)–(2)** — targets371–372 / E369–E370.  
-Family QA: `qa/families/solitary-confinement-0371-0372.md` — **PASS**.
+Latest accepted family: **Sucker Shark (1)–(2)** — targets373–374 / E371–E372.  
+Family QA: `qa/families/sucker-shark-0373-0374.md` — **PASS**.
 
-Key decisions: Souaré canonicalized; Angajuman retained only as a source alias; his true identity remains guarded despite Vikir’s deduction; and the sword discourse establishes a combatant capable of countering Vikir’s Eighth Form / Black Sun.
+Key decisions: Poseidon is humanity’s ancient counterweapon to the Ten Corpses’ Long Rain of Terror; Sakkuth’s pressure on Garam uses threats against Kirko; and Vikir identifies Garam/Kirko only as a possible future escape lever.
 
-Next verified family: **Sucker Shark (1)–(2)** — targets373–374 / E371–E372.  
-Following: **Poseidon (1)–(2)** — targets375–376 / E373–E374.
+Next verified family: **Poseidon (1)–(2)** — targets375–376 / E373–E374.  
+Following: **The Hounds of Nouvelle Vague (1)–(4)** — targets377–380 / E375–E378.
