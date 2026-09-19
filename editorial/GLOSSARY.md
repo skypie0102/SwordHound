@@ -1,3 +1,14 @@
+## Private Life additions — Chapters 341–342
+
+- **Private Life** — accepted two-part family, targets341–342 / witnesses E339–E340.
+- **Choco perception resolution** — Vikir simply had not canceled Picaresque dog form after the Dragon Majin escape.
+- **Lost Paradise paired-exit rule** — both paired residents must agree before either can leave.
+- **Dolores first awakening** — future-history reveal: her famous wartime awakening is her second; the first begins in the Tower of Abyss.
+- **Dolores identity knowledge** — from target342 onward, Dolores knows **Choco = Vikir = Night Hound**.
+- **Dog-form origin statement** — Vikir tells Dolores the transformation ability came from power gained after killing Dantalian.
+- **Ballak** — next family targets343–347 / E341–E345; Chinese title labels drift, English alignment controls the family name.
+- **Key man** — follows targets348–350 / E346–E348.
+
 ## Trap additions — Chapters 339–340
 
 - **Trap** — accepted two-part family, targets339–340 / witnesses E337–E338.
