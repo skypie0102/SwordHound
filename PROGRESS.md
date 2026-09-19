@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Poseidon (1)–(2) accepted
+
+**Current state:** 376 / 500 accepted; 0 staged; next Chapter 377.
+
+Completed targets **375–376** with mapping **E373–E374**.
+
+Key decisions: Poseidon is a roughly five-meter blue egg-like ancient weapon that absorbs impact and grows; Bastille recognizes possible dormant-volcano / surface-climate danger; D'Ordume suppresses a full resurvey for deadline, budget, and promotion reasons; and Vikir welcomes continued excavation.
+
+Family QA: `qa/families/poseidon-0375-0376.md` — **PASS**.
+
+Next verified family: **377–380 — The Hounds of Nouvelle Vague (1)–(4)**, mapping **E375–E378**.
+
 ## 2026-09-19 — Sucker Shark (1)–(2) accepted
 
 **Current state:** 374 / 500 accepted; 0 staged; next Chapter 375.
