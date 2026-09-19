@@ -1,0 +1,37 @@
+{
+  "chapter": 264,
+  "title": "The Season of Redemption (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Season of Redemption",
+    "range": [
+      264,
+      267
+    ],
+    "family_qa_path": "qa/families/season-redemption-0264-0267.md",
+    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/264.txt",
+    "blob_sha": "fbae68cb218ff15ae209b807f627d661f89e848d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-262.xhtml",
+    "blob_sha": "4c67cd90a9939443e68fe847dca6b16f7863b099",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0264.md",
+    "blob_sha": "2d2c07bfc77f9be4dad7b5293261a08ee5ed3d71"
+  },
+  "qa": {
+    "path": "qa/chapter-0264.md",
+    "blob_sha": "c87fce42d8b204a24d2ca48cf910110d9509de31",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

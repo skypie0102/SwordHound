@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Season of Redemption (1)–(4) accepted
+
+**Current state:** 267 / 500 accepted; 0 staged; next Chapter 268.
+
+Completed targets **264–267** with mapping **E262–E265**.
+
+Key decisions: Sixth Corpse linkage through Dantalian and Old Testament indulgences; unsanitized Edward Bourbon Jr. crimes; Ms. Ouroboros overlap remains identity-guarded; Humbert L. Quovadis canonical form; Martin Luther/New Testament continuity; and the target267/268 shared-raw seam is now explicitly documented.
+
+Family QA: `qa/families/season-redemption-0264-0267.md` — **PASS**.
+
+Next verified family: **268–269 — The Eucharist (1)–(2)**, mapping **E266–E267**. Target270/E268 begins *Rich Friends (1)*.
+
 ## 2026-09-19 — The Inverted Pentagram (1)–(3) accepted
 
 **Current state:** 263 / 500 accepted; 0 staged; next Chapter 264.

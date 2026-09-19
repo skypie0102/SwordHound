@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 263,
+  "accepted_chapters": 267,
   "staged_chapters": 0,
-  "next_chapter": 264,
+  "next_chapter": 268,
   "latest_accepted_family": {
-    "name": "The Inverted Pentagram",
-    "range": [
-      261,
-      263
-    ],
-    "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
-  },
-  "next_title_family": {
     "name": "The Season of Redemption",
     "range": [
       264,
       267
     ],
-    "boundary_status": "verified complete; target267 shares raw 267.txt with target268",
-    "following_family_starts": 268,
-    "following_title": "The Eucharist (1)",
-    "alignment_note": "264→E262 through 267→E265; 268→E266 begins The Eucharist (1) in shared raw"
+    "family_qa": "qa/families/season-redemption-0264-0267.md"
+  },
+  "next_title_family": {
+    "name": "The Eucharist",
+    "range": [
+      268,
+      269
+    ],
+    "boundary_status": "verified complete",
+    "following_family_starts": 270,
+    "following_title": "Rich Friends (1)",
+    "alignment_note": "268→E266, 269→E267; 270→E268 begins Rich Friends"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -325,9 +325,22 @@
     260,
     261,
     262,
-    263
+    263,
+    264,
+    265,
+    266,
+    267
   ],
   "notes": [
+    "Chapters264-267 accepted as The Season of Redemption (1)-(4), mapping E262-E265.",
+    "Pigi remains male despite local Chinese pronoun drift.",
+    "Sixth Corpse is historically close to Dantalian; Old Testament indulgence trade carries Sixth-Corpse residue.",
+    "Edward Bourbon Jr.'s source-explicit molestation/murder/demonic-sacrifice history is preserved unsanitized.",
+    "Ms. Ouroboros hunts overlapping criminals and seeks Night Hound; identity remains guarded.",
+    "Humbert L. Quovadis canonical form retained; Dolores fear/discomfort preserved without invented abuse.",
+    "Martin Luther / Mozgus remain New Testament figures.",
+    "source/chinese/chapters/267.txt shared boundary clarified: target267 restores only localized E265 hiding/recognition bridge; remaining Chinese belongs target268/E266.",
+    "Next family The Eucharist verified targets268-269 / E266-E267; Rich Friends begins target270/E268.",
     "Chapters261-263 accepted as The Inverted Pentagram (1)-(3), mapping E259-E261.",
     "Decarabia is Chinese-primary Danger Rating S+; shifted-English S rejected.",
     "Decarabia is an inanimate-type Seventh Corpse whose thousand-year alignment is determined by the first being to awaken it.",

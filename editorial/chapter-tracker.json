@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 263,
+  "accepted_count": 267,
   "staged_count": 0,
-  "next_chapter": 264,
+  "next_chapter": 268,
   "active_title_family": {
-    "name": "The Season of Redemption",
+    "name": "The Eucharist",
     "range": [
-      264,
-      267
+      268,
+      269
     ],
-    "boundary_status": "verified complete: target264→E262 through target267→E265; target267 shares raw container 267.txt with target268",
-    "following_family_starts": 268,
-    "following_title": "The Eucharist (1)",
-    "alignment_note": "264→E262, 265→E263, 266→E264, 267→E265; target268→E266 begins The Eucharist (1) inside shared source/chinese/chapters/267.txt"
+    "boundary_status": "verified complete: target268→E266 and target269→E267; target268 shares raw 267.txt with target267",
+    "following_family_starts": 270,
+    "following_title": "Rich Friends (1)",
+    "alignment_note": "268→E266 The Eucharist (1), 269→E267 The Eucharist (2); 270→E268 begins Rich Friends (1)"
   },
   "chapters": [
     {
@@ -3697,6 +3697,62 @@
       "acceptance": "qa/acceptance/chapter-0263.json",
       "acceptance_sha": "fcdbe266434a0f671c7a77e8ac79b38f1e88ce87",
       "family_qa": "qa/families/inverted-pentagram-0261-0263.md"
+    },
+    {
+      "chapter": 264,
+      "title": "The Season of Redemption (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/264.txt",
+      "english_mtl_reference": "source/chapters/chapter-262.xhtml",
+      "draft": "manuscript/drafts/chapter-0264.md",
+      "qa": "qa/chapter-0264.md",
+      "provenance": "editorial/provenance/chapter-0264.json",
+      "acceptance": "qa/acceptance/chapter-0264.json",
+      "acceptance_sha": "7c4d097b210a7d3181fca47b37163bcb17a1be94",
+      "family_qa": "qa/families/season-redemption-0264-0267.md"
+    },
+    {
+      "chapter": 265,
+      "title": "The Season of Redemption (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/265.txt",
+      "english_mtl_reference": "source/chapters/chapter-263.xhtml",
+      "draft": "manuscript/drafts/chapter-0265.md",
+      "qa": "qa/chapter-0265.md",
+      "provenance": "editorial/provenance/chapter-0265.json",
+      "acceptance": "qa/acceptance/chapter-0265.json",
+      "acceptance_sha": "cd4a867f68dcb3a1d6d2dccc5125b335971a62ea",
+      "family_qa": "qa/families/season-redemption-0264-0267.md"
+    },
+    {
+      "chapter": 266,
+      "title": "The Season of Redemption (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/266.txt",
+      "english_mtl_reference": "source/chapters/chapter-264.xhtml",
+      "draft": "manuscript/drafts/chapter-0266.md",
+      "qa": "qa/chapter-0266.md",
+      "provenance": "editorial/provenance/chapter-0266.json",
+      "acceptance": "qa/acceptance/chapter-0266.json",
+      "acceptance_sha": "3dea948af04e6452738f5f69f172e720a60cbc82",
+      "family_qa": "qa/families/season-redemption-0264-0267.md"
+    },
+    {
+      "chapter": 267,
+      "title": "The Season of Redemption (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/267.txt",
+      "english_mtl_reference": "source/chapters/chapter-265.xhtml",
+      "draft": "manuscript/drafts/chapter-0267.md",
+      "qa": "qa/chapter-0267.md",
+      "provenance": "editorial/provenance/chapter-0267.json",
+      "acceptance": "qa/acceptance/chapter-0267.json",
+      "acceptance_sha": "e3110ca9841decab5c7add89d5a08428f9b3b872",
+      "family_qa": "qa/families/season-redemption-0264-0267.md"
     }
   ]
 }

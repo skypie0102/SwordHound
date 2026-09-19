@@ -1,0 +1,41 @@
+{
+  "chapter": 267,
+  "title": "The Season of Redemption (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Season of Redemption",
+    "range": [
+      264,
+      267
+    ],
+    "family_qa_path": "qa/families/season-redemption-0264-0267.md",
+    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/267.txt",
+    "blob_sha": "6f2d2f4df0bc0e650c89c8ac15eef7c0d88faad2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-265.xhtml",
+    "blob_sha": "f07f76e810c9678bcccc8e51e72e4b5f34163f88",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0267.md",
+    "blob_sha": "123b3daf378c3a829faf3955555fca2e36a9b615"
+  },
+  "qa": {
+    "path": "qa/chapter-0267.md",
+    "blob_sha": "8c426d67f8f38971734d5ffb4817ddb72392fb22",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "source_exception": {
+    "path": "source/chinese/chapter-exceptions.tsv",
+    "note": "267.txt is shared by targets267-268 with no internal Chapter-268 heading; target267 uses the Season of Redemption portion plus only the localized E265 closing bridge omitted by Chinese."
+  }
+}
