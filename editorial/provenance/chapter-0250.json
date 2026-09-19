@@ -1,0 +1,60 @@
+{
+  "chapter": 250,
+  "title": "Recap (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Recap / Celebration Banquet",
+    "range": [
+      250,
+      252
+    ],
+    "family_qa_path": "qa/families/recap-celebration-banquet-0250-0252.md",
+    "family_qa_sha": "3f91f0b7a1b1a300729480ccd9bbe95aaf821dde",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/250.txt",
+    "blob_sha": "d7f5c33b3530b223aec8aa06abede7a38013e86d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-248.xhtml",
+    "blob_sha": "c446be097b98c0609a35450640038009a0b502d1",
+    "target_alignment": 250,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0250.md",
+    "blob_sha": "dbbdfdaef5ccb5e2e52f57dff7120e4e5af15314"
+  },
+  "qa": {
+    "path": "qa/chapter-0250.md",
+    "blob_sha": "3e65e0403eb6aa14b673949114b352a0b28e6961",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "ranking",
+      "final": "Final ranking preserves six first-years in the top ten.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "second_stage",
+      "final": "Apprenticeship assignments from the Seven Great Houses / Imperial Family precede vault access.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "decababaria",
+      "final": "Vikir's hidden objective remains the dormant Seventh Corpse Decarabia in the joint vault.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target251/E249 continues Recap (2).",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    }
+  ],
+  "canonical_reference_limit": "Direct Fandom verification was blocked by site robots rules; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
