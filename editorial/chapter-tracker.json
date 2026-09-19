@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 306,
+  "accepted_count": 313,
   "staged_count": 0,
-  "next_chapter": 307,
+  "next_chapter": 314,
   "active_title_family": {
-    "name": "Hell Tree",
+    "name": "Surplus Man",
     "range": [
-      307,
-      313
+      314,
+      315
     ],
-    "boundary_status": "verified complete: target307→E305 through target313→E311",
-    "following_family_starts": 314,
-    "following_title": "Surplus Man (1)",
-    "alignment_note": "307→E305 through 313→E311; target314→E312 begins Surplus Man (1), continuing through target315→E313."
+    "boundary_status": "verified complete: target314→E312 through target315→E313",
+    "following_family_starts": 316,
+    "following_title": null,
+    "alignment_note": "314→E312 Surplus Man (1), 315→E313 Surplus Man (2); determine target316 title family before acceptance."
   },
   "chapters": [
     {
@@ -4299,6 +4299,104 @@
       "acceptance": "qa/acceptance/chapter-0306.json",
       "acceptance_sha": "f8284e961f4aa8ae9efb345db23c7140e29e5cec",
       "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 307,
+      "title": "Hell Tree (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/307.txt",
+      "english_mtl_reference": "source/chapters/chapter-305.xhtml",
+      "draft": "manuscript/drafts/chapter-0307.md",
+      "qa": "qa/chapter-0307.md",
+      "provenance": "editorial/provenance/chapter-0307.json",
+      "acceptance": "qa/acceptance/chapter-0307.json",
+      "acceptance_sha": "2d2b2d37c77ddca821a33a1572fc78294482a4a3",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 308,
+      "title": "Hell Tree (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/308.txt",
+      "english_mtl_reference": "source/chapters/chapter-306.xhtml",
+      "draft": "manuscript/drafts/chapter-0308.md",
+      "qa": "qa/chapter-0308.md",
+      "provenance": "editorial/provenance/chapter-0308.json",
+      "acceptance": "qa/acceptance/chapter-0308.json",
+      "acceptance_sha": "59c2e0f7ab299d618571d33bab3b341a4c1ad9ce",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 309,
+      "title": "Hell Tree (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/309.txt",
+      "english_mtl_reference": "source/chapters/chapter-307.xhtml",
+      "draft": "manuscript/drafts/chapter-0309.md",
+      "qa": "qa/chapter-0309.md",
+      "provenance": "editorial/provenance/chapter-0309.json",
+      "acceptance": "qa/acceptance/chapter-0309.json",
+      "acceptance_sha": "538cf62a3d2f98e2c9dabad234e28dc43cfa0e01",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 310,
+      "title": "Hell Tree (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/310.txt",
+      "english_mtl_reference": "source/chapters/chapter-308.xhtml",
+      "draft": "manuscript/drafts/chapter-0310.md",
+      "qa": "qa/chapter-0310.md",
+      "provenance": "editorial/provenance/chapter-0310.json",
+      "acceptance": "qa/acceptance/chapter-0310.json",
+      "acceptance_sha": "29f7a4bdb50dc1bd5caef7abb5af925514ec44c7",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 311,
+      "title": "Hell Tree (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/311.txt",
+      "english_mtl_reference": "source/chapters/chapter-309.xhtml",
+      "draft": "manuscript/drafts/chapter-0311.md",
+      "qa": "qa/chapter-0311.md",
+      "provenance": "editorial/provenance/chapter-0311.json",
+      "acceptance": "qa/acceptance/chapter-0311.json",
+      "acceptance_sha": "e99681db19ac025bd2ec53dc58b8712d34ea13de",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 312,
+      "title": "Hell Tree (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/312.txt",
+      "english_mtl_reference": "source/chapters/chapter-310.xhtml",
+      "draft": "manuscript/drafts/chapter-0312.md",
+      "qa": "qa/chapter-0312.md",
+      "provenance": "editorial/provenance/chapter-0312.json",
+      "acceptance": "qa/acceptance/chapter-0312.json",
+      "acceptance_sha": "0fe699fdfc397b495bc0bee9f115f9b73a1d9858",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 313,
+      "title": "Hell Tree (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/313.txt",
+      "english_mtl_reference": "source/chapters/chapter-311.xhtml",
+      "draft": "manuscript/drafts/chapter-0313.md",
+      "qa": "qa/chapter-0313.md",
+      "provenance": "editorial/provenance/chapter-0313.json",
+      "acceptance": "qa/acceptance/chapter-0313.json",
+      "acceptance_sha": "ff13c3ca03db7d0f04eaf097f4debc949ef85eb8",
+      "family_qa": "qa/families/hell-tree-0307-0313.md"
     }
   ]
 }
