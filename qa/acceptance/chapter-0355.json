@@ -1,0 +1,33 @@
+{
+  "chapter": 355,
+  "title": "Outside the Tower (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      355
+    ],
+    "family_qa_path": "qa/families/outside-tower-0351-0355.md",
+    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/355.txt",
+    "primary_source_sha": "c895e419e3f830d437ba4ae2ec53fdb3613c7551",
+    "english_reference_path": "source/chapters/chapter-353.xhtml",
+    "english_reference_sha": "c0e57f2c8cb2652d0e034ceb400378759aa3016a",
+    "draft_path": "manuscript/drafts/chapter-0355.md",
+    "draft_sha": "b6bf8fa787e62d60ad998118711b8fb1b7df83d1",
+    "qa_path": "qa/chapter-0355.md",
+    "qa_sha": "4eea6f04ff2471806770b005ecd72deffa8d3ff5",
+    "provenance_path": "editorial/provenance/chapter-0355.json",
+    "provenance_sha": "d0953d195d82325d4047447389f61f69df2fefde"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Crime and Punishment material from target356 is imported."
+  ]
+}
