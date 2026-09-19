@@ -1,3 +1,17 @@
+## Hell Tree additions — Chapters 307–313
+
+- **Hell Tree** — accepted seven-part family, targets307–313 / witnesses E305–E311.
+- **Reverse Babel / downward tower** — source-local descriptions for Hell Tree’s inverted structure; direct Fandom verification unavailable.
+- **Tower Level System** — Level governs how much pre-tower power can be used; tower gains persist after escape.
+- **Strange Candy** — red Strength, green Agility, blue Stamina; +1 each.
+- **Hell Hound** — Chinese-primary **B+**, 3 m, Second Ridge; shifted E308 B rejected.
+- **Cerberus** — **A+**, 7 m, Seventh Ridge; bonus-stage Hell Watchdog.
+- **Physical Resistance** — black advanced-stat candy; starts at 0 and unlocks one of the three rare stats.
+- **Fairy Candy Shop** — 300 candies of any color exchange for one gold Level candy.
+- **Level1 reward strategy** — Vikir deliberately stays Level1 because low-Level clears of high-difficulty tasks yield exceptional rewards.
+- **Floor2 survivor count** — 69 students after the 108-minute Hell Hound mission.
+- **Surplus Man** — next family targets314–315 / E312–E313.
+
 ## The Age of the Warmonger additions — Chapters 299–306
 
 - **The Age of the Warmonger** — accepted eight-part family, targets299–306 / witnesses E297–E304.
