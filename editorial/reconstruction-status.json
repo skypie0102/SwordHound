@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 252,
+  "accepted_chapters": 254,
   "staged_chapters": 0,
-  "next_chapter": 253,
+  "next_chapter": 255,
   "latest_accepted_family": {
-    "name": "Recap / Celebration Banquet",
-    "range": [
-      250,
-      252
-    ],
-    "family_qa": "qa/families/recap-celebration-banquet-0250-0252.md"
-  },
-  "next_title_family": {
     "name": "Five Stars",
     "range": [
       253,
+      254
+    ],
+    "family_qa": "qa/families/five-stars-0253-0254.md"
+  },
+  "next_title_family": {
+    "name": "The Grave of Swords",
+    "range": [
+      255,
       null
     ],
     "boundary_status": "start verified; full contiguous family boundary pending forward read",
     "following_family_starts": null,
     "following_title": null,
-    "alignment_note": "253→E251 begins Five Stars (1)"
+    "alignment_note": "255→E253 begins The Grave of Swords (1)"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -314,9 +314,19 @@
     249,
     250,
     251,
-    252
+    252,
+    253,
+    254
   ],
   "notes": [
+    "Chapters253-254 accepted as Five Stars (1)-(2), mapping E251-E252.",
+    "Target253 five-star Baskerville task is childcare; Pomeranian smiling completes it immediately.",
+    "Sinclaire's eastbound travel despite choosing Quovadis remains unexplained and spoiler-guarded.",
+    "Target254 promotes Vikir to Senator while preserving his Imperial Capital special-agent freedom.",
+    "Vikir plans a task force around Cindywendy, Chihuahua, MiniPin, and capable jungle talent.",
+    "Hugo grants the Black Whistle / broad Baskerville military command authority for the Wraith Tree request.",
+    "Wraith Tree location is tied to Vikir's clue toward the realm beyond Sword Master / Eighth Fang.",
+    "Next target255→E253 begins The Grave of Swords (1).",
     "Chapters250-252 accepted as Recap (1)-(2) / Celebration Banquet (3), mapping E248-E250.",
     "Target252 preserves Chinese title 庆功宴 (3) as Celebration Banquet (3) despite recovered-English Recap (3).",
     "Target252 artifact list follows Chinese semantics: Talking Window, not recovered-English Talking Spear.",
