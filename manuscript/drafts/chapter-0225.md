@@ -208,13 +208,11 @@ unknown.
 
 Strength—
 
-estimated around Graduator level or higher.
+estimated around Graduator level.
 
 Witnesses—
 
-either dead—
-
-or incapable of useful testimony.
+dead.
 
 Students shivered.
 
