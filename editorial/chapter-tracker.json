@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 338,
+  "accepted_count": 340,
   "staged_count": 0,
-  "next_chapter": 339,
+  "next_chapter": 341,
   "active_title_family": {
-    "name": "Trap",
+    "name": "Private Life",
     "range": [
-      339,
-      340
+      341,
+      342
     ],
-    "boundary_status": "verified complete: target339→E337 through target340→E338",
-    "following_family_starts": 341,
-    "following_title": "Private Life (1)",
-    "alignment_note": "339→E337 Trap (1), 340→E338 Trap (2); 341→E339 begins Private Life (1), continuing through target342→E340."
+    "boundary_status": "verified complete: target341→E339 through target342→E340",
+    "following_family_starts": 343,
+    "following_title": null,
+    "alignment_note": "341→E339 Private Life (1), 342→E340 Private Life (2); determine complete family boundary beginning at target343 before accepting further work."
   },
   "chapters": [
     {
@@ -4747,6 +4747,34 @@
       "acceptance": "qa/acceptance/chapter-0338.json",
       "acceptance_sha": "97097a76b7437af62120e032fa7e846a0fb36a3d",
       "family_qa": "qa/families/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 339,
+      "title": "Trap (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/339.txt",
+      "english_mtl_reference": "source/chapters/chapter-337.xhtml",
+      "draft": "manuscript/drafts/chapter-0339.md",
+      "qa": "qa/chapter-0339.md",
+      "provenance": "editorial/provenance/chapter-0339.json",
+      "acceptance": "qa/acceptance/chapter-0339.json",
+      "acceptance_sha": "e08e8ca25a7f777ab0ba7ec420e52f2eab567326",
+      "family_qa": "qa/families/trap-0339-0340.md"
+    },
+    {
+      "chapter": 340,
+      "title": "Trap (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/340.txt",
+      "english_mtl_reference": "source/chapters/chapter-338.xhtml",
+      "draft": "manuscript/drafts/chapter-0340.md",
+      "qa": "qa/chapter-0340.md",
+      "provenance": "editorial/provenance/chapter-0340.json",
+      "acceptance": "qa/acceptance/chapter-0340.json",
+      "acceptance_sha": "166e69727f5ef2732a86ee7b97091c70fca7fa50",
+      "family_qa": "qa/families/trap-0339-0340.md"
     }
   ]
 }
