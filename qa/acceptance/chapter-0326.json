@@ -1,0 +1,33 @@
+{
+  "chapter": 326,
+  "title": "The Shadowless King of the Black Sea (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Shadowless King of the Black Sea",
+    "range": [
+      326,
+      330
+    ],
+    "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/326.txt",
+    "primary_source_sha": "c8b718d73bbad080d7cae4b013c0dc7d0874de4c",
+    "english_reference_path": "source/chapters/chapter-324.xhtml",
+    "english_reference_sha": "14355b10ef022a68beed426b1dd4e4020a7d50cd",
+    "draft_path": "manuscript/drafts/chapter-0326.md",
+    "draft_sha": "7f2490916cb6cb92d54b88f76d4a2cfe15a28fe8",
+    "qa_path": "qa/chapter-0326.md",
+    "qa_sha": "71713e70982ceb6bb9f034302dd321c23abe2036",
+    "provenance_path": "editorial/provenance/chapter-0326.json",
+    "provenance_sha": "a575a914431922ef943c645e583c4ee20650a4cf"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Draw material from target331 is imported."
+  ]
+}
