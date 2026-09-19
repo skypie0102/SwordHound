@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 368,
+  "accepted_count": 370,
   "staged_count": 0,
-  "next_chapter": 369,
+  "next_chapter": 371,
   "active_title_family": {
-    "name": "The Servant",
+    "name": "Solitary Confinement",
     "range": [
-      369,
-      370
+      371,
+      372
     ],
-    "boundary_status": "verified complete: target369→E367 and target370→E368",
-    "following_family_starts": 371,
-    "following_title": "Solitary Confinement (1)",
-    "alignment_note": "369→E367 The Servant (1), 370→E368 The Servant (2); 371→E369 begins Solitary Confinement (1)."
+    "boundary_status": "verified complete: target371→E369 and target372→E370",
+    "following_family_starts": 373,
+    "following_title": "Sucker Shark (1)",
+    "alignment_note": "371→E369 Solitary Confinement (1), 372→E370 Solitary Confinement (2); 373→E371 begins Sucker Shark (1)."
   },
   "chapters": [
     {
@@ -5167,6 +5167,34 @@
       "acceptance": "qa/acceptance/chapter-0368.json",
       "acceptance_sha": "9075fe3e3971fd01d44b848f15d6eb042fa4ca53",
       "family_qa": "qa/families/underground-extension-0366-0368.md"
+    },
+    {
+      "chapter": 369,
+      "title": "The Servant (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/369.txt",
+      "english_mtl_reference": "source/chapters/chapter-367.xhtml",
+      "draft": "manuscript/drafts/chapter-0369.md",
+      "qa": "qa/chapter-0369.md",
+      "provenance": "editorial/provenance/chapter-0369.json",
+      "acceptance": "qa/acceptance/chapter-0369.json",
+      "acceptance_sha": "abe63cd7712bc3c575223bcde7129f6e5f14acf2",
+      "family_qa": "qa/families/servant-0369-0370.md"
+    },
+    {
+      "chapter": 370,
+      "title": "The Servant (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/370.txt",
+      "english_mtl_reference": "source/chapters/chapter-368.xhtml",
+      "draft": "manuscript/drafts/chapter-0370.md",
+      "qa": "qa/chapter-0370.md",
+      "provenance": "editorial/provenance/chapter-0370.json",
+      "acceptance": "qa/acceptance/chapter-0370.json",
+      "acceptance_sha": "70f3dbb8bc3802733f6edc02534c7d0ffeddb08a",
+      "family_qa": "qa/families/servant-0369-0370.md"
     }
   ]
 }
