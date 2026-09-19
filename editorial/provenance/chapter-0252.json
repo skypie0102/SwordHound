@@ -1,0 +1,67 @@
+{
+  "chapter": 252,
+  "title": "Celebration Banquet (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Recap / Celebration Banquet",
+    "range": [
+      250,
+      252
+    ],
+    "family_qa_path": "qa/families/recap-celebration-banquet-0250-0252.md",
+    "family_qa_sha": "3f91f0b7a1b1a300729480ccd9bbe95aaf821dde",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/252.txt",
+    "blob_sha": "5223528c4ed8e3bf5350a9bc016b8d6a724a334f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-250.xhtml",
+    "blob_sha": "9d02b6b20a682888097e1667ff1df7a73f7b8912",
+    "target_alignment": 252,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0252.md",
+    "blob_sha": "4d5f5bee0887b37b0190b588dddf9488f5259409"
+  },
+  "qa": {
+    "path": "qa/chapter-0252.md",
+    "blob_sha": "2ecbc2639bf30396babad3379752c26b3e65ee37",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "title_divergence",
+      "final": "Chinese 庆功宴 (3) is preserved as Celebration Banquet (3); recovered English Recap (3) remains a secondary-witness divergence.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "artifact_list",
+      "final": "Talking Window follows Chinese semantics over recovered-English Talking Spear.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "baskerville_difficulty",
+      "final": "Baskerville task is ★★★★★ based on C253 explicit confirmation plus E250, overriding damaged C252 four-star display.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target253/E251 begins Five Stars (1); actual Baskerville task content remains outside this batch.",
+      "basis": "Chinese primary + established project canon + shifted English witness where needed"
+    }
+  ],
+  "canonical_reference_limit": "Direct Fandom verification was blocked by site robots rules; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/253.txt",
+    "chinese_sha": "7802d6adc4174defff777a63367474c4878b53a0",
+    "english_path": "source/chapters/chapter-251.xhtml",
+    "english_sha": "2b7a5185cc5b9ea6fba5ac1766248e842a13c2ee",
+    "purpose": "target253 begins Five Stars (1)"
+  }
+}

@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Recap (1)–(2) / Celebration Banquet (3) accepted
+
+**Current state:** 252 / 500 accepted; 0 staged; next Chapter 253.
+
+Completed targets **250–252** with mapping **250→E248, 251→E249, 252→E250**.
+
+Key decisions: target 252 preserves Chinese **庆功宴 (3) / Celebration Banquet (3)** despite E250’s *Recap (3)* label; the final League ranking keeps six first-years in the top ten; second-stage apprenticeship tasks are source-timed; Dolores’s Crown Prince theory remains wrong and unverified; **Talking Window** follows Chinese over recovered-English “Talking Spear”; and the Baskerville assignment is normalized to **★★★★★** based on C253 explicit confirmation plus E250.
+
+Direct Fandom re-check was blocked by robots rules, so established project glossary spellings were reused without asserting new wiki-only canon.
+
+Batch QA: `qa/families/recap-celebration-banquet-0250-0252.md` — **PASS**.
+
+Next verified start: **253→E251 — Five Stars (1)**. Full title-family boundary must be read forward before acceptance.
+
 ## 2026-09-19 — Survival Contest (1)–(5) accepted
 
 **Current state:** 249 / 500 accepted; 0 staged; next Chapter 250.

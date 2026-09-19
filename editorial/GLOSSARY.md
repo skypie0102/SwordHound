@@ -1,3 +1,17 @@
+## Recap / Celebration Banquet additions — Chapters 250–252
+
+- **Recap (1)–(2)** — production English titles for targets 250–251 / witnesses E248–E249.
+- **Celebration Banquet (3)** — target 252 preserves Chinese `庆功宴 (3)`; E250’s *Recap (3)* is a secondary-witness title divergence.
+- **University League final ranking** — Dolores, Merelini Lovegood, Bakilaga Juragio, Highbro, Middlebro, Lowbro, Vikir, Sinclaire, Granola de Leviathan, Oraorus Hohenheim.
+- **Second-stage apprenticeship system** — top ten complete commissions for the Seven Great Houses / Imperial Family, receive sealed proof, then qualify for the joint artifact vault.
+- **Talking Window** — Chinese-primary artifact example in target 252; recovered-English “Talking Spear” rejected.
+- **Seventh Corpse Decarabia** — remains dormant in the joint vault in Vikir’s current understanding; no later outcome imported.
+- **Dolores Crown Prince theory** — target 251 speculation only; incorrect/unverified, not an identity reveal.
+- **Temisquira celebration protest** — comedic campaign to join Colosseo’s banquet and see Vikir, not political unrest.
+- **Baskerville second-stage assignment** — **Difficulty ★★★★★**. C253 explicitly confirms five stars and E250 agrees; C252’s four-star display is treated as damaged formatting.
+- **Five Stars** — next family begins target 253 / E251; verify full contiguous boundary before acceptance.
+- **Canonical-reference limitation (2026-09-19)** — direct designated-Fandom access was blocked by robots rules; established project glossary forms were reused, and no new wiki-only forms were asserted.
+
 ## The Great Banquet additions — Chapters 110–116
 
 ## Survival Contest additions — Chapters 245–249
