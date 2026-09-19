@@ -1,39 +1,40 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 272 / 500  
+**Accepted:** 278 / 500  
 **Staged:** 0  
-**Next target:** 273
+**Next target:** 279
 
 ## Latest accepted family
 
-**Rich Friends (1)–(3)** — targets **270–272**.
+**Money War (1)–(6)** — targets **273–278**.
 
-- Family QA: `qa/families/rich-friends-0270-0272.md` — PASS.
-- Alignment: **270→E268, 271→E269, 272→E270**.
-- Ledger evidence identifies House Bourgeois as the dominant financial endpoint behind the cult → indulgence → Old Testament flow.
-- Vikir still distinguishes the individual hidden threat from House Bourgeois as a whole.
-- Damien Bourgeois is the source example for auctioned meal access at roughly 100 kg of gold.
-- Cindywendy's Academy visit uses an “older sister” cover only.
-- Ballak contact remains missing while other jungle trade continues.
-- Cindywendy explicitly reports that the **head of House Bourgeois is a demon**.
-- Vikir needs a credible and interesting source of wealth rather than unexplained capital.
-- Winston Smith returns from sabbatical after surviving a mana rampage; Winter Sword Orwell carries an unexplained large scar.
-- Winston/Orwell remain a separate Academy mystery.
-- Dolores creates investment club **Oracle**; Pigi handles information analysis and Sinclaire administration/office work.
-- Dolores intends to remove Pigi and Sinclaire before the later dangerous phase.
-- Direct Fandom re-check remains robots-blocked; Winston/Orwell/Nouvelle Vague remain source-local pending direct access.
+- Family QA: `qa/families/money-war-0273-0278.md` — PASS.
+- Alignment: **273→E271 through 278→E276**.
+- Oracle's prediction-letter method is a probability filter, not genuine clairvoyance.
+- Pigi supplies financial-target research; Sinclaire handles mass correspondence/administration.
+- Cindywendy's western-jungle trade supplies the genuine investment payoff and credible wealth trail.
+- Vikir declines Oracle publicly while directing it covertly as Night Hound.
+- Dolores suspects Night Hound may be an Academy insider but refuses to use the Mirror of Truth on him.
+- Damien Bourgeois is chosen as an internal contact because he lost the family succession fight to Bartolomeo and now survives partly through Imperial service.
+- Oracle's party is intentionally excessive and partly debt-financed to force elite attention.
+- Sinan Saltsail / Puss in Boots / Bartolomeo / Juliet / Bahamut remain source-local forms pending direct Fandom access.
+- Damien uses an old Bahamut-derived pre-fusion sword system ancestral to Baskerville and can reach a fourth-form Sword Graduator attack.
+- Vikir defeats Damien but explicitly says he did not come to kill him.
+- Chapter278 ends with Damien's death wish exposed; the reason/payoff remains for the next family.
+- Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Money War (1)–(6)** — targets **273–278**, mapped **E271–E276**.
+**What Money Can't Buy (1)–(4)** — targets **279–282**, mapped **E277–E280**.
 
 Following family:
-- **279→E277 — What Money Can't Buy (1)**, continuing through target282 / E280.
+- **283→E281 — Time Flies (1)**.
 
 ## Exact next actions
 
-1. Read C273–C278 completely against E271–E276.
-2. Reconstruct and QA the full Money War family without importing target279 material early.
-3. Merge it.
-4. Immediately continue into What Money Can't Buy (1)–(4), targets279–282 / E277–E280.
+1. Read C279–C282 completely against E277–E280.
+2. Resolve Damien/Juliet payoff and Bourgeois internal information without importing Time Flies material early.
+3. Reconstruct and QA the full four-part family.
+4. Merge it.
+5. Immediately continue into Time Flies beginning target283.
