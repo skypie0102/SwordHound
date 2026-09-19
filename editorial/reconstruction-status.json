@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 338,
+  "accepted_chapters": 340,
   "staged_chapters": 0,
-  "next_chapter": 339,
+  "next_chapter": 341,
   "latest_accepted_family": {
-    "name": "The Mating Room",
-    "range": [
-      333,
-      338
-    ],
-    "family_qa": "qa/families/mating-room-0333-0338.md"
-  },
-  "next_title_family": {
     "name": "Trap",
     "range": [
       339,
       340
     ],
+    "family_qa": "qa/families/trap-0339-0340.md"
+  },
+  "next_title_family": {
+    "name": "Private Life",
+    "range": [
+      341,
+      342
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 341,
-    "following_title": "Private Life (1)",
-    "alignment_note": "339→E337, 340→E338; Private Life 341→E339 through 342→E340."
+    "following_family_starts": 343,
+    "following_title": null,
+    "alignment_note": "341→E339, 342→E340; determine target343+ complete family before acceptance."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -400,9 +400,16 @@
     335,
     336,
     337,
-    338
+    338,
+    339,
+    340
   ],
   "notes": [
+    "Chapters339-340 accepted as Trap (1)-(2), mapping E337-E338.",
+    "Lost Paradise weakens challengers through comfort, voluntary stat/candy spending, reluctance to leave, and emotionally manipulative outside-contact mechanics.",
+    "The Janet letter test is impossible under the altered timeline; Vikir infers memory/emotion-reading fabricated replies, but this remains his deduction rather than narrator-confirmed cosmology.",
+    "Dolores is the paired Floor10 resident and addresses Vikir as Choco at the family close; the mechanism behind her perception remains unresolved.",
+    "Next family Private Life verified targets341-342 / E339-E340; target343+ boundary must be determined before later acceptance.",
     "Chapters333-338 accepted as The Mating Room (1)-(6), mapping E331-E336; prior handoff boundary 333-336 was incomplete and corrected before acceptance.",
     "Dragon Majin laboratory mating-room mechanics are coercive specimen-breeding stages; production preserves source coercion without erotic embellishment.",
     "C334 post-window 'toad' slips are extraction drift; Giant Mantis identity controls.",
