@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — What Money Can't Buy (1)–(4) accepted
+
+**Current state:** 282 / 500 accepted; 0 staged; next Chapter 283.
+
+Completed targets **279–282** with mapping **E277–E280**.
+
+Key decisions: Juliet survived physically while her soul wandered; Pomeranian and the Wraith Tree enabled reconciliation with Romeo and Damien; Damien completes his bargain with Vikir; and Bartolomeo's two-hour sealed vault becomes the planned confrontation site.
+
+Family QA: `qa/families/what-money-cant-buy-0279-0282.md` — **PASS**.
+
+Next verified family: **283–290 — Power Inflation (1)–(8)**, mapping **E281–E288**. Targets284–285 share `source/chinese/chapters/284.txt`. Target291/E289 begins *The Successors (1)*.
+
 ## 2026-09-19 — Money War (1)–(6) accepted
 
 **Current state:** 278 / 500 accepted; 0 staged; next Chapter 279.
