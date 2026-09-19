@@ -1,0 +1,33 @@
+{
+  "chapter": 341,
+  "title": "Private Life (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Private Life",
+    "range": [
+      341,
+      342
+    ],
+    "family_qa_path": "qa/families/private-life-0341-0342.md",
+    "family_qa_sha": "16ec368c5a8b210a2b81391bf1434893f84147a1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/341.txt",
+    "primary_source_sha": "36d6b60a97e6600487661992945f1b87e4bf4559",
+    "english_reference_path": "source/chapters/chapter-339.xhtml",
+    "english_reference_sha": "40a3d680cae8e17a3f464c1ec99a1903cdcdfe79",
+    "draft_path": "manuscript/drafts/chapter-0341.md",
+    "draft_sha": "3b4cc4f4a71ef03e6816f4223e57ec3fd78ecb4a",
+    "qa_path": "qa/chapter-0341.md",
+    "qa_sha": "44cdfc6c8537972e1ecd5d2de4b0ef86dd6cfe5e",
+    "provenance_path": "editorial/provenance/chapter-0341.json",
+    "provenance_sha": "19595334237af081996977e6cefdaa50099b5a92"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Ballak-family material from target343 is imported."
+  ]
+}

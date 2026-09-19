@@ -1,0 +1,37 @@
+{
+  "chapter": 341,
+  "title": "Private Life (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Private Life",
+    "range": [
+      341,
+      342
+    ],
+    "family_qa_path": "qa/families/private-life-0341-0342.md",
+    "family_qa_sha": "16ec368c5a8b210a2b81391bf1434893f84147a1",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/341.txt",
+    "blob_sha": "36d6b60a97e6600487661992945f1b87e4bf4559",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-339.xhtml",
+    "blob_sha": "40a3d680cae8e17a3f464c1ec99a1903cdcdfe79",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0341.md",
+    "blob_sha": "3b4cc4f4a71ef03e6816f4223e57ec3fd78ecb4a"
+  },
+  "qa": {
+    "path": "qa/chapter-0341.md",
+    "blob_sha": "44cdfc6c8537972e1ecd5d2de4b0ef86dd6cfe5e",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused without false wiki claims.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
