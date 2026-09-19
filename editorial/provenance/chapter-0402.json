@@ -1,0 +1,38 @@
+{
+  "chapter": 402,
+  "title": "Black Tongue (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Black Tongue",
+    "range": [
+      399,
+      402
+    ],
+    "family_qa_path": "qa/families/black-tongue-0399-0402.md",
+    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/402.txt",
+    "blob_sha": "9b5e9abacddaacf09e8e876a64b81d4eb85fba7b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-400.xhtml",
+    "blob_sha": "256e3a7429855dcd98f9ff289fb5a8584242c30e",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0402.md",
+    "blob_sha": "ef307f0fe33fc6182a5424b3ac54bac6855cf28b"
+  },
+  "qa": {
+    "path": "qa/chapter-0402.md",
+    "blob_sha": "c4a6988f0a40393410d1ed7c96d8b0f77199d231",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "new_species_guard": "Copy-form leech larva is unknown even to Decarabia and is treated as a newly developed species, not a known demon."
+}

@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 398,
+  "accepted_count": 402,
   "staged_count": 0,
-  "next_chapter": 399,
+  "next_chapter": 403,
   "active_title_family": {
-    "name": "Black Tongue",
+    "name": "Jailbreaker",
     "range": [
-      399,
-      402
+      403,
+      406
     ],
-    "boundary_status": "verified complete: target399→E397 through target402→E400",
-    "following_family_starts": 403,
-    "following_title": "Jailbreaker (1)",
-    "alignment_note": "399→E397 through 402→E400; Jailbreaker targets403–406 / E401–E404."
+    "boundary_status": "verified complete: target403→E401 through target406→E404",
+    "following_family_starts": 407,
+    "following_title": null,
+    "alignment_note": "403→E401 through 406→E404; determine full next family boundary before acceptance."
   },
   "chapters": [
     {
@@ -5587,6 +5587,62 @@
       "acceptance": "qa/acceptance/chapter-0398.json",
       "acceptance_sha": "7fe448017c80f08aa2f623cbabc5de11c6573d56",
       "family_qa": "qa/families/dead-man-walking-0396-0398.md"
+    },
+    {
+      "chapter": 399,
+      "title": "Black Tongue (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/399.txt",
+      "english_mtl_reference": "source/chapters/chapter-397.xhtml",
+      "draft": "manuscript/drafts/chapter-0399.md",
+      "qa": "qa/chapter-0399.md",
+      "provenance": "editorial/provenance/chapter-0399.json",
+      "acceptance": "qa/acceptance/chapter-0399.json",
+      "acceptance_sha": "cedabeae2d881475633e561b03e608506fe7b5ba",
+      "family_qa": "qa/families/black-tongue-0399-0402.md"
+    },
+    {
+      "chapter": 400,
+      "title": "Black Tongue (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/400.txt",
+      "english_mtl_reference": "source/chapters/chapter-398.xhtml",
+      "draft": "manuscript/drafts/chapter-0400.md",
+      "qa": "qa/chapter-0400.md",
+      "provenance": "editorial/provenance/chapter-0400.json",
+      "acceptance": "qa/acceptance/chapter-0400.json",
+      "acceptance_sha": "c44d0e3c23f3271eaac96c79f4be76b8e4661d87",
+      "family_qa": "qa/families/black-tongue-0399-0402.md"
+    },
+    {
+      "chapter": 401,
+      "title": "Black Tongue (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/401.txt",
+      "english_mtl_reference": "source/chapters/chapter-399.xhtml",
+      "draft": "manuscript/drafts/chapter-0401.md",
+      "qa": "qa/chapter-0401.md",
+      "provenance": "editorial/provenance/chapter-0401.json",
+      "acceptance": "qa/acceptance/chapter-0401.json",
+      "acceptance_sha": "5bbbc999e6e7195e5c1135ab0620c1694876db9d",
+      "family_qa": "qa/families/black-tongue-0399-0402.md"
+    },
+    {
+      "chapter": 402,
+      "title": "Black Tongue (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/402.txt",
+      "english_mtl_reference": "source/chapters/chapter-400.xhtml",
+      "draft": "manuscript/drafts/chapter-0402.md",
+      "qa": "qa/chapter-0402.md",
+      "provenance": "editorial/provenance/chapter-0402.json",
+      "acceptance": "qa/acceptance/chapter-0402.json",
+      "acceptance_sha": "240a63891d32c3c93c450d0166db1409452e4211",
+      "family_qa": "qa/families/black-tongue-0399-0402.md"
     }
   ]
 }
