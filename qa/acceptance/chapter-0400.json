@@ -1,0 +1,33 @@
+{
+  "chapter": 400,
+  "title": "Black Tongue (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Black Tongue",
+    "range": [
+      399,
+      402
+    ],
+    "family_qa_path": "qa/families/black-tongue-0399-0402.md",
+    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/400.txt",
+    "primary_source_sha": "68ccd549550e59795b09c0918a15f453e8988d15",
+    "english_reference_path": "source/chapters/chapter-398.xhtml",
+    "english_reference_sha": "7e30c86e0076796345964bd39683b31cdacaa45b",
+    "draft_path": "manuscript/drafts/chapter-0400.md",
+    "draft_sha": "e48bc7e4c4600404b34c438200cfc14c7cb92310",
+    "qa_path": "qa/chapter-0400.md",
+    "qa_sha": "7450bf99bb6f7d16007a6b68a0eec2b023fc0cca",
+    "provenance_path": "editorial/provenance/chapter-0400.json",
+    "provenance_sha": "a35af5e5c0873bd8b811f238683882462f9290e6"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+    "No Jailbreaker material from target403 is imported."
+  ]
+}
