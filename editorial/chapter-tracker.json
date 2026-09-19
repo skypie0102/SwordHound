@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 272,
+  "accepted_count": 278,
   "staged_count": 0,
-  "next_chapter": 273,
+  "next_chapter": 279,
   "active_title_family": {
-    "name": "Money War",
+    "name": "What Money Can't Buy",
     "range": [
-      273,
-      278
+      279,
+      282
     ],
-    "boundary_status": "verified complete: target273→E271 through target278→E276",
-    "following_family_starts": 279,
-    "following_title": "What Money Can't Buy (1)",
-    "alignment_note": "273→E271 through 278→E276; 279→E277 begins What Money Can't Buy (1)"
+    "boundary_status": "verified complete: target279→E277 through target282→E280",
+    "following_family_starts": 283,
+    "following_title": "Time Flies (1)",
+    "alignment_note": "279→E277 through 282→E280; 283→E281 begins Time Flies (1)"
   },
   "chapters": [
     {
@@ -3823,6 +3823,90 @@
       "acceptance": "qa/acceptance/chapter-0272.json",
       "acceptance_sha": "29b2f80cd3c767c83dc70a886f44664e044fb02f",
       "family_qa": "qa/families/rich-friends-0270-0272.md"
+    },
+    {
+      "chapter": 273,
+      "title": "Money War (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/273.txt",
+      "english_mtl_reference": "source/chapters/chapter-271.xhtml",
+      "draft": "manuscript/drafts/chapter-0273.md",
+      "qa": "qa/chapter-0273.md",
+      "provenance": "editorial/provenance/chapter-0273.json",
+      "acceptance": "qa/acceptance/chapter-0273.json",
+      "acceptance_sha": "a4fc48582dbdbd08f00cef056d00780c9080c53f",
+      "family_qa": "qa/families/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 274,
+      "title": "Money War (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/274.txt",
+      "english_mtl_reference": "source/chapters/chapter-272.xhtml",
+      "draft": "manuscript/drafts/chapter-0274.md",
+      "qa": "qa/chapter-0274.md",
+      "provenance": "editorial/provenance/chapter-0274.json",
+      "acceptance": "qa/acceptance/chapter-0274.json",
+      "acceptance_sha": "e40b96744ad049ccf05c0bf6ba61b1af363a69d5",
+      "family_qa": "qa/families/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 275,
+      "title": "Money War (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/275.txt",
+      "english_mtl_reference": "source/chapters/chapter-273.xhtml",
+      "draft": "manuscript/drafts/chapter-0275.md",
+      "qa": "qa/chapter-0275.md",
+      "provenance": "editorial/provenance/chapter-0275.json",
+      "acceptance": "qa/acceptance/chapter-0275.json",
+      "acceptance_sha": "f63ac38b9348d7523c95f6355e943ce4c36ddf29",
+      "family_qa": "qa/families/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 276,
+      "title": "Money War (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/276.txt",
+      "english_mtl_reference": "source/chapters/chapter-274.xhtml",
+      "draft": "manuscript/drafts/chapter-0276.md",
+      "qa": "qa/chapter-0276.md",
+      "provenance": "editorial/provenance/chapter-0276.json",
+      "acceptance": "qa/acceptance/chapter-0276.json",
+      "acceptance_sha": "7d715f363a36603d9df6cb49362779f2c38cba88",
+      "family_qa": "qa/families/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 277,
+      "title": "Money War (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/277.txt",
+      "english_mtl_reference": "source/chapters/chapter-275.xhtml",
+      "draft": "manuscript/drafts/chapter-0277.md",
+      "qa": "qa/chapter-0277.md",
+      "provenance": "editorial/provenance/chapter-0277.json",
+      "acceptance": "qa/acceptance/chapter-0277.json",
+      "acceptance_sha": "bb5bc88c1c4a814c4b370bb8e3a78d52be105b36",
+      "family_qa": "qa/families/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 278,
+      "title": "Money War (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/278.txt",
+      "english_mtl_reference": "source/chapters/chapter-276.xhtml",
+      "draft": "manuscript/drafts/chapter-0278.md",
+      "qa": "qa/chapter-0278.md",
+      "provenance": "editorial/provenance/chapter-0278.json",
+      "acceptance": "qa/acceptance/chapter-0278.json",
+      "acceptance_sha": "678932b80645727b55a17ad944d872026b6c6603",
+      "family_qa": "qa/families/money-war-0273-0278.md"
     }
   ]
 }
