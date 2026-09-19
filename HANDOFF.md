@@ -1,49 +1,41 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 381 / 500  
+**Accepted:** 384 / 500  
 **Staged:** 0  
-**Next target:** 382
+**Next target:** 385
 
 ## Latest accepted family
 
-**The Hounds of Nouvelle Vague (1)–(5)** — targets **377–381**.
+**Kennel (1)–(3)** — targets **382–384**.
 
-- Family QA: `qa/families/hounds-nouvelle-vague-0377-0381.md` — PASS.
-- Alignment: **377→E375 through 381→E379**.
-- Family boundary corrected from stale four-part assumption to five complete parts.
-- A six-month-old damaged newspaper confirms attacks on Usher / Donquixote / Leviathan and emerging gates/dungeons; Vikir treats it as stale but urgent evidence.
-- Sakkuth’s Queen / Boss / “Him” remain unresolved.
-- D'Ordume’s Poseidon-related guard redeployment creates the tactical gap used for the breakout.
-- Sakkuth’s abandonment spiral triggers the Level Eight plague riot.
-- Kirko Grimm’s birth from the old prisoner-on-guard sexual-assault incident is source-timed to target379 and preserved without embellishment.
-- Garam Nord dies protecting Kirko; Vikir did not directly cause his death and regrets the unintended result.
-- Sakkuth’s sexual threat toward unconscious Kirko is interrupted before contact.
-- Target381 uses Chinese **green marker/ink**, not witness “green vodka.”
-- Target381 local/witness **Basilisk regeneration** drift is neutralized to generic regeneration so accepted **Immortality — Gargoyle (S)** continuity remains intact.
-- The Worn and Torn Newbie joke follows Chinese “side story,” not witness “movie.”
-- Vikir obtains Garam’s guard uniform/rank and hides the name tag; Kirko recognizes only “Garam,” not Vikir.
-- Family ends with Vikir penetrating toward Level Five.
+- Family QA: `qa/families/kennel-0382-0384.md` — PASS.
+- Alignment: **382→E380, 383→E381, 384→E382**.
+- Gulper / Elevator Eels are the only controlled return route to the surface; Vikir releases six only as distractions and deliberately postpones escape.
+- **Flubber** is the self-healing mucus barrier holding back the deep ocean.
+- **BDISSEM** is revealed as the brigadier-general dryad / Ent whose living body produces the mana/strength-suppressing restraints.
+- BDISSEM is a seaweed-line dryad and becomes stronger in concentrated deep-sea saltwater.
+- BDISSEM also converts sulfur / steam / toxic gases into oxygen, making her essential to Nouvelle Vague life support.
+- Orca’s surface absence remains tied only to a broad emergency and increased serious-offender traffic.
+- Starvation Drought + Black Sun supplies the underwater suction attack.
+- Madam Eight-Legs venom leaves BDISSEM critically poisoned at family end; do not import her later fate early.
 
 ## Next verified family
 
-**Kennel (1)–(3)** — targets **382–384 / E380–E382**.
+**The Rotten Dog of Nouvelle Vague (1)–(5)** — targets **385–389 / E383–E387**.
+
+- Targets **385–386** share Chinese raw `source/chinese/chapters/385.txt`.
+- The current exception-table rows are still generic; inspect the full shared raw against E383/E384 and replace them with the verified split before drafting.
 
 Following:
-- **The Rotten Dog of Nouvelle Vague (1)–(5)** — targets **385–389 / E383–E387**.
-- Target385/386 share Chinese raw `385.txt`; inspect/update the exception table before drafting.
-
-## Main-branch reconciliation
-
-- Reconciled against accepted tracker / acceptance / family-QA evidence at main commit `e519e2aca60341592d6ea68c1f2f4d6f2fb1e964`.
-- Authoritative accepted checkpoint remains **381 / 500**, staged **0**, next target **382**.
-- README accepted-evidence/current-checkpoint text was updated from the stale Chapter235 state.
-- Superseded four-part Hounds references were corrected to the accepted five-part **377–381 / E375–E379** boundary in live metadata/history.
-- No accepted chapter prose, QA verdict, provenance, or acceptance record was changed by this reconciliation.
+- **The Worst Torture (1)–(6)** — targets **390–395 / E388–E393**.
+- Target396 begins **Dead Man Walking (1)**.
 
 ## Exact next actions
 
-1. Read C382–C384 completely against E380–E382.
-2. Reconstruct and QA Kennel (1)–(3).
-3. Merge it.
-4. Immediately continue into The Rotten Dog of Nouvelle Vague (1)–(5), targets385–389 / E383–E387.
+1. Read shared C385 completely and align its two target segments to E383/E384.
+2. Update `source/chinese/chapter-exceptions.tsv` with the defensible 385/386 seam.
+3. Read C387–C389 and E385–E387 completely.
+4. Reconstruct and QA The Rotten Dog of Nouvelle Vague (1)–(5).
+5. Merge it.
+6. Immediately continue into The Worst Torture (1)–(6), targets390–395 / E388–E393.
