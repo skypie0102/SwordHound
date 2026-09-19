@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 374,
+  "accepted_chapters": 376,
   "staged_chapters": 0,
-  "next_chapter": 375,
+  "next_chapter": 377,
   "latest_accepted_family": {
-    "name": "Sucker Shark",
-    "range": [
-      373,
-      374
-    ],
-    "family_qa": "qa/families/sucker-shark-0373-0374.md"
-  },
-  "next_title_family": {
     "name": "Poseidon",
     "range": [
       375,
       376
     ],
+    "family_qa": "qa/families/poseidon-0375-0376.md"
+  },
+  "next_title_family": {
+    "name": "The Hounds of Nouvelle Vague",
+    "range": [
+      377,
+      380
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 377,
-    "following_title": "The Hounds of Nouvelle Vague (1)",
-    "alignment_note": "375→E373, 376→E374; 377→E375 begins The Hounds of Nouvelle Vague."
+    "following_family_starts": 381,
+    "following_title": null,
+    "alignment_note": "377→E375 through 380→E378; verify target381 family next."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -436,9 +436,16 @@
     371,
     372,
     373,
-    374
+    374,
+    375,
+    376
   ],
   "notes": [
+    "Chapters375-376 accepted as Poseidon (1)-(2), mapping E373-E374.",
+    "Poseidon is a five-meter blue egg-like ancient weapon that absorbs impact and grows from it.",
+    "Bastille fears dormant-volcano and surface-climate consequences; D'Ordume suppresses a full resurvey for deadline, budget, and promotion reasons.",
+    "D'Ordume does not understand Poseidon's true function.",
+    "Next family The Hounds of Nouvelle Vague verified targets377-380 / E375-E378.",
     "Chapters373-374 accepted as Sucker Shark (1)-(2), mapping E371-E372.",
     "Poseidon is explicitly the ancient human counterweapon to the Ten Corpses' Long Rain of Terror.",
     "Sakkuth de Leviathan coerces Garam Nord by threatening Kirko Grimm; Kirko/Garam romance is not narrator-confirmed.",
