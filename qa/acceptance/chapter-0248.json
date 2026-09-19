@@ -1,0 +1,48 @@
+{
+  "chapter": 248,
+  "title": "Survival Contest (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/248.txt",
+    "primary_source_sha": "b8ca5935e21992596579d6773f2960232c3b1b02",
+    "english_reference_path": "source/chapters/chapter-246.xhtml",
+    "english_reference_sha": "7b0116d6be1fa8a6d9b32515afa7369e764cea25",
+    "draft_path": "manuscript/drafts/chapter-0248.md",
+    "draft_sha": "0d72f1a2c0717384a39d82c799cca5b062304cf1",
+    "qa_path": "qa/chapter-0248.md",
+    "qa_sha": "72486e932b358957283978db57bc39a5277a3f48",
+    "provenance_path": "editorial/provenance/chapter-0248.json",
+    "provenance_sha": "4b04ad83d81f00977466efa160d98e89fe51c502"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Dolores L. Quovadis",
+    "Granola Leviathan",
+    "Bakilaga Juragio",
+    "Oraorus Hohenheim",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Le Rouge et Le Noir Mountain",
+    "Snub-nosed",
+    "Hohenheim of a Thousand Flames"
+  ],
+  "documented_limits": [
+    "Bakilaga is newly confirmed Low Sword Graduator; this is not retroactive to earlier chapters.",
+    "Bakilaga is not eliminated before Hohenheim eats the stew."
+  ],
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+}

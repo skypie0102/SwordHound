@@ -1,0 +1,48 @@
+{
+  "chapter": 246,
+  "title": "Survival Contest (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "family_qa_path": "qa/families/survival-contest-0245-0249.md",
+    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/246.txt",
+    "primary_source_sha": "040f3638a11fa3f5e028302678873975a897823f",
+    "english_reference_path": "source/chapters/chapter-244.xhtml",
+    "english_reference_sha": "c505766d4fe4eee5980b042626d46f6e31220c9d",
+    "draft_path": "manuscript/drafts/chapter-0246.md",
+    "draft_sha": "c7d0c8408ba91cd7a289612058305deca15f4ae2",
+    "qa_path": "qa/chapter-0246.md",
+    "qa_sha": "d4ea1202f5e24cbb54ae13d07b37dd8d457c0f33",
+    "provenance_path": "editorial/provenance/chapter-0246.json",
+    "provenance_sha": "f571bcf0d5d60d0584b0b20d0fb09a89ed89fcae"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Dolores L. Quovadis",
+    "Granola Leviathan",
+    "Bakilaga Juragio",
+    "Oraorus Hohenheim",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Le Rouge et Le Noir Mountain",
+    "Snub-nosed",
+    "Hohenheim of a Thousand Flames"
+  ],
+  "documented_limits": [
+    "Granola does not learn Vikir’s Ballak/Baskerville identity.",
+    "Environmental survival details follow Chinese where the English witness drifts."
+  ],
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+}
