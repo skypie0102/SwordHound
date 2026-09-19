@@ -1,3 +1,19 @@
+## Money War additions — Chapters 273–278
+
+- **Money War** — accepted six-part family, targets273–278 / witnesses E271–E276.
+- **Oracle prediction method** — repeated split predictions create a shrinking audience that sees only correct calls; not genuine clairvoyance.
+- **Oracle wealth trail** — final investor money is placed into Cindywendy's western-jungle trade, producing genuine returns and a credible provenance.
+- **Mirror of Truth restraint** — Dolores suspects Night Hound may be an Academy insider but refuses to expose him with the artifact.
+- **Bartolomeo Bourgeois** — source-local current family-head form; defeated younger-brother rival Damien in succession. Direct Fandom confirmation unavailable.
+- **Damien Bourgeois political position** — Imperial Money Manufacturing Bureau director and outside Bourgeois business figure; Imperial service functions partly as survival/exile after losing succession.
+- **Sinan Saltsail** — source-local northern salt magnate tied maternally to Donquixote; direct Fandom confirmation unavailable.
+- **Puss in Boots** — Vikir's source-local cat-mask servant disguise for the Oracle party.
+- **Juliet Bourgeois** — source-local name for Damien's deceased daughter; public story remains scandal followed by poison until source reveals more.
+- **Bahamut** — source-local old iron-blooded sword family absorbed into Baskerville; Damien uses a pre-fusion descendant style.
+- **Submerged Deep-Sea Fish Style** — source-local Bahamut-derived sword technique recognized by Vikir as ancestral to later Baskerville fusion.
+- **What Money Can't Buy** — next family targets279–282 / E277–E280.
+- **Time Flies** — begins target283 / E281.
+
 ## Rich Friends additions — Chapters 270–272
 
 - **Rich Friends** — accepted three-part family, targets270–272 / witnesses E268–E270.

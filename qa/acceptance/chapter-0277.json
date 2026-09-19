@@ -1,0 +1,33 @@
+{
+  "chapter": 277,
+  "title": "Money War (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Money War",
+    "range": [
+      273,
+      278
+    ],
+    "family_qa_path": "qa/families/money-war-0273-0278.md",
+    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/277.txt",
+    "primary_source_sha": "18fb6d58f321d69b08cf3934f79fc3e2213b14f2",
+    "english_reference_path": "source/chapters/chapter-275.xhtml",
+    "english_reference_sha": "eb33e3fbb03625ce00f9371e7a22b936b301e272",
+    "draft_path": "manuscript/drafts/chapter-0277.md",
+    "draft_sha": "06ab98be7725fa579bdb1bc4d400a7c91d64c056",
+    "qa_path": "qa/chapter-0277.md",
+    "qa_sha": "668f78316d31232be5fead6924f7345db587a2e6",
+    "provenance_path": "editorial/provenance/chapter-0277.json",
+    "provenance_sha": "06dfc7300416475cafe422f4fbc29b52cd885b56"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No What Money Can't Buy material from target279 is imported."
+  ]
+}

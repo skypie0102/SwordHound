@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Money War (1)–(6) accepted
+
+**Current state:** 278 / 500 accepted; 0 staged; next Chapter 279.
+
+Completed targets **273–278** with mapping **E271–E276**.
+
+Key decisions: Oracle's apparent predictive streak is probability filtering; Cindywendy's trade creates real returns; Damien Bourgeois is the chosen internal contact; the party is a deliberate excess trap; Damien uses an old Bahamut-derived pre-fusion sword style; and Vikir defeats but does not intend to kill him.
+
+Family QA: `qa/families/money-war-0273-0278.md` — **PASS**.
+
+Next verified family: **279–282 — What Money Can't Buy (1)–(4)**, mapping **E277–E280**. Target283/E281 begins *Time Flies (1)*.
+
 ## 2026-09-19 — Rich Friends (1)–(3) accepted
 
 **Current state:** 272 / 500 accepted; 0 staged; next Chapter 273.
