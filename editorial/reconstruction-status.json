@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 358,
+  "accepted_chapters": 362,
   "staged_chapters": 0,
-  "next_chapter": 359,
+  "next_chapter": 363,
   "latest_accepted_family": {
-    "name": "Crime and Punishment",
-    "range": [
-      356,
-      358
-    ],
-    "family_qa": "qa/families/crime-punishment-0356-0358.md"
-  },
-  "next_title_family": {
     "name": "Voluntary Escort",
     "range": [
       359,
       362
     ],
+    "family_qa": "qa/families/voluntary-escort-0359-0362.md"
+  },
+  "next_title_family": {
+    "name": "Ghost Castle of the Ultra-Deep Sea",
+    "range": [
+      363,
+      365
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 363,
-    "following_title": "Ghost Castle of the Ultra-Deep Sea (1)",
-    "alignment_note": "359→E357 through 362→E360; 363→E361 begins Ghost Castle of the Ultra-Deep Sea (1)."
+    "following_family_starts": 366,
+    "following_title": "The Underground Extension Construction (1)",
+    "alignment_note": "363→E361 through 365→E363; 366→E364 begins Underground Extension Construction."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -420,9 +420,20 @@
     355,
     356,
     357,
-    358
+    358,
+    359,
+    360,
+    361,
+    362
   ],
   "notes": [
+    "Chapters359-362 accepted as Voluntary Escort (1)-(4), mapping E357-E360.",
+    "Pedro Donquixote / Usher P. Isolde / Thomas de Leviathan are demon-aligned escorts; target361 reveals masters Passamonte/Madeline/Hobbes and source-local true names Chimeries/Andrealphus/Flauros.",
+    "Vikir breaks BDISSEM restraints via post-Hell-Tree title interaction; material composition remains unknown.",
+    "Banshee/Mozgus/Lovebad urge escape; Isabella reveals Baskerville's secret order to free Vikir even if the convoy must sink.",
+    "Vikir refuses escape and states he waited nineteen years to enter Nouvelle Vague.",
+    "Target362 ends with Decarabia shared vision showing Nouvelle Vague at the bottom of the sea.",
+    "Next family Ghost Castle of the Ultra-Deep Sea verified targets363-365 / E361-E363; Underground Extension Construction follows targets366-368 / E364-E366.",
     "Chapters356-358 accepted as Crime and Punishment (1)-(3), mapping E354-E356; local Chinese part labels are offset by +1.",
     "Dolores's initial sentence-reduction plan is redirected by Camus toward stopping the Gate of Destruction.",
     "Seven-family jury splits 4 for mitigation / 3 for harshest punishment; Vikir identifies the three hostile jurors as demon-aligned.",
