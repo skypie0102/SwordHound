@@ -374,9 +374,7 @@ Then—
 
 went pale.
 
-Hundreds.
-
-Maybe more.
+A vast colony.
 
 “Sir.”
 
