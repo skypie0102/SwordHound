@@ -1,0 +1,41 @@
+{
+  "chapter": 406,
+  "title": "Jailbreaker (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/406.txt",
+    "blob_sha": "cf9c66abda6a6419c4efd299d17d37c2d6e4aab1",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-404.xhtml",
+    "blob_sha": "784afb1f64d72fc3ac23b4d7ed472eccbec2b2d0",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0406.md",
+    "blob_sha": "61a6faebccc3cee2d72e9092cf6ab283b249a772"
+  },
+  "qa": {
+    "path": "qa/chapter-0406.md",
+    "blob_sha": "b69cf82c5c462f8195addf2cd58a34858a7d0ba6",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were explicitly marked unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "continuity_guards": [
+    "Local regeneration wording does not override Beelzebub Slot2 Immortality — Gargoyle (S).",
+    "Black Sun is Baskerville Eighth Form based on eight fangs + accepted chronology."
+  ]
+}
