@@ -1,0 +1,71 @@
+{
+  "chapter": 230,
+  "title": "Tuition (6)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/230.txt",
+    "blob_sha": "4cf760cce3e83f9beec0708adc1dc163ed00934c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-228.xhtml",
+    "blob_sha": "f34b4f8785d27d42766c0c59061f2425889bed85",
+    "target_alignment": 230,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0230.md",
+    "blob_sha": "8d73df91ed6cfbaffac317e851d5a0ec434eca3b"
+  },
+  "qa": {
+    "path": "qa/chapter-0230.md",
+    "blob_sha": "11672548c6eb255bcd1e09e7d1d4d64214b678cd",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "poison_gnoll",
+      "final": "Normalize raw 毒变怪 to Poison Gnoll; Danger Rating A",
+      "basis": "Chinese C230 + aligned witness"
+    },
+    {
+      "topic": "baby_madam",
+      "final": "Baby Madam kills Poison Gnoll with one bite",
+      "basis": "Chinese C230"
+    },
+    {
+      "topic": "cache",
+      "final": "Gnoll den contains hidden unnumbered gold used as a natural vault",
+      "basis": "Chinese C230"
+    },
+    {
+      "topic": "bourgeois_damien",
+      "final": "Bourgeois Damien serial-number law links coins to pre-distribution/unregistered currency",
+      "basis": "Chinese C230"
+    },
+    {
+      "topic": "bank_link",
+      "final": "Royal Imperial Bank robbery connection remains Vikir inference",
+      "basis": "Chinese C230"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}
