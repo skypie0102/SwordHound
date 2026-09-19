@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 342,
+  "accepted_count": 347,
   "staged_count": 0,
-  "next_chapter": 343,
+  "next_chapter": 348,
   "active_title_family": {
-    "name": "Ballak",
+    "name": "Key man",
     "range": [
-      343,
-      347
+      348,
+      350
     ],
-    "boundary_status": "verified complete: target343→E341 through target347→E345 despite noisy Chinese title drift",
-    "following_family_starts": 348,
-    "following_title": "Key man (1)",
-    "alignment_note": "343→E341 Ballak (1), 344→E342 Ballak (2), 345→E343 Ballak (3), 346→E344 Ballak (4), 347→E345 Ballak (5); 348→E346 begins Key man (1)."
+    "boundary_status": "verified complete: target348→E346 through target350→E348",
+    "following_family_starts": 351,
+    "following_title": "Outside the Tower (1)",
+    "alignment_note": "348→E346 Key man (1), 349→E347 Key man (2), 350→E348 Key man (3); target351→E349 begins Outside the Tower (1), with Chinese raw 351.txt declared combined 351+352 and requiring pair-boundary verification."
   },
   "chapters": [
     {
@@ -4803,6 +4803,76 @@
       "acceptance": "qa/acceptance/chapter-0342.json",
       "acceptance_sha": "abfdbe422d2afbaf7c321761e9ccc491bb22500d",
       "family_qa": "qa/families/private-life-0341-0342.md"
+    },
+    {
+      "chapter": 343,
+      "title": "Ballak (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/343.txt",
+      "english_mtl_reference": "source/chapters/chapter-341.xhtml",
+      "draft": "manuscript/drafts/chapter-0343.md",
+      "qa": "qa/chapter-0343.md",
+      "provenance": "editorial/provenance/chapter-0343.json",
+      "acceptance": "qa/acceptance/chapter-0343.json",
+      "acceptance_sha": "73df0cbea7ff8e080b71a04770d91ad9ab906214",
+      "family_qa": "qa/families/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 344,
+      "title": "Ballak (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/344.txt",
+      "english_mtl_reference": "source/chapters/chapter-342.xhtml",
+      "draft": "manuscript/drafts/chapter-0344.md",
+      "qa": "qa/chapter-0344.md",
+      "provenance": "editorial/provenance/chapter-0344.json",
+      "acceptance": "qa/acceptance/chapter-0344.json",
+      "acceptance_sha": "fb76412dea8e444b07d75ce5a919309907dfce3c",
+      "family_qa": "qa/families/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 345,
+      "title": "Ballak (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/345.txt",
+      "english_mtl_reference": "source/chapters/chapter-343.xhtml",
+      "draft": "manuscript/drafts/chapter-0345.md",
+      "qa": "qa/chapter-0345.md",
+      "provenance": "editorial/provenance/chapter-0345.json",
+      "acceptance": "qa/acceptance/chapter-0345.json",
+      "acceptance_sha": "c7912b85ed18143fe2fec82a3a61d3fbfc3f44df",
+      "family_qa": "qa/families/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 346,
+      "title": "Ballak (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/346.txt",
+      "english_mtl_reference": "source/chapters/chapter-344.xhtml",
+      "draft": "manuscript/drafts/chapter-0346.md",
+      "qa": "qa/chapter-0346.md",
+      "provenance": "editorial/provenance/chapter-0346.json",
+      "acceptance": "qa/acceptance/chapter-0346.json",
+      "acceptance_sha": "6fb40678d36a1ea8654e67241b55945f1664c848",
+      "family_qa": "qa/families/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 347,
+      "title": "Ballak (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/347.txt",
+      "english_mtl_reference": "source/chapters/chapter-345.xhtml",
+      "draft": "manuscript/drafts/chapter-0347.md",
+      "qa": "qa/chapter-0347.md",
+      "provenance": "editorial/provenance/chapter-0347.json",
+      "acceptance": "qa/acceptance/chapter-0347.json",
+      "acceptance_sha": "8fa0ce45372cfe0635f0eed1ffea33f23b7c9408",
+      "family_qa": "qa/families/ballak-0343-0347.md"
     }
   ]
 }
