@@ -1,0 +1,37 @@
+{
+  "chapter": 283,
+  "title": "Power Inflation (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/283.txt",
+    "blob_sha": "0005bf208b9ac9f4eb3d3286be4965d5556e9a24",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-281.xhtml",
+    "blob_sha": "072e4288d1954915ff6bc7c50edb4404408bc796",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0283.md",
+    "blob_sha": "1d4a9bd0b35d9c81a230ef0bb5cbc7fb59efe2f5"
+  },
+  "qa": {
+    "path": "qa/chapter-0283.md",
+    "blob_sha": "e296c20769a9216a4874cf4f0e1caefb1cc7caa3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
