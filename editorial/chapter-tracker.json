@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 282,
+  "accepted_count": 290,
   "staged_count": 0,
-  "next_chapter": 283,
+  "next_chapter": 291,
   "active_title_family": {
-    "name": "Power Inflation",
+    "name": "The Successors",
     "range": [
-      283,
-      290
+      291,
+      292
     ],
-    "boundary_status": "verified complete: target283→E281 through target290→E288; targets284-285 share Chinese raw 284.txt",
-    "following_family_starts": 291,
-    "following_title": "The Successors (1)",
-    "alignment_note": "283→E281, 284→E282, 285→E283, 286→E284, 287→E285, 288→E286, 289→E287, 290→E288; 291→E289 begins The Successors (1)"
+    "boundary_status": "verified complete: target291→E289 through target292→E290",
+    "following_family_starts": 293,
+    "following_title": "Confessions (1)",
+    "alignment_note": "291→E289 The Successors (1), 292→E290 The Successors (2); 293→E291 begins Confessions (1), continuing through target295→E293."
   },
   "chapters": [
     {
@@ -3963,6 +3963,118 @@
       "acceptance": "qa/acceptance/chapter-0282.json",
       "acceptance_sha": "993225663138eb44b9265b7761e5a3fc37b41bbe",
       "family_qa": "qa/families/what-money-cant-buy-0279-0282.md"
+    },
+    {
+      "chapter": 283,
+      "title": "Power Inflation (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/283.txt",
+      "english_mtl_reference": "source/chapters/chapter-281.xhtml",
+      "draft": "manuscript/drafts/chapter-0283.md",
+      "qa": "qa/chapter-0283.md",
+      "provenance": "editorial/provenance/chapter-0283.json",
+      "acceptance": "qa/acceptance/chapter-0283.json",
+      "acceptance_sha": "1e02d73d18344df5f6b1c3575568d5fa9f1bc200",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 284,
+      "title": "Power Inflation (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/284.txt",
+      "english_mtl_reference": "source/chapters/chapter-282.xhtml",
+      "draft": "manuscript/drafts/chapter-0284.md",
+      "qa": "qa/chapter-0284.md",
+      "provenance": "editorial/provenance/chapter-0284.json",
+      "acceptance": "qa/acceptance/chapter-0284.json",
+      "acceptance_sha": "5e2968058a1d54009c17d886986f913c9b006300",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 285,
+      "title": "Power Inflation (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/284.txt",
+      "english_mtl_reference": "source/chapters/chapter-283.xhtml",
+      "draft": "manuscript/drafts/chapter-0285.md",
+      "qa": "qa/chapter-0285.md",
+      "provenance": "editorial/provenance/chapter-0285.json",
+      "acceptance": "qa/acceptance/chapter-0285.json",
+      "acceptance_sha": "8b21f56b23712674b46a5bbaf4cfddb73f26f38e",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 286,
+      "title": "Power Inflation (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/286.txt",
+      "english_mtl_reference": "source/chapters/chapter-284.xhtml",
+      "draft": "manuscript/drafts/chapter-0286.md",
+      "qa": "qa/chapter-0286.md",
+      "provenance": "editorial/provenance/chapter-0286.json",
+      "acceptance": "qa/acceptance/chapter-0286.json",
+      "acceptance_sha": "aa1608b6e420156c465f811f0be0abb10f3a9a38",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 287,
+      "title": "Power Inflation (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/287.txt",
+      "english_mtl_reference": "source/chapters/chapter-285.xhtml",
+      "draft": "manuscript/drafts/chapter-0287.md",
+      "qa": "qa/chapter-0287.md",
+      "provenance": "editorial/provenance/chapter-0287.json",
+      "acceptance": "qa/acceptance/chapter-0287.json",
+      "acceptance_sha": "ebbc21a204b60f3f379a54b7024d3e6859aa3b2e",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 288,
+      "title": "Power Inflation (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/288.txt",
+      "english_mtl_reference": "source/chapters/chapter-286.xhtml",
+      "draft": "manuscript/drafts/chapter-0288.md",
+      "qa": "qa/chapter-0288.md",
+      "provenance": "editorial/provenance/chapter-0288.json",
+      "acceptance": "qa/acceptance/chapter-0288.json",
+      "acceptance_sha": "9eacde52320d6e08e1f08235858ccc90895e62d4",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 289,
+      "title": "Power Inflation (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/289.txt",
+      "english_mtl_reference": "source/chapters/chapter-287.xhtml",
+      "draft": "manuscript/drafts/chapter-0289.md",
+      "qa": "qa/chapter-0289.md",
+      "provenance": "editorial/provenance/chapter-0289.json",
+      "acceptance": "qa/acceptance/chapter-0289.json",
+      "acceptance_sha": "cb0ee11f56103fd35ab14eef009f2ab71e0131f2",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 290,
+      "title": "Power Inflation (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/290.txt",
+      "english_mtl_reference": "source/chapters/chapter-288.xhtml",
+      "draft": "manuscript/drafts/chapter-0290.md",
+      "qa": "qa/chapter-0290.md",
+      "provenance": "editorial/provenance/chapter-0290.json",
+      "acceptance": "qa/acceptance/chapter-0290.json",
+      "acceptance_sha": "55f3634ca2d5f59661a296c85553a40e4c3ffbd7",
+      "family_qa": "qa/families/power-inflation-0283-0290.md"
     }
   ]
 }
