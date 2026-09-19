@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Suspicion (1)–(2) accepted
+
+**Current state:** 235 / 500 accepted; 0 staged; next Chapter 236.
+
+Completed targets 234–235 with mapping **234→E232, 235→E233**.
+
+Key decisions: Dolores tracks Vikir's dark/high wall-facing demerit route, sees his unusually sparse room, and learns that Choco smells of dormitory shampoo; a false Vikir/Dolores romance article complicates her investigation; the six Pigi bullies reveal a pre-publicity Night Hound encounter on freshman welcome-party night; and Dolores strengthens an Academy-informant theory while keeping Night Hound himself inside Colosseo only a slim possibility. She still does not identify Vikir as Night Hound or Choco.
+
+Family QA: `qa/families/suspicion-0234-0235.md` — **PASS**.
+
+Next verified family: **236–244 — National University League (1)–(9)**. Target **245** begins *Survival Contest (1)*.
+
 ## 2026-09-19 — Tuition (1)–(9) accepted
 
 **Current state:** 233 / 500 accepted; 0 staged; next Chapter 234.
