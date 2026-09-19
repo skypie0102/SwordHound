@@ -1,0 +1,38 @@
+{
+  "chapter": 284,
+  "title": "Power Inflation (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/284.txt",
+    "blob_sha": "ff110ae3941104950403c5ab431d71203db293f0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-282.xhtml",
+    "blob_sha": "d8999c078e07f5584b79b02bb1a21ea00dc220de",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0284.md",
+    "blob_sha": "01d4b4755a5630a309bbc1ea855d9aedbdb0333d"
+  },
+  "qa": {
+    "path": "qa/chapter-0284.md",
+    "blob_sha": "0ad40b903f37b15a5a1827d329a82332225fa1c2",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "source_exception": "Shared raw 284.txt covers targets284-285 with no internal Chapter-285 heading; target284 restores only the localized E282 'Here I am' bridge."
+}
