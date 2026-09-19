@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — That Day, Him and Me acceptance checkpoint
 - **Working branch:** `editorial/restart-that-day-him-me-0220-0224`
 - **Base main checkpoint:** merged My Neck Will Be Your Sheath checkpoint
-- **Current PR:** not yet opened
+- **Current PR:** #61 — `Rebuild That Day, Him and Me Chapters 220–224`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
