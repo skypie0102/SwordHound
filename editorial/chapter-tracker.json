@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 376,
+  "accepted_count": 381,
   "staged_count": 0,
-  "next_chapter": 377,
+  "next_chapter": 382,
   "active_title_family": {
-    "name": "The Hounds of Nouvelle Vague",
+    "name": "Kennel",
     "range": [
-      377,
-      380
+      382,
+      384
     ],
-    "boundary_status": "verified complete: target377→E375 through target380→E378",
-    "following_family_starts": 381,
-    "following_title": null,
-    "alignment_note": "377→E375 through 380→E378; verify target381 family title before acceptance."
+    "boundary_status": "verified complete: target382→E380 through target384→E382",
+    "following_family_starts": 385,
+    "following_title": "The Rotten Dog of Nouvelle Vague (1)",
+    "alignment_note": "382→E380 Kennel (1), 383→E381 Kennel (2), 384→E382 Kennel (3); target385→E383 begins The Rotten Dog of Nouvelle Vague (1)."
   },
   "chapters": [
     {
@@ -5279,6 +5279,76 @@
       "acceptance": "qa/acceptance/chapter-0376.json",
       "acceptance_sha": "437a3ce7652408b955b504ba01c13c8c881db5a0",
       "family_qa": "qa/families/poseidon-0375-0376.md"
+    },
+    {
+      "chapter": 377,
+      "title": "The Hounds of Nouvelle Vague (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/377.txt",
+      "english_mtl_reference": "source/chapters/chapter-375.xhtml",
+      "draft": "manuscript/drafts/chapter-0377.md",
+      "qa": "qa/chapter-0377.md",
+      "provenance": "editorial/provenance/chapter-0377.json",
+      "acceptance": "qa/acceptance/chapter-0377.json",
+      "acceptance_sha": "4546962357530b1bbca1be74065377afde1606c7",
+      "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
+    },
+    {
+      "chapter": 378,
+      "title": "The Hounds of Nouvelle Vague (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/378.txt",
+      "english_mtl_reference": "source/chapters/chapter-376.xhtml",
+      "draft": "manuscript/drafts/chapter-0378.md",
+      "qa": "qa/chapter-0378.md",
+      "provenance": "editorial/provenance/chapter-0378.json",
+      "acceptance": "qa/acceptance/chapter-0378.json",
+      "acceptance_sha": "4261101b04d9b02b7f7edb8e1e517724665b69d4",
+      "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
+    },
+    {
+      "chapter": 379,
+      "title": "The Hounds of Nouvelle Vague (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/379.txt",
+      "english_mtl_reference": "source/chapters/chapter-377.xhtml",
+      "draft": "manuscript/drafts/chapter-0379.md",
+      "qa": "qa/chapter-0379.md",
+      "provenance": "editorial/provenance/chapter-0379.json",
+      "acceptance": "qa/acceptance/chapter-0379.json",
+      "acceptance_sha": "af86fd1648810360ff06d3c467ee9d9d1d4d5e5b",
+      "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
+    },
+    {
+      "chapter": 380,
+      "title": "The Hounds of Nouvelle Vague (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/380.txt",
+      "english_mtl_reference": "source/chapters/chapter-378.xhtml",
+      "draft": "manuscript/drafts/chapter-0380.md",
+      "qa": "qa/chapter-0380.md",
+      "provenance": "editorial/provenance/chapter-0380.json",
+      "acceptance": "qa/acceptance/chapter-0380.json",
+      "acceptance_sha": "570d8004f918db269318b475f46a0211905e8a8d",
+      "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
+    },
+    {
+      "chapter": 381,
+      "title": "The Hounds of Nouvelle Vague (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/381.txt",
+      "english_mtl_reference": "source/chapters/chapter-379.xhtml",
+      "draft": "manuscript/drafts/chapter-0381.md",
+      "qa": "qa/chapter-0381.md",
+      "provenance": "editorial/provenance/chapter-0381.json",
+      "acceptance": "qa/acceptance/chapter-0381.json",
+      "acceptance_sha": "8feaedac1976fe4c93ab7fe30024a4ed0fce2563",
+      "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
     }
   ]
 }
