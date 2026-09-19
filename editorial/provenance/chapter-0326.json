@@ -1,0 +1,37 @@
+{
+  "chapter": 326,
+  "title": "The Shadowless King of the Black Sea (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Shadowless King of the Black Sea",
+    "range": [
+      326,
+      330
+    ],
+    "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/326.txt",
+    "blob_sha": "c8b718d73bbad080d7cae4b013c0dc7d0874de4c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-324.xhtml",
+    "blob_sha": "14355b10ef022a68beed426b1dd4e4020a7d50cd",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0326.md",
+    "blob_sha": "7f2490916cb6cb92d54b88f76d4a2cfe15a28fe8"
+  },
+  "qa": {
+    "path": "qa/chapter-0326.md",
+    "blob_sha": "71713e70982ceb6bb9f034302dd321c23abe2036",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
