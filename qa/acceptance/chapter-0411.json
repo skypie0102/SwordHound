@@ -1,0 +1,33 @@
+{
+  "chapter": 411,
+  "title": "End game (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
+    ],
+    "family_qa_path": "qa/families/end-game-0409-0418.md",
+    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/411.txt",
+    "primary_source_sha": "cd8b3c605875875902b2631a5a7e0079cb9f8f6d",
+    "english_reference_path": "source/chapters/chapter-409.xhtml",
+    "english_reference_sha": "f9aa04da121fab1df472b1940ea3ba1009f47e94",
+    "draft_path": "manuscript/drafts/chapter-0411.md",
+    "draft_sha": "af30ee0f089985e1cae5bdacaca51b3b84a3e2e9",
+    "qa_path": "qa/chapter-0411.md",
+    "qa_sha": "bc72ce401f0f7ffaf9080832c6cab36a6235ac8e",
+    "provenance_path": "editorial/provenance/chapter-0411.json",
+    "provenance_sha": "920f709b4477fdd96ab97ebe3403601f7d54c6f6"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Goodbye, Nouvelle Vague material from target419 is imported."
+  ]
+}
