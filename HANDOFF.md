@@ -1,43 +1,45 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 365 / 500  
+**Accepted:** 368 / 500  
 **Staged:** 0  
-**Next target:** 366
+**Next target:** 369
 
 ## Latest accepted family
 
-**Ghost Castle of the Ultra-Deep Sea (1)–(3)** — targets **363–365**.
+**The Underground Extension Construction (1)–(3)** — targets **366–368**.
 
-- Family QA: `qa/families/ghost-castle-0363-0365.md` — PASS.
-- Alignment: **363→E361, 364→E362, 365→E363**.
-- Nouvelle Vague is a vast vertical prison carved into a dormant volcano beneath the ultra-deep sea.
-- Its main entrance is the black/white **Gate of Good and Evil**.
-- Official structure has nine levels; Vikir’s 3,021 life terms place him at Level Nine.
-- **Sakkuth de Leviathan / Plague Leper** is introduced as creator of the Red Death, expelled from Leviathan for human experimentation, sentenced to 666 life terms, and voluntarily imprisoned to meet an unnamed person.
-- Admission ceremony stages:
-  1. belongings inspection → axe-blade bridge with magnetic demolition balls;
-  2. medical examination → parasites consuming blood/bone/skin while guards record work fitness;
-  3. bath → boiling sulfur-water exposure.
-- Vikir crosses the blade bridge without mana through hardened calluses; Beelzebub and Decarabia are not magnetically affected.
-- Sakkuth’s blood/marrow poisons the examination parasites.
-- Dead admission candidates remain officially “alive and imprisoned” because they were not formally executed.
-- Level Nine cells are fully BDISSEM-lined.
-- Daily labor schedule leaves only three hours of sleep and a ten-minute meal.
-- Prison labor is excavating **Level Ten**, intended for inmates too dangerous even for Level Nine.
-- Solitary confinement is foreshadowed as worse than ordinary Level Nine; only one prisoner is rumored able to endure it.
-- Direct Fandom verification remains robots-blocked; source-local Level Nine names remain unverified.
+- Family QA: `qa/families/underground-extension-0366-0368.md` — PASS.
+- Alignment: **366→E364, 367→E365, 368→E366**.
+- Nouvelle Vague labor control uses roll call, exact tool inventory, fixed quotas, monthly guard/prisoner performance, and severe penalties.
+- Rough guard estimate: ~3,000 combat-capable and at least ~4,000 total personnel under five wardens.
+- Sakkuth de Leviathan remains Level Eight, voluntarily imprisoned to serve an unnamed Level Nine person.
+- BDISSEM suppresses mana but not Sakkuth’s physically accumulated poison.
+- Vikir uses a nail-in-mouth strike to establish the predator/prey hierarchy without mana.
+- Level Ten excavation is harsher than the admission ritual; Vikir still seeks an unrevealed object below Nouvelle Vague.
+- Decarabia says the object is nearby; identity remains reveal-guarded.
+- Garam Nord’s low status explains why he repeatedly receives dangerous or thankless assignments.
+- Vikir deliberately refuses labor because excessive cooperation would look suspicious for a Level Nine inmate and because he wants to test the response.
+- Level Nine refusal triggers the prison’s highest riot alarm.
+- Vikir fights without mana using Hell Tree resistance/reflex stats, combat skill, and BDISSEM chains.
+- Fresh designated-Fandom index verification confirmed **Kirko Grimm**, **D'Ordume D'Orcdile**, **Garam Nord**, **Black Tongue**, and **Lieutenant Bastille**.
+- Kirko Grimm appears as a gifted young lieutenant; no later wiki biography/spoilers are imported.
+- D'Ordume D'Orcdile appears at the family close as one of the Five Wardens.
+- Earlier handoff label **“Prisoner Hunt”** for target369 was incorrect.
 
 ## Next verified family
 
-**The Underground Extension Construction (1)–(3)** — targets **366–368** / **E364–E366**.
+**The Servant (1)–(2)** — targets **369–370** / **E367–E368**.
 
-Following family:
-- **Prisoner Hunt (1)–(?)** begins target **369→E367**; determine full contiguous boundary before acceptance.
+Following families:
+- **Solitary Confinement (1)–(2)** — targets **371–372 / E369–E370**.
+- **Sucker Shark (1)–(2)** — targets **373–374 / E371–E372**.
+- **Poseidon (1)–(2)** — targets **375–376 / E373–E374**.
+- **The Hounds of Nouvelle Vague (1)–(4)** — targets **377–380 / E375–E378**.
 
 ## Exact next actions
 
-1. Read C366–C368 completely against E364–E366.
-2. Reconstruct and QA Underground Extension Construction (1)–(3).
+1. Read C369–C370 completely against E367–E368.
+2. Reconstruct and QA The Servant (1)–(2).
 3. Merge it.
-4. Immediately determine and continue the full Prisoner Hunt family beginning target369/E367.
+4. Immediately continue into Solitary Confinement (1)–(2), targets371–372 / E369–E370.
