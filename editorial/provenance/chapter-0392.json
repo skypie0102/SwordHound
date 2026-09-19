@@ -1,0 +1,37 @@
+{
+  "chapter": 392,
+  "title": "The Worst Torture (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Worst Torture",
+    "range": [
+      390,
+      395
+    ],
+    "family_qa_path": "qa/families/worst-torture-0390-0395.md",
+    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/392.txt",
+    "blob_sha": "4d3dbb26760ec10152cf6d54899773c89a50df86",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-390.xhtml",
+    "blob_sha": "db22d351043061614505fed8e8c0926ad1297378",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0392.md",
+    "blob_sha": "faa3c85f9cb321affc003a5c16fd80c02401bc7e"
+  },
+  "qa": {
+    "path": "qa/chapter-0392.md",
+    "blob_sha": "89d1869015c2c8d05b06ff95b9e99acf367c6ae6",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
