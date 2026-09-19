@@ -308,9 +308,9 @@ Oraorus Hohenheim.
 
 Mage Tower’s ace.
 
-The man later called—
+The man whose Mage Tower baptismal name was—
 
-**Hohenheim of a Thousand Flames.**
+**Snub-nosed.**
 
 Her teammates had protected her.
 
