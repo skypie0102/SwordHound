@@ -2,38 +2,36 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 260  
+**Accepted:** 263  
 **Staged:** 0  
-**Next chapter:** 261
+**Next chapter:** 264
 
 ## Current accepted checkpoint
 
 The restarted Chinese-primary workflow is accepted through:
 
-- Chapters 250–251 — *Recap (1)–(2)*
-- Chapter 252 — *Celebration Banquet (3)*
 - Chapters 253–254 — *Five Stars (1)–(2)*
 - Chapters 255–260 — *The Grave of Swords (1)–(6)*
+- Chapters 261–263 — *The Inverted Pentagram (1)–(3)*
 
-Latest family QA: `qa/families/grave-of-swords-0255-0260.md` — **PASS**.
+Latest family QA: `qa/families/inverted-pentagram-0261-0263.md` — **PASS**.
 
-## Grave of Swords decisions
+## Inverted Pentagram decisions
 
-- Verified mapping: **255→E253 through 260→E258**.
-- Ballak contact loss remains unresolved.
-- Cane Corso Le Baskerville is the unreachable seventh Count and hidden master of the Grave of Swords.
-- Vikir reaches the Eighth Fang while Cane Corso demonstrates the Ninth.
-- Beelzebub Slot 2 is **Immortality — Gargoyle (S)** from Chinese; shifted-English Basilisk is rejected.
-- Cane Corso is a **Death Knight**.
-- Ninth Fang requires death; Tenth Fang requires death followed by awakening.
-- The family ends with two Wraith Tree saplings and Vikir returning toward Baskerville / Colosseo.
+- Verified mapping: **261→E259 through 263→E261**.
+- Decarabia is **S+** from Chinese, not S.
+- Decarabia is the inanimate-type Seventh Corpse; its signature power is the mana-scaled **Wailing Wall** barrier.
+- Its thousand-year disposition is set by whoever wakes it first.
+- Vikir’s awakening changes its current allegiance and establishes him as representative contractor.
+- Vikir’s public barrier-escape story is cover; the actual exit uses Eighth Fang.
+- Decarabia becomes a pendant and agrees to provide former-contractor information.
 
-## Next verified family start
+## Next verified family
 
-**261 → E259 — The Inverted Pentagram (1)**.
+**264–267 — The Season of Redemption (1)–(4)**, mapped **E262–E265**.
 
-The start is verified; the complete contiguous family boundary must be established before acceptance.
+Target267 shares `source/chinese/chapters/267.txt` with target268. The same physical raw contains the internal boundary where **The Eucharist (1)** begins. Do not split the raw file.
 
 ## Immediate next action
 
-Read C261 forward against E259+, determine the complete *The Inverted Pentagram* family boundary, then reconstruct it as one contiguous Chinese-primary batch.
+Reconstruct and QA targets 264–267 as one family, then continue directly into target268 / E266 (*The Eucharist (1)*).
