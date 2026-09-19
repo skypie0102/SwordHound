@@ -1,0 +1,46 @@
+{
+  "chapter": 252,
+  "title": "Celebration Banquet (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Recap / Celebration Banquet",
+    "range": [
+      250,
+      252
+    ],
+    "family_qa_path": "qa/families/recap-celebration-banquet-0250-0252.md",
+    "family_qa_sha": "3f91f0b7a1b1a300729480ccd9bbe95aaf821dde",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/252.txt",
+    "primary_source_sha": "5223528c4ed8e3bf5350a9bc016b8d6a724a334f",
+    "english_reference_path": "source/chapters/chapter-250.xhtml",
+    "english_reference_sha": "9d02b6b20a682888097e1667ff1df7a73f7b8912",
+    "draft_path": "manuscript/drafts/chapter-0252.md",
+    "draft_sha": "4d5f5bee0887b37b0190b588dddf9488f5259409",
+    "qa_path": "qa/chapter-0252.md",
+    "qa_sha": "2ecbc2639bf30396babad3379752c26b3e65ee37",
+    "provenance_path": "editorial/provenance/chapter-0252.json",
+    "provenance_sha": "548b2d1bb3209a4983c69c0a3ca48205595ba2d8"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Dolores L. Quovadis",
+    "Merelini Lovegood",
+    "Bakilaga Juragio",
+    "Highbro Le Baskerville",
+    "Middlebro Le Baskerville",
+    "Lowbro Le Baskerville",
+    "Sinclaire",
+    "Granola de Leviathan",
+    "Professor Banshee Morgue",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Direct Fandom re-check was blocked by site robots rules; established glossary forms were reused.",
+    "No later Five Stars task content is imported into Chapter 252."
+  ]
+}
