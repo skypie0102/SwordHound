@@ -1,44 +1,41 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 254 / 500  
+**Accepted:** 260 / 500  
 **Staged:** 0  
-**Next target:** 255
+**Next target:** 261
 
 ## Latest accepted family
 
-**Five Stars (1)–(2)** — targets **253–254**.
+**The Grave of Swords (1)–(6)** — targets **255–260**.
 
-- Family QA: `qa/families/five-stars-0253-0254.md` — PASS.
-- Alignment: **253→E251, 254→E252**.
-- Target 253 confirms the Baskerville five-star assignment is **childcare**; Pomeranian smiling for Vikir completes it immediately.
-- Sinclaire is seen on an eastbound train despite selecting a Quovadis assignment. The discrepancy remains intentionally unexplained.
-- Hugo’s domestic behavior has softened around Pomeranian, but his Sword Master / family-head authority remains intact.
-- Target 254 promotes Vikir to **Senator**, one of Baskerville’s active power-holding ranks.
-- Vikir retains freedom of movement under his Imperial Capital special-agent role; Colosseo remains operational cover.
-- Planned task-force candidates include **Cindywendy, Chihuahua, MiniPin**, and suitable jungle talent such as **Aiyen**.
-- The 174 capital targets Vikir removed were demon-linked; ordinary political enemies were not included.
-- Vikir’s old public identity as Vikir Van Baskerville has been deliberately obscured.
-- Pomeranian’s myth book introduces **Morgue Tzersi** and the **Wraith Tree**.
-- Hugo gives Vikir the **Black Whistle**, representing broad command over Baskerville military forces.
-- Vikir already associates the Wraith Tree location with a clue toward the realm beyond Sword Master / **Eighth Fang**.
-- Direct Fandom re-check remained unavailable; established glossary forms were reused.
+- Family QA: `qa/families/grave-of-swords-0255-0260.md` — PASS.
+- Alignment: **255→E253 through 260→E258**.
+- Ballak’s recent disappearance/contact loss remains unresolved.
+- The dead **Basilisk** is S-rank / 44 m / 10th Ridge / ‘Dragon of the Saha River’.
+- The dead courier is an unnamed **Pit Bull knight** whose deeply honed Fourth Fang was enough to kill the Basilisk.
+- Hugo’s sealed letter identifies the unreachable seventh Count as **Cane Corso Le Baskerville**.
+- Cane Corso is an old Seven Count whose sword realm surpassed Hugo’s prior level.
+- The Grave of Swords is real and tied to the ultimate Baskerville sword path.
+- Vikir’s Seventh Fang cannot penetrate Cane Corso’s armor.
+- Cane Corso reveals the **Ninth Fang**.
+- Vikir reaches the **Eighth Fang** only under genuine mortal pressure.
+- Chinese-primary correction: Beelzebub **Slot 2 = Immortality — Gargoyle (S)**; shifted-English ‘Basilisk’ is rejected.
+- Cane Corso did not author Lurking Ambush; he read the sword book, tore out pages, and never mastered its Tenth Fang.
+- Cane Corso’s true identity is **Death Knight**.
+- Ninth Fang requires actual experience of death; Tenth Fang requires death followed by awakening.
+- The family closes with the tower gone, Vikir carrying **two Wraith Tree saplings**, and his Eighth Fang stabilized.
+- Direct Fandom re-check remained unavailable; established glossary canon was reused.
 
 ## Next verified family start
 
-Target **255→E253 — The Grave of Swords (1)**.
+Target **261→E259 — The Inverted Pentagram (1)**.
 
-C255 establishes:
-- Vikir returns deep into Le Rouge et Le Noir Mountain.
-- Ballak’s old village is deserted and recent contact with the tribe has stopped.
-- He is searching for the Wraith Tree.
-- The white salt desert / Yuuni Desert and the dead S-rank Basilisk appear.
-- A long-dead Baskerville Pit Bull knight’s remains and secret letter are discovered.
-- Do not import later Grave of Swords revelations before their source point.
+Do not import later Inverted Pentagram revelations before their source point.
 
 ## Exact next actions
 
-1. Read C255 forward with E253+ until the full contiguous **The Grave of Swords** family boundary is verified.
+1. Read C261 forward with E259+ until the complete contiguous **The Inverted Pentagram** family boundary is verified.
 2. Record the complete target↔English mapping.
 3. Reconstruct and QA the full family Chinese-first.
 4. Update provenance, acceptance, tracker/state/progress/glossary, and this handoff.
