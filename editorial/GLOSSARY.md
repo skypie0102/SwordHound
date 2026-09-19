@@ -1,3 +1,20 @@
+## Crime and Punishment additions — Chapters 356–358
+
+- **Crime and Punishment** — accepted three-part family, targets356–358 / witnesses E354–E356.
+- **Part-number correction** — local Chinese labels are offset by +1; production follows verified E354–E356 order.
+- **Gate of Destruction preparation** — Camus redirects Dolores/Tudor/Sancho/Pigi/Bianca and allies from sentence lobbying toward stopping the coming Gate.
+- **Baskerville trial stance** — “Vikir acted alone / red horn was stolen” is an official legal position, not narrator-confirmed family truth.
+- **Seven-family jury split** — Baskerville/Morgue/Quovadis/Bourgeois favor mitigation; Donquixote/Usher/Leviathan demand the harshest penalty.
+- **Passamonte / Madeline / Hobbes** — source-local juror forms; Vikir observes them as surviving demon-aligned figures. Direct Fandom confirmation unavailable.
+- **Nouvelle Vague sentence** — 3,021 life terms without parole.
+- **Cindywendy ring** — Chinese-primary left middle finger; shifted-English ring-finger wording rejected.
+- **Cindywendy / Osiris** — relationship revealed; roots in childhood acquaintance and western trade/security / post-Seth cleanup.
+- **Tochka** — source-local final-refuge name in Vikir’s ark preparations; direct Fandom confirmation unavailable.
+- **Picaresque Mask handoff** — Vikir sends it to Camus through Cindywendy.
+- **Ark instruction** — Vikir warns of a coming great flood and orders survival preparations.
+- **Voluntary Escort** — next family targets359–362 / E357–E360.
+- **Ghost Castle of the Ultra-Deep Sea** — begins target363 / E361.
+
 ## Outside the Tower additions — Chapters 351–355
 
 - **Outside the Tower** — accepted five-part family, targets351–355 / witnesses E349–E353.
