@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Draw (1)–(2) accepted
+
+**Current state:** 332 / 500 accepted; 0 staged; next Chapter 333.
+
+Completed targets **331–332** with mapping **E329–E330**.
+
+Key decisions: Vikir remains Level1 while accumulating 100 golden candies; Beetlemen reverse-summon fate stays unresolved; commoner/triplet reconciliation occurs at the victim level; and Vikir acquires the S-rank **Scale of Forced Equality** instead of accepting the fairy’s cheap “draw.”
+
+Family QA: `qa/families/draw-0331-0332.md` — **PASS**.
+
+Next verified family: **333–336 — The Mating Room (1)–(4)**, mapping **E331–E334**.
+
 ## 2026-09-19 — The Shadowless King of the Black Sea (1)–(5) accepted
 
 **Current state:** 330 / 500 accepted; 0 staged; next Chapter 331.

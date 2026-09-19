@@ -1,0 +1,38 @@
+{
+  "chapter": 331,
+  "title": "Draw (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Draw",
+    "range": [
+      331,
+      332
+    ],
+    "family_qa_path": "qa/families/draw-0331-0332.md",
+    "family_qa_sha": "4da0c4108b2f283f5561b7aa9f63a2120d8fe478",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/331.txt",
+    "blob_sha": "9ce3d8e9a5d0f226c89cd12618f8ea4b34c44ca7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-329.xhtml",
+    "blob_sha": "ebcd84f7f2b506e628dbd86d5c781f9c1736c641",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0331.md",
+    "blob_sha": "d1db8a32fc787502dc00793a6d32ac17f702000c"
+  },
+  "qa": {
+    "path": "qa/chapter-0331.md",
+    "blob_sha": "284c7f2c284632f23df41c6dd3c17c153c55b53f",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local item names were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guard": "Beetlemen reverse-summon fate remains unknown despite suspicious transfer residue."
+}

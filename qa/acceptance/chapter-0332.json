@@ -1,0 +1,33 @@
+{
+  "chapter": 332,
+  "title": "Draw (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Draw",
+    "range": [
+      331,
+      332
+    ],
+    "family_qa_path": "qa/families/draw-0331-0332.md",
+    "family_qa_sha": "4da0c4108b2f283f5561b7aa9f63a2120d8fe478",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/332.txt",
+    "primary_source_sha": "cacd92387d304768eb9ba2205d75065d13c68e89",
+    "english_reference_path": "source/chapters/chapter-330.xhtml",
+    "english_reference_sha": "3c7dec499dc916bdf97dd8e44f7d8fde4d6617e9",
+    "draft_path": "manuscript/drafts/chapter-0332.md",
+    "draft_sha": "6623af63391b8e9c30cfe908c2837c4f10843bf0",
+    "qa_path": "qa/chapter-0332.md",
+    "qa_sha": "f62a316e97ae47b7bc1b1bd75128c6946edaccb7",
+    "provenance_path": "editorial/provenance/chapter-0332.json",
+    "provenance_sha": "833548d2bb98b4026728fcc19e0e9ba980a680fc"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Mating Room material from target333 is imported."
+  ]
+}

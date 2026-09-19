@@ -1,3 +1,15 @@
+## Draw additions — Chapters 331–332
+
+- **Draw** — accepted two-part family, targets331–332 / witnesses E329–E330.
+- **Fairy casino model** — Vikir’s interpretation of the tower/fairy reward economy; do not present as omniscient cosmology.
+- **Golden Level-candy plan** — Vikir remains Level1 while accumulating 100 golden candies, intending a later jump to Level100.
+- **Beetlemen reverse-summon uncertainty** — more than fifty accept transfer, but Vikir notices suspicious residue and does not assume they safely returned home.
+- **Scale of Forced Equality** — S-rank hidden piece, acquired for 20 golden candies.
+- **Scale effect** — all stats slowly rise toward the holder’s highest current stat; item disappears after equalization.
+- **Scale legitimate acquisition condition** — Floor3 strongest-first daily-sacrifice route ending with the weakest survivor; retain strictly as fictional tower mechanics.
+- **Return Scroll** — one-use return to Tutorial; resets Level but not stats.
+- **The Mating Room** — next family targets333–336 / E331–E334.
+
 ## The Shadowless King of the Black Sea additions — Chapters 326–330
 
 - **The Shadowless King of the Black Sea** — accepted five-part family, targets326–330 / witnesses E324–E328.
