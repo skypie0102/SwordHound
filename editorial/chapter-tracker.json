@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 372,
+  "accepted_count": 374,
   "staged_count": 0,
-  "next_chapter": 373,
+  "next_chapter": 375,
   "active_title_family": {
-    "name": "Sucker Shark",
+    "name": "Poseidon",
     "range": [
-      373,
-      374
+      375,
+      376
     ],
-    "boundary_status": "verified complete: target373→E371 and target374→E372",
-    "following_family_starts": 375,
-    "following_title": "Poseidon (1)",
-    "alignment_note": "373→E371 Sucker Shark (1), 374→E372 Sucker Shark (2); 375→E373 begins Poseidon (1)."
+    "boundary_status": "verified complete: target375→E373 and target376→E374",
+    "following_family_starts": 377,
+    "following_title": "The Hounds of Nouvelle Vague (1)",
+    "alignment_note": "375→E373 Poseidon (1), 376→E374 Poseidon (2); 377→E375 begins The Hounds of Nouvelle Vague (1)."
   },
   "chapters": [
     {
@@ -5223,6 +5223,34 @@
       "acceptance": "qa/acceptance/chapter-0372.json",
       "acceptance_sha": "c5ecc8be92df1660b7f2177c5374e31437f43187",
       "family_qa": "qa/families/solitary-confinement-0371-0372.md"
+    },
+    {
+      "chapter": 373,
+      "title": "Sucker Shark (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/373.txt",
+      "english_mtl_reference": "source/chapters/chapter-371.xhtml",
+      "draft": "manuscript/drafts/chapter-0373.md",
+      "qa": "qa/chapter-0373.md",
+      "provenance": "editorial/provenance/chapter-0373.json",
+      "acceptance": "qa/acceptance/chapter-0373.json",
+      "acceptance_sha": "9cba0974692b0537a1fd47fd832d93ff3ebbfca1",
+      "family_qa": "qa/families/sucker-shark-0373-0374.md"
+    },
+    {
+      "chapter": 374,
+      "title": "Sucker Shark (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/374.txt",
+      "english_mtl_reference": "source/chapters/chapter-372.xhtml",
+      "draft": "manuscript/drafts/chapter-0374.md",
+      "qa": "qa/chapter-0374.md",
+      "provenance": "editorial/provenance/chapter-0374.json",
+      "acceptance": "qa/acceptance/chapter-0374.json",
+      "acceptance_sha": "21312dc0742b70868273274d7823ce698df2b154",
+      "family_qa": "qa/families/sucker-shark-0373-0374.md"
     }
   ]
 }
