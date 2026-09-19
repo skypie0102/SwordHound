@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 384,
+  "accepted_count": 389,
   "staged_count": 0,
-  "next_chapter": 385,
+  "next_chapter": 390,
   "active_title_family": {
-    "name": "The Rotten Dog of Nouvelle Vague",
+    "name": "The Worst Torture",
     "range": [
-      385,
-      389
+      390,
+      395
     ],
-    "boundary_status": "verified complete: target385→E383 through target389→E387; targets385-386 share Chinese raw 385.txt and require explicit internal split validation",
-    "following_family_starts": 390,
-    "following_title": "The Worst Torture (1)",
-    "alignment_note": "385→E383 through 389→E387; 390→E388 begins The Worst Torture (1), continuing through target395→E393."
+    "boundary_status": "verified complete: target390→E388 through target395→E393",
+    "following_family_starts": 396,
+    "following_title": "Dead Man Walking (1)",
+    "alignment_note": "390→E388 through 395→E393; target396 begins Dead Man Walking (1)."
   },
   "chapters": [
     {
@@ -5391,6 +5391,76 @@
       "acceptance": "qa/acceptance/chapter-0384.json",
       "acceptance_sha": "62a496b794db016add2e9120b3801064922e26ae",
       "family_qa": "qa/families/kennel-0382-0384.md"
+    },
+    {
+      "chapter": 385,
+      "title": "The Rotten Dog of Nouvelle Vague (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/385.txt",
+      "english_mtl_reference": "source/chapters/chapter-383.xhtml",
+      "draft": "manuscript/drafts/chapter-0385.md",
+      "qa": "qa/chapter-0385.md",
+      "provenance": "editorial/provenance/chapter-0385.json",
+      "acceptance": "qa/acceptance/chapter-0385.json",
+      "acceptance_sha": "5a5341e470902073ad78335afd4065b8dedeb1fd",
+      "family_qa": "qa/families/rotten-dog-0385-0389.md"
+    },
+    {
+      "chapter": 386,
+      "title": "The Rotten Dog of Nouvelle Vague (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/385.txt",
+      "english_mtl_reference": "source/chapters/chapter-384.xhtml",
+      "draft": "manuscript/drafts/chapter-0386.md",
+      "qa": "qa/chapter-0386.md",
+      "provenance": "editorial/provenance/chapter-0386.json",
+      "acceptance": "qa/acceptance/chapter-0386.json",
+      "acceptance_sha": "5cf997206ed985fd803f4ce69c5f322cb6da6847",
+      "family_qa": "qa/families/rotten-dog-0385-0389.md"
+    },
+    {
+      "chapter": 387,
+      "title": "The Rotten Dog of Nouvelle Vague (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/387.txt",
+      "english_mtl_reference": "source/chapters/chapter-385.xhtml",
+      "draft": "manuscript/drafts/chapter-0387.md",
+      "qa": "qa/chapter-0387.md",
+      "provenance": "editorial/provenance/chapter-0387.json",
+      "acceptance": "qa/acceptance/chapter-0387.json",
+      "acceptance_sha": "d56477a20d60f17755dc87b5792b451c9c32362b",
+      "family_qa": "qa/families/rotten-dog-0385-0389.md"
+    },
+    {
+      "chapter": 388,
+      "title": "The Rotten Dog of Nouvelle Vague (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/388.txt",
+      "english_mtl_reference": "source/chapters/chapter-386.xhtml",
+      "draft": "manuscript/drafts/chapter-0388.md",
+      "qa": "qa/chapter-0388.md",
+      "provenance": "editorial/provenance/chapter-0388.json",
+      "acceptance": "qa/acceptance/chapter-0388.json",
+      "acceptance_sha": "bc0909cf252a18104e59e84ba74c80bd89b7fd3c",
+      "family_qa": "qa/families/rotten-dog-0385-0389.md"
+    },
+    {
+      "chapter": 389,
+      "title": "The Rotten Dog of Nouvelle Vague (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/389.txt",
+      "english_mtl_reference": "source/chapters/chapter-387.xhtml",
+      "draft": "manuscript/drafts/chapter-0389.md",
+      "qa": "qa/chapter-0389.md",
+      "provenance": "editorial/provenance/chapter-0389.json",
+      "acceptance": "qa/acceptance/chapter-0389.json",
+      "acceptance_sha": "69a3073cc59ca27012665e11caf0dbc96d3163f0",
+      "family_qa": "qa/families/rotten-dog-0385-0389.md"
     }
   ]
 }
