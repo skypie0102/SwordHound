@@ -1,0 +1,38 @@
+{
+  "chapter": 272,
+  "title": "Rich Friends (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Rich Friends",
+    "range": [
+      270,
+      272
+    ],
+    "family_qa_path": "qa/families/rich-friends-0270-0272.md",
+    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/272.txt",
+    "blob_sha": "545c00253ed8939e2f32cbc6729180d5d5654b67",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-270.xhtml",
+    "blob_sha": "7f70850073256d65fb0305818a94d250235e7426",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0272.md",
+    "blob_sha": "48413bf16b6b4111f94cc266a252c1cc93cff7ee"
+  },
+  "qa": {
+    "path": "qa/chapter-0272.md",
+    "blob_sha": "2e09901d94ce0999be0b1f18a3ec6734614ba73a",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Winston/Orwell/Nouvelle Vague remain source-local pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guard": "Winston Smith / damaged Orwell remain a separate Academy mystery; no Sixth-Corpse or demon identity inferred."
+}
