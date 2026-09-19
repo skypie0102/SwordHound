@@ -892,3 +892,15 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **Suspicion** — next family targets 234–235; witnesses E232–E233.
 - **National University League** — begins target 236 / E234.
 
+## Suspicion additions — Chapters 234–235
+
+- **Suspicion** — accepted family targets 234–235; witnesses E232–E233.
+- **Vikir demerit route** — repeated dark/high/wall-facing locations; source of Dolores's route suspicion.
+- **Vikir room clue** — sparse belongings suggest constant readiness to leave; observation remains Pigi/Dolores interpretation.
+- **Choco dorm-shampoo clue** — suggests a student owner; not identity proof.
+- **Freshman welcome-party Night Hound clue** — six bullies report the masked attacker before the alias became public.
+- **Academy connection theory** — Dolores now strongly suspects an Academy source/informant; Night Hound himself inside the Academy remains low-confidence.
+- **Identity guard** — Dolores does not identify Vikir as Night Hound or Choco.
+- **National University League** — next family targets 236–244; witnesses E234–E242.
+- **Survival Contest** — begins target 245 / E243.
+

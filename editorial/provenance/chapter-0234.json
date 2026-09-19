@@ -1,0 +1,71 @@
+{
+  "chapter": 234,
+  "title": "Suspicion (1)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Suspicion",
+    "range": [
+      234,
+      235
+    ],
+    "family_qa_path": "qa/families/suspicion-0234-0235.md",
+    "family_qa_sha": "adcfea42120b332df0d35779d70bada3b8d460cc",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/234.txt",
+    "blob_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-232.xhtml",
+    "blob_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "target_alignment": 234,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0234.md",
+    "blob_sha": "78be2cb269bab6093a54510c8d3e3d62d00bf0ad"
+  },
+  "qa": {
+    "path": "qa/chapter-0234.md",
+    "blob_sha": "0931fade3cf8bd09ccb32f07cadaf753015e5d98",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "student_politics",
+      "final": "Dolores contrasts formal student council with informal noble/power-family influence",
+      "basis": "Chinese C234"
+    },
+    {
+      "topic": "peri_award",
+      "final": "Dolores recognizes Peri Award and interprets it as evidence of Vikir's hidden warmth",
+      "basis": "Chinese C234 + accepted Peri terminology"
+    },
+    {
+      "topic": "demerit_route",
+      "final": "Vikir demerits form dark/high wall-facing route pattern",
+      "basis": "Chinese C234"
+    },
+    {
+      "topic": "room",
+      "final": "Vikir's sparse room feels ready to abandon; Pigi says Vikir wanders at night but always returns",
+      "basis": "Chinese C234"
+    },
+    {
+      "topic": "relationship_guard",
+      "final": "Pigi's thought that Dolores may like Vikir is a misunderstanding",
+      "basis": "Chinese C234"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/236.txt",
+    "chinese_sha": "eddd037aea501c9b125834963a46434320451100",
+    "english_path": "source/chapters/chapter-234.xhtml",
+    "english_sha": "5f04f7dfda83ad287aeac43af4b4d1d44cdffbe7",
+    "purpose": "target236 begins National University League (1); family runs through244/E242, target245/E243 begins Survival Contest (1)"
+  }
+}

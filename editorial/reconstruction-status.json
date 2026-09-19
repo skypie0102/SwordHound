@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 233,
+  "accepted_chapters": 235,
   "staged_chapters": 0,
-  "next_chapter": 234,
+  "next_chapter": 236,
   "latest_accepted_family": {
-    "name": "Tuition",
-    "range": [
-      225,
-      233
-    ],
-    "family_qa": "qa/families/tuition-0225-0233.md"
-  },
-  "next_title_family": {
     "name": "Suspicion",
     "range": [
       234,
       235
     ],
-    "boundary_status": "verified two-part family",
-    "following_family_starts": 236,
-    "following_title": "National University League (1)",
-    "alignment_note": "234→E232,235→E233;236→E234"
+    "family_qa": "qa/families/suspicion-0234-0235.md"
+  },
+  "next_title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "boundary_status": "verified nine-part family",
+    "following_family_starts": 245,
+    "following_title": "Survival Contest (1)",
+    "alignment_note": "236→E234 through244→E242;245→E243"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -295,23 +295,23 @@
     230,
     231,
     232,
-    233
+    233,
+    234,
+    235
   ],
   "notes": [
-    "Chapters225-233 are accepted as Tuition (1)-(9); raw Chinese alternates tuition/registration-fee wording.",
-    "Dolores separates Night Hound from the Ms. Ouroboros infrastructure attacks; Vikir's anti–Night Hound articles remain identity cover.",
-    "Ms. Ouroboros public C225 profile is presumed female / roughly Graduator-level; identity remains unrevealed.",
-    "Vikir has roughly80% scholarship support through academics/Banshee recommendation but pays the remainder independently to avoid financial traces.",
-    "Sherpa Guild / MiniPin are established; MiniPin is >2.3m, ~180kg, Graduator-level, future high-value guide/researcher and Vikir recruitment target.",
-    "Repeated MiniPin home intrusions target him alone; no theft or family threat is introduced.",
-    "Raw 洛 / 毒变怪 are normalized to Gnoll / Poison Gnoll (C+ / A).",
-    "Vikir clears the Gnoll nest through panic/route compression rather than an invented precise colony count; Baby Madam kills the Poison Gnoll.",
-    "Unnumbered gold in the den is linked by Vikir inference to the Royal Imperial Bank robbery; Bourgeois Damien serial-number law is source-explicit.",
-    "Ms. Ouroboros flinches on seeing Vikir's face, shows High-Graduator-or-higher aura, and has a subtle left-side reaction delay whose cause remains unrevealed.",
-    "MiniPin's old Baskerville ambition and Sherpa financial hardship reinforce Vikir's recruitment plan.",
-    "Thrifty Bazaar is a top-ten Imperial auction; noble/power-family boycott backfires after Vikir burns supply and resets minimum bid to4x.",
-    "Vikir pays four years tuition, anonymously donates surplus to scholarships tied to orphanage volunteer service, and names the fund the Peri Award.",
-    "Next family targets234-235 — Suspicion (1)-(2), mapped234→E232,235→E233. Target236→E234 begins National University League (1).",
+    "Chapters234-235 are accepted as Suspicion (1)-(2).",
+    "Dolores's curiosity around Vikir is evidence-driven but not identity resolution.",
+    "Peri Award strengthens Dolores's belief that Vikir has a warm heart; this remains her interpretation.",
+    "Vikir's conduct demerits form a dark/high wall-facing route pattern and update in real time at the first-year dorm rooftop.",
+    "Pigi says Vikir wanders at night but always returns; Vikir's sparse room feels ready to abandon.",
+    "Outside Dolores/Vikir romance coverage is false gossip; classmates intensify the misunderstanding.",
+    "Choco smells of standard dorm shampoo, proving only that a student likely cares for/bathes him.",
+    "The six old Pigi bullies report a Night Hound-like masked attacker on freshman welcome-party night before the alias became public.",
+    "Masked attacker knew student names, parents, and family locations.",
+    "Dolores strengthens an Academy-insider/informant theory and considers Night Hound himself inside Colosseo only a slim possibility.",
+    "Reveal guard: Dolores does not identify Vikir as Night Hound or Choco.",
+    "Next family targets236-244 — National University League (1)-(9), mapped236→E234 through244→E242. Target245→E243 begins Survival Contest (1).",
     "Every editorial session must read and update HANDOFF.md."
   ],
   "partial_chinese_raw_chapters": [

@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 233,
+  "accepted_count": 235,
   "staged_count": 0,
-  "next_chapter": 234,
+  "next_chapter": 236,
   "active_title_family": {
-    "name": "Suspicion",
+    "name": "National University League",
     "range": [
-      234,
-      235
+      236,
+      244
     ],
-    "boundary_status": "verified two-part family",
-    "following_family_starts": 236,
-    "following_title": "National University League (1)",
-    "alignment_note": "234→E232,235→E233;236→E234"
+    "boundary_status": "verified nine-part family",
+    "following_family_starts": 245,
+    "following_title": "Survival Contest (1)",
+    "alignment_note": "236→E234 through244→E242;245→E243"
   },
   "chapters": [
     {
@@ -3277,6 +3277,34 @@
       "acceptance": "qa/acceptance/chapter-0233.json",
       "acceptance_sha": "55649b5ebc7a2c6c2490a926a190317b494bd987",
       "family_qa": "qa/families/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 234,
+      "title": "Suspicion (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/234.txt",
+      "english_mtl_reference": "source/chapters/chapter-232.xhtml",
+      "draft": "manuscript/drafts/chapter-0234.md",
+      "qa": "qa/chapter-0234.md",
+      "provenance": "editorial/provenance/chapter-0234.json",
+      "acceptance": "qa/acceptance/chapter-0234.json",
+      "acceptance_sha": "99056382e53f66b350f9aac073ae1e735bac376b",
+      "family_qa": "qa/families/suspicion-0234-0235.md"
+    },
+    {
+      "chapter": 235,
+      "title": "Suspicion (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/235.txt",
+      "english_mtl_reference": "source/chapters/chapter-233.xhtml",
+      "draft": "manuscript/drafts/chapter-0235.md",
+      "qa": "qa/chapter-0235.md",
+      "provenance": "editorial/provenance/chapter-0235.json",
+      "acceptance": "qa/acceptance/chapter-0235.json",
+      "acceptance_sha": "1afe09cba783a42eb36293e893578468c002676d",
+      "family_qa": "qa/families/suspicion-0234-0235.md"
     }
   ]
 }

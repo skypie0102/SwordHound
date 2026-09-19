@@ -1,0 +1,42 @@
+{
+  "chapter": 234,
+  "title": "Suspicion (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Suspicion",
+    "range": [
+      234,
+      235
+    ],
+    "family_qa_path": "qa/families/suspicion-0234-0235.md",
+    "family_qa_sha": "adcfea42120b332df0d35779d70bada3b8d460cc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/234.txt",
+    "primary_source_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_reference_path": "source/chapters/chapter-232.xhtml",
+    "english_reference_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "draft_path": "manuscript/drafts/chapter-0234.md",
+    "draft_sha": "78be2cb269bab6093a54510c8d3e3d62d00bf0ad",
+    "qa_path": "qa/chapter-0234.md",
+    "qa_sha": "0931fade3cf8bd09ccb32f07cadaf753015e5d98",
+    "provenance_path": "editorial/provenance/chapter-0234.json",
+    "provenance_sha": "9d4d9dc967506564fcb0f08609e2da0a06278ea3"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Peri",
+    "Vikir",
+    "Pigi",
+    "Night Hound"
+  ],
+  "documented_limits": [
+    "Dolores's warm-heart reading remains interpretation.",
+    "Pigi romance inference remains misunderstanding.",
+    "Demerit-route pattern does not yet identify Night Hound."
+  ],
+  "next_family_alignment_note": "National University League targets236-244: 236→E234 through244→E242. Target245→E243 begins Survival Contest (1)."
+}
