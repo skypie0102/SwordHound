@@ -1,0 +1,66 @@
+{
+  "chapter": 226,
+  "title": "Tuition (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/226.txt",
+    "blob_sha": "2180db53cc098f97d7b26fd59f85354f71ba5543",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-224.xhtml",
+    "blob_sha": "eea7abb358ddbb27a3000df3ae174c76970731b8",
+    "target_alignment": 226,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0226.md",
+    "blob_sha": "b42f100767822ac83bc55032aa792d984b99e3d0"
+  },
+  "qa": {
+    "path": "qa/chapter-0226.md",
+    "blob_sha": "73be016c8c5ad57b6446c8e6765152c8a0c5e81a",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "scholarship",
+      "final": "Vikir has roughly 80% support; Banshee supplied recommendation; poor attitude prevents full scholarship",
+      "basis": "Chinese C226"
+    },
+    {
+      "topic": "money_trail",
+      "final": "Vikir refuses Baskerville/Cindywendy transfers to prevent traceable covert financial links",
+      "basis": "Chinese C226"
+    },
+    {
+      "topic": "peri_donations",
+      "final": "Illicit target wealth is redirected to orphanages since separation from Peri",
+      "basis": "Chinese C226"
+    },
+    {
+      "topic": "monster_work",
+      "final": "Monster hunting selected as high-income short-term tuition work",
+      "basis": "Chinese C226"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}
