@@ -78,6 +78,22 @@ The likely source—
 
 of the snake-like destruction marks.
 
+Then Ms. Ouroboros looked directly at Vikir.
+
+[…!]
+
+A brief flinch.
+
+Vikir narrowed his eyes.
+
+From the instant their gazes met—
+
+her presence changed.
+
+Killing intent—
+
+suddenly pressed across the surrounding area.
+
 [Hehehe.]
 
 [Children who put their hands—
