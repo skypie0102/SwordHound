@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **381 / 500 accepted; next Chapter 382.** Latest accepted family: **targets 377–381 — The Hounds of Nouvelle Vague (1)–(5)**.
+Current checkpoint: **384 / 500 accepted; next Chapter 385.** Latest accepted family: **targets 382–384 — Kennel (1)–(3)**.
 
-The next verified family is **Kennel, targets 382–384**, mapped **382→E380 through 384→E382**. Target 385 begins **The Rotten Dog of Nouvelle Vague (1)** and maps to E383.
+The next verified family is **The Rotten Dog of Nouvelle Vague, targets 385–389**, mapped **385→E383 through 389→E387**. Targets 385–386 share Chinese raw `385.txt` and require explicit split verification before drafting; target 390 begins **The Worst Torture (1)** and maps to E388.
 
 ## Current source policy
 
@@ -40,30 +40,28 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 The latest accepted family adds/revalidates:
 
-- **The Hounds of Nouvelle Vague** — accepted five-part family, targets **377–381** / witnesses **E375–E379**.
-- **Corrected family boundary** — the earlier provisional 377–380 assumption is superseded; target381 is part (5).
-- **Sakkuth sponsor references** — Queen / Boss / “Him” remain unresolved.
-- **Kirko Grimm birth trauma** — source-timed to target379; preserve plainly without embellishment.
-- **Garam Nord death** — target380; he dies protecting Kirko.
-- **Target381 disguise correction** — Chinese green marker/ink + seawater, rejecting shifted witness “green vodka.”
-- **Regeneration continuity guard** — local Basilisk wording does not overwrite accepted **Immortality — Gargoyle (S)** continuity.
-- **Garam disguise** — rank/uniform/appearance carry the impersonation; Kirko recognizes only “Garam.”
-- **Kennel** — next family targets **382–384 / E380–E382**.
-- **The Rotten Dog of Nouvelle Vague** — follows at **385–389 / E383–E387**; targets385–386 share Chinese raw `385.txt` and require explicit split verification.
+- **Kennel** — accepted three-part family, targets **382–384** / witnesses **E380–E382**.
+- **Gulper / Elevator Eels** — Nouvelle Vague’s controlled return route to the surface; Vikir releases six as distractions and postpones escape.
+- **Flubber** — self-healing mucus barrier that holds back the deep ocean.
+- **BDISSEM** — brigadier-general dryad / Ent source of the prison restraints and oxygen supply.
+- **Seaweed-line dryad** — BDISSEM becomes stronger in concentrated saltwater.
+- **Orca** — still absent on a broad surface emergency; no later motive imported.
+- **The Rotten Dog of Nouvelle Vague** — next family targets **385–389 / E383–E387**; targets385–386 share raw `385.txt`.
+- **The Worst Torture** — follows at **390–395 / E388–E393**.
 
 For the full accumulated terminology and continuity record, see `editorial/GLOSSARY.md`.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–381**:
+Current accepted production evidence covers targets **1–384**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0381.md`
-- `qa/chapter-0001.md` through `chapter-0381.md`
-- accepted family QA through `qa/families/hounds-nouvelle-vague-0377-0381.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0381.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0381.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0384.md`
+- `qa/chapter-0001.md` through `chapter-0384.md`
+- accepted family QA through `qa/families/kennel-0382-0384.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0384.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0384.json`
 
-Latest family QA: `qa/families/hounds-nouvelle-vague-0377-0381.md` — **PASS**.
+Latest family QA: `qa/families/kennel-0382-0384.md` — **PASS**.
 
 ## Editorial quality bar
 
