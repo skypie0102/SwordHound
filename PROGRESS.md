@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Grave of Swords (1)–(6) accepted
+
+**Current state:** 260 / 500 accepted; 0 staged; next Chapter 261.
+
+Completed targets **255–260** with mapping **255→E253 through 260→E258**.
+
+Key decisions: Ballak contact loss remains unresolved; Cane Corso is the unreachable seventh Count and master of the Grave of Swords; Vikir reaches Eighth Fang under mortal pressure; Beelzebub Slot 2 is Chinese-primary **Immortality — Gargoyle (S)** rather than shifted-English Basilisk; Cane Corso is a Death Knight at Ninth Fang; and the family ends with two Wraith Tree saplings.
+
+Family QA: `qa/families/grave-of-swords-0255-0260.md` — **PASS**.
+
+Next verified start: **261→E259 — The Inverted Pentagram (1)**.
+
 ## 2026-09-19 — Five Stars (1)–(2) accepted
 
 **Current state:** 254 / 500 accepted; 0 staged; next Chapter 255.

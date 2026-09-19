@@ -1,0 +1,37 @@
+{
+  "chapter": 257,
+  "title": "The Grave of Swords (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Grave of Swords",
+    "range": [
+      255,
+      260
+    ],
+    "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
+    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/257.txt",
+    "blob_sha": "e7ee6b3e953cc85e3a24e83f8f772ca85acc011d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-255.xhtml",
+    "blob_sha": "1b53b046fb0cc1190b9a81bb5aa5df6814766fc6",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0257.md",
+    "blob_sha": "cf946735a86761f2b36fcf6a1ee1682719e7a3fa"
+  },
+  "qa": {
+    "path": "qa/chapter-0257.md",
+    "blob_sha": "9c3ec647e3437429bf27d71a8a175719e706baa1",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

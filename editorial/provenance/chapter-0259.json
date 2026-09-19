@@ -1,0 +1,38 @@
+{
+  "chapter": 259,
+  "title": "The Grave of Swords (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Grave of Swords",
+    "range": [
+      255,
+      260
+    ],
+    "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
+    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/259.txt",
+    "blob_sha": "e4d520c2f9557ec7d6812186228226a8d64c0c3f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-257.xhtml",
+    "blob_sha": "91bb0e77ed6c0c27bdbd271586b770f9dbfc622e",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0259.md",
+    "blob_sha": "afe20c6359515662adff17f2192220f99cdf720e"
+  },
+  "qa": {
+    "path": "qa/chapter-0259.md",
+    "blob_sha": "2b6e460235d8b52db9521d6d2f07d2326daa40a3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_correction": "Beelzebub Slot 2 is Immortality — Gargoyle (S); shifted-English Basilisk rejected."
+}

@@ -1,0 +1,33 @@
+{
+  "chapter": 257,
+  "title": "The Grave of Swords (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Grave of Swords",
+    "range": [
+      255,
+      260
+    ],
+    "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
+    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/257.txt",
+    "primary_source_sha": "e7ee6b3e953cc85e3a24e83f8f772ca85acc011d",
+    "english_reference_path": "source/chapters/chapter-255.xhtml",
+    "english_reference_sha": "1b53b046fb0cc1190b9a81bb5aa5df6814766fc6",
+    "draft_path": "manuscript/drafts/chapter-0257.md",
+    "draft_sha": "cf946735a86761f2b36fcf6a1ee1682719e7a3fa",
+    "qa_path": "qa/chapter-0257.md",
+    "qa_sha": "9c3ec647e3437429bf27d71a8a175719e706baa1",
+    "provenance_path": "editorial/provenance/chapter-0257.json",
+    "provenance_sha": "65a237b8ffc52ab469ba4fa099ba9ebf52281fa3"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable; established glossary forms were reused.",
+    "No Inverted Pentagram material from target261 is imported."
+  ]
+}

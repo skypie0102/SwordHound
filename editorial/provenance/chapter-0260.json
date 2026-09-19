@@ -1,0 +1,42 @@
+{
+  "chapter": 260,
+  "title": "The Grave of Swords (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "The Grave of Swords",
+    "range": [
+      255,
+      260
+    ],
+    "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
+    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/260.txt",
+    "blob_sha": "d03866e55837cd1b71485b130e096f10882fd805",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-258.xhtml",
+    "blob_sha": "b5dad04e234eb4f2f15e05f6abdd2942845b68e9",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0260.md",
+    "blob_sha": "1a6ad004ed5c0e0955d7cc2e7ab794c44cbf7cd8"
+  },
+  "qa": {
+    "path": "qa/chapter-0260.md",
+    "blob_sha": "76766fcec245c29ffb003d43cc863c100ca84d3f",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/261.txt",
+    "english_path": "source/chapters/chapter-259.xhtml",
+    "purpose": "target261 begins The Inverted Pentagram (1)"
+  }
+}
