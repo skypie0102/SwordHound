@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 381,
+  "accepted_count": 384,
   "staged_count": 0,
-  "next_chapter": 382,
+  "next_chapter": 385,
   "active_title_family": {
-    "name": "Kennel",
+    "name": "The Rotten Dog of Nouvelle Vague",
     "range": [
-      382,
-      384
+      385,
+      389
     ],
-    "boundary_status": "verified complete: target382→E380 through target384→E382",
-    "following_family_starts": 385,
-    "following_title": "The Rotten Dog of Nouvelle Vague (1)",
-    "alignment_note": "382→E380 Kennel (1), 383→E381 Kennel (2), 384→E382 Kennel (3); target385→E383 begins The Rotten Dog of Nouvelle Vague (1)."
+    "boundary_status": "verified complete: target385→E383 through target389→E387; targets385-386 share Chinese raw 385.txt and require explicit internal split validation",
+    "following_family_starts": 390,
+    "following_title": "The Worst Torture (1)",
+    "alignment_note": "385→E383 through 389→E387; 390→E388 begins The Worst Torture (1), continuing through target395→E393."
   },
   "chapters": [
     {
@@ -5349,6 +5349,48 @@
       "acceptance": "qa/acceptance/chapter-0381.json",
       "acceptance_sha": "8feaedac1976fe4c93ab7fe30024a4ed0fce2563",
       "family_qa": "qa/families/hounds-nouvelle-vague-0377-0381.md"
+    },
+    {
+      "chapter": 382,
+      "title": "Kennel (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/382.txt",
+      "english_mtl_reference": "source/chapters/chapter-380.xhtml",
+      "draft": "manuscript/drafts/chapter-0382.md",
+      "qa": "qa/chapter-0382.md",
+      "provenance": "editorial/provenance/chapter-0382.json",
+      "acceptance": "qa/acceptance/chapter-0382.json",
+      "acceptance_sha": "41f531e82de671d4d5d22ac32e1f552d6bc5ffd8",
+      "family_qa": "qa/families/kennel-0382-0384.md"
+    },
+    {
+      "chapter": 383,
+      "title": "Kennel (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/383.txt",
+      "english_mtl_reference": "source/chapters/chapter-381.xhtml",
+      "draft": "manuscript/drafts/chapter-0383.md",
+      "qa": "qa/chapter-0383.md",
+      "provenance": "editorial/provenance/chapter-0383.json",
+      "acceptance": "qa/acceptance/chapter-0383.json",
+      "acceptance_sha": "d6a4eece3880ce819e9a6f9cae0e1b7f3af1fe71",
+      "family_qa": "qa/families/kennel-0382-0384.md"
+    },
+    {
+      "chapter": 384,
+      "title": "Kennel (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/384.txt",
+      "english_mtl_reference": "source/chapters/chapter-382.xhtml",
+      "draft": "manuscript/drafts/chapter-0384.md",
+      "qa": "qa/chapter-0384.md",
+      "provenance": "editorial/provenance/chapter-0384.json",
+      "acceptance": "qa/acceptance/chapter-0384.json",
+      "acceptance_sha": "62a496b794db016add2e9120b3801064922e26ae",
+      "family_qa": "qa/families/kennel-0382-0384.md"
     }
   ]
 }
