@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **384 / 500 accepted; next Chapter 385.** Latest accepted family: **targets 382–384 — Kennel (1)–(3)**.
+Current checkpoint: **389 / 500 accepted; next Chapter 390.** Latest accepted family: **targets 385–389 — The Rotten Dog of Nouvelle Vague (1)–(5)**.
 
-The next verified family is **The Rotten Dog of Nouvelle Vague, targets 385–389**, mapped **385→E383 through 389→E387**. Targets 385–386 share Chinese raw `385.txt` and require explicit split verification before drafting; target 390 begins **The Worst Torture (1)** and maps to E388.
+The next verified family is **The Worst Torture, targets 390–395**, mapped **390→E388 through 395→E393**. Target 396 begins **Dead Man Walking (1)**.
 
 ## Current source policy
 
@@ -40,28 +40,29 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 
 The latest accepted family adds/revalidates:
 
-- **Kennel** — accepted three-part family, targets **382–384** / witnesses **E380–E382**.
-- **Gulper / Elevator Eels** — Nouvelle Vague’s controlled return route to the surface; Vikir releases six as distractions and postpones escape.
-- **Flubber** — self-healing mucus barrier that holds back the deep ocean.
-- **BDISSEM** — brigadier-general dryad / Ent source of the prison restraints and oxygen supply.
-- **Seaweed-line dryad** — BDISSEM becomes stronger in concentrated saltwater.
-- **Orca** — still absent on a broad surface emergency; no later motive imported.
-- **The Rotten Dog of Nouvelle Vague** — next family targets **385–389 / E383–E387**; targets385–386 share raw `385.txt`.
-- **The Worst Torture** — follows at **390–395 / E388–E393**.
+- **The Rotten Dog of Nouvelle Vague** — accepted five-part family, targets **385–389 / E383–E387**.
+- **385/386 shared raw** — explicit embedded Chapter386 marker; target385 receives only the localized missing closing handoff from E383.
+- **Flubber J Tarbond** — lieutenant-colonel officer, distinct from the Flubber barrier substance.
+- **Garam Nord** — Vikir’s active guard disguise; Gargoyle regeneration continuity remains locked.
+- **Pal Euspear** — source-local aligned-witness form; no accessible Fandom entry found.
+- **Kirko guard** — suspicion/competition increases, but Vikir’s identity remains hidden.
+- **Monthly evaluation** — Garam 108%, Kirko 96%.
+- **The Worst Torture** — next family targets **390–395 / E388–E393**.
+- **Dead Man Walking** — begins target396.
 
 For the full accumulated terminology and continuity record, see `editorial/GLOSSARY.md`.
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–384**:
+Current accepted production evidence covers targets **1–389**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0384.md`
-- `qa/chapter-0001.md` through `chapter-0384.md`
-- accepted family QA through `qa/families/kennel-0382-0384.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0384.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0384.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0389.md`
+- `qa/chapter-0001.md` through `chapter-0389.md`
+- accepted family QA through `qa/families/rotten-dog-0385-0389.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0389.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0389.json`
 
-Latest family QA: `qa/families/kennel-0382-0384.md` — **PASS**.
+Latest family QA: `qa/families/rotten-dog-0385-0389.md` — **PASS**.
 
 ## Editorial quality bar
 

@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 384,
+  "accepted_chapters": 389,
   "staged_chapters": 0,
-  "next_chapter": 385,
+  "next_chapter": 390,
   "latest_accepted_family": {
-    "name": "Kennel",
-    "range": [
-      382,
-      384
-    ],
-    "family_qa": "qa/families/kennel-0382-0384.md"
-  },
-  "next_title_family": {
     "name": "The Rotten Dog of Nouvelle Vague",
     "range": [
       385,
       389
     ],
-    "boundary_status": "verified complete; targets385-386 share Chinese raw 385.txt and require split validation",
-    "following_family_starts": 390,
-    "following_title": "The Worst Torture (1)",
-    "alignment_note": "385→E383 through 389→E387; The Worst Torture runs target390→E388 through 395→E393."
+    "family_qa": "qa/families/rotten-dog-0385-0389.md"
+  },
+  "next_title_family": {
+    "name": "The Worst Torture",
+    "range": [
+      390,
+      395
+    ],
+    "boundary_status": "verified complete",
+    "following_family_starts": 396,
+    "following_title": "Dead Man Walking (1)",
+    "alignment_note": "390→E388 through 395→E393; target396 begins Dead Man Walking (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -446,9 +446,21 @@
     381,
     382,
     383,
-    384
+    384,
+    385,
+    386,
+    387,
+    388,
+    389
   ],
   "notes": [
+    "Chapters385-389 accepted as The Rotten Dog of Nouvelle Vague (1)-(5), mapping E383-E387.",
+    "Targets385-386 share raw385.txt with an explicit embedded Chapter386 marker; target385 restores only a localized closing gap from E383.",
+    "Lieutenant Colonel Flubber J Tarbond is distinct from the Flubber barrier substance.",
+    "Garam Nord identity is canonicalized; local Basilisk regeneration drift remains rejected in favor of accepted Gargoyle-slot continuity.",
+    "Pal Euspear is retained as an aligned-witness/source-local spelling without claiming inaccessible Fandom confirmation.",
+    "Kirko's attitude shift remains competition/inferiority and suspicion; Vikir's identity is not discovered.",
+    "Next family The Worst Torture is targets390-395 / E388-E393; Dead Man Walking begins target396.",
     "Chapters382-384 accepted as Kennel (1)-(3), mapping E380-E382.",
     "Gulper / Elevator Eels are Nouvelle Vague's controlled return route; Vikir releases six only as distractions and postpones escape.",
     "Flubber is the self-healing ocean barrier; BDISSEM is the dryad/Ent source of the prison restraints and also supplies oxygen.",

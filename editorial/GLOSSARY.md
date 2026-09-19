@@ -1,3 +1,21 @@
+## The Rotten Dog of Nouvelle Vague additions — Chapters 385–389
+
+- **The Rotten Dog of Nouvelle Vague** — accepted five-part family, targets385–389 / witnesses E383–E387.
+- **385/386 shared-raw rule** — `source/chinese/chapters/385.txt` contains an explicit embedded Chapter386 marker. Target385 is the pre-marker segment plus only the localized E383 closing gap; target386 begins at that marker.
+- **Target385 closing restoration** — official Night Hound death classification, surface mana transmission / registry strikeout, and Vikir’s Garam Nord disguise handoff are restored only from aligned E383.
+- **Flubber J Tarbond** — designated Fandom confirms the Nouvelle Vague lieutenant-colonel officer; do not conflate this character with the separate **Flubber** mucus-barrier substance.
+- **Gulper Eel growth** — Chinese says extremely slow; reject E383 “extremely fast” witness error.
+- **Garam Nord** — canonical guard identity used by Vikir; age 21 in target386 profile.
+- **Regeneration continuity guard** — local target386 Basilisk scar/regeneration wording remains drift; do not overwrite **Immortality — Gargoyle (S)**.
+- **Garam diary / Kirko** — Garam’s admiration is unrequited; his final wish is to show Kirko the surface world.
+- **Pal Euspear** — source-local / aligned E385 spelling for the former Colosseo student imprisoned on Level One; no accessible designated-Fandom entry found.
+- **Level One riot policy** — Nouvelle Vague commonly tolerates or manipulates lower-floor riots to train junior guards.
+- **Kirko identity guard** — Kirko grows suspicious of Garam/Vikir but does not uncover him.
+- **Monthly evaluation** — Garam 108%, Kirko 96%, third 89%.
+- **Promotion objective** — Vikir wants at least Captain, preferably Major, to inspect Level Nine / Poseidon freely.
+- **The Worst Torture** — next family targets390–395 / E388–E393.
+- **Dead Man Walking** — begins target396.
+
 ## Kennel additions — Chapters 382–384
 
 - **Kennel** — accepted three-part family, targets382–384 / witnesses E380–E382.
