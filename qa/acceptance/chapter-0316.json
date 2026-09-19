@@ -1,0 +1,33 @@
+{
+  "chapter": 316,
+  "title": "Surplus Man (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Surplus Man",
+    "range": [
+      314,
+      320
+    ],
+    "family_qa_path": "qa/families/surplus-man-0314-0320.md",
+    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/316.txt",
+    "primary_source_sha": "6beb3b2933ecc0d87886e950e1a45a3d532e5b90",
+    "english_reference_path": "source/chapters/chapter-314.xhtml",
+    "english_reference_sha": "0b5b9b04b8c7ecd083a615735e3cef66d251e009",
+    "draft_path": "manuscript/drafts/chapter-0316.md",
+    "draft_sha": "7de240c7e605e985496aa652b2b15479bd6a6e6c",
+    "qa_path": "qa/chapter-0316.md",
+    "qa_sha": "c797f5bb7758d83c51e672aa24f4d19bed504423",
+    "provenance_path": "editorial/provenance/chapter-0316.json",
+    "provenance_sha": "d58fc31f9675ec0a1efcdb7ec6bae4f7145873a3"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Underdogma material from target321 is imported."
+  ]
+}

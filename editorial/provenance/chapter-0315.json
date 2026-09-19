@@ -1,0 +1,37 @@
+{
+  "chapter": 315,
+  "title": "Surplus Man (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Surplus Man",
+    "range": [
+      314,
+      320
+    ],
+    "family_qa_path": "qa/families/surplus-man-0314-0320.md",
+    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/315.txt",
+    "blob_sha": "b6f09321a33c2baaff388cb126cf217dd567e3b1",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-313.xhtml",
+    "blob_sha": "56474f261242b50cd8eda828a0cfb70c2d80eb2a",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0315.md",
+    "blob_sha": "c08ade933002be7f42660040822d23d87d4e2f0a"
+  },
+  "qa": {
+    "path": "qa/chapter-0315.md",
+    "blob_sha": "891d4a6a8d633d0bb75ee4af47efe88fc7443bce",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

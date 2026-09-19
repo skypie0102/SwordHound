@@ -1,3 +1,21 @@
+## Surplus Man additions — Chapters 314–320
+
+- **Surplus Man** — accepted seven-part family, targets314–320 / witnesses E312–E318. Previous 314–315 boundary was incomplete.
+- **Daylily of Blood Tree** — S-rank tower plant on Basement Floor3; dehydrated/weakened but designed to be effectively unbeatable for ordinary students.
+- **Mission-duration rule** — maximum survival days track the current survivor count.
+- **Arthur Gordon Pym** — third-year noble-faction leader on Basement Floor3.
+- **Random Box** — may contain useful items, Strange Candy, junk, or a Mimic.
+- **Reflexes** — silver hidden-stat candy; Vikir unlocks 0→1 in target319.
+- **Vikir Floor3 stats** — after target318 candy use: Strength260 / Agility229 / Stamina269 / Physical Resistance1; Reflexes unlocks next.
+- **Impossible achievement** — awarded for Level1 Vikir defeating the S-rank Daylily.
+- **Strange Candy Bag / Conversion Bug** — S-rank hidden reward; consumes 100 same-color candies and produces one random-color candy.
+- **Baby Madam Conversion Bug host** — harmless parasite attaches beneath Baby Madam’s chin.
+- **Sunflower-Seed Vole Tooth Hoe** — D-rank tool used to harvest Daylily seeds.
+- **Water-Resistant Oil-Paper Bag** — D-rank storage used to keep harvested seeds dry and prevent germination.
+- **Floor3 survivor count** — all 68 survivors transition to Basement Floor4.
+- **Underdogma** — next family targets321–325 / E319–E323.
+- **The Shadowless King of the Black Sea** — follows targets326–330 / E324–E328.
+
 ## Hell Tree additions — Chapters 307–313
 
 - **Hell Tree** — accepted seven-part family, targets307–313 / witnesses E305–E311.

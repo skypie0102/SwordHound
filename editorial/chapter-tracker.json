@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 313,
+  "accepted_count": 320,
   "staged_count": 0,
-  "next_chapter": 314,
+  "next_chapter": 321,
   "active_title_family": {
-    "name": "Surplus Man",
+    "name": "Underdogma",
     "range": [
-      314,
-      315
+      321,
+      325
     ],
-    "boundary_status": "verified complete: target314→E312 through target315→E313",
-    "following_family_starts": 316,
-    "following_title": null,
-    "alignment_note": "314→E312 Surplus Man (1), 315→E313 Surplus Man (2); determine target316 title family before acceptance."
+    "boundary_status": "verified complete: target321→E319 through target325→E323",
+    "following_family_starts": 326,
+    "following_title": "The Shadowless King of the Black Sea (1)",
+    "alignment_note": "321→E319 through 325→E323; 326→E324 begins The Shadowless King of the Black Sea (1), continuing through target330→E328."
   },
   "chapters": [
     {
@@ -4397,6 +4397,104 @@
       "acceptance": "qa/acceptance/chapter-0313.json",
       "acceptance_sha": "ff13c3ca03db7d0f04eaf097f4debc949ef85eb8",
       "family_qa": "qa/families/hell-tree-0307-0313.md"
+    },
+    {
+      "chapter": 314,
+      "title": "Surplus Man (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/314.txt",
+      "english_mtl_reference": "source/chapters/chapter-312.xhtml",
+      "draft": "manuscript/drafts/chapter-0314.md",
+      "qa": "qa/chapter-0314.md",
+      "provenance": "editorial/provenance/chapter-0314.json",
+      "acceptance": "qa/acceptance/chapter-0314.json",
+      "acceptance_sha": "cda30f9a91ad0ca0be4e4194d971fe4a434aa57e",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 315,
+      "title": "Surplus Man (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/315.txt",
+      "english_mtl_reference": "source/chapters/chapter-313.xhtml",
+      "draft": "manuscript/drafts/chapter-0315.md",
+      "qa": "qa/chapter-0315.md",
+      "provenance": "editorial/provenance/chapter-0315.json",
+      "acceptance": "qa/acceptance/chapter-0315.json",
+      "acceptance_sha": "169aabecffa950341143718fa929440877ad0acf",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 316,
+      "title": "Surplus Man (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/316.txt",
+      "english_mtl_reference": "source/chapters/chapter-314.xhtml",
+      "draft": "manuscript/drafts/chapter-0316.md",
+      "qa": "qa/chapter-0316.md",
+      "provenance": "editorial/provenance/chapter-0316.json",
+      "acceptance": "qa/acceptance/chapter-0316.json",
+      "acceptance_sha": "609f5769efe456690a6f1d6f789e4ca8c18eb2d6",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 317,
+      "title": "Surplus Man (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/317.txt",
+      "english_mtl_reference": "source/chapters/chapter-315.xhtml",
+      "draft": "manuscript/drafts/chapter-0317.md",
+      "qa": "qa/chapter-0317.md",
+      "provenance": "editorial/provenance/chapter-0317.json",
+      "acceptance": "qa/acceptance/chapter-0317.json",
+      "acceptance_sha": "4998cc543c6b1c92a394dde8dc582130bf554742",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 318,
+      "title": "Surplus Man (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/318.txt",
+      "english_mtl_reference": "source/chapters/chapter-316.xhtml",
+      "draft": "manuscript/drafts/chapter-0318.md",
+      "qa": "qa/chapter-0318.md",
+      "provenance": "editorial/provenance/chapter-0318.json",
+      "acceptance": "qa/acceptance/chapter-0318.json",
+      "acceptance_sha": "2bc14d213f15377360ed274750c01db2fa17f083",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 319,
+      "title": "Surplus Man (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/319.txt",
+      "english_mtl_reference": "source/chapters/chapter-317.xhtml",
+      "draft": "manuscript/drafts/chapter-0319.md",
+      "qa": "qa/chapter-0319.md",
+      "provenance": "editorial/provenance/chapter-0319.json",
+      "acceptance": "qa/acceptance/chapter-0319.json",
+      "acceptance_sha": "f766b3fb8695cf3afd550f5d375071ebfc7dd1fa",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 320,
+      "title": "Surplus Man (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/320.txt",
+      "english_mtl_reference": "source/chapters/chapter-318.xhtml",
+      "draft": "manuscript/drafts/chapter-0320.md",
+      "qa": "qa/chapter-0320.md",
+      "provenance": "editorial/provenance/chapter-0320.json",
+      "acceptance": "qa/acceptance/chapter-0320.json",
+      "acceptance_sha": "b02d63e9f5524f80b39b1e7f72103c0813f9ba6b",
+      "family_qa": "qa/families/surplus-man-0314-0320.md"
     }
   ]
 }

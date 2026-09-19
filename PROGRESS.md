@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Surplus Man (1)–(7) accepted
+
+**Current state:** 320 / 500 accepted; 0 staged; next Chapter 321.
+
+Completed targets **314–320** with mapping **E312–E318**.
+
+Key decisions: corrected the stale two-chapter boundary to a seven-part family; Daylily of Blood Tree is S-rank; mission duration tracks survivor count; Vikir avoids actual sacrifice through pooled nonlethal biological material; Silver Reflexes unlocks a fifth tower stat; and the hidden S-rank Conversion Bug becomes Baby Madam’s harmless host.
+
+Family QA: `qa/families/surplus-man-0314-0320.md` — **PASS**.
+
+Next verified family: **321–325 — Underdogma (1)–(5)**, mapping **E319–E323**. Shadowless King follows targets326–330 / E324–E328.
+
 ## 2026-09-19 — Hell Tree (1)–(7) accepted
 
 **Current state:** 313 / 500 accepted; 0 staged; next Chapter 314.
