@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 269  
+**Accepted:** 272  
 **Staged:** 0  
-**Next chapter:** 270
+**Next chapter:** 273
 
-Latest accepted family: **The Eucharist (1)–(2)** — targets268–269 / E266–E267.  
-Family QA: `qa/families/eucharist-0268-0269.md` — **PASS**.
+Latest accepted family: **Rich Friends (1)–(3)** — targets270–272 / E268–E270.  
+Family QA: `qa/families/rich-friends-0270-0272.md` — **PASS**.
 
-Key decisions: target268 uses the shared `267.txt` remainder; Dolores’s Night-Hound attraction remains unilateral; Humbert is demon-connected but not a demon; predatory cults are gathered through forged invitations while harmless folk traditions are excluded; Ms. Ouroboros performs the purge; and Ohm’s recovered ledger points toward the next financial/hiding-place reveal.
+Key decisions: House Bourgeois is the financial endpoint identified by the ledger; Cindywendy confirms the family head is a demon; Vikir needs credible wealth provenance rather than unexplained capital; Winston/Orwell remain a separate Academy mystery; Oracle uses Pigi and Sinclaire for information and administration.
 
-Next verified family: **Rich Friends (1)–(3)** — targets270–272 / E268–E270.  
-Following family: **Money War (1)–(6)** — targets273–278 / E271–E276.
+Next verified family: **Money War (1)–(6)** — targets273–278 / E271–E276.  
+Following family: **What Money Can't Buy (1)–(4)** — targets279–282 / E277–E280.

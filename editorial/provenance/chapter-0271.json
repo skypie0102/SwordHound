@@ -1,0 +1,38 @@
+{
+  "chapter": 271,
+  "title": "Rich Friends (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Rich Friends",
+    "range": [
+      270,
+      272
+    ],
+    "family_qa_path": "qa/families/rich-friends-0270-0272.md",
+    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/271.txt",
+    "blob_sha": "8702dabea49f85e9d8aef4427c700ffb764ade17",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-269.xhtml",
+    "blob_sha": "8ab8f53a25ed85da48bbbf427448e0648dd4918b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0271.md",
+    "blob_sha": "9e8bd0aa398d14e98752835446b0868b43342ccb"
+  },
+  "qa": {
+    "path": "qa/chapter-0271.md",
+    "blob_sha": "fe9c645ee8854d45cd4406704e37bbdfba454da3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Winston/Orwell/Nouvelle Vague remain source-local pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "key_reveal": "Cindywendy explicitly reports that the head of House Bourgeois is a demon."
+}

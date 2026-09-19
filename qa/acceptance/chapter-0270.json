@@ -1,0 +1,33 @@
+{
+  "chapter": 270,
+  "title": "Rich Friends (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Rich Friends",
+    "range": [
+      270,
+      272
+    ],
+    "family_qa_path": "qa/families/rich-friends-0270-0272.md",
+    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/270.txt",
+    "primary_source_sha": "f74a416060a06bd97015115a710fecf96036e805",
+    "english_reference_path": "source/chapters/chapter-268.xhtml",
+    "english_reference_sha": "9c3e9caa4628a20dced6cc3ef844647d5fa0576d",
+    "draft_path": "manuscript/drafts/chapter-0270.md",
+    "draft_sha": "31602e213e00a4a308482e1363e0e4158dca8bb6",
+    "qa_path": "qa/chapter-0270.md",
+    "qa_sha": "1b9cfeef36e5f7be743e4754dfa25e72953fbc23",
+    "provenance_path": "editorial/provenance/chapter-0270.json",
+    "provenance_sha": "f42c8553edacb716bee7f3d5a96246458436e337"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Money War outcome from target273 is imported."
+  ]
+}

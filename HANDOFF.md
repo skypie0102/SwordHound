@@ -1,45 +1,39 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 269 / 500  
+**Accepted:** 272 / 500  
 **Staged:** 0  
-**Next target:** 270
+**Next target:** 273
 
 ## Latest accepted family
 
-**The Eucharist (1)–(2)** — targets **268–269**.
+**Rich Friends (1)–(3)** — targets **270–272**.
 
-- Family QA: `qa/families/eucharist-0268-0269.md` — PASS.
-- Alignment: **268→E266, 269→E267**.
-- Target268 uses the remaining target268 segment of shared raw `source/chinese/chapters/267.txt`; no internal Chapter-268 heading exists.
-- Dolores’s romantic/fate interpretation of Night Hound remains unilateral; she does not identify him as Vikir.
-- Humbert carries demonic residue but remains non-demonic in Vikir’s current assessment.
-- New Testament priests remain free of the Sixth-Corpse scent in Vikir’s observations.
-- Dolores still cannot reproduce the Dantalian-battle buff at will.
-- Target269 gathers predatory cult/heresy leaders with forged Martin Luther invitations reproduced through Baby Madam’s hardened silk.
-- Harmless indigenous / folk traditions are explicitly excluded from the extermination plan.
-- Ms. Ouroboros unexpectedly performs most of the purge; her identity/motive remains unresolved beyond anti-demon hostility and pursuit of Night Hound.
-- Source violence is preserved unsanitized.
-- Decarabia extracts Ohm’s ledger clue; Dolores recovers the ledger.
-- The dominant ledger counterparty / Sixth-Corpse hiding place remains withheld until the next family.
-- Direct Fandom re-check remains robots-blocked.
+- Family QA: `qa/families/rich-friends-0270-0272.md` — PASS.
+- Alignment: **270→E268, 271→E269, 272→E270**.
+- Ledger evidence identifies House Bourgeois as the dominant financial endpoint behind the cult → indulgence → Old Testament flow.
+- Vikir still distinguishes the individual hidden threat from House Bourgeois as a whole.
+- Damien Bourgeois is the source example for auctioned meal access at roughly 100 kg of gold.
+- Cindywendy's Academy visit uses an “older sister” cover only.
+- Ballak contact remains missing while other jungle trade continues.
+- Cindywendy explicitly reports that the **head of House Bourgeois is a demon**.
+- Vikir needs a credible and interesting source of wealth rather than unexplained capital.
+- Winston Smith returns from sabbatical after surviving a mana rampage; Winter Sword Orwell carries an unexplained large scar.
+- Winston/Orwell remain a separate Academy mystery.
+- Dolores creates investment club **Oracle**; Pigi handles information analysis and Sinclaire administration/office work.
+- Dolores intends to remove Pigi and Sinclaire before the later dangerous phase.
+- Direct Fandom re-check remains robots-blocked; Winston/Orwell/Nouvelle Vague remain source-local pending direct access.
 
 ## Next verified family
 
-**Rich Friends (1)–(3)** — targets **270–272**.
-
-Verified mapping:
-- 270→E268 — *Rich Friends (1)*
-- 271→E269 — *Rich Friend (2)*
-- 272→E270 — *Rich Friend (3)*
+**Money War (1)–(6)** — targets **273–278**, mapped **E271–E276**.
 
 Following family:
-- **273→E271 — Money War (1)**, continuing through target278 / E276.
+- **279→E277 — What Money Can't Buy (1)**, continuing through target282 / E280.
 
 ## Exact next actions
 
-1. Read C270–C272 completely against E268–E270.
-2. Resolve the ledger payoff / Sixth-Corpse financial link without importing later Money War revelations.
-3. Reconstruct and QA Rich Friends (1)–(3).
-4. Merge it.
-5. Immediately continue into Money War (1)–(6), targets273–278 / E271–E276.
+1. Read C273–C278 completely against E271–E276.
+2. Reconstruct and QA the full Money War family without importing target279 material early.
+3. Merge it.
+4. Immediately continue into What Money Can't Buy (1)–(4), targets279–282 / E277–E280.
