@@ -1,0 +1,37 @@
+{
+  "chapter": 293,
+  "title": "Confessions (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Confessions",
+    "range": [
+      293,
+      295
+    ],
+    "family_qa_path": "qa/families/confessions-0293-0295.md",
+    "family_qa_sha": "6eabea8d34e1d599b5490d639fee708677854110",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/293.txt",
+    "blob_sha": "1afd1070b78351406335acf9e98be9af5d801a80",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-291.xhtml",
+    "blob_sha": "7a925a1a031cb248b39a7b6aa4a8b334083b0e95",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0293.md",
+    "blob_sha": "c5d8fe6a0a8bf3af17eec81b5cb2addb9f44edc6"
+  },
+  "qa": {
+    "path": "qa/chapter-0293.md",
+    "blob_sha": "5ece5fe86b2e7ae8e4362b16998eae166d2067a1",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
