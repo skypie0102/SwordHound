@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 332,
+  "accepted_chapters": 338,
   "staged_chapters": 0,
-  "next_chapter": 333,
+  "next_chapter": 339,
   "latest_accepted_family": {
-    "name": "Draw",
-    "range": [
-      331,
-      332
-    ],
-    "family_qa": "qa/families/draw-0331-0332.md"
-  },
-  "next_title_family": {
     "name": "The Mating Room",
     "range": [
       333,
-      336
+      338
+    ],
+    "family_qa": "qa/families/mating-room-0333-0338.md"
+  },
+  "next_title_family": {
+    "name": "Trap",
+    "range": [
+      339,
+      340
     ],
     "boundary_status": "verified complete",
-    "following_family_starts": 337,
-    "following_title": null,
-    "alignment_note": "333→E331 through 336→E334; verify target337+ family boundary next."
+    "following_family_starts": 341,
+    "following_title": "Private Life (1)",
+    "alignment_note": "339→E337, 340→E338; Private Life 341→E339 through 342→E340."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -394,9 +394,23 @@
     329,
     330,
     331,
-    332
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338
   ],
   "notes": [
+    "Chapters333-338 accepted as The Mating Room (1)-(6), mapping E331-E336; prior handoff boundary 333-336 was incomplete and corrected before acceptance.",
+    "Dragon Majin laboratory mating-room mechanics are coercive specimen-breeding stages; production preserves source coercion without erotic embellishment.",
+    "C334 post-window 'toad' slips are extraction drift; Giant Mantis identity controls.",
+    "Sinclaire's Floor5 group mission ends with Tudor/Sancho/Pigi/Bianca voluntarily choosing her to survive; Return Scroll continuity remains available to them.",
+    "Local Basilisk regeneration drift in targets337-338 rejected; Beelzebub Slot2 remains Immortality — Gargoyle (S).",
+    "Vikir reveals 'I am Night Hound' to Sinclaire only at target337.",
+    "Target338 ends with Sinclaire sent through the Floor10 gate while the Dragon Majin fist crushes Vikir's position.",
+    "Next family Trap verified targets339-340 / E337-E338; Private Life follows targets341-342 / E339-E340.",
     "Chapters331-332 accepted as Draw (1)-(2), mapping E329-E330.",
     "Fairy casino/dealer interpretation remains Vikir's model, not omniscient cosmology.",
     "Beetlemen reverse-summon fate remains unresolved despite suspicious transfer residue.",
