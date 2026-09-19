@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 347,
+  "accepted_chapters": 350,
   "staged_chapters": 0,
-  "next_chapter": 348,
+  "next_chapter": 351,
   "latest_accepted_family": {
-    "name": "Ballak",
-    "range": [
-      343,
-      347
-    ],
-    "family_qa": "qa/families/ballak-0343-0347.md"
-  },
-  "next_title_family": {
     "name": "Key man",
     "range": [
       348,
       350
     ],
-    "boundary_status": "verified complete",
-    "following_family_starts": 351,
-    "following_title": "Outside the Tower (1)",
-    "alignment_note": "348→E346 through 350→E348; target351→E349 begins Outside the Tower (1) in declared combined raw 351.txt (351+352), pair boundary pending explicit verification."
+    "family_qa": "qa/families/key-man-0348-0350.md"
+  },
+  "next_title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      352
+    ],
+    "boundary_status": "English mapping verified; Chinese combined 351+352 internal split pending explicit verification",
+    "following_family_starts": null,
+    "following_title": null,
+    "alignment_note": "351→E349, 352→E350; inspect forward headings before setting next family."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -409,9 +409,20 @@
     344,
     345,
     346,
-    347
+    347,
+    348,
+    349,
+    350
   ],
   "notes": [
+    "Chapters348-350 accepted as Key man (1)-(3), mapping E346-E348.",
+    "C348 corrupted 'we are not human' is corrected to 'we are human' from immediate demon-gate context and aligned E346.",
+    "Floor11 deathmatch requires both killing and being killed; first deaths wake first, last survivor wakes last.",
+    "Vikir completes Scale of Forced Equality at Level1 with all six stats798, total4788.",
+    "Pigi black blood is an observed anti-demon/tower anomaly; origin/ancestry remains unknown.",
+    "Return Scroll resets Vikir to Tutorial; hoarded Level candies then produce Level100 MAX with all six stats99941.",
+    "Vikir independently realizes complete Eighth Fang/Form and exposes Amdusias S+ above the Tutorial ceiling.",
+    "Next family Outside the Tower targets351-352 / E349-E350; Chinese raw 351.txt is combined and must be split by verified content.",
     "Chapters343-347 accepted as Ballak (1)-(5), mapping E341-E345.",
     "River of Flow accelerates biological/organic time; Tudor/Bianca have aged seven internal years / 2,555 days.",
     "Vikir exploits Scale of Forced Equality with Strength798 as the target for all six unlocked stats.",
