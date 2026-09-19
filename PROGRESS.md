@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Underdogma (1)–(5) accepted
+
+**Current state:** 325 / 500 accepted; 0 staged; next Chapter 326.
+
+Completed targets **321–325** with mapping **E319–E323**.
+
+Key decisions: Black Sea no-buoyancy mechanics; Dogma’s tower-born Commoner Faction and triplet enslavement; Beetlemen world-fragment lore; A+ Underdogma transformation; Vikir’s Level1 kill and reverse Candy Shop conversion; and final **White Magic Resistance +1**.
+
+Family QA: `qa/families/underdogma-0321-0325.md` — **PASS**.
+
+Next verified family: **326–330 — The Shadowless King of the Black Sea (1)–(5)**, mapping **E324–E328**. Draw follows targets331–332 / E329–E330.
+
 ## 2026-09-19 — Surplus Man (1)–(7) accepted
 
 **Current state:** 320 / 500 accepted; 0 staged; next Chapter 321.

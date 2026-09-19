@@ -1,0 +1,37 @@
+{
+  "chapter": 322,
+  "title": "Underdogma (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Underdogma",
+    "range": [
+      321,
+      325
+    ],
+    "family_qa_path": "qa/families/underdogma-0321-0325.md",
+    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/322.txt",
+    "blob_sha": "8cd403a37cc07f37d3065a3e7054d51c80e65885",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-320.xhtml",
+    "blob_sha": "93816a863d2c444ff66482775801cc4910ab1d33",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0322.md",
+    "blob_sha": "5ff83e18bab3f61dc62dbd00a810a8392fb38616"
+  },
+  "qa": {
+    "path": "qa/chapter-0322.md",
+    "blob_sha": "64541b3b587b6cacb4fa0c1d8fdcbc8dd5ae583e",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

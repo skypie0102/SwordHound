@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 320,
+  "accepted_chapters": 325,
   "staged_chapters": 0,
-  "next_chapter": 321,
+  "next_chapter": 326,
   "latest_accepted_family": {
-    "name": "Surplus Man",
-    "range": [
-      314,
-      320
-    ],
-    "family_qa": "qa/families/surplus-man-0314-0320.md"
-  },
-  "next_title_family": {
     "name": "Underdogma",
     "range": [
       321,
       325
     ],
+    "family_qa": "qa/families/underdogma-0321-0325.md"
+  },
+  "next_title_family": {
+    "name": "The Shadowless King of the Black Sea",
+    "range": [
+      326,
+      330
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 326,
-    "following_title": "The Shadowless King of the Black Sea (1)",
-    "alignment_note": "321→E319 through 325→E323; Shadowless King 326→E324 through 330→E328."
+    "following_family_starts": 331,
+    "following_title": "Draw (1)",
+    "alignment_note": "326→E324 through 330→E328; Draw follows 331→E329 through 332→E330."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -382,9 +382,21 @@
     317,
     318,
     319,
-    320
+    320,
+    321,
+    322,
+    323,
+    324,
+    325
   ],
   "notes": [
+    "Chapters321-325 accepted as Underdogma (1)-(5), mapping E319-E323.",
+    "Basement Floor4 Black Sea island has no-buoyancy black water and limited Hell Tree root sap.",
+    "Dogma leads a tower-born Commoner Faction that enslaves surviving nobles/tycoons, including the Baskerville triplets.",
+    "Rhinoceros/Stag Beetlemen are trapped world-fragment peoples from Giant Beetle Island.",
+    "Dogma becomes A+ Majin Underdogma / Blazing Inferiority Complex; Vikir drowns him using Black Sea properties.",
+    "Vikir remains Level1, trades 10 Level candies for ~3000 ordinary candies, and unlocks White Magic Resistance +1 through Conversion Bug rerolls.",
+    "Next family Shadowless King verified targets326-330 / E324-E328; Draw follows targets331-332 / E329-E330.",
     "Chapters314-320 accepted as Surplus Man (1)-(7), mapping E312-E318; previous 314-315 handoff boundary corrected.",
     "Daylily of Blood Tree is S-rank; mission duration tracks survivor count and is designed to provoke sacrifice/cannibalism.",
     "Vikir replaces sacrifice with pooled nonlethal biological material from all survivors and kills the Daylily at Level1.",

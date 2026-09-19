@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 320,
+  "accepted_count": 325,
   "staged_count": 0,
-  "next_chapter": 321,
+  "next_chapter": 326,
   "active_title_family": {
-    "name": "Underdogma",
+    "name": "The Shadowless King of the Black Sea",
     "range": [
-      321,
-      325
+      326,
+      330
     ],
-    "boundary_status": "verified complete: target321→E319 through target325→E323",
-    "following_family_starts": 326,
-    "following_title": "The Shadowless King of the Black Sea (1)",
-    "alignment_note": "321→E319 through 325→E323; 326→E324 begins The Shadowless King of the Black Sea (1), continuing through target330→E328."
+    "boundary_status": "verified complete: target326→E324 through target330→E328",
+    "following_family_starts": 331,
+    "following_title": "Draw (1)",
+    "alignment_note": "326→E324 through 330→E328; 331→E329 begins Draw (1), continuing through target332→E330."
   },
   "chapters": [
     {
@@ -4495,6 +4495,76 @@
       "acceptance": "qa/acceptance/chapter-0320.json",
       "acceptance_sha": "b02d63e9f5524f80b39b1e7f72103c0813f9ba6b",
       "family_qa": "qa/families/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 321,
+      "title": "Underdogma (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/321.txt",
+      "english_mtl_reference": "source/chapters/chapter-319.xhtml",
+      "draft": "manuscript/drafts/chapter-0321.md",
+      "qa": "qa/chapter-0321.md",
+      "provenance": "editorial/provenance/chapter-0321.json",
+      "acceptance": "qa/acceptance/chapter-0321.json",
+      "acceptance_sha": "b9d21b67d0891cf799770d4463517c7d8e5f51a3",
+      "family_qa": "qa/families/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 322,
+      "title": "Underdogma (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/322.txt",
+      "english_mtl_reference": "source/chapters/chapter-320.xhtml",
+      "draft": "manuscript/drafts/chapter-0322.md",
+      "qa": "qa/chapter-0322.md",
+      "provenance": "editorial/provenance/chapter-0322.json",
+      "acceptance": "qa/acceptance/chapter-0322.json",
+      "acceptance_sha": "70d1e2db0522a349ead9c789bb05bc158c58ce24",
+      "family_qa": "qa/families/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 323,
+      "title": "Underdogma (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/323.txt",
+      "english_mtl_reference": "source/chapters/chapter-321.xhtml",
+      "draft": "manuscript/drafts/chapter-0323.md",
+      "qa": "qa/chapter-0323.md",
+      "provenance": "editorial/provenance/chapter-0323.json",
+      "acceptance": "qa/acceptance/chapter-0323.json",
+      "acceptance_sha": "8e63fc1f1eaa46c6a3ab7792d0286e12b3a49991",
+      "family_qa": "qa/families/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 324,
+      "title": "Underdogma (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/324.txt",
+      "english_mtl_reference": "source/chapters/chapter-322.xhtml",
+      "draft": "manuscript/drafts/chapter-0324.md",
+      "qa": "qa/chapter-0324.md",
+      "provenance": "editorial/provenance/chapter-0324.json",
+      "acceptance": "qa/acceptance/chapter-0324.json",
+      "acceptance_sha": "b28fc0de841b9cd853b20b4886b40f7b3c36e5ba",
+      "family_qa": "qa/families/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 325,
+      "title": "Underdogma (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/325.txt",
+      "english_mtl_reference": "source/chapters/chapter-323.xhtml",
+      "draft": "manuscript/drafts/chapter-0325.md",
+      "qa": "qa/chapter-0325.md",
+      "provenance": "editorial/provenance/chapter-0325.json",
+      "acceptance": "qa/acceptance/chapter-0325.json",
+      "acceptance_sha": "571086ab17daa66ab2bb7db4fd8726838d5793bc",
+      "family_qa": "qa/families/underdogma-0321-0325.md"
     }
   ]
 }

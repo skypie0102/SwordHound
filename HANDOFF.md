@@ -1,46 +1,42 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 320 / 500  
+**Accepted:** 325 / 500  
 **Staged:** 0  
-**Next target:** 321
+**Next target:** 326
 
 ## Latest accepted family
 
-**Surplus Man (1)–(7)** — targets **314–320**.
+**Underdogma (1)–(5)** — targets **321–325**.
 
-- Family QA: `qa/families/surplus-man-0314-0320.md` — PASS.
-- Alignment: **314→E312 through 320→E318**.
-- Corrected boundary: Surplus Man is seven chapters, not the stale 314–315 pair previously recorded.
-- Basement Floor3 is a ruined Imperial-Capital copy centered on an S-rank **Daylily of Blood Tree**.
-- Mission duration tracks survivor count: 69 survivors / 69 days, then 68 / 68 after the first death.
-- Random Boxes can contain items, candies, junk, or Mimics.
-- **Arthur Gordon Pym** is the noble-faction third-year leader.
-- The tower attempts to force sacrifice and cannibalism; Vikir instead volunteers and builds a nonlethal solution.
-- Vikir demands the survivors’ Random Boxes/candies/items and later “one human body”; this resolves into pooled nonlethal biological material from all survivors.
-- Granola gives Vikir his Random Box as a friend; it is a Mimic, but Vikir is unharmed.
-- Vikir consumes 30 red / 10 green / 25 blue candies, reaching Strength260 / Agility229 / Stamina269.
-- Silver **Reflexes** candy unlocks Reflexes 0→1, giving Vikir five of the six tower stats.
-- Vikir kills the S-rank Daylily at Level1 and earns an **Impossible** achievement.
-- Reward pile contains 300 red / 150 blue / 75 green / 10 gold candies.
-- Hidden S-rank **Strange Candy Bag / Conversion Bug** consumes 100 same-color candies and produces one random-color candy.
-- Baby Madam becomes the parasite’s harmless host.
-- Vole-tooth hoe + water-resistant oil-paper bag are used to harvest/store Daylily seeds.
-- Mission is force-ended with all **68 survivors** sent to Basement Floor4.
+- Family QA: `qa/families/underdogma-0321-0325.md` — PASS.
+- Alignment: **321→E319 through 325→E323**.
+- Basement Floor4 is an Island in the Black Sea with black no-buoyancy water and white fungal soil.
+- Hell Tree root sap is drinkable only in limited quantities; overconsumption risks monsterization.
+- Dogma, Colosseo third-year Hot Department / Student Council vice president, becomes leader of a tower-born Commoner Faction.
+- Dogma’s class resentment remains his viewpoint rather than narrator endorsement.
+- The Commoner Faction enslaves surviving noble/tycoon students, including Highbro / Middlebro / Lowbro Le Baskerville.
+- Highbro chooses survival over pride and postpones revenge; his brothers follow.
+- Vikir frees the triplets and challenges Dogma’s envy-based logic.
+- Rhinoceros Beetlemen and Stag Beetlemen are ancient humanoid peoples from Giant Beetle Island, trapped by Amdusias’s world-fragment collection.
+- Dogma overconsumes Hell Tree sap and becomes an A+ Majin: **Blazing Inferiority Complex / Underdogma**.
+- Vikir remains Level1, raises Strength/Stamina to 300 and Agility to 260, and kills Dogma by exploiting the Black Sea’s no-buoyancy property.
+- First A+ Majin clear grants 10 gold Level candies.
+- Vikir reverses the Candy Shop exchange for roughly 3,000 ordinary candies.
+- Baby Madam + Conversion Bug rerolls them; the family closes with **White Magic Resistance +1**.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Underdogma (1)–(5)** — targets **321–325**, mapped **E319–E323**.
+**The Shadowless King of the Black Sea (1)–(5)** — targets **326–330**, mapped **E324–E328**.
 
 Following family:
-- **The Shadowless King of the Black Sea (1)–(5)** — targets **326–330 / E324–E328**.
 - **Draw (1)–(2)** — targets **331–332 / E329–E330**.
 - **The Mating Room (1)–(4)** — targets **333–336 / E331–E334**.
 
 ## Exact next actions
 
-1. Read C321–C325 completely against E319–E323.
-2. Reconstruct and QA the full Underdogma family.
+1. Read C326–C330 completely against E324–E328.
+2. Reconstruct and QA the full Shadowless King family.
 3. Merge it.
-4. Immediately continue into The Shadowless King of the Black Sea (1)–(5), targets326–330 / E324–E328.
+4. Immediately continue into Draw (1)–(2), targets331–332 / E329–E330.
