@@ -1,3 +1,21 @@
+## Outside the Tower additions — Chapters 351–355
+
+- **Outside the Tower** — accepted five-part family, targets351–355 / witnesses E349–E353.
+- **351/352 combined raw** — `351.txt`; target351 ends when Amdusias realizes Vikir's five mountains are fingers, target352 begins at the disbelief reaction.
+- **353/354 combined raw** — `353.txt`; target353 ends after Vikir's military horn summons Baskerville's hounds, and an embedded Chapter354 marker begins target354.
+- **Pigi blood** — remains an unexplained anti-demon / causality-distorting anomaly.
+- **Vikir mental world** — Age-of-Destruction landscape; five mountain-fingers represent vast accumulated burdens/responsibilities.
+- **Hell Tree collapse** — all trapped occupants return alive, regardless of death/quit/continued status inside.
+- **Post-tower Vikir** — publicly displays solid Sword Master aura and complete Baskerville Eighth Form.
+- **Acting Head** — Osiris publicly addresses Vikir this way during the Amdusias confrontation.
+- **Red military horn** — Hugo-granted half-day military authority; summons Baskerville knight orders and Counts within range.
+- **Amdusias** — Fifth Corpse / Unicorn of the Abyss; completely destroyed in target354.
+- **Public Baskerville reveal** — target355 exposes Vikir's true Baskerville identity and military authority.
+- **Baby Madam departure** — Vikir sends her with Aheul's group before severing Academy relationships.
+- **Night Hound declaration** — target355 ends with Vikir publicly stating **“I am Night Hound.”**
+- **Crime and Punishment** — next family targets356–358 / E354–E356; local Chinese part labels are offset by +1.
+- **Voluntary Escort** — begins target359 / E357.
+
 ## Key man additions — Chapters 348–350
 
 - **Key man** — accepted three-part family, targets348–350 / witnesses E346–E348.
