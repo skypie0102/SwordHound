@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 325,
+  "accepted_chapters": 330,
   "staged_chapters": 0,
-  "next_chapter": 326,
+  "next_chapter": 331,
   "latest_accepted_family": {
-    "name": "Underdogma",
-    "range": [
-      321,
-      325
-    ],
-    "family_qa": "qa/families/underdogma-0321-0325.md"
-  },
-  "next_title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
       326,
       330
     ],
+    "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+  },
+  "next_title_family": {
+    "name": "Draw",
+    "range": [
+      331,
+      332
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 331,
-    "following_title": "Draw (1)",
-    "alignment_note": "326→E324 through 330→E328; Draw follows 331→E329 through 332→E330."
+    "following_family_starts": 333,
+    "following_title": "The Mating Room (1)",
+    "alignment_note": "331→E329, 332→E330; Mating Room follows 333→E331 through 336→E334."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -387,9 +387,22 @@
     322,
     323,
     324,
-    325
+    325,
+    326,
+    327,
+    328,
+    329,
+    330
   ],
   "notes": [
+    "Chapters326-330 accepted as The Shadowless King of the Black Sea (1)-(5), mapping E324-E328.",
+    "Vikir remains Level1 with all six tower stats unlocked; Fire of Inferiority is A+.",
+    "Beetlemen ghost ship is raised by Daylily air sacs germinated from seeds inside the dissolving oil-paper bag.",
+    "S-rank Shadowless King is an independent primordial Black Sea creature, not Amdusias-controlled.",
+    "Beelzebub Slot2 remains Immortality — Gargoyle (S); local Basilisk drift rejected.",
+    "Daylily seeds force the Shadowless King upward; rapid ascent causes story-world pressure damage.",
+    "Vikir knots air sacs and uses Fire of Inferiority to trigger the final chain-reaction kill; Impossible achievement awarded.",
+    "Next family Draw verified targets331-332 / E329-E330; The Mating Room follows targets333-336 / E331-E334.",
     "Chapters321-325 accepted as Underdogma (1)-(5), mapping E319-E323.",
     "Basement Floor4 Black Sea island has no-buoyancy black water and limited Hell Tree root sap.",
     "Dogma leads a tower-born Commoner Faction that enslaves surviving nobles/tycoons, including the Baskerville triplets.",
