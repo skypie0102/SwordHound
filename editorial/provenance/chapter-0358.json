@@ -1,0 +1,41 @@
+{
+  "chapter": 358,
+  "title": "Crime and Punishment (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Crime and Punishment",
+    "range": [
+      356,
+      358
+    ],
+    "family_qa_path": "qa/families/crime-punishment-0356-0358.md",
+    "family_qa_sha": "d6eefec0041d3aa491cca028a89e21e4e85f2a1e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/358.txt",
+    "blob_sha": "c806662e98ebf75eaf879e96e7c6d6355d07fa0b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-356.xhtml",
+    "blob_sha": "c62d3930bd68ee549bce7c984ec83d80ce320027",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0358.md",
+    "blob_sha": "82c1f15a46cfc8718fb3c3827c9ee8ba5632a7aa"
+  },
+  "qa": {
+    "path": "qa/chapter-0358.md",
+    "blob_sha": "d7592280283773ac31d737517c34a015a65d2410",
+    "status": "pass"
+  },
+  "documented_corrections": [
+    "Chinese local family part labels are offset by +1; production numbering follows verified E354-E356 sequence.",
+    "Cindywendy's promise/marriage ring is retained on the left middle finger from Chinese; shifted-English ring-finger wording rejected."
+  ],
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Crime and Punishment (1)–(3) accepted
+
+**Current state:** 358 / 500 accepted; 0 staged; next Chapter 359.
+
+Completed targets **356–358** with mapping **E354–E356**.
+
+Key decisions: local Chinese part labels are offset by +1; Camus redirects the Academy group from sentence reduction to Gate-of-Destruction preparation; the Seven Families split 4–3 at trial; Vikir receives 3,021 life terms without parole in Nouvelle Vague; Cindywendy/Osiris is revealed; and Vikir’s final instruction is **“Prepare the ark.”**
+
+Family QA: `qa/families/crime-punishment-0356-0358.md` — **PASS**.
+
+Next verified family: **359–362 — Voluntary Escort (1)–(4)**, mapping **E357–E360**.
+
 ## 2026-09-19 — Outside the Tower (1)–(5) accepted
 
 **Current state:** 355 / 500 accepted; 0 staged; next Chapter 356.

@@ -1,0 +1,40 @@
+{
+  "chapter": 356,
+  "title": "Crime and Punishment (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Crime and Punishment",
+    "range": [
+      356,
+      358
+    ],
+    "family_qa_path": "qa/families/crime-punishment-0356-0358.md",
+    "family_qa_sha": "d6eefec0041d3aa491cca028a89e21e4e85f2a1e",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/356.txt",
+    "blob_sha": "d1620b1d37c5df285976482be970e06796c2aa78",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-354.xhtml",
+    "blob_sha": "aee0b5d0ce6b6e5ab021eb1a58e6620f286583f3",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0356.md",
+    "blob_sha": "0b46fb1f4ee36ae1a767d8f5600fb384cca6361e"
+  },
+  "qa": {
+    "path": "qa/chapter-0356.md",
+    "blob_sha": "d9292f6349e4a537aef79894c7330ea788ed7cfb",
+    "status": "pass"
+  },
+  "documented_corrections": [
+    "Chinese local family part labels are offset by +1; production numbering follows verified E354-E356 sequence."
+  ],
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}

@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 355,
+  "accepted_count": 358,
   "staged_count": 0,
-  "next_chapter": 356,
+  "next_chapter": 359,
   "active_title_family": {
-    "name": "Crime and Punishment",
+    "name": "Voluntary Escort",
     "range": [
-      356,
-      358
+      359,
+      362
     ],
-    "boundary_status": "verified complete from English E354-E356; Chinese local part labels are offset by +1",
-    "following_family_starts": 359,
-    "following_title": "Voluntary Escort (1)",
-    "alignment_note": "356→E354 Crime and Punishment (1), 357→E355 (2), 358→E356 (3); 359→E357 begins Voluntary Escort (1)."
+    "boundary_status": "verified complete: target359→E357 through target362→E360",
+    "following_family_starts": 363,
+    "following_title": "Ghost Castle of the Ultra-Deep Sea (1)",
+    "alignment_note": "359→E357 Voluntary Escort (1) through 362→E360 Voluntary Escort (4); 363→E361 begins Ghost Castle of the Ultra-Deep Sea (1)."
   },
   "chapters": [
     {
@@ -4985,6 +4985,48 @@
       "acceptance": "qa/acceptance/chapter-0355.json",
       "acceptance_sha": "d563e8117ae3eb219b71186012b992a0a35974c8",
       "family_qa": "qa/families/outside-tower-0351-0355.md"
+    },
+    {
+      "chapter": 356,
+      "title": "Crime and Punishment (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/356.txt",
+      "english_mtl_reference": "source/chapters/chapter-354.xhtml",
+      "draft": "manuscript/drafts/chapter-0356.md",
+      "qa": "qa/chapter-0356.md",
+      "provenance": "editorial/provenance/chapter-0356.json",
+      "acceptance": "qa/acceptance/chapter-0356.json",
+      "acceptance_sha": "6c2737c9dc829ef46611b4df262536d1703a389a",
+      "family_qa": "qa/families/crime-punishment-0356-0358.md"
+    },
+    {
+      "chapter": 357,
+      "title": "Crime and Punishment (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/357.txt",
+      "english_mtl_reference": "source/chapters/chapter-355.xhtml",
+      "draft": "manuscript/drafts/chapter-0357.md",
+      "qa": "qa/chapter-0357.md",
+      "provenance": "editorial/provenance/chapter-0357.json",
+      "acceptance": "qa/acceptance/chapter-0357.json",
+      "acceptance_sha": "1599ce0624f6b730b92956922466a9dfea5470e8",
+      "family_qa": "qa/families/crime-punishment-0356-0358.md"
+    },
+    {
+      "chapter": 358,
+      "title": "Crime and Punishment (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/358.txt",
+      "english_mtl_reference": "source/chapters/chapter-356.xhtml",
+      "draft": "manuscript/drafts/chapter-0358.md",
+      "qa": "qa/chapter-0358.md",
+      "provenance": "editorial/provenance/chapter-0358.json",
+      "acceptance": "qa/acceptance/chapter-0358.json",
+      "acceptance_sha": "be4fd2c8c810db214288aa63279103e216e22278",
+      "family_qa": "qa/families/crime-punishment-0356-0358.md"
     }
   ]
 }

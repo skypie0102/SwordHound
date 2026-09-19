@@ -1,48 +1,50 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 355 / 500  
+**Accepted:** 358 / 500  
 **Staged:** 0  
-**Next target:** 356
+**Next target:** 359
 
 ## Latest accepted family
 
-**Outside the Tower (1)–(5)** — targets **351–355**.
+**Crime and Punishment (1)–(3)** — targets **356–358**.
 
-- Family QA: `qa/families/outside-tower-0351-0355.md` — PASS.
-- Alignment: **351→E349 through 355→E353**.
-- Targets351–352 share `source/chinese/chapters/351.txt`; target351 ends when Amdusias realizes the five mountains are Vikir’s fingers, and target352 begins at his disbelief reaction.
-- Targets353–354 share `source/chinese/chapters/353.txt`; the raw contains an explicit embedded Chapter354 marker after Baskerville’s hounds assemble.
-- Pigi’s blood remains an unexplained anti-demon / cause-law anomaly.
-- Amdusias invades Vikir’s mental world and discovers an Age-of-Destruction landscape and five mountain-fingers representing enormous accumulated burden.
-- Collapse of Amdusias’s mental field breaks the Hell Tree and releases all trapped occupants alive, regardless of whether they died, quit, or continued.
-- Vikir emerges last with black-Sun Sword Master aura and publicly displays the complete Baskerville Eighth Form.
-- Camus/Dolores festival recognition remains unresolved.
-- Osiris publicly addresses Vikir as Acting Head.
-- Hugo’s red military horn gives Vikir temporary full Baskerville military command for half a day.
-- Six Counts, Osiris, and roughly seven hundred Baskerville hounds answer the summons; Cane Corso remains absent at the Grave of Swords.
-- Sinclaire’s transformed-vault/rabbit strike is source-timed to target354.
-- Amdusias / Fifth Corpse is completely destroyed in target354.
-- Target355 publicly exposes Vikir’s Baskerville identity and authority.
-- Vikir sends Baby Madam away with Aheul’s group, then deliberately severs his Academy bonds.
-- Target355 ends with Vikir publicly declaring: **“I am Night Hound.”**
+- Family QA: `qa/families/crime-punishment-0356-0358.md` — PASS.
+- Alignment: **356→E354, 357→E355, 358→E356**.
+- Local Chinese part labels are offset by +1; production follows the verified English/content sequence.
+- Public opinion at Colosseo turns hostile after Vikir’s Night Hound declaration, while Tudor/Sancho/Pigi/Bianca correctly interpret his rejection as deliberate protection.
+- Dolores initially organizes jury/family lobbying; Camus redirects the group toward preventing the coming **Gate of Destruction**.
+- Baskerville’s public “Vikir acted alone / red horn was stolen” statement is treated as official trial strategy rather than narrator-confirmed family truth.
+- Seven-family jury split: Baskerville/Morgue/Quovadis/Bourgeois favor mitigation; Donquixote/Usher/Leviathan demand the harshest sentence.
+- Hugo remains poisoned and wheelchair-bound; Osiris answers for Baskerville.
+- Raspane invokes the Forty-Seven Men’s Riot precedent to argue against execution of great-noble blood.
+- Vikir observes Passamonte, Madeline, and Hobbes as surviving demon-aligned jurors; deeper identities remain unrevealed.
+- Final sentence: **3,021 life terms without parole** in **Nouvelle Vague**.
+- Vikir rejects hero/saint framing and accepts being treated as the executioner because the public cannot know his future-history evidence.
+- Anti-mana restraints are noted only as a future variable; no later mechanics are imported.
+- Cindywendy, Chihuahua, MiniPin, and Aheul appear as formal Baskerville aides.
+- Chinese-primary correction: Cindywendy’s promise/marriage ring is on her **left middle finger**, not the witness’s ring finger.
+- Cindywendy/Osiris relationship is revealed here.
+- Vikir orders food reserves, high-ground fortification, mass migration, and a final refuge / **Tochka**.
+- Picaresque Mask is sent to Camus.
+- Family closes with: **“A great flood is coming. Prepare the ark.”**
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Crime and Punishment (1)–(3)** — targets **356–358**.
+**Voluntary Escort (1)–(4)** — targets **359–362**.
 
-- 356→E354 — *Crime and Punishment (1)*
-- 357→E355 — *Crime and Punishment (2)*
-- 358→E356 — *Crime and Punishment (3)*
-- Local Chinese part labels are offset by +1.
+- 359→E357 — *Voluntary Escort (1)*
+- 360→E358 — *Voluntary Escort (2)*
+- 361→E359 — *Voluntary Escort (3)*
+- 362→E360 — *Voluntary Escort (4)*
 
 Following family:
-- **Voluntary Escort (1)** begins target359→E357.
+- **Ghost Castle of the Ultra-Deep Sea (1)** begins target363→E361.
 
 ## Exact next actions
 
-1. Read C356–C358 completely against E354–E356.
-2. Reconstruct and QA the complete Crime and Punishment family.
+1. Read C359–C362 completely against E357–E360.
+2. Reconstruct and QA the complete Voluntary Escort family.
 3. Merge it.
-4. Immediately continue into the complete Voluntary Escort family beginning target359.
+4. Immediately continue into the complete Ghost Castle of the Ultra-Deep Sea family beginning target363.

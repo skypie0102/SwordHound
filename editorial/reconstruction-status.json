@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 355,
+  "accepted_chapters": 358,
   "staged_chapters": 0,
-  "next_chapter": 356,
+  "next_chapter": 359,
   "latest_accepted_family": {
-    "name": "Outside the Tower",
-    "range": [
-      351,
-      355
-    ],
-    "family_qa": "qa/families/outside-tower-0351-0355.md"
-  },
-  "next_title_family": {
     "name": "Crime and Punishment",
     "range": [
       356,
       358
     ],
+    "family_qa": "qa/families/crime-punishment-0356-0358.md"
+  },
+  "next_title_family": {
+    "name": "Voluntary Escort",
+    "range": [
+      359,
+      362
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 359,
-    "following_title": "Voluntary Escort (1)",
-    "alignment_note": "356→E354 through 358→E356; local Chinese part labels are offset by +1."
+    "following_family_starts": 363,
+    "following_title": "Ghost Castle of the Ultra-Deep Sea (1)",
+    "alignment_note": "359→E357 through 362→E360; 363→E361 begins Ghost Castle of the Ultra-Deep Sea (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -417,9 +417,19 @@
     352,
     353,
     354,
-    355
+    355,
+    356,
+    357,
+    358
   ],
   "notes": [
+    "Chapters356-358 accepted as Crime and Punishment (1)-(3), mapping E354-E356; local Chinese part labels are offset by +1.",
+    "Dolores's initial sentence-reduction plan is redirected by Camus toward stopping the Gate of Destruction.",
+    "Seven-family jury splits 4 for mitigation / 3 for harshest punishment; Vikir identifies the three hostile jurors as demon-aligned.",
+    "Vikir receives 3,021 life sentences without parole in Nouvelle Vague.",
+    "Cindywendy/Osiris relationship is revealed; Chinese ring position is left middle finger, rejecting witness ring-finger drift.",
+    "Vikir orders food reserves, high-ground fortification, migration, final refuge/Tochka, sends Picaresque Mask to Camus, and closes with 'Prepare the ark.'",
+    "Next family Voluntary Escort verified targets359-362 / E357-E360; Ghost Castle of the Ultra-Deep Sea begins target363/E361.",
     "Chapters351-355 accepted as Outside the Tower (1)-(5), mapping E349-E353.",
     "351/352 share raw351.txt; 353/354 share raw353.txt with an embedded Chapter354 marker.",
     "Pigi blood remains unexplained anti-demon/cause-law anomaly.",
