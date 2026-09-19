@@ -844,3 +844,19 @@ The glossary never overrides Chinese plot meaning, explicitness, dialogue, seque
 - **That Day, Him and Me** — begins target 220 / E218 and runs through target 224.
 - **Tuition** — begins target 225 / E223.
 
+## My Neck Will Be Your Sheath additions — Chapters 216–219
+
+- **Camus Morgue / Corpse Queen reveal** — target 216 is the first explicit identification; never back-propagate to earlier chapters.
+- **Camus–Seere contract** — twelve-hour co-control / roommate arrangement rather than ordinary full possession.
+- **Art of Complete Resurrection** — life-for-life full resurrection requiring physical remains.
+- **Camus resurrection failure** — catastrophic mana surge / half-alive, half-brain-dead condition before Seere's offer.
+- **Camus feeling guard** — Vikir's feeling remains uncategorized; source uses younger-sister-like protective comparison, not declared romance.
+- **Sword Master breakthrough** — Vikir reaches it independently, without Dolores's external Saintess buff.
+- **Concept cutting** — Sword Master can perceive/cut abstract bonds, souls, and concepts beyond Peak Graduator matter-cutting.
+- **Completed Seventh Fang** — sufficient to sever the Camus–Seere contract.
+- **Removing the Lens / Heart Sword** — conceptual Sword Master explanations; not numbered Baskerville Fangs.
+- **Eighth Corpse destruction** — Seere is expelled and destroyed; Camus survives physically intact.
+- **Rosie evacuation** — Vikir deliberately allows Rosie/Geronto to take Camus for treatment.
+- **That Day, Him and Me** — next family targets 220–224; witnesses E218–E222.
+- **Tuition** — begins target 225 / E223.
+
