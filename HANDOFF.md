@@ -1,43 +1,44 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 252 / 500  
+**Accepted:** 254 / 500  
 **Staged:** 0  
-**Next target:** 253
+**Next target:** 255
 
-## Latest accepted batch
+## Latest accepted family
 
-**Recap (1)–(2) / Celebration Banquet (3)** — targets **250–252**.
+**Five Stars (1)–(2)** — targets **253–254**.
 
-- Batch QA: `qa/families/recap-celebration-banquet-0250-0252.md` — PASS.
-- Alignment: **250→E248, 251→E249, 252→E250**.
-- Target 252 keeps the Chinese title **庆功宴 (3) / Celebration Banquet (3)**; recovered English labels E250 *Recap (3)*.
-- Final League ranking: Dolores, Lovegood, Bakilaga, Highbro, Middlebro, Lowbro, Vikir, Sinclaire, Granola, Hohenheim.
-- Six first-years placed in the top ten.
-- Sinclaire remains publicly a commoner; no hidden-family reveal is imported.
-- Second stage is the Seven Great Houses / Imperial Family apprenticeship-task system.
-- Vikir’s hidden goal remains access to the joint artifact vault containing dormant **Seventh Corpse Decarabia**.
-- Dolores’s Crown Prince theory in target 251 is wrong and unverified.
-- The Temisquira “protest” is a comedic attempt to join Colosseo’s celebration and see Vikir.
-- Target 252 uses **Talking Window** from Chinese, not recovered-English “Talking Spear.”
-- Baskerville assignment difficulty is **★★★★★**: C253 explicitly confirms five stars and E250 agrees; C252’s four-star display is treated as damaged source formatting.
-- Direct Fandom re-check was blocked by robots rules; only already-established project glossary forms were reused.
+- Family QA: `qa/families/five-stars-0253-0254.md` — PASS.
+- Alignment: **253→E251, 254→E252**.
+- Target 253 confirms the Baskerville five-star assignment is **childcare**; Pomeranian smiling for Vikir completes it immediately.
+- Sinclaire is seen on an eastbound train despite selecting a Quovadis assignment. The discrepancy remains intentionally unexplained.
+- Hugo’s domestic behavior has softened around Pomeranian, but his Sword Master / family-head authority remains intact.
+- Target 254 promotes Vikir to **Senator**, one of Baskerville’s active power-holding ranks.
+- Vikir retains freedom of movement under his Imperial Capital special-agent role; Colosseo remains operational cover.
+- Planned task-force candidates include **Cindywendy, Chihuahua, MiniPin**, and suitable jungle talent such as **Aiyen**.
+- The 174 capital targets Vikir removed were demon-linked; ordinary political enemies were not included.
+- Vikir’s old public identity as Vikir Van Baskerville has been deliberately obscured.
+- Pomeranian’s myth book introduces **Morgue Tzersi** and the **Wraith Tree**.
+- Hugo gives Vikir the **Black Whistle**, representing broad command over Baskerville military forces.
+- Vikir already associates the Wraith Tree location with a clue toward the realm beyond Sword Master / **Eighth Fang**.
+- Direct Fandom re-check remained unavailable; established glossary forms were reused.
 
 ## Next verified family start
 
-Target **253→E251 — Five Stars (1)**.
+Target **255→E253 — The Grave of Swords (1)**.
 
-Verified starting facts from C253/E251:
-- Vikir chooses the Baskerville assignment partly because he already intends to return home.
-- He wants to inspect how thoroughly Osiris’s purge removed Seth-aligned remnants.
-- He hides his travel route from reporters, scouts, guild recruiters, and other followers.
-- Sinclaire is seen boarding an eastbound train despite having chosen a Quovadis task; do not explain the discrepancy before the source does.
-- Hugo and the Baskerville household have visibly changed around Pomeranian.
-- The actual five-star Baskerville task is revealed inside the family; do not import later outcomes before their source point.
+C255 establishes:
+- Vikir returns deep into Le Rouge et Le Noir Mountain.
+- Ballak’s old village is deserted and recent contact with the tribe has stopped.
+- He is searching for the Wraith Tree.
+- The white salt desert / Yuuni Desert and the dead S-rank Basilisk appear.
+- A long-dead Baskerville Pit Bull knight’s remains and secret letter are discovered.
+- Do not import later Grave of Swords revelations before their source point.
 
 ## Exact next actions
 
-1. Read C253 forward and the shifted English witnesses beginning E251 until the complete contiguous **Five Stars** title-family boundary is verified.
-2. Record the full target↔English mapping before accepting any chapter in that family.
-3. Preserve Chinese semantic authority; use the existing glossary for already-established canon and document any Fandom-access limitation.
-4. Draft and QA the complete family, then update provenance, acceptance, tracker/state/progress/glossary, and this handoff.
+1. Read C255 forward with E253+ until the full contiguous **The Grave of Swords** family boundary is verified.
+2. Record the complete target↔English mapping.
+3. Reconstruct and QA the full family Chinese-first.
+4. Update provenance, acceptance, tracker/state/progress/glossary, and this handoff.
