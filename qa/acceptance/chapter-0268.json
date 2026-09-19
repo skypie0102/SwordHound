@@ -1,0 +1,33 @@
+{
+  "chapter": 268,
+  "title": "The Eucharist (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Eucharist",
+    "range": [
+      268,
+      269
+    ],
+    "family_qa_path": "qa/families/eucharist-0268-0269.md",
+    "family_qa_sha": "13b3a0271a96562ba70394aee3d0f74d5be06857",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/267.txt",
+    "primary_source_sha": "6f2d2f4df0bc0e650c89c8ac15eef7c0d88faad2",
+    "english_reference_path": "source/chapters/chapter-266.xhtml",
+    "english_reference_sha": "81d95bde795ca766215e8157cb32d45a140c6d57",
+    "draft_path": "manuscript/drafts/chapter-0268.md",
+    "draft_sha": "764ae65d706d348d643b2490a88b8b4fb825541b",
+    "qa_path": "qa/chapter-0268.md",
+    "qa_sha": "9b49453315d1025c89e2d1ad1bfe9b8a8b7275c1",
+    "provenance_path": "editorial/provenance/chapter-0268.json",
+    "provenance_sha": "5e45b899ed29ffd717bb44c4cfb62028ee00e77e"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused."
+  ],
+  "source_exception": "Shared raw 267.txt remainder belongs to target268; no internal heading."
+}
