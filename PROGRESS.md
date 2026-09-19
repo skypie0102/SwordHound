@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Tuition (1)–(9) accepted
+
+**Current state:** 233 / 500 accepted; 0 staged; next Chapter 234.
+
+Completed targets 225–233 with mapping **225→E223 through 233→E231**.
+
+Key decisions: Ms. Ouroboros is separated from Night Hound but identity-guarded; Vikir's 80% scholarship/Banshee recommendation and financial-cover policy are preserved; Sherpa Guild and MiniPin are established; Gnoll / Poison Gnoll terminology and C+/A danger are normalized; Baby Madam kills the Poison Gnoll; Ouroboros's Vikir-face flinch and left-side reaction delay are retained without revealing the cause; MiniPin becomes a future recruitment target; and the arc closes with Vikir paying four years tuition and anonymously establishing the **Peri Award** for students who perform orphanage volunteer service.
+
+Family QA: `qa/families/tuition-0225-0233.md` — **PASS**.
+
+Next verified family: **234–235 — Suspicion (1)–(2)**. Target **236** begins *National University League (1)*.
+
 ## 2026-09-19 — That Day, Him and Me (1)–(5) accepted
 
 **Current state:** 224 / 500 accepted; 0 staged; next Chapter 225.
