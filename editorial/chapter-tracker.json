@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 290,
+  "accepted_count": 292,
   "staged_count": 0,
-  "next_chapter": 291,
+  "next_chapter": 293,
   "active_title_family": {
-    "name": "The Successors",
+    "name": "Confessions",
     "range": [
-      291,
-      292
+      293,
+      295
     ],
-    "boundary_status": "verified complete: target291→E289 through target292→E290",
-    "following_family_starts": 293,
-    "following_title": "Confessions (1)",
-    "alignment_note": "291→E289 The Successors (1), 292→E290 The Successors (2); 293→E291 begins Confessions (1), continuing through target295→E293."
+    "boundary_status": "verified complete: target293→E291 through target295→E293",
+    "following_family_starts": 296,
+    "following_title": "Last Semester (1)",
+    "alignment_note": "293→E291 Confessions (1), 294→E292 Confessions (2), 295→E293 Confession (3); 296→E294 begins Last Semester (1) through target298→E296."
   },
   "chapters": [
     {
@@ -4075,6 +4075,34 @@
       "acceptance": "qa/acceptance/chapter-0290.json",
       "acceptance_sha": "55f3634ca2d5f59661a296c85553a40e4c3ffbd7",
       "family_qa": "qa/families/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 291,
+      "title": "The Successors (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/291.txt",
+      "english_mtl_reference": "source/chapters/chapter-289.xhtml",
+      "draft": "manuscript/drafts/chapter-0291.md",
+      "qa": "qa/chapter-0291.md",
+      "provenance": "editorial/provenance/chapter-0291.json",
+      "acceptance": "qa/acceptance/chapter-0291.json",
+      "acceptance_sha": "8ff3e7dbbf7bd2dd79490b1c0c707dfc05c367bd",
+      "family_qa": "qa/families/successors-0291-0292.md"
+    },
+    {
+      "chapter": 292,
+      "title": "The Successors (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/292.txt",
+      "english_mtl_reference": "source/chapters/chapter-290.xhtml",
+      "draft": "manuscript/drafts/chapter-0292.md",
+      "qa": "qa/chapter-0292.md",
+      "provenance": "editorial/provenance/chapter-0292.json",
+      "acceptance": "qa/acceptance/chapter-0292.json",
+      "acceptance_sha": "fb3c4e4cbb2dae59684a1bd750275d572c9f910e",
+      "family_qa": "qa/families/successors-0291-0292.md"
     }
   ]
 }
