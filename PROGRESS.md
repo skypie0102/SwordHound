@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Rotten Dog of Nouvelle Vague (1)–(5) accepted
+
+**Current state:** 389 / 500 accepted; 0 staged; next Chapter 390.
+
+Completed targets **385–389** with mapping **E383–E387**.
+
+Key decisions: raw385.txt has an explicit Chapter386 marker; target385 restores only the missing official-death/Garam-disguise tail from E383; Flubber J Tarbond is distinct from the Flubber membrane; Garam Nord and Gargoyle regeneration continuity remain locked; Pal Euspear stays source-local; and Kirko’s changing response to Garam remains suspicion/competition rather than a premature identity or romance reveal.
+
+Family QA: `qa/families/rotten-dog-0385-0389.md` — **PASS**.
+
+Next verified family: **390–395 — The Worst Torture (1)–(6)**, mapping **E388–E393**. Target396 begins *Dead Man Walking (1)*.
+
 ## 2026-09-19 — Kennel (1)–(3) accepted
 
 **Current state:** 384 / 500 accepted; 0 staged; next Chapter 385.
