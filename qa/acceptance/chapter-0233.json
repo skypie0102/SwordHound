@@ -1,0 +1,41 @@
+{
+  "chapter": 233,
+  "title": "Tuition (9)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/233.txt",
+    "primary_source_sha": "2787112e395bedd25a34846338a1a522b7d9304c",
+    "english_reference_path": "source/chapters/chapter-231.xhtml",
+    "english_reference_sha": "5b23398ed2ebd49d038a4d811f5db3d408e2f066",
+    "draft_path": "manuscript/drafts/chapter-0233.md",
+    "draft_sha": "114f5413b7c3f9856449f7b2efecdbee869a8ea0",
+    "qa_path": "qa/chapter-0233.md",
+    "qa_sha": "db0df86b18efafc9cb331ec013e8ccb2716842ad",
+    "provenance_path": "editorial/provenance/chapter-0233.json",
+    "provenance_sha": "b539951a4e7f09b4dceca4f4407bceb81e8c4416"
+  },
+  "canonical_checks": [
+    "Thrifty Bazaar",
+    "Professor Banshee Morgue",
+    "Dolores L. Quovadis",
+    "Peri"
+  ],
+  "documented_limits": [
+    "Award is normalized to Peri Award.",
+    "Donor identity remains confidential.",
+    "Scholarship condition is orphanage volunteer service."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}
