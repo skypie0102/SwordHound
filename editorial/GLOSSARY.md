@@ -1,3 +1,20 @@
+## The Worst Torture additions — Chapters 390–395
+
+- **The Worst Torture** — accepted six-part family, targets390–395 / witnesses E388–E393.
+- **Sakkuth de Leviathan** — Level Eight rioter; aligned E389 confirms the established source-local name.
+- **Sakkuth plague bluff** — disease display is fabricated from prison substances, medical support, poison expertise, and reputation; Vikir does not know this before the cigarette test.
+- **Blood-soaked cigarette test** — Vikir accepts the unknown exposure because of established toxin/venom resistance, not clairvoyance.
+- **Queen escape story** — Vikir deliberately fabricates Ms. Ouroboros’s rescue plan from real clues; do not convert the lie into historical fact.
+- **Winter Sword Orwell fragment** — used as proof for Sakkuth and linked to Nouvelle Vague’s main-gate key.
+- **Kirko concern guard** — hostage/rescue/ointment scenes remain ambiguity and concern, not confirmed romance or identity discovery.
+- **Captain Garam Nord** — target395 promotion after sustained overachievement and the Level Eight riot resolution.
+- **Kirko adjutant** — becomes Captain Garam’s adjutant; motive remains source-ambiguous.
+- **Chapter395 Bible correction** — Chinese says the book will **not** calm Sakkuth; shifted E393 “It might” rejected.
+- **D-7** — secret false-hope message inserted in the Rune Bible one week before Sakkuth’s scheduled execution.
+- **False hope** — explicitly identified by Vikir as the worst torture; separate from his real jailbreak plan.
+- **Dead Man Walking** — next family targets396–398 / E394–E396.
+- **Black Tongue** — follows targets399–402 / E397–E400.
+
 ## The Rotten Dog of Nouvelle Vague additions — Chapters 385–389
 
 - **The Rotten Dog of Nouvelle Vague** — accepted five-part family, targets385–389 / witnesses E383–E387.

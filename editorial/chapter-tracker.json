@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 389,
+  "accepted_count": 395,
   "staged_count": 0,
-  "next_chapter": 390,
+  "next_chapter": 396,
   "active_title_family": {
-    "name": "The Worst Torture",
+    "name": "Dead Man Walking",
     "range": [
-      390,
-      395
+      396,
+      398
     ],
-    "boundary_status": "verified complete: target390→E388 through target395→E393",
-    "following_family_starts": 396,
-    "following_title": "Dead Man Walking (1)",
-    "alignment_note": "390→E388 through 395→E393; target396 begins Dead Man Walking (1)."
+    "boundary_status": "verified complete: target396→E394 through target398→E396",
+    "following_family_starts": 399,
+    "following_title": "Black Tongue (1)",
+    "alignment_note": "396→E394 through 398→E396; Black Tongue targets399–402 / E397–E400; Jailbreaker begins target403/E401."
   },
   "chapters": [
     {
@@ -5461,6 +5461,90 @@
       "acceptance": "qa/acceptance/chapter-0389.json",
       "acceptance_sha": "69a3073cc59ca27012665e11caf0dbc96d3163f0",
       "family_qa": "qa/families/rotten-dog-0385-0389.md"
+    },
+    {
+      "chapter": 390,
+      "title": "The Worst Torture (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/390.txt",
+      "english_mtl_reference": "source/chapters/chapter-388.xhtml",
+      "draft": "manuscript/drafts/chapter-0390.md",
+      "qa": "qa/chapter-0390.md",
+      "provenance": "editorial/provenance/chapter-0390.json",
+      "acceptance": "qa/acceptance/chapter-0390.json",
+      "acceptance_sha": "7ba514c7c891aea597bca19e5e40e67dce2b11ae",
+      "family_qa": "qa/families/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 391,
+      "title": "The Worst Torture (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/391.txt",
+      "english_mtl_reference": "source/chapters/chapter-389.xhtml",
+      "draft": "manuscript/drafts/chapter-0391.md",
+      "qa": "qa/chapter-0391.md",
+      "provenance": "editorial/provenance/chapter-0391.json",
+      "acceptance": "qa/acceptance/chapter-0391.json",
+      "acceptance_sha": "d87ed16c23ff4fb2328c1f13230ec225bb01a50f",
+      "family_qa": "qa/families/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 392,
+      "title": "The Worst Torture (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/392.txt",
+      "english_mtl_reference": "source/chapters/chapter-390.xhtml",
+      "draft": "manuscript/drafts/chapter-0392.md",
+      "qa": "qa/chapter-0392.md",
+      "provenance": "editorial/provenance/chapter-0392.json",
+      "acceptance": "qa/acceptance/chapter-0392.json",
+      "acceptance_sha": "c52897b1fda16ca62dbef197a9c64f6987af06a5",
+      "family_qa": "qa/families/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 393,
+      "title": "The Worst Torture (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/393.txt",
+      "english_mtl_reference": "source/chapters/chapter-391.xhtml",
+      "draft": "manuscript/drafts/chapter-0393.md",
+      "qa": "qa/chapter-0393.md",
+      "provenance": "editorial/provenance/chapter-0393.json",
+      "acceptance": "qa/acceptance/chapter-0393.json",
+      "acceptance_sha": "9b253d3d18cbe106ab586f96f913ffcc7f8ddb3b",
+      "family_qa": "qa/families/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 394,
+      "title": "The Worst Torture (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/394.txt",
+      "english_mtl_reference": "source/chapters/chapter-392.xhtml",
+      "draft": "manuscript/drafts/chapter-0394.md",
+      "qa": "qa/chapter-0394.md",
+      "provenance": "editorial/provenance/chapter-0394.json",
+      "acceptance": "qa/acceptance/chapter-0394.json",
+      "acceptance_sha": "8d830a7eb36e6843fa33e3f43db4dfd526a5c0d9",
+      "family_qa": "qa/families/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 395,
+      "title": "The Worst Torture (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/395.txt",
+      "english_mtl_reference": "source/chapters/chapter-393.xhtml",
+      "draft": "manuscript/drafts/chapter-0395.md",
+      "qa": "qa/chapter-0395.md",
+      "provenance": "editorial/provenance/chapter-0395.json",
+      "acceptance": "qa/acceptance/chapter-0395.json",
+      "acceptance_sha": "12dec4cb421b70b8c7dbb399baa08fd18162d41e",
+      "family_qa": "qa/families/worst-torture-0390-0395.md"
     }
   ]
 }

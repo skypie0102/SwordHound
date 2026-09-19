@@ -1,42 +1,46 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-19  
-**Accepted:** 389 / 500  
+**Checkpoint:** 2026-09-20  
+**Accepted:** 395 / 500  
 **Staged:** 0  
-**Next target:** 390
+**Next target:** 396
 
 ## Latest accepted family
 
-**The Rotten Dog of Nouvelle Vague (1)–(5)** — targets **385–389**.
+**The Worst Torture (1)–(6)** — targets **390–395**.
 
-- Family QA: `qa/families/rotten-dog-0385-0389.md` — PASS.
-- Alignment: **385→E383 through 389→E387**.
-- Targets385–386 share `source/chinese/chapters/385.txt`; the raw contains an explicit embedded Chapter386 marker.
-- Target385 uses only the pre-marker Chinese segment plus a localized E383 closing restoration: official Night Hound death classification, registry strikeout / surface transmission, and Garam Nord disguise handoff.
-- Target386 begins at the explicit Chapter386 marker.
-- **Flubber J Tarbond** is the lieutenant-colonel officer; **Flubber** is also the separate mucus-barrier substance. Do not conflate them.
-- Gulper Eels are slow-growing and extremely valuable; reject witness fast-growth noise.
-- Garam Nord remains Vikir’s guard identity. Local Basilisk regeneration/scar wording does not overwrite **Immortality — Gargoyle (S)**.
-- Garam’s diaries establish his isolation and unrequited admiration for Kirko.
-- **Pal Euspear** is retained from the aligned witness as a source-local form; no accessible designated-Fandom entry was found.
-- Pal’s explicit sexual threat toward Kirko and the violent riot suppression are preserved without embellishment.
-- Target388 locally repairs one corrupted mixed-language line from E386 (“awakened after Sakkuth’s riot”).
-- Kirko still does not discover Vikir; her changing attitude toward Garam remains suspicion / competition / inferiority rather than confirmed romance.
-- Monthly evaluation: **Garam 108% / Kirko 96% / third place 89%**.
-- Vikir now seeks promotion to at least Captain, preferably Major, for freer Poseidon access.
-- Target389 ends with Kirko secretly observing Garam’s twelve-prisoner labor method.
+- Family QA: `qa/families/worst-torture-0390-0395.md` — PASS.
+- Alignment: **390→E388 through 395→E393**.
+- Garam’s work-completion rate rises through 185%, accelerating Vikir’s promotion plan and Level Ten / Poseidon access.
+- A Level Eight riot begins while Orca, D'Ordume, and Souaré are away on surface duty.
+- **Sakkuth de Leviathan** is the rioter.
+- Sakkuth’s apparent plague is a long-running bluff, but Vikir does **not** know that before accepting the blood-soaked cigarette.
+- Vikir can accept the unknown risk because of his established toxin/venom resistance.
+- Kirko is taken hostage; source-explicit degradation tied to her already-revealed birth trauma is preserved without embellishment.
+- Other guards misread Garam’s intervention as romantic self-sacrifice. Vikir’s actual motive is strategic.
+- Kirko’s attempted rescue shows a meaningful aura improvement but does not expose Vikir.
+- Vikir’s Queen/Ms. Ouroboros escape story is deliberately fabricated from genuine clues.
+- The **Winter Sword Orwell** fragment is used as proof and links to the Nouvelle Vague main-gate-key clue.
+- Sakkuth accepts the fake escape plan and deliberately allows capture.
+- Kirko’s burn-ointment scene remains concern/ambiguity, not confirmed romance.
+- Vikir never intends to save Sakkuth because of his Red Death crimes.
+- Four months later Garam receives a two-grade promotion to **Captain**; Kirko becomes his adjutant.
+- Chinese controls Chapter395’s Bible exchange: Vikir says it will **not** calm Sakkuth; shifted E393 “It might” is rejected.
+- Hidden message **D-7** gives Sakkuth false hope ahead of his execution.
+- Vikir explicitly calls false hope the worst torture, while separating it from his own real jailbreak.
+- Direct Fandom verification remains unavailable/robots-blocked for unresolved source-local forms.
 
 ## Next verified family
 
-**The Worst Torture (1)–(6)** — targets **390–395 / E388–E393**.
+**Dead Man Walking (1)–(3)** — targets **396–398 / E394–E396**.
 
 Following:
-- target396 begins **Dead Man Walking (1)**.
+- **Black Tongue (1)–(4)** — targets **399–402 / E397–E400**.
+- **Jailbreaker (1)–(4)** begins target **403 / E401**.
 
 ## Exact next actions
 
-1. Read C390–C395 completely against E388–E393.
-2. Determine the complete Dead Man Walking family boundary while reading forward.
-3. Reconstruct and QA The Worst Torture (1)–(6).
-4. Merge it.
-5. Immediately continue into Dead Man Walking.
+1. Read C396–C398 completely against E394–E396.
+2. Reconstruct and QA Dead Man Walking (1)–(3).
+3. Merge it.
+4. Immediately continue into Black Tongue (1)–(4), targets399–402 / E397–E400.

@@ -1,15 +1,15 @@
 # Project State
 
-**Checkpoint:** 2026-09-19  
+**Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 389  
+**Accepted:** 395  
 **Staged:** 0  
-**Next chapter:** 390
+**Next chapter:** 396
 
-Latest accepted family: **The Rotten Dog of Nouvelle Vague (1)–(5)** — targets385–389 / E383–E387.  
-Family QA: `qa/families/rotten-dog-0385-0389.md` — **PASS**.
+Latest accepted family: **The Worst Torture (1)–(6)** — targets390–395 / E388–E393.  
+Family QA: `qa/families/worst-torture-0390-0395.md` — **PASS**.
 
-Key decisions: shared raw385.txt has an explicit embedded Chapter386 marker; target385 receives only a scoped E383 closing restoration; Flubber J Tarbond is distinct from the Flubber substance; Garam Nord/Gargoyle continuity remains locked; Pal Euspear stays source-local; Kirko has not discovered Vikir.
+Key decisions: Sakkuth’s plague is a bluff but Vikir does not know that before the cigarette test; the Queen-sent-me story is a deliberate lie; Garam becomes Captain; Kirko becomes his adjutant; Chinese “No” overrides E393 “It might” in the Bible exchange; and false hope is the family’s closing torture motif.
 
-Next verified family: **The Worst Torture (1)–(6)** — targets390–395 / E388–E393.  
-Following family begins at target396: **Dead Man Walking (1)**.
+Next verified family: **Dead Man Walking (1)–(3)** — targets396–398 / E394–E396.  
+Following family: **Black Tongue (1)–(4)** — targets399–402 / E397–E400.

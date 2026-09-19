@@ -1,0 +1,36 @@
+{
+  "chapter": 395,
+  "title": "The Worst Torture (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Worst Torture",
+    "range": [
+      390,
+      395
+    ],
+    "family_qa_path": "qa/families/worst-torture-0390-0395.md",
+    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/395.txt",
+    "primary_source_sha": "6c32e8a683177d409cc7d579276627ff5d4d2c2a",
+    "english_reference_path": "source/chapters/chapter-393.xhtml",
+    "english_reference_sha": "38ad5acc799c755c0e9c04444286fb1702259924",
+    "draft_path": "manuscript/drafts/chapter-0395.md",
+    "draft_sha": "d5cbb8e5d994658c18650ad1998a33d00c707b79",
+    "qa_path": "qa/chapter-0395.md",
+    "qa_sha": "c91a7bff50c2d200968f48dedfd49a0b5007f00a",
+    "provenance_path": "editorial/provenance/chapter-0395.json",
+    "provenance_sha": "c0cac3f5ad5383336e98365a10b527d9b4cf7d9a"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+    "No Dead Man Walking material from target396 is imported."
+  ],
+  "documented_corrections": [
+    "Chinese says the Rune Bible will not calm Sakkuth; shifted E393 'It might' rejected."
+  ]
+}

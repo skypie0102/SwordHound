@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 389,
+  "accepted_chapters": 395,
   "staged_chapters": 0,
-  "next_chapter": 390,
+  "next_chapter": 396,
   "latest_accepted_family": {
-    "name": "The Rotten Dog of Nouvelle Vague",
-    "range": [
-      385,
-      389
-    ],
-    "family_qa": "qa/families/rotten-dog-0385-0389.md"
-  },
-  "next_title_family": {
     "name": "The Worst Torture",
     "range": [
       390,
       395
     ],
+    "family_qa": "qa/families/worst-torture-0390-0395.md"
+  },
+  "next_title_family": {
+    "name": "Dead Man Walking",
+    "range": [
+      396,
+      398
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 396,
-    "following_title": "Dead Man Walking (1)",
-    "alignment_note": "390→E388 through 395→E393; target396 begins Dead Man Walking (1)."
+    "following_family_starts": 399,
+    "following_title": "Black Tongue (1)",
+    "alignment_note": "396→E394 through 398→E396; Black Tongue 399–402 / E397–E400; Jailbreaker begins 403/E401."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -451,9 +451,23 @@
     386,
     387,
     388,
-    389
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395
   ],
   "notes": [
+    "Chapters390-395 accepted as The Worst Torture (1)-(6), mapping E388-E393.",
+    "Sakkuth de Leviathan is the Level Eight rioter; his apparent plague is a deliberate bluff, but Vikir did not know that before accepting the blood-soaked cigarette.",
+    "Vikir manipulates Sakkuth with a fabricated Queen/Ms. Ouroboros escape story built from genuine clues and the Orwell fragment.",
+    "Kirko's concern for Garam remains ambiguous; no romance confirmation or Vikir identity reveal occurs.",
+    "Garam is promoted two grades to Captain; Kirko becomes his adjutant.",
+    "Chinese Chapter395 says the Rune Bible will NOT calm Sakkuth; shifted E393 'It might' rejected.",
+    "D-7 false hope is explicitly framed as the worst torture; Sakkuth remains scheduled for execution while Vikir prepares the real jailbreak.",
+    "Next family Dead Man Walking verified targets396-398 / E394-E396; Black Tongue follows 399-402 / E397-E400.",
     "Chapters385-389 accepted as The Rotten Dog of Nouvelle Vague (1)-(5), mapping E383-E387.",
     "Targets385-386 share raw385.txt with an explicit embedded Chapter386 marker; target385 restores only a localized closing gap from E383.",
     "Lieutenant Colonel Flubber J Tarbond is distinct from the Flubber barrier substance.",
