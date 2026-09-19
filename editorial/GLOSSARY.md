@@ -1,3 +1,18 @@
+## Rich Friends additions — Chapters 270–272
+
+- **Rich Friends** — accepted three-part family, targets270–272 / witnesses E268–E270.
+- **Bourgeois money-flow reveal** — recovered ledger identifies House Bourgeois as the dominant financial endpoint behind the cult → indulgence → Old Testament flow.
+- **Damien Bourgeois meal auction** — source example: lunch access costs roughly 100 kg of gold.
+- **Cindywendy Bourgeois investigation** — explicitly reports that the **head of House Bourgeois is a demon**.
+- **Wealth-provenance rule** — Bourgeois elites care not only about amount but where/how wealth was made; unexplained money cannot simply buy access.
+- **Winston Smith** — source-local Colosseo headmaster form; returns from sabbatical after surviving a mana rampage. Direct Fandom confirmation unavailable.
+- **Winter Sword Orwell** — source-local Winston weapon form; carries an unexplained large scar on return. Do not infer cause early.
+- **Nouvelle Vague Prison** — source-local prison form in the Sadi discussion; direct Fandom confirmation unavailable.
+- **Oracle** — Dolores's temporary mock-investment club used as cover for the real-money Bourgeois approach.
+- **Pigi / Sinclaire Oracle roles** — Pigi information analysis; Sinclaire administration/office/secretarial work. Dolores plans to remove them before the later dangerous phase.
+- **Money War** — next family targets273–278 / E271–E276.
+- **What Money Can't Buy** — begins target279 / E277.
+
 ## The Eucharist additions — Chapters 268–269
 
 - **The Eucharist** — accepted two-part family, targets268–269 / witnesses E266–E267.
