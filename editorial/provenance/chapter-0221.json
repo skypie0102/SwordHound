@@ -1,0 +1,66 @@
+{
+  "chapter": 221,
+  "title": "That Day, Him and Me (2)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "That Day, Him and Me",
+    "range": [
+      220,
+      224
+    ],
+    "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
+    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/221.txt",
+    "blob_sha": "5c67124d92986ba285a9ad4066f6fd377ca1a7df",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-219.xhtml",
+    "blob_sha": "0fc493c78cb6b42a2316ef4c45e9bf7b04362ced",
+    "target_alignment": 221,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0221.md",
+    "blob_sha": "a73b60fb8d76705b9024b66c59f1ab449803925d"
+  },
+  "qa": {
+    "path": "qa/chapter-0221.md",
+    "blob_sha": "2f4b4572eaa26568033e00977173208e7348e416",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "age",
+      "final": "Camus is explicitly seventeen",
+      "basis": "Chinese C221"
+    },
+    {
+      "topic": "faction_shift",
+      "final": "Camus leaves Light Faction for Snake Dark Faction to pursue resurrection",
+      "basis": "Chinese C221 + accepted C107 continuity"
+    },
+    {
+      "topic": "snake_taboo",
+      "final": "Snake's love for Raspane remains taboo/source-present and unromanticized",
+      "basis": "Chinese C221"
+    },
+    {
+      "topic": "provocation_guard",
+      "final": "Camus's sexual leverage attempt remains brief/non-erotic; Snake immediately rejects and redresses her",
+      "basis": "Chinese C221"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/225.txt",
+    "chinese_sha": "1879573d9f58626cc95bab311a29bccec2ad5cbf",
+    "english_path": "source/chapters/chapter-223.xhtml",
+    "english_sha": "fdd69ef9d7396852dca97e9936353a8d32ed6144",
+    "purpose": "both begin Tuition (1), target225"
+  }
+}
