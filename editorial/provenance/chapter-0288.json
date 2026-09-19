@@ -1,0 +1,40 @@
+{
+  "chapter": 288,
+  "title": "Power Inflation (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Power Inflation",
+    "range": [
+      283,
+      290
+    ],
+    "family_qa_path": "qa/families/power-inflation-0283-0290.md",
+    "family_qa_sha": "78ddf6929302c374c314a92bce47d49d262f96b3",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/288.txt",
+    "blob_sha": "bd6792d66a9a8065fa2b45447551001aef325719",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-286.xhtml",
+    "blob_sha": "ad0d183d8b8faa819745522dacb9b0df40bd86fc",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0288.md",
+    "blob_sha": "291778fe4156e5bbaef3905d0013797079b70721"
+  },
+  "qa": {
+    "path": "qa/chapter-0288.md",
+    "blob_sha": "cc0bb9bbb7efb4235b94c43ace18cfc3cf54e35a",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_corrections": [
+    "E286 resolves the corrupted Chinese name fragment as 'Van'; Dolores does not learn Vikir's full identity."
+  ]
+}
