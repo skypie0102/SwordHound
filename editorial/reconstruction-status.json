@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 306,
+  "accepted_chapters": 313,
   "staged_chapters": 0,
-  "next_chapter": 307,
+  "next_chapter": 314,
   "latest_accepted_family": {
-    "name": "The Age of the Warmonger",
-    "range": [
-      299,
-      306
-    ],
-    "family_qa": "qa/families/age-warmonger-0299-0306.md"
-  },
-  "next_title_family": {
     "name": "Hell Tree",
     "range": [
       307,
       313
     ],
+    "family_qa": "qa/families/hell-tree-0307-0313.md"
+  },
+  "next_title_family": {
+    "name": "Surplus Man",
+    "range": [
+      314,
+      315
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 314,
-    "following_title": "Surplus Man (1)",
-    "alignment_note": "307→E305 through 313→E311; Surplus Man 314→E312 through 315→E313."
+    "following_family_starts": 316,
+    "following_title": null,
+    "alignment_note": "314→E312, 315→E313; determine target316 family before acceptance."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -368,9 +368,22 @@
     303,
     304,
     305,
-    306
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313
   ],
   "notes": [
+    "Chapters307-313 accepted as Hell Tree (1)-(7), mapping E305-E311.",
+    "Hell Hounds are Chinese-primary B+; shifted E308 B rejected.",
+    "Vikir deliberately remains Level1 to maximize weak-character/high-difficulty achievement rewards.",
+    "Cerberus is A+ and unlocks Physical Resistance via a black advanced-stat candy.",
+    "Floor2 closes at 108 minutes with 69 survivors entering Basement Floor3.",
+    "Next family Surplus Man verified targets314-315 / E312-E313.",
     "Chapters299-306 accepted as The Age of the Warmonger (1)-(8), mapping E297-E304.",
     "Ms. Ouroboros is source-revealed as Professor Sadi; Sadi's Warring States ideology remains attributed to her.",
     "Camus Morgue is source-revealed as the new Colosseo enrollee.",
