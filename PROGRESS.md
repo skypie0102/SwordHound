@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — The Successors (1)–(2) accepted
+
+**Current state:** 292 / 500 accepted; 0 staged; next Chapter 293.
+
+Completed targets **291–292** with mapping **E289–E290**.
+
+Key decisions: Sinclaire is source-revealed as Bartolomeo Bourgeois’s daughter and Damien Bourgeois’s niece; her possession-timeline uncertainty remains unresolved; Dolores retains only the name fragment **Van**; and Ms. Ouroboros captures Humbert plus Belial’s golden demon-eye object while invoking the **Warring States Era** without revealing her identity.
+
+Family QA: `qa/families/successors-0291-0292.md` — **PASS**.
+
+Next verified family: **293–295 — Confessions (1)–(3)**, mapping **E291–E293**. Last Semester follows targets296–298 / E294–E296.
+
 ## 2026-09-19 — Power Inflation (1)–(8) accepted
 
 **Current state:** 290 / 500 accepted; 0 staged; next Chapter 291.

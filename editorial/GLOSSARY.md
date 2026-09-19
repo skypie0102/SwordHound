@@ -1,3 +1,18 @@
+## The Successors additions — Chapters 291–292
+
+- **The Successors** — accepted two-part family, targets291–292 / witnesses E289–E290.
+- **Sinclaire Bourgeois** — source-timed reveal in target292: Bartolomeo Bourgeois’s daughter and Damien Bourgeois’s niece; one of the next-generation successor candidates.
+- **Bourgeois successor system** — at least two candidates are raised under sealed identities in commoner society and must succeed without direct family assistance.
+- **Esse, Non Videri** — “To be, without being seen.”
+- **Bartolomeo / Damien generation** — Damien identifies himself and Bartolomeo as their generation’s successor candidates.
+- **Juliet / Sinclaire generation** — Damien identifies Juliet and Sinclaire as the next generation’s successor candidates.
+- **Sinclaire possession-timeline uncertainty** — she does not know when Bartolomeo became possessed or which remembered father belonged to the human versus Belial’s control.
+- **Golden demon eye** — source-local object given by Belial to Humbert shortly before the vault operation; taken by Ms. Ouroboros in target292.
+- **Ms. Ouroboros collection** — she captures Humbert as part of a larger unexplained “collection.”
+- **Warring States Era** — Ms. Ouroboros’s closing phrase in target292; do not interpret beyond source timing.
+- **Confessions** — next family targets293–295 / E291–E293.
+- **Last Semester** — follows targets296–298 / E294–E296.
+
 ## Power Inflation additions — Chapters 283–290
 
 - **Power Inflation** — accepted eight-part family, targets283–290 / witnesses E281–E288.
