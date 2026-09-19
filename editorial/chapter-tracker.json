@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 298,
+  "accepted_count": 306,
   "staged_count": 0,
-  "next_chapter": 299,
+  "next_chapter": 307,
   "active_title_family": {
-    "name": "The Age of the Warmonger",
+    "name": "Hell Tree",
     "range": [
-      299,
-      306
+      307,
+      313
     ],
-    "boundary_status": "verified complete: target299→E297 through target306→E304",
-    "following_family_starts": 307,
-    "following_title": "Hell Tree (1)",
-    "alignment_note": "299→E297 through 306→E304; target307→E305 begins Hell Tree (1), continuing through target313→E311."
+    "boundary_status": "verified complete: target307→E305 through target313→E311",
+    "following_family_starts": 314,
+    "following_title": "Surplus Man (1)",
+    "alignment_note": "307→E305 through 313→E311; target314→E312 begins Surplus Man (1), continuing through target315→E313."
   },
   "chapters": [
     {
@@ -4187,6 +4187,118 @@
       "acceptance": "qa/acceptance/chapter-0298.json",
       "acceptance_sha": "687bb62332e14099d5a4d19317006f72609a63fc",
       "family_qa": "qa/families/last-semester-0296-0298.md"
+    },
+    {
+      "chapter": 299,
+      "title": "The Age of the Warmonger (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/299.txt",
+      "english_mtl_reference": "source/chapters/chapter-297.xhtml",
+      "draft": "manuscript/drafts/chapter-0299.md",
+      "qa": "qa/chapter-0299.md",
+      "provenance": "editorial/provenance/chapter-0299.json",
+      "acceptance": "qa/acceptance/chapter-0299.json",
+      "acceptance_sha": "b532595f8a7fc35bf4556604d9a406ca8f489768",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 300,
+      "title": "The Age of the Warmonger (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/300.txt",
+      "english_mtl_reference": "source/chapters/chapter-298.xhtml",
+      "draft": "manuscript/drafts/chapter-0300.md",
+      "qa": "qa/chapter-0300.md",
+      "provenance": "editorial/provenance/chapter-0300.json",
+      "acceptance": "qa/acceptance/chapter-0300.json",
+      "acceptance_sha": "bb6a9734b0fbdda5e74d5d520301e129b5b6209c",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 301,
+      "title": "The Age of the Warmonger (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/301.txt",
+      "english_mtl_reference": "source/chapters/chapter-299.xhtml",
+      "draft": "manuscript/drafts/chapter-0301.md",
+      "qa": "qa/chapter-0301.md",
+      "provenance": "editorial/provenance/chapter-0301.json",
+      "acceptance": "qa/acceptance/chapter-0301.json",
+      "acceptance_sha": "5851519e258d009903a60101cd5be98e00ea0871",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 302,
+      "title": "The Age of the Warmonger (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/302.txt",
+      "english_mtl_reference": "source/chapters/chapter-300.xhtml",
+      "draft": "manuscript/drafts/chapter-0302.md",
+      "qa": "qa/chapter-0302.md",
+      "provenance": "editorial/provenance/chapter-0302.json",
+      "acceptance": "qa/acceptance/chapter-0302.json",
+      "acceptance_sha": "077e1b3fa99a1ef76e78a7d1e4284bb8cc6ec586",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 303,
+      "title": "The Age of the Warmonger (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/303.txt",
+      "english_mtl_reference": "source/chapters/chapter-301.xhtml",
+      "draft": "manuscript/drafts/chapter-0303.md",
+      "qa": "qa/chapter-0303.md",
+      "provenance": "editorial/provenance/chapter-0303.json",
+      "acceptance": "qa/acceptance/chapter-0303.json",
+      "acceptance_sha": "a6712fba93478683fbdfc5241838dd414f9c2888",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 304,
+      "title": "The Age of the Warmonger (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/304.txt",
+      "english_mtl_reference": "source/chapters/chapter-302.xhtml",
+      "draft": "manuscript/drafts/chapter-0304.md",
+      "qa": "qa/chapter-0304.md",
+      "provenance": "editorial/provenance/chapter-0304.json",
+      "acceptance": "qa/acceptance/chapter-0304.json",
+      "acceptance_sha": "d146f2ebe260b9c8d86eb320d4fc3824be6fff32",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 305,
+      "title": "The Age of the Warmonger (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/305.txt",
+      "english_mtl_reference": "source/chapters/chapter-303.xhtml",
+      "draft": "manuscript/drafts/chapter-0305.md",
+      "qa": "qa/chapter-0305.md",
+      "provenance": "editorial/provenance/chapter-0305.json",
+      "acceptance": "qa/acceptance/chapter-0305.json",
+      "acceptance_sha": "9b9f17139c1c20496c12b7656f97e4fab3674f26",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 306,
+      "title": "The Age of the Warmonger (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/306.txt",
+      "english_mtl_reference": "source/chapters/chapter-304.xhtml",
+      "draft": "manuscript/drafts/chapter-0306.md",
+      "qa": "qa/chapter-0306.md",
+      "provenance": "editorial/provenance/chapter-0306.json",
+      "acceptance": "qa/acceptance/chapter-0306.json",
+      "acceptance_sha": "f8284e961f4aa8ae9efb345db23c7140e29e5cec",
+      "family_qa": "qa/families/age-warmonger-0299-0306.md"
     }
   ]
 }
