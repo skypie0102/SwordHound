@@ -1,3 +1,16 @@
+## Confessions additions — Chapters 293–295
+
+- **Confessions** — accepted three-part family, targets293–295 / witnesses E291–E293.
+- **Bourgeois aftermath cover story** — public version blames Night Hound, casts Bartolomeo as a heroic casualty, and gives Pigi/Sinclaire/Dolores separate memory/visibility cover stories.
+- **Sinclaire school withdrawal** — she stops classes, part-time work, volunteering, clubs, and most friendships before returning for finals with severe training intensity.
+- **Sinclaire knowledge split** — reader already knows her Bourgeois identity from target292; Vikir only infers it in target294 from “Night Hound killed my father.”
+- **Sinclaire trust collapse** — she believes Night Hound killed Bartolomeo and Dolores was allied with him; this, not ordinary burnout, drives her desire to leave school.
+- **Sinclaire confession** — she explicitly identifies dating Vikir as the one personal goal she wants before leaving the Academy.
+- **Vikir relationship response** — no present relationship; his answer remains conditional: **“If that day comes.”**
+- **Nouvelle Vague transition** — target295 ends with Vikir planning to leave Colosseo for Nouvelle Vague as the Age of Destruction approaches.
+- **Last Semester** — next family targets296–298 / E294–E296.
+- **The Prison of Nouvelle Vague** — begins target299 / E297.
+
 ## The Successors additions — Chapters 291–292
 
 - **The Successors** — accepted two-part family, targets291–292 / witnesses E289–E290.
