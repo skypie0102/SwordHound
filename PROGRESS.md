@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — Sucker Shark (1)–(2) accepted
+
+**Current state:** 374 / 500 accepted; 0 staged; next Chapter 375.
+
+Completed targets **373–374** with mapping **E371–E372**.
+
+Key decisions: Poseidon is explicitly the ancient human counterweapon to the Ten Corpses’ Long Rain of Terror; Sakkuth pressures Garam using threats against Kirko; and Vikir treats Garam/Kirko only as a potential escape lever.
+
+Family QA: `qa/families/sucker-shark-0373-0374.md` — **PASS**.
+
+Next verified family: **375–376 — Poseidon (1)–(2)**, mapping **E373–E374**. The Hounds of Nouvelle Vague begins target377/E375.
+
 ## 2026-09-19 — Solitary Confinement (1)–(2) accepted
 
 **Current state:** 372 / 500 accepted; 0 staged; next Chapter 373.

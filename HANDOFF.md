@@ -1,38 +1,36 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 372 / 500  
+**Accepted:** 374 / 500  
 **Staged:** 0  
-**Next target:** 373
+**Next target:** 375
 
 ## Latest accepted family
 
-**Solitary Confinement (1)–(2)** — targets **371–372**.
+**Sucker Shark (1)–(2)** — targets **373–374**.
 
-- Family QA: `qa/families/solitary-confinement-0371-0372.md` — PASS.
-- Alignment: **371→E369, 372→E370**.
-- Garam Nord voluntarily escorts Vikir so unofficial guard abuse does not exceed the assigned punishment.
-- Souaré is Fandom-confirmed canonical; current source establishes dwarf/elf heritage, beard, mineral affinity, and Five-Warden status.
-- Solitary cells are custom asphalt/concrete/BDISSEM cocoons formed directly around the prisoner with only a breathing/feeding tube.
-- Vikir receives one hundred days, far beyond ordinary solitary terms.
-- Neighboring inmate identifies himself only as **Angajuman**; no accessible canonical Fandom entry was found for that alias.
-- Angajuman claims years of survival through extreme metabolic suppression and minimal bread/dew.
-- Historical sword-house context preserves Bahamut, Gis, Sade, Nibelungen, and Baskerville as former Iron-Blooded Sword Houses.
-- Sword discourse escalates from Baskerville First through Eighth Form and Black Sun.
-- Angajuman counters Vikir’s full discourse and remembers Winston, Orca, previous-generation Seven Counts, and Cane Corso.
-- Vikir privately concludes Angajuman is probably the future fugitive whose escape caused Orca to destroy Nouvelle Vague, but **the true name remains unstated and must not be imported**.
+- Family QA: `qa/families/sucker-shark-0373-0374.md` — PASS.
+- Alignment: **373→E371, 374→E372**.
+- Vikir’s post-solitary diligence is deliberate and aimed at accelerating Level Ten construction.
+- **Poseidon** is explicitly the ancient human counterweapon to the Ten Corpses’ **Long Rain of Terror**.
+- Vikir intends to infiltrate the Imperial Family after escaping Nouvelle Vague if necessary.
+- Prison food desperation includes lava-shark hunting, literal cannibal exploitation, and guard-fed **Sucker Shark** dependency.
+- **Sakkuth de Leviathan / Plague Leper** pressures **Garam Nord** by threatening **Kirko Grimm**.
+- Kirko is contemptuous of Garam’s weakness, but romance is not narrator-confirmed.
+- Garam’s low standing among guards is preserved.
+- Vikir only treats Garam/Kirko as a possible lever for his escape plan.
+- The family ends with that escape opportunity arriving sooner than expected.
 
 ## Next verified family
 
-**Sucker Shark (1)–(2)** — targets **373–374** / **E371–E372**.
+**Poseidon (1)–(2)** — targets **375–376** / **E373–E374**.
 
 Following:
-- **Poseidon (1)–(2)** — targets375–376 / E373–E374.
-- **The Hounds of Nouvelle Vague (1)–(4)** — targets377–380 / E375–E378.
+- **The Hounds of Nouvelle Vague (1)–(4)** — targets **377–380 / E375–E378**.
 
 ## Exact next actions
 
-1. Read C373–C374 completely against E371–E372.
-2. Reconstruct and QA Sucker Shark (1)–(2).
+1. Read C375–C376 completely against E373–E374.
+2. Reconstruct and QA Poseidon (1)–(2).
 3. Merge it.
-4. Immediately continue into Poseidon (1)–(2), targets375–376 / E373–E374.
+4. Immediately continue into The Hounds of Nouvelle Vague (1)–(4), targets377–380 / E375–E378.

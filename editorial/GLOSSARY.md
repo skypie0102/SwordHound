@@ -1,3 +1,13 @@
+## Sucker Shark additions — Chapters 373–374
+
+- **Sucker Shark** — accepted two-part family, targets373–374 / witnesses E371–E372.
+- **Long Rain of Terror** — final weapon of the Ten Corpses.
+- **Poseidon** — ancient human counterweapon hidden deep beneath Nouvelle Vague; Vikir’s real objective inside the prison.
+- **Sucker Shark role** — prisoner conditioned through guard food scraps and humiliation.
+- **Garam / Kirko lever** — Vikir identifies their relationship only as potentially useful for escape; romance remains unconfirmed.
+- **Poseidon** — next family targets375–376 / E373–E374.
+- **The Hounds of Nouvelle Vague** — begins target377 / E375.
+
 ## Solitary Confinement additions — Chapters 371–372
 
 - **Solitary Confinement** — accepted two-part family, targets371–372 / witnesses E369–E370.

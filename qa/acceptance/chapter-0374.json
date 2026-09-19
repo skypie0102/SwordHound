@@ -1,0 +1,32 @@
+{
+  "chapter": 374,
+  "title": "Sucker Shark (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Sucker Shark",
+    "range": [
+      373,
+      374
+    ],
+    "family_qa_path": "qa/families/sucker-shark-0373-0374.md",
+    "family_qa_sha": "14fca4f37bcb0be39aa0e952f7781c3b773e9f01",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/374.txt",
+    "primary_source_sha": "e40ee29a2b7c2b7ef785913943e49e323f1f96d3",
+    "english_reference_path": "source/chapters/chapter-372.xhtml",
+    "english_reference_sha": "b95614818e24418ce595bd30b8467fa70e8f765f",
+    "draft_path": "manuscript/drafts/chapter-0374.md",
+    "draft_sha": "cb58a07f7deddb4edd91d7d8226171aee51ed884",
+    "qa_path": "qa/chapter-0374.md",
+    "qa_sha": "40e71fb51d6a9d1686000ace5b6e0fbf8f1ba7b5",
+    "provenance_path": "editorial/provenance/chapter-0374.json",
+    "provenance_sha": "1f4a261e1b646d67030f21a98f3b46cbe1ff23fe"
+  },
+  "documented_limits": [
+    "No Poseidon-family material from target375 is imported."
+  ]
+}
