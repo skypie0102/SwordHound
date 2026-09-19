@@ -1,0 +1,56 @@
+{
+  "chapter": 237,
+  "title": "National University League (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/237.txt",
+    "blob_sha": "974b6dcf8dad76b68517c7d38de9089edeb74bbf",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-235.xhtml",
+    "blob_sha": "820c68da4f5b492d837a81131b1f5ab5d3bbaa1d",
+    "target_alignment": 237,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0237.md",
+    "blob_sha": "ad1c718be9fb8920a29e76753e9dd66e1e097565"
+  },
+  "qa": {
+    "path": "qa/chapter-0237.md",
+    "blob_sha": "bcab4a1e7f177fefe9fec7d35d8c0f7c5bb834af",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "travel",
+      "final": "Mage Tower hosts; Magic Train carries Colosseo delegation",
+      "basis": "Chinese C237 + canonical/project continuity"
+    },
+    {
+      "topic": "group",
+      "final": "Vikir team is Highbro/Middlebro/Lowbro/Granola/Vikir",
+      "basis": "Chinese C237 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

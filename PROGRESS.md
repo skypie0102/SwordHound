@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-19 — National University League (1)–(9) accepted
+
+**Current state:** 244 / 500 accepted; 0 staged; next Chapter 245.
+
+Completed targets 236–244 with mapping **236→E234 through 244→E242**.
+
+Key decisions: canonical school/rival names are normalized; Vikir’s hidden objective is top-ten access to the shared vault for dormant Seventh Corpse Decarabia; Granola’s crush remains unilateral; the royal freshman stays unidentified; the inn deal is corrected to a 30% discount / 70% charge; Bakilaga’s prior level is peak Sword Expert with current Sword Graduator only rumored; Vikir only contemplates Eighth Fang; Boli Bollason concedes the center-held arm-wrestling match; and Vikir/Bakilaga’s match ends without a pin when the stone table breaks, after Bakilaga recognizes Vikir’s Ballak Hunting Leader collar.
+
+Family QA: `qa/families/national-university-league-0236-0244.md` — **PASS**.
+
+Next verified family: **245–249 — Survival Contest (1)–(5)**, mapping **245→E243 through 249→E247**. Target **250→E248** begins *Recap (1)*.
+
 ## 2026-09-19 — Suspicion (1)–(2) accepted
 
 **Current state:** 235 / 500 accepted; 0 staged; next Chapter 236.

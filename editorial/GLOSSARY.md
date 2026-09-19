@@ -1,5 +1,22 @@
 ## The Great Banquet additions — Chapters 110–116
 
+## National University League additions — Chapters 236–244
+
+- **National University League** — accepted title family for targets 236–244; witnesses E234–E242.
+- **Varangian Academy** — canonical martial academy form; specializes in cold weapons and northern warrior training.
+- **Mage Tower** — canonical magic academy / host of this year’s League.
+- **Temisquira Women’s College** — canonical women’s comprehensive academy form.
+- **Bakilaga Juragio** — Varangian third-year student council president. Prior-year level normalized to **peak Sword Expert**; current Sword Graduator is rumor only in target 241.
+- **Boli Bollason** — Varangian top first-year; 217 cm / 150 kg; northern mercenary background.
+- **Merelini Lovegood** — Temisquira third-year student council president; plant/earth/poison/insect magic; rumored fourth-circle.
+- **Oraorus Hohenheim** — Mage Tower third-year student council president. Current baptismal name: **Snub-nosed**.
+- **Decarabia** — **Seventh Corpse**, unique object-type demon; Vikir believes it is dormant in the four-academy treasure vault.
+- **Hunting Leader** — Ballak rank/sign represented by Vikir’s collar; recognized by Bakilaga in target 244.
+- **National University League lodging correction** — target 241 charges **70%** of original lodging cost (30% discount); recovered-English 30% charge rejected.
+- **Eighth Fang chronology** — target 243 is planning/threshold discussion only. Vikir has not attained Eighth Fang by target 244.
+- **Survival Contest** — next family targets 245–249, mapped E243–E247.
+- **Recap** — begins target 250 / E248.
+
 - **The Great Banquet** — production family title for targets 110–116; verified witnesses E109–E115.
 - **Sword Star** — Hugo's source nickname/title-of-renown in target 110. Chinese chronology places the Marquis/Sword Star recognition at roughly age **40**, about ten years before the current chapter.
 - **Boston Terrier Le Baskerville** — Count; commander of the **Pit Bull Knights**; Hugo's half-brother.

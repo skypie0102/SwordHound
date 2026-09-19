@@ -1,0 +1,56 @@
+{
+  "chapter": 239,
+  "title": "National University League (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/239.txt",
+    "blob_sha": "685a5dac9aa4a839013d08c4dd3f341267a70aa8",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-237.xhtml",
+    "blob_sha": "5ae1b4877708effe3769ed7d5a2107b3e7f97c02",
+    "target_alignment": 239,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0239.md",
+    "blob_sha": "5561669ff4b6ea6cc40b408d891f3857fe69c00d"
+  },
+  "qa": {
+    "path": "qa/chapter-0239.md",
+    "blob_sha": "7dee728e3234574b74d42a8fc2207770de80eee7",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "royal_rumor",
+      "final": "Rumored royal freshman remains unidentified",
+      "basis": "Chinese C239 + canonical/project continuity"
+    },
+    {
+      "topic": "lovegood_conflict",
+      "final": "Lovegood/Sinclaire conflict precedes Vikir scattering Lovegood’s spell",
+      "basis": "Chinese C239 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

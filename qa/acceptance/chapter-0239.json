@@ -1,0 +1,46 @@
+{
+  "chapter": 239,
+  "title": "National University League (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/239.txt",
+    "primary_source_sha": "685a5dac9aa4a839013d08c4dd3f341267a70aa8",
+    "english_reference_path": "source/chapters/chapter-237.xhtml",
+    "english_reference_sha": "5ae1b4877708effe3769ed7d5a2107b3e7f97c02",
+    "draft_path": "manuscript/drafts/chapter-0239.md",
+    "draft_sha": "5561669ff4b6ea6cc40b408d891f3857fe69c00d",
+    "qa_path": "qa/chapter-0239.md",
+    "qa_sha": "7dee728e3234574b74d42a8fc2207770de80eee7",
+    "provenance_path": "editorial/provenance/chapter-0239.json",
+    "provenance_sha": "143c4988043eb8445d82322112c32c7ddf182866"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Bakilaga Juragio",
+    "Boli Bollason",
+    "Merelini Lovegood",
+    "Oraorus Hohenheim",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Rumored royal freshman remains unidentified.",
+    "Brief remembered girl remains unidentified."
+  ],
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+}

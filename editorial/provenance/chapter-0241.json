@@ -1,0 +1,61 @@
+{
+  "chapter": 241,
+  "title": "National University League (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/241.txt",
+    "blob_sha": "221e469ffb0368822ffe75d85d4bdfce4e2c5f47",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-239.xhtml",
+    "blob_sha": "4c99a39ad02fc003042a64616c2497bf98368543",
+    "target_alignment": 241,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0241.md",
+    "blob_sha": "e45adb5a732165a2e5652ac87f1cd39655ee0dc4"
+  },
+  "qa": {
+    "path": "qa/chapter-0241.md",
+    "blob_sha": "5589cb1ac93b3c509ec8afbaefd257138d58db2b",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "rank_fix",
+      "final": "Bakilaga prior level normalized to peak Sword Expert; current Sword Graduator only rumor",
+      "basis": "Chinese C241 + canonical/project continuity"
+    },
+    {
+      "topic": "discount_fix",
+      "final": "Inn charges 70% of original fee; English 30%-charge error rejected",
+      "basis": "Chinese C241 + canonical/project continuity"
+    },
+    {
+      "topic": "decarabia",
+      "final": "Vikir links four-academy vault to Decarabia and prior demonic attacks",
+      "basis": "Chinese C241 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

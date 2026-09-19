@@ -1,57 +1,42 @@
-# SwordHound Session Handoff
+# Editorial Handoff
 
-> **Mandatory:** Read this file before beginning editorial work. Update it after every meaningful checkpoint. Hash-bound accepted evidence wins over this file if they conflict.
+**Checkpoint:** 2026-09-19  
+**Accepted:** 244 / 500  
+**Staged:** 0  
+**Next target:** 245
 
-## Handoff metadata
+## Latest accepted family
 
-- **Last updated:** 2026-09-19
-- **Updated by:** ChatGPT — Suspicion acceptance checkpoint
-- **Working branch:** `editorial/restart-suspicion-0234-0235`
-- **Base main checkpoint:** `88ea8f46d2c013c333be03e5e590037033d913b6` (Tuition checkpoint merged)
-- **Current PR:** #63 — `Rebuild Suspicion Chapters 234–235`
-- **Blocking issue:** none
+**National University League (1)–(9)** — targets **236–244**.
 
-## Authoritative checkpoint
+- Family QA: `qa/families/national-university-league-0236-0244.md` — PASS.
+- Alignment: **236→E234 through 244→E242**.
+- Canonical forms locked: Bakilaga Juragio, Boli Bollason, Merelini Lovegood, Oraorus Hohenheim, Varangian Academy, Mage Tower, Temisquira Women’s College, Decarabia.
+- Vikir’s hidden purpose is top-ten vault access for the dormant Seventh Corpse; do not import Decarabia’s later outcome early.
+- Granola→Sinclaire attraction is one-sided POV only.
+- Royal-freshman rumor remains unresolved.
+- Inn deal is 70% charged / 30% discounted.
+- Vikir has not attained Eighth Fang by target 244.
+- Vikir/Bakilaga arm-wrestling has no pin/winner; the stone table breaks.
+- Bakilaga recognizes Vikir’s Ballak Hunting Leader collar and language.
+- Bakilaga’s Dolores/Vikir girlfriend tease is a misunderstanding.
 
-- **Accepted:** **235 / 500**
-- **Staged:** **0**
-- **Next:** **236**
-- **Latest family:** targets **234–235 — Suspicion (1)–(2)**
-- **Family QA:** `qa/families/suspicion-0234-0235.md` — PASS — `adcfea42120b332df0d35779d70bada3b8d460cc`
-- **Next family:** targets **236–244 — National University League (1)–(9)**
-- **Following family:** target **245 — Survival Contest (1)**
+## Next verified family
 
-## Key decisions
+**Survival Contest (1)–(5)** — targets **245–249**.
 
-- Dolores's Vikir interest remains evidence-driven curiosity plus an unnamed emotion; relationship status is not confirmed.
-- Peri Award warm-heart reading is Dolores's interpretation.
-- Vikir's demerits form a dark/high/wall-facing route pattern.
-- Pigi says Vikir wanders at night but always returns; Vikir's room appears ready to abandon.
-- Outside Dolores/Vikir romance article is false gossip.
-- Choco smells of standard dormitory shampoo, suggesting a student owner only.
-- Six Pigi bullies confirm a masked attack on freshman welcome-party night before Night Hound was publicly known.
-- Masked attacker knew names, parents, and family locations.
-- Dolores now strongly suspects an Academy source/informant.
-- Night Hound himself inside Colosseo remains a slim possibility.
-- Dolores does not identify Vikir as Night Hound or Choco.
+- Mapping: **245→E243, 246→E244, 247→E245, 248→E246, 249→E247**.
+- Verified Chinese title sequence: 245 (1), 246 (2), 247 (3), 248 (4), 249 (5).
+- Boundary: **target 250 → E248 — Recap (1)**.
+- Read C245–249 and E243–247 completely before drafting/accepting.
+- Keep all later League rankings, artifact outcomes, Decarabia behavior, and Eighth Fang developments source-timed.
 
-## Next family — National University League 236–244
+## Required workflow
 
-- 236 → E234
-- 237 → E235
-- 238 → E236
-- 239 → E237
-- 240 → E238
-- 241 → E239
-- 242 → E240
-- 243 → E241
-- 244 → E242
-- boundary 245 → E243 begins **Survival Contest (1)**.
-
-## Exact next actions
-
-1. Open/validate/merge the Suspicion checkpoint PR.
-2. Fresh branch from merged main for **National University League 236–244**.
-3. Read C236–244 against E234–242 completely.
-4. Use C245/E243 as the next boundary.
-5. Reconstruct/QA/provenance-bind/accept all nine chapters, then continue.
+1. Read this handoff first.
+2. Chinese raw controls semantic content.
+3. Fandom controls established canonical English names/terms where confidently identified.
+4. Recovered English is a secondary shifted witness only.
+5. Work by contiguous title family.
+6. Write chapter QA + family QA + provenance + acceptance evidence before advancing the checkpoint.
+7. Update this file at the end of every editorial session.

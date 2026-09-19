@@ -1,0 +1,46 @@
+{
+  "chapter": 243,
+  "title": "National University League (8)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/243.txt",
+    "primary_source_sha": "0357a6973a1ecb1c708c938f94becd1db8faeeea",
+    "english_reference_path": "source/chapters/chapter-241.xhtml",
+    "english_reference_sha": "3c770e4bbed2e2b34babc951196d02203aaccb29",
+    "draft_path": "manuscript/drafts/chapter-0243.md",
+    "draft_sha": "8c1dbb8c3ecbd77d5c726d4483df44748533cc88",
+    "qa_path": "qa/chapter-0243.md",
+    "qa_sha": "05a9af23483528591fb32e3cf6f0b9c1501e0c88",
+    "provenance_path": "editorial/provenance/chapter-0243.json",
+    "provenance_sha": "bda98dc67d78b294837e4211992661a28bb25751"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Colosseo Academy",
+    "Varangian Academy",
+    "Mage Tower",
+    "Temisquira Women’s College",
+    "Bakilaga Juragio",
+    "Boli Bollason",
+    "Merelini Lovegood",
+    "Oraorus Hohenheim",
+    "Decarabia"
+  ],
+  "documented_limits": [
+    "Eighth Fang is not yet attained.",
+    "Bollason’s loss is voluntary concession after recognizing Vikir’s deliberate center hold."
+  ],
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+}
