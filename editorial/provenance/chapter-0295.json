@@ -1,0 +1,38 @@
+{
+  "chapter": 295,
+  "title": "Confessions (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Confessions",
+    "range": [
+      293,
+      295
+    ],
+    "family_qa_path": "qa/families/confessions-0293-0295.md",
+    "family_qa_sha": "6eabea8d34e1d599b5490d639fee708677854110",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/295.txt",
+    "blob_sha": "227c8baf1d63791d8c9f0d1819ec87277f0f8596",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-293.xhtml",
+    "blob_sha": "c75108ce26da142993066398aa03dca026ed3349",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0295.md",
+    "blob_sha": "6e925bb13b095d5b36db1de090666c62669ad957"
+  },
+  "qa": {
+    "path": "qa/chapter-0295.md",
+    "blob_sha": "a89e4af4e649823902b500e70016d681e93db8ed",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "relationship_guard": "Vikir rejects a present relationship; only a conditional future answer remains: 'If that day comes.'"
+}
