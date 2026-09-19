@@ -1,0 +1,38 @@
+{
+  "chapter": 355,
+  "title": "Outside the Tower (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Outside the Tower",
+    "range": [
+      351,
+      355
+    ],
+    "family_qa_path": "qa/families/outside-tower-0351-0355.md",
+    "family_qa_sha": "cb78aaf960f448be3c02c5220421134e76b60119",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/355.txt",
+    "blob_sha": "c895e419e3f830d437ba4ae2ec53fdb3613c7551",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-353.xhtml",
+    "blob_sha": "c0e57f2c8cb2652d0e034ceb400378759aa3016a",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0355.md",
+    "blob_sha": "b6bf8fa787e62d60ad998118711b8fb1b7df83d1"
+  },
+  "qa": {
+    "path": "qa/chapter-0355.md",
+    "blob_sha": "4eea6f04ff2471806770b005ecd72deffa8d3ff5",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "reveal_guard": "Public Night Hound declaration occurs at chapter close; no Crime and Punishment aftermath imported."
+}
