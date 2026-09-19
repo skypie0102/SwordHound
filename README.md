@@ -6,9 +6,9 @@ Recovered source, reference, and reconstruction material for the English EPUB pr
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **233 / 500 accepted; next Chapter 234.** Latest accepted family: **targets 225–233 — Tuition (1)–(9)**.
+Current checkpoint: **235 / 500 accepted; next Chapter 236.** Latest accepted family: **targets 234–235 — Suspicion (1)–(2)**.
 
-The next verified family is **Suspicion, targets 234–235**, mapped **234→E232, 235→E233**. Target 236 begins **National University League (1)** and maps to E234.
+The next verified family is **National University League, targets 236–244**, mapped **236→E234 through 244→E242**. Target 245 begins **Survival Contest (1)** and maps to E243.
 
 ## Current source policy
 
@@ -37,6 +37,16 @@ The Chinese corpus contains **492 physical files with at least partial Chinese c
 - Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
 
 ## Current terminology / editorial notes
+
+The accepted Suspicion family adds/revalidates:
+
+- **Vikir demerit route** — dark/high/wall-facing locations become Dolores's first route-level clue.
+- **Choco dorm-shampoo clue** — student-owner inference only.
+- **Pre-publicity Night Hound encounter** — six bullies were attacked on freshman welcome-party night.
+- **Academy connection theory** — insider/informant likely; Night Hound physically inside Colosseo remains a slim possibility.
+- **Identity guard** — Vikir is not identified as Night Hound or Choco.
+- **National University League** — next family targets 236–244; witnesses E234–E242.
+- **Survival Contest** begins target 245 / E243.
 
 The accepted Tuition family adds/revalidates:
 
@@ -328,15 +338,15 @@ The accepted Admission to the Academy family adds/revalidates:
 
 ## Accepted evidence
 
-Current accepted production evidence covers targets **1–233**:
+Current accepted production evidence covers targets **1–235**:
 
-- `manuscript/drafts/chapter-0001.md` through `chapter-0233.md`
-- `qa/chapter-0001.md` through `chapter-0233.md`
-- accepted family QA through `qa/families/tuition-0225-0233.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0233.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0233.json`
+- `manuscript/drafts/chapter-0001.md` through `chapter-0235.md`
+- `qa/chapter-0001.md` through `chapter-0235.md`
+- accepted family QA through `qa/families/suspicion-0234-0235.md`
+- `editorial/provenance/chapter-0001.json` through `chapter-0235.json`
+- `qa/acceptance/chapter-0001.json` through `chapter-0235.json`
 
-Latest family QA: `qa/families/tuition-0225-0233.md` — **PASS**.
+Latest family QA: `qa/families/suspicion-0234-0235.md` — **PASS**.
 
 ## Editorial quality bar
 
