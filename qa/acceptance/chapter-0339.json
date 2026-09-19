@@ -1,0 +1,33 @@
+{
+  "chapter": 339,
+  "title": "Trap (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Trap",
+    "range": [
+      339,
+      340
+    ],
+    "family_qa_path": "qa/families/trap-0339-0340.md",
+    "family_qa_sha": "2e975d71a8a9f2f4ca5eb694d9dd8beef90a29eb",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/339.txt",
+    "primary_source_sha": "40f24a63fa879149b2843bb5bb5769a244f8d95c",
+    "english_reference_path": "source/chapters/chapter-337.xhtml",
+    "english_reference_sha": "e0dcafd22c1f6e03ca6a16d47e0d7d467db0338b",
+    "draft_path": "manuscript/drafts/chapter-0339.md",
+    "draft_sha": "b6d7ed0453aee8b933ecefb175db6e083607070c",
+    "qa_path": "qa/chapter-0339.md",
+    "qa_sha": "9c1750c30daa6342255663152ccf8a06c17cd39d",
+    "provenance_path": "editorial/provenance/chapter-0339.json",
+    "provenance_sha": "62b9ec0617b96cb080f4e8a3d5c1578d935ed9ae"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Private Life material from target341 is imported."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "chapter": 340,
+  "title": "Trap (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Trap",
+    "range": [
+      339,
+      340
+    ],
+    "family_qa_path": "qa/families/trap-0339-0340.md",
+    "family_qa_sha": "2e975d71a8a9f2f4ca5eb694d9dd8beef90a29eb",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/340.txt",
+    "blob_sha": "b4cafb661729e07284366ea5867f2f05b89dd244",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-338.xhtml",
+    "blob_sha": "b629f8d5732701bcea53e854f58bfb977f71a45a",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0340.md",
+    "blob_sha": "0816e966517c2b4c13fa5692889b238ddc901959"
+  },
+  "qa": {
+    "path": "qa/chapter-0340.md",
+    "blob_sha": "31388e51d9d5a621f607c912e459ef8e0ade7b37",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "interpretation_guard": "The fake-letter mechanism is Vikir's deduction from the impossible Janet reply, not narrator-confirmed cosmology.",
+  "reveal_guard": "Dolores calling Vikir 'Choco' is left unresolved; no Private Life explanation is imported."
+}

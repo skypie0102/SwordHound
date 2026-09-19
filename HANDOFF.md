@@ -1,47 +1,42 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-19  
-**Accepted:** 338 / 500  
+**Accepted:** 340 / 500  
 **Staged:** 0  
-**Next target:** 339
+**Next target:** 341
 
 ## Latest accepted family
 
-**The Mating Room (1)–(6)** — targets **333–338**.
+**Trap (1)–(2)** — targets **339–340**.
 
-- Family QA: `qa/families/mating-room-0333-0338.md` — PASS.
-- Alignment: **333→E331 through 338→E336**.
-- The earlier live handoff boundary **333–336** was incomplete; Chinese headings and English alignment prove the family continues through targets337–338.
-- Vikir is skipped to Basement Floor9, **Dragon Majin’s Laboratory**, a specimen-breeding facility.
-- Mating-room progression is coercive laboratory pressure: environmental manipulation → blue physiological mist → direct external restraint.
-- Giant Mantis remains A-rank / 8–16 m / Fourth Ridge; local post-window “toad” wording is extraction drift.
-- Sinclaire’s prior Magic Train mission groups her with Tudor, Sancho, Pigi, and Bianca; the four ultimately choose Sinclaire to continue rather than forcing her to kill them.
-- Return Scroll continuity remains return-to-Tutorial / Level reset while accumulated stats remain.
-- Hypothermia survival contact in targets335–336 is treated as survival care, not eroticized.
-- Sinclaire’s family/grief statements occur under trauma plus coercive laboratory mist and are not treated as reliable consent.
-- Vikir reaches Strength300 / Agility300 / Stamina300 in target337.
-- Targets337–338: local/raw Basilisk regeneration drift is rejected; **Beelzebub Slot2 remains Immortality — Gargoyle (S)**.
-- Vikir damages the rain system to flood the enclosure and escape.
-- Sinclaire recognizes Vikir’s combat signatures; Vikir explicitly says **“I am Night Hound”** only at target337’s end.
-- Target338 completes the enclosure escape, begins the enraged Dragon Majin pursuit, and opens the one-person Floor10 gate.
-- Source-local aligned-witness destination form: **Lost Paradise**, pending direct Fandom access.
-- Vikir kicks Sinclaire into the gate because both hands are occupied holding the Dragon Majin fist; it is a forced rescue.
-- Family ends with Sinclaire transferred away while the Dragon Majin fist crashes down on Vikir’s position.
+- Family QA: `qa/families/trap-0339-0340.md` — PASS.
+- Alignment: **339→E337, 340→E338**.
+- Target339 opens with a pre-regression execution dream in which Vikir's former comrades appear healthy; this is dream symbolism, not a literal current-timeline reunion.
+- Vikir wakes on Basement Floor10, source-local aligned-witness form **Lost Paradise**.
+- Dragon Majin escape/pursuit reward is **50 golden Level candies** with no item reward.
+- Lost Paradise offers low-cost comfort, full-value item resale, stat-candy extraction, bonus candy on previously consumed stats, and limited outside correspondence.
+- Entry chance is below 0.0001%; the next floor is advertised as at least ten times harder.
+- The floor's primary trap is voluntary weakening and complacency rather than direct lethal pressure.
+- Hugo's monster-fattening story is Vikir's analogy, not a new tower rule.
+- Vikir tests the letter system with **Corporal Janet, 1st Platoon, 4th Company, 207th Regiment**.
+- Because that exact pre-regression Janet no longer exists in the same role after Vikir changed the future, the instant reply is impossible.
+- Vikir therefore infers that something on the floor reads memories/emotions and fabricates desired replies. This remains **Vikir's deduction**, not omniscient-confirmed cosmology.
+- Vikir intends to stay only long enough to restore body and mana.
+- Baby Madam and Decarabia are asleep beneath the bed.
+- Dolores is the paired Floor10 resident.
+- Family closes with Dolores calling Vikir **Choco**, the established name she once gave his Picaresque black-dog form. Why she perceives him that way remains unresolved.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Trap (1)–(2)** — targets **339–340**.
+**Private Life (1)–(2)** — targets **341–342**.
 
-- 339→E337 — *Trap (1)*
-- 340→E338 — *Trap (2)*
-
-Following family:
-- **Private Life (1)–(2)** — targets **341–342 / E339–E340**.
+- 341→E339 — *Private Life (1)*
+- 342→E340 — *Private Life (2)*
 
 ## Exact next actions
 
-1. Read C339–C340 completely against E337–E338.
-2. Reconstruct and QA Trap (1)–(2).
-3. Merge it.
-4. Immediately continue into Private Life (1)–(2), targets341–342 / E339–E340.
+1. Read C341–C342 completely against E339–E340.
+2. Reconstruct and QA Private Life (1)–(2).
+3. Determine the complete contiguous family beginning at target343 before accepting any target343+ chapter.
+4. Merge Private Life and continue immediately.

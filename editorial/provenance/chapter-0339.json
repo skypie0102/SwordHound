@@ -1,0 +1,37 @@
+{
+  "chapter": 339,
+  "title": "Trap (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Trap",
+    "range": [
+      339,
+      340
+    ],
+    "family_qa_path": "qa/families/trap-0339-0340.md",
+    "family_qa_sha": "2e975d71a8a9f2f4ca5eb694d9dd8beef90a29eb",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/339.txt",
+    "blob_sha": "40f24a63fa879149b2843bb5bb5769a244f8d95c",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-337.xhtml",
+    "blob_sha": "e0dcafd22c1f6e03ca6a16d47e0d7d467db0338b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0339.md",
+    "blob_sha": "b6d7ed0453aee8b933ecefb175db6e083607070c"
+  },
+  "qa": {
+    "path": "qa/chapter-0339.md",
+    "blob_sha": "9c1750c30daa6342255663152ccf8a06c17cd39d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
