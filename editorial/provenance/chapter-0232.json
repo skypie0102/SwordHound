@@ -1,0 +1,71 @@
+{
+  "chapter": 232,
+  "title": "Tuition (8)",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/232.txt",
+    "blob_sha": "1a36e5b0d07b36ba3ab1f9f7b0d00c9cece9fbce",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-230.xhtml",
+    "blob_sha": "3bd9b39a61de45b2b305b6ca73628633c30f07a8",
+    "target_alignment": 232,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0232.md",
+    "blob_sha": "90c9ea8bf3dbbe3113e21261d4fbc640b0e1d8f7"
+  },
+  "qa": {
+    "path": "qa/chapter-0232.md",
+    "blob_sha": "e7888f9ca677939dfd5402228524d785eb27b540",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "appraisal",
+      "final": "Monster carcass grading and bounty/byproduct value preserved",
+      "basis": "Chinese C232"
+    },
+    {
+      "topic": "thrifty_bazaar",
+      "final": "Colosseo preservation storage + Thrifty Bazaar selected for premium hides",
+      "basis": "Chinese C232"
+    },
+    {
+      "topic": "minipin_finances",
+      "final": "Sherpa financial stress, broker scam, daughter tuition, old Baskerville dream preserved",
+      "basis": "Chinese C232"
+    },
+    {
+      "topic": "recruitment",
+      "final": "Vikir probes MiniPin Western Front ecology for future recruitment",
+      "basis": "Chinese C232"
+    },
+    {
+      "topic": "scholarship_debate",
+      "final": "Banshee/Dolores debate rules, hardship exceptions and fraudulent poverty claims",
+      "basis": "Chinese C232"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/234.txt",
+    "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
+    "english_path": "source/chapters/chapter-232.xhtml",
+    "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
+    "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  }
+}
