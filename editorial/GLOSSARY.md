@@ -1,3 +1,18 @@
+## Underdogma additions — Chapters 321–325
+
+- **Underdogma** — accepted five-part family, targets321–325 / witnesses E319–E323.
+- **Black Sea** — Basement Floor4 sea with virtually no buoyancy and abnormally heavy black water.
+- **Hell Tree root sap** — edible only in limited quantities; overconsumption risks monsterization.
+- **Dogma** — Colosseo third-year Hot Department / Student Council vice president; leads tower-born Commoner Faction.
+- **Commoner Faction** — tower-created faction built around zero-base ideology; enslaves surviving noble/tycoon students.
+- **Rhinoceros Beetlemen / Stag Beetlemen** — ancient humanoid peoples from Giant Beetle Island trapped inside Amdusias’s world fragment.
+- **Underdogma / Blazing Inferiority Complex** — Dogma’s A+ Majin form, 8m, Basement Floor4.
+- **Level1 A+ Majin reward** — 10 gold Level candies.
+- **Reverse Candy Shop exchange** — Vikir trades 10 Level candies for roughly 3,000 ordinary stat candies.
+- **Magic Resistance** — sixth tower-stat slot unlocked at +1 via final White Strange Candy conversion.
+- **The Shadowless King of the Black Sea** — next family targets326–330 / E324–E328.
+- **Draw** — targets331–332 / E329–E330.
+
 ## Surplus Man additions — Chapters 314–320
 
 - **Surplus Man** — accepted seven-part family, targets314–320 / witnesses E312–E318. Previous 314–315 boundary was incomplete.
