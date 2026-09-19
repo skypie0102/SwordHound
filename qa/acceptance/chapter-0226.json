@@ -1,0 +1,40 @@
+{
+  "chapter": 226,
+  "title": "Tuition (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Tuition",
+    "range": [
+      225,
+      233
+    ],
+    "family_qa_path": "qa/families/tuition-0225-0233.md",
+    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/226.txt",
+    "primary_source_sha": "2180db53cc098f97d7b26fd59f85354f71ba5543",
+    "english_reference_path": "source/chapters/chapter-224.xhtml",
+    "english_reference_sha": "eea7abb358ddbb27a3000df3ae174c76970731b8",
+    "draft_path": "manuscript/drafts/chapter-0226.md",
+    "draft_sha": "b42f100767822ac83bc55032aa792d984b99e3d0",
+    "qa_path": "qa/chapter-0226.md",
+    "qa_sha": "73be016c8c5ad57b6446c8e6765152c8a0c5e81a",
+    "provenance_path": "editorial/provenance/chapter-0226.json",
+    "provenance_sha": "2fba009c6de456c97d0aa0a6a967e77d8ca84ab0"
+  },
+  "canonical_checks": [
+    "Professor Banshee Morgue",
+    "Cindywendy",
+    "Sinclaire",
+    "Peri"
+  ],
+  "documented_limits": [
+    "Financial-cover logic remains operational, not pride alone.",
+    "Vikir's scholarship is roughly 80%, not full."
+  ],
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+}
