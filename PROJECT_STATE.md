@@ -2,9 +2,9 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 235  
+**Accepted:** 244  
 **Staged:** 0  
-**Next chapter:** 236
+**Next chapter:** 245
 
 ## Current accepted checkpoint
 
@@ -12,36 +12,33 @@ The restarted Chinese-primary workflow is accepted through:
 
 - Chapters 225–233 — *Tuition (1)–(9)*
 - Chapters 234–235 — *Suspicion (1)–(2)*
+- Chapters 236–244 — *National University League (1)–(9)*
 
-Latest family QA: `qa/families/suspicion-0234-0235.md` — **PASS**.
+Latest family QA: `qa/families/national-university-league-0236-0244.md` — **PASS**.
 
-## Suspicion family decisions
+## National University League family decisions
 
-- Verified mapping: **234→E232, 235→E233**.
-- Dolores distinguishes the official student council from the noble / power-family factions' informal connection-based influence.
-- Faction losses at the Thrifty Bazaar strengthen the student council and prompt interest in recruiting Vikir.
-- Dolores reads the **Peri Award** as evidence of Vikir's hidden warmth. This remains **her interpretation**, not narrator-certified character truth.
-- Her interest in Vikir now draws on demerits, orphanage conduct, midterm performance, Bazaar behavior, and the anonymous scholarship donation.
-- Vikir's demerit sites form a pattern of **dark / high / wall-facing locations**.
-- A new rooftop-emergency-exit demerit appears in real time, leading Dolores to the first-year dormitory.
-- Pigi says Vikir often wanders at night but always returns. Vikir's side of the room is so sparse it feels ready to abandon.
-- Pigi's conclusion that Dolores may like Vikir remains a plausible misunderstanding.
-- An outside newspaper falsely reports a Dolores/Vikir romance; third-year classmates amplify the rumor.
-- Dolores's claim that Vikir is “suspicious” refers to her investigation, not a confessed romance.
-- Choco's fur smells of standard Academy dormitory shampoo, leading Dolores only to infer a **student owner**.
-- Choco overpowers the same six Cold Department second-years previously punished for bullying Pigi.
-- Pal Uspear reports that the masked attacker struck the six on **freshman welcome-party night**, before Night Hound became a public alias.
-- He remembers a golden bird-beak mask and scraping-metal voice.
-- The attacker knew the six students' names, their parents' names, and family locations.
-- Dolores therefore strengthens the theory that **Night Hound has an Academy connection**.
-- Her strongest conclusion is an **inside informant/source**. Night Hound himself being inside Colosseo remains only a **slim possibility**.
-- Reveal guard: Dolores still does **not** identify Vikir as Night Hound or Choco.
-- Dolores orders the testimony kept secret and threatens expulsion if it leaks.
+- Verified mapping: **236→E234 through 244→E242**.
+- Canonical forms locked here include **Varangian Academy**, **Mage Tower**, **Temisquira Women’s College**, **Bakilaga Juragio**, **Boli Bollason**, **Merelini Lovegood**, **Oraorus Hohenheim**, and **Decarabia**.
+- Four schools send 100 contestants each; Colosseo uses 20 first-years / 30 second-years / 50 third-years.
+- Opening grouping is five-person while scoring is individual.
+- Vikir joins Highbro, Middlebro, Lowbro, and Granola rather than his usual friends.
+- Vikir needs a top-ten finish to reach the shared treasure vault, where he expects dormant **Decarabia, the Seventh Corpse**.
+- Granola’s attraction to Sinclaire is his one-sided viewpoint only.
+- The rumored royal freshman remains unidentified.
+- Sinclaire’s projected placements for the senior aces are her speculation, not results.
+- The inn charges **70% of the original lodging fee (30% discount)**; the English witness’s 30%-charge error is rejected.
+- Bakilaga’s prior level is normalized to **peak Sword Expert**; present Sword Graduator is rumor only.
+- Vikir has stabilized Seventh Fang at Sword Master and only contemplates **Eighth Fang**.
+- Boli Bollason concedes the arm-wrestling match after recognizing that Vikir is deliberately holding center.
+- Vikir and Bakilaga do not record a pin or winner; their stone table breaks.
+- Bakilaga recognizes Vikir’s Ballak **Hunting Leader** collar and speaks Ballak to him.
+- Bakilaga’s “girlfriend” teasing about Dolores is a misunderstanding.
 
 ## Next verified title families
 
-- **Targets 236–244 — National University League (1)–(9)** — mapping **236→E234 through 244→E242**.
-- **Target 245 — Survival Contest (1)** — aligned to **E243** and begins the next family.
+- **Targets 245–249 — Survival Contest (1)–(5)** — mapping **245→E243 through 249→E247**.
+- **Target 250 — Recap (1)** — aligned to **E248** and begins the following family.
 
 ## Source authority
 
@@ -49,4 +46,4 @@ Chinese is primary for narrative/semantic content. The English *Revenge of the I
 
 ## Immediate next action
 
-Merge the clean **Suspicion, targets 234–235** checkpoint, then branch from merged main for **National University League, targets 236–244**. Read C236–244 against E234–242 completely, with C245/E243 as the next-family boundary.
+Start **Survival Contest, targets 245–249** as one contiguous title-family batch. Read C245–249 against E243–247 completely, with C250/E248 as the verified next-family boundary.

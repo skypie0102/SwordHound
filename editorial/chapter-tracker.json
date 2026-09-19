@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 235,
+  "accepted_count": 244,
   "staged_count": 0,
-  "next_chapter": 236,
+  "next_chapter": 245,
   "active_title_family": {
-    "name": "National University League",
+    "name": "Survival Contest",
     "range": [
-      236,
-      244
+      245,
+      249
     ],
-    "boundary_status": "verified nine-part family",
-    "following_family_starts": 245,
-    "following_title": "Survival Contest (1)",
-    "alignment_note": "236→E234 through244→E242;245→E243"
+    "boundary_status": "verified five-part family",
+    "following_family_starts": 250,
+    "following_title": "Recap (1)",
+    "alignment_note": "245→E243 through249→E247;250→E248"
   },
   "chapters": [
     {
@@ -3305,6 +3305,132 @@
       "acceptance": "qa/acceptance/chapter-0235.json",
       "acceptance_sha": "1afe09cba783a42eb36293e893578468c002676d",
       "family_qa": "qa/families/suspicion-0234-0235.md"
+    },
+    {
+      "chapter": 236,
+      "title": "National University League (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/236.txt",
+      "english_mtl_reference": "source/chapters/chapter-234.xhtml",
+      "draft": "manuscript/drafts/chapter-0236.md",
+      "qa": "qa/chapter-0236.md",
+      "provenance": "editorial/provenance/chapter-0236.json",
+      "acceptance": "qa/acceptance/chapter-0236.json",
+      "acceptance_sha": "127fcd380af75d2beea79715ab45410aee03b275",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 237,
+      "title": "National University League (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/237.txt",
+      "english_mtl_reference": "source/chapters/chapter-235.xhtml",
+      "draft": "manuscript/drafts/chapter-0237.md",
+      "qa": "qa/chapter-0237.md",
+      "provenance": "editorial/provenance/chapter-0237.json",
+      "acceptance": "qa/acceptance/chapter-0237.json",
+      "acceptance_sha": "f244e36a2f0856d721b88985f916c92ac486919a",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 238,
+      "title": "National University League (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/238.txt",
+      "english_mtl_reference": "source/chapters/chapter-236.xhtml",
+      "draft": "manuscript/drafts/chapter-0238.md",
+      "qa": "qa/chapter-0238.md",
+      "provenance": "editorial/provenance/chapter-0238.json",
+      "acceptance": "qa/acceptance/chapter-0238.json",
+      "acceptance_sha": "93f8306fc2054b631e94c0a3a600754d5320a036",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 239,
+      "title": "National University League (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/239.txt",
+      "english_mtl_reference": "source/chapters/chapter-237.xhtml",
+      "draft": "manuscript/drafts/chapter-0239.md",
+      "qa": "qa/chapter-0239.md",
+      "provenance": "editorial/provenance/chapter-0239.json",
+      "acceptance": "qa/acceptance/chapter-0239.json",
+      "acceptance_sha": "b4eb8ab926cd77890df047d97df5a448cca83a11",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 240,
+      "title": "National University League (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/240.txt",
+      "english_mtl_reference": "source/chapters/chapter-238.xhtml",
+      "draft": "manuscript/drafts/chapter-0240.md",
+      "qa": "qa/chapter-0240.md",
+      "provenance": "editorial/provenance/chapter-0240.json",
+      "acceptance": "qa/acceptance/chapter-0240.json",
+      "acceptance_sha": "50c0f942748c44231dbbaef44dd4c268e78de7fb",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 241,
+      "title": "National University League (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/241.txt",
+      "english_mtl_reference": "source/chapters/chapter-239.xhtml",
+      "draft": "manuscript/drafts/chapter-0241.md",
+      "qa": "qa/chapter-0241.md",
+      "provenance": "editorial/provenance/chapter-0241.json",
+      "acceptance": "qa/acceptance/chapter-0241.json",
+      "acceptance_sha": "5993f1887e4d5b1914b83245fea28dc8427f2b2c",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 242,
+      "title": "National University League (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/242.txt",
+      "english_mtl_reference": "source/chapters/chapter-240.xhtml",
+      "draft": "manuscript/drafts/chapter-0242.md",
+      "qa": "qa/chapter-0242.md",
+      "provenance": "editorial/provenance/chapter-0242.json",
+      "acceptance": "qa/acceptance/chapter-0242.json",
+      "acceptance_sha": "7a48d109fdce39fae61100aaa5d8ee0e1010c1fd",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 243,
+      "title": "National University League (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/243.txt",
+      "english_mtl_reference": "source/chapters/chapter-241.xhtml",
+      "draft": "manuscript/drafts/chapter-0243.md",
+      "qa": "qa/chapter-0243.md",
+      "provenance": "editorial/provenance/chapter-0243.json",
+      "acceptance": "qa/acceptance/chapter-0243.json",
+      "acceptance_sha": "af16d9e35588786ff7e18f79a7c6aad2a48ebc0f",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
+    },
+    {
+      "chapter": 244,
+      "title": "National University League (9)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/244.txt",
+      "english_mtl_reference": "source/chapters/chapter-242.xhtml",
+      "draft": "manuscript/drafts/chapter-0244.md",
+      "qa": "qa/chapter-0244.md",
+      "provenance": "editorial/provenance/chapter-0244.json",
+      "acceptance": "qa/acceptance/chapter-0244.json",
+      "acceptance_sha": "ce077ac9f275fd2c5ec1a36df05be9721dd47b97",
+      "family_qa": "qa/families/national-university-league-0236-0244.md"
     }
   ]
 }

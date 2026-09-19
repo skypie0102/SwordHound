@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 235,
+  "accepted_chapters": 244,
   "staged_chapters": 0,
-  "next_chapter": 236,
+  "next_chapter": 245,
   "latest_accepted_family": {
-    "name": "Suspicion",
-    "range": [
-      234,
-      235
-    ],
-    "family_qa": "qa/families/suspicion-0234-0235.md"
-  },
-  "next_title_family": {
     "name": "National University League",
     "range": [
       236,
       244
     ],
-    "boundary_status": "verified nine-part family",
-    "following_family_starts": 245,
-    "following_title": "Survival Contest (1)",
-    "alignment_note": "236→E234 through244→E242;245→E243"
+    "family_qa": "qa/families/national-university-league-0236-0244.md"
+  },
+  "next_title_family": {
+    "name": "Survival Contest",
+    "range": [
+      245,
+      249
+    ],
+    "boundary_status": "verified five-part family",
+    "following_family_starts": 250,
+    "following_title": "Recap (1)",
+    "alignment_note": "245→E243 through249→E247;250→E248"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -297,9 +297,28 @@
     232,
     233,
     234,
-    235
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244
   ],
   "notes": [
+    "Chapters236-244 are accepted as National University League (1)-(9).",
+    "Canonical family forms: Bakilaga Juragio, Boli Bollason, Merelini Lovegood, Oraorus Hohenheim, Varangian Academy, Mage Tower, Temisquira Women’s College, Decarabia.",
+    "Vikir’s top-ten objective is vault access to dormant Seventh Corpse Decarabia; later Decarabia outcome is not imported.",
+    "Granola’s attraction to Sinclaire is unilateral POV only; rumored royal freshman remains unidentified.",
+    "Target241 lodging deal is 70% charge / 30% discount per Chinese source; English 30%-charge reading rejected.",
+    "Vikir has stabilized Seventh Fang at Sword Master but only contemplates Eighth Fang in target243.",
+    "Boli Bollason concedes after realizing Vikir is deliberately holding the arm-wrestling match at center.",
+    "Vikir/Bakilaga match ends without a pin when the stone table breaks; Bakilaga recognizes Vikir’s Ballak Hunting Leader collar/language.",
+    "Next family targets245-249 — Survival Contest (1)-(5), mapped245→E243 through249→E247. Target250→E248 begins Recap (1).",
+    "Every editorial session must read and update HANDOFF.md.",
     "Chapters234-235 are accepted as Suspicion (1)-(2).",
     "Dolores's curiosity around Vikir is evidence-driven but not identity resolution.",
     "Peri Award strengthens Dolores's belief that Vikir has a warm heart; this remains her interpretation.",
@@ -310,9 +329,7 @@
     "The six old Pigi bullies report a Night Hound-like masked attacker on freshman welcome-party night before the alias became public.",
     "Masked attacker knew student names, parents, and family locations.",
     "Dolores strengthens an Academy-insider/informant theory and considers Night Hound himself inside Colosseo only a slim possibility.",
-    "Reveal guard: Dolores does not identify Vikir as Night Hound or Choco.",
-    "Next family targets236-244 — National University League (1)-(9), mapped236→E234 through244→E242. Target245→E243 begins Survival Contest (1).",
-    "Every editorial session must read and update HANDOFF.md."
+    "Reveal guard: Dolores does not identify Vikir as Night Hound or Choco."
   ],
   "partial_chinese_raw_chapters": [
     49,
