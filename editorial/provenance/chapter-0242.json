@@ -1,0 +1,56 @@
+{
+  "chapter": 242,
+  "title": "National University League (7)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/242.txt",
+    "blob_sha": "9c764acd54a04895576099dca5a6a960256fc3fe",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-240.xhtml",
+    "blob_sha": "3aebded2852c0fc4962e91d4652e4f2b461a9e9a",
+    "target_alignment": 242,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0242.md",
+    "blob_sha": "1e4b56b8a4633c3f70473f3ebacd7f3e506ccfee"
+  },
+  "qa": {
+    "path": "qa/chapter-0242.md",
+    "blob_sha": "895ae2c5e34548c95c049a509ed24fd006e5b70a",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bollason",
+      "final": "Boli Bollason canonical; top Varangian first-year, 217 cm / 150 kg",
+      "basis": "Chinese C242 + canonical/project continuity"
+    },
+    {
+      "topic": "ancestry_hint",
+      "final": "Bakilaga Ballak/Red-and-Black connection remains tentative here",
+      "basis": "Chinese C242 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

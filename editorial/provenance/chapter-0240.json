@@ -1,0 +1,61 @@
+{
+  "chapter": 240,
+  "title": "National University League (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/240.txt",
+    "blob_sha": "89eef3d142f2296f194296fd697688c8833bd142",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-238.xhtml",
+    "blob_sha": "d4c8c4ef09a7eaf83610e28c094205b1b59c1795",
+    "target_alignment": 240,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0240.md",
+    "blob_sha": "98910b63c221dc6376e827f61365df9696c89fe5"
+  },
+  "qa": {
+    "path": "qa/chapter-0240.md",
+    "blob_sha": "c58990ff5c16494cc698d9a53c23575d9cc69a74",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "canonical_names",
+      "final": "Bakilaga Juragio / Oraorus Hohenheim / Merelini Lovegood",
+      "basis": "Chinese C240 + canonical/project continuity"
+    },
+    {
+      "topic": "predictions",
+      "final": "Sinclaire’s placement guesses are speculation only",
+      "basis": "Chinese C240 + canonical/project continuity"
+    },
+    {
+      "topic": "ring",
+      "final": "Ring of Divine Inviolability / Finit hic Deus continuity retained",
+      "basis": "Chinese C240 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

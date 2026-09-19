@@ -1,0 +1,66 @@
+{
+  "chapter": 244,
+  "title": "National University League (9)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/244.txt",
+    "blob_sha": "35f89bf927a6dea9b05c6d75b3bb800264060090",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-242.xhtml",
+    "blob_sha": "4bb8e8f74c1d17aa69330bd75ab6e28c7fc19eab",
+    "target_alignment": 244,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0244.md",
+    "blob_sha": "dab64eb7b40dcda7a4c1672643bebec354140c99"
+  },
+  "qa": {
+    "path": "qa/chapter-0244.md",
+    "blob_sha": "439f3f6b4a104fbb175cc818a50a84e2663ee81d",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "bakilaga_match",
+      "final": "No pin/winner; stone table breaks",
+      "basis": "Chinese C244 + canonical/project continuity"
+    },
+    {
+      "topic": "ballak_reveal",
+      "final": "Bakilaga recognizes Vikir’s Hunting Leader collar and speaks Ballak",
+      "basis": "Chinese C244 + canonical/project continuity"
+    },
+    {
+      "topic": "romance_guard",
+      "final": "Bakilaga’s girlfriend comment about Dolores is a misunderstanding",
+      "basis": "Chinese C244 + canonical/project continuity"
+    },
+    {
+      "topic": "boundary",
+      "final": "Target245/E243 begins Survival Contest (1)",
+      "basis": "Chinese C244 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

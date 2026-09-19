@@ -1,0 +1,56 @@
+{
+  "chapter": 238,
+  "title": "National University League (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/238.txt",
+    "blob_sha": "d4c6b79662b593c007d9d53b13f47d78dad0054d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-236.xhtml",
+    "blob_sha": "33f431981db21c797aa7331cc8f377d6a0e6af36",
+    "target_alignment": 238,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0238.md",
+    "blob_sha": "a8057e02794aae1665aa870a47970dfd2c394ad0"
+  },
+  "qa": {
+    "path": "qa/chapter-0238.md",
+    "blob_sha": "2487da302c922a6d6a0d38f79c184fb4a1a68d04",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "granola_pov",
+      "final": "Granola’s crush on Sinclaire is unilateral viewpoint only",
+      "basis": "Chinese C238 + canonical/project continuity"
+    },
+    {
+      "topic": "punishment",
+      "final": "Lowbro pins Granola’s hand to the table with a dagger after Vikir exits",
+      "basis": "Chinese C238 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}

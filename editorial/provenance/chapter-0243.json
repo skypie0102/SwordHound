@@ -1,0 +1,56 @@
+{
+  "chapter": 243,
+  "title": "National University League (8)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "National University League",
+    "range": [
+      236,
+      244
+    ],
+    "family_qa_path": "qa/families/national-university-league-0236-0244.md",
+    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/243.txt",
+    "blob_sha": "0357a6973a1ecb1c708c938f94becd1db8faeeea",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-241.xhtml",
+    "blob_sha": "3c770e4bbed2e2b34babc951196d02203aaccb29",
+    "target_alignment": 243,
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0243.md",
+    "blob_sha": "8c1dbb8c3ecbd77d5c726d4483df44748533cc88"
+  },
+  "qa": {
+    "path": "qa/chapter-0243.md",
+    "blob_sha": "05a9af23483528591fb32e3cf6f0b9c1501e0c88",
+    "status": "pass"
+  },
+  "documented_decisions": [
+    {
+      "topic": "eighth_fang_guard",
+      "final": "Eighth Fang is only contemplated; not attained",
+      "basis": "Chinese C243 + canonical/project continuity"
+    },
+    {
+      "topic": "bollason_result",
+      "final": "Bollason concedes after realizing Vikir is deliberately holding center",
+      "basis": "Chinese C243 + canonical/project continuity"
+    }
+  ],
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "boundary_witness": {
+    "chinese_path": "source/chinese/chapters/245.txt",
+    "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
+    "english_path": "source/chapters/chapter-243.xhtml",
+    "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
+    "purpose": "target245 begins Survival Contest (1)"
+  }
+}
