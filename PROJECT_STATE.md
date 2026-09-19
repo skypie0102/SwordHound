@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-19  
 **Target edition:** 500 chapters  
-**Accepted:** 272  
+**Accepted:** 278  
 **Staged:** 0  
-**Next chapter:** 273
+**Next chapter:** 279
 
-Latest accepted family: **Rich Friends (1)–(3)** — targets270–272 / E268–E270.  
-Family QA: `qa/families/rich-friends-0270-0272.md` — **PASS**.
+Latest accepted family: **Money War (1)–(6)** — targets273–278 / E271–E276.  
+Family QA: `qa/families/money-war-0273-0278.md` — **PASS**.
 
-Key decisions: House Bourgeois is the financial endpoint identified by the ledger; Cindywendy confirms the family head is a demon; Vikir needs credible wealth provenance rather than unexplained capital; Winston/Orwell remain a separate Academy mystery; Oracle uses Pigi and Sinclaire for information and administration.
+Key decisions: Oracle's public success combines probability filtering with a genuine Cindywendy trade payoff; Dolores refuses to expose Night Hound with the Mirror of Truth; Damien Bourgeois is the selected anti-head insider; the party is an intentionally excessive attention trap; Damien's Bahamut-derived sword style remains source-local; and Chapter278 ends before the reason behind his death wish is explained.
 
-Next verified family: **Money War (1)–(6)** — targets273–278 / E271–E276.  
-Following family: **What Money Can't Buy (1)–(4)** — targets279–282 / E277–E280.
+Next verified family: **What Money Can't Buy (1)–(4)** — targets279–282 / E277–E280.  
+Following family: **Time Flies** begins target283 / E281.
