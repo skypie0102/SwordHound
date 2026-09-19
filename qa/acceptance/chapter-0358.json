@@ -1,0 +1,37 @@
+{
+  "chapter": 358,
+  "title": "Crime and Punishment (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Crime and Punishment",
+    "range": [
+      356,
+      358
+    ],
+    "family_qa_path": "qa/families/crime-punishment-0356-0358.md",
+    "family_qa_sha": "2cde4c25f4c3d52143d9dd3f9e1fc49f672f85e1",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/358.txt",
+    "primary_source_sha": "c806662e98ebf75eaf879e96e7c6d6355d07fa0b",
+    "english_reference_path": "source/chapters/chapter-356.xhtml",
+    "english_reference_sha": "c62d3930bd68ee549bce7c984ec83d80ce320027",
+    "draft_path": "manuscript/drafts/chapter-0358.md",
+    "draft_sha": "82c1f15a46cfc8718fb3c3827c9ee8ba5632a7aa",
+    "qa_path": "qa/chapter-0358.md",
+    "qa_sha": "d7592280283773ac31d737517c34a015a65d2410",
+    "provenance_path": "editorial/provenance/chapter-0358.json",
+    "provenance_sha": "778390ad3efdc74a2ab74c917d86a24abd24caa0"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Voluntary Escort material from target359 is imported."
+  ],
+  "corrections": [
+    "Chinese local Crime and Punishment part labels are offset by +1; production follows verified E354-E356 order.",
+    "Cindywendy ring position is left middle finger from Chinese; shifted-English ring-finger drift rejected."
+  ]
+}
