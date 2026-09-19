@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 249,
+  "accepted_count": 252,
   "staged_count": 0,
-  "next_chapter": 250,
+  "next_chapter": 253,
   "active_title_family": {
-    "name": "Recap / Celebration Banquet",
+    "name": "Five Stars",
     "range": [
-      250,
-      252
+      253,
+      null
     ],
-    "boundary_status": "verified three-part narrative batch with Chinese title-root divergence at target252",
-    "following_family_starts": 253,
-    "following_title": "Five Stars (1)",
-    "alignment_note": "250→E248 Recap(1);251→E249 Recap(2);252→E250 Recap(3) while Chinese C252 is 庆功宴 (3) / Celebration Banquet (3);253→E251 Five Stars(1)"
+    "boundary_status": "begins at target253 / E251; full contiguous family boundary to verify before acceptance",
+    "following_family_starts": null,
+    "following_title": null,
+    "alignment_note": "253→E251 Five Stars (1); read forward to determine full family boundary before drafting/acceptance"
   },
   "chapters": [
     {
@@ -3501,6 +3501,48 @@
       "acceptance": "qa/acceptance/chapter-0249.json",
       "acceptance_sha": "aa3285e8e2f7c96e013bec246eea3aee93434b99",
       "family_qa": "qa/families/survival-contest-0245-0249.md"
+    },
+    {
+      "chapter": 250,
+      "title": "Recap (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/250.txt",
+      "english_mtl_reference": "source/chapters/chapter-248.xhtml",
+      "draft": "manuscript/drafts/chapter-0250.md",
+      "qa": "qa/chapter-0250.md",
+      "provenance": "editorial/provenance/chapter-0250.json",
+      "acceptance": "qa/acceptance/chapter-0250.json",
+      "acceptance_sha": "d89bf4281d644d3e8319680bf2a1a3115ea5a3eb",
+      "family_qa": "qa/families/recap-celebration-banquet-0250-0252.md"
+    },
+    {
+      "chapter": 251,
+      "title": "Recap (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/251.txt",
+      "english_mtl_reference": "source/chapters/chapter-249.xhtml",
+      "draft": "manuscript/drafts/chapter-0251.md",
+      "qa": "qa/chapter-0251.md",
+      "provenance": "editorial/provenance/chapter-0251.json",
+      "acceptance": "qa/acceptance/chapter-0251.json",
+      "acceptance_sha": "a398f2eff9689bad85e8176b43ed6fb48e6a3b35",
+      "family_qa": "qa/families/recap-celebration-banquet-0250-0252.md"
+    },
+    {
+      "chapter": 252,
+      "title": "Celebration Banquet (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/252.txt",
+      "english_mtl_reference": "source/chapters/chapter-250.xhtml",
+      "draft": "manuscript/drafts/chapter-0252.md",
+      "qa": "qa/chapter-0252.md",
+      "provenance": "editorial/provenance/chapter-0252.json",
+      "acceptance": "qa/acceptance/chapter-0252.json",
+      "acceptance_sha": "db105ee191c6456e72030846e853678da5a44ebe",
+      "family_qa": "qa/families/recap-celebration-banquet-0250-0252.md"
     }
   ]
 }
