@@ -8,7 +8,7 @@
 - **Updated by:** ChatGPT — Tuition acceptance checkpoint
 - **Working branch:** `editorial/restart-tuition-0225-0233`
 - **Base main checkpoint:** merged That Day, Him and Me checkpoint
-- **Current PR:** not yet opened
+- **Current PR:** #62 — `Rebuild Tuition Chapters 225–233`
 - **Blocking issue:** none
 
 ## Authoritative checkpoint
