@@ -1,3 +1,16 @@
+## The Season of Redemption additions — Chapters 264–267
+
+- **The Season of Redemption** — accepted four-part family, targets264–267 / witnesses E262–E265.
+- **Sixth Corpse clue** — Decarabia says the Sixth Corpse was historically close to Ninth Corpse Dantalian.
+- **Edward Bourbon Jr. / Saint Bourbon** — Mid Sword Graduator and Ohm Cult high priest; source-explicit demonic-sacrifice criminal history preserved.
+- **Old Testament indulgence residue** — Decarabia detects Sixth-Corpse scent on indulgences and faintly in the Old Testament temple.
+- **Ms. Ouroboros overlap** — independently hunts some of Vikir's criminal targets and seeks Night Hound; identity remains guarded.
+- **Humbert L. Quovadis** — canonical form; Old Testament cardinal and Dolores's adoptive father.
+- **Martin Luther** — New Testament cardinal; practical-aid ministry contrasted with Old Testament donation culture.
+- **267/268 combined raw** — `267.txt` has no internal Chapter-268 heading. Target267 ends at the adjutant-search beat plus a localized E265 closing bridge; remaining Chinese begins target268/E266.
+- **The Eucharist** — next family targets268–269 / E266–E267.
+- **Rich Friends** — begins target270 / E268.
+
 ## The Inverted Pentagram additions — Chapters 261–263
 
 - **The Inverted Pentagram** — accepted three-part family, targets 261–263 / witnesses E259–E261.
