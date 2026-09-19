@@ -1,0 +1,38 @@
+{
+  "chapter": 348,
+  "title": "Key man (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Key man",
+    "range": [
+      348,
+      350
+    ],
+    "family_qa_path": "qa/families/key-man-0348-0350.md",
+    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/348.txt",
+    "blob_sha": "22aa58faf26a3db3a89c3905c7926c8d96b37622",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-346.xhtml",
+    "blob_sha": "0f54eb9dec5484d88bc45d1af17f46e3aeb16125",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0348.md",
+    "blob_sha": "d765a656b308636efb3e3bfc3cd94bb26a128b46"
+  },
+  "qa": {
+    "path": "qa/chapter-0348.md",
+    "blob_sha": "f61c42d6e6ab621b05b1445f284a5f13e921e639",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms are not falsely presented as wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "documented_correction": "Chinese 'we are not human' corrected to 'we are human' from immediate demon-gate context and aligned E346."
+}
