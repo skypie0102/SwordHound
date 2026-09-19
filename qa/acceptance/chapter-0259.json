@@ -1,0 +1,36 @@
+{
+  "chapter": 259,
+  "title": "The Grave of Swords (5)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Grave of Swords",
+    "range": [
+      255,
+      260
+    ],
+    "family_qa_path": "qa/families/grave-of-swords-0255-0260.md",
+    "family_qa_sha": "1f3b1edbeea68c948f7445158f0e0fdcb1bca3f6",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/259.txt",
+    "primary_source_sha": "e4d520c2f9557ec7d6812186228226a8d64c0c3f",
+    "english_reference_path": "source/chapters/chapter-257.xhtml",
+    "english_reference_sha": "91bb0e77ed6c0c27bdbd271586b770f9dbfc622e",
+    "draft_path": "manuscript/drafts/chapter-0259.md",
+    "draft_sha": "afe20c6359515662adff17f2192220f99cdf720e",
+    "qa_path": "qa/chapter-0259.md",
+    "qa_sha": "2b6e460235d8b52db9521d6d2f07d2326daa40a3",
+    "provenance_path": "editorial/provenance/chapter-0259.json",
+    "provenance_sha": "cadeff091198e67fb6d0be7d9f1cfc3b16c0438c"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable; established glossary forms were reused.",
+    "No Inverted Pentagram material from target261 is imported."
+  ],
+  "corrections": [
+    "Beelzebub Slot 2 = Immortality — Gargoyle (S), not shifted-English Basilisk."
+  ]
+}
