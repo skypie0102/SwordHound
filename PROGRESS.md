@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Black Tongue (1)–(4) accepted
+
+**Current state:** 402 / 500 accepted; 0 staged; next Chapter 403.
+
+Completed targets **399–402** with mapping **E397–E400**.
+
+Key correction: Kirko’s parents were consenting junior guards; Black Tongue fabricated the earlier rape-origin story. Kirko survives the encounter, Vikir removes an unknown copy-form leech larva, and parasite eggs become a jailbreak side-objective.
+
+Family QA: `qa/families/black-tongue-0399-0402.md` — **PASS**.
+
+Next verified family: **403–406 — Jailbreaker (1)–(4)**, mapping **E401–E404**.
+
 ## 2026-09-20 — Dead Man Walking (1)–(3) accepted
 
 **Current state:** 398 / 500 accepted; 0 staged; next Chapter 399.
