@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 340,
+  "accepted_chapters": 342,
   "staged_chapters": 0,
-  "next_chapter": 341,
+  "next_chapter": 343,
   "latest_accepted_family": {
-    "name": "Trap",
-    "range": [
-      339,
-      340
-    ],
-    "family_qa": "qa/families/trap-0339-0340.md"
-  },
-  "next_title_family": {
     "name": "Private Life",
     "range": [
       341,
       342
     ],
-    "boundary_status": "verified complete",
-    "following_family_starts": 343,
-    "following_title": null,
-    "alignment_note": "341→E339, 342→E340; determine target343+ complete family before acceptance."
+    "family_qa": "qa/families/private-life-0341-0342.md"
+  },
+  "next_title_family": {
+    "name": "Ballak",
+    "range": [
+      343,
+      347
+    ],
+    "boundary_status": "verified complete despite noisy Chinese title labels",
+    "following_family_starts": 348,
+    "following_title": "Key man (1)",
+    "alignment_note": "343→E341 through 347→E345; 348→E346 begins Key man (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -402,9 +402,17 @@
     337,
     338,
     339,
-    340
+    340,
+    341,
+    342
   ],
   "notes": [
+    "Chapters341-342 accepted as Private Life (1)-(2), mapping E339-E340.",
+    "Choco perception resolves because Vikir had not canceled Picaresque dog form after the Dragon Majin escape.",
+    "Dolores's tower guilt is Amdusias's intended mental pressure; Vikir helps by repeating older pre-regression Dolores's own teaching back to her.",
+    "Target342 completes the identity reveal: Dolores now knows Choco = Vikir = Night Hound.",
+    "Dolores rejects Lost Paradise's fabricated correspondence/comfort trap and leaves with Vikir.",
+    "Next family Ballak verified targets343-347 / E341-E345 despite noisy Chinese headings; Key man follows target348/E346.",
     "Chapters339-340 accepted as Trap (1)-(2), mapping E337-E338.",
     "Lost Paradise weakens challengers through comfort, voluntary stat/candy spending, reluctance to leave, and emotionally manipulative outside-contact mechanics.",
     "The Janet letter test is impossible under the altered timeline; Vikir infers memory/emotion-reading fabricated replies, but this remains his deduction rather than narrator-confirmed cosmology.",
