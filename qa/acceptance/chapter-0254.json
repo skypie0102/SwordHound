@@ -1,0 +1,45 @@
+{
+  "chapter": 254,
+  "title": "Five Stars (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Five Stars",
+    "range": [
+      253,
+      254
+    ],
+    "family_qa_path": "qa/families/five-stars-0253-0254.md",
+    "family_qa_sha": "5a5057161dfd291cf7215821ea812730e23f376d",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/254.txt",
+    "primary_source_sha": "ba715b743ebf526e12d0d91029a8acefd5a8d2ac",
+    "english_reference_path": "source/chapters/chapter-252.xhtml",
+    "english_reference_sha": "c8c98e31ab8f3af22726901c4602b8b7c1e69492",
+    "draft_path": "manuscript/drafts/chapter-0254.md",
+    "draft_sha": "2d6f0d3ee372eb7669e308ece3fa5ff1fad4f870",
+    "qa_path": "qa/chapter-0254.md",
+    "qa_sha": "0a6c875507ed532780fbfd35a43e4d25c5e30c9f",
+    "provenance_path": "editorial/provenance/chapter-0254.json",
+    "provenance_sha": "0c78d1f6a156340301837d948a751879512c1140"
+  },
+  "canonical_checks": [
+    "Vikir",
+    "Hugo Le Baskerville",
+    "Pomeranian La Baskerville",
+    "Cindywendy",
+    "Chihuahua",
+    "MiniPin",
+    "Aiyen",
+    "Decarabia",
+    "House Baskerville",
+    "House Morgue"
+  ],
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable; established glossary forms were reused.",
+    "No The Grave of Swords events from target255 are imported."
+  ]
+}
