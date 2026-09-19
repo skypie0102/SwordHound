@@ -22,7 +22,7 @@ Key decisions: Poseidon is a roughly five-meter blue egg-like ancient weapon tha
 
 Family QA: `qa/families/poseidon-0375-0376.md` — **PASS**.
 
-Next verified family: **377–380 — The Hounds of Nouvelle Vague (1)–(4)**, mapping **E375–E378**.
+Next family was initially recorded as **377–380 — The Hounds of Nouvelle Vague (1)–(4)**; later source review corrected the complete family to **377–381 / E375–E379**.
 
 ## 2026-09-19 — Sucker Shark (1)–(2) accepted
 
