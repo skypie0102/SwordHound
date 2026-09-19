@@ -1,0 +1,34 @@
+{
+  "chapter": 408,
+  "title": "Jailbreaker (6)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Jailbreaker",
+    "range": [
+      403,
+      408
+    ],
+    "family_qa_path": "qa/families/jailbreaker-0403-0408.md",
+    "family_qa_sha": "995ba17ff1c02e34b2c2da6e2b1eab76ba292215",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/408.txt",
+    "primary_source_sha": "3e9b7230f55f498159fcc0489fcf9589dab13361",
+    "english_reference_path": "source/chapters/chapter-406.xhtml",
+    "english_reference_sha": "79fa8d104114a6435d038f7499386f3dfeefd72d",
+    "draft_path": "manuscript/drafts/chapter-0408.md",
+    "draft_sha": "13bd65d471d1ac5e057c213fa0a3693191777ee7",
+    "qa_path": "qa/chapter-0408.md",
+    "qa_sha": "ccec2ccbb13b2ca6197b7117e10077b4cd763e8d",
+    "provenance_path": "editorial/provenance/chapter-0408.json",
+    "provenance_sha": "0838935a32172a310b3e008bea50474b6aba539c"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No End game material from target409 is imported."
+  ],
+  "family_boundary_correction": "Jailbreaker is six parts, targets403-408 / E401-E406; prior four-part handoff was stale."
+}
