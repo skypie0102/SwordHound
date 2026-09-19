@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 340,
+  "accepted_count": 342,
   "staged_count": 0,
-  "next_chapter": 341,
+  "next_chapter": 343,
   "active_title_family": {
-    "name": "Private Life",
+    "name": "Ballak",
     "range": [
-      341,
-      342
+      343,
+      347
     ],
-    "boundary_status": "verified complete: target341→E339 through target342→E340",
-    "following_family_starts": 343,
-    "following_title": null,
-    "alignment_note": "341→E339 Private Life (1), 342→E340 Private Life (2); determine complete family boundary beginning at target343 before accepting further work."
+    "boundary_status": "verified complete: target343→E341 through target347→E345 despite noisy Chinese title drift",
+    "following_family_starts": 348,
+    "following_title": "Key man (1)",
+    "alignment_note": "343→E341 Ballak (1), 344→E342 Ballak (2), 345→E343 Ballak (3), 346→E344 Ballak (4), 347→E345 Ballak (5); 348→E346 begins Key man (1)."
   },
   "chapters": [
     {
@@ -4775,6 +4775,34 @@
       "acceptance": "qa/acceptance/chapter-0340.json",
       "acceptance_sha": "166e69727f5ef2732a86ee7b97091c70fca7fa50",
       "family_qa": "qa/families/trap-0339-0340.md"
+    },
+    {
+      "chapter": 341,
+      "title": "Private Life (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/341.txt",
+      "english_mtl_reference": "source/chapters/chapter-339.xhtml",
+      "draft": "manuscript/drafts/chapter-0341.md",
+      "qa": "qa/chapter-0341.md",
+      "provenance": "editorial/provenance/chapter-0341.json",
+      "acceptance": "qa/acceptance/chapter-0341.json",
+      "acceptance_sha": "e8cac488e273bbeda14b442fec02091f92e13385",
+      "family_qa": "qa/families/private-life-0341-0342.md"
+    },
+    {
+      "chapter": 342,
+      "title": "Private Life (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/342.txt",
+      "english_mtl_reference": "source/chapters/chapter-340.xhtml",
+      "draft": "manuscript/drafts/chapter-0342.md",
+      "qa": "qa/chapter-0342.md",
+      "provenance": "editorial/provenance/chapter-0342.json",
+      "acceptance": "qa/acceptance/chapter-0342.json",
+      "acceptance_sha": "abfdbe422d2afbaf7c321761e9ccc491bb22500d",
+      "family_qa": "qa/families/private-life-0341-0342.md"
     }
   ]
 }
