@@ -1,0 +1,44 @@
+{
+  "chapter": 235,
+  "title": "Suspicion (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-19",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Suspicion",
+    "range": [
+      234,
+      235
+    ],
+    "family_qa_path": "qa/families/suspicion-0234-0235.md",
+    "family_qa_sha": "adcfea42120b332df0d35779d70bada3b8d460cc",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/235.txt",
+    "primary_source_sha": "dd8dd96b0fffdee699567df3ad412e24b812656c",
+    "english_reference_path": "source/chapters/chapter-233.xhtml",
+    "english_reference_sha": "b73f84a7236f067fe65185ef1f99d4c25819d765",
+    "draft_path": "manuscript/drafts/chapter-0235.md",
+    "draft_sha": "e75417c4f949daabbbafd9c9ca2f8320e1469ab8",
+    "qa_path": "qa/chapter-0235.md",
+    "qa_sha": "a49211dc195183e300c00183f94b3f66dadee288",
+    "provenance_path": "editorial/provenance/chapter-0235.json",
+    "provenance_sha": "11d756c6329b706f0cf875ef080da2ebce3ec408"
+  },
+  "canonical_checks": [
+    "Dolores L. Quovadis",
+    "Vikir",
+    "Choco",
+    "Night Hound",
+    "Colosseo Academy"
+  ],
+  "documented_limits": [
+    "Outside romance report is gossip.",
+    "Dorm shampoo proves only student-owner inference.",
+    "Academy informant is Dolores's theory.",
+    "Night Hound inside Academy is slim possibility only.",
+    "Vikir is not identified as Night Hound/Choco."
+  ],
+  "next_family_alignment_note": "National University League targets236-244: 236→E234 through244→E242. Target245→E243 begins Survival Contest (1)."
+}
