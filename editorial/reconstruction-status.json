@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 350,
+  "accepted_chapters": 355,
   "staged_chapters": 0,
-  "next_chapter": 351,
+  "next_chapter": 356,
   "latest_accepted_family": {
-    "name": "Key man",
-    "range": [
-      348,
-      350
-    ],
-    "family_qa": "qa/families/key-man-0348-0350.md"
-  },
-  "next_title_family": {
     "name": "Outside the Tower",
     "range": [
       351,
-      352
+      355
     ],
-    "boundary_status": "English mapping verified; Chinese combined 351+352 internal split pending explicit verification",
-    "following_family_starts": null,
-    "following_title": null,
-    "alignment_note": "351→E349, 352→E350; inspect forward headings before setting next family."
+    "family_qa": "qa/families/outside-tower-0351-0355.md"
+  },
+  "next_title_family": {
+    "name": "Crime and Punishment",
+    "range": [
+      356,
+      358
+    ],
+    "boundary_status": "verified complete",
+    "following_family_starts": 359,
+    "following_title": "Voluntary Escort (1)",
+    "alignment_note": "356→E354 through 358→E356; local Chinese part labels are offset by +1."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -412,9 +412,21 @@
     347,
     348,
     349,
-    350
+    350,
+    351,
+    352,
+    353,
+    354,
+    355
   ],
   "notes": [
+    "Chapters351-355 accepted as Outside the Tower (1)-(5), mapping E349-E353.",
+    "351/352 share raw351.txt; 353/354 share raw353.txt with an embedded Chapter354 marker.",
+    "Pigi blood remains unexplained anti-demon/cause-law anomaly.",
+    "Vikir's post-tower power publicly exposes solid Sword Master aura and complete Baskerville Eighth Form.",
+    "Amdusias manifests without Winston host and is annihilated in target354 by Vikir after full Baskerville/faculty/parent assault.",
+    "Target355 publicly reveals Vikir's Baskerville authority, sends Baby Madam away, severs Academy bonds, and ends with 'I am Night Hound.'",
+    "Next family Crime and Punishment is targets356-358 / E354-E356; Chinese part labels are one number high. Voluntary Escort begins target359/E357.",
     "Chapters348-350 accepted as Key man (1)-(3), mapping E346-E348.",
     "C348 corrupted 'we are not human' is corrected to 'we are human' from immediate demon-gate context and aligned E346.",
     "Floor11 deathmatch requires both killing and being killed; first deaths wake first, last survivor wakes last.",
