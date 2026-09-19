@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 219,
+  "accepted_count": 224,
   "staged_count": 0,
-  "next_chapter": 220,
+  "next_chapter": 225,
   "active_title_family": {
-    "name": "That Day, Him and Me",
+    "name": "Tuition",
     "range": [
-      220,
-      224
+      225,
+      233
     ],
-    "boundary_status": "verified five-part family",
-    "following_family_starts": 225,
-    "following_title": "Tuition (1)",
-    "alignment_note": "220→E218 through224→E222;225→E223"
+    "boundary_status": "verified nine-part family; raw Chinese alternates tuition/registration-fee wording",
+    "following_family_starts": 234,
+    "following_title": "Suspicion (1)",
+    "alignment_note": "225→E223 through233→E231;234→E232"
   },
   "chapters": [
     {
@@ -3081,6 +3081,76 @@
       "acceptance": "qa/acceptance/chapter-0219.json",
       "acceptance_sha": "5e8f3aeaba5538ff5ab1466e33b1e7f5feca7cf6",
       "family_qa": "qa/families/my-neck-sheath-0216-0219.md"
+    },
+    {
+      "chapter": 220,
+      "title": "That Day, Him and Me (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/220.txt",
+      "english_mtl_reference": "source/chapters/chapter-218.xhtml",
+      "draft": "manuscript/drafts/chapter-0220.md",
+      "qa": "qa/chapter-0220.md",
+      "provenance": "editorial/provenance/chapter-0220.json",
+      "acceptance": "qa/acceptance/chapter-0220.json",
+      "acceptance_sha": "8759c6b0eecdf917775b72e5a60c6039615661ea",
+      "family_qa": "qa/families/that-day-him-me-0220-0224.md"
+    },
+    {
+      "chapter": 221,
+      "title": "That Day, Him and Me (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/221.txt",
+      "english_mtl_reference": "source/chapters/chapter-219.xhtml",
+      "draft": "manuscript/drafts/chapter-0221.md",
+      "qa": "qa/chapter-0221.md",
+      "provenance": "editorial/provenance/chapter-0221.json",
+      "acceptance": "qa/acceptance/chapter-0221.json",
+      "acceptance_sha": "da10ba1ea2a0cbf21f8d59c1abde77fdb2559c94",
+      "family_qa": "qa/families/that-day-him-me-0220-0224.md"
+    },
+    {
+      "chapter": 222,
+      "title": "That Day, Him and Me (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/222.txt",
+      "english_mtl_reference": "source/chapters/chapter-220.xhtml",
+      "draft": "manuscript/drafts/chapter-0222.md",
+      "qa": "qa/chapter-0222.md",
+      "provenance": "editorial/provenance/chapter-0222.json",
+      "acceptance": "qa/acceptance/chapter-0222.json",
+      "acceptance_sha": "bcaf0428a2868fadada6995b871295eafcaca133",
+      "family_qa": "qa/families/that-day-him-me-0220-0224.md"
+    },
+    {
+      "chapter": 223,
+      "title": "That Day, Him and Me (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/223.txt",
+      "english_mtl_reference": "source/chapters/chapter-221.xhtml",
+      "draft": "manuscript/drafts/chapter-0223.md",
+      "qa": "qa/chapter-0223.md",
+      "provenance": "editorial/provenance/chapter-0223.json",
+      "acceptance": "qa/acceptance/chapter-0223.json",
+      "acceptance_sha": "2454c843caefe7e10f9350975a19998d2f72238a",
+      "family_qa": "qa/families/that-day-him-me-0220-0224.md"
+    },
+    {
+      "chapter": 224,
+      "title": "That Day, Him and Me (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/224.txt",
+      "english_mtl_reference": "source/chapters/chapter-222.xhtml",
+      "draft": "manuscript/drafts/chapter-0224.md",
+      "qa": "qa/chapter-0224.md",
+      "provenance": "editorial/provenance/chapter-0224.json",
+      "acceptance": "qa/acceptance/chapter-0224.json",
+      "acceptance_sha": "4e425d9e177ab68e901d424feb5535ea04952ca0",
+      "family_qa": "qa/families/that-day-him-me-0220-0224.md"
     }
   ]
 }
