@@ -1,0 +1,36 @@
+{
+  "chapter": 401,
+  "title": "Black Tongue (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Black Tongue",
+    "range": [
+      399,
+      402
+    ],
+    "family_qa_path": "qa/families/black-tongue-0399-0402.md",
+    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/401.txt",
+    "primary_source_sha": "eac9701914d960ee4e94fb75003bf3fd68ac68c7",
+    "english_reference_path": "source/chapters/chapter-399.xhtml",
+    "english_reference_sha": "002614684dd09a6f7692c2ef777d9197d2673e4b",
+    "draft_path": "manuscript/drafts/chapter-0401.md",
+    "draft_sha": "0ff2131468c16b8bc530053a55c72d6c15a87d9d",
+    "qa_path": "qa/chapter-0401.md",
+    "qa_sha": "504a27209eca590873a488415eb27d9bc0966e2d",
+    "provenance_path": "editorial/provenance/chapter-0401.json",
+    "provenance_sha": "08c5acd558bea993ef4e8d5432ce3506903f8f49"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+    "No Jailbreaker material from target403 is imported."
+  ],
+  "documented_corrections": [
+    "Kirko's parents were consenting junior guards; the earlier prisoner-on-guard rape account was a fabricated disciplinary story."
+  ]
+}
