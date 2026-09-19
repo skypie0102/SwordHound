@@ -1,3 +1,14 @@
+## Solitary Confinement additions — Chapters 371–372
+
+- **Solitary Confinement** — accepted two-part family, targets371–372 / witnesses E369–E370.
+- **Souaré** — canonical Fandom form verified; current source: dwarf/elf mixed heritage, bearded woman, mineral affinity, one of Nouvelle Vague’s five core wardens.
+- **Angajuman** — source-given neighboring-prisoner alias. No accessible canonical Fandom entry found; true identity remains unstated and must be reveal-guarded.
+- **Nouvelle Vague solitary cell** — asphalt/concrete/BDISSEM cocoon molded around prisoner, with only breathing/feeding tube.
+- **Old Iron-Blooded Sword Houses** — Bahamut, Gis, Sade, Nibelungen, Baskerville in pre-unification historical context.
+- **Angajuman sword discourse** — capable of countering Baskerville First–Eighth Form and Black Sun; remembers Winston, Orca, previous Seven Counts, and Cane Corso.
+- **Sucker Shark** — next family targets373–374 / E371–E372.
+- **Poseidon** — targets375–376 / E373–E374.
+
 ## The Servant additions — Chapters 369–370
 
 - **The Servant** — accepted two-part family, targets369–370 / witnesses E367–E368.
