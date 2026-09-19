@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 269,
+  "accepted_count": 272,
   "staged_count": 0,
-  "next_chapter": 270,
+  "next_chapter": 273,
   "active_title_family": {
-    "name": "Rich Friends",
+    "name": "Money War",
     "range": [
-      270,
-      272
+      273,
+      278
     ],
-    "boundary_status": "verified complete: target270→E268 through target272→E270",
-    "following_family_starts": 273,
-    "following_title": "Money War (1)",
-    "alignment_note": "270→E268 Rich Friends (1), 271→E269 Rich Friend (2), 272→E270 Rich Friend (3); 273→E271 begins Money War (1)"
+    "boundary_status": "verified complete: target273→E271 through target278→E276",
+    "following_family_starts": 279,
+    "following_title": "What Money Can't Buy (1)",
+    "alignment_note": "273→E271 through 278→E276; 279→E277 begins What Money Can't Buy (1)"
   },
   "chapters": [
     {
@@ -3781,6 +3781,48 @@
       "acceptance": "qa/acceptance/chapter-0269.json",
       "acceptance_sha": "40eab33ade6fcbbd71d87faffe58b5b523539173",
       "family_qa": "qa/families/eucharist-0268-0269.md"
+    },
+    {
+      "chapter": 270,
+      "title": "Rich Friends (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/270.txt",
+      "english_mtl_reference": "source/chapters/chapter-268.xhtml",
+      "draft": "manuscript/drafts/chapter-0270.md",
+      "qa": "qa/chapter-0270.md",
+      "provenance": "editorial/provenance/chapter-0270.json",
+      "acceptance": "qa/acceptance/chapter-0270.json",
+      "acceptance_sha": "92e3cb75302dbe9be77bcbfd974f35f3a1bf0e5c",
+      "family_qa": "qa/families/rich-friends-0270-0272.md"
+    },
+    {
+      "chapter": 271,
+      "title": "Rich Friends (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/271.txt",
+      "english_mtl_reference": "source/chapters/chapter-269.xhtml",
+      "draft": "manuscript/drafts/chapter-0271.md",
+      "qa": "qa/chapter-0271.md",
+      "provenance": "editorial/provenance/chapter-0271.json",
+      "acceptance": "qa/acceptance/chapter-0271.json",
+      "acceptance_sha": "1788befac822e159ff6957bd313f4f4a4bcdf738",
+      "family_qa": "qa/families/rich-friends-0270-0272.md"
+    },
+    {
+      "chapter": 272,
+      "title": "Rich Friends (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/272.txt",
+      "english_mtl_reference": "source/chapters/chapter-270.xhtml",
+      "draft": "manuscript/drafts/chapter-0272.md",
+      "qa": "qa/chapter-0272.md",
+      "provenance": "editorial/provenance/chapter-0272.json",
+      "acceptance": "qa/acceptance/chapter-0272.json",
+      "acceptance_sha": "29b2f80cd3c767c83dc70a886f44664e044fb02f",
+      "family_qa": "qa/families/rich-friends-0270-0272.md"
     }
   ]
 }
