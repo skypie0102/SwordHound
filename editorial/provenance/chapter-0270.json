@@ -1,0 +1,37 @@
+{
+  "chapter": 270,
+  "title": "Rich Friends (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "title_family": {
+    "name": "Rich Friends",
+    "range": [
+      270,
+      272
+    ],
+    "family_qa_path": "qa/families/rich-friends-0270-0272.md",
+    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/270.txt",
+    "blob_sha": "f74a416060a06bd97015115a710fecf96036e805",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-268.xhtml",
+    "blob_sha": "9c3e9caa4628a20dced6cc3ef844647d5fa0576d",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0270.md",
+    "blob_sha": "31602e213e00a4a308482e1363e0e4158dca8bb6"
+  },
+  "qa": {
+    "path": "qa/chapter-0270.md",
+    "blob_sha": "1b9cfeef36e5f7be743e4754dfa25e72953fbc23",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Winston/Orwell/Nouvelle Vague remain source-local pending direct access.",
+  "accepted": true,
+  "accepted_date": "2026-09-19"
+}
