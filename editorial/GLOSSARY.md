@@ -1,3 +1,17 @@
+## Kennel additions — Chapters 382–384
+
+- **Kennel** — accepted three-part family, targets382–384 / witnesses E380–E382.
+- **Gulper Eel / Elevator Eel** — deep-sea return transport bred by Nouvelle Vague; riders enter the stomach and use a specific rising current toward the surface.
+- **Flubber** — self-healing mucus barrier that keeps the deep ocean outside Nouvelle Vague; weaker than BDISSEM restraints.
+- **BDISSEM** — brigadier-general dryad / Ent whose living body produces the mana/strength-suppressing restraints used throughout Nouvelle Vague.
+- **BDISSEM lineage** — seaweed / kelp / wakame dryad; concentrated saltwater strengthens rather than weakens her.
+- **BDISSEM life-support role** — converts sulfur / steam / toxic gases into oxygen and is essential to the prison’s air supply.
+- **Orca absence** — source only says the warden is topside responding to a broad surface emergency and increased serious-offender traffic; do not over-specify.
+- **Starvation Drought + Black Sun** — combined underwater suction attack used against BDISSEM.
+- **BDISSEM target384 status** — critically poisoned by Madam Eight-Legs venom; later fate remains source-timed.
+- **The Rotten Dog of Nouvelle Vague** — next family targets385–389 / E383–E387; targets385–386 share raw `385.txt`.
+- **The Worst Torture** — follows targets390–395 / E388–E393.
+
 ## The Hounds of Nouvelle Vague additions — Chapters 377–381
 
 - **The Hounds of Nouvelle Vague** — accepted five-part family, targets377–381 / witnesses E375–E379.
