@@ -1,0 +1,37 @@
+{
+  "chapter": 396,
+  "title": "Dead Man Walking (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Dead Man Walking",
+    "range": [
+      396,
+      398
+    ],
+    "family_qa_path": "qa/families/dead-man-walking-0396-0398.md",
+    "family_qa_sha": "45ec5003f1c8edd972f57c7039665348814d5a4c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/396.txt",
+    "blob_sha": "b552e506bfe87ecdc1b4b9a9fdccccb8966667e0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-394.xhtml",
+    "blob_sha": "f93bbd9db40fabac1fde654d02ef08dcf26a1bc7",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0396.md",
+    "blob_sha": "5893075e41427caa7c3fd59310505c9529ad52a5"
+  },
+  "qa": {
+    "path": "qa/chapter-0396.md",
+    "blob_sha": "0d74845a0377be35726105c409ef7bc7f3256ca0",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
