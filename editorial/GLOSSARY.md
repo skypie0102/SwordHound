@@ -1,3 +1,16 @@
+## The Inverted Pentagram additions — Chapters 261–263
+
+- **The Inverted Pentagram** — accepted three-part family, targets 261–263 / witnesses E259–E261.
+- **Decarabia** — Seventh Corpse; unique inanimate-type member of the Ten Corpses.
+- **Decarabia danger rating** — **S+** from Chinese target263; shifted-English S rejected.
+- **Wailing Wall** — Decarabia’s mana-scaled defensive barrier; future-history form became enormous after absorbing power from the other Demon Kings.
+- **Decarabia awakening rule** — first being to wake it from each thousand-year dormancy determines its disposition for that cycle.
+- **Vikir–Decarabia contract** — Vikir awakens it, ending its current demon alignment and establishing himself as representative contractor.
+- **Decarabia pendant form** — after returning absorbed mana, it shrinks and attaches to Vikir’s collar.
+- **Vault escape cover story** — public explanation is a one-use barrier-breaking artifact; actual escape uses Vikir’s Eighth Fang.
+- **The Season of Redemption** — next family targets264–267 / E262–E265.
+- **Combined-raw boundary** — target267 and target268 share `source/chinese/chapters/267.txt`; target268→E266 begins *The Eucharist (1)*.
+
 ## The Grave of Swords additions — Chapters 255–260
 
 - **The Grave of Swords** — accepted six-part family, targets 255–260 / witnesses E253–E258.
