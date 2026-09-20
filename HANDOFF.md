@@ -65,7 +65,7 @@ Above-threshold failures found so far include 85–86, 90–91, 95, and 100, rei
 ## Branch / PR state
 
 - Working branch: `audit/madam-eight-legs-95-100-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #129, **Rebuild Madam Eight-Legs Chapters 95–100 for completeness**: OPEN.
 - Ghosts completeness PR #128: merged.
 
 ## Exact next actions
