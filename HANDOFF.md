@@ -1,45 +1,39 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 418 / 500  
+**Accepted:** 421 / 500  
 **Staged:** 0  
-**Next target:** 419
+**Next target:** 422
 
 ## Latest accepted family
 
-**End game (1)–(10)** — targets **409–418 / E407–E416**.
+**Goodbye, Nouvelle Vague (1)–(3)** — targets **419–421 / E417–E419**.
 
-- Family QA: `qa/families/end-game-0409-0418.md` — PASS.
-- Prison-wide BDISSEM release destabilizes Nouvelle Vague; Level Nine joining changes the balance.
-- Aiyen is the unidentified high-level female intake and successor to Night Fox Akwilla.
-- Aiyen survived a separate prototype Hell Tree, killed its Dragon Horse, and escaped after Vikir’s Amdusias victory affected the tower system.
-- Aiyen reports four active apocalypse signs; Vikir attributes the missing six to six eliminated Demon Kings.
-- Bakira remains with Aiyen through a phantom-beast contract after death.
-- Orca Montreuil-sur-Mer Javert is the source-local Warden form.
-- Flubber J. Tarbond intervenes to protect Nouvelle Vague / Poseidon integrity.
-- Sadi / Ms. Ouroboros infiltrated as an ally under Vikir’s pre-prison plan.
-- Sadi’s golden left eye is Belial’s relic and enables partial demonization/Majin combat with long recovery.
-- Vikir judges Orca above Nabokov I but below Cane Corso; this remains Vikir’s combat assessment.
-- Old Man Angajumang is source-revealed as Angajumang Cedric Sadi de Sade / Marquis de Sade.
-- Marquis de Sade’s Forty-Seven Riot motive is a desire for excitement / Warring States violence, not throne ambition.
-- Poseidon’s shell cracks and hatches a palm-sized black-scaled winged creature surrounded by blue fire.
-- The hatchling remains intentionally unnamed and unspecced.
-- Critical character turn: Vikir explicitly decides he wants to live and see the future beyond his previous life.
-- Family closes with Vikir taking Aiyen’s wrist and deciding to leave Nouvelle Vague.
+- Family QA: `qa/families/goodbye-nouvelle-vague-0419-0421.md` — PASS.
+- Current 3021 is the only functioning Level-Five route to the surface.
+- Vikir’s forged-order staging explains why many intended survivors were already positioned on Level Five.
+- C419 has a visible source gap after Kirko asks about Garam. Only aligned E417’s localized answer is restored: Garam died two years earlier during the Sakkuth riot while saving Kirko, was buried, and wanted to show her the outside world.
+- Kirko refuses escape because Nouvelle Vague is where she was born and raised. Her later fate remains unresolved.
+- Marquis de Sade and incapacitated Sadi hitch a ride on the Gulper Eel.
+- Orca’s killer-whale physiology makes him overwhelmingly advantaged in deep water.
+- Marquis de Sade promises three lives in repayment for one life saved, conditional on reaching the surface.
+- Vikir and Sade cut the whip so Aiyen/Sadi can continue upward.
+- Gate of Good and Evil remains 70 m / 5 m / 6,535 tons and accidentally strikes Orca before uncorking the full eruption.
+- Vikir, Marquis de Sade, and Orca use Gate of Good and Evil as the lower shell and Decarabia’s Wailing Wall as the upper dome for the ascent.
+- Local C421 Basilisk-regeneration wording remains drift; **Immortality — Gargoyle (S)** controls.
+- Family ends with the three men rising ten thousand meters toward the surface.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**Goodbye, Nouvelle Vague (1)–(3)** — targets **419–421 / E417–E419**.
+**How to Become a Wandering Knight (1)–(3)** — targets **422–424 / E420–E422**.
 
 Following family:
-- **How to Become a Wandering Knight (1)–(3)** — targets **422–424 / E420–E422**.
-- **Night Walkers (1)** begins target425.
+- **Night Walkers (1)** begins target425 / E423.
 
 ## Exact next actions
 
-1. Read C419–C421 completely against E417–E419.
-2. Reconstruct/QA/accept Goodbye, Nouvelle Vague as one family.
+1. Read C422–C424 completely against E420–E422.
+2. Reconstruct/QA/accept the complete three-part family.
 3. Merge it.
-4. Immediately continue into How to Become a Wandering Knight (1)–(3), targets422–424 / E420–E422.
-5. Continue into Night Walkers if the source remains clean.
+4. Immediately determine the full Night Walkers family boundary from target425 forward and continue.
