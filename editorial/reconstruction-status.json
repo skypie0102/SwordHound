@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 464,
+  "accepted_chapters": 470,
   "staged_chapters": 0,
-  "next_chapter": 465,
+  "next_chapter": 471,
   "latest_accepted_family": {
-    "name": "Infiltration of the Water Source",
-    "range": [
-      454,
-      464
-    ],
-    "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
-  },
-  "next_title_family": {
     "name": "The Prelude to a Counterattack",
     "range": [
       465,
       470
     ],
-    "boundary_status": "verified complete",
-    "following_family_starts": 471,
-    "following_title": "Tochka Annihilation Battle (1)",
-    "alignment_note": "465→E463 through 470→E468; target471→E469 begins Tochka Annihilation Battle (1)."
+    "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+  },
+  "next_title_family": {
+    "name": "Tochka Annihilation Battle",
+    "range": [
+      471,
+      475
+    ],
+    "boundary_status": "verified contiguous segment",
+    "following_family_starts": 476,
+    "following_title": "Knowing the Fate of My Father (1)",
+    "alignment_note": "471→E469 through 475→E473; 476-477 interrupt with Knowing the Fate of My Father; 478→E476 returns to Tochka Annihilation Battle (6)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -526,9 +526,23 @@
     461,
     462,
     463,
-    464
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470
   ],
   "notes": [
+    "Chapters465-470 accepted as The Prelude to a Counterattack (1)-(6), mapping E463-E468.",
+    "Kirko Grimm survives through Vikir/BDISSEM intervention and now carries Asmodeus/Flubber support.",
+    "Flauros opens the hidden groundwater only to poison it with Ouroboros; Baby Madam and spider brood neutralize Red Death.",
+    "Ballak survivors return; allied great houses converge.",
+    "Pigi shields Vikir from Hell Tree seeds; Flauros's principal Tochka objective is revealed as Pigi.",
+    "Reaper identity uses Fandom-backed project canon Granola de Leviathan; external Grenouille remains witness variant.",
+    "Granola asks Lips of Sweet Talk whether his intended decision is correct; answer remains withheld.",
+    "Next contiguous family is Tochka Annihilation Battle 471-475 / E469-E473; 476-477 are Knowing the Fate of My Father before 478 returns to Tochka (6).",
     "Chapters454-464 accepted as Infiltration of the Water Source (1)-(11), mapping E452-E462.",
     "MiniPin's crater-lake hypothesis proves false at target460; the crater is dry.",
     "The Poison Human recharge facility uses the Ouroboros poison source and is sabotaged with Doppelganger leeches.",
