@@ -1,49 +1,58 @@
 # Chapter 310: Hell Tree (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/310.txt`. Recovered English Chapter 308 is the verified shifted secondary witness. Chinese-primary **B+** controls over shifted E308’s B.
+> Chinese-primary reconstruction from `source/chinese/chapters/310.txt`. Recovered English Chapter 308 is the verified shifted secondary witness. Chinese-primary **Hell Hound Danger Rating B+** controls over shifted E308's B. Project canon controls **Granola de Leviathan**.
 
 [Stay alive?]
 
-The fairy’s broken speech always ended in a rising tone.
+The fairy's strange mouth made nearly every sentence rise at the end—
 
-No one cared.
+as though everything were a question.
 
-**<Hell Hound>**
+No one had the attention to spare.
 
-**Danger Rating:** B+  
-**Size:** 3 m  
-**Discovery Location:** Le Rouge et Le Noir Mountain, Second Ridge  
-**Alias:** ‘Dog That Brings Hell’
+The monsters charging out of the black holes were already close.
 
-A demonic hound wreathed in sulfur fire.
+> **<Hell Hound>**
+>
+> **Danger Rating:** **B+**  
+> **Size:** 3 m  
+> **Discovery Location:** Le Rouge et Le Noir Mountain, Second Ridge
+>
+> **Alias:** *Dog That Brings Hell*
+>
+> A vicious demonic hound whose eyes and mouth spill sulfur fire.  
+> The flame originates from deep in the Oil World and will not extinguish until the life serving as its fuel is completely consumed.  
+> Once its jaws close on prey, survival is almost impossible.
 
-Once its jaws close—
+One hundred eight Hell Hounds.
 
-survival is unlikely.
+One hundred eight students.
 
-The flames spilling from its eyes and mouth come from deep in the Oil World and do not go out until the life being used as fuel is completely consumed.
+The fairy twisted happily.
 
-There were 108 Hell Hounds.
+[You may have been weakened one hundred times?]
 
-Exactly matching the 108 students.
+[But there are 108 of you?]
 
-[You are weakened one hundred times?]
+[And 108 of them?]
 
-[But there are 108 of you and 108 of them?]
+[Let us see what you do?]
 
-[Let us see how you deal with it?]
+A noble-faction student finally understood what was happening.
 
-A student screamed.
+“Aaaaaah!”
 
 The game began.
 
-A number appeared before everyone.
+Ding.
+
+A number appeared before every participant.
 
 **108**
 
-And immediately started counting down.
+It immediately started decreasing.
 
-The meaning was obvious.
+Everyone reached the same conclusion.
 
 **108 students.**
 
@@ -53,189 +62,449 @@ The meaning was obvious.
 
 Survive.
 
-“Don’t fight!”
+“How are we supposed to beat that!?”
+
+“Idiot!”
+
+“We don't need to beat them!”
+
+“We only have to survive!”
+
+“Run!”
 
 “Hide!”
 
-“This is still the Academy!”
+“This is still Colosseo!”
 
-“We know the terrain!”
+“We've lived here for years!”
 
-Students scattered.
+“We know where to go!”
 
-Dormitories.
+At full strength—
 
-Water tanks.
+a coordinated group might have fought.
 
-Basements.
+At one percent output—
 
-Training rooms.
+the students had no intention of trying.
 
-But the copied Academy was subtly wrong.
+“Girls' dormitory!”
 
-Roof supports collapsed.
+“The roof can stop them!”
 
-Water tanks held rotten liquid.
+“No!”
 
-Shelter doors had rusted away.
+“Water tank!”
 
-Equipment rooms were empty.
+“There's a reinforced shelter under the general store!”
 
-The macro layout remained.
+“The fitness room!”
 
-The details had been corrupted.
+“There are weapons there!”
 
-Among those fleeing—
+Students scattered toward familiar places.
 
-was a first-year Hot Department student named **Granola**.
+Then the tower reminded them—
 
-Tears and mucus streamed down his face.
+this was not their real Academy.
 
-Hell Hound jaws clacked behind him.
+“Wait—!”
 
-His body—
+“The roof is collapsed!”
 
-reduced to one percent—
+“Hell Hound!”
 
-could barely run.
+“Jump!”
 
-Then two familiar upperclassmen shouted.
+“The water tank is full of rotten water!”
+
+“I can't hold my breath for 108 minutes!”
+
+“The shelter door is rusted through!”
+
+“There's nothing in the fitness room!”
+
+“Where did all the equipment go!?”
+
+The large-scale geography matched Colosseo.
+
+The details did not.
+
+Every supposedly safe place had been corrupted.
+
+Among those running—
+
+was **Granola de Leviathan**.
+
+A first-year from the Hot Department.
+
+Tears and mucus covered his face as he sprinted.
+
+Behind him—
+
+clack.
+
+clack.
+
+clack.
+
+Hell Hound teeth.
+
+Close.
+
+Far too close.
+
+*Damn it!*
+
+*At one percent strength, even running is difficult!*
+
+If he did not find shelter immediately—
+
+his death would be ugly.
+
+Then—
+
+“Hey!”
 
 “Granola!”
 
 “Over here!”
 
-A small girl.
+“Quickly!”
 
-A large boy.
+Two people waved from a side passage.
 
-Second-year nobles who had always treated him kindly.
+A petite female student.
+
+A broad male student.
+
+Second-year nobles.
+
+Granola's immediate seniors.
+
+People who had always treated him well.
+
+His closest connections at the Academy.
+
+Granola's face loosened in relief.
+
+“S-seniors!”
+
+“Duck!”
+
+The male senior shouted.
+
+Granola lowered his head.
+
+A Hell Hound claw passed just over him.
 
 Hope returned.
 
 *Right.*
 
-*We survive together.*
+*No matter how bad this gets—*
 
-Granola ran toward them.
+*we can survive if we work together.*
+
+He ran toward them.
 
 Then—
 
-trip.
+TRIP.
 
-The female senior extended her leg.
+A long leg caught his ankle.
 
-Granola fell.
+Granola hit the ground.
 
 “…What?”
 
-The two smiled apologetically.
+The female senior gave him an awkward smile.
 
 “Sorry.”
 
-“I’m slow.”
+“My legs are a little slow.”
 
-“If we don’t leave bait—
+The male senior was already running.
 
-we might get caught.”
+“If we don't leave bait—
 
-Then they ran.
+we might be caught.”
 
-Granola lay frozen.
+The two fled.
 
-Years of school connections.
+Using Granola's fall to redirect the Hell Hound.
 
-Status.
+“…No.”
 
-Networks.
+He stared after them.
 
-All of it—
+Not only because he had been betrayed now.
 
-nothing.
+Everything he had believed in outside the tower—
 
-He saw commoner students supporting wounded classmates.
+status.
 
-Students he had once ignored—
+family prestige.
 
-fighting together.
+relationships.
+
+networks.
+
+What had any of it meant?
 
 *Did I live wrong?*
 
-Hell Hound claws descended.
+Through the chaos—
 
-Crack.
+Granola saw commoner students.
 
-Granola felt himself lifted instead.
+People he had considered beneath notice.
+
+Bad family backgrounds.
+
+Poor grades.
+
+No noble connections.
+
+Yet they were carrying injured classmates.
+
+Fighting together.
+
+Refusing to abandon one another.
+
+Granola closed his eyes.
+
+The cost of choosing the wrong people—
+
+had finally become clear.
+
+A Hell Hound reached him.
+
+He could feel its presence without seeing it.
+
+WHOOSH—
+
+Teeth and claws came for his neck.
+
+Granola almost accepted death.
+
+CRACK!
+
+Then—
+
+his body lifted off the ground.
+
+“…Huh?”
+
+His eyes opened.
+
+A completely unexpected person stood there.
 
 “Stop lying down.”
 
 “Get up and run.”
 
-Vikir held him by the back of his collar.
+Vikir held Granola by the back of his collar.
 
 ◆◆◆
 
-Time passed.
+Much of the timer had already passed.
 
-Students hid throughout the ruined district.
+Survivors were hidden throughout the ruined Academy.
 
-The two seniors who betrayed Granola locked themselves in a shop basement.
+The two nobles who had sacrificed Granola—
 
-They laughed quietly about what they had done.
+had found the basement beneath a general store.
 
-Above them—
+The door closed.
 
-a Hell Hound entered.
+They crouched in darkness.
 
-At first—
+“They'll never find us here.”
 
-it seemed ready to leave.
+“No one knows this basement.”
 
-Then its nose twitched.
+The girl smiled.
 
-The beast tore through the floor.
+Then—
+
+they started talking about what they had done.
+
+“Do you feel a little bad about Granola?”
+
+“Why?”
+
+“Better him than us.”
+
+“He looked terrified when I called him over.”
+
+“He's a freshman.”
+
+“Still naive.”
+
+“Leviathan or not—
+
+what does family influence mean inside this tower?”
+
+They laughed quietly.
+
+Then—
+
+[Grrrrr…]
+
+Both froze.
+
+A Hell Hound had entered the shop above.
+
+*It didn't find the bait.*
+
+*So it's searching.*
+
+The two covered each other's mouths.
+
+The monster walked slowly across the floorboards.
+
+Sniffed.
+
+Found nothing.
+
+Turned away.
+
+Then—
+
+[…Woof.]
+
+Its eyes changed.
+
+The Hell Hound spun.
+
+Charged toward one corner.
+
+SCRAPE—
+
+CRACK—
+
+Its sulfur-heated claws tore through the wooden floor like paper.
+
+The hidden compartment opened.
+
+Two horrified faces appeared below.
+
+“How!?”
+
+“How did it find us!?”
+
+Then—
+
+they noticed the nose.
+
+Sniffing violently.
+
+Memories returned.
+
+The limited **Beatrice Newell** perfume.
+
+The expensive hand-rolled cigarette.
+
+The cosmetics.
+
+The little luxuries they had used before hiding.
+
+Hell Hounds had exceptionally sharp noses.
 
 Perfume.
 
 Smoke.
 
-Cosmetics.
+Makeup.
 
-The scent of luxury goods they had used—
+Even scented hand cream—
 
-had betrayed them.
+was enough.
 
-The tower had preserved those items for exactly that reason.
+The monsters tracked anyone who had used them.
 
-Vikir had expected it.
+Relentlessly.
 
-Then—
+Elsewhere—
 
-Hell Hounds converged.
+Vikir glanced toward the distant commotion.
 
-Not around the hiding students.
+“…As expected.”
 
-Around **him**.
+Granola looked at him.
 
-Granola panicked.
+“What?”
 
-“You brought almost all of them here!”
+“Nothing.”
 
-“There’s nowhere to hide!”
+Ahead—
 
-Vikir looked at the surrounding horde.
+Hell Hounds kept arriving.
+
+During Vikir and Granola's movement through the ruins—
+
+other prowling hounds had joined the chase.
+
+Now—
+
+most of the summoned pack surrounded the two of them.
+
+Which meant—
+
+other students had a much higher chance of surviving.
+
+Granola was not in the mood to appreciate that.
+
+“See!?”
+
+“I told you we should go toward the dormitories!”
+
+“There are places to hide there!”
+
+“You ignored me!”
+
+“And now every Hell Hound in the area is here!”
+
+He looked at the dead end.
+
+Then at the horde.
+
+*I'm insane.*
+
+*Why did I follow this guy just because he saved me once?*
+
+Vikir spoke quietly.
+
+“Don't worry.”
+
+“There is a way.”
+
+Granola stared at him.
+
+“What way!?”
+
+“How do we run from this many?”
+
+“Where do we hide?”
+
+Vikir tilted his head.
 
 “…Hide?”
 
 “Why?”
 
-Granola stared.
+Granola stopped.
 
-Vikir answered calmly.
+Vikir looked at the Hell Hounds.
 
-“I’m going to catch them all.”
+Calm.
 
-The Hell Hounds here were not merely monsters.
+“I'll catch all of them.”
+
+The monsters surrounding him—
+
+were not simply enemies.
 
 They were experience.
 
