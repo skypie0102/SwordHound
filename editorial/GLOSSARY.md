@@ -1,3 +1,18 @@
+## Tochka Annihilation Battle additions — Chapters 471–475
+
+- **Tochka Annihilation Battle (1)–(5)** — accepted contiguous segment, targets471–475 / witnesses E469–E473.
+- **Red Baskerville whistle** — military-authority signal used to rally Baskerville forces; do not conflate with the earlier Black Whistle.
+- **Pavlov Van Baskerville** — elderly Baskerville of Hugo’s generation; dies after warning of high-ranking Leviathan presence.
+- **Shammua** — refugee girl who begins the voluntary civilian defense of Tochka’s walls.
+- **Hugo Le Baskerville / Eighth Form** — independently demonstrates Baskerville Eighth Form while guarding Vikir’s back.
+- **Juskin de Leviathan** — destroyed in the Vikir/Hugo advance.
+- **Granola de Leviathan sabotage** — destroys the Ouroboros poison-recharge station; dragged into the boiling vessel afterward, with no confirmed death at this reveal point.
+- **Flauros decapitation** — Vikir removes Flauros’s head; severed head remains alive.
+- **Gate-of-Destruction tether claim** — Flauros says killing him opens the Gate of Destruction; truth remains unresolved because he is the Lying Leopard.
+- **Knowing the Fate of My Father** — next contiguous family targets476–477 / E474–E475.
+- **Tochka Annihilation Battle (6)** — resumes at target478 / E476.
+- **Downtown Naval Warfare** — begins target479 / E477.
+
 ## The Prelude to a Counterattack additions — Chapters 465–470
 
 - **The Prelude to a Counterattack** — accepted six-part family, targets465–470 / witnesses E463–E468.
