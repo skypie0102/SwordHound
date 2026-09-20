@@ -13,9 +13,9 @@ Current checkpoint: **post-500 manuscript completeness audit**.
 - Current tracker state: **496 accepted / 4 needs rework**
 - Confirmed compressed chapters requiring rebuild: **97, 316, 319, 420**
 - Initial priority-review queue: **47 ordinary one-target chapters** with unusually low draft/raw byte ratios (<0.60); this is a triage heuristic, not an automatic failure rule
-- Completed audit family: **The Illiad (85–89)** — all five historical drafts rebuilt and passed
-- Pending initial-priority chapters: **44**
-- Next audit family: **The Ghosts of the Ancestors (90–94)**
+- Completed audit families: **The Illiad (85–89)** and **The Ghosts of the Ancestors (90–94)** — all historical drafts in both families rebuilt and passed
+- Pending initial-priority chapters: **41**
+- Next audit family: **Madam Eight-Legs (95–100)**
 - Active audit record: `qa/manuscript-completeness-audit.md`
 - EPUB assembly is **blocked until the completeness audit closes**
 
@@ -60,7 +60,7 @@ Direct comparison has already confirmed:
 - Chapter 319 — *Surplus Man (6)*
 - Chapter 420 — *Goodbye, Nouvelle Vague (2)*
 
-Direct family review has also shown that chapters above the byte-ratio threshold can still be compressed: Chapters 85–86 were not initially flagged but failed strict source-coverage review and were rebuilt with the rest of The Illiad family. See `qa/manuscript-completeness-audit.md` for the review queue, completed families, and family-first order.
+Direct family review has also shown that chapters above the byte-ratio threshold can still be compressed: Chapters 85–86 and 90–91 were not initially flagged but failed strict source-coverage review and were rebuilt with their complete title families. See `qa/manuscript-completeness-audit.md` for the review queue, completed families, and family-first order.
 
 ## Editorial quality bar
 
