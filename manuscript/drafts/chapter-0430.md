@@ -1,276 +1,468 @@
 # Chapter 430: The Lion King (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/430.txt`. Recovered English Chapter 428 is the verified shifted secondary witness. Established project terminology controls Tudor, Bianca, Sancho, Pigi, Dolores, Sinclaire, Passamonte, Chimeries, Cervantes, Invincible Cavalry, and House Donquixote. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/430.txt`. Recovered English Chapter 428 is the verified shifted secondary witness. Established project terminology controls **Tudor**, **Bianca**, **Sancho**, **Pigi**, **Dolores**, **Sinclaire**, **Passamonte**, **Chimeries**, **Cervantes**, **Invincible Cavalry**, and **House Donquixote**. Warm-sea/fish/weather anomalies remain environmental setup; the chapter's fishermen speculate about causes, but production does not assign one.
 
-A castle on the northern coast.
+A castle stood on the northern coast.
 
-Below the ancient fortress walls—
+Below the old fortress—
 
-the blue sea rolled against the cliffs.
+blue waves struck the cliffs.
 
-A few fishermen worked the lower beach.
+Farther down—
 
-Warm wind blew in from offshore.
+fishermen worked the beach.
 
-White foam bubbled among the reefs.
+WHOOSH—
 
-Schools of warm-water fish had gathered in numbers nobody remembered seeing before.
+A strangely warm wind blew in from the sea.
 
-“Where did all the other fish go?”
+BUBBLE.
 
-“One kind, over and over.”
+BUBBLE.
 
-“The sea’s too warm.”
+White foam formed between the reefs.
 
-The fishermen looked toward the dark sky.
+Schools of warm-water fish crowded the shallows.
 
-Heavy clouds had covered the sun for days.
+One fisherman scratched his head.
 
-“Bad sign.”
+“Where did everything else go?”
+
+“Why are we catching only these?”
+
+The sea had been warmer than normal for several days.
+
+Warm-water species—
+
+normally uncommon here—
+
+had appeared in enormous numbers.
+
+Above them—
+
+the sky remained dark.
+
+Heavy clouds covered it day and night.
+
+The fishermen clicked their tongues.
+
+“Bad omen.”
 
 “Maybe a volcano erupted somewhere offshore.”
 
 “There was that earthquake.”
 
-“If the sea keeps warming, other fish will die.”
+“If the sea keeps warming—
 
-“My skin’s stinging too.”
+other fish may die.”
 
-“Rain’s coming.”
+“My skin hurts too.”
 
-“Pack up.”
+“Rain soon.”
 
-They hauled in their nets.
+“Pull the nets.”
 
-Rows of wooden racks covered the beach.
+They packed up.
 
-The sudden abundance of warm-water fish—
+Wooden drying racks filled the beach.
 
-during famine—
+Fish lay across them in rows.
 
-was at least one small mercy.
+The region was suffering famine.
 
-Properly dried—
+So even an unnatural glut of one species—
 
-the catch could feed people for months.
+was useful.
 
-Then the fishermen noticed the riders approaching.
+Dried properly—
 
-“Knights!”
+the catch could feed families for two or three months.
 
-“Keep your heads down.”
+Then—
 
-“Don’t let them notice you.”
+every fisherman lowered his head.
 
-“They never used to be like this.”
+“Knights.”
 
-“Get inside.”
+“Get down.”
 
-The returning riders were members of House Donquixote’s **Invincible Cavalry**.
+“Don't let them notice us.”
+
+“They weren't like this before.”
+
+“Inside.”
+
+A column of mounted knights approached.
+
+**House Donquixote's Invincible Cavalry.**
+
+Part of the force previously deployed to the civil-war front—
+
+now returning home.
 
 Once—
 
-Donquixote knights had greeted farmers and fishermen.
+Donquixote knights greeted commoners.
 
-Helped with work.
+Helped carry things.
 
-Played with children.
+Talked with fishermen.
 
-That changed after Cervantes fell ill.
+Allowed children near the horses.
 
-Under Passamonte—
+That changed after **Cervantes** became ill.
 
-they became cold.
+With **Passamonte** effectively managing the family—
+
+the knights became cold.
 
 Silent.
 
-Unnaturally cruel.
+Harsh.
 
-The people now feared them.
+They stopped answering greetings.
 
-Tudor saw that fear.
+Stopped helping citizens.
 
-Hidden inside Donquixote armor—
+Some had even ridden through streets full of playing children without slowing.
 
-he rode at the front of the returning column.
+The territory had learned to fear its own protectors.
+
+At the front of the returning column—
+
+Tudor saw those bowed heads.
+
+He was hidden inside Donquixote armor.
 
 The sight hurt.
 
-The old men who once waved.
+Old men who once waved.
 
-The fishermen who offered grilled fish.
+Young fishermen who offered grilled fish.
 
-The children who ran beside the horses.
+Children who ran laughing beside the cavalry.
 
 All gone.
 
 “…Passamonte.”
 
+Tudor's jaw tightened.
+
 “No.”
 
 “Chimeries.”
 
-“You turned our land into this.”
+“You turned Donquixote into this.”
 
-Bianca spoke quietly beside him.
+Bianca rode beside him.
 
-“Control yourself.”
+“Control it.”
 
-“Don’t give us away.”
+“Don't expose us now.”
 
-The Night Walkers had infiltrated with the cavalry.
+The **Night Walkers** had infiltrated the returning cavalry.
 
-The freed knights—
+The freed Donquixote knights—
 
-ashamed of what they had done while controlled—
+whose brainwashing had weakened—
 
-cooperated fully.
+were deeply ashamed of what they had done.
 
-The Donquixote main castle stood ahead.
+They agreed to cooperate.
+
+The family castle stood ahead.
 
 Once inside—
 
-the Night Walkers would separate and use Tudor’s secret routes.
+the Night Walkers would break from the column.
 
-Their plan was simple.
+Tudor knew old routes.
 
-Let the returning cavalry enter normally.
+Servant passages.
 
-Wait for the signal.
+Hidden entrances.
 
-Then have the freed knights seize the largely empty castle—
+Paths no outsider would expect.
 
-while the Night Walkers drew Passamonte into the open.
+The cavalry itself would continue normally.
 
-The warm sea wind pushed through Tudor’s helmet.
+Then—
 
-Bianca frowned first.
+once the signal came—
 
-“What is that smell?”
+the freed knights would seize the mostly empty castle.
+
+The Night Walkers' task came first.
+
+Find Passamonte.
+
+Draw him out.
+
+Create the opening.
+
+Warm wind pushed through Tudor's helmet.
+
+With it—
+
+a strong fishy smell.
+
+Bianca grimaced first.
+
+“Ugh.”
+
+“What is that?”
 
 Sancho pinched his nose.
 
-“Dried fish.”
+“Dried warm-water fish.”
 
-“Warm-water fish smell strong.”
+“They smell stronger than normal.”
 
-Pigi waved a hand in front of his face.
+Pigi waved a hand.
 
-“Terrible.”
+“Awful.”
 
-The fortress gates opened when the cavalry banner appeared.
+They passed the beach.
+
+The fortress gate rose above the cliff.
+
+When the banner of the Invincible Cavalry appeared—
+
+the great doors opened automatically.
+
+No alarm.
+
+No challenge.
 
 They were inside.
 
-The Night Walkers quietly slipped from formation.
+The Night Walkers quietly detached from the returning column.
 
 “This way.”
 
-Tudor followed the outer wall into thick brush.
+Tudor moved close to the outer wall.
 
-He pressed mana into one brick.
+Into brush.
 
-GRRNNK—
+A narrow path—
 
-A concealed passage opened beneath the wall.
+once used by servants—
 
-The six of them entered.
+ran beneath the masonry.
 
-Dolores.
+He pressed mana into one particular brick.
 
-Tudor.
+GRRNNK.
 
-Sancho.
+Stone shifted.
 
-Pigi.
+A dirt-lined passage opened downward.
 
-Bianca.
+Everyone entered.
 
-Sinclaire.
+Inside—
 
-Tudor lit old whale-fat torches rather than using magic.
+Tudor produced old solid fuel.
 
-“Keep mana use low.”
+Dried whale fat fixed to the end of sticks.
 
-“If Chimeries can sense us—
+A match scraped.
 
-we don’t give him anything for free.”
+Small torches came alive.
 
-They moved through tunnels that servants had once used.
+Sinclaire whispered—
+
+“I can use illumination magic.”
+
+“No.”
+
+Tudor handed her a torch.
+
+“Use as little mana as possible.”
+
+“If Chimeries can sense it—
+
+we don't announce ourselves.”
+
+Six infiltrators moved.
+
+**Dolores.**
+
+**Tudor.**
+
+**Sancho.**
+
+**Pigi.**
+
+**Bianca.**
+
+**Sinclaire.**
+
+This was more than a demon hunt.
 
 For Tudor—
 
-every step felt wrong.
+it was the return of an expelled heir.
 
-He had grown up here.
+The path back to his own family.
 
-Walked these halls in a bathrobe.
+Bianca saw the slight tremor in his body.
 
-Run through them laughing.
+She struck his back once.
+
+“Stop shaking.”
+
+“The heir inherits the family.”
+
+“That's normal.”
+
+“Justice is on our side.”
+
+“What are you afraid of?”
+
+Tudor inhaled.
+
+“…Right.”
+
+“I'm just taking back what belongs to my family.”
+
+He straightened.
+
+Bianca looked at the black cloak hiding Tudor's missing left arm.
+
+Sadness crossed her eyes.
+
+Then she bit her lip.
+
+She could not afford pity.
+
+Not now.
+
+◆◆◆
+
+Several underground passages.
+
+Two concealed doors.
+
+Then—
+
+the inner castle.
+
+Tudor removed the iron mask and helmet hiding his face.
+
+His remaining hand tightened.
+
+Every corridor carried memory.
+
+He had once wandered these halls after bathing—
+
+wearing nothing but a robe.
 
 Now—
 
-he crept through them armed for assassination.
+he crossed them armored.
 
-A group of maids rounded a corner.
+Quiet.
+
+Hunting a demon.
+
+Several maids turned the corner.
 
 “Oh?”
 
 “Young Master?”
 
-Tudor stiffened.
+Tudor froze.
 
-They did not look surprised.
+Unexpectedly—
 
-“Where have you been?”
+the women did not look shocked.
 
-“We haven’t seen you lately.”
+“Why are you here at this hour?”
 
-“Did something happen outside?”
+“We haven't seen you lately.”
+
+“Did you go somewhere?”
 
 Apparently—
 
-the servants had never been told the truth about Tudor’s exile.
+the household servants did not know what had happened to Tudor.
 
-Tudor smiled faintly.
+He pulled the black cloak more carefully over his missing arm.
 
-“It’s been a while.”
+Then smiled.
 
-“How is my father?”
+“It's been a while.”
 
-The maids exchanged looks.
+“How is Father?”
 
-“We haven’t seen the Patriarch either.”
+The maids exchanged glances.
 
-“Only Lord Passamonte speaks for him now.”
+“We don't really know.”
 
-“He’s very ill.”
+“We haven't seen the Patriarch recently.”
 
-“But your uncle stays by his side.”
+“Lord Passamonte gives us his messages.”
 
-“One thing is strange, though…”
+Tudor's eyes narrowed.
 
-Another maid quickly covered the speaker’s mouth.
+“Only my uncle?”
 
-“Nonsense!”
+“Yes.”
 
-“Her nose is too sensitive.”
+“The Patriarch has been very ill.”
 
-They bowed and hurried away.
+“Lord Passamonte never leaves his side.”
 
-After they disappeared—
+“He's been devoted.”
 
-the others dropped from the ceiling beams where they had hidden.
+One maid hesitated.
 
-“What was that about?”
+“There is one strange thing…”
+
+The others immediately covered her mouth.
+
+“What are you saying?”
+
+“Your nose is too sensitive.”
+
+“Stop making things up.”
+
+The maids bowed quickly.
+
+“Excuse us.”
+
+“The steward called us to help with the returning cavalry.”
+
+They hurried away.
+
+When the corridor emptied—
+
+the others dropped from ceiling beams and behind pillars.
+
+Bianca frowned.
+
+“What did she mean?”
 
 Tudor shook his head.
 
-“They don’t know enough.”
+“They probably don't know enough.”
+
+“The servants stayed inside.”
+
+“Outside information never reached them.”
 
 “We keep moving.”
 
-They reached the corridor leading to Cervantes’s chamber.
+There was no time.
+
+They advanced through dark corridors.
+
+Up a spiral route.
+
+Toward the chamber of the family head.
+
+**Spear King Cervantes.**
 
 Two knights stood guard.
 
@@ -280,78 +472,110 @@ Two knights stood guard.
 
 Then they saw Tudor.
 
+Both stopped.
+
 Their eyes turned red.
 
-Mouths split too wide.
+Mouths split toward the ears.
 
 Tongues forked.
 
 [Young Master.]
 
-[Welcome home.]
+[Welcome back.]
 
-These were not merely brainwashed knights.
+Not brainwashed.
 
-They had been demonized.
+Not merely influenced.
 
-Bianca fired first.
+Fully demonized.
 
-Two arrows punched into foreheads.
+Bianca fired before their mana could rise.
 
-Tudor’s spear followed—
+THUNK.
 
-through throat and heart.
+THUNK.
 
-The bodies fell before their demonic mana fully surfaced.
+Arrows entered both foreheads.
+
+Tudor followed.
+
+Spear through throat.
+
+Then heart.
+
+The bodies fell.
+
+Bianca glanced at him.
+
+“You used mana.”
+
+“Their demonic aura should mask it.”
+
+Tudor looked to Dolores.
+
+“Any reaction?”
 
 Dolores closed her eyes.
 
-Felt the mana around them.
+Read the surrounding flow.
 
-“No alarm yet.”
+Then nodded.
 
-They continued.
+“Nothing yet.”
 
-Tudor’s steps quickened.
+They moved over the corpses.
+
+Tudor's pace quickened.
 
 “Father will be all right.”
 
-Bianca said it for him.
+Bianca said it before he could.
 
-“He’s the Spear King.”
+“He's the Spear King.”
 
-“Even weakened—
+“Even if he's sick—
 
-once we separate him from the demon, he’ll recover.”
+get him away from the demon and he'll recover.”
 
 “And Dolores is here.”
 
-Then the smell returned.
+Then—
 
-Warm sea wind.
+WHOOSH.
 
-Drying fish.
+Warm sea wind entered through a window.
 
-And—
+Fish smell.
 
-something worse.
+Bianca covered her nose.
 
-Much worse.
+“Again.”
 
-Tudor stopped.
+But Tudor stopped.
 
-“That isn’t coming from outside.”
+His face changed.
 
-The stench leaked from beneath Cervantes’s door.
+“That isn't from the beach.”
+
+This odor—
+
+worse.
+
+Rot.
+
+Decay.
+
+It leaked from beneath Cervantes's door.
 
 Tudor grabbed the handle.
 
 CRACK.
 
-He tore the lock apart.
+The lock broke in his hand.
 
-Pushed the door open.
+He pushed the door open.
 
-And every one of them understood—
+And every Night Walker understood—
 
-why the maids had stopped talking.
+why the maid had been afraid to talk.

@@ -1,7 +1,7 @@
 {
   "chapter": 432,
   "title": "The Lion King (3)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -9,8 +9,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
-    "status": "pass"
+    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/432.txt",
@@ -24,12 +24,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0432.md",
-    "blob_sha": "8a3a4c1022aab8d4ccfac7c827fd2931175533ba"
+    "blob_sha": "d6df6cbc9ed4f04e3df7e703b6b86c251eb81e16"
   },
   "qa": {
     "path": "qa/chapter-0432.md",
-    "blob_sha": "bd013d0eb94a3cc3673ce56baa14baa4e3869e26",
-    "status": "pass"
+    "blob_sha": "349f2d5f82034f17c7fbfed0ee3bd7c663b91efd",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
@@ -37,5 +37,19 @@
   "key_reveals": [
     "Chimeries intended Cervantes as a replacement body and shifts to Tudor after Cervantes's self-destruction.",
     "Chimeries's power induces irrational courage/recklessness."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "draft_sha": "8a3a4c1022aab8d4ccfac7c827fd2931175533ba",
+    "qa_sha": "bd013d0eb94a3cc3673ce56baa14baa4e3869e26"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/lion-king-0430-0433.md",
+    "initial_priority_target": false
+  },
+  "authority_guard": "Chimeries induces recklessness/irrational confidence; prior human agency is not erased."
 }

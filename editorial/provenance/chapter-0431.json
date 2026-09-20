@@ -1,7 +1,7 @@
 {
   "chapter": 431,
   "title": "The Lion King (2)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -9,8 +9,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
-    "status": "pass"
+    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/431.txt",
@@ -24,12 +24,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0431.md",
-    "blob_sha": "1676b78f3b02212f61e3d19d680d5071fe2458d6"
+    "blob_sha": "df9cbf3fac3f65b1b42adff616842860b88ec6f5"
   },
   "qa": {
     "path": "qa/chapter-0431.md",
-    "blob_sha": "f2f012021d200dbd6d016061fc190d86123bee03",
-    "status": "pass"
+    "blob_sha": "b2a740a6cecbab5d5583f30d9d681125fcba70d9",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
@@ -38,5 +38,19 @@
     "Cervantes deliberately kills himself with Gungnir before Chimeries can seize his body.",
     "Residual poison/plague is identified as advanced Red Death / Leviathan-derived toxin.",
     "Gungnir chooses Tudor."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "draft_sha": "1676b78f3b02212f61e3d19d680d5071fe2458d6",
+    "qa_sha": "f2f012021d200dbd6d016061fc190d86123bee03"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/lion-king-0430-0433.md",
+    "initial_priority_target": true
+  },
+  "priority_resolution": "Final initial-priority target431 resolved; Cervantes suicide/advanced Red Death/Gungnir succession restored."
 }

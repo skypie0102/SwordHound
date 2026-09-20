@@ -1,16 +1,10 @@
 {
-  "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT ACTIVE. All 500 draft files exist, but prior acceptance is being revalidated against Chinese raws after confirmed summary-style compression.",
+  "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT COMPLETE. All 500 target drafts are accepted after priority-family rebuilds plus a whole-corpus residual low-tail pass.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
-  "next_chapter": 430,
-  "active_title_family": {
-    "name": "The Lion King",
-    "range": [
-      430,
-      433
-    ]
-  },
+  "next_chapter": 501,
+  "active_title_family": null,
   "chapters": [
     {
       "chapter": 1,
@@ -779,7 +773,7 @@
       "qa": "qa/chapter-0055.md",
       "provenance": "editorial/provenance/chapter-0055.json",
       "acceptance": "qa/acceptance/chapter-0055.json",
-      "acceptance_sha": "476c0641c59bffb1608ab58a34d2b9cbf075ff71",
+      "acceptance_sha": "c5acf3cea4af93e4804cecfebe40b87a27bd5795",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -793,7 +787,7 @@
       "qa": "qa/chapter-0056.md",
       "provenance": "editorial/provenance/chapter-0056.json",
       "acceptance": "qa/acceptance/chapter-0056.json",
-      "acceptance_sha": "4b26f3f5927c0212b89ac8078c12c622d596bd21",
+      "acceptance_sha": "3d0422ee2ce93d038307a042d390cfbb87ac5632",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -807,7 +801,7 @@
       "qa": "qa/chapter-0057.md",
       "provenance": "editorial/provenance/chapter-0057.json",
       "acceptance": "qa/acceptance/chapter-0057.json",
-      "acceptance_sha": "b07414e9eebaf28018737dde31e6621a72b3c4a0",
+      "acceptance_sha": "b12cd0115470deecb58c63147ec2d485c7058c5a",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -821,22 +815,23 @@
       "qa": "qa/chapter-0058.md",
       "provenance": "editorial/provenance/chapter-0058.json",
       "acceptance": "qa/acceptance/chapter-0058.json",
-      "acceptance_sha": "598dea0ed691896c7c289894b3ab2609c51b7431",
+      "acceptance_sha": "239ba21967293a98462be6982c4f8cc1963bbece",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 59,
       "title": "The Hunter and the Hunted (5)",
       "status": "accepted",
-      "source_mode": "chinese_primary_shifted_english_e58",
+      "source_mode": "chinese_primary_shifted_english_e58_completeness_reaudit",
       "chinese_source": "source/chinese/chapters/059.txt",
       "english_mtl_reference": "source/chapters/chapter-058.xhtml",
       "draft": "manuscript/drafts/chapter-0059.md",
       "qa": "qa/chapter-0059.md",
       "provenance": "editorial/provenance/chapter-0059.json",
       "acceptance": "qa/acceptance/chapter-0059.json",
-      "acceptance_sha": "f3ef9c8df491c47d3b02a23f04b548cdd27272df",
-      "family_qa": "qa/families/hunter-hunted-0055-0060.md"
+      "acceptance_sha": "9e550fa5d92639bea6cae1220a99d5d8887f9a48",
+      "family_qa": "qa/families/hunter-hunted-0055-0060.md",
+      "completeness_audit": "residual_rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 60,
@@ -849,7 +844,7 @@
       "qa": "qa/chapter-0060.md",
       "provenance": "editorial/provenance/chapter-0060.json",
       "acceptance": "qa/acceptance/chapter-0060.json",
-      "acceptance_sha": "d088b32bfb76859cbdbe26c10aa4b093d5162e30",
+      "acceptance_sha": "8d10788b97c95dd2340a2ec7b98cd0cd02e539ad",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -6113,8 +6108,9 @@
       "qa": "qa/chapter-0430.md",
       "provenance": "editorial/provenance/chapter-0430.json",
       "acceptance": "qa/acceptance/chapter-0430.json",
-      "acceptance_sha": "bdf78fd273ee33855f505de3747366907f5cc172",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "0ccd599813cadf8dc44784be37aac90489ace220",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 431,
@@ -6127,8 +6123,9 @@
       "qa": "qa/chapter-0431.md",
       "provenance": "editorial/provenance/chapter-0431.json",
       "acceptance": "qa/acceptance/chapter-0431.json",
-      "acceptance_sha": "65efa0e8e612ced453839ad700088a2bdcaaedae",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "e28805abc33ed5873b9d7d78134d996078777f24",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 432,
@@ -6141,8 +6138,9 @@
       "qa": "qa/chapter-0432.md",
       "provenance": "editorial/provenance/chapter-0432.json",
       "acceptance": "qa/acceptance/chapter-0432.json",
-      "acceptance_sha": "a65f16cec5eb8e83904e331725177c8c2b607b7a",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "0cfbc9fe26041e6448c2490503e3ad37fc17bfff",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 433,
@@ -6155,8 +6153,9 @@
       "qa": "qa/chapter-0433.md",
       "provenance": "editorial/provenance/chapter-0433.json",
       "acceptance": "qa/acceptance/chapter-0433.json",
-      "acceptance_sha": "d58909664d3fa12d4031ef3b3e61c685091b38c9",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "d9dd5b0f3fda2062b777a78f5375cd9bfa803867",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 434,
@@ -7097,11 +7096,11 @@
       "family_qa": "qa/families/side-stories-0496-0500.md"
     }
   ],
-  "project_complete": false,
+  "project_complete": true,
   "historical_accepted_count": 500,
   "needs_rework_count": 0,
   "completeness_audit": {
-    "status": "active",
+    "status": "complete",
     "opened": "2026-09-20",
     "manuscript_files_present": 500,
     "confirmed_needs_rework": [],
@@ -7181,6 +7180,16 @@
     ],
     "evidence_file": "qa/manuscript-completeness-audit.md",
     "reviewed_families": [
+      {
+        "name": "The Hunter and the Hunted",
+        "range": [
+          55,
+          60
+        ],
+        "result": "residual_reopened_rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "Whole-corpus residual pass found target59 compressed above the original 0.60 cutoff; target59 was rebuilt and the family QA/provenance/acceptance chain was rebound."
+      },
       {
         "name": "The Illiad",
         "range": [
@@ -7310,29 +7319,30 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "Family rebuilt for full coverage; confirmed completeness failure420 resolved."
+      },
+      {
+        "name": "The Lion King",
+        "range": [
+          430,
+          433
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All four historical drafts materially compressed; final initial-priority target431 resolved."
       }
     ],
-    "pending_priority_review_chapters": [
-      431
-    ],
-    "pending_priority_review_count": 1,
-    "next_family": {
-      "name": "The Lion King",
-      "range": [
-        430,
-        433
-      ]
-    },
+    "pending_priority_review_chapters": [],
+    "pending_priority_review_count": 0,
+    "next_family": null,
     "resolved_confirmed_needs_rework": [
+      59,
       97,
       316,
       319,
       420
     ],
-    "pending_strong_suspect_chapters": [
-      431
-    ],
-    "pending_strong_suspect_count": 1,
+    "pending_strong_suspect_chapters": [],
+    "pending_strong_suspect_count": 0,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7365,7 +7375,203 @@
       333,
       334,
       419,
-      421
+      421,
+      431
+    ],
+    "closed": "2026-09-20",
+    "whole_corpus_residual_pass": {
+      "date": "2026-09-20",
+      "ordinary_one_target_pairs_compared": 484,
+      "post_rebuild_median_draft_raw_byte_ratio": 0.904,
+      "unresolved_chapters_below_initial_0_60_threshold": [],
+      "expanded_low_tail_threshold": "draft/raw byte ratio < 0.70 after priority-family rebuilds; triage only",
+      "expanded_low_tail_chapters": [
+        57,
+        59,
+        64,
+        65,
+        66,
+        67,
+        70,
+        77,
+        80,
+        81,
+        136,
+        176,
+        181,
+        211,
+        213,
+        214,
+        220,
+        300,
+        301,
+        331,
+        409,
+        422,
+        423,
+        424,
+        443,
+        445,
+        446,
+        448
+      ],
+      "expanded_low_tail_chapter_count": 28,
+      "expanded_low_tail_family_count": 15,
+      "review_method": "structure retention + aligned English witness paragraph coverage for the 28 low-tail chapters, with direct Chinese reads for suspicious outliers; family QA/boundaries retained",
+      "new_failure_found": 59,
+      "result": "Chapter59 rebuilt and rebound; no unresolved completeness failures remain."
+    },
+    "residual_review_families": [
+      {
+        "name": "The Hunter and the Hunted",
+        "range": [
+          55,
+          60
+        ],
+        "result": "reopened_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "Chapter59 ordinary tracking/camp narration was compressed; rebuilt and rebound."
+      },
+      {
+        "name": "Unfair Trade",
+        "range": [
+          64,
+          67
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Low byte ratio is largely UTF-8/prose-style effect; direct family QA and witness coverage remain complete within documented safety limits."
+      },
+      {
+        "name": "Blood Relatives",
+        "range": [
+          68,
+          71
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Low-tail target70 preserves the complete plague-village/Pomeranian/pendant sequence."
+      },
+      {
+        "name": "The Hound of the Night",
+        "range": [
+          75,
+          77
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target77 preserves the complete Mozgus confrontation and Dolores reveal."
+      },
+      {
+        "name": "The Saintess",
+        "range": [
+          78,
+          82
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Targets80-81 cleared structural and aligned-witness coverage checks."
+      },
+      {
+        "name": "Test Your Skills",
+        "range": [
+          133,
+          138
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target136 cleared structural and aligned-witness coverage checks."
+      },
+      {
+        "name": "The 99 Hits With 100 Shots",
+        "range": [
+          176,
+          178
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target176 cleared structural and aligned-witness coverage checks."
+      },
+      {
+        "name": "Midterm Random Defense",
+        "range": [
+          179,
+          185
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target181 cleared structural and aligned-witness coverage checks."
+      },
+      {
+        "name": "Festival Night",
+        "range": [
+          206,
+          215
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Targets211/213/214 were direct-read; low lexical overlap reflects heavy rephrasing, not missing sequence coverage."
+      },
+      {
+        "name": "That Day, Him and Me",
+        "range": [
+          220,
+          224
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target220 cleared structural and aligned-witness coverage checks."
+      },
+      {
+        "name": "The Age of the Warmonger",
+        "range": [
+          299,
+          306
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Targets300-301 cleared structural/aligned-witness checks."
+      },
+      {
+        "name": "Draw",
+        "range": [
+          331,
+          332
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target331 cleared structural/aligned-witness checks."
+      },
+      {
+        "name": "End game",
+        "range": [
+          409,
+          418
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target409 cleared structural/aligned-witness checks."
+      },
+      {
+        "name": "How to Become a Wandering Knight",
+        "range": [
+          422,
+          424
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target422 direct-read preserves surface-crisis, civil-war and Night Walkers setup; 423-424 cleared witness checks."
+      },
+      {
+        "name": "The Fall of Usher",
+        "range": [
+          441,
+          449
+        ],
+        "result": "revalidated_pass",
+        "reviewed_date": "2026-09-20",
+        "finding": "Target448 direct-read preserves full Andrealphus aerial battle, Gate threat, confidence trap and Roderick reveal; other low-tail members cleared witness checks."
+      }
     ]
   }
 }

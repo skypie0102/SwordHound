@@ -1,18 +1,86 @@
 # Chapter 431: The Lion King (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/431.txt`. Recovered English Chapter 429 is the verified shifted secondary witness. Established project terminology controls Cervantes Donquixote, Tudor, Dolores, Bianca, Red Death, House Leviathan, Gungnir, Passamonte, and Chimeries. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/431.txt`. Recovered English Chapter 429 is the verified shifted secondary witness. This chapter is the final initial-priority completeness target. Established project terminology controls **Cervantes Donquixote**, **Tudor**, **Dolores**, **Bianca**, **Red Death**, **House Leviathan**, **Gungnir**, **Passamonte**, and **Chimeries**.
 
-The stench in Cervantes’s room had nothing to do with dried fish.
+The warm coastal wind had carried one smell through the castle for days.
 
-The room was dark.
+Dried fish.
 
-Something black moved across the bed.
+Warm-water fish—
 
-At first—
+caught in abnormal numbers because the sea had heated—
 
-Tudor could not even understand what he was seeing.
+hung from racks all along the coast.
 
-Then the black mass scattered.
+Their odor spread inland.
+
+Into House Donquixote.
+
+But the stench inside this corridor—
+
+was different.
+
+Far worse.
+
+The man beyond the door—
+
+**Donquixote La Mancha Cervantes**.
+
+The Sea Emperor.
+
+Bearer of the spear that split waves.
+
+One of the great martial pillars supporting the Empire.
+
+Commander of the **Invincible Cavalry**.
+
+Commander of the **Invincible Armada**.
+
+Father of **Tudor Donquixote**—
+
+one of the most promising heroes of his generation.
+
+Tudor opened the door.
+
+Saw the figure on the bed.
+
+And the first emotion he felt—
+
+was not grief.
+
+Not joy.
+
+Confusion.
+
+“…?”
+
+The bedroom was dark.
+
+No lamps.
+
+A large bed—
+
+absurdly empty.
+
+Something black moved over it.
+
+Human-shaped beneath.
+
+But trembling.
+
+Tudor stepped forward.
+
+RUSTLE.
+
+The black mass reacted.
+
+Then spread.
+
+Waves of darkness—
+
+moving in every direction from the bed.
+
+Tudor understood.
 
 Cockroaches.
 
@@ -20,205 +88,417 @@ Flies.
 
 Ants.
 
-Centipedes.
+Spiders.
 
-Countless insects.
+Countless small pests.
 
-Beneath them—
+BUZZZZZ—
 
-lay Cervantes.
+Wings filled the room.
 
-The Spear King.
+The odor intensified.
 
-Master of House Donquixote.
+And beneath the insects—
 
-Ruler of sea and grassland.
+**Cervantes**.
 
-Commander of the Invincible Cavalry and Invincible Armada.
+A man who had pierced mountains with a spear.
 
-Tudor’s father.
+Split sea routes open.
+
+Ruled cavalry and navy.
+
+Held one of the broadest territories among the great houses.
 
 Now—
 
-little more than skin and bone.
+almost skeletal.
 
-A long spear had been driven through his own abdomen.
+Skin dried to the bone.
 
-Both hands still gripped it.
+His two arms—
 
-Tudor collapsed to his knees.
+thin beyond belief—
+
+still gripped the shaft of a spear.
+
+A spear that passed through his abdomen—
+
+and into the bed beneath.
+
+The insects.
+
+The stench.
+
+All centered there.
+
+Tudor's legs gave way.
+
+THUD.
 
 “…Father.”
 
-Nobody spoke.
+His voice—
 
-Bianca stepped behind him.
+small.
 
-Covered his eyes.
+Disbelieving.
+
+Silence.
+
+Even a grave would not have felt quieter.
+
+No one dared speak.
+
+No one dared approach the bed.
+
+For Tudor—
+
+Cervantes had been everything at once.
+
+Friend.
+
+Teacher.
+
+Father.
+
+His eyes shook violently.
+
+Like a boat in stormwater.
+
+Then—
 
 “Wait.”
 
-“Just for a moment.”
+Hands covered his eyes from behind.
 
-Her own hands trembled.
+Bianca.
 
-Tudor lasted only seconds.
+Her own voice trembled.
 
-Then the grief broke through.
+“Just…”
 
-“Father!”
+“Wait a moment.”
 
-Dolores moved to the bed.
+“Like this.”
 
-With her bare hands—
+She held him.
 
-she brushed insects from Cervantes’s body.
+Covered his eyes.
 
-Then covered his face with her handkerchief.
+Her fingers shook.
+
+Tudor stayed silent.
+
+Then—
+
+the dam broke.
+
+“…Father!”
+
+After that—
+
+he could not continue.
+
+Dolores stepped forward.
+
+With bare hands—
+
+she swept the crawling insects from Cervantes's body.
+
+When most were gone—
+
+she covered his face with her own handkerchief.
+
+“This body was given for others.”
 
 “Ite, missa est.”
 
 “Rest.”
 
-“Go somewhere better.”
+“Go somewhere good.”
 
-A short mass.
+A saint's mass.
 
-A complete farewell.
+Short.
 
-Tudor bent over his father’s remains and wept.
+But complete.
 
-Dolores examined the body.
+Bianca released Tudor.
 
-The cause of death was obvious.
+He collapsed over the dried body and cried.
 
-Cervantes had been poisoned.
+Sound returned to a channel that had gone dry.
 
-His mind weakened.
+Pain.
 
-A demon had tried to take him.
+Grief.
 
-Before that could happen—
+Hatred.
 
-Cervantes turned his spear upon himself.
+Regret.
 
-The weapon had gone through his abdomen and deep into the bed beneath.
+All moving at once.
 
-Black burn marks scarred the floor, walls, and ceiling.
+Dolores looked closely.
 
-Evidence of a violent struggle—
+“…He killed himself.”
 
-not with another person—
+Everyone could see it now.
 
-but with something trying to seize his soul.
+Cervantes had been weakened.
 
-Dolores released holy power.
+Poisoned.
 
-Residual corruption burned away.
+His mind attacked.
 
-Even weakened—
+A demon waiting for the chance to take his body.
 
-Cervantes had resisted until the end.
+Before that happened—
 
-But what had weakened him enough for a demon to attempt possession?
-
-Dolores examined the dead insects around the bed.
-
-Their bodies were twisted.
-
-Rotten.
-
-Powdered.
-
-“…Poison.”
-
-“And plague.”
-
-A familiar feeling.
-
-A terrible one.
-
-Dolores remembered the slums.
-
-The first time she had truly worked with Vikir.
-
-**Red Death.**
-
-A plague created by House Leviathan.
-
-What lingered here—
-
-was worse.
-
-Refined.
-
-More malicious.
-
-Strong enough that even Cervantes could not survive it.
-
-Tudor’s voice shook with rage.
-
-“…Leviathan.”
-
-He looked at the spear through his father’s body.
-
-**Gungnir.**
-
-The divine spear of House Donquixote.
-
-Cervantes’s techniques were too violent for ordinary weapons.
-
-Most spears broke.
-
-Gungnir did not.
-
-Heavy.
-
-Mana-conductive.
-
-Almost impossible to damage.
-
-Tudor gripped it.
-
-“I’ll kill Passamonte.”
-
-“And everyone involved.”
+Cervantes reversed his grip.
 
 Then—
 
-ZZZNNNG.
+with willpower beyond ordinary imagination—
+
+drove the spear into his own abdomen.
+
+Through the core.
+
+Through the bed.
+
+Black burn marks covered—
+
+floor.
+
+walls.
+
+ceiling.
+
+Signs of the demon's final struggle to seize him.
+
+Dolores released holy power.
+
+The residue around Cervantes began to burn away.
+
+Poison.
+
+Corruption.
+
+Lingering demonic filth.
+
+“Even while weakened…”
+
+“he resisted to the end.”
+
+Tudor answered—
+
+voice like boiling lead.
+
+“I know.”
+
+“I always knew.”
+
+“I expected…”
+
+He could not finish.
+
+No one doubted Cervantes's spirit.
+
+He had ruled sea and grassland alike.
+
+The real question—
+
+what could make a body that strong collapse before the soul did?
+
+Dolores knelt.
+
+Examined dead insects beneath the bed.
+
+Their bodies—
+
+rotted.
+
+twisted.
+
+crumbled into powder.
+
+The first pests to feed on Cervantes—
+
+had been poisoned by him.
+
+“…Toxin.”
+
+Dolores's face tightened.
+
+“And plague.”
+
+Familiar.
+
+Terribly familiar.
+
+Her memory returned to the slums.
+
+To one of her first true encounters with Vikir.
+
+*There is a plague in the slums.*
+
+She had distrusted him then.
+
+Still—
+
+the report was too serious to ignore.
+
+That was when she first encountered—
+
+**Red Death**.
+
+A highly toxic epidemic created by **House Leviathan**.
+
+Dolores had purified it herself.
+
+She knew the signature.
+
+The residue around Cervantes—
+
+was the same family of poison.
+
+But improved.
+
+More complex.
+
+More vicious.
+
+Strong enough to break even the Spear King's body.
+
+*An advanced Red Death.*
+
+Even the faint remaining trace—
+
+made cold sweat form along Dolores's back.
+
+She memorized the sensation.
+
+Tudor's teeth clenched.
+
+“…Leviathan.”
+
+The house that created the poison.
+
+The enemy that had helped destroy his father.
+
+Then Tudor's eyes moved to the spear.
+
+The weapon passing through Cervantes.
+
+**Gungnir.**
+
+House Donquixote's symbolic spear.
+
+Cervantes's techniques—
+
+lightning-fast.
+
+Tsunami-heavy.
+
+Ordinary weapons broke beneath them.
+
+Master smiths had forged spear after spear.
+
+All failed.
+
+Gungnir alone—
+
+held.
+
+Heavy.
+
+Exceptionally conductive to mana.
+
+Unscarred even by absurd impact.
+
+A divine weapon that required no sharpening.
+
+Tudor gripped the shaft.
+
+Blood tears ran from his eyes.
+
+“I will kill Passamonte.”
+
+“I will avenge Father.”
+
+“Everyone involved—”
+
+“every single one—”
+
+“will answer for this.”
+
+Then—
+
+ZZZZNNNG.
 
 Gungnir trembled.
 
+Tudor stopped.
+
 Slowly—
 
-it pulled itself free of Cervantes’s body.
+the spear began sliding out of Cervantes's body.
 
-As though his dead father were placing the spear into Tudor’s hand.
+As if—
+
+the dead man's hands were moving.
+
+As if Cervantes himself—
+
+was giving it away.
 
 CLACK.
 
-The weapon settled into Tudor’s palm.
+Gungnir entered Tudor's palm.
 
-Tudor staggered once beneath its weight.
+Like a magnet finding its matching half.
 
-Then steadied.
+The weight nearly pulled Tudor forward.
 
-A spear Cervantes had needed two hands to wield—
+Then—
 
-Tudor now held in one.
+he stabilized.
 
-Cervantes’s body began to collapse into ash.
+Cervantes had wielded the weapon with two hands.
+
+Tudor—
+
+with only one arm remaining—
+
+held it cleanly.
+
+Naturally.
+
+As if the weapon had chosen the grip.
+
+Then Cervantes's body changed.
+
+Dust.
 
 Black.
 
 Red.
 
-No longer foul-smelling.
+Ash collapsed into the bed.
 
-Instead—
+The insects had already stripped much away.
 
-the room filled with the faint scent of the tobacco he used to smoke.
+Yet now—
+
+the previous rot smell disappeared.
+
+In its place—
+
+the faint scent of tobacco.
+
+The kind Cervantes had liked while alive.
 
 Then—
 
@@ -228,7 +508,9 @@ CLAP.
 
 CLAP.
 
-Someone stood in the corner.
+A figure rose from the darkness where two walls met.
+
+All six Night Walkers turned immediately.
 
 No one had sensed him.
 
@@ -236,9 +518,11 @@ Tall.
 
 Thin.
 
-Pale.
+Pale face.
 
-He stepped out of the darkness.
+A gentleman's shape.
+
+He stepped into the dim light.
 
 “Finally.”
 
@@ -246,8 +530,8 @@ He stepped out of the darkness.
 
 **Passamonte.**
 
-No—
+No.
 
-the Fourth Corpse.
+The Fourth Corpse.
 
 **Chimeries.**

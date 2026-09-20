@@ -1,224 +1,324 @@
 # Chapter 59: The Hunter and the Hunted (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/059.txt` — `c75833db41cf967973b4679cd6e43c9cfb774770`. Recovered English Chapter 58 is the verified aligned secondary witness. Established terminology controls **Aiyen**, **Bakira**, **Ballak Tribe**, **Oxbear**, and **Age of Destruction**. Romantic/body-contact material between the teenage characters is kept non-explicit and non-erotic; animal reproductive context remains clinical.
+> Chinese-primary reconstruction from `source/chinese/chapters/059.txt` — `c75833db41cf967973b4679cd6e43c9cfb774770`. Recovered English Chapter 58 is the verified aligned secondary witness. Established terminology controls **Aiyen**, **Bakira**, **Ballak Tribe**, **Oxbear**, **Cold Valley**, and **Age of Destruction**. Source-level nonsexual narration and dialogue are retained in full; underage sexualized body-contact detail remains safety-limited and is summarized nonsexually.
 
-Aiyen and Vikir followed the weakened male Oxbear carefully.
+Aiyen and Vikir carefully followed the weakened male Oxbear.
 
-The more exhausted an animal became, the more nervous it tended to be.
+The weaker its body became, the more sensitive its nerves grew.
 
-Its loose droppings made its condition obvious.
+Its loose droppings made that much obvious.
 
-“You strike when the target is weakest.”
+“You strike when the target is at its weakest.”
 
-Aiyen coated an arrowhead with frog poison.
+Aiyen said it while coating an arrowhead with frog poison.
 
 Vikir nodded.
 
-When was an enemy most vulnerable?
+When was an enemy at its weakest?
 
 While sleeping.
 
-Especially after several days without proper rest.
+Especially after exhausting itself through several days of mating and almost no proper rest.
 
-Aiyen inspected another trail.
+Aiyen examined the Oxbear's droppings again.
 
-“He's in terrible condition.”
+“Judging by how loose these are, its condition has to be terrible.”
 
-“He'll sleep deeply tonight.”
+“It'll sleep deeply tonight.”
 
-“Of course. Three days without real sleep, and almost all of his reserves are gone. He'll hide somewhere dark and isolated.”
+“Right. It has barely slept for three days, and its strength is almost gone. It'll probably hide somewhere secluded that it normally wouldn't enter.”
 
-The male appeared to understand his own weakness.
+Aiyen was right.
 
-It pushed deeper into tangled forest where there were no paths.
+The male seemed to understand its own condition.
 
-Fallen trees bridged living trunks.
+It pushed through dense woodland and headed deep into a part of the jungle where there was no path.
 
-Red and yellow leaves obscured direction.
+The undergrowth thickened.
 
-Rain could erase an animal trail in half a day.
+Fallen trees lay tangled between standing trunks until the forest became a maze.
 
-Aiyen did not lose it.
+Leaves turning red and yellow made direction harder to judge.
 
-Bent branches.
+After rain, a mountain trail could disappear in half a day.
 
-Flattened grass.
+Tracking should have become nearly impossible.
 
-Depth of prints.
+Aiyen did not lose the trail.
 
-Changes in insect noise.
+The direction of broken branches.
 
-To an experienced hunter, all of them were signs.
+Grass crushed underfoot.
 
-“After an Oxbear passes through, mice and insects stay quiet for a while.”
+The depth of impressions in the soil.
 
-Bakira gave a low sound of agreement.
+Changes in the cries of insects nearby.
 
-The wolf was following another clue as well.
+To an experienced hunter, each one was a signpost.
 
-A sweet fruit with an unusually strong scent had been stuffed into fish that Aiyen and Vikir left for the Oxbears.
+“After an Oxbear passes through, you won't hear mice or insects there for a while.”
 
-Once eaten, traces of the scent lingered on the animal's breath and body.
+As though agreeing, Bakira gave a low growl.
 
-Vikir watched Aiyen's tracking closely.
+The wolf was following another trail as well.
 
-What he knew, he reviewed.
+Aiyen had taken strongly scented fruit and stuffed pieces of it into carp and salmon before throwing the fish to the Oxbears.
 
-What he did not, he memorized.
+Human noses could barely detect the fruit from a distance.
 
-Eventually Aiyen climbed a tree and pointed down the far slope.
+Bakira could.
 
-The male Oxbear stumbled below.
+After the male ate it, traces of the fragrance clung to its breath and followed it whenever it moved.
 
-It looked vulnerable enough to attack immediately.
+Vikir watched Aiyen's tracking from beginning to end.
 
-Aiyen still held back.
+Some methods he knew.
 
-“We postpone.”
+Those became review.
+
+The methods he did not know—
+
+he memorized.
+
+Then Aiyen climbed a tree and pointed toward the forest below a distant hill.
+
+The male Oxbear was there.
+
+It staggered as it walked.
+
+It looked vulnerable enough that they could have rushed it immediately.
+
+Aiyen still refused to become careless.
+
+“We'll have to postpone the hunt.”
 
 “Why?”
 
-“It crossed into the swamp. There are things in there we don't want to meet.”
+Aiyen frowned.
 
-“Things?”
+“It crossed the swamp boundary. Dangerous things live in there. We can't just walk in after it.”
+
+“Dangerous things?”
+
+Vikir was about to ask what she meant.
 
 SLAP!
 
-Both of Aiyen's hands struck Vikir's cheeks.
+Both of Aiyen's palms struck his cheeks almost at once.
 
-He stared at her.
+His face reddened instantly.
 
-She opened one palm.
+Vikir stared at her.
 
-A dead mosquito lay there.
+Aiyen smiled and opened one hand in front of him.
 
-“This.”
+A dead mosquito lay in her palm.
+
+“This kind of thing.”
 
 Bakira growled at the corpse.
 
-Aiyen became serious.
+Aiyen's expression turned serious.
 
-“There are several dangerous mosquitoes in that swamp. Ordinary blood-drinkers aren't the problem. Bone-suckers and flesh-suckers are.”
+“There are three kinds of mosquitoes in that swamp.”
 
-Vikir knew them.
+“One drinks blood. Those aren't the real problem.”
 
-Bone-sucking mosquitoes attacked in swarms.
+“But you have to watch out for the **bone-sucking mosquitoes** and **flesh-sucking mosquitoes**.”
 
-He had seen comrades reduced to empty skins by them in the Age of Destruction.
+Vikir already knew that much.
 
-He understood the warning.
+Among all the mosquitoes of Le Rouge et Le Noir Mountain, the bone-sucking kind was among the worst.
 
-What he did not understand was why Aiyen's other hand was still on his face.
+They attacked moving creatures in swarms.
+
+A living body could be reduced to an empty skin in moments.
+
+Vikir had seen comrades after such attacks during the Age of Destruction.
+
+He understood why Aiyen was serious.
+
+What he did not understand—
+
+was why her other hand was still on his cheek.
 
 “Are you going to let go?”
 
-She blinked.
+Aiyen blinked.
 
 “Do I have to?”
 
-Then she pinched his cheek.
+Then, without shame, she pinched his cheek.
+
+Vikir frowned.
+
+“What are you doing?”
 
 “I'm the master. Is there a problem with touching my own property?”
 
-Vikir opened his mouth in disbelief.
+Vikir stared at her in disbelief.
 
-His body was still too damaged to make resistance worthwhile.
+With his body still unrecovered, resisting her physically was pointless.
 
-Aiyen squeezed once more.
+Aiyen pinched his cheek once more.
 
 “Soft.”
 
-Vikir endured it.
+Vikir endured the indignity.
 
 ◆◆◆
 
-That night, Aiyen camped on a cliff overlooking the Oxbear's hiding place.
+That night—
 
-“We strike at dawn.”
+Aiyen made camp on a cliff overlooking the burrow the male Oxbear had entered.
+
+“We attack at dawn.”
 
 Oxbears were nocturnal.
 
-Fighting now favored the monster.
+Fighting one at night would favor the monster.
 
-Attacking after sunrise, when it settled into sleep, was wiser.
+Once the sun rose and it fell into deep sleep—
 
-Aiyen and Vikir built a small shelter on solid rock.
+that would be their best chance.
 
-Branches, hide, and broad leaves were enough.
+Aiyen and Vikir built a simple shelter on hard, rocky ground.
 
-Their breath turned white.
+A few branches.
 
-Ballak called the area **Cold Valley**.
+A hide cloth.
 
-Even in May, snow sometimes remained.
+Broad leaves.
 
-“Too cold for mosquitoes,” Aiyen said.
+Enough space for two or three people.
 
-That alone made it useful.
+Their breath became white mist.
 
-They entered the tent.
+Ballak called this place **Cold Valley**.
 
-Aiyen had already dug a shallow fire pit and filled it with dry leaves and wood.
+Even in May, snow remained in parts of it.
 
-A small flame warmed the cramped interior.
+The ground was poor.
 
-Cold radiated from every side the fire did not reach.
+Trees could not grow tall.
 
-Vikir watched the flames.
+Those that fell left low brush and stubborn weeds behind.
 
-Faces from the Age of Destruction came back to him.
+Short thorny shrubs formed natural barriers that made it harder for large beasts to enter.
 
-Friends.
+As long as a traveler survived the cold—
+
+it was a good place to spend the night.
+
+“It's too cold here for mosquitoes,” Aiyen said.
+
+She entered the shelter and lay down.
+
+Then she lifted the hide flap toward Vikir.
+
+“Come in.”
+
+Vikir was silent for a moment.
+
+He checked the terrain once more.
+
+Then—
+
+RUSTLE.
+
+He entered.
+
+Aiyen had dug a shallow pit and filled it with dry leaves and wood.
+
+WHOOSH.
+
+A small flame rose.
+
+The shelter trapped enough heat to warm the cramped space.
+
+Cold Valley lived up to its name after sunset.
+
+The side of Vikir facing the fire felt hot.
+
+His back—
+
+head—
+
+legs—
+
+and toes—
+
+remained bitterly cold.
+
+He watched the flame.
+
+Faces came back to him.
+
+Friends from the Age of Destruction.
 
 Comrades.
 
-People who had once been close enough to meet whenever he wanted—
+People he had once been able to meet whenever he wished.
 
-and who now did not exist in this time.
+People who, in this life, no longer existed in the same way.
 
-Outside, dead trees appeared and vanished through the drifting night fog like pale bones.
+Outside the shelter, pale dead trees appeared and vanished through the drifting haze like human bones.
 
-A sound interrupted his thoughts.
+Vikir remained lost in thought until a sharp sound broke the silence.
 
-Aiyen had a skin of strong liquor.
+Aiyen was beside Bakira, drinking strong liquor from a skin.
 
-She ate smoked jerky coated in white fat with it.
+Even the smell revealed how potent it was.
 
-Then she looked at Vikir.
+She took out smoked jerky coated in white fat and used it as both drinking food and a late meal.
 
-“You should eat. It'll help.”
+It looked almost like bread spread with butter.
+
+Its taste and calories were another matter entirely.
+
+After a moment, Aiyen looked toward Vikir.
+
+“You should eat too. It'll help your body.”
 
 “I don't have jerky.”
 
-“That's what a master is for. I brought your share.”
+She waved the concern away.
 
-Vikir glanced at the pouch.
+“Why worry about that? Looking after a slave is the master's job. I prepared some for you.”
 
-There had been only one piece.
+Vikir tilted his head.
 
-Aiyen had already put it in her own mouth.
+There had only been one piece in her pouch.
+
+And she had already put it in her own mouth.
 
 Before he could ask—
 
-she briefly pressed her mouth to his and transferred a mouthful of liquor and softened jerky.
+Aiyen grabbed his cheeks and leaned in.
 
-Vikir swallowed reflexively.
+She briefly transferred softened jerky and liquor to him mouth-to-mouth.
 
-Aiyen pulled back.
+Vikir swallowed the sudden mouthful.
 
-“You can't chew it properly with your jaw like that. It's too tough.”
+Aiyen pulled back and wiped her chin with the back of her hand.
 
-“Apparently.”
+“You can't chew that jerky properly in your condition. It's too tough.”
 
-Even after softening, the jerky took effort to chew.
+“……Apparently.”
 
-Since Ahun's beating, Vikir had managed little besides soft food and fruit.
+She was right.
 
-At least this provided calories.
+Even softened, it was tough enough that he had to use mana just to chew it comfortably.
 
-The tent was cramped, and Aiyen ended up partly pinning him while shifting around the fire.
+Since Ahun's beating, Vikir had been able to eat little besides soft fruit and similar food.
 
-“You can't even push me off right now.”
+At least this gave him real calories.
+
+The shelter was narrow.
+
+As Aiyen shifted in the cramped space, she ended up pinning him partly beneath her.
+
+“You can't even push me off?”
 
 “Because you're heavy.”
 
@@ -230,62 +330,98 @@ The tent was cramped, and Aiyen ended up partly pinning him while shifting aroun
 
 “You are.”
 
-Aiyen considered that.
+Aiyen stopped and considered the problem with surprising seriousness.
 
-“I'm not heavy. You're weak.”
+Then she smiled.
 
-She seemed satisfied with the distinction.
+“I'm not heavy. You're just weak.”
 
-Vikir stopped arguing.
+Vikir gave up on the argument.
+
+Maybe it was the language difference.
+
+Maybe it was simply Aiyen.
+
+Either way, he could not follow her mood.
 
 *Recover first.*
 
-Once his body returned to normal, leaving Ballak territory would become much simpler.
+That was the priority.
 
-Recovery required sleep.
+Once his strength returned, he would no longer be helpless in someone else's hands.
+
+He could overpower Aiyen if necessary and leave the jungle.
+
+The fastest way to recover was sleep.
 
 Vikir closed his eyes.
 
-Aiyen tried to rearrange their positions to share warmth in the freezing tent.
+Aiyen tried to rearrange their positions to share warmth against the Cold Valley night.
 
-By the time she had finished moving—
+Before she had even settled—
 
-Vikir was already asleep.
+Vikir was asleep.
 
-He could fall asleep in less than a second when necessary, another habit carved into him during the Age of Destruction.
+Less than a second after lying down.
 
-Aiyen stared at him.
+The ability to fall asleep instantly was another habit carved into him during the Age of Destruction.
 
-“……Seriously?”
+Aiyen stared.
 
-She moved aside, wrapped herself against the cold, and complained quietly about her insensitive slave.
+“……You actually fell asleep?”
 
-Bakira watched her.
+Vikir answered with a quiet snore.
 
-“What are you looking at?”
+Aiyen puffed out her cheeks.
 
-GRRR—
+She moved off him and lay down beside him, then turned away sharply and folded her arms against herself for warmth.
 
-“I was cold. That's all.”
+“Hmph.”
 
-Then—
+“What an insolent slave.”
 
-Vikir shot upright.
+“You don't understand your master's consideration at all.”
 
-Aiyen and Bakira both flinched.
+Bakira lay nearby and watched her.
 
-“You weren't asleep?”
+The wolf's expression looked almost disappointed.
 
-Vikir spoke before she could continue.
+Aiyen glared back.
+
+“What?”
+
+“Why are you looking at me like that?”
+
+GRRRR—
+
+“What!”
+
+“I was cold!”
+
+“That was all!”
+
+While Aiyen argued with Bakira—
+
+Vikir suddenly sat upright.
+
+The movement was so abrupt that both of them jumped.
+
+Aiyen started to speak.
+
+“Y-you weren't asleep—”
+
+Vikir cut her off.
 
 “It's here.”
 
-His senses had caught something.
+His senses had caught something before either of theirs.
 
-Aiyen's expression hardened.
+Aiyen's expression hardened immediately.
 
 Bakira rose.
 
-A roar tore through the night.
+Then a roar of unknown origin ripped through the night.
 
-The male Oxbear had decided to attack first.
+GRRRRRAAAAH!
+
+The male Oxbear had attacked first.

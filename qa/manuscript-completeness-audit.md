@@ -1,7 +1,7 @@
 # Post-500 Manuscript Completeness Audit
 
 **Opened:** 2026-09-20  
-**Status:** ACTIVE  
+**Status:** COMPLETE  
 **Target manuscript files present:** 500 / 500  
 **Historical tracker state before audit:** 500 / 500 accepted  
 **Confirmed rework as of opening audit:** Chapters 97, 316, 319, 420
@@ -10,7 +10,7 @@
 
 The 500 target manuscript files do exist, but a deterministic size scan exposed unusually compressed English drafts. Byte ratio is only a triage signal because Chinese UTF-8 and English encode differently, but the lowest-ratio chapters were suspicious enough to require direct raw comparison.
 
-Direct reads confirmed that Chapters **97, 316, 319, and 420** originally preserved the broad plot while omitting substantial sentence-level narration, dialogue, descriptive detail, and transitions from their Chinese raws. Chapters **97, 316, and 319 have since been fully rebuilt and re-accepted**. Chapter **420** remains the sole unresolved confirmed failure.
+Direct reads confirmed that Chapters **97, 316, 319, and 420** originally preserved the broad plot while omitting substantial sentence-level narration, dialogue, descriptive detail, and transitions from their Chinese raws. All four were rebuilt and re-accepted during the priority-family pass. A later whole-corpus residual pass then found one additional completeness failure above the original cutoff: **Chapter 59**, which was likewise rebuilt and re-bound.
 
 Representative example: Chapter 316 is **3,220 draft bytes vs 10,102 Chinese-raw bytes (0.319)**. The raw contains extended dialogue and narrative beats that the draft collapses into short bullet-like fragments. Chapter 319 (0.332), Chapter 420 (0.348), and Chapter 97 (0.389) show the same pattern on direct inspection.
 
@@ -74,7 +74,7 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 419 | Goodbye, Nouvelle Vague (1) | 4378 | 7445 | 0.588 | REBUILT — PASS |
 | 420 | Goodbye, Nouvelle Vague (2) | 4622 | 13293 | 0.348 | REBUILT — PASS |
 | 421 | Goodbye, Nouvelle Vague (3) | 5096 | 10793 | 0.472 | REBUILT — PASS |
-| 431 | The Lion King (2) | 3760 | 8319 | 0.452 | priority review |
+| 431 | The Lion King (2) | 3760 | 8319 | 0.452 | REBUILT — PASS |
 
 ## Completed family reviews
 
@@ -84,7 +84,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** Attack Land (190–196).
 
 ### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
@@ -93,7 +93,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
 
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
 
 ### Madam Eight-Legs — Chapters 95–100 — REBUILT / PASS
@@ -104,7 +104,7 @@ Repairs include the full Ballak-village/altar sequence, scoped E94 restoration f
 
 **Chapter97 confirmed failure: RESOLVED.**  
 **Current unresolved confirmed failures:** 420.  
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** Attack Land (190–196).
 
 ### Nostalgia — Chapters 101–104 — REBUILT / PASS
@@ -113,7 +113,7 @@ All four historical drafts were materially compressed and have been rebuilt. The
 
 Restored material includes the full Bog Salamander impact mechanics, Madam's death/karma and Beelzebub slot struggle, Aiyen's three-day rescue and the >4,000-person tribal gathering, Peak Sword Graduator/Seventh Fang analysis, Bakira husbandry sequence, Ballak's no-goodbye philosophy, complete multi-tribe farewell, Camus/Colosseo recollection, and Aiyen's Anubis/collar/farewell sequence.
 
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** Attack Land (190–196), containing priority targets 192 and 196.
 
 ### Attack Land — Chapters 190–196 — REBUILT / PASS
@@ -122,13 +122,13 @@ All seven historical drafts were materially compressed, not only priority target
 
 Verified raw repairs remain explicit: C192's endpoint name slip resolves to **Pigi**, and C193's isolated department-label drift does not move Pigi out of **Cold Department Class B**.
 
-**Pending initial priority queue:** 1 chapter (down from 47).
+**Pending initial priority queue:** 0 chapters (down from 47).
 
 ### Tuition — Chapters 225–233 — REBUILT / PASS
 
 All nine historical drafts were materially compressed, not only priority targets 225, 228, 230, and 231. The rebuild restores the newspaper/tuition setup, financial-security reasoning, Sherpa/MiniPin recruitment arc, repeated home intrusions, Gnoll colony extermination, Poison Gnoll and hidden-bank-gold sequence, full Ms. Ouroboros encounter, appraisal/recruitment details, Thrifty Bazaar economics, and the anonymous Peri Award scholarship donation.
 
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** National University League (236–244), containing priority target 242.
 
 ### National University League — Chapters 236–244 — REBUILT / PASS
@@ -137,14 +137,14 @@ All nine historical drafts were materially compressed, not only priority target 
 
 Progression guards remain intact: Bakilaga's prior public level is peak Sword Expert with current Sword Graduator only rumored; Eighth Fang remains future setup; Vikir/Bakilaga has no pin or declared winner.
 
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** Underdogma (321–325).
 
 ### Hell Tree — Chapters 307–313 — REBUILT / PASS
 
 All seven historical drafts were materially compressed and all seven were initial-priority targets. The rebuild restores the exterior rescue crisis and inverted-tree lore; Amdusias tower / Level System mechanics; acid-vomit stat-candy recovery; corrupted Colosseo and scent-bait setup; exact 108 students / 108 Hell Hounds / 108 minutes mission; Granola betrayal/rescue; B+ Hell Hound pack clear; Sabik-ginkgo strategy; A+ Cerberus Bonus Stage; exact 230/219/244 candy spike; project-canonical Immortality — Gargoyle (S) regeneration; Physical Resistance unlock; Fairy Candy Shop; deliberate Level1 reward exploitation; and the 69-survivor Floor3 transition.
 
-**Pending initial priority queue:** 1 chapter (down from 47).  
+**Pending initial priority queue:** 0 chapters (down from 47).  
 **Next family:** Underdogma (321–325).
 
 ### Surplus Man — Chapters 314–320 — REBUILT / PASS
@@ -153,28 +153,28 @@ All seven historical drafts were materially compressed; all seven were initial-p
 
 **Current tracker state:** 499 accepted / 1 confirmed needs rework.  
 **Current unresolved confirmed failures:** none.  
-**Pending initial priority queue:** 1 chapter.  
+**Pending initial priority queue:** 0 chapters.  
 **Next family:** Underdogma (321–325).
 
 ### Underdogma — Chapters 321–325 — REBUILT / PASS
 
 All five historical drafts were materially compressed and all five were initial-priority targets. The rebuild restores Black Sea no-buoyancy mechanics, fungal-sand/world-fragment ecology, Hell Tree sap limits, Dogma/Commoner-Faction chronology, chained-triplet abuse and survival logic, Dogma's Dolores/grievance history, Vikir's demonization analysis, Beetleman encounter and Giant Beetle Island lore, Dogma's sap-driven Majin transformation, dual mission state, full A+ Underdogma fight, reverse Candy Shop exchange, Conversion Bug losses, and final **Magic Resistance +1** sixth-stat unlock.
 
-**Pending initial priority queue:** 1 chapter.  
+**Pending initial priority queue:** 0 chapters.  
 **Next family:** The Shadowless King of the Black Sea (326–330), containing priority target 328.
 
 ### The Shadowless King of the Black Sea — Chapters 326–330 — REBUILT / PASS
 
 All five historical drafts were materially compressed, not only priority target 328. The rebuild restores six-stat/Level1 reward logic, Fire of Inferiority — Blaze, Beetlemen ship construction and salvage, Black Sea dive mechanics, the independent S-rank Shadowless King profile, canonical Beelzebub slots, Starvation Drought anti-regeneration, Daylily-seed buoyancy, timed oil-paper-bag dissolution, story-world pressure-ascent damage, Beetlemen ship propulsion, field-knot gas-sac clustering, Baby Madam silk extraction, Bianca's tactical precedent, and separate A+ Majin / S-rank achievement notices.
 
-**Pending initial priority queue:** 1 chapter.  
+**Pending initial priority queue:** 0 chapters.  
 **Next family:** The Mating Room (333–338), containing priority targets 333 and 334.
 
 ### The Mating Room — Chapters 333–338 — REBUILT / PASS
 
 All six historical drafts were materially compressed, with the strongest losses in initial-priority targets 333–334. The rebuild restores the Floor4→Floor9 skip, full Dragon Majin laboratory/specimen-room worldbuilding, three-stage coercive enclosure mechanics, Giant Mantis demonstration, temperature/hypothermia pressure, complete Floor5 friendship-game mission, Return Scroll logic, Sinclaire's Bourgeois/Bartolomeo memory, clinically framed hypothermia treatment, blue-mist escalation, exact 300/300/300 stat state, rain-apparatus sabotage, source-timed Night Hound reveal, enclosure escape, Lost Paradise gate, and forced Sinclaire rescue.
 
-**Pending initial priority queue:** 1 chapter.  
+**Pending initial priority queue:** 0 chapters.  
 **Next family:** Goodbye, Nouvelle Vague (419–421), containing priority targets 419–421 and confirmed failure 420.
 
 ### Goodbye, Nouvelle Vague — Chapters 419–421 — REBUILT / PASS
@@ -182,8 +182,19 @@ All six historical drafts were materially compressed, with the strongest losses 
 All three chapters were re-audited and rebuilt for complete coverage. Chapter **420**, the final confirmed completeness failure, is fully resolved. The family rebuild restores the Level-Five escape route and Current3021 logic, Rain of Fear memory, source-gap-safe Garam/Kirko exchange, deep-sea Marquis de Sade/Sadi hitch sequence, Orca's killer-whale advantages, ten-thousand-meter combat, deliberate Aiyen/Sadi separation, exact Gate of Good and Evil dimensions/impact, volcanic uncorking, Gate+Wailing Wall ascent shell, original-timeline Orca/Sade/Poseidon history, and canonical Gargoyle regeneration.
 
 **Current tracker:** 500 accepted / 0 needs rework.  
-**Pending initial priority queue:** 1 chapter.  
+**Pending initial priority queue:** 0 chapters.  
 **Next/final priority family:** The Lion King (430–433), containing target431.
+
+### The Lion King — Chapters 430–433 — REBUILT / PASS
+
+All four historical drafts were materially compressed, not only final priority target 431. The rebuild restores the coastal anomaly/civilian-fear setup, secret Donquixote infiltration, fully demonized guards, Cervantes's self-sacrifice before possession, advanced Red Death/Leviathan toxin continuity, Gungnir succession, Chimeries's decade-long replacement-body plan, recklessness authority, Amdusias S+ remnant logic, Hell-Tree mental trap, Vikir's inner-world landscape, and the inner-world-only Vikir endpoint.
+
+**Final initial-priority target 431: RESOLVED.**  
+**Original priority queue:** 47 / 47 resolved.  
+**Strong-suspect queue:** 22 / 22 resolved.  
+**Confirmed needs rework:** none.  
+**Current tracker:** 500 accepted / 0 needs rework.  
+**Completeness audit:** COMPLETE.
 
 ## Confirmed failures
 
@@ -199,7 +210,7 @@ Historical draft was confirmed summary-compressed. The complete Surplus Man fami
 Historical draft was confirmed summary-compressed. The complete Surplus Man family (314–320) was rebuilt on 2026-09-20; Chapter319 now restores the full Daylily fight, pooled nonlethal biological bait preparation, reward sequence, and connective narration and is accepted again.
 
 ### Chapter 420 — Goodbye, Nouvelle Vague (2) — RESOLVED
-Historical draft was confirmed summary-compressed and has now been fully rebuilt against Chinese source coverage. The draft preserves the major escape/fight beats but omits substantial source-level dialogue, action detail, and connective narration.
+Historical draft was confirmed summary-compressed and has now been fully rebuilt against Chinese source coverage. The rebuilt version restores the omitted dialogue, action detail, and connective narration while preserving the source boundary and terminology guards.
 
 ## Audit rules going forward
 
@@ -231,3 +242,79 @@ Start from the earliest flagged family and proceed in target order:
 - The Lion King — 430–433
 
 After priority families, run a whole-corpus completeness pass so chapters above the size threshold are not assumed safe.
+
+## Whole-corpus residual pass
+
+After the original 47-chapter priority queue and 22 strong-suspect queue were cleared, the audit did **not** close immediately. A fresh post-rebuild size scan was run across the ordinary one-target Chinese containers.
+
+### Residual scan result
+
+- Ordinary one-target raw/draft pairs compared: **484**
+- Post-rebuild median draft/raw byte ratio: **~0.904**
+- Unresolved ordinary chapters below the original **0.60** trigger: **0**
+- Expanded low-tail review threshold: **<0.70** (triage only)
+- Expanded low-tail chapters: **28**
+- Title families represented: **15**
+
+The 28 expanded low-tail chapters were:
+
+`57, 59, 64, 65, 66, 67, 70, 77, 80, 81, 136, 176, 181, 211, 213, 214, 220, 300, 301, 331, 409, 422, 423, 424, 443, 445, 446, 448`.
+
+Review used multiple signals rather than byte ratio alone:
+
+1. raw/draft structural retention;
+2. paragraph-level coverage against the verified aligned English witness where available;
+3. existing title-family boundary/QA records;
+4. direct Chinese reads for suspicious outliers.
+
+### New residual failure: Chapter 59 — RESOLVED
+
+The expanded pass found that **Chapter 59 — The Hunter and the Hunted (5)** was materially compressed even though its historical byte ratio (**0.625**) sat above the original 0.60 trigger.
+
+Direct C059 comparison showed ordinary source material had been collapsed around:
+
+- tracking cues and rain-erased trail logic;
+- scented-fruit bait / Bakira smell tracking;
+- the exact swamp mosquito categories and prior casualty context;
+- Cold Valley terrain, shelter construction, and temperature detail;
+- Vikir's Age-of-Destruction memories and near-instant sleep habit;
+- the jerky/liquor feeding setup, weight banter, Bakira exchange, and attack transition.
+
+Chapter 59 was rebuilt and re-QA'd on 2026-09-20. Its Hunter-and-Hunted family QA plus provenance/acceptance chain for Chapters 55–60 were rebound to fresh hashes. Underage sexualized body-contact detail remains safety-limited and summarized nonsexually; ordinary narrative, plot, survival, and continuity information is restored.
+
+Post-rebuild, only **1 / 132** aligned E58 paragraphs fell below the conservative lexical-overlap floor used as a secondary coverage detector (**0.8%**), consistent with paraphrase rather than missing content.
+
+### Residual families revalidated
+
+The remaining low-tail families were revalidated and did not produce additional completeness failures:
+
+- Unfair Trade (64–67)
+- Blood Relatives (68–71)
+- The Hound of the Night (75–77)
+- The Saintess (78–82)
+- Test Your Skills (133–138)
+- The 99 Hits With 100 Shots (176–178)
+- Midterm Random Defense (179–185)
+- Festival Night (206–215)
+- That Day, Him and Me (220–224)
+- The Age of the Warmonger (299–306)
+- Draw (331–332)
+- End game (409–418)
+- How to Become a Wandering Knight (422–424)
+- The Fall of Usher (441–449)
+
+Direct reads of the strongest mismatch cases confirmed that their low ratios or low lexical overlap came from encoding/prose style/heavy rephrasing rather than missing source sequence coverage.
+
+**Residual pass result:** **PASS — no unresolved completeness failures remain.**
+
+## Audit completion
+
+The post-500 manuscript completeness audit is **COMPLETE** as of 2026-09-20.
+
+- Initial priority queue: **47 / 47 resolved**.
+- Strong-suspect queue: **22 / 22 resolved**.
+- Original confirmed completeness failures resolved: **97, 316, 319, 420**.
+- Additional residual failure found and resolved: **59**.
+- Whole-corpus residual low-tail pass: **COMPLETE**.
+- Current tracker: **500 accepted / 0 needs rework**.
+- No unresolved completeness failures remain.

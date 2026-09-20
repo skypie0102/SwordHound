@@ -1,129 +1,188 @@
 # Chapter 433: The Lion King (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/433.txt`. Recovered English Chapter 431 is the verified shifted secondary witness. Established project terminology controls Amdusias, Fifth Corpse, Hell Tree, Chimeries, Passamonte, Vikir Van Baskerville, Hugo Le Baskerville, Osiris Le Baskerville, Dolores, Tudor, Sancho, Pigi, Bianca, Sinclaire, and the Ten Corpses. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/433.txt`. Recovered English Chapter 431 is the verified shifted secondary witness. Established project terminology controls **Amdusias**, **Fifth Corpse**, **Hell Tree**, **Chimeries**, **Passamonte**, **Vikir Van Baskerville**, **Hugo Le Baskerville**, **Osiris Le Baskerville**, **Dolores**, **Tudor**, **Sancho**, **Pigi**, **Bianca**, **Sinclaire**, and the **Ten Corpses**. The Vikir figure at the endpoint exists inside the copied mental world and is not a physical-return claim.
 
 RUMBLE—
 
-A massive horse’s head emerged through the broken floor.
+The floor opened.
 
-Its body—
+From the darkness—
 
-black bark and twisted wood.
+a giant horse's head.
 
-Every former Colosseo student recognized it.
+Then a body—
 
-**<‘Fifth Corpse’ Amdusias>**
+black bark.
 
-**Danger Rating:** S+  
-**Size:** ?  
-**Discovery Location:** Deep within the Gate of Destruction, ‘Serpent’s Womb’  
-**Alias:** ‘Fifth Corpse’
+Twisted wood.
 
-A natural enemy of humanity.
+Knight and horse.
 
-One of ten incomprehensible calamities.
+Normally—
 
-**“The newborn lives of that year shall be reaped.”**
+nothing strange.
 
-**—『The Decalogue』 10:Upper—**
+But every former Colosseo student recognized **this** horse.
 
-Amdusias.
+Impossible to forget.
+
+> **<‘Fifth Corpse’ Amdusias>**
+>
+> **Danger Rating:** **S+**  
+> **Size:** ?  
+> **Discovery Location:** Deep within the Gate of Destruction — *Serpent's Womb*
+>
+> **Alias:** *Fifth Corpse*
+>
+> One of the ten calamities called incomprehensible and unkillable.
+>
+> **“The newborn lives of that year shall be reaped.”**
+>
+> — *The Decalogue*, 10:Upper
 
 The Hell Unicorn.
 
-The Fifth Corpse.
+**Amdusias.**
 
-The giant demonic horse opened its mouth and roared.
+Fifth Corpse.
 
-“H-how?!”
+The giant demonic horse roared.
+
+Tudor's face went white.
+
+“H-how?”
 
 “Vikir killed that thing!”
 
-Tudor and Bianca shouted together.
+Bianca's voice overlapped his.
 
 Passamonte laughed.
 
-“It isn’t the real one.”
+“Not the real one.”
 
-“Only a remnant thought-fragment.”
+“This is only a remnant thought-fragment.”
 
-“Amdusias shattered into many pieces after death.”
+“Amdusias shattered when he died.”
 
-“I happened to obtain one of the larger fragments.”
+“Many pieces scattered.”
 
-“It cannot reproduce the original’s full power.”
+“I found one of the larger fragments.”
 
-“But some abilities remain.”
+He stroked the ruined demon's back.
 
-Passamonte mounted the horse.
+“It cannot reproduce the original power.”
 
-“Amdusias was always a beast I wanted to tame.”
+“But some authorities remain.”
 
-“What greater honor than riding a demon of equal rank?”
+Passamonte climbed onto the horse.
 
-“And I owe the opportunity to you.”
+“Amdusias was always a magnificent beast.”
 
-“Die!”
+“I wanted to tame him.”
 
-Tudor thrust Gungnir.
+“What could be more glorious—”
 
-Passamonte only grinned.
+“than riding a beast-form demon of equal rank?”
+
+He smiled.
+
+“And I owe this opportunity to you.”
+
+Tudor raised Gungnir.
+
+“Die, demon!”
+
+Passamonte grinned.
 
 “A good horse.”
 
 “A good weapon.”
 
-“And soon—
+“And soon—”
 
-a good body.”
+“a good body.”
 
 “Tudor.”
 
-“Recklessness really is the privilege of youth.”
+“Recklessness is the privilege of youth.”
 
-Bark tendrils rose from Amdusias’s body.
+“How I wish your judgment matured as quickly as your courage.”
 
-Everyone recognized those too.
+Then—
 
-“…Hell Tree roots.”
+RUSTLE.
 
-Dolores’s face drained of color.
+The bark around Amdusias rose.
 
-The fragment still carried part of Amdusias’s plant-manipulation authority.
+Not ordinary bark.
 
-Only a few roots remained.
+Tendrils.
 
-That was enough.
+Roots.
 
-Enough to rebuild an inner-world trap.
+Everyone knew them.
 
-Passamonte spoke softly.
+Dolores recoiled.
+
+“…Hell Tree.”
+
+Amdusias's remnant still held part of the old plant authority.
+
+Only fragments.
+
+Residual roots.
+
+But enough.
+
+Enough to recreate an inner-world trap.
+
+Passamonte's voice became almost gentle.
 
 “The Hell Tree is perfect for breaking the mind.”
 
-“Perfect for taking a body without damaging it.”
+“Perfect for taking a body without leaving wounds.”
 
-“You know that better than most.”
+“You experienced it before.”
 
-The roots spread.
+“You should understand.”
 
-Wrapped around the Night Walkers.
+Roots surged.
 
-Then pulled.
+Wrapped around every Night Walker.
+
+Dolores.
+
+Tudor.
+
+Sancho.
+
+Pigi.
+
+Bianca.
+
+Sinclaire.
+
+Then—
+
+pulled.
 
 Down.
 
-Into darkness.
+Into a deep mental abyss.
 
-“Now I understand why Amdusias loved ripened souls so much.”
+Passamonte whispered after them.
 
-Passamonte’s voice followed them.
+“Now I understand why Amdusias was so obsessed with souls ripened inside that tree.”
 
 “Let them mature slowly.”
 
-“Take them just before they rot.”
+“Until they are weakest.”
 
-“Fruit is sweetest then.”
+“Then harvest.”
+
+“Fruit is sweetest just before it rots.”
+
+His laughter echoed.
 
 ◆◆◆
 
@@ -131,19 +190,21 @@ Passamonte’s voice followed them.
 
 Tudor opened his eyes.
 
-Black cracked earth.
+Head aching.
 
-Dead trees.
+Cracked earth.
+
+Nothing growing.
 
 Dark-red sky.
 
-Smoke.
+They were inside an inner-world space—
 
-Fire.
+like the Hell Tree's old mental domain.
 
-A desolate world.
+At least—
 
-The others woke nearby.
+the others were nearby.
 
 Dolores.
 
@@ -155,183 +216,303 @@ Bianca.
 
 Sinclaire.
 
-At least they had not been separated.
+Not separated.
 
 “Where are we?”
 
-The environment felt worse than the Hell Tree they remembered.
+Black ground—
 
-No green.
+dry and split.
 
-No water.
+Dead trees.
 
-Nothing alive.
+Burning land.
+
+Smoke covering the horizon.
+
+Everyone had experienced Amdusias's mental-space traps before.
+
+But never one this hostile from the first instant.
 
 Through the smoke—
 
-they saw a weathered stone statue.
+a statue.
+
+Large.
+
+Weathered.
+
+Many pieces broken.
 
 Bianca narrowed her eyes.
 
-“That’s Baskerville.”
+“That crest…”
 
-“Hugo Le Baskerville.”
+“Baskerville.”
 
-“And Osiris Le Baskerville.”
+The remaining faces on the statue—
 
-Everyone understood.
+recognizable.
 
-“This is connected to Vikir.”
+“Marquis **Hugo Le Baskerville**.”
 
-Tudor stared across the wasteland.
+“And **Osiris Le Baskerville**.”
 
-“Could this be—
+Silence.
 
-his inner world?”
+Tudor looked around.
 
-Years ago—
+“This place…”
 
-Vikir had fought Amdusias inside a visualized mental world.
+“Is it connected to Vikir?”
 
-He had later described it.
+Years earlier—
+
+Vikir had gone alone to fight Amdusias.
+
+Inside an inner world.
+
+Later—
+
+he described what he had seen.
 
 Burned forests.
 
-Dead soil.
+Dried land.
 
-Skeletons.
+Dead insects.
 
-Five immense mountains.
+Animal skeletons.
 
-The same landscape stood before them.
+Five enormous mountains.
 
-And there was more.
+The same scene.
+
+Those mountains—
+
+everyone instinctively understood—
+
+were burdens.
+
+Responsibilities.
+
+Weight Vikir carried inside himself.
+
+But there was more.
 
 A mountain of corpses.
 
 A sea of blood.
 
-Human and demon bodies fused into valleys.
+Human bodies.
 
-Bone hills.
+Demon bodies.
 
-Blood rivers.
+Interlocked.
 
-Boiling lava.
+Hills.
+
+Valleys.
+
+Canyons.
+
+Bone piled like rock.
+
+Blood flowing as rivers.
+
+Lakes.
+
+Oceans.
+
+Magma.
 
 Sulfur.
 
-Monsters tearing at the dead.
+Hungry monsters tearing at corpses.
 
-Endless screams.
+Grief.
 
-Dolores slowly covered her mouth.
+Screaming.
+
+A landscape beyond ordinary horror.
+
+Dolores looked across it—
+
+eyes heavy with sadness.
 
 “…What kind of world did Vikir live through?”
 
-Nobody answered.
+No one answered.
 
 Tudor stared.
 
-Bianca stared.
+Bianca.
 
 Sancho.
 
 Pigi.
 
-Sinclaire.
+All speechless.
 
-All of them saw the same thing.
+“How could a human see something like this?”
 
-A life so brutal that even imagining it hurt.
+“We always knew he wasn't ordinary…”
 
-Then footsteps approached.
+“But what was he?”
 
-A decrepit horse.
+“If someone grew up with this inside them…”
 
-Thin.
+“no wonder he became so cold.”
 
-Broken.
+“…Vikir.”
 
-Almost like an old donkey.
+Sinclaire said nothing.
 
-Dolores recognized it first.
+Only looked.
+
+Then—
+
+footsteps.
+
+Slow.
+
+Dragging.
+
+Across the burning horizon—
+
+a horse approached.
+
+Not the giant demon they remembered.
+
+An old.
+
+Exhausted.
+
+Broken animal.
+
+Almost a dying donkey.
+
+Dolores's eyes widened.
 
 “Amdusias.”
 
-Tudor pointed Gungnir.
+The **Fifth Corpse**—
 
-“Stop.”
+reduced to this.
+
+Tudor raised Gungnir.
+
+“Stop!”
 
 THUD.
 
-The horse collapsed immediately.
+Amdusias collapsed before the spear even touched him.
 
 Tudor blinked.
 
-“I didn’t even touch it!”
+“I didn't do anything!”
 
-The thought-fragment lifted its head weakly.
+Bianca gave him a sideways look.
+
+Dolores knelt.
+
+Examined the fragment.
+
+This was not the full remnant Chimeries had mounted.
+
+Only one tiny thought-shard among many.
+
+Barely alive.
+
+It lifted its head.
 
 Blood tears ran down its face.
 
 […Run.]
 
-Everyone froze.
+Everyone stared.
 
 […The monster is coming.]
 
-“What?”
+“What monster?”
 
-Amdusias laughed brokenly.
+Amdusias laughed weakly.
 
-[…This is the domain of the monster who destroyed the Hell Tree and trapped me inside his own mind.]
+[…This is the domain of the monster who destroyed the Hell Tree…]
 
-[…I don’t know how you entered.]
+[…and imprisoned it inside his own mind.]
 
-[…But leave quickly.]
+[…I don't know how you entered.]
 
-[…His inner world is so barren—
+[…But leave.]
 
-so ruined—
+[…His inner world is so barren…]
 
-that even demons lose their minds after staying here too long…]
+[…so broken…]
+
+[…that even demons lose their minds if they remain too long…]
 
 […Hehehe…]
 
 […Hehehehehe…]
 
-The fragment dissolved into black powder.
+The fragment dissolved.
 
-Silence returned.
+Black powder scattered into the wind.
 
 Tudor looked around.
 
 “…So.”
 
-“We’re trapped inside a Hell Tree fragment that copied Vikir’s mental world.”
+“Chimeries used Amdusias's remnant to recreate a Hell Tree mental prison.”
 
-“And Chimeries is using the Fifth Corpse’s remaining power to keep us here.”
+“But the copied world is based on Vikir's own inner world.”
 
 Dolores nodded.
 
-“Fourth and Fifth Corpse abilities combined.”
+“Fourth-Corpse authority plus Fifth-Corpse remnants.”
 
-“The priority is escape.”
+“Whatever the exact mechanism—”
 
-Passamonte intended to break their minds slowly—
+“we escape first.”
 
-then take Tudor’s body.
+Passamonte intended to break their minds slowly.
 
-But if this environment destroyed demons—
+Then take Tudor's body.
 
-humans would not last long either.
+But the warning had been worse than expected.
 
-Tudor wiped sweat from his face.
+A place—
 
-“What kind of life did Vikir live?”
+so damaged—
 
-The question lingered.
+even demons mentally collapsed inside it.
+
+Humans had even less time.
+
+Tudor wiped cold sweat from his forehead.
+
+“Damn.”
+
+“And we can't solve a mental world by simply killing ourselves.”
+
+“If our minds fail…”
+
+“Passamonte gets the body.”
+
+He looked around.
+
+Red.
+
+Black.
+
+Blood.
+
+Fire.
+
+*What did Vikir live through?*
+
+The same thought entered all of them.
 
 Then—
 
@@ -339,42 +520,58 @@ Then—
 
 Every body froze.
 
-Not in fear.
+Not from fear.
 
-In recognition.
+Recognition.
 
-A voice they had wanted to hear more than anything.
+A voice—
 
-[…Demon.]
+one they believed they would never hear again.
+
+[…Demons…]
 
 Pigi turned first.
 
 “Vikir!?”
 
-Everyone spun around.
+Dolores.
+
+Sinclaire.
+
+Tudor.
+
+Sancho.
+
+Bianca.
+
+All turned.
 
 There—
 
+inside the copied mental world—
+
 stood the person they remembered.
 
-Vikir.
+**Vikir Van Baskerville.**
 
-Vikir Van Baskerville.
+First-year Colosseo student.
 
-A first-year Colosseo student.
+Model student.
 
-Always first in class.
+Never displaced from first rank.
 
 And—
 
-the Night Hound.
+the **Night Hound**.
 
-The most infamous villain in the Imperial Capital.
+The most infamous villain ever to turn the Imperial Capital upside down.
 
 […Demons must die.]
 
-Exactly as he had looked four years ago.
+Exactly as he had looked four years earlier.
 
-In this lonely wasteland.
+Inside this barren mental landscape.
 
-Still alone.
+Still—
+
+alone.
