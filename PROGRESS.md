@@ -1,5 +1,15 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Tochka Annihilation Battle (6) accepted
+
+**Current state:** 478 / 500 accepted; 0 staged; next Chapter 479.
+
+Target **478→E476** resolves the interrupted Tochka family: Flauros transferred into Thomas de Leviathan but dies after cumulative jungle hazards, with his remaining demonic soul finally consumed by a soul-feeding mosquito.
+
+QA: `qa/families/tochka-annihilation-0478.md` — **PASS**.
+
+Next verified family: **479–482 — Downtown Naval Warfare (1)–(4)** / E477–E480.
+
 ## 2026-09-20 — Knowing the Fate of My Father (1)–(2) accepted
 
 **Current state:** 477 / 500 accepted; 0 staged; next Chapter 478.

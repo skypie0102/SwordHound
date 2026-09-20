@@ -1,37 +1,34 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 477 / 500  
+**Accepted:** 478 / 500  
 **Staged:** 0  
-**Next target:** 478
+**Next target:** 479
 
-## Latest accepted family
+## Latest accepted segment
 
-**Knowing the Fate of My Father (1)–(2)** — targets **476–477 / E474–E475**.
+**Tochka Annihilation Battle (6)** — target **478 / E476**.
 
-- Family QA: `qa/families/knowing-fate-father-0476-0477.md` — PASS.
-- Hugo assumes responsibility for Vikir’s choice and destroys Flauros’s remaining life.
-- The Gate-of-Destruction tether claim proves true.
-- Vikir prepares Eighth Form / Black Sun, but Hugo is the one who reaches **Baskerville Ninth Form**.
-- Hugo crosses into a Death-Knight state by burning his life beyond normal limits.
-- Balmung melts under the collision.
-- Vikir asks Hugo “Why?”; Hugo answers only, “I don’t know either.”
-- Hugo Le Baskerville dies at age 64 after stopping the first Gate eruption.
-- The Long Rain of Terror still begins after Hugo’s sacrifice.
-- Poseidon’s delayed effect creates the 150-day Great Flood, which suppresses the fire rain and disables the Gate.
-- Vikir orders Tudor to secure Donquixote’s fleet for the Imperial Capital / First Corpse campaign.
+- Segment QA: `qa/families/tochka-annihilation-0478.md` — PASS.
+- Poseidon’s Great Flood is fully underway and turns Tochka into a survivable Ark.
+- Vikir confirms Donquixote was restored partly to secure the Invincible Armada for a flooded world.
+- Flauros did fake his immediate death by transferring into Thomas de Leviathan.
+- Flauros still believes Pigi died; Pigi’s actual fate remains reveal-guarded.
+- Flauros’s Thomas-body escape fails through cumulative jungle hazards.
+- His remaining demonic soul is ultimately consumed by a soul-feeding mosquito.
+- This is the final Flauros death resolution.
 
-## Next verified sequence
+## Next verified families
 
-1. **Tochka Annihilation Battle (6)** — target **478 / E476**.
-2. **Downtown Naval Warfare (1)–(4)** — targets **479–482 / E477–E480**.
-3. **The Marquis of Discord (1)–(7)** — targets **483–489 / E481–E487**.
-4. **Running Hound(s) (1)–(4)** — targets **490–493 / E488–E491**.
-5. **The Day After the Apocalypse (1)–(2)** — targets **494–495 / E492–E493**; target496 is the combined-raw side-story continuation and requires source-boundary handling from `495.txt`.
-6. Side stories continue targets497–500.
+1. **Downtown Naval Warfare (1)–(4)** — targets **479–482 / E477–E480**.
+2. **The Marquis of Discord (1)–(7)** — targets **483–489 / E481–E487**.
+3. **Running Hound(s) (1)–(4)** — targets **490–493 / E488–E491**.
+4. **The Day After the Apocalypse (1)–(2)** — targets **494–495 / E492–E493**.
+5. Target496 shares Chinese raw `495.txt` and begins the side-story continuation; targets497–500 are side stories.
 
 ## Exact next actions
 
-1. Reconstruct/QA/accept target478 from C478 / E476.
-2. Continue immediately into Downtown Naval Warfare 479–482.
-3. Continue through remaining families to target500 unless a genuine source-boundary blocker appears.
+1. Reconstruct/QA/accept Downtown Naval Warfare 479–482.
+2. Continue immediately through The Marquis of Discord 483–489.
+3. Continue through Running Hound(s) 490–493.
+4. Resolve the combined 495/496 raw boundary and complete 494–500.

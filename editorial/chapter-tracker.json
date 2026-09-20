@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 477,
+  "accepted_count": 478,
   "staged_count": 0,
-  "next_chapter": 478,
+  "next_chapter": 479,
   "active_title_family": {
-    "name": "Tochka Annihilation Battle",
+    "name": "Downtown Naval Warfare",
     "range": [
-      478,
-      478
+      479,
+      482
     ],
-    "boundary_status": "single resumed part after two-chapter interruption",
-    "following_family_starts": 479,
-    "following_title": "Downtown Naval Warfare (1)",
-    "alignment_note": "478→E476 Tochka Annihilation Battle (6); 479→E477 begins Downtown Naval Warfare (1)-(4) through target482→E480."
+    "boundary_status": "verified complete: target479→E477 through target482→E480",
+    "following_family_starts": 483,
+    "following_title": "The Marquis of Discord (1)",
+    "alignment_note": "479→E477 through 482→E480; 483→E481 begins The Marquis of Discord (1)-(7) through target489→E487."
   },
   "chapters": [
     {
@@ -6693,6 +6693,20 @@
       "acceptance": "qa/acceptance/chapter-0477.json",
       "acceptance_sha": "881b3469b3755b509438238a9c6056613c03cc49",
       "family_qa": "qa/families/knowing-fate-father-0476-0477.md"
+    },
+    {
+      "chapter": 478,
+      "title": "Tochka Annihilation Battle (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/478.txt",
+      "english_mtl_reference": "source/chapters/chapter-476.xhtml",
+      "draft": "manuscript/drafts/chapter-0478.md",
+      "qa": "qa/chapter-0478.md",
+      "provenance": "editorial/provenance/chapter-0478.json",
+      "acceptance": "qa/acceptance/chapter-0478.json",
+      "acceptance_sha": "3ac33e45b73e1515ade046f4d342be9aba654dae",
+      "family_qa": "qa/families/tochka-annihilation-0478.md"
     }
   ]
 }
