@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 453,
+  "accepted_chapters": 464,
   "staged_chapters": 0,
-  "next_chapter": 454,
+  "next_chapter": 465,
   "latest_accepted_family": {
-    "name": "Declaration of War",
-    "range": [
-      450,
-      453
-    ],
-    "family_qa": "qa/families/declaration-of-war-0450-0453.md"
-  },
-  "next_title_family": {
     "name": "Infiltration of the Water Source",
     "range": [
       454,
       464
     ],
+    "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
+  },
+  "next_title_family": {
+    "name": "The Prelude to a Counterattack",
+    "range": [
+      465,
+      470
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 465,
-    "following_title": "The Prelude to a Counterattack (1)",
-    "alignment_note": "454→E452 through 464→E462; 465→E463 begins The Prelude to a Counterattack."
+    "following_family_starts": 471,
+    "following_title": "Tochka Annihilation Battle (1)",
+    "alignment_note": "465→E463 through 470→E468; target471→E469 begins Tochka Annihilation Battle (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -515,9 +515,27 @@
     450,
     451,
     452,
-    453
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464
   ],
   "notes": [
+    "Chapters454-464 accepted as Infiltration of the Water Source (1)-(11), mapping E452-E462.",
+    "MiniPin's crater-lake hypothesis proves false at target460; the crater is dry.",
+    "The Poison Human recharge facility uses the Ouroboros poison source and is sabotaged with Doppelganger leeches.",
+    "Flauros true form is revealed at target461 as Second Corpse, Chinese-primary Danger Rating S+.",
+    "Pigi's blood/body triggers unresolved heteromorphic-body / closed-type / homogeneous-anomaly language; do not resolve early.",
+    "Aiyen, Sadi, and Black Tongue reinforce the water-source front while Nouvelle Vague wardens and Sade's former prisoners reinforce Tochka.",
+    "Next family The Prelude to a Counterattack verified targets465-470 / E463-E468.",
     "Chapters450-453 accepted as Declaration of War (1)-(4), mapping E448-E451.",
     "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, and Raspane Morgue; First/Second Corpse true names remain reveal-guarded.",
     "Hopps mass-produces contagious Poison Humans using the Ouroboros twin-snake poison source; Juskin is converted after dissent.",
