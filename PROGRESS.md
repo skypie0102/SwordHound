@@ -1,5 +1,15 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Declaration of War (1)–(4) accepted
+
+**Current state:** 453 / 500 accepted; 0 staged; next Chapter 454.
+
+Completed targets **450–453** with mapping **E448–E451**. Canonical Juskin/Hopps/Raspane forms were applied; later First/Second Corpse true names remain reveal-guarded. Leviathan’s improved contagious Poison Humans and Ouroboros production source are established, alliance forces converge on Tochka, and Vikir confirms the siege buildup along the water-supply routes.
+
+Family QA: `qa/families/declaration-of-war-0450-0453.md` — **PASS**.
+
+Next verified family: **454–464 — Infiltration of the Water Source (1)–(11)**, mapping **E452–E462**.
+
 ## 2026-09-20 — The Fall of Usher (1)–(9) accepted
 
 **Current state:** 449 / 500 accepted; 0 staged; next Chapter 450.
