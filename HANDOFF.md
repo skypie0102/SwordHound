@@ -49,6 +49,7 @@ There is no standalone `055.txt`, but accepted Chapter 54/55 boundary QA and pro
 
 - Final reconstruction PR #125: **MERGED**.
 - Active audit branch: `audit/post500-manuscript-completeness`.
+- Corrective PR: **#126 — Reopen post-500 manuscript completeness audit**.
 - Audit evidence: `qa/manuscript-completeness-audit.md`.
 
 ## Exact next actions
