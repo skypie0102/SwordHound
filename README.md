@@ -1,73 +1,68 @@
 # Revenge of the Iron-Blooded Sword Hound
 
-Recovered source, reference, and reconstruction material for the English EPUB project.
+Recovered source, reference, reconstruction, QA, and EPUB-preparation material for the English project.
 
 ## Start here
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **389 / 500 accepted; next Chapter 390.** Latest accepted family: **targets 385–389 — The Rotten Dog of Nouvelle Vague (1)–(5)**.
+Current checkpoint: **post-500 manuscript completeness audit**.
 
-The next verified family is **The Worst Torture, targets 390–395**, mapped **390→E388 through 395→E393**. Target 396 begins **Dead Man Walking (1)**.
+- Target manuscript files present: **500 / 500**
+- Historical state before audit: **500 / 500 accepted**
+- Current tracker state: **496 accepted / 4 needs rework**
+- Confirmed compressed chapters requiring rebuild: **97, 316, 319, 420**
+- Initial priority-review queue: **47 ordinary one-target chapters** with unusually low draft/raw byte ratios (<0.60); this is a triage heuristic, not an automatic failure rule
+- Active audit record: `qa/manuscript-completeness-audit.md`
+- EPUB assembly is **blocked until the completeness audit closes**
+
+The final reconstruction PR (#125, Chapters 494–500) was merged, so the production run really did reach all 500 targets. The project was reopened because direct Chinese-raw comparison proved that some previously accepted drafts preserve only broad plot beats while dropping substantial dialogue, narration, descriptive detail, and transitions.
 
 ## Current source policy
 
-- `source/chinese/chapters/` — **semantic/narrative authority** for the 500-chapter target edition.
+- `source/chinese/chapters/` — **semantic/narrative authority** wherever Chinese text exists.
 - English *Revenge of the Iron-Blooded Sword Hound* Fandom wiki — **canonical English authority** for identified names, terms, locations, ranks, skills, monsters, organizations, titles, and other proper nouns where an applicable entry exists.
-- `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus; secondary alignment/phrasing reference, with scoped restoration only for documented Chinese gaps/splices.
-- `source/chinese/chapter-exceptions.tsv` — missing/combined raw exceptions and verified nontrivial English-MTL alignments.
-- `editorial/SOURCES.md` and `editorial/WORKFLOW.md` — authoritative source and editorial procedures.
-- `AGENTS.md` — mandatory agent behavior, including continuous title-family processing and handoff maintenance.
-- `HANDOFF.md` — exact operational continuation point for the next session/agent.
-- `editorial/chapter-tracker.json`, `editorial/reconstruction-status.json`, `PROJECT_STATE.md`, and `PROGRESS.md` — accepted-state records and project history.
+- `source/chapters/` — recovered 493-chapter English MTL/XHTML corpus; secondary alignment/phrasing witness, except for narrowly documented Chinese gaps.
+- `source/chinese/chapter-exceptions.tsv` — authoritative exception/mapping table for partial gaps, overlap containers, combined raws, and nontrivial English alignment.
+- `editorial/SOURCES.md` and `editorial/WORKFLOW.md` — source and editorial procedures.
+- `AGENTS.md` — mandatory agent behavior.
+- `HANDOFF.md` — exact operational continuation point.
+- `editorial/chapter-tracker.json`, `editorial/reconstruction-status.json`, `PROJECT_STATE.md`, and `PROGRESS.md` — current/historical state records.
 
-The Chinese corpus contains **492 physical files with at least partial Chinese coverage for all 500 targets**. Targets **49 and 55** contain documented localized gaps. Combined/overlapping physical containers remain intact where no safe source-level seam exists; reconstructed English output is still split into separate target chapters.
+### Chapter 55 correction
+
+There is no standalone `055.txt`, but Chapter 55 is **not English-only**. Accepted boundary QA proves that `054.txt` is an overlapping 54–55 container: E55 supplies the missing Chapter-55 opening/title boundary, while most of the Chapter-55 body survives in Chinese inside `054.txt` and remains semantically primary there.
 
 ## Critical workflow rules
 
-- Do **not** assume Chinese target chapter `N` maps to English MTL chapter `N`; align by title and content.
-- Determine the complete contiguous title-family boundary before accepting a chapter.
-- Process the full title family as one continuity/QA batch.
-- A finished title family or PR is a checkpoint, **not a stopping point**.
+- Do **not** assume target Chapter N maps to English MTL Chapter N; align by title and content.
+- Determine and process complete contiguous title families.
+- Do not equate “file exists” or “plot beats are present” with full translation coverage.
+- Preserve every material source beat: dialogue, narration, descriptions, transitions, information windows, and explicit content unless the source itself omits them.
+- A polished summary is still a QA failure if source content was dropped.
 - Preserve source explicitness; do not sanitize, soften, or intensify.
 - Protect reveal chronology even when the wiki contains later information.
-- Do not import MTL/wiki narrative exposition absent from Chinese.
 - Keep information windows atomic.
 - Numbered Baskerville sword techniques are **Fangs**, not Forms.
-- Defer final visual/layout QA to complete-EPUB assembly unless explicitly requested earlier.
+- Defer final visual/layout QA to complete-EPUB assembly.
+- Do **not** begin complete-EPUB assembly while the manuscript completeness audit is active.
 
-## Current terminology / editorial notes
+## Completeness audit
 
-The latest accepted family adds/revalidates:
+The initial deterministic triage compares draft byte size with Chinese raw byte size for ordinary one-target containers. The corpus median is about 0.85; chapters under 0.60 are prioritized for direct review, and chapters under 0.50 are strong suspects. Byte ratio is only a detector, never proof.
 
-- **The Rotten Dog of Nouvelle Vague** — accepted five-part family, targets **385–389 / E383–E387**.
-- **385/386 shared raw** — explicit embedded Chapter386 marker; target385 receives only the localized missing closing handoff from E383.
-- **Flubber J Tarbond** — lieutenant-colonel officer, distinct from the Flubber barrier substance.
-- **Garam Nord** — Vikir’s active guard disguise; Gargoyle regeneration continuity remains locked.
-- **Pal Euspear** — source-local aligned-witness form; no accessible Fandom entry found.
-- **Kirko guard** — suspicion/competition increases, but Vikir’s identity remains hidden.
-- **Monthly evaluation** — Garam 108%, Kirko 96%.
-- **The Worst Torture** — next family targets **390–395 / E388–E393**.
-- **Dead Man Walking** — begins target396.
+Direct comparison has already confirmed:
+- Chapter 97 — *Madam Eight-Legs (3)*
+- Chapter 316 — *Surplus Man (3)*
+- Chapter 319 — *Surplus Man (6)*
+- Chapter 420 — *Goodbye, Nouvelle Vague (2)*
 
-For the full accumulated terminology and continuity record, see `editorial/GLOSSARY.md`.
-
-## Accepted evidence
-
-Current accepted production evidence covers targets **1–389**:
-
-- `manuscript/drafts/chapter-0001.md` through `chapter-0389.md`
-- `qa/chapter-0001.md` through `chapter-0389.md`
-- accepted family QA through `qa/families/rotten-dog-0385-0389.md`
-- `editorial/provenance/chapter-0001.json` through `chapter-0389.json`
-- `qa/acceptance/chapter-0001.json` through `chapter-0389.json`
-
-Latest family QA: `qa/families/rotten-dog-0385-0389.md` — **PASS**.
+See `qa/manuscript-completeness-audit.md` for the review queue and family-first order.
 
 ## Editorial quality bar
 
-Every chapter is reviewed for Chinese-source semantic fidelity, complete coverage, no invented/duplicated/sanitized material, Fandom-backed canonical English proper nouns where applicable, title-family continuity, reveal chronology, grammar/natural modern English, information-window and scene-break semantics, source provenance, and MTL alignment.
+A chapter may be accepted only after Chinese-source semantic fidelity **and complete coverage** are verified: no dropped, duplicated, invented, sanitized, or summary-collapsed material; canonical terminology; title-family continuity; reveal chronology; natural English; information-window/scene-break semantics; provenance; and alignment.
 
-Formatting decisions preserved for eventual EPUB assembly include dialogue indentation, no narrative indentation, 1.65 line height, single-quote handling, styled information windows, `◆◆◆` scene breaks, and separate side stories. See `editorial/Recovered-Editorial-Decisions.md`.
+Formatting decisions preserved for eventual EPUB assembly include dialogue indentation, unindented narration, 1.65 line height, single-quote handling, styled information windows, `◆◆◆` scene breaks, and separate side stories. See `editorial/Recovered-Editorial-Decisions.md`.
 
-Superseded reconstruction work remains available in Git history but is not accepted production state.
+Superseded reconstruction and acceptance artifacts remain available for audit/history but do not override the live tracker and handoff.
