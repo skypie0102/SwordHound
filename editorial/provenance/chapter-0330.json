@@ -1,7 +1,7 @@
 {
   "chapter": 330,
   "title": "The Shadowless King of the Black Sea (5)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -9,8 +9,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
-    "status": "pass"
+    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/330.txt",
@@ -24,15 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0330.md",
-    "blob_sha": "7f58a6ba224ff1c1f8aa2d82ba2a47f52247c9cc"
+    "blob_sha": "f770a68fd3bcf27e846253812a4d4266c53a541e"
   },
   "qa": {
     "path": "qa/chapter-0330.md",
-    "blob_sha": "24ff3d16f72ee7942773218a6de81ccf048cb047",
-    "status": "pass"
+    "blob_sha": "dc1ef0c8b14e6588a30f9ea660dc302382cb799c",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "key_reveal": "S-rank Shadowless King is killed by Daylily gas-sac chain ignition; Impossible achievement granted."
+  "accepted_date": "2026-09-20",
+  "key_reveal": "S-rank Shadowless King is killed by Daylily gas-sac chain ignition; Impossible achievement granted.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "7f58a6ba224ff1c1f8aa2d82ba2a47f52247c9cc",
+    "qa_sha": "24ff3d16f72ee7942773218a6de81ccf048cb047"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "initial_priority_target": false
+  },
+  "reward_guard": "A+ Majin and S-rank Shadowless King system recognitions remain separate."
 }
