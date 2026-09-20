@@ -1,12 +1,12 @@
 # Chapter 314: Surplus Man (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/314.txt`. Recovered English Chapter 312 is the verified shifted secondary witness. Established repo terminology controls Vikir, Granola, Colosseo Academy, the Imperial Capital, Beelzebub, and the Hell Tree. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/314.txt`. Recovered English Chapter 312 is the verified shifted secondary witness. Established project terminology controls **Vikir**, **Granola de Leviathan**, **Colosseo Academy**, **Imperial Capital**, **Ms. Ouroboros**, **Beelzebub**, **Daylily of Blood Tree**, and the Hell Tree system.
 
-**<Mission Complete>**
-
-**Survivors: 69**
-
-**End condition:** Survive 108 Hell Hounds for 108 minutes.
+> **<Mission Complete>**
+>
+> **Survivors: 69**
+>
+> **End condition:** Survive the attack of 108 Hell Hounds for 108 minutes.
 
 Ding.
 
@@ -14,360 +14,610 @@ Ding.
 
 [Entering Basement Floor 3 — Familiar Ground (2).]
 
-The notification remained emotionless.
+The notification remained as emotionless as ever.
 
-All sixty-nine survivors fell into the third floor.
+All sixty-nine survivors fell into the third basement floor.
 
-“Where are we?”
+“Where is this?”
 
-“The Imperial Capital.”
+“The Imperial Capital!”
 
-“We’re outside the Academy!”
+“We're outside the Academy!”
 
-For one instant—
+For a few seconds—
 
 faces brightened.
 
-Then everyone looked around properly.
+Then everyone looked properly.
 
 The Imperial Capital was here.
 
-But only as another ruin.
+But in exactly the same way Colosseo had been here.
+
+As a corpse.
 
 Broken windows.
 
 Rusting doors.
 
-Collapsed roofs.
+Roofs tilting toward collapse.
 
-Cracked pillars.
+Pillars cracked in half.
 
-Even in daylight—
+Ruins everywhere.
 
-the wind felt dry and brutally cold.
+It was daytime.
 
-Then someone pointed toward the center of the city.
+Sunlight reached the streets.
+
+The wind still felt dry—
+
+and brutally cold.
+
+“Hey.”
 
 “What is that?”
 
-“It’s huge.”
+“It's huge.”
 
-“Don’t go near it.”
+“That thing is disgusting.”
 
-The central clock tower stood in the distance.
+“Don't go near it.”
 
-The same tower that Ms. Ouroboros had once destroyed in the real capital.
+As the students moved cautiously through the ruined city—
+
+they found the strangest object of all.
+
+The central clock tower.
+
+The symbol of the Imperial Capital.
+
+In the real world—
+
+**Ms. Ouroboros** had once destroyed it.
 
 Here—
 
-it remained standing.
+it still stood.
 
 Damaged.
 
 Cracked.
 
-But intact.
+But largely intact.
 
-And wrapped in something organic.
+Something had wrapped itself around the tower.
 
-Vines.
+“Vines?”
 
-Roots.
+“No…”
+
+“Roots?”
+
+“What is that at the top?”
+
+“A flower?”
 
 Thin leaves.
 
-They crawled up the entire tower.
+Roots.
 
-At the top—
+Long climbing stems.
 
-a gigantic flower had bloomed.
+The plant ran all the way up the clock tower.
 
-Or rather—
+At its top—
 
-had once bloomed.
+a gigantic flower.
 
-Now it was withered.
+Or what remained of one.
 
-Dead-looking.
+Withered.
 
-“Hey.”
+Dry.
 
-“It’s warm near the flower.”
+Apparently dead.
 
-Students approached carefully.
+A few students approached.
 
-The dried leaves had absorbed sunlight.
+“It's warm.”
 
-Some of the deflated structures felt soft—
+“The air's warmer near this plant.”
 
-almost like old air cushions.
+“We should sleep here tonight.”
 
-A few students immediately decided to sleep near the plant.
+“What is this?”
 
-Others distrusted it and searched the surrounding ruins.
+“A leaf?”
 
-Basements.
+“No—some kind of collapsed air bladder.”
 
-Collapsed buildings.
+“There's still a little air inside.”
 
-Sewers.
+“Soft enough to use as a pillow.”
 
-Trash containers.
+The survivors split.
 
-Roofs.
+One group searched for somewhere safer in the ruins.
+
+The other—
+
+wanting protection from the coming night cold—
+
+stayed close to the enormous dead flower.
+
+Those who remained used dried roots and leaves like bedding.
+
+Others hid in—
+
+collapsed buildings.
+
+sewers.
+
+basements.
+
+metal garbage containers.
+
+rooftops.
 
 Most chose the ruins.
 
-The previous Hell Hound stage had trained them to hide.
+The previous Hell Hound floor had taught them to distrust open spaces.
 
-Vikir did the opposite.
+Vikir did not.
 
-He lay back beneath the dried leaves.
+He chose the flower.
+
+The dried leaves had absorbed sunlight all day.
 
 Warm.
 
 Tough.
 
-Slightly inflated.
+Flexible.
 
-Good enough for rest.
+Still holding a little air.
 
-Night fell.
+Vikir pulled one over himself—
 
-And Vikir’s choice proved correct.
+half lay down beneath it—
 
-“I’m freezing.”
+and rested.
 
-“Why is it this cold?”
+Time passed.
 
-“We don’t have blankets.”
+Night came.
 
-The ruins stored no heat.
+Vikir's choice proved correct.
 
-Students who had hidden elsewhere slowly returned to the clock tower.
+“Cold…”
 
-The dead flower’s warmth became the only tolerable shelter.
+“Why is it this cold!?”
+
+“We don't have anything to block the wind!”
+
+“We're going to freeze!”
+
+Concrete.
+
+Glass.
+
+Metal.
+
+The ruins stored almost no warmth.
+
+Students crawled out of their hiding places—
+
+shivering—
+
+and returned to the central clock tower.
+
+“Ah…”
+
+“This is better.”
+
+“It's really warm around the flower.”
+
+“It must have been incredibly vigorous when it was alive.”
+
+“Even dead—
+
+it still holds this much heat.”
+
+“What could kill something this big?”
+
+“Who knows?”
+
+“More importantly—
+
+what are we supposed to do here?”
+
+“The fairy hasn't appeared.”
+
+“No mission either.”
 
 Once the cold eased—
 
-hunger took its place.
+the next problem arrived.
 
-The students searched the ruins again.
+Grrrrr—
 
-They found almost nothing.
+Hunger.
 
-Expired chocolate.
+The students scattered again.
 
-Swollen cans.
+Food—
 
-Rotten meat.
+almost nonexistent.
 
-Wilted weeds.
+An ancient chocolate bar past its date.
 
-Not enough.
+Swollen canned food.
 
-But away from most eyes—
+Rotting meat.
 
-Vikir was cooking.
+Several dead weeds.
 
-He lit a waste-oil fire beneath a dented pot.
+That was nearly everything.
 
-Boiled accumulated rainwater.
+Not remotely enough for sixty-nine people.
 
-Granola watched.
+Despair spread.
+
+Away from most eyes—
+
+one person was cooking.
+
+Vikir.
+
+Bubble.
+
+Bubble.
+
+He set a dented pot over a barrel fire fueled by waste oil.
+
+Collected rainwater from a tent-like ruin.
+
+Boiled it.
+
+Granola hovered nearby.
 
 “Why are you boiling water?”
 
-“To eat.”
+“We have to eat.”
+
+Granola swallowed.
 
 “You found food?”
 
-Vikir spread Beelzebub.
+Vikir nodded.
 
-Cut a tiny piece from the withered plant’s stem.
+Beelzebub extended.
 
-The fibers were so tough that even aura struggled against them.
+He cut into the stem of the withered giant flower.
 
-Granola frowned.
+Even aura had difficulty separating the fibers.
 
-“That little?”
+The plant tissue was absurdly tough.
 
-Vikir dropped it into boiling water.
+Most students would never have managed it.
+
+Eventually—
+
+Vikir pinched off two pieces no larger than fingernails.
+
+Granola tilted his head.
+
+“We're eating **that**?”
+
+“Can pieces that small do anything?”
+
+Vikir dropped them into the boiling water.
 
 Plop.
 
 Then—
 
-the tiny fragment expanded.
+the fragments expanded.
 
 And expanded.
 
-Until it was roughly the size of an adult man’s forearm.
+Until each was roughly as thick and long as an adult man's forearm.
 
-Granola stared.
+Granola's eyes widened.
 
-“It was dehydrated.”
+“They were dehydrated.”
 
-Vikir explained.
+Vikir nodded.
 
-“If you eat too much while it’s dry—
+“If you swallow too much while it's dry—
 
 it expands inside your stomach.”
 
-Granola swallowed.
+Granola swallowed again.
 
-“So you could burst from the inside.”
+“You'd burst.”
 
 “Exactly.”
 
-He ate carefully.
+The plant was so hard that desperate students might have tried eating it dry.
+
+That could kill them.
+
+Granola carefully pulled out a softened piece.
 
 Then looked at Vikir.
 
-“You…”
+“Hey.”
 
-“Why are you treating me so well?”
+“What?”
 
-Vikir’s gaze dropped briefly.
+“Why are you being so nice to me?”
 
-To the necklace hanging from Granola’s chest.
+On the previous floor—
+
+Vikir had saved him from the Hell Hounds.
+
+Now—
+
+he was sharing food.
+
+Vikir's eyes moved.
+
+Not quite to Granola's face.
+
+To the necklace hanging from his chest.
 
 Then away.
 
-“…Because we’re friends.”
+“…Because we're friends.”
 
-He said it casually.
+The answer came casually.
 
-Granola froze.
+But the word did not feel casual to Granola.
 
-Friends.
+*Friend.*
 
 Since entering Colosseo—
 
-he had never truly had one.
+Granola had never made one.
 
-Classmates followed him to see what they could gain.
+Classmates followed him because he might be useful.
 
-Seniors cultivated him as a connection.
+Seniors approached him because Leviathan was a valuable connection.
 
-His father and older brothers treated his achievements as things already surpassed.
+At home—
 
-For the first time—
+he had spent years wanting recognition from his father and older brothers.
 
-someone had simply called him a friend.
+As the eldest son of his own branch—
 
-Granola’s eyes became wet.
+he was still treated like a child.
+
+Even excellent achievements were only things his brothers had already done.
+
+Lonely.
+
+Tedious.
+
+Nothing changed after entering the Academy.
+
+Until now.
+
+*I have a friend.*
+
+The boy in front of him was younger—
+
+but somehow felt like a dependable older brother.
+
+Vikir's recognition filled Granola with a pride he barely understood.
 
 Then—
 
-“Granola!”
+“Hey!”
 
-Several third-year nobles approached.
+“You're Granola, right?”
 
-“We thought the Hell Hounds killed you.”
+Granola turned.
 
-“Glad you survived.”
+Several third-year noble-faction students approached.
 
-“Come with us.”
+“We thought the Hell Hounds got you.”
 
-“You’re Leviathan-born, after all.”
+“Glad you're alive.”
 
-They acted as though the previous stage had never happened.
+“As expected of a Leviathan.”
+
+“Come over here.”
+
+“Having another firstborn around is reassuring.”
+
+“Sorry we couldn't help you before.”
+
+“When we get out—
+
+I'll buy you a drink.”
+
+“Hahaha.”
+
+They acted as though nothing had happened on Floor 2.
 
 Granola hesitated.
 
-Vikir—
+These were people he had known outside the tower.
 
-or the familiar noble network?
+Connections.
 
-Before he could choose—
+Familiar status.
 
-wet laughter echoed overhead.
+On one side—
 
-[Heh heh heh?]
+Vikir.
 
-The fairy appeared.
+On the other—
 
-[Sixty-nine survivors?]
+the social network he had spent years building.
 
-[Can everyone hear the fairy?]
+“I…”
 
-A mission window opened.
-
-**<Mission>**
-
-**Survive in the ruins for 1–69 days.**
-
-**※ Avoid ???**
-
-The students stiffened.
-
-“One day?”
-
-“Or sixty-nine?”
-
-“How are we supposed to know?”
-
-A high-ranking student pointed upward.
-
-“What does the note mean?”
-
-The fairy paused.
-
-[Ah?]
-
-[I forgot to explain?]
-
-It raised one finger.
-
-A drop of red blood fell.
-
-Landed on the dried root system.
-
-And soaked in.
-
-Creak.
-
-Crack.
-
-The entire clock tower shuddered.
-
-The dead vines moved.
+He started to decide.
 
 Then—
 
+[Heh-heh-heh?]
+
+Wet laughter came from the air.
+
+Every head turned.
+
+The fairy floated above them.
+
+[Sixty-nine survivors?]
+
+[Is everyone doing well?]
+
+[Can your ears hear the fairy?]
+
+A mission window opened immediately.
+
+> **<Mission>**
+>
+> **Survive in the ruins for 1–69 days!**
+>
+> **※ Avoid ???**
+
+Students stiffened.
+
+“Only survive?”
+
+“What does one to sixty-nine mean?”
+
+“One day?”
+
+“Sixty-nine days?”
+
+“How are we supposed to tell?”
+
+“Sixty-nine days is impossible in this cold with no food.”
+
+“But one day sounds too easy.”
+
+Then—
+
+one student stepped forward.
+
+Known for sharp analysis in class.
+
+A strong academic.
+
+“Wait.”
+
+“What is the note under the mission?”
+
+Everyone looked.
+
+**※ Avoid ???**
+
+Avoid **what**?
+
+The fairy—
+
+which had started to disappear—
+
+jerked back into view.
+
+[Ahhhh?]
+
+[I forgot to explain?]
+
+The student snorted.
+
+“You dragged this many people into a death trap.”
+
+“At least explain your own rules properly.”
+
+“How careless can you be?”
+
+[Sor-ry?]
+
+[That was almost a big mistake?]
+
+The fairy bowed awkwardly.
+
+Then—
+
+POP.
+
+It raised one finger.
+
+A single drop of bright red blood fell.
+
+“?”
+
+The students watched.
+
+The blood descended—
+
+thick as tar—
+
+and landed on the dried roots around the clock tower.
+
+It soaked in instantly.
+
+CREEEAK—
+
+SQUELCH—
+
+The entire tower began making unnatural sounds.
+
+Dried vines—
+
+moved.
+
+Roots—
+
+tightened.
+
+And then—
+
 SNAP.
 
-The student who had criticized the fairy was suddenly folded at the waist.
+The student who had criticized the fairy folded at the waist.
 
 A vine wrapped around him.
 
-Lifted him.
+Lifted him before he could even scream properly.
 
-At the top of the clock tower—
+“…Huh?”
 
-the enormous flower opened.
+He barely registered his broken spine.
 
-Not a blossom.
+Because at the top of the clock tower—
 
-A mouth.
+the huge flower opened.
 
-Filled with teeth.
+A giant mouth.
 
-Crunch.
+Smiling.
 
-The student disappeared in less than a second.
+Filled with grotesque teeth.
 
-Blood ran from the maw.
+CRUNCH.
 
-The mission changed.
+A human being became meat in less than a second.
 
-**<Mission>**
+Blood streamed from the chewing maw.
 
-**Survive in the ruins for 1–68 days.**
+At the same moment—
 
-**※ Avoid the Daylily of Blood Tree.**
+the mission changed.
+
+> **<Mission>**
+>
+> **Survive in the ruins for 1–68 days!**
+>
+> **※ Avoid the Daylily of Blood Tree!**
 
 The fairy smiled.
 
-[Now you only need to endure at most sixty-eight days?]
+[Now you only need to survive at most sixty-eight days?]
