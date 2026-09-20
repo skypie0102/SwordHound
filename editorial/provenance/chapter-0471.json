@@ -1,0 +1,37 @@
+{
+  "chapter": 471,
+  "title": "Tochka Annihilation Battle (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Tochka Annihilation Battle",
+    "range": [
+      471,
+      475
+    ],
+    "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
+    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/471.txt",
+    "blob_sha": "208f8a55d02ec5cb13af5be30858d2de69ab8d99",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-469.xhtml",
+    "blob_sha": "3dfb009a33d2e47c261860fb2eea8e4d59a4f056",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0471.md",
+    "blob_sha": "22884e9f65275f5526bc835f05054bf2c5955a89"
+  },
+  "qa": {
+    "path": "qa/chapter-0471.md",
+    "blob_sha": "22e2fa13b6fc1b7868e0741ba1b7b93f025ea935",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary forms and indexed Fandom evidence used.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
