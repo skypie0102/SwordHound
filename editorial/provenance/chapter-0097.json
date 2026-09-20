@@ -10,7 +10,7 @@
     ],
     "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
     "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
-    "status": "pass"
+    "status": "reopened_for_completeness_audit"
   },
   "primary_source": {
     "path": "source/chinese/chapters/097.txt",
@@ -37,7 +37,7 @@
   "qa": {
     "path": "qa/chapter-0097.md",
     "blob_sha": "1a93f085e3aa755319be1516d1e49e8d770c2d90",
-    "status": "pass"
+    "status": "superseded_needs_rework"
   },
   "documented_decisions": [
     {
@@ -61,6 +61,16 @@
       "basis": "Chinese target97"
     }
   ],
-  "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted": false,
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18"
+  },
+  "current_status": "needs_rework",
+  "reopened_date": "2026-09-20",
+  "completeness_audit": {
+    "status": "confirmed_compressed",
+    "reason": "Direct Chinese/draft comparison confirms summary-style compression with omitted narration, descriptive detail, and causal transitions.",
+    "evidence": "qa/manuscript-completeness-audit.md"
+  }
 }
