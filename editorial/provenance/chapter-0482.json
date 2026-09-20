@@ -1,0 +1,38 @@
+{
+  "chapter": 482,
+  "title": "Downtown Naval Warfare (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Downtown Naval Warfare",
+    "range": [
+      479,
+      482
+    ],
+    "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
+    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/482.txt",
+    "blob_sha": "be2d7cd5d0ec33dfb5aad1ccd3292432c47588e0",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-480.xhtml",
+    "blob_sha": "54459ea51e081b6e46c04a807f0f297bf678e303",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0482.md",
+    "blob_sha": "0d4f9c74c725db3b8cce333fb5ad124dfce643be"
+  },
+  "qa": {
+    "path": "qa/chapter-0482.md",
+    "blob_sha": "aa13bc01b24ef5caf4c0c13e7a62cd70c17d88f3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms and new source-local maritime terms remain unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Coffin contents remain unrevealed; companions only repeat Vikir's stated 'dead comrades' souls' explanation."
+}

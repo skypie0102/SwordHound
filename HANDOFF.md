@@ -1,34 +1,28 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 478 / 500  
+**Accepted:** 482 / 500  
 **Staged:** 0  
-**Next target:** 479
+**Next target:** 483
 
-## Latest accepted segment
-
-**Tochka Annihilation Battle (6)** — target **478 / E476**.
-
-- Segment QA: `qa/families/tochka-annihilation-0478.md` — PASS.
-- Poseidon’s Great Flood is fully underway and turns Tochka into a survivable Ark.
-- Vikir confirms Donquixote was restored partly to secure the Invincible Armada for a flooded world.
-- Flauros did fake his immediate death by transferring into Thomas de Leviathan.
-- Flauros still believes Pigi died; Pigi’s actual fate remains reveal-guarded.
-- Flauros’s Thomas-body escape fails through cumulative jungle hazards.
-- His remaining demonic soul is ultimately consumed by a soul-feeding mosquito.
-- This is the final Flauros death resolution.
+## Latest accepted family
+**Downtown Naval Warfare (1)–(4)** — targets **479–482 / E477–E480**.
+- Family QA: `qa/families/downtown-naval-warfare-0479-0482.md` — PASS.
+- Hugo/Camus hidden-rescue planning is source-timed at 479.
+- Invincible Armada carries the alliance through the flooded Imperial Capital.
+- First Corpse has anomalous self/not-self structure; Decarabia’s gate-opener/gate-closer clue remains unexplained.
+- Kraken is Chinese-primary **S+**; source-local aliases Great King of the Deep Sea / Antagonist of Nouvelle Vague.
+- Tudor’s fleet and Nouvelle Vague veterans engage Kraken.
+- Adult Baby Madam blocks Kraken so Vikir can reach the Imperial Palace.
+- Vikir reaches the palace dragging a chained coffin; its contents remain unrevealed.
 
 ## Next verified families
-
-1. **Downtown Naval Warfare (1)–(4)** — targets **479–482 / E477–E480**.
-2. **The Marquis of Discord (1)–(7)** — targets **483–489 / E481–E487**.
-3. **Running Hound(s) (1)–(4)** — targets **490–493 / E488–E491**.
-4. **The Day After the Apocalypse (1)–(2)** — targets **494–495 / E492–E493**.
-5. Target496 shares Chinese raw `495.txt` and begins the side-story continuation; targets497–500 are side stories.
+1. **The Marquis of Discord (1)–(7)** — targets **483–489 / E481–E487**.
+2. **Running Hound(s) (1)–(4)** — targets **490–493 / E488–E491**.
+3. **The Day After the Apocalypse (1)–(2)** — targets **494–495 / E492–E493**.
+4. Target496 shares raw `495.txt` and begins Side Story 1; targets497–500 are Side Stories 2–5.
 
 ## Exact next actions
-
-1. Reconstruct/QA/accept Downtown Naval Warfare 479–482.
-2. Continue immediately through The Marquis of Discord 483–489.
-3. Continue through Running Hound(s) 490–493.
-4. Resolve the combined 495/496 raw boundary and complete 494–500.
+1. Reconstruct/QA/accept 483–489.
+2. Continue immediately through 490–493.
+3. Resolve the combined 495/496 raw boundary and complete 494–500.

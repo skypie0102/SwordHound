@@ -1,0 +1,33 @@
+{
+  "chapter": 479,
+  "title": "Downtown Naval Warfare (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Downtown Naval Warfare",
+    "range": [
+      479,
+      482
+    ],
+    "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
+    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/479.txt",
+    "primary_source_sha": "1ddd25950ed7234ebb18ab49cd3bef4eb0f216f2",
+    "english_reference_path": "source/chapters/chapter-477.xhtml",
+    "english_reference_sha": "1df802d6afd7c0ddfc567194e0aeb01caeb84395",
+    "draft_path": "manuscript/drafts/chapter-0479.md",
+    "draft_sha": "13cb547396bd3b1331938ca3d72c9e8febdcb0a5",
+    "qa_path": "qa/chapter-0479.md",
+    "qa_sha": "6b344387045d04ad4dfd09a6dfe30e673b6bbe63",
+    "provenance_path": "editorial/provenance/chapter-0479.json",
+    "provenance_sha": "2ba57112f15d08030a0220c8caf49fe5292dff15"
+  },
+  "documented_limits": [
+    "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms.",
+    "No Marquis of Discord material from target483 is imported."
+  ]
+}

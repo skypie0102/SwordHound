@@ -1,5 +1,15 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Downtown Naval Warfare (1)–(4) accepted
+
+**Current state:** 482 / 500 accepted; 0 staged; next Chapter 483.
+
+Completed targets **479–482** with mapping **E477–E480**. Key decisions: First Corpse opener/closer clue stays cryptic; Kraken is Chinese-primary **S+**; Adult Baby Madam covers Vikir’s palace approach; coffin contents remain unrevealed.
+
+Family QA: `qa/families/downtown-naval-warfare-0479-0482.md` — **PASS**.
+
+Next: **483–489 — The Marquis of Discord (1)–(7)** / E481–E487.
+
 ## 2026-09-20 — Tochka Annihilation Battle (6) accepted
 
 **Current state:** 478 / 500 accepted; 0 staged; next Chapter 479.
