@@ -1,315 +1,531 @@
 # Chapter 317: Surplus Man (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/317.txt`. Recovered English Chapter 315 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/317.txt`. Recovered English Chapter 315 is the verified shifted secondary witness. Project terminology controls **Vikir**, **Arthur Gordon Pym**, **Granola de Leviathan**, **Random Box**, **Mimic**, and **Daylily of Blood Tree**.
 
-“…I’ll be the food.”
+“…I'll be the food.”
+
+One raised hand drew the attention of every survivor.
+
+Vikir stepped forward.
+
+His face was as calm as if he had volunteered for today's cleaning duty.
 
 Silence.
 
-Almost everyone knew Vikir.
+Almost everyone knew him.
 
-The notorious first-year prodigy.
+The first-year who had become a constant topic of conversation.
 
 Athletics.
 
 Grades.
 
-Combat.
+Combat ability.
 
 Appearance.
 
-The student who had embarrassed both major factions during the auction.
+And the student who had humiliated both major student factions at the Academy auction.
 
-Arthur Gordon Pym stared.
+**Arthur Gordon Pym**—
 
-“You?”
+third-year noble-faction leader—
 
-“You understand what ‘offering’ means?”
+stared at him.
+
+“You…”
+
+“You're volunteering as the Daylily's offering?”
 
 “Yes.”
+
+“You understand what that means?”
+
+A pause.
 
 “Did you hit your head?”
 
-Vikir repeated calmly:
+The students here had not seen Vikir exterminate the Hell Hound pack.
 
-“I will be the food.”
+They had not seen Cerberus.
 
-“If you dislike that—
+But Gordon knew Vikir was unusually capable even by upper-year standards.
+
+That only made the offer stranger.
+
+Vikir repeated himself.
+
+“I'll become the food.”
+
+“If you don't like that—
 
 find another volunteer.”
 
-No one moved.
+Then he looked toward the students standing beside Gordon.
 
-Then Vikir looked toward Gordon’s group.
+Bloodied.
 
-“You were planning to kill other students and feed the corpses to the flower anyway.”
+Sweaty.
 
-The nobles went pale.
+Still wearing clothes that were obviously expensive even after the tower had ruined them.
 
-“What are you talking about?!”
+Noble faction.
 
-“That’s insane!”
+Vikir swept his gaze over them.
 
-“Really?”
+“None of your group members can volunteer?”
 
-The other students—
+Everyone shrank back.
 
-who had overheard similar whispers—
+Eyes turned away.
 
-quietly moved away from the noble faction.
+Vikir continued.
 
-Gordon became furious.
+“You were planning to kill other students and feed the corpses to the Daylily anyway.”
 
-“What are you trying to say?”
+Every head snapped around.
 
-“The same thing I said from the beginning.”
+The noble students went pale.
 
-“I’ll be the food.”
+“What!?”
+
+“What kind of insane accusation is that!?”
+
+“Wrong?”
+
+“Of course it's wrong!”
+
+“…”
+
+“Seriously!”
+
+“Believe me!”
+
+Gordon sounded almost aggrieved.
+
+Too late.
+
+Other survivors remembered the whispers from the previous night.
+
+*It eats corpses too.*
+
+*Then things become simpler.*
+
+*Maybe this floor is easier than the last one.*
+
+Students outside the noble faction began quietly moving away from Gordon's group.
+
+The social order inside the tower had already weakened.
+
+Now—
+
+their control weakened with it.
+
+Gordon scratched his head furiously.
+
+“Damn it!”
+
+“What are you actually trying to say!?”
+
+“The same thing I said at the start.”
+
+Vikir's voice remained flat.
+
+“I'll be the food.”
 
 He paused.
 
-“And after that—
+“And afterward—
 
-I’ll make sure no one else dies.”
+there is a way for nobody else to die.”
 
-Everyone turned back.
+Everyone looked at him again.
 
 Gordon nearly stumbled forward.
 
-“There’s a way?”
+“What?”
 
-“Yes.”
+“There is?”
 
-“How?”
+“What is it?”
+
+“Did you change your mind?”
+
+“Are you lying about volunteering—”
+
+Vikir cut him off.
 
 “Catch it.”
 
 “…What?”
 
-“I’m going to catch the Daylily of Blood Tree.”
+Gordon stared.
 
-Complaints erupted.
+Vikir pointed toward the clock tower.
 
-“Didn’t you see the recording?”
+“I'll kill the Daylily of Blood Tree.”
 
-“That’s impossible!”
+Faces went blank.
 
-BOOM.
+Then complaints exploded.
 
-Vikir punched the clock tower.
+“What are you talking about!?”
 
-A huge diagonal crack split the structure.
+“You saw the fairy's recording!”
 
-One stone pillar collapsed.
+“That's insane!”
 
-Then another section followed.
+“Stop wasting—”
 
-Everyone went silent.
+BOOM!
 
-Vikir looked back.
+The sound tore through the ruins.
+
+Vikir's fist struck the clock tower wall.
+
+CRAAAAACK—
+
+A diagonal fracture raced through stone.
+
+One of the tower's pillars split apart.
+
+The break propagated.
+
+Farther structures shook.
+
+A bridge section in the distance collapsed with the vibration.
+
+Silence.
+
+Every mouth hung open.
+
+Vikir lowered his fist.
 
 “Tomorrow—
 
-I’ll catch it alone.”
+I'll kill it alone.”
 
 No one laughed now.
+
+Vikir folded his arms.
 
 “But I need several things.”
 
 Gordon swallowed.
 
-“What?”
+“…What?”
 
 “Random Boxes.”
 
 “Candy.”
 
+Every student looked down at their possessions.
+
+Vikir finished—
+
 “All of them.”
 
-Students looked at what they held.
+Some students had already opened boxes.
 
-Opened boxes.
+They held candies.
 
-Unopened boxes.
+Weapons.
 
-Candies.
+Tools.
 
-Artifacts.
+Miscellaneous items.
 
-Gordon himself had fifteen candies.
+Others still had unopened Random Boxes.
 
-Vikir added:
+Gordon himself held **fifteen Strange Candies**.
 
-“Anyone who eats their candies now is excluded from the deal.”
+His face tightened.
 
-“What deal?”
+*I should have eaten them immediately.*
 
-“Think about it.”
+Vikir's eyes moved toward him.
 
-“You’ll understand.”
+As though he had heard the thought.
 
-The logic was obvious.
+“Anyone who eats their candies now is excluded from the arrangement.”
 
-These items had been given to help them survive.
+Gordon frowned.
 
-Trading them for survival should have been easy.
+“What arrangement?”
 
-But people hated surrendering what belonged to them.
+“You can think about that yourselves.”
+
+“I have a plan.”
+
+No one liked the uncertainty.
+
+But there was no real choice.
+
+The Random Boxes and their contents existed to help them survive this floor.
+
+If surrendering them bought survival—
+
+the trade should have been obvious.
+
+Human nature made it less simple.
+
+Giving up something personally owned for collective survival—
+
+was difficult.
 
 Gordon hesitated.
 
-Vikir pressed.
+So did everyone else.
 
-“You acted like your comrades were priceless.”
+Vikir looked directly at the noble faction.
 
-“Are they worth less than a Random Box?”
+“A moment ago—
+
+you acted as though no companion could possibly be sacrificed.”
+
+“Are those relationships worth less than a Random Box?”
 
 Gordon flushed.
 
-“We’re not being stingy!”
+“That's not why we're hesitating!”
 
-“We’re worried you’ll take everything and run!”
+“We're worried you'll take everything and run!”
 
-“Then keep the boxes.”
+“Fine.”
+
+Vikir nodded.
+
+“Then don't hand the unopened boxes to me now.”
 
 “Tomorrow—
 
-place them at a set distance behind me.”
+when the Daylily wakes—
 
-“You stay farther back.”
+I stand in front.”
+
+“You place the Random Boxes at a set distance behind me.”
+
+“You stand farther back.”
 
 “If I betray you—
 
-take them back.”
+rush in and recover them.”
 
-“If you betray me—
+“If you betray me—”
 
-I run the other way.”
+Vikir looked toward the opposite street.
 
-That satisfied both sides.
+“I run the other way.”
 
-Then Granola stepped forward.
+Both sides would have an emergency option.
+
+“I won't betray you.”
+
+“All I care about is that the number of Random Boxes and candies stays unchanged.”
+
+Gordon slowly nodded.
+
+“…Then why specifically boxes and candy?”
+
+“Can we compensate you outside?”
+
+“Money?”
+
+“A good position after graduation?”
+
+“No.”
+
+Vikir's answer was immediate.
+
+“Random Boxes.”
+
+“Candy.”
+
+“And every other item you pulled from them.”
+
+Tower-external promises meant little here.
+
+The survivors began resigning themselves.
+
+Then—
 
 “Here.”
 
-He held out his Random Box.
+One person stepped forward first.
 
-“If you need it—
+Granola.
+
+His eyes were strangely bright.
+
+“If you want mine—
 
 take it.”
 
-“We’re friends.”
+He held out his unopened Random Box.
 
-Vikir paused.
+“We're friends.”
 
-Then accepted.
+“Friends trust each other.”
 
-He opened it.
+For once—
 
-CHOMP.
+Vikir looked surprised.
 
-The box bit his wrist.
+Then he accepted the box.
 
-A Mimic.
+Opened it.
 
-Granola went white.
+CHOMP!
 
-“I didn’t know!”
+The black cube clamped around his wrist.
+
+A **Mimic**.
+
+Granola's face turned white.
+
+“AAAAAH!?”
+
+“Vikir!”
+
+“I didn't know!”
+
+“I really didn't!”
 
 “Medicine!”
 
-“Someone get medicine!”
+“Someone find medicine!”
 
-Vikir smiled slightly.
+“No—wait!”
+
+Vikir smiled faintly.
 
 “Calm down.”
 
 He tightened the trapped arm.
 
-Then smashed the Mimic apart with his other hand.
+Then—
 
-His wrist was unharmed.
+BANG!
+
+His other fist smashed the top of the Mimic.
+
+The cube shell ruptured.
+
+Tongue.
+
+Organs.
+
+Teeth.
+
+Blood.
+
+Vikir pulled his wrist free.
+
+Not a mark.
 
 “I appreciate the intention.”
 
-Granola’s eyes practically shone.
+Granola stared.
 
-“I knew it.”
+Then his eyes began shining again.
+
+“I knew it!”
 
 “You really are my friend!”
 
-The other students stared.
+Everyone else shook their heads.
 
-Then Vikir continued.
+They had just watched a strong third-year lose a hand to the same kind of creature.
+
+Vikir's demands were not finished.
 
 “One more thing.”
 
 Gordon groaned.
 
-“What now?”
+“Damn it.”
 
-“This is the most important part.”
+“What else?”
 
-Vikir looked around.
+“This is the important part.”
+
+Vikir looked around the group.
 
 “I need one human body.”
 
-Everyone stiffened.
+Every face changed.
 
-“What?”
+“What!?”
 
-“You volunteered so nobody would become a corpse!”
+“Why?”
 
-“I need one body at the start.”
+“You stepped in so there **wouldn't** be a corpse!”
 
-“The Daylily is too dried out.”
+“Only once.”
 
-“Too hard.”
+Vikir looked toward the sleeping Daylily.
 
-“Even when its movement slows—
+“The plant is severely dehydrated.”
 
-I can’t cut it properly.”
+“Right now—
 
-They had all seen the proof.
+its outer tissue is too hard.”
 
-Hell Hounds had failed to damage the vines.
+“Even if I slow its movement—
 
-Granola had watched Vikir struggle to cut even dried plant tissue.
+I cannot damage it efficiently.”
+
+Granola had watched Vikir struggle just to cut dried plant tissue for food.
+
+Everyone had watched nearly one hundred Hell Hounds fail to scratch the vines before being exterminated.
+
+No one could deny the problem.
+
+Eventually—
 
 Gordon swore.
 
 “Fine.”
 
-“Then whose body?”
+“Whose body?”
 
-Again—
+The nightmare restarted.
 
-the same nightmare.
+Worst grades?
+
+Poor family?
+
+No friends?
 
 Weakest?
 
-Poorest?
+Vikir drew Beelzebub.
 
-Friendless?
+“I'll decide.”
 
-Lowest grades?
-
-Vikir drew his sword.
-
-“I’ll decide.”
+RUMBLE—
 
 At that moment—
 
-the stone pillar he had cracked finally collapsed.
+the pillar Vikir had cracked earlier finally collapsed.
 
-The students stared.
+Stone crashed across the street.
 
-Inside the tower—
+The survivors stared.
 
-Vikir was one hundred times weaker.
+Then remembered—
 
-And he had done **that**.
+inside this tower—
 
-One unavoidable conclusion spread through the group.
+Vikir was around one hundred times weaker than outside.
+
+They tried to reject the conclusion.
+
+Again.
+
+And again.
+
+Eventually—
+
+someone whispered what everyone was thinking.
 
 “…Sword Master?”

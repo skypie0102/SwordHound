@@ -1,21 +1,27 @@
 # Chapter 320 QA — Surplus Man (7)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/surplus-man-0314-0320.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/320.txt` — `7b64f92ffb09cc043cee6851490651685dbfce96`
 - English witness: **E318** — `c36ae9bf69e084568950b90775593f0a0fda7dd3`
-- Draft: `manuscript/drafts/chapter-0320.md` — `f80a540da484ac809155a60c0d2c39930e80ae5c`
+- Rebuilt draft: `manuscript/drafts/chapter-0320.md` — `068b3a43b80e9e383c995f69a52cf9bd5060816e`
 
-## Checks
-- PASS — Fairy reward-skimming mechanic is preserved: unclaimed displayed rewards can be reclaimed by the fairy.
-- PASS — Hidden S-rank Strange Candy Bag / Conversion Bug is identified as the true rare reward.
-- PASS — Conversion Bug consumes 100 same-color candies and produces one randomly colored candy; this remains fictional tower mechanics.
-- PASS — Pre-regression Camus used the Conversion Bug to raise Magic Resistance and obtained it only near the tower bottom.
-- PASS — Baby Madam becomes the harmless host for the parasite, allowing both host growth and candy conversion.
-- PASS — Vikir recovers leftover candies but no gold candies remain after the fairy’s rushed collection.
-- PASS — Vole-tooth hoe and oil-paper bag are used to harvest/store Daylily seeds while preventing moisture-triggered germination.
-- PASS — Mission is force-ended with 68 survivors; tsunami transition sends all survivors individually to Basement Floor4.
-- PASS — No Underdogma material from target321 is imported.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/item forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Historical draft compressed fairy reward-skimming rules, Conversion Bug mechanics/history, Baby Madam host logic, recovered-candy details, corpse-exit sequence, seed harvesting, and forced mission termination.
+- PASS — fairies are described as reward skimmers who use “fees/commissions” and disguise valuable rewards as packaging/trash; tower rules require display, but unclaimed rewards revert to the fairy.
+- PASS — hidden reward is **Strange Candy Bag — Conversion Bug (S)**.
+- PASS — parasite is harmless to a small-animal host but disappears if not fed candy regularly.
+- PASS — exact conversion rule: **100 candies of one color → 1 candy of a different random color**.
+- PASS — example outputs preserve rare gold Level / silver Reflexes / black Physical Resistance as well as other basic colors.
+- PASS — pre-regression Camus obtained the Conversion Bug only near the bottom of the tower and used its gains primarily to increase **Magic Resistance**, helping her survive mana-rampage breakthroughs.
+- PASS — Baby Madam becomes the harmless host because Vikir's body is too large; stat-candy consumption can benefit Baby Madam while the parasite separately performs conversion.
+- PASS — fairy reclaims most obvious rewards after losing the S-rank item.
+- PASS — Vikir recovers **15 red / 6 green / 11 blue** candies from Daylily teeth; no gold remains.
+- PASS — Vikir exits through damaged Daylily tissue and students celebrate but keep distance from his lingering combat presence; Granola alone approaches with cleaning cloth/oil.
+- PASS — vole-tooth hoe and water-resistant oil-paper bag are used to extract and store hard Daylily seeds; moisture protection prevents germination.
+- PASS — students speculate about Sword Master-level hidden strength; narration does not convert their speculation into a new rank declaration.
+- PASS — with the Daylily dead, the fairy force-ends the otherwise survivable 68-day mission.
+- PASS — rope pull triggers a massive flood/tidal wave and a one-person-at-a-time portal; all **68 survivors** enter and are dispersed toward Basement Floor4.
+- PASS — no *Underdogma* / target321 material is imported.

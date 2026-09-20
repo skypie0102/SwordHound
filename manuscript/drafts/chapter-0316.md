@@ -1,211 +1,609 @@
 # Chapter 316: Surplus Man (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/316.txt`. Recovered English Chapter 314 is the verified shifted secondary witness. Existing witness terminology controls **Arthur Gordon Pym**.
+> Chinese-primary reconstruction from `source/chinese/chapters/316.txt`. Recovered English Chapter 314 is the verified shifted secondary witness. Existing project terminology controls **Arthur Gordon Pym**, **Daylily of Blood Tree**, **Granola de Leviathan**, and the Floor 3 survivor group. This rebuild resolves the confirmed post-500 compression failure.
 
 **Basement Floor 3 — Familiar Ground (2)**
 
-The sixty-eight survivors finally understood.
+The sixty-eight survivors finally understood the floor.
 
 Food mattered.
 
 Warmth mattered.
 
-But first—
+But tomorrow's offering mattered first.
 
-they had to decide who would keep the Daylily asleep tomorrow.
+“Damn it.”
 
-“One of us has to become the offering.”
+“We need to worry about tomorrow's life before food or blankets.”
 
-No one seriously denied it.
+“You all saw the recording.”
 
-The question was how.
+“We cannot fight that thing.”
 
-Volunteer?
+“Then we have to decide who becomes the next offering.”
 
-Vote?
+“Who?”
 
-Weakest?
+The **Daylily of Blood Tree**.
 
-Least useful?
+Feed it one human—
 
-And how many?
+it became quiet.
 
-The ruined city might support them for around two weeks.
+Make it move too much while feeding—
 
-If the mission length had to be reduced from sixty-eight days to fourteen—
+it consumed more.
 
-more than fifty people would need to disappear.
+Meaning the safest approach for the group—
 
-“Fifty out of sixty-eight?!”
+was to let it eat with the smallest possible amount of effort.
 
-“That’s almost everyone!”
+“So…”
 
-Arguments erupted.
+“One of us has to sacrifice themselves.”
 
-Then one person shouted:
+“Unity is finished.”
 
-“At this rate someone will actually eat you!”
+“This is the demon's plan.”
 
-The atmosphere froze.
+“It's trying to divide us.”
 
-Because everyone already understood.
+“So what?”
 
-The offering was only one problem.
+“Are you saying we should ignore it?”
 
-The survivors also needed food.
+“…No.”
 
-Cannibalism—
+“I only said what it is.”
 
-humanity’s ancient taboo.
+No one seriously opposed the conclusion.
 
-And precisely because it was taboo—
+Someone had to be chosen.
 
-the implication was unmistakable.
+The remaining questions were worse.
 
-The demon wanted them to devour one another.
+**Who?**
 
-After a long silence—
+**How many?**
 
-a third-year student stood.
+**By what standard?**
 
-**Arthur Gordon Pym.**
+“No one is going to volunteer.”
+
+“Lottery?”
+
+“Vote?”
+
+“Pick whoever contributes least to the community?”
+
+“Before that—
+
+how many people do we even need to remove?”
+
+Food.
+
+Water.
+
+Both limited.
+
+Most stores were spoiled.
+
+Contaminated.
+
+Even optimistic estimates suggested perhaps two weeks.
+
+To reduce a sixty-eight-day mission to around fourteen—
+
+more than fifty survivors would have to disappear.
+
+“Fifty!?”
+
+“Out of sixty-eight!?”
+
+“That's almost everyone!”
+
+“That's the **minimum**!”
+
+“I can't survive three days hungry!”
+
+“Are you insane!?”
+
+“So everyone except you gets thrown to that damn flower?”
+
+“I never said that!”
+
+“People tolerate hunger differently!”
+
+Arguments erupted everywhere.
+
+Then—
+
+someone shouted in anger.
+
+“At this rate—
+
+someone really **will eat you**!”
+
+Silence.
+
+The speaker paled.
+
+“Wait.”
+
+“Why did everyone go quiet?”
+
+“I was joking.”
+
+“Obviously.”
+
+“Just…”
+
+“Just a joke…”
+
+No one believed him.
+
+Because everyone had already done the same calculation.
+
+The plant offering—
+
+was only half the problem.
+
+The survivors themselves needed food.
+
+Cannibalism.
+
+A taboo as old as civilization.
+
+And precisely because humanity had faced starvation before—
+
+a familiar horror.
+
+The demon's message was simple.
+
+**Devour one another.**
+
+Being prey before an overwhelming monster—
+
+that was not the lowest point.
+
+Lower still—
+
+the basement beneath morality.
+
+A place where the trapped humans ate their own.
+
+“…”
+
+“…”
+
+The silence grew heavier.
+
+Everyone understood.
+
+No one wanted to speak first.
+
+Finally—
+
+one student stood.
+
+Third-year.
 
 Leader of the noble faction.
 
-“We have to make difficult decisions.”
+**Arthur Gordon Pym.**
 
-“Let’s solve the immediate problem first.”
+His voice was grave.
 
-Tomorrow’s offering.
+“Everyone.”
 
-Someone suggested a vote.
+“We are going to face many difficult decisions.”
 
-But voting required a candidate.
+“But for now—
 
-And no one wanted to directly nominate another person.
+we solve the immediate problem.”
 
-So they searched for indirect standards.
+Heads turned.
+
+“Food.”
+
+“Water.”
+
+“Offerings.”
+
+“Cannibalism.”
+
+“Fighting among ourselves.”
+
+“Put those aside for one moment.”
+
+He swallowed.
+
+“Tomorrow—
+
+the Daylily will need an offering.”
+
+“We have to decide who.”
+
+“Does everyone agree?”
+
+Slowly—
+
+heads nodded.
+
+Arthur continued.
+
+“Then propose a selection method.”
+
+A hand rose.
+
+“…Vote?”
+
+Voting.
+
+Familiar.
+
+Civilized.
+
+Something Academy students used constantly.
+
+But voting only answered a proposal.
+
+Yes.
+
+No.
+
+Before a vote—
+
+someone needed to define the candidate or criterion.
+
+“We can vote on whether a person becomes the offering.”
+
+No one liked saying a name directly.
+
+Too aggressive.
+
+Too much guilt.
+
+So—
+
+they searched for rules that would choose **indirectly**.
+
+A muscular student folded his arms.
+
+“How about strength?”
+
+“In nature—
+
+the weak are culled.”
+
+“The strong survive.”
+
+“If fighting breaks out anyway—
+
+the weak are most likely to become offerings.”
+
+“So we choose them first.”
+
+“Bullshit.”
+
+A neatly groomed girl wearing glasses snapped back.
+
+“We are humans.”
+
+“Civilized people.”
+
+“Intelligent people.”
+
+“We are not wild animals.”
+
+The muscular student glared.
+
+“Then what is **your** criterion?”
+
+She hesitated.
+
+Then—
+
+“If we're civilized and intelligent…”
+
+“What about school performance?”
+
+“Lowest grades first.”
+
+“We should preserve people with more useful minds.”
 
 Strength.
 
-Academic performance.
+Grades.
 
-Year level.
+The muscular student pointed.
 
-Age.
+“Obviously the weak first.”
 
-Wealth.
+“Bookworms like him.”
 
-Connections.
+A short timid-looking boy crouched nearby.
 
-A muscular student argued that the weak should die first.
+At school—
 
-A bespectacled girl countered that poor students—
+he often shrank whenever the large student shouted.
 
-academically—
+Not now.
 
-contributed less.
+“Weak?”
 
-Then the tower overturned ordinary hierarchies.
+He stood.
 
-A timid student stood.
+“I'm not sure.”
 
-“You think I’m weaker than you?”
+“I may be stronger than **you** now.”
 
-The muscular boy hesitated.
+“What?”
 
-He had lost one hand to a Mimic.
+The big student froze.
 
-The timid student—
+The smaller boy stared at him with bloodshot eyes.
 
-who had eaten several red candies—
+“Uncross your arms.”
 
-attacked.
+“…”
 
-The old social balance collapsed immediately.
+Sweat appeared.
 
-Outside—
+BANG!
 
-family power mattered.
+The timid student rushed him.
 
-Inside—
+The big student's arms separated—
 
-only current ability mattered.
+revealing one wrist wrapped in dirty cloth.
 
-Arguments grew uglier.
+Missing a hand.
 
-“Sacrifice the weak!”
+The Random Box Mimic victim.
 
-“No—the stupid!”
+The smaller student seized the damaged wrist.
 
-“First-years!”
+“How about it?”
 
-“Poor people!”
+“Outside—
 
-“People with no friends!”
+maybe you were stronger.”
+
+“Inside this tower—
+
+I'm stronger.”
+
+“You still want strength to decide?”
+
+“Agh!”
+
+“Let go!”
+
+“Do you know who I am!?”
+
+“I'm an officer in the wealthy-family faction!”
+
+“One word from my father—
+
+and your parents' business closes!”
+
+“Then do it.”
+
+The timid boy squeezed harder.
+
+“You need to **leave the tower first**.”
+
+“Go ahead.”
+
+“Try.”
+
+Old resentment exploded.
+
+The fight became almost one-sided.
+
+The smaller student had eaten several red candies.
+
+His punches now carried real weight.
+
+Arthur stepped between them.
+
+“Enough.”
+
+“This is not the time to kill each other.”
+
+His noble-faction authority still carried some weight.
+
+The timid boy backed away—
+
+muttering.
+
+The large student crawled backward on three limbs—
+
+terrified.
+
+His pants wet.
+
+Then more proposals came.
+
+“Strength!”
+
+“Academic ranking!”
+
+“Lower years first!”
+
+“Why lower years?”
+
+“I'm older because I repeated!”
+
+“Use age!”
+
+“Respect seniors!”
+
+“Age is free!”
+
+“Why should that earn privilege?”
+
+“Then admission year!”
+
+“Money!”
+
+“Sacrifice the poor first!”
+
+“Friends!”
+
+“People with no friends should go first!”
+
+“Friendship vote!”
 
 “Connections are power!”
 
-Gordon tried to restore order.
+“When we get out—
 
-Eventually—
+you'll remember how strong my family is.”
 
-they voted.
+“Anyone who sacrifices themselves for me—
 
-One first-year student was selected.
+I'll take care of your family later.”
 
-A boy almost nobody remembered.
+As the debate grew louder—
+
+guilt disappeared.
+
+Students who had barely been able to say “offering” earlier—
+
+now bargained over human lives like merchants at a market.
+
+“Vote!”
+
+“Let's decide rationally!”
+
+“Democracy!”
+
+“Majority rule!”
+
+“Keep voting until we reach agreement!”
+
+And so—
+
+students from one of the Empire's most prestigious institutions—
+
+debated.
+
+Voted.
+
+Reasoned.
+
+Democratically selected tomorrow's food.
+
+The result—
+
+a first-year boy almost no one remembered.
 
 Poor grades.
 
-Poor athletics.
+Poor athletic performance.
 
 Unremarkable appearance.
 
-No friends to defend him.
+No influential friends.
 
-He protested desperately.
+No one to campaign for him.
+
+His face went white.
 
 “This is unfair!”
 
-“You all coordinated!”
+“Shut up!”
 
-The others hardened themselves.
+“Majority vote!”
 
-“No friends is your own problem.”
+“It was almost unanimous!”
 
-“Connections are strength too.”
+“You coordinated privately!”
 
-“If we beat you and throw you to the flower—
+“I don't have friends to defend me!”
 
-what can you do?”
+The group hardened.
 
-The boy began to cry.
+“Not having friends isn't something to brag about.”
 
-“I have parents.”
+“Connections are ability too.”
 
-“Younger siblings…”
+“What use is someone like you?”
+
+“What do you contribute?”
+
+“If we beat you unconscious and throw you to the flower—
+
+what are you going to do?”
+
+“Just accept it.”
+
+“When we escape—
+
+we'll compensate your family.”
+
+“We'll tell them you were a hero.”
+
+Threats.
+
+Bribes.
+
+Promises.
+
+Everyone not selected—
+
+frantically strengthening the wall between themselves and the victim.
+
+The boy began crying.
+
+“No…”
+
+“My parents…”
+
+“I have younger brothers and sisters…”
 
 Everyone looked away.
 
-Nobody wanted to remember that the “food” was someone’s child.
+They did not want to see—
 
-Someone’s brother.
+someone's son.
+
+Someone's brother.
+
+They wanted to see—
+
+**surplus**.
+
+Food.
+
+Because if someone else did not die—
+
+they might.
+
+And perhaps—
+
+the world outside the tower had never been entirely different.
+
+The thought made nearly everyone feel sick.
+
+The atmosphere twisted under contradiction.
 
 Then—
 
 “Enough.”
 
-A hand rose.
+One hand rose.
 
-The noise died.
+The frenzy stopped.
 
-Vikir stepped forward.
+A black-haired, red-eyed first-year stepped through the crowd.
 
-Black hair.
+Expressionless.
 
-Red eyes.
+Unreadable.
 
-Unreadable expression.
+Vikir.
 
-“…I’ll be the food.”
+“…I'll be the food.”

@@ -1,10 +1,16 @@
 {
   "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT ACTIVE. All 500 draft files exist, but prior acceptance is being revalidated against Chinese raws after confirmed summary-style compression.",
   "target_chapter_count": 500,
-  "accepted_count": 497,
+  "accepted_count": 499,
   "staged_count": 0,
-  "next_chapter": null,
-  "active_title_family": null,
+  "next_chapter": 321,
+  "active_title_family": {
+    "name": "Underdogma",
+    "range": [
+      321,
+      325
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -4451,8 +4457,9 @@
       "qa": "qa/chapter-0314.md",
       "provenance": "editorial/provenance/chapter-0314.json",
       "acceptance": "qa/acceptance/chapter-0314.json",
-      "acceptance_sha": "cda30f9a91ad0ca0be4e4194d971fe4a434aa57e",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "acceptance_sha": "24623c68a7682089de0e40fea3214d35f5f5a109",
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 315,
@@ -4465,13 +4472,14 @@
       "qa": "qa/chapter-0315.md",
       "provenance": "editorial/provenance/chapter-0315.json",
       "acceptance": "qa/acceptance/chapter-0315.json",
-      "acceptance_sha": "169aabecffa950341143718fa929440877ad0acf",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "acceptance_sha": "8adffc062924ccdc92c1410b03b12ae8496529f8",
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 316,
       "title": "Surplus Man (3)",
-      "status": "needs_rework",
+      "status": "accepted",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/316.txt",
       "english_mtl_reference": "source/chapters/chapter-314.xhtml",
@@ -4479,10 +4487,10 @@
       "qa": "qa/chapter-0316.md",
       "provenance": "editorial/provenance/chapter-0316.json",
       "acceptance": "qa/acceptance/chapter-0316.json",
-      "acceptance_sha": "609f5769efe456690a6f1d6f789e4ca8c18eb2d6",
+      "acceptance_sha": "541a985637ccdffe8d9a10c61163c2a737c316cf",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "previous_status": "accepted",
-      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20",
       "reopened_date": "2026-09-20"
     },
     {
@@ -4496,8 +4504,9 @@
       "qa": "qa/chapter-0317.md",
       "provenance": "editorial/provenance/chapter-0317.json",
       "acceptance": "qa/acceptance/chapter-0317.json",
-      "acceptance_sha": "4998cc543c6b1c92a394dde8dc582130bf554742",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "acceptance_sha": "b86a7b915b8f48a15aadb972ff3dadf7957d49bd",
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 318,
@@ -4510,13 +4519,14 @@
       "qa": "qa/chapter-0318.md",
       "provenance": "editorial/provenance/chapter-0318.json",
       "acceptance": "qa/acceptance/chapter-0318.json",
-      "acceptance_sha": "2bc14d213f15377360ed274750c01db2fa17f083",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "acceptance_sha": "bd04964f13d2c9f9f80a3b6246a48ece5568f469",
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 319,
       "title": "Surplus Man (6)",
-      "status": "needs_rework",
+      "status": "accepted",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/319.txt",
       "english_mtl_reference": "source/chapters/chapter-317.xhtml",
@@ -4524,10 +4534,10 @@
       "qa": "qa/chapter-0319.md",
       "provenance": "editorial/provenance/chapter-0319.json",
       "acceptance": "qa/acceptance/chapter-0319.json",
-      "acceptance_sha": "f766b3fb8695cf3afd550f5d375071ebfc7dd1fa",
+      "acceptance_sha": "5103d7492e7fc779b5d9828084773e810b09115f",
       "family_qa": "qa/families/surplus-man-0314-0320.md",
       "previous_status": "accepted",
-      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20",
       "reopened_date": "2026-09-20"
     },
     {
@@ -4541,8 +4551,9 @@
       "qa": "qa/chapter-0320.md",
       "provenance": "editorial/provenance/chapter-0320.json",
       "acceptance": "qa/acceptance/chapter-0320.json",
-      "acceptance_sha": "b02d63e9f5524f80b39b1e7f72103c0813f9ba6b",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "acceptance_sha": "ffcdec3e2db7ad1a5056a7b0b604231e1b4878da",
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 321,
@@ -7070,14 +7081,12 @@
   ],
   "project_complete": false,
   "historical_accepted_count": 500,
-  "needs_rework_count": 3,
+  "needs_rework_count": 1,
   "completeness_audit": {
     "status": "active",
     "opened": "2026-09-20",
     "manuscript_files_present": 500,
     "confirmed_needs_rework": [
-      316,
-      319,
       420
     ],
     "priority_review_threshold": "draft_bytes / raw_bytes < 0.60 for ordinary one-target Chinese containers; triage heuristic only, not an automatic failure",
@@ -7235,16 +7244,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All seven historical drafts were materially compressed; all seven initial-priority targets resolved."
+      },
+      {
+        "name": "Surplus Man",
+        "range": [
+          314,
+          320
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All seven historical drafts were materially compressed; confirmed failures 316 and 319 fully rebuilt and resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      314,
-      315,
-      316,
-      317,
-      318,
-      319,
-      320,
       321,
       322,
       323,
@@ -7258,23 +7270,20 @@
       421,
       431
     ],
-    "pending_priority_review_count": 19,
+    "pending_priority_review_count": 12,
     "next_family": {
-      "name": "Surplus Man",
+      "name": "Underdogma",
       "range": [
-        314,
-        320
+        321,
+        325
       ]
     },
     "resolved_confirmed_needs_rework": [
-      97
+      97,
+      316,
+      319
     ],
     "pending_strong_suspect_chapters": [
-      315,
-      316,
-      317,
-      318,
-      319,
       322,
       323,
       324,
@@ -7283,7 +7292,7 @@
       421,
       431
     ],
-    "pending_strong_suspect_count": 12,
+    "pending_strong_suspect_count": 7,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7304,7 +7313,12 @@
       310,
       311,
       312,
-      313
+      313,
+      315,
+      316,
+      317,
+      318,
+      319
     ]
   }
 }

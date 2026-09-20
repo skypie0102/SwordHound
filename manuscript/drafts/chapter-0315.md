@@ -1,6 +1,6 @@
 # Chapter 315: Surplus Man (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/315.txt`. Recovered English Chapter 313 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/315.txt`. Recovered English Chapter 313 is the verified shifted secondary witness. Project terminology controls **Daylily of Blood Tree**, **Hell Hound**, **Random Box**, and **Mimic**.
 
 “Oh.”
 
@@ -8,226 +8,476 @@
 
 Vikir stretched.
 
-The huge flower atop the clock tower chewed slowly.
+Atop the clock tower—
 
-Blood.
+the giant flower chewed.
 
-Bone fragments.
+CRUNCH.
 
-Flesh.
+GRIND.
 
-As the blood soaked into the dried vines—
+Blood poured between its teeth—
 
-they plumped slightly.
+mixed with bone fragments and torn flesh.
 
-The students backed away in horror.
+As that blood soaked into the surrounding plant—
+
+some of the mummy-dry vines visibly expanded.
+
+The students recoiled.
 
 The fairy giggled.
 
-[This plant eats one human per day?]
+[This plant eats one human every day?]
 
-[It is still young, so one should be enough?]
+[It is still young?]
 
-[Alive or dead both work?]
+[One should be enough?]
 
-**<Daylily of Blood Tree>**
+[Alive or dead—
 
-**Danger Rating:** S
+both work?]
 
-**Size:** ?
+> **<Daylily of Blood Tree>**
+>
+> **Danger Rating:** **S**  
+> **Size:** ?
+>
+> An immature but overwhelmingly dangerous demonic plant.  
+> Even at this stage, it requires one human body per day.
 
-An immature but overwhelmingly dangerous demonic plant.
+Compared with the Hell Hounds from the previous floor—
 
-Even weakened—
+this thing existed in another class entirely.
 
-it needed one human body per day.
+The survivors turned pale.
 
-The students turned pale.
+“You expect us to survive sixty-nine days with **that** here!?”
 
-“You expect us to survive sixty-eight days with that thing?”
+“No!”
 
-“No—sixty-eight now!”
+“Sixty-eight now!”
 
-“That changes nothing!”
+“Same difference!”
 
-The important question was not merely the shortened time.
+“Calm down!”
 
-It was **why** the time had shortened.
+“The important part isn't that it decreased by one.”
 
-The flower licked scraps from between its teeth—
+“It's **why** it decreased.”
 
-then sank back into dormancy.
+“Maybe the time can be shortened again.”
 
-The fairy added cheerfully:
+One person had died.
+
+The mission duration—
+
+also decreased by one.
+
+Even so—
+
+sixty-eight days was absurd.
+
+Food was limited.
+
+Water was limited.
+
+And one person per day—
+
+had to become the flower's meal.
+
+The Daylily extended a long tongue.
+
+Picked bits of meat from between its teeth.
+
+Then—
+
+went dormant again.
+
+The fairy spoke brightly.
 
 [Do not worry?]
 
-[It will wake again later?]
+[Nothing bad will happen?]
 
-That destroyed what little relief remained.
+Students began to relax.
+
+Then the fairy added—
+
+[It will wake up again later anyway?]
+
+Every expression froze.
+
+The nightmare had only begun.
 
 Cold.
 
 Hunger.
 
-And a predator that demanded one body every day.
+The Daylily.
 
-Some students attacked the stem.
+Some students tried attacking the stem.
 
-Nothing happened.
+Nothing.
 
-At one-percent strength—
+They could not even leave a mark.
 
-they could not even scratch an S-rank monster.
+S-rank.
 
-Then the fairy offered another “gift.”
+And everyone here had been reduced to around one percent output.
 
-Black cubes dropped into everyone’s arms.
+“Something is wrong.”
 
-Each had a red question mark.
+“I can't gather mana properly.”
 
-[Weapons are important?]
+“I don't want to stay near that monster!”
 
-[So I prepared Random Boxes?]
+“I'd rather freeze in the sewers!”
 
-[What is inside depends on luck?]
+“You think the plant can't reach you there?”
 
-One student opened his first.
+“Didn't you see the roots everywhere?”
 
-Reached inside.
+“What are we supposed to eat?”
 
-Crunch.
+“How do we survive sixty-eight days?”
 
-He pulled the arm back—
+Panic swelled.
 
-and his hand was gone at the wrist.
+Then the fairy spoke as though granting charity.
 
-The box vanished.
+[Do not be disappointed?]
+
+[I prepared a special present?]
+
+BANG!
+
+BANG!
+
+BANG!
+
+Black cubes dropped into the arms of every survivor.
+
+About the size of a human head.
+
+Each box had a red **?** near the lid.
+
+[You need weapons?]
+
+[So I prepared special gifts?]
+
+[What comes out depends on luck?]
+
+**Random Boxes.**
+
+According to the fairy—
+
+they could contain “items.”
+
+Artifacts.
+
+Magic tools.
+
+Useful equipment.
+
+Or trash.
+
+One student immediately stepped forward.
+
+“Yes!”
+
+“I'm always lucky with these!”
+
+“Watch this!”
+
+He opened the lid.
+
+The box could not simply be overturned.
+
+Breaking it did not reveal the contents.
+
+A person had to put a hand inside.
+
+“Let's see…”
+
+His arm entered.
+
+Then—
+
+CRUNCH.
+
+Wet flesh tore.
+
+“…Huh?”
+
+He pulled back.
+
+The hand was gone.
+
+Cut cleanly at the wrist.
+
+“AAAAAAAAH!?”
+
+Blood sprayed.
+
+The student collapsed.
+
+The black box vanished by itself.
 
 The fairy giggled.
 
 [Sometimes the result is “empty”?]
 
-[Something like a Mimic?]
+[Something like this?]
 
-Hope collapsed again.
+A **Mimic**.
 
-Still—
+The small hope created by the Random Boxes died immediately.
 
-many students opened their boxes.
+Students split into two groups.
 
-“What else can we do?”
+Open the box.
 
-“I’d rather risk a hand than starve.”
+Do not open it.
 
-The results varied wildly.
+Most refused after seeing a wrist disappear.
 
-Red, blue, and green candies.
+Others decided they had no choice.
 
-A feather fan.
+“What else do we do?”
 
-Iron sword.
+“Sit here and starve?”
 
-Harmonica.
+“I'll risk one hand!”
 
-Hammer.
+“Give me a weapon!”
 
-Salt and pepper.
+“Anything!”
 
-Jerky.
+BANG!
 
-Water.
+BANG!
 
-Farm tools.
+BANG!
 
-And junk.
+Boxes opened.
 
-Meanwhile—
+Results varied wildly.
 
-the smarter students began analyzing the mission.
+The most common rewards—
+
+**Strange Candies**.
+
+Red.
+
+Blue.
+
+Green.
+
+Then—
+
+a noblewoman's feather fan.
+
+a sharp iron sword.
+
+a tiny harmonica.
+
+a heavy hammer.
+
+salt.
+
+pepper.
+
+jerky.
+
+clean water.
+
+farm tools.
+
+Useful items.
+
+Useless items.
+
+Everything.
+
+While some gambled—
+
+others analyzed the mission.
 
 “We arrived with sixty-nine survivors.”
 
-“The mission originally said sixty-nine days.”
+“The mission said sixty-nine days.”
 
 “One person died.”
 
 “Now it says sixty-eight.”
 
+“Was it just because twenty-four hours passed?”
+
+“No.”
+
+“Maybe **we** control the duration.”
+
+“Survivor count equals days.”
+
+“If fewer people survive…”
+
+“…the required time decreases.”
+
+The conclusion was horrifying.
+
+As cold and hunger killed people—
+
+the mission shortened.
+
+If violence over food killed people—
+
+the mission shortened.
+
+The demon had designed the incentives.
+
+“There's still some food in the ruins.”
+
+“Most of it is rotten.”
+
+“We won't last long.”
+
+Someone laughed nervously.
+
+“If it gets bad—
+
+we eat that fat guy first.”
+
+“What?”
+
+“Terrible joke.”
+
+A pause.
+
+“…You think I'm joking?”
+
 Silence.
 
-The implication became obvious.
+A human with no food might survive only several days.
 
-The number of days matched the number of survivors.
+With water—
 
-If survivors decreased—
+perhaps longer.
 
-the remaining duration decreased too.
+Not sixty-eight days.
 
-That thought poisoned the group.
+And tomorrow—
 
-“We probably only have enough rotten supplies for two weeks.”
+the Daylily would wake again.
 
-“So if enough people die…”
+One student tried to find a less monstrous solution.
 
-“…the mission gets shorter.”
+“If one person getting eaten makes it sleep…”
 
-Someone joked about eating the fattest student.
+“Then everyone runs.”
 
-No one laughed.
+“Slowest person gets caught.”
 
-Cannibalism.
+“Natural selection.”
 
-The tower’s message was becoming clear.
+“That is at least fair.”
 
-Kill one another.
+Another asked—
 
-Use corpses to feed the plant.
+“Can we fight it together?”
 
-Use flesh to feed yourselves.
+The fairy—
 
-Then the fairy made things worse.
+almost dreamily—
 
-[You know?]
+interrupted.
 
-[The Daylily could kill all sixty-eight people very quickly?]
+[The Daylily can kill sixty-eight people very quickly?]
+
+[All at once is easy?]
 
 [Best not to make it move too much?]
 
-A window appeared.
+It pointed at a ruined building nearby.
 
-A recording.
+Behind a shattered window—
 
-Nearly one hundred Hell Hounds attacking the Daylily.
+huge bones.
 
-They did not last ten seconds.
+Thick.
 
-Stems cut bodies in half.
+Broken.
 
-Roots erupted from below.
+Hell Hound remains.
 
-Poison gas dissolved the final survivors.
+The fairy opened a recording.
+
+Nearly one hundred Hell Hounds—
+
+charging the Daylily.
+
+The fight ended in under ten seconds.
+
+At the beginning—
+
+whip-like stems cut dozens of bodies in half.
+
+Then—
+
+roots erupted from below and turned more into mangled meat.
+
+At the end—
+
+poison gas from the flower reduced the last surviving hounds to bloody liquid.
 
 Total annihilation.
 
-The room fell silent.
+The students stared.
 
-Direct combat—
+Those Hell Hounds had nearly exterminated them on Floor 2.
 
-was impossible.
+Against the Daylily—
 
-The plant had to be fed.
+they had accomplished nothing.
 
-One body a day.
+If making the plant move increased how much it needed to eat—
 
-Then someone whispered:
+then provoking it could kill everyone at once.
+
+The intended solution became obvious.
+
+One controlled offering.
+
+Every day.
+
+A body.
+
+The ruins fell silent.
+
+Sixty-eight survivors—
+
+looking at one another differently.
+
+Cold.
+
+Hunger.
+
+And the possibility of being selected as food.
+
+Then someone whispered—
 
 “If it eats corpses too…”
 
-“Then not everyone has to die to the plant.”
+“It does.”
 
-“People are going to die from hunger anyway.”
+“The fairy said alive or dead.”
 
-Dangerous eyes turned toward one another.
+“Then we don't need to sacrifice someone healthy every single day.”
 
-The real mission had begun.
+“People will die anyway.”
+
+“Maybe that makes this floor easier.”
+
+Dangerous eyes moved across the group.
+
+The atmosphere began to rot.

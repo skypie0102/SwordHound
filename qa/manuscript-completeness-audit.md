@@ -10,7 +10,7 @@
 
 The 500 target manuscript files do exist, but a deterministic size scan exposed unusually compressed English drafts. Byte ratio is only a triage signal because Chinese UTF-8 and English encode differently, but the lowest-ratio chapters were suspicious enough to require direct raw comparison.
 
-Direct reads confirmed that Chapters **97, 316, 319, and 420** preserve the broad plot while omitting substantial sentence-level narration, dialogue, descriptive detail, and transitions from their Chinese raws. They read as condensed summaries rather than full source-faithful translations. That violates the repository's no-dropped-material acceptance gate, so their prior PASS/accepted records are superseded for current-state purposes.
+Direct reads confirmed that Chapters **97, 316, 319, and 420** originally preserved the broad plot while omitting substantial sentence-level narration, dialogue, descriptive detail, and transitions from their Chinese raws. Chapters **97, 316, and 319 have since been fully rebuilt and re-accepted**. Chapter **420** remains the sole unresolved confirmed failure.
 
 Representative example: Chapter 316 is **3,220 draft bytes vs 10,102 Chinese-raw bytes (0.319)**. The raw contains extended dialogue and narrative beats that the draft collapses into short bullet-like fragments. Chapter 319 (0.332), Chapter 420 (0.348), and Chapter 97 (0.389) show the same pattern on direct inspection.
 
@@ -56,13 +56,13 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 311 | Hell Tree (5) | 3644 | 9625 | 0.379 | REBUILT — PASS |
 | 312 | Hell Tree (6) | 3849 | 8401 | 0.458 | REBUILT — PASS |
 | 313 | Hell Tree (7) | 4835 | 10739 | 0.450 | REBUILT — PASS |
-| 314 | Surplus Man (1) | 5488 | 10580 | 0.519 | priority review |
-| 315 | Surplus Man (2) | 3604 | 9368 | 0.385 | priority review |
-| 316 | Surplus Man (3) | 3220 | 10102 | 0.319 | CONFIRMED REWORK |
-| 317 | Surplus Man (4) | 4389 | 9656 | 0.455 | priority review |
-| 318 | Surplus Man (5) | 3450 | 9299 | 0.371 | priority review |
-| 319 | Surplus Man (6) | 3646 | 10996 | 0.332 | CONFIRMED REWORK |
-| 320 | Surplus Man (7) | 4473 | 8611 | 0.519 | priority review |
+| 314 | Surplus Man (1) | 5488 | 10580 | 0.519 | REBUILT — PASS |
+| 315 | Surplus Man (2) | 3604 | 9368 | 0.385 | REBUILT — PASS |
+| 316 | Surplus Man (3) | 3220 | 10102 | 0.319 | REBUILT — PASS |
+| 317 | Surplus Man (4) | 4389 | 9656 | 0.455 | REBUILT — PASS |
+| 318 | Surplus Man (5) | 3450 | 9299 | 0.371 | REBUILT — PASS |
+| 319 | Surplus Man (6) | 3646 | 10996 | 0.332 | REBUILT — PASS |
+| 320 | Surplus Man (7) | 4473 | 8611 | 0.519 | REBUILT — PASS |
 | 321 | Underdogma (1) | 5882 | 10573 | 0.556 | priority review |
 | 322 | Underdogma (2) | 5235 | 11796 | 0.444 | priority review |
 | 323 | Underdogma (3) | 4592 | 10874 | 0.422 | priority review |
@@ -84,7 +84,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 19 chapters (down from 47).  
+**Pending initial priority queue:** 12 chapters (down from 47).  
 **Next family:** Attack Land (190–196).
 
 ### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
@@ -93,7 +93,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
 
-**Pending initial priority queue:** 19 chapters.  
+**Pending initial priority queue:** 12 chapters (down from 47).  
 **Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
 
 ### Madam Eight-Legs — Chapters 95–100 — REBUILT / PASS
@@ -103,8 +103,8 @@ All six historical drafts had completeness or boundary-integrity problems. Chapt
 Repairs include the full Ballak-village/altar sequence, scoped E94 restoration for the C095 Aheul bridge, complete Bakira/Aiyen departure scene, full Bog Salamander/Bone-Sucking Mosquito preparation, summit climb and named dead, detailed Madam combat/regeneration mechanics, and a corrected target100 ending at the prepared Bog Salamander cushion.
 
 **Chapter97 confirmed failure: RESOLVED.**  
-**Current unresolved confirmed failures:** 316, 319, 420.  
-**Pending initial priority queue:** 19 chapters.  
+**Current unresolved confirmed failures:** 420.  
+**Pending initial priority queue:** 12 chapters (down from 47).  
 **Next family:** Attack Land (190–196).
 
 ### Nostalgia — Chapters 101–104 — REBUILT / PASS
@@ -113,7 +113,7 @@ All four historical drafts were materially compressed and have been rebuilt. The
 
 Restored material includes the full Bog Salamander impact mechanics, Madam's death/karma and Beelzebub slot struggle, Aiyen's three-day rescue and the >4,000-person tribal gathering, Peak Sword Graduator/Seventh Fang analysis, Bakira husbandry sequence, Ballak's no-goodbye philosophy, complete multi-tribe farewell, Camus/Colosseo recollection, and Aiyen's Anubis/collar/farewell sequence.
 
-**Pending initial priority queue:** 19 chapters.  
+**Pending initial priority queue:** 12 chapters (down from 47).  
 **Next family:** Attack Land (190–196), containing priority targets 192 and 196.
 
 ### Attack Land — Chapters 190–196 — REBUILT / PASS
@@ -122,13 +122,13 @@ All seven historical drafts were materially compressed, not only priority target
 
 Verified raw repairs remain explicit: C192's endpoint name slip resolves to **Pigi**, and C193's isolated department-label drift does not move Pigi out of **Cold Department Class B**.
 
-**Pending initial priority queue:** 19 chapters.
+**Pending initial priority queue:** 12 chapters (down from 47).
 
 ### Tuition — Chapters 225–233 — REBUILT / PASS
 
 All nine historical drafts were materially compressed, not only priority targets 225, 228, 230, and 231. The rebuild restores the newspaper/tuition setup, financial-security reasoning, Sherpa/MiniPin recruitment arc, repeated home intrusions, Gnoll colony extermination, Poison Gnoll and hidden-bank-gold sequence, full Ms. Ouroboros encounter, appraisal/recruitment details, Thrifty Bazaar economics, and the anonymous Peri Award scholarship donation.
 
-**Pending initial priority queue:** 19 chapters.  
+**Pending initial priority queue:** 12 chapters (down from 47).  
 **Next family:** National University League (236–244), containing priority target 242.
 
 ### National University League — Chapters 236–244 — REBUILT / PASS
@@ -137,15 +137,24 @@ All nine historical drafts were materially compressed, not only priority target 
 
 Progression guards remain intact: Bakilaga's prior public level is peak Sword Expert with current Sword Graduator only rumored; Eighth Fang remains future setup; Vikir/Bakilaga has no pin or declared winner.
 
-**Pending initial priority queue:** 19 chapters.  
-**Next family:** Hell Tree (307–313).
+**Pending initial priority queue:** 12 chapters (down from 47).  
+**Next family:** Underdogma (321–325).
 
 ### Hell Tree — Chapters 307–313 — REBUILT / PASS
 
 All seven historical drafts were materially compressed and all seven were initial-priority targets. The rebuild restores the exterior rescue crisis and inverted-tree lore; Amdusias tower / Level System mechanics; acid-vomit stat-candy recovery; corrupted Colosseo and scent-bait setup; exact 108 students / 108 Hell Hounds / 108 minutes mission; Granola betrayal/rescue; B+ Hell Hound pack clear; Sabik-ginkgo strategy; A+ Cerberus Bonus Stage; exact 230/219/244 candy spike; project-canonical Immortality — Gargoyle (S) regeneration; Physical Resistance unlock; Fairy Candy Shop; deliberate Level1 reward exploitation; and the 69-survivor Floor3 transition.
 
-**Pending initial priority queue:** 19 chapters.  
-**Next family:** Surplus Man (314–320), containing confirmed failures 316 and 319.
+**Pending initial priority queue:** 12 chapters (down from 47).  
+**Next family:** Underdogma (321–325).
+
+### Surplus Man — Chapters 314–320 — REBUILT / PASS
+
+All seven historical drafts were materially compressed; all seven were initial-priority targets. Confirmed failures **316** and **319** were fully rebuilt and re-accepted. The rebuild restores the ruined-Capital warmth/hunger setup, Daylily awakening and Random Box/Mimic rules, full survivor sacrifice/cannibalism debate and vote, Vikir's anti-sacrifice plan, pooled Random Boxes/items, Silver Reflexes unlock, complete S-rank Daylily battle, pooled nonlethal biological bait, exact reward sequence, Conversion Bug reward-skimming reveal, Daylily seed harvest, and the forced Floor4 transition.
+
+**Current tracker state:** 499 accepted / 1 confirmed needs rework.  
+**Current unresolved confirmed failure:** 420.  
+**Pending initial priority queue:** 12 chapters.  
+**Next family:** Underdogma (321–325).
 
 ## Confirmed failures
 
@@ -154,11 +163,11 @@ All seven historical drafts were materially compressed and all seven were initia
 Historical draft was confirmed summary-compressed. The complete Madam Eight-Legs family (95–100) was rebuilt on 2026-09-20; Chapter97 now has fresh draft/QA/provenance/acceptance evidence and is accepted again.
 
 
-### Chapter 316 — Surplus Man (3)
-Direct raw/draft comparison confirms summary-style compression. Extended survivor dialogue, voting discussion, social dynamics, and narrative transitions are collapsed into terse fragments.
+### Chapter 316 — Surplus Man (3) — RESOLVED
+Historical draft was confirmed summary-compressed. The complete Surplus Man family (314–320) was rebuilt on 2026-09-20; Chapter316 now restores the full survivor debate, voting process, hierarchy collapse, coercion, and social transitions and is accepted again.
 
-### Chapter 319 — Surplus Man (6)
-Direct raw/draft comparison confirms summary-style compression across the Daylily fight, bodily-material bait preparation, reward sequence, and scene-level narration.
+### Chapter 319 — Surplus Man (6) — RESOLVED
+Historical draft was confirmed summary-compressed. The complete Surplus Man family (314–320) was rebuilt on 2026-09-20; Chapter319 now restores the full Daylily fight, pooled nonlethal biological bait preparation, reward sequence, and connective narration and is accepted again.
 
 ### Chapter 420 — Goodbye, Nouvelle Vague (2)
 Direct raw/draft comparison confirms summary-style compression. The draft preserves the major escape/fight beats but omits substantial source-level dialogue, action detail, and connective narration.

@@ -1,282 +1,470 @@
 # Chapter 320: Surplus Man (7)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/320.txt`. Recovered English Chapter 318 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/320.txt`. Recovered English Chapter 318 is the verified shifted secondary witness. Project terminology controls **Strange Candy Bag — Conversion Bug**, **Baby Madam**, **Camus Morgue**, **Magic Resistance**, **Sunflower-Seed Vole Tooth Hoe**, **Water-Resistant Oil-Paper Bag**, and **Daylily of Blood Tree**. No *Underdogma* material from target321 is imported.
 
 [Why are you doing this?]
 
-The fairy struggled.
+The fairy thrashed.
 
-Vikir only thought:
+Vikir looked at its confused face.
 
 *Scammer.*
 
-Fairies in the tower survived by skimming rewards.
+Fairies were thieves by profession.
 
-Fees.
+They parasitized the achievements of tower participants—
 
-Commissions.
+then skimmed the rewards.
 
-“Unclaimed” items.
+“Fees.”
 
-Whatever excuse worked.
+“Commissions.”
 
-The common method was simple.
+“Administrative costs.”
 
-Wait until a challenger finished an exhausting task.
+Any excuse.
 
-Show obvious rewards.
+Sometimes—
 
-Hide the real treasure among trash or packaging.
+more than half the reward vanished.
 
-Anything the challenger failed to claim—
+Sometimes—
 
-became the fairy’s.
+the fairy tried to take everything.
 
-Rules required the fairy to display the full reward.
+The usual method was especially dirty.
 
-They did **not** require the fairy to explain what mattered.
+Wait until a challenger had finished a difficult stage.
 
-Vikir took the old sack.
+Exhausted.
 
-The fairy groaned.
+Judgment impaired.
 
-The item was extremely rare.
+Then present obvious rewards.
 
-Even fairies barely knew how to obtain one.
+Candy.
 
-**<Strange Candy Bag — Conversion Bug>**
+Weapons.
 
-**Type:** Exchange  
-**Rank:** S
+Treasure.
 
-A tiny parasite that lives inside small animals.
+Meanwhile—
 
-Its “bag” shape is actually part of an egg sac.
+hide the real prize in packaging.
 
-It does not harm the host.
+Trash.
 
-Its food is Strange Candy.
+Residue.
 
-If not fed periodically—
+Something made to look irrelevant.
 
-it disappears.
+Tower rules required the fairy to **show** every reward earned.
 
-Its appetite is enormous.
+They did not require it to explain which reward mattered.
 
-So is its output.
+And whatever the challenger failed to claim—
 
-**Candy Conversion — Special**
+became the fairy's.
 
-After eating 100 candies of the same color—
+*Of course it tried this with something so rare.*
 
-it produces one candy of a different random color.
+Vikir tightened his grip on the sack.
 
-Lottery.
+Then took it.
 
-Feed it one hundred common red Strength candies—
+[Ahhh…]
 
-and it might produce:
+The fairy made a defeated sound.
 
-Gold Level candy.
+The shabby “candy bag” was one of the rarest hidden items in the tower.
 
-Silver Reflexes candy.
+So rare—
 
-Black Physical Resistance candy.
+even fairies did not properly understand how to obtain one.
 
-Green Agility candy.
+> **<Strange Candy Bag — Conversion Bug>**
+>
+> **Type:** Exchange  
+> **Rank:** **S**
+>
+> A microscopic parasite that lives inside small animals.  
+> The bag-like form is actually part of its egg sac.  
+> It does not harm its host.  
+> Its primary food is Strange Candy.  
+> If it goes too long without consuming candy, it naturally disappears.
+>
+> **Candy Conversion — Special**
+>
+> **Feed 100 candies of the same color → receive 1 candy of a different random color.**
 
-Blue Stamina candy.
+“…Lottery.”
 
-Or another color.
+Vikir shook the sack.
 
-In later tower stages—
+A tiny parasite moved inside.
+
+Animals hosting it remained healthy.
+
+But gained an unusual function.
+
+Feed the parasite **100 red Strength candies**—
+
+and it might output—
+
+a gold Level candy.
+
+a silver Reflexes candy.
+
+a black Physical Resistance candy.
+
+a green Agility candy.
+
+a blue Stamina candy.
+
+Any different color—
+
+randomly.
+
+In later Hell Tree floors—
 
 ordinary candies became plentiful.
 
-Used correctly—
+Especially red.
 
-the Conversion Bug could transform common drops into rare hidden-stat rewards.
+If this parasite was managed carefully—
+
+common Strength candy could be gambled into rare advanced-stat or Level candy.
+
+With luck.
 
 *Camus had this before regression.*
 
-She had used the converted rewards almost entirely on Magic Resistance.
+She had poured almost all of her Conversion Bug gains into **Magic Resistance**.
 
-That extraordinary Magic Resistance had helped her survive repeated mana-rampage breakthroughs.
+The result—
 
-But Camus had only found the parasite near the bottom of the tower.
+an absurd Magic Resistance value that repeatedly let her endure mana runaway—
 
-Vikir—
+and force through dangerous breakthroughs.
 
-had found it on Basement Floor 3.
+But Camus had not found the Conversion Bug until near the end of her tower journey.
 
-He looked at Baby Madam.
+Near the bottom.
 
-“Finding a trustworthy small animal host isn’t easy.”
+Vikir had obtained one on Basement Floor 3.
 
-“Good thing I have you.”
+He looked toward his shoulder.
 
-“Hack, hack.”
+Baby Madam.
 
-Baby Madam rubbed against his hand.
+“…Finding a trustworthy small animal isn't easy.”
 
-The parasite attached beneath her chin.
+“Good thing I already have you.”
 
-It caused no visible harm.
+“I'd host it myself if I could.”
+
+“My body is too large.”
+
+“So—
+
+please.”
+
+[Chik-chik.]
+
+Baby Madam rubbed her face against his hand while he petted her.
+
+The harmless parasite attached beneath her chin.
+
+She scratched the itchy spot a few times.
+
+Then ignored it.
+
+No injury.
+
+No weakness.
+
+Exactly as the item description promised.
 
 “From now on—
 
 you can eat the stat candies.”
 
-Baby Madam would gain from consuming them.
+Baby Madam would also grow by consuming them.
 
-The parasite—
+The parasite's processing function—
 
-from processing them.
+was a separate benefit.
 
-Different benefits.
+Vikir looked back.
 
-Behind Vikir—
+The fairy had already reclaimed most of the scattered reward pile.
 
-the fairy had already reclaimed most of the scattered candy pile.
+Apparently losing the true S-rank reward had made it desperate.
 
-Apparently—
+The ordinary candies were likely most of its available property.
 
-losing the hidden S-rank reward had hurt enough.
+A few pieces remained scattered.
 
-A few ordinary candies remained.
+Vikir deliberately kicked several farther away.
 
-Vikir kicked them away—
+“Be grateful for scraps.”
 
-then collected the ones lodged between the Daylily’s bizarre teeth.
+Then he searched the dead Daylily.
 
-Fifteen red.
+Its bizarre teeth had caught candies during the reward spill.
 
-Six green.
+Quite a few.
 
-Eleven blue.
+Vikir picked them out.
 
-No gold.
+**Red: 15.**
+
+**Green: 6.**
+
+**Blue: 11.**
+
+Gold—
+
+zero.
 
 Of course.
 
-The fairy had collected those first.
+The fairy had collected the valuable ones first.
 
-Then Vikir retrieved the two D-rank tools.
+STAB.
 
-The vole-tooth hoe.
+Vikir drove Beelzebub through the Daylily's flesh.
 
-The water-resistant oil-paper bag.
+Then forced his way out.
 
-He approached the Daylily’s flower.
+Through ruptured internal tissue.
 
-At its center—
+Past the destroyed eye.
 
-hard black seeds.
+Out through the back of the flower's head.
 
-Even aura-infused strikes had not easily dislodged them.
+He emerged covered in plant fluid.
 
-The vole-tooth hoe did.
+Students erupted.
 
-Thunk.
+“He's alive!”
 
-Thunk.
+“He killed it!”
 
-Thunk.
+“An S-rank monster!”
 
-Vikir dug out the seeds.
+“While weakened a hundred times!”
 
-Placed them in the moisture-resistant bag.
+“What **is** he!?”
 
-Preventing them from absorbing water—
+Every Colosseo survivor shouted.
 
-and germinating.
+Celebrated.
 
-Around him—
+No one came close.
 
-the students whispered.
+The killing intent and violence still clinging to Vikir—
 
-“He killed an S-rank monster at Level1.”
+made even cheering students keep their distance.
 
-“While one hundred times weaker.”
-
-“How strong was he outside?”
-
-“Sword Master?”
-
-“At that age?”
-
-“He’s been hiding his real ability this whole time?”
-
-No one approached.
-
-Except Granola.
+One exception.
 
 “V-Vikir!”
 
+Granola hurried over.
+
 “Use this cloth!”
+
+“I found it in the ruins!”
 
 “And this oil!”
 
-“It might help clean the residue!”
+“It should help clean the residue!”
 
-Vikir accepted what was useful.
+Vikir took what was useful.
 
-Then the fairy returned.
+Then—
+
+without caring about the stares—
+
+pulled out two items.
+
+> **<Sunflower-Seed Vole Tooth Hoe>**
+>
+> **Type:** Farm Tool  
+> **Rank:** D
+
+And—
+
+> **<Water-Resistant Oil-Paper Bag>**
+>
+> **Type:** Bag  
+> **Rank:** D
+
+He approached the Daylily's flower.
+
+At its center—
+
+what had looked like solid black tissue was covered in tightly packed sharp seeds.
+
+Vikir used the hoe.
+
+THUNK.
+
+One seed came free.
+
+THUNK.
+
+Another.
+
+Even aura-enhanced sword strikes had struggled to dislodge them.
+
+The giant-vole tooth tool—
+
+made for digging seeds—
+
+worked far better.
+
+Every seed went immediately into the oil-paper bag.
+
+Moisture-resistant.
+
+Safe.
+
+The point was simple.
+
+Do not let Daylily seeds absorb water.
+
+Do not let them germinate.
+
+The surrounding students whispered.
+
+“Level 1…”
+
+“He killed an S-rank monster at one percent strength.”
+
+“How strong was he **before** the tower?”
+
+“People are saying Sword Master or higher.”
+
+“At his age?”
+
+“You saw it yourself.”
+
+“So he was hiding his real strength the whole time?”
+
+“Why?”
+
+“Who knows?”
+
+“How could we understand what someone at that level is thinking?”
+
+Vikir ignored them.
+
+A tall tree surrounded by noisy grass.
+
+Then—
+
+the fairy reappeared.
+
+It trembled.
 
 Angry.
 
+Embarrassed.
+
 [Mission complete?]
 
-[Sixty-eight survivors?]
+[Survivors: sixty-eight?]
 
 [Everyone survives for free?]
 
-A status window appeared.
+A status window opened.
 
-**<Mission>**
+> **<Mission>**
+>
+> **Survive in the ruins for 1–68 days!**
+>
+> **※ Avoid the Daylily of Blood Tree!**
 
-**Survive in the ruins for 1–68 days.**
+The Daylily was dead.
 
-**※ Avoid the Daylily of Blood Tree.**
+Its enormous corpse could theoretically feed the sixty-eight survivors for the rest of the mission.
 
-With the Daylily dead—
+Which meant—
 
-the students could theoretically survive by eating the enormous corpse.
+the floor had become easy.
 
-The fairy clearly hated that.
+The fairy knew it.
 
-So it forcibly ended the mission.
+And hated it.
 
 [Fine?]
 
-[Go to the next floor?]
+[Just go?]
 
-[There will be a harder mission?]
+[The next floor has a harder mission?]
 
-It pulled a rope hanging from the sky.
+It snapped its fingers.
 
-RUMBLE.
+A rope dropped from the sky.
 
-A gigantic wall of water appeared in the distance.
+[I'll help you reach the next floor quickly?]
+
+[Those who cannot continue surviving—
+
+will also be cleaned away?]
+
+The fairy pulled the rope.
+
+RUMBLE—
+
+A roar came from the distance.
+
+Like an enormous toilet lever had been pulled somewhere in the world.
+
+Water.
+
+A wall of it.
+
+“WHAT IS THAT!?”
 
 “TSUNAMI!”
 
-“Run!”
+“RUN!”
 
-“There’s a gate!”
+“There!”
 
-“Too small!”
+“A door to the next floor!”
+
+“It's too small!”
 
 “One person at a time!”
 
-All sixty-eight survivors sprinted.
+“MOVE!”
 
-The portal to the next floor swallowed them one by one.
+The sixty-eight survivors sprinted.
 
-The fairy’s voice followed.
+Behind them—
+
+the enormous wave devoured the ruined Imperial Capital.
+
+Ahead—
+
+a narrow portal.
+
+One person.
+
+Then another.
+
+Then another.
+
+The transfer would scatter them.
 
 [Goodbye?]
 
-Then—
+The fairy's voice spun through the noise.
+
+All **68 survivors** jumped into the portal.
 
 Basement Floor 4.

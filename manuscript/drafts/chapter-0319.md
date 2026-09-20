@@ -1,110 +1,279 @@
 # Chapter 319: Surplus Man (6)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/319.txt`. Recovered English Chapter 317 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/319.txt`. Recovered English Chapter 317 is the verified shifted secondary witness. This rebuild resolves the confirmed post-500 compression failure. Project continuity controls **Immortality — Gargoyle (S)** for Vikir's regeneration and **Madam Eight-Legs venom** in his blood; local witness drift is not promoted.
 
-The Daylily’s hunger reached its limit.
+[SKREEEEEEEE!]
 
-Its flower split almost in half.
+The Daylily's hunger reached its limit.
 
-Teeth tore through asphalt and reinforcing bars.
+Its flower-head split almost in half.
+
+The open maw—
+
+deep as an abyss—
+
+chewed through steel reinforcement and asphalt.
 
 Its attacks changed.
 
-Roots dried stone to powder by pulling away moisture.
+Before—
 
-Wounds struck by those roots barely bled—
+mostly whips.
 
-because the blood had already been taken.
+Stems.
 
-Leaves slammed the ground.
+Roots.
 
-Burst.
+Crushing force.
 
-Released toxic clouds shaped like skulls.
+Now—
 
-A biological weapon with multiple killing systems.
+the plant began using its full biology.
 
-But Vikir moved differently now.
+CREEEAK—
 
-Not faster.
+A root tip touched stone.
 
-Not wider.
+The rock dried.
 
-Smaller.
+Then collapsed into sand.
 
-Cleaner.
+*Moisture extraction.*
 
-Minimum movement.
+*Annoying.*
 
-Fragments passed beside his face.
+There was not much water in this ruined environment.
 
-Roots missed by centimeters.
+The plant spent more energy extracting moisture than it gained.
 
-The world seemed slower.
+Still—
 
-**<Vikir>**
+the ability was lethal.
 
-**LV:** 1
+A root grazed Vikir.
 
-**Stats**
-- Strength: 260
-- Agility: 229
-- Stamina: 269
-- Physical Resistance: 1
-- ?: Locked
-- Reflexes: 0 (+1) = 1
+The wound barely bled.
 
-Five of the six total attributes were now available.
-
-And Reflexes—
-
-like Physical Resistance—
-
-could not normally be trained into existence outside the tower.
-
-Vikir cut one withered air bladder.
-
-A small amount of toxic gas escaped.
-
-The monster remained overwhelmingly strong.
-
-But its range had shrunk from dehydration.
+Because the root stole much of the blood and moisture at contact.
 
 Then—
 
-a smell drifted through the ruins.
+BANG!
+
+A dry leaf struck the ground.
+
+The swollen section burst like a huge balloon.
+
+Poison gas erupted.
+
+A skull-shaped cloud rolled through the street.
+
+Skin exposed to it blistered—
+
+then began rotting.
+
+The Daylily was not merely a carnivorous plant.
+
+It was a biological weapon with multiple independent killing systems.
+
+Vikir moved backward.
+
+Whips.
+
+Drying roots.
+
+Poison clouds.
+
+Debris.
+
+All missed.
+
+“Power means nothing—
+
+if it doesn't hit.”
+
+His movement had changed.
+
+Not larger.
+
+Not faster.
+
+Smaller.
+
+More precise.
+
+A root passed beside his shoulder by centimeters.
+
+Stone fragments crossed his face.
+
+Vikir only tilted his head.
+
+Time felt slower.
+
+A distant dot—
+
+took forever to become an immediate threat.
+
+His status now read—
+
+> **<Vikir>**
+>
+> **LV:** 1  
+> **Titles:** Rat Hunter / Hell Merchant
+>
+> **Stats**
+> - Strength: **260**
+> - Agility: **229**
+> - Stamina: **269**
+> - Physical Resistance: **1**
+> - ?: Locked
+> - Reflexes: **0 (+1) = 1**
+
+**Reflexes.**
+
+One of the three advanced attributes that could not normally be trained into existence outside the tower.
+
+Vikir had awakened it artificially.
+
+*Five of the six.*
+
+*On Basement Floor 3.*
+
+Even heroes with extraordinary potential had usually reached the deep floors before collecting two hidden attributes.
+
+Luck—
+
+absurdly good luck—
+
+had accelerated Vikir's progress.
+
+Beelzebub cut across one dried leaf.
+
+HISSSS—
+
+A small amount of gas escaped.
+
+*Air bladder.*
+
+The shriveled “leaf” was actually a gas sac—
+
+similar in basic structure to certain aquatic plants.
+
+The difference—
+
+the Daylily filled those sacs with poison.
+
+Fortunately—
+
+dehydration had left the bladders mostly empty.
+
+Its roots and stems were still too tough for easy cutting.
+
+But their range had shortened.
+
+*If this were a specimen fully fed by a Blood Lake…*
+
+Vikir remembered fighting Madam Eight-Legs.
+
+A mature colony of Daylilies would be another catastrophe altogether.
+
+[Human.]
+
+Decarabia's voice snapped from his neck.
+
+[Stop thinking about unrelated things.]
+
+Vikir focused.
+
+His left hand moved.
+
+FSSHT—
+
+Baby Madam's silk attached to the broken clock tower.
+
+Vikir pulled.
+
+Launched upward.
+
+A root swept beneath him.
+
+The Daylily screamed.
+
+Hungry.
+
+Thirsty.
+
+Barely controlling its own head.
+
+Then—
+
+it smelled something.
+
+[SKRREE?]
 
 Blood.
 
-Flesh.
+Rotting meat.
 
-Human fluids.
+Human.
 
-The Daylily reacted instantly.
+Not the foul scent used against Hell Hounds.
 
-It moved toward a deep pit.
+This smell was soft.
 
-Inside—
+Fatty.
 
-a large leather bag.
+Rich.
 
-Warm.
+**Food.**
 
-Wet.
+The Daylily immediately changed direction.
 
-Heavy.
+The irritating prey fighting it—
 
-The plant grabbed it.
+Vikir—
 
-Fed.
+was heading the same way.
 
-Then stopped.
+Soon the plant reached a deep pit.
+
+The smell came from below.
+
+Fresh human flesh.
+
+Or so it believed.
+
+Vines plunged into the hole.
+
+SPLASH.
+
+Something warm and viscous wrapped around them.
+
+The Daylily sucked.
+
+Then paused.
+
+[…?]
 
 Wrong.
 
-The bag did not contain a corpse.
+The smell was right.
 
-It contained what sixty-eight living people could contribute without dying.
+The weight—
+
+close.
+
+The taste—
+
+empty.
+
+A huge leather bag came up.
+
+No corpse inside.
+
+Instead—
+
+human biological material.
 
 Blood.
 
@@ -118,79 +287,175 @@ Urine.
 
 Hair.
 
-Nails.
+Eyebrows.
+
+Facial hair.
+
+Body hair.
+
+Fingernails.
+
+Toenails.
 
 Calluses.
 
 Dead skin.
 
+Body grime.
+
 Teeth.
 
-Small quantities of flesh.
+And—
+
+from some volunteers—
+
+small pieces of flesh.
 
 “Good?”
 
-Vikir appeared behind it.
+Vikir appeared behind the plant like a ghost.
 
-Several of his own teeth were missing.
+He opened his mouth.
 
-They would regenerate.
+Several teeth were missing.
 
-“Eating softens your skin.”
+They would grow back under his established **Immortality — Gargoyle (S)** regeneration.
 
-He attacked while the plant fed.
+“Collect enough material from human bodies—
 
-Slash.
+and the quantity becomes substantial.”
 
-The blade penetrated.
+The Daylily had expected one corpse.
 
-For the first time—
+Instead—
 
-deeply.
+the **sixty-eight survivors** had pooled what they could give without anyone dying.
 
-The Daylily roared.
+Roughly half a kilogram from each person.
 
-Vikir saw it.
+It smelled like a body.
 
-An eye—
+Felt enough like a body to trigger feeding.
 
-deep in the throat.
+And when the Daylily ate—
 
-The vital point.
+its dehydrated tissue changed.
 
-He jumped straight into the open mouth.
+“Your skin softens while feeding.”
 
-Beelzebub extended like a spear.
+Vikir attacked.
 
-One precise thrust.
+SLASH.
 
-Through the eye.
+This time—
 
-Through the throat.
+Beelzebub penetrated.
 
-Out the back.
+Deep.
 
-Plant fibers tightened around his body.
+[SKRREEEEEE!]
 
-Teeth crushed inward.
+The Daylily raised its head.
 
-Vikir intentionally reduced some aura defense.
+Its throat opened.
 
-“If you want blood—
+And Vikir saw it.
 
-take it.”
+An eye.
 
-His poisoned blood spread through the wounds.
+Hidden deep inside.
 
-A spear through the core.
+Bloodshot.
 
-Venom through the vascular network.
+Exposed by rage and hunger.
 
-The outcome was decided.
+“Finally.”
 
-BOOM.
+“A vital point.”
 
-The enormous plant collapsed.
+Vikir jumped.
+
+Straight into the open mouth.
+
+Aura extended along Beelzebub.
+
+Long.
+
+Narrow.
+
+Spear-like.
+
+For a single decisive strike—
+
+a thrust was superior to a slash.
+
+Especially against a precise target.
+
+The Daylily swallowed him.
+
+Its jaws began closing.
+
+Before the teeth met—
+
+THRUST.
+
+Beelzebub pierced the eye at the back of the throat.
+
+The membrane ruptured.
+
+The pupil split.
+
+Aura punched through the throat—
+
+through the core—
+
+and out the rear of the head.
+
+Plant fibers tightened around Vikir.
+
+Harder than animal muscle.
+
+Teeth—
+
+harder than many alloys—
+
+crushed inward.
+
+Vikir deliberately reduced part of the aura protecting his body.
+
+“You want blood?”
+
+“Take it.”
+
+Black toxic blood flowed.
+
+The poison already carried within Vikir—
+
+including **Madam Eight-Legs venom**—
+
+entered the wound.
+
+Through the damaged eye.
+
+Into the Daylily's internal vascular structure.
+
+The monster realized the danger.
+
+Too late.
+
+A spear through its vital core.
+
+Poison spreading through the network from inside.
+
+The result was decided.
+
+BOOM!
+
+Pressure around Vikir weakened.
+
+The world tilted.
+
+The enormous Daylily collapsed.
 
 Ding.
 
@@ -198,86 +463,197 @@ Ding.
 
 [“Impossible” achievement reward granted.]
 
-The other students emerged.
+A Level 1 entrant—
 
-Alive.
+killing an S-rank monster.
 
-Exhausted.
+Even the tower system classified it as impossible.
 
-Missing hair.
+The watching students emerged from hiding.
 
-Nails.
+One by one.
 
-Teeth.
+“Unbelievable…”
 
-Skin.
+“That plan actually worked.”
 
-Some—
+“My teeth hurt like hell.”
 
-small pieces of flesh.
+“My nails…”
 
-But alive.
+“At least we're alive.”
 
-Vikir nodded.
+They looked terrible.
+
+Shaved.
+
+Missing nails.
+
+Missing teeth.
+
+Skin scraped raw in places.
+
+Some upper-year students had cut away small quantities of flesh.
+
+But—
+
+all alive.
 
 “You worked hard.”
 
-Each had contributed roughly five hundred grams of biological material.
+Vikir acknowledged them.
 
-The fairy appeared.
+Contributing roughly five hundred grams of biological material each—
 
-Its eye rotated strangely.
+without knowing whether the plan would work—
 
-[Basement Floor 3?]
+had not been easy.
 
-[A beginner killed the Daylily?]
-
-[First time I have seen this?]
+This victory belonged to all of them.
 
 Then—
 
-a reward bag.
+a grotesque lump of flesh appeared.
 
-The fairy emptied it.
+The fairy.
 
-Three hundred red candies.
+Its swollen lips twitched.
 
-One hundred fifty blue.
+An eye protruding between them rotated toward Vikir.
 
-Seventy-five green.
+[Basement Floor 3?]
 
-And ten gold Level candies.
+[A beginner on Basement Floor 3 killed the Daylily?]
 
-Five hundred twenty-five ordinary candies.
+[First time I have seen this?]
 
-Ten Level candies.
+It studied him.
 
-Even Vikir’s expression brightened.
+[Congratulations?]
 
-The fairy opened its arms.
+[I will give you a reward?]
 
-[Take them?]
+[You will be very happy?]
 
-[All yours?]
+[Expect it?]
 
-Then began stepping backward.
+[A truly amazing reward?]
 
-Vikir looked at the pile.
+The fairy closed its eye.
+
+Muttered.
+
+Then brought one hand from behind its back.
+
+A large sack.
+
+RATTLE—
+
+It turned the sack over.
+
+Candies poured onto the ground.
+
+**300 red.**
+
+**150 blue.**
+
+**75 green.**
+
+Five hundred twenty-five basic candies.
+
+And—
+
+gold.
+
+> **<Strange Candy — Level / Gold>**
+>
+> Raises Level by **1**.  
+> Tastes sweet.
+>
+> **Level +1**
+
+One gold candy normally cost **300** basic candies at the Fairy Candy Shop.
+
+Here—
+
+there were **ten**.
+
+Ten gold Level candies.
+
+Plus 525 basic-stat candies.
+
+For any survivor—
+
+a staggering reward.
+
+Even Vikir reacted.
+
+“…Unbelievable.”
+
+“To get this here…”
+
+His voice trembled.
+
+Joy.
+
+Excitement.
+
+Achievement.
+
+His expression shone more brightly than when he had found the silver candy.
+
+The fairy spread both arms—
+
+apparently moved by Vikir's happiness.
+
+[Come?]
+
+[Take everything?]
+
+[It is all yours?]
+
+Then—
+
+it slowly stepped backward.
+
+One step.
+
+Another.
+
+Vikir looked at the reward pile.
 
 Then—
 
 CRUNCH.
 
-He stepped on the candies.
+He stomped on it.
 
-Scattered them.
+Candies scattered everywhere.
 
-And grabbed the fairy.
+Red.
 
-[Ah!?]
+Green.
 
-“Where are you going?”
+Blue.
 
-“You haven’t finished giving me the reward.”
+Gold.
 
-His gaze fixed on the old sack in the fairy’s hand.
+The fairy's expression collapsed.
+
+Vikir crossed the distance.
+
+Grabbed it.
+
+[AH!?]
+
+The creature struggled.
+
+Pointless.
+
+Vikir twisted one thin wrist aside.
+
+“Don't run.”
+
+“The reward isn't finished.”
+
+His eyes fixed on the shabby sack still clutched in the fairy's hand.

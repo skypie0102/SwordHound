@@ -1,258 +1,499 @@
 # Chapter 318: Surplus Man (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/318.txt`. Recovered English Chapter 316 is the verified shifted secondary witness. The S-rank plant is rendered from the aligned witness as **Daylily of Blood Tree**.
+> Chinese-primary reconstruction from `source/chinese/chapters/318.txt`. Recovered English Chapter 316 is the verified shifted secondary witness. Project terminology controls **Daylily of Blood Tree**, **Vikir**, **Beelzebub**, **Granola de Leviathan**, **Silver Reflexes candy**, **Sunflower-Seed Vole Tooth Hoe**, and **Water-Resistant Oil-Paper Bag**.
 
-Creak.
+CREEEAK—
 
-Twenty-four hours passed.
+Something dried twisted.
+
+Exactly twenty-four hours passed.
 
 The giant carnivorous flower woke.
 
-**<Daylily of Blood Tree>**
+> **<Daylily of Blood Tree>**
+>
+> **Danger Rating:** **S**  
+> **Size:** ?  
+> **Discovery Location:** Deep Hell — Blood Marsh Flesh Zone, Fourth Unsolvable Area
+>
+> **Aliases:** *Daylily of Blood Tree* / *Nightmare of the Blood Marsh*
+>
+> A mysterious plant that floats on the Blood Lake deep in Hell.  
+> Even in the Blood Marsh Flesh Zone—where ordinary objects sink rather than float—it remains on the surface.  
+> It is said to be among the strongest and most vicious plant-type monsters of the Blood Lake ecosystem.  
+> Its appetite is feared even by other monsters.
 
-**Danger Rating:** S  
-**Size:** ?  
-**Discovery Location:** Deep Hell — Blood Marsh Flesh Zone, Fourth Unsolvable Area  
-**Aliases:** ‘Daylily of Blood Tree’ / ‘Nightmare of the Blood Marsh’
+Old records told of a gigantic specimen—
 
-A monstrous plant that normally floats on the Blood Lake deep in Hell.
+grown from a single seed—
 
-Even in a region where ordinary things cannot remain afloat—
+that had once brought humanity close to extinction.
 
-it survives.
+This individual was huge enough to have lived for decades.
 
-Feeds.
+[GRRREEEAK—]
 
-Grows.
+The noise coming from its mouth resembled a rusted pendulum grinding itself forward.
 
-Past specimens grown from a single seed had nearly driven humanity toward extinction.
+Louder.
 
-This one was enormous.
+Worse.
 
-Meaning—
+BOOM!
 
-it had lived for decades.
+CRACK!
 
-And yet—
+The Daylily shifted down the clock tower.
 
-it was visibly degraded.
+Nearby ruins collapsed.
 
-Dried.
+It barely had to move its vines and roots to destroy buildings.
 
-Starved.
+[GRRRR…]
 
-Thirsting.
+It was hungry.
 
-The plant moved.
-
-Buildings collapsed from the pressure of its vines and roots.
-
-It searched the ground.
+Roots probed the streets.
 
 Nothing.
 
-The students had already withdrawn.
+The plant had raised its own temperature to attract prey.
+
+The bait had failed.
+
+The survivors were already far away.
+
+Hidden through the ruins.
+
+The Daylily searched.
+
+Again.
+
+Again.
+
+Its dry root tips scraped across concrete.
+
+The more it moved—
+
+the more hungry it became.
+
+It wanted water.
+
+Warm water.
+
+The deep bloody lake of its true habitat.
+
+Anything that would let its body soften.
+
+This place was too cold.
+
+Too dry.
 
 Then—
 
-one root touched something.
+tap.
+
+A root touched something different.
+
+Not concrete.
+
+Not steel.
 
 Warm.
 
 Soft.
 
-Flesh.
+Elastic flesh beneath skin.
 
-Blood.
+Bone inside.
+
+And—
+
+most intoxicating of all—
+
+blood.
+
+Fresh.
+
+Cool.
+
+Sweet.
 
 The Daylily trembled.
 
-At last.
+After such long dehydration—
 
-Food.
+it had found perfect food.
 
-The root traced a head.
+The root explored.
 
-Neck.
+A round shape.
+
+Head.
+
+Features.
+
+Down the neck.
 
 Chest.
 
 Waist.
 
-Legs.
+Hip.
 
-Hands.
+Long legs.
+
+Back up toward the arms.
+
+Hands—
+
+rougher and harder than the rest of the body.
 
 Then—
 
-slash.
+past the hand—
+
+something long.
+
+Hard.
+
+What—
+
+SLASH.
 
 The sensation vanished.
 
-The root tip fell away.
+Pain burned through the root tip.
 
-“Now that you’re awake—
+[SKRREEEEEE!]
 
-move.”
+Only then did the Daylily understand.
 
-Vikir stood in front of it.
+Its root had been severed.
 
-He knew this species.
+“Now that you're awake—”
 
-During the Age of Destruction—
+Vikir stood before it.
 
-bloody variants had infested lakes.
+“Move.”
 
-Destroyed drinking-water sources.
+The enormous flower lowered its face.
 
-Killed countless soldiers.
+Wrinkled petals.
 
-This individual—
+A mouth crowded with malformed spikes.
 
-was weaker.
+Vikir already knew the species.
 
-A water-dwelling plant far from water.
+*Daylily of Blood Tree.*
 
-Starved for blood and moisture.
+In the Age of Destruction—
 
-But still S-rank.
+these things had filled lakes.
 
-One sweep of a vine—
+Humanity's drinking-water sources became death zones.
 
-could kill almost any student here.
+Vikir had lost many companions and subordinates clearing them.
 
-*This was not placed here to be defeated.*
+Which made the current specimen easy to judge.
 
-The realization was obvious.
+*Degraded.*
 
-The tower wanted an unbeatable predator.
+The species was fundamentally aquatic.
 
-A thing that would force students into murder.
+A water plant could not thrive without water.
 
-Sacrifice.
+Its natural home—
 
-Cannibalism.
+a lake of blood deep in Hell.
 
-Anomie.
+In the human world—
 
-A world where all ordinary ethics collapsed.
+demons later scattered its seeds into ordinary lakes.
 
-Vikir raised his hands.
+Clean water was not blood—
+
+but it was enough for the plants to grow into terrifying monsters.
+
+This one—
+
+had neither.
+
+*How long has it gone without water?*
+
+Small for its species.
+
+Dry.
+
+Slow.
+
+Weak.
+
+Weak—
+
+for an S-rank Daylily.
+
+BOOOOM!
+
+A vine swept.
+
+Buildings within dozens of meters collapsed.
+
+Even dehydrated—
+
+one clean hit could kill Vikir.
+
+*This was never designed to be defeated by students.*
+
+That was the point.
+
+Even if a thousand fresh Colosseo students had entered Floor 3 together—
+
+they could not normally kill this thing.
+
+The demon needed an **absolute** predator.
+
+Something unbeatable.
+
+A monster that would force students to abandon law.
+
+Ethics.
+
+Solidarity.
+
+Make them sacrifice one another.
+
+Fight over food.
+
+Eventually—
+
+eat one another.
+
+WHOOSH!
+
+A vine passed behind Vikir's head.
+
+More ruins exploded.
+
+Vikir raised both hands.
 
 “I admit it.”
 
-“You’re weakened.”
+“You're weakened.”
 
 “So am I.”
 
-Then turned—
+Then—
 
-and ran.
+he turned.
 
-Toward the survivors’ agreed location.
+And ran.
 
-Sixty-seven Random Boxes were waiting in a line.
+Toward the agreed drop point.
 
-Granola’s Mimic made the missing sixty-eighth.
+*If they aren't idiots—
+
+they kept the agreement.*
+
+Vikir crossed broken streets—
+
+dodging root whips—
+
+until he saw a black line beneath a collapsed fountain.
+
+**Sixty-seven Random Boxes.**
+
+Granola's destroyed Mimic had been excluded.
 
 *Good.*
 
-Nobody betrayed the agreement.
+No one had betrayed him.
 
-Vikir opened them.
+If even one promised box had been missing—
 
-Bang.
+Vikir would have turned around.
 
-Bang.
+Run.
 
-Bang.
+Let the floor resolve itself.
 
-Five more were Mimics.
+At least several dozen students would probably die—
 
-The rest—
+but the day could still end.
 
-mostly junk.
+The Daylily approached.
 
-Cheap swords.
+No time.
 
-Glass beads.
+Vikir opened all sixty-seven boxes.
 
-Fake potions.
+BANG!
 
-Broken shoes.
+BANG!
 
-Smelly armor.
+BANG!
 
-But Vikir searched carefully.
+BANG!
 
-First—
+Items erupted.
+
+Five more Mimics appeared.
+
+Counting the Mimics already encountered—
+
+the tower's sense of humor had been consistent.
+
+Vikir searched rapidly.
+
+Most rewards—
+
+trash.
+
+A polished bronze sword.
+
+Bright beads.
+
+Fake potion.
+
+Shoes with holes in the soles.
+
+Armor that smelled awful.
+
+Useless junk.
+
+First priority—
 
 candies.
 
-He ate thirty red.
+Vikir gathered red.
 
-Ten green.
+Green.
 
-Twenty-five blue.
+Blue.
+
+Then ate them.
+
+**Thirty red.**
+
+**Ten green.**
+
+**Twenty-five blue.**
+
+Crunch.
+
+Crunch.
 
 His status changed.
 
-**<Vikir>**
+> **<Vikir>**
+>
+> **LV:** 1  
+> **Titles:** Rat Hunter / Hell Merchant
+>
+> **Stats**
+> - Strength: **230 (+30) = 260**
+> - Agility: **219 (+10) = 229**
+> - Stamina: **244 (+25) = 269**
+> - Physical Resistance: **1**
+> - ?: Locked
+> - ?: Locked
 
-**LV:** 1
+His body changed immediately.
 
-**Stats**
-- Strength: 230 (+30) = 260
-- Agility: 219 (+10) = 229
-- Stamina: 244 (+25) = 269
-- Physical Resistance: 1
-- ?: Locked
-- ?: Locked
+Lighter.
 
-His body immediately sharpened.
+Sharper.
 
-Then he found two useful items.
+Closer to its best condition.
 
-**<Sunflower-Seed Vole Tooth Hoe> — D**
+Then Vikir sorted through the remaining junk.
 
-A hoe made from a giant rodent tooth.
+Two items were worth taking.
 
-Especially useful for digging plant seeds.
+> **<Sunflower-Seed Vole Tooth Hoe>**
+>
+> **Type:** Farm Tool  
+> **Rank:** D
+>
+> A hoe made from the tooth of a giant vole.  
+> Its other uses are unclear, but it is particularly effective at digging out plant seeds.
 
-**<Water-Resistant Oil-Paper Bag> — D**
+And—
 
-Strong.
+> **<Water-Resistant Oil-Paper Bag>**
+>
+> **Type:** Bag  
+> **Rank:** D
+>
+> Tough.  
+> Resistant to water.  
+> Protects stored contents from moisture.
 
-Moisture-resistant.
+Useful.
 
-Useful for storing things.
-
-Vikir almost left.
+Vikir prepared to move.
 
 Then—
 
-silver flashed beneath the junk.
+“…Hm?”
 
-A candy.
+A flash.
+
+So brief he almost dismissed it.
+
+Experience stopped him.
+
+Veterans who ignored that feeling in emergencies—
+
+often regretted it later.
+
+Vikir searched the junk again.
 
 Silver.
 
-His fingers trembled.
+A small circular object half buried beneath useless rewards.
 
-**<Strange Candy — Reflexes / Silver>**
+Candy.
 
-Raises Reflexes by 1.
+**Silver candy.**
 
-Fishy.
+“…!”
 
-**Reflexes +1**
+His fingers trembled once.
 
-One of the three ultra-rare hidden stats.
+He had been searching for red, green, and blue—
 
-A treasure that tower veterans had spent years regretting never finding.
+so his eyes had passed over the other colors too quickly.
 
-And Vikir had found it—
+The Daylily crashed through ruins behind him.
+
+Vikir kept staring at the object in his palm.
+
+“…Damn.”
+
+“Am I using all my luck at the beginning?”
+
+The heroes who had escaped the Hell Tree before regression—
+
+had spoken about this candy with regret.
+
+Longing.
+
+Even years after leaving the tower.
+
+> **<Strange Candy — Reflexes / Silver>**
+>
+> Raises **Reflexes** by **1**.  
+> Tastes fishy.
+>
+> **Reflexes +1**
+
+One of the ultra-rare hidden attributes.
+
+A candy many heroes had never seen—
+
+even after killing monsters on the deepest floors.
+
+Vikir had found one—
 
 on Basement Floor 3.
-
-“…I may be spending all my luck early.”
