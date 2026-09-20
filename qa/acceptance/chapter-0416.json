@@ -1,0 +1,34 @@
+{
+  "chapter": 416,
+  "title": "End game (8)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
+    ],
+    "family_qa_path": "qa/families/end-game-0409-0418.md",
+    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/416.txt",
+    "primary_source_sha": "689b4126cfcdc097d428de0e1dde8ad848d04511",
+    "english_reference_path": "source/chapters/chapter-414.xhtml",
+    "english_reference_sha": "678481c1f6975679d1b9d3c7cab3932fa00f55ef",
+    "draft_path": "manuscript/drafts/chapter-0416.md",
+    "draft_sha": "36f424f72b53de6c179ec1398bbe0ad31fd932b6",
+    "qa_path": "qa/chapter-0416.md",
+    "qa_sha": "4ee54d830742d6493f94df32ef15045371e1dd8b",
+    "provenance_path": "editorial/provenance/chapter-0416.json",
+    "provenance_sha": "cf6ac97dfd7f056e7d2932a847ec0e6a0fc31851"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Goodbye, Nouvelle Vague material from target419 is imported."
+  ],
+  "key_reveal": "Old Man Angajumang = Angajumang Cedric Sadi de Sade / Marquis de Sade."
+}

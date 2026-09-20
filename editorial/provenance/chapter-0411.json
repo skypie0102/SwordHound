@@ -1,0 +1,37 @@
+{
+  "chapter": 411,
+  "title": "End game (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
+    ],
+    "family_qa_path": "qa/families/end-game-0409-0418.md",
+    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/411.txt",
+    "blob_sha": "cd8b3c605875875902b2631a5a7e0079cb9f8f6d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-409.xhtml",
+    "blob_sha": "f9aa04da121fab1df472b1940ea3ba1009f47e94",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0411.md",
+    "blob_sha": "af30ee0f089985e1cae5bdacaca51b3b84a3e2e9"
+  },
+  "qa": {
+    "path": "qa/chapter-0411.md",
+    "blob_sha": "bc72ce401f0f7ffaf9080832c6cab36a6235ac8e",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}

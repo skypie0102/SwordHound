@@ -1,49 +1,45 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 408 / 500  
+**Accepted:** 418 / 500  
 **Staged:** 0  
-**Next target:** 409
+**Next target:** 419
 
 ## Latest accepted family
 
-**Jailbreaker (1)–(6)** — targets **403–408 / E401–E406**.
+**End game (1)–(10)** — targets **409–418 / E407–E416**.
 
-- Family QA: `qa/families/jailbreaker-0403-0408.md` — PASS.
-- Previous live handoff incorrectly stopped Jailbreaker at target406; Chinese headings and aligned English titles prove the family continues through target408.
-- Vikir times the jailbreak around the mass induction ceremony while the guard force is concentrated on incoming prisoners.
-- Surface supply degradation, rising prisoner intake, and Gate/demon rumors indicate the war is accelerating.
-- Vikir redirects Kirko and several junior guards toward the fifth-floor Gulper Eel area as a survival measure.
-- Gate of Good and Evil remains the 70 m / 5 m / 6,535-ton mithril-and-adamantium main gate.
-- Black Tongue recognizes Vikir behind Garam’s disguise through his blood.
-- Copy-form parasites are normalized to **doppelganger leeches** from aligned E403.
-- Black Tongue says Orca authorized prisoner/guard experimentation for prison security; his remark that Orca might even work with demons remains Black Tongue’s speculation.
-- Beelzebub resonates with **Asmodeus**, one of the Seven Demon Swords.
-- Local regeneration wording does not override accepted **Immortality — Gargoyle (S)** continuity.
-- Black Sun is **Baskerville Eighth Form** from the eight-fang manifestation and accepted chronology.
-- Black Tongue dies after deep-sea expulsion; Asmodeus consumes his blood/desire, returns in living form, and is shattered into nine fragments.
-- The Seven Demon Swords count drops to six, though Vikir does not rule out fragment survival.
-- Vikir secures doppelganger-leech eggs inside Andromalius’s barrier.
-- The unidentified final female intake is Level Nine and intended for Level Ten; D’Ordume and Souaré escort her personally.
-- BDISSEM is subdued with the source-local **Daylily of the Blood Tree** (S).
-- Vikir coerces BDISSEM into releasing all prison restraint/cell-bar material from Levels One through Nine.
-- A second BDISSEM instruction concerns an unnamed person outside the fifth-floor kennel window; exact action/recipient remains reveal-guarded.
-- The family ends with the prison-wide restraint system collapsing and the mass uprising beginning.
+- Family QA: `qa/families/end-game-0409-0418.md` — PASS.
+- Prison-wide BDISSEM release destabilizes Nouvelle Vague; Level Nine joining changes the balance.
+- Aiyen is the unidentified high-level female intake and successor to Night Fox Akwilla.
+- Aiyen survived a separate prototype Hell Tree, killed its Dragon Horse, and escaped after Vikir’s Amdusias victory affected the tower system.
+- Aiyen reports four active apocalypse signs; Vikir attributes the missing six to six eliminated Demon Kings.
+- Bakira remains with Aiyen through a phantom-beast contract after death.
+- Orca Montreuil-sur-Mer Javert is the source-local Warden form.
+- Flubber J. Tarbond intervenes to protect Nouvelle Vague / Poseidon integrity.
+- Sadi / Ms. Ouroboros infiltrated as an ally under Vikir’s pre-prison plan.
+- Sadi’s golden left eye is Belial’s relic and enables partial demonization/Majin combat with long recovery.
+- Vikir judges Orca above Nabokov I but below Cane Corso; this remains Vikir’s combat assessment.
+- Old Man Angajumang is source-revealed as Angajumang Cedric Sadi de Sade / Marquis de Sade.
+- Marquis de Sade’s Forty-Seven Riot motive is a desire for excitement / Warring States violence, not throne ambition.
+- Poseidon’s shell cracks and hatches a palm-sized black-scaled winged creature surrounded by blue fire.
+- The hatchling remains intentionally unnamed and unspecced.
+- Critical character turn: Vikir explicitly decides he wants to live and see the future beyond his previous life.
+- Family closes with Vikir taking Aiyen’s wrist and deciding to leave Nouvelle Vague.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**End game (1)–(10)** — targets **409–418 / E407–E416**.
+**Goodbye, Nouvelle Vague (1)–(3)** — targets **419–421 / E417–E419**.
 
 Following family:
-- **Goodbye, Nouvelle Vague (1)–(3)** — targets **419–421 / E417–E419**.
 - **How to Become a Wandering Knight (1)–(3)** — targets **422–424 / E420–E422**.
 - **Night Walkers (1)** begins target425.
 
 ## Exact next actions
 
-1. Read C409–C418 completely against E407–E416.
-2. Reconstruct/QA/accept End game as one ten-part family.
+1. Read C419–C421 completely against E417–E419.
+2. Reconstruct/QA/accept Goodbye, Nouvelle Vague as one family.
 3. Merge it.
-4. Immediately continue into Goodbye, Nouvelle Vague (1)–(3), targets419–421 / E417–E419.
-5. Continue into How to Become a Wandering Knight if the source remains clean.
+4. Immediately continue into How to Become a Wandering Knight (1)–(3), targets422–424 / E420–E422.
+5. Continue into Night Walkers if the source remains clean.

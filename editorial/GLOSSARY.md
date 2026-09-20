@@ -1,3 +1,20 @@
+## End game additions — Chapters 409–418
+
+- **End game** — accepted ten-part family, targets409–418 / witnesses E407–E416.
+- **Aiyen** — source-revealed as the unidentified high-level female intake; successor to Night Fox Akwilla.
+- **Prototype Hell Tree** — separate tower survived by Aiyen; she killed its Dragon Horse and escaped after Vikir's Amdusias victory affected the tower system.
+- **Bakira** — remains with Aiyen after death through a phantom-beast contract.
+- **Orca Montreuil-sur-Mer Javert** — source-local full form for Nouvelle Vague's Warden; direct Fandom confirmation unavailable.
+- **Flubber J. Tarbond** — intervenes to protect Nouvelle Vague / Poseidon integrity.
+- **Sadi / Ms. Ouroboros infiltration** — allied jailbreak support arranged through Vikir's pre-prison Cindywendy instructions.
+- **Belial relic / golden left eye** — Sadi's relic enables partial Majin/demonization combat with a long recovery cost.
+- **Old Man Angajumang** — source-revealed as **Angajumang Cedric Sadi de Sade / Marquis de Sade**.
+- **Forty-Seven Riot motive** — Marquis de Sade sought excitement / Warring States violence rather than the throne; treat as character ideology only.
+- **Poseidon hatchling** — palm-sized black-scaled winged creature surrounded by blue fire; intentionally unnamed and unspecced.
+- **Vikir life-choice turn** — after completing the Nouvelle Vague objective, Vikir explicitly decides he wants to live and see humanity's future beyond his prior timeline.
+- **Goodbye, Nouvelle Vague** — next family targets419–421 / E417–E419.
+- **How to Become a Wandering Knight** — follows targets422–424 / E420–E422.
+
 ## Jailbreaker additions — Chapters 403–408
 
 - **Jailbreaker** — accepted six-part family, targets403–408 / witnesses E401–E406; supersedes stale four-part boundary.

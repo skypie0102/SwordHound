@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 408,
+  "accepted_chapters": 418,
   "staged_chapters": 0,
-  "next_chapter": 409,
+  "next_chapter": 419,
   "latest_accepted_family": {
-    "name": "Jailbreaker",
-    "range": [
-      403,
-      408
-    ],
-    "family_qa": "qa/families/jailbreaker-0403-0408.md"
-  },
-  "next_title_family": {
     "name": "End game",
     "range": [
       409,
       418
     ],
+    "family_qa": "qa/families/end-game-0409-0418.md"
+  },
+  "next_title_family": {
+    "name": "Goodbye, Nouvelle Vague",
+    "range": [
+      419,
+      421
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 419,
-    "following_title": "Goodbye, Nouvelle Vague (1)",
-    "alignment_note": "409→E407 through 418→E416; 419→E417 begins Goodbye, Nouvelle Vague (1)."
+    "following_family_starts": 422,
+    "following_title": "How to Become a Wandering Knight (1)",
+    "alignment_note": "419→E417 through 421→E419; target422→E420 begins How to Become a Wandering Knight (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -470,9 +470,27 @@
     405,
     406,
     407,
-    408
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418
   ],
   "notes": [
+    "Chapters409-418 accepted as End game (1)-(10), mapping E407-E416.",
+    "Aiyen is the unidentified high-level female intake and survived a separate prototype Hell Tree; Bakira remains bound to her after death.",
+    "Orca Montreuil-sur-Mer Javert is the source-local Nouvelle Vague Warden form.",
+    "Sadi/Ms. Ouroboros infiltrated as an ally; her golden left eye is Belial's relic and enables partial demonization with a long recovery cost.",
+    "Old Man Angajumang is Angajumang Cedric Sadi de Sade / Marquis de Sade.",
+    "Poseidon hatches an unnamed palm-sized black-scaled winged creature surrounded by blue fire; species remains reveal-guarded.",
+    "Vikir explicitly chooses life and wants to see the future beyond his previous timeline.",
+    "Next family Goodbye, Nouvelle Vague verified targets419-421 / E417-E419; How to Become a Wandering Knight follows targets422-424 / E420-E422.",
     "Chapters403-408 accepted as Jailbreaker (1)-(6), mapping E401-E406; stale four-part handoff boundary corrected.",
     "Vikir times the jailbreak around the mass induction and redirects Kirko/junior guards toward the fifth-floor Gulper Eel area.",
     "Black Tongue identifies Vikir, reveals doppelganger leeches and Asmodeus, and dies after Vikir severs the corridor into the deep sea.",

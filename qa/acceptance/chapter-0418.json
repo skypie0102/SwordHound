@@ -1,0 +1,34 @@
+{
+  "chapter": 418,
+  "title": "End game (10)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
+    ],
+    "family_qa_path": "qa/families/end-game-0409-0418.md",
+    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/418.txt",
+    "primary_source_sha": "de14b72da1f3eae47486d3c0d543e6cb98364be7",
+    "english_reference_path": "source/chapters/chapter-416.xhtml",
+    "english_reference_sha": "fe46613bbed0d011b043beb37d34c5afe596998b",
+    "draft_path": "manuscript/drafts/chapter-0418.md",
+    "draft_sha": "afdf1b3216f5e17f68e380914a66e17ac8adb723",
+    "qa_path": "qa/chapter-0418.md",
+    "qa_sha": "516af42c08eba29a87e231a5e97a83298f558cef",
+    "provenance_path": "editorial/provenance/chapter-0418.json",
+    "provenance_sha": "b19ddfae667f34b0fa32b9adeaf6c642bd033e9a"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Goodbye, Nouvelle Vague material from target419 is imported."
+  ],
+  "reveal_guard": "Poseidon hatchling remains intentionally unnamed; no later species/name imported."
+}

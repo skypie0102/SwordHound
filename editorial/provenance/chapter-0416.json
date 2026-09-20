@@ -1,0 +1,38 @@
+{
+  "chapter": 416,
+  "title": "End game (8)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
+    ],
+    "family_qa_path": "qa/families/end-game-0409-0418.md",
+    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/416.txt",
+    "blob_sha": "689b4126cfcdc097d428de0e1dde8ad848d04511",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-414.xhtml",
+    "blob_sha": "678481c1f6975679d1b9d3c7cab3932fa00f55ef",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0416.md",
+    "blob_sha": "36f424f72b53de6c179ec1398bbe0ad31fd932b6"
+  },
+  "qa": {
+    "path": "qa/chapter-0416.md",
+    "blob_sha": "4ee54d830742d6493f94df32ef15045371e1dd8b",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "key_reveal": "Old Man Angajumang = Angajumang Cedric Sadi de Sade / Marquis de Sade."
+}

@@ -1,0 +1,38 @@
+{
+  "chapter": 418,
+  "title": "End game (10)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "End game",
+    "range": [
+      409,
+      418
+    ],
+    "family_qa_path": "qa/families/end-game-0409-0418.md",
+    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/418.txt",
+    "blob_sha": "de14b72da1f3eae47486d3c0d543e6cb98364be7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-416.xhtml",
+    "blob_sha": "fe46613bbed0d011b043beb37d34c5afe596998b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0418.md",
+    "blob_sha": "afdf1b3216f5e17f68e380914a66e17ac8adb723"
+  },
+  "qa": {
+    "path": "qa/chapter-0418.md",
+    "blob_sha": "516af42c08eba29a87e231a5e97a83298f558cef",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Poseidon hatchling remains intentionally unnamed; no later species/name imported."
+}

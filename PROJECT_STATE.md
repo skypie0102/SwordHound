@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 408  
+**Accepted:** 418  
 **Staged:** 0  
-**Next chapter:** 409
+**Next chapter:** 419
 
-Latest accepted family: **Jailbreaker (1)–(6)** — targets403–408 / E401–E406.  
-Family QA: `qa/families/jailbreaker-0403-0408.md` — **PASS**.
+Latest accepted family: **End game (1)–(10)** — targets409–418 / E407–E416.  
+Family QA: `qa/families/end-game-0409-0418.md` — **PASS**.
 
-Key decisions: the stale 403–406 family boundary was corrected to 403–408; Black Tongue reveals doppelganger leeches and Asmodeus; Asmodeus is destroyed with Baskerville Eighth Form — Black Sun; Vikir secures parasite eggs; and BDISSEM releases every restraint/cell-bar system from Levels One through Nine, beginning the mass uprising.
+Key decisions: Aiyen and Sadi enter as allied jailbreak support; Orca is the source-local Warden form; Old Man Angajumang is Marquis de Sade; Poseidon hatches an unnamed ancient anti-demon creature; and Vikir explicitly decides he wants to live beyond the future he previously knew.
 
-Next verified family: **End game (1)–(10)** — targets409–418 / E407–E416.  
-Following: **Goodbye, Nouvelle Vague (1)–(3)** — targets419–421 / E417–E419.
+Next verified family: **Goodbye, Nouvelle Vague (1)–(3)** — targets419–421 / E417–E419.  
+Following: **How to Become a Wandering Knight (1)–(3)** — targets422–424 / E420–E422.
