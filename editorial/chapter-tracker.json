@@ -1,7 +1,7 @@
 {
   "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT ACTIVE. All 500 draft files exist, but prior acceptance is being revalidated against Chinese raws after confirmed summary-style compression.",
   "target_chapter_count": 500,
-  "accepted_count": 496,
+  "accepted_count": 497,
   "staged_count": 0,
   "next_chapter": null,
   "active_title_family": null,
@@ -1343,8 +1343,9 @@
       "qa": "qa/chapter-0095.md",
       "provenance": "editorial/provenance/chapter-0095.json",
       "acceptance": "qa/acceptance/chapter-0095.json",
-      "acceptance_sha": "70e911729e25ffc86b01207bcc4ad7a1dc648acb",
-      "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+      "acceptance_sha": "49acbe19c7472a8c01c4b65d640742096378d8a4",
+      "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 96,
@@ -1357,13 +1358,14 @@
       "qa": "qa/chapter-0096.md",
       "provenance": "editorial/provenance/chapter-0096.json",
       "acceptance": "qa/acceptance/chapter-0096.json",
-      "acceptance_sha": "87de05ec5635e2da4e7f4590ab84be1ca5253b26",
-      "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+      "acceptance_sha": "5b51114957f431d3dca8f0d29be4b9db9a003fc2",
+      "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 97,
       "title": "Madam Eight-Legs (3)",
-      "status": "needs_rework",
+      "status": "accepted",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/097.txt",
       "english_mtl_reference": "source/chapters/chapter-096.xhtml",
@@ -1371,11 +1373,9 @@
       "qa": "qa/chapter-0097.md",
       "provenance": "editorial/provenance/chapter-0097.json",
       "acceptance": "qa/acceptance/chapter-0097.json",
-      "acceptance_sha": "5e580afee99c53e47f2f118a84be0dfd18315d1e",
+      "acceptance_sha": "12ace542da14739351a74552886bc43929ba0d1d",
       "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
-      "previous_status": "accepted",
-      "completeness_audit": "confirmed_compressed_against_chinese_raw",
-      "reopened_date": "2026-09-20"
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 98,
@@ -1388,8 +1388,9 @@
       "qa": "qa/chapter-0098.md",
       "provenance": "editorial/provenance/chapter-0098.json",
       "acceptance": "qa/acceptance/chapter-0098.json",
-      "acceptance_sha": "6574b7d4229f45b936c12d60b1ab47597fbaa3d2",
-      "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+      "acceptance_sha": "c01a8ffab3abe30162ee24ba637bb3072a12087a",
+      "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 99,
@@ -1402,8 +1403,9 @@
       "qa": "qa/chapter-0099.md",
       "provenance": "editorial/provenance/chapter-0099.json",
       "acceptance": "qa/acceptance/chapter-0099.json",
-      "acceptance_sha": "71cf09fd63f409458dcc090797a6ded861b40116",
-      "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+      "acceptance_sha": "bfd4c526a59eeac4fa36e1d9db48f060e600725d",
+      "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 100,
@@ -1416,8 +1418,9 @@
       "qa": "qa/chapter-0100.md",
       "provenance": "editorial/provenance/chapter-0100.json",
       "acceptance": "qa/acceptance/chapter-0100.json",
-      "acceptance_sha": "a539b753518e3d27cdb2760cba73ba9ac2d99bfb",
-      "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+      "acceptance_sha": "78737939dd5e0e5ddae1f245a1a710005aea4d84",
+      "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 101,
@@ -7031,13 +7034,12 @@
   ],
   "project_complete": false,
   "historical_accepted_count": 500,
-  "needs_rework_count": 4,
+  "needs_rework_count": 3,
   "completeness_audit": {
     "status": "active",
     "opened": "2026-09-20",
     "manuscript_files_present": 500,
     "confirmed_needs_rework": [
-      97,
       316,
       319,
       420
@@ -7137,13 +7139,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All five historical drafts were materially compressed; 90-91 were not caught by the initial size threshold."
+      },
+      {
+        "name": "Madam Eight-Legs",
+        "range": [
+          95,
+          100
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All six historical drafts had completeness/integrity issues; target95 has a verified localized Chinese gap and target100 had imported target101 material."
       }
     ],
     "pending_priority_review_chapters": [
-      96,
-      97,
-      98,
-      99,
       101,
       102,
       103,
@@ -7182,13 +7190,43 @@
       421,
       431
     ],
-    "pending_priority_review_count": 41,
+    "pending_priority_review_count": 37,
     "next_family": {
-      "name": "Madam Eight-Legs",
+      "name": "Nostalgia",
       "range": [
-        95,
-        100
+        101,
+        104
       ]
-    }
+    },
+    "resolved_confirmed_needs_rework": [
+      97
+    ],
+    "pending_strong_suspect_chapters": [
+      101,
+      307,
+      309,
+      310,
+      311,
+      312,
+      313,
+      315,
+      316,
+      317,
+      318,
+      319,
+      322,
+      323,
+      324,
+      334,
+      420,
+      421,
+      431
+    ],
+    "pending_strong_suspect_count": 19,
+    "resolved_strong_suspects": [
+      97,
+      98,
+      99
+    ]
   }
 }
