@@ -4,15 +4,17 @@
 **Target range:** Chapters 190–196  
 **Completeness-audit review:** 2026-09-20  
 **Following bridge:** target 197 — *Preparing for the Festival*  
-**Following family:** target 198 begins *The Corpse Queen (1)*.
+**Following family:** targets 198+ — *The Corpse Queen* beginning at 198.
 
 ## Audit result
 
 The historical family PASS is superseded by this completeness review.
 
-Direct Chinese/draft comparison found that **all seven historical Attack Land drafts were materially compressed**. Only Chapters 192 and 196 were in the initial <0.60 priority queue, but 190–191 and 193–195 also failed strict source-coverage review.
+Direct Chinese/draft comparison found material summary compression across **all seven Attack Land chapters**, not only priority-queue targets 192 and 196.
 
-All seven have been rebuilt against the complete Chinese raws.
+The rebuild also preserves two previously verified source-level continuity repairs:
+- **C192 end-name slip:** Chinese calls “Vikir,” but E190 + C193 prove the next examinee is **Pigi**.
+- **C193 department-label slip:** Pigi remains **Cold Department Class B**, despite one raw status-window drift to Hot Department.
 
 ## Evidence / mapping
 
@@ -29,58 +31,54 @@ All seven have been rebuilt against the complete Chinese raws.
 
 Mapping remains **190→E188 through 196→E194**.
 
-## Source / continuity corrections
-
-### Target192 endpoint
-C192's final roster call names **Vikir**, but E190 and C193 prove the next examinee is **Pigi**. The rebuilt chapter documents this as an isolated source slip and hands the next turn to Pigi.
-
-### Target193 Pigi department
-C193's result window labels Pigi as Hot Department, but surrounding accepted roster continuity places him in **Cold Department Class B**. The rebuilt chapter keeps Cold Department and records the raw drift.
-
 ## Source-coverage findings
 
 ### Chapter 190
-- Restored the full remote-avatar exam design, professor-specific styles, roster/examiner preparation logic, and first-principal teaching philosophy.
-- Restored complete Tudor/Banshee lesson and the full score sequence for Tudor, Bianca, Granola, the triplets, and Sancho.
-- Restored the setup that everyone expected Sancho to dominate before Sadi reduced him to 17 points.
+- Restored the full Attack-test design and first-principal teaching philosophy.
+- Restored Banshee's complete combat lesson to Tudor.
+- Preserved exact scores and the Tudor/Bianca/Granola rivalry.
+- Restored the full Sancho buildup before Sadi crushes expectations with a 17-point result.
 
 ### Chapter 191
-- Restored Sadi's full physical introduction, Dolores confrontation, Banshee intervention, vodka/glass chewing, Morgue/Sade status argument, and Banshee's disciplinary warning.
-- Restored why Sadi remains employed: patronage plus exceptional combat instinct / criminal psychology.
-- Restored the succession of low scores and faculty discussion of later compensation.
+- Restored Sadi's complete physical introduction, Dolores confrontation, vodka/glass behavior, and House Morgue / House Sade argument.
+- Restored Banshee's internal explanation for why Sadi remains employed: aristocratic protection plus extraordinary combat instinct and criminal-psychology talent.
+- Restored the sequence of disastrously low scores and faculty plans to compensate affected students.
 
 ### Chapter 192
-- Restored Sinclaire's scholarship motive, refusal to abandon classmates, Haste chase, remote-control mechanics, three simultaneous Class 3 spells, mana backlash, whip/heel sequence, 19-point score, and scholarship wound.
-- Preserved Pigi sequence correction at the endpoint.
+- Restored Sinclaire's commoner all-rounder reputation, scholarship motive, loyalty to classmates, and Dolores's warning.
+- Restored the full remote-golem synchronization explanation, triple Class 3 spell cast, mana backlash, whip trap, severe injury, and 19-point result.
+- Preserved the verified **Pigi-next** correction at the chapter endpoint.
 
 ### Chapter 193
-- Restored Granola's discomfort at Sinclaire's abuse, full faculty confrontation, Pigi's courage motive, mud-pit strategy, Sadi's forefoot/heel training, one-point broken-blade counter, medical diagnosis, and Vikir's angry voluntary challenge.
-- Preserved Pigi's Cold Department continuity.
+- Restored Granola's discomfort with noble mockery, the full faculty confrontation, Pigi's motive, mud-pit strategy, and Sadi's trained forefoot/heel technique.
+- Restored Pigi's one-point broken-blade counter and near-blindness.
+- Preserved Pigi as **Cold Department Class B**.
+- Ends on Vikir stepping forward while visibly angry.
 
 ### Chapter 194
-- Restored Banshee's safety intervention and bodily-risk waiver, Vikir's assessment of Sadi's genuine talent, full close-range archery tactic, Bianca/friends' concern, Sadi's dodge-point recognition, arena destruction, manufactured corner, and initial golem-joint stiffness.
+- Restored Banshee's safety intervention and bodily-risk waiver.
+- Restored Vikir's full assessment of Sadi as a genuine but twisted combat genius.
+- Restored the full archer-pressure sequence and Sadi's deliberate destruction of arena geometry to create a corner.
 
 ### Chapter 195
-- Restored the full deduction chain: repeated lower-abdomen targeting, whip-force transfer, Bianca's mosquito-shot evidence, Pigi's broken blade creating the weakness, and Banshee recognizing Vikir had already seen the win condition.
-- Restored Sadi's destruction of all remaining arrows and her instinctive predator/prey fear before pride suppresses it.
-- Preserved Vikir's lip line immediately before the eye strike.
+- Restored the complete deduction chain behind the failing golem: Pigi's embedded blade created the initial weak point; Vikir repeatedly attacks the lower-abdomen connector; whip-force transfer magnifies the damage.
+- Restored Bianca's mosquito-shot evidence, Banshee's realization that Vikir had already seen a path to victory, Sadi's destruction of every remaining arrow, and the predator/prey instinct reversal.
+- Preserved Vikir's lip-read line: **“Blinded by anger. Where are you looking?”**
 
 ### Chapter 196
-- Restored the complete public “accident” explanation and faculty score dispute.
-- Restored Sadi's eye removal/consumption, refusal of treatment, and Cold Department obsession.
-- Restored final standings, compensatory written-score adjustments, Vikir's unwanted first-place result, recruitment/social pressure, Highbro's crowd control, unchanged friend behavior, news article/comments, Banshee's demerit, and Cindywendy's next-Corpse lead.
+- Restored the full public/faculty “accident” interpretation of the returning arrow while retaining reader-facing ambiguity.
+- Preserved Vikir's exact **40-point** score.
+- Restored Sadi's self-removal/consumption of the destroyed eye, treatment refusal, and obsession with taking over Cold Department.
+- Restored the full combined rankings and discreet written-score compensation for Sadi-affected students.
+- Restored Vikir's unwanted popularity, faction recruitment pressure, Highbro's covert crowd-control, the defense-test news article/comments, Banshee's classroom demerit, and Cindywendy's next-Corpse lead.
 
-## Continuity
+## Continuity / decisions
 
-- 189→190: Aftermath family ends; final midterm Attack test begins.
-- 190→191: Sancho's 17-point result introduces Sadi; target191 expands the institutional problem.
-- 191→192: Sadi notices Vikir, but Sinclaire's roster turn comes first.
-- 192→193: corrected handoff to Pigi.
-- 193→194: Vikir voluntarily takes Sadi's test after Pigi's one-point counter.
-- 194→195: joint stiffness becomes the revealed exploit.
-- 195→196: returning-arrow strike lands in Sadi's real left eye.
-- 196→197: midterms close and Vikir refocuses on the next Corpse; target197 is *Preparing for the Festival*.
+- Pigi's embedded blade in 193 is the mechanical prerequisite for Vikir's 194–195 strategy.
+- Crowd claims about Sword Master-level power remain in-world exaggeration, not narrator fact.
+- Returning-arrow event is publicly accidental; Vikir's prior lip line preserves deliberate setup ambiguity.
+- Target 197 is a separate *Preparing for the Festival* bridge and is not imported backward.
 
 ## Verdict
 
-**PASS.** Chapters 190–196 have been rebuilt for complete source coverage. Priority targets 192 and 196 are resolved; the audit advances to the next priority-containing family.
+**PASS.** Chapters 190–196 have been rebuilt for complete source coverage. Priority targets **192 and 196** are resolved. The completeness audit advances to the next priority-containing family.
