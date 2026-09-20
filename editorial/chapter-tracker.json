@@ -1193,8 +1193,9 @@
       "qa": "qa/chapter-0085.md",
       "provenance": "editorial/provenance/chapter-0085.json",
       "acceptance": "qa/acceptance/chapter-0085.json",
-      "acceptance_sha": "77e383796961180ed7260916ce291abfe8671f6f",
-      "family_qa": "qa/families/illiad-0085-0089.md"
+      "acceptance_sha": "13e67adecd55cd1dd64de12253fde7b1dcd6b230",
+      "family_qa": "qa/families/illiad-0085-0089.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 86,
@@ -1207,8 +1208,9 @@
       "qa": "qa/chapter-0086.md",
       "provenance": "editorial/provenance/chapter-0086.json",
       "acceptance": "qa/acceptance/chapter-0086.json",
-      "acceptance_sha": "033586bac22c42b03ae60c4214a10bc69980c81f",
-      "family_qa": "qa/families/illiad-0085-0089.md"
+      "acceptance_sha": "22b4e1164920f8a59bc1d6f113be985b0bc5a400",
+      "family_qa": "qa/families/illiad-0085-0089.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 87,
@@ -1221,8 +1223,9 @@
       "qa": "qa/chapter-0087.md",
       "provenance": "editorial/provenance/chapter-0087.json",
       "acceptance": "qa/acceptance/chapter-0087.json",
-      "acceptance_sha": "ad161f5a05bcf7e18fdd97d90604ec2ed9af289e",
-      "family_qa": "qa/families/illiad-0085-0089.md"
+      "acceptance_sha": "3655d119a41d54e31e77a9a39d9195a3649e0a22",
+      "family_qa": "qa/families/illiad-0085-0089.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 88,
@@ -1235,8 +1238,9 @@
       "qa": "qa/chapter-0088.md",
       "provenance": "editorial/provenance/chapter-0088.json",
       "acceptance": "qa/acceptance/chapter-0088.json",
-      "acceptance_sha": "ec52c7d5ccaf19b210c68bcb525a1023e9eb849c",
-      "family_qa": "qa/families/illiad-0085-0089.md"
+      "acceptance_sha": "817bcc61cef29ef82bb90d051f77b6f383f0684b",
+      "family_qa": "qa/families/illiad-0085-0089.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 89,
@@ -1249,8 +1253,9 @@
       "qa": "qa/chapter-0089.md",
       "provenance": "editorial/provenance/chapter-0089.json",
       "acceptance": "qa/acceptance/chapter-0089.json",
-      "acceptance_sha": "201f0f8cb4702b583be60b6221d79dc54ae0cd44",
-      "family_qa": "qa/families/illiad-0085-0089.md"
+      "acceptance_sha": "1666d6cd1237c1a377405773994b70b548d2ddd1",
+      "family_qa": "qa/families/illiad-0085-0089.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 90,
@@ -7106,6 +7111,72 @@
       421,
       431
     ],
-    "evidence_file": "qa/manuscript-completeness-audit.md"
+    "evidence_file": "qa/manuscript-completeness-audit.md",
+    "reviewed_families": [
+      {
+        "name": "The Illiad",
+        "range": [
+          85,
+          89
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All five historical drafts were materially compressed; 85-86 were not caught by the initial size threshold."
+      }
+    ],
+    "pending_priority_review_chapters": [
+      92,
+      93,
+      94,
+      96,
+      97,
+      98,
+      99,
+      101,
+      102,
+      103,
+      104,
+      192,
+      196,
+      225,
+      228,
+      230,
+      231,
+      242,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      328,
+      333,
+      334,
+      419,
+      420,
+      421,
+      431
+    ],
+    "pending_priority_review_count": 44,
+    "next_family": {
+      "name": "The Ghosts of the Ancestors",
+      "range": [
+        90,
+        94
+      ]
+    }
   }
 }
