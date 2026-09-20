@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 497,
   "staged_chapters": 0,
-  "next_chapter": 242,
+  "next_chapter": 236,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "TBD from tracker family lookup",
+    "name": "National University League",
     "range": [
-      242,
-      242
+      236,
+      244
     ],
-    "reason": "next pending initial-priority target after Tuition"
+    "reason": "next priority-containing family; target242 is in the initial priority queue"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
