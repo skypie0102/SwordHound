@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Fall of Usher (1)–(9) accepted
+
+**Current state:** 449 / 500 accepted; 0 staged; next Chapter 450.
+
+Completed targets **441–449** with mapping **E439–E447**.
+
+Key decisions: Masyaf’s hypnosis route and Love Shield/Pigi-blood counterplay are preserved; Vikir secretly protects Tudor/Bianca’s escape; Sade’s modified formation and the Lakedog flood force the demon outside; Isolde Usher is canonicalized; MiniPin’s modified Daylilies preferentially consume demonized prey; Madeline is revealed as S+ Third Corpse Andrealphus; and Roderick’s final stand lets Bianca remove the demon’s last wing before Andrealphus crashes into Masyaf.
+
+Family QA: `qa/families/fall-of-usher-0441-0449.md` — **PASS**.
+
+Next verified family: **450–453 — Declaration of War (1)–(4)**, mapping **E448–E451**. Targets454–464 / E452–E462 are *Infiltration of the Water Source (1)–(11)*.
+
 ## 2026-09-20 — Dreaming the Impossible Dream (1)–(4) accepted
 
 **Current state:** 440 / 500 accepted; 0 staged; next Chapter 441.

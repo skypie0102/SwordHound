@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 440,
+  "accepted_chapters": 449,
   "staged_chapters": 0,
-  "next_chapter": 441,
+  "next_chapter": 450,
   "latest_accepted_family": {
-    "name": "Dreaming the Impossible Dream",
-    "range": [
-      437,
-      440
-    ],
-    "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
-  },
-  "next_title_family": {
     "name": "The Fall of Usher",
     "range": [
       441,
       449
     ],
+    "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+  },
+  "next_title_family": {
+    "name": "Declaration of War",
+    "range": [
+      450,
+      453
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 450,
-    "following_title": "Declaration of War (1)",
-    "alignment_note": "441→E439 through 449→E447; target450→E448 begins Declaration of War (1)."
+    "following_family_starts": 454,
+    "following_title": "Infiltration of the Water Source (1)",
+    "alignment_note": "450→E448 through 453→E451; 454-464 / E452-E462 are Infiltration of the Water Source; 465/E463 begins The Prelude to a Counterattack (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -502,9 +502,29 @@
     437,
     438,
     439,
-    440
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449
   ],
   "notes": [
+    "Chapters441-449 accepted as The Fall of Usher (1)-(9), mapping E439-E447.",
+    "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
+    "Roderick is alive but cannot evacuate; black flare authorizes the flood/destruction plan.",
+    "Love Shield plus Tudor's presence breaks Bianca's brainwashing; Pigi-blood arrow disrupts Madeline.",
+    "Marquis de Sade's modified formation and Lakedog flood drive the demon outside; drought prevents a complete washout.",
+    "Isolde Usher is canonicalized over older witness-order Usher P. Isolde.",
+    "MiniPin's modified Daylilies target demonized blood, avoid humans, are sterile, and wither without demon blood.",
+    "Madeline is revealed as Third Corpse Andrealphus / Ice Duke, Danger Rating S+.",
+    "Roderick sacrifices his remaining life to cripple Andrealphus; Bianca removes the last wing and the demon crashes into Masyaf.",
+    "Only First and Second Corpses remain after target449.",
+    "Next family Declaration of War verified targets450-453 / E448-E451; Infiltration of the Water Source follows targets454-464 / E452-E462.",
     "Chapters437-440 accepted as Dreaming the Impossible Dream (1)-(4), mapping E435-E438.",
     "Chimeries is S+ Fourth Corpse; Vikir explicitly fights with the Night Walkers rather than solo.",
     "Camus Morgue arrives with Dark Hall support; iron-loop traps nonlethally break the brainwashed Invincible Cavalry charge.",

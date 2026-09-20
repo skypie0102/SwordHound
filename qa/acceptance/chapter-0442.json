@@ -1,0 +1,34 @@
+{
+  "chapter": 442,
+  "title": "The Fall of Usher (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+  "title_family": {
+    "name": "The Fall of Usher",
+    "range": [
+      441,
+      449
+    ],
+    "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
+    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/442.txt",
+    "primary_source_sha": "dcdfe985aa8b877f2eabcc2ce8e8e34ff9e47315",
+    "english_reference_path": "source/chapters/chapter-440.xhtml",
+    "english_reference_sha": "5c826637cf42f1534e72c80fac7b97e56b910750",
+    "draft_path": "manuscript/drafts/chapter-0442.md",
+    "draft_sha": "0e36d373e6a5d50f5fa4cc9e02f4aafbb0c574f8",
+    "qa_path": "qa/chapter-0442.md",
+    "qa_sha": "3cb603e2019c95a08185cca19a68302dbd2d8744",
+    "provenance_path": "editorial/provenance/chapter-0442.json",
+    "provenance_sha": "150737ab81fa05841f52ca1a072202f042c48498"
+  },
+  "canonical_reference": [
+    "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
+    "Unsupported local forms remain source-local."
+  ],
+  "reveal_guard": "No Declaration of War material from target450 is imported."
+}

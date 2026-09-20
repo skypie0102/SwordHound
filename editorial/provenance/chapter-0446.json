@@ -1,0 +1,38 @@
+{
+  "chapter": 446,
+  "title": "The Fall of Usher (6)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Fall of Usher",
+    "range": [
+      441,
+      449
+    ],
+    "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
+    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/446.txt",
+    "blob_sha": "7f268ee844e0852b0a21bd43e4f36a1b17c196d2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-444.xhtml",
+    "blob_sha": "1706635c6fb5a677a4261511446cf620197b031e",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0446.md",
+    "blob_sha": "c229bde0381b3d82eba45fa3ba3547573321edfc"
+  },
+  "qa": {
+    "path": "qa/chapter-0446.md",
+    "blob_sha": "7580862deac8a24e1f2aa236e453abc2a58a5189",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Fresh Fandom search indexing confirmed Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable. Direct page access remains robots-limited; unsupported local forms remain explicitly source-local.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "canonical_decision": "Isolde Usher is canonical Fandom name; older shifted-witness order 'Usher P. Isolde' rejected."
+}

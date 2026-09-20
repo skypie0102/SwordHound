@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 440,
+  "accepted_count": 449,
   "staged_count": 0,
-  "next_chapter": 441,
+  "next_chapter": 450,
   "active_title_family": {
-    "name": "The Fall of Usher",
+    "name": "Declaration of War",
     "range": [
-      441,
-      449
+      450,
+      453
     ],
-    "boundary_status": "verified complete: target441→E439 through target449→E447",
-    "following_family_starts": 450,
-    "following_title": "Declaration of War (1)",
-    "alignment_note": "441→E439 through 449→E447; target450→E448 begins Declaration of War (1)."
+    "boundary_status": "verified complete: target450→E448 through target453→E451",
+    "following_family_starts": 454,
+    "following_title": "Infiltration of the Water Source (1)",
+    "alignment_note": "450→E448 through 453→E451; targets454-464 / E452-E462 form Infiltration of the Water Source (1)-(11); target465/E463 begins The Prelude to a Counterattack (1)."
   },
   "chapters": [
     {
@@ -6175,6 +6175,132 @@
       "acceptance": "qa/acceptance/chapter-0440.json",
       "acceptance_sha": "cc72704d2aa17254f1ba0c51d9c862808200ee6a",
       "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
+    },
+    {
+      "chapter": 441,
+      "title": "The Fall of Usher (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/441.txt",
+      "english_mtl_reference": "source/chapters/chapter-439.xhtml",
+      "draft": "manuscript/drafts/chapter-0441.md",
+      "qa": "qa/chapter-0441.md",
+      "provenance": "editorial/provenance/chapter-0441.json",
+      "acceptance": "qa/acceptance/chapter-0441.json",
+      "acceptance_sha": "6ee99d6628ced1095e9b897da2969e77aac8be5d",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 442,
+      "title": "The Fall of Usher (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/442.txt",
+      "english_mtl_reference": "source/chapters/chapter-440.xhtml",
+      "draft": "manuscript/drafts/chapter-0442.md",
+      "qa": "qa/chapter-0442.md",
+      "provenance": "editorial/provenance/chapter-0442.json",
+      "acceptance": "qa/acceptance/chapter-0442.json",
+      "acceptance_sha": "fe211ff787b2f2f59a0b603c121d884c7f404cc5",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 443,
+      "title": "The Fall of Usher (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/443.txt",
+      "english_mtl_reference": "source/chapters/chapter-441.xhtml",
+      "draft": "manuscript/drafts/chapter-0443.md",
+      "qa": "qa/chapter-0443.md",
+      "provenance": "editorial/provenance/chapter-0443.json",
+      "acceptance": "qa/acceptance/chapter-0443.json",
+      "acceptance_sha": "34d27ebf3358f36248679cc0d116b41889a72785",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 444,
+      "title": "The Fall of Usher (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/444.txt",
+      "english_mtl_reference": "source/chapters/chapter-442.xhtml",
+      "draft": "manuscript/drafts/chapter-0444.md",
+      "qa": "qa/chapter-0444.md",
+      "provenance": "editorial/provenance/chapter-0444.json",
+      "acceptance": "qa/acceptance/chapter-0444.json",
+      "acceptance_sha": "7482f9c98d1a36cff5cb36bb1e19cfc010c04f02",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 445,
+      "title": "The Fall of Usher (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/445.txt",
+      "english_mtl_reference": "source/chapters/chapter-443.xhtml",
+      "draft": "manuscript/drafts/chapter-0445.md",
+      "qa": "qa/chapter-0445.md",
+      "provenance": "editorial/provenance/chapter-0445.json",
+      "acceptance": "qa/acceptance/chapter-0445.json",
+      "acceptance_sha": "2fb409c5e0b0aa983e5697a0f742d72abd7fe913",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 446,
+      "title": "The Fall of Usher (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/446.txt",
+      "english_mtl_reference": "source/chapters/chapter-444.xhtml",
+      "draft": "manuscript/drafts/chapter-0446.md",
+      "qa": "qa/chapter-0446.md",
+      "provenance": "editorial/provenance/chapter-0446.json",
+      "acceptance": "qa/acceptance/chapter-0446.json",
+      "acceptance_sha": "9e21521dd10540f95178d613c46f194333a0aa3a",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 447,
+      "title": "The Fall of Usher (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/447.txt",
+      "english_mtl_reference": "source/chapters/chapter-445.xhtml",
+      "draft": "manuscript/drafts/chapter-0447.md",
+      "qa": "qa/chapter-0447.md",
+      "provenance": "editorial/provenance/chapter-0447.json",
+      "acceptance": "qa/acceptance/chapter-0447.json",
+      "acceptance_sha": "051f0b366fd36f03771b11622088fdd78bf2d8c1",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 448,
+      "title": "The Fall of Usher (8)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/448.txt",
+      "english_mtl_reference": "source/chapters/chapter-446.xhtml",
+      "draft": "manuscript/drafts/chapter-0448.md",
+      "qa": "qa/chapter-0448.md",
+      "provenance": "editorial/provenance/chapter-0448.json",
+      "acceptance": "qa/acceptance/chapter-0448.json",
+      "acceptance_sha": "7b92f27456bfa305c23459c37f9f808c9380fabe",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 449,
+      "title": "The Fall of Usher (9)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/449.txt",
+      "english_mtl_reference": "source/chapters/chapter-447.xhtml",
+      "draft": "manuscript/drafts/chapter-0449.md",
+      "qa": "qa/chapter-0449.md",
+      "provenance": "editorial/provenance/chapter-0449.json",
+      "acceptance": "qa/acceptance/chapter-0449.json",
+      "acceptance_sha": "da772d15f5f46be7ca591266e76d29e9413df9ae",
+      "family_qa": "qa/families/fall-of-usher-0441-0449.md"
     }
   ]
 }
