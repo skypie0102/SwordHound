@@ -1,237 +1,427 @@
 # Chapter 98: Madam Eight-Legs (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/098.txt` — `3e81774dab8c9a8cc7fff79812a1184a1377a6dc`. Recovered English Chapter 97 is the verified shifted secondary witness. Established terminology controls **Madam Eight-Legs**, **Silent Heel — Mushuhushu (A+)**, **Beelzebub**, **Ballak Tribe**, and **River Styx**.
+> Chinese-primary reconstruction from `source/chinese/chapters/098.txt`. Recovered English Chapter 97 is the verified shifted secondary witness. Established terminology controls **Madam Eight-Legs**, **Silent Heel — Mushuhushu (A+)**, **Beelzebub**, **Ballak Tribe**, and **River Styx**. Recovered-English spellings are retained for the source-named Ballak dead: **Abui, Adul, Akelon, Asagl, Asak, Aguil, Agun, Atlatl**.
 
-Night.
+Night deepened.
 
-Thunder.
+Rumble—
 
-The rain weakened.
+BOOM!
 
-Lightning intensified.
+The rain had weakened somewhat.
 
-Vikir stood below Madam's mountain.
+Thunder and lightning had become more frequent.
 
-Quartz and sandstone rose from otherwise flat jungle like a solitary tower.
+Vikir stood beneath the enormous rock formation rising in front of him.
 
-Caves dotted the cliff.
+Quartz and sandstone formed a solitary peak above otherwise flat terrain.
 
-Lightning reflected from quartz and raw amethyst inside them.
+The sheer walls were riddled with caves.
 
-For moments, the mountain looked like a creature with a thousand eyes.
+In the darkness, those openings looked like the blank eyes of blind beasts.
 
-Vikir began climbing.
+Whenever lightning reflected from quartz or raw amethyst deeper inside, the cliff transformed for an instant into a thousand-eyed watcher staring in every direction.
 
-Bare hands.
+Vikir clenched his jaw.
 
-Bare strength.
+His body had been trained relentlessly—
 
-His back and arms tightened and released.
+first in Baskerville.
+
+Then in Ballak's floodlands.
+
+Muscle covered him from shoulder to ankle.
+
+He began climbing barehanded.
+
+Back muscles tightened.
+
+Released.
+
+Arm muscles tightened.
+
+Released.
 
 Again.
 
 Again.
 
-Rock broke beneath him.
+The height above him seemed endless.
 
-Stalactites snapped.
+CRACK!
 
-He shifted his weight without panic.
+A stone grip broke away.
 
-When nothing remained to hold—
+Vikir shifted without a sound and caught another hold.
 
-Beelzebub entered the stone.
+A foothold tore loose from the wall.
 
-Silent Heel suppressed the noise of the climb.
+He transferred his weight to the other leg.
 
-Halfway upward, Vikir found a cave.
+When there was truly nothing to grip—
 
-Narrow entrance.
+Beelzebub came out.
 
-Deep interior.
+The blade drove deep into stone.
 
-Shelter.
+Vikir used it as an anchor and continued upward.
 
-A perfect place to rest.
+Thanks to **Silent Heel**, even this dangerous climb produced almost no sound.
 
-He stayed outside.
+Eventually—
 
-“A trap.”
+perhaps around halfway up—
 
-This was Madam's territory.
+Vikir found a cave.
 
-Comfort here was suspicious.
+The opening was narrow enough for only one person at a time.
 
-Inside lay a skeleton.
+Inside, the passage twisted and extended deep into the mountain.
 
-Someone else had climbed this far.
+It looked dry.
+
+Protected.
+
+Comfortable.
+
+The perfect place to rest during an exhausting ascent.
+
+Vikir did not enter.
+
+“…A trap?”
+
+This was the territory beneath Madam Eight-Legs' nest.
+
+A convenient shelter in the middle of the worst monster's domain was too convenient.
+
+Perhaps it was not deliberately built.
+
+A natural trap could still kill anyone weak enough to trust it.
+
+A climber already exhausted from reaching this point might accept the invitation without thinking.
+
+Vikir still had strength.
+
+He stayed outside and examined the darkness.
+
+There.
+
+A skeleton.
+
+Someone had reached this place before.
 
 Entered.
 
-Never left.
+Never escaped.
 
-Then white liquid began flowing down the cliff.
+Vikir looked upward.
 
-Madam's bodily fluids and waste.
+Then understood why.
 
-Normally thick.
+Sticky…
 
-Rain thinned it into moving slime.
+White fluid began flowing down from higher on the cliff.
 
-The cave filled.
+A mixture of Madam's bodily secretions and waste.
 
-The old skeleton floated inside.
+Normally it hardened or coagulated.
 
-Vikir stepped under a nearby rock projection before the slime reached him.
+Rain thinned it.
 
-Contact caused swelling and violent itching.
+Masses of accumulated slime softened and began moving.
 
-River Styx protection could probably resist it.
+They spread over the cliff.
 
-Vikir still preferred not to test that unnecessarily.
+Then poured directly toward the cave mouth.
 
-He continued upward.
+From a distance it might have resembled cream flowing down a cake.
 
-More caves.
+The smell destroyed that illusion immediately.
+
+“…Going inside would have been a problem.”
+
+Vikir moved out of the cave entrance.
+
+A protruding shelf of rock nearby gave him cover.
+
+He crouched beneath it while the slime poured past.
+
+Any skin touched by the mixture would swell and itch violently.
+
+The River Styx blessing protecting Vikir's body could probably endure it.
+
+He still had no interest in bathing in Madam's excrement.
+
+Gurgle—
+
+The flow covered the cave entrance completely.
+
+It followed the downward slope inside.
+
+Soon the entire chamber filled.
+
+Clatter.
+
+The old skeleton began floating in the slime.
+
+Whoever that warrior had been—
+
+they had probably reached the cave, rested for only a moment, fallen asleep, and drowned before waking.
+
+The same pattern repeated higher up.
+
+More inviting caves.
 
 More skeletons.
 
-More traps disguised as rest.
+More resting places that were actually death traps.
 
-His fingernails tore.
+Avoiding every temptation and continuing up the brutal cliff required more than strength.
 
-Fingerprints rubbed away.
+Fingernails tore away.
 
-He climbed.
+Fingerprints disappeared against the rock.
 
-◆◆◆
+Every time the body begged him to stop—
 
-Eventually he passed through cloud.
+Vikir gritted his teeth and climbed.
 
-The summit was worse.
+He had been a Baskerville hound.
 
-Black mud.
+He had survived the Age of Destruction.
 
-White sticky strands.
+Stubbornness was one resource he never lacked.
 
-A stench storms could not wash away.
+He crossed past dozens of caves containing skeletons.
+
+Avoided repeated streams of slime.
+
+Climbed through fog.
+
+Then through the clouds.
+
+At last—
+
+the summit appeared.
+
+He had not fallen.
+
+Had not drowned in slime.
+
+His muscles and bones protested every movement.
+
+Still—
+
+he had reached the top.
+
+Vikir looked around.
+
+Black, muddy ground covered the summit.
+
+White sticky threads drifted in the wind.
+
+A nauseating odor filled the air.
+
+Rain and storm could not wash it away.
+
+“…Like a mountain of rotting meat.”
 
 Vikir stepped forward.
 
-His foot sank to the shin.
+Squelch.
+
+His leg sank to the shin.
 
 The ground was warm.
 
+Wet.
+
 Soft.
 
-Rotting flesh.
+He had stepped into decomposing flesh.
 
-He shifted onto harder white surfaces.
+An unpleasant sensation wrapped around the entire lower leg.
+
+If he had not covered himself in leather, the itching poison would already have reached his skin.
+
+“If I stop moving, I'll sink to the waist.”
+
+Vikir shifted quickly.
+
+The surface kept collapsing beneath him.
+
+He started choosing only the hard white projections rising from the rot.
+
+Then realized what they were.
 
 Bones.
 
-Thousands of them formed unstable footholds under slime and decay.
+The “ground” consisted of countless bones tangled together with hardened slime.
 
-Then he stopped.
+Meat that had not yet fully decomposed produced the stench.
+
+Leftovers from Madam's meals.
+
+Covered in mucus.
+
+Rotting.
+
+Fermenting.
+
+Releasing poison gas, heat, and odor.
+
+Vikir kept moving to avoid drowning in the swamp of slime and carrion.
+
+Then—
+
+“…!”
+
+He stopped.
+
+An ominous presence came from the cave ahead.
+
+That was not what froze him.
+
+Bodies lay scattered around the entrance.
+
+Skeletons.
+
+Chunks of flesh not yet completely decomposed.
 
 Brown skin.
 
 Silver hair.
 
-Bodies and pieces of bodies.
+Faces locked in pain and terror.
 
 Ballak.
 
 Wolves.
 
-People he knew.
+People Vikir knew.
+
+**Abui**, the talented tracker.
+
+**Adul**, the strong swimmer.
+
+**Akelon**, who was skilled at sewing.
+
+**Asagl**, the fast runner.
+
+**Asak**, who laughed and cried easily.
+
+**Aguil**, who had argued constantly with Ahun when they first moved into the village.
+
+**Agun**, who loved eating more than anyone.
+
+**Atlatl**, excellent with the javelin.
 
 Friends from the last two years.
 
-Hunters.
+Vikir recognized their faces.
 
-Swimmers.
+“…If you were only going to spit them back out…”
 
-Sewers.
-
-Runners.
-
-Javelin throwers.
-
-People who had argued with Ahun.
-
-People who laughed too easily.
-
-People who ate too much.
-
-Vikir knew their faces.
-
-He gathered what he could.
-
-“If you were going to throw them back up…”
-
-His jaw tightened.
+His mouth tightened.
 
 “You shouldn't have eaten them.”
 
-He arranged the remains together.
+He gathered the remains together.
 
-Then bowed his head.
+Then stood in silence.
 
-Not long.
+A warrior's mourning before the final battle.
 
-Long enough.
+A short ritual.
 
-A warrior's mourning.
+A way to turn two years of memory—
 
-A way to turn grief into purpose.
+into resolve.
 
-When Vikir raised his head again, his eyes glowed red.
+“…”
 
-At the center of the summit lay an enormous opening.
+Vikir raised his head.
 
-A tunnel of bones.
+His eyes glowed red.
 
-Rot.
+Beyond the flesh and bones was a much larger darkness.
 
-Poison.
+A gigantic opening sank into the center of the summit.
 
-Heat.
+An underground nest built from bone and meat.
 
-Madam's nest.
+Its scale alone made the owner obvious.
+
+So did the poison.
+
+Heat and toxic breath rolled upward from deep below.
 
 Vikir listened.
 
-Deep below—
+Smelled.
 
-something huge breathed.
+Waited.
 
-Fed.
+The result did not change.
 
-Resting.
+A swollen abdomen.
 
-He drew his bow.
+A huge mass of flesh subtly shifting with every breath.
 
-Dark-red Baskerville aura covered an arrow.
+Madam had no intention of leaving the cave for now.
 
-Vikir released.
+She had raided Ballak.
 
-The shot tore through strands of slime and rotten fiber.
+Fed until full.
 
-A declaration.
+Of course she was resting.
+
+Creak—
+
+Vikir took the bow from his back.
+
+He nocked an arrow.
+
+Dark-red Baskerville aura coated it.
+
+Then—
+
+TWANG!
+
+He fired into the nest.
+
+A declaration of war.
+
+The red trajectory tore through curtains of slime and rotten fibers.
+
+It carried the challenger's intent deep inside.
+
+For a moment—
+
+nothing.
 
 The breathing stopped.
 
+The poison stopped.
+
 Silence.
 
-Then rage erupted from below.
+Then—
 
-[SKREEEEEE!]
+[SKREEEEEEEEEE!]
 
-Poisonous air burst upward.
+Rage erupted.
 
-Something enormous moved through the darkness.
+Madam's malice poured from the cave like a volcanic surge.
 
-For the first time—
+Something enormous moved through the rotting nest.
 
-**Madam Eight-Legs** came fully into view.
+The nightmare of the floodlands.
+
+A terror that had seemed like inevitable fate.
+
+A resident beyond the darkness.
+
+Under rain and lightning—
+
+**Madam Eight-Legs** finally revealed her full form.
