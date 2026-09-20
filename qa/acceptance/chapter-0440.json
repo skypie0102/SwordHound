@@ -1,0 +1,34 @@
+{
+  "chapter": 440,
+  "title": "Dreaming the Impossible Dream (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Dreaming the Impossible Dream",
+    "range": [
+      437,
+      440
+    ],
+    "family_qa_path": "qa/families/dreaming-impossible-dream-0437-0440.md",
+    "family_qa_sha": "fba1238c9a1e3f71257a0ad6fc9d296e49baa11a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/440.txt",
+    "primary_source_sha": "5e447995084b902488b5115ef44519228e4113c3",
+    "english_reference_path": "source/chapters/chapter-438.xhtml",
+    "english_reference_sha": "9e762084932a4d6c4d7d84fbd70897625deaecbf",
+    "draft_path": "manuscript/drafts/chapter-0440.md",
+    "draft_sha": "17f98482d39e036691e2c29273d9aa315dac9739",
+    "qa_path": "qa/chapter-0440.md",
+    "qa_sha": "d068239dca9c398417277327794003d256310837",
+    "provenance_path": "editorial/provenance/chapter-0440.json",
+    "provenance_sha": "3f5eb092ba8600015f425e25c2d0c96648d1236e"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No The Fall of Usher material from target441 is imported."
+  ],
+  "boundary_correction": "Following family corrected to The Fall of Usher (1)-(9), targets441-449 / E439-E447; target450/E448 begins Declaration of War (1)."
+}

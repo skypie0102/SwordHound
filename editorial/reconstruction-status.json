@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 436,
+  "accepted_chapters": 440,
   "staged_chapters": 0,
-  "next_chapter": 437,
+  "next_chapter": 441,
   "latest_accepted_family": {
-    "name": "The Returned Hound",
-    "range": [
-      434,
-      436
-    ],
-    "family_qa": "qa/families/returned-hound-0434-0436.md"
-  },
-  "next_title_family": {
     "name": "Dreaming the Impossible Dream",
     "range": [
       437,
       440
     ],
+    "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
+  },
+  "next_title_family": {
+    "name": "The Fall of Usher",
+    "range": [
+      441,
+      449
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 441,
-    "following_title": "The Fall of Usher (1)",
-    "alignment_note": "437→E435 through 440→E438; 441→E439 through 442→E440."
+    "following_family_starts": 450,
+    "following_title": "Declaration of War (1)",
+    "alignment_note": "441→E439 through 449→E447; target450→E448 begins Declaration of War (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -498,9 +498,21 @@
     433,
     434,
     435,
-    436
+    436,
+    437,
+    438,
+    439,
+    440
   ],
   "notes": [
+    "Chapters437-440 accepted as Dreaming the Impossible Dream (1)-(4), mapping E435-E438.",
+    "Chimeries is S+ Fourth Corpse; Vikir explicitly fights with the Night Walkers rather than solo.",
+    "Camus Morgue arrives with Dark Hall support; iron-loop traps nonlethally break the brainwashed Invincible Cavalry charge.",
+    "Marquis de Sade and Orca break the Usher sniper encirclement.",
+    "Tudor voluntarily accepts demon-hunter causality risk and kills Chimeries with Gungnir coated in Pigi's blood.",
+    "House Donquixote is restored under Tudor; roughly 60% of strength survives, concentrated in the intact Invincible Armada.",
+    "Vikir's interest in the Armada and Tochka water solution remains unrevealed.",
+    "Corrected next-family boundary: The Fall of Usher is targets441-449 / E439-E447, not 441-442; Declaration of War begins target450/E448.",
     "Chapters434-436 accepted as The Returned Hound (1)-(3), mapping E432-E434.",
     "Opening target434 Vikir is an inner-world remnant; the physical Vikir returns only at target434 end.",
     "Remnant Ninth Form is unstable/disordered; physical Vikir remains Eighth Form and defeats it through coordinated Black Sun execution.",
