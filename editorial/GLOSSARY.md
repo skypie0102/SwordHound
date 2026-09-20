@@ -1,3 +1,20 @@
+## The Fall of Usher additions — Chapters 441–449
+
+- **The Fall of Usher** — accepted nine-part family, targets441–449 / witnesses E439–E447.
+- **Masyaf** — Fandom-supported name for House Usher’s fortress-mansion in the swamp.
+- **Love Shield** — Fandom-supported artifact name; one-use protection against strong mind control/brainwashing when the wearer’s truly loved person is nearby.
+- **Roderick Usher / Bow Demon** — Fandom-supported family-head name/title used in this family.
+- **Madeline Usher / Andrealphus** — Fandom-supported host/demon forms; real Madeline died in childhood and Andrealphus used her body.
+- **Isolde Usher** — Fandom-supported canonical name; replace older shifted-witness order `Usher P. Isolde`.
+- **Lakedog Lake** — source-local/aligned-witness geography form; no direct Fandom confirmation found.
+- **Daylily of the Blood Tree** — modified strain is conditioned/bred to avoid human blood and aggressively target demonized blood; sterile and short-lived without demon blood.
+- **Third Corpse Andrealphus / Ice Duke** — Chinese-primary Danger Rating **S+**.
+- **Andrealphus hail authority** — huge physical ice masses; difficult for ordinary sacred barriers to stop.
+- **Roderick final stand** — flood temporarily clears Red Death, allowing Roderick to regain clarity and spend his remaining life on final sniper shots.
+- **Remaining Corpses after target449** — only First Corpse and Second Corpse remain.
+- **Declaration of War** — next family targets450–453 / E448–E451.
+- **Infiltration of the Water Source** — targets454–464 / E452–E462.
+
 ## Dreaming the Impossible Dream additions — Chapters 437–440
 
 - **Dreaming the Impossible Dream** — accepted four-part family, targets437–440 / witnesses E435–E438.
