@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 429,
+  "accepted_chapters": 433,
   "staged_chapters": 0,
-  "next_chapter": 430,
+  "next_chapter": 434,
   "latest_accepted_family": {
-    "name": "The Night Walkers",
-    "range": [
-      425,
-      429
-    ],
-    "family_qa": "qa/families/night-walkers-0425-0429.md"
-  },
-  "next_title_family": {
     "name": "The Lion King",
     "range": [
       430,
       433
     ],
+    "family_qa": "qa/families/lion-king-0430-0433.md"
+  },
+  "next_title_family": {
+    "name": "The Returned Hound",
+    "range": [
+      434,
+      436
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 434,
-    "following_title": "The Returned Hound (1)",
-    "alignment_note": "430→E428 through 433→E431; Returned Hound 434→E432 through 436→E434."
+    "following_family_starts": 437,
+    "following_title": "Dreaming the Impossible Dream (1)",
+    "alignment_note": "434→E432 through 436→E434; 437→E435 begins Dreaming the Impossible Dream (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -491,9 +491,21 @@
     426,
     427,
     428,
-    429
+    429,
+    430,
+    431,
+    432,
+    433
   ],
   "notes": [
+    "Chapters430-433 accepted as The Lion King (1)-(4), mapping E428-E431.",
+    "Cervantes deliberately kills himself with Gungnir before Chimeries can seize his body; Dolores identifies advanced Red Death / Leviathan-derived poison.",
+    "Gungnir chooses Tudor as a legitimate Donquixote successor.",
+    "Chimeries admits Cervantes was his prepared replacement body for more than a decade and shifts the possession target to Tudor.",
+    "Chimeries's authority induces irrational courage/recklessness and contributed to luring the Night Walkers into the castle.",
+    "Amdusias appears only as an S+ thought-remnant; Chimeries uses its Hell-Tree authority to trap the group in a copy of Vikir's inner world.",
+    "The Vikir figure at target433 is inside the copied mental world, not a confirmed physical return.",
+    "Next family Returned Hound verified targets434-436 / E432-E434; Dreaming the Impossible Dream begins target437/E435.",
     "Chapters425-429 accepted as The Night Walkers (1)-(5), mapping E423-E427.",
     "Tochka/Crying Castle is the Ark; the Ark myth is knowingly fabricated by Dolores/Martin Luther/senior Quovadis clergy with Pope Nabokov I's approval.",
     "Night titles revealed: Dolores Saint, Tudor Knight, Sancho Warrior, Pigi Gatekeeper, Bianca Sniper, Cindywendy Wealthy of the Night.",
