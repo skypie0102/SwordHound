@@ -1,21 +1,19 @@
 # Chapter 228 QA — Tuition (4)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/tuition-0225-0233.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/228.txt` — `cde05a2a56b67513a4ae54ae5e59c94b9ecdc3fb`
 - English witness: **E226** — `c342933f93915e0ba6291046288d29971ee810a0`
-- Draft: `manuscript/drafts/chapter-0228.md` — `5a6d9df45135f5035a4c1867885cdb069b0577b1`
+- Rebuilt draft: `manuscript/drafts/chapter-0228.md` — `eb120eccdecf3efed81d0aecd120ee421bd7987f`
 
-## Checks
-- PASS — MiniPin wakes on the floor with swollen jaw; wife/daughter are unharmed and nothing is stolen.
-- PASS — repeated home intrusions are intimidation/comedy aimed only at MiniPin; Vikir never threatens or harms the family.
-- PASS — Vikir catches/breaks Graduator sword attacks barehanded before repeating the jaw knockout.
-- PASS — Imperial Capital investigators spend a night on guard; the intruder deliberately does not appear.
-- PASS — investigators doubt the story because of MiniPin's size/rank and the absurdity of a burglar that strong.
-- PASS — MiniPin later uses two helmets/two blades; both fail.
-- PASS — wife/daughter are eventually sent to relatives for safety.
-- PASS — crumpled-request-paper sound becomes the clue linking the nightly intruder to the repeatedly resubmitted Vikir request.
-- PASS — no property theft or family leverage is introduced.
-- PASS — Vikir finally appears openly and asks whether MiniPin is now willing to accept the request.
+## Completeness findings
+- Priority-queue chapter; historical draft heavily compressed the repeated-intrusion comedy and request-form deduction.
+- PASS — MiniPin wakes on the floor with swollen jaw while wife/daughter and house routine remain untouched; nothing is stolen.
+- PASS — second intrusion: MiniPin's Graduator greatsword is stopped/broken barehanded before another jaw knockout.
+- PASS — Imperial Guard stakeout produces no intruder; officers doubt the report but increase patrols.
+- PASS — following night restores the two-helmet/two-sword preparation and identical defeat.
+- PASS — repeated visits continue until MiniPin sends wife/daughter to relatives and becomes afraid of nightfall.
+- PASS — same crumpled request is repeatedly recovered from his trash and resubmitted; the distinctive paper sound links it to the intruder.
+- PASS — Vikir appears behind the aide and uses the same voice, making the coercive “accept the request” reveal explicit.
