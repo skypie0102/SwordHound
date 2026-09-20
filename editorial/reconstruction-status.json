@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 424,
+  "accepted_chapters": 429,
   "staged_chapters": 0,
-  "next_chapter": 425,
+  "next_chapter": 430,
   "latest_accepted_family": {
-    "name": "How to Become a Wandering Knight",
-    "range": [
-      422,
-      424
-    ],
-    "family_qa": "qa/families/wandering-knight-0422-0424.md"
-  },
-  "next_title_family": {
     "name": "The Night Walkers",
     "range": [
       425,
       429
     ],
+    "family_qa": "qa/families/night-walkers-0425-0429.md"
+  },
+  "next_title_family": {
+    "name": "The Lion King",
+    "range": [
+      430,
+      433
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 430,
-    "following_title": "The Lion King (1)",
-    "alignment_note": "425→E423 through 429→E427; target430→E428 begins The Lion King (1)."
+    "following_family_starts": 434,
+    "following_title": "The Returned Hound (1)",
+    "alignment_note": "430→E428 through 433→E431; Returned Hound 434→E432 through 436→E434."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -486,9 +486,26 @@
     421,
     422,
     423,
-    424
+    424,
+    425,
+    426,
+    427,
+    428,
+    429
   ],
   "notes": [
+    "Chapters425-429 accepted as The Night Walkers (1)-(5), mapping E423-E427.",
+    "Tochka/Crying Castle is the Ark; the Ark myth is knowingly fabricated by Dolores/Martin Luther/senior Quovadis clergy with Pope Nabokov I's approval.",
+    "Night titles revealed: Dolores Saint, Tudor Knight, Sancho Warrior, Pigi Gatekeeper, Bianca Sniper, Cindywendy Wealthy of the Night.",
+    "Cindywendy is source-described as Countess Cindywendy Baskerville and Osiris Le Baskerville's partner/lover; no extra marriage chronology invented.",
+    "Ballak trade has resumed; its new reliable-companion guardian remains unidentified.",
+    "Tudor/Donquixote and Bianca/Usher family collapses mirror each other; Pedro Donquixote is captured and reveals Fourth Corpse Chimeries inside Passamonte.",
+    "Invincible Cavalry is brainwashed rather than willingly demon-aligned.",
+    "Sinclaire returns, rejoins friends, and Chinese-primary line 'We were already friends' controls.",
+    "Pedro reveals Cervantes is alive but ill; reason Tudor/Bianca must be captured alive remains unresolved.",
+    "Tudor kills Pedro after reaffirming 'My name is Tudor. No surname.' despite the House Donquixote honor promise.",
+    "Cindywendy alone possesses Nouvelle Vague's official report declaring Vikir deceased and withholds it from Night Walkers.",
+    "Next family Lion King verified targets430-433 / E428-E431; Returned Hound follows targets434-436 / E432-E434.",
     "Chapters422-424 accepted as How to Become a Wandering Knight (1)-(3), mapping E420-E422.",
     "Tudor is the one-armed Knight of the Night and currently uses no surname.",
     "Passamonte's coup forced Tudor from House Donquixote and cost him his left arm.",

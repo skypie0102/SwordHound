@@ -1,15 +1,15 @@
 # Project State
 
-**Checkpoint:** 2026-09-20  
-**Target edition:** 500 chapters  
-**Accepted:** 424  
-**Staged:** 0  
-**Next chapter:** 425
+**Checkpoint:** 2026-09-20
+**Target edition:** 500 chapters
+**Accepted:** 429
+**Staged:** 0
+**Next chapter:** 430
 
-Latest accepted family: **How to Become a Wandering Knight (1)–(3)** — targets422–424 / E420–E422.  
-Family QA: `qa/families/wandering-knight-0422-0424.md` — **PASS**.
+Latest accepted family: **The Night Walkers (1)–(5)** — targets425–429 / E423–E427.
+Family QA: `qa/families/night-walkers-0425-0429.md` — **PASS**.
 
-Key decisions: Tudor is the one-armed Knight of the Night and uses no surname; Passamonte’s coup cost Tudor his left arm; Bianca fled a parallel Usher-family takeover; Night Walkers sheltered them; Ark is the Saint of the Night’s refugee refuge.
+Key decisions: Tochka is the Ark; Ark myth is deliberately constructed; Donquixote cavalry are brainwashed; Sinclaire returns; Pedro reveals Chimeries/Passamonte and Cervantes's survival; Tudor rejects the Donquixote surname; Cindywendy withholds Vikir's official death report.
 
-Next verified family: **The Night Walkers (1)–(5)** — targets425–429 / E423–E427.  
-Following: **The Lion King (1)** — target430 / E428.
+Next verified family: **The Lion King (1)–(4)** — targets430–433 / E428–E431.
+Following: **The Returned Hound (1)–(3)** — targets434–436 / E432–E434.
