@@ -1,0 +1,33 @@
+{
+  "chapter": 419,
+  "title": "Goodbye, Nouvelle Vague (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Goodbye, Nouvelle Vague",
+    "range": [
+      419,
+      421
+    ],
+    "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/419.txt",
+    "primary_source_sha": "bee81bcddd981b8c55e41e43325b5f226a30527e",
+    "english_reference_path": "source/chapters/chapter-417.xhtml",
+    "english_reference_sha": "09dd5376dac357eee75935aec25c58b9b11c6128",
+    "draft_path": "manuscript/drafts/chapter-0419.md",
+    "draft_sha": "78241836c47b6a99a335bc681e5debed2ad8d5aa",
+    "qa_path": "qa/chapter-0419.md",
+    "qa_sha": "a22af2ab1ad76df7ac500fffa329fe781d59a6fa",
+    "provenance_path": "editorial/provenance/chapter-0419.json",
+    "provenance_sha": "a040e582321f5024677903560a57983e4ba9f58b"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No How to Become a Wandering Knight material from target422 is imported."
+  ]
+}
