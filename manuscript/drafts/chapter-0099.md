@@ -1,6 +1,6 @@
 # Chapter 99: Madam Eight-Legs (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/099.txt` — `9de78fd15855a19f0e67ef0f02752c7d3a0893bc`. Recovered English Chapter 98 is the verified shifted secondary witness. Chinese monster-window semantics control over MTL drift. Established terminology controls **Madam Eight-Legs**, **Rokoko**, **Bog Salamander**, **Bone-Sucking Mosquito**, **Beelzebub**, **High Sword Graduator**, **Sixth Fang**, **Incinerate — Cerberus (A+)**, and **River Styx**.
+> Chinese-primary reconstruction from `source/chinese/chapters/099.txt`. Recovered English Chapter 98 is the verified shifted secondary witness. Chinese monster-window semantics control over MTL drift. Established terminology controls **Madam Eight-Legs**, **Rokoko**, **Bog Salamander**, **Bone-Sucking Mosquito**, **Beelzebub**, **High Sword Graduator**, **Sixth Fang**, **Incinerate — Cerberus (A+)**, and **River Styx**.
 
 > **Madam ‘Eight-Legs’**  
 > **Danger Rating:** S  
@@ -8,199 +8,405 @@
 > **Found at:** Le Rouge et Le Noir Mountain, 10th Ridge  
 > **Alias:** ‘Madam of the Flood’  
 > **Species:** Unknown
+>
+> Ancient records describe enormous spiders among the most vicious beings dwelling in the deepest layers of Hell. Madam Eight-Legs is believed to preserve the form of descendants related to those ancient giant spiders. Her body is saturated with revolting poison, and her webs are harder than steel; nothing except hellfire is known to cut them reliably.
 
-Ancient records described gigantic spiders living in the deepest regions of Hell.
+Vikir looked up at the enormous queen spider.
 
-Madam appeared to be descended from something similar.
+Now that he was facing her directly—
 
-Her body overflowed with poison.
+he understood why Ballak's warriors feared her so much.
 
-Her webs were tougher than steel.
+Before Vikir left, Akwilla had looked worried.
 
-Only hellfire was said to cut them reliably.
+> *We don't know much about Madam. Ah'Heman knew the most about her, but now he's gone…*
 
-Vikir finally understood Ballak's fear.
+There was something Akwilla did not know.
 
-Akwilla had known little.
+Ah'Heman had been born Rokoko.
 
-Ah'Heman had known more because of his Rokoko origin.
+As a member of a tribe famous for shamans and sorcery, he had possessed unusually broad knowledge of ancient monsters.
 
-And Vikir had taken Rokoko books when Red Death emptied their village.
+And not long ago—
 
-One of those books described monsters of the floodlands.
+during the Red Death epidemic—
 
-Bog Salamanders.
+Vikir had entered the abandoned Rokoko settlement and obtained a number of hidden documents.
 
-Bone-Sucking Mosquitoes.
+When the Rokoko shamans fled the plague, they had left important books behind in their haste.
 
-Madam.
+One of those texts was a monster compendium dealing with the floodlands.
 
-The records did not know her true species.
+It contained information on rare creatures such as the Bog Salamander and Bone-Sucking Mosquito.
 
-Only that her shape resembled ancient hell-spiders.
+Madam was included as well.
 
-And that she was growing.
+Even the Rokoko did not know exactly what species she belonged to.
 
-Expanding.
+They knew only that her shape resembled the terrifying giant spiders described in ancient histories.
+
+If she continued growing—
+
+they believed she might become something similar.
+
+At present, Madam lived alone in the wasteland between the low hills on the far side of Le Rouge et Le Noir Mountain and the cold, brutal sea.
+
+In earlier generations, she had apparently remained quiet within that territory.
+
+Recently—
+
+she had begun looking beyond the mountain boundary.
 
 Always hungry.
 
-A future disaster.
+Always thirsty.
 
-Now eight red eyes stared at Vikir through black-green poison mist.
+Add intelligence and overwhelming strength to that appetite—
+
+and nothing in the mountain ecosystem could stop her.
+
+The Rokoko text had ended with a warning.
+
+> *We must prepare as well.*
+>
+> *The nightmare is coming.*
+>
+> *The terror of the floodlands.*
+
+Vikir watched her breathe.
+
+Madam's bloated body expanded and contracted.
+
+A dark green cloud of toxic mist poured from her entire frame and formed a thick curtain.
+
+Eight red eyes stared through it.
 
 [SKREE…]
 
-Madam attacked first.
+Madam moved first.
 
-A foreleg struck the ground.
+One enormous foreleg rose.
 
-The summit split.
+Then slammed down.
 
-A wave of rotten flesh, broken bone, webbing, slime, and waste surged toward Vikir.
+BOOM!
+
+The summit split open.
+
+A wave surged toward Vikir.
+
+Sharp bone fragments.
+
+Rotten flesh.
+
+Spider silk.
+
+Slime mixed with excrement.
+
+Everything had fermented together into an obscene flood.
+
+Vikir gave a dry smile.
+
+“Good thing I didn't eat dinner.”
+
+Even his stomach would have rejected this.
 
 He moved.
 
-“Good thing I skipped dinner.”
+BOOM!
 
-The terrain itself was dangerous.
+The wave crashed past.
 
-Soft rot below.
+Dodging carelessly would have killed him just as quickly as standing still.
 
-Madam's legs above.
+Step wrong—
 
-Vikir jumped onto a giant rib protruding from the ground.
+sink into the rotten ground.
 
-Then drew his bow.
+Move too far—
 
-Aiyen's lessons guided the shot.
+get swatted by Madam's legs.
 
-Madam flinched.
+Vikir used an enormous rib protruding from the ground as a springboard and leapt.
 
-She still carried small wounds from attacking Ballak.
+Creak—
 
-Not serious.
+Aiyen's archery training showed itself immediately.
 
-Enough to make her wary of arrows.
+Vikir drew.
 
-Poison fog thickened.
+Madam flinched at the sound and movement of the incoming arrow.
 
-Her shape vanished inside darkness.
+Even she had taken some damage while attacking Ballak's village.
 
-Then lightning flashed.
+Nothing serious.
 
-White light revealed her silhouette.
+But arrows had lodged where they were difficult to remove.
 
-Vikir fired.
+Enough to teach caution.
 
-CRACK.
+Madam stepped backward.
 
-One left eye burst.
+Sssssss—
 
-Thunder came later.
+Her poison fog thickened.
 
-Seven seconds.
+Darkness wrapped around her like a curtain.
 
-Another flash.
+Breath became black-green mist.
 
-Another arrow.
+Soon almost her entire body vanished inside it.
 
-A second left eye shattered.
+RUMBLE—
 
-Vikir moved toward that side.
+CRACK!
 
-Blind spot.
+Lightning flashed.
+
+For one instant—
+
+the darkness disappeared.
+
+Madam's silhouette appeared in white light.
+
+One middle leg was quietly lifting, preparing an attack.
+
+Vikir saw it.
+
+TWANG!
+
+He fired into the opening.
+
+The target—
+
+Madam's left eye.
+
+CRACK!
+
+The sound was like a red glass bead breaking.
+
+The arrow buried itself in her head.
+
+[SKREEEE!?]
+
+One of eight fields of vision suddenly went black.
+
+Madam recoiled.
+
+Then lightning flashed again.
+
+Vikir had already nocked the next arrow.
+
+TWANG!
+
+A second left-side eye burst.
+
+Exactly seven seconds after the flash—
+
+BOOOOM!
+
+Thunder arrived late.
+
+By then Vikir was already preparing his next move.
+
+*Two left eyes gone.*
+
+He had deliberately attacked only one side of her face.
+
+The damaged left side now contained a blind zone.
+
+Vikir moved into it.
+
+Madam's remaining eyes searched.
+
+For a moment—
+
+she lost him.
+
+That was enough.
 
 Beelzebub emerged.
 
-High Sword Graduator aura ignited.
+High Sword Graduator aura spread from Vikir like dark-red blood.
 
-Six Fangs.
+**Baskerville Sixth Fang — Carnivorous.**
 
-The strike shattered chitin.
+Six bloody teeth burned against the blade.
 
-Cut flesh.
+Vikir struck.
 
-One left foreleg fell.
+BOOM!
 
-Vikir continued.
+Long slashes tore across Madam.
 
-A second cut tore open the silk-producing sac near the rear abdomen.
+Hard exoskeleton cracked.
 
-Fluid leaked.
+Flesh split underneath.
 
-Madam staggered.
+Then—
 
-Vikir prepared to pursue.
+CLANG!
 
-Then stopped.
+Madam's left foreleg separated completely and crashed down.
 
-Every instinct he possessed screamed—
+[SKREEEEEE!]
 
-*Back.*
+The scream came through holes all over her body.
 
-He obeyed.
+Vikir was not finished.
+
+Whoosh—
+
+His aura lashed through the air again.
+
+The cut passed beyond the missing foreleg and reached the rear abdomen.
+
+A wound opened across the silk-producing sac.
+
+Sssssss—
+
+Viscous fluid began leaking.
+
+Madam retreated.
+
+Vikir prepared to follow.
+
+A successful attack should be chained immediately into another.
+
+That was one of the most basic rules of hunting.
+
+Once advantage was gained—
+
+never give it back.
+
+Then—
+
+“…?”
+
+Vikir stopped.
+
+Every instinct in the old hound's body screamed the same thing.
+
+*Retreat.*
+
+He obeyed without hesitation.
+
+On a battlefield, instinct sometimes understood danger before reason could identify it.
+
+BOOM!
 
 Not fast enough.
 
-BOOM.
+Vikir's body folded almost into an L.
 
-A leg struck from an impossible angle.
+A leg had struck him from an impossible direction.
 
-Vikir folded under the impact.
+*Where did that come from?*
 
-As he flew—
+As he was launched away—
 
-he saw why.
+Vikir saw the answer.
 
-The severed leg had regenerated.
+The leg he had just severed—
 
-Not one.
+had regenerated.
 
-Two.
+Not as one.
 
-The cut stump had split into a pair of new limbs.
+As two.
 
-Madam's regeneration multiplied the damage into growth.
+[SKREE—KRAK!]
 
-Vikir hit the ground.
+Madam raised her left forelimb almost mockingly.
 
-His abdomen opened.
+The stump had split at the cut.
+
+Two new legs had grown from it.
+
+The regenerative power was absurd.
+
+Damage did not merely heal.
+
+It multiplied her limbs.
+
+BOOM!
+
+Vikir crashed into the ground.
+
+Bone fragments buried him.
+
+Madam's leg had reduced his body to something close to a rag.
+
+The abdominal cavity tore open.
 
 Organs spilled out.
 
-His right leg separated completely.
+His right leg was severed completely.
 
-The left shattered.
+The bones in the left leg shattered and bent at a right angle.
 
-One eye failed.
+The impact blinded one eye.
 
-One ear went silent.
+Deafened one ear.
 
-Madam looked down.
+In a single exchange—
 
-Almost amused.
+the hero had fallen.
 
-Then Vikir stood.
+Madam had turned countless challengers into rotten meat this way.
 
-Black steam poured from his body.
+Now she had done it again.
 
-Bone reformed.
+[Chitter… chitter…]
 
-Organs rebuilt.
+Her remaining six eyes curved.
 
-A leg grew.
+Almost a smile.
 
-Wounds closed.
+Then—
 
-The regenerative power of the **Bog Salamander** now lived inside Beelzebub.
+the expression vanished.
 
-Madam's expression changed.
+“So that's how it works.”
 
-Vikir flexed his restored hand.
+Vikir stood.
 
-“So cutting one gives you two.”
+Madam froze.
 
-His voice remained cold.
+“Cut one leg—”
 
-“That's still within the margin.”
+Black steam began pouring from Vikir's body.
+
+“—and you grow two?”
+
+Sssssss—
+
+Muscle reknit.
+
+Bone moved.
+
+Tissue regenerated at impossible speed.
+
+The terrible injuries were reversing in front of Madam's eyes.
+
+The regenerative power of the **Bog Salamander**, now housed in Beelzebub, reconstructed Vikir's body.
+
+A new leg.
+
+Reformed organs.
+
+Healed bone.
+
+Closed flesh.
+
+Madam's remaining eyes widened.
+
+Vikir tested his restored balance.
+
+“…Still within the margin.”
+
+His voice was cold enough to make even Madam hesitate.
+
+At last—
+
+the hound showed his fangs.
