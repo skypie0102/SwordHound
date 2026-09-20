@@ -4,7 +4,7 @@
 **Phase:** POST-500 MANUSCRIPT COMPLETENESS AUDIT  
 **Manuscript files present:** 500 / 500  
 **Historical acceptance before audit:** 500 / 500  
-**Currently retained accepted status:** 496 / 500, provisional pending corpus-wide completeness review  
+**Current tracker status:** 496 accepted / 4 needs rework; all 496 retained acceptances remain provisional pending corpus-wide completeness review  
 **Confirmed needs rework:** 4 — Chapters 97, 316, 319, 420  
 **Next target:** complete-family audit beginning with **The Illiad (85–89)**
 
