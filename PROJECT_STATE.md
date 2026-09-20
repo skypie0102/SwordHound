@@ -12,12 +12,17 @@
 **Pending initial priority queue:** 19 chapters  
 **Next audit family:** Surplus Man (314–320)
 
-The **Hell Tree (307–313)** family has been rebuilt in full. All seven chapters were initial-priority targets, and direct raw comparison confirmed material compression across the entire family.
+The **Hell Tree (307–313)** family has been rebuilt in full. Direct raw comparison found material compression across every chapter; all seven chapters were already in the initial priority queue.
 
-Restored material includes the full exterior rescue crisis; Camus's inverted Hell Tree history and outside-interference rule; Banshee's guilt chain; Vikir's memoir-based tower knowledge and deliberate decision to enter; Level System / one-percent mechanics; acid-vomit stat-candy recovery; corrupted Colosseo and preserved-scent bait; exact **108/108/108** mission; Granola's betrayal and rescue; Chinese-primary **B+ Hell Hounds**; full-pack clear and Bonus Stage; **Cerberus A+**; exact Strength230 / Agility219 / Stamina244 candy spike; project-canonical **Immortality — Gargoyle (S)**; Beatrice Newell + Sabik ginkgo odor trap; **Physical Resistance +1**; Hell Merchant; Fairy Candy Shop; deliberate Level1 farming; and the **69-survivor** descent to Floor3.
+Restored material includes the external-rescue failure and full Hell Tree lore; Vikir's Level-System objective; exact tutorial stats and candy mechanics; acid-vomit reward recovery; corrupted Colosseo / scent-bait setup; **108 students / 108 Hell Hounds / 108 minutes**; Granola's betrayal and rescue; **B+** Hell Hound profile; Sabik-ginkgo mass hunt; Cerberus A+ Bonus Stage; exact stat spike to Strength230 / Agility219 / Stamina244; perfume-ginkgo kill setup; rare **Physical Resistance +1** unlock; Hell Merchant title; Fairy Candy Shop; Level1 reward farming; and the **69-survivor** transfer to Basement Floor3.
+
+Continuity/source guards remain explicit:
+- Hell Hound Danger Rating = **B+** from Chinese.
+- Target312 keeps **Immortality — Gargoyle (S)**; local Basilisk-regeneration wording is not promoted.
+- **Granola de Leviathan** is canonical.
 
 Current unresolved confirmed failures remain **316, 319, 420**.
 
 Original priority queue: 47 chapters. **19 remain.**
 
-The next family is **Surplus Man (314–320)**. Every chapter in that family remains on the initial priority queue, and targets **316 and 319** are confirmed needs-rework chapters.
+Next: **Surplus Man (314–320)**. Every chapter in that family is still in the priority queue, with **316** and **319** already confirmed failures.
