@@ -1,110 +1,138 @@
 # Chapter 432: The Lion King (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/432.txt`. Recovered English Chapter 430 is the verified shifted secondary witness. Established project terminology controls Tudor, Passamonte, Chimeries, Cervantes, Gungnir, Dolores, Bianca, Sancho, Pigi, Sinclaire, and the Ten Corpses. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/432.txt`. Recovered English Chapter 430 is the verified shifted secondary witness. Established project terminology controls **Tudor**, **Passamonte**, **Chimeries**, **Cervantes**, **Gungnir**, **Dolores**, **Bianca**, **Sancho**, **Pigi**, **Sinclaire**, and the **Ten Corpses**. Chimeries's authority intensifies recklessness and irrational confidence; it does not erase all prior human agency.
 
 “Es la misión del verdadero caballero.”
 
-“The duty of a true knight.”
+“The mission of a true knight.”
+
+“His duty.”
+
+Then Passamonte smiled.
 
 “No.”
 
 “Not merely duty.”
 
-“A privilege.”
+“Privilege.”
 
-Passamonte recited slowly.
+He continued the old chivalric verse.
 
-“To dream the impossible dream.”
+“To dream the impossible.”
 
-“To defeat the invincible enemy.”
+“To overcome the undefeated enemy.”
 
 “To endure unbearable pain.”
 
 “To die for a noble ideal.”
 
-“To correct one’s wrongs.”
+“To correct one's mistakes.”
 
 “To love with purity and kindness.”
 
-“To chase an impossible dream.”
+“To desire the impossible dream.”
 
 “To reach a star through faith.”
 
-A romantic verse.
+Romantic lines.
 
-Exactly the sort of thing found in old chivalric stories.
+The kind found only in old knightly epics.
 
-Passamonte smiled at Tudor.
+Passamonte—
+
+gold hair.
+
+blue eyes.
+
+pale face—
+
+looked toward Tudor.
 
 “Who taught you your favorite poem?”
 
 Tudor said nothing.
 
-Everyone else already knew.
+Everyone else knew.
 
-Tudor had loved heroic epics and knightly romances since his first year at Colosseo.
+Since his first year at Colosseo—
 
-He had quoted these lines endlessly.
+Tudor had adored chivalric stories.
 
-Passamonte’s expression softened.
+Heroic epics.
 
-“Half your chivalry came from me.”
+Legends of impossible courage.
 
-“And now you point a spear at the uncle who loved you.”
+He had recited these lines constantly.
+
+Passamonte sighed sadly.
+
+“Half of your chivalry came from this uncle.”
+
+“And now—”
+
+“you point a spear at the man who loved you without reservation.”
 
 “What a tragedy.”
 
-Still—
+Tudor remained silent.
 
-Tudor did not answer.
-
-Passamonte extended one hand.
+Passamonte extended a white hand.
 
 “Give me Gungnir.”
 
-“It is too dangerous for you.”
+“It is too dangerous for someone still immature.”
 
-“As your elder and guardian—
+“As your uncle.”
 
-I will keep it safe.”
+“As your guardian.”
+
+“I'll keep it safe.”
 
 Tudor finally spoke.
 
-“You could never draw it from Father’s body.”
+“You could never pull it out of Father's body.”
 
-Passamonte’s smile paused.
+Passamonte's smile paused.
 
-“Because Gungnir only responds to someone with legitimate succession rights.”
+“Because Gungnir responds only to someone qualified to inherit House Donquixote.”
 
-Tudor lifted the divine spear.
+Tudor raised the spear.
 
-Tapped its butt against the floor.
+Tapped the butt against the floor.
+
+Heavy.
+
+Stable.
 
 The tip glowed blue.
 
-Then pointed directly at Passamonte.
+Then pointed at Passamonte.
 
-“So that was part of the reason you wanted me alive.”
+“So that was one reason you needed me alive.”
 
-“You needed me to draw Gungnir for you.”
+“You needed me to draw Gungnir.”
 
 Passamonte blinked.
 
-“About half correct.”
+“Half right.”
 
 “Yes.”
 
 “That was one reason.”
 
-Then he sighed.
+He withdrew his hand.
 
-“To be honest—
+Then sighed.
 
-I’ve been in a terrible mood lately, nephew.”
+“To be honest…”
 
-“Don’t call me that.”
+“I have been in a poor mood for several months.”
 
-“You’re a demon.”
+Tudor's eyes hardened.
+
+“Don't call me nephew.”
+
+“You demon.”
 
 “Oh?”
 
@@ -112,145 +140,181 @@ I’ve been in a terrible mood lately, nephew.”
 
 “How cold.”
 
-“What should I call you then?”
+“What then?”
 
 “Tudor?”
 
-Passamonte withdrew his hand.
+Passamonte kept smiling.
 
-His smile remained.
+But grief entered his voice.
 
-His voice—
+“The reason is simple.”
 
-did not.
+“The body I spent more than ten years preparing…”
 
-“The reason I’m upset is simple.”
+“was ruined at the last moment.”
 
-“The body I spent more than ten years preparing to take—
-
-was ruined at the last moment.”
-
-Everyone understood.
+Every Night Walker understood.
 
 **Cervantes.**
 
-Chimeries had planned to abandon Passamonte’s frail body—
+Chimeries had intended to discard Passamonte's weaker body.
 
-and possess the Spear King instead.
+Take the Spear King's.
 
-But Cervantes destroyed his own body before the demon could take it.
+A body worthy of a great demon.
+
+But Cervantes—
+
+before possession—
+
+destroyed himself.
 
 Gungnir through the abdomen.
 
-Mana core ruined.
+Mana core shattered.
 
-A final refusal.
+Body made unusable.
+
+Soul denied.
 
 “I even borrowed poison from Leviathan.”
 
-“All that preparation.”
+“Years of preparation.”
 
-“And the moment I looked away—
+“More than a decade.”
 
-he killed himself.”
+“And the moment I looked away—”
 
-Passamonte looked almost genuinely offended.
+“he killed himself.”
+
+Passamonte looked genuinely offended.
 
 “Cervantes gave me nothing.”
 
-“Not his soul.”
+“Not the body.”
 
-“Not his body.”
+“Not the soul.”
 
-“A tragedy.”
+“What a tragedy.”
 
-Then his eyes changed.
+Then—
+
+his eyes changed.
 
 Blue disappeared.
 
-Black expanded.
+Black spread.
 
-His pupils became bottomless holes.
+Pupils widened until they looked like holes leading into an endless abyss.
 
-Just meeting that gaze—
+One glance—
 
-made the Night Walkers dizzy.
+and the Night Walkers felt dizzy.
 
 Nauseated.
 
-As though every human feeling were being pulled toward a void.
+As if light itself—
 
-“But it doesn’t matter.”
+starlight.
 
-Passamonte’s grin widened.
+moonlight.
 
-“Because now I have something even better.”
+human emotion—
+
+were being pulled toward those eyes.
+
+Passamonte smiled wider.
+
+“But it's fine.”
+
+“Because now—”
+
+“there is something better.”
+
+He looked at Tudor.
 
 “Younger.”
 
 “Fresher.”
 
-“More talented.”
+“Equally excellent potential.”
 
-“Not yet fully matured—
+“Not fully matured—
 
-which means far more room to grow.”
+which means more room to grow.”
 
-He stared at Tudor.
+“And mentally…”
 
-“And mentally—
+“far softer.”
 
-so much softer.”
+Everyone understood.
 
-Only then did everyone understand.
+Cervantes had denied Chimeries.
 
-Chimeries had failed to obtain Cervantes.
+So the demon had chosen a new body.
 
-So now—
+**Tudor.**
 
-he wanted **Tudor**.
+Bianca remembered Pedro.
 
-Bianca remembered Pedro’s interrogation.
+*Why capture Tudor alive?*
 
-*Why do you need Tudor alive?*
+*If killing him is enough, why not take his head?*
 
-*Why not simply kill him?*
-
-Pedro had claimed not to know.
+Pedro had insisted he did not know.
 
 Maybe he truly had not.
 
-Dolores clenched her teeth.
+Dolores's jaw tightened.
 
-*This was bait.*
+*Trap.*
 
-The lightly defended patrol.
+The oddly small cavalry detachment.
 
-The loose-looking brainwashing.
+Brainwashing that seemed strangely loose.
 
-Pedro’s easy exposure.
+Pedro exposing himself too easily.
 
-Everything had been arranged to draw Tudor back inside the castle.
+A chain of openings—
 
-*Vikir would have seen it.*
+all pointing inward.
 
-The thought stabbed.
+Toward the castle.
 
-But there was no time for regret.
+Toward Tudor.
 
-Dolores began planning a retreat toward the open ground outside—
+*Vikir would have noticed.*
 
-where the freed Donquixote knights could join them.
+The thought hurt.
+
+But regret did nothing.
+
+They had to survive the current situation.
+
+Dolores began building a retreat plan.
+
+Open ground outside.
+
+Freed Donquixote knights nearby.
+
+Join forces.
+
+Numerical advantage.
 
 Then—
 
-“AAAAH!”
+“AAAAAAH!”
 
 Tudor charged.
 
-Gungnir moved like lightning—
+Gungnir moved—
 
-and struck with the weight of a tidal wave.
+fast as lightning.
+
+Heavy as a tidal wave.
+
+A direct thrust toward Passamonte's heart.
 
 Passamonte twisted aside.
 
@@ -258,103 +322,129 @@ Passamonte twisted aside.
 
 “Better than expected.”
 
-“Excellent bones.”
+“Strong bones.”
 
-“Excellent muscle.”
+“Fine muscle.”
 
 “Healthy organs.”
 
-“Such a fine body.”
+“What an excellent body.”
 
-Bianca attacked too.
+Bianca fired.
 
-ARROWS slammed into the wall.
+THUNK!
 
-Then Sancho.
+THUNK!
+
+Arrows struck the wall.
+
+Sancho moved.
 
 Pigi.
 
 Sinclaire.
 
-All of them moved.
+All attacking.
 
-Too fast.
+Too suddenly.
 
-Too aggressively.
+Too confidently.
 
-“W-wait!”
+“Wait!”
 
-“My body won’t stop!”
+“My body—”
 
-“I feel like I can win!”
+“It won't stop!”
+
+“I feel like we can win!”
 
 “Why do I feel so certain!?”
 
 Dolores froze.
 
-She felt it too.
+Because she felt it too.
 
-An impulse to stay.
+The urge—
 
-To push forward.
+stay.
 
-To fight.
+fight.
 
-To believe the impossible was suddenly within reach.
+push harder.
 
-She looked at Passamonte.
+Take the impossible gamble.
 
-He smiled.
+Confidence with no basis.
 
-“Finally noticed?”
+She looked up.
 
-“My power makes people reckless.”
+Passamonte smiled.
 
-Courage—
+“Now you notice.”
 
-without judgment.
+“My authority makes people reckless.”
 
-Confidence—
+Not courage.
 
-without reason.
+Not true bravery.
 
-A frog swelling itself to match an ox.
+Recklessness.
 
-This was how Chimeries had controlled Donquixote.
+A frog trying to swell to the size of an ox.
 
-And perhaps—
+Chimeries had used that authority to take House Donquixote.
 
-the influence had begun long before they entered the castle.
+And the influence might have begun long before this room.
 
 Pedro discovering Tochka.
 
-The Night Walkers choosing to attack.
+The Night Walkers deciding to attack the castle.
 
-Every “bold” decision since then—
+The sequence of increasingly bold choices.
 
-might have been nudged.
+Had Chimeries nudged them?
 
-The thought itself created more confusion.
+How much?
 
-Passamonte’s smile deepened.
+They could not know.
+
+That uncertainty itself—
+
+created more confusion.
+
+Vikir had warned them before Nouvelle Vague.
+
+The Ten Corpses possessed abilities that often could not be recognized even while they were affecting you.
+
+Dolores felt the warning now—
+
+too late.
+
+Passamonte's smile deepened.
 
 “Good.”
 
-“Now that your minds are properly shaken—
+“Now that you're confused…”
 
-we can begin.”
+“we can begin properly.”
 
-“To take a body—
+“To take a body—”
 
-you first break the mind.”
+“first break the mind.”
 
-The floor cracked.
+He spread both arms.
 
-RUMBLE.
+CRACK.
 
-Black fractures spread outward.
+The floor split.
 
-Then the ground collapsed.
+Black fractures raced outward.
+
+Then—
+
+RUMBLE!
+
+Stone collapsed.
 
 Something enormous rose from the darkness below.
 
@@ -372,6 +462,6 @@ Sinclaire.
 
 All went pale.
 
-Because what appeared beneath them—
+Because whatever was climbing from that abyss—
 
-was a sight no former Colosseo student could ever forget.
+was something no former Colosseo student could see without remembering terror.
