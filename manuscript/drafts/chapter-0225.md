@@ -1,120 +1,168 @@
 # Chapter 225: Tuition (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/225.txt` — `1879573d9f58626cc95bab311a29bccec2ad5cbf`. Recovered English Chapter 223 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Dolores L. Quovadis, Professor Banshee Morgue, Night Hound, Sinclaire, Pigi, Tudor Donquixote, Sancho Barataria, Bianca Fo Usher, Cerberus, and the Imperial Capital. **Ms. Ouroboros** follows the aligned witness as the current public villain alias; her true identity remains unrevealed here.
+> Chinese-primary reconstruction from `source/chinese/chapters/225.txt`. Recovered English Chapter 223 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Dolores L. Quovadis**, **Professor Banshee Morgue**, **Night Hound**, **Sinclaire**, **Pigi**, **Tudor Donquixote**, **Sancho Barataria**, **Bianca Fo Usher**, **Cerberus**, **Tochka Fortress**, and the **Imperial Capital**. **Ms. Ouroboros** is the current public alias; her true identity remains unrevealed.
 
-The festival ended.
+The festival was over.
 
-The excitement—
+The mood it left behind—
 
-did not.
+was not.
 
-For days afterward—
+For days afterward, whenever three or more students gathered in one place, the conversation inevitably turned back toward festival gossip.
 
-three students could not stand together without discussing—
+“Did you hear?”
 
-who confessed.
+“The guy from Hot Department Class A and the girl from Cold Department Class B are dating now.”
 
-who flirted.
+“No way. When did that happen?”
 
-who started dating.
+“He confessed during the fireworks.”
 
-who fought.
+“Oho~”
 
-who broke up.
+Another group had a different story.
 
-Then came stories about—
+“What?”
 
-drunken fights.
+“That new couple from Hot Department Class B already broke up?”
 
-vomiting.
+“They lasted one day?”
 
-suspensions.
+“Someone starts dating while someone else breaks up…”
 
-disasters.
+“Youth really is mysterious.”
 
-And—
+Who confessed to whom.
 
-the biggest rumor of all.
+Who flirted.
 
-“Did the Night Hound really come to the Academy?”
+Who got together.
 
-“I heard he tried another terrorist attack.”
+Who fought.
 
-“The professors drove him away.”
+Who broke up.
 
-“Why hasn't the Imperial Guard caught him?”
+Colosseo Academy was full of people in their late teens and early twenties.
 
-“Put him in Nouvelle Vague already.”
+Romance therefore dominated the rumor mill.
 
-“Someone said he's insanely strong.”
+There were other stories too.
 
-“And there was an unregistered black mage too.”
+Someone got drunk and started a fight.
 
-“I heard the villains fought each other.”
+Someone vomited in public.
 
-To students who had seen almost nothing clearly—
+Someone caused a scene.
 
-a near-catastrophe—
+Someone took leave.
 
-had become festival gossip.
+Someone disappeared from class afterward.
 
-Then—
+But the hottest rumor of all was—
+
+“Did the Night Hound really show up at the Academy during the festival?”
+
+“Yeah.”
+
+“I heard he tried to launch another terrorist attack.”
+
+“The professors stopped him!”
+
+“That's terrifying.”
+
+“What is the Imperial Guard even doing?”
+
+“They should throw him into Nouvelle Vague already.”
+
+“Someone who saw him said he's insanely strong.”
+
+“And there was another villain too, right?”
+
+“An unregistered black mage?”
+
+“I heard the two villains fought each other.”
+
+“That's why the professors managed to drive them off so easily.”
+
+“Shame they couldn't capture either one.”
+
+The students spoke lightly.
+
+Almost cheerfully.
+
+To people who had not understood what really happened—
+
+the incident that had nearly become a massacre was already turning into an urban legend.
+
+…
+
+There was one student who could not treat it so lightly.
 
 BANG!
 
-The newspaper-club door opened.
+The newspaper-club door flew open.
 
-“Everyone.”
+“Everyone!”
 
-**Dolores** entered.
+**Dolores L. Quovadis**, student council president and newspaper-club head, marched inside.
 
-Holding—
+She held a draft article in one hand.
 
-an unpublished article.
+Her expression was visibly displeased.
 
 “Who wrote this?”
 
-The headline—
+She slapped the paper down.
 
-aggressive.
+The headline read—
 
-> **[Exclusive] The Night Hound's Savagery Knows No Limit…**
+> **[Exclusive] The Night Hound's Savagery Has Gone Too Far…**
 
-It blamed the Night Hound for—
+The article was merciless.
 
-attacking the Academy.
+It accused the Night Hound of attacking the Academy—
 
-terrorizing students.
+a place that represented the Empire's future.
 
-destroying major Imperial Capital facilities.
+It called his actions anti-human.
 
-Royal Bank.
+Anti-state.
 
-Central Clocktower.
+Demanded punishment.
 
-Indulgentia.
+Then connected him to a list of recently damaged Imperial Capital facilities—
 
-Royal Martyrs' Cemetery.
+the Royal Imperial Bank.
 
-Dolores's expression—
+the central clocktower.
 
-tightened.
+the Indulgentia orphanage.
 
-“The Night Hound did not cause the festival disturbance.”
+the Royal Martyrs' Cemetery.
+
+Dolores took a breath and held down her irritation.
+
+“The Night Hound did **not** cause the festival disturbance.”
 
 “The unidentified black mage did.”
 
-“This article reads like he came here to massacre students.”
+She pointed at the article.
 
-“He is an Imperial criminal.”
+“This makes it sound as if the Night Hound came here and slaughtered students.”
 
-“That does not mean—
+“He is a criminal officially designated by the Empire.”
 
-we get to invent crimes.”
+“I am not defending him.”
 
-“Journalism should state facts.”
+“But on that night, at this festival, he did not commit the acts this article attributes to him.”
 
-She looked around.
+“That is a fact.”
+
+“Reporting should distinguish facts from assumptions.”
+
+She paused.
+
+Then looked around the room.
 
 “Who wrote it?”
 
@@ -128,229 +176,273 @@ Bianca.
 
 Sinclaire.
 
-All—
+None answered.
 
-looked toward one desk.
+Their eyes did.
+
+“…”
+
+“…”
+
+“…”
+
+“…”
+
+“…”
+
+Every gaze shifted toward the same desk.
 
 Vikir.
 
 Dolores sighed.
 
-“…Again?”
+“Vikir.”
 
-Vikir answered—
+“Again?”
 
-calmly.
+Vikir answered in his usual flat tone.
 
-“Professor Banshee assigned the article.”
+“Professor Banshee instructed us to prepare coverage of the Night Hound.”
 
-“You were occupied with student-council duties.”
+“And you happened to write the most hostile version while I wasn't here?”
 
-“I had time.”
+“You were occupied with student-council work for the entire festival.”
 
-“All true.”
+“I had free time.”
 
-Dolores rubbed her forehead.
+“I completed the assignment.”
 
-Then placed another document down.
+Dolores opened her mouth.
 
-“This morning—
+Then closed it.
 
-the Imperial Capital Guard issued an official correction.”
+Every part of that answer was technically true.
 
-“The recent infrastructure attacks—
+She released another small sigh.
 
-were not the Night Hound.”
+“This morning, the Imperial Capital Guard issued an official statement.”
 
-Everyone looked up.
+The club members looked up.
 
-Dolores displayed—
+“The recent attacks on major facilities were **not** committed by the Night Hound.”
 
-magic-recorded images.
+That got everyone's attention.
 
-Ruined bank.
+Dolores laid out several magic-recorded images.
 
-destroyed tower.
+The ruined clocktower.
 
-collapsed estates.
+A damaged bank.
 
-Across the wreckage—
+Collapsed buildings.
 
-long marks.
+Across the debris—
 
-As if—
+long, sweeping gouges.
 
-a giant snake—
+Not cuts.
 
-had crawled through stone.
+Not sword marks.
 
-“The Night Hound's known weapon is a blade.”
+They resembled the path of a gigantic serpent crawling through stone.
+
+“The Guard captain specifically noted that the Night Hound's known primary weapon is a blade.”
 
 “These aren't blade marks.”
 
-“So the Guard has separated the cases.”
+“So the recent infrastructure attacks have been separated into a different case.”
 
-A new name—
-
-entered the Academy rumor mill.
+The Imperial Guard had already assigned the unknown attacker a public alias.
 
 **Ms. Ouroboros.**
 
+A vicious terrorist with no known motive.
+
 Presumed female.
 
-Purpose—
+Combat ability—
 
 unknown.
 
-Weapon—
+Current estimate—
+
+around Graduator level.
+
+Primary weapon—
 
 unknown.
-
-Strength—
-
-estimated around Graduator level.
 
 Witnesses—
 
-dead.
+none.
 
-Students shivered.
+Or rather—
+
+none still capable of giving useful testimony.
+
+A faint chill passed through the room.
+
+A Graduator-level combatant was treated with respect almost anywhere in the Empire.
+
+If someone at that level deliberately turned their strength against ordinary civilians—
+
+the potential damage was enormous.
 
 Night Hound.
 
-Unregistered black mage.
+An unidentified black mage.
 
-Now—
+And now—
 
 Ms. Ouroboros.
 
+One dangerous figure after another.
+
+No wonder residents of the Imperial Capital were becoming afraid to sleep.
+
 Dolores spoke firmly.
 
-“From now on—
+“So from now on, don't assign every crime in the Capital to the Night Hound.”
 
-do not assign every crime to the Night Hound.”
+“I am not taking anyone's side.”
 
-“Three villains means—
+“I am saying that if there are three villains, then we need to distinguish three sets of actions.”
 
-three sets of actions.”
+“Evidence first.”
 
-“Facts first.”
+No one could argue with that.
 
 Everyone nodded.
 
 Vikir included.
 
-*Fine.*
+*Fine by me.*
 
-His anti–Night Hound articles—
+His harsh articles about the Night Hound had always served another purpose.
 
-had always served a purpose.
+If someone ever suspected Vikir himself—
 
-If suspicion ever reached Vikir—
+years of public criticism toward the Night Hound could become useful camouflage.
 
-a long record of publicly condemning Night Hound—
+Meanwhile—
 
-could become camouflage.
+the club members had already moved to another question.
 
-As for Ms. Ouroboros—
+“Who exactly is Ms. Ouroboros?”
 
-*not my problem unless she interferes with demon hunting.*
+“No witnesses.”
 
-The club's conversation continued.
+“No face.”
 
-“She follows Night Hound's route.”
+“No weapon.”
 
-“Maybe she wants to meet him.”
+“No motive.”
+
+“Only those huge snake-like trails.”
+
+“And she seems to move along the Night Hound's previous routes.”
+
+“So maybe she's trying to meet him?”
 
 “Then why didn't she come to the Academy?”
 
-“Too many professors now.”
+“Maybe because the professors tightened security.”
+
+“Wait.”
 
 “How do they even know she's a woman?”
 
-“High-heel prints.”
+“High-heel footprints.”
 
-“Lipstick on discarded vodka bottles.”
+“And lipstick on discarded vodka bottles.”
 
-“Could still be a man who likes heels and lipstick.”
+Tudor shrugged.
 
-“True.”
+“A man could wear heels and lipstick.”
 
-Vikir barely listened.
+“Sure.”
 
-His hands—
+“That's not exactly rare.”
 
-were busy.
+Ms. Ouroboros.
 
-Needle.
+The unknown terrorist destroying major Imperial facilities.
 
-Thread.
+Vikir had already heard about her through Cindywendy's information network.
 
-Dark leather.
+*She's following me.*
 
-The last battles had convinced him—
+Why?
 
-his disguise needed improvement.
+Admiration.
 
-So he was rebuilding—
+Hatred.
 
-mask.
+Curiosity.
 
-hood.
+He did not care.
 
-cloak.
+As long as she did not interfere with demon hunting—
 
-Using old **Cerberus** hide.
+she was secondary.
 
-The toughest pieces—
+What occupied Vikir's attention more—
 
-for protection.
+was the needle and heavy thread in his hands.
+
+Sinclaire leaned over.
+
+“Wow.”
+
+“Brother, you're really good at sewing.”
+
+Vikir continued working.
+
+During war—
+
+no one came running to repair torn combat clothing for you.
+
+After the recent incident, Vikir had decided his disguise needed to be more durable.
+
+So he was remaking his mask, hood, and cloak using old **Cerberus** hide.
+
+The toughest portions went into the protective pieces.
 
 The scraps—
 
 became something else.
 
-Sinclaire leaned closer.
+He tied the last stitch.
 
-“Wow.”
+“A scarf.”
 
-“You can sew?”
+Vikir held it up.
 
-“In war—
-
-no one repairs your clothes for you.”
-
-Vikir finished.
-
-Held up—
-
-a scarf.
-
-“I don't need this.”
+“I don't need it.”
 
 “Anyone want it?”
 
-Tudor touched it.
+Tudor rubbed the material.
 
-“Rough.”
+“…Rough.”
 
-Sancho sniffed.
+Sancho sniffed it.
 
-“Smells strange.”
+“Strange smell.”
 
-Pigi tested the weight.
+Pigi lifted one end.
 
-“Heavy.”
+“It's heavy.”
 
 Bianca recoiled.
 
-“Who would wear that?”
+“Who would wear this?”
 
 Sinclaire smiled awkwardly.
 
 “Brother…”
 
-“This one might be difficult.”
+“I think this one may be a little…”
 
 Vikir nodded.
 
@@ -360,51 +452,63 @@ Vikir nodded.
 
 Silence.
 
-Five faces—
+Five faces turned toward him.
 
-turned toward him.
+Question marks practically appeared over their heads.
 
-Sinclaire blinked.
+Sinclaire blinked several times.
 
-“…You've eaten this?”
+“…Brother.”
 
-Vikir nodded.
+“You've eaten this?”
 
-Once.
+Vikir gave a small nod.
 
-In the Age of Destruction—
+Before regression—
 
-during the fall of **Tochka Fortress**—
+during the Age of Destruction—
 
-food had vanished.
+there had been times when survival meant eating anything.
 
-Leather—
+He remembered one particularly brutal period.
 
-had become food.
+The fall of **Tochka Fortress**.
 
-“Boiled Cerberus hide tastes like—
+They had been trapped for days inside deep defensive trenches.
 
-rotten fish—
+Food ran out.
 
-sun-dried—
+Eventually—
 
-then coated in spoiled milk.”
+leather became food.
 
-Everyone covered their mouths.
+That was when Vikir first learned the taste of Cerberus hide.
 
-Then—
+“Imagine rotten fish.”
 
-a senior called from outside.
+He considered the memory.
+
+“Dry it under strong sunlight.”
+
+“Then coat it in spoiled milk.”
+
+Everyone silently covered their mouths.
+
+At that moment—
+
+“Hey!”
 
 “Vikir!”
 
-“Letter!”
+A senior waved from outside the window.
 
-Envelopes—
+“You have mail!”
 
-arrived.
+An envelope came through.
 
-Not only for him.
+Then another.
+
+Not only Vikir.
 
 Tudor.
 
@@ -416,25 +520,31 @@ Bianca.
 
 Sinclaire.
 
-Vikir opened his.
+Each received the same kind of notice.
+
+“…What is this?”
+
+Vikir tore open his envelope.
+
+Inside—
 
 > **First-Semester Tuition Payment Notice**
 >
-> Name: Vikir  
-> Academy: Colosseo  
-> Department: Cold Department  
-> Major: Archery  
-> Class: B  
-> Student No.: 20  
-> Year: 1  
-> Semester: 1  
-> Category: Tuition (A)  
-> Amount Due: … G
+> **Name:** Vikir  
+> **Academy:** Colosseo  
+> **Department:** Cold Department  
+> **Major:** Archery  
+> **Class:** B  
+> **Student No.:** 20  
+> **Year:** 1  
+> **Semester:** 1  
+> **Category:** Tuition (A)  
+> **Amount Due:** … G
 
 For some students—
 
-routine paperwork.
+ordinary paperwork.
 
 For others—
 
-a threat.
+a terrifying ultimatum.

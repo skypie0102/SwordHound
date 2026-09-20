@@ -1,22 +1,19 @@
 # Chapter 227 QA — Tuition (3)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/tuition-0225-0233.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/227.txt` — `fe128312ab67b5ae9781a6c0702c19b17c630a0f`
 - English witness: **E225** — `bae1b5f3e498ab9413408c8c6742bda47d7afe8a`
-- Draft: `manuscript/drafts/chapter-0227.md` — `9659a6a94ed5d847507dd9fd9f6f39ce412ce92f`
+- Rebuilt draft: `manuscript/drafts/chapter-0227.md` — `67fdf693aa701f1c9023e495ee98d7b9b021cf54`
 
-## Checks
-- PASS — **Sherpa Guild** specializes in local guides/porters with ecology, geography, route, and escape knowledge.
-- PASS — Miniature Pinscher / **MiniPin** is over **2.3 m** tall and near 180 kg.
-- PASS — MiniPin is a Graduator-level strict meritocrat whose training hardens even support personnel.
-- PASS — Imperial Army/top mercenary recruitment is rejected because MiniPin considers monster hunting his calling.
-- PASS — his private ambition to join Baskerville on the Western Front remains source-present.
-- PASS — MiniPin rejects nearly 90% of unsafe/underqualified client requests to protect guides and porters.
-- PASS — Vikir's guide request contains no target monster and no supporting credentials, so MiniPin dismisses it as rich-student adventuring.
-- PASS — “glass of milk and send him home” insult is preserved.
-- PASS — home scene preserves MiniPin's wife/daughter responsibility and his wish to improve their life.
-- PASS — masked Vikir's first warning punch is pure physical strength; only afterward does he reveal mana.
-- PASS — chapter ends with MiniPin knocked unconscious by a jaw strike.
+## Completeness findings
+- Historical draft compressed Sherpa's support-specialist niche, systemic mistreatment, MiniPin's client-screening philosophy, Baskerville ambition, family scene, and first intrusion.
+- PASS — Sherpa guides are multi-generation locals with monster-ecology/geography, shortcut, nest, and escape-route knowledge.
+- PASS — MiniPin protects guides/porters because weak clients often use support personnel as shields when hunts fail.
+- PASS — MiniPin is >2.3 m, ~180 kg, Graduator-level, strict in training, and has rejected Imperial Army/top mercenary offers because hunting is his calling.
+- PASS — his private dream of joining Baskerville on the Western Front is retained.
+- PASS — Vikir's first-year guide request is rejected for lacking target/credential and treated as rich-student tourism.
+- PASS — MiniPin's wife/daughter, prepared late-night meal, guilt about providing for them, and his prior practice of reforming hungry thieves are restored.
+- PASS — first masked intrusion establishes Vikir's pure physical punch, then reveals he can also use aura before knocking MiniPin unconscious.

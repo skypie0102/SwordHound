@@ -1,172 +1,186 @@
 # Chapter 226: Tuition (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/226.txt` — `2180db53cc098f97d7b26fd59f85354f71ba5543`. Recovered English Chapter 224 is the verified shifted secondary witness. Canonical/project terminology controls Colosseo Academy, Professor Banshee Morgue, Cindywendy, Sinclaire, Tudor Donquixote, Sancho Barataria, Pigi, Peri, and the Cold / Hot Departments. The source's old orphan-girl naming is normalized to project-canonical **Peri**.
+> Chinese-primary reconstruction from `source/chinese/chapters/226.txt`. Recovered English Chapter 224 is the verified shifted secondary witness. Canonical/project terminology controls **Colosseo Academy**, **Professor Banshee Morgue**, **Cindywendy**, **Sinclaire**, **Tudor Donquixote**, **Sancho Barataria**, **Pigi**, **Peri**, and the **Cold / Hot Departments**. The source's legacy orphan-girl naming is normalized to project-canonical **Peri**.
 
-Tuition season.
+Tuition season arrived at Colosseo Academy.
 
-For many Colosseo students—
+For many students—
 
-it passed unnoticed.
+it barely existed.
 
-“You paid?”
+“Hey.”
 
-“Paid what?”
+“Paid tuition yet?”
 
-“My butler handled it.”
+“Tuition?”
 
-“I paid four years upfront at admission.”
+“We have that?”
 
-“Why waste study time on accounting?”
+“My butler handled it yesterday.”
 
-For others—
+“I paid all four years when I enrolled.”
 
-the same season—
+“If I had to worry about petty things like that, how would I have time to study?”
 
-meant panic.
+For most wealthy students—
 
-“My father couldn't raise enough.”
+the season came and went without leaving a mark.
 
-“Leave of absence?”
+But for others—
 
-“I can't earn that much from part-time work.”
+“What do I do?”
 
-“Four years of this…”
+“My father couldn't raise enough this time.”
 
-Commoners—
+“…Leave of absence?”
 
-and poor minor nobles—
+“I can't make that much from part-time work.”
 
-felt the weight.
+“Do I have to panic like this every year for four years?”
 
-Every year—
+The worry was real.
 
-students talented enough to enter Colosseo—
+Not only commoners.
 
-still withdrew—
+Even minor nobles from struggling families could be crushed by Colosseo's fees.
 
-because talent did not pay invoices.
+Entering the Academy was difficult enough to be compared to plucking a star from the sky.
+
+And yet—
+
+every year—
+
+students who had fought their way inside still took leave or withdrew because they could not afford to remain.
 
 Vikir looked at his own notice.
 
-*I'm not a full-scholarship student.*
+*I'm not on a full scholarship.*
 
-Bad attitude scores—
+His academic results were exceptional.
 
-had ruined that possibility.
+His attitude scores—
 
-Academic performance—
+not.
 
-however—
+Because of that—
 
-covered roughly **80%**.
+he had failed to receive full support.
 
-The remaining balance—
+Still—
 
-manageable.
+roughly **eighty percent** of tuition was already covered.
 
-Partly because—
+The remaining amount was not enormous.
 
-**Professor Banshee Morgue** had quietly submitted a scholarship recommendation.
+One reason for that—
 
-When Vikir later tried to thank him—
+unexpectedly—
 
-Banshee never looked up from his book.
+was **Professor Banshee Morgue**.
+
+Banshee had submitted a scholarship recommendation.
+
+When Vikir later went to thank him—
+
+the professor had not even looked up from his book.
 
 “Hmph.”
 
 That was all.
 
-Now—
+Even so—
 
-Vikir needed the rest.
+the recommendation mattered.
 
-He had already decided—
+Now Vikir needed to find the rest himself.
 
-no Baskerville money.
+*No Baskerville money.*
 
-No Cindywendy transfers.
+*No Cindywendy money.*
 
-The reason—
+That decision was deliberate.
 
-operational.
+Financial channels created trails.
 
-Money—
+When raising military funds, people often relied on anonymous accounts.
 
-left trails.
+Cash caches.
 
-Anonymous accounts.
+Intermediaries.
 
-cash caches.
+Hidden transfers.
 
-intermediaries.
-
-transaction chains.
+Vikir had seen all of them fail.
 
 During the Age of Destruction—
 
-Vikir had seen hounds die—
+hounds had died because enemies traced funding networks.
 
-because military funds were traced.
+Because an intermediary betrayed them.
 
-Because a middleman betrayed them.
+Because an “anonymous” account turned out not to be anonymous enough.
 
-Because a hidden account—
+*If contact isn't absolutely necessary, reduce it.*
 
-was not hidden enough.
+*Especially money.*
 
-*The safest money trail—
+Money chains were among the easiest operational links to expose.
 
-is one that never exists.*
+The best hidden financial connection—
 
-Baskerville.
+was one that did not exist.
 
-Cindywendy.
+So Vikir maintained no routine financial exchange with Baskerville.
 
-Both—
+None with Cindywendy either.
 
-would matter when he eventually needed—
+He was saving those channels for the day he might truly need—
 
-enormous sums.
+a great deal of money.
 
-Until then—
-
-distance.
-
-“Only a little more.”
+“Professor Banshee's recommendation covered most of it.”
 
 Vikir folded the notice.
 
-“I need—
+“I only need a little more.”
 
-high-paying short-term work.”
+One of the best ways to fund operations—
 
-He moved toward—
+was to earn money directly where you stood.
 
-the East-Central Hall—
+“No long-term job.”
+
+“High pay.”
+
+“Short duration.”
+
+He headed toward East-Central Hall—
 
 Building A.
 
-The ground-floor plaza—
+The ground-floor plaza was covered in notices.
 
-was covered in job notices.
+Tutoring.
 
-Students—
+Delivery work.
 
-already crowded around them.
+Clerical help.
 
-Then Vikir saw—
+Shop shifts.
 
-white hair.
+Guild recruitment.
 
-Sinclaire.
+Students looking for employment crowded around the boards.
 
-She studied one notice—
+Vikir noticed white hair.
 
-then another.
+**Sinclaire.**
 
-“Tuition deadline in a month and a half…”
+She was reading advertisements one by one.
 
-“Should I add another job?”
+“Tuition deadline is a month and a half away…”
+
+She counted on her fingers.
 
 “Tutoring.”
 
@@ -174,213 +188,205 @@ then another.
 
 “Library assistant.”
 
-“Maybe weekend tutoring too…”
+“Maybe another tutoring job on weekends?”
+
+She frowned.
 
 “No.”
 
-“That cuts volunteer time.”
+“That would cut into volunteer time.”
 
-Top first-year—
+Top first-year in the Hot Department.
 
-Hot Department.
+High grades.
 
-Multiple jobs.
+Multiple part-time jobs.
 
 Volunteer work.
 
-Full coursework.
+Full course load.
 
-Students called her—
-
-a monster.
+Other students sometimes called her a monster for how much she managed at once.
 
 Vikir—
 
-silently—
+quietly—
 
-did harder work at night.
+worked even harder.
 
-Assassination.
+At night, he assassinated people who would one day become enemies of humanity.
 
-But assassination—
+But assassination only consumed money.
 
-cost money.
-
-It did not earn it.
+It did not earn any.
 
 Worse—
 
-Vikir often took illegally acquired wealth—
+Vikir usually collected illicit wealth from his targets and secretly redirected it toward orphanages and similar institutions.
 
-from assassination targets—
+He had continued doing that since separating from **Peri**.
 
-and quietly redirected it—
+As a result—
 
-to orphanages and similar places.
+his own cash reserves were almost gone.
 
-He had continued doing that—
+Enough, perhaps, for next week's required class materials.
 
-since separating from **Peri**.
+Nothing more.
 
-His own cash—
+So he needed work.
 
-nearly gone.
+Vikir stayed far enough away not to interrupt Sinclaire.
 
-Enough—
+Then read the advertisements.
 
-perhaps—
+“…Small jobs.”
 
-for next week's class materials.
+Low pay.
 
-So—
+Too slow.
 
-part-time work.
-
-Vikir stayed far enough away—
-
-not to interrupt Sinclaire.
-
-Then read—
-
-the board.
-
-Most jobs—
-
-too slow.
-
-Too little pay.
+He ignored most of them.
 
 Then—
 
-one notice.
+one notice fit.
 
-> **Monster-Hunting Part-Time Work**
->
-> Hunt low-rank monsters and earn easy money!
->
-> Work with members of a registered hunting guild!
+> **Monster-Hunting Part-Time Work**  
+> Hunt low-rank monsters and earn easy money!  
+> Work together with members of a registered hunting guild!
 
-Ecological-pest suppression.
+Pest-control contracts.
 
-Bounties.
+Monster bounties.
 
 Byproduct sales.
 
-Guild contracts.
+Exactly the kind of labor Vikir understood.
 
-Exactly—
+Hunting guilds and mercenary guilds could both operate as contract hubs.
 
-the kind of labor—
+You could accept work from them.
 
-Vikir understood.
+Submit your own request.
 
-A hunting or mercenary guild could—
+Hire specialists.
 
-assign jobs.
+Warriors.
 
-accept commissions.
+Mages.
 
-hire fighters.
+Hunters.
 
-mages.
+Alchemists.
 
-hunters.
+Cooks.
 
-alchemists.
+Blacksmiths.
 
-cooks.
+Guides.
 
-smiths.
+Porters.
 
-guides.
+Or become one of those workers yourself.
 
-porters.
+In that sense—
 
-Or—
+a guild was an enormous mutual-aid organization.
 
-someone could become the client.
+The unusual part was that every exchange came with a clearly defined price.
 
-A giant—
+Most Colosseo students were strong enough that guilds actively welcomed them.
 
-paid mutual-aid network.
+But Academy students rarely needed guild work.
 
-Colosseo students—
+Unless—
 
-usually had no need.
+like Vikir—
 
-Vikir—
-
-currently did.
+they suddenly needed cash.
 
 ◆◆◆
 
-Later—
+When Vikir returned to the dormitory after finishing his schedule—
 
-Vikir returned to his room.
+Tudor and Sancho were already there.
 
-Tudor.
+Pigi sat between them.
 
-Sancho.
+Teaching.
 
-Pigi—
+“So once again—”
 
-were studying together.
+Pigi pointed at the page.
 
-Pigi—
+“Fiscal settlement in administrative studies means fixing the exact revenue and expenditure totals for one accounting year.”
 
-teaching.
+“Then the audited Imperial settlement report goes to the Senate.”
 
-“So fiscal settlement means—
-
-the revenue and expenditure for one accounting year—
-
-must be fixed as exact figures…”
+“And the heads of the Seven Great Houses also submit annual fund reports into the central settlement structure…”
 
 Tudor groaned.
 
-“Administrative studies hate me.”
+“Administrative studies and I hate each other.”
 
 Sancho sighed.
 
-“Information science—
+“I think information science is worse.”
 
-is worse.”
+“I was not born for paperwork.”
 
-Pigi—
+The two admired Pigi for a reason.
 
-patiently—
+Administration.
 
-explained both.
+Records.
 
-Theory—
+Information analysis.
 
-his strength.
+Organization.
 
-Vikir entered.
+Theory.
 
-“Sorry.”
+Pigi was excellent at all of it.
 
-“Getting a coat.”
+And more importantly—
 
-“Then leaving.”
+he explained things well.
 
-Tudor brightened.
+Material that felt incomprehensible in lectures became manageable when Pigi broke it down.
 
-“Perfect!”
+The three had developed a simple study arrangement.
 
-“You're good at studying too!”
+Help each other where practical skill and theory differed.
+
+Then Vikir entered.
+
+“Sorry to interrupt.”
+
+“I only came back for a coat.”
+
+“I'll leave again.”
+
+Tudor's head snapped up.
+
+“Perfect timing!”
+
+“You're good at studying too.”
 
 “Help me beat Bianca next time!”
 
-Sancho raised a hand.
+Sancho raised one hand.
 
 “Save me.”
 
-“I refuse to fail next week's quiz.”
+“I cannot fail next week's quiz.”
 
-Pigi added—
+Pigi leaned forward.
 
-“I want to discuss the final multiple-choice question from last week's quiz.”
+“I wanted to ask about the last multiple-choice question from last week's test too.”
+
+“There was some disagreement over the answer.”
 
 Vikir shook his head.
 
@@ -388,68 +394,76 @@ Vikir shook his head.
 
 “I need money.”
 
-Three faces—
+All three expressions changed.
 
-changed.
+Tudor rubbed his chin.
 
-Tudor immediately said—
+“I always thought you were secretly from some noble household.”
 
-“I'll pay it.”
+“Or maybe rich commoner parents.”
+
+“You're good at academics.”
+
+“Good in combat.”
+
+“You carry yourself like that.”
+
+Then he waved the concern away.
+
+“If tuition is the problem, I'll pay it.”
 
 Vikir looked at him.
 
-“Friends help friends.”
+“We're friends.”
 
-“My family has money.”
+Tudor thumped his chest.
 
-“I can lend it.”
+“My family has plenty.”
+
+“You can repay whenever.”
 
 “No.”
 
+Tudor deflated.
+
+“Huh?”
+
 “Why?”
 
-“You can repay slowly!”
+“You don't have to work for my family after graduation or anything.”
 
-“And I won't demand you work for my family after graduation.”
+“I'm not that kind of person.”
 
-“My sister does want to meet you during vacation—
+A pause.
 
-but that's unrelated.”
+“My sister does want to meet you during vacation.”
 
-Sancho—
+“But that's not the reason!”
 
-rescued the conversation.
+Sancho intervened before Tudor could dig deeper.
 
-“Direct money between friends—
-
-can complicate things.”
+“Money directly between close friends can complicate things.”
 
 Pigi nodded.
 
-“And pride matters.”
+“And sometimes pride matters.”
 
-“Vikir appreciates the offer.”
+“Vikir still appreciates the offer.”
 
-Vikir—
+Vikir gave Tudor a small nod.
 
-nodded once.
-
-Tudor relaxed.
+Tudor's face brightened again.
 
 “Fine.”
 
-“Then tell us the plan.”
+“Then what's the plan?”
 
-“We'll think with you.”
+“We'll help you think.”
 
 “I already have one.”
 
-Three heads—
-
-leaned closer.
+Three heads leaned closer.
 
 Vikir asked—
 
-“Any short-term hunting guild—
-
-you recommend?”
+“Do you know any good hunting guilds for short-term work?”

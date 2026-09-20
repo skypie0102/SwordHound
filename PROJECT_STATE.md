@@ -8,20 +8,16 @@
 **Confirmed needs rework:** 316, 319, 420  
 **Resolved confirmed failure:** 97  
 **Project completion:** REOPENED — manuscript completeness audit active  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196) — rebuilt / PASS  
-**Pending initial priority queue:** 31 chapters  
-**Next audit family:** Tuition (225–233)
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196), Tuition (225–233) — rebuilt / PASS  
+**Pending initial priority queue:** 27 chapters  
+**Next audit family:** National University League (236–244)
 
-The post-500 audit continues to show that historical “accepted” status did not guarantee full source coverage.
+The **Tuition (225–233)** family has been rebuilt in full. Direct raw comparison found material compression across all nine historical drafts, not only priority targets 225, 228, 230, and 231.
 
-**Attack Land (190–196)** is now fully rebuilt. Direct raw comparison found material summary compression across all seven chapters, not just priority targets 192 and 196. The rebuild restores the complete Attack-test mechanics, Sadi/Banshee institutional conflict, Sinclaire/Pigi examinations, Vikir's weak-point strategy, returning-arrow sequence, Sadi aftermath, combined standings, recruitment pressure, news coverage, and Cindywendy's next-Corpse hook.
-
-Two source-level repairs remain explicit:
-- C192's endpoint calls Vikir, but E190 + C193 prove the next examinee is **Pigi**.
-- C193 briefly labels Pigi as Hot Department, but accepted roster continuity keeps him in **Cold Department Class B**.
+Restored material includes the post-festival newspaper correction and Ouroboros profile; Vikir's financial-security rationale and Banshee scholarship recommendation; full Sherpa/MiniPin setup; repeated home-intrusion coercion; MiniPin's future monster-research importance; Gnoll colony ecology and panic-based extermination mechanics; Poison Gnoll/Baby Madam; unnumbered Royal Imperial Bank gold; full Ouroboros fight and left-side reaction clue; corpse appraisal economics; MiniPin's Baskerville dream; Dolores's scholarship review; Thrifty Bazaar faction manipulation; four-year tuition payment; and the anonymous **Peri Award** with orphanage volunteer service.
 
 Current unresolved confirmed failures remain **316, 319, 420**.
 
-Original priority queue: 47 chapters. **31 remain.**
+Original priority queue: 47 chapters. **27 remain.**
 
-The next flagged target is 225. Its full title family is **Tuition (225–233)**, and the priority queue also includes 228, 230, and 231, so the complete nine-chapter family will be audited together.
+The next queued target is 242, inside **National University League (236–244)**, so the complete nine-part family will be audited together.

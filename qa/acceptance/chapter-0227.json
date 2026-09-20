@@ -2,8 +2,8 @@
   "chapter": 227,
   "title": "Tuition (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/227.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-225.xhtml",
     "english_reference_sha": "bae1b5f3e498ab9413408c8c6742bda47d7afe8a",
     "draft_path": "manuscript/drafts/chapter-0227.md",
-    "draft_sha": "9659a6a94ed5d847507dd9fd9f6f39ce412ce92f",
+    "draft_sha": "67fdf693aa701f1c9023e495ee98d7b9b021cf54",
     "qa_path": "qa/chapter-0227.md",
-    "qa_sha": "f256429cfe3b0920964cee3753b77e1250d33416",
+    "qa_sha": "eb53049dd40d6002297bca61c3a1e141df626728",
     "provenance_path": "editorial/provenance/chapter-0227.json",
-    "provenance_sha": "7b268caac234dbb55090038471712a75c9c997d6"
+    "provenance_sha": "e85fd8c298c51def9e61c3000103c3f5c6e0f663"
   },
   "canonical_checks": [
     "Sherpa Guild",
@@ -37,5 +37,18 @@
     "MiniPin is over 2.3m and near180kg.",
     "Vikir request remains deliberately vague."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "9659a6a94ed5d847507dd9fd9f6f39ce412ce92f",
+    "qa_sha": "f256429cfe3b0920964cee3753b77e1250d33416",
+    "provenance_sha": "7b268caac234dbb55090038471712a75c9c997d6"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }

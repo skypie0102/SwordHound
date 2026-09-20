@@ -1,450 +1,606 @@
 # Chapter 228: Tuition (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/228.txt` — `cde05a2a56b67513a4ae54ae5e59c94b9ecdc3fb`. Recovered English Chapter 226 is the verified shifted secondary witness. Canonical/project terminology controls MiniPin, Vikir, Sherpa Guild, Colosseo Academy, Graduator, and the Imperial Capital Guard. The repeated home intrusions are source comedy/intimidation: Vikir steals nothing and never threatens MiniPin's family.
+> Chinese-primary reconstruction from `source/chinese/chapters/228.txt`. Recovered English Chapter 226 is the verified shifted secondary witness. Canonical/project terminology controls **MiniPin**, **Vikir**, **Sherpa Guild**, **Colosseo Academy**, **Graduator**, and the **Imperial Capital Guard**. The repeated home intrusions are source comedy/intimidation: Vikir steals nothing and never threatens MiniPin's wife or daughter.
 
-Morning.
+The next morning—
 
-MiniPin opened his eyes.
+MiniPin's eyes snapped open.
 
-Cold floor.
-
-Swollen jaw.
-
-One blanket—
-
-over him.
-
-*Dream?*
-
-Impossible.
-
-He jumped up.
-
-“Wife!”
-
-“Daughter!”
-
-Downstairs—
-
-“Morning.”
-
-“Daddy!”
-
-Both—
-
-fine.
-
-Fireplace—
-
-warm.
-
-Sweet potatoes.
-
-corn.
-
-Chicken stew—
-
-boiling.
-
-Tea—
-
-flower petals floating.
-
-Laundry—
-
-moving in sunlight.
-
-Ordinary life.
-
-His wife frowned.
-
-“Why did you sleep on the floor?”
-
-“You're too heavy for me to move.”
-
-“I just covered you.”
-
-MiniPin stared.
-
-“Nothing happened last night?”
-
-“Like—
-
-a thief?”
-
-“A thief?”
-
-“With you here?”
-
-“Who would be that stupid?”
-
-“…Right.”
-
-“Bad dream.”
-
-The wall—
-
-still had a fist-shaped hole.
-
-His jaw—
-
-still hurt.
-
-So—
-
-someone had entered.
-
-punched him once.
-
-stolen nothing.
-
-left.
-
-“What kind of lunatic…”
-
-He went to work.
-
-◆◆◆
-
-That night—
-
-rustle.
-
-MiniPin opened his eyes.
-
-“No.”
-
-The same masked man—
-
-at the window.
-
-This time—
-
-MiniPin had hidden his greatsword—
-
-under the pillow.
-
-His wife—
-
-slept deeply.
-
-Lucky.
-
-MiniPin drew.
-
-Graduator aura—
-
-spun around the blade.
-
-“DIE!”
-
-The sword—
-
-fell.
-
-Then—
-
-BOOM!
-
-Bare hands—
-
-caught it.
-
-Not merely—
-
-stopped.
-
-Cracks—
-
-spread through the blade.
-
-*Impossible.*
-
-BAM!
-
-Jaw.
-
-Darkness.
-
-◆◆◆
-
-Morning.
-
-His wife sighed.
-
-“Your sleep habits are getting terrible.”
-
-MiniPin—
-
-said nothing.
-
-How—
-
-did a grown man—
-
-explain—
-
-that someone entered every night—
-
-just to punch him unconscious?
-
-*Tonight—
-
-Guard.*
-
-◆◆◆
-
-Imperial Capital investigators—
-
-spent the next night—
-
-at his house.
-
-Nothing happened.
-
-Morning—
-
-one investigator rubbed tired eyes.
-
-“Guildmaster.”
-
-“Are you certain?”
-
-“No offense—
-
-but someone attacking your home repeatedly—
-
-and catching Graduator aura barehanded?”
-
-“Why would someone that strong—
-
-be a burglar?”
-
-“You have no enemies?”
-
-“Romantic trouble?”
-
-MiniPin's face—
-
-darkened.
-
-They left.
-
-Promised—
-
-more patrols.
-
-That night—
-
-rustle.
-
-MiniPin—
-
-wearing two helmets—
-
-holding two blades—
-
-screamed.
-
-“WHO ARE YOU!?”
-
-CRACK!
-
-Two blades—
-
-broken.
-
-Two helmets—
-
-broken.
-
-BAM!
-
-Jaw.
-
-Darkness.
-
-Again.
-
-And again.
-
-Night—
-
-after night.
-
-MiniPin sent wife and daughter—
-
-to relatives.
-
-The guildmaster—
-
-who feared little—
-
-began fearing bedtime.
-
-*Natural insomnia treatment?*
+*…A dream?*
 
 No.
 
-Definitely—
+Impossible.
 
-not.
+He was lying on the cold floor.
 
-But he could tell no one.
+His jaw was swollen.
 
-Who believed—
-
-a 180-kilogram Graduator—
-
-was being stalked nightly—
-
-by someone—
-
-who punched him once—
-
-then vanished?
+A single blanket covered him.
 
 Then—
 
-at work—
+a terrible thought struck.
+
+“No!”
+
+“Honey!”
+
+“Daughter!”
+
+MiniPin sprang up and charged downstairs.
+
+Only to stop halfway.
+
+“You're awake?”
+
+His wife looked over from the kitchen.
+
+“Daddy!”
+
+His daughter waved brightly.
+
+Both—
+
+completely unharmed.
+
+“…Huh?”
+
+MiniPin stared.
+
+The fireplace glowed warmly.
+
+Sweet potatoes and corn roasted near the coals.
+
+Potatoes waited to be put in later.
+
+Something bubbled in the kitchen—
+
+chicken stew by the smell.
+
+Flower petals floated in teacups.
+
+Outside the window—
+
+white laundry moved in sunlight and breeze.
+
+Everything looked exactly like an ordinary morning.
+
+“?”
+
+MiniPin could not understand it.
+
+His wife noticed his expression.
+
+“My goodness.”
+
+“Why were you sleeping on the floor?”
+
+“…I was?”
+
+“Yes!”
+
+“You were lying there dead asleep.”
+
+“I called you several times and you wouldn't wake up.”
+
+“You're too heavy for me to move, so I just covered you with a blanket.”
+
+“Doesn't your neck hurt?”
+
+She smacked him firmly on the back.
+
+MiniPin barely reacted.
+
+“Wait.”
+
+“Nothing happened last night?”
+
+“Like what?”
+
+“A thief.”
+
+His wife stared at him.
+
+“A thief?”
+
+“With **you** in the house?”
+
+“What kind of idiot would try that?”
+
+“…Right.”
+
+MiniPin forced a laugh.
+
+“Bad dream.”
+
+“You get bad dreams when you sleep in stupid positions.”
+
+She pointed toward the fireplace.
+
+“Take out the sweet potatoes and corn for me.”
+
+“They should be done.”
+
+“Leave the potatoes.”
+
+“Those go in later.”
+
+MiniPin sat at the table in a daze.
+
+His wife knew nothing.
+
+His daughter knew nothing.
+
+The house had not been robbed.
+
+Yet—
+
+his jaw was definitely swollen.
+
+And upstairs—
+
+the fist-shaped hole remained in the wall.
+
+Someone had entered.
+
+Punched MiniPin unconscious.
+
+Stolen nothing.
+
+Touched no one else.
+
+Then left.
+
+“…Who does that?”
+
+MiniPin shook his head.
+
+He resolved to check every window and door that night.
+
+Then went to work.
+
+The street looked normal too.
+
+Neighbors greeted him beyond the fence.
+
+Guild subordinates bowed while heading to work.
+
+Nothing in the world suggested anything unusual had happened.
+
+“…Was it really just a dream?”
+
+No.
+
+The hole in the wall said otherwise.
+
+◆◆◆
+
+That night—
+
+MiniPin waited until his wife fell asleep.
+
+Only then did he close his eyes.
+
+Rustle—
+
+His eyes reopened immediately.
+
+“No way…”
+
+He turned toward the window.
+
+The same masked lunatic stood there.
+
+The intruder silently opened the second-floor latch—
+
+then climbed inside.
+
+As if deliberately announcing his ghostlike presence—
+
+he crumpled a piece of paper in one hand.
+
+Rustle.
+
+Crinkle.
+
+Rustle.
+
+The sound crawled over MiniPin's nerves.
+
+“…Not this time.”
+
+MiniPin had prepared.
+
+His beloved greatsword lay hidden beneath the pillow.
+
+Fortunately—
+
+his wife slept so deeply that someone could probably carry her away without waking her.
+
+MiniPin drew.
+
+The huge blade released killing intent before it was even fully clear of the sheath.
+
+“DIE!”
+
+Graduator aura spun around the sword.
+
+A strike powerful enough to shred almost anything in its path descended.
+
+Then—
+
+BAM!
+
+MiniPin's mind stalled.
+
+The masked intruder blocked the greatsword.
+
+With bare hands.
+
+RUMBLE—
+
+CRACK!
+
+SNAP!
+
+Not only did the Graduator-level strike stop—
+
+the blade itself began breaking.
+
+*No.*
+
+*That's impossible.*
+
+MiniPin never finished the thought.
+
+BAM!
+
+Another fist hit under his jaw.
+
+Darkness.
+
+◆◆◆
+
+“Your sleep quality has gotten terrible lately.”
+
+Morning.
+
+MiniPin lay on the floor again.
+
+His wife looked at him as if he had developed an absurd habit.
+
+“…”
+
+MiniPin could not answer.
+
+How was he supposed to say—
+
+*Someone comes through our bedroom window every night and knocks me unconscious?*
+
+He could not tell his wife.
+
+Could not tell friends.
+
+Could not tell subordinates.
+
+*No.*
+
+*Tonight I call the Imperial Capital Guard.*
+
+For perhaps the first time in his life—
+
+MiniPin decided to rely on public authority.
+
+◆◆◆
+
+The following morning—
+
+“Guildmaster MiniPin.”
+
+An exhausted investigator rubbed his eyes.
+
+“Are you certain your report was accurate?”
+
+MiniPin's face remained rigid.
+
+Because—
+
+the intruder had not appeared.
+
+The Imperial Capital Guard had spent the entire night waiting.
+
+Nothing.
+
+The investigators looked up at MiniPin's enormous frame.
+
+“With all due respect…”
+
+“Common sense says someone repeatedly ambushing **your** house is unlikely.”
+
+“And you said this person catches Graduator-level sword aura barehanded?”
+
+“That is…”
+
+“Difficult to believe.”
+
+“More importantly—
+
+why would someone that powerful be a burglar?”
+
+“You said you haven't made any new enemies?”
+
+“Could this be some kind of romantic stalking issue?”
+
+MiniPin's expression became dangerous.
+
+The investigator quickly moved on.
+
+“Anyway.”
+
+“We can't keep assigning officers to overnight watch.”
+
+“We'll increase patrol frequency around this district.”
+
+“Good day.”
+
+MiniPin bowed stiffly as they left.
+
+That night—
+
+rustle.
+
+The intruder appeared.
+
+“AAAAAGH!”
+
+“You bastard!”
+
+“WHO ARE YOU!?”
+
+MiniPin charged wearing **two helmets** and wielding **two blades**.
+
+CRACK!
+
+Both swords broke.
+
+CRACK!
+
+Both helmets broke.
+
+BAM!
+
+Jaw.
+
+Darkness.
+
+◆◆◆
+
+The next night—
+
+again.
+
+And the night after that—
+
+again.
+
+And the night after the night after that—
+
+again.
+
+Every visit happened late.
+
+Every visit ended with MiniPin unconscious.
+
+Nothing was stolen.
+
+No one else was touched.
+
+Eventually—
+
+MiniPin sent his wife and daughter to stay with relatives.
+
+From that point on—
+
+the giant Sherpa guildmaster became afraid of nightfall.
+
+Someone was climbing through his window—
+
+punching him once—
+
+then disappearing.
+
+How could that **not** be terrifying?
+
+MiniPin sat in his guild office at dawn one day and rubbed his jaw.
+
+*I've had stress insomnia lately…*
+
+*Is this some new treatment?*
+
+No.
+
+Obviously not.
+
+But he could hardly tell anyone.
+
+If he called the Guard again—
+
+they would probably laugh.
+
+Who would believe a 2.3-meter, 180-kilogram Graduator was being persistently stalked and beaten in his own bedroom?
+
+Especially by an attacker who only appeared when MiniPin was alone.
 
 “Guildmaster.”
 
-“New request.”
+An aide entered.
 
-One sheet.
+“New request record.”
 
-MiniPin frowned.
+MiniPin looked up.
+
+Only one sheet.
 
 “Only one?”
 
 “Yes.”
 
-“Same person.”
+“It's been like that for several days.”
 
-“Been submitting it every day.”
+“Same person every time.”
 
-MiniPin noticed—
+MiniPin took the form.
 
-the paper—
+Something about it felt wrong.
 
-badly wrinkled.
+It was newly submitted—
 
-“Why is a new request—
+but badly wrinkled.
 
-like this?”
+“What is this?”
 
-“He always submits—
+“A new request shouldn't look like it's been crushed.”
 
-a crumpled form.”
+The aide shrugged.
+
+“I don't know.”
+
+“He always submits a crumpled form and leaves.”
 
 “The Academy student.”
 
-MiniPin blinked.
+“Academy?”
 
-“Which Academy student?”
+MiniPin frowned.
 
-“The one you rejected.”
+“Which one?”
 
-“The one you gave milk.”
+“You remember.”
+
+“The young master from Colosseo.”
+
+“The one you had us give a cup of milk before sending away.”
 
 “Oh.”
 
-MiniPin took the paper—
+That nonsense request.
 
-and—
+MiniPin waved dismissively.
 
-crumpled it.
+“I told you.”
+
+“We're not entertaining rich students playing hunter.”
+
+He took the form—
+
+and crumpled it.
 
 Rustle.
 
-He froze.
+MiniPin froze.
 
 That sound.
 
-He flattened it.
+He slowly flattened the paper.
 
-Crumpled it again.
+Then crushed it again.
 
 Rustle.
 
-Exactly—
+Crinkle.
 
-the same.
+Exactly.
 
-The nightly intruder—
+The paper was made from a material that sounded slightly different from ordinary request forms when folded.
 
-had made that sound.
+It was the same ugly sound the nighttime intruder deliberately made.
 
-MiniPin stared—
+“…Wait.”
 
-at the page.
+MiniPin stared at the sheet.
 
-“Have you been cleaning my office?”
+Then at his aide.
 
-“Yes.”
+“Have you been cleaning my office recently?”
 
-“Trash too?”
+“Of course.”
 
-“The bin is always empty.”
+“The trash bin too?”
 
-MiniPin's blood—
+The aide looked confused.
 
-went cold.
+“The bin has been empty every time.”
 
-He had thrown this—
+“So I haven't needed to empty it.”
 
-same request—
+MiniPin went pale.
 
-away.
+This request—
 
-Again.
+had been thrown into that bin days ago.
 
-Again.
+Which meant—
 
-Someone—
+someone had submitted the form.
 
-kept retrieving it.
+Waited for MiniPin to throw it away.
 
-Resubmitting it.
+Retrieved it from the trash.
+
+Submitted it again.
+
+Repeatedly.
+
+Then visited MiniPin at night—
+
+crumpling the same paper—
+
+before beating him unconscious.
+
+“Who…”
+
+MiniPin's face drained of color.
+
+“Who the hell does something this insane…?”
+
+He carefully opened the battered request.
+
+> **Request Record**
+>
+> **Name:** Vikir  
+> **Affiliation:** Colosseo Academy  
+> **Request:** Hire one guide  
+> **Purpose:** Monster subjugation
+
+The sheet was so wrinkled now that parts were difficult to read.
+
+MiniPin stared at it.
 
 Then—
 
-visiting his home—
+“…Well?”
 
-with the crumpling sound.
-
-MiniPin unfolded—
-
-the battered page.
-
-> **Request**
->
-> Name: Vikir  
-> Affiliation: Colosseo Academy  
-> Request: Hire one guide  
-> Purpose: Monster hunting
-
-“…Who does this?”
-
-A voice—
-
-answered from behind his aide.
-
-“What do you think?”
+An unfamiliar voice came from behind his aide.
 
 MiniPin looked up.
 
-First-year student.
+A first-year student had somehow appeared inside the office without the aide stopping him.
 
 Calm face.
 
+Cold eyes.
+
 Vikir.
 
-Same voice—
+And the voice—
 
-as the masked intruder.
+exactly the same as the masked intruder's.
 
-“Interested—
+“This is a warning.”
 
-in accepting the request now?”
+MiniPin remembered the words from the first night.
+
+Vikir looked at the request in his hand.
+
+“Interested in accepting it now?”

@@ -2,8 +2,8 @@
   "chapter": 233,
   "title": "Tuition (9)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/233.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-231.xhtml",
     "english_reference_sha": "5b23398ed2ebd49d038a4d811f5db3d408e2f066",
     "draft_path": "manuscript/drafts/chapter-0233.md",
-    "draft_sha": "114f5413b7c3f9856449f7b2efecdbee869a8ea0",
+    "draft_sha": "3f04fee0ba7552244c9bf17fa67dce6c2237d88c",
     "qa_path": "qa/chapter-0233.md",
-    "qa_sha": "db0df86b18efafc9cb331ec013e8ccb2716842ad",
+    "qa_sha": "91bab2d19ade7c5c6a86ebde277dbc8951bb1701",
     "provenance_path": "editorial/provenance/chapter-0233.json",
-    "provenance_sha": "b539951a4e7f09b4dceca4f4407bceb81e8c4416"
+    "provenance_sha": "9db510be512296de9287b5f8e6f1947b3e324376"
   },
   "canonical_checks": [
     "Thrifty Bazaar",
@@ -37,5 +37,18 @@
     "Donor identity remains confidential.",
     "Scholarship condition is orphanage volunteer service."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "114f5413b7c3f9856449f7b2efecdbee869a8ea0",
+    "qa_sha": "db0df86b18efafc9cb331ec013e8ccb2716842ad",
+    "provenance_sha": "b539951a4e7f09b4dceca4f4407bceb81e8c4416"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }

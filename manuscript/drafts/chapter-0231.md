@@ -1,515 +1,483 @@
 # Chapter 231: Tuition (7)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/231.txt` — `298846f7256c049c6f238d1589479c6551ad2050`. Recovered English Chapter 229 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, MiniPin, Ms. Ouroboros, Baby Madam, Anubis, Sword Master, Graduator, and the Imperial Army. Ms. Ouroboros's true identity remains unrevealed; the source only supplies a left-side reaction weakness and “again” wording.
+> Chinese-primary reconstruction from `source/chinese/chapters/231.txt`. Recovered English Chapter 229 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **MiniPin**, **Ms. Ouroboros**, **Baby Madam**, **Anubis**, **Sword Master**, **Graduator**, and the **Imperial Army**. Ms. Ouroboros's true identity remains unrevealed; the source supplies only a left-side reaction weakness and “again” wording.
 
-“Vikir.”
+“Sir Vikir.”
 
-MiniPin's hands—
-
-trembled.
+MiniPin's hand trembled around his weapon.
 
 “That woman…”
 
-“It's her.”
+“I'm almost certain she's **her**.”
 
-A Graduator's instincts—
+For a Graduator-level fighter like MiniPin to shake—
 
-recognizing danger.
+meant his senses were warning him strongly.
 
-Vikir—
+Power recognized power.
 
-felt it too.
+And the stronger someone became—
+
+the better they understood the pressure released by another strong person.
+
+Vikir felt it too.
+
+“…”
+
+His gaze hardened.
 
 **Ms. Ouroboros.**
 
-Imperial Capital terrorist.
+One of the most dangerous villains currently haunting the Imperial Capital.
 
-Identity—
+The Guard had pursued her repeatedly.
+
+She had still never revealed her identity.
+
+The number of major Imperial facilities destroyed in her attacks was approaching three digits.
+
+Yet almost nothing reliable was known.
+
+Her true name—
 
 unknown.
 
-Weapon—
+Her exact skill set—
+
+unknown.
+
+Primary weapon—
 
 until now—
 
 unknown.
 
-Witnesses—
+Most witnesses either died—
 
-dead—
+or lost the ability to give coherent testimony.
 
-or insane.
+*At least one rumor was correct.*
 
-At least one rumor—
+She was almost certainly a woman.
 
-proved correct.
+Her appearance was unmistakable.
 
-Woman.
+A helmet with two large serpent-scale protrusions like horns.
 
-Her appearance—
+A mask painted with distorted lightning-shaped eyes.
 
-distinct.
-
-Helmet—
-
-two serpent-scale projections—
-
-like horns.
-
-Mask—
-
-eyes drawn—
-
-like twisted lightning.
-
-Glossy black suit.
+A glossy black bodysuit.
 
 Long cloak.
 
 Scarf.
 
-Extremely high heels.
+Heels so high that an already tall frame looked taller still.
 
-And—
+And in one hand—
 
-a black whip.
+a long black whip.
 
-The likely source—
+Probably the source of the huge snake-like trails left at the attack sites.
 
-of the snake-like destruction marks.
+[Hehehehe.]
 
-Then Ms. Ouroboros looked directly at Vikir.
+[So the rats really did crawl into my piggy bank.]
+
+The distorted voice hissed through openings in the mask.
+
+Then—
+
+Ms. Ouroboros looked directly at Vikir.
 
 […!]
 
-A brief flinch.
+A tiny pause.
 
-Vikir narrowed his eyes.
+Barely there.
 
-From the instant their gazes met—
+But Vikir saw it.
+
+“…?”
+
+His eyes narrowed.
+
+The instant their gazes met—
 
 her presence changed.
 
-Killing intent—
+RUMBLE—
 
-suddenly pressed across the surrounding area.
+Killing intent flooded the area.
 
-[Hehehe.]
+It pressed down across dozens of meters.
 
-[Children who put their hands—
+[Children who put their hands into someone else's money box…]
 
-into someone else's piggy bank—
+[need punishment, don't they?]
 
-need punishment.]
+The whip moved.
 
-The whip—
+CRAAACK!
 
-moved.
+Rock exploded.
 
-CRACK!
+The hard ground broke as easily as tofu struck with a club.
 
-Rock—
-
-shattered—
-
-like tofu under a club.
-
-Vikir—
-
-narrowed his eyes.
+Vikir's expression sharpened.
 
 *Dense aura.*
 
-*High Graduator—
+*High Graduator at minimum.*
 
-at minimum.*
+*Possibly higher.*
 
-*Possibly more.*
+Her dark aura looked almost like boiling tar.
 
-Black aura—
+A fighter of that level could enter the Imperial Army and immediately qualify for an important command position.
 
-like boiling tar.
+Vikir considered the distance.
 
-In the Imperial Army—
+*Before I crossed into Sword Master during the battle with Camus—*
 
-someone this strong—
-
-would immediately qualify—
-
-for senior command.
-
-*Before reaching Sword Master—*
-
-*I might have been forced—
-
-into a serious fight.*
+*I might have had to fight her almost evenly.*
 
 Now—
 
-Vikir had another problem.
+the problem was not whether Vikir could fight.
 
-He was not—
+The problem was **who** he was supposed to be.
 
-Night Hound.
+He stood here as Vikir—
 
-Not publicly.
+a first-year Colosseo student.
 
-He was—
+Not Night Hound.
 
-Vikir.
+If he were masked and operating at night, revealing higher power would be manageable.
 
-First-year student.
+With his real face exposed—
 
-Using Sword Master power here—
+using Sword Master strength against one of the Capital's most wanted villains would destroy his cover.
 
-would destroy—
+MiniPin whispered beside him.
 
-his cover.
+“Sir.”
 
-MiniPin whispered—
+“If we follow this ridge downward, there's a government office.”
 
-“Down the ridge—
+“And Imperial Capital patrols should pass nearby soon.”
 
-government office.”
+Even under threat—
 
-“Imperial patrol soon.”
+MiniPin was thinking about the client's escape.
 
 Reliable.
 
-Even while retreating—
-
-MiniPin watched—
-
-his client's survival.
-
 Vikir nodded.
 
-They withdrew.
+They began withdrawing.
 
-[Where are you going?]
+[Where do you think you're going?]
 
-The whip—
+The whip came again.
 
-again.
+Vikir twisted his head.
 
-Vikir twisted.
-
-The pointed tip—
-
-passed his cheek.
-
-Trees—
-
-split behind him.
-
-The weapon—
-
-worked like—
-
-spear.
-
-sword.
-
-whip—
-
-all at once.
-
-Barbs—
-
-apparently poisoned.
-
-*Running only—
-
-won't be easy.*
-
-Ms. Ouroboros pressed.
-
-The whip—
-
-filled with aura.
-
-Spun—
-
-in a vast—
-
-infinity-shaped path.
-
-Then—
-
-wrapped her—
-
-in a sphere—
-
-of shredding force.
-
-Anything touching it—
-
-tore apart.
-
-Except—
+WHOOSH—
 
 CRACK!
 
-The whip—
+A sharp wind cut across his left cheek.
 
-suddenly kinked—
+Behind him—
 
-midair.
+trees split.
 
-Rebounded.
+The whip tip was sharpened almost like an awl.
 
-Nearly—
+It could thrust like a spear.
 
-struck its owner.
+Cut like a blade.
 
-[…!?]
+Then continue wrapping around the target as a whip.
 
-Ms. Ouroboros—
+Worse—
 
-looked around.
+the barbs along its length appeared coated with strong poison.
 
-Vikir—
+*Simply running won't be easy.*
 
-shook his left sleeve.
+Vikir kept retreating.
 
-“Good.”
+Each time he slipped over or under the looping weapon—
 
-“But next time—
+Ms. Ouroboros grew more aggressive.
 
-don't.”
+[Oh?]
 
-“Too dangerous.”
+[So you have something hidden?]
 
-[Chik!]
+[More capable than you look, aren't you?]
 
-Baby Madam—
+Aura thickened along the whip.
 
-snorted.
+CRACK—
 
-Transparent silk—
+CRACK—
 
-now crossed the forest—
+BOOM!
 
-around Ms. Ouroboros.
+The surrounding forest began turning into wasteland.
 
-The hatchling—
+Ms. Ouroboros swung with enough force to resemble a one-person army.
 
-had caught the whip—
-
-with threads.
+The aura-infused whip traced huge infinity-shaped loops through the air.
 
 Then—
 
-black poison mist.
+its movements wrapped around her body into a shredding sphere.
 
-Baby Madam—
+Anything that touched the rotating aura—
 
-spat fog—
+was torn apart.
 
-into the villain's field of view.
+Everything—
 
-[What is this—
+except one thing.
 
-disgusting mist!?]
+SNAP!
 
-Ms. Ouroboros waved it away.
+The whip suddenly bent at a sharp angle in midair.
 
-MiniPin—
+[…!?]
 
-moved.
+Ms. Ouroboros's posture broke.
+
+A whip was already difficult to control.
+
+Unexpected resistance could make it rebound toward its owner.
+
+The black weapon snapped sideways—
+
+nearly striking her.
+
+[What is this?]
+
+She looked around in confusion.
+
+Vikir only flicked his left sleeve.
+
+“Good.”
+
+“But next time, don't interfere.”
+
+“Too dangerous.”
+
+[Chik-chik!]
+
+A tiny spider on his wrist huffed indignantly.
+
+**Baby Madam**.
+
+Nearly invisible silk now crossed the forest around Ms. Ouroboros.
+
+The little spider had caught the whip with those threads.
+
+Then—
+
+pssssh—
+
+black poison mist spread from Baby Madam.
+
+[What!?]
+
+Ms. Ouroboros waved irritably at the cloud.
+
+[What is this disgusting fog!?]
+
+Her visibility dropped.
+
+MiniPin moved.
+
+“Sir!”
 
 “Now!”
 
-Greatsword—
+He raised his greatsword.
 
-full Graduator aura.
+Poured everything he had into it.
 
-A committed strike.
+Then delivered a committed Graduator-level slash.
 
-Ms. Ouroboros—
+Even Ms. Ouroboros could not ignore it.
 
-had to turn—
+She turned the whip to block.
 
-and block.
+Vikir used the opening.
 
-Vikir—
+He drew the black bow.
 
-drew—
+**Anubis.**
 
-**Anubis**.
+Five arrow positions.
 
-Five strings.
+Five strings drawn at once.
 
-Five arrows.
+TWANG!
 
-Dark trajectories—
+Five dark trajectories crossed the forest.
 
-at once.
+[…!]
 
-Four—
+Ms. Ouroboros recovered fast.
 
-deflected.
+The whip intercepted—
 
-One—
+one.
 
-continued.
+two.
 
-It grazed—
+three.
 
-Ms. Ouroboros's left cheek.
+four.
 
-Vikir—
+But the fifth arrow continued.
 
-noticed.
+It grazed the left side of her face.
 
 “…Hm?”
 
+Vikir was already preparing the next shot when something bothered him.
+
 That arrow—
 
-should have been avoidable.
+should not have come close.
 
-He tested—
+A fighter at her level had enough speed and awareness to avoid it.
 
-left.
+Vikir tested the idea.
 
-right.
+Right.
 
-left.
+Left.
 
-Again—
+Right.
 
-the same.
+Left again.
 
-Reaction—
+The difference was extremely small.
 
-slightly slower—
+Almost no one would have noticed.
 
-on her left side.
+But Vikir had spent a lifetime reading opponents.
 
-A tiny difference.
-
-Invisible—
-
-to almost anyone else.
+*Reaction delay on the left.*
 
 *Blind spot?*
 
-Vikir curved arrows—
+He lifted Anubis again.
 
-toward her left face.
+This time—
+
+curved shots.
+
+Arrows followed parabolic paths and repeatedly approached Ms. Ouroboros from her left side.
 
 [You—!]
 
-[Where did you get—
+[That bizarre bow again!]
 
-that grotesque bow!?]
+[Where did you get it!?]
 
-Her anger—
-
-grew.
+Her anger grew more intense for reasons Vikir could not identify.
 
 Then—
 
 FSSSH!
 
-Red light—
+Red light exploded into the night sky.
 
-rose into the sky.
+A bright distress flare.
 
-Signal flare.
+MiniPin had reached the carriage and fired the emergency signal kept for hunters in trouble.
 
-MiniPin—
+Ms. Ouroboros froze.
 
-had reached the carriage.
-
-Hunter distress signal.
-
-From below—
+From below the ridge—
 
 voices.
 
-“What happened?”
+“What was that?”
 
-“Signal flare!”
+“A hunter distress signal!”
 
-“That vibration—
+“I felt the vibration from hundreds of meters away!”
 
-wasn't a normal hunt.”
+“This isn't a routine hunt!”
 
 “Request support!”
 
+“Column halt!”
+
 “Combat formation!”
 
-By chance—
+By coincidence—
 
-an Imperial unit—
+an Imperial military unit was marching nearby.
 
-was marching nearby.
+[Hehehe.]
 
-Ms. Ouroboros—
-
-clicked her tongue.
+Ms. Ouroboros clicked her tongue.
 
 [Bad luck.]
 
-She withdrew—
+The whip withdrew.
 
-the whip.
-
-Then looked directly—
-
-at Vikir.
-
-[Fine.]
-
-[We—
-
-have a strange habit—
-
-of meeting again.]
-
-One finger—
-
-brushed—
-
-the left side of her mask.
+She stared at Vikir from a safer distance.
 
 Then—
 
-jump.
+[Fine.]
 
-Gone.
+[It seems we have a habit of meeting **again**.]
 
-Branches—
+Her finger brushed the left side of the mask.
 
-barely moving.
+Vikir watched the gesture.
 
-MiniPin ran back.
+Before he could test the clue further—
+
+Ms. Ouroboros kicked off the ground.
+
+Leapt through the branches.
+
+Disappeared into darkness.
+
+As quickly as she had arrived.
 
 “Sir!”
 
-“You're all right?”
+MiniPin ran back, breathless.
+
+“You're not hurt?”
 
 Vikir nodded.
 
-“Good timing.”
-
 “The flare.”
 
-MiniPin smiled—
+“Good timing.”
 
-awkwardly.
+MiniPin gave an awkward smile.
 
-“Glad we kept—
+“I'm glad we keep a spare on the carriage.”
 
-a spare.”
+The forest fell silent.
 
-The forest—
+Branches and leaves moved in the wind.
 
-fell silent again.
+Ms. Ouroboros was gone.
 
-Only—
+The only obvious sign she had ever been there—
 
-the huge serpent-like gouges—
-
-remained.
+was the enormous serpent-like gouge carved across the ground.

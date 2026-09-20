@@ -1,22 +1,21 @@
 # Chapter 230 QA — Tuition (6)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/tuition-0225-0233.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/230.txt` — `4cf760cce3e83f9beec0708adc1dc163ed00934c`
 - English witness: **E228** — `f34b4f8785d27d42766c0c59061f2425889bed85`
-- Draft: `manuscript/drafts/chapter-0230.md` — `8d73df91ed6cfbaffac317e851d5a0ec434eca3b`
+- Rebuilt draft: `manuscript/drafts/chapter-0230.md` — `d5f9fbea1d835aceefaea5d411d2052e4b0281c4`
 
-## Checks
-- PASS — Vikir kills Gnolls at the final exit with repeated precise neck strikes.
-- PASS — **Poison Gnoll** is normalized from raw 毒变怪; Danger Rating **A**.
-- PASS — Poison Gnoll teeth/claws/fur carry madness-inducing poison and physical ability far above normal Gnolls.
-- PASS — MiniPin attempts to protect his client; Baby Madam instead kills the Poison Gnoll with one bite.
-- PASS — Baby Madam's intervention remains a shocking capability reveal to MiniPin.
-- PASS — all corpses are retained for bounty/material valuation where possible.
-- PASS — hidden gold cache is discovered after tunnels cool.
-- PASS — unnumbered coins are linked to pre-distribution/unregistered mint currency.
-- PASS — **Bourgeois Damien** serial-number law is source-explicit and preserved.
-- PASS — bank-robbery explanation is Vikir's inference based on the Royal Imperial Bank attack.
-- PASS — chapter closes with **Ms. Ouroboros** arriving and calling the Gnoll den her “piggy bank.”
+## Completeness findings
+- Priority-queue chapter; historical draft compressed the neck-kill conveyor, Poison Gnoll threat, Baby Madam reveal, material recovery, serial-number reasoning, and bank-vault inference.
+- PASS — frenzy makes escaping C+ Gnolls act above normal threat, but Vikir kills them at the final exit with repeated neck punctures.
+- PASS — **Poison Gnoll** is Danger Rating A with greatly increased strength/speed and poison on teeth/claws/fur.
+- PASS — MiniPin charges to cover Vikir; Baby Madam drops in and kills the Poison Gnoll with one bite.
+- PASS — bounty/material calculation and need for several appraisers are restored.
+- PASS — intact hides, bones, teeth, claws, and Poison Gnoll byproducts remain separately valuable.
+- PASS — underground gold is explicitly interpreted as a hidden vault exploiting Gnolls' shiny-object behavior.
+- PASS — Vikir notes the coins have no serial numbers and ties that to **Bourgeois Damien**'s unique-currency numbering law.
+- PASS — Royal Imperial Bank robbery becomes the leading explanation before Ms. Ouroboros arrives.
+- PASS — chapter ends on Ouroboros's serpent-like impact trail and MiniPin identifying her.

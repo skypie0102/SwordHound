@@ -1,72 +1,88 @@
 # Chapter 230: Tuition (6)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/230.txt` — `4cf760cce3e83f9beec0708adc1dc163ed00934c`. Recovered English Chapter 228 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, MiniPin, Baby Madam, Gnoll, Poison Gnoll, Imperial Capital, Royal Imperial Bank, and Ms. Ouroboros. The aligned witness resolves 洛 / 毒变怪 as **Gnoll / Poison Gnoll**.
+> Chinese-primary reconstruction from `source/chinese/chapters/230.txt`. Recovered English Chapter 228 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **MiniPin**, **Baby Madam**, **Gnoll**, **Poison Gnoll**, **Imperial Capital**, **Royal Imperial Bank**, **Bourgeois Damien**, and **Ms. Ouroboros**. Raw Chinese 洛 / 毒变怪 is normalized to **Gnoll / Poison Gnoll**.
 
-The quiet forest—
+The forest that had been quiet only moments earlier—
 
-became hell.
+became chaos.
 
-Crackle.
+Crackle—
 
-Hiss.
+hiss—
 
-Screams—
+howl—
 
-from the tunnels.
+The screams of monsters burning in oil split the night.
 
-Gnolls stumbled out—
+The smell of living flesh being scorched rolled out of the tunnels.
 
-burned.
+Gnolls that somehow escaped emerged covered in boiling oil.
 
-oiled.
+Burned.
 
-half-blind from panic.
+Half-blind.
+
+Frenzied.
+
+[Grrrrr!]
+
+[KYAAAH!]
+
+[Hrrrk!]
+
+An injured beast saw less.
+
+Thought less.
+
+Everything narrowed to pain and escape.
 
 Individually—
 
-C+.
+Gnolls were only Danger Rating C+.
 
-In a frenzy—
+But a wounded monster in full frenzy could release killing intent far beyond its normal rank.
 
-dangerous enough—
+It did not matter.
 
-to resemble stronger monsters.
+THRUST!
 
-Vikir waited—
+A rough iron rod pierced the side of a neck.
 
-beside the final exit.
+The Gnoll barely registered the pain.
 
-Iron skewer—
+It kept running.
 
-in hand.
+One step.
 
-Thrust.
-
-Withdraw.
-
-Thrust.
-
-Withdraw.
-
-One point—
-
-the side of the neck.
-
-A Gnoll barely noticed—
-
-at first.
-
-Ran—
-
-two steps.
+Two.
 
 Three.
 
-Then—
+Then stumbled.
 
-collapsed—
+THUD.
 
-blood pouring.
+Blood sprayed violently from the wound.
+
+The monster collapsed.
+
+Eyes clouding.
+
+Breath disappearing.
+
+Vikir stood directly beside the final exit.
+
+Every time a Gnoll rushed out—
+
+the iron rod moved.
+
+THRUST.
+
+Withdraw.
+
+THRUST.
+
+Withdraw.
 
 Again.
 
@@ -74,386 +90,368 @@ Again.
 
 Again.
 
-Bodies—
+No flourish.
 
-piled up.
+No wasted motion.
+
+Only the same vulnerable point—
+
+the neck.
+
+Bodies accumulated.
 
 MiniPin stared.
 
-“What kind of person—
-
-hunts Gnolls like this?”
-
-Vikir wiped—
-
-blood—
-
-from his face.
-
-“You've never seen—
-
-a Gnoll hunt?”
-
-“Not like this!”
-
 Then—
 
-a deeper growl.
+something deeper moved below.
 
-MiniPin's expression changed.
+His face changed.
 
 “Sir!”
 
-“Move!”
+“That one is different!”
 
-Something—
-
-large—
-
-burst through the exit.
-
-Three times—
-
-the size of a normal Gnoll.
+A larger shape exploded out of the tunnel.
 
 Black-green fur.
 
-Needle-like hairs.
+Thicker body.
 
-Oily fluid—
+Violent eyes.
 
-around bloodshot eyes.
+MiniPin shouted—
 
 “A **Poison Gnoll**!”
 
-“Danger Rating A!”
+“Danger Rating **A**!”
 
-“Strength and speed—
+“Its strength and speed are dozens of times above ordinary Gnolls!”
 
-dozens of times higher!”
+“And its teeth, claws, even fur carry poison that can drive a person mad!”
 
-“Teeth—
+There was no time for a longer explanation.
 
-claws—
+The Poison Gnoll lunged.
 
-fur—
+MiniPin raised his greatsword and charged.
 
-all carry madness-inducing poison!”
+His intention was simple.
 
-MiniPin raised—
-
-his greatsword.
-
-Charged—
-
-to buy Vikir time.
+Buy time for the client to escape.
 
 Then—
 
 [Chik!]
 
-A tiny black blur—
+Something tiny dropped from above.
 
-dropped from above.
+A small black shape—
 
-**Baby Madam.**
+like a ball of dust.
 
-She landed—
-
-on the Poison Gnoll's neck.
-
-Bit.
-
-The monster—
-
-froze.
-
-Eyes—
-
-rolled white.
-
-Foam—
-
-at the mouth.
-
-Then—
-
-collapsed.
-
-Dead.
-
-MiniPin—
-
-stopped mid-charge.
+MiniPin stopped mid-step.
 
 “…What?”
 
-Vikir held out one arm.
+**Baby Madam** landed directly on the Poison Gnoll.
+
+Then bit its neck.
+
+The A-rank monster froze.
+
+Its eyes rolled back.
+
+Foam poured from its mouth.
+
+[Grrruuuu—]
+
+The Poison Gnoll collapsed.
+
+Fluid escaped from both ends of its body.
+
+Then—
+
+nothing.
+
+Dead.
+
+MiniPin stared.
+
+What kind of monster was a Poison Gnoll?
+
+One appearing near a small village could wipe the settlement out.
+
+Several mid-sized hunting guilds might need to combine forces to kill one.
+
+And because Poison Gnolls usually traveled with normal Gnolls—
+
+large guilds often sent elite teams.
+
+Yet—
+
+this tiny creature had ended it in one bite.
+
+Vikir held out his arm.
 
 “Good.”
 
 “Come back.”
 
-Baby Madam—
+Baby Madam jumped into his sleeve.
 
-jumped into his sleeve.
+[Chik-chik.]
 
-Tongue—
+Tongue slightly out.
 
-out.
+Waiting to be praised.
 
-Waiting—
+MiniPin looked at the dead Poison Gnoll.
 
-for praise.
+Then at Vikir's sleeve.
 
-MiniPin looked—
+Then back.
 
-from the tiny spider—
+“These last few nights…”
 
-to the A-rank corpse.
+He looked dazed.
 
-Then—
+“I thought getting beaten by you was the nightmare.”
 
-back.
+“Now **this** feels like the dream.”
 
-“I thought—
+Vikir pointed toward the bodies.
 
-the last few nights—
+“This is reality.”
 
-were nightmares.”
+“Calculate the bounty.”
 
-“Now—
+“And the sale value.”
 
-this feels more like one.”
+The command sounded so ordinary that MiniPin automatically obeyed.
 
-Vikir pointed—
+He counted.
 
-toward the bodies.
+Then counted again.
 
-“Reality.”
+And kept clicking his tongue.
 
-“Count the bounty.”
+“Even before checking underground—
 
-“And materials.”
+this is absurd.”
 
-MiniPin—
-
-obeyed.
-
-The numbers—
-
-became absurd.
-
-Hundreds—
-
-including those dead underground.
-
-Skins—
-
-some sellable.
-
-Bones—
-
-almost all.
-
-Teeth.
-
-claws.
-
-organs.
-
-Poison Gnoll materials—
-
-especially valuable.
+“With the corpses inside the den, I can't estimate the total alone.”
 
 “We need appraisers.”
 
 “Several.”
 
-“I can't price this alone.”
+Vikir nodded.
 
-“Then gather everything.”
+“Every corpse has a bounty.”
 
-“Every corpse—
+“Recover all of them.”
 
-has a bounty.”
+“Yes.”
 
-MiniPin nodded.
+MiniPin pointed to the cleaner bodies.
 
-“When the tunnels cool—
+“Anything that suffocated or died from the throat puncture still has usable hide.”
 
-we'll check inside.”
+“The heavily oil-burned ones—
 
-They waited.
+at least the bones should sell.”
 
-Occasional survivors—
+“And the Poison Gnoll byproducts are worth much more.”
 
-crawled out.
+“When the tunnel cools—
 
-Baby Madam—
+I'll go inside and inspect it.”
 
-handled them.
+Steam and heat still escaped from the den.
+
+So for a while—
+
+Vikir and MiniPin worked outside.
+
+Sorting bodies.
+
+Moving corpses.
+
+Baby Madam occasionally killed a survivor that poked its head out.
 
 Eventually—
 
-MiniPin entered—
+the heat fell enough.
 
-torch raised.
+MiniPin took a torch.
 
-Minutes later—
+Entered.
+
+He dug through damaged passages carefully.
+
+Moved deeper.
+
+Then—
 
 “Sir!”
 
-“You need to see this!”
+His voice echoed up.
+
+“You need to see this yourself!”
 
 Vikir followed.
 
 Deep inside—
 
-gold.
+he stopped.
 
-A mountain—
+Gold.
 
-of coins.
+Piles of coins.
 
-Oil-coated—
+Oil-coated.
 
-gleaming—
+Glittering under torchlight.
 
-under firelight.
+The shifting flame threw strange shadows over the walls.
 
-MiniPin's mouth—
+There was an old saying—
 
-fell open.
+people become stupid when suddenly confronted with enormous wealth.
 
-“…What is this?”
+MiniPin looked almost frightened.
+
+“…What is all this?”
 
 Vikir crouched.
 
-“Someone used the den—
+“Someone used the den as a vault.”
 
-as a vault.”
+MiniPin started to object.
 
-Gnolls—
+“The Gnolls?”
 
-collected shiny things.
+Then stopped.
 
-With enough Gnolls—
+Of course.
 
-no ordinary thief—
+Gnolls collected shiny objects.
 
-would enter.
+A huge colony provided natural security.
 
-Natural security.
+Ordinary thieves would never enter.
+
+Someone could hide illegal wealth here and rely on the monsters to guard it.
 
 MiniPin swallowed.
 
-“Who would hide—
+“But who would be insane enough to store money inside a Poison Gnoll colony?”
 
-money—
+Vikir looked over the mountain of coins.
 
-in a Poison Gnoll colony?”
+“At least one fact is certain.”
 
-Vikir picked up—
+MiniPin tilted his head.
 
-one coin.
+Vikir's voice became colder.
 
-“No serial number.”
+“Whoever owns this money—
 
-Unregistered.
+is strong enough to kill all these Gnolls whenever they want it back.”
 
-Fresh—
+MiniPin went pale.
 
-or old enough—
+That was true.
 
-to predate numbering.
+A vault was only useful if the owner could open the door.
 
-The Imperial mint—
+And this door—
 
-under **Bourgeois Damien**—
+was an enormous monster colony with a Poison Gnoll inside it.
 
-had standardized unique serials—
+Vikir picked up one coin.
 
-for circulating currency.
+Turned it over.
 
-These coins—
+“…No serial number.”
 
-had never entered—
+MiniPin leaned closer.
 
-normal banking channels.
+Unregistered currency.
 
-“Stolen before registration.”
+Coins produced by the mint—
 
-MiniPin stared.
+but never formally entered into normal banking circulation.
+
+Vikir remembered Imperial monetary law.
+
+The mint authority under **Bourgeois Damien** had established the system requiring unique serial identification on currency.
+
+So these coins had either been produced before the law—
+
+or stolen before numbering and registration.
+
+MiniPin's face tightened.
 
 “Bank robbery?”
 
-“Likely.”
+“Nothing else explains this amount.”
 
-Vikir remembered—
+Vikir remembered the recent reports.
 
-his own article.
+Yes.
 
-Royal Imperial Bank.
+There had been one.
 
-One of the sites—
+A major bank robbery.
 
-attributed—
+He knew the details well because he had personally written newspaper coverage about the attacks.
 
-to the copycat attacks.
+The unknown terrorist copying or following Night Hound incidents—
 
-Then—
+had struck the **Royal Imperial Bank** and stolen its assets.
 
-a sound.
+A name surfaced in Vikir's mind.
 
-Huge.
+An unpleasant one.
 
-Heavy.
+“…!”
 
-Something—
+The instant it did—
 
-fell from above.
+something enormous fell from above.
 
-BOOM!
+BOOOOM!
 
-Vikir and MiniPin—
+Vikir and MiniPin jumped back.
 
-leapt clear.
+Dust exploded outward.
 
-Dust—
+When it settled—
 
-settled.
+a long curved trail cut across the ground.
 
-Across the ground—
+As though a gigantic snake had crawled through stone.
 
-a long curved gouge.
-
-Like—
-
-a giant serpent—
-
-had crawled through stone.
-
-A figure stood—
-
-on a dead branch.
-
-Black.
-
-Tall.
-
-Masked.
+A strange figure stood on a dead branch overhead.
 
 [Hehehehe.]
 
-[Little rats—
+A sharpened, distorted voice came through the mask.
 
-crawled into my piggy bank?]
+[Little rats crawled into my piggy bank?]
 
-MiniPin—
+MiniPin's face turned white.
 
-went white.
+More frightened than Vikir had seen him during the entire Gnoll extermination.
 
 “Ms…”
 
+He swallowed.
+
 “**Ms. Ouroboros**.”
+
+The villain terrorizing the Imperial Capital—
+
+had come to reclaim her vault.

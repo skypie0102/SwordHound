@@ -1,565 +1,485 @@
 # Chapter 233: Tuition (9)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/233.txt` — `2787112e395bedd25a34846338a1a522b7d9304c`. Recovered English Chapter 231 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Professor Banshee Morgue, Dolores L. Quovadis, Colosseo Academy, and **Peri**. The raw award name 妮姆菲特 corresponds to the same legacy orphan-girl name slot already canonicalized in this project to **Peri**, so production uses **Peri Award** rather than reviving recovered-English “Nymphet.” The Academy blocs are kept descriptive as noble faction / power-family faction.
+> Chinese-primary reconstruction from `source/chinese/chapters/233.txt`. Recovered English Chapter 231 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Professor Banshee Morgue**, **Dolores L. Quovadis**, **Colosseo Academy**, and **Peri**. The source's legacy award-name slot is normalized to project-canonical **Peri Award**. The Academy blocs are kept descriptive as the **noble faction** and **power-family faction**.
 
-Colosseo's **Thrifty Bazaar**.
+Colosseo Academy's **Thrifty Bazaar** had a cute name.
 
-Cute name.
+Its scale was anything but cute.
 
-Enormous scale.
+Students auctioned used belongings.
 
-Students sold—
+Things they made.
 
-used equipment.
+Things they gathered.
 
-handmade goods.
+Materials from fieldwork.
 
-gathered materials.
+And occasionally—
 
-family antiques—
+mysterious antiques brought from their families with origins nobody asked too closely about.
 
-of questionable provenance.
+Outside bidders were allowed.
 
-Outside bidders—
+That alone expanded the market enormously.
 
-allowed.
+By size and transaction value—
 
-The event—
+the Thrifty Bazaar ranked among the Empire's ten most important auctions.
 
-ranked among—
+And within that market—
 
-the Empire's top ten auctions.
-
-And inside the market—
-
-two student blocs—
-
-held major power.
+two major student blocs held enormous influence.
 
 The **noble faction**.
 
-Old aristocratic houses.
+Students from famous aristocratic houses.
 
-Seven Great Houses—
+The Seven Great Houses and their branches.
 
-and connected bloodlines.
+Old names.
 
-Small—
+Political influence.
 
-elite—
+A relatively small—
 
-politically powerful.
+highly elite circle.
 
-The **power-family faction**.
+Then—
 
-Rich agricultural families.
+the **power-family faction**.
 
-merchant houses.
+Students from wealthy agricultural families.
 
-mercenary-guild heirs.
+Merchant dynasties.
 
-mine owners.
+Heirs to famous mercenary guilds.
 
-shipyard heirs.
+Large mines.
 
-Not old nobility—
+Shipyards.
 
-but—
+Industrial fortunes.
 
-money.
+Less old nobility.
 
-networks.
+More money.
 
-industry.
+More commercial networks.
 
-Both factions—
+Both groups recruited capable juniors constantly.
 
-recruited—
+Those relationships did not end at graduation.
 
-talented juniors.
+They became political connections.
 
-Those connections—
+Trade relationships.
 
-continued after graduation—
+Administrative alliances.
 
-into Imperial politics—
-
-and finance.
+Influence stretching through the Empire.
 
 This year—
 
-both wanted—
+both factions wanted the same first-year.
 
-Vikir.
+**Vikir.**
 
-A commoner—
+At admission—
 
-apparently alone.
+he had seemed unremarkable.
 
-No patron.
+Then midterms happened.
 
-Yet—
+First in the year.
 
-first place in midterms.
+Excellent written performance.
 
-Academically brilliant.
+Abnormal practical ability.
 
-Combat-capable.
+No visible patron.
 
-Perfect—
+No obvious backing.
 
-to recruit.
+Exactly the kind of talented student a faction wanted to claim early.
 
-Letters—
+The noble faction and power-family faction had worked behind the scenes for some time.
 
-ignored.
+Letters were sent.
+
+Ignored.
 
 Meeting invitations—
 
 ignored.
 
-Beautiful upperclassmen—
+Second- and third-year beauties were sent to charm him.
 
-ignored.
+Nothing.
 
-Martial intimidation—
+Strong fighters were sent to intimidate or impress him.
 
-ignored.
+Nothing.
 
 Eventually—
 
-two rival factions—
+the two rival groups agreed on one temporary goal.
 
-agreed—
+“That arrogant junior needs discipline.”
 
-on one thing.
+“Break his pride first.”
 
-“This arrogant freshman—
+“Then recruit him.”
 
-needs discipline.”
+Ironically—
 
-“Break him first.”
+they cooperated against him.
 
-“Recruit him after.”
-
-Then—
-
-Vikir entered—
-
-the Thrifty Bazaar—
-
-with Gnoll hides.
+Then Vikir entered the Thrifty Bazaar with a huge stock of Gnoll hides.
 
 The factions smiled.
 
-“Tuition money.”
+“He's trying to raise tuition.”
 
 “Perfect.”
 
-“We can suppress—
+“Those hides are useful materials.”
 
-the auction.”
+“We can crush the price.”
 
-They warned—
+“He probably thinks a hunting-guild job automatically means profit.”
 
-other students—
+“Let's teach him how markets work.”
 
-not to bid.
+Before the auction—
 
-The first lot—
+the two blocs quietly pressured other students.
 
-received—
+Do not bid on Vikir's lots.
 
-silence.
+Do not compete.
 
-Vikir—
+Let the price collapse.
 
-looked at—
+The first lot opened.
 
-the mountain of hides.
+Silence.
+
+No bids.
+
+Vikir looked at the stacked hides.
 
 *Strange.*
 
-*Useful material.*
+*They're useful.*
 
-*Why no buyers?*
+*There should be demand.*
 
-Then—
+He looked at the quantity.
 
-another thought.
+*Maybe there are simply too many.*
 
-*Too much supply?*
+Vikir shrugged.
 
-He shrugged.
-
-Lit—
-
-a torch.
+Then lit a torch.
 
 WHOOSH!
 
-Half the hides—
+Everyone stood.
 
-burned.
+“!?”
 
-Everyone—
+Without hesitation—
 
-stood.
+Vikir set fire to roughly half the pile.
 
-Stunned.
+CRACKLE—
 
-Vikir watched—
+FWOOSH—
 
-the fire.
+Expensive hides burned.
+
+The auction hall became unnaturally silent.
+
+Vikir looked at what remained.
 
 Then asked—
 
-“Still—
+“Still too many?”
 
-too many?”
+He raised the torch again.
 
-Torch—
+Another half of the remaining stock burned.
 
-again.
+Now—
 
-Half—
+the students began panicking.
 
-of the remaining stock—
+Gnoll hide was not a luxury novelty.
 
-burned.
+It was useful class material.
 
-Students—
+Research material.
 
-began—
+Cold-weather armor reinforcement.
 
-to panic.
+Winter practical evaluation preparation.
 
-Gnoll hides—
+Reagent material.
 
-were class materials.
+And now—
 
-Armor reinforcement.
+the supply was disappearing in front of them.
 
-Winter practical gear.
+Still no one bid.
 
-Research reagents.
+Vikir lifted the torch again.
 
-Limited supply.
+This time—
 
-Vikir—
+his movement clearly said he would burn **everything**.
 
-raised the torch—
+Students broke first.
 
-again.
+“Wait!”
 
-“No!”
+“I need those for next class!”
 
-“I need those—
+“I haven't prepared my materials yet!”
 
-for next class!”
+“I need hide for winter armor reinforcement!”
 
-“I need—
+“I'll bid!”
 
-cold-weather armor lining!”
+“Merchant house bid!”
 
-“I'll buy!”
+“Crazy bastard!”
 
-“Stop burning them!”
+“I said I'll buy!”
 
-Vikir lowered—
+“Stop burning it!”
 
-the flame.
+Vikir lowered the torch.
 
-“Minimum bid—
+Then spoke calmly.
 
-four times—
+“Minimum bid is now four times the original opening price.”
 
-the original opening price.”
+The hall exploded.
 
-The market—
+The factions' artificial boycott collapsed.
 
-erupted.
+Students turned their anger toward the people who had pressured them not to bid.
 
-Students—
+And then—
 
-paid.
+they paid.
 
-And—
-
-blamed—
-
-the factions—
-
-who had created—
-
-the artificial boycott.
-
-The noble faction—
-
-and power-family faction—
-
-could only—
-
-stare.
+The noble faction and power-family faction could only stare.
 
 ◆◆◆
 
-“…That's—
+“…So that's how the auction ended?”
 
-how the auction ended?”
-
-Professor Banshee—
-
-looked—
-
-almost offended—
-
-by the economics.
+Professor Banshee looked genuinely incredulous.
 
 Vikir nodded.
 
 “Yes.”
 
-“So—
+“So I have enough for tuition.”
 
-tuition—
+CRACK!
 
-is covered.”
+The heavy leather sack on Banshee's desk split under its own weight.
 
-CRACK.
+Banknotes and gold coins spilled across the wood.
 
-The heavy leather money sack—
+Clink—
 
-split.
+clatter—
 
-Coins—
+clink—
 
-and notes—
+Money covered the desk.
 
-poured—
+Banshee put on a pair of small magnifying glasses.
 
-over Banshee's desk.
+Then began separating large coins with quick, practiced fingers.
 
-Clink.
+“…You'll need change.”
 
-clatter.
+He counted again.
 
-clink.
+“That settles your tuition.”
 
-Banshee—
+A pause.
 
-put on—
+“All four years.”
 
-small reading glasses.
+“Paid in full.”
 
-Counted.
+Vikir did not reach for the remaining money.
 
-“…You need change.”
-
-He selected—
-
-the amount.
-
-“Your tuition—
-
-resolved.”
-
-“All four years—
-
-paid upfront.”
-
-Vikir did not take—
-
-the remainder.
-
-“The rest—
-
-is tuition too.”
+“The rest is tuition too.”
 
 Banshee looked up.
 
-“This is—
+“…This is far beyond your tuition.”
 
-far too much.”
+“Are you buying a lecture building?”
 
-“Are you buying—
+“Or trying to purchase a professor's chair?”
 
-a building?”
+“Use it for students who cannot pay.”
 
-“Trying to become—
-
-faculty?”
-
-“Use it—
-
-for students—
-
-who cannot pay.”
+Banshee froze.
 
 Dolores—
 
-froze.
+standing nearby—
 
-Banshee—
+did too.
 
-stared.
-
-“You mean—
-
-donate it—
-
-to the scholarship foundation?”
+“Did I hear that correctly?”
 
 “Yes.”
 
-“With one condition.”
+“You want to donate the remainder to the scholarship foundation?”
 
-Banshee's expression—
+“Yes.”
 
-became—
+Vikir paused.
 
-cynical.
+“One condition.”
 
-Of course.
+Banshee's expression immediately became cynical.
 
-Large donations—
+*Of course.*
 
-often bought—
+Large donations with conditions were common.
 
-tax deductions.
+Tax deductions.
 
-reputation.
+Public reputation.
 
-political influence.
+Influence inside the Academy.
 
-student blocs.
+Creation of political blocs.
 
-Vikir said—
+Networking.
 
-“Recipients—
+Soft power.
 
-must complete—
+There were many ways a donor could recover value indirectly.
 
-a set amount—
+Then Vikir said—
 
-of volunteer service—
-
-at orphanages.”
+“Recipients must complete a required amount of volunteer service at orphanages.”
 
 Banshee frowned.
 
-“That's it?”
+“…Orphanages?”
 
 “Yes.”
 
-For poor students—
+That was it.
 
-a remarkably favorable trade.
+For a poor student—
 
-Tuition—
+the exchange was extraordinarily favorable.
 
-for volunteer hours.
+Instead of exhausting part-time work—
 
-Enough money—
+receive tuition support.
 
-to support—
+In return—
 
-years—
+spend fixed hours helping orphanages.
 
-perhaps more than a decade—
+The sum Vikir had placed on the desk could fund scholarships for years.
 
-of awards.
+Perhaps well over a decade depending on award size.
 
-Banshee studied—
+Banshee studied him.
 
-Vikir.
-
-*What does he gain?*
+*What does this brat gain?*
 
 Nothing obvious.
 
+No commercial return.
+
+No family advantage.
+
+No political bloc.
+
+Finally—
+
+Banshee raised both hands.
+
 “Fine.”
 
-“We can establish—
+“I understand.”
 
-an award—
+“We can establish an Academy award through the scholarship foundation.”
 
-through the foundation.”
+He looked at the paperwork.
 
-“What name?”
+“Have you thought of a name?”
 
-Vikir—
+Vikir remained silent for a moment.
 
-remained quiet.
+Banshee became impatient.
 
-Banshee waved a hand.
+“Apparently not.”
 
-“Then—
+“Then call it the **Vikir Award**.”
 
-the Vikir Award.”
+“Students receiving free tuition from such a generous sponsor will know who to thank.”
 
-“They'll know—
+“You'll become famous.”
 
-who supported them.”
-
-“You'll become—
-
-famous.”
-
-Vikir raised—
-
-one hand.
+Vikir raised one hand.
 
 “No.”
 
-“Donor identity—
+Banshee stopped.
 
-confidential.”
+“Keep the donor identity confidential.”
 
-“Use another name.”
+“And use another name.”
 
-Banshee adjusted—
+“…?”
 
-his glasses.
+Banshee adjusted his glasses.
 
-Huge donation.
+A donation this large—
 
-No tax advantage.
+anonymous?
 
-No public credit.
+No public recognition.
 
-No influence—
+No reputation.
 
-attached to the donor.
+No faction-building.
 
-His belief—
+Potentially no usable tax advantage.
 
-that everyone—
-
-acted only—
-
-for self-interest—
+Banshee's long-held belief that everyone ultimately acted for personal benefit—
 
 took a direct hit.
 
-Vikir's voice—
+Vikir did not react to his confusion.
 
-lowered.
+His voice only lowered slightly.
 
-“Call it—
+“Call it the **Peri Award**.”
 
-the **Peri Award**.”
+Banshee frowned.
 
-Banshee—
+He did not recognize the name.
 
-did not recognize—
+But beside him—
 
-the name.
+“…”
 
-Dolores—
-
-standing beside him—
-
-narrowed—
-
-her eyes.
+Dolores's eyes narrowed just slightly.

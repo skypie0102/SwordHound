@@ -1,7 +1,7 @@
 {
   "chapter": 229,
   "title": "Tuition (5)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -9,8 +9,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/229.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0229.md",
-    "blob_sha": "f63abbe7702e79a57b32ac59ab50fd11149e6cf2"
+    "blob_sha": "eb70444b6e9f5ff0a0033aba8da1f7df8b11d9b1"
   },
   "qa": {
     "path": "qa/chapter-0229.md",
-    "blob_sha": "7f04b263ced7e3e4320bce72772887a89cd78880",
-    "status": "pass"
+    "blob_sha": "f442b186443469c2e19e341bdcdf4c2c6630c029",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,24 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-20",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/234.txt",
     "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
     "english_path": "source/chapters/chapter-232.xhtml",
     "english_sha": "95e64595ef6ed13eb15630804de6646698f95e0a",
     "purpose": "target234 begins Suspicion (1); target236/E234 begins National University League (1)"
+  },
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "f63abbe7702e79a57b32ac59ab50fd11149e6cf2",
+    "qa_sha": "7f04b263ced7e3e4320bce72772887a89cd78880"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
   }
 }

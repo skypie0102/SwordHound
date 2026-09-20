@@ -16,8 +16,8 @@ Current checkpoint: **post-500 manuscript completeness audit**.
 - Completed audit families: **Nostalgia (101–104)** added after the Madam boundary repair.
 
 Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)** — rebuilt and passed
-- Pending initial-priority chapters: **31**
-- Next audit family: **Tuition (225–233)**
+- Pending initial-priority chapters: **27**
+- Next audit family: **National University League (236–244)**
 - Active audit record: `qa/manuscript-completeness-audit.md`
 - EPUB assembly is **blocked until the completeness audit closes**
 
