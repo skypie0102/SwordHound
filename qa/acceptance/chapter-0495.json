@@ -1,0 +1,33 @@
+{
+  "chapter": 495,
+  "title": "The Day After the Apocalypse (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Day After the Apocalypse",
+    "range": [
+      494,
+      495
+    ],
+    "family_qa_path": "qa/families/day-after-apocalypse-0494-0495.md",
+    "family_qa_sha": "c232ff9315c31d79e320a704f318a9b6785122a2",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/495.txt",
+    "primary_source_sha": "964ab99fc6c8c626c63a366747e7824b7dfaa95d",
+    "english_reference_path": "source/chapters/chapter-493.xhtml",
+    "english_reference_sha": "523f54d41e88ce5790cd4c67a1f607292861cef2",
+    "draft_path": "manuscript/drafts/chapter-0495.md",
+    "draft_sha": "e4661f1ff2856e375ab5cdfb3251d41f383f4ef3",
+    "qa_path": "qa/chapter-0495.md",
+    "qa_sha": "97c6586f33bd4bd41ef2c569cc905eb2f7b126d9",
+    "provenance_path": "editorial/provenance/chapter-0495.json",
+    "provenance_sha": "ed2d87d102119d683515d68f2c80aef465bc5936"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; established project terminology controls recurring forms."
+  ],
+  "source_exception": "Shared raw 495.txt includes target495 main ending plus both credit-cookie sequences, then target496 Side Story 1."
+}
