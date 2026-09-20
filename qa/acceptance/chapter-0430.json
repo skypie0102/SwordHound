@@ -3,7 +3,7 @@
   "title": "The Lion King (1)",
   "accepted": true,
   "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -11,8 +11,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
-    "status": "pass"
+    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/430.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-428.xhtml",
     "english_reference_sha": "5d39ce04e15c58d65597b2d5c085b17ae503f50d",
     "draft_path": "manuscript/drafts/chapter-0430.md",
-    "draft_sha": "e85b53d368990079a8c23b0369054e0e9dd60de8",
+    "draft_sha": "b1be4c800902dd2ede24d032814d7f84be7a6a51",
     "qa_path": "qa/chapter-0430.md",
-    "qa_sha": "aa78198666b8b175b124755158efbf4703c94a20",
+    "qa_sha": "1f149e0686d0fcca406492dd182c6d3e74109fd2",
     "provenance_path": "editorial/provenance/chapter-0430.json",
-    "provenance_sha": "03fc0741c301bfa3ecc7ed7687024aeed6d3dee0"
+    "provenance_sha": "20ae8e1732a657862b018b959108c46f0342f899"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Returned Hound material from target434 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "status": null,
+    "draft_sha": "e85b53d368990079a8c23b0369054e0e9dd60de8",
+    "qa_sha": "aa78198666b8b175b124755158efbf4703c94a20",
+    "provenance_sha": "03fc0741c301bfa3ecc7ed7687024aeed6d3dee0"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/lion-king-0430-0433.md",
+    "initial_priority_target": false
+  },
+  "environment_note": "Warm-sea/fish/weather anomalies remain setup only; no unsupported cause assigned."
 }
