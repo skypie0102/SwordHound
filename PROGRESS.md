@@ -1,5 +1,27 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Surplus Man completeness rebuild (314–320)
+
+**Audit result:** all seven historical drafts were materially compressed and rebuilt; family now **PASS**.
+
+All seven initial-priority targets **314–320** are resolved. Confirmed failures **316** and **319** are resolved.
+
+Major restorations:
+- ruined-Capital Floor3 survival, dead Daylily heat/food mechanics, Granola friendship/network split, and survivor-count mission rule;
+- S-rank Daylily profile, Random Boxes/Mimics, survivor-count duration inference, Hell Hound demonstration, and sacrifice pressure;
+- full 68-survivor criteria/voting collapse, Arthur Gordon Pym leadership, isolated first-year selection, and Vikir volunteering;
+- Vikir's kill plan, pooled Random Boxes/candies/items, anti-betrayal staging, Mimic incident, and human-body requirement;
+- 67-box trust test, five Mimics, D-rank tools, exact 30 red / 10 green / 25 blue consumption, 260/229/269 stats, and **Reflexes +1**;
+- pooled nonlethal human biological bait, throat-eye weak point, **Immortality — Gargoyle (S)**, **Madam Eight-Legs venom**, Level1 S-rank **Impossible** clear, and exact candy reward;
+- hidden **Conversion Bug (S)** reward, Baby Madam host, leftover candy recovery, Daylily seed harvest, and all 68 survivors forced to Floor4.
+
+Current tracker state: **499 accepted / 1 needs rework**.  
+Only confirmed failure remaining: **420**.  
+Initial priority queue now has **12 pending chapters**.
+
+Next audit family: **Underdogma (321–325)**.
+
+
 ## 2026-09-20 — Hell Tree completeness rebuild (307–313)
 
 **Audit result:** all seven historical drafts were materially compressed and rebuilt; family now **PASS**.
