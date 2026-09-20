@@ -1,130 +1,272 @@
 # Chapter 102: Nostalgia (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/102.txt` — `60e4337839e37330558fd3528f9ae1a8d574987a`. Recovered English Chapter 101 is the verified shifted secondary witness. Established terminology controls **Aiyen**, **Akwilla**, **Night Fox**, **Ballak Tribe**, **Rokoko**, **Renaissance**, **Peak Sword Graduator**, **Seventh Fang**, **Sword Master**, **Hugo Le Baskerville**, **Beelzebub**, **Venom — Madam Eight-Legs (S)**, **Silent Heel — Mushuhushu (A+)**, and **Super High-Speed Regeneration — Bog Salamander (A+)**.
+> Chinese-primary reconstruction from `source/chinese/chapters/102.txt`. Recovered English Chapter 101 is the verified shifted secondary witness. Established terminology controls **Aiyen**, **Akwilla**, **Night Fox**, **Ballak Tribe**, **Rokoko**, **Renaissance**, **Peak Sword Graduator**, **Seventh Fang**, **Sword Master**, **Hugo Le Baskerville**, **Beelzebub**, **Venom — Madam Eight-Legs (S)**, **Silent Heel — Mushuhushu (A+)**, and **Super High-Speed Regeneration — Bog Salamander (A+)**.
 
 Vikir opened his eyes.
 
+He had slept deeply.
+
 No dreams.
 
-No half-sleep.
+No half-waking vigilance.
 
-No instinct waiting for an ambush.
+No instinct listening for assassins.
 
-For once—
+No awareness waiting for disaster.
 
-he had slept like the dead.
+For the first time in longer than he could remember—
 
-His injuries were gone.
+he had slept completely defenseless.
 
-Bog Salamander regeneration had done part of the work.
+Like the dead.
+
+And when he woke—
+
+his injuries were gone.
+
+The Bog Salamander's regeneration had done much of the work.
 
 Ballak medicine had done the rest.
 
-He pushed himself upright.
+Herbs from outside.
 
-Soft fur over straw.
+Medicine from within.
 
-A clean blanket.
+Treatment layered over treatment.
 
-Herbs.
+“…Where am I?”
 
-Bandages.
+Vikir pushed himself upright.
 
-A familiar tent.
+Soft fur lay over the straw bed.
 
-At his feet—
+A clean blanket covered him.
 
-Aiyen slept.
+Bandages and medicinal herbs wrapped his body.
 
-Her hand still held his toes.
+He looked around.
 
-“Awake?”
+A tent.
 
-Akwilla stood at the entrance.
+Familiar construction.
 
-The Night Fox looked older than she had only days earlier.
+Then he looked down.
 
-Hollow cheeks.
+The owner of the tent was asleep at his feet.
 
-Dark circles beneath the eyes.
+Aiyen.
 
-The years she had held back through strength had returned all at once.
+She had fallen forward over the bed.
 
-She sat beside him.
+One hand still gripped Vikir's toes.
 
-“Aiyen carried you for three days and three nights.”
+Vikir was about to speak.
+
+“…Awake?”
+
+A voice came from the entrance.
+
+Akwilla.
+
+The Night Fox stood there looking down at him.
+
+She had aged visibly in only a few days.
+
+Her cheeks had hollowed.
+
+Dark shadows sat beneath her eyes.
+
+The years she had suppressed through sheer vitality seemed to have started moving again.
+
+Akwilla sat beside the bed.
+
+She glanced at the sleeping Aiyen.
+
+“Aiyen carried you on her back for three days and three nights.”
 
 Vikir looked down again.
 
-Aiyen had run without proper food or sleep.
+Aiyen had apparently run the entire way back.
 
-Now she slept where she had finally stopped.
+Little food.
 
-Akwilla asked.
+Almost no sleep.
+
+Nothing but Vikir on her back.
+
+Now—
+
+even after reaching safety—
+
+she had remained at his feet.
+
+“…”
+
+Vikir watched the fingers still wrapped around his toes.
+
+For a moment—
+
+he said nothing.
+
+Akwilla broke the silence.
 
 “What happened?”
 
-Vikir considered the question.
+Vikir hesitated.
+
+Then answered.
 
 “I tried to kill Madam.”
 
-He did not claim to have confirmed the final death.
+He did not say—
 
-“I couldn't overpower her directly.”
+*I killed her.*
 
-He summarized the cliff fight.
+Because he had never confirmed the final death.
+
+Instead, he described what happened up to the point he remembered.
+
+“I couldn't defeat her through strength alone.”
+
+He explained the cliff.
 
 The fall.
 
-The escape.
+The condition Madam had been in afterward.
 
-“Luck did most of it.”
+“Dragging the fight that far and forcing her over the edge was difficult.”
 
-Akwilla stared.
+Vikir's tone remained flat.
 
-For generations, the tribes had feared Madam like weather.
+“I was lucky.”
 
-Now one seventeen-year-old warrior had broken her.
+The understatement was almost ridiculous.
 
-“No more sacrifices.”
+For generations—
 
-Akwilla's voice was quiet.
+Madam had terrorized the native peoples of the floodlands.
 
-“No more hiding from storms because she might be moving.”
+A young warrior had just broken that terror.
 
-Then she explained what happened after Vikir collapsed.
+If the result held—
 
-Madam had still been alive.
+there would be no more sacrifices.
 
-Barely.
+No more nights spent frozen in fear because Madam might be moving nearby.
 
-Ballak warriors found Vikir first.
+No more treating her as an unavoidable disaster.
 
-The poison surrounding Madam made pursuit impossible.
+Akwilla listened with open surprise.
 
-She escaped.
+Then she answered the question Vikir had not yet asked.
 
-“But she's dead now.”
+“After you lost consciousness, Madam fled.”
 
-Vikir looked at Akwilla.
+Vikir turned toward her.
 
-“That body could not survive.”
+“Our warriors followed your trail.”
 
-Madam had fled toward **Cold Valley**.
+Akwilla's expression tightened.
 
-Ice formed there even in summer.
+“But poison had spread everywhere around her.”
 
-With her organs destroyed and body broken—
+Whether intentional or not—
 
-injury, starvation, or cold would finish what Vikir had begun.
+Madam scattered lethal venom across the terrain while escaping.
 
-Akwilla pulled aside the entrance flap.
+It evaporated into toxic fog.
+
+Neither warriors nor wolves could approach safely enough to finish her.
+
+“So they rescued you instead.”
+
+Vikir frowned slightly.
+
+Akwilla continued.
+
+“But Madam should be dead by now.”
+
+He looked at her.
+
+Akwilla's voice was certain.
+
+“With those injuries, she couldn't live long.”
+
+Her exoskeleton had been shattered.
+
+Vital organs were exposed.
+
+Heart.
+
+Liver.
+
+Lungs.
+
+Intestines.
+
+Internal structures dragged along the ground.
+
+Her skull was broken.
+
+The brain itself had been split.
+
+Even Madam's monstrous vitality had limits.
+
+And there was another reason for Akwilla's certainty.
+
+“She fled toward **Cold Valley**.”
+
+Vikir's eyes narrowed.
+
+“The coldest place in the floodlands.”
+
+Akwilla nodded.
+
+“Ice forms there even in July.”
+
+A body damaged that badly could not withstand the climate.
+
+If Madam did not die from her wounds—
+
+she would die from starvation.
+
+If not starvation—
+
+the cold.
+
+One way or another—
+
+death was the only destination left.
+
+That was why the floodland tribes now called Vikir the warrior who had destroyed Madam.
+
+“The title of hero is excessive.”
+
+Vikir shook his head.
+
+Akwilla gave him a dry smile.
+
+“After everything you just told me?”
+
+She stood.
+
+Then pulled open the tent flap.
+
+“…!”
 
 Vikir's eyes widened.
 
-Thousands of people surrounded the tent.
+Outside—
+
+people filled the entire area.
 
 More than four thousand.
+
+All kneeling.
+
+Eyes closed.
+
+Hands pressed together in prayer.
 
 Ballak.
 
@@ -132,171 +274,367 @@ Rokoko.
 
 Renaissance.
 
-Smaller tribes Vikir had never seen.
+Major tribes.
 
-Different prayers.
+Minor tribes Vikir had never even seen before.
 
-One request.
+Their customs differed.
 
-“Let the hero recover.”
+Their gestures differed.
 
-When they saw him awake—
+Their languages and ritual forms differed.
+
+The content of the prayer did not.
+
+“May Vikir, hero of the floodlands, recover quickly.”
+
+“Please accept our prayer.”
+
+“Let him live.”
+
+The entire region had gathered around the tent.
+
+Then—
+
+someone noticed the open flap.
+
+Someone saw Vikir sitting upright.
+
+A heartbeat later—
 
 the crowd erupted.
 
-For the first time in memory, the tribes of the floodlands stood together around one person.
+“WAAAAAAAH!”
+
+Thousands cheered.
+
+Shouted.
+
+Cried.
+
+For perhaps the first time—
+
+the tribes of the floodlands stood united around one person.
 
 ◆◆◆
 
-That night, the celebration and memorial rites finally ended.
+That night—
 
-The living drank.
+the long sequence of disasters finally felt finished.
 
-The dead were honored.
+The celebration feast continued through the evening.
 
-Then silence returned.
+So did memorial rites for the dead.
 
-Vikir closed his eyes.
+The living drank for different reasons.
 
-He inspected his aura.
+Duty.
 
-Dense.
+Grief.
 
-Viscous.
+Relief.
 
-Almost solid.
+Joy.
 
-*I recovered it.*
+Exhaustion.
 
-The peak he had reached before regression.
+When the last fires faded and the night became quiet—
+
+Vikir sat alone.
+
+“…”
+
+He closed his eyes.
+
+Looked inward.
+
+Checked the aura moving through him.
+
+*Recovered.*
+
+The combat power he had possessed at his peak before regression.
+
+Dense aura boiled deep inside him.
+
+Compressed until the liquid quality had almost disappeared.
+
+Not quite solid.
+
+But close.
+
+The highest realm of the Graduator.
 
 **Peak Sword Graduator.**
 
-At forty, that had been his ceiling.
+It was the level Vikir had reached at forty in his previous life.
 
 Now—
 
-he was seventeen.
+he had reached it at seventeen.
 
-And there was something else.
+And there was more.
 
-Six Fangs had become stable.
+Baskerville swordsmanship.
 
-Behind them—
+During the fight with Madam—
 
-a seventh had begun to form.
+Vikir had wielded the Sixth Fang at its limit.
 
-Small.
+Somewhere behind it—
 
-Incomplete.
+a smaller new fang had appeared.
 
-But real.
+The **Seventh Fang**.
 
-**Seventh Fang.**
+A seventh technique beyond the established six.
 
-A technique beyond the six-Fang High Sword Graduator stage.
+Vikir himself could not say exactly why it emerged.
 
-Vikir had not crossed the wall into Sword Master.
+Perhaps extreme danger had deepened his understanding of martial principles.
 
-Hugo had.
+Perhaps everything he had learned in Ballak had finally connected.
 
-That distinction mattered.
+Whatever the reason—
 
-Same sword-style depth did not mean same aura realm.
+the seventh fang existed.
 
-But Vikir now possessed at seventeen what he had only reached near the end of his previous forty-year life.
+Before regression, Vikir had mastered only four Baskerville forms.
 
-And with everything else he carried—
+Now he had touched seven.
 
-River Styx.
+Hugo Le Baskerville—
 
-Beelzebub.
+head of the family—
 
-Ballak archery.
+also wielded seven.
 
-Tracking.
+That comparison was enormous.
 
-Stealth.
+But Vikir did not confuse sword-form mastery with aura realm.
 
-Monster abilities.
+*Hugo is a Sword Master.*
 
-He no longer believed death against a Sword Master was inevitable.
+Even with the same number of Baskerville forms—
 
-His wrist opened.
+Hugo had crossed the wall Vikir still had not.
 
-Beelzebub emerged.
+Vikir was standing at the absolute summit of the Graduator stage.
 
-Longer.
+He had not become a Master.
 
-Darker.
+*Still…*
 
-More ominous.
+He had reached at seventeen what once took him until forty.
 
-> **Beelzebub**  
+If anyone else learned that fact—
+
+they might faint.
+
+Even the most famous geniuses in Baskerville history had not produced such a result.
+
+And now—
+
+with everything else added—
+
+Vikir no longer believed a one-on-one fight with a Sword Master meant certain defeat.
+
+*If it isn't a spar…*
+
+His eyes sharpened.
+
+*If it's a real fight to the death…*
+
+Victory was no longer impossible.
+
+Hugo's face surfaced in his thoughts.
+
+At the same time—
+
+Beelzebub emerged from the artery in his wrist.
+
+SHNK!
+
+The blade had become longer than before.
+
+Black metal.
+
+Red vein-like patterns.
+
+A more ominous presence than ever.
+
+The reason was obvious.
+
+> **Fly of Gluttony ‘Beelzebub’ / Awl**  
 > **Slot 1:** Venom — Madam Eight-Legs (S)  
 > **Slot 2:** Silent Heel — Mushuhushu (A+)  
 > **Slot 3:** Super High-Speed Regeneration — Bog Salamander (A+)
 
-The new poison made the weapon far more dangerous.
+Madam's spirit had entered the weapon.
 
-Then Vikir remembered something else.
+And the new ability—
 
-He reached into his storage pouch.
+**Venom**—
 
-A black sphere came out.
+made Beelzebub even deadlier.
 
-Soft.
+The poison condensed Madam's overwhelming malice.
+
+Even a tiny amount could kill.
+
+Vikir studied the result of the fight.
+
+Then remembered something else.
+
+*…What do I do with this?*
+
+His hand went inside the black cloak.
+
+Into the storage pouch.
+
+His fingers found something soft.
+
+Round.
 
 Elastic.
 
-Madam's final egg.
+Vikir pulled out a large black sphere.
 
-He had picked it up during the fight.
+Madam's egg.
 
-It had survived the fall.
+During the battle—
 
-Possibly unfertilized.
+Madam had eaten her own eggs to recover stamina.
 
-Possibly dead.
+This was the last one left behind.
 
-Possibly not.
+Vikir had picked it up almost automatically.
 
-Vikir put it away.
+*I saw it fall and grabbed it.*
 
-Research material, if nothing else.
+*I didn't expect it to survive the cliff drop.*
 
-Then he lay back.
+The shell was surprisingly tough.
+
+Not hard—
+
+elastic.
+
+Vikir struck it lightly a few times.
+
+It gave under the pressure—
+
+then sprang back.
+
+No crack.
+
+No obvious damage.
+
+No one around him seemed to know what the object really was.
+
+For now—
+
+it had simply been set aside.
+
+“Hm.”
+
+Vikir turned it once in his hand.
+
+“Could it hatch?”
+
+Once separated from the mother—
+
+even a healthy egg might fail.
+
+It could be unfertilized.
+
+The embryo could already be dead.
+
+The inside might have been damaged by the fall.
+
+No way to know.
+
+Vikir tucked it away again.
+
+If nothing else—
+
+it could become research material later.
+
+*…Time to leave.*
+
+He lay back on the straw.
 
 Two years.
 
-Ballak had given him more than he expected.
+A great deal had happened here.
 
-Strength.
+Experiences he would remember for life.
 
-Knowledge.
+He had regained the fighting power of his previous life's peak.
 
-A place to belong.
+Learned things the Empire did not know.
 
-But he could not stay forever.
+Made alliances.
 
-*When everything is finished…*
+Gained skills.
 
-The thought surprised him.
+But he could not remain forever.
 
-*I might come back.*
+Too much still waited outside the jungle.
 
-Knocking came from the tent flap.
+*Someday…*
+
+The thought came quietly.
+
+*When every plan is finished—*
+
+*coming back here might not be bad.*
+
+Knock.
+
+Knock.
+
+Knock.
+
+Someone tapped the tent flap.
 
 A figure entered.
 
+A cool night wind followed.
+
+It carried dew.
+
+The candle flame went out.
+
+“…?”
+
+Vikir watched the silhouette standing against the darkness outside.
+
 Aiyen.
 
-She stood beneath the night sky.
+Behind her—
 
-Unusually serious.
+deep blue sky.
 
-“Vikir.”
+A river of stars.
 
-He looked at her.
+She looked down at Vikir.
 
-“Can you help me with something?”
+Unusually solemn.
+
+“Aiyen?”
+
+She was normally quiet.
+
+Steady.
+
+Today—
+
+the seriousness was different.
+
+After a moment—
+
+she stepped closer.
+
+Then spoke in a low voice.
+
+“…Can you help me with something?”

@@ -1,32 +1,50 @@
 # Chapter 104: Nostalgia (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/104.txt` — `5adbd7b928a79f6c21075270a6f4f7b06713bdd2`. Recovered English Chapter 103 is the verified shifted secondary witness. Established terminology controls **Bakira**, **Madam Eight-Legs**, **Akwilla**, **Ballak Tribe**, **Rokoko**, **Renaissance**, **Ahun**, **Aheul**, **Red Salt Castle**, **Morgue**, **Camus Morgue**, **Colosseo Academy**, **Aiyen**, **Divine Archer Adonai**, **Anubis**, and **Oxbear**. Vikir is seventeen and Aiyen nineteen; their farewell kiss is retained briefly as nonsexual affection.
+> Chinese-primary reconstruction from `source/chinese/chapters/104.txt`. Recovered English Chapter 103 is the verified shifted secondary witness. Established terminology controls **Bakira**, **Madam Eight-Legs**, **Akwilla**, **Ballak Tribe**, **Rokoko**, **Renaissance**, **Ahun**, **Aheul**, **Red Salt Castle**, **Morgue**, **Camus Morgue**, **Colosseo Academy**, **Aiyen**, **Divine Archer Adonai**, **Anubis**, and **Oxbear**. Target 105 begins the next title family.
 
 Two months passed after Madam Eight-Legs disappeared.
 
 Bakira became a father.
 
-Five pups nursed beside their mother.
+Five wolf pups crowded against their mother and nursed.
 
-Among them lay a black sphere.
+It was a peaceful scene.
+
+Vikir watched quietly.
+
+Among the squirming pups—
+
+one black sphere stood out.
 
 Madam's egg.
 
-The wolves had kept it warm for two months.
+It looked like an enormous black pearl.
 
-Nothing happened.
+Unlike a pearl—
 
-No cracking.
+it was soft and elastic to the touch.
+
+For the last two months, Vikir had let the wolves keep it warm.
+
+He was beginning to suspect that had been pointless.
+
+The egg never changed.
+
+No crack.
 
 No movement.
 
-No sign of life.
+No sign of hatching.
 
-The pups treated it like a soft toy.
+The newborn pups treated it like a toy.
 
-Vikir repeatedly had to wipe saliva from it.
+They gnawed at the soft, springy surface whenever they could.
 
-Eventually he accepted that the experiment was going nowhere.
+Vikir had to wipe their saliva off it constantly.
+
+Eventually—
+
+he accepted that continuing the experiment had little value.
 
 It was time to leave.
 
@@ -34,246 +52,524 @@ The Empire.
 
 Baskerville.
 
-The return of the iron-blooded hound.
+The return of the Iron-Blooded Sword Hound.
 
-When Vikir announced his departure, messengers arrived from tribes across the floodlands.
+Time to go back to where he had come from.
+
+When Vikir announced his departure—
+
+messengers arrived not only from Ballak but from tribes throughout the neighboring floodlands.
 
 Akwilla did not try to stop him.
 
-He was not a slave.
+Why would she?
+
+He was not a slave anymore.
 
 He was family.
 
-Distance did not change that.
+And once someone became family—
 
-A great farewell feast gathered Ballak and neighboring tribes.
+distance could not break that bond.
 
-Everyone came to honor him.
+Akwilla organized a large feast and invited representatives from the surrounding tribes.
 
-No one said goodbye.
+It was meant to honor Vikir's departure.
 
-Ballak had no true word for it.
+Everyone who came respected him.
 
-To them—
+Loved him.
 
-a bond once formed did not end because people moved apart.
+Called him hero.
+
+But no one told him—
+
+“Goodbye.”
+
+Or—
+
+“Farewell.”
+
+There was a reason.
+
+*Ballak doesn't really have words like that.*
+
+Akwilla did not tell Vikir that she hoped to see him again.
+
+The idea itself did not fit Ballak's view of bonds.
+
+Once a relationship was formed—
+
+it did not disappear because people moved apart.
+
+It remained through distance.
+
+Through time.
+
+Separated—
+
+yet still together.
+
+So there was no need to ritualize an ending.
 
 Akwilla spoke warmly.
 
-“Wherever you go, you remain a Ballak hunter.”
+“Wherever you are—”
 
-She looked directly at him.
+she said—
 
-“Our family.”
+“you remain a hunting leader of Ballak.”
 
-Something unfamiliar settled in Vikir's chest.
+Her eyes softened.
 
-Belonging.
+“And our family.”
 
-Before regression, he had never felt it anywhere.
+“Don't forget that.”
 
-Returning to Baskerville now felt more like leaving home than going back to it.
+Vikir remained silent for a moment.
+
+Something strange rose inside his chest.
+
+Warm.
+
+Almost itchy.
+
+A sense of belonging.
+
+It had never rooted in him anywhere before regression.
+
+Not Baskerville.
+
+Not the Empire.
+
+Not even among the hounds who fought beside him in the Age of Destruction.
+
+Now—
+
+leaving Ballak for Baskerville felt less like going home—
+
+and more like leaving home for an unfamiliar place.
 
 Akwilla continued.
 
-“If you ever need us, call.”
+“You are a proud Ballak warrior.”
 
-Ballak cheered.
+“And a hero of the entire floodlands.”
 
-So did Rokoko.
+“If you ever face hardship—”
 
-Renaissance.
+“wherever you are—”
 
-Every allied tribe.
+“whoever the enemy is—”
 
-“Our hero!”
+“we will help you with everything we have.”
 
-“Call us anytime!”
+The answer did not come only from Ballak.
 
-“Remember us!”
+Rokoko shamans raised their voices.
 
-“May your path be blessed!”
+Renaissance berserkers shouted with them.
 
-The younger Ballak warriors were the most emotional.
+Then other tribes.
 
-Ahun struck his chest.
+All across the floodlands—
 
-“Come back whenever you want!”
+people cheered.
+
+“Our hero! Call us anytime!”
+
+“We'll come!”
+
+“Think of us sometimes!”
+
+“We love you!”
+
+“Vikir! Go conquer the Empire too!”
+
+“May the hero's road be blessed!”
+
+The people who had spent the last two years closest to him were the hardest hit by the departure.
+
+The younger Ballak warriors.
+
+Especially Ahun.
+
+His eyes were wet.
+
+He pounded his chest like a gorilla.
+
+“Vikir! Come back whenever you want!”
+
+“We'll be here!”
+
+“If you're in trouble, call us!”
 
 Aheul stood nearby.
 
-Taller now.
+She had grown much taller during the last two years.
 
-Eyes wet.
+Her eyes were wet too.
 
-She handed Vikir food wrapped in leaves.
+“Brother Vikir.”
 
-Cream-seasoned larva skewers.
+“Send word sometimes.”
 
-A precious gift by Ballak standards.
+“You have to.”
 
-Vikir smiled.
+“If you don't…”
 
-He had smiled here more often in two years than in the entire forty years of his previous life.
+She did not finish.
 
-Then he left.
+Instead—
 
-Almost everyone had come.
+she handed him a lunch wrapped in leaves.
 
-Almost.
+Inside was one of Ballak's valuable delicacies.
 
-Vikir searched the crowd once.
+Cream-flavored larva skewers.
 
-Aiyen was missing.
+Vikir's mouth twisted into a dry smile.
 
-She had avoided the village since hearing that he was leaving.
+He had never smiled like this often before.
 
-She did not attend the farewell.
+Not before regression.
 
-Vikir looked back toward her empty tent.
+Not after.
 
-Only for a few seconds.
+During two years in the floodlands—
 
-Then turned toward the border.
+he had probably smiled more times than during the entire forty years of his previous life.
 
-The first steps felt heavy.
+“Travel well, Vikir!”
 
-The next became steady.
+“Our hero!”
 
-*Time to go home.*
+The Ballak warriors waved.
+
+Their expressions mixed happiness and reluctance.
+
+Still—
+
+no one said goodbye.
+
+Soon—
+
+Vikir left the place that had become familiar.
+
+…
+
+No.
+
+Not everyone had come to see him off.
+
+Vikir had searched the crowd for one face.
+
+He never found it.
+
+Aiyen.
+
+Ever since Vikir announced he was leaving—
+
+she had barely appeared in the village.
+
+And now—
+
+she did not attend the farewell feast.
+
+Everyone noticed.
+
+The woman who normally stayed closest to Vikir—
+
+was missing.
+
+*…Nothing to be done.*
+
+Outside the village—
+
+Vikir looked once toward Aiyen's empty tent.
+
+He stopped for several seconds.
+
+Then turned away.
+
+His first step toward the floodland border felt weak.
+
+The next was firmer.
+
+Then another.
+
+*Now I really am going home.*
 
 ◆◆◆
 
-Beyond the floodlands, familiar land appeared.
+Vikir soon reached the edge of the floodlands.
+
+From a high rock ridge—
+
+a familiar fortress came into view.
 
 **Red Salt Castle.**
 
-Morgue's mining fortress.
+The mining city the Morgue family had built to exploit the ruby deposits around the Red Fang region.
 
-Ruby veins cut through the surrounding ground.
+Massive earthen walls.
 
-The walls had become stronger over the last two years.
+Wooden palisades.
 
-Vikir remembered Camus.
+Stone buildings.
 
-Two years earlier—
+Rough.
 
-fifteen.
+Heavy.
 
-Now seventeen.
+Practical.
 
-Perhaps already at Colosseo Academy.
+And noticeably more fortified than two years ago.
 
-She had once talked endlessly about early admission.
+Apparently the Morgue forces had strengthened the defenses against native attacks.
 
-*She probably forgot me.*
+Ruby-bearing land stretched outward.
 
-Vikir smiled faintly.
+Dark clouds gathered above it.
+
+Red and black still stained the entire landscape with the same ominous colors Vikir remembered.
+
+*Still mining.*
+
+He started toward the Morgue fortress.
+
+Two years.
+
+A face surfaced in his memory.
+
+Camus Morgue.
+
+Would she still be there?
+
+If everything had progressed normally—
+
+she would be seventeen now.
+
+For many noble daughters—
+
+that would already be considered marriageable adulthood.
+
+Camus's situation was different.
+
+Morgue was matriarchal.
+
+And Camus had always been unusual even by its standards.
+
+Vikir remembered her talking behind him two years earlier.
+
+> *When are you entering the academy? Let's coordinate.*
+>
+> *I might enter one or two years early.*
+>
+> *Wouldn't it be fun if we ended up in the same year?*
+
+At fifteen—
+
+Camus had already been considering early entrance to **Colosseo Academy**.
+
+Perhaps she was there now.
+
+*Someone like me is probably old history to her.*
+
+Vikir gave a faint smile.
+
+An eight-year-old's first love—
+
+from the perspective of a seventeen-year-old—
+
+would normally become nothing more than an embarrassing memory.
+
+He continued across the wilderness.
+
+Wind moved through blooming fields of cotton.
 
 Then—
 
-“Hey, slave!”
+“Hey! Slave!”
 
-He stopped.
+Vikir stopped.
 
 Turned.
 
-Aiyen stood among the cotton plants.
+A woman stood behind him.
 
-Silver-black hair in the wind.
+Silver-black hair.
 
 Pointed ears.
 
-Red eyes.
+Red-rimmed eyes.
 
-Nineteen now.
+Nineteen years old now.
+
+Aiyen.
+
+She stood in the cotton field with the wind blowing against her.
 
 “You're leaving?”
 
-Vikir said nothing.
+“…”
 
 “Really?”
 
-She approached.
+Her voice was low.
 
-“If you're going…”
+Vikir did not answer.
 
-Her hand trembled.
+Aiyen came closer.
 
-“Take this.”
+“If you're going—”
 
-A massive black bow.
+her hand trembled slightly—
 
-Adonai's bow.
+“take this.”
 
-Now complete.
+Vikir's eyes widened.
 
-A white bowstring had been added.
+“…!”
+
+A huge black bow.
+
+Pitch-dark from end to end.
+
+The bow once wielded by Divine Archer Adonai.
+
+But something had changed.
+
+It had a bowstring now.
+
+White.
+
+Tough.
+
+Vikir recognized the material.
 
 Madam Eight-Legs' webbing.
 
-The ancient weapon had been restored.
+The nearly unbreakable silk she produced and stored had been turned into a proper string.
+
+The ancient black weapon was complete.
 
 **Anubis.**
 
-The strongest bow in Ballak history.
+The strongest bow in Ballak's recorded history—
 
-*So that's where she was.*
+restored to its proper form.
 
-Aiyen had spent the missing days finishing it.
+*So this is why she disappeared.*
 
-Then she placed something around Vikir's neck.
+Vikir looked down at the weapon.
+
+Then—
+
+click.
+
+Something closed around his neck.
 
 A short black collar.
 
 Oxbear hide.
 
-From the first prey they had hunted together.
+Tough leather from the first prey Vikir and Aiyen had hunted together.
 
-“Don't take it off.”
+Aiyen fastened it carefully.
+
+Her voice shook.
+
+“…Don't take it off.”
+
+“Understood.”
 
 Vikir nodded.
 
-“I won't.”
+Then looked at her.
 
-They looked at each other.
+Aiyen raised her eyes—
 
-Two years had changed them.
+but not fully.
 
-When they met, Aiyen had towered over him and given orders.
+“…”
 
-Now Vikir was taller.
+“…”
 
-He tried one of his bad jokes.
+Two years had changed their positions.
 
-“You got shorter.”
+When they first met—
 
-Aiyen ignored it.
+Aiyen had been taller by an entire head.
 
-She stepped forward.
+She had looked down and given orders.
 
-Punched him in the stomach.
+Now—
 
-Vikir bent reflexively.
+Vikir was taller by roughly the same margin.
 
-Aiyen grabbed the collar.
+And Aiyen was the one who struggled to meet his eyes.
 
-Pulled him closer.
+Vikir tried to break the awkwardness.
 
-Then kissed him.
+“You got a lot shorter.”
 
-Briefly.
+One of his usual bad jokes.
 
-No words.
+Aiyen did not react.
 
-She pushed him away almost immediately.
+Instead—
 
-Turned her back.
+step.
 
-Then spoke in imperfect Imperial.
+Step.
 
-“……See you again.”
+She approached quickly.
 
-The phrase did not exist in Ballak.
+Then—
 
-That was why it mattered.
+THUMP!
+
+Her fist drove into Vikir's abdomen.
+
+The surprise made him bend forward with a suppressed grunt.
+
+Aiyen grabbed the collar around his neck.
+
+Pulled.
+
+“…!”
+
+Vikir bent.
+
+Aiyen rose onto her toes.
+
+For one instant—
+
+their faces came to exactly the same height.
+
+Their lips met.
+
+…
+
+A moment that felt endless.
+
+An eternity that passed in an instant.
+
+Vikir could not tell how long it lasted.
+
+Then Aiyen pushed against his chest.
+
+Stepped back.
+
+Turned away.
+
+Her breathing was unsteady.
+
+And in clumsy Imperial—
+
+the language Ballak itself had never needed for farewells—
+
+she said:
+
+“…See you again.”

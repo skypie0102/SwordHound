@@ -2,8 +2,8 @@
   "chapter": 102,
   "title": "Nostalgia (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -11,8 +11,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
-    "status": "pass"
+    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/102.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-101.xhtml",
     "english_reference_sha": "e4aab893ce71c7fc09dbe61db1e076a283241b99",
     "draft_path": "manuscript/drafts/chapter-0102.md",
-    "draft_sha": "4311b6fdf3fbbf0ef02ab69fc44daec2443c2441",
+    "draft_sha": "4d6cc59e7d6f8cd80f1bd7e248f315b3f8618897",
     "qa_path": "qa/chapter-0102.md",
-    "qa_sha": "391fe8a0fc44a60fa591778f3cee294a7bf13111",
+    "qa_sha": "b03d733ce7f5477b77bd66b4291696b8317a7d4b",
     "provenance_path": "editorial/provenance/chapter-0102.json",
-    "provenance_sha": "5b4f889081f3ac9a6d09a1dc4f114d0fe93bc052"
+    "provenance_sha": "e34c1e95582fb4a31a7f22f2b173e6f9321d5f2e"
   },
   "canonical_checks": [
     "Peak Sword Graduator",
@@ -39,5 +39,18 @@
   "documented_limits": [
     "Recovered-English numbering lags target by one chapter.",
     "No target-105 Returned Hero statue/reveal material is imported backward."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "4311b6fdf3fbbf0ef02ab69fc44daec2443c2441",
+    "qa_sha": "391fe8a0fc44a60fa591778f3cee294a7bf13111",
+    "provenance_sha": "5b4f889081f3ac9a6d09a1dc4f114d0fe93bc052"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  }
 }

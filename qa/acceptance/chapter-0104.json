@@ -2,8 +2,8 @@
   "chapter": 104,
   "title": "Nostalgia (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -11,8 +11,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
-    "status": "pass"
+    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/104.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-103.xhtml",
     "english_reference_sha": "4d0c6cf4b03837358ade68d5fd4bbbcca7cb7084",
     "draft_path": "manuscript/drafts/chapter-0104.md",
-    "draft_sha": "fbb319a494db39e3f63d2cb7c3c40a0bd21a3774",
+    "draft_sha": "0d954e0e9cf77c8da9964f97a60e6cdaa78ab811",
     "qa_path": "qa/chapter-0104.md",
-    "qa_sha": "fbb9209b282352289d5f32501f671a78fa5aae4b",
+    "qa_sha": "1c2717b5d645b627fb9318e6f4e6987c1fe5a9cd",
     "provenance_path": "editorial/provenance/chapter-0104.json",
-    "provenance_sha": "d669234ebfe83523fd427680d1551024c040ad7b"
+    "provenance_sha": "5188f76c3120e571b166555679c283d09d21b423"
   },
   "canonical_checks": [
     "Anubis",
@@ -41,5 +41,18 @@
   "documented_limits": [
     "Recovered-English numbering lags target by one chapter.",
     "No target-105 Returned Hero statue/reveal material is imported backward."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "fbb319a494db39e3f63d2cb7c3c40a0bd21a3774",
+    "qa_sha": "fbb9209b282352289d5f32501f671a78fa5aae4b",
+    "provenance_sha": "d669234ebfe83523fd427680d1551024c040ad7b"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  }
 }

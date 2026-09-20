@@ -1,18 +1,20 @@
 # Chapter 101 QA — Nostalgia (1)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/nostalgia-0101-0104.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE AND CORRECTED PRECEDING BOUNDARY  
+**Completeness-audit review:** 2026-09-20  
+**Family acceptance:** contingent on revised `qa/families/nostalgia-0101-0104.md`
 
 ## Evidence
 - Chinese: `source/chinese/chapters/101.txt` — `efce896878033b37c07d419a5533ea538fa601bf`
 - English witness: **E100** — `fd40f3fd52afa198ff059e4295e47630b294360e`
-- Draft: `manuscript/drafts/chapter-0101.md` — `76f635afd2850c78c035d1399b9b9e97bb7980f5`
+- Rebuilt draft: `manuscript/drafts/chapter-0101.md` — `ff0955563df2a7053e9c6a15c0e5d430fee2e9c1`
 
-## Checks
-- PASS — the cliff-impact / Madam-death / Beelzebub-slot sequence intentionally reprises the end of target 100; it is source-level repetition, not an accidental duplicate to remove.
-- PASS — Bog Salamander carcass remains the prepared fall cushion.
-- PASS — Madam survives the fall briefly and is finished by Vikir.
-- PASS — Beelzebub final state remains Venom / Silent Heel / Super High-Speed Regeneration.
-- PASS — Cerberus is displaced by Madam in Slot 1.
-- PASS — rescue endpoint preserves Bakira and Aiyen finding Vikir alive before he blacks out.
-- PASS — no target-102 recovery/crowd/Seventh Fang material is pulled backward.
+## Completeness / boundary findings
+- Historical target101 was materially condensed, but its source alignment is correct: Chinese101/E100 begin at the Bog Salamander impact and end at Vikir's rescue blackout.
+- The former target100/101 overlap has been eliminated. Target100 now ends before impact; target101 owns the landing, Madam death, Venom acquisition, collapse, and rescue exactly once.
+- Restored the full impact/body assessment, the boneless-corpse cushioning logic, decomposition/gas/stench details, and Vikir's external/internal injury check.
+- Restored Madam's post-fall anatomy, pure fear response, “death hound” image, repeated body-weight thrusts, and full karma framing around the dead Ballak/jungle tribes.
+- PASS — Beelzebub's pre-Madam slots are Incinerate / Silent Heel / Super High-Speed Regeneration; Madam's S-rank soul displaces Cerberus from Slot 1 after the spirit-territory struggle.
+- PASS — post-Madam state is Venom — Madam Eight-Legs (S), Silent Heel — Mushuhushu (A+), Super High-Speed Regeneration — Bog Salamander (A+).
+- PASS — Madam remains barely mobile after partial soul absorption; Vikir collapses from starvation, sleep loss, repeated regeneration, and aura-damaged blood vessels.
+- PASS — dream-face sequence and Bakira/Aiyen rescue are retained; chapter ends on Vikir wondering if it is a dream before blacking out again.

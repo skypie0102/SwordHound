@@ -1,7 +1,7 @@
 {
   "chapter": 101,
   "title": "Nostalgia (1)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -9,8 +9,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
-    "status": "pass"
+    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/101.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0101.md",
-    "blob_sha": "76f635afd2850c78c035d1399b9b9e97bb7980f5"
+    "blob_sha": "ff0955563df2a7053e9c6a15c0e5d430fee2e9c1"
   },
   "qa": {
     "path": "qa/chapter-0101.md",
-    "blob_sha": "e9b6a0b43dd18edac3a63695c41f47e04124fe42",
-    "status": "pass"
+    "blob_sha": "74b226f9111259742071e1c535a84c46ccb327b9",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -57,5 +57,27 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "76f635afd2850c78c035d1399b9b9e97bb7980f5",
+    "qa_sha": "e9b6a0b43dd18edac3a63695c41f47e04124fe42"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  },
+  "boundary_correction": {
+    "status": "verified",
+    "final": "Target101 begins at Bog Salamander impact and exclusively owns landing/Madam death/Venom/rescue; target100 ends before impact.",
+    "evidence": [
+      "source/chinese/chapters/100.txt",
+      "source/chinese/chapters/101.txt",
+      "source/chapters/chapter-099.xhtml",
+      "source/chapters/chapter-100.xhtml"
+    ]
+  }
 }

@@ -13,9 +13,11 @@ Current checkpoint: **post-500 manuscript completeness audit**.
 - Current tracker state: **497 accepted / 3 needs rework**
 - Confirmed compressed chapters still requiring rebuild: **316, 319, 420**; Chapter **97 has been rebuilt and resolved**
 - Initial priority-review queue: **47 ordinary one-target chapters** with unusually low draft/raw byte ratios (<0.60); this is a triage heuristic, not an automatic failure rule
-- Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)** — rebuilt and passed
-- Pending initial-priority chapters: **37**
-- Next audit family: **Nostalgia (101–104)**
+- Completed audit families: **Nostalgia (101–104)** added after the Madam boundary repair.
+
+Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)** — rebuilt and passed
+- Pending initial-priority chapters: **33**
+- Next audit family: **Attack Land (190–196)**
 - Active audit record: `qa/manuscript-completeness-audit.md`
 - EPUB assembly is **blocked until the completeness audit closes**
 
