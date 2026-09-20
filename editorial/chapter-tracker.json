@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 424,
+  "accepted_count": 429,
   "staged_count": 0,
-  "next_chapter": 425,
+  "next_chapter": 430,
   "active_title_family": {
-    "name": "The Night Walkers",
+    "name": "The Lion King",
     "range": [
-      425,
-      429
+      430,
+      433
     ],
-    "boundary_status": "verified complete: target425→E423 through target429→E427",
-    "following_family_starts": 430,
-    "following_title": "The Lion King (1)",
-    "alignment_note": "425→E423 through 429→E427; target430→E428 begins The Lion King (1)."
+    "boundary_status": "verified complete: target430→E428 through target433→E431",
+    "following_family_starts": 434,
+    "following_title": "The Returned Hound (1)",
+    "alignment_note": "430→E428 The Lion King (1) through 433→E431 The Lion King (4); 434→E432 begins The Returned Hound (1), continuing through target436→E434."
   },
   "chapters": [
     {
@@ -5951,6 +5951,76 @@
       "acceptance": "qa/acceptance/chapter-0424.json",
       "acceptance_sha": "d0d86835acf4191f921e3fb9272cad67c64a768b",
       "family_qa": "qa/families/wandering-knight-0422-0424.md"
+    },
+    {
+      "chapter": 425,
+      "title": "The Night Walkers (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/425.txt",
+      "english_mtl_reference": "source/chapters/chapter-423.xhtml",
+      "draft": "manuscript/drafts/chapter-0425.md",
+      "qa": "qa/chapter-0425.md",
+      "provenance": "editorial/provenance/chapter-0425.json",
+      "acceptance": "qa/acceptance/chapter-0425.json",
+      "acceptance_sha": "6efc355528bb363d3cb6736eec673100a855622d",
+      "family_qa": "qa/families/night-walkers-0425-0429.md"
+    },
+    {
+      "chapter": 426,
+      "title": "The Night Walkers (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/426.txt",
+      "english_mtl_reference": "source/chapters/chapter-424.xhtml",
+      "draft": "manuscript/drafts/chapter-0426.md",
+      "qa": "qa/chapter-0426.md",
+      "provenance": "editorial/provenance/chapter-0426.json",
+      "acceptance": "qa/acceptance/chapter-0426.json",
+      "acceptance_sha": "0c3f9724ce24df987aaa6c14e25a806fd3bd1079",
+      "family_qa": "qa/families/night-walkers-0425-0429.md"
+    },
+    {
+      "chapter": 427,
+      "title": "The Night Walkers (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/427.txt",
+      "english_mtl_reference": "source/chapters/chapter-425.xhtml",
+      "draft": "manuscript/drafts/chapter-0427.md",
+      "qa": "qa/chapter-0427.md",
+      "provenance": "editorial/provenance/chapter-0427.json",
+      "acceptance": "qa/acceptance/chapter-0427.json",
+      "acceptance_sha": "2b371c39b8ca25c20cde9ba1b487d81f25f181cd",
+      "family_qa": "qa/families/night-walkers-0425-0429.md"
+    },
+    {
+      "chapter": 428,
+      "title": "The Night Walkers (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/428.txt",
+      "english_mtl_reference": "source/chapters/chapter-426.xhtml",
+      "draft": "manuscript/drafts/chapter-0428.md",
+      "qa": "qa/chapter-0428.md",
+      "provenance": "editorial/provenance/chapter-0428.json",
+      "acceptance": "qa/acceptance/chapter-0428.json",
+      "acceptance_sha": "b64d7414458a33ca9e7815722d922a9e8d82b35a",
+      "family_qa": "qa/families/night-walkers-0425-0429.md"
+    },
+    {
+      "chapter": 429,
+      "title": "The Night Walkers (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/429.txt",
+      "english_mtl_reference": "source/chapters/chapter-427.xhtml",
+      "draft": "manuscript/drafts/chapter-0429.md",
+      "qa": "qa/chapter-0429.md",
+      "provenance": "editorial/provenance/chapter-0429.json",
+      "acceptance": "qa/acceptance/chapter-0429.json",
+      "acceptance_sha": "6f66c696428f86372a68f36a314c6b8e3610c91c",
+      "family_qa": "qa/families/night-walkers-0425-0429.md"
     }
   ]
 }
