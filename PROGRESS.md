@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Shadowless King completeness rebuild (326–330)
+
+**Audit result:** all five historical drafts were materially compressed and rebuilt; family now **PASS**.
+
+Priority target **328** is resolved.
+
+Major restorations: all-six-stat Level1 logic; Magic Resistance/Camus precedent; A+ Blaze; Beetlemen ship construction; deep Black Sea salvage; oil-paper-bag air source; S-rank independent Shadowless King; canonical Beelzebub slots; Starvation Drought; venom/Immortality responses; Daylily buoyancy and timed bag dissolution; forced ascent and story-world pressure damage; Beetlemen propulsion; field-knot air-sac lattice; Baby Madam silk extraction; Blaze chain ignition; Bianca precedent; and separate achievement notices.
+
+Initial priority queue now has **6 pending chapters**.
+
+Next audit family: **The Mating Room (333–338)**.
+
+
 ## 2026-09-20 — Underdogma completeness rebuild (321–325)
 
 **Audit result:** all five historical drafts were materially compressed and rebuilt; family now **PASS**.
