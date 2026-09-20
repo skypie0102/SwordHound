@@ -12,7 +12,7 @@
 | 56 | `056.txt` — `3347b3a5328b1e4629b4fea513c910aae2d851d5` | **E56** — `684b391e07bb916d944c1bea14ff642eb3007cac` | `ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694` | `cfb11c27d12eccfa7ceb398cf45e6b7594c92b9d` |
 | 57 | `057.txt` — `f54503f85e50714fca60b34ff319f4f7ae46166b` | no clean standalone English chapter; E56 partially overlaps the Oxbear-selection setup | `d899cea4cc984265211b60bea59fd46a545ee431` | `7f071afca07011058b38a354d119dac7bc5c7f48` |
 | 58 | `058.txt` — `230b6b91bc511e93968956eb799aac9c44441c5e` | **E57** — `33f218cebdc7c91bdd8994b20d30465ecbaaebfa` | `b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0` | `403129422383f71784e7497e3b01764ab872e574` |
-| 59 | `059.txt` — `c75833db41cf967973b4679cd6e43c9cfb774770` | **E58** — `1e572c7583b36443b10599e7128398bcf5529ea9` | `81f795ca217e845ef43e135d749081c3c12d5779` | `54d5b0e4a460771b9f5f34700f32db1f9bc7e8c2` |
+| 59 | `059.txt` — `c75833db41cf967973b4679cd6e43c9cfb774770` | **E58** — `1e572c7583b36443b10599e7128398bcf5529ea9` | `98216e73da8172c31c2a0634e4e66ca97dae7d04` | `66ef0ad38b0a7be40e11bdcbff1289aa064f9016` |
 | 60 | `060.txt` — `406e7fe32dc61ee383a11d2405bf85f0684e4814` | **E59** — `5e13cc1bc24061a5a94eba0ad352e5126ee65bdd` | `df77f7700668f8d28bc7ec5f8afa83a02c8b5513` | `c35796d733c7b5b9728803a382be31d8214bcc95` |
 | boundary | `061.txt` — `834abb36714ce9d7329e7854720ea20170ce5586` | **E60** — `cf367731f723c719b61b06070cb648fa9cf23a95` | next family | next family |
 
@@ -64,6 +64,18 @@ Chinese target 61 changes family and begins the post-hunt harvest/plunder-festiv
 - Target 60 Beelzebub window: **Slot 1 Incinerate — Cerberus (A+)**.
 - The Oxbear kill remains explicit: heated arrows destroy the injured left eye; Beelzebub penetrates mouth/palate/skull and burns the brain.
 - The closing “collect your seed” contingency is retained as a Ballak reproductive joke at a clinical/non-erotic level; no sexual detail is added.
+
+## Completeness residual re-audit — 2026-09-20
+
+The whole-corpus low-tail sweep reopened target 59 after direct comparison showed that its historical draft compressed ordinary tracking/camp narration in addition to the documented safety-limited material.
+
+- Targets 55–58 and 60 retain their mapped source sequence and family boundaries under the existing direct family review.
+- Target 59 was rebuilt against C059, then checked again against E58 as a secondary coverage witness.
+- Restored target-59 material includes the full tracking cues, scented-bait logic, exact mosquito categories, Cold Valley terrain/shelter detail, Age-of-Destruction memory context, feeding setup, Bakira exchange, and counterattack transition.
+- Safety-limited underage sexualized detail remains summarized nonsexually.
+- Post-rebuild E58 lexical residual: 1 / 132 paragraphs below the conservative overlap floor (0.8%); direct Chinese comparison found no remaining ordinary narrative/continuity omission.
+
+**Completeness result:** PASS.
 
 ## Acceptance result
 
