@@ -1,275 +1,499 @@
 # Chapter 333: The Mating Room (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/333.txt`. Recovered English Chapter 331 is the verified shifted secondary witness. Established repo terminology controls Vikir, Decarabia, Baby Madam, Amdusias, the Hell Tree, Colosseo Academy, Dragon Majin, and tower-floor naming. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/333.txt`. Recovered English Chapter 331 is the verified shifted secondary witness. Established project terminology controls **Vikir**, **Decarabia**, **Baby Madam**, **Amdusias**, **Colosseo Academy**, **Dragon Majin**, and tower-floor naming. The laboratory is a coercive specimen facility, not a romantic setting.
 
 The sound of waves faded.
 
-So did the fairy’s parting words.
+So did the fairy's voice.
 
-[LET’S NEVER MEET AGAIN.]
+[That was disgusting, wasn't it?]
 
-DING.
+[Let's never meet again?]
 
-[Leaving Basement Floor4 — Island in the Black Sea.]
+Ding.
 
-[Leaving Basement Floor5 — Scorching Desert.]
+[Leaving Basement Floor 4 — Island in the Black Sea.]
 
-[Leaving Basement Floor6 — Flooded Woodland.]
+[Leaving Basement Floor 5 — Scorching Desert.]
 
-[Leaving Basement Floor7 — Snail-Slime Ruins.]
+[Leaving Basement Floor 6 — Flooded Woodland.]
 
-[Leaving Basement Floor8 — Headhunter Ruins.]
+[Leaving Basement Floor 7 — Snail-Slime Ruins.]
 
-[Entering Basement Floor9 — Dragon Majin’s Laboratory.]
+[Leaving Basement Floor 8 — Human Hunter Ruins.]
 
-Vikir’s body dropped.
+[Entering Basement Floor 9 — Dragon Majin's Laboratory.]
+
+Vikir's body dropped.
 
 Fast.
 
 *So this is what skipping four floors feels like.*
 
-His stomach rose.
+It resembled a tower elevator falling too quickly—
 
-His feet tingled.
+or high-altitude jump training.
 
-Scenes flashed past.
+A tingling sensation began in the soles of his feet—
 
-A desert with nothing but sand and burned trees.
+then ran all the way to his head.
 
-A dense forest half-submerged in swamp water.
+Scenes flashed past him like pages turning too quickly.
 
-A ruined city coated in strange slime.
+A desert—
 
-An ancient settlement overrun by cannibalistic creatures.
+scorching and dry—
+
+nothing but sand and charred trees.
+
+A dense forest of towering trunks—
+
+swamp water reaching halfway up them.
+
+A ruined city—
+
+everything coated in strange mucus.
+
+An ancient civilization overrun by savage man-eaters.
 
 Then—
 
 THUD.
 
-Vikir hit the Floor9 gate.
+Vikir hit the Basement Floor 9 transfer point.
 
 Rolled.
 
 Absorbed the impact.
 
-Then looked around.
+Stood.
 
-A cube-shaped enclosure.
+And looked around.
+
+A cubic enclosure.
 
 Translucent walls.
 
-Deep piles of soft wood shavings.
+The floor buried beneath deep wood shavings.
 
-A feeding dish with a few red, green, and blue candies.
+Each shaving—
 
-A water pipe.
+thin as paper.
 
-A wheel large enough to run inside.
+Soft.
 
-Decarabia said what Vikir was thinking.
+Dry.
 
-[This looks like a hamster enclosure.]
+Piled high enough to look almost comfortable.
 
-“Hack, hack.”
+In one corner—
+
+a large bowl containing a few red, green, and blue candies.
+
+Across from it—
+
+a pipe dripping water.
+
+Beside that—
+
+a wheel large enough for a person to climb into and run.
+
+Decarabia spoke first.
+
+[This looks like a hamster cage.]
+
+[Chik.]
 
 Baby Madam agreed.
 
+Vikir could not disagree.
+
+Small enclosure.
+
+Deep bedding.
+
+Food bowl.
+
+Water dispenser.
+
+Exercise wheel.
+
+Everything matched.
+
+He crouched.
+
+Then—
+
+SCRAPE.
+
+SCRAPE.
+
+Like a hamster building a nest—
+
 Vikir dug into the wood shavings.
 
-Made a hollow.
+He created a hollow.
 
-The inside was unexpectedly warm.
+Crawled inside.
+
+The interior was surprisingly warm.
 
 Comfortable.
 
-*The floor is called a laboratory.*
+*This floor is called a laboratory.*
 
-The place was clearly built to keep living specimens.
+A breeding enclosure—
 
-Vikir remembered old survivor records.
+built for whatever the Dragon Majin considered experimental material.
 
-*Dragon Majin.*
+Vikir remembered the pre-regression records.
 
-*Descendants of dragonkind who sided with demons.*
+**Dragon Majin.**
 
-*Creatures ordinary challengers cannot confront.*
+Descendants of dragonkind who had allied with demons.
 
-This kind of laboratory could appear at different points for different challengers.
+Beings far beyond the level an ordinary challenger could confront directly.
 
-Floor2.
+This was not merely a dungeon floor.
 
-Floor9.
+It was—
 
-Floor13.
+in the truest sense—
 
-Deeper.
+a laboratory.
 
-Its purpose remained the same.
+A research facility run by an absolute superior species.
 
-Capture creatures from different world fragments.
+Humans kept mice and livestock in cages when they needed specimens.
 
-Breed them.
+The Dragon Majin did the same.
 
-Alter them.
+Old survivor accounts had described this place.
 
-Produce bosses.
+A facility where creatures taken from the Hell Tree's many floors—
 
-Variants.
+or from world fragments swallowed by Amdusias—
 
-Subspecies.
+were collected.
 
-And experimental monsters.
+Raised.
 
-The difficulty was extreme in either direction.
+Bred.
 
-Almost trivial—
+Altered.
+
+Used to create—
+
+boss monsters.
+
+subspecies.
+
+lower forms.
+
+mutants.
+
+experimental lines.
+
+The laboratory did not always appear on Basement Floor 9.
+
+One challenger might encounter it on Floor 2.
+
+Another on Floor 13.
+
+Someone else—
+
+far deeper.
+
+But every record agreed on one point.
+
+The difficulty was extreme.
+
+Either absurdly easy—
 
 or nearly impossible.
 
-Vikir struck the translucent wall.
+Nothing in between.
 
-BOOM.
+Vikir clenched one fist.
 
-It did not move.
+Then struck the translucent wall.
 
-Even a Master would struggle to break it.
+BOOM!
 
-Decarabia snorted.
+The enclosure shook.
 
-[So this was the fairies’ confidence.]
+The wall—
 
-[They skipped us here because they think this stage will stop us.]
+did not.
+
+*As expected.*
+
+Without Master-class force—
+
+breaking it directly was not realistic.
+
+Decarabia clicked its tongue.
+
+[So the fairies had something prepared after all.]
+
+[They skipped us down here because they believe this room will stop you.]
 
 Vikir agreed.
 
-The gamblers had lost repeatedly.
+If he had cleared Floors 5, 6, 7, and 8 normally—
 
-So they had moved the troublesome player to a table where the house expected to win.
+he might have extracted four more sets of rewards.
 
-He walked the enclosure.
+At that rate—
 
-Past the feeder.
+the fairies would go bankrupt.
 
-Water.
+*Gamblers terrified by a beginner's winning streak.*
 
-Wheel.
+*So they invited him to a game the house believes it cannot lose.*
 
-Then pressed close to the wall.
+Vikir did not panic.
 
-Signs were visible outside.
+The wall could not be broken by force.
 
-Old writing from a dead magical civilization.
+He already knew that from the memoirs.
 
-Vikir deciphered them slowly.
+So he walked.
 
-**Incubation Room.**
+Through knee-deep shavings.
 
-**Collection Room.**
+Past the feed bowl.
 
-**Spawning Room.**
+Past the water pipe.
 
-**Blood-Collection Room.**
+Past the exercise wheel.
 
-**Fighting Room.**
+Until he reached the outer wall.
 
-Behind each label—
+Vikir pressed his face close.
 
-another translucent enclosure.
+Beyond the translucent barrier—
 
-Eggs pulsed in the incubation room.
+signs.
 
-Captured creatures wandered the collection room.
+Written in the language of an ancient magical civilization long since destroyed.
 
-Some looked broken beyond reason.
+His knowledge came only from general-education classes.
 
-The spawning room contained heavily altered pregnant monsters.
+Enough—
 
-The blood room—
+barely—
 
-subjects drained almost to mummification.
+to read some of them.
 
-The fighting room—
+> **Incubation Room**
 
-monsters tearing into each other as though only the last survivor would be released.
+> **Collection Room**
 
-There were more rooms.
+> **Spawning Room**
 
-More signs Vikir could not fully read.
+> **Blood-Collection Room**
 
-His own cage had one too.
+> **Fighting Room**
 
-He looked up.
+Behind each sign—
 
-Slowly sounded out the old characters.
+another enclosure.
+
+The **Incubation Room** held rows of unidentified eggs.
+
+Veins pulsed across shells beneath dim light.
+
+The **Collection Room** contained creatures captured from other floors.
+
+Insects.
+
+Beasts.
+
+Birds.
+
+Fish.
+
+Crustaceans.
+
+And—
+
+in one corner—
+
+several humanlike prisoners.
+
+They sat curled together.
+
+Blank-eyed.
+
+Already broken.
+
+The **Spawning Room** contained gravid monsters prepared for birth.
+
+Their bodies looked chemically distorted—
+
+abdomens swollen unnaturally—
+
+as if experimental drugs had been forced into them.
+
+The **Blood-Collection Room** was worse.
+
+Creatures hung like dried corpses.
+
+Drained continuously.
+
+Alive—
+
+but with expressions that seemed to beg for death.
+
+Then—
+
+Vikir's attention fixed on the **Fighting Room**.
+
+BOOM!
+
+RUMBLE!
+
+Monsters—
+
+fang.
+
+claw.
+
+horn.
+
+blade.
+
+They tore into one another.
+
+The impacts alone proved they were far above common beasts.
+
+Perhaps each believed—
+
+only the final survivor would be released.
+
+There were more cages.
+
+More signs.
+
+Some too damaged—
+
+or too archaic—
+
+for Vikir to decipher.
+
+His own enclosure was only one among many.
+
+*Then what is this one for?*
+
+Vikir looked up.
+
+A sign hung overhead.
+
+He narrowed his eyes.
+
+Slowly read the characters.
 
 “…Mating Room.”
 
-A facility for breeding captured creatures.
+Breeding.
 
-Producing descendants.
+A room designed to pair male and female specimens—
 
-Variants.
+then produce offspring.
+
+Subspecies.
 
 Lower species.
 
-Experimental lines.
+Variants.
 
-The concept was familiar.
+Experimental descendants.
 
-Humans did similar things with livestock.
+Humans performed similar breeding programs on livestock.
 
-Being placed inside such a system—
+Experiencing the logic from **inside** the cage—
 
-was another matter.
+felt very different.
 
-Other mating rooms already held paired monsters.
+Nearby mating enclosures already contained pairs of monsters.
 
-Vikir’s did not.
+Vikir's did not.
 
-*Why am I alone?*
+He was alone.
 
-If this room required a pair—
+*Why?*
 
-someone else should arrive.
+A breeding room required a pair.
+
+Meaning—
+
+another specimen should arrive.
 
 Possibly another human challenger.
 
-Possibly someone who had already been trapped here.
+Possibly someone who had been trapped here earlier.
 
-The best case—
+If someone had arrived first—
 
-someone sane enough to cooperate.
+that person might know something useful about the enclosure.
 
-The worst—
+An escape condition.
 
-someone whose mind had already collapsed inside the tower.
+A weakness.
 
-Vikir remained alert.
+A cycle.
+
+But there was an obvious danger.
+
+*The earlier prisoner may already have broken psychologically.*
+
+This tower destroyed people.
+
+Without exceptional mental endurance—
+
+keeping one's personality intact was difficult.
+
+Whoever had survived alone inside a Dragon Majin laboratory could easily have become violent—
+
+or irrational—
+
+or desperate.
+
+Vikir stayed alert.
+
+An unseen blade could arrive from anywhere.
 
 Then—
 
 ZZZT.
 
-A gate opened beneath the sawdust hill.
+A door suddenly opened beneath the mound of wood shavings.
 
-Someone fell through.
+Someone dropped through.
 
 Rolled across the floor.
 
 “Ow…”
 
-“Where is this now?”
+“What kind of place is this now?”
 
-A female Colosseo student rose.
+The person stood.
+
+A Colosseo cloak.
+
+First-year markings.
+
+Torn.
+
+Bloodstained.
 
 White hair.
 
-Bloodstained cloak.
-
 A familiar face.
 
-Vikir sighed softly.
+Vikir exhaled quietly.
 
 *So I was the one who arrived first.*
 
-Sinclaire.
+**Sinclaire Bourgeois** had entered the Mating Room.
