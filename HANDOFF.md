@@ -1,41 +1,37 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 475 / 500  
+**Accepted:** 477 / 500  
 **Staged:** 0  
-**Next target:** 476
+**Next target:** 478
 
-## Latest accepted contiguous family
+## Latest accepted family
 
-**Tochka Annihilation Battle (1)–(5)** — targets **471–475 / E469–E473**.
+**Knowing the Fate of My Father (1)–(2)** — targets **476–477 / E474–E475**.
 
-- Family QA: `qa/families/tochka-annihilation-0471-0475.md` — PASS.
-- Tochka exhausts drinking water before the final noon battle.
-- Vikir’s southeast-wind / eighth-blue-star timing clue remains unexplained.
-- Leviathan’s grave-robbing is exposed through reanimated ancestors of Baskerville, Morgue, Quovadis, and Bourgeois.
-- Red Baskerville whistle = military-authority signal only; do not equate it with the Black Whistle.
-- Vikir demonstrates Fourth/Sixth Forms; Hugo later independently demonstrates Eighth Form.
-- Barrymore returns as an elite front-line swordsman.
-- Sadi, Isabella, and Souare are old Temisquira contemporaries.
-- Pavlov Van Baskerville dies after warning of high-ranking Leviathan presence.
-- Shammua and other refugees voluntarily join Tochka’s defense; no forced-conscription framing.
-- Hugo is the unseen rear guard protecting Vikir; father/son exchange remains unresolved.
-- Juskin de Leviathan is destroyed in the Vikir/Hugo advance.
-- Granola de Leviathan sabotages Ouroboros, then is dragged into the boiling vessel; **no confirmed death**.
-- With Ouroboros gone, Red Death is no longer infinitely replenished.
-- Vikir decapitates Flauros; Thomas de Leviathan also falls.
-- Flauros claims killing him will open the Gate of Destruction because his life is tied to it. Since he is the Lying Leopard, the truth of the claim remains unresolved.
-- Family ends **before Vikir chooses** whether to finish Flauros.
+- Family QA: `qa/families/knowing-fate-father-0476-0477.md` — PASS.
+- Hugo assumes responsibility for Vikir’s choice and destroys Flauros’s remaining life.
+- The Gate-of-Destruction tether claim proves true.
+- Vikir prepares Eighth Form / Black Sun, but Hugo is the one who reaches **Baskerville Ninth Form**.
+- Hugo crosses into a Death-Knight state by burning his life beyond normal limits.
+- Balmung melts under the collision.
+- Vikir asks Hugo “Why?”; Hugo answers only, “I don’t know either.”
+- Hugo Le Baskerville dies at age 64 after stopping the first Gate eruption.
+- The Long Rain of Terror still begins after Hugo’s sacrifice.
+- Poseidon’s delayed effect creates the 150-day Great Flood, which suppresses the fire rain and disables the Gate.
+- Vikir orders Tudor to secure Donquixote’s fleet for the Imperial Capital / First Corpse campaign.
 
 ## Next verified sequence
 
-1. **Knowing the Fate of My Father (1)–(2)** — targets **476–477 / E474–E475**.
-2. **Tochka Annihilation Battle (6)** — target **478 / E476**.
-3. **Downtown Naval Warfare (1)** begins target **479 / E477**; determine full contiguous family boundary before acceptance.
+1. **Tochka Annihilation Battle (6)** — target **478 / E476**.
+2. **Downtown Naval Warfare (1)–(4)** — targets **479–482 / E477–E480**.
+3. **The Marquis of Discord (1)–(7)** — targets **483–489 / E481–E487**.
+4. **Running Hound(s) (1)–(4)** — targets **490–493 / E488–E491**.
+5. **The Day After the Apocalypse (1)–(2)** — targets **494–495 / E492–E493**; target496 is the combined-raw side-story continuation and requires source-boundary handling from `495.txt`.
+6. Side stories continue targets497–500.
 
 ## Exact next actions
 
-1. Read C476–C477 completely and align E474–E475.
-2. Reconstruct/QA/accept Knowing the Fate of My Father (1)–(2).
-3. Continue immediately into C478 / E476 and resolve the Flauros choice.
-4. Determine the full Downtown Naval Warfare boundary from target479 onward and continue.
+1. Reconstruct/QA/accept target478 from C478 / E476.
+2. Continue immediately into Downtown Naval Warfare 479–482.
+3. Continue through remaining families to target500 unless a genuine source-boundary blocker appears.

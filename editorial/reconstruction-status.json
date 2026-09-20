@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-20",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 475,
+  "accepted_chapters": 477,
   "staged_chapters": 0,
-  "next_chapter": 476,
+  "next_chapter": 478,
   "latest_accepted_family": {
-    "name": "Tochka Annihilation Battle",
-    "range": [
-      471,
-      475
-    ],
-    "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
-  },
-  "next_title_family": {
     "name": "Knowing the Fate of My Father",
     "range": [
       476,
       477
     ],
-    "boundary_status": "verified complete contiguous family",
-    "following_family_starts": 478,
-    "following_title": "Tochka Annihilation Battle (6)",
-    "alignment_note": "476→E474, 477→E475; target478→E476 returns to Tochka Annihilation Battle (6); 479→E477 begins Downtown Naval Warfare (1)."
+    "family_qa": "qa/families/knowing-fate-father-0476-0477.md"
+  },
+  "next_title_family": {
+    "name": "Tochka Annihilation Battle",
+    "range": [
+      478,
+      478
+    ],
+    "boundary_status": "single resumed part",
+    "following_family_starts": 479,
+    "following_title": "Downtown Naval Warfare (1)",
+    "alignment_note": "478→E476; Downtown Naval Warfare 479→E477 through 482→E480."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -537,9 +537,15 @@
     472,
     473,
     474,
-    475
+    475,
+    476,
+    477
   ],
   "notes": [
+    "Chapters476-477 accepted as Knowing the Fate of My Father (1)-(2), mapping E474-E475.",
+    "Hugo kills Flauros, triggering the Gate of Destruction; Hugo reaches Ninth Form / Death Knight state and dies at age64 stopping the first eruption.",
+    "Poseidon-triggered 150-day Great Flood suppresses the Long Rain of Terror and disables the Gate; Vikir orders Donquixote fleet for Imperial Capital.",
+    "Next target478→E476 resumes Tochka Annihilation Battle (6); 479-482 / E477-E480 are Downtown Naval Warfare.",
     "Chapters471-475 accepted as Tochka Annihilation Battle (1)-(5), mapping E469-E473.",
     "Tochka's water is exhausted before the final noon battle; southeast wind / eighth blue star remain unexplained timing clues.",
     "Leviathan grave-robbing is exposed through reanimated ancestors; red Baskerville whistle is military authority only, not Black Whistle.",

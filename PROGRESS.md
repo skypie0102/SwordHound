@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Knowing the Fate of My Father (1)–(2) accepted
+
+**Current state:** 477 / 500 accepted; 0 staged; next Chapter 478.
+
+Completed targets **476–477** with mapping **E474–E475**.
+
+Key decisions: Flauros’s Gate tether proves true; Hugo reaches Baskerville Ninth Form through a Death-Knight transformation and dies at age64 stopping the first Gate eruption; Poseidon’s 150-day flood suppresses the Long Rain of Terror and disables the Gate.
+
+Family QA: `qa/families/knowing-fate-father-0476-0477.md` — **PASS**.
+
+Next target: **478→E476 — Tochka Annihilation Battle (6)**, then Downtown Naval Warfare 479–482 / E477–E480.
+
 ## 2026-09-20 — Tochka Annihilation Battle (1)–(5) accepted
 
 **Current state:** 475 / 500 accepted; 0 staged; next Chapter 476.
