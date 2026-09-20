@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Night Walkers (1)–(5) accepted
+
+**Current state:** 429 / 500 accepted; 0 staged; next Chapter 430.
+
+Completed targets **425–429** with mapping **E423–E427**.
+
+Key decisions: Tochka is the Ark; Night titles are revealed; Ark myth is knowingly fabricated; Donquixote supply interdiction triggers the clash; Pedro reveals Fourth Corpse Chimeries inside Passamonte; Sinclaire rejoins the group; Cervantes is alive; Tudor rejects the Donquixote surname; Cindywendy withholds Vikir's official death report.
+
+Family QA: `qa/families/night-walkers-0425-0429.md` — **PASS**.
+
+Next verified family: **430–433 — The Lion King (1)–(4)**, mapping **E428–E431**.
+
 ## 2026-09-20 — How to Become a Wandering Knight (1)–(3) accepted
 
 **Current state:** 424 / 500 accepted; 0 staged; next Chapter 425.
