@@ -1,114 +1,234 @@
 # Chapter 97: Madam Eight-Legs (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/097.txt` — `0ee54bd429913b5081a5728c70d46712dbda7319`. Recovered English Chapter 96 is the verified shifted secondary witness. Chinese semantics control monster windows. Established terminology controls **Madam Eight-Legs**, **Bog Salamander**, **Bone-Sucking Mosquito**, **Mushuhushu**, **Beelzebub**, **High Sword Graduator**, and **Le Rouge et Le Noir Mountain**.
+> Chinese-primary reconstruction from `source/chinese/chapters/097.txt`. Recovered English Chapter 96 is the verified shifted secondary witness. Chinese semantics control monster windows. Established terminology controls **Madam Eight-Legs**, **Bog Salamander**, **Bone-Sucking Mosquito**, **Mushuhushu**, **Beelzebub**, **High Sword Graduator**, and **Le Rouge et Le Noir Mountain**.
 
-Thunder rolled.
+Rumble—
 
-Clouds turned day into night.
+CRACK!
 
-Rain erased ordinary tracks.
+Thunder rolled across a sky sealed by dark clouds.
 
-Madam's trail was not ordinary.
+It was daytime.
 
-Broken trees.
+The storm made it look like night.
 
-Half-dissolved meat.
+Heavy rain fell without pause, lightning cutting through it again and again.
 
-Slime.
+Vikir pushed aside the blade-like leaves of the sword forest and kept moving.
 
-Waste.
+He had been following Madam Eight-Legs since the previous night.
 
-Black hairs thick as needles.
+Normally, rain ended a hunt.
 
-Dead vegetation wherever those hairs touched.
+Tracks vanished.
 
-Vikir followed the path of rot.
+Scents washed away.
 
-Even after two years among Ballak, no one could tell him exactly what Madam was.
+Signs of passage dissolved into mud.
 
-Her traces contradicted each other.
+Madam's trail did not.
 
-Something heavy enough to smash trees and rock.
+Half-dissolved chunks of meat lay scattered through the jungle.
 
-Something that crossed rivers and ravines as though flying.
+Some looked as if they had been partly eaten, then vomited back up.
 
-Something that tunneled.
+Exactly what animal the flesh had belonged to no longer mattered.
 
-Something capable of climbing cliffs steeper than vertical.
+Slime and excrement whitened in the rainwater and released a nauseating smell.
 
-Vikir reached an isolated stone spire.
+Thick black hairs, sharp as needles, had fallen in clusters.
 
-Clouds hid its peak.
+Plants around them had withered and died.
 
-*There.*
+With signs this obvious, tracking her was almost trivial.
 
-Madam's nest.
+The hound followed a road of death marked by dead vegetation.
 
-He studied the cliff.
+As he walked, Vikir thought again about Madam's true form.
+
+The first time he encountered her, floodwater and darkness had hidden almost everything.
+
+He had never gotten a complete look at her body.
+
+Even the tribal warriors who had suffered under Madam for generations did not actually know what kind of creature she was.
+
+Akwilla knew only fragments passed down through oral records.
+
+*No wonder no one can identify the species from these tracks.*
+
+Some marks looked like those of a beast-type monster smashing through rock and trees.
+
+Others suggested a flying predator crossing rivers and deep ravines.
+
+Still others looked as though an underground creature had tunneled through the earth.
+
+Biological characteristics from completely different kinds of monsters appeared mixed together.
+
+And then there was the cliff.
+
+Vikir stopped beneath an isolated stone peak.
+
+The wall rose at an angle steeper than vertical in places.
+
+Even a bird would have struggled to approach some sections.
+
+Madam had climbed it.
+
+Clouds hid the summit.
+
+*Her nest is up there.*
+
+But not yet.
+
+*I still need to prepare.*
+
+Vikir studied the cliff for a while.
 
 Then turned away.
 
-Fighting now would mean death.
+He circled the formation first.
 
-Knowing the nest's location changed the equation.
+The result confirmed his suspicion.
 
-Preparation came first.
+It was an isolated peak standing alone on otherwise flat land, like a stone tower thrust upward from the earth.
+
+Madam had almost certainly nested in the elevated terrain at the top.
+
+Knowing the location was enough for now.
+
+If Vikir attacked immediately—
+
+he would lose.
+
+Not merely lose.
+
+He would have difficulty surviving.
+
+But once the prey's lair was known, time belonged to the hunter.
+
+Vikir slowly moved away, estimating the height of the cliff as he went.
 
 ◆◆◆
 
-Vikir reached a distant swamp.
+Some distance from Madam's nest, Vikir reached a large swamp.
 
-He scattered straw soaked with his sweat across the wind.
+The first thing he did was scatter the straw he had carried with him.
 
-Then covered himself in mud.
+He had sweated heavily while crossing the jungle.
 
-The air current carried his scent everywhere.
+His scent had soaked deep into it.
 
-To any territorial predator—
+Vikir threw the straw into the wind.
 
-it would seem as though the intruder surrounded the swamp.
+Air currents around the swamp carried the pieces in every direction.
 
-Something sank beneath the water.
+Some floated over the water.
 
-Then rose.
+Others traveled farther inland.
+
+Instead of indicating one position—
+
+his scent appeared everywhere.
+
+To a territorial creature, it would feel as though the intruder had surrounded the entire swamp.
+
+And the creature Vikir wanted to provoke was—
+
+*The owner of this place.*
+
+He watched the water.
+
+A floating log sank.
+
+Then something enormous broke through the thick surface and crawled onto land.
 
 > **Bog Salamander**  
 > **Danger Rating:** A+  
 > **Size:** 9 m  
 > **Found at:** Le Rouge et Le Noir Mountain, 8th Ridge  
 > **Alias:** ‘Infinite-Regeneration Salamander’
+>
+> An enormous amphibious monster that lives deep in swamps. Extremely territorial and gluttonous; it devours anything that enters its domain. Its wounds regenerate with such speed that it has long been feared as effectively unkillable. It has ruled this swamp for years.
 
-An enormous amphibian.
+An ancient salamander emerged.
 
-Territorial.
+Smooth hide.
 
-Gluttonous.
+Thick mucus.
 
-Able to regenerate catastrophic wounds with terrifying speed.
+Several human arms and legs still hung from its mouth.
 
-An old specimen ruled this swamp.
-
-Several human limbs still hung from its mouth.
-
-Vikir recognized it.
+Vikir recognized it immediately.
 
 *Mushuhushu's rival.*
 
-The serpent had been weakened by flood, exhaustion, overeating, and Aiyen's support before Vikir killed it.
+The giant serpent Ka'ah had competed with this creature for territory.
+
+Now the old salamander had grown even larger and stronger with age.
+
+[Hissss—]
+
+It crawled along the edge of the swamp and searched for the intruder.
+
+It could smell Vikir.
+
+It could not tell where he was.
+
+The straw had spread his scent everywhere.
+
+And Vikir had covered his own body in mud to suppress the source.
+
+[Grrrrr… huff—!]
+
+The old salamander moved farther from the water.
+
+Vikir briefly considered fighting it himself.
+
+Then discarded the idea.
+
+His victory over Mushuhushu had depended on several favorable conditions.
+
+Ka'ah had lost its territory to the flood.
+
+Been swept downstream.
+
+Burned through enormous stamina.
+
+Overeaten to recover.
+
+Become sluggish from exhaustion, fullness, and drowsiness.
+
+Then Vikir and Aiyen ambushed it together.
 
 This salamander had none of those disadvantages.
 
-Vikir could probably fight it.
+It looked moderately hungry.
 
-Probably was not enough.
+Bad-tempered.
 
-Not with Madam waiting afterward.
+And it was at least as powerful as Mushuhushu.
 
-But he did not need to fight it.
+Vikir could not guarantee a clean victory in a frontal fight.
 
-The salamander crawled farther from the water, searching for Vikir's scattered scent.
+Even if he won—
 
-Other monsters gathered at the edge of its territory.
+spending strength here before challenging Madam would be pointless.
+
+*But I can use it.*
+
+Vikir waited until the salamander had moved well away from the swamp.
+
+The straw had served another purpose too.
+
+His scent was not only baiting the swamp's owner.
+
+It was attracting everything dangerous enough to notice the same wind.
+
+*About time.*
+
+Vikir followed the salamander toward the forest.
+
+Movement began throughout the jungle.
 
 Minotaurs.
 
@@ -116,11 +236,33 @@ Ogres.
 
 Trolls.
 
-None entered.
+Large monsters gathered near the edge of the salamander's territory.
 
-Then came the buzzing.
+They could smell Vikir.
 
-A cloud moved through the rain.
+They drooled.
+
+None dared cross the boundary.
+
+Then—
+
+BZZZZZZZZ!
+
+One thing did.
+
+The sound of wings grew louder.
+
+Even the old Bog Salamander shuddered.
+
+A huge dark mass appeared above the forest.
+
+Not one body.
+
+A cloud.
+
+It stretched and twisted, sometimes long like a snake, sometimes swelling upward.
+
+Vikir knew it.
 
 > **Bone-Sucking Mosquito**  
 > **Danger Rating — Individual:** D  
@@ -128,89 +270,181 @@ A cloud moved through the rain.
 > **Size:** 3 mm  
 > **Found at:** Le Rouge et Le Noir Mountain, 9th Ridge  
 > **Alias:** ‘Bone-Sucking Mosquito’
+>
+> Little is known beyond the fact that these creatures feed on bone rather than blood. The apparent “monster” is not a single giant organism, but an immense colony of tiny ones.
 
-They did not want blood.
+BZZZZZZZZ!
+
+The swarm covered everything it reached.
+
+Including the old salamander.
+
+Vikir watched.
+
+*Terrible creatures.*
+
+Ordinary mosquitoes pierced skin and drank blood.
+
+These did not want blood.
 
 They wanted bone.
 
-The swarm covered the salamander.
+Their proboscises were longer and sharper.
 
-Its slime trapped the first mosquitoes.
+They drove them into prey, reached the skeleton beneath, dissolved it, and drank the liquefied material.
 
-Later mosquitoes climbed over their dead companions.
+Worse—
 
-Their saliva dissolved bone.
+they ignored skin.
 
-Then they drank it.
-
-The salamander turned toward the swamp.
-
-Too late.
-
-Its skeleton disappeared inside its own body.
-
-A few meters from safety—
-
-it collapsed.
-
-Skin.
-
-Flesh.
+Muscle.
 
 Blood.
 
 Organs.
 
-No structure beneath them.
+Only bone mattered.
 
-The mosquitoes continued circling.
+The old salamander became a demonstration.
 
-Vikir lit wet leaves.
+[HISSSS!?]
 
-Smoke thickened.
+It panicked.
 
-The swarm fled.
+Mucus poured from its skin, trapping the first mosquitoes.
 
-He approached the salamander.
+The salamander turned and raced back toward the swamp.
 
-It was still alive.
+Too late.
 
-Barely.
+More insects landed on top of the bodies of the first.
 
-The creature's legendary vitality held together what had become little more than a flexible sack of living tissue.
+The dead mosquitoes became footholds.
 
-Vikir touched its side.
+New proboscises pierced through.
+
+Their saliva dissolved the salamander's bones with terrifying precision.
+
+The swarm drank.
+
+The old monster struggled toward the water.
+
+Several meters short—
+
+it collapsed.
+
+Its skeleton was gone.
+
+There was nothing left to support the body.
+
+The mosquitoes remained over the swamp for a while after feeding.
+
+Vikir waited.
+
+Then lit wet leaves.
+
+Smoke rolled outward in thick clouds.
+
+The swarm withdrew as quickly as it had arrived.
+
+Only then did Vikir reveal himself.
+
+“…Effective.”
+
+He looked over the empty air where the swarm had been.
+
+One mosquito was tiny.
+
+Weak.
+
+Together—
+
+their danger surpassed common sense.
+
+Vikir turned toward the shore.
+
+The old salamander lay only a few meters from the water.
+
+Amazingly—
+
+it was still alive.
+
+Every bone had disappeared.
+
+Its body had become soft and shapeless.
+
+But its resilient skin and absurd vitality kept it from dying immediately.
+
+Under that hide, flesh and blood sloshed around while organs floated without structure.
+
+A living bag of tissue.
+
+Not for long.
+
+“…”
+
+Vikir placed a hand against the creature's side.
+
+Soft flesh.
+
+Blood.
+
+Organs moving beneath tough skin.
 
 “Good.”
 
-The salamander's eyes moved.
+Its eyes shifted weakly.
 
-“This will do.”
+“You did well.”
 
-He grabbed its tail.
+He grabbed the tail.
 
 High Sword Graduator mana flowed through his body.
 
-Without a skeleton, the enormous creature was easier to drag.
+Even a nine-meter monster could be dragged with enough strength.
 
-Tears ran from its eyes.
+Without a skeleton—
 
-Vikir's expression did not change.
+the salamander was lighter than before.
 
-“You ate enough people.”
+[Grrrr… hiss…]
 
-He dragged it away.
+Strange sounds came from it whenever the body moved.
 
-Preparation was complete.
+Its internal organs had collapsed together so badly that even vocalization barely worked.
 
-The next step was simple.
+Only tears still fell from its eyes.
+
+Vikir's expression remained cold.
+
+“Call it payment for all the people you've eaten.”
+
+He dragged the enormous sack of living flesh away.
+
+This had been preparation.
+
+Short preparation.
+
+Long preparation.
+
+Either way—
+
+everything was ready.
+
+Only one task remained.
 
 Meet Madam.
 
 Kill her.
 
-Then leave the jungle.
+Then Vikir could set down the obligations that still tied him to the jungle.
 
 Leave Ballak.
 
-And return to Baskerville.
+Leave the floodlands.
+
+Return to the Iron-Blooded Sword House—
+
+Baskerville.
+
+That day was no longer far away.

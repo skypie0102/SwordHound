@@ -34,10 +34,10 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 92 | The Ghosts of the Ancestors (3) | 4699 | 8364 | 0.562 | REBUILT — PASS |
 | 93 | The Ghosts of the Ancestors (4) | 5561 | 10276 | 0.541 | REBUILT — PASS |
 | 94 | The Ghosts of the Ancestors (5) | 4847 | 8456 | 0.573 | REBUILT — PASS |
-| 96 | Madam Eight-Legs (2) | 4461 | 7478 | 0.597 | priority review |
-| 97 | Madam Eight-Legs (3) | 3971 | 10214 | 0.389 | CONFIRMED REWORK |
-| 98 | Madam Eight-Legs (4) | 3432 | 8242 | 0.416 | priority review |
-| 99 | Madam Eight-Legs (5) | 3542 | 8202 | 0.432 | priority review |
+| 96 | Madam Eight-Legs (2) | 4461 | 7478 | 0.597 | REBUILT — PASS |
+| 97 | Madam Eight-Legs (3) | 3971 | 10214 | 0.389 | REBUILT — PASS |
+| 98 | Madam Eight-Legs (4) | 3432 | 8242 | 0.416 | REBUILT — PASS |
+| 99 | Madam Eight-Legs (5) | 3542 | 8202 | 0.432 | REBUILT — PASS |
 | 101 | Nostalgia (1) | 3928 | 8368 | 0.469 | priority review |
 | 102 | Nostalgia (2) | 4906 | 9374 | 0.523 | priority review |
 | 103 | Nostalgia (3) | 3233 | 6029 | 0.536 | priority review |
@@ -84,8 +84,8 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 41 chapters (down from 47).  
-**Next family:** Madam Eight-Legs (95–100).
+**Pending initial priority queue:** 37 chapters (down from 47).  
+**Next family:** Nostalgia (101–104).
 
 ### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
 
@@ -93,13 +93,26 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
 
-**Pending initial priority queue:** 41 chapters.  
+**Pending initial priority queue:** 37 chapters.  
 **Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
+
+### Madam Eight-Legs — Chapters 95–100 — REBUILT / PASS
+
+All six historical drafts had completeness or boundary-integrity problems. Chapters 96–99 were in the initial priority queue; Chapter97 was one of the four directly confirmed failures. Chapter95 was above the threshold but compressed and contains a verified localized Chinese omission. Chapter100 crossed into target101.
+
+Repairs include the full Ballak-village/altar sequence, scoped E94 restoration for the C095 Aheul bridge, complete Bakira/Aiyen departure scene, full Bog Salamander/Bone-Sucking Mosquito preparation, summit climb and named dead, detailed Madam combat/regeneration mechanics, and a corrected target100 ending at the prepared Bog Salamander cushion.
+
+**Chapter97 confirmed failure: RESOLVED.**  
+**Current unresolved confirmed failures:** 316, 319, 420.  
+**Pending initial priority queue:** 37 chapters.  
+**Next family:** Nostalgia (101–104).
 
 ## Confirmed failures
 
-### Chapter 97 — Madam Eight-Legs (3)
-Direct raw/draft comparison confirms aggressive condensation. The draft retains the monster setup and broad sequence but drops many source sentences and descriptive/causal details.
+### Chapter 97 — Madam Eight-Legs (3) — RESOLVED
+
+Historical draft was confirmed summary-compressed. The complete Madam Eight-Legs family (95–100) was rebuilt on 2026-09-20; Chapter97 now has fresh draft/QA/provenance/acceptance evidence and is accepted again.
+
 
 ### Chapter 316 — Surplus Man (3)
 Direct raw/draft comparison confirms summary-style compression. Extended survivor dialogue, voting discussion, social dynamics, and narrative transitions are collapsed into terse fragments.

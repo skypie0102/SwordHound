@@ -1,7 +1,7 @@
 {
   "chapter": 99,
   "title": "Madam Eight-Legs (5)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Madam Eight-Legs",
     "range": [
@@ -9,8 +9,8 @@
       100
     ],
     "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
-    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
-    "status": "pass"
+    "family_qa_sha": "285bfbb5d7a6ae5a39bc3cbc1ebf5c626263e7bb",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/099.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0099.md",
-    "blob_sha": "29ad21e68d1b22ea895b16687de35bdd264c343b"
+    "blob_sha": "075a8d997fdf1ef2e4b94cd7da177711fd4755dc"
   },
   "qa": {
     "path": "qa/chapter-0099.md",
-    "blob_sha": "a065965550440bb036c2528042d266c35b9a4fb3",
-    "status": "pass"
+    "blob_sha": "47495d207066b7bd3223fd42613892191465a480",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -67,5 +67,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "29ad21e68d1b22ea895b16687de35bdd264c343b",
+    "qa_sha": "a065965550440bb036c2528042d266c35b9a4fb3"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/madam-eight-legs-0095-0100.md"
+  }
 }

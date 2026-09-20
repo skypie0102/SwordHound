@@ -3,61 +3,75 @@
 **Checkpoint:** 2026-09-20  
 **Phase:** POST-500 MANUSCRIPT COMPLETENESS AUDIT  
 **Manuscript files present:** 500 / 500  
-**Current tracker state:** 496 accepted / 4 confirmed needs rework  
-**Confirmed needs rework:** 97, 316, 319, 420  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94) — rebuilt / PASS  
-**Pending initial priority queue:** 41 chapters  
-**Next target:** complete-family audit of **Madam Eight-Legs (95–100)**
+**Current tracker state:** 497 accepted / 3 confirmed needs rework  
+**Confirmed needs rework:** 316, 319, 420  
+**Resolved confirmed failure:** 97  
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100) — rebuilt / PASS  
+**Pending initial priority queue:** 37 chapters  
+**Next target:** complete-family audit of **Nostalgia (101–104)**
 
-## Latest completed work — The Ghosts of the Ancestors (90–94)
+## Latest completed work — Madam Eight-Legs (95–100)
 
-Direct Chinese review found **all five historical drafts materially compressed**. Only 92–94 were in the initial <0.60 queue; 90–91 were above the threshold and still failed full-coverage review.
+All six historical drafts had source-coverage or boundary-integrity problems and were rebuilt.
 
-All five chapters were rebuilt and rebound to fresh QA, provenance, acceptance, and family QA.
+### Chapter95 localized raw gap
 
-Key repairs:
-- **90:** full Oxbear window/territory trap, second lower-body strike, cub/mother exit, complete crowd judgment, Ah'Heman self-comparison, Ahun exchange, explicit abandonment of Ballak identity, Rokoko spell reaching Tomb of the Brave.
-- **91:** full undead/nature-contract explanation, Death Knight window/mechanics, seven intelligent cases, burial shrouds, salt response, Ballak restraint around ancestors, Ah'Heman life/soul cost, quality-over-quantity escalation, full Adonai reveal.
-- **92:** full master-aura mechanics, Vikir's injuries/mana pressure, Madam Eight-Legs bow origin/poison, River Styx/Beelzebub factors, Kilogram Hammer, Aiyen rescue, ten-arrow catch/crush, Akwilla barehanded interception.
-- **93:** complete Akwilla–Adonai technical duel, storm-return arrows, repeated penetration, final front/back headshot, prime-Adonai caveat, ancestor-blood hostage tactic, salt-river dam release.
-- **94:** complete saltwater purification, post-flood environment, Adonai bow recovery, Ah'Heman sorcery assessment, Thorn-Tree Punishment, Ahun's decision, explicit burning death, final village warning.
+C095 visibly jumps from the dead-guard/casualty paragraph to Vikir already patting **Aheul** on the back. E94 aligns exactly on both sides and preserves the missing bridge:
+- Vikir inspects Madam's giant tracks beneath the floodwater;
+- poisonous slime, black hair/flesh, and damaged wood narrow the identification;
+- Aheul emerges from hiding inside a spice jar and reaches Vikir.
 
-Family evidence: `qa/families/ghosts-ancestors-0090-0094.md`.
+Only that missing span is restored from E94. The exception is now recorded in `source/chinese/chapter-exceptions.tsv`.
+
+### Chapter100 / 101 boundary correction
+
+Chinese100 and E99 end with Vikir falling toward the prepared gas-bloated Bog Salamander cushion.
+
+Chinese101 and E100 begin at the impact.
+
+The historical target100 draft incorrectly imported target101 material: landing injuries, Madam's death, S-rank Venom acquisition, exhaustion/dream sequence, and Bakira/Aiyen rescue. Target100 now ends at the cushion; target101 will be rebuilt next under **Nostalgia (1)**.
+
+### Other family restorations
+
+- **95:** complete village destruction/altar lure/casualty mitigation/Baskerville responsibility and Vikir debt-to-Ballak reasoning.
+- **96:** full tribal opposition, Akwilla/Bakira injuries, Vikir strategic motives, and Aiyen's complete wolf/hound promise scene.
+- **97:** prior confirmed failure resolved; full Madam tracking, Bog Salamander and Bone-Sucking Mosquito ecology/mechanics, and prepared landing resource restored.
+- **98:** full cliff ascent, slime-cave traps, skeletons, summit carrion terrain, named Ballak dead, mourning, and declaration of war.
+- **99:** full Madam window/Rokoko compendium, lightning-blind-zone tactic, Sixth Fang/silk-sac attack, doubled-leg regeneration reveal, catastrophic counterstrike, and Vikir regeneration.
+- **100:** full regeneration/Incinerate/egg-eating/limb-multiplication/center-of-gravity strategy and corrected cliff-fall endpoint.
+
+Family evidence: `qa/families/madam-eight-legs-0095-0100.md`.
 
 ## Audit state
 
 Original priority queue: 47 ordinary one-target chapters below ratio 0.60.
 
-Completed from that queue: 87–89, 92–94.
+Completed from that queue: 87–89, 92–94, 96–99.
 
-Remaining initial-priority chapters: **41**.
+Remaining initial-priority chapters: **37**.
 
-Confirmed needs-rework chapters still open: **97, 316, 319, 420**.
+Current unresolved confirmed failures: **316, 319, 420**.
 
-The first two audited families also proved four above-threshold chapters incomplete: 85–86 and 90–91. Therefore after the priority queue, a whole-corpus direct review remains mandatory.
+Resolved confirmed failure: **97**.
+
+Above-threshold failures found so far include 85–86, 90–91, 95, and 100, reinforcing that the whole-corpus pass remains mandatory.
 
 ## Source / alignment
 
-Ghosts mapping remains **90→E89 through 94→E93**. Target95→E94 begins **Madam Eight-Legs (1)**.
+- Madam mapping remains **95→E94 through 100→E99**.
+- Target101→E100 begins **Nostalgia (1)** and owns the landing/kill/Venom/rescue material previously misplaced in target100.
+- Chapter95 localized E94 restoration is documented in `source/chinese/chapter-exceptions.tsv`.
 
 ## Branch / PR state
 
-- Working branch: `audit/ghosts-90-94-completeness`.
-- PR #128, **Rebuild The Ghosts of the Ancestors Chapters 90–94 for completeness**: OPEN.
-- Illiad completeness PR #127: merged.
-
-## Files updated this batch
-
-- `manuscript/drafts/chapter-0090.md` through `chapter-0094.md`
-- `qa/chapter-0090.md` through `chapter-0094.md`
-- `qa/families/ghosts-ancestors-0090-0094.md`
-- `editorial/provenance/chapter-0090.json` through `chapter-0094.json`
-- `qa/acceptance/chapter-0090.json` through `chapter-0094.json`
-- tracker, reconstruction status, audit record, project state, progress, handoff
+- Working branch: `audit/madam-eight-legs-95-100-completeness`.
+- PR #129, **Rebuild Madam Eight-Legs Chapters 95–100 for completeness**: OPEN.
+- Ghosts completeness PR #128: merged.
 
 ## Exact next actions
 
-1. Merge the Ghosts completeness rebuild branch.
+1. Merge the Madam Eight-Legs completeness branch.
 2. Create a fresh branch from updated `main`.
-3. Audit **Madam Eight-Legs (95–100)** in full, including unflagged 95 and 100. Chapter97 is already confirmed compressed; 96–99 are initial-priority chapters.
-4. Rebuild every compressed chapter, regenerate all evidence, resolve Chapter97's `needs_rework` status, update counts/state, merge, and continue immediately to **Nostalgia (101–104)**.
+3. Audit **Nostalgia (101–104)** in full. All four chapters are in the initial priority queue.
+4. Pay special attention to target101 because the historical target100 draft imported a large target101 span; ensure target101 now contains the full Chinese101/E100 content exactly once.
+5. Rebuild all compressed chapters, regenerate QA/provenance/acceptance, update the audit state, merge, and continue immediately to the next priority family.

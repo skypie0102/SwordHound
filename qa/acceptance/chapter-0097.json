@@ -1,8 +1,8 @@
 {
   "chapter": 97,
   "title": "Madam Eight-Legs (3)",
-  "accepted": false,
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted": true,
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Madam Eight-Legs",
     "range": [
@@ -10,8 +10,8 @@
       100
     ],
     "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
-    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
-    "status": "reopened_for_completeness_audit"
+    "family_qa_sha": "285bfbb5d7a6ae5a39bc3cbc1ebf5c626263e7bb",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/097.txt",
@@ -19,11 +19,11 @@
     "english_reference_path": "source/chapters/chapter-096.xhtml",
     "english_reference_sha": "1b5f9ec23397fb15b25db1650fb0860234694548",
     "draft_path": "manuscript/drafts/chapter-0097.md",
-    "draft_sha": "9a760964984d456ab921480a01e7fe6f8f3b6c0e",
+    "draft_sha": "9e7f4a942cdc5aa5bb6726990519f914213c7869",
     "qa_path": "qa/chapter-0097.md",
-    "qa_sha": "1a93f085e3aa755319be1516d1e49e8d770c2d90",
+    "qa_sha": "ae68eededc1fcce032da54ab177e0efea16b031e",
     "provenance_path": "editorial/provenance/chapter-0097.json",
-    "provenance_sha": "39afb3ae5ec729ba19333327dd4ec1e65c8033f9"
+    "provenance_sha": "d8642ae0e9664f493a318e44158d57937b696e46"
   },
   "canonical_checks": [
     "Bog Salamander",
@@ -36,11 +36,17 @@
     "Target 101 Nostalgia content is not imported backward."
   ],
   "historical_acceptance": {
-    "accepted": true,
-    "accepted_date": "2026-09-18"
+    "accepted": false,
+    "accepted_date": null,
+    "status": "needs_rework",
+    "draft_sha": "9a760964984d456ab921480a01e7fe6f8f3b6c0e",
+    "qa_sha": "1a93f085e3aa755319be1516d1e49e8d770c2d90",
+    "provenance_sha": "39afb3ae5ec729ba19333327dd4ec1e65c8033f9"
   },
-  "status": "needs_rework",
-  "reopened_date": "2026-09-20",
-  "reopen_reason": "Direct Chinese/draft comparison confirms summary-style compression with omitted narration, descriptive detail, and causal transitions.",
-  "superseded_by": "qa/manuscript-completeness-audit.md"
+  "accepted_date": "2026-09-20",
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/madam-eight-legs-0095-0100.md"
+  }
 }
