@@ -1,7 +1,7 @@
 {
   "chapter": 317,
   "title": "Surplus Man (4)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "pass"
+    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/317.txt",
@@ -24,14 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0317.md",
-    "blob_sha": "699184a6fb829b3ff4cc39752c319beffa1741eb"
+    "blob_sha": "338766c8b3e590630e63a8eb0269408e24457472"
   },
   "qa": {
     "path": "qa/chapter-0317.md",
-    "blob_sha": "764656320e3d6f79a9c8c51363f7b563eb8c2ada",
-    "status": "pass"
+    "blob_sha": "f1875cf23d7797c7d83b7c7d557c959b77ece011",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "previous_current_status": "pass",
+    "draft_sha": "699184a6fb829b3ff4cc39752c319beffa1741eb",
+    "qa_sha": "764656320e3d6f79a9c8c51363f7b563eb8c2ada"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/surplus-man-0314-0320.md",
+    "initial_priority_target": true,
+    "confirmed_failure_resolved": false
+  }
 }
