@@ -1,6 +1,6 @@
 # Chapter 103: Nostalgia (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/103.txt` — `94b23e81e5e68afb98518c56c9d1c892e6dd4264`. Recovered English Chapter 102 is the verified shifted secondary witness. This chapter contains animal breeding as husbandry/natural-history material; it is rendered briefly and non-graphically. Established terminology controls **Aiyen**, **Bakira**, **Madam Eight-Legs**, **Adonai**, and **Ballak Tribe**.
+> Chinese-primary reconstruction from `source/chinese/chapters/103.txt`. Recovered English Chapter 102 is the verified shifted secondary witness. This chapter contains animal breeding as practical husbandry/natural-history material. Established terminology controls **Aiyen**, **Bakira**, **Madam Eight-Legs**, and **Ballak Tribe**.
 
 “Help?”
 
@@ -8,13 +8,31 @@ Vikir sat up.
 
 “What do you need this late?”
 
-Aiyen answered with one name.
+The blanket slipped away from his upper body.
+
+He had not bothered putting a shirt back on after treatment.
+
+Aiyen looked at him for a moment.
+
+Then answered with one word.
 
 “Bakira.”
 
+“Bakira?”
+
 Vikir waited.
 
-“I think it's time for Bakira to have a mate.”
+Bakira had grown up beside Aiyen since both were young.
+
+Perhaps because the two names sounded similar—
+
+perhaps because both tended to be quiet and aloof—
+
+Aiyen had always treated the wolf as something more than an animal companion.
+
+She met Vikir's eyes.
+
+“I think it's time Bakira found a mate.”
 
 “Is that so?”
 
@@ -22,182 +40,348 @@ Vikir waited.
 
 Aiyen paused.
 
-“All males need companionship eventually.”
+“Every male reaches an age when he needs a partner.”
 
-Then, more quietly—
+Then—
 
-“Females too.”
+more quietly—
+
+“…Females too.”
 
 Vikir frowned slightly.
 
-The wolves had been restless lately.
+He already knew Bakira had entered breeding season.
 
-Calls at night.
+The same was true of the other wolves.
 
-Seasonal breeding behavior.
+The males were generally ready much of the year.
 
-Bakira was no exception.
+Females entered heat only periodically—
 
-“What do you need me for?”
+roughly twice a year, with long months between cycles.
 
-Aiyen looked away.
+Recently, wolves throughout the village had been howling into the night.
 
-“His leg.”
+Male and female alike.
 
-Vikir understood.
+Enough that people were starting to lose sleep.
 
-Madam's poison had destroyed Bakira's right hind leg.
+Vikir looked back at Aiyen.
 
-He had survived.
+“So what do you need me to do?”
 
-But only on three legs.
+Aiyen nodded once.
 
-For hunting—
+“Remember when Madam attacked the village and Bakira was badly injured?”
 
-that was already devastating.
+“Yes. His right leg…”
 
-For breeding—
+“Madam's poison destroyed it.”
 
-balance created another problem.
+Aiyen released a small breath.
 
-Aiyen wanted to help him.
+“Bakira has only three legs now.”
+
+The missing limb was not one of the forelegs.
+
+It was a hind leg.
+
+That created a particular problem.
+
+For a canine, successful mating required balance through the rear body.
+
+Without assistance—
+
+Bakira could not stabilize himself properly.
+
+Left alone to nature—
+
+his line might simply end.
+
+“I want to help him,” Aiyen said. “Can you help me?”
+
+“…How?”
 
 Vikir stood.
 
-“How?”
+Aiyen smiled faintly beneath the moonlight.
 
-Aiyen smiled.
-
-“Come.”
+“Come with me.”
 
 ◆◆◆
 
-They left the village.
+They left the tent.
 
-Beyond the fence lay a broad meadow.
+Passed the village fence.
 
-Bakira stood there on three legs.
+Walked toward the waterside.
 
-A young female wolf waited nearby.
+Beyond it—
 
-She had often accompanied him on hunts before his injury.
+a broad grassland opened under the moon.
 
-Aiyen watched them.
+Bakira was there.
 
-“Bakira used to be every female wolf's favorite.”
+Panting.
 
-Large.
+Standing on three legs.
 
-Strong.
+A familiar young she-wolf waited in front of him.
 
-Glossy coat.
+She had often followed Bakira on hunts—
 
-Excellent hunter.
+before the injury.
 
-The injury changed that.
+Aiyen stayed at a distance at first.
 
-The female did not seem to care.
+“Bakira used to be the favorite of almost every female in the village.”
 
-She stayed close.
+Large body.
 
-Bakira nuzzled her.
+Excellent hunting ability.
+
+A coat that shone.
+
+Everything about him had marked him as a strong wolf.
+
+Madam's attack changed that.
+
+The missing hind leg prevented him from hunting the way he once had.
+
+Even so—
+
+the she-wolf in front of him had not lost interest.
+
+Aiyen watched.
+
+“…She knows his bloodline is still strong.”
+
+The phrasing reminded Vikir of something Aiyen had once said while discussing Oxbears—
+
+that in choosing mates, strength mattered, but an injured partner could also create a strange kind of attraction within certain competitive dynamics.
+
+Bakira whined softly.
+
+The she-wolf moved closer.
+
+He licked her coat.
 
 She returned the gesture.
 
-Then the problem became obvious.
+Soon—
 
-Without the missing hind leg—
+the two pressed together beneath the moonlight.
 
-Bakira could not keep balance properly.
+Bakira moved behind her.
 
-Aiyen had tried a crude wooden prosthetic.
+Placed both forelegs across her back.
 
-It was not stable enough.
+Then—
 
-So she and Vikir helped support the wolves through the awkward physical difficulty until they could complete the breeding naturally.
+THUD!
 
-They kept the assistance practical.
+Without the missing hind leg to stabilize him—
+
+he fell sideways.
+
+That was why Aiyen had asked for help.
+
+Vikir moved to one side.
+
+Aiyen took the other.
+
+They supported Bakira and the female wolf long enough for the pair to mate.
+
+The work was awkward.
+
+Practical.
 
 Nothing more.
 
-Afterward, the two wolves rested together in the grass.
+After several minutes—
 
-Vikir and Aiyen stood nearby.
+Bakira suddenly turned.
 
-Neither spoke.
+Vikir frowned.
 
-The silence was unusually awkward.
+“Already finished? We finally got them balanced.”
 
-Eventually Aiyen exhaled.
+“No.”
 
-“Done.”
+Aiyen shook her head.
 
-They left Bakira and his mate together.
+“Look carefully.”
 
-Dawn mist spread over the meadow.
+Bakira had turned around—
 
-“Thank you.”
+but had not separated.
 
-Vikir waved it away.
+He and the she-wolf now faced opposite directions, hindquarters still connected.
 
-“No need.”
+It was the characteristic tie seen in wolves.
 
-Even that simple exchange felt strange.
+Once the position changed—
 
-For two years, conversation between them had rarely been hesitant.
+Vikir and Aiyen no longer needed to hold them.
 
-Now it was.
+The wolves could remain together on their own.
+
+So the two humans stepped away.
+
+Bakira and the female wolf panted in the moonlight.
+
+Vikir said nothing.
+
+Aiyen said nothing.
+
+“…”
+
+“…”
+
+An awkward silence filled the grassland.
+
+Several minutes passed.
+
+Eventually—
+
+the wolves separated naturally.
+
+There was joining.
+
+Then separation.
+
+That was simply part of nature.
+
+Nothing to be embarrassed about.
+
+Nothing to mourn.
+
+Wind blew.
+
+Rain fell.
+
+The sun crossed the sky.
+
+The sea surrounded land.
+
+The earth connected everything beneath it.
+
+Living things came together—
+
+then moved apart.
+
+Bakira lowered himself onto the cool grass.
+
+Wolves could not sweat through their skin like humans.
+
+His tongue hung out as he panted heavily.
+
+The effort had exhausted him.
+
+The female wolf lay nearby.
+
+Quiet.
+
+Blinking.
+
+“…Done,” Vikir said.
+
+Only then did he and Aiyen leave them alone.
+
+Bakira and his new mate remained in the field, rubbing their faces together.
+
+Vikir and Aiyen walked back toward the village.
+
+Morning fog had begun to gather.
+
+“…Thank you.”
+
+“…No need.”
+
+Aiyen's gratitude and Vikir's response both sounded strange.
+
+Awkward.
+
+They had spent two years arguing, hunting, teasing, fighting, and surviving together.
+
+They almost never spoke like this.
+
+Not long afterward—
 
 Vikir returned to his tent.
 
 He had already decided to leave Ballak.
 
-Actually approaching the departure made the decision heavier.
+But deciding in theory and actually approaching the day of departure were different things.
 
-The damp tent felt familiar.
+The tent was damp with early-morning moisture.
 
-Home-like.
+Familiar.
 
-And suddenly temporary.
+And somehow already becoming unfamiliar.
 
-He lay down.
+Vikir lay down on the straw.
 
 Sleep did not come.
 
+Perhaps he would not fall asleep until sunrise.
+
 Then—
 
-rustling outside.
+rustle.
 
-A shadow stood beyond the flap.
+Something moved outside.
 
-Vikir recognized it immediately.
+A shadow appeared beyond the tent flap.
+
+Vikir looked.
+
+He did not need to see the face anymore.
+
+He knew the silhouette.
 
 Aiyen.
 
-She did not enter.
+For some reason—
 
-She remained there.
+she had not returned to her own tent.
 
-Waiting.
+She stood outside Vikir's.
 
 Hesitating.
 
-Vikir considered asking what she wanted.
+“…?”
 
-Then closed his eyes.
+Vikir almost asked what she wanted.
 
-If it mattered, she would come in.
+Then closed his eyes instead.
 
-She always did.
+He was exhausted.
 
-But Aiyen stayed outside for a long time.
+And if Aiyen had something to say—
 
-Then the shadow slowly disappeared.
+she would come inside like she always did.
+
+But she did not.
+
+The shadow remained.
+
+A long time.
+
+…
+
+Eventually—
+
+it moved away.
 
 *Did I imagine it?*
 
-Vikir's eyes closed fully.
+Vikir watched through half-closed eyes.
 
-By the time the morning dew began to dry—
+Morning dew began drying with the first light.
 
-he was asleep.
+Aiyen's shadow disappeared completely.
+
+By then—
+
+Vikir was asleep.
