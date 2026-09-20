@@ -1,7 +1,7 @@
 {
   "chapter": 104,
   "title": "Nostalgia (4)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -9,8 +9,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "86ad38592d790d8eb1a4acbb99b53341d2c1b1ac",
-    "status": "pass"
+    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/104.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0104.md",
-    "blob_sha": "fbb319a494db39e3f63d2cb7c3c40a0bd21a3774"
+    "blob_sha": "0d954e0e9cf77c8da9964f97a60e6cdaa78ab811"
   },
   "qa": {
     "path": "qa/chapter-0104.md",
-    "blob_sha": "fbb9209b282352289d5f32501f671a78fa5aae4b",
-    "status": "pass"
+    "blob_sha": "1c2717b5d645b627fb9318e6f4e6987c1fe5a9cd",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -72,5 +72,17 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "fbb319a494db39e3f63d2cb7c3c40a0bd21a3774",
+    "qa_sha": "fbb9209b282352289d5f32501f671a78fa5aae4b"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  }
 }
