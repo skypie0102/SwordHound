@@ -1,7 +1,7 @@
 {
   "chapter": 316,
   "title": "Surplus Man (3)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "reopened_for_completeness_audit"
+    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/316.txt",
@@ -24,24 +24,30 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0316.md",
-    "blob_sha": "7de240c7e605e985496aa652b2b15479bd6a6e6c"
+    "blob_sha": "230dd7b3235fed5d89878c958da1605dc9476b96"
   },
   "qa": {
     "path": "qa/chapter-0316.md",
-    "blob_sha": "c797f5bb7758d83c51e672aa24f4d19bed504423",
-    "status": "superseded_needs_rework"
+    "blob_sha": "f5c2f064fcd546341362f607fcee77685089e014",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
-  "accepted": false,
+  "accepted": true,
   "historical_acceptance": {
     "accepted": true,
-    "accepted_date": "2026-09-19"
+    "accepted_date": "2026-09-19",
+    "previous_current_status": "needs_rework",
+    "draft_sha": "7de240c7e605e985496aa652b2b15479bd6a6e6c",
+    "qa_sha": "c797f5bb7758d83c51e672aa24f4d19bed504423"
   },
-  "current_status": "needs_rework",
-  "reopened_date": "2026-09-20",
   "completeness_audit": {
-    "status": "confirmed_compressed",
-    "reason": "Direct Chinese/draft comparison confirms extended survivor dialogue, voting discussion, social dynamics, and transitions were collapsed into terse summary fragments.",
-    "evidence": "qa/manuscript-completeness-audit.md"
-  }
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/surplus-man-0314-0320.md",
+    "initial_priority_target": true,
+    "confirmed_failure_resolved": true
+  },
+  "accepted_date": "2026-09-20",
+  "failure_resolution": "Confirmed post-500 compression failure resolved by full survivor-debate/voting/social-dynamics rebuild."
 }
