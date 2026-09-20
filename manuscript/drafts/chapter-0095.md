@@ -1,226 +1,324 @@
 # Chapter 95: Madam Eight-Legs (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/095.txt` — `891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc`. Recovered English Chapter 94 is the verified shifted secondary witness. Established terminology controls **Madam Eight-Legs**, **Ballak Tribe**, **Akwilla**, **Aiyen**, **Aheul**, **Ahun**, **Ah'Heman**, **Baskerville**, **Morgue**, **Divine Archer Adonai**, and **Night Fox**.
+> Chinese-primary reconstruction from `source/chinese/chapters/095.txt`, with one localized missing bridge restored from aligned recovered English Chapter 94. Established terminology controls **Madam Eight-Legs**, **Ballak Tribe**, **Akwilla**, **Aiyen**, **Aheul**, **Ahun**, **Ah'Heman**, **Baskerville**, **Morgue**, **Divine Archer Adonai**, and **Night Fox**. The E94 restoration is limited to the gap between the dead-guard paragraph and Aheul's already-present Chinese dialogue.
 
-When Ballak's warriors returned, the village was gone.
+When Vikir and the Ballak warriors returned, they found a village that had been almost completely destroyed.
 
-Trees had snapped.
+The tall trees that had supported their homes were broken and toppled.
 
-Raised houses had collapsed into floodwater.
+The houses had fallen with them, collapsing into the low floodwater.
 
-Boards and broken timber drifted everywhere.
+Broken planks and splintered timber drifted across the surface.
 
-Weapon stores.
+Debris lay everywhere.
 
-Tool sheds.
+The floating houses built for the rainy season had all been ruined.
 
-Prisoner enclosures.
+Warehouses that had held weapons, prisoners, and other tools were smashed open, their contents scattered into the water and rendered useless.
 
-All wrecked.
+The food stores were different.
 
-The food stores were empty.
+They had been emptied.
 
-Akwilla stood in the ruin.
+“…What happened here?”
 
-“What happened?”
+Akwilla looked around in alarm.
 
-Bodies floated among the debris.
+There was no way destruction on this scale had happened without casualties.
 
-Most of Ballak's fighting strength had gone to watch the Illiad.
+Bodies floated among the wreckage.
 
-Those left behind had been children, elders, sick people, women, and a small guard force.
+Most of Ballak's warriors had gone to watch the Illiad.
 
-The destruction should have killed far more than it had.
+That meant the people left behind were mostly children, elders, the sick, women, and the small guard force assigned to protect them.
 
-Then Aheul appeared.
+Many of those guards now lay dead.
+
+“…”
+
+Vikir was silent.
+
+Then his attention shifted from the bodies to the village itself.
+
+The Chinese source visibly loses a short bridge here; the aligned English witness preserves it.
+
+A foul, polluted presence lingered over the forest beyond the settlement.
+
+Vikir followed the ominous smell with the nose of a hound.
+
+The muddy water reached almost to his ankles, making the ground hard to see, so he crouched and ran a hand beneath the surface.
+
+Deep furrows had been gouged into the earth.
+
+They looked as though enormous logs had been dragged and hammered across it.
+
+The marks were irregular and tangled together.
+
+Each was roughly eighty centimeters wide.
+
+Some stretched close to three meters.
+
+*What could leave tracks this large in a flooded village?*
+
+Several candidates came to mind.
+
+Then Vikir found more clues.
+
+Sticky slime hung from the wreckage above him.
+
+It stretched from a half-collapsed floating house in long threads.
+
+Black hair and blackened pieces of flesh clung inside it.
+
+The smell was revolting.
+
+Wood touched by the substance had darkened and split.
+
+A powerful poison.
+
+Splash. Splash.
+
+Someone approached through the ankle-deep water.
+
+Aheul.
 
 She had survived by hiding inside a large spice jar.
 
-The moment she saw Vikir, she broke down.
+The moment she saw Vikir, the composure left her face.
+
+She stumbled forward and burst into tears.
+
+Vikir silently patted her back while she sobbed.
 
 “Madam came.”
 
-Every warrior froze.
+Every warrior behind him froze.
 
 **Madam Eight-Legs.**
 
-The terror of the floodlands.
+Terror of the floodlands.
 
-The nightmare beyond Le Rouge et Le Noir Mountain.
+Nightmare of Le Rouge et Le Noir Mountain.
 
-Aheul pointed toward the rocky high ground.
+Why had she attacked Ballak's village?
 
-“She destroyed that place first.”
+Aheul raised a trembling hand and pointed.
+
+“Madam destroyed that place first as soon as she arrived. Then she came after us like she was venting her anger…”
+
+She was pointing toward a tall stone structure on elevated bedrock.
+
+It had suffered far worse damage than the surrounding buildings.
 
 Ah'Heman's altar.
 
-Then everyone understood.
+The moment the warriors saw it—
 
-His final warning.
+they understood.
 
-His last look toward the village.
+> *You'll regret this! You'll regret driving me this far…!*
 
-Vikir climbed through the ruins.
+Ah'Heman's final words.
 
-The outer stonework had been smashed.
+And the reason he had stared toward the distant village while burning.
 
-Inside, much of the altar remained.
+Vikir climbed onto the rocky rise and searched through the ruins.
 
-Burned herbs filled the room.
+The structure had been the altar where Ah'Heman performed his rituals.
 
-Strange insects gathered around the lingering smell.
+Its outer walls had been heavily smashed.
 
-Aiyen's jaw tightened.
+The inside was surprisingly intact.
+
+Vikir moved broken stone aside and examined what remained.
+
+Several unfamiliar herbs had been left burning for a long time.
+
+Their charred remains still gave off an unusual smell.
+
+Small insects, each about the size of a fingernail, gathered around the scent.
+
+Aiyen clenched her teeth.
 
 “An insect-attracting herb.”
 
+“…”
+
 Vikir nodded.
 
-Ah'Heman had prepared a delayed trap.
+Ah'Heman had prepared a device that would call Madam Eight-Legs if he stayed away from the altar too long.
 
-As long as someone tended the altar fire, the scent remained controlled.
+Normally, the fire could be controlled so the smell never spread very far.
 
-Leave it unattended long enough—
+But with no one tending it, the herbs kept burning.
 
-and the herbs burned freely.
+The strange scent traveled farther and farther through the jungle.
 
-The smell spread.
+Eventually—
 
-Eventually it reached the creature deep in the jungle.
+Madam, deep in the floodlands, noticed it.
 
-Madam Eight-Legs.
+Ahun drove his fist into the stone wall.
 
-Ahun slammed a fist into the stone.
-
-“He planned this.”
+“Damn it!”
 
 His voice shook.
 
-“He planned for everyone to die if he didn't come back.”
+“He set a trap to kill everyone if he didn't come back. That lunatic!”
 
-Ah'Heman's need to be accepted by Ballak had twisted into something that destroyed the very tribe he wanted to belong to.
+It showed just how desperately Ah'Heman had wanted recognition within Ballak.
 
-Ahun understood his grandfather better now.
+And how grotesquely that desire had twisted.
 
-He hated him more for it.
+Understanding his grandfather better did not make Ahun hate him less.
 
-Fortunately, most people had been away.
+It made the hatred worse.
 
-Those who had remained were often outside gathering fruit and roots for a celebration if Vikir won the Illiad.
+But the realization had come too late.
 
-Aiyen's order had accidentally saved lives.
+The village had been devastated to the point that restoration seemed almost impossible.
 
-Akwilla clenched her fists until blood ran between her fingers.
+There was, however, one piece of extraordinary luck.
 
-“The dead are fewer than they could have been.”
+Most of the population had gone to watch the Illiad.
 
-She forced herself to breathe.
+And many of the people who stayed behind had left the village to gather berries, roots, and other food.
 
-“Houses can be rebuilt. Food can be gathered again.”
+That had been Aiyen's instruction.
 
-Warriors began collecting bodies.
+If Vikir won—
 
-Others searched for survivors.
+they were supposed to prepare a celebration feast.
 
-Considering that Madam herself had come here, the losses were almost miraculous.
+Akwilla clenched her fists until her palms bled.
 
-Ahun stood apart.
+“At least the casualties are relatively low.”
+
+She forced the words out.
+
+“The village can be rebuilt. We can gather food again. Those floating houses were temporary structures for the rainy season anyway.”
+
+Ballak's warriors went to work immediately.
+
+Some collected the dead.
+
+Others searched for survivors still hiding outside the village.
+
+They could only console themselves with the fact that, considering Madam Eight-Legs had personally attacked the settlement, the number of deaths was almost miraculously small.
+
+Elsewhere—
+
+“…”
+
+Ahun stood with his head lowered.
 
 Vikir touched his shoulder.
 
-“I should have listened to you.”
+Ahun looked back at him, voice choking.
 
-Ahun's voice cracked.
+“Vikir… I should have listened to you.”
 
-“If I'd finished Ah'Heman when you told me—”
+Anger and regret twisted together on his face.
+
+“When you told me to finish Ah'Heman… if I'd listened then…”
 
 “This isn't your fault.”
 
-Vikir turned toward the gathered warriors.
+Vikir turned toward the warriors nearby.
 
-“The larger fault lies with the Empire.”
+“The greater fault lies with the Empire.”
 
-Silence.
+Everyone looked at him.
 
-“More precisely, Baskerville.”
+“More precisely—Baskerville.”
 
-Everyone knew where Vikir had come from.
+No one needed reminding that Vikir himself had come from Baskerville.
 
-He continued anyway.
+He said it anyway.
 
-“Baskerville's aggressive monster subjugation reduced Madam's hunting grounds and food.”
+“The reason Madam expanded her territory this far, and the reason hunger drove her into Ballak's village, ultimately traces back to Baskerville.”
 
-Her range expanded.
+The Iron-Blooded Sword House had pursued monster subjugation too aggressively.
 
-The tribes were pushed lower and lower into contested territory.
+Madam's food sources dwindled.
 
-On one side—
+So she expanded her hunting range.
 
-Madam.
+The native tribes, in turn, had been pushed farther toward the foothills to escape her hunger.
 
-On the other—
+Vikir had named one of the deepest reasons Ballak resented the Empire.
 
-Baskerville.
+And the warriors listened closely to a man condemning the wrongdoing of the house that had raised him.
 
-Vikir did not say the final part aloud.
+There was one thing Vikir did not say aloud.
 
-*I helped accelerate that policy.*
+*Part of this traces back to a policy I helped advance.*
 
-At eight, he had proposed the Morgue alliance and large-scale campaign using knowledge from his prior life.
+When he was eight, Vikir had proposed cooperation with Morgue and a large-scale campaign into Le Rouge et Le Noir Mountain.
 
-The strategy had originated with Hugo.
+He had merely used knowledge from before regression to reveal a plan Hugo was already preparing.
 
-But Vikir had still helped put it into motion.
+Still—
 
-He owed Ballak.
+he bore some responsibility for accelerating it.
 
-More than he had expected when he first arrived.
+That was another reason he wanted to repay Ballak now.
 
-They had restored his body.
+During his years here, Vikir had gained far more than refuge.
 
-Given him time outside Hugo's surveillance.
+His body had completely recovered.
 
-Taught him archery.
+He had escaped Hugo's surveillance network.
 
-Tracking.
+He had grown stronger.
+
+Learned abilities from multiple monsters.
+
+Learned archery from masters of the bow.
+
+Experienced the mysterious culture of a people the Empire barely understood.
+
+Learned tracking.
 
 Stealth.
 
 Jungle survival.
 
-Their customs.
+And now, with tribes throughout the floodlands supporting him, he had gained political influence as well.
 
-Their political support.
+He owed them.
 
-They had given him room to become stronger.
+Vikir looked around.
 
-He looked at Akwilla.
+Akwilla, the Night Fox and chieftain, was covered in wounds from her battle with Adonai.
 
-Covered in wounds from Adonai.
+Aiyen had taken a poisoned arrow while helping Vikir and still walked unevenly because of it.
 
-Then Aiyen.
-
-Still favoring the leg struck by poisoned aura.
+Vikir spoke.
 
 “Ballak never neglected Madam.”
 
-Everyone listened.
+Every warrior turned toward him.
 
-“You gave her offerings.”
+“You made offerings to her even a week ago.”
 
-The finest parts of prey.
+That was true.
 
-Even portions taken during prisoner campaigns.
+Whenever Ballak made a successful hunt, they selected the finest portion and sent it toward Madam's territory.
 
-“You honored her.”
+The same custom applied even after battles involving captives.
 
-Vikir's eyes darkened.
+“You respected her.”
 
-“She attacked anyway.”
+His eyes darkened.
+
+“But she attacked our home.”
 
 Children.
 
 Elders.
+
+The innocent.
 
 Wolves.
 
@@ -228,10 +326,12 @@ Homes.
 
 Food.
 
-Vikir turned toward the jungle.
+All destroyed.
+
+Vikir's eyes took on a deep blood-red glow.
 
 “I'm going to meet her.”
 
-His voice stayed calm.
+His voice was calm.
 
-“And ask for an answer.”
+“And demand an answer.”
