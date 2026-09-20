@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 429,
+  "accepted_count": 433,
   "staged_count": 0,
-  "next_chapter": 430,
+  "next_chapter": 434,
   "active_title_family": {
-    "name": "The Lion King",
+    "name": "The Returned Hound",
     "range": [
-      430,
-      433
+      434,
+      436
     ],
-    "boundary_status": "verified complete: target430→E428 through target433→E431",
-    "following_family_starts": 434,
-    "following_title": "The Returned Hound (1)",
-    "alignment_note": "430→E428 The Lion King (1) through 433→E431 The Lion King (4); 434→E432 begins The Returned Hound (1), continuing through target436→E434."
+    "boundary_status": "verified complete: target434→E432 through target436→E434",
+    "following_family_starts": 437,
+    "following_title": "Dreaming the Impossible Dream (1)",
+    "alignment_note": "434→E432 The Returned Hound (1) through 436→E434 The Returned Hound (3); 437→E435 begins Dreaming the Impossible Dream (1)."
   },
   "chapters": [
     {
@@ -6021,6 +6021,62 @@
       "acceptance": "qa/acceptance/chapter-0429.json",
       "acceptance_sha": "6f66c696428f86372a68f36a314c6b8e3610c91c",
       "family_qa": "qa/families/night-walkers-0425-0429.md"
+    },
+    {
+      "chapter": 430,
+      "title": "The Lion King (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/430.txt",
+      "english_mtl_reference": "source/chapters/chapter-428.xhtml",
+      "draft": "manuscript/drafts/chapter-0430.md",
+      "qa": "qa/chapter-0430.md",
+      "provenance": "editorial/provenance/chapter-0430.json",
+      "acceptance": "qa/acceptance/chapter-0430.json",
+      "acceptance_sha": "bdf78fd273ee33855f505de3747366907f5cc172",
+      "family_qa": "qa/families/lion-king-0430-0433.md"
+    },
+    {
+      "chapter": 431,
+      "title": "The Lion King (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/431.txt",
+      "english_mtl_reference": "source/chapters/chapter-429.xhtml",
+      "draft": "manuscript/drafts/chapter-0431.md",
+      "qa": "qa/chapter-0431.md",
+      "provenance": "editorial/provenance/chapter-0431.json",
+      "acceptance": "qa/acceptance/chapter-0431.json",
+      "acceptance_sha": "65efa0e8e612ced453839ad700088a2bdcaaedae",
+      "family_qa": "qa/families/lion-king-0430-0433.md"
+    },
+    {
+      "chapter": 432,
+      "title": "The Lion King (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/432.txt",
+      "english_mtl_reference": "source/chapters/chapter-430.xhtml",
+      "draft": "manuscript/drafts/chapter-0432.md",
+      "qa": "qa/chapter-0432.md",
+      "provenance": "editorial/provenance/chapter-0432.json",
+      "acceptance": "qa/acceptance/chapter-0432.json",
+      "acceptance_sha": "a65f16cec5eb8e83904e331725177c8c2b607b7a",
+      "family_qa": "qa/families/lion-king-0430-0433.md"
+    },
+    {
+      "chapter": 433,
+      "title": "The Lion King (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/433.txt",
+      "english_mtl_reference": "source/chapters/chapter-431.xhtml",
+      "draft": "manuscript/drafts/chapter-0433.md",
+      "qa": "qa/chapter-0433.md",
+      "provenance": "editorial/provenance/chapter-0433.json",
+      "acceptance": "qa/acceptance/chapter-0433.json",
+      "acceptance_sha": "d58909664d3fa12d4031ef3b3e61c685091b38c9",
+      "family_qa": "qa/families/lion-king-0430-0433.md"
     }
   ]
 }
