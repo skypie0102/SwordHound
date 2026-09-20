@@ -171,6 +171,31 @@ When `HANDOFF.md` or the tracker marks a manuscript-completeness audit active:
 6. Rebuild stale QA/provenance/acceptance evidence whenever a chapter is corrected.
 7. Do not enter EPUB assembly until current-state files formally close the completeness audit.
 
+## Full sanitization + completeness audit cycle gate
+
+When HANDOFF.md or the live tracker marks a full sanitization/completeness audit cycle active, it becomes the immediate editorial priority and complete-EPUB work is blocked.
+
+The audit must use separate recorded gates for:
+
+1. **sanitization fidelity** — no unsupported softening, euphemism, generalization, omission, or intensification of source harshness/explicitness;
+2. **full completeness** — direct complete-source coverage of dialogue, narration, description, transitions, thoughts, windows, numbers/mechanics, scene order, and endings;
+3. **boundary/alignment integrity** — chapter/family boundaries, combined raws, overlap containers, localized source gaps, shifted English mappings, and Side Stories.
+
+During such a cycle:
+
+- review every target chapter; historical acceptance and prior PASS artifacts are evidence, not an automatic pass;
+- proceed in contiguous title-family order;
+- do not use byte ratio, lexical overlap, or other diagnostics to skip direct review;
+- record safety-limited passages explicitly while still verifying all surrounding ordinary source coverage;
+- if one chapter fails either primary gate, review the complete family before repairs are accepted;
+- re-run both primary gates after remediation;
+- refresh chapter QA, provenance, acceptance, family QA/hash bindings, tracker acceptance SHAs, glossary entries, and source exceptions as applicable;
+- run an independent residual/consistency sweep after remediation;
+- validate all evidence/hash bindings before formally closing the cycle;
+- do not unblock EPUB assembly until the live state files and audit record explicitly mark closure.
+
+The active audit plan may define additional phase-specific evidence and checkpoint requirements. Keep those details in the live audit record rather than hard-coding a temporary chapter checkpoint here.
+
 ## Complete-EPUB presentation/release phase
 
 At complete-EPUB assembly, apply and verify the preserved formatting requirements, including dialogue indentation, unindented narration, 1.65 line height, single-quote handling, information-window presentation, `◆◆◆` scene breaks, typography, CSS behavior, viewport/device rendering, EPUB packaging, and EPUBCheck.
