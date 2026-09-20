@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    180,
+    196
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 180,
+      "title": "Midterm Random Defense (2)",
+      "draft_blob_sha": "43cec8f6a8b046666c54a2a928c73d4dbcf619d6",
+      "draft_raw_byte_ratio": 0.805414,
+      "metrics": {
+        "char_count": 7492,
+        "line_count": 532,
+        "nonempty_line_count": 268,
+        "paragraph_count": 264,
+        "dialogue_line_count": 107,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 250,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.67,
+        "opening_signature": "77d1e9ec",
+        "closing_signature": "a75631b5"
+      }
+    },
+    {
+      "chapter": 181,
+      "title": "Midterm Random Defense (3)",
+      "draft_blob_sha": "28960f629861883eb9323e493db5fab42e036b0b",
+      "draft_raw_byte_ratio": 0.689887,
+      "metrics": {
+        "char_count": 8569,
+        "line_count": 672,
+        "nonempty_line_count": 359,
+        "paragraph_count": 313,
+        "dialogue_line_count": 59,
+        "bracket_window_candidate_lines": 3,
+        "quote_marker_count": 142,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 11,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 11,
+        "explicitness_per_10k_chars": 12.837,
+        "opening_signature": "7b966fc8",
+        "closing_signature": "af6b1fac"
+      }
+    },
+    {
+      "chapter": 182,
+      "title": "Midterm Random Defense (4)",
+      "draft_blob_sha": "f2b661b7eb5a694fb884c307a3a67f812ad77be8",
+      "draft_raw_byte_ratio": 0.821998,
+      "metrics": {
+        "char_count": 7347,
+        "line_count": 560,
+        "nonempty_line_count": 306,
+        "paragraph_count": 254,
+        "dialogue_line_count": 69,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 159,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 13,
+        "explicitness_per_10k_chars": 17.694,
+        "opening_signature": "45840912",
+        "closing_signature": "e9d11004"
+      }
+    },
+    {
+      "chapter": 183,
+      "title": "Midterm Random Defense (5)",
+      "draft_blob_sha": "01da467438157aab11bb5a14dce76cadeef2363a",
+      "draft_raw_byte_ratio": 0.75724,
+      "metrics": {
+        "char_count": 6105,
+        "line_count": 406,
+        "nonempty_line_count": 203,
+        "paragraph_count": 203,
+        "dialogue_line_count": 75,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 165,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 3.276,
+        "opening_signature": "d69adc63",
+        "closing_signature": "86e0b405"
+      }
+    },
+    {
+      "chapter": 184,
+      "title": "Midterm Random Defense (6)",
+      "draft_blob_sha": "acfb720da06abdda78820febe7879a54451d3823",
+      "draft_raw_byte_ratio": 0.903954,
+      "metrics": {
+        "char_count": 6687,
+        "line_count": 489,
+        "nonempty_line_count": 254,
+        "paragraph_count": 235,
+        "dialogue_line_count": 25,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 69,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.991,
+        "opening_signature": "a51ccfed",
+        "closing_signature": "5bf620eb"
+      }
+    },
+    {
+      "chapter": 185,
+      "title": "Midterm Random Defense (7)",
+      "draft_blob_sha": "5cd5dd8f952de2059a302d44cc53c2cb0cacb8cc",
+      "draft_raw_byte_ratio": 0.831783,
+      "metrics": {
+        "char_count": 7816,
+        "line_count": 595,
+        "nonempty_line_count": 301,
+        "paragraph_count": 294,
+        "dialogue_line_count": 20,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 64,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 10.235,
+        "opening_signature": "3c98c688",
+        "closing_signature": "bdeeb18b"
+      }
+    },
+    {
+      "chapter": 186,
+      "title": "Aftermath (1)",
+      "draft_blob_sha": "bd5b059d45d07d8b89ff7c8a885ac7a5535fd6a8",
+      "draft_raw_byte_ratio": 0.933529,
+      "metrics": {
+        "char_count": 8694,
+        "line_count": 454,
+        "nonempty_line_count": 254,
+        "paragraph_count": 200,
+        "dialogue_line_count": 13,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 49,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 4.601,
+        "opening_signature": "e09fe4fc",
+        "closing_signature": "a68eb5e3"
+      }
+    },
+    {
+      "chapter": 187,
+      "title": "Aftermath (2)",
+      "draft_blob_sha": "5decd46823aed5348ecd61db63b7db3a9462cf68",
+      "draft_raw_byte_ratio": 0.749657,
+      "metrics": {
+        "char_count": 8746,
+        "line_count": 656,
+        "nonempty_line_count": 328,
+        "paragraph_count": 328,
+        "dialogue_line_count": 96,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 235,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.287,
+        "opening_signature": "11ed21f8",
+        "closing_signature": "c8beae4b"
+      }
+    },
+    {
+      "chapter": 188,
+      "title": "Aftermath (3)",
+      "draft_blob_sha": "a5acf6864aadc537b94251c915c505b4c1c93de3",
+      "draft_raw_byte_ratio": 0.850241,
+      "metrics": {
+        "char_count": 8142,
+        "line_count": 566,
+        "nonempty_line_count": 283,
+        "paragraph_count": 283,
+        "dialogue_line_count": 95,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 210,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.685,
+        "opening_signature": "351008ac",
+        "closing_signature": "5d79afca"
+      }
+    },
+    {
+      "chapter": 189,
+      "title": "Aftermath (4)",
+      "draft_blob_sha": "b8f18cba51c098537ac5d3e77d84af0d817c5adb",
+      "draft_raw_byte_ratio": 0.768026,
+      "metrics": {
+        "char_count": 6372,
+        "line_count": 472,
+        "nonempty_line_count": 242,
+        "paragraph_count": 230,
+        "dialogue_line_count": 82,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 186,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "97d92bb0",
+        "closing_signature": "2939f9d7"
+      }
+    },
+    {
+      "chapter": 190,
+      "title": "Attack Land (1)",
+      "draft_blob_sha": "4947fe8cc91d74f0f7f51db1d73afddb722cb3fa",
+      "draft_raw_byte_ratio": 1.016658,
+      "metrics": {
+        "char_count": 9854,
+        "line_count": 578,
+        "nonempty_line_count": 307,
+        "paragraph_count": 271,
+        "dialogue_line_count": 57,
+        "bracket_window_candidate_lines": 11,
+        "quote_marker_count": 146,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 5.074,
+        "opening_signature": "f5e51fa3",
+        "closing_signature": "1918c85a"
+      }
+    },
+    {
+      "chapter": 191,
+      "title": "Attack Land (2)",
+      "draft_blob_sha": "845c49feb18fded4b0d57c1b6d572155aa1755d4",
+      "draft_raw_byte_ratio": 1.058218,
+      "metrics": {
+        "char_count": 7688,
+        "line_count": 493,
+        "nonempty_line_count": 249,
+        "paragraph_count": 244,
+        "dialogue_line_count": 62,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 151,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 7.804,
+        "opening_signature": "25136c19",
+        "closing_signature": "70d9c673"
+      }
+    },
+    {
+      "chapter": 192,
+      "title": "Attack Land (3)",
+      "draft_blob_sha": "770b1c0f1df669cf40a429b538ce73c3a470bdfb",
+      "draft_raw_byte_ratio": 0.898107,
+      "metrics": {
+        "char_count": 9421,
+        "line_count": 655,
+        "nonempty_line_count": 332,
+        "paragraph_count": 323,
+        "dialogue_line_count": 73,
+        "bracket_window_candidate_lines": 25,
+        "quote_marker_count": 194,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.184,
+        "opening_signature": "192653a5",
+        "closing_signature": "290ed34b"
+      }
+    },
+    {
+      "chapter": 193,
+      "title": "Attack Land (4)",
+      "draft_blob_sha": "9cc370aad266f8adff8cb85cf807e4c217120671",
+      "draft_raw_byte_ratio": 0.889477,
+      "metrics": {
+        "char_count": 10221,
+        "line_count": 697,
+        "nonempty_line_count": 353,
+        "paragraph_count": 344,
+        "dialogue_line_count": 101,
+        "bracket_window_candidate_lines": 8,
+        "quote_marker_count": 248,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 4.892,
+        "opening_signature": "38235d3d",
+        "closing_signature": "ad3a3b81"
+      }
+    },
+    {
+      "chapter": 194,
+      "title": "Attack Land (5)",
+      "draft_blob_sha": "a9ad6de01683523f1480823ee835238dd0d44241",
+      "draft_raw_byte_ratio": 0.974205,
+      "metrics": {
+        "char_count": 7441,
+        "line_count": 476,
+        "nonempty_line_count": 238,
+        "paragraph_count": 238,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 31,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 5.376,
+        "opening_signature": "7a84b022",
+        "closing_signature": "d87242c4"
+      }
+    },
+    {
+      "chapter": 195,
+      "title": "Attack Land (6)",
+      "draft_blob_sha": "8c53c8381721d746077007c76b18be6f526ce6cd",
+      "draft_raw_byte_ratio": 0.824994,
+      "metrics": {
+        "char_count": 6962,
+        "line_count": 528,
+        "nonempty_line_count": 264,
+        "paragraph_count": 264,
+        "dialogue_line_count": 59,
+        "bracket_window_candidate_lines": 16,
+        "quote_marker_count": 141,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.873,
+        "opening_signature": "9cba0d90",
+        "closing_signature": "21ee5bd4"
+      }
+    },
+    {
+      "chapter": 196,
+      "title": "Attack Land (7)",
+      "draft_blob_sha": "0ee756fbf72362c6d67bf44474f7db8c77fd2c46",
+      "draft_raw_byte_ratio": 0.944119,
+      "metrics": {
+        "char_count": 15183,
+        "line_count": 908,
+        "nonempty_line_count": 473,
+        "paragraph_count": 435,
+        "dialogue_line_count": 143,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 349,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 8,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 5.928,
+        "opening_signature": "b14140fd",
+        "closing_signature": "ae5926b1"
+      }
+    }
+  ]
+}
