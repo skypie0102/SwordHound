@@ -1,0 +1,38 @@
+{
+  "chapter": 450,
+  "title": "Declaration of War (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Declaration of War",
+    "range": [
+      450,
+      453
+    ],
+    "family_qa_path": "qa/families/declaration-of-war-0450-0453.md",
+    "family_qa_sha": "5fa4025ba6ebac5aa2b050f55fbe56de31015113",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/450.txt",
+    "blob_sha": "4ab61de381f2307d71a33597a2c8f6a98bf6a574",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-448.xhtml",
+    "blob_sha": "3b640c6a9be8e792734ead0f77f894ac6705aeff",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0450.md",
+    "blob_sha": "3b8f754f0e3b8783bab07e88dc2045c918a7858e"
+  },
+  "qa": {
+    "path": "qa/chapter-0450.md",
+    "blob_sha": "63b8269369f7877be4236d4033d26a125bdb5b5b",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, Raspane Morgue, and later Corpse canon. Later true-name information is reveal-guarded unless exposed by the chapter.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "First Corpse and Second Corpse remain unnamed in production; portrait target remains unidentified."
+}
