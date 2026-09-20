@@ -3,7 +3,7 @@
   "title": "The Lion King (2)",
   "accepted": true,
   "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -11,8 +11,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
-    "status": "pass"
+    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/431.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-429.xhtml",
     "english_reference_sha": "406042322e299a0305c7d7e29a78cfcdee4a7af6",
     "draft_path": "manuscript/drafts/chapter-0431.md",
-    "draft_sha": "1676b78f3b02212f61e3d19d680d5071fe2458d6",
+    "draft_sha": "df9cbf3fac3f65b1b42adff616842860b88ec6f5",
     "qa_path": "qa/chapter-0431.md",
-    "qa_sha": "f2f012021d200dbd6d016061fc190d86123bee03",
+    "qa_sha": "b2a740a6cecbab5d5583f30d9d681125fcba70d9",
     "provenance_path": "editorial/provenance/chapter-0431.json",
-    "provenance_sha": "6cb315cc1a12afa704771de04d7e1ef23d27529d"
+    "provenance_sha": "9f47e366622bce03d4fd1018e42a5e928353da1a"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Returned Hound material from target434 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "status": null,
+    "draft_sha": "1676b78f3b02212f61e3d19d680d5071fe2458d6",
+    "qa_sha": "f2f012021d200dbd6d016061fc190d86123bee03",
+    "provenance_sha": "6cb315cc1a12afa704771de04d7e1ef23d27529d"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/lion-king-0430-0433.md",
+    "initial_priority_target": true
+  },
+  "priority_resolution": "Final initial-priority target431 resolved."
 }
