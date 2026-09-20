@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 478,
+  "accepted_count": 482,
   "staged_count": 0,
-  "next_chapter": 479,
+  "next_chapter": 483,
   "active_title_family": {
-    "name": "Downtown Naval Warfare",
+    "name": "The Marquis of Discord",
     "range": [
-      479,
-      482
+      483,
+      489
     ],
-    "boundary_status": "verified complete: target479→E477 through target482→E480",
-    "following_family_starts": 483,
-    "following_title": "The Marquis of Discord (1)",
-    "alignment_note": "479→E477 through 482→E480; 483→E481 begins The Marquis of Discord (1)-(7) through target489→E487."
+    "boundary_status": "verified complete: target483→E481 through target489→E487",
+    "following_family_starts": 490,
+    "following_title": "Running Hound (1)",
+    "alignment_note": "483→E481 through 489→E487; 490→E488 begins Running Hound(s) (1)-(4) through target493→E491."
   },
   "chapters": [
     {
@@ -6707,6 +6707,62 @@
       "acceptance": "qa/acceptance/chapter-0478.json",
       "acceptance_sha": "3ac33e45b73e1515ade046f4d342be9aba654dae",
       "family_qa": "qa/families/tochka-annihilation-0478.md"
+    },
+    {
+      "chapter": 479,
+      "title": "Downtown Naval Warfare (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/479.txt",
+      "english_mtl_reference": "source/chapters/chapter-477.xhtml",
+      "draft": "manuscript/drafts/chapter-0479.md",
+      "qa": "qa/chapter-0479.md",
+      "provenance": "editorial/provenance/chapter-0479.json",
+      "acceptance": "qa/acceptance/chapter-0479.json",
+      "acceptance_sha": "ed1f55fef5d91223a70feffafccf58986f2aa6b6",
+      "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
+    },
+    {
+      "chapter": 480,
+      "title": "Downtown Naval Warfare (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/480.txt",
+      "english_mtl_reference": "source/chapters/chapter-478.xhtml",
+      "draft": "manuscript/drafts/chapter-0480.md",
+      "qa": "qa/chapter-0480.md",
+      "provenance": "editorial/provenance/chapter-0480.json",
+      "acceptance": "qa/acceptance/chapter-0480.json",
+      "acceptance_sha": "ec2609e2298e53a3a9bae3652bf694bd7c5bda02",
+      "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
+    },
+    {
+      "chapter": 481,
+      "title": "Downtown Naval Warfare (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/481.txt",
+      "english_mtl_reference": "source/chapters/chapter-479.xhtml",
+      "draft": "manuscript/drafts/chapter-0481.md",
+      "qa": "qa/chapter-0481.md",
+      "provenance": "editorial/provenance/chapter-0481.json",
+      "acceptance": "qa/acceptance/chapter-0481.json",
+      "acceptance_sha": "f82443f192c7fac0b7995f0625e7df048c88d0b7",
+      "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
+    },
+    {
+      "chapter": 482,
+      "title": "Downtown Naval Warfare (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/482.txt",
+      "english_mtl_reference": "source/chapters/chapter-480.xhtml",
+      "draft": "manuscript/drafts/chapter-0482.md",
+      "qa": "qa/chapter-0482.md",
+      "provenance": "editorial/provenance/chapter-0482.json",
+      "acceptance": "qa/acceptance/chapter-0482.json",
+      "acceptance_sha": "657fd76cc366108a9226ae975f9a4c04c83d9544",
+      "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
     }
   ]
 }
