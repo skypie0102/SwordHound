@@ -4,29 +4,29 @@
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical acceptance before post-run audit:** 500 / 500  
-**Current tracker state:** 496 accepted / 4 confirmed needs rework  
-**Confirmed needs rework:** 97, 316, 319, 420  
+**Current tracker state:** 497 accepted / 3 confirmed needs rework  
+**Confirmed needs rework:** 316, 319, 420  
+**Resolved confirmed failure:** 97  
 **Project completion:** REOPENED — manuscript completeness audit active  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94) — rebuilt / PASS  
-**Pending initial priority queue:** 41 chapters  
-**Next audit family:** Madam Eight-Legs (95–100)
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100) — rebuilt / PASS  
+**Pending initial priority queue:** 37 chapters  
+**Next audit family:** Nostalgia (101–104)
 
-The production run reached all 500 manuscript targets, but strict post-run source comparison proved that historical acceptance frequently established plot continuity without proving full sentence-level source coverage.
+The production run reached all 500 manuscript targets, but strict source comparison has shown that historical acceptance often verified plot continuity without establishing complete sentence-level coverage.
 
-Two consecutive families have now been fully audited:
-- **The Illiad (85–89):** all five historical drafts materially compressed and rebuilt; 85–86 had not been caught by the initial size threshold.
-- **The Ghosts of the Ancestors (90–94):** all five historical drafts materially compressed and rebuilt; 90–91 had not been caught by the initial size threshold.
+Three consecutive title families have now been fully audited and rebuilt:
+- **The Illiad (85–89):** all five historical drafts materially compressed.
+- **The Ghosts of the Ancestors (90–94):** all five materially compressed.
+- **Madam Eight-Legs (95–100):** all six had completeness/integrity issues; Chapter97's confirmed failure is resolved.
 
-This confirms that byte-ratio triage is useful for ordering work but cannot certify completeness.
+The Madam audit also found two non-length defects:
+- **Target95 localized Chinese gap:** C095 jumps to Vikir already comforting Aheul. The exact missing bridge is restored from aligned E94 and documented in `source/chinese/chapter-exceptions.tsv`.
+- **Target100 boundary contamination:** the historical draft imported target101's landing, Madam death, Venom acquisition, and rescue. Target100 now correctly ends at the Bog Salamander cushion; target101 begins at impact.
 
-Primary audit record: `qa/manuscript-completeness-audit.md`.
+Current unresolved confirmed failures are **316, 319, 420**.
 
-Original priority queue:
-- 47 ordinary one-target chapters below draft/raw byte ratio 0.60.
-- Rebuilt from that queue so far: 87–89 and 92–94.
-- **41 initial-priority chapters remain pending.**
-- The whole corpus still requires direct completeness review after the priority queue.
+Original priority queue: 47 chapters. Rebuilt priority chapters so far: 87–89, 92–94, 96–99. **37 remain.**
 
-Chapter 55 remains hybrid rather than English-only: most target-55 Chinese text survives appended in `054.txt`; E55 supplies the missing opening/title boundary.
+The whole corpus still requires direct completeness review after the priority queue because above-threshold chapters have repeatedly failed.
 
-Next phase: audit/rebuild **Madam Eight-Legs (95–100)**. Chapter 97 is already a confirmed needs-rework chapter; 96–99 are in the initial priority queue. After that, continue family-by-family without stopping until a genuine blocker or corpus end.
+Next phase: audit/rebuild **Nostalgia (101–104)**, all four of which are in the initial priority queue.
