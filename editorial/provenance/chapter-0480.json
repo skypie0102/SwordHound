@@ -1,0 +1,38 @@
+{
+  "chapter": 480,
+  "title": "Downtown Naval Warfare (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Downtown Naval Warfare",
+    "range": [
+      479,
+      482
+    ],
+    "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
+    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/480.txt",
+    "blob_sha": "779343246badf6f6d4f1030779fceb804b719454",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-478.xhtml",
+    "blob_sha": "2b16df7b7ef6d83151c2eb989e009313e54bf8c1",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0480.md",
+    "blob_sha": "7619817b4bb2a9790d17f850be126937df96597a"
+  },
+  "qa": {
+    "path": "qa/chapter-0480.md",
+    "blob_sha": "dba89aca7c709b0d3f711c25c16d3994f96945e3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms and new source-local maritime terms remain unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Decarabia's gate-opener/gate-closer clue remains cryptic; do not identify either role early."
+}
