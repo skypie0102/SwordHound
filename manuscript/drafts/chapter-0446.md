@@ -248,7 +248,7 @@ Bianca recognized the largest.
 
 “Isolde!”
 
-**Usher P. Isolde.**
+**Isolde Usher.**
 
 The traitor who had turned on Roderick.
 
