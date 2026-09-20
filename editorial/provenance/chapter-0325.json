@@ -1,7 +1,7 @@
 {
   "chapter": 325,
   "title": "Underdogma (5)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Underdogma",
     "range": [
@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
-    "status": "pass"
+    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/325.txt",
@@ -24,18 +24,32 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0325.md",
-    "blob_sha": "3e84ea71ac022d634fe772e9008c770649a2ef07"
+    "blob_sha": "4ace3d86094bcc148ecf463afc19702790a31393"
   },
   "qa": {
     "path": "qa/chapter-0325.md",
-    "blob_sha": "ab8ea54b787b58dac1cfaac5195b5189f6596f70",
-    "status": "pass"
+    "blob_sha": "e5c1c0c29e4b31f3ae6a8d6254ef4e841aee7698",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-20",
   "key_reveals": [
     "Dogma becomes A+ Majin Underdogma / Blazing Inferiority Complex.",
     "Vikir obtains White Magic Resistance +1 after reverse Candy Shop conversion and Conversion Bug rerolls."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "3e84ea71ac022d634fe772e9008c770649a2ef07",
+    "qa_sha": "ab8ea54b787b58dac1cfaac5195b5189f6596f70"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/underdogma-0321-0325.md",
+    "initial_priority_target": true
+  },
+  "progression_guard": "Vikir remains Level1; Magic Resistance +1 unlocks the sixth tower-stat slot."
 }
