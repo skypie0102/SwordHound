@@ -2,8 +2,8 @@
   "chapter": 228,
   "title": "Tuition (4)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/228.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-226.xhtml",
     "english_reference_sha": "c342933f93915e0ba6291046288d29971ee810a0",
     "draft_path": "manuscript/drafts/chapter-0228.md",
-    "draft_sha": "5a6d9df45135f5035a4c1867885cdb069b0577b1",
+    "draft_sha": "eb120eccdecf3efed81d0aecd120ee421bd7987f",
     "qa_path": "qa/chapter-0228.md",
-    "qa_sha": "a39dcfb2bac706c8866092b155c977981eeeaa20",
+    "qa_sha": "e5228b0c03ee98a8cf35569755a186f2d2cbe621",
     "provenance_path": "editorial/provenance/chapter-0228.json",
-    "provenance_sha": "ece88b90564ad60f3ffeb455eabd11c9646d6c9a"
+    "provenance_sha": "78219e50de231cd267b322b422755c07b82fa0da"
   },
   "canonical_checks": [
     "MiniPin",
@@ -36,5 +36,18 @@
     "Vikir steals nothing.",
     "MiniPin's wife/daughter are never threatened or harmed."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "5a6d9df45135f5035a4c1867885cdb069b0577b1",
+    "qa_sha": "a39dcfb2bac706c8866092b155c977981eeeaa20",
+    "provenance_sha": "ece88b90564ad60f3ffeb455eabd11c9646d6c9a"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }
