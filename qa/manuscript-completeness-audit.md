@@ -1,7 +1,7 @@
 # Post-500 Manuscript Completeness Audit
 
 **Opened:** 2026-09-20  
-**Status:** ACTIVE  
+**Status:** COMPLETE  
 **Target manuscript files present:** 500 / 500  
 **Historical tracker state before audit:** 500 / 500 accepted  
 **Confirmed rework as of opening audit:** Chapters 97, 316, 319, 420
@@ -10,7 +10,7 @@
 
 The 500 target manuscript files do exist, but a deterministic size scan exposed unusually compressed English drafts. Byte ratio is only a triage signal because Chinese UTF-8 and English encode differently, but the lowest-ratio chapters were suspicious enough to require direct raw comparison.
 
-Direct reads confirmed that Chapters **97, 316, 319, and 420** originally preserved the broad plot while omitting substantial sentence-level narration, dialogue, descriptive detail, and transitions from their Chinese raws. Chapters **97, 316, and 319 have since been fully rebuilt and re-accepted**. Chapter **420** remains the sole unresolved confirmed failure.
+Direct reads confirmed that Chapters **97, 316, 319, and 420** originally preserved the broad plot while omitting substantial sentence-level narration, dialogue, descriptive detail, and transitions from their Chinese raws. All four were rebuilt and re-accepted during the priority-family pass. A later whole-corpus residual pass then found one additional completeness failure above the original cutoff: **Chapter 59**, which was likewise rebuilt and re-bound.
 
 Representative example: Chapter 316 is **3,220 draft bytes vs 10,102 Chinese-raw bytes (0.319)**. The raw contains extended dialogue and narrative beats that the draft collapses into short bullet-like fragments. Chapter 319 (0.332), Chapter 420 (0.348), and Chapter 97 (0.389) show the same pattern on direct inspection.
 
@@ -210,7 +210,7 @@ Historical draft was confirmed summary-compressed. The complete Surplus Man fami
 Historical draft was confirmed summary-compressed. The complete Surplus Man family (314–320) was rebuilt on 2026-09-20; Chapter319 now restores the full Daylily fight, pooled nonlethal biological bait preparation, reward sequence, and connective narration and is accepted again.
 
 ### Chapter 420 — Goodbye, Nouvelle Vague (2) — RESOLVED
-Historical draft was confirmed summary-compressed and has now been fully rebuilt against Chinese source coverage. The draft preserves the major escape/fight beats but omits substantial source-level dialogue, action detail, and connective narration.
+Historical draft was confirmed summary-compressed and has now been fully rebuilt against Chinese source coverage. The rebuilt version restores the omitted dialogue, action detail, and connective narration while preserving the source boundary and terminology guards.
 
 ## Audit rules going forward
 
@@ -243,12 +243,78 @@ Start from the earliest flagged family and proceed in target order:
 
 After priority families, run a whole-corpus completeness pass so chapters above the size threshold are not assumed safe.
 
+## Whole-corpus residual pass
+
+After the original 47-chapter priority queue and 22 strong-suspect queue were cleared, the audit did **not** close immediately. A fresh post-rebuild size scan was run across the ordinary one-target Chinese containers.
+
+### Residual scan result
+
+- Ordinary one-target raw/draft pairs compared: **484**
+- Post-rebuild median draft/raw byte ratio: **~0.904**
+- Unresolved ordinary chapters below the original **0.60** trigger: **0**
+- Expanded low-tail review threshold: **<0.70** (triage only)
+- Expanded low-tail chapters: **28**
+- Title families represented: **15**
+
+The 28 expanded low-tail chapters were:
+
+`57, 59, 64, 65, 66, 67, 70, 77, 80, 81, 136, 176, 181, 211, 213, 214, 220, 300, 301, 331, 409, 422, 423, 424, 443, 445, 446, 448`.
+
+Review used multiple signals rather than byte ratio alone:
+
+1. raw/draft structural retention;
+2. paragraph-level coverage against the verified aligned English witness where available;
+3. existing title-family boundary/QA records;
+4. direct Chinese reads for suspicious outliers.
+
+### New residual failure: Chapter 59 — RESOLVED
+
+The expanded pass found that **Chapter 59 — The Hunter and the Hunted (5)** was materially compressed even though its historical byte ratio (**0.625**) sat above the original 0.60 trigger.
+
+Direct C059 comparison showed ordinary source material had been collapsed around:
+
+- tracking cues and rain-erased trail logic;
+- scented-fruit bait / Bakira smell tracking;
+- the exact swamp mosquito categories and prior casualty context;
+- Cold Valley terrain, shelter construction, and temperature detail;
+- Vikir's Age-of-Destruction memories and near-instant sleep habit;
+- the jerky/liquor feeding setup, weight banter, Bakira exchange, and attack transition.
+
+Chapter 59 was rebuilt and re-QA'd on 2026-09-20. Its Hunter-and-Hunted family QA plus provenance/acceptance chain for Chapters 55–60 were rebound to fresh hashes. Underage sexualized body-contact detail remains safety-limited and summarized nonsexually; ordinary narrative, plot, survival, and continuity information is restored.
+
+Post-rebuild, only **1 / 132** aligned E58 paragraphs fell below the conservative lexical-overlap floor used as a secondary coverage detector (**0.8%**), consistent with paraphrase rather than missing content.
+
+### Residual families revalidated
+
+The remaining low-tail families were revalidated and did not produce additional completeness failures:
+
+- Unfair Trade (64–67)
+- Blood Relatives (68–71)
+- The Hound of the Night (75–77)
+- The Saintess (78–82)
+- Test Your Skills (133–138)
+- The 99 Hits With 100 Shots (176–178)
+- Midterm Random Defense (179–185)
+- Festival Night (206–215)
+- That Day, Him and Me (220–224)
+- The Age of the Warmonger (299–306)
+- Draw (331–332)
+- End game (409–418)
+- How to Become a Wandering Knight (422–424)
+- The Fall of Usher (441–449)
+
+Direct reads of the strongest mismatch cases confirmed that their low ratios or low lexical overlap came from encoding/prose style/heavy rephrasing rather than missing source sequence coverage.
+
+**Residual pass result:** **PASS — no unresolved completeness failures remain.**
+
 ## Audit completion
 
 The post-500 manuscript completeness audit is **COMPLETE** as of 2026-09-20.
 
 - Initial priority queue: **47 / 47 resolved**.
 - Strong-suspect queue: **22 / 22 resolved**.
-- Confirmed completeness failures resolved: **97, 316, 319, 420**.
+- Original confirmed completeness failures resolved: **97, 316, 319, 420**.
+- Additional residual failure found and resolved: **59**.
+- Whole-corpus residual low-tail pass: **COMPLETE**.
 - Current tracker: **500 accepted / 0 needs rework**.
-- No unresolved confirmed failures remain.
+- No unresolved completeness failures remain.
