@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 453  
+**Accepted:** 464  
 **Staged:** 0  
-**Next chapter:** 454
+**Next chapter:** 465
 
-Latest accepted family: **Declaration of War (1)–(4)** — targets450–453 / E448–E451.  
-Family QA: `qa/families/declaration-of-war-0450-0453.md` — **PASS**.
+Latest accepted family: **Infiltration of the Water Source (1)–(11)** — targets454–464 / E452–E462.  
+Family QA: `qa/families/infiltration-water-source-0454-0464.md` — **PASS**.
 
-Key decisions: canonical Juskin/Hopps/Raspane forms; First/Second Corpse names remain chronology-guarded; improved contagious Poison Humans are mass-produced through the Ouroboros poison source; Hugo and the alliance converge on Tochka; Nouvelle Vague survivors follow Black Tongue there; Vikir returns after confirming water-supply attacks and enemy concentration.
+Key decisions: dry-crater failure preserved; recharge facility and Ouroboros poison source exposed; Flauros revealed as S+ Second Corpse; Pigi anomaly language remains unresolved; water-source and Tochka fronts receive separate reinforcement waves.
 
-Next verified family: **Infiltration of the Water Source (1)–(11)** — targets454–464 / E452–E462.  
-Target465/E463 begins *The Prelude to a Counterattack (1)*.
+Next verified family: **The Prelude to a Counterattack (1)–(6)** — targets465–470 / E463–E468.  
+Target471/E469 begins *Tochka Annihilation Battle (1)*.
