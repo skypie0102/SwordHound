@@ -3180,8 +3180,9 @@
       "qa": "qa/chapter-0225.md",
       "provenance": "editorial/provenance/chapter-0225.json",
       "acceptance": "qa/acceptance/chapter-0225.json",
-      "acceptance_sha": "61a052b8abb429c59e6a2741e0e94bfbbf33d25e",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "e1d44d75a4e2da60f95dedb26c65de1182c48f29",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 226,
@@ -3194,8 +3195,9 @@
       "qa": "qa/chapter-0226.md",
       "provenance": "editorial/provenance/chapter-0226.json",
       "acceptance": "qa/acceptance/chapter-0226.json",
-      "acceptance_sha": "c572b008780bbcfa1759d2b5ca9af2dc4d6136a7",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "3251613218956d9b311371bb851d74eca077c166",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 227,
@@ -3208,8 +3210,9 @@
       "qa": "qa/chapter-0227.md",
       "provenance": "editorial/provenance/chapter-0227.json",
       "acceptance": "qa/acceptance/chapter-0227.json",
-      "acceptance_sha": "eaef2f16814b5e7f5c5f6c8dcb99026507dff293",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "192e1c5da076c004711539e034d05f214baf27db",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 228,
@@ -3222,8 +3225,9 @@
       "qa": "qa/chapter-0228.md",
       "provenance": "editorial/provenance/chapter-0228.json",
       "acceptance": "qa/acceptance/chapter-0228.json",
-      "acceptance_sha": "1521ce3c1da6c17bb3307ec4c06fd9d43dcfcddf",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "8c8d2d8fb9677cdeec41fa3065ebad2791e680bd",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 229,
@@ -3236,8 +3240,9 @@
       "qa": "qa/chapter-0229.md",
       "provenance": "editorial/provenance/chapter-0229.json",
       "acceptance": "qa/acceptance/chapter-0229.json",
-      "acceptance_sha": "16df75aca3d9d76dafff6bbd39454412e8a24c97",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "e720e9218ea757747053cd12888db6a317e82d71",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 230,
@@ -3250,8 +3255,9 @@
       "qa": "qa/chapter-0230.md",
       "provenance": "editorial/provenance/chapter-0230.json",
       "acceptance": "qa/acceptance/chapter-0230.json",
-      "acceptance_sha": "9f6c0f7ddab05255806709fb44815d9fe6e828a4",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "2d43cafb362145302c4f4e022ac2b33308f88266",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 231,
@@ -3264,8 +3270,9 @@
       "qa": "qa/chapter-0231.md",
       "provenance": "editorial/provenance/chapter-0231.json",
       "acceptance": "qa/acceptance/chapter-0231.json",
-      "acceptance_sha": "884ade5eca30e8a0344076eb3406c3c1ddf4a1dd",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "3c9b9327768c2754e4ad9af409f254a78af07448",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 232,
@@ -3278,8 +3285,9 @@
       "qa": "qa/chapter-0232.md",
       "provenance": "editorial/provenance/chapter-0232.json",
       "acceptance": "qa/acceptance/chapter-0232.json",
-      "acceptance_sha": "2546f6b5f38852b9af41e3e14aa010703587cc15",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "a3de1ebc41c8fb2c5e515625b4395528c4659537",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 233,
@@ -3292,8 +3300,9 @@
       "qa": "qa/chapter-0233.md",
       "provenance": "editorial/provenance/chapter-0233.json",
       "acceptance": "qa/acceptance/chapter-0233.json",
-      "acceptance_sha": "55649b5ebc7a2c6c2490a926a190317b494bd987",
-      "family_qa": "qa/families/tuition-0225-0233.md"
+      "acceptance_sha": "c305eb2bd9e192561209ee36f96e5d39cf34e000",
+      "family_qa": "qa/families/tuition-0225-0233.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 234,
@@ -7180,13 +7189,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All seven historical drafts were materially compressed; C192 Pigi-next and C193 Pigi-department corrections preserved."
+      },
+      {
+        "name": "Tuition",
+        "range": [
+          225,
+          233
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All nine historical drafts were materially compressed; priority targets225,228,230,231 resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      225,
-      228,
-      230,
-      231,
       242,
       307,
       308,
@@ -7215,12 +7230,12 @@
       421,
       431
     ],
-    "pending_priority_review_count": 31,
+    "pending_priority_review_count": 27,
     "next_family": {
-      "name": "Tuition",
+      "name": "TBD from next priority target",
       "range": [
-        225,
-        233
+        242,
+        242
       ]
     },
     "resolved_confirmed_needs_rework": [
@@ -7256,7 +7271,11 @@
       103,
       104,
       192,
-      196
+      196,
+      225,
+      228,
+      230,
+      231
     ]
   }
 }
