@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 477  
+**Accepted:** 478  
 **Staged:** 0  
-**Next chapter:** 478
+**Next chapter:** 479
 
-Latest accepted family: **Knowing the Fate of My Father (1)–(2)** — targets476–477 / E474–E475.  
-Family QA: `qa/families/knowing-fate-father-0476-0477.md` — **PASS**.
+Latest accepted segment: **Tochka Annihilation Battle (6)** — target478 / E476.  
+QA: `qa/families/tochka-annihilation-0478.md` — **PASS**.
 
-Key decisions: Hugo triggers the Gate by killing Flauros, reaches Ninth Form / Death Knight state, dies at 64 stopping the first eruption, and Poseidon’s 150-day flood suppresses the Long Rain of Terror.
+Key decision: Flauros really escaped through Thomas de Leviathan, but the escape ends in Le Rouge et Le Noir Mountain when a soul-feeding mosquito consumes his remaining demonic soul.
 
-Next target: **478→E476 — Tochka Annihilation Battle (6)**.  
-Then **Downtown Naval Warfare (1)–(4)** — targets479–482 / E477–E480.
+Next family: **Downtown Naval Warfare (1)–(4)** — targets479–482 / E477–E480.  
+Then **The Marquis of Discord (1)–(7)** — targets483–489 / E481–E487.
