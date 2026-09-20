@@ -3,14 +3,8 @@
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
-  "next_chapter": 430,
-  "active_title_family": {
-    "name": "The Lion King",
-    "range": [
-      430,
-      433
-    ]
-  },
+  "next_chapter": 501,
+  "active_title_family": null,
   "chapters": [
     {
       "chapter": 1,
@@ -6113,8 +6107,9 @@
       "qa": "qa/chapter-0430.md",
       "provenance": "editorial/provenance/chapter-0430.json",
       "acceptance": "qa/acceptance/chapter-0430.json",
-      "acceptance_sha": "bdf78fd273ee33855f505de3747366907f5cc172",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "0ccd599813cadf8dc44784be37aac90489ace220",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 431,
@@ -6127,8 +6122,9 @@
       "qa": "qa/chapter-0431.md",
       "provenance": "editorial/provenance/chapter-0431.json",
       "acceptance": "qa/acceptance/chapter-0431.json",
-      "acceptance_sha": "65efa0e8e612ced453839ad700088a2bdcaaedae",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "e28805abc33ed5873b9d7d78134d996078777f24",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 432,
@@ -6141,8 +6137,9 @@
       "qa": "qa/chapter-0432.md",
       "provenance": "editorial/provenance/chapter-0432.json",
       "acceptance": "qa/acceptance/chapter-0432.json",
-      "acceptance_sha": "a65f16cec5eb8e83904e331725177c8c2b607b7a",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "0cfbc9fe26041e6448c2490503e3ad37fc17bfff",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 433,
@@ -6155,8 +6152,9 @@
       "qa": "qa/chapter-0433.md",
       "provenance": "editorial/provenance/chapter-0433.json",
       "acceptance": "qa/acceptance/chapter-0433.json",
-      "acceptance_sha": "d58909664d3fa12d4031ef3b3e61c685091b38c9",
-      "family_qa": "qa/families/lion-king-0430-0433.md"
+      "acceptance_sha": "d9dd5b0f3fda2062b777a78f5375cd9bfa803867",
+      "family_qa": "qa/families/lion-king-0430-0433.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 434,
@@ -7097,11 +7095,11 @@
       "family_qa": "qa/families/side-stories-0496-0500.md"
     }
   ],
-  "project_complete": false,
+  "project_complete": true,
   "historical_accepted_count": 500,
   "needs_rework_count": 0,
   "completeness_audit": {
-    "status": "active",
+    "status": "complete",
     "opened": "2026-09-20",
     "manuscript_files_present": 500,
     "confirmed_needs_rework": [],
@@ -7310,29 +7308,29 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "Family rebuilt for full coverage; confirmed completeness failure420 resolved."
+      },
+      {
+        "name": "The Lion King",
+        "range": [
+          430,
+          433
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All four historical drafts materially compressed; final initial-priority target431 resolved."
       }
     ],
-    "pending_priority_review_chapters": [
-      431
-    ],
-    "pending_priority_review_count": 1,
-    "next_family": {
-      "name": "The Lion King",
-      "range": [
-        430,
-        433
-      ]
-    },
+    "pending_priority_review_chapters": [],
+    "pending_priority_review_count": 0,
+    "next_family": null,
     "resolved_confirmed_needs_rework": [
       97,
       316,
       319,
       420
     ],
-    "pending_strong_suspect_chapters": [
-      431
-    ],
-    "pending_strong_suspect_count": 1,
+    "pending_strong_suspect_chapters": [],
+    "pending_strong_suspect_count": 0,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7365,7 +7363,9 @@
       333,
       334,
       419,
-      421
-    ]
+      421,
+      431
+    ],
+    "closed": "2026-09-20"
   }
 }
