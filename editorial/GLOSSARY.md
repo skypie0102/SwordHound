@@ -1,3 +1,21 @@
+## Dreaming the Impossible Dream additions — Chapters 437–440
+
+- **Dreaming the Impossible Dream** — accepted four-part family, targets437–440 / witnesses E435–E438.
+- **Chimeries danger rating** — Fourth Corpse, Chinese-primary **S+**.
+- **Chimeries recklessness authority** — induces irrational confidence/exaltation and judgment failure; do not flatten to generic obedience.
+- **Camus Morgue cavalry countermeasure** — bent iron hoof traps break the brainwashed Invincible Cavalry charge while avoiding the more lethal straight-skewer option.
+- **God-Killing Sniper Squad** — source-local House Usher elite sniper label pending direct Fandom confirmation.
+- **Marquis de Sade / Orca Usher intervention** — actual force thinning the sniper encirclement; Camus was not Vikir’s preplanned sniper answer.
+- **Tudor demon-hunter choice** — voluntarily accepts Vikir’s causality warning and kills Chimeries with Gungnir.
+- **Pigi blood / Gungnir** — Pigi’s anti-demon blood coats Gungnir for the final Chimeries strike.
+- **House Donquixote restoration** — Tudor becomes legitimate head; family publicly declares neutrality/temporary closure while secretly supporting Night Walkers.
+- **Donquixote strength after restoration** — roughly 60% overall remains; Invincible Armada is largely intact while cavalry losses are severe.
+- **Tochka water / Armada link** — Vikir states both will matter soon; mechanism remains unrevealed.
+- **Current civil-war alliance map** — Morgue+Baskerville, Quovadis+Bourgeois, Leviathan+Usher; Donquixote neutral/closed.
+- **Madeline** — source-local current House Usher head form; suspected Third-Corpse host only, not yet confirmed.
+- **The Fall of Usher** — corrected complete family targets441–449 / E439–E447.
+- **Declaration of War** — begins target450 / E448.
+
 ## The Returned Hound additions — Chapters 434–436
 
 - **The Returned Hound** — accepted three-part family, targets434–436 / witnesses E432–E434.
