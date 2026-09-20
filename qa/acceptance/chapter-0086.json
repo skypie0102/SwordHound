@@ -2,8 +2,8 @@
   "chapter": 86,
   "title": "The Illiad (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Illiad",
     "range": [
@@ -11,8 +11,8 @@
       89
     ],
     "family_qa_path": "qa/families/illiad-0085-0089.md",
-    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
-    "status": "pass"
+    "family_qa_sha": "a5a68b2bb01f29d06f415d53cb428ecfbf50fd9a",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/086.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-085.xhtml",
     "english_reference_sha": "138252313315fc22e277fd2be6c2d5e414178d56",
     "draft_path": "manuscript/drafts/chapter-0086.md",
-    "draft_sha": "558079cb63beaac1a921d2f39280f5936546a8ad",
+    "draft_sha": "29c4565c0a75203c66494499e2aecc9e97be3fb7",
     "qa_path": "qa/chapter-0086.md",
-    "qa_sha": "fde4f12b78f728dc6d44a9343126e8a28a30e6cb",
+    "qa_sha": "0c0aa90ad6791bec701e2e9f88c091af9608ec2d",
     "provenance_path": "editorial/provenance/chapter-0086.json",
-    "provenance_sha": "d800e042750eed6cf6d367db313508fe612ff22c"
+    "provenance_sha": "eb38dada4bf4a46654a3dbe06be7c60b335abc93"
   },
   "canonical_checks": [
     "Ah'Heman",
@@ -39,5 +39,26 @@
     "Target86 maps to E85.",
     "Ah'Heman's deliberate collusion and infection of Aheul are source-explicit.",
     "Plague mechanics remain fictional narrative wrongdoing."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "evidence": {
+      "primary_source_path": "source/chinese/chapters/086.txt",
+      "primary_source_sha": "6be93c9b02e7bbe160e0db039580024f1fa1811a",
+      "english_reference_path": "source/chapters/chapter-085.xhtml",
+      "english_reference_sha": "138252313315fc22e277fd2be6c2d5e414178d56",
+      "draft_path": "manuscript/drafts/chapter-0086.md",
+      "draft_sha": "29c4565c0a75203c66494499e2aecc9e97be3fb7",
+      "qa_path": "qa/chapter-0086.md",
+      "qa_sha": "0c0aa90ad6791bec701e2e9f88c091af9608ec2d",
+      "provenance_path": "editorial/provenance/chapter-0086.json",
+      "provenance_sha": "eb38dada4bf4a46654a3dbe06be7c60b335abc93"
+    }
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/illiad-0085-0089.md"
+  }
 }
