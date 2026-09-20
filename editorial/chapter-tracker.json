@@ -3,12 +3,12 @@
   "target_chapter_count": 500,
   "accepted_count": 499,
   "staged_count": 0,
-  "next_chapter": 333,
+  "next_chapter": 419,
   "active_title_family": {
-    "name": "The Mating Room",
+    "name": "Goodbye, Nouvelle Vague",
     "range": [
-      333,
-      338
+      419,
+      421
     ]
   },
   "chapters": [
@@ -4744,8 +4744,9 @@
       "qa": "qa/chapter-0333.md",
       "provenance": "editorial/provenance/chapter-0333.json",
       "acceptance": "qa/acceptance/chapter-0333.json",
-      "acceptance_sha": "06bc1dda2a307a793e24f8c9276c3baf8dc1af24",
-      "family_qa": "qa/families/mating-room-0333-0338.md"
+      "acceptance_sha": "6743a0165721f0ba2f72bd5738f4cb63280aa2e2",
+      "family_qa": "qa/families/mating-room-0333-0338.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 334,
@@ -4758,8 +4759,9 @@
       "qa": "qa/chapter-0334.md",
       "provenance": "editorial/provenance/chapter-0334.json",
       "acceptance": "qa/acceptance/chapter-0334.json",
-      "acceptance_sha": "72b5318211e88a4bc014a8c12882145dad161fb5",
-      "family_qa": "qa/families/mating-room-0333-0338.md"
+      "acceptance_sha": "3a19d4ea4059890c756bd30119132e2592ea2652",
+      "family_qa": "qa/families/mating-room-0333-0338.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 335,
@@ -4772,8 +4774,9 @@
       "qa": "qa/chapter-0335.md",
       "provenance": "editorial/provenance/chapter-0335.json",
       "acceptance": "qa/acceptance/chapter-0335.json",
-      "acceptance_sha": "2cae5c190ac989ce3195e5665636c44777fc7db3",
-      "family_qa": "qa/families/mating-room-0333-0338.md"
+      "acceptance_sha": "7ad24aec7f8373270d70590ada9087ebd9db1591",
+      "family_qa": "qa/families/mating-room-0333-0338.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 336,
@@ -4786,8 +4789,9 @@
       "qa": "qa/chapter-0336.md",
       "provenance": "editorial/provenance/chapter-0336.json",
       "acceptance": "qa/acceptance/chapter-0336.json",
-      "acceptance_sha": "9cabee252708ee8c10b5d679c5e51a76a084a700",
-      "family_qa": "qa/families/mating-room-0333-0338.md"
+      "acceptance_sha": "72d469073b84b2f8ae903abcdfe1479cfbadb931",
+      "family_qa": "qa/families/mating-room-0333-0338.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 337,
@@ -4800,8 +4804,9 @@
       "qa": "qa/chapter-0337.md",
       "provenance": "editorial/provenance/chapter-0337.json",
       "acceptance": "qa/acceptance/chapter-0337.json",
-      "acceptance_sha": "cf986d5a525ac9c96c3e7c49047100b95465abb5",
-      "family_qa": "qa/families/mating-room-0333-0338.md"
+      "acceptance_sha": "9cd55a4260d041d2b98af6fe6bbcc8ea9adbeedf",
+      "family_qa": "qa/families/mating-room-0333-0338.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 338,
@@ -4814,8 +4819,9 @@
       "qa": "qa/chapter-0338.md",
       "provenance": "editorial/provenance/chapter-0338.json",
       "acceptance": "qa/acceptance/chapter-0338.json",
-      "acceptance_sha": "97097a76b7437af62120e032fa7e846a0fb36a3d",
-      "family_qa": "qa/families/mating-room-0333-0338.md"
+      "acceptance_sha": "573bd16338f4bfd0df8a4a97e2f30903286666aa",
+      "family_qa": "qa/families/mating-room-0333-0338.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 339,
@@ -7284,22 +7290,30 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All five historical drafts materially compressed; priority target328 resolved."
+      },
+      {
+        "name": "The Mating Room",
+        "range": [
+          333,
+          338
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All six historical drafts materially compressed; priority targets333 and334 resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      333,
-      334,
       419,
       420,
       421,
       431
     ],
-    "pending_priority_review_count": 6,
+    "pending_priority_review_count": 4,
     "next_family": {
-      "name": "The Mating Room",
+      "name": "Goodbye, Nouvelle Vague",
       "range": [
-        333,
-        338
+        419,
+        421
       ]
     },
     "resolved_confirmed_needs_rework": [
@@ -7308,12 +7322,11 @@
       319
     ],
     "pending_strong_suspect_chapters": [
-      334,
       420,
       421,
       431
     ],
-    "pending_strong_suspect_count": 4,
+    "pending_strong_suspect_count": 3,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7342,7 +7355,9 @@
       319,
       322,
       323,
-      324
+      324,
+      333,
+      334
     ]
   }
 }
