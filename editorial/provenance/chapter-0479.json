@@ -1,0 +1,37 @@
+{
+  "chapter": 479,
+  "title": "Downtown Naval Warfare (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Downtown Naval Warfare",
+    "range": [
+      479,
+      482
+    ],
+    "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
+    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/479.txt",
+    "blob_sha": "1ddd25950ed7234ebb18ab49cd3bef4eb0f216f2",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-477.xhtml",
+    "blob_sha": "1df802d6afd7c0ddfc567194e0aeb01caeb84395",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0479.md",
+    "blob_sha": "13cb547396bd3b1331938ca3d72c9e8febdcb0a5"
+  },
+  "qa": {
+    "path": "qa/chapter-0479.md",
+    "blob_sha": "6b344387045d04ad4dfd09a6dfe30e673b6bbe63",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms and new source-local maritime terms remain unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
