@@ -2,8 +2,8 @@
   "chapter": 191,
   "title": "Attack Land (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
-    "status": "pass"
+    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/191.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-189.xhtml",
     "english_reference_sha": "fb919bfe6cdd57b3460cef02c6c002e715505c2e",
     "draft_path": "manuscript/drafts/chapter-0191.md",
-    "draft_sha": "35add1ff18ea5bc3712581043a661727429fd083",
+    "draft_sha": "845c49feb18fded4b0d57c1b6d572155aa1755d4",
     "qa_path": "qa/chapter-0191.md",
-    "qa_sha": "b02232e8ed380342026a0e509c679d67d8b82a70",
+    "qa_sha": "cc14a9243f095d5b2977deee85b4d2ea0e9be691",
     "provenance_path": "editorial/provenance/chapter-0191.json",
-    "provenance_sha": "f6248a2f315aa7d0f764caf0a74cd4eb6e0fb504"
+    "provenance_sha": "fee17ed33e596e1048f3e7b76a9bae249be8b7d5"
   },
   "canonical_checks": [
     "Professor Sadi",
@@ -37,5 +37,18 @@
     "Fingertip/vodka story remains rumor.",
     "Sadi's skill is separated from her abusive conduct."
   ],
-  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "35add1ff18ea5bc3712581043a661727429fd083",
+    "qa_sha": "b02232e8ed380342026a0e509c679d67d8b82a70",
+    "provenance_sha": "f6248a2f315aa7d0f764caf0a74cd4eb6e0fb504"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/attack-land-0190-0196.md"
+  }
 }
