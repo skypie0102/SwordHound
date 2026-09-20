@@ -559,6 +559,8 @@
 
 ## The Mating Room additions — Chapters 333–338
 
+- **The Mating Room completeness resolution** — all six targets333–338 rebuilt against complete Chinese coverage; priority targets333 and334 resolved.
+
 - **The Mating Room** — accepted six-part family, targets333–338 / witnesses E331–E336. Prior 333–336 boundary was incomplete.
 - **Dragon Majin’s Laboratory** — Basement Floor9 instance for Vikir; specimen-breeding laboratory with multiple enclosure types.
 - **Mating-room progression** — environmental pressure → blue physiological breeding mist → direct external restraint; preserve as coercive laboratory mechanics, not romance.

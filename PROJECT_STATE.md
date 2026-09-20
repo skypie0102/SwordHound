@@ -8,16 +8,16 @@
 **Confirmed needs rework:** 420  
 **Resolved confirmed failures:** 97, 316, 319  
 **Project completion:** REOPENED — manuscript completeness audit active  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196), Tuition (225–233), National University League (236–244), Hell Tree (307–313), Surplus Man (314–320), Underdogma (321–325), The Shadowless King of the Black Sea (326–330) — rebuilt / PASS  
-**Pending initial priority queue:** 6 chapters  
-**Next audit family:** The Mating Room (333–338)
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196), Tuition (225–233), National University League (236–244), Hell Tree (307–313), Surplus Man (314–320), Underdogma (321–325), The Shadowless King of the Black Sea (326–330), The Mating Room (333–338) — rebuilt / PASS  
+**Pending initial priority queue:** 4 chapters  
+**Next audit family:** Goodbye, Nouvelle Vague (419–421)
 
-The **Shadowless King of the Black Sea (326–330)** family has been rebuilt in full. Direct raw comparison found material compression across all five historical drafts, not only priority target 328.
+The **Mating Room (333–338)** family has been rebuilt in full. Direct Chinese comparison found material compression across all six historical drafts, especially priority targets 333 and 334.
 
-Restored material includes Vikir's complete six-stat / Level1 strategy; Magic Resistance and Camus precedent; **Fire of Inferiority — Blaze**; Beetlemen ship construction from fallen insect remains; deep Black Sea salvage mechanics; D-grade oil-paper-bag breathing; ship hull diagnosis; independent primordial **S-rank Shadowless King**; transparent tentacle regeneration; canonical Beelzebub slots; Starvation Drought dehydration; Madam Eight-Legs venom; Daylily-seed ship lift; timed bag dissolution; additional seed implantation into the jellyfish; story-world rapid-ascent pressure damage; simultaneous ship/monster surfacing; Beetlemen propulsion; field-knot gas-sac lattice; Baby Madam silk extraction; Blaze chain ignition; Bianca's pre-regression Daylily precedent; and separate A+ Majin / S-rank reward messages.
+Restored material includes the multi-floor skip into Dragon Majin's Laboratory; Incubation / Collection / Spawning / Blood-Collection / Fighting enclosure functions; laboratory breeding mechanics as explicit coercion rather than romance; Giant Mantis A-rank demonstration; ten-hour environmental escalation; heat→cold/rain/frost hypothermia pressure; complete Magic Train five-person group mission and special one-survivor rule; Tudor/Sancho/Pigi/Bianca voluntarily choosing Sinclaire; Return Scroll Level reset with stat retention; Sinclaire's Bourgeois/Bartolomeo memory and Esse, Non Videri motif; survival-focused dry-burrow / Cerberus-hide warming setup; blue-mist drug escalation; exact Level1 **300/300/300** basic stats; rain-system sabotage; source-timed **“I am Night Hound”** reveal at target337; flood escape; Lost Paradise gate; Money Hat assistance; and forced portal rescue of Sinclaire.
 
 Only confirmed failure **420** remains.
 
-Original priority queue: 47 chapters. **6 remain.**
+Original priority queue: 47 chapters. **4 remain:** 419, 420, 421, 431.
 
-Next: **The Mating Room (333–338)**, containing priority targets **333** and **334**.
+Next: **Goodbye, Nouvelle Vague (419–421)**.

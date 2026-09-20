@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Mating Room completeness rebuild (333–338)
+
+**Audit result:** all six historical drafts were materially compressed and rebuilt; family now **PASS**.
+
+Priority targets **333–334** are resolved.
+
+Major restorations: Floor4→Floor9 skip; complete Dragon Majin laboratory/specimen-room structure; Giant Mantis three-stage coercion demonstration; heat/cold/rain hypothermia pressure; complete Floor5 Magic Train mission; Tudor/Sancho/Pigi/Bianca voluntary Sinclaire selection; Return Scroll rules; Sinclaire childhood/Bartolomeo memory; clinical survival warming; blue-mist escalation; Level1 300/300/300 state; rain-apparatus sabotage; Night Hound reveal timing; flood escape; Lost Paradise; Money Hat assistance; forced one-person-gate rescue.
+
+Initial priority queue now has **4 pending chapters**.
+
+Next audit family: **Goodbye, Nouvelle Vague (419–421)**, including confirmed failure **420**.
+
+
 ## 2026-09-20 — Shadowless King completeness rebuild (326–330)
 
 **Audit result:** all five historical drafts were materially compressed and rebuilt; family now **PASS**.

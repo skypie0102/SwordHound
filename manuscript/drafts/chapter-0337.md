@@ -1,34 +1,38 @@
 # Chapter 337: The Mating Room (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/337.txt`. Recovered English Chapter 335 is the verified shifted secondary witness. Established repo terminology controls Vikir, Sinclaire Bourgeois, Baby Madam, Decarabia, Beelzebub, Picaresque Mask, River Styx, and Dragon Majin. The local/raw “Basilisk” regeneration drift is normalized to the already accepted **Immortality — Gargoyle (S)** continuity. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/337.txt`. Recovered English Chapter 335 is the verified shifted secondary witness. Established project terminology controls **Vikir**, **Sinclaire Bourgeois**, **Baby Madam**, **Decarabia**, **Beelzebub**, **Picaresque Mask**, **River Styx**, and **Dragon Majin**. Local/raw “Basilisk” regeneration drift is rejected; production keeps **Immortality — Gargoyle (S)**.
 
 Vikir pushed Sinclaire behind him.
 
-“…How much of that mist did you breathe?”
+“…How much mist did you inhale?”
 
-She was too dazed to answer even that.
+No answer.
 
-*Her body temperature has recovered.*
+She was too dazed for even a simple question.
 
-*If I get her away from the mist, she should come back to herself.*
+*Her temperature has recovered enough.*
 
-Vikir laid her down.
+*If I remove her from the mist and leave her alone—*
+
+*she should regain clarity.*
+
+Vikir placed Sinclaire down.
 
 Extinguished the fire.
 
-Then left the burrow.
+Then climbed out of the burrow.
 
 As expected—
 
-two enormous hands were descending from the darkness overhead.
+two enormous hands were entering through the darkness overhead.
 
 Blue scales.
 
-Clawed fingers.
+Clawed fingertips.
 
-The owner of the enclosure.
+The enclosure's owner.
 
-DING.
+Ding.
 
 [The enclosure owner wishes to inspect the collected specimens.]
 
@@ -36,15 +40,15 @@ DING.
 
 [Target: Human 2 (♀).]
 
-A shadow swallowed Vikir.
+The nearest hand cast a shadow over Vikir.
 
-One hand reached for him.
+The other moved across the shavings—
 
-The other searched through the sawdust—
+searching.
 
-looking for Sinclaire beneath the surface.
+Looking for Sinclaire under the bedding.
 
-*I can’t let it find her.*
+*Can't let it find her.*
 
 Vikir drew Beelzebub.
 
@@ -52,240 +56,257 @@ Dark-red aura gathered along the blade.
 
 FLASH.
 
-A sharp strike hit the blue-scaled palm.
+The strike hit the blue palm.
 
 CLANG!
 
-Aura burst into sparks.
+Aura scattered in sparks.
 
-The hand only flinched.
+The hand—
 
-No meaningful wound.
+barely trembled.
 
-Then the second hand abandoned its search for Sinclaire.
+No real wound.
 
-Both closed in on Vikir.
+Then the second hand stopped searching.
 
-He reached into his inventory.
+Both turned toward Vikir.
 
-Pulled out the remaining stat candies he had saved.
+Closed in.
 
-**<Vikir>**
+Vikir reached into storage.
 
-**Level:** 1
+Every remaining Agility candy he had saved—
 
-**Titles:** ‘Rat Hunter’ / ‘Hell’s Dog’ / ‘Daylily Lumberjack’ / ‘Miner Executioner’ / ‘Black Sea King Slayer’ (NEW)
+went into his mouth.
 
-**Stats**
+Ding.
 
-**Strength:** 300  
-**Agility:** 284 (+16) = 300  
-**Stamina:** 300  
-**Physical Resistance:** 1  
-**Magic Resistance:** 1  
-**Reflexes:** 1
-
-Vikir swallowed every remaining Agility candy.
+> **<Vikir>**
+>
+> **LV:** 1
+>
+> **Titles:** Rat Hunter / Hell Hound Merchant / Daylily Lumberjack / Majin Executioner / **Black Sea King Slayer** *(NEW)*
+>
+> **Stats**
+> - Strength: **300**
+> - Agility: **284 (+16) = 300**
+> - Stamina: **300**
+> - Physical Resistance: **1**
+> - Magic Resistance: **1**
+> - Reflexes: **1**
 
 All three basic stats—
 
-Strength.
+300.
 
-Agility.
+BOOM!
 
-Stamina.
+Vikir moved.
 
-Reached 300.
+Faster.
 
-BOOM.
-
-His speed changed immediately.
-
-The two giant hands had already predicted his previous movement speed.
+The two hands had predicted his previous speed.
 
 For one instant—
 
-their timing broke.
+their interception timing failed.
 
-That was enough.
+That instant was enough.
 
 “Your turn.”
 
-“Hack, hack—”
+[Chik.]
 
-Baby Madam fired silk from Vikir’s wrist.
+Baby Madam fired silk from Vikir's wrist.
 
-It stuck to the back of one blue-scaled hand.
+The thread stuck to the back of one blue-scaled hand.
 
 Vikir pulled.
 
 Launched himself upward.
 
-Decarabia spoke anxiously from his chest.
+Decarabia spoke anxiously.
 
 [Human.]
 
-[Are you sure about this?]
+[Are you sure?]
 
-[Dragon Majin scales are thick and hard.]
+[Dragon Majin scales are thick.]
 
-[Your current power probably can’t cut through them.]
+[Hard.]
 
-[You already tried.]
+[Your current power cannot cut them.]
+
+[You already tested that.]
 
 “I know.”
 
-“I’m not attacking the hand.”
+“I am not attacking the hand.”
 
-Vikir hauled himself higher.
+Vikir climbed the silk.
 
 Then landed on the back of the retreating palm.
 
-He tapped the scales once.
+Tapped one blue scale.
 
-Sent a little mana through them.
+Fed a little mana through it.
 
 Light.
 
-Harder than ordinary metal.
+Harder than normal metal.
 
-Elastic.
+Yet elastic.
 
-*Normal blades and magic won’t damage this.*
+*Ordinary sword attacks won't work.*
 
-*Not at my restricted tower output.*
+*Magic either.*
 
-A frontal fight was impossible.
+*Not while my output is restricted.*
+
+A frontal battle—
+
+impossible.
 
 Vikir had already decided that.
 
 FLASH.
 
-He attacked again.
+Another slash.
 
-Dark-red aura ran along the scales.
+Dark-red aura ran over the scale—
 
-Across the back of the hand.
+across the hand—
 
-Up the arm.
+up the arm—
 
-Into the darkness above.
+into the darkness above.
 
-RUMBLE—
+RUMBLE.
 
 The laboratory shook.
 
 Both hands immediately withdrew through the ceiling.
 
-The silk line snapped.
+Baby Madam's silk line snapped.
 
 Decarabia panicked.
 
-[It got away!]
+[It escaped!]
 
-[The thread broke too!]
+[The thread broke!]
 
-[How are we supposed to escape now?]
+[Now how do we leave the cage?]
 
 “Wait.”
 
-[Wait for what?!]
+[Wait for what!?]
 
-[If you die, you die.]
+[If **you** die, that is your problem!]
 
-[I could be trapped inside Amdusias’s tower forever!]
+[I could remain trapped inside Amdusias's tower forever!]
 
-[And this is a Dragon Majin laboratory!]
+[Inside a Dragon Majin laboratory!]
 
 Decarabia continued complaining.
 
-Vikir ignored it.
+Vikir ignored him.
 
-He watched the opening where the hands had disappeared.
+Looked up.
+
+At the opening where the hands had entered.
+
+Then vanished.
 
 […]
 
 [Human.]
 
-[Nothing is going to happen just because you keep staring—]
+[Nothing is going to happen just because you stare—]
 
 Drip.
 
-A drop of water fell.
+One drop.
 
 Then another.
 
 Then another.
 
-Like the earlier rain used to steal body heat.
+Like the earlier rain.
 
 Except—
 
-this time—
-
 WHOOSH!
 
-Water poured from the ceiling.
+Water suddenly poured down.
 
-A downpour.
+A torrent.
 
-[What?!]
+Decarabia's eye widened.
 
-[Why is there suddenly so much water?!]
+[What!?]
+
+[Why is there so much water!?]
 
 Vikir nodded.
 
-Exactly as expected.
+Exactly as planned.
 
-“That attack wasn’t aimed at the Dragon Majin.”
+“My strike wasn't aimed at the Dragon Majin.”
 
-[…Then what did you hit?]
+[…Then what?]
 
-“The rain system.”
+“The rain apparatus.”
 
 Whenever the giant hands entered or withdrew—
 
 the darkness above shifted.
 
-Vikir had seen part of the apparatus hidden there.
+For short moments—
 
-A water outlet.
+Vikir could see what was hidden there.
 
-Maybe it existed for fire suppression.
+A device.
 
-Maybe purely for temperature control.
+Water outlet.
+
+Maybe intended for fire suppression.
+
+Maybe environmental temperature control.
 
 Either way—
 
-it had become the escape route.
+it was now the escape route.
 
 “This is the only way out.”
 
 Wood shavings absorbed water.
 
-Swelled.
+Expanded.
 
-Then saturated.
+Then—
 
-The volume pouring in exceeded what they could hold.
+saturated.
 
-Water began accumulating across the floor.
+The inflow exceeded what the bedding could hold.
 
-The wheel.
+Water collected across the floor.
+
+Wheel.
 
 Water container.
 
 Feed bowl.
 
-Everything light enough—
+Anything light enough—
 
-started floating.
+began to float.
 
 “The hands are gone.”
 
-“I’m getting Sinclaire.”
+“I'm getting Sinclaire.”
 
-Vikir ran toward the high mound where he had dug the burrow.
+Vikir ran toward the mound.
 
 Then—
 
@@ -293,131 +314,125 @@ BOOM!
 
 A crushing impact drove him down.
 
-The blue hand had returned.
+The hand had returned.
 
-Not grasping.
+No longer trying to grasp him gently.
 
-Punching.
+A fist.
 
-Apparently—
-
-the Dragon Majin no longer cared whether its specimens remained undamaged.
+The Dragon Majin had stopped treating him as valuable intact livestock.
 
 *Of course.*
 
-*I hurt it.*
+*I hurt its facility.*
 
-*It isn’t going to ignore that.*
+*It won't ignore that.*
 
-Vikir clenched his teeth.
+Vikir pushed.
 
-Forced himself upward.
-
-The fist moved—
-
-slowly.
+The fist rose slightly.
 
 Then—
 
 BANG!
 
-The second hand grabbed the wrist of the first.
+The second hand grabbed the first wrist.
 
 Pressed down.
 
-Crack.
+CRACK.
 
-Pain erupted through Vikir’s knees.
+Vikir's knees buckled.
 
-The waterlogged sawdust beneath him prevented his body from simply being flattened.
+Waterlogged bedding saved him from being flattened instantly.
 
-A red inverted pentagram appeared.
+A red inverted pentagram appeared above him.
 
-Decarabia’s barrier.
+**Decarabia's barrier.**
 
 [Human.]
 
 [What would you do without me?]
 
-“….”
-
-Vikir had no strength to answer.
+Vikir did not have spare breath to answer.
 
 Muscle fibers tore.
 
 Blood vessels burst.
 
-Then the regenerative power stored in Beelzebub—
+Then—
 
 **Immortality — Gargoyle (S)**—
 
-forced them closed again.
+repaired them.
 
-Over.
+Again.
 
-And over.
+Again.
 
-Decarabia’s defense also consumed enormous amounts of mana.
+Again.
 
-It would not last forever.
+Decarabia's barrier also devoured mana.
 
-*Should I have spent those last candies on Strength instead?*
+It could not last forever.
+
+*Would Strength have been better than Agility?*
 
 No.
 
-Without Agility—
+Without the speed increase—
 
-the earlier opening would never have existed.
+the opening to strike the rain apparatus would never have appeared.
 
-The two hands would have caught him immediately.
+The hands would already have caught him.
 
-Vikir pushed upward against Decarabia’s shield.
+Vikir pushed upward.
 
 The Dragon Majin pushed down.
 
-*No choice.*
+*Last option.*
 
-Last resort.
+**Picaresque Mask.**
 
-The Picaresque Mask.
+Dog form.
 
-Become a dog.
+Smaller body.
 
-Slip out from beneath the fist.
+Escape under the fist.
 
-Reach the burrow.
+Return to the burrow.
 
-Recover Sinclaire.
+Take Sinclaire.
 
-Then use the rising water to escape the enclosure.
+Then use the rising water to cross the wall.
 
-He lifted the mask.
+Vikir lifted the mask.
 
 “…Bro?”
 
-Vikir stopped.
+He stopped.
 
-A voice he should not have heard.
+A voice that should not have been there.
 
-Sinclaire’s head appeared from the sawdust burrow.
+Sinclaire's head appeared from the burrow.
 
 Her eyes widened.
 
-Swordsmanship—
+Swordsmanship.
 
-not archery.
+Not archery.
 
 Burning crimson aura.
 
-The plague-doctor mask.
+Plague-doctor mask.
 
 Baby Madam.
 
-The inverted-pentagram shield.
+The inverted pentagram barrier.
 
-Black energy from the River Styx.
+Black River Styx energy.
 
-Sinclaire began trembling again.
+Sinclaire began trembling.
 
 Not from cold.
 
@@ -427,9 +442,7 @@ Not from cold.
 
 “No.”
 
-“You’re not—”
-
-“….”
+“You're not…”
 
 Vikir did not answer.
 
@@ -437,22 +450,22 @@ Rain hammered down.
 
 Floodwater surged.
 
-A Dragon Majin’s fist crushed his entire body.
+A Dragon Majin fist crushed against the barrier over his body.
 
-The choice became unavoidable.
+Truth.
 
-Truth—
+Or silence.
 
-or silence.
+The choice could no longer be delayed.
 
-At crossroads like this—
+At moments like this—
 
-Vikir always searched for the answer buried beneath everything else.
+Vikir always looked for the answer beneath everything else.
 
 “…Yes.”
 
 His voice carried through the wet air.
 
-Sinclaire’s pupils shook.
+Sinclaire's pupils shook.
 
 “I am Night Hound.”

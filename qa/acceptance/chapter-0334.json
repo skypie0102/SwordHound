@@ -2,8 +2,8 @@
   "chapter": 334,
   "title": "The Mating Room (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -11,8 +11,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
-    "status": "pass"
+    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/334.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-332.xhtml",
     "english_reference_sha": "00a9629964030ed509209c36623a267257e4b569",
     "draft_path": "manuscript/drafts/chapter-0334.md",
-    "draft_sha": "70a5866299998ac29eb402e8afc77d2703e13ab4",
+    "draft_sha": "cc28c3db579cbb2f15d351cc51918b0a76d21c87",
     "qa_path": "qa/chapter-0334.md",
-    "qa_sha": "0a3281abe3e592f4e17a472360e24620b0480a05",
+    "qa_sha": "21270f42780165b7ed23dc022ea4d3dc3474c13f",
     "provenance_path": "editorial/provenance/chapter-0334.json",
-    "provenance_sha": "557e671afd9e01b03e74b3363b2601acd9ce0dcb"
+    "provenance_sha": "2c97797298d7bb2b0dfbe61a5ece35dab1c38241"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -32,5 +32,20 @@
   ],
   "corrections": [
     "Post-window 'toad' wording is extraction drift; Giant Mantis identity controls."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "70a5866299998ac29eb402e8afc77d2703e13ab4",
+    "qa_sha": "0a3281abe3e592f4e17a472360e24620b0480a05",
+    "provenance_sha": "557e671afd9e01b03e74b3363b2601acd9ce0dcb"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/mating-room-0333-0338.md",
+    "initial_priority_target": true
+  },
+  "coercion_note": "Breeding sequence is coercive laboratory specimen management; no romantic framing."
 }

@@ -1,238 +1,424 @@
 # Chapter 334: The Mating Room (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/334.txt`. Recovered English Chapter 332 is the verified shifted secondary witness. Established repo terminology controls Sinclaire Bourgeois, Colosseo Academy, Giant Mantis, Le Rouge et Le Noir Mountain, and Dragon Majin laboratory mechanics. Production preserves the coercive laboratory framing without erotic embellishment.
+> Chinese-primary reconstruction from `source/chinese/chapters/334.txt`. Recovered English Chapter 332 is the verified shifted secondary witness. Established project terminology controls **Sinclaire Bourgeois**, **Colosseo Academy**, **Giant Mantis**, **Le Rouge et Le Noir Mountain**, and **Dragon Majin** laboratory mechanics. Source-local “toad” wording after the monster window is extraction drift; the creatures remain Giant Mantises. The laboratory's breeding procedure is presented as coercive animal experimentation, without erotic embellishment.
 
-DING.
+Ding.
 
-[Basement Floor9 — Dragon Majin’s Laboratory.]
+[Basement Floor 9 — Dragon Majin's Laboratory.]
 
 [Mating Facility / Object Code 12B-S73062190 / Human / Classification: One Pair.]
 
 [Two-individual condition satisfied.]
 
-[Preparing mating environment.]
+[Entering mating environment.]
 
 [First time limit: 10:00:00.]
 
-Sinclaire looked around.
+The unknown system voice echoed through the enclosure.
 
-“…Human?”
+Sinclaire—
+
+still standing in the center—
+
+did not yet understand.
+
+“Human?”
 
 “Mating?”
 
 “What does that mean?”
 
-“There isn’t even a fairy here.”
+“There isn't even a fairy here…”
 
 She brushed wood shavings from her white hair.
 
-Her cloak—
+Her eyes—
 
-the first-year Colosseo uniform—
+large and deerlike.
 
-was torn and bloodstained.
+Her usual gentle face—
 
-She looked thinner than before.
+drawn by exhaustion.
 
-Exhausted.
+The first-year Colosseo cloak around her shoulders was torn—
 
-Vikir remained hidden only briefly.
+stained dark with blood.
 
-There was no point.
+**Sinclaire Bourgeois.**
+
+She stood among the bedding.
+
+Vikir—
+
+still partly hidden on the mound—
+
+watched for a moment.
+
+But there was no point remaining concealed.
 
 The enclosure was too small.
 
-And sooner or later Sinclaire would realize it had been built for exactly two occupants.
+And sooner or later—
 
-*Cooperation is unavoidable.*
+Sinclaire would realize the system had counted exactly two humans.
+
+*We will have to cooperate.*
+
+Vikir spoke.
 
 “Here.”
 
-Sinclaire spun.
+“…!?”
 
-Tense.
+Sinclaire folded into a defensive stance immediately.
 
-Ready to defend herself.
+The reaction was sharper than he remembered.
+
+Her face—
+
+tense enough to reveal how bad the previous floors had been.
 
 Then she recognized him.
 
-Her whole expression changed.
+Everything changed.
 
 “Bro!”
 
+Her face brightened.
+
+She started running toward him.
+
 “You fell here too!”
 
-She started toward him—
+Then—
 
-then caught herself.
+stopped herself.
 
-“…That sounded wrong.”
+“Ah…”
 
-“I’m just glad to see someone I know.”
+“That sounded terrible.”
 
-“Did you go through the Hell Hounds and Daylily too?”
+“This isn't a good place to meet.”
 
-“Yes.”
+“I'm just happy to see someone I know.”
 
-“You?”
+Vikir asked—
+
+“Did you go through the Hell Hounds?”
+
+“And the Daylily?”
 
 “…Yes.”
 
-Her wounds told only part of the story.
+“You too?”
 
-The mental exhaustion looked worse.
+“Yes.”
 
-Vikir asked:
+The happiness on her face—
+
+contrasted with the wounds across her body.
+
+She had lost weight.
+
+And more than that—
+
+her eyes carried exhaustion that physical injury did not explain.
+
+Vikir asked—
 
 “Did you encounter the Shadowless King?”
 
-“No.”
+Sinclaire blinked.
+
+“No?”
 
 “What floor was that?”
 
-“I came from Floor5.”
+“I came here from Floor 5.”
 
-So she had followed a different route.
+Different challengers.
 
-“What was Floor5?”
+Different routes.
+
+Even when they occupied the same tower.
+
+“What happened on Floor 5?”
 
 Sinclaire hesitated.
 
-Before she answered—
+Her mouth opened.
+
+Then—
 
 BOOM.
 
 The enclosure shook.
 
-Both turned toward the neighboring room.
+Both of them turned.
 
-Two giant mantises had been placed inside.
+RUMBLE.
 
-**<Giant Mantis>**
+Another impact.
 
-**Danger Rating:** A  
-**Size:** 8–16 m  
-**Discovery Location:** Le Rouge et Le Noir Mountain, Fourth Ridge  
-**Aliases:** ‘Giant Mantis’ / ‘Life Harvester’
+The sound came from the adjacent Mating Room.
 
-Massive scythe-like forelimbs.
+Vikir moved to the translucent wall.
 
-Predatory strength.
+Sinclaire joined him.
 
-Adult females larger and stronger than males.
+Inside the neighboring enclosure—
 
-After mating—
+two enormous mantises faced one another.
 
-the female commonly consumed the male.
+> **<Giant Mantis>**
+>
+> **Danger Rating:** A  
+> **Size:** 8–16 m  
+> **Discovery Location:** Le Rouge et Le Noir Mountain, Fourth Ridge
+>
+> **Aliases:** *Giant Mantis* / *Life Harvester*
+>
+> A predator that attacks creatures larger than itself with enormous scythe-like forelimbs.  
+> An adult's blades are dangerous even to Graduator-class swordsmen.  
+> Females are larger and more durable than males.  
+> After breeding, females commonly consume the male.
 
-The pair in the next chamber were openly hostile.
+One—
+
+huge female.
+
+One—
+
+smaller male.
+
+Both had only recently been placed inside.
+
+Neither appeared willing to approach the other.
+
+Scythes rose.
+
+Killing intent passed back and forth.
 
 Sinclaire frowned.
 
-“Why are they fighting?”
+“What are they doing?”
 
-Vikir considered explaining.
+“Why are those mantises fighting?”
 
-Then decided not to.
+Vikir considered explaining the room.
 
-The clock expired.
+Then decided—
 
-DING.
+not yet.
+
+The timer over the adjacent cage reached zero.
+
+Ding.
 
 [Preparing mating environment.]
 
 [Second time limit: 00:00:00.]
 
-Blue mist sprayed into the neighboring enclosure.
+Blue mist sprayed from openings around the walls.
 
-The behavior of the mantises changed.
+HISSSS—
 
-The smaller male approached.
+It covered both Giant Mantises.
 
-The larger female resisted less at first.
+Their behavior changed.
 
-Then recovered.
+The smaller male moved first.
 
-Threw him away.
-
-Raised her scythes.
-
-DING.
-
-[Beginning third attempt.]
-
-The ceiling opened.
-
-Two enormous blue-scaled hands descended.
-
-One seized each mantis.
-
-The animals struggled.
-
-The hands ignored them.
-
-Forced the biological procedure to completion.
-
-Then released them.
+Approached the female.
 
 The female—
 
-once free—
+which seconds earlier had looked ready to cut him apart—
 
-immediately killed the male.
+hesitated.
 
-Afterward—
+Turned partly away.
 
-the same hands transferred her to the spawning section.
+Stopped attacking.
+
+Vikir watched the mist.
+
+*Physiological stimulant.*
+
+*Designed to force breeding behavior.*
+
+Then—
+
+the female's resistance returned.
+
+Her larger body appeared less affected.
+
+She beat her wings.
+
+Threw the male away.
+
+Raised both scythes.
+
+Giant Mantises were high-level predators on the Black Mountain.
+
+Physical power—
+
+near Graduator territory.
+
+Reflexes and scythe speed—
+
+capable of threatening even higher opponents.
+
+Their mental resistance was also strong.
+
+Many mind-control mages had failed to domesticate them.
+
+The female shook off the mist.
+
+Prepared to kill the male rather than comply.
+
+Ding.
+
+[Entering mating-environment construction.]
+
+[Third attempt begins.]
+
+The ceiling opened.
+
+Two enormous hands descended.
+
+Blue scales.
+
+Sharp claws.
+
+One seized the struggling female.
+
+The other—
+
+the male.
+
+Both monsters fought.
+
+It did not matter.
+
+The hands physically restrained them—
+
+forced the laboratory's breeding procedure to completion—
+
+then released them.
+
+No courtship.
+
+No consent.
+
+Only specimen management.
+
+The moment she was free—
+
+the female Giant Mantis recovered full control.
+
+SLASH.
+
+The male's head fell.
+
+Then—
+
+CRUNCH.
+
+She began consuming the body.
+
+Head.
+
+Neck.
+
+Torso.
+
+Abdomen.
+
+Limbs.
+
+The blue mist gradually disappeared.
+
+After the female finished—
+
+the same hands returned.
+
+Lifted her.
+
+Transferred her to the adjacent section.
+
+The sign there read—
+
+> **Spawning Room**
+
+Inside—
+
+eggs produced through similar experiments were already stacked in rows.
 
 Sinclaire stared.
 
-Vikir’s face hardened.
+Vikir's expression hardened.
 
-“…A terrible place.”
+“…Terrible place.”
 
-Now he understood the laboratory’s structure.
+Now the laboratory's design was obvious.
 
 Fight until death.
 
 Breed until death.
 
-Produce offspring.
+Produce until death.
 
-Lose blood.
+Give blood until death.
 
-Remain trapped.
+Remain in the cage until death.
 
-Every creature here—
+All living things—
 
-human or otherwise—
+including humans—
 
-was livestock to the Dragon Majin.
+were livestock.
 
-Then Vikir looked up.
+Vikir remembered the pre-regression records.
 
-A panel floated over their own enclosure.
+*This is not simply difficult.*
+
+*This is an all-or-nothing floor.*
+
+Then he looked upward.
+
+A system panel floated above **their** cage.
 
 [Preparing mating environment.]
 
 [First time limit: 09:54:59.]
 
-Ten hours.
+Ten hours per stage.
 
-The timer was already falling.
+The countdown had already begun.
 
-Whatever happened when it reached zero—
+If nothing happened before zero—
 
-would be the first stage of the laboratory’s pressure.
+the environment would escalate.
 
-And if that failed—
+Like the neighboring monsters.
 
-the next stages were obvious.
+First—
 
-Sinclaire still looked bewildered.
+pressure.
 
-“…What exactly was that?”
+Then—
 
-Vikir rubbed his forehead.
+blue mist.
 
-*How am I supposed to explain this?*
+Finally—
+
+direct physical intervention by the Dragon Majin.
+
+Sinclaire still looked confused.
+
+“…What exactly happened over there?”
+
+Vikir pressed fingers to his forehead.
+
+*How do I explain this?*

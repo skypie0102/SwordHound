@@ -1,7 +1,7 @@
 {
   "chapter": 337,
   "title": "The Mating Room (5)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -9,8 +9,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
-    "status": "pass"
+    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/337.txt",
@@ -24,18 +24,33 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0337.md",
-    "blob_sha": "2f30adb8107c9e5319747fa9802fb25fc8566be9"
+    "blob_sha": "11229fda596cf61f833f264b8afb00b78b06ae7c"
   },
   "qa": {
     "path": "qa/chapter-0337.md",
-    "blob_sha": "5f3af46499cbc6091e71e8a64d866fa0bffb6200",
-    "status": "pass"
+    "blob_sha": "32ee84b252c53fc78ca8b3cc35677e426d1e71f3",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-20",
   "documented_corrections": [
     "Local/raw Basilisk regeneration drift rejected; established Beelzebub Slot2 Immortality — Gargoyle (S) retained."
   ],
-  "key_reveal": "Vikir explicitly reveals 'I am Night Hound' to Sinclaire only at this chapter's close."
+  "key_reveal": "Vikir explicitly reveals 'I am Night Hound' to Sinclaire only at this chapter's close.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "2f30adb8107c9e5319747fa9802fb25fc8566be9",
+    "qa_sha": "5f3af46499cbc6091e71e8a64d866fa0bffb6200"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/mating-room-0333-0338.md",
+    "initial_priority_target": false
+  },
+  "identity_timing_guard": "Vikir explicitly reveals 'I am Night Hound' only at target337 close.",
+  "regeneration_guard": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
 }

@@ -2,8 +2,8 @@
   "chapter": 335,
   "title": "The Mating Room (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -11,8 +11,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
-    "status": "pass"
+    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/335.txt",
@@ -20,14 +20,28 @@
     "english_reference_path": "source/chapters/chapter-333.xhtml",
     "english_reference_sha": "fa205b0d1f05c18a7ea4b5ef2ff2eda73a310eb7",
     "draft_path": "manuscript/drafts/chapter-0335.md",
-    "draft_sha": "0409291a23012833f751e72247f2dbbdf461848e",
+    "draft_sha": "9bc52e38f6637e5df4be4f405193a04d07bde31d",
     "qa_path": "qa/chapter-0335.md",
-    "qa_sha": "e0fceee00671e0c863dda1d362e78ca2fe87592e",
+    "qa_sha": "a4d70383fd4ce01e338081dbc7c8bb2726c700c8",
     "provenance_path": "editorial/provenance/chapter-0335.json",
-    "provenance_sha": "a81881e6fea6de39b2ba142ae66c360f37173695"
+    "provenance_sha": "382f38588c714281ec3b6a67d1962435e1c4b108"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Trap-family material from target339 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "0409291a23012833f751e72247f2dbbdf461848e",
+    "qa_sha": "e0fceee00671e0c863dda1d362e78ca2fe87592e",
+    "provenance_sha": "a81881e6fea6de39b2ba142ae66c360f37173695"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/mating-room-0333-0338.md",
+    "initial_priority_target": false
+  }
 }
