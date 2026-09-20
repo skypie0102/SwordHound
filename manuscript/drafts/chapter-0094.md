@@ -1,269 +1,507 @@
 # Chapter 94: The Ghosts of the Ancestors (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/094.txt` — `6e135c81be871986ae3842c6d8e29346d662aff7`. Recovered English Chapter 93 is the verified shifted secondary witness. Established terminology controls **Death Knight**, **Akwilla**, **Aiyen**, **Divine Archer Adonai**, **Madam Eight-Legs**, **Ah'Heman**, **Ahun**, **Ballak Tribe**, **Thorn-Tree Punishment**, **Adolf Morgue**, and **Vikir**. The chapter ends before target 95's Madam Eight-Legs village-attack aftermath.
+> Chinese-primary reconstruction from `source/chinese/chapters/094.txt`. Recovered English Chapter 93 is the verified shifted secondary witness. Established terminology controls **Death Knight**, **Akwilla**, **Aiyen**, **Divine Archer Adonai**, **Madam Eight-Legs**, **Ah'Heman**, **Ahun**, **Ballak Tribe**, **Thorn-Tree Punishment**, **Adolf Morgue**, and **Vikir**. The chapter ends before target 95's Madam Eight-Legs village-attack aftermath.
 
-BOOM.
+BOOM!
 
-The barrier failed.
+The dam burst with a deafening crash.
 
-Logs collapsed.
+The wooden barrier collapsed.
 
-Floodwater roared through.
+Behind it came an enormous wall of water.
 
-“Up!”
+“Everyone, into the trees!”
 
-Aiyen reacted first.
+Aiyen reacted immediately.
 
-Ballak warriors climbed trees.
+That quick warning prevented most Ballak casualties.
 
-Those too slow grabbed rock and held against the current.
+Warriors scrambled up tall trunks as the flood tore through the clearing.
 
-The Death Knights did not.
+A few moved too slowly to reach the branches.
 
-Water swallowed them.
+They threw themselves against sturdy rocks instead and clung on while the current hammered past them.
 
-Their bodies were strong enough to survive the impact.
+The Death Knights did not react in time.
 
-The salt was the real weapon.
+They stood where they were.
 
-HISSSS.
+CRASH!
 
-Black vapor rose from dead flesh.
+BOOM!
 
-This river carried heavy mineral salt.
+The flood swallowed them.
 
-Undead hated purification.
+Their powerful bodies were sturdy enough that ordinary water alone would not have destroyed them.
 
-The flood gave them nowhere to escape it.
+The real weapon was dissolved inside it.
 
-One by one, the Death Knights collapsed.
+HISSSSSSS—
 
-Their borrowed bodies returned to the world.
+Black vapor began rising from the undead.
 
-Adonai's corpse dissolved and washed away with the others.
+Their bodies darkened.
 
-Akwilla watched from above.
+Then started dissolving into smoke.
 
-It hurt to lose the remains of such ancestors.
+The water rushing through the battlefield carried a high concentration of salt.
 
-But at least the unclean necromancy was gone.
+Undead creatures were naturally vulnerable to salt and its purifying properties.
 
-And Ah'Heman's blood had never touched them.
+This salt river had supported saltwater fish for generations.
+
+Even dispersed through water, the mineral content was strong enough to damage the dead.
+
+The Death Knights resisted.
+
+They were far too powerful to collapse from a handful of salt alone.
+
+But an entire flood of concentrated saltwater was different.
+
+There was nowhere to escape it.
+
+Their bodies began giving way.
+
+One after another—
+
+the corpses sank.
+
+The unnatural bindings holding them to the world broke.
+
+The bodies of Ballak's ancestors returned to where they belonged.
+
+The current carried their remains outward—
+
+toward the lands where those warriors had once been born, hunted, fought, and grown old.
+
+“….”
+
+From the top of a tree, Akwilla watched Adonai's body erode beneath the saltwater and disappear into the flood.
+
+Her throat tightened.
+
+Losing the remains of such an ancient and revered ancestor without the chance to recover and rebury them properly was painful.
+
+But there was at least one consolation.
+
+The unclean necromantic energy had been purified.
+
+More importantly—
+
+Ah'Heman's filthy blood had never touched the bodies of the ancestors.
+
+That alone was worth being grateful for.
 
 ◆◆◆
 
-The flood receded.
+After some time, the water level fell.
 
-The rainy season was ending.
+The rainy season was already nearing its end.
 
-Water remained around their ankles.
+The rivers no longer carried the same endless excess of water.
 
-Vikir stepped down.
+The Ballak warriors climbed down as the flood receded.
 
-Mud shifted under his feet.
+Water still covered the ground to their ankles, but it was shallow enough to walk through.
 
-Small fish and eels writhed in shallow pools.
+Vikir descended as soon as it was safe.
 
-Then he saw something black beneath the surface.
+Splash.
 
-A bow.
+Splash.
 
-Adonai's bow.
+Every step stirred water around his ankles.
 
-No string.
+Grass beneath the surface waved like water plants and brushed against his toes.
 
-Dark surface.
+In shallow depressions, loaches and eels swept in by the flood thrashed desperately, stranded as the water disappeared around them.
 
-Tooth-like projections.
+Then Vikir noticed something.
 
-A weapon made from old Madam Eight-Legs material.
+A dark object resting quietly beneath the surface.
 
-Vikir lifted it.
+Black energy still lingered around it.
 
-Then handed it to Aiyen.
+*…What's that?*
 
-She carried it carefully to Akwilla.
+He reached down.
 
-Ballak warriors had gathered elsewhere.
+A gigantic bow emerged from the water.
 
-Around a single thorn tree.
+Matte black.
 
-Something hung near the top.
+No bowstring.
+
+Horn-like teeth and spikes rose from its body.
+
+Adonai's weapon.
+
+A bow fashioned from the carapace of Madam Eight-Legs.
+
+Even without knowing its history, anyone could tell it was extraordinary.
+
+Vikir lifted it free and handed it to Aiyen.
+
+“…”
+
+She accepted it carefully.
+
+Cradling the ancient weapon against her body, she hurried toward Akwilla standing farther away.
+
+Meanwhile—
+
+the other Ballak warriors had begun gathering at one place.
+
+An open field.
+
+In its center stood a single tall thorn tree.
+
+No other large trees grew close enough to offer shelter.
+
+The trunk was covered from bottom to top in countless sharp thorns.
+
+The warriors formed a circle around it.
+
+Then they looked up.
+
+Someone familiar was hanging near the top.
+
+“Ugh… ughhh…”
 
 Ah'Heman.
 
-He had survived the flood.
+The stubborn old man had survived the flood.
 
-When the water came, he dragged his ruined lower body toward the tree.
+Before the water reached him, he had dragged his useless lower body across the ground with both hands and climbed the thorn tree.
 
-Then climbed.
+Desperation had driven him onto one of the cruelest paths imaginable.
 
-The thorns had edges like knives and points like spears.
+The thorns were bladed along their sides.
 
-He could not choose where to place his hands.
+Their points were sharp as spearheads.
 
-He grabbed anything.
+“Ugh… aaagh…”
 
-Palms split.
+Ah'Heman reached upward with trembling hands and grabbed them anyway.
 
-Fingers twisted.
+The flood had given him no time to search for duller places.
 
-Knuckles tore.
+He had seized whatever he could reach.
 
-The rest of his body fared worse.
+Holes had been punched through the backs of his hands.
 
-Thorns pierced.
+His fingers were twisted and torn.
 
-Cut.
+Several joints were nearly coming apart.
 
-Ripped.
+And his hands were only the beginning.
 
-Saltwater entered open wounds.
+Thorns had pierced his body everywhere.
 
-He had also destroyed his insides by forcing himself to control Death Knights beyond his limits.
+Others had sliced it.
 
-Yet he remained alive.
+Others had ripped long strips from him as the current tried to pull him away.
+
+His skin hung in places like torn cloth.
+
+Blood ran from wounds across his entire body.
+
+Saltwater and debris had entered the open flesh.
+
+Every movement produced another wave of hellish pain.
+
+His insides were already badly damaged from forcing himself to control Death Knights far beyond the level his body could safely sustain.
+
+Still—
+
+the old shaman lived.
+
+Perhaps terror had taken over.
+
+Perhaps reason had simply broken.
+
+Whatever the cause, he kept reaching upward.
+
+Climbing.
+
+Dragging himself across the thorns.
+
+His face looked as if decades had been added to it in a single day.
 
 “Please…”
 
-His voice was weak.
+His voice cracked.
 
-“Save me.”
+“Save me…”
 
-Each attempt to climb left more blood on the trunk.
+Every desperate pull tore away more flesh.
 
-Vikir watched.
+Blood and pieces of ruined tissue ran down the trunk.
 
-He remembered arriving in Ballak two years earlier.
+The thorn tree slowly turned red.
 
-Prisoners climbing the same kind of thorn tree.
+Vikir stared.
 
-Bodies cut open.
+“…”
 
-Fire below.
+In retrospect—
 
-Some died falling.
+Ah'Heman really had been remarkable.
 
-Some from blood loss.
+He had burned through almost all of his remaining life, yet succeeded in raising Adonai, one of the greatest figures in Ballak history, as an undead servant.
 
-Some from burns.
+At the same time, he had controlled several other Death Knights.
 
-Baskerville men.
+*If he had devoted himself completely to sorcery…*
 
-Morgue men.
+Vikir considered it.
 
-The punishment had been Ah'Heman's design.
+*He might have reached something close to Adolf Morgue's level as a mage.*
 
-Now its creator was trapped inside it.
+Ah'Heman's black magic had exceeded the sixth-circle level.
 
-Vikir lowered his head briefly.
+Yet he had spent his life awkwardly imitating the kind of warrior Ballak respected.
 
-Ah'Heman had been extraordinary in one sense.
+That had been part of his failure.
 
-He had raised Adonai.
+He had been gifted in one path—
 
-Controlled several Death Knights.
+and obsessed with proving himself through another.
 
-His black magic exceeded ordinary standards by a wide margin.
+But that contradiction also showed how desperately he had wanted to belong here.
 
-Had he devoted himself only to sorcery, he might have reached something close to the level of a high Morgue mage like Adolf.
+Vikir looked back up.
 
-Instead he had spent his life trying to become the sort of warrior Ballak respected.
+Ah'Heman was bleeding and climbing.
 
-That contradiction had helped destroy him.
+The sight reminded him of his first arrival in Ballak two years earlier.
 
-Then someone touched Vikir's shoulder.
+Prisoners of war climbing thorn trees.
 
-Ahun.
+Fire burning beneath them.
 
-“I'll end it.”
+Those subjected to the **Thorn-Tree Punishment** were forced upward with bare bodies until blood covered them completely.
 
-He looked down.
+Some fell and died from the impact.
 
-“Please let me.”
+Some bled out.
 
-Vikir nodded.
+Some were burned alive.
 
-Ahun stepped forward.
+Among the dead had been men from Baskerville.
 
-He struck a spark.
+Men from Morgue.
 
-Oil and a small amount of powder had already been spread around the trunk.
+One detail remained especially vivid.
 
-A small flame caught.
+Even when some of those condemned men met Vikir's eyes in the final moments—
 
-Wet wood resisted for only a moment.
+they had kept their mouths shut.
 
-Then fire climbed.
+“…”
 
-Crimson light followed the thorns upward.
+Vikir lowered his head for a brief moment.
 
-Smoke thickened.
+Then looked again at the thorn tree stained red.
 
-Ah'Heman disappeared inside it.
+Ah'Heman himself had designed this punishment.
 
-No scream came at first.
+Now the cruelty he had created was consuming him.
 
-Ballak warriors watched with complicated expressions.
+Once again—
 
-This man had lived among them for seventy years.
-
-They remembered his words.
-
-His habits.
-
-His anger.
-
-His laughter.
-
-The smell of burned flesh thickened.
+Ah'Heman's greatest enemy had turned out to be Ah'Heman.
 
 Then—
 
-a shape rose inside the flames.
+“…I'll finish this.”
 
-Blackened.
+A hand settled on Vikir's shoulder.
+
+He turned.
+
+Ahun stood there with his head lowered.
+
+“Please.”
+
+His voice was quiet.
+
+“Let me do it.”
+
+Perhaps refusing Vikir earlier had been weighing on him.
+
+Now he watched Vikir's expression and asked permission.
+
+Vikir nodded.
+
+Only then did Ahun step forward.
+
+He struck flint until a small flame appeared.
+
+Then he took out oil and a small amount of explosive powder he had been carrying.
+
+He spread them around the trunk.
+
+A tiny ember fell onto the thorn tree.
+
+Crackle.
+
+The wood was wet.
+
+At first the flame struggled.
+
+Then—
+
+WHOOSH!
+
+It spread with astonishing speed.
+
+Wet wood produced thick smoke as it burned.
+
+Red flames rose like spears.
+
+They climbed the trunk after Ah'Heman.
+
+Crack!
+
+Crackle!
+
+POP!
+
+The sound of burning wood filled the clearing.
+
+The fire climbed higher.
+
+Soon flame and smoke engulfed the old shaman trapped among the thorns.
+
+No scream came.
+
+“…”
+
+The Ballak warriors watched in silence.
+
+Their expressions were complicated.
+
+This man had lived among them for nearly seventy years.
+
+They remembered his words.
+
+His gestures.
+
+His anger.
+
+His jokes.
+
+His laughter.
+
+All of it.
+
+Crackle.
+
+The smell of burning meat thickened.
+
+Fat began to hiss and boil in the heat.
+
+Several warriors started to turn away.
+
+Then—
+
+“Hee… hehehehe!”
+
+Something moved inside the flames and black smoke.
+
+Everyone's eyes widened.
+
+Even Akwilla's.
+
+A figure stood in the fire.
+
+Burned black.
 
 Almost skeletal.
 
-Ah'Heman spread his arms.
+Arms spread wide.
+
+Ah'Heman.
+
+Born Rokoko.
+
+Living with the obsession of becoming Ballak.
+
+Neither fully shaman nor fully warrior.
+
+His skin had burned away.
+
+So had most of the fat beneath it.
+
+His body was little more than charred flesh clinging to bone.
+
+Still—
+
+he moved.
+
+Still—
+
+he screamed at the world.
 
 “You'll regret this!”
 
-His voice broke.
+His burned frame shook.
 
-“You'll regret driving me this far—”
+“You'll regret driving me this far…!”
 
-The rest became impossible to understand.
+The words after that became impossible to understand.
 
-His tongue burned.
+His tongue was burning.
 
-Smoke destroyed his lungs.
+Smoke had destroyed his lungs.
 
-For several final seconds he struggled in the fire like one of the undead he had summoned.
+For several final seconds, Ah'Heman struggled inside the flames.
 
-Then collapsed into black ash.
+He began to crumble like the Death Knights he had summoned.
 
-Before death fully took him, his ruined face had turned toward the distant village.
+Black ash peeled away from him.
 
-Akwilla stared in that direction.
+Before what remained of his body finally collapsed—
 
-“Let's go home.”
+he lifted his head.
 
-The warriors returned.
+Toward the village across the distant water.
 
-Vikir and Aiyen supported each other along the way.
+His eyes had already been ruined by fire.
 
-Ah'Heman was dead.
+He could no longer truly see it.
 
-The Illiad was over.
+“…Let's go back.”
 
-The necromancy was gone.
+Akwilla gave the order.
 
-Ballak should have been able to breathe again.
+The Ballak warriors returned toward the village.
 
-Then they reached the village.
+Their bodies were soaked in saltwater.
 
-Only there did they understand Ah'Heman's final warning.
+Blood.
 
-And why, while burning, he had looked toward home.
+Exhaustion.
+
+Vikir and Aiyen supported each other as they walked.
+
+Home.
+
+The familiar village.
+
+Ah'Heman—the apparent source of the tribe's recent calamity—was dead.
+
+It should finally have been peaceful.
+
+But—
+
+when the warriors reached the village—
+
+they understood Ah'Heman's last warning.
+
+They understood why he had laughed in the fire.
+
+And why, in his final moments—
+
+he had turned his ruined face toward home.
