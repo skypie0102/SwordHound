@@ -1,150 +1,170 @@
 # Chapter 190: Attack Land (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/190.txt` — `090ea8b431f3d46a7c53469a4f2c0b4c621eef38`. Recovered English Chapter 188 is the verified shifted secondary witness. Canonical/project terminology controls Professor Banshee Morgue, Professor Sadi, Tudor Donquixote, Bianca Fo Usher, Granola de Leviathan, Sancho Barataria, Dolores L. Quovadis, Highbro / Middlebro / Lowbro Le Baskerville, Cold Department / Hot Department, and Attack-test humanoid golems.
+> Chinese-primary reconstruction from `source/chinese/chapters/190.txt`. Recovered English Chapter 188 is the verified shifted secondary witness. Canonical/project terminology controls **Professor Banshee Morgue**, **Professor Sadi**, **Tudor Donquixote**, **Bianca Fo Usher**, **Granola de Leviathan**, **Sancho Barataria**, **Dolores L. Quovadis**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Cold Department**, **Hot Department**, and the Attack-test humanoid golems.
 
-The final midterm test began.
+The final portion of the midterm examination began.
 
-A student stood on one side of the circular arena.
+In the circular grand arena—
 
-A stone golem—
+students faced golems.
 
-opposite.
+On another training ground some distance away—
 
-Farther away—
+the professors stood alone.
 
-in a separate control space—
+The golems copied every movement their assigned professors made.
 
-stood the professor.
+Whoosh—
 
-The golem copied the professor's movements.
+BAM!
 
-A raised arm—
+A professor raised his right arm.
 
-raised.
+The golem raised its right arm.
 
-A jump—
+The professor jumped.
 
-jumped.
+The golem jumped too.
 
-A step—
+For this exam, each professor fought through a distant avatar.
 
-stepped.
-
-The professor fought through an avatar.
-
-That created one built-in handicap.
+That created a natural handicap.
 
 Distance.
 
-The professor had to judge the student's position—
+A professor had to control a remote body against a student while estimating spacing through another set of limbs.
 
-through a body located somewhere else.
+Reach differed.
 
-Different height.
+Height differed.
 
-Different reach.
+Mass differed.
 
-Different limb proportions.
+Even timing could become distorted.
 
-A fraction of delay.
+The students—
 
-The Attack test had been designed around that imperfection.
+meanwhile—
 
-Students were divided by roster sections.
+had to fight the professor's technique without restraint.
 
-One professor handled roughly a hundred examinees.
+The Attack test was divided by roster order.
 
-And every professor produced a different golem.
+A professor was assigned a section of names—
 
-A patient professor—
+roughly a hundred students at a time.
 
-defensive.
+That also meant the golems' fighting styles changed depending on who controlled them.
 
-An aggressive professor—
+A normally mild professor tended to fight defensively.
 
-relentless.
+A hot-tempered, combative professor—
 
-Students were expected to know who would examine them.
+aggressively.
 
-Study that professor's style.
+Students therefore had another kind of preparation to do before the exam.
 
-Understand the teacher—
+Know where your name sat on the roster.
 
-before being taught.
+Know which professor would test you.
 
-That philosophy—
+Study that professor's habits.
 
-came from Colosseo's first principal.
+This exam method had been designed by Colosseo Academy's first principal.
 
-Then—
+The philosophy was simple.
+
+Before learning from someone—
+
+learn the person who will teach you.
+
+◆◆◆
 
 “Hah!”
 
-Tudor attacked.
+Tudor was among the first to enter.
 
-Blue aura gathered at the tip of his spear.
+He gripped his spear and attacked.
 
-Against a real professor—
+Whoosh!
 
-he would have had to restrain the thrust.
+Blue aura burst from the tip.
 
-Against stone—
+If Tudor had been fighting a living professor directly—
 
-there was no need.
+he would never have thrust with so much killing intent.
 
-Boom!
+But the opponent was stone.
 
-The golem slid backward.
+The real professor remained safely away in the control ground.
 
-Then its mouth opened.
+So Tudor held nothing back.
+
+BOOM!
+
+CRACK!
+
+The mana-powered golem slid backward under the spear strike.
+
+Then—
 
 [Still too shallow.]
 
-A familiar voice.
+A familiar voice came from its mouth.
 
 **Professor Banshee Morgue.**
 
-One of the Academy's strongest candidates for vice-principal.
+One of the strongest candidates for the Academy's next vice-principal.
 
-Tudor narrowed his eyes.
+Although Banshee stood far away—
 
-Banshee's golem moved its fingers.
+he judged Tudor's distance precisely.
 
-Thorny vines erupted around Tudor.
+The golem's fingers formed a sign.
 
-“!?”
+Sssssss—
 
-He looked down.
+Thorn-covered vines erupted around Tudor.
+
+“Ah!?”
+
+Tudor's gaze dropped.
 
 [The thorns are fake.]
 
 The golem's fist came instead.
 
-Tudor twisted away—
+Tudor twisted his waist and barely slipped past it.
 
-barely.
+Then—
 
 [The fist is fake too.]
 
-A heel slammed into him.
+A heel drove toward him.
 
-Boom!
+Too late.
 
-Tudor flew out of the ring.
+BAM!
 
-Covered in dust—
+Tudor flew.
 
-he looked up.
+He hit the ground outside the ring—
 
-Banshee clicked his tongue through the golem.
+covered in dirt.
 
-[Did you think a mage wouldn't use fists or feet?]
+The golem's shadow fell over him.
+
+Through its mouth—
+
+Banshee clicked his tongue.
+
+[Did you think that because I'm a mage, I wouldn't use my hands or feet?]
 
 “…Yes.”
 
 [The purpose of combat is victory.]
 
-[A mage does not have to win with magic.]
+[A mage does not need to win through magic.]
 
 [Fists.]
 
@@ -152,26 +172,28 @@ Banshee clicked his tongue through the golem.
 
 [Teeth.]
 
-[Anything.]
+[Whatever works.]
 
-[Use what produces victory.]
+[If it produces victory—use it.]
 
-Tudor bowed.
+Tudor bowed respectfully.
 
 “Thank you for the lesson.”
 
 Banshee was unpleasant.
 
-But useful.
+The lesson—
 
-Then—
+useful.
 
-ding.
+Tudor left the arena.
 
-> **Cold Department — Class A — No. 001**
->
-> **Tudor Donquixote**
->
+Ding!
+
+A magical status window appeared.
+
+> **Cold Department — Class A — No. 001**  
+> **Tudor Donquixote**  
 > **Examiner: Professor Banshee Morgue**
 >
 > Effective Hits: 12  
@@ -183,96 +205,114 @@ ding.
 
 Thirty-five.
 
-Best among the first-years—
+An excellent score.
 
-so far.
+At that point—
 
-Tudor raised both hands.
+the highest among the first-years.
+
+Tudor threw both arms into the air.
 
 “Yes!”
 
-Twelve clean hits.
+He had landed twelve effective attacks against Banshee's avatar.
 
-Twenty dodges.
+Dodged twenty attacks.
 
-Three blocks.
+Blocked three.
 
-No critical.
+No critical hit.
 
-Against a professor-controlled golem—
+But few students could expect a clean critical against a veteran combat professor anyway.
 
-that was more than respectable.
+Tudor winked toward Dolores watching from a distance.
 
-Dolores had warned him about Banshee's style.
+The student council president had told him about Banshee's style beforehand.
 
-It had helped.
+That information had helped enormously.
 
-Though—
+Even if it had not prepared him for the kick.
 
-not enough to predict the kick.
+“Still—”
 
-Tudor turned toward the Baskerville triplets.
+Tudor looked across the arena and grinned.
 
-Highbro—
+“at least I beat the Baskerville triplets.”
 
-34.
+Highbro.
+
+Middlebro.
+
+Lowbro.
+
+All three stood with their arms crossed.
+
+Highbro had scored **34**.
 
 Middlebro—
 
-33.
+**33**.
 
 Lowbro—
 
-33.
+**33**.
 
-Until Tudor—
+Until Tudor's turn—
 
-they had occupied the top positions.
+they had occupied first and second place.
 
-He grinned.
+Tudor immediately became insufferable.
 
-“Hey.”
+“Hey~”
 
-“Mad?”
+“You three mad?”
 
-The triplets—
+No response.
 
-said nothing.
+“…”
 
-No glare.
+“…”
 
-No retort.
+“…”
 
-No challenge.
-
-They stood quietly.
+The triplets simply stood there.
 
 Tudor blinked.
 
-“What happened to you three?”
+Normally—
 
-“Normally you start a fight over nothing.”
+any small provocation could start an argument.
 
-He did not know—
+Today—
 
-that Vikir had forbidden it.
+nothing.
 
-The person who reacted instead—
+Tudor, left looking like a thug harassing classmates who refused to respond, awkwardly pulled his tongue back in.
 
-was Bianca.
+“What happened to those guys?”
+
+“They usually pick fights over everything.”
+
+He did not understand the sudden change.
+
+Still—
+
+if the triplets wanted to stay quiet—
+
+that was probably good.
+
+The person who accepted Tudor's provocation instead was someone else.
 
 “Damn it!”
 
-She stomped her foot.
+Bianca stomped hard.
 
-“Why did I lose to Tudor!?”
+“That Tudor brat!”
 
-Her score floated nearby.
+Her score hovered nearby.
 
-> **Cold Department — Class B — No. 001**
->
-> **Bianca Fo Usher**
->
+> **Cold Department — Class B — No. 001**  
+> **Bianca Fo Usher**  
 > **Examiner: Professor Banshee Morgue**
 >
 > Effective Hits: 7  
@@ -282,44 +322,48 @@ Her score floated nearby.
 >
 > **Total: 31**
 
-Archers—
+As an archer—
 
-suffered in this format.
+Bianca was disadvantaged in a direct one-on-one exam.
 
-No front line.
+Especially against a golem that felt no pain.
 
-No pain response from the golem.
+“Agh! I lost to Tudor!”
 
-No room to exploit team spacing.
+She pointed accusingly at the arena.
 
-Bianca glared at Tudor.
+“This test is structurally unfair to archers!”
 
-“This test is badly balanced.”
-
-“Funny.”
+“The balance is terrible!”
 
 Tudor smiled.
 
-“You didn't complain about balance when archers benefited in Defense.”
+“Interesting.”
 
-“Why are you bringing that up?”
+“What?”
+
+“You didn't complain about balance when you got a high score in the Defense test.”
+
+“Why are you bringing up Defense?”
 
 “To make you shut up.”
 
-They immediately began arguing.
+The two immediately started arguing.
 
 Then—
 
-“Ha!”
+“Hahaha!”
 
-Another student finished.
+A loud voice cut in.
 
-**Granola de Leviathan.**
+“How does it feel, you ignorant fools!?”
 
-> **Hot Department — Class A — No. 001**
->
-> **Granola de Leviathan**
->
+**Granola de Leviathan**, vice-class representative of the Hot Department, finished his own test.
+
+His score appeared.
+
+> **Hot Department — Class A — No. 001**  
+> **Granola de Leviathan**  
 > **Examiner: Professor Banshee Morgue**
 >
 > Effective Hits: 11  
@@ -329,98 +373,120 @@ Another student finished.
 >
 > **Total: 35**
 
-A tie with Tudor.
+The same total as Tudor.
 
-Granola turned toward him.
+Banshee was Granola's regular supervising professor.
 
-“So.”
+Knowing the examiner that well had clearly helped.
 
-“We're even?”
+In other words—
 
-“Our midterm results are about the same.”
+Granola had gotten lucky too.
+
+Hot Department students cheered.
+
+Granola turned toward Tudor.
+
+“So now we're tied?”
+
+“Our midterm performance is about equal.”
 
 Tudor snorted.
 
-“In Defense—
+“What are you talking about?”
 
-our team broke the year record.”
+“In the Defense test, our team broke the year record.”
 
-“Individual performance differs.”
+“Team score.”
 
-Granola folded his arms.
+Granola waved him off.
 
-“And my written score was higher than yours.”
+“Individual results are different.”
 
-Tudor smiled.
+“And don't forget my written exam score was higher.”
 
-“You're forgetting something.”
+Tudor grinned.
 
-“The Cold Department hasn't used its strongest weapon yet.”
+“You really don't know, do you?”
 
 Granola frowned.
 
-“You?”
+“The Cold Department hasn't even used its final weapon yet.”
 
-“Bianca?”
+“What?”
 
-“Tied you.”
+“You or Bianca aren't the final weapon?”
 
-“Beat her.”
+“I tied you.”
 
-Bianca nearly lunged at him.
+“And Bianca did poorly.”
 
-Tudor stopped her.
+“WHAT!?”
 
-Then pointed.
+Bianca sprang forward.
 
-“Sancho.”
+“Who did poorly!? I'll tear you apart and plate you with vegetables—!”
 
-Granola's expression changed.
+Tudor caught her before she could reach Granola.
 
-That—
+Then he pointed toward another waiting student.
 
-was different.
+“There is someone much stronger than me in a barehanded one-on-one fight with a golem.”
+
+Granola's face finally turned serious.
+
+There were only a few first-years—
+
+Cold or Hot Department—
+
+whose talent could make even Granola cautious.
+
+Someone more threatening than Tudor or Bianca.
 
 **Sancho Barataria.**
 
-Northern warrior.
+Tudor puffed up proudly.
 
-Huge.
+“Sancho is a warrior from the north.”
 
-Strong enough to kill a bear bare-handed even without magic.
+“Even without magic, he can beat a bear to death with his bare hands.”
 
-In a test where mana was unrestricted—
+“And this test lets him use mana freely against an opponent he can hit without restraint.”
 
-and the opponent could be attacked without restraint—
+“What do you think happens then?”
 
-Sancho seemed almost built for this.
+Hot Department students around Granola fell quiet.
 
-Students from both departments agreed.
+They knew.
 
-“If anyone breaks the record—”
+Sancho was the obvious favorite for the highest Attack score.
 
-“it's Sancho.”
+“Sancho will be number one in Cold, right?”
 
-“He'll crush the golem.”
+“Look at his build.”
 
-“His fists are bigger than my head.”
+“His fist is bigger than my head.”
 
-“Maybe he'll set an all-time individual score.”
+“He might tear the golem apart.”
+
+“Maybe he'll break the historical individual record.”
+
+Whispers spread through both departments.
 
 Then—
 
-boom.
+BOOM!
 
-Sancho fell to one knee.
+Sancho dropped to his knees.
 
-Covered in blood.
+Blood covered him.
 
-The status window appeared.
+Above his head—
 
-> **Cold Department — Class A — No. 172**
->
-> **Sancho Barataria**
->
+the status window appeared.
+
+> **Cold Department — Class A — No. 172**  
+> **Sancho Barataria**  
 > **Examiner: Professor Sadi**
 >
 > Effective Hits: 8  
@@ -434,72 +500,78 @@ Silence.
 
 Seventeen.
 
-Not merely low—
+Only eight effective attacks.
 
-shocking.
+Nine dodges.
+
+Not a single block.
 
 Sancho—
 
 who should have scored above thirty—
 
-had landed only eight effective hits.
+had barely crossed half that.
 
-Dodged nine times.
+And the body told the rest of the story.
 
-Blocked nothing.
+Bruises everywhere.
 
-And his body showed why.
+Blood flowing.
 
-Bruises.
+Clothes damaged.
 
-Cuts.
+He looked less like a student leaving an exam—
 
-Blood.
-
-Dolores ran to him.
+and more like someone who had survived a beating.
 
 “Sancho!”
 
-Healing light spread.
+Dolores ran over immediately.
 
-Tudor pushed through the crowd.
+She caught the swaying younger student and began healing him.
 
-“Are you all right!?”
+Other students crowded close.
 
-Sancho breathed slowly.
+Tudor reached him first among his friends.
+
+“S-Sancho! Are you okay!?”
+
+Sancho took a deep breath.
 
 “The president healed me.”
 
 “I'm fine.”
 
-But his face—
+His expression said otherwise.
 
-showed frustration.
+Not only because of the pain.
 
-He had failed.
+He blamed himself for failing to uphold the Cold Department's expectations.
 
-Failed his department.
+“…”
 
-Failed the expectations around him.
+A vein stood out on Dolores's forehead.
 
-Dolores's expression hardened.
+She patted Sancho's back a few times.
 
-She looked across the arena.
+Then rose.
 
-At the professor who had controlled Sancho's golem.
+Her eyes turned toward the professor standing on the distant control ground.
 
-A laugh drifted back.
+The one who had operated Sancho's golem.
 
-“Hehehe.”
+“Hehehe…”
 
-Bored.
+The laugh was shrill—
 
-Tired.
+yet strangely exhausted.
 
-Cruel.
+Deeply bored with the world.
 
 **Professor Sadi de Sade.**
 
-The young professor many students called—
+Young.
 
-the greatest disgrace in Colosseo Academy.
+Infamous.
+
+And widely regarded as one of Colosseo Academy's greatest disgraces.
