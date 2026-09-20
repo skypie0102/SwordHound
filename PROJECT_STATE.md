@@ -1,15 +1,15 @@
 # Project State
 
-**Checkpoint:** 2026-09-20
-**Target edition:** 500 chapters
-**Accepted:** 429
-**Staged:** 0
-**Next chapter:** 430
+**Checkpoint:** 2026-09-20  
+**Target edition:** 500 chapters  
+**Accepted:** 433  
+**Staged:** 0  
+**Next chapter:** 434
 
-Latest accepted family: **The Night Walkers (1)–(5)** — targets425–429 / E423–E427.
-Family QA: `qa/families/night-walkers-0425-0429.md` — **PASS**.
+Latest accepted family: **The Lion King (1)–(4)** — targets430–433 / E428–E431.  
+Family QA: `qa/families/lion-king-0430-0433.md` — **PASS**.
 
-Key decisions: Tochka is the Ark; Ark myth is deliberately constructed; Donquixote cavalry are brainwashed; Sinclaire returns; Pedro reveals Chimeries/Passamonte and Cervantes's survival; Tudor rejects the Donquixote surname; Cindywendy withholds Vikir's official death report.
+Key decisions: Cervantes self-kills before Chimeries can possess him; Gungnir chooses Tudor; Chimeries shifts body-theft target from Cervantes to Tudor and induces recklessness; Amdusias is only an S+ thought-remnant; the target433 Vikir figure is confined to the copied mental world.
 
-Next verified family: **The Lion King (1)–(4)** — targets430–433 / E428–E431.
-Following: **The Returned Hound (1)–(3)** — targets434–436 / E432–E434.
+Next verified family: **The Returned Hound (1)–(3)** — targets434–436 / E432–E434.  
+Following: **Dreaming the Impossible Dream (1)–(4)** — targets437–440 / E435–E438.
