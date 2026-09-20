@@ -1,30 +1,66 @@
 # Chapter 322: Underdogma (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/322.txt`. Recovered English Chapter 320 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/322.txt`. Recovered English Chapter 320 is the verified shifted secondary witness. Project terminology controls **Dogma**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Dolores L. Quovadis**, **Arthur Gordon Pym**, and the **Commoner Faction**.
 
-Dogma climbed the Hell Tree root with a long straw from a Random Box.
+Dogma climbed the Hell Tree root.
 
-He drew sap from deep inside—
+A long straw—
 
-then diluted it into a rainwater barrel.
+found inside a Random Box—
 
-“Not much.”
+hung from one hand.
 
-“So we share.”
+He fed it deep into the hollow where sap collected.
 
-The commoner students cheered.
+Then drew the red liquid into bottles.
 
-Warmth.
+When he descended—
 
-Solidarity.
+the Commoner Faction cheered.
 
-Fairness.
+Dogma poured the sap into a barrel of collected rainwater.
 
-For them.
+“Diluted.”
 
-Beside them—
+“But there isn't enough to waste.”
 
-there was none.
+“So everyone shares.”
+
+“Right?”
+
+The commoner students smiled.
+
+Nodded.
+
+A small cooperative society.
+
+Warm.
+
+Fair.
+
+At least—
+
+for them.
+
+A few meters away—
+
+there was no warmth at all.
+
+People who had once belonged to the noble faction—
+
+now crawled across the ground in iron collars.
+
+Picking insects from the soil.
+
+Keeping fires alive.
+
+Cleaning ash.
+
+Doing whatever they were ordered to do.
+
+Among them—
+
+three brothers.
 
 Highbro.
 
@@ -32,320 +68,548 @@ Middlebro.
 
 Lowbro.
 
-The three Baskervilles crawled on chains.
+The Baskerville Trident.
 
-Gathering insects.
+All three bore obvious marks of severe beating.
 
-Cleaning ash.
+Dogma's shadow fell across them.
 
-Guarding the fire.
-
-Dogma stood over them.
-
-“You want some?”
+“Want some?”
 
 He shook a bottle of diluted sap.
 
-“Crawl.”
+“Then crawl over.”
+
+Dogma sat on a rotten log.
+
+Crooked one finger.
 
 Highbro lowered himself.
 
-Crawled forward.
+Then crawled.
+
+Slowly.
+
+On hands and knees.
 
 Dogma kicked him in the face.
 
+THUD.
+
 “How does it feel?”
 
-“A commoner you people treated like a bug—
+“A commoner—
+
+someone you people treated like an insect—
 
 kicking you?”
 
 Highbro said nothing.
 
-“You were lucky enough to be born Baskerville.”
+“You were born Baskerville.”
+
+“Lucky.”
 
 “Good food.”
 
-“Good clothes.”
+“Good clothing.”
 
-“Everything handed to you.”
+“Status.”
 
-“But me?”
+“Everything.”
+
+Dogma pointed to himself.
 
 “I was born poor.”
 
-“Powerless.”
+“Weak family.”
 
-“I had to claw for every breath.”
+No protection.
 
-Dogma rolled a red Strength candy between his fingers.
+“I spent my whole life measuring every word and every step.”
 
-“Then I entered this tower.”
+“Bad luck from birth.”
+
+Then he rolled a red candy between his fingers.
+
+Strength.
+
+“Inside the tower—
+
+my luck changed.”
 
 “People around me died.”
 
-“They dropped candy.”
+“They dropped candies.”
 
-“I took it.”
+“I collected them.”
 
-“I grew.”
+“I got stronger.”
 
 “For the first time—
 
-I understood how much the starting point matters.”
+I understood what the starting line really means.”
 
-Dogma had used every small advantage ruthlessly.
+Dogma had started only slightly ahead of the commoner students around him.
 
-He seized candy.
+Then fought desperately not to lose that tiny advantage.
 
-Took payment from commoners who hated nobles.
+Candy appeared—
 
-Led confrontations.
+he took it.
 
-Built groups.
+Commoners angry at nobles wanted protection—
 
-Destroyed them.
+he stood in front.
 
-Built new ones.
+In exchange—
 
-Until he became the strongest among them.
+they shared rewards.
 
-“You nobles spent your lives feeding on us.”
+Groups formed.
 
-“Now it’s your turn.”
+Groups collapsed.
+
+Dogma survived all of them.
+
+Each cycle—
+
+a little stronger.
+
+“You nobles and power families spent your lives feeding on people like us.”
+
+“Now you should be prepared to reverse places.”
 
 He kicked Highbro again.
 
-Then began unloading old grievances.
+Head.
 
-Being ordered to fetch water.
+Ribs.
 
-Loaning textbooks.
+Then unloaded old memories.
 
-Loaning gym clothes.
+“Fetching water for you.”
 
-Having homework copied—
+“Loaning textbooks.”
 
-then being accused of copying because the noble student submitted first.
+“Loaning gym clothes.”
 
-Being humiliated during his first year.
+“You copying my assignments.”
 
-Mocked.
+“Submitting before me.”
 
-Excluded.
+“Then **I** get accused of copying.”
 
-Made lonely.
+“My first year was hell.”
 
-Some memories did not even involve Highbro.
+“No one wanted to sit next to me on trips.”
 
-That no longer mattered.
+“During exam season—
 
-Dogma’s resentment had become collective.
+no one showed me family notes or private study records.”
 
-Then he remembered Gordon.
+“Everyone watched the faces of the rich.”
 
-The humiliation of a private drawing of Dolores being shown around.
+Some of those grievances had nothing to do with Highbro.
 
-A joke to everyone else.
+Highbro was not even at Colosseo during Dogma's first year.
 
-A wound that never closed for Dogma.
+No one pointed that out.
 
-His eyes reddened.
+That was no longer the point.
 
-*Outside, effort was always punished.*
+Dogma had compressed every humiliation into one collective enemy.
 
-*Inside, effort is rewarded.*
+Then—
 
-*This is the fair world.*
+a name surfaced.
 
-Then Highbro’s stomach growled.
+“**Gordon**…”
 
-Three days without proper water.
+Dogma laughed.
+
+“That idiot should be somewhere in this tower.”
+
+“Probably dead already.”
+
+“Hell Hounds.”
+
+“Daylily.”
+
+“Someone with nothing but parents to his name probably didn't last long.”
+
+Then a memory exploded.
+
+*Wow, Dogma!*
+
+*You're really good at drawing!*
+
+*Who's this?*
+
+*Dolores?*
+
+*Hey, Dolores! Look! Dogma drew you!*
+
+*Everyone! Dogma has an announcement!*
+
+*He drew Dolores!*
+
+*The face is close, but the body… wow.*
+
+*You exaggerated certain places a little, didn't you?*
+
+*Your tastes are showing!*
+
+*What?*
+
+*Why are you angry?*
+
+*It was a joke.*
+
+*You're going to make me the villain over one joke?*
+
+CRACK.
+
+Dogma's eyes reddened.
+
+He had talent.
+
+Ambition.
+
+He had worked.
+
+Still—
+
+he believed the world kept pressing him down because he lacked the correct birth.
+
+Inside the tower—
+
+that excuse finally disappeared.
+
+Slave.
+
+Commoner.
+
+Illegitimate child.
+
+Bastard.
+
+Everyone received the same visible system.
+
+No wealthy family could buy better stats.
+
+No professor could favor another student when the window showed the number.
+
+No martial family could feed its heir expensive elixirs from childhood and call the result merit.
+
+No ranking inherited from the outside world had to matter.
+
+*This is fair.*
+
+*This is the world for me.*
+
+Dogma trembled with something close to happiness.
+
+Then—
+
+grrrrr.
+
+A stomach.
+
+Not his.
+
+Highbro's.
+
+More than three days without proper food or water.
 
 Dogma grinned.
 
-“You want this?”
-
-“Bow lower.”
-
-Highbro lowered his head.
+“Want this?”
 
 “Lower.”
 
-His forehead touched the ground.
+Highbro put his head down.
+
+“Lower.”
+
+Forehead almost buried in sand.
 
 Dogma spat into the bottle.
 
-Then called the others.
+Then turned.
 
-“Help our friends eat.”
+“Friends.”
 
-More than twenty students spat into it.
+“Our guests are hungry.”
 
-The sap foamed.
+“Help.”
 
-Dogma placed the bottle down.
+Commoners crowded around.
+
+Spit.
+
+Again.
+
+Again.
+
+More than twenty mouths.
+
+Some laughed.
+
+One retched deliberately into the mixture.
+
+“Careful.”
+
+“Don't give them too much.”
+
+“We'll run out.”
+
+The red sap foamed under saliva.
+
+Dogma set the bottle down.
 
 “Enjoy.”
 
 Then walked away.
 
-Lowbro’s face twisted.
+The three brothers sat around it.
 
-“I’d rather die.”
+Lowbro's expression twisted.
+
+“…I'd rather die.”
 
 “If I die—
 
 you two can take my stats.”
 
-Middlebro looked close to agreeing.
+“At least one of you might rip that bastard's wrist off.”
 
-Highbro did not.
+Middlebro said nothing.
 
-He lifted the bottle.
+But his face agreed.
 
-Drank one third.
+Highbro—
+
+picked up the bottle.
+
+Gulp.
+
+Gulp.
+
+Gulp.
+
+He drank one third.
 
 His brothers stared.
 
-Highbro answered coldly.
+Highbro's voice became cold.
 
-“Why do you think I’m doing this?”
+“Why do you think I'm doing this?”
 
 “Once you die—
 
-everything ends.”
+there's nothing left.”
 
 “People romanticize heroes dying for pride.”
 
-“Real survivors swallow humiliation—
+“That's fantasy.”
 
-then take revenge later.”
+“Real heroes endure humiliation—
 
-He spoke of ancient figures who endured degradation for future victory.
+because surviving creates the chance to win later.”
 
-Not because humiliation was noble.
+History contained endless examples.
 
-Because survival created opportunities.
+Men who sold themselves to wealthy patrons to fund armies.
+
+Men who crawled beneath another man's legs to avoid pointless death.
+
+Men who changed fathers three times for political survival.
+
+Men who committed acts so shameful later generations could barely repeat them—
+
+all because they needed one more day.
+
+One more opportunity.
+
+Highbro looked at the bottle.
 
 “Revenge is fruit.”
 
-“Better eaten cold.”
+“It tastes better cold.”
 
-Middlebro and Lowbro finally drank.
+Middlebro and Lowbro exchanged glances.
 
-“It would have been better if nobles hadn’t treated commoners like trash in the first place.”
+Then drank.
 
-“We weren’t the ones who did most of that.”
+Middlebro grimaced.
 
-“And our childhood wasn’t exactly pleasant either.”
+“It would've been better if nobles hadn't abused commoners to begin with.”
 
-They grimaced.
+Lowbro clicked his tongue.
 
-“…Still better than haggis.”
+“We didn't do most of that.”
 
-“Agreed.”
+“Our own childhood was miserable too.”
+
+“Some of our brothers died and no one even explained why.”
+
+They swallowed.
 
 Then—
 
-“I knew it.”
+Middlebro paused.
 
-Dogma was behind them.
+“…Still better than the haggis at home.”
 
-Red-eyed.
+Lowbro nodded.
 
-Watching.
+“Agreed.”
 
-“I wanted to see whether you’d actually drink it.”
+Highbro—
 
-“You’re dangerous.”
+also nodded.
 
-“People who can endure the present for the future…”
+Then a voice came from behind them.
 
-Dogma understood exactly what frightened him.
+“…Exactly.”
 
-If nobles possessed patience too—
+All three turned.
 
-then what made him special?
+Dogma stood there.
 
-He wanted privilege to make them stupid.
+Bloodshot eyes.
 
-Soft.
+“I came back because I wanted to see whether you'd really drink it.”
 
-Weak.
+He stared at Highbro.
 
-Otherwise—
+“You're dangerous.”
 
-he could no longer feel morally superior simply because he had suffered.
+“Someone who can endure **now** for something later…”
 
-Highbro looked at him.
+Dogma was intelligent.
 
-But his gaze did not stop on Dogma.
+That was what made the fear worse.
 
-It looked beyond him.
+He had built his identity around one belief—
+
+that suffering created depth.
+
+That privilege created softness.
+
+If a noble could be patient too—
+
+could suffer too—
+
+could sacrifice present dignity for future victory—
+
+then what made Dogma morally superior?
+
+*You already had everything.*
+
+*At least become fat and stupid.*
+
+*At least let suffering belong to us.*
+
+Highbro looked toward him.
+
+Then past him.
 
 Farther.
 
 Higher.
 
-That angered Dogma even more.
+As though Dogma were not the final problem.
 
-He remembered nobles and tycoons who had stood in front during Hell Hound attacks.
+That gaze enraged him.
 
-People shouting for weaker students to retreat.
+Memories from the previous floors surfaced against his will.
 
-People invoking noble duty.
+Noble students standing in front during Hell Hound attacks.
 
-People taking risks that did not fit his simple theory of oppressor and victim.
+Power-family students ordering weaker people to run.
+
+“Leave this to us.”
+
+“Stronger people should stand forward.”
+
+“This is pointless death!”
+
+“Move!”
+
+“Let me show you what noble obligation means.”
+
+Even prayer—
+
+someone had covered others while they prayed.
+
+Those memories did not fit Dogma's simple world.
 
 “…No.”
 
-Dogma drew a sword.
+He drew a sharpened sword.
 
 “This world is fair.”
 
-“I will be rewarded.”
+“I will be rewarded here.”
 
 Highbro sighed.
 
 “Then two of us may have to die.”
 
-“Concentrate the stats into one.”
+“Concentrate our stats into one.”
 
 Middlebro nodded.
 
-Lowbro too.
+“So be it.”
+
+Lowbro nodded too.
+
+For once—
+
+all three agreed immediately.
 
 Then—
 
 “Hey!”
 
-“Who are you?!”
+“Who are you!?”
 
-Shouts came from the sap root.
+Shouting came from the direction of the sap root.
 
-“Who drank that?!”
+“Who drank that!?”
 
-“Our turn!”
+“It was our turn!”
 
-“Who’s stealing our sap?!”
+“Where did you come from!?”
 
-Dogma turned immediately.
+Dogma turned.
 
-The triplets did too.
+So did the triplets.
 
-A familiar figure stood near the root.
+A familiar figure stood near the black root.
 
 Black hair.
 
 Red eyes.
 
-A presence they had already chosen to follow.
+Not their blood brother.
+
+But someone all three had already decided to follow for life.
+
+Someone who was strong regardless of Level—
+
+stats—
+
+or circumstances.
 
 Vikir.
 
 “…What happened to the other survivors?”
 
-The triplets’ eyes widened.
+Highbro's eyes widened.
 
-Their master had arrived.
+Their master—
+
+had arrived.
