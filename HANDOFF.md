@@ -29,7 +29,7 @@ Next family: **The Shadowless King of the Black Sea (326–330)**. Priority targ
 ## Branch / PR state
 
 - Working branch: `audit/underdogma-321-325-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #138, **Rebuild Underdogma Chapters 321–325 for completeness**: OPEN.
 - Surplus Man completeness PR #136: merged.
 
 ## Exact next actions
