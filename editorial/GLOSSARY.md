@@ -1,3 +1,17 @@
+## Running Hound(s) additions — Chapters 490–493
+
+- **Running Hound(s)** — accepted four-part family, targets490–493 / E488–E491; witness title is singular in part1 and plural in parts2–4.
+- **Pigi regression-causality reveal** — Pigi’s remembered kindness from Vikir and cross-timeline residual will help steer Andras’s regression mechanism toward Vikir.
+- **Andras future prophecy** — distant old Vikir / barren desert / sword-like tower / angry pursuers / five-piece ending; treat as prophecy/curse, not guaranteed immutable future.
+- **Vikir personal rejection** — source-timed “Fuck you.” replaces rote “demons die” as the final personal response to Andras.
+- **Andras final annihilation** — soul and body completely destroyed at target492.
+- **One-way old-world choice** — Pigi can close but not reopen the final portal; Vikir knowingly chooses the devastated original timeline.
+- **Old-world followers** — Camus Morgue, Aiyen, Dolores L. Quovadis, Sinclaire, and Kirko Grimm knowingly cross with Vikir.
+- **Relationship guard** — source-explicit confessions/claims are preserved, but no final romantic arrangement is inferred.
+- **Pigi final farewell** — remains in the current timeline and closes the portal after “Have a good trip, my friend.”
+- **The Day After the Apocalypse** — next family targets494–495 / E492–E493.
+- **Side Stories** — targets496–500 are Chinese-only in this project; target496 begins within shared raw `495.txt`.
+
 ## The Marquis of Discord additions — Chapters 483–489
 
 - **The Marquis of Discord** — accepted seven-part family, targets483–489 / E481–E487.
