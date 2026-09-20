@@ -19,7 +19,7 @@
       321,
       325
     ],
-    "reason": "next priority-containing family; all five targets321-325 remain in the initial priority queue"
+    "reason": "next priority-containing family; all five targets321-325 remain in initial priority queue"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -561,6 +561,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: Surplus Man targets314-320 all rebuilt/pass. Confirmed failures316/319 resolved; only420 remains confirmed rework. 12 initial-priority chapters remain.",
     "Completeness audit: Surplus Man targets314-320 all rebuilt/pass. Confirmed failures316 and319 resolved; accepted count now 499/500, sole confirmed needs-rework chapter420, and 12 initial-priority chapters remain. Next: Underdogma 321-325.",
     "Completeness audit: Hell Tree targets307-313 all rebuilt/pass. Seven initial-priority targets resolved; 19 remain. Next: Surplus Man 314-320, including confirmed failures316/319.",
     "Completeness audit: National University League targets236-244 all rebuilt/pass. Priority target242 resolved; 26 initial-priority chapters remain.",
@@ -1134,5 +1135,7 @@
   "chapter_55_source_mode": "hybrid_overlap_054_plus_missing_opening_from_E55",
   "reopened_needs_rework": [
     420
-  ]
+  ],
+  "accepted_count": 499,
+  "needs_rework_count": 1
 }
