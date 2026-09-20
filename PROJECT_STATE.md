@@ -8,25 +8,20 @@
 **Confirmed needs rework:** 316, 319, 420  
 **Resolved confirmed failure:** 97  
 **Project completion:** REOPENED — manuscript completeness audit active  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104) — rebuilt / PASS  
-**Pending initial priority queue:** 33 chapters  
-**Next audit family:** Attack Land (190–196)
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196) — rebuilt / PASS  
+**Pending initial priority queue:** 31 chapters  
+**Next audit family:** Tuition (225–233)
 
-The post-500 completeness audit has now fully rebuilt four consecutive title families covering targets 85–104.
+The post-500 audit continues to show that historical “accepted” status did not guarantee full source coverage.
 
-The Nostalgia rebuild closes the Madam boundary repair cleanly:
-- target100 ends before impact at the prepared Bog Salamander cushion;
-- target101 begins at impact and exclusively owns the landing, Madam death, Venom acquisition, collapse, and rescue material;
-- no duplicate source material remains across the boundary.
+**Attack Land (190–196)** is now fully rebuilt. Direct raw comparison found material summary compression across all seven chapters, not just priority targets 192 and 196. The rebuild restores the complete Attack-test mechanics, Sadi/Banshee institutional conflict, Sinclaire/Pigi examinations, Vikir's weak-point strategy, returning-arrow sequence, Sadi aftermath, combined standings, recruitment pressure, news coverage, and Cindywendy's next-Corpse hook.
 
-All four Nostalgia chapters were in the initial low-ratio queue and were materially compressed.
-
-Major restored material includes:
-- full Chapter101 impact/Madam-death/Beelzebub spirit-slot sequence;
-- Aiyen carrying Vikir for three days and three nights, the >4,000-person tribal gathering, Peak Sword Graduator / incomplete Seventh Fang analysis, and Madam egg research uncertainty;
-- the complete Bakira husbandry scene and the following Vikir/Aiyen awkwardness;
-- Ballak's no-goodbye philosophy, multi-tribe farewell, Vikir's sense of belonging, Camus/Colosseo recollection, and Aiyen's completed Anubis / Oxbear collar / final Imperial farewell.
+Two source-level repairs remain explicit:
+- C192's endpoint calls Vikir, but E190 + C193 prove the next examinee is **Pigi**.
+- C193 briefly labels Pigi as Hot Department, but accepted roster continuity keeps him in **Cold Department Class B**.
 
 Current unresolved confirmed failures remain **316, 319, 420**.
 
-Original priority queue: 47 chapters. **33 remain.** The next flagged targets are 192 and 196, so the audit moves to the complete **Attack Land (190–196)** family.
+Original priority queue: 47 chapters. **31 remain.**
+
+The next flagged target is 225. Its full title family is **Tuition (225–233)**, and the priority queue also includes 228, 230, and 231, so the complete nine-chapter family will be audited together.
