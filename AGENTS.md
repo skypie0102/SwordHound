@@ -141,6 +141,22 @@ When the live handoff/tracker says a post-run completeness audit is active:
 - supersede stale QA/provenance/acceptance evidence when a chapter is rebuilt;
 - do not advance to complete-EPUB assembly until the completeness audit is formally closed in the live state files.
 
+## Full sanitization + completeness audit guard
+
+When the live handoff/tracker marks a full sanitization + completeness audit cycle active:
+
+- make that audit the immediate project priority;
+- treat all historical acceptance/PASS artifacts as evidence only until the target clears the active cycle;
+- review every target chapter directly; do not limit work to low-ratio or previously suspicious chapters;
+- record sanitization fidelity and completeness as separate gates;
+- check for both unsupported softening/euphemism/omission and unsupported intensification;
+- verify complete source coverage for dialogue, narration, description, transitions, thoughts, windows, numbers/mechanics, scene order, and endings;
+- keep title-family, chapter-boundary, combined-raw, overlap, source-gap, and English-alignment checks explicit;
+- document safety-limited passages separately and still verify all surrounding ordinary material in full;
+- remediate by complete family when needed, then refresh all affected QA/provenance/acceptance/family-QA/hash bindings;
+- run a residual consistency sweep after remediation;
+- do not begin or resume complete-EPUB assembly until the active audit is formally closed in the live state files.
+
 ## Editorial versus presentation QA
 
 Editorial work comes first. Prioritize source fidelity, grammar, awkward wording, mistranslations, names/terms, speaker attribution, continuity, chronology, information-window content/structure, scene-break semantics, provenance/alignment, historical-audit triage, and readable final prose.

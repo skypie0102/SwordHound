@@ -6,24 +6,22 @@ Recovered source, reference, reconstruction, QA, and EPUB-preparation material f
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **post-500 manuscript completeness audit — COMPLETE**.
+Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2 ACTIVE**.
 
 - Target manuscript files present: **500 / 500**
-- Current tracker state: **500 accepted / 0 needs rework**
-- Initial priority-review queue: **47 / 47 resolved**
-- Strong-suspect queue: **22 / 22 resolved**
-- Original confirmed completeness failures resolved: **97, 316, 319, 420**
-- Additional whole-corpus residual failure found and resolved: **59**
-- Whole-corpus residual pass: **COMPLETE**
-- Active audit record: `qa/manuscript-completeness-audit.md`
-- Complete-EPUB assembly is **unblocked**
-- Next phase: **complete-EPUB assembly and final packaging/layout QA**
+- Historical accepted state entering Cycle 2: **500 / 500**
+- Cycle-2 sanitization revalidated: **0 / 500**
+- Cycle-2 completeness revalidated: **0 / 500**
+- Cycle-2 boundary/alignment revalidated: **0 / 500**
+- New confirmed Cycle-2 failures: **none yet; substantive review has not started**
+- Current stage: **Phase 0 — baseline freeze and audit inventory**
+- Active Cycle-2 plan: qa/manuscript-sanitization-completeness-cycle2.md
+- Historical post-500 audit record: qa/manuscript-completeness-audit.md
+- Complete-EPUB assembly: **BLOCKED until Cycle 2 closes**
 
-The project originally reached all 500 target manuscripts, then reopened completion because direct Chinese-raw comparison proved that some previously accepted drafts preserved only broad plot beats while dropping substantial dialogue, narration, description, and transitions.
+The previous 2026-09-20 completeness audit remains valid historical evidence and closed with **500 accepted / 0 known rework** after repairing confirmed compression failures. Cycle 2 is a new, stricter audit opened before packaging: it requires fresh sanitization-fidelity review and direct full-source completeness revalidation for **every Chapter 1–500**, regardless of prior PASS state or size ratio.
 
-The audit rebuilt the affected priority families through **The Lion King (430–433)**. After the original queue was cleared, a fresh residual scan compared **484 ordinary one-target raw/draft pairs**. No unresolved chapter remained below the original 0.60 trigger. Review was then widened to **28 chapters below 0.70 across 15 title families**, which exposed Chapter **59 — The Hunter and the Hunted (5)** as an additional completeness failure above the original cutoff. Chapter 59 was rebuilt and its family QA/provenance/acceptance chain was rebound.
-
-Final manuscript result: **500 accepted / 0 needs rework / no unresolved completeness failures**.
+The audit has separate gates for sanitization fidelity, complete source coverage, and boundary/alignment integrity. Prior acceptance is evidence, not an automatic Cycle-2 pass. EPUB assembly will not resume until all 500 targets clear the new closure criteria.
 
 ## Current source policy
 

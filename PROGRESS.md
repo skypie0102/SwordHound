@@ -1,5 +1,36 @@
 # Reconstruction Progress
 
+## 2026-09-21 — Full sanitization + completeness audit Cycle 2 OPENED
+
+**Immediate project priority:** exhaustive sanitization-fidelity and complete-source revalidation across **all 500 target chapters**.
+
+The prior 2026-09-20 post-500 completeness audit remains historically closed at 500 accepted / 0 known rework. Cycle 2 is a new release-blocking review, not a claim that all 500 chapters have suddenly failed.
+
+Opening state:
+
+- manuscript files: **500 / 500**;
+- historical accepted state: **500 / 500**;
+- Cycle-2 sanitization revalidated: **0 / 500**;
+- Cycle-2 completeness revalidated: **0 / 500**;
+- Cycle-2 boundary/alignment revalidated: **0 / 500**;
+- current stage: **Phase 0 baseline freeze/inventory**;
+- EPUB assembly: **BLOCKED**.
+
+Planned phases:
+
+1. baseline freeze and complete audit inventory;
+2. full-corpus sanitization fidelity sweep;
+3. true full-corpus completeness pass;
+4. boundary/alignment/exception integrity pass;
+5. remediation and evidence rebinding;
+6. independent residual verification;
+7. closure/hash validation and EPUB unblock.
+
+Unlike the previous anomaly-driven audit, Cycle 2 requires every chapter to receive fresh direct review. Sanitization and completeness are recorded as independent gates. Byte ratios, lexical overlap, and similar diagnostics remain secondary safety nets only.
+
+Detailed plan: qa/manuscript-sanitization-completeness-cycle2.md.
+
+
 ## 2026-09-20 — Post-500 manuscript completeness audit CLOSED
 
 **Final result:** **500 / 500 accepted; 0 needs rework; no unresolved completeness failures.**

@@ -1,5 +1,8 @@
 # Post-500 Manuscript Completeness Audit
 
+> **Historical Cycle-1 record.** This audit closed on 2026-09-20. A new, stricter full sanitization + completeness Cycle-2 audit opened on 2026-09-21 and is tracked in qa/manuscript-sanitization-completeness-cycle2.md. Do not treat this closed record as automatic Cycle-2 clearance for any chapter.
+
+
 **Opened:** 2026-09-20  
 **Status:** COMPLETE  
 **Target manuscript files present:** 500 / 500  
