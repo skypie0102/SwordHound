@@ -1,19 +1,17 @@
 # Chapter 92 QA — The Ghosts of the Ancestors (3)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/ghosts-ancestors-0090-0094.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20  
+**Family acceptance:** contingent on revised `qa/families/ghosts-ancestors-0090-0094.md`
 
 ## Evidence
 - Chinese: `source/chinese/chapters/092.txt` — `a880ba08795a97b8343f5b49640e2a46b9b8a9ec`
 - English witness: **E91** — `98931f3b4140b17b93bba780fb12e99480487f20`
-- Draft: `manuscript/drafts/chapter-0092.md` — `1886d92bea88028644ed52ea7af5834e454e66e0`
+- Rebuilt draft: `manuscript/drafts/chapter-0092.md` — `08f1e23f7b62376bb290e4aeb47dc5baef366eac`
 
-## Checks
-- PASS — Adonai is explicitly master-level / Bow Master class and compared in pressure to Hugo.
-- PASS — Adonai forms both bowstring and arrows from solid black aura.
-- PASS — his arrows carry poison from the bow made from old **Madam Eight-Legs** remains/shed material.
-- PASS — Vikir remains **High Sword Graduator**; master-level solid aura overwhelms his liquid aura.
-- PASS — **Kilogram Hammer — Oxbear (A)** is used defensively to resist knockback.
-- PASS — six Fangs remain insufficient against Adonai's arrow barrage.
-- PASS — Aiyen repeatedly saves Vikir from lethal arrows without romantic/sexual expansion.
-- PASS — Akwilla ends the chapter by catching and crushing Adonai's attack barehanded.
+## Completeness findings
+- Historical draft heavily compressed the master-level combat mechanics and omitted much of Vikir's injury, mana, range, and no-escape reasoning.
+- Rebuilt draft restores Adonai's aura-created bowstring/arrow; the first shot's log/cliff destruction and Vikir's torn arm/cracked wrist; solid Master aura vs liquid Graduator aura; Madam Eight-Legs bow origin/poison; Death Knight ranged-combat advantage; River Styx/Beelzebub survival factors; and **Kilogram Hammer — Oxbear (A)** as anti-knockback weight.
+- PASS — Vikir remains **High Sword Graduator** and is explicitly outclassed by Adonai's master-level solid aura.
+- PASS — full Aiyen rescue sequence is retained, including the head shot, groin-targeting follow-up, ten-arrow multidirectional attack caught and crushed one-handed, and Akwilla's barehanded interception of the final black vortex.
+- PASS — no source combat mechanism, injury, tactical conclusion, dialogue exchange, or transition was intentionally summary-collapsed.

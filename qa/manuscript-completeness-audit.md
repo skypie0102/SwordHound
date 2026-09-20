@@ -31,9 +31,9 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 87 | The Illiad (3) | 5679 | 10774 | 0.527 | REBUILT — PASS |
 | 88 | The Illiad (4) | 5530 | 9280 | 0.596 | REBUILT — PASS |
 | 89 | The Illiad (5) | 4972 | 9514 | 0.523 | REBUILT — PASS |
-| 92 | The Ghosts of the Ancestors (3) | 4699 | 8364 | 0.562 | priority review |
-| 93 | The Ghosts of the Ancestors (4) | 5561 | 10276 | 0.541 | priority review |
-| 94 | The Ghosts of the Ancestors (5) | 4847 | 8456 | 0.573 | priority review |
+| 92 | The Ghosts of the Ancestors (3) | 4699 | 8364 | 0.562 | REBUILT — PASS |
+| 93 | The Ghosts of the Ancestors (4) | 5561 | 10276 | 0.541 | REBUILT — PASS |
+| 94 | The Ghosts of the Ancestors (5) | 4847 | 8456 | 0.573 | REBUILT — PASS |
 | 96 | Madam Eight-Legs (2) | 4461 | 7478 | 0.597 | priority review |
 | 97 | Madam Eight-Legs (3) | 3971 | 10214 | 0.389 | CONFIRMED REWORK |
 | 98 | Madam Eight-Legs (4) | 3432 | 8242 | 0.416 | priority review |
@@ -84,8 +84,17 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 44 chapters (down from 47).  
-**Next family:** The Ghosts of the Ancestors (90–94).
+**Pending initial priority queue:** 41 chapters (down from 47).  
+**Next family:** Madam Eight-Legs (95–100).
+
+### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
+
+Direct Chinese comparison showed **all five** historical drafts were materially compressed. Only Chapters 92–94 were in the initial <0.60 queue; Chapters 90–91 were above the threshold but still failed full-coverage review.
+
+The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
+
+**Pending initial priority queue:** 41 chapters.  
+**Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
 
 ## Confirmed failures
 

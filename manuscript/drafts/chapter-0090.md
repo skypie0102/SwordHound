@@ -1,296 +1,412 @@
 # Chapter 90: The Ghosts of the Ancestors (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/090.txt` — `2128d128f66c3208b3d8bacdd37bb7d9c6684773`. Recovered English Chapter 89 is the verified shifted secondary witness. Established terminology controls **Oxbear**, **Beelzebub**, **Incinerate — Cerberus (A+)**, **Silent Heel — Mushuhushu (A+)**, **Kilogram Hammer — Oxbear (A)**, **Ah'Heman**, **Ahun**, **Akwilla**, **Aiyen**, **Ballak Tribe**, **Rokoko**, and **Tomb of the Brave**.
+> Chinese-primary reconstruction from `source/chinese/chapters/090.txt`. Recovered English Chapter 89 is the verified shifted secondary witness. Established terminology controls **Hugo Le Baskerville**, **Oxbear**, **Beelzebub**, **Incinerate — Cerberus (A+)**, **Silent Heel — Mushuhushu (A+)**, **Kilogram Hammer — Oxbear (A)**, **Ah'Heman**, **Ahun**, **Ballak Tribe**, **Rokoko**, and **Tomb of the Brave**.
 
-“If you don't know what the enemy will do, make every option useless.”
+*If you don't know what move is coming, make every possible move useless.*
 
-That was one of Hugo Le Baskerville's lessons.
+Hugo Le Baskerville had repeated that lesson whenever he spoke of creating seven fangs.
 
-Hugo had faced countless challengers.
+Countless challengers had come for him over the years.
 
-Surprise attacks.
+Some attacked head-on.
 
-Assassination.
+Others relied on surprise attacks, assassination, ambushes, betrayal, curses, or schemes designed specifically to produce the kind of variable an opponent could not predict.
 
-Ambush.
+None of it had mattered.
 
-Betrayal.
+Overwhelming strength.
 
-Curses.
+In front of enough strength, variables stopped being variables.
 
-It had never mattered.
+The unexpected became trivial.
 
-Overwhelming strength made uncertainty irrelevant.
+And this time, Vikir had chosen to apply that lesson.
 
-Vikir used that lesson now.
+The only difference was that the overwhelming strength he was using did not belong to him.
 
-The strength was not his.
-
-[GRRRR…]
+[Grrrrrr…]
 
 > **Oxbear**  
 > **Danger Rating:** A  
 > **Size:** 5 m  
 > **Found at:** Le Rouge et Le Noir Mountain, 7th Ridge  
-> **Description:** A gigantic bear with two massive horns.
+> **Description:** An enormous bear with two gigantic horns.
 
-A normal Oxbear reached roughly five meters and weighed close to a ton.
+Among terrestrial predators, the Oxbear was one of the most dangerous.
 
-This one was different.
+A member of the bear family armed with enormous horns, it was close to a perfect killing machine and sat at the top of the ecosystem throughout the Seventh Ridge.
 
-An old female.
+Outside its own kind, it had almost no natural enemies.
 
-Nearly blind.
+A normal specimen reached roughly five meters in length and weighed around a ton.
 
-Twice the size of ordinary specimens.
+Even among the monsters of Le Rouge et Le Noir Mountain, that placed it firmly among the most dangerous creatures a hunter might encounter.
 
-At least A+ in practical danger.
+And Vikir knew this particular Oxbear.
 
-Vikir knew her.
+*…The old blind female.*
 
-He and Aiyen had once hunted in this territory.
+She was nearly twice the size of ordinary Oxbears and considerably heavier.
 
-He had deliberately caused enough commotion to draw the old female toward the Illiad.
+Judging by the specimen rather than the species average, Vikir would have rated her at least **A+**.
 
-Ah'Heman, who rarely hunted, had never learned her territory.
+The Illiad had not been held here by accident.
 
-Now he paid for it.
+This was her territory.
+
+Vikir had learned that during an earlier joint hunt with Aiyen.
+
+He had deliberately made enough noise during the duel to draw the old female out.
+
+Ah'Heman, who almost never went hunting himself, had not known whose territory he was standing in.
+
+That ignorance had just become catastrophic.
 
 “Ugh…”
 
-He tried to smother the foam and groans escaping his mouth.
+Ah'Heman desperately covered his mouth, trying to stop the frothy saliva and groans leaking out.
 
-The Oxbear listened.
+The old Oxbear lifted her ears.
 
-Her eyesight had become worse with age.
+Her eyesight had always been poor.
 
-Her hearing had not.
+Age had only made it worse.
 
-Vikir stepped backward.
+*Exactly as I remembered.*
 
-Silently.
+Vikir silently stepped backward.
 
-> **Beelzebub**  
+> **Fly of Gluttony ‘Beelzebub’ / Awl**  
 > **Slot 1:** Incinerate — Cerberus (A+)  
 > **Slot 2:** Silent Heel — Mushuhushu (A+)  
 > **Slot 3:** Kilogram Hammer — Oxbear (A)
 
-Silent Heel erased his footsteps.
+The ability Vikir had gained from Ka'ah erased even the faintest sound from his steps.
 
-Ah'Heman had no such advantage.
+Ah'Heman had no such protection.
 
-Cerberus fire still burned in Vikir's wounds on him.
+The wounds Vikir had already given him were still burning with Cerberus's hellfire.
 
-The Oxbear's earlier blow had also shattered his back.
+Pain forced sound from him again and again.
 
-Pain finally broke through whatever discipline remained.
+“Ugh… Ughhh…”
 
-“AAAAARGH!”
+And now the damage from the Oxbear's first blow was beginning to fully register.
 
-The Oxbear moved instantly.
+The old female had already struck him once from behind.
 
-BOOM.
+Shock spread through his back.
 
-One forepaw smashed into Ah'Heman.
+Pain arrived in waves.
 
-His lower body spun sideways.
+Eventually his cracked lips twisted open.
 
-He hit a tree.
+“AAAAAAGH!”
 
-Legs and waist bent at impossible angles.
+The Oxbear reacted instantly.
 
-[CRACK.]
+BOOM!
 
-Then came small cries.
+One enormous forepaw crashed into Ah'Heman's lower body.
 
-Two cubs watched from behind the old female.
+He spun through the air like a top.
 
-Strong bodies.
+Then—
 
-Bright eyes.
+CRASH!
 
-The mother snorted toward the intruders.
+He slammed into a tree.
 
-Then turned back toward them.
+His legs and waist folded at impossible angles.
 
-Her message was clear.
+[GRRRR!]
 
-The warning had been sufficient.
+The old female roared again, making her anger at the intruder unmistakable.
 
-◆◆◆
+Then—
 
-Vikir emerged from the brush.
+[Scree… scree…]
 
-Ah'Heman lay face-down.
+Small cries came from behind her.
 
-Still alive.
+The Oxbear immediately raised her ears and turned.
+
+Two cubs stood there, watching with enormous eyes.
+
+They were young, but already powerfully built.
+
+Their bright expressions showed a surprising degree of intelligence.
+
+The old female snorted once toward the intruders.
+
+Then she returned to her cubs.
+
+As far as she was concerned, she had already demonstrated everything a mother needed to demonstrate—
+
+strength, decisiveness, and the consequences of approaching her territory.
+
+A short while later—
+
+Vikir emerged from the brush again.
+
+Ah'Heman lay face-down on the ground, unmoving.
+
+But his breathing still trembled faintly.
+
+He was alive.
 
 Barely.
 
-Ballak warriors gathered around them.
+Rustle. Rustle.
 
-The result of the Illiad was obvious.
+Leaves moved all around them.
 
-Vikir stood unhurt.
+The Ballak warriors who had been watching the Illiad began to gather.
 
-Ah'Heman was almost dead.
+Soon Vikir and Ah'Heman were surrounded.
 
-“It's over.”
+There was no question who had won.
 
-“We have a winner.”
+Vikir had not suffered so much as a scratch during the duel.
 
-“At this point, innocence or resentment doesn't matter.”
+Ah'Heman, on the other hand, was still alive only in the most technical sense.
 
-“Ah'Heman performed terribly.”
+“It's over. The winner's obvious.”
 
-“Good result.”
+“At this point, does it even matter whether Ah'Heman still thinks he was wronged?”
 
-The tribe's disappointment had been building for a long time.
+“No matter who's right, that was pathetic.”
 
-Red Death.
+“I think the outcome was exactly what it should have been.”
 
-Bourgeois corruption.
+The warriors gave their judgments one after another.
 
-Leviathan collusion.
+Their disappointment in Ah'Heman had not begun with the Illiad.
 
-Aheul.
+It had accumulated through the Red Death incident and everything surrounding it.
 
-Now this.
-
-Ah'Heman trembled in the mud.
+Listening to them, Ah'Heman trembled on the ground like an insect.
 
 *Why?*
 
-He and Vikir had both entered Ballak from outside.
+*Why!?*
 
-Both had once been slaves.
+His mind screamed even when his body could barely move.
 
-Yet Vikir had gained everything Ah'Heman wanted.
+What was so different between him and Vikir?
+
+Both had been brought here from outside.
+
+Both had entered Ballak as slaves.
+
+Why had their paths become so different?
+
+Ah'Heman remembered the humiliation he had endured for decades.
+
+Then he looked at everything Vikir possessed.
 
 Youth.
 
-Talent.
+The affection of the chieftain's daughter.
 
-Trust.
+The trust of every companion around him.
 
-The chieftain's daughter.
+The tribe's support and love.
 
-The tribe's respect.
+Exceptional talent.
 
-Physical strength.
+A handsome face.
 
 A future.
 
-And Vikir looked almost indifferent to all of it.
+And Vikir carried all of it with calm eyes that seemed almost indifferent to the things Ah'Heman had spent a lifetime craving.
 
-Ah'Heman looked inward instead.
+“…! …! …!”
+
+Ah'Heman clenched his jaw until there were no teeth left to grind—only bleeding gums.
+
+Then he stopped looking at Vikir.
+
+He looked inward.
 
 Old age.
 
-A ruined body.
+The old shaman who had once treated him with contempt and abuse.
 
-Contempt.
+Decades of being ignored or looked down upon.
 
-Being used by Imperials and abandoned.
+A body broken by time.
 
-Abilities nobody respected.
+Talent no one had valued.
 
-A lifetime of forcing himself into a warrior's mold.
+Being used as a disposable piece by the Empire and then abandoned.
 
-His jealousy curdled into rage.
+Envy.
 
-Then he saw Ahun.
+Humiliation.
 
-His grandson looked away.
+Defeat.
 
-That final rejection broke whatever restraint remained.
+Hatred.
 
-Ahun's fists tightened.
+Anger.
 
-Vikir placed a hand on his shoulder.
+The desire for revenge.
 
-“Do you want to finish this yourself?”
+Everything boiled together.
 
-“No.”
+Then his gaze moved to Ahun.
+
+“….”
+
+His last remaining blood relative.
+
+His grandson turned his eyes away.
+
+That final rejection lit the fuse.
+
+◆◆◆
+
+Ahun's fists were clenched so hard his knuckles had gone white.
+
+He kept his head turned aside.
+
+A hand rested lightly on his shoulder.
+
+Vikir.
+
+He looked at Ahun with the same calm expression as ever.
+
+“Do you want to finish it with your own hands?”
+
+“…No.”
 
 Ahun shook his head.
 
-Ah'Heman had nearly killed Aheul through the Red Death scheme.
+He had nearly lost his sister Aheul to the Red Death.
 
-He had demeaned both siblings for years.
+That alone made forgiveness impossible.
 
-Grandfather or not, Ahun could not forgive him.
+Even if the culprit was his grandfather.
 
-Vikir spoke quietly.
+And that was before the years of contempt and belittling Ah'Heman had directed at both siblings.
 
-“Staying near him at the end isn't only mercy. It prevents surprises.”
+Ahun wanted nothing more to do with him.
 
-“Enough.”
+Vikir shook his head slightly.
 
-Ahun knocked his hand away.
+“Staying beside him at the end wouldn't necessarily be a bad thing.”
 
-“That coward deserves to die.”
+Ahun looked back.
 
-Then the ground changed.
+“Not only because he's family,” Vikir continued. “It would also keep him from doing anything unexpected.”
 
-Dark mana thickened.
+“Enough!”
 
-Bones clicked.
+Ahun knocked Vikir's hand away.
 
-The dead apes around the clearing began to rise.
+“That coward deserves to die!”
 
-Rotting flesh slid away.
+His face twisted.
 
-Skeletons stood.
+“He isn't worth pity.”
 
-Ballak warriors recoiled.
+He turned away again.
 
-The corpses moved toward Ah'Heman like puppets and dragged him upright.
+Then—
 
-He raised bloodshot eyes toward Vikir.
+WHOOOOOM!
+
+Something changed.
+
+Black mana began gathering throughout the clearing.
+
+The air twisted around it.
+
+Crack.
+
+Crack-crack!
+
+Bones scraped against one another.
+
+The corpses of the orangutans the Oxbear had crushed into mangled heaps began moving again.
+
+Rotten flesh sloughed away.
+
+Skeletons rose.
+
+A chill passed through the Ballak warriors.
+
+The corpses jerked like marionettes with cut strings, then staggered toward Ah'Heman.
+
+They lifted him upright.
+
+Ah'Heman raised bloodshot eyes.
+
+First toward Vikir.
 
 Then Ahun.
 
-Then the tribe.
+Then the Ballak warriors surrounding them.
 
-“I don't need any of you.”
+“…I don't need any of you anymore.”
 
-He was not surrendering the Illiad.
+It sounded like surrender.
 
-He was surrendering Ballak.
+But he was not surrendering the Illiad.
 
-The moment one Ballak disappeared—
+He was abandoning Ballak itself.
 
-one Rokoko returned.
+And when one Ballak disappeared—
 
-Ah'Heman began speaking forbidden words.
+one Rokoko was born again.
 
-Old Rokoko necromancy.
+Having thrown away the pride he had spent his life trying to claim as a warrior, Ah'Heman began reciting a forbidden incantation.
 
-A spell so taboo that even Rokoko had nearly lost it.
+It belonged to Rokoko necromancy.
 
-The dead moved again.
+A summoning art so taboo that even among the Rokoko it had nearly vanished.
 
-Ballak warriors sneered.
+A forbidden spell that called back spirits already on their way to the underworld.
 
-“More corpse puppets?”
+The Ballak warriors listened with disgust.
 
-“Disgusting.”
+“What? More of that corpse-summoning garbage?”
 
-“There aren't even enough bodies left here.”
+“Disgusting. Even for a shaman.”
 
-But Vikir noticed something.
+“But what can he do? There aren't any more dead monkeys left to raise.”
+
+They were right about the clearing.
+
+There were no other bodies nearby.
+
+At most, Ah'Heman could reanimate the handful of orangutans already lying here.
+
+But—
+
+“…!”
+
+Vikir noticed it.
 
 The spell was not aimed at the clearing.
 
-The black current stretched farther.
+The current of black mana stretched much farther away.
 
-Toward the valley.
+He followed it with his eyes.
 
-Toward the waterfall.
+Beyond the forest.
 
-Toward the sacred spring.
+Toward a place he knew.
 
-Toward the burial place of generations of Ballak heroes.
+A gorge rising past the low hills.
+
+A waterfall.
+
+A clear spring associated with generations of Ballak warriors.
+
+And beneath it—
+
+the sacred resting place where the tribe's greatest ancestors had been buried.
 
 The **Tomb of the Brave**.

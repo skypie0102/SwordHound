@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 496,
   "staged_chapters": 0,
-  "next_chapter": 90,
+  "next_chapter": 95,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "The Ghosts of the Ancestors",
+    "name": "Madam Eight-Legs",
     "range": [
-      90,
-      94
+      95,
+      100
     ],
-    "reason": "next family after completed Illiad completeness rebuild; flagged chapters 92-94"
+    "reason": "next family after Ghosts completeness rebuild; Chapter97 confirmed needs rework and 96-99 are priority-review chapters"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -558,6 +558,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: The Ghosts of the Ancestors targets90-94 were all materially compressed and have been rebuilt/rebound; 90-91 were above the original low-ratio threshold.",
     "Completeness audit: The Illiad targets85-89 were all materially compressed in historical accepted drafts and have been fully rebuilt/rebound. Only 87-89 were in the original low-ratio queue, proving the ratio is triage only.",
     "POST-500 COMPLETENESS AUDIT ACTIVE: file coverage reached 500/500, but current editorial acceptance is 496/500 after Chapters 97, 316, 319, and 420 were directly confirmed as summary-compressed against Chinese.",
     "Initial priority queue contains 47 ordinary one-target chapters below draft/raw byte ratio 0.60; ratio is triage only and all retained acceptances remain provisional until corpus-wide completeness review closes.",
@@ -1026,13 +1027,22 @@
       420
     ],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 44,
+    "pending_priority_review_count": 41,
     "completed_families": [
       {
         "name": "The Illiad",
         "range": [
           85,
           89
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
+      },
+      {
+        "name": "The Ghosts of the Ancestors",
+        "range": [
+          90,
+          94
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"

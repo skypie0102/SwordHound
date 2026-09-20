@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Ghosts of the Ancestors completeness rebuild (90–94)
+
+**Audit result:** all five historical drafts failed strict full-source-coverage review and were rebuilt; family now **PASS**.
+
+The initial size heuristic flagged Chapters 92–94, but direct Chinese comparison showed Chapters 90–91 were also materially compressed. This repeats the Illiad result and confirms that the byte-ratio detector cannot be used as a pass threshold.
+
+Major restorations:
+- Chapter90: Hugo's overwhelming-strength lesson; complete Oxbear ecology/territory trap; second Oxbear strike; full post-Illiad judgment; Ah'Heman's envy/identity collapse; Ahun exchange; Rokoko reversion; Tomb of the Brave targeting.
+- Chapter91: full natural-law explanation of undeath; Death Knight mechanics/window; intelligent-case rarity; black-panther shrouds; salt countermeasure; life/soul cost; “quality over quantity”; complete Adonai summoning/legend.
+- Chapter92: aura-created bowstring/arrow; first-shot injury/destruction; master solid aura vs Graduator liquid aura; Madam Eight-Legs bow poison; River Styx/Beelzebub survival factors; Kilogram Hammer; full Aiyen rescue; ten-arrow catch; Akwilla interception.
+- Chapter93: complete Akwilla–Adonai master duel; wind/poison disadvantage; storm-return archery; repeated penetration and final headshot; prime-Adonai caveat; ancestor-blood hostage tactic; Vikir's log-dam release.
+- Chapter94: complete salt-river purification; post-flood environment; Adonai-bow recovery; Ah'Heman's magical-talent assessment; full Thorn-Tree Punishment; Ahun's decision; explicit final burning and warning.
+
+Fresh chapter QA, provenance, acceptance evidence, and family QA are rebound.
+
+Original priority queue now has **41 pending chapters**.
+
+Next audit family: **Madam Eight-Legs (95–100)**. Chapter97 is already a confirmed completeness failure.
+
+
 ## 2026-09-20 — The Illiad completeness rebuild (85–89)
 
 **Audit result:** all five historical drafts failed strict full-source-coverage review and were rebuilt; family now **PASS**.
