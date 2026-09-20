@@ -1,0 +1,33 @@
+{
+  "chapter": 428,
+  "title": "The Night Walkers (4)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Night Walkers",
+    "range": [
+      425,
+      429
+    ],
+    "family_qa_path": "qa/families/night-walkers-0425-0429.md",
+    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/428.txt",
+    "primary_source_sha": "b4d84f86f30704a409b075be8f883f2ab1ed2441",
+    "english_reference_path": "source/chapters/chapter-426.xhtml",
+    "english_reference_sha": "499db247e899a9e014451fd63c20f019780d2d6f",
+    "draft_path": "manuscript/drafts/chapter-0428.md",
+    "draft_sha": "8f06b012f45993e00d3e5a653121144345d509e3",
+    "qa_path": "qa/chapter-0428.md",
+    "qa_sha": "342ee6a760847e0348ecccc076749a1a2463207d",
+    "provenance_path": "editorial/provenance/chapter-0428.json",
+    "provenance_sha": "be44081a7bab101aa94f084121ae20614f244284"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Lion King material from target430 is imported."
+  ]
+}
