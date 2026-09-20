@@ -47,7 +47,7 @@ Do not stop merely because one chapter, one PR, or one title-family batch has fi
 Read `source/chinese/chapter-exceptions.tsv`.
 
 - Normal chapter: use `source/chinese/chapters/NNN.txt`.
-- Missing Chapter 55: use verified English MTL Chapter 55 as the sole text source.
+- Chapter 55: no standalone `055.txt`; use the documented 54/55 overlap in `054.txt`. E55 supplies only the missing opening/title boundary, while Chinese controls the surviving target-55 body.
 - Combined chapter: use the shared Chinese container listed in the exception table. Do not require a physical raw split.
 
 Record source paths in provenance and summarize unusual source status in the handoff.
@@ -115,7 +115,7 @@ Every chapter must pass:
 - source provenance and English-reference alignment;
 - combined-pair split integrity where applicable.
 
-Chapter 55 additionally requires explicit neighboring-context and uncertainty review because Chinese source evidence is unavailable.
+Chapter 55 additionally requires explicit boundary/neighbor review because its Chinese evidence is partial and embedded in `054.txt`; E55 may fill only the documented missing opening/title span.
 
 ## 9. Acceptance and batch continuation
 
@@ -158,6 +158,18 @@ During ordinary chapter processing, prioritize translation/source comparison, te
 Do not require Playwright, browser screenshots, CSS measurements, viewport checks, or GitHub Actions for ordinary title-family editorial acceptance. Presentation/layout QA belongs to the complete-EPUB phase unless the user explicitly requests an earlier visual check.
 
 GitHub-hosted runners are a last resort. Prefer direct repository/API work, deterministic reasoning, and static validation; batch unavoidable runner work at a larger release checkpoint.
+
+## Post-500 completeness audit gate
+
+When `HANDOFF.md` or the tracker marks a manuscript-completeness audit active:
+
+1. Treat historical PASS/acceptance records as review evidence, not conclusive proof of full coverage.
+2. Compare each audited draft against the complete Chinese source, including dialogue, narration, descriptions, transitions, windows, explicit details, and scene rhythm.
+3. Reject summary-style condensation even when the major plot events are technically present.
+4. Use byte/word-length anomalies only to prioritize review; never use them as an automatic pass/fail metric.
+5. If one chapter in a title family is suspicious, audit the full contiguous family.
+6. Rebuild stale QA/provenance/acceptance evidence whenever a chapter is corrected.
+7. Do not enter EPUB assembly until current-state files formally close the completeness audit.
 
 ## Complete-EPUB presentation/release phase
 
