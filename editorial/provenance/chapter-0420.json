@@ -10,7 +10,7 @@
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
     "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
-    "status": "pass"
+    "status": "reopened_for_completeness_audit"
   },
   "primary_source": {
     "path": "source/chinese/chapters/420.txt",
@@ -29,9 +29,19 @@
   "qa": {
     "path": "qa/chapter-0420.md",
     "blob_sha": "c6febfd511671bae0ee3902835b578223b0c72d9",
-    "status": "pass"
+    "status": "superseded_needs_rework"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
-  "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted": false,
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20"
+  },
+  "current_status": "needs_rework",
+  "reopened_date": "2026-09-20",
+  "completeness_audit": {
+    "status": "confirmed_compressed",
+    "reason": "Direct Chinese/draft comparison confirms substantial dialogue, underwater action detail, and connective narration were omitted despite preserved major plot beats.",
+    "evidence": "qa/manuscript-completeness-audit.md"
+  }
 }

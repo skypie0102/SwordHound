@@ -76,9 +76,13 @@ Use the wiki to normalize the English rendering of an entity or term once the Ch
 
 If a relevant Fandom entry cannot be found or accessed, record that limitation. Do not pretend a generic wiki mention formally canonizes a proper term. Namu Wiki and other supporting sources may be used for context/disambiguation.
 
-### Missing Chinese raws
+### Partial / missing Chinese source
 
-When no Chinese raw exists, the English MTL becomes the sole text source. Currently this applies to **Chapter 55**. Such chapters still require a full line edit, continuity pass, terminology pass, Fandom canonicalization pass, uncertainty review, and QA. Record the missing-primary-source limitation explicitly.
+There is currently no known target chapter that is wholly English-only.
+
+**Chapter 55 has no standalone `055.txt`, but it is not missing in full.** Accepted boundary QA proves that `054.txt` is an overlapping 54–55 container. Recovered English Chapter 55 supplies the missing opening/title boundary; most of the Chapter-55 body survives in Chinese inside `054.txt`, and Chinese remains semantic authority wherever the texts overlap.
+
+Other localized Chinese gaps/splices are documented in `source/chinese/chapter-exceptions.tsv`. Use the English witness only for the explicitly missing span and record the limitation in QA/provenance.
 
 ### Combined Chinese raws
 
@@ -123,7 +127,19 @@ For every chapter within the active title-family batch:
 9. Only then mark the chapter accepted.
 10. Update `HANDOFF.md` at meaningful checkpoints and continue through the rest of the title family and subsequent families unless an explicit stopping condition applies.
 
-For MTL-only Chapter 55, add a dedicated uncertainty pass: compare both neighboring chapters, resolve terminology from established context/Fandom, and avoid speculative fixes that cannot be supported.
+For Chapter 55, use the documented hybrid-overlap workflow: E55 supplies only the missing opening/title boundary, while Chinese `054.txt` controls the surviving target-55 body. Compare neighboring chapters and avoid speculative restoration beyond the documented gap.
+
+## Manuscript completeness audit guard
+
+When the live handoff/tracker says a post-run completeness audit is active:
+
+- do not treat prior PASS/accepted artifacts as proof that full source coverage was achieved;
+- do not equate a coherent plot summary with a complete translation;
+- directly compare the complete Chinese source against the draft for dialogue, narration, descriptions, transitions, windows, and explicit details;
+- use size/length anomalies only as triage signals, never as automatic pass/fail rules;
+- audit the complete title family when one member is suspicious;
+- supersede stale QA/provenance/acceptance evidence when a chapter is rebuilt;
+- do not advance to complete-EPUB assembly until the completeness audit is formally closed in the live state files.
 
 ## Editorial versus presentation QA
 

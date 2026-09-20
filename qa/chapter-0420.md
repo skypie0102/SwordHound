@@ -1,7 +1,11 @@
 # Chapter 420 QA — Goodbye, Nouvelle Vague (2)
 
-**Status:** PASS  
+**Status:** NEEDS REWORK — prior PASS superseded by post-500 completeness audit  
 **Family acceptance:** contingent on `qa/families/goodbye-nouvelle-vague-0419-0421.md`
+
+## Reopening note
+
+Direct Chinese/draft comparison confirms substantial dialogue, underwater action detail, and connective narration were omitted despite preserved major plot beats. The checks below remain useful as historical plot/terminology checks, but they did **not** establish complete sentence-level source coverage and must not be used to re-accept this draft. Rebuild against the full Chinese raw, then regenerate QA/provenance/acceptance evidence.
 
 ## Evidence
 - Chinese: `source/chinese/chapters/420.txt` — `62bd87a75756c3e533f2500f7e7f1197b8306346`

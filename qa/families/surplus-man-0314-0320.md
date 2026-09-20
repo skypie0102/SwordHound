@@ -1,9 +1,12 @@
 # Title-Family QA — Surplus Man (1)–(7)
 
-**Family status:** PASS  
+**Family status:** REOPENED FOR COMPLETENESS AUDIT — historical PASS superseded  
 **Target range:** Chapters 314–320  
 **Mapping:** 314→E312 through 320→E318  
 **Following family:** target321→E319 begins *Underdogma (1)* and continues through target325→E323.
+
+
+**Audit reopening:** Chapters 316 and 319 are confirmed compressed; Chapters 314–320 must be re-audited as a complete family. Historical continuity/terminology findings remain reference material, but family acceptance is not current until full source-coverage review passes.
 
 ## Family decisions
 
@@ -33,4 +36,4 @@
 
 ## Verdict
 
-PASS.
+REOPENED — historical PASS superseded pending completeness review.

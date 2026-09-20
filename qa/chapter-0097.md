@@ -1,7 +1,11 @@
 # Chapter 97 QA — Madam Eight-Legs (3)
 
-**Status:** PASS  
+**Status:** NEEDS REWORK — prior PASS superseded by post-500 completeness audit  
 **Family acceptance:** contingent on `qa/families/madam-eight-legs-0095-0100.md`
+
+## Reopening note
+
+Direct Chinese/draft comparison confirms summary-style compression with omitted narration, descriptive detail, and causal transitions. The checks below remain useful as historical plot/terminology checks, but they did **not** establish complete sentence-level source coverage and must not be used to re-accept this draft. Rebuild against the full Chinese raw, then regenerate QA/provenance/acceptance evidence.
 
 ## Evidence
 - Chinese: `source/chinese/chapters/097.txt` — `0ee54bd429913b5081a5728c70d46712dbda7319`

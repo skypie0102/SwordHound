@@ -1,7 +1,7 @@
 {
-  "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
+  "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT ACTIVE. All 500 draft files exist, but prior acceptance is being revalidated against Chinese raws after confirmed summary-style compression.",
   "target_chapter_count": 500,
-  "accepted_count": 500,
+  "accepted_count": 496,
   "staged_count": 0,
   "next_chapter": null,
   "active_title_family": null,
@@ -1353,7 +1353,7 @@
     {
       "chapter": 97,
       "title": "Madam Eight-Legs (3)",
-      "status": "accepted",
+      "status": "needs_rework",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/097.txt",
       "english_mtl_reference": "source/chapters/chapter-096.xhtml",
@@ -1362,7 +1362,10 @@
       "provenance": "editorial/provenance/chapter-0097.json",
       "acceptance": "qa/acceptance/chapter-0097.json",
       "acceptance_sha": "5e580afee99c53e47f2f118a84be0dfd18315d1e",
-      "family_qa": "qa/families/madam-eight-legs-0095-0100.md"
+      "family_qa": "qa/families/madam-eight-legs-0095-0100.md",
+      "previous_status": "accepted",
+      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "reopened_date": "2026-09-20"
     },
     {
       "chapter": 98,
@@ -4419,7 +4422,7 @@
     {
       "chapter": 316,
       "title": "Surplus Man (3)",
-      "status": "accepted",
+      "status": "needs_rework",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/316.txt",
       "english_mtl_reference": "source/chapters/chapter-314.xhtml",
@@ -4428,7 +4431,10 @@
       "provenance": "editorial/provenance/chapter-0316.json",
       "acceptance": "qa/acceptance/chapter-0316.json",
       "acceptance_sha": "609f5769efe456690a6f1d6f789e4ca8c18eb2d6",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "previous_status": "accepted",
+      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "reopened_date": "2026-09-20"
     },
     {
       "chapter": 317,
@@ -4461,7 +4467,7 @@
     {
       "chapter": 319,
       "title": "Surplus Man (6)",
-      "status": "accepted",
+      "status": "needs_rework",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/319.txt",
       "english_mtl_reference": "source/chapters/chapter-317.xhtml",
@@ -4470,7 +4476,10 @@
       "provenance": "editorial/provenance/chapter-0319.json",
       "acceptance": "qa/acceptance/chapter-0319.json",
       "acceptance_sha": "f766b3fb8695cf3afd550f5d375071ebfc7dd1fa",
-      "family_qa": "qa/families/surplus-man-0314-0320.md"
+      "family_qa": "qa/families/surplus-man-0314-0320.md",
+      "previous_status": "accepted",
+      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "reopened_date": "2026-09-20"
     },
     {
       "chapter": 320,
@@ -5875,7 +5884,7 @@
     {
       "chapter": 420,
       "title": "Goodbye, Nouvelle Vague (2)",
-      "status": "accepted",
+      "status": "needs_rework",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/420.txt",
       "english_mtl_reference": "source/chapters/chapter-418.xhtml",
@@ -5884,7 +5893,10 @@
       "provenance": "editorial/provenance/chapter-0420.json",
       "acceptance": "qa/acceptance/chapter-0420.json",
       "acceptance_sha": "3d4a34fdc971b429b1f7ca0e10b5eea14aa40ce2",
-      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+      "previous_status": "accepted",
+      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "reopened_date": "2026-09-20"
     },
     {
       "chapter": 421,
@@ -7007,5 +7019,93 @@
       "family_qa": "qa/families/side-stories-0496-0500.md"
     }
   ],
-  "project_complete": true
+  "project_complete": false,
+  "historical_accepted_count": 500,
+  "needs_rework_count": 4,
+  "completeness_audit": {
+    "status": "active",
+    "opened": "2026-09-20",
+    "manuscript_files_present": 500,
+    "confirmed_needs_rework": [
+      97,
+      316,
+      319,
+      420
+    ],
+    "priority_review_threshold": "draft_bytes / raw_bytes < 0.60 for ordinary one-target Chinese containers; triage heuristic only, not an automatic failure",
+    "priority_review_chapters": [
+      87,
+      88,
+      89,
+      92,
+      93,
+      94,
+      96,
+      97,
+      98,
+      99,
+      101,
+      102,
+      103,
+      104,
+      192,
+      196,
+      225,
+      228,
+      230,
+      231,
+      242,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      328,
+      333,
+      334,
+      419,
+      420,
+      421,
+      431
+    ],
+    "strong_suspect_chapters": [
+      97,
+      98,
+      99,
+      101,
+      307,
+      309,
+      310,
+      311,
+      312,
+      313,
+      315,
+      316,
+      317,
+      318,
+      319,
+      322,
+      323,
+      324,
+      334,
+      420,
+      421,
+      431
+    ],
+    "evidence_file": "qa/manuscript-completeness-audit.md"
+  }
 }

@@ -1,33 +1,51 @@
 # Chinese Raw Corpus
 
-This directory is the primary source corpus for the 500-chapter reconstruction.
+This directory is the primary semantic source corpus for the 500-target reconstruction.
 
 ## Coverage audit
 
 - Target chapters: **1–500**
 - Physical `.txt` files: **492**
-- Target chapters covered by Chinese text: **499**
-- Confirmed missing raw: **Chapter 55**
-- Combined two-chapter containers: **7**
+- Target chapters with at least partial Chinese text: **500**
+- Standalone `055.txt`: **absent**
+- Chapter 55 status: **partial overlap inside `054.txt`, not English-only**
+- Multi-target/overlap physical containers currently documented: **8**
 
-`055.txt` is absent. The surrounding files are normal Chapter 54 and Chapter 56 sources, so Chapter 55 is treated as genuinely missing and uses the recovered English MTL Chapter 55 as fallback.
+The authoritative exception table is `chapter-exceptions.tsv`.
 
-Combined containers:
+### Chapter 54 / 55 overlap
 
-| File | Covers |
-| --- | --- |
-| `075.txt` | 75 + 76 |
-| `267.txt` | 267 + 268 |
-| `284.txt` | 284 + 285 |
-| `351.txt` | 351 + 352 |
-| `353.txt` | 353 + 354 |
-| `385.txt` | 385 + 386 |
-| `495.txt` | 495 + 496 |
+A later boundary audit superseded the original assumption that Chapter 55 was completely missing.
 
-The combined files were inspected for an explicit second-chapter heading such as `第76话`, `第268话`, etc. No reliable second marker was found. They are therefore intentionally **not physically split**: an arbitrary cut would alter source structure without sufficient evidence.
+Physical `054.txt` contains:
+- target 54 body, with a short target-54 closing exchange missing from Chinese and restored from aligned E54;
+- then most of target 55 appended without a Chapter-55 heading.
 
-The English reconstruction must still emit one translated chapter per target chapter. The boundary is established editorially using source sequence plus verified English title/content alignment, with no gap or overlap.
+For target 55:
+- E55 supplies the missing opening/title boundary;
+- Chinese `054.txt` controls semantics for the overlapping body.
+
+Do not treat Chapter 55 as an MTL-only chapter.
+
+## Multi-target / overlapping containers
+
+| File | Covers | Notes |
+| --- | --- | --- |
+| `054.txt` | 54 + most of 55 | overlap/splice; E54/E55 repair only documented missing boundaries |
+| `075.txt` | 75 + 76 | shared container |
+| `267.txt` | 267 + 268 | shared container with localized gap |
+| `284.txt` | 284 + 285 | shared container with localized gap |
+| `351.txt` | 351 + 352 | shared container |
+| `353.txt` | 353 + 354 | embedded Chapter-354 boundary |
+| `385.txt` | 385 + 386 | embedded Chapter-386 boundary plus localized closing gap |
+| `495.txt` | 495 + 496 | main ending plus Side Story 1 |
+
+Do not physically split a source file merely to make filenames sequential. Use the exact boundary evidence documented in `chapter-exceptions.tsv`, chapter QA, and provenance. Reconstructed English still emits one file per target chapter with no gap or overlap.
+
+## Localized source gaps
+
+Known localized Chinese omissions/splices include targets 49, 54/55, 170, 267, 284, and 385, plus any later entries recorded in `chapter-exceptions.tsv`. Use aligned English only for the explicitly missing material; Chinese remains primary elsewhere.
 
 ## English reference warning
 
-The recovered English MTL has 493 chapters and its numbering diverges from this 500-chapter target. Do not use same-number lookup as a general rule. See `chapter-exceptions.tsv` and `editorial/SOURCES.md`.
+The recovered English MTL has 493 chapters and numbering diverges from the 500-target edition. Do not use same-number lookup as a general rule. Align by title, opening/closing events, entities, and scene sequence. See `chapter-exceptions.tsv` and `editorial/SOURCES.md`.

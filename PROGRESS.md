@@ -1,5 +1,27 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Post-500 manuscript completeness audit opened
+
+**Current tracker state:** 496 accepted / 4 needs rework; 500 / 500 manuscript files exist.
+
+The final reconstruction run did reach all 500 targets and PR #125 was merged. A post-run integrity review then found that several accepted drafts were much shorter than their Chinese raws. Direct source comparison confirmed **Chapters 97, 316, 319, and 420** are summary-compressed: the main plot beats remain, but substantial dialogue, narration, descriptive details, and transitions were dropped.
+
+That finding supersedes the earlier operational claim that reconstruction was fully complete and EPUB-ready.
+
+Audit evidence:
+- `qa/manuscript-completeness-audit.md`
+- 47 ordinary one-target chapters in the initial <0.60 draft/raw byte-ratio priority queue
+- 22 chapters below 0.50 as stronger suspects
+- byte ratio is **triage only**; direct Chinese-source comparison determines pass/fail
+- all other retained acceptances remain provisional until a whole-corpus completeness pass closes the audit
+
+The first review family is **The Illiad (85–89)**, because flagged Chapters 87–89 occur there. Review must remain family-based rather than fixing isolated chapters.
+
+Source-policy correction recovered during the audit: Chapter 55 is **not English-only**. There is no standalone `055.txt`, but most target-55 Chinese text survives appended inside `054.txt`; E55 supplies the missing opening/title boundary.
+
+The project must not proceed to complete-EPUB assembly until the completeness audit is formally closed.
+
+
 ## 2026-09-20 — Reconstruction complete: 500 / 500 accepted
 
 **Current state:** 500 / 500 accepted; 0 staged; no remaining reconstruction target.

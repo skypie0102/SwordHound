@@ -10,7 +10,7 @@
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
     "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "pass"
+    "status": "reopened_for_completeness_audit"
   },
   "primary_source": {
     "path": "source/chinese/chapters/316.txt",
@@ -29,9 +29,19 @@
   "qa": {
     "path": "qa/chapter-0316.md",
     "blob_sha": "c797f5bb7758d83c51e672aa24f4d19bed504423",
-    "status": "pass"
+    "status": "superseded_needs_rework"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
-  "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted": false,
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19"
+  },
+  "current_status": "needs_rework",
+  "reopened_date": "2026-09-20",
+  "completeness_audit": {
+    "status": "confirmed_compressed",
+    "reason": "Direct Chinese/draft comparison confirms extended survivor dialogue, voting discussion, social dynamics, and transitions were collapsed into terse summary fragments.",
+    "evidence": "qa/manuscript-completeness-audit.md"
+  }
 }
