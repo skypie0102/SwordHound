@@ -1,0 +1,38 @@
+{
+  "chapter": 419,
+  "title": "Goodbye, Nouvelle Vague (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Goodbye, Nouvelle Vague",
+    "range": [
+      419,
+      421
+    ],
+    "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/419.txt",
+    "blob_sha": "bee81bcddd981b8c55e41e43325b5f226a30527e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-417.xhtml",
+    "blob_sha": "09dd5376dac357eee75935aec25c58b9b11c6128",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0419.md",
+    "blob_sha": "78241836c47b6a99a335bc681e5debed2ad8d5aa"
+  },
+  "qa": {
+    "path": "qa/chapter-0419.md",
+    "blob_sha": "a22af2ab1ad76df7ac500fffa329fe781d59a6fa",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "source_exception": "Chinese visibly omits the Garam-answer sequence; only localized aligned-E417 details are restored."
+}

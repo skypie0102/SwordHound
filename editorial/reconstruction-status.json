@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 418,
+  "accepted_chapters": 421,
   "staged_chapters": 0,
-  "next_chapter": 419,
+  "next_chapter": 422,
   "latest_accepted_family": {
-    "name": "End game",
-    "range": [
-      409,
-      418
-    ],
-    "family_qa": "qa/families/end-game-0409-0418.md"
-  },
-  "next_title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
       419,
       421
     ],
+    "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+  },
+  "next_title_family": {
+    "name": "How to Become a Wandering Knight",
+    "range": [
+      422,
+      424
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 422,
-    "following_title": "How to Become a Wandering Knight (1)",
-    "alignment_note": "419→E417 through 421→E419; target422→E420 begins How to Become a Wandering Knight (1)."
+    "following_family_starts": 425,
+    "following_title": "Night Walkers (1)",
+    "alignment_note": "422→E420 through 424→E422; target425→E423 begins Night Walkers (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -480,9 +480,19 @@
     415,
     416,
     417,
-    418
+    418,
+    419,
+    420,
+    421
   ],
   "notes": [
+    "Chapters419-421 accepted as Goodbye, Nouvelle Vague (1)-(3), mapping E417-E419.",
+    "C419 source gap restored only for Garam death/final-wish exchange from aligned E417.",
+    "Kirko refuses escape and remains behind as Nouvelle Vague sinks; later fate remains unresolved.",
+    "Orca's deep-sea advantage is overwhelming until Gate of Good and Evil accidentally strikes him.",
+    "Vikir, Marquis de Sade, and Orca ride Gate of Good and Evil upward under Decarabia's Wailing Wall dome.",
+    "Local Basilisk regeneration drift in C421 rejected; Immortality — Gargoyle (S) controls.",
+    "Next family How to Become a Wandering Knight verified targets422-424 / E420-E422; Night Walkers begins target425/E423.",
     "Chapters409-418 accepted as End game (1)-(10), mapping E407-E416.",
     "Aiyen is the unidentified high-level female intake and survived a separate prototype Hell Tree; Bakira remains bound to her after death.",
     "Orca Montreuil-sur-Mer Javert is the source-local Nouvelle Vague Warden form.",

@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Goodbye, Nouvelle Vague (1)–(3) accepted
+
+**Current state:** 421 / 500 accepted; 0 staged; next Chapter 422.
+
+Completed targets **419–421** with mapping **E417–E419**.
+
+Key decisions: localized E417 restoration fixes C419’s missing Garam answer; Kirko remains behind; Gate of Good and Evil removes Orca from the immediate deep-sea fight and becomes the ascent platform; and local Basilisk-regeneration drift is rejected in favor of accepted Gargoyle continuity.
+
+Family QA: `qa/families/goodbye-nouvelle-vague-0419-0421.md` — **PASS**.
+
+Next verified family: **422–424 — How to Become a Wandering Knight (1)–(3)**, mapping **E420–E422**.
+
 ## 2026-09-20 — End game (1)–(10) accepted
 
 **Current state:** 418 / 500 accepted; 0 staged; next Chapter 419.

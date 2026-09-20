@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 418,
+  "accepted_count": 421,
   "staged_count": 0,
-  "next_chapter": 419,
+  "next_chapter": 422,
   "active_title_family": {
-    "name": "Goodbye, Nouvelle Vague",
+    "name": "How to Become a Wandering Knight",
     "range": [
-      419,
-      421
+      422,
+      424
     ],
-    "boundary_status": "verified complete: target419→E417 through target421→E419",
-    "following_family_starts": 422,
-    "following_title": "How to Become a Wandering Knight (1)",
-    "alignment_note": "419→E417 through 421→E419; target422→E420 begins How to Become a Wandering Knight (1)."
+    "boundary_status": "verified complete: target422→E420 through target424→E422",
+    "following_family_starts": 425,
+    "following_title": "Night Walkers (1)",
+    "alignment_note": "422→E420 through 424→E422; target425→E423 begins Night Walkers (1)."
   },
   "chapters": [
     {
@@ -5867,6 +5867,48 @@
       "acceptance": "qa/acceptance/chapter-0418.json",
       "acceptance_sha": "2e80b708e0179d70257cc0499599d34926192146",
       "family_qa": "qa/families/end-game-0409-0418.md"
+    },
+    {
+      "chapter": 419,
+      "title": "Goodbye, Nouvelle Vague (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/419.txt",
+      "english_mtl_reference": "source/chapters/chapter-417.xhtml",
+      "draft": "manuscript/drafts/chapter-0419.md",
+      "qa": "qa/chapter-0419.md",
+      "provenance": "editorial/provenance/chapter-0419.json",
+      "acceptance": "qa/acceptance/chapter-0419.json",
+      "acceptance_sha": "2ba56c39899806f1bfd8dcf355000d3b0b4c3e92",
+      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+    },
+    {
+      "chapter": 420,
+      "title": "Goodbye, Nouvelle Vague (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/420.txt",
+      "english_mtl_reference": "source/chapters/chapter-418.xhtml",
+      "draft": "manuscript/drafts/chapter-0420.md",
+      "qa": "qa/chapter-0420.md",
+      "provenance": "editorial/provenance/chapter-0420.json",
+      "acceptance": "qa/acceptance/chapter-0420.json",
+      "acceptance_sha": "3d4a34fdc971b429b1f7ca0e10b5eea14aa40ce2",
+      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+    },
+    {
+      "chapter": 421,
+      "title": "Goodbye, Nouvelle Vague (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/421.txt",
+      "english_mtl_reference": "source/chapters/chapter-419.xhtml",
+      "draft": "manuscript/drafts/chapter-0421.md",
+      "qa": "qa/chapter-0421.md",
+      "provenance": "editorial/provenance/chapter-0421.json",
+      "acceptance": "qa/acceptance/chapter-0421.json",
+      "acceptance_sha": "3db157dc8ecac38bf46e1beaf3700d4c981c2e34",
+      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
     }
   ]
 }
