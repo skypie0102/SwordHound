@@ -1,0 +1,33 @@
+{
+  "chapter": 496,
+  "title": "Side Story 1",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Side Stories",
+    "range": [
+      496,
+      500
+    ],
+    "family_qa_path": "qa/families/side-stories-0496-0500.md",
+    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/495.txt",
+    "primary_source_sha": "964ab99fc6c8c626c63a366747e7824b7dfaa95d",
+    "english_reference_path": "source/chapters/chapter-493.xhtml",
+    "english_reference_sha": "523f54d41e88ce5790cd4c67a1f607292861cef2",
+    "draft_path": "manuscript/drafts/chapter-0496.md",
+    "draft_sha": "7e02a98e311e7db93fd593f6926602690af6c3c8",
+    "qa_path": "qa/chapter-0496.md",
+    "qa_sha": "cdfa47ce2f7c776a9f49c9f2a3cb9fa1b296b8c9",
+    "provenance_path": "editorial/provenance/chapter-0496.json",
+    "provenance_sha": "bf404f201d769144150f30ef3d17ba42f6e82137"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; established project terminology controls recurring forms."
+  ],
+  "source_exception": "Target496 begins at the Dark Hall 666th-floor Camus scene inside shared raw 495.txt; E493 embeds the aligned Side Story Chapter 1 section."
+}
