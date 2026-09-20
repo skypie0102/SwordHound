@@ -1,0 +1,37 @@
+{
+  "chapter": 423,
+  "title": "How to Become a Wandering Knight (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "How to Become a Wandering Knight",
+    "range": [
+      422,
+      424
+    ],
+    "family_qa_path": "qa/families/wandering-knight-0422-0424.md",
+    "family_qa_sha": "fbb3ffbc45a63d0ccc9c93fe77f5263b65cbe608",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/423.txt",
+    "blob_sha": "74004d2a3e8fa8a1dd197b9196f91ea58261bf6e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-421.xhtml",
+    "blob_sha": "b06155269fd4a604929e59736f8066e11cc4a047",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0423.md",
+    "blob_sha": "eef5bcafee31a92f16335d32fa5ce8c6f3d5611d"
+  },
+  "qa": {
+    "path": "qa/chapter-0423.md",
+    "blob_sha": "69ebd2b558f78e2ca26721e620b04c6697cd079b",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
