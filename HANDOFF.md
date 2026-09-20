@@ -1,51 +1,73 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-20  
-**Phase:** POST-500 MANUSCRIPT COMPLETENESS AUDIT — **COMPLETE**  
-**Manuscript files present:** 500 / 500  
-**Current tracker state:** 500 accepted / 0 needs rework  
-**Unresolved completeness failures:** none  
-**Resolved completeness failures:** 59, 97, 316, 319, 420  
-**Initial priority queue:** 47 / 47 resolved  
-**Strong-suspect queue:** 22 / 22 resolved  
-**Whole-corpus residual pass:** COMPLETE  
-**Next phase:** complete-EPUB assembly and final packaging/layout QA
+**Checkpoint:** 2026-09-21  
+**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
+**Target manuscript files present:** 500 / 500  
+**Historical accepted state entering Cycle 2:** 500 / 500  
+**Cycle-2 sanitization revalidated:** 0 / 500  
+**Cycle-2 completeness revalidated:** 0 / 500  
+**Cycle-2 boundary/alignment revalidated:** 0 / 500  
+**Confirmed Cycle-2 failures:** none yet; audit has not begun substantive chapter review  
+**Current audit stage:** Phase 0 — baseline freeze and audit inventory  
+**EPUB assembly:** BLOCKED until Cycle 2 closes  
+**Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
+**Working branch:** audit/full-sanitization-completeness-pass  
+**PR:** not yet opened
 
-## Final audit closure
+## Why the project focus changed
 
-The final initial-priority family, **The Lion King (430–433)**, was rebuilt in full and passed. All four historical drafts were materially compressed, not only target 431.
+The prior post-500 completeness audit closed successfully on 2026-09-20 and remains valid historical evidence. It repaired confirmed compression failures, cleared the priority/strong-suspect queues, and ran a residual low-tail pass.
 
-Restored material includes the coastal anomaly and civilian fear, Donquixote infiltration, demonized guards, Cervantes's self-sacrifice, advanced Red Death / Leviathan toxin continuity, Gungnir succession, Chimeries's replacement-body plan and recklessness authority, Amdusias remnant mechanics, the Hell-Tree mental trap, Vikir's inner-world landscape, and the inner-world-only Vikir endpoint.
+That closure did **not** constitute a fresh chapter-by-chapter sanitization audit plus direct full-source completeness revalidation of every one of the 500 targets. The project is therefore opening a new Cycle-2 audit before EPUB assembly.
 
-Family evidence: `qa/families/lion-king-0430-0433.md`.
+Cycle 2 treats the previous 500 acceptances as historical evidence, not automatic proof that a chapter passes the new gates.
 
-## Whole-corpus residual pass
+## Immediate audit goals
 
-After the original priority queue was cleared, the audit ran a fresh corpus-wide low-tail check rather than assuming all chapters above 0.60 were safe.
+Cycle 2 has two independent primary gates:
 
-- Ordinary one-target raw/draft pairs compared: **484**
-- Post-rebuild median draft/raw byte ratio: **~0.904**
-- Unresolved chapters below the original 0.60 trigger: **0**
-- Expanded low-tail review: **28 chapters across 15 title families** below 0.70
-- New residual failure found: **Chapter 59 — The Hunter and the Hunted (5)**
-- Chapter 59 result: **rebuilt / QA PASS / provenance + acceptance rebound**
-- Remaining residual families: **revalidated PASS**
-- Final tracker: **500 accepted / 0 needs rework**
+1. **Sanitization fidelity** — verify that source violence, gore, profanity, anatomical language, degradation, coercion, sexual material, bodily detail, horror, cruelty, death, and other harsh material has not been softened, euphemized, generalized, omitted, or inappropriately intensified.
+2. **Full completeness** — directly verify complete Chinese-source coverage for every target chapter, including dialogue, narration, description, transitions, internal thought, information windows, numbers/mechanics, scene order, and chapter endings.
 
-The residual pass is documented in `qa/manuscript-completeness-audit.md`.
+Boundary/alignment integrity is a third structural gate across families, combined raws, overlap containers, source gaps, shifted English mappings, and Side Stories.
 
-## Chapter 59 residual repair
+## Cycle-2 phase order
 
-Chapter 59 sat above the original cutoff at a historical draft/raw ratio of about **0.625**, but direct C059 comparison showed compressed ordinary source material in the tracking and Cold Valley sequences.
+- **Phase 0:** baseline freeze and complete audit inventory
+- **Phase 1:** full-corpus sanitization fidelity sweep, Chapters 1–500
+- **Phase 2:** true full-corpus completeness pass, Chapters 1–500
+- **Phase 3:** corpus boundary/alignment/exception integrity pass
+- **Phase 4:** remediation and evidence rebinding
+- **Phase 5:** independent residual verification and consistency sweep
+- **Phase 6:** closure, hash validation, and EPUB-release unblock
 
-The rebuild restores tracking cues, scented-bait logic, mosquito categories, Cold Valley terrain/shelter detail, Age-of-Destruction memory context, feeding setup, Bakira exchange, and the Oxbear counterattack transition. Safety-limited underage sexualized body-contact detail remains summarized nonsexually.
+Full criteria and exit gates are in qa/manuscript-sanitization-completeness-cycle2.md.
 
-The complete Hunter-and-Hunted family evidence chain for Chapters 55–60 has been rebound to the new family QA hash.
+## Governing execution rules
 
-## Operational state
+- Review every target chapter; do not use byte ratio or prior PASS state to skip chapters.
+- Process in contiguous title-family order.
+- Chinese remains semantic authority; Fandom remains canonical English terminology authority.
+- Keep sanitization and completeness as separate recorded dispositions.
+- Ratios/lexical diagnostics are safety nets only.
+- If a chapter fails either gate, review the complete title family before accepting repairs.
+- Any manuscript correction requires refreshed QA/provenance/acceptance evidence and affected family hash rebinding.
+- Safety-limited material must be documented explicitly and must never conceal unrelated ordinary omissions.
+- Do not begin complete-EPUB assembly while Cycle 2 is active.
 
-The manuscript completeness audit is closed. Do not reopen a chapter solely because of byte ratio; the ratio remains a triage signal only.
+## Prior audit closure retained as historical evidence
 
-Complete-EPUB assembly is now unblocked. The next work should use the accepted 500-chapter manuscript set and preserve the established EPUB formatting decisions in `editorial/Recovered-Editorial-Decisions.md`.
+The 2026-09-20 audit closed with 500 accepted / 0 known rework after resolving Chapters 59, 97, 316, 319, and 420 and rebuilding multiple compressed families. Its authoritative record remains qa/manuscript-completeness-audit.md.
 
-Before any future editorial changes, continue to follow `AGENTS.md`, source authority rules, title-family boundaries, reveal chronology, and acceptance/provenance rebinding requirements.
+Do not delete or rewrite that historical record to make Cycle 2 look like a continuation of the same queue.
+
+## Exact next actions
+
+1. Snapshot the Cycle-2 opening baseline from main and current acceptance/provenance bindings.
+2. Build the fresh 500-chapter Cycle-2 ledger and enumerate all contiguous title families and source exceptions.
+3. Record baseline diagnostics for all valid raw/draft pairs and structural signals.
+4. Complete Phase 0 reconciliation against source/chinese/chapter-exceptions.tsv.
+5. Begin Phase 1 with the first family, **Hellhound (1–3)**.
+6. Continue in chronological title-family order and keep this handoff plus live state files synchronized after meaningful checkpoints.
+
+The next agent should not resume EPUB packaging. The audit is the immediate project focus until Phase 6 closes.
