@@ -1,7 +1,7 @@
 {
   "chapter": 314,
   "title": "Surplus Man (1)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "pass"
+    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/314.txt",
@@ -24,15 +24,30 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0314.md",
-    "blob_sha": "edf136ed0c8abcb1678667b0dacaebf6084fdd4f"
+    "blob_sha": "bac2d559329f0e3d8d76858ff662a354e168b1e1"
   },
   "qa": {
     "path": "qa/chapter-0314.md",
-    "blob_sha": "160b9544e84b91bba63779b8cd9ff8f7d7774749",
-    "status": "pass"
+    "blob_sha": "fd01c40fa6b0915303aaa89f32b735be8111cea7",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "boundary_correction": "Surplus Man is targets314-320 / E312-E318; previous 314-315 handoff boundary was incomplete."
+  "accepted_date": "2026-09-20",
+  "boundary_correction": "Surplus Man is targets314-320 / E312-E318; previous 314-315 handoff boundary was incomplete.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "previous_current_status": "pass",
+    "draft_sha": "edf136ed0c8abcb1678667b0dacaebf6084fdd4f",
+    "qa_sha": "160b9544e84b91bba63779b8cd9ff8f7d7774749"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/surplus-man-0314-0320.md",
+    "initial_priority_target": true,
+    "confirmed_failure_resolved": false
+  }
 }
