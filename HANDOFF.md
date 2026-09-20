@@ -45,7 +45,7 @@ All other retained acceptances remain provisional until the corpus-wide complete
 ## Branch / PR state
 
 - Working branch: `audit/illiad-85-89-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #127, **Rebuild The Illiad Chapters 85–89 for completeness**: OPEN.
 - Prior corrective PR #126: merged.
 
 ## Files updated this batch
