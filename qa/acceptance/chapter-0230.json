@@ -2,8 +2,8 @@
   "chapter": 230,
   "title": "Tuition (6)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/230.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-228.xhtml",
     "english_reference_sha": "f34b4f8785d27d42766c0c59061f2425889bed85",
     "draft_path": "manuscript/drafts/chapter-0230.md",
-    "draft_sha": "8d73df91ed6cfbaffac317e851d5a0ec434eca3b",
+    "draft_sha": "d5f9fbea1d835aceefaea5d411d2052e4b0281c4",
     "qa_path": "qa/chapter-0230.md",
-    "qa_sha": "11672548c6eb255bcd1e09e7d1d4d64214b678cd",
+    "qa_sha": "71295fdd0bf0069f0e22a066fee7ad638cb772cd",
     "provenance_path": "editorial/provenance/chapter-0230.json",
-    "provenance_sha": "c949ac5e98ceca4ccd2d7dac999e98446d4c97f9"
+    "provenance_sha": "baf0d794d77d827b149c706d13137767db3b5a81"
   },
   "canonical_checks": [
     "Baby Madam",
@@ -38,5 +38,18 @@
     "Bank-cache attribution remains Vikir inference.",
     "Poison Gnoll is Danger Rating A."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "8d73df91ed6cfbaffac317e851d5a0ec434eca3b",
+    "qa_sha": "11672548c6eb255bcd1e09e7d1d4d64214b678cd",
+    "provenance_sha": "c949ac5e98ceca4ccd2d7dac999e98446d4c97f9"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }
