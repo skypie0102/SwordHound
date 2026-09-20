@@ -2,9 +2,9 @@
   "checkpoint_date": "2026-09-20",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 497,
+  "accepted_chapters": 499,
   "staged_chapters": 0,
-  "next_chapter": 314,
+  "next_chapter": 321,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "Surplus Man",
+    "name": "Underdogma",
     "range": [
-      314,
-      320
+      321,
+      325
     ],
-    "reason": "next priority-containing family; all seven targets314-320 remain in initial priority queue and targets316/319 are confirmed failures"
+    "reason": "next priority-containing family; all five targets321-325 remain in the initial priority queue"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -375,8 +375,10 @@
     313,
     314,
     315,
+    316,
     317,
     318,
+    319,
     320,
     321,
     322,
@@ -559,6 +561,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: Surplus Man targets314-320 all rebuilt/pass. Confirmed failures316 and319 resolved; accepted count now 499/500, sole confirmed needs-rework chapter420, and 12 initial-priority chapters remain. Next: Underdogma 321-325.",
     "Completeness audit: Hell Tree targets307-313 all rebuilt/pass. Seven initial-priority targets resolved; 19 remain. Next: Surplus Man 314-320, including confirmed failures316/319.",
     "Completeness audit: National University League targets236-244 all rebuilt/pass. Priority target242 resolved; 26 initial-priority chapters remain.",
     "Completeness audit: Tuition targets225-233 all rebuilt/pass. Priority targets225,228,230,231 resolved; 27 initial-priority chapters remain.",
@@ -1017,8 +1020,6 @@
   "manuscript_files_present": 500,
   "historical_accepted_chapters": 500,
   "needs_rework_chapters": [
-    316,
-    319,
     420
   ],
   "current_phase": "post_500_manuscript_completeness_audit",
@@ -1028,12 +1029,10 @@
     "priority_review_count": 47,
     "strong_suspect_count": 22,
     "confirmed_needs_rework": [
-      316,
-      319,
       420
     ],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 19,
+    "pending_priority_review_count": 12,
     "completed_families": [
       {
         "name": "The Illiad",
@@ -1106,10 +1105,21 @@
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"
+      },
+      {
+        "name": "Surplus Man",
+        "range": [
+          314,
+          320
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
       }
     ],
     "resolved_confirmed_needs_rework": [
-      97
+      97,
+      316,
+      319
     ]
   },
   "partial_chinese_source_chapters": [
@@ -1123,8 +1133,6 @@
   ],
   "chapter_55_source_mode": "hybrid_overlap_054_plus_missing_opening_from_E55",
   "reopened_needs_rework": [
-    316,
-    319,
     420
   ]
 }
