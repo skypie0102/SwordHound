@@ -2,8 +2,8 @@
   "chapter": 326,
   "title": "The Shadowless King of the Black Sea (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -11,8 +11,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
-    "status": "pass"
+    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/326.txt",
@@ -20,14 +20,28 @@
     "english_reference_path": "source/chapters/chapter-324.xhtml",
     "english_reference_sha": "14355b10ef022a68beed426b1dd4e4020a7d50cd",
     "draft_path": "manuscript/drafts/chapter-0326.md",
-    "draft_sha": "7f2490916cb6cb92d54b88f76d4a2cfe15a28fe8",
+    "draft_sha": "29883c38bad8c616412acc11e3e9e579b96f4731",
     "qa_path": "qa/chapter-0326.md",
-    "qa_sha": "71713e70982ceb6bb9f034302dd321c23abe2036",
+    "qa_sha": "3324bf27a3fa9e691a913c5705d53ac61d40f8d2",
     "provenance_path": "editorial/provenance/chapter-0326.json",
-    "provenance_sha": "a575a914431922ef943c645e583c4ee20650a4cf"
+    "provenance_sha": "9cf496f640f63850aa877efc34a793f7e67c26db"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Draw material from target331 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "7f2490916cb6cb92d54b88f76d4a2cfe15a28fe8",
+    "qa_sha": "71713e70982ceb6bb9f034302dd321c23abe2036",
+    "provenance_sha": "a575a914431922ef943c645e583c4ee20650a4cf"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "initial_priority_target": false
+  }
 }

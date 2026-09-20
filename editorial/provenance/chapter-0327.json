@@ -1,7 +1,7 @@
 {
   "chapter": 327,
   "title": "The Shadowless King of the Black Sea (2)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -9,8 +9,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
-    "status": "pass"
+    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/327.txt",
@@ -24,14 +24,27 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0327.md",
-    "blob_sha": "9862c2f236ce054c59c5169d475ae5550388eed6"
+    "blob_sha": "59fdedcde187e168674c01629eef24b8efa59a3e"
   },
   "qa": {
     "path": "qa/chapter-0327.md",
-    "blob_sha": "2b395e01ffab602d1fd1e6848a4eae5016233c88",
-    "status": "pass"
+    "blob_sha": "20eb4a358128420456e52beac4e52c1b6c8d90e5",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "9862c2f236ce054c59c5169d475ae5550388eed6",
+    "qa_sha": "2b395e01ffab602d1fd1e6848a4eae5016233c88"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "initial_priority_target": false
+  }
 }

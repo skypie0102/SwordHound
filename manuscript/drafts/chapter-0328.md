@@ -1,262 +1,349 @@
 # Chapter 328: The Shadowless King of the Black Sea (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/328.txt`. Recovered English Chapter 326 is the verified shifted secondary witness. Existing repo terminology controls Vikir, Decarabia, Amdusias, Madam Eight-Legs, Daylily of Blood Tree, Beelzebub, Starvation Drought, and the accepted Beelzebub slot continuity. Local witness/source drift that reassigns Slot 2 to Basilisk does not override accepted **Immortality — Gargoyle (S)**.
+> Chinese-primary reconstruction from `source/chinese/chapters/328.txt`. Recovered English Chapter 326 is the verified shifted secondary witness. Project continuity controls **Beelzebub** slots as **Venom — Madam Eight-Legs (S)**, **Immortality — Gargoyle (S)**, and **Starvation Drought — Daylily of Blood Tree (S)**; local Basilisk drift is rejected. The Shadowless King is an independent primordial creature, not an Amdusias-controlled familiar.
 
 Before diving—
 
-the Beetlemen had finally explained why their ship had sunk.
+the Beetlemen had finally told Vikir the truth.
 
-[We met a monster.]
+[We encountered a monster.]
 
-Vikir had answered dryly:
+Vikir's answer had been dry.
 
-“You’re monsters too.”
+“You are monsters.”
 
-[That thing was different.]
+[That one is different.]
 
-[It was an ancient creature dragged here long ago.]
+[It was here before us.]
 
-[As long as it remains in the deep sea—
+[An ancient inhabitant.]
+
+[As long as it remains in the depths—
 
 no ship can cross the Black Sea.]
 
+So the storm wall was not the only reason the Beetlemen had remained trapped for so long.
+
 Now—
 
-Vikir saw the truth.
+Vikir saw the other reason.
 
-The darkness in front of him swelled.
+Hissssss—
 
-Not a shadow.
+The enormous darkness in front of him swelled.
 
-A translucent body—
+At first—
 
-so vast that the deep sea itself seemed to move.
+it looked like part of the abyss had broken loose and begun drifting.
 
-A hemispherical mass.
+Then the shape resolved.
+
+Translucent tissue.
+
+A hemispherical bell so large its boundary was difficult to judge.
 
 Countless tentacles hanging beneath.
 
-Its form absorbed the surrounding darkness until the creature seemed like a hole cut into the abyss.
+The creature's body absorbed so much of the surrounding darkness that it looked like a moving hole in the sea.
 
-**<Shadowless King of the Black Sea>**
+> **<Shadowless King of the Black Sea>**
+>
+> **Danger Rating:** **S**  
+> **Size:** ?  
+> **Discovery Location:** Polar Hell — Five Oceans, Black Sea, ultra-deep **Great Heart Sea**
+>
+> **Alias:** *Shadowless King of the Black Sea*
+>
+> A gigantic jellyfish-like creature inhabiting the Black Sea, one of the Five Oceans.  
+> A primordial monster dwelling in depths avoided even by high-ranking demons.  
+> Its origin, destination, purpose, and full ecology remain unknown.
 
-**Danger Rating:** S  
-**Size:** ?  
-**Discovery Location:** Polar Hell — Five Oceans, Black Sea, ultra-deep Great Heart Sea  
-**Alias:** ‘Shadowless King of the Black Sea’
+The pressure it emitted—
 
-A gigantic jellyfish inhabiting one of the Five Oceans.
-
-A primordial monster from depths even high-ranking demons avoid.
-
-Its origin—
-
-destination—
-
-and ecology—
-
-unknown.
-
-The pressure it emitted reminded Vikir of Madam Eight-Legs.
+reminded Vikir of **Madam Eight-Legs**.
 
 *Same class of threat.*
 
-*And Amdusias probably cannot control this one.*
+Vikir considered Amdusias.
 
-The Daylily on the previous floor had been weakened by starvation.
+The Daylily of Blood Tree on Floor 3 had been starving for a long time.
 
-Amdusias also possessed strong compatibility with plant life.
+And Amdusias had natural compatibility with plant life.
 
-This thing was different.
+That made manipulation plausible.
 
-It had lived here independently.
+This—
 
-Old.
+was different.
 
-Powerful.
+An S-rank primordial predator.
 
-Uncontrolled.
+Even with low intelligence—
 
-That also meant—
+too powerful to be casually controlled by Amdusias.
 
-killing it might not even count toward the normal floor reward.
+Meaning—
+
+the Shadowless King was not a summoned familiar.
+
+It was a resident.
+
+An older life-form trapped or living here independently.
+
+*Then killing it may not even count for the floor's normal reward.*
+
+A faint itch touched Vikir's cheek.
+
+He leaned back on instinct.
+
+WHOOSH.
+
+A nearly transparent tentacle passed in front of his eyes.
+
+SMACK.
+
+It adhered to a rock.
 
 Then—
 
-a faint itch touched Vikir’s cheek.
-
-He leaned back.
-
-A translucent tentacle passed where his face had been.
-
 CRACK!
 
-The limb stuck to a boulder—
+The stone exploded under raw force.
 
-then crushed it.
-
-*Getting caught would be bad.*
+*Bad if that catches me.*
 
 Vikir drew Beelzebub.
 
 SWISH.
 
-Several invisible shapes resisted the blade.
+He cut through open water.
 
-Three tentacles dropped.
+Resistance struck the blade in several places.
 
-They were almost impossible to see.
+Three tentacles separated.
+
+Slowly descended.
+
+Almost invisible.
 
 Then—
 
-the severed ends moved.
+the severed ends twitched.
 
-New tentacles sprouted.
+Bubble.
+
+Bubble.
+
+New tentacles began growing.
 
 *Regeneration.*
 
-Vikir cut another.
+Vikir waited.
+
+Another translucent limb approached from behind.
+
+SLASH.
+
+He cut again.
 
 This time—
 
-he pushed **Starvation Drought** through Beelzebub.
+he fed **Starvation Drought** through Beelzebub.
 
-The severed end shriveled.
-
-Dried.
-
-Curled.
-
-No regeneration.
-
-Vikir looked at the weapon.
-
-**<Gluttonous Fly — Beelzebub>**
-
-- Slot 1: Venom — Madam Eight-Legs (S)
-- Slot 2: Immortality — Gargoyle (S)
-- Slot 3: Starvation Drought — Daylily of Blood Tree (S)
-
-The third ability stripped moisture.
-
-Against a jellyfish—
-
-that was devastating.
-
-Every contact dried the translucent flesh.
-
-The Shadowless King stopped trying to close in directly.
+The severed stump did not regrow.
 
 Instead—
 
-its tentacles churned the sea.
+it shriveled.
 
-A whirlpool formed.
+Dried.
 
-The Black Sea—
+Curled inward like scorched tissue.
 
-already heavy—
+Vikir tapped the weapon.
 
-became a rotating blade.
+*Still useful.*
 
-SLASH!
+> **<Gluttonous Fly — Beelzebub>**
+>
+> **Slot 1:** Venom — Madam Eight-Legs (S)  
+> **Slot 2:** Immortality — Gargoyle (S)  
+> **Slot 3:** Starvation Drought — Daylily of Blood Tree (S)
 
-Vikir’s skin split.
+The third ability—
+
+taken from the Daylily—
+
+stripped moisture.
+
+Against a jellyfish-like creature—
+
+the effect was especially severe.
+
+Every passage of the blade dehydrated tissue.
+
+Regeneration failed.
+
+The Shadowless King stopped approaching directly.
+
+Its tentacles began moving differently.
+
+Wide.
+
+Powerful.
+
+Churning.
+
+Water jets erupted.
+
+Whirlpools formed.
+
+The already-heavy Black Sea rotated with enough force to become a field of blades.
+
+SLASH.
+
+Vikir's skin opened.
 
 Again.
 
 Again.
 
-His body was cut as though by hundreds of knives.
+Again.
 
-Immortality restored most of the damage.
+His body looked as though hundreds of knives were passing over it.
 
-His blood spilled into the sea.
+**Immortality — Gargoyle (S)** repaired much of the damage as it happened.
 
-Blackened.
+Blood still escaped.
 
-Spread.
+Black.
 
-And carried Madam Eight-Legs’s venom with it.
+Poisonous.
 
-Even the Shadowless King recoiled.
+The current carried it around the Shadowless King's tentacles.
 
-Vikir called up Decarabia’s barrier.
+The blood contained **Madam Eight-Legs venom**.
 
-Used it like a board.
+Even the S-rank monster recoiled.
 
-Then rode the current.
+Vikir used Decarabia's barrier as a board.
 
-Straight toward the sunken ship.
+A rigid surface beneath his body.
+
+Then rode the violent current.
+
+Toward the sunken ship.
 
 [Human!]
 
-[You cannot beat that thing like this!]
+Decarabia sounded genuinely alarmed.
+
+[You cannot win against that jellyfish in this state!]
 
 “I know.”
 
-[Then why are you going toward the ship?!]
+[Then run!]
 
-[You cannot even raise it!]
+[Why are you moving toward the ship?]
 
-Ship in front.
+[You cannot raise it either!]
+
+A ghost ship in front.
 
 S-rank predator behind.
 
-Neither could be handled by raw strength alone.
+At Level 1—
 
-Vikir remained calm.
+Vikir could not brute-force either problem.
 
-“There’s still time.”
+He remained calm.
 
-He pulled out the air-filled oil-paper bag.
+“There is still time.”
 
-Drained the last breath from it.
+He reached into his clothing.
 
-Then crumpled it.
+Pulled out the air-filled oil-paper bag.
 
-And threw it through the hole in the ship’s hull.
+One final breath.
 
-Decarabia sounded increasingly desperate.
+Then—
+
+the bag emptied.
+
+Vikir crumpled it.
+
+And threw it through the hole in the ship's lower hull.
+
+SWISH.
+
+Tentacles approached from every direction.
+
+Decarabia's voice climbed.
 
 [Human!]
 
-[We are surrounded!]
+[We're surrounded!]
 
 “I noticed.”
 
-[Then what are you planning?!]
+[Then what are you doing!?]
 
-The answer came before Vikir spoke.
+[The only escape is to raise the ship!]
+
+[You don't have enough power!]
+
+Vikir did not answer.
 
 RUMBLE.
 
-The ship moved.
+The seabed moved.
 
-Mud and rocks slid from the hull.
+Mud—
 
-The ghost ship—
+rocks—
 
-which should have remained trapped at the bottom of a sea with almost no buoyancy—
+dead coral—
 
-began to rise.
+slid away from the hull.
 
-Decarabia’s single eye widened.
+The ghost ship trembled.
 
-[…How?]
+Then began rising.
 
-Then something bulged through the broken hull.
+Slowly at first.
+
+Then faster.
+
+Toward the surface of a sea that barely allowed anything to float.
+
+Decarabia's single eye widened.
+
+[…What?]
+
+Vikir grabbed the anchor line dangling beneath the vessel.
+
+The ship accelerated upward.
+
+Tentacles that had been closing around him lost their target.
+
+[Why is it rising!?]
+
+The answer appeared before Vikir needed to speak.
+
+Something pushed through the broken hull.
 
 Round.
 
+Pale.
+
 Inflating.
 
-Like balloons.
+Then another.
+
+Then dozens.
 
 Air sacs.
 
-The seeds Vikir had stored earlier—
+The seeds Vikir had harvested from the **Daylily of Blood Tree**—
 
-seeds harvested from the **Daylily of Blood Tree**—
-
-had begun to germinate inside the ship.
+were germinating inside the ship.

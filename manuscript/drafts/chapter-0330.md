@@ -1,6 +1,6 @@
 # Chapter 330: The Shadowless King of the Black Sea (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/330.txt`. Recovered English Chapter 328 is the verified shifted secondary witness. Established repo terminology controls Highbro / Middlebro / Lowbro Le Baskerville, Baby Madam, Black Sea, Daylily of Blood Tree, Dogma / Underdogma, Sword Master, and Vikir’s tower achievement/reward system. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/330.txt`. Recovered English Chapter 328 is the verified shifted secondary witness. Established project terminology controls **Highbro / Middlebro / Lowbro Le Baskerville**, **Baby Madam**, **Black Sea**, **Daylily of Blood Tree**, **Sword Master**, **Bianca Fo Usher**, **Fire of Inferiority — Blaze**, and Vikir's Hell Tree achievement system.
 
 The Baskerville Trident stood on the shore.
 
@@ -10,213 +10,281 @@ Middlebro.
 
 Lowbro.
 
-All three—
+Baby Madam squirmed in their arms—
 
-staring.
+trying to reach Vikir.
 
-Baby Madam wriggled in their arms.
+The brothers could only stare toward the sea.
 
-Looking for Vikir.
+“Master's Level…”
 
-“Master’s level…”
+Highbro swallowed.
 
-“Still Level 1?”
+“Still one?”
 
-“Yes.”
+Middlebro nodded.
 
-“He’s a hundred times weaker than outside.”
+“One.”
 
-“…And he can still fight like that?”
+Lowbro added—
 
-Vikir moved across the ghost ship—
+“So he is still roughly one hundred times weaker than outside.”
 
-the jellyfish—
+Silence.
 
-and sometimes even the surface of the sea itself.
+Then—
 
-Too fast.
+“…And he can fight like **that**?”
 
-Too precise.
+Vikir moved over—
 
-Like a creature born only for combat.
+the ghost ship.
 
-The aura he used inside the tower was limited.
+the Shadowless King's body.
 
-Yet even then—
+sometimes even the water itself.
 
-his movements looked at least like those of a Mid Sword Graduator.
+Footwork so fast it looked like he was stepping on the sea.
+
+His aura concentration—
+
+even while throttled by the tower—
+
+looked at least beyond ordinary student territory.
 
 His swordsmanship—
 
 unmistakably Baskerville—
 
-was harder to measure.
+could not be measured so easily.
 
-Anyone unfamiliar with Vikir would have been confused.
+To anyone who did not know Vikir—
 
-Why did he look stronger—
+the sight would be incomprehensible.
 
-even after the tower had weakened him?
+How could someone weakened by a factor of one hundred—
 
-The triplets knew better.
+look **stronger** than he had at school?
 
-Vikir had been like this years ago.
+The triplets knew the answer.
 
-*I’ll hold it off.*
+Vikir had always hidden himself.
+
+Their memory returned four years.
+
+A nightmare in the mountain waters.
+
+Madam Eight-Legs.
+
+And one younger half-brother standing alone.
+
+*I'll buy time.*
 
 *You go.*
 
-The moment he had stayed behind alone against Madam Eight-Legs.
+The aura at the tip of his sword—
 
-That sun-like aura.
+bright as a miniature sun.
 
-That single sight—
+That moment had changed all three brothers.
 
-had changed the triplets.
-
-Their values.
+Their thoughts.
 
 Their behavior.
 
-Their future.
+Their lives.
 
 From that night—
 
-they became Vikir’s Trident.
+they had become a Trident.
+
+A weapon that moved according to Vikir's will.
 
 Highbro spoke with certainty.
 
-“Master has become a Sword Master.”
+“Master is a Sword Master.”
+
+Middlebro repeated—
 
 “A Sword Master.”
 
+Lowbro—
+
 “A Sword Master.”
 
-Sword Master.
+An official Sword Master.
 
-Fewer than ten officially recognized in the Empire.
+One of fewer than a handful publicly acknowledged across the Empire.
 
 Inside Baskerville—
 
 Hugo Le Baskerville.
 
-Cane Corso.
+Cane Corso—
 
-And perhaps Osiris—
+long vanished from normal society.
 
-whose future realm was still uncertain to outsiders.
+Osiris—
 
-If Vikir’s true level became public—
+often said to be approaching the realm, though outsiders did not know where he truly stood.
 
-the Empire would shake.
+And Vikir—
 
-He was not even twenty.
+not even twenty.
 
-The triplets finally turned toward the Commoner Faction students.
+If the Empire learned that—
 
-They huddled together.
+the consequences would be enormous.
 
-Terrified.
+The triplets' eyes moved away from the sea.
 
-Their stats were poor.
+Toward the Commoner Faction students.
 
-They had fed too many candies into Dogma.
+Those students huddled together.
 
-Then surrendered the rest to Vikir.
+Their stats—
 
-Highbro stared at them.
+poor.
 
-“…We’ll talk later.”
+Most of their candy had been given to Dogma.
 
-The students shook.
+Then whatever remained—
 
-They remembered how they had treated the triplets.
+taken by the triplets and handed to Vikir.
 
-Collars.
+Highbro said quietly—
 
-Chains.
+“…We'll talk later.”
 
-Humiliation.
+The commoners began trembling.
 
-They expected revenge.
+They remembered—
 
-*Even if Vikir wins—*
+chains.
 
-*we’re finished.*
+collars.
 
-*If he loses—*
+spit.
 
-*we’re still finished.*
+kicks.
 
-Then they remembered something Vikir had said earlier.
+humiliation.
 
-If someone had elderly parents.
+Everything they had done to the three Baskervilles.
 
-A spouse.
+And now—
 
-Someone waiting.
+the balance had reversed again.
 
-Some human reason not to die here—
+Their problem was simple.
 
-step aside.
+If Vikir lost—
 
-He had at least shown mercy.
+the Shadowless King could still kill everyone.
 
-*Then our only chance is to beg Vikir.*
+If Vikir won—
 
-*The triplets will never forgive us.*
+the triplets survived to take revenge.
 
-*Even if they leave us alive—
+Either result looked terrible.
 
-they’ll cripple us.*
+Then—
 
-The students made their decision.
+one memory offered a sliver of hope.
+
+Vikir's warning before fighting the Beetlemen.
+
+*If you are the only son of three generations.*
+
+*If elderly parents depend on you.*
+
+*If a lover waits for you.*
+
+*If you are about to marry.*
+
+*If you simply have a human reason not to die here like a dog—*
+
+*step aside.*
+
+At least Vikir had shown mercy.
+
+*Then we beg him.*
+
+*Not the triplets.*
+
+*Vikir.*
+
+*Highbro and the others will never forgive us.*
+
+*If they don't kill us—*
+
+*they'll cripple us.*
+
+The Commoner Faction silently reached the same conclusion.
 
 Then—
 
 BOOOOOOM!
 
-A pillar of flame erupted over the Black Sea.
+A pillar of fire erupted over the Black Sea.
 
-The battle’s ending signal.
+Tall.
 
-And—
+Thick.
 
-a declaration of victory.
+Bright enough to stain the dark water red.
+
+A signal.
+
+The battle was ending.
+
+And someone had won.
 
 ◆◆◆
 
-The Shadowless King was still enormous.
+The Shadowless King—
 
-Still powerful.
+even dragged onto the surface—
 
-Its tentacles churned the sea.
+remained enormous.
+
+Powerful.
+
+Tentacles churned the sea.
 
 It tried to dive.
 
 Could not.
 
-The Daylily air sacs rooted throughout its body dragged upward.
+Daylily air sacs covered its body.
 
-The jellyfish slashed at the stems.
+The buoyancy—
 
-But Daylily growth—
+something it had never experienced in its birth environment—
 
-even newly germinated—
+pulled upward relentlessly.
 
-was tough.
+Tentacles cut at the stems.
 
-The roots had sunk too deep into the soft flesh.
+But the **Daylily of Blood Tree** was itself an S-rank organism.
 
-Removing them meant tearing the body apart.
+Even fresh growth—
 
-Vikir stood atop the bell.
+was not easy to sever.
 
-Each step sank almost to his thighs.
+The roots had also buried themselves deep inside jellyfish tissue.
 
-Still—
+Removing them cleanly was impossible.
 
-he maintained balance.
+Vikir stood on top of the bell.
+
+Every step sank nearly to his thighs.
+
+Soft flesh.
+
+Unstable.
+
+Yet he kept balance.
 
 He grabbed one Daylily stem.
 
@@ -224,238 +292,262 @@ Pulled.
 
 Then another.
 
-Knotted them.
+CREAK.
 
-Field knotting.
+He tied them together.
+
+A field knot.
+
+Simple.
 
 Fast.
 
-Tight.
+Secure.
 
-Reliable.
+Several stems became one cluster.
 
-Soon—
+Then Vikir crossed to another section.
 
-multiple stems were bound together into a thick cluster.
+Pulled another stem.
 
-He crossed to the opposite side.
-
-Pulled more.
-
-Tied them again.
-
-Then again.
-
-The Daylily stems gradually formed a net across the Shadowless King.
-
-“That should hold.”
-
-“If one sac explodes—
-
-the rest won’t be blown away.”
-
-Vikir moved through the tangled stems.
-
-Tentacles lashed toward him.
-
-One caught in the lattice.
+Tied.
 
 Then another.
 
-Their sticky surfaces made escape difficult.
+Again.
 
-From that moment—
+Again.
 
-Vikir stopped cutting the tentacles.
+The Daylily growth gradually formed a lattice across the Shadowless King.
 
-He simply guided them into the growing net.
+Clusters of air sacs—
 
-Eventually—
+bound close together.
 
-most of the nearby limbs were tangled.
+“That should work.”
 
-Vikir reached the edge of the bell.
+“If one explodes—
 
-Grabbed one small air sac.
+the others won't scatter too far.”
 
-Then jumped into the sea.
+Vikir moved through the tangled plant network.
+
+A tentacle lashed toward him.
+
+He ducked under stems.
+
+The limb hit the vine lattice—
+
+and stuck.
+
+The jellyfish's own adhesive tissue worked against it.
+
+Another tentacle came.
+
+Vikir stopped cutting.
+
+Guided it.
+
+Into the vines.
+
+Another.
+
+Another.
+
+Soon—
+
+the monster's own limbs were tangled with the plant growth.
+
+Vikir reached the far edge of the bell.
+
+Grabbed one small detached air sac.
+
+Then jumped.
 
 SPLASH.
 
-He kicked away from the jellyfish.
-
-Hard.
+He kicked away from the Shadowless King.
 
 Distance.
 
-He needed distance.
+As much as possible.
 
-“Pull!”
+“PULL!”
 
 The triplets were ready.
 
-Baby Madam’s silk had already been attached to Vikir’s waist.
+A strand of **Baby Madam's silk** already connected Vikir's waist to shore.
 
-Highbro.
+Highbro pulled.
 
 Middlebro.
 
 Lowbro.
 
-All three pulled.
+“HEAVE!”
+
+“HEAVE!”
+
+“HEAVE!”
 
 Vikir shot across the water.
 
-Away from the Shadowless King.
+Away from the jellyfish.
 
-Then—
+Behind him—
 
-the flame he had left behind reached the final air sac.
+the small flame he had left at the center finally reached one air sac.
 
-Crackle.
+**Fire of Inferiority — Blaze.**
 
-The Fire of Inferiority spread.
+CRACKLE.
 
-The Daylily sacs began to react.
+The flame spread over the membrane.
 
-POP.
+The air sac contracted.
 
-POP.
+Trembled.
 
 Then—
 
 BOOM!
 
-The gas inside ignited.
+The gas inside ignited violently.
 
-The first sac exploded.
+The first explosion pushed surrounding sacs outward.
 
-The others jerked outward from the shock.
+Normally—
 
-But the stems were tied together.
+they would have scattered.
 
-They could not scatter.
+Instead—
 
-The knot pulled them back.
+the field knots caught them.
 
-Toward the jellyfish.
+Stems tightened.
 
-Toward each other.
+Air sacs swung back toward the monster.
 
 Toward the fire.
 
-BOOM!
+Toward each other.
 
 BOOM!
 
 BOOM!
 
-A chain reaction.
+BOOM!
+
+The reaction became a chain.
 
 Gas.
 
-Flame.
+Fire.
 
 Poison.
 
-Explosion after explosion.
+Explosion after explosion rolled across the giant jellyfish.
 
-The Shadowless King burned across the surface of the Black Sea.
+The Black Sea reflected red.
 
-It tried to dive.
+The Shadowless King tried to sink.
 
-The remaining air sacs kept it afloat.
+Remaining air sacs kept it trapped at the surface.
 
-It could only stay exposed—
+It could only burn—
 
-inside the fire.
+exposed beneath the sky.
 
-Vikir sat on a small detached air sac some distance away.
+Vikir sat some distance away—
+
+balanced on a small floating air sac.
 
 Watching.
 
-*These Daylilies grew much larger than the one on Floor3.*
+*These sacs are much larger than the ones on Floor 3.*
 
-The previous Daylily had been dying from drought.
+The earlier Daylily had been dehydrated nearly to death.
 
-Its air sacs had remained underdeveloped.
+Its gas structures never fully developed.
 
-That was why nobody realized they contained dangerous gas.
+They spread almost like leaves.
 
-Vikir knew because—
+No one looking at them would have guessed how dangerous the contents were.
 
-before regression—
+Vikir knew.
 
-he had seen this trick once before.
+Because before regression—
 
-During his time in a monster-specialist unit—
+he had seen the same weakness exploited.
 
-the force had needed to retreat secretly from a demon army.
+The memory came from his time in a monster-specialist unit.
 
-A field of Daylilies blocked the path.
+The force had needed to retreat secretly from a demon army.
 
-The commander had been—
+A field of Daylilies blocked the route.
 
-Bianca.
+Their commander—
 
-The eldest daughter of House Usher.
+**Bianca Fo Usher**.
 
-She fired flaming arrows.
+She had fired powerful flaming arrows into the plants.
 
-Set the plants off.
+Ignited the gas.
 
-Created an escape route.
+Blown open an escape route.
 
-Saved everyone—
+Saved the unit—
 
 including Vikir.
 
 *I owe Bianca one.*
 
-Vikir watched the firestorm.
+Vikir watched the firestorm consume the Shadowless King.
 
 Then—
 
 DING.
 
-A system message appeared.
+A familiar system sound.
 
-[Level 1 Warrior Vikir has successfully hunted an A+ Majin for the first time.]
+[Level 1 Warrior Vikir has successfully hunted the first **A+ Majin**.]
 
-[Awe-Inspiring achievement reward granted.]
+[“Awe-Inspiring” achievement reward granted.]
 
-Then—
+That message recognized Dogma.
 
-another.
+Separately—
 
-[Level 1 Warrior Vikir has successfully hunted the first S-rank monster—
+another notification followed.
 
-Shadowless King of the Black Sea.]
+[Level 1 Warrior Vikir has successfully hunted the first **S-rank monster — Shadowless King of the Black Sea**.]
 
-[Impossible achievement reward granted.]
+[“Impossible” achievement reward granted.]
 
-“…Done.”
+“…Finished.”
 
 Only then—
 
-did Vikir relax.
-
-Then—
+Vikir relaxed.
 
 POP.
 
 The fairy appeared.
 
-A rotting mass of flesh.
+Rotting flesh.
 
-Normally—
+Exposed organs.
 
-it smiled grotesquely.
+The same grotesque smile—
+
+usually.
 
 This time—
 
-it looked almost ready to cry.
+the creature looked almost ready to cry.
 
-[Wh o are you?]
+Its eyes fixed on Vikir.
 
-[Wh y are you do ing th is to me?]
+[Who are you?]
+
+[Why are you doing this to me?]
