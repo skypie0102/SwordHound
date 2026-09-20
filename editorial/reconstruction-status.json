@@ -1,28 +1,28 @@
 {
-  "checkpoint_date": "2026-09-19",
+  "checkpoint_date": "2026-09-20",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 470,
+  "accepted_chapters": 475,
   "staged_chapters": 0,
-  "next_chapter": 471,
+  "next_chapter": 476,
   "latest_accepted_family": {
-    "name": "The Prelude to a Counterattack",
-    "range": [
-      465,
-      470
-    ],
-    "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
-  },
-  "next_title_family": {
     "name": "Tochka Annihilation Battle",
     "range": [
       471,
       475
     ],
-    "boundary_status": "verified contiguous segment",
-    "following_family_starts": 476,
-    "following_title": "Knowing the Fate of My Father (1)",
-    "alignment_note": "471→E469 through 475→E473; 476-477 interrupt with Knowing the Fate of My Father; 478→E476 returns to Tochka Annihilation Battle (6)."
+    "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
+  },
+  "next_title_family": {
+    "name": "Knowing the Fate of My Father",
+    "range": [
+      476,
+      477
+    ],
+    "boundary_status": "verified complete contiguous family",
+    "following_family_starts": 478,
+    "following_title": "Tochka Annihilation Battle (6)",
+    "alignment_note": "476→E474, 477→E475; target478→E476 returns to Tochka Annihilation Battle (6); 479→E477 begins Downtown Naval Warfare (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -532,9 +532,21 @@
     467,
     468,
     469,
-    470
+    470,
+    471,
+    472,
+    473,
+    474,
+    475
   ],
   "notes": [
+    "Chapters471-475 accepted as Tochka Annihilation Battle (1)-(5), mapping E469-E473.",
+    "Tochka's water is exhausted before the final noon battle; southeast wind / eighth blue star remain unexplained timing clues.",
+    "Leviathan grave-robbing is exposed through reanimated ancestors; red Baskerville whistle is military authority only, not Black Whistle.",
+    "Hugo independently demonstrates Baskerville Eighth Form and fights back-to-back with Vikir; their father-son exchange remains unresolved.",
+    "Granola sabotages Ouroboros and is dragged into the boiling vessel; no confirmed death asserted.",
+    "Vikir decapitates Flauros, but Flauros claims killing him opens the Gate of Destruction; claim remains unresolved because he is the Lying Leopard.",
+    "Next family Knowing the Fate of My Father is targets476-477 / E474-E475; target478/E476 returns to Tochka Annihilation Battle (6).",
     "Chapters465-470 accepted as The Prelude to a Counterattack (1)-(6), mapping E463-E468.",
     "Kirko Grimm survives through Vikir/BDISSEM intervention and now carries Asmodeus/Flubber support.",
     "Flauros opens the hidden groundwater only to poison it with Ouroboros; Baby Madam and spider brood neutralize Red Death.",
