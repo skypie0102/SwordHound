@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 433,
+  "accepted_count": 436,
   "staged_count": 0,
-  "next_chapter": 434,
+  "next_chapter": 437,
   "active_title_family": {
-    "name": "The Returned Hound",
+    "name": "Dreaming the Impossible Dream",
     "range": [
-      434,
-      436
+      437,
+      440
     ],
-    "boundary_status": "verified complete: target434→E432 through target436→E434",
-    "following_family_starts": 437,
-    "following_title": "Dreaming the Impossible Dream (1)",
-    "alignment_note": "434→E432 The Returned Hound (1) through 436→E434 The Returned Hound (3); 437→E435 begins Dreaming the Impossible Dream (1)."
+    "boundary_status": "verified complete: target437→E435 through target440→E438",
+    "following_family_starts": 441,
+    "following_title": "The Fall of Usher (1)",
+    "alignment_note": "437→E435 through 440→E438; 441→E439 begins The Fall of Usher (1), continuing through target442→E440."
   },
   "chapters": [
     {
@@ -6077,6 +6077,48 @@
       "acceptance": "qa/acceptance/chapter-0433.json",
       "acceptance_sha": "d58909664d3fa12d4031ef3b3e61c685091b38c9",
       "family_qa": "qa/families/lion-king-0430-0433.md"
+    },
+    {
+      "chapter": 434,
+      "title": "The Returned Hound (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/434.txt",
+      "english_mtl_reference": "source/chapters/chapter-432.xhtml",
+      "draft": "manuscript/drafts/chapter-0434.md",
+      "qa": "qa/chapter-0434.md",
+      "provenance": "editorial/provenance/chapter-0434.json",
+      "acceptance": "qa/acceptance/chapter-0434.json",
+      "acceptance_sha": "31cee72fd9b1b845cbf59f0fbed5132b9332ce35",
+      "family_qa": "qa/families/returned-hound-0434-0436.md"
+    },
+    {
+      "chapter": 435,
+      "title": "The Returned Hound (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/435.txt",
+      "english_mtl_reference": "source/chapters/chapter-433.xhtml",
+      "draft": "manuscript/drafts/chapter-0435.md",
+      "qa": "qa/chapter-0435.md",
+      "provenance": "editorial/provenance/chapter-0435.json",
+      "acceptance": "qa/acceptance/chapter-0435.json",
+      "acceptance_sha": "879fa493b7bf469d0e658a8e8a9d1fac46ae903b",
+      "family_qa": "qa/families/returned-hound-0434-0436.md"
+    },
+    {
+      "chapter": 436,
+      "title": "The Returned Hound (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/436.txt",
+      "english_mtl_reference": "source/chapters/chapter-434.xhtml",
+      "draft": "manuscript/drafts/chapter-0436.md",
+      "qa": "qa/chapter-0436.md",
+      "provenance": "editorial/provenance/chapter-0436.json",
+      "acceptance": "qa/acceptance/chapter-0436.json",
+      "acceptance_sha": "522dae3df011d9693263538668d8430bcce616b9",
+      "family_qa": "qa/families/returned-hound-0434-0436.md"
     }
   ]
 }

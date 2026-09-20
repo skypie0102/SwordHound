@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Returned Hound (1)–(3) accepted
+
+**Current state:** 436 / 500 accepted; 0 staged; next Chapter 437.
+
+Completed targets **434–436** with mapping **E432–E434**.
+
+Key decisions: physical Vikir returns only at target434 end; real Vikir remains Eighth Form while the dream remnant has an unstable Ninth Form; Black Sun defeats the remnant through coordination; doppelganger leeches copy Vikir after feeding; Pigi remains male and his internal voice remains unresolved; Pigi's blood opens the Hell Tree copy-space exit.
+
+Family QA: `qa/families/returned-hound-0434-0436.md` — **PASS**.
+
+Next verified family: **437–440 — Dreaming the Impossible Dream (1)–(4)**, mapping **E435–E438**. The Fall of Usher follows targets441–442 / E439–E440.
+
 ## 2026-09-20 — The Lion King (1)–(4) accepted
 
 **Current state:** 433 / 500 accepted; 0 staged; next Chapter 434.

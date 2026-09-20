@@ -1,0 +1,38 @@
+{
+  "chapter": 434,
+  "title": "The Returned Hound (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Returned Hound",
+    "range": [
+      434,
+      436
+    ],
+    "family_qa_path": "qa/families/returned-hound-0434-0436.md",
+    "family_qa_sha": "8a6a3644f459cc34bc63be301142ea82084f76c0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/434.txt",
+    "blob_sha": "aef2305e36df64d5f95af5db89b8fc3d50ecc487",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-432.xhtml",
+    "blob_sha": "53eef0dd238396ca804988191916633f2850a619",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0434.md",
+    "blob_sha": "5d97d61f40d639e82dd9bacff16befd658b5d456"
+  },
+  "qa": {
+    "path": "qa/chapter-0434.md",
+    "blob_sha": "fd07dbbb489c79054a8a97b821219da733398bed",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and new wiki-only forms were not asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Opening Vikir is an inner-world remnant; physical Vikir returns only at the chapter end."
+}
