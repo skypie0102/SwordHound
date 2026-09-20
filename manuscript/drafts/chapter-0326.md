@@ -1,98 +1,122 @@
 # Chapter 326: The Shadowless King of the Black Sea (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/326.txt`. Recovered English Chapter 324 is the verified shifted secondary witness. Established repo terminology controls Vikir, Baby Madam, Decarabia, Camus Morgue, Highbro / Middlebro / Lowbro, the Hell Tree, Daylily of Blood Tree, Physical Resistance, Magic Resistance, Reflexes, and Level candies. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/326.txt`. Recovered English Chapter 324 is the verified shifted secondary witness. Established project terminology controls **Vikir**, **Baby Madam**, **Camus Morgue**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Physical Resistance**, **Magic Resistance**, **Reflexes**, **Level candies**, and **Fire of Inferiority — Blaze**.
 
-Vikir checked his status window.
+Vikir opened his status window.
 
-**<Vikir>**
+> **<Vikir>**
+>
+> **LV:** 1
+>
+> **Titles:** Rat Hunter / Hell Hound Merchant / Daylily Lumberjack / **Majin Executioner** *(NEW)*
+>
+> **Stats**
+> - Strength: **300**
+> - Agility: **270 (+10) = 280**
+> - Stamina: **300**
+> - Physical Resistance: **1**
+> - Magic Resistance: **0 (+1) = 1**
+> - Reflexes: **1**
 
-**LV:** 1
-
-**Titles:** Rat Hunter / Hell Hound Merchant / Daylily Lumberjack / Majin Executioner
-
-**Stats**
-- Strength: 300
-- Agility: 270 (+10) = 280
-- Stamina: 300
-- Physical Resistance: 1
-- Magic Resistance: 0 (+1) = 1
-- Reflexes: 1
-
-Another title had appeared.
+Another title had appeared after Dogma's death.
 
 **Majin Executioner.**
 
-The karma attached to it sank deeper into his soul.
+Its karma settled deeper into Vikir's soul.
 
-From now on—
+Against transformed humans—
 
-his body would respond faster against Majin.
+Majin—
 
-His blade would sharpen more easily against them.
+his body would respond faster.
 
-The remaining Agility candies had been eaten too.
+His blade would bite more sharply.
 
-Of the three base stats—
+The remaining Agility candies had also been eaten.
+
+Of the three basic stats—
 
 Agility was the hardest to obtain.
 
-There was no reason to waste an opportunity.
+There was no reason to leave useful gains sitting unused.
 
-But the more important change—
+But that was not the important change.
 
-was **Magic Resistance**.
+Vikir focused on—
 
-Physical Resistance distorted physical force.
+**Magic Resistance.**
+
+Physical Resistance reduced the influence of abnormal physical force.
 
 Magic Resistance—
 
-did something similar to mana.
+interacted with mana.
 
-It improved sensitivity to mana flow.
+It sharpened awareness of mana currents.
 
-Rejected hostile mana entering from outside.
+Resisted hostile mana entering from outside.
 
-And suppressed dangerous reverse-flow inside the body.
+And helped suppress dangerous reverse-flow inside one's own body.
 
-*In simple terms—*
+*Put simply—*
 
-*it reduces hostile magic and suppresses mana rampage.*
+*it reduces hostile magical interference.*
 
-For swordsmen and mages approaching higher realms—
+*And restrains mana rampage.*
 
-that was priceless.
+For anyone who trained mana—
 
-The instant someone broke through a limit—
+especially mages—
 
-they were often at their weakest.
+the value was enormous.
+
+Breaking through to a higher realm was often the most dangerous moment in cultivation.
+
+Like an insect leaving a cocoon.
+
+Like a crustacean after shedding its shell.
+
+The instant of growth—
+
+was also the instant of greatest vulnerability.
 
 Mana surged.
 
 Circulation destabilized.
 
-The body became vulnerable.
+Power could turn inward.
 
-Magic Resistance could protect that moment.
+A high Magic Resistance stat—
+
+could suppress the most dangerous part of that transition.
 
 Vikir remembered Camus before regression.
 
-*She invested almost everything into Magic Resistance inside this tower.*
+*She invested almost everything she obtained in this tower into Magic Resistance.*
 
-*Then used that absurd resistance to learn high-risk magic that should have caused mana rampage.*
+Then—
 
-Brutal.
+using that abnormal resistance—
 
-Simple.
+she forced herself to learn high-risk magic that should have caused catastrophic mana rampage.
 
-Effective.
+She used the stat to suppress the risk—
 
-Only someone with monstrous talent and confidence could survive a strategy like that.
+then took all the reward.
+
+Crude.
+
+Dangerous.
+
+And completely dependent on monstrous talent and confidence.
 
 “…Good.”
 
-“All six stats are open now.”
+Vikir closed one hand.
 
-Three base stats.
+“All six are open.”
+
+Three basic attributes.
 
 Strength.
 
@@ -100,7 +124,7 @@ Agility.
 
 Stamina.
 
-Three hidden stats.
+Three advanced attributes.
 
 Physical Resistance.
 
@@ -108,127 +132,137 @@ Magic Resistance.
 
 Reflexes.
 
-The hidden stats normally did not appear until much later.
+The advanced stats were hidden elements of the Hell Tree.
 
-Sometimes—
+Normally—
 
-not until near the end.
+they were nearly impossible to find in the early floors.
 
-Vikir had already unlocked all three.
+Some challengers reached the late stages without awakening even one.
 
-From here—
+Vikir had all three already.
 
-leveling would raise everything naturally.
+From now on—
 
-That meant he would no longer need Strange Candies to open hidden slots.
+future Level growth would naturally raise every unlocked stat.
 
-Then Highbro spoke carefully.
+The special candies were no longer required merely to open slots.
 
-“My lord.”
+Highbro approached carefully.
+
+“Master.”
 
 “With all due respect…”
 
-“There’s something I don’t understand.”
+“One thing has been bothering me.”
 
 Vikir looked over.
 
-“When you received ten Level candies—
+Highbro hesitated.
 
-why didn’t you use them?”
+“When you received those ten Level candies…”
 
-“If you reached Level 10—
+“Why didn't you eat them?”
 
-wouldn’t you recover ten percent of your outside strength?”
+“If you became Level 10—
 
-“That sounds much better than a few stat points.”
+wouldn't you regain roughly ten percent of your power from outside?”
+
+“That seems much more useful than a small number of stat increases.”
 
 Middlebro nodded.
 
-Lowbro copied him.
+Lowbro nodded too.
 
-Vikir answered.
+Vikir answered simply.
 
-“I needed to unlock all six stats first.”
+“I needed to awaken all six attributes first.”
 
-He explained the system.
+He explained.
 
-The triplets’ eyes lit up.
+Basic stats.
 
-“Then now that you have all six—
+Advanced stats.
 
-you can level quickly!”
+The difference between increasing numbers already available—
 
-“Quickly!”
+and unlocking an entire category that otherwise might never appear.
 
-“Quickly!”
+The triplets' eyes lit up.
+
+“Then now that you've unlocked everything—”
+
+“you can power-level!”
+
+“Power-level!”
+
+“Power-level!”
 
 “No.”
 
 Vikir shook his head.
 
-“I still won’t level for a while.”
+“I still won't raise Level for a while.”
 
 “If you get Level candies—
 
-sell them to the Candy Shop.”
+sell them.”
 
-“Convert them into stat candies.”
+“Trade them to the Candy Shop for stat candies.”
 
 “And later—
 
-don’t eat every Level candy you obtain.”
+even when you start collecting Level candies—
+
+don't immediately eat everything.”
 
 “Store them.”
 
-The triplets looked confused.
+The triplets stared.
 
-Vikir continued.
+“Why?”
 
-“Leveling restores outside power.”
+Vikir repeated the tower's reward logic.
 
-“So early growth becomes easy.”
+Increasing Level restored part of the power sealed when entering the tower.
 
-“But tower difficulty rises.”
+That made early growth feel extremely efficient.
 
-“Rewards shrink.”
+Most beginners rushed to gather stat candies—
 
-“Eventually—
+then exchanged them for gold Level candies.
 
-high-level challengers stall.”
+But as the tower became harder—
 
-Beginners usually rushed to collect stat candies—
+and rewards gradually thinned—
 
-then traded them for Level candies.
+high-Level challengers often stagnated.
 
-Experienced challengers did the opposite.
+The system judged strength primarily through **Level**.
 
-Because this tower judged strength primarily by level.
+That created a strange reward structure.
 
-The lower your level—
+A strong challenger completing a great feat—
 
-the more absurd the rewards for extraordinary feats.
+ordinary reward.
 
-A powerful challenger achieving something great—
+A weak challenger completing a trivial feat—
 
-received an ordinary reward.
+ordinary reward.
 
-A weak challenger doing something minor—
+A strong challenger completing something easy—
 
-also received something ordinary.
-
-A powerful challenger doing something easy—
-
-barely received anything.
+almost nothing.
 
 But—
 
-a weak challenger accomplishing something impossible?
+a weak challenger completing something extraordinary?
 
-The reward became unreasonable.
+The reward could become absurd.
 
-That was why Vikir had remained Level 1.
+Vikir had exploited that rule continuously.
 
-Rat.
+Norvegicus Rat.
 
 Hell Hound.
 
@@ -236,11 +270,17 @@ Cerberus.
 
 Daylily of Blood Tree.
 
-Beetlemen.
+Dozens of Beetlemen.
 
-Majin.
+A transformed Majin.
 
-Each victory had been judged as—
+Each time—
+
+the system still introduced him the same way.
+
+**Level 1 Warrior Vikir.**
+
+And therefore judged his feats far above their normal reward band.
 
 Rare.
 
@@ -252,51 +292,61 @@ Awe-Inspiring.
 
 Impossible.
 
-The tower still classified Vikir as weak.
+*Pretending to be weak is a skill too.*
 
-*Playing weak is a skill too.*
+Years of hiding his true strength—
 
-Years of hiding his strength at Colosseo—
+first within Baskerville—
 
-had become perfect training for this.
+then at Colosseo—
 
-“For now—
+had turned into unexpected training.
 
-there’s no reason to level.”
+“So for now—
 
-The triplets nodded furiously.
+there is no reason to level.”
 
-Then Vikir leaned closer.
+The three brothers nodded intensely.
 
-“And there’s another reason.”
+Vikir leaned closer.
 
-He whispered.
+“There is another reason too.”
 
-The triplets’ eyes widened.
+Then whispered.
 
-Then narrowed again.
+Highbro's eyes widened.
 
-“So the fairies constantly telling us to eat Level candies…”
+Middlebro's did too.
 
-“Are trying to trick us.”
+Lowbro—
 
-“Then we definitely shouldn’t level early.”
+briefly looked as though he'd understood a fraud.
 
-“We should build stats first.”
+“So the fairies constantly pushing us to eat Level candy…”
 
-There was no rush.
+“That's a trick.”
 
-Unused red, green, and blue candies could always be exchanged later.
+“Then we absolutely shouldn't use it early.”
 
-Vikir made sure the three understood.
+“Build stats first.”
+
+Vikir did not elaborate further.
+
+Unused red, green, and blue candies could always be converted later.
+
+There was no urgency.
 
 Then—
 
 gurgle.
 
-Something changed where Dogma had died.
+The Black Sea changed.
 
-A dark-red flame danced over the Black Sea.
+At the place where Dogma had drowned—
+
+a dark crimson flame rose from the surface.
+
+It danced on top of water that should have smothered ordinary fire.
 
 Vikir stepped into the shallows.
 
@@ -304,97 +354,112 @@ Reached out.
 
 Caught it.
 
-The surrounding water boiled.
+The water around the flame boiled.
 
-Yet his hand felt no heat.
+His hand—
 
-**<Fire of Inferiority — Blaze>**
+felt no heat.
 
-**Type:** Flint  
-**Grade:** A+
-
-Produces a powerful flame anywhere.
-
-Burns using the inferiority buried inside the wielder as fuel.
-
-**Heat:** +1,000
-
-*Actual temperature varies according to the user’s inferiority complex.*
-
-Vikir stared at it.
+> **<Fire of Inferiority — Blaze>**
+>
+> **Type:** Flint  
+> **Grade:** **A+**
+>
+> Produces intense flame anywhere.  
+> Uses inferiority buried in the wielder's heart as fuel.
+>
+> **Heat: +1,000**
+>
+> *Actual heat varies according to the wielder's inferiority complex.*
 
 “…Inferiority as fuel.”
 
-“Then I won’t run out easily.”
+Vikir looked at the red flame.
 
-He had known more than enough inferiority in his first life.
+“Then I won't be short on fuel.”
+
+His first life contained plenty.
 
 Low birth.
 
 Family rejection.
 
-A scarred and ugly appearance.
+A face once scarred and ugly.
 
 Humiliation.
 
 Hatred.
 
-That pain—
+Resentment.
 
-apparently—
+The memories that had once poisoned him—
 
-made excellent fuel.
+now became something as mundane as firewood.
 
 Vikir stored the flame carefully.
 
 From now on—
 
-he could always make fire.
+he had a dependable source of heat.
 
-Then—
+Cooking.
 
-[O savior!]
+Warmth.
+
+Ignition.
+
+Then the Beetlemen began shouting.
+
+[Our savior!]
 
 [Please take us away from this island!]
 
-The Beetlemen started shouting again.
+Loud.
 
-Annoying.
+Persistent.
 
-But their objective overlapped with his.
+But their goal aligned with Vikir's.
 
-He needed to leave too.
+He also needed to leave.
 
 “Fine.”
 
-“You said you had a ship.”
+“You said there was a ship.”
 
-The Rhinoceros Beetlemen and Stag Beetlemen had supposedly fought for years over one vessel.
+The Rhinoceros Beetlemen and Stag Beetlemen had fought over it for years.
 
-Who controlled it—
+Who controlled the vessel—
 
-controlled the route out.
-
-The elders nodded sadly.
-
-[There is a ship.]
-
-“Where?”
-
-Both pointed toward the horizon.
-
-Vikir looked.
-
-Nothing.
-
-Just black water.
-
-“…Don’t tell me.”
+controlled the possibility of escaping the island.
 
 The elders lowered their heads.
 
+[Yes.]
+
+“There is one?”
+
+[There is.]
+
+“Where?”
+
+Both elders extended a finger.
+
+Toward the horizon.
+
+Vikir looked.
+
+Black sea.
+
+Black sky.
+
+Nothing else.
+
+“…Don't tell me.”
+
+The two elders nodded heavily.
+
 [It sank.]
 
-The only ship capable of leaving the island—
+The only vessel capable of leaving the island—
 
-was currently sitting at the bottom of the Black Sea.
+was sitting somewhere on the bottom of the Black Sea.
