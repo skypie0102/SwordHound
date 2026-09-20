@@ -3,7 +3,7 @@
   "target_chapter_count": 500,
   "accepted_count": 499,
   "staged_count": 0,
-  "next_chapter": 326,
+  "next_chapter": 333,
   "active_title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -4641,8 +4641,9 @@
       "qa": "qa/chapter-0326.md",
       "provenance": "editorial/provenance/chapter-0326.json",
       "acceptance": "qa/acceptance/chapter-0326.json",
-      "acceptance_sha": "1c6f71c3f53dc59510289783e831f870bf78dcf8",
-      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+      "acceptance_sha": "55e235dccff9eea92d85a8639072d61526700a1f",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 327,
@@ -4655,8 +4656,9 @@
       "qa": "qa/chapter-0327.md",
       "provenance": "editorial/provenance/chapter-0327.json",
       "acceptance": "qa/acceptance/chapter-0327.json",
-      "acceptance_sha": "5d0a0fa350e4e5818fdfa6033fdd905d9836653b",
-      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+      "acceptance_sha": "806715b57e0dd9acb347208f3d7be37d1e2650a5",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 328,
@@ -4669,8 +4671,9 @@
       "qa": "qa/chapter-0328.md",
       "provenance": "editorial/provenance/chapter-0328.json",
       "acceptance": "qa/acceptance/chapter-0328.json",
-      "acceptance_sha": "b4272f6e8c370e6782154330b0bcb93177cfbc02",
-      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+      "acceptance_sha": "60c22c2be49a00070173957197ebe9e653ed44ca",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 329,
@@ -4683,8 +4686,9 @@
       "qa": "qa/chapter-0329.md",
       "provenance": "editorial/provenance/chapter-0329.json",
       "acceptance": "qa/acceptance/chapter-0329.json",
-      "acceptance_sha": "9d1e9338891d453dd2811611a8731f9e09737720",
-      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+      "acceptance_sha": "b15fb5588bf0ec9e55aac1c8339f0c9c4738d3b0",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 330,
@@ -4697,8 +4701,9 @@
       "qa": "qa/chapter-0330.md",
       "provenance": "editorial/provenance/chapter-0330.json",
       "acceptance": "qa/acceptance/chapter-0330.json",
-      "acceptance_sha": "1006275a570f9e79b554318602f6b8026a55d986",
-      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md"
+      "acceptance_sha": "ef2eb1870f44121b39053b5c7a4372c45e44ca0f",
+      "family_qa": "qa/families/shadowless-king-black-sea-0326-0330.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 331,
@@ -7269,10 +7274,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All five historical drafts materially compressed; all five initial-priority targets resolved."
+      },
+      {
+        "name": "The Shadowless King of the Black Sea",
+        "range": [
+          326,
+          330
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All five historical drafts materially compressed; priority target328 resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      328,
       333,
       334,
       419,
@@ -7280,12 +7294,12 @@
       421,
       431
     ],
-    "pending_priority_review_count": 7,
+    "pending_priority_review_count": 6,
     "next_family": {
-      "name": "The Shadowless King of the Black Sea",
+      "name": "TBD from next priority target",
       "range": [
-        326,
-        330
+        333,
+        333
       ]
     },
     "resolved_confirmed_needs_rework": [
