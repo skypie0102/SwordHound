@@ -44,7 +44,13 @@ Do not physically split a source file merely to make filenames sequential. Use t
 
 ## Localized source gaps
 
-Known localized Chinese omissions/splices include targets 49, 54/55, 170, 267, 284, and 385, plus any later entries recorded in `chapter-exceptions.tsv`. Use aligned English only for the explicitly missing material; Chinese remains primary elsewhere.
+### Target 95 localized omission
+
+`095.txt` visibly jumps from the dead-guard/casualty paragraph to Vikir already patting Aheul's back. Aligned E94 supplies the exact missing bridge: Madam-track/slime inspection followed by Aheul emerging from hiding in a spice jar. Only that span is restored; see `chapter-exceptions.tsv`.
+
+
+
+Known localized Chinese omissions/splices include targets 49, 54/55, 95, 170, 267, 284, and 385, plus any later entries recorded in `chapter-exceptions.tsv`. Use aligned English only for the explicitly missing material; Chinese remains primary elsewhere.
 
 ## English reference warning
 
