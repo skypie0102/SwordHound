@@ -1,228 +1,428 @@
 # Chapter 324: Underdogma (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/324.txt`. Recovered English Chapter 322 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/324.txt`. Recovered English Chapter 322 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Decarabia**, **Amdusias**, **Dogma**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Rhinoceros Beetlemen**, **Stag Beetlemen**, and **Giant Beetle Island**.
 
 CRACK.
 
-Another joint broke.
+Another joint snapped.
 
-A Beetleman rolled across the ground.
+A Beetleman rolled across the white ground.
 
-Vikir had stopped striking the exoskeleton.
+Vikir had stopped striking the exoskeleton directly.
 
 Too hard.
 
-Too wasteful.
+Too inefficient.
 
 Instead—
 
-he attacked joints.
+he caught the horn of a charging Rhinoceros Beetleman.
 
-Leverage.
+Redirected the momentum.
+
+Dropped it.
+
+Then locked one limb.
+
+CRACK.
+
+No matter how hard the shell—
+
+joints still had to connect.
+
+And connections—
+
+were weaknesses.
+
+After several exchanges—
+
+Vikir abandoned brute-force striking almost entirely.
 
 Locks.
 
-Weak connections.
+Leverage.
 
-More than fifty Beetlemen lay groaning.
+Joint destruction.
 
-A white-browed elder bowed.
+Minimum wasted energy.
+
+The result—
+
+more than fifty Beetlemen lay groaning around the island.
+
+Vikir bent the forearm of an elderly Stag Beetleman backward.
+
+“Ready to talk?”
+
+The elder's face twisted.
+
+[Yes.]
 
 [Please.]
 
-[Spare us.]
+[That is an important joint for humans too.]
 
-[Those joints are important to humans too.]
+Vikir released him.
+
+Several elders—
+
+Rhinoceros and Stag alike—
+
+lowered their heads.
+
+The rest followed.
+
+Soon—
+
+an entire insect army was kneeling.
+
+Vikir looked them over.
+
+Black exoskeleton.
+
+Powerful humanoid frames.
+
+Faces that differed somewhat by age and sex.
+
+But the most obvious distinction—
+
+horns.
+
+Rhinoceros Beetlemen carried one thick upward horn.
+
+Stag Beetlemen carried paired pincer-like horns.
+
+The two peoples—
+
+clearly disliked one another.
+
+Their complete lack of teamwork during the fight had made Vikir's job much easier.
+
+*If they'd coordinated—*
+
+*that would have been more annoying.*
 
 Vikir sat on a rotten log.
 
-The ancient people knelt before him.
-
-Two kinds.
-
-Rhinoceros Beetlemen—
-
-one thick horn.
-
-Stag Beetlemen—
-
-paired pincer horns.
-
-Even the two insect peoples clearly disliked one another.
-
-Their lack of coordination had made them much easier to defeat.
+The Beetlemen knelt before him.
 
 Behind them—
 
-Dogma’s commoner students knelt too.
+Dogma's Commoner Faction students also knelt.
 
 Pale.
 
-Terrified.
+Quiet.
 
-Highbro, Middlebro, and Lowbro stood beside Vikir.
+Humiliated.
+
+*We couldn't handle one.*
+
+*He put down more than fifty.*
+
+*What is this guy?*
+
+*How many candies did he eat upstairs?*
+
+Whispers spread.
+
+The triplets immediately snapped.
 
 “Quiet.”
 
-“You’re disturbing Master.”
+“You're disturbing Master.”
 
 “Shut up.”
 
-The triplets no longer hid their reverence.
+Highbro.
 
-Vikir questioned the elders.
+Middlebro.
 
-“How did you get here?”
+Lowbro.
+
+No longer even pretending that Vikir was an ordinary classmate.
+
+Vikir ignored them.
+
+He addressed the elders.
+
+“How did you come here?”
+
+A Rhinoceros elder with white brows answered first.
 
 [Long ago—
 
-we lived beyond the far sea on an island called **Giant Beetle Island**.]
+we lived beyond the distant sea.]
+
+[On an island called **Giant Beetle Island**.]
+
+A Stag elder continued.
 
 [A demon attacked us.]
 
-[During the battle—
+[While we fought—
 
-we were trapped inside this tree.]
+part of our land was torn away.]
 
-Amdusias had torn away part of their island.
+[We were trapped inside this strange tree.]
 
-Forced incompatible environments together.
+Amdusias.
 
-The vegetation died.
+He had ripped a piece of Giant Beetle Island from its world—
 
-Only one Hell Tree root remained.
+then forced it into the Hell Tree.
 
-[We fought over the sap for a long time.]
+The graft had gone badly.
 
-[There were other survivors too.]
+Different terrains.
+
+Different soil.
+
+Different climate.
+
+Pushed together without balance.
+
+Plants died.
+
+Water vanished.
+
+Eventually—
+
+only one Hell Tree root remained as a reliable source of food and moisture.
+
+[We fought over the sap.]
+
+[For a very long time.]
+
+[There were other survivors once.]
+
+[Other species.]
+
+[Other people.]
+
+[Time passed.]
 
 [They all died.]
 
-[Only our peoples remain.]
+[Only our two peoples remained.]
 
-Decarabia added context.
+Vikir nodded.
 
-[Amdusias imitates the creator you call Rune.]
+“So that's why the sap matters.”
+
+Decarabia spoke from his chest.
+
+[Amdusias imitates creation.]
 
 Vikir frowned.
 
-“What does that mean?”
+“What?”
 
-[Your legends describe Rune as a collector of worlds too.]
+[The being your species calls **Rune**.]
 
-[Sheep had one world.]
+[Your old traditions describe Rune as a collector of worlds too.]
 
-[Wolves another.]
+“I don't know that story.”
 
-[Humans another.]
+[Sheep had a world.]
 
-[Then pieces were joined.]
+[Wolves had a world.]
 
-[You call the result an ecological pyramid.]
+[Humans had a world.]
 
-[And the links a food chain.]
+[Different existences gathered among their own kind.]
 
-Vikir stared.
+[Then pieces were cut from those worlds—]
 
-“That’s an old scripture verse.”
+[and joined.]
+
+[That produced the world humans now call reality.]
+
+Vikir gave him a flat look.
+
+Decarabia continued.
+
+[You call the resulting arrangement an ecological pyramid.]
+
+[The lines connecting its parts—
+
+a food chain.]
+
+“That sounds like a passage from ancient scripture.”
 
 “Was it literal?”
 
-[Who knows?]
+[Even I do not know.]
 
-[It was long ago.]
+[It happened too long ago.]
 
-[But Amdusias absolutely imitates that idea.]
+[But Amdusias unquestionably imitates that concept.]
 
-[His Hell Tree is a crude patchwork version.]
+[Collecting world fragments inside the Hell Tree has been his hobby for a very long time.]
 
-Vikir dismissed the theology.
+The difference—
 
-“I need to leave this floor.”
+according to Decarabia—
 
-He looked at the elders.
+was craftsmanship.
 
-“The sap conflict ends now.”
+Rune's reality—
 
-“I’ll take you out.”
+a completed garment.
 
-They stared.
+Amdusias's patchwork—
 
-[You can?]
+rags stitched together.
+
+Vikir had no interest in theology.
+
+“Enough.”
+
+He looked back at the elders.
+
+“I want to leave this floor.”
+
+“The sap conflict ends here.”
+
+“I'll take you with me.”
+
+Every Beetleman froze.
+
+[What?]
+
+[Leave?]
+
+[That is possible?]
 
 “Yes.”
 
-“But I need help.”
+“But I need your help.”
+
+The elders bowed lower.
 
 [Anything.]
 
-[If we can finally leave—]
+[If we can finally leave this place—]
 
-“I need a ship.”
+“A ship.”
+
+Vikir cut in.
+
+“I need one.”
 
 Silence.
 
-Every Beetleman stiffened.
+Rhinoceros Beetlemen looked toward Stag Beetlemen.
 
-Vikir noticed.
+Stag Beetlemen looked away.
+
+The silence became awkward.
+
+Vikir narrowed his eyes.
 
 “What?”
 
-The elders exchanged looks.
+One elder finally answered.
 
 [The reason our two peoples have fought for so long…]
 
-[is the ship.]
+[is partly because of the ship.]
 
-“What’s wrong with it?”
+“Why?”
 
-Before they answered—
+[There **is** a ship.]
 
-Highbro shouted.
+[But there is a problem.]
+
+Before he could explain—
 
 “Master!”
 
+Highbro shouted.
+
 “Over there!”
+
+Vikir turned.
 
 Dogma was climbing the Hell Tree root.
 
 Fast.
 
+Wild.
+
 Laughing.
 
-“You worms thought I’d share the sap?!”
+“HAHAHAHA!”
 
-He plunged his face into the red pool.
+“You idiots thought I'd keep sharing the sap!?”
 
-Drank.
+His eyes were completely bloodshot.
 
-And drank.
+Something in him had already broken.
+
+Dogma reached the hollow.
+
+Then shoved his face into the red pool.
+
+GULP.
+
+GULP.
+
+GULP.
+
+He drank directly.
+
+Without stopping.
 
 His stomach swelled.
 
-His followers climbed after him.
+Round.
+
+Then larger.
+
+Still—
+
+he drank.
+
+As though leaving even one drop for anyone else were intolerable.
 
 “Dogma!”
+
+“Wait!”
 
 “Leave some!”
 
 “The sap belongs to all of us!”
 
+Several Commoner Faction students scrambled after him.
+
 One reached the pool.
 
-Dogma grabbed his head.
+Dogma's hand—
+
+already larger than before—
+
+closed around the student's skull.
 
 CRUSH.
 
+Head.
+
+Bone.
+
+Brain.
+
+Gone.
+
 Blood.
 
-Brain matter.
+Tissue.
 
 Dropped candies.
 
-All splashed into the sap.
+Everything fell into the sap.
 
-Dogma never stopped drinking.
+Dogma kept drinking.
 
 Vikir watched.
 
@@ -230,60 +430,131 @@ Vikir watched.
 
 Hell Tree sap was not human food.
 
-Too much changed the body.
+Small quantities—
 
-Dogma screamed.
+survivable.
 
-Bones cracked.
+Excess—
 
-Muscles distorted.
+monsterization.
 
-Teeth grew.
+Dogma became the demonstration.
 
-He devoured more followers.
+“Aaaaaaagh!”
 
-His form ceased to be human.
+His stomach ballooned.
+
+Hands clawed at his own face.
+
+Veins blackened.
+
+Bones moved.
+
+CRACK.
+
+CRACK.
+
+CRACK.
+
+Muscle distorted.
+
+Jaw widened.
+
+Teeth lengthened.
+
+Followers tried to retreat.
+
+Too late.
+
+Dogma opened his mouth—
+
+bit through the upper half of one student—
+
+then chewed.
+
+Flesh.
+
+Candy.
+
+Everything.
+
+The thing remaining on the root—
+
+was no longer human.
 
 A **Majin**.
 
-A demonized human—
+Classified among monsters—
 
-neither true demon nor ordinary monster.
+but neither true demon nor ordinary beast.
 
-A wanderer trapped between worlds.
+A human transformed beyond humanity.
+
+A wanderer stranded between the human world and the Demon World.
+
+Vikir sighed.
+
+“At that size—
+
+this will be annoying.”
+
+Then—
+
+[Hehehehe?]
 
 The fairy appeared.
 
+Its fleshy body shook with delight.
+
 [Oh?]
 
-[A strong challenger has become a Majin?]
+[A powerful challenger became a Majin?]
 
 [How lucky?]
 
-A mission appeared before everyone except the Beetlemen.
+[Then there should be a mission?]
 
-**<Mission>**
+Ding.
 
-**Kill the Majin.**
+A window appeared before everyone—
 
-**Majin: 0 / 1**
+except the Beetlemen.
 
-Then another mission appeared—
+> **<Mission>**
+>
+> **Kill the Majin**
+>
+> **Majin: 0 / 1**
+>
+> Your precious friend has become completely lifeless.  
+> Help make your friend comfortable.  
+> There is only one method.  
+> You already know it.
 
-for Dogma.
+Then—
 
-**<Mission>**
+another window.
 
-**Kill all living things.**
+Not for them.
 
-**Survivors: 0 / 77**
+For Dogma.
+
+> **<Mission>**
+>
+> **Kill All Living Things**
+>
+> **Survivors: 0 / 77**
+>
+> You worked so hard to become a Majin.  
+> Prove how powerful you are.  
+> The reward will be generous.
 
 The fairy giggled.
 
-Two opposite missions.
-
 One island.
 
-One transformed student.
+Two opposing missions.
 
-And seventy-seven living targets.
+One transformed student—
+
+and seventy-seven living targets.
