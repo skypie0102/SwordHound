@@ -1,3 +1,17 @@
+## Goodbye, Nouvelle Vague additions — Chapters 419–421
+
+- **Goodbye, Nouvelle Vague** — accepted three-part family, targets419–421 / witnesses E417–E419.
+- **Current 3021** — only functioning Level-Five Gulper Eel circulation current that reaches the surface.
+- **Garam final-wish restoration** — C419 visibly omits Kirko's answer sequence; aligned E417 restores only: Garam died two years earlier during the Sakkuth riot while saving Kirko, was buried, and wanted to show her the outside world.
+- **Kirko final Nouvelle Vague choice** — refuses escape because the prison is where she was born and raised; later fate remains unresolved.
+- **Marquis de Sade debt** — promises three lives in repayment for one life saved if he reaches the surface.
+- **Orca deep-sea form** — killer-whale beastman physiology gives overwhelming underwater advantage.
+- **Gate of Good and Evil escape use** — after striking Orca and uncorking the eruption, the gate becomes the lower shell for the surface ascent.
+- **Wailing Wall ascent dome** — Decarabia forms the upper shell while Vikir, Marquis de Sade, and Orca supply mana.
+- **C421 regeneration correction** — local Basilisk wording rejected as recurring drift; **Immortality — Gargoyle (S)** remains canonical project continuity.
+- **How to Become a Wandering Knight** — next family targets422–424 / E420–E422.
+- **Night Walkers** — begins target425 / E423.
+
 ## End game additions — Chapters 409–418
 
 - **End game** — accepted ten-part family, targets409–418 / witnesses E407–E416.
