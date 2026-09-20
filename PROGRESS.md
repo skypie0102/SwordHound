@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Tuition completeness rebuild (225–233)
+
+**Audit result:** all nine historical drafts were materially compressed and were rebuilt; family now **PASS**.
+
+Priority targets **225, 228, 230, 231** are resolved.
+
+Major restorations include:
+- newsroom/Ouroboros evidence separation and Vikir's anti–Night Hound cover strategy;
+- ~80% scholarship, Banshee recommendation, secure funding-chain rationale, Sinclaire's jobs, and guild-work setup;
+- Sherpa/MiniPin's support-worker protection model, Baskerville ambition, and the complete repeated home-intrusion sequence;
+- MiniPin's future research importance, Gnoll ecology/bounty, Monster Wave risk, exit-blocking/Shavik-oil/panic strategy;
+- Poison Gnoll, Baby Madam, bounty/material recovery, unnumbered bank gold, Bourgeois Damien currency law, and Ouroboros arrival;
+- complete Ouroboros battle, Baby Madam silk/mist, Anubis probing, left-side delay clue, and distress-flare escape;
+- full appraisal/recruitment conversation and MiniPin's broker scam / family finances;
+- Thrifty Bazaar faction economics, Vikir's deliberate supply burn, 4× reset, four-year tuition, anonymous scholarship surplus, orphanage service condition, and **Peri Award**.
+
+Initial priority queue now has **27 pending chapters**.
+
+Next audit family: **National University League (236–244)**.
+
+
 ## 2026-09-20 — Attack Land completeness rebuild (190–196)
 
 **Audit result:** all seven historical drafts were materially compressed and were rebuilt; family now **PASS**.
