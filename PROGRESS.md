@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Madam Eight-Legs completeness rebuild (95–100)
+
+**Audit result:** all six historical drafts had completeness or boundary-integrity problems and were rebuilt; family now **PASS**.
+
+Important findings:
+- **Chapter95:** verified a real localized Chinese omission. C095 jumps from the casualty paragraph to Vikir already patting Aheul's back; aligned E94 supplies the missing track/slime investigation and Aheul emerging from a spice jar. The restoration is narrowly documented in `source/chinese/chapter-exceptions.tsv`.
+- **Chapter97:** prior confirmed summary-compression failure fully rebuilt and accepted again.
+- **Chapter100:** historical draft crossed into Chapter101. Chinese100/E99 end at Vikir falling toward the gas-bloated Bog Salamander cushion; Chinese101/E100 begin at impact. Landing, Madam's death, Venom acquisition, and Aiyen/Bakira rescue were removed from target100.
+
+All six chapters received fresh QA/provenance/acceptance evidence.
+
+Current state: **497 accepted / 3 needs rework**. Remaining confirmed failures: **316, 319, 420**.
+
+Original priority queue now has **37 pending chapters**.
+
+Next audit family: **Nostalgia (101–104)**.
+
+
 ## 2026-09-20 — The Ghosts of the Ancestors completeness rebuild (90–94)
 
 **Audit result:** all five historical drafts failed strict full-source-coverage review and were rebuilt; family now **PASS**.
