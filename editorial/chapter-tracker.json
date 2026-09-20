@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 449,
+  "accepted_count": 453,
   "staged_count": 0,
-  "next_chapter": 450,
+  "next_chapter": 454,
   "active_title_family": {
-    "name": "Declaration of War",
+    "name": "Infiltration of the Water Source",
     "range": [
-      450,
-      453
+      454,
+      464
     ],
-    "boundary_status": "verified complete: target450→E448 through target453→E451",
-    "following_family_starts": 454,
-    "following_title": "Infiltration of the Water Source (1)",
-    "alignment_note": "450→E448 through 453→E451; targets454-464 / E452-E462 form Infiltration of the Water Source (1)-(11); target465/E463 begins The Prelude to a Counterattack (1)."
+    "boundary_status": "verified complete: target454→E452 through target464→E462",
+    "following_family_starts": 465,
+    "following_title": "The Prelude to a Counterattack (1)",
+    "alignment_note": "454→E452 through 464→E462; target465→E463 begins The Prelude to a Counterattack (1)."
   },
   "chapters": [
     {
@@ -6301,6 +6301,62 @@
       "acceptance": "qa/acceptance/chapter-0449.json",
       "acceptance_sha": "da772d15f5f46be7ca591266e76d29e9413df9ae",
       "family_qa": "qa/families/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 450,
+      "title": "Declaration of War (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/450.txt",
+      "english_mtl_reference": "source/chapters/chapter-448.xhtml",
+      "draft": "manuscript/drafts/chapter-0450.md",
+      "qa": "qa/chapter-0450.md",
+      "provenance": "editorial/provenance/chapter-0450.json",
+      "acceptance": "qa/acceptance/chapter-0450.json",
+      "acceptance_sha": "e70180db02c38839e125d46ea69509f375e86d00",
+      "family_qa": "qa/families/declaration-of-war-0450-0453.md"
+    },
+    {
+      "chapter": 451,
+      "title": "Declaration of War (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/451.txt",
+      "english_mtl_reference": "source/chapters/chapter-449.xhtml",
+      "draft": "manuscript/drafts/chapter-0451.md",
+      "qa": "qa/chapter-0451.md",
+      "provenance": "editorial/provenance/chapter-0451.json",
+      "acceptance": "qa/acceptance/chapter-0451.json",
+      "acceptance_sha": "9b7907807254e054776678811ef4d0b1c66c50d2",
+      "family_qa": "qa/families/declaration-of-war-0450-0453.md"
+    },
+    {
+      "chapter": 452,
+      "title": "Declaration of War (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/452.txt",
+      "english_mtl_reference": "source/chapters/chapter-450.xhtml",
+      "draft": "manuscript/drafts/chapter-0452.md",
+      "qa": "qa/chapter-0452.md",
+      "provenance": "editorial/provenance/chapter-0452.json",
+      "acceptance": "qa/acceptance/chapter-0452.json",
+      "acceptance_sha": "4c363a5ef4e9ae3052c2f9ea2bb57ae34088e04a",
+      "family_qa": "qa/families/declaration-of-war-0450-0453.md"
+    },
+    {
+      "chapter": 453,
+      "title": "Declaration of War (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+      "chinese_source": "source/chinese/chapters/453.txt",
+      "english_mtl_reference": "source/chapters/chapter-451.xhtml",
+      "draft": "manuscript/drafts/chapter-0453.md",
+      "qa": "qa/chapter-0453.md",
+      "provenance": "editorial/provenance/chapter-0453.json",
+      "acceptance": "qa/acceptance/chapter-0453.json",
+      "acceptance_sha": "5da32c9b7dea80d7d0265676688f117083233fce",
+      "family_qa": "qa/families/declaration-of-war-0450-0453.md"
     }
   ]
 }

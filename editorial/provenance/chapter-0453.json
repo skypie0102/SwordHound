@@ -1,0 +1,38 @@
+{
+  "chapter": 453,
+  "title": "Declaration of War (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Declaration of War",
+    "range": [
+      450,
+      453
+    ],
+    "family_qa_path": "qa/families/declaration-of-war-0450-0453.md",
+    "family_qa_sha": "5fa4025ba6ebac5aa2b050f55fbe56de31015113",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/453.txt",
+    "blob_sha": "e12b972da03ded9bff5af5c41be40e9c6f170999",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-451.xhtml",
+    "blob_sha": "3b5c92fbbbcf463bbd18434f28ebda86e54bfb3b",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0453.md",
+    "blob_sha": "ca2748b89c0cf4690e94d144394fe6fc2a897c18"
+  },
+  "qa": {
+    "path": "qa/chapter-0453.md",
+    "blob_sha": "8d77b2f0764f505a711ba0c2bb73c7b55db78f55",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, Raspane Morgue, and later Corpse canon. Later true-name information is reveal-guarded unless exposed by the chapter.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "term_correction": "Use accepted Long Rain of Terror for the 150-day / five-month fire-rain disaster."
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": 450,
+  "title": "Declaration of War (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+  "title_family": {
+    "name": "Declaration of War",
+    "range": [
+      450,
+      453
+    ],
+    "family_qa_path": "qa/families/declaration-of-war-0450-0453.md",
+    "family_qa_sha": "5fa4025ba6ebac5aa2b050f55fbe56de31015113",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/450.txt",
+    "primary_source_sha": "4ab61de381f2307d71a33597a2c8f6a98bf6a574",
+    "english_reference_path": "source/chapters/chapter-448.xhtml",
+    "english_reference_sha": "3b640c6a9be8e792734ead0f77f894ac6705aeff",
+    "draft_path": "manuscript/drafts/chapter-0450.md",
+    "draft_sha": "3b8f754f0e3b8783bab07e88dc2045c918a7858e",
+    "qa_path": "qa/chapter-0450.md",
+    "qa_sha": "63b8269369f7877be4236d4033d26a125bdb5b5b",
+    "provenance_path": "editorial/provenance/chapter-0450.json",
+    "provenance_sha": "502b8bb86070fb4263471fd868d5d6c496e02a75"
+  },
+  "canonical_reference": [
+    "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, Raspane Morgue, and the later Ten Corpses canon.",
+    "Later true-name information remains chronology-guarded."
+  ],
+  "reveal_guard": "No Infiltration of the Water Source material from target454 is imported."
+}
