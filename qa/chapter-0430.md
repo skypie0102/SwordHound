@@ -1,18 +1,22 @@
 # Chapter 430 QA — The Lion King (1)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/lion-king-0430-0433.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/430.txt` — `db3ec96c72ec38b3d93a56028dbe368361d2791f`
 - English witness: **E428** — `5d39ce04e15c58d65597b2d5c085b17ae503f50d`
-- Draft: `manuscript/drafts/chapter-0430.md` — `e85b53d368990079a8c23b0369054e0e9dd60de8`
+- Rebuilt draft: `manuscript/drafts/chapter-0430.md` — `b1be4c800902dd2ede24d032814d7f84be7a6a51`
 
-## Checks
-- PASS — Warm-sea anomaly, dark sky, warm-water fish, and famine-era drying are preserved as environmental setup without inventing a cause.
-- PASS — Night Walkers infiltrate inside returning Donquixote armor with deprogrammed cavalry cooperation.
-- PASS — Tudor uses servant tunnels and avoids unnecessary mana to reduce detection risk.
-- PASS — Castle servants are intentionally kept ignorant of Tudor’s true exile and Cervantes’s condition.
-- PASS — Two guards outside Cervantes’s chamber are fully demonized rather than merely brainwashed and are killed without hesitation.
-- PASS — Chapter ends exactly when the room’s true stench/source is revealed; Cervantes’s condition itself remains for target431.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local forms remain explicitly unverified.
+## Completeness findings
+- Historical draft materially compressed the coastal anomaly setup, civilian fear of Donquixote knights, Tudor's emotional reaction, servant-route infiltration, maids' ignorance, demonized guard encounter, and odor transition into Cervantes's room.
+- PASS — warm-sea/warm-water-fish/cloud anomalies remain environmental setup; fishermen speculate about distant volcanic activity, but production does not assign an unsupported cause.
+- PASS — famine/drying-rack context and civilian fear of changed Donquixote behavior are restored.
+- PASS — Tudor, hidden in returning Invincible Cavalry armor, recognizes how badly Chimeries/Passamonte degraded his territory.
+- PASS — freed cavalry knights cooperate because brainwashing has faded and they regret their behavior.
+- PASS — Night Walkers split from the returning column and enter via Tudor's servant-route secret passage.
+- PASS — whale-fat torches are used instead of illumination magic to reduce detection risk.
+- PASS — Tudor/Bianca exchange about legitimate succession and Tudor's missing left arm is restored.
+- PASS — maids do not know Tudor's exile and believe Passamonte is faithfully caring for Cervantes.
+- PASS — two guards outside Cervantes's chamber are fully demonized, not merely brainwashed.
+- PASS — the final stench is explicitly different from the drying-fish smell and comes from Cervantes's room.
