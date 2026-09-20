@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Prelude to a Counterattack (1)–(6) accepted
+
+**Current state:** 470 / 500 accepted; 0 staged; next Chapter 471.
+
+Completed targets **465–470** with mapping **E463–E468**.
+
+Key decisions: Kirko’s Asmodeus/Flubber survival; Flauros’s poisoned-water trap; Baby Madam/Ballak return; Pigi as Flauros’s true Tochka target; Granola de Leviathan as the Reaper; and the Lips of Sweet Talk answer remains reveal-guarded.
+
+Family QA: `qa/families/prelude-counterattack-0465-0470.md` — **PASS**.
+
+Next contiguous family: **471–475 — Tochka Annihilation Battle (1)–(5)**, mapping **E469–E473**.
+
 ## 2026-09-20 — Infiltration of the Water Source (1)–(11) accepted
 
 **Current state:** 464 / 500 accepted; 0 staged; next Chapter 465.
