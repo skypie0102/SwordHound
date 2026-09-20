@@ -1,7 +1,7 @@
 {
   "chapter": 328,
   "title": "The Shadowless King of the Black Sea (3)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -9,8 +9,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
-    "status": "pass"
+    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/328.txt",
@@ -24,15 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0328.md",
-    "blob_sha": "620f2954cd6b0e9c9231ae73aee03e4f143c21e9"
+    "blob_sha": "50b34c9c105087c9442a889176e99dfc611dc875"
   },
   "qa": {
     "path": "qa/chapter-0328.md",
-    "blob_sha": "2608d42d3110d7caf3399b911b7bc920df9f17bf",
-    "status": "pass"
+    "blob_sha": "2e4203e9bfb8277e211203828d9fd6be6881d2ef",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "documented_correction": "Beelzebub Slot 2 remains Immortality — Gargoyle (S); local Basilisk drift rejected."
+  "accepted_date": "2026-09-20",
+  "documented_correction": "Beelzebub Slot 2 remains Immortality — Gargoyle (S); local Basilisk drift rejected.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "620f2954cd6b0e9c9231ae73aee03e4f143c21e9",
+    "qa_sha": "2608d42d3110d7caf3399b911b7bc920df9f17bf"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "initial_priority_target": true
+  },
+  "beelzebub_continuity_guard": "Slot1 Venom — Madam Eight-Legs (S); Slot2 Immortality — Gargoyle (S); Slot3 Starvation Drought — Daylily of Blood Tree (S); local Basilisk drift rejected."
 }
