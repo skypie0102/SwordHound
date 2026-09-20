@@ -1,3 +1,17 @@
+## The Lion King additions — Chapters 430–433
+
+- **The Lion King** — accepted four-part family, targets430–433 / witnesses E428–E431.
+- **Cervantes Donquixote final act** — deliberately kills himself with Gungnir before Chimeries can seize his body.
+- **Advanced Red Death / Leviathan poison** — Dolores identifies Cervantes's lingering toxin/plague as a more advanced form of the Leviathan disease she previously purified.
+- **Gungnir succession** — chooses Tudor after Cervantes's death and responds to legitimate Donquixote succession.
+- **Chimeries body-transfer plan** — Cervantes was the body prepared for more than a decade; after Cervantes destroys himself, Tudor becomes the new target.
+- **Chimeries recklessness authority** — pushes humans toward irrational courage/confidence and helps pull victims into traps.
+- **Amdusias thought-remnant** — S+ fragment only; not resurrection of the Fifth Corpse.
+- **Copied Vikir inner world** — Chimeries uses the Amdusias/Hell-Tree remnant to trap Night Walkers inside a replication of Vikir's mental world.
+- **Target433 Vikir figure** — appears inside the copied mindscape only; no confirmed physical return at this point.
+- **The Returned Hound** — next family targets434–436 / E432–E434.
+- **Dreaming the Impossible Dream** — follows targets437–440 / E435–E438.
+
 ## The Night Walkers additions — Chapters 425–429
 
 - **The Night Walkers** — accepted five-part family, targets425–429 / E423–E427.
