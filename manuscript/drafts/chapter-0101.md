@@ -1,186 +1,460 @@
 # Chapter 101: Nostalgia (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/101.txt` — `efce896878033b37c07d419a5533ea538fa601bf`. Recovered English Chapter 100 is the verified shifted secondary witness. This chapter deliberately reprises the cliff-impact / Madam-death sequence from the preceding family before moving into the rescue endpoint; the repetition is source-level and is not removed as duplication. Established terminology controls **Madam Eight-Legs**, **Bog Salamander**, **Bone-Sucking Mosquito**, **Beelzebub**, **Venom — Madam Eight-Legs (S)**, **Silent Heel — Mushuhushu (A+)**, **Super High-Speed Regeneration — Bog Salamander (A+)**, **Aiyen**, and **Bakira**.
+> Chinese-primary reconstruction from `source/chinese/chapters/101.txt`. Recovered English Chapter 100 is the verified shifted secondary witness. This chapter correctly owns the landing-impact / Madam-death / Venom-acquisition / rescue material that had historically been misplaced at the end of target100. Established terminology controls **Madam Eight-Legs**, **Bog Salamander**, **Bone-Sucking Mosquito**, **Beelzebub**, **Venom — Madam Eight-Legs (S)**, **Incinerate — Cerberus (A+)**, **Silent Heel — Mushuhushu (A+)**, **Super High-Speed Regeneration — Bog Salamander (A+)**, **Aiyen**, and **Bakira**.
 
-POP.
+POP!
 
-The bloated salamander carcass burst under Vikir.
+The sound of something enormous bursting like a balloon echoed across the jungle.
 
-The impact still tore through him.
+For an instant—
 
-Head.
+Vikir's consciousness blanked.
 
-Ribs.
+The impact of the fall tore through every part of his body.
 
-Bones.
+But once again—
 
-Muscle.
+the seasoned hound avoided death by a hair.
 
-Organs.
+His mind snapped back.
 
-Blood vessels.
+He clenched his teeth and endured the shock.
 
-A normal person would have died several times over.
+First—
 
-Vikir did not.
+the outside.
 
-The boneless Bog Salamander had softened the landing just enough.
+Vikir checked his limbs.
 
-And its regenerative power now lived inside Beelzebub.
+Still attached.
 
-Black steam rose.
+That alone was good news.
 
-Broken bone rejoined.
+Then—
 
-Torn flesh closed.
+the inside.
 
-Organs repaired.
+“…Better than expected.”
 
-Vikir forced himself upright.
+His skull was cracked.
 
-The smell was worse than the pain.
+Every rib was broken.
 
-The salamander carcass had exploded around him.
+Other bones had fractured as well.
 
-Rot.
+Both legs bent in directions they were never meant to bend.
 
-Blood.
+Muscle had ruptured.
+
+Internal organs had been damaged.
+
+Blood vessels had burst.
+
+For an ordinary person—
+
+that would have been enough to die several times.
+
+For Vikir—
+
+it was survivable.
+
+The Bog Salamander's soul trapped in Beelzebub could repair this much.
+
+Sssssss—
+
+Black steam began rising.
+
+Bone aligned.
+
+Muscle pulled itself together.
+
+Organs stabilized.
+
+He remained in agony—
+
+but he lived.
+
+Vikir looked beneath himself.
+
+The “cushion” that had saved him was the Bog Salamander.
+
+Or what remained of it.
+
+After the Bone-Sucking Mosquito swarm stripped away its skeleton, the creature had been reduced to thick skin filled with blood, flesh, and soft organs.
+
+It had still been alive when Vikir began climbing Madam's mountain.
+
+Sometime during the fight—
+
+it died.
+
+Then decomposition filled the tough hide with gas.
+
+The corpse swelled.
+
+And Vikir had fallen directly onto it.
+
+Of course—
+
+the impact had not disappeared.
+
+Falling onto water from enough height could still kill.
+
+Falling onto a gas-bloated monster corpse was not much better.
+
+Vikir forced himself upright through the pain.
+
+“At least there were no bones left.”
+
+If the salamander still had a rigid skeleton inside that body—
+
+the landing would have been far worse.
+
+Ironically, the Bone-Sucking Mosquitoes had made the corpse soft enough to save him.
+
+Then another problem arrived.
+
+The smell.
+
+The collision had burst the dead salamander open.
 
 Gas.
 
-Soft tissue.
+Rotten organs.
 
-He would need days of bathing if he survived long enough to care.
+Blood.
 
-That could wait.
+Half-liquefied flesh.
 
-Madam Eight-Legs lay farther away on bare rock.
+Everything sprayed outward.
 
-Almost unrecognizable.
+The creature had smelled foul even while alive.
 
-Her exoskeleton had burst.
+Now—
 
-Vital organs spilled outside her body.
+after death and decomposition—
 
-Legs bent in impossible directions.
+the stench was indescribable.
 
-Pieces of skull and brain had been destroyed.
+*If I get out of this alive, I may need to soak in a bath for several days.*
 
-Still—
+But that was not important.
 
-she moved.
+Something else was.
 
-Vikir walked toward her.
+“…”
 
-Madam backed away.
+Vikir turned.
 
-The ancient monster that had terrorized the floodlands for generations trembled.
+Farther away, on harder rock—
 
-“Afraid?”
+a massive heap of ruined flesh lay twitching.
 
-She could not answer.
+Madam Eight-Legs.
 
-“You're afraid of dying too?”
+Even an S-rank monster had not endured the fall intact.
 
-Madam tried to crawl away.
+She had already been injured in the attack on Ballak's village.
 
-Vikir reached her.
+Then Vikir's fight had made everything worse.
 
-Beelzebub entered a crack in the shattered shell.
+Now her exoskeleton had shattered.
 
-Again.
+Liver.
 
-Again.
+Lungs.
 
-Again.
+Heart.
 
-He no longer had strength for proper swordsmanship.
+Other vital organs.
 
-Body weight was enough.
+Many of them were exposed or spilled outside the body.
 
-Each thrust reduced her resistance.
+Legs twisted at grotesque angles.
 
-Then her soul began to move.
+Her skull was cracked.
 
-Toward Beelzebub.
+Pieces of brain had been torn apart.
 
-> **Beelzebub**  
+And yet—
+
+Madam was still alive.
+
+Her half-destroyed body shook.
+
+Slowly—
+
+painfully—
+
+she pulled herself upright.
+
+Viscera dragged beneath her.
+
+Vikir began walking.
+
+Step.
+
+Step.
+
+Madam saw him.
+
+And trembled.
+
+Even the “god” of the floodlands—
+
+the thing native tribes had feared like fate itself—
+
+understood death when it approached.
+
+The fear that moved through her was primitive.
+
+Pure.
+
+So deep it seemed to rise from beneath the exoskeleton.
+
+Vikir's red eyes stayed fixed on her.
+
+“…Afraid?”
+
+[…]
+
+“Afraid to die too?”
+
+A dry smile twisted across his mouth.
+
+Inside Madam's shattered skull—
+
+the remaining fragments of brain recoiled.
+
+Her exposed heart beat harder against the broken ribs.
+
+Madam was old.
+
+Intelligent.
+
+Her memory was strong.
+
+And now Vikir's image burned itself into what remained of that memory.
+
+Flickering vision.
+
+Approaching terror.
+
+Death.
+
+A hound walking toward her.
+
+A **death hound**.
+
+[Skree…]
+
+The sound that escaped her was weak.
+
+Almost like an infant's cry.
+
+Madam stumbled backward.
+
+She tried to flee.
+
+The ruptured silk sac dragged and leaked behind her.
+
+She did not care.
+
+Only distance mattered.
+
+Vikir staggered after her.
+
+Then thrust Beelzebub into a crack in her broken back armor.
+
+THRUST!
+
+The blade sank deep.
+
+Madam shuddered.
+
+Her movements were not attacks anymore.
+
+Only attempts to escape.
+
+THRUST!
+
+THRUST!
+
+THRUST!
+
+Vikir kept stabbing.
+
+He had almost no strength left for proper swordsmanship.
+
+So he used body weight.
+
+Lean.
+
+Drive.
+
+Pull.
+
+Repeat.
+
+Little by little—
+
+Madam weakened.
+
+*Karma.*
+
+Vikir thought of the Ballak warriors she had killed.
+
+Then the dead of other jungle tribes.
+
+All the people swallowed, poisoned, crushed, or left to rot over years and years.
+
+It almost felt as if those dead were pressing down on his wrist with him.
+
+Madam had grown strong by consuming countless lives.
+
+Now—
+
+those lives seemed to be dragging her toward the abyss.
+
+Gulp.
+
+Gulp.
+
+Gulp.
+
+Madam's soul began flowing into Beelzebub.
+
+> **Fly of Gluttony ‘Beelzebub’ / Awl**  
 > **Slot 1:** Incinerate — Cerberus (A+)  
 > **Slot 2:** Silent Heel — Mushuhushu (A+)  
 > **Slot 3:** Super High-Speed Regeneration — Bog Salamander (A+)
 
-Three A+ spirits occupied the jewels.
+Three powerful A+ souls occupied the three jewels beneath the blade.
 
-Madam's S-rank soul entered the balance.
+They had held one another in a tense balance.
 
-It moved toward the first slot.
+Madam's arrival broke it immediately.
 
-Cerberus bared its teeth.
+Her S-rank soul pushed toward the first jewel—
 
-The old hostility remained.
+the slot occupied by Cerberus.
 
-Madam had once driven Cerberus from its territory in life.
+[Grrrrrr…]
 
-Now—
+The Cerberus spirit bared its teeth.
 
-even as a spirit—
+It remembered.
 
-she did it again.
+While alive—
 
-> **Beelzebub**  
+Madam had taken its territory and driven it to the Seventh Ridge.
+
+Death had not erased that humiliation.
+
+But the hierarchy of spirits was not so different from the hierarchy of the living.
+
+Madam had been stronger then.
+
+She was stronger now.
+
+[SKREE! SKREE!]
+
+The S-rank soul forced Cerberus out.
+
+Just as she had stolen its territory in life—
+
+she stole its place in death.
+
+> **Fly of Gluttony ‘Beelzebub’ / Awl**  
 > **Slot 1:** Venom — Madam Eight-Legs (S)  
 > **Slot 2:** Silent Heel — Mushuhushu (A+)  
 > **Slot 3:** Super High-Speed Regeneration — Bog Salamander (A+)
 
 The first slot changed owners.
 
-Black poison entered Vikir's blood.
+The passive ability Vikir received was **Venom**.
+
+Madam's murderous toxicity—
+
+condensed into a skill.
+
+Black poison entered Vikir's body.
+
+Mixed into his red blood.
 
 It did not harm him.
 
-For most other beings—
+But to almost anyone else—
 
-it would be lethal.
+even a tiny amount could be fatal.
 
-Madam still crawled.
+Meanwhile—
 
-Part of her soul was gone.
+Madam was still moving.
 
-Her broken brain nevertheless retained enough function to keep fleeing.
+Still fleeing.
+
+Part of her soul had already become Beelzebub's prey.
+
+Yet enough consciousness remained for the ruined body to crawl.
+
+Perhaps the reason was simple.
+
+Her brain had been broken into too many surviving fragments to shut down cleanly.
 
 Vikir tried to keep Beelzebub buried in her back.
 
-His body stopped obeying.
+His arms stopped responding.
 
-No food.
+His sight blurred.
 
-No sleep.
+He had climbed the cliff without eating.
 
-Repeated full-body regeneration.
+Without sleeping.
 
-Aura that had burned through his blood vessels.
+He had reconstructed his body almost completely more than once.
 
-He had reached the limit.
+His aura had burned through blood vessels all over him.
 
-Then barking came through the darkness.
+A normal swordsman would already have died—
 
-Vikir barely understood it.
+or survived as a cripple.
+
+Then—
+
+woof.
+
+Woof-woof.
+
+The sound reached him through fading consciousness.
 
 *Wild dogs?*
 
-He fell across Madam's ruined body.
+Even in that state, the thought was absurd.
 
-Darkness.
+What creature would willingly approach a place still saturated with Madam's deadly poison?
 
-Faces rose and sank behind his eyelids.
+But Vikir no longer had enough awareness to reason it out.
 
-People from Baskerville.
+His body finally gave up.
 
-Underdog City.
+THUD.
 
-Ballak.
+He collapsed across Madam's ruined form.
 
-Quovadis.
+…
+
+Sleep came.
+
+Perhaps for a long time.
+
+Perhaps only a moment.
+
+Faces surfaced in the dark behind his eyelids.
+
+People he had watched die during the Age of Destruction.
+
+People he had met after returning.
 
 Chihuahua.
 
@@ -198,40 +472,82 @@ Dolores.
 
 Barrymore.
 
-Hugo.
+Faces from Baskerville.
 
-Ah'Heman.
+From Underdog City.
 
-Then something warm touched his cheek.
+From the floodlands.
+
+From Quovadis.
+
+Disconnected.
+
+Rising and sinking one after another.
+
+Hugo was there too.
+
+So was Ah'Heman.
+
+Then—
+
+“…!”
+
+Vikir suddenly regained consciousness.
+
+How much time had passed?
+
+Days?
+
+Hours?
+
+Minutes?
+
+Seconds?
+
+A blurry figure hovered above him.
+
+His vision cleared slightly.
+
+Something warm touched his cheek.
 
 A tongue.
 
-Vikir opened his eyes.
-
 Bakira.
 
-Beside the wolf—
+The wolf stared down at him.
+
+Beside Bakira—
+
+another familiar face.
 
 Aiyen.
 
-She looked ready to cry.
+She sat next to Vikir looking as though she might burst into tears at any second.
 
-“Vikir!”
+“Vikir! You're awake!”
 
-Voices gathered.
+Her mouth moved quickly.
 
-“He's awake!”
+“Can you see me? Hey! Ahun! Over here!”
 
-“Get medicine!”
+Other voices joined.
 
-“Wash off the poison!”
+“Vikir! He's alive! Get medicine!”
 
-“Take him back!”
+“Wash the poison off first!”
 
-The world remained distant.
+“Hurry! Get him back to the village!”
 
-Vikir looked at the familiar faces around him.
+The world itself was almost silent.
 
-*Is this a dream?*
+Aiyen's mouth seemed to move too slowly.
 
-Then darkness returned.
+His vision twisted.
+
+Familiar faces crowded closer.
+
+*…Is this a dream?*
+
+With that thought—
+
+Vikir lost consciousness again.
