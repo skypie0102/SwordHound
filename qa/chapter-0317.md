@@ -1,19 +1,23 @@
 # Chapter 317 QA — Surplus Man (4)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/surplus-man-0314-0320.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/317.txt` — `0c9d607a25df08e4c7ea7855ac02a280b4dd056c`
 - English witness: **E315** — `26ddec821179c46aeef098d474352537f68d40a7`
-- Draft: `manuscript/drafts/chapter-0317.md` — `699184a6fb829b3ff4cc39752c319beffa1741eb`
+- Rebuilt draft: `manuscript/drafts/chapter-0317.md` — `338766c8b3e590630e63a8eb0269408e24457472`
 
-## Checks
-- PASS — Vikir’s volunteer offer is genuine as bait for his plan, not a suicidal intent.
-- PASS — Vikir warns that noble-faction students had discussed using corpses, weakening their social control over the survivor group.
-- PASS — Vikir declares he will catch the Daylily alone and demonstrates enough reduced strength to make students consider Sword Master-level outside power.
-- PASS — Required trade is Random Boxes/candies/items; tower-external promises or money are rejected as irrelevant.
-- PASS — Granola voluntarily hands over his Random Box because he trusts Vikir as a friend.
-- PASS — Granola’s box is a Mimic; Vikir survives its bite without injury and accepts the intent rather than blaming Granola.
-- PASS — Vikir’s final request for ‘one human body’ is source-timed here and remains unexplained until later.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/item forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Historical draft compressed Vikir's reputation context, noble-faction exposure, trust/betrayal safeguards, Granola Mimic scene, and full “one human body” requirement.
+- PASS — students know Vikir as a highly visible first-year prodigy who also embarrassed both major factions at auction.
+- PASS — Vikir exposes the noble faction's corpse-use discussions, causing non-nobles to distance themselves and weakening Gordon's control.
+- PASS — Vikir's promise is not merely to volunteer; he says after that there is a method by which **no one else dies**.
+- PASS — Vikir declares he will kill the Daylily and demonstrates tower-reduced physical power by cracking/destroying clock-tower masonry.
+- PASS — required price is every Random Box, candy, and other box item.
+- PASS — students who consume candies after the demand are excluded from Vikir's arrangement; Vikir deliberately does not explain his full plan.
+- PASS — anti-betrayal protocol is explicit: boxes placed behind Vikir, students farther back, both sides retaining an escape/recovery option.
+- PASS — Granola is the first to contribute voluntarily “because we're friends.”
+- PASS — Granola's Random Box is a Mimic; Vikir's wrist is unharmed and he accepts the intent rather than blaming Granola.
+- PASS — final demand is “one human body,” explained as necessary because the severely dehydrated Daylily's tissue is too hard to damage.
+- PASS — Vikir says he will decide how the body requirement is handled; the falling pillar reminds students he is still ~100× weakened, prompting Sword Master speculation.
