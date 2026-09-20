@@ -2,9 +2,9 @@
   "checkpoint_date": "2026-09-20",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 500,
+  "accepted_chapters": 496,
   "staged_chapters": 0,
-  "next_chapter": null,
+  "next_chapter": 85,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -13,7 +13,14 @@
     ],
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
-  "next_title_family": null,
+  "next_title_family": {
+    "name": "The Illiad",
+    "range": [
+      85,
+      89
+    ],
+    "reason": "earliest title family containing priority-review chapters"
+  },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
   "chinese_raw_target_coverage": 500,
@@ -149,7 +156,6 @@
     94,
     95,
     96,
-    97,
     98,
     99,
     100,
@@ -368,10 +374,8 @@
     313,
     314,
     315,
-    316,
     317,
     318,
-    319,
     320,
     321,
     322,
@@ -472,7 +476,6 @@
     417,
     418,
     419,
-    420,
     421,
     422,
     423,
@@ -555,6 +558,9 @@
     500
   ],
   "notes": [
+    "POST-500 COMPLETENESS AUDIT ACTIVE: file coverage reached 500/500, but current editorial acceptance is 496/500 after Chapters 97, 316, 319, and 420 were directly confirmed as summary-compressed against Chinese.",
+    "Initial priority queue contains 47 ordinary one-target chapters below draft/raw byte ratio 0.60; ratio is triage only and all retained acceptances remain provisional until corpus-wide completeness review closes.",
+    "Chapter 55 is not English-only: most of its Chinese body survives appended in 054.txt; E55 supplies only the missing opening/title boundary.",
     "Project reconstruction complete: 500 / 500 accepted; 0 staged.",
     "Chapters494-495 accepted as The Day After the Apocalypse (1)-(2), mapping E492-E493.",
     "Targets496-500 accepted as Side Stories 1-5; target496 shares raw 495.txt and all side-story secondary witness material is embedded in E493.",
@@ -997,5 +1003,43 @@
     49,
     55
   ],
-  "project_complete": true
+  "project_complete": false,
+  "manuscript_files_present": 500,
+  "historical_accepted_chapters": 500,
+  "needs_rework_chapters": [
+    97,
+    316,
+    319,
+    420
+  ],
+  "current_phase": "post_500_manuscript_completeness_audit",
+  "completeness_audit": {
+    "status": "active",
+    "evidence": "qa/manuscript-completeness-audit.md",
+    "priority_review_count": 47,
+    "strong_suspect_count": 22,
+    "confirmed_needs_rework": [
+      97,
+      316,
+      319,
+      420
+    ],
+    "rule": "size ratio is triage only; direct source comparison determines pass/fail"
+  },
+  "partial_chinese_source_chapters": [
+    49,
+    54,
+    55,
+    170,
+    267,
+    284,
+    385
+  ],
+  "chapter_55_source_mode": "hybrid_overlap_054_plus_missing_opening_from_E55",
+  "reopened_needs_rework": [
+    97,
+    316,
+    319,
+    420
+  ]
 }
