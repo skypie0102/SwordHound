@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — How to Become a Wandering Knight (1)–(3) accepted
+
+**Current state:** 424 / 500 accepted; 0 staged; next Chapter 425.
+
+Completed targets **422–424** with mapping **E420–E422**.
+
+Key decisions: Tudor is the one-armed Knight of the Night; Passamonte’s coup forced him from Donquixote and cost his left arm; Bianca fled a parallel family takeover; Night Walkers sheltered both; Ark is the Saint of the Night’s refugee destination.
+
+Family QA: `qa/families/wandering-knight-0422-0424.md` — **PASS**.
+
+Next verified family: **425–429 — The Night Walkers (1)–(5)**, mapping **E423–E427**.
+
 ## 2026-09-20 — Goodbye, Nouvelle Vague (1)–(3) accepted
 
 **Current state:** 421 / 500 accepted; 0 staged; next Chapter 422.
