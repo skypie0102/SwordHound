@@ -1,5 +1,24 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Nostalgia completeness rebuild (101–104)
+
+**Audit result:** all four historical drafts were materially compressed and were rebuilt; family now **PASS**.
+
+The family also reconciles the repaired target100/101 boundary:
+- target100 ends before impact;
+- target101 begins at impact and exclusively owns the landing, Madam death, Venom acquisition, collapse, and rescue sequence.
+
+Notable restorations:
+- **101:** full Bog Salamander landing mechanics, Madam's post-fall anatomy/fear, karma framing, Cerberus-vs-Madam slot struggle, Venom acquisition, exhaustion causes, dream faces, and rescue.
+- **102:** Aiyen's three-day-and-three-night carry, Akwilla's Cold Valley report, >4,000-person gathering, Peak Sword Graduator / incomplete Seventh Fang analysis, Sword Master distinction, black egg viability, and possible future return.
+- **103:** complete Bakira husbandry context and practical assistance, nature paragraph, awkward aftermath, Vikir's reluctance to leave, and Aiyen's silent pre-dawn hesitation outside his tent.
+- **104:** full Ballak no-goodbye philosophy, Akwilla's permanent-family promise, multi-tribe sendoff, Ahun/Aheul details, Vikir's belonging/smiling reflections, Red Salt Castle/Camus/Colosseo recollection, Anubis restoration, Oxbear collar, and final Aiyen farewell.
+
+Initial priority queue now has **33 pending chapters**.
+
+Next audit family: **Attack Land (190–196)**.
+
+
 ## 2026-09-20 — Madam Eight-Legs completeness rebuild (95–100)
 
 **Audit result:** all six historical drafts had completeness or boundary-integrity problems and were rebuilt; family now **PASS**.
