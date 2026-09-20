@@ -1,7 +1,7 @@
 {
   "chapter": 91,
   "title": "The Ghosts of the Ancestors (2)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Ghosts of the Ancestors",
     "range": [
@@ -9,8 +9,8 @@
       94
     ],
     "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
-    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
-    "status": "pass"
+    "family_qa_sha": "707b090616f74e8eaf90a959cdde17d9683329e3",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/091.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0091.md",
-    "blob_sha": "07b8932b4701fff5559f9643036d2838d7e67572"
+    "blob_sha": "a6df7831bbcd6f71e0bdaca76c23e85341d43a51"
   },
   "qa": {
     "path": "qa/chapter-0091.md",
-    "blob_sha": "73b58ecd593078c570f56813425cbfd3ec7b23ae",
-    "status": "pass"
+    "blob_sha": "9bc740be38d2b59e1a098c1b31699a5b710539fa",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -57,5 +57,17 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "07b8932b4701fff5559f9643036d2838d7e67572",
+    "qa_sha": "73b58ecd593078c570f56813425cbfd3ec7b23ae"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/ghosts-ancestors-0090-0094.md"
+  }
 }
