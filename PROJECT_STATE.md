@@ -7,22 +7,26 @@
 **Current tracker state:** 496 accepted / 4 confirmed needs rework  
 **Confirmed needs rework:** 97, 316, 319, 420  
 **Project completion:** REOPENED — manuscript completeness audit active  
-**Completed audit family:** The Illiad (85–89) — rebuilt / PASS  
-**Next audit family:** The Ghosts of the Ancestors (90–94)
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94) — rebuilt / PASS  
+**Pending initial priority queue:** 41 chapters  
+**Next audit family:** Madam Eight-Legs (95–100)
 
-The production run reached all 500 target manuscript files, but post-run source comparison proved that prior acceptance did not always establish complete source coverage.
+The production run reached all 500 manuscript targets, but strict post-run source comparison proved that historical acceptance frequently established plot continuity without proving full sentence-level source coverage.
 
-The first audit family, **The Illiad (85–89)**, has now been fully re-read against Chinese. All five historical drafts were materially compressed and were rebuilt. This is important evidence that the size-ratio detector is only triage: Chapters 85–86 were not below the initial <0.60 alert threshold but still failed direct completeness review.
+Two consecutive families have now been fully audited:
+- **The Illiad (85–89):** all five historical drafts materially compressed and rebuilt; 85–86 had not been caught by the initial size threshold.
+- **The Ghosts of the Ancestors (90–94):** all five historical drafts materially compressed and rebuilt; 90–91 had not been caught by the initial size threshold.
+
+This confirms that byte-ratio triage is useful for ordering work but cannot certify completeness.
 
 Primary audit record: `qa/manuscript-completeness-audit.md`.
 
-Initial priority queue:
+Original priority queue:
 - 47 ordinary one-target chapters below draft/raw byte ratio 0.60.
-- 3 of those (87–89) have now been rebuilt and passed.
-- **44 initial-priority chapters remain pending.**
-- 22 strong <0.50 suspects remain part of the queue unless later reviewed.
-- All retained acceptances remain provisional until the whole-corpus completeness pass closes.
+- Rebuilt from that queue so far: 87–89 and 92–94.
+- **41 initial-priority chapters remain pending.**
+- The whole corpus still requires direct completeness review after the priority queue.
 
 Chapter 55 remains hybrid rather than English-only: most target-55 Chinese text survives appended in `054.txt`; E55 supplies the missing opening/title boundary.
 
-Next phase: audit/rebuild **The Ghosts of the Ancestors (90–94)**, then continue family-by-family through the priority queue, followed by a whole-corpus pass and only then complete-EPUB assembly.
+Next phase: audit/rebuild **Madam Eight-Legs (95–100)**. Chapter 97 is already a confirmed needs-rework chapter; 96–99 are in the initial priority queue. After that, continue family-by-family without stopping until a genuine blocker or corpus end.
