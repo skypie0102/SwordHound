@@ -6,46 +6,39 @@
 **Current tracker state:** 497 accepted / 3 confirmed needs rework  
 **Confirmed needs rework:** 316, 319, 420  
 **Resolved confirmed failure:** 97  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104) — rebuilt / PASS  
-**Pending initial priority queue:** 33 chapters  
-**Next target:** complete-family audit of **Attack Land (190–196)**
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196) — rebuilt / PASS  
+**Pending initial priority queue:** 31 chapters  
+**Next target:** complete-family audit of **Tuition (225–233)**
 
-## Latest completed work — Nostalgia (101–104)
+## Latest completed work — Attack Land (190–196)
 
-All four historical drafts were materially compressed and have been rebuilt.
+All seven historical drafts were materially compressed and have been rebuilt.
 
-The family also corrects a stale historical QA assumption about source repetition. After the Madam boundary repair:
-- target100 ends before impact at the Bog Salamander cushion;
-- target101 starts at impact;
-- target101 exclusively owns the landing / Madam death / Venom acquisition / collapse / rescue sequence.
+The family preserves two verified source repairs:
+- C192's final roster call names Vikir, but E190 + C193 prove the next examinee is **Pigi**.
+- C193 contains an isolated Hot Department label for Pigi; project roster continuity keeps him **Cold Department Class B**.
 
-### Key repairs
-- **101:** full impact assessment, boneless Bog Salamander cushion logic, Madam fear/death sequence, karma framing, Beelzebub spirit-slot struggle, Venom acquisition, exhaustion/dream/rescue.
-- **102:** full recovery scene, Aiyen's three-day carry, Akwilla's report, >4,000-person gathering, Peak Sword Graduator/Seventh Fang/Sword Master distinction, black egg, and Vikir's future-return thought.
-- **103:** complete Bakira husbandry sequence, nature/joining-separation paragraph, awkward Vikir/Aiyen aftermath, and Aiyen's silent hesitation outside the tent.
-- **104:** complete Ballak farewell philosophy, multi-tribe support, Ahun/Aheul details, belonging/smiling reflection, Morgue/Camus/Colosseo recollection, Anubis with Madam-web string, Oxbear collar, and final Imperial “See you again.”
+Restored material includes the full remote-golem exam mechanics, Banshee/Sadi faculty conflict, Sinclaire and Pigi exams, Pigi's one-point blade counter, Vikir's waiver and weak-point strategy, Sadi's arena manipulation, the lower-abdomen joint deduction, returning-arrow event, Sadi self-mutilation/aftermath, final standings, compensation, faction recruitment pressure, news coverage, and Cindywendy's next-Corpse lead.
 
-Family evidence: `qa/families/nostalgia-0101-0104.md`.
+Family evidence: `qa/families/attack-land-0190-0196.md`.
 
 ## Audit state
 
 Original priority queue: 47 chapters.  
-Completed priority targets: 87–89, 92–94, 96–99, 101–104.  
-Remaining initial-priority chapters: **33**.
-
+Remaining initial-priority chapters: **31**.  
 Current unresolved confirmed failures: **316, 319, 420**.
 
-Next flagged targets are 192 and 196, both inside **Attack Land (190–196)**. Audit the full seven-chapter family rather than only those two.
+The next pending priority target is **225**, inside **Tuition (225–233)**. That same family also contains priority targets **228, 230, and 231**, so audit all nine chapters together.
 
 ## Branch / PR state
 
-- Working branch: `audit/nostalgia-101-104-completeness`.
-- PR #130, **Rebuild Nostalgia Chapters 101–104 for completeness**: OPEN.
-- Madam Eight-Legs completeness PR #129: merged.
+- Working branch: `audit/attack-land-190-196-completeness`.
+- PR #131, **Rebuild Attack Land Chapters 190–196 for completeness**: OPEN.
+- Nostalgia completeness PR #130: merged.
 
 ## Exact next actions
 
-1. Merge the Nostalgia completeness branch.
+1. Merge the Attack Land completeness branch.
 2. Create a fresh branch from updated `main`.
-3. Audit **Attack Land (190–196)** in full against Chinese, not merely flagged 192 and 196.
-4. Rebuild every compressed chapter in the family, regenerate QA/provenance/acceptance, update tracker/audit state, merge, and continue directly to the next priority-containing family.
+3. Audit **Tuition (225–233)** in full, not only 225/228/230/231.
+4. Rebuild every compressed chapter, regenerate QA/provenance/acceptance, update tracker/audit state, merge, and continue directly to the next priority-containing family.

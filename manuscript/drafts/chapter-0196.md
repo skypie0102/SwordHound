@@ -1,6 +1,6 @@
 # Chapter 196: Attack Land (7)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/196.txt` — `412e1f447badbaecf027d33c2fb7e6e1e6a02c3f`. Recovered English Chapter 194 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Professor Sadi, Professor Banshee Morgue, Sinclaire, Tudor Donquixote, Highbro / Middlebro / Lowbro Le Baskerville, Granola de Leviathan, Bianca Fo Usher, Sancho Barataria, Pigi, Cindywendy, Picaresque Mask, Night Hound, and the Ten Corpses. The returning-arrow event is preserved publicly as an accident while Vikir's preceding lip line signals deliberate setup to the reader.
+> Chinese-primary reconstruction from `source/chinese/chapters/196.txt`. Recovered English Chapter 194 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Professor Sadi**, **Professor Banshee Morgue**, **Sinclaire**, **Tudor Donquixote**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Granola de Leviathan**, **Bianca Fo Usher**, **Sancho Barataria**, **Pigi**, **Cindywendy**, and the Night Hound / Ten Corpses thread. The returning-arrow event remains publicly interpreted as an accident; Vikir's preceding lip line preserves deliberate reader ambiguity.
 
 *Blinded by anger.*
 
@@ -8,138 +8,144 @@
 
 Sadi read Vikir's lips.
 
-Her eye widened.
+Her eye opened wide.
 
-Pop.
+Then—
 
-Left-side vision—
+POP!
 
-gone.
+Left-side vision vanished.
 
 “Aaaaaagh!”
 
-The scream crossed the entire arena.
+Her scream echoed through the entire arena.
 
-Burning pain—
+The left side of her face burned with tearing pain.
 
-through her face.
+And yet—
 
-The golem's face—
-
-untouched.
+the golem's face remained perfectly intact.
 
 No arrow.
 
 No damage.
 
-Sadi reached toward her own eye.
+“…?”
 
-Warm liquid.
+“…?”
+
+“…?”
+
+Sadi reached toward her own face.
+
+Her fingers found—
+
+hot liquid.
 
 Blood.
 
-And—
+And where the eye should have been—
 
 a thick arrow shaft.
 
-Embedded directly in her left eye.
+An arrow was buried deep in Sadi's left eye.
 
-The arena—
-
-went silent.
+The audience went silent.
 
 Then—
 
-“What happened!?”
+“What just happened!?”
 
-“An arrow!”
+“The wind changed!”
 
-“Where did it come from?”
+“An arrow suddenly came back!”
 
-“Wait…”
+“Wait—wasn't that one of Vikir's shots from the start of the match?”
 
-“Wasn't that one of Vikir's early shots?”
-
-“The one the wind carried away?”
+“The one that flew away?”
 
 “No way.”
 
-“The wind changed.”
+“How could it come back now?”
 
-“It came back?”
+“It rode the wind out, then the direction changed and sent it back!”
 
-“That can't happen.”
+“That's impossible!”
 
-Yet—
+“What kind of luck is that!?”
 
-something unprecedented had happened.
+An unprecedented accident had happened.
+
+Students had been injured in exams before.
 
 A professor—
 
-injured during a student exam.
+never like this.
 
-Other faculty stared.
+Faculty stared in disbelief.
 
-“I've seen students hurt.”
+“I've seen students get hurt.”
 
 “Never an examiner.”
 
-“And Sadi…”
+“And Professor Sadi of all people…”
 
-Someone coughed.
+One professor coughed.
 
 “Karma.”
 
-“Don't say that about a colleague.”
+“Hey!”
+
+“A colleague has been injured.”
+
+“That's too far.”
 
 “Should Vikir be disciplined?”
 
-“For what?”
+“Why?”
 
 “He didn't aim at her.”
 
-“That was wind.”
+“This was wind.”
 
-“An accident.”
-
-Officially—
-
-that was the explanation.
+“A natural accident.”
 
 Early in the match—
 
-Vikir had fired several arrows that appeared to miss because of wind.
+Vikir had fired several arrows that appeared to miss.
 
-One had risen far from the arena.
+One had ridden the wind high and far away.
 
-Then—
+Eventually—
 
-after the wind shifted—
+the current circled.
 
-returned.
+The direction shifted.
+
+And the arrow returned.
 
 At the worst possible moment.
 
 Sadi—
 
-fixated on Vikir and the golem—
+focused completely on Vikir and the remote golem—
 
-never saw it.
+never noticed it descending.
 
-Her own anger—
+Her anger and fixation had narrowed her field of awareness.
 
-narrowed her vision.
+Officially—
 
-Then—
+that was the explanation.
 
-ding.
+DING!
 
-The examination ended.
+The test ended.
 
-> **Cold Department — Class B — No. 256**
->
-> **Vikir**
->
+The score window appeared.
+
+> **Cold Department — Class B — No. 256**  
+> **Vikir**  
 > **Examiner: Professor Sadi**
 >
 > Effective Hits: 2  
@@ -149,261 +155,323 @@ The examination ended.
 >
 > **Total: 40**
 
-Two effective hits—
+Two effective attacks.
 
-two points.
+Two points.
 
-Twenty-eight dodges—
+Twenty-eight successful dodges.
 
-twenty-eight.
+Twenty-eight points.
 
-One critical—
+One critical hit.
 
-ten.
+Ten.
 
 Forty.
 
-The system had counted Sadi's injury.
+The system had counted the attack on Sadi.
 
-Because her control of the golem—
+The injury made the examiner unable to continue controlling the golem.
 
-ended immediately.
+From the magical grading system's perspective—
 
-In practical terms—
+that qualified as a critical.
 
-the opponent had become unable to continue.
+The result was awkward.
 
-A critical hit.
+It was an actual bodily injury to a professor.
 
-The highest score of the year.
+But the system had already recorded it.
 
-Against Sadi.
+No student in Colosseo's long history had ever injured the professor during this exam.
 
-Professors argued.
+And Vikir had just done it against Sadi.
 
-“Do we count it?”
+Forty—
 
-“The system already did.”
+the highest score in the year.
 
-“But then future students may try to target examiners.”
+Professors stared at the window and argued.
+
+“He was only focused on surviving in front of him.”
+
+“Who could predict an arrow would come back?”
+
+“The wind changed at exactly the wrong moment.”
+
+“She brought it on herself by over-testing him.”
+
+“So what do we do with Vikir's score?”
+
+“What do you mean?”
+
+“The system already says forty.”
+
+“But if we keep the critical-hit points—
+
+won't future students deliberately try to attack examiners?”
 
 “From that distance?”
 
-“Through separate control spaces?”
+“Across separate control grounds?”
 
-“No.”
+“That's not realistic.”
 
-“This was an accident.”
+“This was just freak bad luck.”
 
 “No precedent.”
 
-No agreement—
+“No guideline.”
 
-except one.
+Faculty opinions split.
 
-Publicly—
+Keep the critical.
 
-accident.
+Remove the critical.
 
-Tudor had a simpler interpretation.
+But on one point—
+
+everyone publicly agreed.
+
+It was an accident.
+
+Tudor had a much simpler interpretation.
+
+“What do you mean, what happens now?”
 
 “Vikir won!”
 
-Sancho looked at him.
+Sancho frowned.
 
-“This isn't technically a win-or-lose match.”
+“This isn't technically a win-or-lose exam.”
 
-“Who cares?”
+“You just collect points for a fixed time.”
 
-“Sadi got hit.”
+“Who cares!”
+
+Tudor grinned.
+
+“Sadi got hit!”
 
 Pigi—
 
-face wrapped in bandages—
+face still wrapped—
 
-smiled.
+looked satisfied.
 
-Bianca exhaled.
+Bianca released a breath.
 
-Sinclaire—
+Even the normally gentle Dolores felt relief.
 
-still pale—
+An arrow through someone's eye was objectively terrible.
 
-looked relieved.
+But Sadi had nearly blinded Pigi on purpose.
 
-Dolores too.
+And had broken promising students for years.
 
-An arrow through Sadi's eye—
+Somehow—
 
-should have felt excessive.
-
-Yet Dolores remembered—
-
-Pigi's almost-destroyed eye.
-
-The students traumatized before him.
-
-It did not feel entirely undeserved.
+the punishment did not feel excessively cruel.
 
 Then Banshee's voice thundered.
 
 “Enough!”
 
-“All examinations stop.”
+“All examinations stop!”
 
-He entered the arena with healing specialists.
+He entered the arena with professors specializing in healing.
 
 “Vikir.”
 
-“Your test is over.”
+“The test is over.”
 
 “You may leave.”
 
-Vikir nodded.
+Vikir gave a small nod.
 
-No argument.
+Nothing more.
 
-Medical staff moved toward Sadi.
+Under Banshee's command—
 
-Banshee approached her.
+every active examination in the enormous training complex halted.
+
+White-clad medical staff began hurrying toward the professor control area.
+
+Most medics had been stationed near the students.
+
+It took time to cross.
+
+Banshee approached Sadi.
+
+She was crouched on the ground.
 
 “Professor Sadi.”
 
-“Accept treatment.”
+“Receive treatment.”
 
-“Perhaps this incident will teach you—”
+“Perhaps this incident will teach you not to behave so arrogantly in the future—”
 
-“Heh.”
+He stopped.
 
-Banshee stopped.
+“Heh…”
 
 Sadi was laughing.
 
-Blood ran between her fingers.
-
 “Hehehe…”
 
-Then she removed her hand.
+Blood flowed between her fingers.
 
-The arrow—
+She moved the hand away.
 
-still in the eye.
+Banshee's brow furrowed.
 
-Flesh torn around it.
+The sight was ugly.
 
-Banshee's expression changed.
+Arrow shaft buried through the eye.
 
-“Sadi.”
+Torn tissue.
 
-“Treatment.”
+Blood pouring around it.
+
+“Professor Sadi.”
+
+“Get treatment now.”
 
 Then—
 
-his face went white.
+“…What!?”
 
-Sadi grabbed the shaft.
+Banshee's face went pale.
+
+So did the students.
+
+The professors.
+
+The spectators.
+
+“What is she doing!?”
+
+“Is she insane!?”
+
+“Oh my god…”
+
+Sadi grabbed the arrow.
 
 Pulled.
 
-Wet tearing.
+SPLRT!
 
-The arrow came free—
+The shaft came free.
 
-with the ruined eye still pierced on the arrowhead.
+The eye came with it.
 
-Students screamed.
+Still pierced on the arrowhead.
 
-Professors froze.
+She had ripped out her own eye.
 
-Medical staff—
+Then—
 
-stopped.
+before anyone could react—
 
 Sadi opened her mouth.
 
-Bit down.
+Sharp teeth closed around the eyeball.
 
-Chewed.
+CRUNCH.
 
-Crack.
+CRACK.
 
-Wet.
+Wet chewing echoed loudly enough for nearby spectators to hear.
 
-Horrible.
+No one moved in time to stop her.
 
-Then swallowed.
+Sadi swallowed.
+
+Then smiled.
 
 “This eye came from my grandfather.”
 
-“Wasteful to throw it away.”
-
-Even Banshee—
-
-had no immediate answer.
+“What a waste it would be to throw it away.”
 
 The medics backed away.
 
-Sadi looked toward Vikir with her remaining eye.
+Even Banshee stood there with his mouth half open.
 
-He was already leaving.
+Sadi looked at the healers.
 
-Not watching her.
+“I don't need you.”
 
-Not caring.
+Then her remaining eye rolled toward the arena exit.
 
-As though the entire exchange—
+Vikir was already leaving.
 
-was finished.
+He did not look back.
 
-Blood vessels spread through Sadi's single eye.
+He seemed no more interested in Sadi than before entering.
 
-“Hehehe.”
+As though the entire event—
+
+were finished.
+
+Blood vessels spread across Sadi's remaining eye.
+
+“Hehehe…”
 
 “Interesting.”
 
 “Very interesting.”
 
-Then she turned toward Banshee.
+She turned toward Banshee.
 
-“He's Cold Department, Class B?”
+“That brat…”
 
-“If you want to punish me over this—
+“He's Cold Department Class B, right?”
+
+Banshee said nothing.
+
+“If you're going to punish me for this—
 
 fine.”
 
 “Suspension.”
 
+“Discipline.”
+
 “Whatever.”
 
-“But the day the punishment ends—”
+Sadi smiled.
 
-“I take over Cold Department instruction.”
+“But the day the punishment ends—
 
-Every Cold Department student nearby—
+I'm taking over Cold Department instruction.”
 
-went pale.
+Every Cold Department professor and student who heard—
 
-Sadi grinned at them.
+felt a chill.
 
-With one empty eye socket.
+Sadi's voice had gained a strange enthusiasm.
 
-Then deliberately closed—
+Almost obsession.
 
-the remaining eye.
+Then—
 
-“Oh.”
+she faced the terrified crowd.
+
+Closed her remaining eye.
+
+Opened it again.
+
+“Ah.”
 
 “That was a wink.”
 
-“Didn't you know?”
+“You didn't know?”
 
-Impossible woman.
+An impossible woman.
 
 ◆◆◆
 
-Midterms—
-
-ended.
+The long midterm examination finally ended.
 
 Defense.
 
@@ -411,181 +479,213 @@ Attack.
 
 Written.
 
-Weighted—
+Their weights were:
 
-50.
+- **Defense:** 50%
+- **Attack:** 40%
+- **Written:** 10%
 
-40.
+When the combined ranking appeared—
 
-10.
+everyone was surprised.
 
-Then final standings appeared.
+> **1st — Vikir**  
+> **2nd — Sinclaire**  
+> **3rd — Tudor Donquixote**  
+> **4th — Highbro Le Baskerville**  
+> **5th — Granola de Leviathan**  
+> **6th — Bianca Fo Usher**  
+> **7th — Middlebro Le Baskerville**  
+> **8th — Sancho Barataria**  
+> **9th — Lowbro Le Baskerville**  
+> …  
+> **199th — Pigi**
 
-> **1. Vikir**
->
-> **2. Sinclaire**
->
-> **3. Tudor Donquixote**
->
-> **4. Highbro Le Baskerville**
->
-> **5. Granola de Leviathan**
->
-> **6. Bianca Fo Usher**
->
-> **7. Middlebro Le Baskerville**
->
-> **8. Sancho Barataria**
->
-> **9. Lowbro Le Baskerville**
->
-> …
->
-> **199. Pigi**
+Students who had lost large amounts of Attack score because they drew Sadi as examiner—
 
-Students examined by Sadi—
+somehow recovered points.
 
-received score restoration.
+Strange bonuses appeared in their written results.
 
-Not openly labeled that way.
+The written exam weighed only ten percent.
 
-But strange bonus points appeared in their written totals.
+Still—
 
-Enough to compensate for the unfair Attack results.
+enough to change standings.
 
-Pigi.
+It was the faculty's discreet compensation for an unfair Attack test.
 
-Sinclaire.
-
-Sancho.
-
-Others.
-
-One student—
-
-received no such adjustment.
+There was one student examined by Sadi who received no adjustment.
 
 Vikir.
 
-There was nowhere to add more.
+There was nowhere to put the extra points.
 
-His free-research paper had already produced a field-shaking result.
+His free-research paper had already produced a result significant enough to disrupt monster scholarship.
 
-His Defense performance—
+Defense—
 
-strong.
+above-average to exceptional.
 
-His Attack score—
+Attack—
 
-forty.
+forty points against Sadi.
 
-His role in resolving the barrier disaster—
+He had also earned recognition for resolving the barrier malfunction.
 
-publicly celebrated.
+For carrying the Defense test through the crisis.
 
-So Vikir—
+For the bizarre critical against Sadi.
 
-became first in the year.
+So—
+
+Vikir became first in the entire year.
 
 Exactly what he had not wanted.
 
-He had planned—
+His plan had been modest.
 
-moderate written performance.
+Perform appropriately on the written test.
 
-Low attention.
-
-Controlled visibility.
+Avoid attention.
 
 Instead—
 
-Baby Madam caused the Defense disaster.
+Baby Madam disrupted Defense.
 
-Sadi caused the Attack disaster.
+Sadi disrupted Attack.
 
-Variables.
+Variables kept appearing.
 
-Too many.
+Vikir treated the result as evidence that his planning had been insufficiently thorough.
 
-Vikir took the result—
+Everyone else—
 
-as evidence that his planning had not been thorough enough.
-
-The other students—
-
-saw something else.
+saw a new star.
 
 “Vikir!”
 
-“You were hiding this much strength?”
+“I really saw you differently this time.”
 
-“I thought you were only a brain.”
+“I honestly thought you were only smart.”
 
-“Come to a mixer with Temisquira students!”
+“Didn't know you were physically insane too.”
 
-“Join our study group!”
+“Want to go to a mixer with Temisquira Women's Academy?”
+
+“If you come, we'll have confidence.”
+
+“Mana, combat sense, monster knowledge—you have everything.”
+
+“You're good with your head and body. Life must be easy.”
+
+“Hey.”
+
+“That's obvious flattery.”
+
+“You weren't even close to Vikir before.”
+
+“Go back to your seat.”
+
+“Look who's talking!”
+
+“You're here too.”
+
+“I want the seat next to Vikir.”
+
+“Not for sale.”
+
+“Not even for money.”
+
+“Interested in a study group?”
+
+“Ours has good families and good grades.”
+
+“Drink this while studying.”
+
+“You were really cool yesterday~”
 
 “Who are you eating lunch with?”
 
+“If no one, come with me.”
+
 “Professors are talking about your paper.”
 
-“Senior noble-faction students are asking for you.”
+“Go to the faculty office and listen.”
 
-“Power-family seniors too.”
+“Vikir!”
 
-Vikir frowned.
+“Noble-faction seniors are looking for you!”
+
+“I saw the powerful-house faction looking too!”
+
+Voices came from every direction.
+
+Vikir frowned slightly.
 
 Then—
 
-“Back off.”
+“What's with this crowd?”
 
-Highbro pushed into the crowd.
+“Want to die?”
 
-“Cold Department Class B's star is me.”
+A vicious-looking boy shoved through.
 
-“Stop flattering some commoner.”
+**Highbro Le Baskerville.**
 
-“Or I'll kill you.”
+He bared his teeth.
 
-Fourth overall.
+“I'm the star of Cold Department Class B.”
 
-Baskerville name.
+“So don't let me catch you sucking up to some commoner brat.”
 
-Killing intent.
+“I'll kill you.”
+
+The threat was blatant.
+
+Highbro had ranked fourth overall.
+
+And he carried the Baskerville name.
+
+Almost no ordinary student wanted to challenge that pressure.
 
 The crowd dispersed.
 
-Highbro waited—
-
-until no one watched.
-
 Then—
 
-gave Vikir a tiny thumbs-up.
+once no one was watching—
+
+Highbro gave Vikir a tiny thumbs-up.
 
 *Handled.*
 
-Vikir's eyes softened almost imperceptibly.
+Vikir's gaze softened by the smallest amount.
 
-*Good.*
+*Good work.*
 
-Highbro went back.
+Highbro grinned secretly and returned to his place.
 
-Middlebro and Lowbro immediately attacked him.
+Middlebro and Lowbro immediately rounded on him.
 
-“Shameless.”
+“Shameless, hyung!”
 
-“Taking all the praise.”
+“You wanted all the praise for yourself!”
 
-“Then go earn praise yourselves.”
+“If you're jealous—
 
-The triplets—
+earn Master's praise yourselves.”
 
-now three loyal hounds—
+The three Baskerville brothers had become something like a loyal three-headed hound—
 
 waiting for Vikir's orders.
 
-They did not block everyone.
+Still—
+
+there were people they did not block.
+
+“Vikir!”
+
+“How's your body?”
 
 Tudor.
 
@@ -597,103 +697,132 @@ Pigi.
 
 Sinclaire.
 
-Friends—
-
-were allowed through.
+Friends.
 
 Tudor slapped Vikir's shoulder.
 
-“You bastard.”
+“You bastard!”
 
-“If you were this strong—
+“If you were this strong, you should've told your big brother first.”
 
-you could've told us.”
+“I worried for nothing!”
 
-“I worried for nothing.”
+Fortunately—
 
-Their attitude—
+their attitude had not changed after seeing Vikir's ability.
 
-did not change.
+Though Tudor and Sinclaire looked a little annoyed that he'd hidden so much.
 
-That mattered.
+Then Pigi remembered something.
 
-Pigi approached with a newspaper.
+“Oh!”
 
 “Vikir.”
 
-“Look.”
+“I was too busy earlier.”
 
-A recorded magic-screen article played.
+“I need to show you this.”
 
-> **[Breaking] Major Defense-Test Accident — First-Year Cold Department Student Ends Crisis**
+He held out the previous evening's newspaper.
+
+A magic-screen article played across the page.
+
+> **[Breaking] Major Accident During Defense Examination! First-Year Cold Department Student Resolves Crisis!**  
+> **Views: 50,899**
 >
-> A safety failure during the traditional first-year Defense examination escalated after procedural delays among Academy staff…
+> The traditional first-year Defense examination suffered a major safety incident… inadequate safety awareness escalated the situation… delays and responsibility-shifting among professors worsened the crisis… one male first-year suddenly stepped forward to save the others… the main cause of the disturbance included the unauthorized absence of the professor holding a magic-barrier key… footage attached below shows first-year hero Vikir repelling the one-eyed monster…
+
+The comments were worse.
+
+> **Cold Department, 1st year:** Whoa;;; watching him tear the one-eyed monster apart;;; that's… really hot… insane…
 >
-> One first-year student entered the danger zone and rescued classmates…
+> **Hot Department, 2nd year:** This is him… that one… yes… my husband☆
 >
-> The incident was traced in part to the unauthorized absence of the professor holding one of the barrier keys…
+> **Hot Department, 1st year:** Name is Vikir? Isn't that a common name anyway?
 >
-> Video of first-year hero Vikir fighting through the crisis has spread rapidly…
+> **Hot Department, 4th year:** Running into the one-eyed monster nest for his friends was actually legendary.
+>
+> **Hot Department, 2nd year:** Heard second-year noble faction and powerful-house faction are already fighting over recruiting him lol
+>
+> **Cold Department, 2nd year:** You think the competition is only inside school?? Guilds and houses outside are going to line up after graduation lol
+>
+> **Cold Department, 3rd year:** Wait, he's really only a first-year??
+>
+> **Hot Department, 3rd year:** What he's already shown isn't first-year level lol even graduating students couldn't do that~
 
-Views—
+The recorded magic-screen clip replayed.
 
-exploding.
+Vikir—
 
-Comments—
+tearing through the crisis.
 
-worse.
+Firing arrows.
 
-Vikir pressed a hand to his forehead.
+Moving inside the barrier zone.
 
-*When did they even record this?*
+Views climbing rapidly.
+
+“…When did anyone record this?”
+
+Vikir rubbed his forehead.
 
 He was exhausted.
 
-After the midterms—
+After the midterm ended—
 
-he had already squeezed in another assassination operation.
+he had already squeezed in another assassination job.
 
-And now—
+Now—
 
-more fame.
+news coverage.
 
-Then—
+More attention.
+
+More trouble.
+
+Then a cold voice came from the corridor.
 
 “Why are upperclassmen crowding a first-year classroom?”
 
-Banshee.
+“Do you want demerits?”
 
-Cold voice.
+Students scattered.
 
-The second- and third-years in the corridor—
+Banshee was driving away second- and third-years.
 
-noble faction.
+Noble faction.
 
-power-family faction—
+Powerful-house faction.
 
-scattered.
+Unofficial student blocs made up of central aristocrats and major regional families.
 
-Those unofficial student blocs—
+Together with the student council—
 
-together with the student council—
+they effectively divided much of Colosseo Academy's internal influence.
 
-held enormous influence within Colosseo.
+They had come to recruit the newly risen first-year star.
 
-All wanted—
+But no matter how powerful they were among students—
 
-the new first-year star.
+none wanted to endure Banshee's stare.
+
+The hallway cleared.
+
+“…”
 
 Banshee entered.
 
-Immediately found Vikir—
+His eyes immediately found Vikir beside the window.
 
-dozing beside the window.
+Vikir had been dozing.
+
+The professor's voice hit him like cold water.
 
 “Vikir.”
 
 “Yes.”
 
-“Thinking with your eyes closed again?”
+“Eyes closed in deep thought again?”
 
 “Another discovery that will overturn monster scholarship?”
 
@@ -707,46 +836,72 @@ Banshee paused.
 
 “Minus one point.”
 
-The bell had rung.
+He still disliked Vikir.
+
+And now had the rule to justify it.
+
+The bell had already rung.
 
 Class had begun.
 
-Sleeping—
+Sleeping during class—
 
 violation.
 
 Tudor groaned.
 
-“Again?”
+“Banshee again.”
 
-“He always docks only Vikir.”
+“He only docks Vikir.”
 
-“At this rate he'll get forced into volunteer work.”
+“At this rate—
 
-“Festival season is coming too.”
+he's going to be forced into volunteer work again.”
 
-Vikir—
+“Things are unstable now.”
 
-barely listened.
+“Maybe they won't send him outside campus.”
 
-His thoughts were elsewhere.
+“But festival season is coming.”
 
-On the letter Cindywendy had sent the previous night.
+“Everyone else will be partying while Vikir does service work?”
+
+“That would be awful.”
+
+Tudor.
+
+Sancho.
+
+Pigi.
+
+Bianca.
+
+Sinclaire.
+
+All offered opinions.
+
+Vikir barely heard them.
+
+His thoughts were on the letter Cindywendy sent the previous night.
 
 *Information on the next Corpse has arrived.*
 
-The routine assassinations—
+The routine assassinations were over.
 
-were over.
+Now—
 
-Another true battlefield—
+another battlefield.
 
-was coming.
+Blood.
 
-While Banshee lectured—
+Flesh.
 
-Vikir closed his eyes.
+A target worth hunting.
+
+While Banshee continued lecturing—
+
+Vikir quietly closed his eyes.
 
 The Night Hound—
 
-had found its next prey.
+had fixed on its next prey.

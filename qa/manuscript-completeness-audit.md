@@ -42,8 +42,8 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 102 | Nostalgia (2) | 4906 | 9374 | 0.523 | REBUILT — PASS |
 | 103 | Nostalgia (3) | 3233 | 6029 | 0.536 | REBUILT — PASS |
 | 104 | Nostalgia (4) | 4585 | 9066 | 0.506 | REBUILT — PASS |
-| 192 | Attack Land (3) | 6531 | 10933 | 0.597 | priority review |
-| 196 | Attack Land (7) | 9981 | 16893 | 0.591 | priority review |
+| 192 | Attack Land (3) | 6531 | 10933 | 0.597 | REBUILT — PASS |
+| 196 | Attack Land (7) | 9981 | 16893 | 0.591 | REBUILT — PASS |
 | 225 | Tuition (1) | 5848 | 9940 | 0.588 | priority review |
 | 228 | Tuition (4) | 4510 | 9009 | 0.501 | priority review |
 | 230 | Tuition (6) | 4335 | 7841 | 0.553 | priority review |
@@ -84,7 +84,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 33 chapters (down from 47).  
+**Pending initial priority queue:** 31 chapters (down from 47).  
 **Next family:** Attack Land (190–196).
 
 ### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
@@ -93,7 +93,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
 
-**Pending initial priority queue:** 33 chapters.  
+**Pending initial priority queue:** 31 chapters.  
 **Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
 
 ### Madam Eight-Legs — Chapters 95–100 — REBUILT / PASS
@@ -104,7 +104,7 @@ Repairs include the full Ballak-village/altar sequence, scoped E94 restoration f
 
 **Chapter97 confirmed failure: RESOLVED.**  
 **Current unresolved confirmed failures:** 316, 319, 420.  
-**Pending initial priority queue:** 33 chapters.  
+**Pending initial priority queue:** 31 chapters.  
 **Next family:** Attack Land (190–196).
 
 ### Nostalgia — Chapters 101–104 — REBUILT / PASS
@@ -113,8 +113,16 @@ All four historical drafts were materially compressed and have been rebuilt. The
 
 Restored material includes the full Bog Salamander impact mechanics, Madam's death/karma and Beelzebub slot struggle, Aiyen's three-day rescue and the >4,000-person tribal gathering, Peak Sword Graduator/Seventh Fang analysis, Bakira husbandry sequence, Ballak's no-goodbye philosophy, complete multi-tribe farewell, Camus/Colosseo recollection, and Aiyen's Anubis/collar/farewell sequence.
 
-**Pending initial priority queue:** 33 chapters.  
+**Pending initial priority queue:** 31 chapters.  
 **Next family:** Attack Land (190–196), containing priority targets 192 and 196.
+
+### Attack Land — Chapters 190–196 — REBUILT / PASS
+
+All seven historical drafts were materially compressed, not only priority targets 192 and 196. The rebuild restores the complete attack-test mechanics, Sadi/Banshee institutional conflict, Sinclaire and Pigi examinations, Vikir's joint-targeting setup, returning-arrow sequence, Sadi aftermath, final rankings, faction attention, and Cindywendy hook.
+
+Verified raw repairs remain explicit: C192's endpoint name slip resolves to **Pigi**, and C193's isolated department-label drift does not move Pigi out of **Cold Department Class B**.
+
+**Pending initial priority queue:** 31 chapters.
 
 ## Confirmed failures
 

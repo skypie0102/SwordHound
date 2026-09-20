@@ -1,232 +1,284 @@
 # Chapter 193: Attack Land (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/193.txt` — `1b7fad2dfaa9441e47d1cd11badbf3e567432b1d`. Recovered English Chapter 191 is the verified shifted secondary witness. Canonical/project terminology controls Pigi, Tudor Donquixote, Sancho Barataria, Bianca Fo Usher, Sinclaire, Dolores L. Quovadis, Professor Sadi, Professor Banshee Morgue, Cold Department / Hot Department, and Night Hound. **Department correction:** C193's Pigi status label drifts to Hot Department; prior accepted continuity and roster placement keep Pigi in the **Cold Department**.
+> Chinese-primary reconstruction from `source/chinese/chapters/193.txt`. Recovered English Chapter 191 is the verified shifted secondary witness. Canonical/project terminology controls **Pigi**, **Tudor Donquixote**, **Sancho Barataria**, **Bianca Fo Usher**, **Sinclaire**, **Dolores L. Quovadis**, **Professor Sadi**, **Professor Banshee Morgue**, **Cold Department**, and **Hot Department**. **Department correction:** C193's Pigi score window drifts to Hot Department; prior accepted continuity and roster placement keep Pigi in the **Cold Department**.
 
-Sinclaire was carried away.
+Sinclaire was carried away with a miserable score.
 
-The Hot Department—
+The mood in the Hot Department collapsed.
 
-fell quiet.
+She had always been strong.
 
-She had always been bright.
+Bright.
 
-Reliable.
+Diligent.
 
-Hardworking.
+Without anyone deliberately choosing her—
 
-Without anyone deciding it—
+she had become the first-years' ideal.
 
-Sinclaire had become an idol among the first-years.
+Not everyone sympathized.
 
-Not everyone felt sympathy.
+A cluster of noble students watched her leave and snickered.
 
-A small group of noble students—
+“Heh.”
 
-smirked.
+“That commoner finally got crushed.”
 
-“Finally.”
+“She climbed too high.”
 
-“That commoner got knocked down.”
+“Hot Department first place should belong to someone from our noble faction.”
 
-“She never belonged at the top.”
+“She probably got all those scores by charming professors with that face.”
 
-“The Hot Department should be led by someone from a proper family.”
+Their voices were low—
 
-“Probably charmed professors with that face anyway.”
+but not low enough.
 
-Their leader—
+“Now the person who actually deserves first can return to his place.”
 
-Granola—
+“Our Granola.”
 
-did not join in.
+The leader of that noble clique—
 
-His face was stiff.
+**Granola de Leviathan**—
 
-His eyes—
+did not smile with them.
 
-followed Sinclaire.
+His expression was strangely stiff.
 
-The girl who worked constantly.
+He was staring at Sinclaire.
 
-Studied constantly.
+The commoner girl who attended everything.
 
-Never backed down because she was a commoner among nobles.
+Studied everything.
+
+Worked constantly.
+
+Ignored noble hostility.
+
+Still outperformed them.
 
 Now—
 
-hurt.
+in pain.
 
-Crying.
+And for perhaps the first time—
 
-Granola's teeth clenched.
+crying.
 
-“Enough.”
+CRACK.
 
-The people around him stopped.
+Granola ground his teeth hard enough to make them hurt.
+
+“Shut up.”
+
+The noble boys and girls around him went silent.
 
 “This wasn't fair.”
 
-Someone blinked.
+“…What?”
 
-Granola continued.
+Granola kept his eyes on Sinclaire.
 
-“Other professors will compensate her.”
+“The professors will probably compensate her somehow.”
 
-“Extra credit.”
+“Extra points.”
 
-“Attitude points.”
+“Attitude score.”
 
-“Something.”
+“Whatever they can justify.”
 
-The noble students immediately nodded.
+His followers immediately nodded.
 
 “As expected of Granola.”
 
 “Reliable.”
 
-“Still—
+“You really are fit to lead us.”
 
-the fight for first place isn't over.”
+“But we still can't relax in the fight for first.”
 
-“Now she can learn her position.”
+“We'll show that commoner her place.”
 
 Granola—
 
-still looked uncomfortable.
+did not look reassured.
 
-Then Professor Banshee's voice cut across the arena.
+Then another voice cut across the arena.
 
 “Professor Sadi.”
 
+Professor Banshee Morgue stepped forward.
+
 “I told you to stop.”
 
-He had reached his limit.
+His patience had ended.
 
-“Protecting the principal's dignity has limits.”
+“There's a limit to how far I can go in preserving the principal's face.”
 
-“So does tolerating your behavior.”
+“And there is a limit to tolerating your misconduct.”
 
-Sadi stood with her chest out.
+Sadi puffed out her chest.
+
+“Hm?”
 
 “What are you going to do?”
 
-Other professors stepped forward too.
+Other professors moved in behind Banshee.
 
-“That student was under my guidance!”
+“That student was one of mine!”
 
-“You disappear from your post whenever you feel like it!”
+“Sadi, enough!”
 
-“You misuse leave!”
+“We tolerated the barrier-key incident.”
 
-“You ruined the barrier-key response!”
+“We tolerated you using leave however you wanted.”
 
-“What kind of grading standard is this!?”
+“Disappearing from your post.”
+
+“But this?”
+
+“What kind of grading standard is this?”
+
+“You think the rest of us give points because we're soft?”
 
 Sadi bared her teeth.
 
+“You noisy bastards…”
+
+“Where do you get the nerve?”
+
 “Keep barking.”
 
-“Go on.”
+Some professors started forward.
 
-Some professors moved forward.
+Banshee raised an arm and stopped them.
 
-Banshee stopped them.
+“Idiots.”
 
-Too many students—
+He looked around.
 
-were watching.
+“Look how many students are watching.”
 
-Sadi's arrogance—
+They understood.
 
-was already public.
+Whatever happened next—
 
-Banshee's face twisted.
+would become Academy gossip before sunset.
 
-“If only you weren't descended from *that* Marquis de Sade…”
+Sadi—
 
-Then—
+meanwhile—
 
-aloud—
+stood there shamelessly.
+
+Banshee's normally waxlike face wrinkled.
+
+*If only she weren't descended from that Marquis Sade…*
+
+Then he spoke.
+
+“Fine.”
 
 “One last chance.”
 
-Sadi spat to the side.
+Sadi spat.
 
-“Don't call me by just my name.”
+“Don't call me by just my name, old man.”
 
 “If you're going to say it—
 
 use the whole thing.”
 
-Banshee's voice became cold enough to cut.
+Banshee's voice became ice.
 
-“**Professor Donatien Alphonse François Sadi de Sade.**”
+“**Professor Donatien Alphonse François de Sade.**”
 
-“If you show excessive cruelty to another student—
+“This is not a joke.”
 
-I will remove you from this examination.”
+“If you display excessive cruelty toward one more student—
 
-“Even if I have to steal the principal's seal to make the disciplinary order legal.”
+I will remove you from the midterm examination myself.”
 
-Sadi smiled.
+“If I have to steal the principal's seal to issue the disciplinary order—
 
-Said nothing.
+I will.”
 
-Then—
+Sadi's smile became unreadable.
 
-the next student entered.
+She did not answer.
+
+Then the next examinee entered.
+
+A small first-year from Cold Department Class B.
 
 **Pigi.**
 
-Cold Department.
+His sword trembled in his hands.
 
-Class B.
+Sadi glanced at it.
 
-His hands trembled around his sword.
-
-Sadi looked at him.
-
-“You're holding it wrong.”
+“Your grip is wrong.”
 
 “Are you garbage?”
 
+No whip.
+
+No strike.
+
+Only words.
+
 Pigi's body shook.
 
-He did not leave.
+He did not retreat.
 
 *I'm not a coward.*
 
-*I decided I would become a friend Vikir could be proud of.*
+*I decided I'd become a friend Vikir could be proud of.*
 
-*I can't run now.*
+*I can't back down here.*
 
-Pigi knew exactly what was likely to happen.
+Pigi was smart enough to understand his odds.
 
 Sancho—
 
-beaten bloody.
+stronger than him—
+
+had been beaten bloody.
 
 Sinclaire—
 
-crushed.
+far more talented—
 
-Pigi was weaker than either of them.
+had been crushed too.
+
+There was almost no chance Pigi would come through unharmed.
 
 Still—
 
 he did not withdraw.
 
-*This is the chance to break the shell around me.*
+He did not invoke the mid-exam surrender Dolores had suggested to Sinclaire.
 
-*To prove I have courage.*
+*This is my chance.*
 
-Boom!
+*Break the weak shell.*
 
-The thought ended—
+*Show what's underneath.*
 
-with Sadi's golem kicking him.
+BAM!
 
-Pigi bounced across the stone floor.
+The thought ended violently.
+
+Sadi's mud golem had already closed the distance.
+
+[Trash pig.]
+
+A kick hit Pigi squarely.
+
+BOOM!
+
+He bounced across stone.
 
 Once.
 
@@ -236,15 +288,13 @@ Three times.
 
 Then stopped.
 
-Covered in blood.
+Blood covered him.
 
-Even students who usually mocked him—
+The audience groaned.
 
-winced.
+Even students who usually looked down on Pigi's timid nature winced.
 
-Tudor and Sancho—
-
-did more than wince.
+Tudor and Sancho looked furious.
 
 “Damn it!”
 
@@ -252,67 +302,69 @@ Tudor clenched his fists.
 
 “I want to go up there.”
 
-Sancho's face darkened.
+Sancho's jaw tightened.
 
 “I already took that beating.”
 
-“Watching a friend take it—
+“But watching a friend take it…”
 
-is worse.”
+He looked away.
 
-Sadi began to turn away.
+Sadi started to turn.
 
-[Next.]
+[Next examinee—]
 
-Then—
+Then stopped.
 
-stopped.
+Pigi was moving.
 
-Pigi was standing.
+He pushed himself up.
 
-Barely.
-
-“…I'm not giving up.”
-
-Bruised.
+Shaking.
 
 Bleeding.
 
-Sword still in hand.
+“…I'm not giving up.”
 
-“In Defense—
+His whole body was bruised.
 
-I was mostly a burden.”
+The sword remained in his hand.
 
-“I don't want to keep being that person.”
+“In the Defense test…”
 
-He shouted—
+“I only made trouble for everyone.”
 
-and charged.
+“I don't want to keep doing that.”
+
+Pigi screamed and charged.
 
 Sadi laughed.
 
-[Then I'll roast the little pig properly.]
+[Hehehe.]
 
-The golem rushed him.
+[Then I'll roast the piglet properly.]
 
-Tudor shouted.
+The golem moved.
+
+Its pointed high heels rushed forward exactly like Sadi's.
+
+Tudor panicked.
 
 “Pigi!”
 
-“Stay down!”
+“Just stay down!”
 
-Sancho joined him.
+Sancho shouted too.
 
 “Courage and recklessness aren't the same thing!”
 
-“Giving up here is the smart choice!”
+“Giving up now is the rational choice!”
 
 Sinclaire—
 
-injured and supported nearby—
+injured nearby—
 
-watched differently.
+watched more carefully.
 
 “…No.”
 
@@ -320,105 +372,109 @@ Tudor looked at her.
 
 “What?”
 
-Sinclaire pointed.
+Sinclaire pointed with her chin.
 
 Then—
 
-everyone saw it.
+they saw it.
 
 Pigi was leading Sadi somewhere.
 
-Toward—
-
-the muddy depression Sinclaire's spells had created.
+Toward the muddy depression from Sinclaire's earlier fight.
 
 Fire.
 
 Ice.
 
-Repeated freezing.
+Freeze.
 
-Repeated thawing.
+Thaw.
 
-The golem arena—
+Freeze.
 
-full of softened pits.
+Thaw.
 
-Sadi herself stood on firm stone in the distant control space.
+The repeated spells had turned part of the golem arena into a mud pit.
 
-She could not directly feel the terrain beneath the golem.
+Sadi herself stood on solid stone in the remote control ground.
 
-Pigi moved into Sadi's visual blind spot.
+The golem—
 
-One more step—
+would experience terrain Sadi could not physically feel.
 
-and the golem should sink.
+And Pigi had moved to the exact area where her line of sight made the depression hard to judge.
+
+If the golem stepped in—
+
+it should lose balance.
+
+Then Pigi could strike.
 
 Tudor's eyes widened.
 
 “That's it!”
 
-Sancho grinned.
+“Pigi's using his head!”
 
-“Pigi's brain!”
+Sancho nodded.
+
+“It could work.”
 
 Bianca shouted.
 
-“Do it!”
+“Do it, Pigi!”
 
-Sinclaire—
+Sinclaire joined her.
 
-even wounded—
+Pigi drew Sadi toward the blind spot.
 
-cheered.
+Waited.
 
-Pigi drew the golem in.
-
-Prepared to strike the moment it lost balance.
-
-Then—
-
-[Hm?]
+Prepared the counterattack.
 
 The golem stepped into the mud.
 
 Its heel sank.
 
-And—
+Then—
 
-came free immediately.
+came out immediately.
+
+“…!?”
 
 Pigi froze.
 
-Sadi's voice—
+Sadi's voice came through the construct—
 
-sweet and dangerous—
+sweet and dangerous.
 
-came through the construct.
+[Did you think talent is all I have?]
 
-[Did you think I survive on talent alone?]
+Only then did Pigi notice the golem's heel.
 
-Pigi looked.
+More precisely—
 
-The golem's heel—
+the missing heel.
 
-was gone.
+The pointed rear spike had detached and remained buried in the mud.
 
-Left behind in the mud.
+Sadi normally walked with her toes lifted to the absolute limit—
 
-Sadi normally walked almost entirely on the balls of her feet.
+but carried almost all weight through the front of the foot.
 
-Weight forward.
+She hardly relied on the heel at all.
 
-Heel barely used.
+Years of training had turned her toes and forefoot into weapons capable of supporting tremendous force.
 
-Years of training had made her toes strong enough to support monstrous kicks.
+That was how she produced those kicks.
 
-The missing heel—
+That was how she walked in absurd shoes.
 
-changed almost nothing.
+And that was why losing the heel—
 
-Pigi reacted late.
+did almost nothing.
+
+Pigi swung late.
 
 Two seconds.
 
@@ -426,28 +482,26 @@ Against Sadi—
 
 an eternity.
 
-Boom!
+BAM!
 
-He flew out of the ring.
+The impact sent him out of the ring again.
 
-Blood everywhere.
+Blood sprayed.
+
+[An insect who gets up twice is still an insect.]
 
 Sadi turned away.
 
-[Standing twice doesn't make an insect impressive.]
-
 Then—
 
-ding.
+DING!
 
-She stopped.
+Her foot stopped.
 
-Pigi's score appeared.
+Pigi's result appeared.
 
-> **Cold Department — Class B — No. 255**
->
-> **Pigi**
->
+> **Cold Department — Class B — No. 255**  
+> **Pigi**  
 > **Examiner: Professor Sadi**
 >
 > Effective Hits: 1  
@@ -459,103 +513,105 @@ Pigi's score appeared.
 
 One point.
 
+One effective attack.
+
 Sadi turned.
 
-[What?]
+[…What?]
 
 [I never let that garbage hit me.]
 
-But the system—
+The score—
 
-did not care.
+did not change.
 
-A broken blade—
+Then she saw it.
 
-was buried deep in the golem's lower abdomen.
+A broken section of sword—
+
+buried deep in the golem's lower abdomen.
 
 ◆◆◆
 
 “Pigi!”
 
-Tudor and Sancho reached him.
+Tudor and Sancho sprinted over.
 
-Pigi could not stand without help.
+Pigi could not stand by himself.
 
-One eye—
-
-swollen completely shut.
-
-His palm—
-
-cut open.
-
-He smiled anyway.
+One eye had swollen shut completely.
 
 “Hehe…”
 
-“I got one point.”
+His lips moved around dried blood.
+
+“See?”
+
+“I still got one point.”
 
 Tudor and Sancho fell silent.
 
-At the moment Sadi kicked him—
+At the instant Sadi's kick hit—
 
-Pigi had gripped the broken blade.
+Pigi had clutched a broken sword fragment.
 
-Held it.
+Held the sharp metal in his bare hand.
 
 Driven it into the golem.
 
-One point.
+The palm gripping the shard was now shredded.
 
-Bought with—
+All that—
 
-blood.
+for one point.
 
-Pain.
-
-Almost an eye.
+But he had done it.
 
 Tudor swallowed.
+
+“Kid…”
 
 “You did it.”
 
 Sancho nodded.
 
-“You didn't even blink when the hit came.”
+“When the kick hit—
+
+you didn't even blink.”
 
 “I couldn't have done that.”
 
-Medical staff arrived.
+Pigi had no strength left to answer.
 
-Dolores checked him.
+Medical staff rushed in.
 
-Her face darkened.
+Dolores examined him.
+
+Her face changed.
 
 “Severe fracture on the left side of the skull.”
 
 “Can you see?”
 
-Pigi tried.
+Pigi tried to focus.
 
-“Barely.”
+“Not well.”
 
-“You almost lost the eye.”
+“You nearly lost the eye.”
 
-“If healing had been even a little later—
+“If divine power had arrived even slightly later—
 
 you would have.”
 
-“For a while—
-
-your vision will be weak.”
+“For a while your vision will be impaired.”
 
 “You'll need a medical monocle.”
 
-Pigi exhaled.
+Pigi released a relieved breath.
 
-“Good.”
+“…At least I didn't go blind.”
 
-“My mother would be devastated if I went blind.”
+“My mother would be devastated.”
 
 Tudor.
 
@@ -565,75 +621,75 @@ Bianca.
 
 Sinclaire.
 
-All clenched their jaws.
+All clenched their teeth.
 
-Then Banshee stepped forward.
+Meanwhile—
+
+Banshee issued his final order.
 
 “Sadi.”
 
-“Leave.”
+“Leave the examination.”
 
-“Your authority as an examiner is revoked.”
+“From this moment—
+
+your authority as an examiner is revoked.”
 
 “You have no right to test a warrior's honor.”
 
-“You aren't behaving like a warrior yourself.”
+“Because you yourself are not behaving like a warrior.”
 
-Sadi scoffed.
+Sadi snorted.
 
 “Warriors?”
 
-“There aren't any warriors here.”
+“Where are the warriors in this Academy?”
 
-“Only garbage.”
+“It's all garbage.”
 
 Then—
 
-quiet enough that Banshee did not hear—
+quietly—
 
-“One person wandering the Imperial Capital at night…”
+almost to herself—
 
-“*That* one.”
+“Only the one who wanders the Zodiac at night…”
+
+“Only that person…”
 
 “That's a real warrior.”
 
-Banshee continued.
+Banshee did not hear.
 
-“Come down.”
+“Get down.”
 
 “Immediately.”
 
-Sadi ignored him.
+“You no longer have the qualifications to act as examiner.”
 
-Then—
+Before he could finish—
 
-another voice.
-
-Cold.
-
-Controlled.
-
-But carrying something underneath.
+another voice entered between them.
 
 “Next.”
 
-Banshee turned.
+Cold.
 
-Sadi turned.
+Very calm.
 
-Vikir stepped forward.
+Yet something powerful moved under the calm.
 
 “I'm next.”
 
+Vikir stepped forward.
+
 “I want to take Professor Sadi's test myself.”
 
-Anyone unfamiliar with Vikir—
+Someone who did not know Vikir would have seen the same expressionless face as always.
 
-would have seen the same expressionless face.
+His friends saw something else.
 
-His friends—
-
-saw the vein rising faintly beneath pale skin.
+A faint vein rising beneath pale skin.
 
 Vikir—
 

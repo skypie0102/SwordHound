@@ -1,274 +1,280 @@
 # Chapter 194: Attack Land (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/194.txt` — `caa0c3d07843b01939aea183868740924932f70c`. Recovered English Chapter 192 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Professor Banshee Morgue, Professor Sadi, Pigi, Tudor Donquixote, Sancho Barataria, Bianca Fo Usher, Sinclaire, Dolores L. Quovadis, and Ballak-level archery continuity. The “body abandonment” document is rendered as a liability waiver / bodily-risk acknowledgment rather than literal surrender of ownership.
+> Chinese-primary reconstruction from `source/chinese/chapters/194.txt`. Recovered English Chapter 192 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Professor Banshee Morgue**, **Professor Sadi**, **Pigi**, **Tudor Donquixote**, **Sancho Barataria**, **Bianca Fo Usher**, **Sinclaire**, and **Dolores L. Quovadis**. The Chinese “body abandonment statement” is rendered as a bodily-risk/liability waiver rather than literal surrender of bodily ownership.
 
-The hound—
+The hound slipped its collar—
 
-slipped its collar.
+and entered the battlefield.
 
-Before Vikir entered the arena—
+Before Vikir could climb onto the examination platform—
 
 Banshee stopped him.
 
 “Vikir.”
 
-The professor's expression remained cold.
+His gaze remained cold.
 
-He still did not like the boy.
+His voice too.
+
+Banshee still did not like him.
 
 But—
 
-“As a professor—
+“As a professor, I have a responsibility to prevent students from being placed in unnecessary danger.”
 
-I am responsible for student safety.”
+“So I want you to refuse Professor Sadi's test.”
 
-“I don't want you taking Sadi's examination.”
+Vikir answered evenly.
 
-Vikir answered calmly.
+“I would prefer to take the scheduled examination according to the established rules.”
 
-“I want to follow the scheduled process.”
-
-“And—
-
-I may learn something.”
+“And I think there may be something I can learn from it.”
 
 Banshee stared.
 
-“Learn?”
+“…Learn?”
+
+“Yes.”
 
 “From Sadi?”
 
-He shook his head.
+Banshee shook his head.
 
-“There is nothing to learn from someone like her.”
+“You'll learn nothing from someone like her.”
 
-“Except that the world contains absurd people.”
+“Except perhaps the empirical fact that the world contains many unfair things.”
 
-Then he held out a document.
+His attitude remained frosty.
 
-> **Acknowledgment of Bodily Risk**
+Then he stepped closer.
 
-“If you insist—
+Held out a sheet of paper.
 
-sign.”
+> **Bodily-Risk Waiver**
 
-“Then I will permit it.”
+“If you insist on taking Sadi's examination—
 
-A normal student—
+sign this.”
 
-would have stopped.
+“If you're willing to do that—
 
-A normal student at Colosseo—
+I'll allow it.”
 
-would not defy both Sadi and Banshee in the first place.
+Most students would have changed their mind immediately.
+
+More accurately—
+
+almost no student at Colosseo Academy would dare place themselves in open conflict with both Sadi and Banshee in the first place.
+
+There was one exception.
+
+Scratch.
+
+Scratch-scratch.
 
 Vikir signed.
 
-Immediately.
-
 Returned the paper.
 
-Around them—
+Everyone nearby stared.
 
-mouths opened.
+Even Banshee's waxlike face showed a small change.
 
-Even Banshee's waxlike expression shifted.
+“You really intend to face Sadi?”
 
-“You really intend to do this.”
+“You are still unbelievably arrogant.”
 
-“You remain arrogant.”
+“…”
 
-He frowned.
+Banshee frowned.
 
-“Greenhouse flowers raised on sweet fertilizer sometimes need bitterness.”
+“Perhaps a greenhouse flower raised only on sweet fertilizer really does need an early taste of bitterness.”
 
-“So they learn the difference between courage—
+“Then it can learn the difference between consideration—
 
-and stupidity.”
+and recklessness.”
 
-Vikir said nothing.
+Vikir did not answer.
 
-Then—
+Soon—
 
-his turn began.
+his turn arrived.
 
-Sadi's golem loomed ahead.
+[Finished arguing, you garbage pigs?]
 
-[Finished arguing?]
+Sadi's golem loomed over him.
 
-[Garbage pigs.]
+Its shadow covered the arena floor.
 
-She looked at Vikir—
+Sadi herself watched Vikir with curiosity.
 
-with interest.
+[Weak little piglets don't interest me…]
 
-[Weak ones bore me.]
+[But you're slightly different.]
 
-[But you…]
+[A talentless commoner nobody—
 
-[A commoner with no talent—
+who chooses me anyway?]
 
-who still chooses me?]
+Vikir remained silent.
 
-Vikir raised the bow.
+Sadi's smile sharpened.
 
-Sadi smiled.
+[That small piglet earlier.]
 
-[That little one earlier was your friend?]
+[Pigi.]
 
-[Pigi?]
+[Your friend?]
 
 [His left eye may still go blind.]
 
-[Want me to take your right one—
+[How about I take your right eye too?]
 
-so you match?]
+[Then you can match.]
 
-Vikir nocked an arrow.
+[Trash and idiot together.]
 
-No answer.
+Vikir gave no answer.
 
-Twang!
+Creak.
 
-Fast.
+He nocked an arrow.
 
-Sadi's golem reacted instantly.
+TWANG!
 
-Twisted.
+It launched at extreme speed.
 
-Dodged.
+Sadi's golem reacted just as fast.
 
-[An archer closing distance?]
+[Hm.]
 
-[Not stupid.]
+[An archer deliberately closing the distance?]
 
-Archers normally widened distance.
+[Not bad as an opening tactic.]
 
-Vikir—
+Archers normally preferred range.
 
-did the opposite.
+This exam rewarded points under a strict time limit.
 
-Move forward.
+Closing while firing shortened the arrow's flight.
 
-Shoot.
+Reduced reaction time.
 
-Shorten arrow flight time.
+Kept pressure high.
 
-Increase pressure.
+It was a sensible strategy.
 
 Sadi—
 
-still evaded.
+still dodged everything.
 
-Her physical control—
+Her physical ability was monstrous.
 
-monstrous.
+Her waist bent backward like a drawn bow.
 
-Waist bending like a bow.
+Her body twisted around incoming arrows.
 
-Feet shifting—
-
-almost before the arrow reached her.
-
-Even Vikir—
-
-recognized the talent.
+The reaction speed was impressive even to Vikir.
 
 *Twisted genius.*
 
-No professor denied her skill.
+The phrase fit perfectly.
 
-Only—
+Even professors who criticized Sadi's character and behavior—
 
-everything else.
+had almost nothing to say against her talent.
 
-*If her character supported her ability—*
+*What a waste.*
 
-*she could have become a great warrior for humanity.*
+*If her character could support that ability—*
 
-It did not.
+*she might have become a great warrior for humanity.*
+
+But Sadi did not look like someone who would ever fight for others.
 
 No followers.
 
 No respect.
 
-No loyalty.
+No love.
 
-No reason—
+Nothing that made Vikir feel obligated to show restraint.
 
-for Vikir to restrain himself out of admiration.
+TWANG!
 
-Twang.
+Another arrow.
 
-Twang-twang-twang.
+Then—
 
-Multiple arrows.
+TWANG-TWANG-TWANG!
 
-Rapid fire.
+Several at once.
 
-Students shouted.
+Vikir rapidly nocked and fired.
 
-“He's matching her movement!”
+The surrounding students began shouting.
 
-“At that distance!?”
+“What the hell!?”
 
-“How fast is he shooting!?”
+“Who's that guy?”
 
-Professors—
+“He's keeping up with Professor Sadi!”
 
-also watched closely.
+“At that distance?”
 
-Sadi's synchronization with the golem imposed mana and movement limits.
+“And that firing speed!”
+
+Professors watched too.
+
+Sadi's movement and mana were limited somewhat by remote golem synchronization.
 
 Still—
 
-for a first-year to pressure her at all—
+for a first-year to match the tempo even briefly was remarkable.
 
-was remarkable.
+Then—
 
-Then Sadi laughed.
+[Hehehe.]
 
-[Still just an archer.]
+Sadi laughed.
 
-And—
+[Still nothing more than archer trash.]
 
-so far—
+And so far—
 
 she was right.
 
-No effective hits.
+Not one of Vikir's arrows counted as an effective hit.
 
-Crack!
+CLANG!
 
-An arrow—
+One shattered against a fist.
 
-broken by a fist.
+CRACK!
 
-Snap!
+Another was knocked aside with a kick.
 
-Another—
+SNAP!
 
-swatted aside by the whip.
+The whip broke a third.
 
-Others—
+Some shots flew strangely because Vikir had apparently miscalculated the wind.
 
-flew wide.
+A few touched the golem—
 
-Some grazed the golem's limbs—
+but only brushed hands, feet, or edge areas that did not qualify for scoring.
 
-but not enough to score.
+Bianca watched from outside and shook her head.
 
-Bianca watched from outside.
+“That's the problem with archers in this test.”
 
-“That's the problem.”
+“I at least got a mild examiner.”
 
-“Archers are terrible in this test.”
+“And even I only got thirty-one.”
 
-“I had a fair examiner and barely got thirty-one.”
+“Against Sadi—
 
-“Against Sadi…”
-
-“One point is difficult.”
+getting even a single point will be hard.”
 
 Tudor.
 
@@ -276,121 +282,127 @@ Sancho.
 
 Pigi—
 
-face bandaged.
+face wrapped in bandages.
 
 Sinclaire.
 
-All watched.
+All looked worried.
 
-Vikir kept moving.
+Vikir continued dodging the golem's fists and feet.
 
-Dodging.
+Whenever he saw an arrow on the ground—
 
-Recovering arrows.
+he picked it up and fired again.
 
-Firing them again.
+Most were knocked away.
 
-Sadi shattered more.
+Some broke completely.
 
-[Still running?]
+The supply slowly shrank.
 
-[Mouse.]
+[Hehehe.]
 
-She sounded annoyed.
+[Still continuing?]
 
-Because—
+[You're not a piglet.]
 
-she had not struck him either.
+[You're a rat.]
+
+Sadi had become irritated.
+
+Because although Vikir had failed to hit her—
+
+she had also failed to land a clean whip strike on him.
 
 [Come here.]
 
-[You need discipline.]
+[Time for discipline.]
 
-She tried to corner him.
+She tried to force him into a corner.
 
-The arena—
+There was a problem.
 
-was circular.
+The arena was circular.
 
-Vikir used that fact.
+Vikir used that.
 
-Kept rotating.
+He kept circling.
 
-Every successful evasion—
+Dragging out time.
 
-still worth a point.
+Every successful evasion still earned points.
 
-Sadi noticed.
+Sadi realized what he was doing.
 
-[Trying to farm dodge points?]
+[Trying to score through dodges?]
 
-[No.]
+[What a rat's idea.]
 
-The whip changed.
+[Not allowed.]
 
-Crack!
+Her whip changed targets.
 
-Not at Vikir.
+CRACK!
 
-At the arena.
+Not Vikir.
 
-Crack!
+The floor.
 
-Stone shattered.
+CRACK!
+
+Stone broke.
 
 Again.
 
 Again.
 
-The circle—
+The circular arena lost its curve.
 
-stopped being circular.
+One section collapsed inward.
 
-One side collapsed into an angular dead end.
+A pointed recess formed.
 
-A corner—
+A corner.
 
-manufactured by force.
+Then Sadi began forcing Vikir toward it.
 
-Then Sadi drove Vikir toward it.
+The whip destroyed every part of the floor that would let him circle away.
 
-Destroying escape routes.
+Vikir—
 
-Whip—
+who had been using the round arena to avoid being trapped—
 
-everywhere.
+was driven toward the dead end.
 
-Arrows—
+[Die, trash.]
 
-breaking.
+The words were completely inappropriate for an examiner.
 
-Mud and dust—
+The whip approached.
 
-rising.
+Arrows broke.
 
-Vikir rolled.
+Vikir rolled through mud and dust.
 
-Recovered shafts.
+Recovered whatever shafts remained intact.
 
-Fired.
+Fired again.
 
-Tried to leave—
+Whenever he tried to leave the corner—
 
-and took shallow cuts from the whip.
+the whip found him.
 
-To spectators—
+Thin wounds appeared across his body.
 
-he looked trapped.
+To the audience—
 
-A rat—
+Vikir looked exactly like a rat trapped against a wall.
 
-against the wall.
+Sighs spread through the crowd.
 
-Tudor moved closer.
+Tudor.
 
-Sancho—
-
-too.
+Sancho.
 
 Pigi.
 
@@ -402,48 +414,62 @@ Dolores.
 
 Even Banshee—
 
+who openly disliked Vikir—
+
 looked tense.
 
-Sadi raised the whip.
+At last—
+
+Sadi had him.
 
 [The pain you're about to suffer.]
 
 [The obstacles.]
 
-[Even your death.]
+[Even the death that may come.]
 
-[All meaningless.]
+[All of it will be meaningless.]
 
-The attack gathered enough force—
+She raised the whip.
 
-to maim.
+Mana gathered.
 
-Perhaps kill.
+If the strike landed cleanly—
 
-Banshee barked—
+Vikir would be seriously injured.
 
-“Medical team.”
+Possibly killed.
 
-“Stand by.”
+Banshee barked.
+
+“Medical team!”
+
+“Stand by!”
+
+Professors rushed into position.
+
+Vikir's friends had already crept close to the arena edge—
+
+ready to catch him the instant he fell.
 
 Then—
 
-Sadi paused.
+[…What?]
 
-[…?]
+Sadi tilted her head.
 
-Something—
+Something felt wrong.
 
-in the golem's arm.
+A subtle resistance in the arm controlling the whip.
 
 A slight stiffness.
 
 Near a joint.
 
-A place Vikir's arrows had repeatedly grazed.
+A place Vikir's arrows had grazed over and over.
 
-Not a scoring area.
+Not a scoring location—
 
-Nothing she had cared about.
+so Sadi had ignored it.
 
 Until now.

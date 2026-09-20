@@ -1,214 +1,270 @@
 # Chapter 191: Attack Land (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/191.txt` — `a901d71af0594ec76c52f8166d35bf56a5417663`. Recovered English Chapter 189 is the verified shifted secondary witness. Canonical/project terminology controls Dolores L. Quovadis, Professor Sadi, Professor Banshee Morgue, House Morgue, House Sade, Dantalian, Sancho Barataria, and Colosseo Academy. Sadi's combat/criminal-psychology ability remains distinct from her abusive conduct; aristocratic patronage is preserved as source-stated institutional explanation.
+> Chinese-primary reconstruction from `source/chinese/chapters/191.txt`. Recovered English Chapter 189 is the verified shifted secondary witness. Canonical/project terminology controls **Professor Sadi**, **Professor Banshee Morgue**, **Dolores L. Quovadis**, **Humbert L. Quovadis**, **Sancho Barataria**, **House Morgue**, **House Sade**, and Colosseo Academy's faculty politics.
 
-A drop of cold sweat—
+“…”
 
-slid down Dolores's cheek.
+A bead of cold sweat rolled down Dolores's cheek.
 
-Professor Sadi looked at her.
+A smiling gaze rested on her.
 
-Smiling.
+“Hehehe.”
+
+Professor Sadi tilted her head.
 
 “What are you staring at?”
 
-Black military cap.
+Dolores did not answer.
 
-Long purple ponytail.
+Sadi wore a black military cap.
 
-Hair rising in horn-like points.
+A long purple ponytail spilled from beneath it.
+
+Her hair was decorated with pointed ornaments that resembled horns.
 
 Skin—
 
-corpse-pale.
+pale as a corpse.
 
-Black uniform.
+Her black uniform carried formal insignia.
 
-Loose belt.
+A loose belt hung at her waist—
 
-A coiled whip at the waist.
+a coiled whip fastened at its center.
 
-Black heels—
+And then there were the heels.
 
-thirty-one centimeters high.
+Black.
 
-Sharp enough to look like weapons.
+Needle-thin.
 
-The tips of Sadi's fingers were scarred where fingerprints should have been.
+Thirty-one centimeters high.
 
-There was even a rumor—
+Her ten fingertips were covered in grotesque scars where fingerprints should have been.
 
-that while drunk on vodka—
+According to rumor—
 
-she had once bitten her own fingertips badly enough to destroy them.
+she had once gotten so drunk on vodka that she mistook her own fingertips for snacks and bit into them.
 
-Dolores did not look away.
+“…”
 
-Before Dantalian—
+Dolores continued meeting her eyes.
 
-she might have.
+Sweat ran harder now.
 
-Not now.
+Before the battle with Dantalian—
 
-Sadi's pressure intensified.
+Dolores might have looked away.
+
+Now—
+
+she did not.
+
+She had grown.
+
+And this time—
+
+she intended to protest.
 
 “Oh?”
 
-“A little girl thinks being student council president means she can glare at an elder?”
+Sadi unhooked the whip from her waist.
 
-Dolores said nothing.
+“What is this little girl looking at?”
 
-Sadi stepped closer.
+She walked forward.
 
-Whip in hand.
+One step at a time.
 
-“Even your father Humbert doesn't look at me like that.”
+“How dare a child glare at an adult like that?”
 
-The pressure—
+“Do you think being student council president makes you important?”
 
-felt wrong.
+Dolores's jaw tightened.
 
-Different from Dantalian.
+Sadi smiled wider.
 
-Not the same fear—
+“Your father Humbert doesn't even look at me that way~”
 
-but something similarly dangerous.
+The pressure coming from her thickened.
 
-Then—
+Dolores had fought Dantalian.
 
-“Enough.”
+That fear had been demonic.
 
-A cold voice cut between them.
+Sadi's presence produced something different—
+
+but not less dangerous.
+
+A twisted feeling of—
+
+*human* danger.
+
+Then another voice cut in.
+
+“Please keep your hatred of high-performing students within reasonable limits, Professor Sadi.”
+
+Someone stepped between them.
+
+A Morgue witch.
 
 **Professor Banshee Morgue.**
 
-He stepped in front of Dolores.
+The moment his body blocked Sadi from view—
 
-The instant his back blocked Sadi—
+the pressure on Dolores vanished.
 
-the pressure vanished.
+Her legs gave way.
 
-Dolores nearly collapsed.
+She dropped to the ground.
 
-Banshee stared at Sadi.
+Banshee looked at Sadi.
 
-“This is a midterm examination.”
+“This is the midterm examination.”
 
-“You overtested a student under your supervision.”
+“What do you think you're doing?”
 
-“You crossed from assessment into verbal abuse and physical cruelty.”
+“You already over-tested the student assigned to you.”
+
+“Now insults.”
+
+“Threats.”
+
+“Physical intimidation.”
 
 “Do you actually want to be dismissed?”
+
+Ptui.
 
 Sadi spat at his feet.
 
 Banshee's brow twitched.
 
-Sadi ignored him.
+“…What is that?”
 
-Pulled out—
+Sadi ignored the question.
 
-a large glass bottle.
+She pulled a large glass bottle from her waist.
 
-Half full of vodka.
+Half full.
+
+Vodka.
+
+CRUNCH!
+
+She bit through the narrow glass neck with sharp teeth.
 
 Crack.
 
-She bit off the neck.
+Crunch.
 
-Crack.
+She chewed the broken glass like candy.
 
-Crack.
+Then swallowed it—
 
-Chewed the glass.
-
-Swallowed it—
-
-with the alcohol.
+with the vodka.
 
 Banshee stared.
 
-“Are you drinking?”
+“Are you drinking alcohol?”
 
-“During an examination?”
+“During an examination that affects students' futures?”
 
-“This isn't alcohol.”
+Sadi waved the bottle.
 
-Sadi grinned.
+“This isn't alcohol, old man~”
 
-“Only seventy-six percent.”
+“I can smell it from here.”
 
-“Water.”
+“It's only seventy-six percent.”
 
-“…You lunatic.”
+“That's water.”
 
-Sadi's expression sharpened.
+Banshee closed his eyes.
 
-“The world really changed.”
+“You lunatic…”
 
-“A Morgue—
+He looked ready to continue.
 
-whose ancestors managed corpses—
+Sadi abruptly turned.
 
-lecturing a princess of House Sade.”
+“World really has changed.”
 
-Banshee—
+Her smile became deliberately provocative.
 
-proud of his own bloodline—
+“House Morgue—the family that used to manage morgues—now gets to lecture the princess of Marquis Sade.”
 
-did not yield.
+Banshee was no less proud of his bloodline.
+
+“Hmph.”
 
 “That was centuries ago.”
 
-“House Morgue is a marquis family now.”
+“We are the Marquis House of Morgue now.”
 
-“House Sade fell long ago.”
+“And when did House Sade collapse?”
 
-“And your present rank is barely above a baron.”
+“Your own rank is barely quasi-baronial.”
 
 Sadi scratched one ear.
 
-“Boring world.”
+“Ah~”
 
-“Let it all burn.”
+“What a boring world.”
 
-Banshee's voice became dangerous.
+“Maybe everything should just burn.”
 
-“How long do you think the principal can protect you?”
+She turned away as though finished.
 
-“If you continue this behavior—”
+Banshee's voice hardened.
 
-“I will use every bit of vice-principal authority available to discipline you.”
+“How long do you think the principal can keep protecting you?”
 
-Sadi stopped laughing.
+Sadi paused.
 
-She could ignore insults.
+“If you treat students however you like again in the next test—
 
-Not that warning.
+I will use every bit of vice-principal authority available to discipline you.”
 
-Banshee turned away.
+“Mm-hm.”
 
-He knew why Sadi remained employed.
+Sadi no longer laughed.
 
-Aristocratic patronage.
+No taunting reply.
 
-Respect for an old fallen house.
+She still ignored him—
 
-But—
+but not completely.
 
-not only that.
+The killing intent in Banshee's warning was real.
 
-Her combat instinct—
+He finally turned away.
 
-was exceptional.
+Every year—
 
-Her criminal psychology—
+students got hurt because of Sadi.
+
+Banshee knew why she remained a professor.
+
+Connections.
+
+Even a fallen noble house retained old patrons.
+
+And the Academy did not like publicly humiliating aristocratic lineage.
+
+*But that's not the only reason.*
+
+Sadi's combat instinct—
+
+was extraordinary.
+
+Her ability in criminal psychology—
 
 genius.
 
-Sadi could fight an Imperial Army company alone.
+She could fight an Imperial Army company alone.
 
-Predict criminals.
+Predict how criminals would move.
 
 Track them.
 
@@ -216,77 +272,110 @@ Capture them.
 
 *A mad person understands mad people.*
 
-Perhaps.
+Perhaps that was the principle.
 
-Her talent was extraordinary.
+Banshee shook his head.
 
-Her personality—
+Sadi's talents were unquestionably exceptional.
 
-made the talent nearly unusable.
+Her personality made them almost impossible to use well.
 
-Sancho was proof.
+Sancho was only the latest example.
 
-A promising student—
+A student with obvious promise—
 
-beaten bloody.
+beaten until blood covered him.
 
 Fortunately—
 
-Sancho's spirit had not broken.
+Sancho's mind was strong.
+
+He had not broken.
 
 Others—
 
 had.
 
-Students traumatized by Sadi.
+How many talented students had been tormented by Sadi until even the sound of her laughter made them lose control of their bodies?
 
-Students who panicked at her laugh.
+Some took leaves of absence.
 
-Leave of absence.
+Some withdrew.
 
-Withdrawal.
+Some graduated anyway—
 
-Graduation followed by inability to fight.
+but became timid.
 
-Banshee hated the waste.
+Unable to fight.
+
+Banshee was sincerely grateful that Sancho's spirit had held.
 
 Dolores—
 
-beside him—
+standing nearby—
 
-felt the same.
+looked at Sancho with the same sympathy.
 
-But the nightmare continued.
+Terrible luck.
 
-“Next.”
+Of every examiner he might have drawn—
 
-Sadi smiled.
+he got **her**.
 
-“I'll be gentle.”
+Unfortunately—
 
-Her mud golem cracked its thorn whip against the floor.
+the nightmare was only beginning.
 
-A student entered.
+“Hehehe.”
 
-Crack.
+Sadi called the next examinee.
 
-Crack.
+“Come on.”
 
-No effective hit.
+“I'll be gentle this time.”
 
-Four dodges.
+CRACK!
 
-No blocks.
+CRACK!
 
-No criticals.
+Her avatar—
 
-**Four points.**
+a mud golem—
 
-The student left crying.
+snapped a thorny whip against the ground.
 
-Next—
+The next student entered.
 
-three.
+BAM!
+
+CRACK!
+
+BAM!
+
+Exactly what everyone expected.
+
+The student failed to land a single effective attack.
+
+The whip struck repeatedly.
+
+The student was forced out.
+
+> Effective Hits: 0  
+> Effective Dodges: 4  
+> Effective Blocks: 0  
+> Critical Hits: 0
+>
+> **Total: 4**
+
+Four points.
+
+The student left in tears.
+
+Then—
+
+another.
+
+Three.
 
 Then—
 
@@ -300,78 +389,104 @@ Seven.
 
 Four.
 
-One disastrous score after another.
+One miserable score after another.
 
-Students could barely dodge the whip.
+No one could cleanly attack the golem copying Sadi's movements.
 
-Blocking it—
+Most could only try to survive the storm of whip strikes.
 
-almost impossible.
+And Sadi's whip—
+
+snake-like—
+
+was exceptionally difficult to block once it connected.
 
 Sancho's seventeen—
 
-suddenly looked extraordinary.
+suddenly looked impressive.
 
-Professors watched in anger.
+Professors watching the sequence ground their teeth.
 
-“She destroys the average every year.”
+“Sadi is dragging down the average again.”
 
-“This isn't fair evaluation.”
+“Every year.”
 
-“Why does the principal keep protecting her?”
+“This is not fair evaluation.”
 
-“House Sade.”
+“Why does the principal keep shielding her?”
 
-“Old aristocratic sentiment.”
+“Last respect for the fallen Marquis Sade?”
 
-“Then compensate the students later.”
+“Damn it.”
+
+“Rank and status shouldn't work like this.”
+
+“What can we do?”
+
+“The students were unlucky.”
+
+“Compensate them later.”
 
 “Assignments.”
 
-“Attitude points.”
+“Attitude.”
 
-“Something.”
+“Extra credit.”
 
-Political factions among faculty—
+One professor lowered his voice.
 
-even found ways to calculate advantage.
+“For our vice-principal faction, having her around isn't entirely bad.”
+
+“She damages the principal's support.”
+
+Faculty politics continued even while students were being hurt.
 
 Sadi—
 
 meanwhile—
 
-continued hurting students.
+smiled.
 
 “Hehehe.”
 
-“Making them sweat is fun.”
+“Training them until they're sweating is fun.”
 
-“Not as fun as making them bleed.”
+“Still not as good as making them bleed.”
 
-Banshee's earlier warning had at least one effect.
+If Banshee's warning had achieved anything—
 
-She was no longer pushing anyone close to death.
+it was this:
 
-But that did not make this education.
+Sadi no longer pushed anyone visibly close to death.
 
-It was simply—
+That was a very low standard.
 
-the strong abusing the weak.
+She still whipped them like dogs.
 
-Then—
+This was not teaching.
 
-Sadi looked toward the waiting students.
+Not a master disciplining disciples.
 
-Her gaze stopped.
+It was simply the strong bullying the weak.
+
+Sadi gave another student four points and sent them away.
+
+Then looked toward the waiting line.
+
+Her eyes stopped.
 
 “Oh?”
 
-“That one might be interesting.”
+She smiled.
 
-A first-year stood below the arena.
+“That one might have some value.”
+
+Her gaze settled on a first-year standing below the arena.
 
 Expressionless.
 
 Cold.
+
+“…”
 
 **Vikir.**

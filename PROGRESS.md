@@ -1,5 +1,24 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Attack Land completeness rebuild (190–196)
+
+**Audit result:** all seven historical drafts were materially compressed and were rebuilt; family now **PASS**.
+
+Key repairs:
+- **190:** full Attack-test design, Banshee/Tudor lesson, exact early scores, and Sancho buildup.
+- **191:** Sadi physical/introduction details, Dolores confrontation, Morgue/Sade argument, employment rationale, and full low-score sequence.
+- **192:** complete Sinclaire exam and verified endpoint correction to **Pigi**.
+- **193:** complete Pigi exam, one-point broken-blade counter, near-blindness, and Cold Department label correction.
+- **194–195:** Banshee waiver, Vikir/Sadi archery duel, arena-corner tactic, weak-point deduction, Pigi-blade prerequisite, arrow destruction, and predator/prey setup.
+- **196:** full returning-arrow aftermath, exact 40-point score, Sadi's eye removal/consumption and reassignment obsession, final standings, compensation, recruitment/news fallout, and Cindywendy's next-Corpse lead.
+
+Priority targets **192 and 196** are resolved.
+
+Initial priority queue now has **31 pending chapters**.
+
+Next audit family: **Tuition (225–233)**, containing priority targets **225, 228, 230, 231**.
+
+
 ## 2026-09-20 — Nostalgia completeness rebuild (101–104)
 
 **Audit result:** all four historical drafts were materially compressed and were rebuilt; family now **PASS**.

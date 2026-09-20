@@ -1,430 +1,492 @@
 # Chapter 195: Attack Land (6)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/195.txt` — `3f9d91dee6bfc457ab82b461fa0b885c52514697`. Recovered English Chapter 193 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Professor Sadi, Professor Banshee Morgue, Pigi, Tudor Donquixote, Sancho Barataria, Bianca Fo Usher, Sinclaire, Dolores L. Quovadis, and Vikir's mosquito-shot archery feat. Crowd claims about Vikir seeming Sword Master-level in Defense remain in-world exaggeration/misreading; accepted public combat disclosure is still Sword Expert Advanced.
+> Chinese-primary reconstruction from `source/chinese/chapters/195.txt`. Recovered English Chapter 193 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Professor Sadi**, **Professor Banshee Morgue**, **Pigi**, **Tudor Donquixote**, **Sancho Barataria**, **Bianca Fo Usher**, **Sinclaire**, **Dolores L. Quovadis**, and Vikir's mosquito-shot archery feat. Crowd claims about Sword Master-level mana remain in-world exaggeration; accepted public combat disclosure is still below Master.
 
-Creak.
+Creak—
 
 The golem stopped.
 
-Only—
+Only for an instant.
 
-for a moment.
+The failure was brief.
 
-But Sadi felt it.
+Temporary.
 
-Her whip attack—
+Still—
+
+Sadi felt it clearly.
+
+The whip strike that should have crushed Vikir—
 
 halted.
 
 […?]
 
-She stepped backward.
+She stepped backward in surprise.
 
-The golem—
+The golem followed normally.
 
-followed.
+Nothing wrong.
 
-Everything seemed normal again.
+Or so it seemed.
 
-Spectators murmured.
+Spectators stared.
 
 “What happened?”
 
-“It froze.”
+“It stopped.”
 
 “For just a second.”
 
+“Was that my imagination?”
+
+“Who cares!”
+
+“This is his chance!”
+
 “Run!”
 
-“Withdraw!”
+“Withdraw before she kills you!”
 
 Sadi frowned.
 
 [What was that?]
 
-Constructs sometimes glitched.
-
 Mud golems.
 
 Stone golems.
 
-Small faults usually disappeared during warm-up.
+Constructs sometimes glitched.
+
+Small problems usually revealed themselves during warm-up and disappeared.
 
 She raised the whip again.
 
-Up.
+From below—
 
-Down.
+up.
 
-A continuous strike.
+Then immediately—
 
-Then—
+down.
 
-creak!
+A continuous combination.
 
-The motion caught.
+Creak!
 
-The whip veered.
+The golem jammed again.
 
-Destroyed stone beside Vikir instead.
+CRACK!
 
-[What!?]
+The whip that should have fallen on Vikir veered away and smashed the floor.
 
-Sadi shook her arm.
+[What the hell!?]
 
-Stepped back.
+Sadi jerked her arm.
 
-Vikir escaped the corner.
+Stepped backward.
 
-Twang.
+The golem responded.
+
+Meanwhile—
+
+Vikir slipped out of the corner.
+
+TWANG!
 
 An arrow hit the golem's lower abdomen.
 
-Creak.
+Creak—
 
-Again—
-
-a brief halt.
+The construct stalled again.
 
 This time—
 
 the professors understood.
 
-“Repeated damage.”
+“Ah!”
 
-“He's hitting the same location.”
+“Repeated attacks!”
 
-“The connection is degrading.”
+“He keeps hitting the same place!”
 
-“Incredible accuracy.”
+“The connection is weakening every time it moves!”
 
-Students caught up.
+“Look at that accuracy!”
 
-“He's hitting the same spot every time?”
+Students caught on next.
 
-“Of course he can.”
+“He's been shooting the same spot over and over?”
 
-“Did you forget the archery range?”
+“That's possible?”
 
-“He competed with Bianca.”
+“With him—yes!”
 
-“His control is insane.”
+“Remember the range practice with Bianca!”
 
-The crowd's interpretation grew—
+“He's ridiculous with a bow!”
 
-quickly.
+Another voice joined.
 
-Too quickly.
+“Didn't he look almost Sword Master-level in the Defense test?”
 
-Some even exaggerated what they had seen in Defense—
+Rumor inflated the memory immediately.
 
-talking as though Vikir had shown Sword Master-level mana.
+That was not what Vikir had actually disclosed.
 
-That—
+But the crowd did not care about careful classification.
 
-was not the truth.
+Excitement changed the story.
 
-His publicly demonstrated level remained—
+Tudor pumped a fist.
 
-**Sword Expert Advanced**.
+“Yes!”
 
-But rumor did what rumor always did.
+Then shouted—
 
-Tudor cheered.
+“Vikir!”
 
-“Good!”
+“So that's what you were doing!”
 
-“Keep it up!”
+“You've been aiming for the most active joints and the lower-abdomen connector!”
 
-Then shouted toward the others—
+“What accuracy!”
 
-“He's targeting the joints!”
+Sancho—
 
-“The lower-abdomen connection!”
+standing beside him—
 
-Sancho frowned.
+still looked unconvinced.
 
-“His accuracy is real.”
+“Repeatedly hitting the same place is impressive.”
 
-“But…”
+“But would that alone make Sadi's golem struggle this much?”
 
-“Would repeated arrows alone make Sadi's golem fail that badly?”
+Tudor frowned too.
 
-Sinclaire—
+Sinclaire answered.
 
-still injured—
+“It isn't only the arrows.”
 
-answered.
+Everyone turned toward her.
 
-“Not alone.”
+“Professor Sadi uses a whip.”
 
-Everyone looked at her.
+“Yes?”
 
-“Sadi uses a whip.”
-
-“Where does the force transfer through the golem?”
+“Where does the golem transfer the most force when using one?”
 
 Tudor thought.
 
 “The lower abdomen.”
 
-“Arms and legs both need the core.”
-
-“Exactly.”
+“Arms and legs both draw through the core.”
 
 Sinclaire nodded.
 
-“Weaken the central connection—
+“Exactly.”
 
-and the limbs lose force.”
+“A whip amplifies that even more.”
+
+“If the central joint loosens—
+
+her limbs lose power.”
 
 “The whip loses speed.”
 
-“Accuracy falls.”
+“Accuracy too.”
 
-Bianca joined them.
+Bianca joined in.
 
-“That joint is tiny.”
+“But that connector is tiny.”
+
+“Smaller than an ordinary joint.”
 
 “You'd need absurd precision.”
 
-Then—
+Then she bit her lip.
 
-quietly—
+“…He can do it.”
 
-“Vikir can do it.”
+Everyone looked at her.
 
-They turned.
+“When we practiced archery…”
 
-Bianca bit her lip.
+Bianca's voice tightened.
 
-“At the archery range…”
-
-“He hit a mosquito in flight from a hundred meters.”
+“Vikir hit a mosquito flying a hundred meters away.”
 
 “No magic.”
 
 Tudor stared.
 
-“What?”
+“That's insane.”
 
-Sinclaire dragged a hand through her hair.
+“I saw it.”
 
-“So that was it.”
+Sinclaire ran a hand through her hair.
 
-“The lower-abdomen joint.”
+“Damn it…”
+
+“So that was the weakness.”
 
 “Why didn't I see it?”
 
-A new voice answered.
+Another voice answered.
 
-“Because it wasn't there.”
+“Because it didn't exist when you fought.”
 
 Dolores.
 
-Everyone turned.
-
 She pointed toward Pigi.
 
-“Remember the broken blade?”
+“Remember the broken blade he left in the golem?”
 
 Pigi blinked.
 
 Then—
 
-understood too.
+understood.
 
-His last desperate strike—
+The sword fragment he had driven into the construct in his final desperate attack—
 
-had lodged metal inside the golem's lower abdomen.
+had created the first tiny defect.
 
-A tiny initial fracture.
-
-A weakness—
-
-that had not existed before his test.
+A weakness in the lower abdomen.
 
 Vikir—
 
-experienced enough to notice—
+a veteran with decades of combat experience—
 
-had immediately begun hammering it.
+noticed it immediately.
+
+Then hammered it.
+
+Again.
 
 Again.
 
 Again.
 
-Again.
+That was why he had signed Banshee's bodily-risk waiver so calmly.
 
-Banshee saw the same thing.
+He had already seen a path to victory.
 
-His mouth tightened.
+Banshee saw it too.
+
+His face wrinkled again.
 
 *Annoying brat.*
 
-Vikir had signed the risk waiver—
+He had examined countless students.
 
-with complete confidence.
+Never one who tampered with the examiner's avatar like this.
 
-Because—
+And for it to work—
 
-he had already seen the path to victory.
+against Sadi—
 
-No student had ever exploited an examiner's construct this way.
+was almost absurd.
 
-Certainly not—
-
-against Sadi.
-
-The crowd changed sides.
+The crowd's mood flipped.
 
 “Go!”
 
-“Keep scoring!”
+“Keep shooting!”
 
 “Vikir!”
 
-“Show her!”
+“Now's your chance!”
 
-“Commoner pride!”
+“Show them what a commoner can do!”
 
-Cheers filled the arena.
+“Oppa! You're cool!”
+
+Cheers rolled around the arena.
+
+They pushed behind Vikir like a physical force.
 
 Then—
 
+[How funny.]
+
 Sadi straightened.
 
-[Funny.]
-
-Her unstable balance—
-
-vanished.
+The unstable sway vanished.
 
 Those absurd heels—
 
-steady again.
+balanced perfectly again.
 
-The whip swept outward.
+Her whip exploded outward.
 
-Boom!
+BOOM!
 
-Crack!
+CRACK!
 
-Snap!
+SNAP!
 
 Not at Vikir.
 
 At the arrows.
 
-Every shaft in the arena—
-
-broken.
-
-Arrows stuck in stone.
-
-Arrows on the floor.
-
-Recoverable arrows.
-
-All—
+Every shaft still lying around the arena—
 
 destroyed.
 
+Arrows stuck in the ground.
+
+Scattered shafts.
+
+Recoverable shots.
+
+All shattered.
+
+Even those that had looked intact—
+
+gone.
+
 Sadi smiled.
 
-[What is an archer without arrows?]
+[What can an archer do without arrows?]
 
-Silence.
+The crowd fell silent.
 
 She was right.
 
-Vikir's supplied arrows—
+Vikir had used the supplied ammunition.
 
-used.
+Recovered old arrows.
 
-Recovered arrows—
+Fired them multiple times.
 
-damaged from repeated firing.
+Most were already damaged.
 
-The rest—
+The misfired shafts carried away by wind—
 
-now shattered.
+unrecoverable.
 
-No ammunition.
+Now Sadi had deliberately destroyed everything left.
+
+No arrows.
 
 No attack.
 
-The crowd's cheering died.
+The cheers died.
 
-Sadi's smile widened.
+Sadi rolled the whip in one hand.
 
 [Well?]
 
-[Still want to play?]
+[Vikir, was it?]
 
-[There's time left.]
+[There's plenty of time left.]
 
-[Or will you quit?]
+[What are you going to do?]
 
-Vikir—
+[Withdraw?]
 
-stood still.
+[Or keep playing with your big sister?]
 
-His bangs hid his eyes.
+Vikir stood still.
 
-But Sadi could feel the gaze.
+“…”
 
-Not desperate.
+No surrender.
 
-Not defeated.
+No declaration to continue.
 
-Certain.
+Nothing.
 
-Predatory.
+Sadi frowned.
 
-For one instant—
+[…?]
 
-a chill went through her.
+His bangs hid part of his eyes.
 
-A frog—
+Still—
 
-seeing a snake.
+she could feel the gaze.
 
-A dog—
+Displeased.
 
-recognizing the butcher.
+Cold.
 
-Instinct told Sadi—
+Not the eyes of someone cornered.
 
-danger.
+No doubt.
 
-Then pride crushed instinct.
+No desperation.
 
-*Why should I fear him?*
+Absolute confidence.
 
-First-year.
+The look of a predator—
+
+staring at prey.
+
+A chill ran through Sadi.
+
+*What?*
+
+The reaction came from somewhere beneath thought.
+
+A frog seeing a snake.
+
+A dog recognizing a butcher.
+
+Her body reacted—
+
+before reason.
+
+This first-year.
 
 Commoner.
 
 Disarmed archer.
 
-The momentary fear—
+Some part of her—
 
-angered her.
+feared him.
+
+Then rational pride crushed the instinct.
+
+*Ridiculous.*
+
+There was no reason to fear this boy.
+
+That one moment of hesitation—
+
+wounded Sadi's ego more deeply than any insult.
+
+Anger replaced caution.
+
+Normally—
+
+she trusted her instincts.
+
+Respected danger.
+
+Now—
+
+because the prey had made her feel afraid—
+
+she deliberately looked down on him.
 
 [You arrogant little bastard.]
 
-[How dare you look at me like that.]
+[Who gave you permission to look at me like that?]
 
-[Your eyes—]
+[Those eyes—!]
 
-Vikir's lips moved.
+Sadi focused completely on Vikir.
 
-Almost no sound.
+Then noticed his lips move.
 
-Only a sentence—
+Barely.
 
-read from the shape.
+No audible voice.
+
+Only words shaped by the mouth.
 
 *Blinded by anger.*
 
@@ -434,17 +496,15 @@ Sadi's eye widened.
 
 Then—
 
-pop.
+POP!
 
-A soft sound.
+A soft bursting sound came from nearby.
 
-Close.
+Too close.
 
-Very close.
+[…What?]
 
-Her left side—
-
-suddenly warm.
+Warmth spread across the left side of her face.
 
 Vision—
 
@@ -452,10 +512,16 @@ black.
 
 Then—
 
-pain.
+“……!”
+
+Pain tore into her.
+
+Hot.
 
 Violent.
 
-Tearing.
+Deep.
 
-Sadi screamed.
+Her hand shot toward her face.
+
+Something had pierced her left eye.

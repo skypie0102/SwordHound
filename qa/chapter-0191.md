@@ -1,23 +1,20 @@
 # Chapter 191 QA — Attack Land (2)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/attack-land-0190-0196.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20  
+**Family acceptance:** contingent on revised `qa/families/attack-land-0190-0196.md`
 
 ## Evidence
 - Chinese: `source/chinese/chapters/191.txt` — `a901d71af0594ec76c52f8166d35bf56a5417663`
 - English witness: **E189** — `fb919bfe6cdd57b3460cef02c6c002e715505c2e`
-- Draft: `manuscript/drafts/chapter-0191.md` — `35add1ff18ea5bc3712581043a661727429fd083`
+- Rebuilt draft: `manuscript/drafts/chapter-0191.md` — `845c49feb18fded4b0d57c1b6d572155aa1755d4`
 
-## Checks
-- PASS — Sadi's visual register is preserved: black military cap/uniform, purple ponytail, corpse-pale skin, whip, extreme heels.
-- PASS — scarred fingertips / vodka anecdote remains rumor, not narrator-confirmed fact.
-- PASS — Dolores resists Sadi's pressure after growth from the Dantalian battle.
-- PASS — Banshee physically interposes and formally warns Sadi over abuse during the exam.
-- PASS — Sadi bites and chews the vodka bottle neck and dismisses 76% alcohol as “water.”
-- PASS — House Morgue / fallen House Sade aristocratic antagonism remains source-present.
-- PASS — Banshee identifies Sadi's extraordinary combat instinct and criminal-psychology talent as reasons she remains institutionally useful.
-- PASS — Sadi is stated capable of confronting an Imperial Army company and of predicting/tracking criminals.
-- PASS — prior Sadi victims' trauma / withdrawal consequences are source-present institutional history.
-- PASS — subsequent students receive disastrous 3–8 point scores, making Sancho's 17 exceptional by comparison.
-- PASS — faculty anger, compensation discussion, and internal factional politics remain attributed to the professors.
-- PASS — chapter ends with Sadi noticing Vikir in the waiting line.
+## Completeness findings
+- Historical draft compressed Sadi's physical introduction, Dolores confrontation, Banshee/Sadi noble-house argument, vodka/glass behavior, the reason Sadi remains employed, and the full sequence of low exam scores.
+- Rebuilt draft restores Sadi's black military uniform, purple ponytail, 31 cm needle heels, fingertip scars, whip, and vodka/glass chewing.
+- PASS — Dolores stands her ground after growth from the Dantalian battle; Banshee physically interposes and removes Sadi's pressure.
+- PASS — House Morgue / fallen House Sade social-status argument is retained without turning it into narrator endorsement.
+- PASS — Sadi's exceptional combat instinct and criminal-psychology ability are explicitly separated from her abusive conduct; Banshee recognizes both.
+- PASS — prior students' trauma/leave/withdrawal/fear of combat is restored as the institutional cost of Sadi's behavior.
+- PASS — post-Sancho scores are restored as a sequence of extremely low results (4, 3, 8, 6, 5, 7, 4...), with faculty openly discussing later compensation.
+- PASS — chapter ends with Sadi noticing Vikir among the waiting students.

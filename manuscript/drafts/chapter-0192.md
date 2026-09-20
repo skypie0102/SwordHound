@@ -1,8 +1,10 @@
 # Chapter 192: Attack Land (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/192.txt` — `0b25e79b8278c1aa844e684f4128c2504a18f00d`. Recovered English Chapter 190 is the verified shifted secondary witness. Canonical/project terminology controls Sinclaire, Dolores L. Quovadis, Professor Sadi, House Morgue, Hot Department, Haste, and the three simultaneous Class 3 spells. **Sequence correction:** C192's final call of “Vikir” is an isolated target-name slip; E190 and C193 prove the next examinee is **Pigi**. The draft therefore ends with Sadi calling Pigi next.
+> Chinese-primary reconstruction from `source/chinese/chapters/192.txt`. Recovered English Chapter 190 is the verified shifted secondary witness. Canonical/project terminology controls **Sinclaire**, **Dolores L. Quovadis**, **Professor Sadi**, **Sancho Barataria**, **Hot Department**, **Haste**, and the three simultaneous Class 3 spells. **Sequence correction:** C192's final call of “Vikir” is an isolated target-name slip; E190 and C193 prove the next examinee is **Pigi**. The chapter therefore ends with Sadi calling Pigi next.
 
-Vikir stood below the arena.
+“…”
+
+Vikir remained where he was.
 
 Expression unchanged.
 
@@ -12,165 +14,197 @@ a white-haired girl stepped forward.
 
 **Sinclaire.**
 
-Top student of the Hot Department.
+The Hot Department's top first-year.
 
-She already knew—
+She had clearly realized it was her turn.
 
-her turn had come.
+“Hot Department, Class A.”
 
-“Hot Department.”
-
-“Class A.”
+Sadi looked at the roster.
 
 “Number sixty-nine.”
 
-Sadi's voice carried across the arena.
+“You're Sinclaire?”
 
-“Sinclaire?”
+Interest filled her voice.
 
-Interest.
+Sinclaire was a commoner.
 
-Real interest.
+No noble family name.
 
-Sinclaire was a commoner—
+And yet—
 
-without a surname.
+her performance in both practical and written exams was unmatched.
 
-Yet she ranked first in her department.
-
-Written exams.
-
-Practical work.
-
-General courses.
+Outside normal classes, she joined cultural courses.
 
 Clubs.
 
 Volunteer work.
 
-Part-time employment.
+Part-time work.
 
-Everything.
+She had become famous as the Academy's model all-rounder.
 
 Students knew her.
 
 Professors knew her.
 
-Even well-connected parents—
+Even some parents who paid close attention to Academy affairs knew the name Sinclaire.
 
-knew her name.
+Perhaps that was exactly why—
 
-Sadi—
+Sadi was interested.
 
-therefore—
+Dolores approached Sinclaire before she entered.
 
-noticed her too.
-
-Dolores moved beside Sinclaire.
-
-“If it becomes dangerous—
+“If things become dangerous—
 
 withdraw.”
 
-“Sadi is not a normal examiner.”
+Sinclaire turned.
 
-“She advises the Imperial Guard on arrest and interrogation.”
+“Professor Sadi isn't only an Academy professor.”
 
-“She is powerful.”
+“She serves as an adviser to the Imperial Guard's arrest and interrogation units.”
 
-“And she targets students she finds interesting.”
+“Her skill is real.”
+
+Dolores lowered her voice.
+
+“And she has a twisted habit.”
+
+“If she sees a talented student—
+
+she wants to break them.”
+
+“She may target you specifically.”
 
 Sinclaire shook her head.
 
+Her expression was firmer than usual.
+
 “I expected that.”
 
-Dolores blinked.
+“…What?”
 
-“From the moment I learned she was my examiner.”
+“From the moment I learned Professor Sadi would be my examiner.”
 
-Sinclaire's eyes remained steady.
+Sinclaire looked up.
 
-“I need a strong score.”
+Her eyes were clear.
 
-“For my scholarship.”
+“Thank you for worrying about me, President.”
 
-“For tuition.”
+“But I need a good score.”
+
+“If I want the scholarship to cover my tuition.”
+
+“I understand.”
 
 Dolores frowned.
 
-“Other professors can compensate later.”
+“But Sadi is different.”
 
-“Extra work.”
+“Even if you withdraw, other professors can compensate.”
 
-“Adjustment points.”
+“Extra credit.”
 
-“Anything.”
+“Special points.”
 
-“This isn't worth getting hurt.”
+“Something.”
 
-Sinclaire looked toward the injured students.
+Sinclaire hesitated.
+
+Then looked toward the injured students.
+
+Many were still groaning on the ground.
 
 Hot Department students—
 
-especially—
+with generally lower physical durability than Cold Department fighters—
 
-had suffered.
-
-Less physical durability.
-
-More severe injuries.
+had suffered especially badly.
 
 Sinclaire bit her lip.
 
-“I can't run away from the person who did that to my friends.”
+“I can't run away from someone who did that to my friends.”
 
-“I want to take the same test—
+Dolores went silent.
+
+“I want to take the same exam—
 
 under the same conditions—
 
 as everyone else.”
 
-Dolores understood.
+The determination reached Dolores immediately.
 
-She had once been a first-year too.
+Of course she understood.
 
-Friendship—
+Dolores had also been a first-year once.
 
-felt especially sharp then.
+Friendships made during those early days—
+
+were intense.
 
 “…All right.”
 
-“But if you're in real danger—
+She nodded.
 
-stop.”
+“There's a saying.”
 
-“Come straight to me.”
+“Love your classmates—
+
+love your country.”
+
+Sinclaire smiled.
+
+“Thank you, President!”
+
+“Don't thank me yet.”
+
+Dolores pointed a finger.
+
+“If it becomes truly dangerous—
+
+withdraw immediately.”
+
+“Then come straight to me.”
 
 “I'll heal you.”
 
 “Yes!”
 
-Sinclaire jumped into the arena.
+Sinclaire answered loudly and jumped into the arena.
 
-Sadi smiled down at her.
+Sadi looked at her.
 
-“So you're *that* Sinclaire.”
+The expression was almost innocent.
 
-“Excellent grades.”
+Like a child looking down at an insect it was about to tear apart.
 
-“Excellent combat sense.”
+“Oh~”
+
+“So you're **that** Sinclaire.”
+
+“Top grades.”
+
+“Excellent combat instinct.”
+
+“Gentle.”
 
 “Kind.”
 
-“Friendly.”
-
-“Classes.”
+“Good at cultural courses.”
 
 “Volunteer work.”
 
-“Clubs.”
+“Club activities.”
 
-“All of it?”
+“Everything?”
+
+Sinclaire bowed her head slightly.
 
 “Thank you.”
 
@@ -178,141 +212,185 @@ Sadi smiled down at her.
 
 “Pretty voice too.”
 
-Sadi leaned forward.
+Sadi's smile grew.
 
-“Pretty face.”
+“And a pretty face…”
+
+For a moment—
+
+it almost sounded like praise.
 
 Then—
 
-“Must be satisfying to ruin.”
+“Must feel wonderful to destroy.”
 
-Silence.
+The atmosphere froze.
 
-Mana spread.
+Sssssss—
 
-Sadi's humanoid mud golem stood.
+Sadi's mana spread.
 
-Long vine whip in hand.
+Her avatar—
 
-The golem's mouth moved.
+a humanoid mud golem roughly matching her build—
 
-[There's a ridiculous rumor around the Academy.]
+rose.
+
+A long vine whip rested in its hand.
+
+Its mouth moved.
+
+Sadi's voice came out.
+
+[There's a ridiculous rumor going around the Academy.]
 
 [That I bully talented students.]
 
-Sinclaire hesitated.
+Sinclaire flinched.
 
-Had the rumor been wrong?
+Rumor?
 
-Was Sadi not driven by envy?
+Was that not true?
 
-Inferiority?
+Had everyone misunderstood Sadi?
 
-Then Sadi laughed.
+Was the real motive not jealousy?
 
-[Of course I bully them.]
+Not inferiority?
 
-[I bully everyone.]
+Sinclaire had barely begun to question it when Sadi laughed.
 
-[Talented or not.]
+[Of course it's true.]
+
+[I bully talented students.]
+
+[I bully untalented students too.]
+
+[Everyone equally.]
 
 The whip snapped.
 
-Crack!
+CRACK!
 
 Stone split.
 
 Sinclaire dodged.
 
-The whip followed—
+The whip followed.
 
-alive like a serpent.
+Flexible as an eel.
 
-[Talented ones just struggle longer.]
+Alive like a snake.
 
-[So they hurt more.]
+[Talented students just struggle longer.]
 
-Sadi clicked her tongue.
+[So they get hurt more.]
 
-[Sancho, was it?]
+Sadi licked dry lips.
 
-[People expected something from him.]
+[That one earlier…]
 
-[If *that* is the Cold Department's ace—]
+[Sancho?]
 
-[the Academy's standards really have fallen.]
+[People seemed to expect something from him.]
 
-Then—
+[If a mediocre talent like that is the Cold Department's ace—
 
-[Show me what the Hot Department's ace can do.]
+the Academy's standards have fallen.]
 
-The whip exploded through the air.
+[Disappointing.]
 
-Sinclaire cast wind on herself.
+Her whip continued tearing through the air.
+
+[What about you?]
+
+[Hot Department ace.]
+
+[Show me something interesting.]
+
+CRACK!
+
+CRACK!
+
+CRACK-CRACK!
+
+Stone tiles exploded.
+
+Sinclaire cast wind around herself.
 
 “Haste!”
 
-She accelerated.
+Her movement accelerated.
 
-Slipped between loops of the whip.
+She slipped between the whip's loops and headed for the outer edge.
 
-Reached the outer edge.
+Fast as a gust.
 
-Fast.
-
-Very fast.
-
-Sadi's golem—
-
-caught her anyway.
+Then—
 
 [That's Haste?]
+
+Sadi's golem followed easily.
 
 [In real combat—
 
 you'd die immediately.]
 
-Students gasped.
+“!?”
 
-Professors—
+The gasp did not come only from Sinclaire.
 
-too.
+Students.
 
-Remote golem control always carried imperfections.
+Professors.
 
-Synchronization delay.
+Everyone watching reacted.
 
-Distance distortion.
+Remote golem control was never perfect.
 
-Different limb lengths.
+Even expert combat professors suffered small synchronization delays.
 
-Different proportions.
+The professor's body and the golem's body differed.
+
+Limb length.
+
+Thickness.
+
+Center of balance.
+
+Movement speed.
+
+And because the professor was trying to intercept a distant target—
+
+distance judgment inevitably drifted.
 
 Sadi—
 
-seemed to have none.
+showed none of those flaws.
 
-Her movements flowed through the construct—
+Her focus was monstrous.
 
-as if she were physically standing in front of Sinclaire.
+The golem moved as if Sadi herself were physically fighting Sinclaire face-to-face.
 
-[Running away doesn't score points.]
+[Running away doesn't earn points.]
 
-Sinclaire stopped.
+Sinclaire planted her feet.
 
-“Then thank you for the advice.”
+“Yes.”
 
-Mana circles formed.
+“That's true.”
+
+“Thank you for the advice.”
+
+Mana circles spread.
 
 Three layers.
 
-Nine circles total.
+Nine rings in total.
 
 Then—
 
-three Class 3 spells—
-
-simultaneously.
+three Class 3 spells activated simultaneously.
 
 Fire.
 
@@ -320,23 +398,33 @@ Ice.
 
 Wind.
 
-A level of mana affinity exceptional even beside House Morgue's young mages.
+A feat of mana affinity extraordinary for someone her age.
 
-Sadi laughed.
+Enough to rival—
 
-[Is that all?]
+perhaps even surpass—
 
-[Maybe I'd have more fun with the heavy brutes from Varangian.]
+many young mages of House Morgue.
+
+Sadi looked at the incoming spears of flame, frost, and compressed wind.
+
+Then laughed.
+
+[Hot Department's ace?]
+
+[That's all?]
+
+[I might have more fun breaking the heavy idiots.]
 
 One kick.
 
-Boom!
+BAM!
 
-All three spells shattered.
+All three spells collapsed.
 
-Mana backlash hit Sinclaire.
+The forced cancellation recoiled through Sinclaire's mana.
 
-Blood ran from—
+Blood ran from her—
 
 eyes.
 
@@ -346,68 +434,106 @@ mouth.
 
 ears.
 
-The golem rushed in.
+She stumbled backward.
 
-Punches.
+The golem was already on her.
 
-Kicks.
+Punch.
 
-Explosive motion.
+Kick.
 
-The construct's entire body—
+Elbow.
+
+Knee.
+
+BAM!
+
+BAM!
+
+BAM-BAM-BAM!
+
+Sadi squeezed extraordinary efficiency from the limited mana permitted through the golem.
+
+Short explosive releases.
+
+Perfect body control.
+
+The construct moved with grotesque flexibility.
+
+Twisting.
+
+Bending.
+
+Snapping forward.
+
+Its entire body—
 
 like a whip.
 
+“Aaah!”
+
 Sinclaire screamed.
 
-Retreated.
+She retreated while barely avoiding the physical blows.
 
-Barely avoided one strike.
+Then Sadi's voice came from beside her.
 
-Then another.
+[Oh?]
 
-Sadi's voice came from beside her.
-
-[You forgot something.]
+[Did you forget something?]
 
 [My whip.]
 
-The vine had already surrounded her.
+Sinclaire's eyes widened.
 
-Snap!
+The punches and kicks had been so dangerous—
+
+she had forgotten the weapon.
+
+The vine whip had already wrapped around her.
+
+SNAP!
 
 It tightened.
 
-Sinclaire froze—
+Sinclaire's entire body locked.
 
-bound.
+“…!”
 
-A pointed heel stopped—
+She turned her head.
 
-almost against her eye.
+A needle-like heel—
 
-She jerked her head away.
+almost touched her eye.
+
+Sinclaire jerked backward and avoided it.
 
 The second kick—
 
-hit.
+landed.
 
-Boom!
+BAM!
 
-Ribs broke.
+A heavy middle kick.
 
-Internal organs—
+Even without checking—
 
-injured.
+Sinclaire knew.
 
-Sinclaire flew from the ring.
+Ribs broken.
 
-The status appeared.
+Some driven into internal organs.
 
-> **Hot Department — Class A — No. 069**
->
-> **Sinclaire**
->
+She flew through the air.
+
+Like a kite with its string cut—
+
+she fell outside the arena.
+
+The score appeared.
+
+> **Hot Department — Class A — No. 069**  
+> **Sinclaire**  
 > **Examiner: Professor Sadi**
 >
 > Effective Hits: 3  
@@ -419,85 +545,109 @@ The status appeared.
 
 Nineteen.
 
-The Hot Department's best first-year—
+The Hot Department's best student—
 
-barely above average.
+someone who had never truly failed any test—
+
+barely reached an ordinary average.
 
 “Sinclaire!”
 
 Dolores caught her.
 
-Healing light spread immediately.
+Healing power flowed immediately.
 
-Other professors rushed over.
+Other professors rushed over too.
 
 Sinclaire coughed blood.
 
-“Sorry…”
+“Sorry… President…”
 
 “Don't speak.”
 
-Dolores gripped her hand.
+Dolores tightened her grip on Sinclaire's hand.
 
-“Internal injuries take time.”
+“Internal injuries need time.”
 
-Sinclaire smiled weakly.
+Sinclaire gave a weak smile.
 
 “My scholarship…”
 
-“I probably lost it.”
+A cough.
 
-Dolores's expression tightened.
+“…I probably lost it.”
+
+Dolores's face tightened.
 
 She could pay Sinclaire's tuition herself.
 
-Easily.
+House Quovadis had more than enough money.
 
 But that was not the point.
 
-Sinclaire wanted to do it—
+Sinclaire wanted to succeed through her own strength.
 
-with her own effort.
-
-Exams.
+Exam.
 
 Tuition.
 
 Life.
 
-Then—
+Accepting rescue from someone's wealth—
 
-Sadi laughed.
+would not mean the same thing.
 
-“Crying over a scholarship?”
+“Hehehe…”
+
+Sadi laughed into the silence.
+
+She looked directly at Sinclaire's tears.
+
+“Crying because you lost your scholarship?”
+
+“Child.”
 
 “I'll give you money.”
 
-“Don't cry.”
+“Don't cry over something like that.”
 
-“You're not a beggar.”
+“You're not a beggar, are you?”
 
-She knew exactly where the words would hurt.
+She knew.
 
-Students stiffened.
+That was exactly why she said it.
 
-Professors stiffened.
+The words hurt twice.
 
-Vikir—
+Students' faces hardened.
 
-did not move.
+Professors' faces hardened.
 
-Then Sadi turned toward the roster.
+Only one person—
+
+did not visibly react.
+
+“…”
+
+Vikir.
+
+He stared at Sadi without expression.
+
+Then Sadi reached for the roster.
 
 “Next.”
 
-Her smile widened.
+Her killing intent sharpened.
 
-“Cold Department…”
+“Cold Department, Class B…”
 
-A slight pause.
+The Chinese line gives Vikir's name here, but the sequence immediately proves that is a source slip.
 
-Then—
+Sadi's gaze moved to the actual next examinee.
+
+A smaller boy holding a sword with trembling hands.
+
+She smiled.
 
 “**Pigi.**”
 

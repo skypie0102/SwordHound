@@ -2683,8 +2683,9 @@
       "qa": "qa/chapter-0190.md",
       "provenance": "editorial/provenance/chapter-0190.json",
       "acceptance": "qa/acceptance/chapter-0190.json",
-      "acceptance_sha": "2ed22a31d7f665afaa4a881aeb9873dcaf456bda",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "717737fe4fd0eae57265e8ee16f6747c5d794042",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 191,
@@ -2697,8 +2698,9 @@
       "qa": "qa/chapter-0191.md",
       "provenance": "editorial/provenance/chapter-0191.json",
       "acceptance": "qa/acceptance/chapter-0191.json",
-      "acceptance_sha": "4e488e1644f46dce8fe65d43876193eb3d754a6b",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "090424a6c89784b975e0ba533e7f83cb32ed9459",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 192,
@@ -2711,8 +2713,9 @@
       "qa": "qa/chapter-0192.md",
       "provenance": "editorial/provenance/chapter-0192.json",
       "acceptance": "qa/acceptance/chapter-0192.json",
-      "acceptance_sha": "72749504d4995c2edf189722a5f9905e463cb20c",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "007e1d212ff08de0973a67dd3670403a61ac377d",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 193,
@@ -2725,8 +2728,9 @@
       "qa": "qa/chapter-0193.md",
       "provenance": "editorial/provenance/chapter-0193.json",
       "acceptance": "qa/acceptance/chapter-0193.json",
-      "acceptance_sha": "2e76bc27e6c62beeb1c38712471bfb66de9313ba",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "ec4fdcb8dc883ef76133751e20b6903945720772",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 194,
@@ -2739,8 +2743,9 @@
       "qa": "qa/chapter-0194.md",
       "provenance": "editorial/provenance/chapter-0194.json",
       "acceptance": "qa/acceptance/chapter-0194.json",
-      "acceptance_sha": "5fc714840c812186041c241118360937c14d6264",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "ef2f1a5a147faa65691635ccf7568f408e6760af",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 195,
@@ -2753,8 +2758,9 @@
       "qa": "qa/chapter-0195.md",
       "provenance": "editorial/provenance/chapter-0195.json",
       "acceptance": "qa/acceptance/chapter-0195.json",
-      "acceptance_sha": "1d37553fa75dbcc2eedc7ce86706cff28b21957c",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "1652039527b0994ce9daaa2a5e89bbb3ecb4671e",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 196,
@@ -2767,8 +2773,9 @@
       "qa": "qa/chapter-0196.md",
       "provenance": "editorial/provenance/chapter-0196.json",
       "acceptance": "qa/acceptance/chapter-0196.json",
-      "acceptance_sha": "c4de2376b20bf20862668ce44e7338d8693c93f8",
-      "family_qa": "qa/families/attack-land-0190-0196.md"
+      "acceptance_sha": "b103926936fc1fecd0910d330ecc2135bdca509b",
+      "family_qa": "qa/families/attack-land-0190-0196.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 197,
@@ -7163,11 +7170,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All four historical drafts were materially compressed; Chapter101 now exclusively owns the post-cliff landing/Madam-death/Venom/rescue sequence after target100 boundary repair."
+      },
+      {
+        "name": "Attack Land",
+        "range": [
+          190,
+          196
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All seven historical drafts were materially compressed; C192 Pigi-next and C193 Pigi-department corrections preserved."
       }
     ],
     "pending_priority_review_chapters": [
-      192,
-      196,
       225,
       228,
       230,
@@ -7200,12 +7215,12 @@
       421,
       431
     ],
-    "pending_priority_review_count": 33,
+    "pending_priority_review_count": 31,
     "next_family": {
-      "name": "Attack Land",
+      "name": "Tuition",
       "range": [
-        190,
-        196
+        225,
+        233
       ]
     },
     "resolved_confirmed_needs_rework": [
@@ -7239,7 +7254,9 @@
       101,
       102,
       103,
-      104
+      104,
+      192,
+      196
     ]
   }
 }

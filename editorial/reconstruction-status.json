@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 497,
   "staged_chapters": 0,
-  "next_chapter": 190,
+  "next_chapter": 225,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "Attack Land",
+    "name": "Tuition",
     "range": [
-      190,
-      196
+      225,
+      233
     ],
-    "reason": "next priority-containing family; targets192 and196 are in the initial priority queue"
+    "reason": "next priority-containing family; targets225,228,230,231 are in the initial priority queue"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -559,6 +559,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: Attack Land targets190-196 all rebuilt/pass. Priority targets192 and196 resolved; 31 initial-priority chapters remain.",
     "Completeness audit: Nostalgia targets101-104 all rebuilt/pass. Corrected family QA now treats target101 as exclusive owner of landing/Madam-death/Venom/rescue after target100 boundary repair.",
     "Completeness audit: Madam Eight-Legs targets95-100 rebuilt/pass. Chapter97 confirmed failure resolved; current accepted count 497/500 with 316,319,420 still needs-rework.",
     "Target95 has a verified localized Chinese omission restored only from aligned E94; target100 historical draft crossed into target101 and has been corrected to end at the Bog Salamander cushion.",
@@ -1029,7 +1030,7 @@
       420
     ],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 33,
+    "pending_priority_review_count": 31,
     "completed_families": [
       {
         "name": "The Illiad",
@@ -1063,6 +1064,15 @@
         "range": [
           101,
           104
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
+      },
+      {
+        "name": "Attack Land",
+        "range": [
+          190,
+          196
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"

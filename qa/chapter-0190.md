@@ -1,24 +1,20 @@
 # Chapter 190 QA — Attack Land (1)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/attack-land-0190-0196.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20  
+**Family acceptance:** contingent on revised `qa/families/attack-land-0190-0196.md`
 
 ## Evidence
 - Chinese: `source/chinese/chapters/190.txt` — `090ea8b431f3d46a7c53469a4f2c0b4c621eef38`
 - English witness: **E188** — `14dcf17305b925b422bc79656578fb236858c9c3`
-- Draft: `manuscript/drafts/chapter-0190.md` — `b4993195dd51fd5de85111bb1a7bbbaf8d7f7df0`
+- Rebuilt draft: `manuscript/drafts/chapter-0190.md` — `4947fe8cc91d74f0f7f51db1d73afddb722cb3fa`
 
-## Checks
-- PASS — Attack test uses professor-controlled humanoid golems that mirror movement from a separate control space.
-- PASS — remote control creates distance / limb-proportion / synchronization disadvantages for professors.
-- PASS — roster sections determine assigned examiner and students are expected to study the examiner's fighting style.
-- PASS — Professor Banshee Morgue demonstrates feints through false thorns, false punch, then a real kick.
-- PASS — Banshee's lesson is victory-first combat: magic, fists, feet, teeth, or any useful method.
-- PASS — Tudor score: 12 hits / 20 dodges / 3 blocks / 0 criticals = **35**.
-- PASS — Highbro 34; Middlebro 33; Lowbro 33 before Tudor's result.
-- PASS — triplets' refusal to rise to Tudor's provocation is consistent with Vikir's lifelong no-unauthorized-conflict order.
-- PASS — Bianca score: 7 / 24 / 0 / 0 = **31**; archer disadvantage is explicit.
-- PASS — Granola score: 11 / 22 / 2 / 0 = **35**, tying Tudor.
-- PASS — Sancho is expected to excel because of northern-warrior physicality and unrestricted mana.
-- PASS — Sancho instead receives **17** under Professor Sadi: 8 hits / 9 dodges / 0 blocks / 0 criticals.
-- PASS — chapter closes on Sadi as the professor responsible for Sancho's bloody condition.
+## Completeness findings
+- Historical draft preserved the exam skeleton but compressed the first-principal teaching philosophy, roster/examiner preparation logic, Tudor's full Banshee exchange, and several student reactions.
+- Rebuilt draft restores the remote-avatar handicap in full: distance, limb/reach differences, synchronization/spacing issues, and professor-specific golem styles.
+- PASS — Banshee's “combat exists to win; use fists, feet, teeth, anything” lesson is retained.
+- PASS — scores preserved exactly: Tudor 35, Bianca 31, Granola 35, Highbro 34, Middlebro 33, Lowbro 33, Sancho 17.
+- PASS — Bianca's archer disadvantage is retained as a test-format issue, including her argument with Tudor.
+- PASS — Tudor's “final weapon” setup for Sancho and the shared expectation that Sancho could break the individual record are restored before Sadi destroys that expectation.
+- PASS — Sancho's body is visibly bloodied after the exam and Dolores immediately treats him.
+- PASS — chapter ends on Professor Sadi's introduction as the examiner responsible for Sancho's 17-point result.
