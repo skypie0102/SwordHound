@@ -442,7 +442,7 @@ Then she corrected the name.
 
 “No.”
 
-“We hunt the **Fourth Corpse — Cimeries**.”
+“We hunt the **Fourth Corpse — Chimeries**.”
 
 The Night Walkers did not object.
 
