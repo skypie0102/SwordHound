@@ -2,8 +2,8 @@
   "chapter": 336,
   "title": "The Mating Room (4)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -11,8 +11,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
-    "status": "pass"
+    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/336.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-334.xhtml",
     "english_reference_sha": "a0d6f62e760747fb8e6597d31f11e5e04b296cde",
     "draft_path": "manuscript/drafts/chapter-0336.md",
-    "draft_sha": "d6ac99fab9ccfb0458d3de304fe3365f5c9e2e4c",
+    "draft_sha": "1cf18fc771f33a10147b3cd053da2a438c455474",
     "qa_path": "qa/chapter-0336.md",
-    "qa_sha": "fe0e7a4fbdca31cb84032aeee5160d232f77ecf6",
+    "qa_sha": "e1e07103bd689b7c892c55b26e5d921c5fca75dc",
     "provenance_path": "editorial/provenance/chapter-0336.json",
-    "provenance_sha": "3f9b57d45c706a727c24565098472e44e0607469"
+    "provenance_sha": "8e90d8e3f13ea8ea3d4de289baffb84817d9103b"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Trap-family material from target339 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "d6ac99fab9ccfb0458d3de304fe3365f5c9e2e4c",
+    "qa_sha": "fe0e7a4fbdca31cb84032aeee5160d232f77ecf6",
+    "provenance_sha": "3f9b57d45c706a727c24565098472e44e0607469"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/mating-room-0333-0338.md",
+    "initial_priority_target": false
+  },
+  "consent_note": "Sinclaire's mist-affected behavior occurs under grief/trauma/drug exposure and is not reliable consent."
 }
