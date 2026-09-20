@@ -1,22 +1,25 @@
 # Chapter 316 QA — Surplus Man (3)
 
-**Status:** NEEDS REWORK — prior PASS superseded by post-500 completeness audit  
-**Family acceptance:** contingent on `qa/families/surplus-man-0314-0320.md`
-
-## Reopening note
-
-Direct Chinese/draft comparison confirms extended survivor dialogue, voting discussion, social dynamics, and transitions were collapsed into terse summary fragments. The checks below remain useful as historical plot/terminology checks, but they did **not** establish complete sentence-level source coverage and must not be used to re-accept this draft. Rebuild against the full Chinese raw, then regenerate QA/provenance/acceptance evidence.
+**Status:** PASS — CONFIRMED FAILURE REBUILT  
+**Completeness-audit review:** 2026-09-20  
+**Prior status:** NEEDS REWORK — compressed survivor debate/voting/social dynamics
 
 ## Evidence
 - Chinese: `source/chinese/chapters/316.txt` — `6beb3b2933ecc0d87886e950e1a45a3d532e5b90`
 - English witness: **E314** — `0b5b9b04b8c7ecd083a615735e3cef66d251e009`
-- Draft: `manuscript/drafts/chapter-0316.md` — `7de240c7e605e985496aa652b2b15479bd6a6e6c`
+- Rebuilt draft: `manuscript/drafts/chapter-0316.md` — `230dd7b3235fed5d89878c958da1605dc9476b96`
 
-## Checks
-- PASS — Sixty-eight survivors debate sacrifice criteria only after concluding supplies cannot support the maximum mission duration.
-- PASS — Arthur Gordon Pym is preserved as the noble-faction third-year leader from the aligned witness.
-- PASS — Tower conditions overturn outside hierarchies: candy-enhanced current ability matters more than family/faction prestige.
-- PASS — Voting produces a socially isolated first-year as the selected offering, exposing the group’s moral collapse.
-- PASS — The selected student’s family ties are preserved to emphasize that he is not truly ‘surplus’.
-- PASS — Chapter ends with Vikir volunteering to become the food; no Daylily strategy is imported early.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/item forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Confirmed compression failure is resolved: the full survivor debate, voting process, hierarchy collapse, social coercion, and transitions are restored.
+- PASS — 68 survivors first prioritize tomorrow's offering over food/warmth.
+- PASS — group estimates limited supplies might last roughly two weeks, making a reduction from 68 days to ~14 require over 50 deaths/offerings.
+- PASS — a shouted cannibalism remark freezes the group because everyone already understands the demon's intended social design.
+- PASS — **Arthur Gordon Pym** stands as third-year noble-faction leader and temporarily brackets food/water/cannibalism to address the immediate offering.
+- PASS — vote requires a candidate/criterion first, so students try indirect guilt-reducing standards.
+- PASS — proposed criteria include strength, academic performance, year, age, admission year, wealth, friend count, and family connections.
+- PASS — the timid student vs one-handed muscular student confrontation demonstrates tower hierarchy replacing outside social power; red candies contribute to the timid student's current strength.
+- PASS — wealthy-family threat against parents' business fails because outside leverage requires first escaping the tower.
+- PASS — guilt erodes as the discussion becomes market-like and majority-rule rhetoric replaces moral hesitation.
+- PASS — selected offering is a socially isolated first-year with poor grades/athletics/no advocates.
+- PASS — his parents and younger siblings are explicitly restored to prevent “surplus” framing from becoming narrator endorsement.
+- PASS — chapter ends exactly when Vikir volunteers to become the food; no anti-Daylily plan is imported early.
