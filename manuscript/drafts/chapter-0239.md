@@ -1,349 +1,521 @@
 # Chapter 239: National University League (4)
 
-> Chinese-primary reconstruction from source/chinese/chapters/239.txt — 685a5dac9aa4a839013d08c4dd3f341267a70aa8. Recovered English Chapter 237 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Dolores L. Quovadis, Sinclaire, Banshee Morgue, Professor Sadi, Temisquira Women’s College, Merelini Lovegood, and the Baskerville triplets. The rumored royal freshman remains unidentified.
+> Chinese-primary reconstruction from `source/chinese/chapters/239.txt`. Recovered English Chapter 237 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Dolores L. Quovadis**, **Sinclaire**, **Professor Banshee Morgue**, **Professor Sadi**, **Temisquira Women’s College**, **Merelini Lovegood**, and the **Baskerville triplets**. The rumored first-year Imperial Family member remains unidentified.
 
 Before leaving the compartment—
 
-Vikir gave the Baskerville triplets a slight look.
+Vikir gave the Baskerville triplets a brief look.
 
 Click.
 
-The door closed.
-
-A scream erupted behind him.
+The door closed behind him.
 
 Then—
 
-muffled.
+“AAAAAAGH—!”
+
+A scream erupted from inside.
+
+Then stopped abruptly.
 
 Apparently—
 
-the hounds understood their master.
+the hounds had understood what their master meant.
 
-Granola would be quieter now.
+With troublesome Granola subdued—
 
-Group work should become easier.
+group activity should be easier.
 
-Vikir walked toward the passage connecting the cars.
+Vikir continued toward the connecting corridor between cars.
 
-Shops.
+A small shop.
 
-A small café.
+A café.
 
 Passengers moving between compartments.
 
-A little girl stood in front of a glass case—
+Then—
 
-staring at a cake.
+his eyes met those of a little girl standing before a glass display.
+
+She was staring at a cake.
+
+Wanting it badly enough that the expression needed no explanation.
 
 Vikir bought a bottle of water.
 
-And the cake.
+Then—
 
-The coins in his pocket were almost exactly enough.
+the cake too.
 
-He crouched to the girl’s eye level.
+The money left in his pocket happened to be almost exactly enough.
 
-“I bought too much by mistake. You can have it.”
+He crouched until their eyes were level.
 
-Her face lit up.
+“I bought too much by mistake.”
+
+“If you want it—
+
+you can have this.”
+
+The girl's face brightened.
 
 “Thank you, mister!”
 
-She took the cake—
+She took the wrapped cake.
 
-and suddenly kissed his cheek.
+Then—
 
-A Sword Master’s dynamic vision could have avoided it easily.
+before Vikir expected it—
 
-Vikir did not.
+kissed his cheek.
 
-The word *mister* had caught somewhere inside him.
+A Sword Master's dynamic vision could have avoided something that slow effortlessly.
+
+Vikir did not move.
+
+The word—
+
+*mister*—
+
+had caused a strange feeling.
+
+So he simply allowed the kiss.
+
+Then straightened.
 
 “…Not mister.”
 
-He straightened.
-
 “Brother.”
 
-He looked toward the distant mountains.
+He looked toward the mountains beyond the train window.
 
-For an instant—
+A girl's face from memory drifted across his thoughts—
 
-a girl’s face from memory drifted through his mind like a cloud beyond the window.
+like a cloud outside—
 
-Then vanished.
+then faded.
 
-“Mister, huh.”
+A voice came from behind him.
 
-A calm voice came from behind.
+“…Mister.”
 
-“You really aren’t old enough for that.”
+“Come to think of it, I'm still not old enough to be called that either.”
 
 Vikir turned.
 
-Dolores L. Quovadis.
+**Dolores.**
 
-Stern.
+The solemn, dignified student council president stood there holding—
 
-Dignified.
+eggs.
 
-Student council president.
+And soda.
 
-Holding boiled eggs and soda.
-
-Their eyes met.
-
-Dolores quietly hid the food behind her back.
+“…”
 
 “…Ahem.”
 
-Then she recovered.
+Under Vikir's gaze—
 
-“Temisquira’s contestants are in the rear cars. Avoid unnecessary contact before the tournament. If they decide to start something, it will become a headache.”
+Dolores quietly moved the snacks behind her back.
+
+“The cars behind this one contain Temisquira competitors.”
+
+“Try not to interact with them before the tournament.”
+
+“If they start trouble—
+
+it becomes an inter-school issue.”
 
 “Understood.”
 
-Dolores lingered.
+Vikir nodded.
 
-As if she wanted to add something.
+Dolores seemed to want to say something else.
 
-Then Banshee Morgue appeared in the opposite passage.
+She hesitated.
 
-“Student council president. Professor Sadi isn’t at the lead position. Have you seen her?”
+Then—
 
-“I think I saw her near the Varangian cars.”
+another familiar figure came down the opposite corridor.
 
-Banshee’s face darkened.
+Professor Banshee Morgue.
 
-“Hopeless. Why does the principal keep employing someone like that?”
+“Student council president.”
 
-He turned away—
+“Professor Sadi is not at the staff position.”
 
-dragging Dolores into the search.
+“Have you seen her?”
 
-Dolores looked back.
+Dolores thought.
 
-“Wait. Then we can take one more person—”
+“I saw her near the Varangian competitors' cars.”
 
-Banshee glanced over.
+Banshee's face hardened.
+
+“That woman is impossible.”
+
+“Why does the principal keep employing her?”
+
+He was angry enough to insult a colleague openly in front of students.
+
+Then he started toward the Varangian section.
+
+Dolores—
+
+who had clearly wanted to remain with Vikir longer—
+
+was pulled into the search almost by force.
+
+“Wait.”
+
+“Then bring one more person.”
+
+Banshee looked back.
+
+“One more?”
 
 “Who?”
 
-“Of course, he’s right—”
+“Obviously the person right—”
 
-Empty.
+Dolores turned.
 
-Vikir was gone.
+Then froze.
+
+The place where Vikir had been standing—
+
+was empty.
 
 ◆◆◆
 
 *That was close.*
 
-Wind tore across Vikir’s coat.
+Vikir stood on top of the moving train.
 
-He stood on the roof of the moving train.
+Wind tore past him.
 
-The instant Dolores had tried to pull him into the search—
+The instant Dolores had tried to drag him into the search—
 
-he had opened a window—
+Vikir opened a window.
 
-scaled the exterior—
+Climbed outside.
 
-and reached the roof before anyone noticed.
+Reached the roof.
 
-He crossed one carriage.
+All in one fluid movement.
 
-Dropped through another window.
+Fast enough that no one noticed.
 
-Returned to the interior.
+He walked casually along the roof.
 
-This section lay between Colosseo and Temisquira.
+Reached the next car.
 
-One more car back—
+Then entered through a window on the opposite side.
 
-and he would be surrounded by Temisquira students.
+The connecting corridor happened to be empty.
 
-The rear carriage had two levels.
+*This is the boundary between Colosseo and Temisquira.*
 
-A narrow stairway divided them.
+The central section of the Magic Train began here.
 
-Vikir entered at the upper level.
+Beyond it—
+
+the Temisquira students' cars.
+
+One car farther back—
+
+and Vikir would be surrounded almost entirely by women.
+
+The rear cars were double-decked.
+
+A thin partition hid the stairs.
+
+So the window Vikir entered placed him on the upper level.
+
+The Temisquira side felt different.
 
 Quiet.
 
 Tea fragrance.
 
-Soft, elegant heavy-metal music.
+And faintly—
 
-He paused near the window.
+elegant heavy metal music.
 
-Granola needed to be controlled.
+Apparently noble young ladies had their own tastes.
 
-The tournament’s early phase used group tasks.
+Vikir paused near the window.
 
-Scores were individual—
+First—
 
-but refusing all cooperation would draw needless attention.
+Granola.
 
-Thus—
+The boy's contempt for commoners could become inconvenient during team tasks.
 
-the Baskerville triplets.
+Final scoring might be individual—
 
-*Why does he care so much about birth?*
+but the early stages still required group cooperation.
 
-Vikir briefly thought of Granola.
+Vikir did not care about Granola personally.
 
-He himself did not know who his mother was.
+He did care about avoiding unnecessary operational friction.
 
-He had heard she may have been an actress and dancer who spent a short time with Hugo.
+Hence—
+
+the triplets.
+
+*Why is he so obsessed with lineage?*
+
+The thought led somewhere else.
+
+Vikir did not know who his mother was.
+
+Rumor said she had spent a brief time with Hugo.
+
+An actress.
+
+Or dancer.
 
 Even that was uncertain.
 
-One stray thought called another.
+One stray thought pulled another behind it.
 
-There was also a rumor—
+*There is also the rumor about this year's incoming class.*
 
-that one of this year’s freshmen was a member of the Imperial Family.
+One of the Year 20 freshmen—
 
-A child with a low place in the succession.
+supposedly—
 
-Almost treated as illegitimate.
+belonged to the Imperial Family.
 
-No proof.
+Almost an illegitimate branch.
 
-But enough professors had apparently begun paying attention.
+Very low succession rank.
 
-*None of my business.*
+Still—
 
-Vikir cleared his mind.
+royal blood drew attention.
 
-Then stopped.
+Several professors were rumored to have noticed already.
 
-Voices rose from the floor below.
+*Not my problem.*
 
-One—
+Vikir closed his eyes.
 
-familiar.
+Cleared the thought.
+
+Then turned toward the stairs to return to the lower passage.
+
+He stopped.
+
+“…?”
+
+Voices.
+
+Familiar.
+
+Vikir listened.
 
 ◆◆◆
 
-“Ah. The smell of a commoner.”
+“Ugh.”
 
-“It’s on my clothes now.”
+“The smell of commoner.”
 
-“You should at least pay the cleaning fee.”
+“Now it's on my clothes.”
 
-“And shouldn’t you apologize after bumping into someone?”
+“People usually pay cleaning costs when they cause damage, you know~”
 
-“Oh? The famous top student of Colosseo can’t even apologize?”
+Another voice answered—
 
-A group of Temisquira students surrounded one girl.
+calmly.
 
-Sinclaire.
+“If two people collide in a corridor—
+
+shouldn't both people apologize?”
+
+Several Temisquira students had cornered someone near the wall.
+
+White hair.
+
+**Sinclaire.**
 
 She did not retreat.
 
-“A hallway is shared space. I didn’t move aside, but neither did you.”
+“I failed to move aside.”
 
-Her eyes narrowed.
+“So did you.”
 
-“Whether you failed to move—or deliberately refused to—is another matter.”
-
-The woman opposite her touched an expensive shawl.
-
-“You wouldn’t understand. Cleaning this alone costs several semesters of your tuition.”
-
-Merelini Lovegood.
-
-Third-year ace.
-
-Student council president of Temisquira Women’s College.
-
-Born into a wealthy, powerful family.
-
-Proud of both her lineage—
-
-and her school.
-
-She had a reason to dislike Sinclaire.
-
-Sinclaire had placed first on Temisquira’s entrance examination—
-
-then enrolled elsewhere.
-
-She had also topped Mage Tower’s exam—
-
-and Colosseo’s magic-track ranking.
-
-Lovegood herself had once taken Colosseo’s entrance exam—
-
-and failed to place first.
-
-So when she saw Sinclaire on the train—
-
-she took the opportunity.
-
-“This shawl is limited edition!”
-
-Sinclaire inspected it.
-
-“I know the model. It’s old enough that depreciation has pushed the secondhand price down quite a lot.”
-
-Lovegood flared.
-
-“Some used goods appreciate! A famous performer wore this one! Actor G-Pistol used it!”
-
-“If a celebrity of that level raises the price, then the brand’s original value must be doing most of the work.”
-
-Sinclaire’s smile was gone.
-
-Her tone had become cool and dry.
-
-Lovegood’s temple throbbed.
-
-“You’ve been speaking very rudely to a senior.”
-
-“Auntie isn’t a senior at my school.”
-
-“A-Auntie?”
-
-“You’re old enough to know better than to bully a freshman from another academy.”
-
-Sinclaire tilted her head.
-
-“Especially one who entered early.”
-
-Lovegood trembled.
-
-“If this is Temisquira’s spirit, then I have nothing else to say.”
+“That sounds like shared responsibility.”
 
 A pause.
 
-“…I’m glad I didn’t enroll there.”
+“Unless one of us deliberately refused to move.”
 
-The final blow.
+A Temisquira student gripped her shawl.
 
-Temisquira students closed in.
+“What?”
 
-Lovegood pulled out her wand.
+“Now you're pretending to be the victim?”
 
-A star-shaped metal ornament shone with pink light.
+“Do you know how different our losses are?”
+
+She lifted the garment.
+
+“You're a commoner, so you probably don't understand.”
+
+“The dry-cleaning cost alone for this shawl could pay three semesters at your school.”
+
+“Limited edition.”
+
+At the center of the group stood—
+
+**Merelini Lovegood**.
+
+Temisquira's third-year top student.
+
+Student council president.
+
+The Lovegood family possessed enormous wealth—
+
+and ties to aristocratic bloodlines.
+
+Merelini was correspondingly proud.
+
+Of her family.
+
+Of herself.
+
+And especially—
+
+of Temisquira.
+
+That pride had curdled into aggression the moment she saw Sinclaire.
+
+*She took first place in Temisquira's entrance exam—then chose another school.*
+
+And not only Temisquira.
+
+Mage Tower.
+
+Colosseo.
+
+Sinclaire had ranked first everywhere she tested.
+
+Lovegood herself had also taken Colosseo's entrance exam.
+
+She had not placed first.
+
+That memory had never stopped irritating her.
+
+So when she met Sinclaire in the corridor—
+
+she had seized the opportunity.
+
+Sinclaire looked at the shawl.
+
+“I know that piece.”
+
+Lovegood blinked.
+
+“It was limited.”
+
+“But it's been several years.”
+
+“Depreciation is substantial.”
+
+“Secondhand pricing is much lower.”
+
+“I don't think the cleaning cost is what you claimed.”
+
+Lovegood's face reddened.
+
+“Ridiculous!”
+
+“Some secondhand items become **more** valuable!”
+
+“This was worn by a famous singer!”
+
+“Actor G-Pistol actually used it!”
+
+“Do you know nothing about celebrity premiums?”
+
+Sinclaire's answer remained cold.
+
+“If an item only appreciates because a celebrity at that level wore it—
+
+then the original brand value must have been high enough already.”
+
+The smile Sinclaire usually wore—
+
+was gone.
+
+Her expression looked dry.
+
+Sharp.
+
+A vein rose on Lovegood's forehead.
+
+“You little brat.”
+
+“You've been rude to a senior this entire time—”
+
+“Auntie isn't my senior.”
+
+“…Auntie?”
+
+“You aren't from my school.”
+
+“And you're old enough that bullying another school's first-year—
+
+especially an early-admission student—
+
+looks embarrassing.”
+
+Lovegood's mouth opened.
+
+Sinclaire continued quietly.
+
+“If this is Temisquira's spirit—
+
+then I have nothing else to say.”
+
+A final pause.
+
+“…I'm glad I didn't enroll there.”
+
+That did it.
+
+Lovegood and the surrounding students closed in.
+
+“You—!”
+
+Lovegood pulled a wand from behind her.
+
+A star-shaped metal ornament glowed pink.
 
 Mana gathered.
 
-Sinclaire braced herself.
+Sinclaire widened her stance.
+
+Ready.
 
 Then—
 
-snap.
+SNAP!
 
-The spell scattered before it formed.
+The forming spell scattered.
 
 “Enough.”
 
-A black figure stepped between them.
+A large figure stepped between them.
+
+Lovegood took one involuntary step back.
 
 Vikir.
 
-One hand still resting on the passage door.
+He stood between Sinclaire and the Temisquira students—
+
+one hand resting on the corridor door handle.
