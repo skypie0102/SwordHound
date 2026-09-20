@@ -1,7 +1,7 @@
 {
   "chapter": 324,
   "title": "Underdogma (4)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Underdogma",
     "range": [
@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
-    "status": "pass"
+    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/324.txt",
@@ -24,14 +24,28 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0324.md",
-    "blob_sha": "fedc9421c0bcf21759e6b5e697822f93b22b2f11"
+    "blob_sha": "472fd0fb607a4164baf771d7779b6964734e41aa"
   },
   "qa": {
     "path": "qa/chapter-0324.md",
-    "blob_sha": "51e4e5799430fdfd6216f10da627b063686884b8",
-    "status": "pass"
+    "blob_sha": "3bd88ab797af19f5795ba271b5a5a1a39e193e28",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "fedc9421c0bcf21759e6b5e697822f93b22b2f11",
+    "qa_sha": "51e4e5799430fdfd6216f10da627b063686884b8"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/underdogma-0321-0325.md",
+    "initial_priority_target": true
+  },
+  "majin_guard": "Dogma transformation is Majin; dual mission state is kill1Majin vs kill77 living targets."
 }
