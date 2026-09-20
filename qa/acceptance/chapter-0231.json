@@ -2,8 +2,8 @@
   "chapter": 231,
   "title": "Tuition (7)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/231.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-229.xhtml",
     "english_reference_sha": "8872e323f641a16ecf900e576b43abf5c1c17ef7",
     "draft_path": "manuscript/drafts/chapter-0231.md",
-    "draft_sha": "efcbc9c768314281b4b26ca1cc5d467a99826983",
+    "draft_sha": "d305900363ddc7e88b750bf744ceae5a0318990b",
     "qa_path": "qa/chapter-0231.md",
-    "qa_sha": "30d2f349c803519c2fd63f00446016f4166d3002",
+    "qa_sha": "03e7b6288fe2cfa29f20f667349959d0a9d18974",
     "provenance_path": "editorial/provenance/chapter-0231.json",
-    "provenance_sha": "4d555b83fce1708ff8246fc6d9ce8141d7f53c46"
+    "provenance_sha": "296362f3aeb6e49f29621068c9eb4db1aaf273e1"
   },
   "canonical_checks": [
     "Ms. Ouroboros",
@@ -38,5 +38,18 @@
     "Left-side reaction delay cause remains unrevealed.",
     "Again wording remains clue only."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "efcbc9c768314281b4b26ca1cc5d467a99826983",
+    "qa_sha": "30d2f349c803519c2fd63f00446016f4166d3002",
+    "provenance_sha": "4d555b83fce1708ff8246fc6d9ce8141d7f53c46"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }
