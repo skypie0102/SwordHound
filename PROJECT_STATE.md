@@ -2,14 +2,15 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 470  
+**Accepted:** 475  
 **Staged:** 0  
-**Next chapter:** 471
+**Next chapter:** 476
 
-Latest accepted family: **The Prelude to a Counterattack (1)–(6)** — targets465–470 / E463–E468.  
-Family QA: `qa/families/prelude-counterattack-0465-0470.md` — **PASS**.
+Latest accepted contiguous family: **Tochka Annihilation Battle (1)–(5)** — targets471–475 / E469–E473.  
+Family QA: `qa/families/tochka-annihilation-0471-0475.md` — **PASS**.
 
-Key decisions: Kirko/Asmodeus/Flubber survival chain; Flauros’s poisoned-water trap; Baby Madam/Ballak return; Pigi as Flauros’s principal Tochka target; Granola de Leviathan Reaper reveal; Lips of Sweet Talk answer withheld.
+Key decisions: final-water crisis; ancestor undead/grave-robbing reveal; red military whistle distinction; Hugo Eighth Form/back-to-back fight; Granola sabotage without confirmed death; Flauros decapitation; Gate-of-Destruction tether claim remains unresolved.
 
-Next contiguous family: **Tochka Annihilation Battle (1)–(5)** — targets471–475 / E469–E473.  
-Then **Knowing the Fate of My Father (1)–(2)** — 476–477 / E474–E475; target478/E476 returns to *Tochka Annihilation Battle (6)*.
+Next: **Knowing the Fate of My Father (1)–(2)** — targets476–477 / E474–E475.  
+Then **Tochka Annihilation Battle (6)** — target478 / E476.  
+Target479/E477 begins **Downtown Naval Warfare (1)**.
