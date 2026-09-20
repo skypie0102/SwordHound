@@ -1,22 +1,22 @@
 # Chapter 240: National University League (5)
 
-> Chinese-primary reconstruction from source/chinese/chapters/240.txt — 89eef3d142f2296f194296fd697688c8833bd142. Recovered English Chapter 238 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Sinclaire, Dolores L. Quovadis, Merelini Lovegood, Bakilaga Juragio, Oraorus Hohenheim, Colosseo Academy, Varangian Academy, Mage Tower, Temisquira Women’s College, Ring of Divine Inviolability, and Finit hic Deus. Any placement predictions remain Sinclaire’s in-world judgment, not narrator fact.
+> Chinese-primary reconstruction from `source/chinese/chapters/240.txt`. Recovered English Chapter 238 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Sinclaire**, **Merelini Lovegood**, **Mage Tower**, **Varangian Academy**, **Temisquira Women’s College**, **Dolores L. Quovadis**, **Bakilaga Juragio**, **Oraorus Hohenheim**, **Snub-nosed**, and the **Ring of Divine Inviolability / Finit hic Deus**. Sinclaire's placement predictions remain her speculation only.
 
 “…Brother?”
 
 Sinclaire looked genuinely surprised.
 
-Vikir stood in front of her—
+A rare expression.
 
-silent.
+Vikir looked down at her.
 
-She had grown since enrollment.
+Since enrollment—
 
-The difference in their height was more obvious now.
+she had grown.
 
-At last—
+The height difference between them had become more noticeable.
 
-Vikir spoke.
+Vikir spoke one word.
 
 “Door.”
 
@@ -24,107 +24,221 @@ Sinclaire blinked.
 
 Then understood.
 
-“Oh. You want me to move so you can open it. Sorry!”
+“Oh.”
 
-She stepped aside.
+“You want me to move so you can open it?”
 
-Vikir opened the passage door—
+“Right.”
 
-crossed through—
+“Sorry.”
 
-and left it open.
-
-Sinclaire stared again.
-
-Then brightened.
-
-“Oh. Stop fighting with students from another school and come over here?”
+She stepped far to the side.
 
 Vikir nodded.
 
-Dolores’s warning returned to mind.
+Opened the door.
 
-Avoid unnecessary contact with Temisquira before the tournament.
-
-And Sinclaire had helped him repeatedly with exam scope and study information.
-
-Leaving her there would create more trouble than ending it.
-
-Sinclaire moved toward the doorway.
-
-“Wait!”
-
-Temisquira’s students objected at once.
-
-Lovegood stood at the front.
-
-“That girl insulted our school. We need to settle this properly.”
-
-She pointed at Vikir.
-
-“If you interfere, you’ll share responsibility. State your student number, affiliation, and name. We’ll submit a formal complaint to Colosseo—”
-
-A gust swept down from the open upper window.
-
-Vikir’s black coat fluttered.
-
-His disordered hair blew back.
-
-His face was fully exposed.
-
-Silence.
-
-Temisquira’s students stared.
-
-“What…”
-
-“Is that a human face?”
-
-“How is it that small?”
-
-“All the features fit?”
-
-“And they’re so sharp.”
-
-“Is it a painting?”
-
-“A sculpture?”
-
-Lovegood alone appeared unmoved.
-
-At least—
-
-for several seconds.
-
-“Right. For an amicable administrative resolution, I require additional personal information.”
-
-Her voice remained perfectly formal.
-
-“Student number. Department. Name.”
+Walked through.
 
 Then—
 
-“Date of birth. Height. Weight. Blood type. Hometown. Zodiac sign. View of romance. Hobbies. Talents. Favorite food. Pets. Current girlfriend. If none, whether you like anyone. Ideal type. Date of last relationship. Number of previous relationships. Preferred marriage age. Gifts your parents like. Desired number of children. Son or daughter. And the compatibility rate between your name and mine—”
+left it open.
 
-The girls behind her stared.
+Sinclaire understood the second message too.
 
-Clearly—
+“Oh.”
 
-all indispensable bureaucratic information.
+“Don't argue with students from another school.”
+
+“Come over here.”
+
+Vikir gave another small nod.
+
+Dolores's warning came back to him.
+
+*The next cars contain Temisquira competitors.*
+
+*Avoid contact before the tournament.*
+
+*They may cause trouble.*
+
+That alone was enough reason not to ignore this.
+
+And Sinclaire had helped Vikir plenty of times—
+
+study-range information.
+
+school details.
+
+small practical matters.
+
+Helping her now required little effort.
+
+Then—
+
+someone grabbed at the situation before they could leave.
+
+“Wait!”
+
+Lovegood stepped forward.
+
+“Who are you?”
+
+“How dare you interfere in a dispute between women?”
+
+Temisquira students raised their voices behind her.
+
+Lovegood spoke in a firm, official tone.
+
+“That girl insulted our school.”
+
+“We need to establish the facts.”
+
+“If you obstruct us—
+
+you also become involved.”
+
+“So first—
+
+student number.”
+
+“Department.”
+
+“Name.”
+
+“We will submit a formal complaint to Colosseo—”
+
+Then—
+
+WHOOSH.
+
+A strong gust came through the open upper-level window.
+
+It traveled down the stairwell.
+
+Hair lifted all along the corridor.
+
+Vikir's included.
+
+His black coat fluttered.
+
+His untidy bangs swept back.
+
+For the first time—
+
+the Temisquira students saw his face clearly.
+
+Silence.
+
+Their expressions went blank.
+
+One whispered—
+
+“What is that?”
+
+Another—
+
+“Is that a human face?”
+
+“Why is it so small?”
+
+“But all the features are there…”
+
+“And they're ridiculously clear.”
+
+“Is it painted?”
+
+“A sculpture?”
+
+The whispers grew.
+
+Only Lovegood remained apparently composed.
+
+“Ah.”
+
+“I almost forgot.”
+
+“To resolve this dispute correctly—
+
+I require additional personal information.”
+
+She stared directly at Vikir.
+
+“Student number.”
+
+“Department.”
+
+“Name.”
+
+A perfectly reasonable start.
+
+Then—
+
+“Date of birth.”
+
+“Height.”
+
+“Weight.”
+
+“Blood type.”
+
+“Hometown.”
+
+“Star sign.”
+
+“Views on romance.”
+
+“Hobbies.”
+
+“Special skills.”
+
+“Favorite food.”
+
+“Pets.”
+
+“Current girlfriend.”
+
+“If none—
+
+someone you like.”
+
+“Ideal type.”
+
+“Last relationship.”
+
+“Number of previous relationships.”
+
+“Expected marriage age.”
+
+“What gifts your parents prefer.”
+
+“How many children you think are appropriate.”
+
+“Whether you prefer sons or daughters.”
+
+“And finally—
+
+the name-compatibility index between you and me.”
+
+Absolutely indispensable administrative procedure.
 
 ◆◆◆
 
-The Magic Train reached Mage Tower.
+The Magic Train reached the eastern region.
 
-The station announcement rang.
+A station announcement sounded.
 
-Doors on the left.
+[The Continental Loop Train is arriving at Mage Tower Station.]
 
-Passengers for Dortsmile connections should transfer here.
+[Doors will open on the left.]
 
-Mind the gap.
+[Passengers transferring toward Dortsmeier should use the Inner Loop line.]
 
-The train stopped.
+[Please mind the platform gap.]
+
+[Thank you for using the Magic Train.]
+
+Passengers began disembarking.
 
 Colosseo.
 
@@ -132,163 +246,203 @@ Varangian.
 
 Temisquira.
 
-All three visiting delegations poured onto the platform.
+And members of the Mage Tower delegation waiting to receive them.
 
-Mage Tower’s welcoming party waited outside.
+Vikir stepped onto the platform.
 
-Vikir looked past the crowds.
+Behind the crowd—
 
-Dortsmile spread beneath the reddish evening sky.
+Dortsmeier looked peaceful.
 
 Warm.
 
-Quiet.
+Refined.
 
-Almost pastoral.
+The reddish evening light made the city almost pastoral.
 
-And at the city’s center—
+At its center—
 
-a tower seemed to pierce the sun.
+a tower stabbed toward the sun.
 
-*Mage Tower.*
+*So that's Mage Tower.*
 
 From outside—
 
-it looked narrow.
+the structure looked narrow.
 
 Tall.
 
-Roughly cylindrical.
+Severe.
 
-Inside—
+Almost too thin.
 
-its dimensions were another matter.
+But the dimensions visible from the street meant nothing.
 
-Countless layered spaces.
+The interior contained layer upon layer of folded space.
 
-Width and height that could not be measured normally.
+No one could state its true width.
 
-A structure attributed to the first mages—
+Or height.
 
-built around dimensional distortions so complex that modern scholars still could not fully explain them.
+Tradition claimed the first great magicians created it.
+
+The dimensional distortions inside were so complex that even modern mages could not fully explain them.
+
+*I have something similar.*
 
 Vikir looked at the ring on his finger.
 
-**Ring of Divine Inviolability**
+> **Ring of Divine Inviolability**  
+> **Barrier:** OFF  
+> **Finit hic Deus** — Here ends the domain of God.
 
-- Barrier — OFF
-- *Finit hic Deus.*
-- *Here ends the domain of God.*
+The relic left behind by Andromalius could also distort dimensions—
 
-Andromalius’s relic could also bend dimensions and create subspace.
+creating subspace.
 
-But it consumed immense mana—
+But the cost was severe.
 
-and recovered slowly.
+Enormous mana consumption.
 
-Not something to waste.
+Slow recovery.
 
-“…Brother.”
+Not something Vikir could abuse freely.
 
-Sinclaire tapped his back.
+While he studied the ring—
 
-She hesitated—
+“Brother.”
 
-then returned to her usual smile.
+A hand lightly touched his back.
 
-“Thanks for earlier.”
+Sinclaire.
+
+She hesitated.
+
+Then smiled as usual.
+
+“Thank you for earlier.”
 
 Vikir nodded.
 
-Sinclaire exhaled.
+Sinclaire let out a breath.
 
-“I was actually scared. They were strong.”
+“To be honest—
+
+I was scared.”
+
+“They looked strong.”
 
 “I was scared too.”
 
-She laughed.
+Sinclaire laughed.
 
-“Liar.”
+“You're joking.”
 
-Then tugged his sleeve.
+Then tugged lightly at his clothes.
 
-“Well, I guess anyone would be nervous against Lovegood.”
+“Well…”
 
-Vikir did not answer.
+“I guess even you would feel tension.”
 
-Sinclaire pointed ahead.
+“That was **Lovegood**, after all.”
 
-“Look. The representatives are meeting.”
+Vikir showed no reaction.
 
-The four academies gathered.
+Sinclaire kept talking anyway.
 
-Dolores L. Quovadis stood at Colosseo’s head.
+“Look.”
+
+“The welcoming group.”
+
+Students from all four schools were gathering.
+
+At the front stood Colosseo's student council president—
+
+**Dolores L. Quovadis**.
 
 Calm.
 
-Gentle.
+Friendly.
 
-Commanding without raising her voice.
+Naturally drawing people around her.
 
-“It’s been a while.”
+“It's been a while.”
 
-Three student council presidents stepped forward.
+At her greeting—
 
-From Varangian—
+the other three student presidents stepped forward.
 
-Bakilaga Juragio.
+First—
 
-Huge frame.
+Varangian.
 
-Long unkempt hair.
+Huge body.
 
-Muscle.
+Long disordered hair.
+
+Muscles.
 
 Scars.
 
-He had competed since his first year and remained near the top.
+A living beast of a man.
+
+“HAHAHAHA!”
+
+“Everyone looks the same.”
+
+“Almost a year, right?”
+
+**Bakilaga Juragio.**
+
+Varangian's student council president.
+
+A high-ranking League performer since first year.
 
 Now—
 
 as a third-year ace—
 
-he openly aimed for victory.
+a legitimate championship contender.
 
-“Hahaha! Been almost a year, hasn’t it?”
+His immediate rival stepped from the Mage Tower delegation.
 
-Across from him—
+Fine features.
 
-Mage Tower’s president.
+Tall body.
 
-Oraorus Hohenheim.
+Cold aura.
 
-Clean features.
+“Precisely—
 
-Tall, lean build.
+one year, three months, three days, eleven hours, forty-two minutes, twelve seconds.”
 
-Cold air.
+“Measured from the instant I last saw you at last year's League—
 
-“Eleven months, three days.”
+until I identified your face in today's crowd.”
 
-He continued without blinking.
+**Oraorus Hohenheim.**
 
-“Eleven hours, forty-two minutes, twelve seconds. From the moment I last saw you in last year’s League until I found you in the crowd just now.”
+Mage Tower student council president.
 
-Mage Tower had a strange tradition.
+His full formal name was longer still—
 
-Senior students assigned juniors ceremonial baptismal names.
+but within Mage Tower, students often used baptismal names given by seniors.
 
-Ridiculous names—
+Hohenheim's current name—
 
-used for four years almost more often than their real ones.
+**Snub-nosed**.
+
+Mage Tower maintained the tradition throughout all four years.
+
+Students carried names such as—
 
 Talented Piglet.
 
-Curly Broom.
+Curled Broom.
 
-Bird Napping in the Lecture Hall.
+Bird Napping in Class.
 
-Palm Tree in the Corridor.
+Palm Tree in the Hallway.
 
 Curiosity That Clogged the Toilet.
 
@@ -296,96 +450,138 @@ Drunken Gorilla.
 
 Dwarf in a Flask.
 
-Hohenheim’s current name—
+Strange names were part of the school's pride.
 
-*Snub-nosed.*
+Sinclaire leaned toward Vikir.
 
-Sinclaire leaned close to Vikir.
+“…Honestly, this is part of why I didn't choose Mage Tower.”
 
-“This is one reason I didn’t enroll here. They said I might end up as ‘Fluffy Cotton Candy.’”
+“They wanted to call me **Fluffy Marshmallow**.”
+
+“I couldn't do it.”
 
 Meanwhile—
 
-Bakilaga and Hohenheim immediately began circling each other verbally.
+Bakilaga and Hohenheim had already started competing verbally.
 
-“We’re taking it this year,” Bakilaga said. “I spent the whole year training.”
+Bakilaga laughed.
 
-Hohenheim barely smiled.
+“This year we're the aces.”
 
-“With brute strength, perhaps you can reach tenth.”
+“Last year the seniors were too strong and we missed the top ten.”
 
-His eyes sharpened.
+“But I trained like a madman all year.”
 
-“Mage Tower will take first through ninth.”
+“The championship is mine.”
+
+Hohenheim answered without changing expression.
+
+“With your brute force—
+
+perhaps tenth place.”
+
+“Higher is unlikely.”
+
+“Mage Tower's elites will occupy first through ninth.”
 
 “The artifacts belong to us.”
 
-Warrior against mage.
+Warrior—
 
-The rivalry formed naturally.
+versus mage.
 
-Vikir watched from a distance.
+The rivalry formed instantly.
 
-Sinclaire supplied the details.
+Vikir watched from farther away.
 
-“Bakilaga is famous for absurd physical strength. As a first-year he beat down fourth-years during the welcoming period and took control of his school.”
+Sinclaire quietly supplied context.
 
-“Strong.”
+“Bakilaga Juragio is famous for absurd physical strength.”
 
-“Natural talent and constant training. There’s a rumor his grandparents came from a tribe in the Red and Black Mountains.”
+“As a first-year—
 
-A rumor.
+he supposedly defeated the school's fourth-years during the freshman gathering and took control of campus.”
 
-Nothing more certain than that.
+“His weakness was experience.”
 
-Then Sinclaire looked toward Hohenheim.
+“Now he's a third-year.”
 
-“I’m a mage, so he interests me more.”
+“So that weakness should be much smaller.”
 
-“Hohenheim?”
+Vikir looked at the man's build.
 
-“President Dolores has never beaten him in the League. He’s already been accepted into graduate study, and they say he’ll become Mage Tower faculty automatically.”
+“He certainly looks strong.”
+
+“Talent plus constant training.”
 
 Sinclaire lowered her voice.
 
-“He wants to become the youngest Mage Tower Master in history.”
+“There is also a rumor.”
 
-A Mage Tower Master—
+“His grandparents may have come from tribes around the Red and Black Mountains.”
 
-a position comparable in prestige to the head of a Great Family.
+“Not confirmed.”
 
-Sinclaire considered the field.
+Vikir filed that away.
 
-“My guess? Hohenheim and Bakilaga fight for first and second.”
+Then Sinclaire looked toward Hohenheim.
 
-She nodded toward Dolores.
+“Bakilaga matters.”
 
-“President Dolores probably takes third.”
+“But I'm a mage, so I watch Hohenheim more.”
 
-“And Lovegood maybe fourth.”
+“Dolores has never beaten him in the University League.”
 
-That was Sinclaire’s prediction.
+“And he's already arranged graduate study.”
 
-Not a result.
+“After graduation, he's expected to become Mage Tower faculty automatically.”
 
-Speaking of Lovegood—
+“People say he wants to become the youngest Tower Master.”
 
-she was nowhere near the representatives.
+That position—
 
-Sinclaire searched.
+comparable in prestige to the head of a Seven Great House.
 
-Then found her.
+Hohenheim was ambitious.
+
+And capable enough for people to take that ambition seriously.
+
+Sinclaire thought aloud.
+
+“My guess?”
+
+“Hohenheim and Bakilaga compete for first and second.”
+
+“President Dolores maybe third.”
+
+“Lovegood fourth.”
+
+Her prediction was only that—
+
+a prediction.
+
+Then Sinclaire looked around.
+
+“Speaking of Lovegood…”
+
+Temisquira's student president had not stepped forward yet.
+
+Sinclaire found her.
 
 Merelini Lovegood.
 
-And the Temisquira women who had surrounded Vikir earlier.
+And the Temisquira students who had surrounded Vikir on the train.
 
-Normally solemn.
+Usually—
 
-Normally dignified.
+serious.
 
-Normally severe.
+dignified.
 
-Today—
+controlled.
 
-every one of them looked strangely dazed.
+Now—
+
+for some reason—
+
+all of them looked strangely dazed.
