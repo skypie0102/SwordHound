@@ -32,15 +32,14 @@ Next family: **Underdogma (321–325)**. All five chapters remain priority targe
 
 ## Branch / PR state
 
-- Working branch: `audit/surplus-man-314-320-completeness`.
-- PR #136, **Rebuild Surplus Man Chapters 314–320 for completeness**: OPEN.
+- Working branch: `audit/underdogma-321-325-completeness`.
+- Surplus Man completeness PR #136: merged.
+- Redundant Surplus Man PR #137: closed unmerged.
 - Hell Tree completeness PR #134: merged.
-- Redundant duplicate Hell Tree PR #135: closed unmerged.
 
 ## Exact next actions
 
-1. Merge the Surplus Man completeness branch.
-2. Create/use a fresh Underdogma completeness branch from updated `main`.
-3. Audit **Underdogma (321–325)** in full against Chinese.
-4. Rebuild every compressed chapter, bind QA/provenance/acceptance, update tracker/docs, merge.
-5. Continue directly to the next priority-containing family.
+1. Audit **Underdogma (321–325)** in full against Chinese.
+2. Rebuild every compressed chapter, bind QA/provenance/acceptance, and update tracker/docs.
+3. Open/merge the Underdogma completeness PR.
+4. Continue directly to the next priority-containing family.
