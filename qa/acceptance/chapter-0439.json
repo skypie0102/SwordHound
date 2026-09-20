@@ -1,0 +1,33 @@
+{
+  "chapter": 439,
+  "title": "Dreaming the Impossible Dream (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Dreaming the Impossible Dream",
+    "range": [
+      437,
+      440
+    ],
+    "family_qa_path": "qa/families/dreaming-impossible-dream-0437-0440.md",
+    "family_qa_sha": "2cc5d1313640ea5ceababe40e0bccadbfa9eab8d",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/439.txt",
+    "primary_source_sha": "2da9709a89132bd716a8ddc5b2a7fc29d6b2a8c4",
+    "english_reference_path": "source/chapters/chapter-437.xhtml",
+    "english_reference_sha": "758e791810d00145299448e5c03fc7d4eaa15ca1",
+    "draft_path": "manuscript/drafts/chapter-0439.md",
+    "draft_sha": "a375c293caa5a14fe1a9f2844d27b9d609c469b6",
+    "qa_path": "qa/chapter-0439.md",
+    "qa_sha": "0ec5e22259f3338638bf9bb0e42328069f8b373e",
+    "provenance_path": "editorial/provenance/chapter-0439.json",
+    "provenance_sha": "6b6b6a1f8af77ea3428d7169a960bd26e97476a8"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No The Fall of Usher material from target441 is imported."
+  ]
+}
