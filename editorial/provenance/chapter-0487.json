@@ -1,0 +1,37 @@
+{
+  "chapter": 487,
+  "title": "The Marquis of Discord (5)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Marquis of Discord",
+    "range": [
+      483,
+      489
+    ],
+    "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
+    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/487.txt",
+    "blob_sha": "3bf0376236800cf8b42920ae0534b813e3d747f5",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-485.xhtml",
+    "blob_sha": "2474302da9b30d26ca6350dd4bb53e1da82707a5",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0487.md",
+    "blob_sha": "fa0a64f001b47a0d20eb949c4c953d2e160f4847"
+  },
+  "qa": {
+    "path": "qa/chapter-0487.md",
+    "blob_sha": "8db3facf849afb22ca5eb8f0bdf3e2097eb58e15",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused and new source-local forms were not falsely presented as freshly wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
