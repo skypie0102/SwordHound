@@ -1,0 +1,34 @@
+{
+  "chapter": 500,
+  "title": "Side Story 5",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Side Stories",
+    "range": [
+      496,
+      500
+    ],
+    "family_qa_path": "qa/families/side-stories-0496-0500.md",
+    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/500.txt",
+    "primary_source_sha": "e5263b350cce46d536efc3422269c7f6aa8ecc40",
+    "english_reference_path": "source/chapters/chapter-493.xhtml",
+    "english_reference_sha": "523f54d41e88ce5790cd4c67a1f607292861cef2",
+    "draft_path": "manuscript/drafts/chapter-0500.md",
+    "draft_sha": "408536b7950511e4e847574d5ad7abdda38b7ce9",
+    "qa_path": "qa/chapter-0500.md",
+    "qa_sha": "7c6640d97278b15721d5a5b00be444c1394e98fb",
+    "provenance_path": "editorial/provenance/chapter-0500.json",
+    "provenance_sha": "b468fc975787bda0379b41b7475ca0173efc9bbe"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; established project terminology controls recurring forms.",
+    "Recovered E493 contains the side-story sections as embedded secondary witness material rather than standalone files."
+  ],
+  "final_reveal_guard": "Only Side Story 5 explicitly resolves the relationship ambiguity with Vikir's wives and children; the unnamed old man beyond the Five Fingers remains unidentified."
+}
