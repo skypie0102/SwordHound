@@ -1,30 +1,32 @@
 # Chapter 327: The Shadowless King of the Black Sea (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/327.txt`. Recovered English Chapter 325 is the verified shifted secondary witness. Existing project terminology controls Black Sea, Beetlemen, Hell Tree, Daylily of Blood Tree, Decarabia, Styx, and Vikir’s tower inventory.
+> Chinese-primary reconstruction from `source/chinese/chapters/327.txt`. Recovered English Chapter 325 is the verified shifted secondary witness. Established project terminology controls **Black Sea**, **Rhinoceros Beetlemen**, **Stag Beetlemen**, **Decarabia**, **River Styx**, **Water-Resistant Oil-Paper Bag**, and Vikir's tower inventory.
 
-“So you don’t actually have a ship.”
+“So you don't actually have a ship.”
 
 Highbro stared at the Beetlemen.
 
-One elder flinched.
+The elders flinched.
 
 […It exists.]
 
-[It is merely underwater.]
+[It is simply underwater.]
 
-Highbro’s expression hardened.
+Highbro's expression hardened.
 
-“What good is a sunken ship?!”
+“What use is a sunken ship!?”
 
-“Are you trying to scam us?”
+“You call that having one?”
 
-The elders glanced nervously toward Vikir.
+The elders glanced toward Vikir—
+
+as though hoping the master would restrain his servant.
 
 “Enough.”
 
-Vikir stopped the argument.
+Vikir did.
 
-Something else mattered more.
+There was a more important question.
 
 “The Black Sea has almost no buoyancy.”
 
@@ -34,125 +36,153 @@ Something else mattered more.
 
 [Yes.]
 
-[Very few living creatures can survive in it.]
+[Very few living things can survive in it.]
 
-Vikir looked across the black horizon.
+Vikir looked toward the black horizon.
 
-The seabed below such a vast ocean—
+A sea with almost no buoyancy—
 
-would be almost empty.
+heavy enough to swallow ships—
 
-Any creatures capable of living there—
+should have an unusually empty seabed.
 
-would likely be separated by enormous distances.
+If creatures lived there at all—
 
-Somewhere in that dark emptiness—
+they would likely be sparse.
 
-the Beetlemen’s ship rested.
+Far apart.
+
+Somewhere in that darkness—
+
+the Beetlemen's vessel lay.
 
 “If it sank—
 
-doesn’t that mean it cannot sail here?”
+doesn't that prove the ship can't sail here?”
+
+The elders shook their heads quickly.
 
 [No.]
 
-[Our ship could float.]
+[Our ship **could** float.]
 
-The Beetlemen spread their black shells.
+They opened sections of black exoskeleton.
 
-Thin wings unfolded underneath.
+Thin wings showed beneath.
 
 Light.
 
 Strong.
 
-Covered in wax.
+Coated in wax.
 
-[The Rhinoceros Beetlemen and Stag Beetlemen fought for many years.]
+[Our peoples fought for years.]
 
-[We used the remains of the dead to build a ship.]
+[Rhinoceros Beetlemen.]
 
-[It was light enough and durable enough to sail the Black Sea.]
+[Stag Beetlemen.]
 
-[But during a dispute over ownership…]
+[Many died.]
+
+[We collected the remains of the fallen.]
+
+[Shell.]
+
+[Wing.]
+
+[Light materials.]
+
+[Then built a ship.]
+
+[A vessel strong enough and light enough to travel on the Black Sea.]
 
 Vikir narrowed his eyes.
 
-“How exactly did it sink?”
+“Then why did it sink?”
 
 The elders hesitated.
+
+[Because…]
 
 [One day—
 
 a group seized the ship.]
 
-[They sailed into the center of the Black Sea.]
+[They tried to cross the center of the Black Sea.]
 
-[Then…]
+[Then they encountered…]
 
-The rest of the story—
+What followed sounded absurd enough that an ordinary challenger might have dismissed it.
 
-was unbelievable.
+Vikir did not.
 
-By the time they finished—
+When the explanation ended—
 
-Vikir understood why they looked embarrassed.
+he understood why the elders had looked so uncomfortable.
 
-“…I see.”
+“…Good.”
 
-“Then first—
+“At least now I know what happened.”
 
-we raise the ship.”
+He stood.
 
-“Show me exactly where it sank.”
+“First—
+
+we recover the ship.”
+
+“Show me the exact sinking location.”
 
 ◆◆◆
 
-The Black Sea looked calm nearby.
+Nearby—
 
-Farther away—
+the Black Sea was calm.
 
-a wall of storm surrounded the region.
+Far beyond—
 
-Vikir did not try to cross the ocean.
+the storm wall churned around the horizon.
 
-He dove.
+Vikir had no intention of crossing the ocean yet.
 
 SPLASH.
 
-The black water swallowed him.
+He dove.
 
-Within seconds—
+Black water swallowed him.
 
-light vanished.
+A few seconds—
+
+and the world became dark.
 
 That did not matter.
 
-Years of hunting and archery training in Le Rouge et Le Noir Mountain had sharpened his sight.
+Two years of hunting and archery training in Le Rouge et Le Noir Mountain had sharpened his eyes enough to read movement in near-darkness.
 
-Even in darkness—
+Even here—
 
-he could see dozens of meters.
+he could distinguish forms dozens of meters away.
 
-The deeper he went—
+Down.
 
-the greater the pressure became.
+Deeper.
 
-Heavy.
+Pressure accumulated.
 
-Cold.
+The water felt less like seawater—
 
-Like sinking into molten iron.
+and more like cold molten iron.
 
-The sea had almost no buoyancy.
+There was almost no buoyancy.
 
 If Vikir stopped moving—
 
-he simply fell deeper.
+he simply continued sinking.
 
-His oxygen disappeared quickly.
+His breathing grew harder.
 
-The pressure compressed his lungs harder than normal water.
+Pressure compressed the available air.
+
+Oxygen ran out faster than it would during a shallow dive.
 
 *Still better than the River Styx.*
 
@@ -160,241 +190,257 @@ The pressure compressed his lungs harder than normal water.
 
 Vikir reached into his belongings.
 
-Pulled out a swollen pouch.
+Pulled out a swollen bag.
 
-**<Water-Resistant Oil-Paper Bag>**
+> **<Water-Resistant Oil-Paper Bag>**
+>
+> **Type:** Bag  
+> **Grade:** D
+>
+> A tough bag that does not dissolve easily in water.  
+> Useful for keeping contents dry.
 
-**Grade:** D
+The bag was filled with air.
 
-A tough paper bag that does not dissolve easily in water.
+Vikir placed a straw inside.
 
-Useful for keeping contents dry.
+Inhaled.
 
-The bag was full of air.
+Then closed it again.
 
-Vikir used a straw.
+Because Black Water offered almost no buoyancy—
 
-Took one breath.
-
-Then tucked it away again.
-
-Because the sea had almost no buoyancy—
-
-even the air-filled bag did not drag him upward.
+even an air-filled bag did not pull him toward the surface.
 
 Whenever his lungs tightened—
 
 he took another breath.
 
-Decarabia spoke.
+Decarabia spoke from his chest.
 
 [Human.]
 
-“What.”
+“What?”
 
-[Do you actually need to cooperate with the Beetlemen?]
+[Do you really need the Beetlemen?]
 
-The current mission window floated nearby.
+[Why cooperate with them?]
 
-**<Mission>**
+A mission window still floated before Vikir.
 
-**Capture the Sap Pool.**
+> **<Mission>**
+>
+> **Capture the Sap Pool**
+>
+> Take the sap pool from the terrifying prior occupants and survive.
 
-Take the sap pool from the terrifying prior occupants—
+On the surface—
 
-and survive.
+the “prior occupants” were obviously the Beetlemen.
 
-At first glance—
+Vikir disagreed.
 
-the “prior occupants” were the Beetlemen.
+“Maybe ‘prior occupants’ doesn't mean the people around the root.”
 
-But Vikir suspected another interpretation.
+[Then what?]
 
-“The owners of the ship.”
+“The ship owners.”
+
+Decarabia paused.
 
 [Hmm.]
 
-[Then yes—
-
-the floor-clear condition may depend on possession of the ship.]
+[Then the floor-clear condition may actually depend on the vessel.]
 
 “Exactly.”
 
-“There are often alternate clear routes.”
+“There are alternate clear routes.”
 
-“Just like Floor3.”
+“Same as Floor 3.”
 
 They continued descending.
 
 Eventually—
 
-the seabed appeared.
+the seabed emerged.
 
-A forest of dead trees.
+A dead forest.
 
-Terrain stolen from another world—
+Terrain that had belonged to another world—
 
-now drowned under the Black Sea.
+now drowned beneath black water.
 
-Thin trunks grew among dead coral.
+Thin dead trees.
 
-Like a forest of spears.
+Bleached coral.
 
-Amdusias’s mental world—
+Branches like spears.
 
-made physical.
+A cruel collage—
+
+Amdusias's stolen scenery left to rot.
 
 Then Decarabia reacted.
+
+[Human.]
 
 [There.]
 
 [Below that ridge.]
 
-Something emerged from a trench.
+Vikir looked.
 
-A bow.
+Deep inside a trench—
+
+a shape.
+
+The bow of a ship.
 
 Black.
 
 Glossy.
 
-A sailing ship.
+The rest emerged gradually.
+
+A sleek sailing vessel.
 
 Its sails—
 
 woven from insect wings—
 
-still fluttered weakly in the current.
+still fluttered faintly in the underwater current.
 
-The vessel looked surprisingly sleek.
+The hull had scars.
 
-The deck and hull carried scars.
+The deck—
+
+damaged.
 
 But the keel—
 
-the ship’s spine—
+the central spine—
 
 remained intact.
 
-Very little seaweed had grown across it despite the time underwater.
+Very little growth covered it despite its time underwater.
 
-The real problem—
+Then Vikir found the reason it had sunk.
 
-was a massive hole in the lower hull.
+A huge hole in the lower hull.
 
-*So it sank because water flooded through there.*
+*Flooded.*
 
-That was good news.
+*Not incapable of floating.*
 
-The ship itself could float.
+Good.
 
-The hole could be repaired.
+If the hole could be repaired—
 
-Decarabia asked:
+or temporarily compensated for—
 
-[How are you going to raise it?]
+the ship should rise.
 
-[Even with everyone on the island—
+Decarabia asked—
 
-you could not lift this.]
+[How?]
 
-[And they cannot come down here anyway.]
+[Even everyone on the island together could not lift this from here.]
+
+[And none of them can dive this deep.]
 
 “I have a way.”
 
-Vikir swam faster.
+The last air in the bag was disappearing.
 
-The air bag was nearly empty.
-
-“And there’s one more thing we need to be careful about.”
-
-He reached the sunken vessel.
-
-In the silent deep—
-
-with its creaking wood and swaying sails—
-
-it looked like a ghost ship.
-
-*First—
-
-salvage.*
+Vikir moved toward the ship.
 
 Then—
 
 creak.
 
-Something moved on the far side.
+Something shifted on the far side.
 
-A silhouette entered view.
+A silhouette entered his field of vision.
 
 Sharklike scales.
 
-A single horn.
+One horn.
 
-A lipless mouth full of teeth.
+Lipless mouth.
 
-Dogma’s Majin body.
+Teeth.
 
-The fire around it had already gone out.
+Dogma.
 
-Vikir readied Beelzebub.
+Or—
 
-Then paused.
+Dogma's Majin corpse.
 
-Something was wrong.
+Vikir raised Beelzebub.
 
-Dogma’s upper body drifted forward.
+Then stopped.
 
-Trembling.
+The corpse did not attack.
 
-Motionless.
+Its upper body floated forward—
+
+trembling.
+
+Nothing else moved.
 
 Then—
 
-thud.
+THUD.
 
-Its head dropped away.
+Dogma's head fell to the seabed.
 
-The remaining body vanished backward into the darkness.
+The rest of the body—
 
-Only the horned head rolled down the trench.
+jerked backward into darkness.
 
-Vikir stared past it.
+Only the horned head remained—
 
-The darkness itself—
+rolling slowly down the trench.
 
-was moving.
+Vikir looked past it.
 
-Not a creature emerging from shadow.
+Hissssss—
 
-The shadow—
+The darkness itself moved.
 
-was the creature.
+Not a shape **inside** the darkness.
 
-*That region is too dark.*
+A region of darkness—
 
-Faint light existed elsewhere.
+rising.
 
-But the approaching mass swallowed everything.
+*That patch is too black.*
+
+There was faint ambient light everywhere else.
+
+Not there.
+
+The approaching mass swallowed it.
 
 Vikir understood.
 
-This—
+The thing the Beetlemen had encountered while crossing—
 
-was not comparable to the Hell Hounds.
+was real.
 
-Cerberus.
+Not a Hell Hound.
 
-The starving Daylily.
+Not Cerberus.
 
-Or Dogma.
+Not the starving Daylily.
 
-An S-rank presence.
+Not Dogma.
 
-A true deep-sea predator.
+Something far above them.
 
-*So this is what lived here all along.*
+An **S-rank** deep-sea predator.
+
+*So this is what has been living here.*
 
 The core of the darkness—
 
