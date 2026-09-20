@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 470,
+  "accepted_count": 475,
   "staged_count": 0,
-  "next_chapter": 471,
+  "next_chapter": 476,
   "active_title_family": {
-    "name": "Tochka Annihilation Battle",
+    "name": "Knowing the Fate of My Father",
     "range": [
-      471,
-      475
+      476,
+      477
     ],
-    "boundary_status": "verified contiguous family segment: target471→E469 through target475→E473",
-    "following_family_starts": 476,
-    "following_title": "Knowing the Fate of My Father (1)",
-    "alignment_note": "471→E469 through 475→E473; 476→E474 begins Knowing the Fate of My Father (1)-(2), then 478→E476 returns to Tochka Annihilation Battle (6)."
+    "boundary_status": "verified complete contiguous family: target476→E474 through target477→E475",
+    "following_family_starts": 478,
+    "following_title": "Tochka Annihilation Battle (6)",
+    "alignment_note": "476→E474 Knowing the Fate of My Father (1), 477→E475 (2); target478→E476 returns to Tochka Annihilation Battle (6), then target479→E477 begins Downtown Naval Warfare (1)."
   },
   "chapters": [
     {
@@ -6595,6 +6595,76 @@
       "acceptance": "qa/acceptance/chapter-0470.json",
       "acceptance_sha": "b149a767c05a58d6e274d256f6df18a7ae9f354e",
       "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 471,
+      "title": "Tochka Annihilation Battle (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/471.txt",
+      "english_mtl_reference": "source/chapters/chapter-469.xhtml",
+      "draft": "manuscript/drafts/chapter-0471.md",
+      "qa": "qa/chapter-0471.md",
+      "provenance": "editorial/provenance/chapter-0471.json",
+      "acceptance": "qa/acceptance/chapter-0471.json",
+      "acceptance_sha": "b28bf3fc71d754b75c5303974353de7fc0181314",
+      "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 472,
+      "title": "Tochka Annihilation Battle (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/472.txt",
+      "english_mtl_reference": "source/chapters/chapter-470.xhtml",
+      "draft": "manuscript/drafts/chapter-0472.md",
+      "qa": "qa/chapter-0472.md",
+      "provenance": "editorial/provenance/chapter-0472.json",
+      "acceptance": "qa/acceptance/chapter-0472.json",
+      "acceptance_sha": "ecd75b324047797f502d106d88c1ab9b1439a0a7",
+      "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 473,
+      "title": "Tochka Annihilation Battle (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/473.txt",
+      "english_mtl_reference": "source/chapters/chapter-471.xhtml",
+      "draft": "manuscript/drafts/chapter-0473.md",
+      "qa": "qa/chapter-0473.md",
+      "provenance": "editorial/provenance/chapter-0473.json",
+      "acceptance": "qa/acceptance/chapter-0473.json",
+      "acceptance_sha": "917908141642090b6058c8055be523191fac164c",
+      "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 474,
+      "title": "Tochka Annihilation Battle (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/474.txt",
+      "english_mtl_reference": "source/chapters/chapter-472.xhtml",
+      "draft": "manuscript/drafts/chapter-0474.md",
+      "qa": "qa/chapter-0474.md",
+      "provenance": "editorial/provenance/chapter-0474.json",
+      "acceptance": "qa/acceptance/chapter-0474.json",
+      "acceptance_sha": "df234cdcce19cb22aceeda9483dff82e0e6b7140",
+      "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 475,
+      "title": "Tochka Annihilation Battle (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/475.txt",
+      "english_mtl_reference": "source/chapters/chapter-473.xhtml",
+      "draft": "manuscript/drafts/chapter-0475.md",
+      "qa": "qa/chapter-0475.md",
+      "provenance": "editorial/provenance/chapter-0475.json",
+      "acceptance": "qa/acceptance/chapter-0475.json",
+      "acceptance_sha": "3d6ef02798f0678a2eee0b26a00d2a3ced60b889",
+      "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
     }
   ]
 }

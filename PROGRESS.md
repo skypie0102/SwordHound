@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Tochka Annihilation Battle (1)–(5) accepted
+
+**Current state:** 475 / 500 accepted; 0 staged; next Chapter 476.
+
+Completed targets **471–475** with mapping **E469–E473**.
+
+Key decisions: water exhaustion and final-noon timing; grave-robbing/undead ancestors; red-whistle distinction; Hugo Eighth Form; refugee voluntary defense; Granola’s Ouroboros sabotage without confirmed death; Flauros decapitation; and the Gate-of-Destruction tether claim remains unresolved at the family boundary.
+
+Family QA: `qa/families/tochka-annihilation-0471-0475.md` — **PASS**.
+
+Next: **476–477 — Knowing the Fate of My Father (1)–(2)** / E474–E475, then target478/E476 returns to *Tochka Annihilation Battle (6)*.
+
 ## 2026-09-20 — The Prelude to a Counterattack (1)–(6) accepted
 
 **Current state:** 470 / 500 accepted; 0 staged; next Chapter 471.
