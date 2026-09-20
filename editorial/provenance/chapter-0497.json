@@ -1,0 +1,38 @@
+{
+  "chapter": 497,
+  "title": "Side Story 2",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_or_embedded_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Side Stories",
+    "range": [
+      496,
+      500
+    ],
+    "family_qa_path": "qa/families/side-stories-0496-0500.md",
+    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/497.txt",
+    "blob_sha": "7daa1be311deda0400b77cdaef0fe726f6b7d296",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-493.xhtml",
+    "blob_sha": "523f54d41e88ce5790cd4c67a1f607292861cef2",
+    "segment": "E493 embedded Side Story Chapter 2",
+    "authority": "secondary_reference_only"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0497.md",
+    "blob_sha": "4321f793fbb7dd99353a6e3f178af10cbec820da"
+  },
+  "qa": {
+    "path": "qa/chapter-0497.md",
+    "blob_sha": "9a8785c3457319faab16dc6cea7e088f356a941d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed canon and the embedded E493 witness were used for late recurring forms.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
