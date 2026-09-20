@@ -1,7 +1,7 @@
 {
   "chapter": 321,
   "title": "Underdogma (1)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Underdogma",
     "range": [
@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
-    "status": "pass"
+    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/321.txt",
@@ -24,14 +24,28 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0321.md",
-    "blob_sha": "37698e21104ecb1dfd8311fd7e1b1e28e45711f8"
+    "blob_sha": "037ab38023c72b74541a45f2a2168020f83d6b5a"
   },
   "qa": {
     "path": "qa/chapter-0321.md",
-    "blob_sha": "be0a87306f259e4d0249aba9b0bd9d11d60f784f",
-    "status": "pass"
+    "blob_sha": "577ca8a6989eb25db5303f90141f4e362dc62211",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "37698e21104ecb1dfd8311fd7e1b1e28e45711f8",
+    "qa_sha": "be0a87306f259e4d0249aba9b0bd9d11d60f784f"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/underdogma-0321-0325.md",
+    "initial_priority_target": true
+  },
+  "ideology_guard": "Dogma's zero-base/class-reversal analysis is character viewpoint, not narrator endorsement."
 }
