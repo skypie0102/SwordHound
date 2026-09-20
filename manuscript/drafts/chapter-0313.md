@@ -1,223 +1,231 @@
 # Chapter 313: Hell Tree (7)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/313.txt`. Recovered English Chapter 311 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/313.txt`. Recovered English Chapter 311 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Granola de Leviathan**, **Cerberus**, **Physical Resistance**, **Fairy Candy Shop**, and the six-stat Hell Tree progression model.
 
-BANG.
+BANG!
 
-Cerberus’s final head burst.
+Cerberus's final head burst.
 
-Its body collapsed hard enough to shake the ruined street.
+Its enormous body collapsed.
 
-Sulfur and blood flooded the shop floor—
+The ruined street shook.
 
-washing away perfume and ginkgo residue.
+Sulfur.
+
+Blood.
+
+Viscera.
+
+The discharge from the dead monster's body washed across the shop floor—
+
+clearing away much of the perfume-and-ginkgo mixture.
 
 Ding.
 
 [Level 1 Warrior Vikir has successfully hunted the first A+ Cerberus.]
 
-[“Awesome” achievement reward granted.]
+[“Awe-Inspiring” achievement reward granted.]
+
+“…Haa.”
 
 Vikir sat down.
 
-Exhausted.
+Even for him—
 
-Killing Cerberus at one-percent output—
+killing Cerberus while limited to one percent output had been difficult.
 
-had been difficult.
+Granola looked exhausted just from watching.
 
-Granola looked at him.
-
-“People ever tell you you’re stubborn?”
+“People tell you you're stubborn a lot, don't they?”
 
 “No.”
 
-Vikir glanced over.
+Vikir looked at him.
 
-“They usually died before they could.”
+“They usually die before they can say it.”
 
-Granola shivered.
+Granola felt cold crawl down his spine.
 
-Then the fairy appeared.
+Then—
 
 [W-what?]
 
-[You actually killed it?]
+The fairy appeared.
+
+[You actually caught it?]
 
 [No one has cleared that before?]
 
-The creature panicked.
+It looked genuinely panicked.
 
-[But first-clear rewards are limited?]
+[What do I do?]
 
-Vikir spoke casually.
+[First-clear rewards are limited?]
 
-“No artifact?”
+Vikir spoke generously.
 
-“No item?”
+“Artifact?”
 
-“Consumables are fine.”
+“Item?”
 
-[…?]
+“A consumable is fine.”
 
-Apparently—
+[…Uhhhh?]
 
-nothing suitable had been prepared.
+There was nothing.
 
-Vikir sighed loudly.
+Vikir sighed.
 
-“So the stage wasn’t actually designed to be cleared.”
+“Of course.”
 
-“No proper reward.”
+“This wasn't designed as a real challenge.”
 
-“Just a cruel joke for trapped students.”
+“So there is no appropriate reward.”
 
-The fairy looked uncomfortable.
+“Just a cruel joke for people trapped in the tower.”
 
-Vikir continued.
+The fairy avoided his eyes.
 
-“Strange.”
+Vikir continued—
+
+more displeased with every word.
+
+“Strange, though.”
 
 “This tower is extremely sophisticated.”
 
-“Whoever built it must be obsessive about workmanship.”
+“A craftsman capable of building a system this precise should have high standards.”
 
-“Would someone like that really leave a badly designed challenge?”
+“Every floor should be carefully designed.”
 
-“Unless some low-level manager abused their authority…”
+The fairy's exposed heart began beating faster.
 
-The fairy’s exposed heart began pounding.
+“And yet—
 
-Vikir nodded.
+one of the earliest stages already fails to provide a proper result.”
+
+Vikir tilted his head.
+
+“Did some bored low-level manager create it?”
+
+“Abuse authority?”
+
+The fairy tried to look calm.
+
+Its open torso betrayed it.
+
+Vikir nodded decisively.
 
 “Fine.”
 
-“I’ll complain directly to the tower administrator later.”
+“The Bonus Stage reward can be nothing.”
 
-“I’ll make sure we settle the accounting.”
+“When I meet the tower administrator—
 
-The fairy shouted.
+I'll file a formal complaint.”
+
+“A serious one.”
+
+“We can settle responsibility then.”
+
+The fairy panicked.
 
 [There is a reward!]
 
+[It is already prepared!]
+
 Vikir smiled.
 
-“Then give it to me.”
+“Good.”
+
+“Give it to me.”
 
 [But first-clear rewards are limited?]
 
-Vikir already knew the fairy’s early inventory.
+Vikir already knew what an early-floor fairy could distribute.
 
 “Quantity.”
 
-“I want quantity, not quality.”
+“I prefer quantity to quality.”
 
-[…That makes no sense?]
+[That does not make sense?]
 
-“It does if there’s enough.”
+“It does.”
 
-The fairy opened its mouth.
+“If the quantity is high enough.”
 
-Then vomited candy.
+The fairy's mouth tore wider.
+
+Then—
+
+BLURGH!
+
+Candies poured out.
 
 Hundreds.
 
 Red.
 
-Green.
-
 Blue.
 
-Granola stared.
+Green.
 
-“Look at all those stats!”
+Granola's eyes widened.
+
+“All of those are stats!”
+
+“If you eat them—
+
+you can become stronger immediately!”
 
 Vikir crouched.
 
-Sorted them.
+Sorted.
 
-Red—
+Red most common.
 
-Strength—
+Strength.
 
-most common.
+Blue next.
 
-Blue—
+Stamina.
 
-Stamina—
+Green scarce.
 
-next.
+Agility.
 
-Green—
-
-Agility—
-
-rare.
+*As expected.*
 
 Then—
 
 his hand stopped.
 
-One candy was different.
+A different candy lay under the pile.
 
 Black.
 
-Vikir’s eyes widened.
+Vikir's eyes opened wider.
 
 *Already?*
 
-He inspected it calmly.
+He kept his face neutral.
 
-**<Strange Candy — Physical Resistance / Black>**
+> **<Strange Candy — Physical Resistance / Black>**
+>
+> Raises **Physical Resistance** by **1**.  
+> Tastes spicy.
+>
+> **Physical Resistance +1**
 
-Raises Physical Resistance by 1.
+The candy shone like concentrated darkness.
 
-Spicy.
+Obviously different from the basic colors.
 
-**Physical Resistance +1**
+Vikir remembered the old memoirs.
 
-One of the three advanced stats.
+The Hell Tree had **six** meaningful stat categories.
 
-The rare attributes ordinary heroes might never awaken—
-
-even after reaching the tower’s deeper stages.
-
-Vikir ate it immediately.
-
-Heat burned his tongue and throat.
-
-Ding.
-
-**<Vikir>**
-
-**LV:** 1  
-**Titles:** Rat Hunter / Hell Merchant
-
-**Stats**
-- Strength: 230
-- Agility: 219
-- Stamina: 244
-- Physical Resistance: 0 (+1) = 1
-- ?: Locked
-- ?: Locked
-
-Unlike the basic stats—
-
-Physical Resistance had started at zero.
-
-An innate talent impossible to train normally outside.
-
-Now—
-
-it was unlocked.
-
-And once unlocked—
-
-it could grow naturally with future levels.
-
-*This is one of the real reasons to descend.*
-
-Six total stats.
+Three basic.
 
 Strength.
 
@@ -225,99 +233,282 @@ Agility.
 
 Stamina.
 
-And three ultra-rare attributes.
+And three advanced attributes.
 
-No great hero before regression had managed to complete all six before escaping.
+Those later attributes were so rare that a survivor could climb the entire tower—
 
-Vikir intended to change that.
+and never unlock one.
 
-Then the fairy offered another window.
+Even many heroes of the Age of Destruction had failed to awaken them.
+
+Vikir had found one—
+
+on Basement Floor 2.
+
+**Physical Resistance.**
+
+An attribute that reduced damage received from physical attacks.
+
+Vikir ate the black candy.
+
+CRUNCH.
+
+Heat burned across his tongue.
+
+Then down his throat.
+
+Ding.
+
+> **<Vikir>**
+>
+> **LV:** 1  
+> **Titles:** Rat Hunter / **Hell Merchant** *(NEW)*
+>
+> **Stats**
+> - Strength: **230**
+> - Agility: **219**
+> - Stamina: **244**
+> - Physical Resistance: **0 (+1) = 1**
+> - ?: Locked
+> - ?: Locked
+
+Unlike the three basic stats—
+
+Physical Resistance had started at zero.
+
+Because it represented an innate talent that could not normally be trained into existence in reality.
+
+Only special systems like the Hell Tree could awaken it.
+
+*Now that the stat is unlocked—*
+
+*future Levels can raise it naturally too.*
+
+That was enormous.
+
+A new title had also appeared.
+
+> **Hell Merchant**
+>
+> Deals greatly increased damage to canine-type monsters.  
+> Slightly extends abnormal statuses such as provocation, confusion, blindness, bleeding, burns, and poison.
+
+Useful.
+
+But secondary.
+
+Vikir's real objective was the six-stat set.
+
+Level recovery mattered.
+
+Completing all six attributes mattered more.
+
+Those stats could be carried outside the tower.
+
+And before regression—
+
+not one of the great heroes had escaped with all six fully assembled.
+
+Vikir intended to become the first.
+
+Then—
+
+the fairy spoke again.
+
+[M-maybe?]
 
 [Would you like the Candy Shop?]
 
-**<Fairy Candy Shop>**
+A window opened.
 
-Trade unwanted candies.
+> **<Fairy Candy Shop>**
+>
+> Sell and purchase unused candies.
+>
+> **Strange Candy — Gold / Level**
+>
+> Cost: **300 candies of any color**
 
-**Strange Candy — Gold / Level**
+The fairy extended a long tongue.
 
-Cost: 300 candies of any color.
+A golden candy glittered on it.
 
-Raises Level by 1.
+> **<Strange Candy — Level / Gold>**
+>
+> Raises Level by **1**.  
+> Tastes sweet.
+>
+> **Level +1**
 
-Sweet.
+Granola stared greedily.
 
-**Level +1**
+“That raises Level?”
 
-Granola nearly shouted.
-
-“One candy restores another one percent of your strength!”
+“One candy restores another one percent of your original strength!”
 
 “If you eat one hundred—
 
-you’re back to full power!”
+you can recover all of it!”
 
-But Vikir shook his head.
+“And when you leave—
 
-*Leveling early is forbidden.*
+the accumulated growth remains!”
 
-The tower judged reward difficulty partly through Level.
+“For survivors here—
 
-A strong person completing a hard feat—
+that has to be the best candy!”
+
+For ordinary participants—
+
+yes.
+
+The price was brutal.
+
+Three hundred ordinary candies for one Level candy.
+
+Almost impossible to afford in the early floors.
+
+Vikir—
+
+having exterminated nearly an entire Hell Hound pack and then Cerberus—
+
+was an exception.
+
+The fairy noticed his hesitation.
+
+[You can eat candies freely?]
+
+[If you raise Level—
+
+your stats also rise naturally?]
+
+The suggestion sounded reasonable.
+
+Restoring outside strength early—
+
+was the conventional strategy.
+
+Vikir shook his head.
+
+*Leveling now is forbidden.*
+
+He stared at the **1** beside his Level.
+
+Most beginners would collect ordinary candies obsessively—
+
+then trade them for Level candies.
+
+Vikir intended to remain Level 1 for a long time.
+
+Because the tower's reward logic cared about comparative difficulty.
+
+A strong person accomplishing something great—
 
 ordinary reward.
 
-A weak person completing a small feat—
+A weak person accomplishing something small—
 
 ordinary reward.
 
-A strong person completing something easy—
+A strong person accomplishing something trivial—
 
-almost nothing.
+almost no reward.
 
-But a weak person completing something extraordinary—
+But—
 
-the reward exploded.
+a **weak person** accomplishing something extraordinary—
 
-As long as Vikir stayed Level 1—
+the reward could exceed common sense.
 
-the tower continued treating him as “weak.”
+Vikir remembered the system messages.
 
-That made impossible accomplishments far more profitable.
+**Level 1 Warrior.**
 
-And there was another reason.
+First F-rank tutorial kill.
 
-Early levels would eventually lose strategic value.
+Rare achievement.
 
-Better to hoard stat candies—
+First B+ Hell Hound.
 
-and trade later if needed.
+Difficult achievement.
+
+First B+ pack clear.
+
+Great achievement.
+
+First A+ Cerberus.
+
+Awe-Inspiring achievement.
+
+Once the Level System classified Vikir as Level 1—
+
+it treated him as a weak participant.
+
+His unusually high stats did not change that initial category.
+
+*If a Level 1 Warrior keeps clearing high-difficulty stages—*
+
+*the rewards stay exceptional.*
+
+Vikir already possessed enough base ability to compensate for low Level.
+
+So the optimal path was simple.
+
+Stay weak—
+
+according to the system.
+
+Perform impossible feats.
+
+Take disproportionately large rewards.
+
+There was another reason too.
+
+*Levels gained early eventually lose strategic value.*
+
+Vikir did not know the exact timing—
+
+but the memoirs made that much clear.
+
+Until then—
+
+hoarding Level candies was better.
+
+Ordinary red, green, and blue candies could always be converted later.
+
+No urgency.
 
 Vikir closed the shop.
 
-The fairy groaned.
+The fairy made a disappointed noise.
+
+[Awwww?]
 
 Then—
 
 RUMBLE.
 
-The ground shook.
+The ground began sinking.
 
 Granola looked around.
 
-“108 minutes!”
+“Wait.”
+
+“Has it already been 108 minutes?”
 
 Ding.
 
-**<Mission Complete>**
+> **<Mission Complete>**
+>
+> **Survivors: 69**
 
-**Survivors: 69**
+The same window appeared before Vikir and Granola.
 
-A black vortex opened below.
+Probably before every surviving participant.
 
-Everyone still alive on Basement Floor 2—
+A black vortex opened beneath the ruined district.
 
-was pulled downward.
+Then swallowed everyone still alive.
 
 Ding.
 
@@ -325,6 +516,6 @@ Ding.
 
 [Entering Basement Floor 3 — Familiar Ground (2).]
 
-Sixty-nine survivors—
+All **69 survivors**—
 
 fell together.
