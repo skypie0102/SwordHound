@@ -1,0 +1,37 @@
+{
+  "chapter": 492,
+  "title": "Running Hounds (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Running Hound(s)",
+    "range": [
+      490,
+      493
+    ],
+    "family_qa_path": "qa/families/running-hounds-0490-0493.md",
+    "family_qa_sha": "9997b083a5f6dec1f07e71766ad4b57a72be8d3b",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/492.txt",
+    "blob_sha": "9eae85c3579afef15e9a889b0d82fb51afa5d89d",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-490.xhtml",
+    "blob_sha": "b9f62e23187345a6160d4566fb79f39e100c5b8c",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0492.md",
+    "blob_sha": "37cc36e7b4f07d6bfebac474fb475f0846f83214"
+  },
+  "qa": {
+    "path": "qa/chapter-0492.md",
+    "blob_sha": "8b92d4c6db4a9418660ead926aff7061b5d61e90",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; accepted project terminology controls recurring forms.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
