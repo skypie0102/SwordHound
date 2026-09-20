@@ -1,305 +1,353 @@
 # Chapter 88: The Illiad (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/088.txt` — `05598847096890576bceb941900bcf04561d90ff`. Recovered English Chapter 87 is the verified shifted secondary witness. Established terminology controls **Illiad**, **Akwilla**, **Aiyen**, **Ah'Heman**, **Ahun**, **Ballak Tribe**, **Vikir**, **Bakira**, **Leviathan Clan**, and **Beelzebub**. Ah'Heman's youthful abuse history is preserved non-graphically as abuse; no sexualized detail is added.
+> Chinese-primary reconstruction from `source/chinese/chapters/088.txt`. Recovered English Chapter 87 is the verified shifted secondary witness. Established terminology controls **Illiad**, **Akwilla**, **Aiyen**, **Ah'Heman**, **Ahun**, **Ballak Tribe**, **Vikir**, **Bakira**, **Leviathan Clan**, and **Beelzebub**. Ah'Heman's youthful abuse history is preserved non-graphically and without eroticization.
 
-“The Illiad?”
+“Th-the Illiad?”
 
-Ah'Heman's face hardened.
+Ah'Heman's expression froze.
 
-The **Illiad** was Ballak's final answer when neither side would yield.
+The **Illiad** was a duel between warriors.
 
-Warrior against warrior.
+When neither side in a dispute could back down, it was the final life-and-death contest used to defend honor and decide whose will prevailed.
 
-A life-and-death duel for honor.
-
-The winner's position prevailed.
-
-Akwilla smiled at him.
+Akwilla smiled gently at him.
 
 “Great shaman Ah'Heman.”
 
-Her voice was almost gentle.
+Her tone was almost warm.
 
-“You have spent your life defending tradition.”
+“You are a man of lofty dignity and shining honor. A guardian of traditions passed down through generations. I said as much myself.”
 
-“Could a man of your pride and honor reject one now?”
+Her smile deepened.
 
-Ah'Heman understood.
+“Surely such dignity, honor, and tradition cannot simply be abandoned?”
 
-Every compliment had been preparation.
+Ah'Heman could only grit his teeth.
 
-Akwilla had built a cage out of his own public identity.
+He had always believed the chieftain regarded him as an eyesore.
 
-For years, she had supported younger warriors who questioned superstition and obsolete customs.
+Now he understood why she had spent the last several minutes praising him so extravagantly.
 
-Ah'Heman had always answered by invoking tradition.
+Every word had been groundwork.
 
-Now tradition had turned on him.
+Akwilla had elevated his reputation precisely so that he would be unable to reject the Illiad without destroying that reputation himself.
 
-Even Ahun refused to help.
+The seasoned chieftain clearly intended to use this opportunity to eliminate the shamanic faction that had spent years encroaching on the chieftain's authority.
 
-“Grandfather.”
+Even her support for Aiyen and the other young warriors who challenged superstition and old customs had served as a political counterweight to Ah'Heman's power.
 
-The young hunter's voice was flat.
+And now even Ahun refused to stand with him.
 
-“You always said tradition matters.”
+“Grandfather. You're always telling us to respect tradition.”
 
-“The Illiad is tradition.”
+Ahun looked at him without sympathy.
 
-“I know!”
+“The Illiad is a Ballak tradition.”
 
-Ah'Heman snapped.
+“Shut your mouth! I know that!”
 
-Then he looked at Vikir.
+Ah'Heman snarled and turned away.
+
+Vikir stood in front of him without expression.
+
+A prisoner captured in war.
 
 An outsider.
 
-Once a captive.
+And in what felt like an instant, that outsider had become the hero of the tribe.
 
-Now the hero Ah'Heman had wanted to become.
+The position Ah'Heman had desired his entire life had been taken by some boy from nowhere in only two years.
 
-Two years.
+The realization made his insides churn.
 
-That was all it had taken Vikir to gain the love and respect Ah'Heman had chased for a lifetime.
-
-Jealousy burned through him.
+His anger toward Vikir surged like magma boiling deep inside an active volcano.
 
 “Fine!”
 
-He pointed.
+Ah'Heman shouted.
 
-“I accept!”
+“I accept your challenge!”
 
-Vikir nodded.
+Vikir did not react beyond a small nod.
 
-Akwilla leaned toward him.
+Acceptance.
 
-“Can you do it?”
+Akwilla leaned close enough that only he could hear.
 
-“If you order it, I'll finish it.”
+“…Can you do it?”
 
-Vikir had spent more than fifty years, counting both lives, as Baskerville's hound.
+“If you order it, I will.”
 
-Being someone else's blade was familiar.
+Counting both before and after his regression, Vikir had lived more than fifty years as a hound of Baskerville.
 
-Akwilla looked satisfied.
+Being used as another person's blade was nothing new to him.
 
-“Good.”
+Akwilla smiled with satisfaction.
 
-Then—
+His answer seemed to reassure her as completely as holding a sharpened sword in her own hand.
 
-“I trust you, son-in-law.”
+“Good. I trust you, son-in-law.”
 
-Vikir stared.
+“…?”
 
-For a moment, she reminded him unpleasantly of Adolf Morgue.
+For one brief moment, Vikir thought Akwilla looked disturbingly similar to Adolf Morgue.
 
-◆◆◆
+Before long, every Ballak warrior who could come had gathered.
 
-Ballak gathered.
+Young and old alike formed a wide audience around the ground where two warriors would stake their honor and lives.
 
-Young.
+The tension was so heavy that palms grew damp with sweat.
 
-Old.
+Ah'Heman stared at Vikir.
 
-Hunters.
+*Maybe this is better.*
 
-Elders.
+*If I use this chance to get rid of him, I can clear away everything that's been troubling me and take back my place.*
 
-Everyone wanted to witness the duel.
+His eyes burned.
 
-Ah'Heman glared at Vikir.
+As though the entire world would return to normal if Vikir simply disappeared.
 
-If Vikir disappeared, perhaps everything could return to how it had been.
+Then Ah'Heman erupted.
 
 “Three days from now!”
 
-Ah'Heman shouted.
+His killing intent flared as violently as magma breaking through a volcano.
 
-“Full moon. Here. I formally challenge you to the Illiad!”
+“The night of the full moon! Here!”
 
-Vikir answered immediately.
+He pointed at Vikir.
 
-“Why wait three days?”
+“I formally challenge you to the Illiad!”
 
-Ah'Heman's face changed.
+The ferocity in his voice startled the surrounding warriors.
 
-“Now.”
+Vikir, the actual target of that murderous intent, remained completely calm.
 
-The crowd murmured.
+He said only—
 
-Ah'Heman had intended to use those three days for preparation.
+“Why three days?”
 
-Vikir knew exactly why.
+Ah'Heman stiffened.
 
-Shamans liked hidden contingencies.
+“Let's do it now.”
 
-Poisons.
+Vikir spoke as if he were suggesting they finish an inconvenient chore before lunch.
 
-Curses.
+The Ballak warriors murmured in admiration at his composure.
 
-Traps.
+Cold sweat appeared on Ah'Heman's forehead.
 
-Prepared ground.
+Everything he had intended to prepare secretly during those three days had vanished with one sentence.
 
-Vikir had survived too many battles against shamans, warlocks, and alchemists to grant one extra time willingly.
+Vikir knew exactly what the delay was for.
 
-“By tradition,” Vikir said, “the challenged party chooses the date and place.”
+*Shamans are usually like this.*
 
-Ah'Heman could not object.
+Ah'Heman had tried to cloak a postponement in exaggerated courage.
 
-He had spent years demanding obedience to tradition.
+Vikir was not going to let him.
 
-Aiyen laughed quietly.
+He too was an old veteran who had survived more schemes than most people could imagine.
+
+When it came to deception, traps, and dirty tactics, a survivor of the Age of Destruction had no reason to lose to one elderly shaman.
+
+“By tradition,” Vikir said, “the one who accepts an Illiad challenge has priority in choosing the time and place. Correct?”
+
+A pained noise escaped Ah'Heman.
+
+He had spent his life loudly insisting that everyone respect tradition.
+
+Now his own words bound his hands and feet.
+
+Aiyen giggled.
 
 “Ah'Heman's worst enemy really is Ah'Heman.”
 
-She turned to Bakira.
+Then she turned.
 
-“Tell the village to prepare a victory feast.”
+Bakira sat beside her with the dignity of a loyal subordinate, trusted companion, and old friend.
+
+Aiyen stroked the wolf's soft ears and whispered—
+
+“Go back to the village. Tell them to prepare for the winner of the Illiad.”
+
+The meaning was obvious.
+
+She wanted the people who had stayed behind to prepare a victory feast for Vikir.
 
 “Don't.”
 
-Aiyen looked back.
+Vikir stopped her.
 
-Vikir shook his head.
+Aiyen blinked.
 
-“Assuming victory makes you careless.”
+“That kind of boasting tends to bring the opposite result,” he said.
 
-He had seen too many dying enemies reveal one last hidden card.
+Excessive confidence made it harder to respond when something unexpected happened.
 
-He would not underestimate Ah'Heman simply because the old man looked cornered.
+Vikir looked at Ah'Heman grinding his teeth in the distance.
 
-A hound used full strength even on a rabbit.
+A shaman could produce all kinds of unpleasant surprises in battle.
 
-This prey was an old fox.
+Throughout the Age of Destruction, Vikir had fought countless shamans, black magicians, alchemists, and similar opponents.
 
-Aiyen became serious too.
+Almost every one of them had produced at least one unexpected counterattack.
 
-She told Vikir everything she knew.
+Vikir had still won in the end—
 
-Then mentioned something that caught his attention.
+but people like that always seemed to keep one final card hidden for the moment before death.
 
-“Wait.”
+He had learned to expect it.
 
-Vikir looked at her.
+*I won't relax for even a moment.*
 
-“Repeat that.”
+A hound used its full strength even when hunting a rabbit.
 
-Aiyen grinned.
+There was even less reason to relax when the prey was an old fox.
 
-“His underwear? The laundry kids say he likes tight leopard-pattern hides—”
+Vikir went back through everything he remembered from before his regression and checked each possible variable one by one.
 
-“Before that.”
+Seeing his caution, Aiyen became more serious as well.
 
-“His origin?”
+She began telling him everything she knew about Ah'Heman that might help.
 
-Her expression changed.
+Partway through, Vikir's ears practically perked up.
 
-“Ah'Heman wasn't born Ballak.”
+“Wait. Repeat that part.”
 
-Vikir listened.
+Aiyen brightened at his sudden interest.
 
-“He came from another tribe.”
+“Which part? Ah'Heman's favorite kind of underwear? According to the kids who do the laundry, he mostly wears tight leopard-pattern hides—”
 
-“As a young outsider, he was kidnapped and enslaved here.”
+“…Before that.”
 
-Aiyen lowered her voice.
+“Oh. His background?”
 
-“The shaman who held him abused him.”
+Aiyen repeated what she had once heard from Akwilla.
 
-No one else knew this history except Akwilla, Aiyen, and Ah'Heman himself.
+At this point in time, only Akwilla, Aiyen, and Ah'Heman himself knew the story.
 
-Eventually Ah'Heman killed that shaman and took his witchcraft.
+“Ah'Heman wasn't born Ballak. He belonged to another tribe originally. He was kidnapped when he was young—around the age you were when we first brought you here.”
 
-Life afterward was not easy.
+That surprised Vikir.
 
-Ballak valued physical strength.
+He had assumed Ah'Heman came from generations of Ballak natives.
 
-Ah'Heman lacked it.
+Instead, the old shaman had begun as an outsider too.
 
-He also carried the stigma of killing the shaman who had raised and abused him.
+Aiyen's next words surprised him even more.
 
-So he did anything necessary to be accepted.
+“He tells people he was captured during a hunt.”
 
-Cleaned human waste.
+Her expression hardened.
 
-Cleaned wolf waste.
+“But that's not what happened. He was taken as a slave by the shaman at the time and sexually abused.”
 
-Chased dangerous prey.
+Perhaps that was why Ah'Heman seemed to see something of himself in Vikir.
 
-Served as bait.
+Both had entered Ballak as young outsiders in bondage.
 
-Warmed the old chieftain's shoes against his own body before dawn.
+But Vikir had followed almost the ideal path from captive to respected member of the tribe.
 
-When Akwilla was still a child, he carried her on his back and crawled like a dog to amuse her.
+The resemblance may only have sharpened Ah'Heman's resentment.
 
-By the time Ballak finally accepted him, his hair was already gray.
+“Anyway,” Aiyen continued, “he waited for an opportunity. Eventually he killed the shaman and took his sorcery.”
 
-Vikir understood the pattern.
+Life after that had been brutal.
 
-A lifetime of humiliation.
+“In Ballak, physical strength mattered. Ah'Heman didn't have much of it. And people despised him because he'd killed the shaman who had raised him.”
 
-Then age.
+She looked toward the old man in the distance.
 
-Then hunger for everything he believed youth had denied him.
+“So he did everything he could to make the tribe accept him.”
 
-Authority.
+He cleaned human waste.
 
-Privilege.
+Wolf waste.
 
-Violence.
+Every filthy chore in the village.
 
-Control.
+He volunteered to chase dangerous prey.
 
-Eventually he tried to consume Akwilla's power.
+Sometimes he served as bait.
 
-Then Ballak itself.
+He woke before dawn to hold the previous chieftain's shoes against his own body and warm them before the man rose.
 
-Then the jungle.
+When Akwilla was still a child, Ah'Heman would carry her on his back and crawl on all fours like a dog just to make her laugh and earn her favor.
 
-And finally he allied with Leviathan.
+By the time Ballak society finally accepted him—
 
-Vikir asked one thing.
+his hair was already turning gray.
 
-“What tribe was he born into?”
+And in old age, the privileges he had never enjoyed while young began to obsess him.
 
-Aiyen shook her head.
+Violence and bloodlust he had spent his prime suppressing resurfaced along with a sense that the world owed him compensation.
 
-“I don't know.”
+He tried to absorb Akwilla's authority.
 
-For now, it did not matter.
+Then Ballak's.
 
-The duel was beginning.
+Then, eventually, the entire jungle's.
 
-Vikir stepped toward the field.
+And he had even joined hands with the Imperial Leviathan Clan to do it.
 
-Then—
+Vikir suddenly thought of something.
 
-a hand caught his wrist.
+“…Then what tribe was Ah'Heman originally from?”
 
-He turned.
+“Hm. That part I don't know.”
 
-Aiyen kissed him briefly.
+Vikir nodded.
 
-Nothing more.
+For the moment, it did not matter.
 
-She stepped back with a grin.
+Across the field, Ah'Heman had been growing more restless by the minute.
+
+The anxiety worsened when Vikir finally began walking toward the Illiad ground.
+
+Like an experienced hunting hound, Vikir approached slowly and steadily, each step tightening the collar around his prey.
+
+He had accounted for every variable he could think of.
+
+Then, just before the Illiad began—
+
+something happened that even Vikir had not anticipated.
+
+Tap.
+
+A light kick struck the ground behind him.
+
+Someone caught his wrist and pulled him backward.
+
+Vikir turned.
+
+“…!”
+
+Lips touched his.
+
+Aiyen had grown considerably taller during the last two years, but she still had to rise onto her toes to look directly up at him.
 
 “Win and come back.”
 
-Then added—
+She smiled.
 
-“I'll give you something better.”
+“I'll give you something better then.”
 
-Vikir considered responding.
+Then she pushed lightly against his chest.
 
-Decided not to.
+Vikir considered saying something.
 
-There were more immediate concerns.
+He decided against it.
 
-SHNK.
+There were more important things to deal with right now.
 
-Beelzebub emerged from his wrist.
+A moment later—
 
-The Iron-Blooded Sword Hound entered the Illiad.
+Shnk!
+
+The artery at his wrist opened.
+
+The magic sword Beelzebub emerged in a flash of crimson.
+
+The hound of the Iron-Blooded Sword House had slipped its leash.
