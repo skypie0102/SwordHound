@@ -1,234 +1,206 @@
 # Chapter 227: Tuition (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/227.txt` — `fe128312ab67b5ae9781a6c0702c19b17c630a0f`. Recovered English Chapter 225 is the verified shifted secondary witness. Canonical/project terminology controls the **Sherpa Guild**, **MiniPin**, Vikir, Colosseo Academy, Graduator, Imperial Army, and Baskerville. The guildmaster is introduced from the aligned witness as **Miniature Pinscher**, commonly **MiniPin**.
+> Chinese-primary reconstruction from `source/chinese/chapters/227.txt`. Recovered English Chapter 225 is the verified shifted secondary witness. Canonical/project terminology controls the **Sherpa Guild**, **Miniature Pinscher / MiniPin**, **Vikir**, **Colosseo Academy**, **Graduator**, the **Imperial Army**, and **Baskerville**.
 
-The **Sherpa Guild**.
+The **Sherpa Guild** specialized in one thing.
 
-Not famous—
+Support.
 
-for elite mercenaries.
+Hunters.
 
-Famous—
+Guides.
 
-for guides.
+Porters.
 
-Hunters and guides—
+Not elite mercenaries.
 
-who knew monster ecology.
+Not famous duelists.
 
-geography.
+Its reputation came from monster ecology and geography.
 
-migration routes.
+The guild's guides came almost exclusively from families that had lived in their home regions for at least three generations.
 
-nesting grounds.
+They knew where rare monsters nested.
 
-escape paths.
+Where herds migrated.
 
-Most guides—
+Where hidden populations gathered.
 
-came from local families—
+Shortcuts.
 
-rooted in the same regions—
+Safe passes.
 
-for three generations or more.
+Unmarked escape routes.
 
-Knowledge—
+Knowledge that could decide whether a hunting party returned alive.
 
-their weapon.
+But because Sherpa mostly supplied guides and porters—
 
-The problem—
+the guild remained small.
 
-guides and porters—
+After successful hunts—
 
-were rarely respected.
+combat teams often took the credit.
 
-Combat teams took the glory.
+Support workers had their contribution ignored.
 
-Support workers—
+Payments reduced.
 
-received reduced pay.
+Contracts reinterpreted.
 
-Lost credit.
+Unfair treatment was common.
 
-Became shields—
-
-when plans failed.
-
-Sherpa survived—
-
-because of one man.
+Sherpa survived that environment because of its guildmaster.
 
 Creak—
 
 the guild doors opened.
 
-Everyone in the training yard turned.
+Members training in the yard turned immediately.
 
-“Guildmaster!”
+“The guildmaster is here!”
 
 “Attention!”
 
+“Salute!”
+
 “Good morning!”
 
-A giant entered.
+The man walking in was difficult to ignore.
 
-More than 2.3 meters tall.
+More than **2.3 meters tall**.
 
-Near one hundred eighty kilograms.
+Nearly **180 kilograms**.
 
-Cropped hair.
+Head shaved close.
 
-Scars—
+Face crossed by old scars.
 
-across his face.
+Muscle packed over his frame like heavy armor.
 
-Muscle—
+And behind that body—
 
-like plate armor.
+Graduator-level combat ability.
 
-**Miniature Pinscher.**
+His name was **Miniature Pinscher**.
 
-Known—
+Everyone called him—
 
-as **MiniPin**.
+**MiniPin**.
 
-A man—
+Looking at him—
 
-whose appearance alone—
+few people found the courage to cut Sherpa's pay.
 
-discouraged wage theft.
+MiniPin ran the guild through strict meritocracy.
 
-His rule—
+And he trained its members without mercy.
 
-strict meritocracy.
+“The more you sweat in training—”
 
-His training—
+his voice boomed across the yard—
 
-merciless.
+“the less you bleed in battle!”
 
-“The more you sweat in training—
+The guides and porters of Sherpa had unusually strong bodies and discipline for support personnel.
 
-the less you bleed in battle!”
+MiniPin was the reason.
 
-Sherpa's porters and guides—
+His own combat strength was enough for almost any top mercenary guild.
 
-therefore—
+The Imperial Army had tried to recruit him as an officer and training instructor.
 
-were tougher than most support workers.
+He refused every offer.
 
-MiniPin himself—
-
-had reached **Graduator** level.
-
-Strong enough—
-
-for top mercenary guilds.
-
-The Imperial Army—
-
-had tried recruiting him—
-
-as an officer / instructor.
-
-He refused.
+His answer never changed.
 
 *I like hunting.*
 
-*Monsters are my calling.*
+*Fighting monsters is my calling.*
 
-One private dream—
+If he had one private ambition left—
 
-remained.
+it was Baskerville.
 
-Baskerville.
+The Western Front.
 
-Western Front.
+Joining the Iron-Blooded Sword House and hunting monsters under its banner.
 
-Monster extermination—
+But Baskerville did not openly recruit people like him.
 
-under the Iron-Blooded Sword Clan.
+So MiniPin focused on Sherpa.
 
-But Baskerville—
+Protecting the guild.
 
-had never invited him.
+Protecting the people already depending on him.
 
-So—
+“And that means choosing our clients.”
 
-MiniPin protected Sherpa.
+Once inside his office—
 
-And that meant—
+MiniPin began reading new requests.
 
-protecting its members from—
+“Live capture of a Venompion for research…”
 
-bad clients.
+He frowned.
 
-He sat in his office.
+“Combat team too small.”
 
-Read requests.
-
-“Live Venompion capture?”
-
-“Too few combatants.”
-
-“Porters die.”
+“If this goes wrong, the porter dies first.”
 
 “Reject.”
 
-“Merchant route guidance?”
+Next.
 
-“Escort team too weak.”
+“Merchant-company route guidance.”
 
-“Guide dies.”
+He read the escort roster.
+
+“Mercenaries are too weak.”
+
+“If monsters attack, the guide becomes bait.”
 
 “Reject.”
 
-Request—
-
-after request—
+Request after request—
 
 discarded.
 
-Nearly ninety percent.
+Nearly ninety percent of the pile.
 
 MiniPin clicked his tongue.
 
-“How many of these idiots—
+“…How many of these people will still be alive next year?”
 
-will still be alive next year?”
+Too many people hunted above their ability.
 
-People—
+When plans failed—
 
-constantly hunted above their level.
+guides and porters could not fight as well as the main party.
 
-When things went wrong—
+Could not flee as fast.
 
-the slowest—
+So they were often abandoned first.
 
-weakest—
+Or deliberately used as shields.
 
-support worker—
+“I won't lose guild brothers like that.”
 
-became bait.
+MiniPin demanded proof.
 
-MiniPin refused—
+Mercenary license.
 
-to sacrifice his people.
+Military service.
 
-So—
+Recognized combat history.
 
-unless a client could prove—
+Something.
 
-mercenary credentials.
+If a client could not demonstrate enough strength—
 
-military service.
+Sherpa refused even modest requests.
 
-real combat ability—
-
-Sherpa refused them.
-
-Then—
-
-one request.
+Then he reached the last form.
 
 “What?”
 
@@ -236,236 +208,258 @@ one request.
 
 “First-year?”
 
-> **Request**
+He read.
+
+> **Request Record**
 >
-> Name: Vikir  
-> Affiliation: Colosseo Academy  
-> Request: Hire one guide  
-> Purpose: Monster hunting
+> **Name:** Vikir  
+> **Affiliation:** Colosseo Academy  
+> **Request:** Hire one guide  
+> **Purpose:** Monster subjugation
 
-No target monster.
+MiniPin stared.
 
-No credential.
+No target species.
+
+No difficulty estimate.
+
+No combat credential.
 
 Just—
 
-a first-year student.
+a first-year Academy student asking for a guide.
 
-MiniPin scoffed.
+Academy students rarely came to Sherpa.
 
-“Rich Academy kid—
+Most were rich enough to treat guild districts like another world.
 
-looking for an adventure?”
+Occasionally a bored young noble appeared—
 
-He crumpled the paper.
+wanting to “experience lower-class life.”
 
-Threw it away.
+Those adventures were dangerous.
 
-“Give him milk.”
+A foolish client's entertainment could get an experienced guide killed.
 
-“Send him home.”
+MiniPin snorted.
 
-“That brat thinks—
+“What does some Academy young master want here?”
 
-hunting is a game?”
+“Looking for fun?”
 
-The request—
+The request required no thought.
+
+He crushed the paper.
+
+Threw it into the trash.
+
+“Give him a cup of milk.”
+
+“Send him away.”
+
+“That brat thinks monster subjugation is a game?”
+
+Vikir's request—
 
 ignored.
 
-And—
+…
 
-that—
+And that decision—
 
-became the start—
-
-of MiniPin's worst week.
+became the beginning of MiniPin's miserable nights.
 
 ◆◆◆
 
-Moonless night.
+Late evening.
 
-MiniPin came home late.
+No moon.
+
+MiniPin returned home after overtime.
 
 His wife—
 
-asleep.
+already asleep.
 
 His daughter—
 
-asleep.
+curled beside her.
 
-On the table—
+MiniPin crossed the living room toward the kitchen.
 
-eggs.
+He was hungry.
 
-bacon.
+Maybe boil a few potatoes.
 
-toasted cornbread.
+Then he saw the dining table.
 
-Cold—
+Eggs.
 
-but prepared.
+Bacon.
+
+Toasted cornbread.
+
+Cold now—
+
+but clearly prepared for him.
 
 “…Honey.”
 
 He looked toward the bedroom.
 
-Wife—
+His wife had married him young.
 
-married young.
+Worked hard for years.
 
-Worked hard.
+Raised their daughter.
 
-Daughter—
+MiniPin often felt he had given her too little in return.
 
-growing up.
+“Just endure a little longer.”
 
-MiniPin—
+“One day I'll land a big commission.”
 
-always felt—
+“I'll make life easier for you both.”
 
-he had not given them enough.
+He entered the bedroom.
 
-“Just a little longer.”
+His wife had fallen asleep while putting their daughter down.
 
-“One day—
+That meant—
 
-I'll land a big commission.”
+the large bed was empty.
 
-“Then I'll make it up to you.”
+MiniPin lay down alone.
 
-His wife had fallen asleep—
-
-putting their daughter down.
-
-So MiniPin—
-
-took the larger bed—
-
-alone.
+Folded one arm beneath his head.
 
 Closed his eyes.
 
-Rustle.
+Rustle—
 
-Second-floor window.
+A faint sound came from the second-floor window.
 
-“…?”
+“…What?”
 
-A silhouette—
+MiniPin opened one eye.
 
-entered.
+The latch moved.
+
+A figure climbed in.
 
 Black mask.
 
-No visible weapon.
+No visible sword.
+
+No weapon in hand.
 
 MiniPin almost laughed.
 
 *A thief.*
 
-Of all houses—
+An extraordinarily unlucky thief.
 
-this one.
+This was the home of Sherpa's guildmaster.
+
+A Graduator.
+
+A man courted by the Imperial Army and major mercenary groups.
 
 MiniPin had dealt with thieves before.
 
-Hungry men—
+Hungry men.
 
-who climbed fences.
+Desperate people climbing walls.
 
-He beat them.
+Usually he beat them first.
 
-Lectured them.
+Then asked why.
 
-Sometimes—
+More than once—
 
-hired them.
+a thief he had lectured ended up becoming one of his trusted guild brothers.
 
-He planned—
+MiniPin planned to do the same now.
 
-the same here.
+“Hey.”
 
-“Stop.”
+“Stop there.”
 
-“Surrender.”
+“If you surrender now, I'll hear you out.”
 
-“Explain yourself.”
-
-“If the reason is good—
+“If your reason is decent—
 
 I may let you go.”
 
-The masked intruder—
+The masked man moved.
 
-threw one punch.
+BAM!
 
-BOOM!
+A fist passed beside MiniPin's ear.
 
-It missed MiniPin's head—
-
-by centimeters.
-
-Hair—
-
-cut by wind.
+A few strands of hair vanished.
 
 Behind him—
 
-a fist-shaped hole—
+THUNK!
 
-appeared in the wooden wall.
+A fist-shaped hole appeared through the hard wooden wall.
 
 “This is a warning.”
 
-MiniPin—
+The voice from behind the mask was low.
 
-went cold.
+Cold.
 
-*If that hit—*
+MiniPin's back filled with sweat.
 
-Skull—
+*If that hit me—*
 
-gone.
+His skull would have broken like sand.
 
-“Who the hell are you!?”
+That level of power made no sense without mana.
 
-Mana gathered—
+“You bastard!”
 
-around MiniPin's fist.
+“Do you know whose house this is!?”
+
+MiniPin stopped underestimating him.
+
+Mana gathered around his fist.
 
 Low Graduator.
 
-Between gas—
+Aura halfway between gas and liquid—
 
-and liquid density.
-
-The intruder raised—
-
-both fists.
-
-No mana.
-
-MiniPin realized—
-
-the first punch—
-
-had been—
-
-pure muscle.
-
-*What kind of body…?*
+thin but unmistakably real.
 
 Then—
 
-relief.
+the intruder raised both fists too.
 
-*At least he can't use mana.*
+No aura.
 
-Mana—
+MiniPin froze.
 
-erupted from both of the intruder's fists.
+That first punch—
+
+had been pure physical strength.
+
+*What kind of body…?*
+
+A chill passed through him.
+
+If someone could generate that force **without** mana—
+
+what would happen when they actually used it?
+
+MiniPin almost felt relieved.
+
+*At least this bastard can't use aura.*
+
+Whoosh!
+
+Mana erupted from both of the intruder's fists.
 
 MiniPin's eyes widened.
 
@@ -473,10 +467,6 @@ Too late.
 
 BAM!
 
-A fist—
+The fist struck under his jaw.
 
-under the jaw.
-
-Then—
-
-nothing.
+Everything went black.
