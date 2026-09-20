@@ -1268,8 +1268,9 @@
       "qa": "qa/chapter-0090.md",
       "provenance": "editorial/provenance/chapter-0090.json",
       "acceptance": "qa/acceptance/chapter-0090.json",
-      "acceptance_sha": "58095f9c16477da93eea83b5276436afd96323e3",
-      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
+      "acceptance_sha": "3ec0877c3bcb8520d564ab0e1d9168318d97f41b",
+      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 91,
@@ -1282,8 +1283,9 @@
       "qa": "qa/chapter-0091.md",
       "provenance": "editorial/provenance/chapter-0091.json",
       "acceptance": "qa/acceptance/chapter-0091.json",
-      "acceptance_sha": "9a1580409819309954b6dcda6b09d1770a182e0b",
-      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
+      "acceptance_sha": "b0f9ecade4f42ae1d36316570edd3658f464c172",
+      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 92,
@@ -1296,8 +1298,9 @@
       "qa": "qa/chapter-0092.md",
       "provenance": "editorial/provenance/chapter-0092.json",
       "acceptance": "qa/acceptance/chapter-0092.json",
-      "acceptance_sha": "5389d3460f6748a73e677a133e0d65220e73021d",
-      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
+      "acceptance_sha": "04d4c5d45bf9fb5d04f221eab4dc747fa1dc7c64",
+      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 93,
@@ -1310,8 +1313,9 @@
       "qa": "qa/chapter-0093.md",
       "provenance": "editorial/provenance/chapter-0093.json",
       "acceptance": "qa/acceptance/chapter-0093.json",
-      "acceptance_sha": "bbdc935f81c1562e6151f3e99801c7a0ec638f17",
-      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
+      "acceptance_sha": "f78e1a025429f7aa2af8efc4dd49ea594db75b08",
+      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 94,
@@ -1324,8 +1328,9 @@
       "qa": "qa/chapter-0094.md",
       "provenance": "editorial/provenance/chapter-0094.json",
       "acceptance": "qa/acceptance/chapter-0094.json",
-      "acceptance_sha": "494dfbdae67001526e0f45effd97162fbc1e8f12",
-      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md"
+      "acceptance_sha": "ccffc4aae299d4c487c87d981babc6160ea2e5c7",
+      "family_qa": "qa/families/ghosts-ancestors-0090-0094.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 95,
@@ -7122,12 +7127,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All five historical drafts were materially compressed; 85-86 were not caught by the initial size threshold."
+      },
+      {
+        "name": "The Ghosts of the Ancestors",
+        "range": [
+          90,
+          94
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All five historical drafts were materially compressed; 90-91 were not caught by the initial size threshold."
       }
     ],
     "pending_priority_review_chapters": [
-      92,
-      93,
-      94,
       96,
       97,
       98,
@@ -7170,12 +7182,12 @@
       421,
       431
     ],
-    "pending_priority_review_count": 44,
+    "pending_priority_review_count": 41,
     "next_family": {
-      "name": "The Ghosts of the Ancestors",
+      "name": "Madam Eight-Legs",
       "range": [
-        90,
-        94
+        95,
+        100
       ]
     }
   }
