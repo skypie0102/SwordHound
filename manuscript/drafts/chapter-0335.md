@@ -1,22 +1,24 @@
 # Chapter 335: The Mating Room (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/335.txt`. Recovered English Chapter 333 is the verified shifted secondary witness. Established repo terminology controls Sinclaire Bourgeois, Tudor, Sancho, Pigi, Bianca, Hell Hound, Daylily of Blood Tree, Return Scroll, Colosseo Academy, and tower-floor mechanics. Production preserves the coercive survival context without romantic or erotic embellishment.
+> Chinese-primary reconstruction from `source/chinese/chapters/335.txt`. Recovered English Chapter 333 is the verified shifted secondary witness. Established project terminology controls **Sinclaire Bourgeois**, **Tudor Donquixote**, **Sancho Barataria**, **Pigi**, **Bianca Fo Usher**, **Hell Hound**, **Daylily of Blood Tree**, **Return Scroll**, and tower-floor mechanics. The enclosure's temperature manipulation and body-contact response are framed as coercive survival pressure, not romance.
 
 Darkness settled over the enclosure.
 
-The light beyond the translucent walls vanished.
+Light beyond the translucent walls disappeared.
 
-Either night had come—
+Night—
 
-or the laboratory had simply turned the lights off.
+or simply laboratory darkness.
 
-The temperature dropped almost immediately.
+Either way—
+
+the temperature dropped sharply.
 
 White frost formed across the walls.
 
 Then—
 
-DING.
+Ding.
 
 [Preparing mating environment.]
 
@@ -24,139 +26,161 @@ DING.
 
 [Second time limit: 10:00:00.]
 
-A light rain began falling from the darkness overhead.
+Fine rain began falling from the darkness overhead.
 
-Not enough to flood the enclosure.
+Not enough to flood the cage.
 
 Only enough to soak the upper layer of wood shavings.
 
-In this cold—
+Combined with the sudden cold—
 
-that was dangerous enough.
+it was dangerous.
 
-Vikir moved under the sawdust hill.
+Vikir moved beneath the sawdust mound.
+
+Into the hollow he had dug earlier.
 
 *So this is the first-stage pressure.*
 
-The blue mist used on the giant mantises had clearly been the second stage.
+The blue mist from the neighboring Giant Mantis enclosure had been the **second** attempt.
 
 Meaning—
 
-the laboratory first manipulated the environment.
+the laboratory's sequence began with environmental manipulation.
 
-Then drugged the specimens.
+Earlier—
 
-Then physically intervened.
+the cage had been hot enough to make them sweat.
 
-*It was hot enough to sweat earlier.*
+Now—
 
-*Now it’s raining and freezing.*
+rain.
 
-*Absurd.*
+cold.
+
+frost.
+
+A brutal temperature reversal.
 
 Sinclaire crouched nearby.
 
-“Are they trying to freeze us to death?”
+“Are they trying to freeze us?”
 
 “First they make us sweat.”
 
-“Then they soak us and drop the temperature.”
+“Then rain.”
 
-She wore only a black sleeveless shirt beneath the ruined cloak.
+“Then this temperature.”
 
-Putting the cloak back on would not help much.
+She had removed most of the heavier outer clothing during the heat.
 
-It was already wet with sweat and rain.
+Putting the cloak back on now—
 
-Vikir shook water from his own clothes.
+would not help.
 
-Then looked over.
+It was soaked with sweat and rain.
+
+Vikir shook water from his own clothing.
+
+Turned.
 
 Sinclaire had buried her face between her knees.
 
 Her breathing—
 
-slowly getting quieter.
+too quiet.
 
 *Hypothermia.*
 
-*If she loses consciousness, she’ll die.*
+If she drifted unconscious—
+
+she could die.
 
 Vikir sat beside her.
 
 Kept her talking.
 
-“What was your previous floor?”
+“What happened on your previous floor?”
 
-“….”
+No answer.
 
 “Sinclaire.”
 
-“What happened on the previous floor?”
+“What was the Floor 5 mission?”
 
 He shook her shoulder.
 
-Sinclaire jolted awake.
+Sinclaire jerked awake.
 
-Then shivered.
+Shivered.
 
-“Ah…”
+“…Magic Train.”
 
-“A magic train.”
-
-“We had to fight each other.”
+“We fought each other.”
 
 She explained her route.
 
-Hell Hounds on her Floor3.
+Hell Hounds on Floor 3.
 
-The Daylily of Blood Tree on Floor4.
+Daylily of Blood Tree on Floor 4.
 
-Then the magic train on Floor5.
+Then—
 
-The time between stages had felt long—
+Magic Train on Floor 5.
 
-but tower floors did not share one consistent flow of time.
+Time between floors had felt inconsistent.
 
-“Hell Hounds and the Daylily.”
+That was normal inside the tower.
+
+Each layer could run on its own time.
+
+“Hell Hound.”
+
+“Daylily.”
 
 “I went through those too.”
 
+Sinclaire blinked.
+
 “Really?”
 
-“How many days did you survive against the Daylily?”
+“How many days did you survive the Daylily?”
 
-“I didn’t survive against it.”
+“I didn't wait it out.”
 
 “I killed it.”
 
-Sinclaire stared.
+Her eyes widened.
 
-“…You killed that thing?”
+“…You killed it?”
 
-“That was possible?”
+“That thing could be killed?”
 
-Her surprise was genuine.
-
-Then her expression dimmed.
+The surprise quickly became discouragement.
 
 “We fought too.”
 
-“But we couldn’t make the sacrifice the mission wanted.”
+“But…”
+
+“We couldn't make the sacrifice.”
 
 “So the Daylily ate most of the survivors.”
 
-“The mission ended automatically after that.”
+“Eventually the mission ended on its own.”
+
+Vikir nodded.
 
 “Realistically—
 
 that may have been the best possible outcome.”
 
-Ordinary Colosseo students had almost no chance of killing the Daylily.
+Ordinary Colosseo students were not expected to defeat the Daylily.
 
-Vikir had simply been far outside the normal scale.
+Vikir's result—
 
-Then Sinclaire described Floor5.
+was abnormal.
+
+Sinclaire stared down.
 
 “The fifth floor…”
 
@@ -166,59 +190,59 @@ Then Sinclaire described Floor5.
 
 “Worse than the Daylily.”
 
-“What was it?”
+“What happened?”
 
-Sinclaire hesitated.
+Silence.
 
-Then answered quietly.
+Then—
 
-“A killing game.”
+“…A killing game.”
 
 ◆◆◆
 
-They had awakened inside one carriage of a magic train.
+Sinclaire's group had awakened inside one carriage of a Magic Train.
 
-Every survivor seated together.
+Everyone seated.
 
 Then the mission appeared.
 
-**<Mission> — Sticky Friendship Group Mission! Let’s Become the Best Team!**
+> **<Mission> — Sticky Friendship Group Mission! Let's Become the Best Team!**
+>
+> **※ From now on, the nearest five people form one group.**
+>
+> **※ If even one member of a group dies, the group is eliminated and every member dies.**
+>
+> **※ If you have a weak friend, help and protect them. Results matter, but so does process. Teamwork is evaluated.**
+>
+> **※ The stats of a killed participant transfer automatically to the killer.**
+>
+> **※ Eliminate every other group and become the final group.**
+>
+> **P.S. — I deliberately placed people who looked close together ^^**
 
-**※ From now on, the five people closest to each other will form one group!**
+Five-person groups.
 
-**※ If even one member of a group dies, that group is automatically eliminated. Every member dies!**
+One death—
 
-**※ If you have a weak friend, help and protect them! Results matter, but so does the process! Teamwork is part of the evaluation!**
+all five die.
 
-**※ The stats of anyone killed are automatically transferred to the person who killed them!**
+Kill someone—
 
-**※ Eliminate every other group and become the last group standing!**
+steal their stats.
 
-**P.S. — I deliberately put people who looked close together ^^**
+The mission had barely appeared before the first murder.
 
-An all-against-all battle.
+A girl used a spike.
 
-Groups of five.
+Drove it through the neck of the large male student beside her.
 
-If one member died—
+He died before he could scream.
 
-all five died.
+His stats transferred.
 
-And killing an enemy transferred the victim’s stats to the killer.
+The girl immediately used the new strength against another student.
 
-The moment the mission appeared—
-
-some students attacked.
-
-One girl drove a spike through the neck of the large male student beside her.
-
-He died instantly.
-
-His stats transferred to her.
-
-She used the sudden increase to attack others.
-
-The carriage became a slaughterhouse.
+The carriage became a massacre.
 
 Tudor.
 
@@ -230,191 +254,235 @@ Bianca.
 
 Sinclaire.
 
-The five of them had been grouped together.
+They had been placed together.
 
-They fought side by side.
+Exactly as the fairy intended.
 
-Blocked every attack.
+They fought as one.
+
+Covered each other.
+
+Stopped every attack.
 
 Survived.
 
 Then—
 
-another mission appeared.
+another mission.
 
-**<Special Mission> — Even the strongest team has a strongest member! Who is the MVP?**
+> **<Special Mission> — Even the strongest group has a strongest member. Who is the MVP?**
+>
+> **※ Surviving together until the end is boring, isn't it?**
+>
+> **※ Congratulations to the five challengers with such excellent teamwork.**
+>
+> **※ Unfortunately, only one person may clear this stage.**
+>
+> **※ The other four will be sent to the Daylily colony on Floor 4.**
 
-**※ Winning just by surviving together is a little boring, isn’t it? Don’t make the game dull ^^**
+The cruelty had been planned from the beginning.
 
-**※ Congratulations to the five challengers with such wonderful teamwork!**
+Five close friends—
 
-**※ Unfortunately, only one of you can clear this stage!**
+grouped together.
 
-**※ From now on, the other four will be sent to the Daylily colony on Floor4!**
+Made to survive together.
 
-The cruelty had been deliberate from the beginning.
+Made to save one another.
 
-Five people who were already close—
+Then—
 
-forced through a battle together.
+told only one could continue.
 
-Saving one another.
-
-Trusting one another.
-
-Then told only one could continue.
-
-Sinclaire looked away.
+Sinclaire looked away from Vikir.
 
 “I moved first.”
 
 “I understand.”
 
-“…You don’t think that’s disgusting?”
+“…Isn't that shameful?”
 
 “No.”
 
-“No one has the right to blame you.”
+Vikir's answer was immediate.
 
-Vikir’s answer was dry.
+“No one gets to condemn you for choosing survival.”
 
 “In that situation—
 
-you choose the person most likely to survive.”
+you choose the person with the highest probability of living.”
 
-“I would do the same.”
+“I would.”
 
-He had lived through variations of that decision countless times.
+He had been in that position many times.
 
-Sometimes abandoned.
+Abandoned.
 
-Sometimes the one choosing whom to abandon.
+Or deciding whom to abandon.
 
-Sinclaire watched him.
+Sinclaire watched him for a moment.
 
-Then asked softly:
+Then asked—
 
 “If you and I were in the same group…”
 
-“would you do the same?”
+“would you choose that way?”
 
 “Of course.”
 
-“Then you would survive.”
+“Then you would live.”
 
-“You’re stronger than me.”
+“You are stronger than me.”
 
-“And smarter.”
+“Smarter too.”
 
-“That is correct.”
+“Yes.”
 
-Sinclaire gave a strange smile.
+Sinclaire smiled weakly.
 
-“…That somehow feels comforting and hurtful at the same time.”
+“That is somehow comforting…”
 
-She hesitated.
+“and insulting.”
 
-“No matter how hard I try—
+She looked down.
 
-I don’t think I can become as hard as you.”
+“No matter how much I try—
 
-Then she continued.
+I don't think my heart can become as hard as yours.”
+
+She continued.
 
 Of the five—
 
-only one could remain.
+only one could survive the special mission.
 
-Sinclaire had prepared to act first.
+Sinclaire moved first.
 
-She had already spent weeks trying to cut herself away from her friends before leaving the Academy.
+Or tried to.
+
+She had already spent weeks preparing herself to cut ties with her friends before leaving the Academy.
 
 So she closed her eyes.
 
+Gathered mana.
+
 Prepared a powerful spell.
 
-And—
+Then—
 
-failed to cast it.
+could not cast it.
 
 Guilt.
 
 Friendship.
 
-Emotions she could not name.
+Fear.
 
-They tangled through her mana.
+Emotions without names.
 
-“…Then what happened?”
+Everything tangled through her mana.
 
 Vikir kept her talking.
 
-If either of them became still for too long—
+“What happened next?”
 
-sleep would come.
+If she went still—
 
-And in this temperature—
+she would fall asleep.
 
-sleep meant death.
+In this cold—
 
-Sinclaire’s eyes were already half-closed.
+sleep could kill her.
 
-“Tudor spoke first.”
+Sinclaire's eyelids were already heavy.
 
-What he said—
+“Tudor spoke.”
 
-was exactly what Vikir expected.
+And his answer—
 
-*In a situation like this, the person with the best chance of surviving should go.*
+was exactly what Vikir would have expected.
 
-Then Tudor, Sancho, Pigi, and Bianca all looked at Sinclaire.
+*The person with the best chance of surviving should go.*
 
-*You’re the most talented one here.*
+Tudor.
 
-*You should continue.*
+Sancho.
+
+Pigi.
+
+Bianca.
+
+All four looked toward Sinclaire.
+
+*You're the most talented among us.*
+
+*You go.*
 
 *Get revenge for us.*
 
-*With your ability, you can do it.*
+*You can survive.*
 
-*Of course I’m the one who should drop out.*
+*I'm obviously the one who should withdraw.*
 
-*Live my share too!*
+*Live my share too.*
 
-Bianca added—
+Bianca—
 
-*…You know how cold you’ve been acting lately?*
+still Bianca—
 
-*Think about it.*
+added:
 
-*Where else are you going to find friends this good?*
+*You know how cold you've been acting lately?*
 
-All four chose Sinclaire.
+*Reflect on it.*
+
+*Where else will you find friends this good?*
+
+All four—
+
+voluntarily chose Sinclaire.
 
 Vikir nodded.
 
-That decision—
-
-was familiar.
+*Exactly like Tudor.*
 
 Before regression—
 
-Tudor had always been rational.
+Tudor had been a hero famous for rational judgment.
 
-Until his own life was included in the calculation.
+Except when **his own life** was part of the equation.
 
-Then he had a habit of sacrificing himself.
+Then—
 
-Vikir himself had once survived because Tudor chose to die in his place.
+he had a habit of sacrificing himself.
 
-A great hero—
+Vikir had once survived because Tudor chose death in his place.
 
-giving his life for a nameless lower-ranking fighter.
+Tudor—
 
-For years—
+walking calmly toward death.
 
-Vikir had wondered why.
+Bianca—
 
-Sinclaire’s eyes reddened.
+crying until she could barely stand.
+
+The surviving Human Alliance soldiers—
+
+grieving for a long time afterward.
+
+Vikir had spent years asking—
+
+why would a great hero die for an insignificant lower-ranking soldier like him?
+
+Eventually—
+
+he learned the answer.
+
+*Because he was a hero.*
+
+*That idiot.*
+
+Sinclaire's eyes reddened.
 
 “Tudor smiled.”
 
@@ -422,150 +490,154 @@ Sinclaire’s eyes reddened.
 
 “And said—”
 
-*Don’t worry.*
+*Don't worry.*
 
-*If things become truly dangerous, we’ll use our Return Scrolls.*
+*If it gets truly dangerous—
 
-The penalty was severe.
+we'll use the Return Scrolls.*
 
 Return to the Tutorial.
 
 Level reset to 1.
 
-But the person remained alive.
+Painful—
+
+but survivable.
 
 Vikir nodded.
 
 “Good.”
 
-“If they all still had their scrolls—
+“If everyone still had a Return Scroll—
 
-that was the correct choice.”
+that was the right choice.”
 
 Levels could be rebuilt.
 
-Stats remained.
+Accumulated stat gains remained.
 
-And experience—
+And once a challenger had seen future missions—
 
-knowledge of the tower’s future missions—
+knowledge became another advantage.
 
-was valuable.
+Using the Return Scroll also changed how the tower categorized a challenger afterward—
 
-Life mattered more.
+but life was still worth more.
 
-He was about to continue explaining the tower consequences of returning when—
+Vikir was about to explain further when—
 
 “….”
 
 He stopped.
 
-Sinclaire had curled into herself again.
+Sinclaire had curled up again.
 
-Head lowered.
+Head bowed.
 
-Silent.
+Breathing—
 
-Her breathing had become so weak he could barely hear it.
+almost inaudible.
 
-Her head tipped onto his shoulder.
+Her head tipped onto Vikir's shoulder.
 
-A faint warmth touched his neck.
+Weak warmth touched his neck.
 
 “Wake up.”
 
-“If you sleep—
+No response.
 
-you die.”
+Vikir slapped her cheek.
 
-Vikir slapped her cheeks.
+Hard enough to shock her awake.
 
-Hard.
+“Ah—!”
 
-Sinclaire jerked awake.
+Sinclaire jerked upright.
 
-“Ah!”
+“I fell asleep?”
 
-“Did I fall asleep?”
+“Yes.”
 
 “Thank you…”
 
-“I really could have frozen to death.”
+“I almost froze.”
 
-“I suddenly started feeling warm…”
+“At some point I started feeling strangely warm…”
 
-“And sleepy…”
-
-She touched her face.
-
-“…Why do my cheeks hurt?”
+“Why does my face hurt?”
 
 “Your imagination.”
 
-“…Okay.”
+Sinclaire nodded vaguely.
 
-Willpower could keep her awake.
+But hypothermia could not be solved by willpower.
 
-It could not restore falling body temperature.
+Her temperature continued dropping.
 
-A little later—
+Soon—
 
-Sinclaire whispered near his ear.
+she whispered near Vikir's ear.
 
-“I’m sorry, Bro…”
+“Bro…”
 
-“I think this is as far as I can go.”
+“I think this is as far as I go.”
 
-She could barely gather mana.
+She could no longer gather meaningful mana.
 
-Body and mind—
+Body.
 
-both exhausted.
+Mind.
+
+Both exhausted.
 
 “If only one of us can leave…”
 
 “you should…”
 
-“You can survive…”
+Vikir was already looking elsewhere.
 
-Vikir was no longer listening.
+*How do I keep her alive?*
 
-He was watching the neighboring enclosure.
+He studied the neighboring enclosures.
 
-Rain fell there too.
+Their own rain continued.
 
-Frost covered the walls.
+Frost continued.
 
-The monsters inside had burrowed below the wet surface.
+The monsters inside nearby cages had responded instinctively.
 
-Into dry sawdust.
+They burrowed beneath wet shavings—
 
-Then pressed tightly together.
+into drier layers.
+
+Then pressed close together.
 
 Sharing body heat.
 
-*So that’s the purpose of the rain.*
+*So that is what the sprinklers are trying to force.*
 
-*Force the specimens into contact.*
+The environmental pressure had a purpose.
 
-Vikir finally understood the first-stage design.
+Vikir's expression hardened.
 
-He removed the clothes soaked with rain and sweat.
+He removed the soaked clothing that would continue drawing heat from the body.
 
-Then walked toward Sinclaire.
+Then moved toward Sinclaire.
 
-Her eyes widened.
+Her eyes opened wider.
 
-Her voice shook.
-
-“B-Bro…”
+“Bro…”
 
 “What are you doing?”
 
-Vikir answered briefly.
+Vikir answered without hesitation.
 
-“Giving the experimenters what they’re trying to force us to do.”
+“Keeping us alive.”
 
-Not mating.
+Then—
 
-Surviving the cold.
+flatly—
+
+“Responding to what they expect—
+
+without giving them what they want.”
