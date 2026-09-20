@@ -1,70 +1,100 @@
 # Chapter 242: National University League (7)
 
-> Chinese-primary reconstruction from source/chinese/chapters/242.txt — 9c764acd54a04895576099dca5a6a960256fc3fe. Recovered English Chapter 240 is the verified shifted secondary witness. Canonical/project terminology controls Bakilaga Juragio, Boli Bollason, Sancho Barataria, Highbro/Middlebro/Lowbro Le Baskerville, Vikir, Colosseo Academy, and Varangian Academy. Bakilaga’s Red-and-Black-Mountains connection remains Vikir’s tentative recognition plus prior rumor at this point.
+> Chinese-primary reconstruction from `source/chinese/chapters/242.txt`. Recovered English Chapter 240 is the verified shifted secondary witness. Canonical/project terminology controls **Bakilaga Juragio**, **Boli Bollason**, **Sancho Barataria**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Vikir**, **Colosseo Academy**, and **Varangian Academy**. Bakilaga's Red-and-Black-Mountains connection remains Vikir's tentative recognition plus prior rumor at this point.
+
+Tudor.
+
+Sancho.
+
+Pigi.
+
+Bianca.
+
+Sinclaire.
+
+All stopped eating.
+
+Then frowned toward the arriving guests.
 
 “Varangian?”
 
-Tudor stopped eating.
+Tudor sounded disappointed.
 
-Bianca frowned.
+“I thought it might be Temisquira.”
 
-“I thought it might be Temisquira. Disappointing.”
+Bianca shrugged.
 
-Sancho looked toward the door.
+“It was obvious.”
 
-“Who else would move in as a group this large?”
+“At this time of year, the only groups large enough are Varangian or Temisquira.”
 
-Varangian students filled the entrance.
+Pigi watched the doorway fill.
 
-Huge.
+“Wow.”
 
-Sweaty.
+“The inn suddenly feels smaller.”
 
-Built like people returning from a march.
+“Is it because they're so tall?”
 
-The inn suddenly felt smaller.
+“Average height has to be around one ninety-five.”
 
-“Thank goodness.”
+Bianca wrinkled her nose.
 
-“I thought we’d sleep outside before the tournament.”
+“It's suffocating.”
 
-“Colosseo, thanks for helping us out!”
+“And sweaty.”
+
+“Looks like they marched here.”
+
+The newcomers were indeed Varangian students.
+
+“Ahh!”
+
+“We found rooms!”
+
+“I was worried we'd sleep outside before the tournament.”
+
+“Colosseo!”
+
+“Thanks for helping us!”
 
 “Food first!”
 
+“I could eat a horse.”
+
 “Buffet!”
 
-The Varangian students immediately advanced on dinner.
+The Varangian boys did not hesitate.
 
-Colosseo held the eastern half of the banquet hall.
+Colosseo already occupied the eastern half of the banquet hall.
 
-Varangian took the west.
+Varangian settled into the west.
 
-At their front—
+Then their leading figure approached the buffet.
 
-Bakilaga Juragio.
+**Bakilaga Juragio.**
+
+Huge.
 
 Scarred.
 
-Enormous.
+More beast than student at a glance.
 
-He picked up serving tongs.
+He reached for the meat platter.
 
-Colosseo students watched.
+Colosseo students began watching secretly.
 
-How much could a man that size possibly eat?
+A body that size—
 
-Bakilaga placed—
+surely he could eat an entire cow.
 
-a few pieces of meat—
+Bakilaga placed several pieces of meat on a small plate.
 
-onto a tiny plate.
+“…That's all?”
 
-Silence.
+Someone whispered.
 
-“That’s it?”
-
-The Varangian students reacted differently.
+Varangian's reaction was stranger.
 
 “The president is eating a lot today.”
 
@@ -72,153 +102,239 @@ The Varangian students reacted differently.
 
 “Overeating is bad for the stomach.”
 
-“Maybe he plans to train it off.”
+“He'll probably train it off later.”
 
-Colosseo stared harder.
+Colosseo's students stared.
+
+*That's a lot for him?*
 
 Then—
 
-clack.
+CLACK.
 
-Bakilaga returned the few pieces from the small plate—
+Bakilaga returned those few pieces to the buffet platter.
 
-to the buffet tray.
+He lifted the enormous serving tray instead.
 
-“I’ll eat now.”
+“I'll eat now.”
 
-He lifted the enormous platter holding all the remaining meat.
+He carried the remaining pile—
 
-Tens of kilograms.
+well over ten kilograms of meat—
 
-Carried it to his seat.
+to his seat.
 
-And emptied it into himself.
+Then ate it.
 
-Within minutes—
+All of it.
 
-a normal person’s month of food was gone.
+Within minutes.
 
-Colosseo fell silent.
+“…”
 
-That was the signal.
+Colosseo went silent.
 
-Varangian attacked the buffet.
+A normal person's month of meat—
 
-“Turnover is everything! Keep the meat coming!”
+gone.
 
-“The first five minutes decide a meal!”
+And that became the starting signal.
 
-“Quantity before quality!”
+Varangian descended on the buffet.
+
+“Food turnover matters!”
+
+“Bring more meat!”
+
+“The first five minutes decide how much you can eat!”
+
+“Quantity over quality!”
 
 “Meat after a march is the elixir of immortality!”
 
-Food disappeared as if thrown into sunlight.
+Every time another muscular student passed the serving tables—
 
-Across the room—
+food vanished like ice under the summer sun.
+
+Across the hall—
 
 Vikir watched Bakilaga.
 
-Not his appetite.
+Not the eating.
 
-His neck.
+The collar around his neck.
 
-A collar.
+*Sinclaire said his grandparents may have come from tribes around the Red and Black Mountains.*
 
-*His grandparents were rumored to come from the Red and Black Mountains.*
+Something faintly wild clung to Bakilaga's presence.
 
-There was something familiar in Bakilaga’s faintly wild presence.
+Familiar.
 
-Vikir touched his own collar.
+Vikir touched the collar at his own neck.
 
-*There may be more of a connection than I thought.*
+*There may be more connection here than I thought.*
 
-Then shouting broke out near the buffet.
+Then—
 
-“What are we supposed to eat if you take everything?”
+“Hey!”
 
-“What is wrong with you?”
+“If you take everything, what are we supposed to eat?”
+
+“Is this idiot brain-dead?”
+
+Shouting rose near the center of the hall.
 
 A Colosseo Cold Department student—
 
-and a Varangian student.
+and a Varangian student—
 
-A dispute over the line.
+were fighting over the buffet line.
 
-“You cut in!”
+“Why did you cut in?”
 
-“You were standing there playing with the tongs!”
+“You were just standing there playing with the tongs!”
 
-“That doesn’t mean you ignore the queue!”
+“You still wait your turn!”
 
-“What queue? It’s a buffet!”
+“Since when does a buffet have a queue?”
 
-An ancient human problem.
+The ancient problem of buffet etiquette.
 
-If someone ahead was moving slowly—
+If someone ahead moved slowly—
 
-could you pass them to take food farther down?
+could the person behind reach around and take something farther down the table?
 
-The argument expanded from two people—
+Humanity had apparently failed to solve it.
 
-to two schools.
+The argument quickly stopped being personal.
 
-“We changed single rooms to doubles to help you!”
+“This is why we shouldn't have admitted a pack of muscle-brains.”
 
-“We paid to stay too! Our inn broke down. We didn’t cause it!”
+“We gave up single rooms to help you.”
 
-“You’d be outside without us!”
+“And now this is the thanks?”
 
-“Then vote again. Plenty of us are mercenaries. We can sleep outdoors.”
+Varangian snapped back.
 
-A huge first-year stepped forward.
+“We paid for lodging too.”
 
-Boli Bollason.
+“Our reserved inn broke.”
 
-Top first-year of Varangian Academy.
+“The innkeeper moved us.”
 
-Northern mercenary background.
+“We're victims too.”
 
-Two hundred seventeen centimeters.
+“You'd be sleeping outside if we hadn't agreed.”
 
-One hundred fifty kilograms.
+“Agreed?”
 
-Even beside Bakilaga—
+“Your professors negotiated with ours.”
 
-he looked enormous.
+“We voted!”
 
-Bollason raised his head theatrically.
+“Ninety-three percent accepted you!”
 
-“What’s squeaking down there?”
+“And you're repaying that kindness with this?”
 
-Colosseo’s boys glared upward.
+The Varangian student laughed.
 
-Then Sancho stepped out.
+“Then you're one of the seven percent who voted no?”
 
-“Can’t you eat quietly?”
+“Most of us are mercenary-born.”
 
-Bollason recognized him.
+“We've slept outdoors plenty.”
 
-“Oh?”
+“Vote again.”
 
-His smile sharpened.
+“We can leave.”
 
-“The coward who ran away after Varangian’s entrance exam.”
+Then—
 
-Sancho had ranked first there.
+a much larger first-year stepped forward.
+
+**Boli Bollason.**
+
+Varangian's top first-year.
+
+Born to northern mercenary stock.
+
+Height—
+
+**217 centimeters**.
+
+Weight—
+
+**150 kilograms**.
+
+Even next to Bakilaga—
+
+he did not look small.
+
+Colosseo's boys unconsciously gave half a step.
+
+Bollason lifted his head exaggeratedly.
+
+“Hm?”
+
+“What's squeaking down there?”
+
+“Someone fishing?”
+
+“The little ones are noisy.”
+
+The height difference made the insult particularly irritating.
+
+Then another large student stepped out.
+
+“Could you just eat quietly?”
+
+**Sancho Barataria.**
+
+With Sancho present—
+
+Bollason could no longer dominate the scene through size alone.
+
+His smile changed.
+
+“…Oh?”
+
+“I know you.”
+
+“The coward who ran away after Varangian's entrance exam.”
+
+Sancho's eyes narrowed.
+
+Bollason laughed.
+
+“How is Colosseo?”
+
+“Comfortable?”
+
+“Like a nursery?”
+
+“Treating runaway cowards well?”
+
+The resentment was old.
+
+Sancho had ranked first on Varangian's entrance test.
 
 Then chosen Colosseo—
 
-where he ranked fifth.
+where his entrance rank was lower.
 
-For Varangian pride—
+To outside observers—
 
-that choice still stung.
+that looked like a direct judgment between the schools.
 
-“How is the cradle?” Bollason asked. “Warm enough?”
+Varangian had not forgotten it.
 
-He sneered.
+Bollason sneered.
 
-“Were you in bad condition for Colosseo’s exam? Is that why you only placed fifth?”
+“What happened?”
+
+“Bad condition during Varangian?”
+
+“Then good condition during Colosseo?”
 
 Sancho answered calmly.
 
@@ -228,23 +344,25 @@ Bollason blinked.
 
 “The opposite.”
 
-Sancho met his eyes.
+“I was in good condition for Colosseo.”
 
-“I was at my best for Colosseo.”
+“And in my worst condition for Varangian.”
 
-“And at my worst for Varangian.”
+“I still got that result.”
 
-“I still got those results.”
+Varangian fists tightened.
 
-Several Varangian fists began shaking.
+“This bastard…”
 
 “You sold northern pride?”
 
-“Planning to come back north after graduation?”
+“Planning to return north after graduation?”
 
-“Have some mercenary pride!”
+“A mercenary-born man should have some shame.”
 
-“Warm food and soft beds made you stupid!”
+“The Capital gave you warm food and soft beds—
+
+now you're stupid?”
 
 Tudor stepped beside Sancho.
 
@@ -252,21 +370,37 @@ Tudor stepped beside Sancho.
 
 Pigi winced.
 
-“Tudor. Personal attacks…”
+“Tudor…”
 
-Bianca sniffed.
+“Personal attacks are maybe a little—”
 
-“He isn’t entirely wrong.”
+“Personal attack?”
 
-Sinclaire’s voice stayed cool.
+Tudor sniffed.
 
-“Being proud of your school doesn’t justify insulting another one.”
+“I mean the whole room.”
 
-Then three lower voices joined.
+“Since these guys came in, it smells like pigs.”
 
-“Pigsty?”
+Sinclaire spoke coolly.
 
-“Talking about us?”
+“Being proud of your group is fine.”
+
+“Insulting other groups isn't.”
+
+Bianca stood with them too.
+
+Bollason's eyes narrowed.
+
+“What is this?”
+
+“Little fish getting bold because there are many of you?”
+
+Three low voices answered from the side.
+
+“Little fish?”
+
+“You mean us?”
 
 “Us?”
 
@@ -276,72 +410,94 @@ Middlebro.
 
 Lowbro.
 
-The Trident of Baskerville.
+The **Trident of Baskerville**.
 
-Rumors had already crossed academy lines.
+Even arrogant Varangian students knew those rumors.
 
-Three mad dogs from Colosseo.
+The three mad dogs of Colosseo.
 
-A Varangian third-year beaten bloody after provoking them at a festival.
+A Varangian third-year beaten bloody after provoking them during a festival visit.
 
-A teammate’s hand pinned to a train table with a dagger.
+A teammate's hand pinned to a train table with a dagger—
 
-Even Bollason’s bravado faltered.
+while the triplets laughed.
 
-Varangian first-years whispered.
+Bollason's bravado stalled.
 
-“That’s them?”
+Whispers spread behind him.
 
-“Those eyes…”
+“Those are the Baskervilles?”
 
-“The Baskerville triplets.”
+“Exactly like the rumors.”
 
-Most people assumed they were Colosseo’s true first-year leaders.
+“Those eyes are insane.”
+
+“Didn't they beat one of our athletic seniors?”
+
+“Yeah.”
+
+“And on the train they stabbed their own teammate's hand for being noisy.”
+
+Most rival students assumed the triplets were Colosseo's true first-year power center.
 
 Granola—
 
 quietly standing near Sinclaire—
 
-would have objected.
+would have strongly objected.
 
-Bollason recovered.
+Bollason realized he'd been momentarily intimidated.
 
-Loudly.
+His pride reacted.
 
-“I am Boli Bollason, Varangian’s top first-year!”
+He raised his voice.
 
-He struck his chest.
+“I am **Boli Bollason**!”
 
-“I challenge Colosseo’s strongest first-year!”
+“Top first-year of Varangian!”
 
-“A duel between warriors!”
+He scanned Colosseo's group.
 
-His eyes swept Tudor.
+“I challenge your strongest first-year!”
 
-Sancho.
+“Come out!”
+
+“A warrior's duel!”
+
+His gaze passed—
+
+Tudor.
 
 Bianca.
 
+Sancho.
+
 Sinclaire.
 
-The triplets.
+Highbro.
 
-Nobody moved.
+Middlebro.
 
-Nobody answered.
+Lowbro.
+
+No one answered.
+
+“…”
+
+“…”
+
+“…”
 
 Bollason frowned.
 
-Then noticed—
+Then noticed that everyone was looking in the same direction.
 
-all of them were looking somewhere else.
+He followed their eyes.
 
-He followed their gaze.
+At a table nearby—
 
-At a nearby table—
-
-a boy continued eating in silence.
+a boy sat quietly eating.
 
 Completely uninterested in the commotion.
 
-Vikir.
+**Vikir.**
