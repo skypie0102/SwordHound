@@ -1,5 +1,20 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Goodbye, Nouvelle Vague completeness rebuild (419–421)
+
+**Audit result:** complete-family rebuild PASS.
+
+Priority targets **419–421** are resolved. Confirmed failure **420** is resolved.
+
+Major restorations: Level-Five escape/Current3021; forged survivor staging; full Rain of Fear memory; Garam/Kirko source-gap restoration; Marquis de Sade/Sadi hitch; Orca aquatic physiology; Sade three-lives debt; ten-thousand-meter combat; Aiyen/Sadi separation; exact Gate dimensions and random Orca impact; Nouvelle Vague volcanic uncorking; Gate+Wailing Wall ascent shell; original-timeline Orca/Sade/Poseidon history; Gargoyle regeneration continuity.
+
+Current tracker: **500 accepted / 0 needs rework**.
+
+Initial priority queue now has **1 pending chapter: 431**.
+
+Next audit family: **The Lion King (430–433)**.
+
+
 ## 2026-09-20 — The Mating Room completeness rebuild (333–338)
 
 **Audit result:** all six historical drafts were materially compressed and rebuilt; family now **PASS**.
