@@ -2,8 +2,8 @@
   "chapter": 99,
   "title": "Madam Eight-Legs (5)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Madam Eight-Legs",
     "range": [
@@ -11,8 +11,8 @@
       100
     ],
     "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
-    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
-    "status": "pass"
+    "family_qa_sha": "285bfbb5d7a6ae5a39bc3cbc1ebf5c626263e7bb",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/099.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-098.xhtml",
     "english_reference_sha": "df6f149514287d5fadb6e8e249651cbec0aa8102",
     "draft_path": "manuscript/drafts/chapter-0099.md",
-    "draft_sha": "29ad21e68d1b22ea895b16687de35bdd264c343b",
+    "draft_sha": "075a8d997fdf1ef2e4b94cd7da177711fd4755dc",
     "qa_path": "qa/chapter-0099.md",
-    "qa_sha": "a065965550440bb036c2528042d266c35b9a4fb3",
+    "qa_sha": "47495d207066b7bd3223fd42613892191465a480",
     "provenance_path": "editorial/provenance/chapter-0099.json",
-    "provenance_sha": "b6146d2be79a15a291b75b62687fb4e9b7ece050"
+    "provenance_sha": "66e548b405edb6878fa3dd56953fe8a22f417c8d"
   },
   "canonical_checks": [
     "Madam of the Flood",
@@ -36,5 +36,18 @@
   "documented_limits": [
     "Recovered-English numbering lags target by one chapter.",
     "Target 101 Nostalgia content is not imported backward."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "29ad21e68d1b22ea895b16687de35bdd264c343b",
+    "qa_sha": "a065965550440bb036c2528042d266c35b9a4fb3",
+    "provenance_sha": "b6146d2be79a15a291b75b62687fb4e9b7ece050"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/madam-eight-legs-0095-0100.md"
+  }
 }
