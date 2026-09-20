@@ -1433,8 +1433,9 @@
       "qa": "qa/chapter-0101.md",
       "provenance": "editorial/provenance/chapter-0101.json",
       "acceptance": "qa/acceptance/chapter-0101.json",
-      "acceptance_sha": "5a09fd7cfd05df393fa73afeed21c92f82e87965",
-      "family_qa": "qa/families/nostalgia-0101-0104.md"
+      "acceptance_sha": "bf24f0092bc9d409c714058bf71380d32eda8e0d",
+      "family_qa": "qa/families/nostalgia-0101-0104.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 102,
@@ -1447,8 +1448,9 @@
       "qa": "qa/chapter-0102.md",
       "provenance": "editorial/provenance/chapter-0102.json",
       "acceptance": "qa/acceptance/chapter-0102.json",
-      "acceptance_sha": "67eec7022792e009bc13f5299d31a8b92856cc41",
-      "family_qa": "qa/families/nostalgia-0101-0104.md"
+      "acceptance_sha": "fd69bd0c87bbc8b432c0f5e13610b66e365404a6",
+      "family_qa": "qa/families/nostalgia-0101-0104.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 103,
@@ -1461,8 +1463,9 @@
       "qa": "qa/chapter-0103.md",
       "provenance": "editorial/provenance/chapter-0103.json",
       "acceptance": "qa/acceptance/chapter-0103.json",
-      "acceptance_sha": "accd7e6d83620a8d6f369e918695ab65700df82c",
-      "family_qa": "qa/families/nostalgia-0101-0104.md"
+      "acceptance_sha": "f4ebb1e5fef8eea6615bf194e8f574d5616d70d4",
+      "family_qa": "qa/families/nostalgia-0101-0104.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 104,
@@ -1475,8 +1478,9 @@
       "qa": "qa/chapter-0104.md",
       "provenance": "editorial/provenance/chapter-0104.json",
       "acceptance": "qa/acceptance/chapter-0104.json",
-      "acceptance_sha": "53f0d277b84c1dd62516100623ba5f9c1dbf8406",
-      "family_qa": "qa/families/nostalgia-0101-0104.md"
+      "acceptance_sha": "c2e1815eb12a145c8e9566c53950bccdeabf406c",
+      "family_qa": "qa/families/nostalgia-0101-0104.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 105,
@@ -7149,13 +7153,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All six historical drafts had completeness/integrity issues; target95 has a verified localized Chinese gap and target100 had imported target101 material."
+      },
+      {
+        "name": "Nostalgia",
+        "range": [
+          101,
+          104
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All four historical drafts were materially compressed; Chapter101 now exclusively owns the post-cliff landing/Madam-death/Venom/rescue sequence after target100 boundary repair."
       }
     ],
     "pending_priority_review_chapters": [
-      101,
-      102,
-      103,
-      104,
       192,
       196,
       225,
@@ -7190,19 +7200,18 @@
       421,
       431
     ],
-    "pending_priority_review_count": 37,
+    "pending_priority_review_count": 33,
     "next_family": {
-      "name": "Nostalgia",
+      "name": "Attack Land",
       "range": [
-        101,
-        104
+        190,
+        196
       ]
     },
     "resolved_confirmed_needs_rework": [
       97
     ],
     "pending_strong_suspect_chapters": [
-      101,
       307,
       309,
       310,
@@ -7222,11 +7231,15 @@
       421,
       431
     ],
-    "pending_strong_suspect_count": 19,
+    "pending_strong_suspect_count": 18,
     "resolved_strong_suspects": [
       97,
       98,
-      99
+      99,
+      101,
+      102,
+      103,
+      104
     ]
   }
 }
