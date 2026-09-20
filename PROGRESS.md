@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Post-500 manuscript completeness audit CLOSED
+
+**Final result:** **500 / 500 accepted; 0 needs rework; no unresolved completeness failures.**
+
+The final initial-priority family, **The Lion King (430–433)**, was rebuilt in full and passed. Target **431** is resolved, closing the original **47 / 47** priority queue and **22 / 22** strong-suspect queue.
+
+A whole-corpus residual pass was then run before closure:
+
+- **484** ordinary one-target Chinese raw/draft pairs compared;
+- post-rebuild median draft/raw byte ratio: **~0.904**;
+- **0** unresolved ordinary chapters below the original **0.60** trigger;
+- expanded review of **28 chapters across 15 families** below **0.70**;
+- one new residual completeness failure found: **Chapter 59 — The Hunter and the Hunted (5)**.
+
+Chapter 59 was rebuilt against C059. Restored ordinary coverage includes tracking cues, scented-bait/Bakira logic, swamp mosquito categories, Cold Valley terrain and shelter detail, Age-of-Destruction memory context, feeding setup, Bakira exchange, and the Oxbear counterattack transition. The full Hunter-and-Hunted family QA/provenance/acceptance chain for Chapters 55–60 was rebound to fresh hashes.
+
+The remaining expanded low-tail families were revalidated with structural retention, aligned-English witness coverage, existing family QA/boundaries, and direct Chinese reads for suspicious outliers. No additional completeness failures remained.
+
+**EPUB assembly is now unblocked.**
+
 ## 2026-09-20 — Goodbye, Nouvelle Vague completeness rebuild (419–421)
 
 **Audit result:** complete-family rebuild PASS.
