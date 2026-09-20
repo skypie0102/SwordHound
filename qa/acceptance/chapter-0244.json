@@ -2,8 +2,8 @@
   "chapter": 244,
   "title": "National University League (9)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/244.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-242.xhtml",
     "english_reference_sha": "4bb8e8f74c1d17aa69330bd75ab6e28c7fc19eab",
     "draft_path": "manuscript/drafts/chapter-0244.md",
-    "draft_sha": "dab64eb7b40dcda7a4c1672643bebec354140c99",
+    "draft_sha": "444139aef6b3aecd4f2a1ca8415073ed39dabb62",
     "qa_path": "qa/chapter-0244.md",
-    "qa_sha": "439f3f6b4a104fbb175cc818a50a84e2663ee81d",
+    "qa_sha": "e7c7bc974bd49a7a30482c7b62b4c8e8534b5756",
     "provenance_path": "editorial/provenance/chapter-0244.json",
-    "provenance_sha": "68bb9c839e7eecdba6390c1765a71bc101a4802e"
+    "provenance_sha": "89697447138fd625e02264637b1fbd4433a7d8d2"
   },
   "canonical_checks": [
     "Vikir",
@@ -43,5 +43,19 @@
     "Bakilaga’s girlfriend remark is a misunderstanding.",
     "No Survival Contest results imported."
   ],
-  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "dab64eb7b40dcda7a4c1672643bebec354140c99",
+    "qa_sha": "439f3f6b4a104fbb175cc818a50a84e2663ee81d",
+    "provenance_sha": "68bb9c839e7eecdba6390c1765a71bc101a4802e"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "match_note": "Vikir/Bakilaga: no pin/no declared winner; table breaks."
 }
