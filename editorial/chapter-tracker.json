@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 475,
+  "accepted_count": 477,
   "staged_count": 0,
-  "next_chapter": 476,
+  "next_chapter": 478,
   "active_title_family": {
-    "name": "Knowing the Fate of My Father",
+    "name": "Tochka Annihilation Battle",
     "range": [
-      476,
-      477
+      478,
+      478
     ],
-    "boundary_status": "verified complete contiguous family: target476→E474 through target477→E475",
-    "following_family_starts": 478,
-    "following_title": "Tochka Annihilation Battle (6)",
-    "alignment_note": "476→E474 Knowing the Fate of My Father (1), 477→E475 (2); target478→E476 returns to Tochka Annihilation Battle (6), then target479→E477 begins Downtown Naval Warfare (1)."
+    "boundary_status": "single resumed part after two-chapter interruption",
+    "following_family_starts": 479,
+    "following_title": "Downtown Naval Warfare (1)",
+    "alignment_note": "478→E476 Tochka Annihilation Battle (6); 479→E477 begins Downtown Naval Warfare (1)-(4) through target482→E480."
   },
   "chapters": [
     {
@@ -6665,6 +6665,34 @@
       "acceptance": "qa/acceptance/chapter-0475.json",
       "acceptance_sha": "3d6ef02798f0678a2eee0b26a00d2a3ced60b889",
       "family_qa": "qa/families/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 476,
+      "title": "Knowing the Fate of My Father (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/476.txt",
+      "english_mtl_reference": "source/chapters/chapter-474.xhtml",
+      "draft": "manuscript/drafts/chapter-0476.md",
+      "qa": "qa/chapter-0476.md",
+      "provenance": "editorial/provenance/chapter-0476.json",
+      "acceptance": "qa/acceptance/chapter-0476.json",
+      "acceptance_sha": "c742e8a8ac3f2c306062c9607d9b143bc3ce3f55",
+      "family_qa": "qa/families/knowing-fate-father-0476-0477.md"
+    },
+    {
+      "chapter": 477,
+      "title": "Knowing the Fate of My Father (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/477.txt",
+      "english_mtl_reference": "source/chapters/chapter-475.xhtml",
+      "draft": "manuscript/drafts/chapter-0477.md",
+      "qa": "qa/chapter-0477.md",
+      "provenance": "editorial/provenance/chapter-0477.json",
+      "acceptance": "qa/acceptance/chapter-0477.json",
+      "acceptance_sha": "881b3469b3755b509438238a9c6056613c03cc49",
+      "family_qa": "qa/families/knowing-fate-father-0476-0477.md"
     }
   ]
 }
