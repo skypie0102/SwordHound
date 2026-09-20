@@ -1,0 +1,35 @@
+{
+  "chapter": 447,
+  "title": "The Fall of Usher (7)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment_with_fandom_canonicalization",
+  "title_family": {
+    "name": "The Fall of Usher",
+    "range": [
+      441,
+      449
+    ],
+    "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
+    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/447.txt",
+    "primary_source_sha": "bcbcfc22ed34983e45d52c7bf83709f10237c4d4",
+    "english_reference_path": "source/chapters/chapter-445.xhtml",
+    "english_reference_sha": "9a659d7997c3eb2a9d66e349cfda2d79c32a4774",
+    "draft_path": "manuscript/drafts/chapter-0447.md",
+    "draft_sha": "2c57dd749645cf86b7fd3b1257f9d183a53d40e2",
+    "qa_path": "qa/chapter-0447.md",
+    "qa_sha": "c641465daf58318d3329d193476e901df1cc9dc5",
+    "provenance_path": "editorial/provenance/chapter-0447.json",
+    "provenance_sha": "4c573c1d375cf864adb49ecec0e5a9a41b05f134"
+  },
+  "canonical_reference": [
+    "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
+    "Unsupported local forms remain source-local."
+  ],
+  "reveal_guard": "No Declaration of War material from target450 is imported.",
+  "key_reveal": "Third Corpse Andrealphus / Ice Duke, Danger Rating S+, is revealed in true form."
+}
