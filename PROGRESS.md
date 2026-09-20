@@ -1,5 +1,15 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Running Hound(s) (1)–(4) accepted
+
+**Current state:** 493 / 500 accepted; 0 staged; next Chapter 494.
+
+Completed targets **490–493** with mapping **E488–E491**. Pigi’s remembered kindness completes the regression-causality thread; Andras’s prophecy remains a curse rather than guaranteed destiny; Vikir chooses the old timeline; and Camus, Aiyen, Dolores, Sinclaire, and Kirko knowingly cross with him.
+
+Family QA: `qa/families/running-hounds-0490-0493.md` — **PASS**.
+
+Remaining: **494–495 — The Day After the Apocalypse (1)–(2)** / E492–E493, then Chinese-only Side Stories 1–5 through target500.
+
 ## 2026-09-20 — The Marquis of Discord (1)–(7) accepted
 
 **Current state:** 489 / 500 accepted; 0 staged; next Chapter 490.

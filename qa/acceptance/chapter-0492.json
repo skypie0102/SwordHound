@@ -1,0 +1,33 @@
+{
+  "chapter": 492,
+  "title": "Running Hounds (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Running Hound(s)",
+    "range": [
+      490,
+      493
+    ],
+    "family_qa_path": "qa/families/running-hounds-0490-0493.md",
+    "family_qa_sha": "9997b083a5f6dec1f07e71766ad4b57a72be8d3b",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/492.txt",
+    "primary_source_sha": "9eae85c3579afef15e9a889b0d82fb51afa5d89d",
+    "english_reference_path": "source/chapters/chapter-490.xhtml",
+    "english_reference_sha": "b9f62e23187345a6160d4566fb79f39e100c5b8c",
+    "draft_path": "manuscript/drafts/chapter-0492.md",
+    "draft_sha": "37cc36e7b4f07d6bfebac474fb475f0846f83214",
+    "qa_path": "qa/chapter-0492.md",
+    "qa_sha": "8b92d4c6db4a9418660ead926aff7061b5d61e90",
+    "provenance_path": "editorial/provenance/chapter-0492.json",
+    "provenance_sha": "5699faf6a48d429e3ac34b7d68fcec5ed77d3e42"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; accepted project terminology controls recurring forms.",
+    "No The Day After the Apocalypse material from target494 is imported."
+  ]
+}
