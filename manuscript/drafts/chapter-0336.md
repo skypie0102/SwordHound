@@ -1,20 +1,24 @@
 # Chapter 336: The Mating Room (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/336.txt`. Recovered English Chapter 334 is the verified shifted secondary witness. Established repo terminology controls Sinclaire Bourgeois, Bartolomeo Bourgeois, Night Hound, Belial / Worthless One, Cerberus, and Dragon Majin laboratory mechanics. Production preserves the source’s nudity, coercive drug exposure, grief, and physical contact without erotic embellishment.
+> Chinese-primary reconstruction from `source/chinese/chapters/336.txt`. Recovered English Chapter 334 is the verified shifted secondary witness. Established project terminology controls **Sinclaire Bourgeois**, **Bartolomeo Bourgeois**, **Night Hound**, **Belial / Worthless One**, **Cerberus**, and **Dragon Majin** laboratory mechanics. Source nudity, hypothermia treatment, drug exposure, and grief are preserved clinically and without erotic embellishment; Sinclaire's behavior under the laboratory mist is not treated as reliable consent.
 
-Sinclaire Bourgeois.
+A younger Sinclaire stood in snow.
 
-A much younger Sinclaire stood in the snow.
+Her silver-white hair—
 
-Her silver-white hair still reached her waist.
+still long enough to reach her waist.
 
-A teddy bear rested in her arms.
+A teddy bear in her arms.
 
-She looked up at the tall man in front of her.
+Before her—
+
+a tall man.
 
 *Father.*
 
 *Why do I have to leave?*
+
+The child asked.
 
 The tall man did not answer.
 
@@ -26,7 +30,7 @@ An elderly butler beside him did.
 
 And so—
 
-the girl left House Bourgeois.
+the child left House Bourgeois.
 
 Her long hair was cut short.
 
@@ -34,79 +38,87 @@ At the rear gate—
 
 she looked back one final time.
 
-Nothing had changed.
+Nothing changed.
 
-The estate remained exactly where it had always been.
+The estate remained.
 
-As though her departure meant nothing.
+The walls.
 
-Then she noticed something high above.
+The windows.
 
-A small shadow.
+The towers.
 
-Was it imagination?
+As though her departure did not matter.
 
-A curtain moving in the wind?
+Then—
+
+high above—
+
+a small shape moved.
+
+A shadow?
+
+A curtain in the wind?
 
 No.
 
 The tall man.
 
-Watching her leave from a window.
+Watching her leave.
 
-That was what the girl chose to believe.
+That was what the child chose to believe.
 
 *Why did you abandon me?*
 
-*Did you love me?*
+*Did you ever love me?*
 
 *Was that why you sent me away?*
 
 *Can I come back?*
 
-*…Will you love me again if I do?*
+*Will you love me again when I do?*
 
-Questions tangled together.
+Questions tangled.
 
-So did the footprints crossing the snow.
+Footprints crossed one another in thin snow.
 
-But the answer waiting at the end of those questions—
+Years passed.
 
-was not the one she had imagined.
+The answer waiting at the end of those questions—
 
-[It would be useful to cut away unnecessary attachments.]
+was nothing like the one she had prepared.
+
+[It is time to discard unnecessary attachments.]
 
 [The performance ends here.]
 
-The tall man she remembered had changed.
+The tall man she remembered—
 
-The distant face—
+sometimes distant.
 
-sometimes cold, sometimes gentle—
+sometimes gentle.
 
-was gone.
+had become something else.
 
 Bloodshot eyes.
 
-A twisted expression.
+Twisted face.
 
-Violence that looked demonic even before she understood what she was seeing.
+Violence that belonged to a demon.
 
-The grown girl became a child again.
-
-The child sent away from home in falling snow.
+The grown Sinclaire became the child in the snow again.
 
 *I understand.*
 
-*I know you sent me away because you loved me.*
+*You sent me away because you loved me.*
 
-*You didn’t abandon me.*
+*You did not abandon me.*
 
 *I came back.*
 
 *Please love me again.*
 
-Every answer she had prepared over the years—
+Everything she had wanted to say for years—
 
 reduced to one sentence.
 
@@ -116,49 +128,45 @@ She never got to say it.
 
 *Demons must be killed.*
 
-A hound tore its way out of the nightmare.
+A hound tore through the nightmare.
 
-Red maw.
+Red mouth.
 
 Black fangs.
 
-Everything in front of the girl—
+Everything before the child—
 
-ripped apart.
+destroyed.
 
-*It’s over.*
+*It is over.*
 
 *Worthless One.*
 
-That was the tall man’s end.
+That was the end of the tall man.
 
-The girl lost her only family.
+Sinclaire lost her only family.
 
 And with him—
 
-the only record that could prove who she truly was vanished too.
-
-No ties.
+the last record proving who she truly was disappeared too.
 
 No root.
 
-Who remained to testify that she belonged anywhere?
+No witness.
 
-How did someone whose origin had disappeared—
+No one left to say—
 
-prove her existence?
+*she belonged here.*
+
+How did someone without roots prove her existence?
 
 **Esse, Non Videri.**
 
-**To be—
-
-without being seen.**
+**To be, without being seen.**
 
 From that day—
 
-the girl became exactly that.
-
-Someone who existed—
+the child became someone who existed—
 
 but could not be seen.
 
@@ -166,330 +174,316 @@ The future ruler of Bourgeois.
 
 And she made one decision.
 
-She would face that hound again.
+One day—
+
+she would face the hound again.
 
 The nightmare mouth.
 
-The black teeth.
+The black fangs.
 
-The eyes shining with ominous light.
+Those ominous eyes.
 
 ◆◆◆
 
 “…Ah!?”
 
-Sinclaire jerked awake.
+Sinclaire woke violently.
 
 A nightmare.
 
-The details were already slipping away—
+Or memory.
 
-yet her body remembered the fear.
+The details blurred—
 
-Then she realized something else.
+but the fear remained.
 
-She had no clothes on.
+Then she realized—
 
-“…!”
+she was unclothed.
 
-She immediately covered herself.
+Her hands moved immediately to cover herself.
 
-A flat voice came from behind.
+A calm voice came from behind.
 
-“You’re awake.”
+“You're awake.”
 
 Sinclaire turned.
 
 Vikir was behind her—
 
-also unclothed—
+also without wet clothing—
 
-holding her from the back.
+holding her close from the back.
 
-“B-B-Bro?!”
+“B-Bro!?”
 
-“W-what is this?!”
+“What—”
+
+“What happened!?”
 
 “Maintaining body temperature.”
 
-Same expression.
+Same flat voice.
 
-Same tone.
+No embarrassment.
 
-No embarrassment at all.
+No hidden meaning.
 
-Only then did Sinclaire look around properly.
+Only survival.
 
-They were deep inside a burrow.
+Sinclaire finally looked around.
 
-Dry sawdust surrounded them on every side.
+They were deep inside the wood-shaving burrow.
 
-The rain had not reached this far.
+Dry bedding surrounded them.
 
-Their wet clothes had been removed.
+Rain had not reached this layer.
 
-Their bodies had dried.
+Their soaked clothes had been removed.
 
-Across the center of the den—
+Their skin—
 
-Vikir had spread Cerberus hide.
+dry.
 
-A tiny fire burned on top of it.
+Vikir had spread **Cerberus hide** in the wider center of the den.
 
-Dry sawdust served as fuel.
+A tiny fire burned over it.
 
-Smoke escaped through a narrow ventilation shaft cut upward through the den.
+Dry shavings—
+
+fuel.
+
+A narrow shaft carried smoke upward.
 
 Cerberus hide resisted fire.
 
-Wet sawdust had also been packed around the flame to keep sparks from spreading.
+Wet shavings ringed the flame so sparks could not spread through the bedding.
 
 “…Ah.”
 
-Sinclaire finally understood.
+Sinclaire understood.
 
-The reason she had awakened.
+She was conscious because Vikir had worked continuously to keep her alive.
 
-The reason she was warm.
+In a world this cold and dark—
 
-Vikir had done everything he could to keep her alive.
+even one match-sized flame felt enormous.
 
-In a cold, dark world—
+So did shared body heat.
 
-even a flame the size of a match could feel enormous.
-
-So could the warmth of another body.
-
-Vikir asked:
+Vikir asked—
 
 “Nightmare?”
 
-His normally hard, dry voice—
+His normally hard voice sounded gentler than usual.
 
-somehow sounded softer to Sinclaire now.
-
-Her restraint broke.
-
-Tears came immediately.
+Sinclaire's restraint broke.
 
 “…Night Hound killed my father.”
 
-The dream returned more clearly.
+The dream returned.
 
 No.
 
-Not a dream.
-
-Memory.
+The memory.
 
 “I woke up…”
 
-“and Father was there…”
+“Father was there…”
 
 “But he had become a demon…”
 
-“He used strange powers…”
+“He used some strange power…”
 
 “I wanted to stop him…”
 
-“But I couldn’t…”
+“I couldn't…”
 
 “So Night Hound killed him…”
 
-Her breathing shook.
+Her voice fractured.
 
 “Why?”
 
-“Why did that happen?”
+“Why did it happen that way?”
 
-The words came apart as she spoke them.
+Vikir understood what she was trying to say.
 
-Vikir still understood.
+*There is no clean explanation.*
 
-*There’s no good way to explain this.*
-
-Families of demon-possessed victims were always difficult.
+Families of demon-possessed victims always carried impossible questions.
 
 Was the original person already dead?
 
-Was the body only an empty shell?
+Was only the body left?
 
-When had the demon taken control?
+At what point did the demon replace the person?
 
-Answers like that—
+Even accurate answers—
 
-if they were answers at all—
+would not necessarily help.
 
-would only deepen the confusion.
+*Maybe it is better if she hates me.*
 
-*Maybe it would be better if she hated me.*
+Hatred could become fuel.
 
-*If resentment gave her a reason to keep living—*
+Revenge—
 
-*that might be enough.*
+a reason to keep living.
 
-Revenge had kept many people alive.
+Vikir tightened his hold—
 
-Vikir tightened his hold around her.
+enough to keep warmth from escaping.
 
-Only for warmth.
-
-Sinclaire trembled and cried.
+Sinclaire cried.
 
 Then—
 
-she turned her head.
+her behavior changed.
 
-Her lips brushed Vikir’s neck.
+She turned toward him.
 
-Vikir immediately turned his face away.
+Reached for him with disoriented affection.
 
-But Sinclaire remained disoriented.
+Vikir avoided the contact.
 
-Her breathing was hot.
+*The timer.*
 
-Her movements—
-
-increasingly unlike herself.
-
-*…The timer.*
-
-Vikir’s eyes snapped toward the status display.
+His eyes moved to the status display.
 
 [Preparing mating environment.]
 
 [Second time limit: 00:03:21.]
 
-The air had changed.
-
-Sweet.
+The air had become sweet.
 
 Heavy.
 
-Blue mist had spread into the burrow.
+Blue mist had spread even into the burrow.
 
-While Vikir had been maintaining the fire—
+While Vikir had tended the fire—
 
-and circulating mana through Sinclaire’s body to keep her conscious—
+and circulated mana through Sinclaire's body to fight the cold—
 
-the second stage had almost ended.
+the second stage had advanced.
 
-Vikir held his breath.
+Vikir stopped breathing.
 
-*The mist isn’t poisonous.*
+*Not poison.*
 
-That was almost worse.
+Almost worse.
 
-It did not damage the body.
+The mist did not injure tissue.
 
-It overstimulated it.
+It overstimulated physiological responses—
 
-A laboratory drug designed to force breeding behavior.
+designed specifically to push paired specimens toward breeding behavior.
 
-DING.
+Ding.
 
 [Human 2 (♀) — mating readiness complete.]
 
 [Human 1 (♂) — mating readiness incomplete.]
 
-The message reduced them to livestock.
+The system reduced them to livestock.
 
-Exactly as the Dragon Majin laboratory intended.
+Sinclaire turned fully toward him.
 
-Sinclaire turned fully toward Vikir.
+Her eyes—
 
-Her eyes were unfocused.
+unfocused.
 
 “Bro…”
 
-“I don’t have any family left now.”
+“I don't have any family anymore.”
 
-“I’m alone in the world.”
+“I'm alone.”
 
 Vikir said nothing.
 
 “So…”
 
-“I want to make a family.”
+“I want a family.”
 
 “If it were you…”
 
 “If it were you, Bro…”
 
-A cold and dark world.
+The cold.
 
-Lonely by default.
+Darkness.
 
-Yet even one tiny source of warmth could make survival possible.
+Grief.
 
-Sinclaire buried her face against Vikir’s chest.
+Laboratory mist.
 
-Vikir’s expression remained cold.
+Everything had become tangled together.
+
+Sinclaire pressed close to the only source of warmth she trusted.
+
+Vikir's expression remained cold.
 
 *I cannot become her family.*
 
-The one who had killed the only family Sinclaire believed she had—
+The person who had killed the only family Sinclaire believed she had—
 
-was Vikir himself.
+was Vikir.
 
-He had to acknowledge that.
+That fact did not disappear because Bartolomeo had been possessed.
 
-When he fought Bartolomeo—
+When Vikir fought him—
 
-he had not risked himself the way he once had for Camus.
+he had not taken the same risks he once took for Camus.
 
-He minimized danger.
-
-Chose the safest available path.
+He chose the safer route.
 
 Killed Belial.
 
-He did not regret it.
+He did not regret the decision.
 
-If the same situation happened again—
+He would make it again.
 
-he would make the same decision.
+But absence of regret—
 
-But lack of regret—
+was not absence of guilt.
 
-was not the same as lack of guilt.
+Kill someone's only family—
 
-Kill someone’s only family—
+then allow that person to build a replacement family around you?
 
-then become their new family?
+That would be deception.
 
-That would be deception piled on deception.
+Vikir took Sinclaire by both shoulders.
 
-Vikir took Sinclaire by the shoulders.
+Made her look at him.
 
-Lifted her face.
-
-Her eyes were already clouded by the drug.
+Her eyes remained clouded by the mist.
 
 “Listen to me, Sinclaire.”
 
 “I—”
 
-DING.
+Ding.
 
 [Preparing mating environment.]
 
-[Beginning third attempt.]
+[Third attempt begins.]
 
-The timer reached zero.
+The timer ended.
 
-Vikir stopped speaking.
+Vikir stopped.
 
-Clenched his jaw.
+Jaw tightening.
 
-BOOM.
+BOOM!
 
 The entire enclosure shook.
 
 External intervention.
 
-The final stage.
+The final escalation.
 
-Just like the enormous blue-scaled hands that had forcibly restrained the giant mantises—
+Just like the huge blue-scaled hands that had forcibly controlled the Giant Mantises—
 
-the Dragon Majin’s hands began descending toward the human enclosure.
+the Dragon Majin's hands began descending toward the human enclosure.
