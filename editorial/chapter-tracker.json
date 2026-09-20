@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 482,
+  "accepted_count": 489,
   "staged_count": 0,
-  "next_chapter": 483,
+  "next_chapter": 490,
   "active_title_family": {
-    "name": "The Marquis of Discord",
+    "name": "Running Hound(s)",
     "range": [
-      483,
-      489
+      490,
+      493
     ],
-    "boundary_status": "verified complete: target483→E481 through target489→E487",
-    "following_family_starts": 490,
-    "following_title": "Running Hound (1)",
-    "alignment_note": "483→E481 through 489→E487; 490→E488 begins Running Hound(s) (1)-(4) through target493→E491."
+    "boundary_status": "verified complete: target490→E488 through target493→E491",
+    "following_family_starts": 494,
+    "following_title": "The Day After the Apocalypse (1)",
+    "alignment_note": "490→E488 through 493→E491; 494→E492 begins The Day After the Apocalypse (1)."
   },
   "chapters": [
     {
@@ -6763,6 +6763,104 @@
       "acceptance": "qa/acceptance/chapter-0482.json",
       "acceptance_sha": "657fd76cc366108a9226ae975f9a4c04c83d9544",
       "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
+    },
+    {
+      "chapter": 483,
+      "title": "The Marquis of Discord (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/483.txt",
+      "english_mtl_reference": "source/chapters/chapter-481.xhtml",
+      "draft": "manuscript/drafts/chapter-0483.md",
+      "qa": "qa/chapter-0483.md",
+      "provenance": "editorial/provenance/chapter-0483.json",
+      "acceptance": "qa/acceptance/chapter-0483.json",
+      "acceptance_sha": "7a40acdfa33d13090571184751cbd4a11a2f7a6d",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 484,
+      "title": "The Marquis of Discord (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/484.txt",
+      "english_mtl_reference": "source/chapters/chapter-482.xhtml",
+      "draft": "manuscript/drafts/chapter-0484.md",
+      "qa": "qa/chapter-0484.md",
+      "provenance": "editorial/provenance/chapter-0484.json",
+      "acceptance": "qa/acceptance/chapter-0484.json",
+      "acceptance_sha": "0a1b2598e625f115db410def6ce2e38158c110fc",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 485,
+      "title": "The Marquis of Discord (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/485.txt",
+      "english_mtl_reference": "source/chapters/chapter-483.xhtml",
+      "draft": "manuscript/drafts/chapter-0485.md",
+      "qa": "qa/chapter-0485.md",
+      "provenance": "editorial/provenance/chapter-0485.json",
+      "acceptance": "qa/acceptance/chapter-0485.json",
+      "acceptance_sha": "c193e1c09be6a8909adc279079d501615cd2a0b2",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 486,
+      "title": "The Marquis of Discord (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/486.txt",
+      "english_mtl_reference": "source/chapters/chapter-484.xhtml",
+      "draft": "manuscript/drafts/chapter-0486.md",
+      "qa": "qa/chapter-0486.md",
+      "provenance": "editorial/provenance/chapter-0486.json",
+      "acceptance": "qa/acceptance/chapter-0486.json",
+      "acceptance_sha": "8b6a06427fe8d804497fe510bd99d4c744bb623d",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 487,
+      "title": "The Marquis of Discord (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/487.txt",
+      "english_mtl_reference": "source/chapters/chapter-485.xhtml",
+      "draft": "manuscript/drafts/chapter-0487.md",
+      "qa": "qa/chapter-0487.md",
+      "provenance": "editorial/provenance/chapter-0487.json",
+      "acceptance": "qa/acceptance/chapter-0487.json",
+      "acceptance_sha": "03e21336dd9597126d90c4382d67cfa3637e9ac2",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 488,
+      "title": "The Marquis of Discord (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/488.txt",
+      "english_mtl_reference": "source/chapters/chapter-486.xhtml",
+      "draft": "manuscript/drafts/chapter-0488.md",
+      "qa": "qa/chapter-0488.md",
+      "provenance": "editorial/provenance/chapter-0488.json",
+      "acceptance": "qa/acceptance/chapter-0488.json",
+      "acceptance_sha": "0207de464c9da27e613702bce2eb026a642e74e7",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 489,
+      "title": "The Marquis of Discord (7)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/489.txt",
+      "english_mtl_reference": "source/chapters/chapter-487.xhtml",
+      "draft": "manuscript/drafts/chapter-0489.md",
+      "qa": "qa/chapter-0489.md",
+      "provenance": "editorial/provenance/chapter-0489.json",
+      "acceptance": "qa/acceptance/chapter-0489.json",
+      "acceptance_sha": "5831e92fd95f9ace60ac508bd905b0ac811eb735",
+      "family_qa": "qa/families/marquis-discord-0483-0489.md"
     }
   ]
 }
