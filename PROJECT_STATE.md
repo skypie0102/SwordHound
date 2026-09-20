@@ -2,13 +2,14 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 421  
+**Accepted:** 424  
 **Staged:** 0  
-**Next chapter:** 422
+**Next chapter:** 425
 
-Latest accepted family: **Goodbye, Nouvelle Vague (1)–(3)** — targets419–421 / E417–E419.  
-Family QA: `qa/families/goodbye-nouvelle-vague-0419-0421.md` — **PASS**.
+Latest accepted family: **How to Become a Wandering Knight (1)–(3)** — targets422–424 / E420–E422.  
+Family QA: `qa/families/wandering-knight-0422-0424.md` — **PASS**.
 
-Key decisions: C419’s Garam exchange is restored only from aligned E417; Kirko remains behind in the sinking prison with later fate unresolved; Gate of Good and Evil strikes Orca and becomes the ascent platform; local C421 Basilisk regeneration drift is rejected in favor of accepted Gargoyle continuity.
+Key decisions: Tudor is the one-armed Knight of the Night and uses no surname; Passamonte’s coup cost Tudor his left arm; Bianca fled a parallel Usher-family takeover; Night Walkers sheltered them; Ark is the Saint of the Night’s refugee refuge.
 
-Next verified family: **How to Become a Wandering Knight (1)–(3)** — targets422–424 / E420–E422.
+Next verified family: **The Night Walkers (1)–(5)** — targets425–429 / E423–E427.  
+Following: **The Lion King (1)** — target430 / E428.
