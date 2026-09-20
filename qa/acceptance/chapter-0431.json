@@ -1,0 +1,33 @@
+{
+  "chapter": 431,
+  "title": "The Lion King (2)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Lion King",
+    "range": [
+      430,
+      433
+    ],
+    "family_qa_path": "qa/families/lion-king-0430-0433.md",
+    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/431.txt",
+    "primary_source_sha": "6af98232ae89c84e4752b8f800d7b5ab5c895b8f",
+    "english_reference_path": "source/chapters/chapter-429.xhtml",
+    "english_reference_sha": "406042322e299a0305c7d7e29a78cfcdee4a7af6",
+    "draft_path": "manuscript/drafts/chapter-0431.md",
+    "draft_sha": "1676b78f3b02212f61e3d19d680d5071fe2458d6",
+    "qa_path": "qa/chapter-0431.md",
+    "qa_sha": "f2f012021d200dbd6d016061fc190d86123bee03",
+    "provenance_path": "editorial/provenance/chapter-0431.json",
+    "provenance_sha": "6cb315cc1a12afa704771de04d7e1ef23d27529d"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Returned Hound material from target434 is imported."
+  ]
+}
