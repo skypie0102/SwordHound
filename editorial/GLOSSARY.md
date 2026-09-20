@@ -1,3 +1,17 @@
+## The Returned Hound additions — Chapters 434–436
+
+- **The Returned Hound** — accepted three-part family, targets434–436 / witnesses E432–E434.
+- **Inner-world Vikir remnant** — target434 opening figure; not the physical Vikir.
+- **Remnant Ninth Form** — unstable dream/death-conditioned Ninth Form used only by the inner-world remnant.
+- **Physical Vikir return** — occurs at target434 end; current physical Vikir remains Eighth Form.
+- **Eighth Form vs remnant Ninth Form** — Vikir wins through coordinated Black Sun execution against disordered nine-fang output; do not generalize Eighth as stronger than Ninth.
+- **Doppelganger leeches** — established Black Tongue copy-form parasite term; they copy Vikir's appearance after feeding on Vikir-composition blood.
+- **Remnant closure** — Vikir promises the Age of Destruction will not recur; remnant dissolves completely.
+- **Pigi internal voice** — “What a good person”; unresolved clue. Pigi remains male despite local Chinese pronoun drift.
+- **Pigi blood / demonic-space interaction** — blood remains poisonous/distorting to demonic space and opens the Hell Tree copy-space exit.
+- **Dreaming the Impossible Dream** — next family targets437–440 / E435–E438.
+- **The Fall of Usher** — follows targets441–442 / E439–E440.
+
 ## The Lion King additions — Chapters 430–433
 
 - **The Lion King** — accepted four-part family, targets430–433 / witnesses E428–E431.
