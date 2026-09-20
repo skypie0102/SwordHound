@@ -1,0 +1,37 @@
+{
+  "chapter": 476,
+  "title": "Knowing the Fate of My Father (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Knowing the Fate of My Father",
+    "range": [
+      476,
+      477
+    ],
+    "family_qa_path": "qa/families/knowing-fate-father-0476-0477.md",
+    "family_qa_sha": "8d16731e7159c9c89969f55bd88271e02de07e79",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/476.txt",
+    "blob_sha": "fad5aa3c12e8ca6642bef367f5a8a02274d57cc9",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-474.xhtml",
+    "blob_sha": "5e9c52c15b66cf85539de4e210c0b50fb22d4c89",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0476.md",
+    "blob_sha": "5866fd7f29c2cdfba2602b1e3869ebc875f52e54"
+  },
+  "qa": {
+    "path": "qa/chapter-0476.md",
+    "blob_sha": "b3e32d97522727d4756c7b826e3f18a776724a49",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
