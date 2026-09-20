@@ -12,7 +12,7 @@
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Working branch:** audit/full-sanitization-completeness-pass  
-**PR:** not yet opened
+**PR:** #143 — open; merge pending
 
 ## Why the project focus changed
 
