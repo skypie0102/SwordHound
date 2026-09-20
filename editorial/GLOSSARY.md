@@ -1,3 +1,28 @@
+## Final-ending additions — Chapters 494–500
+
+- **The Day After the Apocalypse** — final main-story family, targets494–495 / E492–E493.
+- **Eighth guiding star** — transient sign marking Vikir and five companions returning to the ruined original timeline.
+- **Orobas** — rank55 demon destroyed immediately after the travelers’ return.
+- **Nymphet / History of Magic** — future historian/author attribution used in the historical epilogue.
+- **Six inter-world heroes** — Vikir, Camus, Aiyen, Dolores, Sinclaire, and Kirko; deliberately unresolved by official history.
+- **Main-ending credit cookies** — old Vikir’s Tenth-Fang glimpse against Cane Corso, followed by Camus/Aiyen/Dolores/Sinclaire/Kirko pursuing him to the Grave of Swords.
+- **Side Stories** — separate five-part family, targets496–500.
+- **495/496 shared raw** — target495 ends after the five-pursuer credit-cookie sequence; target496 begins at the Dark Hall 666th-floor Camus scene.
+- **Parallel Camus distinction** — current-timeline Camus and traveler-timeline Camus are separate selves; do not merge their histories.
+- **Full Revival Magic** — completed through cooperation between the two Camus plus Magic Abyss insight; restored population is causally tied to demonic-war distortions rather than indiscriminate resurrection.
+- **Magic Abyss** — metaphysical/cosmological realm containing magical truths; its relativity imagery remains fantasy worldbuilding.
+- **Baal true self / milestone** — Abyss form labels itself a milestone and refers to a still-higher “he”; no identity is supplied.
+- **Five Fingers of the Creator** — landmark / threshold inside the Magic Abyss.
+- **Snake Morgue revival** — first direct proof Full Revival succeeded.
+- **Current-timeline Vikir** — distinct from traveler Vikir; may pursue a postwar florist life and encounters current-timeline Camus.
+- **Fragarach** — Cane Corso’s greatsword in Side Story 5; breaks during Vikir’s Tenth-Fang breakthrough.
+- **Tenth Fang / Form** — Vikir finally manifests it against Cane Corso after integrating Magic Abyss insight.
+- **Cane Corso final state** — disperses after the duel, describing himself as a Sword Immortal / milestone rather than Sword God.
+- **First Mother** — distant maternal ancestor encountered on Vikir’s second Magic Abyss expedition; tells him to live freely and return only at life’s true end.
+- **Wives and children** — only Side Story 5 explicitly resolves Vikir’s long-life family structure with this wording; do not project it backward into earlier chapters.
+- **Final unnamed old man** — sits beyond the Five Fingers of the Creator at the end of Side Story 5; identity is intentionally not supplied by the source.
+- **Reconstruction complete** — all targets1–500 accepted.
+
 ## Running Hound(s) additions — Chapters 490–493
 
 - **Running Hound(s)** — accepted four-part family, targets490–493 / E488–E491; witness title is singular in part1 and plural in parts2–4.
