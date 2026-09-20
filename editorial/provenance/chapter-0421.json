@@ -1,0 +1,38 @@
+{
+  "chapter": 421,
+  "title": "Goodbye, Nouvelle Vague (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Goodbye, Nouvelle Vague",
+    "range": [
+      419,
+      421
+    ],
+    "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/421.txt",
+    "blob_sha": "4bfd6917f6aa7ef680e55dd85f5123f9a223c607",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-419.xhtml",
+    "blob_sha": "e0fd8dadb91bf4018ffca14d5b2933b345476b22",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0421.md",
+    "blob_sha": "a041a225a96a8947719ccab56f543f132a4c48e9"
+  },
+  "qa": {
+    "path": "qa/chapter-0421.md",
+    "blob_sha": "612b3ed5de92ccf7339034d326d947b2d5f617f3",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "documented_correction": "Local Basilisk-regeneration wording rejected as recurring drift; Immortality — Gargoyle (S) controls."
+}
