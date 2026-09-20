@@ -10,7 +10,7 @@
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
     "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "pass"
+    "status": "reopened_for_completeness_audit"
   },
   "primary_source": {
     "path": "source/chinese/chapters/319.txt",
@@ -29,10 +29,20 @@
   "qa": {
     "path": "qa/chapter-0319.md",
     "blob_sha": "0a664e58859d22558285de58e82334b6b2de92c7",
-    "status": "pass"
+    "status": "superseded_needs_rework"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
-  "accepted": true,
-  "accepted_date": "2026-09-19",
-  "key_reveal": "Silver Reflexes candy unlocks a second hidden stat; Vikir now has five of six tower stats."
+  "accepted": false,
+  "key_reveal": "Silver Reflexes candy unlocks a second hidden stat; Vikir now has five of six tower stats.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19"
+  },
+  "current_status": "needs_rework",
+  "reopened_date": "2026-09-20",
+  "completeness_audit": {
+    "status": "confirmed_compressed",
+    "reason": "Direct Chinese/draft comparison confirms summary-style compression across the Daylily fight, pooled-body-material preparation, reward sequence, and connective narration.",
+    "evidence": "qa/manuscript-completeness-audit.md"
+  }
 }
