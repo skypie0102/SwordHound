@@ -1,3 +1,20 @@
+## The Night Walkers additions — Chapters 425–429
+
+- **The Night Walkers** — accepted five-part family, targets425–429 / E423–E427.
+- **Tochka / Crying Castle** — northern highland fortress used as the Ark; historical weakness is lack of natural drinking water.
+- **Ark myth** — knowingly fabricated by Dolores, Martin Luther, and senior Quovadis clergy to move refugees; Pope Nabokov I explicitly approves.
+- **Night titles** — Dolores Saint of the Night; Tudor Knight of the Night; Sancho Warrior of the Night; Pigi Gatekeeper of the Night; Bianca Sniper of the Night; Cindywendy Wealthy of the Night.
+- **Countess Cindywendy Baskerville** — source-described form; source also identifies her as Osiris Le Baskerville's partner/lover. Do not invent extra marriage chronology.
+- **Ballak reliable companion** — new guardian rumor after trade resumes; identity remains unrevealed.
+- **Fourth Corpse Chimeries** — accepted project form; controls over aligned-witness Cimeries spelling.
+- **Pedro Donquixote** — Passamonte's adjutant; demonized controller of brainwashed Invincible Cavalry.
+- **Invincible Armada drought status** — stranded away from home because sea levels have fallen.
+- **Sinclaire return** — rejoins her old friends; Chinese-primary “We were already friends” controls.
+- **Cervantes Donquixote** — alive but in poor health according to Pedro.
+- **Vikir official death report** — Cindywendy alone holds Nouvelle Vague notice declaring Vikir Van Baskerville deceased; she withholds it from Night Walkers.
+- **The Lion King** — next family targets430–433 / E428–E431.
+- **The Returned Hound** — follows targets434–436 / E432–E434.
+
 ## How to Become a Wandering Knight additions — Chapters 422–424
 
 - **How to Become a Wandering Knight** — accepted three-part family, targets422–424 / witnesses E420–E422.
