@@ -29,7 +29,7 @@ Next pending target: **242**, inside **National University League (236–244)**.
 ## Branch / PR state
 
 - Working branch: `audit/tuition-225-233-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #132, **Rebuild Tuition Chapters 225–233 for completeness**: OPEN.
 - Attack Land completeness PR #131: merged.
 
 ## Exact next actions
