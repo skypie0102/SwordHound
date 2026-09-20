@@ -2,14 +2,14 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 436  
+**Accepted:** 440  
 **Staged:** 0  
-**Next chapter:** 437
+**Next chapter:** 441
 
-Latest accepted family: **The Returned Hound (1)–(3)** — targets434–436 / E432–E434.  
-Family QA: `qa/families/returned-hound-0434-0436.md` — **PASS**.
+Latest accepted family: **Dreaming the Impossible Dream (1)–(4)** — targets437–440 / E435–E438.  
+Family QA: `qa/families/dreaming-impossible-dream-0437-0440.md` — **PASS**.
 
-Key decisions: target434's opening Vikir is only the inner-world remnant; physical Vikir returns at the end; the remnant has an unstable Ninth Form while physical Vikir remains Eighth Form; Black Tongue copy-form parasites remain doppelganger leeches; Pigi remains male and his unexplained internal voice remains reveal-guarded.
+Key decisions: Chimeries is S+; Camus breaks the brainwashed cavalry charge; Marquis de Sade/Orca break the Usher sniper encirclement; Tudor voluntarily accepts demon-hunter causality risk and kills Chimeries with Gungnir; House Donquixote is restored under Tudor with roughly 60% overall strength surviving, concentrated heavily in the intact Invincible Armada.
 
-Next verified family: **Dreaming the Impossible Dream (1)–(4)** — targets437–440 / E435–E438.  
-Following family: **The Fall of Usher (1)–(2)** — targets441–442 / E439–E440.
+Corrected next family: **The Fall of Usher (1)–(9)** — targets441–449 / E439–E447.  
+Target450 / E448 begins **Declaration of War (1)**.
