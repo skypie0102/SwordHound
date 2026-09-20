@@ -1,82 +1,98 @@
 # Chapter 243: National University League (8)
 
-> Chinese-primary reconstruction from source/chinese/chapters/243.txt — 0357a6973a1ecb1c708c938f94becd1db8faeeea. Recovered English Chapter 241 is the verified shifted secondary witness. Canonical/project terminology controls Boli Bollason, Bakilaga Juragio, Dolores L. Quovadis, Vikir, Baskerville Fangs, Sword Master, Colosseo Academy, and Varangian Academy. Vikir’s Eighth Fang thoughts are progression setup only; he has not yet attained it here.
+> Chinese-primary reconstruction from `source/chinese/chapters/243.txt`. Recovered English Chapter 241 is the verified shifted secondary witness. Canonical/project terminology controls **Boli Bollason**, **Bakilaga Juragio**, **Dolores L. Quovadis**, **Vikir**, **Baskerville Fangs**, **Sword Master**, **Colosseo Academy**, and **Varangian Academy**. Vikir's **Eighth Fang** thoughts are progression setup only; he has **not** attained it here.
 
-Boli Bollason—
+**Boli Bollason.**
 
-Varangian’s top first-year.
+Varangian's strongest first-year.
 
-His challenge was simple.
+His declaration had been simple.
 
 *Send out the strongest person here.*
 
-This part of the hall held first-years from both schools.
+The challenge was aimed specifically at first-years.
 
-No ambiguity.
+This part of the banquet hall contained the younger students of both schools.
 
-Older students stepping in against a first-year would look pathetic.
+If a second- or third-year from Colosseo stepped in—
+
+it would look pathetic.
 
 So—
 
-Colosseo’s first-years had to answer.
+the answer had to come from the first-year class.
 
 Bollason folded his arms.
 
-*Someone has to come out now.*
+*Someone will come out.*
 
-He was confident.
+He had confidence.
 
-Sancho had once been stronger.
+Sancho had once been stronger than him.
 
 Not anymore.
 
-Sancho had spent months in the comfortable Imperial Capital.
+Sancho had spent his time in the soft Imperial Capital.
 
-Bollason—
+Warm food.
 
-in the brutal north.
+Comfortable rooms.
 
-Training.
+Academic life.
 
-Marching.
+Bollason had remained in the brutal north—
 
-Fighting.
+training without pause.
 
-Tudor Donquixote was said to be skilled—
+Tudor Donquixote had a strong reputation.
 
-but structured matches were different from spontaneous violence.
+But reputation earned in formal rules—
+
+official matches—
+
+structured duels—
+
+was different from spontaneous confrontation.
 
 The Baskerville triplets—
 
-those three were troublesome.
+those three did create pressure.
 
 Still—
 
 one-on-one—
 
-Bollason believed he could hold his own.
+Bollason believed he would not lose.
 
-Granola?
+Granola Leviathan?
 
 Poison tricks.
 
-Not worth considering.
+Barely worth considering.
 
-Sinclaire and Bianca?
+Sinclaire.
 
-Their presence only made his fighting spirit burn hotter.
+Bianca.
 
-*This has nothing to do with jealousy over a coeducational school.*
+Seeing girls among the rival class somehow made Bollason's fighting spirit burn even hotter.
 
-*Absolutely nothing.*
+*This has absolutely nothing to do with jealousy toward a coeducational school.*
 
-Then he realized everyone was looking away from him.
+*Nothing.*
 
-Not toward Tudor.
+Then—
+
+everyone's eyes moved somewhere else.
+
+Not Tudor.
 
 Not Sancho.
 
-Not the triplets.
+Not Highbro.
+
+Not Middlebro.
+
+Not Lowbro.
 
 Not Granola.
 
@@ -84,292 +100,424 @@ Not Sinclaire.
 
 Not Bianca.
 
-Vikir.
+**Vikir.**
 
-Sitting quietly.
+He sat aside—
 
-Thinking about something else.
+quietly eating.
 
-*The Seventh Fang is stable now.*
+And thinking about something completely unrelated.
 
-Since reaching Sword Master—
+*I've fully stabilized the Seventh Fang.*
 
-the Seventh Fang had grown until it could stand beside the Sixth.
+After reaching Sword Master—
 
-The next wall—
+the Seventh Fang had grown until it stood at the same level of completeness as the Sixth.
 
-Eighth Fang.
+The next objective—
+
+**Eighth Fang**.
+
+A path beyond his current state.
 
 *The Eighth Fang grows at the edge of death.*
 
-A battle between life and death.
+That was how Vikir understood the next wall.
 
-Vikir had crossed that line many times in his previous life.
+A genuine life-or-death battle.
 
-Blood.
+He had crossed those boundaries countless times before regression.
 
-Karma.
+His soul already carried—
 
-Experience.
+blood.
 
-All of it might become nourishment for the breakthrough.
+karma.
 
-His thought ended when a massive shadow stopped in front of him.
+experience.
+
+Everything accumulated through those years might become fertilizer for the Eighth Fang.
+
+The thought stopped.
+
+A huge shadow covered the table.
 
 “Hey.”
 
-Bollason leaned down.
+Bollason stood before him.
 
-“You Colosseo’s strongest first-year?”
+“You're Colosseo's strongest first-year?”
+
+“?”
 
 Vikir looked up.
 
-Then—
+THUMP.
 
-bang.
+Bollason planted one enormous arm on the table.
 
-A thick arm hit the table.
-
-“Arm wrestle.”
-
-Bollason grinned.
+“Arm wrestling.”
 
 “No mana.”
 
-Students of elite academies could not simply start street brawls.
+The elite academies could not casually begin street brawls.
 
-A formal duel before the League risked injury and administrative trouble.
+A formal duel before the tournament risked injuries.
 
-Varangian had alternatives.
+Administrative penalties.
 
-Wrestling—
+Disqualification.
 
-when there was open ground and sand.
+Varangian used other contests instead.
 
-Arm wrestling—
+**Wrestling**—
 
-when space was tight.
+if there was enough open ground and sand.
 
-Vikir looked at Bollason’s hand.
+**Arm wrestling**—
 
-“Scared?” Bollason asked.
+if space was limited.
 
-Silence.
+Bollason opened his hand.
 
-“You can admit it. I don’t despise losers.”
+“Come on.”
 
-Silence.
+“Try.”
 
-“But if a guy like you is top of Colosseo, that tells me plenty about your school.”
+Vikir looked down.
 
-“Enough.”
+Bollason grinned.
 
-Dolores descended from the second floor.
+“What?”
 
-Even Varangian students respected the Saintess.
+“Scared?”
 
-Bollason bowed.
+“If you're frightened—
 
-Dolores’s expression remained firm.
+say it.”
 
-“No inter-school fighting before the tournament. End the provocation and rest.”
+“I don't despise people just because they lose.”
 
-“Wait.”
+Vikir stayed silent.
 
-Bakilaga Juragio spoke.
-
-Varangian’s president smiled.
-
-“Is this really an inter-school conflict?”
-
-He gestured around.
-
-“Looks more like hot-blooded freshmen making noise.”
-
-“Bakilaga.”
-
-“Kids get acquainted by clashing sometimes.”
-
-“No means no.”
-
-“My junior wants to prove himself.”
-
-Bakilaga glanced at Tudor and Sancho—
-
-both furious on Vikir’s behalf.
-
-“And Colosseo’s juniors look just as interested.”
-
-Dolores exhaled.
-
-Ordering them down by authority alone—
-
-would crush morale.
-
-Bakilaga suggested a compromise.
-
-“We supervise.”
-
-“Arm wrestling. No real violence.”
-
-“A little entertainment before tomorrow’s League.”
-
-Dolores finally nodded.
-
-“At the first sign of injury, I stop it.”
-
-“Agreed. I may stop it first. I care about my juniors more than I look like I do.”
-
-Space was cleared.
-
-A stone round table.
-
-Vikir and Bollason sat opposite each other.
+“But honestly…”
 
 Bollason laughed.
 
-“Your arm is thin enough for a noble lady. I’m worried it’ll snap.”
+“If someone like you is Colosseo's best first-year—
 
-Vikir held out his hand.
+that says a lot about the school.”
+
+“Stop.”
+
+A firm voice came from above.
+
+Dolores descended the stairs.
+
+Even Varangian's rough students respected the Saintess.
+
+Bollason bowed politely.
+
+Dolores looked over the gathered students.
+
+“Inter-school conflict before the tournament is prohibited.”
+
+“Psychological games end here.”
+
+“Eat.”
+
+“Rest.”
+
+“Prepare for tomorrow.”
+
+“Wait.”
+
+Another voice interrupted.
+
+**Bakilaga Juragio.**
+
+Varangian's student council president smiled.
+
+“Is this really an inter-school conflict?”
+
+Dolores looked at him.
+
+“Bakilaga.”
+
+“I know what you're going to say.”
+
+He gestured toward the first-years.
+
+“Looks like hot-blooded juniors making noise.”
+
+“Children get close through small clashes.”
+
+“No.”
+
+Dolores's answer was immediate.
+
+Bakilaga chuckled.
+
+“My juniors want to test themselves.”
+
+“And Colosseo's seem equally angry.”
+
+Dolores looked.
+
+Tudor.
+
+Sancho.
+
+Others—
+
+all visibly furious after the insults.
+
+She could order them to stand down.
+
+That would solve the problem.
+
+But it might crush the first-years' morale—
+
+the night before the League.
+
+Dolores sighed.
+
+Bakilaga winked.
+
+“Then how about this?”
+
+“We supervise.”
+
+“Arm wrestling.”
+
+“No serious combat.”
+
+“Just a little entertainment to raise spirits.”
+
+Dolores considered.
+
+Then nodded.
+
+“If I see any risk of injury—
+
+I stop it immediately.”
+
+Bakilaga laughed.
+
+“I might stop it first.”
+
+“I care more about my juniors' health than I look like I do.”
+
+The two presidents agreed.
+
+Space was cleared.
+
+A round stone table prepared.
+
+Vikir sat on one side.
+
+Bollason—
+
+the other.
+
+Bollason laughed when he saw Vikir's arm.
+
+“Thin.”
+
+“Looks like a noble lady's.”
+
+“Can I even grip it without breaking it?”
+
+Vikir said nothing.
+
+He extended his hand.
 
 Their fingers locked.
 
-Bollason’s expression changed.
+GRIP.
 
-“…Oh?”
+Bollason's expression changed.
 
-Pigi—
+“…Hm?”
 
-acting as referee—
+Pigi acted as referee.
 
-blew the whistle.
+He raised his hand.
 
-Bollason roared.
+Then blew a whistle.
 
-“HAAAAAA!”
+Bollason exploded.
 
-The glassware rattled.
+“HAAAAAAAA!”
 
-Varangian erupted.
+The sound made glasses rattle.
 
-“Go!”
+Varangian students roared.
+
+“GO!”
 
 “Show him the strength that strangles bears!”
 
 “Crush him!”
 
-Nothing moved.
+Bollason's muscles swelled.
 
-Bollason screamed again.
+Veins writhed along his arm.
 
-Veins twisted across his arm.
+Vikir's arm—
+
+did not move.
+
+Bollason roared again.
+
+“HAAAAAA!”
 
 Nothing.
 
-Vikir’s forearm remained exactly where it began.
+His face reddened.
 
-Center.
+Sweat appeared.
 
-Bollason’s face reddened.
+Saliva.
 
-Sweat.
+Nasal mucus.
 
-Spit.
+His whole body strained.
 
-Runny nose.
+The hands remained exactly in the center.
 
-Every muscle straining.
+“…”
 
-Still—
+Vikir watched him.
 
-center.
+Silent.
 
-Vikir did not push.
+Expressionless.
 
-Did not pull.
+Bollason gradually realized something was wrong.
 
-Did not try to win.
+His strength was fading.
 
-He merely held Bollason there.
+His fingers were beginning to loosen.
 
-Bollason tried to withdraw his hand.
+Yet—
 
-Vikir’s grip did not release.
+his hand remained trapped at the center.
 
-Like trying to move a mountain.
+He tried pulling away.
 
-Tudor grinned.
+Vikir's grip would not release.
 
-“That’s how it felt the first time I competed with him.”
+Push—
 
-Sancho nodded.
+impossible.
 
-“His strength makes no sense.”
+Pull—
+
+impossible.
+
+Escape—
+
+impossible.
+
+It felt like trying to move a mountain with one hand.
+
+Tudor and Sancho watched with satisfied smiles.
+
+Tudor nodded.
+
+“That's exactly how it felt when I first tested strength with Vikir.”
+
+Sancho agreed.
+
+“His strength doesn't fit common sense.”
 
 Minutes passed.
 
-At last—
+Finally—
 
-Bollason sagged.
+Bollason stopped struggling.
 
 “…I lost.”
 
-Varangian exploded in protest.
+Varangian erupted.
 
-“What?”
+“What!?”
 
 “Neither hand moved!”
 
-“That’s a draw!”
+“That's a draw!”
 
-“You gave up too soon!”
+“Why surrender?”
+
+“Keep going!”
+
+“He couldn't push you either!”
+
+“Just hold!”
 
 Bollason clenched his teeth.
 
 *Idiots.*
 
-He understood now.
+They had not understood.
 
-Vikir had deliberately left the match at center.
+This was not an even match.
 
-That was harder than winning.
+Vikir had never tried to win.
 
-To match an opponent’s force continuously—
+He had deliberately kept the contest centered.
+
+In arm wrestling—
+
+that was harder.
+
+Matching another person's changing strength continuously—
 
 without overshooting—
 
 required overwhelming control.
 
-And overwhelming strength.
+And overwhelming reserve strength.
 
-*How strong is he?*
+*How strong is this guy?*
 
-Then other Varangian students surged forward.
+Bollason's face went pale.
+
+Before he could process it fully—
+
+other Varangian students surged forward.
 
 “My turn!”
 
-“I’m stronger than Bollason!”
+“I'm stronger than Bollason!”
 
-“I’m better specifically at arm wrestling!”
+“Arm wrestling is my specialty!”
 
-“Second-years allowed?”
+“I want to try!”
 
-“A third-year is too much, right?”
+“If I beat him—
+
+does that make me stronger than Bollason?”
+
+“Can a second-year challenge?”
+
+“What about a third-year?”
 
 Vikir looked at the growing crowd.
 
-Then placed his elbow back on the stone.
+Then put his elbow back on the stone.
 
 “Line up.”
 
-A memory stirred.
+An old memory rose.
 
-Military barracks.
+Military barracks before regression.
 
-Northern mercenaries.
+Rough northern mercenaries.
 
-Daily contests in the age before destruction.
+Arm-wrestling contests almost every day after the Age of Destruction began.
 
-For Vikir—
+To Vikir—
 
-this really was only a small amusement.
+this really was just a small diversion.
