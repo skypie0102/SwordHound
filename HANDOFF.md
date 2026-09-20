@@ -1,39 +1,38 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 421 / 500  
+**Accepted:** 424 / 500  
 **Staged:** 0  
-**Next target:** 422
+**Next target:** 425
 
 ## Latest accepted family
 
-**Goodbye, Nouvelle Vague (1)–(3)** — targets **419–421 / E417–E419**.
+**How to Become a Wandering Knight (1)–(3)** — targets **422–424 / E420–E422**.
 
-- Family QA: `qa/families/goodbye-nouvelle-vague-0419-0421.md` — PASS.
-- Current 3021 is the only functioning Level-Five route to the surface.
-- Vikir’s forged-order staging explains why many intended survivors were already positioned on Level Five.
-- C419 has a visible source gap after Kirko asks about Garam. Only aligned E417’s localized answer is restored: Garam died two years earlier during the Sakkuth riot while saving Kirko, was buried, and wanted to show her the outside world.
-- Kirko refuses escape because Nouvelle Vague is where she was born and raised. Her later fate remains unresolved.
-- Marquis de Sade and incapacitated Sadi hitch a ride on the Gulper Eel.
-- Orca’s killer-whale physiology makes him overwhelmingly advantaged in deep water.
-- Marquis de Sade promises three lives in repayment for one life saved, conditional on reaching the surface.
-- Vikir and Sade cut the whip so Aiyen/Sadi can continue upward.
-- Gate of Good and Evil remains 70 m / 5 m / 6,535 tons and accidentally strikes Orca before uncorking the full eruption.
-- Vikir, Marquis de Sade, and Orca use Gate of Good and Evil as the lower shell and Decarabia’s Wailing Wall as the upper dome for the ascent.
-- Local C421 Basilisk-regeneration wording remains drift; **Immortality — Gargoyle (S)** controls.
-- Family ends with the three men rising ten thousand meters toward the surface.
+- Family QA: `qa/families/wandering-knight-0422-0424.md` — PASS.
+- Wakewack establishes the current surface crisis: drought, famine, wildfire, dungeon/monster expansion, civil war, and collapsed trade.
+- Night Hound’s old trial/retrial dispute is the political trigger that turned long-standing factional rivalry into open civil war.
+- Night Walkers are introduced as a civilian vigilante/refugee-relief network; identities behind the Night titles remain reveal-guarded.
+- One-armed wandering knight is source-revealed as **Tudor**, currently using no surname.
+- Poison Gnoll remains A / 3 m / all continents, with carrion-derived toxin physiology.
+- Tudor abandoned the Donquixote name and lost his left arm while escaping Passamonte’s coup.
+- Passamonte’s old chivalric teaching and later betrayal are both preserved.
+- Bianca escaped a parallel family takeover and repeats Vikir’s strategic-retreat maxim to stop Tudor’s suicidal last stand.
+- Night Walkers sheltered Tudor and Bianca after their escape.
+- Tudor’s colder demeanor is battlefield adaptation and conscious resemblance to Vikir, not identity confusion.
+- Ark is the Saint of the Night’s refugee destination; other Night Walker identities remain unrevealed.
 - Direct Fandom verification remains robots-blocked.
 
 ## Next verified family
 
-**How to Become a Wandering Knight (1)–(3)** — targets **422–424 / E420–E422**.
+**The Night Walkers (1)–(5)** — targets **425–429 / E423–E427**.
 
 Following family:
-- **Night Walkers (1)** begins target425 / E423.
+- **The Lion King (1)** begins target **430→E428**.
 
 ## Exact next actions
 
-1. Read C422–C424 completely against E420–E422.
-2. Reconstruct/QA/accept the complete three-part family.
+1. Read C425–C429 completely against E423–E427.
+2. Reconstruct/QA/accept The Night Walkers as one five-part family.
 3. Merge it.
-4. Immediately determine the full Night Walkers family boundary from target425 forward and continue.
+4. Immediately continue into The Lion King family starting target430.
