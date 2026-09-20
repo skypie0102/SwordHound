@@ -29,7 +29,7 @@ The next family is **Surplus Man (314–320)**. All seven chapters remain in the
 ## Branch / PR state
 
 - Working branch: `audit/hell-tree-307-313-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #135, **Rebuild Hell Tree Chapters 307–313 for completeness**: OPEN.
 - National University League completeness PR #133: merged.
 
 ## Exact next actions
