@@ -24,7 +24,7 @@ For ordinary one-target Chinese containers, the corpus median `draft bytes / raw
 
 Initial priority-review threshold: **< 0.60** (triage only, never an automatic fail).
 
-- 48 chapters fall below 0.60.
+- 47 chapters fall below 0.60.
 - 22 chapters fall below 0.50.
 - Confirmed by direct raw/draft reading:
   - Ch. 97 — ratio ~0.389
