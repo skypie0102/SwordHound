@@ -2,8 +2,8 @@
   "chapter": 94,
   "title": "The Ghosts of the Ancestors (5)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Ghosts of the Ancestors",
     "range": [
@@ -11,8 +11,8 @@
       94
     ],
     "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
-    "family_qa_sha": "94ca4ab818c4eefb0681b19f4fbfed903d5bc664",
-    "status": "pass"
+    "family_qa_sha": "707b090616f74e8eaf90a959cdde17d9683329e3",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/094.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-093.xhtml",
     "english_reference_sha": "30e1d5378a952bf88dd0c0ac5b11e56af8ba280f",
     "draft_path": "manuscript/drafts/chapter-0094.md",
-    "draft_sha": "2842e8516e8acf6f8f75ad133fc04fa37fe2f8ac",
+    "draft_sha": "6702b7e21087f0aeb6a342d6b18a44e5f562fbae",
     "qa_path": "qa/chapter-0094.md",
-    "qa_sha": "0d229c65c5d1017619521420f7c50a11ad062c04",
+    "qa_sha": "2171f407becea18abf463b5ab7c3601cdd90f8b5",
     "provenance_path": "editorial/provenance/chapter-0094.json",
-    "provenance_sha": "c4ce4d39a48887cd940a81b009d765b54cabb908"
+    "provenance_sha": "9577ad701db19d57de254dd57343b56e828e6d32"
   },
   "canonical_checks": [
     "Thorn-Tree Punishment",
@@ -38,5 +38,17 @@
   "documented_limits": [
     "Recovered-English numbering lags target by one chapter.",
     "No target-95 Madam Eight-Legs aftermath is imported backward."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "2842e8516e8acf6f8f75ad133fc04fa37fe2f8ac",
+    "qa_sha": "0d229c65c5d1017619521420f7c50a11ad062c04",
+    "provenance_sha": "c4ce4d39a48887cd940a81b009d765b54cabb908"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/ghosts-ancestors-0090-0094.md"
+  }
 }
