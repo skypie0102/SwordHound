@@ -2,8 +2,8 @@
   "chapter": 195,
   "title": "Attack Land (6)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
-    "status": "pass"
+    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/195.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-193.xhtml",
     "english_reference_sha": "5dd2968d1beaa5f2a25f4794b4ff8599991df421",
     "draft_path": "manuscript/drafts/chapter-0195.md",
-    "draft_sha": "d2c8becb0e82e104fd4d6d13e4eb94c61153f597",
+    "draft_sha": "8c53c8381721d746077007c76b18be6f526ce6cd",
     "qa_path": "qa/chapter-0195.md",
-    "qa_sha": "24d44f9d6a499dc16bb30c222edb63e28b860342",
+    "qa_sha": "be6835c793758b943981a8e4b1fa3879f0d5a142",
     "provenance_path": "editorial/provenance/chapter-0195.json",
-    "provenance_sha": "237aff7421604a1c2fc66e8d257b1bfb856c0b5d"
+    "provenance_sha": "6d7029938c6063a624a92ffa9f7ce53bd2069099"
   },
   "canonical_checks": [
     "Vikir",
@@ -37,5 +37,18 @@
     "Crowd Sword Master claim remains in-world exaggeration.",
     "Public Vikir disclosure remains Sword Expert Advanced."
   ],
-  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "d2c8becb0e82e104fd4d6d13e4eb94c61153f597",
+    "qa_sha": "24d44f9d6a499dc16bb30c222edb63e28b860342",
+    "provenance_sha": "237aff7421604a1c2fc66e8d257b1bfb856c0b5d"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/attack-land-0190-0196.md"
+  }
 }
