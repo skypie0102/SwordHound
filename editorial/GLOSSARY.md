@@ -1,3 +1,14 @@
+## Downtown Naval Warfare additions — Chapters 479–482
+
+- **Downtown Naval Warfare** — accepted four-part family, targets479–482 / E477–E480.
+- **First Corpse gate-role clue** — “one who closes the gate” and “one who opens the gate” are separate; identities remain unrevealed.
+- **Kraken** — Chinese-primary Danger Rating **S+**; source-local aliases **Great King of the Deep Sea** / **Antagonist of Nouvelle Vague**.
+- **Kraken third eye** — hidden rear eye redirects all tentacles toward Vikir.
+- **Adult Baby Madam / Kraken** — Baby Madam intercepts Kraken with eight legs against eight tentacles.
+- **Vikir chained coffin** — carried from Tochka to the palace; actual contents remain unrevealed.
+- **The Marquis of Discord** — next family targets483–489 / E481–E487.
+- **Running Hound(s)** — targets490–493 / E488–E491.
+
 ## Tochka Annihilation Battle (6) additions — Chapter 478
 
 - **Flauros final escape** — transfers into Thomas de Leviathan before the original body dies.
