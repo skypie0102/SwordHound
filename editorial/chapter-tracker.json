@@ -1,20 +1,10 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 493,
+  "accepted_count": 500,
   "staged_count": 0,
-  "next_chapter": 494,
-  "active_title_family": {
-    "name": "The Day After the Apocalypse",
-    "range": [
-      494,
-      495
-    ],
-    "boundary_status": "verified complete: target494→E492, target495→E493; target496 begins Side Story 1 in shared raw 495.txt",
-    "following_family_starts": 496,
-    "following_title": "Side Story 1",
-    "alignment_note": "494→E492, 495→E493; target496 has no English MTL and uses the second segment of shared Chinese raw 495.txt."
-  },
+  "next_chapter": null,
+  "active_title_family": null,
   "chapters": [
     {
       "chapter": 1,
@@ -6917,6 +6907,105 @@
       "acceptance": "qa/acceptance/chapter-0493.json",
       "acceptance_sha": "d1cb7ba03b75c4f73b35db7cb9f29e49e8453ecc",
       "family_qa": "qa/families/running-hounds-0490-0493.md"
+    },
+    {
+      "chapter": 494,
+      "title": "The Day After the Apocalypse (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/494.txt",
+      "english_mtl_reference": "source/chapters/chapter-492.xhtml",
+      "draft": "manuscript/drafts/chapter-0494.md",
+      "qa": "qa/chapter-0494.md",
+      "provenance": "editorial/provenance/chapter-0494.json",
+      "acceptance": "qa/acceptance/chapter-0494.json",
+      "acceptance_sha": "a2ee35d799e00a882bc5acc2b925f684867edbf8",
+      "family_qa": "qa/families/day-after-apocalypse-0494-0495.md"
+    },
+    {
+      "chapter": 495,
+      "title": "The Day After the Apocalypse (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/495.txt",
+      "english_mtl_reference": "source/chapters/chapter-493.xhtml",
+      "draft": "manuscript/drafts/chapter-0495.md",
+      "qa": "qa/chapter-0495.md",
+      "provenance": "editorial/provenance/chapter-0495.json",
+      "acceptance": "qa/acceptance/chapter-0495.json",
+      "acceptance_sha": "65a479002d2dca5eb47489ba8aea1fd21163ddf8",
+      "family_qa": "qa/families/day-after-apocalypse-0494-0495.md"
+    },
+    {
+      "chapter": 496,
+      "title": "Side Story 1",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/495.txt",
+      "english_mtl_reference": "source/chapters/chapter-493.xhtml",
+      "draft": "manuscript/drafts/chapter-0496.md",
+      "qa": "qa/chapter-0496.md",
+      "provenance": "editorial/provenance/chapter-0496.json",
+      "acceptance": "qa/acceptance/chapter-0496.json",
+      "acceptance_sha": "dcbbad25fa727a19b7ee67edb0e4d3294aca8d9c",
+      "family_qa": "qa/families/side-stories-0496-0500.md"
+    },
+    {
+      "chapter": 497,
+      "title": "Side Story 2",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/497.txt",
+      "english_mtl_reference": "source/chapters/chapter-493.xhtml",
+      "draft": "manuscript/drafts/chapter-0497.md",
+      "qa": "qa/chapter-0497.md",
+      "provenance": "editorial/provenance/chapter-0497.json",
+      "acceptance": "qa/acceptance/chapter-0497.json",
+      "acceptance_sha": "3c348b8d547d282a1c8d512f96f876f3e06ea9d9",
+      "family_qa": "qa/families/side-stories-0496-0500.md"
+    },
+    {
+      "chapter": 498,
+      "title": "Side Story 3",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/498.txt",
+      "english_mtl_reference": "source/chapters/chapter-493.xhtml",
+      "draft": "manuscript/drafts/chapter-0498.md",
+      "qa": "qa/chapter-0498.md",
+      "provenance": "editorial/provenance/chapter-0498.json",
+      "acceptance": "qa/acceptance/chapter-0498.json",
+      "acceptance_sha": "002606e055f5bc0294185c0c0da0c05235d867e9",
+      "family_qa": "qa/families/side-stories-0496-0500.md"
+    },
+    {
+      "chapter": 499,
+      "title": "Side Story 4",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/499.txt",
+      "english_mtl_reference": "source/chapters/chapter-493.xhtml",
+      "draft": "manuscript/drafts/chapter-0499.md",
+      "qa": "qa/chapter-0499.md",
+      "provenance": "editorial/provenance/chapter-0499.json",
+      "acceptance": "qa/acceptance/chapter-0499.json",
+      "acceptance_sha": "c169846266bab9a215ed814fd93248743056dec0",
+      "family_qa": "qa/families/side-stories-0496-0500.md"
+    },
+    {
+      "chapter": 500,
+      "title": "Side Story 5",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/500.txt",
+      "english_mtl_reference": "source/chapters/chapter-493.xhtml",
+      "draft": "manuscript/drafts/chapter-0500.md",
+      "qa": "qa/chapter-0500.md",
+      "provenance": "editorial/provenance/chapter-0500.json",
+      "acceptance": "qa/acceptance/chapter-0500.json",
+      "acceptance_sha": "92fed4c345bc80a6d473e67ca682a41625bc4093",
+      "family_qa": "qa/families/side-stories-0496-0500.md"
     }
-  ]
+  ],
+  "project_complete": true
 }
