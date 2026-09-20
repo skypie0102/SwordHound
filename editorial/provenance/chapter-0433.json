@@ -1,0 +1,38 @@
+{
+  "chapter": 433,
+  "title": "The Lion King (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Lion King",
+    "range": [
+      430,
+      433
+    ],
+    "family_qa_path": "qa/families/lion-king-0430-0433.md",
+    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/433.txt",
+    "blob_sha": "e8a54f8e44db83f489aeebfa23722ffadde73c44",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-431.xhtml",
+    "blob_sha": "33e8dbf09e4518d9c21aeb07b931e568b52a8214",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0433.md",
+    "blob_sha": "95bebb04baa542bcf2a7c261c14cef84e0205d40"
+  },
+  "qa": {
+    "path": "qa/chapter-0433.md",
+    "blob_sha": "beb80e21c6c6198c2ec62b7815818f3b332f5e33",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Amdusias is only a remnant thought-fragment; the final Vikir figure exists inside the copied mental world, not as a confirmed physical return."
+}
