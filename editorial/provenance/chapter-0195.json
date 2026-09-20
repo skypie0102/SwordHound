@@ -1,7 +1,7 @@
 {
   "chapter": 195,
   "title": "Attack Land (6)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -9,8 +9,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
-    "status": "pass"
+    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/195.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0195.md",
-    "blob_sha": "d2c8becb0e82e104fd4d6d13e4eb94c61153f597"
+    "blob_sha": "8c53c8381721d746077007c76b18be6f526ce6cd"
   },
   "qa": {
     "path": "qa/chapter-0195.md",
-    "blob_sha": "24d44f9d6a499dc16bb30c222edb63e28b860342",
-    "status": "pass"
+    "blob_sha": "be6835c793758b943981a8e4b1fa3879f0d5a142",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,24 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-20",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/197.txt",
     "chinese_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
     "english_path": "source/chapters/chapter-195.xhtml",
     "english_sha": "6251eaf6241f9afd29ca07314c3cd27019c79641",
     "purpose": "target197 Preparing for the Festival bridge; target198/E196 begins The Corpse Queen (1)"
+  },
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "d2c8becb0e82e104fd4d6d13e4eb94c61153f597",
+    "qa_sha": "24d44f9d6a499dc16bb30c222edb63e28b860342"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/attack-land-0190-0196.md"
   }
 }
