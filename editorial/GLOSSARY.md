@@ -586,6 +586,8 @@
 
 ## The Shadowless King of the Black Sea additions — Chapters 326–330
 
+- **Shadowless King completeness resolution** — all five targets326–330 rebuilt against complete Chinese coverage; priority target328 resolved.
+
 - **The Shadowless King of the Black Sea** — accepted five-part family, targets326–330 / witnesses E324–E328.
 - **Fire of Inferiority / Blaze** — A+ flint-like item fueled by the wielder’s inferiority complex; Heat +1,000 before user-dependent scaling.
 - **Beetlemen ghost ship** — built from fallen insect remains/wings; can float on Black Sea water if hull integrity is restored.
