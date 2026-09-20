@@ -1,8 +1,11 @@
 # Title-Family QA — Madam Eight-Legs (1)–(6)
 
-**Family status:** PASS  
+**Family status:** REOPENED FOR COMPLETENESS AUDIT — historical PASS superseded  
 **Target range:** Chapters 95–100  
 **Following family:** target Chapter 101 begins *Nostalgia (1)*.
+
+
+**Audit reopening:** Chapter 97 is confirmed compressed; Chapters 95–100 must be re-audited as a complete family. Historical continuity/terminology findings remain reference material, but family acceptance is not current until full source-coverage review passes.
 
 ## Evidence / mapping
 
