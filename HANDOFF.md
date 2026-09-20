@@ -12,15 +12,11 @@
 
 ## Latest completed work — Hell Tree (307–313)
 
-All seven historical drafts were materially compressed and rebuilt. All seven were initial-priority targets and are now resolved.
+All seven historical drafts were materially compressed and rebuilt. Every chapter 307–313 was an initial-priority target.
 
 Family evidence: `qa/families/hell-tree-0307-0313.md`.
 
-Key guards:
-- Hell Hound = **B+** from Chinese.
-- Granola de Leviathan is canonical; Grenouille/Grunui is external witness drift.
-- Target312 uses established **Immortality — Gargoyle (S)** regeneration despite local Basilisk wording.
-- Eighth Fang remains progression setup / target, not imported later attainment.
+Key guards: Hell Hound = **B+** from Chinese; target312 retains **Immortality — Gargoyle (S)** instead of local Basilisk-regeneration drift; Granola de Leviathan remains canonical.
 
 ## Audit state
 
@@ -28,12 +24,12 @@ Original priority queue: 47 chapters.
 Remaining initial-priority chapters: **19**.  
 Current unresolved confirmed failures: **316, 319, 420**.
 
-Next family: **Surplus Man (314–320)**. All seven chapters are pending priority targets. Targets **316 and 319** are already confirmed failures.
+The next family is **Surplus Man (314–320)**. All seven chapters remain in the initial priority queue. **316** and **319** are already confirmed failures and must be rebuilt, not merely reviewed.
 
 ## Branch / PR state
 
 - Working branch: `audit/hell-tree-307-313-completeness`.
-- PR #134, **Rebuild Hell Tree Chapters 307–313 for completeness**: OPEN.
+- PR: not yet opened at this handoff write.
 - National University League completeness PR #133: merged.
 
 ## Exact next actions
@@ -42,4 +38,4 @@ Next family: **Surplus Man (314–320)**. All seven chapters are pending priorit
 2. Create a fresh branch from updated `main`.
 3. Audit **Surplus Man (314–320)** in full against Chinese.
 4. Rebuild every compressed chapter, explicitly resolving confirmed failures 316 and 319.
-5. Rebind QA/provenance/acceptance, update the confirmed-failure list and audit queue, merge, then continue directly into the next priority-containing family.
+5. Bind QA/provenance/acceptance, update tracker/docs, merge, and continue directly onward.
