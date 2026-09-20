@@ -1,0 +1,33 @@
+{
+  "chapter": 498,
+  "title": "Side Story 3",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Side Stories",
+    "range": [
+      496,
+      500
+    ],
+    "family_qa_path": "qa/families/side-stories-0496-0500.md",
+    "family_qa_sha": "5500ac73073602383e7359b83196e9d2e32a2cd7",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/498.txt",
+    "primary_source_sha": "6a083bf03444e6901ae0443682db055f03822594",
+    "english_reference_path": "source/chapters/chapter-493.xhtml",
+    "english_reference_sha": "523f54d41e88ce5790cd4c67a1f607292861cef2",
+    "draft_path": "manuscript/drafts/chapter-0498.md",
+    "draft_sha": "6f1ed77b81142892e0888918d609aac36f495aae",
+    "qa_path": "qa/chapter-0498.md",
+    "qa_sha": "134c64fee9693f9ba3cb0a4f3a464bcd12d0cf47",
+    "provenance_path": "editorial/provenance/chapter-0498.json",
+    "provenance_sha": "ef8d6374fdf00e4463a3535e6f01d2ef181f8cc0"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; established project terminology controls recurring forms.",
+    "Recovered E493 contains the side-story sections as embedded secondary witness material rather than standalone files."
+  ]
+}

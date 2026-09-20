@@ -1,5 +1,21 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Reconstruction complete: 500 / 500 accepted
+
+**Current state:** 500 / 500 accepted; 0 staged; no remaining reconstruction target.
+
+Completed:
+- **The Day After the Apocalypse (1)–(2)** — targets494–495 / E492–E493.
+- **Side Stories 1–5** — targets496–500; target496 begins in shared raw `495.txt`, and E493 carries the embedded secondary witness sections.
+
+Key final decisions: the historical epilogue keeps the six inter-world heroes unresolved in-world; the five-pursuer credit-cookie sequence closes Andras’s prophecy; Full Revival is causally scoped rather than universal; current-timeline and traveler-timeline selves remain distinct; Side Story 5 alone explicitly states Vikir’s life with his **wives and children**; and the final old man beyond the Five Fingers of the Creator remains unnamed.
+
+Final family QA:
+- `qa/families/day-after-apocalypse-0494-0495.md` — **PASS**
+- `qa/families/side-stories-0496-0500.md` — **PASS**
+
+Reconstruction is complete. Next project phase is complete-EPUB assembly and presentation/epubcheck QA.
+
 ## 2026-09-20 — Running Hound(s) (1)–(4) accepted
 
 **Current state:** 493 / 500 accepted; 0 staged; next Chapter 494.

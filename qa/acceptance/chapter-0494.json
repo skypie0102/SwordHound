@@ -1,0 +1,32 @@
+{
+  "chapter": 494,
+  "title": "The Day After the Apocalypse (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Day After the Apocalypse",
+    "range": [
+      494,
+      495
+    ],
+    "family_qa_path": "qa/families/day-after-apocalypse-0494-0495.md",
+    "family_qa_sha": "c232ff9315c31d79e320a704f318a9b6785122a2",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/494.txt",
+    "primary_source_sha": "29a77c84793afae6718feccc2585fe70f7d62152",
+    "english_reference_path": "source/chapters/chapter-492.xhtml",
+    "english_reference_sha": "788a2d705513144f3af8cac88e064bd2a6774662",
+    "draft_path": "manuscript/drafts/chapter-0494.md",
+    "draft_sha": "631f9481bdfeefb5527d826c25ff1a4fea4343dd",
+    "qa_path": "qa/chapter-0494.md",
+    "qa_sha": "a493d76a19f3e445cc0b5012efa288524b668140",
+    "provenance_path": "editorial/provenance/chapter-0494.json",
+    "provenance_sha": "44f5d129198b5180bd81b98ccd88b2aa7c6a8f48"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; established project terminology controls recurring forms."
+  ]
+}

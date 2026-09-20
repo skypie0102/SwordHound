@@ -2,28 +2,18 @@
   "checkpoint_date": "2026-09-20",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 493,
+  "accepted_chapters": 500,
   "staged_chapters": 0,
-  "next_chapter": 494,
+  "next_chapter": null,
   "latest_accepted_family": {
-    "name": "Running Hound(s)",
+    "name": "Side Stories",
     "range": [
-      490,
-      493
+      496,
+      500
     ],
-    "family_qa": "qa/families/running-hounds-0490-0493.md"
+    "family_qa": "qa/families/side-stories-0496-0500.md"
   },
-  "next_title_family": {
-    "name": "The Day After the Apocalypse",
-    "range": [
-      494,
-      495
-    ],
-    "boundary_status": "verified complete",
-    "following_family_starts": 496,
-    "following_title": "Side Story 1",
-    "alignment_note": "494→E492, 495→E493; target496 is Chinese-only in shared raw 495.txt."
-  },
+  "next_title_family": null,
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
   "chinese_raw_target_coverage": 500,
@@ -555,9 +545,23 @@
     490,
     491,
     492,
-    493
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500
   ],
   "notes": [
+    "Project reconstruction complete: 500 / 500 accepted; 0 staged.",
+    "Chapters494-495 accepted as The Day After the Apocalypse (1)-(2), mapping E492-E493.",
+    "Targets496-500 accepted as Side Stories 1-5; target496 shares raw 495.txt and all side-story secondary witness material is embedded in E493.",
+    "Main ending: Vikir returns to the ruined original timeline with Camus, Aiyen, Dolores, Sinclaire, and Kirko; Baal is defeated and the Age of Destruction formally ends.",
+    "Side-story sequence: two Camus complete Full Revival Magic through the Magic Abyss; Snake's revival proves success; the restored population is causally scoped to demonic-war deaths rather than indiscriminate resurrection.",
+    "Side Story 5 explicitly states Vikir lives a long life with wives and children, reaches the Tenth Form against Cane Corso, meets the First Mother on the second Abyss expedition, and ends on an unnamed old man beyond the Five Fingers of the Creator.",
+    "No identity is assigned to the final unnamed old man; direct Fandom page access remained robots-blocked.",
     "Chapters490-493 accepted as Running Hound(s) (1)-(4), mapping E488-E491.",
     "Pigi's remembered kindness and old-timeline death explain the causal thread behind Vikir's regression.",
     "Andras's distant-future desert/tower/five-piece vision remains prophecy/curse, not guaranteed fact.",
@@ -992,5 +996,6 @@
   "partial_chinese_raw_chapters": [
     49,
     55
-  ]
+  ],
+  "project_complete": true
 }

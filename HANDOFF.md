@@ -1,30 +1,60 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 493 / 500  
+**Accepted:** 500 / 500  
 **Staged:** 0  
-**Next target:** 494
+**Next target:** none — reconstruction complete
 
-## Latest accepted family
-**Running Hound(s) (1)–(4)** — targets **490–493 / E488–E491**.
-- Family QA: `qa/families/running-hounds-0490-0493.md` — PASS.
-- Pigi’s remembered kindness and old-timeline death explain the cross-timeline causal thread behind Vikir’s regression.
-- Jack-Andras opens; Pigi-Andras closes. Pigi chooses to close the portals while Vikir prevents Jack-Andras from reopening them.
-- Andras’s distant-future old-man/desert/tower/pursuit/five-piece vision remains a prophecy/curse, not guaranteed narrator fact.
-- Vikir’s source-timed “Fuck you.” is his first explicitly personal rejection replacing rote demon-hunter dogma.
-- Andras is completely annihilated at target492.
-- Pigi offers a one-way choice; Vikir returns to the original ruined timeline after hearing surviving comrades.
-- Camus, Aiyen, Dolores, Sinclaire, and Kirko independently choose to follow him.
-- Source-explicit romantic statements are preserved without inventing a final relationship structure.
-- Pigi remains behind and closes the portal; current-world story ends on his farewell.
+## Final accepted families
 
-## Remaining verified work
-1. **The Day After the Apocalypse (1)–(2)** — targets **494–495 / E492–E493**.
-2. **Side Story 1** begins target496 in the second segment of shared raw `495.txt`; no English MTL remains after E493.
-3. Targets497–500 are Side Stories 2–5.
+### The Day After the Apocalypse (1)–(2)
+Targets **494–495 / E492–E493**.
+
+- Family QA: `qa/families/day-after-apocalypse-0494-0495.md` — PASS.
+- Target494 returns Vikir, Camus, Aiyen, Dolores, Sinclaire, and Kirko to the ruined original timeline.
+- A transient eighth guiding star marks their arrival.
+- Orobas (rank55) is immediately destroyed by the five women.
+- Vikir reconnects with the surviving 207th Regiment and resumes the demon hunt.
+- Target495 records Baal’s defeat, the end of the Age of Destruction, and the historically unresolved six inter-world heroes.
+- Nymphet is the future historian/author of the historical record.
+- Target495 includes both credit-cookie sequences: old Vikir’s first Tenth-Fang glimpse against Cane Corso and the five women reaching the Grave of Swords.
+- Side Story 1 begins only after the five-pursuer sequence.
+
+### Side Stories 1–5
+Targets **496–500**.
+
+- Family QA: `qa/families/side-stories-0496-0500.md` — PASS.
+- Target496 begins inside shared raw `source/chinese/chapters/495.txt` at the Dark Hall 666th-floor Camus scene.
+- E493 contains embedded secondary-witness sections for Side Stories 1–5; no standalone English files exist beyond E493.
+- Current-timeline Camus and traveler-timeline Camus remain distinct parallel selves.
+- Two Camus develop Full Revival Magic by entering the Magic Abyss.
+- Baal’s Abyss self is treated as a milestone; the still-higher being remains unrevealed.
+- Full Revival succeeds; Snake Morgue’s revival is the proof.
+- Revival is causally scoped to people lost through demonic-war distortions, not indiscriminate resurrection of every dead person.
+- Current-timeline Vikir remains distinct from traveler Vikir; his postwar florist possibility and Camus encounter belong to his own timeline.
+- Traveler Vikir later reaches the Tenth Fang/Form against Cane Corso; Cane Corso finally disperses as a Sword Immortal / milestone.
+- The First Mother tells Vikir to live fully and return only at the true end of his life.
+- **Only Side Story 5 explicitly resolves the relationship ambiguity:** Vikir lives a long life with his **wives and children**.
+- The final Magic Abyss scene ends on an unnamed old man beyond the Five Fingers of the Creator. Do not assign an identity not given by the source.
+- Direct Fandom page access remained robots-blocked; established project canon controls recurring English forms.
+
+## Source-container boundary
+
+`source/chinese/chapters/495.txt` is a shared raw:
+- target495 = main ending + both credit-cookie sequences through the five women reaching the Grave of Swords;
+- target496 = begins at the Dark Hall 666th-floor Camus scene.
+
+This boundary is recorded in `source/chinese/chapter-exceptions.tsv`.
+
+## Project state
+
+Chinese-primary reconstruction is **complete through all 500 target chapters**.
+
+No chapter reconstruction remains.
 
 ## Exact next actions
-1. Read C494 and shared C495 completely; align 494→E492 and 495→E493 and identify exact target496 seam.
-2. Reconstruct/QA/accept 494–495.
-3. Read/reconstruct/QA targets496–500 Chinese-only.
-4. Update all tracking/handoff/glossary files to 500 / 500.
+
+1. Merge the final 494–500 acceptance branch.
+2. Treat manuscript reconstruction as frozen unless a concrete source/canonical correction is discovered.
+3. Move to complete-EPUB assembly.
+4. During EPUB assembly, apply the project presentation rules: dialogue indentation, info-window grouping, scene breaks `◆◆◆`, Side Story separation from Volumes, malformed-XHTML repair, metadata/navigation, and final epubcheck/presentation QA.
