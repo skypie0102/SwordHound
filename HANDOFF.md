@@ -34,7 +34,7 @@ Next family: **The Lion King (430–433)**.
 ## Branch / PR state
 
 - Working branch: `audit/goodbye-nouvelle-vague-419-421-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #141, **Rebuild Goodbye Nouvelle Vague Chapters 419–421 for completeness**: OPEN.
 - The Mating Room completeness PR #140: merged.
 
 ## Exact next actions
