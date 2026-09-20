@@ -1,24 +1,148 @@
 # Chapter 419: Goodbye, Nouvelle Vague (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/419.txt`. Recovered English Chapter 417 restores the source-visible gap in Kirko’s Garam exchange. Established continuity controls Gulper Eel, Current 3021, Garam Nord, Kirko Grimm, Bakira, Aiyen, Gate of Good and Evil, and Picaresque chronology.
+> Chinese-primary reconstruction from `source/chinese/chapters/419.txt`. Recovered English Chapter 417 is the verified shifted secondary witness and is used only to restore the source-visible Garam gap. Established project terminology controls **Nouvelle Vague**, **Bakira**, **Aiyen**, **Gulper Eel**, **Current 3021**, **Kirko Grimm**, **Garam Nord**, **Gate of Good and Evil**, and **Poseidon**.
 
-Nouvelle Vague shook itself apart.
+RUMBLE!
 
-Vikir and Aiyen raced upward on Bakira’s back while blue fire climbed beside the prison walls.
+RUMBLE!
 
-At Level Five, they cut through flooded passages toward the Gulper Eel pens.
+The whole of Nouvelle Vague shook.
 
-A few eels were still alive.
+Vikir and Aiyen—
 
-Bodies and blood floated through the water—proof that prisoners and guards had already fought over the escape route.
+riding Bakira—
 
-Vikir had expected that.
+raced up the spiral passage.
 
-Before the uprising, he had forged orders directing as many people worth saving as possible to wait on Level Five.
+[Woof!]
 
-If they had acted quickly, many of them were already gone.
+[Woof!]
 
-Aiyen hauled a large Gulper Eel from the pen.
+Bakira's wolf form moved faster than it ever had in life.
+
+The phantom-beast contract drove him forward without exhaustion.
+
+The ascent that should have taken far longer—
+
+shrunk by the minute.
+
+Then—
+
+WHOOSH.
+
+A wall of seawater rushed toward them.
+
+Aiyen's eyes sharpened.
+
+“Bad.”
+
+“This corridor should already be flooded.”
+
+Vikir pointed ahead.
+
+“Shortcut.”
+
+“Through it.”
+
+Aiyen immediately drew.
+
+THWANG!
+
+The arrow punched straight through the oncoming wave—
+
+opening a brief tunnel inside the water.
+
+Bakira jumped.
+
+Through the ring.
+
+Landed against the current.
+
+Then used the temporary depression cut by the arrow to leap again.
+
+BOOM!
+
+He crossed the flooded section—
+
+hit the remains of a broken bridge—
+
+and kept running.
+
+Beside the route—
+
+the blue pillar of fire rising from deeper Nouvelle Vague continued growing.
+
+It scorched the underside of the **Gate of Good and Evil**.
+
+“Level Five.”
+
+Aiyen looked ahead.
+
+“Right.”
+
+“The eel pens are here.”
+
+“Any left?”
+
+“There were plenty last time.”
+
+“Even if prisoners and guards have already taken some—
+
+they couldn't have used them all.”
+
+Vikir's prediction proved correct.
+
+The ceiling had partially collapsed.
+
+Water poured through cracks.
+
+But several **Gulper Eels** remained inside the pens.
+
+The area around them—
+
+chaos.
+
+Blood in the water.
+
+Floating bodies.
+
+Broken hooks.
+
+Cut lines.
+
+Signs of a violent fight over the escape animals.
+
+*Good.*
+
+*Sending people here in advance was the right decision.*
+
+Before the uprising—
+
+Vikir had already identified as many people worth saving as possible.
+
+Then forged orders—
+
+moving them toward Level Five under legitimate-looking pretexts.
+
+If those people had been positioned here when the revolt began—
+
+many should already have escaped.
+
+Aiyen grabbed a hook and line.
+
+Then jumped into the pen herself.
+
+SPLASH.
+
+A moment later—
+
+she dragged out a large Gulper Eel.
+
+The creature thrashed.
+
+Aiyen twisted its mouth open.
+
+Then looked toward Vikir.
 
 “Husby.”
 
@@ -26,113 +150,245 @@ Aiyen hauled a large Gulper Eel from the pen.
 
 “Yes.”
 
-She hesitated.
+Still—
 
-“The surface has changed.”
+Aiyen did not enter immediately.
 
-“It isn’t the world you remember.”
+Her expression remained troubled.
+
+“The surface world has changed.”
+
+“It isn't the world you remember.”
 
 “I know enough.”
 
-Aiyen looked puzzled.
+Aiyen frowned.
 
-Vikir had been imprisoned for years.
+Vikir had been inside Nouvelle Vague for years.
 
 How could he know?
 
-But Vikir was thinking of the future he had already lived.
+A newspaper?
 
-The sky splitting open.
+New prisoners?
 
-Fire pouring from the cracks.
+Something else?
 
-The Rain of Fear lasting one hundred fifty days.
+He offered no explanation.
 
-Forests turned to deserts.
+Because the knowledge did not come from the present.
 
-Lakes becoming bottomless pits.
+It came from the life he had already lived once.
 
-A season that killed ninety-eight percent of humanity.
+A sky split open.
 
-*It’s about to begin.*
+Red flame falling from the cracks.
 
-The signs on the surface were only the opening movement.
+Fire droplets like snakes.
 
-The real catastrophe had not yet started.
+Like rain.
 
-That was why he had prepared everything in advance.
+A deluge that lasted **150 days**.
 
-Slowly.
+The **Rain of Fear**.
 
-Thoroughly.
+Forests turned to desert.
+
+Lakes became bottomless pits.
+
+People who died wandered dry roads toward the afterlife.
+
+People who failed to die—
+
+burned while still breathing.
+
+A season in which no promise could be guaranteed.
+
+A long rain that announced the extinction of humanity.
+
+A disaster that killed almost ninety-eight percent of the population.
+
+*It's close.*
+
+The current changes on the surface—
+
+only signs.
+
+Warm-up.
+
+The demons had not yet fully entered the game.
+
+That was why Vikir had prepared in advance.
+
+Step by step.
+
+Never rushing.
+
+Every piece placed before the board changed.
+
+Now—
+
+it was time to strike back.
 
 “The volcano will erupt soon.”
 
+Aiyen looked toward the growing blue glow below.
+
 “Poseidon has hatched.”
 
-“The climate will change.”
+“The ascent begins now.”
 
 “We leave before the eruption.”
 
-Aiyen asked why he had deliberately brought Nouvelle Vague to this point.
+“Why trigger Nouvelle Vague at all?”
 
-“To oppose the coming fire rain.”
+“To oppose the fire rain.”
 
-She did not understand.
+“The Rain of Fear.”
+
+Aiyen tilted her head.
 
 Vikir gave no further explanation.
 
-They moved toward the surviving launch point—
+He only remembered—
 
-then a voice stopped them.
+150 days of burning sky.
+
+The coming Gate of Destruction.
+
+The world ending one season at a time.
+
+“Poseidon is awake.”
+
+“The climate will change.”
+
+“Now we see whether the preparation was enough.”
+
+He pulled the Gulper Eel closer.
+
+The prison shook again.
+
+BOOM!
+
+RUMBLE!
+
+Stone fell.
+
+Water poured in from every direction.
+
+Waves struck the upper levels.
+
+From farther above—
+
+shouts.
+
+Prisoners.
+
+Guards.
+
+People fighting through the last escape routes.
+
+Aiyen led the eel toward the remaining current gate.
+
+“Let's go.”
+
+Vikir stepped forward.
+
+Then—
 
 “Wait.”
 
-Captain Kirko Grimm stood at the edge of the flooded kennel.
+A voice stopped him.
 
-Her uniform was torn to rags.
+Both turned.
 
-Her sword had snapped in half.
+Captain **Kirko Grimm** stood at the edge of the flooded pen.
 
-Blood ran from wounds across her body.
+Her uniform—
+
+torn into strips.
+
+Her body—
+
+covered in wounds.
+
+The sword she had always maintained so carefully—
+
+snapped in two.
+
+Blood streamed into the water around her.
 
 For the first time—
 
-Kirko and Vikir faced each other without disguises.
+Kirko and Vikir faced one another with neither disguise intact.
+
+Her eyes remained hostile.
 
 “Are you an escaped prisoner?”
 
-Vikir did not answer.
+Vikir said nothing.
 
-Kirko’s stare stayed hard.
+He did not know why she had stayed.
 
-Then she said something unexpected.
+If she tried to stop them—
 
-“If you take the wrong current, you’ll die.”
+he would have to force his way through.
 
-“Go back through the left-side gate.”
+Instead—
+
+Kirko spoke.
+
+“Any random current will kill you.”
+
+“Go back to the gate on the left.”
 
 “Take **Current 3021**.”
 
-Thousands of currents passed Level Five.
+Vikir paused.
 
-Only one actually circulated to the surface.
+Thousands of eel currents passed through Level Five.
 
-The rest would leave riders trapped in the deep ocean.
+Only one—
+
+a proper circulating route—
+
+reached the surface.
+
+Most others drifted into the deep sea.
+
+Some could trap a rider for centuries.
 
 “Why tell me?”
 
-Kirko was silent for a moment.
+Kirko remained silent.
+
+Then—
 
 “I saw you kill Black Tongue.”
 
-Then she removed her guard cap.
+Vikir's eyes narrowed.
 
-“What happened to the real Garam?”
+Kirko removed her guard cap.
+
+Her next question—
+
+dry.
+
+Sharp.
+
+“What happened to **Garam**?”
+
+The Chinese source breaks visibly here.
+
+The aligned English witness supplies the missing exchange.
+
+Vikir answered only what that witness supports.
 
 “Dead.”
 
-“…When?”
+Kirko did not move.
+
+“When?”
 
 “Two years ago.”
 
@@ -140,88 +396,124 @@ Then she removed her guard cap.
 
 “He died saving you while you were unconscious.”
 
-Kirko’s expression did not change.
+A pause.
 
-“Where is his body?”
+“His body?”
 
 “Buried.”
 
-Another silence.
+Another pause.
 
-“Did he say anything before he died?”
+“Did he say anything?”
 
-Vikir remembered Garam Nord’s final words.
+Vikir remembered Garam Nord's final wish.
 
-His diary.
+The diary.
 
-The thing he had wanted but never achieved.
+The regret.
 
 “He wanted to show you the outside world.”
 
-Kirko’s pupils shook.
+Kirko's pupils trembled.
 
 Only once.
 
 Then she turned away.
 
-Not toward the escape route.
+Not toward the exit.
 
 Toward the collapsing prison.
 
-“You aren’t leaving?”
+Vikir asked—
+
+“You aren't leaving?”
 
 “No.”
+
+She kept walking.
 
 “This is where I was born.”
 
 “This is where I was raised.”
 
-She paused.
+Stone crashed ahead.
 
-Then, almost too quietly to hear over the water:
+Waterfall-like torrents poured through the broken structure.
+
+Kirko stopped.
+
+Long silence.
+
+Then—
+
+without fully turning—
 
 “…Good luck.”
 
-There was no time left.
+The words were almost lost beneath the roar.
+
+There was no more time.
 
 Vikir entered the Gulper Eel.
 
-Aiyen cut the line.
+Aiyen cut the restraint.
 
-Current 3021 caught them and carried them away.
+Current 3021 seized them.
 
-Nouvelle Vague disappeared behind them.
+The eel shot away.
 
-Kirko remained alone.
+Nouvelle Vague receded into the dark water.
 
-She remembered Garam.
+Kirko remained.
 
-A man from the surface.
+Alone.
 
-A man who had pretended to be familiar with her.
+She remembered a man.
 
-A man who never truly belonged among the guards.
+Someone who said he came from the surface.
 
-Someone who always seemed as though he would eventually return to the world above.
+Someone who acted as though the two of them had known each other since childhood.
 
-That was why she had refused to become attached.
+Someone who never really seemed like a prison guard.
+
+A man who always looked as though—
+
+eventually—
+
+he would return to the surface.
+
+That was why Kirko had resisted becoming attached.
 
 And yet—
 
-the one who seemed most destined to leave—
+the person who seemed most likely to leave Nouvelle Vague—
 
 had been the one who never could.
 
-Kirko let her cap fall into the flood.
+SPLASH.
+
+She dropped her guard cap into the flood.
 
 Her vision blurred.
 
 “…Idiot.”
 
-“Garam, you idiot.”
+“Garam.”
 
-Then the sea swallowed the prison.
+“You idiot.”
 
-Nouvelle Vague sank beneath black water.
+Then the sea entered in full.
+
+RUMBLE.
+
+GURGLE.
+
+The fortress filled.
+
+Nouvelle Vague disappeared under black water.
 
 Forever.
+
+What happened to Kirko afterward—
+
+remained unknown.
