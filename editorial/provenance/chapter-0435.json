@@ -1,0 +1,41 @@
+{
+  "chapter": 435,
+  "title": "The Returned Hound (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Returned Hound",
+    "range": [
+      434,
+      436
+    ],
+    "family_qa_path": "qa/families/returned-hound-0434-0436.md",
+    "family_qa_sha": "8a6a3644f459cc34bc63be301142ea82084f76c0",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/435.txt",
+    "blob_sha": "2a2f85fe54940259e4790d6c24807dffb6c7659b",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-433.xhtml",
+    "blob_sha": "7c55f4cad2d47ed478865964fcfbbb5f8e9696e3",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0435.md",
+    "blob_sha": "47201e19c691380aa8165bb7ed70908a8c34e8ea"
+  },
+  "qa": {
+    "path": "qa/chapter-0435.md",
+    "blob_sha": "befdee840db2466cd4ab86031c26ec2298ccac38",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and new wiki-only forms were not asserted.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "documented_corrections": [
+    "Use established doppelganger leech terminology for Black Tongue copy-form parasite strain.",
+    "Real Vikir remains Eighth Form; remnant Ninth Form is unstable and disordered."
+  ]
+}
