@@ -28,9 +28,9 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 
 | Chapter | Title | Draft bytes | Raw bytes | Ratio | State |
 | ---: | --- | ---: | ---: | ---: | --- |
-| 87 | The Illiad (3) | 5679 | 10774 | 0.527 | priority review |
-| 88 | The Illiad (4) | 5530 | 9280 | 0.596 | priority review |
-| 89 | The Illiad (5) | 4972 | 9514 | 0.523 | priority review |
+| 87 | The Illiad (3) | 5679 | 10774 | 0.527 | REBUILT — PASS |
+| 88 | The Illiad (4) | 5530 | 9280 | 0.596 | REBUILT — PASS |
+| 89 | The Illiad (5) | 4972 | 9514 | 0.523 | REBUILT — PASS |
 | 92 | The Ghosts of the Ancestors (3) | 4699 | 8364 | 0.562 | priority review |
 | 93 | The Ghosts of the Ancestors (4) | 5561 | 10276 | 0.541 | priority review |
 | 94 | The Ghosts of the Ancestors (5) | 4847 | 8456 | 0.573 | priority review |
@@ -75,6 +75,17 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 420 | Goodbye, Nouvelle Vague (2) | 4622 | 13293 | 0.348 | CONFIRMED REWORK |
 | 421 | Goodbye, Nouvelle Vague (3) | 5096 | 10793 | 0.472 | priority review |
 | 431 | The Lion King (2) | 3760 | 8319 | 0.452 | priority review |
+
+## Completed family reviews
+
+### The Illiad — Chapters 85–89 — REBUILT / PASS
+
+Direct Chinese comparison showed **all five** historical drafts were materially compressed. Only Chapters 87–89 appeared in the initial <0.60 priority queue; Chapters 85–86 were above the threshold but still failed full-coverage review. All five were rebuilt on 2026-09-20 and rebound to fresh QA/provenance/acceptance evidence.
+
+Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
+
+**Pending initial priority queue:** 44 chapters (down from 47).  
+**Next family:** The Ghosts of the Ancestors (90–94).
 
 ## Confirmed failures
 
