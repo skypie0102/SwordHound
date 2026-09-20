@@ -43,7 +43,7 @@ Ghosts mapping remains **90→E89 through 94→E93**. Target95→E94 begins **Ma
 ## Branch / PR state
 
 - Working branch: `audit/ghosts-90-94-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #128, **Rebuild The Ghosts of the Ancestors Chapters 90–94 for completeness**: OPEN.
 - Illiad completeness PR #127: merged.
 
 ## Files updated this batch
