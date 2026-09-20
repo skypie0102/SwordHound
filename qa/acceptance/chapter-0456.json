@@ -1,0 +1,33 @@
+{
+  "chapter": 456,
+  "title": "Infiltration of the Water Source (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Infiltration of the Water Source",
+    "range": [
+      454,
+      464
+    ],
+    "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
+    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/456.txt",
+    "primary_source_sha": "6941da2728159d6f65960e802a13f9855f44f1fe",
+    "english_reference_path": "source/chapters/chapter-454.xhtml",
+    "english_reference_sha": "f8fac0257c77c7ae93cc59035774e01d535ae693",
+    "draft_path": "manuscript/drafts/chapter-0456.md",
+    "draft_sha": "5807f4d1738376457396af53cf41346bb0d4f94a",
+    "qa_path": "qa/chapter-0456.md",
+    "qa_sha": "e5011690ee729fcf1ebe869d853779983bcc856f",
+    "provenance_path": "editorial/provenance/chapter-0456.json",
+    "provenance_sha": "22b39716a283ccf67b56d16d59d9448a8041fde2"
+  },
+  "documented_limits": [
+    "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
+    "No target465 counterattack-family material imported."
+  ]
+}

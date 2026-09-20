@@ -1,0 +1,36 @@
+{
+  "chapter": 461,
+  "title": "Infiltration of the Water Source (8)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "Infiltration of the Water Source",
+    "range": [
+      454,
+      464
+    ],
+    "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
+    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/461.txt",
+    "primary_source_sha": "9b820504917659b77c676c643e7c593c52d56dce",
+    "english_reference_path": "source/chapters/chapter-459.xhtml",
+    "english_reference_sha": "18c0b717139f2b919db229d85a5c19047b1fe6d0",
+    "draft_path": "manuscript/drafts/chapter-0461.md",
+    "draft_sha": "607094a86b3b80625c587f93fba35bdc0d5b00d0",
+    "qa_path": "qa/chapter-0461.md",
+    "qa_sha": "11b74c88a1078fc0ef792614d6ffc1c95ba123a2",
+    "provenance_path": "editorial/provenance/chapter-0461.json",
+    "provenance_sha": "e69bc5b4a9c8629f997aba0b8307cce489126a30"
+  },
+  "documented_limits": [
+    "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
+    "No target465 counterattack-family material imported."
+  ],
+  "corrections": [
+    "Flauros Danger Rating = S+ from Chinese, not shifted-English S."
+  ]
+}

@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Infiltration of the Water Source (1)–(11) accepted
+
+**Current state:** 464 / 500 accepted; 0 staged; next Chapter 465.
+
+Completed targets **454–464** with mapping **E452–E462**.
+
+Key decisions: Tochka's three-day water crisis motivates the mission; the suspected crater lake is dry; the Poison Human recharge facility is destroyed; Flauros is Chinese-primary **S+**; Pigi's anomaly descriptors remain unresolved; and separate reinforcement waves reach the water-source and Tochka fronts.
+
+Family QA: `qa/families/infiltration-water-source-0454-0464.md` — **PASS**.
+
+Next verified family: **465–470 — The Prelude to a Counterattack (1)–(6)**, mapping **E463–E468**.
+
 ## 2026-09-20 — Declaration of War (1)–(4) accepted
 
 **Current state:** 453 / 500 accepted; 0 staged; next Chapter 454.

@@ -1,0 +1,37 @@
+{
+  "chapter": 456,
+  "title": "Infiltration of the Water Source (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Infiltration of the Water Source",
+    "range": [
+      454,
+      464
+    ],
+    "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
+    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/456.txt",
+    "blob_sha": "6941da2728159d6f65960e802a13f9855f44f1fe",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-454.xhtml",
+    "blob_sha": "f8fac0257c77c7ae93cc59035774e01d535ae693",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0456.md",
+    "blob_sha": "5807f4d1738376457396af53cf41346bb0d4f94a"
+  },
+  "qa": {
+    "path": "qa/chapter-0456.md",
+    "blob_sha": "e5011690ee729fcf1ebe869d853779983bcc856f",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}

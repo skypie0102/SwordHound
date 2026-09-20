@@ -1,3 +1,23 @@
+## Infiltration of the Water Source additions — Chapters 454–464
+
+- **Infiltration of the Water Source** — accepted eleven-part family, targets454–464 / witnesses E452–E462.
+- **Tochka water reserve** — roughly three days even with optimistic rationing at target454.
+- **MiniPin crater-lake hypothesis** — supported by a captured nymph but proven false at target460; the crater is dry.
+- **Viscount Giuseppe Baldini** — fresh indexed Fandom form used for the rear-checkpoint officer.
+- **Tzersi infiltration alias** — Camus borrows Morgue Tzersi’s name; Seere supplies demonic scent only.
+- **Poison Human recharge facility** — paired snakes generate poison and red vapor that restores and further mutates Poison Humans.
+- **Doppelganger leech diversion** — Vikir-grown copies sabotage the recharge camp; reject local creature-label drift.
+- **Flauros** — Second Corpse true form revealed target461; Chinese-primary Danger Rating **S+**.
+- **Ouroboros** — Flauros’s Red Death-producing twin-snake spear; shaft linked to Hell Tree / Amdusias material and Abyssal Water fragments.
+- **Pigi anomaly clue** — Flauros calls Pigi a **heteromorphic body**, **closed type**, and **homogeneous anomaly**; meaning remains unresolved.
+- **Aiyen / Sadi / Black Tongue reinforcement** — sequentially enter the Flauros battle at the water-source front.
+- **D’Ordume / Souare / BDISSEM** — returning Nouvelle Vague wardens reinforcing Tochka.
+- **Flubber J. Tarbond** — acidic living organism that aggressively consumes Poison Humans; prior Sakkuth consumption is referenced.
+- **Black Tongue ambiguity** — described as having died in Nouvelle Vague yet not “completely disappeared”; do not resolve before later source timing.
+- **Marquis de Sade counterattack** — arrives with former Nouvelle Vague prisoners / Forty-Seven Riot followers and pushes toward the water-source front.
+- **The Prelude to a Counterattack** — next family targets465–470 / E463–E468.
+- **Tochka Annihilation Battle** — begins target471 / E469.
+
 ## Declaration of War additions — Chapters 450–453
 
 - **Declaration of War** — accepted four-part family, targets450–453 / witnesses E448–E451.
