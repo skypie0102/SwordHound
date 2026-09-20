@@ -16,8 +16,8 @@ Current checkpoint: **post-500 manuscript completeness audit**.
 - Latest completed audit family: **Surplus Man (314–320)** — all seven rebuilt; confirmed failures 316 and 319 resolved.
 
 Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, **Madam Eight-Legs (95–100)**, **Nostalgia (101–104)**, **Attack Land (190–196)**, **Tuition (225–233)**, **National University League (236–244)**, **Hell Tree (307–313)**, and **Surplus Man (314–320)** — rebuilt and passed
-- Pending initial-priority chapters: **12**
-- Next audit family: **Underdogma (321–325)**
+- Pending initial-priority chapters: **7**
+- Next audit family: **The Shadowless King of the Black Sea (326–330)**
 - Active audit record: `qa/manuscript-completeness-audit.md`
 - EPUB assembly is **blocked until the completeness audit closes**
 
