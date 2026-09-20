@@ -1,42 +1,34 @@
 # Chapter 85: The Illiad (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/085.txt` — `a6689c93a2c3810a0a22526f649c060fef1a6407`. Recovered English Chapter 84 is the verified shifted secondary witness. Established terminology controls **Aiyen**, **Vikir**, **Ballak Tribe**, **Mushuhushu**, **Ka'ah**, **Le Rouge et Le Noir Mountain**, **Beelzebub**, **Incinerate — Cerberus (A+)**, **Kilogram Hammer — Oxbear (A)**, **Sixth Fang**, **Silent Heel**, **Ahun**, **Aheul**, **Bakira**, **Adolf Morgue**, and **Ah'Heman**.
+> Chinese-primary reconstruction from `source/chinese/chapters/085.txt`. Recovered English Chapter 84 is the verified shifted secondary witness. Established terminology controls **Aiyen**, **Vikir**, **Ballak Tribe**, **Mushuhushu**, **Ka'ah**, **Le Rouge et Le Noir Mountain**, **Beelzebub**, **Incinerate — Cerberus (A+)**, **Silent Heel — Mushuhushu (A+)**, **Kilogram Hammer — Oxbear (A)**, **Sixth Fang**, **Ahun**, **Aheul**, **Bakira**, **Adolf Morgue**, and **Ah'Heman**.
 
-Several days had passed since Vikir returned to Ballak.
+Several days had passed since Vikir returned to the Ballak village.
 
-The Red Death was gone.
+The Red Death had been completely eradicated, but its aftereffects had not disappeared with it.
 
-Its aftermath was not.
+Many people had been left weak by dehydration, diarrhea, and the other damage caused by the plague. Now that the terror of infection was gone, what the patients needed most was nourishing food and time to recover.
 
-Dehydration.
-
-Diarrhea.
-
-Weakness.
-
-People who had survived the plague still needed food and rest.
-
-Those who had avoided infection hunted constantly for their families and friends.
+So the warriors who had escaped infection went out hunting as often as they could for their families and friends.
 
 Vikir and Aiyen were among them.
 
-“……There.”
+“…Shh. Found it.”
 
-Aiyen spotted the prey first.
+Aiyen's sharp eyes spotted their prey first.
 
-Two years earlier, she would point into the jungle and Vikir would have to ask where she meant.
+Vikir followed her gaze and found it almost at once.
 
-Now his senses had sharpened enough that he found the same target almost immediately.
+Two years ago, Aiyen could point into the jungle and say, “Look over there,” only for Vikir to answer, “Where? I can't see it.”
 
-A huge snake lay across a branch, swallowing a jaguar whole.
+Now his senses had sharpened enough that he could locate prey almost as accurately as she could.
 
-Flat head.
+And the creature they were watching was one they had encountered before.
 
-Enormous mouth.
+Gulp. Gulp. Gulp.
 
-Rows of sharp teeth.
+A gigantic python lay coiled across a tree branch, swallowing a large jaguar.
 
-Vikir knew it.
+Its mouth opened almost eel-wide beneath an unnaturally flat head lined with vicious teeth.
 
 > **Mushuhushu**  
 > **Danger Rating:** A+  
@@ -44,265 +36,265 @@ Vikir knew it.
 > **Found at:** Le Rouge et Le Noir Mountain, 8th Ridge  
 > **Accepted alias:** ‘Nation-Swallowing Snake’
 
-Its elongated body looked almost like a mass of intestines.
+Its entire long body looked like one enormous mass of intestine.
 
-Old legends said the species could swallow an elephant whole.
+A Mushuhushu could open its jaws wide enough to swallow an elephant whole, and legends claimed the oldest giants of the species had devoured entire countries.
 
-The greatest specimens were said to consume entire countries.
+It also moved without sound, whether slithering over land or swimming through water.
 
-They moved over land and through water without sound.
+At a glance, its grotesque bulk hardly looked like a snake at all.
 
-This individual was not average.
+This particular old specimen was extraordinary even by Mushuhushu standards.
 
-“Ka'ah.”
+It was roughly forty meters long, weighed more than five tons, and its midsection was nearly three meters across.
 
-Aiyen watched it carefully.
+Ordinary individuals usually stopped growing somewhere around twenty-five to thirty meters.
 
-“Rival of Gustav, the giant lizard in the distant swamp.”
+Aiyen studied it carefully.
 
-Ka'ah had grown to roughly forty meters.
+“This one's called Ka'ah. Its rival is Gustav, the giant lizard that lives in the distant swamp. There isn't another monster around here that can stand against it.”
 
-More than five tons.
+She had good reason to be cautious.
 
-Its middle was almost three meters thick.
+Ka'ah's size alone made it one of the rulers of the region. Combined with natural camouflage and the species' completely silent movement, it could approach prey with absurd stealth despite its enormous body.
 
-Ordinary Mushuhushu usually stopped growing around twenty-five to thirty meters.
+But today it had met enemies that knew it.
 
-This old monster ruled the region.
+Vikir bared his fangs at the serpent.
 
-It had attacked Ballak during the rainy season.
+“It's been a while. Time to repay what happened during the rainy season.”
 
-Back then, the flood itself had carried it away before Vikir could finish the fight.
+Ka'ah had attacked the Ballak village before.
 
-Vikir drew his bow.
+On a night of torrential rain, it had ridden the swollen river into the settlement and fallen upon the Ballak warriors.
 
-“Time to repay that debt.”
+Vikir had even fought it with a Baskerville battle-axe, but the flood had prevented either side from finishing the fight. In the end he had only driven it away while the current swept the monster downstream.
 
-Aiyen pointed toward the snake's swollen middle.
+“The water's gone down now, so it came back to its territory,” Aiyen said. “Looks like it's recovered quite a bit too. Look at its belly.”
 
-Ka'ah had already swallowed several animals.
+She pointed toward the middle of Ka'ah's body.
 
-“If we kill it, we get the snake.”
+The jaguar it had just swallowed was not alone in there.
 
-She grinned.
-
-“And everything inside it.”
-
-The half-digested meat would be soft enough for recovering patients.
-
-Vikir nodded.
-
-“Agreed.”
+Several other bulges rose along its length like beads on a pearl necklace. Ka'ah had clearly swallowed more beasts before they arrived.
 
 Aiyen drew her bow.
 
-Her weapon was built for monstrous strength.
+“If we kill it, we get the meat from everything in its stomach too. It should already be tender enough for the patients to eat.”
 
-Five strings.
+“I was thinking the same thing.”
 
-Up to ten arrows at once.
+Vikir nocked an arrow of his own.
 
-Hundreds of kilograms of draw force.
+As she drew, Aiyen continued teaching him.
 
-“Archery needs more arm strength than people think.”
+“Drawing a bow takes tremendous arm strength.”
 
-Then she released.
+That was obvious once one considered the tension in the string.
 
-WHIP-WHIP-WHIP.
+In practice, a powerful archer needed even greater arm strength than many warriors who fought with clubs or other blunt weapons.
 
-Aura-laden arrows struck Ka'ah's neck.
+Aiyen's bow in particular was monstrous. Drawing it required the strength of roughly five ordinary people, and she could nock as many as ten arrows at once.
 
-[SSSSKRAAAH!]
+The force needed to pull it fully amounted to hundreds of kilograms.
 
-The serpent lunged.
+It was far harder than merely swinging an ordinary sword or hammer.
 
-Vikir met it.
+A moment later—
 
-Beelzebub extended from his wrist.
+Fwoosh! Fwoosh! Fwoosh!
 
-He cut beneath the jaw.
+Arrows wrapped in aura streaked toward Ka'ah's neck.
 
-CRACK.
+[…Hiss! KRAAAH!]
 
-Scales split.
+By the time the serpent noticed the attack, the arrows were already buried deep in its throat.
+
+Vikir drew Beelzebub.
+
+Ka'ah immediately closed the distance and went for Aiyen, exactly as Vikir had expected.
+
+He kept shooting as the monster rushed in, then stepped inside its reach and slashed beneath its jaw.
+
+Crack!
+
+The hard scales split apart.
 
 Blood sprayed.
 
-Dense High Sword Graduator aura flowed around the blade like thick blood.
+Vikir's aura had reached the High Sword Graduator level, dense and viscous enough that its dark-red flow was almost indistinguishable from blood.
 
-Ka'ah thrashed through the jungle.
+Ka'ah thrashed through the jungle, smashing vegetation and terrain around itself, while Vikir slipped through the destruction and kept driving his blade into the wounds.
 
-Vikir stayed inside its reach.
+Then Ka'ah began to retch.
 
-Then the snake began retching.
+[Hrrk! Ghhk!]
 
-He understood immediately.
+It was trying to vomit something up.
 
-“It wants to empty its stomach.”
+Vikir understood immediately.
 
-Large serpent-type monsters could remain still for months after feeding.
+*It's trying to empty its stomach and recover its mobility.*
 
-If forced to flee, they sometimes expelled their meals to reduce weight and regain mobility.
+That was a common survival pattern among giant serpent-type monsters.
 
-Ka'ah had gone hungry after losing its territory in the floods.
+After swallowing a huge meal, they might spend months nearly motionless while digesting it. If they suddenly needed to flee during that period, they would disgorge the contents of their stomach to shed weight.
 
-Now it had been gorging itself to recover.
+Ka'ah had lost its territory during the rainy-season flood and had spent considerable energy being swept downstream and fighting Vikir.
 
-Its stomach contained nearly two tons of food.
+It must have gone hungry for some time afterward.
 
-Aiyen smiled.
+Now that it had returned, it was gorging itself to restore that lost strength.
+
+And a full stomach made it slow.
+
+[Ghhk! Hrrrgh!]
+
+Ka'ah tried to force the enormous mass of meat back up its throat.
+
+If it succeeded, it could lose nearly two tons at once.
+
+But—
 
 “Not happening.”
 
-Her arrows struck through gaps Vikir had opened in the scales.
+Aiyen's arrows stopped the attempt.
 
-They pierced the jaguar corpse lodged in Ka'ah's esophagus.
+She fired repeatedly into the area around Ka'ah's throat.
 
-Again.
+Her target was the jaguar it had swallowed moments earlier.
 
-Again.
+The arrows slipped through the gaps Vikir had opened in the scales, pierced the thick flesh beneath, and drove into the jaguar lodged inside its esophagus.
 
-Again.
+One after another, the shafts pinned the carcass in place like giant nails.
 
-The carcass became pinned in place.
+The other bodies Ka'ah tried to vomit up piled against the trapped jaguar and could go no farther.
 
-Everything behind it jammed.
+Instead of emptying its stomach, the serpent's neck swelled grotesquely.
 
-Ka'ah's neck swelled grotesquely.
+Its movements became even more awkward. The distended neck and expanded ribs rose around its head almost like a cobra's hood, narrowing its field of vision.
 
-Its movement became worse.
+For Vikir, who had been waiting for a clear shot at the back of its neck and the vulnerable scales beneath its jaw, it was the perfect opening.
 
-Its vision narrowed.
+Crack!
 
-Vikir moved for the back of the neck.
+Beelzebub drove into the end of Ka'ah's spine and severed the nerves connecting it to the brain.
 
-Beelzebub cut through flesh and reached the spinal connection beneath the skull.
+Cerebrospinal fluid, marrow, and blood burst from the wound.
 
-Blood.
+**Baskerville Sixth Fang — Carnivorous.**
 
-Bone marrow.
+Six hidden fangs sank relentlessly into Ka'ah.
 
-Cerebrospinal fluid.
+Thud! Thud! Thud!
 
-All burst from the wound.
+Vikir kept widening the wound.
 
-Six Fangs followed.
+He tore flesh apart.
 
-The Baskerville predatory technique tore deeper.
+Shattered bone.
 
-Aiyen continued shooting from behind.
+Severed every nerve fiber he could reach.
 
-Several arrows struck the serpent's reproductive organs.
+And behind the serpent, Aiyen never stopped firing.
 
-She laughed.
+Fwoosh!
 
-“Not bad, right?”
+Several arrows buried themselves in Ka'ah's reproductive organs.
 
-Vikir almost laughed despite himself.
+“How's that? Your big sis did pretty well, right?”
 
-Then—
+“…”
 
-BOOM.
+Even in the middle of a life-or-death hunt, Aiyen could still grin like that.
 
-Ka'ah collapsed.
+Vikir almost laughed.
 
-The old ruler of the area was dead.
+Not long afterward—
+
+BOOM!
+
+Ka'ah's enormous body crashed to the ground.
+
+The old Mushuhushu that had ruled this stretch of jungle lay dead.
+
+It had been a long time since Ballak brought home a prize this large.
 
 ◆◆◆
 
-Ballak held a feast.
+The Ballak warriors gathered for a feast.
 
-Not for celebration alone.
+It was less a celebration than a recovery effort.
 
-The recovering sick needed nutrition.
+Everyone had been doing what they could to rebuild the strength of the people weakened by the Red Death.
 
-Fish fattened by the rainy season.
+Eels, salmon, carp, and other fish fattened by the rainy season went into great pots. So did giant crabs and old turtles from the salt region, along with nutritious mushrooms, roots, fruits, and whatever else the hunters and gatherers could find.
 
-Eels.
+Until now, the Oxbear subspecies Ahun had caught two days earlier had been the village's greatest haul.
 
-Salmon.
+Then Vikir and Aiyen returned with Bakira and the corpse of Ka'ah.
 
-Carp.
+The balance changed instantly.
 
-Large crabs.
+Ahun slapped Vikir on the back and laughed.
 
-Old turtles.
+“No matter how hard I try, I can't beat you! Hahaha!”
 
-Mushrooms.
+It took nearly every available Ballak warrior and wolf just to haul the giant Mushuhushu into the village.
 
-Roots.
+The old ruler of the region was butchered piece by piece.
 
-Fruit.
+The meat was roasted, smoked, steamed, and stir-fried.
 
-Everything went into pots.
+The bones were boiled down into broth, medicine, and other useful materials.
 
-Ahun's recent Oxbear subadult had been the largest haul.
+The blood and organs went into soup.
 
-Then Vikir, Aiyen, and Bakira returned with Ka'ah.
+Rich snake meat, fried in oil or roasted until crisp, quickly helped restore strength to people who had barely been able to eat days earlier.
 
-Ahun slapped Vikir's back.
+Even the meat recovered from Ka'ah's stomach had been tenderized enough that the weaker patients could eat it easily.
 
-“No matter what I bring home, you beat me!”
+People thanked Vikir and looked at him with growing respect.
 
-It took the whole tribe and its wolves to move the carcass.
+Vikir, however, was thinking about something else.
 
-Ka'ah was butchered completely.
+*I'm glad we caught Mushuhushu. This paid off even better than I expected.*
 
-Meat roasted, smoked, steamed, and fried.
+He had hit the jackpot.
 
-Bones became broth and medicine.
+One of the three beads set into Beelzebub now glowed with Ka'ah's soul.
 
-Blood and organs became soup.
-
-Even the animals recovered from its stomach were tender enough for weak patients.
-
-While everyone ate, Vikir looked at Beelzebub.
-
-One of its three beads had changed.
-
-> **The Fly of Gluttony ‘Beelzebub’ / Awl**  
+> **Fly of Gluttony ‘Beelzebub’ / Awl**  
 > **Slot 1:** Incinerate — Cerberus (A+)  
 > **Slot 2:** Silent Heel — Mushuhushu (A+)  
 > **Slot 3:** Kilogram Hammer — Oxbear (A)
 
 Ka'ah's ability had entered the weapon.
 
-**Silent Heel.**
+The passive skill Vikir received was **Silent Heel**, reproducing the Mushuhushu's ability to move without making a sound.
 
-The passive reproduced the serpent's silent movement.
+“…Silent Heel.”
 
-Even ordinary steps became almost noiseless.
+Even an ordinary step could now land as quietly as if he were deliberately creeping on tiptoe.
 
-Useful for jungle movement.
+It would be tremendously useful whenever stealth mattered—during floods, hunts, assassinations, infiltration, ambushes, and even a direct duel where an opponent relied on sound.
 
-Tracking.
+Now that Vikir had also learned archery, the value of the skill was even greater.
 
-Stealth.
+*It's similar to the sound-erasing magic Adolf used.*
 
-Ambush.
+Years earlier, when Adolf Morgue attacked the Ballak hunting party to retrieve Camus, that sound-nullifying spell had been extremely effective.
 
-Assassination.
+Vikir watched the bead near Beelzebub's hilt glow red with Mushuhushu's soul and nodded.
 
-Archery.
+Then a shout drew everyone's attention.
 
-Vikir remembered Adolf Morgue using sound-erasing magic during the Ballak clash years earlier.
+“The shaman has finished his ritual!”
 
-This achieved something similar without spellcasting.
+The sentry's cry immediately tightened the mood throughout the village.
 
-He nodded.
+When the Red Death first broke out, Ah'Heman had shut himself inside the altar and claimed he would cure the disease through ritual.
 
-A useful acquisition.
-
-Then a sentry shouted.
-
-“The shaman's ritual is over!”
-
-Conversation died.
-
-Ah'Heman had shut himself inside the altar when the Red Death began, claiming he would cure the tribe through ritual.
-
-Now—
-
-after everyone had already been cured—
+Now, after everyone had already recovered—
 
 he had finally come out.
