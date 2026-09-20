@@ -43,14 +43,20 @@ There is no standalone `055.txt`, but accepted Chapter 54/55 boundary QA and pro
 - target55's opening/title boundary is missing from Chinese and restored from E55;
 - most of target55's body survives in `054.txt` and remains Chinese-primary where it overlaps.
 
-`source/chinese/chapter-exceptions.tsv` already records this correctly. Source-policy docs are being reconciled to it.
+`source/chinese/chapter-exceptions.tsv` records this correctly, and the live source-policy/workflow docs have now been reconciled to it.
 
 ## Branch / PR state
 
 - Final reconstruction PR #125: **MERGED**.
-- Active audit branch: `audit/post500-manuscript-completeness`.
-- Corrective PR: **#126 — Reopen post-500 manuscript completeness audit**.
+- Audit branch: `audit/post500-manuscript-completeness` — merged.
+- Corrective PR #126, **Reopen post-500 manuscript completeness audit**: **MERGED**.
 - Audit evidence: `qa/manuscript-completeness-audit.md`.
+
+## Files updated in the audit reset
+
+Live state/policy: `README.md`, `HANDOFF.md`, `PROJECT_STATE.md`, `PROGRESS.md`, `AGENTS.md`, `editorial/SOURCES.md`, `editorial/WORKFLOW.md`, `editorial/chapter-tracker.json`, `editorial/reconstruction-status.json`, and `source/chinese/README.md`.
+
+Audit/evidence: new `qa/manuscript-completeness-audit.md`; acceptance/provenance/chapter-QA records for 97, 316, 319, and 420; family QA for Madam Eight-Legs, Surplus Man, and Goodbye Nouvelle Vague.
 
 ## Exact next actions
 
