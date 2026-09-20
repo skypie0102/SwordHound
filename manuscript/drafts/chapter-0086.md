@@ -1,210 +1,218 @@
 # Chapter 86: The Illiad (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/086.txt` — `6be93c9b02e7bbe160e0db039580024f1fa1811a`. Recovered English Chapter 85 is the verified shifted secondary witness. Established terminology controls **Ah'Heman**, **Ballak Tribe**, **Leviathan Clan**, **Bourgeois Clan**, **Red Death**, **Aiyen**, **Aheul**, **Akwilla**, **Night Fox**, **Vikir**, and **Quovadis**.
+> Chinese-primary reconstruction from `source/chinese/chapters/086.txt`. Recovered English Chapter 85 is the verified shifted secondary witness. Established terminology controls **Ah'Heman**, **Ballak Tribe**, **Leviathan Clan**, **Bourgeois Clan**, **Red Death**, **Aiyen**, **Aheul**, **Akwilla**, **Night Fox**, **Vikir**, and **Quovadis**.
 
-Ah'Heman descended from the altar.
+Ah'Heman stepped down from the altar after finishing his long ritual.
 
-Days of continuous ritual had soaked him in sweat.
+Several days of uninterrupted ceremonies had left his entire body drenched in sweat.
 
-He looked toward Ballak village.
+When he descended and saw the village seemingly deserted, a smile spread across his face.
 
-Empty.
+*…Looks like everyone caught the plague.*
 
-The old shaman smiled.
+In truth, Ah'Heman had known from the beginning that the Red Death would break out among the Ballak.
 
-*They must all be sick by now.*
+There was nothing mysterious about that.
 
-He had known the Red Death was coming.
+The Leviathan Clan had been the ones to release the Red Death in the jungle—
 
-Of course he had.
+and Ah'Heman himself had helped them do it.
 
-He had helped release it.
+He had been colluding with people outside the tribe for a long time.
 
-Ah'Heman had secretly dealt with the outside world for years.
+Sometimes he helped Leviathan test new medicines or poisons on unsuspecting natives.
 
-Leviathan used unsuspecting jungle natives to test new medicines and poisons.
+Sometimes he helped Bourgeois merchants make enormous profits through unfair trade.
 
-Bourgeois merchants profited from unfair trade.
+In return, Leviathan supplied him with new poisons and new medicines.
 
-Ah'Heman helped both.
+Those supplies strengthened his authority as the tribe's shaman.
 
-In return, Leviathan supplied him with medicines and poisons.
+The principle was simple.
 
-Those tools strengthened his authority.
+Secretly poison someone.
 
-The method was simple.
+Then cure the poison with medicine and earn the victim's trust.
 
-Poison someone secretly.
+Give them sickness.
 
-Wait.
+Then give them medicine.
 
-Then arrive with the cure.
+If someone refused to obey him, Ah'Heman could quietly poison that person and make them collapse.
 
-A sickness.
+And in a tightly connected society like Ballak, one sick person meant suffering for an entire circle of family and friends.
 
-A medicine.
+Ah'Heman would wait until the patient's life seemed to be in danger.
 
-A miracle.
+Only then would he appear.
 
-If someone ignored his authority, they became ill.
+Once his medicine cured the patient, not only the victim but their relatives and friends would become devoted believers in the shaman who had “saved” them.
 
-Their family panicked.
+They would bow before his authority.
 
-Their friends suffered.
+Recently, however, Ah'Heman had felt that authority slipping away.
 
-Only when everyone was desperate did Ah'Heman appear.
+The chieftain's daughter Aiyen and the rest of the younger generation had grown up without experiencing serious disease or poisoning.
 
-He performed a ritual.
+They did not fear the shaman.
 
-Administered medicine.
+They did not respect his authority the way their elders did.
 
-The patient recovered.
+The situation became even worse after the Imperial outsider arrived.
 
-And an entire family learned to fear and worship the shaman.
+Young warriors began going hunting without first receiving Ah'Heman's blessings.
 
-For years, it worked.
+They treated ceremonies that had once been compulsory as pointless superstition.
 
-Then the young generation stopped believing.
+Then Leviathan made him an irresistible proposal.
 
-Aiyen.
+> *We intend to conduct a large-scale plague experiment in the flood-stricken region.*
 
-Ahun.
+Ah'Heman had swallowed hard as the black-robed Leviathan messenger explained the plan.
 
-Other warriors who had grown up healthy.
+The messenger gave him the Red Death pathogen—
 
-They hunted without blessings.
+and what Ah'Heman believed was its antidote.
 
-Skipped rituals.
+Release the plague at the proper time.
 
-Called old practices superstition.
+Then release the antidote at the proper time.
 
-Then Vikir arrived.
+Leviathan intended to use the experiment to control the population of the local peoples and collect clinicopathological data for new areas of research.
 
-Ah'Heman's influence collapsed faster.
+Ah'Heman, meanwhile, saw a way to restore the authority he had been losing.
 
-That was when Leviathan made its proposal.
+So, without anyone knowing, he released the Red Death into the river.
 
-*A large-scale plague trial.*
+Countless people became infected.
 
-A black-robed messenger gave Ah'Heman the Red Death pathogen.
+His plan was to wait until everyone stood on the edge between life and death, then emerge at exactly the right moment, administer the antidote, and resolve the catastrophe.
 
-And what Ah'Heman believed was the antidote.
+After that, he could enjoy authority comparable to the chieftain's.
 
-Release the disease at the correct time.
+Even the arrogant young warriors who had looked down on him would be forced to regard him with awe and respect.
 
-Release the cure later.
+*…I even infected my own granddaughter, just in case.*
 
-Leviathan wanted clinical data.
+He had deliberately allowed Aheul to become sick as well.
 
-Population control.
+If his own granddaughter suffered with everyone else, no one would suspect that he had staged the entire epidemic himself.
 
-A new field of poison research.
+To Ah'Heman, the plan had been perfect.
 
-Ah'Heman wanted his authority back.
+…Or it should have been.
 
-So he contaminated the river.
+When he reached the center of the village, confusion replaced his satisfaction.
 
-People began dying.
+It was too empty.
 
-His plan was to wait until the jungle reached the edge of despair.
+The patients, their families, and their friends should have been desperate.
 
-Then emerge as savior.
+They should have been clinging to the last hope offered by their shaman.
 
-Even Aheul had been infected deliberately.
+Yet not a single person had come to greet him.
 
-His own granddaughter.
+*Did they all die already?*
 
-If she became sick too, no one could accuse him of protecting his family or staging the outbreak.
+Ah'Heman frowned.
 
-To Ah'Heman, that made the plan perfect.
+Had the Red Death turned out stronger than expected and wiped out the Ballak before he could intervene?
 
-◆◆◆
+That would be disastrous.
 
-The village was too empty.
+They were supposed to suffer until they were nearly dead—
 
-That part was wrong.
+not actually die.
 
-Where were the desperate families?
+A corpse could not become a follower.
 
-Where were the people waiting at his altar?
+With the pouch of Leviathan's supposed antidote hanging at his waist, Ah'Heman hurried across the village square.
 
-Had the plague killed everyone?
+Every tent he passed was empty.
 
-That would ruin everything.
+Only frogs croaked from a dried-out pool.
 
-Followers had to survive.
+Then he stopped.
 
-Ah'Heman hurried across the village with the supposed antidote tied at his waist.
+Smoke was rising from one corner of the settlement.
 
-Empty shelter.
+And beneath it—
 
-Empty platform.
+every familiar face in Ballak had gathered together.
 
-Empty path.
-
-Then he saw smoke.
-
-A feast.
-
-Everyone was there.
-
-Alive.
+The entire tribe was there.
 
 Laughing.
 
-Eating.
+Talking loudly.
 
-Ah'Heman stopped.
+Tearing pieces from piles of food.
 
-“……What?”
+“???”
 
-He rubbed his eyes.
+Ah'Heman's mouth fell open.
 
-Nothing changed.
+How?
 
-At the largest pot stood Aheul.
+How could they possibly look so healthy?
 
-His granddaughter.
+Before entering the altar, he had seen them suffering from the Red Death with his own eyes.
 
-Healthy.
+He rubbed his eyes with the back of his hand.
 
-Stirring soup.
+The scene did not change.
 
-Ah'Heman turned and ran.
+Worse—
 
-He crossed the village boundary and headed directly for the water source where he had released the Red Death.
+the woman standing beside the largest pot, stirring soup, was his own granddaughter Aheul.
 
-The water was clear.
+Completely recovered.
 
-Carp moved upstream.
+Ah'Heman stared at her in disbelief, then abruptly turned away.
 
-Monkeys played in the trees.
+He ran.
 
-Children from other tribes caught fish.
+Crossing the village boundary at full speed, he headed for the water source where he had originally released the Red Death.
 
-No plague.
+“…Hah… Hah!”
 
-No bodies.
+He moved like the wind and reached the pool in moments.
 
-No death.
+Then he froze again.
 
-“This is impossible!”
+The water that should have been contaminated by the plague was flowing clear.
 
-He pulled at his hair.
+White salt still covered the sandbar.
 
-Then a voice came from behind him.
+Carp swam upstream exactly as before.
 
-“Surprised everyone's alive?”
+Monkeys that should have died from infection were playing in the trees.
 
-Ah'Heman spun.
+Children from other tribes had come to catch fish and looked perfectly healthy.
 
-Vikir stood there.
+There was no trace of death anywhere.
 
-Red eyes fixed on him.
+“Th-this can't be! How…!?”
+
+Ah'Heman clutched at his hair.
+
+Then—
+
+“Why? Are you surprised everyone's still alive?”
+
+The words stabbed directly into him.
+
+Ah'Heman jolted and spun around.
+
+A boy stood behind him.
+
+Vikir.
+
+Red eyes fixed steadily on the old shaman.
 
 ◆◆◆
 
-Ballak warriors emerged from hiding.
+Vikir had led the Ballak warriors here in advance.
 
 Aiyen.
 
@@ -212,72 +220,100 @@ Ahun.
 
 Young hunters.
 
+Veterans.
+
 Elders.
 
-All of them.
+They had all been waiting.
 
-Vikir had predicted Ah'Heman's movements.
+Aiyen remembered exactly what Vikir had told them.
 
-“When the ritual ends, he'll check the village.”
+> *As soon as Ah'Heman finishes his ritual, he'll check the condition of the villagers. Once he learns that everyone has recovered, he'll come straight here.*
 
-“And when he sees everyone cured, he'll come straight to the original water source.”
+Why?
 
-Because Ah'Heman had caused the outbreak.
+Because he was the culprit who had spread the Red Death through the jungle in the first place.
 
-Before regression, Vikir had heard the history.
+Before his regression, Vikir had heard about Ah'Heman's crimes.
 
-He had forgotten the traitor's name.
+He no longer remembered the traitor's name, but he remembered the essential story.
 
-But he remembered the essential fact.
+There had been an internal collaborator among the Ballak who helped spread the Red Death.
 
-An old Ballak shaman had collaborated with outsiders and spread the Red Death.
+That collaborator had been an old man serving as a shaman.
 
-In that timeline, nearly half the mountain peoples had died.
+*Back then, half the enemy forces and half the natives of the Black Mountain region died because of it.*
 
-Ah'Heman waited too long before trying to play savior.
+Driven by greed, Ah'Heman had waited for the plague to reach its worst point.
 
-The epidemic escaped his control.
+His intention had been to appear at the perfect moment and become the savior of the entire jungle.
 
-The dead became an Imperial historical statistic.
+But he had misjudged the timing.
 
-Ordinary people had paid for the ambition of powerful men.
+The epidemic spread beyond his ability to control.
 
-Ah'Heman stared at the surrounding warriors.
+Patients died one after another.
 
-No one looked grateful.
+The resulting catastrophe became terrible enough to be recorded in Imperial history.
 
-No one looked afraid.
+And the people who died because of schemes between powerful families and ambitious men were ordinary, powerless civilians.
 
-They looked cold.
+Poisons and medicines could be part of a shaman's traditional means of control.
 
-Then Akwilla stepped forward.
+But Ah'Heman had crossed that line.
 
-The Night Fox held an official document.
+Far beyond it.
 
-She had obtained it from the Imperial side the previous night.
+“…What?”
 
-“Quovadis has declared holy war against Leviathan.”
+Ah'Heman glared warily at Vikir but did not move.
 
-Ah'Heman paled.
+By then the Ballak warriors had already surrounded him.
 
-“The charge is the artificial development and release of the Red Death.”
+Young and old alike stared at the shaman with cold eyes.
 
-She raised the document.
+Ah'Heman had expected to emerge from his ritual and be greeted with reverence.
 
-“This demands an investigation into the outbreak.”
+Instead, he was surrounded by contempt.
 
-“What does that have to do with me?”
+The difference was enough to drive him mad.
 
-Akwilla's eyes narrowed.
+*How did they cure the plague?*
 
-“Why did a plague developed by Leviathan appear here?”
+He could not understand it.
 
-“I don't know! I've been inside the altar performing rites for the tribe!”
+Then someone stepped through the ring of warriors.
 
-Akwilla lifted one hand.
+The blood drained from Ah'Heman's face as soon as he recognized her.
 
-“Enough.”
+Akwilla.
 
-She exchanged a glance with Vikir.
+The chieftain of Ballak.
 
-“Show me the bag at your waist.”
+The **Night Fox**.
+
+She looked down at him with sharp eyes.
+
+In her hand was an official document she had personally obtained from Imperial territory the previous night.
+
+“Holy House Quovadis has declared war on the Leviathan Clan,” Akwilla said. “The stated reason is that Leviathan artificially developed and spread a plague called the Red Death. This declaration demands that the truth behind the Red Death incident be investigated.”
+
+“R-really? But what does that have to do with me…?”
+
+“Shaman. Don't you find it strange?”
+
+Akwilla's gaze hardened.
+
+“Why would a plague researched by Leviathan appear here?”
+
+“I-I don't know. I was inside the altar this entire time, performing rituals for the recovery of the tribe. I only just came out…”
+
+Akwilla raised one hand and cut him off.
+
+Then she exchanged a glance with Vikir beside her.
+
+“None of that matters right now.”
+
+Her eyes dropped to Ah'Heman's waist.
+
+“I want to see what's inside that pouch.”
