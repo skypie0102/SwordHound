@@ -29,7 +29,7 @@ The next pending family is **Hell Tree (307–313)**. It is followed immediately
 ## Branch / PR state
 
 - Working branch: `audit/national-university-league-236-244-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #133, **Rebuild National University League Chapters 236–244 for completeness**: OPEN.
 - Tuition completeness PR #132: merged.
 
 ## Exact next actions
