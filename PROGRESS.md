@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Lion King (1)–(4) accepted
+
+**Current state:** 433 / 500 accepted; 0 staged; next Chapter 434.
+
+Completed targets **430–433** with mapping **E428–E431**.
+
+Key decisions: Cervantes self-kills before Chimeries can possess him; Gungnir chooses Tudor; Chimeries shifts from Cervantes to Tudor and induces recklessness; Amdusias is only an S+ thought-remnant; and the final Vikir figure exists only in the copied inner-world trap.
+
+Family QA: `qa/families/lion-king-0430-0433.md` — **PASS**.
+
+Next verified family: **434–436 — The Returned Hound (1)–(3)**, mapping **E432–E434**.
+
 ## 2026-09-20 — The Night Walkers (1)–(5) accepted
 
 **Current state:** 429 / 500 accepted; 0 staged; next Chapter 430.
