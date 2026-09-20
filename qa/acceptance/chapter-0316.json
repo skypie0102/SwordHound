@@ -1,8 +1,7 @@
 {
   "chapter": 316,
   "title": "Surplus Man (3)",
-  "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted": false,
   "review_mode": "chinese_primary_shifted_english_alignment",
   "title_family": {
     "name": "Surplus Man",
@@ -12,7 +11,7 @@
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
     "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "pass"
+    "status": "reopened_for_completeness_audit"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/316.txt",
@@ -29,5 +28,13 @@
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Underdogma material from target321 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19"
+  },
+  "status": "needs_rework",
+  "reopened_date": "2026-09-20",
+  "reopen_reason": "Direct Chinese/draft comparison confirms extended survivor dialogue, voting discussion, social dynamics, and transitions were collapsed into terse summary fragments.",
+  "superseded_by": "qa/manuscript-completeness-audit.md"
 }
