@@ -9,7 +9,7 @@
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
 **Confirmed new failures:** none yet; substantive Cycle-2 review has not started  
-**Current phase:** Phase 0 — baseline freeze and audit inventory  
+**Current phase:** Phase 0 COMPLETE — Phase 1 sanitization sweep ready  
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -21,6 +21,19 @@ The immediate project focus is a fresh, exhaustive **sanitization + completeness
 The 2026-09-20 post-500 completeness audit remains a closed historical cycle. It found and repaired major compression failures, including Chapters 59, 97, 316, 319, and 420, and ended with 500 accepted / 0 known rework.
 
 Cycle 2 is stricter in scope: every target chapter must now be freshly reviewed rather than only anomaly-prioritized or residual low-tail families.
+
+## Phase 0 result
+
+Phase 0 completed successfully against opening main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`.
+
+- 500 targets and 118 title-family units inventoried.
+- 36 source-exception rows reconciled.
+- 500 draft / 500 chapter QA / 500 provenance / 500 acceptance paths verified.
+- 0 acceptance-SHA mismatches and 0 missing evidence paths.
+- 31 deterministic diagnostic files cover all 500 chapters with no gaps or overlaps.
+- No accepted manuscript/evidence content changed during baseline capture.
+
+Phase 1 begins with **Hellhound (1–3)**.
 
 ## Required gates
 
