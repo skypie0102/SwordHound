@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 489,
+  "accepted_count": 493,
   "staged_count": 0,
-  "next_chapter": 490,
+  "next_chapter": 494,
   "active_title_family": {
-    "name": "Running Hound(s)",
+    "name": "The Day After the Apocalypse",
     "range": [
-      490,
-      493
+      494,
+      495
     ],
-    "boundary_status": "verified complete: target490→E488 through target493→E491",
-    "following_family_starts": 494,
-    "following_title": "The Day After the Apocalypse (1)",
-    "alignment_note": "490→E488 through 493→E491; 494→E492 begins The Day After the Apocalypse (1)."
+    "boundary_status": "verified complete: target494→E492, target495→E493; target496 begins Side Story 1 in shared raw 495.txt",
+    "following_family_starts": 496,
+    "following_title": "Side Story 1",
+    "alignment_note": "494→E492, 495→E493; target496 has no English MTL and uses the second segment of shared Chinese raw 495.txt."
   },
   "chapters": [
     {
@@ -6861,6 +6861,62 @@
       "acceptance": "qa/acceptance/chapter-0489.json",
       "acceptance_sha": "5831e92fd95f9ace60ac508bd905b0ac811eb735",
       "family_qa": "qa/families/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 490,
+      "title": "Running Hound (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/490.txt",
+      "english_mtl_reference": "source/chapters/chapter-488.xhtml",
+      "draft": "manuscript/drafts/chapter-0490.md",
+      "qa": "qa/chapter-0490.md",
+      "provenance": "editorial/provenance/chapter-0490.json",
+      "acceptance": "qa/acceptance/chapter-0490.json",
+      "acceptance_sha": "4fd2bb4d0bad78d3be86ec18337c60087a6804b0",
+      "family_qa": "qa/families/running-hounds-0490-0493.md"
+    },
+    {
+      "chapter": 491,
+      "title": "Running Hounds (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/491.txt",
+      "english_mtl_reference": "source/chapters/chapter-489.xhtml",
+      "draft": "manuscript/drafts/chapter-0491.md",
+      "qa": "qa/chapter-0491.md",
+      "provenance": "editorial/provenance/chapter-0491.json",
+      "acceptance": "qa/acceptance/chapter-0491.json",
+      "acceptance_sha": "1a2a0749029b5d309b9c51571d7f25393027fdae",
+      "family_qa": "qa/families/running-hounds-0490-0493.md"
+    },
+    {
+      "chapter": 492,
+      "title": "Running Hounds (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/492.txt",
+      "english_mtl_reference": "source/chapters/chapter-490.xhtml",
+      "draft": "manuscript/drafts/chapter-0492.md",
+      "qa": "qa/chapter-0492.md",
+      "provenance": "editorial/provenance/chapter-0492.json",
+      "acceptance": "qa/acceptance/chapter-0492.json",
+      "acceptance_sha": "5cbd01045fc3e3f5fc1f3097bdae9c4a5743517a",
+      "family_qa": "qa/families/running-hounds-0490-0493.md"
+    },
+    {
+      "chapter": 493,
+      "title": "Running Hounds (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/493.txt",
+      "english_mtl_reference": "source/chapters/chapter-491.xhtml",
+      "draft": "manuscript/drafts/chapter-0493.md",
+      "qa": "qa/chapter-0493.md",
+      "provenance": "editorial/provenance/chapter-0493.json",
+      "acceptance": "qa/acceptance/chapter-0493.json",
+      "acceptance_sha": "d1cb7ba03b75c4f73b35db7cb9f29e49e8453ecc",
+      "family_qa": "qa/families/running-hounds-0490-0493.md"
     }
   ]
 }
