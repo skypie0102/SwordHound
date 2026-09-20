@@ -1,41 +1,40 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-20  
-**Accepted:** 464 / 500  
+**Accepted:** 470 / 500  
 **Staged:** 0  
-**Next target:** 465
+**Next target:** 471
 
 ## Latest accepted family
 
-**Infiltration of the Water Source (1)–(11)** — targets **454–464 / E452–E462**.
-
-- Family QA: `qa/families/infiltration-water-source-0454-0464.md` — PASS.
-- Tochka has roughly three days of water even with optimistic rationing.
-- MiniPin's nymph evidence motivates the water-source expedition, but the crater is later found completely dry.
-- Orca handles fortress defense; Marquis de Sade supplies the offensive counterpart.
-- C456 has a localized Chinese omission after the gate opens; only the aligned E454 Eightfold Formation passage is restored.
-- Camus uses Morgue Tzersi as an infiltration alias; Seere supplies only demonic scent.
-- The Poison Human recharge facility uses the paired-snake Ouroboros poison source and red vapor to restore/evolve troops.
-- Vikir destroys the facility with established Doppelganger leeches and sabotage.
-- Hopps appears first as the Second Corpse; target461 reveals **Flauros**, Chinese-primary Danger Rating **S+**.
-- Ouroboros is the Red Death-producing twin-snake spear; its shaft is tied to Hell Tree/Amdusias material.
-- Pigi's blood wounds Flauros and triggers the unresolved terms **heteromorphic body**, **closed type**, and **homogeneous anomaly**.
-- Vikir remains physical Baskerville Eighth Form.
-- Aiyen, Sadi, and Black Tongue reinforce the water-source front.
-- D’Ordume, Souare, BDISSEM, Flubber J. Tarbond, other Nouvelle Vague wardens, and Sade's former prisoners reinforce Tochka.
-- Black Tongue's “dead but not completely disappeared” wording remains unresolved.
-- Family ends with Orca holding the fortress and Sade beginning the counterattack toward the water-source front.
-
-## Next verified family
-
 **The Prelude to a Counterattack (1)–(6)** — targets **465–470 / E463–E468**.
 
-Following:
-- **Tochka Annihilation Battle (1)** begins target **471 / E469**.
+- Family QA: `qa/families/prelude-counterattack-0465-0470.md` — PASS.
+- Kirko Grimm survives Nouvelle Vague because of Vikir’s rescue instruction through BDISSEM and later accepts Asmodeus; Flubber also follows/bonds with her.
+- Four allied great houses and multiple academy / Tochka forces converge.
+- Flauros’s dry-crater presentation is exposed as a trap: the groundwater exists deeper down.
+- Flauros opens the source only to poison it immediately with Ouroboros / Red Death.
+- Dolores and Quovadis clergy can purify only with finite sacred power.
+- Adult Baby Madam and a huge spider brood return and consume Red Death; Ballak survivors Aheul / Ahun return as well.
+- Pigi shields Vikir from Hell Tree seeds and appears to die. Do not import later resolution.
+- Flauros’s main Tochka objective is source-revealed as **Pigi**.
+- The Reaper hesitates on Vikir/Pigi’s friendship appeal, allowing Vikir to damage the teleportation array.
+- Flauros and Reaper escape.
+- Fandom-backed project canon identifies Reaper as **Granola de Leviathan**; external MTL “Grenouille” remains a witness variant.
+- Granola is Hopps’s third son / former Colosseo Hot Department runner-up / early graduate / Comprachicos commander.
+- Granola asks **Lips of Sweet Talk** whether his intended decision is correct; the answer remains unrevealed.
+
+## Next verified contiguous family
+
+**Tochka Annihilation Battle (1)–(5)** — targets **471–475 / E469–E473**.
+
+Then:
+- **Knowing the Fate of My Father (1)–(2)** — targets **476–477 / E474–E475**.
+- target **478→E476** returns to **Tochka Annihilation Battle (6)**.
+- target **479→E477** begins **Downtown Naval Warfare (1)**.
 
 ## Exact next actions
 
-1. Read C465–C470 completely against E463–E468.
-2. Reconstruct and QA the full six-part family.
-3. Merge it.
-4. Continue immediately into the next contiguous family.
+1. Reconstruct and QA targets471–475 as one contiguous family segment.
+2. Merge it.
+3. Continue immediately into targets476–477, then target478, then Downtown Naval Warfare.
