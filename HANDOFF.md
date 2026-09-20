@@ -29,7 +29,7 @@ Next family: **The Mating Room (333–338)**. Priority targets: **333, 334**.
 ## Branch / PR state
 
 - Working branch: `audit/shadowless-king-326-330-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #139, **Rebuild Shadowless King Chapters 326–330 for completeness**: OPEN.
 - Underdogma completeness PR #138: merged.
 
 ## Exact next actions
