@@ -33,7 +33,7 @@ Next family: **Underdogma (321–325)**. All five chapters remain priority targe
 ## Branch / PR state
 
 - Working branch: `audit/surplus-man-314-320-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #136, **Rebuild Surplus Man Chapters 314–320 for completeness**: OPEN.
 - Hell Tree completeness PR #134: merged.
 - Redundant duplicate Hell Tree PR #135: closed unmerged.
 
