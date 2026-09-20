@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 449,
+  "accepted_chapters": 453,
   "staged_chapters": 0,
-  "next_chapter": 450,
+  "next_chapter": 454,
   "latest_accepted_family": {
-    "name": "The Fall of Usher",
-    "range": [
-      441,
-      449
-    ],
-    "family_qa": "qa/families/fall-of-usher-0441-0449.md"
-  },
-  "next_title_family": {
     "name": "Declaration of War",
     "range": [
       450,
       453
     ],
+    "family_qa": "qa/families/declaration-of-war-0450-0453.md"
+  },
+  "next_title_family": {
+    "name": "Infiltration of the Water Source",
+    "range": [
+      454,
+      464
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 454,
-    "following_title": "Infiltration of the Water Source (1)",
-    "alignment_note": "450→E448 through 453→E451; 454-464 / E452-E462 are Infiltration of the Water Source; 465/E463 begins The Prelude to a Counterattack (1)."
+    "following_family_starts": 465,
+    "following_title": "The Prelude to a Counterattack (1)",
+    "alignment_note": "454→E452 through 464→E462; 465→E463 begins The Prelude to a Counterattack."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -511,9 +511,21 @@
     446,
     447,
     448,
-    449
+    449,
+    450,
+    451,
+    452,
+    453
   ],
   "notes": [
+    "Chapters450-453 accepted as Declaration of War (1)-(4), mapping E448-E451.",
+    "Fresh Fandom indexing confirms Juskin de Leviathan, Hopps de Leviathan, and Raspane Morgue; First/Second Corpse true names remain reveal-guarded.",
+    "Hopps mass-produces contagious Poison Humans using the Ouroboros twin-snake poison source; Juskin is converted after dissent.",
+    "Alliance leadership recognizes Leviathan force concentration; Hugo predicts Tochka because Vikir is there.",
+    "Aligned E450 securely restores Nouvelle Vague destruction/displaced-warden transition and Black Tongue's accepted captain role.",
+    "Current Poison Humans are contagious and command-responsive; Sakkuth remains the noncontagious prototype comparison.",
+    "Established Long Rain of Terror controls over local Rainy Season of Fire wording.",
+    "Next family Infiltration of the Water Source verified targets454-464 / E452-E462.",
     "Chapters441-449 accepted as The Fall of Usher (1)-(9), mapping E439-E447.",
     "Fresh Fandom indexing confirms Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable.",
     "Roderick is alive but cannot evacuate; black flare authorizes the flood/destruction plan.",
