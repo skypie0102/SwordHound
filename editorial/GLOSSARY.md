@@ -1,3 +1,14 @@
+## Knowing the Fate of My Father additions — Chapters 476–477
+
+- **Knowing the Fate of My Father** — accepted two-part family, targets476–477 / E474–E475.
+- **Hugo Ninth Form** — Hugo reaches Baskerville Ninth Form only by burning his life beyond normal limits and taking on a Death-Knight state.
+- **Hugo final answer** — Vikir asks “Why?”; Hugo answers only “I don’t know either.”
+- **Hugo death** — age 64, after stopping the Gate of Destruction’s first eruption.
+- **Gate tether** — Flauros’s life really was tied to the Gate seal.
+- **Poseidon payoff** — the delayed Nouvelle Vague trigger produces the 150-day Great Flood, suppressing the Long Rain of Terror and cooling the Gate.
+- **Tochka Annihilation Battle (6)** — target478 / E476.
+- **Downtown Naval Warfare** — targets479–482 / E477–E480.
+
 ## Tochka Annihilation Battle additions — Chapters 471–475
 
 - **Tochka Annihilation Battle (1)–(5)** — accepted contiguous segment, targets471–475 / witnesses E469–E473.
