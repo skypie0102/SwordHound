@@ -2,8 +2,8 @@
   "chapter": 238,
   "title": "National University League (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/238.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-236.xhtml",
     "english_reference_sha": "33f431981db21c797aa7331cc8f377d6a0e6af36",
     "draft_path": "manuscript/drafts/chapter-0238.md",
-    "draft_sha": "a8057e02794aae1665aa870a47970dfd2c394ad0",
+    "draft_sha": "f639b479296207218076e89e28d2b0bfd6f76a43",
     "qa_path": "qa/chapter-0238.md",
-    "qa_sha": "2487da302c922a6d6a0d38f79c184fb4a1a68d04",
+    "qa_sha": "599397cbd4c64e42e3aa03761319ad17fb4a1594",
     "provenance_path": "editorial/provenance/chapter-0238.json",
-    "provenance_sha": "c0afee09c87eebc8f83e238d54cb5a1bf1126db5"
+    "provenance_sha": "7bbd662c5c0a8df4c0f27832cbdd4f30b93d15fa"
   },
   "canonical_checks": [
     "Vikir",
@@ -42,5 +42,18 @@
     "Granola’s crush is unilateral POV only.",
     "No Sinclaire reciprocity inferred."
   ],
-  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "a8057e02794aae1665aa870a47970dfd2c394ad0",
+    "qa_sha": "2487da302c922a6d6a0d38f79c184fb4a1a68d04",
+    "provenance_sha": "c0afee09c87eebc8f83e238d54cb5a1bf1126db5"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  }
 }
