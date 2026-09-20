@@ -1,7 +1,7 @@
 {
   "chapter": 430,
   "title": "The Lion King (1)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -9,8 +9,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
-    "status": "pass"
+    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/430.txt",
@@ -24,14 +24,28 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0430.md",
-    "blob_sha": "e85b53d368990079a8c23b0369054e0e9dd60de8"
+    "blob_sha": "b1be4c800902dd2ede24d032814d7f84be7a6a51"
   },
   "qa": {
     "path": "qa/chapter-0430.md",
-    "blob_sha": "aa78198666b8b175b124755158efbf4703c94a20",
-    "status": "pass"
+    "blob_sha": "1f149e0686d0fcca406492dd182c6d3e74109fd2",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "draft_sha": "e85b53d368990079a8c23b0369054e0e9dd60de8",
+    "qa_sha": "aa78198666b8b175b124755158efbf4703c94a20"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/lion-king-0430-0433.md",
+    "initial_priority_target": false
+  },
+  "environment_guard": "Warm-sea/fish/weather anomalies remain setup only; no unsupported cause assigned."
 }
