@@ -1,0 +1,37 @@
+{
+  "chapter": 420,
+  "title": "Goodbye, Nouvelle Vague (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "Goodbye, Nouvelle Vague",
+    "range": [
+      419,
+      421
+    ],
+    "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/420.txt",
+    "blob_sha": "62bd87a75756c3e533f2500f7e7f1197b8306346",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-418.xhtml",
+    "blob_sha": "4a38069c366e1954569a965446c4a68fb9db2211",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0420.md",
+    "blob_sha": "1094c246995790a44a18224490a850d4f46a4302"
+  },
+  "qa": {
+    "path": "qa/chapter-0420.md",
+    "blob_sha": "c6febfd511671bae0ee3902835b578223b0c72d9",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
