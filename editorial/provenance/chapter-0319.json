@@ -1,7 +1,7 @@
 {
   "chapter": 319,
   "title": "Surplus Man (6)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "reopened_for_completeness_audit"
+    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/319.txt",
@@ -24,25 +24,31 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0319.md",
-    "blob_sha": "a31a983acb8cfffacd995618e71cee7fdf2943a7"
+    "blob_sha": "849e2e677964cbacc5136d7448d8dae5a659d4da"
   },
   "qa": {
     "path": "qa/chapter-0319.md",
-    "blob_sha": "0a664e58859d22558285de58e82334b6b2de92c7",
-    "status": "superseded_needs_rework"
+    "blob_sha": "c09e380b130e7a05d0fc09d705ace8f258f7805a",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
-  "accepted": false,
+  "accepted": true,
   "key_reveal": "Silver Reflexes candy unlocks a second hidden stat; Vikir now has five of six tower stats.",
   "historical_acceptance": {
     "accepted": true,
-    "accepted_date": "2026-09-19"
+    "accepted_date": "2026-09-19",
+    "previous_current_status": "needs_rework",
+    "draft_sha": "a31a983acb8cfffacd995618e71cee7fdf2943a7",
+    "qa_sha": "0a664e58859d22558285de58e82334b6b2de92c7"
   },
-  "current_status": "needs_rework",
-  "reopened_date": "2026-09-20",
   "completeness_audit": {
-    "status": "confirmed_compressed",
-    "reason": "Direct Chinese/draft comparison confirms summary-style compression across the Daylily fight, pooled-body-material preparation, reward sequence, and connective narration.",
-    "evidence": "qa/manuscript-completeness-audit.md"
-  }
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/surplus-man-0314-0320.md",
+    "initial_priority_target": true,
+    "confirmed_failure_resolved": true
+  },
+  "accepted_date": "2026-09-20",
+  "failure_resolution": "Confirmed post-500 compression failure resolved by full Daylily fight/pooled-material/reward-sequence rebuild."
 }
