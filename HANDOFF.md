@@ -3,65 +3,68 @@
 **Checkpoint:** 2026-09-20  
 **Phase:** POST-500 MANUSCRIPT COMPLETENESS AUDIT  
 **Manuscript files present:** 500 / 500  
-**Historical acceptance before audit:** 500 / 500  
-**Current tracker status:** 496 accepted / 4 needs rework; all 496 retained acceptances remain provisional pending corpus-wide completeness review  
-**Confirmed needs rework:** 4 — Chapters 97, 316, 319, 420  
-**Next target:** complete-family audit beginning with **The Illiad (85–89)**
+**Current tracker state:** 496 accepted / 4 confirmed needs rework  
+**Confirmed needs rework:** 97, 316, 319, 420  
+**Completed audit family:** The Illiad (85–89) — rebuilt / PASS  
+**Pending initial priority queue:** 44 chapters  
+**Next target:** complete-family audit of **The Ghosts of the Ancestors (90–94)**
 
-## Why reconstruction was reopened
+## Latest completed work — The Illiad (85–89)
 
-PR #125, **Complete reconstruction Chapters 494–500**, was merged into `main` on 2026-09-20. The run therefore did reach the end of the 500-target manuscript set.
+Direct Chinese/raw review found that **all five historical drafts were materially compressed**, even though only 87–89 were caught by the initial <0.60 size-ratio detector. Chapters 85–86 therefore prove that length heuristics cannot certify completeness.
 
-However, a post-run manuscript-length audit found severe compression outliers. Direct Chinese-raw comparison confirms Chapters **97, 316, 319, and 420** are condensed summaries rather than full translations: broad plot survives, but substantial dialogue, narration, detail, and transitions are omitted.
+All five chapters were rebuilt from the Chinese primary source and rebound to fresh chapter QA, provenance, acceptance records, and family QA.
 
-The earlier “500 / 500 accepted; reconstruction complete” state is therefore no longer a safe quality claim. File coverage is 500 / 500; source-faithful editorial completeness is being revalidated.
+Key repairs:
+- **85:** corrected Aiyen's bow from MTL-derived “five strings” to roughly **five people's draw strength / up to ten arrows**; restored full Ka'ah hunt, feast, and Silent Heel acquisition.
+- **86:** restored Ah'Heman's full poison/medicine authority scheme, Leviathan/Bourgeois collaboration, clinical experiment motive, deliberate infection of Aheul, failed savior plan, and Akwilla confrontation.
+- **87:** restored river-pouch trap, flour reveal, questioning, forged-letter/Chihuahua handwriting recollection, crowd response, denial strategy, and Akwilla's full honor trap.
+- **88:** restored challenged-party timing rule, Vikir's anti-shaman contingency logic, Bakira exchange, Ah'Heman's outsider/abuse history and rise, and full pre-duel setup.
+- **89:** restored spider-venom and jungle traps, Silent Heel/Incinerate combat, inner-thigh arrow, Rokoko corpse magic, and the **massive rear impact crushing Ah'Heman and the undead orangutans before the Oxbear reveal**.
 
-See: `qa/manuscript-completeness-audit.md`.
+Family evidence: `qa/families/illiad-0085-0089.md`.
 
-## Triage evidence
+## Audit state
 
-For ordinary one-target Chinese containers, the corpus median `draft bytes / raw bytes` is about **0.85**.
+Original priority queue: 47 ordinary one-target chapters below draft/raw byte ratio 0.60.
 
-Initial priority-review threshold: **< 0.60** (triage only, never an automatic fail).
+Completed from that queue: 87, 88, 89.
 
-- 47 chapters fall below 0.60.
-- 22 chapters fall below 0.50.
-- Confirmed by direct raw/draft reading:
-  - Ch. 97 — ratio ~0.389
-  - Ch. 316 — ratio ~0.319
-  - Ch. 319 — ratio ~0.332
-  - Ch. 420 — ratio ~0.348
+Remaining initial-priority chapters: **44**.
 
-Do not assume chapters above the threshold are complete; after the priority queue, perform a whole-corpus coverage pass.
+Confirmed separate needs-rework chapters remain 97, 316, 319, and 420 until their families are rebuilt.
 
-## Source-policy correction recovered from accepted evidence
+All other retained acceptances remain provisional until the corpus-wide completeness pass closes.
 
-The old “Chapter 55 has no Chinese raw and is English-only” wording is stale.
+## Source / alignment
 
-There is no standalone `055.txt`, but accepted Chapter 54/55 boundary QA and provenance prove that `054.txt` is an overlapping 54–55 container:
-- target54 ends before the appended hunting-ceremony material;
-- target55's opening/title boundary is missing from Chinese and restored from E55;
-- most of target55's body survives in `054.txt` and remains Chinese-primary where it overlaps.
-
-`source/chinese/chapter-exceptions.tsv` records this correctly, and the live source-policy/workflow docs have now been reconciled to it.
+- Illiad mapping remains **85→E84 through 89→E88**.
+- Target90→E89 begins **The Ghosts of the Ancestors (1)**.
+- Chapter55 remains hybrid: no standalone `055.txt`, but most target55 Chinese text survives appended in `054.txt`; E55 supplies only the missing opening/title boundary.
 
 ## Branch / PR state
 
-- Final reconstruction PR #125: **MERGED**.
-- Audit branch: `audit/post500-manuscript-completeness` — merged.
-- Corrective PR #126, **Reopen post-500 manuscript completeness audit**: **MERGED**.
-- Audit evidence: `qa/manuscript-completeness-audit.md`.
+- Working branch: `audit/illiad-85-89-completeness`.
+- PR #127, **Rebuild The Illiad Chapters 85–89 for completeness**: OPEN.
+- Prior corrective PR #126: merged.
 
-## Files updated in the audit reset
+## Files updated this batch
 
-Live state/policy: `README.md`, `HANDOFF.md`, `PROJECT_STATE.md`, `PROGRESS.md`, `AGENTS.md`, `editorial/SOURCES.md`, `editorial/WORKFLOW.md`, `editorial/chapter-tracker.json`, `editorial/reconstruction-status.json`, and `source/chinese/README.md`.
-
-Audit/evidence: new `qa/manuscript-completeness-audit.md`; acceptance/provenance/chapter-QA records for 97, 316, 319, and 420; family QA for Madam Eight-Legs, Surplus Man, and Goodbye Nouvelle Vague.
+- `manuscript/drafts/chapter-0085.md` through `chapter-0089.md`
+- `qa/chapter-0085.md` through `chapter-0089.md`
+- `qa/families/illiad-0085-0089.md`
+- `editorial/provenance/chapter-0085.json` through `chapter-0089.json`
+- `qa/acceptance/chapter-0085.json` through `chapter-0089.json`
+- `editorial/chapter-tracker.json`
+- `editorial/reconstruction-status.json`
+- `qa/manuscript-completeness-audit.md`
+- `PROJECT_STATE.md`
+- `PROGRESS.md`
+- `HANDOFF.md`
 
 ## Exact next actions
 
-1. Audit the complete **The Illiad (85–89)** family against Chinese, beginning with flagged 87–89; rebuild any compressed chapters rather than merely expanding prose.
-2. Continue family-by-family through the priority queue in `qa/manuscript-completeness-audit.md`, preserving target order.
-3. For every rebuilt chapter, regenerate chapter QA, provenance, acceptance evidence, and tracker state.
-4. After all priority families pass, run a whole-corpus completeness pass so the byte heuristic is not treated as proof of safety.
-5. Only after the completeness audit closes should the project return to complete-EPUB assembly and final presentation/epubcheck QA.
+1. Merge the Illiad completeness rebuild branch.
+2. Create a new audit branch from updated `main`.
+3. Audit the complete **The Ghosts of the Ancestors (90–94)** family against Chinese; flagged chapters are 92–94, but review 90–91 fully as well.
+4. Rebuild every compressed chapter in the family, regenerate QA/provenance/acceptance, update tracker/audit state, merge, and continue directly to the next priority family.

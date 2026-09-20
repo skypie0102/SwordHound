@@ -2,8 +2,8 @@
   "chapter": 89,
   "title": "The Illiad (5)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Illiad",
     "range": [
@@ -11,8 +11,8 @@
       89
     ],
     "family_qa_path": "qa/families/illiad-0085-0089.md",
-    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
-    "status": "pass"
+    "family_qa_sha": "a5a68b2bb01f29d06f415d53cb428ecfbf50fd9a",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/089.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-088.xhtml",
     "english_reference_sha": "0ca10d5e3a3f4d91fdd882bdcf3545dab3bb2ce5",
     "draft_path": "manuscript/drafts/chapter-0089.md",
-    "draft_sha": "0db461b8a6c965c98ebd9b889d9141aed87c1197",
+    "draft_sha": "f5bd1de503662b7daa2c4543c495c2820ea8b97e",
     "qa_path": "qa/chapter-0089.md",
-    "qa_sha": "5a58ccaa8872d8025a6960a8cb1fbddd67627241",
+    "qa_sha": "712f6917f26b8069a23cc7238b4b6dc90cb44504",
     "provenance_path": "editorial/provenance/chapter-0089.json",
-    "provenance_sha": "502841085dd6e3c6b05a4a2398b2a11f1e06e537"
+    "provenance_sha": "e9ddb5b08796c49f70b7e50834d523f6d569e1eb"
   },
   "canonical_checks": [
     "Vikir",
@@ -41,6 +41,18 @@
   "documented_limits": [
     "Target89 maps to E88.",
     "Chinese spider and inner-thigh shot override recovered-English corruption.",
-    "Target89 ends before the Oxbear strike; target90 starts the next family."
-  ]
+    "Target89 includes the crushing rear impact that destroys the undead screen; the following target continues the old female Oxbear encounter."
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "0db461b8a6c965c98ebd9b889d9141aed87c1197",
+    "qa_sha": "5a58ccaa8872d8025a6960a8cb1fbddd67627241",
+    "provenance_sha": "502841085dd6e3c6b05a4a2398b2a11f1e06e537"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/illiad-0085-0089.md"
+  }
 }
