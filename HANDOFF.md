@@ -11,8 +11,9 @@
 **Current audit stage:** Phase 0 — baseline freeze and audit inventory  
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
-**Working branch:** audit/full-sanitization-completeness-pass  
-**PR:** #143 — open; merge pending
+**Integration state:** merged to main  
+**PR:** #143 — MERGED  
+**Merge commit:** 8a67e1d07a11d03248d94e6be819ecf2fb40972e
 
 ## Why the project focus changed
 
