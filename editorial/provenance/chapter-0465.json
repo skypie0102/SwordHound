@@ -1,0 +1,37 @@
+{
+  "chapter": 465,
+  "title": "The Prelude to a Counterattack (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Prelude to a Counterattack",
+    "range": [
+      465,
+      470
+    ],
+    "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
+    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/465.txt",
+    "blob_sha": "b749378314862c7a5640ab71ab6de6964e702735",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-463.xhtml",
+    "blob_sha": "1e5ae4016700f3e5f66c5c6a7e5b92ffe6736ce7",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0465.md",
+    "blob_sha": "0d2d50ae7a8c908cc5a9fbd64672719c50575401"
+  },
+  "qa": {
+    "path": "qa/chapter-0465.md",
+    "blob_sha": "4a8d9226e76ced510923114ff9df035b6acbf0bb",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
