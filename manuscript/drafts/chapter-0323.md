@@ -1,234 +1,406 @@
 # Chapter 323: Underdogma (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/323.txt`. Recovered English Chapter 321 is the verified shifted secondary witness. Ancient insect peoples are rendered descriptively as **Rhinoceros Beetlemen** and **Stag Beetlemen**.
+> Chinese-primary reconstruction from `source/chinese/chapters/323.txt`. Recovered English Chapter 321 is the verified shifted secondary witness. Ancient insect peoples are rendered descriptively as **Rhinoceros Beetlemen** and **Stag Beetlemen**. Dogma's social analysis remains his viewpoint rather than narrator truth.
 
 SNAP.
 
-Vikir tore the chains from Highbro, Middlebro, and Lowbro’s necks with his bare hands.
+Vikir tore apart the iron chains around the triplets' necks.
 
-The commoner students recoiled.
+Bare hands.
 
-Dogma frowned.
+Metal broke.
+
+Commoner Faction students recoiled.
+
+Dogma stared.
 
 “…What are you doing?”
 
-Vikir looked at him.
+Vikir did not answer that question.
 
-“You despise the strong.”
+Instead—
 
-“But you imitate them.”
+“Why imitate the people you claim to despise?”
 
-“Why?”
+Dogma frowned.
 
 “What?”
 
-“Maybe it isn’t hatred.”
+“You say you hate the strong.”
 
-“Maybe it’s envy.”
+“You say they treated people beneath them like property.”
 
-Dogma’s face tightened.
+“Then you become strong—
+
+and do the same thing.”
+
+Vikir looked at the broken chains.
+
+“Maybe it isn't contempt.”
+
+“Maybe it's envy.”
+
+Dogma's expression tightened.
 
 Still—
 
-his eyes had already gone to the broken chains.
+his attention stayed on Vikir's hands.
 
-*Strength stat maybe ten.*
+*He tore those chains barehanded.*
 
-*Perhaps we can still overwhelm him.*
+*Strength stat?*
 
-More than twenty students stood behind Dogma.
+*Four? Five?*
 
-“Don’t get arrogant.”
+*No.*
+
+*Maybe ten.*
+
+Dogma estimated.
+
+If Vikir's Strength were around ten—
+
+Dogma still believed he could handle him.
+
+And there were more than twenty Commoner Faction students nearby.
+
+“Don't get arrogant.”
 
 “If you refuse to cooperate—
 
-we’ll cut off your hands.”
+we'll cut off your hands.”
 
-The Commoner Faction moved together immediately.
+The commoner students gathered quickly.
 
-Their solidarity—
+Much faster than the noble and power-family students had organized before.
 
-stronger than the scattered nobles and tycoons above.
+Like grass roots interlocking underground.
 
-Vikir sighed.
+Their solidarity was real.
 
-The promise of the tower was seductive.
+Vikir watched them with a complicated expression.
 
-A world where birth supposedly vanished.
+*A fair world.*
 
-Where effort created measurable reward.
+*Reward proportional to effort.*
 
-Where anyone could reverse their position.
+*The chance to gain what birth denied.*
 
-He had seen people fall for that promise before.
+*An opportunity to reverse everything.*
 
-During the Age of Destruction—
+He could understand why that dream appealed to them.
 
-even humans with heroic talent had joined the demon side.
+It was not entirely false.
 
-Some because they were tempted by power.
+At least—
 
-Some by revenge.
+not on the surface.
 
-Some by the idea of a “fairer” world.
+Before regression—
 
-It never ended well.
+during the Age of Destruction—
 
-Humans who became demons or monsters retained human memories—
+Vikir had seen talented humans choose the demonic side for exactly those reasons.
 
-but could no longer truly belong anywhere.
+Some were potential heroes.
 
-Demons were solitary beings.
+People with extraordinary gifts.
 
-No family.
+They believed the demons offered a new world.
+
+A place where old structures no longer mattered.
+
+Where weakness could be exchanged for power.
+
+Where birth could be discarded.
+
+Not one of them ended well.
+
+Most transformed physically.
+
+Lost rationality.
+
+Those who kept human memory and intelligence—
+
+sometimes suffered more.
+
+Demons were fundamentally solitary beings.
+
+No true parents.
 
 No children.
 
-No real community.
+No friends in the human sense.
 
-For a social species like humanity—
+If they appeared to have such connections—
 
-that isolation became torment.
+the relationship was usually transactional.
 
-Many transformed heroes eventually regretted their choice.
+A demon existed as an isolated being.
 
-Some ended their own lives.
+A diaspora of one.
 
-Vikir looked at Dogma.
+Humans—
 
-A man hypnotized by the short-term promise of reversal.
+social by nature—
 
-The commoners surrounded him.
+could not truly understand that existence.
 
-“You’re Vikir, right?”
+And demons—
 
-“You’re a commoner too.”
+could not understand humans.
 
-“Join us.”
+A human who became a monster while retaining human memory—
 
-“You can’t beat all of us.”
+belonged nowhere.
 
-“Who gets the candies if we kill him?”
+Not human.
+
+Not demon.
+
+Not beast.
+
+Years passed.
+
+Loneliness.
+
+Regret.
+
+Memory of everything once lost.
+
+Vikir had watched more than one transformed hero reach old age—
+
+then kill themselves.
+
+The joy of receiving power they never had—
+
+was brief.
+
+The emptiness afterward—
+
+long.
+
+That was why Vikir looked at Dogma's short-sighted “reversal” ideology with something close to pity.
+
+The Commoner Faction surrounded him.
+
+“Vikir.”
+
+“You're one of us.”
+
+“Join.”
+
+“You can't fight all of us.”
+
+“What are your stats?”
+
+“If we kill him—
+
+who gets the candy?”
+
+“Whoever lands the kill.”
+
+“Bullshit.”
 
 Vikir raised one hand.
 
-Everyone paused.
+Everyone's eyes followed.
 
-“I’m the only son of three generations.”
+“I am the only son of three generations.”
 
-“…What?”
+Silence.
 
-“I have grandparents who depend on me.”
+“I have grandparents to support.”
 
-“…?”
+Confusion.
 
 “I have an old lover.”
 
-“Or I’m about to marry.”
+“Or I'm engaged.”
 
-“Or I’m newly married.”
+“Or recently married.”
 
-They stared.
+The commoner students looked at one another.
 
-Vikir finished:
+Vikir finished—
 
-“If any of that applies to you—
+“If that sounds like you—
 
 step aside.”
 
-The commoners burst out laughing.
+Laughter exploded.
+
+Dogma laughed hardest.
+
+“Too many fantasy novels?”
+
+“You think you're being dramatic?”
+
+“What makes you so confident?”
+
+“High Level?”
+
+“Rare item?”
+
+“High stats?”
+
+One commoner wearing unusual glasses shouted—
+
+“He's Level **1**!”
+
+“These appraisal glasses show it!”
+
+“I can't read his stats!”
+
+“But Level one!”
 
 Dogma sneered.
 
-“You read too many fantasy novels?”
+Vikir quietly closed one fist.
 
-A student wearing appraisal glasses shouted:
-
-“He’s Level 1!”
-
-“I can’t see the stats—
-
-but his Level is one!”
-
-Confidence returned.
-
-Vikir raised his fist.
-
-Nobody noticed.
+No one paid attention.
 
 Then—
 
-BOOM.
+BOOM!
 
-The sound came from above.
+The island shook.
 
-Dust erupted from the Hell Tree root.
+Not ground-level.
 
-A huge humanoid creature appeared.
+Above.
+
+From the Hell Tree root.
+
+Dust exploded around the sap hollow.
+
+Something huge emerged.
 
 Black exoskeleton.
 
-A single thick horn.
+Massive humanoid body.
 
-Rhinoceros beetle.
+A thick horn.
 
-“…One of the earlier inhabitants.”
+“…An earlier resident.”
 
-The creature buried its face in the sap pool.
+The being resembled a human wearing rhinoceros-beetle armor.
 
-Students panicked.
+An ancient humanoid species believed extinct.
+
+Vikir had not expected to see one alive.
+
+The Commoner Faction panicked.
 
 “Level over ten!”
 
-“It’s stealing our sap!”
+“I can't read the exact stats!”
 
-Dogma drew his sword.
+“It is drinking the sap!”
 
-“Protect the water!”
+“Wait…”
 
-“I’ll lead!”
+“It's looking at us.”
+
+Dogma drew a sword.
+
+“Protect our water source!”
+
+“Follow me!”
+
+“I'll lead from the front!”
 
 He charged.
 
-CLANG.
+SWOOSH—
 
-His blade broke against the exoskeleton.
+CLANG!
 
-The beetleman punched him flat.
+The sword snapped on the exoskeleton.
 
-The other commoners rushed in.
+The Beetleman's forehead vein rose.
 
-All were thrown aside.
+BAM!
 
-Then Vikir stepped forward.
+One black fist drove Dogma into the ground.
+
+Other commoners rushed in.
+
+“Damn it!”
+
+“Blade won't penetrate!”
+
+“Help!”
+
+“I'm going to die!”
+
+One after another—
+
+thrown aside.
+
+The creature had entered as if to remind everyone—
+
+who truly owned the sap pool.
+
+Then—
 
 “Move.”
 
-“I’ll talk to him.”
+Vikir stepped forward.
 
-Dogma shouted from the ground.
+“I'll talk to him.”
 
-“You can’t talk to a monster!”
+Dogma shouted from the dirt.
 
-“He understands the common tongue.”
+“Talk!?”
 
-Vikir approached.
+“You can't talk to that thing!”
 
-“Let me ask something.”
+“It speaks the common language.”
 
-The beetleman swung.
+Dogma blinked.
+
+“Common language?”
+
+“What?”
+
+“It learned foreign languages?”
+
+“Humanoid monsters don't communicate with humans!”
+
+Vikir stood in front of the Beetleman.
+
+“Can I ask you something?”
+
+No answer.
+
+The Beetleman raised both arms.
+
+Swung.
 
 Vikir sighed.
 
-“I guess I need a translator.”
+“No communication.”
 
-His fist.
+“Then I need a translator.”
 
-BOOM.
+He raised one fist.
 
-The black armor cracked.
+BOOM!
 
-The beetleman collapsed.
+One short punch.
+
+The black exoskeleton cracked like a soaked biscuit.
+
+The Beetleman's eyes opened wide.
+
+Its entire body folded.
+
+Air.
+
+Stomach contents.
+
+Everything left at once.
 
 Vikir looked down.
 
@@ -238,51 +410,137 @@ Vikir looked down.
 
 The reply—
 
-was perfectly intelligible.
+perfectly understandable.
 
-Everyone froze.
+Silence.
 
-Then the commoners shouted:
+Dogma stared.
 
-“He stole the last hit!”
+“You can speak?”
 
-“We weakened it!”
+The surrounding students shouted over one another.
 
-“He’s still Level 1!”
+“He just dropped it in one punch?”
 
-Dogma rallied them.
+“That thing crushed all of us!”
 
-They began kicking the fallen beetleman.
+“How?”
 
 Then—
 
-Vikir looked upward.
+Dogma recovered first.
 
-Buzzing.
+“You idiots!”
 
-Wings.
+“Why are you staring!?”
 
-Dozens more insect people descended.
+“He stole the finishing blow!”
+
+“We already weakened it!”
+
+Commoners seized the explanation immediately.
+
+“Right!”
+
+“He's Level 1!”
+
+“Even candies couldn't create that difference!”
+
+“Coward!”
+
+“Kill-stealer!”
+
+“Grab it!”
+
+They swarmed the fallen Beetleman—
+
+kicking.
+
+Striking.
+
+Trying to claim the reward.
+
+Dogma passed Vikir.
+
+“This thing is probably the boss guarding the sap.”
+
+“If you don't like us taking the kill—
+
+remember you stole it from us first.”
+
+Three voices answered.
+
+“You shameless bastard.”
+
+“You were the ones trying to steal Master's kill.”
+
+“Exactly.”
+
+Highbro.
+
+Middlebro.
+
+Lowbro stood beside Vikir.
+
+Dogma bristled.
+
+Vikir lifted one hand.
+
+“No complaint.”
+
+The triplets stopped.
+
+Vikir was not looking at Dogma.
+
+He was looking up.
+
+Dogma followed his gaze.
+
+Then—
+
+his face drained.
+
+BUZZZZZZZZ.
+
+The sound of enormous wings.
+
+Not one Beetleman.
+
+Dozens.
 
 Rhinoceros Beetlemen.
 
-And others with pincer-like horns—
+And another group with broad pincer-shaped horns—
 
 Stag Beetlemen.
 
-Dogma’s face emptied of color.
+“…That wasn't the boss?”
+
+Dogma whispered.
+
+“Just a normal soldier?”
+
+Commoner confidence vanished.
 
 Vikir raised his hand again.
 
-“I’m the only son of three generations.”
+“I am the only son of three generations.”
 
-“I have elders who need me.”
+No laughter.
+
+“I have elders I must care for.”
+
+Silence.
 
 “I have someone waiting for me.”
 
-“Or simply—
+Still silence.
 
-as a human—
+“Or—”
+
+Vikir looked at them.
+
+“simply as a human being—
 
 I have a reason not to die here for nothing.”
 
@@ -290,18 +548,22 @@ I have a reason not to die here for nothing.”
 
 This time—
 
-nobody laughed.
+everyone moved.
 
-One by one—
+Carefully.
 
-the students retreated.
+Quietly.
 
-Vikir looked at the insect army.
+Dogma included.
+
+Vikir rolled one shoulder.
 
 “…No one left?”
 
-Then he rolled his shoulders.
+The insect army descended.
+
+Vikir raised his fists.
 
 “Good.”
 
-“Let’s begin.”
+“Let's begin.”
