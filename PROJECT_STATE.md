@@ -2,15 +2,19 @@
 
 **Checkpoint:** 2026-09-20  
 **Target edition:** 500 chapters  
-**Accepted:** 500  
-**Staged:** 0  
-**Next chapter:** none  
-**Reconstruction status:** COMPLETE
+**Manuscript files present:** 500 / 500  
+**Historical acceptance before post-run audit:** 500 / 500  
+**Current retained accepted status:** 496 / 500, provisional  
+**Needs rework (confirmed):** 97, 316, 319, 420  
+**Project completion:** REOPENED — manuscript completeness audit active  
+**Next audit family:** The Illiad (85–89)
 
-Final accepted families:
-- **The Day After the Apocalypse (1)–(2)** — targets494–495 / E492–E493.
-- **Side Stories 1–5** — targets496–500; target496 begins inside shared raw `495.txt`, with embedded secondary witness material in E493.
+The production run reached all 500 target manuscript files and final PR #125 was merged. A post-run integrity check then confirmed that multiple previously accepted drafts are summary-compressed relative to their Chinese raws. The repository therefore must not be treated as EPUB-ready yet.
 
-Editorial reconstruction is complete for the full 500-chapter target edition.
+Primary audit record: `qa/manuscript-completeness-audit.md`.
 
-Next phase: complete-EPUB assembly and final presentation/epubcheck QA.
+A 48-chapter priority queue was generated from unusually low draft/raw byte ratios (<0.60, excluding shared raw containers). This ratio is only a triage heuristic; direct source comparison determines pass/fail, and the remaining corpus still requires a completeness pass.
+
+Chapter 55 source status is hybrid rather than English-only: there is no standalone `055.txt`, but most target-55 Chinese text survives appended in `054.txt`; E55 supplies the missing opening/title boundary.
+
+Next phase: family-by-family completeness repair, then whole-corpus verification, then complete-EPUB assembly.
