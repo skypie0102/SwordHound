@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 499,
   "staged_chapters": 0,
-  "next_chapter": 326,
+  "next_chapter": 333,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "The Shadowless King of the Black Sea",
+    "name": "TBD from tracker family lookup",
     "range": [
-      326,
-      330
+      333,
+      333
     ],
-    "reason": "next priority-containing family; target328 remains in the initial priority queue"
+    "reason": "next pending initial-priority target after Shadowless King"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -561,6 +561,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: Shadowless King targets326-330 all rebuilt/pass. Priority target328 resolved; 6 initial-priority chapters remain.",
     "Completeness audit: Underdogma targets321-325 all rebuilt/pass. Five initial-priority targets resolved; 7 remain. Next: The Shadowless King of the Black Sea 326-330.",
     "Completeness audit: Surplus Man targets314-320 all rebuilt/pass. Confirmed failures316/319 resolved; only420 remains confirmed rework. 12 initial-priority chapters remain.",
     "Completeness audit: Surplus Man targets314-320 all rebuilt/pass. Confirmed failures316 and319 resolved; accepted count now 499/500, sole confirmed needs-rework chapter420, and 12 initial-priority chapters remain. Next: Underdogma 321-325.",
@@ -1034,7 +1035,7 @@
       420
     ],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 7,
+    "pending_priority_review_count": 6,
     "completed_families": [
       {
         "name": "The Illiad",
@@ -1122,6 +1123,15 @@
         "range": [
           321,
           325
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
+      },
+      {
+        "name": "The Shadowless King of the Black Sea",
+        "range": [
+          326,
+          330
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"
