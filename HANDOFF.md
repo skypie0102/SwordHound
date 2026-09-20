@@ -40,7 +40,7 @@ Next flagged targets are 192 and 196, both inside **Attack Land (190–196)**. A
 ## Branch / PR state
 
 - Working branch: `audit/nostalgia-101-104-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #130, **Rebuild Nostalgia Chapters 101–104 for completeness**: OPEN.
 - Madam Eight-Legs completeness PR #129: merged.
 
 ## Exact next actions
