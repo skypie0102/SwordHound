@@ -1,0 +1,33 @@
+{
+  "chapter": 434,
+  "title": "The Returned Hound (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Returned Hound",
+    "range": [
+      434,
+      436
+    ],
+    "family_qa_path": "qa/families/returned-hound-0434-0436.md",
+    "family_qa_sha": "8a6a3644f459cc34bc63be301142ea82084f76c0",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/434.txt",
+    "primary_source_sha": "aef2305e36df64d5f95af5db89b8fc3d50ecc487",
+    "english_reference_path": "source/chapters/chapter-432.xhtml",
+    "english_reference_sha": "53eef0dd238396ca804988191916633f2850a619",
+    "draft_path": "manuscript/drafts/chapter-0434.md",
+    "draft_sha": "5d97d61f40d639e82dd9bacff16befd658b5d456",
+    "qa_path": "qa/chapter-0434.md",
+    "qa_sha": "fd07dbbb489c79054a8a97b821219da733398bed",
+    "provenance_path": "editorial/provenance/chapter-0434.json",
+    "provenance_sha": "a4d6a6763378635ea93a854617b7b291fedff788"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Dreaming the Impossible Dream material from target437 is imported."
+  ]
+}
