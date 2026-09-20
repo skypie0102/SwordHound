@@ -2,8 +2,8 @@
   "chapter": 337,
   "title": "The Mating Room (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -11,8 +11,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
-    "status": "pass"
+    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/337.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-335.xhtml",
     "english_reference_sha": "e9916ae95a1142a9fb2051ab6f7c5c1d79f76ab5",
     "draft_path": "manuscript/drafts/chapter-0337.md",
-    "draft_sha": "2f30adb8107c9e5319747fa9802fb25fc8566be9",
+    "draft_sha": "11229fda596cf61f833f264b8afb00b78b06ae7c",
     "qa_path": "qa/chapter-0337.md",
-    "qa_sha": "5f3af46499cbc6091e71e8a64d866fa0bffb6200",
+    "qa_sha": "32ee84b252c53fc78ca8b3cc35677e426d1e71f3",
     "provenance_path": "editorial/provenance/chapter-0337.json",
-    "provenance_sha": "28d0b4916f3ce83d8d6feb495c183bc426ade8cd"
+    "provenance_sha": "461201271f66704ffa95286f9b093aae1f747ad9"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -32,5 +32,21 @@
   ],
   "corrections": [
     "Regeneration remains Beelzebub Slot2 Immortality — Gargoyle (S); local Basilisk drift rejected."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "2f30adb8107c9e5319747fa9802fb25fc8566be9",
+    "qa_sha": "5f3af46499cbc6091e71e8a64d866fa0bffb6200",
+    "provenance_sha": "28d0b4916f3ce83d8d6feb495c183bc426ade8cd"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/mating-room-0333-0338.md",
+    "initial_priority_target": false
+  },
+  "identity_timing_note": "Vikir explicitly reveals 'I am Night Hound' only at target337 close.",
+  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
 }
