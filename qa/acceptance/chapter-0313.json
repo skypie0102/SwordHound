@@ -2,8 +2,8 @@
   "chapter": 313,
   "title": "Hell Tree (7)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Hell Tree",
     "range": [
@@ -11,8 +11,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "7d30c8c8e8b9dc3cb5fe5242f651c4a171de655f",
-    "status": "pass"
+    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/313.txt",
@@ -20,14 +20,28 @@
     "english_reference_path": "source/chapters/chapter-311.xhtml",
     "english_reference_sha": "0b71d093b370305270cf4daa5d6b02042ee66b00",
     "draft_path": "manuscript/drafts/chapter-0313.md",
-    "draft_sha": "29d4fce580d8e7e518229bb6e1f395f2f633b59b",
+    "draft_sha": "887c817d6e28cb8230cc22bb1f5fc5786d454032",
     "qa_path": "qa/chapter-0313.md",
-    "qa_sha": "80e93a996995113318bbe7b45f0f27c0a8f71252",
+    "qa_sha": "4448a33b9e08068a6332f4619fce009cbf6621a3",
     "provenance_path": "editorial/provenance/chapter-0313.json",
-    "provenance_sha": "e872d2b64f18e82c66ac072ced046a392791198b"
+    "provenance_sha": "124de24327f954ad3447beab81d990ab86c0bcda"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Surplus Man material from target314 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "29d4fce580d8e7e518229bb6e1f395f2f633b59b",
+    "qa_sha": "80e93a996995113318bbe7b45f0f27c0a8f71252",
+    "provenance_sha": "e872d2b64f18e82c66ac072ced046a392791198b"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/hell-tree-0307-0313.md",
+    "initial_priority_target": true
+  }
 }
