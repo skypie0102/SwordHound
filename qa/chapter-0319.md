@@ -1,7 +1,11 @@
 # Chapter 319 QA — Surplus Man (6)
 
-**Status:** PASS  
+**Status:** NEEDS REWORK — prior PASS superseded by post-500 completeness audit  
 **Family acceptance:** contingent on `qa/families/surplus-man-0314-0320.md`
+
+## Reopening note
+
+Direct Chinese/draft comparison confirms summary-style compression across the Daylily fight, pooled-body-material preparation, reward sequence, and connective narration. The checks below remain useful as historical plot/terminology checks, but they did **not** establish complete sentence-level source coverage and must not be used to re-accept this draft. Rebuild against the full Chinese raw, then regenerate QA/provenance/acceptance evidence.
 
 ## Evidence
 - Chinese: `source/chinese/chapters/319.txt` — `f8011a0234edb2b1f7fb55fd3ecc1022e6b18ecf`
