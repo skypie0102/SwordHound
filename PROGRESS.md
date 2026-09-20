@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Dreaming the Impossible Dream (1)–(4) accepted
+
+**Current state:** 440 / 500 accepted; 0 staged; next Chapter 441.
+
+Completed targets **437–440** with mapping **E435–E438**.
+
+Key decisions: Chimeries is S+; Camus provides cavalry control; Marquis de Sade and Orca break the Usher sniper ambush; Tudor voluntarily accepts demon-hunter causality risk and kills Chimeries with Gungnir; House Donquixote is restored under Tudor; the intact Invincible Armada remains strategically important for an unrevealed future reason.
+
+Family QA: `qa/families/dreaming-impossible-dream-0437-0440.md` — **PASS**.
+
+Boundary correction: **The Fall of Usher is targets441–449 / E439–E447**, not 441–442. Target450/E448 begins *Declaration of War (1)*.
+
 ## 2026-09-20 — The Returned Hound (1)–(3) accepted
 
 **Current state:** 436 / 500 accepted; 0 staged; next Chapter 437.
