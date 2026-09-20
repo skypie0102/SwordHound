@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-21 — Cycle 2 Phase 0 COMPLETE
+
+Phase 0 baseline freeze and inventory passed.
+
+- Opening main commit: `8177e1c192cd7fcd55b04009fbe826bbd50f586b`
+- 500 targets represented in the fresh Cycle-2 ledger.
+- 118 contiguous title-family units enumerated.
+- 500 drafts / 500 chapter QA / 500 provenance / 500 acceptance files verified.
+- 492 Chinese raw files / 493 English witness files inventoried.
+- 36 source-exception rows reconciled; 8 shared raw containers confirmed.
+- 484 valid one-target draft/raw ratios frozen; 16 shared-container targets excluded from per-target ratio.
+- 0 tracker acceptance-SHA mismatches.
+- 31 deterministic diagnostics files cover Chapters 1–500 with 0 gaps / 0 overlaps.
+- 0 manuscript or accepted-evidence content edits during Phase 0.
+
+Phase 1 is now next: sanitization-fidelity sweep beginning with **Hellhound (1–3)**.
+
+Evidence: `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, `qa/cycle2-ledger.json`, and `qa/cycle2-baseline/`.
+
+
 ## 2026-09-21 — Full sanitization + completeness audit Cycle 2 OPENED
 
 **Immediate project priority:** exhaustive sanitization-fidelity and complete-source revalidation across **all 500 target chapters**.
