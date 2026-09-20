@@ -616,7 +616,9 @@
 
 ## Surplus Man additions — Chapters 314–320
 
-- **Surplus Man** — accepted seven-part family, targets314–320 / witnesses E312–E318. Previous 314–315 boundary was incomplete.
+- **Surplus Man completeness resolution** — all seven targets314–320 rebuilt against complete Chinese coverage; confirmed failures316 and319 resolved.
+
+- **Surplus Man** — accepted seven-part family, targets314–320 / witnesses E312–E318; completeness-rebuilt 2026-09-20.
 - **Daylily of Blood Tree** — S-rank tower plant on Basement Floor3; dehydrated/weakened but designed to be effectively unbeatable for ordinary students.
 - **Mission-duration rule** — maximum survival days track the current survivor count.
 - **Arthur Gordon Pym** — third-year noble-faction leader on Basement Floor3.
