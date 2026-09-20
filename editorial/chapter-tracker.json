@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 436,
+  "accepted_count": 440,
   "staged_count": 0,
-  "next_chapter": 437,
+  "next_chapter": 441,
   "active_title_family": {
-    "name": "Dreaming the Impossible Dream",
+    "name": "The Fall of Usher",
     "range": [
-      437,
-      440
+      441,
+      449
     ],
-    "boundary_status": "verified complete: target437→E435 through target440→E438",
-    "following_family_starts": 441,
-    "following_title": "The Fall of Usher (1)",
-    "alignment_note": "437→E435 through 440→E438; 441→E439 begins The Fall of Usher (1), continuing through target442→E440."
+    "boundary_status": "verified complete: target441→E439 through target449→E447",
+    "following_family_starts": 450,
+    "following_title": "Declaration of War (1)",
+    "alignment_note": "441→E439 through 449→E447; target450→E448 begins Declaration of War (1)."
   },
   "chapters": [
     {
@@ -6119,6 +6119,62 @@
       "acceptance": "qa/acceptance/chapter-0436.json",
       "acceptance_sha": "522dae3df011d9693263538668d8430bcce616b9",
       "family_qa": "qa/families/returned-hound-0434-0436.md"
+    },
+    {
+      "chapter": 437,
+      "title": "Dreaming the Impossible Dream (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/437.txt",
+      "english_mtl_reference": "source/chapters/chapter-435.xhtml",
+      "draft": "manuscript/drafts/chapter-0437.md",
+      "qa": "qa/chapter-0437.md",
+      "provenance": "editorial/provenance/chapter-0437.json",
+      "acceptance": "qa/acceptance/chapter-0437.json",
+      "acceptance_sha": "bc4a603f30af66ba433a11af4e7509fabccac8ab",
+      "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
+    },
+    {
+      "chapter": 438,
+      "title": "Dreaming the Impossible Dream (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/438.txt",
+      "english_mtl_reference": "source/chapters/chapter-436.xhtml",
+      "draft": "manuscript/drafts/chapter-0438.md",
+      "qa": "qa/chapter-0438.md",
+      "provenance": "editorial/provenance/chapter-0438.json",
+      "acceptance": "qa/acceptance/chapter-0438.json",
+      "acceptance_sha": "fe155b4bf845be8a966f9e6a9d29bcd8d2842caa",
+      "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
+    },
+    {
+      "chapter": 439,
+      "title": "Dreaming the Impossible Dream (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/439.txt",
+      "english_mtl_reference": "source/chapters/chapter-437.xhtml",
+      "draft": "manuscript/drafts/chapter-0439.md",
+      "qa": "qa/chapter-0439.md",
+      "provenance": "editorial/provenance/chapter-0439.json",
+      "acceptance": "qa/acceptance/chapter-0439.json",
+      "acceptance_sha": "004b1b4c58713575b13596a0dd7190ac3d71431b",
+      "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
+    },
+    {
+      "chapter": 440,
+      "title": "Dreaming the Impossible Dream (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/440.txt",
+      "english_mtl_reference": "source/chapters/chapter-438.xhtml",
+      "draft": "manuscript/drafts/chapter-0440.md",
+      "qa": "qa/chapter-0440.md",
+      "provenance": "editorial/provenance/chapter-0440.json",
+      "acceptance": "qa/acceptance/chapter-0440.json",
+      "acceptance_sha": "0017e3b57e785a55499bc2c374885dd186c24727",
+      "family_qa": "qa/families/dreaming-impossible-dream-0437-0440.md"
     }
   ]
 }
