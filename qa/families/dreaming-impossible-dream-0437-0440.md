@@ -3,7 +3,7 @@
 **Family status:** PASS  
 **Target range:** Chapters 437–440  
 **Mapping:** 437→E435, 438→E436, 439→E437, 440→E438  
-**Following family:** target441→E439 begins *The Fall of Usher (1)* and continues through target442→E440.
+**Following family:** *The Fall of Usher (1)–(9)* spans targets **441–449 / E439–E447**. Target450→E448 begins *Declaration of War (1)*.
 
 ## Family decisions
 
@@ -27,6 +27,7 @@
 - The Second Prince remains unverified; Academy royal-enrollment rumor is only a lead.
 - **Madeline**, current head of House Usher, is suspected of housing the Third Corpse; confirmation remains pending.
 - Family closes on the immediate decision to move against House Usher.
+- Boundary correction: **The Fall of Usher is a nine-part family, targets441–449 / E439–E447**; target450/E448 begins *Declaration of War (1)*.
 - Direct Fandom verification remains robots-blocked.
 
 ## Verdict
