@@ -94,7 +94,7 @@ Dolores had expected punishment when she proposed it to Pope Nabokov I.
 
 Instead—
 
-he smiled.
+Nabokov I smiled.
 
 **If the myth does not exist—
 
@@ -106,7 +106,7 @@ then create it.**
 
 **God respects human free will.**
 
-Then he patted Dolores on the head.
+Then Nabokov I patted Dolores on the head.
 
 **Your footsteps will become myth.**
 
