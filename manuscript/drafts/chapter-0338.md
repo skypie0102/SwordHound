@@ -1,40 +1,42 @@
 # Chapter 338: The Mating Room (6)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/338.txt`. Recovered English Chapter 336 is the verified shifted secondary witness. Established repo terminology controls Vikir, Sinclaire Bourgeois, Night Hound, Baby Madam, Decarabia, Picaresque Mask, Money Hat, and the accepted Gargoyle regeneration slot. The local/raw “Basilisk” regeneration drift is rejected in favor of **Immortality — Gargoyle (S)** continuity. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/338.txt`. Recovered English Chapter 336 is the verified shifted secondary witness. Established project terminology controls **Vikir**, **Sinclaire Bourgeois**, **Night Hound**, **Baby Madam**, **Decarabia**, **Picaresque Mask**, **Money Hat**, and **Immortality — Gargoyle (S)**. Floor10 destination uses the aligned source-local form **Lost Paradise** pending direct Fandom access.
 
-Water crashed down from above.
+Water thundered from above.
 
-The enclosure had become a flood.
+A flood—
 
-Sawdust.
+as if the laboratory intended to drown its own world.
+
+Wood shavings.
 
 Bowls.
 
-The wheel.
+Wheel.
 
 Buckets.
 
 Everything spun through the rising current.
 
-And in the middle of it—
+At the center—
 
-Vikir stood.
+Vikir.
 
 Truth or lie.
 
 Reveal or silence.
 
-He had reached the fork—
+At the crossroads—
 
-and made the same kind of decision he always did.
+he made the same dry decision he always made.
 
 “I am Night Hound.”
 
 Those words changed everything.
 
-The first change—
+First—
 
-was Sinclaire’s face.
+Sinclaire's face.
 
 Fear.
 
@@ -44,35 +46,41 @@ Confusion.
 
 Suspicion.
 
-All of it moved through eyes that had always looked unnaturally clear.
+All of it moved through her clear eyes at once.
 
 Then—
 
 BOOM!
 
-Vikir flipped the Picaresque Mask fully into place.
+Vikir pulled the **Picaresque Mask** fully into place.
 
-His body collapsed into black-dog form.
+His body changed.
 
-The sudden change in size let him slip free of the Dragon Majin’s fist.
+Black dog.
+
+Smaller frame.
+
+The sudden size difference allowed him to slip from beneath the Dragon Majin's fist.
 
 Baby Madam—
 
-riding his back—
+riding on his back—
 
-fired silk and caught Decarabia.
+fired silk.
+
+Caught Decarabia.
 
 Vikir returned to human form.
 
-Wrapped one arm around Sinclaire’s waist.
+Caught Sinclaire around the waist.
 
-And jumped.
+Then jumped.
 
-Just as he had once done during the fight with Belial.
+Just as he had once done during the battle with Belial.
 
 Sinclaire hung against him—
 
-staring blankly.
+staring.
 
 “Why…”
 
@@ -80,7 +88,7 @@ staring blankly.
 
 “Why?”
 
-“….”
+Vikir did not answer.
 
 “Then why did you save me?”
 
@@ -90,139 +98,152 @@ staring blankly.
 
 Her voice shook harder.
 
-In a world where she believed she had no one—
+She had tried to cut herself away from every attachment.
 
-there had been one person she had never managed to cut away.
+One person—
 
-“Why were you so kind to me…?”
+she never managed to sever.
 
-Rain covered her face.
+“Why were you kind to me?”
 
-But some of the water running down her cheeks—
-
-was not rain.
+Tears mixed with rain.
 
 Vikir had no time to answer.
 
-The water level kept rising.
+Water kept rising.
 
-Everything inside the enclosure was either floating—
+Everything inside the enclosure—
 
-or sinking.
+floating or sinking.
 
-*This is the opening.*
+*This is the chance.*
 
 *The last one.*
 
-The water had already climbed halfway up the walls.
+The flood already reached halfway up the wall.
 
 Vikir landed on the floating exercise wheel.
 
-Then kicked off with everything he had.
+Then kicked off—
+
+with everything he had.
 
 At the same time—
 
-he pulled hard on Baby Madam’s silk.
+he pulled hard on Baby Madam's silk.
 
 CRACK.
 
-The wheel shattered beneath his feet.
+The wheel shattered.
 
 Sank.
 
-A wave swallowed the surrounding sawdust.
+A wave swallowed nearby bedding.
 
-Vikir narrowly cleared it.
+Vikir cleared it.
 
-Then ran vertically up the translucent wall—
+Then—
 
-using the silk line for support.
+using the silk for support—
+
+ran almost vertically along the translucent wall.
 
 Jumped again.
 
 BANG!
 
-His knee struck the edge of the enclosure.
+His knee clipped the enclosure edge.
 
 Bone broke.
 
-Pain flashed.
+Pain.
 
-Then **Immortality — Gargoyle (S)** began repairing the damage.
+Then—
 
-Vikir twisted in the air.
+**Immortality — Gargoyle (S)** started repairing the fracture.
+
+Vikir rolled through the air.
 
 Cleared the wall.
 
-And landed outside—
+Landed outside—
 
 Sinclaire still in his arms.
 
-A system window appeared.
+A status window appeared.
 
-**<Mission Complete> — Escape from the Dragon Majin’s Enclosure!**
+> **<Mission Complete> — Escape from the Dragon Majin's Enclosure**
+>
+> The Dragon Majin enclosure is actually quite comfortable.  
+> Water. Food. A breeding partner. Everything is provided.  
+> Why insist on returning to a harsh world?
+>
+> A world with everything except freedom—  
+> or a world with freedom and nothing.
+>
+> The choice belongs to the challenger.
 
-**※ The Dragon Majin’s enclosure is actually quite comfortable. Water, food, and a mating partner are all provided. Why insist on returning to such a harsh world?**
+Finished.
 
-**※ A world with everything except freedom—or a world with freedom and nothing. The choice belongs entirely to the challenger ♥**
+A difficult escape.
 
-The mission was finally complete.
+Vikir placed Sinclaire on the black stone floor.
 
-Vikir set Sinclaire down on the black stone floor.
+They looked at one another.
 
-They looked at each other.
+Silence.
 
-“….”
-
-“….”
-
-Sinclaire spoke first.
+Then Sinclaire spoke.
 
 “That look.”
 
-“….”
+Vikir said nothing.
 
-“I know it.”
+“I've seen it.”
 
 “You have a goal.”
 
-“And you’ll sacrifice anything to reach it.”
+“And you'll sacrifice anything to reach it.”
 
 Vikir paused.
 
 They had spoken about this before.
 
-*I’ve only ever seen one person with eyes like yours.*
+*I've only seen one person with eyes like yours.*
 
 *My father.*
 
-*Someone moving toward a goal ordinary people can’t even imagine.*
+*Someone moving toward a goal ordinary people cannot imagine.*
 
-*I can tell just by looking.*
+*You can see it in the eyes.*
 
 *You and Father are the same kind of person.*
 
-Tears slid down Sinclaire’s face.
+Tears ran down Sinclaire's face.
 
-Vikir hesitated.
+Vikir hesitated—
 
-Should he wipe them away—
+whether to wipe them away—
 
-or leave them?
+or leave them.
 
-The system made the decision irrelevant.
+The system interrupted.
 
-**<Special Mission> — Pursuit of the Enraged Dragon Majin**
+> **<Special Mission> — Pursuit of the Enraged Dragon Majin**
+>
+> Did you think escaping was the end?
+>
+> If an insect you kept escaped—
+> wouldn't you try to catch it?
+>
+> If it crawled into a crack—
+> ugh!
+>
+> Run while the gate is opening.
+>
+> Good luck.
 
-**※ Did you really think escaping would end it?**
-
-**※ If an insect you were raising escaped, wouldn’t you try to catch it again?**
-
-**※ And if it crawled into some crack… ugh!**
-
-**※ Run until the gate opens! Good luck!**
-
-Something enormous fell from above.
+Something enormous dropped from above.
 
 BOOM!
 
@@ -230,31 +251,35 @@ A blue fist—
 
 like lightning.
 
-The Dragon Majin had no intention of letting the escaped specimens go.
+The Dragon Majin had been struck.
 
-Vikir caught the blow with both hands.
+Its collection specimens had escaped.
+
+The enclosure had been flooded.
+
+It had no intention of letting them leave.
+
+Vikir caught the fist with both hands.
 
 CRACK!
 
-The weight was absurd.
+Weight beyond expectation.
 
-The impact—
-
-worse.
+Impact beyond expectation.
 
 Dragon blood—
 
-once belonging to the world’s dominant race.
+from a species once dominant across the world.
 
 Demonic power—
 
-added on top of it.
+added on top.
 
 And Vikir—
 
-still restricted by the tower.
+still sealed by the tower.
 
-His skin split.
+Skin split.
 
 Muscles tore.
 
@@ -268,133 +293,127 @@ Pressure surged through his body.
 
 Mana channels ruptured.
 
-Power spilled in every direction.
+Directionless mana spilled through him.
 
 Without **Immortality — Gargoyle (S)**—
 
-his mana would already have gone out of control.
+he might already have suffered full mana rampage.
 
 Then—
 
 “…!”
 
-Vikir saw it.
-
-Behind Sinclaire.
-
-A gate.
+Vikir saw the gate behind Sinclaire.
 
 Black.
 
 Oval.
 
-Narrow enough for only one person.
+Only large enough for one person.
 
-DING.
+Ding.
 
-[Basement Floor10 — ‘Lost Paradise’ discovered.]
-
-An exit.
+[Basement Floor 10 — **Lost Paradise** discovered.]
 
 The next floor.
 
+An exit.
+
 Safety—
 
-one step away.
+almost within reach.
 
 But Vikir could not enter.
 
-Both hands were occupied holding back the Dragon Majin’s fist.
+Both hands were occupied holding the Dragon Majin's fist.
 
 “Bro!”
 
 Sinclaire forced herself upright.
 
-Gathered the last of her mana.
+Gathered the last mana she possessed.
 
-Drew a magic circle.
+Drew a circle.
 
 FLASH.
 
-RUMBLE—
+RUMBLE.
 
-A giant golden arm emerged from the Money Hat.
+A huge golden arm emerged from the **Money Hat**.
 
 It braced against the ground.
 
-Then pushed upward against the Dragon Majin’s fist.
+Pushed upward against the Dragon Majin fist.
 
-The pressure on Vikir lessened.
+The load on Vikir decreased—
 
-Only slightly.
+slightly.
 
-But enough.
-
-The blood filling his eyes began to clear.
+Enough for the blood in his vision to clear.
 
 Vikir looked at Sinclaire.
 
 Sinclaire looked back.
 
-For one instant—
+For a single instant—
 
-she saw something in his eyes.
-
-A tremor.
+she saw hesitation in his eyes.
 
 Then—
 
-her vision was filled by the sole of his foot.
+a large foot covered her view.
 
-*…A foot?*
+*…Foot?*
 
 THUD.
 
-Vikir kicked her directly in the face.
+Vikir kicked Sinclaire directly in the face.
 
-“…!”
+Her head snapped backward.
 
-Sinclaire flew backward.
+Her body flew toward the gate.
 
-There had been no better option.
+There was no elegant option.
 
-Both of Vikir’s hands were still holding the Dragon Majin’s fist.
+Both his hands were occupied.
 
-The only limb he could use—
+The only limb available—
 
 was a leg.
 
-So he kicked her toward the gate.
+Sinclaire hit the floor.
 
-Sinclaire hit the ground—
+Slid.
 
-then slid into the black oval.
+Entered the black portal.
 
-Darkness began swallowing her body.
+Darkness began swallowing her.
 
-She struggled.
+She fought it.
 
-Reached out.
+Pushed up.
 
-Their eyes met one last time.
+Reached toward Vikir.
 
-The exchange lasted less than a heartbeat.
+Their eyes met one final time.
 
-Yet both remembered earlier words.
+Less than a heartbeat.
+
+Yet old words moved between them.
 
 *Demons are absolute evil.*
 
-*You aren’t foolish enough not to understand that.*
+*You're not foolish enough to misunderstand that.*
 
 *Stop treating me like a child.*
 
-*There isn’t even that much difference in our ages.*
+*There isn't even much age difference between us.*
 
-*Someone opposing absolute evil isn’t automatically good.*
+*Someone fighting absolute evil is not automatically good.*
 
-*But when the final battle comes—*
+*But when the decisive battle comes—*
 
-*I believe you’ll know which side to stand on.*
+*I believe you'll know where to stand.*
 
 And—
 
@@ -406,9 +425,11 @@ And—
 
 *Those belong to you.*
 
-The words Night Hound had spoken on the night Bartolomeo died.
+Words spoken by Night Hound on the night Bartolomeo died.
 
-Now Vikir repeated the core of them.
+Now—
+
+Vikir reduced them to one instruction.
 
 “Decide for yourself.”
 
@@ -418,48 +439,54 @@ Now Vikir repeated the core of them.
 
 “What you believe.”
 
-What Sinclaire believed—
+Sinclaire's belief—
 
-had to be her own decision.
+had to be her own.
 
-That was advice for her.
+The sentence was advice for her.
 
-And for Vikir himself.
+And—
 
-The Dragon Majin’s fist.
+for Vikir.
 
-An irresistible force.
+The Dragon Majin's fist remained above him.
 
-Sending Sinclaire away first—
+An overwhelming weight.
 
-even if it meant remaining behind—
+Choosing to send Sinclaire away first—
 
-was Vikir’s choice.
+even if he remained behind—
 
-The responsibility for it—
+was Vikir's decision.
 
-also belonged to him.
+The consequence—
+
+his responsibility.
 
 “No…”
 
-“Wait!”
-
 “No!”
 
-Sinclaire tried desperately to resist the pull of the gate.
+“Wait!”
+
+Sinclaire fought the gate's pull.
 
 Then—
 
-BOOM.
+BOOM!
 
-The Dragon Majin’s fist finally struck the ground.
+The Dragon Majin's fist finally struck the ground.
 
-Everything underneath it—
+Everything underneath—
 
-was crushed beyond recognition.
+crushed beyond recognizable shape.
 
 At almost the same instant—
 
-the gate swallowed Sinclaire completely.
+the portal swallowed Sinclaire completely.
 
-Her vision turned black.
+Her vision went black.
+
+Vikir's immediate fate—
+
+remained unseen.
