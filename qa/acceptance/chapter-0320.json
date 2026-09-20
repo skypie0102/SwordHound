@@ -2,8 +2,8 @@
   "chapter": 320,
   "title": "Surplus Man (7)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -11,8 +11,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "7ba4e824864f7cca21545d4ef946c8075a6d4e40",
-    "status": "pass"
+    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/320.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-318.xhtml",
     "english_reference_sha": "c36ae9bf69e084568950b90775593f0a0fda7dd3",
     "draft_path": "manuscript/drafts/chapter-0320.md",
-    "draft_sha": "f80a540da484ac809155a60c0d2c39930e80ae5c",
+    "draft_sha": "068b3a43b80e9e383c995f69a52cf9bd5060816e",
     "qa_path": "qa/chapter-0320.md",
-    "qa_sha": "6ff7368c5c75bcec506ff63795ba5f92750ee657",
+    "qa_sha": "02ae382cc58af27cb4dfa06af3ceed759bdbc697",
     "provenance_path": "editorial/provenance/chapter-0320.json",
-    "provenance_sha": "54fd6520a1721a9d8b4287ea45cd7d1869b42cd6"
+    "provenance_sha": "b06582d79d4d68ac21964e83eb288a3e309e822d"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Underdogma material from target321 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "previous_status": null,
+    "draft_sha": "f80a540da484ac809155a60c0d2c39930e80ae5c",
+    "qa_sha": "6ff7368c5c75bcec506ff63795ba5f92750ee657",
+    "provenance_sha": "54fd6520a1721a9d8b4287ea45cd7d1869b42cd6"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/surplus-man-0314-0320.md",
+    "initial_priority_target": true,
+    "confirmed_failure_resolved": false
+  }
 }
