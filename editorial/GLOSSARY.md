@@ -1,3 +1,17 @@
+## Declaration of War additions — Chapters 450–453
+
+- **Declaration of War** — accepted four-part family, targets450–453 / witnesses E448–E451.
+- **Juskin de Leviathan** — Fandom-supported canonical eldest-son/heir form; older shifted-witness `Süskind` rejected.
+- **Hopps de Leviathan** — Fandom-supported canonical Leviathan patriarch form; demon occupying Hopps is identified only as **Second Corpse** at this reveal point.
+- **Raspane Morgue** — Fandom-supported Morgue matriarch form.
+- **First Corpse / Second Corpse reveal guard** — target450 confirms they are the last surviving Corpses but does not expose later true names in production.
+- **Ouroboros poison source** — at target450, Hopps’s magical essence manifests through two entwined venomous snakes creating poison in an endless cycle; later weapon-form information is not imported early.
+- **Improved Poison Humans** — contagious, command-responsive Red-Death carriers; earlier Sakkuth prototype lacked the decisive contagion property.
+- **Black Tongue current captain** — aligned E450 securely restores that displaced Nouvelle Vague wardens accept Black Tongue as their current leader after the prison’s destruction.
+- **Long Rain of Terror** — accepted project term reaffirmed for the 150-day / five-month fire-rain catastrophe; reject local `Rainy Season of Fire`.
+- **Infiltration of the Water Source** — next family targets454–464 / E452–E462.
+- **The Prelude to a Counterattack** — begins target465 / E463.
+
 ## The Fall of Usher additions — Chapters 441–449
 
 - **The Fall of Usher** — accepted nine-part family, targets441–449 / witnesses E439–E447.
