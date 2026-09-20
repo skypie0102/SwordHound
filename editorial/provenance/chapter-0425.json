@@ -1,0 +1,37 @@
+{
+  "chapter": 425,
+  "title": "The Night Walkers (1)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Night Walkers",
+    "range": [
+      425,
+      429
+    ],
+    "family_qa_path": "qa/families/night-walkers-0425-0429.md",
+    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/425.txt",
+    "blob_sha": "88b44a6090947591df2cf1252bb23fb63708ce90",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-423.xhtml",
+    "blob_sha": "77137c9e7ad2108b016b0fa79ff140c937a21863",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0425.md",
+    "blob_sha": "263d17a5882e4243271677613ee3fa41d141b20c"
+  },
+  "qa": {
+    "path": "qa/chapter-0425.md",
+    "blob_sha": "36b8b95ca40ae930d5d970116f2b9d4042ca9aa9",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20"
+}
