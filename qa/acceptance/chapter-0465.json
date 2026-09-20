@@ -1,0 +1,33 @@
+{
+  "chapter": 465,
+  "title": "The Prelude to a Counterattack (1)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Prelude to a Counterattack",
+    "range": [
+      465,
+      470
+    ],
+    "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
+    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/465.txt",
+    "primary_source_sha": "b749378314862c7a5640ab71ab6de6964e702735",
+    "english_reference_path": "source/chapters/chapter-463.xhtml",
+    "english_reference_sha": "1e5ae4016700f3e5f66c5c6a7e5b92ffe6736ce7",
+    "draft_path": "manuscript/drafts/chapter-0465.md",
+    "draft_sha": "0d2d50ae7a8c908cc5a9fbd64672719c50575401",
+    "qa_path": "qa/chapter-0465.md",
+    "qa_sha": "4a8d9226e76ced510923114ff9df035b6acbf0bb",
+    "provenance_path": "editorial/provenance/chapter-0465.json",
+    "provenance_sha": "bc3783611be989ddaf1e5c3ac29d95489299f352"
+  },
+  "documented_limits": [
+    "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
+    "No target471-family material imported."
+  ]
+}

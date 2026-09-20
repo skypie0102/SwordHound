@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 464,
+  "accepted_count": 470,
   "staged_count": 0,
-  "next_chapter": 465,
+  "next_chapter": 471,
   "active_title_family": {
-    "name": "The Prelude to a Counterattack",
+    "name": "Tochka Annihilation Battle",
     "range": [
-      465,
-      470
+      471,
+      475
     ],
-    "boundary_status": "verified complete: target465→E463 through target470→E468",
-    "following_family_starts": 471,
-    "following_title": "Tochka Annihilation Battle (1)",
-    "alignment_note": "465→E463 through 470→E468; target471→E469 begins Tochka Annihilation Battle (1)."
+    "boundary_status": "verified contiguous family segment: target471→E469 through target475→E473",
+    "following_family_starts": 476,
+    "following_title": "Knowing the Fate of My Father (1)",
+    "alignment_note": "471→E469 through 475→E473; 476→E474 begins Knowing the Fate of My Father (1)-(2), then 478→E476 returns to Tochka Annihilation Battle (6)."
   },
   "chapters": [
     {
@@ -6511,6 +6511,90 @@
       "acceptance": "qa/acceptance/chapter-0464.json",
       "acceptance_sha": "1f7eb7a24bc61ff8f227352e1b9405701a698dc7",
       "family_qa": "qa/families/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 465,
+      "title": "The Prelude to a Counterattack (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/465.txt",
+      "english_mtl_reference": "source/chapters/chapter-463.xhtml",
+      "draft": "manuscript/drafts/chapter-0465.md",
+      "qa": "qa/chapter-0465.md",
+      "provenance": "editorial/provenance/chapter-0465.json",
+      "acceptance": "qa/acceptance/chapter-0465.json",
+      "acceptance_sha": "ec6a8483976e49c83a14fac17ccadd8f7f327f82",
+      "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 466,
+      "title": "The Prelude to a Counterattack (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/466.txt",
+      "english_mtl_reference": "source/chapters/chapter-464.xhtml",
+      "draft": "manuscript/drafts/chapter-0466.md",
+      "qa": "qa/chapter-0466.md",
+      "provenance": "editorial/provenance/chapter-0466.json",
+      "acceptance": "qa/acceptance/chapter-0466.json",
+      "acceptance_sha": "9786df1820763e6495442b1870dc3dfabdeb2e6f",
+      "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 467,
+      "title": "The Prelude to a Counterattack (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/467.txt",
+      "english_mtl_reference": "source/chapters/chapter-465.xhtml",
+      "draft": "manuscript/drafts/chapter-0467.md",
+      "qa": "qa/chapter-0467.md",
+      "provenance": "editorial/provenance/chapter-0467.json",
+      "acceptance": "qa/acceptance/chapter-0467.json",
+      "acceptance_sha": "1c61e38adf155393c301c5d370a3ac4729d48fad",
+      "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 468,
+      "title": "The Prelude to a Counterattack (4)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/468.txt",
+      "english_mtl_reference": "source/chapters/chapter-466.xhtml",
+      "draft": "manuscript/drafts/chapter-0468.md",
+      "qa": "qa/chapter-0468.md",
+      "provenance": "editorial/provenance/chapter-0468.json",
+      "acceptance": "qa/acceptance/chapter-0468.json",
+      "acceptance_sha": "9a32a2261f6402dc52d7c5486d33c84458671d0d",
+      "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 469,
+      "title": "The Prelude to a Counterattack (5)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/469.txt",
+      "english_mtl_reference": "source/chapters/chapter-467.xhtml",
+      "draft": "manuscript/drafts/chapter-0469.md",
+      "qa": "qa/chapter-0469.md",
+      "provenance": "editorial/provenance/chapter-0469.json",
+      "acceptance": "qa/acceptance/chapter-0469.json",
+      "acceptance_sha": "eee8c8023f7f862026b0cfb0a3e338abcefe6461",
+      "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 470,
+      "title": "The Prelude to a Counterattack (6)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/470.txt",
+      "english_mtl_reference": "source/chapters/chapter-468.xhtml",
+      "draft": "manuscript/drafts/chapter-0470.md",
+      "qa": "qa/chapter-0470.md",
+      "provenance": "editorial/provenance/chapter-0470.json",
+      "acceptance": "qa/acceptance/chapter-0470.json",
+      "acceptance_sha": "b149a767c05a58d6e274d256f6df18a7ae9f354e",
+      "family_qa": "qa/families/prelude-counterattack-0465-0470.md"
     }
   ]
 }

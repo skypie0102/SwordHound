@@ -1,3 +1,18 @@
+## The Prelude to a Counterattack additions — Chapters 465–470
+
+- **The Prelude to a Counterattack** — accepted six-part family, targets465–470 / witnesses E463–E468.
+- **Kirko Grimm survival chain** — Vikir’s pre-escape BDISSEM instruction saves Kirko; Asmodeus chooses her as a new host and Flubber bonds to her.
+- **Kirko / Black Tongue distinction** — Kirko inherits Black Tongue-like vampire-leech physical traits and battlefield role; the original male Black Tongue is not resurrected.
+- **Allied convergence** — Baskerville, Morgue, Quovadis, Bourgeois, academy forces, Tochka forces, and Ballak converge on the water-source front.
+- **Flauros water trap** — underground water exists; Flauros opens it only to contaminate it immediately through Ouroboros / Red Death.
+- **Adult Baby Madam** — returns with a vast spider brood that consumes Red Death; Ballak survivors Aheul / Ahun return with the spiders.
+- **Pigi objective reveal** — Flauros’s main Tochka objective was Pigi, not primarily Vikir.
+- **Pigi family/vision guard** — recurring childhood rejection and demon-linked voice phenomenon remain unresolved; apparent death at target469 is not expanded beyond source timing.
+- **Granola de Leviathan** — Fandom-backed project canon for the Reaper / Hopps’s third son / Comprachicos commander. External MTL “Grenouille” is a witness variant.
+- **Lips of Sweet Talk** — Granola’s one-person yes/no artifact with century-scale cooldown; target470 ends before its answer is shown.
+- **Tochka Annihilation Battle** — next contiguous family targets471–475 / E469–E473.
+- **Knowing the Fate of My Father** — targets476–477 / E474–E475; target478/E476 returns to Tochka Annihilation Battle (6).
+
 ## Infiltration of the Water Source additions — Chapters 454–464
 
 - **Infiltration of the Water Source** — accepted eleven-part family, targets454–464 / witnesses E452–E462.
