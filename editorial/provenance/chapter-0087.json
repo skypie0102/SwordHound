@@ -1,7 +1,7 @@
 {
   "chapter": 87,
   "title": "The Illiad (3)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Illiad",
     "range": [
@@ -9,8 +9,8 @@
       89
     ],
     "family_qa_path": "qa/families/illiad-0085-0089.md",
-    "family_qa_sha": "79f17461c32dd9cb0533f55fa3f16ebec367c45c",
-    "status": "pass"
+    "family_qa_sha": "a5a68b2bb01f29d06f415d53cb428ecfbf50fd9a",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/087.txt",
@@ -51,12 +51,12 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0087.md",
-    "blob_sha": "138db9e61ef2258db5e09e593cda31e6a54c3e29"
+    "blob_sha": "44f50dfe39f6561bc6fcef0866eac15ced40bcda"
   },
   "qa": {
     "path": "qa/chapter-0087.md",
-    "blob_sha": "05a1720e186ad896d0e62e4072c64dde31303af9",
-    "status": "pass"
+    "blob_sha": "f2ccb9e2b73ae02b5fa97b01c70ef7fbfa9027d3",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -86,5 +86,17 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "138db9e61ef2258db5e09e593cda31e6a54c3e29",
+    "qa_sha": "05a1720e186ad896d0e62e4072c64dde31303af9"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/illiad-0085-0089.md"
+  }
 }
