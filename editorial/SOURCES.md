@@ -32,17 +32,23 @@ This change in semantic authority does **not** cancel the already-established En
 
 ## Chinese corpus coverage
 
-The target is Chapters 1–500. There are 492 physical Chinese files, covering 499 target chapters because seven files each contain two chapters.
+The target is Chapters 1–500. There are 492 physical Chinese files. Because several files are combined/overlapping containers, the corpus contains at least partial Chinese text for all 500 targets.
 
-See `source/chinese/chapter-exceptions.tsv` for machine-readable exceptions and `source/chinese/README.md` for the audit.
+See `source/chinese/chapter-exceptions.tsv` for the authoritative machine-readable exceptions and `source/chinese/README.md` for the audit.
 
-### Missing source
+### Partial source / Chapter 55 overlap
 
-Chapter 55 has no Chinese raw. For that chapter only, the recovered English MTL Chapter 55 is the sole text source. It requires full editorial QA, canonical terminology checks, and explicit uncertainty review.
+There is no standalone `055.txt`, but Chapter 55 is **not English-only**. Accepted Chapter 54/55 boundary QA established that `054.txt` contains target 54 followed by most of target 55 without a Chapter-55 heading.
+
+- E54 restores only the short missing target-54 closing exchange.
+- E55 supplies the missing target-55 opening/title boundary.
+- Chinese `054.txt` remains semantic authority for the surviving target-55 body.
+
+Other localized gaps are documented in `source/chinese/chapter-exceptions.tsv`; the English witness is authoritative only for the specifically missing span.
 
 ### Combined source files
 
-The following source containers are combined and currently remain intact: `075.txt` → 75–76; `267.txt` → 267–268; `284.txt` → 284–285; `351.txt` → 351–352; `353.txt` → 353–354; `385.txt` → 385–386; `495.txt` → 495–496.
+The following source containers cover more than one target and remain intact: `054.txt` → overlapping 54–55; `075.txt` → 75–76; `267.txt` → 267–268; `284.txt` → 284–285; `351.txt` → 351–352; `353.txt` → 353–354; `385.txt` → 385–386; `495.txt` → 495–496.
 
 An audit found no reliable explicit second-chapter marker in those files. Do not introduce an arbitrary raw split. Establish the translation boundary with source sequence plus verified English title/content alignment; then emit two separate translated chapters.
 
