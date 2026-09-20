@@ -33,7 +33,7 @@ The next pending priority target is **225**, inside **Tuition (225–233)**. Tha
 ## Branch / PR state
 
 - Working branch: `audit/attack-land-190-196-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #131, **Rebuild Attack Land Chapters 190–196 for completeness**: OPEN.
 - Nostalgia completeness PR #130: merged.
 
 ## Exact next actions
