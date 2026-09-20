@@ -2,8 +2,8 @@
   "chapter": 330,
   "title": "The Shadowless King of the Black Sea (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "The Shadowless King of the Black Sea",
     "range": [
@@ -11,8 +11,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "0bb6c356dfe55802359478ee40bb5a618c0f268e",
-    "status": "pass"
+    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/330.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-328.xhtml",
     "english_reference_sha": "59c74dd123755ff13c7aef8557d9814446bc4b90",
     "draft_path": "manuscript/drafts/chapter-0330.md",
-    "draft_sha": "7f58a6ba224ff1c1f8aa2d82ba2a47f52247c9cc",
+    "draft_sha": "f770a68fd3bcf27e846253812a4d4266c53a541e",
     "qa_path": "qa/chapter-0330.md",
-    "qa_sha": "24ff3d16f72ee7942773218a6de81ccf048cb047",
+    "qa_sha": "dc1ef0c8b14e6588a30f9ea660dc302382cb799c",
     "provenance_path": "editorial/provenance/chapter-0330.json",
-    "provenance_sha": "de445dd117a8c2bec7d87cecbfc0b611e0c60af1"
+    "provenance_sha": "9a25155f3ea681c05ee2d6de38d4262bddf11565"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Draw material from target331 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "7f58a6ba224ff1c1f8aa2d82ba2a47f52247c9cc",
+    "qa_sha": "24ff3d16f72ee7942773218a6de81ccf048cb047",
+    "provenance_sha": "de445dd117a8c2bec7d87cecbfc0b611e0c60af1"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
+    "initial_priority_target": false
+  },
+  "reward_note": "A+ Majin and S-rank Shadowless King achievements remain separate."
 }
