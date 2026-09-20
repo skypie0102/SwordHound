@@ -2,7 +2,7 @@
   "schema_version": 1,
   "audit": "full_sanitization_completeness_cycle2",
   "status": "active",
-  "phase": "phase_0_baseline_freeze_and_audit_inventory",
+  "phase": "phase_0_complete_phase_1_ready",
   "opening_main_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opening_tree_sha": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opened": "2026-09-21",
@@ -1974,7 +1974,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.239911,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2019,7 +2019,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.211116,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2064,7 +2064,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.286815,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2109,7 +2109,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.223067,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2154,7 +2154,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.06196,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2199,7 +2199,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.134984,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2244,7 +2244,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.18451,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2289,7 +2289,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.259948,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2334,7 +2334,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.186759,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2379,7 +2379,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.1481,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2424,7 +2424,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.098515,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2469,7 +2469,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.117444,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2514,7 +2514,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.266471,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2559,7 +2559,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.142004,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2604,7 +2604,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.193925,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2649,7 +2649,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.223599,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2694,7 +2694,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.199086,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2739,7 +2739,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.111519,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2784,7 +2784,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.119544,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2829,7 +2829,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.085283,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2874,7 +2874,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.130465,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2919,7 +2919,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.956715,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -2964,7 +2964,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.966654,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3009,7 +3009,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.95571,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3054,7 +3054,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.047991,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3099,7 +3099,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.149943,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3144,7 +3144,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.179172,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3189,7 +3189,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.199251,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3234,7 +3234,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.107243,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3279,7 +3279,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.078021,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3324,7 +3324,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.274205,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3369,7 +3369,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.141479,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3414,7 +3414,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.168726,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3459,7 +3459,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.265092,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3504,7 +3504,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.117764,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3549,7 +3549,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.014212,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3594,7 +3594,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.187448,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3639,7 +3639,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.13297,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3684,7 +3684,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.930693,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3729,7 +3729,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.159419,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3774,7 +3774,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.168757,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3819,7 +3819,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.249185,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3864,7 +3864,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.155843,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3909,7 +3909,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.110799,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3954,7 +3954,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.108187,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -3999,7 +3999,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.192224,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4044,7 +4044,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.045063,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4089,7 +4089,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.103866,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4138,7 +4138,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.357749,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4183,7 +4183,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.173967,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4228,7 +4228,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.197718,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4273,7 +4273,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.057171,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4318,7 +4318,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.069236,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4368,7 +4368,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4418,7 +4418,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4463,7 +4463,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.742831,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4508,7 +4508,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.683807,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4553,7 +4553,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.713287,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4598,7 +4598,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.940296,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4643,7 +4643,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.731837,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4688,7 +4688,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.916972,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4733,7 +4733,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.835938,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4778,7 +4778,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.826885,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4823,7 +4823,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.671286,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4868,7 +4868,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.684176,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4913,7 +4913,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.63349,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -4958,7 +4958,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.672446,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5003,7 +5003,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.93234,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5048,7 +5048,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.707981,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5093,7 +5093,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.661685,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5138,7 +5138,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.811055,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5183,7 +5183,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.840482,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5228,7 +5228,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.711954,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5273,7 +5273,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.86034,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5323,7 +5323,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5373,7 +5373,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5418,7 +5418,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.62937,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5463,7 +5463,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.860982,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5508,7 +5508,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.740044,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5553,7 +5553,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.63821,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5598,7 +5598,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.652593,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5643,7 +5643,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.777693,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5688,7 +5688,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.768607,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5733,7 +5733,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.722247,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5778,7 +5778,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.216199,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5823,7 +5823,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.190822,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5868,7 +5868,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.066085,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5913,7 +5913,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.127263,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -5958,7 +5958,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.14568,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6003,7 +6003,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.245883,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6048,7 +6048,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.19041,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6093,7 +6093,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.174797,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6138,7 +6138,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.12174,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6183,7 +6183,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.258278,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6232,7 +6232,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.315196,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6277,7 +6277,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.123562,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6322,7 +6322,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.955453,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6367,7 +6367,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.966634,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6412,7 +6412,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.967691,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6457,7 +6457,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.992629,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6502,7 +6502,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.119742,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6547,7 +6547,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.132067,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6592,7 +6592,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.106319,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6637,7 +6637,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.039488,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6686,7 +6686,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.987337,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6735,7 +6735,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.003714,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6784,7 +6784,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.043393,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6833,7 +6833,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.900254,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6882,7 +6882,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.016535,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6931,7 +6931,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.135054,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -6980,7 +6980,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.963928,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7029,7 +7029,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.933715,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7078,7 +7078,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.017926,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7127,7 +7127,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.988866,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7176,7 +7176,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.959887,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7225,7 +7225,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.06911,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7274,7 +7274,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.120956,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7323,7 +7323,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.154849,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7372,7 +7372,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.190793,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7421,7 +7421,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.327847,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7466,7 +7466,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.217416,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7511,7 +7511,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.092776,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7556,7 +7556,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.068741,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7601,7 +7601,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.203165,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7646,7 +7646,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.444671,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7691,7 +7691,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.258584,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7736,7 +7736,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.160998,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7781,7 +7781,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.026347,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7826,7 +7826,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.993464,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7871,7 +7871,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.075731,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7916,7 +7916,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.041721,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -7961,7 +7961,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.928701,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8006,7 +8006,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.896733,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8051,7 +8051,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.935762,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8096,7 +8096,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.83532,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8141,7 +8141,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.699205,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8186,7 +8186,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.728657,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8231,7 +8231,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.774337,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8276,7 +8276,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.921828,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8321,7 +8321,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.8651,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8366,7 +8366,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.146863,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8411,7 +8411,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.245087,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8456,7 +8456,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.289968,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8501,7 +8501,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.206293,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8546,7 +8546,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.133276,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8591,7 +8591,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.066022,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8636,7 +8636,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.167029,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8681,7 +8681,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.062521,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8726,7 +8726,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.103665,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8771,7 +8771,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.09736,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8816,7 +8816,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.219253,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8861,7 +8861,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.129226,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8906,7 +8906,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.084627,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8951,7 +8951,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.843413,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -8996,7 +8996,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.130927,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9041,7 +9041,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.193265,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9086,7 +9086,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.024211,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9131,7 +9131,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.056822,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9176,7 +9176,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.120339,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9221,7 +9221,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.955045,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9266,7 +9266,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.944987,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9311,7 +9311,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.805391,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9356,7 +9356,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.727452,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9401,7 +9401,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.754583,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9446,7 +9446,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.724987,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9491,7 +9491,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.794903,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9536,7 +9536,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.771358,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9581,7 +9581,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.047394,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9626,7 +9626,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.089812,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9675,7 +9675,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.314616,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9720,7 +9720,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.992283,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9769,7 +9769,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.922284,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9814,7 +9814,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.017715,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9859,7 +9859,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.928584,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9904,7 +9904,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.054723,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9949,7 +9949,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.68563,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -9994,7 +9994,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.759263,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10039,7 +10039,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.768807,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10084,7 +10084,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.875039,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10129,7 +10129,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.805414,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10174,7 +10174,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.689887,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10219,7 +10219,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.821998,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10264,7 +10264,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.75724,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10309,7 +10309,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.903954,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10354,7 +10354,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.831783,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10399,7 +10399,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.933529,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10444,7 +10444,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.749657,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10489,7 +10489,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.850241,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10534,7 +10534,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.768026,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10579,7 +10579,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.016658,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10624,7 +10624,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.058218,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10669,7 +10669,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.898107,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10714,7 +10714,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.889477,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10759,7 +10759,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.974205,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10804,7 +10804,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.824994,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10849,7 +10849,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.944119,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10894,7 +10894,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.745708,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10939,7 +10939,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.838971,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -10984,7 +10984,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.807282,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11029,7 +11029,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.712341,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11074,7 +11074,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.757958,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11119,7 +11119,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.760451,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11164,7 +11164,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.788051,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11209,7 +11209,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.771166,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11254,7 +11254,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.806532,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11299,7 +11299,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.717208,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11344,7 +11344,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.818575,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11389,7 +11389,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.700319,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11434,7 +11434,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.897168,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11479,7 +11479,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.719743,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11524,7 +11524,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.67734,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11569,7 +11569,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.782013,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11614,7 +11614,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.663623,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11659,7 +11659,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.675193,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11704,7 +11704,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.773117,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11749,7 +11749,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.092272,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11794,7 +11794,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.926337,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11839,7 +11839,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.150095,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11884,7 +11884,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.124144,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11929,7 +11929,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.643842,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -11974,7 +11974,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.763118,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12019,7 +12019,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.771874,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12064,7 +12064,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.774801,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12109,7 +12109,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.763549,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12154,7 +12154,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.006137,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12199,7 +12199,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.044642,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12244,7 +12244,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.903719,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12289,7 +12289,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.063714,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12334,7 +12334,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.003967,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12379,7 +12379,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.939549,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12424,7 +12424,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.966281,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12469,7 +12469,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.991907,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12514,7 +12514,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.923397,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12559,7 +12559,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.768762,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12604,7 +12604,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.732107,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12649,7 +12649,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.037917,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12694,7 +12694,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.904798,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12739,7 +12739,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.864347,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12784,7 +12784,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.965003,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12829,7 +12829,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.94327,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12874,7 +12874,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.839647,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12919,7 +12919,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.816884,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -12964,7 +12964,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.822192,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13009,7 +13009,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.869775,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13054,7 +13054,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.811927,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13099,7 +13099,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.784316,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13144,7 +13144,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.731011,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13189,7 +13189,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.708161,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13234,7 +13234,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.771912,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13279,7 +13279,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.196606,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13324,7 +13324,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.15234,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13369,7 +13369,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.201836,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13414,7 +13414,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.133085,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13459,7 +13459,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.205306,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13504,7 +13504,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.12819,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13549,7 +13549,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.833621,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13594,7 +13594,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.869947,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13639,7 +13639,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.874411,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13684,7 +13684,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.043272,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13729,7 +13729,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.03662,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13774,7 +13774,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.766745,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13819,7 +13819,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.805938,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13864,7 +13864,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.887924,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13909,7 +13909,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.962478,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13954,7 +13954,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.880122,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -13999,7 +13999,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.86973,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14049,7 +14049,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14099,7 +14099,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14144,7 +14144,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.870216,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14189,7 +14189,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.987652,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14234,7 +14234,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.848844,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14279,7 +14279,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.994728,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14324,7 +14324,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.885964,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14369,7 +14369,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.78845,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14414,7 +14414,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.771284,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14459,7 +14459,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.877145,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14504,7 +14504,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.783972,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14549,7 +14549,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.857913,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14594,7 +14594,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.954747,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14639,7 +14639,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.868181,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14684,7 +14684,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.836185,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14729,7 +14729,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.81787,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14774,7 +14774,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.955696,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14824,7 +14824,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14874,7 +14874,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14919,7 +14919,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.803754,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -14964,7 +14964,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.723157,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15009,7 +15009,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.701637,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15054,7 +15054,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.788595,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15099,7 +15099,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.877711,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15144,7 +15144,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.081051,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15189,7 +15189,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.98905,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15234,7 +15234,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.989925,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15279,7 +15279,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.887476,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15324,7 +15324,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.953991,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15369,7 +15369,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.968043,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15414,7 +15414,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.895792,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15459,7 +15459,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.922359,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15504,7 +15504,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.784393,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15549,7 +15549,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.693131,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15594,7 +15594,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.696872,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15639,7 +15639,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.796995,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15684,7 +15684,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.859531,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15729,7 +15729,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.848738,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15774,7 +15774,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.732505,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15819,7 +15819,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.81724,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15864,7 +15864,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.056458,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15909,7 +15909,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.881118,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15954,7 +15954,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.904132,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -15999,7 +15999,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.854433,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16044,7 +16044,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.763948,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16089,7 +16089,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.787406,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16134,7 +16134,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.80203,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16179,7 +16179,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.857845,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16224,7 +16224,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.742635,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16269,7 +16269,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.888735,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16314,7 +16314,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.850973,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16359,7 +16359,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.789225,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16404,7 +16404,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.817024,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16449,7 +16449,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.897573,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16494,7 +16494,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.799489,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16539,7 +16539,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.781536,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16584,7 +16584,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.745264,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16629,7 +16629,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.915274,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16674,7 +16674,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.896612,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16719,7 +16719,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.994014,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16764,7 +16764,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.834306,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16809,7 +16809,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.770496,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16854,7 +16854,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.883086,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16899,7 +16899,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.959409,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16944,7 +16944,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.676915,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -16989,7 +16989,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.706308,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17034,7 +17034,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.964881,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17079,7 +17079,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.829979,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17124,7 +17124,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.896911,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17169,7 +17169,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.905965,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17214,7 +17214,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.81243,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17259,7 +17259,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.89333,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17304,7 +17304,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.930187,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17349,7 +17349,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.844987,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17394,7 +17394,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.003854,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17439,7 +17439,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.927844,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17484,7 +17484,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.82663,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17529,7 +17529,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.859027,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17574,7 +17574,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.838956,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17619,7 +17619,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.913899,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17664,7 +17664,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.936128,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17709,7 +17709,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.844475,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17754,7 +17754,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.867861,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17799,7 +17799,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.876541,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17849,7 +17849,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17899,7 +17899,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17949,7 +17949,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -17999,7 +17999,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18044,7 +18044,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.943026,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18089,7 +18089,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.868153,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18134,7 +18134,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.840509,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18179,7 +18179,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.90668,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18224,7 +18224,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.759036,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18269,7 +18269,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.70643,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18314,7 +18314,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.801245,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18359,7 +18359,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.77706,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18404,7 +18404,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.730682,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18449,7 +18449,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.929054,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18494,7 +18494,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.932099,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18539,7 +18539,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.948698,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18584,7 +18584,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.827897,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18629,7 +18629,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.840149,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18674,7 +18674,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.939075,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18719,7 +18719,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.906966,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18764,7 +18764,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.909693,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18809,7 +18809,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.003038,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18854,7 +18854,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.085064,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18899,7 +18899,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.925689,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18944,7 +18944,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.963494,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -18989,7 +18989,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.840175,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19034,7 +19034,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.957035,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19079,7 +19079,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.854119,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19124,7 +19124,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.888172,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19169,7 +19169,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.94351,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19214,7 +19214,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.954492,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19259,7 +19259,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.873979,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19304,7 +19304,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.830057,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19349,7 +19349,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.769442,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19399,7 +19399,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19449,7 +19449,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19494,7 +19494,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.926373,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19539,7 +19539,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.8575,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19584,7 +19584,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.943906,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19629,7 +19629,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.904091,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19674,7 +19674,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.811834,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19719,7 +19719,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.809658,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19764,7 +19764,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.749875,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19809,7 +19809,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.931583,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19854,7 +19854,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.884894,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19899,7 +19899,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.940023,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19944,7 +19944,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.92263,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -19989,7 +19989,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.935284,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20034,7 +20034,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.86044,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20079,7 +20079,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.779897,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20124,7 +20124,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.816946,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20169,7 +20169,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.915776,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20214,7 +20214,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.812906,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20259,7 +20259,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.800502,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20304,7 +20304,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.844325,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20349,7 +20349,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.79445,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20394,7 +20394,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.802913,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20439,7 +20439,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.702851,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20484,7 +20484,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.695511,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20529,7 +20529,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.717456,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20574,7 +20574,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.743486,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20619,7 +20619,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.766817,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20664,7 +20664,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.752783,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20709,7 +20709,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.755061,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20754,7 +20754,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.821345,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20799,7 +20799,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.761346,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20844,7 +20844,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.784391,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20889,7 +20889,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.835798,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20934,7 +20934,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.062055,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -20979,7 +20979,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.874596,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21024,7 +21024,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.775688,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21069,7 +21069,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.632524,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21114,7 +21114,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.671995,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21159,7 +21159,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.69434,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21204,7 +21204,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.910233,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21249,7 +21249,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.773215,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21294,7 +21294,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.906834,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21339,7 +21339,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.799092,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21384,7 +21384,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.856133,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21429,7 +21429,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.879971,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21474,7 +21474,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.84289,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21519,7 +21519,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.763568,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21564,7 +21564,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.84651,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21609,7 +21609,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.800875,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21654,7 +21654,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.814222,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21699,7 +21699,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.91873,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21744,7 +21744,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.898942,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21789,7 +21789,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.893799,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21834,7 +21834,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.773689,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21879,7 +21879,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.95255,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21924,7 +21924,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.857518,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -21969,7 +21969,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.828167,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22014,7 +22014,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.677712,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22059,7 +22059,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.716007,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22104,7 +22104,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.618072,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22149,7 +22149,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.662428,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22194,7 +22194,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.706391,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22239,7 +22239,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.656288,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22284,7 +22284,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.956517,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22329,7 +22329,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.961911,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22374,7 +22374,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.886552,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22419,7 +22419,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.964487,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22464,7 +22464,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.975333,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22509,7 +22509,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.159858,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22554,7 +22554,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.96798,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22599,7 +22599,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.167989,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22644,7 +22644,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.018145,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22689,7 +22689,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.969229,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22734,7 +22734,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.931966,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22779,7 +22779,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.797333,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22824,7 +22824,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.784229,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22869,7 +22869,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.782258,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22914,7 +22914,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.725586,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -22959,7 +22959,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.934983,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23004,7 +23004,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.781092,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23049,7 +23049,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.905577,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23094,7 +23094,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.769655,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23139,7 +23139,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.848423,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23184,7 +23184,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.901883,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23229,7 +23229,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.007768,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23274,7 +23274,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.814725,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23319,7 +23319,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.955186,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23364,7 +23364,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.89183,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23409,7 +23409,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.93064,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23454,7 +23454,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.907822,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23499,7 +23499,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.024338,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23544,7 +23544,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.953924,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23589,7 +23589,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.978064,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23634,7 +23634,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.971929,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23679,7 +23679,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.971452,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23724,7 +23724,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.992197,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23769,7 +23769,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.970661,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23814,7 +23814,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.892556,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23859,7 +23859,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.827302,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23904,7 +23904,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.832781,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23949,7 +23949,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.915361,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -23994,7 +23994,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.854101,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24039,7 +24039,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.846218,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24084,7 +24084,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.934639,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24129,7 +24129,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.077354,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24174,7 +24174,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.937055,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24219,7 +24219,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.87857,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24264,7 +24264,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.998068,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24309,7 +24309,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.82037,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24359,7 +24359,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24409,7 +24409,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": null,
         "ratio_scope": "shared_raw_container",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24454,7 +24454,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.81007,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24499,7 +24499,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.904367,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24544,7 +24544,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 1.073993,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24589,7 +24589,7 @@
       "diagnostics": {
         "draft_raw_byte_ratio": 0.961399,
         "ratio_scope": "one_target_raw",
-        "content_metrics_file": null
+        "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pending",
       "completeness_status": "pending",
@@ -24598,5 +24598,54 @@
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit"
     }
-  ]
+  ],
+  "phase0": {
+    "status": "complete",
+    "completed": "2026-09-21",
+    "opening_main_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+    "opening_tree_sha": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+    "target_chapters_inventory": 500,
+    "title_family_units": 118,
+    "draft_files": 500,
+    "chapter_qa_files": 500,
+    "provenance_files": 500,
+    "acceptance_files": 500,
+    "chinese_raw_physical_files": 492,
+    "english_witness_files": 493,
+    "source_exception_rows": 36,
+    "source_exception_status_counts": {
+      "combined_overlap": 1,
+      "partial_combined_overlap": 1,
+      "combined_unsplittable": 2,
+      "partial_raw_gap": 3,
+      "combined_partial_gap": 2,
+      "combined_no_internal_heading": 4,
+      "combined_with_embedded_boundary": 3,
+      "combined_with_embedded_boundary_and_closing_gap": 1,
+      "combined_main_plus_side_story": 1,
+      "combined_embedded_side_story": 1,
+      "normal_shifted_alignment": 16,
+      "overlap_duplicate": 1
+    },
+    "shared_raw_containers": 8,
+    "ordinary_one_target_ratio_chapters": 484,
+    "shared_raw_ratio_excluded_chapters": 16,
+    "tracker_acceptance_sha_mismatches": 0,
+    "missing_evidence_paths": 0,
+    "exception_reconciliation_problems": 0,
+    "diagnostic_files": 31,
+    "diagnostic_chapter_coverage": 500,
+    "diagnostic_gaps": [],
+    "diagnostic_overlaps": [],
+    "manuscript_or_evidence_content_edits_during_phase0": 0,
+    "diagnostics_note": "Draft/raw byte ratios are frozen in the master ledger where one target owns one raw. English-manuscript structural/explicitness-candidate metrics, opening/closing signatures, dialogue/window signals, and paragraph/line counts are frozen in qa/cycle2-baseline/*.json. These are heuristic baselines only; direct Chinese comparison controls later audit gates.",
+    "next_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
+    "next_family": {
+      "name": "Hellhound",
+      "range": [
+        1,
+        3
+      ]
+    }
+  }
 }
