@@ -1,3 +1,11 @@
+## Tochka Annihilation Battle (6) additions — Chapter 478
+
+- **Flauros final escape** — transfers into Thomas de Leviathan before the original body dies.
+- **Flauros final death** — cumulative jungle hazards leave him helpless; a soul-feeding mosquito consumes the remaining demonic soul.
+- **Pigi status guard** — Flauros believes he killed Pigi; do not convert that belief into confirmed fact.
+- **Invincible Armada strategic payoff** — Vikir explicitly links Donquixote restoration to fleet control in the flooded world.
+- **Downtown Naval Warfare** — next family targets479–482 / E477–E480.
+
 ## Knowing the Fate of My Father additions — Chapters 476–477
 
 - **Knowing the Fate of My Father** — accepted two-part family, targets476–477 / E474–E475.
