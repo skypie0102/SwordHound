@@ -1,0 +1,33 @@
+{
+  "chapter": 485,
+  "title": "The Marquis of Discord (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "The Marquis of Discord",
+    "range": [
+      483,
+      489
+    ],
+    "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
+    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/485.txt",
+    "primary_source_sha": "6c0cdb8d56406d9d1f7c515641e69d2a42f000f5",
+    "english_reference_path": "source/chapters/chapter-483.xhtml",
+    "english_reference_sha": "43c94ce6df8d64e628fbd9a798f23f34d3341281",
+    "draft_path": "manuscript/drafts/chapter-0485.md",
+    "draft_sha": "5cbe1b2ffec44202a202bf89b742825ac720511e",
+    "qa_path": "qa/chapter-0485.md",
+    "qa_sha": "b15d8adc61a75b2b5245fabab3d26768572816a2",
+    "provenance_path": "editorial/provenance/chapter-0485.json",
+    "provenance_sha": "f10e41c6e62454edaaceac9130775cb358949a68"
+  },
+  "documented_limits": [
+    "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused.",
+    "No Running Hound material from target490 is imported."
+  ]
+}
