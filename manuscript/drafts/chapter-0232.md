@@ -1,667 +1,522 @@
 # Chapter 232: Tuition (8)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/232.txt` — `1a36e5b0d07b36ba3ab1f9f7b0d00c9cece9fbce`. Recovered English Chapter 230 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, MiniPin, Sherpa Guild, Gnoll, Poison Gnoll, Baskerville, Professor Banshee Morgue, Dolores L. Quovadis, and Colosseo Academy. The Academy market is rendered descriptively as the **Thrifty Bazaar** from the aligned witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/232.txt`. Recovered English Chapter 230 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **MiniPin**, **Sherpa Guild**, **Gnoll**, **Poison Gnoll**, **Baskerville**, **Professor Banshee Morgue**, **Dolores L. Quovadis**, **Colosseo Academy**, and the **Thrifty Bazaar**.
 
-Appraisers—
+The appraisers MiniPin brought gave Vikir a satisfying answer.
 
-arrived.
+“Most of the bodies are lower grade.”
 
-They looked at—
+“A lot of skin, meat, and organs were damaged by hot oil or by the monsters crushing one another.”
 
-mountains of Gnoll corpses.
+“But there are so many corpses that the number of high-grade specimens is still substantial.”
 
-Then—
+“Monster materials are expensive right now.”
 
-at Vikir.
+“The total sale value should be excellent.”
 
-Then—
+“Do you already have distribution?”
 
-back.
+“If not, we can introduce buyers.”
 
-“Most—
+The appraisers worked through the mountain of bodies.
 
-low grade.”
+Their grading system was straightforward.
 
-“Oil damaged—
+1. **Top grade** — skin, meat, organs, and bones all intact.
+2. **High grade** — hide intact.
+3. **Middle grade** — hide damaged, but usable meat or organs remain.
+4. **Low grade** — hide, meat, and organs damaged, but bones still recoverable.
 
-skin—
+Monster corpses had value almost everywhere.
 
-meat—
+Research institutes in the Imperial Capital wanted dissection material.
 
-organs.”
+Taxidermists purchased large bodies for beginner instruction.
 
-“But—
+Hides—
 
-there are so many—
+durable and often surprisingly soft—
 
-that even the good ones—
+were always in demand.
 
-number high.”
+Meat and organs could become food.
 
-“Monster prices are strong.”
+Animal feed.
 
-“Total value—
+Fertilizer.
 
-will be substantial.”
+Certain monster cuts supposedly tasted close to premium beef and sold to gourmets.
 
-The grading—
+Organs spread through fish farms or orchards could outperform artificial feed and fertilizer.
 
-simple.
+Bones became medicine.
 
-Best—
+Ritual materials.
 
-skin, meat, organs, bones intact.
+Tools.
 
-High—
+Vikir's oil strategy had damaged a great deal of the colony.
 
-skin intact.
+Even so—
 
-Middle—
+the number of corpses was so large that plenty remained valuable.
 
-skin damaged—
+And even ruined bodies still yielded bones.
 
-meat or organs useful.
+Teeth.
 
-Low—
+Claws.
 
-only bones—
+Other hard materials.
 
-recoverable.
+Selling raw bodies paid less than processing everything separately.
 
-Monster laboratories—
+But it eliminated transport.
 
-wanted cadavers.
+Sorting.
 
-Taxidermists—
+Haggling with dozens of small merchants.
 
-wanted teaching specimens.
+The appraisers' offer was generous enough.
 
-Armorers—
+MiniPin laughed.
 
-wanted hide.
+“And we haven't even added the government bounty yet.”
 
-Farmers—
+“That alone is a fortune.”
 
-wanted organs—
+Since the hunt—
 
-for feed—
+MiniPin had stayed almost constantly beside Vikir.
 
-fertilizer.
+He helped arrange corpse sales.
 
-Apothecaries—
+Handled bounty procedures.
 
-wanted bones.
+Coordinated transport.
 
-Even oil-damaged kills—
-
-had value.
-
-And—
-
-government bounty—
-
-came separately.
-
-MiniPin—
-
-had stayed beside Vikir—
-
-since the hunt.
-
-Handled—
-
-sales.
-
-bounty paperwork.
-
-transport.
-
-Vikir—
-
-had watched MiniPin during—
-
-Ms. Ouroboros's attack.
+Vikir had already seen enough during the Ouroboros encounter to trust him.
 
 Loyal.
 
 Practical.
 
-Reliable.
+Protective under pressure.
 
-Enough—
+MiniPin loaded hides into Vikir's carriage.
 
-to trust.
+“Most byproducts can go through the guild.”
 
-MiniPin loaded—
+“But the best hides—”
 
-skins—
+he lifted one—
 
-into Vikir's carriage.
+“especially Poison Gnoll—
 
-“Guild can buy—
+should be sold separately.”
 
-most byproducts.”
+“At auction if possible.”
 
-“But the best hides—
+“Then I'll take them to the Academy.”
 
-especially Poison Gnoll—
+MiniPin looked over.
 
-should go—
+Vikir explained.
 
-to private auction.”
+Colosseo rented storage rooms with preservation magic to enrolled students at low cost.
 
-“Then—
+And near the end of every month—
 
-Academy.”
-
-Colosseo—
-
-rented enchanted preservation storage—
-
-cheaply—
-
-to students.
-
-And every month—
-
-the **Thrifty Bazaar**—
-
-held large auctions.
+the Academy held its **Thrifty Bazaar**.
 
 Despite the harmless name—
 
-it was—
+it was a huge Imperially approved auction.
 
-Imperially sanctioned—
+A convenient place to move monster hides.
 
-and enormous.
+MiniPin nodded.
 
-Gnoll hide—
+“Colosseo's market.”
 
-useful.
+“That's actually a good choice.”
+
+Gnoll hides had many uses.
 
 Warm.
 
-elastic.
+Comfortable enough for winter armor lining.
 
-tough.
+Tough and elastic enough for scabbard ties or decorative reinforcement.
 
-Armor lining.
+They also changed color when exposed to certain toxins—
 
-scabbard ties.
+making them useful reagent materials.
 
-decorative work.
-
-Chemical reagent—
-
-changing color—
-
-under poison exposure.
-
-Vikir nodded.
+Vikir added—
 
 “I'm in the newspaper club.”
 
-“I can advertise—
+“I can place an advertisement in a corner of the paper.”
 
-there too.”
+That would make selling the remaining stock easier.
 
-MiniPin—
+MiniPin looked strangely disappointed.
 
-looked—
-
-almost disappointed.
-
-“You're returning—
-
-to the Academy?”
+“You're going back to the Academy?”
 
 “Yes.”
 
-The hunt—
+The hunt had made it impossible for MiniPin to think of Vikir as an ordinary first-year.
 
-had made one thing—
-
-clear to MiniPin.
-
-This—
-
-was not—
-
-a normal first-year.
+Perhaps that was why he wanted to keep working together.
 
 But MiniPin did not know—
 
-Vikir had no intention—
-
-of losing him.
+Vikir had no intention of letting the relationship end here.
 
 “MiniPin.”
 
 “Yes?”
 
-“Your finances.”
+Vikir spoke without easing into it.
 
-“Bad?”
+“Your household doesn't seem wealthy.”
 
-Direct.
+“How are your wife and daughter?”
 
-MiniPin's expression—
+MiniPin's expression dimmed.
 
-dimmed.
+“…Not badly.”
 
-“Guild—
+“But the guild is struggling.”
 
-struggling.”
+“Cash flow has been difficult.”
 
-“Can't fire—
+“And I can't just dismiss people who have worked with me for years.”
 
-people who've worked with me—
+“With your strength?”
 
-for years.”
+Vikir looked toward the Sherpa workers.
 
-“With your strength—
+“You have experienced guides and porters.”
 
-why?”
+MiniPin smiled bitterly.
 
-“You have—
+“Hunting guilds are all like this now.”
 
-skilled guides.”
+“We have to watch the large mercenary guilds.”
 
-“Hunting guilds—
+“No patron means no leverage.”
 
-without backing—
+“No one protects our price.”
 
-get squeezed—
+He hesitated.
 
-by large mercenary guilds.”
+“Still…”
 
-“No patron—
+“Part of the problem is my fault.”
 
-no leverage.”
+“If I hadn't made a mistake when I was young, the finances would be different.”
 
-MiniPin—
+“What mistake?”
 
-laughed bitterly.
+“I was ambitious.”
 
-“And—
+MiniPin scratched the back of his head.
 
-I made mistakes—
+“I had a dream.”
 
-when I was younger.”
+“So I contacted a broker.”
 
-“What mistakes?”
+“He scammed me.”
 
-“I had ambition.”
+“Took the family assets.”
 
-“Contacted a broker.”
+Vikir waited.
 
-“Got scammed.”
+MiniPin continued.
 
-“Lost the family assets.”
+“My wife suffered because of it.”
 
-“My wife—
+“I still feel guilty.”
 
-suffered.”
+“And my daughter starts school next year.”
 
-“My daughter starts school—
+“Her tuition worries me.”
 
-next year.”
+“What dream required a broker?”
 
-“Tuition—
-
-worries me.”
-
-Vikir asked—
-
-“What dream—
-
-needed a broker?”
-
-MiniPin hesitated.
+MiniPin hesitated longer this time.
 
 Then—
 
-“I wanted—
+“…I wanted to join Baskerville.”
 
-to join **Baskerville**.”
+Vikir's eyes opened slightly.
 
-Vikir's eyes—
+MiniPin spoke with old embarrassment—
 
-opened slightly.
+and old longing.
 
 “The Western Front.”
 
-“The Iron-Blooded Sword Clan.”
+“The Iron-Blooded Sword House.”
 
-“Hunting monsters—
+“A family that lives by monster subjugation.”
 
-learning invincible swordsmanship—
+“I thought if I could become one of them—
 
-earning land—
+I'd learn powerful swordsmanship.”
 
-a home.”
+“Get land.”
 
-“I thought—
+“A house.”
 
-it was the way—
+“Give my wife a better life.”
 
-to give my wife—
+“The broker said he could arrange entry.”
 
-a better life.”
+“He took everything.”
 
-“The broker took everything.”
+“Nothing came of it.”
 
-Vikir touched—
+Vikir touched his chin.
 
-his chin.
+The idea he had already been considering—
 
-The plan—
+became firmer.
 
-became—
+“How much do you actually know about monster ecology?”
 
-firmer.
+MiniPin straightened.
 
-“How much—
+“Plenty.”
 
-do you know—
+“I belonged to exploration guilds when I was younger.”
 
-about monster ecology?”
+“I traveled across the continent.”
 
-MiniPin's posture—
+“The Western Front too?”
 
-changed.
-
-“Everything I can.”
-
-“I spent my youth—
-
-in exploration guilds—
-
-across the continent.”
-
-“Western Front?”
+“Of course.”
 
 “Subspecies.”
 
-“variants.”
+“Variants.”
 
-“lower forms.”
+“Lower forms.”
 
-“higher forms.”
+“Higher forms.”
 
-“I can distinguish them.”
+“I can distinguish all of them.”
 
-Vikir—
+Vikir nodded.
 
-nodded.
+Satisfied.
 
-“I'll come—
-
-for you again.”
+“I'll come for you again soon.”
 
 ◆◆◆
 
-Colosseo's—
+At Colosseo Academy—
 
-admissions office—
+the admissions office also administered scholarship funding.
 
-and scholarship foundation.
+Professor Banshee sat behind a mountain of documents.
 
-Professor Banshee—
+His face looked increasingly irritated.
 
-buried in paperwork.
-
-“…Does this Academy—
-
-make me do—
-
-everything?”
+“…Does every administrative job in this Academy eventually end up on my desk?”
 
 Tuition.
 
-scholarships.
+Scholarships.
 
-budgets.
+Financial eligibility.
+
+Deadlines.
 
 Then—
 
-knock.
+knock knock knock.
+
+“Come in.”
+
+The door opened.
 
 Dolores entered.
 
-Banshee's expression—
+Banshee's expression became even less welcoming.
 
-grew worse.
+Whenever scholarship budgets were involved—
 
-“What—
+the student council president appeared.
 
-are you here—
+And then—
 
-to lecture me about—
+talked.
 
-this time?”
+At length.
 
-“Students—
+“…What are you here to lecture me about this time?”
 
-excluded—
+“Students excluded from scholarship support.”
 
-from scholarship support.”
+Dolores placed a new stack of documents in front of him.
 
-She placed—
+“These students may not be able to continue next semester.”
 
-files—
+Some worked long hours to earn tuition—
 
-on his desk.
+and their grades fell because they had no study time.
 
-Students—
+Others protected their grades—
 
-too poor—
+but then had no time to earn money.
 
-to continue.
+Some had family circumstances that were genuinely desperate—
 
-Some—
+but did not fit the formal eligibility categories.
 
-worked so much—
+Dolores continued.
 
-grades fell.
+“There are students who were rejected and need to be reviewed again.”
 
-Some—
+“And some students who **received** scholarships need review too.”
 
-studied so much—
+Banshee looked at her.
 
-they could not work—
+Dolores slid over another set of records.
 
-and failed to pay.
+Students from wealthy homes—
 
-Others—
+who had falsified poverty claims.
 
-had complicated homes—
+She had been investigating them too.
 
-not captured—
+Every document was perfectly formatted.
 
-by formal criteria.
+To Dolores—
 
-Then—
+that meant a solvable injustice.
 
-the opposite.
+To Banshee—
 
-Wealthy students—
+it meant overtime.
 
-who falsified poverty—
+“Scholarships are granted according to school regulations.”
 
-to obtain scholarships.
+“You are the student council president.”
 
-Dolores—
-
-wanted—
-
-reviews—
-
-both directions.
-
-Banshee looked—
-
-at perfectly organized documents—
-
-and saw—
-
-overtime.
-
-“Scholarships—
-
-follow school regulations.”
+“You should preserve those regulations.”
 
 “As student council president—
 
-you should uphold them.”
+I also have a duty to speak for students those regulations failed to capture.”
 
-“As student council president—
+“You are asking me to do the same work twice.”
 
-I must speak—
+Banshee tapped the files.
 
-for students—
-
-the regulations missed.”
-
-“You are asking—
-
-me—
-
-to do the same work twice.”
-
-“Who compensates—
-
-my hardship?”
+“Who compensates **my** hardship?”
 
 “Professor Banshee.”
 
-“Today—
+Dolores did not move.
 
-is the payment deadline.”
+“Today is the tuition deadline.”
 
-“Please listen—
+“Please listen to the students one more time.”
 
-to the students—
+“What exactly do you want me to do with the regulations?”
 
-once more.”
+The two argued.
 
-They argued—
+Rules—
 
-rule—
+against exceptions.
 
-against—
+Order—
 
-exception.
+against individual hardship.
+
+Banshee's position was almost an iron wall.
+
+Dolores gradually lost momentum.
 
 Then—
 
 BANG!
 
-The door—
+The door flew open.
 
-opened—
+No knock.
 
-without knocking.
+Vikir walked in.
 
-Vikir.
-
-Banshee's face—
-
-darkened.
+Banshee's already sour expression worsened.
 
 “Student Vikir.”
 
-“Now—
+“Now you enter faculty offices without knocking?”
 
-you enter offices—
-
-without knocking?”
-
-“Were you never—
-
-properly educated—
-
-by your father?”
+“Were you never properly educated by your father?”
 
 “Yes.”
 
 “…?”
 
-Sarcasm—
-
-failed.
+The sarcasm failed.
 
 Again.
 
 Banshee crossed his arms.
 
-“You know—
+“You are aware today is the tuition deadline?”
 
-today—
+Privately—
 
-is the tuition deadline?”
+he expected Vikir to be short.
 
-He privately expected—
+There were rumors that the first-year had acquired a huge stock of monster hides.
 
-Vikir—
+But hides were not cash.
 
-to be short.
+Especially when Colosseo's two major student blocs—
 
-Rumor said—
+the noble faction and power-family faction—
 
-the first-year had—
+had apparently decided to pressure him.
 
-a mountain of monster hides.
+*If they block the market, unsold goods are worthless.*
 
-But—
+Whatever method Vikir used to acquire that much hide—
 
-not cash.
-
-And the Academy's two dominant student blocs—
-
-the noble faction—
-
-and power-family faction—
-
-were reportedly trying—
-
-to suppress him.
-
-Unsold goods—
-
-were not money.
+Banshee doubted converting it into enough money would be easy.
 
 Then—
 
 THUD!
 
-A heavy sack—
+A heavy sack landed on the desk.
 
-hit the desk.
+The top loosened.
 
 Gold.
 
-banknotes.
+Banknotes.
 
-Enough—
+Enough for four years of tuition—
 
-to pay—
+with a great deal left over.
 
-four years—
+“!?”
 
-and more.
+Banshee stared.
 
-Banshee.
+Dolores did too.
 
-Dolores.
+Vikir's face remained expressionless.
 
-Stared.
-
-Vikir spoke.
-
-“This is—
-
-for the friends—
-
-who couldn't pay tuition.”
+“This is for the friends who couldn't pay their tuition.”
