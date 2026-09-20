@@ -1,14 +1,14 @@
 {
   "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT ACTIVE. All 500 draft files exist, but prior acceptance is being revalidated against Chinese raws after confirmed summary-style compression.",
   "target_chapter_count": 500,
-  "accepted_count": 499,
+  "accepted_count": 500,
   "staged_count": 0,
-  "next_chapter": 419,
+  "next_chapter": 430,
   "active_title_family": {
-    "name": "Goodbye, Nouvelle Vague",
+    "name": "The Lion King",
     "range": [
-      419,
-      421
+      430,
+      433
     ]
   },
   "chapters": [
@@ -5954,13 +5954,14 @@
       "qa": "qa/chapter-0419.md",
       "provenance": "editorial/provenance/chapter-0419.json",
       "acceptance": "qa/acceptance/chapter-0419.json",
-      "acceptance_sha": "2ba56c39899806f1bfd8dcf355000d3b0b4c3e92",
-      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+      "acceptance_sha": "0b125df22d6167f1fbdffabe4c674d870b734db9",
+      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 420,
       "title": "Goodbye, Nouvelle Vague (2)",
-      "status": "needs_rework",
+      "status": "accepted",
       "source_mode": "chinese_primary_shifted_english_alignment",
       "chinese_source": "source/chinese/chapters/420.txt",
       "english_mtl_reference": "source/chapters/chapter-418.xhtml",
@@ -5968,10 +5969,10 @@
       "qa": "qa/chapter-0420.md",
       "provenance": "editorial/provenance/chapter-0420.json",
       "acceptance": "qa/acceptance/chapter-0420.json",
-      "acceptance_sha": "3d4a34fdc971b429b1f7ca0e10b5eea14aa40ce2",
+      "acceptance_sha": "3b920c9bbc678c313db358d6136a806288b6fdeb",
       "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
       "previous_status": "accepted",
-      "completeness_audit": "confirmed_compressed_against_chinese_raw",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20",
       "reopened_date": "2026-09-20"
     },
     {
@@ -5985,8 +5986,9 @@
       "qa": "qa/chapter-0421.md",
       "provenance": "editorial/provenance/chapter-0421.json",
       "acceptance": "qa/acceptance/chapter-0421.json",
-      "acceptance_sha": "3db157dc8ecac38bf46e1beaf3700d4c981c2e34",
-      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+      "acceptance_sha": "00434c1b15da57efe45280c146e38032f39f31de",
+      "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 422,
@@ -7097,14 +7099,12 @@
   ],
   "project_complete": false,
   "historical_accepted_count": 500,
-  "needs_rework_count": 1,
+  "needs_rework_count": 0,
   "completeness_audit": {
     "status": "active",
     "opened": "2026-09-20",
     "manuscript_files_present": 500,
-    "confirmed_needs_rework": [
-      420
-    ],
+    "confirmed_needs_rework": [],
     "priority_review_threshold": "draft_bytes / raw_bytes < 0.60 for ordinary one-target Chinese containers; triage heuristic only, not an automatic failure",
     "priority_review_chapters": [
       87,
@@ -7300,33 +7300,39 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All six historical drafts materially compressed; priority targets333 and334 resolved."
+      },
+      {
+        "name": "Goodbye, Nouvelle Vague",
+        "range": [
+          419,
+          421
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "Family rebuilt for full coverage; confirmed completeness failure420 resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      419,
-      420,
-      421,
       431
     ],
-    "pending_priority_review_count": 4,
+    "pending_priority_review_count": 1,
     "next_family": {
-      "name": "Goodbye, Nouvelle Vague",
+      "name": "The Lion King",
       "range": [
-        419,
-        421
+        430,
+        433
       ]
     },
     "resolved_confirmed_needs_rework": [
       97,
       316,
-      319
+      319,
+      420
     ],
     "pending_strong_suspect_chapters": [
-      420,
-      421,
       431
     ],
-    "pending_strong_suspect_count": 3,
+    "pending_strong_suspect_count": 1,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7357,7 +7363,9 @@
       323,
       324,
       333,
-      334
+      334,
+      419,
+      421
     ]
   }
 }

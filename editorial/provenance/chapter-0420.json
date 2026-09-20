@@ -1,7 +1,7 @@
 {
   "chapter": 420,
   "title": "Goodbye, Nouvelle Vague (2)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -9,8 +9,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
-    "status": "reopened_for_completeness_audit"
+    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/420.txt",
@@ -24,24 +24,30 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0420.md",
-    "blob_sha": "1094c246995790a44a18224490a850d4f46a4302"
+    "blob_sha": "4115efe3d8f868425a36963f0090251cbdd45531"
   },
   "qa": {
     "path": "qa/chapter-0420.md",
-    "blob_sha": "c6febfd511671bae0ee3902835b578223b0c72d9",
-    "status": "superseded_needs_rework"
+    "blob_sha": "77e5fbf5376cf0216acfb3d01bb6c68d62585376",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
-  "accepted": false,
+  "accepted": true,
   "historical_acceptance": {
-    "accepted": true,
-    "accepted_date": "2026-09-20"
+    "accepted": false,
+    "accepted_date": null,
+    "draft_sha": "1094c246995790a44a18224490a850d4f46a4302",
+    "qa_sha": "c6febfd511671bae0ee3902835b578223b0c72d9"
   },
   "current_status": "needs_rework",
   "reopened_date": "2026-09-20",
   "completeness_audit": {
-    "status": "confirmed_compressed",
-    "reason": "Direct Chinese/draft comparison confirms substantial dialogue, underwater action detail, and connective narration were omitted despite preserved major plot beats.",
-    "evidence": "qa/manuscript-completeness-audit.md"
-  }
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft required fuller Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "initial_priority_target": true
+  },
+  "confirmed_failure_resolution": "Confirmed completeness failure resolved by full Chinese-primary rebuild.",
+  "accepted_date": "2026-09-20"
 }

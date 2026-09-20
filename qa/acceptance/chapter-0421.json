@@ -3,7 +3,7 @@
   "title": "Goodbye, Nouvelle Vague (3)",
   "accepted": true,
   "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -11,8 +11,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
-    "status": "pass"
+    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/421.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-419.xhtml",
     "english_reference_sha": "e0fd8dadb91bf4018ffca14d5b2933b345476b22",
     "draft_path": "manuscript/drafts/chapter-0421.md",
-    "draft_sha": "a041a225a96a8947719ccab56f543f132a4c48e9",
+    "draft_sha": "a10d7bc9905a8b643241f4aa3364ace900debbb6",
     "qa_path": "qa/chapter-0421.md",
-    "qa_sha": "612b3ed5de92ccf7339034d326d947b2d5f617f3",
+    "qa_sha": "3c5c77202543351ca967c9e5bd5c35d236545ada",
     "provenance_path": "editorial/provenance/chapter-0421.json",
-    "provenance_sha": "fbab07db52ad914a4c8336e821a19beb4fbbd04b"
+    "provenance_sha": "599934d504793f835eae4b7874a7616a5b2cdadc"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No How to Become a Wandering Knight material from target422 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "status": null,
+    "draft_sha": "a041a225a96a8947719ccab56f543f132a4c48e9",
+    "qa_sha": "612b3ed5de92ccf7339034d326d947b2d5f617f3",
+    "provenance_sha": "fbab07db52ad914a4c8336e821a19beb4fbbd04b"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "initial_priority_target": true
+  },
+  "regeneration_note": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
 }

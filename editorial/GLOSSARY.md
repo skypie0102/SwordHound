@@ -243,7 +243,9 @@
 
 ## Goodbye, Nouvelle Vague additions — Chapters 419–421
 
-- **Goodbye, Nouvelle Vague** — accepted three-part family, targets419–421 / witnesses E417–E419.
+- **Goodbye, Nouvelle Vague completeness resolution** — targets419–421 rebuilt/rebound against complete source coverage; confirmed failure420 resolved.
+
+- **Goodbye, Nouvelle Vague** — accepted three-part family, targets419–421 / witnesses E417–E419; completeness-rebuilt 2026-09-20.
 - **Current 3021** — only functioning Level-Five Gulper Eel circulation current that reaches the surface.
 - **Garam final-wish restoration** — C419 visibly omits Kirko's answer sequence; aligned E417 restores only: Garam died two years earlier during the Sakkuth riot while saving Kirko, was buried, and wanted to show her the outside world.
 - **Kirko final Nouvelle Vague choice** — refuses escape because the prison is where she was born and raised; later fate remains unresolved.

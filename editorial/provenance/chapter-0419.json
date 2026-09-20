@@ -1,7 +1,7 @@
 {
   "chapter": 419,
   "title": "Goodbye, Nouvelle Vague (1)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -9,8 +9,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
-    "status": "pass"
+    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/419.txt",
@@ -24,15 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0419.md",
-    "blob_sha": "78241836c47b6a99a335bc681e5debed2ad8d5aa"
+    "blob_sha": "a194af717ea834cf6618d27f7d6bcea5c8747b45"
   },
   "qa": {
     "path": "qa/chapter-0419.md",
-    "blob_sha": "a22af2ab1ad76df7ac500fffa329fe781d59a6fa",
-    "status": "pass"
+    "blob_sha": "bd86b849591c5e85aae2a54371f748c9ab7f0ded",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
   "accepted_date": "2026-09-20",
-  "source_exception": "Chinese visibly omits the Garam-answer sequence; only localized aligned-E417 details are restored."
+  "source_exception": "Chinese visibly omits the Garam-answer sequence; only localized aligned-E417 details are restored.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "draft_sha": "78241836c47b6a99a335bc681e5debed2ad8d5aa",
+    "qa_sha": "a22af2ab1ad76df7ac500fffa329fe781d59a6fa"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft required fuller Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "initial_priority_target": true
+  },
+  "source_gap_guard": "Chinese source visibly gaps after Kirko asks about Garam; only aligned E417 restoration is used."
 }

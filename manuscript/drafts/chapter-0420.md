@@ -1,263 +1,829 @@
 # Chapter 420: Goodbye, Nouvelle Vague (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/420.txt`. Recovered English Chapter 418 is the verified shifted secondary witness. Established terminology controls Orca, Marquis de Sade, Sadi, Decarabia, Wailing Wall, Gate of Good and Evil, Beelzebub, and Baskerville Eighth Form.
+> Chinese-primary reconstruction from `source/chinese/chapters/420.txt`. Recovered English Chapter 418 is the verified shifted secondary witness. This chapter was a **confirmed completeness failure** and is rebuilt from the full Chinese source. Established project terminology controls **Current 3021**, **Gulper Eel**, **Aiyen**, **Marquis de Sade**, **Sadi**, **Orca**, **Decarabia**, **Wailing Wall**, **Gate of Good and Evil**, and **Beelzebub**.
 
-Current 3021 hurled the Gulper Eel through the abyss.
+GURGLE—
 
-The route shook violently—
+Abyss.
 
-but it was the only current that truly led upward.
+Endless dark.
 
-Behind them—
+There was almost nothing to see.
 
-Nouvelle Vague had vanished beneath water and steam.
+Only bubbles—
 
-The volcano beneath the prison was ready to erupt.
+heard more than seen—
 
-The Gate of Good and Evil still capped the pressure like the cork of a champagne bottle.
+rushing past the skin of the Gulper Eel.
 
-Once it failed—
+Current 3021 shook the creature violently.
 
-fire and superheated water would blast upward from more than ten kilometers below the surface.
+For a moment—
 
-The resulting atmospheric disturbance would be enormous.
+it felt as though Kirko had sent them into the wrong route after all.
 
-Aiyen steered the eel by hook and line.
+Countercurrents struck from every direction.
 
-Then she frowned.
+The eel spun.
 
-“Something is holding onto the tail.”
+Dropped.
 
-Vikir looked back.
+Rose.
 
-A shape climbed along the eel.
+Then stabilized.
 
-Then another.
+*No.*
 
-“….”
+*This is the correct current.*
 
-Marquis de Sade hauled himself inside.
+The other routes had looked smoother at the beginning.
 
-Sadi hung at his side.
+That was the trap.
 
-“Puhahaha!”
+Current 3021 was unstable—
 
-“The water pressure nearly crushed my skull.”
+violent—
 
-“Night Hound.”
+but ultimately the safest path to the surface.
 
-“Forgive me for hitching a ride.”
+A faint light began shining from the eel's skin.
 
-Sadi—still incapacitated by the aftereffects of demonization—laughed weakly.
+The surrounding darkness receded slightly.
 
-The Gulper Eel was large enough to carry them.
+Through the translucent flesh—
+
+Vikir could see outside.
+
+Below—
+
+Nouvelle Vague had completely flooded.
+
+Fire.
+
+Steam.
+
+Black water.
+
+The fortress looked ready to explode at any moment.
+
+The **Gate of Good and Evil** still sat above the volcano like a lid.
+
+A cork.
+
+Holding back the eruption.
+
+Once that lid failed—
+
+everything changed.
+
+The first explosion would create an enormous cavity.
+
+Seawater would rush inward.
+
+Geothermal heat would flash-expand it.
+
+A first pillar of fire—
+
+then a second pillar of water—
+
+would erupt from the bottomless trench.
+
+Through the sea.
+
+Through the surface.
+
+High into the sky.
+
+“And the disturbance on land will be large enough to change the climate.”
+
+Aiyen nodded.
+
+She had the hook and line attached to the Gulper Eel's mouth.
+
+Steering it like a driver holding reins.
+
+Vikir reached for another section of line.
+
+Then Aiyen stiffened.
+
+“Something is attached to the tail.”
+
+Vikir turned.
+
+A shape clung to the eel.
+
+Hard to see.
+
+The water was too dark.
+
+The current too violent.
+
+But the shape—
+
+was climbing.
+
+Hand over hand.
+
+From tail—
+
+toward the body.
+
+Vikir's eyes widened.
+
+**Marquis de Sade.**
+
+And tucked against him—
+
+**Sadi**.
+
+The Marquis climbed farther.
+
+Reached the head.
+
+Then squeezed inside the Gulper Eel.
+
+“Puhah!”
+
+He sucked in air.
+
+“Thought the water pressure would crush my skull.”
+
+“Still…”
+
+“Hehehe.”
+
+“After all those years in the cell—
+
+maybe I've built some tolerance.”
+
+Sadi—
+
+still nearly limp from the damage left by her demonization—
+
+laughed weakly from beside him.
+
+“Hello, Night Hound.”
+
+“Sorry.”
+
+“We're hitching a ride.”
+
+A Gulper Eel could carry well over ten people.
+
+Their weight did not matter.
 
 Vikir nodded.
 
-“If you stay quiet.”
+“If you're quiet.”
+
+The Marquis looked almost offended.
+
+“That would be rude to a young man.”
+
+“I don't think quiet is possible.”
+
+Vikir understood why—
+
+a moment later.
+
+A sound filled the abyss.
+
+AAAAAAAAAAAA—
+
+Too high to be a normal roar.
+
+Too sharp to be oars.
+
+Almost like the legendary song of a siren.
+
+The Gulper Eel twisted in pain.
+
+The sound vibrated through the deep sea.
+
+Something was closing in.
 
 Marquis de Sade grinned.
 
-“I’m afraid that may be impossible.”
+“Looks like the killer whale caught us.”
 
-A sound rolled through the deep sea.
+A shape appeared beyond the eel's translucent flesh.
 
-High.
+Black body.
 
-Violent.
+White patches.
 
-Almost like a siren’s song.
+Dense muscle.
 
-The eel twisted in pain.
+Powerful dorsal fin.
 
-Then an enormous black-and-white form appeared beyond the translucent flesh.
+Arms and legs visible beneath a torn fur coat.
 
-Orca.
+A long tail extended behind.
 
-In the sea—
+Chains.
 
-his body had become even less human.
+A mace.
 
-A monstrous killer-whale beastman.
+A hooked hand gripping them.
+
+**Orca.**
+
+Vikir narrowed his eyes.
+
+“…Killer-whale aquatic beastman.”
+
+Like Dordium's crocodilian sea form—
+
+Orca possessed a body adapted to the ocean.
+
+The difference was scale.
+
+This form was overwhelmingly suited to the deep.
 
 “SADE!”
 
+Orca's voice carried even here.
+
 “You are not leaving!”
 
-Marquis de Sade clicked his tongue.
+Their worst-case pursuit had arrived.
 
-“On land, maybe.”
+Marquis de Sade laughed.
 
-“Down here, fighting that old monster is suicide.”
+“On land?”
 
-Vikir looked at him.
+“Maybe.”
 
-“You owe me a life.”
+“But fighting this old monster in the water?”
 
-“How do you repay it?”
+“Suicide.”
 
-Marquis de Sade held up three fingers.
+Vikir asked—
 
-“The Sade family returns favor threefold.”
+“What do you want to do?”
 
-“And hatred three thousandfold.”
+The Marquis shrugged.
 
-“Name three people you want dead.”
+“A little shameless of me…”
 
-“If we reach the surface alive—
+“But I'd like to hear your plan.”
 
-I’ll kill them for you.”
+He would follow Vikir's decision.
 
-Vikir accepted the promise.
+Vikir answered with a different question.
 
-Then he tied Sadi’s whip around his own waist—
+“You owe me one life.”
 
-and the other end around Marquis de Sade.
+“How will you repay it?”
 
-Aiyen took the middle section.
+“Hehehe…”
 
-“You’re going outside?”
+Marquis de Sade raised three fingers.
 
-Sadi asked.
+“The Sade clan returns favor threefold.”
 
-“There’s no other way.”
+“And hatred—
 
-Aiyen immediately volunteered.
+three thousandfold.”
 
-“I’ll go instead.”
+“One life saved.”
+
+“Three lives repaid.”
+
+“Give me three names.”
+
+“Anyone.”
+
+“I'll kill them for you.”
+
+Then—
+
+with a wink—
+
+“If we survive to the surface.”
+
+Vikir nodded.
+
+A debt acknowledged.
+
+A future weapon—
+
+if the Marquis lived.
+
+He took **Sadi's whip**.
+
+Tied one end around his waist.
+
+The other—
+
+around Marquis de Sade.
+
+Then placed the middle section in Aiyen's hands.
+
+Sadi—
+
+still unable to move properly—
+
+looked up.
+
+“You're going outside?”
+
+“No other choice.”
+
+Aiyen immediately objected.
+
+“Let me go.”
 
 “You steer the eel.”
 
-“That’s safer.”
+“That is safer.”
 
-“I don’t want to separate again.”
+“I don't want to separate again.”
 
-“We just found each other.”
+“We only just found each other.”
 
-“Holding the line is important.”
+“Holding this line is an important job.”
 
-Aiyen bit her lip until it bled.
+Vikir's voice stayed firm.
 
-Then nodded.
+Aiyen lowered her head.
 
-“I won’t let go.”
+Bit her lip—
+
+hard enough to bleed.
+
+Then looked up again.
+
+“I won't let go.”
 
 “Never.”
 
-Vikir and Marquis de Sade entered the open water.
+“Good.”
 
-At ten thousand meters—
+Vikir rose.
 
-the pressure was monstrous.
+Then he and Marquis de Sade exited the Gulper Eel.
 
-Even Vikir’s River Styx body and Supreme-Realm strength were pushed toward collapse.
+Into ten thousand meters of sea.
 
-Orca—
+◆◆◆
 
-in contrast—
+The pressure was beyond imagination.
 
-was built for the sea.
+The **River Styx** protection.
 
-He could breathe there.
+Vikir's abnormal body.
 
-Move faster.
+His present martial realm.
 
-Read the water with sound.
+Even those—
 
-Generate crushing waves without even closing distance.
+were not enough to make the deep sea comfortable.
 
-Water bullets struck like artillery.
+The water pressed against every part of him—
 
-Vikir cut them apart—
+as though hundreds of elephants were standing on an egg.
 
-then used Decarabia’s red light to illuminate Orca’s position.
+*So this is why even demons struggled to cross this place late in the war.*
 
-Orca charged.
+Simply existing here—
 
-The sea became a battlefield.
+was an attack.
 
-Black Sun.
+Vikir glanced sideways.
 
-Marquis de Sade’s serpentine sword aura.
+Marquis de Sade was already grimacing in suffocating pain.
 
-Orca’s tsunami-like club strikes.
+*No wonder he needed help.*
 
-Their powers collided and formed a violent underwater vortex.
+Then—
 
-Vikir assessed the situation coldly.
+the water in front of them distorted.
 
-*We lose.*
+Not visibly—
 
-In the deep sea—
+not in the way a surface wave rose.
 
-Orca was almost a god.
+A deep-sea tsunami.
 
-Before regression—
-
-Marquis de Sade had tried to escape Nouvelle Vague.
-
-Orca killed him.
-
-Even now—
-
-with Vikir present—
-
-the same fate seemed ready to repeat itself.
-
-Vikir and Marquis de Sade exchanged a look.
-
-Then both cut the whip connecting them to Aiyen.
-
-“No!”
-
-The current seized the Gulper Eel and pushed it upward.
-
-Those who had to go—
-
-went.
-
-Those who had to stay—
-
-stayed.
-
-Then fate moved.
-
-Far below—
-
-the Gate of Good and Evil finally broke free.
-
-The chains securing it snapped.
-
-The enormous gate—
-
-seventy meters wide, five meters thick, and weighing 6,535 tons—
-
-shot upward like a champagne cork.
-
-Straight into Orca.
+Invisible until it hit.
 
 BOOM!
 
-The Warden took the impact to the head.
+Orca flashed across Vikir's vision.
 
-Blood exploded into the water.
+Red.
 
-The current hurled him away.
+Everything turned red.
+
+Impact crushed Vikir's face.
+
+Nasal bone.
+
+Cheekbone.
+
+Front teeth.
+
+All broke.
+
+The sensation—
+
+like being struck in the face by a full-power warhammer.
+
+*Water?*
+
+Orca was far away.
+
+He had scooped water in one hooked palm—
+
+compressed it—
+
+and thrown it.
+
+A water droplet.
+
+Dense enough to strike like artillery.
+
+Another came.
+
+Vikir raised Beelzebub.
+
+SLASH.
+
+Cut the projectile diagonally.
+
+And from the incoming angle—
+
+read Orca's location.
+
+FLASH.
+
+Decarabia's eye opened.
+
+Red light flooded the water.
+
+A dozen meters around them—
+
+visible.
+
+Orca appeared ahead.
+
+Guard uniform.
+
+Coat.
+
+Club in hand.
+
+Killer-whale body fused with human form.
+
+Marquis de Sade sounded amused.
+
+“You can do that too?”
+
+[You underestimate me.]
+
+Decarabia's eye brightened further.
+
+Orca roared—
+
+“DIE!”
+
+He swung the club.
+
+The surrounding sea became a tsunami.
+
+But now—
+
+Vikir had direction.
+
+“If I know where it comes from—
+
+blocking isn't difficult.”
+
+Mana poured outward.
+
+Decarabia unfolded.
+
+Red inverted pentagram.
+
+Then—
+
+**Wailing Wall**.
+
+The barrier consumed a great amount of mana—
+
+but stopped Orca's ranged water attacks.
+
+Ironically—
+
+the impacts also pushed the Gulper Eel faster upward.
+
+The whip line stretched.
+
+Aiyen and Sadi—
+
+farther away.
+
+Vikir and Sade—
+
+being dragged behind.
+
+Orca changed tactics.
+
+No more ranged fire.
+
+Close combat.
+
+Club in hand.
+
+Primitive.
+
+Direct.
+
+And—
+
+exactly what Vikir and Marquis de Sade wanted.
+
+The monstrous killer whale charged through the current.
+
+Vikir raised Beelzebub.
+
+Marquis de Sade had acquired a blade somewhere in the chaos.
+
+Three powers collided.
+
+Vikir's **Black Sun**.
+
+Marquis de Sade's serpentine sword aura.
+
+Orca's club—
+
+driving a tsunami.
+
+BOOOOOOM!
+
+A gigantic underwater vortex formed.
+
+Upper flow—
+
+cut by Vikir and Sade's sword paths.
+
+Lower flow—
+
+driven by Orca's pressure waves.
+
+They met in the middle.
+
+RUMBLE!
+
+RUMBLE!
+
+Shock waves ripped outward.
+
+Water was torn apart—
+
+then slammed back together.
+
+Cliffs.
+
+Rock.
+
+Everything nearby—
+
+crushed by pressure.
+
+A vein stood out on Vikir's forehead.
+
+His instincts completed the calculation.
+
+*We die.*
+
+No uncertainty.
+
+In deep water—
+
+Orca was almost a god.
+
+He could breathe normally.
+
+His muscular body performed better than on land.
+
+He moved faster.
+
+His sound waves detected targets kilometers away.
+
+He could create tsunamis without closing distance.
+
+Against that physiology—
+
+at ten thousand meters—
+
+Vikir and Sade were insects challenging a beast.
+
+Marquis de Sade understood too.
+
+His smile turned bitter.
+
+“Is this where it ends?”
+
+Vikir remembered the original timeline.
+
+Marquis de Sade had attempted to escape Nouvelle Vague.
+
+Orca stopped him.
+
+Killed him.
+
+Even with Vikir here—
+
+the old outcome seemed ready to repeat.
+
+The wheel of causality continued turning.
+
+Then—
+
+Vikir and the Marquis looked at one another.
+
+No discussion.
+
+No signal.
+
+Both reached for the whip around their waists.
+
+SLASH.
+
+SLASH.
+
+The line was severed.
+
+“No!”
+
+Aiyen's shout came from far above.
+
+Too late.
+
+The current caught the Gulper Eel—
+
+and accelerated it upward.
+
+Those who needed to leave—
+
+left.
+
+Those who needed to stay—
+
+stayed.
+
+Orca felt the change.
+
+The two men remaining below—
+
+Vikir.
+
+Marquis de Sade.
+
+Their pressure changed.
+
+They would not allow anyone farther upward.
+
+Even Orca—
+
+felt sweat at the edge of his instincts.
+
+Then—
+
+something impossible happened.
+
+A coincidence.
+
+Luck.
+
+For Vikir—
+
+a man who had rarely depended on luck in either life—
+
+almost unbelievable.
+
+To understand it—
+
+the scene had to be rewound a few seconds.
+
+Far below—
+
+Poseidon's activation had been building volcanic force.
+
+A rising column of fire—
+
+still incomplete.
+
+The **Gate of Good and Evil** blocked it.
+
+The final cap.
+
+Chains.
+
+Winches.
+
+Restraints.
+
+One after another—
+
+SNAP.
+
+CLANG.
+
+CRASH.
+
+Every connection between the Gate and Nouvelle Vague failed.
+
+Then—
+
+BOOM!
+
+The Gate of Good and Evil launched upward.
+
+Like the cork of a champagne bottle shaken to the limit.
+
+A disk—
+
+**70 meters** in diameter.
+
+**5 meters** thick.
+
+**6,535 tons**.
+
+A massive alloy structure—
+
+thrown upward by pressure powerful enough to move a mountain.
+
+Orca had his back to Nouvelle Vague.
+
+He never saw it.
+
+The Gate struck him directly.
+
+BOOM!
+
+Blood burst into the water.
+
+The killer-whale Warden—
+
+so dominant only seconds earlier—
+
+was smashed aside.
+
+Thrown away like debris.
 
 Marquis de Sade stared.
 
 “…What?”
 
-But the gate had done more than hit Orca.
+But Vikir was no longer looking at Orca.
 
-Its release uncorked Nouvelle Vague.
+The Gate did not merely remove the Warden.
 
-The dormant volcano beneath the prison entered full eruption.
+It had uncorked the volcano.
 
-Blue fire surged upward.
+RUMBLE.
 
-The sea itself began to convulse.
+Nouvelle Vague—
 
-And the real explosion—
+already flooded—
 
-had only begun.
+began collapsing completely.
+
+Red light seeped through the joints of black masonry.
+
+The fortress had been carved into a dormant volcano.
+
+That volcano—
+
+was no longer dormant.
+
+The prison that had never shown weakness—
+
+was disintegrating from inside.
+
+The first fire pillar through the Gate—
+
+only the beginning.
+
+Red became blue.
+
+The column doubled.
+
+Tripled.
+
+Expanded again.
+
+And again.
+
+Beyond human hearing—
+
+the entire sea seemed to detonate.
+
+A deep-sea eruption—
+
+more than ten thousand meters below—
+
+had begun its ascent toward the sky.

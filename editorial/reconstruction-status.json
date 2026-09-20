@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 499,
   "staged_chapters": 0,
-  "next_chapter": 419,
+  "next_chapter": 430,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "Goodbye, Nouvelle Vague",
+    "name": "The Lion King",
     "range": [
-      419,
-      421
+      430,
+      433
     ],
-    "reason": "next priority-containing family; targets419-421 remain pending and420 is the sole confirmed failure"
+    "reason": "final priority-containing family; target431 remains"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -561,6 +561,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: Goodbye, Nouvelle Vague 419-421 rebuilt/pass. Confirmed failure420 resolved; tracker restored to 500 accepted / 0 needs rework. Only priority target431 remains.",
     "Completeness audit: The Mating Room targets333-338 all rebuilt/pass. Priority targets333/334 resolved; 4 initial-priority chapters remain. Next: Goodbye, Nouvelle Vague 419-421.",
     "Completeness audit: Shadowless King targets326-330 all rebuilt/pass. Priority target328 resolved; 6 initial-priority chapters remain.",
     "Completeness audit: Underdogma targets321-325 all rebuilt/pass. Five initial-priority targets resolved; 7 remain. Next: The Shadowless King of the Black Sea 326-330.",
@@ -1032,11 +1033,9 @@
     "evidence": "qa/manuscript-completeness-audit.md",
     "priority_review_count": 47,
     "strong_suspect_count": 22,
-    "confirmed_needs_rework": [
-      420
-    ],
+    "confirmed_needs_rework": [],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 4,
+    "pending_priority_review_count": 1,
     "completed_families": [
       {
         "name": "The Illiad",
@@ -1145,12 +1144,22 @@
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"
+      },
+      {
+        "name": "Goodbye, Nouvelle Vague",
+        "range": [
+          419,
+          421
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
       }
     ],
     "resolved_confirmed_needs_rework": [
       97,
       316,
-      319
+      319,
+      420
     ]
   },
   "partial_chinese_source_chapters": [
@@ -1166,6 +1175,6 @@
   "reopened_needs_rework": [
     420
   ],
-  "accepted_count": 499,
-  "needs_rework_count": 1
+  "accepted_count": 500,
+  "needs_rework_count": 0
 }

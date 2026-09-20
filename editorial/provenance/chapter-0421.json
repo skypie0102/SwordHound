@@ -1,7 +1,7 @@
 {
   "chapter": 421,
   "title": "Goodbye, Nouvelle Vague (3)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Goodbye, Nouvelle Vague",
     "range": [
@@ -9,8 +9,8 @@
       421
     ],
     "family_qa_path": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
-    "family_qa_sha": "aad5507989a9b3d3fe63332ae31c23db4917758a",
-    "status": "pass"
+    "family_qa_sha": "1bbf4a98983ffe688c08887880df40912ccd2aec",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/421.txt",
@@ -24,15 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0421.md",
-    "blob_sha": "a041a225a96a8947719ccab56f543f132a4c48e9"
+    "blob_sha": "a10d7bc9905a8b643241f4aa3364ace900debbb6"
   },
   "qa": {
     "path": "qa/chapter-0421.md",
-    "blob_sha": "612b3ed5de92ccf7339034d326d947b2d5f617f3",
-    "status": "pass"
+    "blob_sha": "3c5c77202543351ca967c9e5bd5c35d236545ada",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
   "accepted_date": "2026-09-20",
-  "documented_correction": "Local Basilisk-regeneration wording rejected as recurring drift; Immortality — Gargoyle (S) controls."
+  "documented_correction": "Local Basilisk-regeneration wording rejected as recurring drift; Immortality — Gargoyle (S) controls.",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-20",
+    "draft_sha": "a041a225a96a8947719ccab56f543f132a4c48e9",
+    "qa_sha": "612b3ed5de92ccf7339034d326d947b2d5f617f3"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft required fuller Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/goodbye-nouvelle-vague-0419-0421.md",
+    "initial_priority_target": true
+  },
+  "regeneration_guard": "Use Immortality — Gargoyle (S); local Basilisk drift rejected."
 }
