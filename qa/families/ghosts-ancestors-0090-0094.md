@@ -1,62 +1,68 @@
 # Title-Family QA — The Ghosts of the Ancestors (1)–(5)
 
-**Family status:** PASS  
+**Family status:** PASS — COMPLETENESS REBUILD  
 **Target range:** Chapters 90–94  
+**Completeness-audit review:** 2026-09-20  
 **Following family:** target Chapter 95 begins *Madam Eight-Legs (1)*.
+
+## Audit result
+
+The historical family PASS is superseded by this completeness review.
+
+Direct Chinese/draft comparison found that **all five historical drafts were materially compressed**. Chapters 92–94 were already in the initial <0.60 priority queue, but Chapters 90–91 were not; nevertheless, both also failed strict source-coverage review. All five have now been rebuilt against their complete Chinese raws.
+
+This is the second consecutive family, after The Illiad, proving that byte-ratio triage cannot certify safety.
 
 ## Evidence / mapping
 
-| Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
+| Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|---|
-| 90 | `090.txt` | `2128d128f66c3208b3d8bacdd37bb7d9c6684773` | **E89** | `6cb2efd35be359cd0d25a1de23daf2a2561ef383` | `71b421e43d11b99367ce210d6d5a3297064daf0e` | `b7d2bd5555e7a8ce4b69b277aee4d25b9a659d18` |
-| 91 | `091.txt` | `e6a35940a28b58cf1c48dfc7e1e4c3c4c3634104` | **E90** | `48a2ce1bff9887130d5cbfb1e9a6bcaeb19d9460` | `07b8932b4701fff5559f9643036d2838d7e67572` | `73b58ecd593078c570f56813425cbfd3ec7b23ae` |
-| 92 | `092.txt` | `a880ba08795a97b8343f5b49640e2a46b9b8a9ec` | **E91** | `98931f3b4140b17b93bba780fb12e99480487f20` | `1886d92bea88028644ed52ea7af5834e454e66e0` | `b04fe3f97e3cfcfad4f8bb459f0efb349b7c7594` |
-| 93 | `093.txt` | `7c4558df6c485c790389c25096cb5b1891b078bf` | **E92** | `d51eb4d49a1518a366550ace45288393bcf06d73` | `2a9c08ae740f6b5f6af2104ec87bf42c6d898ec5` | `733f57f9d5dc3c8965b56f2b2dd5286881002a95` |
-| 94 | `094.txt` | `6e135c81be871986ae3842c6d8e29346d662aff7` | **E93** | `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f` | `2842e8516e8acf6f8f75ad133fc04fa37fe2f8ac` | `0d229c65c5d1017619521420f7c50a11ad062c04` |
+| 90 | `090.txt` | `2128d128f66c3208b3d8bacdd37bb7d9c6684773` | **E89** | `6cb2efd35be359cd0d25a1de23daf2a2561ef383` | `d591ba314f2808613552a721c9917fa4e840e36e` | `02b9b7b08fc364816697611fbdaf59391ea668eb` |
+| 91 | `091.txt` | `e6a35940a28b58cf1c48dfc7e1e4c3c4c3634104` | **E90** | `48a2ce1bff9887130d5cbfb1e9a6bcaeb19d9460` | `a6df7831bbcd6f71e0bdaca76c23e85341d43a51` | `9bc740be38d2b59e1a098c1b31699a5b710539fa` |
+| 92 | `092.txt` | `a880ba08795a97b8343f5b49640e2a46b9b8a9ec` | **E91** | `98931f3b4140b17b93bba780fb12e99480487f20` | `08f1e23f7b62376bb290e4aeb47dc5baef366eac` | `ba293daf47e46313ffeaea3986809fe934925f89` |
+| 93 | `093.txt` | `7c4558df6c485c790389c25096cb5b1891b078bf` | **E92** | `d51eb4d49a1518a366550ace45288393bcf06d73` | `20059b83e37d4bd2227a5bfaaee9c2a65737ae0b` | `c6c39bc407410e70261f036115769800bdcc3a05` |
+| 94 | `094.txt` | `6e135c81be871986ae3842c6d8e29346d662aff7` | **E93** | `30e1d5378a952bf88dd0c0ac5b11e56af8ba280f` | `6702b7e21087f0aeb6a342d6b18a44e5f562fbae` | `2171f407becea18abf463b5ab7c3601cdd90f8b5` |
 | boundary | `095.txt` — *Madam Eight-Legs (1)* | `891ba63cdf585a6d5cb456cf55ac0c2a8a64dedc` | **E94** | `88b0d59eb7cc73e684a1d56c7db610c53cd92413` | next family | next family |
 
-Recovered-English lag remains stable: **90→E89, 91→E90, 92→E91, 93→E92, 94→E93, 95→E94**.
+Verified shifted mapping remains **90→E89 through 94→E93; 95→E94**.
 
-## Family continuity
+## Source-coverage findings
 
-### 89 → 90
-Target 89 ends as the old female Oxbear enters the Illiad battlefield. Target 90 opens with Vikir using that overwhelming external force to finish Ah'Heman's defeat.
+### Chapter 90
+- Restored Hugo's overwhelming-strength lesson, full Oxbear window/ecology, exceptional old-female A+ assessment, and Vikir's deliberate use of her territory.
+- Restored the Oxbear's second strike that destroys Ah'Heman's lower body, the cub/mother sequence, full Ballak post-Illiad judgments, Ah'Heman's complete envy/self-comparison, and the Ahun/Vikir exchange.
+- Ah'Heman explicitly abandons Ballak identity and returns to Rokoko necromancy; his spell reaches toward the Tomb of the Brave.
 
-### 90 → 91
-Target 90 ends when Ah'Heman's forbidden necromancy reaches toward the **Tomb of the Brave**. Target 91 opens with ancestral corpses emerging as Death Knights.
+### Chapter 91
+- Restored the source's full nature/contract explanation for undeath and accelerated corpse decay.
+- Restored Death Knight mechanics/window, the seven recorded intelligent cases, black-panther burial shrouds, old-vs-new warrior framing, caught-arrow/crumbled-hand beat, second Death Knight slash, and salt countermeasure.
+- Restored Ballak reluctance to damage ancestors and Ah'Heman's life/soul cost, “quality over quantity” escalation, Adonai's abyss/no-grave summoning, Akwilla arrow interception, and complete Adonai legend.
 
-### 91 → 92
-Target 91 ends on the identity reveal of **Divine Archer Adonai**. Target 92 immediately begins his direct confrontation with Vikir/Aiyen.
+### Chapter 92
+- Restored Adonai's aura-made bowstring/arrow, first shot's log/cliff destruction, Vikir's torn arm/cracked wrist, master solid aura vs Graduator liquid aura, Madam Eight-Legs bow origin/poison, and ranged Death-Knight advantage.
+- Restored River Styx/Beelzebub survival factors, Kilogram Hammer anti-knockback use, mana depletion/no-escape reasoning, Aiyen's full rescue, ten-arrow attack caught and crushed one-handed, and Akwilla's barehanded interception.
 
-### 92 → 93
-Target 92 ends with Akwilla stepping in front of Vikir and Aiyen to face Adonai. Target 93 is the complete Akwilla–Adonai duel.
+### Chapter 93
+- Restored the complete master-level Akwilla–Adonai archery duel and advanced techniques.
+- Restored Akwilla's physical-arrow limitation, Adonai's aura-arrow advantage, poison/wind disadvantage, remaining Death-Knight pressure, and Aiyen recognizing Akwilla's real plan.
+- Akwilla's apparent misses ride Adonai's vortex, circle the storm, and return from behind with increased force.
+- Restored repeated-arrow penetration, final front/back headshot with arrowheads meeting, Akwilla's refusal to claim superiority over prime Adonai, Ah'Heman's ancestor-blood superstition hostage tactic, and Vikir's log-dam shot.
 
-### 93 → 94
-Target 93 ends when Vikir releases the accumulated salt-heavy floodwater. Target 94 opens on that flood purifying the Death Knights.
+### Chapter 94
+- Restored flood survival, high-concentration saltwater purification, Akwilla's regret/relief, post-flood terrain and stranded aquatic life, and recovery of Adonai's bow.
+- Restored the complete Thorn-Tree Punishment physical detail and Vikir's assessment of Ah'Heman's >six-circle black-magic talent versus his self-defeating warrior imitation.
+- Ahun chooses to end Ah'Heman's suffering, and Ah'Heman dies burning in the punishment structure he created.
+- Final warning/gaze toward the village is retained without importing the target95 attack aftermath.
 
-### 94 → 95
-Target 94 ends after Ah'Heman's thorn-tree death and Ballak's return toward the village. Target 95 opens on the devastated village after **Madam Eight-Legs** has attacked.
+## Continuity
 
-## Cross-chapter decisions
+- 89→90: old female Oxbear revealed at the Illiad battlefield; target90 completes her intervention.
+- 90→91: Ah'Heman's forbidden Rokoko spell reaches the Tomb of the Brave.
+- 91→92: Divine Archer Adonai is identified.
+- 92→93: Akwilla steps between Adonai and Vikir/Aiyen.
+- 93→94: Vikir breaks the log dam and releases the salt-heavy flood.
+- 94→95: family ends on Ah'Heman's warning and the warriors reaching the village; target95 reveals the new catastrophe.
 
-- **Oxbear** old female remains the exceptional A+-class specimen used to break Ah'Heman's Illiad.
-- Ah'Heman explicitly abandons Ballak identity and returns to **Rokoko** necromancy.
-- **Death Knight** window stays A–S with unknown size/location.
-- Salt weakness and saltwater purification remain fictional undead-worldbuilding.
-- **Divine Archer Adonai** is Ballak's greatest recorded archer, master/Bow Master class.
-- Adonai's black bow is made from old **Madam Eight-Legs** material and carries her poison.
-- Vikir remains **High Sword Graduator**; master-class solid aura overwhelms his liquid aura.
-- **Kilogram Hammer — Oxbear (A)** and six Fangs are used defensively against Adonai.
-- Akwilla's apparently missed arrows deliberately ride the storm and return from behind.
-- Akwilla defeats the reanimated Adonai but explicitly refuses to treat it as proof she surpassed his living prime.
-- Ah'Heman's blood-defilement threat exploits Ballak superstition around ancestral paradise.
-- Vikir releases the stored salt river to purify the Death Knights.
-- Adonai's bow survives and is recovered.
-- **Thorn-Tree Punishment** callback remains explicit, violent, and nonsexual.
-- Ahun chooses to end Ah'Heman's suffering after earlier refusing.
-- Ah'Heman dies burning in the punishment structure he devised.
-- No target-95 Madam Eight-Legs village-attack details are imported backward.
+## Verdict
 
-## Family acceptance result
-
-**PASS.** Targets 90–94 form one complete title family and are ready for provenance/acceptance binding.
+**PASS.** Chapters 90–94 have been rebuilt for complete source coverage and may remain accepted. The completeness audit advances to **Madam Eight-Legs (95–100)**.
