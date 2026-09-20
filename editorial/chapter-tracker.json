@@ -1,19 +1,19 @@
 {
   "notice": "Restarted workflow active. Chinese raws are semantic authority; English Fandom is canonical English terminology authority. Read HANDOFF.md before work.",
   "target_chapter_count": 500,
-  "accepted_count": 421,
+  "accepted_count": 424,
   "staged_count": 0,
-  "next_chapter": 422,
+  "next_chapter": 425,
   "active_title_family": {
-    "name": "How to Become a Wandering Knight",
+    "name": "The Night Walkers",
     "range": [
-      422,
-      424
+      425,
+      429
     ],
-    "boundary_status": "verified complete: target422→E420 through target424→E422",
-    "following_family_starts": 425,
-    "following_title": "Night Walkers (1)",
-    "alignment_note": "422→E420 through 424→E422; target425→E423 begins Night Walkers (1)."
+    "boundary_status": "verified complete: target425→E423 through target429→E427",
+    "following_family_starts": 430,
+    "following_title": "The Lion King (1)",
+    "alignment_note": "425→E423 through 429→E427; target430→E428 begins The Lion King (1)."
   },
   "chapters": [
     {
@@ -5909,6 +5909,48 @@
       "acceptance": "qa/acceptance/chapter-0421.json",
       "acceptance_sha": "3db157dc8ecac38bf46e1beaf3700d4c981c2e34",
       "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
+    },
+    {
+      "chapter": 422,
+      "title": "How to Become a Wandering Knight (1)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/422.txt",
+      "english_mtl_reference": "source/chapters/chapter-420.xhtml",
+      "draft": "manuscript/drafts/chapter-0422.md",
+      "qa": "qa/chapter-0422.md",
+      "provenance": "editorial/provenance/chapter-0422.json",
+      "acceptance": "qa/acceptance/chapter-0422.json",
+      "acceptance_sha": "2a8009afb919b81daef7d28111b54156192df1de",
+      "family_qa": "qa/families/wandering-knight-0422-0424.md"
+    },
+    {
+      "chapter": 423,
+      "title": "How to Become a Wandering Knight (2)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/423.txt",
+      "english_mtl_reference": "source/chapters/chapter-421.xhtml",
+      "draft": "manuscript/drafts/chapter-0423.md",
+      "qa": "qa/chapter-0423.md",
+      "provenance": "editorial/provenance/chapter-0423.json",
+      "acceptance": "qa/acceptance/chapter-0423.json",
+      "acceptance_sha": "f6968176526cdd667815f4d94e9f642ac2ee0790",
+      "family_qa": "qa/families/wandering-knight-0422-0424.md"
+    },
+    {
+      "chapter": 424,
+      "title": "How to Become a Wandering Knight (3)",
+      "status": "accepted",
+      "source_mode": "chinese_primary_shifted_english_alignment",
+      "chinese_source": "source/chinese/chapters/424.txt",
+      "english_mtl_reference": "source/chapters/chapter-422.xhtml",
+      "draft": "manuscript/drafts/chapter-0424.md",
+      "qa": "qa/chapter-0424.md",
+      "provenance": "editorial/provenance/chapter-0424.json",
+      "acceptance": "qa/acceptance/chapter-0424.json",
+      "acceptance_sha": "d0d86835acf4191f921e3fb9272cad67c64a768b",
+      "family_qa": "qa/families/wandering-knight-0422-0424.md"
     }
   ]
 }

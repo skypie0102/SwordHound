@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-19",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 421,
+  "accepted_chapters": 424,
   "staged_chapters": 0,
-  "next_chapter": 422,
+  "next_chapter": 425,
   "latest_accepted_family": {
-    "name": "Goodbye, Nouvelle Vague",
-    "range": [
-      419,
-      421
-    ],
-    "family_qa": "qa/families/goodbye-nouvelle-vague-0419-0421.md"
-  },
-  "next_title_family": {
     "name": "How to Become a Wandering Knight",
     "range": [
       422,
       424
     ],
+    "family_qa": "qa/families/wandering-knight-0422-0424.md"
+  },
+  "next_title_family": {
+    "name": "The Night Walkers",
+    "range": [
+      425,
+      429
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 425,
-    "following_title": "Night Walkers (1)",
-    "alignment_note": "422→E420 through 424→E422; target425→E423 begins Night Walkers (1)."
+    "following_family_starts": 430,
+    "following_title": "The Lion King (1)",
+    "alignment_note": "425→E423 through 429→E427; target430→E428 begins The Lion King (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -483,9 +483,18 @@
     418,
     419,
     420,
-    421
+    421,
+    422,
+    423,
+    424
   ],
   "notes": [
+    "Chapters422-424 accepted as How to Become a Wandering Knight (1)-(3), mapping E420-E422.",
+    "Tudor is the one-armed Knight of the Night and currently uses no surname.",
+    "Passamonte's coup forced Tudor from House Donquixote and cost him his left arm.",
+    "Bianca escaped a parallel family takeover and Night Walkers sheltered both fugitives.",
+    "Ark is the Saint of the Night's refugee destination; other Night Walker identities remain reveal-guarded.",
+    "Next family The Night Walkers verified targets425-429 / E423-E427; Lion King begins target430/E428.",
     "Chapters419-421 accepted as Goodbye, Nouvelle Vague (1)-(3), mapping E417-E419.",
     "C419 source gap restored only for Garam death/final-wish exchange from aligned E417.",
     "Kirko refuses escape and remains behind as Nouvelle Vague sinks; later fate remains unresolved.",

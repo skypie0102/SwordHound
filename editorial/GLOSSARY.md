@@ -1,3 +1,18 @@
+## How to Become a Wandering Knight additions — Chapters 422–424
+
+- **How to Become a Wandering Knight** — accepted three-part family, targets422–424 / witnesses E420–E422.
+- **Wakewack** — source-local southern-continent village used to establish the post-Nouvelle-Vague surface crisis.
+- **Night Walkers** — civilian vigilante/refugee-relief network carrying on Night Hound’s legacy.
+- **Knight of the Night** — Tudor’s Night Walkers title.
+- **Saint of the Night** — Night Walkers title associated with building the Ark; identity remains reveal-guarded through target424.
+- **Ark** — Night Walkers refugee destination described as a place of water, food, divine blessing, and safety from war/famine.
+- **Poison Gnoll** — A-rank, 3 m, found across all continents; rare pack-leader variant accumulating carrion-derived toxins.
+- **Tudor current status** — one-armed wandering knight, no surname, after abandoning House Donquixote.
+- **Passamonte coup** — family takeover that forced Tudor into flight and cost him his left arm.
+- **Bianca fugitive chronology** — fled a parallel Usher-family takeover and escaped with Tudor; Night Walkers sheltered both.
+- **The Night Walkers** — next family targets425–429 / E423–E427.
+- **The Lion King** — begins target430 / E428.
+
 ## Goodbye, Nouvelle Vague additions — Chapters 419–421
 
 - **Goodbye, Nouvelle Vague** — accepted three-part family, targets419–421 / witnesses E417–E419.

@@ -1,0 +1,33 @@
+{
+  "chapter": 424,
+  "title": "How to Become a Wandering Knight (3)",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_shifted_english_alignment",
+  "title_family": {
+    "name": "How to Become a Wandering Knight",
+    "range": [
+      422,
+      424
+    ],
+    "family_qa_path": "qa/families/wandering-knight-0422-0424.md",
+    "family_qa_sha": "fbb3ffbc45a63d0ccc9c93fe77f5263b65cbe608",
+    "status": "pass"
+  },
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/424.txt",
+    "primary_source_sha": "eb29148b587804d9b5cc6a7f0a4280bdb1ad8385",
+    "english_reference_path": "source/chapters/chapter-422.xhtml",
+    "english_reference_sha": "08e2bbb28f07bfb6d063d3d521dd1a9ba1613a79",
+    "draft_path": "manuscript/drafts/chapter-0424.md",
+    "draft_sha": "9d5b5f0a4790366fa442f78c26b2947dad3c6246",
+    "qa_path": "qa/chapter-0424.md",
+    "qa_sha": "b3b18d6206023a6143347351fc8e514f4615570b",
+    "provenance_path": "editorial/provenance/chapter-0424.json",
+    "provenance_sha": "9cd81a53211428ee4b66ed1eaa0dfae15e67ee33"
+  },
+  "documented_limits": [
+    "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
+    "No Night Walkers material from target425 is imported."
+  ]
+}
