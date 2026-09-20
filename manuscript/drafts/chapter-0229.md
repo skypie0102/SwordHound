@@ -1,573 +1,551 @@
 # Chapter 229: Tuition (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/229.txt` — `c8badb3ba83e1d42a4601dd6c9ad7b7330e9cf93`. Recovered English Chapter 227 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, MiniPin, Sherpa Guild, Age of Destruction, Baskerville, Imperial Capital, Gnoll, Monster Wave, and the accepted rank hierarchy. The Chinese raw monster name 洛 is normalized to aligned-witness **Gnoll**.
+> Chinese-primary reconstruction from `source/chinese/chapters/229.txt`. Recovered English Chapter 227 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **MiniPin**, **Sherpa Guild**, **Age of Destruction**, **Baskerville**, **Imperial Capital**, **Gnoll**, **Monster Wave**, and the accepted danger hierarchy. Raw Chinese 洛 is normalized to aligned-witness **Gnoll**.
 
-Bright moon.
+Moonlight washed over the road beyond the Imperial Capital.
 
-Outside the Imperial Capital—
+A carriage moved quietly through the night.
 
-a carriage rolled through the night.
+MiniPin held the reins.
 
-MiniPin—
-
-drove.
-
-Vikir—
-
-beside him.
+Vikir sat beside him.
 
 “Sir…”
 
-“What monster—
+MiniPin hesitated.
 
-are we hunting?”
+“What exactly are you planning to hunt?”
 
-After several nights—
+After experiencing Vikir's strength—
 
-MiniPin had—
+and his extremely unconventional negotiating style—
 
-personally—
+MiniPin had become very careful around him.
 
-accepted the guide request.
+That was also why the guildmaster had personally accepted the guide dispatch.
 
-Sending another Sherpa member—
+If he sent one of Sherpa's ordinary guides and Vikir became angry—
 
-near this madman—
+MiniPin might lose a valuable guild brother.
 
-felt irresponsible.
+Better to take the risk himself.
 
-Vikir—
+Vikir paid little attention to the concern.
 
-did not care.
+*As a student at Colosseo, I can hunt a large number of monsters without attracting too much suspicion.*
 
-*As an Academy student—
+MiniPin nodded faintly after hearing the broad plan.
 
-hunting a lot of monsters—
+Vikir was clearly beyond what anyone would normally expect from a first-year.
 
-won't look especially strange.*
+*Where did a monster like this come from?*
 
 MiniPin sighed.
 
-*Where did this monster of a first-year come from?*
-
-Vikir—
-
-thought something else.
+Vikir was thinking something else entirely.
 
 *MiniPin.*
 
-*One of the people I need.*
+*One of the people I absolutely need.*
 
 In the Age of Destruction—
 
-MiniPin became—
+MiniPin became one of the finest guides in the human alliance.
 
-one of humanity's greatest guides.
+A huge portion of the monster field information Vikir later relied on—
 
-Most monster field guides—
+habitats.
 
-Vikir had relied on—
+migration patterns.
 
-came from his research.
+terrain.
 
-Later—
+subspecies distinctions.
 
-an entire academic field—
+nesting behavior—
 
-**monster ecological geography**—
+came from MiniPin's research.
 
-grew from that work.
+The later field of **monster ecological geography** was built in large part on work he pioneered.
 
-MiniPin died—
+And yet—
 
-too early.
+MiniPin died early in the war against demons.
 
-No backing.
+Not because he lacked ability.
 
-No great family—
+Because he lacked backing.
 
-behind him.
+No powerful house.
+
+No political shelter.
+
+No institution willing to protect him when it mattered.
+
+A talented man without a home.
+
+Which meant—
+
+*whoever picks him up first owns the opportunity.*
 
 This time—
 
-Vikir intended—
+MiniPin would live much longer.
 
-to change that.
+Because one day—
 
-*First person to claim him—
+Vikir intended his own side to become the support MiniPin never had.
 
-wins.*
+The repeated nighttime beatings had not been completely arbitrary.
 
-Eventually—
+Vikir had wanted to test the man he planned to recruit.
 
-Vikir's own side—
+And show—
 
-would become MiniPin's backing.
+just enough strength.
 
-The repeated nighttime tests—
-
-had not been only intimidation.
-
-Vikir wanted—
-
-to see—
-
-the man he planned to recruit.
-
-Then—
-
-“Anything—
-
-safe enough for a student—
-
-but profitable?”
-
-MiniPin thought.
-
-“Gnolls.”
-
-Hyena heads.
-
-Dwarfish humanoid bodies.
-
-Filthy fur.
-
-Strong smell.
-
-Low-rank—
-
-individually.
-
-They lived in groups—
-
-in mountains near the capital.
-
-Tunnels—
-
-undermined roads.
-
-foundations.
-
-construction sites.
-
-They attacked—
-
-workers.
-
-“Even a first-year can hunt many.”
-
-“The hides are tough and warm.”
-
-“Bones and organs—
-
-sell as materials.”
+“What's a monster that a student can reasonably hunt—”
 
 Vikir asked—
 
-“Enough profit?”
+“but that still pays well?”
 
-“Not from materials alone.”
+MiniPin thought.
 
-“But Gnolls are—
+“Not too strong.”
 
-an officially designated ecological pest.”
+“Good returns…”
 
-“Each kill—
+He nodded.
 
-has a government bounty.”
+“Gnolls.”
 
-That—
+Gnolls.
 
-changed the math.
+Hyena-like heads.
 
-Bounty.
+Short humanoid bodies.
 
-hide.
+Bipedal.
 
-meat.
+Filthy fur.
 
-bone.
+Persistent stench.
 
-organs.
+Individually—
 
-All—
+low-rank monsters.
 
-from one target.
+They lived in groups in the mountains around the Capital.
 
-“How do people hunt them?”
+Their constant underground tunneling caused subsidence.
 
-“Shiny objects.”
+Road damage.
+
+Construction problems.
+
+Collapsed foundations.
+
+They also attacked workers.
+
+That had made them an increasingly serious regional nuisance.
+
+MiniPin's knowledge came easily.
+
+He shared it without holding anything back.
+
+“A single Gnoll is weak enough that even a first-year Academy student can kill plenty.”
+
+“Their hide is tough and warm.”
+
+“Good for mats and coverings.”
+
+“Bones and organs sell as medicinal material.”
+
+Vikir tilted his head.
+
+“Selling scraps from low-rank monsters sounds less profitable than killing one strong large monster.”
+
+MiniPin looked surprised.
+
+“You don't know?”
+
+“Gnolls are an ecological disturbance species officially designated by the Imperial authorities.”
+
+“Every confirmed kill earns a bounty.”
+
+That changed the calculation.
+
+Government bounty.
+
+Hide.
+
+Meat.
+
+Bone.
+
+Organs.
+
+All from the same prey.
+
+“How are they normally hunted?”
+
+“They love shiny things.”
+
+MiniPin mimed scattering something.
 
 “Glass beads.”
 
-“Gnolls collect glittering things.”
+“Cheap metal.”
 
-“Distract them—
+“Distract them with glittering objects—
 
-kill them.”
+then kill them.”
 
 Vikir shook his head.
 
-“For a few.”
+“That works on a few.”
 
 “Yes.”
 
-“I want—
+“For a large group—
 
-another method.”
+I use something else.”
 
 MiniPin waited.
 
-Vikir continued—
-
 “Fresh blood.”
 
-“Gnolls gather around—
+Vikir looked toward the dark forest.
 
-newly killed animals.”
+“Gnolls are strongly attracted to recently killed animals.”
 
-“From kilometers away.”
-
-MiniPin looked over.
-
-“You know that?”
-
-“Academy teaches this?”
-
-No.
-
-Experienced hunters—
-
-knew it.
-
-Vikir—
-
-caught a wild boar.
-
-Skinned it.
-
-Dragged the body—
-
-across the mountain.
-
-Blood—
-
-on soil.
-
-fur.
-
-rocks.
-
-Wind—
-
-carried the smell.
-
-MiniPin's face—
-
-tightened.
-
-“You're calling—
-
-every Gnoll—
-
-within kilometers.”
-
-“A single Gnoll is C+.”
-
-“A horde can reach—
-
-A-level danger.”
-
-“Correct.”
-
-“Don't worry.”
-
-“I lure them—
-
-then hide.”
-
-MiniPin relaxed slightly.
-
-“Right.”
-
-“Let them fight over food.”
-
-“We pick off—
-
-the weak—”
-
-“No.”
-
-Vikir looked ahead.
-
-“We follow—
-
-the strongest.”
-
-MiniPin blinked.
-
-“Why?”
-
-“They lead us—
-
-to the nest.”
-
-Vikir did not want—
-
-one Gnoll.
-
-Or ten.
-
-Or one hunting party.
-
-He wanted—
-
-the colony.
-
-“All of them?”
+“Their sense of smell is good enough to detect blood from several kilometers away.”
 
 MiniPin stared.
 
+“You know that?”
+
+“Do they teach this at Colosseo now?”
+
+This was not ordinary beginner knowledge.
+
+Experienced hunters knew it.
+
+Gnolls were among the first creatures to gather around wounded prey.
+
+On land—
+
+they filled a role not unlike sharks drawn to blood in water.
+
+Vikir caught a wild boar.
+
+Killed it.
+
+Skinned it.
+
+Then dragged the carcass across the mountain.
+
+Blood soaked into mud.
+
+Fur and drops of blood were spread across different trails.
+
+The night wind carried the smell.
+
+MiniPin's expression became increasingly alarmed.
+
+“Sir.”
+
+“This is not normal baiting.”
+
+“You're provoking **all** the Gnolls nearby.”
+
+“A single Gnoll is Danger Rating C+.”
+
+“A large group can reach **A-level danger**.”
+
+“For a hunter—
+
+drawing every Gnoll within kilometers into one place is suicidal.”
+
+Vikir nodded.
+
+“Don't worry.”
+
+“I'll lure them.”
+
+“Then hide.”
+
+MiniPin finally relaxed a little.
+
+“Ah.”
+
+“Right.”
+
+“If they start feeding—
+
+their attention drops.”
+
+“They'll fight over food.”
+
+“The weaker ones get pushed away.”
+
+“Then we can pick off the stragglers—”
+
+“No.”
+
+MiniPin stopped.
+
+Vikir continued.
+
+“We follow the leaders.”
+
+“…Why?”
+
+“Because they'll show us where the nest is.”
+
+MiniPin stared.
+
+Vikir was not hunting one Gnoll.
+
+Or ten.
+
+Or one feeding group.
+
+He wanted the entire colony.
+
+A scale of extermination even organized Imperial subjugation forces struggled to perform cleanly.
+
+“Why…”
+
+MiniPin swallowed.
+
 “Why go that far?”
 
-Vikir's answer—
-
-simple.
+Vikir answered simply.
 
 “More money.”
 
 ◆◆◆
 
-Soon—
+The Gnolls arrived.
 
-Gnolls arrived.
+They swarmed the boar.
 
-They tore open—
+Ripped open the abdomen first.
 
-the wild boar.
+Devoured the still-warm organs.
 
-Ate—
+Then dragged the remaining carcass away.
 
-hot organs first.
+Vikir and MiniPin followed silently.
 
-Then dragged—
+The trail led toward low hills.
 
-the remaining carcass—
+There—
 
-down a low forest trail.
+hidden beneath packed earth—
 
-Vikir.
+a vast den.
 
-MiniPin.
+MiniPin climbed high into a tree to look over the surrounding ground.
 
-Followed.
+His face stiffened.
 
-A hidden dirt den—
+*He really thinks this can work?*
 
-under low hills.
+The colony was enormous.
 
-MiniPin climbed a tree.
-
-Looked.
-
-Then—
-
-went pale.
-
-A vast colony.
+Dense movement everywhere.
 
 “Sir.”
 
-“This is too large.”
+“This is too much.”
 
-“This colony—
+“This may be the main colony causing trouble for the entire district.”
 
-may be the one troubling—
+“If we panic them carelessly—
 
-the entire region.”
+they'll surge toward the nearby villages.”
 
-“If we spook them—
+A **Monster Wave**.
 
-they'll flood nearby villages.”
+A disaster caused by large numbers of monsters fleeing or charging as one mass.
 
-**Monster Wave.**
+One mistake could turn the hunt into a civilian catastrophe.
 
-Vikir—
+Vikir remained calm.
 
-remained calm.
+“Find every other entrance connected to this den.”
 
-“Find every exit—
+MiniPin blinked.
 
-connected to the den.”
+Then followed.
 
-Hours.
+Hours passed.
 
-Search.
+Vikir located several openings likely connected to the same underground network.
 
-Vikir found—
+MiniPin was impressed by the search skill—
 
-several.
+but still could not imagine how two people intended to handle the colony.
 
 Then—
 
-mana.
+Vikir placed one fist against a dry earthen wall.
 
-One punch.
+Mana flowed.
 
 BOOM!
 
-Dry soil collapsed—
+The slope collapsed.
 
-blocking—
+One tunnel entrance disappeared beneath packed soil.
 
-entrance after entrance.
+Then another.
 
-MiniPin—
+And another.
 
-watched.
+Vikir gave a dry smile—
 
-Vikir moved—
+briefly remembering the absurd club champagne incident from earlier days.
 
-to the highest tunnel.
+“Now.”
 
-A few Gnolls rushed out.
+“Highest entrance.”
 
-MiniPin's greatsword—
+They drove the carriage upward.
 
-removed their heads.
+Several Gnolls rushed out.
 
-Then—
+Whoosh—
 
-Vikir unloaded—
+CRACK!
 
-the carriage.
+MiniPin's greatsword removed their heads.
+
+“Sir.”
+
+“What now—”
+
+He stopped.
+
+The carriage cargo had been unloaded.
 
 Barrels.
 
-Green oil.
+Oil.
 
-Cheap—
+Vikir had spent almost every remaining coin he possessed buying expired waste oil cheaply from the Academy.
 
-expired—
+Green liquid—
 
-bought from Academy surplus—
+pressed from **Shavik fruit**.
 
-using almost all the money he had left.
+Thick.
 
-Oil—
-
-pressed from Shavik fruit.
-
-Sticky.
-
-Flammable.
+Highly flammable.
 
 Low boiling point.
 
-Vikir poured—
+He opened the first barrel.
 
-barrel—
+Then poured.
 
-after barrel—
+Glug—
 
-into the upper tunnel.
+glug—
 
-Gnolls below—
+glug—
 
-howled.
+Oil disappeared into the highest tunnel.
 
-When the last barrels emptied—
+More barrels followed.
 
-Vikir kicked them in.
+Below—
 
-Then—
+howls and growls echoed upward.
 
-threw a torch.
+Several Gnolls tried climbing out.
+
+MiniPin cut them down and knocked them back.
+
+Dozens of barrels emptied.
+
+Vikir kicked the last containers into the shaft.
+
+Then raised a torch.
+
+MiniPin stared.
+
+“No.”
+
+Vikir dropped it.
 
 BOOM!
 
-Flame—
+The tunnel erupted.
 
-raced downward.
+Shavik oil ignited explosively.
 
-Hot oil—
+Screams tore through the underground den.
 
-through tunnels.
+Upper-level Gnolls were burned in oil.
 
-Smoke—
-
-through chambers.
-
-Gnolls screamed.
-
-Upper levels—
-
-burned.
-
-Middle levels—
-
-smoke.
+Middle levels filled with smoke.
 
 Lower levels—
 
 panic.
 
-Blocked exits—
+Most exits were already sealed.
 
-trapped them.
+Oxygen dropped.
 
-MiniPin—
+Heat climbed.
 
-stared.
+Smoke thickened.
 
-Vikir spoke—
+Bodies jammed narrow passages.
 
-calmly.
+MiniPin stood with his mouth open.
 
-“The hot oil—
+He had never seen anyone hunt a group-type monster this way.
 
-is mostly spectacle.”
+Vikir remained calm.
 
-“The real weapon—
+“This only works on creatures with low intelligence.”
 
-is panic.”
+MiniPin looked at him.
 
-Burned Gnolls—
+“The boiling oil?”
 
-fled downward.
+“Mostly spectacle.”
 
-Small.
+Vikir listened to the chaos below.
 
-old.
+“It creates fear.”
 
-slow—
+“That is the real weapon.”
 
-trampled.
+Burned Gnolls fled downward.
 
-The strong—
+Small ones.
 
-fought over narrow routes.
+Old ones.
 
-Cannibalized—
+Slower ones—
 
-each other—
+were trampled by their own colony.
 
-for escape.
+At narrow passages—
 
-Only—
+the monsters fought each other for escape.
 
-the fastest—
+Panic compressed movement into fewer routes.
 
-strongest—
+Only the strongest and fastest remained alive long enough to reach the deepest surviving exit.
 
-survived long enough—
+Vikir's eyes turned toward that final opening.
 
-to reach—
-
-the lowest remaining exit.
-
-Vikir's eyes—
-
-turned toward it.
-
-“…There.”
+“…They're coming.”
