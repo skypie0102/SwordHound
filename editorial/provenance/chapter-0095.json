@@ -1,7 +1,7 @@
 {
   "chapter": 95,
   "title": "Madam Eight-Legs (1)",
-  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_with_verified_localized_E94_gap_project_canonical_2026-09-20",
   "title_family": {
     "name": "Madam Eight-Legs",
     "range": [
@@ -9,8 +9,8 @@
       100
     ],
     "family_qa_path": "qa/families/madam-eight-legs-0095-0100.md",
-    "family_qa_sha": "bb396c611ff1dfc2b09fd7a5fce53d9415659645",
-    "status": "pass"
+    "family_qa_sha": "285bfbb5d7a6ae5a39bc3cbc1ebf5c626263e7bb",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/095.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0095.md",
-    "blob_sha": "2265a9734052560a06644e5825ae994b9e17c74e"
+    "blob_sha": "3bc9dacf572ec377d28579bcfb62a7f512b1aed2"
   },
   "qa": {
     "path": "qa/chapter-0095.md",
-    "blob_sha": "3bf019226172a88cd26ea65a645bae295f5ebb28",
-    "status": "pass"
+    "blob_sha": "d8390b1dca303ef7a3ff77535901ab4f699b5b0e",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -62,5 +62,21 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "draft_sha": "2265a9734052560a06644e5825ae994b9e17c74e",
+    "qa_sha": "3bf019226172a88cd26ea65a645bae295f5ebb28"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/madam-eight-legs-0095-0100.md"
+  },
+  "localized_gap": {
+    "status": "verified",
+    "evidence": "source/chinese/chapter-exceptions.tsv",
+    "restoration": "E94 bridge only between dead-guard paragraph and Aheul dialogue"
+  }
 }
