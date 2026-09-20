@@ -2,27 +2,27 @@
   "checkpoint_date": "2026-09-20",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
-  "accepted_chapters": 482,
+  "accepted_chapters": 489,
   "staged_chapters": 0,
-  "next_chapter": 483,
+  "next_chapter": 490,
   "latest_accepted_family": {
-    "name": "Downtown Naval Warfare",
-    "range": [
-      479,
-      482
-    ],
-    "family_qa": "qa/families/downtown-naval-warfare-0479-0482.md"
-  },
-  "next_title_family": {
     "name": "The Marquis of Discord",
     "range": [
       483,
       489
     ],
+    "family_qa": "qa/families/marquis-discord-0483-0489.md"
+  },
+  "next_title_family": {
+    "name": "Running Hound(s)",
+    "range": [
+      490,
+      493
+    ],
     "boundary_status": "verified complete",
-    "following_family_starts": 490,
-    "following_title": "Running Hound (1)",
-    "alignment_note": "483→E481 through 489→E487; Running Hound(s) 490→E488 through 493→E491."
+    "following_family_starts": 494,
+    "following_title": "The Day After the Apocalypse (1)",
+    "alignment_note": "490→E488 through 493→E491; 494→E492 begins The Day After the Apocalypse (1)."
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -544,9 +544,23 @@
     479,
     480,
     481,
-    482
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489
   ],
   "notes": [
+    "Chapters483-489 accepted as The Marquis of Discord (1)-(7), mapping E481-E487.",
+    "Vikir reaches Baskerville Ninth Form while alive through repeated real death experience and Cane Corso's threshold teaching.",
+    "Andras's final portals connect to Vikir's original timeline rather than opening a second local Gate of Destruction.",
+    "The Ten Corpses are revealed as a vanguard among seventy-two demons; Andras is rank63 and Baal is the largest looming presence shown.",
+    "Pigi is revealed as Golding Pigi Ralph / missing Second Prince / Andras's closing half; First Corpse danger rating S+.",
+    "Family ends on Pigi remembering why he sent Vikir back; explanation remains for following family.",
+    "Next family Running Hound(s) verified targets490-493 / E488-E491; The Day After the Apocalypse follows targets494-495 / E492-E493.",
     "Chapters479-482 accepted as Downtown Naval Warfare (1)-(4), mapping E477-E480.",
     "First Corpse opener/closer role clue remains cryptic; no role identity imported.",
     "Kraken is Chinese-primary S+ and serves as palace gatekeeper; Baby Madam intercepts it so Vikir can reach the palace.",
