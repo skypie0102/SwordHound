@@ -2,8 +2,8 @@
   "chapter": 232,
   "title": "Tuition (8)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/232.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-230.xhtml",
     "english_reference_sha": "3bd9b39a61de45b2b305b6ca73628633c30f07a8",
     "draft_path": "manuscript/drafts/chapter-0232.md",
-    "draft_sha": "90c9ea8bf3dbbe3113e21261d4fbc640b0e1d8f7",
+    "draft_sha": "f0418162fb9099cb9ccf7dcf39b7ef43445abb0a",
     "qa_path": "qa/chapter-0232.md",
-    "qa_sha": "e7888f9ca677939dfd5402228524d785eb27b540",
+    "qa_sha": "df0c556134dcca17405cf0b12c6017c8154d633f",
     "provenance_path": "editorial/provenance/chapter-0232.json",
-    "provenance_sha": "e12f153ff45eba1810a1015785d23ef866fb65be"
+    "provenance_sha": "fafc4395374defa7984a161ad5545629b72f745d"
   },
   "canonical_checks": [
     "MiniPin",
@@ -37,5 +37,18 @@
     "MiniPin recruitment remains Vikir's future plan.",
     "Faction suppression is economic/social, not formal Academy policy."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "90c9ea8bf3dbbe3113e21261d4fbc640b0e1d8f7",
+    "qa_sha": "e7888f9ca677939dfd5402228524d785eb27b540",
+    "provenance_sha": "e12f153ff45eba1810a1015785d23ef866fb65be"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }
