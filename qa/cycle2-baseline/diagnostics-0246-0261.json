@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    246,
+    261
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline. Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 246,
+      "draft_blob_sha": "c7d0c8408ba91cd7a289612058305deca15f4ae2",
+      "metrics": {
+        "char_count": 6543,
+        "line_count": 524,
+        "nonempty_line_count": 262,
+        "paragraph_count": 262,
+        "dialogue_line_count": 41,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 93,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.585,
+        "opening_signature": "21314236",
+        "closing_signature": "585e15e9"
+      }
+    },
+    {
+      "chapter": 247,
+      "draft_blob_sha": "2d8802daa24a28bb65afe1f8844032f31dbd00ae",
+      "metrics": {
+        "char_count": 6210,
+        "line_count": 426,
+        "nonempty_line_count": 213,
+        "paragraph_count": 213,
+        "dialogue_line_count": 44,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 102,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "9180d922",
+        "closing_signature": "45b3274f"
+      }
+    },
+    {
+      "chapter": 248,
+      "draft_blob_sha": "0d72f1a2c0717384a39d82c799cca5b062304cf1",
+      "metrics": {
+        "char_count": 6398,
+        "line_count": 470,
+        "nonempty_line_count": 235,
+        "paragraph_count": 235,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 82,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.563,
+        "opening_signature": "47f90964",
+        "closing_signature": "dbc384d3"
+      }
+    },
+    {
+      "chapter": 249,
+      "draft_blob_sha": "40b9bdeb9bd3b593d49dcb17500ed48380f34432",
+      "metrics": {
+        "char_count": 6655,
+        "line_count": 536,
+        "nonempty_line_count": 268,
+        "paragraph_count": 268,
+        "dialogue_line_count": 49,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 116,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.508,
+        "opening_signature": "c6d467ef",
+        "closing_signature": "1b3b96e3"
+      }
+    },
+    {
+      "chapter": 250,
+      "draft_blob_sha": "dbbdfdaef5ccb5e2e52f57dff7120e4e5af15314",
+      "metrics": {
+        "char_count": 10458,
+        "line_count": 342,
+        "nonempty_line_count": 175,
+        "paragraph_count": 167,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 107,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 1.912,
+        "opening_signature": "40495a4f",
+        "closing_signature": "72f6b261"
+      }
+    },
+    {
+      "chapter": 251,
+      "draft_blob_sha": "6b7949703db118400184913f0c0b7fbb5f303b05",
+      "metrics": {
+        "char_count": 10685,
+        "line_count": 510,
+        "nonempty_line_count": 255,
+        "paragraph_count": 255,
+        "dialogue_line_count": 109,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 261,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 0.936,
+        "opening_signature": "98457810",
+        "closing_signature": "0a361c07"
+      }
+    },
+    {
+      "chapter": 252,
+      "draft_blob_sha": "4d5f5bee0887b37b0190b588dddf9488f5259409",
+      "metrics": {
+        "char_count": 10982,
+        "line_count": 552,
+        "nonempty_line_count": 276,
+        "paragraph_count": 276,
+        "dialogue_line_count": 69,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 185,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 3.642,
+        "opening_signature": "bfe60cf4",
+        "closing_signature": "564f190a"
+      }
+    },
+    {
+      "chapter": 253,
+      "draft_blob_sha": "bf6101f3b888f922085f478a1c65e611e91ccfd5",
+      "metrics": {
+        "char_count": 10313,
+        "line_count": 448,
+        "nonempty_line_count": 224,
+        "paragraph_count": 224,
+        "dialogue_line_count": 44,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 117,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 2.909,
+        "opening_signature": "a91686a9",
+        "closing_signature": "f2a6e311"
+      }
+    },
+    {
+      "chapter": 254,
+      "draft_blob_sha": "2d6f0d3ee372eb7669e308ece3fa5ff1fad4f870",
+      "metrics": {
+        "char_count": 10949,
+        "line_count": 526,
+        "nonempty_line_count": 263,
+        "paragraph_count": 263,
+        "dialogue_line_count": 62,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 145,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 4.567,
+        "opening_signature": "80c97c84",
+        "closing_signature": "3e75fe13"
+      }
+    },
+    {
+      "chapter": 255,
+      "draft_blob_sha": "745e89311363a93a1cbbeece04f0ca818f60a935",
+      "metrics": {
+        "char_count": 9337,
+        "line_count": 427,
+        "nonempty_line_count": 215,
+        "paragraph_count": 212,
+        "dialogue_line_count": 8,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 32,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 26,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 26,
+        "explicitness_per_10k_chars": 27.846,
+        "opening_signature": "4d0049b4",
+        "closing_signature": "e45c55a5"
+      }
+    },
+    {
+      "chapter": 256,
+      "draft_blob_sha": "df0454bbfd58117eb16965344c19f8fd5e389f08",
+      "metrics": {
+        "char_count": 6654,
+        "line_count": 316,
+        "nonempty_line_count": 158,
+        "paragraph_count": 158,
+        "dialogue_line_count": 5,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 19,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.509,
+        "opening_signature": "be562b2a",
+        "closing_signature": "3875a54f"
+      }
+    },
+    {
+      "chapter": 257,
+      "draft_blob_sha": "cf946735a86761f2b36fcf6a1ee1682719e7a3fa",
+      "metrics": {
+        "char_count": 6175,
+        "line_count": 304,
+        "nonempty_line_count": 152,
+        "paragraph_count": 152,
+        "dialogue_line_count": 2,
+        "bracket_window_candidate_lines": 4,
+        "quote_marker_count": 8,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 11.336,
+        "opening_signature": "9f75749b",
+        "closing_signature": "8261eb1c"
+      }
+    },
+    {
+      "chapter": 258,
+      "draft_blob_sha": "6213692625d92aaf87d841786a253ee6403f8451",
+      "metrics": {
+        "char_count": 6899,
+        "line_count": 443,
+        "nonempty_line_count": 222,
+        "paragraph_count": 221,
+        "dialogue_line_count": 9,
+        "bracket_window_candidate_lines": 41,
+        "quote_marker_count": 34,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.899,
+        "opening_signature": "cb698303",
+        "closing_signature": "86aca5ca"
+      }
+    },
+    {
+      "chapter": 259,
+      "draft_blob_sha": "afe20c6359515662adff17f2192220f99cdf720e",
+      "metrics": {
+        "char_count": 7997,
+        "line_count": 464,
+        "nonempty_line_count": 233,
+        "paragraph_count": 231,
+        "dialogue_line_count": 9,
+        "bracket_window_candidate_lines": 28,
+        "quote_marker_count": 33,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 14,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 14,
+        "explicitness_per_10k_chars": 17.507,
+        "opening_signature": "5b07a1fd",
+        "closing_signature": "71c449c4"
+      }
+    },
+    {
+      "chapter": 260,
+      "draft_blob_sha": "1a6ad004ed5c0e0955d7cc2e7ab794c44cbf7cd8",
+      "metrics": {
+        "char_count": 7912,
+        "line_count": 459,
+        "nonempty_line_count": 231,
+        "paragraph_count": 228,
+        "dialogue_line_count": 16,
+        "bracket_window_candidate_lines": 40,
+        "quote_marker_count": 48,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 27,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 27,
+        "explicitness_per_10k_chars": 34.125,
+        "opening_signature": "0a248979",
+        "closing_signature": "45b36fee"
+      }
+    },
+    {
+      "chapter": 261,
+      "draft_blob_sha": "78b49f8a68aee7352bdcfa6be9345c837d504170",
+      "metrics": {
+        "char_count": 8615,
+        "line_count": 467,
+        "nonempty_line_count": 234,
+        "paragraph_count": 233,
+        "dialogue_line_count": 92,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 215,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "90737ac1",
+        "closing_signature": "584e6b49"
+      }
+    }
+  ]
+}
