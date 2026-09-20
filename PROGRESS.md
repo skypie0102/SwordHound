@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Illiad completeness rebuild (85–89)
+
+**Audit result:** all five historical drafts failed strict full-source-coverage review and were rebuilt; family now **PASS**.
+
+The initial length heuristic flagged only Chapters 87–89, but direct Chinese comparison showed Chapters 85–86 were also materially compressed. This proves the <0.60 draft/raw ratio is only a prioritization tool and cannot be treated as a safety threshold.
+
+Notable repairs:
+- Chapter85: corrected Aiyen's bow from the MTL-derived “five strings” error to **roughly five people's draw strength, up to ten arrows**; restored full Ka'ah hunt/feast/Beelzebub sequence.
+- Chapter86: restored Ah'Heman's full poison/medicine authority scheme, Leviathan/Bourgeois collaboration, clinical experiment motive, deliberate Aheul infection, and failed savior plan.
+- Chapter87: restored the pouch/flour trap, full forged-letter/Chihuahua recollection, denial strategy, crowd response, and Akwilla's extended honor trap.
+- Chapter88: restored the timing-rule maneuver, anti-shaman contingency reasoning, full Ah'Heman background, and complete pre-duel setup.
+- Chapter89: restored jungle traps, Silent Heel/Incinerate combat detail, corpse-reanimation sequence, and the **massive rear impact that crushes Ah'Heman and the undead screen before the Oxbear reveal**.
+
+Fresh chapter QA, provenance, acceptance evidence, and family QA have been rebound.
+
+Initial priority queue now has **44 pending chapters** (47 original minus rebuilt 87–89).
+
+Next audit family: **The Ghosts of the Ancestors (90–94)**.
+
+
 ## 2026-09-20 — Post-500 manuscript completeness audit opened
 
 **Current tracker state:** 496 accepted / 4 needs rework; 500 / 500 manuscript files exist.
