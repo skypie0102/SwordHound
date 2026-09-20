@@ -1,126 +1,162 @@
 # Chapter 238: National University League (3)
 
-> Chinese-primary reconstruction from source/chinese/chapters/238.txt — d4c6b79662b593c007d9d53b13f47d78dad0054d. Recovered English Chapter 236 is the verified shifted secondary witness. Canonical/project terminology controls Granola Leviathan, Sinclaire, Vikir, Highbro/Middlebro/Lowbro Le Baskerville, Colosseo Academy, and Baskerville terminology. Granola’s feelings toward Sinclaire remain his private viewpoint; no reciprocity is implied.
+> Chinese-primary reconstruction from `source/chinese/chapters/238.txt`. Recovered English Chapter 236 is the verified shifted secondary witness. Canonical/project terminology controls **Granola Leviathan**, **Sinclaire**, **Vikir**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Colosseo Academy**, and Baskerville continuity. Granola's attraction to Sinclaire remains entirely his own viewpoint; no reciprocity is implied.
 
-Granola Leviathan.
+**Granola Leviathan.**
 
 Third son of Leviathan—
 
-the poison clan among the Seven Great Families.
+the poisonous hidden clan among the Seven Great Houses.
 
-He had spent his life praised.
+He had grown up praised.
 
-Pampered.
+Protected.
 
-Treated as the greatest talent of his generation within his house.
+Treated as one of the greatest talents in his generation.
 
-Until Colosseo.
+He had never bowed his head to anyone.
 
-Second place on the entrance examination.
+Not before entering Colosseo.
 
-That alone had been intolerable.
+Then—
 
-The person above him—
+entrance rankings.
 
-Sinclaire.
+Second place.
 
-A commoner without even a family name.
+From the beginning—
 
-Granola had dismissed it as a miracle.
+something went wrong.
 
-A single freak result.
+Cold Department and Hot Department were different tracks.
 
-Then came the midterms.
+Granola could tell himself that.
 
-The ranking did not change.
+He could build whatever mental excuses he wanted.
 
-Sinclaire remained above him.
+There was still a limit.
 
-He hated it.
+Because above him stood—
 
-He hated her.
+**Sinclaire.**
 
-At least—
+A commoner.
 
-that was what he kept telling himself.
+No family name.
 
-Because the harder he tried to hate her—
+Granola initially dismissed it as one impossible miracle granted to someone beneath him.
 
-the stranger the feeling became.
+Then midterms came.
 
-White hair that drew the eye anywhere.
+Nothing changed.
 
-Clear skin.
+Sinclaire—
 
-Large deerlike eyes.
+still above him.
 
-Fine nose and lips.
+He resented her.
 
-Every time he thought of Sinclaire—
+Envied her.
 
-some part of him secretly cheered for her.
+Struggled with humiliation every time he saw the ranking.
+
+And yet—
+
+the more he tried to hate her—
+
+the more another feeling grew.
+
+Perhaps it had been there from the first moment.
+
+White hair that drew attention anywhere.
+
+Clean skin.
+
+Large, deerlike eyes.
+
+Fine nose.
+
+Fine lips.
+
+Whenever Granola thought of Sinclaire—
+
+some hidden part of him wanted her to succeed.
 
 Ridiculous.
 
-Unacceptable.
+Humiliating.
 
-And true.
+True.
 
 From then on—
 
-Granola kept finding reasons to hover nearby.
+he found himself circling near her.
 
-To say one more thing.
+Looking for excuses to say something.
 
-And every time the chance came—
+And whenever the opportunity came—
 
-all that escaped his mouth was another barb about “commoners.”
+all that left his mouth was another sharp—
 
-Then Vikir appeared.
+“Commoner…”
 
-An ordinary nobody.
+Then an irritating obstacle appeared.
 
-At most—
+**Vikir.**
+
+An ordinary-looking nobody.
+
+Nothing remarkable except—
 
 good grades.
 
-A handsome face.
+a slightly handsome face.
 
-Yet girls throughout the school seemed to gather around him.
+And somehow—
 
-And Sinclaire—
+girls across the Academy seemed ready to hand him their hearts.
 
-whom Granola had been watching from afar—
+Worse—
 
-approached Vikir on her own.
+Sinclaire, whom Granola had been watching from a distance—
 
-Volunteer work.
+approached Vikir willingly.
+
+Volunteer service.
 
 Studying.
 
-Easy conversation.
-
-Granola had not even managed a proper sentence.
+Easy conversations.
 
 *Impossible.*
 
-So he made a decision.
+Granola had not managed one decent conversation with her.
 
-For the League—
+Vikir was already close enough to share routines.
 
-he would join Vikir’s group.
+So Granola decided.
 
-He would show Sinclaire exactly who was superior.
+During the League—
 
-He would humiliate Vikir in front of her.
+he would enter Vikir's group.
 
-Then surely—
+He would display his superiority so clearly that Sinclaire could not miss it.
 
-she would finally understand.
+Humiliate Vikir in front of her.
+
+Then—
+
+perhaps—
+
+she would finally understand who was stronger.
+
+Who was better.
 
 ◆◆◆
 
 Granola sat at the round table inside the train compartment.
+
+The group arrangement was—
 
 Highbro.
 
@@ -132,13 +168,17 @@ Lowbro.
 
 Granola.
 
-That was the seating order around the circle.
+Granola looked at his luggage.
 
-Granola eyed his luggage.
+Then at Vikir.
 
-“Hey, commoner. Put my bag in the rack above you.”
+“Hey, commoner.”
 
-Vikir was meditating with his eyes closed.
+“Put my bag in the rack above your head.”
+
+Vikir sat with his eyes closed—
+
+meditating.
 
 No answer.
 
@@ -146,218 +186,372 @@ Granola hesitated.
 
 Not because he feared Vikir.
 
-Of course not.
+Absolutely not.
 
-The problem was the three Baskerville brothers flanking him.
+The problem—
 
-Granola reminded himself—
+the three Baskerville brothers around him.
 
-*I’m going to be group leader.*
+Still—
 
-He cleared his throat.
+*I am going to be this group's leader.*
 
-“Hey. Commoner. Didn’t you hear me?”
+He hardened his resolve.
+
+“Hey.”
+
+“Commoner.”
+
+“Didn't you hear me?”
 
 Vikir opened one eye.
 
-He took the bag—
+Took Granola's luggage.
 
-and set it on his lap.
+Placed it—
+
+on his own lap.
 
 Granola frowned.
 
-“What are you doing? Put it up.”
+“What are you doing?”
 
-Silence.
+“Put it above you.”
 
-“You think you’re important because of one lucky midterm? You just happened to find some monster information—”
+“…”
+
+“What?”
+
+“You think one lucky midterm score makes you important?”
+
+“You just picked up some monster information from somewhere—”
 
 Lowbro spoke without opening his eyes.
 
 “Be quiet.”
 
-Granola stiffened.
+Granola froze.
+
+His expression almost asked—
+
+*Was that directed at me?*
+
+No one had spoken to him that openly in a very long time.
+
+Even seniors in the noble faction usually gave the Leviathan heir some courtesy.
 
 “What did you say?”
 
-Lowbro did not answer.
+Lowbro simply closed his eyes again.
 
-That made it worse.
+No answer.
+
+That irritated Granola even more.
 
 Highbro was famous.
 
-Strongest-looking.
+Largest presence.
 
-Best-known.
+Highest score among the three.
 
-Middlebro and Lowbro were often treated as followers.
+Middlebro and Lowbro were often mistaken for mere followers.
 
-And now even Lowbro—
+And now even the least conspicuous brother—
 
-was telling a Leviathan heir to shut up.
+was openly dismissing him.
 
-Granola inhaled.
+*No.*
 
-*If I want control of this group, I have to establish authority now.*
+*If I want control of this group—
 
-He dropped heavily into his seat.
+I need to establish authority from the start.*
 
-“Fine. Commoner. Get the liquor from my bag.”
+Granola inhaled deeply.
 
-He had smuggled vodka onto the train.
+Then sat down hard.
 
-Forbidden for students his age.
+“Fine.”
 
-That was the point.
+“Commoner.”
 
-Granola folded his arms.
+“Take a bottle out of my luggage.”
 
-*Look at me.*
+He had secretly brought **vodka**.
 
-*Drinking in broad daylight.*
+Students their age were not supposed to drink it.
+
+That was part of the display.
+
+Granola folded his arms and glanced at the silent triplets.
+
+*See?*
+
+*I'm drinking in broad daylight.*
 
 *On the train to the tournament.*
 
-*I fear nothing.*
+*I don't care about rules.*
 
-“Come on. There’s a bottle of vodka in there.”
+Fearless.
 
-Vikir did not move.
+Dangerous.
 
-Granola’s eyebrow twitched.
+Mature.
 
-If he fetched it himself—
+That was the image.
 
-the effect would be ruined.
+“Come on.”
 
-Lowbro sighed.
+“There is a vodka bottle in the bag.”
 
-“If you want it, get it yourself.”
+Vikir still did not respond.
 
-Granola’s face reddened.
+Granola's eyebrow twitched.
 
-Then Vikir reached into the bag.
+If he stood and fetched the bottle himself—
+
+the performance collapsed.
+
+The commoner had to serve him.
+
+“Are you deaf?”
+
+“Take it out.”
+
+Lowbro spoke again.
+
+“You're really noisy.”
+
+“What?”
+
+“If you want alcohol, get it yourself.”
+
+“It's not impressive.”
+
+Granola's face flushed red.
+
+Then—
 
 “Enough.”
 
-He handed over the bottle.
+Vikir's hand entered the bag.
 
-“Here. Stop making trouble.”
+He pulled out the bottle.
 
-Granola snatched it.
+“Here.”
 
-He sprawled into the roughest pose he could manage—
+“Stop making trouble.”
 
-careful not to invade Highbro or Lowbro’s space.
+Granola snatched it away.
 
-“What a lousy mood. I need a drink.”
+THUMP.
 
-Nobody cared.
+He leaned back in the roughest pose he could manage—
 
-He twisted open the cap.
+while carefully avoiding Highbro and Lowbro's personal space.
 
-“You people can’t drink?”
+“Ugh.”
+
+“This mood is terrible.”
+
+“I need a drink.”
+
+No one cared.
+
+Granola opened the bottle.
+
+“You guys don't drink?”
 
 Silence.
+
+“What?”
 
 “Afraid an instructor will catch you?”
 
 Silence.
 
-“I drink all the time. This is only seventy percent. Practically water.”
+“I've always liked alcohol.”
 
-He tipped a few drops into his mouth—
+“When you're going somewhere like this—
 
-puffed his cheeks—
+you need to wet your throat.”
 
-and made several exaggerated swallowing motions.
+He lifted the bottle.
 
-Then—
+“This is only seventy percent.”
 
-as though the thought had only just occurred—
+“Basically water.”
 
-“Oh, right. I’ll be this group’s leader. Any objections?”
+Granola tilted it just enough for a few drops to enter his mouth.
+
+Then inflated his cheeks—
+
+and made exaggerated swallowing motions to suggest he'd taken a large gulp.
+
+Afterward—
+
+as though the thought had just occurred naturally—
+
+“Oh.”
+
+“One more thing.”
+
+“I'll be group leader.”
+
+“Any objections?”
+
+His tone sounded casual.
+
+Every nerve in his body—
+
+waited for the response.
+
+…
 
 Nothing.
 
-Highbro, Middlebro, Lowbro, and Vikir sat with closed eyes.
+Highbro.
 
-Granola tried to interpret the silence.
+Middlebro.
 
-*They accepted.*
+Lowbro.
+
+Vikir.
+
+Eyes closed.
+
+Arms folded.
+
+Meditating.
+
+Granola scratched his cheek.
+
+*Does silence mean yes?*
 
 Probably.
 
-He pressed on.
+He pushed farther.
 
-“It’s only a formal position. But our results will obviously be better under my direction. I’ve been educated for command since childhood. My birth itself is suited to managing subordinates—”
+“Ahem.”
+
+“It's a formal role anyway.”
+
+“But our tournament performance will be better under my command.”
+
+“My family trained me specifically for leadership.”
+
+“And given my birth, managing subordinates is practically second nature—”
+
+Alcohol breath accompanied the lecture.
+
+Then—
+
+“Ahem.”
 
 Vikir coughed once.
 
-Then stood.
+Stood.
 
-And left the compartment.
+Left the compartment.
 
 Granola frowned.
 
-“Hey! The group leader is speaking! Commoners have no manners. Going to the toilet? When he comes back I’ll—”
+“Hey.”
 
-Thunk.
+“Hey!”
+
+“The group leader is speaking.”
+
+“Commoners really have no manners.”
+
+“Bathroom?”
+
+“When he comes back, I'll warn him properly—”
+
+THUNK!
 
 Granola stopped.
 
 He looked down.
 
-A dagger had gone through the back of his hand—
+A dagger stood through the back of his hand.
 
-through flesh—
+Through skin.
 
-through muscle—
+Muscle.
 
-cracking bone—
+Bone.
 
-and into the round table beneath.
+Deep into the round table.
 
 For one blank second—
 
-his mind did not understand what he was seeing.
+he did not feel pain.
 
-Then pain arrived.
+He only stared.
+
+Then—
 
 “AAAAAAAGH!”
 
-He tried to pull away.
+The scream arrived late.
+
+He tried to yank his hand away.
 
 Impossible.
 
-The blade pinned him in place.
+The blade pinned him to the table.
 
-Lowbro’s hand rested on the hilt.
+The person holding the hilt clicked his tongue.
 
-“I told you to be quiet.”
+“I said be quiet.”
 
-Lowbro clicked his tongue.
+**Lowbro.**
 
-He picked up the fallen vodka bottle.
+He leaned back as though bored.
 
-Then poured the clear liquor over Granola’s impaled hand.
+Then picked up the vodka bottle Granola had dropped.
 
-Granola screamed again.
+And poured the clear liquor over the impaled hand.
+
+“AAAAAAAH!”
+
+The burning pain renewed the scream.
+
+Lowbro suddenly looked like a demon.
+
+People outside Baskerville often treated him as the harmless shadow behind Highbro.
+
+That impression was wrong.
+
+The triplets' results were almost always separated by tiny margins.
+
+Highbro merely attracted more attention.
 
 Highbro and Middlebro opened their eyes.
 
-They began to laugh.
+Then laughed.
 
-“You’re funnier than I thought.”
+“He's actually funny.”
 
-“Want to be secret friends with us?”
+“Hey.”
 
-“Leave it in until Mage Tower. He’s noisy, so stuff a sock in his mouth.”
+“Want to become our secret friend?”
 
-“It’s disinfected now. If something goes wrong, we can call a priest after we arrive.”
+“Don't pull the dagger out until Mage Tower.”
 
-Granola cried at the table.
+“He's loud.”
 
-His plan to seize control of the group—
+“Maybe put a sock in his mouth.”
 
-had failed spectacularly.
+“The vodka disinfected it.”
+
+“Probably fine.”
+
+“If not—
+
+we call a priest when we arrive.”
+
+Granola's plan to dominate the group from the beginning—
+
+had failed completely.
