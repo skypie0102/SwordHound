@@ -1,10 +1,16 @@
 {
   "notice": "POST-500 MANUSCRIPT COMPLETENESS AUDIT ACTIVE. All 500 draft files exist, but prior acceptance is being revalidated against Chinese raws after confirmed summary-style compression.",
   "target_chapter_count": 500,
-  "accepted_count": 497,
+  "accepted_count": 499,
   "staged_count": 0,
-  "next_chapter": null,
-  "active_title_family": null,
+  "next_chapter": 321,
+  "active_title_family": {
+    "name": "Underdogma",
+    "range": [
+      321,
+      325
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7075,7 +7081,7 @@
   ],
   "project_complete": false,
   "historical_accepted_count": 500,
-  "needs_rework_count": 3,
+  "needs_rework_count": 1,
   "completeness_audit": {
     "status": "active",
     "opened": "2026-09-20",
