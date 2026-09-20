@@ -532,17 +532,9 @@ Vikir reached inside his coat.
 
 Removed a red horn.
 
+A red whistle.
+
 A symbol of Baskerville military authority.
-
-The **Black Whistle** had carried authority before.
-
-This—
-
-was older.
-
-More direct.
-
-A war horn.
 
 Vikir raised it.
 
