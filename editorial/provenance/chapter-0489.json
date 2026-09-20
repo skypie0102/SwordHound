@@ -1,0 +1,38 @@
+{
+  "chapter": 489,
+  "title": "The Marquis of Discord (7)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Marquis of Discord",
+    "range": [
+      483,
+      489
+    ],
+    "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
+    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/489.txt",
+    "blob_sha": "2c571e46adf3a4596a1fc0d2fb94768e3c8494f7",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-487.xhtml",
+    "blob_sha": "8eed22c072627c22220b70fceb87aae9e8ef7ae7",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0489.md",
+    "blob_sha": "ea3823315db2a85f15ffe112a7557b3cc45a1ba1"
+  },
+  "qa": {
+    "path": "qa/chapter-0489.md",
+    "blob_sha": "e268f1adea3ac6f6e1ff2de22b0ea4f20c00b743",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused and new source-local forms were not falsely presented as freshly wiki-confirmed.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "reveal_guard": "Family ends on Pigi remembering why he sent Vikir back; explanation belongs to following family."
+}

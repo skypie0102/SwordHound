@@ -1,3 +1,18 @@
+## The Marquis of Discord additions — Chapters 483–489
+
+- **The Marquis of Discord** — accepted seven-part family, targets483–489 / E481–E487.
+- **Golding Jack Meridieu** — source-local/indexed First Crown Prince form; host of First Corpse Andras.
+- **Andras / First Corpse** — Marquis of Discord; Chinese-primary Danger Rating **S+**.
+- **Baskerville Ninth Form** — Vikir reaches it alive through repeated genuine death experience plus Cane Corso’s threshold teaching.
+- **Andras inter-world portals** — connect to Vikir’s original timeline where the Gate of Destruction already opened; not a second local Gate.
+- **Seventy-two demons** — Ten Corpses are revealed as a vanguard; Andras states he is rank63.
+- **Baal** — greatest looming higher presence shown in this family; do not import later hierarchy details.
+- **Golding Pigi Ralph** — Pigi’s revealed Imperial identity; missing Second Prince and Andras’s other half.
+- **Andras open/close split** — Jack-side Andras opens; Pigi-side Andras closes. Which half dies first determines the Gate outcome.
+- **Pigi awakening chain** — black blood, Hell Tree causality anomaly, post-death awakening, Mirror of Truth lineage reveal, Camus-assisted soul persistence.
+- **Running Hound(s)** — next family targets490–493 / E488–E491.
+- **The Day After the Apocalypse** — targets494–495 / E492–E493.
+
 ## Downtown Naval Warfare additions — Chapters 479–482
 
 - **Downtown Naval Warfare** — accepted four-part family, targets479–482 / E477–E480.

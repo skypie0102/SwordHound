@@ -1,5 +1,15 @@
 # Reconstruction Progress
 
+## 2026-09-20 — The Marquis of Discord (1)–(7) accepted
+
+**Current state:** 489 / 500 accepted; 0 staged; next Chapter 490.
+
+Completed targets **483–489** with mapping **E481–E487**. Key decisions: Vikir reaches Baskerville Ninth Form; Andras’s inter-world portals expose the post-execution old timeline and broader seventy-two-demon hierarchy; Pigi is Golding Pigi Ralph / Second Prince / Andras’s closing half; and the family ends before Pigi explains why he sent Vikir back.
+
+Family QA: `qa/families/marquis-discord-0483-0489.md` — **PASS**.
+
+Next: **490–493 — Running Hound(s) (1)–(4)** / E488–E491.
+
 ## 2026-09-20 — Downtown Naval Warfare (1)–(4) accepted
 
 **Current state:** 482 / 500 accepted; 0 staged; next Chapter 483.
