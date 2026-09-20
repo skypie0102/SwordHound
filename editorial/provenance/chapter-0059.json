@@ -1,7 +1,7 @@
 {
   "chapter": 59,
   "title": "The Hunter and the Hunted (5)",
-  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_2026-09-18",
+  "source_policy": "chinese_semantic_fandom_canonical_with_verified_overlap_mapping_and_completeness_reaudit_2026-09-20",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -9,7 +9,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "7548d17fb51f4bd34059e026dcb523adcd21809e",
+    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
     "status": "pass"
   },
   "primary_source": {
@@ -53,11 +53,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0059.md",
-    "blob_sha": "81f795ca217e845ef43e135d749081c3c12d5779"
+    "blob_sha": "98216e73da8172c31c2a0634e4e66ca97dae7d04"
   },
   "qa": {
     "path": "qa/chapter-0059.md",
-    "blob_sha": "54d5b0e4a460771b9f5f34700f32db1f9bc7e8c2",
+    "blob_sha": "66ef0ad38b0a7be40e11bdcbff1289aa064f9016",
     "status": "pass"
   },
   "documented_decisions": [
@@ -75,8 +75,13 @@
       "topic": "camp_contact",
       "final": "food transfer/body heat summarized non-explicitly without sexual amplification",
       "basis": "Chinese target59"
+    },
+    {
+      "topic": "post500_completeness_residual",
+      "final": "target 59 rebuilt for full ordinary source coverage; Hunter and Hunted family re-audited and passed",
+      "basis": "direct C059 comparison plus E58 secondary coverage residual"
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-20"
 }
