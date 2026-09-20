@@ -1,55 +1,86 @@
 # Title-Family QA — Attack Land (1)–(7)
 
-**Family status:** PASS  
+**Family status:** PASS — COMPLETENESS REBUILD  
 **Target range:** Chapters 190–196  
+**Completeness-audit review:** 2026-09-20  
 **Following bridge:** target 197 — *Preparing for the Festival*  
-**Following family:** targets 198+ — *The Corpse Queen* beginning at 198.
+**Following family:** target 198 begins *The Corpse Queen (1)*.
+
+## Audit result
+
+The historical family PASS is superseded by this completeness review.
+
+Direct Chinese/draft comparison found that **all seven historical Attack Land drafts were materially compressed**. Only Chapters 192 and 196 were in the initial <0.60 priority queue, but 190–191 and 193–195 also failed strict source-coverage review.
+
+All seven have been rebuilt against the complete Chinese raws.
 
 ## Evidence / mapping
 
-| Target | Chinese SHA | English witness | English SHA | Draft SHA | QA SHA |
+| Target | Chinese SHA | English witness | English SHA | Rebuilt draft SHA | Rebuilt QA SHA |
 |---|---|---|---|---|---|
-| 190 | `090ea8b431f3d46a7c53469a4f2c0b4c621eef38` | E188 | `14dcf17305b925b422bc79656578fb236858c9c3` | `b4993195dd51fd5de85111bb1a7bbbaf8d7f7df0` | `26c78799e4df1f0b4a7da2b70727dffe2f39b479` |
-| 191 | `a901d71af0594ec76c52f8166d35bf56a5417663` | E189 | `fb919bfe6cdd57b3460cef02c6c002e715505c2e` | `35add1ff18ea5bc3712581043a661727429fd083` | `b02232e8ed380342026a0e509c679d67d8b82a70` |
-| 192 | `0b25e79b8278c1aa844e684f4128c2504a18f00d` | E190 | `a76086f60e184689100e07137fad0f9652f720c0` | `1e6e67f29bf9f3af72fbf20a30da77f3748e5219` | `fda7fa0170a1d8131c11fbb8430440524c169e8f` |
-| 193 | `1b7fad2dfaa9441e47d1cd11badbf3e567432b1d` | E191 | `acd22faad36952bce721780139ef55fffd16ef89` | `5d9cd9b8514b95db654a9f62635a9748bea51f9d` | `4a45c14358cdc5019c78d70dfe3f8d1afb37b82c` |
-| 194 | `caa0c3d07843b01939aea183868740924932f70c` | E192 | `d36b9ac59f5fdf139a017b372bd4e982b2c3ae77` | `5ef1527de9109cfa2211f063101e8d930df02de1` | `5f1d1643e44f2a37fa609496805fafa89a679eb6` |
-| 195 | `3f9d91dee6bfc457ab82b461fa0b885c52514697` | E193 | `5dd2968d1beaa5f2a25f4794b4ff8599991df421` | `d2c8becb0e82e104fd4d6d13e4eb94c61153f597` | `24d44f9d6a499dc16bb30c222edb63e28b860342` |
-| 196 | `412e1f447badbaecf027d33c2fb7e6e1e6a02c3f` | E194 | `99410e31d62178c8fe30f6498f2586434078fbad` | `0b5bfddf0fc7aab68e7c17e54c21a7b9985d6b9d` | `8e79742e0a5f678c1622281033a0f54065bdd162` |
+| 190 | `090ea8b431f3d46a7c53469a4f2c0b4c621eef38` | E188 | `14dcf17305b925b422bc79656578fb236858c9c3` | `4947fe8cc91d74f0f7f51db1d73afddb722cb3fa` | `cf9e56751ea3deacd907ca70c6fa74c70769e6d7` |
+| 191 | `a901d71af0594ec76c52f8166d35bf56a5417663` | E189 | `fb919bfe6cdd57b3460cef02c6c002e715505c2e` | `845c49feb18fded4b0d57c1b6d572155aa1755d4` | `cc14a9243f095d5b2977deee85b4d2ea0e9be691` |
+| 192 | `0b25e79b8278c1aa844e684f4128c2504a18f00d` | E190 | `a76086f60e184689100e07137fad0f9652f720c0` | `770b1c0f1df669cf40a429b538ce73c3a470bdfb` | `66d1b0b6f1fa5f81b79ba5af7f76a39f410ed747` |
+| 193 | `1b7fad2dfaa9441e47d1cd11badbf3e567432b1d` | E191 | `acd22faad36952bce721780139ef55fffd16ef89` | `9cc370aad266f8adff8cb85cf807e4c217120671` | `40915d387dbaa8f3c9f9d70c0a3febb10631fc62` |
+| 194 | `caa0c3d07843b01939aea183868740924932f70c` | E192 | `d36b9ac59f5fdf139a017b372bd4e982b2c3ae77` | `a9ad6de01683523f1480823ee835238dd0d44241` | `34e4bdb6c3e41b4f34eccb7c2d2ef7fb7b1d2a10` |
+| 195 | `3f9d91dee6bfc457ab82b461fa0b885c52514697` | E193 | `5dd2968d1beaa5f2a25f4794b4ff8599991df421` | `8c53c8381721d746077007c76b18be6f526ce6cd` | `be6835c793758b943981a8e4b1fa3879f0d5a142` |
+| 196 | `412e1f447badbaecf027d33c2fb7e6e1e6a02c3f` | E194 | `99410e31d62178c8fe30f6498f2586434078fbad` | `0ee756fbf72362c6d67bf44474f7db8c77fd2c46` | `6d7fde119ee9356b239a5de9d0e082ffc3f3127e` |
 | boundary 197 | `38fc85cf2f23fa3794346eb2016bb9804e4d7b8a` | E195 | `6251eaf6241f9afd29ca07314c3cd27019c79641` | next bridge | next bridge |
 
-Mapping: **190→E188 through 196→E194**.
+Mapping remains **190→E188 through 196→E194**.
 
-## Continuity / decisions
+## Source / continuity corrections
 
-- Attack-test professors remotely control humanoid golems that mirror their movement, with synchronization/distance disadvantages.
-- Tudor scores **35** under Banshee; Bianca **31**; Granola **35**.
-- Sancho scores **17** under Sadi and is badly injured.
-- Sadi's combat instinct and criminal-psychology talent are preserved separately from her abusive conduct.
-- Sinclaire scores **19** under Sadi after a triple Class 3 fire/ice/wind cast and severe injuries.
-- **C192 sequence repair:** Pigi, not Vikir, is called after Sinclaire.
-- **C193 department repair:** Pigi remains Cold Department despite an isolated raw label drift.
-- Pigi scores **1** by driving a broken blade into the golem's lower abdomen while being struck.
-- That embedded blade creates the structural weakness Vikir later exploits.
-- Vikir signs Banshee's bodily-risk acknowledgment and deliberately takes Sadi's test.
-- Vikir repeatedly targets the compromised lower-abdomen connection rather than overpowering the golem.
-- Bianca's previously established no-magic mosquito shot is used to explain Vikir's precision.
-- Crowd claims about Sword Master-level power are treated as in-world exaggeration; accepted public disclosure remains **Sword Expert Advanced**.
-- Sadi destroys all available arrows, after which Vikir gives the lip-read line: **“Blinded by anger. Where are you looking?”**
-- A previously missed arrow returns on changed wind and destroys Sadi's actual left eye. Publicly/faculty-side, this remains an accident; Vikir's setup cue is reader-facing only.
-- Vikir scores **40**: 2 hits / 28 dodges / 0 blocks / 1 critical.
-- Sadi removes and consumes the destroyed eye, refuses treatment, and declares intent to take over Cold Department instruction after suspension.
-- Final midterm standings place Vikir 1st, Sinclaire 2nd, Tudor 3rd, Highbro 4th, Granola 5th, Bianca 6th, Middlebro 7th, Sancho 8th, Lowbro 9th, Pigi 199th.
-- Sadi-affected students receive compensatory written-score adjustments; Vikir does not because his written/free-research result is already effectively maxed.
-- Highbro disperses opportunistic attention around Vikir while keeping the triplets' private loyalty intact.
-- Chapter 196 closes with Cindywendy's lead on the next **Corpse** and Vikir refocusing on the Night Hound hunt.
+### Target192 endpoint
+C192's final roster call names **Vikir**, but E190 and C193 prove the next examinee is **Pigi**. The rebuilt chapter documents this as an isolated source slip and hands the next turn to Pigi.
 
-## Next verified boundary
+### Target193 Pigi department
+C193's result window labels Pigi as Hot Department, but surrounding accepted roster continuity places him in **Cold Department Class B**. The rebuilt chapter keeps Cold Department and records the raw drift.
 
-Target **197 → E195** is a single *Preparing for the Festival* bridge chapter.
+## Source-coverage findings
 
-Target **198 → E196** begins **The Corpse Queen (1)**.
+### Chapter 190
+- Restored the full remote-avatar exam design, professor-specific styles, roster/examiner preparation logic, and first-principal teaching philosophy.
+- Restored complete Tudor/Banshee lesson and the full score sequence for Tudor, Bianca, Granola, the triplets, and Sancho.
+- Restored the setup that everyone expected Sancho to dominate before Sadi reduced him to 17 points.
 
-## Family verdict
+### Chapter 191
+- Restored Sadi's full physical introduction, Dolores confrontation, Banshee intervention, vodka/glass chewing, Morgue/Sade status argument, and Banshee's disciplinary warning.
+- Restored why Sadi remains employed: patronage plus exceptional combat instinct / criminal psychology.
+- Restored the succession of low scores and faculty discussion of later compensation.
 
-PASS.
+### Chapter 192
+- Restored Sinclaire's scholarship motive, refusal to abandon classmates, Haste chase, remote-control mechanics, three simultaneous Class 3 spells, mana backlash, whip/heel sequence, 19-point score, and scholarship wound.
+- Preserved Pigi sequence correction at the endpoint.
+
+### Chapter 193
+- Restored Granola's discomfort at Sinclaire's abuse, full faculty confrontation, Pigi's courage motive, mud-pit strategy, Sadi's forefoot/heel training, one-point broken-blade counter, medical diagnosis, and Vikir's angry voluntary challenge.
+- Preserved Pigi's Cold Department continuity.
+
+### Chapter 194
+- Restored Banshee's safety intervention and bodily-risk waiver, Vikir's assessment of Sadi's genuine talent, full close-range archery tactic, Bianca/friends' concern, Sadi's dodge-point recognition, arena destruction, manufactured corner, and initial golem-joint stiffness.
+
+### Chapter 195
+- Restored the full deduction chain: repeated lower-abdomen targeting, whip-force transfer, Bianca's mosquito-shot evidence, Pigi's broken blade creating the weakness, and Banshee recognizing Vikir had already seen the win condition.
+- Restored Sadi's destruction of all remaining arrows and her instinctive predator/prey fear before pride suppresses it.
+- Preserved Vikir's lip line immediately before the eye strike.
+
+### Chapter 196
+- Restored the complete public “accident” explanation and faculty score dispute.
+- Restored Sadi's eye removal/consumption, refusal of treatment, and Cold Department obsession.
+- Restored final standings, compensatory written-score adjustments, Vikir's unwanted first-place result, recruitment/social pressure, Highbro's crowd control, unchanged friend behavior, news article/comments, Banshee's demerit, and Cindywendy's next-Corpse lead.
+
+## Continuity
+
+- 189→190: Aftermath family ends; final midterm Attack test begins.
+- 190→191: Sancho's 17-point result introduces Sadi; target191 expands the institutional problem.
+- 191→192: Sadi notices Vikir, but Sinclaire's roster turn comes first.
+- 192→193: corrected handoff to Pigi.
+- 193→194: Vikir voluntarily takes Sadi's test after Pigi's one-point counter.
+- 194→195: joint stiffness becomes the revealed exploit.
+- 195→196: returning-arrow strike lands in Sadi's real left eye.
+- 196→197: midterms close and Vikir refocuses on the next Corpse; target197 is *Preparing for the Festival*.
+
+## Verdict
+
+**PASS.** Chapters 190–196 have been rebuilt for complete source coverage. Priority targets 192 and 196 are resolved; the audit advances to the next priority-containing family.
