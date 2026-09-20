@@ -2,8 +2,8 @@
   "chapter": 325,
   "title": "Underdogma (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Underdogma",
     "range": [
@@ -11,8 +11,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
-    "status": "pass"
+    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/325.txt",
@@ -20,14 +20,29 @@
     "english_reference_path": "source/chapters/chapter-323.xhtml",
     "english_reference_sha": "095731276976de1b760c434e81ae924522b42e4e",
     "draft_path": "manuscript/drafts/chapter-0325.md",
-    "draft_sha": "3e84ea71ac022d634fe772e9008c770649a2ef07",
+    "draft_sha": "4ace3d86094bcc148ecf463afc19702790a31393",
     "qa_path": "qa/chapter-0325.md",
-    "qa_sha": "ab8ea54b787b58dac1cfaac5195b5189f6596f70",
+    "qa_sha": "e5c1c0c29e4b31f3ae6a8d6254ef4e841aee7698",
     "provenance_path": "editorial/provenance/chapter-0325.json",
-    "provenance_sha": "ce83a6e7ab9572aab878af0d8418d076b63ed15a"
+    "provenance_sha": "795328ffa9ae849f40b37c99d30a72a39cb0e155"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Shadowless King material from target326 is imported."
-  ]
+  ],
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "3e84ea71ac022d634fe772e9008c770649a2ef07",
+    "qa_sha": "ab8ea54b787b58dac1cfaac5195b5189f6596f70",
+    "provenance_sha": "ce83a6e7ab9572aab878af0d8418d076b63ed15a"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/underdogma-0321-0325.md",
+    "initial_priority_target": true
+  },
+  "progression_note": "Vikir remains Level1; Magic Resistance +1 completes the sixth tower-stat slot."
 }
