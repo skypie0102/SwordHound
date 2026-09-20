@@ -1,20 +1,23 @@
 # Chapter 309 QA — Hell Tree (3)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/hell-tree-0307-0313.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/309.txt` — `e5531986c2899f252c4b49b09a15b8ce18bf8474`
 - English witness: **E307** — `82b8f6ed42a72db920be85c9834e416906d6fe65`
-- Draft: `manuscript/drafts/chapter-0309.md` — `dfa5edb1ecff5d6c1ac2f48065160d29c799fdd0`
+- Rebuilt draft: `manuscript/drafts/chapter-0309.md` — `ae8d3025e3c331114f494eaff4c7a73cb30ea643`
 
-## Checks
-- PASS — Return Scroll returns once to Tutorial Zone and resets Level; Quo Vadis wording is retained at concept level.
-- PASS — Basement Floor2 reproduces a ruined/distorted slice of Colosseo Academy rather than the real current campus.
-- PASS — Amdusias has consumed part of the world and incorporated it into the tower.
-- PASS — 108 students gather; the familiar core cast named in source is absent from this floor.
-- PASS — Most students have Level1 with very low visible stats, emphasizing Vikir’s abnormal baseline.
-- PASS — Preserved luxury goods are recognized by Vikir as deliberate bait rather than kindness.
-- PASS — Fairy explains that tower gains only matter if participants escape alive.
-- PASS — Chapter ends with 108 Hell Hounds and the survival mission.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/item forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Historical draft compressed the Return Scroll detail, corrupted-Colosseo environmental clues, survivor/stat distribution, faction organization, preserved-luxury trap logic, and fairy's full psychological setup.
+- PASS — Floor1 exits to Basement Floor2 “Familiar Ground” and grants a one-use Return Scroll; using it resets Level.
+- PASS — copied Colosseo includes dorms, training grounds, shopping district, clocktower, fountain, and other familiar landmarks in ruined/corrupted form.
+- PASS — mutilated angel, inverted runes, burned buildings, rusted shops, rotten-food smell, and bloodied recycling area are retained.
+- PASS — Decarabia explains that Amdusias consumes pieces of worlds and incorporates them into the tower.
+- PASS — exactly **108 students** gather; Vikir does not see Tudor, Sancho, Pigi, Bianca, Sinclaire, or Dolores.
+- PASS — most entrants are Level1 with basic stats around 1–3; occasional values above 5 are rare.
+- PASS — third-years organize, second-years manage, first-years perform errands; noble/wealth factions begin scavenging.
+- PASS — useful necessities are spoiled/contaminated while Beatrice Newell perfume, tobacco, cosmetics, and other scent-heavy luxuries remain deliberately pristine.
+- PASS — Granola naming follows project canon; no MTL “Grenouille/Grunui” variant is introduced.
+- PASS — fairy promises persistent growth/talents/artifacts, then undercuts it with the requirement to leave alive.
+- PASS — students rally before the fairy reveals 108 Hell Hounds and the simple command “Stay alive?”

@@ -4346,8 +4346,9 @@
       "qa": "qa/chapter-0307.md",
       "provenance": "editorial/provenance/chapter-0307.json",
       "acceptance": "qa/acceptance/chapter-0307.json",
-      "acceptance_sha": "2d2b2d37c77ddca821a33a1572fc78294482a4a3",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "79fc832e58b181389379e7cc1f2fffa72dfbd1f2",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 308,
@@ -4360,8 +4361,9 @@
       "qa": "qa/chapter-0308.md",
       "provenance": "editorial/provenance/chapter-0308.json",
       "acceptance": "qa/acceptance/chapter-0308.json",
-      "acceptance_sha": "59c2e0f7ab299d618571d33bab3b341a4c1ad9ce",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "9d2fa09ce5dfe51321d65ee5d23b83ab45ccc5c3",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 309,
@@ -4374,8 +4376,9 @@
       "qa": "qa/chapter-0309.md",
       "provenance": "editorial/provenance/chapter-0309.json",
       "acceptance": "qa/acceptance/chapter-0309.json",
-      "acceptance_sha": "538cf62a3d2f98e2c9dabad234e28dc43cfa0e01",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "4696820fe0a415568926c3281f7a545eef4511ba",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 310,
@@ -4388,8 +4391,9 @@
       "qa": "qa/chapter-0310.md",
       "provenance": "editorial/provenance/chapter-0310.json",
       "acceptance": "qa/acceptance/chapter-0310.json",
-      "acceptance_sha": "29f7a4bdb50dc1bd5caef7abb5af925514ec44c7",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "11482b3acd4b6612a27ae8399ed4d0febb801cf1",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 311,
@@ -4402,8 +4406,9 @@
       "qa": "qa/chapter-0311.md",
       "provenance": "editorial/provenance/chapter-0311.json",
       "acceptance": "qa/acceptance/chapter-0311.json",
-      "acceptance_sha": "e99681db19ac025bd2ec53dc58b8712d34ea13de",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "ae836bcbfd1495b726755556a6289ba81bc5788e",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 312,
@@ -4416,8 +4421,9 @@
       "qa": "qa/chapter-0312.md",
       "provenance": "editorial/provenance/chapter-0312.json",
       "acceptance": "qa/acceptance/chapter-0312.json",
-      "acceptance_sha": "0fe699fdfc397b495bc0bee9f115f9b73a1d9858",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "a43918a6c8713972699caeb1599876181c3a2558",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 313,
@@ -4430,8 +4436,9 @@
       "qa": "qa/chapter-0313.md",
       "provenance": "editorial/provenance/chapter-0313.json",
       "acceptance": "qa/acceptance/chapter-0313.json",
-      "acceptance_sha": "ff13c3ca03db7d0f04eaf097f4debc949ef85eb8",
-      "family_qa": "qa/families/hell-tree-0307-0313.md"
+      "acceptance_sha": "f35cf877152ee4a410c8b598a1c156a7577f6103",
+      "family_qa": "qa/families/hell-tree-0307-0313.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 314,
@@ -7218,16 +7225,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All nine historical drafts materially compressed; priority target242 resolved."
+      },
+      {
+        "name": "Hell Tree",
+        "range": [
+          307,
+          313
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All seven historical drafts were materially compressed; all seven initial-priority targets resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      307,
-      308,
-      309,
-      310,
-      311,
-      312,
-      313,
       314,
       315,
       316,
@@ -7248,24 +7258,18 @@
       421,
       431
     ],
-    "pending_priority_review_count": 26,
+    "pending_priority_review_count": 19,
     "next_family": {
-      "name": "Hell Tree",
+      "name": "Surplus Man",
       "range": [
-        307,
-        313
+        314,
+        320
       ]
     },
     "resolved_confirmed_needs_rework": [
       97
     ],
     "pending_strong_suspect_chapters": [
-      307,
-      309,
-      310,
-      311,
-      312,
-      313,
       315,
       316,
       317,
@@ -7279,7 +7283,7 @@
       421,
       431
     ],
-    "pending_strong_suspect_count": 18,
+    "pending_strong_suspect_count": 12,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7294,7 +7298,13 @@
       228,
       230,
       231,
-      242
+      242,
+      307,
+      309,
+      310,
+      311,
+      312,
+      313
     ]
   }
 }

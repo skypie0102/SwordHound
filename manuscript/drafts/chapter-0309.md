@@ -1,10 +1,10 @@
 # Chapter 309: Hell Tree (3)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/309.txt`. Recovered English Chapter 307 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/309.txt`. Recovered English Chapter 307 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Amdusias**, **Decarabia**, **Colosseo Academy**, **Granola de Leviathan**, and the **Hell Tree**. Granola is project-canonical; external “Grenouille/Grunui” forms are witness variants.
 
 After the tutorial monsters were cleared—
 
-a new space opened.
+a new passage opened.
 
 Ding.
 
@@ -16,27 +16,34 @@ Ding.
 
 [Entering Basement Floor 2 — Familiar Ground.]
 
-A worn parchment fell in front of Vikir.
+Something dropped in front of Vikir.
 
-**<Return Scroll>**
+Old parchment.
 
-One-time spell scroll.
+> **<Return Scroll>**
+>
+> **Spell Scroll**  
+> **Grade:** ?
+>
+> A one-use scroll that returns the user to the Tutorial Zone.
+>
+> The answer to the question—
+>
+> **Quo Vadis?**
+>
+> is written upon it.
+>
+> **※ Level resets upon use.**
 
-Returns the user to the Tutorial Zone.
+Vikir tucked it away.
 
-The answer to the question—
+A single emergency escape route.
 
-**Quo Vadis?**
+Every participant probably received one.
 
-was written across it.
+Then—
 
-**※ Level will reset upon use.**
-
-Vikir stored the scroll.
-
-A last-resort escape item.
-
-Then he entered the second floor.
+he descended into Basement Floor 2.
 
 And stopped.
 
@@ -50,53 +57,119 @@ Dormitories.
 
 Shopping district.
 
-Clock tower.
+Brick gardens.
+
+Rows of roadside trees.
+
+Clocktower plaza.
 
 Fountain.
 
+Everything looked like the place where Vikir had lived for more than a year.
+
 Everything—
 
-was familiar.
+and nothing.
 
-And ruined.
+The Academy had become a ruin.
 
-Broken windows.
+Classrooms.
 
-Burned corridors.
+Corridors.
 
-Rusted signs.
+Stores.
 
-Rotting smells.
+All preserved in roughly the same shape they had possessed outside.
 
-The prayer-angel statue had become a mutilated angel.
+But details had been twisted.
 
-Rune symbols had been inverted.
+The angel statue above the fountain—
 
-Blood stained the old garbage station.
+once carved in prayer—
 
-Decarabia spoke.
+now looked torn apart.
 
-[Amdusias consumes pieces of worlds and uses them as food for the abyss.]
+Rune symbols had been reversed.
 
-[What it devours becomes part of the tower.]
+Buildings were burned.
 
-[It seems part of Colosseo Academy was swallowed.]
+Walls were broken.
 
-Vikir waited beside the ruined fountain.
+Dust lay thick enough to suggest years of abandonment.
 
-A transparent wall blocked further progress anyway.
+A perfume boutique once crowded with female students stood with broken windows.
 
-Soon—
+A famous restaurant's sign had rusted.
 
-other students appeared.
+Rotting flesh stank from within.
 
-One by one.
+Blood from an unknown source covered the recycling bins near the station of the old kindly cleaner who used to greet everyone.
 
-Then dozens.
+The whole Academy—
+
+dead.
+
+A voice finally came from Vikir's neck.
+
+**Decarabia.**
+
+[Amdusias feeds portions of consumed worlds to the abyss.]
+
+[Worlds he devours become worlds inside the tower.]
+
+[It appears he swallowed part of Colosseo Academy.]
+
+Baby Madam shifted uneasily too.
+
+Vikir sat beside the mutilated angel fountain.
+
+And waited.
+
+Going farther was pointless.
+
+A semitransparent barrier blocked every route beyond the copied shopping district.
+
+Only part of Colosseo had been consumed.
+
+Then—
+
+“…!”
+
+Presence.
+
+People began appearing.
+
+Dormitories.
+
+Classrooms.
+
+Shops.
+
+Ruins.
+
+Students emerged from every direction.
+
+“What is this place!?”
+
+“Are we inside some dungeon?”
+
+“That thing from before was **not** a fairy!”
+
+“Damn it!”
+
+“Give me my strength back!”
+
+More survivors arrived.
 
 Eventually—
 
-108 students gathered.
+**108 students** gathered around the central fountain.
+
+Some panicked.
+
+Some had already adapted enough to remain quiet.
+
+Vikir studied the faces.
 
 No Tudor.
 
@@ -114,136 +187,284 @@ Mostly upperclassmen.
 
 A few teaching assistants.
 
-Their Levels were all 1.
+*Level 1 for everyone.*
 
-Stats usually ranged from 1 to 3.
+*Most stats around one to three.*
 
-Rarely—
+A few students had individual stats above five.
 
-one stat exceeded 5.
+Rare.
 
-Vikir’s own numbers were absurd by comparison.
+Compared with Vikir's numbers—
 
-The students began organizing.
+the reduction was clearly not uniform between people.
 
-Third-years led.
+But stats alone could not fully describe combat ability.
 
-Second-years managed.
+Especially while three categories remained locked.
 
-First-years performed errands.
+The students began organizing themselves.
 
-Noble and tycoon factions moved fastest.
+Third-years became leaders.
 
-They searched food stores.
+Second-years—
 
-Supply shops.
+middle managers.
 
-Anywhere useful.
+First-years—
 
-But most canned food had swollen and spoiled.
+errand runners.
 
-Water was contaminated.
+The noble faction and wealthy-family faction reacted fastest.
 
-Then someone smashed the window of a perfume shop.
+“Search the ruins.”
 
-“Beatrice Newell limited edition!”
+“Find food.”
 
-Another broke into a tobacco store.
+“Water.”
 
-“Premium cigars!”
+“Weapons.”
+
+“Anything useful.”
+
+“Turn everything over.”
+
+“It's abandoned.”
+
+“Whoever finds something first owns it.”
+
+Students raided stores.
+
+Food shops.
+
+General-goods stores.
+
+They found cans—
+
+many swollen with gas and spoiled.
+
+Water—
+
+contaminated.
+
+Useful necessities—
+
+mostly ruined.
+
+Frustration spread.
+
+Then—
+
+CRASH!
+
+A female noble student broke a perfume-shop window.
+
+Her face lit up.
+
+“Whoa!”
+
+“**Beatrice Newell**!”
+
+“The new limited fragrance!”
+
+“You can't even get this in the Imperial Capital!”
+
+She sprayed herself generously.
+
+Then shivered with pleasure.
+
+“I've smelled like sweat, blood, and rats ever since the tutorial.”
+
+“This is so much better.”
+
+Nearby—
+
+a wealthy-family male student forced open a tobacco shop.
+
+“No way.”
+
+“Premium cigarettes.”
+
+He began laughing.
+
+“Hand-rolled?”
+
+“I've always wanted these but couldn't justify the price.”
 
 Strangely—
 
-necessities were ruined.
-
-Luxury goods remained pristine.
+luxuries survived perfectly.
 
 Perfume.
 
-Cigarettes.
+Tobacco.
 
 Cosmetics.
 
-Some students laughed.
+Even students who normally ignored those things began using them.
 
-“Maybe the tower wants us to relax before the real game.”
+“Maybe this is the tower giving us a chance to relax before the real game?”
 
-Vikir watched.
+Vikir watched from a distance.
 
-*No.*
+*They'll understand soon.*
 
-*It wants you to use them.*
+This was a demon's construction.
 
-Everything in the Hell Tree was placed with malice.
+The inside of a plant born in Hell.
+
+Nothing here existed out of kindness.
+
+*Food is spoiled.*
+
+*Water is contaminated.*
+
+*But scent-heavy perfume, tobacco, and cosmetics remain intact.*
+
+*Obviously deliberate.*
+
+Paranoia could kill people outside.
+
+Inside the Hell Tree—
+
+it helped.
 
 Then—
 
-wet flesh twisted in the air.
+squelch.
 
-The fairy appeared.
+gurgle.
+
+Something twisted into existence in empty air.
+
+The fairy.
+
+A rotten lump of flesh with wings.
 
 [Are all 108 participants here?]
 
-It babbled about opportunity.
+[Are your ears ready for the fairy's appearance?]
 
-Levels.
+It began chattering.
 
-Growth.
+Yes—
 
-Rare items.
+everyone had been weakened roughly one hundred times.
 
-Talents impossible to gain outside.
+But growth inside would persist outside.
 
-A second chance at life.
+They could obtain talents they had never possessed at birth.
 
-Then destroyed the fantasy with one sentence.
+Rare artifacts.
 
-[Of course—
+Life-changing rewards.
 
-that only matters if you leave alive?]
-
-Silence.
-
-A senior forced courage into his voice.
-
-“This is still an opportunity!”
-
-“If we survive—
-
-we come out stronger!”
-
-Others rallied.
-
-“Let’s do it!”
-
-“Give us the mission!”
-
-The fairy shuddered with delight.
-
-Its exposed teeth dripped saliva.
-
-[Good.]
-
-[That fighting spirit is wonderful?]
-
-Black holes opened behind it.
-
-More than a hundred.
-
-Growls came from within.
-
-Red fire burned in eyes and mouths.
+All sweet promises.
 
 Then—
 
-Hell Hounds crawled out.
+the fairy added one sentence.
 
-One hundred and eight of them.
+[But all of that matters only if you leave the tower alive?]
 
-The fairy watched the students’ courage collapse.
+Silence.
 
-[Second-floor mission is simple?]
+Someone swallowed.
 
-It spread its arms.
+If they died—
+
+or never escaped—
+
+nothing else mattered.
+
+One upperclassman forced courage into his voice.
+
+“Everyone!”
+
+“Don't lose heart!”
+
+“This can still be an opportunity!”
+
+“If we leave this tower alive—
+
+we'll be stronger than before!”
+
+“Level up!”
+
+“Raise your stats!”
+
+“Find rare items!”
+
+Others responded.
+
+“Right!”
+
+“We can do this!”
+
+“Bring on the demons!”
+
+“I'll become a hero here and go home!”
+
+“Start the mission already!”
+
+Morale surged.
+
+Students pointed defiantly at the fairy.
+
+The fairy—
+
+became delighted.
+
+Far too delighted.
+
+[Ah-hihihi?]
+
+[Good.]
+
+[Very good?]
+
+[That fighting spirit is wonderful?]
+
+Saliva leaked between lipless teeth.
+
+Its short arms stretched so violently that flesh tore—
+
+blood and pus running from the wounds—
+
+while it clapped.
+
+The students' courage cooled instantly.
+
+The fairy trembled with excitement.
+
+[The second-floor mission is very simple?]
+
+Behind it—
+
+more than a hundred black holes opened.
+
+Growling came from within.
+
+[GRRRRR…]
+
+Eyes burned red.
+
+Mouths burned red.
+
+One monster crawled out.
+
+Then another.
+
+Then dozens.
+
+**Hell Hounds.**
+
+One hundred eight of them.
+
+Exactly matching the students.
+
+The fairy admired the fear spreading across human faces.
+
+Then gave the mission.
 
 [Stay alive?]

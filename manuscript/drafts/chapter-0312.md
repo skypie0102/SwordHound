@@ -1,114 +1,196 @@
 # Chapter 312: Hell Tree (6)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/312.txt`. Recovered English Chapter 310 is the verified shifted secondary witness. Established continuity controls **Immortality — Gargoyle (S)** as Vikir’s regeneration source despite local Chinese drift mentioning Basilisk regeneration.
+> Chinese-primary reconstruction from `source/chinese/chapters/312.txt`. Recovered English Chapter 310 is the verified shifted secondary witness. Established continuity controls **Immortality — Gargoyle (S)** as Vikir's regeneration source despite local Chinese drift naming Basilisk regeneration. Project terminology controls **Cerberus**, **Picaresque Mask**, **Baby Madam**, **Beelzebub**, **Bloody Mamba**, **Cradle**, and **Sabik ginkgo**.
 
-Cerberus growled.
+[Grrrrrrrr…]
+
+Cerberus radiated killing intent.
+
+Vikir looked at the three heads.
 
 “Long time no see.”
 
-Vikir remembered his first encounter with the species.
+Memory returned.
 
 Eight years old.
 
-Monthly evaluation.
+His first monthly evaluation.
 
-Le Rouge et Le Noir Mountain.
+Thrown into Le Rouge et Le Noir Mountain.
 
-Chocolate taken from the Baskerville triplets.
+A barbaric Baskerville childhood.
 
-Traps built over sleepless days.
+Back then—
 
-Bloody Mamba venom from the Cradle.
+he had needed everything.
 
-He had needed everything.
+Chocolate taken after defeating the Baskerville triplets.
 
-Now—
+Traps constructed through several sleepless days.
 
-he pulled slightly at the Picaresque Mask hood around his neck.
+**Bloody Mamba** venom acquired from the **Cradle**.
+
+Only with all of that—
+
+had young Vikir managed to kill a Cerberus.
+
+“Do you smell it?”
+
+“Your own kind.”
+
+Vikir tugged lightly at the hood around his neck.
+
+Part of the **Picaresque Mask**.
 
 Cerberus hide.
 
-Even after endless tanning—
+No matter how many times it had been tanned—
 
-a canine smell remained.
+the faint canine scent remained.
 
-The monster recognized the scent.
+The three faces twisted.
 
-Its faces twisted.
+[AWOOOO!]
 
 Cerberus charged.
 
-Vikir dodged claws and teeth.
+Teeth.
 
-Beelzebub struck its flank.
+Claws.
 
-The dense aura did not pierce fully—
+Vikir slipped backward.
 
-but the impact sank deep.
+WHAM!
+
+Beelzebub—
+
+coated in dense, viscous aura—
+
+hammered the monster's side.
+
+*Connected.*
+
+The blade did not fully penetrate the thick hide.
+
+The impact did.
+
+Bone may have cracked underneath.
 
 Then—
 
-WHAM.
+BANG!
 
-Cerberus’s tail slammed Vikir away.
+Cerberus's tail whipped across Vikir.
 
-Most people feared the three heads.
+People thought first of the three heads when they heard the name Cerberus.
 
-Its true weapon—
+That was not its true weapon.
 
-was the tail.
+The tail was.
 
-A spear-like blade at the tip.
+A spear-like blade grew from its tip.
 
-Poison strong enough to kill many A-rank monsters with a single wound.
+Coated in poison powerful enough that one wound could kill many A-rank monsters.
 
-The edge cut Vikir.
+The edge opened Vikir's side.
 
-Baby Madam crawled to the injury—
+Poison entered.
 
-drawing poison.
+[Chik.]
 
-Vikir’s stored regeneration closed the wound.
+Baby Madam was already there.
 
-Then sword and tail collided repeatedly.
+The small spider latched onto the wound.
+
+Drew poison out.
+
+And Vikir's established **Immortality — Gargoyle (S)** regeneration closed damaged flesh behind it.
+
+CLANG!
+
+CLANG!
+
+CRACK!
+
+Tail blade and Beelzebub collided repeatedly.
 
 Sparks scattered.
 
-One burned Granola awake.
+One landed on Granola's forehead.
 
-He opened his eyes—
+“HOT!”
 
-and immediately saw Vikir fighting Cerberus head-on.
+He woke violently.
 
-“You’re weakened one hundred times!”
+Then saw—
 
-“How are you doing this?!”
+Vikir.
+
+Cerberus.
+
+Fighting head-on.
+
+Granola's eyes nearly left his face.
+
+“You're weakened a hundred times!”
+
+“How are you fighting that thing!?”
+
+Before the sentence ended—
+
+BAM!
 
 Vikir drove a knee into the center head.
 
 The jaw dislocated.
 
-Granola’s mouth fell open.
+Granola stared.
 
-“A Level 1 person can fight like this?”
+“…You're actually holding it?”
 
-Vikir still gave ground.
+A monster that professors could struggle against.
 
-This Cerberus—
+Against a Level 1 student at one percent output.
 
-drawn directly from deeper in the Oil World—
+Granola punched the wall once—
 
-was stronger than the one from his childhood.
+just to confirm his own power really had been reduced.
 
-A prolonged fight would be wasteful.
+It had.
+
+His hands began trembling.
+
+*Then how strong was Vikir outside?*
+
+Vikir gradually gave ground.
+
+This Cerberus was stronger than the one from his childhood.
+
+Larger.
+
+More vicious.
+
+Apparently transported directly from deeper in the spirit world.
+
+A prolonged fight—
+
+on Basement Floor 2—
+
+would be a waste.
 
 *One chance.*
 
-Vikir jumped.
+Vikir lunged again.
 
-At the final instant—
+Cerberus's forepaw swept toward him.
 
-he pulled out his collected candies.
+The monster had already adapted to his reduced speed and strength.
+
+Then—
+
+*Now.*
+
+Vikir reached into storage.
 
 Red.
 
@@ -116,155 +198,267 @@ Green.
 
 Blue.
 
-Then stuffed them all into his mouth.
+Candies filled his palm.
 
-Crunch.
+Strength.
 
-Crunch.
+Agility.
 
-Crunch.
+Stamina.
 
-The taste was horrible.
+He stuffed all of them into his mouth.
+
+CRUNCH.
+
+CRUNCH.
+
+CRUNCH.
+
+The taste was awful.
+
+Salty.
+
+Bitter.
+
+Astringent.
+
+So revolting that even Vikir's strong stomach objected.
 
 His status changed.
 
-**<Vikir>**
+> **<Vikir>**
+>
+> **LV:** 1  
+> **Title:** Rat Hunter
+>
+> **Stats**
+> - Strength: **178 (+52) = 230**
+> - Agility: **203 (+16) = 219**
+> - Stamina: **207 (+37) = 244**
+> - ?: Locked
+> - ?: Locked
+> - ?: Locked
 
-**LV:** 1  
-**Title:** Rat Hunter
+Cerberus sensed the sudden change.
 
-**Stats**
-- Strength: 178 (+52) = 230
-- Agility: 203 (+16) = 219
-- Stamina: 207 (+37) = 244
-- ?: Locked
-- ?: Locked
-- ?: Locked
+Too late.
 
-Cerberus reacted too late.
+THRUST.
 
-Vikir’s blade entered through one eye.
+Beelzebub entered one eye.
 
-Past skin.
+Past the tough outer tissue.
 
-Past bone.
+Through the socket.
 
 Into the brain.
 
-But an A+ monster—
+*Not enough.*
 
-especially a Hell Hound species—
+A+ monsters possessed absurd vitality.
 
-did not die that easily.
+Hell Hound types—
 
-Vikir drove the blade deeper.
+even more.
 
-Twisted.
+Vikir forced the blade into a seam in the skull.
 
-Crushed tissue.
+Then twisted.
 
-Nerves.
+Hard.
+
+Left.
+
+Right.
+
+Muscle fibers.
+
+Nerve bundles.
 
 Brain matter.
 
-One head sagged.
+Crushed.
 
-The other two howled.
+One Cerberus head sagged.
+
+The remaining two screamed.
 
 Vikir retreated.
 
 Then grabbed Granola by the collar.
 
-“We’re done here.”
+*He's still useful.*
+
+“We're done here.”
 
 “Run.”
 
-“What?!”
+“What!?”
 
-“Bring the ginkgo fruit.”
+“Bring the ginkgo.”
 
-Granola obeyed—
+Vikir kicked Granola forward.
 
-complaining the entire way.
+“Wait!”
 
-They entered a ruined shop.
+“You made it this angry and now we're running!?”
+
+Granola complained—
+
+but held the sacks of Sabik ginkgo tightly.
+
+They reached a ruined shop.
 
 Cerberus followed.
 
-Sulfur fire spilling everywhere.
+Sulfur fire pouring from its body.
+
+Ready to burn the entire ruined district.
 
 “Scatter them.”
 
-Granola threw the ginkgo fruit.
+Granola closed his eyes.
 
-Cerberus only wrinkled its noses.
+Threw the ginkgo fruit.
 
-It could tolerate the smell.
+THUD.
 
-Granola shouted.
+THUD.
 
-“You said these would work!”
+SPLAT.
 
-Vikir raised Beelzebub.
+Yellow fruit rolled across the shop floor.
 
-“Let’s see if it can tolerate this.”
+Cerberus wrinkled two noses.
 
-His slash hit shelves.
+Nothing more.
+
+Vikir nodded.
+
+“An upper-tier monster.”
+
+“Better tolerance.”
+
+Granola stared at him.
+
+“Then why did you make me carry them!?”
+
+Cerberus bared claws.
+
+Fangs.
+
+Tail blade.
+
+Vikir lifted Beelzebub.
+
+“Let's see whether it can tolerate **this**.”
+
+He held his breath.
+
+Then slashed—
+
+not Cerberus—
+
+but the shelves.
+
+Walls.
 
 Cabinets.
 
-Glass bottles.
+CRASH!
 
-Crash.
+CLINK!
 
-Crash.
+SHATTER!
 
-Perfume concentrate filled the air.
+Glass bottles burst everywhere.
 
-**Beatrice Newell.**
+Granola stared at the colored liquids splashing over the floor.
 
-New releases.
+Then read the labels.
+
+“…Beatrice Newell.”
+
+“New releases?”
+
+Perfume.
 
 Concentrated fragrance.
 
-It mixed with crushed Sabik ginkgo fruit.
+All of it mixed with crushed Sabik ginkgo.
 
-The result—
+Granola's face changed.
 
-was monstrous.
+Then—
 
-Granola immediately vomited.
+“URRRRGH!”
 
-Even someone from Leviathan—
+He vomited.
 
-accustomed to poisons and assassination compounds—
+Tears and mucus ran down his face.
+
+Even a Leviathan raised around poisons and assassination compounds—
 
 could barely endure it.
 
-Then rain began outside.
+The smell was not merely “bad.”
 
-Moisture spread the stench farther.
+It felt like his nose was rotting.
 
-Cerberus reacted violently.
+Like his brain was melting.
 
-Its two remaining heads gagged.
+A similar accident had once happened at the Academy—
 
-Shook.
+someone entered a classroom after stepping on ginkgo fruit.
 
-Lost balance.
+Another person had applied perfume.
 
-Apex canine senses—
+The combined smell had become so terrible that even the notoriously uncompromising Professor Banshee had suspended the lesson.
 
-became a weakness.
+This—
 
-Vikir stood nearby.
+was that disaster multiplied many times over.
 
-Cotton stuffed in both nostrils.
+Then—
+
+RUSHHHH—
+
+rain began outside.
+
+Water spread the stench.
+
+Pushed it farther.
+
+Cerberus reacted.
+
+[HOOOOOWL!]
+
+Top-tier canine monster.
+
+Top-tier sense of smell.
+
+Which meant—
+
+top-tier suffering.
+
+The remaining heads gagged.
+
+Cerberus emptied its stomach.
+
+Then shook violently from the headache.
+
+Granola could barely stand.
+
+Vikir—
+
+on the other hand—
+
+stood in front of the monster with cotton packed into both nostrils.
 
 Expressionless.
 
-Ready.
+Perfectly prepared.
 
 “Well.”
 
-“Let’s see what the fairy gives us.”
+“Let's see what the fairy gives us.”

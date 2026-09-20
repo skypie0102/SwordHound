@@ -1,68 +1,300 @@
 # Chapter 307: Hell Tree (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/307.txt`. Recovered English Chapter 305 is the verified shifted secondary witness. Established repo terminology controls Colosseo Academy, Camus Morgue, Osiris Le Baskerville, Professor Banshee Morgue, Amdusias, Hell Tree, Wraith Tree, and Le Rouge et Le Noir Mountain. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/307.txt`. Recovered English Chapter 305 is the verified shifted secondary witness. Established project terminology controls **Colosseo Academy**, **Camus Morgue**, **Osiris Le Baskerville**, **Professor Banshee Morgue**, **Amdusias**, **Hell Tree**, **Wraith Tree**, and **Le Rouge et Le Noir Mountain**. Direct Fandom verification remains robots-blocked.
 
-The giant tree that had swallowed Colosseo Academy was impossible to comprehend by ordinary scale.
+The enormous tree had swallowed Colosseo Academy whole.
 
-Its roots wrapped around the outer walls like enormous teeth.
+Calling it large did not begin to describe it.
 
-At the center—
+Its trunk was so broad—
 
-a vast hole descended into darkness.
+its height so absurd—
 
-An abyss.
+that the thing could be seen even from cities far beyond the Imperial Capital's administrative district.
 
-A pit like the throat of some monstrous creature.
+Roots spread in every direction.
 
-Parents and professors attacked the roots in desperation.
+They clung to Colosseo's outer walls like gigantic teeth.
 
-Even Sword King Cervantes and Bow Demon Roderick could not make them move.
+Together—
 
-Then Camus Morgue spoke.
+they resembled a monster opening its jaws a full one hundred eighty degrees.
 
-“…That’s a Hell Tree.”
+And at the center of those roots—
 
-Osiris turned immediately.
+a hole.
 
-“You know it?”
+A vast cavity.
 
-Camus explained what she could.
+An abyss that seemed to descend directly into Hell.
 
-The tree had many names across old traditions.
+A throat-shaped pit buried between enormous teeth.
 
-Reverse Babel.
+Around it—
 
-The Tower that Climbs Downward.
+parents and professors screamed.
 
-A passage to the Oil World.
+“What the hell is this!?”
 
-A tree whose roots spread above—
+“What did you do to my son!?”
 
-while its branches grew deeper underground.
+“My daughter!”
 
-Its exterior looked city-sized.
+“Give me back my daughter!”
 
-Its interior—
+Even supreme fighters had already tried brute force.
 
-because of layered and distorted space—
+**Sword King Cervantes.**
 
-could be far larger.
+**Bow Demon Roderick.**
 
-And most importantly:
+Sword aura.
 
-“You can’t break in from outside.”
+Arrows.
 
-The others erupted.
+Explosive force.
 
-Camus only shrugged.
+Nothing moved the roots.
 
-“If I could, I would have already done it.”
+Not even slightly.
 
-Professor Banshee struck a root hard enough to crack the surrounding ground.
+And the central abyss—
 
-He blamed himself.
+its depth could not be measured.
 
-Winston’s bracelets.
+Its nature could not be identified.
+
+No one seemed to know what kind of plant had swallowed every student at Colosseo Academy.
+
+No one—
+
+except one person.
+
+“…Isn't that a Hell Tree?”
+
+**Camus Morgue** stared at the black roots.
+
+Osiris immediately turned to her.
+
+“You know what it is?”
+
+His usual composure was gone.
+
+He had watched four younger sisters disappear into the tree before his eyes.
+
+“If you know anything—
+
+please help us.”
+
+Cervantes and Roderick crowded closer too.
+
+“My son is inside!”
+
+“My daughter too!”
+
+“What is that thing!?”
+
+Camus waved one hand impatiently.
+
+“Getting angry at me won't help.”
+
+Then—
+
+after a moment—
+
+she frowned for an entirely different reason.
+
+“Actually…”
+
+“I'm a little annoyed too.”
+
+“Why didn't it take **me**?”
+
+She looked toward the ruined Academy grounds.
+
+“Was it because I never completed student registration?”
+
+“I should have taken a bracelet from admissions while I had the chance.”
+
+The surrounding adults stared at her.
+
+Then another voice came from behind.
+
+“If you know something—
+
+please cooperate…”
+
+A pause.
+
+“…would you?”
+
+The honorific came out awkwardly.
+
+Camus turned.
+
+**Professor Banshee Morgue.**
+
+Colosseo's senior academic administrator—
+
+currently carrying the burden of acting leadership.
+
+The moment she saw his cold face—
+
+her posture straightened.
+
+He resembled his late elder brother too much.
+
+Face.
+
+Voice.
+
+Manner.
+
+The memory of her dead teacher surfaced immediately.
+
+“…Fine.”
+
+“But I don't know everything.”
+
+Banshee quietly exhaled.
+
+He had no idea why the famously willful Camus had suddenly become cooperative.
+
+Her next words stunned everyone.
+
+“This plant appears in old historical records under several names.”
+
+“**Hell Tree**.”
+
+“**Inverted Chaos**.”
+
+“**The Tower That Climbs Downward**.”
+
+“**Passage to the Oil World**.”
+
+“And—
+
+**Reverse Babel**.”
+
+Banshee frowned.
+
+“How do you know that?”
+
+“I've studied magical history.”
+
+“I've never seen those records.”
+
+“Of course not.”
+
+Camus shrugged.
+
+“Imperial magical history wouldn't include them.”
+
+She remembered old books from outside the Empire's normal scholarship—
+
+books connected to the witchcraft traditions of the Red and Black Mountains.
+
+“This tree appears in the legends of tribes that have lived in **Le Rouge et Le Noir Mountain** for generations.”
+
+“Ordinary trees put roots downward and grow trunks toward the sky.”
+
+“This one is reversed.”
+
+“Its roots spread above.”
+
+“Its branches grow deeper underground.”
+
+“Down.”
+
+“Into the abyss.”
+
+Several people looked at the tree differently.
+
+Camus continued.
+
+“And the exterior size is misleading.”
+
+“From out here, it looks roughly city-sized.”
+
+“Inside?”
+
+She shook her head.
+
+“No one can measure it.”
+
+“The Hell Tree overlaps and twists multiple spaces.”
+
+“Distance inside doesn't correspond to distance outside.”
+
+“It is still only a magical tree—”
+
+she glanced at the roots—
+
+“nothing compared with something like the **Wraith Tree**.”
+
+“But grown to this scale?”
+
+“It's already a catastrophe.”
+
+Cervantes cut in.
+
+“Enough history.”
+
+“How do we get through it?”
+
+“How do we rescue the children?”
+
+“If that were possible—
+
+I would already be inside.”
+
+“What?”
+
+Camus clicked her tongue.
+
+“You can't interfere with a Hell Tree from outside.”
+
+“You can only break through it from within.”
+
+“That's impossible!”
+
+“Apparently not.”
+
+Camus pointed at the thing in front of them.
+
+“Because there it is.”
+
+“This isn't an ordinary plant.”
+
+“It grows in Hell.”
+
+“And even there—
+
+it's supposed to be rare.”
+
+There was no external rescue route.
+
+BANG!
+
+Banshee struck one of the roots.
+
+His fist did nothing to the tree.
+
+His teeth ground together.
+
+“…Damn it.”
+
+His voice dropped.
+
+“My fault.”
+
+“If I had been more cautious.”
+
+“If I had questioned it one more time…”
+
+He remembered every warning.
+
+Winston's bracelets.
 
 The magic-stone maintenance.
 
@@ -70,159 +302,203 @@ The landscaping project.
 
 The parent-observation event.
 
-The leniency toward Sadi.
+Professor Sadi being allowed far too much freedom.
 
-Too many warnings had been present.
+Every piece had looked suspicious.
 
-Yet he had failed to prevent this.
+And still—
 
-Everyone despaired.
+Banshee had failed to stop the trap before it closed.
 
-Everyone—
+Around him—
 
-except Camus.
+parents and professors called names into the abyss.
 
-“What are you all so worried about?”
+Some cursed.
 
-They stared at her.
+Some begged.
 
-“The students weren’t simply taken.”
+Some simply stared.
 
-“They went in with their own choices too.”
+Only Camus remained strangely calm.
 
-“What does that mean?”
+“What are all of you so worried about?”
 
-Camus answered as though it were obvious.
+Heads turned.
 
-“Who do you think is inside?”
+She looked genuinely puzzled.
+
+“They weren't simply dragged in.”
+
+“Someone **went in knowing what this was**.”
+
+The adults rushed toward her as though she had thrown them a rope.
+
+“What do you mean?”
+
+“Who?”
+
+“Who knew?”
+
+Camus answered as if it were obvious.
+
+“Who else?”
 
 “My fiancé.”
 
 ◆◆◆
 
-Vikir opened his eyes in darkness.
+Vikir opened his eyes.
 
-A sealed room.
+Darkness.
 
-Empty.
+A narrow empty room.
 
-Like the interior of an enormous seed.
+No furniture.
+
+No decoration.
+
+Nothing except black walls.
+
+It felt less like a prison cell—
+
+and more like the inside of a gigantic seed.
 
 *Exactly as the records described.*
 
-He had never experienced the Hell Tree himself before regression.
+Vikir had never personally entered the Hell Tree before regression.
 
-But many Academy-born heroes had.
+But many of the Academy-born heroes who survived the Age of Destruction had.
 
-Their memoirs had described the place in detail.
+Their memoirs.
 
-An underground tower.
+Field notes.
 
-Amdusias’s special power taken to its limit.
+Testimonies.
+
+He had studied all of them.
+
+The structure created by **Amdusias**—
+
+an underground tower produced by pushing the demon's special power to its limit.
 
 Originally—
 
-Child Hunting should have taken only the “firstborn.”
+the event should have selected only particular “children.”
 
 This time—
 
-it had swallowed the entire generation of students.
+Amdusias had swallowed an entire generation of Colosseo students.
 
-The Hell Tree was a tower driven downward.
+The deeper floors were not merely rooms.
 
-Each deeper floor held stranger ecosystems.
+They were worlds.
 
-Traps.
+Ancient civilizations captured and domesticated long ago.
 
-Ruined civilizations.
+Undead wandering ruined cities after losing their minds.
 
-Undead.
+Monsters from void-like spaces.
 
-Void monsters.
-
-Ancient tribes.
-
-Gargoyles.
-
-Magical machines.
+Tribes using gargoyles and magical machinery.
 
 Deserts.
 
-Seas.
+Oceans.
 
 Volcanoes.
 
 Snowfields.
 
-Worlds layered, folded, and distorted together.
+Entire environmental layers—
 
-Ordinary rules did not apply.
+stacked.
 
-*This is why Amdusias chose it.*
+folded.
 
-Destroying Colosseo’s elite students directly would be difficult.
+twisted.
 
-So the demon had built a world where they could be trapped—
+refracted.
 
-and broken.
+Like Mage Tower.
 
-If someone died or “retired” inside the tower—
+Like other dimensional labyrinths.
 
-that person became nourishment for the demon.
+Normal common sense did not apply.
 
-But there was one catch.
+*Suppressing all of Colosseo's best students directly would be difficult.*
 
-If even one person escaped alive—
+*So Amdusias built somewhere they could be isolated and broken.*
 
-everyone who had died or retired would return.
+The rule was cruel.
+
+Die inside the tower—
+
+or “retire” from its trials—
+
+and that existence became nourishment for the demon.
+
+But there was a flaw.
+
+If even **one** participant escaped alive—
+
+those who had died or retired inside could be restored.
 
 Before regression—
 
-Amdusias had believed escape impossible.
+Amdusias had believed no one could escape.
 
 He had been wrong.
 
-One genius had broken out.
+One extraordinary student had broken the tower's premise.
 
-Camus.
+**Camus.**
 
-That failure had ruined the plan.
+Her escape—
 
-Vikir could have prevented the Hell Tree from appearing this time.
+and eventual destruction of the Hell Tree—
 
-He had chosen not to.
+had ruined the demon's plan.
 
-*Because this place also contains an opportunity.*
+Vikir knew enough of the future that he could have prevented the Hell Tree from appearing this time.
+
+He had deliberately chosen not to.
+
+*For a reason.*
 
 Ding.
 
-A sound rang directly inside his head.
+A sound rang directly inside his mind.
 
-Something appeared.
+Not through his ears.
+
+Something appeared in the darkness.
 
 A grotesque lump of flesh.
 
-Twisted features.
+Twisted facial features.
 
 Exposed organs.
 
-Ugly wings.
-
-It spoke in a broken, bizarre cadence.
+Ugly wings beating wetly against the air.
 
 [Hell o?]
 
+The thing spoke with broken pronunciation—
+
+its cadence bizarrely cheerful.
+
 [I am the fairy who manages the tower?]
 
-Vikir looked at the thing.
+Vikir looked at it.
 
-Then nodded.
+Then nodded once.
 
 *This.*
 
-*This is why I allowed the Hell Tree to appear.*
+*This is the reason I let the Hell Tree happen.*
 
-The fairy flapped wet wings.
+The fairy flapped in place.
 
 [From now on—]
 

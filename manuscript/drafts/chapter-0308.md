@@ -1,8 +1,10 @@
 # Chapter 308: Hell Tree (2)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/308.txt`. Recovered English Chapter 306 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/308.txt`. Recovered English Chapter 306 is the verified shifted secondary witness. Project terminology controls **Vikir**, **Amdusias**, **Dolores L. Quovadis**, **Camus Morgue**, **Tudor Donquixote**, **Sancho Barataria**, **Bianca Fo Usher**, **Highbro / Middlebro / Lowbro Le Baskerville**, **River Styx**, **Wraith Tree**, and **Ring of Divine Inviolability**.
 
-[From now on—first come, first served?]
+[From now on—]
+
+[first come, first served?]
 
 Ding.
 
@@ -14,126 +16,173 @@ Mechanical messages followed.
 
 [Status Window authority unlocked.]
 
-Vikir opened the window.
+Vikir nodded.
 
-**<Vikir>**
+*This is why I didn't prevent the Hell Tree from appearing.*
 
-**LV:** 1  
-**Title:** None
-
-**Stats**
-- Strength: 178
-- Agility: 203
-- Stamina: 207
-- ?: Locked
-- ?: Locked
-- ?: Locked
+A window opened before him.
 
 Inside the tower—
 
-physical ability had been quantified.
+his body had been converted into visible numbers.
 
-Visible.
+> **<Vikir>**
+>
+> **LV:** 1  
+> **Title:** None
+>
+> **Stats**
+> - Strength: **178**
+> - Agility: **203**
+> - Stamina: **207**
+> - ?: Locked
+> - ?: Locked
+> - ?: Locked
 
-Reduced.
+Like a character sheet from the tabletop role-playing games fashionable in the Imperial Capital—
 
-*Each level lets you access roughly one percent of your original power.*
+his combat ability had been quantified.
 
-At Level 10—
+Vikir focused on one line.
 
-around ten percent.
+**Level.**
 
-At Level 100—
+*Inside the tower, you cannot use your full real-world power.*
 
-essentially all of it.
+*Roughly speaking—
 
-But the truly important point came afterward.
+each Level grants access to about one percent.*
 
-Power gained inside the Hell Tree remained after escape.
+Level 10—
 
-If someone reached the equivalent of one hundred percent inside—
+roughly ten percent.
 
-then returned—
+Level 50—
 
-the extra growth remained on top of their former self.
+roughly half.
 
-In practical terms—
+Approaching Level 100—
 
-their original combat power could double.
+approaching full original output.
 
-*This place can force open limits that are normally fixed.*
+But the real value was not simply recovering what had been sealed.
 
-Vikir remembered the Eighth Fang he had only realized perfectly under Dolores’s sacred amplification.
+The growth gained **inside** the Hell Tree remained after escape.
 
-If he escaped the Hell Tree after enough growth—
+If someone increased their effective power here and then returned to reality—
 
-he could stabilize that realm without outside support.
+the improvement became an additional gain on top of the body they had before entering.
 
-First—
+In the extreme case—
 
-he needed to descend.
+a survivor who reached Level 100 and escaped could return with growth equivalent to another full copy of their former strength.
 
-A twisting hole opened in the black floor.
+*In other words—*
 
-Like a grotesque slide.
+*the tower can forcibly break limits that would normally remain fixed.*
 
-Below waited a slightly wider chamber.
+Vikir remembered the door he had recently forced open with Dolores's amplification.
 
-Several monsters scurried inside.
+**Eighth Fang.**
 
-**<Norvegicus Rat>**
+He had reached that territory only through temporary outside assistance.
 
-**Danger Rating:** F  
-**Size:** 50 cm  
-**Discovery Location:** Entire Continent
+If the Hell Tree went as planned—
 
-A rat warped by demonic energy.
+he could make that level his own.
 
-Adults can reach the size and intelligence of a small dog.
+Without needing Dolores's buff.
 
-After removing the organs—
+*First—leave this room.*
 
-they are surprisingly edible when roasted or boiled.
+*Then descend.*
 
-A tutorial monster.
+*The fairy said first come, first served.*
 
-For an ordinary student—
+A long twisting opening appeared in the black floor.
 
-suddenly weakened to one percent—
+A grotesque slide.
 
-even these creatures could be dangerous.
+Vikir dropped through.
+
+Below waited a wider chamber.
+
+And movement.
+
+[Squeak—!]
+
+[Skrrrk!]
+
+Several furious creatures ran across the floor.
+
+Vikir recognized them immediately.
+
+> **<Norvegicus Rat>**
+>
+> **Danger Rating:** F  
+> **Size:** 50 cm  
+> **Discovery Location:** Entire Continent
+>
+> A rat warped by demonic energy.  
+> Adults possess the size and intelligence of a small dog.  
+> After removing the organs, the meat is surprisingly edible when roasted or boiled.  
+> **Tutorial monster.**
+
+For an ordinary Academy student—
+
+suddenly reduced to one percent of former power—
+
+even these rats were dangerous.
 
 Vikir was not ordinary.
 
-Crack.
+CRACK.
 
-Crack.
+One neck.
 
-He snapped their necks barehanded.
+CRACK.
 
-Then noticed the ceiling.
+Another.
 
-It was descending.
+He caught each lunging rat with his bare hands—
+
+then broke it.
+
+Something moved above him.
+
+Creeeeak—
+
+The ceiling was descending.
 
 Slowly.
 
-Constantly.
+Almost imperceptibly.
 
-Stay too long—
+But constantly.
+
+Stay here long enough—
 
 and the room would crush him.
 
 *So every floor forces movement.*
 
-No safe camp.
+Not only this one.
 
-No permanent shelter.
+The tower was designed to deny permanent safety.
 
-Run—
+No place to settle.
 
-or be eliminated.
+No place to relax.
 
-Vikir killed the final rat.
+Stop moving—
+
+and eventually be eliminated.
+
+That was the nature of the Hell Tree.
+
+CRACK!
+
+The last rat died.
 
 Ding.
 
@@ -141,126 +190,196 @@ Ding.
 
 [“Rare” achievement reward granted.]
 
-The fairy reappeared.
+The fairy appeared again.
 
 [Oh?]
 
-[Already finished?]
+[Already cleared?]
 
 [Excellent students deserve rewards?]
 
-Its body convulsed.
+Its wrinkled flesh convulsed.
 
-Then it vomited.
+Then the hole serving as its mouth opened.
 
-Blood.
+BLURGH—
+
+Bloodwater.
 
 Chunks of organs.
 
-Acid.
+Corrosive fluid.
 
-And mixed among the filth—
+The fairy vomited onto the floor.
 
-small colored beads.
+Mixed through the sludge—
 
-Vikir crouched.
+small glittering beads.
 
-Reached into the corrosive vomit.
+Vikir crouched immediately.
 
-His fingers began to melt.
+His fingers entered the vomit.
+
+HISSSS—
+
+Skin began to melt.
+
+The liquid was violently acidic.
+
+Pain burned through his hand.
 
 He ignored it.
 
-Collected every candy before it dissolved.
+Picked out one bead.
 
-Then grabbed the disappearing fairy.
+Then another.
 
-“Open your mouth.”
+Then another.
+
+If he hesitated because the fairy looked revolting—
+
+because the vomit was disgusting—
+
+or because his fingers were dissolving—
+
+the reward would dissolve with it.
+
+*Good.*
+
+*Recovered before they melted.*
+
+The fairy began to vanish.
+
+Vikir grabbed it.
+
+“Wait.”
 
 […?]
 
-“There’s one stuck between your teeth.”
+“Open your mouth.”
 
-He pried even those loose.
+[…Why?]
 
-The fairy stared at him.
+“There are more stuck between your teeth.”
 
-Vikir checked the items.
+He forced apart the creature's jaws.
 
-**<Strange Candy — Strength / Red>**
+Picked candy fragments from between sharp fangs.
 
-Raises Strength by 1.
+Every last one.
 
-Salty.
+The fairy's tongue curled in disbelief.
 
-**Strength +1**
+Then it disappeared.
 
-**<Strange Candy — Agility / Green>**
+Vikir examined the beads.
 
-Raises Agility by 1.
+Red.
 
-Bitter.
+Green.
 
-**Agility +1**
+Blue.
 
-**<Strange Candy — Stamina / Blue>**
+> **<Strange Candy — Strength / Red>**
+>
+> Raises Strength by **1**.  
+> Tastes salty.
+>
+> **Strength +1**
 
-Raises Stamina by 1.
+> **<Strange Candy — Agility / Green>**
+>
+> Raises Agility by **1**.  
+> Tastes bitter.
+>
+> **Agility +1**
 
-Astringent.
-
-**Stamina +1**
+> **<Strange Candy — Stamina / Blue>**
+>
+> Raises Stamina by **1**.  
+> Tastes astringent.
+>
+> **Stamina +1**
 
 *Stat candies.*
 
-Rewards from clearing tower stages.
+Exactly as the records described.
 
-Their gains were separate from level recovery.
+Rewards granted for clearing stages.
 
-And they remained effective outside.
+Their value was separate from the Level System.
+
+Eat one—
+
+the associated stat increased directly.
+
+And that increase remained valid **outside** the tower.
 
 Later—
 
-they also functioned as currency.
+these same candies would function as currency.
 
-Vikir stored them inside Andromalius’s subspace.
+*The more, the better.*
 
-At one-percent mana—
+Vikir stored them through the subspace of Andromalius's relic.
 
-the ring could not do much more than storage.
+His available mana was only around one percent.
 
-Still useful.
+That meant the dimensional relic was not useful for elaborate functions.
 
-He checked his status again.
+But storage still worked.
 
-**<Vikir>**
+A tremendous privilege in a tower where everyone else had to carry what they owned.
 
-**LV:** 1  
-**Title:** Rat Hunter
+*Three basic candies so far.*
 
-**Stats**
-- Strength: 178
-- Agility: 203
-- Stamina: 207
-- ?: Locked
-- ?: Locked
-- ?: Locked
+Strength.
 
-**Rat Hunter**
+Agility.
 
-Deals bonus damage to rat-type monsters.
+Stamina.
 
-Slightly extends abnormal statuses such as provocation, confusion, blindness, bleeding, burns, and poison.
+He reopened his status.
 
-The locked stats interested him more.
+> **<Vikir>**
+>
+> **LV:** 1  
+> **Title:** **Rat Hunter** *(NEW)*
+>
+> **Stats**
+> - Strength: 178
+> - Agility: 203
+> - Stamina: 207
+> - ?: Locked
+> - ?: Locked
+> - ?: Locked
 
-Three additional attributes.
+A new title appeared.
 
-Rare stats unavailable in the beginner area.
+> **Rat Hunter**
+>
+> Deals additional damage to rat-type monsters.  
+> Slightly extends the duration of abnormal statuses such as provocation, confusion, blindness, bleeding, burns, and poison.
 
-*Those are the real objective.*
+Useful.
 
-Many heroes of the Age of Destruction had grown inside this tree.
+But not the important part.
+
+Vikir stared at the three locked stat slots.
+
+*The three advanced attributes.*
+
+They could not be obtained normally in the beginner area.
+
+Unlocking them—
+
+and then raising them—
+
+was far more valuable than ordinary Level recovery.
+
+Vikir remembered the Age of Destruction.
+
+Many of its great heroes had emerged from the Hell Tree.
 
 Tudor.
 
@@ -278,36 +397,76 @@ Middlebro.
 
 Lowbro.
 
-They had become monsters because of the Hell Tree’s levels and stats.
+They had become unnaturally powerful partly because of the Levels and stats gained here.
 
-This time—
+Some had entered the tower with little natural advantage—
 
-Vikir intended to surpass even them.
+then left as completely different people.
 
-Camus missing the tree was a variable.
+*Perhaps this isn't only a trial.*
 
-But she no longer needed it.
+*For some people—
 
-Seere’s power.
+it is opportunity.*
 
-The Wraith Tree.
+Amdusias had built the tower as suffering.
 
-Her current potential already rivaled her old peak.
+But demons did not completely understand humanity.
+
+Some humans used suffering as fuel.
+
+Converted crisis into growth.
+
+Vikir understood that better than most.
+
+He had not been born with overwhelming talent.
+
+He had climbed through persistence.
+
+Combat experience.
+
+The blessing of the River Styx.
+
+More than once—
+
+he had wondered how much higher he might have gone if he had started with greater innate gifts.
+
+*I'll find out here.*
+
+Camus not being drawn into the tower was a variable.
+
+But Vikir was not concerned.
+
+She already possessed Seere's power.
+
+The **Wraith Tree**.
+
+Potential enough to rival—
+
+and eventually surpass—
+
+her old pre-regression peak.
+
+She did not need the Hell Tree anymore.
 
 Before regression—
 
-Camus had been the one to destroy the Hell Tree.
+Camus had escaped and destroyed it.
 
 This time—
 
-Vikir would take her place.
+Vikir would replace her in that role.
 
-He knew the攻略.
+He had her memoirs.
 
-He knew the traps.
+The experiences of other survivors.
 
-He knew the rewards.
+The route.
 
-All that remained—
+The traps.
 
-was to keep moving downward.
+The reward logic.
+
+Now—
+
+all that remained was to descend.

@@ -1,220 +1,394 @@
 # Chapter 311: Hell Tree (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/311.txt`. Recovered English Chapter 309 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/311.txt`. Recovered English Chapter 309 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Granola de Leviathan**, **Beelzebub**, **Gnoll**, **Hell Hound**, **Cerberus**, and **Le Rouge et Le Noir Mountain**.
 
-“I’m going to catch them all.”
+“I'll catch all of them.”
 
-Granola stared.
+Granola gave the only reasonable answer.
 
 “…Are you insane?”
 
-The Hell Hounds surrounding them were huge.
+Every Hell Hound in front of them had a heavy frame packed with muscle.
 
-Heavy.
+Teeth and claws sharp enough to compete with forged weapons.
 
-Their claws and teeth could rival fine weapons.
+Sulfur dripping from eyes and jaws—
 
-Sulfur fire poured from their faces.
+burning whatever it touched.
 
-And there were dozens.
+And there were too many to count at a glance.
+
+What could one person do against that?
 
 Vikir remained calm.
 
-He had already predicted them.
+*I expected the Hell Hounds.*
 
 Perfume.
 
-Cigarettes.
+Tobacco.
 
 Cosmetics.
 
-The obvious preservation of scent-heavy luxury goods had been a clue.
+The tower had preserved scent-heavy luxuries while letting practical necessities rot.
 
-The tower wanted students marked by smell.
+That was too deliberate.
 
-So Vikir had considered likely predators.
+So before the mission even began—
 
-Land sharks.
+Vikir had considered monsters with abnormal senses of smell.
 
-Hell Hounds.
+Gnolls were possible—
 
-Now—
+but too easy.
 
-the answer was clear.
+Goblins—
 
-Shing.
+also too weak.
 
-Beelzebub extended.
+That left predators such as land sharks—
 
-The first Hell Hound charged.
+or Hell Hounds.
 
-Slash.
+*Everything here is placed according to demonic intent.*
 
-Its nose—
+*Touch the wrong thing carelessly—*
 
-and the fist-sized sensory flesh behind it—
+*and you pay for it.*
 
-fell to the ground.
+SHING—
 
-Another lost its jaw.
+**Beelzebub** extended.
 
-Another—
+One Hell Hound lunged.
 
-half a foreleg.
+SLASH.
 
-Another—
+Its enormous nose—
 
-its throat.
+along with the fist-sized mass of sensory tissue behind it—
 
-The monsters realized something.
+fell away.
 
-Vikir was not simply trying to kill them.
+Hot blood and oily fluid sprayed.
 
-He was disabling them.
+[KYAAH!]
+
+Another came for Vikir's side.
+
+Its jaw disappeared.
+
+A third aimed for his back.
+
+Half a foreleg vanished.
+
+A fourth—
+
+throat pierced.
+
+The pack began to understand.
+
+Vikir was not simply killing them.
+
+He was **crippling** them.
+
+Deliberately.
 
 Ding.
 
-[Level 1 Warrior Vikir has hunted the first B+ Hell Hound in the Beginner Area.]
+[Level 1 Warrior Vikir has successfully hunted the first B+ Hell Hound in the Beginner Area.]
 
 [“Difficult” achievement reward granted.]
 
-A red candy dropped.
+A red bead appeared.
 
 Strength +1.
 
-Vikir moved faster.
+Vikir glanced at it.
 
-Protect fingers.
+*One kill already gives a special reward.*
+
+*What happens if I clear the entire pack?*
+
+No memoir from the previous timeline had described anyone exterminating every Hell Hound on this floor.
+
+Meaning—
+
+Vikir was attempting something the recorded heroes had never tried.
+
+For a reward they had never seen.
+
+He moved.
+
+Fingers.
 
 Toes.
 
 Joints.
 
-Organs.
+Internal organs.
 
-Sacrifice less-critical flesh.
+Those were protected.
 
-Always attack eyes.
+Parts of the body less important to immediate movement—
+
+he was willing to trade.
+
+In exchange—
+
+every strike targeted a vulnerability.
+
+Eyes.
 
 Tongues.
 
 Legs.
 
-Granola watched in horror.
+Sensory organs.
 
-*He’s Level 1.*
+Granola watched him fight like a possessed demon.
 
-*How can he fight like this?*
+His face went pale.
 
-Even reduced one hundred times—
+*He's Level 1.*
 
-Vikir moved like a nightmare.
+*How is he doing this?*
+
+Granola had already suspected Vikir was abnormal during the University League.
+
+This was different.
+
+*If this is him at one percent—*
+
+*how strong was he before entering the tower?*
 
 Still—
 
-he was reduced.
+one percent was one percent.
 
-His body soon became covered in blood.
+Blood soon covered Vikir.
 
-The Hell Hounds—
+Many Hell Hounds remained mobile.
 
-with demonic vitality—
+Their demonic vitality kept them fighting through damage that would have stopped ordinary beasts.
 
-kept fighting.
+*Annoying.*
+
+*At one percent, this is inefficient.*
 
 *Time for a trick.*
 
-Vikir opened one gap in the encirclement.
+Vikir stepped back.
 
-Then grabbed Granola.
+Then spoke without turning.
 
-“Run.”
+“I opened a path.”
 
-He threw him through.
+“Run through it.”
 
-They fled toward the waste-sorting station.
+Granola looked around wildly.
 
-Granola screamed.
+“What path—”
 
-“There’s no cover there!”
+CRACK.
+
+Vikir cut both jaws from one staggering Hell Hound.
+
+The monster recoiled.
+
+A gap opened in the encirclement.
+
+“Go.”
+
+“Ah—!”
+
+Vikir grabbed Granola by the neck.
+
+Then threw him through the opening.
+
+Granola screamed while running.
+
+“AAAAAAAAH!”
+
+Other prowling Hell Hounds heard him.
+
+Then changed direction.
+
+Toward Granola.
+
+Vikir watched.
+
+*That is a talent in its own way.*
+
+More prey for Vikir.
+
+Eventually—
+
+they reached the shopping district again.
+
+Granola saw where Vikir was heading.
+
+“Wait!”
+
+“That's the recycling station!”
+
+“There's no cover!”
 
 Vikir ignored him.
 
-At the old cleaner’s station—
+Sorted garbage bags lay everywhere.
 
-bags were stacked high.
+He remembered the cleaner who used to work here—
 
-Hell Hounds rushed closer.
+a person who had always left a decent impression.
 
-Vikir tore open one bag.
+Old broom.
 
-Then scattered the contents.
+Broken bins.
 
-Yellow fruit.
+The little cleaner's rest area.
 
-Hairy skins.
+No time for nostalgia.
 
-Rotten stench.
+[GRRRR!]
 
-Granola blinked.
+The pack arrived.
+
+Vikir reached for several bulging sacks beside the broom and dustpan.
+
+His blade flashed.
+
+A fresh cut opened at his side as he worked.
+
+Then—
+
+he ripped the sacks apart.
+
+“Here.”
+
+“Eat this.”
+
+Yellow, hairy-skinned fruit poured over the hounds.
+
+The reaction was immediate.
+
+[KYAAAH!]
+
+[COUGH!]
+
+[HURK!]
+
+Granola stared.
 
 “…Ginkgo?”
 
 Exactly.
 
-**Sabik ginkgo fruit.**
+Dozens of sacks of it.
 
-An especially foul-smelling variety.
+Ginkgo trees were commonly planted along streets because they repelled pests.
 
-Hell Hounds stepped on them.
+Their flaw—
+
+every year they dropped fruit that smelled unbelievably foul.
+
+And this was the especially vicious **Sabik** variety.
+
+Strong enough to overpower even the earthy smell of Morgue-grown potatoes.
+
+The Academy's recycling station always accumulated sacks of the things.
+
+One Hell Hound stepped on a fruit.
+
+SPLAT.
 
 Yellow juice burst.
 
-The smell exploded.
+The stench intensified.
 
-The beasts gagged.
+The hypersensitive canine monsters began gagging.
 
-Their hypersensitive noses betrayed them.
+Some vomited.
+
+Their noses became liabilities.
 
 Vikir moved.
 
-Slash.
+THRUST.
 
-Slash.
+THRUST.
 
-Slash.
+THRUST.
 
-Each kill dropped more candies.
+Red steel flashed.
 
-Red.
+Each motion—
 
-Blue.
+another Hell Hound collapsed with rolled-back eyes and tongue hanging free.
 
-Green.
+Others tried to counterattack.
+
+Tears.
+
+Pus.
+
+Burning nasal passages.
+
+They could barely orient themselves.
+
+Candies began dropping everywhere.
+
+Red—
 
 Strength.
 
-Stamina.
+Blue—
 
-Agility.
+Stamina.
 
 Green—
 
-Agility—
+Agility.
 
-was the rarest.
+Red appeared most often.
 
-Then the fairy appeared.
+Then blue.
 
-[Wow?]
+Green—
+
+least of all.
+
+“Agility really is stingy.”
+
+Vikir looked over the growing pile.
+
+*Later—
+
+the Candy Shop exchanges three hundred ordinary candies for one Level candy.*
+
+*Better collect as much as possible now.*
+
+Then—
+
+the fairy appeared.
+
+More suddenly than usual.
+
+[Woooow?]
 
 [Did you kill all these children?]
+
+[How impressive?]
+
+It looked over the carpet of Hell Hound corpses.
+
+Then spoke in a lower voice.
 
 [A great achievement deserves a great reward?]
 
 Ding.
 
-[Level 1 Warrior Vikir has hunted the first B+ Hell Hound pack in the Beginner Area.]
+[Level 1 Warrior Vikir has successfully hunted the first B+ Hell Hound pack in the Beginner Area.]
 
 [“Great” achievement recognized.]
 
@@ -222,11 +396,11 @@ Ding.
 
 [Increase difficulty?]
 
-[Increased-difficulty mission becomes a Bonus Stage.]
+[An increased-difficulty mission becomes a Bonus Stage.]
 
-Granola thrust both middle fingers at the fairy.
+Granola threw both middle fingers toward the fairy.
 
-“Of course not!”
+“Absolutely not!”
 
 Vikir answered at the same time.
 
@@ -234,45 +408,68 @@ Vikir answered at the same time.
 
 Granola froze.
 
-The fairy grinned.
+“…What?”
+
+Vikir looked at the black openings.
+
+A stronger boss meant—
+
+a better reward.
+
+Exactly what he wanted.
+
+The fairy smiled unpleasantly.
 
 [Good.]
 
-[Wonderful?]
+[Very good?]
 
-A single enormous black hole opened.
+[Then we begin?]
 
-A front paw emerged.
+A single black hole appeared.
 
-Several surviving Hell Hounds whimpered—
+Only one.
 
-then were crushed beneath it.
+Far larger than the Hell Hound gates.
+
+Several surviving Hell Hounds whimpered.
+
+Tails tucked.
+
+Then—
+
+CRUNCH.
+
+A massive paw came through the darkness.
+
+It crushed them.
 
 Three heads followed.
 
 One body.
 
-Vikir looked at the monster.
+Granola's face emptied.
+
+“…This has to be a dream.”
+
+Vikir's evaluation was simpler.
 
 “Long time no see.”
 
-**<Cerberus>**
+> **<Cerberus>**
+>
+> **Danger Rating:** **A+**  
+> **Size:** **7 m**  
+> **Discovery Location:** Le Rouge et Le Noir Mountain, Seventh Ridge
+>
+> **Alias:** *Hell Watchdog*
+>
+> It ignores souls trying to enter Hell.  
+> But any soul attempting to escape is immediately torn apart.  
+> An apex monster dwelling in the deep Oil World, regarded as the ultimate form of the Hell Hound line.
 
-**Danger Rating:** A+  
-**Size:** 7 m  
-**Discovery Location:** Le Rouge et Le Noir Mountain, Seventh Ridge  
-**Alias:** ‘Hell Watchdog’
+The Bonus Stage boss—
 
-It does not care about souls entering Hell.
+**Cerberus**.
 
-But any soul attempting to leave—
-
-will be torn apart.
-
-An apex monster from the deepest reaches of the Oil World.
-
-The Bonus Stage boss.
-
-Cerberus stared at Vikir—
-
-with three burning faces.
+Three burning faces stared at Vikir.

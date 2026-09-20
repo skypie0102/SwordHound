@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 497,
   "staged_chapters": 0,
-  "next_chapter": 307,
+  "next_chapter": 314,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "Hell Tree",
+    "name": "Surplus Man",
     "range": [
-      307,
-      313
+      314,
+      320
     ],
-    "reason": "next priority-containing family; dense priority run begins at307"
+    "reason": "next priority-containing family; all seven targets314-320 remain in initial priority queue and targets316/319 are confirmed failures"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -559,6 +559,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: Hell Tree targets307-313 all rebuilt/pass. Seven initial-priority targets resolved; 19 remain. Next: Surplus Man 314-320, including confirmed failures316/319.",
     "Completeness audit: National University League targets236-244 all rebuilt/pass. Priority target242 resolved; 26 initial-priority chapters remain.",
     "Completeness audit: Tuition targets225-233 all rebuilt/pass. Priority targets225,228,230,231 resolved; 27 initial-priority chapters remain.",
     "Completeness audit: Attack Land targets190-196 all rebuilt/pass. Priority targets192 and196 resolved; 31 initial-priority chapters remain.",
@@ -1032,7 +1033,7 @@
       420
     ],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 26,
+    "pending_priority_review_count": 19,
     "completed_families": [
       {
         "name": "The Illiad",
@@ -1093,6 +1094,15 @@
         "range": [
           236,
           244
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
+      },
+      {
+        "name": "Hell Tree",
+        "range": [
+          307,
+          313
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"

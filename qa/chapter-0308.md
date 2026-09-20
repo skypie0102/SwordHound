@@ -1,20 +1,24 @@
 # Chapter 308 QA — Hell Tree (2)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/hell-tree-0307-0313.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/308.txt` — `e8b60637a70d9f8baa1346f7a0b9657ed8a308fa`
 - English witness: **E306** — `880b0b39d6994f5a196e3ae4c27904bd0bf97d81`
-- Draft: `manuscript/drafts/chapter-0308.md` — `783ff19bc001906deb26a0994997bca2fd4feb20`
+- Rebuilt draft: `manuscript/drafts/chapter-0308.md` — `2fd259e81d79f61d47c10f6eb5ae980b70278334`
 
-## Checks
-- PASS — Level System / Status Window mechanics are preserved: tower Level controls access to a fraction of original power while tower gains persist after escape.
-- PASS — Vikir’s starting stats remain Strength178 / Agility203 / Stamina207 with three locked attributes.
-- PASS — Norvegicus Rat remains F-rank tutorial monster.
-- PASS — Descending ceiling establishes the tower’s no-safe-stalling rule.
-- PASS — Fairy reward is corrosive vomit containing candies; Vikir deliberately retrieves all candies, including those caught in the fairy’s teeth.
-- PASS — Red/green/blue candies map to Strength/Agility/Stamina +1 and remain useful outside the tower.
-- PASS — Rat Hunter title and the three locked advanced stats are preserved.
-- PASS — Camus’s absence is treated as a variable but not a weakness because of Seere/Wraith Tree gains.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/item forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Historical draft retained the outline but compressed the tower's level-growth economics, tutorial-room pressure, acid-vomit reward mechanics, stat-candy logic, title effects, and advanced-stat objective.
+- PASS — starting status is Level1 / Strength178 / Agility203 / Stamina207 plus three locked attributes.
+- PASS — tower Level controls approximate access to original strength at ~1% per level.
+- PASS — growth accumulated in the Hell Tree persists after escape and can stack on top of the entrant's pre-tower body.
+- PASS — Vikir links this opportunity to stabilizing Eighth Fang without Dolores's temporary amplification; no later attainment is imported.
+- PASS — tutorial Norvegicus is F-rank / 50 cm / continent-wide and can be edible after organ removal.
+- PASS — descending ceiling explicitly prevents indefinite camping and establishes the tower's constant-movement design.
+- PASS — first tutorial clear produces “Rare” achievement reward.
+- PASS — fairy vomit is corrosive enough to melt Vikir's fingers; he still retrieves all candies before dissolution and even takes pieces stuck between the fairy's teeth.
+- PASS — red/green/blue candies = Strength/Agility/Stamina +1 and persist outside the tower.
+- PASS — Andromalius subspace is usable only for storage at ~1% mana.
+- PASS — Rat Hunter title and abnormal-status extension effect are restored.
+- PASS — Vikir identifies the three locked attributes as higher-priority long-term targets and plans to outperform the previous Hell Tree heroes.

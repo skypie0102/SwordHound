@@ -1,20 +1,27 @@
 # Chapter 312 QA — Hell Tree (6)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/hell-tree-0307-0313.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/312.txt` — `f86aed4c34b7877ef1102aafb05384eb9e007753`
 - English witness: **E310** — `509ccb7b2c1b733125fb11568d71f3945b9744f0`
-- Draft: `manuscript/drafts/chapter-0312.md` — `8732c53865d570662c4f300c1e8f9e5da89b5eee`
+- Rebuilt draft: `manuscript/drafts/chapter-0312.md` — `38ae1467c124b874691e58f3d5096a1e1073d71b`
 
-## Checks
-- PASS — Cerberus is explicitly a stronger specimen than Vikir’s childhood encounter.
-- PASS — Picaresque hood is made from Cerberus hide and provokes the current beast through scent.
-- PASS — Cerberus’s tail-blade/venom is emphasized as a true killing weapon rather than only the three heads.
-- PASS — Baby Madam handles venom while production avoids local Chinese regeneration drift that would overwrite accepted Immortality — Gargoyle (S) continuity.
-- PASS — Vikir consumes accumulated red/green/blue candies mid-fight, producing Strength230 / Agility219 / Stamina244.
-- PASS — One Cerberus head is destroyed through the eye and brain; A+ vitality keeps the other two active.
-- PASS — Perfume concentrate plus Sabik ginkgo and rain is used as an in-world sensory weakness, not as real-world tactical guidance.
-- PASS — Chapter ends with Vikir prepared to finish the impaired Cerberus.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/item forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Historical draft retained the main fight but compressed the childhood Cerberus setup, tail-weapon/poison logic, exact candy spike, improvised retreat, perfume/ginkgo classroom precedent, and rain amplification.
+- PASS — Vikir remembers killing Cerberus at age eight using stolen/earned chocolate, days of traps, and Bloody Mamba venom from the Cradle.
+- PASS — Picaresque Mask hood is made from Cerberus hide and still carries faint canine scent.
+- PASS — Cerberus's **tail**, not only its three heads, is treated as the true lethal weapon; spear tip carries poison dangerous even to A-rank monsters.
+- PASS — Baby Madam extracts poison from Vikir's wound.
+- **Continuity correction locked:** local Chinese “Basilisk regeneration” wording does **not** overwrite established **Immortality — Gargoyle (S)** regeneration continuity.
+- PASS — Granola wakes from a spark and explicitly confirms his own strength really is reduced ~100×, emphasizing how abnormal Vikir is.
+- PASS — current Cerberus is larger/stronger than Vikir's childhood specimen and prolonged fighting would be wasteful.
+- PASS — Vikir consumes stored candies immediately before decisive engagement.
+- PASS — exact post-candy stats: Strength **230**, Agility **219**, Stamina **244** from +52/+16/+37.
+- PASS — Vikir destroys one Cerberus head through eye-to-brain penetration and twisting through skull/brain tissue.
+- PASS — Granola is retained as useful support and ordered to carry Sabik ginkgo.
+- PASS — plain ginkgo is insufficient against Cerberus; Vikir compounds it with shattered **Beatrice Newell** perfume concentrate.
+- PASS — prior classroom incident where ginkgo + perfume forced even Banshee to stop class is restored.
+- PASS — rain spreads the odor; Cerberus's superior canine senses become a greater liability.
+- PASS — Vikir uses cotton in his nostrils before preparing the finishing attack.

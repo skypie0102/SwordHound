@@ -1,7 +1,7 @@
 {
   "chapter": 313,
   "title": "Hell Tree (7)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Hell Tree",
     "range": [
@@ -9,8 +9,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "7d30c8c8e8b9dc3cb5fe5242f651c4a171de655f",
-    "status": "pass"
+    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/313.txt",
@@ -24,14 +24,27 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0313.md",
-    "blob_sha": "29d4fce580d8e7e518229bb6e1f395f2f633b59b"
+    "blob_sha": "887c817d6e28cb8230cc22bb1f5fc5786d454032"
   },
   "qa": {
     "path": "qa/chapter-0313.md",
-    "blob_sha": "80e93a996995113318bbe7b45f0f27c0a8f71252",
-    "status": "pass"
+    "blob_sha": "4448a33b9e08068a6332f4619fce009cbf6621a3",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "29d4fce580d8e7e518229bb6e1f395f2f633b59b",
+    "qa_sha": "80e93a996995113318bbe7b45f0f27c0a8f71252"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/hell-tree-0307-0313.md",
+    "initial_priority_target": true
+  }
 }

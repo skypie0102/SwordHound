@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Hell Tree completeness rebuild (307–313)
+
+**Audit result:** all seven historical drafts were materially compressed and rebuilt; family now **PASS**.
+
+All seven chapters **307–313** were initial-priority targets and are resolved.
+
+Major restorations:
+- exterior Hell Tree crisis, Camus lore, inverted growth, layered space, outside-interference impossibility, and Banshee guilt chain;
+- Vikir's complete tower-history / restoration-rule knowledge and deliberate opportunity motive;
+- Level1 status system, ~1% per Level access, persistent growth, acid-vomit reward recovery, basic/advanced stat model;
+- corrupted Colosseo copy, 108 entrants, faction scavenging, and deliberate perfume/tobacco/cosmetic scent bait;
+- exact 108 students / 108 B+ Hell Hounds / 108 minutes mission, Granola betrayal/rescue, and scent-tracking payoff;
+- pack-wide crippling strategy, Sabik ginkgo, candy-frequency logic, Great achievement, and optional Bonus Stage;
+- Cerberus A+ fight, tail poison, Baby Madam extraction, Immortality — Gargoyle (S), exact 230/219/244 stat spike, and compounded perfume/ginkgo odor trap;
+- Physical Resistance +1, six-stat objective, Hell Merchant, 300-candy Level exchange, deliberate Level1 reward optimization, and 69-survivor Floor3 transition.
+
+Initial priority queue now has **19 pending chapters**.
+
+Next audit family: **Surplus Man (314–320)**, including confirmed failures **316 and 319**.
+
+
 ## 2026-09-20 — National University League completeness rebuild (236–244)
 
 **Audit result:** all nine historical drafts were materially compressed and rebuilt; family now **PASS**.
