@@ -1,7 +1,7 @@
 {
   "chapter": 333,
   "title": "The Mating Room (1)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "The Mating Room",
     "range": [
@@ -9,8 +9,8 @@
       338
     ],
     "family_qa_path": "qa/families/mating-room-0333-0338.md",
-    "family_qa_sha": "ed62651b2a7c416d994a94386f52c276842deb97",
-    "status": "pass"
+    "family_qa_sha": "e76eff1e4193a6be648f650676db6dad0b8ed1a6",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/333.txt",
@@ -24,14 +24,27 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0333.md",
-    "blob_sha": "20c7ddeccc9418111bd620cbb71b2abb587d5361"
+    "blob_sha": "47dc62186bd820f6162d6354c06f776cfff965e1"
   },
   "qa": {
     "path": "qa/chapter-0333.md",
-    "blob_sha": "60aeae227a2be9f6b48ba824f23cd3c462dbcbad",
-    "status": "pass"
+    "blob_sha": "0391168a99c32e8cb1bd012a9704ccf4ce44b9d9",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "20c7ddeccc9418111bd620cbb71b2abb587d5361",
+    "qa_sha": "60aeae227a2be9f6b48ba824f23cd3c462dbcbad"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/mating-room-0333-0338.md",
+    "initial_priority_target": true
+  }
 }
