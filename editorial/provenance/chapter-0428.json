@@ -1,0 +1,38 @@
+{
+  "chapter": 428,
+  "title": "The Night Walkers (4)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Night Walkers",
+    "range": [
+      425,
+      429
+    ],
+    "family_qa_path": "qa/families/night-walkers-0425-0429.md",
+    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/428.txt",
+    "blob_sha": "b4d84f86f30704a409b075be8f883f2ab1ed2441",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-426.xhtml",
+    "blob_sha": "499db247e899a9e014451fd63c20f019780d2d6f",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0428.md",
+    "blob_sha": "8f06b012f45993e00d3e5a653121144345d509e3"
+  },
+  "qa": {
+    "path": "qa/chapter-0428.md",
+    "blob_sha": "342ee6a760847e0348ecccc076749a1a2463207d",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "documented_correction": "Chinese-primary Bianca line is 'We were already friends'; shifted witness opposite rendering rejected."
+}
