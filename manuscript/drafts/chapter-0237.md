@@ -1,18 +1,28 @@
 # Chapter 237: National University League (2)
 
-> Chinese-primary reconstruction from source/chinese/chapters/237.txt — 974b6dcf8dad76b68517c7d38de9089edeb74bbf. Recovered English Chapter 235 is the verified shifted secondary witness. Canonical/project terminology controls Colosseo Academy, Varangian Academy, Mage Tower, Temisquira Women’s College, Highbro/Middlebro/Lowbro Le Baskerville, Granola Leviathan, Vikir, and the National University League.
+> Chinese-primary reconstruction from `source/chinese/chapters/237.txt`. Recovered English Chapter 235 is the verified shifted secondary witness. Canonical/project terminology controls **Colosseo Academy**, **Varangian Academy**, **Mage Tower**, **Temisquira Women’s College**, **Dortsmeier**, **Magic Train**, **Vikir**, **Tudor Donquixote**, **Sancho Barataria**, **Pigi**, **Bianca Fo Usher**, **Sinclaire**, **Granola Leviathan**, and **Highbro / Middlebro / Lowbro Le Baskerville**.
 
 Only a few days remained before the National University League.
 
-Colosseo’s delegation left the Imperial Capital—
+Before the tournament could begin—
 
-bound for Mage Tower.
+Colosseo had to travel to this year's host.
 
-Bianca looked less like a contestant—
+**Mage Tower**.
 
-and more like a tourist.
+“Woohoo!”
 
-Floral shirt.
+Bianca spun around the station platform.
+
+“How long has it been since we got out?”
+
+“I finally escaped the Capital!”
+
+“I thought I'd be trapped there until summer vacation.”
+
+She looked exactly like someone leaving for a resort.
+
+Bright floral shirt.
 
 Shorts.
 
@@ -22,149 +32,231 @@ Straw hat.
 
 Sandals.
 
-A huge suitcase trailing behind her.
+A large rolling suitcase behind her.
 
-“Finally! I thought I’d be trapped in the capital until vacation!”
+Bianca hummed to herself.
 
-Tudor stared at her.
+“We may not get to see the great lakes around the new imperial retreat…”
 
-“You do realize we’re going to compete, not vacation?”
+“But at least this satisfies me a little.”
 
-Bianca glanced down at him.
+“A great archer needs a broad field of view first—”
 
-“Says the person wearing a swimsuit under a skirt.”
+Tudor looked her over.
+
+“Anyone seeing you would think you're going on vacation.”
+
+“What happens when your grades drop because you treat the League like a holiday?”
+
+Bianca looked down.
+
+Then at him.
+
+“Is the person saying that wearing a swimsuit under his skirt?”
 
 Tudor froze.
 
-“H-How do you know that!?”
+“W-what?”
 
-“The wind lifted it earlier.”
+“What are you talking about?”
 
-“You pervert! Why were you looking?”
+“How do you know whether I'm wearing a swimsuit?”
 
-“You were walking in front of me. I didn’t ask to see it.”
+“The wind lifted your skirt a moment ago.”
 
-“Our Donquixote men traditionally wear skirts!”
+“You pervert!”
 
-“And a swimsuit isn’t underwear anyway.”
+“Why were you looking?”
 
-“I’m suing you!”
+Tudor pointed back at her.
+
+“Why did **you** come wearing a skirt?”
+
+“Our Donquixote tradition permits men to wear skirts!”
+
+“Fine.”
+
+“I didn't want to see it.”
+
+“The wind made me.”
+
+“And it's a swimsuit, not underwear.”
+
+“Swimsuits are made to be seen.”
+
+“I'll sue you!”
 
 “For what?”
 
 “Insult!”
 
-“Then I’m suing you for injury. My eyesight has suffered.”
+“Then I'll sue you for bodily harm.”
 
-The usual argument began.
+“My eyesight got worse after seeing you in a swimsuit.”
 
-Sancho, Pigi, and Sinclaire laughed.
+Their argument rolled on without pause.
 
-“They’re energetic today.”
+Sancho.
 
-“At this rate they’ll end up hating each other.”
+Pigi.
 
-“They already do. They’ve known each other since childhood.”
+Sinclaire.
 
-The League rotated among the four academies.
+All smiled like people watching a familiar ritual.
+
+“They're lively today.”
+
+“At this rate they'll start hating each other.”
+
+“Don't they already?”
+
+“They've known each other since childhood.”
+
+The Olympiad Survival Contest rotated among the four academies.
 
 This year—
 
-Mage Tower was host.
+Mage Tower's turn.
 
-It stood in the southeastern Dortsmile region—
+The tower stood in **Dortsmeier**, in the southeast of the continent.
 
-a warm area famous for deserts, forests, caves, valleys, and sea.
+Warm climate.
 
-To reach it—
+Deserts.
 
-Colosseo’s students came to the Imperial Capital rail station.
+Forests.
 
-The Magic Train.
+Caves.
 
-A colossal train that circled the continent.
+Canyons.
 
-Mana-stone furnaces sat in its forward and rear engine rooms.
+Ocean.
 
-The furnaces converted magical power into heat and motion.
+Enough varied scenery to make the region famous as a vacation destination too.
 
-An artifact of enormous scale—
+The fastest practical way to reach it from the Imperial Capital—
 
-built by the Empire’s mages—
+the long-distance railway.
 
-and celebrated as a pinnacle of magical engineering.
+That was why Colosseo's delegation stood at the station.
 
-Imperial Capital Station.
+The **Magic Train**.
 
-Platform Nine and Three-Quarters.
+An enormous railway circling the continent.
 
-Soon—
+Mana furnaces sat in engine compartments at the front and rear.
 
-the train arrived in clouds of mana-heated steam.
+Magic stones were burned to produce driving power and heat.
 
-A great steel serpent slid to a halt.
+Countless imperial mages had contributed to the system.
 
-An announcement rang across the platform.
+It was considered one of the masterpieces of magical engineering.
 
-The continental loop train had arrived.
+Today—
 
-Passengers were warned about the gap.
+the Colosseo students would ride it from the Capital toward the southeast.
 
-Doors would open on the right.
+**Imperial Capital Station.**
 
-Tudor stared.
+**Platform Nine and Three-Quarters.**
 
-“Wow. First time on a Magic Train.”
+A bell rang.
 
-Sancho grinned.
+[The Continental Loop Train is now arriving.]
 
-“I rode one when I enrolled.”
+[This stop is Imperial Capital Station.]
+
+[Doors will open on the right.]
+
+[Please mind the gap between platform and boarding step.]
+
+[Thank you for using the Magic Train.]
+
+[We wish you a pleasant journey.]
+
+Steam produced by burning mana stones drifted across the tracks.
+
+A gigantic steel serpent slid into the station.
+
+Then stopped.
+
+Tudor's eyes widened.
+
+“Whoa.”
+
+“This is my first time on a Magic Train.”
+
+Sancho laughed.
+
+“A little provincial.”
+
+“I rode one when I came for enrollment.”
 
 Pigi raised a hand.
 
-“First time for me too. Though I’ve used a teleportation scroll once.”
+“First time for me too.”
 
-Bianca snorted.
+“I've used a teleportation scroll once, though.”
 
-“Try not to look too provincial once we’re aboard. Varangian and Temisquira students boarded at other stations.”
+Bianca straightened.
+
+“Once we're aboard, stop acting like tourists.”
+
+“Students from Varangian and Temisquira have already boarded from other stations.”
 
 Sinclaire nodded.
 
-“They’re our competitors. Stay sharp.”
+“They're our competition.”
 
-Colosseo boarded.
+“Don't underestimate them.”
 
-The train’s outer shell was hot from its long run—
+Trying to hide their own nervousness—
 
-but the carriage interior was perfectly cool.
+the first-years boarded with serious faces.
 
-Magic held the temperature constant.
+The train's exterior was hot from its long run.
 
-The first-years expected to find rivals waiting inside.
+Warmth rose through the soles of their shoes as soon as they stepped onto the metal stairs.
 
-Instead—
+Inside—
 
-their assigned carriage was empty.
+nothing.
+
+The carriage temperature was perfectly comfortable.
+
+Magic maintained it.
+
+Tudor and the others braced themselves for their first encounter with rival students.
+
+The carriage was empty.
 
 Tudor relaxed.
 
-“Looks like this whole car was reserved for Colosseo.”
+“Ah.”
 
-Relief.
+“This car must have been reserved for Colosseo.”
 
-And a little disappointment.
+Everyone nodded.
 
-Then Bianca pointed out the window.
+Relieved—
 
-“There.”
+and a little disappointed.
 
-Students had stepped onto the platform during the stop.
+Then Bianca pointed through the window.
 
-One group wore heavy armor—
+“There!”
 
-many with chainmail beneath it.
+During the station stop—
 
-Almost all were powerfully built men.
+some passengers had stepped out to buy food or look around.
+
+Two obvious groups stood on the platform.
+
+One wore heavy, durable armor.
+
+Many had chainmail underneath.
+
+Almost all were thickly built men.
 
 Shields.
 
@@ -174,19 +266,23 @@ Greatswords.
 
 War hammers.
 
-Varangian Academy.
+**Varangian Academy.**
 
 Tudor looked at Sancho.
 
-“It’s like an entire school full of you.”
+“It's like someone collected an entire school full of you.”
 
-Sancho laughed awkwardly.
+Sancho gave an embarrassed laugh.
 
-“That style is common in the north.”
+“That kind of equipment is familiar in the north.”
 
-The other group wore white uniforms and cloaks embroidered with hibiscus.
+On the other side—
 
-Almost all were robust women.
+white uniforms.
+
+Cloaks embroidered with hibiscus.
+
+Almost all robust women.
 
 Shields.
 
@@ -200,101 +296,145 @@ Wands.
 
 Spellbooks.
 
-Temisquira Women’s College.
+**Temisquira Women’s College.**
 
 Bianca swallowed.
 
-“They look terrifying.”
+“They look intense.”
 
 Sinclaire nodded.
 
-“I hear they’re very strong.”
+“I heard the students there are very strong.”
 
-These were the people they would face.
+These were the people they would soon compete against.
 
-Men or women—
+Male.
 
-none looked weak.
+Female.
 
-A low vibration ran through the train.
+It did not matter.
 
-Mana stones flared in the furnaces.
-
-The steel mass began to move.
-
-Toward Mage Tower.
-
-◆◆◆
-
-Tudor, Sancho, Pigi, Bianca, and Sinclaire found the compartment listed on their tickets.
-
-A private chamber.
-
-Round table.
-
-Deep sofas.
-
-Enough space to sit or lie down for the long journey.
-
-The capital blurred past the window.
-
-“Fast.”
-
-Tudor pressed near the glass.
-
-“No need to burn money on a teleportation scroll.”
-
-Sancho stood.
-
-“I’m getting eggs and soda from the dining car. That’s what you eat on a train.”
-
-Pigi brightened.
-
-“I brought some already.”
-
-“Oh? Pigi knows how to travel.”
-
-Bianca stretched.
-
-“This really does feel like a school trip.”
+None looked weak.
 
 Then—
 
-they remembered the missing sixth member of their usual group.
+WHUM—
+
+Mana stones ignited in the furnaces.
+
+The enormous train trembled under magical power.
+
+And began moving toward Mage Tower.
+
+◆◆◆
+
+Tudor.
+
+Sancho.
+
+Pigi.
+
+Bianca.
+
+Sinclaire.
+
+They followed the seat numbers on their tickets to a private compartment.
+
+A round table sat in the center.
+
+Comfortable sofas filled the sides.
+
+Enough room to sit.
+
+Stretch.
+
+Even sleep during the long trip.
+
+The Imperial Capital disappeared rapidly outside the window.
+
+Tudor pressed closer.
+
+“This thing is fast.”
+
+“No need to burn a fortune on teleportation scrolls.”
+
+Sancho stood.
+
+“I'm getting eggs and soda from the dining car.”
+
+“That's what you're supposed to eat on trains.”
+
+Pigi brightened.
+
+“I already brought some.”
+
+Sancho looked impressed.
+
+“Oh?”
+
+“You know how to travel.”
+
+Bianca stretched across the seat.
+
+“This really feels like a school trip.”
+
+Then—
+
+they remembered the sixth person normally with them.
 
 Vikir.
 
 Tudor groaned.
 
-“That traitor abandoned us again.”
+“That traitor.”
 
-“It was a prior promise,” Sancho said. “If anything, it means he takes promises seriously.”
+“He abandoned us again.”
 
-“Where is he sitting?”
+Sancho shook his head.
+
+“He had a prior agreement.”
+
+“It's disappointing—
+
+but it also means he takes promises seriously.”
+
+“He'll treat promises with us the same way.”
+
+Pigi looked at the tickets.
+
+“Where is Vikir's seat?”
 
 “Farther back.”
 
-“Near the Temisquira car, I think.”
+Bianca pointed vaguely.
 
-Bianca raised an eyebrow.
+“Near the car attached to Temisquira's section, I think.”
 
-“Maybe the problem won’t be a fight.”
+Sinclaire sat up.
 
-Sinclaire blinked.
+“Could Brother get into trouble?”
 
-“What do you mean?”
+Bianca grinned.
 
-“Vikir’s face is famous outside the capital too.”
+“Maybe not a fight.”
 
-“Temisquira is an all-women’s college…”
+“What else?”
 
-“And Varangian is practically an all-men’s school. These things happen.”
+“His face is famous outside the Capital too.”
 
-The joke faded.
+“Temisquira is practically all women.”
 
-Tudor frowned.
+“And Varangian is practically all men.”
 
-“I’m more worried about his own group.”
+“These things happen.”
+
+The joke passed.
+
+Then Tudor's expression became more serious.
+
+“Honestly—
+
+I'm more worried about his **own** group.”
 
 Granola Leviathan.
 
@@ -308,28 +448,30 @@ Vikir.
 
 Five people.
 
-A group already being called—
+The combination already had a nickname.
 
-*Hell’s Group.*
+**Hell's Group.**
 
 “Granola is bad enough.”
 
-“And the Baskerville triplets are the Mad Dogs of the Cold Department.”
+“And the triplets are the Cold Department's Mad Dogs.”
 
-“They tried to use him during midterms too.”
+“They tried to use Vikir during midterms too.”
 
 Publicly—
 
-Vikir was only a commoner.
+Vikir looked like a commoner without backing.
 
-Their friends imagined him trapped between arrogant nobles and vicious Baskervilles.
+His friends imagined him surrounded by arrogant nobles and violent Baskervilles.
 
-They pictured humiliation.
+Ordered around.
 
-Bullying.
+Humiliated.
 
-A miserable trip.
+Bullied for the entire trip.
 
-But in a carriage farther back—
+…
 
-reality was developing in a very different direction.
+In a carriage farther back—
+
+reality was developing very differently.

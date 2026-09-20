@@ -1,7 +1,7 @@
 {
   "chapter": 242,
   "title": "National University League (7)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -9,8 +9,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/242.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0242.md",
-    "blob_sha": "1e4b56b8a4633c3f70473f3ebacd7f3e506ccfee"
+    "blob_sha": "3715165b623eefe876c8dd63e1ed8b078064bdb0"
   },
   "qa": {
     "path": "qa/chapter-0242.md",
-    "blob_sha": "895ae2c5e34548c95c049a509ed24fd006e5b70a",
-    "status": "pass"
+    "blob_sha": "f1ac87cfdf495df0044d6fd0e15c44506753c7d4",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -45,12 +45,29 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-20",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/245.txt",
     "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
     "english_path": "source/chapters/chapter-243.xhtml",
     "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
     "purpose": "target245 begins Survival Contest (1)"
+  },
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "1e4b56b8a4633c3f70473f3ebacd7f3e506ccfee",
+    "qa_sha": "895ae2c5e34548c95c049a509ed24fd006e5b70a"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "priority_audit": {
+    "status": "resolved",
+    "original_reason": "initial low-ratio priority queue",
+    "resolved_date": "2026-09-20"
   }
 }

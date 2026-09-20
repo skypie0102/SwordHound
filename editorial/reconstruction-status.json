@@ -4,7 +4,7 @@
   "target_chapters": 500,
   "accepted_chapters": 497,
   "staged_chapters": 0,
-  "next_chapter": 236,
+  "next_chapter": 307,
   "latest_accepted_family": {
     "name": "Side Stories",
     "range": [
@@ -14,12 +14,12 @@
     "family_qa": "qa/families/side-stories-0496-0500.md"
   },
   "next_title_family": {
-    "name": "National University League",
+    "name": "Hell Tree",
     "range": [
-      236,
-      244
+      307,
+      313
     ],
-    "reason": "next priority-containing family; target242 is in the initial priority queue"
+    "reason": "next priority-containing family; dense priority run begins at307"
   },
   "handoff_file": "HANDOFF.md",
   "chinese_raw_physical_files": 492,
@@ -559,6 +559,7 @@
     500
   ],
   "notes": [
+    "Completeness audit: National University League targets236-244 all rebuilt/pass. Priority target242 resolved; 26 initial-priority chapters remain.",
     "Completeness audit: Tuition targets225-233 all rebuilt/pass. Priority targets225,228,230,231 resolved; 27 initial-priority chapters remain.",
     "Completeness audit: Attack Land targets190-196 all rebuilt/pass. Priority targets192 and196 resolved; 31 initial-priority chapters remain.",
     "Completeness audit: Nostalgia targets101-104 all rebuilt/pass. Corrected family QA now treats target101 as exclusive owner of landing/Madam-death/Venom/rescue after target100 boundary repair.",
@@ -1031,7 +1032,7 @@
       420
     ],
     "rule": "size ratio is triage only; direct source comparison determines pass/fail",
-    "pending_priority_review_count": 27,
+    "pending_priority_review_count": 26,
     "completed_families": [
       {
         "name": "The Illiad",
@@ -1083,6 +1084,15 @@
         "range": [
           225,
           233
+        ],
+        "result": "rebuilt_and_passed",
+        "date": "2026-09-20"
+      },
+      {
+        "name": "National University League",
+        "range": [
+          236,
+          244
         ],
         "result": "rebuilt_and_passed",
         "date": "2026-09-20"

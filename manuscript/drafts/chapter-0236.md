@@ -1,174 +1,340 @@
 # Chapter 236: National University League (1)
 
-> Chinese-primary reconstruction from source/chinese/chapters/236.txt — eddd037aea501c9b125834963a46434320451100. Recovered English Chapter 234 is the verified shifted secondary witness. Canonical/project terminology controls Colosseo Academy, Varangian Academy, Mage Tower, Temisquira Women’s College, Vikir, Tudor Donquixote, Sancho Barataria, Bianca Fo Usher, Sinclaire, Pigi, Granola Leviathan, Highbro/Middlebro/Lowbro Le Baskerville, National University League, Ten Corpses, and Decarabia.
+> Chinese-primary reconstruction from `source/chinese/chapters/236.txt`. Recovered English Chapter 234 is the verified shifted secondary witness. Canonical/project terminology controls **Colosseo Academy**, **Varangian Academy**, **Mage Tower**, **Temisquira Women’s College**, **Vikir**, **Tudor Donquixote**, **Sancho Barataria**, **Pigi**, **Bianca Fo Usher**, **Sinclaire**, **Granola Leviathan**, **Highbro / Middlebro / Lowbro Le Baskerville**, **National University League**, **Decarabia — Seventh Corpse**, and the **Ten Corpses**.
 
-Colosseo Academy.
+A strange tension had settled over Colosseo Academy.
 
-Varangian Academy.
+The date of the annual tournament between the Empire's greatest universities was approaching.
 
-Mage Tower.
+The **National University League**.
 
-Temisquira Women’s College.
+Once every year—
 
-The four most prestigious academies in the Empire—
+the four most prestigious academies gathered to decide who stood above the rest.
 
-were about to meet.
+Colosseo had consistently maintained the best overall institutional evaluation.
 
-The National University League was only days away.
+That did not make the other three weak.
 
-Varangian was famous for cold weapons.
+Far from it.
 
-Swords, spears, axes, bows—
+The four powers were—
 
-warriors trained to turn their bodies into weapons.
+**Colosseo Academy.**
 
-Mage Tower stood at the opposite extreme.
+**Varangian Academy.**
 
-Magic.
+**Mage Tower.**
+
+**Temisquira Women’s College.**
+
+Varangian was the famous warrior-training stronghold of the north.
+
+Swords.
+
+Spears.
+
+Axes.
+
+Bows.
+
+Cold weapons and bodies hardened to use them.
+
+Mage Tower stood in the east as the great stronghold of magicians.
+
+Spellcraft.
+
+Mana theory.
+
+Formulae.
 
 Hot weapons.
 
-Theory, formulas, alchemy, and practical spellcraft.
+Students who had chosen magic as the center of their lives.
 
-Temisquira Women’s College was different again.
+Temisquira Women’s College in the south resembled Colosseo more than either of the others.
 
-A comprehensive school—
+A comprehensive education.
 
-cold weapons, magic, and other disciplines under one roof.
+Cold weapons.
 
-Its students were almost entirely women.
+Hot weapons.
 
-Colosseo drew from every tradition.
+Majors.
 
-And this year—
+Minors.
 
-its first-years were already restless.
+Double specializations.
 
-“Varangian is going to be a pain.”
+The main difference—
 
-Tudor folded his arms.
+its student body was restricted almost entirely to women.
 
-“Sancho, you took their entrance exam, right?”
+There were rare exceptions.
+
+That was all.
+
+With those three rivals drawing closer—
+
+Colosseo felt like the air before a storm.
+
+The first-years felt it too.
+
+Tudor.
+
+Sancho.
+
+Pigi.
+
+Bianca.
+
+Sinclaire.
+
+“This is the first time I'll really meet students from the other schools.”
+
+Tudor sounded excited.
+
+Sancho was more cautious.
+
+“Being the top-rated academy is uncomfortable.”
+
+“Perform well and everyone says it was expected.”
+
+“Perform badly and the loss is humiliating.”
+
+Pigi swallowed.
+
+“I'm a little nervous.”
+
+Bianca waved him off.
+
+“What are you talking about?”
+
+“You've done well at Colosseo.”
+
+Sinclaire smiled.
+
+“Exactly.”
+
+“They're still students our age.”
+
+Freshmen were naturally curious about the cultures of other schools.
+
+Sancho and Sinclaire drew more attention than most—
+
+because both had actually sat those schools' entrance exams.
+
+Tudor turned toward Sancho.
+
+“Didn't you place first in Varangian's entrance exam?”
 
 Sancho nodded.
 
-“I did.”
-
-“And placed first.”
-
-“…Yes.”
+“Yes.”
 
 Bianca whistled.
 
-“You topped Varangian and still came here?”
+“They're going to grind their teeth when they see you.”
 
-“It was simply the school I wanted.”
+Sancho frowned.
 
-Pigi looked toward Sinclaire.
+“Why?”
 
-“Then Sinclaire is worse. Didn’t she place first on the Mage Tower and Temisquira entrance exams too?”
+“Because you passed them at the top and then went somewhere else.”
 
-Sinclaire gave an awkward smile.
+Tudor laughed.
 
-“And Colosseo’s magic-track test.”
+“Would **you** be happy?”
 
-Tudor stared.
+Then Pigi looked at Sinclaire.
 
-“Why are the monsters sitting at our table?”
+“Wouldn't she have it worse?”
 
-“Speak for yourself.”
+Sinclaire blinked.
 
-The familiar bickering continued—
+She had placed first in the entrance exams for schools with strong magic tracks—
 
-until a cold voice cut across them.
+Mage Tower.
 
-“Commoners really are noisy.”
+Temisquira.
 
-Granola Leviathan.
+Colosseo.
 
-Third son of Leviathan—
+There would be no shortage of jealous stares waiting for her either.
 
-one of the Seven Great Families.
+Then a boy in a black cloak approached with his usual arrogance.
 
-Recently attached to Colosseo’s Noble Faction.
+“Do not worry, ignorant classmates.”
 
-He approached with the natural arrogance of someone who had spent his life being treated as superior.
+“I will personally enter the competition and teach those inferior students their proper place.”
 
-“Do you even understand the rules of the League?”
+**Granola Leviathan.**
 
-Tudor’s expression hardened.
+Recently attached to Colosseo's noble faction—
 
-Granola ignored it.
+and somehow even more conceited than before.
 
-“The official event is the Olympiad Survival Contest.”
+Tudor looked him over.
 
-Four academies.
+“You're competing too?”
 
-One hundred entrants from each.
+Granola bristled.
 
-Four hundred students total.
+“What kind of rude question is that?”
 
-All transported into one enormous field.
+“This tournament has no year restriction.”
 
-Their starting positions randomized.
+“Anyone who has not repeated the same course twice may enter.”
 
-Each contestant would wear a suit that recorded remaining health.
+“I know.”
 
-When the suit’s HP reached zero—
+Tudor lost interest immediately.
 
-elimination.
+Granola—
 
-“And the ten highest scorers?”
+unfortunately—
 
-Bianca asked.
+had not lost the urge to lecture.
 
-Granola lifted his chin.
+“Then allow me to explain the structure to those of you who clearly require education.”
 
-“They receive the right to challenge for artifacts kept in the treasure vault jointly managed by the four academies.”
+He raised a finger.
 
-That changed the mood.
+“First.”
 
-World-class artifacts.
+“The formal name is the **Olympiad Survival Contest**.”
 
-Relics famous enough to tempt even the heirs of the Seven Great Families.
+“It is also called **Battle Royale: Ground Zero**.”
 
-Then—
+“Second.”
 
-thump.
+“Four hundred students—one hundred from each academy—are transported into a randomly selected large field.”
 
-Granola’s shoulder jolted.
+“They survive there for a fixed period.”
 
-A huge first-year had bumped him while passing.
+“Third.”
+
+“Every participant wears an HP suit.”
+
+“When the recorded HP reaches zero—
+
+that participant is eliminated.”
+
+“Fourth.”
+
+“The ten highest performers earn the right to enter the treasure vault jointly managed by the four academies.”
+
+“The vault contains legendary artifacts.”
+
+Granola folded his arms proudly.
+
+“I have explained it in enough detail.”
+
+“Try not to become dead weight.”
+
+THUMP.
+
+Someone walking past clipped his shoulder.
+
+Granola spun around.
+
+“What the—who dares—”
+
+A tall student with black hair and red eyes looked down at him.
 
 Highbro Le Baskerville.
 
-Middlebro and Lowbro followed behind him.
+“…What?”
 
-Granola’s face twitched.
+Granola looked up.
 
-“Watch where you’re—”
+Then—
 
-Highbro turned.
+“Nothing.”
 
-A single look.
+“Bastard.”
 
-Granola stopped.
+Highbro looked him over once and walked away.
 
-The Baskerville triplets moved on as though nothing had happened.
+Middlebro and Lowbro followed.
 
-Tudor coughed into his fist.
+“Bastard.”
 
-Bianca looked away, shoulders shaking.
+“Bastard.”
 
-Granola’s ears reddened.
+Granola trembled after they passed.
 
-He changed subjects.
+“If there weren't three of them—”
 
-“Anyway. Entry is organized in teams of five.”
+“I'd teach them a lesson!”
 
-“Teams?”
+“Numbers really are everything!”
 
-Pigi counted around the table.
+Everyone nearby gave him pitying looks.
+
+Then another familiar face appeared from the direction the triplets had gone.
+
+“Vikir!”
+
+Tudor waved.
+
+“Over here!”
+
+Sancho greeted him.
+
+“Good weather again, friend.”
+
+Bianca grinned.
+
+“We saw the romance rumor.”
+
+Pigi blinked.
+
+“Is that actually true?”
+
+“With the student council president?”
+
+Sinclaire answered before Vikir could.
+
+“Of course not.”
+
+“Brother already said he isn't interested in romance.”
+
+The group quickly shifted toward tournament planning.
+
+“Apparently there are no year restrictions.”
+
+“One hundred students per academy.”
+
+“So around twenty first-years?”
+
+“Probably.”
+
+“Third-years are the real main force.”
+
+“Fourth-years traditionally don't participate.”
+
+Pigi began counting.
+
+“Fifty third-years.”
+
+“Thirty second-years.”
+
+“Twenty first-years.”
+
+“That seems to be the usual distribution.”
+
+“With our midterm results, we're likely selected.”
+
+Then Tudor turned to Vikir.
+
+“So how are we dividing teams?”
+
+The opening stage required groups of five—
+
+even though final scoring was individual.
+
+Their usual circle had six people.
 
 Tudor.
 
@@ -182,114 +348,176 @@ Sinclaire.
 
 Vikir.
 
-Six.
+Two complete five-person groups were impossible without splitting and bringing in others.
 
-The friends fell silent.
+“Three and three?”
 
-Every academy sent one hundred students.
+“Then each side recruits two more.”
 
-By custom—
+Tudor pointed immediately.
 
-fifty third-years.
+“Vikir comes with us.”
 
-Thirty second-years.
+Bianca snapped around.
 
-Twenty first-years.
+“Why do **you** get him?”
 
-Fourth-years generally stayed out of the League.
+“Draw lots.”
 
-The five-person teams were used for the opening stage—
+Pigi nodded.
 
-but final scores were individual.
+“Fair.”
 
-“So one of us has to split off.”
+Sinclaire leaned closer.
 
-Tudor looked toward Vikir.
+“I want to be in Brother's group this time.”
 
-Vikir had been quietly eating.
+Everyone started arguing over him.
 
-“I already have a team.”
+Vikir ended it.
 
-Five heads turned at once.
+“I already joined another group.”
 
-“What?”
+Silence.
 
-“I made a prior promise.”
+Then—
+
+“What!?”
 
 Tudor clutched his chest.
 
-“Traitor.”
+“Again?”
 
-Sancho laughed.
+“You did this during midterms too!”
 
-“If it was arranged beforehand, there’s nothing to be done.”
+“It was arranged in advance.”
 
-Sinclaire tilted her head.
+Vikir gave a slight nod.
 
-“Then what are you aiming for, brother?”
+“Sorry.”
 
-“Top ten.”
+The disappointment was obvious.
 
-The table went quiet again.
+Sinclaire looked the most dejected.
 
-Vikir said it as if he were discussing tomorrow’s weather.
+“I really wanted to be in your group this time.”
 
-Bianca blinked.
+“Sorry.”
 
-“You know first-years normally enter for experience, right?”
+Vikir paused.
 
-“I know.”
+“This time I have a definite objective.”
 
-Pigi leaned forward.
+That made all of them look up.
 
-“You want an artifact?”
+“…Objective?”
 
-“Something like that.”
+Vikir almost never volunteered personal goals.
 
-Sinclaire shook her head.
+Curiosity replaced disappointment.
 
-“Even making the top ten doesn’t mean an artifact automatically becomes yours. The relics choose their owners too.”
+“If you enter the top ten—
 
-Vikir knew.
+you gain access to one artifact in the treasure vault managed by the four academies.”
 
-That was not why he needed access.
+There was an unusual light in his eyes.
 
-He only needed to enter the vault.
+Tudor noticed first.
 
-Because somewhere inside it—
+“You actually want something from there?”
 
-something was sleeping.
+“Yes.”
 
-The Seventh Corpse.
+“What?”
 
-Decarabia.
+“Secret.”
 
-Among the Ten Corpses, it was unique.
+“Hey!”
 
-Not a beast.
+Tudor exploded.
 
-Not a human-shaped demon.
+“I thought you were finally going to tell us something!”
 
-Not a serpent, insect, bat, or tree.
+Sinclaire smiled.
 
-An object.
+“Brother has a treasure he wants too.”
 
-An inanimate thing waiting for someone to awaken it.
+Then she added—
+
+“But you know, top ten doesn't guarantee the thing **you** want.”
+
+Vikir looked over.
+
+“The artifacts in that vault possess spirituality.”
+
+“They choose their own owners.”
+
+“When one finds the person it recognizes, it stays with them until that person's life ends.”
+
+“Then it returns to the vault.”
+
+She lifted one finger.
+
+“So once you're inside—
+
+you can only choose from the artifacts that accept you.”
+
+“If none accepts you—
+
+you leave empty-handed.”
+
+That limitation meant nothing to Vikir.
+
+*Entering the vault is enough.*
+
+He did not want to own a divine artifact.
+
+He wanted to destroy something hidden among them.
+
+The target surfaced in his memory.
+
+**Decarabia.**
+
+The **Seventh Corpse**.
+
+Among the Ten Corpses—
+
+the only demon whose form was an object.
+
+The others resembled living things.
+
+Insects.
+
+Serpents.
+
+Humans.
+
+Bats.
+
+Trees.
+
+But Decarabia—
+
+an inanimate thing.
+
+Sleeping somewhere in the human world.
+
+Waiting for someone to awaken it.
 
 In his previous life—
 
-the demons had repeatedly struck at the four academies.
+demonic forces had repeatedly targeted the four academies.
 
-The reason had been hidden in that shared treasure vault.
+The reason was inside their jointly administered treasure vault.
 
 *Decarabia.*
 
-Vikir’s eyes lowered.
+Vikir lowered his gaze.
 
-He did not need the artifact to choose him.
+He did not need it to choose him.
 
 He did not need to claim it.
 
-He only needed to find it first—
+He only needed to reach it first—
 
 and destroy it.

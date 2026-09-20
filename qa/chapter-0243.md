@@ -1,20 +1,19 @@
 # Chapter 243 QA — National University League (8)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/national-university-league-0236-0244.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/243.txt` — `0357a6973a1ecb1c708c938f94becd1db8faeeea`
 - English witness: **E241** — `3c770e4bbed2e2b34babc951196d02203aaccb29`
-- Draft: `manuscript/drafts/chapter-0243.md` — `8c1dbb8c3ecbd77d5c726d4483df44748533cc88`
+- Rebuilt draft: `manuscript/drafts/chapter-0243.md` — `ae8278276d1163d3d5aa4c2c85880ef545aa8caa`
 
-## Checks
-- PASS — Bollason’s confidence comparisons remain his internal judgment.
-- PASS — Vikir has stabilized Seventh Fang at Sword Master and is only contemplating the Eighth Fang; no premature attainment.
-- PASS — ‘Eighth Fang grows at the edge of death’ is retained as Vikir’s advancement premise.
-- PASS — Varangian wrestling/arm-wrestling culture and no-mana condition are preserved.
-- PASS — Dolores initially forbids the clash; Bakilaga reframes it as supervised pre-tournament entertainment.
-- PASS — Pigi acts as referee.
-- PASS — Vikir deliberately holds the match at center rather than pinning Bollason.
-- PASS — Bollason correctly understands that Vikir is letting him off and voluntarily admits defeat.
-- PASS — later challengers line up only after Bollason’s concession; chapter ends with Vikir accepting the queue.
+## Completeness findings
+- Restored Bollason's internal assessment of Sancho/Tudor/triplets/Granola and his comic denial of jealousy toward a coeducational academy.
+- PASS — Vikir's private progression thought concerns the **Eighth Fang as his next breakthrough** after stabilizing Seventh Fang at Sword Master. He has **not** attained Eighth Fang.
+- PASS — Varangian's culture uses wrestling in open/sandy spaces and arm wrestling when terrain is constrained.
+- PASS — Dolores initially prohibits the conflict; Bakilaga negotiates supervised arm wrestling as morale-building, with both presidents retaining authority to stop danger.
+- PASS — Pigi referees.
+- PASS — Vikir does not pin Bollason; he deliberately holds the hands at center until Bollason understands the overwhelming reserve/control and concedes.
+- PASS — Bollason correctly recognizes that deliberately matching an opponent without overshooting is harder than simply winning.
+- PASS — other Varangian challengers surge forward and Vikir tells them to **line up**.

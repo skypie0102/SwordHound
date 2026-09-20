@@ -2,8 +2,8 @@
   "chapter": 242,
   "title": "National University League (7)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/242.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-240.xhtml",
     "english_reference_sha": "3aebded2852c0fc4962e91d4652e4f2b461a9e9a",
     "draft_path": "manuscript/drafts/chapter-0242.md",
-    "draft_sha": "1e4b56b8a4633c3f70473f3ebacd7f3e506ccfee",
+    "draft_sha": "3715165b623eefe876c8dd63e1ed8b078064bdb0",
     "qa_path": "qa/chapter-0242.md",
-    "qa_sha": "895ae2c5e34548c95c049a509ed24fd006e5b70a",
+    "qa_sha": "f1ac87cfdf495df0044d6fd0e15c44506753c7d4",
     "provenance_path": "editorial/provenance/chapter-0242.json",
-    "provenance_sha": "0f1575ce22ae3f9c53861cca63065206a0539396"
+    "provenance_sha": "1b622183ebdf4e2a15c4d972887d9e66c60f22b9"
   },
   "canonical_checks": [
     "Vikir",
@@ -42,5 +42,19 @@
     "Bakilaga ancestry connection remains tentative at this point.",
     "Trident reputation remains in-world reputation."
   ],
-  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "1e4b56b8a4633c3f70473f3ebacd7f3e506ccfee",
+    "qa_sha": "895ae2c5e34548c95c049a509ed24fd006e5b70a",
+    "provenance_sha": "0f1575ce22ae3f9c53861cca63065206a0539396"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "priority_audit": "resolved_2026-09-20"
 }

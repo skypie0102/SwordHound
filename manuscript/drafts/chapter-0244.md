@@ -1,20 +1,28 @@
 # Chapter 244: National University League (9)
 
-> Chinese-primary reconstruction from source/chinese/chapters/244.txt — 35f89bf927a6dea9b05c6d75b3bb800264060090. Recovered English Chapter 242 is the verified shifted secondary witness. Canonical/project terminology controls Vikir, Bakilaga Juragio, Boli Bollason, Dolores L. Quovadis, Varangian Academy, Colosseo Academy, Ballak continuity, River Styx protection, and Vikir’s pre-regression Human Alliance history. Target 245 / recovered English 243 begins Survival Contest (1), so no later competition results are imported here.
+> Chinese-primary reconstruction from `source/chinese/chapters/244.txt`. Recovered English Chapter 242 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Bakilaga Juragio**, **Boli Bollason**, **Dolores L. Quovadis**, **Varangian Academy**, **Colosseo Academy**, **Ballak**, **River Styx**, and Vikir's pre-regression Human Alliance history. Target 245 / E243 begins **Survival Contest (1)**, so no later competition results are imported here.
 
-Reactions to Bollason’s defeat split immediately.
+Reactions to Bollason's surrender split immediately.
 
-“Too bad. They looked equal.”
+“What a shame.”
 
-“Equal? Bollason was dying and Vikir’s face didn’t change.”
+“They looked evenly matched.”
 
-“Maybe he’s just good at hiding strain.”
+“Evenly matched?”
 
-“Their hands never moved.”
+“Bollason was about to explode and Vikir's expression didn't change.”
 
-“He must be tired now. I’ll challenge him.”
+“Maybe he's just good at controlling his face.”
 
-Some people knew better.
+“Their hands stayed in the middle.”
+
+“So their strength must be similar.”
+
+“He might be tired now.”
+
+“I'll challenge him.”
+
+Some people saw the truth more clearly.
 
 Tudor.
 
@@ -26,117 +34,183 @@ Bianca.
 
 Sinclaire.
 
-“Vikir was giving him a lot.”
+“Vikir was holding back.”
 
-“That’s a very elegant way to win.”
+“A lot.”
 
-“But can he do it against this many?”
+Pigi nodded.
 
-“His archery already proves his arms are strong.”
+“He chose a graceful way to win.”
 
-Sinclaire frowned.
+Bianca crossed her arms.
 
-“Brother really stirred Varangian’s competitive spirit.”
+“Still—
+
+can he really handle this many people?”
+
+“Archery proves his arm strength is huge.”
+
+Sancho frowned.
+
+“But Varangian has a lot of monsters.”
+
+Sinclaire looked worried.
+
+“Brother stirred up their competitive spirit.”
 
 Vikir barely heard them.
 
-*This reminds me of the old days.*
+*This is nostalgic.*
 
-Before regression—
+His thoughts returned to the Human Alliance Army before regression.
 
-after the Age of Destruction began—
+Once the Age of Destruction began—
 
-the Human Alliance Army had gathered every kind of fighter.
+every kind of person gathered in military barracks.
 
-Many rough northern mercenaries lived in the same barracks.
+A large number were rough mercenaries from the north.
 
-Arm wrestling became a daily ritual.
+Many were famous for raw strength.
 
-Vikir had seen men under fifty kilograms hold their own against famous heavyweights.
+Arm wrestling became routine.
 
-Technique mattered.
+Vikir had seen thin soldiers—
+
+light enough to weigh under fifty kilograms—
+
+hold their own against men famous throughout a squad or platoon for power.
+
+*Strength matters.*
+
+*But technique matters more.*
 
 More precisely—
 
-the ability to focus strength only where it was useful.
+the technique of concentrating force only where it actually contributes.
 
 Of course—
 
-Vikir also possessed absurd raw strength.
+Vikir's raw strength was already abnormal even without mana.
 
-Even without mana.
+Another massive Varangian student strained across from him.
 
-Another Varangian challenger strained across from him.
+The man's whole body twisted.
 
-Vikir watched his stance.
+Vikir watched.
 
-*Lower body is unstable.*
+*Lower body unstable.*
 
-*He can’t transfer his full strength.*
+*He cannot transfer full force.*
 
-Vikir could end the match instantly.
+Vikir could have pinned him immediately.
 
 Instead—
 
-he held center.
+he held the arm at center.
 
-The challenger fought until his body shook.
+The challenger struggled.
 
-Then quit.
+Shook.
 
-Varangian booed.
+Spent everything.
 
-Again—
+Then—
 
-a “draw” that ended in surrender.
+“…I surrender.”
+
+Again.
+
+A match that looked tied—
+
+ending in concession.
 
 At first—
 
-they laughed.
+Varangian students complained.
 
-Then another challenger gave up.
+“What is this?”
 
-And another.
+“Why surrender when the hands are still in the middle?”
 
-And another.
+“They're equally strong!”
 
-“Let go of my hand! I surrender!”
+“Bollason did the same thing.”
 
-“I can’t move him!”
+“Boring.”
 
-“I forfeit!”
+Then—
 
-More than thirty.
+another challenger.
 
-Every first-year—
+“…I give up.”
 
-gone.
+Another.
 
-Then second-years.
+“Agh!”
 
-Then third-years.
+“I can't move him!”
 
-Nobody moved Vikir’s hand even one millimeter.
+Another.
 
-A strange silence grew.
+“I surrender!”
 
-“That body can produce this much strength?”
+“Let go of my hand!”
 
-“It’s like pushing a boulder.”
+Another.
 
-“Even the upper-years lost.”
+“…Me too.”
 
-Vikir kept accepting them.
+Every person who challenged—
 
-Expressionless.
+eventually surrendered.
+
+The crowd's expression changed.
+
+“…Wait.”
+
+“Is he deliberately holding them there?”
+
+“No way.”
+
+“How much strength would that take?”
+
+“I don't believe it.”
+
+“Move.”
+
+“I'll test it myself.”
+
+They did.
+
+And failed.
+
+Not one person moved Vikir's arm even **one millimeter**.
+
+The count passed thirty.
+
+The atmosphere changed completely.
+
+“All the first-years are gone!”
+
+“How can that body have this kind of power?”
+
+“Second-years too!”
+
+“It's like pushing a giant rock.”
+
+“Even third-years lost.”
+
+Strength met strength.
+
+Vikir stayed expressionless.
 
 An unmoving mountain.
 
 Worse—
 
-when exhausted challengers wanted to escape—
+when exhausted challengers tried to escape—
 
-his grip still held them until they formally surrendered.
+his grip kept them there until they verbally surrendered.
 
 Dolores watched with her mouth slightly open.
 
@@ -144,45 +218,59 @@ Dolores watched with her mouth slightly open.
 
 No magic.
 
-No divine reinforcement.
+No divine spell.
 
-Yet Varangian’s warriors were being overwhelmed one after another.
+Yet Varangian's warriors—
 
-A small, guilty satisfaction rose in her.
+the school built around physical combat—
 
-She covered her mouth.
+were failing one after another.
+
+A tiny amount of school pride surfaced in Dolores.
 
 “Ahem.”
 
-Then glanced toward Bakilaga.
+She covered her mouth.
 
-He did not look humiliated.
+Then glanced sideways.
+
+Bakilaga stood nearby.
+
+Serious.
+
+Not humiliated.
 
 Interested.
 
-Very interested.
+Then—
 
-The enormous third-year pushed through the crowd.
+the crowd parted.
 
-“Hey, freshman.”
+A huge figure moved through the smaller students like a dinosaur through puppies.
 
-He stopped before Vikir.
+“Hey.”
+
+“Freshman.”
+
+Bakilaga stopped before Vikir.
 
 “You have good strength.”
 
-Bakilaga smiled.
+He smiled.
 
-“Want to try me?”
+“Want to try against me?”
 
-The room froze.
+The entire hall changed.
 
 Colosseo.
 
 Varangian.
 
-Dolores.
+Every student nearby held their breath.
 
-Everyone waited for Vikir’s answer.
+Dolores too.
+
+Vikir looked at him.
 
 “Line up.”
 
@@ -194,286 +282,354 @@ Bakilaga blinked.
 
 Vikir nodded.
 
-Bakilaga scratched the back of his head.
+A few seconds passed.
+
+Then Bakilaga understood.
+
+“Oh.”
 
 “Right.”
 
-He turned.
+“I arrived late.”
 
-“I came late.”
+He scratched the back of his head—
 
-And walked to the rear of the queue.
+then walked to the end of the line.
 
-The hall inhaled as one.
+The hall collectively inhaled.
 
-Varangian’s absolute center—
+Varangian's central figure—
 
 their president—
 
-had just been told to wait his turn.
+had been told to queue.
 
-And had obeyed.
+And he had done it.
 
-The six or seven students ahead of Bakilaga looked behind them.
+Six or seven students still waited in front of Bakilaga.
 
-Then quietly surrendered their places.
+They looked behind them.
+
+Then quietly abandoned their places.
 
 Soon—
 
-Bakilaga sat opposite Vikir.
+Bakilaga sat across from Vikir.
 
-“Our academy works a little like an army,” he said. “A giant mercenary unit.”
+He rested one elbow on the stone.
 
-Strict hierarchy.
+“Our school is a little like the army.”
 
-Old abuses.
+“A massive mercenary unit.”
 
-Younger students once treated almost like servants.
+“Hierarchy is strict.”
 
-“I removed a lot of that after becoming president.”
+“Unfair customs used to be bad too.”
 
-He smiled.
+“First-years treated almost like servants.”
 
-“But the hierarchy itself is still strong.”
+He smiled faintly.
 
-That explained why the others had yielded.
+“I eliminated a lot of that after becoming student council president.”
 
-Varangian’s students trusted Bakilaga completely.
+“But hierarchy itself is still strong.”
 
-“He can’t lose.”
+That explained why everyone ahead had moved.
 
-“He crushed fourth-years as a freshman.”
+Varangian students trusted Bakilaga enormously.
 
-“President!”
+“Can you imagine the president losing?”
+
+“He beat fourth-years as a freshman.”
+
+“He can't lose.”
+
+“Bakilaga!”
 
 “Bakilaga Juragio!”
 
-Bakilaga set his elbow down.
+“Win!”
 
-“You planned to fight six more before me?”
+Bakilaga laughed at the cheering.
 
-Vikir did not answer.
+Then looked at Vikir.
 
-He simply offered his hand.
+“You were going to fight six more before me?”
 
-Bakilaga gripped it.
+“Do you really have that much strength left?”
 
-His smile weakened.
+“…”
 
-The pressure—
+Vikir only placed his arm down.
 
-was wrong.
+Bakilaga still smiled.
 
-Far beyond “pretty strong.”
+Then their hands met.
 
-He seized the stone table with his free hand.
+GRIP.
+
+The smile faded slightly.
+
+Weight.
+
+Pressure.
+
+Something immediately wrong with the sensation.
+
+“…!”
+
+Vikir's grip was far beyond—
+
+*pretty strong.*
+
+Bakilaga's free hand grabbed the edge of the stone table.
 
 For the first time since entering Varangian—
 
-another student’s raw strength surprised him.
+another person's raw strength surprised him.
 
 Then—
 
-the match began.
+THUMP.
 
-The crowd roared.
+CREEEAK—
 
-Their arms stayed near center.
+The match began.
 
-But this was not the same as Vikir’s earlier matches.
+The room exploded in cheering.
 
-His arm—
+Their arms remained near center.
 
-trembled slightly.
+But unlike Vikir's earlier matches—
 
-Bakilaga’s raw power was greater.
+his forearm trembled slightly.
 
-Vikir recognized it.
+This was a real contest.
 
-*Not student-level strength.*
+Bakilaga did not scream theatrically.
 
-But arm wrestling was not pure strength.
+He focused.
 
-Angle of shoulder.
+A bead of sweat appeared on his cheek.
 
-Angle of elbow.
+*This guy is strong.*
 
-Wrist position.
+Vikir judged him too.
 
-Forearm activation.
+*Not student-level.*
 
-Ring finger.
+In pure raw strength—
 
-Little finger.
+Bakilaga had the advantage.
 
-Triceps.
+But arm wrestling was not raw strength alone.
 
-Body weight.
+Vikir adjusted—
 
-Vikir adjusted each piece so Bakilaga could not express his entire advantage.
+elbow angle.
 
-And Vikir’s body was no ordinary body.
+shoulder angle.
 
-River Styx protection.
+wrist shape.
 
-Years of killing monsters.
+forearm engagement.
 
-Dense, hardened muscle.
+ring-finger position.
 
-Bakilaga’s astonishing force met a wrist that refused to collapse.
+little-finger position.
 
-A drop of sweat ran down the older student’s face.
+triceps.
 
-*Strong.*
+body weight.
 
-Vikir looked straight back.
+He made Bakilaga fight in positions that limited how much total force could transfer.
 
-Bakilaga grinned.
+And Vikir's body itself had been remade through hardship.
+
+**River Styx** protection.
+
+Years of slaughtering monsters.
+
+Muscle that had become dense.
+
+Hard.
+
+Heavy.
+
+Bakilaga's superior raw force met a slim wrist that refused to collapse.
+
+He smiled—
+
+this time with genuine admiration.
 
 “You move like an old warrior.”
 
-“Your experience feels like my father’s.”
+“Your experience feels no worse than my father's.”
 
-His eyes narrowed.
+His eyes sharpened.
 
-“What are you?”
+“Why?”
 
-Vikir released one shirt button.
+“What exactly are you?”
 
-He exposed the collar at his neck.
+Vikir reached to his shirt.
 
-Then said one phrase.
+Click.
+
+One button opened.
+
+He showed the collar around his neck.
+
+Then said—
 
 “Hunting Leader.”
 
-Bakilaga’s eyes widened.
+Bakilaga's eyes widened almost painfully.
 
-Crack.
+At that instant—
 
-The stone table split beneath their elbows.
+CRACK!
 
-Then shattered into several pieces.
+The table broke.
 
-The innkeeper stared.
+The thick stone beneath their elbows split into several pieces.
 
-“That table…”
+No hand touched the table surface.
 
-His voice shook.
+No pin.
 
-“It was carved from the original stone when this inn was built.”
+No declared winner.
 
-Ancient rock—
+The innkeeper stared at the broken rock.
 
-broken by two students arm wrestling.
+“My god…”
+
+“That table was carved from the stone already here when the inn was built.”
+
+Ancient stone—
+
+destroyed by two students' contest of strength.
 
 Nobody spoke.
 
-Then Bakilaga laughed.
+Then—
 
 “HAHAHAHA!”
 
-He rubbed his aching hand.
+Bakilaga laughed loudly.
 
-His eyes remained on Vikir’s Ballak collar.
+He rubbed his aching palm.
 
-Then he spoke—
+His eyes stayed fixed on Vikir's collar.
 
-fast.
+Then he spoke rapidly.
 
-In a language almost nobody in the room understood.
+Words almost impossible for the surrounding students to identify as language.
 
-Vikir did.
+Vikir understood.
+
+**Ballak.**
 
 *You are the pride of the forest.*
 
 *Do not forget it.*
 
-Ballak.
+Sinclaire's earlier rumor returned.
 
-The rumor returned.
+*His grandparents may have come from the Red and Black Mountains.*
 
-Bakilaga’s grandparents—
+The collar Aiyen had given Vikir—
 
-from the Red and Black Mountains.
+the mark of an exceptional tribal hunter.
 
-The collar Aiyen had given Vikir marked an outstanding hunter—
+A **Hunting Leader**.
 
-a Hunting Leader.
+And another memory surfaced.
 
-And Vikir remembered another name from his previous life.
+Bakilaga Juragio—
 
-Bakilaga Juragio.
+one of the great heroes of the Human Alliance before regression.
 
-One of the Human Alliance’s great heroes.
+*Was he discriminated against for tribal blood when he entered Varangian?*
 
-*Was he discriminated against for barbarian blood as a first-year?*
+That would explain much.
 
-That could explain why he had fought older students so fiercely.
+Especially why—
 
-Bakilaga patted Vikir’s shoulder.
+as a first-year—
 
-“Amazing strength, freshman.”
+he had fought older students.
+
+Bakilaga slapped Vikir's shoulder.
+
+“Wonderful strength, freshman!”
 
 He laughed.
 
-“It’s late. We’ll save the result for tomorrow’s competition.”
+“It's late.”
 
-Then he leaned closer.
+“We'll save the real outcome for tomorrow's tournament.”
 
-“Besides. Your girlfriend is glaring at me.”
+Then he lowered his voice.
+
+“And anyway…”
+
+“Your girlfriend is glaring at me.”
 
 Vikir turned.
 
 Dolores stood nearby—
 
-eyes fixed on Bakilaga.
+eyes fixed hard on Bakilaga.
 
-Vikir tilted his head.
+*How did he arrive at that conclusion?*
 
-*How did he reach that conclusion?*
+Vikir met Dolores's gaze.
 
-His eyes met Dolores’s.
+Then gave a small shake of his head.
 
-Vikir gave a small shake of the head.
+“…?”
 
-Dolores looked even more confused.
+Dolores looked confused.
 
 Bakilaga laughed again.
 
-“Splendid match, Colosseo!”
+Then raised his voice to the room.
 
-He addressed the hall.
+“Excellent contest, Colosseo!”
 
-“We lost the first-year strength contest.”
+“We lost today's first-year strength challenge.”
 
-“But tomorrow won’t be so easy.”
+“But tomorrow's League will not be so simple!”
 
-“A warrior’s victory is not decided by strength alone!”
+“A warrior's victory is not decided by strength alone!”
 
-He strode toward the rooms.
+He strode toward the lodging rooms.
 
-Varangian’s students followed like wolves behind their leader.
+Varangian students followed like wolves behind their leader.
 
 Tudor watched with shining eyes.
 
-“That was a man’s contest.”
+“That's a man's contest.”
 
 Sancho nodded.
 
 “Bakilaga is impressive.”
 
-Pigi clenched a fist.
+Pigi clenched his fists.
 
-“Now I’m fired up for tomorrow.”
+“I'm fired up for tomorrow.”
 
-Bianca looked toward the buffet.
+Then Bianca—
 
-Then spoke in a very different tone.
+standing slightly outside the emotional current—
 
-“They ate everything.”
+looked toward the food tables.
+
+“…They ate everything.”
 
 Everyone turned.
 
-The buffet tables—
+The buffet—
 
-were empty.
+was empty.

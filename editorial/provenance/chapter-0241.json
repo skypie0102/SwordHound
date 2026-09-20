@@ -1,7 +1,7 @@
 {
   "chapter": 241,
   "title": "National University League (6)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -9,8 +9,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/241.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0241.md",
-    "blob_sha": "e45adb5a732165a2e5652ac87f1cd39655ee0dc4"
+    "blob_sha": "bce5a295ea534b287671a3f64463d0ed9dc0ee6a"
   },
   "qa": {
     "path": "qa/chapter-0241.md",
-    "blob_sha": "5589cb1ac93b3c509ec8afbaefd257138d58db2b",
-    "status": "pass"
+    "blob_sha": "73a629ead99189aceb1ede76d240a6b5978ed0c8",
+    "status": "pass_after_completeness_rebuild"
   },
   "documented_decisions": [
     {
@@ -50,12 +50,29 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-20",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/245.txt",
     "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
     "english_path": "source/chapters/chapter-243.xhtml",
     "english_sha": "c3602d3f34a1750197010232d1866eeeade2773c",
     "purpose": "target245 begins Survival Contest (1)"
+  },
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "e45adb5a732165a2e5652ac87f1cd39655ee0dc4",
+    "qa_sha": "5589cb1ac93b3c509ec8afbaefd257138d58db2b"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "lodging_correction": {
+    "status": "verified",
+    "final": "Charge 70% of original lodging fee (30% discount).",
+    "basis": "Chinese C241"
   }
 }

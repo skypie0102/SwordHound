@@ -2,8 +2,8 @@
   "chapter": 240,
   "title": "National University League (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/240.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-238.xhtml",
     "english_reference_sha": "d4c8c4ef09a7eaf83610e28c094205b1b59c1795",
     "draft_path": "manuscript/drafts/chapter-0240.md",
-    "draft_sha": "98910b63c221dc6376e827f61365df9696c89fe5",
+    "draft_sha": "fa18ac55d1a56e07634b3bf83a7fb8c371cc7d0c",
     "qa_path": "qa/chapter-0240.md",
-    "qa_sha": "c58990ff5c16494cc698d9a53c23575d9cc69a74",
+    "qa_sha": "e42e1784db2b400175edb4cca456ca69c03160ec",
     "provenance_path": "editorial/provenance/chapter-0240.json",
-    "provenance_sha": "ef0a055c7904b8b4474537479206cdfeb7af47b2"
+    "provenance_sha": "01fd487b141c8d133668757d9eb51589a6017945"
   },
   "canonical_checks": [
     "Vikir",
@@ -42,5 +42,18 @@
     "Sinclaire’s ranking projection is speculation only.",
     "Lovegood attraction comedy is not relationship status."
   ],
-  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "98910b63c221dc6376e827f61365df9696c89fe5",
+    "qa_sha": "c58990ff5c16494cc698d9a53c23575d9cc69a74",
+    "provenance_sha": "ef0a055c7904b8b4474537479206cdfeb7af47b2"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  }
 }

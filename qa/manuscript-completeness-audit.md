@@ -48,7 +48,7 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 228 | Tuition (4) | 4510 | 9009 | 0.501 | REBUILT — PASS |
 | 230 | Tuition (6) | 4335 | 7841 | 0.553 | REBUILT — PASS |
 | 231 | Tuition (7) | 4862 | 8304 | 0.586 | REBUILT — PASS |
-| 242 | National University League (7) | 6070 | 10365 | 0.586 | priority review |
+| 242 | National University League (7) | 6070 | 10365 | 0.586 | REBUILT — PASS |
 | 307 | Hell Tree (1) | 4017 | 8431 | 0.476 | priority review |
 | 308 | Hell Tree (2) | 4715 | 9194 | 0.513 | priority review |
 | 309 | Hell Tree (3) | 3414 | 7938 | 0.430 | priority review |
@@ -84,7 +84,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 27 chapters (down from 47).  
+**Pending initial priority queue:** 26 chapters (down from 47).  
 **Next family:** Attack Land (190–196).
 
 ### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
@@ -93,7 +93,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
 
-**Pending initial priority queue:** 27 chapters.  
+**Pending initial priority queue:** 26 chapters.  
 **Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
 
 ### Madam Eight-Legs — Chapters 95–100 — REBUILT / PASS
@@ -104,7 +104,7 @@ Repairs include the full Ballak-village/altar sequence, scoped E94 restoration f
 
 **Chapter97 confirmed failure: RESOLVED.**  
 **Current unresolved confirmed failures:** 316, 319, 420.  
-**Pending initial priority queue:** 27 chapters.  
+**Pending initial priority queue:** 26 chapters.  
 **Next family:** Attack Land (190–196).
 
 ### Nostalgia — Chapters 101–104 — REBUILT / PASS
@@ -113,7 +113,7 @@ All four historical drafts were materially compressed and have been rebuilt. The
 
 Restored material includes the full Bog Salamander impact mechanics, Madam's death/karma and Beelzebub slot struggle, Aiyen's three-day rescue and the >4,000-person tribal gathering, Peak Sword Graduator/Seventh Fang analysis, Bakira husbandry sequence, Ballak's no-goodbye philosophy, complete multi-tribe farewell, Camus/Colosseo recollection, and Aiyen's Anubis/collar/farewell sequence.
 
-**Pending initial priority queue:** 27 chapters.  
+**Pending initial priority queue:** 26 chapters.  
 **Next family:** Attack Land (190–196), containing priority targets 192 and 196.
 
 ### Attack Land — Chapters 190–196 — REBUILT / PASS
@@ -122,14 +122,23 @@ All seven historical drafts were materially compressed, not only priority target
 
 Verified raw repairs remain explicit: C192's endpoint name slip resolves to **Pigi**, and C193's isolated department-label drift does not move Pigi out of **Cold Department Class B**.
 
-**Pending initial priority queue:** 27 chapters.
+**Pending initial priority queue:** 26 chapters.
 
 ### Tuition — Chapters 225–233 — REBUILT / PASS
 
 All nine historical drafts were materially compressed, not only priority targets 225, 228, 230, and 231. The rebuild restores the newspaper/tuition setup, financial-security reasoning, Sherpa/MiniPin recruitment arc, repeated home intrusions, Gnoll colony extermination, Poison Gnoll and hidden-bank-gold sequence, full Ms. Ouroboros encounter, appraisal/recruitment details, Thrifty Bazaar economics, and the anonymous Peri Award scholarship donation.
 
-**Pending initial priority queue:** 27 chapters.  
+**Pending initial priority queue:** 26 chapters.  
 **Next family:** National University League (236–244), containing priority target 242.
+
+### National University League — Chapters 236–244 — REBUILT / PASS
+
+All nine historical drafts were materially compressed, not only priority target 242. Rebuild restores the four-school League setup, Decarabia-vault motive, Magic Train journey, Granola/triplet compartment sequence, train-roof escape, Lovegood/Sinclaire confrontation, Mage Tower dimensional lore, competitor profiles, corrected 70%-of-original lodging charge, Varangian buffet conflict, Bollason arm-wrestling sequence, >30 challengers, and Bakilaga/Ballak recognition.
+
+Progression guards remain intact: Bakilaga's prior public level is peak Sword Expert with current Sword Graduator only rumored; Eighth Fang remains future setup; Vikir/Bakilaga has no pin or declared winner.
+
+**Pending initial priority queue:** 26 chapters.  
+**Next family:** Hell Tree (307–313).
 
 ## Confirmed failures
 

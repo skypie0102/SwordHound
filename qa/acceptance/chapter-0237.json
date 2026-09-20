@@ -2,8 +2,8 @@
   "chapter": 237,
   "title": "National University League (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "772b5bde18a38066107d57609f276d97eda92653",
-    "status": "pass"
+    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/237.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-235.xhtml",
     "english_reference_sha": "820c68da4f5b492d837a81131b1f5ab5d3bbaa1d",
     "draft_path": "manuscript/drafts/chapter-0237.md",
-    "draft_sha": "ad1c718be9fb8920a29e76753e9dd66e1e097565",
+    "draft_sha": "453bdeaa174a43d66a54225e5f6ff37b85af7a40",
     "qa_path": "qa/chapter-0237.md",
-    "qa_sha": "bcab4a1e7f177fefe9fec7d35d8c0f7c5bb834af",
+    "qa_sha": "e28e4046af16576ebd5f6a5a1f847b3fd66e5cef",
     "provenance_path": "editorial/provenance/chapter-0237.json",
-    "provenance_sha": "4fac74358fe35c9106bf93bdbb8257314656efef"
+    "provenance_sha": "d069ba47a8dc9d399466c4c3eedfb2416acce8bf"
   },
   "canonical_checks": [
     "Vikir",
@@ -41,5 +41,18 @@
   "documented_limits": [
     "Friends’ fear of Hell’s Group is based on incomplete public knowledge."
   ],
-  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1)."
+  "next_family_alignment_note": "Target245→E243 begins Survival Contest (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "ad1c718be9fb8920a29e76753e9dd66e1e097565",
+    "qa_sha": "bcab4a1e7f177fefe9fec7d35d8c0f7c5bb834af",
+    "provenance_sha": "4fac74358fe35c9106bf93bdbb8257314656efef"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  }
 }

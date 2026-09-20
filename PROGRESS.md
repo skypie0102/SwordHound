@@ -1,5 +1,20 @@
 # Reconstruction Progress
 
+## 2026-09-20 — National University League completeness rebuild (236–244)
+
+**Audit result:** all nine historical drafts were materially compressed and rebuilt; family now **PASS**.
+
+Priority target **242** is resolved.
+
+Major restorations: full League rules and Decarabia-vault motive; Magic Train/Dortsmeier travel; Granola/triplet carriage sequence; train-roof escape and Lovegood/Sinclaire confrontation; Mage Tower dimensional lore and competitor-president profiles; corrected 70%-of-original lodging charge; complete Varangian buffet conflict; Boli Bollason arm-wrestling; >30 Varangian challengers; and Bakilaga's no-pin stone-table match plus Ballak recognition of Vikir's Hunting Leader collar.
+
+Progression guards preserved: Eighth Fang is not yet attained; Bakilaga's current Graduator level remains rumor until later evidence.
+
+Initial priority queue now has **26 pending chapters**.
+
+Next audit family: **Hell Tree (307–313)**.
+
+
 ## 2026-09-20 — Tuition completeness rebuild (225–233)
 
 **Audit result:** all nine historical drafts were materially compressed and were rebuilt; family now **PASS**.

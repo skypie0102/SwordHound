@@ -1,21 +1,18 @@
 # Chapter 239 QA — National University League (4)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/national-university-league-0236-0244.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/239.txt` — `685a5dac9aa4a839013d08c4dd3f341267a70aa8`
 - English witness: **E237** — `5ae1b4877708effe3769ed7d5a2107b3e7f97c02`
-- Draft: `manuscript/drafts/chapter-0239.md` — `5561669ff4b6ea6cc40b408d891f3857fe69c00d`
+- Rebuilt draft: `manuscript/drafts/chapter-0239.md` — `1b8493633c8fb6451081e9e7dd8e3bfb6f52e33b`
 
-## Checks
-- PASS — Vikir’s glance to the triplets and the abruptly muffled scream preserve his deliberate handling of Granola.
-- PASS — cake scene keeps the child’s ‘mister’ address, cheek kiss, Vikir’s deliberate non-dodge, and ‘brother’ correction.
-- PASS — the briefly remembered girl remains unidentified.
-- PASS — Dolores’s eggs/soda comedy and warning to avoid Temisquira contact are retained.
-- PASS — Banshee searches for Professor Sadi; Vikir escapes via the train roof rather than joining.
-- PASS — Vikir’s uncertainty about his mother remains uncertain, not promoted to fact.
-- PASS — rumored royal freshman remains unidentified; no Sinclaire/other identity is inferred.
-- PASS — Merelini Lovegood’s grudge is tied to Sinclaire topping Temisquira’s entrance exam and choosing another school.
-- PASS — scarf/celebrity dispute, ‘auntie’ insult, and Lovegood’s attack attempt are preserved.
-- PASS — Vikir scatters Lovegood’s magic and steps between the two at the chapter endpoint.
+## Completeness findings
+- Restored the muffled-Granola aftermath, cake gift / “mister vs brother” beat, Dolores's eggs/soda embarrassment, and Banshee's search for Sadi.
+- PASS — Vikir evades being dragged into the Sadi search by climbing onto the moving train roof and re-entering through another car.
+- PASS — Temisquira-car atmosphere, Granola-status reflection, Vikir's uncertain actress/dancer mother rumor, and unidentified Imperial-Family freshman rumor are retained.
+- PASS — the royal freshman remains **unidentified**.
+- PASS — Merelini Lovegood's hostility is rooted in Temisquira/Colosseo entrance-exam rivalry and school pride.
+- PASS — full shawl-value/depreciation argument and Sinclaire's “auntie / glad I didn't enroll” escalation are restored.
+- PASS — Vikir disperses Lovegood's forming spell and steps between the groups at the endpoint.
