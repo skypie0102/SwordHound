@@ -2,8 +2,8 @@
   "chapter": 190,
   "title": "Attack Land (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
-    "status": "pass"
+    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/190.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-188.xhtml",
     "english_reference_sha": "14dcf17305b925b422bc79656578fb236858c9c3",
     "draft_path": "manuscript/drafts/chapter-0190.md",
-    "draft_sha": "b4993195dd51fd5de85111bb1a7bbbaf8d7f7df0",
+    "draft_sha": "4947fe8cc91d74f0f7f51db1d73afddb722cb3fa",
     "qa_path": "qa/chapter-0190.md",
-    "qa_sha": "26c78799e4df1f0b4a7da2b70727dffe2f39b479",
+    "qa_sha": "cf9e56751ea3deacd907ca70c6fa74c70769e6d7",
     "provenance_path": "editorial/provenance/chapter-0190.json",
-    "provenance_sha": "594ad925104852396ad97c724df57d476d135977"
+    "provenance_sha": "e98e7e82a6867c6de5e080a6aab03ae75687a797"
   },
   "canonical_checks": [
     "Professor Banshee Morgue",
@@ -38,5 +38,18 @@
     "Triplets' restraint remains tied to Vikir's prior order.",
     "Sadi abuse is source behavior, not generalized beyond evidence."
   ],
-  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "b4993195dd51fd5de85111bb1a7bbbaf8d7f7df0",
+    "qa_sha": "26c78799e4df1f0b4a7da2b70727dffe2f39b479",
+    "provenance_sha": "594ad925104852396ad97c724df57d476d135977"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/attack-land-0190-0196.md"
+  }
 }
