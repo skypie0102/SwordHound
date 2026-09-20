@@ -8,16 +8,16 @@
 **Confirmed needs rework:** 316, 319, 420  
 **Resolved confirmed failure:** 97  
 **Project completion:** REOPENED — manuscript completeness audit active  
-**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196), Tuition (225–233) — rebuilt / PASS  
-**Pending initial priority queue:** 27 chapters  
-**Next audit family:** National University League (236–244)
+**Completed audit families:** The Illiad (85–89), The Ghosts of the Ancestors (90–94), Madam Eight-Legs (95–100), Nostalgia (101–104), Attack Land (190–196), Tuition (225–233), National University League (236–244) — rebuilt / PASS  
+**Pending initial priority queue:** 26 chapters  
+**Next audit family:** Hell Tree (307–313)
 
-The **Tuition (225–233)** family has been rebuilt in full. Direct raw comparison found material compression across all nine historical drafts, not only priority targets 225, 228, 230, and 231.
+The **National University League (236–244)** family has been rebuilt in full. Direct raw comparison found material compression across all nine historical drafts, not only priority target 242.
 
-Restored material includes the post-festival newspaper correction and Ouroboros profile; Vikir's financial-security rationale and Banshee scholarship recommendation; full Sherpa/MiniPin setup; repeated home-intrusion coercion; MiniPin's future monster-research importance; Gnoll colony ecology and panic-based extermination mechanics; Poison Gnoll/Baby Madam; unnumbered Royal Imperial Bank gold; full Ouroboros fight and left-side reaction clue; corpse appraisal economics; MiniPin's Baskerville dream; Dolores's scholarship review; Thrifty Bazaar faction manipulation; four-year tuition payment; and the anonymous **Peri Award** with orphanage volunteer service.
+Restored material includes the complete four-academy setup and top-ten/Decarabia motive; Magic Train travel and rival-school impressions; Granola's one-sided Sinclaire motive and triplet compartment discipline; Vikir's train-roof escape and uncertain mother/royal-freshman thoughts; full Lovegood/Sinclaire clash; Mage Tower dimensional distortion and Finit hic Deus comparison; Bakilaga/Hohenheim/Lovegood/Dolores profiles; source-correct 70% lodging charge; Varangian buffet dispute; Bollason challenge; Vikir's Eighth-Fang future setup; >30 arm-wrestling challengers; and Bakilaga's Ballak-language recognition of Vikir's Hunting Leader collar.
 
 Current unresolved confirmed failures remain **316, 319, 420**.
 
-Original priority queue: 47 chapters. **27 remain.**
+Original priority queue: 47 chapters. **26 remain.**
 
-The next queued target is 242, inside **National University League (236–244)**, so the complete nine-part family will be audited together.
+The next priority run begins with **Hell Tree (307–313)**, immediately followed by **Surplus Man (314–320)** where confirmed failures 316 and 319 are already known.
