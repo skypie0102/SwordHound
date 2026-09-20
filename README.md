@@ -10,12 +10,12 @@ Current checkpoint: **post-500 manuscript completeness audit**.
 
 - Target manuscript files present: **500 / 500**
 - Historical state before audit: **500 / 500 accepted**
-- Current tracker state: **496 accepted / 4 needs rework**
-- Confirmed compressed chapters requiring rebuild: **97, 316, 319, 420**
+- Current tracker state: **497 accepted / 3 needs rework**
+- Confirmed compressed chapters still requiring rebuild: **316, 319, 420**; Chapter **97 has been rebuilt and resolved**
 - Initial priority-review queue: **47 ordinary one-target chapters** with unusually low draft/raw byte ratios (<0.60); this is a triage heuristic, not an automatic failure rule
-- Completed audit families: **The Illiad (85–89)** and **The Ghosts of the Ancestors (90–94)** — all historical drafts in both families rebuilt and passed
-- Pending initial-priority chapters: **41**
-- Next audit family: **Madam Eight-Legs (95–100)**
+- Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)** — rebuilt and passed
+- Pending initial-priority chapters: **37**
+- Next audit family: **Nostalgia (101–104)**
 - Active audit record: `qa/manuscript-completeness-audit.md`
 - EPUB assembly is **blocked until the completeness audit closes**
 
@@ -31,6 +31,12 @@ The final reconstruction PR (#125, Chapters 494–500) was merged, so the produc
 - `AGENTS.md` — mandatory agent behavior.
 - `HANDOFF.md` — exact operational continuation point.
 - `editorial/chapter-tracker.json`, `editorial/reconstruction-status.json`, `PROJECT_STATE.md`, and `PROGRESS.md` — current/historical state records.
+
+### Chapter 95 / 100 audit corrections
+
+Chapter 95 has a verified localized Chinese omission restored only from aligned E94; see `source/chinese/chapter-exceptions.tsv`.
+
+Chapter 100's historical draft crossed into Chapter 101. It now ends at the Bog Salamander cushion, matching Chinese100/E99; the impact and subsequent material belong to target101.
 
 ### Chapter 55 correction
 
