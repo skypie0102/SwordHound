@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-20 — End game (1)–(10) accepted
+
+**Current state:** 418 / 500 accepted; 0 staged; next Chapter 419.
+
+Completed targets **409–418** with mapping **E407–E416**.
+
+Key decisions: Aiyen is the unidentified intake and survives a prototype Hell Tree; Sadi/Ms. Ouroboros infiltrates under Vikir’s plan and uses Belial’s relic; Orca is the source-local Warden form; Old Man Angajumang is Marquis de Sade; Poseidon hatches an unnamed ancient anti-demon creature; and Vikir explicitly decides he wants to live and see the future beyond his previous timeline.
+
+Family QA: `qa/families/end-game-0409-0418.md` — **PASS**.
+
+Next verified family: **419–421 — Goodbye, Nouvelle Vague (1)–(3)**, mapping **E417–E419**.
+
 ## 2026-09-20 — Jailbreaker (1)–(6) accepted
 
 **Current state:** 408 / 500 accepted; 0 staged; next Chapter 409.
