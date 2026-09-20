@@ -1,0 +1,42 @@
+{
+  "chapter": 431,
+  "title": "The Lion King (2)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Lion King",
+    "range": [
+      430,
+      433
+    ],
+    "family_qa_path": "qa/families/lion-king-0430-0433.md",
+    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/431.txt",
+    "blob_sha": "6af98232ae89c84e4752b8f800d7b5ab5c895b8f",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-429.xhtml",
+    "blob_sha": "406042322e299a0305c7d7e29a78cfcdee4a7af6",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0431.md",
+    "blob_sha": "1676b78f3b02212f61e3d19d680d5071fe2458d6"
+  },
+  "qa": {
+    "path": "qa/chapter-0431.md",
+    "blob_sha": "f2f012021d200dbd6d016061fc190d86123bee03",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "key_reveals": [
+    "Cervantes deliberately kills himself with Gungnir before Chimeries can seize his body.",
+    "Residual poison/plague is identified as advanced Red Death / Leviathan-derived toxin.",
+    "Gungnir chooses Tudor."
+  ]
+}

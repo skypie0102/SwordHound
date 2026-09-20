@@ -1,0 +1,41 @@
+{
+  "chapter": 432,
+  "title": "The Lion King (3)",
+  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-20",
+  "title_family": {
+    "name": "The Lion King",
+    "range": [
+      430,
+      433
+    ],
+    "family_qa_path": "qa/families/lion-king-0430-0433.md",
+    "family_qa_sha": "6c0365783b492a6fc95a1cde2dfea7e41e0ef5ca",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/432.txt",
+    "blob_sha": "4d08404d8c2823864125631db083ca799715568e",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-430.xhtml",
+    "blob_sha": "31254a3a4408772e5865d57b958d6c8dcbba8206",
+    "authority": "secondary_reference_only_shifted_mapping"
+  },
+  "draft": {
+    "path": "manuscript/drafts/chapter-0432.md",
+    "blob_sha": "8a3a4c1022aab8d4ccfac7c827fd2931175533ba"
+  },
+  "qa": {
+    "path": "qa/chapter-0432.md",
+    "blob_sha": "bd013d0eb94a3cc3673ce56baa14baa4e3869e26",
+    "status": "pass"
+  },
+  "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
+  "accepted": true,
+  "accepted_date": "2026-09-20",
+  "key_reveals": [
+    "Chimeries intended Cervantes as a replacement body and shifts to Tudor after Cervantes's self-destruction.",
+    "Chimeries's power induces irrational courage/recklessness."
+  ]
+}
