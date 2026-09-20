@@ -1,6 +1,6 @@
 # Chapter 486: The Marquis of Discord (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/486.txt`. Recovered English Chapter 484 is the verified shifted secondary witness. Established project terminology controls Baskerville Ninth Form, Vikir, Andras, Beelzebub, Asmodeus, Kirko Grimm, Cane Corso, Gate of Destruction, Flauros, Andrealphus, and Decarabia. The aligned witness supplies the source-local flaming sword form **Kazanbai**, described there as one of the Seven Demon Swords; direct Fandom verification remains blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/486.txt`. Recovered English Chapter 484 is the verified shifted secondary witness. Established project terminology controls Baskerville Ninth Form, Vikir, Andras, Beelzebub, Asmodeus, Kirko Grimm, Cane Corso, Gate of Destruction, Flauros, Andrealphus, and Decarabia. Chinese semantics and the shifted witness establish the flaming Seven-Demon-Sword role; indexed Fandom evidence supplies the canonical English name **Mammon**, paired with Asmodeus for Andras’s dual-sword style. Direct Fandom page access remains robots-blocked.
 
 *The Ninth Form lies beyond the threshold of death…*
 
@@ -64,7 +64,7 @@ Flame roared over the hilt.
 
 The weapon looked molded from volcanic ash and water.
 
-**Kazanbai.**
+**Mammon.**
 
 One of the Seven Demon Swords.
 
@@ -94,7 +94,7 @@ Before regression—
 
 Andras had fought with two.
 
-Kazanbai.
+Mammon.
 
 And Asmodeus.
 
@@ -272,7 +272,7 @@ Then—
 
 SNAP!
 
-Kazanbai broke.
+Mammon broke.
 
 The Demon Sword shattered inside red fire.
 
