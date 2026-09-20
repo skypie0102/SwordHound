@@ -2,8 +2,8 @@
   "chapter": 193,
   "title": "Attack Land (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "78f579053e691c1060d1d470abb284c63b917d6c",
-    "status": "pass"
+    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/193.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-191.xhtml",
     "english_reference_sha": "acd22faad36952bce721780139ef55fffd16ef89",
     "draft_path": "manuscript/drafts/chapter-0193.md",
-    "draft_sha": "5d9cd9b8514b95db654a9f62635a9748bea51f9d",
+    "draft_sha": "9cc370aad266f8adff8cb85cf807e4c217120671",
     "qa_path": "qa/chapter-0193.md",
-    "qa_sha": "4a45c14358cdc5019c78d70dfe3f8d1afb37b82c",
+    "qa_sha": "40915d387dbaa8f3c9f9d70c0a3febb10631fc62",
     "provenance_path": "editorial/provenance/chapter-0193.json",
-    "provenance_sha": "cafa76bf71f54574e6b6b3dfb3b95c9097a01ab5"
+    "provenance_sha": "5e1fb4467bdd7b353ac2a09cad8fe88ea627b841"
   },
   "canonical_checks": [
     "Pigi",
@@ -37,5 +37,19 @@
     "Pigi remains Cold Department despite C193 raw label drift.",
     "Pigi's one-point hit must remain the later golem weakness seed."
   ],
-  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1)."
+  "next_family_alignment_note": "Target197→E195 is single Preparing for the Festival bridge. Target198→E196 begins The Corpse Queen (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-18",
+    "status": null,
+    "draft_sha": "5d9cd9b8514b95db654a9f62635a9748bea51f9d",
+    "qa_sha": "4a45c14358cdc5019c78d70dfe3f8d1afb37b82c",
+    "provenance_sha": "cafa76bf71f54574e6b6b3dfb3b95c9097a01ab5"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/attack-land-0190-0196.md"
+  },
+  "department_note": "Pigi remains Cold Department Class B despite isolated C193 raw label drift."
 }
