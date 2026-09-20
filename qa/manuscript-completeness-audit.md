@@ -38,10 +38,10 @@ The corpus median is about **0.85**. The initial priority queue is every ordinar
 | 97 | Madam Eight-Legs (3) | 3971 | 10214 | 0.389 | REBUILT — PASS |
 | 98 | Madam Eight-Legs (4) | 3432 | 8242 | 0.416 | REBUILT — PASS |
 | 99 | Madam Eight-Legs (5) | 3542 | 8202 | 0.432 | REBUILT — PASS |
-| 101 | Nostalgia (1) | 3928 | 8368 | 0.469 | priority review |
-| 102 | Nostalgia (2) | 4906 | 9374 | 0.523 | priority review |
-| 103 | Nostalgia (3) | 3233 | 6029 | 0.536 | priority review |
-| 104 | Nostalgia (4) | 4585 | 9066 | 0.506 | priority review |
+| 101 | Nostalgia (1) | 3928 | 8368 | 0.469 | REBUILT — PASS |
+| 102 | Nostalgia (2) | 4906 | 9374 | 0.523 | REBUILT — PASS |
+| 103 | Nostalgia (3) | 3233 | 6029 | 0.536 | REBUILT — PASS |
+| 104 | Nostalgia (4) | 4585 | 9066 | 0.506 | REBUILT — PASS |
 | 192 | Attack Land (3) | 6531 | 10933 | 0.597 | priority review |
 | 196 | Attack Land (7) | 9981 | 16893 | 0.591 | priority review |
 | 225 | Tuition (1) | 5848 | 9940 | 0.588 | priority review |
@@ -84,8 +84,8 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 Important corrections include Aiyen's bow requiring roughly five people's strength rather than having “five strings,” restoration of Ah'Heman's full Leviathan/Bourgeois authority scheme and political trap, restoration of the full Illiad background, and restoration of Chapter89's crushing rear impact before the Oxbear reveal.
 
-**Pending initial priority queue:** 37 chapters (down from 47).  
-**Next family:** Nostalgia (101–104).
+**Pending initial priority queue:** 33 chapters (down from 47).  
+**Next family:** Attack Land (190–196).
 
 ### The Ghosts of the Ancestors — Chapters 90–94 — REBUILT / PASS
 
@@ -93,7 +93,7 @@ Direct Chinese comparison showed **all five** historical drafts were materially 
 
 The rebuild restores the Oxbear conclusion and Ah'Heman's identity collapse, the full natural-law/Death-Knight explanation, Adonai's master-level bow mechanics, the complete Akwilla–Adonai wind-return duel, the ancestor-blood hostage tactic, salt-river purification, Adonai-bow recovery, and the complete Thorn-Tree Punishment ending.
 
-**Pending initial priority queue:** 37 chapters.  
+**Pending initial priority queue:** 33 chapters.  
 **Next family:** Madam Eight-Legs (95–100), including confirmed-failure Chapter 97.
 
 ### Madam Eight-Legs — Chapters 95–100 — REBUILT / PASS
@@ -104,8 +104,17 @@ Repairs include the full Ballak-village/altar sequence, scoped E94 restoration f
 
 **Chapter97 confirmed failure: RESOLVED.**  
 **Current unresolved confirmed failures:** 316, 319, 420.  
-**Pending initial priority queue:** 37 chapters.  
-**Next family:** Nostalgia (101–104).
+**Pending initial priority queue:** 33 chapters.  
+**Next family:** Attack Land (190–196).
+
+### Nostalgia — Chapters 101–104 — REBUILT / PASS
+
+All four historical drafts were materially compressed and have been rebuilt. The family also closes the corrected target100/101 boundary: target100 ends before impact; target101 exclusively owns the landing, Madam death, Venom acquisition, collapse, and rescue sequence.
+
+Restored material includes the full Bog Salamander impact mechanics, Madam's death/karma and Beelzebub slot struggle, Aiyen's three-day rescue and the >4,000-person tribal gathering, Peak Sword Graduator/Seventh Fang analysis, Bakira husbandry sequence, Ballak's no-goodbye philosophy, complete multi-tribe farewell, Camus/Colosseo recollection, and Aiyen's Anubis/collar/farewell sequence.
+
+**Pending initial priority queue:** 33 chapters.  
+**Next family:** Attack Land (190–196), containing priority targets 192 and 196.
 
 ## Confirmed failures
 
