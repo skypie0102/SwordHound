@@ -1,180 +1,274 @@
 # Chapter 329: The Shadowless King of the Black Sea (4)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/329.txt`. Recovered English Chapter 327 is the verified shifted secondary witness. Existing repo terminology controls the Water-Resistant Oil-Paper Bag, Daylily of Blood Tree, Decarabia, Styx, and Black Sea mechanics.
+> Chinese-primary reconstruction from `source/chinese/chapters/329.txt`. Recovered English Chapter 327 is the verified shifted secondary witness. Established project terminology controls the **Water-Resistant Oil-Paper Bag**, **Daylily of Blood Tree**, **Decarabia**, **River Styx**, **Immortality — Gargoyle (S)**, **Black Sea**, and **Fire of Inferiority — Blaze**. The rapid-ascent damage is preserved as story-world pressure-change mechanics without overstating real-world physiology.
 
-The oil-paper bag did not dissolve **easily** in water.
+> **<Water-Resistant Oil-Paper Bag>**
+>
+> **Type:** Bag  
+> **Grade:** D
+>
+> Tough paper that does not dissolve **easily** in water.  
+> Useful for protecting contents from moisture.
 
-That did not mean—
+Does not dissolve easily—
 
-it never dissolved.
+did not mean—
 
-Vikir had been waiting for exactly that.
+does not dissolve at all.
 
-The bag softened slowly under the Black Sea’s pressure.
+Vikir had been waiting for exactly that distinction.
+
+The bag softened under the Black Sea's pressure.
+
+Slowly.
 
 Sticky.
 
 Sagging.
 
-Breaking apart.
+Like a lump of starch left too long in water.
 
-After using up the air—
+The fibers weakened.
 
-Vikir had thrown it into the sunken ship.
+The outer layer began breaking apart.
 
-But air had never been its only cargo.
+Vikir had already used nearly all of the air inside.
+
+Then thrown the crumpled bag into the ghost ship.
+
+But air had never been the real cargo.
 
 Inside—
 
-were the Daylily seeds he had harvested earlier.
+the seeds harvested from the **Daylily of Blood Tree**.
+
+Seeds he had dug out earlier using the special vole-tooth tool.
 
 The D-grade bag finally failed.
 
-Black water entered.
+Black Water seeped through.
 
-The seeds touched it.
+Touched the seeds.
 
-Then—
+And—
 
-grew.
+they awakened.
 
-Fast.
+SWISH.
 
 Roots.
 
 Stems.
 
-And swelling air sacs.
+New growth exploded through the ship's interior.
 
-The Daylily he fought before had been starved by drought.
+The Daylily Vikir had fought on Basement Floor 3 had suffered extreme drought.
 
-Its buoyancy structures had never fully developed.
+Its air sacs had never fully matured.
 
 Here—
 
-surrounded by heavy salt water—
+the environment was different.
 
-the situation was different.
+Black Water surrounded the seeds from every direction.
 
-The plant absorbed water aggressively.
+They absorbed moisture greedily.
 
-Its sacs filled with light gas.
+Air sacs inflated.
 
-Enough—
+Round.
 
-even here—
+Light.
 
-to pull upward.
+Filled with gas.
+
+Enough to create buoyancy even in this impossibly heavy sea.
 
 Decarabia finally understood.
 
 […Of course.]
 
-[The Black Sea is cold, heavy salt water.]
+[This is Black Sea water.]
 
-[The Daylily will not grow to its full dangerous size.]
+[Cold.]
 
-[But it can still make air sacs.]
+[Heavy.]
 
-Vikir was already moving.
+[Salty.]
+
+[The Daylily cannot grow to its full dangerous size here.]
+
+[But it can still produce air sacs.]
+
+“Exactly.”
+
+The plant would remain limited—
+
+yet useful.
+
+The ghost ship rose.
 
 Then—
 
-BOOM.
+BOOM!
 
-The rising ship lurched sideways.
+The vessel lurched violently to one side.
 
-Cargo broke loose.
+Vikir—
+
+hanging from the anchor line—
+
+nearly lost his grip.
+
+CREAK—
+
+The entire hull groaned.
+
+Cargo tore free inside.
 
 Crates.
 
 Barrels.
 
-Weapons.
+Swords.
+
+Tools.
 
 Grinding stones.
 
-Heavy debris fell toward him.
+Heavy debris rained downward through the tilted ship.
 
-Vikir cut through it with aura.
+Vikir drew Beelzebub.
+
+SLASH.
+
+SLASH.
+
+Aura scattered the falling wreckage.
+
+Decarabia shouted—
 
 [Something is above us!]
 
-Decarabia shouted.
-
 “I know.”
 
-The Shadowless King had moved over the ship.
+The **Shadowless King** had moved into the ship's path.
 
-Blocking the ascent.
+Its huge translucent body—
 
-Exactly as Vikir expected.
+blocking the ascent.
 
-He climbed the anchor line.
+Exactly what Vikir wanted.
 
-Crossed the mast.
+He climbed.
 
-Reached the upper structure.
+Hand over hand.
 
-Then struck the jellyfish again and again.
+Anchor line.
 
-PUPUPUPUP!
+Hull.
+
+Mast.
+
+Then the lookout platform.
+
+From there—
+
+he jumped.
+
+PUPUPUPUPUP!
+
+Dozens of rapid strikes punched into the enormous jellyfish.
 
 The Shadowless King recoiled.
 
-Too late.
+[…!]
 
-Vikir had not merely attacked.
+[…!]
 
-He had planted seeds.
+But Vikir had not been attacking merely to injure it.
 
-Daylily seeds—
+Each cut—
 
-driven deep into the creature’s soft body.
+carried something inside.
 
-They germinated almost immediately.
+Seeds.
 
-Roots spread inward.
+Daylily seeds.
 
-Stems pierced outward.
+Driven deep into the soft translucent flesh.
 
-Air sacs swelled.
+*Good thing I kept some.*
+
+The seeds touched water.
+
+Germinated.
+
+Roots spread **inside** the jellyfish.
+
+Anchoring into soft tissue.
+
+Stems pushed **outward**.
+
+And on those stems—
+
+air sacs swelled.
+
+The Shadowless King finally panicked.
+
+HISSSSS—
 
 For the first time—
 
-the Shadowless King panicked.
+its enormous body lost control of position.
 
-Its translucent body could no longer hide in the darkness.
+Air sacs pulled upward.
 
-The Daylily exposed it.
+Roots refused to release.
 
-And the buoyant sacs—
+The creature's translucent camouflage failed too.
 
-forced it upward.
+Even if its flesh disappeared against the darkness—
 
-The jellyfish struggled.
+the Daylily stems and sacs marked its location.
 
-Tentacles whipped in every direction.
+Tentacles flailed.
 
-But its body was not built for fast, powerful swimming.
+Trying to cut the growths away.
 
-The ship began rising again.
+Trying to swim deeper.
 
-This time—
+But its body was built for drifting—
 
-dragging the Shadowless King with it.
+not explosive, powerful movement.
+
+Below—
+
+the ghost ship resumed rising.
+
+Now—
+
+ship and monster—
+
+together.
+
+The Shadowless King attacked.
+
+Tentacles lashed toward Vikir.
 
 Then—
 
-POP.
+POP!
 
-One tentacle burst.
+One burst.
+
+POP!
 
 Another.
 
-POP!
+POP! POP!
 
-POP!
+Pieces of the jellyfish tore open.
 
 Decarabia stared.
 
@@ -184,51 +278,71 @@ Decarabia stared.
 
 “No.”
 
-The cause—
+Vikir already felt the effect himself.
 
-was pressure.
+Pressure.
 
-The jellyfish was being hauled from extreme depth toward the surface far too quickly.
+The ship and Shadowless King were rising too quickly from extreme depth.
 
-Deep-sea creatures suffered violently when pressure changed.
+The story-world pressure difference—
 
-Bodies expanded.
+deep sea to shallower water—
 
-Tissues failed.
+was damaging the creature's soft body.
 
-Divers could die from the same kind of difference.
+Fishermen sometimes dragged deep-sea creatures upward and found them grotesquely swollen.
 
-Vikir felt dizziness himself.
+Divers too could suffer terribly from rapid changes in pressure.
 
-But the protection of the Styx.
+Vikir's own head rang.
 
-Mana control.
+His vision threatened to swim.
 
-And Immortality—
+He forced control.
 
-kept his body together.
+The blessing of the **River Styx**.
 
-The Shadowless King was not so fortunate.
+Mana circulation.
 
-Its soft body responded badly to sudden decompression.
+And **Immortality — Gargoyle (S)**—
 
-It tried to return to the trench.
+kept him functional.
 
-Could not.
+The Shadowless King—
 
-The Daylily roots and air sacs had locked it into the ascent.
+a soft-bodied deep-sea organism—
+
+handled the ascent much worse.
+
+It tried to descend.
+
+The Daylily air sacs prevented it.
+
+Roots.
+
+Stems.
+
+Buoyancy.
+
+Every attempt only tore more tissue.
 
 Then—
 
 BOOM!
 
-The ship broke the surface.
+The ghost ship broke through the surface.
 
 So did the Shadowless King.
 
+Wind.
+
+Open sky.
+
+Sea spray.
+
 Far away—
 
-the island was visible.
+the island.
 
 Highbro.
 
@@ -240,109 +354,135 @@ The Beetlemen.
 
 All waiting.
 
-“Hooray!”
+“MASTER!”
 
-“Master brought the ship back!”
-
-“He did it!”
+“He raised it!”
 
 “He did it!”
 
-The Beetlemen shouted too.
+“He did it!”
+
+The Beetlemen erupted too.
 
 [The ship!]
 
+[Our ship!]
+
 [We can finally leave!]
 
-[Our escape mission is possible!]
+[Escape is possible!]
 
 Then—
 
-the cheers died.
+the cheering died.
 
-The Shadowless King spread across the surface.
+The Shadowless King spread across the sea.
 
-Huge.
+On the surface—
 
-Like a monstrous jellyfish flattened across the sea.
+its huge bell flattened like an enormous jellyfish pancake.
 
-Its body was torn from pressure damage.
+Pressure damage had left parts of it ruptured.
 
-Daylily roots and sacs protruded everywhere.
+Daylily roots and air sacs covered its body.
 
 Still—
 
-it attacked.
+the monster attacked.
 
-Tentacles lashed outward.
+WHOOSH.
 
-Hundreds of murky eyes focused on Vikir.
+Tentacles spread.
 
-Decarabia asked:
+Hundreds of murky eyes turned toward Vikir.
 
-[Now what?]
+Decarabia asked—
 
-[Running is clearly best.]
+[What now?]
 
-The ship had been recovered.
+[Running appears to be the obvious answer.]
 
-There was no obvious reason to risk more.
+The objective had been ship recovery.
 
-Vikir looked at the monster.
+That was already achieved.
 
-“I don’t start things without certainty.”
+There was no need to risk death against an S-rank resident.
 
-Then shouted:
+Vikir looked at the jellyfish.
 
-“Move the ship!”
+“I don't start things without confidence.”
 
-The Beetlemen flew to the vessel.
+Then shouted—
 
-Clung to mast and sails.
+“MOVE THE SHIP!”
+
+The Beetlemen flew.
+
+They attached themselves to—
+
+mast.
+
+sails.
+
+rigging.
+
+wings beating furiously.
 
 [To the island!]
 
 [Push!]
 
-[The storm is passing!]
+[The storm is easing!]
 
-The ship moved.
+[Move!]
 
-The Shadowless King reached for them.
+The vessel began sliding across the Black Sea.
+
+The Shadowless King tried to seize it.
 
 Vikir intercepted.
 
-CUT.
+SLASH.
 
-CUT.
+SLASH.
 
-CUT.
+SLASH.
 
-The tentacles were difficult even for Graduator-class aura—
+Graduator-class aura alone was not enough to casually cut S-rank tentacles.
 
-but Starvation Drought multiplied the effect.
+But **Starvation Drought** changed the equation.
 
-The jellyfish’s eyes reddened.
+Every cut dried the wet tissue.
 
-Killing intent flooded the sea.
+Shriveled it.
 
-Even the Beetlemen faltered.
+Stopped regeneration.
 
-Vikir answered with heat.
+The hundreds of eyes under the jellyfish bell—
 
-A flame appeared over his fingers.
+filled with blood.
 
-**<Fire of Inferiority — Blaze>**
+Killing intent struck hard enough that several Beetlemen nearly stopped flying.
 
-**Grade:** A+  
-**Heat:** +1,000
+Vikir answered—
 
-Dogma’s final flame.
+with heat.
 
-A fire fed by inferiority itself.
+A dark red flame ignited on his fingertips.
+
+> **<Fire of Inferiority — Blaze>**
+>
+> **Type:** Flint  
+> **Grade:** A+
+>
+> Burns using inferiority buried in the wielder's heart.
+>
+> **Heat: +1,000**
+
+Dogma's final flame.
 
 Vikir carried it toward the Shadowless King.
 
-Toward the Daylily air sacs rooted throughout its body.
+Toward the Daylily air sacs spreading throughout its body.
 
-“Let’s see how far the fire spreads.”
+“Let's see how far the fire travels.”
