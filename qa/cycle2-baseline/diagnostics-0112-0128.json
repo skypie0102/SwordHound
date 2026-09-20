@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    112,
+    128
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 112,
+      "title": "The Great Banquet (3)",
+      "draft_blob_sha": "27b54038ae1c5453ba0a966903336ed9f108b4b3",
+      "draft_raw_byte_ratio": 0.933715,
+      "metrics": {
+        "char_count": 7338,
+        "line_count": 294,
+        "nonempty_line_count": 147,
+        "paragraph_count": 147,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 94,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 6.814,
+        "opening_signature": "bd4a6954",
+        "closing_signature": "b00d552b"
+      }
+    },
+    {
+      "chapter": 113,
+      "title": "The Great Banquet (4)",
+      "draft_blob_sha": "f59a44417a519f9e9bf9298eeb36941b7f3e8c11",
+      "draft_raw_byte_ratio": 1.017926,
+      "metrics": {
+        "char_count": 8030,
+        "line_count": 386,
+        "nonempty_line_count": 193,
+        "paragraph_count": 193,
+        "dialogue_line_count": 40,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 111,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 11.208,
+        "opening_signature": "9656969b",
+        "closing_signature": "e4eab446"
+      }
+    },
+    {
+      "chapter": 114,
+      "title": "The Great Banquet (5)",
+      "draft_blob_sha": "1995c37b51d9d9316540527d8df9c13dac17369f",
+      "draft_raw_byte_ratio": 0.988866,
+      "metrics": {
+        "char_count": 8057,
+        "line_count": 333,
+        "nonempty_line_count": 168,
+        "paragraph_count": 165,
+        "dialogue_line_count": 22,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 68,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.241,
+        "opening_signature": "2ee26dcc",
+        "closing_signature": "8f7f487e"
+      }
+    },
+    {
+      "chapter": 115,
+      "title": "The Great Banquet (6)",
+      "draft_blob_sha": "2aff46596931d301024a3491a29ddc76a59a597e",
+      "draft_raw_byte_ratio": 0.959887,
+      "metrics": {
+        "char_count": 11033,
+        "line_count": 460,
+        "nonempty_line_count": 230,
+        "paragraph_count": 230,
+        "dialogue_line_count": 38,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 112,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 8.157,
+        "opening_signature": "3c9e44e6",
+        "closing_signature": "71bfdb99"
+      }
+    },
+    {
+      "chapter": 116,
+      "title": "The Great Banquet (7)",
+      "draft_blob_sha": "0f00d5ae777b8868e436d7d87bb42c76d7ddf24e",
+      "draft_raw_byte_ratio": 1.06911,
+      "metrics": {
+        "char_count": 9276,
+        "line_count": 426,
+        "nonempty_line_count": 213,
+        "paragraph_count": 213,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 102,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 8,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 8.624,
+        "opening_signature": "455d82ad",
+        "closing_signature": "068eb84a"
+      }
+    },
+    {
+      "chapter": 117,
+      "title": "Falling in Love (1)",
+      "draft_blob_sha": "de2e145ed300b2102edcf9ab4f06f06b5409ea59",
+      "draft_raw_byte_ratio": 1.120956,
+      "metrics": {
+        "char_count": 11332,
+        "line_count": 422,
+        "nonempty_line_count": 213,
+        "paragraph_count": 209,
+        "dialogue_line_count": 39,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 117,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 3.53,
+        "opening_signature": "1c58193e",
+        "closing_signature": "6e87f9ac"
+      }
+    },
+    {
+      "chapter": 118,
+      "title": "Falling in Love (2)",
+      "draft_blob_sha": "8d90bea9114c99a3534bbbed3cde169945ebcc43",
+      "draft_raw_byte_ratio": 1.154849,
+      "metrics": {
+        "char_count": 10429,
+        "line_count": 424,
+        "nonempty_line_count": 212,
+        "paragraph_count": 212,
+        "dialogue_line_count": 35,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 89,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 6.712,
+        "opening_signature": "795c9ca1",
+        "closing_signature": "6d000d0e"
+      }
+    },
+    {
+      "chapter": 119,
+      "title": "Falling in Love (3)",
+      "draft_blob_sha": "be0515417df37d6e41e23b155b0d93f875de22b5",
+      "draft_raw_byte_ratio": 1.190793,
+      "metrics": {
+        "char_count": 10437,
+        "line_count": 474,
+        "nonempty_line_count": 237,
+        "paragraph_count": 237,
+        "dialogue_line_count": 51,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 131,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 1.916,
+        "opening_signature": "e16944ce",
+        "closing_signature": "aa0c617f"
+      }
+    },
+    {
+      "chapter": 120,
+      "title": "The Hunt for the Second Son (1)",
+      "draft_blob_sha": "d4477ea24b1fe621842971e97b6d21ffdb45fb39",
+      "draft_raw_byte_ratio": 1.327847,
+      "metrics": {
+        "char_count": 10525,
+        "line_count": 636,
+        "nonempty_line_count": 318,
+        "paragraph_count": 318,
+        "dialogue_line_count": 77,
+        "bracket_window_candidate_lines": 19,
+        "quote_marker_count": 206,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 20,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 22,
+        "explicitness_per_10k_chars": 20.903,
+        "opening_signature": "eff013be",
+        "closing_signature": "4ad3d03d"
+      }
+    },
+    {
+      "chapter": 121,
+      "title": "The Hunt for the Second Son (2)",
+      "draft_blob_sha": "258e14cd08510d9a5790a042d7f77de135e77eeb",
+      "draft_raw_byte_ratio": 1.217416,
+      "metrics": {
+        "char_count": 10615,
+        "line_count": 580,
+        "nonempty_line_count": 295,
+        "paragraph_count": 285,
+        "dialogue_line_count": 21,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 84,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 23,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 25,
+        "explicitness_per_10k_chars": 23.552,
+        "opening_signature": "c3ec84b1",
+        "closing_signature": "f319fcad"
+      }
+    },
+    {
+      "chapter": 122,
+      "title": "The Hunt for the Second Son (3)",
+      "draft_blob_sha": "e602bde57f5b6e492f13b3baa6b0ef10558f700d",
+      "draft_raw_byte_ratio": 1.092776,
+      "metrics": {
+        "char_count": 10123,
+        "line_count": 568,
+        "nonempty_line_count": 289,
+        "paragraph_count": 279,
+        "dialogue_line_count": 6,
+        "bracket_window_candidate_lines": 26,
+        "quote_marker_count": 51,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 42,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 42,
+        "explicitness_per_10k_chars": 41.49,
+        "opening_signature": "a199357c",
+        "closing_signature": "09901615"
+      }
+    },
+    {
+      "chapter": 123,
+      "title": "The Hunt for the Second Son (4)",
+      "draft_blob_sha": "dee8dcfcab8bbd47556f0bf927aabb9234b1829d",
+      "draft_raw_byte_ratio": 1.068741,
+      "metrics": {
+        "char_count": 9377,
+        "line_count": 532,
+        "nonempty_line_count": 268,
+        "paragraph_count": 264,
+        "dialogue_line_count": 7,
+        "bracket_window_candidate_lines": 18,
+        "quote_marker_count": 52,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 16,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 18,
+        "explicitness_per_10k_chars": 19.196,
+        "opening_signature": "27309261",
+        "closing_signature": "b5ce75c5"
+      }
+    },
+    {
+      "chapter": 124,
+      "title": "The Hunt for the Second Son (5)",
+      "draft_blob_sha": "8114a7553a9cd68fcccd49206c4ca54ec7290558",
+      "draft_raw_byte_ratio": 1.203165,
+      "metrics": {
+        "char_count": 12446,
+        "line_count": 784,
+        "nonempty_line_count": 392,
+        "paragraph_count": 392,
+        "dialogue_line_count": 45,
+        "bracket_window_candidate_lines": 19,
+        "quote_marker_count": 151,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 19,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 19,
+        "explicitness_per_10k_chars": 15.266,
+        "opening_signature": "949e0abb",
+        "closing_signature": "f484e1c7"
+      }
+    },
+    {
+      "chapter": 125,
+      "title": "The Hunt for the Second Son (6)",
+      "draft_blob_sha": "e2ece44fa09a28b1d2304400172db09b1935a85d",
+      "draft_raw_byte_ratio": 1.444671,
+      "metrics": {
+        "char_count": 11135,
+        "line_count": 540,
+        "nonempty_line_count": 273,
+        "paragraph_count": 267,
+        "dialogue_line_count": 29,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 99,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 1.796,
+        "opening_signature": "b300149e",
+        "closing_signature": "888c874b"
+      }
+    },
+    {
+      "chapter": 126,
+      "title": "Admission to the Academy (1)",
+      "draft_blob_sha": "b2bd803effb51401c8dd8c301daa4d198f44a214",
+      "draft_raw_byte_ratio": 1.258584,
+      "metrics": {
+        "char_count": 9754,
+        "line_count": 429,
+        "nonempty_line_count": 220,
+        "paragraph_count": 209,
+        "dialogue_line_count": 19,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 54,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "ad93da79",
+        "closing_signature": "2779a124"
+      }
+    },
+    {
+      "chapter": 127,
+      "title": "Admission to the Academy (2)",
+      "draft_blob_sha": "7540762d2a61b23a92215dd89805f9af5af746e4",
+      "draft_raw_byte_ratio": 1.160998,
+      "metrics": {
+        "char_count": 11432,
+        "line_count": 600,
+        "nonempty_line_count": 303,
+        "paragraph_count": 297,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 92,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 3.499,
+        "opening_signature": "901da245",
+        "closing_signature": "3f80b731"
+      }
+    },
+    {
+      "chapter": 128,
+      "title": "Admission to the Academy (3)",
+      "draft_blob_sha": "399ad580996f4b9af70d044694f38a393cfe7005",
+      "draft_raw_byte_ratio": 1.026347,
+      "metrics": {
+        "char_count": 8333,
+        "line_count": 440,
+        "nonempty_line_count": 220,
+        "paragraph_count": 220,
+        "dialogue_line_count": 69,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 164,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "5ae1e34b",
+        "closing_signature": "38743569"
+      }
+    }
+  ]
+}
