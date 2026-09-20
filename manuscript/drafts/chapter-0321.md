@@ -1,6 +1,6 @@
 # Chapter 321: Underdogma (1)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/321.txt`. Recovered English Chapter 319 is the verified shifted secondary witness. Established repo terminology controls Vikir, Decarabia, Highbro / Middlebro / Lowbro Le Baskerville, Colosseo Academy, Dolores, and the Hell Tree. Direct Fandom verification remains robots-blocked.
+> Chinese-primary reconstruction from `source/chinese/chapters/321.txt`. Recovered English Chapter 319 is the verified shifted secondary witness. Established project terminology controls **Vikir**, **Decarabia**, **Dogma**, **Colosseo Academy**, **Highbro / Middlebro / Lowbro Le Baskerville**, the **Commoner Faction**, and the **Hell Tree**. Direct Fandom verification remains robots-blocked.
 
 Ding.
 
@@ -8,193 +8,295 @@ Ding.
 
 [Entering Basement Floor 4 — Island in the Black Sea.]
 
-The ruined Imperial Capital disappeared.
+The ruined Imperial Capital vanished.
 
-The tsunami that had chased the survivors into the portals vanished too.
+So did the tidal wave that had chased everyone into the narrow portals.
 
-All sixty-eight survivors had been scattered through one-person gates.
+All sixty-eight survivors were scattered—
+
+each through a one-person gate.
 
 When Vikir opened his eyes—
 
 he was alone.
 
-On an island.
+“An ocean.”
 
-In the middle of a vast black sea.
+Dry black sand clung to his face.
 
-“…An ocean.”
+Damp wind blew in from every direction.
 
-He brushed dry sand from his face.
+The island beneath him looked less like proper land—
 
-Wet wind blew across the shore.
+and more like a low mound pushed up from the sea.
 
-The island looked like little more than a mound rising from the water.
+Dead trees stood inside gray mist.
 
-Dead trees showed through gray fog like exposed bones.
+Thin.
 
-Vikir walked to the edge.
+Twisted.
 
-Dipped one hand into the sea.
+Like exposed bones.
 
-Black.
+Vikir walked to the shoreline.
 
-So dark that once his arm sank past the elbow—
+Splash.
 
-he could no longer see it.
+He submerged one hand.
 
-He moved his hand.
+The water was completely black.
+
+When he lowered his arm past the elbow—
+
+even the back of his own hand disappeared from sight.
+
+He moved experimentally.
+
+Splash.
+
+Splash.
 
 Slow.
 
-Heavy.
+Far too slow.
 
-The water had almost no buoyancy.
+The water was much heavier than ordinary seawater.
 
-Hair and cloth sank instead of floating.
+Almost no buoyancy.
 
-“…Black water.”
+Hair.
 
-There were stories of a forbidden sea at the edge of the world.
+Cloth.
 
-Water black and heavy as molten lead.
+Anything placed inside it—
 
-Ships entered normally—
+sank instead of floating.
 
-then simply sank.
+“…Black Water.”
 
-Anything dropped into it—
+Stories existed about a forbidden sea at the far edge of the world.
+
+Water black and heavy as melted lead.
+
+Ships could be sailing normally—
+
+then cross into that region and sink for no obvious reason.
+
+Anything falling into it—
 
 never came back up.
 
-Vikir withdrew his arm.
+Vikir looked toward the horizon.
 
-On the horizon—
+A violent storm circled the island.
 
-a violent storm circled the island.
+Wind.
 
-He walked inland.
+Rain.
 
-Half the island was black sand.
+Black waves.
 
-The other half—
+As though the weather itself were forming a wall.
 
-white soil threaded with sticky fungal strands.
+He returned inland.
 
-“Two incompatible environments forced together.”
+The beach was black sand.
+
+Beyond it—
+
+white soil.
+
+Sticky white threads ran between the soil particles like fermented paste.
+
+“Fungal sand.”
+
+Half the island—
+
+black shore.
+
+Half—
+
+white fungal earth.
+
+Two environments that did not belong together.
+
+Forced into one ecosystem.
+
+Vikir looked over the dead plants.
+
+“Different habitats sewn together.”
+
+“No wonder the ground dried out and the vegetation died.”
 
 Decarabia spoke from his chest.
 
-[Amdusias collects pieces of worlds.]
+[Amdusias is a collector of worlds.]
 
-[He tears out environments he likes and stores them inside the Hell Tree.]
+[He travels.]
 
-Vikir thought of the copied Academy.
+[Chooses pieces of worlds that interest him.]
+
+[Then stores them inside the Abyssal Water.]
+
+[This is one of those fragments.]
+
+The copied Academy.
 
 The copied Imperial Capital.
 
+Now—
+
+this.
+
 It fit.
 
-“What happens to living creatures when he takes part of a world?”
+“What happens to the living things inside a world fragment when he takes it?”
 
-[They are taken too.]
+[They come too.]
 
 [Then they become challengers inside the tower.]
 
-So there could be earlier inhabitants here.
+Meaning—
 
-Humans.
+people or monsters could have entered this layer long before the Colosseo students.
 
-Monsters.
+Vikir moved toward the island's center.
 
-Anything.
+Then stopped.
 
-Then Vikir found the island’s center.
+One thing still lived.
 
-A massive black root rose from the ground.
+Or at least—
 
-No branches.
+had not fully died.
+
+A gigantic black root twisted out of the ground.
 
 No leaves.
 
-Only twisted bark.
+No branches.
 
-“A leftover root of the Hell Tree.”
+Only bark like burned iron.
 
-He climbed.
+“A residual root.”
+
+A fragment connected to the Hell Tree's greater body.
+
+Lost here after the environment had been torn away and transplanted.
+
+Vikir climbed.
+
+The bark was hard enough to serve as a cliff face.
 
 Eventually—
 
 he found a hollow.
 
-Inside—
+Red liquid pooled inside.
 
-red sap pooled like blood.
+Bright as blood.
 
-Vikir tasted one drop.
+Vikir touched one finger to it.
+
+Tasted.
 
 Sweet.
 
+Thin.
+
 Edible.
 
-Pre-regression memoirs had mentioned survivors living on Hell Tree sap.
+Old survivor memoirs had described this.
 
-He drank.
+People had survived inside the Hell Tree by drinking residual root sap.
 
-Enough to moisten his body.
+Vikir lowered his face.
 
-Then stopped.
+Drank.
+
+Enough to wet his throat.
+
+Enough to make his starved organs feel human again.
+
+Then—
+
+he stopped.
 
 Decarabia approved.
 
 [Good.]
 
-[Humans can only drink so much demon-tree sap at once.]
+[Demon-tree sap can be consumed only in limited amounts.]
 
-[Too much—
+[Too much at once—]
 
-and the body begins to change.]
+[and a human body begins to monsterize.]
 
 “I know.”
 
-Vikir climbed back down.
+Vikir climbed down.
 
-Then—
+Before his feet touched the white earth—
 
 “Hey!”
 
-“Who are you?!”
+“Who are you!?”
 
-Students appeared below.
+Several students appeared on the slope below.
 
-Faces he recognized from Colosseo.
+Colosseo uniforms.
 
-Not people he had seen on Floor3.
+Faces Vikir recognized.
 
-They had clearly arrived by a different route.
+But not people he had seen on Basement Floor 3.
 
-“Who told you to drink our sap?!”
+They watched him with bloodshot eyes.
 
-“It’s our turn!”
+“Who told you to drink that sap!?”
 
-“Where did this thief come from?!”
+“It was our turn!”
 
-More students appeared.
+“Where did you come from!?”
 
-Thin.
+“Thief!”
+
+More students emerged.
+
+One after another.
+
+Every one of them—
+
+thin.
 
 Exhausted.
 
-Bloodshot eyes.
+Hollow-cheeked.
 
-A leader stepped forward.
+If they had reached this floor earlier—
 
-“I’m **Dogma**.”
+they had clearly been here a long time.
 
-“Third-year Hot Department.”
+Tower chronology was unreliable.
+
+Vikir should have spent up to sixty-eight days on Floor 3.
+
+The fairy had ended that stage immediately.
+
+So these students could easily have arrived earlier despite entering the tower later.
+
+*Then they cleared Floor 3 before us.*
+
+A man stepped forward.
+
+“I am **Dogma**.”
+
+“Third-year.”
+
+“Hot Department.”
 
 “Vice President of the Student Council.”
 
-“You know me, right?”
+“You know my face.”
 
 Vikir did.
 
@@ -202,25 +304,39 @@ Dogma.
 
 Commoner.
 
-Born in Underdog City.
+Born in **Underdog City**.
 
-High-ranked student.
+Third-year Hot Department.
 
-Lost the final third-year ranking match to Dolores.
+Second in the year.
 
-A talented student with a deep inferiority complex about his birth—
+Lost the final ranking match to Dolores.
 
-and an intense rivalry toward Dolores.
+Talented.
 
-Dogma looked at Vikir.
+Ambitious.
 
-“You’re Vikir.”
+And deeply sensitive about his origin.
+
+He also carried a complicated admiration and rivalry toward Dolores—
+
+student council president.
+
+first in the year.
+
+high-born.
+
+Everything Dogma believed the world had denied him.
+
+Dogma pointed toward the sap root.
+
+“You're Vikir.”
 
 “First-year Cold Department.”
 
-“Looks like you finally joined **our** floor.”
+“So you've finally joined **our side**.”
 
-He pointed toward the sap root.
+His tone implied ownership of the entire floor.
 
 “There are rules here.”
 
@@ -228,11 +344,11 @@ He pointed toward the sap root.
 
 “We take turns.”
 
-“You broke the rule.”
+“You broke the order.”
 
-“Who made it?”
+Vikir asked—
 
-Vikir asked.
+“Who made that rule?”
 
 Dogma answered immediately.
 
@@ -240,107 +356,143 @@ Dogma answered immediately.
 
 Vikir tilted his head.
 
-There had never been a Commoner Faction at Colosseo.
+No such organization had existed at Colosseo.
 
-Student Council.
+There had been three major forces.
 
-Aristocrat Faction.
+The official Student Council.
 
-Tycoon Faction.
+The informal noble faction.
 
-Those existed.
+The informal power-family faction.
 
-But “commoner” had never been a formal political bloc.
+But a **Commoner Faction**?
+
+Commoner status had never functioned as a coherent bloc.
 
 *So this was born inside the tower.*
 
 Dogma smiled.
 
-“The outside world belongs to people born with everything.”
+“The outside world is controlled by people who were born ahead.”
 
 “Money.”
 
-“Names.”
+“Looks.”
 
-“Power.”
+“Family.”
 
-“Talent.”
+“Education.”
+
+“Strength.”
 
 “Connections.”
 
+“Everything that gives a person advantage before effort even begins.”
+
+He spread his arms.
+
 “But here?”
 
-“Everything starts over.”
+“Everything is reset.”
 
-“Levels.”
+“Zero base.”
+
+“A perfectly equal starting line.”
+
+“Level.”
 
 “Stats.”
 
 “Items.”
 
-“Effort becomes visible.”
+“Effort becomes measurable.”
 
-“Reward becomes measurable.”
+“Reward follows effort.”
 
-“A truly fair world.”
+The roughly twenty students gathered around him were all commoners.
 
-His voice grew hotter.
+Their expressions sharpened.
 
-“People like us were born already behind.”
+Dogma continued.
+
+“We were born carrying original sin.”
 
 “Poor parents.”
 
-“Ordinary bodies.”
+“Ordinary blood.”
 
-“No family name.”
+“Ugly faces.”
 
-“No inherited power.”
+“Weak bodies.”
 
-“But here—
+“Average talent.”
 
-anyone can climb.”
+“And then people above us said we simply didn't work hard enough.”
+
+“Here—
+
+that excuse is gone.”
+
+“Everyone begins again.”
 
 “For the first time—
 
 we can surpass the people who always looked down on us.”
 
-Around twenty students listened with wet eyes.
+His voice shook with conviction.
 
-Dogma held out a hand.
+“I know what your life was like too.”
 
-“You’re a commoner too.”
+“You're a commoner.”
 
-“You know what it’s like.”
+“You fought the noble and power-family factions at the auction.”
 
-“I saw what you did to the aristocrats and tycoons at the auction.”
+“I was watching.”
 
-“They always tried to suppress people like us.”
+“They hated seeing someone like you rise.”
 
-“I couldn’t help you before.”
+“I wanted to help you then.”
 
-“But now I can.”
+“But I was barely protecting myself.”
+
+“Now it's different.”
+
+Dogma held out his hand.
 
 “Join us.”
 
-Vikir looked around.
+“How long are we supposed to let the structures created by previous generations squeeze us dry?”
 
-Then asked:
+Several commoner students nodded with wet eyes.
 
-“What happened to the other survivors?”
+Warmth spread through the group.
 
-Dogma’s smile changed.
+Solidarity.
 
-About fifty students had apparently reached Floor3 earlier.
+Recognition.
 
-Only these twenty commoners had survived from that group.
+Belonging.
 
-“And the ones who weren’t commoners?”
+Vikir looked past them.
 
-Dogma shrugged.
+“…What happened to the other survivors?”
 
-“You went through the Daylily stage.”
+Dogma paused.
 
-“You know.”
+Vikir continued.
+
+“Students who were not commoners.”
+
+About fifty people from a prior Floor 3 group should have had to face the Daylily stage.
+
+Only these twenty stood here.
+
+Dogma's smile returned.
+
+“Isn't it obvious?”
+
+“You came through Floor 3 too.”
 
 “They became food.”
 
@@ -348,34 +500,40 @@ Dogma shrugged.
 
 Vikir asked.
 
-Dogma did not answer.
+Dogma said nothing.
 
-Instead—
+Only smiled.
 
-he gestured.
+Then gestured.
 
-Chains scraped across the ground.
+Chains scraped.
 
-Several battered figures were dragged out from behind dead trees.
+Clink.
+
+Clink.
+
+Several students dragged battered figures from behind a line of dead trees.
 
 Iron collars around their necks.
 
 Long chains.
 
-Bruises everywhere.
+Bruises.
 
-Vikir narrowed his eyes.
+Dried blood.
 
-He knew them.
+Signs of repeated beating.
 
-Highbro.
+Vikir's eyes narrowed.
 
-Middlebro.
+He knew all three faces.
 
-Lowbro Le Baskerville.
+**Highbro Le Baskerville.**
 
-The Baskerville Trident.
+**Middlebro Le Baskerville.**
 
-All three—
+**Lowbro Le Baskerville.**
+
+The Baskerville Trident—
 
 chained like dogs.

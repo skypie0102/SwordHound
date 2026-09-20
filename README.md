@@ -10,14 +10,14 @@ Current checkpoint: **post-500 manuscript completeness audit**.
 
 - Target manuscript files present: **500 / 500**
 - Historical state before audit: **500 / 500 accepted**
-- Current tracker state: **497 accepted / 3 needs rework**
-- Confirmed compressed chapters still requiring rebuild: **316, 319, 420**; Chapter **97 has been rebuilt and resolved**
+- Current tracker state: **499 accepted / 1 needs rework**
+- Confirmed compressed chapter still requiring rebuild: **420**; Chapters **97, 316, and 319 have been rebuilt and resolved**
 - Initial priority-review queue: **47 ordinary one-target chapters** with unusually low draft/raw byte ratios (<0.60); this is a triage heuristic, not an automatic failure rule
-- Completed audit families: **Nostalgia (101–104)** added after the Madam boundary repair.
+- Latest completed audit family: **Surplus Man (314–320)** — all seven rebuilt; confirmed failures 316 and 319 resolved.
 
-Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)** — rebuilt and passed
-- Pending initial-priority chapters: **12**
-- Next audit family: **Underdogma (321–325)**
+Completed audit families: **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, **Madam Eight-Legs (95–100)**, **Nostalgia (101–104)**, **Attack Land (190–196)**, **Tuition (225–233)**, **National University League (236–244)**, **Hell Tree (307–313)**, and **Surplus Man (314–320)** — rebuilt and passed
+- Pending initial-priority chapters: **7**
+- Next audit family: **The Shadowless King of the Black Sea (326–330)**
 - Active audit record: `qa/manuscript-completeness-audit.md`
 - EPUB assembly is **blocked until the completeness audit closes**
 
@@ -62,10 +62,7 @@ There is no standalone `055.txt`, but Chapter 55 is **not English-only**. Accept
 
 The initial deterministic triage compares draft byte size with Chinese raw byte size for ordinary one-target containers. The corpus median is about 0.85; chapters under 0.60 are prioritized for direct review, and chapters under 0.50 are strong suspects. Byte ratio is only a detector, never proof.
 
-Direct comparison has already confirmed:
-- Chapter 97 — *Madam Eight-Legs (3)*
-- Chapter 316 — *Surplus Man (3)*
-- Chapter 319 — *Surplus Man (6)*
+Direct comparison confirmed four historical failures. **97, 316, and 319 are now rebuilt and resolved.** The sole unresolved confirmed failure is:
 - Chapter 420 — *Goodbye, Nouvelle Vague (2)*
 
 Direct family review has also shown that chapters above the byte-ratio threshold can still be compressed: Chapters 85–86 and 90–91 were not initially flagged but failed strict source-coverage review and were rebuilt with their complete title families. See `qa/manuscript-completeness-audit.md` for the review queue, completed families, and family-first order.

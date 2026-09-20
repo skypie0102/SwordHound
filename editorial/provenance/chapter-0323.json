@@ -1,7 +1,7 @@
 {
   "chapter": 323,
   "title": "Underdogma (3)",
-  "source_policy": "chinese_semantic_fandom_canonical_shifted_english_mapping_2026-09-19",
+  "source_policy": "chinese_semantic_project_canonical_shifted_english_mapping_completeness_rebuild_2026-09-20",
   "title_family": {
     "name": "Underdogma",
     "range": [
@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "ccd94c339e3657e892744102f11771b2c5b8d107",
-    "status": "pass"
+    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
+    "status": "pass_after_completeness_rebuild"
   },
   "primary_source": {
     "path": "source/chinese/chapters/323.txt",
@@ -24,14 +24,27 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0323.md",
-    "blob_sha": "5f8072959fe21a7251c860cbc63cb608993ac040"
+    "blob_sha": "3bd61ff5d59d1243dd3fad02a41937a29a1f9534"
   },
   "qa": {
     "path": "qa/chapter-0323.md",
-    "blob_sha": "8015c102c50f8000ba455e3a9a72f92cbe22e634",
-    "status": "pass"
+    "blob_sha": "ded0636911e436dd400faac590c5587215b2159e",
+    "status": "pass_after_completeness_rebuild"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-20",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "draft_sha": "5f8072959fe21a7251c860cbc63cb608993ac040",
+    "qa_sha": "8015c102c50f8000ba455e3a9a72f92cbe22e634"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
+    "family_evidence": "qa/families/underdogma-0321-0325.md",
+    "initial_priority_target": true
+  }
 }

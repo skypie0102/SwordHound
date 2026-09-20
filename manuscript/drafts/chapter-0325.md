@@ -1,104 +1,140 @@
 # Chapter 325: Underdogma (5)
 
-> Chinese-primary reconstruction from `source/chinese/chapters/325.txt`. Recovered English Chapter 323 is the verified shifted secondary witness.
+> Chinese-primary reconstruction from `source/chinese/chapters/325.txt`. Recovered English Chapter 323 is the verified shifted secondary witness. Canonical/project terminology controls **Vikir**, **Dogma**, **Dolores L. Quovadis**, **Decarabia**, **Highbro / Middlebro / Lowbro Le Baskerville**, **Blazing Inferiority Complex / Underdogma**, **Black Sea**, **Baskerville Fourth Fang**, **Cane Corso**, **Baby Madam**, **Conversion Bug**, and **Magic Resistance**.
 
-*What a rotten world.*
+*Rotten world.*
 
-First-year Dogma left a professor’s office in the rain.
+First-year Dogma left a professor's office.
 
-Three sleepless nights on an assignment.
+Rain hammered the path outside.
+
+He had spent three nights without sleep—
+
+finishing an assignment.
 
 Grade—
 
-D.
+**D**.
 
-Another student had copied his work and submitted first.
+Someone else had copied his work.
 
-Dogma claimed the truth.
+Submitted first.
 
-Nobody believed him.
+Then Dogma—
+
+the actual author—
+
+was accused of copying.
+
+His explanation was rejected.
 
 He failed.
 
-*Were commoners born just to be stepped on?*
+*Are commoners born only to be stepped on by nobles?*
 
-*Maybe the whole world should disappear.*
+*Maybe a world like this deserves to disappear.*
 
-Stray dogs fled from his footsteps.
+A few stray dogs fled from the sound of his footsteps.
 
-Dogma shouted at the sky.
+Dogma stopped on the empty path.
 
-Then—
+Then shouted curses into the rain.
 
-the rain stopped above him.
+Suddenly—
 
-A white umbrella.
+the rain above him stopped.
 
-A female student held it.
+Dogma looked up.
 
-In her other hand—
+White umbrella.
 
-dog food.
+A female student stood beside him.
 
-Her name tag read:
+One hand held the umbrella.
 
-**Dolores.**
+The other—
 
-“That isn’t true.”
+food for the stray dogs.
 
-Dolores smiled sadly.
+Her name tag read—
+
+**Dolores**.
+
+She gave him a sad smile.
+
+“That's not true.”
+
+Dogma stared.
+
+Dolores continued.
 
 “Everyone is the protagonist of their own life.”
 
-“And protagonists carry worries.”
+“And protagonists usually live with problems.”
 
 “Pain.”
 
 “Guilt.”
 
-“Burdens.”
+“Burden.”
 
-“Nobles and commoners both.”
+“It doesn't matter whether you're noble or commoner.”
 
-Dogma stared.
+“Everyone has something.”
 
-Then rejected it.
+Dogma looked at her blankly.
 
-“You can say that because you have everything!”
+Could that really be true?
 
-“You’re beautiful.”
+No.
 
-“You’re young.”
+He had heard enough comforting lies.
 
-“Smart.”
+“You can say that because you have **everything**!”
 
-“Rich.”
+The anger burst out.
 
-“High-born.”
+“You're beautiful!”
 
-“You’ll graduate at the top.”
+“You're young!”
 
-“Return to your family.”
+“Smart!”
 
-“Meet some handsome, tall, noble, rich man.”
+“Rich!”
 
-“And live happily forever!”
+“High-born!”
 
-The rage came out like an arrow fired without a target.
+“You'll graduate at the top!”
+
+“Return to your family!”
+
+“Take an important position!”
+
+“Then you'll meet some handsome, tall, strong, proper, rich, well-born man—”
+
+“and live happily ever after!”
+
+The words flew like arrows with no target.
+
+Pure resentment.
 
 Dolores only smiled bitterly.
 
-“…It isn’t like that.”
+“…That's not true.”
 
-Dogma’s chest hurt whenever she made that face.
+That expression hurt him.
 
-*Don’t smile like that.*
+For reasons Dogma could not explain.
+
+*Don't smile like that.*
 
 For three years—
 
-he worked desperately.
+he worked.
 
-Always near Dolores.
+Desperately.
+
+Always close to Dolores.
 
 Trying to stand at the same height.
 
@@ -108,204 +144,435 @@ Vice President of the Student Council.
 
 A commoner who had climbed farther than almost anyone.
 
-But something inside him still burned.
+Still—
+
+something inside him never stopped burning.
 
 Anger.
+
+Humiliation.
 
 Envy.
 
 Longing.
 
-He had never fully named it.
+A feeling with no clean name.
+
+Eventually—
+
+Dogma believed he had found the cause.
+
+And then—
 
 ◆◆◆
 
-[Why was I angry?]
+[What… was it?]
 
-The thing that had been Dogma spoke badly now.
+The transformed creature opened its mouth.
 
-Its intelligence had degraded.
+Human speech no longer fit the shape properly.
 
-Its body—
+[Why… was I angry?]
 
-grown enormous.
+Its intelligence had already begun to erode.
+
+Vikir looked upward.
+
+Dogma's body had changed beyond recognition.
 
 Arms longer than legs.
 
 Whip-like tail.
 
-Sharklike scales.
+Enormous sharklike scales covering the body.
 
-One horn.
+One giant horn above the forehead.
 
-Lipless mouth full of teeth.
+Lipless mouth—
 
-And above all—
+full of exposed teeth.
 
-a mane of fire.
+And most striking of all—
 
-**<Majin — Blazing Inferiority Complex>**
+a mane of enormous flame.
 
-**Danger Rating:** A+  
-**Size:** 8 m  
-**Discovery Location:** Hell Tree, Basement Floor 4 — Island in the Black Sea  
-**Aliases:** ‘Inferiority Complex’ / ‘Underdogma’
+> **<Majin — Blazing Inferiority Complex>**
+>
+> **Danger Rating:** **A+**  
+> **Size:** **8 m**  
+> **Discovery Location:** Hell Tree, Basement Floor 4 — Island in the Black Sea
+>
+> **Aliases:** *Blazing Inferiority Complex* / *Underdogma*
+>
+> A student twisted into this form after enduring what he believed to be constant unfair treatment at school.  
+> Filled with hatred intense enough to burn the world, it now attacks indiscriminately.  
+> No apparent path back to humanity remains.
 
-A student twisted by years of perceived unfairness and resentment.
+*If monster scholars ever catalogued transformed humans—*
 
-Now attacks indiscriminately.
+*it would probably read something like that.*
 
-No apparent path back to humanity remains.
+Majin records were fragmentary.
 
-Vikir looked at the flaming body.
+Every transformed human was too individual.
 
-“Troublesome.”
+Too unstable.
 
-The commoner students were too weak.
+But Vikir could estimate enough.
 
-The Beetlemen feared fire.
+[GRRRAAAAAH!]
 
-Decarabia explained:
+Dogma stood on the black shore.
 
-[Their wax-coated exoskeletons are especially vulnerable to heat.]
+Murderous pressure rolled over the island.
+
+A wave crashed against him.
+
+HISSSSS—
+
+Black water turned to steam.
+
+Vikir pressed two fingers to his temple.
+
+“Annoying.”
+
+The previous floor's Daylily had been S-rank.
+
+But dehydrated.
+
+The Cerberus before that—
+
+Vikir had killed using an environmental trick.
+
+This—
+
+was a new kind of problem.
+
+Available allies were limited.
+
+Commoner Faction students—
+
+too low-Level.
+
+Too weak.
+
+The Beetlemen—
+
+backed away the instant the fire grew.
+
+Decarabia laughed.
+
+[Beetle-type creatures fear fire.]
+
+[Their wax-coated exoskeletons make that weakness even worse.]
 
 “Useless information.”
 
-Vikir drew Beelzebub.
+Vikir held Decarabia in one hand.
+
+Beelzebub in the other.
 
 “Fire goes out in water.”
 
-And there was an ocean beside them.
+Conveniently—
+
+they were surrounded by an ocean.
 
 Then—
 
-Highbro, Middlebro, and Lowbro suddenly ran away.
+WHOOSH.
+
+Three figures ran past him.
+
+Highbro.
+
+Middlebro.
+
+Lowbro.
+
+Straight away from the battle.
 
 Decarabia scoffed.
 
-[Your servants are escaping?]
+[They fled?]
 
-“They aren’t.”
+[After calling you Master?]
+
+Vikir shook his head.
+
+“They're not running.”
 
 A shout came from behind.
 
 “You useless bastards!”
 
-“Hand over every candy!”
+Highbro's voice.
 
-The triplets had understood the situation.
+“Give us every candy!”
 
-They were too weakened to fight Dogma directly.
+The triplets had understood.
 
-So they forced the commoner faction to surrender its candies.
+Their bodies were still too weakened to fight Dogma directly.
 
-The Beetlemen contributed too.
+So they chose the next useful job.
+
+Collect resources.
+
+Middlebro and Lowbro intimidated the Commoner Faction.
+
+Highbro did the same to the Beetlemen.
+
+“Now!”
+
+“Everything!”
+
+“Red!”
+
+“Green!”
+
+“Blue!”
+
+“Hand them over!”
+
+The Beetlemen—
+
+eager to survive—
+
+contributed too.
+
+Soon—
+
+the triplets dumped a pile of Strange Candies at the edge of the beach.
 
 “Master!”
 
-“We got them!”
+“Collected!”
 
-The candies were left at the edge of the beach.
+“Use them!”
 
-Then the triplets retreated.
+Then all three withdrew.
 
-Decarabia sounded impressed.
+Decarabia sounded surprised.
 
-[They’re useful.]
+[They are useful.]
 
-“That’s why I kept them.”
+“That is why I kept them.”
 
-Vikir nodded toward them.
+Vikir nodded toward the brothers.
 
-All three brightened immediately.
+All three faces brightened instantly.
 
-Dogma’s flames spread across the beach.
+BOOM.
 
-Sand began to melt.
+Flames from Dogma's body rolled across the shore.
+
+Black sand began to melt—
+
+turning glossy and sticky.
+
+“For an early-floor Majin—
+
+he's strong.”
+
+Vikir narrowed his eyes.
+
+“I hope this doesn't happen often.”
+
+One transformed Dogma already possessed this much destructive power.
+
+What if someone with hero-level talent monsterized?
+
+The answer was unpleasant.
 
 Vikir moved.
 
-Cut one ankle.
+SLASH.
 
-Whenever fire touched him—
+One ankle opened.
 
-he dipped into the shallow black water.
+Dogma's fire touched him.
 
-Then he reached the candy pile.
+Vikir immediately stepped into shallow Black Water.
 
-Ate.
+Steam rose.
+
+Fire died.
+
+He moved back onto shore.
+
+Reached the candy pile.
+
+Then—
+
+ate.
+
+CRUNCH.
+
+CRUNCH.
+
+CRUNCH.
 
 His status changed.
 
-**<Vikir>**
+> **<Vikir>**
+>
+> **LV:** 1
+>
+> **Titles:** Rat Hunter / Hell Hound Merchant / Daylily Lumberjack
+>
+> **Stats**
+> - Strength: **260 (+40) = 300**
+> - Agility: **229 (+31) = 260**
+> - Stamina: **269 (+31) = 300**
+> - Physical Resistance: **1**
+> - ?: Locked
+> - Reflexes: **1**
 
-**LV:** 1
+Strength—
 
-**Titles:** Rat Hunter / Hell Hound Merchant / Daylily Lumberjack
+300.
 
-**Stats**
-- Strength: 260 (+40) = 300
-- Agility: 229 (+31) = 260
-- Stamina: 269 (+31) = 300
-- Physical Resistance: 1
-- ?: Locked
-- Reflexes: 1
+Stamina—
 
-Strength and Stamina hit 300.
+300.
 
-Agility rose as far as the available candies allowed.
+Agility—
 
-The rest—
+as high as the available candies allowed.
 
-saved for hidden-stat conversion.
+The remaining candies—
+
+saved.
+
+Better used trying to obtain the final advanced attribute.
 
 Aura thickened around Beelzebub.
 
-Vikir used the **Fourth Fang**.
+No Level increase.
+
+Still—
+
+the stat jump mattered.
+
+The weapon's power rose with Vikir's body.
+
+Enough to deal lethal damage.
+
+Then—
+
+Baskerville swordsmanship.
+
+**Fourth Fang.**
 
 Compared with the Eighth—
 
-it was simple.
+simple.
 
-But no one alive had practiced the Fourth as deeply as Vikir.
+Almost childish.
 
-Even Cane Corso—
+But Vikir's Fourth Fang was not normal.
 
-master of the Ninth Fang—
+Even **Cane Corso**—
 
-had acknowledged that mastery.
+master of the Ninth—
 
-Four fangs tore into Dogma’s throat.
+had acknowledged the depth of Vikir's mastery.
 
-Dogma chased him.
+Four fangs erupted.
 
-Vikir drew him toward the sea.
+SLASH.
 
-Cut wrists.
+SLASH.
 
-Ankles.
+SLASH.
+
+SLASH.
+
+They tore across Dogma's throat.
+
+[GRRRAAAAGH!]
+
+Boiling blood sprayed.
+
+The moment it touched the Black Sea—
+
+it sank.
+
+Dogma chased.
+
+Vikir retreated into the water.
+
+Lured him.
+
+Circle.
+
+Cut.
+
+Step.
+
+Circle again.
+
+Wrist.
+
+Ankle.
+
+Other wrist.
+
+Other ankle.
 
 Then—
 
 SPLASH.
 
-Dogma fell into the Black Sea.
+Dogma crashed into the Black Sea.
 
-Vikir removed the remaining limb sections.
+“Cool off.”
 
-The heavy black water had almost no buoyancy.
+Vikir removed what remained of the limbs—
 
-Dogma’s nose remained just below the surface.
+preventing any chance of escape.
 
-He could not lift himself.
+Dogma thrashed.
+
+But the Black Water offered almost no buoyancy.
+
+Only head.
+
+Torso.
+
+Tail.
+
+No leverage.
+
+The depth was cruelly exact.
+
+Dogma's nose remained less than half an inch below the surface.
+
+Too shallow to swim freely.
+
+Too deep to breathe.
+
+“The Black Sea doesn't float you.”
+
+Vikir returned to shore.
+
+Watched.
+
+The water boiled.
 
 Steam rose.
 
+Dogma fought.
+
 Then less.
 
-Then—
+Less.
+
+Eventually—
 
 nothing.
+
+The sea became still again.
 
 “…Drowned.”
 
@@ -315,29 +582,41 @@ Ding.
 
 [“Awe-Inspiring” achievement reward granted.]
 
-**<Mission Complete>**
+> **<Mission Complete>**
+>
+> **Kill the Majin**
+>
+> **Majin: 1 / 1**
 
-**Kill the Majin.**
+The fairy appeared.
 
-**Majin: 1 / 1**
+Its expression—
 
-The fairy appeared with a stiff expression.
+stiff.
 
-[You did that yourself?]
+It looked at Dogma's cold body beneath the Black Water.
 
-Ten gold Level candies fell into Vikir’s hand.
+Then clicked its tongue.
 
-Vikir stopped the fairy.
+[You did that alone?]
 
-“Open the Candy Shop.”
+Ten golden candies fell into Vikir's hand.
 
-[Why?]
+**Level candies.**
+
+Vikir counted.
+
+Then stopped the fairy before it could disappear.
+
+“Candy Shop.”
+
+[…Why?]
 
 “I want to sell Level candies.”
 
-“Convert them into ordinary stat candies.”
+The fairy tilted its head.
 
-The fairy blinked.
+“Exchange them for ordinary stat candies.”
 
 Normally—
 
@@ -347,65 +626,85 @@ Vikir wanted the reverse.
 
 Ten Level candies—
 
-for three thousand ordinary candies.
+roughly three thousand ordinary candies.
 
-The fairy had no reason to refuse.
+For the fairy—
+
+a profitable exchange.
+
+No reason to refuse.
 
 Soon—
 
-Vikir held more than three thousand ordinary candies.
+a mountain of red, green, and blue candy sat in front of Vikir.
 
-Mostly red.
+More than three thousand.
 
-Strength.
-
-With contributions from the commoners and Beetlemen—
+With the candies surrendered by the Commoner Faction and Beetlemen—
 
 slightly over thirty-one hundred.
 
 Vikir looked at Baby Madam.
 
-“Gacha time.”
+“Time to gamble.”
 
-“Hack, hack.”
+[Chik?]
 
-She ate.
+The **Conversion Bug** beneath her chin activated as she ate.
+
+CRUNCH.
+
+CRUNCH.
+
+CRUNCH.
 
 Hundreds.
 
-Thousands.
+Then thousands.
 
-The Conversion Bug processed them.
+For every hundred same-color candies—
 
-Thirty converted candies emerged.
+one different-color candy emerged at random.
 
-Mostly—
+Thirty conversions.
 
-red.
+The results—
+
+bad.
+
+Mostly red.
+
+Strength.
 
 Blue.
 
+Stamina.
+
 Occasional green.
 
-Bad luck.
+Agility.
 
-Converting one hundred Strength candies into one Strength candy—
+Turning one hundred Strength candies into one Strength candy—
 
-was catastrophic value.
+catastrophic value.
 
-Vikir burned through nearly all three thousand.
+Vikir used nearly all three thousand.
 
-About ten useful Agility candies.
+The useful result—
+
+only around ten Agility candies.
 
 Almost everything else—
 
-Strength or Stamina.
+basic stats he already had in excess.
 
-Only ninety candies remained.
+Ninety candies remained.
 
 “No luck.”
 
-“Or rather—
+He considered.
+
+“Or more accurately—
 
 normal luck.”
 
@@ -413,44 +712,57 @@ Then Highbro approached.
 
 “Master.”
 
-“I found twelve more.”
+“I have twelve more.”
 
 Bloodstained candies.
 
+Vikir looked at them.
+
 “Where?”
 
-“Dogma’s followers.”
+“The students Dogma killed while transforming.”
 
-“The ones he killed during the transformation.”
+“I pulled them from the bottom of the sap pool.”
 
-“I recovered them from the sap pool.”
+Vikir nodded.
 
-Now Vikir had enough for one more conversion.
+He had overlooked that.
 
-He fed one hundred candies to Baby Madam.
+Now—
 
-The parasite worked.
+enough for one more conversion.
 
-Pop.
+One hundred candies went to Baby Madam.
 
-One candy landed in his palm.
+[Chik-chik.]
+
+The parasite processed them.
+
+Then—
+
+POP.
+
+One candy fell into Vikir's palm.
 
 Pure white.
 
-Vikir read the window.
+A color he had never seen before.
 
-**<Strange Candy — Magic Resistance / White>**
+> **<Strange Candy — Magic Resistance / White>**
+>
+> Raises **Magic Resistance** by **1**.  
+> Tastes sour.
+>
+> **Magic Resistance +1**
 
-Raises Magic Resistance by 1.
-
-Sour.
-
-**Magic Resistance +1**
-
-Vikir smiled.
+Vikir's mouth curved slightly.
 
 “Lucky.”
 
 Not merely lucky.
 
 Extremely lucky.
+
+The final locked advanced stat—
+
+had opened.

@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-20 — Underdogma completeness rebuild (321–325)
+
+**Audit result:** all five historical drafts were materially compressed and rebuilt; family now **PASS**.
+
+All five initial-priority targets **321–325** are resolved.
+
+Major restorations: Black Sea mechanics; world-fragment/fungal ecology; Hell Tree sap limits; Dogma/Commoner-Faction chronology; triplet enslavement and Highbro survival logic; Dogma's first-year/Dolores grievances; Vikir's demonization analysis; Beetleman arrival and 50+ joint-lock clear; Giant Beetle Island / Rune-Amdusias patchwork lore; A+ Majin transformation and dual missions; exact Level1 300/260/300 stats; Fourth Fang; Black Sea drowning; 10 Level-candy reward; reverse Candy Shop exchange; Conversion Bug losses; and **Magic Resistance +1**.
+
+Initial priority queue now has **7 pending chapters**.
+
+Next audit family: **The Shadowless King of the Black Sea (326–330)**.
+
+
 ## 2026-09-20 — Surplus Man completeness rebuild (314–320)
 
 **Audit result:** all seven historical drafts were materially compressed and rebuilt; family now **PASS**.

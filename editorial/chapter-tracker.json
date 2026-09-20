@@ -3,12 +3,12 @@
   "target_chapter_count": 500,
   "accepted_count": 499,
   "staged_count": 0,
-  "next_chapter": 321,
+  "next_chapter": 326,
   "active_title_family": {
-    "name": "Underdogma",
+    "name": "The Shadowless King of the Black Sea",
     "range": [
-      321,
-      325
+      326,
+      330
     ]
   },
   "chapters": [
@@ -4566,8 +4566,9 @@
       "qa": "qa/chapter-0321.md",
       "provenance": "editorial/provenance/chapter-0321.json",
       "acceptance": "qa/acceptance/chapter-0321.json",
-      "acceptance_sha": "b9d21b67d0891cf799770d4463517c7d8e5f51a3",
-      "family_qa": "qa/families/underdogma-0321-0325.md"
+      "acceptance_sha": "530fa44a90d399ea97605b38d80f1c1e52a50136",
+      "family_qa": "qa/families/underdogma-0321-0325.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 322,
@@ -4580,8 +4581,9 @@
       "qa": "qa/chapter-0322.md",
       "provenance": "editorial/provenance/chapter-0322.json",
       "acceptance": "qa/acceptance/chapter-0322.json",
-      "acceptance_sha": "70d1e2db0522a349ead9c789bb05bc158c58ce24",
-      "family_qa": "qa/families/underdogma-0321-0325.md"
+      "acceptance_sha": "85efab5bc5c3ba02f7c35ae9bcf4da7b8aee3240",
+      "family_qa": "qa/families/underdogma-0321-0325.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 323,
@@ -4594,8 +4596,9 @@
       "qa": "qa/chapter-0323.md",
       "provenance": "editorial/provenance/chapter-0323.json",
       "acceptance": "qa/acceptance/chapter-0323.json",
-      "acceptance_sha": "8e63fc1f1eaa46c6a3ab7792d0286e12b3a49991",
-      "family_qa": "qa/families/underdogma-0321-0325.md"
+      "acceptance_sha": "7e715a18ea1980d2d97696ff78a0eb651e010770",
+      "family_qa": "qa/families/underdogma-0321-0325.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 324,
@@ -4608,8 +4611,9 @@
       "qa": "qa/chapter-0324.md",
       "provenance": "editorial/provenance/chapter-0324.json",
       "acceptance": "qa/acceptance/chapter-0324.json",
-      "acceptance_sha": "b28fc0de841b9cd853b20b4886b40f7b3c36e5ba",
-      "family_qa": "qa/families/underdogma-0321-0325.md"
+      "acceptance_sha": "b2dacee136909527a8fc396c5cab554e4ac04e69",
+      "family_qa": "qa/families/underdogma-0321-0325.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 325,
@@ -4622,8 +4626,9 @@
       "qa": "qa/chapter-0325.md",
       "provenance": "editorial/provenance/chapter-0325.json",
       "acceptance": "qa/acceptance/chapter-0325.json",
-      "acceptance_sha": "571086ab17daa66ab2bb7db4fd8726838d5793bc",
-      "family_qa": "qa/families/underdogma-0321-0325.md"
+      "acceptance_sha": "84721ce0f11a619ff3adb4d738498bd8e358bdca",
+      "family_qa": "qa/families/underdogma-0321-0325.md",
+      "completeness_audit": "rebuilt_and_passed_2026-09-20"
     },
     {
       "chapter": 326,
@@ -7254,14 +7259,19 @@
         "result": "rebuilt_and_passed",
         "reviewed_date": "2026-09-20",
         "finding": "All seven historical drafts were materially compressed; confirmed failures 316 and 319 fully rebuilt and resolved."
+      },
+      {
+        "name": "Underdogma",
+        "range": [
+          321,
+          325
+        ],
+        "result": "rebuilt_and_passed",
+        "reviewed_date": "2026-09-20",
+        "finding": "All five historical drafts materially compressed; all five initial-priority targets resolved."
       }
     ],
     "pending_priority_review_chapters": [
-      321,
-      322,
-      323,
-      324,
-      325,
       328,
       333,
       334,
@@ -7270,12 +7280,12 @@
       421,
       431
     ],
-    "pending_priority_review_count": 12,
+    "pending_priority_review_count": 7,
     "next_family": {
-      "name": "Underdogma",
+      "name": "The Shadowless King of the Black Sea",
       "range": [
-        321,
-        325
+        326,
+        330
       ]
     },
     "resolved_confirmed_needs_rework": [
@@ -7284,15 +7294,12 @@
       319
     ],
     "pending_strong_suspect_chapters": [
-      322,
-      323,
-      324,
       334,
       420,
       421,
       431
     ],
-    "pending_strong_suspect_count": 7,
+    "pending_strong_suspect_count": 4,
     "resolved_strong_suspects": [
       97,
       98,
@@ -7318,7 +7325,10 @@
       316,
       317,
       318,
-      319
+      319,
+      322,
+      323,
+      324
     ]
   }
 }

@@ -1,19 +1,21 @@
 # Chapter 324 QA — Underdogma (4)
 
-**Status:** PASS  
-**Family acceptance:** contingent on `qa/families/underdogma-0321-0325.md`
+**Status:** PASS — REBUILT FOR COMPLETE SOURCE COVERAGE  
+**Completeness-audit review:** 2026-09-20
 
 ## Evidence
 - Chinese: `source/chinese/chapters/324.txt` — `ee8b2ca09a9f7f71ef52b7b8f2ac2ba61671085f`
 - English witness: **E322** — `673844016063e67cf0340c2f7a2f9f6606746b72`
-- Draft: `manuscript/drafts/chapter-0324.md` — `fedc9421c0bcf21759e6b5e697822f93b22b2f11`
+- Rebuilt draft: `manuscript/drafts/chapter-0324.md` — `472fd0fb607a4164baf771d7779b6964734e41aa`
 
-## Checks
-- PASS — Vikir defeats 50+ Beetlemen mainly with joint locks rather than breaking hard exoskeletons.
-- PASS — Two insect peoples are distinguished as Rhinoceros Beetlemen and Stag Beetlemen.
-- PASS — They originate from Giant Beetle Island and were trapped when Amdusias tore away a world fragment.
-- PASS — Decarabia’s Rune/world-collector explanation remains attributed lore rather than narrator-certified theology.
-- PASS — Beetle peoples’ long conflict is tied to a ship problem whose full explanation remains for the following family.
-- PASS — Dogma overdrinks Hell Tree sap, kills followers, and transforms into a Majin.
-- PASS — Dual missions are issued: survivors must kill one Majin; Dogma must kill all 77 living targets.
-- LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local tower/race forms are not falsely presented as wiki-confirmed.
+## Completeness findings
+- Historical draft compressed Vikir’s joint-lock solution, inter-Beetleman rivalry, Giant Beetle Island history, Rune/Amdusias world-patchwork discussion, ship conflict, Dogma’s full monsterization, and dual mission reveal.
+- PASS — 50+ Beetlemen are disabled primarily through **joint locks**, not by brute-forcing their exoskeletons.
+- PASS — Rhinoceros and Stag Beetlemen are distinguished by horn type and poor cooperation, which materially contributes to Vikir’s victory.
+- PASS — Highbro/Middlebro/Lowbro openly police the kneeling students’ noise out of reverence for Vikir.
+- PASS — Beetleman elders identify **Giant Beetle Island**, Amdusias attack, forced world-fragment transplantation, dead ecology, and long sap conflict.
+- PASS — Decarabia’s Rune comparison and ecological-pyramid/food-chain analogy are restored as mythological exposition, not verified cosmology.
+- PASS — Vikir offers to lead the Beetlemen off the floor but requires a ship; elders admit the ship is itself tied to their long conflict.
+- PASS — Dogma steals the sap, drinks far beyond the safe limit, kills followers, consumes flesh/candies, and transforms into a **Majin**.
+- PASS — Majin state is explicitly neither ordinary human, demon, nor monster; it is a transformed human stranded between worlds.
+- PASS — fairy issues opposing missions: survivors must kill **1 Majin**, while Dogma must kill **77 living targets**.

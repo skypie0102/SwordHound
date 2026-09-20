@@ -601,7 +601,9 @@
 
 ## Underdogma additions — Chapters 321–325
 
-- **Underdogma** — accepted five-part family, targets321–325 / witnesses E319–E323.
+- **Underdogma completeness resolution** — all five targets321–325 rebuilt against complete Chinese coverage; all five initial-priority targets resolved.
+
+- **Underdogma** — accepted five-part family, targets321–325 / witnesses E319–E323; completeness-rebuilt 2026-09-20.
 - **Black Sea** — Basement Floor4 sea with virtually no buoyancy and abnormally heavy black water.
 - **Hell Tree root sap** — edible only in limited quantities; overconsumption risks monsterization.
 - **Dogma** — Colosseo third-year Hot Department / Student Council vice president; leads tower-born Commoner Faction.
