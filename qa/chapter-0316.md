@@ -1,7 +1,11 @@
 # Chapter 316 QA — Surplus Man (3)
 
-**Status:** PASS  
+**Status:** NEEDS REWORK — prior PASS superseded by post-500 completeness audit  
 **Family acceptance:** contingent on `qa/families/surplus-man-0314-0320.md`
+
+## Reopening note
+
+Direct Chinese/draft comparison confirms extended survivor dialogue, voting discussion, social dynamics, and transitions were collapsed into terse summary fragments. The checks below remain useful as historical plot/terminology checks, but they did **not** establish complete sentence-level source coverage and must not be used to re-accept this draft. Rebuild against the full Chinese raw, then regenerate QA/provenance/acceptance evidence.
 
 ## Evidence
 - Chinese: `source/chinese/chapters/316.txt` — `6beb3b2933ecc0d87886e950e1a45a3d532e5b90`
