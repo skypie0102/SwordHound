@@ -1,9 +1,12 @@
 # Title-Family QA — Goodbye, Nouvelle Vague (1)–(3)
 
-**Family status:** PASS  
+**Family status:** REOPENED FOR COMPLETENESS AUDIT — historical PASS superseded  
 **Target range:** Chapters 419–421  
 **Mapping:** 419→E417, 420→E418, 421→E419  
 **Following family:** target422→E420 begins *How to Become a Wandering Knight (1)* and continues through target424→E422.
+
+
+**Audit reopening:** Chapter 420 is confirmed compressed; Chapters 419–421 must be re-audited as a complete family. Historical continuity/terminology findings remain reference material, but family acceptance is not current until full source-coverage review passes.
 
 ## Family decisions
 
@@ -27,4 +30,4 @@
 
 ## Verdict
 
-PASS.
+REOPENED — historical PASS superseded pending completeness review.
