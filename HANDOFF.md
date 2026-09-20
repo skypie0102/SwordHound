@@ -34,7 +34,7 @@ Next family: **Goodbye, Nouvelle Vague (419–421)**.
 ## Branch / PR state
 
 - Working branch: `audit/mating-room-333-338-completeness`.
-- PR: not yet opened at this handoff write.
+- PR #140, **Rebuild The Mating Room Chapters 333–338 for completeness**: OPEN.
 - Shadowless King completeness PR #139: merged.
 
 ## Exact next actions
