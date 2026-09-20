@@ -2,8 +2,8 @@
   "chapter": 226,
   "title": "Tuition (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-20",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "24b0b753104d417022151659291e4d3f58671882",
-    "status": "pass"
+    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
+    "status": "pass_after_completeness_rebuild"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/226.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-224.xhtml",
     "english_reference_sha": "eea7abb358ddbb27a3000df3ae174c76970731b8",
     "draft_path": "manuscript/drafts/chapter-0226.md",
-    "draft_sha": "b42f100767822ac83bc55032aa792d984b99e3d0",
+    "draft_sha": "b3f7258aa46811d40a2bfbba083d16904ce93ce0",
     "qa_path": "qa/chapter-0226.md",
-    "qa_sha": "73be016c8c5ad57b6446c8e6765152c8a0c5e81a",
+    "qa_sha": "1e9e77ade35d9bf610adcb83ec71bc528e052c03",
     "provenance_path": "editorial/provenance/chapter-0226.json",
-    "provenance_sha": "2fba009c6de456c97d0aa0a6a967e77d8ca84ab0"
+    "provenance_sha": "2af073c30b87c533f491748a51c12c415bc74b06"
   },
   "canonical_checks": [
     "Professor Banshee Morgue",
@@ -36,5 +36,18 @@
     "Financial-cover logic remains operational, not pride alone.",
     "Vikir's scholarship is roughly 80%, not full."
   ],
-  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1)."
+  "next_family_alignment_note": "Suspicion targets234-235: 234→E232,235→E233. Target236→E234 begins National University League (1).",
+  "historical_acceptance": {
+    "accepted": true,
+    "accepted_date": "2026-09-19",
+    "status": null,
+    "draft_sha": "b42f100767822ac83bc55032aa792d984b99e3d0",
+    "qa_sha": "73be016c8c5ad57b6446c8e6765152c8a0c5e81a",
+    "provenance_sha": "2fba009c6de456c97d0aa0a6a967e77d8ca84ab0"
+  },
+  "completeness_audit": {
+    "reviewed_date": "2026-09-20",
+    "result": "rebuilt_and_passed",
+    "family_evidence": "qa/families/tuition-0225-0233.md"
+  }
 }
