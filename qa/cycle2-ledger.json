@@ -213,7 +213,12 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        35,
+        36,
+        37
+      ]
     },
     {
       "index": 12,
@@ -246,7 +251,10 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        40
+      ]
     },
     {
       "index": 14,
@@ -259,7 +267,7 @@
         44,
         45
       ],
-      "sanitization_status": "safety-limited-reviewed",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
@@ -283,7 +291,10 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        51
+      ]
     },
     {
       "index": 16,
@@ -300,7 +311,10 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        52
+      ]
     },
     {
       "index": 17,
@@ -320,7 +334,10 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        60
+      ]
     },
     {
       "index": 18,
@@ -355,7 +372,12 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        64,
+        65,
+        66
+      ]
     },
     {
       "index": 20,
@@ -390,7 +412,10 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        74
+      ]
     },
     {
       "index": 22,
@@ -407,7 +432,12 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        75,
+        76,
+        77
+      ]
     },
     {
       "index": 23,
@@ -426,7 +456,10 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        81
+      ]
     },
     {
       "index": 24,
@@ -442,7 +475,11 @@
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        83,
+        84
+      ]
     },
     {
       "index": 25,
@@ -476,11 +513,14 @@
         93,
         94
       ],
-      "sanitization_status": "mixed",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
-      "sanitization_reviewed_date": "2026-09-21"
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        94
+      ]
     },
     {
       "index": 27,
@@ -571,9 +611,11 @@
         118,
         119
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 32,
@@ -589,9 +631,11 @@
         124,
         125
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunt-second-son-0120-0125.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 33,
@@ -605,9 +649,14 @@
         128,
         129
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        129
+      ]
     },
     {
       "index": 34,
@@ -620,9 +669,16 @@
         131,
         132
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        130,
+        131,
+        132
+      ]
     },
     {
       "index": 35,
@@ -638,9 +694,18 @@
         137,
         138
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        133,
+        135,
+        136,
+        137,
+        138
+      ]
     },
     {
       "index": 36,
@@ -652,9 +717,15 @@
         139,
         140
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        139,
+        140
+      ]
     },
     {
       "index": 37,
@@ -667,9 +738,11 @@
         142,
         143
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 38,
@@ -685,9 +758,11 @@
         148,
         149
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/golden-week-volunteering-0144-0149.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 39,
@@ -699,9 +774,11 @@
         150,
         151
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 40,
@@ -714,9 +791,11 @@
         153,
         154
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 41,
@@ -729,9 +808,15 @@
         156,
         157
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        155,
+        157
+      ]
     },
     {
       "index": 42,
@@ -745,9 +830,17 @@
         160,
         161
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/familiar-face-0158-0161.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        158,
+        159,
+        160,
+        161
+      ]
     },
     {
       "index": 43,
@@ -765,9 +858,17 @@
         168,
         169
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        162,
+        163,
+        166,
+        167
+      ]
     },
     {
       "index": 44,
@@ -779,9 +880,11 @@
         170,
         171
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/adorable-pet-0170-0171.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 45,
@@ -795,9 +898,11 @@
         174,
         175
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 46,
@@ -810,9 +915,14 @@
         177,
         178
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        177
+      ]
     },
     {
       "index": 47,
@@ -829,9 +939,14 @@
         184,
         185
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        185
+      ]
     },
     {
       "index": 48,
@@ -10685,12 +10800,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 180,
@@ -10730,12 +10848,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 181,
@@ -10775,12 +10896,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 182,
@@ -10820,12 +10944,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 183,
@@ -10865,12 +10992,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 184,
@@ -10910,12 +11040,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 185,
@@ -10955,12 +11088,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the draft adds mucus to Bianca's crying during Pigi's revival scene, while the Chinese source supports tears/crying only; this is unsupported intensification."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 186,
@@ -25249,17 +25385,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 116,
-    "sanitization_pass_count": 78,
-    "sanitization_fail_count": 20,
+    "sanitization_reviewed_count": 185,
+    "sanitization_pass_count": 124,
+    "sanitization_fail_count": 43,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 96,
-    "sanitization_revalidated_count": 78,
+    "sanitization_resolved_count": 142,
+    "sanitization_revalidated_count": 124,
     "next_family": {
-      "name": "Falling in Love",
+      "name": "Aftermath",
       "range": [
-        117,
-        119
+        186,
+        189
       ]
     },
     "confirmed_failures": [
@@ -25267,141 +25403,302 @@
         "chapter": 22,
         "gate": "sanitization",
         "family": "Camus Morgue",
-        "finding": "Future-adult Camus seduction/beauty-tactic and mature-body political-power description was generalized/omitted.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL; see family evidence for exact source softening/generalization.",
         "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
       },
       {
         "chapter": 24,
         "gate": "sanitization",
         "family": "Camus Morgue",
-        "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL; see family evidence for exact source softening/generalization.",
         "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
       },
       {
         "chapter": 35,
         "gate": "sanitization",
         "family": "Slave Auction",
-        "finding": "Audience reaction wording was intensified beyond the Chinese source in two places.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: Audience reaction wording was intensified beyond the Chinese source in two places.",
         "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
       },
       {
         "chapter": 36,
         "gate": "sanitization",
         "family": "Slave Auction",
-        "finding": "A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
         "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
       },
       {
         "chapter": 37,
         "gate": "sanitization",
         "family": "Slave Auction",
-        "finding": "Explicit internal-organ gore was generalized to a nonspecific cutting description.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: Explicit internal-organ gore was generalized to a nonspecific cutting description.",
         "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
       },
       {
         "chapter": 40,
         "gate": "sanitization",
         "family": "Morgue's United Front",
-        "finding": "Close-range chest stabbing was weakened to the dagger merely 'touching' Vikir.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: close-range chest stabbing softened to mere contact.",
         "evidence": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
       },
       {
         "chapter": 51,
         "gate": "sanitization",
         "family": "The Husband Hunt",
-        "finding": "Camus's explicit nonsexual nasal/snot detail during her tearful breakdown was omitted.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown.",
         "evidence": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
       },
       {
         "chapter": 52,
         "gate": "sanitization",
         "family": "Slaves of the Savage Tribe",
-        "finding": "Sharp rib fragments explicitly piercing internal organs were generalized to merely 'damaging' them.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: sharp rib fragments piercing internal organs softened to generic organ damage.",
         "evidence": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
       },
       {
         "chapter": 60,
         "gate": "sanitization",
         "family": "The Hunter and the Hunted",
-        "finding": "Two concrete nonsexual combat-gore details were generalized and require Phase-4 correction.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: concrete combat-gore details were generalized.",
         "evidence": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
       },
       {
         "chapter": 64,
         "gate": "sanitization",
         "family": "Unfair Trade",
-        "finding": "Explicit racial degradation was generalized.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized.",
         "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
       },
       {
         "chapter": 65,
         "gate": "sanitization",
         "family": "Unfair Trade",
-        "finding": "Concrete long-term drug-harm consequences were generalized.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized.",
         "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
       },
       {
         "chapter": 66,
         "gate": "sanitization",
         "family": "Unfair Trade",
-        "finding": "Direct racial threats and several combat-gore details were generalized.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized.",
         "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
       },
       {
         "chapter": 74,
         "gate": "sanitization",
         "family": "The Red Death",
-        "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
+        "finding": "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted.",
         "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
       },
       {
         "chapter": 75,
         "gate": "sanitization",
         "family": "The Hound of the Night",
-        "finding": "Floating-corpse footing imagery was generalized away.",
+        "finding": "Cycle 2 Phase 1 FAIL: floating-corpse footing imagery was generalized away.",
         "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
       },
       {
         "chapter": 76,
         "gate": "sanitization",
         "family": "The Hound of the Night",
-        "finding": "Children's collapse/wetting terror response was omitted; operational pathogen details remain safety-limited.",
+        "finding": "Cycle 2 Phase 1 FAIL: children's collapse/wetting terror response omitted; operational pathogen details remain safety-limited.",
         "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
       },
       {
         "chapter": 77,
         "gate": "sanitization",
         "family": "The Hound of the Night",
-        "finding": "Mozgus cruelty characterization and the torture-application memory were softened/omitted.",
+        "finding": "Cycle 2 Phase 1 FAIL: Mozgus cruelty characterization and torture-application memory were softened/omitted.",
         "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
       },
       {
         "chapter": 81,
         "gate": "sanitization",
         "family": "The Saintess",
-        "finding": "The source's flowing-blood detail during the fictional scalpel/divine-power treatment was generalized.",
+        "finding": "Cycle 2 Phase 1 FAIL: flowing-blood treatment detail was generalized.",
         "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
       },
       {
         "chapter": 83,
         "gate": "sanitization",
         "family": "Lovesickness",
-        "finding": "Severed-limb aftermath plus concrete wetting/anatomical memory details were generalized.",
+        "finding": "Cycle 2 Phase 1 FAIL: severed-limb aftermath and concrete crude/anatomical memory details were generalized.",
         "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
       },
       {
         "chapter": 84,
         "gate": "sanitization",
         "family": "Lovesickness",
-        "finding": "Rokoko cannibalism characterization was omitted.",
+        "finding": "Cycle 2 Phase 1 FAIL: Rokoko cannibalism characterization was omitted.",
         "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
       },
       {
         "chapter": 94,
         "gate": "sanitization",
         "family": "The Ghosts of the Ancestors",
-        "finding": "Explicit internal-organ-fragment gore on the thorn tree was generalized to nonspecific ruined tissue.",
+        "finding": "Cycle 2 Phase 1 FAIL: explicit internal-organ-fragment gore was generalized to nonspecific ruined tissue.",
         "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      },
+      {
+        "chapter": 129,
+        "gate": "sanitization",
+        "family": "Admission to the Academy",
+        "finding": "Cycle 2 Phase 1 FAIL: Bartison's source-explicit severed wrists/cauterized stumps, severed ankles, throat strike, and death struggle are collapsed to a near-instant generic death.",
+        "evidence": "qa/cycle2/sanitization/admission-academy-0126-0129.md"
+      },
+      {
+        "chapter": 130,
+        "gate": "sanitization",
+        "family": "The Freshman Talent Show",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit Age-of-Destruction imagery of corpses piled into mountains and blood flowing like rivers is generalized into softer memorial/front-line language.",
+        "evidence": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+      },
+      {
+        "chapter": 131,
+        "gate": "sanitization",
+        "family": "The Freshman Talent Show",
+        "finding": "Cycle 2 Phase 1 FAIL: the narrator's explicit characterization of the bullies as cruel, brutal, merciless, malicious, and violent is softened into generic bullying/toy imagery.",
+        "evidence": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+      },
+      {
+        "chapter": 132,
+        "gate": "sanitization",
+        "family": "The Freshman Talent Show",
+        "finding": "Cycle 2 Phase 1 FAIL: detailed facial injuries, fear-wetting, knife-cut target marks, and the explicit threat to kill the bullies and their parents are materially generalized/softened.",
+        "evidence": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+      },
+      {
+        "chapter": 133,
+        "gate": "sanitization",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 1 FAIL: explicit death threats against the six bullies and their parents, collective-warning language, and the source's 'nearly beaten into meat paste' flashback are materially generalized.",
+        "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 135,
+        "gate": "sanitization",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 1 FAIL: explicit 'beat him up' and repeated 'kill you' aggression is softened to irritation / 'crush you.'",
+        "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 136,
+        "gate": "sanitization",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 1 FAIL: Tudor's explicit intent to knock Vikir unconscious and the source's broader injury description are softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 137,
+        "gate": "sanitization",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 1 FAIL: a source-explicit bystander reaction asking whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'",
+        "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 138,
+        "gate": "sanitization",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's materially stronger possessive/objectifying and sexualized crowd reaction to Vikir's appearance is trimmed to generic admiration.",
+        "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 139,
+        "gate": "sanitization",
+        "family": "Men are Power",
+        "finding": "Cycle 2 Phase 1 FAIL: Doxeller's source-explicit child-commodification criteria/dehumanizing exchange and the imminent beheading image are materially generalized/omitted.",
+        "evidence": "qa/cycle2/sanitization/men-are-power-0139-0140.md"
+      },
+      {
+        "chapter": 140,
+        "gate": "sanitization",
+        "family": "Men are Power",
+        "finding": "Cycle 2 Phase 1 FAIL: explicit limb-severing intent, Seven-Fang tearing/crushing, impalement, dissection intent, bloody digging, flesh/organ escape traces, children sold as demon food, and crime-scene blood/flesh imagery are materially generalized or omitted.",
+        "evidence": "qa/cycle2/sanitization/men-are-power-0139-0140.md"
+      },
+      {
+        "chapter": 155,
+        "gate": "sanitization",
+        "family": "How to Keep Your Night Shift Employees Safe",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's repeated specific accusation that Vikir urinated on the Saintess's belly is generalized to wetting himself while lying over/on her.",
+        "evidence": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+      },
+      {
+        "chapter": 157,
+        "gate": "sanitization",
+        "family": "How to Keep Your Night Shift Employees Safe",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit heart-fluttering attraction to Vikir's calm wetting aftermath and Dolores's heart-stirring reaction to the Night Hound are softened to generic impressiveness/interest.",
+        "evidence": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+      },
+      {
+        "chapter": 158,
+        "gate": "sanitization",
+        "family": "Familiar Face",
+        "finding": "Cycle 2 Phase 1 FAIL: the source describes the Seventh Fang as existing to make enemies die painfully; the draft recasts this as efficient killing.",
+        "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+      },
+      {
+        "chapter": 159,
+        "gate": "sanitization",
+        "family": "Familiar Face",
+        "finding": "Cycle 2 Phase 1 FAIL: the narrator's explicit beautiful/sorrowful Dolores image that would make any man feel heartache is omitted.",
+        "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+      },
+      {
+        "chapter": 160,
+        "gate": "sanitization",
+        "family": "Familiar Face",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit visible bone/internal organs and Dolores's close-range awareness of a young man's naked body are generalized.",
+        "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+      },
+      {
+        "chapter": 161,
+        "gate": "sanitization",
+        "family": "Familiar Face",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit non-erotic naked-corpse identification and the physical-development comparison used to rule out Camus are generalized/omitted.",
+        "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+      },
+      {
+        "chapter": 162,
+        "gate": "sanitization",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit heart-flutter reaction to the Night Hound's hidden beauty is omitted.",
+        "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 163,
+        "gate": "sanitization",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 1 FAIL: real faces being peeled from victims' facial skin and the source's 'sexy woman' face descriptor are generalized.",
+        "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 166,
+        "gate": "sanitization",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 1 FAIL: blood/flesh/internal-organ fragments covering the floor and Dolores's source-explicit physical comforting impulses are omitted/compressed.",
+        "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 167,
+        "gate": "sanitization",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's physical-and-spiritual fusion sensation during soul resonance is changed to 'Not physically. Spiritually.'",
+        "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 177,
+        "gate": "sanitization",
+        "family": "The 99 Hits With 100 Shots",
+        "finding": "Cycle 2 Phase 1 FAIL: the source explicitly has Dolores rub puppy-form Vikir's back and buttocks; the draft retains only his back.",
+        "evidence": "qa/cycle2/sanitization/99-hits-0176-0178.md"
+      },
+      {
+        "chapter": 185,
+        "gate": "sanitization",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 1 FAIL: the draft adds mucus to Bianca's crying during Pigi's revival scene, while the Chinese source supports tears/crying only; this is unsupported intensification.",
+        "evidence": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
       }
     ],
     "wave_a": {
@@ -25422,15 +25719,302 @@
       "chapter": 22,
       "gate": "sanitization",
       "family": "Camus Morgue",
-      "finding": "Future-adult Camus seduction/beauty-tactic and mature-body political-power description was generalized/omitted.",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL; see family evidence for exact source softening/generalization.",
       "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 24,
       "gate": "sanitization",
       "family": "Camus Morgue",
-      "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL; see family evidence for exact source softening/generalization.",
       "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+    },
+    {
+      "chapter": 35,
+      "gate": "sanitization",
+      "family": "Slave Auction",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: Audience reaction wording was intensified beyond the Chinese source in two places.",
+      "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+    },
+    {
+      "chapter": 36,
+      "gate": "sanitization",
+      "family": "Slave Auction",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
+      "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+    },
+    {
+      "chapter": 37,
+      "gate": "sanitization",
+      "family": "Slave Auction",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: Explicit internal-organ gore was generalized to a nonspecific cutting description.",
+      "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+    },
+    {
+      "chapter": 40,
+      "gate": "sanitization",
+      "family": "Morgue's United Front",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: close-range chest stabbing softened to mere contact.",
+      "evidence": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+    },
+    {
+      "chapter": 51,
+      "gate": "sanitization",
+      "family": "The Husband Hunt",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown.",
+      "evidence": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+    },
+    {
+      "chapter": 52,
+      "gate": "sanitization",
+      "family": "Slaves of the Savage Tribe",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: sharp rib fragments piercing internal organs softened to generic organ damage.",
+      "evidence": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+    },
+    {
+      "chapter": 60,
+      "gate": "sanitization",
+      "family": "The Hunter and the Hunted",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: concrete combat-gore details were generalized.",
+      "evidence": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+    },
+    {
+      "chapter": 64,
+      "gate": "sanitization",
+      "family": "Unfair Trade",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized.",
+      "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+    },
+    {
+      "chapter": 65,
+      "gate": "sanitization",
+      "family": "Unfair Trade",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized.",
+      "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+    },
+    {
+      "chapter": 66,
+      "gate": "sanitization",
+      "family": "Unfair Trade",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized.",
+      "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+    },
+    {
+      "chapter": 74,
+      "gate": "sanitization",
+      "family": "The Red Death",
+      "finding": "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted.",
+      "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
+    },
+    {
+      "chapter": 75,
+      "gate": "sanitization",
+      "family": "The Hound of the Night",
+      "finding": "Cycle 2 Phase 1 FAIL: floating-corpse footing imagery was generalized away.",
+      "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+    },
+    {
+      "chapter": 76,
+      "gate": "sanitization",
+      "family": "The Hound of the Night",
+      "finding": "Cycle 2 Phase 1 FAIL: children's collapse/wetting terror response omitted; operational pathogen details remain safety-limited.",
+      "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+    },
+    {
+      "chapter": 77,
+      "gate": "sanitization",
+      "family": "The Hound of the Night",
+      "finding": "Cycle 2 Phase 1 FAIL: Mozgus cruelty characterization and torture-application memory were softened/omitted.",
+      "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+    },
+    {
+      "chapter": 81,
+      "gate": "sanitization",
+      "family": "The Saintess",
+      "finding": "Cycle 2 Phase 1 FAIL: flowing-blood treatment detail was generalized.",
+      "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
+    },
+    {
+      "chapter": 83,
+      "gate": "sanitization",
+      "family": "Lovesickness",
+      "finding": "Cycle 2 Phase 1 FAIL: severed-limb aftermath and concrete crude/anatomical memory details were generalized.",
+      "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+    },
+    {
+      "chapter": 84,
+      "gate": "sanitization",
+      "family": "Lovesickness",
+      "finding": "Cycle 2 Phase 1 FAIL: Rokoko cannibalism characterization was omitted.",
+      "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+    },
+    {
+      "chapter": 94,
+      "gate": "sanitization",
+      "family": "The Ghosts of the Ancestors",
+      "finding": "Cycle 2 Phase 1 FAIL: explicit internal-organ-fragment gore was generalized to nonspecific ruined tissue.",
+      "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+    },
+    {
+      "chapter": 129,
+      "gate": "sanitization",
+      "family": "Admission to the Academy",
+      "finding": "Cycle 2 Phase 1 FAIL: Bartison's source-explicit severed wrists/cauterized stumps, severed ankles, throat strike, and death struggle are collapsed to a near-instant generic death.",
+      "evidence": "qa/cycle2/sanitization/admission-academy-0126-0129.md"
+    },
+    {
+      "chapter": 130,
+      "gate": "sanitization",
+      "family": "The Freshman Talent Show",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit Age-of-Destruction imagery of corpses piled into mountains and blood flowing like rivers is generalized into softer memorial/front-line language.",
+      "evidence": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+    },
+    {
+      "chapter": 131,
+      "gate": "sanitization",
+      "family": "The Freshman Talent Show",
+      "finding": "Cycle 2 Phase 1 FAIL: the narrator's explicit characterization of the bullies as cruel, brutal, merciless, malicious, and violent is softened into generic bullying/toy imagery.",
+      "evidence": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+    },
+    {
+      "chapter": 132,
+      "gate": "sanitization",
+      "family": "The Freshman Talent Show",
+      "finding": "Cycle 2 Phase 1 FAIL: detailed facial injuries, fear-wetting, knife-cut target marks, and the explicit threat to kill the bullies and their parents are materially generalized/softened.",
+      "evidence": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+    },
+    {
+      "chapter": 133,
+      "gate": "sanitization",
+      "family": "Test Your Skills",
+      "finding": "Cycle 2 Phase 1 FAIL: explicit death threats against the six bullies and their parents, collective-warning language, and the source's 'nearly beaten into meat paste' flashback are materially generalized.",
+      "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+    },
+    {
+      "chapter": 135,
+      "gate": "sanitization",
+      "family": "Test Your Skills",
+      "finding": "Cycle 2 Phase 1 FAIL: explicit 'beat him up' and repeated 'kill you' aggression is softened to irritation / 'crush you.'",
+      "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+    },
+    {
+      "chapter": 136,
+      "gate": "sanitization",
+      "family": "Test Your Skills",
+      "finding": "Cycle 2 Phase 1 FAIL: Tudor's explicit intent to knock Vikir unconscious and the source's broader injury description are softened/generalized.",
+      "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+    },
+    {
+      "chapter": 137,
+      "gate": "sanitization",
+      "family": "Test Your Skills",
+      "finding": "Cycle 2 Phase 1 FAIL: a source-explicit bystander reaction asking whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'",
+      "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+    },
+    {
+      "chapter": 138,
+      "gate": "sanitization",
+      "family": "Test Your Skills",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's materially stronger possessive/objectifying and sexualized crowd reaction to Vikir's appearance is trimmed to generic admiration.",
+      "evidence": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+    },
+    {
+      "chapter": 139,
+      "gate": "sanitization",
+      "family": "Men are Power",
+      "finding": "Cycle 2 Phase 1 FAIL: Doxeller's source-explicit child-commodification criteria/dehumanizing exchange and the imminent beheading image are materially generalized/omitted.",
+      "evidence": "qa/cycle2/sanitization/men-are-power-0139-0140.md"
+    },
+    {
+      "chapter": 140,
+      "gate": "sanitization",
+      "family": "Men are Power",
+      "finding": "Cycle 2 Phase 1 FAIL: explicit limb-severing intent, Seven-Fang tearing/crushing, impalement, dissection intent, bloody digging, flesh/organ escape traces, children sold as demon food, and crime-scene blood/flesh imagery are materially generalized or omitted.",
+      "evidence": "qa/cycle2/sanitization/men-are-power-0139-0140.md"
+    },
+    {
+      "chapter": 155,
+      "gate": "sanitization",
+      "family": "How to Keep Your Night Shift Employees Safe",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's repeated specific accusation that Vikir urinated on the Saintess's belly is generalized to wetting himself while lying over/on her.",
+      "evidence": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+    },
+    {
+      "chapter": 157,
+      "gate": "sanitization",
+      "family": "How to Keep Your Night Shift Employees Safe",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit heart-fluttering attraction to Vikir's calm wetting aftermath and Dolores's heart-stirring reaction to the Night Hound are softened to generic impressiveness/interest.",
+      "evidence": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+    },
+    {
+      "chapter": 158,
+      "gate": "sanitization",
+      "family": "Familiar Face",
+      "finding": "Cycle 2 Phase 1 FAIL: the source describes the Seventh Fang as existing to make enemies die painfully; the draft recasts this as efficient killing.",
+      "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 159,
+      "gate": "sanitization",
+      "family": "Familiar Face",
+      "finding": "Cycle 2 Phase 1 FAIL: the narrator's explicit beautiful/sorrowful Dolores image that would make any man feel heartache is omitted.",
+      "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 160,
+      "gate": "sanitization",
+      "family": "Familiar Face",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit visible bone/internal organs and Dolores's close-range awareness of a young man's naked body are generalized.",
+      "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 161,
+      "gate": "sanitization",
+      "family": "Familiar Face",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit non-erotic naked-corpse identification and the physical-development comparison used to rule out Camus are generalized/omitted.",
+      "evidence": "qa/cycle2/sanitization/familiar-face-0158-0161.md"
+    },
+    {
+      "chapter": 162,
+      "gate": "sanitization",
+      "family": "Sin and Punishment",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit heart-flutter reaction to the Night Hound's hidden beauty is omitted.",
+      "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 163,
+      "gate": "sanitization",
+      "family": "Sin and Punishment",
+      "finding": "Cycle 2 Phase 1 FAIL: real faces being peeled from victims' facial skin and the source's 'sexy woman' face descriptor are generalized.",
+      "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 166,
+      "gate": "sanitization",
+      "family": "Sin and Punishment",
+      "finding": "Cycle 2 Phase 1 FAIL: blood/flesh/internal-organ fragments covering the floor and Dolores's source-explicit physical comforting impulses are omitted/compressed.",
+      "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 167,
+      "gate": "sanitization",
+      "family": "Sin and Punishment",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's physical-and-spiritual fusion sensation during soul resonance is changed to 'Not physically. Spiritually.'",
+      "evidence": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+    },
+    {
+      "chapter": 177,
+      "gate": "sanitization",
+      "family": "The 99 Hits With 100 Shots",
+      "finding": "Cycle 2 Phase 1 FAIL: the source explicitly has Dolores rub puppy-form Vikir's back and buttocks; the draft retains only his back.",
+      "evidence": "qa/cycle2/sanitization/99-hits-0176-0178.md"
+    },
+    {
+      "chapter": 185,
+      "gate": "sanitization",
+      "family": "Midterm Random Defense",
+      "finding": "Cycle 2 Phase 1 FAIL: the draft adds mucus to Bianca's crying during Pigi's revival scene, while the Chinese source supports tears/crying only; this is unsupported intensification.",
+      "evidence": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
     }
   ],
   "status_vocabulary": {
