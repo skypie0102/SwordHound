@@ -4,21 +4,21 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 100 / 500
-**Cycle-2 sanitization PASS:** 62 / 500
-**Cycle-2 sanitization FAIL:** 20 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 202 / 500
+**Cycle-2 sanitization PASS:** 132 / 500
+**Cycle-2 sanitization FAIL:** 52 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 20 sanitization-fidelity failures in Chapters 1–100; see `qa/cycle2-phase1-wave-a-summary.md`
-**Current audit stage:** Phase 1 — full-corpus sanitization fidelity sweep
+**Confirmed Cycle-2 failures:** 52 sanitization-fidelity failures through Chapter 202; see `qa/cycle2-phase1-wave-a-summary.md` and `qa/cycle2-phase1-wave-b-summary.md`
+**Current audit stage:** Phase 1 — family-complete Wave-B checkpoint through Chapter 202; next `Mixed Bath (203–205)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
 **Phase-0 merge commit:** 1200bb1183aef5df766be7ed8818f9137cb88254  
 **Wave-A integration:** PR #145 MERGED  
 **Wave-A merge commit:** 8489281a01b025c5effabb172545fc110fc82ae9  
-**Next working branch:** audit/cycle2-phase1-wave-b
+**Active working branch:** `audit/cycle2-phase1-wave-b`
 
 ## Why the project focus changed
 
@@ -96,21 +96,31 @@ Evidence:
 - PASS: **62**;
 - FAIL: **20**;
 - SAFETY-LIMITED-REVIEWED: **18**;
-- resolved without remediation: **80 / 100**;
-- manuscript edits during Phase-1 discovery: **0**;
-- all 20 failures are queued for Phase 4 rather than patched piecemeal.
+- manuscript edits during discovery: **0**.
 
-Wave-A evidence and failure list: `qa/cycle2-phase1-wave-a-summary.md`.
+Evidence: `qa/cycle2-phase1-wave-a-summary.md`.
 
-The ledger's interrupted-run safety status vocabulary was normalized at this checkpoint so later automation sees one canonical safety status.
+**Wave B family-complete checkpoint (Chapters 101–202): COMPLETE.**
+
+The nominal Wave-B band is 101–200, but *The Corpse Queen* spans 198–202, so review continued through Chapter 202 rather than split the family.
+
+- reviewed in checkpoint: **102**;
+- PASS: **70**;
+- FAIL: **32**;
+- SAFETY-LIMITED-REVIEWED: **0**;
+- manuscript edits during discovery: **0**;
+- overall Phase 1: **202 / 500 reviewed — 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
+- all **52** failures remain queued for Phase 4.
+
+Evidence: `qa/cycle2-phase1-wave-b-summary.md` plus family evidence under `qa/cycle2/sanitization/`.
 
 ## Exact next actions
 
-1. Integrate the completed Wave-A audit package.
-2. Continue Phase 1 with **Nostalgia (101–104)**.
-3. Proceed through Wave B in contiguous title-family order through Chapter 200.
-4. Do not remediate Wave-A failures yet; Phase 4 owns manuscript correction/rebinding after discovery gates finish.
-5. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
+1. Continue Phase 1 with **Mixed Bath (203–205)**.
+2. Continue chronologically through Wave C without splitting contiguous title families at arbitrary round-number boundaries.
+3. Do not remediate the 52 discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
+4. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
+5. Keep the ledger and live status docs synchronized at meaningful family/wave checkpoints.
 6. Keep EPUB assembly blocked.
 
-The next agent should not resume EPUB packaging. The audit is the immediate project focus until Phase 6 closes.
+The next agent should resume at **Chapter 203**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
