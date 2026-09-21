@@ -333,9 +333,11 @@
         62,
         63
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "resolved_safety_limited",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 19,
@@ -4913,12 +4915,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md"
     },
     {
       "chapter": 62,
@@ -4958,12 +4963,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md"
     },
     {
       "chapter": 63,
@@ -5003,12 +5011,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md"
     },
     {
       "chapter": 64,
@@ -24873,17 +24884,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 60,
+    "sanitization_reviewed_count": 63,
     "sanitization_pass_count": 39,
     "sanitization_fail_count": 9,
-    "sanitization_safety_limited_count": 12,
-    "sanitization_resolved_count": 51,
+    "sanitization_safety_limited_count": 15,
+    "sanitization_resolved_count": 54,
     "sanitization_revalidated_count": 39,
     "next_family": {
-      "name": "The Protagonist of Hunting",
+      "name": "Unfair Trade",
       "range": [
-        61,
-        63
+        64,
+        67
       ]
     },
     "confirmed_failures": [
