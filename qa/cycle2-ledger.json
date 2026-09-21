@@ -1049,9 +1049,16 @@
         204,
         205
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        203,
+        204,
+        205
+      ]
     },
     {
       "index": 53,
@@ -11977,12 +11984,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: habitual humiliation/torment of weaker students is compressed to generic bullying, and an explicit threat to burn dog-form Vikir alive is softened to 'Burn it.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
     },
     {
       "chapter": 204,
@@ -12022,12 +12032,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dolores's dehumanizing 'pests' characterization and a student's explicit plea that his father will beat him to death are omitted/generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
     },
     {
       "chapter": 205,
@@ -12067,12 +12080,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: several source-present non-explicit bath/affection/body-state details are omitted, including belly/nose contact, repeated kissing, later lip/nose contact, and Dolores's explicit post-bath naked state."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
     },
     {
       "chapter": 206,
@@ -25461,17 +25477,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 202,
+    "sanitization_reviewed_count": 205,
     "sanitization_pass_count": 132,
-    "sanitization_fail_count": 52,
+    "sanitization_fail_count": 55,
     "sanitization_safety_limited_count": 18,
     "sanitization_resolved_count": 150,
     "sanitization_revalidated_count": 132,
     "next_family": {
-      "name": "Mixed Bath",
+      "name": "Festival Night",
       "range": [
-        203,
-        205
+        206,
+        215
       ]
     },
     "confirmed_failures": [
@@ -25838,6 +25854,27 @@
         "family": "The Corpse Queen",
         "finding": "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body.",
         "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 203,
+        "gate": "sanitization",
+        "family": "Mixed Bath",
+        "finding": "Cycle 2 Phase 1 FAIL: habitual humiliation/torment of weaker students is compressed to generic bullying, and an explicit threat to burn dog-form Vikir alive is softened to 'Burn it.'",
+        "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+      },
+      {
+        "chapter": 204,
+        "gate": "sanitization",
+        "family": "Mixed Bath",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores's dehumanizing 'pests' characterization and a student's explicit plea that his father will beat him to death are omitted/generalized.",
+        "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+      },
+      {
+        "chapter": 205,
+        "gate": "sanitization",
+        "family": "Mixed Bath",
+        "finding": "Cycle 2 Phase 1 FAIL: several source-present non-explicit bath/affection/body-state details are omitted, including belly/nose contact, repeated kissing, later lip/nose contact, and Dolores's explicit post-bath naked state.",
+        "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
       }
     ],
     "wave_a": {
@@ -26217,6 +26254,27 @@
       "family": "The Corpse Queen",
       "finding": "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body.",
       "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 203,
+      "gate": "sanitization",
+      "family": "Mixed Bath",
+      "finding": "Cycle 2 Phase 1 FAIL: habitual humiliation/torment of weaker students is compressed to generic bullying, and an explicit threat to burn dog-form Vikir alive is softened to 'Burn it.'",
+      "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+    },
+    {
+      "chapter": 204,
+      "gate": "sanitization",
+      "family": "Mixed Bath",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores's dehumanizing 'pests' characterization and a student's explicit plea that his father will beat him to death are omitted/generalized.",
+      "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+    },
+    {
+      "chapter": 205,
+      "gate": "sanitization",
+      "family": "Mixed Bath",
+      "finding": "Cycle 2 Phase 1 FAIL: several source-present non-explicit bath/affection/body-state details are omitted, including belly/nose contact, repeated kissing, later lip/nose contact, and Dolores's explicit post-bath naked state.",
+      "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
     }
   ],
   "status_vocabulary": {
