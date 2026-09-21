@@ -1537,14 +1537,28 @@
         "family": "The Saintess",
         "finding": "The source's flowing-blood detail during the fictional scalpel/divine-power treatment was generalized.",
         "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
+      },
+      {
+        "chapter": 83,
+        "gate": "sanitization",
+        "family": "Lovesickness",
+        "finding": "Severed-limb aftermath plus concrete wetting/anatomical memory details were generalized.",
+        "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 84,
+        "gate": "sanitization",
+        "family": "Lovesickness",
+        "finding": "Rokoko cannibalism characterization was omitted.",
+        "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
       }
     ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "Lovesickness",
+      "name": "The Illiad",
       "range": [
-        83,
-        84
+        85,
+        89
       ]
     },
     "epub_assembly_blocked": true,
@@ -1553,17 +1567,17 @@
     "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
     "phase0_diagnostic_chapter_coverage": 500,
     "phase1_last_completed_family": {
-      "name": "The Saintess",
+      "name": "Lovesickness",
       "range": [
-        78,
-        82
+        83,
+        84
       ],
-      "result": "mixed",
-      "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
+      "result": "fail",
+      "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
     },
-    "sanitization_reviewed_count": 82,
+    "sanitization_reviewed_count": 84,
     "sanitization_pass_count": 47,
-    "sanitization_fail_count": 17,
+    "sanitization_fail_count": 19,
     "sanitization_safety_limited_count": 18,
     "sanitization_resolved_count": 65
   }
