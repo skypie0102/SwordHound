@@ -7582,7 +7582,7 @@
     "plan_file": "qa/manuscript-sanitization-completeness-cycle2.md",
     "scope_target_chapters": 500,
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 43,
+    "sanitization_revalidated_count": 45,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [
@@ -7669,14 +7669,21 @@
         "family": "Unfair Trade",
         "finding": "Direct racial threats and several combat-gore details were generalized.",
         "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 74,
+        "gate": "sanitization",
+        "family": "The Red Death",
+        "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
+        "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
       }
     ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "The Red Death",
+      "name": "The Hound of the Night",
       "range": [
-        72,
-        74
+        75,
+        77
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7692,18 +7699,18 @@
     "phase0_acceptance_sha_mismatches": 0,
     "phase0_forbidden_content_edits": 0,
     "phase1_last_completed_family": {
-      "name": "Blood Relatives",
+      "name": "The Red Death",
       "range": [
-        68,
-        71
+        72,
+        74
       ],
-      "result": "pass",
-      "evidence": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
+      "result": "fail",
+      "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
-    "sanitization_reviewed_count": 71,
-    "sanitization_pass_count": 43,
-    "sanitization_fail_count": 12,
+    "sanitization_reviewed_count": 74,
+    "sanitization_pass_count": 45,
+    "sanitization_fail_count": 13,
     "sanitization_safety_limited_count": 16,
-    "sanitization_resolved_count": 59
+    "sanitization_resolved_count": 61
   }
 }
