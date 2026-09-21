@@ -457,9 +457,11 @@
         88,
         89
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 26,
@@ -6085,12 +6087,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 86,
@@ -6130,12 +6135,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 87,
@@ -6175,12 +6183,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 88,
@@ -6220,12 +6231,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 89,
@@ -6265,12 +6279,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 90,
@@ -24955,17 +24972,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 84,
-    "sanitization_pass_count": 47,
+    "sanitization_reviewed_count": 89,
+    "sanitization_pass_count": 52,
     "sanitization_fail_count": 19,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 65,
-    "sanitization_revalidated_count": 47,
+    "sanitization_resolved_count": 70,
+    "sanitization_revalidated_count": 52,
     "next_family": {
-      "name": "The Illiad",
+      "name": "The Ghosts of the Ancestors",
       "range": [
-        85,
-        89
+        90,
+        94
       ]
     },
     "confirmed_failures": [
