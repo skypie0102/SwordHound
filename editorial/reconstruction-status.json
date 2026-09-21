@@ -555,6 +555,7 @@
     500
   ],
   "notes": [
+    "2026-09-21: Cycle 2 Phase 1 reviewed Camus Morgue 20-25. Chapters22 and24 failed sanitization fidelity and are queued for Phase4 remediation; 25 reviewed / 23 pass / 2 fail. Next: The Graduate 26-27.",
     "2026-09-21: Cycle 2 Phase 1 sanitization review passed Bared Teeth 18-19 with no manuscript edits; sanitization revalidated 19/500. Next: Camus Morgue 20-25.",
     "2026-09-21: Cycle 2 Phase 1 sanitization review passed Solitary 14-17 with no manuscript edits; sanitization revalidated 17/500. Next: Bared Teeth 18-19.",
     "2026-09-21: Cycle 2 Phase 1 sanitization review passed The Gluttonous Flies 12-13 with no manuscript edits; sanitization revalidated 13/500. Next: Solitary 14-17.",
@@ -1400,16 +1401,31 @@
     "opened": "2026-09-21",
     "plan": "qa/manuscript-sanitization-completeness-cycle2.md",
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 19,
+    "sanitization_revalidated_count": 23,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
-    "confirmed_failures": [],
+    "confirmed_failures": [
+      {
+        "chapter": 22,
+        "gate": "sanitization",
+        "family": "Camus Morgue",
+        "finding": "Future-adult Camus seduction/beauty-tactic and mature-body political-power description was generalized/omitted.",
+        "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+      },
+      {
+        "chapter": 24,
+        "gate": "sanitization",
+        "family": "Camus Morgue",
+        "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+      }
+    ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "Camus Morgue",
+      "name": "The Graduate",
       "range": [
-        20,
-        25
+        26,
+        27
       ]
     },
     "epub_assembly_blocked": true,
@@ -1418,13 +1434,20 @@
     "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
     "phase0_diagnostic_chapter_coverage": 500,
     "phase1_last_completed_family": {
-      "name": "Bared Teeth",
+      "name": "Camus Morgue",
       "range": [
-        18,
-        19
+        20,
+        25
       ],
-      "result": "pass",
-      "evidence": "qa/cycle2/sanitization/bared-teeth-0018-0019.md"
-    }
+      "result": "fail",
+      "failed_chapters": [
+        22,
+        24
+      ],
+      "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+    },
+    "sanitization_reviewed_count": 25,
+    "sanitization_pass_count": 23,
+    "sanitization_fail_count": 2
   }
 }
