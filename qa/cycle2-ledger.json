@@ -960,9 +960,16 @@
         188,
         189
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        186,
+        188,
+        189
+      ]
     },
     {
       "index": 49,
@@ -11136,12 +11143,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the Chinese Clocktower attack report explicitly refers to a death toll, but the draft omits that death-toll reference."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
     },
     {
       "chapter": 187,
@@ -11181,12 +11191,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
     },
     {
       "chapter": 188,
@@ -11226,12 +11239,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source allegation that Sadi severely beats talented students until disabled/crippled is weakened to generic serious injuries."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
     },
     {
       "chapter": 189,
@@ -11271,12 +11287,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit profanity/insult force in the public comments is generalized away, and Vikir's explicit plan to catch and kill the copycat(s) is softened to 'eliminate the imitators.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
     },
     {
       "chapter": 190,
@@ -25385,17 +25404,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 185,
-    "sanitization_pass_count": 124,
-    "sanitization_fail_count": 43,
+    "sanitization_reviewed_count": 189,
+    "sanitization_pass_count": 125,
+    "sanitization_fail_count": 46,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 142,
-    "sanitization_revalidated_count": 124,
+    "sanitization_resolved_count": 143,
+    "sanitization_revalidated_count": 125,
     "next_family": {
-      "name": "Aftermath",
+      "name": "Attack Land",
       "range": [
-        186,
-        189
+        190,
+        196
       ]
     },
     "confirmed_failures": [
@@ -25699,6 +25718,27 @@
         "family": "Midterm Random Defense",
         "finding": "Cycle 2 Phase 1 FAIL: the draft adds mucus to Bianca's crying during Pigi's revival scene, while the Chinese source supports tears/crying only; this is unsupported intensification.",
         "evidence": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 186,
+        "gate": "sanitization",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 1 FAIL: the Chinese Clocktower attack report explicitly refers to a death toll, but the draft omits that death-toll reference.",
+        "evidence": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+      },
+      {
+        "chapter": 188,
+        "gate": "sanitization",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 1 FAIL: the source allegation that Sadi severely beats talented students until disabled/crippled is weakened to generic serious injuries.",
+        "evidence": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+      },
+      {
+        "chapter": 189,
+        "gate": "sanitization",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit profanity/insult force in the public comments is generalized away, and Vikir's explicit plan to catch and kill the copycat(s) is softened to 'eliminate the imitators.'",
+        "evidence": "qa/cycle2/sanitization/aftermath-0186-0189.md"
       }
     ],
     "wave_a": {
@@ -26015,6 +26055,27 @@
       "family": "Midterm Random Defense",
       "finding": "Cycle 2 Phase 1 FAIL: the draft adds mucus to Bianca's crying during Pigi's revival scene, while the Chinese source supports tears/crying only; this is unsupported intensification.",
       "evidence": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+    },
+    {
+      "chapter": 186,
+      "gate": "sanitization",
+      "family": "Aftermath",
+      "finding": "Cycle 2 Phase 1 FAIL: the Chinese Clocktower attack report explicitly refers to a death toll, but the draft omits that death-toll reference.",
+      "evidence": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+    },
+    {
+      "chapter": 188,
+      "gate": "sanitization",
+      "family": "Aftermath",
+      "finding": "Cycle 2 Phase 1 FAIL: the source allegation that Sadi severely beats talented students until disabled/crippled is weakened to generic serious injuries.",
+      "evidence": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+    },
+    {
+      "chapter": 189,
+      "gate": "sanitization",
+      "family": "Aftermath",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit profanity/insult force in the public comments is generalized away, and Vikir's explicit plan to catch and kill the copycat(s) is softened to 'eliminate the imitators.'",
+      "evidence": "qa/cycle2/sanitization/aftermath-0186-0189.md"
     }
   ],
   "status_vocabulary": {
