@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    61,
+    77
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 61,
+      "title": "The Protagonist of Hunting (1)",
+      "draft_blob_sha": "12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b",
+      "draft_raw_byte_ratio": 0.916972,
+      "metrics": {
+        "char_count": 8387,
+        "line_count": 313,
+        "nonempty_line_count": 158,
+        "paragraph_count": 155,
+        "dialogue_line_count": 27,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 71,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 11,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 4
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 20.269,
+        "opening_signature": "467d4153",
+        "closing_signature": "37c256ed"
+      }
+    },
+    {
+      "chapter": 62,
+      "title": "The Protagonist of Hunting (2)",
+      "draft_blob_sha": "aa267163bf0959623b7adc94f906518e8ac73ada",
+      "draft_raw_byte_ratio": 0.835938,
+      "metrics": {
+        "char_count": 7605,
+        "line_count": 333,
+        "nonempty_line_count": 169,
+        "paragraph_count": 164,
+        "dialogue_line_count": 39,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 98,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 13,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 16,
+        "explicitness_per_10k_chars": 21.039,
+        "opening_signature": "c8cb6f20",
+        "closing_signature": "b350d277"
+      }
+    },
+    {
+      "chapter": 63,
+      "title": "The Protagonist of Hunting (3)",
+      "draft_blob_sha": "3a95a006e7bb54d8f35202366da98cff0cebe7a4",
+      "draft_raw_byte_ratio": 0.826885,
+      "metrics": {
+        "char_count": 8182,
+        "line_count": 326,
+        "nonempty_line_count": 163,
+        "paragraph_count": 163,
+        "dialogue_line_count": 41,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 113,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 8.555,
+        "opening_signature": "353d4193",
+        "closing_signature": "16cefd4d"
+      }
+    },
+    {
+      "chapter": 64,
+      "title": "Unfair Trade (1)",
+      "draft_blob_sha": "7247c9434ad5695d86de99fd8507c42cc9d90ee1",
+      "draft_raw_byte_ratio": 0.671286,
+      "metrics": {
+        "char_count": 6621,
+        "line_count": 308,
+        "nonempty_line_count": 154,
+        "paragraph_count": 154,
+        "dialogue_line_count": 24,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 59,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 6.041,
+        "opening_signature": "2d5a1753",
+        "closing_signature": "12c97ac2"
+      }
+    },
+    {
+      "chapter": 65,
+      "title": "Unfair Trade (2)",
+      "draft_blob_sha": "ebd844a6441338d2cc37fafd9fb47a340d0ab9d1",
+      "draft_raw_byte_ratio": 0.684176,
+      "metrics": {
+        "char_count": 9180,
+        "line_count": 404,
+        "nonempty_line_count": 202,
+        "paragraph_count": 202,
+        "dialogue_line_count": 63,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 166,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 5
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 9.804,
+        "opening_signature": "7d9e087d",
+        "closing_signature": "927e4a9a"
+      }
+    },
+    {
+      "chapter": 66,
+      "title": "Unfair Trade (3)",
+      "draft_blob_sha": "b4c7957d92f3809bc1e8addf3e811682c7ca10d6",
+      "draft_raw_byte_ratio": 0.63349,
+      "metrics": {
+        "char_count": 7694,
+        "line_count": 408,
+        "nonempty_line_count": 204,
+        "paragraph_count": 204,
+        "dialogue_line_count": 58,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 144,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 10.398,
+        "opening_signature": "f2ef2023",
+        "closing_signature": "56c9138b"
+      }
+    },
+    {
+      "chapter": 67,
+      "title": "Unfair Trade (4)",
+      "draft_blob_sha": "e1984e1e6f412fdc4466cb45b6422e2747b9cf39",
+      "draft_raw_byte_ratio": 0.672446,
+      "metrics": {
+        "char_count": 7396,
+        "line_count": 322,
+        "nonempty_line_count": 161,
+        "paragraph_count": 161,
+        "dialogue_line_count": 45,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 129,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.704,
+        "opening_signature": "acf667bc",
+        "closing_signature": "1c2701a2"
+      }
+    },
+    {
+      "chapter": 68,
+      "title": "Blood Relatives (1)",
+      "draft_blob_sha": "9ad978191ee34ae273fc1f7246c156b990b231c2",
+      "draft_raw_byte_ratio": 0.93234,
+      "metrics": {
+        "char_count": 7947,
+        "line_count": 382,
+        "nonempty_line_count": 191,
+        "paragraph_count": 191,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 82,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 10.067,
+        "opening_signature": "21e84783",
+        "closing_signature": "82f8650b"
+      }
+    },
+    {
+      "chapter": 69,
+      "title": "Blood Relatives (2)",
+      "draft_blob_sha": "24da6e2f484446ad806117ba9f3748a78c0ff048",
+      "draft_raw_byte_ratio": 0.707981,
+      "metrics": {
+        "char_count": 7143,
+        "line_count": 348,
+        "nonempty_line_count": 174,
+        "paragraph_count": 174,
+        "dialogue_line_count": 32,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 79,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 15,
+        "explicitness_per_10k_chars": 21,
+        "opening_signature": "23f92920",
+        "closing_signature": "a0343cd0"
+      }
+    },
+    {
+      "chapter": 70,
+      "title": "Blood Relatives (3)",
+      "draft_blob_sha": "23ac1fdea81e8a555c3a21f16b4015c9a6871ddb",
+      "draft_raw_byte_ratio": 0.661685,
+      "metrics": {
+        "char_count": 5855,
+        "line_count": 318,
+        "nonempty_line_count": 159,
+        "paragraph_count": 159,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 72,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 10,
+        "explicitness_per_10k_chars": 17.079,
+        "opening_signature": "7ada396c",
+        "closing_signature": "141e20df"
+      }
+    },
+    {
+      "chapter": 71,
+      "title": "Blood Relatives (4)",
+      "draft_blob_sha": "1921fcb4fffd7e964d4f0f4c5542ae494cf81a16",
+      "draft_raw_byte_ratio": 0.811055,
+      "metrics": {
+        "char_count": 6969,
+        "line_count": 336,
+        "nonempty_line_count": 168,
+        "paragraph_count": 168,
+        "dialogue_line_count": 26,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 73,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 10.044,
+        "opening_signature": "97f8fe8d",
+        "closing_signature": "42ebd083"
+      }
+    },
+    {
+      "chapter": 72,
+      "title": "The Red Death (1)",
+      "draft_blob_sha": "194916079b9a805456013237aec4ef05f389b071",
+      "draft_raw_byte_ratio": 0.840482,
+      "metrics": {
+        "char_count": 7231,
+        "line_count": 342,
+        "nonempty_line_count": 171,
+        "paragraph_count": 171,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 16.595,
+        "opening_signature": "924bcfe5",
+        "closing_signature": "5bac17b3"
+      }
+    },
+    {
+      "chapter": 73,
+      "title": "The Red Death (2)",
+      "draft_blob_sha": "7ec4255821d6d640912a6848faf3394ef416ba2d",
+      "draft_raw_byte_ratio": 0.711954,
+      "metrics": {
+        "char_count": 6167,
+        "line_count": 338,
+        "nonempty_line_count": 171,
+        "paragraph_count": 167,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 82,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 8,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 12.972,
+        "opening_signature": "43d798dc",
+        "closing_signature": "eb79a7cf"
+      }
+    },
+    {
+      "chapter": 74,
+      "title": "The Red Death (3)",
+      "draft_blob_sha": "7693e61cba97e5a84c8b2c864e91cdf7784d31f1",
+      "draft_raw_byte_ratio": 0.86034,
+      "metrics": {
+        "char_count": 6383,
+        "line_count": 360,
+        "nonempty_line_count": 180,
+        "paragraph_count": 180,
+        "dialogue_line_count": 43,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 105,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 12.533,
+        "opening_signature": "3294f984",
+        "closing_signature": "11869046"
+      }
+    },
+    {
+      "chapter": 75,
+      "title": "The Hound of the Night (1)",
+      "draft_blob_sha": "d5f09a9758fe8fc1b98a70bee19b586ffe1043a8",
+      "draft_raw_byte_ratio": null,
+      "metrics": {
+        "char_count": 7682,
+        "line_count": 384,
+        "nonempty_line_count": 192,
+        "paragraph_count": 192,
+        "dialogue_line_count": 43,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 101,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.603,
+        "opening_signature": "6c5fd087",
+        "closing_signature": "c3096a72"
+      }
+    },
+    {
+      "chapter": 76,
+      "title": "The Hound of the Night (2)",
+      "draft_blob_sha": "d25cee273318020cce6b9c999cfdab91447c2795",
+      "draft_raw_byte_ratio": null,
+      "metrics": {
+        "char_count": 5453,
+        "line_count": 232,
+        "nonempty_line_count": 116,
+        "paragraph_count": 116,
+        "dialogue_line_count": 15,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 38,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 9.169,
+        "opening_signature": "ca2e6ac5",
+        "closing_signature": "7916d560"
+      }
+    },
+    {
+      "chapter": 77,
+      "title": "The Hound of the Night (3)",
+      "draft_blob_sha": "e1e686eb4c3ad3279809cda2f260ba5105d49a99",
+      "draft_raw_byte_ratio": 0.62937,
+      "metrics": {
+        "char_count": 7063,
+        "line_count": 380,
+        "nonempty_line_count": 190,
+        "paragraph_count": 190,
+        "dialogue_line_count": 24,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 58,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 8.495,
+        "opening_signature": "f0dfe098",
+        "closing_signature": "187ee9de"
+      }
+    }
+  ]
+}

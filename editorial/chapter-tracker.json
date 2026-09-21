@@ -7586,7 +7586,7 @@
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [],
-    "current_phase": "phase_0_baseline_freeze_and_audit_inventory",
+    "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
       "name": "Hellhound",
       "range": [
@@ -7597,6 +7597,14 @@
     "every_chapter_requires_direct_review": true,
     "diagnostics_are_triage_only": true,
     "epub_assembly_blocked": true,
-    "closure_requirements": "500/500 sanitization resolved; 500/500 completeness resolved; all boundary/alignment exceptions resolved; remediation queue empty; evidence/hash chains validated; live docs synchronized"
+    "closure_requirements": "500/500 sanitization resolved; 500/500 completeness resolved; all boundary/alignment exceptions resolved; remediation queue empty; evidence/hash chains validated; live docs synchronized",
+    "phase0_status": "complete",
+    "phase0_evidence": "qa/cycle2-phase0-baseline.md",
+    "ledger": "qa/cycle2-ledger.json",
+    "family_index": "qa/cycle2-family-index.md",
+    "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+    "phase0_diagnostic_chapter_coverage": 500,
+    "phase0_acceptance_sha_mismatches": 0,
+    "phase0_forbidden_content_edits": 0
   }
 }

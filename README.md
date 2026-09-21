@@ -14,7 +14,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Cycle-2 completeness revalidated: **0 / 500**
 - Cycle-2 boundary/alignment revalidated: **0 / 500**
 - New confirmed Cycle-2 failures: **none yet; substantive review has not started**
-- Current stage: **Phase 0 — baseline freeze and audit inventory**
+- Current stage: **Phase 0 COMPLETE — Phase 1 sanitization sweep ready**
 - Active Cycle-2 plan: qa/manuscript-sanitization-completeness-cycle2.md
 - Historical post-500 audit record: qa/manuscript-completeness-audit.md
 - Complete-EPUB assembly: **BLOCKED until Cycle 2 closes**
@@ -22,6 +22,14 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 The previous 2026-09-20 completeness audit remains valid historical evidence and closed with **500 accepted / 0 known rework** after repairing confirmed compression failures. Cycle 2 is a new, stricter audit opened before packaging: it requires fresh sanitization-fidelity review and direct full-source completeness revalidation for **every Chapter 1–500**, regardless of prior PASS state or size ratio.
 
 The audit has separate gates for sanitization fidelity, complete source coverage, and boundary/alignment integrity. Prior acceptance is evidence, not an automatic Cycle-2 pass. EPUB assembly will not resume until all 500 targets clear the new closure criteria.
+
+## Cycle 2 Phase 0 baseline
+
+Phase 0 is complete. The audit froze opening main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`, inventoried all 500 targets across 118 contiguous title-family units, reconciled all 36 source-exception rows, verified all current evidence paths and acceptance SHAs, and recorded deterministic manuscript diagnostics for Chapters 1–500 with zero coverage gaps or overlaps.
+
+No manuscript or accepted QA/provenance/acceptance/family-QA content was edited during Phase 0.
+
+Phase 1 now begins with **Hellhound (1–3)**. See `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, and `qa/cycle2-ledger.json`.
 
 ## Current source policy
 

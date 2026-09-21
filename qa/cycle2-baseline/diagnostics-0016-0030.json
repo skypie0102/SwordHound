@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    16,
+    30
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 16,
+      "title": "Solitary (3)",
+      "draft_blob_sha": "a26bedbdddac060808091e7aeef8b090e504f9e9",
+      "draft_raw_byte_ratio": 1.223599,
+      "metrics": {
+        "char_count": 7832,
+        "line_count": 266,
+        "nonempty_line_count": 133,
+        "paragraph_count": 133,
+        "dialogue_line_count": 8,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 22,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 7.661,
+        "opening_signature": "feef8927",
+        "closing_signature": "9c684a16"
+      }
+    },
+    {
+      "chapter": 17,
+      "title": "Solitary (4)",
+      "draft_blob_sha": "217b62806c86b7d4d641276fc925a0e0723823a1",
+      "draft_raw_byte_ratio": 1.199086,
+      "metrics": {
+        "char_count": 9788,
+        "line_count": 336,
+        "nonempty_line_count": 168,
+        "paragraph_count": 168,
+        "dialogue_line_count": 29,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 73,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 5.108,
+        "opening_signature": "d2c5d84f",
+        "closing_signature": "c5be7829"
+      }
+    },
+    {
+      "chapter": 18,
+      "title": "Bared Teeth (1)",
+      "draft_blob_sha": "5ec87f0e1ebd2dfd8ff4022a820f9dfb1c4c14e6",
+      "draft_raw_byte_ratio": 1.111519,
+      "metrics": {
+        "char_count": 11244,
+        "line_count": 370,
+        "nonempty_line_count": 191,
+        "paragraph_count": 179,
+        "dialogue_line_count": 38,
+        "bracket_window_candidate_lines": 14,
+        "quote_marker_count": 128,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 14,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 14,
+        "explicitness_per_10k_chars": 12.451,
+        "opening_signature": "0be9b557",
+        "closing_signature": "47a523a8"
+      }
+    },
+    {
+      "chapter": 19,
+      "title": "Bared Teeth (2)",
+      "draft_blob_sha": "9ce9bca35ff2b02ac8362d408d256ea42e47194e",
+      "draft_raw_byte_ratio": 1.119544,
+      "metrics": {
+        "char_count": 10590,
+        "line_count": 393,
+        "nonempty_line_count": 200,
+        "paragraph_count": 193,
+        "dialogue_line_count": 31,
+        "bracket_window_candidate_lines": 8,
+        "quote_marker_count": 98,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 11,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 11,
+        "explicitness_per_10k_chars": 10.387,
+        "opening_signature": "6e295076",
+        "closing_signature": "acede181"
+      }
+    },
+    {
+      "chapter": 20,
+      "title": "Camus Morgue (1)",
+      "draft_blob_sha": "5ba5c4e3e149f8affc5ffc7874f1d1dc39f11a90",
+      "draft_raw_byte_ratio": 1.085283,
+      "metrics": {
+        "char_count": 13831,
+        "line_count": 441,
+        "nonempty_line_count": 235,
+        "paragraph_count": 206,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 33,
+        "quote_marker_count": 157,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 3.615,
+        "opening_signature": "8a721989",
+        "closing_signature": "45b6951f"
+      }
+    },
+    {
+      "chapter": 21,
+      "title": "Camus Morgue (2)",
+      "draft_blob_sha": "9afa2b06a333eed874f1809d4609921d739a9605",
+      "draft_raw_byte_ratio": 1.130465,
+      "metrics": {
+        "char_count": 6410,
+        "line_count": 215,
+        "nonempty_line_count": 110,
+        "paragraph_count": 105,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 6,
+        "quote_marker_count": 82,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "7bac6b04",
+        "closing_signature": "be7090b9"
+      }
+    },
+    {
+      "chapter": 22,
+      "title": "Camus Morgue (3)",
+      "draft_blob_sha": "d0ac31bc3fffbf6f6c0305eec164f411dbca18d8",
+      "draft_raw_byte_ratio": 0.956715,
+      "metrics": {
+        "char_count": 8227,
+        "line_count": 302,
+        "nonempty_line_count": 151,
+        "paragraph_count": 151,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 97,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.216,
+        "opening_signature": "e24afd8b",
+        "closing_signature": "19aea324"
+      }
+    },
+    {
+      "chapter": 23,
+      "title": "Camus Morgue (4)",
+      "draft_blob_sha": "fd3f051a374fd86368792aa0a6180d6f444ba286",
+      "draft_raw_byte_ratio": 0.966654,
+      "metrics": {
+        "char_count": 9593,
+        "line_count": 434,
+        "nonempty_line_count": 217,
+        "paragraph_count": 217,
+        "dialogue_line_count": 48,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 127,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 5.212,
+        "opening_signature": "46fbc92b",
+        "closing_signature": "09df50e5"
+      }
+    },
+    {
+      "chapter": 24,
+      "title": "Camus Morgue (5)",
+      "draft_blob_sha": "8d651112d999fa468a45ab7c48d385a72ea2607f",
+      "draft_raw_byte_ratio": 0.95571,
+      "metrics": {
+        "char_count": 13308,
+        "line_count": 494,
+        "nonempty_line_count": 247,
+        "paragraph_count": 247,
+        "dialogue_line_count": 70,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 178,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 5.26,
+        "opening_signature": "f8b4c46d",
+        "closing_signature": "be96e44b"
+      }
+    },
+    {
+      "chapter": 25,
+      "title": "Camus Morgue (6)",
+      "draft_blob_sha": "a5991670d7ff9ff7d7aa9c0b5bd3886b607302b8",
+      "draft_raw_byte_ratio": 1.047991,
+      "metrics": {
+        "char_count": 8968,
+        "line_count": 382,
+        "nonempty_line_count": 191,
+        "paragraph_count": 191,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 97,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.23,
+        "opening_signature": "e005d8e8",
+        "closing_signature": "fd1261f0"
+      }
+    },
+    {
+      "chapter": 26,
+      "title": "The Graduate (1)",
+      "draft_blob_sha": "e99bdbcc79fe7cbc4082f53983e1dd682abb9e1f",
+      "draft_raw_byte_ratio": 1.149943,
+      "metrics": {
+        "char_count": 12976,
+        "line_count": 358,
+        "nonempty_line_count": 182,
+        "paragraph_count": 176,
+        "dialogue_line_count": 30,
+        "bracket_window_candidate_lines": 9,
+        "quote_marker_count": 98,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 6.936,
+        "opening_signature": "94e720c3",
+        "closing_signature": "2e49679b"
+      }
+    },
+    {
+      "chapter": 27,
+      "title": "The Graduate (2)",
+      "draft_blob_sha": "11803c08298fb1ddbeebe864dbdf1c6c9e192ecc",
+      "draft_raw_byte_ratio": 1.179172,
+      "metrics": {
+        "char_count": 11722,
+        "line_count": 338,
+        "nonempty_line_count": 169,
+        "paragraph_count": 169,
+        "dialogue_line_count": 42,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 122,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 5.119,
+        "opening_signature": "82919661",
+        "closing_signature": "e370de8a"
+      }
+    },
+    {
+      "chapter": 28,
+      "title": "Special Laws of Vikir (1)",
+      "draft_blob_sha": "ad6f2b85c662f51164c5b7ccc2fcbdfcf7f9baf8",
+      "draft_raw_byte_ratio": 1.199251,
+      "metrics": {
+        "char_count": 10036,
+        "line_count": 296,
+        "nonempty_line_count": 148,
+        "paragraph_count": 148,
+        "dialogue_line_count": 48,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 139,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 5.978,
+        "opening_signature": "11a641c7",
+        "closing_signature": "e2704711"
+      }
+    },
+    {
+      "chapter": 29,
+      "title": "Special Laws of Vikir (2)",
+      "draft_blob_sha": "d56407b157dc3ec39c860a47904596ba19820b67",
+      "draft_raw_byte_ratio": 1.107243,
+      "metrics": {
+        "char_count": 8480,
+        "line_count": 250,
+        "nonempty_line_count": 133,
+        "paragraph_count": 117,
+        "dialogue_line_count": 35,
+        "bracket_window_candidate_lines": 19,
+        "quote_marker_count": 89,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.358,
+        "opening_signature": "26f62500",
+        "closing_signature": "77e7b864"
+      }
+    },
+    {
+      "chapter": 30,
+      "title": "Special Laws of Vikir (3)",
+      "draft_blob_sha": "1594f4c3717c495bcade949684b44efad77de255",
+      "draft_raw_byte_ratio": 1.078021,
+      "metrics": {
+        "char_count": 8992,
+        "line_count": 347,
+        "nonempty_line_count": 178,
+        "paragraph_count": 169,
+        "dialogue_line_count": 51,
+        "bracket_window_candidate_lines": 12,
+        "quote_marker_count": 146,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 5.56,
+        "opening_signature": "539c21b6",
+        "closing_signature": "9cc7bc05"
+      }
+    }
+  ]
+}

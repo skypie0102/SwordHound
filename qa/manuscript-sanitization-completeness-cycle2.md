@@ -5,7 +5,26 @@
 **Scope:** Target Chapters 1–500  
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
-**EPUB assembly:** BLOCKED until this audit is formally closed
+**EPUB assembly:** BLOCKED until this audit is formally closed  
+**Current stage:** Phase 0 COMPLETE — Phase 1 READY
+
+## Progress
+
+### Phase 0 — COMPLETE
+
+Baseline frozen at main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`.
+
+- 500 / 500 targets represented.
+- 118 contiguous title-family units enumerated.
+- 36 source-exception rows reconciled.
+- 500 draft, QA, provenance, and acceptance files verified.
+- 0 acceptance-SHA mismatches.
+- 31 deterministic diagnostic files cover Chapters 1–500 with 0 gaps / 0 overlaps.
+- 0 manuscript/evidence content edits occurred before baseline closure.
+
+Evidence: `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, `qa/cycle2-ledger.json`, and `qa/cycle2-baseline/`.
+
+**Next:** Phase 1 sanitization-fidelity review begins at **Hellhound (1–3)**.
 
 ## Purpose
 

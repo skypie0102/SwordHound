@@ -8,12 +8,11 @@
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
 **Confirmed Cycle-2 failures:** none yet; audit has not begun substantive chapter review  
-**Current audit stage:** Phase 0 — baseline freeze and audit inventory  
+**Current audit stage:** Phase 0 COMPLETE — Phase 1 ready  
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
-**Integration state:** merged to main  
-**PR:** #143 — MERGED  
-**Merge commit:** 8a67e1d07a11d03248d94e6be819ecf2fb40972e
+**Current working branch:** audit/cycle2-phase0-baseline  
+**Phase-0 integration:** PR #144 open; merge pending
 
 ## Why the project focus changed
 
@@ -62,13 +61,34 @@ The 2026-09-20 audit closed with 500 accepted / 0 known rework after resolving C
 
 Do not delete or rewrite that historical record to make Cycle 2 look like a continuation of the same queue.
 
+## Phase 0 completion
+
+Phase 0 baseline freeze/inventory is complete.
+
+- Opening baseline commit: `8177e1c192cd7fcd55b04009fbe826bbd50f586b`
+- 500 / 500 drafts, chapter-QA files, provenance files, and acceptance files verified.
+- 492 physical Chinese raws and 493 English witnesses inventoried.
+- 118 contiguous title-family units enumerated.
+- 36 source-exception rows reconciled with zero path/mapping problems.
+- 8 shared Chinese raw containers identified; 16 affected targets excluded from per-target raw-ratio metrics.
+- 484 ordinary one-target draft/raw ratios frozen.
+- All 500 tracker acceptance SHAs match the opening baseline blobs.
+- 31 diagnostic files cover Chapters 1–500 with zero gaps/overlaps.
+- No manuscript, chapter-QA, provenance, acceptance, or family-QA content was changed during Phase 0.
+
+Evidence:
+- `qa/cycle2-ledger.json`
+- `qa/cycle2-phase0-baseline.md`
+- `qa/cycle2-family-index.md`
+- `qa/cycle2-baseline/`
+
 ## Exact next actions
 
-1. Snapshot the Cycle-2 opening baseline from main and current acceptance/provenance bindings.
-2. Build the fresh 500-chapter Cycle-2 ledger and enumerate all contiguous title families and source exceptions.
-3. Record baseline diagnostics for all valid raw/draft pairs and structural signals.
-4. Complete Phase 0 reconciliation against source/chinese/chapter-exceptions.tsv.
-5. Begin Phase 1 with the first family, **Hellhound (1–3)**.
-6. Continue in chronological title-family order and keep this handoff plus live state files synchronized after meaningful checkpoints.
+1. Begin Phase 1 sanitization-fidelity review with **Hellhound (1–3)**.
+2. Read the complete Chinese source for Chapters 1–3 before deciding sanitization status.
+3. Compare every potentially harsh/explicit passage against the English drafts for softening, omission, generalization, mistranslation, or unsupported intensification.
+4. Record per-chapter findings/status in the Cycle-2 ledger and a family audit record.
+5. Continue immediately into the next contiguous family after Hellhound unless a genuine blocker appears.
+6. Keep this handoff and live Cycle-2 counters synchronized after meaningful family checkpoints.
 
 The next agent should not resume EPUB packaging. The audit is the immediate project focus until Phase 6 closes.

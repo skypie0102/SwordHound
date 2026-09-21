@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    46,
+    60
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 46,
+      "title": "The Husband Hunt (1)",
+      "draft_blob_sha": "890f9bc15c6f33da72c3bfb68c0ed17162ac4f97",
+      "draft_raw_byte_ratio": 1.192224,
+      "metrics": {
+        "char_count": 9189,
+        "line_count": 260,
+        "nonempty_line_count": 130,
+        "paragraph_count": 130,
+        "dialogue_line_count": 37,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 116,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.265,
+        "opening_signature": "bc91c456",
+        "closing_signature": "b6001cca"
+      }
+    },
+    {
+      "chapter": 47,
+      "title": "The Husband Hunt (2)",
+      "draft_blob_sha": "62398e8c0c50ec82ccf8dfd2d2c0216a0398a650",
+      "draft_raw_byte_ratio": 1.045063,
+      "metrics": {
+        "char_count": 9440,
+        "line_count": 368,
+        "nonempty_line_count": 184,
+        "paragraph_count": 184,
+        "dialogue_line_count": 21,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 66,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.178,
+        "opening_signature": "6214b8f8",
+        "closing_signature": "52ffcf39"
+      }
+    },
+    {
+      "chapter": 48,
+      "title": "The Husband Hunt (3)",
+      "draft_blob_sha": "11125e08c987906ac3f57329afa6c9b88681683a",
+      "draft_raw_byte_ratio": 1.103866,
+      "metrics": {
+        "char_count": 10458,
+        "line_count": 358,
+        "nonempty_line_count": 179,
+        "paragraph_count": 179,
+        "dialogue_line_count": 22,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 64,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 5.737,
+        "opening_signature": "e2d0ca35",
+        "closing_signature": "e530088a"
+      }
+    },
+    {
+      "chapter": 49,
+      "title": "The Husband Hunt (4)",
+      "draft_blob_sha": "8d6f0d7d9fec645a15ce543f15f62e8685171120",
+      "draft_raw_byte_ratio": 1.357749,
+      "metrics": {
+        "char_count": 8141,
+        "line_count": 268,
+        "nonempty_line_count": 134,
+        "paragraph_count": 134,
+        "dialogue_line_count": 39,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 109,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 4
+        },
+        "explicitness_candidate_total": 10,
+        "explicitness_per_10k_chars": 12.284,
+        "opening_signature": "183b8711",
+        "closing_signature": "596db781"
+      }
+    },
+    {
+      "chapter": 50,
+      "title": "The Husband Hunt (5)",
+      "draft_blob_sha": "767c670a23f2c0e39886220a059f0bac4a754036",
+      "draft_raw_byte_ratio": 1.173967,
+      "metrics": {
+        "char_count": 11224,
+        "line_count": 392,
+        "nonempty_line_count": 196,
+        "paragraph_count": 196,
+        "dialogue_line_count": 26,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 86,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 5.346,
+        "opening_signature": "73802ded",
+        "closing_signature": "cca0bb06"
+      }
+    },
+    {
+      "chapter": 51,
+      "title": "The Husband Hunt (6)",
+      "draft_blob_sha": "429c9af4d1e427789541037036d0647ab63a852d",
+      "draft_raw_byte_ratio": 1.197718,
+      "metrics": {
+        "char_count": 9863,
+        "line_count": 356,
+        "nonempty_line_count": 178,
+        "paragraph_count": 178,
+        "dialogue_line_count": 19,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 68,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 8,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 8.111,
+        "opening_signature": "f35928c2",
+        "closing_signature": "fe4f6136"
+      }
+    },
+    {
+      "chapter": 52,
+      "title": "Slaves of the Savage Tribe (1)",
+      "draft_blob_sha": "55c7ca51c4886c8b70ccb4121b341155f8362886",
+      "draft_raw_byte_ratio": 1.057171,
+      "metrics": {
+        "char_count": 9491,
+        "line_count": 356,
+        "nonempty_line_count": 178,
+        "paragraph_count": 178,
+        "dialogue_line_count": 13,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 44,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 11,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 13,
+        "explicitness_per_10k_chars": 13.697,
+        "opening_signature": "8cd11176",
+        "closing_signature": "c3158df9"
+      }
+    },
+    {
+      "chapter": 53,
+      "title": "Slaves of the Savage Tribe (2)",
+      "draft_blob_sha": "6864d9f5d6647ed4d048d718ebd691bf632fddb5",
+      "draft_raw_byte_ratio": 1.069236,
+      "metrics": {
+        "char_count": 9481,
+        "line_count": 336,
+        "nonempty_line_count": 168,
+        "paragraph_count": 168,
+        "dialogue_line_count": 37,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 119,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 8
+        },
+        "explicitness_candidate_total": 15,
+        "explicitness_per_10k_chars": 15.821,
+        "opening_signature": "8a29d80f",
+        "closing_signature": "f5b0a8b1"
+      }
+    },
+    {
+      "chapter": 54,
+      "title": "Slaves of the Savage Tribe (3)",
+      "draft_blob_sha": "a73d3e3b1b8767cf932fd1a98963fbd0abe6aa69",
+      "draft_raw_byte_ratio": null,
+      "metrics": {
+        "char_count": 9409,
+        "line_count": 326,
+        "nonempty_line_count": 163,
+        "paragraph_count": 163,
+        "dialogue_line_count": 51,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 136,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 11
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 12.754,
+        "opening_signature": "c2ee9272",
+        "closing_signature": "0ca7d326"
+      }
+    },
+    {
+      "chapter": 55,
+      "title": "The Hunter and the Hunted (1)",
+      "draft_blob_sha": "e18c5c382ca2fab4bb721c5b33e552f752b986bd",
+      "draft_raw_byte_ratio": null,
+      "metrics": {
+        "char_count": 8334,
+        "line_count": 367,
+        "nonempty_line_count": 183,
+        "paragraph_count": 183,
+        "dialogue_line_count": 41,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 116,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 11
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 20.398,
+        "opening_signature": "39e12711",
+        "closing_signature": "b8d7da57"
+      }
+    },
+    {
+      "chapter": 56,
+      "title": "The Hunter and the Hunted (2)",
+      "draft_blob_sha": "ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694",
+      "draft_raw_byte_ratio": 0.742831,
+      "metrics": {
+        "char_count": 6306,
+        "line_count": 260,
+        "nonempty_line_count": 132,
+        "paragraph_count": 128,
+        "dialogue_line_count": 31,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 6.343,
+        "opening_signature": "763f931d",
+        "closing_signature": "eaed7fa7"
+      }
+    },
+    {
+      "chapter": 57,
+      "title": "The Hunter and the Hunted (3)",
+      "draft_blob_sha": "d899cea4cc984265211b60bea59fd46a545ee431",
+      "draft_raw_byte_ratio": 0.683807,
+      "metrics": {
+        "char_count": 6297,
+        "line_count": 230,
+        "nonempty_line_count": 115,
+        "paragraph_count": 115,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 73,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.764,
+        "opening_signature": "08dd2df4",
+        "closing_signature": "e58ba7a2"
+      }
+    },
+    {
+      "chapter": 58,
+      "title": "The Hunter and the Hunted (4)",
+      "draft_blob_sha": "b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0",
+      "draft_raw_byte_ratio": 0.713287,
+      "metrics": {
+        "char_count": 4812,
+        "line_count": 204,
+        "nonempty_line_count": 102,
+        "paragraph_count": 102,
+        "dialogue_line_count": 16,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 44,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 6.234,
+        "opening_signature": "d6c58934",
+        "closing_signature": "0c6f0d13"
+      }
+    },
+    {
+      "chapter": 59,
+      "title": "The Hunter and the Hunted (5)",
+      "draft_blob_sha": "98216e73da8172c31c2a0634e4e66ca97dae7d04",
+      "draft_raw_byte_ratio": 0.940296,
+      "metrics": {
+        "char_count": 9322,
+        "line_count": 428,
+        "nonempty_line_count": 214,
+        "paragraph_count": 214,
+        "dialogue_line_count": 44,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 119,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 8,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 10,
+        "explicitness_per_10k_chars": 10.727,
+        "opening_signature": "3930efc1",
+        "closing_signature": "ca0e41b7"
+      }
+    },
+    {
+      "chapter": 60,
+      "title": "The Hunter and the Hunted (6)",
+      "draft_blob_sha": "df77f7700668f8d28bc7ec5f8afa83a02c8b5513",
+      "draft_raw_byte_ratio": 0.731837,
+      "metrics": {
+        "char_count": 6435,
+        "line_count": 301,
+        "nonempty_line_count": 151,
+        "paragraph_count": 150,
+        "dialogue_line_count": 8,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 38,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 10.878,
+        "opening_signature": "bb1499c7",
+        "closing_signature": "1dc0e349"
+      }
+    }
+  ]
+}

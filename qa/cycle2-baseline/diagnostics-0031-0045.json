@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    31,
+    45
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 31,
+      "title": "Special Laws of Vikir (4)",
+      "draft_blob_sha": "179cfc142bf20657a235bce6380da8abb03e3cc9",
+      "draft_raw_byte_ratio": 1.274205,
+      "metrics": {
+        "char_count": 10338,
+        "line_count": 268,
+        "nonempty_line_count": 135,
+        "paragraph_count": 133,
+        "dialogue_line_count": 36,
+        "bracket_window_candidate_lines": 3,
+        "quote_marker_count": 106,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 3.869,
+        "opening_signature": "22bbf34a",
+        "closing_signature": "39daaedf"
+      }
+    },
+    {
+      "chapter": 32,
+      "title": "The Social Club (1)",
+      "draft_blob_sha": "f90eef8a1a540636ac903ac22e3bee4ae5cdf5e5",
+      "draft_raw_byte_ratio": 1.141479,
+      "metrics": {
+        "char_count": 12871,
+        "line_count": 444,
+        "nonempty_line_count": 222,
+        "paragraph_count": 222,
+        "dialogue_line_count": 62,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 176,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 1.554,
+        "opening_signature": "c599b56f",
+        "closing_signature": "cfbdd243"
+      }
+    },
+    {
+      "chapter": 33,
+      "title": "The Social Club (2)",
+      "draft_blob_sha": "1379e7eb224675d031a45369e493a687b203bae7",
+      "draft_raw_byte_ratio": 1.168726,
+      "metrics": {
+        "char_count": 9218,
+        "line_count": 302,
+        "nonempty_line_count": 151,
+        "paragraph_count": 151,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 97,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 9.764,
+        "opening_signature": "9bebafc4",
+        "closing_signature": "51953ca5"
+      }
+    },
+    {
+      "chapter": 34,
+      "title": "The Social Club (3)",
+      "draft_blob_sha": "3c30ca807bfe0f186d7b07c7a9a91c3f31843150",
+      "draft_raw_byte_ratio": 1.265092,
+      "metrics": {
+        "char_count": 14774,
+        "line_count": 453,
+        "nonempty_line_count": 241,
+        "paragraph_count": 212,
+        "dialogue_line_count": 57,
+        "bracket_window_candidate_lines": 35,
+        "quote_marker_count": 173,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 16,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 4
+        },
+        "explicitness_candidate_total": 23,
+        "explicitness_per_10k_chars": 15.568,
+        "opening_signature": "1f98cee5",
+        "closing_signature": "ffa2b6d8"
+      }
+    },
+    {
+      "chapter": 35,
+      "title": "Slave Auction (1)",
+      "draft_blob_sha": "4334e13c2cb25b322af22f13cd90698d44b68026",
+      "draft_raw_byte_ratio": 1.117764,
+      "metrics": {
+        "char_count": 10434,
+        "line_count": 315,
+        "nonempty_line_count": 161,
+        "paragraph_count": 154,
+        "dialogue_line_count": 41,
+        "bracket_window_candidate_lines": 8,
+        "quote_marker_count": 119,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 11
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 16.293,
+        "opening_signature": "2b2fb0bf",
+        "closing_signature": "a63e3b38"
+      }
+    },
+    {
+      "chapter": 36,
+      "title": "Slave Auction (2)",
+      "draft_blob_sha": "f70bdea52bca018e94cd53d1e02f1ee87fcd0953",
+      "draft_raw_byte_ratio": 1.014212,
+      "metrics": {
+        "char_count": 9806,
+        "line_count": 400,
+        "nonempty_line_count": 200,
+        "paragraph_count": 200,
+        "dialogue_line_count": 59,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 155,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 15,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 4
+        },
+        "explicitness_candidate_total": 22,
+        "explicitness_per_10k_chars": 22.435,
+        "opening_signature": "07e42cfb",
+        "closing_signature": "109b1d24"
+      }
+    },
+    {
+      "chapter": 37,
+      "title": "Slave Auction (3)",
+      "draft_blob_sha": "bfd323d93a26d6307cf699779e22c519b227075c",
+      "draft_raw_byte_ratio": 1.187448,
+      "metrics": {
+        "char_count": 11211,
+        "line_count": 399,
+        "nonempty_line_count": 203,
+        "paragraph_count": 196,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 8,
+        "quote_marker_count": 95,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 10,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 13,
+        "explicitness_per_10k_chars": 11.596,
+        "opening_signature": "b790e91a",
+        "closing_signature": "d83cf4a8"
+      }
+    },
+    {
+      "chapter": 38,
+      "title": "Sponsored (1)",
+      "draft_blob_sha": "77a7a665336262537e427a9c88d0b876bb22172a",
+      "draft_raw_byte_ratio": 1.13297,
+      "metrics": {
+        "char_count": 9862,
+        "line_count": 264,
+        "nonempty_line_count": 141,
+        "paragraph_count": 123,
+        "dialogue_line_count": 19,
+        "bracket_window_candidate_lines": 20,
+        "quote_marker_count": 58,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 5
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 12.168,
+        "opening_signature": "e14bd37a",
+        "closing_signature": "4efcff0c"
+      }
+    },
+    {
+      "chapter": 39,
+      "title": "Sponsored (2)",
+      "draft_blob_sha": "6f4c927efc29a1979de2f42c923f86adc328bbda",
+      "draft_raw_byte_ratio": 0.930693,
+      "metrics": {
+        "char_count": 11468,
+        "line_count": 398,
+        "nonempty_line_count": 199,
+        "paragraph_count": 199,
+        "dialogue_line_count": 78,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 182,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 10,
+        "explicitness_per_10k_chars": 8.72,
+        "opening_signature": "463487ec",
+        "closing_signature": "38a35566"
+      }
+    },
+    {
+      "chapter": 40,
+      "title": "Morgue's United Front (1)",
+      "draft_blob_sha": "36e7e2c1edfcd5c4a58e80ab9e60dd8b9ba4dc93",
+      "draft_raw_byte_ratio": 1.159419,
+      "metrics": {
+        "char_count": 12409,
+        "line_count": 392,
+        "nonempty_line_count": 202,
+        "paragraph_count": 190,
+        "dialogue_line_count": 60,
+        "bracket_window_candidate_lines": 14,
+        "quote_marker_count": 175,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 14,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 16,
+        "explicitness_per_10k_chars": 12.894,
+        "opening_signature": "e89cb934",
+        "closing_signature": "6bd2cbb1"
+      }
+    },
+    {
+      "chapter": 41,
+      "title": "Morgue's United Front (2)",
+      "draft_blob_sha": "51282f4dc00cd391bdc602e00d221d8bfc896478",
+      "draft_raw_byte_ratio": 1.168757,
+      "metrics": {
+        "char_count": 8748,
+        "line_count": 306,
+        "nonempty_line_count": 153,
+        "paragraph_count": 153,
+        "dialogue_line_count": 45,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 119,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 4.572,
+        "opening_signature": "4c4821ba",
+        "closing_signature": "ccfab710"
+      }
+    },
+    {
+      "chapter": 42,
+      "title": "Morgue's United Front (3)",
+      "draft_blob_sha": "a1aa1e637ca4c989bf8af23a27b140dc7ec46617",
+      "draft_raw_byte_ratio": 1.249185,
+      "metrics": {
+        "char_count": 10229,
+        "line_count": 340,
+        "nonempty_line_count": 170,
+        "paragraph_count": 170,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 89,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 4.888,
+        "opening_signature": "d120a715",
+        "closing_signature": "9c9af92c"
+      }
+    },
+    {
+      "chapter": 43,
+      "title": "The Fiancée (1)",
+      "draft_blob_sha": "8a467170dbc48b3093620855bb890dbe80fea24d",
+      "draft_raw_byte_ratio": 1.155843,
+      "metrics": {
+        "char_count": 10586,
+        "line_count": 320,
+        "nonempty_line_count": 160,
+        "paragraph_count": 160,
+        "dialogue_line_count": 56,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 152,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 0.945,
+        "opening_signature": "bbab1760",
+        "closing_signature": "3db07e86"
+      }
+    },
+    {
+      "chapter": 44,
+      "title": "The Fiancée (2)",
+      "draft_blob_sha": "025f5792f2a17ff432c209989562f32d00be204e",
+      "draft_raw_byte_ratio": 1.110799,
+      "metrics": {
+        "char_count": 11611,
+        "line_count": 384,
+        "nonempty_line_count": 192,
+        "paragraph_count": 192,
+        "dialogue_line_count": 61,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 161,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 8,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 10,
+        "explicitness_per_10k_chars": 8.613,
+        "opening_signature": "89cd9eab",
+        "closing_signature": "e05da53e"
+      }
+    },
+    {
+      "chapter": 45,
+      "title": "The Fiancée (3)",
+      "draft_blob_sha": "eb86186e62aabe403e6146a7cd42436303de46b2",
+      "draft_raw_byte_ratio": 1.108187,
+      "metrics": {
+        "char_count": 13567,
+        "line_count": 448,
+        "nonempty_line_count": 224,
+        "paragraph_count": 224,
+        "dialogue_line_count": 30,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 91,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 2.211,
+        "opening_signature": "027d547b",
+        "closing_signature": "fc1f507f"
+      }
+    }
+  ]
+}

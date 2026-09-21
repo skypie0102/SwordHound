@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    1,
+    15
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Hellhound (1)",
+      "draft_blob_sha": "c92ac8fbb549d26c247d91b4cb2724f5927d1d20",
+      "draft_raw_byte_ratio": 1.239911,
+      "metrics": {
+        "char_count": 8215,
+        "line_count": 229,
+        "nonempty_line_count": 116,
+        "paragraph_count": 113,
+        "dialogue_line_count": 12,
+        "bracket_window_candidate_lines": 4,
+        "quote_marker_count": 51,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 12,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 14,
+        "explicitness_per_10k_chars": 17.042,
+        "opening_signature": "ab815faa",
+        "closing_signature": "777655c6"
+      }
+    },
+    {
+      "chapter": 2,
+      "title": "Hellhound (2)",
+      "draft_blob_sha": "5d705d015d86168dc1a38996bd1f6e3f08c5b60c",
+      "draft_raw_byte_ratio": 1.211116,
+      "metrics": {
+        "char_count": 9873,
+        "line_count": 310,
+        "nonempty_line_count": 155,
+        "paragraph_count": 155,
+        "dialogue_line_count": 19,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 59,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 23,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 23,
+        "explicitness_per_10k_chars": 23.296,
+        "opening_signature": "3cde39f8",
+        "closing_signature": "0c5a4a65"
+      }
+    },
+    {
+      "chapter": 3,
+      "title": "Hellhound (3)",
+      "draft_blob_sha": "0d7deb6fcbb5ab8fc2d9e25188f064ab552dd3d7",
+      "draft_raw_byte_ratio": 1.286815,
+      "metrics": {
+        "char_count": 8932,
+        "line_count": 276,
+        "nonempty_line_count": 138,
+        "paragraph_count": 138,
+        "dialogue_line_count": 7,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 26,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 13,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 15,
+        "explicitness_per_10k_chars": 16.794,
+        "opening_signature": "7f581d44",
+        "closing_signature": "726b9853"
+      }
+    },
+    {
+      "chapter": 4,
+      "title": "The Baskerville Dog (1)",
+      "draft_blob_sha": "ff0997d2b046a92f88d077094281ecd01f106e31",
+      "draft_raw_byte_ratio": 1.223067,
+      "metrics": {
+        "char_count": 9759,
+        "line_count": 278,
+        "nonempty_line_count": 139,
+        "paragraph_count": 139,
+        "dialogue_line_count": 37,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 91,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.074,
+        "opening_signature": "9b352359",
+        "closing_signature": "549a6002"
+      }
+    },
+    {
+      "chapter": 5,
+      "title": "The Baskerville Dog (2)",
+      "draft_blob_sha": "4ab417641b7f81ccf0f406a13a2e861df2e8fe06",
+      "draft_raw_byte_ratio": 1.06196,
+      "metrics": {
+        "char_count": 9061,
+        "line_count": 378,
+        "nonempty_line_count": 189,
+        "paragraph_count": 189,
+        "dialogue_line_count": 63,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 169,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 10,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 11,
+        "explicitness_per_10k_chars": 12.14,
+        "opening_signature": "8d8bd1a5",
+        "closing_signature": "95bd52e0"
+      }
+    },
+    {
+      "chapter": 6,
+      "title": "The Baskerville Dog (3)",
+      "draft_blob_sha": "561828cb5d4298d6e5a4649d45d293ce867da308",
+      "draft_raw_byte_ratio": 1.134984,
+      "metrics": {
+        "char_count": 8435,
+        "line_count": 276,
+        "nonempty_line_count": 138,
+        "paragraph_count": 138,
+        "dialogue_line_count": 57,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 145,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.371,
+        "opening_signature": "d07b1215",
+        "closing_signature": "cc03fde6"
+      }
+    },
+    {
+      "chapter": 7,
+      "title": "The Baskerville Dog (4)",
+      "draft_blob_sha": "5a1d8c21aff248d7b8fe667dac47c06505116d11",
+      "draft_raw_byte_ratio": 1.18451,
+      "metrics": {
+        "char_count": 10258,
+        "line_count": 322,
+        "nonempty_line_count": 161,
+        "paragraph_count": 161,
+        "dialogue_line_count": 44,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 118,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 5.849,
+        "opening_signature": "1b3d189b",
+        "closing_signature": "669287bc"
+      }
+    },
+    {
+      "chapter": 8,
+      "title": "Hounds of Hell (1)",
+      "draft_blob_sha": "33ead486847f4fdb3cff95e00778d85dddc69315",
+      "draft_raw_byte_ratio": 1.259948,
+      "metrics": {
+        "char_count": 9038,
+        "line_count": 237,
+        "nonempty_line_count": 122,
+        "paragraph_count": 115,
+        "dialogue_line_count": 25,
+        "bracket_window_candidate_lines": 8,
+        "quote_marker_count": 89,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 11,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 13,
+        "explicitness_per_10k_chars": 14.384,
+        "opening_signature": "d043b8b4",
+        "closing_signature": "14e387f7"
+      }
+    },
+    {
+      "chapter": 9,
+      "title": "Hounds of Hell (2)",
+      "draft_blob_sha": "e9cfd93a9030a2d1bc6c3c9e241ec780ca46c2f2",
+      "draft_raw_byte_ratio": 1.186759,
+      "metrics": {
+        "char_count": 12850,
+        "line_count": 393,
+        "nonempty_line_count": 205,
+        "paragraph_count": 188,
+        "dialogue_line_count": 22,
+        "bracket_window_candidate_lines": 19,
+        "quote_marker_count": 93,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 14,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 14,
+        "explicitness_per_10k_chars": 10.895,
+        "opening_signature": "811c7334",
+        "closing_signature": "2a25c28e"
+      }
+    },
+    {
+      "chapter": 10,
+      "title": "Hounds of Hell (3)",
+      "draft_blob_sha": "5a340ea07718a4119488d153a9f37a265ba90781",
+      "draft_raw_byte_ratio": 1.1481,
+      "metrics": {
+        "char_count": 9653,
+        "line_count": 288,
+        "nonempty_line_count": 148,
+        "paragraph_count": 140,
+        "dialogue_line_count": 16,
+        "bracket_window_candidate_lines": 9,
+        "quote_marker_count": 65,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 20,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 21,
+        "explicitness_per_10k_chars": 21.755,
+        "opening_signature": "6ccc55c9",
+        "closing_signature": "ed5a6cb2"
+      }
+    },
+    {
+      "chapter": 11,
+      "title": "Hounds of Hell (4)",
+      "draft_blob_sha": "eed36a1afd207edcf761034350426ff39c1fa8db",
+      "draft_raw_byte_ratio": 1.098515,
+      "metrics": {
+        "char_count": 12388,
+        "line_count": 453,
+        "nonempty_line_count": 235,
+        "paragraph_count": 218,
+        "dialogue_line_count": 12,
+        "bracket_window_candidate_lines": 19,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 17,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 19,
+        "explicitness_per_10k_chars": 15.337,
+        "opening_signature": "a5e610ec",
+        "closing_signature": "80a905f6"
+      }
+    },
+    {
+      "chapter": 12,
+      "title": "The Gluttonous Flies (1)",
+      "draft_blob_sha": "22efa5f1cd7e2fd78dfb708bd2f0590a74d67b32",
+      "draft_raw_byte_ratio": 1.117444,
+      "metrics": {
+        "char_count": 9588,
+        "line_count": 334,
+        "nonempty_line_count": 167,
+        "paragraph_count": 167,
+        "dialogue_line_count": 19,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 54,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 15,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 15,
+        "explicitness_per_10k_chars": 15.645,
+        "opening_signature": "0b43cf2f",
+        "closing_signature": "21d297ee"
+      }
+    },
+    {
+      "chapter": 13,
+      "title": "The Gluttonous Flies (2)",
+      "draft_blob_sha": "4292e992c25fd210f742648cac71de9f7b500e5a",
+      "draft_raw_byte_ratio": 1.266471,
+      "metrics": {
+        "char_count": 11066,
+        "line_count": 336,
+        "nonempty_line_count": 173,
+        "paragraph_count": 163,
+        "dialogue_line_count": 13,
+        "bracket_window_candidate_lines": 12,
+        "quote_marker_count": 79,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 18,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 18,
+        "explicitness_per_10k_chars": 16.266,
+        "opening_signature": "7f553c15",
+        "closing_signature": "2874d965"
+      }
+    },
+    {
+      "chapter": 14,
+      "title": "Solitary (1)",
+      "draft_blob_sha": "556a0e1ff32eb251b35b71f4222b208e04b1f1ae",
+      "draft_raw_byte_ratio": 1.142004,
+      "metrics": {
+        "char_count": 11365,
+        "line_count": 332,
+        "nonempty_line_count": 166,
+        "paragraph_count": 166,
+        "dialogue_line_count": 51,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 125,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 19,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 19,
+        "explicitness_per_10k_chars": 16.718,
+        "opening_signature": "8d10e4ff",
+        "closing_signature": "9a8452e5"
+      }
+    },
+    {
+      "chapter": 15,
+      "title": "Solitary (2)",
+      "draft_blob_sha": "6c79f7db01d40e4eb5ee823ce1007e969aca55f1",
+      "draft_raw_byte_ratio": 1.193925,
+      "metrics": {
+        "char_count": 9398,
+        "line_count": 292,
+        "nonempty_line_count": 146,
+        "paragraph_count": 146,
+        "dialogue_line_count": 18,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 50,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 4.256,
+        "opening_signature": "c47d6e8a",
+        "closing_signature": "d6b877a6"
+      }
+    }
+  ]
+}

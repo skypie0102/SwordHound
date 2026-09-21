@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    95,
+    111
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 95,
+      "title": "Madam Eight-Legs (1)",
+      "draft_blob_sha": "3bc9dacf572ec377d28579bcfb62a7f512b1aed2",
+      "draft_raw_byte_ratio": 1.315196,
+      "metrics": {
+        "char_count": 8749,
+        "line_count": 338,
+        "nonempty_line_count": 169,
+        "paragraph_count": 169,
+        "dialogue_line_count": 23,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 71,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 9.144,
+        "opening_signature": "fdf1aed9",
+        "closing_signature": "e6b992e8"
+      }
+    },
+    {
+      "chapter": 96,
+      "title": "Madam Eight-Legs (2)",
+      "draft_blob_sha": "786e708638bc941f68bbb7fea84e6b36c0dd4537",
+      "draft_raw_byte_ratio": 1.123562,
+      "metrics": {
+        "char_count": 8172,
+        "line_count": 400,
+        "nonempty_line_count": 200,
+        "paragraph_count": 200,
+        "dialogue_line_count": 42,
+        "bracket_window_candidate_lines": 2,
+        "quote_marker_count": 117,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 4.895,
+        "opening_signature": "dd34e043",
+        "closing_signature": "ebdb2335"
+      }
+    },
+    {
+      "chapter": 97,
+      "title": "Madam Eight-Legs (3)",
+      "draft_blob_sha": "9e7f4a942cdc5aa5bb6726990519f914213c7869",
+      "draft_raw_byte_ratio": 0.955453,
+      "metrics": {
+        "char_count": 9677,
+        "line_count": 451,
+        "nonempty_line_count": 232,
+        "paragraph_count": 219,
+        "dialogue_line_count": 5,
+        "bracket_window_candidate_lines": 4,
+        "quote_marker_count": 29,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 23,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 23,
+        "explicitness_per_10k_chars": 23.768,
+        "opening_signature": "c8e40e8d",
+        "closing_signature": "3fad0ec3"
+      }
+    },
+    {
+      "chapter": 98,
+      "title": "Madam Eight-Legs (4)",
+      "draft_blob_sha": "3aab83e12530126204a15cea8b7ad27e41fa7a7a",
+      "draft_raw_byte_ratio": 0.966634,
+      "metrics": {
+        "char_count": 7879,
+        "line_count": 428,
+        "nonempty_line_count": 214,
+        "paragraph_count": 214,
+        "dialogue_line_count": 8,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 30,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 15.23,
+        "opening_signature": "5b99ee1b",
+        "closing_signature": "8aa2f3fe"
+      }
+    },
+    {
+      "chapter": 99,
+      "title": "Madam Eight-Legs (5)",
+      "draft_blob_sha": "075a8d997fdf1ef2e4b94cd7da177711fd4755dc",
+      "draft_raw_byte_ratio": 0.967691,
+      "metrics": {
+        "char_count": 7831,
+        "line_count": 413,
+        "nonempty_line_count": 212,
+        "paragraph_count": 201,
+        "dialogue_line_count": 6,
+        "bracket_window_candidate_lines": 5,
+        "quote_marker_count": 38,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 17,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 21.709,
+        "opening_signature": "c04673d0",
+        "closing_signature": "f5c796fd"
+      }
+    },
+    {
+      "chapter": 100,
+      "title": "Madam Eight-Legs (6)",
+      "draft_blob_sha": "90b4331e30a3aa835a2c6fc5a12fed0e649f128f",
+      "draft_raw_byte_ratio": 0.992629,
+      "metrics": {
+        "char_count": 10374,
+        "line_count": 565,
+        "nonempty_line_count": 284,
+        "paragraph_count": 281,
+        "dialogue_line_count": 10,
+        "bracket_window_candidate_lines": 9,
+        "quote_marker_count": 49,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 27,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 27,
+        "explicitness_per_10k_chars": 26.027,
+        "opening_signature": "e7480341",
+        "closing_signature": "bf457eaa"
+      }
+    },
+    {
+      "chapter": 101,
+      "title": "Nostalgia (1)",
+      "draft_blob_sha": "ff0955563df2a7053e9c6a15c0e5d430fee2e9c1",
+      "draft_raw_byte_ratio": 1.119742,
+      "metrics": {
+        "char_count": 9206,
+        "line_count": 554,
+        "nonempty_line_count": 280,
+        "paragraph_count": 274,
+        "dialogue_line_count": 11,
+        "bracket_window_candidate_lines": 4,
+        "quote_marker_count": 50,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 30,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 31,
+        "explicitness_per_10k_chars": 33.674,
+        "opening_signature": "663fb882",
+        "closing_signature": "4ade1b5c"
+      }
+    },
+    {
+      "chapter": 102,
+      "title": "Nostalgia (2)",
+      "draft_blob_sha": "4d6cc59e7d6f8cd80f1bd7e248f315b3f8618897",
+      "draft_raw_byte_ratio": 1.132067,
+      "metrics": {
+        "char_count": 10358,
+        "line_count": 641,
+        "nonempty_line_count": 322,
+        "paragraph_count": 319,
+        "dialogue_line_count": 31,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 11.585,
+        "opening_signature": "fbb37bbd",
+        "closing_signature": "430e2019"
+      }
+    },
+    {
+      "chapter": 103,
+      "title": "Nostalgia (3)",
+      "draft_blob_sha": "eeec63b8ef6d3f69d8a643c12edb2c90fb2fedaa",
+      "draft_raw_byte_ratio": 1.106319,
+      "metrics": {
+        "char_count": 6476,
+        "line_count": 388,
+        "nonempty_line_count": 194,
+        "paragraph_count": 194,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 66,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "fd08bb82",
+        "closing_signature": "3f0d6ff5"
+      }
+    },
+    {
+      "chapter": 104,
+      "title": "Nostalgia (4)",
+      "draft_blob_sha": "0d954e0e9cf77c8da9964f97a60e6cdaa78ab811",
+      "draft_raw_byte_ratio": 1.039488,
+      "metrics": {
+        "char_count": 9144,
+        "line_count": 576,
+        "nonempty_line_count": 290,
+        "paragraph_count": 286,
+        "dialogue_line_count": 41,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 106,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.187,
+        "opening_signature": "2927d743",
+        "closing_signature": "8040b1b8"
+      }
+    },
+    {
+      "chapter": 105,
+      "title": "The Returned Hero (1)",
+      "draft_blob_sha": "d6595091591e73bc14d2f67c134e8b16335f82ee",
+      "draft_raw_byte_ratio": 0.987337,
+      "metrics": {
+        "char_count": 8107,
+        "line_count": 248,
+        "nonempty_line_count": 124,
+        "paragraph_count": 124,
+        "dialogue_line_count": 38,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 98,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.467,
+        "opening_signature": "6ccc1cbd",
+        "closing_signature": "ebbfae0f"
+      }
+    },
+    {
+      "chapter": 106,
+      "title": "The Returned Hero (2)",
+      "draft_blob_sha": "484cfa4f595b70c10f1b325a6c999a19a36c9f30",
+      "draft_raw_byte_ratio": 1.003714,
+      "metrics": {
+        "char_count": 9237,
+        "line_count": 324,
+        "nonempty_line_count": 162,
+        "paragraph_count": 162,
+        "dialogue_line_count": 35,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 93,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.248,
+        "opening_signature": "a31138fa",
+        "closing_signature": "b4b7366a"
+      }
+    },
+    {
+      "chapter": 107,
+      "title": "The Returned Hero (3)",
+      "draft_blob_sha": "7457cbe0f816aa85c4e2bcb889e3589150299d87",
+      "draft_raw_byte_ratio": 1.043393,
+      "metrics": {
+        "char_count": 8809,
+        "line_count": 308,
+        "nonempty_line_count": 154,
+        "paragraph_count": 154,
+        "dialogue_line_count": 44,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 112,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 0,
+        "explicitness_per_10k_chars": 0,
+        "opening_signature": "928d0cc6",
+        "closing_signature": "3f11738d"
+      }
+    },
+    {
+      "chapter": 108,
+      "title": "The Returned Hero (4)",
+      "draft_blob_sha": "f630e8cfccd4f2cefdcac67457262e0b73e9d514",
+      "draft_raw_byte_ratio": 0.900254,
+      "metrics": {
+        "char_count": 11284,
+        "line_count": 494,
+        "nonempty_line_count": 247,
+        "paragraph_count": 247,
+        "dialogue_line_count": 68,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 182,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 13,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 14,
+        "explicitness_per_10k_chars": 12.407,
+        "opening_signature": "8bb7df31",
+        "closing_signature": "943e47cd"
+      }
+    },
+    {
+      "chapter": 109,
+      "title": "The Returned Hero (5)",
+      "draft_blob_sha": "138dde967b661bee173f7565a63281d662cbb79b",
+      "draft_raw_byte_ratio": 1.016535,
+      "metrics": {
+        "char_count": 9790,
+        "line_count": 386,
+        "nonempty_line_count": 193,
+        "paragraph_count": 193,
+        "dialogue_line_count": 54,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 149,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 5.107,
+        "opening_signature": "487af802",
+        "closing_signature": "4a973808"
+      }
+    },
+    {
+      "chapter": 110,
+      "title": "The Great Banquet (1)",
+      "draft_blob_sha": "adb6b4fe59c82caaed7d84b3aa0a73b90981f976",
+      "draft_raw_byte_ratio": 1.135054,
+      "metrics": {
+        "char_count": 8954,
+        "line_count": 340,
+        "nonempty_line_count": 170,
+        "paragraph_count": 170,
+        "dialogue_line_count": 26,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.35,
+        "opening_signature": "e2e87ab5",
+        "closing_signature": "c484c670"
+      }
+    },
+    {
+      "chapter": 111,
+      "title": "The Great Banquet (2)",
+      "draft_blob_sha": "78394d942861807dc2469707f5c095d590c1ef7b",
+      "draft_raw_byte_ratio": 0.963928,
+      "metrics": {
+        "char_count": 12953,
+        "line_count": 465,
+        "nonempty_line_count": 246,
+        "paragraph_count": 219,
+        "dialogue_line_count": 53,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 153,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 3.088,
+        "opening_signature": "139c1976",
+        "closing_signature": "ee2e98f2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    78,
+    94
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 78,
+      "title": "The Saintess (1)",
+      "draft_blob_sha": "8919fdfc51baec50b1828e8a9433fa22d497da7e",
+      "draft_raw_byte_ratio": 0.860982,
+      "metrics": {
+        "char_count": 7458,
+        "line_count": 354,
+        "nonempty_line_count": 177,
+        "paragraph_count": 177,
+        "dialogue_line_count": 35,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 78,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 12.068,
+        "opening_signature": "31f1e593",
+        "closing_signature": "77b79d86"
+      }
+    },
+    {
+      "chapter": 79,
+      "title": "The Saintess (2)",
+      "draft_blob_sha": "39084d413ac4f670cb1887da6e81608dd5857980",
+      "draft_raw_byte_ratio": 0.740044,
+      "metrics": {
+        "char_count": 5662,
+        "line_count": 278,
+        "nonempty_line_count": 139,
+        "paragraph_count": 139,
+        "dialogue_line_count": 16,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 38,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 7.065,
+        "opening_signature": "9c95f2bb",
+        "closing_signature": "99c38bf0"
+      }
+    },
+    {
+      "chapter": 80,
+      "title": "The Saintess (3)",
+      "draft_blob_sha": "8587821735a14b453f53a71be1dbbf52823c92c7",
+      "draft_raw_byte_ratio": 0.63821,
+      "metrics": {
+        "char_count": 4987,
+        "line_count": 268,
+        "nonempty_line_count": 134,
+        "paragraph_count": 134,
+        "dialogue_line_count": 21,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 46,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 4.01,
+        "opening_signature": "ea8315e5",
+        "closing_signature": "f72b6757"
+      }
+    },
+    {
+      "chapter": 81,
+      "title": "The Saintess (4)",
+      "draft_blob_sha": "9ce5707df73fb578ba50774c09ae0af87193b87b",
+      "draft_raw_byte_ratio": 0.652593,
+      "metrics": {
+        "char_count": 5694,
+        "line_count": 278,
+        "nonempty_line_count": 139,
+        "paragraph_count": 139,
+        "dialogue_line_count": 13,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 39,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 3.512,
+        "opening_signature": "6657b360",
+        "closing_signature": "a968d600"
+      }
+    },
+    {
+      "chapter": 82,
+      "title": "The Saintess (5)",
+      "draft_blob_sha": "74a893872c2f5226a35660e2d7b26d07c5f03812",
+      "draft_raw_byte_ratio": 0.777693,
+      "metrics": {
+        "char_count": 6975,
+        "line_count": 334,
+        "nonempty_line_count": 167,
+        "paragraph_count": 167,
+        "dialogue_line_count": 34,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 80,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.301,
+        "opening_signature": "330841ad",
+        "closing_signature": "2a2017d1"
+      }
+    },
+    {
+      "chapter": 83,
+      "title": "Lovesickness (1)",
+      "draft_blob_sha": "3ba29ec77731da0e697b273bf5e92e79daaf3d49",
+      "draft_raw_byte_ratio": 0.768607,
+      "metrics": {
+        "char_count": 6786,
+        "line_count": 440,
+        "nonempty_line_count": 220,
+        "paragraph_count": 220,
+        "dialogue_line_count": 49,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 111,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 3,
+          "coercion_degradation": 5
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 25.052,
+        "opening_signature": "a23515fe",
+        "closing_signature": "b4457b30"
+      }
+    },
+    {
+      "chapter": 84,
+      "title": "Lovesickness (2)",
+      "draft_blob_sha": "9808a44919d1c1d0f7e1303087f0487488ea4e2f",
+      "draft_raw_byte_ratio": 0.722247,
+      "metrics": {
+        "char_count": 6269,
+        "line_count": 372,
+        "nonempty_line_count": 186,
+        "paragraph_count": 186,
+        "dialogue_line_count": 32,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 79,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 14.356,
+        "opening_signature": "541b1593",
+        "closing_signature": "45f79b7f"
+      }
+    },
+    {
+      "chapter": 85,
+      "title": "The Illiad (1)",
+      "draft_blob_sha": "a56c88affa2e7c4ef5f14513a79622fed585ea88",
+      "draft_raw_byte_ratio": 1.216199,
+      "metrics": {
+        "char_count": 11152,
+        "line_count": 301,
+        "nonempty_line_count": 154,
+        "paragraph_count": 147,
+        "dialogue_line_count": 13,
+        "bracket_window_candidate_lines": 3,
+        "quote_marker_count": 94,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 21,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 21,
+        "explicitness_per_10k_chars": 18.831,
+        "opening_signature": "b670431c",
+        "closing_signature": "f5c2fb6b"
+      }
+    },
+    {
+      "chapter": 86,
+      "title": "The Illiad (2)",
+      "draft_blob_sha": "29c4565c0a75203c66494499e2aecc9e97be3fb7",
+      "draft_raw_byte_ratio": 1.190822,
+      "metrics": {
+        "char_count": 9250,
+        "line_count": 320,
+        "nonempty_line_count": 160,
+        "paragraph_count": 160,
+        "dialogue_line_count": 12,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 75,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 17,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 18.378,
+        "opening_signature": "e7dce64d",
+        "closing_signature": "1f934313"
+      }
+    },
+    {
+      "chapter": 87,
+      "title": "The Illiad (3)",
+      "draft_blob_sha": "44f50dfe39f6561bc6fcef0866eac15ced40bcda",
+      "draft_raw_byte_ratio": 1.066085,
+      "metrics": {
+        "char_count": 11176,
+        "line_count": 472,
+        "nonempty_line_count": 236,
+        "paragraph_count": 236,
+        "dialogue_line_count": 66,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 213,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 6.263,
+        "opening_signature": "315ae5fe",
+        "closing_signature": "9a000c38"
+      }
+    },
+    {
+      "chapter": 88,
+      "title": "The Illiad (4)",
+      "draft_blob_sha": "ea63828b72eab4c606ae8345bcb828d059005a93",
+      "draft_raw_byte_ratio": 1.127263,
+      "metrics": {
+        "char_count": 10275,
+        "line_count": 354,
+        "nonempty_line_count": 177,
+        "paragraph_count": 177,
+        "dialogue_line_count": 38,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 136,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 7.786,
+        "opening_signature": "78e9199a",
+        "closing_signature": "ad738539"
+      }
+    },
+    {
+      "chapter": 89,
+      "title": "The Illiad (5)",
+      "draft_blob_sha": "f5bd1de503662b7daa2c4543c495c2820ea8b97e",
+      "draft_raw_byte_ratio": 1.14568,
+      "metrics": {
+        "char_count": 10742,
+        "line_count": 462,
+        "nonempty_line_count": 231,
+        "paragraph_count": 231,
+        "dialogue_line_count": 28,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 125,
+        "explicitness_candidate_counts": {
+          "profanity": 2,
+          "violence_gore": 18,
+          "anatomy_sexual": 3,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 24,
+        "explicitness_per_10k_chars": 22.342,
+        "opening_signature": "46bb8a9e",
+        "closing_signature": "a61c8294"
+      }
+    },
+    {
+      "chapter": 90,
+      "title": "The Ghosts of the Ancestors (1)",
+      "draft_blob_sha": "d591ba314f2808613552a721c9917fa4e840e36e",
+      "draft_raw_byte_ratio": 1.245883,
+      "metrics": {
+        "char_count": 9451,
+        "line_count": 413,
+        "nonempty_line_count": 210,
+        "paragraph_count": 203,
+        "dialogue_line_count": 21,
+        "bracket_window_candidate_lines": 3,
+        "quote_marker_count": 83,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 9,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 12.697,
+        "opening_signature": "df244dd2",
+        "closing_signature": "10946cdc"
+      }
+    },
+    {
+      "chapter": 91,
+      "title": "The Ghosts of the Ancestors (2)",
+      "draft_blob_sha": "a6df7831bbcd6f71e0bdaca76c23e85341d43a51",
+      "draft_raw_byte_ratio": 1.19041,
+      "metrics": {
+        "char_count": 10092,
+        "line_count": 484,
+        "nonempty_line_count": 244,
+        "paragraph_count": 240,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 111,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 37,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 38,
+        "explicitness_per_10k_chars": 37.654,
+        "opening_signature": "beb4ace8",
+        "closing_signature": "e50a35fd"
+      }
+    },
+    {
+      "chapter": 92,
+      "title": "The Ghosts of the Ancestors (3)",
+      "draft_blob_sha": "08f1e23f7b62376bb290e4aeb47dc5baef366eac",
+      "draft_raw_byte_ratio": 1.174797,
+      "metrics": {
+        "char_count": 9710,
+        "line_count": 480,
+        "nonempty_line_count": 240,
+        "paragraph_count": 240,
+        "dialogue_line_count": 16,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 69,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 10,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 12.358,
+        "opening_signature": "d1ef87ac",
+        "closing_signature": "06ff66ba"
+      }
+    },
+    {
+      "chapter": 93,
+      "title": "The Ghosts of the Ancestors (4)",
+      "draft_blob_sha": "20059b83e37d4bd2227a5bfaaee9c2a65737ae0b",
+      "draft_raw_byte_ratio": 1.12174,
+      "metrics": {
+        "char_count": 11329,
+        "line_count": 622,
+        "nonempty_line_count": 311,
+        "paragraph_count": 311,
+        "dialogue_line_count": 31,
+        "bracket_window_candidate_lines": 2,
+        "quote_marker_count": 107,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 21,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 22,
+        "explicitness_per_10k_chars": 19.419,
+        "opening_signature": "e54ab466",
+        "closing_signature": "2201755c"
+      }
+    },
+    {
+      "chapter": 94,
+      "title": "The Ghosts of the Ancestors (5)",
+      "draft_blob_sha": "6702b7e21087f0aeb6a342d6b18a44e5f562fbae",
+      "draft_raw_byte_ratio": 1.258278,
+      "metrics": {
+        "char_count": 10490,
+        "line_count": 508,
+        "nonempty_line_count": 254,
+        "paragraph_count": 254,
+        "dialogue_line_count": 17,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 69,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 19,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 19,
+        "explicitness_per_10k_chars": 18.112,
+        "opening_signature": "b1d7f57c",
+        "closing_signature": "1d1c4ccf"
+      }
+    }
+  ]
+}

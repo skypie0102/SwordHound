@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    146,
+    162
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 146,
+      "title": "Volunteering for the Golden Week (3)",
+      "draft_blob_sha": "a8082725f02db5a0a3eac6bac7e27a1c6c1a964c",
+      "draft_raw_byte_ratio": 1.066022,
+      "metrics": {
+        "char_count": 9471,
+        "line_count": 496,
+        "nonempty_line_count": 248,
+        "paragraph_count": 248,
+        "dialogue_line_count": 62,
+        "bracket_window_candidate_lines": 2,
+        "quote_marker_count": 154,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 7.391,
+        "opening_signature": "6491114f",
+        "closing_signature": "5c77b47f"
+      }
+    },
+    {
+      "chapter": 147,
+      "title": "Volunteering for the Golden Week (4)",
+      "draft_blob_sha": "1c89a57b6480d8db275e246f3dd031e88ffe7571",
+      "draft_raw_byte_ratio": 1.167029,
+      "metrics": {
+        "char_count": 9721,
+        "line_count": 538,
+        "nonempty_line_count": 269,
+        "paragraph_count": 269,
+        "dialogue_line_count": 100,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 265,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.086,
+        "opening_signature": "b90d5891",
+        "closing_signature": "fe5685ea"
+      }
+    },
+    {
+      "chapter": 148,
+      "title": "Volunteering for the Golden Week (5)",
+      "draft_blob_sha": "11c2ad0caad17e2d69bbf1e42bebd411a733b9b9",
+      "draft_raw_byte_ratio": 1.062521,
+      "metrics": {
+        "char_count": 9213,
+        "line_count": 541,
+        "nonempty_line_count": 278,
+        "paragraph_count": 263,
+        "dialogue_line_count": 46,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 122,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.171,
+        "opening_signature": "7933f963",
+        "closing_signature": "1571782f"
+      }
+    },
+    {
+      "chapter": 149,
+      "title": "Volunteering for the Golden Week (6)",
+      "draft_blob_sha": "f12c2b44bed39cbceac7c413d41d0857f44adc7d",
+      "draft_raw_byte_ratio": 1.103665,
+      "metrics": {
+        "char_count": 14773,
+        "line_count": 856,
+        "nonempty_line_count": 428,
+        "paragraph_count": 428,
+        "dialogue_line_count": 71,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 180,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 3.385,
+        "opening_signature": "1bfb1b7d",
+        "closing_signature": "3479b09c"
+      }
+    },
+    {
+      "chapter": 150,
+      "title": "Not Brother, But Uncle (1)",
+      "draft_blob_sha": "93bbe3a2c57b5c15be4e524b74eca06c8c8caf48",
+      "draft_raw_byte_ratio": 1.09736,
+      "metrics": {
+        "char_count": 10210,
+        "line_count": 606,
+        "nonempty_line_count": 303,
+        "paragraph_count": 303,
+        "dialogue_line_count": 71,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 185,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 2.938,
+        "opening_signature": "d88707f2",
+        "closing_signature": "789dbe40"
+      }
+    },
+    {
+      "chapter": 151,
+      "title": "Not Brother, But Uncle (2)",
+      "draft_blob_sha": "0cc90a3beea435d287a0339e70f349a6e7473db5",
+      "draft_raw_byte_ratio": 1.219253,
+      "metrics": {
+        "char_count": 9930,
+        "line_count": 568,
+        "nonempty_line_count": 284,
+        "paragraph_count": 284,
+        "dialogue_line_count": 127,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 301,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.007,
+        "opening_signature": "3814459a",
+        "closing_signature": "c3c67d20"
+      }
+    },
+    {
+      "chapter": 152,
+      "title": "The Drinking Game (1)",
+      "draft_blob_sha": "64ee1d4f880fc20ea7b7c4818540e2c6ba4e4cc9",
+      "draft_raw_byte_ratio": 1.129226,
+      "metrics": {
+        "char_count": 10058,
+        "line_count": 614,
+        "nonempty_line_count": 309,
+        "paragraph_count": 305,
+        "dialogue_line_count": 78,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 200,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 2.983,
+        "opening_signature": "c50fc88b",
+        "closing_signature": "632b5507"
+      }
+    },
+    {
+      "chapter": 153,
+      "title": "The Drinking Game (2)",
+      "draft_blob_sha": "ff2cc52c6826be2df81a450175952cff8c890361",
+      "draft_raw_byte_ratio": 1.084627,
+      "metrics": {
+        "char_count": 9212,
+        "line_count": 606,
+        "nonempty_line_count": 303,
+        "paragraph_count": 303,
+        "dialogue_line_count": 48,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 128,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.086,
+        "opening_signature": "7b1a066d",
+        "closing_signature": "c6c49289"
+      }
+    },
+    {
+      "chapter": 154,
+      "title": "The Drinking Game (3)",
+      "draft_blob_sha": "138a97adacfd1ec1c0c3c058890cca0f4940009d",
+      "draft_raw_byte_ratio": 0.843413,
+      "metrics": {
+        "char_count": 10100,
+        "line_count": 716,
+        "nonempty_line_count": 358,
+        "paragraph_count": 358,
+        "dialogue_line_count": 38,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 113,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 3
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 4.95,
+        "opening_signature": "87c5a6f8",
+        "closing_signature": "28f6f41f"
+      }
+    },
+    {
+      "chapter": 155,
+      "title": "How to Keep Your Night Shift Employees Safe (1)",
+      "draft_blob_sha": "56dd3fd684523b1c703f3883f3bd4c5469c53121",
+      "draft_raw_byte_ratio": 1.130927,
+      "metrics": {
+        "char_count": 8129,
+        "line_count": 488,
+        "nonempty_line_count": 246,
+        "paragraph_count": 242,
+        "dialogue_line_count": 58,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 145,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 4.921,
+        "opening_signature": "bd1dd2e7",
+        "closing_signature": "ce7ab96c"
+      }
+    },
+    {
+      "chapter": 156,
+      "title": "How to Keep Your Night Shift Employees Safe (2)",
+      "draft_blob_sha": "79433a20cf0eee5b9b2f39a98543f3d1c32a84cf",
+      "draft_raw_byte_ratio": 1.193265,
+      "metrics": {
+        "char_count": 8863,
+        "line_count": 372,
+        "nonempty_line_count": 243,
+        "paragraph_count": 129,
+        "dialogue_line_count": 9,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 23,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 2,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.257,
+        "opening_signature": "21c485a6",
+        "closing_signature": "e8dfddb3"
+      }
+    },
+    {
+      "chapter": 157,
+      "title": "How to Keep Your Night Shift Employees Safe (3)",
+      "draft_blob_sha": "0dc5ad3142fe6732d7367eb9f3a7a46d6648b525",
+      "draft_raw_byte_ratio": 1.024211,
+      "metrics": {
+        "char_count": 7736,
+        "line_count": 476,
+        "nonempty_line_count": 242,
+        "paragraph_count": 234,
+        "dialogue_line_count": 50,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 124,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 5.171,
+        "opening_signature": "48e5c53a",
+        "closing_signature": "3b4c04cc"
+      }
+    },
+    {
+      "chapter": 158,
+      "title": "Familiar Face (1)",
+      "draft_blob_sha": "d168adaae4752967b229d2809859a35a6111d53f",
+      "draft_raw_byte_ratio": 1.056822,
+      "metrics": {
+        "char_count": 9306,
+        "line_count": 602,
+        "nonempty_line_count": 301,
+        "paragraph_count": 301,
+        "dialogue_line_count": 60,
+        "bracket_window_candidate_lines": 3,
+        "quote_marker_count": 156,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 17,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 17,
+        "explicitness_per_10k_chars": 18.268,
+        "opening_signature": "37d05bac",
+        "closing_signature": "9ec00fdd"
+      }
+    },
+    {
+      "chapter": 159,
+      "title": "Familiar Face (2)",
+      "draft_blob_sha": "d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8",
+      "draft_raw_byte_ratio": 1.120339,
+      "metrics": {
+        "char_count": 9228,
+        "line_count": 540,
+        "nonempty_line_count": 270,
+        "paragraph_count": 270,
+        "dialogue_line_count": 37,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 97,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 7.586,
+        "opening_signature": "1e10d0e1",
+        "closing_signature": "3ab4ccd5"
+      }
+    },
+    {
+      "chapter": 160,
+      "title": "Familiar Face (3)",
+      "draft_blob_sha": "fc8395cb8dfef12b16924b827e556d0fc642ee11",
+      "draft_raw_byte_ratio": 0.955045,
+      "metrics": {
+        "char_count": 9584,
+        "line_count": 684,
+        "nonempty_line_count": 342,
+        "paragraph_count": 342,
+        "dialogue_line_count": 44,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 118,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 18,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 19,
+        "explicitness_per_10k_chars": 19.825,
+        "opening_signature": "c6a7f589",
+        "closing_signature": "3288b850"
+      }
+    },
+    {
+      "chapter": 161,
+      "title": "Familiar Face (4)",
+      "draft_blob_sha": "b5d67f3439f03aedbdfc35499afffcae0c819ca6",
+      "draft_raw_byte_ratio": 0.944987,
+      "metrics": {
+        "char_count": 8149,
+        "line_count": 574,
+        "nonempty_line_count": 287,
+        "paragraph_count": 287,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 84,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 10,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 10,
+        "explicitness_per_10k_chars": 12.271,
+        "opening_signature": "8aa871ba",
+        "closing_signature": "8dc464af"
+      }
+    },
+    {
+      "chapter": 162,
+      "title": "Sin and Punishment (1)",
+      "draft_blob_sha": "1f08b101d524d6e8f5771b814b0c947088ef74e2",
+      "draft_raw_byte_ratio": 0.805391,
+      "metrics": {
+        "char_count": 7715,
+        "line_count": 517,
+        "nonempty_line_count": 260,
+        "paragraph_count": 257,
+        "dialogue_line_count": 57,
+        "bracket_window_candidate_lines": 9,
+        "quote_marker_count": 151,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 10,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 11,
+        "explicitness_per_10k_chars": 14.258,
+        "opening_signature": "7e3efe71",
+        "closing_signature": "2ca98da4"
+      }
+    }
+  ]
+}

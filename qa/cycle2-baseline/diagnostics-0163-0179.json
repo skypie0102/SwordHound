@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    163,
+    179
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 163,
+      "title": "Sin and Punishment (2)",
+      "draft_blob_sha": "04413470b69380debfc8cd5bfbe9248d38bd74b9",
+      "draft_raw_byte_ratio": 0.727452,
+      "metrics": {
+        "char_count": 8326,
+        "line_count": 572,
+        "nonempty_line_count": 296,
+        "paragraph_count": 276,
+        "dialogue_line_count": 16,
+        "bracket_window_candidate_lines": 52,
+        "quote_marker_count": 57,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 13,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 15,
+        "explicitness_per_10k_chars": 18.016,
+        "opening_signature": "f7c30aec",
+        "closing_signature": "a01d07cf"
+      }
+    },
+    {
+      "chapter": 164,
+      "title": "Sin and Punishment (3)",
+      "draft_blob_sha": "d9564aff082a41cb247215abc446c3bc85db4b05",
+      "draft_raw_byte_ratio": 0.754583,
+      "metrics": {
+        "char_count": 7628,
+        "line_count": 526,
+        "nonempty_line_count": 263,
+        "paragraph_count": 263,
+        "dialogue_line_count": 39,
+        "bracket_window_candidate_lines": 36,
+        "quote_marker_count": 108,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 11.799,
+        "opening_signature": "3ffcca20",
+        "closing_signature": "20aaf679"
+      }
+    },
+    {
+      "chapter": 165,
+      "title": "Sin and Punishment (4)",
+      "draft_blob_sha": "c19ed8dcafe3734723ed01edc078c6e59d5583f3",
+      "draft_raw_byte_ratio": 0.724987,
+      "metrics": {
+        "char_count": 5411,
+        "line_count": 352,
+        "nonempty_line_count": 176,
+        "paragraph_count": 176,
+        "dialogue_line_count": 6,
+        "bracket_window_candidate_lines": 12,
+        "quote_marker_count": 21,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 9.24,
+        "opening_signature": "6dfd7718",
+        "closing_signature": "c57db1e8"
+      }
+    },
+    {
+      "chapter": 166,
+      "title": "Sin and Punishment (5)",
+      "draft_blob_sha": "2cb57d300ba3eb51cc946aa8d80e31e80014a65a",
+      "draft_raw_byte_ratio": 0.794903,
+      "metrics": {
+        "char_count": 7121,
+        "line_count": 486,
+        "nonempty_line_count": 243,
+        "paragraph_count": 243,
+        "dialogue_line_count": 13,
+        "bracket_window_candidate_lines": 16,
+        "quote_marker_count": 45,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 7,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 8,
+        "explicitness_per_10k_chars": 11.234,
+        "opening_signature": "fd69a2ec",
+        "closing_signature": "afc5a708"
+      }
+    },
+    {
+      "chapter": 167,
+      "title": "Sin and Punishment (6)",
+      "draft_blob_sha": "c90fc53b4549490af79679955bb9612eaa1ed9fc",
+      "draft_raw_byte_ratio": 0.771358,
+      "metrics": {
+        "char_count": 7023,
+        "line_count": 514,
+        "nonempty_line_count": 257,
+        "paragraph_count": 257,
+        "dialogue_line_count": 7,
+        "bracket_window_candidate_lines": 23,
+        "quote_marker_count": 40,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 7.119,
+        "opening_signature": "33dc1c3f",
+        "closing_signature": "1323c6b8"
+      }
+    },
+    {
+      "chapter": 168,
+      "title": "Sin and Punishment (7)",
+      "draft_blob_sha": "3d9cf8f688bba00454bdb4d05fb45a2fcbadda03",
+      "draft_raw_byte_ratio": 1.047394,
+      "metrics": {
+        "char_count": 8727,
+        "line_count": 499,
+        "nonempty_line_count": 257,
+        "paragraph_count": 242,
+        "dialogue_line_count": 60,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 131,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 5.729,
+        "opening_signature": "c88226f4",
+        "closing_signature": "fafb6f54"
+      }
+    },
+    {
+      "chapter": 169,
+      "title": "Sin and Punishment (8)",
+      "draft_blob_sha": "77c3fa0268044ac0393e59250ef5ca80912e72b0",
+      "draft_raw_byte_ratio": 1.089812,
+      "metrics": {
+        "char_count": 8025,
+        "line_count": 388,
+        "nonempty_line_count": 194,
+        "paragraph_count": 194,
+        "dialogue_line_count": 72,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 151,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 3.738,
+        "opening_signature": "8dbbf240",
+        "closing_signature": "da8364b2"
+      }
+    },
+    {
+      "chapter": 170,
+      "title": "Adorable Pet (1)",
+      "draft_blob_sha": "be1251a9891f391b76edbfedd0cd612a967538a0",
+      "draft_raw_byte_ratio": 1.314616,
+      "metrics": {
+        "char_count": 9164,
+        "line_count": 597,
+        "nonempty_line_count": 307,
+        "paragraph_count": 290,
+        "dialogue_line_count": 56,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 145,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 1,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 6.547,
+        "opening_signature": "67a26903",
+        "closing_signature": "2e5ee68f"
+      }
+    },
+    {
+      "chapter": 171,
+      "title": "Adorable Pet (2)",
+      "draft_blob_sha": "a5a437026a9bddee9dfcdc90a3b9c6c1c91cee98",
+      "draft_raw_byte_ratio": 0.992283,
+      "metrics": {
+        "char_count": 8832,
+        "line_count": 578,
+        "nonempty_line_count": 292,
+        "paragraph_count": 286,
+        "dialogue_line_count": 69,
+        "bracket_window_candidate_lines": 6,
+        "quote_marker_count": 164,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 4,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 4,
+        "explicitness_per_10k_chars": 4.529,
+        "opening_signature": "6855face",
+        "closing_signature": "e7281354"
+      }
+    },
+    {
+      "chapter": 172,
+      "title": "The Anti-Columnist (1)",
+      "draft_blob_sha": "f0409a70bbfb5bf6fc93b50be2f3274833d1a835",
+      "draft_raw_byte_ratio": 0.922284,
+      "metrics": {
+        "char_count": 11110,
+        "line_count": 576,
+        "nonempty_line_count": 309,
+        "paragraph_count": 267,
+        "dialogue_line_count": 97,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 236,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 1.8,
+        "opening_signature": "5831ecd9",
+        "closing_signature": "c3afef66"
+      }
+    },
+    {
+      "chapter": 173,
+      "title": "The Anti-Columnist (2)",
+      "draft_blob_sha": "3c01f345b6393b033c9829eece324ddba216ca11",
+      "draft_raw_byte_ratio": 1.017715,
+      "metrics": {
+        "char_count": 10779,
+        "line_count": 585,
+        "nonempty_line_count": 305,
+        "paragraph_count": 280,
+        "dialogue_line_count": 113,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 256,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 1.855,
+        "opening_signature": "2852f552",
+        "closing_signature": "cdbeb0df"
+      }
+    },
+    {
+      "chapter": 174,
+      "title": "The Anti-Columnist (3)",
+      "draft_blob_sha": "c46e7115716895a9c33812b5c0840df24a00b63d",
+      "draft_raw_byte_ratio": 0.928584,
+      "metrics": {
+        "char_count": 9581,
+        "line_count": 648,
+        "nonempty_line_count": 324,
+        "paragraph_count": 324,
+        "dialogue_line_count": 161,
+        "bracket_window_candidate_lines": 2,
+        "quote_marker_count": 373,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.087,
+        "opening_signature": "38e98b65",
+        "closing_signature": "621ba722"
+      }
+    },
+    {
+      "chapter": 175,
+      "title": "The Anti-Columnist (4)",
+      "draft_blob_sha": "17390a053082bfeffa3909dad990676caaa30b00",
+      "draft_raw_byte_ratio": 1.054723,
+      "metrics": {
+        "char_count": 8233,
+        "line_count": 484,
+        "nonempty_line_count": 254,
+        "paragraph_count": 230,
+        "dialogue_line_count": 33,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 86,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.429,
+        "opening_signature": "8940b7d1",
+        "closing_signature": "295399f8"
+      }
+    },
+    {
+      "chapter": 176,
+      "title": "The 99 Hits With 100 Shots (1)",
+      "draft_blob_sha": "d40598073ed5cbfe15966f7ed49e0f3ca1578657",
+      "draft_raw_byte_ratio": 0.68563,
+      "metrics": {
+        "char_count": 5585,
+        "line_count": 428,
+        "nonempty_line_count": 214,
+        "paragraph_count": 214,
+        "dialogue_line_count": 32,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 88,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 0,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.791,
+        "opening_signature": "7d5de9dc",
+        "closing_signature": "1fd276bb"
+      }
+    },
+    {
+      "chapter": 177,
+      "title": "The 99 Hits With 100 Shots (2)",
+      "draft_blob_sha": "2b8149986b97dcf7d01b92d65f32e3a002492506",
+      "draft_raw_byte_ratio": 0.759263,
+      "metrics": {
+        "char_count": 6840,
+        "line_count": 491,
+        "nonempty_line_count": 249,
+        "paragraph_count": 242,
+        "dialogue_line_count": 39,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 100,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 2
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.386,
+        "opening_signature": "a95f3d17",
+        "closing_signature": "195c0840"
+      }
+    },
+    {
+      "chapter": 178,
+      "title": "The 99 Hits With 100 Shots (3)",
+      "draft_blob_sha": "09b01b431636ee64e515ba57f18e25d2dceee510",
+      "draft_raw_byte_ratio": 0.768807,
+      "metrics": {
+        "char_count": 7149,
+        "line_count": 504,
+        "nonempty_line_count": 255,
+        "paragraph_count": 249,
+        "dialogue_line_count": 71,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 171,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 2.798,
+        "opening_signature": "a00b19f0",
+        "closing_signature": "ee6dfbbb"
+      }
+    },
+    {
+      "chapter": 179,
+      "title": "Midterm Random Defense (1)",
+      "draft_blob_sha": "d87b7ec507b26b6dd68eb8b6dddad99b77d0efe5",
+      "draft_raw_byte_ratio": 0.875039,
+      "metrics": {
+        "char_count": 8087,
+        "line_count": 542,
+        "nonempty_line_count": 282,
+        "paragraph_count": 260,
+        "dialogue_line_count": 64,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 151,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.237,
+        "opening_signature": "bf043550",
+        "closing_signature": "79fc2c0c"
+      }
+    }
+  ]
+}

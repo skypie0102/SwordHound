@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
+  "range": [
+    197,
+    213
+  ],
+  "scope": "English manuscript structural/explicitness-candidate baseline; Chinese byte/ratio metadata in qa/cycle2-ledger.json. Heuristic only.",
+  "chapters": [
+    {
+      "chapter": 197,
+      "title": "Preparing for the Festival",
+      "draft_blob_sha": "eccfef53c50e5ad6f38f3d8713fc5f3e71443cbb",
+      "draft_raw_byte_ratio": 0.745708,
+      "metrics": {
+        "char_count": 12086,
+        "line_count": 948,
+        "nonempty_line_count": 478,
+        "paragraph_count": 470,
+        "dialogue_line_count": 114,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 280,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 7,
+        "explicitness_per_10k_chars": 5.792,
+        "opening_signature": "88805cb9",
+        "closing_signature": "7c32e928"
+      }
+    },
+    {
+      "chapter": 198,
+      "title": "The Corpse Queen (1)",
+      "draft_blob_sha": "c126653d2e228caf648213a42f93dfdfb7bc64cd",
+      "draft_raw_byte_ratio": 0.838971,
+      "metrics": {
+        "char_count": 6593,
+        "line_count": 439,
+        "nonempty_line_count": 227,
+        "paragraph_count": 212,
+        "dialogue_line_count": 5,
+        "bracket_window_candidate_lines": 3,
+        "quote_marker_count": 28,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 15,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 15,
+        "explicitness_per_10k_chars": 22.751,
+        "opening_signature": "c9a68564",
+        "closing_signature": "716679db"
+      }
+    },
+    {
+      "chapter": 199,
+      "title": "The Corpse Queen (2)",
+      "draft_blob_sha": "e77124882fc36e521ab1b156ad05a441581d39d6",
+      "draft_raw_byte_ratio": 0.807282,
+      "metrics": {
+        "char_count": 6986,
+        "line_count": 512,
+        "nonempty_line_count": 275,
+        "paragraph_count": 237,
+        "dialogue_line_count": 9,
+        "bracket_window_candidate_lines": 21,
+        "quote_marker_count": 55,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 33,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 33,
+        "explicitness_per_10k_chars": 47.237,
+        "opening_signature": "07672f25",
+        "closing_signature": "108f7613"
+      }
+    },
+    {
+      "chapter": 200,
+      "title": "The Corpse Queen (3)",
+      "draft_blob_sha": "30757a858c04c47a6ae65901f0aa8393964b828b",
+      "draft_raw_byte_ratio": 0.712341,
+      "metrics": {
+        "char_count": 6274,
+        "line_count": 515,
+        "nonempty_line_count": 266,
+        "paragraph_count": 249,
+        "dialogue_line_count": 5,
+        "bracket_window_candidate_lines": 25,
+        "quote_marker_count": 22,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 34,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 35,
+        "explicitness_per_10k_chars": 55.786,
+        "opening_signature": "e41554e4",
+        "closing_signature": "5ea4ea2b"
+      }
+    },
+    {
+      "chapter": 201,
+      "title": "The Corpse Queen (4)",
+      "draft_blob_sha": "64c6c2e0916a242285c2bb0b614201e0a31471ca",
+      "draft_raw_byte_ratio": 0.757958,
+      "metrics": {
+        "char_count": 6100,
+        "line_count": 551,
+        "nonempty_line_count": 282,
+        "paragraph_count": 269,
+        "dialogue_line_count": 4,
+        "bracket_window_candidate_lines": 6,
+        "quote_marker_count": 41,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 28,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 28,
+        "explicitness_per_10k_chars": 45.902,
+        "opening_signature": "13d1729e",
+        "closing_signature": "3fb58f2d"
+      }
+    },
+    {
+      "chapter": 202,
+      "title": "The Corpse Queen (5)",
+      "draft_blob_sha": "b5a23f58bd8db5e1d80c7fefc80672bba00541e4",
+      "draft_raw_byte_ratio": 0.760451,
+      "metrics": {
+        "char_count": 6343,
+        "line_count": 578,
+        "nonempty_line_count": 289,
+        "paragraph_count": 289,
+        "dialogue_line_count": 19,
+        "bracket_window_candidate_lines": 4,
+        "quote_marker_count": 60,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 27,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 28,
+        "explicitness_per_10k_chars": 44.143,
+        "opening_signature": "6ec17618",
+        "closing_signature": "02b8f1fa"
+      }
+    },
+    {
+      "chapter": 203,
+      "title": "Mixed Bath (1)",
+      "draft_blob_sha": "7dcf4379def72d981db05036ec9b80867acf030c",
+      "draft_raw_byte_ratio": 0.788051,
+      "metrics": {
+        "char_count": 6360,
+        "line_count": 544,
+        "nonempty_line_count": 272,
+        "paragraph_count": 272,
+        "dialogue_line_count": 35,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 91,
+        "explicitness_candidate_counts": {
+          "profanity": 1,
+          "violence_gore": 11,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 18.868,
+        "opening_signature": "08e6a284",
+        "closing_signature": "28180a34"
+      }
+    },
+    {
+      "chapter": 204,
+      "title": "Mixed Bath (2)",
+      "draft_blob_sha": "31756ca9ddf560d68da233ca90cc16f5770efd7f",
+      "draft_raw_byte_ratio": 0.771166,
+      "metrics": {
+        "char_count": 7380,
+        "line_count": 572,
+        "nonempty_line_count": 287,
+        "paragraph_count": 285,
+        "dialogue_line_count": 36,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 90,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 8,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 1
+        },
+        "explicitness_candidate_total": 9,
+        "explicitness_per_10k_chars": 12.195,
+        "opening_signature": "75711954",
+        "closing_signature": "77c5a095"
+      }
+    },
+    {
+      "chapter": 205,
+      "title": "Mixed Bath (3)",
+      "draft_blob_sha": "c8ba7fe99be05b2db5a3dcbc43b32eec3e3ee467",
+      "draft_raw_byte_ratio": 0.806532,
+      "metrics": {
+        "char_count": 7060,
+        "line_count": 578,
+        "nonempty_line_count": 289,
+        "paragraph_count": 289,
+        "dialogue_line_count": 35,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 98,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 6,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 6,
+        "explicitness_per_10k_chars": 8.499,
+        "opening_signature": "96b6f12e",
+        "closing_signature": "fddf8c53"
+      }
+    },
+    {
+      "chapter": 206,
+      "title": "Festival Night (1)",
+      "draft_blob_sha": "cd2f17f2d95183bd12f316b63b3777ee7a0c21a6",
+      "draft_raw_byte_ratio": 0.717208,
+      "metrics": {
+        "char_count": 6173,
+        "line_count": 552,
+        "nonempty_line_count": 276,
+        "paragraph_count": 276,
+        "dialogue_line_count": 57,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 129,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 2,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 2,
+        "explicitness_per_10k_chars": 3.24,
+        "opening_signature": "3d0a5135",
+        "closing_signature": "e7ee07f3"
+      }
+    },
+    {
+      "chapter": 207,
+      "title": "Festival Night (2)",
+      "draft_blob_sha": "18e6c64c52de518629988600f4729fd1d9b7a063",
+      "draft_raw_byte_ratio": 0.818575,
+      "metrics": {
+        "char_count": 7373,
+        "line_count": 644,
+        "nonempty_line_count": 322,
+        "paragraph_count": 322,
+        "dialogue_line_count": 99,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 212,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 5,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 5,
+        "explicitness_per_10k_chars": 6.782,
+        "opening_signature": "99f5e893",
+        "closing_signature": "dd4ebe09"
+      }
+    },
+    {
+      "chapter": 208,
+      "title": "Festival Night (3)",
+      "draft_blob_sha": "a17e8a4f59bc1ea8830807e9eb06eaeff9705923",
+      "draft_raw_byte_ratio": 0.700319,
+      "metrics": {
+        "char_count": 6037,
+        "line_count": 520,
+        "nonempty_line_count": 260,
+        "paragraph_count": 260,
+        "dialogue_line_count": 39,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 92,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 4.969,
+        "opening_signature": "82f0fc22",
+        "closing_signature": "70f594ed"
+      }
+    },
+    {
+      "chapter": 209,
+      "title": "Festival Night (4)",
+      "draft_blob_sha": "45acb2594af6284b5d498033a352e03a51ecd3df",
+      "draft_raw_byte_ratio": 0.897168,
+      "metrics": {
+        "char_count": 7378,
+        "line_count": 576,
+        "nonempty_line_count": 293,
+        "paragraph_count": 283,
+        "dialogue_line_count": 61,
+        "bracket_window_candidate_lines": 0,
+        "quote_marker_count": 151,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 1,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 1,
+        "explicitness_per_10k_chars": 1.355,
+        "opening_signature": "a36966a1",
+        "closing_signature": "e61ca02a"
+      }
+    },
+    {
+      "chapter": 210,
+      "title": "Festival Night (5)",
+      "draft_blob_sha": "60f91ace34eb2364f3ad5143ff7712ff9c128511",
+      "draft_raw_byte_ratio": 0.719743,
+      "metrics": {
+        "char_count": 5350,
+        "line_count": 506,
+        "nonempty_line_count": 253,
+        "paragraph_count": 253,
+        "dialogue_line_count": 18,
+        "bracket_window_candidate_lines": 1,
+        "quote_marker_count": 51,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 3,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 3,
+        "explicitness_per_10k_chars": 5.607,
+        "opening_signature": "0b5806d2",
+        "closing_signature": "80c22ef3"
+      }
+    },
+    {
+      "chapter": 211,
+      "title": "Festival Night (6)",
+      "draft_blob_sha": "02474d7e623a5a9dd8bb68c3421f9f7db013f60d",
+      "draft_raw_byte_ratio": 0.67734,
+      "metrics": {
+        "char_count": 5464,
+        "line_count": 574,
+        "nonempty_line_count": 287,
+        "paragraph_count": 287,
+        "dialogue_line_count": 23,
+        "bracket_window_candidate_lines": 19,
+        "quote_marker_count": 57,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 21.962,
+        "opening_signature": "f5c398f1",
+        "closing_signature": "acedfa21"
+      }
+    },
+    {
+      "chapter": 212,
+      "title": "Festival Night (7)",
+      "draft_blob_sha": "0e166092e239bd215f5b9434af91e77b4503feb8",
+      "draft_raw_byte_ratio": 0.782013,
+      "metrics": {
+        "char_count": 5717,
+        "line_count": 518,
+        "nonempty_line_count": 259,
+        "paragraph_count": 259,
+        "dialogue_line_count": 21,
+        "bracket_window_candidate_lines": 36,
+        "quote_marker_count": 57,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 16,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 16,
+        "explicitness_per_10k_chars": 27.987,
+        "opening_signature": "58822e2e",
+        "closing_signature": "9794fb6c"
+      }
+    },
+    {
+      "chapter": 213,
+      "title": "Festival Night (8)",
+      "draft_blob_sha": "94f3ecdd9e2f5863dd54e908eb52d44a8f537eed",
+      "draft_raw_byte_ratio": 0.663623,
+      "metrics": {
+        "char_count": 4960,
+        "line_count": 443,
+        "nonempty_line_count": 227,
+        "paragraph_count": 216,
+        "dialogue_line_count": 21,
+        "bracket_window_candidate_lines": 7,
+        "quote_marker_count": 65,
+        "explicitness_candidate_counts": {
+          "profanity": 0,
+          "violence_gore": 12,
+          "anatomy_sexual": 0,
+          "coercion_degradation": 0
+        },
+        "explicitness_candidate_total": 12,
+        "explicitness_per_10k_chars": 24.194,
+        "opening_signature": "d13b6b43",
+        "closing_signature": "8fd25cbb"
+      }
+    }
+  ]
+}
