@@ -2,7 +2,7 @@
   "schema_version": 1,
   "audit": "full_sanitization_completeness_cycle2",
   "status": "active",
-  "phase": "phase_0_complete_phase_1_ready",
+  "phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
   "opening_main_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opening_tree_sha": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opened": "2026-09-21",
@@ -31,9 +31,11 @@
         2,
         3
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 2,
@@ -1976,12 +1978,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md"
     },
     {
       "chapter": 2,
@@ -2021,12 +2026,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md"
     },
     {
       "chapter": 3,
@@ -2066,12 +2074,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md"
     },
     {
       "chapter": 4,
@@ -24647,5 +24658,17 @@
         3
       ]
     }
+  },
+  "phase1": {
+    "status": "active",
+    "sanitization_revalidated_count": 3,
+    "next_family": {
+      "name": "The Baskerville Dog",
+      "range": [
+        4,
+        7
+      ]
+    },
+    "confirmed_failures": []
   }
 }
