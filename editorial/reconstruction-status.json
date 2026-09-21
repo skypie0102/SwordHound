@@ -1509,14 +1509,35 @@
         "family": "The Red Death",
         "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
         "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
+      },
+      {
+        "chapter": 75,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Floating-corpse footing imagery was generalized away.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 76,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Children's collapse/wetting terror response was omitted; operational pathogen details remain safety-limited.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 77,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Mozgus cruelty characterization and the torture-application memory were softened/omitted.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
       }
     ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "The Hound of the Night",
+      "name": "The Saintess",
       "range": [
-        75,
-        77
+        78,
+        82
       ]
     },
     "epub_assembly_blocked": true,
@@ -1525,17 +1546,17 @@
     "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
     "phase0_diagnostic_chapter_coverage": 500,
     "phase1_last_completed_family": {
-      "name": "The Red Death",
+      "name": "The Hound of the Night",
       "range": [
-        72,
-        74
+        75,
+        77
       ],
       "result": "fail",
-      "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
+      "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
-    "sanitization_reviewed_count": 74,
+    "sanitization_reviewed_count": 77,
     "sanitization_pass_count": 45,
-    "sanitization_fail_count": 13,
+    "sanitization_fail_count": 16,
     "sanitization_safety_limited_count": 16,
     "sanitization_resolved_count": 61
   }
