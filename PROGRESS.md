@@ -1,5 +1,22 @@
 # Reconstruction Progress
 
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 260
+
+Direct Chinese-primary sanitization review has reached **Chapter 260**.
+
+- overall reviewed: **260 / 500**;
+- PASS: **164**;
+- FAIL: **78**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave-C segment 203–260: **32 PASS / 26 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all 78 failures remain queued for Phase 4.
+
+Recent completed families include Mixed Bath (203–205), Festival Night (206–215), My Neck Will Be Your Sheath (216–219), That Day, Him and Me (220–224), Tuition (225–233), Suspicion (234–235), National University League (236–244), Survival Contest (245–249), Recap / Celebration Banquet (250–252), Five Stars (253–254), and The Grave of Swords (255–260).
+
+Next Phase-1 family: **The Inverted Pentagram (261–263)**.
+
+
 ## 2026-09-21 — Cycle 2 Phase 1 Wave B family-complete checkpoint through Chapter 202
 
 Direct Chinese-primary sanitization review has advanced through **Chapter 202**.
