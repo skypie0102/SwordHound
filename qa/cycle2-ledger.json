@@ -1329,9 +1329,14 @@
         266,
         267
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        265
+      ]
     },
     {
       "index": 65,
@@ -14979,12 +14984,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
     },
     {
       "chapter": 265,
@@ -15024,12 +15032,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Edward Bourbon Jr.'s source-explicit poison mechanism—tongue root curling up and completely blocking his throat—is generalized to muscles around the tongue/throat merely seizing."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
     },
     {
       "chapter": 266,
@@ -15069,12 +15080,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
     },
     {
       "chapter": 267,
@@ -15119,12 +15133,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
     },
     {
       "chapter": 268,
@@ -25718,17 +25735,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 263,
-    "sanitization_pass_count": 165,
-    "sanitization_fail_count": 80,
+    "sanitization_reviewed_count": 267,
+    "sanitization_pass_count": 168,
+    "sanitization_fail_count": 81,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 183,
-    "sanitization_revalidated_count": 165,
+    "sanitization_resolved_count": 186,
+    "sanitization_revalidated_count": 168,
     "next_family": {
-      "name": "The Season of Redemption",
+      "name": "The Eucharist",
       "range": [
-        264,
-        267
+        268,
+        269
       ]
     },
     "confirmed_failures": [
@@ -26291,6 +26308,13 @@
         "family": "The Inverted Pentagram",
         "finding": "Cycle 2 Phase 1 FAIL: Sinclaire's source-explicit face covered in tears and nasal discharge/snot is sanitized to tears only.",
         "evidence": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md"
+      },
+      {
+        "chapter": 265,
+        "gate": "sanitization",
+        "family": "The Season of Redemption",
+        "finding": "Cycle 2 Phase 1 FAIL: Edward Bourbon Jr.'s source-explicit poison mechanism—tongue root curling up and completely blocking his throat—is generalized to muscles around the tongue/throat merely seizing.",
+        "evidence": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
       }
     ],
     "wave_a": {
@@ -26866,6 +26890,13 @@
       "family": "The Inverted Pentagram",
       "finding": "Cycle 2 Phase 1 FAIL: Sinclaire's source-explicit face covered in tears and nasal discharge/snot is sanitized to tears only.",
       "evidence": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md"
+    },
+    {
+      "chapter": 265,
+      "gate": "sanitization",
+      "family": "The Season of Redemption",
+      "finding": "Cycle 2 Phase 1 FAIL: Edward Bourbon Jr.'s source-explicit poison mechanism—tongue root curling up and completely blocking his throat—is generalized to muscles around the tongue/throat merely seizing.",
+      "evidence": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
     }
   ],
   "status_vocabulary": {
