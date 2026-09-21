@@ -36,4 +36,4 @@ None.
 
 ## Next family
 
-**Five Stars (253–257)**.
+**Five Stars (253–254)**.
