@@ -533,9 +533,11 @@
         108,
         109
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 30,
@@ -7061,12 +7063,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
     },
     {
       "chapter": 106,
@@ -7110,12 +7115,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
     },
     {
       "chapter": 107,
@@ -7159,12 +7167,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
     },
     {
       "chapter": 108,
@@ -7208,12 +7219,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
     },
     {
       "chapter": 109,
@@ -7257,12 +7271,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
     },
     {
       "chapter": 110,
@@ -25023,17 +25040,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 104,
-    "sanitization_pass_count": 66,
+    "sanitization_reviewed_count": 109,
+    "sanitization_pass_count": 71,
     "sanitization_fail_count": 20,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 84,
-    "sanitization_revalidated_count": 66,
+    "sanitization_resolved_count": 89,
+    "sanitization_revalidated_count": 71,
     "next_family": {
-      "name": "The Returned Hero",
+      "name": "The Great Banquet",
       "range": [
-        105,
-        109
+        110,
+        116
       ]
     },
     "confirmed_failures": [
