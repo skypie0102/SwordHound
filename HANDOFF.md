@@ -4,14 +4,14 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 202 / 500
-**Cycle-2 sanitization PASS:** 132 / 500
-**Cycle-2 sanitization FAIL:** 52 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 224 / 500
+**Cycle-2 sanitization PASS:** 143 / 500
+**Cycle-2 sanitization FAIL:** 63 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 52 sanitization-fidelity failures through Chapter 202; see `qa/cycle2-phase1-wave-a-summary.md` and `qa/cycle2-phase1-wave-b-summary.md`
-**Current audit stage:** Phase 1 — family-complete Wave-B checkpoint through Chapter 202; next `Mixed Bath (203–205)`
+**Confirmed Cycle-2 failures:** 63 sanitization-fidelity failures through Chapter 224; remediation deferred to Phase 4
+**Current audit stage:** Phase 1 ACTIVE through Chapter 224; next `Tuition (225–233)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -109,18 +109,18 @@ The nominal Wave-B band is 101–200, but *The Corpse Queen* spans 198–202, so
 - FAIL: **32**;
 - SAFETY-LIMITED-REVIEWED: **0**;
 - manuscript edits during discovery: **0**;
-- overall Phase 1: **202 / 500 reviewed — 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
-- all **52** failures remain queued for Phase 4.
+- overall Phase 1 at the Wave-B checkpoint: **202 / 500 reviewed — 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
+- all Wave-B failures remain queued for Phase 4.
 
 Evidence: `qa/cycle2-phase1-wave-b-summary.md` plus family evidence under `qa/cycle2/sanitization/`.
 
 ## Exact next actions
 
-1. Continue Phase 1 with **Mixed Bath (203–205)**.
-2. Continue chronologically through Wave C without splitting contiguous title families at arbitrary round-number boundaries.
-3. Do not remediate the 52 discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
+1. Continue Phase 1 with **Tuition (225–233)**.
+2. Continue chronologically through Wave C without repeating Chapters 1–224 or splitting contiguous title families.
+3. Do not remediate the **63** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
 4. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
-5. Keep the ledger and live status docs synchronized at meaningful family/wave checkpoints.
+5. Keep the ledger and live status docs synchronized at meaningful checkpoints.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume at **Chapter 203**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
+The next agent should resume at **Chapter 225**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
