@@ -101,9 +101,11 @@
         16,
         17
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 6,
@@ -2608,12 +2610,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 15,
@@ -2653,12 +2658,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 16,
@@ -2698,12 +2706,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 17,
@@ -2743,12 +2754,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 18,
@@ -24697,12 +24711,12 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_revalidated_count": 13,
+    "sanitization_revalidated_count": 17,
     "next_family": {
-      "name": "Solitary",
+      "name": "Bared Teeth",
       "range": [
-        14,
-        17
+        18,
+        19
       ]
     },
     "confirmed_failures": []
