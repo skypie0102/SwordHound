@@ -10,11 +10,14 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 
 - Target manuscript files present: **500 / 500**
 - Historical accepted state entering Cycle 2: **500 / 500**
-- Cycle-2 sanitization revalidated: **0 / 500**
+- Cycle-2 sanitization reviewed: **100 / 500**
+- Cycle-2 sanitization PASS: **62 / 500**
+- Cycle-2 sanitization FAIL: **20 / 500**
+- Cycle-2 sanitization SAFETY-LIMITED-REVIEWED: **18 / 500**
 - Cycle-2 completeness revalidated: **0 / 500**
 - Cycle-2 boundary/alignment revalidated: **0 / 500**
-- New confirmed Cycle-2 failures: **none yet; substantive review has not started**
-- Current stage: **Phase 0 COMPLETE — Phase 1 sanitization sweep ready**
+- Confirmed Cycle-2 failures: **20 sanitization findings in Chapters 1–100; Phase-4 remediation pending**
+- Current stage: **Phase 1 Wave A complete; Wave B begins at Nostalgia (101–104)**
 - Active Cycle-2 plan: qa/manuscript-sanitization-completeness-cycle2.md
 - Historical post-500 audit record: qa/manuscript-completeness-audit.md
 - Complete-EPUB assembly: **BLOCKED until Cycle 2 closes**
@@ -29,7 +32,7 @@ Phase 0 is complete. The audit froze opening main commit `8177e1c192cd7fcd55b040
 
 No manuscript or accepted QA/provenance/acceptance/family-QA content was edited during Phase 0.
 
-Phase 1 now begins with **Hellhound (1–3)**. See `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, and `qa/cycle2-ledger.json`.
+Phase 1 Wave A (Chapters 1–100) is complete at **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. See `qa/cycle2-phase1-wave-a-summary.md`. Wave B begins at **Nostalgia (101–104)**.
 
 ## Current source policy
 

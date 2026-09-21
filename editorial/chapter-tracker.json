@@ -7582,16 +7582,157 @@
     "plan_file": "qa/manuscript-sanitization-completeness-cycle2.md",
     "scope_target_chapters": 500,
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 0,
+    "sanitization_revalidated_count": 62,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
-    "confirmed_failures": [],
+    "confirmed_failures": [
+      {
+        "chapter": 22,
+        "gate": "sanitization",
+        "family": "Camus Morgue",
+        "finding": "Future-adult Camus seduction/beauty-tactic and mature-body political-power description was generalized/omitted.",
+        "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+      },
+      {
+        "chapter": 24,
+        "gate": "sanitization",
+        "family": "Camus Morgue",
+        "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+      },
+      {
+        "chapter": 35,
+        "gate": "sanitization",
+        "family": "Slave Auction",
+        "finding": "Audience reaction wording was intensified beyond the Chinese source in two places.",
+        "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 36,
+        "gate": "sanitization",
+        "family": "Slave Auction",
+        "finding": "A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 37,
+        "gate": "sanitization",
+        "family": "Slave Auction",
+        "finding": "Explicit internal-organ gore was generalized to a nonspecific cutting description.",
+        "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 40,
+        "gate": "sanitization",
+        "family": "Morgue's United Front",
+        "finding": "Close-range chest stabbing was weakened to the dagger merely 'touching' Vikir.",
+        "evidence": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+      },
+      {
+        "chapter": 51,
+        "gate": "sanitization",
+        "family": "The Husband Hunt",
+        "finding": "Camus's explicit nonsexual nasal/snot detail during her tearful breakdown was omitted.",
+        "evidence": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      },
+      {
+        "chapter": 52,
+        "gate": "sanitization",
+        "family": "Slaves of the Savage Tribe",
+        "finding": "A concrete nonsexual injury detail was generalized and requires Phase-4 correction.",
+        "evidence": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+      },
+      {
+        "chapter": 60,
+        "gate": "sanitization",
+        "family": "The Hunter and the Hunted",
+        "finding": "Two concrete nonsexual combat-gore details were generalized and require Phase-4 correction.",
+        "evidence": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      },
+      {
+        "chapter": 64,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Explicit racial degradation was generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 65,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Concrete long-term drug-harm consequences were generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 66,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Direct racial threats and several combat-gore details were generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 74,
+        "gate": "sanitization",
+        "family": "The Red Death",
+        "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
+        "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
+      },
+      {
+        "chapter": 75,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Floating-corpse footing imagery was generalized away.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 76,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Children's collapse/wetting terror response was omitted; operational pathogen details remain safety-limited.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 77,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Mozgus cruelty characterization and the torture-application memory were softened/omitted.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 81,
+        "gate": "sanitization",
+        "family": "The Saintess",
+        "finding": "The source's flowing-blood detail during the fictional scalpel/divine-power treatment was generalized.",
+        "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
+      },
+      {
+        "chapter": 83,
+        "gate": "sanitization",
+        "family": "Lovesickness",
+        "finding": "Severed-limb aftermath plus concrete wetting/anatomical memory details were generalized.",
+        "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 84,
+        "gate": "sanitization",
+        "family": "Lovesickness",
+        "finding": "Rokoko cannibalism characterization was omitted.",
+        "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 94,
+        "gate": "sanitization",
+        "family": "The Ghosts of the Ancestors",
+        "finding": "Explicit internal-organ-fragment gore on the thorn tree was generalized to nonspecific ruined tissue.",
+        "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      }
+    ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "Hellhound",
+      "name": "Nostalgia",
       "range": [
-        1,
-        3
+        101,
+        104
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7605,6 +7746,32 @@
     "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
     "phase0_diagnostic_chapter_coverage": 500,
     "phase0_acceptance_sha_mismatches": 0,
-    "phase0_forbidden_content_edits": 0
+    "phase0_forbidden_content_edits": 0,
+    "phase1_last_completed_family": {
+      "name": "Madam Eight-Legs",
+      "range": [
+        95,
+        100
+      ],
+      "result": "pass",
+      "evidence": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+    },
+    "sanitization_reviewed_count": 100,
+    "sanitization_pass_count": 62,
+    "sanitization_fail_count": 20,
+    "sanitization_safety_limited_count": 18,
+    "sanitization_resolved_count": 80,
+    "phase1_wave_a": {
+      "range": [
+        1,
+        100
+      ],
+      "status": "complete",
+      "reviewed": 100,
+      "pass": 62,
+      "fail": 20,
+      "safety_limited_reviewed": 18,
+      "resolved": 80
+    }
   }
 }

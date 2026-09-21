@@ -4,16 +4,19 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization revalidated:** 0 / 500  
+**Cycle-2 sanitization reviewed:** 100 / 500
+**Cycle-2 sanitization PASS:** 62 / 500
+**Cycle-2 sanitization FAIL:** 20 / 500 — queued for Phase 4
+**Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** none yet; audit has not begun substantive chapter review  
-**Current audit stage:** Phase 0 COMPLETE — Phase 1 ready  
+**Confirmed Cycle-2 failures:** 20 sanitization-fidelity failures in Chapters 1–100; see `qa/cycle2-phase1-wave-a-summary.md`
+**Current audit stage:** Phase 1 — full-corpus sanitization fidelity sweep
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
 **Phase-0 merge commit:** 1200bb1183aef5df766be7ed8818f9137cb88254  
-**Next working branch:** audit/cycle2-phase1-wave-a
+**Current working branch:** audit/cycle2-phase1-wave-a
 
 ## Why the project focus changed
 
@@ -83,13 +86,29 @@ Evidence:
 - `qa/cycle2-family-index.md`
 - `qa/cycle2-baseline/`
 
+## Phase 1 progress
+
+**Wave A (Chapters 1–100): COMPLETE.**
+
+- reviewed: **100 / 100**;
+- PASS: **62**;
+- FAIL: **20**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- resolved without remediation: **80 / 100**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all 20 failures are queued for Phase 4 rather than patched piecemeal.
+
+Wave-A evidence and failure list: `qa/cycle2-phase1-wave-a-summary.md`.
+
+The ledger's interrupted-run safety status vocabulary was normalized at this checkpoint so later automation sees one canonical safety status.
+
 ## Exact next actions
 
-1. Begin Phase 1 sanitization-fidelity review with **Hellhound (1–3)**.
-2. Read the complete Chinese source for Chapters 1–3 before deciding sanitization status.
-3. Compare every potentially harsh/explicit passage against the English drafts for softening, omission, generalization, mistranslation, or unsupported intensification.
-4. Record per-chapter findings/status in the Cycle-2 ledger and a family audit record.
-5. Continue immediately into the next contiguous family after Hellhound unless a genuine blocker appears.
-6. Keep this handoff and live Cycle-2 counters synchronized after meaningful family checkpoints.
+1. Integrate the completed Wave-A audit package.
+2. Continue Phase 1 with **Nostalgia (101–104)**.
+3. Proceed through Wave B in contiguous title-family order through Chapter 200.
+4. Do not remediate Wave-A failures yet; Phase 4 owns manuscript correction/rebinding after discovery gates finish.
+5. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
+6. Keep EPUB assembly blocked.
 
 The next agent should not resume EPUB packaging. The audit is the immediate project focus until Phase 6 closes.

@@ -1,5 +1,38 @@
 # Reconstruction Progress
 
+## 2026-09-21 — Cycle 2 Phase 1 sanitization Wave A COMPLETE
+
+Direct Chinese-primary sanitization review completed for **Chapters 1–100**.
+
+- reviewed: **100 / 100**;
+- PASS: **62**;
+- FAIL: **20**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- resolved without remediation: **80 / 100**;
+- manuscript edits during discovery: **0**.
+
+The 20 failure chapters are **22, 24, 35–37, 40, 51, 52, 60, 64–66, 74–77, 81, 83, 84, and 94**. They remain queued for Phase 4 so discovery can continue without piecemeal manuscript/hash churn.
+
+Wave-A evidence: `qa/cycle2-phase1-wave-a-summary.md`.
+
+Next Phase-1 family: **Nostalgia (101–104)**.
+
+
+## 2026-09-21 — Cycle 2 Phase 1 sanitization sweep — first confirmed failures
+
+Fresh Chinese-primary sanitization review has reached **Chapter 25**.
+
+- reviewed: **25 / 500**;
+- PASS: **23**;
+- FAIL: **2** — Chapters **22** and **24**;
+- manuscript edits during Phase 1: **none**;
+- remediation deferred to Phase 4 per the audit plan.
+
+Chapter 22 generalizes future-adult Camus's source-explicit seduction/beauty-tactic and mature-appearance/political-power material. Chapter 24 generalizes concrete, nonsexual clothing/body-state details following the fire accident. Evidence: `qa/cycle2/sanitization/camus-morgue-0020-0025.md`.
+
+The next sanitization family is **The Graduate (26–27)**.
+
+
 ## 2026-09-21 — Cycle 2 Phase 0 COMPLETE
 
 Phase 0 baseline freeze and inventory passed.

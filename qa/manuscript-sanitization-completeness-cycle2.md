@@ -6,9 +6,23 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 0 COMPLETE — Phase 1 READY
+**Current stage:** Phase 1 ACTIVE — Wave A (1–100) COMPLETE; Wave B begins at 101
 
 ## Progress
+
+### Phase 1 — ACTIVE
+
+**Wave A (Chapters 1–100): COMPLETE**
+
+- reviewed: **100 / 100**
+- PASS: **62**
+- FAIL: **20**
+- SAFETY-LIMITED-REVIEWED: **18**
+- manuscript edits during discovery: **0**
+- failure remediation deferred to Phase 4
+- evidence: `qa/cycle2-phase1-wave-a-summary.md`
+
+**Next:** Wave B begins with **Nostalgia (101–104)**.
 
 ### Phase 0 — COMPLETE
 

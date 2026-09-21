@@ -2,7 +2,7 @@
   "schema_version": 1,
   "audit": "full_sanitization_completeness_cycle2",
   "status": "active",
-  "phase": "phase_0_complete_phase_1_ready",
+  "phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
   "opening_main_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opening_tree_sha": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opened": "2026-09-21",
@@ -31,9 +31,11 @@
         2,
         3
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 2,
@@ -47,9 +49,11 @@
         6,
         7
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 3,
@@ -63,9 +67,11 @@
         10,
         11
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 4,
@@ -77,9 +83,11 @@
         12,
         13
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 5,
@@ -93,9 +101,11 @@
         16,
         17
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 6,
@@ -107,9 +117,11 @@
         18,
         19
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 7,
@@ -125,9 +137,15 @@
         24,
         25
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        22,
+        24
+      ]
     },
     {
       "index": 8,
@@ -139,9 +157,11 @@
         26,
         27
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 9,
@@ -155,9 +175,11 @@
         30,
         31
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 10,
@@ -170,9 +192,11 @@
         33,
         34
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 11,
@@ -185,9 +209,11 @@
         36,
         37
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 12,
@@ -199,9 +225,11 @@
         38,
         39
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 13,
@@ -214,9 +242,11 @@
         41,
         42
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 14,
@@ -229,9 +259,11 @@
         44,
         45
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 15,
@@ -247,9 +279,11 @@
         50,
         51
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 16,
@@ -262,9 +296,11 @@
         53,
         54
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 17,
@@ -280,9 +316,11 @@
         59,
         60
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 18,
@@ -295,9 +333,11 @@
         62,
         63
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 19,
@@ -311,9 +351,11 @@
         66,
         67
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 20,
@@ -327,9 +369,11 @@
         70,
         71
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 21,
@@ -342,9 +386,11 @@
         73,
         74
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 22,
@@ -357,9 +403,11 @@
         76,
         77
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 23,
@@ -374,9 +422,11 @@
         81,
         82
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 24,
@@ -388,9 +438,11 @@
         83,
         84
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 25,
@@ -405,9 +457,11 @@
         88,
         89
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 26,
@@ -422,9 +476,11 @@
         93,
         94
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 27,
@@ -440,9 +496,11 @@
         99,
         100
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 28,
@@ -1976,12 +2034,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md"
     },
     {
       "chapter": 2,
@@ -2021,12 +2082,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md"
     },
     {
       "chapter": 3,
@@ -2066,12 +2130,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md"
     },
     {
       "chapter": 4,
@@ -2111,12 +2178,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md"
     },
     {
       "chapter": 5,
@@ -2156,12 +2226,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md"
     },
     {
       "chapter": 6,
@@ -2201,12 +2274,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md"
     },
     {
       "chapter": 7,
@@ -2246,12 +2322,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md"
     },
     {
       "chapter": 8,
@@ -2291,12 +2370,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md"
     },
     {
       "chapter": 9,
@@ -2336,12 +2418,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md"
     },
     {
       "chapter": 10,
@@ -2381,12 +2466,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md"
     },
     {
       "chapter": 11,
@@ -2426,12 +2514,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md"
     },
     {
       "chapter": 12,
@@ -2471,12 +2562,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md"
     },
     {
       "chapter": 13,
@@ -2516,12 +2610,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md"
     },
     {
       "chapter": 14,
@@ -2561,12 +2658,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 15,
@@ -2606,12 +2706,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 16,
@@ -2651,12 +2754,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 17,
@@ -2696,12 +2802,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
     },
     {
       "chapter": 18,
@@ -2741,12 +2850,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md"
     },
     {
       "chapter": 19,
@@ -2786,12 +2898,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md"
     },
     {
       "chapter": 20,
@@ -2831,12 +2946,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 21,
@@ -2876,12 +2994,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 22,
@@ -2921,12 +3042,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL; see family evidence for exact source softening/generalization."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 23,
@@ -2966,12 +3090,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 24,
@@ -3011,12 +3138,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL; see family evidence for exact source softening/generalization."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 25,
@@ -3056,12 +3186,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     },
     {
       "chapter": 26,
@@ -3101,12 +3234,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md"
     },
     {
       "chapter": 27,
@@ -3146,12 +3282,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md"
     },
     {
       "chapter": 28,
@@ -3191,12 +3330,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
     },
     {
       "chapter": 29,
@@ -3236,12 +3378,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
     },
     {
       "chapter": 30,
@@ -3281,12 +3426,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
     },
     {
       "chapter": 31,
@@ -3326,12 +3474,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
     },
     {
       "chapter": 32,
@@ -3371,12 +3522,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md"
     },
     {
       "chapter": 33,
@@ -3416,12 +3570,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md"
     },
     {
       "chapter": 34,
@@ -3461,12 +3618,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md"
     },
     {
       "chapter": 35,
@@ -3506,12 +3666,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Audience reaction wording was intensified beyond the Chinese source in two places."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
     },
     {
       "chapter": 36,
@@ -3551,12 +3714,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
     },
     {
       "chapter": 37,
@@ -3596,12 +3762,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Explicit internal-organ gore was generalized to a nonspecific cutting description."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
     },
     {
       "chapter": 38,
@@ -3641,12 +3810,16 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Phase 2 accuracy candidate: verify Article 2 rendering of 三族灭门."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md"
     },
     {
       "chapter": 39,
@@ -3686,12 +3859,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md"
     },
     {
       "chapter": 40,
@@ -3731,12 +3907,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: close-range chest stabbing softened to mere contact."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
     },
     {
       "chapter": 41,
@@ -3776,12 +3955,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
     },
     {
       "chapter": 42,
@@ -3821,12 +4003,16 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Phase 2 accuracy candidate: verify exact finger-count wording in Vikir's internal remark."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
     },
     {
       "chapter": 43,
@@ -3866,12 +4052,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md"
     },
     {
       "chapter": 44,
@@ -3911,12 +4100,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md"
     },
     {
       "chapter": 45,
@@ -3956,12 +4148,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md"
     },
     {
       "chapter": 46,
@@ -4001,12 +4196,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 47,
@@ -4046,12 +4244,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 48,
@@ -4091,12 +4292,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 49,
@@ -4140,12 +4344,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 50,
@@ -4185,12 +4392,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 51,
@@ -4230,12 +4440,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 52,
@@ -4275,12 +4488,16 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: sharp rib fragments piercing internal organs softened to generic organ damage.",
+        "Separate safety-limited note: closing Aiyen nudity is not an ordinary restoration target."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
     },
     {
       "chapter": 53,
@@ -4320,12 +4537,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
     },
     {
       "chapter": 54,
@@ -4370,12 +4590,16 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed.",
+        "54/55 shared-raw seam verified against aligned E54/E55; appended hunting material belongs to target 55."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
     },
     {
       "chapter": 55,
@@ -4420,12 +4644,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 56,
@@ -4465,12 +4692,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 57,
@@ -4510,12 +4740,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 58,
@@ -4555,12 +4788,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 59,
@@ -4600,12 +4836,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 60,
@@ -4645,12 +4884,16 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: concrete combat-gore details were generalized.",
+        "Separate safety-limited note applies to the closing underage material."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 61,
@@ -4690,12 +4933,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md"
     },
     {
       "chapter": 62,
@@ -4735,12 +4981,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md"
     },
     {
       "chapter": 63,
@@ -4780,12 +5029,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md"
     },
     {
       "chapter": 64,
@@ -4825,12 +5077,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 65,
@@ -4870,12 +5125,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 66,
@@ -4915,12 +5173,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 67,
@@ -4960,12 +5221,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage relationship material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 68,
@@ -5005,12 +5269,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 69,
@@ -5050,12 +5317,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 70,
@@ -5095,12 +5365,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 71,
@@ -5140,12 +5413,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 72,
@@ -5185,12 +5461,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
     {
       "chapter": 73,
@@ -5230,12 +5509,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
     {
       "chapter": 74,
@@ -5275,12 +5557,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
     {
       "chapter": 75,
@@ -5325,12 +5610,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: floating-corpse footing imagery was generalized away."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
     {
       "chapter": 76,
@@ -5375,12 +5663,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: children's collapse/wetting terror response omitted; operational pathogen details remain safety-limited."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
     {
       "chapter": 77,
@@ -5420,12 +5711,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Mozgus cruelty characterization and torture-application memory were softened/omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
     {
       "chapter": 78,
@@ -5465,12 +5759,13 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 79,
@@ -5510,12 +5805,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited: sexualized framing of an explicitly sixteen-year-old character is not a restoration target."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 80,
@@ -5555,12 +5853,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited: sexualized male-gaze framing around an explicitly sixteen-year-old character is not a restoration target."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 81,
@@ -5600,12 +5901,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: flowing-blood treatment detail was generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 82,
@@ -5645,12 +5949,13 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 83,
@@ -5690,12 +5995,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: severed-limb aftermath and concrete crude/anatomical memory details were generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
     },
     {
       "chapter": 84,
@@ -5735,12 +6043,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Rokoko cannibalism characterization was omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
     },
     {
       "chapter": 85,
@@ -5780,12 +6091,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 86,
@@ -5825,12 +6139,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 87,
@@ -5870,12 +6187,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 88,
@@ -5915,12 +6235,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 89,
@@ -5960,12 +6283,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
     },
     {
       "chapter": 90,
@@ -6005,12 +6331,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 91,
@@ -6050,12 +6379,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 92,
@@ -6095,12 +6427,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 93,
@@ -6140,12 +6475,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 94,
@@ -6185,12 +6523,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: explicit internal-organ-fragment gore was generalized to nonspecific ruined tissue."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 95,
@@ -6234,12 +6575,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 96,
@@ -6279,12 +6623,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 97,
@@ -6324,12 +6671,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 98,
@@ -6369,12 +6719,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 99,
@@ -6414,12 +6767,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 100,
@@ -6459,12 +6815,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 101,
@@ -24647,5 +25006,200 @@
         3
       ]
     }
+  },
+  "phase1": {
+    "status": "active",
+    "sanitization_reviewed_count": 100,
+    "sanitization_pass_count": 62,
+    "sanitization_fail_count": 20,
+    "sanitization_safety_limited_count": 18,
+    "sanitization_resolved_count": 80,
+    "sanitization_revalidated_count": 62,
+    "next_family": {
+      "name": "Nostalgia",
+      "range": [
+        101,
+        104
+      ]
+    },
+    "confirmed_failures": [
+      {
+        "chapter": 22,
+        "gate": "sanitization",
+        "family": "Camus Morgue",
+        "finding": "Future-adult Camus seduction/beauty-tactic and mature-body political-power description was generalized/omitted.",
+        "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+      },
+      {
+        "chapter": 24,
+        "gate": "sanitization",
+        "family": "Camus Morgue",
+        "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+      },
+      {
+        "chapter": 35,
+        "gate": "sanitization",
+        "family": "Slave Auction",
+        "finding": "Audience reaction wording was intensified beyond the Chinese source in two places.",
+        "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 36,
+        "gate": "sanitization",
+        "family": "Slave Auction",
+        "finding": "A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 37,
+        "gate": "sanitization",
+        "family": "Slave Auction",
+        "finding": "Explicit internal-organ gore was generalized to a nonspecific cutting description.",
+        "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 40,
+        "gate": "sanitization",
+        "family": "Morgue's United Front",
+        "finding": "Close-range chest stabbing was weakened to the dagger merely 'touching' Vikir.",
+        "evidence": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+      },
+      {
+        "chapter": 51,
+        "gate": "sanitization",
+        "family": "The Husband Hunt",
+        "finding": "Camus's explicit nonsexual nasal/snot detail during her tearful breakdown was omitted.",
+        "evidence": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      },
+      {
+        "chapter": 52,
+        "gate": "sanitization",
+        "family": "Slaves of the Savage Tribe",
+        "finding": "Sharp rib fragments explicitly piercing internal organs were generalized to merely 'damaging' them.",
+        "evidence": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+      },
+      {
+        "chapter": 60,
+        "gate": "sanitization",
+        "family": "The Hunter and the Hunted",
+        "finding": "Two concrete nonsexual combat-gore details were generalized and require Phase-4 correction.",
+        "evidence": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      },
+      {
+        "chapter": 64,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Explicit racial degradation was generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 65,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Concrete long-term drug-harm consequences were generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 66,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Direct racial threats and several combat-gore details were generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 74,
+        "gate": "sanitization",
+        "family": "The Red Death",
+        "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
+        "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
+      },
+      {
+        "chapter": 75,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Floating-corpse footing imagery was generalized away.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 76,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Children's collapse/wetting terror response was omitted; operational pathogen details remain safety-limited.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 77,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Mozgus cruelty characterization and the torture-application memory were softened/omitted.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 81,
+        "gate": "sanitization",
+        "family": "The Saintess",
+        "finding": "The source's flowing-blood detail during the fictional scalpel/divine-power treatment was generalized.",
+        "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
+      },
+      {
+        "chapter": 83,
+        "gate": "sanitization",
+        "family": "Lovesickness",
+        "finding": "Severed-limb aftermath plus concrete wetting/anatomical memory details were generalized.",
+        "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 84,
+        "gate": "sanitization",
+        "family": "Lovesickness",
+        "finding": "Rokoko cannibalism characterization was omitted.",
+        "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 94,
+        "gate": "sanitization",
+        "family": "The Ghosts of the Ancestors",
+        "finding": "Explicit internal-organ-fragment gore on the thorn tree was generalized to nonspecific ruined tissue.",
+        "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      }
+    ],
+    "wave_a": {
+      "range": [
+        1,
+        100
+      ],
+      "status": "complete",
+      "reviewed": 100,
+      "pass": 62,
+      "fail": 20,
+      "safety_limited_reviewed": 18,
+      "resolved": 80
+    }
+  },
+  "remediation_queue": [
+    {
+      "chapter": 22,
+      "gate": "sanitization",
+      "family": "Camus Morgue",
+      "finding": "Future-adult Camus seduction/beauty-tactic and mature-body political-power description was generalized/omitted.",
+      "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+    },
+    {
+      "chapter": 24,
+      "gate": "sanitization",
+      "family": "Camus Morgue",
+      "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
+      "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
+    }
+  ],
+  "status_vocabulary": {
+    "sanitization": [
+      "pending",
+      "pass",
+      "fail",
+      "safety-limited-reviewed",
+      "mixed"
+    ]
   }
 }
