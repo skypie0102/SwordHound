@@ -1078,9 +1078,19 @@
         214,
         215
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        206,
+        208,
+        209,
+        210,
+        213,
+        214
+      ]
     },
     {
       "index": 54,
@@ -12128,12 +12138,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's explicit male-onlooker gender-identity-confusion reaction to Vikir's appearance is softened to the boys merely 'needing a moment.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 207,
@@ -12173,12 +12186,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 208,
@@ -12218,12 +12234,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: repeated source-explicit 'sexy Vikir' crowd hyperbole is generalized into safer beauty/attractiveness jokes."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 209,
@@ -12263,12 +12282,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Pomeranian's face-rubbing/tear-wetness contact is generalized, and unspecified executions are intensified to 'lost their heads,' implying beheading."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 210,
@@ -12308,12 +12330,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's nosebleed/female-lead force in Bianca's 19+ comic comparison is generalized to a generic glamorous adults-only-comic character."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 211,
@@ -12353,12 +12378,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 212,
@@ -12398,12 +12426,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 213,
@@ -12443,12 +12474,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: dried-flesh/rotting and sealed-soul evaporation details in the Skeleton window plus an explicit fire/smoke suffocation example are omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 214,
@@ -12488,12 +12522,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dolores's explicit affectionate/pitying gaze at the Night Hound bearing blood, wounds, sacrifice, and suffering is materially compressed."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 215,
@@ -12533,12 +12570,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     },
     {
       "chapter": 216,
@@ -25477,17 +25517,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 205,
-    "sanitization_pass_count": 132,
-    "sanitization_fail_count": 55,
+    "sanitization_reviewed_count": 215,
+    "sanitization_pass_count": 136,
+    "sanitization_fail_count": 61,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 150,
-    "sanitization_revalidated_count": 132,
+    "sanitization_resolved_count": 154,
+    "sanitization_revalidated_count": 136,
     "next_family": {
-      "name": "Festival Night",
+      "name": "My Neck Will Be Your Sheath",
       "range": [
-        206,
-        215
+        216,
+        219
       ]
     },
     "confirmed_failures": [
@@ -25875,6 +25915,48 @@
         "family": "Mixed Bath",
         "finding": "Cycle 2 Phase 1 FAIL: several source-present non-explicit bath/affection/body-state details are omitted, including belly/nose contact, repeated kissing, later lip/nose contact, and Dolores's explicit post-bath naked state.",
         "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+      },
+      {
+        "chapter": 206,
+        "gate": "sanitization",
+        "family": "Festival Night",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's explicit male-onlooker gender-identity-confusion reaction to Vikir's appearance is softened to the boys merely 'needing a moment.'",
+        "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+      },
+      {
+        "chapter": 208,
+        "gate": "sanitization",
+        "family": "Festival Night",
+        "finding": "Cycle 2 Phase 1 FAIL: repeated source-explicit 'sexy Vikir' crowd hyperbole is generalized into safer beauty/attractiveness jokes.",
+        "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+      },
+      {
+        "chapter": 209,
+        "gate": "sanitization",
+        "family": "Festival Night",
+        "finding": "Cycle 2 Phase 1 FAIL: Pomeranian's face-rubbing/tear-wetness contact is generalized, and unspecified executions are intensified to 'lost their heads,' implying beheading.",
+        "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+      },
+      {
+        "chapter": 210,
+        "gate": "sanitization",
+        "family": "Festival Night",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's nosebleed/female-lead force in Bianca's 19+ comic comparison is generalized to a generic glamorous adults-only-comic character.",
+        "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+      },
+      {
+        "chapter": 213,
+        "gate": "sanitization",
+        "family": "Festival Night",
+        "finding": "Cycle 2 Phase 1 FAIL: dried-flesh/rotting and sealed-soul evaporation details in the Skeleton window plus an explicit fire/smoke suffocation example are omitted.",
+        "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+      },
+      {
+        "chapter": 214,
+        "gate": "sanitization",
+        "family": "Festival Night",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores's explicit affectionate/pitying gaze at the Night Hound bearing blood, wounds, sacrifice, and suffering is materially compressed.",
+        "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
       }
     ],
     "wave_a": {
@@ -26275,6 +26357,48 @@
       "family": "Mixed Bath",
       "finding": "Cycle 2 Phase 1 FAIL: several source-present non-explicit bath/affection/body-state details are omitted, including belly/nose contact, repeated kissing, later lip/nose contact, and Dolores's explicit post-bath naked state.",
       "evidence": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+    },
+    {
+      "chapter": 206,
+      "gate": "sanitization",
+      "family": "Festival Night",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's explicit male-onlooker gender-identity-confusion reaction to Vikir's appearance is softened to the boys merely 'needing a moment.'",
+      "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 208,
+      "gate": "sanitization",
+      "family": "Festival Night",
+      "finding": "Cycle 2 Phase 1 FAIL: repeated source-explicit 'sexy Vikir' crowd hyperbole is generalized into safer beauty/attractiveness jokes.",
+      "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 209,
+      "gate": "sanitization",
+      "family": "Festival Night",
+      "finding": "Cycle 2 Phase 1 FAIL: Pomeranian's face-rubbing/tear-wetness contact is generalized, and unspecified executions are intensified to 'lost their heads,' implying beheading.",
+      "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 210,
+      "gate": "sanitization",
+      "family": "Festival Night",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's nosebleed/female-lead force in Bianca's 19+ comic comparison is generalized to a generic glamorous adults-only-comic character.",
+      "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 213,
+      "gate": "sanitization",
+      "family": "Festival Night",
+      "finding": "Cycle 2 Phase 1 FAIL: dried-flesh/rotting and sealed-soul evaporation details in the Skeleton window plus an explicit fire/smoke suffocation example are omitted.",
+      "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
+    },
+    {
+      "chapter": 214,
+      "gate": "sanitization",
+      "family": "Festival Night",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores's explicit affectionate/pitying gaze at the Night Hound bearing blood, wounds, sacrifice, and suffering is materially compressed.",
+      "evidence": "qa/cycle2/sanitization/festival-night-0206-0215.md"
     }
   ],
   "status_vocabulary": {
