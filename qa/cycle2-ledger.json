@@ -386,9 +386,11 @@
         73,
         74
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 22,
@@ -5447,12 +5449,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
     {
       "chapter": 73,
@@ -5492,12 +5497,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
     {
       "chapter": 74,
@@ -5537,12 +5545,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md"
     },
     {
       "chapter": 75,
@@ -24912,17 +24923,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 71,
-    "sanitization_pass_count": 43,
-    "sanitization_fail_count": 12,
+    "sanitization_reviewed_count": 74,
+    "sanitization_pass_count": 45,
+    "sanitization_fail_count": 13,
     "sanitization_safety_limited_count": 16,
-    "sanitization_resolved_count": 59,
-    "sanitization_revalidated_count": 43,
+    "sanitization_resolved_count": 61,
+    "sanitization_revalidated_count": 45,
     "next_family": {
-      "name": "The Red Death",
+      "name": "The Hound of the Night",
       "range": [
-        72,
-        74
+        75,
+        77
       ]
     },
     "confirmed_failures": [
@@ -25009,6 +25020,13 @@
         "family": "Unfair Trade",
         "finding": "Direct racial threats and several combat-gore details were generalized.",
         "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 74,
+        "gate": "sanitization",
+        "family": "The Red Death",
+        "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
+        "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
       }
     ]
   },
