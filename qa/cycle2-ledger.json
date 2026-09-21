@@ -1152,9 +1152,18 @@
         232,
         233
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        225,
+        229,
+        230,
+        231,
+        232
+      ]
     },
     {
       "index": 57,
@@ -13060,12 +13069,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Ms. Ouroboros eyewitnesses are source-explicitly dead, but the draft softens this to no useful testimony/no witnesses and weakens the associated bloodshed warning."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 226,
@@ -13105,12 +13117,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 227,
@@ -13150,12 +13165,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 228,
@@ -13195,12 +13213,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 229,
@@ -13240,12 +13261,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit Gnoll deaths by being fried alive, suffocating from smoke, and being smothered alive at blocked exits are generalized into smoke/oxygen/heat conditions."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 230,
@@ -13285,12 +13309,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's nauseating burned-animal odor and explicit mouth/anus expulsion of internal contents before the Poison Gnoll dies are softened/generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 231,
@@ -13330,12 +13357,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says witnesses either died or went mad; the draft softens the madness outcome to inability to give coherent testimony."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 232,
@@ -13375,12 +13405,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: rotted monster corpses are generalized to merely damaged tissues, and the draft adds an unsupported 'tools' use for bones."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 233,
@@ -13420,12 +13453,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/tuition-0225-0233.md"
     },
     {
       "chapter": 234,
@@ -25554,17 +25590,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 224,
-    "sanitization_pass_count": 143,
-    "sanitization_fail_count": 63,
+    "sanitization_reviewed_count": 233,
+    "sanitization_pass_count": 147,
+    "sanitization_fail_count": 68,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 161,
-    "sanitization_revalidated_count": 143,
+    "sanitization_resolved_count": 165,
+    "sanitization_revalidated_count": 147,
     "next_family": {
-      "name": "Tuition",
+      "name": "Suspicion",
       "range": [
-        225,
-        233
+        234,
+        235
       ]
     },
     "confirmed_failures": [
@@ -26008,6 +26044,41 @@
         "family": "That Day, Him and Me",
         "finding": "Cycle 2 Phase 1 FAIL: Camus's source-explicit violent hatred toward the jungle natives—including that even tearing them apart would not satisfy her anger—is omitted. A separate age-17 sexualized leverage passage was reviewed non-explicitly under the safety-limited workflow and is not the basis of this failure.",
         "evidence": "qa/cycle2/sanitization/that-day-him-me-0220-0224.md"
+      },
+      {
+        "chapter": 225,
+        "gate": "sanitization",
+        "family": "Tuition",
+        "finding": "Cycle 2 Phase 1 FAIL: Ms. Ouroboros eyewitnesses are source-explicitly dead, but the draft softens this to no useful testimony/no witnesses and weakens the associated bloodshed warning.",
+        "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+      },
+      {
+        "chapter": 229,
+        "gate": "sanitization",
+        "family": "Tuition",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit Gnoll deaths by being fried alive, suffocating from smoke, and being smothered alive at blocked exits are generalized into smoke/oxygen/heat conditions.",
+        "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+      },
+      {
+        "chapter": 230,
+        "gate": "sanitization",
+        "family": "Tuition",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's nauseating burned-animal odor and explicit mouth/anus expulsion of internal contents before the Poison Gnoll dies are softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+      },
+      {
+        "chapter": 231,
+        "gate": "sanitization",
+        "family": "Tuition",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says witnesses either died or went mad; the draft softens the madness outcome to inability to give coherent testimony.",
+        "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+      },
+      {
+        "chapter": 232,
+        "gate": "sanitization",
+        "family": "Tuition",
+        "finding": "Cycle 2 Phase 1 FAIL: rotted monster corpses are generalized to merely damaged tissues, and the draft adds an unsupported 'tools' use for bones.",
+        "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
       }
     ],
     "wave_a": {
@@ -26464,6 +26535,41 @@
       "family": "That Day, Him and Me",
       "finding": "Cycle 2 Phase 1 FAIL: Camus's source-explicit violent hatred toward the jungle natives—including that even tearing them apart would not satisfy her anger—is omitted. A separate age-17 sexualized leverage passage was reviewed non-explicitly under the safety-limited workflow and is not the basis of this failure.",
       "evidence": "qa/cycle2/sanitization/that-day-him-me-0220-0224.md"
+    },
+    {
+      "chapter": 225,
+      "gate": "sanitization",
+      "family": "Tuition",
+      "finding": "Cycle 2 Phase 1 FAIL: Ms. Ouroboros eyewitnesses are source-explicitly dead, but the draft softens this to no useful testimony/no witnesses and weakens the associated bloodshed warning.",
+      "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 229,
+      "gate": "sanitization",
+      "family": "Tuition",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit Gnoll deaths by being fried alive, suffocating from smoke, and being smothered alive at blocked exits are generalized into smoke/oxygen/heat conditions.",
+      "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 230,
+      "gate": "sanitization",
+      "family": "Tuition",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's nauseating burned-animal odor and explicit mouth/anus expulsion of internal contents before the Poison Gnoll dies are softened/generalized.",
+      "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 231,
+      "gate": "sanitization",
+      "family": "Tuition",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says witnesses either died or went mad; the draft softens the madness outcome to inability to give coherent testimony.",
+      "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
+    },
+    {
+      "chapter": 232,
+      "gate": "sanitization",
+      "family": "Tuition",
+      "finding": "Cycle 2 Phase 1 FAIL: rotted monster corpses are generalized to merely damaged tissues, and the draft adds an unsupported 'tools' use for bones.",
+      "evidence": "qa/cycle2/sanitization/tuition-0225-0233.md"
     }
   ],
   "status_vocabulary": {
