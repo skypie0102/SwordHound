@@ -1,18 +1,18 @@
 # Project State
 
-**Checkpoint:** 2026-09-21  
+**Checkpoint:** 2026-09-22  
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization reviewed:** 202 / 500
-**Sanitization PASS:** 132 / 500
-**Sanitization FAIL:** 52 / 500
+**Sanitization reviewed:** 260 / 500
+**Sanitization PASS:** 164 / 500
+**Sanitization FAIL:** 78 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 52 sanitization-fidelity failures through Chapter 202; Phase-4 remediation pending
-**Current phase:** Phase 1 — family-complete Wave-B checkpoint through Chapter 202; next `Mixed Bath (203–205)`
+**Confirmed new failures:** 78 sanitization-fidelity failures through Chapter 260; Phase-4 remediation pending
+**Current phase:** Phase 1 active through Chapter 260; next `The Inverted Pentagram (261–263)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -36,7 +36,7 @@ Phase 0 completed successfully against opening main commit `8177e1c192cd7fcd55b0
 - 31 deterministic diagnostic files cover all 500 chapters with no gaps or overlaps.
 - No accepted manuscript/evidence content changed during baseline capture.
 
-Phase 1 began with **Hellhound (1–3)**; direct review has now advanced through Chapter 202.
+Phase 1 began with **Hellhound (1–3)**; direct review has now advanced through Chapter 260.
 
 ## Required gates
 
@@ -69,13 +69,16 @@ Wave A (Chapters 1–100) is complete: **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-R
 
 The family-complete Wave-B checkpoint covers Chapters **101–202** because *The Corpse Queen (198–202)* crosses the nominal Chapter-200 boundary: **70 PASS / 32 FAIL / 0 SAFETY-LIMITED-REVIEWED**.
 
-Overall Phase 1 now stands at **202 / 500 reviewed: 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts have been edited during discovery. All 52 FAIL chapters are recorded in `qa/cycle2-ledger.json` and remain queued for Phase 4.
+Wave C is active. Chapters **203–260** currently add **32 PASS / 26 FAIL / 0 SAFETY-LIMITED-REVIEWED**.
+
+Overall Phase 1 now stands at **260 / 500 reviewed: 164 PASS / 78 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts have been edited during discovery. All 78 FAIL chapters are recorded in `qa/cycle2-ledger.json` and remain queued for Phase 4.
 
 Wave summaries:
 - `qa/cycle2-phase1-wave-a-summary.md`
 - `qa/cycle2-phase1-wave-b-summary.md`
+- live Wave-C evidence under `qa/cycle2/sanitization/`
 
-Phase 1 continues at **Mixed Bath (203–205)**.
+Phase 1 continues at **The Inverted Pentagram (261–263)**.
 
 ## Release gate
 
