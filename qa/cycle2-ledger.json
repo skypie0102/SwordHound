@@ -4052,7 +4052,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4148,7 +4148,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4292,7 +4292,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4344,7 +4344,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4392,7 +4392,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4537,7 +4537,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4590,7 +4590,7 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4644,7 +4644,7 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4692,7 +4692,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4740,7 +4740,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4788,7 +4788,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4836,7 +4836,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4933,7 +4933,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -4981,7 +4981,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -5029,7 +5029,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -5221,7 +5221,7 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "safety_limited_reviewed",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [
@@ -25192,5 +25192,14 @@
       "finding": "Concrete nonsexual clothing/body-state detail in the post-fire accident was softened/generalized.",
       "evidence": "qa/cycle2/sanitization/camus-morgue-0020-0025.md"
     }
-  ]
+  ],
+  "status_vocabulary": {
+    "sanitization": [
+      "pending",
+      "pass",
+      "fail",
+      "safety-limited-reviewed",
+      "mixed"
+    ]
+  }
 }
