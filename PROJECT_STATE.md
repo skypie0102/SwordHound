@@ -5,14 +5,14 @@
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization reviewed:** 100 / 500
-**Sanitization PASS:** 62 / 500
-**Sanitization FAIL:** 20 / 500
+**Sanitization reviewed:** 202 / 500
+**Sanitization PASS:** 132 / 500
+**Sanitization FAIL:** 52 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 20 sanitization-fidelity failures in Wave A; Phase-4 remediation pending
-**Current phase:** Phase 1 — Wave A complete; Wave B begins at Nostalgia (101–104)
+**Confirmed new failures:** 52 sanitization-fidelity failures through Chapter 202; Phase-4 remediation pending
+**Current phase:** Phase 1 — family-complete Wave-B checkpoint through Chapter 202; next `Mixed Bath (203–205)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -36,7 +36,7 @@ Phase 0 completed successfully against opening main commit `8177e1c192cd7fcd55b0
 - 31 deterministic diagnostic files cover all 500 chapters with no gaps or overlaps.
 - No accepted manuscript/evidence content changed during baseline capture.
 
-Phase 1 begins with **Hellhound (1–3)**.
+Phase 1 began with **Hellhound (1–3)**; direct review has now advanced through Chapter 202.
 
 ## Required gates
 
@@ -65,11 +65,17 @@ The detailed phase definitions, exit gates, and checkpoint requirements are main
 
 ## Active Phase-1 findings
 
-Wave A (Chapters 1–100) is complete: **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts were edited during discovery.
+Wave A (Chapters 1–100) is complete: **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
 
-The 20 failures are recorded with source evidence in `qa/cycle2-phase1-wave-a-summary.md` and remain queued for Phase 4. Safety-limited-reviewed chapters are resolved for Phase 1 and are not remediation failures.
+The family-complete Wave-B checkpoint covers Chapters **101–202** because *The Corpse Queen (198–202)* crosses the nominal Chapter-200 boundary: **70 PASS / 32 FAIL / 0 SAFETY-LIMITED-REVIEWED**.
 
-Phase 1 continues at **Nostalgia (101–104)**.
+Overall Phase 1 now stands at **202 / 500 reviewed: 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts have been edited during discovery. All 52 FAIL chapters are recorded in `qa/cycle2-ledger.json` and remain queued for Phase 4.
+
+Wave summaries:
+- `qa/cycle2-phase1-wave-a-summary.md`
+- `qa/cycle2-phase1-wave-b-summary.md`
+
+Phase 1 continues at **Mixed Bath (203–205)**.
 
 ## Release gate
 
