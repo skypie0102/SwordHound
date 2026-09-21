@@ -192,9 +192,11 @@
         33,
         34
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 11,
@@ -3486,12 +3488,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md"
     },
     {
       "chapter": 33,
@@ -3531,12 +3536,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md"
     },
     {
       "chapter": 34,
@@ -3576,12 +3584,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md"
     },
     {
       "chapter": 35,
@@ -24765,15 +24776,15 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 31,
-    "sanitization_pass_count": 29,
+    "sanitization_reviewed_count": 34,
+    "sanitization_pass_count": 32,
     "sanitization_fail_count": 2,
-    "sanitization_revalidated_count": 29,
+    "sanitization_revalidated_count": 32,
     "next_family": {
-      "name": "The Social Club",
+      "name": "Slave Auction",
       "range": [
-        32,
-        34
+        35,
+        37
       ]
     },
     "confirmed_failures": [
