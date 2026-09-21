@@ -117,9 +117,11 @@
         18,
         19
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 7,
@@ -2802,12 +2804,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md"
     },
     {
       "chapter": 19,
@@ -2847,12 +2852,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md"
     },
     {
       "chapter": 20,
@@ -24711,12 +24719,12 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_revalidated_count": 17,
+    "sanitization_revalidated_count": 19,
     "next_family": {
-      "name": "Bared Teeth",
+      "name": "Camus Morgue",
       "range": [
-        18,
-        19
+        20,
+        25
       ]
     },
     "confirmed_failures": []
