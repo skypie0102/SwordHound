@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-21 — Cycle 2 Phase 1 Wave B family-complete checkpoint through Chapter 202
+
+Direct Chinese-primary sanitization review has advanced through **Chapter 202**.
+
+- overall reviewed: **202 / 500**;
+- overall PASS: **132**;
+- overall FAIL: **52**;
+- overall SAFETY-LIMITED-REVIEWED: **18**;
+- Chapters 101–202: **70 PASS / 32 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- completeness and boundary/alignment remain pending their later phases.
+
+The nominal Wave-B band ends at Chapter 200, but *The Corpse Queen* spans Chapters 198–202. The checkpoint was therefore extended through Chapter 202 to preserve the contiguous-family rule.
+
+New Wave-B/extension failure chapters are **129–133, 135–140, 155, 157–163, 166–167, 177, 185–186, 188–189, 191, 197–199, and 201–202** (32 chapters total). All remain queued for Phase 4; no manuscript patches were made during discovery.
+
+Wave-B evidence: `qa/cycle2-phase1-wave-b-summary.md` and `qa/cycle2/sanitization/`.
+
+Next Phase-1 family: **Mixed Bath (203–205)**.
+
+
 ## 2026-09-21 — Cycle 2 Phase 1 sanitization Wave A COMPLETE
 
 Direct Chinese-primary sanitization review completed for **Chapters 1–100**.
