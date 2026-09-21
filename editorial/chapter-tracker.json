@@ -7582,16 +7582,16 @@
     "plan_file": "qa/manuscript-sanitization-completeness-cycle2.md",
     "scope_target_chapters": 500,
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 11,
+    "sanitization_revalidated_count": 13,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "The Gluttonous Flies",
+      "name": "Solitary",
       "range": [
-        12,
-        13
+        14,
+        17
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7607,13 +7607,13 @@
     "phase0_acceptance_sha_mismatches": 0,
     "phase0_forbidden_content_edits": 0,
     "phase1_last_completed_family": {
-      "name": "Hounds of Hell",
+      "name": "The Gluttonous Flies",
       "range": [
-        8,
-        11
+        12,
+        13
       ],
       "result": "pass",
-      "evidence": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md"
+      "evidence": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md"
     }
   }
 }
