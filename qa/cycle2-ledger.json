@@ -1368,9 +1368,15 @@
         271,
         272
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        270,
+        272
+      ]
     },
     {
       "index": 67,
@@ -15287,12 +15293,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to her merely never having lived as an assassin."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
     },
     {
       "chapter": 271,
@@ -15332,12 +15341,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
     },
     {
       "chapter": 272,
@@ -15377,12 +15389,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
     },
     {
       "chapter": 273,
@@ -25746,17 +25761,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 269,
-    "sanitization_pass_count": 169,
-    "sanitization_fail_count": 82,
+    "sanitization_reviewed_count": 272,
+    "sanitization_pass_count": 170,
+    "sanitization_fail_count": 84,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 187,
-    "sanitization_revalidated_count": 169,
+    "sanitization_resolved_count": 188,
+    "sanitization_revalidated_count": 170,
     "next_family": {
-      "name": "Rich Friends",
+      "name": "Money War",
       "range": [
-        270,
-        272
+        273,
+        278
       ]
     },
     "confirmed_failures": [
@@ -26333,6 +26348,20 @@
         "family": "The Eucharist",
         "finding": "Cycle 2 Phase 1 FAIL: the draft generalizes source-explicit bodily severing/near-crushing-to-death, changes both leaders wetting themselves to only one, softens Ohm's lower body becoming a pile of mush, omits Elmanny's internal-organ burns and death in agony, and generalizes Vikir's cross-dressing/whipping impersonation thought.",
         "evidence": "qa/cycle2/sanitization/eucharist-0268-0269.md"
+      },
+      {
+        "chapter": 270,
+        "gate": "sanitization",
+        "family": "Rich Friends",
+        "finding": "Cycle 2 Phase 1 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to her merely never having lived as an assassin.",
+        "evidence": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+      },
+      {
+        "chapter": 272,
+        "gate": "sanitization",
+        "family": "Rich Friends",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon.",
+        "evidence": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
       }
     ],
     "wave_a": {
@@ -26922,6 +26951,20 @@
       "family": "The Eucharist",
       "finding": "Cycle 2 Phase 1 FAIL: the draft generalizes source-explicit bodily severing/near-crushing-to-death, changes both leaders wetting themselves to only one, softens Ohm's lower body becoming a pile of mush, omits Elmanny's internal-organ burns and death in agony, and generalizes Vikir's cross-dressing/whipping impersonation thought.",
       "evidence": "qa/cycle2/sanitization/eucharist-0268-0269.md"
+    },
+    {
+      "chapter": 270,
+      "gate": "sanitization",
+      "family": "Rich Friends",
+      "finding": "Cycle 2 Phase 1 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to her merely never having lived as an assassin.",
+      "evidence": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+    },
+    {
+      "chapter": 272,
+      "gate": "sanitization",
+      "family": "Rich Friends",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon.",
+      "evidence": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
     }
   ],
   "status_vocabulary": {
