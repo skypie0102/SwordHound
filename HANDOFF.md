@@ -4,16 +4,18 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization revalidated:** 0 / 500  
+**Cycle-2 sanitization reviewed:** 25 / 500  
+**Cycle-2 sanitization PASS:** 23 / 500  
+**Cycle-2 sanitization FAIL:** 2 / 500 — Chapters 22, 24
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** none yet; audit has not begun substantive chapter review  
-**Current audit stage:** Phase 0 COMPLETE — Phase 1 ready  
+**Confirmed Cycle-2 failures:** Chapters 22 and 24 — sanitization fidelity; queued for Phase 4 remediation
+**Current audit stage:** Phase 1 — full-corpus sanitization fidelity sweep
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
 **Phase-0 merge commit:** 1200bb1183aef5df766be7ed8818f9137cb88254  
-**Next working branch:** audit/cycle2-phase1-wave-a
+**Current working branch:** audit/cycle2-phase1-wave-a
 
 ## Why the project focus changed
 
@@ -82,6 +84,22 @@ Evidence:
 - `qa/cycle2-phase0-baseline.md`
 - `qa/cycle2-family-index.md`
 - `qa/cycle2-baseline/`
+
+## Phase 1 progress
+
+Fresh Chinese-primary sanitization reviews completed:
+
+- Hellhound (1–3): PASS
+- The Baskerville Dog (4–7): PASS
+- Hounds of Hell (8–11): PASS
+- The Gluttonous Flies (12–13): PASS
+- Solitary (14–17): PASS
+- Bared Teeth (18–19): PASS
+- Camus Morgue (20–25): FAIL at Chapters 22 and 24
+
+Chapter 22 generalizes source-explicit **future-adult** Camus material concerning seduction/beauty tactics and the role of her mature appearance in political power. Chapter 24 generalizes concrete but nonsexual clothing/body-state details after the fire accident. Both are recorded in `qa/cycle2/sanitization/camus-morgue-0020-0025.md` and deferred to Phase 4 remediation under the planned phase order.
+
+No manuscript files have been edited in Phase 1 so far.
 
 ## Exact next actions
 
