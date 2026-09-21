@@ -1,17 +1,17 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-21  
+**Checkpoint:** 2026-09-22  
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 224 / 500
-**Cycle-2 sanitization PASS:** 143 / 500
-**Cycle-2 sanitization FAIL:** 63 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 260 / 500
+**Cycle-2 sanitization PASS:** 164 / 500
+**Cycle-2 sanitization FAIL:** 78 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 63 sanitization-fidelity failures through Chapter 224; remediation deferred to Phase 4
-**Current audit stage:** Phase 1 ACTIVE through Chapter 224; next `Tuition (225–233)`
+**Confirmed Cycle-2 failures:** 78 sanitization-fidelity failures through Chapter 260; remediation deferred to Phase 4
+**Current audit stage:** Phase 1 ACTIVE through Chapter 260; next `The Inverted Pentagram (261–263)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -109,18 +109,27 @@ The nominal Wave-B band is 101–200, but *The Corpse Queen* spans 198–202, so
 - FAIL: **32**;
 - SAFETY-LIMITED-REVIEWED: **0**;
 - manuscript edits during discovery: **0**;
-- overall Phase 1 at the Wave-B checkpoint: **202 / 500 reviewed — 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
-- all Wave-B failures remain queued for Phase 4.
+- overall Phase 1 at the Wave-B checkpoint: **202 / 500 reviewed — 132 PASS / 52 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
 
 Evidence: `qa/cycle2-phase1-wave-b-summary.md` plus family evidence under `qa/cycle2/sanitization/`.
 
+**Wave C interim progress (Chapters 203–260): ACTIVE.**
+
+- reviewed in current Wave-C segment: **58**;
+- PASS: **32**;
+- FAIL: **26**;
+- SAFETY-LIMITED-REVIEWED: **0**;
+- overall Phase 1: **260 / 500 reviewed — 164 PASS / 78 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
+- manuscript edits during discovery: **0**;
+- all **78** failures remain queued for Phase 4.
+
 ## Exact next actions
 
-1. Continue Phase 1 with **Tuition (225–233)**.
-2. Continue chronologically through Wave C without repeating Chapters 1–224 or splitting contiguous title families.
-3. Do not remediate the **63** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
+1. Continue Phase 1 with **The Inverted Pentagram (261–263)**.
+2. Continue chronologically through Wave C without repeating Chapters 1–260 or splitting contiguous title families.
+3. Do not remediate the **78** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
 4. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
 5. Keep the ledger and live status docs synchronized at meaningful checkpoints.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume at **Chapter 225**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
+The next agent should resume at **Chapter 261**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
