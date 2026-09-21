@@ -7582,7 +7582,7 @@
     "plan_file": "qa/manuscript-sanitization-completeness-cycle2.md",
     "scope_target_chapters": 500,
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 25,
+    "sanitization_revalidated_count": 29,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [
@@ -7603,10 +7603,10 @@
     ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "Special Laws of Vikir",
+      "name": "The Social Club",
       "range": [
-        28,
-        31
+        32,
+        34
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7622,16 +7622,16 @@
     "phase0_acceptance_sha_mismatches": 0,
     "phase0_forbidden_content_edits": 0,
     "phase1_last_completed_family": {
-      "name": "The Graduate",
+      "name": "Special Laws of Vikir",
       "range": [
-        26,
-        27
+        28,
+        31
       ],
       "result": "pass",
-      "evidence": "qa/cycle2/sanitization/graduate-0026-0027.md"
+      "evidence": "qa/cycle2/sanitization/special-laws-0028-0031.md"
     },
-    "sanitization_reviewed_count": 27,
-    "sanitization_pass_count": 25,
+    "sanitization_reviewed_count": 31,
+    "sanitization_pass_count": 29,
     "sanitization_fail_count": 2
   }
 }
