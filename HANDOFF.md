@@ -4,12 +4,13 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 25 / 500  
-**Cycle-2 sanitization PASS:** 23 / 500  
-**Cycle-2 sanitization FAIL:** 2 / 500 — Chapters 22, 24
+**Cycle-2 sanitization reviewed:** 100 / 500
+**Cycle-2 sanitization PASS:** 62 / 500
+**Cycle-2 sanitization FAIL:** 20 / 500 — queued for Phase 4
+**Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** Chapters 22 and 24 — sanitization fidelity; queued for Phase 4 remediation
+**Confirmed Cycle-2 failures:** 20 sanitization-fidelity failures in Chapters 1–100; see `qa/cycle2-phase1-wave-a-summary.md`
 **Current audit stage:** Phase 1 — full-corpus sanitization fidelity sweep
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
@@ -87,27 +88,27 @@ Evidence:
 
 ## Phase 1 progress
 
-Fresh Chinese-primary sanitization reviews completed:
+**Wave A (Chapters 1–100): COMPLETE.**
 
-- Hellhound (1–3): PASS
-- The Baskerville Dog (4–7): PASS
-- Hounds of Hell (8–11): PASS
-- The Gluttonous Flies (12–13): PASS
-- Solitary (14–17): PASS
-- Bared Teeth (18–19): PASS
-- Camus Morgue (20–25): FAIL at Chapters 22 and 24
+- reviewed: **100 / 100**;
+- PASS: **62**;
+- FAIL: **20**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- resolved without remediation: **80 / 100**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all 20 failures are queued for Phase 4 rather than patched piecemeal.
 
-Chapter 22 generalizes source-explicit **future-adult** Camus material concerning seduction/beauty tactics and the role of her mature appearance in political power. Chapter 24 generalizes concrete but nonsexual clothing/body-state details after the fire accident. Both are recorded in `qa/cycle2/sanitization/camus-morgue-0020-0025.md` and deferred to Phase 4 remediation under the planned phase order.
+Wave-A evidence and failure list: `qa/cycle2-phase1-wave-a-summary.md`.
 
-No manuscript files have been edited in Phase 1 so far.
+The ledger's interrupted-run safety status vocabulary was normalized at this checkpoint so later automation sees one canonical safety status.
 
 ## Exact next actions
 
-1. Begin Phase 1 sanitization-fidelity review with **Hellhound (1–3)**.
-2. Read the complete Chinese source for Chapters 1–3 before deciding sanitization status.
-3. Compare every potentially harsh/explicit passage against the English drafts for softening, omission, generalization, mistranslation, or unsupported intensification.
-4. Record per-chapter findings/status in the Cycle-2 ledger and a family audit record.
-5. Continue immediately into the next contiguous family after Hellhound unless a genuine blocker appears.
-6. Keep this handoff and live Cycle-2 counters synchronized after meaningful family checkpoints.
+1. Integrate the completed Wave-A audit package.
+2. Continue Phase 1 with **Nostalgia (101–104)**.
+3. Proceed through Wave B in contiguous title-family order through Chapter 200.
+4. Do not remediate Wave-A failures yet; Phase 4 owns manuscript correction/rebinding after discovery gates finish.
+5. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
+6. Keep EPUB assembly blocked.
 
 The next agent should not resume EPUB packaging. The audit is the immediate project focus until Phase 6 closes.
