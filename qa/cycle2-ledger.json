@@ -279,9 +279,11 @@
         50,
         51
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed_fail_safety_limited",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 16,
@@ -4170,12 +4172,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 47,
@@ -4215,12 +4220,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 48,
@@ -4260,12 +4268,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 49,
@@ -4309,12 +4320,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 50,
@@ -4354,12 +4368,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 51,
@@ -4399,12 +4416,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
     },
     {
       "chapter": 52,
@@ -24819,17 +24839,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 45,
-    "sanitization_pass_count": 37,
-    "sanitization_fail_count": 6,
-    "sanitization_safety_limited_count": 2,
-    "sanitization_resolved_count": 39,
-    "sanitization_revalidated_count": 37,
+    "sanitization_reviewed_count": 51,
+    "sanitization_pass_count": 39,
+    "sanitization_fail_count": 7,
+    "sanitization_safety_limited_count": 5,
+    "sanitization_resolved_count": 44,
+    "sanitization_revalidated_count": 39,
     "next_family": {
-      "name": "The Husband Hunt",
+      "name": "Slaves of the Savage Tribe",
       "range": [
-        46,
-        51
+        52,
+        54
       ]
     },
     "confirmed_failures": [
@@ -24874,6 +24894,13 @@
         "family": "Morgue's United Front",
         "finding": "Close-range chest stabbing was weakened to the dagger merely 'touching' Vikir.",
         "evidence": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+      },
+      {
+        "chapter": 51,
+        "gate": "sanitization",
+        "family": "The Husband Hunt",
+        "finding": "Camus's explicit nonsexual nasal/snot detail during her tearful breakdown was omitted.",
+        "evidence": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
       }
     ]
   },
