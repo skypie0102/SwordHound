@@ -496,9 +496,11 @@
         99,
         100
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 28,
@@ -6573,12 +6575,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 96,
@@ -6618,12 +6623,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 97,
@@ -6663,12 +6671,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 98,
@@ -6708,12 +6719,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 99,
@@ -6753,12 +6767,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 100,
@@ -6798,12 +6815,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 101,
@@ -24989,17 +25009,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 94,
-    "sanitization_pass_count": 56,
+    "sanitization_reviewed_count": 100,
+    "sanitization_pass_count": 62,
     "sanitization_fail_count": 20,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 74,
-    "sanitization_revalidated_count": 56,
+    "sanitization_resolved_count": 80,
+    "sanitization_revalidated_count": 62,
     "next_family": {
-      "name": "Madam Eight-Legs",
+      "name": "Nostalgia",
       "range": [
-        95,
-        100
+        101,
+        104
       ]
     },
     "confirmed_failures": [
@@ -25143,7 +25163,19 @@
         "finding": "Explicit internal-organ-fragment gore on the thorn tree was generalized to nonspecific ruined tissue.",
         "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
       }
-    ]
+    ],
+    "wave_a": {
+      "range": [
+        1,
+        100
+      ],
+      "status": "complete",
+      "reviewed": 100,
+      "pass": 62,
+      "fail": 20,
+      "safety_limited_reviewed": 18,
+      "resolved": 80
+    }
   },
   "remediation_queue": [
     {
