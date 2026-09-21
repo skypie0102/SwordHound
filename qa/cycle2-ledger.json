@@ -476,9 +476,11 @@
         93,
         94
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 27,
@@ -6327,12 +6329,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 91,
@@ -6372,12 +6377,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 92,
@@ -6417,12 +6425,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 93,
@@ -6462,12 +6473,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 94,
@@ -6507,12 +6521,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: explicit internal-organ-fragment gore was generalized to nonspecific ruined tissue."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 95,
@@ -24972,17 +24989,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 89,
-    "sanitization_pass_count": 52,
-    "sanitization_fail_count": 19,
+    "sanitization_reviewed_count": 94,
+    "sanitization_pass_count": 56,
+    "sanitization_fail_count": 20,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 70,
-    "sanitization_revalidated_count": 52,
+    "sanitization_resolved_count": 74,
+    "sanitization_revalidated_count": 56,
     "next_family": {
-      "name": "The Ghosts of the Ancestors",
+      "name": "Madam Eight-Legs",
       "range": [
-        90,
-        94
+        95,
+        100
       ]
     },
     "confirmed_failures": [
@@ -25118,6 +25135,13 @@
         "family": "Lovesickness",
         "finding": "Rokoko cannibalism characterization was omitted.",
         "evidence": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 94,
+        "gate": "sanitization",
+        "family": "The Ghosts of the Ancestors",
+        "finding": "Explicit internal-organ-fragment gore on the thorn tree was generalized to nonspecific ruined tissue.",
+        "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
       }
     ]
   },
