@@ -1262,9 +1262,14 @@
         253,
         254
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        254
+      ]
     },
     {
       "index": 62,
@@ -14433,12 +14438,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md"
     },
     {
       "chapter": 254,
@@ -14478,12 +14486,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's capital mission and 174 demon-linked targets is euphemized to 'quietly remove' / 'eliminated.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md"
     },
     {
       "chapter": 255,
@@ -25667,17 +25678,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 252,
-    "sanitization_pass_count": 160,
-    "sanitization_fail_count": 74,
+    "sanitization_reviewed_count": 254,
+    "sanitization_pass_count": 161,
+    "sanitization_fail_count": 75,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 178,
-    "sanitization_revalidated_count": 160,
+    "sanitization_resolved_count": 179,
+    "sanitization_revalidated_count": 161,
     "next_family": {
-      "name": "Five Stars",
+      "name": "The Grave of Swords",
       "range": [
-        253,
-        254
+        255,
+        260
       ]
     },
     "confirmed_failures": [
@@ -26198,6 +26209,13 @@
         "family": "Survival Contest",
         "finding": "Cycle 2 Phase 1 FAIL: Dolores's explicit 'I'd rather kill myself' panic line, the direct childhood pants-soiling reference, and the dagger-to-heart humiliation metaphor are softened/omitted.",
         "evidence": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+      },
+      {
+        "chapter": 254,
+        "gate": "sanitization",
+        "family": "Five Stars",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's capital mission and 174 demon-linked targets is euphemized to 'quietly remove' / 'eliminated.'",
+        "evidence": "qa/cycle2/sanitization/five-stars-0253-0254.md"
       }
     ],
     "wave_a": {
@@ -26731,6 +26749,13 @@
       "family": "Survival Contest",
       "finding": "Cycle 2 Phase 1 FAIL: Dolores's explicit 'I'd rather kill myself' panic line, the direct childhood pants-soiling reference, and the dagger-to-heart humiliation metaphor are softened/omitted.",
       "evidence": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+    },
+    {
+      "chapter": 254,
+      "gate": "sanitization",
+      "family": "Five Stars",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's capital mission and 174 demon-linked targets is euphemized to 'quietly remove' / 'eliminated.'",
+      "evidence": "qa/cycle2/sanitization/five-stars-0253-0254.md"
     }
   ],
   "status_vocabulary": {
