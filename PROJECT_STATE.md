@@ -5,11 +5,13 @@
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization revalidated:** 0 / 500  
+**Sanitization reviewed:** 25 / 500  
+**Sanitization PASS:** 23 / 500  
+**Sanitization FAIL:** 2 / 500 — Chapters 22, 24
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** none yet; substantive Cycle-2 review has not started  
-**Current phase:** Phase 0 COMPLETE — Phase 1 sanitization sweep ready  
+**Confirmed new failures:** Chapters 22 and 24 — sanitization fidelity
+**Current phase:** Phase 1 — full-corpus sanitization fidelity sweep
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -59,6 +61,10 @@ Historical acceptance remains evidence but is not a Cycle-2 pass.
 7. Closure/hash validation and EPUB unblock.
 
 The detailed phase definitions, exit gates, and checkpoint requirements are maintained in qa/manuscript-sanitization-completeness-cycle2.md.
+
+## Active Phase-1 findings
+
+The first 25 chapters have been directly re-reviewed against Chinese for sanitization fidelity. Chapters 1–21, 23, and 25 pass. Chapters **22** and **24** are confirmed failures and remain queued for Phase 4 remediation; the sweep continues in source order rather than repairing piecemeal during Phase 1.
 
 ## Release gate
 
