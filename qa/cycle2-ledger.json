@@ -157,9 +157,11 @@
         26,
         27
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 9,
@@ -3194,12 +3196,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md"
     },
     {
       "chapter": 27,
@@ -3239,12 +3244,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md"
     },
     {
       "chapter": 28,
@@ -24743,15 +24751,15 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 25,
-    "sanitization_pass_count": 23,
+    "sanitization_reviewed_count": 27,
+    "sanitization_pass_count": 25,
     "sanitization_fail_count": 2,
-    "sanitization_revalidated_count": 23,
+    "sanitization_revalidated_count": 25,
     "next_family": {
-      "name": "The Graduate",
+      "name": "Special Laws of Vikir",
       "range": [
-        26,
-        27
+        28,
+        31
       ]
     },
     "confirmed_failures": [
