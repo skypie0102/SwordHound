@@ -6,23 +6,39 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 ACTIVE — Wave A (1–100) COMPLETE; Wave B begins at 101
+**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 202; next `Mixed Bath (203–205)`
 
 ## Progress
 
 ### Phase 1 — ACTIVE
 
+**Overall through Chapter 202**
+
+- reviewed: **202 / 500**
+- PASS: **132**
+- FAIL: **52**
+- SAFETY-LIMITED-REVIEWED: **18**
+- manuscript edits during discovery: **0**
+- all failures remain deferred to Phase 4
+
 **Wave A (Chapters 1–100): COMPLETE**
 
-- reviewed: **100 / 100**
 - PASS: **62**
 - FAIL: **20**
 - SAFETY-LIMITED-REVIEWED: **18**
-- manuscript edits during discovery: **0**
-- failure remediation deferred to Phase 4
 - evidence: `qa/cycle2-phase1-wave-a-summary.md`
 
-**Next:** Wave B begins with **Nostalgia (101–104)**.
+**Wave B family-complete checkpoint (Chapters 101–202): COMPLETE**
+
+The nominal Wave-B band is Chapters 101–200. Review continued through Chapter 202 because *The Corpse Queen* spans Chapters 198–202 and title families are not split merely to hit a round-number checkpoint.
+
+- reviewed: **102**
+- PASS: **70**
+- FAIL: **32**
+- SAFETY-LIMITED-REVIEWED: **0**
+- evidence: `qa/cycle2-phase1-wave-b-summary.md`
+
+**Next:** Wave C resumes with **Mixed Bath (203–205)**.
 
 ### Phase 0 — COMPLETE
 
@@ -37,8 +53,6 @@ Baseline frozen at main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`.
 - 0 manuscript/evidence content edits occurred before baseline closure.
 
 Evidence: `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, `qa/cycle2-ledger.json`, and `qa/cycle2-baseline/`.
-
-**Next:** Phase 1 sanitization-fidelity review begins at **Hellhound (1–3)**.
 
 ## Purpose
 
@@ -281,7 +295,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Complete Phase 0 baseline inventory and create the Cycle-2 ledger.
-2. Begin Phase 1 at the first contiguous title family, **Hellhound (1–3)**.
-3. Continue in target order without stopping at arbitrary single-chapter checkpoints.
-4. Keep HANDOFF.md, PROJECT_STATE.md, tracker state, and the Cycle-2 audit record synchronized after meaningful checkpoints.
+1. Continue Phase 1 at **Mixed Bath (203–205)**.
+2. Continue in target/family order without repeating Chapters 1–202.
+3. Keep all discovered sanitization failures queued for Phase 4; do not patch manuscript text during Phase-1 discovery.
+4. Keep HANDOFF.md, PROJECT_STATE.md, PROGRESS.md, the Cycle-2 audit record, and the master ledger synchronized after meaningful checkpoints.
