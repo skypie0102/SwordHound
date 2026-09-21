@@ -403,9 +403,11 @@
         76,
         77
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 23,
@@ -5598,12 +5600,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: floating-corpse footing imagery was generalized away."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
     {
       "chapter": 76,
@@ -5648,12 +5653,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: children's collapse/wetting terror response omitted; operational pathogen details remain safety-limited."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
     {
       "chapter": 77,
@@ -5693,12 +5701,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Mozgus cruelty characterization and torture-application memory were softened/omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
     },
     {
       "chapter": 78,
@@ -24923,17 +24934,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 74,
+    "sanitization_reviewed_count": 77,
     "sanitization_pass_count": 45,
-    "sanitization_fail_count": 13,
+    "sanitization_fail_count": 16,
     "sanitization_safety_limited_count": 16,
     "sanitization_resolved_count": 61,
     "sanitization_revalidated_count": 45,
     "next_family": {
-      "name": "The Hound of the Night",
+      "name": "The Saintess",
       "range": [
-        75,
-        77
+        78,
+        82
       ]
     },
     "confirmed_failures": [
@@ -25027,6 +25038,27 @@
         "family": "The Red Death",
         "finding": "Ah'Heman's explicit spitting at/on the sick girl's face was omitted, weakening the degradation in the scene.",
         "evidence": "qa/cycle2/sanitization/red-death-0072-0074.md"
+      },
+      {
+        "chapter": 75,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Floating-corpse footing imagery was generalized away.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 76,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Children's collapse/wetting terror response was omitted; operational pathogen details remain safety-limited.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 77,
+        "gate": "sanitization",
+        "family": "The Hound of the Night",
+        "finding": "Mozgus cruelty characterization and the torture-application memory were softened/omitted.",
+        "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
       }
     ]
   },
