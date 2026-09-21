@@ -5,13 +5,14 @@
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization reviewed:** 25 / 500  
-**Sanitization PASS:** 23 / 500  
-**Sanitization FAIL:** 2 / 500 — Chapters 22, 24
+**Sanitization reviewed:** 100 / 500
+**Sanitization PASS:** 62 / 500
+**Sanitization FAIL:** 20 / 500
+**Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** Chapters 22 and 24 — sanitization fidelity
-**Current phase:** Phase 1 — full-corpus sanitization fidelity sweep
+**Confirmed new failures:** 20 sanitization-fidelity failures in Wave A; Phase-4 remediation pending
+**Current phase:** Phase 1 — Wave A complete; Wave B begins at Nostalgia (101–104)
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -64,7 +65,11 @@ The detailed phase definitions, exit gates, and checkpoint requirements are main
 
 ## Active Phase-1 findings
 
-The first 25 chapters have been directly re-reviewed against Chinese for sanitization fidelity. Chapters 1–21, 23, and 25 pass. Chapters **22** and **24** are confirmed failures and remain queued for Phase 4 remediation; the sweep continues in source order rather than repairing piecemeal during Phase 1.
+Wave A (Chapters 1–100) is complete: **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts were edited during discovery.
+
+The 20 failures are recorded with source evidence in `qa/cycle2-phase1-wave-a-summary.md` and remain queued for Phase 4. Safety-limited-reviewed chapters are resolved for Phase 1 and are not remediation failures.
+
+Phase 1 continues at **Nostalgia (101–104)**.
 
 ## Release gate
 
