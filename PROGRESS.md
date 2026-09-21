@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-21 — Cycle 2 Phase 1 sanitization Wave A COMPLETE
+
+Direct Chinese-primary sanitization review completed for **Chapters 1–100**.
+
+- reviewed: **100 / 100**;
+- PASS: **62**;
+- FAIL: **20**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- resolved without remediation: **80 / 100**;
+- manuscript edits during discovery: **0**.
+
+The 20 failure chapters are **22, 24, 35–37, 40, 51, 52, 60, 64–66, 74–77, 81, 83, 84, and 94**. They remain queued for Phase 4 so discovery can continue without piecemeal manuscript/hash churn.
+
+Wave-A evidence: `qa/cycle2-phase1-wave-a-summary.md`.
+
+Next Phase-1 family: **Nostalgia (101–104)**.
+
+
 ## 2026-09-21 — Cycle 2 Phase 1 sanitization sweep — first confirmed failures
 
 Fresh Chinese-primary sanitization review has reached **Chapter 25**.
