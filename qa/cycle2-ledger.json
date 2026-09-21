@@ -351,9 +351,11 @@
         66,
         67
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed_fail_safety_limited",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 20,
@@ -5059,12 +5061,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 65,
@@ -5104,12 +5109,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 66,
@@ -5149,12 +5157,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 67,
@@ -5194,12 +5205,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage relationship material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 68,
@@ -24884,17 +24898,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 63,
+    "sanitization_reviewed_count": 67,
     "sanitization_pass_count": 39,
-    "sanitization_fail_count": 9,
-    "sanitization_safety_limited_count": 15,
-    "sanitization_resolved_count": 54,
+    "sanitization_fail_count": 12,
+    "sanitization_safety_limited_count": 16,
+    "sanitization_resolved_count": 55,
     "sanitization_revalidated_count": 39,
     "next_family": {
-      "name": "Unfair Trade",
+      "name": "Blood Relatives",
       "range": [
-        64,
-        67
+        68,
+        71
       ]
     },
     "confirmed_failures": [
@@ -24960,6 +24974,27 @@
         "family": "The Hunter and the Hunted",
         "finding": "Two concrete nonsexual combat-gore details were generalized and require Phase-4 correction.",
         "evidence": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      },
+      {
+        "chapter": 64,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Explicit racial degradation was generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 65,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Concrete long-term drug-harm consequences were generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 66,
+        "gate": "sanitization",
+        "family": "Unfair Trade",
+        "finding": "Direct racial threats and several combat-gore details were generalized.",
+        "evidence": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
       }
     ]
   },
