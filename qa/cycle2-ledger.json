@@ -1004,9 +1004,14 @@
       "chapters": [
         197
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/preparing-festival-0197.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        197
+      ]
     },
     {
       "index": 51,
@@ -1021,9 +1026,17 @@
         201,
         202
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
+      "sanitization_reviewed_date": "2026-09-21",
+      "sanitization_failures": [
+        198,
+        199,
+        201,
+        202
+      ]
     },
     {
       "index": 52,
@@ -11676,12 +11689,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit 'sexiest' / 'most want to take a bite of' Vikir rankings are omitted, and dog/cat feces are euphemized as generic waste."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/preparing-festival-0197.md"
     },
     {
       "chapter": 198,
@@ -11721,12 +11737,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the Clocktower attack death-toll reference is omitted, and the source's direct priority to find and kill the copycat is softened to killing only 'if necessary.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 199,
@@ -11766,12 +11785,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source identifies the masked contractor as female from height plus chest and buttocks/hip proportions; the draft generalizes away that anatomical basis."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 200,
@@ -11811,12 +11833,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 201,
@@ -11856,12 +11881,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Ah'Heman's rotting-gum detail and the source's living-dead-puppet / demons'-toys corpse degradation are omitted/generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 202,
@@ -11901,12 +11929,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 203,
@@ -25430,17 +25461,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 196,
-    "sanitization_pass_count": 131,
-    "sanitization_fail_count": 47,
+    "sanitization_reviewed_count": 202,
+    "sanitization_pass_count": 132,
+    "sanitization_fail_count": 52,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 149,
-    "sanitization_revalidated_count": 131,
+    "sanitization_resolved_count": 150,
+    "sanitization_revalidated_count": 132,
     "next_family": {
-      "name": "Preparing for the Festival",
+      "name": "Mixed Bath",
       "range": [
-        197,
-        197
+        203,
+        205
       ]
     },
     "confirmed_failures": [
@@ -25772,6 +25803,41 @@
         "family": "Attack Land",
         "finding": "Cycle 2 Phase 1 FAIL: Sadi's source-explicit bitten-off fingertip injury, students wetting themselves from trauma, and 'blood flow like a river' cruelty image are softened/generalized.",
         "evidence": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      },
+      {
+        "chapter": 197,
+        "gate": "sanitization",
+        "family": "Preparing for the Festival",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit 'sexiest' / 'most want to take a bite of' Vikir rankings are omitted, and dog/cat feces are euphemized as generic waste.",
+        "evidence": "qa/cycle2/sanitization/preparing-festival-0197.md"
+      },
+      {
+        "chapter": 198,
+        "gate": "sanitization",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 1 FAIL: the Clocktower attack death-toll reference is omitted, and the source's direct priority to find and kill the copycat is softened to killing only 'if necessary.'",
+        "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 199,
+        "gate": "sanitization",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 1 FAIL: the source identifies the masked contractor as female from height plus chest and buttocks/hip proportions; the draft generalizes away that anatomical basis.",
+        "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 201,
+        "gate": "sanitization",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 1 FAIL: Ah'Heman's rotting-gum detail and the source's living-dead-puppet / demons'-toys corpse degradation are omitted/generalized.",
+        "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 202,
+        "gate": "sanitization",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body.",
+        "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
       }
     ],
     "wave_a": {
@@ -26116,6 +26182,41 @@
       "family": "Attack Land",
       "finding": "Cycle 2 Phase 1 FAIL: Sadi's source-explicit bitten-off fingertip injury, students wetting themselves from trauma, and 'blood flow like a river' cruelty image are softened/generalized.",
       "evidence": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+    },
+    {
+      "chapter": 197,
+      "gate": "sanitization",
+      "family": "Preparing for the Festival",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit 'sexiest' / 'most want to take a bite of' Vikir rankings are omitted, and dog/cat feces are euphemized as generic waste.",
+      "evidence": "qa/cycle2/sanitization/preparing-festival-0197.md"
+    },
+    {
+      "chapter": 198,
+      "gate": "sanitization",
+      "family": "The Corpse Queen",
+      "finding": "Cycle 2 Phase 1 FAIL: the Clocktower attack death-toll reference is omitted, and the source's direct priority to find and kill the copycat is softened to killing only 'if necessary.'",
+      "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 199,
+      "gate": "sanitization",
+      "family": "The Corpse Queen",
+      "finding": "Cycle 2 Phase 1 FAIL: the source identifies the masked contractor as female from height plus chest and buttocks/hip proportions; the draft generalizes away that anatomical basis.",
+      "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 201,
+      "gate": "sanitization",
+      "family": "The Corpse Queen",
+      "finding": "Cycle 2 Phase 1 FAIL: Ah'Heman's rotting-gum detail and the source's living-dead-puppet / demons'-toys corpse degradation are omitted/generalized.",
+      "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+    },
+    {
+      "chapter": 202,
+      "gate": "sanitization",
+      "family": "The Corpse Queen",
+      "finding": "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body.",
+      "evidence": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
     }
   ],
   "status_vocabulary": {
