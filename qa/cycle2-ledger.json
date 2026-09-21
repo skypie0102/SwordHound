@@ -1285,9 +1285,16 @@
         259,
         260
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        255,
+        256,
+        260
+      ]
     },
     {
       "index": 63,
@@ -14534,12 +14541,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the Basilisk profile's absolute statement that no blade or magic can kill it is softened to ordinary blades/magic not easily killing it."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     },
     {
       "chapter": 256,
@@ -14579,12 +14589,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the salt-storm crow's source-explicit full-body bone-shattering aftermath and rapid-dehydration cause of death are omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     },
     {
       "chapter": 257,
@@ -14624,12 +14637,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     },
     {
       "chapter": 258,
@@ -14669,12 +14685,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     },
     {
       "chapter": 259,
@@ -14714,12 +14733,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     },
     {
       "chapter": 260,
@@ -14759,12 +14781,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Vikir's explicit 'never truly loved anyone' characterization is generalized, and the draft adds unsupported 'Probability' to Cane Corso's Ninth-Fang concept list."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     },
     {
       "chapter": 261,
@@ -25678,17 +25703,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 254,
-    "sanitization_pass_count": 161,
-    "sanitization_fail_count": 75,
+    "sanitization_reviewed_count": 260,
+    "sanitization_pass_count": 164,
+    "sanitization_fail_count": 78,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 179,
-    "sanitization_revalidated_count": 161,
+    "sanitization_resolved_count": 182,
+    "sanitization_revalidated_count": 164,
     "next_family": {
-      "name": "The Grave of Swords",
+      "name": "The Inverted Pentagram",
       "range": [
-        255,
-        260
+        261,
+        263
       ]
     },
     "confirmed_failures": [
@@ -26216,6 +26241,27 @@
         "family": "Five Stars",
         "finding": "Cycle 2 Phase 1 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's capital mission and 174 demon-linked targets is euphemized to 'quietly remove' / 'eliminated.'",
         "evidence": "qa/cycle2/sanitization/five-stars-0253-0254.md"
+      },
+      {
+        "chapter": 255,
+        "gate": "sanitization",
+        "family": "The Grave of Swords",
+        "finding": "Cycle 2 Phase 1 FAIL: the Basilisk profile's absolute statement that no blade or magic can kill it is softened to ordinary blades/magic not easily killing it.",
+        "evidence": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
+      },
+      {
+        "chapter": 256,
+        "gate": "sanitization",
+        "family": "The Grave of Swords",
+        "finding": "Cycle 2 Phase 1 FAIL: the salt-storm crow's source-explicit full-body bone-shattering aftermath and rapid-dehydration cause of death are omitted.",
+        "evidence": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
+      },
+      {
+        "chapter": 260,
+        "gate": "sanitization",
+        "family": "The Grave of Swords",
+        "finding": "Cycle 2 Phase 1 FAIL: Vikir's explicit 'never truly loved anyone' characterization is generalized, and the draft adds unsupported 'Probability' to Cane Corso's Ninth-Fang concept list.",
+        "evidence": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
       }
     ],
     "wave_a": {
@@ -26756,6 +26802,27 @@
       "family": "Five Stars",
       "finding": "Cycle 2 Phase 1 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's capital mission and 174 demon-linked targets is euphemized to 'quietly remove' / 'eliminated.'",
       "evidence": "qa/cycle2/sanitization/five-stars-0253-0254.md"
+    },
+    {
+      "chapter": 255,
+      "gate": "sanitization",
+      "family": "The Grave of Swords",
+      "finding": "Cycle 2 Phase 1 FAIL: the Basilisk profile's absolute statement that no blade or magic can kill it is softened to ordinary blades/magic not easily killing it.",
+      "evidence": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 256,
+      "gate": "sanitization",
+      "family": "The Grave of Swords",
+      "finding": "Cycle 2 Phase 1 FAIL: the salt-storm crow's source-explicit full-body bone-shattering aftermath and rapid-dehydration cause of death are omitted.",
+      "evidence": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
+    },
+    {
+      "chapter": 260,
+      "gate": "sanitization",
+      "family": "The Grave of Swords",
+      "finding": "Cycle 2 Phase 1 FAIL: Vikir's explicit 'never truly loved anyone' characterization is generalized, and the draft adds unsupported 'Probability' to Cane Corso's Ninth-Fang concept list.",
+      "evidence": "qa/cycle2/sanitization/grave-of-swords-0255-0260.md"
     }
   ],
   "status_vocabulary": {
