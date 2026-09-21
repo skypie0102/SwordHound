@@ -1415,7 +1415,7 @@
     "opened": "2026-09-21",
     "plan": "qa/manuscript-sanitization-completeness-cycle2.md",
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 62,
+    "sanitization_revalidated_count": 66,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [
@@ -1562,10 +1562,10 @@
     ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "Nostalgia",
+      "name": "The Returned Hero",
       "range": [
-        101,
-        104
+        105,
+        109
       ]
     },
     "epub_assembly_blocked": true,
@@ -1574,19 +1574,19 @@
     "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
     "phase0_diagnostic_chapter_coverage": 500,
     "phase1_last_completed_family": {
-      "name": "Madam Eight-Legs",
+      "name": "Nostalgia",
       "range": [
-        95,
-        100
+        101,
+        104
       ],
       "result": "pass",
-      "evidence": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "evidence": "qa/cycle2/sanitization/nostalgia-0101-0104.md"
     },
-    "sanitization_reviewed_count": 100,
-    "sanitization_pass_count": 62,
+    "sanitization_reviewed_count": 104,
+    "sanitization_pass_count": 66,
     "sanitization_fail_count": 20,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 80,
+    "sanitization_resolved_count": 84,
     "phase1_wave_a": {
       "range": [
         1,
