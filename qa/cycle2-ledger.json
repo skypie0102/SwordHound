@@ -316,9 +316,11 @@
         59,
         60
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed_fail_safety_limited",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 18,
@@ -4622,12 +4624,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 56,
@@ -4667,12 +4672,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 57,
@@ -4712,12 +4720,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 58,
@@ -4757,12 +4768,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 59,
@@ -4802,12 +4816,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety_limited_reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 60,
@@ -4847,12 +4864,16 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 sanitization FAIL: concrete combat-gore details were generalized.",
+        "Separate safety-limited note applies to the closing underage material."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
     },
     {
       "chapter": 61,
@@ -24852,17 +24873,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 54,
+    "sanitization_reviewed_count": 60,
     "sanitization_pass_count": 39,
-    "sanitization_fail_count": 8,
-    "sanitization_safety_limited_count": 7,
-    "sanitization_resolved_count": 46,
+    "sanitization_fail_count": 9,
+    "sanitization_safety_limited_count": 12,
+    "sanitization_resolved_count": 51,
     "sanitization_revalidated_count": 39,
     "next_family": {
-      "name": "The Hunter and the Hunted",
+      "name": "The Protagonist of Hunting",
       "range": [
-        55,
-        60
+        61,
+        63
       ]
     },
     "confirmed_failures": [
@@ -24921,6 +24942,13 @@
         "family": "Slaves of the Savage Tribe",
         "finding": "Sharp rib fragments explicitly piercing internal organs were generalized to merely 'damaging' them.",
         "evidence": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+      },
+      {
+        "chapter": 60,
+        "gate": "sanitization",
+        "family": "The Hunter and the Hunted",
+        "finding": "Two concrete nonsexual combat-gore details were generalized and require Phase-4 correction.",
+        "evidence": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
       }
     ]
   },
