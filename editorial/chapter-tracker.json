@@ -7582,7 +7582,7 @@
     "plan_file": "qa/manuscript-sanitization-completeness-cycle2.md",
     "scope_target_chapters": 500,
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 32,
+    "sanitization_revalidated_count": 34,
     "completeness_revalidated_count": 0,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [
@@ -7624,10 +7624,10 @@
     ],
     "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
     "next_family": {
-      "name": "Sponsored",
+      "name": "Morgue's United Front",
       "range": [
-        38,
-        39
+        40,
+        42
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7643,16 +7643,16 @@
     "phase0_acceptance_sha_mismatches": 0,
     "phase0_forbidden_content_edits": 0,
     "phase1_last_completed_family": {
-      "name": "Slave Auction",
+      "name": "Sponsored",
       "range": [
-        35,
-        37
+        38,
+        39
       ],
-      "result": "fail",
-      "evidence": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      "result": "pass",
+      "evidence": "qa/cycle2/sanitization/sponsored-0038-0039.md"
     },
-    "sanitization_reviewed_count": 37,
-    "sanitization_pass_count": 32,
+    "sanitization_reviewed_count": 39,
+    "sanitization_pass_count": 34,
     "sanitization_fail_count": 5
   }
 }
