@@ -422,9 +422,11 @@
         81,
         82
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "mixed",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
+      "sanitization_reviewed_date": "2026-09-21"
     },
     {
       "index": 24,
@@ -5749,12 +5751,13 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 79,
@@ -5794,12 +5797,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited: sexualized framing of an explicitly sixteen-year-old character is not a restoration target."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 80,
@@ -5839,12 +5845,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 safety-limited: sexualized male-gaze framing around an explicitly sixteen-year-old character is not a restoration target."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 81,
@@ -5884,12 +5893,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: flowing-blood treatment detail was generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 82,
@@ -5929,12 +5941,13 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
       "findings": [],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md"
     },
     {
       "chapter": 83,
@@ -24934,17 +24947,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 77,
-    "sanitization_pass_count": 45,
-    "sanitization_fail_count": 16,
-    "sanitization_safety_limited_count": 16,
-    "sanitization_resolved_count": 61,
-    "sanitization_revalidated_count": 45,
+    "sanitization_reviewed_count": 82,
+    "sanitization_pass_count": 47,
+    "sanitization_fail_count": 17,
+    "sanitization_safety_limited_count": 18,
+    "sanitization_resolved_count": 65,
+    "sanitization_revalidated_count": 47,
     "next_family": {
-      "name": "The Saintess",
+      "name": "Lovesickness",
       "range": [
-        78,
-        82
+        83,
+        84
       ]
     },
     "confirmed_failures": [
@@ -25059,6 +25072,13 @@
         "family": "The Hound of the Night",
         "finding": "Mozgus cruelty characterization and the torture-application memory were softened/omitted.",
         "evidence": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 81,
+        "gate": "sanitization",
+        "family": "The Saintess",
+        "finding": "The source's flowing-blood detail during the fictional scalpel/divine-power treatment was generalized.",
+        "evidence": "qa/cycle2/sanitization/saintess-0078-0082.md"
       }
     ]
   },
