@@ -4480,15 +4480,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Phase 2 accuracy candidate: verify Article 2 rendering of 三族灭门."
+        "Phase 2 accuracy candidate: verify Article 2 rendering of 三族灭门.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
+      "completeness_review_file": "qa/cycle2/completeness/sponsored-0038-0039.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 39,
@@ -4529,14 +4532,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
+      "completeness_review_file": "qa/cycle2/completeness/sponsored-0038-0039.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 40,
@@ -29713,14 +29719,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 37,
-    "completeness_pass_count": 33,
+    "completeness_reviewed_count": 39,
+    "completeness_pass_count": 35,
     "completeness_fail_count": 4,
     "next_family": {
-      "name": "Sponsored",
+      "name": "Morgue's United Front",
       "range": [
-        38,
-        39
+        40,
+        42
       ]
     },
     "confirmed_failures": [
