@@ -1780,9 +1780,15 @@
         354,
         355
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        353,
+        355
+      ]
     },
     {
       "index": 85,
@@ -19303,12 +19309,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
     },
     {
       "chapter": 352,
@@ -19353,12 +19362,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
     },
     {
       "chapter": 353,
@@ -19403,12 +19415,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Winston's host body is source-explicitly described as bursting apart and disappearing; the draft reduces this to the body simply being gone."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
     },
     {
       "chapter": 354,
@@ -19453,12 +19468,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
     },
     {
       "chapter": 355,
@@ -19498,12 +19516,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit crude profanity while forcing through the crowd is sanitized to plain 'Move! I can't see!'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
     },
     {
       "chapter": 356,
@@ -26102,17 +26123,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 350,
-    "sanitization_pass_count": 207,
-    "sanitization_fail_count": 125,
+    "sanitization_reviewed_count": 355,
+    "sanitization_pass_count": 210,
+    "sanitization_fail_count": 127,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 225,
-    "sanitization_revalidated_count": 207,
+    "sanitization_resolved_count": 228,
+    "sanitization_revalidated_count": 210,
     "next_family": {
-      "name": "Outside the Tower",
+      "name": "Crime and Punishment",
       "range": [
-        351,
-        355
+        356,
+        358
       ]
     },
     "confirmed_failures": [
@@ -26990,6 +27011,20 @@
         "family": "Key man",
         "finding": "Cycle 2 Phase 1 FAIL: the tutorial fairy's source-explicit flesh and internal-organ pieces dripping from its distorted face are generalized to nonspecific tissue.",
         "evidence": "qa/cycle2/sanitization/key-man-0348-0350.md"
+      },
+      {
+        "chapter": 353,
+        "gate": "sanitization",
+        "family": "Outside the Tower",
+        "finding": "Cycle 2 Phase 1 FAIL: Winston's host body is source-explicitly described as bursting apart and disappearing; the draft reduces this to the body simply being gone.",
+        "evidence": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+      },
+      {
+        "chapter": 355,
+        "gate": "sanitization",
+        "family": "Outside the Tower",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit crude profanity while forcing through the crowd is sanitized to plain 'Move! I can't see!'",
+        "evidence": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
       }
     ],
     "wave_a": {
@@ -27880,6 +27915,20 @@
       "family": "Key man",
       "finding": "Cycle 2 Phase 1 FAIL: the tutorial fairy's source-explicit flesh and internal-organ pieces dripping from its distorted face are generalized to nonspecific tissue.",
       "evidence": "qa/cycle2/sanitization/key-man-0348-0350.md"
+    },
+    {
+      "chapter": 353,
+      "gate": "sanitization",
+      "family": "Outside the Tower",
+      "finding": "Cycle 2 Phase 1 FAIL: Winston's host body is source-explicitly described as bursting apart and disappearing; the draft reduces this to the body simply being gone.",
+      "evidence": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+    },
+    {
+      "chapter": 355,
+      "gate": "sanitization",
+      "family": "Outside the Tower",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit crude profanity while forcing through the crowd is sanitized to plain 'Move! I can't see!'",
+      "evidence": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
     }
   ],
   "status_vocabulary": {
