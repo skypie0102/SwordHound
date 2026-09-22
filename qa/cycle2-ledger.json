@@ -1415,9 +1415,15 @@
         281,
         282
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        279,
+        280
+      ]
     },
     {
       "index": 69,
@@ -15732,12 +15738,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says Damien hired killers/assassins to seize and beat Romeo; the draft sanitizes this to generic 'hired men.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
     },
     {
       "chapter": 280,
@@ -15777,12 +15786,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
     },
     {
       "chapter": 281,
@@ -15822,12 +15834,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
     },
     {
       "chapter": 282,
@@ -15867,12 +15882,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
     },
     {
       "chapter": 283,
@@ -25786,17 +25804,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 278,
-    "sanitization_pass_count": 173,
-    "sanitization_fail_count": 87,
+    "sanitization_reviewed_count": 282,
+    "sanitization_pass_count": 175,
+    "sanitization_fail_count": 89,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 191,
-    "sanitization_revalidated_count": 173,
+    "sanitization_resolved_count": 193,
+    "sanitization_revalidated_count": 175,
     "next_family": {
-      "name": "What Money Can't Buy",
+      "name": "Power Inflation",
       "range": [
-        279,
-        282
+        283,
+        290
       ]
     },
     "confirmed_failures": [
@@ -26408,6 +26426,20 @@
         "family": "Money War",
         "finding": "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'",
         "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 279,
+        "gate": "sanitization",
+        "family": "What Money Can't Buy",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says Damien hired killers/assassins to seize and beat Romeo; the draft sanitizes this to generic 'hired men.'",
+        "evidence": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
+      },
+      {
+        "chapter": 280,
+        "gate": "sanitization",
+        "family": "What Money Can't Buy",
+        "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized.",
+        "evidence": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
       }
     ],
     "wave_a": {
@@ -27032,6 +27064,20 @@
       "family": "Money War",
       "finding": "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'",
       "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 279,
+      "gate": "sanitization",
+      "family": "What Money Can't Buy",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says Damien hired killers/assassins to seize and beat Romeo; the draft sanitizes this to generic 'hired men.'",
+      "evidence": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
+    },
+    {
+      "chapter": 280,
+      "gate": "sanitization",
+      "family": "What Money Can't Buy",
+      "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized.",
+      "evidence": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
     }
   ],
   "status_vocabulary": {
