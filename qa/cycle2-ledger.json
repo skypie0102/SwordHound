@@ -1465,9 +1465,14 @@
         291,
         292
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        291
+      ]
     },
     {
       "index": 71,
@@ -1480,9 +1485,14 @@
         294,
         295
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        295
+      ]
     },
     {
       "index": 72,
@@ -1495,9 +1505,15 @@
         297,
         298
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        296,
+        297
+      ]
     },
     {
       "index": 73,
@@ -16334,12 +16350,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md"
     },
     {
       "chapter": 292,
@@ -16379,12 +16398,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md"
     },
     {
       "chapter": 293,
@@ -16424,12 +16446,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md"
     },
     {
       "chapter": 294,
@@ -16469,12 +16494,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md"
     },
     {
       "chapter": 295,
@@ -16514,12 +16542,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Sinclaire's source self-description that she is pretty and has a good figure/body is mistranslated as 'I'm pretty. I'm healthy,' stripping the body-attractiveness meaning."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md"
     },
     {
       "chapter": 296,
@@ -16559,12 +16590,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Banshee's explicit characterization of present-day Sadi as a failure/loser immersed in alcohol and escaping reality is softened by dropping the degrading label."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md"
     },
     {
       "chapter": 297,
@@ -16604,12 +16638,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's extreme statement that Pomeranian would obey Vikir even at the cost of death is generalized to merely obeying him readily."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md"
     },
     {
       "chapter": 298,
@@ -16649,12 +16686,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md"
     },
     {
       "chapter": 299,
@@ -25838,17 +25878,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 290,
-    "sanitization_pass_count": 177,
-    "sanitization_fail_count": 95,
+    "sanitization_reviewed_count": 298,
+    "sanitization_pass_count": 181,
+    "sanitization_fail_count": 99,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 195,
-    "sanitization_revalidated_count": 177,
+    "sanitization_resolved_count": 199,
+    "sanitization_revalidated_count": 181,
     "next_family": {
-      "name": "The Successors",
+      "name": "The Age of the Warmonger",
       "range": [
-        291,
-        292
+        299,
+        306
       ]
     },
     "confirmed_failures": [
@@ -26516,6 +26556,34 @@
         "family": "Power Inflation",
         "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened.",
         "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 291,
+        "gate": "sanitization",
+        "family": "The Successors",
+        "finding": "Cycle 2 Phase 1 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body.",
+        "evidence": "qa/cycle2/sanitization/successors-0291-0292.md"
+      },
+      {
+        "chapter": 295,
+        "gate": "sanitization",
+        "family": "Confessions",
+        "finding": "Cycle 2 Phase 1 FAIL: Sinclaire's source self-description that she is pretty and has a good figure/body is mistranslated as 'I'm pretty. I'm healthy,' stripping the body-attractiveness meaning.",
+        "evidence": "qa/cycle2/sanitization/confessions-0293-0295.md"
+      },
+      {
+        "chapter": 296,
+        "gate": "sanitization",
+        "family": "Last Semester",
+        "finding": "Cycle 2 Phase 1 FAIL: Banshee's explicit characterization of present-day Sadi as a failure/loser immersed in alcohol and escaping reality is softened by dropping the degrading label.",
+        "evidence": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+      },
+      {
+        "chapter": 297,
+        "gate": "sanitization",
+        "family": "Last Semester",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's extreme statement that Pomeranian would obey Vikir even at the cost of death is generalized to merely obeying him readily.",
+        "evidence": "qa/cycle2/sanitization/last-semester-0296-0298.md"
       }
     ],
     "wave_a": {
@@ -27196,6 +27264,34 @@
       "family": "Power Inflation",
       "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened.",
       "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 291,
+      "gate": "sanitization",
+      "family": "The Successors",
+      "finding": "Cycle 2 Phase 1 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body.",
+      "evidence": "qa/cycle2/sanitization/successors-0291-0292.md"
+    },
+    {
+      "chapter": 295,
+      "gate": "sanitization",
+      "family": "Confessions",
+      "finding": "Cycle 2 Phase 1 FAIL: Sinclaire's source self-description that she is pretty and has a good figure/body is mistranslated as 'I'm pretty. I'm healthy,' stripping the body-attractiveness meaning.",
+      "evidence": "qa/cycle2/sanitization/confessions-0293-0295.md"
+    },
+    {
+      "chapter": 296,
+      "gate": "sanitization",
+      "family": "Last Semester",
+      "finding": "Cycle 2 Phase 1 FAIL: Banshee's explicit characterization of present-day Sadi as a failure/loser immersed in alcohol and escaping reality is softened by dropping the degrading label.",
+      "evidence": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+    },
+    {
+      "chapter": 297,
+      "gate": "sanitization",
+      "family": "Last Semester",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's extreme statement that Pomeranian would obey Vikir even at the cost of death is generalized to merely obeying him readily.",
+      "evidence": "qa/cycle2/sanitization/last-semester-0296-0298.md"
     }
   ],
   "status_vocabulary": {
