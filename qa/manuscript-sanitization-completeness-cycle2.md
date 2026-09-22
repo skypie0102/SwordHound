@@ -6,63 +6,33 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 453; next `Infiltration of the Water Source (454–464)`
+**Current stage:** Phase 1 COMPLETE — 500/500 sanitization dispositions resolved; Phase 2 completeness revalidation starts at `Hellhound (1–3)`
 
 ## Progress
 
-### Phase 1 — ACTIVE
+### Phase 1 — COMPLETE
 
-**Overall through Chapter 453**
+**Full-corpus result**
 
-- reviewed: **453 / 500**
-- PASS: **256**
-- FAIL: **179**
+- reviewed: **500 / 500**
+- PASS: **282**
+- FAIL: **200**
 - SAFETY-LIMITED-REVIEWED: **18**
 - manuscript edits during discovery: **0**
-- all failures remain deferred to Phase 4
+- all 200 FAIL chapters remain deferred to Phase 4
 
-**Wave A (Chapters 1–100): COMPLETE**
+Wave accounting:
+- Wave A (1–100): **62 PASS / 20 FAIL / 18 safety-limited**
+- Wave B (101–202): **70 PASS / 32 FAIL**
+- Wave C (203–306): **52 PASS / 52 FAIL**
+- Wave D (307–402): **47 PASS / 49 FAIL**
+- Wave E (403–500): **51 PASS / 47 FAIL**
 
-- PASS: **62**
-- FAIL: **20**
-- SAFETY-LIMITED-REVIEWED: **18**
-- evidence: `qa/cycle2-phase1-wave-a-summary.md`
+Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidence under `qa/cycle2/sanitization/`, and `qa/cycle2-ledger.json`.
 
-**Wave B family-complete checkpoint (Chapters 101–202): COMPLETE**
+### Phase 2 — NEXT
 
-- reviewed: **102**
-- PASS: **70**
-- FAIL: **32**
-- SAFETY-LIMITED-REVIEWED: **0**
-- evidence: `qa/cycle2-phase1-wave-b-summary.md`
-
-**Wave C family-complete checkpoint (Chapters 203–306): COMPLETE**
-
-Wave C begins at Chapter 203 because Wave B finished *The Corpse Queen (198–202)* and extends through Chapter 306 because *The Age of the Warmonger (299–306)* crosses the nominal Chapter-300 boundary.
-
-- reviewed: **104**
-- PASS: **52**
-- FAIL: **52**
-- SAFETY-LIMITED-REVIEWED: **0**
-- evidence: `qa/cycle2-phase1-wave-c-summary.md`
-
-**Wave D (Chapters 307–402): COMPLETE**
-
-- reviewed: **96**
-- PASS: **47**
-- FAIL: **49**
-- SAFETY-LIMITED-REVIEWED: **0**
-- evidence: `qa/cycle2-phase1-wave-d-summary.md`
-
-**Wave E in progress (Chapters 403–453 reviewed so far)**
-
-- reviewed: **51**
-- PASS: **25**
-- FAIL: **26**
-- SAFETY-LIMITED-REVIEWED: **0**
-- manuscript edits during discovery: **0**
-
-**Next:** continue with **Infiltration of the Water Source (454–464)**.
+Completeness revalidation is **0 / 500** at the Phase-1 close checkpoint. Start with **Hellhound (1–3)** and review every source beat independently from the sanitization result.
 
 ### Phase 0 — COMPLETE
 
@@ -319,7 +289,8 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 1 at **Infiltration of the Water Source (454–464)**.
-2. Continue in target/family order without repeating Chapters 1–453.
-3. Keep all discovered sanitization failures queued for Phase 4; do not patch manuscript text during Phase-1 discovery.
-4. Keep HANDOFF.md, PROJECT_STATE.md, PROGRESS.md, the Cycle-2 audit record, and the master ledger synchronized after meaningful checkpoints.
+1. Begin Phase 2 at **Hellhound (1–3)**.
+2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order.
+3. Record completeness independently from sanitization; do not remediate the 200 Phase-1 FAIL chapters yet.
+4. Keep manuscript text unchanged during Phase-2 discovery and defer repairs/evidence rebinding to Phase 4.
+5. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
