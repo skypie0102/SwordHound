@@ -2101,9 +2101,17 @@
         407,
         408
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        404,
+        405,
+        407,
+        408
+      ]
     },
     {
       "index": 100,
@@ -21912,12 +21920,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 404,
@@ -21957,12 +21968,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit scatological 'shit-eating dog' insult is sanitized to 'Rotten Dog.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 405,
@@ -22002,12 +22016,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the repeated 'shit-eating dog' insult is sanitized to 'Rotten Dog,' and source-explicit blood/flesh/internal-organ gore from severed tendrils is generalized to blood and tissue."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 406,
@@ -22047,12 +22064,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 407,
@@ -22092,12 +22112,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: prisoners source-explicitly reduced to a stew of flesh mush and bloody water are generalized to nonspecific masses of blood and flesh."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 408,
@@ -22137,12 +22160,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: actual Daylily-seed insertion causing painful struggle plus explicit fear urination/wet clothing are generalized or omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 409,
@@ -26346,17 +26372,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 402,
-    "sanitization_pass_count": 231,
-    "sanitization_fail_count": 153,
+    "sanitization_reviewed_count": 408,
+    "sanitization_pass_count": 233,
+    "sanitization_fail_count": 157,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 249,
-    "sanitization_revalidated_count": 231,
+    "sanitization_resolved_count": 251,
+    "sanitization_revalidated_count": 233,
     "next_family": {
-      "name": "Jailbreaker",
+      "name": "End game",
       "range": [
-        403,
-        408
+        409,
+        418
       ]
     },
     "confirmed_failures": [
@@ -27430,6 +27456,34 @@
         "family": "Black Tongue",
         "finding": "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit abdominal palm strike, wall impact, broken ribs, and possible rib-fragment/internal-organ injury to Kirko are omitted.",
         "evidence": "qa/cycle2/sanitization/black-tongue-0399-0402.md"
+      },
+      {
+        "chapter": 404,
+        "gate": "sanitization",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit scatological 'shit-eating dog' insult is sanitized to 'Rotten Dog.'",
+        "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 405,
+        "gate": "sanitization",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 1 FAIL: the repeated 'shit-eating dog' insult is sanitized to 'Rotten Dog,' and source-explicit blood/flesh/internal-organ gore from severed tendrils is generalized to blood and tissue.",
+        "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 407,
+        "gate": "sanitization",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 1 FAIL: prisoners source-explicitly reduced to a stew of flesh mush and bloody water are generalized to nonspecific masses of blood and flesh.",
+        "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 408,
+        "gate": "sanitization",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 1 FAIL: actual Daylily-seed insertion causing painful struggle plus explicit fear urination/wet clothing are generalized or omitted.",
+        "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
       }
     ],
     "wave_a": {
@@ -28516,6 +28570,34 @@
       "family": "Black Tongue",
       "finding": "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit abdominal palm strike, wall impact, broken ribs, and possible rib-fragment/internal-organ injury to Kirko are omitted.",
       "evidence": "qa/cycle2/sanitization/black-tongue-0399-0402.md"
+    },
+    {
+      "chapter": 404,
+      "gate": "sanitization",
+      "family": "Jailbreaker",
+      "finding": "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit scatological 'shit-eating dog' insult is sanitized to 'Rotten Dog.'",
+      "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 405,
+      "gate": "sanitization",
+      "family": "Jailbreaker",
+      "finding": "Cycle 2 Phase 1 FAIL: the repeated 'shit-eating dog' insult is sanitized to 'Rotten Dog,' and source-explicit blood/flesh/internal-organ gore from severed tendrils is generalized to blood and tissue.",
+      "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 407,
+      "gate": "sanitization",
+      "family": "Jailbreaker",
+      "finding": "Cycle 2 Phase 1 FAIL: prisoners source-explicitly reduced to a stew of flesh mush and bloody water are generalized to nonspecific masses of blood and flesh.",
+      "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+    },
+    {
+      "chapter": 408,
+      "gate": "sanitization",
+      "family": "Jailbreaker",
+      "finding": "Cycle 2 Phase 1 FAIL: actual Daylily-seed insertion causing painful struggle plus explicit fear urination/wet clothing are generalized or omitted.",
+      "evidence": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
     }
   ],
   "status_vocabulary": {
