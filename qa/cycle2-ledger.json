@@ -1441,9 +1441,19 @@
         289,
         290
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ]
     },
     {
       "index": 70,
@@ -15930,12 +15940,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 284,
@@ -15980,12 +15993,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 285,
@@ -16030,12 +16046,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's delayed-cut anecdote where a large piece of thigh flesh falls off after roughly three kilometers and blood gushes out is generalized to delayed bleeding after several steps."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 286,
@@ -16075,12 +16094,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says the attack had turned Bartolomeo's human body into a rag/tattered rag; the draft softens this to the body merely 'beginning to fail.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 287,
@@ -16120,12 +16142,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dolores's source-explicit exposed-skin state and bloodsuckers burrowing into pale/soft skin with sharp teeth are generalized to damaged clothing and parasites merely biting/drinking."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 288,
@@ -16165,12 +16190,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Belial's source-explicit degrading 'Die, you trash/scum!' insult is reduced to 'DIE!', and the desperate death-cry force is compressed."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 289,
@@ -16210,12 +16238,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit blood spraying from all over Sinclaire's body is softened to blood appearing along several shallow cuts; her direct insult is also toned down."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 290,
@@ -16255,12 +16286,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     },
     {
       "chapter": 291,
@@ -25804,17 +25838,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 282,
-    "sanitization_pass_count": 175,
-    "sanitization_fail_count": 89,
+    "sanitization_reviewed_count": 290,
+    "sanitization_pass_count": 177,
+    "sanitization_fail_count": 95,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 193,
-    "sanitization_revalidated_count": 175,
+    "sanitization_resolved_count": 195,
+    "sanitization_revalidated_count": 177,
     "next_family": {
-      "name": "Power Inflation",
+      "name": "The Successors",
       "range": [
-        283,
-        290
+        291,
+        292
       ]
     },
     "confirmed_failures": [
@@ -26440,6 +26474,48 @@
         "family": "What Money Can't Buy",
         "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized.",
         "evidence": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
+      },
+      {
+        "chapter": 285,
+        "gate": "sanitization",
+        "family": "Power Inflation",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's delayed-cut anecdote where a large piece of thigh flesh falls off after roughly three kilometers and blood gushes out is generalized to delayed bleeding after several steps.",
+        "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 286,
+        "gate": "sanitization",
+        "family": "Power Inflation",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says the attack had turned Bartolomeo's human body into a rag/tattered rag; the draft softens this to the body merely 'beginning to fail.'",
+        "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 287,
+        "gate": "sanitization",
+        "family": "Power Inflation",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit exposed-skin state and bloodsuckers burrowing into pale/soft skin with sharp teeth are generalized to damaged clothing and parasites merely biting/drinking.",
+        "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 288,
+        "gate": "sanitization",
+        "family": "Power Inflation",
+        "finding": "Cycle 2 Phase 1 FAIL: Belial's source-explicit degrading 'Die, you trash/scum!' insult is reduced to 'DIE!', and the desperate death-cry force is compressed.",
+        "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 289,
+        "gate": "sanitization",
+        "family": "Power Inflation",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit blood spraying from all over Sinclaire's body is softened to blood appearing along several shallow cuts; her direct insult is also toned down.",
+        "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 290,
+        "gate": "sanitization",
+        "family": "Power Inflation",
+        "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened.",
+        "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
       }
     ],
     "wave_a": {
@@ -27078,6 +27154,48 @@
       "family": "What Money Can't Buy",
       "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized.",
       "evidence": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md"
+    },
+    {
+      "chapter": 285,
+      "gate": "sanitization",
+      "family": "Power Inflation",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's delayed-cut anecdote where a large piece of thigh flesh falls off after roughly three kilometers and blood gushes out is generalized to delayed bleeding after several steps.",
+      "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 286,
+      "gate": "sanitization",
+      "family": "Power Inflation",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says the attack had turned Bartolomeo's human body into a rag/tattered rag; the draft softens this to the body merely 'beginning to fail.'",
+      "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 287,
+      "gate": "sanitization",
+      "family": "Power Inflation",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit exposed-skin state and bloodsuckers burrowing into pale/soft skin with sharp teeth are generalized to damaged clothing and parasites merely biting/drinking.",
+      "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 288,
+      "gate": "sanitization",
+      "family": "Power Inflation",
+      "finding": "Cycle 2 Phase 1 FAIL: Belial's source-explicit degrading 'Die, you trash/scum!' insult is reduced to 'DIE!', and the desperate death-cry force is compressed.",
+      "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 289,
+      "gate": "sanitization",
+      "family": "Power Inflation",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit blood spraying from all over Sinclaire's body is softened to blood appearing along several shallow cuts; her direct insult is also toned down.",
+      "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
+    },
+    {
+      "chapter": 290,
+      "gate": "sanitization",
+      "family": "Power Inflation",
+      "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened.",
+      "evidence": "qa/cycle2/sanitization/power-inflation-0283-0290.md"
     }
   ],
   "status_vocabulary": {
