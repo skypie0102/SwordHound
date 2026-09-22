@@ -3154,14 +3154,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
+      "completeness_review_file": "qa/cycle2/completeness/gluttonous-flies-0012-0013.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 13,
@@ -3202,14 +3205,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
+      "completeness_review_file": "qa/cycle2/completeness/gluttonous-flies-0012-0013.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 14,
@@ -29635,14 +29641,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 11,
-    "completeness_pass_count": 11,
+    "completeness_reviewed_count": 13,
+    "completeness_pass_count": 13,
     "completeness_fail_count": 0,
     "next_family": {
-      "name": "The Gluttonous Flies",
+      "name": "Solitary",
       "range": [
-        12,
-        13
+        14,
+        17
       ]
     },
     "confirmed_failures": []
