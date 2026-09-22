@@ -4,14 +4,14 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 433 / 500
-**Cycle-2 sanitization PASS:** 245 / 500
-**Cycle-2 sanitization FAIL:** 170 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 453 / 500
+**Cycle-2 sanitization PASS:** 256 / 500
+**Cycle-2 sanitization FAIL:** 179 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 170 sanitization-fidelity failures through Chapter 433; remediation deferred to Phase 4
-**Current audit stage:** Phase 1 ACTIVE — reviewed through Chapter 433; next `The Returned Hound (434–436)`
+**Confirmed Cycle-2 failures:** 179 sanitization-fidelity failures through Chapter 453; remediation deferred to Phase 4
+**Current audit stage:** Phase 1 ACTIVE — reviewed through Chapter 453; next `Infiltration of the Water Source (454–464)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -134,25 +134,25 @@ Evidence: `qa/cycle2-phase1-wave-c-summary.md` plus family evidence under `qa/cy
 
 Evidence: `qa/cycle2-phase1-wave-d-summary.md`.
 
-**Wave E in progress (Chapters 403–433 reviewed so far).**
+**Wave E in progress (Chapters 403–453 reviewed so far).**
 
-- reviewed in Wave E so far: **31**;
-- PASS: **14**;
-- FAIL: **17**;
+- reviewed in Wave E so far: **51**;
+- PASS: **25**;
+- FAIL: **26**;
 - SAFETY-LIMITED-REVIEWED: **0**;
 - manuscript edits during discovery: **0**;
-- overall Phase 1: **433 / 500 reviewed — 245 PASS / 170 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
+- overall Phase 1: **453 / 500 reviewed — 256 PASS / 179 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
 
 Evidence: family review files under `qa/cycle2/sanitization/` and the live master ledger.
 
 
 ## Exact next actions
 
-1. Continue Phase 1 with **The Returned Hound (434–436)**.
-2. Continue chronologically without repeating Chapters 1–433 or splitting contiguous title families.
-3. Do not remediate the **170** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
+1. Continue Phase 1 with **Infiltration of the Water Source (454–464)**.
+2. Continue chronologically without repeating Chapters 1–453 or splitting contiguous title families.
+3. Do not remediate the **179** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
 4. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
 5. Keep the ledger and live status docs synchronized at meaningful checkpoints.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume at **Chapter 434**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
+The next agent should resume at **Chapter 454**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
