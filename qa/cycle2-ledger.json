@@ -1608,9 +1608,16 @@
         324,
         325
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        322,
+        323,
+        325
+      ]
     },
     {
       "index": 77,
@@ -17812,12 +17819,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md"
     },
     {
       "chapter": 322,
@@ -17857,12 +17867,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: several source-explicit extreme humiliation examples are generalized/omitted, including the elderly male patron, vagrant-crotch, cooked-son, and feces-eating examples."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md"
     },
     {
       "chapter": 323,
@@ -17902,12 +17915,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dogma's source threat to cut off Vikir's singular hand is intensified in the draft to cutting off both 'hands.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md"
     },
     {
       "chapter": 324,
@@ -17947,12 +17963,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md"
     },
     {
       "chapter": 325,
@@ -17992,12 +18011,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit good-figure/body attractiveness wording is sanitized, and Baby Madam's candy excretion/butt-trembling gag is abstracted into generic conversion/output language."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/underdogma-0321-0325.md"
     },
     {
       "chapter": 326,
@@ -25966,17 +25988,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 320,
-    "sanitization_pass_count": 193,
-    "sanitization_fail_count": 109,
+    "sanitization_reviewed_count": 325,
+    "sanitization_pass_count": 195,
+    "sanitization_fail_count": 112,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 211,
-    "sanitization_revalidated_count": 193,
+    "sanitization_resolved_count": 213,
+    "sanitization_revalidated_count": 195,
     "next_family": {
-      "name": "Underdogma",
+      "name": "The Shadowless King of the Black Sea",
       "range": [
-        321,
-        325
+        326,
+        330
       ]
     },
     "confirmed_failures": [
@@ -26742,6 +26764,27 @@
         "family": "Surplus Man",
         "finding": "Cycle 2 Phase 1 FAIL: the source's repeated eat/excrete/excrement framing for the Conversion Bug is abstracted into generic receive/output language.",
         "evidence": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      },
+      {
+        "chapter": 322,
+        "gate": "sanitization",
+        "family": "Underdogma",
+        "finding": "Cycle 2 Phase 1 FAIL: several source-explicit extreme humiliation examples are generalized/omitted, including the elderly male patron, vagrant-crotch, cooked-son, and feces-eating examples.",
+        "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
+      },
+      {
+        "chapter": 323,
+        "gate": "sanitization",
+        "family": "Underdogma",
+        "finding": "Cycle 2 Phase 1 FAIL: Dogma's source threat to cut off Vikir's singular hand is intensified in the draft to cutting off both 'hands.'",
+        "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
+      },
+      {
+        "chapter": 325,
+        "gate": "sanitization",
+        "family": "Underdogma",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit good-figure/body attractiveness wording is sanitized, and Baby Madam's candy excretion/butt-trembling gag is abstracted into generic conversion/output language.",
+        "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
       }
     ],
     "wave_a": {
@@ -27520,6 +27563,27 @@
       "family": "Surplus Man",
       "finding": "Cycle 2 Phase 1 FAIL: the source's repeated eat/excrete/excrement framing for the Conversion Bug is abstracted into generic receive/output language.",
       "evidence": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+    },
+    {
+      "chapter": 322,
+      "gate": "sanitization",
+      "family": "Underdogma",
+      "finding": "Cycle 2 Phase 1 FAIL: several source-explicit extreme humiliation examples are generalized/omitted, including the elderly male patron, vagrant-crotch, cooked-son, and feces-eating examples.",
+      "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 323,
+      "gate": "sanitization",
+      "family": "Underdogma",
+      "finding": "Cycle 2 Phase 1 FAIL: Dogma's source threat to cut off Vikir's singular hand is intensified in the draft to cutting off both 'hands.'",
+      "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 325,
+      "gate": "sanitization",
+      "family": "Underdogma",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit good-figure/body attractiveness wording is sanitized, and Baby Madam's candy excretion/butt-trembling gag is abstracted into generic conversion/output language.",
+      "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
     }
   ],
   "status_vocabulary": {
