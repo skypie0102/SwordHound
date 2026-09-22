@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 COMPLETE — 500/500 sanitization dispositions resolved; Phase 2 completeness revalidation starts at `Hellhound (1–3)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 11; next `The Gluttonous Flies (12–13)`
 
 ## Progress
 
@@ -30,9 +30,15 @@ Wave accounting:
 
 Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidence under `qa/cycle2/sanitization/`, and `qa/cycle2-ledger.json`.
 
-### Phase 2 — NEXT
+### Phase 2 — ACTIVE
 
-Completeness revalidation is **0 / 500** at the Phase-1 close checkpoint. Start with **Hellhound (1–3)** and review every source beat independently from the sanitization result.
+- completeness reviewed: **11 / 500**
+- PASS: **11**
+- FAIL: **0**
+- manuscript edits during discovery: **0**
+- next family: **The Gluttonous Flies (12–13)**
+
+Evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
 
 ### Phase 0 — COMPLETE
 
@@ -289,8 +295,8 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Begin Phase 2 at **Hellhound (1–3)**.
-2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order.
-3. Record completeness independently from sanitization; do not remediate the 200 Phase-1 FAIL chapters yet.
-4. Keep manuscript text unchanged during Phase-2 discovery and defer repairs/evidence rebinding to Phase 4.
+1. Continue Phase 2 at **The Gluttonous Flies (12–13)**.
+2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–11.
+3. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
+4. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
 5. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
