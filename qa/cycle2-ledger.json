@@ -2174,9 +2174,15 @@
         423,
         424
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        423,
+        424
+      ]
     },
     {
       "index": 103,
@@ -22845,12 +22851,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
     },
     {
       "chapter": 423,
@@ -22890,12 +22899,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: a source-explicit gnoll head bursting like a watermelon is softened to the creature simply losing its head."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
     },
     {
       "chapter": 424,
@@ -22935,12 +22947,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit burst internal organs in the escalating battlefield aftermath are generalized to nonspecific shattered bodies."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
     },
     {
       "chapter": 425,
@@ -26424,17 +26439,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 421,
-    "sanitization_pass_count": 241,
-    "sanitization_fail_count": 162,
+    "sanitization_reviewed_count": 424,
+    "sanitization_pass_count": 242,
+    "sanitization_fail_count": 164,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 259,
-    "sanitization_revalidated_count": 241,
+    "sanitization_resolved_count": 260,
+    "sanitization_revalidated_count": 242,
     "next_family": {
-      "name": "How to Become a Wandering Knight",
+      "name": "The Night Walkers",
       "range": [
-        422,
-        424
+        425,
+        429
       ]
     },
     "confirmed_failures": [
@@ -27571,6 +27586,20 @@
         "family": "Goodbye, Nouvelle Vague",
         "finding": "Cycle 2 Phase 1 FAIL: the source's explicit ascent-pressure image of the body being turned alive into meat paste is omitted, despite surrounding injury mechanics being retained.",
         "evidence": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
+      },
+      {
+        "chapter": 423,
+        "gate": "sanitization",
+        "family": "How to Become a Wandering Knight",
+        "finding": "Cycle 2 Phase 1 FAIL: a source-explicit gnoll head bursting like a watermelon is softened to the creature simply losing its head.",
+        "evidence": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
+      },
+      {
+        "chapter": 424,
+        "gate": "sanitization",
+        "family": "How to Become a Wandering Knight",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit burst internal organs in the escalating battlefield aftermath are generalized to nonspecific shattered bodies.",
+        "evidence": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
       }
     ],
     "wave_a": {
@@ -28720,6 +28749,20 @@
       "family": "Goodbye, Nouvelle Vague",
       "finding": "Cycle 2 Phase 1 FAIL: the source's explicit ascent-pressure image of the body being turned alive into meat paste is omitted, despite surrounding injury mechanics being retained.",
       "evidence": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
+    },
+    {
+      "chapter": 423,
+      "gate": "sanitization",
+      "family": "How to Become a Wandering Knight",
+      "finding": "Cycle 2 Phase 1 FAIL: a source-explicit gnoll head bursting like a watermelon is softened to the creature simply losing its head.",
+      "evidence": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
+    },
+    {
+      "chapter": 424,
+      "gate": "sanitization",
+      "family": "How to Become a Wandering Knight",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit burst internal organs in the escalating battlefield aftermath are generalized to nonspecific shattered bodies.",
+      "evidence": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
     }
   ],
   "status_vocabulary": {
