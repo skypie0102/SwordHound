@@ -5,14 +5,14 @@
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization reviewed:** 306 / 500
-**Sanitization PASS:** 184 / 500
-**Sanitization FAIL:** 104 / 500
+**Sanitization reviewed:** 365 / 500
+**Sanitization PASS:** 215 / 500
+**Sanitization FAIL:** 132 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 104 sanitization-fidelity failures through Chapter 306; Phase-4 remediation pending
-**Current phase:** Phase 1 active through Chapter 306; next `Hell Tree (307–313)`
+**Confirmed new failures:** 132 sanitization-fidelity failures through Chapter 365; Phase-4 remediation pending
+**Current phase:** Phase 1 active through Chapter 365; next `The Underground Extension Construction (366–368)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -36,7 +36,7 @@ Phase 0 completed successfully against opening main commit `8177e1c192cd7fcd55b0
 - 31 deterministic diagnostic files cover all 500 chapters with no gaps or overlaps.
 - No accepted manuscript/evidence content changed during baseline capture.
 
-Phase 1 began with **Hellhound (1–3)**; direct review has now advanced through Chapter 306.
+Phase 1 began with **Hellhound (1–3)**; direct review has now advanced through Chapter 365.
 
 ## Required gates
 
@@ -71,14 +71,14 @@ Wave B family-complete checkpoint (Chapters 101–202): **70 PASS / 32 FAIL / 0 
 
 Wave C family-complete checkpoint (Chapters 203–306): **52 PASS / 52 FAIL / 0 SAFETY-LIMITED-REVIEWED**. It begins at 203 because Wave B finished *The Corpse Queen (198–202)* and extends through 306 because *The Age of the Warmonger (299–306)* crosses the nominal Chapter-300 boundary.
 
-Overall Phase 1 now stands at **306 / 500 reviewed: 184 PASS / 104 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts have been edited during discovery. All 104 FAIL chapters are recorded in `qa/cycle2-ledger.json` and remain queued for Phase 4.
+Overall Phase 1 now stands at **365 / 500 reviewed: 215 PASS / 132 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts have been edited during discovery. All 132 FAIL chapters are recorded in `qa/cycle2-ledger.json` and remain queued for Phase 4.
 
 Wave summaries:
 - `qa/cycle2-phase1-wave-a-summary.md`
 - `qa/cycle2-phase1-wave-b-summary.md`
 - `qa/cycle2-phase1-wave-c-summary.md`
 
-Phase 1 continues at **Hell Tree (307–313)**.
+Wave D is currently **59 chapters reviewed (307–365): 31 PASS / 28 FAIL / 0 SAFETY-LIMITED-REVIEWED**. Phase 1 continues at **The Underground Extension Construction (366–368)**.
 
 ## Release gate
 
