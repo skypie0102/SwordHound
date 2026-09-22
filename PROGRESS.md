@@ -1,5 +1,21 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 31
+
+Direct full-source completeness revalidation has reached **Chapter 31**.
+
+- completeness reviewed: **31 / 500**;
+- PASS: **29**;
+- FAIL: **2** — Chapters **22 and 24**;
+- both completeness failures overlap Phase-1 sanitization failures already queued for Phase 4;
+- manuscript edits during Phase-2 discovery: **0**;
+- latest completed families: **The Gluttonous Flies (12–13)**, **Solitary (14–17)**, **Bared Teeth (18–19)**, **Camus Morgue (20–25)**, **The Graduate (26–27)**, and **Special Laws of Vikir (28–31)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0031.md`.
+
+Next Phase-2 family: **The Social Club (32–34)**.
+
+
 ## 2026-09-23 — Cycle 2 Phase 2 started through Chapter 11
 
 Full-corpus completeness revalidation is active.
