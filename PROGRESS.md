@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 started through Chapter 11
+
+Full-corpus completeness revalidation is active.
+
+- completeness reviewed: **11 / 500**;
+- PASS: **11**;
+- FAIL: **0**;
+- manuscript edits during Phase-2 discovery: **0**;
+- completed families: **Hellhound (1–3)**, **The Baskerville Dog (4–7)**, **Hounds of Hell (8–11)**;
+- next family: **The Gluttonous Flies (12–13)**.
+
+Phase-1 sanitization remains closed at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**; the 200 sanitization failures remain deferred to Phase 4.
+
+
 ## 2026-09-23 — Cycle 2 Phase 1 COMPLETE across Chapters 1–500
 
 Direct Chinese-primary sanitization review is complete for the entire target corpus.
