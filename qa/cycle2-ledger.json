@@ -1692,9 +1692,15 @@
         339,
         340
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        339,
+        340
+      ]
     },
     {
       "index": 81,
@@ -18697,12 +18703,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source explicitly states Vikir is not wearing clothes and his naked skin touches the bed; the draft softens this to vague 'uncovered skin.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md"
     },
     {
       "chapter": 340,
@@ -18742,12 +18751,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md"
     },
     {
       "chapter": 341,
@@ -26041,17 +26053,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 338,
+    "sanitization_reviewed_count": 340,
     "sanitization_pass_count": 204,
-    "sanitization_fail_count": 116,
+    "sanitization_fail_count": 118,
     "sanitization_safety_limited_count": 18,
     "sanitization_resolved_count": 222,
     "sanitization_revalidated_count": 204,
     "next_family": {
-      "name": "Trap",
+      "name": "Private Life",
       "range": [
-        339,
-        340
+        341,
+        342
       ]
     },
     "confirmed_failures": [
@@ -26866,6 +26878,20 @@
         "family": "The Mating Room",
         "finding": "Cycle 2 Phase 1 FAIL: source-explicit nudity, rear embrace, and close full-body contact used for hypothermia survival are generalized to removed wet clothing and shared body heat.",
         "evidence": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      },
+      {
+        "chapter": 339,
+        "gate": "sanitization",
+        "family": "Trap",
+        "finding": "Cycle 2 Phase 1 FAIL: the source explicitly states Vikir is not wearing clothes and his naked skin touches the bed; the draft softens this to vague 'uncovered skin.'",
+        "evidence": "qa/cycle2/sanitization/trap-0339-0340.md"
+      },
+      {
+        "chapter": 340,
+        "gate": "sanitization",
+        "family": "Trap",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes.",
+        "evidence": "qa/cycle2/sanitization/trap-0339-0340.md"
       }
     ],
     "wave_a": {
@@ -27693,6 +27719,20 @@
       "family": "The Mating Room",
       "finding": "Cycle 2 Phase 1 FAIL: source-explicit nudity, rear embrace, and close full-body contact used for hypothermia survival are generalized to removed wet clothing and shared body heat.",
       "evidence": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+    },
+    {
+      "chapter": 339,
+      "gate": "sanitization",
+      "family": "Trap",
+      "finding": "Cycle 2 Phase 1 FAIL: the source explicitly states Vikir is not wearing clothes and his naked skin touches the bed; the draft softens this to vague 'uncovered skin.'",
+      "evidence": "qa/cycle2/sanitization/trap-0339-0340.md"
+    },
+    {
+      "chapter": 340,
+      "gate": "sanitization",
+      "family": "Trap",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes.",
+      "evidence": "qa/cycle2/sanitization/trap-0339-0340.md"
     }
   ],
   "status_vocabulary": {
