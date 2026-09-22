@@ -2502,9 +2502,11 @@
         492,
         493
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/running-hound-0490-0493.md",
+      "sanitization_reviewed_date": "2026-09-23"
     },
     {
       "index": 117,
@@ -26200,12 +26202,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/running-hound-0490-0493.md"
     },
     {
       "chapter": 491,
@@ -26245,12 +26250,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/running-hound-0490-0493.md"
     },
     {
       "chapter": 492,
@@ -26290,12 +26298,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/running-hound-0490-0493.md"
     },
     {
       "chapter": 493,
@@ -26335,12 +26346,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/running-hound-0490-0493.md"
     },
     {
       "chapter": 494,
@@ -26719,17 +26733,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 489,
-    "sanitization_pass_count": 272,
+    "sanitization_reviewed_count": 493,
+    "sanitization_pass_count": 276,
     "sanitization_fail_count": 199,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 290,
-    "sanitization_revalidated_count": 272,
+    "sanitization_resolved_count": 294,
+    "sanitization_revalidated_count": 276,
     "next_family": {
-      "name": "Running Hound",
+      "name": "The Day After the Apocalypse",
       "range": [
-        490,
-        493
+        494,
+        495
       ]
     },
     "confirmed_failures": [
