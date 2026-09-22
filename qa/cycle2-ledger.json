@@ -1531,9 +1531,18 @@
         305,
         306
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        301,
+        302,
+        303,
+        305,
+        306
+      ]
     },
     {
       "index": 74,
@@ -16734,12 +16743,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 300,
@@ -16779,12 +16791,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 301,
@@ -16824,12 +16839,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: criminals ground into meat paste amid blood/flesh, a head-and-abdomen burst death, and groin-to-head impalements are materially generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 302,
@@ -16869,12 +16887,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's body-directed coat/chest-room taunt is omitted, and Night Hound's explicit fangs tearing internal organs are reduced to generic kills."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 303,
@@ -16914,12 +16935,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Sadi's source-explicit expelled blood and internal-organ fragments after being thrown into wreckage are reduced to merely coughing blood."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 304,
@@ -16959,12 +16983,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 305,
@@ -17004,12 +17031,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit hot blood gushing whenever he opens his mouth after the all-out strike is softened to merely coughing blood."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 306,
@@ -17049,12 +17079,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Winston's source-explicit blood and internal-organ fragments spraying from his lips are reduced to blood merely spilling from his mouth."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     },
     {
       "chapter": 307,
@@ -25878,17 +25911,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 298,
-    "sanitization_pass_count": 181,
-    "sanitization_fail_count": 99,
+    "sanitization_reviewed_count": 306,
+    "sanitization_pass_count": 184,
+    "sanitization_fail_count": 104,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 199,
-    "sanitization_revalidated_count": 181,
+    "sanitization_resolved_count": 202,
+    "sanitization_revalidated_count": 184,
     "next_family": {
-      "name": "The Age of the Warmonger",
+      "name": "Hell Tree",
       "range": [
-        299,
-        306
+        307,
+        313
       ]
     },
     "confirmed_failures": [
@@ -26584,6 +26617,41 @@
         "family": "Last Semester",
         "finding": "Cycle 2 Phase 1 FAIL: the source's extreme statement that Pomeranian would obey Vikir even at the cost of death is generalized to merely obeying him readily.",
         "evidence": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+      },
+      {
+        "chapter": 301,
+        "gate": "sanitization",
+        "family": "The Age of the Warmonger",
+        "finding": "Cycle 2 Phase 1 FAIL: criminals ground into meat paste amid blood/flesh, a head-and-abdomen burst death, and groin-to-head impalements are materially generalized.",
+        "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+      },
+      {
+        "chapter": 302,
+        "gate": "sanitization",
+        "family": "The Age of the Warmonger",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's body-directed coat/chest-room taunt is omitted, and Night Hound's explicit fangs tearing internal organs are reduced to generic kills.",
+        "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+      },
+      {
+        "chapter": 303,
+        "gate": "sanitization",
+        "family": "The Age of the Warmonger",
+        "finding": "Cycle 2 Phase 1 FAIL: Sadi's source-explicit expelled blood and internal-organ fragments after being thrown into wreckage are reduced to merely coughing blood.",
+        "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+      },
+      {
+        "chapter": 305,
+        "gate": "sanitization",
+        "family": "The Age of the Warmonger",
+        "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit hot blood gushing whenever he opens his mouth after the all-out strike is softened to merely coughing blood.",
+        "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+      },
+      {
+        "chapter": 306,
+        "gate": "sanitization",
+        "family": "The Age of the Warmonger",
+        "finding": "Cycle 2 Phase 1 FAIL: Winston's source-explicit blood and internal-organ fragments spraying from his lips are reduced to blood merely spilling from his mouth.",
+        "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
       }
     ],
     "wave_a": {
@@ -27292,6 +27360,41 @@
       "family": "Last Semester",
       "finding": "Cycle 2 Phase 1 FAIL: the source's extreme statement that Pomeranian would obey Vikir even at the cost of death is generalized to merely obeying him readily.",
       "evidence": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+    },
+    {
+      "chapter": 301,
+      "gate": "sanitization",
+      "family": "The Age of the Warmonger",
+      "finding": "Cycle 2 Phase 1 FAIL: criminals ground into meat paste amid blood/flesh, a head-and-abdomen burst death, and groin-to-head impalements are materially generalized.",
+      "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 302,
+      "gate": "sanitization",
+      "family": "The Age of the Warmonger",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's body-directed coat/chest-room taunt is omitted, and Night Hound's explicit fangs tearing internal organs are reduced to generic kills.",
+      "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 303,
+      "gate": "sanitization",
+      "family": "The Age of the Warmonger",
+      "finding": "Cycle 2 Phase 1 FAIL: Sadi's source-explicit expelled blood and internal-organ fragments after being thrown into wreckage are reduced to merely coughing blood.",
+      "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 305,
+      "gate": "sanitization",
+      "family": "The Age of the Warmonger",
+      "finding": "Cycle 2 Phase 1 FAIL: Vikir's source-explicit hot blood gushing whenever he opens his mouth after the all-out strike is softened to merely coughing blood.",
+      "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
+    },
+    {
+      "chapter": 306,
+      "gate": "sanitization",
+      "family": "The Age of the Warmonger",
+      "finding": "Cycle 2 Phase 1 FAIL: Winston's source-explicit blood and internal-organ fragments spraying from his lips are reduced to blood merely spilling from his mouth.",
+      "evidence": "qa/cycle2/sanitization/age-warmonger-0299-0306.md"
     }
   ],
   "status_vocabulary": {
