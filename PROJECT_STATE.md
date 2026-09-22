@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 11 / 500 — 11 PASS / 0 FAIL
+**Completeness revalidated:** 31 / 500 — 29 PASS / 2 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 sanitization-fidelity failures from completed Phase 1; Phase-4 remediation pending
-**Current phase:** Phase 2 ACTIVE through Chapter 11; next `The Gluttonous Flies (12–13)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 2 Phase-2 completeness failures (Chapters 22 and 24; overlapping existing sanitization failures); Phase-4 remediation pending
+**Current phase:** Phase 2 ACTIVE through Chapter 31; next `The Social Club (32–34)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -83,7 +83,7 @@ Wave summaries:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4. Phase 2 now independently revalidates completeness across all 500 chapters.
 
-Current Phase-2 position: **11 / 500 reviewed — 11 PASS / 0 FAIL**. Completed families are *Hellhound (1–3)*, *The Baskerville Dog (4–7)*, and *Hounds of Hell (8–11)*. Next is **The Gluttonous Flies (12–13)**.
+Current Phase-2 position: **31 / 500 reviewed — 29 PASS / 2 FAIL**. The two completeness failures are Chapters **22 and 24**, both already present in the Phase-1 sanitization remediation set. Completed completeness review now runs continuously through **Special Laws of Vikir (28–31)**. Next is **The Social Club (32–34)**.
 
 
 ## Release gate
