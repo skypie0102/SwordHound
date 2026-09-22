@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 418
+
+Direct Chinese-primary sanitization review has reached **Chapter 418**.
+
+- overall reviewed: **418 / 500**;
+- PASS: **239**;
+- FAIL: **161**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave D is family-complete through Chapter 402: **47 PASS / 49 FAIL** across Chapters 307–402;
+- Wave E segment 403–418: **8 PASS / 8 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **161** failures remain queued for Phase 4.
+
+Recent completed families are **Jailbreaker (403–408)** at 2 PASS / 4 FAIL and **End game (409–418)** at 6 PASS / 4 FAIL.
+
+Wave-D evidence: `qa/cycle2-phase1-wave-d-summary.md`.
+
+Next Phase-1 family: **Goodbye, Nouvelle Vague (419–421)**.
+
+
 ## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 365
 
 Direct Chinese-primary sanitization review has reached **Chapter 365**.
