@@ -2537,9 +2537,14 @@
         499,
         500
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
+      "sanitization_reviewed_date": "2026-09-23",
+      "sanitization_failures": [
+        500
+      ]
     }
   ],
   "chapters": [
@@ -26502,12 +26507,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
     },
     {
       "chapter": 497,
@@ -26547,12 +26555,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
     },
     {
       "chapter": 498,
@@ -26592,12 +26603,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
     },
     {
       "chapter": 499,
@@ -26637,12 +26651,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
     },
     {
       "chapter": 500,
@@ -26682,12 +26699,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's whole-body stinging 'as if the flesh were being cut' during the Grave of Swords ascent is generalized to abstract cutting/grinding/polishing language."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
     }
   ],
   "phase0": {
@@ -26740,20 +26760,14 @@
     }
   },
   "phase1": {
-    "status": "active",
-    "sanitization_reviewed_count": 495,
-    "sanitization_pass_count": 278,
-    "sanitization_fail_count": 199,
+    "status": "complete",
+    "sanitization_reviewed_count": 500,
+    "sanitization_pass_count": 282,
+    "sanitization_fail_count": 200,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 296,
-    "sanitization_revalidated_count": 278,
-    "next_family": {
-      "name": "Side Story",
-      "range": [
-        496,
-        500
-      ]
-    },
+    "sanitization_resolved_count": 300,
+    "sanitization_revalidated_count": 282,
+    "next_family": null,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -28147,6 +28161,13 @@
         "family": "The Marquis of Discord",
         "finding": "Cycle 2 Phase 1 FAIL: the source's suffocating foul stench emanating from Baal's distant presence is omitted.",
         "evidence": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      },
+      {
+        "chapter": 500,
+        "gate": "sanitization",
+        "family": "Side Story",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's whole-body stinging 'as if the flesh were being cut' during the Grave of Swords ascent is generalized to abstract cutting/grinding/polishing language.",
+        "evidence": "qa/cycle2/sanitization/side-story-0496-0500.md"
       }
     ],
     "wave_a": {
@@ -29555,6 +29576,13 @@
       "family": "The Marquis of Discord",
       "finding": "Cycle 2 Phase 1 FAIL: the source's suffocating foul stench emanating from Baal's distant presence is omitted.",
       "evidence": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+    },
+    {
+      "chapter": 500,
+      "gate": "sanitization",
+      "family": "Side Story",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's whole-body stinging 'as if the flesh were being cut' during the Grave of Swords ascent is generalized to abstract cutting/grinding/polishing language.",
+      "evidence": "qa/cycle2/sanitization/side-story-0496-0500.md"
     }
   ],
   "status_vocabulary": {
