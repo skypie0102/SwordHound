@@ -1757,9 +1757,15 @@
         349,
         350
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/key-man-0348-0350.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        349,
+        350
+      ]
     },
     {
       "index": 84,
@@ -19148,12 +19154,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/key-man-0348-0350.md"
     },
     {
       "chapter": 349,
@@ -19193,12 +19202,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the fairy's source-explicit internal-organs-melting agony and final body-splitting destruction are generalized to vague 'insides' dissolving and disintegration."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/key-man-0348-0350.md"
     },
     {
       "chapter": 350,
@@ -19238,12 +19250,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the tutorial fairy's source-explicit flesh and internal-organ pieces dripping from its distorted face are generalized to nonspecific tissue."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/key-man-0348-0350.md"
     },
     {
       "chapter": 351,
@@ -26087,17 +26102,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 347,
-    "sanitization_pass_count": 206,
-    "sanitization_fail_count": 123,
+    "sanitization_reviewed_count": 350,
+    "sanitization_pass_count": 207,
+    "sanitization_fail_count": 125,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 224,
-    "sanitization_revalidated_count": 206,
+    "sanitization_resolved_count": 225,
+    "sanitization_revalidated_count": 207,
     "next_family": {
-      "name": "Key man",
+      "name": "Outside the Tower",
       "range": [
-        348,
-        350
+        351,
+        355
       ]
     },
     "confirmed_failures": [
@@ -26961,6 +26976,20 @@
         "family": "Ballak",
         "finding": "Cycle 2 Phase 1 FAIL: Akwilla's source-described mortal/potentially fatal wound on Amdusias is softened to a generic severe wound.",
         "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      },
+      {
+        "chapter": 349,
+        "gate": "sanitization",
+        "family": "Key man",
+        "finding": "Cycle 2 Phase 1 FAIL: the fairy's source-explicit internal-organs-melting agony and final body-splitting destruction are generalized to vague 'insides' dissolving and disintegration.",
+        "evidence": "qa/cycle2/sanitization/key-man-0348-0350.md"
+      },
+      {
+        "chapter": 350,
+        "gate": "sanitization",
+        "family": "Key man",
+        "finding": "Cycle 2 Phase 1 FAIL: the tutorial fairy's source-explicit flesh and internal-organ pieces dripping from its distorted face are generalized to nonspecific tissue.",
+        "evidence": "qa/cycle2/sanitization/key-man-0348-0350.md"
       }
     ],
     "wave_a": {
@@ -27837,6 +27866,20 @@
       "family": "Ballak",
       "finding": "Cycle 2 Phase 1 FAIL: Akwilla's source-described mortal/potentially fatal wound on Amdusias is softened to a generic severe wound.",
       "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 349,
+      "gate": "sanitization",
+      "family": "Key man",
+      "finding": "Cycle 2 Phase 1 FAIL: the fairy's source-explicit internal-organs-melting agony and final body-splitting destruction are generalized to vague 'insides' dissolving and disintegration.",
+      "evidence": "qa/cycle2/sanitization/key-man-0348-0350.md"
+    },
+    {
+      "chapter": 350,
+      "gate": "sanitization",
+      "family": "Key man",
+      "finding": "Cycle 2 Phase 1 FAIL: the tutorial fairy's source-explicit flesh and internal-organ pieces dripping from its distorted face are generalized to nonspecific tissue.",
+      "evidence": "qa/cycle2/sanitization/key-man-0348-0350.md"
     }
   ],
   "status_vocabulary": {
