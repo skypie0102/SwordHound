@@ -1903,9 +1903,14 @@
         371,
         372
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-confinement-0371-0372.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        371
+      ]
     },
     {
       "index": 91,
@@ -20312,12 +20317,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Souaré's source-explicit 'sexy mustache' and seductive delivery are softened to a 'magnificent mustache' and playful handling."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-confinement-0371-0372.md"
     },
     {
       "chapter": 372,
@@ -20357,12 +20365,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-confinement-0371-0372.md"
     },
     {
       "chapter": 373,
@@ -26196,17 +26207,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 370,
-    "sanitization_pass_count": 217,
-    "sanitization_fail_count": 135,
+    "sanitization_reviewed_count": 372,
+    "sanitization_pass_count": 218,
+    "sanitization_fail_count": 136,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 235,
-    "sanitization_revalidated_count": 217,
+    "sanitization_resolved_count": 236,
+    "sanitization_revalidated_count": 218,
     "next_family": {
-      "name": "Solitary Confinement",
+      "name": "Sucker Shark",
       "range": [
-        371,
-        372
+        373,
+        374
       ]
     },
     "confirmed_failures": [
@@ -27154,6 +27165,13 @@
         "family": "The Servant",
         "finding": "Cycle 2 Phase 1 FAIL: the source has D'Ordume approach Vikir on his knees, but the draft reverses this to Vikir kneeling; Vikir's source-explicit blood-covered aftermath is also softened to generic spilled blood/collapse.",
         "evidence": "qa/cycle2/sanitization/servant-0369-0370.md"
+      },
+      {
+        "chapter": 371,
+        "gate": "sanitization",
+        "family": "Solitary Confinement",
+        "finding": "Cycle 2 Phase 1 FAIL: Souaré's source-explicit 'sexy mustache' and seductive delivery are softened to a 'magnificent mustache' and playful handling.",
+        "evidence": "qa/cycle2/sanitization/solitary-confinement-0371-0372.md"
       }
     ],
     "wave_a": {
@@ -28114,6 +28132,13 @@
       "family": "The Servant",
       "finding": "Cycle 2 Phase 1 FAIL: the source has D'Ordume approach Vikir on his knees, but the draft reverses this to Vikir kneeling; Vikir's source-explicit blood-covered aftermath is also softened to generic spilled blood/collapse.",
       "evidence": "qa/cycle2/sanitization/servant-0369-0370.md"
+    },
+    {
+      "chapter": 371,
+      "gate": "sanitization",
+      "family": "Solitary Confinement",
+      "finding": "Cycle 2 Phase 1 FAIL: Souaré's source-explicit 'sexy mustache' and seductive delivery are softened to a 'magnificent mustache' and playful handling.",
+      "evidence": "qa/cycle2/sanitization/solitary-confinement-0371-0372.md"
     }
   ],
   "status_vocabulary": {
