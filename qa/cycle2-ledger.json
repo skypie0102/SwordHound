@@ -2032,9 +2032,19 @@
         394,
         395
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        390,
+        391,
+        392,
+        393,
+        394,
+        395
+      ]
     },
     {
       "index": 97,
@@ -21268,12 +21278,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: pain-maximizing body targeting, meat-chopping imagery, explicit starvation/whipping, and Age-of-Destruction torture used to force submission are generalized/softened."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     },
     {
       "chapter": 391,
@@ -21313,12 +21326,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: centipede-like eye-vessel horror, fountain-like blood spray, guards apparently being 'eaten,' and the nauseating spit/soil reaction are generalized or omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     },
     {
       "chapter": 392,
@@ -21358,12 +21374,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: a specific five-horse dismemberment threat is generalized, and fecal incontinence plus heart-paralysis fear language is reduced to pissing oneself and dying of fright."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     },
     {
       "chapter": 393,
@@ -21403,12 +21422,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-confirmed broken ribs and collarbone are softened to ribs hurting and a collarbone that merely feels fractured."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     },
     {
       "chapter": 394,
@@ -21448,12 +21470,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: source-explicit torture/beating that Sakkuth may endure is softened to 'interrogation.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     },
     {
       "chapter": 395,
@@ -21493,12 +21518,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source explicitly identifies Sakkuth's scattered material as a poison mixture, while the draft generalizes it to foul-looking substances."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     },
     {
       "chapter": 396,
@@ -26287,17 +26315,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 389,
+    "sanitization_reviewed_count": 395,
     "sanitization_pass_count": 226,
-    "sanitization_fail_count": 145,
+    "sanitization_fail_count": 151,
     "sanitization_safety_limited_count": 18,
     "sanitization_resolved_count": 244,
     "sanitization_revalidated_count": 226,
     "next_family": {
-      "name": "The Worst Torture",
+      "name": "Dead Man Walking",
       "range": [
-        390,
-        395
+        396,
+        398
       ]
     },
     "confirmed_failures": [
@@ -27315,6 +27343,48 @@
         "family": "The Rotten Dog of Nouvelle Vague",
         "finding": "Cycle 2 Phase 1 FAIL: Kirko's source proverb that a dog cannot stop eating shit is euphemized to a dog that 'eats filth.'",
         "evidence": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+      },
+      {
+        "chapter": 390,
+        "gate": "sanitization",
+        "family": "The Worst Torture",
+        "finding": "Cycle 2 Phase 1 FAIL: pain-maximizing body targeting, meat-chopping imagery, explicit starvation/whipping, and Age-of-Destruction torture used to force submission are generalized/softened.",
+        "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+      },
+      {
+        "chapter": 391,
+        "gate": "sanitization",
+        "family": "The Worst Torture",
+        "finding": "Cycle 2 Phase 1 FAIL: centipede-like eye-vessel horror, fountain-like blood spray, guards apparently being 'eaten,' and the nauseating spit/soil reaction are generalized or omitted.",
+        "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+      },
+      {
+        "chapter": 392,
+        "gate": "sanitization",
+        "family": "The Worst Torture",
+        "finding": "Cycle 2 Phase 1 FAIL: a specific five-horse dismemberment threat is generalized, and fecal incontinence plus heart-paralysis fear language is reduced to pissing oneself and dying of fright.",
+        "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+      },
+      {
+        "chapter": 393,
+        "gate": "sanitization",
+        "family": "The Worst Torture",
+        "finding": "Cycle 2 Phase 1 FAIL: source-confirmed broken ribs and collarbone are softened to ribs hurting and a collarbone that merely feels fractured.",
+        "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+      },
+      {
+        "chapter": 394,
+        "gate": "sanitization",
+        "family": "The Worst Torture",
+        "finding": "Cycle 2 Phase 1 FAIL: source-explicit torture/beating that Sakkuth may endure is softened to 'interrogation.'",
+        "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+      },
+      {
+        "chapter": 395,
+        "gate": "sanitization",
+        "family": "The Worst Torture",
+        "finding": "Cycle 2 Phase 1 FAIL: the source explicitly identifies Sakkuth's scattered material as a poison mixture, while the draft generalizes it to foul-looking substances.",
+        "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
       }
     ],
     "wave_a": {
@@ -28345,6 +28415,48 @@
       "family": "The Rotten Dog of Nouvelle Vague",
       "finding": "Cycle 2 Phase 1 FAIL: Kirko's source proverb that a dog cannot stop eating shit is euphemized to a dog that 'eats filth.'",
       "evidence": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+    },
+    {
+      "chapter": 390,
+      "gate": "sanitization",
+      "family": "The Worst Torture",
+      "finding": "Cycle 2 Phase 1 FAIL: pain-maximizing body targeting, meat-chopping imagery, explicit starvation/whipping, and Age-of-Destruction torture used to force submission are generalized/softened.",
+      "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 391,
+      "gate": "sanitization",
+      "family": "The Worst Torture",
+      "finding": "Cycle 2 Phase 1 FAIL: centipede-like eye-vessel horror, fountain-like blood spray, guards apparently being 'eaten,' and the nauseating spit/soil reaction are generalized or omitted.",
+      "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 392,
+      "gate": "sanitization",
+      "family": "The Worst Torture",
+      "finding": "Cycle 2 Phase 1 FAIL: a specific five-horse dismemberment threat is generalized, and fecal incontinence plus heart-paralysis fear language is reduced to pissing oneself and dying of fright.",
+      "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 393,
+      "gate": "sanitization",
+      "family": "The Worst Torture",
+      "finding": "Cycle 2 Phase 1 FAIL: source-confirmed broken ribs and collarbone are softened to ribs hurting and a collarbone that merely feels fractured.",
+      "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 394,
+      "gate": "sanitization",
+      "family": "The Worst Torture",
+      "finding": "Cycle 2 Phase 1 FAIL: source-explicit torture/beating that Sakkuth may endure is softened to 'interrogation.'",
+      "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
+    },
+    {
+      "chapter": 395,
+      "gate": "sanitization",
+      "family": "The Worst Torture",
+      "finding": "Cycle 2 Phase 1 FAIL: the source explicitly identifies Sakkuth's scattered material as a poison mixture, while the draft generalizes it to foul-looking substances.",
+      "evidence": "qa/cycle2/sanitization/worst-torture-0390-0395.md"
     }
   ],
   "status_vocabulary": {
