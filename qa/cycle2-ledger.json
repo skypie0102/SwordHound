@@ -1392,9 +1392,16 @@
         277,
         278
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        276,
+        277,
+        278
+      ]
     },
     {
       "index": 68,
@@ -15437,12 +15444,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
     },
     {
       "chapter": 274,
@@ -15482,12 +15492,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
     },
     {
       "chapter": 275,
@@ -15527,12 +15540,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
     },
     {
       "chapter": 276,
@@ -15572,12 +15588,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
     },
     {
       "chapter": 277,
@@ -15617,12 +15636,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
     },
     {
       "chapter": 278,
@@ -15662,12 +15684,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
     },
     {
       "chapter": 279,
@@ -25761,17 +25786,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 272,
-    "sanitization_pass_count": 170,
-    "sanitization_fail_count": 84,
+    "sanitization_reviewed_count": 278,
+    "sanitization_pass_count": 173,
+    "sanitization_fail_count": 87,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 188,
-    "sanitization_revalidated_count": 170,
+    "sanitization_resolved_count": 191,
+    "sanitization_revalidated_count": 173,
     "next_family": {
-      "name": "Money War",
+      "name": "What Money Can't Buy",
       "range": [
-        273,
-        278
+        279,
+        282
       ]
     },
     "confirmed_failures": [
@@ -26362,6 +26387,27 @@
         "family": "Rich Friends",
         "finding": "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon.",
         "evidence": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+      },
+      {
+        "chapter": 276,
+        "gate": "sanitization",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing.",
+        "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 277,
+        "gate": "sanitization",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'",
+        "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 278,
+        "gate": "sanitization",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'",
+        "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
       }
     ],
     "wave_a": {
@@ -26965,6 +27011,27 @@
       "family": "Rich Friends",
       "finding": "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon.",
       "evidence": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+    },
+    {
+      "chapter": 276,
+      "gate": "sanitization",
+      "family": "Money War",
+      "finding": "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing.",
+      "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 277,
+      "gate": "sanitization",
+      "family": "Money War",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'",
+      "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
+    },
+    {
+      "chapter": 278,
+      "gate": "sanitization",
+      "family": "Money War",
+      "finding": "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'",
+      "evidence": "qa/cycle2/sanitization/money-war-0273-0278.md"
     }
   ],
   "status_vocabulary": {
