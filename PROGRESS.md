@@ -1,5 +1,22 @@
 # Reconstruction Progress
 
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 365
+
+Direct Chinese-primary sanitization review has reached **Chapter 365**.
+
+- overall reviewed: **365 / 500**;
+- PASS: **215**;
+- FAIL: **132**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave-D segment 307–365: **31 PASS / 28 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **132** failures remain queued for Phase 4.
+
+Recent review has progressed through *Hell Tree* and subsequent Wave-D families to **Ghost Castle of the Ultra-Deep Sea (363–365)**. The latest family was **2 PASS / 1 FAIL**, with Chapter 364 queued for its omitted source-explicit foot-severing result during the admission ceremony.
+
+Next Phase-1 family: **The Underground Extension Construction (366–368)**.
+
+
 ## 2026-09-22 — Cycle 2 Phase 1 Wave C family-complete checkpoint through Chapter 306
 
 Direct Chinese-primary sanitization review has reached **Chapter 306**.
