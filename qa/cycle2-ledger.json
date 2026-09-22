@@ -2396,9 +2396,17 @@
         474,
         475
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        472,
+        473,
+        474,
+        475
+      ]
     },
     {
       "index": 112,
@@ -25260,12 +25268,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
     },
     {
       "chapter": 472,
@@ -25305,12 +25316,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says every Beelzebub swing sends more than a dozen heads flying; the draft generalizes this to merely 'more heads.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
     },
     {
       "chapter": 473,
@@ -25350,12 +25364,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Vikir source-explicitly splits a giant Poison Human's head like a watermelon; the draft omits the action/image."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
     },
     {
       "chapter": 474,
@@ -25395,12 +25412,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Juskin's destruction occurs under a source-explicit rain of flesh and blood; the draft reduces this to scattered blood, flesh, and bone."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
     },
     {
       "chapter": 475,
@@ -25440,12 +25460,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source has Vikir tearing/ripping Flauros's heart after severing both arms; the draft softens this to driving Beelzebub toward the exposed chest."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
     },
     {
       "chapter": 476,
@@ -26634,17 +26657,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 470,
-    "sanitization_pass_count": 263,
-    "sanitization_fail_count": 189,
+    "sanitization_reviewed_count": 475,
+    "sanitization_pass_count": 264,
+    "sanitization_fail_count": 193,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 281,
-    "sanitization_revalidated_count": 263,
+    "sanitization_resolved_count": 282,
+    "sanitization_revalidated_count": 264,
     "next_family": {
-      "name": "Tochka Annihilation Battle",
+      "name": "Knowing the Fate of My Father",
       "range": [
-        471,
-        475
+        476,
+        477
       ]
     },
     "confirmed_failures": [
@@ -27970,6 +27993,34 @@
         "family": "The Prelude to a Counterattack",
         "finding": "Cycle 2 Phase 1 FAIL: Hell Tree seeds tearing Pigi's internal organs and blood clots rising into his mouth are generalized to passing through organs and a mouthful of blood.",
         "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+      },
+      {
+        "chapter": 472,
+        "gate": "sanitization",
+        "family": "Tochka Annihilation Battle",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says every Beelzebub swing sends more than a dozen heads flying; the draft generalizes this to merely 'more heads.'",
+        "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+      },
+      {
+        "chapter": 473,
+        "gate": "sanitization",
+        "family": "Tochka Annihilation Battle",
+        "finding": "Cycle 2 Phase 1 FAIL: Vikir source-explicitly splits a giant Poison Human's head like a watermelon; the draft omits the action/image.",
+        "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+      },
+      {
+        "chapter": 474,
+        "gate": "sanitization",
+        "family": "Tochka Annihilation Battle",
+        "finding": "Cycle 2 Phase 1 FAIL: Juskin's destruction occurs under a source-explicit rain of flesh and blood; the draft reduces this to scattered blood, flesh, and bone.",
+        "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+      },
+      {
+        "chapter": 475,
+        "gate": "sanitization",
+        "family": "Tochka Annihilation Battle",
+        "finding": "Cycle 2 Phase 1 FAIL: the source has Vikir tearing/ripping Flauros's heart after severing both arms; the draft softens this to driving Beelzebub toward the exposed chest.",
+        "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
       }
     ],
     "wave_a": {
@@ -29308,6 +29359,34 @@
       "family": "The Prelude to a Counterattack",
       "finding": "Cycle 2 Phase 1 FAIL: Hell Tree seeds tearing Pigi's internal organs and blood clots rising into his mouth are generalized to passing through organs and a mouthful of blood.",
       "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 472,
+      "gate": "sanitization",
+      "family": "Tochka Annihilation Battle",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says every Beelzebub swing sends more than a dozen heads flying; the draft generalizes this to merely 'more heads.'",
+      "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 473,
+      "gate": "sanitization",
+      "family": "Tochka Annihilation Battle",
+      "finding": "Cycle 2 Phase 1 FAIL: Vikir source-explicitly splits a giant Poison Human's head like a watermelon; the draft omits the action/image.",
+      "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 474,
+      "gate": "sanitization",
+      "family": "Tochka Annihilation Battle",
+      "finding": "Cycle 2 Phase 1 FAIL: Juskin's destruction occurs under a source-explicit rain of flesh and blood; the draft reduces this to scattered blood, flesh, and bone.",
+      "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 475,
+      "gate": "sanitization",
+      "family": "Tochka Annihilation Battle",
+      "finding": "Cycle 2 Phase 1 FAIL: the source has Vikir tearing/ripping Flauros's heart after severing both arms; the draft softens this to driving Beelzebub toward the exposed chest.",
+      "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
     }
   ],
   "status_vocabulary": {
