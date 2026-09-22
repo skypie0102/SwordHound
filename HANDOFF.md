@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 0 / 500  
+**Cycle-2 completeness revalidated:** 11 / 500 — 11 PASS / 0 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
 **Confirmed Cycle-2 failures:** 200 sanitization-fidelity failures across the completed Phase-1 sweep; remediation deferred to Phase 4
-**Current audit stage:** Phase 1 COMPLETE; Phase 2 completeness revalidation starts at `Hellhound (1–3)`
+**Current audit stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 11; next `The Gluttonous Flies (12–13)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -115,13 +115,26 @@ Evidence:
 - `qa/cycle2-phase1-wave-e-summary.md`
 - family evidence under `qa/cycle2/sanitization/`
 
+## Phase 2 progress
+
+**Phase 2 is ACTIVE.**
+
+- completeness reviewed: **11 / 500**;
+- PASS: **11**;
+- FAIL: **0**;
+- manuscript edits during Phase-2 discovery: **0**;
+- completed families: *Hellhound (1–3)*, *The Baskerville Dog (4–7)*, *Hounds of Hell (8–11)*;
+- next family: **The Gluttonous Flies (12–13)**.
+
+Evidence is under `qa/cycle2/completeness/` and the live ledger.
+
 ## Exact next actions
 
-1. Begin **Phase 2 — full-corpus completeness revalidation** at **Hellhound (1–3)**.
-2. Review every chapter directly against the complete Chinese source in contiguous title-family order; historical PASS/acceptance remains evidence only.
-3. Record completeness independently from sanitization. Do not change the 200 Phase-1 FAIL dispositions merely because a chapter passes completeness.
+1. Continue Phase 2 with **The Gluttonous Flies (12–13)**.
+2. Review every chapter directly against the complete Chinese source in contiguous title-family order; do not repeat Chapters 1–11.
+3. Record completeness independently from sanitization; the 200 Phase-1 FAIL dispositions remain intact.
 4. Keep all manuscript remediation deferred to Phase 4; Phase 2 is discovery/evidence only.
-5. After meaningful Phase-2 checkpoints, synchronize the ledger, HANDOFF.md, PROJECT_STATE.md, PROGRESS.md, and the Cycle-2 audit record.
+5. Synchronize live state files at meaningful completeness checkpoints.
 6. Keep EPUB assembly blocked.
 
 The next agent should resume with **Phase 2 Chapter 1**, not repeat Phase 1 and not begin Phase-4 repairs.
