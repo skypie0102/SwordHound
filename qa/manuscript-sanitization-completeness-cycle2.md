@@ -6,17 +6,17 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 260; next `The Inverted Pentagram (261–263)`
+**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 306; next `Hell Tree (307–313)`
 
 ## Progress
 
 ### Phase 1 — ACTIVE
 
-**Overall through Chapter 260**
+**Overall through Chapter 306**
 
-- reviewed: **260 / 500**
-- PASS: **164**
-- FAIL: **78**
+- reviewed: **306 / 500**
+- PASS: **184**
+- FAIL: **104**
 - SAFETY-LIMITED-REVIEWED: **18**
 - manuscript edits during discovery: **0**
 - all failures remain deferred to Phase 4
@@ -30,23 +30,23 @@
 
 **Wave B family-complete checkpoint (Chapters 101–202): COMPLETE**
 
-The nominal Wave-B band is Chapters 101–200. Review continued through Chapter 202 because *The Corpse Queen* spans Chapters 198–202 and title families are not split merely to hit a round-number checkpoint.
-
 - reviewed: **102**
 - PASS: **70**
 - FAIL: **32**
 - SAFETY-LIMITED-REVIEWED: **0**
 - evidence: `qa/cycle2-phase1-wave-b-summary.md`
 
-**Wave C interim (Chapters 203–260): ACTIVE**
+**Wave C family-complete checkpoint (Chapters 203–306): COMPLETE**
 
-- reviewed so far: **58**
-- PASS: **32**
-- FAIL: **26**
+Wave C begins at Chapter 203 because Wave B finished *The Corpse Queen (198–202)* and extends through Chapter 306 because *The Age of the Warmonger (299–306)* crosses the nominal Chapter-300 boundary.
+
+- reviewed: **104**
+- PASS: **52**
+- FAIL: **52**
 - SAFETY-LIMITED-REVIEWED: **0**
-- live evidence: `qa/cycle2/sanitization/`
+- evidence: `qa/cycle2-phase1-wave-c-summary.md`
 
-**Next:** **The Inverted Pentagram (261–263)**.
+**Next:** Wave D resumes with **Hell Tree (307–313)**.
 
 ### Phase 0 — COMPLETE
 
@@ -303,7 +303,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 1 at **The Inverted Pentagram (261–263)**.
-2. Continue in target/family order without repeating Chapters 1–260.
-3. Keep all 78 discovered sanitization failures queued for Phase 4; do not patch manuscript text during Phase-1 discovery.
+1. Continue Phase 1 at **Hell Tree (307–313)**.
+2. Continue in target/family order without repeating Chapters 1–306.
+3. Keep all 104 discovered sanitization failures queued for Phase 4; do not patch manuscript text during Phase-1 discovery.
 4. Keep HANDOFF.md, PROJECT_STATE.md, PROGRESS.md, this Cycle-2 audit record, and the master ledger synchronized after meaningful checkpoints.
