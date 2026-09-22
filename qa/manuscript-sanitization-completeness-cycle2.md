@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 418; next `Goodbye, Nouvelle Vague (419–421)`
+**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 433; next `The Returned Hound (434–436)`
 
 ## Progress
 
@@ -14,9 +14,9 @@
 
 **Overall through Chapter 365**
 
-- reviewed: **418 / 500**
-- PASS: **239**
-- FAIL: **161**
+- reviewed: **433 / 500**
+- PASS: **245**
+- FAIL: **170**
 - SAFETY-LIMITED-REVIEWED: **18**
 - manuscript edits during discovery: **0**
 - all failures remain deferred to Phase 4
@@ -54,7 +54,7 @@ Wave C begins at Chapter 203 because Wave B finished *The Corpse Queen (198–20
 - SAFETY-LIMITED-REVIEWED: **0**
 - manuscript edits during discovery: **0**
 
-**Next:** Wave E continues with **Goodbye, Nouvelle Vague (419–421)**.
+**Next:** Wave E continues with **The Returned Hound (434–436)**.
 
 ### Phase 0 — COMPLETE
 
@@ -311,7 +311,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 1 at **Goodbye, Nouvelle Vague (419–421)**.
-2. Continue in target/family order without repeating Chapters 1–418.
+1. Continue Phase 1 at **The Returned Hound (434–436)**.
+2. Continue in target/family order without repeating Chapters 1–433.
 3. Keep all discovered sanitization failures queued for Phase 4; do not patch manuscript text during Phase-1 discovery.
 4. Keep HANDOFF.md, PROJECT_STATE.md, PROGRESS.md, the Cycle-2 audit record, and the master ledger synchronized after meaningful checkpoints.
