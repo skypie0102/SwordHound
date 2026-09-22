@@ -4,14 +4,14 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 306 / 500
-**Cycle-2 sanitization PASS:** 184 / 500
-**Cycle-2 sanitization FAIL:** 104 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 365 / 500
+**Cycle-2 sanitization PASS:** 215 / 500
+**Cycle-2 sanitization FAIL:** 132 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 104 sanitization-fidelity failures through Chapter 306; remediation deferred to Phase 4
-**Current audit stage:** Phase 1 ACTIVE — Wave-C family-complete checkpoint through Chapter 306; next `Hell Tree (307–313)`
+**Confirmed Cycle-2 failures:** 132 sanitization-fidelity failures through Chapter 365; remediation deferred to Phase 4
+**Current audit stage:** Phase 1 ACTIVE — Wave D in progress through Chapter 365; next `The Underground Extension Construction (366–368)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -124,13 +124,26 @@ Wave B ended at Chapter 202 because *The Corpse Queen* crossed the nominal Wave-
 
 Evidence: `qa/cycle2-phase1-wave-c-summary.md` plus family evidence under `qa/cycle2/sanitization/`.
 
+**Wave D in progress (Chapters 307–365 reviewed so far).**
+
+- reviewed in Wave D so far: **59**;
+- PASS: **31**;
+- FAIL: **28**;
+- SAFETY-LIMITED-REVIEWED: **0**;
+- manuscript edits during discovery: **0**;
+- overall Phase 1: **365 / 500 reviewed — 215 PASS / 132 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
+- all **132** failures remain queued for Phase 4.
+
+Evidence: family review files under `qa/cycle2/sanitization/` and the live master ledger.
+
+
 ## Exact next actions
 
-1. Continue Phase 1 with **Hell Tree (307–313)**.
-2. Continue chronologically through Wave D without repeating Chapters 1–306 or splitting contiguous title families.
-3. Do not remediate the **104** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
+1. Continue Phase 1 with **The Underground Extension Construction (366–368)**.
+2. Continue chronologically through Wave D without repeating Chapters 1–365 or splitting contiguous title families.
+3. Do not remediate the **132** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
 4. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
 5. Keep the ledger and live status docs synchronized at meaningful checkpoints.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume at **Chapter 307**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
+The next agent should resume at **Chapter 366**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
