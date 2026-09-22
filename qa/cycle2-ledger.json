@@ -3970,14 +3970,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
+      "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 29,
@@ -4018,14 +4021,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
+      "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 30,
@@ -4066,14 +4072,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
+      "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 31,
@@ -4114,14 +4123,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
+      "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 32,
@@ -29683,14 +29695,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 27,
-    "completeness_pass_count": 25,
+    "completeness_reviewed_count": 31,
+    "completeness_pass_count": 29,
     "completeness_fail_count": 2,
     "next_family": {
-      "name": "Special Laws of Vikir",
+      "name": "The Social Club",
       "range": [
-        28,
-        31
+        32,
+        34
       ]
     },
     "confirmed_failures": [
