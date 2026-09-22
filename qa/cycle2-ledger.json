@@ -4737,14 +4737,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable."
+        "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
+      "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 44,
@@ -4785,14 +4788,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
+      "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 45,
@@ -4833,14 +4839,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable."
+        "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
+      "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 46,
@@ -29728,14 +29737,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 42,
-    "completeness_pass_count": 36,
+    "completeness_reviewed_count": 45,
+    "completeness_pass_count": 39,
     "completeness_fail_count": 6,
     "next_family": {
-      "name": "The Fiancée",
+      "name": "The Husband Hunt",
       "range": [
-        43,
-        45
+        46,
+        51
       ]
     },
     "confirmed_failures": [
