@@ -6,17 +6,17 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 433; next `The Returned Hound (434–436)`
+**Current stage:** Phase 1 ACTIVE — direct sanitization review complete through Chapter 453; next `Infiltration of the Water Source (454–464)`
 
 ## Progress
 
 ### Phase 1 — ACTIVE
 
-**Overall through Chapter 365**
+**Overall through Chapter 453**
 
-- reviewed: **433 / 500**
-- PASS: **245**
-- FAIL: **170**
+- reviewed: **453 / 500**
+- PASS: **256**
+- FAIL: **179**
 - SAFETY-LIMITED-REVIEWED: **18**
 - manuscript edits during discovery: **0**
 - all failures remain deferred to Phase 4
@@ -46,15 +46,23 @@ Wave C begins at Chapter 203 because Wave B finished *The Corpse Queen (198–20
 - SAFETY-LIMITED-REVIEWED: **0**
 - evidence: `qa/cycle2-phase1-wave-c-summary.md`
 
-**Wave D in progress (Chapters 307–365 reviewed so far)**
+**Wave D (Chapters 307–402): COMPLETE**
 
-- reviewed: **59**
-- PASS: **31**
-- FAIL: **28**
+- reviewed: **96**
+- PASS: **47**
+- FAIL: **49**
+- SAFETY-LIMITED-REVIEWED: **0**
+- evidence: `qa/cycle2-phase1-wave-d-summary.md`
+
+**Wave E in progress (Chapters 403–453 reviewed so far)**
+
+- reviewed: **51**
+- PASS: **25**
+- FAIL: **26**
 - SAFETY-LIMITED-REVIEWED: **0**
 - manuscript edits during discovery: **0**
 
-**Next:** Wave E continues with **The Returned Hound (434–436)**.
+**Next:** continue with **Infiltration of the Water Source (454–464)**.
 
 ### Phase 0 — COMPLETE
 
@@ -311,7 +319,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 1 at **The Returned Hound (434–436)**.
-2. Continue in target/family order without repeating Chapters 1–433.
+1. Continue Phase 1 at **Infiltration of the Water Source (454–464)**.
+2. Continue in target/family order without repeating Chapters 1–453.
 3. Keep all discovered sanitization failures queued for Phase 4; do not patch manuscript text during Phase-1 discovery.
 4. Keep HANDOFF.md, PROJECT_STATE.md, PROGRESS.md, the Cycle-2 audit record, and the master ledger synchronized after meaningful checkpoints.
