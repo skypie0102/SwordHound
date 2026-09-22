@@ -4327,14 +4327,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: Audience reaction wording was intensified beyond the Chinese source in two places."
+        "Cycle 2 Phase 1 sanitization FAIL: Audience reaction wording was intensified beyond the Chinese source in two places.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
+      "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 36,
@@ -4375,14 +4378,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized."
+        "Cycle 2 Phase 1 sanitization FAIL: A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
+        "Cycle 2 Phase 2 FAIL: a source-present retaliatory body-directed command is replaced by generic 'Turn around,' and the direct narration that onlookers witness a man being torn apart alive is omitted."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
+      "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 37,
@@ -4423,14 +4429,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: Explicit internal-organ gore was generalized to a nonspecific cutting description."
+        "Cycle 2 Phase 1 sanitization FAIL: Explicit internal-organ gore was generalized to a nonspecific cutting description.",
+        "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'"
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
+      "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 38,
@@ -29704,14 +29713,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 34,
-    "completeness_pass_count": 32,
-    "completeness_fail_count": 2,
+    "completeness_reviewed_count": 37,
+    "completeness_pass_count": 33,
+    "completeness_fail_count": 4,
     "next_family": {
-      "name": "Slave Auction",
+      "name": "Sponsored",
       "range": [
-        35,
-        37
+        38,
+        39
       ]
     },
     "confirmed_failures": [
@@ -29728,6 +29737,20 @@
         "family": "Camus Morgue",
         "finding": "Cycle 2 Phase 2 FAIL: the fire/clothing accident omits source-present neutral bodily-state details, including Camus's tears/nasal discharge and Vikir's explicit post-cloak underclothes/bare-bodied state.",
         "evidence": "qa/cycle2/completeness/camus-morgue-0020-0025.md"
+      },
+      {
+        "chapter": 36,
+        "gate": "completeness",
+        "family": "Slave Auction",
+        "finding": "Cycle 2 Phase 2 FAIL: a source-present retaliatory body-directed command is replaced by generic 'Turn around,' and the direct narration that onlookers witness a man being torn apart alive is omitted.",
+        "evidence": "qa/cycle2/completeness/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 37,
+        "gate": "completeness",
+        "family": "Slave Auction",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'",
+        "evidence": "qa/cycle2/completeness/slave-auction-0035-0037.md"
       }
     ]
   }
