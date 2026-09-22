@@ -2418,9 +2418,11 @@
         476,
         477
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/knowing-fate-father-0476-0477.md",
+      "sanitization_reviewed_date": "2026-09-22"
     },
     {
       "index": 113,
@@ -2431,9 +2433,14 @@
       "chapters": [
         478
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_failures": [
+        478
+      ],
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0478.md",
+      "sanitization_reviewed_date": "2026-09-22"
     },
     {
       "index": 114,
@@ -25508,12 +25515,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/knowing-fate-father-0476-0477.md"
     },
     {
       "chapter": 477,
@@ -25553,12 +25563,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/knowing-fate-father-0476-0477.md"
     },
     {
       "chapter": 478,
@@ -25598,12 +25611,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says the Oxbear's tens-of-tons strike completely shatters Flauros's skull; the draft softens this to 'skull collapsed.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/tochka-annihilation-0478.md"
     },
     {
       "chapter": 479,
@@ -26657,17 +26673,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 475,
-    "sanitization_pass_count": 264,
-    "sanitization_fail_count": 193,
+    "sanitization_reviewed_count": 478,
+    "sanitization_pass_count": 266,
+    "sanitization_fail_count": 194,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 282,
-    "sanitization_revalidated_count": 264,
+    "sanitization_resolved_count": 284,
+    "sanitization_revalidated_count": 266,
     "next_family": {
-      "name": "Knowing the Fate of My Father",
+      "name": "Downtown Naval Warfare",
       "range": [
-        476,
-        477
+        479,
+        482
       ]
     },
     "confirmed_failures": [
@@ -28021,6 +28037,13 @@
         "family": "Tochka Annihilation Battle",
         "finding": "Cycle 2 Phase 1 FAIL: the source has Vikir tearing/ripping Flauros's heart after severing both arms; the draft softens this to driving Beelzebub toward the exposed chest.",
         "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+      },
+      {
+        "chapter": 478,
+        "gate": "sanitization",
+        "family": "Tochka Annihilation Battle",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says the Oxbear's tens-of-tons strike completely shatters Flauros's skull; the draft softens this to 'skull collapsed.'",
+        "evidence": "qa/cycle2/sanitization/tochka-annihilation-0478.md"
       }
     ],
     "wave_a": {
@@ -29387,6 +29410,13 @@
       "family": "Tochka Annihilation Battle",
       "finding": "Cycle 2 Phase 1 FAIL: the source has Vikir tearing/ripping Flauros's heart after severing both arms; the draft softens this to driving Beelzebub toward the exposed chest.",
       "evidence": "qa/cycle2/sanitization/tochka-annihilation-0471-0475.md"
+    },
+    {
+      "chapter": 478,
+      "gate": "sanitization",
+      "family": "Tochka Annihilation Battle",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says the Oxbear's tens-of-tons strike completely shatters Flauros's skull; the draft softens this to 'skull collapsed.'",
+      "evidence": "qa/cycle2/sanitization/tochka-annihilation-0478.md"
     }
   ],
   "status_vocabulary": {
