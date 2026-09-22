@@ -1712,9 +1712,15 @@
         341,
         342
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        341,
+        342
+      ]
     },
     {
       "index": 82,
@@ -18799,12 +18805,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dolores tightly hugging Choco into the bath and the weaker students being sacrificed to the Daylily explicitly as food are softened/generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md"
     },
     {
       "chapter": 342,
@@ -18844,12 +18853,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Dolores's source-explicit 'soulmate' conception of the Night Hound/Vikir and the narrator's peeping-tom/voyeur framing during the bath punch are softened/omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md"
     },
     {
       "chapter": 343,
@@ -26053,17 +26065,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 340,
+    "sanitization_reviewed_count": 342,
     "sanitization_pass_count": 204,
-    "sanitization_fail_count": 118,
+    "sanitization_fail_count": 120,
     "sanitization_safety_limited_count": 18,
     "sanitization_resolved_count": 222,
     "sanitization_revalidated_count": 204,
     "next_family": {
-      "name": "Private Life",
+      "name": "Ballak",
       "range": [
-        341,
-        342
+        343,
+        347
       ]
     },
     "confirmed_failures": [
@@ -26892,6 +26904,20 @@
         "family": "Trap",
         "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes.",
         "evidence": "qa/cycle2/sanitization/trap-0339-0340.md"
+      },
+      {
+        "chapter": 341,
+        "gate": "sanitization",
+        "family": "Private Life",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores tightly hugging Choco into the bath and the weaker students being sacrificed to the Daylily explicitly as food are softened/generalized.",
+        "evidence": "qa/cycle2/sanitization/private-life-0341-0342.md"
+      },
+      {
+        "chapter": 342,
+        "gate": "sanitization",
+        "family": "Private Life",
+        "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit 'soulmate' conception of the Night Hound/Vikir and the narrator's peeping-tom/voyeur framing during the bath punch are softened/omitted.",
+        "evidence": "qa/cycle2/sanitization/private-life-0341-0342.md"
       }
     ],
     "wave_a": {
@@ -27733,6 +27759,20 @@
       "family": "Trap",
       "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes.",
       "evidence": "qa/cycle2/sanitization/trap-0339-0340.md"
+    },
+    {
+      "chapter": 341,
+      "gate": "sanitization",
+      "family": "Private Life",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores tightly hugging Choco into the bath and the weaker students being sacrificed to the Daylily explicitly as food are softened/generalized.",
+      "evidence": "qa/cycle2/sanitization/private-life-0341-0342.md"
+    },
+    {
+      "chapter": 342,
+      "gate": "sanitization",
+      "family": "Private Life",
+      "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit 'soulmate' conception of the Night Hound/Vikir and the narrator's peeping-tom/voyeur framing during the bath punch are softened/omitted.",
+      "evidence": "qa/cycle2/sanitization/private-life-0341-0342.md"
     }
   ],
   "status_vocabulary": {
