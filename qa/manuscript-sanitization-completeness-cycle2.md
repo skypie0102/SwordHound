@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 11; next `The Gluttonous Flies (12–13)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 31; next `The Social Club (32–34)`
 
 ## Progress
 
@@ -32,13 +32,15 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **11 / 500**
-- PASS: **11**
-- FAIL: **0**
+- completeness reviewed: **31 / 500**
+- PASS: **29**
+- FAIL: **2** — Chapters **22 and 24**
+- both failures overlap existing Phase-1 sanitization failures
 - manuscript edits during discovery: **0**
-- next family: **The Gluttonous Flies (12–13)**
+- next family: **The Social Club (32–34)**
 
-Evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
+Checkpoint: `qa/cycle2-phase2-checkpoint-0031.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
+
 
 ### Phase 0 — COMPLETE
 
@@ -295,8 +297,8 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 2 at **The Gluttonous Flies (12–13)**.
-2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–11.
+1. Continue Phase 2 at **The Social Club (32–34)**.
+2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–31.
 3. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
 4. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
 5. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
