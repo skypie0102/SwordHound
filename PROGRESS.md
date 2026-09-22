@@ -1,5 +1,22 @@
 # Reconstruction Progress
 
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 433
+
+Direct Chinese-primary sanitization review has reached **Chapter 433**.
+
+- overall reviewed: **433 / 500**;
+- PASS: **245**;
+- FAIL: **170**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave E segment 403–433: **14 PASS / 17 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **170** failures remain queued for Phase 4.
+
+Recent completed families: **Jailbreaker (403–408)**, **End game (409–418)**, **Goodbye, Nouvelle Vague (419–421)**, **How to Become a Wandering Knight (422–424)**, **The Night Walkers (425–429)**, and **The Lion King (430–433)**.
+
+Next Phase-1 family: **The Returned Hound (434–436)**.
+
+
 ## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 418
 
 Direct Chinese-primary sanitization review has reached **Chapter 418**.
