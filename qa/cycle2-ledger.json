@@ -2290,9 +2290,17 @@
         448,
         449
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        444,
+        445,
+        447,
+        449
+      ]
     },
     {
       "index": 108,
@@ -23788,12 +23796,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 442,
@@ -23833,12 +23844,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 443,
@@ -23878,12 +23892,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 444,
@@ -23923,12 +23940,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Bianca's source-explicit kiss on Tudor's lips is generalized to an unspecified kiss, and beheaded monsters with dripping blood on the cleared escape route are reduced to generic dead monsters."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 445,
@@ -23968,12 +23988,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: a source-explicit snot/nasal-discharge trail is omitted, and Madeline's grotesque plan involving consuming/enjoying offspring made from her own blood/flesh is generalized to 'Children. Fresh blood. Fresh flesh.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 446,
@@ -24013,12 +24036,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 447,
@@ -24058,12 +24084,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Daylily meat-patty/minced-body imagery, Isolde's internal-organ spill after skull destruction, and body-fragment handling are materially generalized."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 448,
@@ -24103,12 +24132,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 449,
@@ -24148,12 +24180,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Roderick's source-explicit broken-internal-organ condition is generalized to a body merely 'falling apart.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 450,
@@ -26512,17 +26547,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 440,
-    "sanitization_pass_count": 249,
-    "sanitization_fail_count": 173,
+    "sanitization_reviewed_count": 449,
+    "sanitization_pass_count": 254,
+    "sanitization_fail_count": 177,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 267,
-    "sanitization_revalidated_count": 249,
+    "sanitization_resolved_count": 272,
+    "sanitization_revalidated_count": 254,
     "next_family": {
-      "name": "The Fall of Usher",
+      "name": "Declaration of War",
       "range": [
-        441,
-        449
+        450,
+        453
       ]
     },
     "confirmed_failures": [
@@ -27736,6 +27771,34 @@
         "family": "Dreaming the Impossible Dream",
         "finding": "Cycle 2 Phase 1 FAIL: the source's explicit image of Orca smashing approaching assassins into meat patties with one blow is generalized to merely crushing them.",
         "evidence": "qa/cycle2/sanitization/dreaming-impossible-dream-0437-0440.md"
+      },
+      {
+        "chapter": 444,
+        "gate": "sanitization",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 1 FAIL: Bianca's source-explicit kiss on Tudor's lips is generalized to an unspecified kiss, and beheaded monsters with dripping blood on the cleared escape route are reduced to generic dead monsters.",
+        "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 445,
+        "gate": "sanitization",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 1 FAIL: a source-explicit snot/nasal-discharge trail is omitted, and Madeline's grotesque plan involving consuming/enjoying offspring made from her own blood/flesh is generalized to 'Children. Fresh blood. Fresh flesh.'",
+        "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 447,
+        "gate": "sanitization",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 1 FAIL: Daylily meat-patty/minced-body imagery, Isolde's internal-organ spill after skull destruction, and body-fragment handling are materially generalized.",
+        "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 449,
+        "gate": "sanitization",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 1 FAIL: Roderick's source-explicit broken-internal-organ condition is generalized to a body merely 'falling apart.'",
+        "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
       }
     ],
     "wave_a": {
@@ -28962,6 +29025,34 @@
       "family": "Dreaming the Impossible Dream",
       "finding": "Cycle 2 Phase 1 FAIL: the source's explicit image of Orca smashing approaching assassins into meat patties with one blow is generalized to merely crushing them.",
       "evidence": "qa/cycle2/sanitization/dreaming-impossible-dream-0437-0440.md"
+    },
+    {
+      "chapter": 444,
+      "gate": "sanitization",
+      "family": "The Fall of Usher",
+      "finding": "Cycle 2 Phase 1 FAIL: Bianca's source-explicit kiss on Tudor's lips is generalized to an unspecified kiss, and beheaded monsters with dripping blood on the cleared escape route are reduced to generic dead monsters.",
+      "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 445,
+      "gate": "sanitization",
+      "family": "The Fall of Usher",
+      "finding": "Cycle 2 Phase 1 FAIL: a source-explicit snot/nasal-discharge trail is omitted, and Madeline's grotesque plan involving consuming/enjoying offspring made from her own blood/flesh is generalized to 'Children. Fresh blood. Fresh flesh.'",
+      "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 447,
+      "gate": "sanitization",
+      "family": "The Fall of Usher",
+      "finding": "Cycle 2 Phase 1 FAIL: Daylily meat-patty/minced-body imagery, Isolde's internal-organ spill after skull destruction, and body-fragment handling are materially generalized.",
+      "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+    },
+    {
+      "chapter": 449,
+      "gate": "sanitization",
+      "family": "The Fall of Usher",
+      "finding": "Cycle 2 Phase 1 FAIL: Roderick's source-explicit broken-internal-organ condition is generalized to a body merely 'falling apart.'",
+      "evidence": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
     }
   ],
   "status_vocabulary": {
