@@ -2343,9 +2343,19 @@
         463,
         464
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        455,
+        456,
+        459,
+        461,
+        463,
+        464
+      ]
     },
     {
       "index": 110,
@@ -24426,12 +24436,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 455,
@@ -24471,12 +24484,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says no intact limb remains among the explosion shrapnel/debris; the draft stops at metal fragments tearing through Poison Humans."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 456,
@@ -24516,12 +24532,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Sade's source-explicit shredding of surrounding Poison Humans into hundreds of meat pieces is generalized to chunks of meat."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 457,
@@ -24561,12 +24580,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 458,
@@ -24606,12 +24628,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 459,
@@ -24651,12 +24676,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the first doppelganger's source-explicit upper half rolling on the ground like garbage is omitted."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 460,
@@ -24696,12 +24724,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 461,
@@ -24741,12 +24772,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Camus's source-explicit near-half-naked and physically collapsing state is softened to exposed shoulders and weakened knees."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 462,
@@ -24786,12 +24820,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 463,
@@ -24831,12 +24868,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: two mutants becoming flying meat pieces and the resulting flesh-and-blood rain are generalized to shredded/impaled bodies with falling blood only."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 464,
@@ -24876,12 +24916,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit shredding of Poison Humans into meat slices/pieces is generalized to carving through them."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 465,
@@ -26565,17 +26608,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 453,
-    "sanitization_pass_count": 256,
-    "sanitization_fail_count": 179,
+    "sanitization_reviewed_count": 464,
+    "sanitization_pass_count": 261,
+    "sanitization_fail_count": 185,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 274,
-    "sanitization_revalidated_count": 256,
+    "sanitization_resolved_count": 279,
+    "sanitization_revalidated_count": 261,
     "next_family": {
-      "name": "Infiltration of the Water Source",
+      "name": "The Prelude to a Counterattack",
       "range": [
-        454,
-        464
+        465,
+        470
       ]
     },
     "confirmed_failures": [
@@ -27831,6 +27874,48 @@
         "family": "Declaration of War",
         "finding": "Cycle 2 Phase 1 FAIL: the source explicitly describes a burnt-corpse stench spreading after Vikir ignites the Poison Human bodies; the draft omits the smell.",
         "evidence": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md"
+      },
+      {
+        "chapter": 455,
+        "gate": "sanitization",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says no intact limb remains among the explosion shrapnel/debris; the draft stops at metal fragments tearing through Poison Humans.",
+        "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 456,
+        "gate": "sanitization",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 1 FAIL: Sade's source-explicit shredding of surrounding Poison Humans into hundreds of meat pieces is generalized to chunks of meat.",
+        "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 459,
+        "gate": "sanitization",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 1 FAIL: the first doppelganger's source-explicit upper half rolling on the ground like garbage is omitted.",
+        "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 461,
+        "gate": "sanitization",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 1 FAIL: Camus's source-explicit near-half-naked and physically collapsing state is softened to exposed shoulders and weakened knees.",
+        "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 463,
+        "gate": "sanitization",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 1 FAIL: two mutants becoming flying meat pieces and the resulting flesh-and-blood rain are generalized to shredded/impaled bodies with falling blood only.",
+        "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 464,
+        "gate": "sanitization",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit shredding of Poison Humans into meat slices/pieces is generalized to carving through them.",
+        "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
       }
     ],
     "wave_a": {
@@ -29099,6 +29184,48 @@
       "family": "Declaration of War",
       "finding": "Cycle 2 Phase 1 FAIL: the source explicitly describes a burnt-corpse stench spreading after Vikir ignites the Poison Human bodies; the draft omits the smell.",
       "evidence": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md"
+    },
+    {
+      "chapter": 455,
+      "gate": "sanitization",
+      "family": "Infiltration of the Water Source",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says no intact limb remains among the explosion shrapnel/debris; the draft stops at metal fragments tearing through Poison Humans.",
+      "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 456,
+      "gate": "sanitization",
+      "family": "Infiltration of the Water Source",
+      "finding": "Cycle 2 Phase 1 FAIL: Sade's source-explicit shredding of surrounding Poison Humans into hundreds of meat pieces is generalized to chunks of meat.",
+      "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 459,
+      "gate": "sanitization",
+      "family": "Infiltration of the Water Source",
+      "finding": "Cycle 2 Phase 1 FAIL: the first doppelganger's source-explicit upper half rolling on the ground like garbage is omitted.",
+      "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 461,
+      "gate": "sanitization",
+      "family": "Infiltration of the Water Source",
+      "finding": "Cycle 2 Phase 1 FAIL: Camus's source-explicit near-half-naked and physically collapsing state is softened to exposed shoulders and weakened knees.",
+      "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 463,
+      "gate": "sanitization",
+      "family": "Infiltration of the Water Source",
+      "finding": "Cycle 2 Phase 1 FAIL: two mutants becoming flying meat pieces and the resulting flesh-and-blood rain are generalized to shredded/impaled bodies with falling blood only.",
+      "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 464,
+      "gate": "sanitization",
+      "family": "Infiltration of the Water Source",
+      "finding": "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit shredding of Poison Humans into meat slices/pieces is generalized to carving through them.",
+      "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
     }
   ],
   "status_vocabulary": {
