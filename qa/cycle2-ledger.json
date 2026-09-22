@@ -3256,14 +3256,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
+      "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 15,
@@ -3304,14 +3307,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0001-0015.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
+      "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 16,
@@ -3352,14 +3358,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
+      "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 17,
@@ -3400,14 +3409,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0016-0030.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
+      "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 18,
@@ -29641,14 +29653,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 13,
-    "completeness_pass_count": 13,
+    "completeness_reviewed_count": 17,
+    "completeness_pass_count": 17,
     "completeness_fail_count": 0,
     "next_family": {
-      "name": "Solitary",
+      "name": "Bared Teeth",
       "range": [
-        14,
-        17
+        18,
+        19
       ]
     },
     "confirmed_failures": []
