@@ -2154,9 +2154,14 @@
         420,
         421
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        421
+      ]
     },
     {
       "index": 102,
@@ -22696,12 +22701,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
     },
     {
       "chapter": 420,
@@ -22741,12 +22749,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
     },
     {
       "chapter": 421,
@@ -22786,12 +22797,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's explicit ascent-pressure image of the body being turned alive into meat paste is omitted, despite surrounding injury mechanics being retained."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
     },
     {
       "chapter": 422,
@@ -26410,17 +26424,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 418,
-    "sanitization_pass_count": 239,
-    "sanitization_fail_count": 161,
+    "sanitization_reviewed_count": 421,
+    "sanitization_pass_count": 241,
+    "sanitization_fail_count": 162,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 257,
-    "sanitization_revalidated_count": 239,
+    "sanitization_resolved_count": 259,
+    "sanitization_revalidated_count": 241,
     "next_family": {
-      "name": "Goodbye, Nouvelle Vague",
+      "name": "How to Become a Wandering Knight",
       "range": [
-        419,
-        421
+        422,
+        424
       ]
     },
     "confirmed_failures": [
@@ -27550,6 +27564,13 @@
         "family": "End game",
         "finding": "Cycle 2 Phase 1 FAIL: the source's old-war death scale of hundreds of thousands dying every day is reduced to tens of thousands dying in a day.",
         "evidence": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      },
+      {
+        "chapter": 421,
+        "gate": "sanitization",
+        "family": "Goodbye, Nouvelle Vague",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's explicit ascent-pressure image of the body being turned alive into meat paste is omitted, despite surrounding injury mechanics being retained.",
+        "evidence": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
       }
     ],
     "wave_a": {
@@ -28692,6 +28713,13 @@
       "family": "End game",
       "finding": "Cycle 2 Phase 1 FAIL: the source's old-war death scale of hundreds of thousands dying every day is reduced to tens of thousands dying in a day.",
       "evidence": "qa/cycle2/sanitization/end-game-0409-0418.md"
+    },
+    {
+      "chapter": 421,
+      "gate": "sanitization",
+      "family": "Goodbye, Nouvelle Vague",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's explicit ascent-pressure image of the body being turned alive into meat paste is omitted, despite surrounding injury mechanics being retained.",
+      "evidence": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
     }
   ],
   "status_vocabulary": {
