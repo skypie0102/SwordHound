@@ -1,5 +1,22 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 1 COMPLETE across Chapters 1–500
+
+Direct Chinese-primary sanitization review is complete for the entire target corpus.
+
+- reviewed: **500 / 500**;
+- PASS: **282**;
+- FAIL: **200**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave E operational scope 403–500: **51 PASS / 47 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **200** FAIL chapters remain queued for Phase 4.
+
+Phase-1 evidence is consolidated in `qa/cycle2-phase1-summary.md`; Wave-E evidence is in `qa/cycle2-phase1-wave-e-summary.md`.
+
+Next audit gate: **Phase 2 — full-corpus completeness revalidation**, beginning with **Hellhound (1–3)**. EPUB assembly remains blocked.
+
+
 ## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 453
 
 Direct Chinese-primary sanitization review has reached **Chapter 453**.
