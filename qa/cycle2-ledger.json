@@ -4583,14 +4583,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: close-range chest stabbing softened to mere contact."
+        "Cycle 2 Phase 1 sanitization FAIL: close-range chest stabbing softened to mere contact.",
+        "Cycle 2 Phase 2 FAIL: the source says the close-range assassin lightly stabs Vikir in the chest; the draft reduces the attack itself to the dagger merely touching his chest, retaining only the resulting scratch."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
+      "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 41,
@@ -4631,14 +4634,17 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
+      "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 42,
@@ -4679,15 +4685,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0031-0045.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Phase 2 accuracy candidate: verify exact finger-count wording in Vikir's internal remark."
+        "Phase 2 accuracy candidate: verify exact finger-count wording in Vikir's internal remark.",
+        "Cycle 2 Phase 2 FAIL: the draft retrospectively invents 'a few fingers' being lost, while source continuity establishes Lowbro's single right index finger as the severed/healed injury."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
+      "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 43,
@@ -29719,14 +29728,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 39,
-    "completeness_pass_count": 35,
-    "completeness_fail_count": 4,
+    "completeness_reviewed_count": 42,
+    "completeness_pass_count": 36,
+    "completeness_fail_count": 6,
     "next_family": {
-      "name": "Morgue's United Front",
+      "name": "The Fiancée",
       "range": [
-        40,
-        42
+        43,
+        45
       ]
     },
     "confirmed_failures": [
@@ -29757,6 +29766,20 @@
         "family": "Slave Auction",
         "finding": "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'",
         "evidence": "qa/cycle2/completeness/slave-auction-0035-0037.md"
+      },
+      {
+        "chapter": 40,
+        "gate": "completeness",
+        "family": "Morgue's United Front",
+        "finding": "Cycle 2 Phase 2 FAIL: the source says the close-range assassin lightly stabs Vikir in the chest; the draft reduces the attack itself to the dagger merely touching his chest, retaining only the resulting scratch.",
+        "evidence": "qa/cycle2/completeness/morgue-united-front-0040-0042.md"
+      },
+      {
+        "chapter": 42,
+        "gate": "completeness",
+        "family": "Morgue's United Front",
+        "finding": "Cycle 2 Phase 2 FAIL: the draft retrospectively invents 'a few fingers' being lost, while source continuity establishes Lowbro's single right index finger as the severed/healed injury.",
+        "evidence": "qa/cycle2/completeness/morgue-united-front-0040-0042.md"
       }
     ]
   }
