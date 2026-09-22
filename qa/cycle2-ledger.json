@@ -2518,9 +2518,11 @@
         494,
         495
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/day-after-apocalypse-0494-0495.md",
+      "sanitization_reviewed_date": "2026-09-23"
     },
     {
       "index": 118,
@@ -26394,12 +26396,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/day-after-apocalypse-0494-0495.md"
     },
     {
       "chapter": 495,
@@ -26444,12 +26449,15 @@
         "ratio_scope": "shared_raw_container",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/day-after-apocalypse-0494-0495.md"
     },
     {
       "chapter": 496,
@@ -26733,17 +26741,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 493,
-    "sanitization_pass_count": 276,
+    "sanitization_reviewed_count": 495,
+    "sanitization_pass_count": 278,
     "sanitization_fail_count": 199,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 294,
-    "sanitization_revalidated_count": 276,
+    "sanitization_resolved_count": 296,
+    "sanitization_revalidated_count": 278,
     "next_family": {
-      "name": "The Day After the Apocalypse",
+      "name": "Side Story",
       "range": [
-        494,
-        495
+        496,
+        500
       ]
     },
     "confirmed_failures": [
