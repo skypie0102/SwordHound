@@ -1,18 +1,18 @@
 # Project State
 
-**Checkpoint:** 2026-09-22  
+**Checkpoint:** 2026-09-23
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization reviewed:** 453 / 500
-**Sanitization PASS:** 256 / 500
-**Sanitization FAIL:** 179 / 500
+**Sanitization reviewed:** 500 / 500 — COMPLETE
+**Sanitization PASS:** 282 / 500
+**Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 0 / 500  
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 179 sanitization-fidelity failures through Chapter 453; Phase-4 remediation pending
-**Current phase:** Phase 1 active through Chapter 453; next `Infiltration of the Water Source (454–464)`
+**Confirmed new failures:** 200 sanitization-fidelity failures from completed Phase 1; Phase-4 remediation pending
+**Current phase:** Phase 1 COMPLETE; Phase 2 completeness revalidation next, starting at `Hellhound (1–3)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -36,7 +36,7 @@ Phase 0 completed successfully against opening main commit `8177e1c192cd7fcd55b0
 - 31 deterministic diagnostic files cover all 500 chapters with no gaps or overlaps.
 - No accepted manuscript/evidence content changed during baseline capture.
 
-Phase 1 began with **Hellhound (1–3)**; direct review has now advanced through Chapter 453.
+Phase 1 began with **Hellhound (1–3)** and is now complete through Chapter 500.
 
 ## Required gates
 
@@ -63,24 +63,25 @@ Historical acceptance remains evidence but is not a Cycle-2 pass.
 
 The detailed phase definitions, exit gates, and checkpoint requirements are maintained in qa/manuscript-sanitization-completeness-cycle2.md.
 
-## Active Phase-1 findings
+## Active Cycle-2 findings
 
-Wave A (Chapters 1–100): **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
+Phase 1 sanitization is **COMPLETE**:
 
-Wave B family-complete checkpoint (Chapters 101–202): **70 PASS / 32 FAIL / 0 SAFETY-LIMITED-REVIEWED**.
-
-Wave C family-complete checkpoint (Chapters 203–306): **52 PASS / 52 FAIL / 0 SAFETY-LIMITED-REVIEWED**. It begins at 203 because Wave B finished *The Corpse Queen (198–202)* and extends through 306 because *The Age of the Warmonger (299–306)* crosses the nominal Chapter-300 boundary.
-
-Overall Phase 1 now stands at **453 / 500 reviewed: 256 PASS / 179 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts have been edited during discovery. All 179 FAIL chapters are recorded in `qa/cycle2-ledger.json` and remain queued for Phase 4.
+- Chapters reviewed: **500 / 500**
+- PASS: **282**
+- FAIL: **200**
+- SAFETY-LIMITED-REVIEWED: **18**
+- manuscript edits during Phase-1 discovery: **0**
 
 Wave summaries:
 - `qa/cycle2-phase1-wave-a-summary.md`
 - `qa/cycle2-phase1-wave-b-summary.md`
 - `qa/cycle2-phase1-wave-c-summary.md`
+- `qa/cycle2-phase1-wave-d-summary.md`
+- `qa/cycle2-phase1-wave-e-summary.md`
+- consolidated summary: `qa/cycle2-phase1-summary.md`
 
-Wave D is complete through the family boundary at **Chapter 402**: **47 PASS / 49 FAIL / 0 SAFETY-LIMITED-REVIEWED** across Chapters 307–402. Evidence: `qa/cycle2-phase1-wave-d-summary.md`.
-
-Wave E is currently **51 chapters reviewed (403–453): 25 PASS / 26 FAIL / 0 SAFETY-LIMITED-REVIEWED**. Phase 1 continues at **Infiltration of the Water Source (454–464)**.
+All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4. Phase 2 now independently revalidates completeness across all 500 chapters, beginning at **Hellhound (1–3)**.
 
 ## Release gate
 
