@@ -1632,9 +1632,14 @@
         329,
         330
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        330
+      ]
     },
     {
       "index": 78,
@@ -18059,12 +18064,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 327,
@@ -18104,12 +18112,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 328,
@@ -18149,12 +18160,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 329,
@@ -18194,12 +18208,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 330,
@@ -18239,12 +18256,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's Baby-Madam-butt origin for the extraction silk and the Shadowless King being slowly roasted/cooked in poison and fire are sanitized to neutral silk / 'could only burn' wording."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 331,
@@ -25988,17 +26008,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 325,
-    "sanitization_pass_count": 195,
-    "sanitization_fail_count": 112,
+    "sanitization_reviewed_count": 330,
+    "sanitization_pass_count": 199,
+    "sanitization_fail_count": 113,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 213,
-    "sanitization_revalidated_count": 195,
+    "sanitization_resolved_count": 217,
+    "sanitization_revalidated_count": 199,
     "next_family": {
-      "name": "The Shadowless King of the Black Sea",
+      "name": "Draw",
       "range": [
-        326,
-        330
+        331,
+        332
       ]
     },
     "confirmed_failures": [
@@ -26785,6 +26805,13 @@
         "family": "Underdogma",
         "finding": "Cycle 2 Phase 1 FAIL: source-explicit good-figure/body attractiveness wording is sanitized, and Baby Madam's candy excretion/butt-trembling gag is abstracted into generic conversion/output language.",
         "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
+      },
+      {
+        "chapter": 330,
+        "gate": "sanitization",
+        "family": "The Shadowless King of the Black Sea",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's Baby-Madam-butt origin for the extraction silk and the Shadowless King being slowly roasted/cooked in poison and fire are sanitized to neutral silk / 'could only burn' wording.",
+        "evidence": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
       }
     ],
     "wave_a": {
@@ -27584,6 +27611,13 @@
       "family": "Underdogma",
       "finding": "Cycle 2 Phase 1 FAIL: source-explicit good-figure/body attractiveness wording is sanitized, and Baby Madam's candy excretion/butt-trembling gag is abstracted into generic conversion/output language.",
       "evidence": "qa/cycle2/sanitization/underdogma-0321-0325.md"
+    },
+    {
+      "chapter": 330,
+      "gate": "sanitization",
+      "family": "The Shadowless King of the Black Sea",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's Baby-Madam-butt origin for the extraction silk and the Shadowless King being slowly roasted/cooked in poison and fire are sanitized to neutral silk / 'could only burn' wording.",
+      "evidence": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
     }
   ],
   "status_vocabulary": {
