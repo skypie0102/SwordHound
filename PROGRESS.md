@@ -1,5 +1,24 @@
 # Reconstruction Progress
 
+## 2026-09-22 — Cycle 2 Phase 1 Wave C family-complete checkpoint through Chapter 306
+
+Direct Chinese-primary sanitization review has reached **Chapter 306**.
+
+- overall reviewed: **306 / 500**;
+- PASS: **184**;
+- FAIL: **104**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave-C operational scope 203–306: **52 PASS / 52 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all 104 failures remain queued for Phase 4.
+
+The operational Wave-C scope begins at Chapter 203 because Wave B was extended through *The Corpse Queen (198–202)*. It continues through Chapter 306 because *The Age of the Warmonger (299–306)* crosses the nominal Chapter-300 boundary.
+
+Wave-C evidence: `qa/cycle2-phase1-wave-c-summary.md` and `qa/cycle2/sanitization/`.
+
+Next Phase-1 family: **Hell Tree (307–313)**.
+
+
 ## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 260
 
 Direct Chinese-primary sanitization review has reached **Chapter 260**.
