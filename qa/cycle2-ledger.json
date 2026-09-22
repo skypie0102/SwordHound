@@ -2242,9 +2242,14 @@
         435,
         436
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        434
+      ]
     },
     {
       "index": 106,
@@ -23441,12 +23446,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
     },
     {
       "chapter": 435,
@@ -23486,12 +23494,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
     },
     {
       "chapter": 436,
@@ -23531,12 +23542,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
     },
     {
       "chapter": 437,
@@ -26480,17 +26494,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 433,
-    "sanitization_pass_count": 245,
-    "sanitization_fail_count": 170,
+    "sanitization_reviewed_count": 436,
+    "sanitization_pass_count": 247,
+    "sanitization_fail_count": 171,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 263,
-    "sanitization_revalidated_count": 245,
+    "sanitization_resolved_count": 265,
+    "sanitization_revalidated_count": 247,
     "next_family": {
-      "name": "The Returned Hound",
+      "name": "Dreaming the Impossible Dream",
       "range": [
-        434,
-        436
+        437,
+        440
       ]
     },
     "confirmed_failures": [
@@ -27683,6 +27697,13 @@
         "family": "The Lion King",
         "finding": "Cycle 2 Phase 1 FAIL: the source-explicit swamp made of blood and flesh in Vikir's copied inner landscape is omitted despite surrounding corpse/blood imagery being retained.",
         "evidence": "qa/cycle2/sanitization/lion-king-0430-0433.md"
+      },
+      {
+        "chapter": 434,
+        "gate": "sanitization",
+        "family": "The Returned Hound",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage.",
+        "evidence": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
       }
     ],
     "wave_a": {
@@ -28888,6 +28909,13 @@
       "family": "The Lion King",
       "finding": "Cycle 2 Phase 1 FAIL: the source-explicit swamp made of blood and flesh in Vikir's copied inner landscape is omitted despite surrounding corpse/blood imagery being retained.",
       "evidence": "qa/cycle2/sanitization/lion-king-0430-0433.md"
+    },
+    {
+      "chapter": 434,
+      "gate": "sanitization",
+      "family": "The Returned Hound",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage.",
+      "evidence": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
     }
   ],
   "status_vocabulary": {
