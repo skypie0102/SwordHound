@@ -2371,9 +2371,17 @@
         469,
         470
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        466,
+        467,
+        468,
+        469
+      ]
     },
     {
       "index": 111,
@@ -24964,12 +24972,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     },
     {
       "chapter": 466,
@@ -25009,12 +25020,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's battlefield image includes blood raining from the sky as well as blood waves on the ground; the draft retains only the ground blood."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     },
     {
       "chapter": 467,
@@ -25054,12 +25068,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Vikir source-explicitly rests his head on Dolores's shoulder; the draft generalizes the contact to merely leaning on her."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     },
     {
       "chapter": 468,
@@ -25099,12 +25116,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source explicitly identifies the Reaper's sternum/breastbone breaking under Vikir's palm strike; the draft reduces this to generic 'Bone broke.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     },
     {
       "chapter": 469,
@@ -25144,12 +25164,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Hell Tree seeds tearing Pigi's internal organs and blood clots rising into his mouth are generalized to passing through organs and a mouthful of blood."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     },
     {
       "chapter": 470,
@@ -25189,12 +25212,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     },
     {
       "chapter": 471,
@@ -26608,17 +26634,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 464,
-    "sanitization_pass_count": 261,
-    "sanitization_fail_count": 185,
+    "sanitization_reviewed_count": 470,
+    "sanitization_pass_count": 263,
+    "sanitization_fail_count": 189,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 279,
-    "sanitization_revalidated_count": 261,
+    "sanitization_resolved_count": 281,
+    "sanitization_revalidated_count": 263,
     "next_family": {
-      "name": "The Prelude to a Counterattack",
+      "name": "Tochka Annihilation Battle",
       "range": [
-        465,
-        470
+        471,
+        475
       ]
     },
     "confirmed_failures": [
@@ -27916,6 +27942,34 @@
         "family": "Infiltration of the Water Source",
         "finding": "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit shredding of Poison Humans into meat slices/pieces is generalized to carving through them.",
         "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 466,
+        "gate": "sanitization",
+        "family": "The Prelude to a Counterattack",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's battlefield image includes blood raining from the sky as well as blood waves on the ground; the draft retains only the ground blood.",
+        "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+      },
+      {
+        "chapter": 467,
+        "gate": "sanitization",
+        "family": "The Prelude to a Counterattack",
+        "finding": "Cycle 2 Phase 1 FAIL: Vikir source-explicitly rests his head on Dolores's shoulder; the draft generalizes the contact to merely leaning on her.",
+        "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+      },
+      {
+        "chapter": 468,
+        "gate": "sanitization",
+        "family": "The Prelude to a Counterattack",
+        "finding": "Cycle 2 Phase 1 FAIL: the source explicitly identifies the Reaper's sternum/breastbone breaking under Vikir's palm strike; the draft reduces this to generic 'Bone broke.'",
+        "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+      },
+      {
+        "chapter": 469,
+        "gate": "sanitization",
+        "family": "The Prelude to a Counterattack",
+        "finding": "Cycle 2 Phase 1 FAIL: Hell Tree seeds tearing Pigi's internal organs and blood clots rising into his mouth are generalized to passing through organs and a mouthful of blood.",
+        "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
       }
     ],
     "wave_a": {
@@ -29226,6 +29280,34 @@
       "family": "Infiltration of the Water Source",
       "finding": "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit shredding of Poison Humans into meat slices/pieces is generalized to carving through them.",
       "evidence": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+    },
+    {
+      "chapter": 466,
+      "gate": "sanitization",
+      "family": "The Prelude to a Counterattack",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's battlefield image includes blood raining from the sky as well as blood waves on the ground; the draft retains only the ground blood.",
+      "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 467,
+      "gate": "sanitization",
+      "family": "The Prelude to a Counterattack",
+      "finding": "Cycle 2 Phase 1 FAIL: Vikir source-explicitly rests his head on Dolores's shoulder; the draft generalizes the contact to merely leaning on her.",
+      "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 468,
+      "gate": "sanitization",
+      "family": "The Prelude to a Counterattack",
+      "finding": "Cycle 2 Phase 1 FAIL: the source explicitly identifies the Reaper's sternum/breastbone breaking under Vikir's palm strike; the draft reduces this to generic 'Bone broke.'",
+      "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
+    },
+    {
+      "chapter": 469,
+      "gate": "sanitization",
+      "family": "The Prelude to a Counterattack",
+      "finding": "Cycle 2 Phase 1 FAIL: Hell Tree seeds tearing Pigi's internal organs and blood clots rising into his mouth are generalized to passing through organs and a mouthful of blood.",
+      "evidence": "qa/cycle2/sanitization/prelude-counterattack-0465-0470.md"
     }
   ],
   "status_vocabulary": {
