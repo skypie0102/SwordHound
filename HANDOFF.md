@@ -4,14 +4,14 @@
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 365 / 500
-**Cycle-2 sanitization PASS:** 215 / 500
-**Cycle-2 sanitization FAIL:** 132 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 418 / 500
+**Cycle-2 sanitization PASS:** 239 / 500
+**Cycle-2 sanitization FAIL:** 161 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 0 / 500  
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 132 sanitization-fidelity failures through Chapter 365; remediation deferred to Phase 4
-**Current audit stage:** Phase 1 ACTIVE — Wave D in progress through Chapter 365; next `The Underground Extension Construction (366–368)`
+**Confirmed Cycle-2 failures:** 161 sanitization-fidelity failures through Chapter 418; remediation deferred to Phase 4
+**Current audit stage:** Phase 1 ACTIVE — Wave D complete through Chapter 402; Wave E active through Chapter 418; next `Goodbye, Nouvelle Vague (419–421)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -124,26 +124,35 @@ Wave B ended at Chapter 202 because *The Corpse Queen* crossed the nominal Wave-
 
 Evidence: `qa/cycle2-phase1-wave-c-summary.md` plus family evidence under `qa/cycle2/sanitization/`.
 
-**Wave D in progress (Chapters 307–365 reviewed so far).**
+**Wave D family-complete checkpoint (Chapters 307–402): COMPLETE.**
 
-- reviewed in Wave D so far: **59**;
-- PASS: **31**;
-- FAIL: **28**;
+- reviewed: **96**;
+- PASS: **47**;
+- FAIL: **49**;
+- SAFETY-LIMITED-REVIEWED: **0**;
+- manuscript edits during discovery: **0**.
+
+Evidence: `qa/cycle2-phase1-wave-d-summary.md`.
+
+**Wave E in progress (Chapters 403–418 reviewed so far).**
+
+- reviewed in Wave E so far: **16**;
+- PASS: **8**;
+- FAIL: **8**;
 - SAFETY-LIMITED-REVIEWED: **0**;
 - manuscript edits during discovery: **0**;
-- overall Phase 1: **365 / 500 reviewed — 215 PASS / 132 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
-- all **132** failures remain queued for Phase 4.
+- overall Phase 1: **418 / 500 reviewed — 239 PASS / 161 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
 
 Evidence: family review files under `qa/cycle2/sanitization/` and the live master ledger.
 
 
 ## Exact next actions
 
-1. Continue Phase 1 with **The Underground Extension Construction (366–368)**.
-2. Continue chronologically through Wave D without repeating Chapters 1–365 or splitting contiguous title families.
-3. Do not remediate the **132** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
+1. Continue Phase 1 with **Goodbye, Nouvelle Vague (419–421)**.
+2. Continue chronologically through Wave E without repeating Chapters 1–418 or splitting contiguous title families.
+3. Do not remediate the **161** discovered sanitization failures yet; Phase 4 owns manuscript correction and evidence rebinding after discovery gates finish.
 4. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
 5. Keep the ledger and live status docs synchronized at meaningful checkpoints.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume at **Chapter 366**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
+The next agent should resume at **Chapter 419**, not repeat reviewed families and not resume EPUB packaging. The audit remains the immediate project focus until Phase 6 closes.
