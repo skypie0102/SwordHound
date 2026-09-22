@@ -1735,9 +1735,16 @@
         346,
         347
       ],
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
-      "boundary_alignment_status": "pending"
+      "boundary_alignment_status": "pending",
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
+      "sanitization_reviewed_date": "2026-09-22",
+      "sanitization_failures": [
+        343,
+        344,
+        347
+      ]
     },
     {
       "index": 83,
@@ -18901,12 +18908,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source's 'almost naked' animal-skin/leaf state and explicit broken-wrist result are softened to 'almost no conventional clothing' and a wrist that merely 'gave out.'"
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
     },
     {
       "chapter": 344,
@@ -18946,12 +18956,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: the source says Bianca's body changed greatly after seven biological years; the draft generalizes this to merely looking older."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
     },
     {
       "chapter": 345,
@@ -18991,12 +19004,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
     },
     {
       "chapter": 346,
@@ -19036,12 +19052,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "pass",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
+      "findings": [
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+      ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "rebind_status": "not_applicable_until_edit",
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
     },
     {
       "chapter": 347,
@@ -19081,12 +19100,15 @@
         "ratio_scope": "one_target_raw",
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
-      "sanitization_status": "pending",
+      "sanitization_status": "fail",
       "completeness_status": "pending",
       "boundary_alignment_status": "pending",
-      "findings": [],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit"
+      "findings": [
+        "Cycle 2 Phase 1 FAIL: Akwilla's source-described mortal/potentially fatal wound on Amdusias is softened to a generic severe wound."
+      ],
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
     },
     {
       "chapter": 348,
@@ -26065,17 +26087,17 @@
   },
   "phase1": {
     "status": "active",
-    "sanitization_reviewed_count": 342,
-    "sanitization_pass_count": 204,
-    "sanitization_fail_count": 120,
+    "sanitization_reviewed_count": 347,
+    "sanitization_pass_count": 206,
+    "sanitization_fail_count": 123,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 222,
-    "sanitization_revalidated_count": 204,
+    "sanitization_resolved_count": 224,
+    "sanitization_revalidated_count": 206,
     "next_family": {
-      "name": "Ballak",
+      "name": "Key man",
       "range": [
-        343,
-        347
+        348,
+        350
       ]
     },
     "confirmed_failures": [
@@ -26918,6 +26940,27 @@
         "family": "Private Life",
         "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit 'soulmate' conception of the Night Hound/Vikir and the narrator's peeping-tom/voyeur framing during the bath punch are softened/omitted.",
         "evidence": "qa/cycle2/sanitization/private-life-0341-0342.md"
+      },
+      {
+        "chapter": 343,
+        "gate": "sanitization",
+        "family": "Ballak",
+        "finding": "Cycle 2 Phase 1 FAIL: the source's 'almost naked' animal-skin/leaf state and explicit broken-wrist result are softened to 'almost no conventional clothing' and a wrist that merely 'gave out.'",
+        "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      },
+      {
+        "chapter": 344,
+        "gate": "sanitization",
+        "family": "Ballak",
+        "finding": "Cycle 2 Phase 1 FAIL: the source says Bianca's body changed greatly after seven biological years; the draft generalizes this to merely looking older.",
+        "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      },
+      {
+        "chapter": 347,
+        "gate": "sanitization",
+        "family": "Ballak",
+        "finding": "Cycle 2 Phase 1 FAIL: Akwilla's source-described mortal/potentially fatal wound on Amdusias is softened to a generic severe wound.",
+        "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
       }
     ],
     "wave_a": {
@@ -27773,6 +27816,27 @@
       "family": "Private Life",
       "finding": "Cycle 2 Phase 1 FAIL: Dolores's source-explicit 'soulmate' conception of the Night Hound/Vikir and the narrator's peeping-tom/voyeur framing during the bath punch are softened/omitted.",
       "evidence": "qa/cycle2/sanitization/private-life-0341-0342.md"
+    },
+    {
+      "chapter": 343,
+      "gate": "sanitization",
+      "family": "Ballak",
+      "finding": "Cycle 2 Phase 1 FAIL: the source's 'almost naked' animal-skin/leaf state and explicit broken-wrist result are softened to 'almost no conventional clothing' and a wrist that merely 'gave out.'",
+      "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 344,
+      "gate": "sanitization",
+      "family": "Ballak",
+      "finding": "Cycle 2 Phase 1 FAIL: the source says Bianca's body changed greatly after seven biological years; the draft generalizes this to merely looking older.",
+      "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
+    },
+    {
+      "chapter": 347,
+      "gate": "sanitization",
+      "family": "Ballak",
+      "finding": "Cycle 2 Phase 1 FAIL: Akwilla's source-described mortal/potentially fatal wound on Amdusias is softened to a generic severe wound.",
+      "evidence": "qa/cycle2/sanitization/ballak-0343-0347.md"
     }
   ],
   "status_vocabulary": {
