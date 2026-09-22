@@ -1,5 +1,21 @@
 # Reconstruction Progress
 
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 453
+
+Direct Chinese-primary sanitization review has reached **Chapter 453**.
+
+- overall reviewed: **453 / 500**;
+- PASS: **256**;
+- FAIL: **179**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave E segment 403–453: **25 PASS / 26 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **179** failures remain queued for Phase 4.
+
+Recent completed families include **The Returned Hound (434–436)**, **Dreaming the Impossible Dream (437–440)**, **The Fall of Usher (441–449)**, and **Declaration of War (450–453)**.
+
+Next Phase-1 family: **Infiltration of the Water Source (454–464)**.
+
 ## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 433
 
 Direct Chinese-primary sanitization review has reached **Chapter 433**.
