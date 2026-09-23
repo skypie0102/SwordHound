@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 132; next `Test Your Skills (133–138)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 169; next `Adorable Pet (170–171)`
 
 ## Progress
 
@@ -32,18 +32,18 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **132 / 500**
-- PASS: **94**
-- FAIL: **38**
-- 23 failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**
-- current combined remediation population: **215 unique chapters**
+- completeness reviewed: **169 / 500**
+- PASS: **105**
+- FAIL: **64**
+- 40 failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168**
+- current combined remediation population: **224 unique chapters**
 - manuscript edits during discovery: **0**
-- Wave A (Chapters 1–100): **COMPLETE**
-- Wave B current segment (101–132): **26 PASS / 6 FAIL**
-- next family: **Test Your Skills (133–138)**
+- Wave A (Chapters 1–100): **COMPLETE — 68 PASS / 32 FAIL**
+- Wave B current segment (Chapters 101–169): **37 PASS / 32 FAIL**
+- next family: **Adorable Pet (170–171)**
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0169.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
 
 ### Phase 0 — COMPLETE
 
@@ -300,10 +300,9 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Integrate the current audit branch into `main`.
-2. Continue Phase 2 at **Test Your Skills (133–138)** on the next Phase-2 working branch.
-3. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–132.
-4. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
-5. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
-6. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
-7. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
+1. Continue Phase 2 at **Adorable Pet (170–171)** on `audit/cycle2-phase2-wave-b`.
+2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–169.
+3. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
+4. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
+5. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
+6. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
