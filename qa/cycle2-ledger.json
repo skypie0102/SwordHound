@@ -694,10 +694,12 @@
         109
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 30,
@@ -8121,14 +8123,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
     },
     {
       "chapter": 106,
@@ -8173,14 +8179,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
     },
     {
       "chapter": 107,
@@ -8225,14 +8235,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
     },
     {
       "chapter": 108,
@@ -8277,14 +8291,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
     },
     {
       "chapter": 109,
@@ -8329,14 +8347,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
     },
     {
       "chapter": 110,
@@ -30105,14 +30127,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 104,
-    "completeness_pass_count": 70,
+    "completeness_reviewed_count": 109,
+    "completeness_pass_count": 75,
     "completeness_fail_count": 34,
     "next_family": {
-      "name": "The Returned Hero",
+      "name": "The Great Banquet",
       "range": [
-        105,
-        109
+        110,
+        116
       ]
     },
     "confirmed_failures": [
