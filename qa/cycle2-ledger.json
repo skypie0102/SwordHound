@@ -1138,12 +1138,20 @@
         196
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         191
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        190,
+        191,
+        192,
+        193
       ]
     },
     {
@@ -12640,14 +12648,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: C190 duplicates/misplaces detailed remote-golem body-difference/synchronization mechanics that belong to C192; C190 itself only states that distance sense is an obstacle."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 191,
@@ -12688,14 +12700,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sadi's source-explicit bitten-off fingertip injury, students wetting themselves from trauma, and 'blood flow like a river' cruelty image are softened/generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sadi's bitten-off finger-end injury, students explicitly wetting themselves from trauma, and the 'blood flow like a river' cruelty image are softened/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 192,
@@ -12736,14 +12752,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source says Sinclaire's kick broke all of her ribs and drove them into internal organs; the draft drops the all-ribs extent."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 193,
@@ -12784,14 +12804,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source explicitly has Granola's teeth crack while watching injured Sinclaire; the draft reduces this to grinding them hard enough to hurt."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 194,
@@ -12832,14 +12856,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 195,
@@ -12880,14 +12908,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 196,
@@ -12928,14 +12960,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md"
     },
     {
       "chapter": 197,
@@ -30476,14 +30512,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 189,
-    "completeness_pass_count": 112,
-    "completeness_fail_count": 77,
+    "completeness_reviewed_count": 196,
+    "completeness_pass_count": 115,
+    "completeness_fail_count": 81,
     "next_family": {
-      "name": "Attack Land",
+      "name": "Preparing for the Festival",
       "range": [
-        190,
-        196
+        197,
+        197
       ]
     },
     "confirmed_failures": [
@@ -31025,9 +31061,37 @@
         "family": "Aftermath",
         "finding": "Cycle 2 Phase 2 FAIL: report casualty specifics and the detailed public comment thread are summary-condensed, and Vikir's explicit catch-and-kill intention is softened to 'eliminate the imitators.'",
         "evidence": "qa/cycle2/completeness/aftermath-0186-0189.md"
+      },
+      {
+        "chapter": 190,
+        "gate": "completeness",
+        "family": "Attack Land",
+        "finding": "Cycle 2 Phase 2 FAIL: C190 duplicates/misplaces detailed remote-golem body-difference/synchronization mechanics that belong to C192; C190 itself only states that distance sense is an obstacle.",
+        "evidence": "qa/cycle2/completeness/attack-land-0190-0196.md"
+      },
+      {
+        "chapter": 191,
+        "gate": "completeness",
+        "family": "Attack Land",
+        "finding": "Cycle 2 Phase 2 FAIL: Sadi's bitten-off finger-end injury, students explicitly wetting themselves from trauma, and the 'blood flow like a river' cruelty image are softened/generalized.",
+        "evidence": "qa/cycle2/completeness/attack-land-0190-0196.md"
+      },
+      {
+        "chapter": 192,
+        "gate": "completeness",
+        "family": "Attack Land",
+        "finding": "Cycle 2 Phase 2 FAIL: the source says Sinclaire's kick broke all of her ribs and drove them into internal organs; the draft drops the all-ribs extent.",
+        "evidence": "qa/cycle2/completeness/attack-land-0190-0196.md"
+      },
+      {
+        "chapter": 193,
+        "gate": "completeness",
+        "family": "Attack Land",
+        "finding": "Cycle 2 Phase 2 FAIL: the source explicitly has Granola's teeth crack while watching injured Sinclaire; the draft reduces this to grinding them hard enough to hurt.",
+        "evidence": "qa/cycle2/completeness/attack-land-0190-0196.md"
       }
     ],
-    "combined_remediation_count": 232,
+    "combined_remediation_count": 235,
     "completeness_only_failures": [
       42,
       48,
@@ -31060,7 +31124,10 @@
       182,
       183,
       184,
-      187
+      187,
+      190,
+      192,
+      193
     ]
   }
 }
