@@ -778,11 +778,16 @@
         129
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        129
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         129
       ]
     },
@@ -9281,14 +9286,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
     },
     {
       "chapter": 127,
@@ -9329,14 +9338,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
     },
     {
       "chapter": 128,
@@ -9377,14 +9390,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
     },
     {
       "chapter": 129,
@@ -9425,14 +9442,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Bartison's source-explicit severed wrists/cauterized stumps, severed ankles, throat strike, and death struggle are collapsed to a near-instant generic death."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Bartison's source-present severed/cauterized wrists, severed ankles, throat impalement, and brief death struggle are omitted and collapsed to an almost-instant generic death."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
     },
     {
       "chapter": 130,
@@ -30197,14 +30218,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 125,
-    "completeness_pass_count": 91,
-    "completeness_fail_count": 34,
+    "completeness_reviewed_count": 129,
+    "completeness_pass_count": 94,
+    "completeness_fail_count": 35,
     "next_family": {
-      "name": "Admission to the Academy",
+      "name": "The Freshman Talent Show",
       "range": [
-        126,
-        129
+        130,
+        132
       ]
     },
     "confirmed_failures": [
@@ -30445,6 +30466,13 @@
         "family": "Nostalgia",
         "finding": "Cycle 2 Phase 2 FAIL: the explicit 7–8 month female-wolf cycle is omitted, and Aiyen's source-specific reproductive-fitness statement is generalized to a strong bloodline.",
         "evidence": "qa/cycle2/completeness/nostalgia-0101-0104.md"
+      },
+      {
+        "chapter": 129,
+        "gate": "completeness",
+        "family": "Admission to the Academy",
+        "finding": "Cycle 2 Phase 2 FAIL: Bartison's source-present severed/cauterized wrists, severed ankles, throat impalement, and brief death struggle are omitted and collapsed to an almost-instant generic death.",
+        "evidence": "qa/cycle2/completeness/admission-academy-0126-0129.md"
       }
     ],
     "combined_remediation_count": 215,
