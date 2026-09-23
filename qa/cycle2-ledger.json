@@ -10534,14 +10534,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source-present tears-and-nasal-discharge reaction during the donation scene is reduced to generic teary-eyed emotion."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/not-brother-0150-0151.md"
     },
     {
       "chapter": 151,
@@ -10582,14 +10586,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Tudor's source-specific rubbing/kneading of Vikir's abdomen and suggestive teasing tone are compressed to a simple prod and milder framing."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/not-brother-0150-0151.md"
     },
     {
       "chapter": 152,
@@ -30298,14 +30306,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 149,
+    "completeness_reviewed_count": 151,
     "completeness_pass_count": 103,
-    "completeness_fail_count": 46,
+    "completeness_fail_count": 48,
     "next_family": {
-      "name": "Not Brother, But Uncle",
+      "name": "The Drinking Game",
       "range": [
-        150,
-        151
+        152,
+        154
       ]
     },
     "confirmed_failures": [
@@ -30630,9 +30638,23 @@
         "family": "Identity of the Villain",
         "finding": "Cycle 2 Phase 2 FAIL: the unpublished orphanage article source-specifically identifies the confirmed dead as girls aged roughly ten to thirteen; the draft generalizes them to children and loses that descriptor.",
         "evidence": "qa/cycle2/completeness/identity-villain-0141-0143.md"
+      },
+      {
+        "chapter": 150,
+        "gate": "completeness",
+        "family": "Not Brother, But Uncle",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-present tears-and-nasal-discharge reaction during the donation scene is reduced to generic teary-eyed emotion.",
+        "evidence": "qa/cycle2/completeness/not-brother-0150-0151.md"
+      },
+      {
+        "chapter": 151,
+        "gate": "completeness",
+        "family": "Not Brother, But Uncle",
+        "finding": "Cycle 2 Phase 2 FAIL: Tudor's source-specific rubbing/kneading of Vikir's abdomen and suggestive teasing tone are compressed to a simple prod and milder framing.",
+        "evidence": "qa/cycle2/completeness/not-brother-0150-0151.md"
       }
     ],
-    "combined_remediation_count": 216,
+    "combined_remediation_count": 218,
     "completeness_only_failures": [
       42,
       48,
@@ -30649,7 +30671,9 @@
       82,
       101,
       103,
-      141
+      141,
+      150,
+      151
     ]
   }
 }
