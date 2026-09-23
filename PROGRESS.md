@@ -1,5 +1,24 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 132
+
+Direct full-source completeness revalidation has reached **Chapter 132**.
+
+- completeness reviewed: **132 / 500**;
+- PASS: **94**;
+- FAIL: **38**;
+- **23** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**;
+- combined Cycle-2 remediation population: **215 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Families completed after the Chapter-100 checkpoint: **Nostalgia (101–104)**, **The Returned Hero (105–109)**, **The Great Banquet (110–116)**, **Falling in Love (117–119)**, **The Hunt for the Second Son (120–125)**, **Admission to the Academy (126–129)**, and **The Freshman Talent Show (130–132)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0132.md`.
+
+Next Phase-2 family: **Test Your Skills (133–138)**.
+
+
 ## 2026-09-23 — Cycle 2 Phase 2 Wave A complete through Chapter 100
 
 Direct full-source completeness revalidation has completed **Chapters 1–100**.
