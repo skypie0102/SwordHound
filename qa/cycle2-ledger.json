@@ -354,11 +354,16 @@
         54
       ],
       "sanitization_status": "mixed",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        52
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         52
       ]
     },
@@ -5252,7 +5257,7 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: sharp rib fragments piercing internal organs softened to generic organ damage.",
@@ -5260,7 +5265,12 @@
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source explicitly says sharp ends of spiral-fractured ribs pierce Vikir's internal organs; the draft generalizes this to merely damaging his organs."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 53,
@@ -5301,14 +5311,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content within the verified target boundary."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 54,
@@ -5354,7 +5369,7 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed.",
@@ -5362,7 +5377,12 @@
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content within the verified target boundary."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 55,
@@ -29807,14 +29827,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 51,
-    "completeness_pass_count": 43,
-    "completeness_fail_count": 8,
+    "completeness_reviewed_count": 54,
+    "completeness_pass_count": 45,
+    "completeness_fail_count": 9,
     "next_family": {
-      "name": "Slaves of the Savage Tribe",
+      "name": "The Hunter and the Hunted",
       "range": [
-        52,
-        54
+        55,
+        60
       ]
     },
     "confirmed_failures": [
@@ -29873,6 +29893,13 @@
         "family": "The Husband Hunt",
         "finding": "Cycle 2 Phase 2 FAIL: Camus's source-explicit ordinary nasal-discharge detail during her tearful breakdown is omitted while tears/hoarse crying are retained.",
         "evidence": "qa/cycle2/completeness/husband-hunt-0046-0051.md"
+      },
+      {
+        "chapter": 52,
+        "gate": "completeness",
+        "family": "Slaves of the Savage Tribe",
+        "finding": "Cycle 2 Phase 2 FAIL: the source explicitly says sharp ends of spiral-fractured ribs pierce Vikir's internal organs; the draft generalizes this to merely damaging his organs.",
+        "evidence": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md"
       }
     ]
   }
