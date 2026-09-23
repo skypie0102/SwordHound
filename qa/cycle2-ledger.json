@@ -621,11 +621,16 @@
         94
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        94
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         94
       ]
     },
@@ -7320,14 +7325,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 91,
@@ -7368,14 +7377,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 92,
@@ -7416,14 +7429,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 93,
@@ -7464,14 +7481,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 94,
@@ -7512,14 +7533,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: explicit internal-organ-fragment gore was generalized to nonspecific ruined tissue."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's blood, torn flesh, and internal-organ fragments running down the thorn tree are generalized to blood and nonspecific ruined tissue."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
     },
     {
       "chapter": 95,
@@ -30032,14 +30057,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 89,
-    "completeness_pass_count": 58,
-    "completeness_fail_count": 31,
+    "completeness_reviewed_count": 94,
+    "completeness_pass_count": 62,
+    "completeness_fail_count": 32,
     "next_family": {
-      "name": "The Ghosts of the Ancestors",
+      "name": "Madam Eight-Legs",
       "range": [
-        90,
-        94
+        95,
+        100
       ]
     },
     "confirmed_failures": [
@@ -30259,6 +30284,13 @@
         "family": "Lovesickness",
         "finding": "Cycle 2 Phase 2 FAIL: Rokoko cannibalism, Ahun's devout-invocation comparison, the willow-leaf/thousands-of-paces archery scale, and Vikir's stronger control/influence intent toward the tribes are omitted/generalized.",
         "evidence": "qa/cycle2/completeness/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 94,
+        "gate": "completeness",
+        "family": "The Ghosts of the Ancestors",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's blood, torn flesh, and internal-organ fragments running down the thorn tree are generalized to blood and nonspecific ruined tissue.",
+        "evidence": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
       }
     ]
   }
