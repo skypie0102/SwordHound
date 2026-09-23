@@ -1298,11 +1298,18 @@
         219
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        219
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        216,
+        217,
         219
       ]
     },
@@ -14034,14 +14041,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source retrospective clue about the Corpse Queen's unusual rage at the crazed court mage is replaced by a Ballak-archery reaction, substituting different evidence."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
     },
     {
       "chapter": 217,
@@ -14082,14 +14093,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the mana-surge explanation omits the cerebral-infarction/hemorrhage danger comparison and the full-body pore-release/explosion mechanism."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
     },
     {
       "chapter": 218,
@@ -14130,14 +14145,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
     },
     {
       "chapter": 219,
@@ -14178,14 +14197,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0214-0229.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thought of cutting off Geronto/Rosie's head is generalized to merely ending her, and a near-wetting fear response is replaced with unsupported 'nearly killed me' language."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Vikir's explicit thought of cutting off Rosie's head is generalized, and the source near-wetting fear response is replaced by unsupported 'nearly killed me' language."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
     },
     {
       "chapter": 220,
@@ -30622,14 +30645,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 215,
-    "completeness_pass_count": 116,
-    "completeness_fail_count": 99,
+    "completeness_reviewed_count": 219,
+    "completeness_pass_count": 117,
+    "completeness_fail_count": 102,
     "next_family": {
-      "name": "My Neck Will Be Your Sheath",
+      "name": "That Day, Him and Me",
       "range": [
-        216,
-        219
+        220,
+        224
       ]
     },
     "confirmed_failures": [
@@ -31325,9 +31348,30 @@
         "family": "Festival Night",
         "finding": "Cycle 2 Phase 2 FAIL: Dolores's deep affection, pilgrim/sacrifice framing, and pitying reaction to the Night Hound bearing blood and wounds alone are materially compressed.",
         "evidence": "qa/cycle2/completeness/festival-night-0206-0215.md"
+      },
+      {
+        "chapter": 216,
+        "gate": "completeness",
+        "family": "My Neck Will Be Your Sheath",
+        "finding": "Cycle 2 Phase 2 FAIL: the source retrospective clue about the Corpse Queen's unusual rage at the crazed court mage is replaced by a Ballak-archery reaction, substituting different evidence.",
+        "evidence": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
+      },
+      {
+        "chapter": 217,
+        "gate": "completeness",
+        "family": "My Neck Will Be Your Sheath",
+        "finding": "Cycle 2 Phase 2 FAIL: the mana-surge explanation omits the cerebral-infarction/hemorrhage danger comparison and the full-body pore-release/explosion mechanism.",
+        "evidence": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
+      },
+      {
+        "chapter": 219,
+        "gate": "completeness",
+        "family": "My Neck Will Be Your Sheath",
+        "finding": "Cycle 2 Phase 2 FAIL: Vikir's explicit thought of cutting off Rosie's head is generalized, and the source near-wetting fear response is replaced by unsupported 'nearly killed me' language.",
+        "evidence": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md"
       }
     ],
-    "combined_remediation_count": 239,
+    "combined_remediation_count": 241,
     "completeness_only_failures": [
       42,
       48,
@@ -31367,7 +31411,9 @@
       200,
       207,
       211,
-      212
+      212,
+      216,
+      217
     ]
   }
 }
