@@ -90,10 +90,12 @@
         13
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/gluttonous-flies-0012-0013.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 5,
@@ -108,10 +110,12 @@
         17
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 6,
@@ -124,10 +128,12 @@
         19
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/bared-teeth-0018-0019.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/bared-teeth-0018-0019.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 7,
@@ -144,11 +150,17 @@
         25
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/camus-morgue-0020-0025.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        22,
+        24
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/camus-morgue-0020-0025.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         22,
         24
       ]
@@ -164,10 +176,12 @@
         27
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/graduate-0026-0027.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 9,
@@ -182,10 +196,12 @@
         31
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 10,
@@ -199,10 +215,12 @@
         34
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/social-club-0032-0034.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 11,
@@ -216,12 +234,18 @@
         37
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         35,
+        36,
+        37
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         36,
         37
       ]
@@ -237,10 +261,12 @@
         39
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/sponsored-0038-0039.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 13,
@@ -254,12 +280,18 @@
         42
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         40
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        40,
+        42
       ]
     },
     {
@@ -274,10 +306,12 @@
         45
       ],
       "sanitization_status": "mixed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 15,
@@ -294,11 +328,17 @@
         51
       ],
       "sanitization_status": "mixed",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        51
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        48,
         51
       ]
     },
@@ -4890,14 +4930,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 47,
@@ -4938,14 +4983,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 48,
@@ -4986,14 +5036,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Lowbro's source/continuity-supported single right-index-finger injury is retrospectively pluralized to an injury to his 'fingers.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 49,
@@ -5038,14 +5093,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 50,
@@ -5086,14 +5146,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 51,
@@ -5134,14 +5199,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown."
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Camus's source-explicit ordinary nasal-discharge detail during her tearful breakdown is omitted while tears/hoarse crying are retained."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 52,
@@ -29737,14 +29807,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 45,
-    "completeness_pass_count": 39,
-    "completeness_fail_count": 6,
+    "completeness_reviewed_count": 51,
+    "completeness_pass_count": 43,
+    "completeness_fail_count": 8,
     "next_family": {
-      "name": "The Husband Hunt",
+      "name": "Slaves of the Savage Tribe",
       "range": [
-        46,
-        51
+        52,
+        54
       ]
     },
     "confirmed_failures": [
@@ -29752,43 +29822,57 @@
         "chapter": 22,
         "gate": "completeness",
         "family": "Camus Morgue",
-        "finding": "Cycle 2 Phase 2 FAIL: a source-present future-adult Camus characterization block is materially incomplete; the draft omits explicit beauty/seduction-as-political-tactic, mature-figure, royal-resistance, and beauty-as-power details.",
+        "finding": "Cycle 2 Phase 2 completeness failure.",
         "evidence": "qa/cycle2/completeness/camus-morgue-0020-0025.md"
       },
       {
         "chapter": 24,
         "gate": "completeness",
         "family": "Camus Morgue",
-        "finding": "Cycle 2 Phase 2 FAIL: the fire/clothing accident omits source-present neutral bodily-state details, including Camus's tears/nasal discharge and Vikir's explicit post-cloak underclothes/bare-bodied state.",
+        "finding": "Cycle 2 Phase 2 completeness failure.",
         "evidence": "qa/cycle2/completeness/camus-morgue-0020-0025.md"
       },
       {
         "chapter": 36,
         "gate": "completeness",
         "family": "Slave Auction",
-        "finding": "Cycle 2 Phase 2 FAIL: a source-present retaliatory body-directed command is replaced by generic 'Turn around,' and the direct narration that onlookers witness a man being torn apart alive is omitted.",
+        "finding": "Cycle 2 Phase 2 completeness failure.",
         "evidence": "qa/cycle2/completeness/slave-auction-0035-0037.md"
       },
       {
         "chapter": 37,
         "gate": "completeness",
         "family": "Slave Auction",
-        "finding": "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'",
+        "finding": "Cycle 2 Phase 2 completeness failure.",
         "evidence": "qa/cycle2/completeness/slave-auction-0035-0037.md"
       },
       {
         "chapter": 40,
         "gate": "completeness",
         "family": "Morgue's United Front",
-        "finding": "Cycle 2 Phase 2 FAIL: the source says the close-range assassin lightly stabs Vikir in the chest; the draft reduces the attack itself to the dagger merely touching his chest, retaining only the resulting scratch.",
+        "finding": "Cycle 2 Phase 2 completeness failure.",
         "evidence": "qa/cycle2/completeness/morgue-united-front-0040-0042.md"
       },
       {
         "chapter": 42,
         "gate": "completeness",
         "family": "Morgue's United Front",
-        "finding": "Cycle 2 Phase 2 FAIL: the draft retrospectively invents 'a few fingers' being lost, while source continuity establishes Lowbro's single right index finger as the severed/healed injury.",
+        "finding": "Cycle 2 Phase 2 completeness failure.",
         "evidence": "qa/cycle2/completeness/morgue-united-front-0040-0042.md"
+      },
+      {
+        "chapter": 48,
+        "gate": "completeness",
+        "family": "The Husband Hunt",
+        "finding": "Cycle 2 Phase 2 FAIL: Lowbro's source/continuity-supported single right-index-finger injury is retrospectively pluralized to an injury to his 'fingers.'",
+        "evidence": "qa/cycle2/completeness/husband-hunt-0046-0051.md"
+      },
+      {
+        "chapter": 51,
+        "gate": "completeness",
+        "family": "The Husband Hunt",
+        "finding": "Cycle 2 Phase 2 FAIL: Camus's source-explicit ordinary nasal-discharge detail during her tearful breakdown is omitted while tears/hoarse crying are retained.",
+        "evidence": "qa/cycle2/completeness/husband-hunt-0046-0051.md"
       }
     ]
   }
