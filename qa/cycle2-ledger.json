@@ -10066,14 +10066,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md",
+      "completeness_review_file": "qa/cycle2/completeness/identity-villain-0141-0143.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the unpublished orphanage article source-specifically identifies the confirmed dead as girls aged roughly ten to thirteen; the draft generalizes them to children and loses that descriptor."
+      ]
     },
     {
       "chapter": 142,
@@ -10114,14 +10118,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md",
+      "completeness_review_file": "qa/cycle2/completeness/identity-villain-0141-0143.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ]
     },
     {
       "chapter": 143,
@@ -10162,14 +10170,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md",
+      "completeness_review_file": "qa/cycle2/completeness/identity-villain-0141-0143.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ]
     },
     {
       "chapter": 144,
@@ -30262,14 +30274,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 140,
-    "completeness_pass_count": 95,
-    "completeness_fail_count": 45,
+    "completeness_reviewed_count": 143,
+    "completeness_pass_count": 97,
+    "completeness_fail_count": 46,
     "next_family": {
-      "name": "Identity of the Villain",
+      "name": "Volunteering for the Golden Week",
       "range": [
-        141,
-        143
+        144,
+        149
       ]
     },
     "confirmed_failures": [
@@ -30587,9 +30599,16 @@
         "family": "Men are Power",
         "finding": "Cycle 2 Phase 2 FAIL: multiple source-present combat, impalement, dissection-intent, bloody-digging, flesh/organ-remnant, demon-food trafficking, and child-remains/crime-scene details are omitted/generalized.",
         "evidence": "qa/cycle2/completeness/men-are-power-0139-0140.md"
+      },
+      {
+        "chapter": 141,
+        "gate": "completeness",
+        "family": "Identity of the Villain",
+        "finding": "Cycle 2 Phase 2 FAIL: the unpublished orphanage article source-specifically identifies the confirmed dead as girls aged roughly ten to thirteen; the draft generalizes them to children and loses that descriptor.",
+        "evidence": "qa/cycle2/completeness/identity-villain-0141-0143.md"
       }
     ],
-    "combined_remediation_count": 215,
+    "combined_remediation_count": 216,
     "completeness_only_failures": [
       42,
       48,
@@ -30605,7 +30624,8 @@
       80,
       82,
       101,
-      103
+      103,
+      141
     ]
   }
 }
