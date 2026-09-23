@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 169
+
+Direct full-source completeness revalidation has reached **Chapter 169**.
+
+- completeness reviewed: **169 / 500**;
+- PASS: **105**;
+- FAIL: **64**;
+- **40** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168**;
+- combined Cycle-2 remediation population: **224 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-132 checkpoint, Chapters **133–169** added **11 PASS / 26 FAIL** across **Test Your Skills**, **Men are Power**, **Identity of the Villain**, **Volunteering for the Golden Week**, **Not Brother, But Uncle**, **The Drinking Game**, **How to Keep Your Night Shift Employees Safe**, **Familiar Face**, and **Sin and Punishment**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0169.md`.
+
+Next Phase-2 family: **Adorable Pet (170–171)**.
+
 ## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 132
 
 Direct full-source completeness revalidation has reached **Chapter 132**.
