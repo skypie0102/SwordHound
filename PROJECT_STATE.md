@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 100 / 500 — 68 PASS / 32 FAIL
+**Completeness revalidated:** 132 / 500 — 94 PASS / 38 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 32 Phase-2 completeness failures; 13 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82) raise the combined remediation population to 213 unique chapters
-**Current phase:** Phase 2 ACTIVE — Wave A completeness through Chapter 100; next `Nostalgia (101–104)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 38 Phase-2 completeness failures; 15 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103) raise the combined remediation population to 215 unique chapters
+**Current phase:** Phase 2 ACTIVE — completeness through Chapter 132; next `Test Your Skills (133–138)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -75,19 +75,21 @@ Phase 1 sanitization is **COMPLETE**:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-Phase 2 completeness has completed **Wave A, Chapters 1–100**:
+Phase 2 completeness has reached **Chapter 132**:
 
-- reviewed: **100 / 500**
-- PASS: **68**
-- FAIL: **32**
-- **19** completeness failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82**
-- combined Cycle-2 remediation population: **213 unique chapters**
+- reviewed: **132 / 500**
+- PASS: **94**
+- FAIL: **38**
+- **23** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**
+- combined Cycle-2 remediation population: **215 unique chapters**
 - manuscript edits during Phase-2 discovery: **0**
+- Wave A (1–100): complete
+- current Wave-B segment (101–132): **26 PASS / 6 FAIL**
 
 Documented shared/combined-source exceptions, source gaps, and safety-limited cases were honored during direct review; formal corpus boundary/alignment clearance remains Phase 3.
 
-Next is **Nostalgia (101–104)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0100.md`.
+Next is **Test Your Skills (133–138)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`.
 
 ## Release gate
 
