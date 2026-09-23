@@ -10638,14 +10638,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Vikir's source-specific five-minute Hill Seven waiting-period Yut detail is omitted, and Sinclaire's tank-top-and-shorts clothing description is generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md"
     },
     {
       "chapter": 153,
@@ -10686,14 +10690,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's Maginot-Line comparison and exact right-arm/left-arm/right-leg/left-leg/torso/neck destruction progression in the Go metaphor are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md"
     },
     {
       "chapter": 154,
@@ -10734,14 +10742,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's source-present whole-body itching and involuntary shiver from close breath contact is replaced with a generic tensing reaction."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md"
     },
     {
       "chapter": 155,
@@ -30306,14 +30318,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 151,
+    "completeness_reviewed_count": 154,
     "completeness_pass_count": 103,
-    "completeness_fail_count": 48,
+    "completeness_fail_count": 51,
     "next_family": {
-      "name": "The Drinking Game",
+      "name": "How to Keep Your Night Shift Employees Safe",
       "range": [
-        152,
-        154
+        155,
+        157
       ]
     },
     "confirmed_failures": [
@@ -30652,9 +30664,30 @@
         "family": "Not Brother, But Uncle",
         "finding": "Cycle 2 Phase 2 FAIL: Tudor's source-specific rubbing/kneading of Vikir's abdomen and suggestive teasing tone are compressed to a simple prod and milder framing.",
         "evidence": "qa/cycle2/completeness/not-brother-0150-0151.md"
+      },
+      {
+        "chapter": 152,
+        "gate": "completeness",
+        "family": "The Drinking Game",
+        "finding": "Cycle 2 Phase 2 FAIL: Vikir's source-specific five-minute Hill Seven waiting-period Yut detail is omitted, and Sinclaire's tank-top-and-shorts clothing description is generalized.",
+        "evidence": "qa/cycle2/completeness/drinking-game-0152-0154.md"
+      },
+      {
+        "chapter": 153,
+        "gate": "completeness",
+        "family": "The Drinking Game",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's Maginot-Line comparison and exact right-arm/left-arm/right-leg/left-leg/torso/neck destruction progression in the Go metaphor are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/drinking-game-0152-0154.md"
+      },
+      {
+        "chapter": 154,
+        "gate": "completeness",
+        "family": "The Drinking Game",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-present whole-body itching and involuntary shiver from close breath contact is replaced with a generic tensing reaction.",
+        "evidence": "qa/cycle2/completeness/drinking-game-0152-0154.md"
       }
     ],
-    "combined_remediation_count": 218,
+    "combined_remediation_count": 221,
     "completeness_only_failures": [
       42,
       48,
@@ -30673,7 +30706,10 @@
       103,
       141,
       150,
-      151
+      151,
+      152,
+      153,
+      154
     ]
   }
 }
