@@ -1104,12 +1104,20 @@
         189
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         186,
+        188,
+        189
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/aftermath-0186-0189.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        186,
+        187,
         188,
         189
       ]
@@ -12424,14 +12432,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the Chinese Clocktower attack report explicitly refers to a death toll, but the draft omits that death-toll reference."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Clocktower report's explicit death-toll reference and several distinct public-comment reactions are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/aftermath-0186-0189.md"
     },
     {
       "chapter": 187,
@@ -12472,14 +12484,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the extended first-year-versus-graduating-year salmon analogy and the source's 'survival becomes a vulgar joke' rhetorical beat are summary-condensed/omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/aftermath-0186-0189.md"
     },
     {
       "chapter": 188,
@@ -12520,14 +12536,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source allegation that Sadi severely beats talented students until disabled/crippled is weakened to generic serious injuries."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sadi's alleged severe beating until students are disabled/crippled is weakened to generic serious injuries."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/aftermath-0186-0189.md"
     },
     {
       "chapter": 189,
@@ -12568,14 +12588,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit profanity/insult force in the public comments is generalized away, and Vikir's explicit plan to catch and kill the copycat(s) is softened to 'eliminate the imitators.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/aftermath-0186-0189.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: report casualty specifics and the detailed public comment thread are summary-condensed, and Vikir's explicit catch-and-kill intention is softened to 'eliminate the imitators.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/aftermath-0186-0189.md"
     },
     {
       "chapter": 190,
@@ -30452,14 +30476,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 185,
+    "completeness_reviewed_count": 189,
     "completeness_pass_count": 112,
-    "completeness_fail_count": 73,
+    "completeness_fail_count": 77,
     "next_family": {
-      "name": "Aftermath",
+      "name": "Attack Land",
       "range": [
-        186,
-        189
+        190,
+        196
       ]
     },
     "confirmed_failures": [
@@ -30973,9 +30997,37 @@
         "family": "Midterm Random Defense",
         "finding": "Cycle 2 Phase 2 FAIL: the food-quality progression is generalized, biological-compass complex/path/step-count mechanics are omitted, the underground-catacomb density statement is reversed/generalized, and the unsupported Bianca-mucus addition remains.",
         "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 186,
+        "gate": "completeness",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 2 FAIL: the Clocktower report's explicit death-toll reference and several distinct public-comment reactions are omitted.",
+        "evidence": "qa/cycle2/completeness/aftermath-0186-0189.md"
+      },
+      {
+        "chapter": 187,
+        "gate": "completeness",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 2 FAIL: the extended first-year-versus-graduating-year salmon analogy and the source's 'survival becomes a vulgar joke' rhetorical beat are summary-condensed/omitted.",
+        "evidence": "qa/cycle2/completeness/aftermath-0186-0189.md"
+      },
+      {
+        "chapter": 188,
+        "gate": "completeness",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 2 FAIL: Sadi's alleged severe beating until students are disabled/crippled is weakened to generic serious injuries.",
+        "evidence": "qa/cycle2/completeness/aftermath-0186-0189.md"
+      },
+      {
+        "chapter": 189,
+        "gate": "completeness",
+        "family": "Aftermath",
+        "finding": "Cycle 2 Phase 2 FAIL: report casualty specifics and the detailed public comment thread are summary-condensed, and Vikir's explicit catch-and-kill intention is softened to 'eliminate the imitators.'",
+        "evidence": "qa/cycle2/completeness/aftermath-0186-0189.md"
       }
     ],
-    "combined_remediation_count": 231,
+    "combined_remediation_count": 232,
     "completeness_only_failures": [
       42,
       48,
@@ -31007,7 +31059,8 @@
       181,
       182,
       183,
-      184
+      184,
+      187
     ]
   }
 }
