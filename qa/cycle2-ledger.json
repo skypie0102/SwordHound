@@ -10794,14 +10794,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's repeated specific accusation that Vikir urinated on the Saintess's belly is generalized to wetting himself while lying over/on her."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source repeatedly specifies the alleged act as urinating on the Saintess's belly; the draft generalizes it to wetting himself while lying over/on her."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
     },
     {
       "chapter": 156,
@@ -10842,14 +10846,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Rule 4 invents a forehead-against-the-wall instruction that is not in the Chinese notice, importing later scene behavior into the rule text."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
     },
     {
       "chapter": 157,
@@ -10890,14 +10898,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit heart-fluttering attraction to Vikir's calm wetting aftermath and Dolores's heart-stirring reaction to the Night Hound are softened to generic impressiveness/interest."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-present heart-flutter, explicit maternal-comedy feeding wording, and the Night Hound's heart-stirring effect on Dolores are generalized/omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
     },
     {
       "chapter": 158,
@@ -30318,14 +30330,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 154,
+    "completeness_reviewed_count": 157,
     "completeness_pass_count": 103,
-    "completeness_fail_count": 51,
+    "completeness_fail_count": 54,
     "next_family": {
-      "name": "How to Keep Your Night Shift Employees Safe",
+      "name": "Familiar Face",
       "range": [
-        155,
-        157
+        158,
+        161
       ]
     },
     "confirmed_failures": [
@@ -30685,9 +30697,30 @@
         "family": "The Drinking Game",
         "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-present whole-body itching and involuntary shiver from close breath contact is replaced with a generic tensing reaction.",
         "evidence": "qa/cycle2/completeness/drinking-game-0152-0154.md"
+      },
+      {
+        "chapter": 155,
+        "gate": "completeness",
+        "family": "How to Keep Your Night Shift Employees Safe",
+        "finding": "Cycle 2 Phase 2 FAIL: the source repeatedly specifies the alleged act as urinating on the Saintess's belly; the draft generalizes it to wetting himself while lying over/on her.",
+        "evidence": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
+      },
+      {
+        "chapter": 156,
+        "gate": "completeness",
+        "family": "How to Keep Your Night Shift Employees Safe",
+        "finding": "Cycle 2 Phase 2 FAIL: Rule 4 invents a forehead-against-the-wall instruction that is not in the Chinese notice, importing later scene behavior into the rule text.",
+        "evidence": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
+      },
+      {
+        "chapter": 157,
+        "gate": "completeness",
+        "family": "How to Keep Your Night Shift Employees Safe",
+        "finding": "Cycle 2 Phase 2 FAIL: source-present heart-flutter, explicit maternal-comedy feeding wording, and the Night Hound's heart-stirring effect on Dolores are generalized/omitted.",
+        "evidence": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
       }
     ],
-    "combined_remediation_count": 221,
+    "combined_remediation_count": 222,
     "completeness_only_failures": [
       42,
       48,
@@ -30709,7 +30742,8 @@
       151,
       152,
       153,
-      154
+      154,
+      156
     ]
   }
 }
