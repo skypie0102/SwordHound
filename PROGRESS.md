@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 77
+
+Direct full-source completeness revalidation has reached **Chapter 77**.
+
+- completeness reviewed: **77 / 500**;
+- PASS: **53**;
+- FAIL: **24**;
+- 15 completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions so far: **42, 48, 55, 61, 63, 69, 70, 71, 72**;
+- combined Cycle-2 remediation population: **209 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**;
+- documented safety-limited and combined-source exceptions were honored without concealing unrelated omissions.
+
+Families completed since the Chapter-60 checkpoint: **The Protagonist of Hunting (61–63)**, **Unfair Trade (64–67)**, **Blood Relatives (68–71)**, **The Red Death (72–74)**, and **The Hound of the Night (75–77)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0077.md`.
+
+Next Phase-2 family: **The Saintess (78–82)**.
+
+
 ## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 60
 
 Direct full-source completeness revalidation has reached **Chapter 60**.
