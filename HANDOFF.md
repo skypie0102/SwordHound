@@ -8,17 +8,17 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 100 / 500 — 68 PASS / 32 FAIL
+**Cycle-2 completeness revalidated:** 132 / 500 — 94 PASS / 38 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 32 Phase-2 completeness failures; 19 completeness failures overlap Phase-1 FAILs and 13 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82), for 213 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — Wave A completeness through Chapter 100; next `Nostalgia (101–104)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 38 Phase-2 completeness failures; 23 completeness failures overlap Phase-1 FAILs and 15 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103), for 215 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 132; next `Test Your Skills (133–138)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
 **Phase-0 merge commit:** 1200bb1183aef5df766be7ed8818f9137cb88254  
 **Wave-A integration:** PR #145 MERGED  
 **Wave-A merge commit:** 8489281a01b025c5effabb172545fc110fc82ae9  
-**Active working branch:** `audit/cycle2-phase1-wave-b`
+**Next working branch after integration:** `audit/cycle2-phase2-wave-b`
 
 ## Why the project focus changed
 
@@ -117,28 +117,29 @@ Evidence:
 
 ## Phase 2 progress
 
-**Phase 2 is ACTIVE. Wave A (Chapters 1–100) is complete.**
+**Phase 2 is ACTIVE through Chapter 132.**
 
-- completeness reviewed: **100 / 500**;
-- PASS: **68**;
-- FAIL: **32**;
-- **19** completeness failures overlap existing Phase-1 sanitization FAILs;
-- **13** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82**;
-- combined Cycle-2 remediation population so far: **213 unique chapters**;
+- completeness reviewed: **132 / 500**;
+- PASS: **94**;
+- FAIL: **38**;
+- **23** completeness failures overlap existing Phase-1 sanitization FAILs;
+- **15** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**;
+- combined Cycle-2 remediation population so far: **215 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
-- completed families continuously through **Madam Eight-Legs (95–100)**;
-- next family: **Nostalgia (101–104)**.
+- Wave A (Chapters 1–100): **COMPLETE**;
+- Wave B current segment (101–132): **26 PASS / 6 FAIL**;
+- next family: **Test Your Skills (133–138)**.
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0100.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
 
 ## Exact next actions
 
-1. Continue Phase 2 with **Nostalgia (101–104)**.
-2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order; do not repeat Chapters 1–100.
-3. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 13 completeness-only additions found so far.
-4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
-5. Continue documenting source gaps, shifted witness mappings, combined raws, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
-6. Synchronize live state files at meaningful completeness checkpoints.
-7. Keep EPUB assembly blocked.
+1. Integrate the current audit branch into `main`.
+2. Continue Phase 2 from **Test Your Skills (133–138)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–132.
+3. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order.
+4. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 15 completeness-only additions found so far.
+5. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
+6. Continue documenting source gaps, shifted witness mappings, combined raws, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
+7. Synchronize live state files at meaningful completeness checkpoints and keep EPUB assembly blocked.
 
-The next agent should resume with **Phase 2 Chapter 101**, not restart earlier phases and not begin Phase-4 repairs.
+The next agent should resume with **Phase 2 Chapter 133**, not restart earlier phases and not begin Phase-4 repairs.
