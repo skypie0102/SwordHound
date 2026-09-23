@@ -600,10 +600,12 @@
         89
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/illiad-0085-0089.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 26,
@@ -7058,14 +7060,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/illiad-0085-0089.md"
     },
     {
       "chapter": 86,
@@ -7106,14 +7112,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/illiad-0085-0089.md"
     },
     {
       "chapter": 87,
@@ -7154,14 +7164,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/illiad-0085-0089.md"
     },
     {
       "chapter": 88,
@@ -7202,14 +7216,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/illiad-0085-0089.md"
     },
     {
       "chapter": 89,
@@ -7250,14 +7268,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/illiad-0085-0089.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/illiad-0085-0089.md"
     },
     {
       "chapter": 90,
@@ -30010,14 +30032,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 84,
-    "completeness_pass_count": 53,
+    "completeness_reviewed_count": 89,
+    "completeness_pass_count": 58,
     "completeness_fail_count": 31,
     "next_family": {
-      "name": "The Illiad",
+      "name": "The Ghosts of the Ancestors",
       "range": [
-        85,
-        89
+        90,
+        94
       ]
     },
     "confirmed_failures": [
