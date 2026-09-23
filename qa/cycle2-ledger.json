@@ -11894,14 +11894,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/99-hits-0176-0178.md"
     },
     {
       "chapter": 177,
@@ -11942,14 +11946,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly has Dolores rub puppy-form Vikir's back and buttocks; the draft retains only his back."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's source-present petting of dog-form Vikir's back and buttocks is reduced to his back only."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/99-hits-0176-0178.md"
     },
     {
       "chapter": 178,
@@ -11990,14 +11998,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's three high-level monster souls trapped in Beelzebub and the separate demon-killing-experience strengthening Vikir's soul are generalized/omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/99-hits-0176-0178.md"
     },
     {
       "chapter": 179,
@@ -30402,14 +30414,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 175,
-    "completeness_pass_count": 110,
-    "completeness_fail_count": 65,
+    "completeness_reviewed_count": 178,
+    "completeness_pass_count": 111,
+    "completeness_fail_count": 67,
     "next_family": {
-      "name": "The 99 Hits With 100 Shots",
+      "name": "Midterm Random Defense",
       "range": [
-        176,
-        178
+        179,
+        185
       ]
     },
     "confirmed_failures": [
@@ -30867,9 +30879,23 @@
         "family": "The Anti-Columnist",
         "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-superlative view of Night Hound is weakened, and her explicit wetting/‘diaper’ reputation details are generalized to an accident/humiliation.",
         "evidence": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
+      },
+      {
+        "chapter": 177,
+        "gate": "completeness",
+        "family": "The 99 Hits With 100 Shots",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-present petting of dog-form Vikir's back and buttocks is reduced to his back only.",
+        "evidence": "qa/cycle2/completeness/99-hits-0176-0178.md"
+      },
+      {
+        "chapter": 178,
+        "gate": "completeness",
+        "family": "The 99 Hits With 100 Shots",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's three high-level monster souls trapped in Beelzebub and the separate demon-killing-experience strengthening Vikir's soul are generalized/omitted.",
+        "evidence": "qa/cycle2/completeness/99-hits-0176-0178.md"
       }
     ],
-    "combined_remediation_count": 225,
+    "combined_remediation_count": 226,
     "completeness_only_failures": [
       42,
       48,
@@ -30895,7 +30921,8 @@
       156,
       165,
       168,
-      175
+      175,
+      178
     ]
   }
 }
