@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-24 — Cycle 2 Phase 2 advanced through Chapter 224
+
+Direct full-source completeness revalidation has reached **Chapter 224**.
+
+- completeness reviewed: **224 / 500**;
+- PASS: **121**;
+- FAIL: **103**;
+- **62** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217**;
+- combined Cycle-2 remediation population: **241 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-202 checkpoint, Chapters **203–224** added **6 PASS / 16 FAIL** across **Mixed Bath**, **Festival Night**, **My Neck Will Be Your Sheath**, and **That Day, Him and Me**. New completeness-only additions in this span are **207, 211, 212, 216, and 217**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0224.md`.
+
+Next Phase-2 family: **Tuition (225–233)**.
+
 ## 2026-09-24 — Cycle 2 Phase 2 Wave B complete through Chapter 202
 
 Direct full-source completeness revalidation has reached **Chapter 202**.
