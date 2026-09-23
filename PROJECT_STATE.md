@@ -1,18 +1,18 @@
 # Project State
 
-**Checkpoint:** 2026-09-21  
+**Checkpoint:** 2026-09-23
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 audit:** ACTIVE — immediate project priority  
-**Sanitization reviewed:** 100 / 500
-**Sanitization PASS:** 62 / 500
-**Sanitization FAIL:** 20 / 500
+**Sanitization reviewed:** 500 / 500 — COMPLETE
+**Sanitization PASS:** 282 / 500
+**Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 0 / 500  
+**Completeness revalidated:** 132 / 500 — 94 PASS / 38 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 20 sanitization-fidelity failures in Wave A; Phase-4 remediation pending
-**Current phase:** Phase 1 — Wave A complete; Wave B begins at Nostalgia (101–104)
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 38 Phase-2 completeness failures; 15 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103) raise the combined remediation population to 215 unique chapters
+**Current phase:** Phase 2 ACTIVE — completeness through Chapter 132; next `Test Your Skills (133–138)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -36,7 +36,7 @@ Phase 0 completed successfully against opening main commit `8177e1c192cd7fcd55b0
 - 31 deterministic diagnostic files cover all 500 chapters with no gaps or overlaps.
 - No accepted manuscript/evidence content changed during baseline capture.
 
-Phase 1 begins with **Hellhound (1–3)**.
+Phase 1 began with **Hellhound (1–3)** and is now complete through Chapter 500.
 
 ## Required gates
 
@@ -63,13 +63,33 @@ Historical acceptance remains evidence but is not a Cycle-2 pass.
 
 The detailed phase definitions, exit gates, and checkpoint requirements are maintained in qa/manuscript-sanitization-completeness-cycle2.md.
 
-## Active Phase-1 findings
+## Active Cycle-2 findings
 
-Wave A (Chapters 1–100) is complete: **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED**. No manuscripts were edited during discovery.
+Phase 1 sanitization is **COMPLETE**:
 
-The 20 failures are recorded with source evidence in `qa/cycle2-phase1-wave-a-summary.md` and remain queued for Phase 4. Safety-limited-reviewed chapters are resolved for Phase 1 and are not remediation failures.
+- Chapters reviewed: **500 / 500**
+- PASS: **282**
+- FAIL: **200**
+- SAFETY-LIMITED-REVIEWED: **18**
+- manuscript edits during Phase-1 discovery: **0**
 
-Phase 1 continues at **Nostalgia (101–104)**.
+All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
+
+Phase 2 completeness has reached **Chapter 132**:
+
+- reviewed: **132 / 500**
+- PASS: **94**
+- FAIL: **38**
+- **23** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**
+- combined Cycle-2 remediation population: **215 unique chapters**
+- manuscript edits during Phase-2 discovery: **0**
+- Wave A (1–100): complete
+- current Wave-B segment (101–132): **26 PASS / 6 FAIL**
+
+Documented shared/combined-source exceptions, source gaps, and safety-limited cases were honored during direct review; formal corpus boundary/alignment clearance remains Phase 3.
+
+Next is **Test Your Skills (133–138)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`.
 
 ## Release gate
 

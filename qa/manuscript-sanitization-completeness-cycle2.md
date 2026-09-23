@@ -6,23 +6,44 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 1 ACTIVE — Wave A (1–100) COMPLETE; Wave B begins at 101
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 132; next `Test Your Skills (133–138)`
 
 ## Progress
 
-### Phase 1 — ACTIVE
+### Phase 1 — COMPLETE
 
-**Wave A (Chapters 1–100): COMPLETE**
+**Full-corpus result**
 
-- reviewed: **100 / 100**
-- PASS: **62**
-- FAIL: **20**
+- reviewed: **500 / 500**
+- PASS: **282**
+- FAIL: **200**
 - SAFETY-LIMITED-REVIEWED: **18**
 - manuscript edits during discovery: **0**
-- failure remediation deferred to Phase 4
-- evidence: `qa/cycle2-phase1-wave-a-summary.md`
+- all 200 FAIL chapters remain deferred to Phase 4
 
-**Next:** Wave B begins with **Nostalgia (101–104)**.
+Wave accounting:
+- Wave A (1–100): **62 PASS / 20 FAIL / 18 safety-limited**
+- Wave B (101–202): **70 PASS / 32 FAIL**
+- Wave C (203–306): **52 PASS / 52 FAIL**
+- Wave D (307–402): **47 PASS / 49 FAIL**
+- Wave E (403–500): **51 PASS / 47 FAIL**
+
+Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidence under `qa/cycle2/sanitization/`, and `qa/cycle2-ledger.json`.
+
+### Phase 2 — ACTIVE
+
+- completeness reviewed: **132 / 500**
+- PASS: **94**
+- FAIL: **38**
+- 23 failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**
+- current combined remediation population: **215 unique chapters**
+- manuscript edits during discovery: **0**
+- Wave A (Chapters 1–100): **COMPLETE**
+- Wave B current segment (101–132): **26 PASS / 6 FAIL**
+- next family: **Test Your Skills (133–138)**
+
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
 
 ### Phase 0 — COMPLETE
 
@@ -37,8 +58,6 @@ Baseline frozen at main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`.
 - 0 manuscript/evidence content edits occurred before baseline closure.
 
 Evidence: `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, `qa/cycle2-ledger.json`, and `qa/cycle2-baseline/`.
-
-**Next:** Phase 1 sanitization-fidelity review begins at **Hellhound (1–3)**.
 
 ## Purpose
 
@@ -281,7 +300,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Complete Phase 0 baseline inventory and create the Cycle-2 ledger.
-2. Begin Phase 1 at the first contiguous title family, **Hellhound (1–3)**.
-3. Continue in target order without stopping at arbitrary single-chapter checkpoints.
-4. Keep HANDOFF.md, PROJECT_STATE.md, tracker state, and the Cycle-2 audit record synchronized after meaningful checkpoints.
+1. Integrate the current audit branch into `main`.
+2. Continue Phase 2 at **Test Your Skills (133–138)** on the next Phase-2 working branch.
+3. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–132.
+4. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
+5. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
+6. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
+7. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.

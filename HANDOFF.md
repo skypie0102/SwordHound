@@ -1,24 +1,24 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-21  
+**Checkpoint:** 2026-09-23
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
-**Cycle-2 sanitization reviewed:** 100 / 500
-**Cycle-2 sanitization PASS:** 62 / 500
-**Cycle-2 sanitization FAIL:** 20 / 500 — queued for Phase 4
+**Cycle-2 sanitization reviewed:** 500 / 500 — Phase 1 COMPLETE
+**Cycle-2 sanitization PASS:** 282 / 500
+**Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 0 / 500  
+**Cycle-2 completeness revalidated:** 132 / 500 — 94 PASS / 38 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 20 sanitization-fidelity failures in Chapters 1–100; see `qa/cycle2-phase1-wave-a-summary.md`
-**Current audit stage:** Phase 1 — full-corpus sanitization fidelity sweep
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 38 Phase-2 completeness failures; 23 completeness failures overlap Phase-1 FAILs and 15 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103), for 215 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 132; next `Test Your Skills (133–138)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
 **Phase-0 merge commit:** 1200bb1183aef5df766be7ed8818f9137cb88254  
 **Wave-A integration:** PR #145 MERGED  
 **Wave-A merge commit:** 8489281a01b025c5effabb172545fc110fc82ae9  
-**Next working branch:** audit/cycle2-phase1-wave-b
+**Next working branch after integration:** `audit/cycle2-phase2-wave-b`
 
 ## Why the project focus changed
 
@@ -90,27 +90,56 @@ Evidence:
 
 ## Phase 1 progress
 
-**Wave A (Chapters 1–100): COMPLETE.**
+**Phase 1 is COMPLETE across Chapters 1–500.**
 
-- reviewed: **100 / 100**;
-- PASS: **62**;
-- FAIL: **20**;
+- reviewed: **500 / 500**;
+- PASS: **282**;
+- FAIL: **200**;
 - SAFETY-LIMITED-REVIEWED: **18**;
-- resolved without remediation: **80 / 100**;
-- manuscript edits during Phase-1 discovery: **0**;
-- all 20 failures are queued for Phase 4 rather than patched piecemeal.
+- manuscript edits during discovery: **0**;
+- all **200** FAIL chapters remain queued for Phase 4.
 
-Wave-A evidence and failure list: `qa/cycle2-phase1-wave-a-summary.md`.
+Wave accounting:
+- Wave A, Chapters 1–100: **62 PASS / 20 FAIL / 18 safety-limited**
+- Wave B, Chapters 101–202: **70 PASS / 32 FAIL**
+- Wave C, Chapters 203–306: **52 PASS / 52 FAIL**
+- Wave D, Chapters 307–402: **47 PASS / 49 FAIL**
+- Wave E, Chapters 403–500: **51 PASS / 47 FAIL**
 
-The ledger's interrupted-run safety status vocabulary was normalized at this checkpoint so later automation sees one canonical safety status.
+Evidence:
+- `qa/cycle2-phase1-summary.md`
+- `qa/cycle2-phase1-wave-a-summary.md`
+- `qa/cycle2-phase1-wave-b-summary.md`
+- `qa/cycle2-phase1-wave-c-summary.md`
+- `qa/cycle2-phase1-wave-d-summary.md`
+- `qa/cycle2-phase1-wave-e-summary.md`
+- family evidence under `qa/cycle2/sanitization/`
+
+## Phase 2 progress
+
+**Phase 2 is ACTIVE through Chapter 132.**
+
+- completeness reviewed: **132 / 500**;
+- PASS: **94**;
+- FAIL: **38**;
+- **23** completeness failures overlap existing Phase-1 sanitization FAILs;
+- **15** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**;
+- combined Cycle-2 remediation population so far: **215 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**;
+- Wave A (Chapters 1–100): **COMPLETE**;
+- Wave B current segment (101–132): **26 PASS / 6 FAIL**;
+- next family: **Test Your Skills (133–138)**.
+
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
 
 ## Exact next actions
 
-1. Integrate the completed Wave-A audit package.
-2. Continue Phase 1 with **Nostalgia (101–104)**.
-3. Proceed through Wave B in contiguous title-family order through Chapter 200.
-4. Do not remediate Wave-A failures yet; Phase 4 owns manuscript correction/rebinding after discovery gates finish.
-5. Keep sanitization PASS / FAIL / SAFETY-LIMITED-REVIEWED as separate dispositions.
-6. Keep EPUB assembly blocked.
+1. Integrate the current audit branch into `main`.
+2. Continue Phase 2 from **Test Your Skills (133–138)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–132.
+3. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order.
+4. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 15 completeness-only additions found so far.
+5. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
+6. Continue documenting source gaps, shifted witness mappings, combined raws, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
+7. Synchronize live state files at meaningful completeness checkpoints and keep EPUB assembly blocked.
 
-The next agent should not resume EPUB packaging. The audit is the immediate project focus until Phase 6 closes.
+The next agent should resume with **Phase 2 Chapter 133**, not restart earlier phases and not begin Phase-4 repairs.

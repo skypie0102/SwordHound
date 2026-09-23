@@ -1,5 +1,258 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 132
+
+Direct full-source completeness revalidation has reached **Chapter 132**.
+
+- completeness reviewed: **132 / 500**;
+- PASS: **94**;
+- FAIL: **38**;
+- **23** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**;
+- combined Cycle-2 remediation population: **215 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Families completed after the Chapter-100 checkpoint: **Nostalgia (101–104)**, **The Returned Hero (105–109)**, **The Great Banquet (110–116)**, **Falling in Love (117–119)**, **The Hunt for the Second Son (120–125)**, **Admission to the Academy (126–129)**, and **The Freshman Talent Show (130–132)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0132.md`.
+
+Next Phase-2 family: **Test Your Skills (133–138)**.
+
+
+## 2026-09-23 — Cycle 2 Phase 2 Wave A complete through Chapter 100
+
+Direct full-source completeness revalidation has completed **Chapters 1–100**.
+
+- completeness reviewed: **100 / 500**;
+- PASS: **68**;
+- FAIL: **32**;
+- 19 completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82**;
+- combined Cycle-2 remediation population: **213 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Families completed after the Chapter-77 checkpoint: **The Saintess (78–82)**, **Lovesickness (83–84)**, **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)**.
+
+Chapter 95's localized source gap and the Chapter 100/101 boundary were rechecked against their documented exception/alignment evidence. Formal corpus structural clearance remains Phase 3.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0100.md`.
+
+Next Phase-2 family: **Nostalgia (101–104)**.
+
+
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 77
+
+Direct full-source completeness revalidation has reached **Chapter 77**.
+
+- completeness reviewed: **77 / 500**;
+- PASS: **53**;
+- FAIL: **24**;
+- 15 completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions so far: **42, 48, 55, 61, 63, 69, 70, 71, 72**;
+- combined Cycle-2 remediation population: **209 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**;
+- documented safety-limited and combined-source exceptions were honored without concealing unrelated omissions.
+
+Families completed since the Chapter-60 checkpoint: **The Protagonist of Hunting (61–63)**, **Unfair Trade (64–67)**, **Blood Relatives (68–71)**, **The Red Death (72–74)**, and **The Hound of the Night (75–77)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0077.md`.
+
+Next Phase-2 family: **The Saintess (78–82)**.
+
+
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 60
+
+Direct full-source completeness revalidation has reached **Chapter 60**.
+
+- completeness reviewed: **60 / 500**;
+- PASS: **49**;
+- FAIL: **11** — Chapters **22, 24, 36, 37, 40, 42, 48, 51, 52, 55, 60**;
+- 8 completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55**;
+- combined Cycle-2 remediation population: **203 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**;
+- documented 54/55 shared-raw boundary was honored, with formal structural clearance still reserved for Phase 3.
+
+Recent completed families: **The Social Club (32–34)**, **Slave Auction (35–37)**, **Sponsored (38–39)**, **Morgue's United Front (40–42)**, **The Fiancée (43–45)**, **The Husband Hunt (46–51)**, **Slaves of the Savage Tribe (52–54)**, and **The Hunter and the Hunted (55–60)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0060.md`.
+
+Next Phase-2 family: **The Protagonist of Hunting (61–63)**.
+
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 31
+
+Direct full-source completeness revalidation has reached **Chapter 31**.
+
+- completeness reviewed: **31 / 500**;
+- PASS: **29**;
+- FAIL: **2** — Chapters **22 and 24**;
+- both completeness failures overlap Phase-1 sanitization failures already queued for Phase 4;
+- manuscript edits during Phase-2 discovery: **0**;
+- latest completed families: **The Gluttonous Flies (12–13)**, **Solitary (14–17)**, **Bared Teeth (18–19)**, **Camus Morgue (20–25)**, **The Graduate (26–27)**, and **Special Laws of Vikir (28–31)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0031.md`.
+
+Next Phase-2 family: **The Social Club (32–34)**.
+
+
+## 2026-09-23 — Cycle 2 Phase 2 started through Chapter 11
+
+Full-corpus completeness revalidation is active.
+
+- completeness reviewed: **11 / 500**;
+- PASS: **11**;
+- FAIL: **0**;
+- manuscript edits during Phase-2 discovery: **0**;
+- completed families: **Hellhound (1–3)**, **The Baskerville Dog (4–7)**, **Hounds of Hell (8–11)**;
+- next family: **The Gluttonous Flies (12–13)**.
+
+Phase-1 sanitization remains closed at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**; the 200 sanitization failures remain deferred to Phase 4.
+
+
+## 2026-09-23 — Cycle 2 Phase 1 COMPLETE across Chapters 1–500
+
+Direct Chinese-primary sanitization review is complete for the entire target corpus.
+
+- reviewed: **500 / 500**;
+- PASS: **282**;
+- FAIL: **200**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave E operational scope 403–500: **51 PASS / 47 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **200** FAIL chapters remain queued for Phase 4.
+
+Phase-1 evidence is consolidated in `qa/cycle2-phase1-summary.md`; Wave-E evidence is in `qa/cycle2-phase1-wave-e-summary.md`.
+
+Next audit gate: **Phase 2 — full-corpus completeness revalidation**, beginning with **Hellhound (1–3)**. EPUB assembly remains blocked.
+
+
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 453
+
+Direct Chinese-primary sanitization review has reached **Chapter 453**.
+
+- overall reviewed: **453 / 500**;
+- PASS: **256**;
+- FAIL: **179**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave E segment 403–453: **25 PASS / 26 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **179** failures remain queued for Phase 4.
+
+Recent completed families include **The Returned Hound (434–436)**, **Dreaming the Impossible Dream (437–440)**, **The Fall of Usher (441–449)**, and **Declaration of War (450–453)**.
+
+Next Phase-1 family: **Infiltration of the Water Source (454–464)**.
+
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 433
+
+Direct Chinese-primary sanitization review has reached **Chapter 433**.
+
+- overall reviewed: **433 / 500**;
+- PASS: **245**;
+- FAIL: **170**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave E segment 403–433: **14 PASS / 17 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **170** failures remain queued for Phase 4.
+
+Recent completed families: **Jailbreaker (403–408)**, **End game (409–418)**, **Goodbye, Nouvelle Vague (419–421)**, **How to Become a Wandering Knight (422–424)**, **The Night Walkers (425–429)**, and **The Lion King (430–433)**.
+
+Next Phase-1 family: **The Returned Hound (434–436)**.
+
+
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 418
+
+Direct Chinese-primary sanitization review has reached **Chapter 418**.
+
+- overall reviewed: **418 / 500**;
+- PASS: **239**;
+- FAIL: **161**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave D is family-complete through Chapter 402: **47 PASS / 49 FAIL** across Chapters 307–402;
+- Wave E segment 403–418: **8 PASS / 8 FAIL**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **161** failures remain queued for Phase 4.
+
+Recent completed families are **Jailbreaker (403–408)** at 2 PASS / 4 FAIL and **End game (409–418)** at 6 PASS / 4 FAIL.
+
+Wave-D evidence: `qa/cycle2-phase1-wave-d-summary.md`.
+
+Next Phase-1 family: **Goodbye, Nouvelle Vague (419–421)**.
+
+
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 365
+
+Direct Chinese-primary sanitization review has reached **Chapter 365**.
+
+- overall reviewed: **365 / 500**;
+- PASS: **215**;
+- FAIL: **132**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave-D segment 307–365: **31 PASS / 28 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all **132** failures remain queued for Phase 4.
+
+Recent review has progressed through *Hell Tree* and subsequent Wave-D families to **Ghost Castle of the Ultra-Deep Sea (363–365)**. The latest family was **2 PASS / 1 FAIL**, with Chapter 364 queued for its omitted source-explicit foot-severing result during the admission ceremony.
+
+Next Phase-1 family: **The Underground Extension Construction (366–368)**.
+
+
+## 2026-09-22 — Cycle 2 Phase 1 Wave C family-complete checkpoint through Chapter 306
+
+Direct Chinese-primary sanitization review has reached **Chapter 306**.
+
+- overall reviewed: **306 / 500**;
+- PASS: **184**;
+- FAIL: **104**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave-C operational scope 203–306: **52 PASS / 52 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all 104 failures remain queued for Phase 4.
+
+The operational Wave-C scope begins at Chapter 203 because Wave B was extended through *The Corpse Queen (198–202)*. It continues through Chapter 306 because *The Age of the Warmonger (299–306)* crosses the nominal Chapter-300 boundary.
+
+Wave-C evidence: `qa/cycle2-phase1-wave-c-summary.md` and `qa/cycle2/sanitization/`.
+
+Next Phase-1 family: **Hell Tree (307–313)**.
+
+
+## 2026-09-22 — Cycle 2 Phase 1 advanced through Chapter 260
+
+Direct Chinese-primary sanitization review has reached **Chapter 260**.
+
+- overall reviewed: **260 / 500**;
+- PASS: **164**;
+- FAIL: **78**;
+- SAFETY-LIMITED-REVIEWED: **18**;
+- Wave-C segment 203–260: **32 PASS / 26 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- all 78 failures remain queued for Phase 4.
+
+Recent completed families include Mixed Bath (203–205), Festival Night (206–215), My Neck Will Be Your Sheath (216–219), That Day, Him and Me (220–224), Tuition (225–233), Suspicion (234–235), National University League (236–244), Survival Contest (245–249), Recap / Celebration Banquet (250–252), Five Stars (253–254), and The Grave of Swords (255–260).
+
+Next Phase-1 family: **The Inverted Pentagram (261–263)**.
+
+
+## 2026-09-21 — Cycle 2 Phase 1 Wave B family-complete checkpoint through Chapter 202
+
+Direct Chinese-primary sanitization review has advanced through **Chapter 202**.
+
+- overall reviewed: **202 / 500**;
+- overall PASS: **132**;
+- overall FAIL: **52**;
+- overall SAFETY-LIMITED-REVIEWED: **18**;
+- Chapters 101–202: **70 PASS / 32 FAIL / 0 safety-limited**;
+- manuscript edits during Phase-1 discovery: **0**;
+- completeness and boundary/alignment remain pending their later phases.
+
+The nominal Wave-B band ends at Chapter 200, but *The Corpse Queen* spans Chapters 198–202. The checkpoint was therefore extended through Chapter 202 to preserve the contiguous-family rule.
+
+New Wave-B/extension failure chapters are **129–133, 135–140, 155, 157–163, 166–167, 177, 185–186, 188–189, 191, 197–199, and 201–202** (32 chapters total). All remain queued for Phase 4; no manuscript patches were made during discovery.
+
+Wave-B evidence: `qa/cycle2-phase1-wave-b-summary.md` and `qa/cycle2/sanitization/`.
+
+Next Phase-1 family: **Mixed Bath (203–205)**.
+
+
 ## 2026-09-21 — Cycle 2 Phase 1 sanitization Wave A COMPLETE
 
 Direct Chinese-primary sanitization review completed for **Chapters 1–100**.
