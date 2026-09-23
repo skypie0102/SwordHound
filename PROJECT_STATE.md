@@ -1,6 +1,6 @@
 # Project State
 
-**Checkpoint:** 2026-09-23
+**Checkpoint:** 2026-09-24
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 169 / 500 — 105 PASS / 64 FAIL
+**Completeness revalidated:** 185 / 500 — 112 PASS / 73 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 64 Phase-2 completeness failures; 24 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168) raise the combined remediation population to 224 unique chapters
-**Current phase:** Phase 2 ACTIVE — completeness through Chapter 169; next `Adorable Pet (170–171)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 73 Phase-2 completeness failures; 31 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184) raise the combined remediation population to 231 unique chapters
+**Current phase:** Phase 2 ACTIVE — completeness through Chapter 185; next `Aftermath (186–189)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -75,21 +75,21 @@ Phase 1 sanitization is **COMPLETE**:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-Phase 2 completeness has reached **Chapter 169**:
+Phase 2 completeness has reached **Chapter 185**:
 
-- reviewed: **169 / 500**
-- PASS: **105**
-- FAIL: **64**
-- **40** completeness failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168**
-- combined Cycle-2 remediation population: **224 unique chapters**
+- reviewed: **185 / 500**
+- PASS: **112**
+- FAIL: **73**
+- **42** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184**
+- combined Cycle-2 remediation population: **231 unique chapters**
 - manuscript edits during Phase-2 discovery: **0**
 - Wave A (1–100): complete at **68 PASS / 32 FAIL**
-- current Wave-B segment (101–169): **37 PASS / 32 FAIL**
+- current Wave-B segment (101–185): **44 PASS / 41 FAIL**
 
 Documented shared/combined-source exceptions, source gaps, and safety-limited cases were honored during direct review; formal corpus boundary/alignment clearance remains Phase 3.
 
-Next is **Adorable Pet (170–171)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0169.md`.
+Next is **Aftermath (186–189)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0185.md`.
 
 ## Release gate
 
