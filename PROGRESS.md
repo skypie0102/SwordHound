@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-24 — Cycle 2 Phase 2 advanced through Chapter 185
+
+Direct full-source completeness revalidation has reached **Chapter 185**.
+
+- completeness reviewed: **185 / 500**;
+- PASS: **112**;
+- FAIL: **73**;
+- **42** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184**;
+- combined Cycle-2 remediation population: **231 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-169 checkpoint, Chapters **170–185** added **7 PASS / 9 FAIL** across **Adorable Pet**, **The Anti-Columnist**, **The 99 Hits With 100 Shots**, and **Midterm Random Defense**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0185.md`.
+
+Next Phase-2 family: **Aftermath (186–189)**.
+
 ## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 169
 
 Direct full-source completeness revalidation has reached **Chapter 169**.
