@@ -1,6 +1,6 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-23
+**Checkpoint:** 2026-09-24
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 169 / 500 — 105 PASS / 64 FAIL
+**Cycle-2 completeness revalidated:** 185 / 500 — 112 PASS / 73 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 64 Phase-2 completeness failures; 40 completeness failures overlap Phase-1 FAILs and 24 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168), for 224 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 169; next `Adorable Pet (170–171)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 73 Phase-2 completeness failures; 42 completeness failures overlap Phase-1 FAILs and 31 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184), for 231 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 185; next `Aftermath (186–189)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -117,28 +117,28 @@ Evidence:
 
 ## Phase 2 progress
 
-**Phase 2 is ACTIVE through Chapter 169.**
+**Phase 2 is ACTIVE through Chapter 185.**
 
-- completeness reviewed: **169 / 500**;
-- PASS: **105**;
-- FAIL: **64**;
-- **40** completeness failures overlap existing Phase-1 sanitization FAILs;
-- **24** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168**;
-- combined Cycle-2 remediation population so far: **224 unique chapters**;
+- completeness reviewed: **185 / 500**;
+- PASS: **112**;
+- FAIL: **73**;
+- **42** completeness failures overlap existing Phase-1 sanitization FAILs;
+- **31** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184**;
+- combined Cycle-2 remediation population so far: **231 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
 - Wave A (Chapters 1–100): **COMPLETE — 68 PASS / 32 FAIL**;
-- Wave B current segment (101–169): **37 PASS / 32 FAIL**;
-- next family: **Adorable Pet (170–171)**.
+- Wave B current segment (101–185): **44 PASS / 41 FAIL**;
+- next family: **Aftermath (186–189)**.
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0169.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0185.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
 
 ## Exact next actions
 
-1. Continue Phase 2 from **Adorable Pet (170–171)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–169.
+1. Continue Phase 2 from **Aftermath (186–189)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–185.
 2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order.
-3. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 24 completeness-only additions found so far.
+3. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 31 completeness-only additions found so far.
 4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
 5. Continue documenting source gaps, shifted witness mappings, combined raws, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
 6. Synchronize live state files at meaningful completeness checkpoints and keep EPUB assembly blocked.
 
-The next agent should resume with **Phase 2 Chapter 170**, not restart earlier phases and not begin Phase-4 repairs.
+The next agent should resume with **Phase 2 Chapter 186**, not restart earlier phases and not begin Phase-4 repairs.
