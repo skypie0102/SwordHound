@@ -1223,11 +1223,18 @@
         205
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        203,
+        204,
+        205
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
         203,
         204,
         205
@@ -13338,14 +13345,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: habitual humiliation/torment of weaker students is compressed to generic bullying, and an explicit threat to burn dog-form Vikir alive is softened to 'Burn it.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: habitual humiliation/torment is generalized to bullying, 'burn alive' is softened to 'burn it,' and the source's many-victims/unknown-retaliator reflection is compressed."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md"
     },
     {
       "chapter": 204,
@@ -13386,14 +13397,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Dolores's dehumanizing 'pests' characterization and a student's explicit plea that his father will beat him to death are omitted/generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's 'pests' label and a father's beating threat are omitted; exact tooth anatomy, the horizontal double-wisdom-tooth Sixth/Seventh principle, and concrete family-economic expulsion consequences are generalized away."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md"
     },
     {
       "chapter": 205,
@@ -13434,14 +13449,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: several source-present non-explicit bath/affection/body-state details are omitted, including belly/nose contact, repeated kissing, later lip/nose contact, and Dolores's explicit post-bath naked state."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: multiple source-present non-explicit washing/kissing/body-state details and the more specific paired Fang configuration are omitted or compressed despite the retained no-lust framing."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md"
     },
     {
       "chapter": 206,
@@ -30550,14 +30569,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 202,
+    "completeness_reviewed_count": 205,
     "completeness_pass_count": 115,
-    "completeness_fail_count": 87,
+    "completeness_fail_count": 90,
     "next_family": {
-      "name": "Mixed Bath",
+      "name": "Festival Night",
       "range": [
-        203,
-        205
+        206,
+        215
       ]
     },
     "confirmed_failures": [
@@ -31169,6 +31188,27 @@
         "family": "The Corpse Queen",
         "finding": "Cycle 2 Phase 2 FAIL: mouth-expelled thick blood clots/internal-organ fragments are generalized, and the source's pre-interruption false-resolution about the third demon's death, delayed destruction, and requiem is omitted.",
         "evidence": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 203,
+        "gate": "completeness",
+        "family": "Mixed Bath",
+        "finding": "Cycle 2 Phase 2 FAIL: habitual humiliation/torment is generalized to bullying, 'burn alive' is softened to 'burn it,' and the source's many-victims/unknown-retaliator reflection is compressed.",
+        "evidence": "qa/cycle2/completeness/mixed-bath-0203-0205.md"
+      },
+      {
+        "chapter": 204,
+        "gate": "completeness",
+        "family": "Mixed Bath",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's 'pests' label and a father's beating threat are omitted; exact tooth anatomy, the horizontal double-wisdom-tooth Sixth/Seventh principle, and concrete family-economic expulsion consequences are generalized away.",
+        "evidence": "qa/cycle2/completeness/mixed-bath-0203-0205.md"
+      },
+      {
+        "chapter": 205,
+        "gate": "completeness",
+        "family": "Mixed Bath",
+        "finding": "Cycle 2 Phase 2 FAIL: multiple source-present non-explicit washing/kissing/body-state details and the more specific paired Fang configuration are omitted or compressed despite the retained no-lust framing.",
+        "evidence": "qa/cycle2/completeness/mixed-bath-0203-0205.md"
       }
     ],
     "combined_remediation_count": 236,
