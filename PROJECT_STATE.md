@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 77 / 500 — 53 PASS / 24 FAIL
+**Completeness revalidated:** 100 / 500 — 68 PASS / 32 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 24 Phase-2 completeness failures; 9 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72) raise the combined remediation population to 209 unique chapters
-**Current phase:** Phase 2 ACTIVE through Chapter 77; next `The Saintess (78–82)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 32 Phase-2 completeness failures; 13 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82) raise the combined remediation population to 213 unique chapters
+**Current phase:** Phase 2 ACTIVE — Wave A completeness through Chapter 100; next `Nostalgia (101–104)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -73,23 +73,21 @@ Phase 1 sanitization is **COMPLETE**:
 - SAFETY-LIMITED-REVIEWED: **18**
 - manuscript edits during Phase-1 discovery: **0**
 
-Wave summaries:
-- `qa/cycle2-phase1-wave-a-summary.md`
-- `qa/cycle2-phase1-wave-b-summary.md`
-- `qa/cycle2-phase1-wave-c-summary.md`
-- `qa/cycle2-phase1-wave-d-summary.md`
-- `qa/cycle2-phase1-wave-e-summary.md`
-- consolidated summary: `qa/cycle2-phase1-summary.md`
+All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4. Phase 2 independently revalidates completeness across all 500 chapters.
+Phase 2 completeness has completed **Wave A, Chapters 1–100**:
 
-Current Phase-2 position: **77 / 500 reviewed — 53 PASS / 24 FAIL**.
+- reviewed: **100 / 500**
+- PASS: **68**
+- FAIL: **32**
+- **19** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82**
+- combined Cycle-2 remediation population: **213 unique chapters**
+- manuscript edits during Phase-2 discovery: **0**
 
-Of the 24 completeness failures through Chapter 77, **15** overlap existing Phase-1 sanitization failures and **9** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72**. The combined Cycle-2 remediation population is therefore **209 unique chapters**.
+Documented shared/combined-source exceptions, source gaps, and safety-limited cases were honored during direct review; formal corpus boundary/alignment clearance remains Phase 3.
 
-Completed completeness review now runs continuously through **The Hound of the Night (75–77)**. Documented shared/combined-source exceptions have been honored during review; formal boundary/alignment clearance remains Phase 3.
-
-Next is **The Saintess (78–82)**. Checkpoint: `qa/cycle2-phase2-checkpoint-0077.md`.
+Next is **Nostalgia (101–104)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0100.md`.
 
 ## Release gate
 
