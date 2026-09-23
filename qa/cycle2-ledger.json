@@ -9650,14 +9650,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: explicit death threats against the six bullies and their parents, collective-warning language, and the source's 'nearly beaten into meat paste' flashback are materially generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the collective death-threat warning against the six bullies and their parents plus the source's near-'meat paste' beating description are omitted/generalized."
+      ]
     },
     {
       "chapter": 134,
@@ -9698,14 +9702,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ]
     },
     {
       "chapter": 135,
@@ -9746,14 +9754,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: explicit 'beat him up' and repeated 'kill you' aggression is softened to irritation / 'crush you.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit 'beat him up' and repeated 'kill you' aggression is softened to generic irritation / 'crush you.'"
+      ]
     },
     {
       "chapter": 136,
@@ -9794,14 +9806,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Tudor's explicit intent to knock Vikir unconscious and the source's broader injury description are softened/generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Tudor's explicit intent to knock Vikir unconscious and the broader first-collision injury aftermath are omitted/generalized."
+      ]
     },
     {
       "chapter": 137,
@@ -9842,14 +9858,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: a source-explicit bystander reaction asking whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source-explicit bystander question whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'"
+      ]
     },
     {
       "chapter": 138,
@@ -9890,14 +9910,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's materially stronger possessive/objectifying and sexualized crowd reaction to Vikir's appearance is trimmed to generic admiration."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: substantial source crowd/commentary reaction to Vikir is compressed, and the exact Venomphion lethality figure of 44 people per venom drop is generalized to 'dozens.'"
+      ]
     },
     {
       "chapter": 139,
@@ -30230,14 +30254,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 132,
-    "completeness_pass_count": 94,
-    "completeness_fail_count": 38,
+    "completeness_reviewed_count": 138,
+    "completeness_pass_count": 95,
+    "completeness_fail_count": 43,
     "next_family": {
-      "name": "Test Your Skills",
+      "name": "Men are Power",
       "range": [
-        133,
-        138
+        139,
+        140
       ]
     },
     "confirmed_failures": [
@@ -30506,6 +30530,41 @@
         "family": "The Freshman Talent Show",
         "finding": "Cycle 2 Phase 2 FAIL: the source-present attack/injury sequence, fear-wetting response, concrete X-marking/bleeding aftermath, and explicit threat to kill the students and their parents are materially omitted/generalized.",
         "evidence": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      },
+      {
+        "chapter": 133,
+        "gate": "completeness",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 2 FAIL: the collective death-threat warning against the six bullies and their parents plus the source's near-'meat paste' beating description are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 135,
+        "gate": "completeness",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit 'beat him up' and repeated 'kill you' aggression is softened to generic irritation / 'crush you.'",
+        "evidence": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 136,
+        "gate": "completeness",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 2 FAIL: Tudor's explicit intent to knock Vikir unconscious and the broader first-collision injury aftermath are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 137,
+        "gate": "completeness",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-explicit bystander question whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'",
+        "evidence": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 138,
+        "gate": "completeness",
+        "family": "Test Your Skills",
+        "finding": "Cycle 2 Phase 2 FAIL: substantial source crowd/commentary reaction to Vikir is compressed, and the exact Venomphion lethality figure of 44 people per venom drop is generalized to 'dozens.'",
+        "evidence": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
       }
     ],
     "combined_remediation_count": 215,
