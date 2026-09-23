@@ -571,11 +571,17 @@
         84
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        83,
+        84
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lovesickness-0083-0084.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         83,
         84
       ]
@@ -6948,14 +6954,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: severed-limb aftermath and concrete crude/anatomical memory details were generalized."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: explicit severed-limb slave-trader aftermath, Aiyen's wetting-tease memory, boiled-bear-testicle montage detail, and the father's stronger drug-wrongdoing description are generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lovesickness-0083-0084.md"
     },
     {
       "chapter": 84,
@@ -6996,14 +7006,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0078-0094.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Rokoko cannibalism characterization was omitted."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Rokoko cannibalism, Ahun's devout-invocation comparison, the willow-leaf/thousands-of-paces archery scale, and Vikir's stronger control/influence intent toward the tribes are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lovesickness-0083-0084.md"
     },
     {
       "chapter": 85,
@@ -29996,14 +30010,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 82,
+    "completeness_reviewed_count": 84,
     "completeness_pass_count": 53,
-    "completeness_fail_count": 29,
+    "completeness_fail_count": 31,
     "next_family": {
-      "name": "Lovesickness",
+      "name": "The Illiad",
       "range": [
-        83,
-        84
+        85,
+        89
       ]
     },
     "confirmed_failures": [
@@ -30209,6 +30223,20 @@
         "family": "The Saintess",
         "finding": "Cycle 2 Phase 2 FAIL: Dolores's substantive source prayer is compressed to summary, two collapsing stone pillars are weakened to shaking supports, and the Quovadis political-power-over-Emperor statement is omitted.",
         "evidence": "qa/cycle2/completeness/saintess-0078-0082.md"
+      },
+      {
+        "chapter": 83,
+        "gate": "completeness",
+        "family": "Lovesickness",
+        "finding": "Cycle 2 Phase 2 FAIL: explicit severed-limb slave-trader aftermath, Aiyen's wetting-tease memory, boiled-bear-testicle montage detail, and the father's stronger drug-wrongdoing description are generalized.",
+        "evidence": "qa/cycle2/completeness/lovesickness-0083-0084.md"
+      },
+      {
+        "chapter": 84,
+        "gate": "completeness",
+        "family": "Lovesickness",
+        "finding": "Cycle 2 Phase 2 FAIL: Rokoko cannibalism, Ahun's devout-invocation comparison, the willow-leaf/thousands-of-paces archery scale, and Vikir's stronger control/influence intent toward the tribes are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/lovesickness-0083-0084.md"
       }
     ]
   }
