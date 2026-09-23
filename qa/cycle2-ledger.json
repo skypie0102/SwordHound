@@ -736,10 +736,12 @@
         119
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 32,
@@ -8797,14 +8799,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md"
     },
     {
       "chapter": 118,
@@ -8849,14 +8855,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md"
     },
     {
       "chapter": 119,
@@ -8901,14 +8911,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0112-0128.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md"
     },
     {
       "chapter": 120,
@@ -30157,14 +30171,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 116,
-    "completeness_pass_count": 82,
+    "completeness_reviewed_count": 119,
+    "completeness_pass_count": 85,
     "completeness_fail_count": 34,
     "next_family": {
-      "name": "Falling in Love",
+      "name": "The Hunt for the Second Son",
       "range": [
-        117,
-        119
+        120,
+        125
       ]
     },
     "confirmed_failures": [
