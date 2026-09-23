@@ -669,10 +669,16 @@
         104
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        101,
+        103
+      ]
     },
     {
       "index": 29,
@@ -7903,14 +7909,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
+      "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Madam's leaking mucus sac is changed to a silk sac, and the rescue call invents Ahun as a named addressee where the Chinese has only an unnamed repeated call."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md"
     },
     {
       "chapter": 102,
@@ -7951,14 +7961,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md"
     },
     {
       "chapter": 103,
@@ -7999,14 +8013,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
+      "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the explicit 7–8 month female-wolf cycle is omitted, and Aiyen's source-specific reproductive-fitness statement is generalized to a strong bloodline."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md"
     },
     {
       "chapter": 104,
@@ -8047,14 +8065,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md"
     },
     {
       "chapter": 105,
@@ -30083,14 +30105,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 100,
-    "completeness_pass_count": 68,
-    "completeness_fail_count": 32,
+    "completeness_reviewed_count": 104,
+    "completeness_pass_count": 70,
+    "completeness_fail_count": 34,
     "next_family": {
-      "name": "Nostalgia",
+      "name": "The Returned Hero",
       "range": [
-        101,
-        104
+        105,
+        109
       ]
     },
     "confirmed_failures": [
@@ -30317,7 +30339,39 @@
         "family": "The Ghosts of the Ancestors",
         "finding": "Cycle 2 Phase 2 FAIL: the source's blood, torn flesh, and internal-organ fragments running down the thorn tree are generalized to blood and nonspecific ruined tissue.",
         "evidence": "qa/cycle2/completeness/ghosts-ancestors-0090-0094.md"
+      },
+      {
+        "chapter": 101,
+        "gate": "completeness",
+        "family": "Nostalgia",
+        "finding": "Cycle 2 Phase 2 FAIL: Madam's leaking mucus sac is changed to a silk sac, and the rescue call invents Ahun as a named addressee where the Chinese has only an unnamed repeated call.",
+        "evidence": "qa/cycle2/completeness/nostalgia-0101-0104.md"
+      },
+      {
+        "chapter": 103,
+        "gate": "completeness",
+        "family": "Nostalgia",
+        "finding": "Cycle 2 Phase 2 FAIL: the explicit 7–8 month female-wolf cycle is omitted, and Aiyen's source-specific reproductive-fitness statement is generalized to a strong bloodline.",
+        "evidence": "qa/cycle2/completeness/nostalgia-0101-0104.md"
       }
+    ],
+    "combined_remediation_count": 215,
+    "completeness_only_failures": [
+      42,
+      48,
+      55,
+      61,
+      63,
+      69,
+      70,
+      71,
+      72,
+      78,
+      79,
+      80,
+      82,
+      101,
+      103
     ]
   }
 }
