@@ -11158,14 +11158,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0146-0162.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Dolores's source-explicit heart-flutter reaction to the Night Hound's hidden beauty is omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's source-explicit heart-flutter reaction to the Night Hound's hidden beauty is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 163,
@@ -11206,14 +11210,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: real faces being peeled from victims' facial skin and the source's 'sexy woman' face descriptor are generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dantalian's real facial-skin harvesting detail and the source's 'sexy woman' face descriptor are generalized/omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 164,
@@ -11254,14 +11262,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 165,
@@ -11302,14 +11314,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit execution of implicated Baskerville collaborators and Hugo's concrete beard/Pomeranian detail are generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 166,
@@ -11350,14 +11366,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: blood/flesh/internal-organ fragments covering the floor and Dolores's source-explicit physical comforting impulses are omitted/compressed."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: floor-covering blood/flesh/internal-organ fragments, the 500+ near-death count, and Dolores's concrete comforting imagery are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 167,
@@ -11398,14 +11418,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's physical-and-spiritual fusion sensation during soul resonance is changed to 'Not physically. Spiritually.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the logging-axes aura comparison, blood-vessel dilation mechanism, and physical-and-spiritual fusion wording are altered/omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 168,
@@ -11446,14 +11470,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the whimpering-puppies aftermath beat and Dolores's source-described body-and-mind-unity/euphoria from soul resonance are omitted/compressed."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 169,
@@ -11494,14 +11522,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "chapter": 170,
@@ -30346,14 +30378,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 161,
-    "completeness_pass_count": 103,
-    "completeness_fail_count": 58,
+    "completeness_reviewed_count": 169,
+    "completeness_pass_count": 105,
+    "completeness_fail_count": 64,
     "next_family": {
-      "name": "Sin and Punishment",
+      "name": "Adorable Pet",
       "range": [
-        162,
-        169
+        170,
+        171
       ]
     },
     "confirmed_failures": [
@@ -30762,9 +30794,51 @@
         "family": "Familiar Face",
         "finding": "Cycle 2 Phase 2 FAIL: the source's clinical naked-corpse/anti-erotic identification detail and concrete secondary-physical-development comparison are omitted/generalized.",
         "evidence": "qa/cycle2/completeness/familiar-face-0158-0161.md"
+      },
+      {
+        "chapter": 162,
+        "gate": "completeness",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-explicit heart-flutter reaction to the Night Hound's hidden beauty is omitted.",
+        "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 163,
+        "gate": "completeness",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: Dantalian's real facial-skin harvesting detail and the source's 'sexy woman' face descriptor are generalized/omitted.",
+        "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 165,
+        "gate": "completeness",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit execution of implicated Baskerville collaborators and Hugo's concrete beard/Pomeranian detail are generalized.",
+        "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 166,
+        "gate": "completeness",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: floor-covering blood/flesh/internal-organ fragments, the 500+ near-death count, and Dolores's concrete comforting imagery are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 167,
+        "gate": "completeness",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: the logging-axes aura comparison, blood-vessel dilation mechanism, and physical-and-spiritual fusion wording are altered/omitted.",
+        "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 168,
+        "gate": "completeness",
+        "family": "Sin and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: the whimpering-puppies aftermath beat and Dolores's source-described body-and-mind-unity/euphoria from soul resonance are omitted/compressed.",
+        "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
       }
     ],
-    "combined_remediation_count": 222,
+    "combined_remediation_count": 224,
     "completeness_only_failures": [
       42,
       48,
@@ -30787,7 +30861,9 @@
       152,
       153,
       154,
-      156
+      156,
+      165,
+      168
     ]
   }
 }
