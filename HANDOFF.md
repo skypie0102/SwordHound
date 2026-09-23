@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 60 / 500 — 49 PASS / 11 FAIL
+**Cycle-2 completeness revalidated:** 77 / 500 — 53 PASS / 24 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 11 Phase-2 completeness failures; 8 completeness failures overlap Phase-1 FAILs and 3 are additional completeness-only chapters (42, 48, 55), for 203 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 60; next `The Protagonist of Hunting (61–63)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 24 Phase-2 completeness failures; 15 completeness failures overlap Phase-1 FAILs and 9 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72), for 209 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 77; next `The Saintess (78–82)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -119,26 +119,26 @@ Evidence:
 
 **Phase 2 is ACTIVE.**
 
-- completeness reviewed: **60 / 500**;
-- PASS: **49**;
-- FAIL: **11** — Chapters **22, 24, 36, 37, 40, 42, 48, 51, 52, 55, 60**;
-- **8** completeness failures overlap existing Phase-1 sanitization FAILs;
-- **3** are additional completeness-only chapters: **42, 48, 55**;
-- combined Cycle-2 remediation population so far: **203 unique chapters**;
+- completeness reviewed: **77 / 500**;
+- PASS: **53**;
+- FAIL: **24**;
+- **15** completeness failures overlap existing Phase-1 sanitization FAILs;
+- **9** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72**;
+- combined Cycle-2 remediation population so far: **209 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
-- completed families through **The Hunter and the Hunted (55–60)**;
-- next family: **The Protagonist of Hunting (61–63)**.
+- completed families continuously through **The Hound of the Night (75–77)**;
+- next family: **The Saintess (78–82)**.
 
-Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0060.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0077.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
 
 ## Exact next actions
 
-1. Continue Phase 2 with **The Protagonist of Hunting (61–63)**.
-2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order; do not repeat Chapters 1–60.
-3. Keep completeness independent from sanitization; preserve all existing Phase-1 dispositions and the three completeness-only additions.
+1. Continue Phase 2 with **The Saintess (78–82)**.
+2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order; do not repeat Chapters 1–77.
+3. Keep completeness independent from sanitization; preserve all existing Phase-1 dispositions and the nine completeness-only additions.
 4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
-5. Continue documenting combined raws, source gaps, and shifted witness mappings without prematurely declaring Phase-3 boundary clearance.
+5. Continue documenting combined raws, source gaps, shifted witness mappings, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
 6. Synchronize live state files at meaningful completeness checkpoints.
 7. Keep EPUB assembly blocked.
 
-The next agent should resume with **Phase 2 Chapter 61**, not restart earlier phases and not begin Phase-4 repairs.
+The next agent should resume with **Phase 2 Chapter 78**, not restart earlier phases and not begin Phase-4 repairs.
