@@ -382,11 +382,17 @@
         60
       ],
       "sanitization_status": "mixed",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        60
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        55,
         60
       ]
     },
@@ -5428,14 +5434,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Chinese shaman says hunters must receive his blessing or he will ring the warning bell; the draft replaces that action with an unsupported threat to 'curse the lot of you.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 56,
@@ -5476,14 +5487,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 57,
@@ -5524,14 +5540,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 58,
@@ -5572,14 +5593,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 59,
@@ -5620,14 +5646,19 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 60,
@@ -5668,7 +5699,7 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0046-0060.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: concrete combat-gore details were generalized.",
@@ -5676,7 +5707,12 @@
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: eye/nerve churning is generalized to nerve damage, Vikir's high-ranking-demon predator comparison is omitted, and the brain burned to a charred ruined state is softened to being 'cooked through.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "chapter": 61,
@@ -29827,14 +29863,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 54,
-    "completeness_pass_count": 45,
-    "completeness_fail_count": 9,
+    "completeness_reviewed_count": 60,
+    "completeness_pass_count": 49,
+    "completeness_fail_count": 11,
     "next_family": {
-      "name": "The Hunter and the Hunted",
+      "name": "The Protagonist of Hunting",
       "range": [
-        55,
-        60
+        61,
+        63
       ]
     },
     "confirmed_failures": [
@@ -29900,6 +29936,20 @@
         "family": "Slaves of the Savage Tribe",
         "finding": "Cycle 2 Phase 2 FAIL: the source explicitly says sharp ends of spiral-fractured ribs pierce Vikir's internal organs; the draft generalizes this to merely damaging his organs.",
         "evidence": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md"
+      },
+      {
+        "chapter": 55,
+        "gate": "completeness",
+        "family": "The Hunter and the Hunted",
+        "finding": "Cycle 2 Phase 2 FAIL: the Chinese shaman says hunters must receive his blessing or he will ring the warning bell; the draft replaces that action with an unsupported threat to 'curse the lot of you.'",
+        "evidence": "qa/cycle2/completeness/hunter-hunted-0055-0060.md"
+      },
+      {
+        "chapter": 60,
+        "gate": "completeness",
+        "family": "The Hunter and the Hunted",
+        "finding": "Cycle 2 Phase 2 FAIL: eye/nerve churning is generalized to nerve damage, Vikir's high-ranking-demon predator comparison is omitted, and the brain burned to a charred ruined state is softened to being 'cooked through.'",
+        "evidence": "qa/cycle2/completeness/hunter-hunted-0055-0060.md"
       }
     ]
   }
