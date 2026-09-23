@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 31 / 500 — 29 PASS / 2 FAIL
+**Completeness revalidated:** 60 / 500 — 49 PASS / 11 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 2 Phase-2 completeness failures (Chapters 22 and 24; overlapping existing sanitization failures); Phase-4 remediation pending
-**Current phase:** Phase 2 ACTIVE through Chapter 31; next `The Social Club (32–34)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 11 Phase-2 completeness failures; 3 completeness-only additions (42, 48, 55) raise the combined remediation population to 203 unique chapters
+**Current phase:** Phase 2 ACTIVE through Chapter 60; next `The Protagonist of Hunting (61–63)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -83,8 +83,13 @@ Wave summaries:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4. Phase 2 now independently revalidates completeness across all 500 chapters.
 
-Current Phase-2 position: **31 / 500 reviewed — 29 PASS / 2 FAIL**. The two completeness failures are Chapters **22 and 24**, both already present in the Phase-1 sanitization remediation set. Completed completeness review now runs continuously through **Special Laws of Vikir (28–31)**. Next is **The Social Club (32–34)**.
+Current Phase-2 position: **60 / 500 reviewed — 49 PASS / 11 FAIL**.
 
+Completeness failures through Chapter 60 are **22, 24, 36, 37, 40, 42, 48, 51, 52, 55, and 60**. Eight overlap existing Phase-1 sanitization failures. Chapters **42, 48, and 55** are completeness-only additions, bringing the current combined remediation population to **203 unique chapters**.
+
+Completed completeness review now runs continuously through **The Hunter and the Hunted (55–60)**. The documented 54/55 shared-raw exception was honored during review; formal boundary/alignment clearance remains Phase 3.
+
+Next is **The Protagonist of Hunting (61–63)**. Checkpoint: `qa/cycle2-phase2-checkpoint-0060.md`.
 
 ## Release gate
 
