@@ -9494,14 +9494,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit Age-of-Destruction imagery of corpses piled into mountains and blood flowing like rivers is generalized into softer memorial/front-line language."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's Age-of-Destruction image of corpses piled into mountains and blood flowing like a river is omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
     },
     {
       "chapter": 131,
@@ -9542,14 +9546,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the narrator's explicit characterization of the bullies as cruel, brutal, merciless, malicious, and violent is softened into generic bullying/toy imagery."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source narrator's explicit characterization of the six second-years as cruel, brutal, merciless, malicious, and violent is generalized to generic bullying/toy imagery."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
     },
     {
       "chapter": 132,
@@ -9590,14 +9598,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: detailed facial injuries, fear-wetting, knife-cut target marks, and the explicit threat to kill the bullies and their parents are materially generalized/softened."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source-present attack/injury sequence, fear-wetting response, concrete X-marking/bleeding aftermath, and explicit threat to kill the students and their parents are materially omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
     },
     {
       "chapter": 133,
@@ -30218,14 +30230,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 129,
+    "completeness_reviewed_count": 132,
     "completeness_pass_count": 94,
-    "completeness_fail_count": 35,
+    "completeness_fail_count": 38,
     "next_family": {
-      "name": "The Freshman Talent Show",
+      "name": "Test Your Skills",
       "range": [
-        130,
-        132
+        133,
+        138
       ]
     },
     "confirmed_failures": [
@@ -30473,6 +30485,27 @@
         "family": "Admission to the Academy",
         "finding": "Cycle 2 Phase 2 FAIL: Bartison's source-present severed/cauterized wrists, severed ankles, throat impalement, and brief death struggle are omitted and collapsed to an almost-instant generic death.",
         "evidence": "qa/cycle2/completeness/admission-academy-0126-0129.md"
+      },
+      {
+        "chapter": 130,
+        "gate": "completeness",
+        "family": "The Freshman Talent Show",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's Age-of-Destruction image of corpses piled into mountains and blood flowing like a river is omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      },
+      {
+        "chapter": 131,
+        "gate": "completeness",
+        "family": "The Freshman Talent Show",
+        "finding": "Cycle 2 Phase 2 FAIL: the source narrator's explicit characterization of the six second-years as cruel, brutal, merciless, malicious, and violent is generalized to generic bullying/toy imagery.",
+        "evidence": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      },
+      {
+        "chapter": 132,
+        "gate": "completeness",
+        "family": "The Freshman Talent Show",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-present attack/injury sequence, fear-wetting response, concrete X-marking/bleeding aftermath, and explicit threat to kill the students and their parents are materially omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
       }
     ],
     "combined_remediation_count": 215,
