@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 31 / 500 — 29 PASS / 2 FAIL
+**Cycle-2 completeness revalidated:** 60 / 500 — 49 PASS / 11 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 2 Phase-2 completeness failures (Chapters 22 and 24; both overlap existing sanitization failures); remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 31; next `The Social Club (32–34)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 11 Phase-2 completeness failures; 8 completeness failures overlap Phase-1 FAILs and 3 are additional completeness-only chapters (42, 48, 55), for 203 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 60; next `The Protagonist of Hunting (61–63)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -119,23 +119,26 @@ Evidence:
 
 **Phase 2 is ACTIVE.**
 
-- completeness reviewed: **31 / 500**;
-- PASS: **29**;
-- FAIL: **2** — Chapters **22 and 24**;
-- both completeness failures overlap existing Phase-1 sanitization failures;
+- completeness reviewed: **60 / 500**;
+- PASS: **49**;
+- FAIL: **11** — Chapters **22, 24, 36, 37, 40, 42, 48, 51, 52, 55, 60**;
+- **8** completeness failures overlap existing Phase-1 sanitization FAILs;
+- **3** are additional completeness-only chapters: **42, 48, 55**;
+- combined Cycle-2 remediation population so far: **203 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
-- completed families through **Special Laws of Vikir (28–31)**;
-- next family: **The Social Club (32–34)**.
+- completed families through **The Hunter and the Hunted (55–60)**;
+- next family: **The Protagonist of Hunting (61–63)**.
 
-Evidence is under `qa/cycle2/completeness/`, `qa/cycle2-phase2-checkpoint-0031.md`, and the live ledger.
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0060.md`. Family evidence is under `qa/cycle2/completeness/` and the live ledger.
 
 ## Exact next actions
 
-1. Continue Phase 2 with **The Social Club (32–34)**.
-2. Review every chapter directly against the complete Chinese source in contiguous title-family order; do not repeat Chapters 1–31.
-3. Record completeness independently from sanitization; the 200 Phase-1 FAIL dispositions remain intact.
-4. Keep all manuscript remediation deferred to Phase 4; Phase 2 is discovery/evidence only.
-5. Synchronize live state files at meaningful completeness checkpoints.
-6. Keep EPUB assembly blocked.
+1. Continue Phase 2 with **The Protagonist of Hunting (61–63)**.
+2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order; do not repeat Chapters 1–60.
+3. Keep completeness independent from sanitization; preserve all existing Phase-1 dispositions and the three completeness-only additions.
+4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
+5. Continue documenting combined raws, source gaps, and shifted witness mappings without prematurely declaring Phase-3 boundary clearance.
+6. Synchronize live state files at meaningful completeness checkpoints.
+7. Keep EPUB assembly blocked.
 
-The next agent should resume with **Phase 2 Chapter 32**, not restart Phase 1 or Phase 2 and not begin Phase-4 repairs.
+The next agent should resume with **Phase 2 Chapter 61**, not restart earlier phases and not begin Phase-4 repairs.
