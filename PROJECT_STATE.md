@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 202 / 500 — 115 PASS / 87 FAIL
+**Completeness revalidated:** 224 / 500 — 121 PASS / 103 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 87 Phase-2 completeness failures; 36 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200) raise the combined remediation population to 236 unique chapters
-**Current phase:** Phase 2 ACTIVE — completeness through Chapter 202; next `Mixed Bath (203–205)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 103 Phase-2 completeness failures; 41 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217) raise the combined remediation population to 241 unique chapters
+**Current phase:** Phase 2 ACTIVE — completeness through Chapter 224; next `Tuition (225–233)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -75,21 +75,22 @@ Phase 1 sanitization is **COMPLETE**:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-Phase 2 completeness has reached **Chapter 202**:
+Phase 2 completeness has reached **Chapter 224**:
 
-- reviewed: **202 / 500**
-- PASS: **115**
-- FAIL: **87**
-- **51** completeness failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200**
-- combined Cycle-2 remediation population: **236 unique chapters**
+- reviewed: **224 / 500**
+- PASS: **121**
+- FAIL: **103**
+- **62** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217**
+- combined Cycle-2 remediation population: **241 unique chapters**
 - manuscript edits during Phase-2 discovery: **0**
-- Wave A (1–100): complete at **68 PASS / 32 FAIL**
-- Wave B (101–202): complete at **47 PASS / 55 FAIL**
+- Wave A (1–100): **68 PASS / 32 FAIL**
+- Wave B (101–202): **47 PASS / 55 FAIL**
+- post-Wave-B segment (203–224): **6 PASS / 16 FAIL**
 
-Documented shared/combined-source exceptions, source gaps, and safety-limited cases were honored during direct review; formal corpus boundary/alignment clearance remains Phase 3.
+Formal corpus boundary/alignment clearance remains Phase 3.
 
-Next is **Mixed Bath (203–205)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0202.md`.
+Next is **Tuition (225–233)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0224.md`.
 
 ## Release gate
 
