@@ -1,5 +1,26 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 Wave A complete through Chapter 100
+
+Direct full-source completeness revalidation has completed **Chapters 1–100**.
+
+- completeness reviewed: **100 / 500**;
+- PASS: **68**;
+- FAIL: **32**;
+- 19 completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82**;
+- combined Cycle-2 remediation population: **213 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Families completed after the Chapter-77 checkpoint: **The Saintess (78–82)**, **Lovesickness (83–84)**, **The Illiad (85–89)**, **The Ghosts of the Ancestors (90–94)**, and **Madam Eight-Legs (95–100)**.
+
+Chapter 95's localized source gap and the Chapter 100/101 boundary were rechecked against their documented exception/alignment evidence. Formal corpus structural clearance remains Phase 3.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0100.md`.
+
+Next Phase-2 family: **Nostalgia (101–104)**.
+
+
 ## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 77
 
 Direct full-source completeness revalidation has reached **Chapter 77**.
