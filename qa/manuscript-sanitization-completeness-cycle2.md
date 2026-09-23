@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — Wave A completeness complete through Chapter 100; next `Nostalgia (101–104)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 132; next `Test Your Skills (133–138)`
 
 ## Progress
 
@@ -32,18 +32,18 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **100 / 500**
-- PASS: **68**
-- FAIL: **32**
-- 19 failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82**
-- current combined remediation population: **213 unique chapters**
+- completeness reviewed: **132 / 500**
+- PASS: **94**
+- FAIL: **38**
+- 23 failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**
+- current combined remediation population: **215 unique chapters**
 - manuscript edits during discovery: **0**
 - Wave A (Chapters 1–100): **COMPLETE**
-- next family: **Nostalgia (101–104)**
+- Wave B current segment (101–132): **26 PASS / 6 FAIL**
+- next family: **Test Your Skills (133–138)**
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0100.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
-
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
 
 ### Phase 0 — COMPLETE
 
@@ -300,9 +300,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 2 at **Nostalgia (101–104)**.
-2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–100.
-3. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
-4. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
-5. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
-6. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
+1. Integrate the current audit branch into `main`.
+2. Continue Phase 2 at **Test Your Skills (133–138)** on the next Phase-2 working branch.
+3. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–132.
+4. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
+5. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
+6. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
+7. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
