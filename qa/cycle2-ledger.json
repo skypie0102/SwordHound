@@ -1073,11 +1073,21 @@
         185
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        185
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        180,
+        181,
+        182,
+        183,
+        184,
         185
       ]
     },
@@ -12050,14 +12060,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 180,
@@ -12098,14 +12112,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the private-alley punishment compresses Highbro's sustained source fear reaction, and the dog/good-master versus knight/great-master fortune parallel is generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 181,
@@ -12146,14 +12164,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: distinct Pigi/Sinclaire/Bianca cheering and coordination turns are collapsed, the poison-wall spectator-containment detail is omitted, and Granola's end-scene pestering of Sinclaire is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 182,
@@ -12194,14 +12216,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Pigi's source boast about his own command ability is reassigned/rewritten as Tudor praising Pigi, and the four-turn post-record celebration is collapsed."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 183,
@@ -12242,14 +12268,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the faculty's concrete department-by-department causal/liability accusations over golem automation, life detection, and phase control are summary-condensed into a generic responsibility list."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 184,
@@ -12290,14 +12320,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's quantitative statement that one Soldier Ant can contend with more than one thousand Worker Ants is generalized to 'vast numbers,' and Vikir's prior Academy escort/errand-runner context is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 185,
@@ -12338,14 +12372,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0180-0196.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the draft adds mucus to Bianca's crying during Pigi's revival scene, while the Chinese source supports tears/crying only; this is unsupported intensification."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/midterm-random-defense-0179-0185.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the food-quality progression is generalized, biological-compass complex/path/step-count mechanics are omitted, the underground-catacomb density statement is reversed/generalized, and the unsupported Bianca-mucus addition remains."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
     },
     {
       "chapter": 186,
@@ -30414,14 +30452,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 178,
-    "completeness_pass_count": 111,
-    "completeness_fail_count": 67,
+    "completeness_reviewed_count": 185,
+    "completeness_pass_count": 112,
+    "completeness_fail_count": 73,
     "next_family": {
-      "name": "Midterm Random Defense",
+      "name": "Aftermath",
       "range": [
-        179,
-        185
+        186,
+        189
       ]
     },
     "confirmed_failures": [
@@ -30893,9 +30931,51 @@
         "family": "The 99 Hits With 100 Shots",
         "finding": "Cycle 2 Phase 2 FAIL: the source's three high-level monster souls trapped in Beelzebub and the separate demon-killing-experience strengthening Vikir's soul are generalized/omitted.",
         "evidence": "qa/cycle2/completeness/99-hits-0176-0178.md"
+      },
+      {
+        "chapter": 180,
+        "gate": "completeness",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 2 FAIL: the private-alley punishment compresses Highbro's sustained source fear reaction, and the dog/good-master versus knight/great-master fortune parallel is generalized.",
+        "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 181,
+        "gate": "completeness",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 2 FAIL: distinct Pigi/Sinclaire/Bianca cheering and coordination turns are collapsed, the poison-wall spectator-containment detail is omitted, and Granola's end-scene pestering of Sinclaire is omitted.",
+        "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 182,
+        "gate": "completeness",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 2 FAIL: Pigi's source boast about his own command ability is reassigned/rewritten as Tudor praising Pigi, and the four-turn post-record celebration is collapsed.",
+        "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 183,
+        "gate": "completeness",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 2 FAIL: the faculty's concrete department-by-department causal/liability accusations over golem automation, life detection, and phase control are summary-condensed into a generic responsibility list.",
+        "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 184,
+        "gate": "completeness",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's quantitative statement that one Soldier Ant can contend with more than one thousand Worker Ants is generalized to 'vast numbers,' and Vikir's prior Academy escort/errand-runner context is omitted.",
+        "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
+      },
+      {
+        "chapter": 185,
+        "gate": "completeness",
+        "family": "Midterm Random Defense",
+        "finding": "Cycle 2 Phase 2 FAIL: the food-quality progression is generalized, biological-compass complex/path/step-count mechanics are omitted, the underground-catacomb density statement is reversed/generalized, and the unsupported Bianca-mucus addition remains.",
+        "evidence": "qa/cycle2/completeness/midterm-random-defense-0179-0185.md"
       }
     ],
-    "combined_remediation_count": 226,
+    "combined_remediation_count": 231,
     "completeness_only_failures": [
       42,
       48,
@@ -30922,7 +31002,12 @@
       165,
       168,
       175,
-      178
+      178,
+      180,
+      181,
+      182,
+      183,
+      184
     ]
   }
 }
