@@ -1191,13 +1191,22 @@
         202
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         198,
         199,
+        201,
+        202
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        198,
+        199,
+        200,
         201,
         202
       ]
@@ -13069,14 +13078,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the Clocktower attack death-toll reference is omitted, and the source's direct priority to find and kill the copycat is softened to killing only 'if necessary.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Clocktower death-toll reference is omitted and Vikir's unconditional intent to find and kill the copycat is softened to killing only 'if necessary.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 199,
@@ -13117,14 +13130,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source identifies the masked contractor as female from height plus chest and buttocks/hip proportions; the draft generalizes away that anatomical basis."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the anatomical chest/hip-proportion basis for identifying the contractor as female is generalized away, and Seere's 'incomprehensible / unkillable' information-window descriptors are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 200,
@@ -13165,14 +13182,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Lich information window omits the source's age/undeath question and the explanation about improper funeral exclusion, sinking into the Abyss, and persisting mage identity."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 201,
@@ -13213,14 +13234,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Ah'Heman's rotting-gum detail and the source's living-dead-puppet / demons'-toys corpse degradation are omitted/generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Ah'Heman's rotting-gum detail and the source paragraph describing prior victims as living-dead puppets/toys of demons plus corpse-puppet processing as a demonic specialty are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 202,
@@ -13261,14 +13286,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: mouth-expelled thick blood clots/internal-organ fragments are generalized, and the source's pre-interruption false-resolution about the third demon's death, delayed destruction, and requiem is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
     },
     {
       "chapter": 203,
@@ -30521,14 +30550,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 197,
+    "completeness_reviewed_count": 202,
     "completeness_pass_count": 115,
-    "completeness_fail_count": 82,
+    "completeness_fail_count": 87,
     "next_family": {
-      "name": "The Corpse Queen",
+      "name": "Mixed Bath",
       "range": [
-        198,
-        202
+        203,
+        205
       ]
     },
     "confirmed_failures": [
@@ -31105,9 +31134,44 @@
         "family": "Preparing for the Festival",
         "finding": "Cycle 2 Phase 2 FAIL: Vikir's separate popularity rankings and the extended costume/makeup crowd exchange are materially condensed, and source-explicit dog/cat feces are euphemized to generic waste.",
         "evidence": "qa/cycle2/completeness/preparing-festival-0197.md"
+      },
+      {
+        "chapter": 198,
+        "gate": "completeness",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 2 FAIL: the Clocktower death-toll reference is omitted and Vikir's unconditional intent to find and kill the copycat is softened to killing only 'if necessary.'",
+        "evidence": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 199,
+        "gate": "completeness",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 2 FAIL: the anatomical chest/hip-proportion basis for identifying the contractor as female is generalized away, and Seere's 'incomprehensible / unkillable' information-window descriptors are omitted.",
+        "evidence": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 200,
+        "gate": "completeness",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 2 FAIL: the Lich information window omits the source's age/undeath question and the explanation about improper funeral exclusion, sinking into the Abyss, and persisting mage identity.",
+        "evidence": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 201,
+        "gate": "completeness",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 2 FAIL: Ah'Heman's rotting-gum detail and the source paragraph describing prior victims as living-dead puppets/toys of demons plus corpse-puppet processing as a demonic specialty are omitted.",
+        "evidence": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
+      },
+      {
+        "chapter": 202,
+        "gate": "completeness",
+        "family": "The Corpse Queen",
+        "finding": "Cycle 2 Phase 2 FAIL: mouth-expelled thick blood clots/internal-organ fragments are generalized, and the source's pre-interruption false-resolution about the third demon's death, delayed destruction, and requiem is omitted.",
+        "evidence": "qa/cycle2/completeness/corpse-queen-0198-0202.md"
       }
     ],
-    "combined_remediation_count": 235,
+    "combined_remediation_count": 236,
     "completeness_only_failures": [
       42,
       48,
@@ -31143,7 +31207,8 @@
       187,
       190,
       192,
-      193
+      193,
+      200
     ]
   }
 }
