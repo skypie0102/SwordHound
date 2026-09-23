@@ -432,11 +432,18 @@
         67
       ],
       "sanitization_status": "mixed",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        64,
+        65,
+        66
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         64,
         65,
         66
@@ -5918,14 +5925,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit skin-color degradation is compressed to a generic statement that merchants mocked the girl's skin; the separate child-directed sexual harassment remains safety-limited."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 65,
@@ -5966,14 +5977,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit long-term narcotic consequences—severe debilitation, congenital harm in a later generation, and possible death—are generalized to chronic illness/growing worse."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 66,
@@ -6014,14 +6029,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: direct racist kill threats and explicit arrow-kill details including head/body separation and the mercenary captain losing nearly his entire head are generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 67,
@@ -6062,14 +6081,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "safety-limited-reviewed",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage relationship material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety rules."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
     },
     {
       "chapter": 68,
@@ -29884,14 +29907,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 63,
-    "completeness_pass_count": 50,
-    "completeness_fail_count": 13,
+    "completeness_reviewed_count": 67,
+    "completeness_pass_count": 51,
+    "completeness_fail_count": 16,
     "next_family": {
-      "name": "Unfair Trade",
+      "name": "Blood Relatives",
       "range": [
-        64,
-        67
+        68,
+        71
       ]
     },
     "confirmed_failures": [
@@ -29985,6 +30008,27 @@
         "family": "The Protagonist of Hunting",
         "finding": "Cycle 2 Phase 2 FAIL: the source explicitly says Akwilla defeated Hugo Le Baskerville and Adolf Morgue; the draft weakens this to merely fighting them and surviving.",
         "evidence": "qa/cycle2/completeness/protagonist-hunting-0061-0063.md"
+      },
+      {
+        "chapter": 64,
+        "gate": "completeness",
+        "family": "Unfair Trade",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit skin-color degradation is compressed to a generic statement that merchants mocked the girl's skin; the separate child-directed sexual harassment remains safety-limited.",
+        "evidence": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 65,
+        "gate": "completeness",
+        "family": "Unfair Trade",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit long-term narcotic consequences—severe debilitation, congenital harm in a later generation, and possible death—are generalized to chronic illness/growing worse.",
+        "evidence": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 66,
+        "gate": "completeness",
+        "family": "Unfair Trade",
+        "finding": "Cycle 2 Phase 2 FAIL: direct racist kill threats and explicit arrow-kill details including head/body separation and the mercenary captain losing nearly his entire head are generalized.",
+        "evidence": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
       }
     ]
   }
