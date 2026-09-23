@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 60 / 500 — 49 PASS / 11 FAIL
+**Completeness revalidated:** 77 / 500 — 53 PASS / 24 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 11 Phase-2 completeness failures; 3 completeness-only additions (42, 48, 55) raise the combined remediation population to 203 unique chapters
-**Current phase:** Phase 2 ACTIVE through Chapter 60; next `The Protagonist of Hunting (61–63)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 24 Phase-2 completeness failures; 9 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72) raise the combined remediation population to 209 unique chapters
+**Current phase:** Phase 2 ACTIVE through Chapter 77; next `The Saintess (78–82)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -81,15 +81,15 @@ Wave summaries:
 - `qa/cycle2-phase1-wave-e-summary.md`
 - consolidated summary: `qa/cycle2-phase1-summary.md`
 
-All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4. Phase 2 now independently revalidates completeness across all 500 chapters.
+All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4. Phase 2 independently revalidates completeness across all 500 chapters.
 
-Current Phase-2 position: **60 / 500 reviewed — 49 PASS / 11 FAIL**.
+Current Phase-2 position: **77 / 500 reviewed — 53 PASS / 24 FAIL**.
 
-Completeness failures through Chapter 60 are **22, 24, 36, 37, 40, 42, 48, 51, 52, 55, and 60**. Eight overlap existing Phase-1 sanitization failures. Chapters **42, 48, and 55** are completeness-only additions, bringing the current combined remediation population to **203 unique chapters**.
+Of the 24 completeness failures through Chapter 77, **15** overlap existing Phase-1 sanitization failures and **9** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72**. The combined Cycle-2 remediation population is therefore **209 unique chapters**.
 
-Completed completeness review now runs continuously through **The Hunter and the Hunted (55–60)**. The documented 54/55 shared-raw exception was honored during review; formal boundary/alignment clearance remains Phase 3.
+Completed completeness review now runs continuously through **The Hound of the Night (75–77)**. Documented shared/combined-source exceptions have been honored during review; formal boundary/alignment clearance remains Phase 3.
 
-Next is **The Protagonist of Hunting (61–63)**. Checkpoint: `qa/cycle2-phase2-checkpoint-0060.md`.
+Next is **The Saintess (78–82)**. Checkpoint: `qa/cycle2-phase2-checkpoint-0077.md`.
 
 ## Release gate
 
