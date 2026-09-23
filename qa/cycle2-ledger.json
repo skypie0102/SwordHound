@@ -462,10 +462,17 @@
         71
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        69,
+        70,
+        71
+      ]
     },
     {
       "index": 21,
@@ -6133,14 +6140,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 69,
@@ -6181,14 +6192,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source identifies the swallowed Rokoko hunter as just over twenty years old and in his physical prime; the draft generalizes this to a young adult in physical prime."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 70,
@@ -6229,14 +6244,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's extremely slowed metabolism during Red Death and asserted eye-contact transmission mechanic are omitted/reframed as a mere frightened belief."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 71,
@@ -6277,14 +6296,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Hugo's source-explicit view of boys/sons/grandsons as more useful combat assets and his treatment of children as tools for battle is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
     },
     {
       "chapter": 72,
@@ -29907,14 +29930,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 67,
-    "completeness_pass_count": 51,
-    "completeness_fail_count": 16,
+    "completeness_reviewed_count": 71,
+    "completeness_pass_count": 52,
+    "completeness_fail_count": 19,
     "next_family": {
-      "name": "Blood Relatives",
+      "name": "The Red Death",
       "range": [
-        68,
-        71
+        72,
+        74
       ]
     },
     "confirmed_failures": [
@@ -30029,6 +30052,27 @@
         "family": "Unfair Trade",
         "finding": "Cycle 2 Phase 2 FAIL: direct racist kill threats and explicit arrow-kill details including head/body separation and the mercenary captain losing nearly his entire head are generalized.",
         "evidence": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      },
+      {
+        "chapter": 69,
+        "gate": "completeness",
+        "family": "Blood Relatives",
+        "finding": "Cycle 2 Phase 2 FAIL: the source identifies the swallowed Rokoko hunter as just over twenty years old and in his physical prime; the draft generalizes this to a young adult in physical prime.",
+        "evidence": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
+      },
+      {
+        "chapter": 70,
+        "gate": "completeness",
+        "family": "Blood Relatives",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's extremely slowed metabolism during Red Death and asserted eye-contact transmission mechanic are omitted/reframed as a mere frightened belief.",
+        "evidence": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
+      },
+      {
+        "chapter": 71,
+        "gate": "completeness",
+        "family": "Blood Relatives",
+        "finding": "Cycle 2 Phase 2 FAIL: Hugo's source-explicit view of boys/sons/grandsons as more useful combat assets and his treatment of children as tools for battle is omitted.",
+        "evidence": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
       }
     ]
   }
