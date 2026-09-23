@@ -1,5 +1,24 @@
 # Reconstruction Progress
 
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 60
+
+Direct full-source completeness revalidation has reached **Chapter 60**.
+
+- completeness reviewed: **60 / 500**;
+- PASS: **49**;
+- FAIL: **11** — Chapters **22, 24, 36, 37, 40, 42, 48, 51, 52, 55, 60**;
+- 8 completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55**;
+- combined Cycle-2 remediation population: **203 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**;
+- documented 54/55 shared-raw boundary was honored, with formal structural clearance still reserved for Phase 3.
+
+Recent completed families: **The Social Club (32–34)**, **Slave Auction (35–37)**, **Sponsored (38–39)**, **Morgue's United Front (40–42)**, **The Fiancée (43–45)**, **The Husband Hunt (46–51)**, **Slaves of the Savage Tribe (52–54)**, and **The Hunter and the Hunted (55–60)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0060.md`.
+
+Next Phase-2 family: **The Protagonist of Hunting (61–63)**.
+
 ## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 31
 
 Direct full-source completeness revalidation has reached **Chapter 31**.
