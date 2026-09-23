@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-24 — Cycle 2 Phase 2 Wave B complete through Chapter 202
+
+Direct full-source completeness revalidation has reached **Chapter 202**.
+
+- completeness reviewed: **202 / 500**;
+- PASS: **115**;
+- FAIL: **87**;
+- **51** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200**;
+- combined Cycle-2 remediation population: **236 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-185 checkpoint, Chapters **186–202** added **3 PASS / 14 FAIL** across **Aftermath**, **Attack Land**, **Preparing for the Festival**, and **The Corpse Queen**. New completeness-only additions in this span are **187, 190, 192, 193, and 200**.
+
+Wave B (Chapters **101–202**) is now family-complete at **47 PASS / 55 FAIL**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0202.md`.
+
+Next Phase-2 family: **Mixed Bath (203–205)**.
+
 ## 2026-09-24 — Cycle 2 Phase 2 advanced through Chapter 185
 
 Direct full-source completeness revalidation has reached **Chapter 185**.
