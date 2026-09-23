@@ -9962,14 +9962,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Doxeller's source-explicit child-commodification criteria/dehumanizing exchange and the imminent beheading image are materially generalized/omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Doxeller's source-explicit premium-child trafficking criteria/dehumanizing exchange and Vikir's intended decapitation outcome are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/men-are-power-0139-0140.md"
     },
     {
       "chapter": 140,
@@ -10010,14 +10014,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0129-0145.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: explicit limb-severing intent, Seven-Fang tearing/crushing, impalement, dissection intent, bloody digging, flesh/organ escape traces, children sold as demon food, and crime-scene blood/flesh imagery are materially generalized or omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: multiple source-present combat, impalement, dissection-intent, bloody-digging, flesh/organ-remnant, demon-food trafficking, and child-remains/crime-scene details are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/men-are-power-0139-0140.md"
     },
     {
       "chapter": 141,
@@ -30254,14 +30262,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 138,
+    "completeness_reviewed_count": 140,
     "completeness_pass_count": 95,
-    "completeness_fail_count": 43,
+    "completeness_fail_count": 45,
     "next_family": {
-      "name": "Men are Power",
+      "name": "Identity of the Villain",
       "range": [
-        139,
-        140
+        141,
+        143
       ]
     },
     "confirmed_failures": [
@@ -30565,6 +30573,20 @@
         "family": "Test Your Skills",
         "finding": "Cycle 2 Phase 2 FAIL: substantial source crowd/commentary reaction to Vikir is compressed, and the exact Venomphion lethality figure of 44 people per venom drop is generalized to 'dozens.'",
         "evidence": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
+      },
+      {
+        "chapter": 139,
+        "gate": "completeness",
+        "family": "Men are Power",
+        "finding": "Cycle 2 Phase 2 FAIL: Doxeller's source-explicit premium-child trafficking criteria/dehumanizing exchange and Vikir's intended decapitation outcome are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/men-are-power-0139-0140.md"
+      },
+      {
+        "chapter": 140,
+        "gate": "completeness",
+        "family": "Men are Power",
+        "finding": "Cycle 2 Phase 2 FAIL: multiple source-present combat, impalement, dissection-intent, bloody-digging, flesh/organ-remnant, demon-food trafficking, and child-remains/crime-scene details are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/men-are-power-0139-0140.md"
       }
     ],
     "combined_remediation_count": 215,
