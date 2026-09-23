@@ -512,11 +512,18 @@
         77
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        75,
+        76,
+        77
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md",
+      "completeness_reviewed_date": "2026-09-23",
+      "completeness_failures": [
         75,
         76,
         77
@@ -6515,14 +6522,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: floating-corpse footing imagery was generalized away."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: corpse/log flood footing is reduced to logs/debris; Chihuahua's red-eyed remembrance of Vikir and the named Cindywendy/Gambino investment-adviser precedent are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md"
     },
     {
       "chapter": 76,
@@ -6568,14 +6579,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: children's collapse/wetting terror response omitted; operational pathogen details remain safety-limited."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the children's collapse/wetting terror response is omitted, Dolores's second-year/young-house-head status is incomplete, and three source-specific petitioner identities/status/offer speeches are compressed into generic summaries; operational pathogen details remain safety-limited."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md"
     },
     {
       "chapter": 77,
@@ -6616,14 +6631,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0061-0077.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Mozgus cruelty characterization and torture-application memory were softened/omitted."
       ],
       "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md"
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Mozgus's thousand-li divine-power image, crueler-than-demons justice characterization, solo-thousand-demon heroic death, torture-application memory, roughly-half-strength/near-even matchup assessment, and dozens-of-kilograms scripture weight are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md"
     },
     {
       "chapter": 78,
@@ -29948,14 +29967,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 74,
+    "completeness_reviewed_count": 77,
     "completeness_pass_count": 53,
-    "completeness_fail_count": 21,
+    "completeness_fail_count": 24,
     "next_family": {
-      "name": "The Hound of the Night",
+      "name": "The Saintess",
       "range": [
-        75,
-        77
+        78,
+        82
       ]
     },
     "confirmed_failures": [
@@ -30105,6 +30124,27 @@
         "family": "The Red Death",
         "finding": "Cycle 2 Phase 2 FAIL: Ah'Heman's source-explicit spitting at/on sick Aheul's face is omitted.",
         "evidence": "qa/cycle2/completeness/red-death-0072-0074.md"
+      },
+      {
+        "chapter": 75,
+        "gate": "completeness",
+        "family": "The Hound of the Night",
+        "finding": "Cycle 2 Phase 2 FAIL: corpse/log flood footing is reduced to logs/debris; Chihuahua's red-eyed remembrance of Vikir and the named Cindywendy/Gambino investment-adviser precedent are omitted.",
+        "evidence": "qa/cycle2/completeness/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 76,
+        "gate": "completeness",
+        "family": "The Hound of the Night",
+        "finding": "Cycle 2 Phase 2 FAIL: the children's collapse/wetting terror response is omitted, Dolores's second-year/young-house-head status is incomplete, and three source-specific petitioner identities/status/offer speeches are compressed into generic summaries; operational pathogen details remain safety-limited.",
+        "evidence": "qa/cycle2/completeness/hound-night-0075-0077.md"
+      },
+      {
+        "chapter": 77,
+        "gate": "completeness",
+        "family": "The Hound of the Night",
+        "finding": "Cycle 2 Phase 2 FAIL: Mozgus's thousand-li divine-power image, crueler-than-demons justice characterization, solo-thousand-demon heroic death, torture-application memory, roughly-half-strength/near-even matchup assessment, and dozens-of-kilograms scripture weight are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/hound-night-0075-0077.md"
       }
     ]
   }
