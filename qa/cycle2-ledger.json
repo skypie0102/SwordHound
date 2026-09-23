@@ -649,10 +649,12 @@
         100
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md",
+      "completeness_reviewed_date": "2026-09-23"
     },
     {
       "index": 28,
@@ -7589,14 +7591,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 96,
@@ -7637,14 +7643,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 97,
@@ -7685,14 +7695,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 98,
@@ -7733,14 +7747,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 99,
@@ -7781,14 +7799,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 100,
@@ -7829,14 +7851,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0095-0111.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/madam-eight-legs-0095-0100.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content after the prior completeness rebuild."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/madam-eight-legs-0095-0100.md"
     },
     {
       "chapter": 101,
@@ -30057,14 +30083,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 94,
-    "completeness_pass_count": 62,
+    "completeness_reviewed_count": 100,
+    "completeness_pass_count": 68,
     "completeness_fail_count": 32,
     "next_family": {
-      "name": "Madam Eight-Legs",
+      "name": "Nostalgia",
       "range": [
-        95,
-        100
+        101,
+        104
       ]
     },
     "confirmed_failures": [
