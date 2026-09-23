@@ -1164,11 +1164,16 @@
         197
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/preparing-festival-0197.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        197
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/preparing-festival-0197.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
         197
       ]
     },
@@ -13012,14 +13017,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0197-0213.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit 'sexiest' / 'most want to take a bite of' Vikir rankings are omitted, and dog/cat feces are euphemized as generic waste."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/preparing-festival-0197.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/preparing-festival-0197.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Vikir's separate popularity rankings and the extended costume/makeup crowd exchange are materially condensed, and source-explicit dog/cat feces are euphemized to generic waste."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/preparing-festival-0197.md"
     },
     {
       "chapter": 198,
@@ -30512,14 +30521,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 196,
+    "completeness_reviewed_count": 197,
     "completeness_pass_count": 115,
-    "completeness_fail_count": 81,
+    "completeness_fail_count": 82,
     "next_family": {
-      "name": "Preparing for the Festival",
+      "name": "The Corpse Queen",
       "range": [
-        197,
-        197
+        198,
+        202
       ]
     },
     "confirmed_failures": [
@@ -31089,6 +31098,13 @@
         "family": "Attack Land",
         "finding": "Cycle 2 Phase 2 FAIL: the source explicitly has Granola's teeth crack while watching injured Sinclaire; the draft reduces this to grinding them hard enough to hurt.",
         "evidence": "qa/cycle2/completeness/attack-land-0190-0196.md"
+      },
+      {
+        "chapter": 197,
+        "gate": "completeness",
+        "family": "Preparing for the Festival",
+        "finding": "Cycle 2 Phase 2 FAIL: Vikir's separate popularity rankings and the extended costume/makeup crowd exchange are materially condensed, and source-explicit dog/cat feces are euphemized to generic waste.",
+        "evidence": "qa/cycle2/completeness/preparing-festival-0197.md"
       }
     ],
     "combined_remediation_count": 235,
