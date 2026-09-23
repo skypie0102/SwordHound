@@ -11686,14 +11686,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
     },
     {
       "chapter": 173,
@@ -11734,14 +11738,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
     },
     {
       "chapter": 174,
@@ -11782,14 +11790,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
     },
     {
       "chapter": 175,
@@ -11830,14 +11842,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0163-0179.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's source-superlative view of Night Hound is weakened, and her explicit wetting/‘diaper’ reputation details are generalized to an accident/humiliation."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
     },
     {
       "chapter": 176,
@@ -30386,14 +30402,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 171,
-    "completeness_pass_count": 107,
-    "completeness_fail_count": 64,
+    "completeness_reviewed_count": 175,
+    "completeness_pass_count": 110,
+    "completeness_fail_count": 65,
     "next_family": {
-      "name": "The Anti-Columnist",
+      "name": "The 99 Hits With 100 Shots",
       "range": [
-        172,
-        175
+        176,
+        178
       ]
     },
     "confirmed_failures": [
@@ -30844,9 +30860,16 @@
         "family": "Sin and Punishment",
         "finding": "Cycle 2 Phase 2 FAIL: the whimpering-puppies aftermath beat and Dolores's source-described body-and-mind-unity/euphoria from soul resonance are omitted/compressed.",
         "evidence": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
+      },
+      {
+        "chapter": 175,
+        "gate": "completeness",
+        "family": "The Anti-Columnist",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-superlative view of Night Hound is weakened, and her explicit wetting/‘diaper’ reputation details are generalized to an accident/humiliation.",
+        "evidence": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
       }
     ],
-    "combined_remediation_count": 224,
+    "combined_remediation_count": 225,
     "completeness_only_failures": [
       42,
       48,
@@ -30871,7 +30894,8 @@
       154,
       156,
       165,
-      168
+      168,
+      175
     ]
   }
 }
