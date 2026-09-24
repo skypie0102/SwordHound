@@ -1584,12 +1584,19 @@
         267
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         265
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/season-redemption-0264-0267.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        264,
+        265,
+        266
       ]
     },
     {
@@ -16591,14 +16598,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's specific grasshopper competition and repeated earthworm-breeding wins are changed to beetle/generic insect-raising references."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/season-redemption-0264-0267.md"
     },
     {
       "chapter": 265,
@@ -16639,14 +16650,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Edward Bourbon Jr.'s source-explicit poison mechanism—tongue root curling up and completely blocking his throat—is generalized to muscles around the tongue/throat merely seizing."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Edward Bourbon Jr.'s poison mechanism is generalized; the source says the tongue root curls upward and completely blocks his throat."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/season-redemption-0264-0267.md"
     },
     {
       "chapter": 266,
@@ -16687,14 +16702,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's street beat where attractive passersby draw surrounding gazes for several seconds is omitted from the otherwise retained city scene."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/season-redemption-0264-0267.md"
     },
     {
       "chapter": 267,
@@ -16740,14 +16759,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/season-redemption-0264-0267.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: within the documented target-267 portion of the shared 267+268 source container, direct complete-source revalidation found no material completeness defect."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/season-redemption-0264-0267.md"
     },
     {
       "chapter": 268,
@@ -30875,14 +30898,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 263,
-    "completeness_pass_count": 142,
-    "completeness_fail_count": 121,
+    "completeness_reviewed_count": 267,
+    "completeness_pass_count": 143,
+    "completeness_fail_count": 124,
     "next_family": {
-      "name": "The Season of Redemption",
+      "name": "The Eucharist",
       "range": [
-        264,
-        267
+        268,
+        269
       ]
     },
     "confirmed_failures": [
@@ -31732,9 +31755,30 @@
         "family": "The Inverted Pentagram",
         "finding": "Cycle 2 Phase 2 FAIL: the Shield of Love's source-supported limited number of uses is intensified into an unsupported exact 'only once' restriction.",
         "evidence": "qa/cycle2/completeness/inverted-pentagram-0261-0263.md"
+      },
+      {
+        "chapter": 264,
+        "gate": "completeness",
+        "family": "The Season of Redemption",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's specific grasshopper competition and repeated earthworm-breeding wins are changed to beetle/generic insect-raising references.",
+        "evidence": "qa/cycle2/completeness/season-redemption-0264-0267.md"
+      },
+      {
+        "chapter": 265,
+        "gate": "completeness",
+        "family": "The Season of Redemption",
+        "finding": "Cycle 2 Phase 2 FAIL: Edward Bourbon Jr.'s poison mechanism is generalized; the source says the tongue root curls upward and completely blocks his throat.",
+        "evidence": "qa/cycle2/completeness/season-redemption-0264-0267.md"
+      },
+      {
+        "chapter": 266,
+        "gate": "completeness",
+        "family": "The Season of Redemption",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's street beat where attractive passersby draw surrounding gazes for several seconds is omitted from the otherwise retained city scene.",
+        "evidence": "qa/cycle2/completeness/season-redemption-0264-0267.md"
       }
     ],
-    "combined_remediation_count": 243,
+    "combined_remediation_count": 245,
     "completeness_only_failures": [
       42,
       48,
@@ -31778,7 +31822,9 @@
       216,
       217,
       236,
-      259
+      259,
+      264,
+      266
     ]
   }
 }
