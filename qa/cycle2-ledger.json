@@ -1610,11 +1610,16 @@
         269
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/eucharist-0268-0269.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        269
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/eucharist-0268-0269.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
         269
       ]
     },
@@ -16816,14 +16821,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/eucharist-0268-0269.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/eucharist-0268-0269.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: within the documented target-268 segment of the shared source container, direct complete-source revalidation found no material completeness defect."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/eucharist-0268-0269.md"
     },
     {
       "chapter": 269,
@@ -16864,14 +16873,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the draft generalizes source-explicit bodily severing/near-crushing-to-death, changes both leaders wetting themselves to only one, softens Ohm's lower body becoming a pile of mush, omits Elmanny's internal-organ burns and death in agony, and generalizes Vikir's cross-dressing/whipping impersonation thought."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/eucharist-0268-0269.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/eucharist-0268-0269.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit bodily severing/near-crushing, both leaders' fear-wetting, Ohm's lower-body mush state, Elmanny's internal-organ burns and death, and Vikir's cross-dressing/whipping impersonation thought are softened or omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/eucharist-0268-0269.md"
     },
     {
       "chapter": 270,
@@ -30898,14 +30911,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 267,
-    "completeness_pass_count": 143,
-    "completeness_fail_count": 124,
+    "completeness_reviewed_count": 269,
+    "completeness_pass_count": 144,
+    "completeness_fail_count": 125,
     "next_family": {
-      "name": "The Eucharist",
+      "name": "Rich Friends",
       "range": [
-        268,
-        269
+        270,
+        272
       ]
     },
     "confirmed_failures": [
@@ -31776,6 +31789,13 @@
         "family": "The Season of Redemption",
         "finding": "Cycle 2 Phase 2 FAIL: the source's street beat where attractive passersby draw surrounding gazes for several seconds is omitted from the otherwise retained city scene.",
         "evidence": "qa/cycle2/completeness/season-redemption-0264-0267.md"
+      },
+      {
+        "chapter": 269,
+        "gate": "completeness",
+        "family": "The Eucharist",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit bodily severing/near-crushing, both leaders' fear-wetting, Ohm's lower-body mush state, Elmanny's internal-organ burns and death, and Vikir's cross-dressing/whipping impersonation thought are softened or omitted.",
+        "evidence": "qa/cycle2/completeness/eucharist-0268-0269.md"
       }
     ],
     "combined_remediation_count": 245,
