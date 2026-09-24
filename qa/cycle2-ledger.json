@@ -1423,11 +1423,18 @@
         244
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        238,
+        241
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        236,
         238,
         241
       ]
@@ -15101,14 +15108,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Chapter 236 imports later Chapter-241 Decarabia explanatory material (other demon forms and the prior-timeline academy-attack reason), then Chapter 241 retains it again, creating duplicated/misplaced source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 237,
@@ -15149,14 +15160,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 238,
@@ -15197,14 +15212,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source-explicit gushing blood from Granola's dagger-pinned hand and his tearful/crying state are omitted while the rest of the injury remains."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: active blood flow from Granola's dagger-pinned hand and his tearful/crying state are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 239,
@@ -15245,14 +15264,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 240,
@@ -15293,14 +15316,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 241,
@@ -15341,14 +15368,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sinclaire's source-explicit reaction that Lovegood's pressure nearly made her suffocate is softened to generic fear."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sinclaire's source-explicit near-suffocation bodily reaction to Lovegood's pressure is softened to generic fear."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 242,
@@ -15389,14 +15420,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 243,
@@ -15437,14 +15472,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 244,
@@ -15485,14 +15524,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/national-university-league-0236-0244.md"
     },
     {
       "chapter": 245,
@@ -30729,14 +30772,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 235,
-    "completeness_pass_count": 125,
-    "completeness_fail_count": 110,
+    "completeness_reviewed_count": 244,
+    "completeness_pass_count": 131,
+    "completeness_fail_count": 113,
     "next_family": {
-      "name": "National University League",
+      "name": "Survival Contest",
       "range": [
-        236,
-        244
+        245,
+        249
       ]
     },
     "confirmed_failures": [
@@ -31509,9 +31552,30 @@
         "family": "Suspicion",
         "finding": "Cycle 2 Phase 2 FAIL: the bullies' explicit death threat, their source-wide blood-covered state, and Dolores burying her face between Choco's chin and neck to scent-check are softened/omitted.",
         "evidence": "qa/cycle2/completeness/suspicion-0234-0235.md"
+      },
+      {
+        "chapter": 236,
+        "gate": "completeness",
+        "family": "National University League",
+        "finding": "Cycle 2 Phase 2 FAIL: Chapter 236 imports later Chapter-241 Decarabia explanatory material (other demon forms and the prior-timeline academy-attack reason), then Chapter 241 retains it again, creating duplicated/misplaced source content.",
+        "evidence": "qa/cycle2/completeness/national-university-league-0236-0244.md"
+      },
+      {
+        "chapter": 238,
+        "gate": "completeness",
+        "family": "National University League",
+        "finding": "Cycle 2 Phase 2 FAIL: active blood flow from Granola's dagger-pinned hand and his tearful/crying state are omitted.",
+        "evidence": "qa/cycle2/completeness/national-university-league-0236-0244.md"
+      },
+      {
+        "chapter": 241,
+        "gate": "completeness",
+        "family": "National University League",
+        "finding": "Cycle 2 Phase 2 FAIL: Sinclaire's source-explicit near-suffocation bodily reaction to Lovegood's pressure is softened to generic fear.",
+        "evidence": "qa/cycle2/completeness/national-university-league-0236-0244.md"
       }
     ],
-    "combined_remediation_count": 241,
+    "combined_remediation_count": 242,
     "completeness_only_failures": [
       42,
       48,
@@ -31553,7 +31617,8 @@
       211,
       212,
       216,
-      217
+      217,
+      236
     ]
   }
 }
