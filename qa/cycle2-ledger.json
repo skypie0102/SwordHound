@@ -1453,11 +1453,17 @@
         249
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        247,
+        249
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/survival-contest-0245-0249.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
         247,
         249
       ]
@@ -15576,14 +15582,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0230-0245.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/survival-contest-0245-0249.md"
     },
     {
       "chapter": 246,
@@ -15624,14 +15634,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/survival-contest-0245-0249.md"
     },
     {
       "chapter": 247,
@@ -15672,14 +15686,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source-explicit red stew mark left at the corner of Dolores's mouth while she eats ravenously is omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's source-explicit red stew mark at the corner of her mouth while eating ravenously is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/survival-contest-0245-0249.md"
     },
     {
       "chapter": 248,
@@ -15720,14 +15738,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/survival-contest-0245-0249.md"
     },
     {
       "chapter": 249,
@@ -15768,14 +15790,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Dolores's explicit 'I'd rather kill myself' panic line, the direct childhood pants-soiling reference, and the dagger-to-heart humiliation metaphor are softened/omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/survival-contest-0245-0249.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's explicit self-directed panic line, the direct childhood pants-soiling reference, and the ice-cold-dagger-to-heart humiliation metaphor are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/survival-contest-0245-0249.md"
     },
     {
       "chapter": 250,
@@ -30772,14 +30798,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 244,
-    "completeness_pass_count": 131,
-    "completeness_fail_count": 113,
+    "completeness_reviewed_count": 249,
+    "completeness_pass_count": 134,
+    "completeness_fail_count": 115,
     "next_family": {
-      "name": "Survival Contest",
+      "name": "Recap",
       "range": [
-        245,
-        249
+        250,
+        252
       ]
     },
     "confirmed_failures": [
@@ -31573,6 +31599,20 @@
         "family": "National University League",
         "finding": "Cycle 2 Phase 2 FAIL: Sinclaire's source-explicit near-suffocation bodily reaction to Lovegood's pressure is softened to generic fear.",
         "evidence": "qa/cycle2/completeness/national-university-league-0236-0244.md"
+      },
+      {
+        "chapter": 247,
+        "gate": "completeness",
+        "family": "Survival Contest",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's source-explicit red stew mark at the corner of her mouth while eating ravenously is omitted.",
+        "evidence": "qa/cycle2/completeness/survival-contest-0245-0249.md"
+      },
+      {
+        "chapter": 249,
+        "gate": "completeness",
+        "family": "Survival Contest",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's explicit self-directed panic line, the direct childhood pants-soiling reference, and the ice-cold-dagger-to-heart humiliation metaphor are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/survival-contest-0245-0249.md"
       }
     ],
     "combined_remediation_count": 242,
