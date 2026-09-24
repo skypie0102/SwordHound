@@ -1499,11 +1499,16 @@
         254
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        254
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/five-stars-0253-0254.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
         254
       ]
     },
@@ -16001,14 +16006,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/five-stars-0253-0254.md"
     },
     {
       "chapter": 254,
@@ -16049,14 +16058,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's capital mission and 174 demon-linked targets is euphemized to 'quietly remove' / 'eliminated.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's Imperial-Capital mission and 174 demon-linked targets is euphemized as quiet removal / elimination."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/five-stars-0253-0254.md"
     },
     {
       "chapter": 255,
@@ -30813,14 +30826,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 252,
-    "completeness_pass_count": 137,
-    "completeness_fail_count": 115,
+    "completeness_reviewed_count": 254,
+    "completeness_pass_count": 138,
+    "completeness_fail_count": 116,
     "next_family": {
-      "name": "Five Stars",
+      "name": "The Grave of Swords",
       "range": [
-        253,
-        254
+        255,
+        260
       ]
     },
     "confirmed_failures": [
@@ -31628,6 +31641,13 @@
         "family": "Survival Contest",
         "finding": "Cycle 2 Phase 2 FAIL: Dolores's explicit self-directed panic line, the direct childhood pants-soiling reference, and the ice-cold-dagger-to-heart humiliation metaphor are omitted/generalized.",
         "evidence": "qa/cycle2/completeness/survival-contest-0245-0249.md"
+      },
+      {
+        "chapter": 254,
+        "gate": "completeness",
+        "family": "Five Stars",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's Imperial-Capital mission and 174 demon-linked targets is euphemized as quiet removal / elimination.",
+        "evidence": "qa/cycle2/completeness/five-stars-0253-0254.md"
       }
     ],
     "combined_remediation_count": 242,
