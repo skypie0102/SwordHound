@@ -1557,13 +1557,18 @@
         263
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         261,
         262
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/inverted-pentagram-0261-0263.md",
+      "completeness_reviewed_date": "2026-09-24",
+      "completeness_failures": [
+        261
       ]
     },
     {
@@ -16430,14 +16435,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0246-0261.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the Shield of Love's source-supported limited number of uses is intensified into an unsupported exact 'only once' restriction."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Shield of Love's source-supported limited number of uses is intensified into an unsupported exact 'only once' restriction."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/inverted-pentagram-0261-0263.md"
     },
     {
       "chapter": 262,
@@ -16478,14 +16487,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sinclaire's source-explicit face covered in tears and nasal discharge/snot is sanitized to tears only."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS on current branch: Sinclaire's tears-and-snot detail is now present, and direct complete-source revalidation found no remaining material completeness defect; historical Phase-1 FAIL remains unreconciled until Phase 4."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/inverted-pentagram-0261-0263.md"
     },
     {
       "chapter": 263,
@@ -16526,14 +16539,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/inverted-pentagram-0261-0263.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/inverted-pentagram-0261-0263.md"
     },
     {
       "chapter": 264,
@@ -30858,14 +30875,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 260,
-    "completeness_pass_count": 140,
-    "completeness_fail_count": 120,
+    "completeness_reviewed_count": 263,
+    "completeness_pass_count": 142,
+    "completeness_fail_count": 121,
     "next_family": {
-      "name": "The Inverted Pentagram",
+      "name": "The Season of Redemption",
       "range": [
-        261,
-        263
+        264,
+        267
       ]
     },
     "confirmed_failures": [
@@ -31708,6 +31725,13 @@
         "family": "The Grave of Swords",
         "finding": "Cycle 2 Phase 2 FAIL: Vikir's explicit 'never truly loved anyone' characterization is generalized, and the draft adds unsupported 'Probability' to Cane Corso's Ninth-Fang concept list.",
         "evidence": "qa/cycle2/completeness/grave-of-swords-0255-0260.md"
+      },
+      {
+        "chapter": 261,
+        "gate": "completeness",
+        "family": "The Inverted Pentagram",
+        "finding": "Cycle 2 Phase 2 FAIL: the Shield of Love's source-supported limited number of uses is intensified into an unsupported exact 'only once' restriction.",
+        "evidence": "qa/cycle2/completeness/inverted-pentagram-0261-0263.md"
       }
     ],
     "combined_remediation_count": 243,
