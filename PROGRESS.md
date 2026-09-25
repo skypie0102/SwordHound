@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-25 — Cycle 2 Phase 2 advanced through Chapter 340
+
+Direct full-source completeness revalidation has reached **Chapter 340**.
+
+- completeness reviewed: **340 / 500**;
+- PASS: **166**;
+- FAIL: **174**;
+- **116** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**;
+- combined Cycle-2 remediation population: **258 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-313 checkpoint, Chapters **314–340** added **10 PASS / 17 FAIL** across **Surplus Man**, **Underdogma**, **The Shadowless King of the Black Sea**, **Draw**, **The Mating Room**, and **Trap**. New completeness-only additions in this span are **326, 329, 331, 332, and 335**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0340.md`.
+
+Next Phase-2 family: **Private Life (341–342)**.
+
 ## 2026-09-24 — Cycle 2 Phase 2 passed halfway at Chapter 252
 
 Direct full-source completeness revalidation has reached **Chapter 252**.
