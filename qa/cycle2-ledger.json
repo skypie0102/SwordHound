@@ -2586,13 +2586,23 @@
         408
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         404,
         405,
+        407,
+        408
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        403,
+        404,
+        405,
+        406,
         407,
         408
       ]
@@ -24099,14 +24109,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source-specific anchovy/enoki meal details are generalized/substituted, and Chapter 403 prematurely imports the later Level-Nine reveal, duplicating/misplacing source content from the following chapters."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 404,
@@ -24147,14 +24161,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit scatological 'shit-eating dog' insult is sanitized to 'Rotten Dog.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Black Tongue's explicit 'shit-eating dog' insult is sanitized to 'Rotten Dog.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 405,
@@ -24195,14 +24213,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the repeated 'shit-eating dog' insult is sanitized to 'Rotten Dog,' and source-explicit blood/flesh/internal-organ gore from severed tendrils is generalized to blood and tissue."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the repeated scatological insult is sanitized, and source-explicit blood/flesh/internal-organ gore is generalized to blood and tissue."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 406,
@@ -24243,14 +24265,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source explicitly links Asmodeus to the First Corpse as one of its former sacrifices; the draft omits that lore connection."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 407,
@@ -24291,14 +24317,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: prisoners source-explicitly reduced to a stew of flesh mush and bloody water are generalized to nonspecific masses of blood and flesh."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: prisoners reduced to a stew of flesh mush and bloody water are generalized to nonspecific masses of blood and flesh."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 408,
@@ -24339,14 +24369,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: actual Daylily-seed insertion causing painful struggle plus explicit fear urination/wet clothing are generalized or omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/jailbreaker-0403-0408.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: actual Daylily-seed insertion with painful struggle plus explicit fear urination/wet clothing are generalized or omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
     },
     {
       "chapter": 409,
@@ -31661,14 +31695,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 402,
+    "completeness_reviewed_count": 408,
     "completeness_pass_count": 191,
-    "completeness_fail_count": 211,
+    "completeness_fail_count": 217,
     "next_family": {
-      "name": "Jailbreaker",
+      "name": "End game",
       "range": [
-        403,
-        408
+        409,
+        418
       ]
     },
     "confirmed_failures": [
@@ -33148,9 +33182,51 @@
         "family": "Black Tongue",
         "finding": "Cycle 2 Phase 2 FAIL: Black Tongue's abdominal palm strike, Kirko's wall impact, broken ribs, and possible rib-fragment/internal-organ injury are omitted.",
         "evidence": "qa/cycle2/completeness/black-tongue-0399-0402.md"
+      },
+      {
+        "chapter": 403,
+        "gate": "completeness",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-specific anchovy/enoki meal details are generalized/substituted, and Chapter 403 prematurely imports the later Level-Nine reveal, duplicating/misplacing source content from the following chapters.",
+        "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 404,
+        "gate": "completeness",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 2 FAIL: Black Tongue's explicit 'shit-eating dog' insult is sanitized to 'Rotten Dog.'",
+        "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 405,
+        "gate": "completeness",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 2 FAIL: the repeated scatological insult is sanitized, and source-explicit blood/flesh/internal-organ gore is generalized to blood and tissue.",
+        "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 406,
+        "gate": "completeness",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 2 FAIL: the source explicitly links Asmodeus to the First Corpse as one of its former sacrifices; the draft omits that lore connection.",
+        "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 407,
+        "gate": "completeness",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 2 FAIL: prisoners reduced to a stew of flesh mush and bloody water are generalized to nonspecific masses of blood and flesh.",
+        "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 408,
+        "gate": "completeness",
+        "family": "Jailbreaker",
+        "finding": "Cycle 2 Phase 2 FAIL: actual Daylily-seed insertion with painful struggle plus explicit fear urination/wet clothing are generalized or omitted.",
+        "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
       }
     ],
-    "combined_remediation_count": 260,
+    "combined_remediation_count": 262,
     "completeness_only_failures": [
       42,
       48,
@@ -33211,7 +33287,9 @@
       332,
       335,
       399,
-      400
+      400,
+      403,
+      406
     ]
   }
 }
