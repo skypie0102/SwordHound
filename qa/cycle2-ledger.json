@@ -2832,13 +2832,22 @@
         449
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         444,
         445,
+        447,
+        449
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
+        444,
+        445,
+        446,
         447,
         449
       ]
@@ -26132,14 +26141,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 442,
@@ -26180,14 +26193,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 443,
@@ -26228,14 +26245,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 444,
@@ -26276,14 +26297,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Bianca's source-explicit kiss on Tudor's lips is generalized to an unspecified kiss, and beheaded monsters with dripping blood on the cleared escape route are reduced to generic dead monsters."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Bianca's source-specified lip kiss, beheaded/blood-dripping monster remains, and Lovegood's concrete note/fan-gift list are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 445,
@@ -26324,14 +26349,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: a source-explicit snot/nasal-discharge trail is omitted, and Madeline's grotesque plan involving consuming/enjoying offspring made from her own blood/flesh is generalized to 'Children. Fresh blood. Fresh flesh.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: nasal-discharge trail detail, Madeline's explicit offspring-consumption fantasy, and her Nouvelle-Vague-prisoner demon-hunter suspicion are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 446,
@@ -26372,14 +26401,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the draft omits Vikir's alternate-history explanation that Sade should have died after the failed Nouvelle Vague escape and therefore his strategist/military talent was unavailable to the old Human Alliance."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 447,
@@ -26420,14 +26453,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Daylily meat-patty/minced-body imagery, Isolde's internal-organ spill after skull destruction, and body-fragment handling are materially generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the meat-patty/minced-body image, Daylily size-tradeoff/recovery detail, demon-body-fragment handling, and Isolde internal-organ spill are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 448,
@@ -26468,14 +26505,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 449,
@@ -26516,14 +26557,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Roderick's source-explicit broken-internal-organ condition is generalized to a body merely 'falling apart.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Roderick's source-explicit broken-into-pieces internal-organ condition is generalized to a body already falling apart."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
     },
     {
       "chapter": 450,
@@ -31870,14 +31915,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 440,
-    "completeness_pass_count": 204,
-    "completeness_fail_count": 236,
+    "completeness_reviewed_count": 449,
+    "completeness_pass_count": 208,
+    "completeness_fail_count": 241,
     "next_family": {
-      "name": "The Fall of Usher",
+      "name": "Declaration of War",
       "range": [
-        441,
-        449
+        450,
+        453
       ]
     },
     "confirmed_failures": [
@@ -33532,9 +33577,44 @@
         "family": "Dreaming the Impossible Dream",
         "finding": "Cycle 2 Phase 2 FAIL: Orca's one-blow 'meat patty' gore image is generalized, and the named Doldium/Souare Nouvelle Vague comparison is reduced to a generic old pairing.",
         "evidence": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md"
+      },
+      {
+        "chapter": 444,
+        "gate": "completeness",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 2 FAIL: Bianca's source-specified lip kiss, beheaded/blood-dripping monster remains, and Lovegood's concrete note/fan-gift list are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 445,
+        "gate": "completeness",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 2 FAIL: nasal-discharge trail detail, Madeline's explicit offspring-consumption fantasy, and her Nouvelle-Vague-prisoner demon-hunter suspicion are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 446,
+        "gate": "completeness",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 2 FAIL: the draft omits Vikir's alternate-history explanation that Sade should have died after the failed Nouvelle Vague escape and therefore his strategist/military talent was unavailable to the old Human Alliance.",
+        "evidence": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 447,
+        "gate": "completeness",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 2 FAIL: the meat-patty/minced-body image, Daylily size-tradeoff/recovery detail, demon-body-fragment handling, and Isolde internal-organ spill are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 449,
+        "gate": "completeness",
+        "family": "The Fall of Usher",
+        "finding": "Cycle 2 Phase 2 FAIL: Roderick's source-explicit broken-into-pieces internal-organ condition is generalized to a body already falling apart.",
+        "evidence": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
       }
     ],
-    "combined_remediation_count": 265,
+    "combined_remediation_count": 266,
     "completeness_only_failures": [
       42,
       48,
@@ -33600,7 +33680,8 @@
       406,
       412,
       422,
-      425
+      425,
+      446
     ]
   }
 }
