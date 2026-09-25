@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 418; next `Goodbye, Nouvelle Vague (419–421)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 436; next `Dreaming the Impossible Dream (437–440)`
 
 ## Progress
 
@@ -32,16 +32,16 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **418 / 500**
-- PASS: **196**
-- FAIL: **222**
-- 159 failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412**
-- current combined remediation population: **263 unique chapters**
+- completeness reviewed: **436 / 500**
+- PASS: **202**
+- FAIL: **234**
+- 169 failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425**
+- current combined remediation population: **265 unique chapters**
 - manuscript edits during discovery: **0**
-- next family: **Goodbye, Nouvelle Vague (419–421)**
+- next family: **Dreaming the Impossible Dream (437–440)**
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0418.md`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0436.md`.
 
 ### Phase 0 — COMPLETE
 
