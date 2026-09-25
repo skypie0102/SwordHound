@@ -2658,11 +2658,16 @@
         421
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        421
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/goodbye-nouvelle-vague-0419-0421.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
         421
       ]
     },
@@ -24950,14 +24955,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation, with the documented aligned-witness repair for the visible Garam source gap, found no material missing, collapsed, duplicated, or invented content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/goodbye-nouvelle-vague-0419-0421.md"
     },
     {
       "chapter": 420,
@@ -24998,14 +25007,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/goodbye-nouvelle-vague-0419-0421.md"
     },
     {
       "chapter": 421,
@@ -25046,14 +25059,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's explicit ascent-pressure image of the body being turned alive into meat paste is omitted, despite surrounding injury mechanics being retained."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/goodbye-nouvelle-vague-0419-0421.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's ascent-pressure image of the body being turned alive into meat paste is omitted despite surrounding compression/injury mechanics being retained."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/goodbye-nouvelle-vague-0419-0421.md"
     },
     {
       "chapter": 422,
@@ -31744,14 +31761,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 418,
-    "completeness_pass_count": 196,
-    "completeness_fail_count": 222,
+    "completeness_reviewed_count": 421,
+    "completeness_pass_count": 198,
+    "completeness_fail_count": 223,
     "next_family": {
-      "name": "Goodbye, Nouvelle Vague",
+      "name": "How to Become a Wandering Knight",
       "range": [
-        419,
-        421
+        422,
+        424
       ]
     },
     "confirmed_failures": [
@@ -33308,6 +33325,13 @@
         "family": "End game",
         "finding": "Cycle 2 Phase 2 FAIL: the source's old-war death scale of hundreds of thousands dying every day is reduced to tens of thousands dying in a day.",
         "evidence": "qa/cycle2/completeness/end-game-0409-0418.md"
+      },
+      {
+        "chapter": 421,
+        "gate": "completeness",
+        "family": "Goodbye, Nouvelle Vague",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's ascent-pressure image of the body being turned alive into meat paste is omitted despite surrounding compression/injury mechanics being retained.",
+        "evidence": "qa/cycle2/completeness/goodbye-nouvelle-vague-0419-0421.md"
       }
     ],
     "combined_remediation_count": 263,
