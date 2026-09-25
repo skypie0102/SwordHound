@@ -2033,13 +2033,21 @@
         338
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         333,
         334,
+        336
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        333,
+        334,
+        335,
         336
       ]
     },
@@ -20306,14 +20314,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly defines mating as reproductive sexual behavior; the draft sanitizes this into generic pairing/breeding language."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the direct reproductive-sexual-behavior definition is generalized to generic breeding/pairing, and Collection Room prisoners explicitly described as already mad are softened to 'broken.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md"
     },
     {
       "chapter": 334,
@@ -20354,14 +20366,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit buttocks presentation/restraint and forced-pregnancy wording in the coercive Giant Mantis breeding sequence are generalized/omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit coercive physical details and forced-pregnancy wording remain generalized/omitted, and the mantises' heavy/irregular breathing and blood-red mutual stare after mist exposure are compressed away."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md"
     },
     {
       "chapter": 335,
@@ -20402,14 +20418,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sinclaire's specific black sleeveless-shirt state is generalized, and the Return Scroll explanation omits that reclassified prior occupants are destined to create additional victims for later challengers."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md"
     },
     {
       "chapter": 336,
@@ -20450,14 +20470,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit nudity, rear embrace, and close full-body contact used for hypothermia survival are generalized to removed wet clothing and shared body heat."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit hypothermia-treatment contact is generalized, and the mist-driven neck-contact sequence is collapsed to generic reaching/avoidance."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md"
     },
     {
       "chapter": 337,
@@ -20498,14 +20522,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md"
     },
     {
       "chapter": 338,
@@ -20546,14 +20574,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/mating-room-0333-0338.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material completeness defect; one malformed portal phrase remains reserved for later textual/boundary resolution."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/mating-room-0333-0338.md"
     },
     {
       "chapter": 339,
@@ -31258,14 +31290,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 332,
-    "completeness_pass_count": 164,
-    "completeness_fail_count": 168,
+    "completeness_reviewed_count": 338,
+    "completeness_pass_count": 166,
+    "completeness_fail_count": 172,
     "next_family": {
-      "name": "The Mating Room",
+      "name": "Trap",
       "range": [
-        333,
-        338
+        339,
+        340
       ]
     },
     "confirmed_failures": [
@@ -32444,9 +32476,37 @@
         "family": "Draw",
         "finding": "Cycle 2 Phase 2 FAIL: the fairy's source-present twelve-finger visual (two retracted, ten extended for the ten-candy offer) is reduced to merely raising ten fingers.",
         "evidence": "qa/cycle2/completeness/draw-0331-0332.md"
+      },
+      {
+        "chapter": 333,
+        "gate": "completeness",
+        "family": "The Mating Room",
+        "finding": "Cycle 2 Phase 2 FAIL: the direct reproductive-sexual-behavior definition is generalized to generic breeding/pairing, and Collection Room prisoners explicitly described as already mad are softened to 'broken.'",
+        "evidence": "qa/cycle2/completeness/mating-room-0333-0338.md"
+      },
+      {
+        "chapter": 334,
+        "gate": "completeness",
+        "family": "The Mating Room",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit coercive physical details and forced-pregnancy wording remain generalized/omitted, and the mantises' heavy/irregular breathing and blood-red mutual stare after mist exposure are compressed away.",
+        "evidence": "qa/cycle2/completeness/mating-room-0333-0338.md"
+      },
+      {
+        "chapter": 335,
+        "gate": "completeness",
+        "family": "The Mating Room",
+        "finding": "Cycle 2 Phase 2 FAIL: Sinclaire's specific black sleeveless-shirt state is generalized, and the Return Scroll explanation omits that reclassified prior occupants are destined to create additional victims for later challengers.",
+        "evidence": "qa/cycle2/completeness/mating-room-0333-0338.md"
+      },
+      {
+        "chapter": 336,
+        "gate": "completeness",
+        "family": "The Mating Room",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit hypothermia-treatment contact is generalized, and the mist-driven neck-contact sequence is collapsed to generic reaching/avoidance.",
+        "evidence": "qa/cycle2/completeness/mating-room-0333-0338.md"
       }
     ],
-    "combined_remediation_count": 257,
+    "combined_remediation_count": 258,
     "completeness_only_failures": [
       42,
       48,
@@ -32504,7 +32564,8 @@
       326,
       329,
       331,
-      332
+      332,
+      335
     ]
   }
 }
