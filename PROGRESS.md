@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 2 reconciled through Chapter 470
+
+The live chapter/family ledger is authoritative through **Chapter 470**.
+
+- completeness reviewed: **470 / 500**;
+- PASS: **216**;
+- FAIL: **254**;
+- **187** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451**;
+- combined Cycle-2 remediation population: **267 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-436 checkpoint, Chapters **437–470** added **14 PASS / 20 FAIL** across **Dreaming the Impossible Dream**, **The Fall of Usher**, **Declaration of War**, **Infiltration of the Water Source**, and **The Prelude to a Counterattack**. New completeness-only additions are **446** and **451**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0470.md`.
+
+Next Phase-2 family: **Tochka Annihilation Battle (471–475)**.
+
 ## 2026-09-26 — Cycle 2 Phase 2 reconciled through Chapter 436
 
 The live chapter/family ledger is authoritative through **Chapter 436**.
