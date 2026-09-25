@@ -1887,11 +1887,18 @@
         313
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        311,
+        313
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        307,
         311,
         313
       ]
@@ -18920,14 +18927,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Camus's source-explicit recollection that a childhood friend/first love brought her a strange tree and nameless old books is reduced to impersonal old-book provenance."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 308,
@@ -18968,14 +18979,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 309,
@@ -19016,14 +19031,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 310,
@@ -19064,14 +19083,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 311,
@@ -19112,14 +19135,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly has surviving Hell Hounds trembling with tails tucked and wetting themselves before Cerberus crushes them; the draft omits the fear-wetting detail."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: surviving Hell Hounds are source-explicitly trembling with tails tucked and wetting themselves; the draft omits the fear-wetting detail."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 312,
@@ -19160,14 +19187,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 313,
@@ -19208,14 +19239,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's burst-abdomen sulfur/blood discharge is generalized while the draft adds unsupported viscera, and the fairy's bloodstained split-mouth detail is omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Cerberus's burst-abdomen sulfur/blood discharge is generalized with unsupported 'viscera,' and the fairy's bloodstained split-mouth detail is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md"
     },
     {
       "chapter": 314,
@@ -31120,14 +31155,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 306,
-    "completeness_pass_count": 152,
-    "completeness_fail_count": 154,
+    "completeness_reviewed_count": 313,
+    "completeness_pass_count": 156,
+    "completeness_fail_count": 157,
     "next_family": {
-      "name": "Hell Tree",
+      "name": "Surplus Man",
       "range": [
-        307,
-        313
+        314,
+        320
       ]
     },
     "confirmed_failures": [
@@ -32208,9 +32243,30 @@
         "family": "The Age of the Warmonger",
         "finding": "Cycle 2 Phase 2 FAIL: Winston's source-explicit blood and internal-organ fragments spraying from his lips are reduced to blood merely spilling from his mouth.",
         "evidence": "qa/cycle2/completeness/age-warmonger-0299-0306.md"
+      },
+      {
+        "chapter": 307,
+        "gate": "completeness",
+        "family": "Hell Tree",
+        "finding": "Cycle 2 Phase 2 FAIL: Camus's source-explicit recollection that a childhood friend/first love brought her a strange tree and nameless old books is reduced to impersonal old-book provenance.",
+        "evidence": "qa/cycle2/completeness/hell-tree-0307-0313.md"
+      },
+      {
+        "chapter": 311,
+        "gate": "completeness",
+        "family": "Hell Tree",
+        "finding": "Cycle 2 Phase 2 FAIL: surviving Hell Hounds are source-explicitly trembling with tails tucked and wetting themselves; the draft omits the fear-wetting detail.",
+        "evidence": "qa/cycle2/completeness/hell-tree-0307-0313.md"
+      },
+      {
+        "chapter": 313,
+        "gate": "completeness",
+        "family": "Hell Tree",
+        "finding": "Cycle 2 Phase 2 FAIL: Cerberus's burst-abdomen sulfur/blood discharge is generalized with unsupported 'viscera,' and the fairy's bloodstained split-mouth detail is omitted.",
+        "evidence": "qa/cycle2/completeness/hell-tree-0307-0313.md"
       }
     ],
-    "combined_remediation_count": 252,
+    "combined_remediation_count": 253,
     "completeness_only_failures": [
       42,
       48,
@@ -32263,7 +32319,8 @@
       281,
       282,
       283,
-      300
+      300,
+      307
     ]
   }
 }
