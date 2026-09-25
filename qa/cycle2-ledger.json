@@ -1635,12 +1635,19 @@
         272
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         270,
+        272
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        270,
+        271,
         272
       ]
     },
@@ -16925,14 +16932,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to her merely never having lived as an assassin."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to never having lived as an assassin."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md"
     },
     {
       "chapter": 271,
@@ -16973,14 +16984,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Mock Investment Competition flyer's one-week application deadline and automatic one-week poster disappearance are omitted in the condensed draft flyer."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md"
     },
     {
       "chapter": 272,
@@ -17021,14 +17036,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's sharp-blade image explicitly severs the hidden demon's head; the draft softens it to a blade merely aimed at the demon."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md"
     },
     {
       "chapter": 273,
@@ -30911,14 +30930,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 269,
+    "completeness_reviewed_count": 272,
     "completeness_pass_count": 144,
-    "completeness_fail_count": 125,
+    "completeness_fail_count": 128,
     "next_family": {
-      "name": "Rich Friends",
+      "name": "Money War",
       "range": [
-        270,
-        272
+        273,
+        278
       ]
     },
     "confirmed_failures": [
@@ -31796,9 +31815,30 @@
         "family": "The Eucharist",
         "finding": "Cycle 2 Phase 2 FAIL: source-explicit bodily severing/near-crushing, both leaders' fear-wetting, Ohm's lower-body mush state, Elmanny's internal-organ burns and death, and Vikir's cross-dressing/whipping impersonation thought are softened or omitted.",
         "evidence": "qa/cycle2/completeness/eucharist-0268-0269.md"
+      },
+      {
+        "chapter": 270,
+        "gate": "completeness",
+        "family": "Rich Friends",
+        "finding": "Cycle 2 Phase 2 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to never having lived as an assassin.",
+        "evidence": "qa/cycle2/completeness/rich-friends-0270-0272.md"
+      },
+      {
+        "chapter": 271,
+        "gate": "completeness",
+        "family": "Rich Friends",
+        "finding": "Cycle 2 Phase 2 FAIL: the Mock Investment Competition flyer's one-week application deadline and automatic one-week poster disappearance are omitted in the condensed draft flyer.",
+        "evidence": "qa/cycle2/completeness/rich-friends-0270-0272.md"
+      },
+      {
+        "chapter": 272,
+        "gate": "completeness",
+        "family": "Rich Friends",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's sharp-blade image explicitly severs the hidden demon's head; the draft softens it to a blade merely aimed at the demon.",
+        "evidence": "qa/cycle2/completeness/rich-friends-0270-0272.md"
       }
     ],
-    "combined_remediation_count": 245,
+    "combined_remediation_count": 246,
     "completeness_only_failures": [
       42,
       48,
@@ -31844,7 +31884,8 @@
       236,
       259,
       264,
-      266
+      266,
+      271
     ]
   }
 }
