@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 252 / 500 — 137 PASS / 115 FAIL
+**Completeness revalidated:** 313 / 500 — 156 PASS / 157 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 115 Phase-2 completeness failures; 42 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236) raise the combined remediation population to 242 unique chapters
-**Current phase:** Phase 2 ACTIVE — completeness through Chapter 252; next `Five Stars (253–254)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 157 Phase-2 completeness failures; 53 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307) raise the combined remediation population to 253 unique chapters
+**Current phase:** Phase 2 ACTIVE — completeness through Chapter 313; next `Surplus Man (314–320)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -75,22 +75,19 @@ Phase 1 sanitization is **COMPLETE**:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-Phase 2 completeness has reached **Chapter 252**:
+Phase 2 completeness has reached **Chapter 313**:
 
-- reviewed: **252 / 500**
-- PASS: **137**
-- FAIL: **115**
-- **73** completeness failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**
-- combined Cycle-2 remediation population: **242 unique chapters**
+- reviewed: **313 / 500**
+- PASS: **156**
+- FAIL: **157**
+- **104** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307**
+- combined Cycle-2 remediation population: **253 unique chapters**
 - manuscript edits during Phase-2 discovery: **0**
-- Wave A (1–100): **68 PASS / 32 FAIL**
-- Wave B (101–202): **47 PASS / 55 FAIL**
-- post-Wave-B segment (203–252): **22 PASS / 28 FAIL**
 
 Formal corpus boundary/alignment clearance remains Phase 3.
 
-Next is **Five Stars (253–254)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0252.md`.
+Next is **Surplus Man (314–320)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0313.md`.
 
 ## Release gate
 
