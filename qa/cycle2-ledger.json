@@ -803,7 +803,7 @@
         132
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md",
       "sanitization_reviewed_date": "2026-09-23",
@@ -811,7 +811,13 @@
         130,
         131,
         132
-      ]
+      ],
+      "completeness_failures": [
+        130,
+        131,
+        132
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
     },
     {
       "index": 35,
@@ -828,7 +834,7 @@
         138
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
       "sanitization_reviewed_date": "2026-09-23",
@@ -838,7 +844,15 @@
         136,
         137,
         138
-      ]
+      ],
+      "completeness_failures": [
+        133,
+        135,
+        136,
+        137,
+        138
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md"
     },
     {
       "index": 36,
@@ -851,14 +865,19 @@
         140
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         139,
         140
-      ]
+      ],
+      "completeness_failures": [
+        139,
+        140
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/men-are-power-0139-0140.md"
     },
     {
       "index": 37,
@@ -872,10 +891,14 @@
         143
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/identity-villain-0141-0143.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        141
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/identity-villain-0141-0143.md"
     },
     {
       "index": 38,
@@ -892,10 +915,12 @@
         149
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/golden-week-volunteering-0144-0149.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_failures": [],
+      "completeness_review_file": "qa/cycle2/completeness/golden-week-volunteering-0144-0149.md"
     },
     {
       "index": 39,
@@ -908,10 +933,15 @@
         151
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        150,
+        151
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/not-brother-0150-0151.md"
     },
     {
       "index": 40,
@@ -925,10 +955,16 @@
         154
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        152,
+        153,
+        154
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md"
     },
     {
       "index": 41,
@@ -942,14 +978,20 @@
         157
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         155,
         157
-      ]
+      ],
+      "completeness_failures": [
+        155,
+        156,
+        157
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md"
     },
     {
       "index": 42,
@@ -964,7 +1006,7 @@
         161
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/familiar-face-0158-0161.md",
       "sanitization_reviewed_date": "2026-09-23",
@@ -973,7 +1015,14 @@
         159,
         160,
         161
-      ]
+      ],
+      "completeness_failures": [
+        158,
+        159,
+        160,
+        161
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/familiar-face-0158-0161.md"
     },
     {
       "index": 43,
@@ -992,7 +1041,7 @@
         169
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/sin-punishment-0162-0169.md",
       "sanitization_reviewed_date": "2026-09-23",
@@ -1001,7 +1050,16 @@
         163,
         166,
         167
-      ]
+      ],
+      "completeness_failures": [
+        162,
+        163,
+        165,
+        166,
+        167,
+        168
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/sin-punishment-0162-0169.md"
     },
     {
       "index": 44,
@@ -1014,10 +1072,12 @@
         171
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/adorable-pet-0170-0171.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_failures": [],
+      "completeness_review_file": "qa/cycle2/completeness/adorable-pet-0170-0171.md"
     },
     {
       "index": 45,
@@ -1032,10 +1092,14 @@
         175
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_failures": [
+        175
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md"
     },
     {
       "index": 46,
@@ -1049,13 +1113,18 @@
         178
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/99-hits-0176-0178.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         177
-      ]
+      ],
+      "completeness_failures": [
+        177,
+        178
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/99-hits-0176-0178.md"
     },
     {
       "index": 47,
@@ -5616,8 +5685,8 @@
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Lowbro's source/continuity-supported single right-index-finger injury is retrospectively pluralized to an injury to his 'fingers.'"
@@ -6003,8 +6072,8 @@
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the Chinese shaman says hunters must receive his blessing or he will ring the warning bell; the draft replaces that action with an unsupported threat to 'curse the lot of you.'"
@@ -6322,8 +6391,8 @@
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's runny-nosed-child comparison is generalized to small children, and an unsupported 'tools' use is added to Oxbear bones/claws/teeth beyond weapons and ornaments."
@@ -6428,8 +6497,8 @@
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source explicitly says Akwilla defeated Hugo Le Baskerville and Adolf Morgue; the draft weakens this to merely fighting them and surviving."
