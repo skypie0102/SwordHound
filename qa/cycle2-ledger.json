@@ -1666,11 +1666,20 @@
         278
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        276,
+        277,
+        278
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        273,
+        275,
         276,
         277,
         278
@@ -17088,14 +17097,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Chapter 273 imports and duplicates the gold/grain/mineral/real-estate/bond prediction-category list that belongs to Chapter 274."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
     },
     {
       "chapter": 274,
@@ -17136,14 +17149,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
     },
     {
       "chapter": 275,
@@ -17184,14 +17201,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Saltsail's source-explicit 60,000-ton salt figure is generalized to 'tens of thousands of tons.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
     },
     {
       "chapter": 276,
@@ -17232,14 +17253,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: direct condemnation of demon-linked lenders as shameless/not worth sympathy and the explicit end-times madness framing are generalized away."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
     },
     {
       "chapter": 277,
@@ -17280,14 +17305,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0262-0277.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: failed succession challengers face death or exile worse than death; the draft softens this to death or something close to it."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
     },
     {
       "chapter": 278,
@@ -17328,14 +17357,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Damien's weapon is source-explicitly a true killing sword, and Night Hound's danger can rival or even exceed Ms. Ouroboros; both are weakened in the draft."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
     },
     {
       "chapter": 279,
@@ -30930,14 +30963,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 272,
-    "completeness_pass_count": 144,
-    "completeness_fail_count": 128,
+    "completeness_reviewed_count": 278,
+    "completeness_pass_count": 145,
+    "completeness_fail_count": 133,
     "next_family": {
-      "name": "Money War",
+      "name": "What Money Can't Buy",
       "range": [
-        273,
-        278
+        279,
+        282
       ]
     },
     "confirmed_failures": [
@@ -31836,9 +31869,44 @@
         "family": "Rich Friends",
         "finding": "Cycle 2 Phase 2 FAIL: the source's sharp-blade image explicitly severs the hidden demon's head; the draft softens it to a blade merely aimed at the demon.",
         "evidence": "qa/cycle2/completeness/rich-friends-0270-0272.md"
+      },
+      {
+        "chapter": 273,
+        "gate": "completeness",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 2 FAIL: Chapter 273 imports and duplicates the gold/grain/mineral/real-estate/bond prediction-category list that belongs to Chapter 274.",
+        "evidence": "qa/cycle2/completeness/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 275,
+        "gate": "completeness",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 2 FAIL: Saltsail's source-explicit 60,000-ton salt figure is generalized to 'tens of thousands of tons.'",
+        "evidence": "qa/cycle2/completeness/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 276,
+        "gate": "completeness",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 2 FAIL: direct condemnation of demon-linked lenders as shameless/not worth sympathy and the explicit end-times madness framing are generalized away.",
+        "evidence": "qa/cycle2/completeness/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 277,
+        "gate": "completeness",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 2 FAIL: failed succession challengers face death or exile worse than death; the draft softens this to death or something close to it.",
+        "evidence": "qa/cycle2/completeness/money-war-0273-0278.md"
+      },
+      {
+        "chapter": 278,
+        "gate": "completeness",
+        "family": "Money War",
+        "finding": "Cycle 2 Phase 2 FAIL: Damien's weapon is source-explicitly a true killing sword, and Night Hound's danger can rival or even exceed Ms. Ouroboros; both are weakened in the draft.",
+        "evidence": "qa/cycle2/completeness/money-war-0273-0278.md"
       }
     ],
-    "combined_remediation_count": 246,
+    "combined_remediation_count": 248,
     "completeness_only_failures": [
       42,
       48,
@@ -31885,7 +31953,9 @@
       259,
       264,
       266,
-      271
+      271,
+      273,
+      275
     ]
   }
 }
