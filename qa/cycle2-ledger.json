@@ -16281,7 +16281,7 @@
       "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/five-stars-0253-0254.md",
       "completeness_findings": [
-        "Cycle 2 Phase 2 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's Imperial-Capital mission and 174 demon-linked targets is euphemized as quiet removal / elimination."
+        "Cycle 2 Phase 2 FAIL: source-explicit secret-assassination / assassinated wording for Vikir's Imperial-Capital mission and 174 demon-linked targets is euphemized to quiet removal / eliminated."
       ],
       "completeness_review_file": "qa/cycle2/completeness/five-stars-0253-0254.md"
     },
@@ -31560,14 +31560,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 384,
-    "completeness_pass_count": 186,
-    "completeness_fail_count": 198,
+    "completeness_reviewed_count": 254,
+    "completeness_pass_count": 138,
+    "completeness_fail_count": 116,
     "next_family": {
-      "name": "The Rotten Dog of Nouvelle Vague",
+      "name": "The Grave of Swords",
       "range": [
-        385,
-        389
+        255,
+        260
       ]
     },
     "confirmed_failures": [
@@ -32958,7 +32958,7 @@
         "evidence": "qa/cycle2/completeness/kennel-0382-0384.md"
       }
     ],
-    "combined_remediation_count": 258,
+    "combined_remediation_count": 242,
     "completeness_only_failures": [
       42,
       48,
