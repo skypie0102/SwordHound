@@ -16,7 +16,7 @@ Phase 1 remains closed at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**.
 Of the **115** completeness failures found through Chapter 252:
 
 - **73** overlap chapters already failed by Phase 1 sanitization;
-- **42** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**;
+- **42** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**;
 - the combined Cycle-2 remediation population is therefore **242 unique chapters**.
 
 All remediation remains deferred to Phase 4.
