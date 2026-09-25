@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 470 / 500 — 216 PASS / 254 FAIL
+**Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 254 Phase-2 completeness failures; 67 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451) raise the combined remediation population to 267 unique chapters
-**Current phase:** Phase 2 ACTIVE — completeness through Chapter 470; next `Tochka Annihilation Battle (471–475)`
+**Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
+**Current phase:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity pass
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -75,19 +75,21 @@ Phase 1 sanitization is **COMPLETE**:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-Phase 2 completeness has reached **Chapter 470**:
+Phase 2 completeness is **COMPLETE through Chapter 500**:
 
-- reviewed: **470 / 500**
-- PASS: **216**
-- FAIL: **254**
-- **187** completeness failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451**
-- combined Cycle-2 remediation population: **267 unique chapters**
+- reviewed: **500 / 500**
+- PASS: **229**
+- FAIL: **271**
+- **198** completeness failures overlap ordinary Phase-1 FAIL chapters
+- **73** are additions beyond the Phase-1 FAIL queue: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499**
+- Phase-1-only FAILs that passed completeness: **35, 262**
+- combined Cycle-2 remediation population: **273 unique chapters**
+- family completeness: **23 PASS / 95 FAIL / 0 pending**
 - manuscript edits during Phase-2 discovery: **0**
 
-Formal corpus boundary/alignment clearance remains Phase 3.
+Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Next is **Tochka Annihilation Battle (471–475)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0470.md`.
+Phase 3 is now active. Formal boundary/alignment clearance remains **0 / 500** until the structural pass begins.
 
 ## Release gate
 
