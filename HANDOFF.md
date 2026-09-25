@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 340 / 500 — 166 PASS / 174 FAIL
+**Cycle-2 completeness revalidated:** 368 / 500 — 178 PASS / 190 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 174 Phase-2 completeness failures; 116 completeness failures overlap Phase-1 FAILs and 58 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335), for 258 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 340; next `Private Life (341–342)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 190 Phase-2 completeness failures; 132 completeness failures overlap Phase-1 FAILs and 58 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335), for 258 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 368; next `The Servant (369–370)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -117,22 +117,23 @@ Evidence:
 
 ## Phase 2 progress
 
-**Phase 2 is ACTIVE through Chapter 340.**
+**Phase 2 is ACTIVE through Chapter 368.**
 
-- completeness reviewed: **340 / 500**;
-- PASS: **166**;
-- FAIL: **174**;
-- **116** completeness failures overlap existing Phase-1 sanitization FAILs;
+- completeness reviewed: **368 / 500**;
+- PASS: **178**;
+- FAIL: **190**;
+- **132** completeness failures overlap existing Phase-1 sanitization FAILs;
 - **58** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**;
 - combined Cycle-2 remediation population so far: **258 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
-- next family: **Private Life (341–342)**.
+- Chapters 341–368 added **12 PASS / 16 FAIL**, all sixteen failures overlapping Phase 1;
+- next family: **The Servant (369–370)**.
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0340.md`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0368.md`.
 
 ## Exact next actions
 
-1. Continue Phase 2 from **Private Life (341–342)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–340.
+1. Continue Phase 2 from **The Servant (369–370)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–368.
 2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order.
 3. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 58 completeness-only additions found so far.
 4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
