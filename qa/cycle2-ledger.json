@@ -2713,11 +2713,20 @@
         429
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        426,
+        427,
+        428,
+        429
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
+        425,
         426,
         427,
         428,
@@ -25274,14 +25283,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's Old-Testament-priest learning note is omitted and an unsupported 'low-interest loan' flourish is added to her healing advice."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
     },
     {
       "chapter": 426,
@@ -25322,14 +25335,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's explicit proposal to assassinate the core figure is softened to generic 'hit the center' wording."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's entire-Empire stockpile scale is generalized, explicit assassination intent is softened to 'hit the center,' and Tudor's wall-smashing departure after the Bianca emergency is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
     },
     {
       "chapter": 427,
@@ -25370,14 +25387,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Pedro's source-specific punishment of having all four limbs cut off before underground imprisonment is generalized to being crippled/imprisoned."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Pedro's source-specific prior punishment of all four limbs being cut off before underground imprisonment is generalized to being crippled/imprisoned."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
     },
     {
       "chapter": 428,
@@ -25418,14 +25439,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sinclaire and Bianca's source-explicit tears-and-snot/nasal-discharge reconciliation detail is sanitized to crying only."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sinclaire and Bianca's source-explicit tears-and-nasal-discharge reconciliation detail is sanitized to crying only."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
     },
     {
       "chapter": 429,
@@ -25466,14 +25491,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Pedro's source-explicit eyeballs actually popping out and the group's severing of his hands/feet are generalized to bulging eyes and destroyed mobility."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Pedro's eyeballs actually popping out and the explicit severing of his hands/feet/limbs are generalized to bulging eyes and destroyed mobility."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
     },
     {
       "chapter": 430,
@@ -31780,14 +31809,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 424,
+    "completeness_reviewed_count": 429,
     "completeness_pass_count": 198,
-    "completeness_fail_count": 226,
+    "completeness_fail_count": 231,
     "next_family": {
-      "name": "The Night Walkers",
+      "name": "The Lion King",
       "range": [
-        425,
-        429
+        430,
+        433
       ]
     },
     "confirmed_failures": [
@@ -33372,9 +33401,44 @@
         "family": "How to Become a Wandering Knight",
         "finding": "Cycle 2 Phase 2 FAIL: burst internal organs are generalized to shattered bodies, the source survival aphorism is omitted, and Tudor's throat-tightening reaction to Shammua's gift is dropped.",
         "evidence": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
+      },
+      {
+        "chapter": 425,
+        "gate": "completeness",
+        "family": "The Night Walkers",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's Old-Testament-priest learning note is omitted and an unsupported 'low-interest loan' flourish is added to her healing advice.",
+        "evidence": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      },
+      {
+        "chapter": 426,
+        "gate": "completeness",
+        "family": "The Night Walkers",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's entire-Empire stockpile scale is generalized, explicit assassination intent is softened to 'hit the center,' and Tudor's wall-smashing departure after the Bianca emergency is omitted.",
+        "evidence": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      },
+      {
+        "chapter": 427,
+        "gate": "completeness",
+        "family": "The Night Walkers",
+        "finding": "Cycle 2 Phase 2 FAIL: Pedro's source-specific prior punishment of all four limbs being cut off before underground imprisonment is generalized to being crippled/imprisoned.",
+        "evidence": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      },
+      {
+        "chapter": 428,
+        "gate": "completeness",
+        "family": "The Night Walkers",
+        "finding": "Cycle 2 Phase 2 FAIL: Sinclaire and Bianca's source-explicit tears-and-nasal-discharge reconciliation detail is sanitized to crying only.",
+        "evidence": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      },
+      {
+        "chapter": 429,
+        "gate": "completeness",
+        "family": "The Night Walkers",
+        "finding": "Cycle 2 Phase 2 FAIL: Pedro's eyeballs actually popping out and the explicit severing of his hands/feet/limbs are generalized to bulging eyes and destroyed mobility.",
+        "evidence": "qa/cycle2/completeness/night-walkers-0425-0429.md"
       }
     ],
-    "combined_remediation_count": 264,
+    "combined_remediation_count": 265,
     "completeness_only_failures": [
       42,
       48,
@@ -33439,7 +33503,8 @@
       403,
       406,
       412,
-      422
+      422,
+      425
     ]
   }
 }
