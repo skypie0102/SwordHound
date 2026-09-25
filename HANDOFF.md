@@ -1,6 +1,6 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-25
+**Checkpoint:** 2026-09-26
 **Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 252 / 500 — 137 PASS / 115 FAIL
+**Cycle-2 completeness revalidated:** 418 / 500 — 196 PASS / 222 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 115 Phase-2 completeness failures; 73 completeness failures overlap Phase-1 FAILs and 42 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236), for 242 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 252; next `Five Stars (253–254)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 222 Phase-2 completeness failures; 159 completeness failures overlap Phase-1 FAILs and 63 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412), for 263 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 418; next `Goodbye, Nouvelle Vague (419–421)`
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -117,26 +117,26 @@ Evidence:
 
 ## Phase 2 progress
 
-**Phase 2 is ACTIVE through Chapter 252.**
+**Phase 2 is ACTIVE through Chapter 418.**
 
-- completeness reviewed: **252 / 500**;
-- PASS: **137**;
-- FAIL: **115**;
-- **73** completeness failures overlap existing Phase-1 sanitization FAILs;
-- **42** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**;
-- combined Cycle-2 remediation population so far: **242 unique chapters**;
+- completeness reviewed: **418 / 500**;
+- PASS: **196**;
+- FAIL: **222**;
+- **159** completeness failures overlap existing Phase-1 sanitization FAILs;
+- **63** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412**;
+- combined Cycle-2 remediation population so far: **263 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
-- next family: **Five Stars (253–254)**.
+- next family: **Goodbye, Nouvelle Vague (419–421)**.
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0252.md`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0418.md`.
 
 ## Exact next actions
 
-1. Continue Phase 2 from **Five Stars (253–254)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–252.
+1. Continue Phase 2 from **Goodbye, Nouvelle Vague (419–421)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–418.
 2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order.
-3. Keep completeness independent from sanitization and preserve all Phase-1 dispositions plus the 42 completeness-only additions found so far.
+3. Keep completeness independent from sanitization and preserve all Phase-1 dispositions plus the 63 completeness-only additions found so far.
 4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
-5. Preserve documented source gaps, shifted witnesses, combined raws, canonical terminology decisions, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
+5. Preserve source gaps, shifted witnesses, combined raws, canonical terminology decisions, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume with **Phase 2 Chapter 253**.
+The next agent should resume with **Phase 2 Chapter 419**.
