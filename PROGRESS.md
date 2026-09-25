@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 2 reconciled through Chapter 436
+
+The live chapter/family ledger is authoritative through **Chapter 436**.
+
+- completeness reviewed: **436 / 500**;
+- PASS: **202**;
+- FAIL: **234**;
+- **169** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425**;
+- combined Cycle-2 remediation population: **265 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-418 checkpoint, Chapters **419–436** added **6 PASS / 12 FAIL** across **Goodbye, Nouvelle Vague**, **How to Become a Wandering Knight**, **The Night Walkers**, **The Lion King**, and **The Returned Hound**. New completeness-only additions are **422** and **425**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0436.md`.
+
+Next Phase-2 family: **Dreaming the Impossible Dream (437–440)**.
+
 ## 2026-09-26 — Cycle 2 Phase 2 live checkpoint restored through Chapter 418
 
 The live ledger is authoritative at **418 / 500** after interruption recovery.
