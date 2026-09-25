@@ -2434,11 +2434,17 @@
         384
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        382,
+        384
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/kennel-0382-0384.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         382,
         384
       ]
@@ -22962,14 +22968,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source says Gulper Eels provide no harvestable/obtainable meat, while the draft changes this to 'little usable meat,' introducing recoverable meat."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source says Gulper Eels yield no harvestable/obtainable meat; the draft changes this to 'little usable meat.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/kennel-0382-0384.md"
     },
     {
       "chapter": 383,
@@ -23010,14 +23020,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/kennel-0382-0384.md"
     },
     {
       "chapter": 384,
@@ -23058,14 +23072,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's blood/flesh/internal organs bursting like firecrackers and instantly blackening the water is reduced to isolated body-part nouns and generic darkening."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/kennel-0382-0384.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source has blood, flesh, and internal organs burst like firecrackers and instantly blacken the water; the draft reduces this to isolated body-part nouns and generic darkening."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/kennel-0382-0384.md"
     },
     {
       "chapter": 385,
@@ -31542,14 +31560,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 381,
-    "completeness_pass_count": 185,
-    "completeness_fail_count": 196,
+    "completeness_reviewed_count": 384,
+    "completeness_pass_count": 186,
+    "completeness_fail_count": 198,
     "next_family": {
-      "name": "Kennel",
+      "name": "The Rotten Dog of Nouvelle Vague",
       "range": [
-        382,
-        384
+        385,
+        389
       ]
     },
     "confirmed_failures": [
@@ -32924,6 +32942,20 @@
         "family": "The Hounds of Nouvelle Vague",
         "finding": "Cycle 2 Phase 2 FAIL: Garam's source-explicit all-bones-crushed-to-powder injury and ruptured major metabolic organs are generalized to bone fragments and vital-organ failure.",
         "evidence": "qa/cycle2/completeness/hounds-nouvelle-vague-0377-0381.md"
+      },
+      {
+        "chapter": 382,
+        "gate": "completeness",
+        "family": "Kennel",
+        "finding": "Cycle 2 Phase 2 FAIL: the source says Gulper Eels yield no harvestable/obtainable meat; the draft changes this to 'little usable meat.'",
+        "evidence": "qa/cycle2/completeness/kennel-0382-0384.md"
+      },
+      {
+        "chapter": 384,
+        "gate": "completeness",
+        "family": "Kennel",
+        "finding": "Cycle 2 Phase 2 FAIL: the source has blood, flesh, and internal organs burst like firecrackers and instantly blacken the water; the draft reduces this to isolated body-part nouns and generic darkening.",
+        "evidence": "qa/cycle2/completeness/kennel-0382-0384.md"
       }
     ],
     "combined_remediation_count": 258,
