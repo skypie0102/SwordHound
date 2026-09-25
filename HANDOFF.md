@@ -8,10 +8,10 @@
 **Cycle-2 sanitization PASS:** 282 / 500
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Cycle-2 completeness revalidated:** 470 / 500 — 216 PASS / 254 FAIL
+**Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 0 / 500  
-**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization failures plus 254 Phase-2 completeness failures; 187 completeness failures overlap Phase-1 FAILs and 67 are completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451), for 267 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 2 ACTIVE — completeness through Chapter 470; next `Tochka Annihilation Battle (471–475)`
+**Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
+**Current audit stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification; begin at the corpus start
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -117,26 +117,28 @@ Evidence:
 
 ## Phase 2 progress
 
-**Phase 2 is ACTIVE through Chapter 470.**
+**Phase 2 is COMPLETE across Chapters 1–500.**
 
-- completeness reviewed: **470 / 500**;
-- PASS: **216**;
-- FAIL: **254**;
-- **187** completeness failures overlap existing Phase-1 sanitization FAILs;
-- **67** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451**;
-- combined Cycle-2 remediation population so far: **267 unique chapters**;
-- manuscript edits during Phase-2 discovery: **0**;
-- next family: **Tochka Annihilation Battle (471–475)**.
+- completeness reviewed: **500 / 500**;
+- PASS: **229**;
+- FAIL: **271**;
+- **198** completeness failures overlap ordinary Phase-1 sanitization FAILs;
+- **73** are additions beyond the Phase-1 FAIL queue: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499**;
+- Phase-1-only FAILs that passed completeness: **35, 262**;
+- combined Cycle-2 remediation population: **273 unique chapters**;
+- remediation metadata normalized: **273 / 273** union chapters marked `remediation_required`;
+- family completeness dispositions: **23 PASS / 95 FAIL / 0 pending** across **118 / 118** families;
+- manuscript edits during Phase-2 discovery: **0**.
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0470.md`.
+Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`, family evidence under `qa/cycle2/completeness/`, and `qa/cycle2-ledger.json`.
 
 ## Exact next actions
 
-1. Continue Phase 2 from **Tochka Annihilation Battle (471–475)** on `audit/cycle2-phase2-wave-b`; do not repeat Chapters 1–470.
-2. Review every chapter directly against complete Chinese-source evidence in contiguous title-family order.
-3. Keep completeness independent from sanitization; preserve all Phase-1 dispositions and the 67 completeness-only additions found so far.
-4. Keep manuscript remediation deferred to Phase 4; Phase 2 remains discovery/evidence only.
-5. Preserve source gaps, shifted witnesses, combined raws, canonical terminology decisions, and safety-limited exceptions without prematurely declaring Phase-3 boundary clearance.
+1. Begin **Phase 3** on `audit/cycle2-phase2-wave-b` with corpus boundary/alignment/exception integrity verification from the start of the corpus.
+2. Recheck all **118 title-family boundaries**, chapter opening/closing transitions, shared/combined Chinese raw containers, shifted English witness mappings, localized source gaps, and Side Story splits/order.
+3. Reconcile every documented exception against `source/chinese/chapter-exceptions.tsv`; add any newly confirmed structural exception only with evidence.
+4. Pay particular attention to duplicated/displaced material already surfaced in Phase 2 (for example Chapters 78, 190, and 236) without editing manuscripts yet.
+5. Keep the **273-chapter** remediation queue frozen until Phase 3 closes; then begin Phase 4 from the earliest affected family.
 6. Keep EPUB assembly blocked.
 
-The next agent should resume with **Phase 2 Chapter 471**.
+The next agent should resume with **Phase 3**, not repeat Phase 1/2 and not begin manuscript repairs yet.
