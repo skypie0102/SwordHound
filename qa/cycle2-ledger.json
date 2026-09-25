@@ -2062,11 +2062,17 @@
         340
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        339,
+        340
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/trap-0339-0340.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         339,
         340
       ]
@@ -20626,14 +20632,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly states Vikir is not wearing clothes and his naked skin touches the bed; the draft softens this to vague 'uncovered skin.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Vikir's source-explicit no-clothes/naked-skin state on waking in Lost Paradise is softened to vague uncovered skin."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/trap-0339-0340.md"
     },
     {
       "chapter": 340,
@@ -20674,14 +20684,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Dolores's source-explicit affectionate/loving gaze toward Vikir is softened to generic warmth in her eyes."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/trap-0339-0340.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's explicitly affectionate/loving gaze is softened; the one-reply letter limit and Hugo's high-cholesterol bait detail are also omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/trap-0339-0340.md"
     },
     {
       "chapter": 341,
@@ -31290,14 +31304,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 338,
+    "completeness_reviewed_count": 340,
     "completeness_pass_count": 166,
-    "completeness_fail_count": 172,
+    "completeness_fail_count": 174,
     "next_family": {
-      "name": "Trap",
+      "name": "Private Life",
       "range": [
-        339,
-        340
+        341,
+        342
       ]
     },
     "confirmed_failures": [
@@ -32504,6 +32518,20 @@
         "family": "The Mating Room",
         "finding": "Cycle 2 Phase 2 FAIL: source-explicit hypothermia-treatment contact is generalized, and the mist-driven neck-contact sequence is collapsed to generic reaching/avoidance.",
         "evidence": "qa/cycle2/completeness/mating-room-0333-0338.md"
+      },
+      {
+        "chapter": 339,
+        "gate": "completeness",
+        "family": "Trap",
+        "finding": "Cycle 2 Phase 2 FAIL: Vikir's source-explicit no-clothes/naked-skin state on waking in Lost Paradise is softened to vague uncovered skin.",
+        "evidence": "qa/cycle2/completeness/trap-0339-0340.md"
+      },
+      {
+        "chapter": 340,
+        "gate": "completeness",
+        "family": "Trap",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's explicitly affectionate/loving gaze is softened; the one-reply letter limit and Hugo's high-cholesterol bait detail are also omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/trap-0339-0340.md"
       }
     ],
     "combined_remediation_count": 258,
