@@ -1817,11 +1817,17 @@
         298
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        296,
+        297
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/last-semester-0296-0298.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         296,
         297
       ]
@@ -18332,14 +18338,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Banshee's explicit characterization of present-day Sadi as a failure/loser immersed in alcohol and escaping reality is softened by dropping the degrading label."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Banshee's explicit failure/loser condemnation of Sadi is softened, and the draft adds an unsupported golden color to the serpent's left eye."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/last-semester-0296-0298.md"
     },
     {
       "chapter": 297,
@@ -18380,14 +18390,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's extreme statement that Pomeranian would obey Vikir even at the cost of death is generalized to merely obeying him readily."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Pomeranian's source-explicit willingness to obey Vikir even at the cost of death is generalized to merely obeying him readily."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/last-semester-0296-0298.md"
     },
     {
       "chapter": 298,
@@ -18428,14 +18442,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/last-semester-0296-0298.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content; the established cracked-ladle parable remains intact."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/last-semester-0296-0298.md"
     },
     {
       "chapter": 299,
@@ -31060,14 +31078,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 295,
-    "completeness_pass_count": 149,
-    "completeness_fail_count": 146,
+    "completeness_reviewed_count": 298,
+    "completeness_pass_count": 150,
+    "completeness_fail_count": 148,
     "next_family": {
-      "name": "Last Semester",
+      "name": "The Age of the Warmonger",
       "range": [
-        296,
-        298
+        299,
+        306
       ]
     },
     "confirmed_failures": [
@@ -32092,6 +32110,20 @@
         "family": "Confessions",
         "finding": "Cycle 2 Phase 2 FAIL: Sinclaire's source-supported good-figure/body statements are mistranslated/generalized, and Vikir's concrete 931/990 written-score figure is omitted.",
         "evidence": "qa/cycle2/completeness/confessions-0293-0295.md"
+      },
+      {
+        "chapter": 296,
+        "gate": "completeness",
+        "family": "Last Semester",
+        "finding": "Cycle 2 Phase 2 FAIL: Banshee's explicit failure/loser condemnation of Sadi is softened, and the draft adds an unsupported golden color to the serpent's left eye.",
+        "evidence": "qa/cycle2/completeness/last-semester-0296-0298.md"
+      },
+      {
+        "chapter": 297,
+        "gate": "completeness",
+        "family": "Last Semester",
+        "finding": "Cycle 2 Phase 2 FAIL: Pomeranian's source-explicit willingness to obey Vikir even at the cost of death is generalized to merely obeying him readily.",
+        "evidence": "qa/cycle2/completeness/last-semester-0296-0298.md"
       }
     ],
     "combined_remediation_count": 251,
