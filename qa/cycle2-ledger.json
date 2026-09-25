@@ -2202,11 +2202,17 @@
         358
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        356,
+        357
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/crime-punishment-0356-0358.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         356,
         357
       ]
@@ -21561,14 +21567,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: a student's source-explicit 'I almost got killed too' gym reaction is omitted, and Tudor's tears-plus-snot/nasal-discharge jab at Bianca is softened to crying only."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the student's source-explicit near-death gym reaction is omitted, and Tudor's tears-plus-snot/nasal-discharge jab at Bianca is softened to crying only."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/crime-punishment-0356-0358.md"
     },
     {
       "chapter": 357,
@@ -21609,14 +21619,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Nouvelle Vague is source-explicitly described as more cruel and more terrifying than the death penalty; the draft softens this to merely 'more feared than execution.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Nouvelle Vague is source-explicitly described as more cruel and more terrifying than the death penalty; the draft reduces this to merely 'more feared than execution.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/crime-punishment-0356-0358.md"
     },
     {
       "chapter": 358,
@@ -21657,14 +21671,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/crime-punishment-0356-0358.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/crime-punishment-0356-0358.md"
     },
     {
       "chapter": 359,
@@ -31389,14 +31407,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 355,
-    "completeness_pass_count": 172,
-    "completeness_fail_count": 183,
+    "completeness_reviewed_count": 358,
+    "completeness_pass_count": 173,
+    "completeness_fail_count": 185,
     "next_family": {
-      "name": "Crime and Punishment",
+      "name": "Voluntary Escort",
       "range": [
-        356,
-        358
+        359,
+        362
       ]
     },
     "confirmed_failures": [
@@ -32680,6 +32698,20 @@
         "family": "Outside the Tower",
         "finding": "Cycle 2 Phase 2 FAIL: source-explicit crude profanity while Camus/Dolores force through the press crowd is sanitized to plain 'Move! I can't see!'.",
         "evidence": "qa/cycle2/completeness/outside-tower-0351-0355.md"
+      },
+      {
+        "chapter": 356,
+        "gate": "completeness",
+        "family": "Crime and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: the student's source-explicit near-death gym reaction is omitted, and Tudor's tears-plus-snot/nasal-discharge jab at Bianca is softened to crying only.",
+        "evidence": "qa/cycle2/completeness/crime-punishment-0356-0358.md"
+      },
+      {
+        "chapter": 357,
+        "gate": "completeness",
+        "family": "Crime and Punishment",
+        "finding": "Cycle 2 Phase 2 FAIL: Nouvelle Vague is source-explicitly described as more cruel and more terrifying than the death penalty; the draft reduces this to merely 'more feared than execution.'",
+        "evidence": "qa/cycle2/completeness/crime-punishment-0356-0358.md"
       }
     ],
     "combined_remediation_count": 258,
