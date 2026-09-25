@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 340; next `Private Life (341–342)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 368; next `The Servant (369–370)`
 
 ## Progress
 
@@ -32,16 +32,17 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **340 / 500**
-- PASS: **166**
-- FAIL: **174**
-- 116 failures overlap Phase-1 FAIL chapters
+- completeness reviewed: **368 / 500**
+- PASS: **178**
+- FAIL: **190**
+- 132 failures overlap Phase-1 FAIL chapters
 - completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**
 - current combined remediation population: **258 unique chapters**
 - manuscript edits during discovery: **0**
-- next family: **Private Life (341–342)**
+- Chapters 341–368: **12 PASS / 16 FAIL**, with no new completeness-only additions
+- next family: **The Servant (369–370)**
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0340.md`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0368.md`.
 
 ### Phase 0 — COMPLETE
 
