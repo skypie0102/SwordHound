@@ -2463,11 +2463,18 @@
         389
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        386,
+        387,
+        389
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         386,
         387,
         389
@@ -23129,14 +23136,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
     },
     {
       "chapter": 386,
@@ -23182,14 +23193,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source repeatedly calls Garam a 'dog who eats shit,' but the draft sanitizes the scatological nickname to 'Rotten Dog.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Garam's recurring source-explicit 'dog who eats shit' nickname is sanitized to 'Rotten Dog.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
     },
     {
       "chapter": 387,
@@ -23230,14 +23245,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Kirko's source-explicit 'garbage' / 'parasitize society' degradation is omitted, Pal's snot/sweat injury aftermath is reduced, and Garam's scatological nickname is sanitized to 'Rotten Dog.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Kirko's 'garbage' / 'parasitize society' degradation, Pal's snot/sweat injury aftermath, and Garam's scatological nickname are reduced or omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
     },
     {
       "chapter": 388,
@@ -23278,14 +23297,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
     },
     {
       "chapter": 389,
@@ -23326,14 +23349,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Kirko's source proverb that a dog cannot stop eating shit is euphemized to a dog that 'eats filth.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Kirko's scatological proverb about D'Ordume is euphemized, and Vikir's gloomy/oppressive birthday framing is neutralized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
     },
     {
       "chapter": 390,
@@ -31560,14 +31587,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 384,
-    "completeness_pass_count": 186,
-    "completeness_fail_count": 198,
+    "completeness_reviewed_count": 389,
+    "completeness_pass_count": 188,
+    "completeness_fail_count": 201,
     "next_family": {
-      "name": "The Rotten Dog of Nouvelle Vague",
+      "name": "The Worst Torture",
       "range": [
-        385,
-        389
+        390,
+        395
       ]
     },
     "confirmed_failures": [
@@ -32956,6 +32983,27 @@
         "family": "Kennel",
         "finding": "Cycle 2 Phase 2 FAIL: the source has blood, flesh, and internal organs burst like firecrackers and instantly blacken the water; the draft reduces this to isolated body-part nouns and generic darkening.",
         "evidence": "qa/cycle2/completeness/kennel-0382-0384.md"
+      },
+      {
+        "chapter": 386,
+        "gate": "completeness",
+        "family": "The Rotten Dog of Nouvelle Vague",
+        "finding": "Cycle 2 Phase 2 FAIL: Garam's recurring source-explicit 'dog who eats shit' nickname is sanitized to 'Rotten Dog.'",
+        "evidence": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      },
+      {
+        "chapter": 387,
+        "gate": "completeness",
+        "family": "The Rotten Dog of Nouvelle Vague",
+        "finding": "Cycle 2 Phase 2 FAIL: Kirko's 'garbage' / 'parasitize society' degradation, Pal's snot/sweat injury aftermath, and Garam's scatological nickname are reduced or omitted.",
+        "evidence": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      },
+      {
+        "chapter": 389,
+        "gate": "completeness",
+        "family": "The Rotten Dog of Nouvelle Vague",
+        "finding": "Cycle 2 Phase 2 FAIL: Kirko's scatological proverb about D'Ordume is euphemized, and Vikir's gloomy/oppressive birthday framing is neutralized.",
+        "evidence": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
       }
     ],
     "combined_remediation_count": 258,
