@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 2 COMPLETE at 500 / 500
+
+The direct Chinese-primary completeness pass is closed across the entire target corpus.
+
+- completeness reviewed: **500 / 500**;
+- PASS: **229**;
+- FAIL: **271**;
+- **198** completeness failures overlap ordinary Phase-1 sanitization FAIL chapters;
+- **73** are additions beyond the Phase-1 FAIL queue;
+- combined Cycle-2 remediation population: **273 unique chapters**;
+- family completeness: **23 PASS / 95 FAIL / 0 pending** across **118** families;
+- manuscript edits during Phase-2 discovery: **0**;
+- stale family/remediation metadata was normalized at closure, leaving **273 / 273** remediation-union chapters correctly queued.
+
+The final span from Chapter 470 through 500 closed the remaining families through **Side Story 5**. New completeness-only additions in that closing span include **471, 483, 496, 497, 498, and 499**.
+
+Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`.
+
+**Next:** Phase 3 — full-corpus boundary/alignment/exception integrity verification. EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 2 reconciled through Chapter 470
 
 The live chapter/family ledger is authoritative through **Chapter 470**.
