@@ -1,6 +1,6 @@
 # Project State
 
-**Checkpoint:** 2026-09-24
+**Checkpoint:** 2026-09-25
 **Target edition:** 500 chapters  
 **Manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
@@ -9,10 +9,10 @@
 **Sanitization PASS:** 282 / 500
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
-**Completeness revalidated:** 313 / 500 — 156 PASS / 157 FAIL
+**Completeness revalidated:** 340 / 500 — 166 PASS / 174 FAIL
 **Boundary/alignment revalidated:** 0 / 500  
-**Confirmed new failures:** 200 Phase-1 sanitization failures plus 157 Phase-2 completeness failures; 53 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307) raise the combined remediation population to 253 unique chapters
-**Current phase:** Phase 2 ACTIVE — completeness through Chapter 313; next `Surplus Man (314–320)`
+**Confirmed new failures:** 200 Phase-1 sanitization failures plus 174 Phase-2 completeness failures; 58 completeness-only additions (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335) raise the combined remediation population to 258 unique chapters
+**Current phase:** Phase 2 ACTIVE — completeness through Chapter 340; next `Private Life (341–342)`
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
@@ -75,19 +75,19 @@ Phase 1 sanitization is **COMPLETE**:
 
 All 200 sanitization FAIL chapters remain in `qa/cycle2-ledger.json` for Phase 4.
 
-Phase 2 completeness has reached **Chapter 313**:
+Phase 2 completeness has reached **Chapter 340**:
 
-- reviewed: **313 / 500**
-- PASS: **156**
-- FAIL: **157**
-- **104** completeness failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307**
-- combined Cycle-2 remediation population: **253 unique chapters**
+- reviewed: **340 / 500**
+- PASS: **166**
+- FAIL: **174**
+- **116** completeness failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**
+- combined Cycle-2 remediation population: **258 unique chapters**
 - manuscript edits during Phase-2 discovery: **0**
 
 Formal corpus boundary/alignment clearance remains Phase 3.
 
-Next is **Surplus Man (314–320)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0313.md`.
+Next is **Private Life (341–342)**. Latest checkpoint: `qa/cycle2-phase2-checkpoint-0340.md`.
 
 ## Release gate
 
