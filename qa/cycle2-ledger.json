@@ -2230,11 +2230,17 @@
         362
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        360,
+        361
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/voluntary-escort-0359-0362.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         360,
         361
       ]
@@ -21723,14 +21729,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
     },
     {
       "chapter": 360,
@@ -21771,14 +21781,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Isolde and Thomas are source-explicitly dismembered until only their heads and torsos remain; the draft generalizes this to ripped-apart bodies with unspecified surviving portions."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Isolde and Thomas are source-explicitly dismembered until only their heads and torsos remain; the draft generalizes this to ripped-apart bodies with unspecified surviving portions."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
     },
     {
       "chapter": 361,
@@ -21819,14 +21833,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit slow repeated cutting of all three demonized captives with a twisted iron shard and repeated screams is compressed to a single nonspecific cut of one captive."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source slowly and repeatedly cuts all three demonized captives with twisted iron and has them scream each time; the draft compresses this to one nonspecific cut and one scream."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
     },
     {
       "chapter": 362,
@@ -21867,14 +21885,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/voluntary-escort-0359-0362.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
     },
     {
       "chapter": 363,
@@ -31407,14 +31429,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 358,
-    "completeness_pass_count": 173,
-    "completeness_fail_count": 185,
+    "completeness_reviewed_count": 362,
+    "completeness_pass_count": 175,
+    "completeness_fail_count": 187,
     "next_family": {
-      "name": "Voluntary Escort",
+      "name": "Ghost Castle of the Ultra-Deep Sea",
       "range": [
-        359,
-        362
+        363,
+        365
       ]
     },
     "confirmed_failures": [
@@ -32712,6 +32734,20 @@
         "family": "Crime and Punishment",
         "finding": "Cycle 2 Phase 2 FAIL: Nouvelle Vague is source-explicitly described as more cruel and more terrifying than the death penalty; the draft reduces this to merely 'more feared than execution.'",
         "evidence": "qa/cycle2/completeness/crime-punishment-0356-0358.md"
+      },
+      {
+        "chapter": 360,
+        "gate": "completeness",
+        "family": "Voluntary Escort",
+        "finding": "Cycle 2 Phase 2 FAIL: Isolde and Thomas are source-explicitly dismembered until only their heads and torsos remain; the draft generalizes this to ripped-apart bodies with unspecified surviving portions.",
+        "evidence": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
+      },
+      {
+        "chapter": 361,
+        "gate": "completeness",
+        "family": "Voluntary Escort",
+        "finding": "Cycle 2 Phase 2 FAIL: the source slowly and repeatedly cuts all three demonized captives with twisted iron and has them scream each time; the draft compresses this to one nonspecific cut and one scream.",
+        "evidence": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
       }
     ],
     "combined_remediation_count": 258,
