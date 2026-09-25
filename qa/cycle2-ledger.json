@@ -2380,11 +2380,16 @@
         376
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/poseidon-0375-0376.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        376
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/poseidon-0375-0376.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         376
       ]
     },
@@ -22587,14 +22592,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/poseidon-0375-0376.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/poseidon-0375-0376.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/poseidon-0375-0376.md"
     },
     {
       "chapter": 376,
@@ -22635,14 +22644,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0374-0389.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit 'garbage prisoners' dehumanization and profane insult toward Souaré are softened to neutral wording."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/poseidon-0375-0376.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/poseidon-0375-0376.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: D'Ordume's source-explicit 'garbage prisoners' dehumanization and profane insult toward Souaré are softened to neutral wording."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/poseidon-0375-0376.md"
     },
     {
       "chapter": 377,
@@ -31503,14 +31516,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 374,
-    "completeness_pass_count": 181,
-    "completeness_fail_count": 193,
+    "completeness_reviewed_count": 376,
+    "completeness_pass_count": 182,
+    "completeness_fail_count": 194,
     "next_family": {
-      "name": "Poseidon",
+      "name": "The Hounds of Nouvelle Vague",
       "range": [
-        375,
-        376
+        377,
+        381
       ]
     },
     "confirmed_failures": [
@@ -32864,6 +32877,13 @@
         "family": "Sucker Shark",
         "finding": "Cycle 2 Phase 2 FAIL: Sakkuth's source-explicit threat that Kirko will suffer urinary incontinence and shrivel like jerky is generalized to losing control of her body, drying up, and rotting away.",
         "evidence": "qa/cycle2/completeness/sucker-shark-0373-0374.md"
+      },
+      {
+        "chapter": 376,
+        "gate": "completeness",
+        "family": "Poseidon",
+        "finding": "Cycle 2 Phase 2 FAIL: D'Ordume's source-explicit 'garbage prisoners' dehumanization and profane insult toward Souaré are softened to neutral wording.",
+        "evidence": "qa/cycle2/completeness/poseidon-0375-0376.md"
       }
     ],
     "combined_remediation_count": 258,
