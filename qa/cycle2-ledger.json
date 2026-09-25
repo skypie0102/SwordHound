@@ -1767,11 +1767,16 @@
         292
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        291
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         291
       ]
     },
@@ -18062,14 +18067,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md"
     },
     {
       "chapter": 292,
@@ -18110,14 +18119,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content; the retrospective mercenary-guild-mergers item correctly belongs here and confirms Chapter 283's earlier duplication."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md"
     },
     {
       "chapter": 293,
@@ -31030,14 +31043,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 290,
-    "completeness_pass_count": 146,
-    "completeness_fail_count": 144,
+    "completeness_reviewed_count": 292,
+    "completeness_pass_count": 147,
+    "completeness_fail_count": 145,
     "next_family": {
-      "name": "The Successors",
+      "name": "Confessions",
       "range": [
-        291,
-        292
+        293,
+        295
       ]
     },
     "confirmed_failures": [
@@ -32048,6 +32061,13 @@
         "family": "Power Inflation",
         "finding": "Cycle 2 Phase 2 FAIL: Vikir's thorn-like muscle fibers straining toward torn skin and Belial's fountain-like black-blood gush are softened.",
         "evidence": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      },
+      {
+        "chapter": 291,
+        "gate": "completeness",
+        "family": "The Successors",
+        "finding": "Cycle 2 Phase 2 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body.",
+        "evidence": "qa/cycle2/completeness/successors-0291-0292.md"
       }
     ],
     "combined_remediation_count": 251,
