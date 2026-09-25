@@ -2257,11 +2257,16 @@
         365
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        364
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         364
       ]
     },
@@ -21937,14 +21942,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
     },
     {
       "chapter": 364,
@@ -21985,14 +21994,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly says the axe-blade bridge cuts progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the axe-blade bridge is source-explicitly said to cut progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
     },
     {
       "chapter": 365,
@@ -22033,14 +22046,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
     },
     {
       "chapter": 366,
@@ -31429,14 +31446,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 362,
-    "completeness_pass_count": 175,
-    "completeness_fail_count": 187,
+    "completeness_reviewed_count": 365,
+    "completeness_pass_count": 177,
+    "completeness_fail_count": 188,
     "next_family": {
-      "name": "Ghost Castle of the Ultra-Deep Sea",
+      "name": "The Underground Extension Construction",
       "range": [
-        363,
-        365
+        366,
+        368
       ]
     },
     "confirmed_failures": [
@@ -32748,6 +32765,13 @@
         "family": "Voluntary Escort",
         "finding": "Cycle 2 Phase 2 FAIL: the source slowly and repeatedly cuts all three demonized captives with twisted iron and has them scream each time; the draft compresses this to one nonspecific cut and one scream.",
         "evidence": "qa/cycle2/completeness/voluntary-escort-0359-0362.md"
+      },
+      {
+        "chapter": 364,
+        "gate": "completeness",
+        "family": "Ghost Castle of the Ultra-Deep Sea",
+        "finding": "Cycle 2 Phase 2 FAIL: the axe-blade bridge is source-explicitly said to cut progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result.",
+        "evidence": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
       }
     ],
     "combined_remediation_count": 258,
