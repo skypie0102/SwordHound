@@ -2088,11 +2088,17 @@
         342
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        341,
+        342
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/private-life-0341-0342.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         341,
         342
       ]
@@ -20736,14 +20742,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Dolores tightly hugging Choco into the bath and the weaker students being sacrificed to the Daylily explicitly as food are softened/generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Dolores's tight embrace of Choco while entering the bath and the weak students' explicit sacrifice to the Daylily as food are softened/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/private-life-0341-0342.md"
     },
     {
       "chapter": 342,
@@ -20784,14 +20794,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Dolores's source-explicit 'soulmate' conception of the Night Hound/Vikir and the narrator's peeping-tom/voyeur framing during the bath punch are softened/omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/private-life-0341-0342.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Vikir's clear human-like 'Mm' is changed to 'Woof,' while the narrator's soulmate force and peeping-tom/voyeur framing are weakened/omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/private-life-0341-0342.md"
     },
     {
       "chapter": 343,
@@ -31304,14 +31318,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 340,
+    "completeness_reviewed_count": 342,
     "completeness_pass_count": 166,
-    "completeness_fail_count": 174,
+    "completeness_fail_count": 176,
     "next_family": {
-      "name": "Private Life",
+      "name": "Ballak",
       "range": [
-        341,
-        342
+        343,
+        347
       ]
     },
     "confirmed_failures": [
@@ -32532,6 +32546,20 @@
         "family": "Trap",
         "finding": "Cycle 2 Phase 2 FAIL: Dolores's explicitly affectionate/loving gaze is softened; the one-reply letter limit and Hugo's high-cholesterol bait detail are also omitted/generalized.",
         "evidence": "qa/cycle2/completeness/trap-0339-0340.md"
+      },
+      {
+        "chapter": 341,
+        "gate": "completeness",
+        "family": "Private Life",
+        "finding": "Cycle 2 Phase 2 FAIL: Dolores's tight embrace of Choco while entering the bath and the weak students' explicit sacrifice to the Daylily as food are softened/generalized.",
+        "evidence": "qa/cycle2/completeness/private-life-0341-0342.md"
+      },
+      {
+        "chapter": 342,
+        "gate": "completeness",
+        "family": "Private Life",
+        "finding": "Cycle 2 Phase 2 FAIL: Vikir's clear human-like 'Mm' is changed to 'Woof,' while the narrator's soulmate force and peeping-tom/voyeur framing are weakened/omitted.",
+        "evidence": "qa/cycle2/completeness/private-life-0341-0342.md"
       }
     ],
     "combined_remediation_count": 258,
