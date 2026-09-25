@@ -2746,11 +2746,17 @@
         433
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        432,
+        433
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
         432,
         433
       ]
@@ -25543,14 +25549,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
     },
     {
       "chapter": 431,
@@ -25591,14 +25601,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
     },
     {
       "chapter": 432,
@@ -25639,14 +25653,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Chimeries's source-explicit appraisal of Tudor's fresh internal organs and his mind being suitable to swallow/devour in one gulp is softened to healthy organs and a softer mind."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Chimeries's source-explicit appraisal of Tudor's fresh internal organs and his mind being ideal to swallow/devour in one gulp is softened to healthy organs and a far softer mind."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
     },
     {
       "chapter": 433,
@@ -25687,14 +25705,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source-explicit swamp made of blood and flesh in Vikir's copied inner landscape is omitted despite surrounding corpse/blood imagery being retained."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's blood-and-flesh swamp is omitted from Vikir's copied inner landscape, and the explicit compassionate reaction that Vikir is pitiable/heartbreaking is reduced to merely his name."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
     },
     {
       "chapter": 434,
@@ -31809,14 +31831,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 429,
-    "completeness_pass_count": 198,
-    "completeness_fail_count": 231,
+    "completeness_reviewed_count": 433,
+    "completeness_pass_count": 200,
+    "completeness_fail_count": 233,
     "next_family": {
-      "name": "The Lion King",
+      "name": "The Returned Hound",
       "range": [
-        430,
-        433
+        434,
+        436
       ]
     },
     "confirmed_failures": [
@@ -33436,6 +33458,20 @@
         "family": "The Night Walkers",
         "finding": "Cycle 2 Phase 2 FAIL: Pedro's eyeballs actually popping out and the explicit severing of his hands/feet/limbs are generalized to bulging eyes and destroyed mobility.",
         "evidence": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      },
+      {
+        "chapter": 432,
+        "gate": "completeness",
+        "family": "The Lion King",
+        "finding": "Cycle 2 Phase 2 FAIL: Chimeries's source-explicit appraisal of Tudor's fresh internal organs and his mind being ideal to swallow/devour in one gulp is softened to healthy organs and a far softer mind.",
+        "evidence": "qa/cycle2/completeness/lion-king-0430-0433.md"
+      },
+      {
+        "chapter": 433,
+        "gate": "completeness",
+        "family": "The Lion King",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's blood-and-flesh swamp is omitted from Vikir's copied inner landscape, and the explicit compassionate reaction that Vikir is pitiable/heartbreaking is reduced to merely his name.",
+        "evidence": "qa/cycle2/completeness/lion-king-0430-0433.md"
       }
     ],
     "combined_remediation_count": 265,
