@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-24 — Cycle 2 Phase 2 reached Chapter 252
+
+Direct full-source completeness revalidation has reached **Chapter 252**.
+
+- completeness reviewed: **252 / 500**;
+- PASS: **137**;
+- FAIL: **115**;
+- **73** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**;
+- combined Cycle-2 remediation population: **242 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-224 checkpoint, Chapters **225–252** added **16 PASS / 12 FAIL** across **Tuition**, **Suspicion**, **National University League**, **Survival Contest**, and **Recap / Celebration Banquet**. The only new completeness-only addition in this span is **Chapter 236**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0252.md`.
+
+Next Phase-2 family: **Five Stars (253–254)**.
+
 ## 2026-09-25 — Cycle 2 Phase 2 advanced through Chapter 368
 
 Direct full-source completeness revalidation has reached **Chapter 368**.
