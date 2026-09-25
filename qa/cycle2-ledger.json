@@ -2683,11 +2683,18 @@
         424
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        423,
+        424
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
+        422,
         423,
         424
       ]
@@ -25111,14 +25118,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: distinct tavern political exchanges, collateral-family context, the concrete neighboring-city Night Walkers anecdote, and separate public-reaction/why-not-us dialogue are summary-condensed or omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
     },
     {
       "chapter": 423,
@@ -25159,14 +25170,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: a source-explicit gnoll head bursting like a watermelon is softened to the creature simply losing its head."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the father's source iron rod is substituted with a pitchfork, the gnoll head bursting like a watermelon is softened to merely losing its head, and Shammua's post-rescue admiration/curiosity reaction is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
     },
     {
       "chapter": 424,
@@ -25207,14 +25222,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit burst internal organs in the escalating battlefield aftermath are generalized to nonspecific shattered bodies."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: burst internal organs are generalized to shattered bodies, the source survival aphorism is omitted, and Tudor's throat-tightening reaction to Shammua's gift is dropped."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
     },
     {
       "chapter": 425,
@@ -31761,14 +31780,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 421,
+    "completeness_reviewed_count": 424,
     "completeness_pass_count": 198,
-    "completeness_fail_count": 223,
+    "completeness_fail_count": 226,
     "next_family": {
-      "name": "How to Become a Wandering Knight",
+      "name": "The Night Walkers",
       "range": [
-        422,
-        424
+        425,
+        429
       ]
     },
     "confirmed_failures": [
@@ -33332,9 +33351,30 @@
         "family": "Goodbye, Nouvelle Vague",
         "finding": "Cycle 2 Phase 2 FAIL: the source's ascent-pressure image of the body being turned alive into meat paste is omitted despite surrounding compression/injury mechanics being retained.",
         "evidence": "qa/cycle2/completeness/goodbye-nouvelle-vague-0419-0421.md"
+      },
+      {
+        "chapter": 422,
+        "gate": "completeness",
+        "family": "How to Become a Wandering Knight",
+        "finding": "Cycle 2 Phase 2 FAIL: distinct tavern political exchanges, collateral-family context, the concrete neighboring-city Night Walkers anecdote, and separate public-reaction/why-not-us dialogue are summary-condensed or omitted.",
+        "evidence": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
+      },
+      {
+        "chapter": 423,
+        "gate": "completeness",
+        "family": "How to Become a Wandering Knight",
+        "finding": "Cycle 2 Phase 2 FAIL: the father's source iron rod is substituted with a pitchfork, the gnoll head bursting like a watermelon is softened to merely losing its head, and Shammua's post-rescue admiration/curiosity reaction is omitted.",
+        "evidence": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
+      },
+      {
+        "chapter": 424,
+        "gate": "completeness",
+        "family": "How to Become a Wandering Knight",
+        "finding": "Cycle 2 Phase 2 FAIL: burst internal organs are generalized to shattered bodies, the source survival aphorism is omitted, and Tudor's throat-tightening reaction to Shammua's gift is dropped.",
+        "evidence": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
       }
     ],
-    "combined_remediation_count": 263,
+    "combined_remediation_count": 264,
     "completeness_only_failures": [
       42,
       48,
@@ -33398,7 +33438,8 @@
       400,
       403,
       406,
-      412
+      412,
+      422
     ]
   }
 }
