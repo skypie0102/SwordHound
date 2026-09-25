@@ -2773,11 +2773,16 @@
         436
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        434
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
         434
       ]
     },
@@ -25757,14 +25762,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the empathy resonance's whole-body meat-grinder / being-torn-apart pain image is reduced to generic bodily pain, and Sinclaire's remembered exchange omits Vikir's statement that his goal is very distant and will take a long time plus her response to that scale."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md"
     },
     {
       "chapter": 435,
@@ -25805,14 +25814,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md"
     },
     {
       "chapter": 436,
@@ -25853,14 +25866,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0422-0437.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md"
     },
     {
       "chapter": 437,
@@ -31831,14 +31848,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 433,
-    "completeness_pass_count": 200,
-    "completeness_fail_count": 233,
+    "completeness_reviewed_count": 436,
+    "completeness_pass_count": 202,
+    "completeness_fail_count": 234,
     "next_family": {
-      "name": "The Returned Hound",
+      "name": "Dreaming the Impossible Dream",
       "range": [
-        434,
-        436
+        437,
+        440
       ]
     },
     "confirmed_failures": [
@@ -33472,6 +33489,13 @@
         "family": "The Lion King",
         "finding": "Cycle 2 Phase 2 FAIL: the source's blood-and-flesh swamp is omitted from Vikir's copied inner landscape, and the explicit compassionate reaction that Vikir is pitiable/heartbreaking is reduced to merely his name.",
         "evidence": "qa/cycle2/completeness/lion-king-0430-0433.md"
+      },
+      {
+        "chapter": 434,
+        "gate": "completeness",
+        "family": "The Returned Hound",
+        "finding": "Cycle 2 Phase 2 FAIL: the empathy resonance's whole-body meat-grinder / being-torn-apart pain image is reduced to generic bodily pain, and Sinclaire's remembered exchange omits Vikir's statement that his goal is very distant and will take a long time plus her response to that scale.",
+        "evidence": "qa/cycle2/completeness/returned-hound-0434-0436.md"
       }
     ],
     "combined_remediation_count": 265,
