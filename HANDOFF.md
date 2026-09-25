@@ -126,9 +126,6 @@ Evidence:
 - **42** are completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**;
 - combined Cycle-2 remediation population so far: **242 unique chapters**;
 - manuscript edits during Phase-2 discovery: **0**;
-- Wave A (Chapters 1–100): **COMPLETE — 68 PASS / 32 FAIL**;
-- Wave B (Chapters 101–202): **COMPLETE — 47 PASS / 55 FAIL**;
-- post-Wave-B segment (Chapters 203–252): **22 PASS / 28 FAIL**;
 - next family: **Five Stars (253–254)**.
 
 Latest checkpoint: `qa/cycle2-phase2-checkpoint-0252.md`.
