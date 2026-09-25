@@ -2901,11 +2901,21 @@
         464
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        455,
+        456,
+        459,
+        461,
+        463,
+        464
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
         455,
         456,
         459,
@@ -26824,14 +26834,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 455,
@@ -26872,14 +26886,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source says no intact limb remains among the explosion shrapnel/debris; the draft stops at metal fragments tearing through Poison Humans."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source-explicit post-explosion shrapnel aftermath in which no intact limb remains is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 456,
@@ -26920,14 +26938,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sade's source-explicit shredding of surrounding Poison Humans into hundreds of meat pieces is generalized to chunks of meat."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sade's source-explicit pulverizing of Poison Humans into hundreds of meat pieces is generalized to chunks of meat."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 457,
@@ -26968,14 +26990,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 458,
@@ -27016,14 +27042,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 459,
@@ -27064,14 +27094,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the first doppelganger's source-explicit upper half rolling on the ground like garbage is omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the first copy's source-explicit upper half rolling along the ground like garbage is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 460,
@@ -27112,14 +27146,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 461,
@@ -27160,14 +27198,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Camus's source-explicit near-half-naked and physically collapsing state is softened to exposed shoulders and weakened knees."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Camus's source-explicit near-half-naked and physically collapsing state is softened to exposed shoulders and weakened knees."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 462,
@@ -27208,14 +27250,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 463,
@@ -27256,14 +27302,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: two mutants becoming flying meat pieces and the resulting flesh-and-blood rain are generalized to shredded/impaled bodies with falling blood only."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: two mutants becoming flying meat pieces and the resulting flesh-and-blood rain are generalized to shredded/impaled bodies with falling blood only."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 464,
@@ -27304,14 +27354,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0454-0469.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: D'Ordume's source-explicit shredding of Poison Humans into meat slices/pieces is generalized to carving through them."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/infiltration-water-source-0454-0464.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: D'Ordume's meat-slice/piece gore image is generalized, and Lieutenant Bastney's named command/interpreter role is reduced to an unnamed familiar officer."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
     },
     {
       "chapter": 465,
@@ -31938,14 +31992,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 453,
-    "completeness_pass_count": 209,
-    "completeness_fail_count": 244,
+    "completeness_reviewed_count": 464,
+    "completeness_pass_count": 214,
+    "completeness_fail_count": 250,
     "next_family": {
-      "name": "Infiltration of the Water Source",
+      "name": "The Prelude to a Counterattack",
       "range": [
-        454,
-        464
+        465,
+        470
       ]
     },
     "confirmed_failures": [
@@ -33656,6 +33710,48 @@
         "family": "Declaration of War",
         "finding": "Cycle 2 Phase 2 FAIL: the source-explicit burnt/foul corpse odor spreading after Vikir ignites the Poison Human bodies is omitted.",
         "evidence": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      },
+      {
+        "chapter": 455,
+        "gate": "completeness",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-explicit post-explosion shrapnel aftermath in which no intact limb remains is omitted.",
+        "evidence": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 456,
+        "gate": "completeness",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 2 FAIL: Sade's source-explicit pulverizing of Poison Humans into hundreds of meat pieces is generalized to chunks of meat.",
+        "evidence": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 459,
+        "gate": "completeness",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 2 FAIL: the first copy's source-explicit upper half rolling along the ground like garbage is omitted.",
+        "evidence": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 461,
+        "gate": "completeness",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 2 FAIL: Camus's source-explicit near-half-naked and physically collapsing state is softened to exposed shoulders and weakened knees.",
+        "evidence": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 463,
+        "gate": "completeness",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 2 FAIL: two mutants becoming flying meat pieces and the resulting flesh-and-blood rain are generalized to shredded/impaled bodies with falling blood only.",
+        "evidence": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
+      },
+      {
+        "chapter": 464,
+        "gate": "completeness",
+        "family": "Infiltration of the Water Source",
+        "finding": "Cycle 2 Phase 2 FAIL: D'Ordume's meat-slice/piece gore image is generalized, and Lieutenant Bastney's named command/interpreter role is reduced to an unnamed familiar officer.",
+        "evidence": "qa/cycle2/completeness/infiltration-water-source-0454-0464.md"
       }
     ],
     "combined_remediation_count": 267,
