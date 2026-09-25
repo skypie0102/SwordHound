@@ -3078,11 +3078,19 @@
         489
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        484,
+        485,
+        488
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
+        483,
         484,
         485,
         488
@@ -28373,14 +28381,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's explicit schizophrenia-symptom comparison for the Crown Prince's illogical, reality-disconnected speech is replaced by a different stage metaphor."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 484,
@@ -28421,14 +28433,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit Imperial infant mortality above 80% and average lifespan only in the thirties are generalized to vague child-death language."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: >80% infant mortality, average lifespan only in the thirties, noble-school required orphanage volunteering, and the No. 7 / No. 8 chicken slaughter-category example are omitted/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 485,
@@ -28469,14 +28485,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: pungent smoke source-explicitly erupts from Andras's burned eyelids; the draft softens this to generic rising smoke."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: pungent smoke erupting from Andras's eyelids, the dead comrades' bloody tears, and the intestine-rupture specificity of Vikir's broken voice are softened/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 486,
@@ -28517,14 +28537,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 487,
@@ -28565,14 +28589,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 488,
@@ -28613,14 +28641,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's suffocating foul stench emanating from Baal's distant presence is omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the suffocating foul stench from Baal's shadow and the later foul stench emitted with darkness from Andras's eyes are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 489,
@@ -28661,14 +28693,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/marquis-discord-0483-0489.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
     },
     {
       "chapter": 490,
@@ -32095,14 +32131,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 482,
-    "completeness_pass_count": 220,
-    "completeness_fail_count": 262,
+    "completeness_reviewed_count": 489,
+    "completeness_pass_count": 223,
+    "completeness_fail_count": 266,
     "next_family": {
-      "name": "The Marquis of Discord",
+      "name": "Running Hound",
       "range": [
-        483,
-        489
+        490,
+        493
       ]
     },
     "confirmed_failures": [
@@ -33939,9 +33975,37 @@
         "family": "Downtown Naval Warfare",
         "finding": "Cycle 2 Phase 2 FAIL: D'Ordume's stripping attack omits living-organism bodily-fluid splatter, and source-explicit shell/sea-urchin surface details are replaced with oysters/barnacles.",
         "evidence": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
+      },
+      {
+        "chapter": 483,
+        "gate": "completeness",
+        "family": "The Marquis of Discord",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's explicit schizophrenia-symptom comparison for the Crown Prince's illogical, reality-disconnected speech is replaced by a different stage metaphor.",
+        "evidence": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
+      },
+      {
+        "chapter": 484,
+        "gate": "completeness",
+        "family": "The Marquis of Discord",
+        "finding": "Cycle 2 Phase 2 FAIL: >80% infant mortality, average lifespan only in the thirties, noble-school required orphanage volunteering, and the No. 7 / No. 8 chicken slaughter-category example are omitted/generalized.",
+        "evidence": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
+      },
+      {
+        "chapter": 485,
+        "gate": "completeness",
+        "family": "The Marquis of Discord",
+        "finding": "Cycle 2 Phase 2 FAIL: pungent smoke erupting from Andras's eyelids, the dead comrades' bloody tears, and the intestine-rupture specificity of Vikir's broken voice are softened/generalized.",
+        "evidence": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
+      },
+      {
+        "chapter": 488,
+        "gate": "completeness",
+        "family": "The Marquis of Discord",
+        "finding": "Cycle 2 Phase 2 FAIL: the suffocating foul stench from Baal's shadow and the later foul stench emitted with darkness from Andras's eyes are omitted.",
+        "evidence": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
       }
     ],
-    "combined_remediation_count": 268,
+    "combined_remediation_count": 269,
     "completeness_only_failures": [
       42,
       48,
@@ -34010,7 +34074,8 @@
       425,
       446,
       451,
-      471
+      471,
+      483
     ]
   }
 }
