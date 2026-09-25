@@ -2175,11 +2175,17 @@
         355
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        353,
+        355
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/outside-tower-0351-0355.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         353,
         355
       ]
@@ -21280,14 +21286,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/outside-tower-0351-0355.md"
     },
     {
       "chapter": 352,
@@ -21333,14 +21343,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/outside-tower-0351-0355.md"
     },
     {
       "chapter": 353,
@@ -21386,14 +21400,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Winston's host body is source-explicitly described as bursting apart and disappearing; the draft reduces this to the body simply being gone."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Winston's host body is source-explicitly described as bursting apart and disappearing; the draft reduces this to the body simply being gone/abandoned."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/outside-tower-0351-0355.md"
     },
     {
       "chapter": 354,
@@ -21439,14 +21457,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/outside-tower-0351-0355.md"
     },
     {
       "chapter": 355,
@@ -21487,14 +21509,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit crude profanity while forcing through the crowd is sanitized to plain 'Move! I can't see!'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/outside-tower-0351-0355.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit crude profanity while Camus/Dolores force through the press crowd is sanitized to plain 'Move! I can't see!'."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/outside-tower-0351-0355.md"
     },
     {
       "chapter": 356,
@@ -31363,14 +31389,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 350,
-    "completeness_pass_count": 169,
-    "completeness_fail_count": 181,
+    "completeness_reviewed_count": 355,
+    "completeness_pass_count": 172,
+    "completeness_fail_count": 183,
     "next_family": {
-      "name": "Outside the Tower",
+      "name": "Crime and Punishment",
       "range": [
-        351,
-        355
+        356,
+        358
       ]
     },
     "confirmed_failures": [
@@ -32640,6 +32666,20 @@
         "family": "Key man",
         "finding": "Cycle 2 Phase 2 FAIL: the tutorial fairy's dripping flesh/internal-organ detail is generalized, and Vikir's complete Titles list is omitted from the Level-100 status window.",
         "evidence": "qa/cycle2/completeness/key-man-0348-0350.md"
+      },
+      {
+        "chapter": 353,
+        "gate": "completeness",
+        "family": "Outside the Tower",
+        "finding": "Cycle 2 Phase 2 FAIL: Winston's host body is source-explicitly described as bursting apart and disappearing; the draft reduces this to the body simply being gone/abandoned.",
+        "evidence": "qa/cycle2/completeness/outside-tower-0351-0355.md"
+      },
+      {
+        "chapter": 355,
+        "gate": "completeness",
+        "family": "Outside the Tower",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit crude profanity while Camus/Dolores force through the press crowd is sanitized to plain 'Move! I can't see!'.",
+        "evidence": "qa/cycle2/completeness/outside-tower-0351-0355.md"
       }
     ],
     "combined_remediation_count": 258,
