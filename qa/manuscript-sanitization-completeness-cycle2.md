@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 252; next `Five Stars (253–254)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 340; next `Private Life (341–342)`
 
 ## Progress
 
@@ -32,19 +32,16 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **252 / 500**
-- PASS: **137**
-- FAIL: **115**
-- 73 failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**
-- current combined remediation population: **242 unique chapters**
+- completeness reviewed: **340 / 500**
+- PASS: **166**
+- FAIL: **174**
+- 116 failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**
+- current combined remediation population: **258 unique chapters**
 - manuscript edits during discovery: **0**
-- Wave A (Chapters 1–100): **COMPLETE — 68 PASS / 32 FAIL**
-- Wave B (Chapters 101–202): **COMPLETE — 47 PASS / 55 FAIL**
-- post-Wave-B segment (Chapters 203–252): **22 PASS / 28 FAIL**
-- next family: **Five Stars (253–254)**
+- next family: **Private Life (341–342)**
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0252.md`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0340.md`.
 
 ### Phase 0 — COMPLETE
 
