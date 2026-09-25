@@ -2117,11 +2117,18 @@
         347
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        343,
+        344,
+        347
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ballak-0343-0347.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         343,
         344,
         347
@@ -20846,14 +20853,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's 'almost naked' animal-skin/leaf state and explicit broken-wrist result are softened to 'almost no conventional clothing' and a wrist that merely 'gave out.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's 'almost naked' animal-skin/leaf state and explicit broken-wrist result are softened."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ballak-0343-0347.md"
     },
     {
       "chapter": 344,
@@ -20894,14 +20905,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source says Bianca's body changed greatly after seven biological years; the draft generalizes this to merely looking older."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source says Bianca's body changed greatly after seven biological years; the draft generalizes this to merely looking older."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ballak-0343-0347.md"
     },
     {
       "chapter": 345,
@@ -20942,14 +20957,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ballak-0343-0347.md"
     },
     {
       "chapter": 346,
@@ -20990,14 +21009,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ballak-0343-0347.md"
     },
     {
       "chapter": 347,
@@ -21038,14 +21061,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0342-0357.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Akwilla's source-described mortal/potentially fatal wound on Amdusias is softened to a generic severe wound."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/ballak-0343-0347.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Akwilla's mortal/potentially fatal wound on Amdusias is weakened to a severe wound, and the apparent decapitation victims' faces are changed from fear to shock."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/ballak-0343-0347.md"
     },
     {
       "chapter": 348,
@@ -31318,14 +31345,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 342,
-    "completeness_pass_count": 166,
-    "completeness_fail_count": 176,
+    "completeness_reviewed_count": 347,
+    "completeness_pass_count": 168,
+    "completeness_fail_count": 179,
     "next_family": {
-      "name": "Ballak",
+      "name": "Key man",
       "range": [
-        343,
-        347
+        348,
+        350
       ]
     },
     "confirmed_failures": [
@@ -32560,6 +32587,27 @@
         "family": "Private Life",
         "finding": "Cycle 2 Phase 2 FAIL: Vikir's clear human-like 'Mm' is changed to 'Woof,' while the narrator's soulmate force and peeping-tom/voyeur framing are weakened/omitted.",
         "evidence": "qa/cycle2/completeness/private-life-0341-0342.md"
+      },
+      {
+        "chapter": 343,
+        "gate": "completeness",
+        "family": "Ballak",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's 'almost naked' animal-skin/leaf state and explicit broken-wrist result are softened.",
+        "evidence": "qa/cycle2/completeness/ballak-0343-0347.md"
+      },
+      {
+        "chapter": 344,
+        "gate": "completeness",
+        "family": "Ballak",
+        "finding": "Cycle 2 Phase 2 FAIL: the source says Bianca's body changed greatly after seven biological years; the draft generalizes this to merely looking older.",
+        "evidence": "qa/cycle2/completeness/ballak-0343-0347.md"
+      },
+      {
+        "chapter": 347,
+        "gate": "completeness",
+        "family": "Ballak",
+        "finding": "Cycle 2 Phase 2 FAIL: Akwilla's mortal/potentially fatal wound on Amdusias is weakened to a severe wound, and the apparent decapitation victims' faces are changed from fear to shock.",
+        "evidence": "qa/cycle2/completeness/ballak-0343-0347.md"
       }
     ],
     "combined_remediation_count": 258,
