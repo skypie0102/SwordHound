@@ -2007,10 +2007,16 @@
         332
       ],
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/draw-0331-0332.md",
-      "sanitization_reviewed_date": "2026-09-23"
+      "sanitization_reviewed_date": "2026-09-23",
+      "completeness_review_file": "qa/cycle2/completeness/draw-0331-0332.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        331,
+        332
+      ]
     },
     {
       "index": 79,
@@ -20196,14 +20202,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/draw-0331-0332.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/draw-0331-0332.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: after recognizing their apology as self-preservation, the commoner students' source-explicit visible self-reproach/self-loathing is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/draw-0331-0332.md"
     },
     {
       "chapter": 332,
@@ -20244,14 +20254,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/draw-0331-0332.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/draw-0331-0332.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the fairy's source-present twelve-finger visual (two retracted, ten extended for the ten-candy offer) is reduced to merely raising ten fingers."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/draw-0331-0332.md"
     },
     {
       "chapter": 333,
@@ -31244,14 +31258,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 330,
+    "completeness_reviewed_count": 332,
     "completeness_pass_count": 164,
-    "completeness_fail_count": 166,
+    "completeness_fail_count": 168,
     "next_family": {
-      "name": "Draw",
+      "name": "The Mating Room",
       "range": [
-        331,
-        332
+        333,
+        338
       ]
     },
     "confirmed_failures": [
@@ -32416,9 +32430,23 @@
         "family": "The Shadowless King of the Black Sea",
         "finding": "Cycle 2 Phase 2 FAIL: Baby Madam's butt-origin extraction line and the Shadowless King's slowly roasted/cooked fate are softened, and the source's 'no more than ten' Sword-Master count is changed to fewer than a handful.",
         "evidence": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
+      },
+      {
+        "chapter": 331,
+        "gate": "completeness",
+        "family": "Draw",
+        "finding": "Cycle 2 Phase 2 FAIL: after recognizing their apology as self-preservation, the commoner students' source-explicit visible self-reproach/self-loathing is omitted.",
+        "evidence": "qa/cycle2/completeness/draw-0331-0332.md"
+      },
+      {
+        "chapter": 332,
+        "gate": "completeness",
+        "family": "Draw",
+        "finding": "Cycle 2 Phase 2 FAIL: the fairy's source-present twelve-finger visual (two retracted, ten extended for the ten-candy offer) is reduced to merely raising ten fingers.",
+        "evidence": "qa/cycle2/completeness/draw-0331-0332.md"
       }
     ],
-    "combined_remediation_count": 255,
+    "combined_remediation_count": 257,
     "completeness_only_failures": [
       42,
       48,
@@ -32474,7 +32502,9 @@
       300,
       307,
       326,
-      329
+      329,
+      331,
+      332
     ]
   }
 }
