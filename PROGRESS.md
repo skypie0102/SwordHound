@@ -1,5 +1,21 @@
 # Reconstruction Progress
 
+## 2026-09-25 — Cycle 2 Phase 2 reconciled through Chapter 384
+
+The live chapter/family evidence was reconciled against stale aggregate counters. The true contiguous Phase-2 frontier is **Chapter 384**.
+
+- completeness reviewed: **384 / 500**;
+- PASS: **186**;
+- FAIL: **198**;
+- **140** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **58**;
+- combined Cycle-2 remediation population: **258 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0384.md`.
+
+Next Phase-2 family: **The Rotten Dog of Nouvelle Vague (385–389)**.
+
 ## 2026-09-24 — Cycle 2 Phase 2 reached Chapter 252
 
 Direct full-source completeness revalidation has reached **Chapter 252**.
