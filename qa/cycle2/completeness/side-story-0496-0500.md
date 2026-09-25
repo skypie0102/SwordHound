@@ -32,7 +32,7 @@ Because Chapter 497 passed Phase 1, this is a new completeness-only remediation 
 
 The two Camus navigating the Magic Abyss, spatial/temporal mana insight, midpoint paradox, Baal's true-body/milestone encounter, current-world Camus sacrificing her propulsion, cosmic obstacles, Five Fingers of the Creator, Full Revival insight, **666-second** return, Snake's resurrection, and successful emergence into the restored world are retained.
 
-One large quantitative worldbuilding beat is omitted: the source says the Magic Abyss reservoir-cloud contains water equivalent to **1.4 quadrillion / 140 trillion times the total water on Earth** (source wording: `140万亿倍`). The draft generalizes this to “more water than any world should hold,” losing the explicit scale.
+One large quantitative worldbuilding beat is omitted: the source says the Magic Abyss reservoir-cloud contains water equivalent to **140 trillion times the total water on Earth** (source wording: `140万亿倍`). The draft generalizes this to “more water than any world should hold,” losing the explicit scale.
 
 Because Chapter 498 passed Phase 1, this is a new completeness-only remediation chapter.
 
