@@ -2626,12 +2626,21 @@
         418
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         409,
+        413,
+        416,
+        417
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        409,
+        412,
         413,
         416,
         417
@@ -24421,14 +24430,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit prisoners ground into meat paste/red meat sauce and swallowed by boiling magma are compressed to generic slaughter/magma imagery."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit prisoners ground into meat paste/red meat sauce and swallowed by boiling magma are compressed to generic slaughter/magma imagery."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 410,
@@ -24469,14 +24482,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 411,
@@ -24517,14 +24534,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 412,
@@ -24565,14 +24586,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source says Aiyen escaped the prototype Hell Tree after Amdusias was defeated; the draft body incorrectly says Andromalius."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 413,
@@ -24613,14 +24638,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: source-explicit skull fragments, brain matter, and blood droplets scattering from Orca's blows are generalized to 'blood and gore.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: source-explicit skull fragments, brain matter, and blood droplets scattering from Orca's blows are generalized to 'blood and gore.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 414,
@@ -24661,14 +24690,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 415,
@@ -24709,14 +24742,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 416,
@@ -24757,14 +24794,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Orca's direct source statement that he advised stomping the baby to death is euphemized into 'crush the seed.'"
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Orca's direct source statement that he advised stomping the baby to death is euphemized into 'crush the seed.'"
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 417,
@@ -24805,14 +24846,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's old-war death scale of hundreds of thousands dying every day is reduced to tens of thousands dying in a day."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's old-war death scale of hundreds of thousands dying every day is reduced to tens of thousands dying in a day."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 418,
@@ -24853,14 +24898,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0406-0421.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/end-game-0409-0418.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/end-game-0409-0418.md"
     },
     {
       "chapter": 419,
@@ -31695,14 +31744,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 408,
-    "completeness_pass_count": 191,
-    "completeness_fail_count": 217,
+    "completeness_reviewed_count": 418,
+    "completeness_pass_count": 196,
+    "completeness_fail_count": 222,
     "next_family": {
-      "name": "End game",
+      "name": "Goodbye, Nouvelle Vague",
       "range": [
-        409,
-        418
+        419,
+        421
       ]
     },
     "confirmed_failures": [
@@ -33224,9 +33273,44 @@
         "family": "Jailbreaker",
         "finding": "Cycle 2 Phase 2 FAIL: actual Daylily-seed insertion with painful struggle plus explicit fear urination/wet clothing are generalized or omitted.",
         "evidence": "qa/cycle2/completeness/jailbreaker-0403-0408.md"
+      },
+      {
+        "chapter": 409,
+        "gate": "completeness",
+        "family": "End game",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit prisoners ground into meat paste/red meat sauce and swallowed by boiling magma are compressed to generic slaughter/magma imagery.",
+        "evidence": "qa/cycle2/completeness/end-game-0409-0418.md"
+      },
+      {
+        "chapter": 412,
+        "gate": "completeness",
+        "family": "End game",
+        "finding": "Cycle 2 Phase 2 FAIL: the source says Aiyen escaped the prototype Hell Tree after Amdusias was defeated; the draft body incorrectly says Andromalius.",
+        "evidence": "qa/cycle2/completeness/end-game-0409-0418.md"
+      },
+      {
+        "chapter": 413,
+        "gate": "completeness",
+        "family": "End game",
+        "finding": "Cycle 2 Phase 2 FAIL: source-explicit skull fragments, brain matter, and blood droplets scattering from Orca's blows are generalized to 'blood and gore.'",
+        "evidence": "qa/cycle2/completeness/end-game-0409-0418.md"
+      },
+      {
+        "chapter": 416,
+        "gate": "completeness",
+        "family": "End game",
+        "finding": "Cycle 2 Phase 2 FAIL: Orca's direct source statement that he advised stomping the baby to death is euphemized into 'crush the seed.'",
+        "evidence": "qa/cycle2/completeness/end-game-0409-0418.md"
+      },
+      {
+        "chapter": 417,
+        "gate": "completeness",
+        "family": "End game",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's old-war death scale of hundreds of thousands dying every day is reduced to tens of thousands dying in a day.",
+        "evidence": "qa/cycle2/completeness/end-game-0409-0418.md"
       }
     ],
-    "combined_remediation_count": 262,
+    "combined_remediation_count": 263,
     "completeness_only_failures": [
       42,
       48,
@@ -33289,7 +33373,8 @@
       399,
       400,
       403,
-      406
+      406,
+      412
     ]
   }
 }
