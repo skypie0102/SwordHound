@@ -2530,11 +2530,16 @@
         398
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        397
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         397
       ]
     },
@@ -23723,14 +23728,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
     },
     {
       "chapter": 397,
@@ -23771,14 +23780,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sakkuth's source-explicit cavern-filling terror scream and reduction to a fresh, wriggling piece of meat inside Flubber are softened/generalized."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sakkuth's source-explicit cavern-filling terror scream and reduction to a fresh, wriggling piece of meat inside Flubber are softened/generalized."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
     },
     {
       "chapter": 398,
@@ -23819,14 +23832,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0390-0405.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
     },
     {
       "chapter": 399,
@@ -31621,14 +31638,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 395,
-    "completeness_pass_count": 188,
-    "completeness_fail_count": 207,
+    "completeness_reviewed_count": 398,
+    "completeness_pass_count": 190,
+    "completeness_fail_count": 208,
     "next_family": {
-      "name": "Dead Man Walking",
+      "name": "Black Tongue",
       "range": [
-        396,
-        398
+        399,
+        402
       ]
     },
     "confirmed_failures": [
@@ -33080,6 +33097,13 @@
         "family": "The Worst Torture",
         "finding": "Cycle 2 Phase 2 FAIL: Sakkuth's scattered material is source-explicitly poison, but the draft generalizes it to foul-looking substances.",
         "evidence": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      },
+      {
+        "chapter": 397,
+        "gate": "completeness",
+        "family": "Dead Man Walking",
+        "finding": "Cycle 2 Phase 2 FAIL: Sakkuth's source-explicit cavern-filling terror scream and reduction to a fresh, wriggling piece of meat inside Flubber are softened/generalized.",
+        "evidence": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
       }
     ],
     "combined_remediation_count": 258,
