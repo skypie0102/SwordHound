@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 2 live checkpoint restored through Chapter 418
+
+The live ledger is authoritative at **418 / 500** after interruption recovery.
+
+- completeness reviewed: **418 / 500**;
+- PASS: **196**;
+- FAIL: **222**;
+- **159** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412**;
+- combined Cycle-2 remediation population: **263 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+A stale Chapter-252 state sync was detected and corrected immediately. The ledger and family evidence already contained completed Phase-2 work through **End game (409–418)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0418.md`.
+
+Next Phase-2 family: **Goodbye, Nouvelle Vague (419–421)**.
+
 ## 2026-09-25 — Cycle 2 Phase 2 reconciled through Chapter 384
 
 The live chapter/family evidence was reconciled against stale aggregate counters. The true contiguous Phase-2 frontier is **Chapter 384**.
