@@ -1919,11 +1919,18 @@
         320
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        316,
+        318,
+        320
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         316,
         318,
         320
@@ -19291,14 +19298,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 315,
@@ -19339,14 +19350,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 316,
@@ -19387,14 +19402,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's bloodshot-eyes and spittle-flying mob imagery during the sacrifice bargaining is omitted."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the students' source-explicit bloodshot eyes and spittle-flying mob agitation while bargaining over human lives are omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 317,
@@ -19435,14 +19454,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 318,
@@ -19483,14 +19506,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the Daylily's source-explicit licking/contact across Vikir's chest and waist/hip contours is sanitized to neutral 'root explored' wording."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Daylily's source-explicit licking/contact across Vikir's chest and waist/hip contours is neutralized into generic exploration/listing."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 319,
@@ -19531,14 +19558,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 320,
@@ -19579,14 +19610,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0310-0325.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's repeated eat/excrete/excrement framing for the Conversion Bug is abstracted into generic receive/output language."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/surplus-man-0314-0320.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Conversion Bug's source-explicit eat/excrete/excrement mechanics are abstracted into generic feed/receive/output language."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/surplus-man-0314-0320.md"
     },
     {
       "chapter": 321,
@@ -31155,14 +31190,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 313,
-    "completeness_pass_count": 156,
-    "completeness_fail_count": 157,
+    "completeness_reviewed_count": 320,
+    "completeness_pass_count": 160,
+    "completeness_fail_count": 160,
     "next_family": {
-      "name": "Surplus Man",
+      "name": "Underdogma",
       "range": [
-        314,
-        320
+        321,
+        325
       ]
     },
     "confirmed_failures": [
@@ -32264,6 +32299,27 @@
         "family": "Hell Tree",
         "finding": "Cycle 2 Phase 2 FAIL: Cerberus's burst-abdomen sulfur/blood discharge is generalized with unsupported 'viscera,' and the fairy's bloodstained split-mouth detail is omitted.",
         "evidence": "qa/cycle2/completeness/hell-tree-0307-0313.md"
+      },
+      {
+        "chapter": 316,
+        "gate": "completeness",
+        "family": "Surplus Man",
+        "finding": "Cycle 2 Phase 2 FAIL: the students' source-explicit bloodshot eyes and spittle-flying mob agitation while bargaining over human lives are omitted.",
+        "evidence": "qa/cycle2/completeness/surplus-man-0314-0320.md"
+      },
+      {
+        "chapter": 318,
+        "gate": "completeness",
+        "family": "Surplus Man",
+        "finding": "Cycle 2 Phase 2 FAIL: the Daylily's source-explicit licking/contact across Vikir's chest and waist/hip contours is neutralized into generic exploration/listing.",
+        "evidence": "qa/cycle2/completeness/surplus-man-0314-0320.md"
+      },
+      {
+        "chapter": 320,
+        "gate": "completeness",
+        "family": "Surplus Man",
+        "finding": "Cycle 2 Phase 2 FAIL: the Conversion Bug's source-explicit eat/excrete/excrement mechanics are abstracted into generic feed/receive/output language.",
+        "evidence": "qa/cycle2/completeness/surplus-man-0314-0320.md"
       }
     ],
     "combined_remediation_count": 253,
