@@ -31560,14 +31560,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 254,
-    "completeness_pass_count": 138,
-    "completeness_fail_count": 116,
+    "completeness_reviewed_count": 384,
+    "completeness_pass_count": 186,
+    "completeness_fail_count": 198,
     "next_family": {
-      "name": "The Grave of Swords",
+      "name": "The Rotten Dog of Nouvelle Vague",
       "range": [
-        255,
-        260
+        385,
+        389
       ]
     },
     "confirmed_failures": [
@@ -32958,7 +32958,7 @@
         "evidence": "qa/cycle2/completeness/kennel-0382-0384.md"
       }
     ],
-    "combined_remediation_count": 242,
+    "combined_remediation_count": 258,
     "completeness_only_failures": [
       42,
       48,
