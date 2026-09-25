@@ -1792,11 +1792,16 @@
         295
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        295
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/confessions-0293-0295.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         295
       ]
     },
@@ -18171,14 +18176,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0278-0293.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/confessions-0293-0295.md"
     },
     {
       "chapter": 294,
@@ -18219,14 +18228,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/confessions-0293-0295.md"
     },
     {
       "chapter": 295,
@@ -18267,14 +18280,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0294-0309.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Sinclaire's source self-description that she is pretty and has a good figure/body is mistranslated as 'I'm pretty. I'm healthy,' stripping the body-attractiveness meaning."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/confessions-0293-0295.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Sinclaire's source-supported good-figure/body statements are mistranslated/generalized, and Vikir's concrete 931/990 written-score figure is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/confessions-0293-0295.md"
     },
     {
       "chapter": 296,
@@ -31043,14 +31060,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 292,
-    "completeness_pass_count": 147,
-    "completeness_fail_count": 145,
+    "completeness_reviewed_count": 295,
+    "completeness_pass_count": 149,
+    "completeness_fail_count": 146,
     "next_family": {
-      "name": "Confessions",
+      "name": "Last Semester",
       "range": [
-        293,
-        295
+        296,
+        298
       ]
     },
     "confirmed_failures": [
@@ -32068,6 +32085,13 @@
         "family": "The Successors",
         "finding": "Cycle 2 Phase 2 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body.",
         "evidence": "qa/cycle2/completeness/successors-0291-0292.md"
+      },
+      {
+        "chapter": 295,
+        "gate": "completeness",
+        "family": "Confessions",
+        "finding": "Cycle 2 Phase 2 FAIL: Sinclaire's source-supported good-figure/body statements are mistranslated/generalized, and Vikir's concrete 931/990 written-score figure is omitted.",
+        "evidence": "qa/cycle2/completeness/confessions-0293-0295.md"
       }
     ],
     "combined_remediation_count": 251,
