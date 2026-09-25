@@ -1981,11 +1981,18 @@
         330
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        330
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
+        326,
+        329,
         330
       ]
     },
@@ -19929,14 +19936,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source's explicit statement that Magic Resistance halves enemy magical attacks is generalized to merely reducing hostile magical interference."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 327,
@@ -19977,14 +19988,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 328,
@@ -20025,14 +20040,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 329,
@@ -20073,14 +20092,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the oil-paper bag's random-box provenance aside is omitted, and source-explicit Beetlemen fainting under the Shadowless King's killing intent is weakened to nearly stopping flight."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 330,
@@ -20121,14 +20144,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0326-0341.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's Baby-Madam-butt origin for the extraction silk and the Shadowless King being slowly roasted/cooked in poison and fire are sanitized to neutral silk / 'could only burn' wording."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/shadowless-king-black-sea-0326-0330.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Baby Madam's butt-origin extraction line and the Shadowless King's slowly roasted/cooked fate are softened, and the source's 'no more than ten' Sword-Master count is changed to fewer than a handful."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
     },
     {
       "chapter": 331,
@@ -31217,14 +31244,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 325,
-    "completeness_pass_count": 162,
-    "completeness_fail_count": 163,
+    "completeness_reviewed_count": 330,
+    "completeness_pass_count": 164,
+    "completeness_fail_count": 166,
     "next_family": {
-      "name": "The Shadowless King of the Black Sea",
+      "name": "Draw",
       "range": [
-        326,
-        330
+        331,
+        332
       ]
     },
     "confirmed_failures": [
@@ -32368,9 +32395,30 @@
         "family": "Underdogma",
         "finding": "Cycle 2 Phase 2 FAIL: source body-attractiveness wording is weakened, and Baby Madam's explicit candy excretion/butt-trembling gag is abstracted into generic conversion language.",
         "evidence": "qa/cycle2/completeness/underdogma-0321-0325.md"
+      },
+      {
+        "chapter": 326,
+        "gate": "completeness",
+        "family": "The Shadowless King of the Black Sea",
+        "finding": "Cycle 2 Phase 2 FAIL: the source's explicit statement that Magic Resistance halves enemy magical attacks is generalized to merely reducing hostile magical interference.",
+        "evidence": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
+      },
+      {
+        "chapter": 329,
+        "gate": "completeness",
+        "family": "The Shadowless King of the Black Sea",
+        "finding": "Cycle 2 Phase 2 FAIL: the oil-paper bag's random-box provenance aside is omitted, and source-explicit Beetlemen fainting under the Shadowless King's killing intent is weakened to nearly stopping flight.",
+        "evidence": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
+      },
+      {
+        "chapter": 330,
+        "gate": "completeness",
+        "family": "The Shadowless King of the Black Sea",
+        "finding": "Cycle 2 Phase 2 FAIL: Baby Madam's butt-origin extraction line and the Shadowless King's slowly roasted/cooked fate are softened, and the source's 'no more than ten' Sword-Master count is changed to fewer than a handful.",
+        "evidence": "qa/cycle2/completeness/shadowless-king-black-sea-0326-0330.md"
       }
     ],
-    "combined_remediation_count": 253,
+    "combined_remediation_count": 255,
     "completeness_only_failures": [
       42,
       48,
@@ -32424,7 +32472,9 @@
       282,
       283,
       300,
-      307
+      307,
+      326,
+      329
     ]
   }
 }
