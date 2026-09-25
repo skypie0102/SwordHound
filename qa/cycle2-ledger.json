@@ -3150,11 +3150,20 @@
         500
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        500
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/side-story-0496-0500.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
+        496,
+        497,
+        498,
+        499,
         500
       ]
     }
@@ -29073,14 +29082,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the draft omits the post-reveal Camus clash where this-world Camus attacks again, other-world Camus uses miniature Seere as a shield, Seere protests, and the later manicure joke / reciprocal kill threats occur."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/side-story-0496-0500.md"
     },
     {
       "chapter": 497,
@@ -29121,14 +29134,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Full Revival material list retains ingredient names but drops all exact source quantities and the explicit count of fifteen trace elements."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/side-story-0496-0500.md"
     },
     {
       "chapter": 498,
@@ -29169,14 +29186,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the Magic Abyss reservoir's explicit scale of 140 trillion times Earth's total water is generalized to a non-quantitative description."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/side-story-0496-0500.md"
     },
     {
       "chapter": 499,
@@ -29217,14 +29238,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Pomeranian's source age of about seven or eight is changed to six or seven, and an unsupported inter-house triplet sparring sequence is inserted without Chinese-source or documented-exception support."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/side-story-0496-0500.md"
     },
     {
       "chapter": 500,
@@ -29265,14 +29290,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0486-0500.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's whole-body stinging 'as if the flesh were being cut' during the Grave of Swords ascent is generalized to abstract cutting/grinding/polishing language."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/side-story-0496-0500.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Hongmen/Great Door is omitted; the whole-body flesh-cutting pain on the Grave-of-Swords ascent is abstracted; and red, fishy-smelling dripping water is reduced to red droplets."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/side-story-0496-0500.md"
     }
   ],
   "phase0": {
@@ -32160,17 +32189,11 @@
     ]
   },
   "phase2": {
-    "status": "active",
-    "completeness_reviewed_count": 495,
+    "status": "complete",
+    "completeness_reviewed_count": 500,
     "completeness_pass_count": 229,
-    "completeness_fail_count": 266,
-    "next_family": {
-      "name": "Side Story",
-      "range": [
-        496,
-        500
-      ]
-    },
+    "completeness_fail_count": 271,
+    "next_family": null,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -34033,9 +34056,44 @@
         "family": "The Marquis of Discord",
         "finding": "Cycle 2 Phase 2 FAIL: the suffocating foul stench from Baal's shadow and the later foul stench emitted with darkness from Andras's eyes are omitted.",
         "evidence": "qa/cycle2/completeness/marquis-discord-0483-0489.md"
+      },
+      {
+        "chapter": 496,
+        "gate": "completeness",
+        "family": "Side Story",
+        "finding": "Cycle 2 Phase 2 FAIL: the draft omits the post-reveal Camus clash where this-world Camus attacks again, other-world Camus uses miniature Seere as a shield, Seere protests, and the later manicure joke / reciprocal kill threats occur.",
+        "evidence": "qa/cycle2/completeness/side-story-0496-0500.md"
+      },
+      {
+        "chapter": 497,
+        "gate": "completeness",
+        "family": "Side Story",
+        "finding": "Cycle 2 Phase 2 FAIL: the Full Revival material list retains ingredient names but drops all exact source quantities and the explicit count of fifteen trace elements.",
+        "evidence": "qa/cycle2/completeness/side-story-0496-0500.md"
+      },
+      {
+        "chapter": 498,
+        "gate": "completeness",
+        "family": "Side Story",
+        "finding": "Cycle 2 Phase 2 FAIL: the Magic Abyss reservoir's explicit scale of 140 trillion times Earth's total water is generalized to a non-quantitative description.",
+        "evidence": "qa/cycle2/completeness/side-story-0496-0500.md"
+      },
+      {
+        "chapter": 499,
+        "gate": "completeness",
+        "family": "Side Story",
+        "finding": "Cycle 2 Phase 2 FAIL: Pomeranian's source age of about seven or eight is changed to six or seven, and an unsupported inter-house triplet sparring sequence is inserted without Chinese-source or documented-exception support.",
+        "evidence": "qa/cycle2/completeness/side-story-0496-0500.md"
+      },
+      {
+        "chapter": 500,
+        "gate": "completeness",
+        "family": "Side Story",
+        "finding": "Cycle 2 Phase 2 FAIL: Hongmen/Great Door is omitted; the whole-body flesh-cutting pain on the Grave-of-Swords ascent is abstracted; and red, fishy-smelling dripping water is reduced to red droplets.",
+        "evidence": "qa/cycle2/completeness/side-story-0496-0500.md"
       }
     ],
-    "combined_remediation_count": 269,
+    "combined_remediation_count": 273,
     "completeness_only_failures": [
       42,
       48,
@@ -34105,7 +34163,16 @@
       446,
       451,
       471,
-      483
-    ]
+      483,
+      496,
+      497,
+      498,
+      499
+    ],
+    "completed_date": "2026-09-26",
+    "next_phase": {
+      "phase": 3,
+      "name": "Full-corpus boundary/alignment verification"
+    }
   }
 }
