@@ -3047,11 +3047,17 @@
         482
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        480,
+        482
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
         480,
         482
       ]
@@ -28159,14 +28165,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
     },
     {
       "chapter": 480,
@@ -28207,14 +28217,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's violent metaphor of the sea surface being peeled away like a whole sheet of skin is omitted from the tsunami description."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the sea-surface-as-peeled-skin tsunami metaphor is omitted, and an unsupported Dolores interpretation is inserted into Decarabia's self/not-self explanation."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
     },
     {
       "chapter": 481,
@@ -28255,14 +28269,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
     },
     {
       "chapter": 482,
@@ -28303,14 +28321,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0470-0485.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: D'Ordume's stripping attack source-explicitly sends living-organism bodily fluid splashing while dead coral shatters; the draft omits the bodily-fluid detail."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/downtown-naval-warfare-0479-0482.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: D'Ordume's stripping attack omits living-organism bodily-fluid splatter, and source-explicit shell/sea-urchin surface details are replaced with oysters/barnacles."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
     },
     {
       "chapter": 483,
@@ -32073,14 +32095,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 478,
-    "completeness_pass_count": 218,
-    "completeness_fail_count": 260,
+    "completeness_reviewed_count": 482,
+    "completeness_pass_count": 220,
+    "completeness_fail_count": 262,
     "next_family": {
-      "name": "Downtown Naval Warfare",
+      "name": "The Marquis of Discord",
       "range": [
-        479,
-        482
+        483,
+        489
       ]
     },
     "confirmed_failures": [
@@ -33903,6 +33925,20 @@
         "family": "Tochka Annihilation Battle",
         "finding": "Cycle 2 Phase 2 FAIL: the source says the blind Oxbear's tens-of-tons forepaw strike completely shatters Flauros's skull; the draft softens this to 'skull collapsed.'",
         "evidence": "qa/cycle2/completeness/tochka-annihilation-0478.md"
+      },
+      {
+        "chapter": 480,
+        "gate": "completeness",
+        "family": "Downtown Naval Warfare",
+        "finding": "Cycle 2 Phase 2 FAIL: the sea-surface-as-peeled-skin tsunami metaphor is omitted, and an unsupported Dolores interpretation is inserted into Decarabia's self/not-self explanation.",
+        "evidence": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
+      },
+      {
+        "chapter": 482,
+        "gate": "completeness",
+        "family": "Downtown Naval Warfare",
+        "finding": "Cycle 2 Phase 2 FAIL: D'Ordume's stripping attack omits living-organism bodily-fluid splatter, and source-explicit shell/sea-urchin surface details are replaced with oysters/barnacles.",
+        "evidence": "qa/cycle2/completeness/downtown-naval-warfare-0479-0482.md"
       }
     ],
     "combined_remediation_count": 268,
