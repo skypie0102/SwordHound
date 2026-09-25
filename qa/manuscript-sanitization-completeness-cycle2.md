@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 384; next `The Rotten Dog of Nouvelle Vague (385–389)`
+**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 252; next `Five Stars (253–254)`
 
 ## Progress
 
@@ -32,16 +32,16 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 ### Phase 2 — ACTIVE
 
-- completeness reviewed: **384 / 500**
-- PASS: **186**
-- FAIL: **198**
-- 140 failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **58**
-- current combined remediation population: **258 unique chapters**
+- completeness reviewed: **252 / 500**
+- PASS: **137**
+- FAIL: **115**
+- 73 failures overlap Phase-1 FAIL chapters
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**
+- current combined remediation population: **242 unique chapters**
 - manuscript edits during discovery: **0**
-- next family: **The Rotten Dog of Nouvelle Vague (385–389)**
+- next family: **Five Stars (253–254)**
 
-Latest reconciled checkpoint: `qa/cycle2-phase2-checkpoint-0384.md`.
+Latest checkpoint: `qa/cycle2-phase2-checkpoint-0252.md`.
 
 ### Phase 0 — COMPLETE
 
@@ -298,9 +298,9 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 2 at **The Rotten Dog of Nouvelle Vague (385–389)** on `audit/cycle2-phase2-wave-b`.
-2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–384.
+1. Continue Phase 2 at **Five Stars (253–254)** on `audit/cycle2-phase2-wave-b`.
+2. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–252.
 3. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
 4. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
-5. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
+5. Continue honoring documented source-container, source-gap, shifted-witness, canonical terminology, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
 6. Keep EPUB assembly blocked.
