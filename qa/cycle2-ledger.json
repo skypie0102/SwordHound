@@ -2282,11 +2282,17 @@
         368
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
+        367,
+        368
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md",
+      "completeness_reviewed_date": "2026-09-25",
+      "completeness_failures": [
         367,
         368
       ]
@@ -22098,14 +22104,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md"
     },
     {
       "chapter": 367,
@@ -22146,14 +22156,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source's explicit image of corpses reduced to meat chunks swallowed in a few bites is generalized to vague hunger after corpse-eating dialogue."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source explicitly reduces dead inmates to meat chunks swallowed in a few bites; the draft generalizes this to vague hunger."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md"
     },
     {
       "chapter": 368,
@@ -22194,14 +22208,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0358-0373.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: Vikir source-explicitly crushes a pursuing major's face underfoot and Kirko vomits/rolls after the throat-slam; the draft softens these to the face hitting the ground and Kirko coughing/rolling."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Vikir source-explicitly crushes a pursuing major's face underfoot and Kirko vomits/rolls after the throat-slam; the draft softens these to the face hitting the ground and Kirko coughing/rolling."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md"
     },
     {
       "chapter": 369,
@@ -31446,14 +31464,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 365,
-    "completeness_pass_count": 177,
-    "completeness_fail_count": 188,
+    "completeness_reviewed_count": 368,
+    "completeness_pass_count": 178,
+    "completeness_fail_count": 190,
     "next_family": {
-      "name": "The Underground Extension Construction",
+      "name": "The Servant",
       "range": [
-        366,
-        368
+        369,
+        370
       ]
     },
     "confirmed_failures": [
@@ -32772,6 +32790,20 @@
         "family": "Ghost Castle of the Ultra-Deep Sea",
         "finding": "Cycle 2 Phase 2 FAIL: the axe-blade bridge is source-explicitly said to cut progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result.",
         "evidence": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
+      },
+      {
+        "chapter": 367,
+        "gate": "completeness",
+        "family": "The Underground Extension Construction",
+        "finding": "Cycle 2 Phase 2 FAIL: the source explicitly reduces dead inmates to meat chunks swallowed in a few bites; the draft generalizes this to vague hunger.",
+        "evidence": "qa/cycle2/completeness/underground-extension-0366-0368.md"
+      },
+      {
+        "chapter": 368,
+        "gate": "completeness",
+        "family": "The Underground Extension Construction",
+        "finding": "Cycle 2 Phase 2 FAIL: Vikir source-explicitly crushes a pursuing major's face underfoot and Kirko vomits/rolls after the throat-slam; the draft softens these to the face hitting the ground and Kirko coughing/rolling.",
+        "evidence": "qa/cycle2/completeness/underground-extension-0366-0368.md"
       }
     ],
     "combined_remediation_count": 258,
