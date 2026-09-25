@@ -2865,12 +2865,19 @@
         453
       ],
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
         450,
+        453
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md",
+      "completeness_reviewed_date": "2026-09-26",
+      "completeness_failures": [
+        450,
+        451,
         453
       ]
     },
@@ -26609,14 +26616,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: after Juskin is dragged into the Red Death jar, the source explicitly shows his body twisting into a strange/grotesque shape; the draft omits that transformation beat."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: Juskin's grotesque body twisting during conversion is omitted, his sibling-specific second-son question is generalized to 'the others,' and the source's prior count of more than ten demon companions is dropped."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
     },
     {
       "chapter": 451,
@@ -26657,14 +26668,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
-      "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md"
+      "remediation_required": true,
+      "rebind_status": "pending_phase4_remediation",
+      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source states that Varangian Director Dirakium ultimately died from Sadi-inflicted injuries and Basilios succeeded him; the draft omits that death/succession beat."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
     },
     {
       "chapter": 452,
@@ -26705,14 +26720,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "pass",
-      "completeness_status": "pending",
+      "completeness_status": "pass",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
-      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 PASS: direct source revalidation plus the documented recovered-witness exception found no material completeness defect."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
     },
     {
       "chapter": 453,
@@ -26753,14 +26772,18 @@
         "content_metrics_file": "qa/cycle2-baseline/diagnostics-0438-0453.json"
       },
       "sanitization_status": "fail",
-      "completeness_status": "pending",
+      "completeness_status": "fail",
       "boundary_alignment_status": "pending",
       "findings": [
         "Cycle 2 Phase 1 FAIL: the source explicitly describes a burnt-corpse stench spreading after Vikir ignites the Poison Human bodies; the draft omits the smell."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
-      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md"
+      "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md",
+      "completeness_findings": [
+        "Cycle 2 Phase 2 FAIL: the source-explicit burnt/foul corpse odor spreading after Vikir ignites the Poison Human bodies is omitted."
+      ],
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
     },
     {
       "chapter": 454,
@@ -31915,14 +31938,14 @@
   },
   "phase2": {
     "status": "active",
-    "completeness_reviewed_count": 449,
-    "completeness_pass_count": 208,
-    "completeness_fail_count": 241,
+    "completeness_reviewed_count": 453,
+    "completeness_pass_count": 209,
+    "completeness_fail_count": 244,
     "next_family": {
-      "name": "Declaration of War",
+      "name": "Infiltration of the Water Source",
       "range": [
-        450,
-        453
+        454,
+        464
       ]
     },
     "confirmed_failures": [
@@ -33612,9 +33635,30 @@
         "family": "The Fall of Usher",
         "finding": "Cycle 2 Phase 2 FAIL: Roderick's source-explicit broken-into-pieces internal-organ condition is generalized to a body already falling apart.",
         "evidence": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      },
+      {
+        "chapter": 450,
+        "gate": "completeness",
+        "family": "Declaration of War",
+        "finding": "Cycle 2 Phase 2 FAIL: Juskin's grotesque body twisting during conversion is omitted, his sibling-specific second-son question is generalized to 'the others,' and the source's prior count of more than ten demon companions is dropped.",
+        "evidence": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      },
+      {
+        "chapter": 451,
+        "gate": "completeness",
+        "family": "Declaration of War",
+        "finding": "Cycle 2 Phase 2 FAIL: the source states that Varangian Director Dirakium ultimately died from Sadi-inflicted injuries and Basilios succeeded him; the draft omits that death/succession beat.",
+        "evidence": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      },
+      {
+        "chapter": 453,
+        "gate": "completeness",
+        "family": "Declaration of War",
+        "finding": "Cycle 2 Phase 2 FAIL: the source-explicit burnt/foul corpse odor spreading after Vikir ignites the Poison Human bodies is omitted.",
+        "evidence": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
       }
     ],
-    "combined_remediation_count": 266,
+    "combined_remediation_count": 267,
     "completeness_only_failures": [
       42,
       48,
@@ -33681,7 +33725,8 @@
       412,
       422,
       425,
-      446
+      446,
+      451
     ]
   }
 }
