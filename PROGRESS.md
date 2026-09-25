@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-25 — Cycle 2 Phase 2 advanced through Chapter 368
+
+Direct full-source completeness revalidation has reached **Chapter 368**.
+
+- completeness reviewed: **368 / 500**;
+- PASS: **178**;
+- FAIL: **190**;
+- **132** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions remain **58**: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**;
+- combined Cycle-2 remediation population remains **258 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-340 checkpoint, Chapters **341–368** added **12 PASS / 16 FAIL** across **Private Life**, **Ballak**, **Key man**, **Outside the Tower**, **Crime and Punishment**, **Voluntary Escort**, **Ghost Castle of the Ultra-Deep Sea**, and **The Underground Extension Construction**. All sixteen failures in this span already overlap Phase 1; no new completeness-only target was added.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0368.md`.
+
+Next Phase-2 family: **The Servant (369–370)**.
+
 ## 2026-09-25 — Cycle 2 Phase 2 advanced through Chapter 340
 
 Direct full-source completeness revalidation has reached **Chapter 340**.
