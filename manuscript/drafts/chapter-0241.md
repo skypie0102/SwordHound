@@ -246,7 +246,9 @@ identify people we absolutely should not meet early.”
 
 Sinclaire remembered the train confrontation.
 
-*Lovegood's pressure was frightening.*
+*Honestly, I was terrified.*
+
+*Just the pressure she gave off made me feel as though I could barely breathe.*
 
 She began with the Varangian president.
 
