@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/151.txt` — `2f45910e15e91ff3d0eb55f6235a5b50acc7d93e`
 - English witness: **E150** — `28ad7f3ad872ee30716d513ea55fd1ee830dc5b8`
-- Draft: `manuscript/drafts/chapter-0151.md` — `0cc90a3beea435d287a0339e70f349a6e7473db5`
+- Draft: `manuscript/drafts/chapter-0151.md` — `93b9df4a5bb5f7a04e02d406e13ba87e85353459`
 - Boundary: C152 — `d6fc3f4922a2a3f57c66ece2faa68efa4030859e` / E151 — `55107beb518be3473b627551ec88399ce113f688` begin **The Drinking Game (1)**.
 
 ## Checks
@@ -25,3 +25,14 @@
 - PASS — the detailed midnight route through bathroom, ventilation duct, pipes, broken window, emergency exit, and flowerpot note is retained.
 - PASS — chapter ends on the contrast between excited inexperienced “puppies” and the old hunting hound hiding among them.
 - PASS — target 152 cleanly begins a new family, **The Drinking Game (1)**.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored Tudor's source-specific **rubbing/kneading of Vikir's abdomen** and the accompanying suggestive teasing tone, without adding beyond the Chinese.
+
+The complete Not Brother, But Uncle family was reread after remediation. Shifted mapping remains **150→E149, 151→E150**; target 152/E151 begins *The Drinking Game (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Not Brother, But Uncle family QA.
