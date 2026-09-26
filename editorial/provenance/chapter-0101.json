@@ -9,8 +9,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e870a99143b4ab7b382b49df959758e3d3c009e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/101.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0101.md",
-    "blob_sha": "ff0955563df2a7053e9c6a15c0e5d430fee2e9c1"
+    "blob_sha": "571b0d74d51e18db6fe2e406926b05fc4cd7e6a8"
   },
   "qa": {
     "path": "qa/chapter-0101.md",
-    "blob_sha": "74b226f9111259742071e1c535a84c46ccb327b9",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "8b3e0383d48394f3de8d53a0de5919bd4d325b3f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -57,7 +57,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-26",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-18",
@@ -79,5 +79,16 @@
       "source/chapters/chapter-099.xhtml",
       "source/chapters/chapter-100.xhtml"
     ]
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      101,
+      104
+    ],
+    "manuscript_changed": true,
+    "note": "corrected mucus-sac anatomy and removed invented rescue addressee"
   }
 }
