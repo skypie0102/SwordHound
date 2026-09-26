@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/219.txt` — `04f1c08f00b96bd74e0a7758919568b2b7c85f25`
 - English witness: **E217** — `ec2e0a0e9035d6a9c4d9d330d7e0c46e68108ac6`
-- Draft: `manuscript/drafts/chapter-0219.md` — `d4943fa0ea13391327904fdef174543a0f0e26f4`
+- Draft: `manuscript/drafts/chapter-0219.md` — `c819383a9f2fca16a9c587f85a524f8274d08768`
 - Boundary: C220 — `8f768db48cb1b62930c38bf5f924bb5176a6e63c` / E218 — `c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3` begin **That Day, Him and Me (1)**.
 
 ## Checks
@@ -27,3 +27,14 @@
 - PASS — faculty/public speculation remains wrong/uncertain; no one discovers Vikir's identity.
 - PASS — final line preserves Vikir's newly awakened concern for Camus.
 - PASS — raw C219 title drift is normalized to **My Neck Will Be Your Sheath (4)** by contiguous family evidence.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Vikir's explicit thought of cutting off Rosie's head before teleport completion and the student's near-wetting fear response, removing the unsupported “nearly killed me” substitution.
+
+The complete *My Neck Will Be Your Sheath* family was reread after remediation. Chapter 218 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **216→E214 through 219→E217**; target 220/E218 begins *That Day, Him and Me (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed family QA.
