@@ -191,11 +191,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/graduate-0026-0027.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/graduate-0026-0027.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 9,
@@ -211,11 +213,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/special-laws-0028-0031.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 10,
@@ -230,11 +234,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/social-club-0032-0034.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/social-club-0032-0034.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 11,
@@ -249,7 +255,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -262,7 +268,9 @@
       "completeness_failures": [
         36,
         37
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 12,
@@ -276,11 +284,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/sponsored-0038-0039.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/sponsored-0038-0039.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 13,
@@ -295,7 +305,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -306,7 +316,9 @@
       "completeness_failures": [
         40,
         42
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 14,
@@ -321,11 +333,13 @@
       ],
       "sanitization_status": "mixed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/fiancee-0043-0045.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 15,
@@ -343,7 +357,7 @@
       ],
       "sanitization_status": "mixed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -354,7 +368,9 @@
       "completeness_failures": [
         48,
         51
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 16,
@@ -369,7 +385,7 @@
       ],
       "sanitization_status": "mixed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/slaves-savage-tribe-0052-0054.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -379,7 +395,9 @@
       "completeness_reviewed_date": "2026-09-23",
       "completeness_failures": [
         52
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/slaves-savage-tribe-0052-0054.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 17,
@@ -397,7 +415,7 @@
       ],
       "sanitization_status": "mixed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -408,7 +426,9 @@
       "completeness_failures": [
         55,
         60
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 18,
@@ -423,7 +443,7 @@
       ],
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/protagonist-hunting-0061-0063.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/protagonist-hunting-0061-0063.md",
@@ -431,7 +451,9 @@
       "completeness_failures": [
         61,
         63
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/protagonist-hunting-0061-0063.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 19,
@@ -447,7 +469,7 @@
       ],
       "sanitization_status": "mixed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -461,7 +483,9 @@
         64,
         65,
         66
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 20,
@@ -477,7 +501,7 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
@@ -486,7 +510,9 @@
         69,
         70,
         71
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 21,
@@ -501,7 +527,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -512,7 +538,9 @@
       "completeness_failures": [
         72,
         74
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 22,
@@ -4642,16 +4670,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md",
       "completeness_review_file": "qa/cycle2/completeness/graduate-0026-0027.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/graduate-0026-0027.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 27,
@@ -4693,16 +4724,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/graduate-0026-0027.md",
       "completeness_review_file": "qa/cycle2/completeness/graduate-0026-0027.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/graduate-0026-0027.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 28,
@@ -4744,16 +4778,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
       "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/special-laws-0028-0031.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 29,
@@ -4795,16 +4832,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
       "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/special-laws-0028-0031.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 30,
@@ -4846,16 +4886,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
       "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/special-laws-0028-0031.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 31,
@@ -4897,16 +4940,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/special-laws-0028-0031.md",
       "completeness_review_file": "qa/cycle2/completeness/special-laws-0028-0031.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/special-laws-0028-0031.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 32,
@@ -4948,16 +4994,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
       "completeness_review_file": "qa/cycle2/completeness/social-club-0032-0034.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/social-club-0032-0034.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 33,
@@ -4999,16 +5048,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
       "completeness_review_file": "qa/cycle2/completeness/social-club-0032-0034.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/social-club-0032-0034.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 34,
@@ -5050,16 +5102,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/social-club-0032-0034.md",
       "completeness_review_file": "qa/cycle2/completeness/social-club-0032-0034.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/social-club-0032-0034.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 35,
@@ -5101,16 +5156,19 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: Audience reaction wording was intensified beyond the Chinese source in two places.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 36,
@@ -5152,16 +5210,19 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: A crude body-directed retort and explicit 'torn apart alive' narration were softened/generalized.",
-        "Cycle 2 Phase 2 FAIL: a source-present retaliatory body-directed command is replaced by generic 'Turn around,' and the direct narration that onlookers witness a man being torn apart alive is omitted."
+        "Cycle 2 Phase 2 FAIL: a source-present retaliatory body-directed command is replaced by generic 'Turn around,' and the direct narration that onlookers witness a man being torn apart alive is omitted.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 37,
@@ -5203,16 +5264,19 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: Explicit internal-organ gore was generalized to a nonspecific cutting description.",
-        "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'"
+        "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 38,
@@ -5254,17 +5318,20 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
         "Phase 2 accuracy candidate: verify Article 2 rendering of 三族灭门.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
       "completeness_review_file": "qa/cycle2/completeness/sponsored-0038-0039.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/sponsored-0038-0039.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 39,
@@ -5306,16 +5373,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/sponsored-0038-0039.md",
       "completeness_review_file": "qa/cycle2/completeness/sponsored-0038-0039.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/sponsored-0038-0039.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 40,
@@ -5357,16 +5427,19 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: close-range chest stabbing softened to mere contact.",
-        "Cycle 2 Phase 2 FAIL: the source says the close-range assassin lightly stabs Vikir in the chest; the draft reduces the attack itself to the dagger merely touching his chest, retaining only the resulting scratch."
+        "Cycle 2 Phase 2 FAIL: the source says the close-range assassin lightly stabs Vikir in the chest; the draft reduces the attack itself to the dagger merely touching his chest, retaining only the resulting scratch.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 41,
@@ -5408,16 +5481,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 42,
@@ -5459,17 +5535,20 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
         "Phase 2 accuracy candidate: verify exact finger-count wording in Vikir's internal remark.",
-        "Cycle 2 Phase 2 FAIL: the draft retrospectively invents 'a few fingers' being lost, while source continuity establishes Lowbro's single right index finger as the severed/healed injury."
+        "Cycle 2 Phase 2 FAIL: the draft retrospectively invents 'a few fingers' being lost, while source continuity establishes Lowbro's single right index finger as the severed/healed injury.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 43,
@@ -5511,16 +5590,19 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
       "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/fiancee-0043-0045.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 44,
@@ -5562,16 +5644,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
       "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/fiancee-0043-0045.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 45,
@@ -5613,16 +5698,19 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: minor nudity/body-focused source detail was not treated as an ordinary restoration target; surrounding nonsexual plot/violence coverage remained reviewable.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/fiancee-0043-0045.md",
       "completeness_review_file": "qa/cycle2/completeness/fiancee-0043-0045.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/fiancee-0043-0045.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 46,
@@ -5664,9 +5752,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -5675,7 +5764,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
       ],
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 47,
@@ -5717,9 +5808,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -5728,7 +5820,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
       ],
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 48,
@@ -5770,9 +5864,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -5781,7 +5876,9 @@
         "Cycle 2 Phase 2 FAIL: Lowbro's source/continuity-supported single right-index-finger injury is retrospectively pluralized to an injury to his 'fingers.'"
       ],
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 49,
@@ -5827,9 +5924,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -5838,7 +5936,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
       ],
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 50,
@@ -5880,9 +5980,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed."
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -5891,7 +5992,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content."
       ],
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 51,
@@ -5933,9 +6036,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown."
+        "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
@@ -5944,7 +6048,9 @@
         "Cycle 2 Phase 2 FAIL: Camus's source-explicit ordinary nasal-discharge detail during her tearful breakdown is omitted while tears/hoarse crying are retained."
       ],
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 52,
@@ -5986,10 +6092,11 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: sharp rib fragments piercing internal organs softened to generic organ damage.",
-        "Separate safety-limited note: closing Aiyen nudity is not an ordinary restoration target."
+        "Separate safety-limited note: closing Aiyen nudity is not an ordinary restoration target.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
@@ -5998,7 +6105,9 @@
         "Cycle 2 Phase 2 FAIL: the source explicitly says sharp ends of spiral-fractured ribs pierce Vikir's internal organs; the draft generalizes this to merely damaging his organs."
       ],
       "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/slaves-savage-tribe-0052-0054.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 53,
@@ -6040,9 +6149,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed."
+        "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6051,7 +6161,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content within the verified target boundary."
       ],
       "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/slaves-savage-tribe-0052-0054.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 54,
@@ -6098,10 +6210,11 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
         "Cycle 2 Phase 1 safety-limited review: underage nudity/reproductive-cultural material was not treated as an ordinary restoration target; surrounding nonsexual content remained reviewed.",
-        "54/55 shared-raw seam verified against aligned E54/E55; appended hunting material belongs to target 55."
+        "54/55 shared-raw seam verified against aligned E54/E55; appended hunting material belongs to target 55.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6110,7 +6223,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented source content within the verified target boundary."
       ],
       "completeness_review_file": "qa/cycle2/completeness/slaves-savage-tribe-0052-0054.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/slaves-savage-tribe-0052-0054.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 55,
@@ -6157,9 +6272,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6168,7 +6284,9 @@
         "Cycle 2 Phase 2 FAIL: the Chinese shaman says hunters must receive his blessing or he will ring the warning bell; the draft replaces that action with an unsupported threat to 'curse the lot of you.'"
       ],
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 56,
@@ -6210,9 +6328,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6221,7 +6340,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 57,
@@ -6240,7 +6361,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-056.xhtml",
       "english_mtl_blob_sha": "684b391e07bb916d944c1bea14ff642eb3007cac",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "english_witness_partial_overlap",
+        "verified_english_mtl_chapter": 56,
+        "notes": "Complete Chinese target 57 has no clean standalone recovered-English chapter; E56 only partially overlaps the Oxbear-selection setup. Chinese is primary."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0057.md",
         "draft_blob_sha": "d899cea4cc984265211b60bea59fd46a545ee431",
@@ -6263,9 +6388,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6274,7 +6400,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 58,
@@ -6293,7 +6421,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-057.xhtml",
       "english_mtl_blob_sha": "33f218cebdc7c91bdd8994b20d30465ecbaaebfa",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 57,
+        "notes": "Cycle 2 Phase 3 verified target 58 aligns by title/content to recovered English E57; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0058.md",
         "draft_blob_sha": "b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0",
@@ -6316,9 +6448,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6327,7 +6460,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 59,
@@ -6346,7 +6481,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-058.xhtml",
       "english_mtl_blob_sha": "1e572c7583b36443b10599e7128398bcf5529ea9",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 58,
+        "notes": "Cycle 2 Phase 3 verified target 59 aligns by title/content to recovered English E58; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0059.md",
         "draft_blob_sha": "98216e73da8172c31c2a0634e4e66ca97dae7d04",
@@ -6369,9 +6508,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6380,7 +6520,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety/boundary rules."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 60,
@@ -6399,7 +6541,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-059.xhtml",
       "english_mtl_blob_sha": "5e13cc1bc24061a5a94eba0ad352e5126ee65bdd",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 59,
+        "notes": "Cycle 2 Phase 3 verified target 60 aligns by title/content to recovered English E59; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0060.md",
         "draft_blob_sha": "df77f7700668f8d28bc7ec5f8afa83a02c8b5513",
@@ -6422,10 +6568,11 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
         "Cycle 2 Phase 1 sanitization FAIL: concrete combat-gore details were generalized.",
-        "Separate safety-limited note applies to the closing underage material."
+        "Separate safety-limited note applies to the closing underage material.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "not_applicable_until_edit",
@@ -6434,7 +6581,9 @@
         "Cycle 2 Phase 2 FAIL: eye/nerve churning is generalized to nerve damage, Vikir's high-ranking-demon predator comparison is omitted, and the brain burned to a charred ruined state is softened to being 'cooked through.'"
       ],
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 61,
@@ -6453,7 +6602,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-060.xhtml",
       "english_mtl_blob_sha": "cf367731f723c719b61b06070cb648fa9cf23a95",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 60,
+        "notes": "Cycle 2 Phase 3 verified target 61 aligns by title/content to recovered English E60; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0061.md",
         "draft_blob_sha": "12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b",
@@ -6476,9 +6629,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6487,7 +6641,9 @@
         "Cycle 2 Phase 2 FAIL: the source's runny-nosed-child comparison is generalized to small children, and an unsupported 'tools' use is added to Oxbear bones/claws/teeth beyond weapons and ornaments."
       ],
       "completeness_review_file": "qa/cycle2/completeness/protagonist-hunting-0061-0063.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/protagonist-hunting-0061-0063.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 62,
@@ -6506,7 +6662,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-061.xhtml",
       "english_mtl_blob_sha": "c03318d7153f27b179a5d2d7c36f4fa1e78d9dc2",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 61,
+        "notes": "Cycle 2 Phase 3 verified target 62 aligns by title/content to recovered English E61; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0062.md",
         "draft_blob_sha": "aa267163bf0959623b7adc94f906518e8ac73ada",
@@ -6529,9 +6689,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6540,7 +6701,9 @@
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety rules."
       ],
       "completeness_review_file": "qa/cycle2/completeness/protagonist-hunting-0061-0063.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/protagonist-hunting-0061-0063.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 63,
@@ -6559,7 +6722,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-062.xhtml",
       "english_mtl_blob_sha": "72c9b67ea93f772a9ab6adadfce10f33f7de34ad",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 62,
+        "notes": "Cycle 2 Phase 3 verified target 63 aligns by title/content to recovered English E62; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0063.md",
         "draft_blob_sha": "3a95a006e7bb54d8f35202366da98cff0cebe7a4",
@@ -6582,9 +6749,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage reproductive/marriage material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6593,7 +6761,9 @@
         "Cycle 2 Phase 2 FAIL: the source explicitly says Akwilla defeated Hugo Le Baskerville and Adolf Morgue; the draft weakens this to merely fighting them and surviving."
       ],
       "completeness_review_file": "qa/cycle2/completeness/protagonist-hunting-0061-0063.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/protagonist-hunting-0061-0063.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 64,
@@ -6612,7 +6782,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-063.xhtml",
       "english_mtl_blob_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 63,
+        "notes": "Cycle 2 Phase 3 verified target 64 aligns by title/content to recovered English E63; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0064.md",
         "draft_blob_sha": "7247c9434ad5695d86de99fd8507c42cc9d90ee1",
@@ -6635,9 +6809,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized."
+        "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6645,7 +6820,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-explicit skin-color degradation is compressed to a generic statement that merchants mocked the girl's skin; the separate child-directed sexual harassment remains safety-limited."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
+      "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 65,
@@ -6664,7 +6841,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-064.xhtml",
       "english_mtl_blob_sha": "d0e7b5a3e18de27d5cd4a6604d0e1bcdbe298f14",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 64,
+        "notes": "Cycle 2 Phase 3 verified target 65 aligns by title/content to recovered English E64; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0065.md",
         "draft_blob_sha": "ebd844a6441338d2cc37fafd9fb47a340d0ab9d1",
@@ -6687,9 +6868,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized."
+        "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6697,7 +6879,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-explicit long-term narcotic consequences—severe debilitation, congenital harm in a later generation, and possible death—are generalized to chronic illness/growing worse."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
+      "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 66,
@@ -6716,7 +6900,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-065.xhtml",
       "english_mtl_blob_sha": "083f5862d89100752c1057afc33d87257f558db2",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 65,
+        "notes": "Cycle 2 Phase 3 verified target 66 aligns by title/content to recovered English E65; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0066.md",
         "draft_blob_sha": "b4c7957d92f3809bc1e8addf3e811682c7ca10d6",
@@ -6739,9 +6927,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized."
+        "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6749,7 +6938,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: direct racist kill threats and explicit arrow-kill details including head/body separation and the mercenary captain losing nearly his entire head are generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
+      "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 67,
@@ -6768,7 +6959,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-066.xhtml",
       "english_mtl_blob_sha": "7c6a6aa37fdf71c1cef6bd846387009c67b868d2",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 66,
+        "notes": "Cycle 2 Phase 3 verified target 67 aligns by title/content to recovered English E66; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0067.md",
         "draft_blob_sha": "e1984e1e6f412fdc4466cb45b6422e2747b9cf39",
@@ -6791,9 +6986,10 @@
       },
       "sanitization_status": "safety-limited-reviewed",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 safety-limited review: restricted underage relationship material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed."
+        "Cycle 2 Phase 1 safety-limited review: restricted underage relationship material was not treated as an ordinary restoration target; surrounding nonsexual content was reviewed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6801,7 +6997,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety rules."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md"
+      "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
+      "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 68,
@@ -6820,7 +7018,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-067.xhtml",
       "english_mtl_blob_sha": "e33d1a93a127afe970a5ccc2d3a9d56aa946a087",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 67,
+        "notes": "Cycle 2 Phase 3 verified target 68 aligns by title/content to recovered English E67; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0068.md",
         "draft_blob_sha": "9ad978191ee34ae273fc1f7246c156b990b231c2",
@@ -6843,9 +7045,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -6853,7 +7056,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
+      "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 69,
@@ -6872,7 +7077,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-068.xhtml",
       "english_mtl_blob_sha": "091517f790c8fd1b7672dce16e7601330e65cfa0",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 68,
+        "notes": "Cycle 2 Phase 3 verified target 69 aligns by title/content to recovered English E68; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0069.md",
         "draft_blob_sha": "24da6e2f484446ad806117ba9f3748a78c0ff048",
@@ -6895,9 +7104,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6905,7 +7115,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source identifies the swallowed Rokoko hunter as just over twenty years old and in his physical prime; the draft generalizes this to a young adult in physical prime."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
+      "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 70,
@@ -6924,7 +7136,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-069.xhtml",
       "english_mtl_blob_sha": "ddb0367d9f30d1155c665f654bff0037527d6f25",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 69,
+        "notes": "Cycle 2 Phase 3 verified target 70 aligns by title/content to recovered English E69; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0070.md",
         "draft_blob_sha": "23ac1fdea81e8a555c3a21f16b4015c9a6871ddb",
@@ -6947,9 +7163,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -6957,7 +7174,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's extremely slowed metabolism during Red Death and asserted eye-contact transmission mechanic are omitted/reframed as a mere frightened belief."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
+      "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 71,
@@ -6976,7 +7195,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-070.xhtml",
       "english_mtl_blob_sha": "538af64e11972614bfd2e11d6226733b3fe04f91",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 70,
+        "notes": "Cycle 2 Phase 3 verified target 71 aligns by title/content to recovered English E70; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0071.md",
         "draft_blob_sha": "1921fcb4fffd7e964d4f0f4c5542ae494cf81a16",
@@ -6999,9 +7222,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -7009,7 +7233,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Hugo's source-explicit view of boys/sons/grandsons as more useful combat assets and his treatment of children as tools for battle is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md"
+      "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
+      "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 72,
@@ -7028,7 +7254,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-071.xhtml",
       "english_mtl_blob_sha": "bbee450f38deaf7753263cc92cff28fc1d54e09e",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 71,
+        "notes": "Cycle 2 Phase 3 verified target 72 aligns by title/content to recovered English E71; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0072.md",
         "draft_blob_sha": "194916079b9a805456013237aec4ef05f389b071",
@@ -7051,9 +7281,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -7061,7 +7292,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source mortality is over 40%, but the draft changes it to nearly 40% in some regions; the explicit Black Death comparison is also generalized away."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md"
+      "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md",
+      "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 73,
@@ -7080,7 +7313,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-072.xhtml",
       "english_mtl_blob_sha": "15de32585922e667eeb7508af7c4b04e1c596f79",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 72,
+        "notes": "Cycle 2 Phase 3 verified target 73 aligns by title/content to recovered English E72; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0073.md",
         "draft_blob_sha": "7ec4255821d6d640912a6848faf3394ef416ba2d",
@@ -7103,9 +7340,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found."
+        "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -7113,7 +7351,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety rules."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md"
+      "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md",
+      "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 74,
@@ -7132,7 +7372,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-073.xhtml",
       "english_mtl_blob_sha": "db89bc3ca2cd63106daadf11e113fe3a50da3bef",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 73,
+        "notes": "Cycle 2 Phase 3 verified target 74 aligns by title/content to recovered English E73; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0074.md",
         "draft_blob_sha": "7693e61cba97e5a84c8b2c864e91cdf7784d31f1",
@@ -7155,9 +7399,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted."
+        "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -7165,7 +7410,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Ah'Heman's source-explicit spitting at/on sick Aheul's face is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md"
+      "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md",
+      "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 75,
@@ -34335,21 +34582,22 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 25,
-    "boundary_alignment_pass_count": 25,
+    "boundary_alignment_reviewed_count": 74,
+    "boundary_alignment_pass_count": 53,
     "boundary_alignment_fail_count": 0,
-    "boundary_alignment_exception_documented_count": 0,
-    "families_reviewed_count": 7,
-    "families_pass_count": 7,
+    "boundary_alignment_exception_documented_count": 21,
+    "families_reviewed_count": 21,
+    "families_pass_count": 14,
     "families_fail_count": 0,
+    "families_exception_documented_count": 7,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 0,
+    "new_source_exception_rows": 18,
     "next_family": {
-      "name": "The Graduate",
-      "start": 26,
-      "end": 27
+      "name": "The Hound of the Night",
+      "start": 75,
+      "end": 77
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0025.md"
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0074.md"
   }
 }
