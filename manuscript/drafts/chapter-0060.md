@@ -162,7 +162,7 @@ Scorched flesh.
 
 The shafts had retained heat from Aiyen's aura.
 
-They tore through the swollen lid and soft eye and damaged the nerves behind it.
+They tore through the swollen lid and soft eye, churning the bundle of nerves behind it.
 
 The Oxbear's roar changed.
 
@@ -233,7 +233,7 @@ The beast stopped.
 
 Only now did instinct finally tell it what stood in front of it.
 
-What it had mistaken for an injured human concealed the presence of a far greater predator.
+What it had mistaken for an injured human concealed a predator whose presence surpassed even that of a high-ranking demon—the bared fangs of a monster from the deepest hells.
 
 CRUNCH!
 
@@ -247,7 +247,7 @@ Finally the skull.
 
 Flame erupted from the spike's tip.
 
-Heat cooked through the Oxbear's brain.
+The hellfire burned the Oxbear's brain into a charred ruin.
 
 Its death scream shook the valley.
 
