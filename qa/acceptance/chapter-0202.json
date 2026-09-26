@@ -2,8 +2,8 @@
   "chapter": 202,
   "title": "The Corpse Queen (5)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Corpse Queen",
     "range": [
@@ -11,8 +11,8 @@
       202
     ],
     "family_qa_path": "qa/families/corpse-queen-0198-0202.md",
-    "family_qa_sha": "fb506d016902b863286ef630d41425b777dd0743",
-    "status": "pass"
+    "family_qa_sha": "dbcb2114334d4df17f749d84d708a30674be0374",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/202.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-200.xhtml",
     "english_reference_sha": "337a8fae1eace8e013fd482f29ed0c8f4399d8a7",
     "draft_path": "manuscript/drafts/chapter-0202.md",
-    "draft_sha": "b5a23f58bd8db5e1d80c7fefc80672bba00541e4",
+    "draft_sha": "fe1946ecc43e279d449ef4235821060a3c88db07",
     "qa_path": "qa/chapter-0202.md",
-    "qa_sha": "cd88707f9bf45000e551d61d24438e3f0ef7eb17",
+    "qa_sha": "80664bf6d504ece8e29fd209ae352c203853ab2e",
     "provenance_path": "editorial/provenance/chapter-0202.json",
-    "provenance_sha": "d1e6fd3fd867f1eddf8f462f38599254632ee5ae"
+    "provenance_sha": "6cf7098a113533b15e1a95b4ac23cc68b4641837"
   },
   "canonical_checks": [
     "Baby Madam",
@@ -39,5 +39,12 @@
     "Do not convert Vikir's lingering-will inference into fact.",
     "Raw C202 Corpse King title is normalized to The Corpse Queen (5)."
   ],
-  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1)."
+  "next_family_alignment_note": "Target203→E201 begins Mixed Bath (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored mouth-expelled organ fragments and false-resolution/requiem beat"
+  }
 }
