@@ -316,6 +316,10 @@ Her voice weakened.
 
 “What I see isn't necessarily the truth…”
 
+Dolores lowered her head.
+
+The sorrow and uncertainty on her face made for a beautiful, melancholy sight—one that would make any man who saw it feel a pang of heartache.
+
 Vikir did not comfort her.
 
 He simply turned forward.
