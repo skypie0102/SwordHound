@@ -2,8 +2,8 @@
   "chapter": 248,
   "title": "Survival Contest (4)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Survival Contest",
     "range": [
@@ -11,8 +11,8 @@
       249
     ],
     "family_qa_path": "qa/families/survival-contest-0245-0249.md",
-    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
-    "status": "pass"
+    "family_qa_sha": "1d9204cc4da5b32c361e247c4f705b228df68695",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/248.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0248.md",
     "qa_sha": "72486e932b358957283978db57bc39a5277a3f48",
     "provenance_path": "editorial/provenance/chapter-0248.json",
-    "provenance_sha": "4b04ad83d81f00977466efa160d98e89fe51c502"
+    "provenance_sha": "ec65669db912fe1aa2cc46a7dd618115f4581d0f"
   },
   "canonical_checks": [
     "Vikir",
@@ -44,5 +44,12 @@
     "Bakilaga is newly confirmed Low Sword Graduator; this is not retroactive to earlier chapters.",
     "Bakilaga is not eliminated before Hohenheim eats the stew."
   ],
-  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
