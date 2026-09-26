@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/040.txt` — `d2758d17729fe7ef698710531ee80db1469bd077`
 - Recovered English reference: `source/chapters/chapter-040.xhtml` — `13f04369195db38d7375047cf2adb9f93400a5ce`
-- Draft: `manuscript/drafts/chapter-0040.md` — `36e7e2c1edfcd5c4a58e80ab9e60dd8b9ba4dc93`
+- Draft: `manuscript/drafts/chapter-0040.md` — `012ba6328766dde491ca6e740baddfe28cb6e021`
 - Boundary witness: Chinese Ch. 41 continues *Morgue's United Front (2)*.
 
 ## Alignment
@@ -34,3 +34,11 @@ Target 40 → recovered English 40 is verified by the complete sequence: bloody 
 ## Sanitization / addition check
 
 No Chinese-source violence, coercive labor context, political motive, or hostile intent was softened. No recovered-English-only narrative material was promoted over the Chinese source.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The close-range assassination attempt now preserves the Chinese source action: the dagger lightly **stabs** Vikir in the chest, after which River Styx protection and Infernal Buffalo **Tough Life** reduce the result to only a faint scratch. Sanitization and completeness were rerun across the full 40–42 family; no additional Chapter 40 defect remains.
+
+## Decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 40–42 family QA.
