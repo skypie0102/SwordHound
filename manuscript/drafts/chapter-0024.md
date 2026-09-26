@@ -84,7 +84,7 @@ Only worried voices carried through the smoke.
 
 ‘No. No, no, no—!’
 
-Camus had already been crying from frustration.
+Camus's face was already wet with tears and runny-nosed from crying.
 
 The thought of being left standing in her underclothes before both great clans was, to her, infinitely worse.
 
@@ -106,7 +106,7 @@ A black Baskerville training cloak had been wrapped around her.
 
 “At least put this on.”
 
-Vikir stood in front of her, having given up the outer garment himself.
+Vikir stood in front of her in his underclothes, having given up the outer garment himself.
 
 Camus blinked.
 
@@ -114,11 +114,9 @@ Camus blinked.
 
 Vikir shrugged.
 
-To him, children being caught half-dressed after training or an accident was not a matter worth agonizing over.
+To him, being naked did not strip a child of dignity.
 
-Adults attached shame to such things.
-
-Children ran around half-dressed all the time.
+Shame at exposing what lay beneath one's clothes was largely an adult convention; children sometimes ran around naked without treating it as some grave emotional matter.
 
 That was his practical, thoroughly unromantic conclusion.
 
@@ -148,7 +146,7 @@ A wind swept across the arena.
 
 Dust and smoke rolled away.
 
-The crowd saw Camus sitting on the ground wrapped tightly in Vikir's black training cloak, while Vikir stood nearby in what remained of his training clothes with a thin line of blood running down his forehead.
+The crowd saw Camus sitting on the ground wrapped tightly in Vikir's black training cloak, while Vikir stood bare-bodied nearby with a thin line of blood running down his forehead.
 
 No one knew exactly what had happened inside the smoke.
 
