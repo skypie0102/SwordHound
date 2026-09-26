@@ -94,7 +94,7 @@ His eyes flashed behind the lenses.
 
 “I curse this well.”
 
-The children froze.
+The children collapsed to the ground in terror, some of them wetting themselves.
 
 “Anyone who drinks from it will die.”
 
