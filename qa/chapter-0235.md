@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/235.txt` — `dd8dd96b0fffdee699567df3ad412e24b812656c`
 - English witness: **E233** — `b73f84a7236f067fe65185ef1f99d4c25819d765`
-- Draft: `manuscript/drafts/chapter-0235.md` — `e75417c4f949daabbbafd9c9ca2f8320e1469ab8`
+- Draft: `manuscript/drafts/chapter-0235.md` — `676b74b5878b2039b10b5da633f000951e0d13a1`
 - Boundary: C236 — `eddd037aea501c9b125834963a46434320451100` / E234 — `5f04f7dfda83ad287aeac43af4b4d1d44cdffbe7` begin **National University League (1)**.
 
 ## Checks
@@ -26,3 +26,14 @@
 - PASS — she raises two possibilities: an Academy informant is likely; Night Hound himself being inside the Academy is only a slim possibility.
 - PASS — she heals Pal Uspear, orders secrecy, and threatens expulsion if the testimony leaks.
 - PASS — Vikir is not identified as Night Hound or Choco by the end of the family.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the bullies' **“Die! Hurry up and die!”** shout, the six students being in torn clothes and **covered in blood**, and Dolores burying her face between Choco's chin and neck to check the familiar shampoo scent.
+
+Both Suspicion chapters were reread after remediation. Mapping remains **234→E232, 235→E233**; target 236/E234 begins *National University League (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Suspicion family QA.
