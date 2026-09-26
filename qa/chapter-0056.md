@@ -27,3 +27,11 @@ Target 56 → E56 is verified by complete sequence: Aiyen repeatedly asks if Vik
 ## Corruption check
 
 Recovered-English gender flips and awkward eroticized phrasing do not control. Chinese semantics remain primary.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family reread confirmed no ordinary manuscript correction is required. The age-sensitive close-contact material remains at the documented safety-limited, non-explicit level; ordinary injury, ecology, tracking, and hunting detail remain complete.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 review.** Final acceptance requires the refreshed Chapters 55–60 family QA.
