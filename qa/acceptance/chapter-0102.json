@@ -2,8 +2,8 @@
   "chapter": 102,
   "title": "Nostalgia (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -11,8 +11,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e870a99143b4ab7b382b49df959758e3d3c009e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/102.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0102.md",
     "qa_sha": "b03d733ce7f5477b77bd66b4291696b8317a7d4b",
     "provenance_path": "editorial/provenance/chapter-0102.json",
-    "provenance_sha": "e34c1e95582fb4a31a7f22f2b173e6f9321d5f2e"
+    "provenance_sha": "3dd418a005cf365e278df3423372c04484a334ae"
   },
   "canonical_checks": [
     "Peak Sword Graduator",
@@ -52,5 +52,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
