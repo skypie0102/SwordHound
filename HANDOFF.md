@@ -134,6 +134,23 @@ Evidence:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`, family evidence under `qa/cycle2/completeness/`, and `qa/cycle2-ledger.json`.
 
+## Phase 3 progress
+
+Phase 3 has structurally cleared **Chapters 1–25** across **7 / 118** contiguous title families.
+
+- boundary/alignment reviewed: **25 / 500**;
+- PASS: **25**;
+- FAIL: **0**;
+- EXCEPTION-DOCUMENTED: **0**;
+- new source-exception rows: **0**;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0025.md`;
+- family evidence: `qa/cycle2/boundary/`.
+
+Notable structural findings: the Chapter 1→2 Cradle/Styx replay, Chapter 10→11 Cerberus re-identification, and Chapter 12→13 Beelzebub inscription overlap are source-authentic repetitions. Recovered English Chapter 16 alone duplicates the closing fire paragraph; Chinese and the accepted manuscript contain the event once, and the existing Chapter-16 QA/provenance already document that witness defect. Chapter 25→26 is a clean family break with an explicit seven-year timeskip.
+
+The **273-chapter** Phase-4 remediation population remains frozen. No Phase-3 manuscript repair has begun.
+
 ## Exact next actions
 
 1. Continue **Phase 3** on `audit/cycle2-phase3-boundary` with **The Graduate (26–27)**, then proceed in contiguous title-family order.
