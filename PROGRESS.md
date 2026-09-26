@@ -1,5 +1,21 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 4 — Hound of the Night complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Hound of the Night (75–77)** and reconciled interrupted ledger bookkeeping for the already-completed Unfair Trade, Blood Relatives, and Red Death families.
+
+- completed affected families: **11**;
+- remediation chapters complete: **25 / 273**;
+- remediation chapters remaining: **248**;
+- manuscript edits during Phase 4: **27**;
+- Chapter **75**: restored floating corpse/log flood footing, Chihuahua's red-eyed loyalty detail, and Cindywendy's Gambino investment-adviser precedent;
+- Chapter **76**: restored the children's collapse/wetting terror response, Dolores's source-present academy/student-council status, and concrete petitioner identities/status/payment offers;
+- Chapter **77**: restored Mozgus's prior-timeline battlefield/cruelty characterization and torture-technique memory, scripture weight, and present-strength / Quovadis-territory combat assessment;
+- combined C075 source handling remains unchanged and fully rebound;
+- family QA, chapter QA, provenance, acceptance, tracker, and Cycle-2 ledger bindings are refreshed through Chapter **77**;
+- next affected family: **The Saintess (78–82)**, earliest remaining target **78**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 4 — Hunter and Hunted complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Hunter and the Hunted (55–60)**.
