@@ -2,8 +2,8 @@
   "chapter": 158,
   "title": "Familiar Face (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Familiar Face",
     "range": [
@@ -11,8 +11,8 @@
       161
     ],
     "family_qa_path": "qa/families/familiar-face-0158-0161.md",
-    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
-    "status": "pass"
+    "family_qa_sha": "b6965699d7b4e9188b2235fd70eab1596365796b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/158.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-157.xhtml",
     "english_reference_sha": "91d67d8d59d68825a4779fe641605572fdff43ab",
     "draft_path": "manuscript/drafts/chapter-0158.md",
-    "draft_sha": "d168adaae4752967b229d2809859a35a6111d53f",
+    "draft_sha": "61fb3eb71aca33115da346ac908c84b1cb438b6a",
     "qa_path": "qa/chapter-0158.md",
-    "qa_sha": "79ccb43920283742751ca220b7adc528e216ee45",
+    "qa_sha": "3b1d9c7ae8dc8a10108a5a6ab230d8fee769656c",
     "provenance_path": "editorial/provenance/chapter-0158.json",
-    "provenance_sha": "1f81ac89352d618a1d18a2a4faa5cd2dc815cecf"
+    "provenance_sha": "bf7198d3e248dcab9a9fd0875984a40a79d9d9eb"
   },
   "canonical_checks": [
     "Ephebo",
@@ -40,5 +40,12 @@
     "Quilt is source-revealed only as Demon King-class here; later personal demon name/epithet remains withheld.",
     "Black face-covering artifact origin remains unresolved."
   ],
-  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Seventh Fang painful-death purpose"
+  }
 }
