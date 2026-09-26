@@ -1,5 +1,5 @@
 {
-  "notice": "Cycle 2 Phase 4 remediation active; 12/273 remediation chapters complete. Next affected family: The Protagonist of Hunting (61-63), earliest remaining target 61.",
+  "notice": "Cycle 2 Phase 4 remediation active; 20/273 remediation chapters complete and 253 remain. Next affected family: The Red Death (72-74), earliest remaining target 72.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
@@ -900,7 +900,7 @@
       "qa": "qa/chapter-0064.md",
       "provenance": "editorial/provenance/chapter-0064.json",
       "acceptance": "qa/acceptance/chapter-0064.json",
-      "acceptance_sha": "6dfe76171b38a6de05f775cd3d91f7c049abd93d",
+      "acceptance_sha": "048725a387260b81b4ad362a26581239d579cb26",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -914,7 +914,7 @@
       "qa": "qa/chapter-0065.md",
       "provenance": "editorial/provenance/chapter-0065.json",
       "acceptance": "qa/acceptance/chapter-0065.json",
-      "acceptance_sha": "2256ea124680f4cdef30115c2344e67bb8afc8d9",
+      "acceptance_sha": "7ca3fa044676ddbf7b866b07d93deec444e122c3",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -928,7 +928,7 @@
       "qa": "qa/chapter-0066.md",
       "provenance": "editorial/provenance/chapter-0066.json",
       "acceptance": "qa/acceptance/chapter-0066.json",
-      "acceptance_sha": "6e69980dc3d042e307dd96c1da03826f852a53ab",
+      "acceptance_sha": "6a1a4d5bba74da883d8f562562cae98f1c9f0b30",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -942,7 +942,7 @@
       "qa": "qa/chapter-0067.md",
       "provenance": "editorial/provenance/chapter-0067.json",
       "acceptance": "qa/acceptance/chapter-0067.json",
-      "acceptance_sha": "cdc82006c84247150e99d14897c151c684fa0156",
+      "acceptance_sha": "9dcd5b54994b5c5506ba504b8ef4cc28ebac07cc",
       "family_qa": "qa/families/unfair-trade-0064-0067.md"
     },
     {
@@ -956,7 +956,7 @@
       "qa": "qa/chapter-0068.md",
       "provenance": "editorial/provenance/chapter-0068.json",
       "acceptance": "qa/acceptance/chapter-0068.json",
-      "acceptance_sha": "b481541f858c84673fe21d457d2a962a78082a4a",
+      "acceptance_sha": "9cd94d85778ede84590084f8849e03eb38fb5334",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -970,7 +970,7 @@
       "qa": "qa/chapter-0069.md",
       "provenance": "editorial/provenance/chapter-0069.json",
       "acceptance": "qa/acceptance/chapter-0069.json",
-      "acceptance_sha": "38b274533c9c5bf533e3aa5a48a1ee748b8f72b6",
+      "acceptance_sha": "017f75be7deeac50961340a939a1d9249e7e21c2",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -984,7 +984,7 @@
       "qa": "qa/chapter-0070.md",
       "provenance": "editorial/provenance/chapter-0070.json",
       "acceptance": "qa/acceptance/chapter-0070.json",
-      "acceptance_sha": "a3f0d276f01d8544f2a5038708a1f76b8b395d61",
+      "acceptance_sha": "ad855d46827c45b439a7237879819b5e0b6732f7",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -998,7 +998,7 @@
       "qa": "qa/chapter-0071.md",
       "provenance": "editorial/provenance/chapter-0071.json",
       "acceptance": "qa/acceptance/chapter-0071.json",
-      "acceptance_sha": "f6c6ee3efcdd7e2237145c3d542859d6dce20492",
+      "acceptance_sha": "6aadd674d48fdddd5378d2a44b2df70f00a7f503",
       "family_qa": "qa/families/blood-relatives-0068-0071.md"
     },
     {
@@ -7729,10 +7729,10 @@
     ],
     "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "Unfair Trade",
+      "name": "The Red Death",
       "range": [
-        64,
-        67
+        72,
+        74
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7840,24 +7840,24 @@
     "phase3_families_exception_documented_count": 102,
     "phase4_status": "active",
     "phase4_next_family": {
-      "name": "Unfair Trade",
+      "name": "The Red Death",
       "range": [
-        64,
-        67
+        72,
+        74
       ]
     },
-    "phase4_earliest_remediation_chapter": 64,
-    "phase4_manuscript_edits": 15,
-    "phase4_remediation_completed_chapters": 14,
-    "phase4_remediation_remaining_chapters": 259,
-    "phase4_families_completed": 7,
+    "phase4_earliest_remediation_chapter": 72,
+    "phase4_manuscript_edits": 21,
+    "phase4_remediation_completed_chapters": 20,
+    "phase4_remediation_remaining_chapters": 253,
+    "phase4_families_completed": 9,
     "phase4_last_completed_family": {
-      "name": "The Protagonist of Hunting",
+      "name": "Blood Relatives",
       "range": [
-        61,
-        63
+        68,
+        71
       ]
     },
-    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, The Hunter and the Hunted 55-60, and The Protagonist of Hunting 61-63 complete"
+    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, The Hunter and the Hunted 55-60, The Protagonist of Hunting 61-63, Unfair Trade 64-67, and Blood Relatives 68-71 complete"
   }
 }
