@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/212.txt` — `6e5d9e92fbde34d10a0cc7a5393014ca7a59e8c7`
 - English witness: **E210** — `4e89eac5abc89e36d226026f98c8cfc8799f80a8`
-- Draft: `manuscript/drafts/chapter-0212.md` — `0e166092e239bd215f5b9434af91e77b4503feb8`
+- Draft: `manuscript/drafts/chapter-0212.md` — `8b9f5598fbf58130a6e9feb457d044a9ad7ab77a`
 
 ## Checks
 - PASS — Queen initially interprets witch-costumed Vikir as possible blood relation rather than recognizing him.
@@ -21,3 +21,14 @@
 - PASS — Bianca and Sinclaire initially misread the Queen as an overzealous Vikir fan and enforce “wait your turn” etiquette.
 - PASS — Queen reveals black magic only after the misunderstanding persists.
 - PASS — chapter cliffhanger presents a Night Hound-costumed figure without falsely asserting it is the true Night Hound; next chapter identifies the figure as Dolores.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** Restored the crowd-crush image of the Corpse Queen's face beneath the skull mask being squeezed like a pancake.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.
