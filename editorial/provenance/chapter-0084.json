@@ -9,7 +9,7 @@
       84
     ],
     "family_qa_path": "qa/families/lovesickness-0083-0084.md",
-    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "family_qa_sha": "1828b0c512b980d69af558d3517da65ad49330e4",
     "status": "pass"
   },
   "primary_source": {
@@ -52,11 +52,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0084.md",
-    "blob_sha": "9808a44919d1c1d0f7e1303087f0487488ea4e2f"
+    "blob_sha": "a6368ad23a357f17e668187937dd43030b696ac7"
   },
   "qa": {
     "path": "qa/chapter-0084.md",
-    "blob_sha": "5da7b3d290eed421d5ef58fcc74ebbbe12209744",
+    "blob_sha": "25aefbb1fdbcda453832515a8f8533eb1fb9013e",
     "status": "pass"
   },
   "documented_decisions": [
@@ -92,5 +92,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      83,
+      84
+    ],
+    "manuscript_changed": true,
+    "note": "restored Ahun reverence, willow-leaf range, strategic control intent, and Rokoko cannibalism characterization"
+  }
 }
