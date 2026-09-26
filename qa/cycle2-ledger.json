@@ -1217,7 +1217,16 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md",
       "boundary_review_file": "qa/cycle2/boundary/drinking-game-0152-0154.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        152,
+        153,
+        154
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 152-154 remediated and fully rebound."
     },
     {
       "index": 41,
@@ -12703,15 +12712,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir's source-specific five-minute Hill Seven waiting-period Yut detail is omitted, and Sinclaire's tank-top-and-shorts clothing description is generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md",
       "boundary_review_file": "qa/cycle2/boundary/drinking-game-0152-0154.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 153,
@@ -12762,15 +12775,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's Maginot-Line comparison and exact right-arm/left-arm/right-leg/left-leg/torso/neck destruction progression in the Go metaphor are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md",
       "boundary_review_file": "qa/cycle2/boundary/drinking-game-0152-0154.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 154,
@@ -12821,15 +12838,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/drinking-game-0152-0154.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's source-present whole-body itching and involuntary shiver from close breath contact is replaced with a generic tensing reaction."
       ],
       "completeness_review_file": "qa/cycle2/completeness/drinking-game-0152-0154.md",
       "boundary_review_file": "qa/cycle2/boundary/drinking-game-0152-0154.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 155,
@@ -38196,22 +38217,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 49,
-    "remediation_remaining_chapters": 224,
-    "families_completed": 21,
+    "remediation_completed_chapters": 52,
+    "remediation_remaining_chapters": 221,
+    "families_completed": 22,
     "last_completed_family": {
-      "name": "Not Brother, But Uncle",
-      "start": 150,
-      "end": 151
-    },
-    "next_family": {
       "name": "The Drinking Game",
       "start": 152,
       "end": 154
     },
-    "earliest_remediation_chapter": 152,
-    "manuscript_edits": 51,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; and Not Brother, But Uncle 150-151 complete",
+    "next_family": {
+      "name": "How to Keep Your Night Shift Employees Safe",
+      "start": 155,
+      "end": 157
+    },
+    "earliest_remediation_chapter": 155,
+    "manuscript_edits": 54,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; and The Drinking Game 152-154 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
