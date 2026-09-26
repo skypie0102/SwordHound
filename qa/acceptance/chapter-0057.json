@@ -2,8 +2,8 @@
   "chapter": 57,
   "title": "The Hunter and the Hunted (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_partial_english_overlap_only",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_partial_english_overlap_only_cycle2_phase4",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -11,7 +11,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0057.md",
     "draft_sha": "d899cea4cc984265211b60bea59fd46a545ee431",
     "qa_path": "qa/chapter-0057.md",
-    "qa_sha": "7f071afca07011058b38a354d119dac7bc5c7f48",
+    "qa_sha": "248ad2e5450a955c7a2317f5f5b12acdc053eb78",
     "provenance_path": "editorial/provenance/chapter-0057.json",
-    "provenance_sha": "8f178b294386e0b225c7992ce51887893aec1638"
+    "provenance_sha": "8e57d19f9da8639c5775708faa680cf25c585131"
   },
   "canonical_checks": [
     "Aiyen",
@@ -36,5 +36,12 @@
     "No clean standalone recovered-English chapter maps to target 57.",
     "E56 overlaps only part of the Oxbear-selection setup; E57 begins target 58.",
     "Reproductive mate-selection material remains clinical/non-erotic."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no ordinary manuscript correction required; English witness gap remains documented"
+  }
 }
