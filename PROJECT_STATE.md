@@ -89,7 +89,7 @@ Phase 2 completeness is **COMPLETE through Chapter 500**:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Phase 3 is active and has structurally reviewed **362 / 500** targets across **73 / 118** families with **53 PASS / 2 FAIL / 307 EXCEPTION-DOCUMENTED**, **243 new source-exception rows**, and **0 manuscript edits**. Open structural failures are Chapters **236, 273, and 283** and remain deferred to Phase 4. Checkpoint: `qa/cycle2-phase3-checkpoint-0306.md`. Next: **Hell Tree (307–313)**.
+Phase 3 is active and has structurally reviewed **362 / 500** targets across **86 / 118** families with **53 PASS / 2 FAIL / 307 EXCEPTION-DOCUMENTED**, **295 genuine new source-exception rows** after duplicate-ledger normalization, and **0 manuscript edits**. Open structural failures are Chapters **273 and 283** and remain deferred to Phase 4. Checkpoint: `qa/cycle2-phase3-checkpoint-0362.md`. Next: **Ghost Castle of the Ultra-Deep Sea (363–365)**.
 
 ## Release gate
 
