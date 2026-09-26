@@ -59,4 +59,4 @@ Target 84 ends with the plague suppressed across the tribes and Aiyen saying she
 - Shifted mapping remains **83→E82, 84→E83**; target 85/E84 begins *The Illiad (1)*.
 - Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
 
-**Phase-4 disposition:** family clear; continue to **The Illiad (85–89)**.
+**Phase-4 disposition:** family clear. **The Illiad (85–89)** has no Phase-4 remediation targets; continue to the next affected family, **The Ghosts of the Ancestors (90–94)**, earliest remediation target Chapter **94**.
