@@ -9,7 +9,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
+    "family_qa_sha": "4e50b641edc188aa9fc958a8b627910ed637a09c",
     "status": "pass"
   },
   "primary_source": {
@@ -45,11 +45,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0054.md",
-    "blob_sha": "a73d3e3b1b8767cf932fd1a98963fbd0abe6aa69"
+    "blob_sha": "274fc97929edfe3ea8d48611c9aae775e45a9297"
   },
   "qa": {
     "path": "qa/chapter-0054.md",
-    "blob_sha": "c4fb3c2ed5166507df32fffe3262458e03fe9580",
+    "blob_sha": "f5b85da05d2ba5d08c00033cda2baf2af3b6ef62",
     "status": "pass"
   },
   "documented_decisions": [
@@ -75,5 +75,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "family_revalidated_and_rebound",
+    "family_reviewed": [
+      52,
+      54
+    ],
+    "manuscript_changed": true,
+    "note": "narrative unchanged; corrected stale source note to the documented 54/55 overlap and E54 closing-gap model"
+  }
 }
