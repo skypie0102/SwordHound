@@ -1,5 +1,5 @@
 {
-  "notice": "Cycle 2 Phase 4 remediation active; 10/273 remediation chapters complete. Next affected family: The Hunter and the Hunted (55-60), earliest remaining target 55.",
+  "notice": "Cycle 2 Phase 4 remediation active; 12/273 remediation chapters complete. Next affected family: The Protagonist of Hunting (61-63), earliest remaining target 61.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
@@ -773,7 +773,7 @@
       "qa": "qa/chapter-0055.md",
       "provenance": "editorial/provenance/chapter-0055.json",
       "acceptance": "qa/acceptance/chapter-0055.json",
-      "acceptance_sha": "c5acf3cea4af93e4804cecfebe40b87a27bd5795",
+      "acceptance_sha": "71a970644573381c7c1e9a773f0434d2592d5eab",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -787,7 +787,7 @@
       "qa": "qa/chapter-0056.md",
       "provenance": "editorial/provenance/chapter-0056.json",
       "acceptance": "qa/acceptance/chapter-0056.json",
-      "acceptance_sha": "3d0422ee2ce93d038307a042d390cfbb87ac5632",
+      "acceptance_sha": "1d4fc90a716e62f66ab52516fa86773631987830",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -801,7 +801,7 @@
       "qa": "qa/chapter-0057.md",
       "provenance": "editorial/provenance/chapter-0057.json",
       "acceptance": "qa/acceptance/chapter-0057.json",
-      "acceptance_sha": "b12cd0115470deecb58c63147ec2d485c7058c5a",
+      "acceptance_sha": "50a1742d2f2f0a2843033bed4f0ae6aae49fdf95",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -815,7 +815,7 @@
       "qa": "qa/chapter-0058.md",
       "provenance": "editorial/provenance/chapter-0058.json",
       "acceptance": "qa/acceptance/chapter-0058.json",
-      "acceptance_sha": "239ba21967293a98462be6982c4f8cc1963bbece",
+      "acceptance_sha": "02011c467f4a3a3d8a01d0f394f9761d6cb2a9a2",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -829,7 +829,7 @@
       "qa": "qa/chapter-0059.md",
       "provenance": "editorial/provenance/chapter-0059.json",
       "acceptance": "qa/acceptance/chapter-0059.json",
-      "acceptance_sha": "9e550fa5d92639bea6cae1220a99d5d8887f9a48",
+      "acceptance_sha": "02944b3fa91bee08319b2d2e55fdf79053ca71c2",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md",
       "completeness_audit": "residual_rebuilt_and_passed_2026-09-20"
     },
@@ -844,7 +844,7 @@
       "qa": "qa/chapter-0060.md",
       "provenance": "editorial/provenance/chapter-0060.json",
       "acceptance": "qa/acceptance/chapter-0060.json",
-      "acceptance_sha": "8d10788b97c95dd2340a2ec7b98cd0cd02e539ad",
+      "acceptance_sha": "dd7920685ca57eb9eee54a307e4ba0d352a5e139",
       "family_qa": "qa/families/hunter-hunted-0055-0060.md"
     },
     {
@@ -7729,10 +7729,10 @@
     ],
     "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "The Hunter and the Hunted",
+      "name": "The Protagonist of Hunting",
       "range": [
-        55,
-        60
+        61,
+        63
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7840,24 +7840,24 @@
     "phase3_families_exception_documented_count": 102,
     "phase4_status": "active",
     "phase4_next_family": {
+      "name": "The Protagonist of Hunting",
+      "range": [
+        61,
+        63
+      ]
+    },
+    "phase4_earliest_remediation_chapter": 61,
+    "phase4_manuscript_edits": 13,
+    "phase4_remediation_completed_chapters": 12,
+    "phase4_remediation_remaining_chapters": 261,
+    "phase4_families_completed": 6,
+    "phase4_last_completed_family": {
       "name": "The Hunter and the Hunted",
       "range": [
         55,
         60
       ]
     },
-    "phase4_earliest_remediation_chapter": 55,
-    "phase4_manuscript_edits": 11,
-    "phase4_remediation_completed_chapters": 10,
-    "phase4_remediation_remaining_chapters": 263,
-    "phase4_families_completed": 5,
-    "phase4_last_completed_family": {
-      "name": "Slaves of the Savage Tribe",
-      "range": [
-        52,
-        54
-      ]
-    },
-    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, and Slaves of the Savage Tribe 52-54 complete"
+    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, and The Hunter and the Hunted 55-60 complete"
   }
 }
