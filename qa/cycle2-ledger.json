@@ -1061,7 +1061,18 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        133,
+        135,
+        136,
+        137,
+        138
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 133 and 135-138 remediated and fully rebound; Chapter 134 complete-family revalidated unchanged."
     },
     {
       "index": 36,
@@ -11496,15 +11507,19 @@
         "Cycle 2 Phase 1 FAIL: explicit death threats against the six bullies and their parents, collective-warning language, and the source's 'nearly beaten into meat paste' flashback are materially generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
       "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the collective death-threat warning against the six bullies and their parents plus the source's near-'meat paste' beating description are omitted/generalized."
       ],
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 134,
@@ -11563,7 +11578,11 @@
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 135,
@@ -11614,15 +11633,19 @@
         "Cycle 2 Phase 1 FAIL: explicit 'beat him up' and repeated 'kill you' aggression is softened to irritation / 'crush you.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
       "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-explicit 'beat him up' and repeated 'kill you' aggression is softened to generic irritation / 'crush you.'"
       ],
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 136,
@@ -11673,15 +11696,19 @@
         "Cycle 2 Phase 1 FAIL: Tudor's explicit intent to knock Vikir unconscious and the source's broader injury description are softened/generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
       "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Tudor's explicit intent to knock Vikir unconscious and the broader first-collision injury aftermath are omitted/generalized."
       ],
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 137,
@@ -11732,15 +11759,19 @@
         "Cycle 2 Phase 1 FAIL: a source-explicit bystander reaction asking whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
       "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source-explicit bystander question whether Sancho's collision might kill Vikir is softened to 'Is the other guy okay?'"
       ],
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 138,
@@ -11791,15 +11822,19 @@
         "Cycle 2 Phase 1 FAIL: the source's materially stronger possessive/objectifying and sexualized crowd reaction to Vikir's appearance is trimmed to generic admiration.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/test-your-skills-0133-0138.md",
       "completeness_review_file": "qa/cycle2/completeness/test-your-skills-0133-0138.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: substantial source crowd/commentary reaction to Vikir is compressed, and the exact Venomphion lethality figure of 44 people per venom drop is generalized to 'dozens.'"
       ],
       "boundary_review_file": "qa/cycle2/boundary/test-your-skills-0133-0138.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 139,
@@ -38110,22 +38145,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 39,
-    "remediation_remaining_chapters": 234,
-    "families_completed": 17,
+    "remediation_completed_chapters": 44,
+    "remediation_remaining_chapters": 229,
+    "families_completed": 18,
     "last_completed_family": {
-      "name": "The Freshman Talent Show",
-      "start": 130,
-      "end": 132
-    },
-    "next_family": {
       "name": "Test Your Skills",
       "start": 133,
       "end": 138
     },
-    "earliest_remediation_chapter": 133,
-    "manuscript_edits": 41,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; and The Freshman Talent Show 130-132 complete",
+    "next_family": {
+      "name": "Men are Power",
+      "start": 139,
+      "end": 140
+    },
+    "earliest_remediation_chapter": 139,
+    "manuscript_edits": 46,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; and Test Your Skills 133-138 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
