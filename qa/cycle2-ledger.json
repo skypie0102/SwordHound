@@ -392,7 +392,14 @@
         51
       ],
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        48,
+        51
+      ],
+      "phase4_rebind_complete": true
     },
     {
       "index": 16,
@@ -6039,7 +6046,11 @@
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_manuscript_change",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 47,
@@ -6095,7 +6106,11 @@
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_manuscript_change",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 48,
@@ -6142,8 +6157,8 @@
         "Cycle 2 Phase 1 safety-limited review: underage nudity/coercive or romanticized body-focused material was not treated as an ordinary restoration target; surrounding nonsexual plot/violence remained reviewed.",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Lowbro's source/continuity-supported single right-index-finger injury is retrospectively pluralized to an injury to his 'fingers.'"
@@ -6151,7 +6166,11 @@
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 49,
@@ -6211,7 +6230,11 @@
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_manuscript_change",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 50,
@@ -6267,7 +6290,11 @@
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_manuscript_change",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 51,
@@ -6314,8 +6341,8 @@
         "Cycle 2 Phase 1 sanitization FAIL: explicit nonsexual nasal/snot detail omitted from Camus's breakdown.",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/husband-hunt-0046-0051.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Camus's source-explicit ordinary nasal-discharge detail during her tearful breakdown is omitted while tears/hoarse crying are retained."
@@ -6323,7 +6350,11 @@
       "completeness_review_file": "qa/cycle2/completeness/husband-hunt-0046-0051.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/husband-hunt-0046-0051.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 52,
@@ -37772,22 +37803,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 7,
-    "remediation_remaining_chapters": 266,
-    "families_completed": 3,
+    "remediation_completed_chapters": 9,
+    "remediation_remaining_chapters": 264,
+    "families_completed": 4,
     "last_completed_family": {
-      "name": "Morgue's United Front",
-      "start": 40,
-      "end": 42
-    },
-    "next_family": {
       "name": "The Husband Hunt",
       "start": 46,
       "end": 51
     },
-    "earliest_remediation_chapter": 48,
-    "manuscript_edits": 7,
-    "evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, and Morgue's United Front 40-42 complete",
+    "next_family": {
+      "name": "Slaves of the Savage Tribe",
+      "start": 52,
+      "end": 54
+    },
+    "earliest_remediation_chapter": 52,
+    "manuscript_edits": 9,
+    "evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, and The Husband Hunt 46-51 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
