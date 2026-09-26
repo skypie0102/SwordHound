@@ -1,4 +1,5 @@
 target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
+49	049.txt	partial_raw_gap	49	Chinese file visibly omits the Aiyen/Ahun/husband-hunt connective block near the opening and resumes mid-explanation; restore only that localized missing passage from aligned English.
 54	054.txt	combined_overlap	54	Physical 054.txt contains target Chapter 54 plus most of target 55; target-54 closing exchange is missing from Chinese and restored from aligned English 54.
 55	054.txt	partial_combined_overlap	55	No standalone 055.txt. Most target-55 body survives appended in 054.txt without a Chapter 55 heading; aligned English 55 supplies the missing target-55 opening/title boundary and remains secondary where Chinese overlap exists.
 57	057.txt	english_witness_partial_overlap	56	Target 57 has a complete Chinese raw but no clean standalone recovered-English chapter. E56 is target 56 and only partially overlaps the later Oxbear-selection setup; target 57 must be reviewed Chinese-primary without pretending E57 is same-number evidence.
@@ -50,21 +51,37 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 103	103.txt	shifted_english_alignment	102	Verified by title/content during Cycle 2 Phase 3: target 103 aligns to recovered English E102; Chinese remains semantic authority and the English witness is secondary.
 104	104.txt	shifted_english_alignment	103	Verified by title/content during Cycle 2 Phase 3: target 104 aligns to recovered English E103; Chinese remains semantic authority and the English witness is secondary.
 105	105.txt	shifted_english_alignment	104	Verified by title/content during Cycle 2 Phase 3: target 105 aligns to recovered English E104; Chinese remains semantic authority and the English witness is secondary.
+105	105.txt	normal_shifted_alignment	104	Verified by title and full opening/closing content: The Returned Hero (1).
 106	106.txt	shifted_english_alignment	105	Verified by title/content during Cycle 2 Phase 3: target 106 aligns to recovered English E105; Chinese remains semantic authority and the English witness is secondary.
+106	106.txt	normal_shifted_alignment	105	Verified by contiguous title-family and full content: The Returned Hero (2).
 107	107.txt	shifted_english_alignment	106	Verified by title/content during Cycle 2 Phase 3: target 107 aligns to recovered English E106; Chinese remains semantic authority and the English witness is secondary.
+107	107.txt	normal_shifted_alignment	106	Verified by contiguous title-family and full content: The Returned Hero (3).
 108	108.txt	shifted_english_alignment	107	Verified by title/content during Cycle 2 Phase 3: target 108 aligns to recovered English E107; Chinese remains semantic authority and the English witness is secondary.
+108	108.txt	normal_shifted_alignment	107	Verified by contiguous title-family and full content: The Returned Hero (4).
 109	109.txt	shifted_english_alignment	108	Verified by title/content during Cycle 2 Phase 3: target 109 aligns to recovered English E108; Chinese remains semantic authority and the English witness is secondary.
+109	109.txt	normal_shifted_alignment	108	Verified by contiguous title-family and full content: The Returned Hero (5).
 110	110.txt	shifted_english_alignment	109	Verified by title/content during Cycle 2 Phase 3: target 110 aligns to recovered English E109; Chinese remains semantic authority and the English witness is secondary.
+110	110.txt	normal_shifted_alignment	109	Verified boundary and next-family start: The Great Banquet (1).
 111	111.txt	shifted_english_alignment	110	Verified by title/content during Cycle 2 Phase 3: target 111 aligns to recovered English E110; Chinese remains semantic authority and the English witness is secondary.
+111	111.txt	normal_shifted_alignment	110	Verified title-family mapping: The Great Banquet (2).
 112	112.txt	shifted_english_alignment	111	Verified by title/content during Cycle 2 Phase 3: target 112 aligns to recovered English E111; Chinese remains semantic authority and the English witness is secondary.
+112	112.txt	normal_shifted_alignment	111	Verified title-family mapping: The Great Banquet (3).
 113	113.txt	shifted_english_alignment	112	Verified by title/content during Cycle 2 Phase 3: target 113 aligns to recovered English E112; Chinese remains semantic authority and the English witness is secondary.
+113	113.txt	normal_shifted_alignment	112	Verified title-family mapping: The Great Banquet (4).
 114	114.txt	shifted_english_alignment	113	Verified by title/content during Cycle 2 Phase 3: target 114 aligns to recovered English E113; Chinese remains semantic authority and the English witness is secondary.
+114	114.txt	normal_shifted_alignment	113	Verified title-family mapping: The Great Banquet (5).
 115	115.txt	shifted_english_alignment	114	Verified by title/content during Cycle 2 Phase 3: target 115 aligns to recovered English E114; Chinese remains semantic authority and the English witness is secondary.
+115	115.txt	normal_shifted_alignment	114	Verified title-family mapping: The Great Banquet (6).
 116	116.txt	shifted_english_alignment	115	Verified by title/content during Cycle 2 Phase 3: target 116 aligns to recovered English E115; Chinese remains semantic authority and the English witness is secondary.
+116	116.txt	normal_shifted_alignment	115	Verified title-family mapping: The Great Banquet (7).
 117	117.txt	shifted_english_alignment	116	Verified by title/content during Cycle 2 Phase 3: target 117 aligns to recovered English E116; Chinese remains semantic authority and the English witness is secondary.
+117	117.txt	normal_shifted_alignment	116	Verified following-family boundary: Falling in Love (1).
 118	118.txt	shifted_english_alignment	117	Verified by title/content during Cycle 2 Phase 3: target 118 aligns to recovered English E117; Chinese remains semantic authority and the English witness is secondary.
+118	118.txt	normal_shifted_alignment	117	Verified title-family mapping: Falling in Love (2).
 119	119.txt	shifted_english_alignment	118	Verified by title/content during Cycle 2 Phase 3: target 119 aligns to recovered English E118; Chinese remains semantic authority and the English witness is secondary.
+119	119.txt	normal_shifted_alignment	118	Verified title-family mapping: Falling in Love (3).
 120	120.txt	shifted_english_alignment	119	Verified by title/content during Cycle 2 Phase 3: target 120 aligns to recovered English E119; Chinese remains semantic authority and the English witness is secondary.
+120	120.txt	normal_shifted_alignment	119	Verified following-family boundary: The Hunt for the Second Son (1).
 121	121.txt	shifted_english_alignment	120	Verified by title/content during Cycle 2 Phase 3: target 121 aligns to recovered English E120; Chinese remains semantic authority and the English witness is secondary.
 122	122.txt	shifted_english_alignment	121	Verified by title/content during Cycle 2 Phase 3: target 122 aligns to recovered English E121; Chinese remains semantic authority and the English witness is secondary.
 123	123.txt	shifted_english_alignment	122	Verified by title/content during Cycle 2 Phase 3: target 123 aligns to recovered English E122; Chinese remains semantic authority and the English witness is secondary.
@@ -115,8 +132,10 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 168	168.txt	missing_english_witness	NONE	Cycle 2 Phase 3 verified target 168 Sin and Punishment (7) is a complete standalone Chinese target with no recovered-English chapter; E166 ends target 167 and E167 resumes at target 169.
 169	169.txt	shifted_english_alignment	167	Cycle 2 Phase 3 verified target 169 Sin and Punishment (8) aligns to recovered English E167 after the target-168 witness gap; English offset is now two chapters behind.
 170	170.txt	shifted_english_alignment	168	Verified by title/content during Cycle 2 Phase 3: target 170 aligns to recovered English E168 after the target-168 witness gap; Chinese remains semantic authority.
+170	170.txt	partial_raw_gap	168	Chinese C170 has two visible localized omissions: most of the classmates' embarrassment/give-Vikir-space exchange, and the four black coverings recombining into the Picaresque mask. Restore only those spans from aligned E168; Chinese remains primary elsewhere.
 171	171.txt	shifted_english_alignment	169	Verified by title/content during Cycle 2 Phase 3: target 171 aligns to recovered English E169 after the target-168 witness gap; Chinese remains semantic authority.
 172	172.txt	shifted_english_alignment	170	Verified by title/content during Cycle 2 Phase 3: target 172 aligns to recovered English E170 after the target-168 witness gap; Chinese remains semantic authority.
+172	172.txt	overlap_duplicate	170	Chinese C172 begins correctly with Vikir taking Pigi's article, then accidentally repeats the end-of-C171 Pigi-arrives/newspaper-delivery block before resuming the article. Omit only that duplicated overlap; aligned E170 confirms the clean boundary.
 173	173.txt	shifted_english_alignment	171	Verified by title/content during Cycle 2 Phase 3: target 173 aligns to recovered English E171 after the target-168 witness gap; Chinese remains semantic authority.
 174	174.txt	shifted_english_alignment	172	Verified by title/content during Cycle 2 Phase 3: target 174 aligns to recovered English E172 after the target-168 witness gap; Chinese remains semantic authority.
 175	175.txt	shifted_english_alignment	173	Verified by title/content during Cycle 2 Phase 3: target 175 aligns to recovered English E173 after the target-168 witness gap; Chinese remains semantic authority.
@@ -147,48 +166,6 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 200	200.txt	shifted_english_alignment	198	Verified by title/content during Cycle 2 Phase 3: target 200 aligns to recovered English E198 after the target-168 witness gap; Chinese remains semantic authority.
 201	201.txt	shifted_english_alignment	199	Verified by title/content during Cycle 2 Phase 3: target 201 aligns to recovered English E199 after the target-168 witness gap; Chinese remains semantic authority.
 202	202.txt	shifted_english_alignment	200	Verified by title/content during Cycle 2 Phase 3: target 202 aligns to recovered English E200 after the target-168 witness gap; Chinese remains semantic authority.
-203	203.txt	shifted_english_alignment	201	Verified by title/content during Cycle 2 Phase 3: target 203 aligns to recovered English E201 after the target-168 witness gap; Chinese remains semantic authority.
-204	204.txt	shifted_english_alignment	202	Verified by title/content during Cycle 2 Phase 3: target 204 aligns to recovered English E202 after the target-168 witness gap; Chinese remains semantic authority.
-205	205.txt	shifted_english_alignment	203	Verified by title/content during Cycle 2 Phase 3: target 205 aligns to recovered English E203 after the target-168 witness gap; Chinese remains semantic authority.
-206	206.txt	shifted_english_alignment	204	Verified by title/content during Cycle 2 Phase 3: target 206 aligns to recovered English E204 after the target-168 witness gap; Chinese remains semantic authority.
-207	207.txt	shifted_english_alignment	205	Verified by title/content during Cycle 2 Phase 3: target 207 aligns to recovered English E205 after the target-168 witness gap; Chinese remains semantic authority.
-208	208.txt	shifted_english_alignment	206	Verified by title/content during Cycle 2 Phase 3: target 208 aligns to recovered English E206 after the target-168 witness gap; Chinese remains semantic authority.
-209	209.txt	shifted_english_alignment	207	Verified by title/content during Cycle 2 Phase 3: target 209 aligns to recovered English E207 after the target-168 witness gap; Chinese remains semantic authority.
-210	210.txt	shifted_english_alignment	208	Verified by title/content during Cycle 2 Phase 3: target 210 aligns to recovered English E208 after the target-168 witness gap; Chinese remains semantic authority.
-211	211.txt	shifted_english_alignment	209	Verified by title/content during Cycle 2 Phase 3: target 211 aligns to recovered English E209 after the target-168 witness gap; Chinese remains semantic authority.
-212	212.txt	shifted_english_alignment	210	Verified by title/content during Cycle 2 Phase 3: target 212 aligns to recovered English E210 after the target-168 witness gap; Chinese remains semantic authority.
-213	213.txt	shifted_english_alignment	211	Verified by title/content during Cycle 2 Phase 3: target 213 aligns to recovered English E211 after the target-168 witness gap; Chinese remains semantic authority.
-214	214.txt	shifted_english_alignment	212	Verified by title/content during Cycle 2 Phase 3: target 214 aligns to recovered English E212 after the target-168 witness gap; Chinese remains semantic authority.
-215	215.txt	shifted_english_alignment	213	Verified by title/content during Cycle 2 Phase 3: target 215 aligns to recovered English E213 after the target-168 witness gap; Chinese remains semantic authority.
-216	216.txt	shifted_english_alignment	214	Verified by title/content during Cycle 2 Phase 3: target 216 aligns to recovered English E214 after the target-168 witness gap; Chinese remains semantic authority.
-217	217.txt	shifted_english_alignment	215	Verified by title/content during Cycle 2 Phase 3: target 217 aligns to recovered English E215 after the target-168 witness gap; Chinese remains semantic authority.
-218	218.txt	shifted_english_alignment	216	Verified by title/content during Cycle 2 Phase 3: target 218 aligns to recovered English E216 after the target-168 witness gap; Chinese remains semantic authority.
-219	219.txt	shifted_english_alignment	217	Verified by title/content during Cycle 2 Phase 3: target 219 aligns to recovered English E217 after the target-168 witness gap; Chinese remains semantic authority.
-220	220.txt	shifted_english_alignment	218	Verified by title/content during Cycle 2 Phase 3: target 220 aligns to recovered English E218 after the target-168 witness gap; Chinese remains semantic authority.
-221	221.txt	shifted_english_alignment	219	Verified by title/content during Cycle 2 Phase 3: target 221 aligns to recovered English E219 after the target-168 witness gap; Chinese remains semantic authority.
-222	222.txt	shifted_english_alignment	220	Verified by title/content during Cycle 2 Phase 3: target 222 aligns to recovered English E220 after the target-168 witness gap; Chinese remains semantic authority.
-223	223.txt	shifted_english_alignment	221	Verified by title/content during Cycle 2 Phase 3: target 223 aligns to recovered English E221 after the target-168 witness gap; Chinese remains semantic authority.
-224	224.txt	shifted_english_alignment	222	Verified by title/content during Cycle 2 Phase 3: target 224 aligns to recovered English E222 after the target-168 witness gap; Chinese remains semantic authority.
-225	225.txt	shifted_english_alignment	223	Verified by title/content during Cycle 2 Phase 3: target 225 aligns to recovered English E223 after the target-168 witness gap; Chinese remains semantic authority.
-226	226.txt	shifted_english_alignment	224	Verified by title/content during Cycle 2 Phase 3: target 226 aligns to recovered English E224 after the target-168 witness gap; Chinese remains semantic authority.
-227	227.txt	shifted_english_alignment	225	Verified by title/content during Cycle 2 Phase 3: target 227 aligns to recovered English E225 after the target-168 witness gap; Chinese remains semantic authority.
-228	228.txt	shifted_english_alignment	226	Verified by title/content during Cycle 2 Phase 3: target 228 aligns to recovered English E226 after the target-168 witness gap; Chinese remains semantic authority.
-229	229.txt	shifted_english_alignment	227	Verified by title/content during Cycle 2 Phase 3: target 229 aligns to recovered English E227 after the target-168 witness gap; Chinese remains semantic authority.
-230	230.txt	shifted_english_alignment	228	Verified by title/content during Cycle 2 Phase 3: target 230 aligns to recovered English E228 after the target-168 witness gap; Chinese remains semantic authority.
-231	231.txt	shifted_english_alignment	229	Verified by title/content during Cycle 2 Phase 3: target 231 aligns to recovered English E229 after the target-168 witness gap; Chinese remains semantic authority.
-232	232.txt	shifted_english_alignment	230	Verified by title/content during Cycle 2 Phase 3: target 232 aligns to recovered English E230 after the target-168 witness gap; Chinese remains semantic authority.
-233	233.txt	shifted_english_alignment	231	Verified by title/content during Cycle 2 Phase 3: target 233 aligns to recovered English E231 after the target-168 witness gap; Chinese remains semantic authority.
-234	234.txt	shifted_english_alignment	232	Verified by title/content during Cycle 2 Phase 3: target 234 aligns to recovered English E232 after the target-168 witness gap; Chinese remains semantic authority.
-235	235.txt	shifted_english_alignment	233	Verified by title/content during Cycle 2 Phase 3: target 235 aligns to recovered English E233 after the target-168 witness gap; Chinese remains semantic authority.
-236	236.txt	shifted_english_alignment	234	Verified by title/content during Cycle 2 Phase 3: target 236 aligns to recovered English E234 after the target-168 witness gap; Chinese remains semantic authority.
-237	237.txt	shifted_english_alignment	235	Verified by title/content during Cycle 2 Phase 3: target 237 aligns to recovered English E235 after the target-168 witness gap; Chinese remains semantic authority.
-238	238.txt	shifted_english_alignment	236	Verified by title/content during Cycle 2 Phase 3: target 238 aligns to recovered English E236 after the target-168 witness gap; Chinese remains semantic authority.
-239	239.txt	shifted_english_alignment	237	Verified by title/content during Cycle 2 Phase 3: target 239 aligns to recovered English E237 after the target-168 witness gap; Chinese remains semantic authority.
-240	240.txt	shifted_english_alignment	238	Verified by title/content during Cycle 2 Phase 3: target 240 aligns to recovered English E238 after the target-168 witness gap; Chinese remains semantic authority.
-241	241.txt	shifted_english_alignment	239	Verified by title/content during Cycle 2 Phase 3: target 241 aligns to recovered English E239 after the target-168 witness gap; Chinese remains semantic authority.
-242	242.txt	shifted_english_alignment	240	Verified by title/content during Cycle 2 Phase 3: target 242 aligns to recovered English E240 after the target-168 witness gap; Chinese remains semantic authority.
-243	243.txt	shifted_english_alignment	241	Verified by title/content during Cycle 2 Phase 3: target 243 aligns to recovered English E241 after the target-168 witness gap; Chinese remains semantic authority.
-244	244.txt	shifted_english_alignment	242	Verified by title/content during Cycle 2 Phase 3: target 244 aligns to recovered English E242 after the target-168 witness gap; Chinese remains semantic authority.
 203	203.txt	shifted_english_alignment	201	Verified by title/content during Cycle 2 Phase 3: target 203 aligns to recovered English E201 after the target-168 witness gap; Chinese remains semantic authority.
 204	204.txt	shifted_english_alignment	202	Verified by title/content during Cycle 2 Phase 3: target 204 aligns to recovered English E202 after the target-168 witness gap; Chinese remains semantic authority.
 205	205.txt	shifted_english_alignment	203	Verified by title/content during Cycle 2 Phase 3: target 205 aligns to recovered English E203 after the target-168 witness gap; Chinese remains semantic authority.
@@ -270,6 +247,8 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 281	281.txt	shifted_english_alignment	279	Verified by title/content during Cycle 2 Phase 3: target 281 aligns to recovered English E279 after the target-168 witness gap; Chinese remains semantic authority.
 282	282.txt	shifted_english_alignment	280	Verified by title/content during Cycle 2 Phase 3: target 282 aligns to recovered English E280 after the target-168 witness gap; Chinese remains semantic authority.
 283	283.txt	shifted_english_alignment	281	Verified by title/content during Cycle 2 Phase 3: target 283 aligns to recovered English E281 after the target-168 witness gap; Chinese remains semantic authority.
+284	284.txt	combined_partial_gap	282	Shared raw container for targets284-285 / Power Inflation (2+3), with no internal Chapter-285 heading. Target284 runs through Bartolomeo asking who in the world could frighten him; Chinese then omits the short Night Hound appearance/‘Here I am’ bridge restored only from aligned E282.
+285	284.txt	combined_no_internal_heading	283	Shared raw container for targets284-285 with no internal Chapter-285 heading. Target285 begins with Night Hound’s first red slash immediately after the localized E282 bridge and continues through Belial’s true-form reveal; Chinese Danger Rating S+ controls over E283 S.
 286	286.txt	shifted_english_alignment	284	Verified by title/content during Cycle 2 Phase 3: target 286 aligns to recovered English E284 after the target-168 witness gap; Chinese remains semantic authority.
 287	287.txt	shifted_english_alignment	285	Verified by title/content during Cycle 2 Phase 3: target 287 aligns to recovered English E285 after the target-168 witness gap; Chinese remains semantic authority.
 288	288.txt	shifted_english_alignment	286	Verified by title/content during Cycle 2 Phase 3: target 288 aligns to recovered English E286 after the target-168 witness gap; Chinese remains semantic authority.
@@ -332,41 +311,6 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 345	345.txt	shifted_english_alignment	343	Verified by title/content during Cycle 2 Phase 3: target 345 aligns to recovered English E343 after the target-168 witness gap; Chinese remains semantic authority.
 346	346.txt	shifted_english_alignment	344	Verified by title/content during Cycle 2 Phase 3: target 346 aligns to recovered English E344 after the target-168 witness gap; Chinese remains semantic authority.
 347	347.txt	shifted_english_alignment	345	Verified by title/content during Cycle 2 Phase 3: target 347 aligns to recovered English E345 after the target-168 witness gap; Chinese remains semantic authority.
-321	321.txt	shifted_english_alignment	319	Verified by title/content during Cycle 2 Phase 3: target 321 aligns to recovered English E319 after the target-168 witness gap; Chinese remains semantic authority.
-322	322.txt	shifted_english_alignment	320	Verified by title/content during Cycle 2 Phase 3: target 322 aligns to recovered English E320 after the target-168 witness gap; Chinese remains semantic authority.
-323	323.txt	shifted_english_alignment	321	Verified by title/content during Cycle 2 Phase 3: target 323 aligns to recovered English E321 after the target-168 witness gap; Chinese remains semantic authority.
-324	324.txt	shifted_english_alignment	322	Verified by title/content during Cycle 2 Phase 3: target 324 aligns to recovered English E322 after the target-168 witness gap; Chinese remains semantic authority.
-325	325.txt	shifted_english_alignment	323	Verified by title/content during Cycle 2 Phase 3: target 325 aligns to recovered English E323 after the target-168 witness gap; Chinese remains semantic authority.
-307	307.txt	shifted_english_alignment	305	Verified by title/content during Cycle 2 Phase 3: target 307 aligns to recovered English E305 after the target-168 witness gap; Chinese remains semantic authority.
-308	308.txt	shifted_english_alignment	306	Verified by title/content during Cycle 2 Phase 3: target 308 aligns to recovered English E306 after the target-168 witness gap; Chinese remains semantic authority.
-309	309.txt	shifted_english_alignment	307	Verified by title/content during Cycle 2 Phase 3: target 309 aligns to recovered English E307 after the target-168 witness gap; Chinese remains semantic authority.
-310	310.txt	shifted_english_alignment	308	Verified by title/content during Cycle 2 Phase 3: target 310 aligns to recovered English E308 after the target-168 witness gap; Chinese remains semantic authority.
-311	311.txt	shifted_english_alignment	309	Verified by title/content during Cycle 2 Phase 3: target 311 aligns to recovered English E309 after the target-168 witness gap; Chinese remains semantic authority.
-312	312.txt	shifted_english_alignment	310	Verified by title/content during Cycle 2 Phase 3: target 312 aligns to recovered English E310 after the target-168 witness gap; Chinese remains semantic authority.
-313	313.txt	shifted_english_alignment	311	Verified by title/content during Cycle 2 Phase 3: target 313 aligns to recovered English E311 after the target-168 witness gap; Chinese remains semantic authority.
-314	314.txt	shifted_english_alignment	312	Verified by title/content during Cycle 2 Phase 3: target 314 aligns to recovered English E312 after the target-168 witness gap; Chinese remains semantic authority.
-315	315.txt	shifted_english_alignment	313	Verified by title/content during Cycle 2 Phase 3: target 315 aligns to recovered English E313 after the target-168 witness gap; Chinese remains semantic authority.
-316	316.txt	shifted_english_alignment	314	Verified by title/content during Cycle 2 Phase 3: target 316 aligns to recovered English E314 after the target-168 witness gap; Chinese remains semantic authority.
-317	317.txt	shifted_english_alignment	315	Verified by title/content during Cycle 2 Phase 3: target 317 aligns to recovered English E315 after the target-168 witness gap; Chinese remains semantic authority.
-318	318.txt	shifted_english_alignment	316	Verified by title/content during Cycle 2 Phase 3: target 318 aligns to recovered English E316 after the target-168 witness gap; Chinese remains semantic authority.
-319	319.txt	shifted_english_alignment	317	Verified by title/content during Cycle 2 Phase 3: target 319 aligns to recovered English E317 after the target-168 witness gap; Chinese remains semantic authority.
-320	320.txt	shifted_english_alignment	318	Verified by title/content during Cycle 2 Phase 3: target 320 aligns to recovered English E318 after the target-168 witness gap; Chinese remains semantic authority.
-293	293.txt	shifted_english_alignment	291	Verified by title/content during Cycle 2 Phase 3: target 293 aligns to recovered English E291 after the target-168 witness gap; Chinese remains semantic authority.
-294	294.txt	shifted_english_alignment	292	Verified by title/content during Cycle 2 Phase 3: target 294 aligns to recovered English E292 after the target-168 witness gap; Chinese remains semantic authority.
-295	295.txt	shifted_english_alignment	293	Verified by title/content during Cycle 2 Phase 3: target 295 aligns to recovered English E293 after the target-168 witness gap; Chinese remains semantic authority.
-296	296.txt	shifted_english_alignment	294	Verified by title/content during Cycle 2 Phase 3: target 296 aligns to recovered English E294 after the target-168 witness gap; Chinese remains semantic authority.
-297	297.txt	shifted_english_alignment	295	Verified by title/content during Cycle 2 Phase 3: target 297 aligns to recovered English E295 after the target-168 witness gap; Chinese remains semantic authority.
-298	298.txt	shifted_english_alignment	296	Verified by title/content during Cycle 2 Phase 3: target 298 aligns to recovered English E296 after the target-168 witness gap; Chinese remains semantic authority.
-299	299.txt	shifted_english_alignment	297	Verified by title/content during Cycle 2 Phase 3: target 299 aligns to recovered English E297 after the target-168 witness gap; Chinese remains semantic authority.
-300	300.txt	shifted_english_alignment	298	Verified by title/content during Cycle 2 Phase 3: target 300 aligns to recovered English E298 after the target-168 witness gap; Chinese remains semantic authority.
-301	301.txt	shifted_english_alignment	299	Verified by title/content during Cycle 2 Phase 3: target 301 aligns to recovered English E299 after the target-168 witness gap; Chinese remains semantic authority.
-302	302.txt	shifted_english_alignment	300	Verified by title/content during Cycle 2 Phase 3: target 302 aligns to recovered English E300 after the target-168 witness gap; Chinese remains semantic authority.
-303	303.txt	shifted_english_alignment	301	Verified by title/content during Cycle 2 Phase 3: target 303 aligns to recovered English E301 after the target-168 witness gap; Chinese remains semantic authority.
-304	304.txt	shifted_english_alignment	302	Verified by title/content during Cycle 2 Phase 3: target 304 aligns to recovered English E302 after the target-168 witness gap; Chinese remains semantic authority.
-305	305.txt	shifted_english_alignment	303	Verified by title/content during Cycle 2 Phase 3: target 305 aligns to recovered English E303 after the target-168 witness gap; Chinese remains semantic authority.
-306	306.txt	shifted_english_alignment	304	Verified by title/content during Cycle 2 Phase 3: target 306 aligns to recovered English E304 after the target-168 witness gap; Chinese remains semantic authority.
-284	284.txt	combined_partial_gap	282	Shared raw container for targets284-285 / Power Inflation (2+3), with no internal Chapter-285 heading. Target284 runs through Bartolomeo asking who in the world could frighten him; Chinese then omits the short Night Hound appearance/‘Here I am’ bridge restored only from aligned E282.
-285	284.txt	combined_no_internal_heading	283	Shared raw container for targets284-285 with no internal Chapter-285 heading. Target285 begins with Night Hound’s first red slash immediately after the localized E282 bridge and continues through Belial’s true-form reveal; Chinese Danger Rating S+ controls over E283 S.
 351	351.txt	combined_no_internal_heading	349	Shared raw container for targets351-352. Target351 / Outside the Tower (1) ends after Vikir’s gigantic mental-world self rises and Amdusias realizes the five mountains are fingers; target352 begins with Amdusias’s immediate disbelief reaction.
 352	351.txt	combined_no_internal_heading	350	Shared raw container for targets351-352. Target352 begins at Amdusias’s ‘This is impossible’ reaction, covers collapse of his mental field/Hell Tree and the mass escape, and ends with Vikir emerging from the abyss in black-Sun Sword Master aura.
 353	353.txt	combined_with_embedded_boundary	351	Shared raw container for targets353-354. Target353 / Outside the Tower (3) runs through Vikir sounding the red military whistle and all Baskerville hounds assembling; the raw then contains an explicit embedded Chapter354 marker.
@@ -375,22 +319,3 @@ target_chapter	raw_file	raw_status	verified_english_mtl_chapter	notes
 386	385.txt	combined_with_embedded_boundary	384	Shared raw container for targets385-386. Target386 begins at the explicit embedded Chapter386 marker ('第386话 ... (2)') and continues through Garam's diary / guard-life / Kirko material. Chinese remains primary; local regeneration/species wording must not overwrite established Gargoyle-slot continuity.
 495	495.txt	combined_main_plus_side_story	493	Shared raw contains target495 main ending + both credit-cookie sequences through five women reaching Grave of Swords, then target496 Side Story 1. E493 embeds both the main ending and Side Stories as internal sections.
 496	495.txt	combined_embedded_side_story	493	Target496 begins at the Dark Hall 666th-floor Camus scene after target495's five-pursuer credit-cookie ending. Secondary witness is embedded E493 Side Story Chapter 1.
-49	049.txt	partial_raw_gap	49	Chinese file visibly omits the Aiyen/Ahun/husband-hunt connective block near the opening and resumes mid-explanation; restore only that localized missing passage from aligned English.
-105	105.txt	normal_shifted_alignment	104	Verified by title and full opening/closing content: The Returned Hero (1).
-106	106.txt	normal_shifted_alignment	105	Verified by contiguous title-family and full content: The Returned Hero (2).
-107	107.txt	normal_shifted_alignment	106	Verified by contiguous title-family and full content: The Returned Hero (3).
-108	108.txt	normal_shifted_alignment	107	Verified by contiguous title-family and full content: The Returned Hero (4).
-109	109.txt	normal_shifted_alignment	108	Verified by contiguous title-family and full content: The Returned Hero (5).
-110	110.txt	normal_shifted_alignment	109	Verified boundary and next-family start: The Great Banquet (1).
-111	111.txt	normal_shifted_alignment	110	Verified title-family mapping: The Great Banquet (2).
-112	112.txt	normal_shifted_alignment	111	Verified title-family mapping: The Great Banquet (3).
-113	113.txt	normal_shifted_alignment	112	Verified title-family mapping: The Great Banquet (4).
-114	114.txt	normal_shifted_alignment	113	Verified title-family mapping: The Great Banquet (5).
-115	115.txt	normal_shifted_alignment	114	Verified title-family mapping: The Great Banquet (6).
-116	116.txt	normal_shifted_alignment	115	Verified title-family mapping: The Great Banquet (7).
-117	117.txt	normal_shifted_alignment	116	Verified following-family boundary: Falling in Love (1).
-118	118.txt	normal_shifted_alignment	117	Verified title-family mapping: Falling in Love (2).
-119	119.txt	normal_shifted_alignment	118	Verified title-family mapping: Falling in Love (3).
-120	120.txt	normal_shifted_alignment	119	Verified following-family boundary: The Hunt for the Second Son (1).
-170	170.txt	partial_raw_gap	168	Chinese C170 has two visible localized omissions: most of the classmates' embarrassment/give-Vikir-space exchange, and the four black coverings recombining into the Picaresque mask. Restore only those spans from aligned E168; Chinese remains primary elsewhere.
-172	172.txt	overlap_duplicate	170	Chinese C172 begins correctly with Vikir taking Pigi's article, then accidentally repeats the end-of-C171 Pigi-arrives/newspaper-delivery block before resuming the article. Omit only that duplicated overlap; aligned E170 confirms the clean boundary.
