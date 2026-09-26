@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/048.txt` — `d6b3593e2fdb18e22f3279872afa515c1f7d6e18`
 - Recovered English reference: `source/chapters/chapter-048.xhtml` — `4d2f292ef1a7fc3701b1af13874a27d1b2d2fe81`
-- Draft: `manuscript/drafts/chapter-0048.md` — `11125e08c987906ac3f57329afa6c9b88681683a`
+- Draft: `manuscript/drafts/chapter-0048.md` — `07b3aca8dac1093c236a062cf8bf017b73f49b3c`
 
 ## Alignment
 
@@ -32,3 +32,11 @@ Target 48 → recovered English 48 is verified by the complete sequence: Vikir r
 ## Explicitness / spoiler check
 
 The slave-auction connection and Camus's captivity are preserved, not sanitized. No later Aiyen relationship, parentage, title succession, or romance material is imported.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Corrected Lowbro's injury callback from unsupported plural “fingers” to the continuity-supported single right index finger. The complete 46–51 family was reread after repair; no additional ordinary Chapter 48 defect remains.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 46–51 family QA.
