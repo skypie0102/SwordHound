@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/216.txt` — `9875b18d523a76af9badd29fb628ae8c8115ad35`
 - English witness: **E214** — `38f1b15abb70137ed362ccdf4e306dc4c03bf15c`
-- Draft: `manuscript/drafts/chapter-0216.md` — `fb00700ca836c5c6ed586a0fef0c05d1a70d5f75`
+- Draft: `manuscript/drafts/chapter-0216.md` — `871c95c698d480a4ae43a3576431028e8c34d5f4`
 
 ## Checks
 - PASS — **first explicit source identification** of the Corpse Queen as **Camus Morgue** occurs here, not earlier.
@@ -23,3 +23,14 @@
 - PASS — Vikir's hesitation reconnects directly to the Sixth-Fang/Seventh-Fang emotion paradox.
 - PASS — midnight ends Camus's half-day control and Seere forcibly takes the body, impaling Vikir.
 - PASS — Seere window remains Eighth Corpse / Danger S+ / Serpent's Womb / Ten Commandments line.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source's actual retrospective clue: the Corpse Queen showed unusual anger at the crazed court mage, plausibly tied to losing Vikir and Rosie; removed the substituted Ballak-archery clue.
+
+The complete *My Neck Will Be Your Sheath* family was reread after remediation. Chapter 218 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **216→E214 through 219→E217**; target 220/E218 begins *That Day, Him and Me (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed family QA.
