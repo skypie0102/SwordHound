@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/072.txt` — `8cf8c0385d0680afc3eb1148653abeac43ce12d9`
 - Recovered English witness: **E71** `source/chapters/chapter-071.xhtml` — `bbee450f38deaf7753263cc92cff28fc1d54e09e`
-- Draft: `manuscript/drafts/chapter-0072.md` — `194916079b9a805456013237aec4ef05f389b071`
+- Draft: `manuscript/drafts/chapter-0072.md` — `dbeabf8fd8e4ed408dbaeef1b7253574c16ffd1e`
 
 ## Alignment
 
@@ -34,3 +34,14 @@ Target 72 → E71 is verified by the complete sequence: Vikir recalls the histor
 ## Corruption / chronology check
 
 Recovered-English pronoun drift and awkward epidemiological wording do not control the prose. Later exact Red Death origin/Leviathan mastermind details remain chronology-blocked.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source's **more than 40%** indigenous mortality figure and explicit comparison to the Empire's **Black Death**. Operational pathogen/testing details remain at the already accepted non-operational coverage level.
+
+Sanitization fidelity and completeness were rerun across the complete Red Death (72–74) family after the repairs. The shifted witness mapping remains **72→E71, 73→E72, 74→E73**, and target 75/E74 begins *The Hound of the Night (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Red Death family QA.
