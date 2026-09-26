@@ -94,7 +94,7 @@ Large mouth.
 
 His eyes bent slightly as though smiling, but nothing about his presence felt gentle.
 
-He carried a massive holy book in arms thick as logs.
+He carried a massive holy book weighing dozens of kilograms in arms thick as logs.
 
 Vikir recognized him immediately.
 
