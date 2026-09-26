@@ -10,9 +10,9 @@
 |---|---|---|---|---|---|
 | 245 | `afea866ef9d8266e2d34944b884659a4a07b5094` | E243 | `c3602d3f34a1750197010232d1866eeeade2773c` | `bff76a5869155a0343301d48d90a9a69157f2323` | `d7092afd3aa74b4b6374ad5864e2060db5b58865` |
 | 246 | `040f3638a11fa3f5e028302678873975a897823f` | E244 | `c505766d4fe4eee5980b042626d46f6e31220c9d` | `c7d0c8408ba91cd7a289612058305deca15f4ae2` | `d4ea1202f5e24cbb54ae13d07b37dd8d457c0f33` |
-| 247 | `f4978db3c27649f2cc606f9497a47433b3263027` | E245 | `ec107d03414ac032b0dbc5fc19f738c64df25ad1` | `2d8802daa24a28bb65afe1f8844032f31dbd00ae` | `69875bcbfaaf950eb44153dc313e963a0b7f36aa` |
+| 247 | `f4978db3c27649f2cc606f9497a47433b3263027` | E245 | `ec107d03414ac032b0dbc5fc19f738c64df25ad1` | `4354258f3985222f9f16eca7d0ab08e236d289e9` | `4c90c9e51f163fccbe20f605cce06b4b0d173db8` |
 | 248 | `b8ca5935e21992596579d6773f2960232c3b1b02` | E246 | `7b0116d6be1fa8a6d9b32515afa7369e764cea25` | `0d72f1a2c0717384a39d82c799cca5b062304cf1` | `72486e932b358957283978db57bc39a5277a3f48` |
-| 249 | `5034a52e538b9562aa741caa36cab2257dbcea24` | E247 | `c9f2667b1b39ce185a3bbe6515979d5689477177` | `40b9bdeb9bd3b593d49dcb17500ed48380f34432` | `9b9a5ccea651112858e052fe8747590f7aa2ee33` |
+| 249 | `5034a52e538b9562aa741caa36cab2257dbcea24` | E247 | `c9f2667b1b39ce185a3bbe6515979d5689477177` | `028ed014efd69bd55f70c24057cf1238566c5586` | `8bd8ed88c0ced90f4ff0532ef9ed52feb76db2b8` |
 | boundary 250 | `d7f5c33b3530b223aec8aa06abede7a38013e86d` | E248 | `c446be097b98c0609a35450640038009a0b502d1` | next family | next family |
 
 Mapping: **245→E243 through 249→E247**.
@@ -59,3 +59,18 @@ Verified following sequence:
 ## Family verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 247 restores the red stew mark at the corner of Dolores's mouth while she eats ravenously.
+- Chapter 249 restores Dolores's explicit **“I’d rather kill myself!”** panic thought, Bakilaga's direct childhood pants-soiling empathy, and the source's ice-cold-dagger-to-heart metaphor for Vikir's “Shit-pants” insult.
+- Chapters 245, 246, and 248 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 245–249 after repair.
+- Shifted mapping remains **245→E243 through 249→E247**; target 250/E248 begins *Recap (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear. *Recap (250–252)* has no Phase-4 remediation targets; continue to the next affected family, **Five Stars (253–254)**, with remediation target Chapter **254**.
