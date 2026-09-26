@@ -1607,7 +1607,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "exception-documented",
+      "boundary_alignment_status": "fail",
       "sanitization_review_file": "qa/cycle2/sanitization/national-university-league-0236-0244.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -1622,7 +1622,10 @@
         241
       ],
       "boundary_review_file": "qa/cycle2/boundary/national-university-league-0236-0244.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "boundary_failures": [
+        236
+      ]
     },
     {
       "index": 59,
@@ -17045,10 +17048,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "exception-documented",
+      "boundary_alignment_status": "fail",
       "findings": [
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
-        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
+        "Cycle 2 Phase 3 FAIL: target 236 currently duplicates/displaces Decarabia explanatory material that belongs to Chinese Chapter 241 (other demon forms and the prior four-academy attack rationale); the same material remains in target 241. Repair is deferred to Phase 4."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -35947,12 +35950,12 @@
     "status": "active",
     "boundary_alignment_reviewed_count": 269,
     "boundary_alignment_pass_count": 53,
-    "boundary_alignment_fail_count": 0,
-    "boundary_alignment_exception_documented_count": 216,
+    "boundary_alignment_fail_count": 1,
+    "boundary_alignment_exception_documented_count": 215,
     "families_reviewed_count": 65,
     "families_pass_count": 14,
-    "families_fail_count": 0,
-    "families_exception_documented_count": 51,
+    "families_fail_count": 1,
+    "families_exception_documented_count": 50,
     "manuscript_edits_during_review": 0,
     "new_source_exception_rows": 208,
     "next_family": {
