@@ -2,8 +2,8 @@
   "chapter": 173,
   "title": "The Anti-Columnist (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Anti-Columnist",
     "range": [
@@ -11,8 +11,8 @@
       175
     ],
     "family_qa_path": "qa/families/anti-columnist-0172-0175.md",
-    "family_qa_sha": "dfc148fb2e8dde04577e41a680c38423e1a006c1",
-    "status": "pass"
+    "family_qa_sha": "55facfe2179c0304cdaef36069c34d2511882119",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/173.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0173.md",
     "qa_sha": "73840cbb298f8227e2afbdea16117ce34b593fb4",
     "provenance_path": "editorial/provenance/chapter-0173.json",
-    "provenance_sha": "f4bf1bc6a1e3a45db921059a1a96b06bcf93ae1e"
+    "provenance_sha": "e7e8e0bb8778fc67f3026f65ac01b6cf6360ec6a"
   },
   "canonical_checks": [
     "Professor Banshee Morgue",
@@ -39,5 +39,12 @@
     "Graduate-school invitation is source comedy, not enrollment.",
     "Sinclaire remains female despite witness pronoun drift."
   ],
-  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1)."
+  "next_family_alignment_note": "The 99 Hits With 100 Shots targets176-178: 176→E174,177→E175,178→E176. Target179→E177 begins Midterm Random Defense (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
