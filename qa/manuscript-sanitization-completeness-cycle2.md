@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 104/273 remediation chapters complete; next affected family Tuition (225–233)
+**Current stage:** Phase 4 ACTIVE — 109/273 remediation chapters complete; next affected family Suspicion (234–235)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 104  
-**Remaining remediation chapters:** 169  
-**Completed affected families:** 36  
-**Current next family:** Tuition (225–233)  
-**Earliest remaining target:** Chapter 225
+**Completed remediation chapters:** 109  
+**Remaining remediation chapters:** 164  
+**Completed affected families:** 37  
+**Current next family:** Suspicion (234–235)  
+**Earliest remaining target:** Chapter 234
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,11 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Tuition (225–233)**.
-2. Reread the complete family and remediate queued Chapters **225, 229, 230, 231, and 232** from Chinese-primary source.
-3. Re-run both primary gates across all nine chapters and refresh all evidence/hash bindings.
-4. Keep EPUB assembly blocked.
+1. Continue Phase 4 with **Suspicion (234–235)**.
+2. Repair all source-supported queued defects after a complete-family reread.
+3. Re-run both primary gates and refresh all evidence/hash bindings.
+4. Continue to **National University League (236–244)** after Suspicion closes.
+5. Keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-27
@@ -190,12 +191,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **104**;
-- remaining remediation chapters: **169**;
-- affected families completed: **36**;
-- manuscript edits: **104**;
-- last completed affected family: **That Day, Him and Me (220–224)**;
-- next affected family: **Tuition (225–233)**;
-- earliest remaining target: **225**;
-- all completed affected families through Chapter 224 have refreshed evidence/hash bindings;
+- completed remediation chapters: **109**;
+- remaining remediation chapters: **164**;
+- affected families completed: **37**;
+- manuscript edits: **109**;
+- last completed affected family: **Tuition (225–233)**;
+- next affected family: **Suspicion (234–235)**;
+- earliest remaining target: **234**;
+- all completed affected families through Chapter 233 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
