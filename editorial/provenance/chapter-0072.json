@@ -9,7 +9,7 @@
       74
     ],
     "family_qa_path": "qa/families/red-death-0072-0074.md",
-    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "family_qa_sha": "1f6270b8bb0f4cd58054e60039728720f28a5544",
     "status": "pass"
   },
   "primary_source": {
@@ -53,11 +53,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0072.md",
-    "blob_sha": "194916079b9a805456013237aec4ef05f389b071"
+    "blob_sha": "dbeabf8fd8e4ed408dbaeef1b7253574c16ffd1e"
   },
   "qa": {
     "path": "qa/chapter-0072.md",
-    "blob_sha": "6015dc76bd76c542d457a58681f6faec677818ff",
+    "blob_sha": "c44d18b718a877c8ddde12c82ab08eda9c4a58bc",
     "status": "pass"
   },
   "documented_decisions": [
@@ -88,5 +88,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      72,
+      74
+    ],
+    "manuscript_changed": true,
+    "note": "restored over-40% mortality and explicit Black Death comparison"
+  }
 }
