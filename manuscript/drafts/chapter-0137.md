@@ -274,7 +274,7 @@ everyone chased it.
 
 “Wait.”
 
-“Is the other guy okay?”
+“Won't the guy Sancho hit die?”
 
 “Who cares?”
 
