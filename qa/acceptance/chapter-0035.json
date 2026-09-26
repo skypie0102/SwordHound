@@ -2,16 +2,46 @@
   "chapter": 35,
   "title": "Slave Auction (1)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Slave Auction","range":[35,37],"family_qa_path":"qa/families/slave-auction-0035-0037.md","family_qa_sha":"cf32e938cae2abdd3cc1892463b5edaf56b9ffba","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/035.txt","primary_source_sha":"6923567bc4710210eaac4dc6b7252d56ea557b7e",
-    "english_reference_path":"source/chapters/chapter-035.xhtml","english_reference_sha":"4817a300dea855bc448be223b70c84d69e1ff43f",
-    "draft_path":"manuscript/drafts/chapter-0035.md","draft_sha":"4334e13c2cb25b322af22f13cd90698d44b68026",
-    "qa_path":"qa/chapter-0035.md","qa_sha":"c6bf9e8d3abf1991ec1d306cc1305463731d7e4e",
-    "provenance_path":"editorial/provenance/chapter-0035.json","provenance_sha":"7cb1ad4725cd114ad3fdf91410d87127e761a333"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Slave Auction",
+    "range": [
+      35,
+      37
+    ],
+    "family_qa_path": "qa/families/slave-auction-0035-0037.md",
+    "family_qa_sha": "273889a0456685494cd0ce03c478d48f4ca1dc22",
+    "status": "pass"
   },
-  "canonical_checks": ["Underdog City","Freak Show source phrase","Infernal Buffalo Murcielago source/aligned witness","Aiyen identity withheld"],
-  "documented_limits": ["Chinese Ch.35 heading is anomalous; production title is resolved from numbered family continuity.","Murcielago exact spelling is not claimed as a dedicated Fandom-canonical monster entry.","The tribal girl's later canonical identity is intentionally withheld to preserve reveal chronology."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/035.txt",
+    "primary_source_sha": "6923567bc4710210eaac4dc6b7252d56ea557b7e",
+    "english_reference_path": "source/chapters/chapter-035.xhtml",
+    "english_reference_sha": "4817a300dea855bc448be223b70c84d69e1ff43f",
+    "draft_path": "manuscript/drafts/chapter-0035.md",
+    "draft_sha": "d1097673dedb3f9e694a55bdcf3c4fc20f23f538",
+    "qa_path": "qa/chapter-0035.md",
+    "qa_sha": "c81d899cbc691cb6bdacb7cdc4379acf83808dc2",
+    "provenance_path": "editorial/provenance/chapter-0035.json",
+    "provenance_sha": "4d94c143bd7e99f0cb27ba8619c0d592a20038d4"
+  },
+  "canonical_checks": [
+    "Underdog City",
+    "Freak Show source phrase",
+    "Infernal Buffalo Murcielago source/aligned witness",
+    "Aiyen identity withheld"
+  ],
+  "documented_limits": [
+    "Chinese Ch.35 heading is anomalous; production title is resolved from numbered family continuity.",
+    "Murcielago exact spelling is not claimed as a dedicated Fandom-canonical monster entry.",
+    "The tribal girl's later canonical identity is intentionally withheld to preserve reveal chronology."
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "removed unsupported audience-reaction intensification"
+  }
 }
