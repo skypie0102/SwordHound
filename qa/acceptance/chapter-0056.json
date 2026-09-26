@@ -2,8 +2,8 @@
   "chapter": 56,
   "title": "The Hunter and the Hunted (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -11,7 +11,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0056.md",
     "draft_sha": "ffa0d115bc4ab4ce7f147ad8e0755eb8d4a08694",
     "qa_path": "qa/chapter-0056.md",
-    "qa_sha": "cfb11c27d12eccfa7ceb398cf45e6b7594c92b9d",
+    "qa_sha": "6acc51fe8b587a52a12415f610aca46e3cfe16f8",
     "provenance_path": "editorial/provenance/chapter-0056.json",
-    "provenance_sha": "8c5ad427e6fb4f237e3e8589c9675101d79da026"
+    "provenance_sha": "87e0aa6ca83eada7767bdde68b704fc47c8e6e85"
   },
   "canonical_checks": [
     "Aiyen",
@@ -39,5 +39,12 @@
     "Recovered-English gender corruption does not control semantics.",
     "Aiyen's wound/archery contact is non-erotic.",
     "The observed old female is exceptional and larger than the standard Oxbear window."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no ordinary manuscript correction required"
+  }
 }
