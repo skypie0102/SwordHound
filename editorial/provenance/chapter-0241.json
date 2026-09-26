@@ -9,8 +9,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "ce33215a3f9e3fa718d7c3234749dfa9879df3b9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/241.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0241.md",
-    "blob_sha": "bce5a295ea534b287671a3f64463d0ed9dc0ee6a"
+    "blob_sha": "7002af382db505ad001afddf9c5e4f983fe671e4"
   },
   "qa": {
     "path": "qa/chapter-0241.md",
-    "blob_sha": "73a629ead99189aceb1ede76d240a6b5978ed0c8",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "de9e9db25796f285650463154bdf49117d35b5da",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -50,7 +50,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/245.txt",
     "chinese_sha": "afea866ef9d8266e2d34944b884659a4a07b5094",
@@ -74,5 +74,16 @@
     "status": "verified",
     "final": "Charge 70% of original lodging fee (30% discount).",
     "basis": "Chinese C241"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      236,
+      244
+    ],
+    "manuscript_changed": true,
+    "note": "restored Sinclaire's genuine fear and near-suffocation reaction to Lovegood's pressure"
   }
 }
