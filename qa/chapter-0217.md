@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/217.txt` — `938e3e6279d82a515e2a746207b67f57cbb418e7`
 - English witness: **E215** — `1d0cde61f3f2971d05546ffca54359daa43d6639`
-- Draft: `manuscript/drafts/chapter-0217.md` — `d4b53a7ba674eb2c790437c84165444c0bfdd2a8`
+- Draft: `manuscript/drafts/chapter-0217.md` — `b0ebe27355764d4b559b3d6f7fdac59201f18955`
 
 ## Checks
 - PASS — Seere calls Camus a **roommate**, distinguishing this contract from ordinary host/vessel possession.
@@ -21,3 +21,14 @@
 - PASS — Anubis and Baby Madam work together; the silk trap can resist even Demon King-level force long enough to create an opening.
 - PASS — Vikir shoots Seere's limbs to impair movement rather than injuring Camus lethally.
 - PASS — chapter ends with Seere's “Camus dies too” threat and Vikir's response: **“Only you will die.”**
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source's mana-surge mechanics: danger exceeding cerebral infarction/hemorrhage and accumulated mana erupting through pores across the entire body at once in a terrifying explosion.
+
+The complete *My Neck Will Be Your Sheath* family was reread after remediation. Chapter 218 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **216→E214 through 219→E217**; target 220/E218 begins *That Day, Him and Me (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed family QA.
