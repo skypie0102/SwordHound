@@ -20,7 +20,9 @@
 **Wave-A merge commit:** 8489281a01b025c5effabb172545fc110fc82ae9  
 **Phase-2 integration:** PR #147 MERGED  
 **Phase-2 integration merge commit:** 3c36802516de03e0d2180392ac0e8e4747261ce5  
-**Phase-3 working branch:** `audit/cycle2-phase3-boundary`
+**Phase-3 integration:** PR #149 MERGED  
+**Phase-3 integration merge commit:** b94da82d837d73e3dba76975d26f70765b5a1ad2  
+**Phase-4 working branch:** `audit/cycle2-phase4-remediation`
 
 ## Why the project focus changed
 
