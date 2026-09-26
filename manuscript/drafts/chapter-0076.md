@@ -168,9 +168,11 @@ Rumor had spread that **Dolores L. Quovadis** was staying in Saint Mecca during 
 
 Direct-line Quovadis.
 
+A young house head within the family.
+
 Saintess.
 
-A student at Colosseo Academy.
+A **second-year** student at Colosseo Academy.
 
 Already vice president of the student council.
 
