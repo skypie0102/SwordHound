@@ -1,5 +1,22 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 306
+
+Repository/ledger reconciliation found the chat and several live docs stale. The authoritative Phase-3 ledger was already at Chapter 292; review then continued through Chapter 306.
+
+- boundary/alignment reviewed: **306 / 500**;
+- PASS: **53**;
+- FAIL: **3** — Chapters **236, 273, 283**;
+- EXCEPTION-DOCUMENTED: **250**;
+- title families reviewed: **73 / 118**;
+- new source-exception rows: **243**;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0306.md`;
+- next family: **Hell Tree (307–313)**.
+
+The three structural FAILs are duplicated/displaced-content defects and remain deferred to Phase 4. The recovered-English witness remains two chapters behind after the target-168 witness gap. Historical `Last Semester` QA was also corrected to identify target 299 as *The Age of the Warmonger (1)*.
+
+
 ## 2026-09-26 — Cycle 2 Phase 3 cleared Chapters 1–25
 
 Phase-3 structural revalidation is underway on `audit/cycle2-phase3-boundary`.
