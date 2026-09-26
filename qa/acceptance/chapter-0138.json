@@ -2,8 +2,8 @@
   "chapter": 138,
   "title": "Test Your Skills (6)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Test Your Skills",
     "range": [
@@ -11,8 +11,8 @@
       138
     ],
     "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
-    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
-    "status": "pass"
+    "family_qa_sha": "dd2dcd14a16c827655d6d39887900d785b46feff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/138.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-137.xhtml",
     "english_reference_sha": "158084369fc1fb1a8850fbeeaa56a23a2c2b6820",
     "draft_path": "manuscript/drafts/chapter-0138.md",
-    "draft_sha": "fc2d439fc5c2a83b76640d055bc1f41e5a467f57",
+    "draft_sha": "9bc3efd6d212ac22e6ad3df3347e634617225fa7",
     "qa_path": "qa/chapter-0138.md",
-    "qa_sha": "271010c5ee4fdd38bf10ee18ef67fcf09f84b6d2",
+    "qa_sha": "12f50574b2ddb82df8863ae88fa791225461cccb",
     "provenance_path": "editorial/provenance/chapter-0138.json",
-    "provenance_sha": "ca110af8d069f5f78029e428c414ab00bb9c841e"
+    "provenance_sha": "6b1fbe8e3d704b24bd4c7ffd5b918bc3a0329e28"
   },
   "canonical_checks": [
     "Professor Banshee Morgue",
@@ -35,8 +35,16 @@
     "Hot Department"
   ],
   "documented_limits": [
-    "Appearance gossip is retained without erotic expansion.",
     "Second-stinger explanation is reserved for target139.",
-    "No Men are Power material is imported."
-  ]
+    "No Men are Power material is imported.",
+    "Crowd attraction/objectification is restored at a stronger source-faithful but non-explicit level.",
+    "Venomphion tail-venom lethality is preserved as exactly 44 people per drop."
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored broader non-explicit attraction/search reaction and exact 44-person venom figure"
+  }
 }
