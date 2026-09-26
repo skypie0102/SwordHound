@@ -9,7 +9,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "primary_source": {
@@ -69,11 +69,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0079.md",
-    "blob_sha": "39084d413ac4f670cb1887da6e81608dd5857980"
+    "blob_sha": "d5e7d2cb949fa1ebc2b07d24a48de128500d10a6"
   },
   "qa": {
     "path": "qa/chapter-0079.md",
-    "blob_sha": "f6891e843279bd7c27626c59e5841e2f24834709",
+    "blob_sha": "0a90af3ed337a7724f66f42a3f0babba16828ec2",
     "status": "pass"
   },
   "documented_decisions": [
@@ -104,5 +104,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      78,
+      82
+    ],
+    "manuscript_changed": true,
+    "note": "restored over-40% mortality and dozens-strong paladin/priest relief scale; underage sexualized framing remains safety-limited"
+  }
 }
