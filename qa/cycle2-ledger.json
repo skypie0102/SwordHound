@@ -465,7 +465,15 @@
         60
       ],
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        55,
+        60
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 55 and 60 were remediation targets; Chapters 56–59 were family-revalidated unchanged."
     },
     {
       "index": 18,
@@ -6602,8 +6610,8 @@
         "Cycle 2 Phase 1 safety-limited review: restricted underage body-contact/reproductive material was not treated as an ordinary restoration target; surrounding nonsexual violence/hunting content was reviewed.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the Chinese shaman says hunters must receive his blessing or he will ring the warning bell; the draft replaces that action with an unsupported threat to 'curse the lot of you.'"
@@ -6611,7 +6619,11 @@
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 56,
@@ -6667,7 +6679,11 @@
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 57,
@@ -6727,7 +6743,11 @@
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 58,
@@ -6787,7 +6807,11 @@
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 59,
@@ -6847,7 +6871,11 @@
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 60,
@@ -6899,8 +6927,8 @@
         "Separate safety-limited note applies to the closing underage material.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hunter-hunted-0055-0060.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: eye/nerve churning is generalized to nerve damage, Vikir's high-ranking-demon predator comparison is omitted, and the brain burned to a charred ruined state is softened to being 'cooked through.'"
@@ -6908,7 +6936,11 @@
       "completeness_review_file": "qa/cycle2/completeness/hunter-hunted-0055-0060.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/hunter-hunted-0055-0060.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 61,
@@ -37824,22 +37856,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 10,
-    "remediation_remaining_chapters": 263,
-    "families_completed": 5,
+    "remediation_completed_chapters": 12,
+    "remediation_remaining_chapters": 261,
+    "families_completed": 6,
     "last_completed_family": {
-      "name": "Slaves of the Savage Tribe",
-      "start": 52,
-      "end": 54
-    },
-    "next_family": {
       "name": "The Hunter and the Hunted",
       "start": 55,
       "end": 60
     },
-    "earliest_remediation_chapter": 55,
-    "manuscript_edits": 11,
-    "evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, and Slaves of the Savage Tribe 52-54 complete",
+    "next_family": {
+      "name": "The Protagonist of Hunting",
+      "start": 61,
+      "end": 63
+    },
+    "earliest_remediation_chapter": 61,
+    "manuscript_edits": 13,
+    "evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, and The Hunter and the Hunted 55-60 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
