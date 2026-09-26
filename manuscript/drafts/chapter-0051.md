@@ -290,7 +290,7 @@ And finally, Camus.
 
 “...”
 
-Her face was covered in tears. Her voice had gone hoarse from screaming.
+Her face was covered in tears, snot running from her nose. Her voice had gone hoarse from screaming.
 
 She reached toward Vikir again and again, but Adolf's arms held her securely as he ran.
 
