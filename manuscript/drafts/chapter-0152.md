@@ -204,7 +204,7 @@ Sinclaire—
 
 normally a flawless model student in a neatly arranged uniform—
 
-was wearing loose sleepwear.
+was wearing a loose tank top and shorts.
 
 The boys began whispering.
 
@@ -356,7 +356,7 @@ during long periods of waiting—
 
 there was often nothing else to play.
 
-*…I played this until I was sick of it in the trenches at Hill Seven on the Western Front.*
+*…I played this until I was sick of it during the five-minute waiting periods in the trenches at Hill Seven on the Western Front.*
 
 Long wars contained long stretches of boredom.
 
