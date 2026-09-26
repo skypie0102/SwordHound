@@ -9,7 +9,7 @@
       74
     ],
     "family_qa_path": "qa/families/red-death-0072-0074.md",
-    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "family_qa_sha": "1f6270b8bb0f4cd58054e60039728720f28a5544",
     "status": "pass"
   },
   "primary_source": {
@@ -50,11 +50,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0074.md",
-    "blob_sha": "7693e61cba97e5a84c8b2c864e91cdf7784d31f1"
+    "blob_sha": "6ae1047f69074da770c16d0d247279d025d5831f"
   },
   "qa": {
     "path": "qa/chapter-0074.md",
-    "blob_sha": "8590cd22276c47218e19c1a13a1b9db02a609f87",
+    "blob_sha": "3260f84309e48e6d1163181ca95b0014945129ea",
     "status": "pass"
   },
   "documented_decisions": [
@@ -90,5 +90,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      72,
+      74
+    ],
+    "manuscript_changed": true,
+    "note": "restored Ah'Heman spitting at Aheul's face"
+  }
 }
