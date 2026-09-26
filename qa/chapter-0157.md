@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/157.txt` — `7e5e07fa00343da715752b93615d4d7ed20c8ca1`
 - English witness: **E156** — `a8440def843925046fab5c6beff350b826e95fe4`
-- Draft: `manuscript/drafts/chapter-0157.md` — `0dc5ad3142fe6732d7367eb9f3a7a46d6648b525`
+- Draft: `manuscript/drafts/chapter-0157.md` — `62a92764f5a52e98cb163e6f409515dc60a39694`
 - Boundary: C158 — `d0677ff2c2c232ad017287dd0223f04b90a00d3f` / E157 — `91d67d8d59d68825a4779fe641605572fdff43ab` begin **Familiar Face (1)**.
 
 ## Checks
@@ -23,3 +23,14 @@
 - PASS — strange breathing invokes Rule 6 while they stand in the Rule 4/14 emergency stairwell.
 - PASS — **Ephebo** is source-revealed at the close as the first of Quilt's high-ranking undead guards to appear in this sequence; he is not promoted to Ten Corpse status.
 - PASS — target 158 cleanly begins **Familiar Face (1)**.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source's **heart-flutter** reaction to Vikir's calm/soaked-pants contrast, the exaggerated **change his diaper and breastfeed him** maternal joke, and Dolores's **heart-stirring** reaction to the Night Hound.
+
+The complete How to Keep Your Night Shift Employees Safe family was reread after remediation. Shifted mapping remains **155→E154, 156→E155, 157→E156**; target 158/E157 begins *Familiar Face (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed family QA.
