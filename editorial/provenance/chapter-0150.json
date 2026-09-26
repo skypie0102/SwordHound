@@ -9,8 +9,8 @@
       151
     ],
     "family_qa_path": "qa/families/not-brother-0150-0151.md",
-    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
-    "status": "pass"
+    "family_qa_sha": "15cad6ea7568accd69826f72362bd75a247fa29a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/150.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0150.md",
-    "blob_sha": "93bbe3a2c57b5c15be4e524b74eca06c8c8caf48"
+    "blob_sha": "067f0b1fa64d47836c55006e138b4aa5a8d82563"
   },
   "qa": {
     "path": "qa/chapter-0150.md",
-    "blob_sha": "70b5a5c20e44c5e4c5b775b1948bca2c07a8cd53",
-    "status": "pass"
+    "blob_sha": "3a7657d6c8a99630fae7d5f6b6832bbcc452770a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/152.txt",
     "chinese_sha": "d6fc3f4922a2a3f57c66ece2faa68efa4030859e",
     "english_path": "source/chapters/chapter-151.xhtml",
     "english_sha": "55107beb518be3473b627551ec88399ce113f688",
     "purpose": "both begin The Drinking Game (1), target152"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      150,
+      151
+    ],
+    "manuscript_changed": true,
+    "note": "restored tears-and-runny-nose donation reaction"
   }
 }
