@@ -9,8 +9,8 @@
       215
     ],
     "family_qa_path": "qa/families/festival-night-0206-0215.md",
-    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
-    "status": "pass"
+    "family_qa_sha": "d9231075caf781e936b143162cac595cd022fa76",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/207.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0207.md",
-    "blob_sha": "18e6c64c52de518629988600f4729fd1d9b7a063"
+    "blob_sha": "33d5e5d4904e92f8515a3372619c2e082dfb4f43"
   },
   "qa": {
     "path": "qa/chapter-0207.md",
-    "blob_sha": "4085be3f7fdb78590e76c1497832fd379e30b4cb",
-    "status": "pass"
+    "blob_sha": "33309a8d81b0a5c79650ebcda8c8a32a691dae11",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/216.txt",
     "chinese_sha": "9875b18d523a76af9badd29fb628ae8c8115ad35",
     "english_path": "source/chapters/chapter-214.xhtml",
     "english_sha": "38f1b15abb70137ed362ccdf4e306dc4c03bf15c",
     "purpose": "both begin My Neck Will Be Your Sheath (1); C216 first explicitly names Corpse Queen as Camus Morgue"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      206,
+      215
+    ],
+    "manuscript_changed": true,
+    "note": "restored swapped slogan, three-to-one-ton beat, and witch/food-control image"
   }
 }
