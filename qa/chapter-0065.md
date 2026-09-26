@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/065.txt` — `aa4cf365529795b9642b925c64ceebb393f978c9`
 - Recovered English witness: **E64** `source/chapters/chapter-064.xhtml` — `d0e7b5a3e18de27d5cd4a6604d0e1bcdbe298f14`
-- Draft: `manuscript/drafts/chapter-0065.md` — `ebd844a6441338d2cc37fafd9fb47a340d0ab9d1`
+- Draft: `manuscript/drafts/chapter-0065.md` — `e51b2678b73446af642fd30c14086b5697ffb010`
 
 ## Alignment
 
@@ -19,7 +19,7 @@ Target 65 → E64 is verified by complete sequence: “trade is void” continua
 - PASS — Vikir's commercial expertise is tied to his former deputy-magistrate work in **Underdog City**.
 - PASS — he contemplates a future fair trade route through **Cindywendy** rather than pretending the Bourgeois caravan is indispensable.
 - PASS — seeds were deliberately heated so they would not germinate, keeping Ballak dependent on repeat purchases.
-- PASS — glass beads/brooches/necklaces/perfume/cosmetics contain a cheap narcotic designed to produce mild intoxication, sleep, and pleasant dreams while damaging health with long exposure.
+- PASS — glass beads/brooches/necklaces/perfume/cosmetics contain a cheap narcotic designed to produce mild intoxication, sleep, and pleasant dreams while seriously damaging health with long exposure; the source's severe debilitation, later-generation congenital harm, and possible death consequences are retained.
 - PASS — Vikir questions whether Baskerville/Morgue authorities may have tolerated the weakening strategy but does not establish that as fact.
 - PASS — **Vikir's Special Law** is retained as the merchants' ironic legal reference; Vikir does not reveal his identity in this scene.
 - PASS — Aiyen learns the tribe's supposed curse/plague symptoms are at least partly merchant-drug effects and drives the caravan out.
@@ -31,3 +31,14 @@ Target 65 → E64 is verified by complete sequence: “trade is void” continua
 ## Explicitness / chronology check
 
 The merchants' earlier racist/sexual abuse is referenced as misconduct without reproducing gratuitous content. Later disease revelations concerning Aheul are chronology-blocked.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The draft now restores the source's concrete long-term narcotic consequences rather than reducing them to generic chronic illness: severe physical debilitation, congenital harm in a later generation, and possible death. Vikir's strategic inference that such intergenerational weakening could benefit the Empire remains explicitly an inference, not an established conspiracy.
+
+The complete chapter was reread against C065 after the repair. The heated-seed dependency scheme, narcotic delivery mechanism, legal confrontation, Aheul reveal, Ahun gratitude, and night-attack transition remain complete.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Chapters 64–67 family QA.
