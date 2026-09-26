@@ -330,7 +330,7 @@ they were afraid.
 
 Before Vikir's intervention—
 
-they bullied juniors.
+they humiliated and tormented juniors.
 
 Peers.
 
@@ -346,7 +346,21 @@ Against authority—
 
 they crawled.
 
-Fear had made them cautious.
+After the masked beating—
+
+they could not even identify who might have arranged it.
+
+They had created too many victims.
+
+Too many possible sources of revenge.
+
+So every day—
+
+they were forced to revisit their own past cruelty,
+
+wondering when and from where retaliation might come.
+
+Fear made them cautious.
 
 Not decent.
 
@@ -374,7 +388,7 @@ The six surrounded him.
 
 “Tie it up.”
 
-“Burn it.”
+“Burn it alive.”
 
 “Throw it into the sewer.”
 
