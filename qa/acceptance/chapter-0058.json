@@ -2,8 +2,8 @@
   "chapter": 58,
   "title": "The Hunter and the Hunted (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_e57",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_e57_cycle2_phase4",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -11,7 +11,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0058.md",
     "draft_sha": "b33b412e3aa3b789dc093dbee5cf9ac83e8fa6b0",
     "qa_path": "qa/chapter-0058.md",
-    "qa_sha": "403129422383f71784e7497e3b01764ab872e574",
+    "qa_sha": "6a54dad2cfe0d799333811ab23b3f9e05284f224",
     "provenance_path": "editorial/provenance/chapter-0058.json",
-    "provenance_sha": "5f6024ac41332eb6df766ec2a33e24d116d0ba08"
+    "provenance_sha": "72d3ee6f5a7107aba2e5d4ae1420a4153e1a8abe"
   },
   "canonical_checks": [
     "Aiyen",
@@ -36,5 +36,12 @@
     "Target 58 maps to E57 by content, not numbering.",
     "Animal reproductive behavior is kept clinical and non-graphic.",
     "Aiyen's teasing is not amplified."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no ordinary manuscript correction required"
+  }
 }
