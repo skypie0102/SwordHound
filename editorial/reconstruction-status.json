@@ -1,5 +1,5 @@
 {
-  "checkpoint_date": "2026-09-21",
+  "checkpoint_date": "2026-09-26",
   "source_policy": "chinese_semantic_fandom_canonical",
   "target_chapters": 500,
   "accepted_chapters": 500,
@@ -555,6 +555,7 @@
     500
   ],
   "notes": [
+    "2026-09-26: Cycle 2 Phase 2 complete at 500/500 (229 PASS / 271 FAIL). Phase 1 remains complete at 282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED. Combined remediation population is 273 unique chapters. Phase 3 boundary/alignment/exception integrity pass is active from the corpus start; boundary clearance 0/500 at handoff; EPUB assembly remains blocked.",
     "2026-09-21: Cycle 2 Phase 1 completed The Red Death 72-74: Ch72-73 PASS, Ch74 FAIL. Reviewed 74/500; pass 45, fail 13, safety-limited 16. Next: The Hound of the Night 75-77.",
     "2026-09-21: Cycle 2 Phase 1 passed Blood Relatives 68-71. Reviewed 71/500; pass 43, fail 12, safety-limited 16. Next: The Red Death 72-74.",
     "2026-09-21: Cycle 2 Phase 1 completed Unfair Trade 64-67. Reviewed 67/500; pass 39, fail 12, safety-limited 16. Next: Blood Relatives 68-71.",
@@ -1044,7 +1045,7 @@
   "manuscript_files_present": 500,
   "historical_accepted_chapters": 500,
   "needs_rework_chapters": [],
-  "current_phase": "full_sanitization_completeness_audit_cycle2_phase_1",
+  "current_phase": "full_sanitization_completeness_audit_cycle2_phase_3",
   "completeness_audit": {
     "status": "complete",
     "evidence": "qa/manuscript-completeness-audit.md",
@@ -1415,8 +1416,8 @@
     "opened": "2026-09-21",
     "plan": "qa/manuscript-sanitization-completeness-cycle2.md",
     "historical_accepted_count_at_opening": 500,
-    "sanitization_revalidated_count": 78,
-    "completeness_revalidated_count": 0,
+    "sanitization_revalidated_count": 500,
+    "completeness_revalidated_count": 500,
     "boundary_alignment_revalidated_count": 0,
     "confirmed_failures": [
       {
@@ -1560,12 +1561,12 @@
         "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
       }
     ],
-    "current_phase": "phase_1_full_corpus_sanitization_fidelity_sweep",
+    "current_phase": "phase_3_boundary_alignment_exception_integrity_pass",
     "next_family": {
-      "name": "Falling in Love",
+      "name": "Hellhound",
       "range": [
-        117,
-        119
+        1,
+        3
       ]
     },
     "epub_assembly_blocked": true,
@@ -1574,19 +1575,19 @@
     "phase0_baseline_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
     "phase0_diagnostic_chapter_coverage": 500,
     "phase1_last_completed_family": {
-      "name": "The Great Banquet",
+      "name": "Side Stories",
       "range": [
-        110,
-        116
+        496,
+        500
       ],
-      "result": "pass",
-      "evidence": "qa/cycle2/sanitization/great-banquet-0110-0116.md"
+      "result": "phase_1_complete",
+      "evidence": "qa/cycle2-phase1-summary.md"
     },
-    "sanitization_reviewed_count": 116,
-    "sanitization_pass_count": 78,
-    "sanitization_fail_count": 20,
+    "sanitization_reviewed_count": 500,
+    "sanitization_pass_count": 282,
+    "sanitization_fail_count": 200,
     "sanitization_safety_limited_count": 18,
-    "sanitization_resolved_count": 96,
+    "sanitization_resolved_count": 500,
     "phase1_wave_a": {
       "range": [
         1,
@@ -1598,6 +1599,40 @@
       "fail": 20,
       "safety_limited_reviewed": 18,
       "resolved": 80
-    }
+    },
+    "phase1_status": "complete",
+    "phase1_summary": {
+      "reviewed": 500,
+      "pass": 282,
+      "fail": 200,
+      "safety_limited_reviewed": 18,
+      "evidence": "qa/cycle2-phase1-summary.md"
+    },
+    "phase2_status": "complete",
+    "phase2_summary": {
+      "reviewed": 500,
+      "pass": 229,
+      "fail": 271,
+      "overlap_with_phase1_fail": 198,
+      "completeness_only_additions": 73,
+      "combined_remediation_chapters": 273,
+      "family_pass": 23,
+      "family_fail": 95,
+      "family_pending": 0,
+      "evidence": "qa/cycle2-phase2-checkpoint-0500.md"
+    },
+    "phase3_status": "active",
+    "phase3_reviewed_count": 0,
+    "phase3_start_family": {
+      "name": "Hellhound",
+      "range": [
+        1,
+        3
+      ]
+    },
+    "remediation_union_count": 273,
+    "remediation_deferred_until_phase": 4,
+    "failure_detail_source": "qa/cycle2-ledger.json",
+    "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary."
   }
 }
