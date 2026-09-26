@@ -9,8 +9,8 @@
       140
     ],
     "family_qa_path": "qa/families/men-are-power-0139-0140.md",
-    "family_qa_sha": "1afcfad688880997aabc8b5a4d3362bae51ef5ee",
-    "status": "pass"
+    "family_qa_sha": "117bbc967d32327f934961695e7452029fd367c7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/139.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0139.md",
-    "blob_sha": "1e049fb5a8d7ca1654bc1ab41400c50ea1fc11a0"
+    "blob_sha": "f5ea0e1c0372c8f574df695524b67c06aeb604d5"
   },
   "qa": {
     "path": "qa/chapter-0139.md",
-    "blob_sha": "be19e166853fa65af11817b6a5b74243eedae20a",
-    "status": "pass"
+    "blob_sha": "9112eab82aadd0579c95ec74eaa663932e2b33f1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -60,12 +60,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/141.txt",
     "chinese_sha": "edf8716cf3f79ba7b3bf5f67dfa7c775a3e38c06",
     "english_path": "source/chapters/chapter-140.xhtml",
     "english_sha": "2b0e8524960469cb4000cfb7d29eb1a3941d20c9",
     "purpose": "both begin Identity of the Villain (1), target141"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      139,
+      140
+    ],
+    "manuscript_changed": true,
+    "note": "restored premium-child criteria, flesh-and-blood self-incrimination, and imminent decapitation image"
   }
 }
