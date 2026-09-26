@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 384
+
+Phase-3 structural review continued from the Chapter-368 checkpoint through six contiguous Nouvelle Vague families: **The Servant**, **Solitary Confinement**, **Sucker Shark**, **Poseidon**, **The Hounds of Nouvelle Vague**, and **Kennel**.
+
+- boundary/alignment reviewed: **384 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **329**;
+- title families reviewed: **94 / 118**;
+- family EXCEPTION-DOCUMENTED: **78**;
+- genuine new source-exception rows: **317**;
+- current normalized exception table: **353 rows** = 36 baseline + 317 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0384.md`;
+- next family: **The Rotten Dog of Nouvelle Vague (385–389)**.
+
+Chinese title-layer wording varies in several files in this span, but direct title/content alignment confirms continuous target families and the established N−2 recovered-English witness mapping. No new structural failure was found.
+
 ## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 368
 
 The live Phase-3 branch was reconciled against the stale merged-main checkpoint. The authoritative frontier was already Chapter 362; structural review then continued through **Ghost Castle of the Ultra-Deep Sea (363–365)** and **The Underground Extension Construction (366–368)**.
