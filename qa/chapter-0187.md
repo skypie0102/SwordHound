@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/187.txt` — `11443659b730d1936b42577d78ec83aa8d772559`
 - English witness: **E185** — `d0985074e848b6a865240bee565c275b592ebe57`
-- Draft: `manuscript/drafts/chapter-0187.md` — `5decd46823aed5348ecd61db63b7db3a9462cf68`
+- Draft: `manuscript/drafts/chapter-0187.md` — `3bee3be0b9a551745d571cbcafe518e6c78c305c`
 
 ## Checks
 - PASS — Sinclaire uses the rooftop as a private Milky Way spot when upset; Vikir immediately marks it unsafe for Cindywendy meetings.
@@ -22,3 +22,14 @@
 - PASS — one-week post-midterm break and Sinclaire's invitation to her home are preserved.
 - PASS — the recalled orphanage conversation retains Vikir's harsh functional view of parents as a consequence of Baskerville/Age-of-Destruction experience, not as objective narration.
 - PASS — chapter ends on Sinclaire leaving for her part-time shift and the rabbit-with-pocket-watch figurine remaining behind.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the first-year versus graduating-year salmon-teaching analogy and the source's rhetorical line about an age when survival becomes a vulgar joke.
+
+The complete Aftermath family was reread after remediation. Shifted mapping remains **186→E184 through 189→E187**; target 190/E188 begins *Attack Land (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Aftermath family QA.
