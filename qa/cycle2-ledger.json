@@ -1647,7 +1647,18 @@
         202
       ],
       "boundary_review_file": "qa/cycle2/boundary/corpse-queen-0198-0202.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        198,
+        199,
+        200,
+        201,
+        202
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 198-202 remediated and fully rebound."
     },
     {
       "index": 52,
@@ -15687,15 +15698,19 @@
         "Cycle 2 Phase 1 FAIL: the Clocktower attack death-toll reference is omitted, and the source's direct priority to find and kill the copycat is softened to killing only 'if necessary.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the Clocktower death-toll reference is omitted and Vikir's unconditional intent to find and kill the copycat is softened to killing only 'if necessary.'"
       ],
       "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md",
       "boundary_review_file": "qa/cycle2/boundary/corpse-queen-0198-0202.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 199,
@@ -15746,15 +15761,19 @@
         "Cycle 2 Phase 1 FAIL: the source identifies the masked contractor as female from height plus chest and buttocks/hip proportions; the draft generalizes away that anatomical basis.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the anatomical chest/hip-proportion basis for identifying the contractor as female is generalized away, and Seere's 'incomprehensible / unkillable' information-window descriptors are omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md",
       "boundary_review_file": "qa/cycle2/boundary/corpse-queen-0198-0202.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 200,
@@ -15805,15 +15824,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the Lich information window omits the source's age/undeath question and the explanation about improper funeral exclusion, sinking into the Abyss, and persisting mage identity."
       ],
       "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md",
       "boundary_review_file": "qa/cycle2/boundary/corpse-queen-0198-0202.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 201,
@@ -15864,15 +15887,19 @@
         "Cycle 2 Phase 1 FAIL: Ah'Heman's rotting-gum detail and the source's living-dead-puppet / demons'-toys corpse degradation are omitted/generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Ah'Heman's rotting-gum detail and the source paragraph describing prior victims as living-dead puppets/toys of demons plus corpse-puppet processing as a demonic specialty are omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md",
       "boundary_review_file": "qa/cycle2/boundary/corpse-queen-0198-0202.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 202,
@@ -15923,15 +15950,19 @@
         "Cycle 2 Phase 1 FAIL: mouth-expelled thick blood clots and explicit internal-organ fragments are generalized to 'thick blood' and nonspecific fragments from inside Vikir's body.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/corpse-queen-0198-0202.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: mouth-expelled thick blood clots/internal-organ fragments are generalized, and the source's pre-interruption false-resolution about the third demon's death, delayed destruction, and requiem is omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/corpse-queen-0198-0202.md",
       "boundary_review_file": "qa/cycle2/boundary/corpse-queen-0198-0202.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 203,
@@ -38466,22 +38497,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 83,
-    "remediation_remaining_chapters": 190,
-    "families_completed": 31,
+    "remediation_completed_chapters": 88,
+    "remediation_remaining_chapters": 185,
+    "families_completed": 32,
     "last_completed_family": {
-      "name": "Preparing for the Festival",
-      "start": 197,
-      "end": 197
-    },
-    "next_family": {
       "name": "The Corpse Queen",
       "start": 198,
       "end": 202
     },
-    "earliest_remediation_chapter": 198,
-    "manuscript_edits": 85,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete",
+    "next_family": {
+      "name": "Mixed Bath",
+      "start": 203,
+      "end": 205
+    },
+    "earliest_remediation_chapter": 203,
+    "manuscript_edits": 90,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
