@@ -108,7 +108,7 @@ Her head was cut off before the scream ended.
 
 It rolled beneath her blood-soaked fur coat.
 
-A middle-aged man tried to flee and was cut open on the spot.
+A middle-aged man tried to flee and was cut down, his internal organs splattering out on the spot.
 
 Men and women who ran, screamed, or continued resisting were killed one after another.
 
