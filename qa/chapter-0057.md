@@ -27,3 +27,11 @@ The recovered-English corpus does **not** preserve target 57 as a clean standalo
 ## Corpus implication
 
 This chapter establishes that the English numbering compression/shift begins before target 58. Do not force an artificial E57 alignment onto target 57.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family reread confirmed no ordinary manuscript correction is required. The documented lack of a clean standalone English witness remains a source-mapping exception, not a manuscript defect; age-sensitive reproductive discussion remains clinically limited.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 review.** Final acceptance requires the refreshed Chapters 55–60 family QA.
