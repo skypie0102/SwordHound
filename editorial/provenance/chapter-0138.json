@@ -9,8 +9,8 @@
       138
     ],
     "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
-    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
-    "status": "pass"
+    "family_qa_sha": "dd2dcd14a16c827655d6d39887900d785b46feff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/138.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0138.md",
-    "blob_sha": "fc2d439fc5c2a83b76640d055bc1f41e5a467f57"
+    "blob_sha": "9bc3efd6d212ac22e6ad3df3347e634617225fa7"
   },
   "qa": {
     "path": "qa/chapter-0138.md",
-    "blob_sha": "271010c5ee4fdd38bf10ee18ef67fcf09f84b6d2",
-    "status": "pass"
+    "blob_sha": "12f50574b2ddb82df8863ae88fa791225461cccb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -52,15 +52,31 @@
       "topic": "boundary",
       "final": "chapter ends on Banshee asking what second stinger means; explanation reserved for target139",
       "basis": "C138/C139 boundary"
+    },
+    {
+      "topic": "venomphion_venom_count",
+      "final": "One drop of Venomphion tail venom is stated to be lethal to 44 people",
+      "basis": "Chinese C138"
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/139.txt",
     "chinese_sha": "29e3a8d69342fe6060038c06042102ed6d352146",
     "english_path": "source/chapters/chapter-138.xhtml",
     "english_sha": "a04b8fb16ee9f246de51fbc30247009e6e48e3d8",
     "purpose": "both begin Men are Power (1), target139"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      133,
+      138
+    ],
+    "manuscript_changed": true,
+    "note": "restored broader non-explicit attraction/search reaction and exact 44-person venom figure"
   }
 }
