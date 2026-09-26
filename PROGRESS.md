@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 COMPLETE at 500/500
+
+The corpus-wide boundary/alignment/exception integrity pass is complete.
+
+- targets reviewed: **500 / 500**;
+- title families reviewed: **118 / 118**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **445**;
+- family PASS / FAIL / EXCEPTION-DOCUMENTED: **14 / 2 / 102**;
+- genuine Phase-3 exception additions: **429**;
+- final normalized exception table: **465 rows** = 36 baseline + 429 Phase-3 additions;
+- interrupted/replayed duplicate rows removed: **75**;
+- Phase-3 manuscript edits: **0**;
+- closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`.
+
+The endgame pass verified the intentional Tochka title interruption/resumption at 475→476→478, the main-ending transition into *The Day After the Apocalypse*, and the shared `495.txt` split where target495 ends after both credit-cookie sequences and target496 begins at the Dark Hall 666th-floor Side Story 1 scene. E493 explicitly embeds Side Story Chapters 1–5.
+
+**Phase 4 is ready but not started.** The frozen remediation population remains **273 unique chapters**; begin with **Camus Morgue (20–25)**, earliest failing target **22**.
+
 ## 2026-09-26 — Cycle 2 Phase 3 reconciled and advanced through Chapter 453
 
 The live Phase-3 branch already contained boundary evidence and a checkpoint through Chapter 449, while ledger/tracker/handoff bookkeeping had stopped earlier. The interrupted state was reconciled, then **Declaration of War (450–453)** was structurally reviewed.
