@@ -1184,7 +1184,15 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/not-brother-0150-0151.md",
       "boundary_review_file": "qa/cycle2/boundary/not-brother-0150-0151.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        150,
+        151
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 150-151 remediated and fully rebound."
     },
     {
       "index": 40,
@@ -12569,15 +12577,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source-present tears-and-nasal-discharge reaction during the donation scene is reduced to generic teary-eyed emotion."
       ],
       "completeness_review_file": "qa/cycle2/completeness/not-brother-0150-0151.md",
       "boundary_review_file": "qa/cycle2/boundary/not-brother-0150-0151.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 151,
@@ -12628,15 +12640,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/not-brother-uncle-0150-0151.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Tudor's source-specific rubbing/kneading of Vikir's abdomen and suggestive teasing tone are compressed to a simple prod and milder framing."
       ],
       "completeness_review_file": "qa/cycle2/completeness/not-brother-0150-0151.md",
       "boundary_review_file": "qa/cycle2/boundary/not-brother-0150-0151.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 152,
@@ -38180,22 +38196,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 47,
-    "remediation_remaining_chapters": 226,
-    "families_completed": 20,
+    "remediation_completed_chapters": 49,
+    "remediation_remaining_chapters": 224,
+    "families_completed": 21,
     "last_completed_family": {
-      "name": "Identity of the Villain",
-      "start": 141,
-      "end": 143
-    },
-    "next_family": {
       "name": "Not Brother, But Uncle",
       "start": 150,
       "end": 151
     },
-    "earliest_remediation_chapter": 150,
-    "manuscript_edits": 49,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; and Identity of the Villain 141-143 complete",
+    "next_family": {
+      "name": "The Drinking Game",
+      "start": 152,
+      "end": 154
+    },
+    "earliest_remediation_chapter": 152,
+    "manuscript_edits": 51,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; and Not Brother, But Uncle 150-151 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
