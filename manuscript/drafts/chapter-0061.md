@@ -68,7 +68,7 @@ Vikir looked down.
 
 His portion was noticeably smaller than everyone else's.
 
-Even frail elders and small children had received more.
+Even frail elders and runny-nosed children had received more.
 
 “What are you doing?”
 
@@ -169,7 +169,7 @@ Meat, organs, and blood went into pots.
 
 Rendered fat was skimmed for lamps.
 
-Bones, claws, and teeth became tools, weapons, or ornaments.
+Bones, claws, and teeth became weapons or ornaments.
 
 Different cuts received different treatment.
 
