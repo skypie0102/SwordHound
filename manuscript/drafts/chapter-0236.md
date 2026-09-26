@@ -480,37 +480,11 @@ The target surfaced in his memory.
 
 The **Seventh Corpse**.
 
+Vikir knew it should be sleeping somewhere inside the treasure vault.
+
 Among the Ten Corpses—
 
-the only demon whose form was an object.
-
-The others resembled living things.
-
-Insects.
-
-Serpents.
-
-Humans.
-
-Bats.
-
-Trees.
-
-But Decarabia—
-
-an inanimate thing.
-
-Sleeping somewhere in the human world.
-
-Waiting for someone to awaken it.
-
-In his previous life—
-
-demonic forces had repeatedly targeted the four academies.
-
-The reason was inside their jointly administered treasure vault.
-
-*Decarabia.*
+it was the only demon whose form was an object.
 
 Vikir lowered his gaze.
 
