@@ -1418,7 +1418,7 @@
     "historical_accepted_count_at_opening": 500,
     "sanitization_revalidated_count": 500,
     "completeness_revalidated_count": 500,
-    "boundary_alignment_revalidated_count": 25,
+    "boundary_alignment_revalidated_count": 306,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -1563,10 +1563,10 @@
     ],
     "current_phase": "phase_3_boundary_alignment_exception_integrity_pass",
     "next_family": {
-      "name": "The Graduate",
+      "name": "Hell Tree",
       "range": [
-        26,
-        27
+        307,
+        313
       ]
     },
     "epub_assembly_blocked": true,
@@ -1622,7 +1622,7 @@
       "evidence": "qa/cycle2-phase2-checkpoint-0500.md"
     },
     "phase3_status": "active",
-    "phase3_reviewed_count": 25,
+    "phase3_reviewed_count": 306,
     "phase3_start_family": {
       "name": "Hellhound",
       "range": [
@@ -1634,29 +1634,29 @@
     "remediation_deferred_until_phase": 4,
     "failure_detail_source": "qa/cycle2-ledger.json",
     "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary.",
-    "phase3_pass_count": 25,
-    "phase3_fail_count": 0,
-    "phase3_exception_documented_count": 0,
-    "phase3_families_reviewed_count": 7,
-    "phase3_families_pass_count": 7,
-    "phase3_families_fail_count": 0,
-    "phase3_new_source_exception_rows": 0,
+    "phase3_pass_count": 53,
+    "phase3_fail_count": 3,
+    "phase3_exception_documented_count": 250,
+    "phase3_families_reviewed_count": 73,
+    "phase3_families_pass_count": 14,
+    "phase3_families_fail_count": 3,
+    "phase3_new_source_exception_rows": 243,
     "phase3_manuscript_edits": 0,
-    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0025.md",
+    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0306.md",
     "phase3_last_completed_family": {
-      "name": "Camus Morgue",
+      "name": "The Age of the Warmonger",
       "range": [
-        20,
-        25
+        299,
+        306
       ],
-      "result": "pass",
-      "evidence": "qa/cycle2/boundary/camus-morgue-0020-0025.md"
+      "result": "exception-documented",
+      "evidence": "qa/cycle2/boundary/age-warmonger-0299-0306.md"
     },
     "phase3_next_family": {
-      "name": "The Graduate",
+      "name": "Hell Tree",
       "range": [
-        26,
-        27
+        307,
+        313
       ]
     }
   }
