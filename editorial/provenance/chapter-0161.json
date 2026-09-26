@@ -9,8 +9,8 @@
       161
     ],
     "family_qa_path": "qa/families/familiar-face-0158-0161.md",
-    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
-    "status": "pass"
+    "family_qa_sha": "b6965699d7b4e9188b2235fd70eab1596365796b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/161.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0161.md",
-    "blob_sha": "b5d67f3439f03aedbdfc35499afffcae0c819ca6"
+    "blob_sha": "882eed710965f3871f18534377e9486641c289a3"
   },
   "qa": {
     "path": "qa/chapter-0161.md",
-    "blob_sha": "022a581ee8322e8b4a1cb40b3d2b96590c44280e",
-    "status": "pass"
+    "blob_sha": "fac8d2fe7742bfe183eb5ac179821c8db34ac719",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/162.txt",
     "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
     "english_path": "source/chapters/chapter-161.xhtml",
     "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
     "purpose": "both begin Sin and Punishment (1), target162"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      158,
+      161
+    ],
+    "manuscript_changed": true,
+    "note": "restored clinical naked-corpse identification and secondary-development comparison"
   }
 }
