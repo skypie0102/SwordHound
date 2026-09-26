@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 25/273 remediation chapters complete; next The Saintess (78–82)
+**Current stage:** Phase 4 ACTIVE — 33/273 remediation chapters complete; next affected family Nostalgia (101–104)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 25  
-**Remaining remediation chapters:** 248  
-**Completed affected families:** 11  
-**Current next family:** The Saintess (78–82)  
-**Earliest remaining target:** Chapter 78
+**Completed remediation chapters:** 33  
+**Remaining remediation chapters:** 240  
+**Completed affected families:** 14  
+**Current next family:** Nostalgia (101–104)  
+**Earliest remaining target:** Chapter 101
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,11 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **The Saintess (78–82)**.
-2. Repair all ordinary completeness/sanitization failures from the complete Chinese-primary family review while preserving the safety-limited underage scope.
-3. Re-run both primary gates across the full family.
-4. Rebind chapter QA, family QA, provenance, acceptance, tracker, and Cycle-2 ledger evidence.
-5. Keep EPUB assembly blocked.
+1. Continue Phase 4 with **Nostalgia (101–104)**.
+2. Reread the complete family and remediate flagged Chapters **101** and **103** only where supported by Chinese-primary source.
+3. Re-run both content gates across the family and refresh all evidence/hash bindings.
+4. Keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-26
@@ -191,13 +190,13 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **25**;
-- remaining remediation chapters: **248**;
-- affected families completed: **11**;
-- manuscript edits: **27**;
-- last completed family: **The Hound of the Night (75–77)**;
-- latest manuscript repairs: Chapters **75, 76, 77**;
-- next affected family: **The Saintess (78–82)**;
-- earliest remaining target: **78**;
-- all completed families through Chapter 77 have refreshed chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger evidence bindings;
-- EPUB assembly remains blocked until Phase 5 independent residual verification and Phase 6 closure.
+- completed remediation chapters: **33**;
+- remaining remediation chapters: **240**;
+- affected families completed: **14**;
+- manuscript edits: **35**;
+- last completed affected family: **The Ghosts of the Ancestors (90–94)**;
+- latest manuscript repair: Chapter **94**;
+- next affected family: **Nostalgia (101–104)**;
+- earliest remaining target: **101**;
+- all completed affected families through Chapter 94 have refreshed evidence/hash bindings;
+- EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
