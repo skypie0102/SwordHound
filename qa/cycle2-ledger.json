@@ -1689,7 +1689,16 @@
         205
       ],
       "boundary_review_file": "qa/cycle2/boundary/mixed-bath-0203-0205.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        203,
+        204,
+        205
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 203-205 remediated and fully rebound; Chapter 205 retains a documented safety-limited underage-nudity exception while all ordinary omissions are restored."
     },
     {
       "index": 53,
@@ -16014,15 +16023,19 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: habitual humiliation/torment is generalized to bullying, 'burn alive' is softened to 'burn it,' and the source's many-victims/unknown-retaliator reflection is compressed."
       ],
       "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md",
       "boundary_review_file": "qa/cycle2/boundary/mixed-bath-0203-0205.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 204,
@@ -16074,15 +16087,19 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's 'pests' label and a father's beating threat are omitted; exact tooth anatomy, the horizontal double-wisdom-tooth Sixth/Seventh principle, and concrete family-economic expulsion consequences are generalized away."
       ],
       "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md",
       "boundary_review_file": "qa/cycle2/boundary/mixed-bath-0203-0205.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 205,
@@ -16134,15 +16151,19 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/mixed-bath-0203-0205.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: multiple source-present non-explicit washing/kissing/body-state details and the more specific paired Fang configuration are omitted or compressed despite the retained no-lust framing."
       ],
       "completeness_review_file": "qa/cycle2/completeness/mixed-bath-0203-0205.md",
       "boundary_review_file": "qa/cycle2/boundary/mixed-bath-0203-0205.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 206,
@@ -38497,22 +38518,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 88,
-    "remediation_remaining_chapters": 185,
-    "families_completed": 32,
+    "remediation_completed_chapters": 91,
+    "remediation_remaining_chapters": 182,
+    "families_completed": 33,
     "last_completed_family": {
-      "name": "The Corpse Queen",
-      "start": 198,
-      "end": 202
-    },
-    "next_family": {
       "name": "Mixed Bath",
       "start": 203,
       "end": 205
     },
-    "earliest_remediation_chapter": 203,
-    "manuscript_edits": 90,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete",
+    "next_family": {
+      "name": "Festival Night",
+      "start": 206,
+      "end": 215
+    },
+    "earliest_remediation_chapter": 206,
+    "manuscript_edits": 93,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
