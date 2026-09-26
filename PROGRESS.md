@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 4 — Sin and Punishment complete
+
+Phase 4 remediation/evidence rebinding advanced through **Sin and Punishment (162–169)**.
+
+- remediation chapters complete: **65 / 273**;
+- remediation chapters remaining: **208**;
+- affected families complete: **25**;
+- manuscript edits: **67**;
+- Chapters **162, 163, 165, 166, 167, 168** repaired and rebound;
+- Chapters **164, 169** complete-family revalidated unchanged;
+- next affected family: **The Anti-Columnist (172–175)**, earliest remaining target **175**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 4 — Test Your Skills complete
 
 Phase 4 remediation/evidence rebinding advanced through **Test Your Skills (133–138)**.
