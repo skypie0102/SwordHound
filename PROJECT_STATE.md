@@ -10,7 +10,7 @@
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
-**Boundary/alignment revalidated:** 25 / 500 — 25 PASS / 0 FAIL / 0 EXCEPTION-DOCUMENTED across 7 / 118 families  
+**Boundary/alignment revalidated:** 306 / 500 — 53 PASS / 3 FAIL / 250 EXCEPTION-DOCUMENTED across 73 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
 **Current phase:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity pass
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
@@ -89,7 +89,7 @@ Phase 2 completeness is **COMPLETE through Chapter 500**:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Phase 3 is active and has structurally cleared **25 / 500** targets across **7 / 118** families with **0 FAIL**, **0 EXCEPTION-DOCUMENTED**, **0 new source-exception rows**, and **0 manuscript edits**. Checkpoint: `qa/cycle2-phase3-checkpoint-0025.md`. Next: **The Graduate (26–27)**.
+Phase 3 is active and has structurally reviewed **306 / 500** targets across **73 / 118** families with **53 PASS / 3 FAIL / 250 EXCEPTION-DOCUMENTED**, **243 new source-exception rows**, and **0 manuscript edits**. Open structural failures are Chapters **236, 273, and 283** and remain deferred to Phase 4. Checkpoint: `qa/cycle2-phase3-checkpoint-0306.md`. Next: **Hell Tree (307–313)**.
 
 ## Release gate
 
