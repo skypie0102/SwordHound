@@ -1418,7 +1418,7 @@
     "historical_accepted_count_at_opening": 500,
     "sanitization_revalidated_count": 500,
     "completeness_revalidated_count": 500,
-    "boundary_alignment_revalidated_count": 0,
+    "boundary_alignment_revalidated_count": 25,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -1563,10 +1563,10 @@
     ],
     "current_phase": "phase_3_boundary_alignment_exception_integrity_pass",
     "next_family": {
-      "name": "Hellhound",
+      "name": "The Graduate",
       "range": [
-        1,
-        3
+        26,
+        27
       ]
     },
     "epub_assembly_blocked": true,
@@ -1622,7 +1622,7 @@
       "evidence": "qa/cycle2-phase2-checkpoint-0500.md"
     },
     "phase3_status": "active",
-    "phase3_reviewed_count": 0,
+    "phase3_reviewed_count": 25,
     "phase3_start_family": {
       "name": "Hellhound",
       "range": [
@@ -1633,6 +1633,31 @@
     "remediation_union_count": 273,
     "remediation_deferred_until_phase": 4,
     "failure_detail_source": "qa/cycle2-ledger.json",
-    "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary."
+    "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary.",
+    "phase3_pass_count": 25,
+    "phase3_fail_count": 0,
+    "phase3_exception_documented_count": 0,
+    "phase3_families_reviewed_count": 7,
+    "phase3_families_pass_count": 7,
+    "phase3_families_fail_count": 0,
+    "phase3_new_source_exception_rows": 0,
+    "phase3_manuscript_edits": 0,
+    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0025.md",
+    "phase3_last_completed_family": {
+      "name": "Camus Morgue",
+      "range": [
+        20,
+        25
+      ],
+      "result": "pass",
+      "evidence": "qa/cycle2/boundary/camus-morgue-0020-0025.md"
+    },
+    "phase3_next_family": {
+      "name": "The Graduate",
+      "range": [
+        26,
+        27
+      ]
+    }
   }
 }
