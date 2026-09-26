@@ -9,7 +9,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "primary_source": {
@@ -53,11 +53,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0060.md",
-    "blob_sha": "df77f7700668f8d28bc7ec5f8afa83a02c8b5513"
+    "blob_sha": "a1c29330b69ee8c26f6969d970e7269b9e47e6a5"
   },
   "qa": {
     "path": "qa/chapter-0060.md",
-    "blob_sha": "c35796d733c7b5b9728803a382be31d8214bcc95",
+    "blob_sha": "a14883e936674768a3c2137d2913daecce7b9e7f",
     "status": "pass"
   },
   "documented_decisions": [
@@ -83,5 +83,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      55,
+      60
+    ],
+    "manuscript_changed": true,
+    "note": "restored nerve-churning gore, high-ranking-demon predator comparison, and charred-brain Incinerate result"
+  }
 }
