@@ -28,7 +28,7 @@ It had swept through the jungle with terrifying speed.
 
 Entire native communities had collapsed.
 
-The scale had rivaled the great epidemics remembered by the Empire.
+Its scale rivaled the Black Death that had once swept the Empire.
 
 Eventually the disease reached Imperial territory.
 
