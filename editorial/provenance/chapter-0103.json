@@ -9,8 +9,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e870a99143b4ab7b382b49df959758e3d3c009e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/103.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0103.md",
-    "blob_sha": "eeec63b8ef6d3f69d8a643c12edb2c90fb2fedaa"
+    "blob_sha": "fa7a19fe4df228091351364951bbbddf1ba561d5"
   },
   "qa": {
     "path": "qa/chapter-0103.md",
-    "blob_sha": "8cda10ed1a6be9146d8d59f74af32cb8c2b6749c",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "02e12a17e3dff534ea8f42dec32c5c13d6653131",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -57,7 +57,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-26",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-18",
@@ -69,5 +69,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      101,
+      104
+    ],
+    "manuscript_changed": true,
+    "note": "restored 7-8 month cycle and source-specific reproductive statement"
   }
 }
