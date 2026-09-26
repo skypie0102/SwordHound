@@ -8,10 +8,10 @@
 
 | Target | Chinese SHA | English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|
-| 216 | `9875b18d523a76af9badd29fb628ae8c8115ad35` | E214 | `38f1b15abb70137ed362ccdf4e306dc4c03bf15c` | `fb00700ca836c5c6ed586a0fef0c05d1a70d5f75` | `06ecc4e24dcb5ff8939d014f353559a0a18a552e` |
-| 217 | `938e3e6279d82a515e2a746207b67f57cbb418e7` | E215 | `1d0cde61f3f2971d05546ffca54359daa43d6639` | `d4b53a7ba674eb2c790437c84165444c0bfdd2a8` | `c9cdd032bccc158bdd8f854d03dd1e2724e09a52` |
+| 216 | `9875b18d523a76af9badd29fb628ae8c8115ad35` | E214 | `38f1b15abb70137ed362ccdf4e306dc4c03bf15c` | `871c95c698d480a4ae43a3576431028e8c34d5f4` | `b65e36c1a76fdd3f9593282193aeb21ae8fe6b37` |
+| 217 | `938e3e6279d82a515e2a746207b67f57cbb418e7` | E215 | `1d0cde61f3f2971d05546ffca54359daa43d6639` | `b0ebe27355764d4b559b3d6f7fdac59201f18955` | `d187f5091f09079739ccaea1bc5f14b77fc0c731` |
 | 218 | `b96c7f4420c425b60ffe0cde307fb629f76951fd` | E216 | `36d39d9a520583a0b159bb198ba1ca3b280d01af` | `6c8d01bb60878af8740927876d981af5d3a61b00` | `3b6e33f6b1f730b8d821c3c4c3bdf730e91680ec` |
-| 219 | `04f1c08f00b96bd74e0a7758919568b2b7c85f25` | E217 | `ec2e0a0e9035d6a9c4d9d330d7e0c46e68108ac6` | `d4943fa0ea13391327904fdef174543a0f0e26f4` | `09196eb18e0db169aefef362f75705e81f201f82` |
+| 219 | `04f1c08f00b96bd74e0a7758919568b2b7c85f25` | E217 | `ec2e0a0e9035d6a9c4d9d330d7e0c46e68108ac6` | `c819383a9f2fca16a9c587f85a524f8274d08768` | `d094df5dad5667462b102864bde33ec1b0d7ed7c` |
 | boundary 220 | `8f768db48cb1b62930c38bf5f924bb5176a6e63c` | E218 | `c6a798c3a8fbbda43ac8a729e6215ccf33dfcaf3` | next family | next family |
 
 Mapping: **216→E214 through 219→E217**.
@@ -53,3 +53,19 @@ Target **225 → E223** begins **Tuition (1)**.
 ## Family verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 216 restores the actual retrospective clue: the Corpse Queen's unusual anger at the crazed court mage, plausibly tied to her losses of Vikir and Rosie.
+- Chapter 217 restores the mana-surge comparison to **cerebral infarction / cerebral hemorrhage** and the full-body pore-release explosion mechanics.
+- Chapter 218 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Chapter 219 restores Vikir's explicit thought of **cutting off Rosie's head** before teleport completion and the student's **near-wetting** fear response.
+- Sanitization fidelity and completeness were rerun across Chapters 216–219 after repair.
+- Shifted mapping remains **216→E214, 217→E215, 218→E216, 219→E217**; target 220/E218 begins *That Day, Him and Me (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **That Day, Him and Me (220–224)**.
