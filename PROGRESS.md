@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 reconciled and advanced through Chapter 453
+
+The live Phase-3 branch already contained boundary evidence and a checkpoint through Chapter 449, while ledger/tracker/handoff bookkeeping had stopped earlier. The interrupted state was reconciled, then **Declaration of War (450–453)** was structurally reviewed.
+
+- boundary/alignment reviewed: **453 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **398**;
+- title families reviewed: **108 / 118**;
+- family EXCEPTION-DOCUMENTED: **92**;
+- genuine new source-exception rows: **384**;
+- normalized exception table: **420 rows** = 36 baseline + 384 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0453.md`;
+- next family: **Infiltration of the Water Source (454–464)**.
+
+The 449→450 and 453→454 seams are clean. Declaration of War remains one four-part family despite local Chinese heading variation between equivalent declaration/oath wording.
+
 ## 2026-09-26 — Cycle 2 Phase 3 Wave D closed through Chapter 402
 
 Phase-3 structural review continued through **The Rotten Dog of Nouvelle Vague**, **The Worst Torture**, **Dead Man Walking**, and **Black Tongue**, closing the current 301–402 wave.
