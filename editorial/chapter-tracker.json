@@ -1,5 +1,5 @@
 {
-  "notice": "Cycle 2 Phase 4 remediation active; 20/273 remediation chapters complete and 253 remain. Next affected family: The Red Death (72-74), earliest remaining target 72.",
+  "notice": "Cycle 2 Phase 4 remediation active; 22/273 remediation chapters complete and 251 remain. Next affected family: The Hound of the Night (75-77), earliest remaining target 75.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
@@ -1012,7 +1012,7 @@
       "qa": "qa/chapter-0072.md",
       "provenance": "editorial/provenance/chapter-0072.json",
       "acceptance": "qa/acceptance/chapter-0072.json",
-      "acceptance_sha": "04955b9aec18004377023adc563487d61043961c",
+      "acceptance_sha": "59b2c3dfff52839028e15f09ae837cccab95654a",
       "family_qa": "qa/families/red-death-0072-0074.md"
     },
     {
@@ -1026,7 +1026,7 @@
       "qa": "qa/chapter-0073.md",
       "provenance": "editorial/provenance/chapter-0073.json",
       "acceptance": "qa/acceptance/chapter-0073.json",
-      "acceptance_sha": "47dd866c3e02361fee8b64891b61adc2a52113ae",
+      "acceptance_sha": "98f8abcf56ea271cc085183fb2cf20dd6be053e4",
       "family_qa": "qa/families/red-death-0072-0074.md"
     },
     {
@@ -1040,7 +1040,7 @@
       "qa": "qa/chapter-0074.md",
       "provenance": "editorial/provenance/chapter-0074.json",
       "acceptance": "qa/acceptance/chapter-0074.json",
-      "acceptance_sha": "3abad2669c4b91c49959e3d085e819fac4cab8f5",
+      "acceptance_sha": "23ca139b57edcd3f6855ac9a1c7504e5f69ee56d",
       "family_qa": "qa/families/red-death-0072-0074.md"
     },
     {
@@ -7729,10 +7729,10 @@
     ],
     "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "The Red Death",
+      "name": "The Hound of the Night",
       "range": [
-        72,
-        74
+        75,
+        77
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7840,24 +7840,24 @@
     "phase3_families_exception_documented_count": 102,
     "phase4_status": "active",
     "phase4_next_family": {
+      "name": "The Hound of the Night",
+      "range": [
+        75,
+        77
+      ]
+    },
+    "phase4_earliest_remediation_chapter": 75,
+    "phase4_manuscript_edits": 24,
+    "phase4_remediation_completed_chapters": 22,
+    "phase4_remediation_remaining_chapters": 251,
+    "phase4_families_completed": 10,
+    "phase4_last_completed_family": {
       "name": "The Red Death",
       "range": [
         72,
         74
       ]
     },
-    "phase4_earliest_remediation_chapter": 72,
-    "phase4_manuscript_edits": 21,
-    "phase4_remediation_completed_chapters": 20,
-    "phase4_remediation_remaining_chapters": 253,
-    "phase4_families_completed": 9,
-    "phase4_last_completed_family": {
-      "name": "Blood Relatives",
-      "range": [
-        68,
-        71
-      ]
-    },
-    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, The Hunter and the Hunted 55-60, The Protagonist of Hunting 61-63, Unfair Trade 64-67, and Blood Relatives 68-71 complete"
+    "phase4_evidence_rebind_status": "Phase 4 evidence rebound through The Red Death (72-74); 10 affected families complete"
   }
 }
