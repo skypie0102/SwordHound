@@ -49,19 +49,19 @@ Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is un
 
 Boundary/alignment review is the immediate project focus.
 
-- reviewed: **402 / 500** targets;
+- reviewed: **453 / 500** targets;
 - PASS: **53**;
 - FAIL: **2**;
-- EXCEPTION-DOCUMENTED: **347**;
-- families reviewed: **98 / 118**;
+- EXCEPTION-DOCUMENTED: **398**;
+- families reviewed: **108 / 118**;
 - family PASS: **14**;
 - family FAIL: **2**;
-- family EXCEPTION-DOCUMENTED: **82**;
-- genuine source-exception rows added during Phase 3: **333**;
+- family EXCEPTION-DOCUMENTED: **92**;
+- genuine source-exception rows added during Phase 3: **384**;
 - manuscript edits during Phase 3: **0**;
 - open structural FAILs: **273, 283**;
-- latest checkpoint: `qa/cycle2-phase3-checkpoint-0402.md`;
-- next family: **Jailbreaker (403–408)**;
+- latest checkpoint: `qa/cycle2-phase3-checkpoint-0453.md`;
+- next family: **Infiltration of the Water Source (454–464)**;
 - exception-table normalization: **75 redundant replay rows removed; all 36 baseline rows preserved**.
 
 ## Phase 3 — Corpus boundary, alignment, and exception integrity pass
@@ -171,7 +171,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 3 from **Jailbreaker (403–408)** and proceed in contiguous title-family order.
+1. Continue Phase 3 from **Infiltration of the Water Source (454–464)** and proceed in contiguous title-family order.
 2. Continue reconciling shared/combined Chinese raws, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the normalized exception table.
 3. Preserve open structural FAILs at Chapters **273 and 283** for Phase 4; investigate any newly discovered duplicated/displaced source blocks without editing manuscript text.
 4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
