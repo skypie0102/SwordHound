@@ -30,6 +30,8 @@ Cut.
 
 Severed.
 
+Truncated.
+
 Crushed.
 
 Ground.
