@@ -42,7 +42,7 @@ fourteen rules had been written.
 
 > **4.** If, while patrolling a corridor, you find that no matter how far you walk you never reach your destination—and the same scenery continues to repeat—immediately proceed to the emergency-exit stairs.
 >
-> Crouch in a corner with your forehead against the wall.
+> Crouch against the wall.
 >
 > Close your eyes.
 >
