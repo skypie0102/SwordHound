@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/249.txt` — `5034a52e538b9562aa741caa36cab2257dbcea24`
 - English witness: **E247** — `c9f2667b1b39ce185a3bbe6515979d5689477177`
-- Draft: `manuscript/drafts/chapter-0249.md` — `40b9bdeb9bd3b593d49dcb17500ed48380f34432`
+- Draft: `manuscript/drafts/chapter-0249.md` — `028ed014efd69bd55f70c24057cf1238566c5586`
 - Boundary: C250 — `d7f5c33b3530b223aec8aa06abede7a38013e86d` / E248 — `c446be097b98c0609a35450640038009a0b502d1` begin **Recap (1)**.
 
 ## Checks
@@ -20,3 +20,14 @@
 - PASS — Dolores learns her stew used the same dangerous pairing, briefly believes Vikir intended the same fate for her, then learns the dried mushrooms in her serving neutralized it.
 - PASS — Vikir admits the threat to Dolores was a joke; her fear alone costs roughly 10% HP.
 - PASS — target250 / recovered E248 begins Recap (1); no ranking/results from the next family are imported.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Dolores's explicit **“I’d rather kill myself!”** panic thought, Bakilaga's direct childhood pants-soiling empathy, and the ice-cold dagger piercing Hohenheim's heart metaphor before the “Shit-pants” insult.
+
+The complete Survival Contest family was reread after remediation. Chapters 245, 246, and 248 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **245→E243 through 249→E247**; target 250/E248 begins *Recap (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Survival Contest family QA.
