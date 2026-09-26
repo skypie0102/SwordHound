@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/159.txt` — `8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d`
 - English witness: **E158** — `3c7c17917f56fd16b0400a2baa8f8ea093a203d6`
-- Draft: `manuscript/drafts/chapter-0159.md` — `d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8`
+- Draft: `manuscript/drafts/chapter-0159.md` — `1f0970f348be738bb6d5111d331ff6bc003e423f`
 
 ## Checks
 - PASS — Ephebo's face initially resembles **Mozgus Quovadis**, then Dolores identifies the corpse as Mozgus's Old Testament twin brother.
@@ -22,3 +22,14 @@
 - PASS — the letter reports Ephebo / corruption evidence and requests scrutiny of House Indulgentia; the Chinese extraction's awkward request phrase is normalized from context.
 - PASS — the messenger pigeon is destroyed by a fast crimson slash before the report can leave.
 - PASS — chapter ends on **Pedo and Hebe** appearing together and Dolores wondering whether their hidden faces will also be familiar.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the narrator's explicit description of Dolores's lowered, uncertain expression as a **beautiful, melancholy sight** that would make any man who saw it feel heartache.
+
+The complete Familiar Face family was reread after remediation. Shifted mapping remains **158→E157, 159→E158, 160→E159, 161→E160**; target 162/E161 begins *Sin and Punishment (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Familiar Face family QA.
