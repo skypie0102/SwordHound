@@ -302,6 +302,16 @@ Vikir looked down.
 
 Highbro flinched.
 
+His flushed face went pale in an instant.
+
+It felt as though the sweat already on his skin had drawn back into his pores.
+
+He did not need to look up to know Vikir's gaze was fixed on him.
+
+A chill like the edge of a sharpened blade pressed against the back of his neck.
+
+Vikir asked in an emotionless voice.
+
 “What happens to a hound that bares its fangs without its master's permission?”
 
 His answer—
@@ -402,9 +412,9 @@ Perhaps—
 
 much more than Baskerville.
 
-Serving such a master—
+Just as meeting a good master is a dog's good fortune—
 
-felt to them like fortune.
+serving a great master is a knight's good fortune.
 
 Vikir—
 
