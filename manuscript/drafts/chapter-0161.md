@@ -350,9 +350,13 @@ Not out of curiosity.
 
 For identification.
 
-The corpse beneath was pale—
+The corpse beneath was naked and pale-skinned—
 
 and visibly reconstructed.
+
+There was nothing erotic about the sight.
+
+The head had been destroyed, and the body was plainly a reconstructed corpse.
 
 Parts of the body had been stitched or reinforced with iron—
 
@@ -422,7 +426,9 @@ The body did not match closely enough.
 
 Geronto was slightly shorter than Camus had been the last time Vikir saw her.
 
-Her physical development also suggested a different age.
+Her secondary physical development was also less advanced than Camus's had been.
+
+That difference suggested they were not the same age.
 
 Most importantly—
 
