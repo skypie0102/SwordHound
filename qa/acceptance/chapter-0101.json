@@ -2,8 +2,8 @@
   "chapter": 101,
   "title": "Nostalgia (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -11,8 +11,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e870a99143b4ab7b382b49df959758e3d3c009e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/101.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-100.xhtml",
     "english_reference_sha": "fd40f3fd52afa198ff059e4295e47630b294360e",
     "draft_path": "manuscript/drafts/chapter-0101.md",
-    "draft_sha": "ff0955563df2a7053e9c6a15c0e5d430fee2e9c1",
+    "draft_sha": "571b0d74d51e18db6fe2e406926b05fc4cd7e6a8",
     "qa_path": "qa/chapter-0101.md",
-    "qa_sha": "74b226f9111259742071e1c535a84c46ccb327b9",
+    "qa_sha": "8b3e0383d48394f3de8d53a0de5919bd4d325b3f",
     "provenance_path": "editorial/provenance/chapter-0101.json",
-    "provenance_sha": "f4c71a4707ae182d916738b7782e513bb754ec5d"
+    "provenance_sha": "efcd6d2aed3fb36c0d50cd3c6aa284fc391d53ff"
   },
   "canonical_checks": [
     "Venom",
@@ -51,5 +51,12 @@
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/nostalgia-0101-0104.md"
   },
-  "boundary_note": "Target101 exclusively owns impact/Madam death/Venom/rescue; target100 ends before impact."
+  "boundary_note": "Target101 exclusively owns impact/Madam death/Venom/rescue; target100 ends before impact.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "corrected mucus-sac anatomy and removed invented rescue addressee"
+  }
 }
