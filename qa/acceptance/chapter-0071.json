@@ -2,8 +2,8 @@
   "chapter": 71,
   "title": "Blood Relatives (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Blood Relatives",
     "range": [
@@ -11,7 +11,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-070.xhtml",
     "english_reference_sha": "538af64e11972614bfd2e11d6226733b3fe04f91",
     "draft_path": "manuscript/drafts/chapter-0071.md",
-    "draft_sha": "1921fcb4fffd7e964d4f0f4c5542ae494cf81a16",
+    "draft_sha": "0a6f93f5277ce6da7e4f0b5411c853303af9988d",
     "qa_path": "qa/chapter-0071.md",
-    "qa_sha": "efa244d6ddc5dc9a04649861ebd0650db5a9d5dd",
+    "qa_sha": "26f949793a5e0b8c66f2c20bcd7c8f375d185335",
     "provenance_path": "editorial/provenance/chapter-0071.json",
-    "provenance_sha": "15638c6bf49b3176bfe8f8cb41a0fc69442aae1d"
+    "provenance_sha": "cfa37daf61d3fffebc894dcba10c3c63f31f3fda"
   },
   "canonical_checks": [
     "Pomeranian La Baskerville",
@@ -40,5 +40,12 @@
     "Target 71 maps to E70.",
     "Canonical English names replace Chinese/transliteration drift while preserving family semantics.",
     "No target-72 Red Death prevention details are pulled backward."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Hugo's combat-asset view of male descendants and children"
+  }
 }
