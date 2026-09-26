@@ -1255,7 +1255,16 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md",
       "boundary_review_file": "qa/cycle2/boundary/night-shift-safety-0155-0157.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        155,
+        156,
+        157
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 155-157 remediated and fully rebound."
     },
     {
       "index": 42,
@@ -12901,15 +12910,19 @@
         "Cycle 2 Phase 1 FAIL: the source's repeated specific accusation that Vikir urinated on the Saintess's belly is generalized to wetting himself while lying over/on her.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source repeatedly specifies the alleged act as urinating on the Saintess's belly; the draft generalizes it to wetting himself while lying over/on her."
       ],
       "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md",
       "boundary_review_file": "qa/cycle2/boundary/night-shift-safety-0155-0157.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 156,
@@ -12960,15 +12973,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Rule 4 invents a forehead-against-the-wall instruction that is not in the Chinese notice, importing later scene behavior into the rule text."
       ],
       "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md",
       "boundary_review_file": "qa/cycle2/boundary/night-shift-safety-0155-0157.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 157,
@@ -13019,15 +13036,19 @@
         "Cycle 2 Phase 1 FAIL: source-explicit heart-fluttering attraction to Vikir's calm wetting aftermath and Dolores's heart-stirring reaction to the Night Hound are softened to generic impressiveness/interest.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/night-shift-safety-0155-0157.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-present heart-flutter, explicit maternal-comedy feeding wording, and the Night Hound's heart-stirring effect on Dolores are generalized/omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/night-shift-safety-0155-0157.md",
       "boundary_review_file": "qa/cycle2/boundary/night-shift-safety-0155-0157.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 158,
@@ -38217,22 +38238,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 52,
-    "remediation_remaining_chapters": 221,
-    "families_completed": 22,
+    "remediation_completed_chapters": 55,
+    "remediation_remaining_chapters": 218,
+    "families_completed": 23,
     "last_completed_family": {
-      "name": "The Drinking Game",
-      "start": 152,
-      "end": 154
-    },
-    "next_family": {
       "name": "How to Keep Your Night Shift Employees Safe",
       "start": 155,
       "end": 157
     },
-    "earliest_remediation_chapter": 155,
-    "manuscript_edits": 54,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; and The Drinking Game 152-154 complete",
+    "next_family": {
+      "name": "Familiar Face",
+      "start": 158,
+      "end": 161
+    },
+    "earliest_remediation_chapter": 158,
+    "manuscript_edits": 57,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
