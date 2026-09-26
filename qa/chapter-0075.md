@@ -7,7 +7,7 @@
 
 - Shared primary Chinese container: `source/chinese/chapters/075.txt` — `e65af08f559f82f470687cc42c1d1420e1e55e15`
 - Recovered English witness: **E74** `source/chapters/chapter-074.xhtml` — `1bc968f310582423381420fc7e09e84aa4cf7e72`
-- Draft: `manuscript/drafts/chapter-0075.md` — `d5f09a9758fe8fc1b98a70bee19b586ffe1043a8`
+- Draft: `manuscript/drafts/chapter-0075.md` — `f08a6ce029ba0d2f720cd677e15db411bd18df80`
 
 ## Source-boundary status
 
@@ -33,3 +33,14 @@ Target 75 → E74 is verified by: Saint Mecca gate → oil-barrel smuggling → 
 ## Chronology check
 
 No Dolores age/profile material from target 78 is imported here.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored floating **corpses or logs** as flood footing, Chihuahua's red-eyed remembrance while drinking, and Cindywendy's named **Gambino** investment-adviser precedent.
+
+The complete Hound of the Night family was reread after remediation. Hybrid source handling for targets 75–76 remains unchanged, target 77 remains Chinese-primary, and the established shifted mapping remains **75→E74, 76→E75, 77→E76**. Target 78/E77 begins *The Saintess (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Hound of the Night family QA.
