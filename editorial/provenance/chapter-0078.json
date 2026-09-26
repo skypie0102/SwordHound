@@ -9,7 +9,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "primary_source": {
@@ -66,11 +66,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0078.md",
-    "blob_sha": "8919fdfc51baec50b1828e8a9433fa22d497da7e"
+    "blob_sha": "44017ffdfe2bc5a039aef30095a203e4ac25b9ce"
   },
   "qa": {
     "path": "qa/chapter-0078.md",
-    "blob_sha": "8848cfc5ad09b4de95e79f7eb2196a1e085b25f1",
+    "blob_sha": "5a60c0a24f8546e5b9094a18cdeac752983355a4",
     "status": "pass"
   },
   "documented_decisions": [
@@ -101,5 +101,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      78,
+      82
+    ],
+    "manuscript_changed": true,
+    "note": "removed misbound Chapter-79 prior-timeline block from target 78"
+  }
 }
