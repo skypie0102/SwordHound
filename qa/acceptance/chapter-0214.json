@@ -2,8 +2,8 @@
   "chapter": 214,
   "title": "Festival Night (9)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Festival Night",
     "range": [
@@ -11,8 +11,8 @@
       215
     ],
     "family_qa_path": "qa/families/festival-night-0206-0215.md",
-    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
-    "status": "pass"
+    "family_qa_sha": "d9231075caf781e936b143162cac595cd022fa76",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/214.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-212.xhtml",
     "english_reference_sha": "273f7a07f3c9f2ede1ab2a2f8bfd03ca7af11bf4",
     "draft_path": "manuscript/drafts/chapter-0214.md",
-    "draft_sha": "c3f78ef4a2523394b015d331fee131f499b1d01e",
+    "draft_sha": "9919996efd96e1ea4cb8946bc4c5eb29a331808d",
     "qa_path": "qa/chapter-0214.md",
-    "qa_sha": "8cba1440285bdb1911afcc988a33e219bdd32f68",
+    "qa_sha": "5e02e325addaeff151c6889c9dc6f247a7f9e2b3",
     "provenance_path": "editorial/provenance/chapter-0214.json",
-    "provenance_sha": "4333a2909e135331363af96cc2990ec6b6a9051d"
+    "provenance_sha": "dd4ffa0805ae6e2f896439394d5c8095d7beedd0"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -42,5 +42,12 @@
     "Dolores requests limited backup to protect civilians without trapping Night Hound.",
     "Hidden space visibility exception remains monsters or children under eight."
   ],
-  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Dolores affection/pilgrim/sacrifice/blood-and-wounds framing"
+  }
 }
