@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/150.txt` — `8e30ee75b8d75d9ad9100526fc9cea333d9f3b02`
 - English witness: **E149** — `460fbc535d134c06c517c1333f022fad1c16f9cd`
-- Draft: `manuscript/drafts/chapter-0150.md` — `93bbe3a2c57b5c15be4e524b74eca06c8c8caf48`
+- Draft: `manuscript/drafts/chapter-0150.md` — `067f0b1fa64d47836c55006e138b4aa5a8d82563`
 
 ## Checks
 - PASS — chapter opens on the final night of Golden Week service and follows directly from target 149's “Uncle” setup.
@@ -22,3 +22,14 @@
 - PASS — the farewell-kiss moment is treated innocently and briefly; Vikir declines because he is embarrassed.
 - PASS — Vikir explicitly corrects “Big Brother” to **“Uncle,”** which is the title-family punchline.
 - PASS — chapter ends exactly when Dolores blocks Vikir's exit.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source-present reaction that Tudor, Sancho, Pigi, and even Bianca are donating while crying with **tears and runny noses**, rather than merely being teary-eyed.
+
+The complete Not Brother, But Uncle family was reread after remediation. Shifted mapping remains **150→E149, 151→E150**; target 152/E151 begins *The Drinking Game (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Not Brother, But Uncle family QA.
