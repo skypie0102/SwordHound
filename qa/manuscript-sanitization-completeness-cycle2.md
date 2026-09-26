@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 2 ACTIVE — completeness reviewed through Chapter 132; next `Test Your Skills (133–138)`
+**Current stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification
 
 ## Progress
 
@@ -30,20 +30,26 @@ Wave accounting:
 
 Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidence under `qa/cycle2/sanitization/`, and `qa/cycle2-ledger.json`.
 
-### Phase 2 — ACTIVE
+### Phase 2 — COMPLETE
 
-- completeness reviewed: **132 / 500**
-- PASS: **94**
-- FAIL: **38**
-- 23 failures overlap Phase-1 FAIL chapters
-- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103**
-- current combined remediation population: **215 unique chapters**
-- manuscript edits during discovery: **0**
-- Wave A (Chapters 1–100): **COMPLETE**
-- Wave B current segment (101–132): **26 PASS / 6 FAIL**
-- next family: **Test Your Skills (133–138)**
+- completeness reviewed: **500 / 500**
+- PASS: **229**
+- FAIL: **271**
+- 198 failures overlap ordinary Phase-1 FAIL chapters
+- 73 are additions beyond the Phase-1 FAIL queue: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499**
+- Phase-1-only FAILs that passed completeness: **35, 262**
+- combined Phase-1/Phase-2 remediation population: **273 unique chapters**
+- remediation metadata: **273 / 273** union chapters queued
+- family completeness: **23 PASS / 95 FAIL / 0 pending**
+- manuscript edits during Phase-2 discovery: **0**
 
-Latest checkpoint: `qa/cycle2-phase2-checkpoint-0132.md`. Family evidence is recorded under `qa/cycle2/completeness/` and in `qa/cycle2-ledger.json`.
+Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is under `qa/cycle2/completeness/` and the authoritative live ledger is `qa/cycle2-ledger.json`.
+
+### Phase 3 — ACTIVE
+
+Boundary/alignment review is now the immediate project focus. No target has yet been granted new Cycle-2 Phase-3 clearance at this closure checkpoint.
+
+Start from the corpus beginning and verify every title-family boundary, shared/combined raw, overlap container, localized source gap, shifted/nontrivial English mapping, Side Story split, and duplicated/displaced source block before Phase-4 edits begin.
 
 ### Phase 0 — COMPLETE
 
@@ -300,10 +306,9 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Integrate the current audit branch into `main`.
-2. Continue Phase 2 at **Test Your Skills (133–138)** on the next Phase-2 working branch.
-3. Directly verify complete Chinese-source coverage for every target chapter in contiguous family order; do not repeat Chapters 1–132.
-4. Record completeness independently from sanitization and preserve all existing Phase-1 dispositions.
-5. Keep manuscript text unchanged during Phase-2 discovery; remediation/evidence rebinding remain Phase 4 work.
-6. Continue honoring documented source-container, source-gap, shifted-witness, and safety-limited exceptions while reserving formal boundary/alignment clearance for Phase 3.
-7. Synchronize live state documents and the master ledger at meaningful completeness checkpoints.
+1. Begin Phase 3 from the start of the corpus and verify chapter/family boundary integrity in target order.
+2. Reconcile all shared/combined Chinese raws, the 54/55 overlap case, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the exception table.
+3. Investigate duplicated/displaced source blocks already identified by Phase 2 without editing manuscript text.
+4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
+5. Keep all **273** remediation chapters frozen until Phase 3 closes, then begin Phase 4 from the earliest affected family.
+6. Keep EPUB assembly blocked.

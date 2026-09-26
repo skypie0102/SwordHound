@@ -1,5 +1,255 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 integration checkpoint
+
+Phase 1 and Phase 2 discovery are fully closed and the live documentation has been synchronized for the Phase-3 handoff.
+
+- sanitization: **500 / 500 COMPLETE** — **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
+- completeness: **500 / 500 COMPLETE** — **229 PASS / 271 FAIL**;
+- **198** completeness failures overlap Phase-1 FAILs;
+- **73** completeness-only additions raise the Phase-4 remediation population to **273 unique chapters**;
+- Phase-3 boundary/alignment clearance: **0 / 500** at handoff;
+- manuscript edits during Phase-1/Phase-2 discovery: **0**;
+- EPUB assembly remains blocked.
+
+**Next:** integrate this checkpoint into `main`, then continue Phase 3 on `audit/cycle2-phase3-boundary` from the corpus start. Keep the 273-chapter remediation queue frozen until Phase 3 closes.
+
+## 2026-09-26 — Cycle 2 Phase 2 COMPLETE at 500 / 500
+
+The direct Chinese-primary completeness pass is closed across the entire target corpus.
+
+- completeness reviewed: **500 / 500**;
+- PASS: **229**;
+- FAIL: **271**;
+- **198** completeness failures overlap ordinary Phase-1 sanitization FAIL chapters;
+- **73** are additions beyond the Phase-1 FAIL queue;
+- combined Cycle-2 remediation population: **273 unique chapters**;
+- family completeness: **23 PASS / 95 FAIL / 0 pending** across **118** families;
+- manuscript edits during Phase-2 discovery: **0**;
+- stale family/remediation metadata was normalized at closure, leaving **273 / 273** remediation-union chapters correctly queued.
+
+The final span from Chapter 470 through 500 closed the remaining families through **Side Story 5**. New completeness-only additions in that closing span include **471, 483, 496, 497, 498, and 499**.
+
+Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`.
+
+**Next:** Phase 3 — full-corpus boundary/alignment/exception integrity verification. EPUB assembly remains blocked.
+
+## 2026-09-26 — Cycle 2 Phase 2 reconciled through Chapter 470
+
+The live chapter/family ledger is authoritative through **Chapter 470**.
+
+- completeness reviewed: **470 / 500**;
+- PASS: **216**;
+- FAIL: **254**;
+- **187** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451**;
+- combined Cycle-2 remediation population: **267 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-436 checkpoint, Chapters **437–470** added **14 PASS / 20 FAIL** across **Dreaming the Impossible Dream**, **The Fall of Usher**, **Declaration of War**, **Infiltration of the Water Source**, and **The Prelude to a Counterattack**. New completeness-only additions are **446** and **451**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0470.md`.
+
+Next Phase-2 family: **Tochka Annihilation Battle (471–475)**.
+
+## 2026-09-26 — Cycle 2 Phase 2 reconciled through Chapter 436
+
+The live chapter/family ledger is authoritative through **Chapter 436**.
+
+- completeness reviewed: **436 / 500**;
+- PASS: **202**;
+- FAIL: **234**;
+- **169** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425**;
+- combined Cycle-2 remediation population: **265 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-418 checkpoint, Chapters **419–436** added **6 PASS / 12 FAIL** across **Goodbye, Nouvelle Vague**, **How to Become a Wandering Knight**, **The Night Walkers**, **The Lion King**, and **The Returned Hound**. New completeness-only additions are **422** and **425**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0436.md`.
+
+Next Phase-2 family: **Dreaming the Impossible Dream (437–440)**.
+
+## 2026-09-26 — Cycle 2 Phase 2 live checkpoint restored through Chapter 418
+
+The live ledger is authoritative at **418 / 500** after interruption recovery.
+
+- completeness reviewed: **418 / 500**;
+- PASS: **196**;
+- FAIL: **222**;
+- **159** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412**;
+- combined Cycle-2 remediation population: **263 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+A stale Chapter-252 state sync was detected and corrected immediately. The ledger and family evidence already contained completed Phase-2 work through **End game (409–418)**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0418.md`.
+
+Next Phase-2 family: **Goodbye, Nouvelle Vague (419–421)**.
+
+## 2026-09-25 — Cycle 2 Phase 2 reconciled through Chapter 384
+
+The live chapter/family evidence was reconciled against stale aggregate counters. The true contiguous Phase-2 frontier is **Chapter 384**.
+
+- completeness reviewed: **384 / 500**;
+- PASS: **186**;
+- FAIL: **198**;
+- **140** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **58**;
+- combined Cycle-2 remediation population: **258 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0384.md`.
+
+Next Phase-2 family: **The Rotten Dog of Nouvelle Vague (385–389)**.
+
+## 2026-09-24 — Cycle 2 Phase 2 reached Chapter 252
+
+Direct full-source completeness revalidation has reached **Chapter 252**.
+
+- completeness reviewed: **252 / 500**;
+- PASS: **137**;
+- FAIL: **115**;
+- **73** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**;
+- combined Cycle-2 remediation population: **242 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-224 checkpoint, Chapters **225–252** added **16 PASS / 12 FAIL** across **Tuition**, **Suspicion**, **National University League**, **Survival Contest**, and **Recap / Celebration Banquet**. The only new completeness-only addition in this span is **Chapter 236**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0252.md`.
+
+Next Phase-2 family: **Five Stars (253–254)**.
+
+## 2026-09-25 — Cycle 2 Phase 2 advanced through Chapter 368
+
+Direct full-source completeness revalidation has reached **Chapter 368**.
+
+- completeness reviewed: **368 / 500**;
+- PASS: **178**;
+- FAIL: **190**;
+- **132** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions remain **58**: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**;
+- combined Cycle-2 remediation population remains **258 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-340 checkpoint, Chapters **341–368** added **12 PASS / 16 FAIL** across **Private Life**, **Ballak**, **Key man**, **Outside the Tower**, **Crime and Punishment**, **Voluntary Escort**, **Ghost Castle of the Ultra-Deep Sea**, and **The Underground Extension Construction**. All sixteen failures in this span already overlap Phase 1; no new completeness-only target was added.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0368.md`.
+
+Next Phase-2 family: **The Servant (369–370)**.
+
+## 2026-09-25 — Cycle 2 Phase 2 advanced through Chapter 340
+
+Direct full-source completeness revalidation has reached **Chapter 340**.
+
+- completeness reviewed: **340 / 500**;
+- PASS: **166**;
+- FAIL: **174**;
+- **116** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335**;
+- combined Cycle-2 remediation population: **258 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-313 checkpoint, Chapters **314–340** added **10 PASS / 17 FAIL** across **Surplus Man**, **Underdogma**, **The Shadowless King of the Black Sea**, **Draw**, **The Mating Room**, and **Trap**. New completeness-only additions in this span are **326, 329, 331, 332, and 335**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0340.md`.
+
+Next Phase-2 family: **Private Life (341–342)**.
+
+## 2026-09-24 — Cycle 2 Phase 2 passed halfway at Chapter 252
+
+Direct full-source completeness revalidation has reached **Chapter 252**.
+
+- completeness reviewed: **252 / 500**;
+- PASS: **137**;
+- FAIL: **115**;
+- **73** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236**;
+- combined Cycle-2 remediation population: **242 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-224 checkpoint, Chapters **225–252** added **16 PASS / 12 FAIL** across **Tuition**, **Suspicion**, **National University League**, **Survival Contest**, and **Recap / Celebration Banquet**. The only new completeness-only addition in this span is **Chapter 236**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0252.md`.
+
+Next Phase-2 family: **Five Stars (253–254)**.
+
+## 2026-09-24 — Cycle 2 Phase 2 advanced through Chapter 224
+
+Direct full-source completeness revalidation has reached **Chapter 224**.
+
+- completeness reviewed: **224 / 500**;
+- PASS: **121**;
+- FAIL: **103**;
+- **62** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217**;
+- combined Cycle-2 remediation population: **241 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-202 checkpoint, Chapters **203–224** added **6 PASS / 16 FAIL** across **Mixed Bath**, **Festival Night**, **My Neck Will Be Your Sheath**, and **That Day, Him and Me**. New completeness-only additions in this span are **207, 211, 212, 216, and 217**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0224.md`.
+
+Next Phase-2 family: **Tuition (225–233)**.
+
+## 2026-09-24 — Cycle 2 Phase 2 Wave B complete through Chapter 202
+
+Direct full-source completeness revalidation has reached **Chapter 202**.
+
+- completeness reviewed: **202 / 500**;
+- PASS: **115**;
+- FAIL: **87**;
+- **51** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200**;
+- combined Cycle-2 remediation population: **236 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-185 checkpoint, Chapters **186–202** added **3 PASS / 14 FAIL** across **Aftermath**, **Attack Land**, **Preparing for the Festival**, and **The Corpse Queen**. New completeness-only additions in this span are **187, 190, 192, 193, and 200**.
+
+Wave B (Chapters **101–202**) is now family-complete at **47 PASS / 55 FAIL**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0202.md`.
+
+Next Phase-2 family: **Mixed Bath (203–205)**.
+
+## 2026-09-24 — Cycle 2 Phase 2 advanced through Chapter 185
+
+Direct full-source completeness revalidation has reached **Chapter 185**.
+
+- completeness reviewed: **185 / 500**;
+- PASS: **112**;
+- FAIL: **73**;
+- **42** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184**;
+- combined Cycle-2 remediation population: **231 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-169 checkpoint, Chapters **170–185** added **7 PASS / 9 FAIL** across **Adorable Pet**, **The Anti-Columnist**, **The 99 Hits With 100 Shots**, and **Midterm Random Defense**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0185.md`.
+
+Next Phase-2 family: **Aftermath (186–189)**.
+
+## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 169
+
+Direct full-source completeness revalidation has reached **Chapter 169**.
+
+- completeness reviewed: **169 / 500**;
+- PASS: **105**;
+- FAIL: **64**;
+- **40** completeness failures overlap Phase-1 FAIL chapters;
+- completeness-only additions: **42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168**;
+- combined Cycle-2 remediation population: **224 unique chapters**;
+- manuscript edits during Phase-2 discovery: **0**.
+
+Since the Chapter-132 checkpoint, Chapters **133–169** added **11 PASS / 26 FAIL** across **Test Your Skills**, **Men are Power**, **Identity of the Villain**, **Volunteering for the Golden Week**, **Not Brother, But Uncle**, **The Drinking Game**, **How to Keep Your Night Shift Employees Safe**, **Familiar Face**, and **Sin and Punishment**.
+
+Checkpoint evidence: `qa/cycle2-phase2-checkpoint-0169.md`.
+
+Next Phase-2 family: **Adorable Pet (170–171)**.
+
 ## 2026-09-23 — Cycle 2 Phase 2 advanced through Chapter 132
 
 Direct full-source completeness revalidation has reached **Chapter 132**.
