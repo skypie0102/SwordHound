@@ -9,7 +9,7 @@
       54
     ],
     "family_qa_path": "qa/families/slaves-savage-tribe-0052-0054.md",
-    "family_qa_sha": "ddde14abfe993392e9ea56dbfdb6f8e416896878",
+    "family_qa_sha": "4e50b641edc188aa9fc958a8b627910ed637a09c",
     "status": "pass"
   },
   "primary_source": {
@@ -53,7 +53,7 @@
   },
   "qa": {
     "path": "qa/chapter-0053.md",
-    "blob_sha": "12dca40cfa5c826c88bb8f8950966a45afea8867",
+    "blob_sha": "e6bc04e6c9fdd7f09d3382d2cfbe5e69b78d968f",
     "status": "pass"
   },
   "documented_decisions": [
@@ -79,5 +79,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "family_revalidated_and_rebound",
+    "family_reviewed": [
+      52,
+      54
+    ],
+    "manuscript_changed": false,
+    "note": "full-family Phase 4 reread confirmed no ordinary manuscript correction required"
+  }
 }
