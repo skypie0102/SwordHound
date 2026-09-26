@@ -47,7 +47,7 @@ Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is un
 
 ### Phase 3 — COMPLETE
 
-Boundary/alignment review is the immediate project focus.
+Boundary/alignment review is complete. The immediate project focus is Phase 4 remediation and evidence rebinding.
 
 - reviewed: **500 / 500** targets;
 - PASS: **53**;
