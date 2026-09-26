@@ -9,8 +9,8 @@
       178
     ],
     "family_qa_path": "qa/families/99-hits-0176-0178.md",
-    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
-    "status": "pass"
+    "family_qa_sha": "2f3dcc24df17982648fe316ee4cbe2438b6755a9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/176.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0176.md",
     "blob_sha": "d40086bd0f65224bde00494e32e918a14a289d83",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/179.txt",
     "chinese_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
     "english_path": "source/chapters/chapter-177.xhtml",
     "english_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
     "purpose": "both begin Midterm Random Defense (1), target179"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      176,
+      178
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
