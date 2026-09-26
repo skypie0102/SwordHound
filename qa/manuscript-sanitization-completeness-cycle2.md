@@ -49,19 +49,19 @@ Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is un
 
 Boundary/alignment review is the immediate project focus.
 
-- reviewed: **368 / 500** targets;
+- reviewed: **384 / 500** targets;
 - PASS: **53**;
 - FAIL: **2**;
-- EXCEPTION-DOCUMENTED: **313**;
-- families reviewed: **88 / 118**;
+- EXCEPTION-DOCUMENTED: **329**;
+- families reviewed: **94 / 118**;
 - family PASS: **14**;
 - family FAIL: **2**;
-- family EXCEPTION-DOCUMENTED: **72**;
-- genuine source-exception rows added during Phase 3: **301**;
+- family EXCEPTION-DOCUMENTED: **78**;
+- genuine source-exception rows added during Phase 3: **317**;
 - manuscript edits during Phase 3: **0**;
 - open structural FAILs: **273, 283**;
-- latest checkpoint: `qa/cycle2-phase3-checkpoint-0368.md`;
-- next family: **The Servant (369–370)**;
+- latest checkpoint: `qa/cycle2-phase3-checkpoint-0384.md`;
+- next family: **The Rotten Dog of Nouvelle Vague (385–389)**;
 - exception-table normalization: **75 redundant replay rows removed; all 36 baseline rows preserved**.
 
 ## Phase 3 — Corpus boundary, alignment, and exception integrity pass
@@ -171,7 +171,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 3 from **The Servant (369–370)** and proceed in contiguous title-family order.
+1. Continue Phase 3 from **The Rotten Dog of Nouvelle Vague (385–389)** and proceed in contiguous title-family order.
 2. Continue reconciling shared/combined Chinese raws, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the normalized exception table.
 3. Preserve open structural FAILs at Chapters **273 and 283** for Phase 4; investigate any newly discovered duplicated/displaced source blocks without editing manuscript text.
 4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
