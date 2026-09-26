@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 4 — Test Your Skills complete
+
+Phase 4 remediation/evidence rebinding advanced through **Test Your Skills (133–138)**.
+
+- remediation chapters complete: **44 / 273**;
+- remediation chapters remaining: **229**;
+- affected families complete: **18**;
+- manuscript edits: **46**;
+- Chapters **133, 135, 136, 137, 138** repaired and rebound;
+- Chapter **134** complete-family revalidated unchanged;
+- next affected family: **Men are Power (139–140)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 4 — advanced through Ghosts of the Ancestors
 
 Phase 4 remediation/evidence rebinding is now authoritative through **The Ghosts of the Ancestors (90–94)**.
