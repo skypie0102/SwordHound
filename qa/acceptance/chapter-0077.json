@@ -2,8 +2,8 @@
   "chapter": 77,
   "title": "The Hound of the Night (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Hound of the Night",
     "range": [
@@ -11,7 +11,7 @@
       77
     ],
     "family_qa_path": "qa/families/hound-night-0075-0077.md",
-    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "family_qa_sha": "8afc4f3deba4a4e81118b3a57bcc06bb810f880d",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-076.xhtml",
     "english_reference_sha": "47f1a314662aacaf5d0117a6fd461d15258c8b14",
     "draft_path": "manuscript/drafts/chapter-0077.md",
-    "draft_sha": "e1e686eb4c3ad3279809cda2f260ba5105d49a99",
+    "draft_sha": "dd041b9704cf65e3e988ff5c1df147432eb090d0",
     "qa_path": "qa/chapter-0077.md",
-    "qa_sha": "8a0eb293de2412bc54fe3073cfb64a5876e1344a",
+    "qa_sha": "4262be873bdf7efb644a6aba5e6bd75e9585d782",
     "provenance_path": "editorial/provenance/chapter-0077.json",
-    "provenance_sha": "5a613b08198da8c4c60e0158d97bdd128ae37afa"
+    "provenance_sha": "42878a59a7c5d2ba3bf3ea9b4de5fe77a788209c"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -39,5 +39,12 @@
     "Target77 maps to E76.",
     "Mozgus current rank is estimated between Mid and High Sword Graduator; later twin/Old Order spoilers excluded.",
     "Target78 begins The Saintess (1)."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Mozgus history/cruelty, scripture weight, and combat assessment"
+  }
 }
