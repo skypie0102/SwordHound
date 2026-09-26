@@ -6,33 +6,29 @@ Recovered source, reference, reconstruction, QA, and EPUB-preparation material f
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2 ACTIVE**.
+Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 3 ACTIVE**.
 
 - Target manuscript files present: **500 / 500**
 - Historical accepted state entering Cycle 2: **500 / 500**
-- Cycle-2 sanitization reviewed: **100 / 500**
-- Cycle-2 sanitization PASS: **62 / 500**
-- Cycle-2 sanitization FAIL: **20 / 500**
-- Cycle-2 sanitization SAFETY-LIMITED-REVIEWED: **18 / 500**
-- Cycle-2 completeness revalidated: **0 / 500**
+- Cycle-2 sanitization: **500 / 500 COMPLETE** — **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**
+- Cycle-2 completeness: **500 / 500 COMPLETE** — **229 PASS / 271 FAIL**
+- Phase-1/Phase-2 overlap: **198** completeness failures overlap Phase-1 FAILs
+- Completeness-only additions beyond the Phase-1 FAIL queue: **73**
+- Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **0 / 500**
-- Confirmed Cycle-2 failures: **20 sanitization findings in Chapters 1–100; Phase-4 remediation pending**
-- Current stage: **Phase 1 Wave A complete; Wave B begins at Nostalgia (101–104)**
-- Active Cycle-2 plan: qa/manuscript-sanitization-completeness-cycle2.md
-- Historical post-500 audit record: qa/manuscript-completeness-audit.md
+- Current stage: **Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity pass, beginning at the corpus start**
+- Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
+- Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
+- Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
 - Complete-EPUB assembly: **BLOCKED until Cycle 2 closes**
 
-The previous 2026-09-20 completeness audit remains valid historical evidence and closed with **500 accepted / 0 known rework** after repairing confirmed compression failures. Cycle 2 is a new, stricter audit opened before packaging: it requires fresh sanitization-fidelity review and direct full-source completeness revalidation for **every Chapter 1–500**, regardless of prior PASS state or size ratio.
+The previous 2026-09-20 completeness audit remains valid historical evidence and closed with **500 accepted / 0 known rework** after repairing confirmed compression failures. Cycle 2 is a new, stricter release-blocking audit: historical acceptance remains evidence, not an automatic Cycle-2 pass.
 
-The audit has separate gates for sanitization fidelity, complete source coverage, and boundary/alignment integrity. Prior acceptance is evidence, not an automatic Cycle-2 pass. EPUB assembly will not resume until all 500 targets clear the new closure criteria.
+Phase 0 froze the opening baseline at `8177e1c192cd7fcd55b04009fbe826bbd50f586b`, inventoried all **500 targets / 118 title families**, reconciled **36 source-exception rows**, verified the historical evidence paths and acceptance SHAs, and recorded deterministic diagnostics with no coverage gaps or overlaps.
 
-## Cycle 2 Phase 0 baseline
+Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. Phase 2 is also complete across Chapters 1–500 at **229 PASS / 271 FAIL**; **198** completeness failures overlap Phase-1 FAILs and **73** are completeness-only additions, producing **273 unique remediation chapters**.
 
-Phase 0 is complete. The audit froze opening main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`, inventoried all 500 targets across 118 contiguous title-family units, reconciled all 36 source-exception rows, verified all current evidence paths and acceptance SHAs, and recorded deterministic manuscript diagnostics for Chapters 1–500 with zero coverage gaps or overlaps.
-
-No manuscript or accepted QA/provenance/acceptance/family-QA content was edited during Phase 0.
-
-Phase 1 Wave A (Chapters 1–100) is complete at **62 PASS / 20 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. See `qa/cycle2-phase1-wave-a-summary.md`. Wave B begins at **Nostalgia (101–104)**.
+Phase 3 is now the immediate focus. It must structurally revalidate all title-family/chapter boundaries, combined/shared raws, the 54/55 overlap, localized source gaps, shifted/nontrivial English mappings, Side Story ordering, and any duplicated/displaced source blocks before Phase 4 remediation begins. No manuscript remediation is performed during Phase 3 discovery.
 
 ## Current source policy
 
