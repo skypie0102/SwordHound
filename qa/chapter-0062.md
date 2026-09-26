@@ -35,3 +35,13 @@ Target 62 → E61 is verified by the complete sequence: ~100 kg Oxbear offering 
 ## Explicitness / corruption check
 
 Marriage/reproductive pressure is retained as coercive social context, not romanticized. Recovered-English gender/pronoun corruption is rejected.
+
+## Cycle-2 Phase 4 revalidation
+
+**Revalidated 2026-09-26.** The complete family was reread because Chapters 61 and 63 required remediation. Direct C062-to-draft comparison reconfirmed the Phase-2 **PASS**: no ordinary manuscript defect was found and no Chapter-62 manuscript edit was required.
+
+The mate-assignment/reproductive pressure remains **SAFETY-LIMITED-REVIEWED** at a non-explicit social/plot level. All surrounding ordinary material, including the Madam Eight-Legs offering, Piranha Natteri sequence, food collection, village queue, and reward setup, remains complete.
+
+## Phase-4 decision
+
+**PASS at chapter level after full-family revalidation.** Final family acceptance is rebound through the refreshed Chapters 61–63 family QA.
