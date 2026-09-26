@@ -68,7 +68,7 @@ The shaman took one look at the siblings and erupted.
 
 “I told you not to wander wherever you wanted!”
 
-He spat toward Aheul's face as she lay groaning, then shouted over her sickbed.
+He spat at Aheul's face as she lay groaning, then shouted over her sickbed.
 
 “You listened to that Imperial spy, and now look at you. You brought this on yourself.”
 
