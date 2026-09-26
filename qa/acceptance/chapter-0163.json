@@ -2,8 +2,8 @@
   "chapter": 163,
   "title": "Sin and Punishment (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Sin and Punishment",
     "range": [
@@ -11,18 +11,18 @@
       169
     ],
     "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
-    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
-    "status": "pass"
+    "family_qa_sha": "7d3de1fac432b46b7b3187df56d3ce19a8de336d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/163.txt",
     "primary_source_sha": "7331200ebbc8dcaf5fa30a95290c77a7f98c26d3",
     "draft_path": "manuscript/drafts/chapter-0163.md",
-    "draft_sha": "04413470b69380debfc8cd5bfbe9248d38bd74b9",
+    "draft_sha": "87b4f199dd083bc7c0c1e1e5ea472e643e21ce28",
     "qa_path": "qa/chapter-0163.md",
-    "qa_sha": "a6c9326181a7ae7cdf26206814e9ec0e0cf181c7",
+    "qa_sha": "ccb5647495709f22cea6aea46714ecef0d725e0b",
     "provenance_path": "editorial/provenance/chapter-0163.json",
-    "provenance_sha": "4232d3230c3078c8a108dedf0574c8575e9258c6",
+    "provenance_sha": "af05914e23252c19b09b102a4be4cc714ee60e3f",
     "english_reference_path": "source/chapters/chapter-162.xhtml",
     "english_reference_sha": "8a18b6dd050a973c222cbd368239c7cd5182c836"
   },
@@ -39,5 +39,12 @@
     "S+ overrides recovered-English S.",
     "Cannibal/farm claims remain Dantalian's villain exposition."
   ],
-  "witness_gap": null
+  "witness_gap": null,
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored facial-skin harvesting and sexy-woman descriptor"
+  }
 }
