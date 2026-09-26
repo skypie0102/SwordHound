@@ -70,6 +70,12 @@ rose.
 > In neglected regions, almost as common as rats.
 >
 > A skilled necromancer can use even small bone fragments as portable seeds, summoning skeleton soldiers far more easily than zombies requiring flesh or ghosts requiring soul fragments.
+>
+> Zombie flesh is inconvenient to carry: even dried into jerky, it eventually rots away.
+>
+> Ghost media are no better: even soul fragments sealed in glass eventually evaporate.
+>
+> Bone fragments near enough to ash are therefore exceptionally practical seeds for a high-level necromancer.
 
 Click.
 
@@ -129,11 +135,23 @@ Halloween—
 
 saved the panic.
 
+People follow the mood around them.
+
+If a fire starts and smoke enters a room—
+
+but everyone nearby stays calmly seated—
+
+a person may remain seated too despite feeling uneasy,
+
+and can ultimately suffocate to death.
+
+That same crowd psychology was at work here.
+
 Almost everyone—
 
 already looked dead.
 
-Most nearby spectators—
+Roughly **99%** of the partygoers nearby—
 
 were outsiders.
 
