@@ -154,13 +154,13 @@ Vikir assessed him.
 
 *Mid to High Sword Graduator equivalent.*
 
-Weaker than the Mozgus Vikir remembered from the future.
+Only about half as strong as the Mozgus Vikir remembered from before regression.
 
 But this was Quovadis territory.
 
 Mozgus could replenish and heal himself with divine power.
 
-Under these conditions, the fight would not be simple.
+Under these conditions, the present matchup was nearly even.
 
 Mozgus growled.
 
