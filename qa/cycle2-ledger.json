@@ -1788,7 +1788,16 @@
         219
       ],
       "boundary_review_file": "qa/cycle2/boundary/my-neck-sheath-0216-0219.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        216,
+        217,
+        219
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 216, 217, and 219 remediated and fully rebound; Chapter 218 complete-family revalidated unchanged."
     },
     {
       "index": 55,
@@ -16868,15 +16877,19 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source retrospective clue about the Corpse Queen's unusual rage at the crazed court mage is replaced by a Ballak-archery reaction, substituting different evidence."
       ],
       "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md",
       "boundary_review_file": "qa/cycle2/boundary/my-neck-sheath-0216-0219.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 217,
@@ -16928,15 +16941,19 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the mana-surge explanation omits the cerebral-infarction/hemorrhage danger comparison and the full-body pore-release/explosion mechanism."
       ],
       "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md",
       "boundary_review_file": "qa/cycle2/boundary/my-neck-sheath-0216-0219.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 218,
@@ -16996,7 +17013,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md",
       "boundary_review_file": "qa/cycle2/boundary/my-neck-sheath-0216-0219.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 219,
@@ -17048,15 +17069,19 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/my-neck-will-be-your-sheath-0216-0219.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir's explicit thought of cutting off Rosie's head is generalized, and the source near-wetting fear response is replaced by unsupported 'nearly killed me' language."
       ],
       "completeness_review_file": "qa/cycle2/completeness/my-neck-will-be-your-sheath-0216-0219.md",
       "boundary_review_file": "qa/cycle2/boundary/my-neck-sheath-0216-0219.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 220,
@@ -38571,21 +38596,21 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 100,
-    "remediation_remaining_chapters": 173,
-    "families_completed": 34,
+    "remediation_completed_chapters": 103,
+    "remediation_remaining_chapters": 170,
+    "families_completed": 35,
     "last_completed_family": {
-      "name": "Festival Night",
-      "start": 206,
-      "end": 215
-    },
-    "next_family": {
       "name": "My Neck Will Be Your Sheath",
       "start": 216,
       "end": 219
     },
-    "earliest_remediation_chapter": 216,
-    "manuscript_edits": 100,
+    "next_family": {
+      "name": "That Day, Him and Me",
+      "start": 220,
+      "end": 224
+    },
+    "earliest_remediation_chapter": 221,
+    "manuscript_edits": 103,
     "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
