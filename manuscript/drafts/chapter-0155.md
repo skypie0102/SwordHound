@@ -38,7 +38,7 @@ Who in the world—
 
 after all—
 
-could calmly admit to wetting himself while lying over the Saintess?
+could calmly admit to urinating on the Saintess's belly?
 
 Even after seeing the evidence—
 
@@ -160,7 +160,7 @@ Pigi looked close to tears.
 
 “If this keeps going, being called a bedwetter will be the least of your problems!”
 
-“You supposedly did it on the Saintess!”
+“You supposedly urinated on the Saintess's belly!”
 
 “That's practically blasphemy!”
 
