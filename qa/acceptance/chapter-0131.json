@@ -2,8 +2,8 @@
   "chapter": 131,
   "title": "The Freshman Talent Show (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Freshman Talent Show",
     "range": [
@@ -11,8 +11,8 @@
       132
     ],
     "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
-    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
-    "status": "pass"
+    "family_qa_sha": "d54952148afc8aba53cc230d00694544833c066c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/131.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-130.xhtml",
     "english_reference_sha": "b843d5c49b22853b48b21c529c77a2bec5081bc4",
     "draft_path": "manuscript/drafts/chapter-0131.md",
-    "draft_sha": "9755f192aa86e5c554196ac377297214348dcef1",
+    "draft_sha": "f80f178398f88875e1eb6bfd91ce50386721227b",
     "qa_path": "qa/chapter-0131.md",
-    "qa_sha": "978183f3c5845472a78e05fe77c739108bc64eb8",
+    "qa_sha": "c1fa439ce3a5ecff83ef0da5a37a4a8e296a9503",
     "provenance_path": "editorial/provenance/chapter-0131.json",
-    "provenance_sha": "37b9c10204fff00b4710503cb1b2ec8552f0580b"
+    "provenance_sha": "b475fc2c172b45187ff77f3301bc7e86bef47573"
   },
   "canonical_checks": [
     "Tudor Donquixote",
@@ -38,5 +38,12 @@
     "Sinclaire interest remains limited to source-present curiosity/kindness.",
     "Bianca and Dolores remain uncertain about Vikir's identity.",
     "Target131 ends before retaliation."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored explicit cruel/brutal/merciless/malicious narrator framing"
+  }
 }
