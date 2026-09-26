@@ -9,10 +9,10 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 158 | 158.txt | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | **E157** | `91d67d8d59d68825a4779fe641605572fdff43ab` | `d168adaae4752967b229d2809859a35a6111d53f` | `79ccb43920283742751ca220b7adc528e216ee45` |
-| 159 | 159.txt | `8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d` | **E158** | `3c7c17917f56fd16b0400a2baa8f8ea093a203d6` | `d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8` | `2d1b7ca6f575e546c5c8595008bc37319d832d43` |
-| 160 | 160.txt | `9eff893be76f824143b62d96a0786e3231640510` | **E159** | `eef7b095585fff9b1d3e3cb29a8f6563e8842654` | `fc8395cb8dfef12b16924b827e556d0fc642ee11` | `3c103cd8f520b7d929ee92b3552f005b3e90c033` |
-| 161 | 161.txt | `73a757520b40ef0438a9b3873511f190cd16588d` | **E160** | `5c5e33eba33c4d9836193d6bbb29cca53770a817` | `b5d67f3439f03aedbdfc35499afffcae0c819ca6` | `022a581ee8322e8b4a1cb40b3d2b96590c44280e` |
+| 158 | 158.txt | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | **E157** | `91d67d8d59d68825a4779fe641605572fdff43ab` | `61fb3eb71aca33115da346ac908c84b1cb438b6a` | `3b1d9c7ae8dc8a10108a5a6ab230d8fee769656c` |
+| 159 | 159.txt | `8ca3f6c4e0f2c2934b62051ec10634db7bc8ec7d` | **E158** | `3c7c17917f56fd16b0400a2baa8f8ea093a203d6` | `1f0970f348be738bb6d5111d331ff6bc003e423f` | `863f45789b24c1463375fe4dd177e64f9407d7c4` |
+| 160 | 160.txt | `9eff893be76f824143b62d96a0786e3231640510` | **E159** | `eef7b095585fff9b1d3e3cb29a8f6563e8842654` | `13c8a70abee2d7b9d4493dc1c6c3ea0e58a6a9bb` | `da33808c2ca88c6fefa379eddb8d300d013ffb0f` |
+| 161 | 161.txt | `73a757520b40ef0438a9b3873511f190cd16588d` | **E160** | `5c5e33eba33c4d9836193d6bbb29cca53770a817` | `882eed710965f3871f18534377e9486641c289a3` | `fac8d2fe7742bfe183eb5ac179821c8db34ac719` |
 | boundary 162 | 162.txt — *Sin and Punishment (1)* | `680770fdf7b23729571a227210cf1346b0a82774` | **E161** | `2cce07a6f2cc14c6860fee7a3ca615a3d70e001d` | next family | next family |
 | boundary 170 | 170.txt — *Adorable Pet (1)* | `c9640b7a5382c780d05bf0aadd6363dc202a6793` | **E168** | `d0304c953deb7cfcc8dd7b6eb7d0a1eab0f3be2b` | later family | later family |
 
@@ -82,3 +82,19 @@ Notes:
 PASS.
 
 Targets 158–161 form a complete four-part reveal/combat family: Ephebo defeat and first familiar face → Mozgus-twin/Ninth-Corpse network inference → Pedo/Hebe fight and great-house identities → Geronto/Camus false lead, grave-robbing clue, all four artifacts recovered → Quilt's direct appearance. Chinese remains semantic authority, project/Fandom naming controls stable proper nouns, and later Dantalian-specific naming remains source-timed for the next family.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 158 restores the Seventh Fang's source-explicit practical purpose: killing the enemy **painfully**.
+- Chapter 159 restores the narrator's **beautiful / melancholy / heartache** framing of Dolores's faith-collapse expression.
+- Chapter 160 restores source-level visible **bone/internal organs** and the non-erotic realization that Dolores is seeing a young man's **naked body at close range** through destroyed clothing.
+- Chapter 161 restores the clinical **naked pale-skinned reconstructed female corpse** identity check, its explicit anti-erotic clarification, and the concrete **secondary physical development** comparison with Camus.
+- Sanitization fidelity and completeness were rerun across Chapters 158–161 after repair.
+- Shifted mapping remains **158→E157, 159→E158, 160→E159, 161→E160**; target 162/E161 begins *Sin and Punishment (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Sin and Punishment (162–169)**.
