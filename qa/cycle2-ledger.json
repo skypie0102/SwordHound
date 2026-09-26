@@ -277,7 +277,15 @@
         37
       ],
       "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        35,
+        36,
+        37
+      ],
+      "phase4_rebind_complete": true
     },
     {
       "index": 12,
@@ -5396,13 +5404,17 @@
         "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 36,
@@ -5450,13 +5462,17 @@
         "Cycle 2 Phase 2 FAIL: a source-present retaliatory body-directed command is replaced by generic 'Turn around,' and the direct narration that onlookers witness a man being torn apart alive is omitted.",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 37,
@@ -5504,13 +5520,17 @@
         "Cycle 2 Phase 2 FAIL: the source-explicit internal-organ spill from a fleeing middle-aged man is generalized to merely being 'cut open on the spot.'",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/slave-auction-0035-0037.md",
       "completeness_review_file": "qa/cycle2/completeness/slave-auction-0035-0037.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/slave-auction-0035-0037.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 38,
@@ -37733,22 +37753,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 2,
-    "remediation_remaining_chapters": 271,
-    "families_completed": 1,
+    "remediation_completed_chapters": 5,
+    "remediation_remaining_chapters": 268,
+    "families_completed": 2,
     "last_completed_family": {
-      "name": "Camus Morgue",
-      "start": 20,
-      "end": 25
-    },
-    "next_family": {
       "name": "Slave Auction",
       "start": 35,
       "end": 37
     },
-    "earliest_remediation_chapter": 35,
-    "manuscript_edits": 2,
-    "evidence_rebind_status": "Camus Morgue 20-25 complete",
+    "next_family": {
+      "name": "Morgue's United Front",
+      "start": 40,
+      "end": 42
+    },
+    "earliest_remediation_chapter": 40,
+    "manuscript_edits": 5,
+    "evidence_rebind_status": "Camus Morgue 20-25 and Slave Auction 35-37 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
