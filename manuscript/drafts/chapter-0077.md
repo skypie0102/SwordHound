@@ -104,11 +104,17 @@ Inquisitor.
 
 A man Vikir had fought beside during the Age of Destruction.
 
-A comrade whose divine power had once illuminated battlefields and who had died fighting demons.
+A comrade whose divine power had once been said to illuminate a thousand *li*.
+
+He never compromised with evil and, for the sake of justice, could be crueler than demons themselves.
+
+In the war against the demons, he had fought a thousand of them alone and died heroically.
 
 Vikir also remembered something less sentimental.
 
-*Mozgus taught me a few interrogation methods.*
+*Mozgus taught me torture techniques.*
+
+He remembered using those techniques in the dungeon while torturing young masters of the Seven Great Families.
 
 Those memories belonged only to Vikir.
 
