@@ -18,3 +18,14 @@
 - PASS — prior students' trauma/leave/withdrawal/fear of combat is restored as the institutional cost of Sadi's behavior.
 - PASS — post-Sancho scores are restored as a sequence of extremely low results (4, 3, 8, 6, 5, 7, 4...), with faculty openly discussing later compensation.
 - PASS — chapter ends with Sadi noticing Vikir among the waiting students.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Sadi biting off the ends of her own fingers while drunk, former students wetting themselves at her laugh, and her comparison to making blood flow like a river.
+
+The complete Attack Land family was reread after remediation. Chapters 194–196 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **190→E188 through 196→E194**; target 197/E195 begins *Preparing for the Festival*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Attack Land family QA.
