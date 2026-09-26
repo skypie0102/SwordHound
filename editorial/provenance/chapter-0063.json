@@ -9,7 +9,7 @@
       63
     ],
     "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
-    "family_qa_sha": "d81ff09d6ec185a8c59730efb8957b7618ebc12c",
+    "family_qa_sha": "43124146b9a0e2786d44678d08296ff46b84561f",
     "status": "pass"
   },
   "primary_source": {
@@ -71,11 +71,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0063.md",
-    "blob_sha": "3a95a006e7bb54d8f35202366da98cff0cebe7a4"
+    "blob_sha": "24fb6d7b42c19462580bb78a9de135e19b2ee169"
   },
   "qa": {
     "path": "qa/chapter-0063.md",
-    "blob_sha": "974cd89773078dda486907bb4cf5aa72d1b2cbcb",
+    "blob_sha": "f8c6b743777f635e73eabb89f99ad5312219fb90",
     "status": "pass"
   },
   "documented_decisions": [
@@ -101,5 +101,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      61,
+      63
+    ],
+    "manuscript_changed": true,
+    "note": "restored source statement that Akwilla successively defeated Hugo Le Baskerville and Adolf Morgue"
+  }
 }
