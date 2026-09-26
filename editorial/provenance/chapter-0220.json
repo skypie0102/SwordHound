@@ -9,8 +9,8 @@
       224
     ],
     "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
-    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
-    "status": "pass"
+    "family_qa_sha": "816276c3e4dc9e23dea2d032d1fc5c40d1dc3306",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/220.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0220.md",
     "blob_sha": "8f50fd30c205a36bccc1e266490a6c5e569d5eb3",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/225.txt",
     "chinese_sha": "1879573d9f58626cc95bab311a29bccec2ad5cbf",
     "english_path": "source/chapters/chapter-223.xhtml",
     "english_sha": "fdd69ef9d7396852dca97e9936353a8d32ed6144",
     "purpose": "both begin Tuition (1), target225"
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      220,
+      224
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
