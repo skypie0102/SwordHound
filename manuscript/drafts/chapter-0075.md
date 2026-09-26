@@ -336,6 +336,8 @@ Keeping it was harder.
 
 A child with capital but no protection was exactly the kind of person an investment-minded survivor would approach.
 
+Cindywendy had done something similar before: she had sought out **Gambino**, an impoverished local baron, and become his investment adviser.
+
 Chihuahua considered that.
 
 “But why would Cindywendy help city government?”
