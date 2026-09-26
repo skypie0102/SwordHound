@@ -1,5 +1,20 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 4 — advanced through Ghosts of the Ancestors
+
+Phase 4 remediation/evidence rebinding is now authoritative through **The Ghosts of the Ancestors (90–94)**.
+
+- **The Saintess (78–82): COMPLETE** — five remediation chapters, all five manuscript targets repaired and rebound.
+- **Lovesickness (83–84): COMPLETE** — both remediation chapters repaired and rebound.
+- **The Ghosts of the Ancestors (90–94): COMPLETE** — Chapter 94 repaired; Chapters 90–93 complete-family revalidated unchanged.
+- remediation chapters complete: **33 / 273**;
+- remediation chapters remaining: **240**;
+- affected families complete: **14**;
+- manuscript edits: **35**;
+- next affected family: **Nostalgia (101–104)**; earliest remaining target **101**.
+- The Illiad (85–89) and Madam Eight-Legs (95–100) have no Phase-4 remediation targets.
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 4 — Hound of the Night complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Hound of the Night (75–77)** and reconciled interrupted ledger bookkeeping for the already-completed Unfair Trade, Blood Relatives, and Red Death families.
