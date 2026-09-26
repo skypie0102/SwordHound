@@ -9,8 +9,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/193.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0193.md",
-    "blob_sha": "9cc370aad266f8adff8cb85cf807e4c217120671"
+    "blob_sha": "fe2779552cdbea14b5de2ffe435915b16ccf6001"
   },
   "qa": {
     "path": "qa/chapter-0193.md",
-    "blob_sha": "40915d387dbaa8f3c9f9d70c0a3febb10631fc62",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "9fc7e5b5613861588d3d50c764e27e2f446e0d65",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,7 +55,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/197.txt",
     "chinese_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
@@ -79,5 +79,16 @@
     "status": "verified",
     "final": "Pigi remains Cold Department Class B despite isolated raw status-window drift.",
     "basis": "accepted roster continuity"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      190,
+      196
+    ],
+    "manuscript_changed": true,
+    "note": "restored Granola's cracked-teeth detail"
   }
 }
