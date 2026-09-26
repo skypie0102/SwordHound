@@ -40,7 +40,7 @@ Muscles and blood vessels had ruptured throughout his body.
 
 The bones supporting them were worse.
 
-The fingers and arm that had held the sword were shattered. Several ribs had broken and twisted inward, their sharp ends damaging his organs.
+The fingers and arm that had held the sword were shattered. Several ribs had suffered spiral fractures, their sharp ends piercing into his internal organs.
 
 His legs had suffered multiple fractures of different kinds.
 
