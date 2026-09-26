@@ -9,8 +9,8 @@
       197
     ],
     "family_qa_path": "qa/families/preparing-festival-0197.md",
-    "family_qa_sha": "623da8f71d31cb7a80109b99048f05a12d7affcd",
-    "status": "pass"
+    "family_qa_sha": "884d5265b17c181c56c43c3bb06139cb0562137b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/197.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0197.md",
-    "blob_sha": "eccfef53c50e5ad6f38f3d8713fc5f3e71443cbb"
+    "blob_sha": "a5baae0c7061410033cbbf214638c861d32d5d3c"
   },
   "qa": {
     "path": "qa/chapter-0197.md",
-    "blob_sha": "860faaf83d5674c4d2ac2c0ac7635c2e17e34cde",
-    "status": "pass"
+    "blob_sha": "6a312e22274f4dfa416a82fc6fea8eec2683ab63",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/198.txt",
     "chinese_sha": "d26aee9e8aaf10e8255528cced4cc9b7a8c8d296",
     "english_path": "source/chapters/chapter-196.xhtml",
     "english_sha": "644da488da68df85b1487d0a5aae178a9c0484d2",
     "purpose": "both begin The Corpse Queen (1), target198"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      197,
+      197
+    ],
+    "manuscript_changed": true,
+    "note": "restored full popularity-ranking set, extended festival costume/makeup crowd exchange, and literal animal-waste cleanup wording"
   }
 }
