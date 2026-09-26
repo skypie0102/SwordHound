@@ -1297,7 +1297,17 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/familiar-face-0158-0161.md",
       "boundary_review_file": "qa/cycle2/boundary/familiar-face-0158-0161.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        158,
+        159,
+        160,
+        161
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 158-161 remediated and fully rebound."
     },
     {
       "index": 43,
@@ -13099,15 +13109,19 @@
         "Cycle 2 Phase 1 FAIL: the source describes the Seventh Fang as existing to make enemies die painfully; the draft recasts this as efficient killing.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/familiar-face-0158-0161.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source defines Seventh Fang's sole practical purpose as making the enemy die painfully; the draft replaces that source content with efficient killing."
       ],
       "completeness_review_file": "qa/cycle2/completeness/familiar-face-0158-0161.md",
       "boundary_review_file": "qa/cycle2/boundary/familiar-face-0158-0161.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 159,
@@ -13158,15 +13172,19 @@
         "Cycle 2 Phase 1 FAIL: the narrator's explicit beautiful/sorrowful Dolores image that would make any man feel heartache is omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/familiar-face-0158-0161.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the narrator's source-present description of Dolores as beautiful/sorrowful enough to make any man feel heartache is omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/familiar-face-0158-0161.md",
       "boundary_review_file": "qa/cycle2/boundary/familiar-face-0158-0161.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 160,
@@ -13217,15 +13235,19 @@
         "Cycle 2 Phase 1 FAIL: source-explicit visible bone/internal organs and Dolores's close-range awareness of a young man's naked body are generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/familiar-face-0158-0161.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-present visible bone/internal organs and Dolores's close-range awareness of a young man's naked body are generalized to open wounds/exposed skin."
       ],
       "completeness_review_file": "qa/cycle2/completeness/familiar-face-0158-0161.md",
       "boundary_review_file": "qa/cycle2/boundary/familiar-face-0158-0161.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 161,
@@ -13276,15 +13298,19 @@
         "Cycle 2 Phase 1 FAIL: source-explicit non-erotic naked-corpse identification and the physical-development comparison used to rule out Camus are generalized/omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/familiar-face-0158-0161.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's clinical naked-corpse/anti-erotic identification detail and concrete secondary-physical-development comparison are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/familiar-face-0158-0161.md",
       "boundary_review_file": "qa/cycle2/boundary/familiar-face-0158-0161.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 162,
@@ -38238,22 +38264,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 55,
-    "remediation_remaining_chapters": 218,
-    "families_completed": 23,
+    "remediation_completed_chapters": 59,
+    "remediation_remaining_chapters": 214,
+    "families_completed": 24,
     "last_completed_family": {
-      "name": "How to Keep Your Night Shift Employees Safe",
-      "start": 155,
-      "end": 157
-    },
-    "next_family": {
       "name": "Familiar Face",
       "start": 158,
       "end": 161
     },
-    "earliest_remediation_chapter": 158,
-    "manuscript_edits": 57,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete",
+    "next_family": {
+      "name": "Sin and Punishment",
+      "start": 162,
+      "end": 169
+    },
+    "earliest_remediation_chapter": 162,
+    "manuscript_edits": 61,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
