@@ -9,7 +9,7 @@
       77
     ],
     "family_qa_path": "qa/families/hound-night-0075-0077.md",
-    "family_qa_sha": "ddfa912df3b33b86a1ee67c4315865c7d67bafc5",
+    "family_qa_sha": "8afc4f3deba4a4e81118b3a57bcc06bb810f880d",
     "status": "pass"
   },
   "primary_source": {
@@ -50,11 +50,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0076.md",
-    "blob_sha": "d25cee273318020cce6b9c999cfdab91447c2795"
+    "blob_sha": "7b450065c476fc46f45385119d2e1e861752181f"
   },
   "qa": {
     "path": "qa/chapter-0076.md",
-    "blob_sha": "966144f8bf892fd4e43f450507af2474ab19faa3",
+    "blob_sha": "536b8d5aea1623c88436579fa08273c19a410531",
     "status": "pass"
   },
   "documented_decisions": [
@@ -85,5 +85,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      75,
+      77
+    ],
+    "manuscript_changed": true,
+    "note": "restored children's terror response, Dolores status, and concrete petitioner details"
+  }
 }
