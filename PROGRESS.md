@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — That Day, Him and Me complete
+
+Phase 4 remediation/evidence rebinding is authoritative through **That Day, Him and Me (220–224)**.
+
+- remediation chapters complete: **104 / 273**;
+- remediation chapters remaining: **169**;
+- affected families complete: **36**;
+- manuscript edits: **104**;
+- Chapter **221** repaired and rebound;
+- Chapters **220, 222, 223, 224** complete-family revalidated unchanged;
+- next affected family: **Tuition (225–233)**, earliest remaining target **225**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — advanced through Mixed Bath
 
 Phase 4 remediation/evidence rebinding is authoritative through **Mixed Bath (203–205)**.
