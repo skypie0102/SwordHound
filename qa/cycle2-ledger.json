@@ -1569,7 +1569,17 @@
         193
       ],
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        190,
+        191,
+        192,
+        193
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 190-193 remediated and fully rebound; Chapters 194-196 complete-family revalidated unchanged."
     },
     {
       "index": 50,
@@ -15166,15 +15176,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: C190 duplicates/misplaces detailed remote-golem body-difference/synchronization mechanics that belong to C192; C190 itself only states that distance sense is an obstacle."
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 191,
@@ -15225,15 +15239,19 @@
         "Cycle 2 Phase 1 FAIL: Sadi's source-explicit bitten-off fingertip injury, students wetting themselves from trauma, and 'blood flow like a river' cruelty image are softened/generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Sadi's bitten-off finger-end injury, students explicitly wetting themselves from trauma, and the 'blood flow like a river' cruelty image are softened/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 192,
@@ -15284,15 +15302,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source says Sinclaire's kick broke all of her ribs and drove them into internal organs; the draft drops the all-ribs extent."
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 193,
@@ -15343,15 +15365,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/attack-land-0190-0196.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source explicitly has Granola's teeth crack while watching injured Sinclaire; the draft reduces this to grinding them hard enough to hurt."
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 194,
@@ -15410,7 +15436,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 195,
@@ -15469,7 +15499,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 196,
@@ -15528,7 +15562,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/attack-land-0190-0196.md",
       "boundary_review_file": "qa/cycle2/boundary/attack-land-0190-0196.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 197,
@@ -38417,22 +38455,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 78,
-    "remediation_remaining_chapters": 195,
-    "families_completed": 29,
+    "remediation_completed_chapters": 82,
+    "remediation_remaining_chapters": 191,
+    "families_completed": 30,
     "last_completed_family": {
-      "name": "Aftermath",
-      "start": 186,
-      "end": 189
-    },
-    "next_family": {
       "name": "Attack Land",
       "start": 190,
       "end": 196
     },
-    "earliest_remediation_chapter": 190,
-    "manuscript_edits": 80,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete",
+    "next_family": {
+      "name": "Preparing for the Festival",
+      "start": 197,
+      "end": 197
+    },
+    "earliest_remediation_chapter": 197,
+    "manuscript_edits": 84,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
