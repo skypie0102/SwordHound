@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/066.txt` — `72108754001f9ed99d7d87d2788032319851c716`
 - Recovered English witness: **E65** `source/chapters/chapter-065.xhtml` — `083f5862d89100752c1057afc33d87257f558db2`
-- Draft: `manuscript/drafts/chapter-0066.md` — `b4c7957d92f3809bc1e8addf3e811682c7ca10d6`
+- Draft: `manuscript/drafts/chapter-0066.md` — `dee61a7d2788d49fa2ddf899c0bef291d1dd8541`
 
 ## Alignment
 
@@ -16,9 +16,9 @@ Target 66 → E65 is verified by complete sequence: Sir Smuggler returns to merc
 ## Fidelity / terminology
 
 - PASS — mercenaries are wanted criminals, fugitives, and deserters; Sir Smuggler initially recognizes that full war with Ballak is dangerous.
-- PASS — racist threats against Vikir are summarized without gratuitous slurs; the key plot point that some notice his soot-blackened palms and suspect Imperial origin remains.
+- PASS — the direct race-based threats against soot-blackened Vikir are restored at source force without inventing stronger slurs; the follow-up observation about his blackened palms and suspected Imperial origin remains.
 - PASS — the “one match, two soldiers” superstition becomes a tactical locator: first ember gives position, second helps range, third is shot.
-- PASS — Ballak uses tiny light/sound cues with extreme precision; source-level lethal violence remains explicit.
+- PASS — Ballak uses tiny light/sound cues with extreme precision; the source-level lethal violence is explicit, including heads being separated from bodies and the mercenary captain losing nearly his entire head.
 - PASS — Vikir stops Aiyen from exterminating the first force solely to trace survivors to the rear camp, not out of mercy.
 - PASS — second camp has roughly another hundred mercenaries plus aura users/mages and defensive shields.
 - PASS — several arrows/ropes carry one oil barrel; barrels break over the camp and are ignited by fire arrows, destroying supplies needed for jungle survival.
@@ -31,3 +31,14 @@ Target 66 → E65 is verified by complete sequence: Sir Smuggler returns to merc
 ## Violence / corruption check
 
 Lethal battle effects are retained but not embellished beyond source meaning. Recovered-English racial slurs and pronoun corruption do not control wording.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The draft restores the direct race-based murder threats that had been reduced to a generic summary. It also restores the omitted ambush gore: mouth/neck impacts separating heads from bodies and the mercenary captain losing nearly his entire head, leaving only throat and chin before he falls.
+
+A complete C066 reread after those repairs found no additional ordinary defect. The survivor-tracking logic, second camp, oil-barrel tactic, permit confrontation, Sir Smuggler's death, Madam Eight-Legs bait, and silent endpoint remain intact.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Chapters 64–67 family QA.
