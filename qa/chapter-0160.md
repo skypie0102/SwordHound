@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/160.txt` — `9eff893be76f824143b62d96a0786e3231640510`
 - English witness: **E159** — `eef7b095585fff9b1d3e3cb29a8f6563e8842654`
-- Draft: `manuscript/drafts/chapter-0160.md` — `fc8395cb8dfef12b16924b827e556d0fc642ee11`
+- Draft: `manuscript/drafts/chapter-0160.md` — `13c8a70abee2d7b9d4493dc1c6c3ea0e58a6a9bb`
 
 ## Checks
 - PASS — Pedo uses twin jamadhars; Hebe uses giant pruning shears.
@@ -23,3 +23,14 @@
 - PASS — **Pedo** is identified as **Staffordshire Baskerville**, a Pit Bull Knights member/guide-dog trainer.
 - PASS — Staffordshire's undead appearance is tied to the aftermath of the Seth purge without importing later demon knowledge.
 - PASS — chapter ends exactly when **Geronto** appears at Dormitory One.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source-level aftermath: Vikir's injuries expose **bone and internal organs**, and Dolores explicitly realizes she is seeing a young man's **naked body at close range** through the destroyed clothing, with the beat kept non-erotic.
+
+The complete Familiar Face family was reread after remediation. Shifted mapping remains **158→E157, 159→E158, 160→E159, 161→E160**; target 162/E161 begins *Sin and Punishment (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Familiar Face family QA.
