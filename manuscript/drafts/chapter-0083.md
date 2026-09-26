@@ -76,7 +76,7 @@ A calm expression that did not belong in that place.
 
 He cut through the darkness around her without hesitation.
 
-The slave traders who had abused her were killed, maimed, or dragged away.
+The slave traders who had abused her were either killed outright or had their limbs cut off before being dragged away.
 
 The cage opened.
 
@@ -202,15 +202,13 @@ Helped stop a plague.
 
 And somewhere between all those events, ordinary days accumulated too.
 
+Aiyen teasing him for wetting himself.
+
+Eating boiled bear testicles.
+
 Hunting together.
 
-Meals.
-
-Jokes.
-
-Embarrassing moments.
-
-Hot springs.
+Playing in the hot springs.
 
 Arguments.
 
@@ -370,7 +368,7 @@ Aiyen stared.
 
 Akwilla added one more detail.
 
-“Your grandfather executed your father the next day for causing trouble with drugs.”
+“Your grandfather executed your father the next day for committing evil with drugs.”
 
 “……”
 
