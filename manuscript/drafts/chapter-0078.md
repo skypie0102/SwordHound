@@ -302,36 +302,6 @@ He was nearly certain now.
 
 Quovadis and the jungle tribes would become victims.
 
-Vikir did not mention Baskerville or Morgue.
-
-If he revealed that the original outbreak had begun deep in Le Rouge et Le Noir Mountain, then those houses also appeared to benefit.
-
-In the previous timeline, more than forty percent of the mountain tribes had died.
-
-Monster populations exploded.
-
-Border crises multiplied.
-
-Baskerville and Morgue gained political importance.
-
-Hugo strengthened his house.
-
-More hounds died to maintain it.
-
-Vikir had been one of them.
-
-His present plan touched every part of that future.
-
-Save Ballak.
-
-Block the Red Death.
-
-Strike Leviathan.
-
-Disrupt Bourgeois.
-
-And change the chain of events that had killed so many Baskerville hounds.
-
 He returned his attention to Dolores.
 
 “For those reasons, I believe Leviathan and Bourgeois are closely connected to this plague.”
