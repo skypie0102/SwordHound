@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 3 COMPLETE — Phase 4 remediation/evidence rebinding READY
+**Current stage:** Phase 4 ACTIVE — 12/273 remediation chapters complete; next The Protagonist of Hunting (61–63)
 
 ## Progress
 
@@ -188,10 +188,15 @@ Each checkpoint must report, at minimum:
 
 Phase 4 is **ACTIVE**.
 
-- **Camus Morgue (20–25): COMPLETE**
-- Repairs: Chapters **22, 24**
-- Full-family QA/provenance/acceptance/hash rebinding: **20–25 complete**
-- Remediation chapters complete: **2 / 273**
-- Remaining: **271**
-- Next affected family: **Slave Auction (35–37)**
-- Earliest remaining remediation target: **35**
+- remediation population: **273 unique chapters**;
+- completed remediation chapters: **12**;
+- remaining remediation chapters: **261**;
+- affected families completed: **6**;
+- manuscript edits: **13**;
+- last completed family: **The Hunter and the Hunted (55–60)**;
+- latest manuscript repairs: Chapters **55** and **60**;
+- next affected family: **The Protagonist of Hunting (61–63)**;
+- earliest remaining target: **61**;
+- all repaired families have refreshed chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger evidence bindings;
+- EPUB assembly remains blocked until Phase 5 independent residual verification and Phase 6 closure.
+
