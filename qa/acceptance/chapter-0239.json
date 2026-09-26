@@ -2,8 +2,8 @@
   "chapter": 239,
   "title": "National University League (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "National University League",
     "range": [
@@ -11,8 +11,8 @@
       244
     ],
     "family_qa_path": "qa/families/national-university-league-0236-0244.md",
-    "family_qa_sha": "945621a0210a6019557abe52f3b83afb2c11b86e",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "ce33215a3f9e3fa718d7c3234749dfa9879df3b9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/239.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0239.md",
     "qa_sha": "9602a61411cb24ab8607bbe3db406971152a11d8",
     "provenance_path": "editorial/provenance/chapter-0239.json",
-    "provenance_sha": "f86983c022ed902422599968b063daf75651dddd"
+    "provenance_sha": "c5026ccea1d7e89d7ad4ef98ca2e3159956dc77f"
   },
   "canonical_checks": [
     "Vikir",
@@ -55,5 +55,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/national-university-league-0236-0244.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
