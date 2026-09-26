@@ -1,5 +1,23 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 Wave D closed through Chapter 402
+
+Phase-3 structural review continued through **The Rotten Dog of Nouvelle Vague**, **The Worst Torture**, **Dead Man Walking**, and **Black Tongue**, closing the current 301–402 wave.
+
+- boundary/alignment reviewed: **402 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **347**;
+- title families reviewed: **98 / 118**;
+- family EXCEPTION-DOCUMENTED: **82**;
+- genuine new source-exception rows: **333**;
+- current normalized exception table: **369 rows** = 36 baseline + 333 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0402.md`;
+- next family: **Jailbreaker (403–408)**.
+
+The shared `385.txt` container was revalidated at its explicit Chapter-386 marker and the pre-existing target-385 closing-gap exception remains correctly scoped. Direct checks of the 395→396, 398→399, and 402→403 transitions found no additional displacement or duplication.
+
 ## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 384
 
 Phase-3 structural review continued from the Chapter-368 checkpoint through six contiguous Nouvelle Vague families: **The Servant**, **Solitary Confinement**, **Sucker Shark**, **Poseidon**, **The Hounds of Nouvelle Vague**, and **Kennel**.
