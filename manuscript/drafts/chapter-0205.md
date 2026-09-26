@@ -102,6 +102,8 @@ Warm water.
 
 Dolores cleaned the dried blood and dirt from his fur.
 
+Her soft fingers moved carefully over his body as she washed him.
+
 “So many scars.”
 
 “Did you fight with other animals?”
@@ -224,11 +226,15 @@ lower jaw.
 
 teeth working together.
 
-The sixth and seventh fangs—
+The Sixth and Seventh Fangs—
 
 especially—
 
 had to mesh as one killing mechanism.
+
+The manuals framed that relationship as a hidden horizontal paired-Fang configuration—
+
+a precise two-Fang geometry that only worked when their subtle interaction was understood.
 
 Vikir forced himself to concentrate.
 
@@ -249,6 +255,10 @@ a pat on the head.
 A squeeze of his cheeks.
 
 A rub under the chin.
+
+A rub of his belly.
+
+She even used her nose to wipe a bit of foam from the tip of his nose.
 
 Vikir's concentration—
 
@@ -310,7 +320,7 @@ Dolores brightened.
 
 Then—
 
-hugged the black puppy enthusiastically.
+hugged the black puppy and peppered him with repeated affectionate kisses.
 
 Vikir—
 
@@ -337,6 +347,8 @@ Single beds.
 She pulled Vikir under the blanket—
 
 and held him like a pet.
+
+Her lips brushed his nose once more while she settled him in her arms.
 
 “It's nice.”
 
