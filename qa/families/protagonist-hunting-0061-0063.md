@@ -8,9 +8,9 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 61 | `061.txt` | `834abb36714ce9d7329e7854720ea20170ce5586` | **E60** | `cf367731f723c719b61b06070cb648fa9cf23a95` | `12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b` | `ec787604f0abda5c3bb072f0fc89ab3e1a62c016` |
-| 62 | `062.txt` | `68c0110eec864429aebd42142991ba3694d8130f` | **E61** | `c03318d7153f27b179a5d2d7c36f4fa1e78d9dc2` | `aa267163bf0959623b7adc94f906518e8ac73ada` | `96233c67df63ff633095dc751b8a56f33d01ff41` |
-| 63 | `063.txt` | `9db84e3df9443b7dbe9591327707cf2ff8677504` | **E62** | `72c9b67ea93f772a9ab6adadfce10f33f7de34ad` | `3a95a006e7bb54d8f35202366da98cff0cebe7a4` | `974cd89773078dda486907bb4cf5aa72d1b2cbcb` |
+| 61 | `061.txt` | `834abb36714ce9d7329e7854720ea20170ce5586` | **E60** | `cf367731f723c719b61b06070cb648fa9cf23a95` | `522ff4a192bc23b5163edc1bdb73d69c5fed30ea` | `fed553951718959a2910ed590b0879681aab8ca2` |
+| 62 | `062.txt` | `68c0110eec864429aebd42142991ba3694d8130f` | **E61** | `c03318d7153f27b179a5d2d7c36f4fa1e78d9dc2` | `aa267163bf0959623b7adc94f906518e8ac73ada` | `3dfd41cdc72fbdda193ed384c5cc5fb15ece3eaf` |
+| 63 | `063.txt` | `9db84e3df9443b7dbe9591327707cf2ff8677504` | **E62** | `72c9b67ea93f772a9ab6adadfce10f33f7de34ad` | `24fb6d7b42c19462580bb78a9de135e19b2ee169` | `f8c6b743777f635e73eabb89f99ad5312219fb90` |
 | boundary | `064.txt` — *Unfair Trade (1)* | `332ef149eb32e1c0ba4aa67a53410d8d310f5844` | **E63** — *Unfair Trade (1)* | `54c7cd980ebb6bc505aab824a8e5a26bbe40edfd` | next family | next family |
 
 The one-chapter recovered-English lag established at the end of the previous family continues cleanly: **61→E60, 62→E61, 63→E62, 64→E63**.
@@ -69,3 +69,18 @@ PASS. Reproductive and mate-assignment material remains source-faithful but non-
 ## Family acceptance result
 
 **PASS.** Targets 61–63 form one complete family and are ready for provenance/acceptance binding.
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 61: restored the source-present **runny-nosed children** comparison and removed unsupported **tools** from the uses of Oxbear bones, claws, and teeth; the Chinese supports **weapons and ornaments**.
+- Chapter 62: complete-family reread reconfirmed the Phase-2 PASS; no ordinary manuscript edit was required.
+- Chapter 63: restored the source-supported statement that Akwilla **successively defeated Hugo Le Baskerville and Adolf Morgue**, replacing the materially weaker “fought and survived” wording.
+- The Phase-1 safety-limited dispositions remain narrowly scoped to underage reproductive/mate-assignment material; all surrounding ordinary content was rechecked in full.
+- Sanitization and completeness gates were rerun across Chapters 61–63 after the repairs.
+- The established shifted mapping remains valid: **61→E60, 62→E61, 63→E62**, with target 64/E63 beginning *Unfair Trade (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker bindings, and Cycle-2 ledger are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Unfair Trade (64–67)**.
