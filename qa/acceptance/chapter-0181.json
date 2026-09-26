@@ -2,8 +2,8 @@
   "chapter": 181,
   "title": "Midterm Random Defense (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Midterm Random Defense",
     "range": [
@@ -11,8 +11,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/181.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-179.xhtml",
     "english_reference_sha": "63c95813f5e35c163bf4434bed1f1a99829ff617",
     "draft_path": "manuscript/drafts/chapter-0181.md",
-    "draft_sha": "28960f629861883eb9323e493db5fab42e036b0b",
+    "draft_sha": "871289c77a39e95c15f39a52734fea7a28513a7f",
     "qa_path": "qa/chapter-0181.md",
-    "qa_sha": "4c1c2468186e97e979e1c38c081d270e92da30b7",
+    "qa_sha": "06d43e62941e5fa78f688bfeff3fddc113af5633",
     "provenance_path": "editorial/provenance/chapter-0181.json",
-    "provenance_sha": "8c1d40b956017b7136525bdc7e20f95f777308b5"
+    "provenance_sha": "b557a7983c1d856d016c6c4c85b1ff7598bf773f"
   },
   "canonical_checks": [
     "Baby Madam",
@@ -36,5 +36,12 @@
     "Crowd's one-point archery explanation remains incorrect in-story.",
     "Baby Madam's molt is revealed only at chapter close."
   ],
-  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1)."
+  "next_family_alignment_note": "Aftermath targets186-189: 186→E184,187→E185,188→E186,189→E187. Target190→E188 begins Attack Land (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored distinct support dialogue, poison-wall containment, and Granola pestering"
+  }
 }
