@@ -9,9 +9,9 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 152 | 152.txt | `d6fc3f4922a2a3f57c66ece2faa68efa4030859e` | **E151** | `55107beb518be3473b627551ec88399ce113f688` | `64ee1d4f880fc20ea7b7c4818540e2c6ba4e4cc9` | `96c8c5df16cb840909255c3c4e29f83749f4cd85` |
-| 153 | 153.txt | `b54f371d1ae74b97df8cfcda609f3962a3ad2c0b` | **E152** | `2887cbdd4984819cc7a9572566195982633c71f3` | `ff2cc52c6826be2df81a450175952cff8c890361` | `e9ad101bb0130c8cdd9bdc9d94409b4e3ef6a258` |
-| 154 | 154.txt | `910c44859941096caddc7c6cc87f812d3f5def03` | **E153** | `7c51133032286e15be15f8cd72303c4b30c62834` | `138a97adacfd1ec1c0c3c058890cca0f4940009d` | `0aab498430c802d24f6581cffd0ed15f24ffa75b` |
+| 152 | 152.txt | `d6fc3f4922a2a3f57c66ece2faa68efa4030859e` | **E151** | `55107beb518be3473b627551ec88399ce113f688` | `44b8d1edf44f8e6a07de6c800a8bd84be73e2679` | `035f70317ea835ef467df8ebbd67d3af10fbef2d` |
+| 153 | 153.txt | `b54f371d1ae74b97df8cfcda609f3962a3ad2c0b` | **E152** | `2887cbdd4984819cc7a9572566195982633c71f3` | `1801537f5aa3aad955edb4a6fdd76e5bee618345` | `d420f9c4509753757f17e6b297cba478d9be8d92` |
+| 154 | 154.txt | `910c44859941096caddc7c6cc87f812d3f5def03` | **E153** | `7c51133032286e15be15f8cd72303c4b30c62834` | `74036c2eba0ce0f724dc906e59d11dac8b24bd91` | `04cfab53e93ede7b67faacc6e291cb096ba3d42b` |
 | boundary 155 | 155.txt — *How to Keep Your Night Shift Employees Safe (1)* | `0443c1fb6b741512ddea3695e4307f9e918a91bc` | **E154** | `3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c` | next family | next family |
 | boundary 158 | 158.txt — *Familiar Face (1)* | `d0677ff2c2c232ad017287dd0223f04b90a00d3f` | **E157** | `91d67d8d59d68825a4779fe641605572fdff43ab` | later family | later family |
 
@@ -63,3 +63,18 @@ Target **158 → E157** begins **Familiar Face (1)**.
 PASS.
 
 Targets 152–154 form a complete three-part family: covert dorm gathering and Yut → Dolores/Vikir Go match and alcohol reveal → supervisor concealment, Dolores's humiliating accident, and Vikir taking the blame. Chinese remains semantic authority, standard Go terminology replaces witness corruption, and later relationship developments remain excluded.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 152 restores the **five-minute** Hill Seven waiting periods and Sinclaire's **loose tank top and shorts**.
+- Chapter 153 restores the **Maginot Line** comparison and the exact right arm → left arm → right leg → left leg → torso → neck destruction progression.
+- Chapter 154 restores Dolores's source-present whole-body **itching** and involuntary **shiver** when Vikir's breath reaches her ear.
+- Sanitization fidelity and completeness were rerun across Chapters 152–154 after repair.
+- Shifted mapping remains **152→E151, 153→E152, 154→E153**; target 155/E154 begins *How to Keep Your Night Shift Employees Safe (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **How to Keep Your Night Shift Employees Safe (155–157)**.
