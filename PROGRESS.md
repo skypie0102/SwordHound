@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Survival Contest complete
+
+Phase 4 remediation/evidence rebinding advanced through **Survival Contest (245–249)**.
+
+- remediation chapters complete: **116 / 273**;
+- remediation chapters remaining: **157**;
+- affected families complete: **40**;
+- manuscript edits: **116**;
+- Chapters **247** and **249** repaired and rebound;
+- Chapters **245, 246, 248** complete-family revalidated unchanged;
+- *Recap (250–252)* has no Phase-4 remediation targets;
+- next affected family: **Five Stars (253–254)**, earliest remaining target **254**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Suspicion complete
 
 Phase 4 remediation/evidence rebinding is authoritative through **Suspicion (234–235)**.
