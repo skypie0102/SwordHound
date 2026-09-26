@@ -15,8 +15,8 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Phase-1/Phase-2 overlap: **198** completeness failures overlap Phase-1 FAILs
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
-- Cycle-2 boundary/alignment revalidated: **0 / 500**
-- Current stage: **Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity pass, beginning at the corpus start**
+- Cycle-2 boundary/alignment revalidated: **25 / 500** — **25 PASS / 0 FAIL / 0 EXCEPTION-DOCUMENTED** across **7 / 118 families**
+- Current stage: **Phase 3 ACTIVE — cleared through Chapter 25; next family The Graduate (26–27)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -28,7 +28,7 @@ Phase 0 froze the opening baseline at `8177e1c192cd7fcd55b04009fbe826bbd50f586b`
 
 Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. Phase 2 is also complete across Chapters 1–500 at **229 PASS / 271 FAIL**; **198** completeness failures overlap Phase-1 FAILs and **73** are completeness-only additions, producing **273 unique remediation chapters**.
 
-Phase 3 is now the immediate focus. It must structurally revalidate all title-family/chapter boundaries, combined/shared raws, the 54/55 overlap, localized source gaps, shifted/nontrivial English mappings, Side Story ordering, and any duplicated/displaced source blocks before Phase 4 remediation begins. No manuscript remediation is performed during Phase 3 discovery.
+Phase 3 is now the immediate focus. Chapters **1–25** across **7 / 118** families are structurally revalidated at **25 PASS / 0 FAIL / 0 EXCEPTION-DOCUMENTED**, with **0 new source-exception rows** and **0 manuscript edits**. Checkpoint: `qa/cycle2-phase3-checkpoint-0025.md`. The next family is **The Graduate (26–27)**. Phase 3 must still revalidate all remaining title-family/chapter boundaries, combined/shared raws, the 54/55 overlap, localized source gaps, shifted/nontrivial English mappings, Side Story ordering, and duplicated/displaced source blocks before Phase 4 remediation begins.
 
 ## Current source policy
 
