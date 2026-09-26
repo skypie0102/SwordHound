@@ -14,9 +14,9 @@ His body—
 
 almost paste.
 
-Thick blood.
+His mouth expelled thick blood clots—
 
-Fragments from inside his body.
+and fragments of internal organs.
 
 Blurred vision.
 
@@ -290,7 +290,19 @@ The third Demon King—
 
 about to die.
 
+With this—
+
+three of the Ten Corpses would be gone.
+
+The Age of Destruction would be delayed again.
+
+A requiem—
+
+for the countless comrades who had died.
+
 The blade descended.
+
+However—
 
 Clang!
 
