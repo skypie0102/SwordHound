@@ -34,7 +34,7 @@ Lowbro even glanced back and winked at Vikir.
 
 That only made the situation more absurd.
 
-*Did losing a few fingers really make them this obedient?*
+*Did losing a finger really make them this obedient?*
 
 But this was not the first sign that the triplets had changed.
 
