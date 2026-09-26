@@ -9,7 +9,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "primary_source": {
@@ -60,7 +60,7 @@
   },
   "qa": {
     "path": "qa/chapter-0068.md",
-    "blob_sha": "4a578ae47551f398630e520cab36df7d4b0db9f7",
+    "blob_sha": "9f144ba8930487017fc8bf5e1290e8ded8828f3e",
     "status": "pass"
   },
   "documented_decisions": [
@@ -91,5 +91,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      68,
+      71
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family revalidation; no manuscript change required"
+  }
 }
