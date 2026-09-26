@@ -33,3 +33,11 @@ Target 53 → recovered English 53 is verified by the full sequence: “Get down
 ## Spoiler / corruption check
 
 Recovered-English `Gradient`, gender flips, and kinship corruption are rejected. Akwilla's identity is now allowed because Chinese Ch. 53 itself reveals it. Later Aiyen relationship/chieftain succession material remains excluded.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family Phase 4 reread confirmed no ordinary manuscript correction is required. The safety-limited reproductive discussion remains unchanged while all surrounding ordinary material remains complete.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 review.** Final acceptance requires the refreshed Chapters 52–54 family QA.
