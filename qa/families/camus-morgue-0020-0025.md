@@ -24,9 +24,9 @@ Recovered English Chapters 20–25 are independently aligned as *Camus Morgue (1
 | --- | --- | --- | --- | --- | --- |
 | 20 | `b4b2011e2c0ab569f7ee420c05608498970d2dd8` | `5706f9f22b35d53b4e58208c3e24c04f59e40632` | `5ba5c4e3e149f8affc5ffc7874f1d1dc39f11a90` | `93f017eaf9a38fddb9debb8ebe274b4207639e9f` | PASS |
 | 21 | `27a08de60fce2e2150ebcc90ba5eea86ab383b13` | `6a136140fa0bbd0ea36149300c06556f02f3ab35` | `9afa2b06a333eed874f1809d4609921d739a9605` | `ba031dd7d6bfc8c8d4b12adcb4350379de91b7c5` | PASS |
-| 22 | `17f6cd386ca806da124b0de11909715de7944a3f` | `e68bf780fc6fc3ea98d4db202ca550454235b894` | `d0ac31bc3fffbf6f6c0305eec164f411dbca18d8` | `b3883173f41ffd8ccb0faab7d5c6a0bf07df6831` | PASS |
+| 22 | `17f6cd386ca806da124b0de11909715de7944a3f` | `e68bf780fc6fc3ea98d4db202ca550454235b894` | `21ea5be191bbaf122314aa599c198f4b4c771ff4` | `47cf4eeca57a9e497504bc8455cf055649fe80ce` | PASS — Phase 4 rebound |
 | 23 | `73fb36644fc0e0c51009d97bc9c07f2b0a0af637` | `9ef560af4531c37e8c0116a30657582abe0bf768` | `fd3f051a374fd86368792aa0a6180d6f444ba286` | `6f41ad4092f809dbb290abd69d46c6592872a9bd` | PASS |
-| 24 | `e3d233f295f21607d3202b9c7f22f063554b23dc` | `7a799d74556660c1012b4cc784949918c9b60bd4` | `8d651112d999fa468a45ab7c48d385a72ea2607f` | `366de318ba1e583c30dabcd48c94f9748a610609` | PASS |
+| 24 | `e3d233f295f21607d3202b9c7f22f063554b23dc` | `7a799d74556660c1012b4cc784949918c9b60bd4` | `e4203e868b3bd7b5de201b2bce2619b46267d9e3` | `87fa8318a8b7dc844cf8c84534b0872fdcc66e70` | PASS — Phase 4 rebound |
 | 25 | `572b82701f79f0783d4f6b9b8d24a9260fd3ba02` | `6786ee3abb472c7967c026cf82732e4c0d9d325e` | `a5991670d7ff9ff7d7aa9c0b5bd3886b607302b8` | `60abb20e9f224b369c27e3ca0e788ef42be1e662` | PASS |
 
 Boundary witness Ch. 26 Chinese SHA: `6920eefdb1a96d09fb192e54c63f9accef9e5312`.
@@ -100,11 +100,15 @@ The family rejects or repairs:
 
 - Baskerville child mortality/disposal and later frontier extermination doctrine remain explicit without softening.
 - Vikir's cold statements about killing and pre-regression assassination odds remain source-faithful.
-- Chapter 24's clothing accident involving two eight-year-olds is rendered only as accidental exposure/humiliation relevant to the scene, without eroticization or added body detail.
-- Chapter 22's childish embarrassment is preserved as non-sexual social novelty.
+- Chapter 24's clothing accident involving two eight-year-olds is rendered only as accidental exposure/humiliation relevant to the scene, without eroticization. Phase 4 restored the source's concrete nonsexual details: tears/runny nose, Vikir left in underclothes after giving Camus his outer garment, and his bare-bodied state when the smoke clears.
+- Chapter 22's childish embarrassment is preserved as non-sexual social novelty. Its separate **adult-future** retrospective now fully preserves the source-stated seduction tactic, mature curvaceous appearance, imperial-noble appeal, and beauty-as-political-power mechanism.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Direct reread of the complete six-part family confirmed that the only Phase-1/Phase-2 remediation defects were Chapters **22** and **24**. Chapter 22's future-adult Camus block and Chapter 24's concrete accident-state details were restored from Chinese-primary source. Chapters 20, 21, 23, and 25 required no manuscript changes. Phase-3 boundary/alignment clearance remains valid.
 
 ## Family decision
 
-**PASS. Chapters 20–25 may be accepted together.**
+**PASS after Phase-4 remediation. Chapters 20–25 may be accepted together.**
 
 No semantic, coverage, canonical, continuity, reveal-chronology, sensitive-scene, information-window, or title-boundary blocker remains. The next required family begins at Chapter 26, *The Graduate / Graduator (1)*.
