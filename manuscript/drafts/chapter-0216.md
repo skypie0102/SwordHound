@@ -166,9 +166,11 @@ A woman who possessed Ah'Heman's remains—
 
 taken from the Red and Black Mountains.
 
-A woman who reacted violently—
+A woman who showed unusual anger—
 
-to Ballak archery.
+when she saw the crazed court mage,
+
+perhaps because it stirred memories of losing both Vikir and Rosie.
 
 A woman whose attention shattered—
 
