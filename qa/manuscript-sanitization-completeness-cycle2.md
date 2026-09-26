@@ -182,3 +182,16 @@ Each checkpoint must report, at minimum:
 4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
 5. Keep all **273** remediation chapters frozen until Phase 3 closes, then begin Phase 4 from the earliest affected family.
 6. Keep EPUB assembly blocked.
+
+
+## Phase 4 live checkpoint — 2026-09-26
+
+Phase 4 is **ACTIVE**.
+
+- **Camus Morgue (20–25): COMPLETE**
+- Repairs: Chapters **22, 24**
+- Full-family QA/provenance/acceptance/hash rebinding: **20–25 complete**
+- Remediation chapters complete: **2 / 273**
+- Remaining: **271**
+- Next affected family: **Slave Auction (35–37)**
+- Earliest remaining remediation target: **35**
