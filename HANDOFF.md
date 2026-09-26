@@ -9,9 +9,9 @@
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
-**Cycle-2 boundary/alignment revalidated:** 0 / 500  
+**Cycle-2 boundary/alignment revalidated:** 25 / 500 — 25 PASS / 0 FAIL / 0 EXCEPTION-DOCUMENTED across 7 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification; begin at the corpus start
+**Current audit stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification; cleared through Chapter 25
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -136,7 +136,7 @@ Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`, family evidence under `
 
 ## Exact next actions
 
-1. Continue **Phase 3** on `audit/cycle2-phase3-boundary` with corpus boundary/alignment/exception integrity verification from the start of the corpus.
+1. Continue **Phase 3** on `audit/cycle2-phase3-boundary` with **The Graduate (26–27)**, then proceed in contiguous title-family order.
 2. Recheck all **118 title-family boundaries**, chapter opening/closing transitions, shared/combined Chinese raw containers, shifted English witness mappings, localized source gaps, and Side Story splits/order.
 3. Reconcile every documented exception against `source/chinese/chapter-exceptions.tsv`; add any newly confirmed structural exception only with evidence.
 4. Pay particular attention to duplicated/displaced material already surfaced in Phase 2 (for example Chapters 78, 190, and 236) without editing manuscripts yet.
