@@ -693,7 +693,18 @@
         82
       ],
       "boundary_review_file": "qa/cycle2/boundary/saintess-0078-0082.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 78-82 fully remediated and rebound; documented safety-limited material remains scoped while all ordinary omissions are restored."
     },
     {
       "index": 24,
@@ -8110,15 +8121,19 @@
       "findings": [
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Chapter 78 imports and duplicates a prior-timeline mortality/monster-surge/Baskerville-Morgue block that belongs to Chapter 79."
       ],
       "completeness_review_file": "qa/cycle2/completeness/saintess-0078-0082.md",
       "boundary_review_file": "qa/cycle2/boundary/saintess-0078-0082.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 79,
@@ -8169,15 +8184,19 @@
         "Cycle 2 Phase 1 safety-limited: sexualized framing of an explicitly sixteen-year-old character is not a restoration target.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source says more than 40% prior-timeline mountain-people mortality and a relief party of dozens of paladins/priests; the draft reduces these to 40% and an unquantified party. Separate underage sexualized framing remains safety-limited."
       ],
       "completeness_review_file": "qa/cycle2/completeness/saintess-0078-0082.md",
       "boundary_review_file": "qa/cycle2/boundary/saintess-0078-0082.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 80,
@@ -8228,15 +8247,19 @@
         "Cycle 2 Phase 1 safety-limited: sexualized male-gaze framing around an explicitly sixteen-year-old character is not a restoration target.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source says some performative suitors secretly drive patients away during Dolores's volunteer work; the draft omits that ordinary cruelty. Separate underage gaze framing remains safety-limited."
       ],
       "completeness_review_file": "qa/cycle2/completeness/saintess-0078-0082.md",
       "boundary_review_file": "qa/cycle2/boundary/saintess-0078-0082.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 81,
@@ -8287,15 +8310,19 @@
         "Cycle 2 Phase 1 FAIL: flowing-blood treatment detail was generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: exact divine-power arithmetic (1→1/10→10 and later 1→10/10→100), broad monster-merit wording, flowing-blood treatment detail, and the concrete rich-versus-poor sacrifice comparison are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/saintess-0078-0082.md",
       "boundary_review_file": "qa/cycle2/boundary/saintess-0078-0082.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 82,
@@ -8345,15 +8372,19 @@
       "findings": [
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/saintess-0078-0082.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's substantive source prayer is compressed to summary, two collapsing stone pillars are weakened to shaking supports, and the Quovadis political-power-over-Emperor statement is omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/saintess-0078-0082.md",
       "boundary_review_file": "qa/cycle2/boundary/saintess-0078-0082.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 83,
@@ -37968,22 +37999,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 25,
-    "remediation_remaining_chapters": 248,
-    "families_completed": 11,
+    "remediation_completed_chapters": 30,
+    "remediation_remaining_chapters": 243,
+    "families_completed": 12,
     "last_completed_family": {
-      "name": "The Hound of the Night",
-      "start": 75,
-      "end": 77
-    },
-    "next_family": {
       "name": "The Saintess",
       "start": 78,
       "end": 82
     },
-    "earliest_remediation_chapter": 78,
-    "manuscript_edits": 27,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; and The Hound of the Night 75-77 complete",
+    "next_family": {
+      "name": "Lovesickness",
+      "start": 83,
+      "end": 84
+    },
+    "earliest_remediation_chapter": 83,
+    "manuscript_edits": 32,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; and The Saintess 78-82 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
