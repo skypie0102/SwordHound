@@ -2,7 +2,7 @@
   "schema_version": 1,
   "audit": "full_sanitization_completeness_cycle2",
   "status": "active",
-  "phase": "phase_2_full_corpus_completeness_pass",
+  "phase": "phase_3_boundary_alignment_exception_integrity_pass",
   "opening_main_commit": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opening_tree_sha": "8177e1c192cd7fcd55b04009fbe826bbd50f586b",
   "opened": "2026-09-21",
@@ -33,11 +33,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/hellhound-0001-0003.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hellhound-0001-0003.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 2,
@@ -53,11 +55,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/baskerville-dog-0004-0007.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/baskerville-dog-0004-0007.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 3,
@@ -73,11 +77,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/hounds-of-hell-0008-0011.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hounds-of-hell-0008-0011.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 4,
@@ -91,11 +97,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/gluttonous-flies-0012-0013.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/gluttonous-flies-0012-0013.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 5,
@@ -111,11 +119,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/solitary-0014-0017.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 6,
@@ -3278,16 +3288,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md",
       "completeness_review_file": "qa/cycle2/completeness/hellhound-0001-0003.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hellhound-0001-0003.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 2,
@@ -3329,16 +3342,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md",
       "completeness_review_file": "qa/cycle2/completeness/hellhound-0001-0003.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hellhound-0001-0003.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 3,
@@ -3380,16 +3396,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hellhound-0001-0003.md",
       "completeness_review_file": "qa/cycle2/completeness/hellhound-0001-0003.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hellhound-0001-0003.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 4,
@@ -3431,16 +3450,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md",
       "completeness_review_file": "qa/cycle2/completeness/baskerville-dog-0004-0007.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/baskerville-dog-0004-0007.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 5,
@@ -3482,16 +3504,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md",
       "completeness_review_file": "qa/cycle2/completeness/baskerville-dog-0004-0007.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/baskerville-dog-0004-0007.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 6,
@@ -3533,16 +3558,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md",
       "completeness_review_file": "qa/cycle2/completeness/baskerville-dog-0004-0007.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/baskerville-dog-0004-0007.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 7,
@@ -3584,16 +3612,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/baskerville-dog-0004-0007.md",
       "completeness_review_file": "qa/cycle2/completeness/baskerville-dog-0004-0007.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/baskerville-dog-0004-0007.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 8,
@@ -3635,16 +3666,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md",
       "completeness_review_file": "qa/cycle2/completeness/hounds-of-hell-0008-0011.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hounds-of-hell-0008-0011.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 9,
@@ -3686,16 +3720,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md",
       "completeness_review_file": "qa/cycle2/completeness/hounds-of-hell-0008-0011.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hounds-of-hell-0008-0011.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 10,
@@ -3737,16 +3774,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md",
       "completeness_review_file": "qa/cycle2/completeness/hounds-of-hell-0008-0011.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hounds-of-hell-0008-0011.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 11,
@@ -3788,16 +3828,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/hounds-of-hell-0008-0011.md",
       "completeness_review_file": "qa/cycle2/completeness/hounds-of-hell-0008-0011.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hounds-of-hell-0008-0011.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 12,
@@ -3839,16 +3882,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
       "completeness_review_file": "qa/cycle2/completeness/gluttonous-flies-0012-0013.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/gluttonous-flies-0012-0013.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 13,
@@ -3890,16 +3936,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/gluttonous-flies-0012-0013.md",
       "completeness_review_file": "qa/cycle2/completeness/gluttonous-flies-0012-0013.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/gluttonous-flies-0012-0013.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 14,
@@ -3941,16 +3990,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
       "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/solitary-0014-0017.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 15,
@@ -3992,16 +4044,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
       "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/solitary-0014-0017.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 16,
@@ -4043,16 +4098,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
       "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/solitary-0014-0017.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 17,
@@ -4094,16 +4152,19 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "pass",
       "findings": [
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
-        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material."
+        "Cycle 2 Phase 2 PASS: direct full-source completeness review found no dropped, duplicated, condensed, or invented source material.",
+        "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
       "sanitization_review_file": "qa/cycle2/sanitization/solitary-0014-0017.md",
       "completeness_review_file": "qa/cycle2/completeness/solitary-0014-0017.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/solitary-0014-0017.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 18,
@@ -34243,5 +34304,24 @@
       "phase": 3,
       "name": "Full-corpus boundary/alignment verification"
     }
+  },
+  "phase3": {
+    "status": "active",
+    "boundary_alignment_reviewed_count": 17,
+    "boundary_alignment_pass_count": 17,
+    "boundary_alignment_fail_count": 0,
+    "boundary_alignment_exception_documented_count": 0,
+    "families_reviewed_count": 5,
+    "families_pass_count": 5,
+    "families_fail_count": 0,
+    "manuscript_edits_during_review": 0,
+    "new_source_exception_rows": 0,
+    "next_family": {
+      "name": "Bared Teeth",
+      "start": 18,
+      "end": 19
+    },
+    "checkpoint_date": "2026-09-26",
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0017.md"
   }
 }
