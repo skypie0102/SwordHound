@@ -2,8 +2,8 @@
   "chapter": 79,
   "title": "The Saintess (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Saintess",
     "range": [
@@ -11,7 +11,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-078.xhtml",
     "english_reference_sha": "ec5ea6dada4c16d0f1b89b4d9c4ade8a701767b5",
     "draft_path": "manuscript/drafts/chapter-0079.md",
-    "draft_sha": "39084d413ac4f670cb1887da6e81608dd5857980",
+    "draft_sha": "d5e7d2cb949fa1ebc2b07d24a48de128500d10a6",
     "qa_path": "qa/chapter-0079.md",
-    "qa_sha": "f6891e843279bd7c27626c59e5841e2f24834709",
+    "qa_sha": "0a90af3ed337a7724f66f42a3f0babba16828ec2",
     "provenance_path": "editorial/provenance/chapter-0079.json",
-    "provenance_sha": "938f17338c4d633dd3cb414a1744a868f4969510"
+    "provenance_sha": "6a39e4c2b995b3ef173f435cb13bbb43073cfda3"
   },
   "canonical_checks": [
     "Hound of the Night",
@@ -38,5 +38,12 @@
     "Target 79 maps to E78.",
     "Chinese controls that there are no secondary cases yet.",
     "Dolores heals six patients in the first miracle cluster."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored over-40% mortality and dozens-strong relief scale; underage sexualized framing remains safety-limited"
+  }
 }
