@@ -8,10 +8,10 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 68 | `068.txt` | `6738e266653f25e335c1b4902dff8a82d0a24ba9` | **E67** | `e33d1a93a127afe970a5ccc2d3a9d56aa946a087` | `9ad978191ee34ae273fc1f7246c156b990b231c2` | `4a578ae47551f398630e520cab36df7d4b0db9f7` |
-| 69 | `069.txt` | `a773e887b3e8514fbe8f133fefeb31f66ed31a57` | **E68** | `091517f790c8fd1b7672dce16e7601330e65cfa0` | `24da6e2f484446ad806117ba9f3748a78c0ff048` | `87f3043060e5012c8621b340e60297cbf9452b45` |
-| 70 | `070.txt` | `f06195bc01febbb1caa2989c2719cd04bd674703` | **E69** | `ddb0367d9f30d1155c665f654bff0037527d6f25` | `23ac1fdea81e8a555c3a21f16b4015c9a6871ddb` | `85cd0ddb7e08b5ee8d150c60b906388279ae016a` |
-| 71 | `071.txt` | `d91c8c4657125f809c7b9b6d28cafd4ead29e797` | **E70** | `538af64e11972614bfd2e11d6226733b3fe04f91` | `1921fcb4fffd7e964d4f0f4c5542ae494cf81a16` | `efa244d6ddc5dc9a04649861ebd0650db5a9d5dd` |
+| 68 | `068.txt` | `6738e266653f25e335c1b4902dff8a82d0a24ba9` | **E67** | `e33d1a93a127afe970a5ccc2d3a9d56aa946a087` | `9ad978191ee34ae273fc1f7246c156b990b231c2` | `9f144ba8930487017fc8bf5e1290e8ded8828f3e` |
+| 69 | `069.txt` | `a773e887b3e8514fbe8f133fefeb31f66ed31a57` | **E68** | `091517f790c8fd1b7672dce16e7601330e65cfa0` | `fc5f09e66d235dc0d3f98efab182f086e8b989e8` | `4819a8212c03786040adde07f75c664b3fa30cbf` |
+| 70 | `070.txt` | `f06195bc01febbb1caa2989c2719cd04bd674703` | **E69** | `ddb0367d9f30d1155c665f654bff0037527d6f25` | `981bada0b1ac72388ef6e1daed939c6d03966f09` | `b8a47f22f7422cfffa6cc7f7de5142c58de98a6b` |
+| 71 | `071.txt` | `d91c8c4657125f809c7b9b6d28cafd4ead29e797` | **E70** | `538af64e11972614bfd2e11d6226733b3fe04f91` | `0a6f93f5277ce6da7e4f0b5411c853303af9988d` | `26f949793a5e0b8c66f2c20bcd7c8f375d185335` |
 | boundary | `072.txt` — `赤色死亡 (1)` | `8cf8c0385d0680afc3eb1148653abeac43ce12d9` | **E71** — *The Red Death (1)* | `bbee450f38deaf7753263cc92cff28fc1d54e09e` | next family | next family |
 
 The recovered-English lag remains exactly one chapter: **68→E67, 69→E68, 70→E69, 71→E70, 72→E71**.
@@ -63,3 +63,19 @@ PASS. Corpses, vomiting, diarrhea, decomposition, plague fear, abandoned sick pe
 ## Family acceptance result
 
 **PASS.** Targets 68–71 form one complete family and are ready for provenance/acceptance binding.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 68: complete-family reread reconfirmed the Phase-2 PASS; no ordinary manuscript edit was required.
+- Chapter 69: restored the source-explicit **just over twenty** age estimate for the swallowed Rokoko hunter, preserving the quantitative detail and physical-prime emphasis.
+- Chapter 70: restored the Red Death's **extremely slowed metabolism / prolonged dying process** and the source-recollected **eye-contact transmission** mechanic at source-supported force rather than recasting it as frightened rumor.
+- Chapter 71: restored Hugo's explicit view that **boys are more useful in combat**, his preference for sons/grandsons, and his treatment of children as **tools for battle**.
+- Sanitization fidelity and completeness were rerun across Chapters 68–71 after the repairs; no additional ordinary defect was found.
+- The one-chapter shifted witness mapping remains valid: **68→E67, 69→E68, 70→E69, 71→E70**, with target 72/E71 beginning *The Red Death (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker bindings, and Cycle-2 ledger are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Red Death (72–74)**.
