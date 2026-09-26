@@ -978,7 +978,14 @@
         129
       ],
       "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        129
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapter 129 remediated and fully rebound; Chapters 126-128 complete-family revalidated unchanged."
     },
     {
       "index": 34,
@@ -11047,7 +11054,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
       "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 127,
@@ -11106,7 +11117,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
       "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 128,
@@ -11165,7 +11180,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
       "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 129,
@@ -11216,15 +11235,19 @@
         "Cycle 2 Phase 1 FAIL: Bartison's source-explicit severed wrists/cauterized stumps, severed ankles, throat strike, and death struggle are collapsed to a near-instant generic death.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Bartison's source-present severed/cauterized wrists, severed ankles, throat impalement, and brief death struggle are omitted and collapsed to an almost-instant generic death."
       ],
       "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
       "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 130,
@@ -38066,22 +38089,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 35,
-    "remediation_remaining_chapters": 238,
-    "families_completed": 15,
+    "remediation_completed_chapters": 36,
+    "remediation_remaining_chapters": 237,
+    "families_completed": 16,
     "last_completed_family": {
-      "name": "Nostalgia",
-      "start": 101,
-      "end": 104
-    },
-    "next_family": {
       "name": "Admission to the Academy",
       "start": 126,
       "end": 129
     },
-    "earliest_remediation_chapter": 129,
-    "manuscript_edits": 37,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; and Nostalgia 101-104 complete",
+    "next_family": {
+      "name": "The Freshman Talent Show",
+      "start": 130,
+      "end": 132
+    },
+    "earliest_remediation_chapter": 130,
+    "manuscript_edits": 38,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; and Admission to the Academy 126-129 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
