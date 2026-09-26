@@ -44,7 +44,7 @@ Her ten fingertips were covered in grotesque scars where fingerprints should hav
 
 According to rumor—
 
-she had once gotten so drunk on vodka that she mistook her own fingertips for snacks and bit into them.
+she had once gotten so drunk on vodka that she mistook her own fingertips for snacks and bit off the ends of her fingers.
 
 “…”
 
@@ -296,7 +296,7 @@ Others—
 
 had.
 
-How many talented students had been tormented by Sadi until even the sound of her laughter made them lose control of their bodies?
+How many talented students had been tormented by Sadi until even the sound of her laughter made them wet themselves?
 
 Some took leaves of absence.
 
@@ -451,7 +451,7 @@ smiled.
 
 “Training them until they're sweating is fun.”
 
-“Still not as good as making them bleed.”
+“Still not as good as making their blood flow like a river.”
 
 If Banshee's warning had achieved anything—
 
