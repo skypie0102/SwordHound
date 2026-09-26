@@ -160,13 +160,19 @@ He swung—
 
 or tried to.
 
-Something flashed.
+Both wrists had already been severed.
 
-The hammer flew from his grip.
+The hammer flew from his grip and crashed behind him, its aura dispersing.
 
 Bartison stumbled backward in shock.
 
-The Night Hound had already closed the distance.
+No blood sprayed from the cuts.
+
+The severed wrist stumps had been cauterized instantly by intense heat.
+
+His mouth opened to scream—
+
+but the Night Hound had already closed the distance.
 
 “…Ron Hubert Bartison.”
 
@@ -214,13 +220,21 @@ Bartison froze.
 
 “What?”
 
+He tried to retreat.
+
+He could not.
+
+Both ankles had been severed.
+
+A strangled sound escaped him.
+
 Vikir did not explain.
 
-The confrontation ended almost at once.
+The blood-red blade in his right hand drove through Bartison's throat.
 
-Soon—
+Bartison struggled a few times.
 
-Bartison lay dead beside the warehouse.
+Then died beside the warehouse.
 
 Vikir looked down at the body.
 
