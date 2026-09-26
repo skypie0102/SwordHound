@@ -1,7 +1,7 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-26
-**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 3 COMPLETE / PHASE 4 READY**  
+**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 4 ACTIVE**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 sanitization reviewed:** 500 / 500 — Phase 1 COMPLETE
@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 3 COMPLETE — Phase 4 remediation/evidence rebinding is ready but not started
+**Current audit stage:** Phase 4 ACTIVE — Camus Morgue (20–25) remediated/rebound; next family Slave Auction (35–37)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -20,7 +20,9 @@
 **Wave-A merge commit:** 8489281a01b025c5effabb172545fc110fc82ae9  
 **Phase-2 integration:** PR #147 MERGED  
 **Phase-2 integration merge commit:** 3c36802516de03e0d2180392ac0e8e4747261ce5  
-**Phase-3 working branch:** `audit/cycle2-phase3-boundary`
+**Phase-3 integration:** PR #149 MERGED  
+**Phase-3 integration merge commit:** b94da82d837d73e3dba76975d26f70765b5a1ad2  
+**Phase-4 working branch:** `audit/cycle2-phase4-remediation`
 
 ## Why the project focus changed
 
@@ -155,15 +157,25 @@ Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`, family evidence under `
 
 The end-of-corpus structural pass revalidated the intentional 475→476→478 title interruption/resumption and the shared `495.txt` target495/496 split, with E493 embedding Side Story Chapters 1–5 after the main ending.
 
-The **273-chapter** Phase-4 remediation population remains unchanged. No Phase-4 manuscript repair has begun yet.
+Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the first remediation family. Chapters **22** and **24** were repaired from the Chinese-primary source; Chapters 20, 21, 23, and 25 were revalidated unchanged. Family QA, provenance, acceptance, and tracker acceptance bindings were refreshed for Chapters 20–25. **2 / 273** remediation chapters are complete, **271** remain. The next affected family is **Slave Auction (35–37)**, beginning with Chapter **35**.
+
+## Phase 4 progress
+
+- **Camus Morgue (20–25): COMPLETE**
+- Manuscript changes: Chapters **22, 24**
+- Family-wide evidence rebound: Chapters **20–25**
+- Remediation chapters complete: **2 / 273**
+- Remaining remediation chapters: **271**
+- Next family: **Slave Auction (35–37)**
+- Earliest remaining target: **35**
 
 ## Exact next actions
 
-1. Begin **Phase 4 — remediation and evidence rebinding** from the earliest affected title family: **Camus Morgue (20–25)**; earliest failing target is **22**.
-2. Review the complete family before editing, then repair all Cycle-2 sanitization/completeness failures in that family from Chinese-primary source.
-3. After each edited chapter/family, refresh chapter QA, provenance, acceptance, family QA where applicable, tracker acceptance SHA, and all dependent hash bindings.
-4. Preserve the two structural Phase-3 FAIL findings at Chapters **273 and 283** as required Phase-4 repair work.
-5. Continue family-by-family through the frozen **273-chapter** remediation population.
-6. Keep EPUB assembly blocked until Phase 4, Phase 5 residual verification, and Phase 6 closure all complete.
+1. Continue **Phase 4** with **Slave Auction (35–37)**, starting at Chapter **35**.
+2. Review all three chapters as a family before editing; repair every Cycle-2 sanitization/completeness finding in the family.
+3. Refresh chapter QA, provenance, acceptance, family QA, tracker acceptance SHAs, ledger remediation/rebind status, and dependent hashes.
+4. Continue in target-family order through the remaining **271** remediation chapters.
+5. Preserve the structural Phase-3 FAIL findings at Chapters **273 and 283** for their Phase-4 repair points.
+6. Keep EPUB assembly blocked until Phase 4, Phase 5 residual verification, and Phase 6 closure complete.
 
-The next agent should resume with **Phase 4**, not repeat Phases 1–3.
+The next agent should resume with **Slave Auction (35–37)**, not repeat Camus Morgue or Phases 1–3.
