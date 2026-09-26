@@ -1402,7 +1402,14 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md",
       "boundary_review_file": "qa/cycle2/boundary/anti-columnist-0172-0175.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        175
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapter 175 remediated and fully rebound; Chapters 172-174 complete-family revalidated unchanged."
     },
     {
       "index": 46,
@@ -14003,7 +14010,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md",
       "boundary_review_file": "qa/cycle2/boundary/anti-columnist-0172-0175.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 173,
@@ -14062,7 +14073,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md",
       "boundary_review_file": "qa/cycle2/boundary/anti-columnist-0172-0175.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 174,
@@ -14121,7 +14136,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md",
       "boundary_review_file": "qa/cycle2/boundary/anti-columnist-0172-0175.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 175,
@@ -14172,15 +14191,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/anti-columnist-0172-0175.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's source-superlative view of Night Hound is weakened, and her explicit wetting/‘diaper’ reputation details are generalized to an accident/humiliation."
       ],
       "completeness_review_file": "qa/cycle2/completeness/anti-columnist-0172-0175.md",
       "boundary_review_file": "qa/cycle2/boundary/anti-columnist-0172-0175.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 176,
@@ -38308,22 +38331,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 65,
-    "remediation_remaining_chapters": 208,
-    "families_completed": 25,
+    "remediation_completed_chapters": 66,
+    "remediation_remaining_chapters": 207,
+    "families_completed": 26,
     "last_completed_family": {
-      "name": "Sin and Punishment",
-      "start": 162,
-      "end": 169
-    },
-    "next_family": {
       "name": "The Anti-Columnist",
       "start": 172,
       "end": 175
     },
-    "earliest_remediation_chapter": 175,
-    "manuscript_edits": 67,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete",
+    "next_family": {
+      "name": "The 99 Hits With 100 Shots",
+      "start": 176,
+      "end": 178
+    },
+    "earliest_remediation_chapter": 177,
+    "manuscript_edits": 68,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
