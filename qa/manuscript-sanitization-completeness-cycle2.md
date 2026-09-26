@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 91/273 remediation chapters complete; next affected family Festival Night (206–215)
+**Current stage:** Phase 4 ACTIVE — 104/273 remediation chapters complete; next affected family Tuition (225–233)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 91  
-**Remaining remediation chapters:** 182  
-**Completed affected families:** 33  
-**Current next family:** Festival Night (206–215)  
-**Earliest remaining target:** Chapter 206
+**Completed remediation chapters:** 104  
+**Remaining remediation chapters:** 169  
+**Completed affected families:** 36  
+**Current next family:** Tuition (225–233)  
+**Earliest remaining target:** Chapter 225
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,23 +179,23 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Men are Power (139–140)**.
-2. Repair all source-supported queued defects after a complete-family reread.
-3. Re-run sanitization fidelity and completeness across the family.
-4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
+1. Continue Phase 4 with **Tuition (225–233)**.
+2. Reread the complete family and remediate queued Chapters **225, 229, 230, 231, and 232** from Chinese-primary source.
+3. Re-run both primary gates across all nine chapters and refresh all evidence/hash bindings.
+4. Keep EPUB assembly blocked.
 
 
-## Phase 4 live checkpoint — 2026-09-26
+## Phase 4 live checkpoint — 2026-09-27
 
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **44**;
-- remaining remediation chapters: **229**;
-- affected families completed: **18**;
-- manuscript edits: **46**;
-- last completed affected family: **Test Your Skills (133–138)**;
-- next affected family: **Men are Power (139–140)**;
-- earliest remaining target: **139**;
-- all completed affected families through Chapter 138 have refreshed evidence/hash bindings;
+- completed remediation chapters: **104**;
+- remaining remediation chapters: **169**;
+- affected families completed: **36**;
+- manuscript edits: **104**;
+- last completed affected family: **That Day, Him and Me (220–224)**;
+- next affected family: **Tuition (225–233)**;
+- earliest remaining target: **225**;
+- all completed affected families through Chapter 224 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
