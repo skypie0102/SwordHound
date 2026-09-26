@@ -118,9 +118,9 @@ Weakness.
 
 Pain.
 
-A drawn-out collapse.
+The infected person's metabolism slowed to an extreme crawl, dragging the dying process out for a very long time.
 
-The disease spread so quickly that frightened people had once believed even looking at the sick could infect them.
+And the contagion spread at an abnormal speed. Among the jungle tribes, even making eye contact with a sick person could transmit it.
 
 *How was it stopped?*
 
