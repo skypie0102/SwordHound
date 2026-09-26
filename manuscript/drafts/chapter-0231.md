@@ -52,9 +52,9 @@ until now—
 
 unknown.
 
-Most witnesses either died—
+Every witness either died—
 
-or lost the ability to give coherent testimony.
+or went mad.
 
 *At least one rumor was correct.*
 
