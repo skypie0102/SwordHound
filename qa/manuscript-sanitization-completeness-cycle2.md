@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification
+**Current stage:** Phase 3 COMPLETE — Phase 4 remediation/evidence rebinding READY
 
 ## Progress
 
@@ -45,23 +45,23 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is under `qa/cycle2/completeness/` and the authoritative live ledger is `qa/cycle2-ledger.json`.
 
-### Phase 3 — ACTIVE
+### Phase 3 — COMPLETE
 
 Boundary/alignment review is the immediate project focus.
 
-- reviewed: **453 / 500** targets;
+- reviewed: **500 / 500** targets;
 - PASS: **53**;
 - FAIL: **2**;
-- EXCEPTION-DOCUMENTED: **398**;
-- families reviewed: **108 / 118**;
+- EXCEPTION-DOCUMENTED: **445**;
+- families reviewed: **118 / 118**;
 - family PASS: **14**;
 - family FAIL: **2**;
-- family EXCEPTION-DOCUMENTED: **92**;
-- genuine source-exception rows added during Phase 3: **384**;
+- family EXCEPTION-DOCUMENTED: **102**;
+- genuine source-exception rows added during Phase 3: **429**;
 - manuscript edits during Phase 3: **0**;
 - open structural FAILs: **273, 283**;
-- latest checkpoint: `qa/cycle2-phase3-checkpoint-0453.md`;
-- next family: **Infiltration of the Water Source (454–464)**;
+- closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`;
+- next family: **none — Phase 3 complete**;
 - exception-table normalization: **75 redundant replay rows removed; all 36 baseline rows preserved**.
 
 ## Phase 3 — Corpus boundary, alignment, and exception integrity pass
@@ -85,6 +85,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 **Exit gate:** every target chapter has a boundary/alignment PASS or a fully documented exception.
 
 ## Phase 4 — Remediation and evidence rebinding
+
+**Status:** READY — NOT STARTED  
+**Remediation population:** 273 unique chapters  
+**First family:** Camus Morgue (20–25)  
+**Earliest failing target:** Chapter 22
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -171,7 +176,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 3 from **Infiltration of the Water Source (454–464)** and proceed in contiguous title-family order.
+1. Begin Phase 4 from **Camus Morgue (20–25)**, the earliest affected title family.
 2. Continue reconciling shared/combined Chinese raws, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the normalized exception table.
 3. Preserve open structural FAILs at Chapters **273 and 283** for Phase 4; investigate any newly discovered duplicated/displaced source blocks without editing manuscript text.
 4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
