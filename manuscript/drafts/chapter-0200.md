@@ -465,11 +465,15 @@ High-order death mana.
 >
 > Deep within the Abyss, they chain their souls to an unknown colossal hand and obtain a form of immortality.
 >
-> Their bodies eventually turn to dust.
+> Yet one question remains: if a mage becomes immortal at their present age, do they remain that age forever—or do they continue to grow older?
 >
-> Their souls remain—
+> Blinded by immediate achievement, such mages become undead without receiving proper funeral rites.
 >
-> still believing themselves mages.
+> Excluded from the world's normal order, they sink into the Abyss.
+>
+> With time, their bodies eventually turn to dust.
+>
+> Even then, the souls that remain at the bottom of the Abyss still believe themselves mages.
 >
 > Forever.
 
