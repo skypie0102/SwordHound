@@ -9,8 +9,8 @@
       151
     ],
     "family_qa_path": "qa/families/not-brother-0150-0151.md",
-    "family_qa_sha": "a22e704eeb67ea6ac231e483997185d97c094ae6",
-    "status": "pass"
+    "family_qa_sha": "15cad6ea7568accd69826f72362bd75a247fa29a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/151.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0151.md",
-    "blob_sha": "0cc90a3beea435d287a0339e70f349a6e7473db5"
+    "blob_sha": "93b9df4a5bb5f7a04e02d406e13ba87e85353459"
   },
   "qa": {
     "path": "qa/chapter-0151.md",
-    "blob_sha": "0f3a8e7dcda39ce99d4a07c6ee6e5c2e83d61d69",
-    "status": "pass"
+    "blob_sha": "34cc66d471876a90ce6500f5c68c49d40cff0b04",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/152.txt",
     "chinese_sha": "d6fc3f4922a2a3f57c66ece2faa68efa4030859e",
     "english_path": "source/chapters/chapter-151.xhtml",
     "english_sha": "55107beb518be3473b627551ec88399ce113f688",
     "purpose": "both begin The Drinking Game (1), target152"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      150,
+      151
+    ],
+    "manuscript_changed": true,
+    "note": "restored Tudor abdomen rubbing/kneading and source-level suggestive teasing"
   }
 }
