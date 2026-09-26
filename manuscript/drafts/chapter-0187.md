@@ -326,6 +326,42 @@ A first-year operating at a level—
 
 far beyond normal undergraduate study.
 
+The gap between a first-year and a graduating student could be absurd.
+
+A professor might tell first-years:
+
+“Today we'll learn how to eat salmon deliciously.”
+
+One would ask—
+
+“What's salmon?”
+
+Another—
+
+“You can eat salmon?”
+
+A third—
+
+“What's cod?”
+
+By the graduating year, the same lesson might begin—
+
+“Today we'll learn how to eat salmon deliciously.”
+
+Silence.
+
+Professor and students staring at each other.
+
+Then—
+
+“What are you doing? Go catch the salmon.”
+
+The depth of study was completely different.
+
+And Vikir was already beyond that level—
+
+closer to graduate study, even professorial work.
+
 And now—
 
 practical strength too.
@@ -381,6 +417,10 @@ power—
 status—
 
 would collapse with everything else.
+
+As one great writer had put it—
+
+*an age was coming when survival itself would become a vulgar joke.*
 
 “All of it is pointless.”
 
