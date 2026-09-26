@@ -2,8 +2,8 @@
   "chapter": 186,
   "title": "Aftermath (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Aftermath",
     "range": [
@@ -11,8 +11,8 @@
       189
     ],
     "family_qa_path": "qa/families/aftermath-0186-0189.md",
-    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
-    "status": "pass"
+    "family_qa_sha": "2fbe451379e4d70feb63ed5e8d97d30b058c0482",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/186.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-184.xhtml",
     "english_reference_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
     "draft_path": "manuscript/drafts/chapter-0186.md",
-    "draft_sha": "bd5b059d45d07d8b89ff7c8a885ac7a5535fd6a8",
+    "draft_sha": "c5a33444c10c049d0331bd268f267c37d43bbda9",
     "qa_path": "qa/chapter-0186.md",
-    "qa_sha": "51ddb8a2b824d5e0270eefce756173308bb66371",
+    "qa_sha": "74588b4091e86d860ee23da8d75983854367f8de",
     "provenance_path": "editorial/provenance/chapter-0186.json",
-    "provenance_sha": "34fdfa2a3d69e36127a5844e074464b0d708d213"
+    "provenance_sha": "0b2b388bd8f7515dfe9bf1f357f5b58015ae99dc"
   },
   "canonical_checks": [
     "Professor Sadi",
@@ -41,5 +41,12 @@
     "Copycat crimes are not attributed to Vikir.",
     "Hidden-royal discussion remains rumor."
   ],
-  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1)."
+  "next_family_alignment_note": "Attack Land targets190-196: 190→E188 through 196→E194. C192-196 reverse the Chinese title word order but remain parts3-7. Target197→E195 begins Preparing for the Festival (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Clocktower death-toll reference and omitted article-comment reactions"
+  }
 }
