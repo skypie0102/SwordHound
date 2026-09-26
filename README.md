@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 65/273 remediation chapters complete through Sin and Punishment (162–169); next affected family The Anti-Columnist (172–175)**
+- Current stage: **Phase 4 ACTIVE — 91/273 remediation chapters complete through Mixed Bath (203–205); next affected family Festival Night (206–215)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
 
-Phase 4 is active. Twenty-five affected families are remediated/revalidated and rebound through **Sin and Punishment (162–169)**. **65 / 273** remediation chapters are complete and **208** remain; Phase 4 has made **67** manuscript edits so far. Continue with **The Anti-Columnist (172–175)**, earliest remaining target Chapter **175**.
+Phase 4 is active. Thirty-three affected families are remediated/revalidated and rebound through **Mixed Bath (203–205)**. **91 / 273** remediation chapters are complete and **182** remain; Phase 4 has made **93** manuscript edits so far. Continue with **Festival Night (206–215)**, earliest remaining target Chapter **206**.
 
 ## Current source policy
 
