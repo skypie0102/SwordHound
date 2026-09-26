@@ -51,3 +51,11 @@ Target 49 → recovered English 49 is otherwise verified by the complete sequenc
 ## Spoiler / sanitization check
 
 No later Aiyen parentage, Night Fox succession, marriage, or chieftain material is imported. The chapter's forced-captivity implications are neither softened nor eroticized. The MTL is promoted only for the demonstrably missing Chinese block described above.
+
+## Cycle-2 Phase 4 family revalidation
+
+**Resolved 2026-09-26.** Full-family Phase 4 reread reconfirmed the scoped localized Chinese raw-gap restoration and found no new ordinary manuscript correction. Safety-limited material remains untouched.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 family revalidation.** Final acceptance requires the refreshed Chapters 46–51 family QA.
