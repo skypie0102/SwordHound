@@ -19,3 +19,14 @@
 - **Department correction:** the isolated C193 status label drifts to Hot Department; Pigi remains **Cold Department Class B**, consistent with surrounding chapters and accepted roster continuity.
 - PASS — Dolores diagnoses severe left-side skull fracture / near-blindness and requires a medical monocle during recovery.
 - PASS — Banshee revokes Sadi's examiner authority; Vikir then steps forward voluntarily, visibly angry despite his otherwise expressionless face.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Granola grinding his teeth until they crack while watching Sinclaire carried away in pain.
+
+The complete Attack Land family was reread after remediation. Chapters 194–196 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **190→E188 through 196→E194**; target 197/E195 begins *Preparing for the Festival*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Attack Land family QA.
