@@ -2730,7 +2730,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2744,7 +2744,9 @@
         386,
         387,
         389
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 96,
@@ -2762,7 +2764,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/worst-torture-0390-0395.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2782,7 +2784,9 @@
         393,
         394,
         395
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 97,
@@ -2797,7 +2801,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/dead-man-walking-0396-0398.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2807,7 +2811,9 @@
       "completeness_reviewed_date": "2026-09-25",
       "completeness_failures": [
         397
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/dead-man-walking-0396-0398.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 98,
@@ -2823,7 +2829,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/black-tongue-0399-0402.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2835,7 +2841,9 @@
         399,
         400,
         401
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/black-tongue-0399-0402.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 99,
@@ -25954,9 +25962,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -25964,7 +25973,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
+      "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 386,
@@ -26011,9 +26022,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source repeatedly calls Garam a 'dog who eats shit,' but the draft sanitizes the scatological nickname to 'Rotten Dog.'"
+        "Cycle 2 Phase 1 FAIL: the source repeatedly calls Garam a 'dog who eats shit,' but the draft sanitizes the scatological nickname to 'Rotten Dog.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26021,7 +26033,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Garam's recurring source-explicit 'dog who eats shit' nickname is sanitized to 'Rotten Dog.'"
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
+      "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 387,
@@ -26040,7 +26054,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-385.xhtml",
       "english_mtl_blob_sha": "dad015367a7dd606d6aef05bb9e4857efdd0534f",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 385,
+        "notes": "Cycle 2 Phase 3 verified target 387 aligns by title/content to recovered English E385; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0387.md",
         "draft_blob_sha": "0e0583786123cc54a2aaad3b48f8894864d57735",
@@ -26063,9 +26081,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Kirko's source-explicit 'garbage' / 'parasitize society' degradation is omitted, Pal's snot/sweat injury aftermath is reduced, and Garam's scatological nickname is sanitized to 'Rotten Dog.'"
+        "Cycle 2 Phase 1 FAIL: Kirko's source-explicit 'garbage' / 'parasitize society' degradation is omitted, Pal's snot/sweat injury aftermath is reduced, and Garam's scatological nickname is sanitized to 'Rotten Dog.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26073,7 +26092,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Kirko's 'garbage' / 'parasitize society' degradation, Pal's snot/sweat injury aftermath, and Garam's scatological nickname are reduced or omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
+      "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 388,
@@ -26092,7 +26113,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-386.xhtml",
       "english_mtl_blob_sha": "57a4a13e8d3f045d03ed2b1f3a19fd470b9590bd",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 386,
+        "notes": "Cycle 2 Phase 3 verified target 388 aligns by title/content to recovered English E386; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0388.md",
         "draft_blob_sha": "e9ef1e6c259ef034789703a3103594a9141a80b3",
@@ -26115,9 +26140,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -26125,7 +26151,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
+      "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 389,
@@ -26144,7 +26172,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-387.xhtml",
       "english_mtl_blob_sha": "a5af65f653a5760ae9f0a0d17923e7e7c79f474d",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 387,
+        "notes": "Cycle 2 Phase 3 verified target 389 aligns by title/content to recovered English E387; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0389.md",
         "draft_blob_sha": "e51980df0b07aa8bc2aeb428c540ace5cdf2eaa7",
@@ -26167,9 +26199,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Kirko's source proverb that a dog cannot stop eating shit is euphemized to a dog that 'eats filth.'"
+        "Cycle 2 Phase 1 FAIL: Kirko's source proverb that a dog cannot stop eating shit is euphemized to a dog that 'eats filth.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26177,7 +26210,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Kirko's scatological proverb about D'Ordume is euphemized, and Vikir's gloomy/oppressive birthday framing is neutralized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md"
+      "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
+      "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 390,
@@ -26196,7 +26231,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-388.xhtml",
       "english_mtl_blob_sha": "3f9bbbcdd3918cdd9d2aaaaf1be0cc3ad5247ca9",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 388,
+        "notes": "Cycle 2 Phase 3 verified target 390 aligns by title/content to recovered English E388; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0390.md",
         "draft_blob_sha": "fcf5f0562eada727b517389f815b7349d4b889b9",
@@ -26219,9 +26258,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: pain-maximizing body targeting, meat-chopping imagery, explicit starvation/whipping, and Age-of-Destruction torture used to force submission are generalized/softened."
+        "Cycle 2 Phase 1 FAIL: pain-maximizing body targeting, meat-chopping imagery, explicit starvation/whipping, and Age-of-Destruction torture used to force submission are generalized/softened.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26229,7 +26269,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: pain-maximizing body targeting/meat-chopping imagery, starvation/whipping/torture coercion, and the source's >98% Level-Eight death-risk figure are omitted or softened."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md",
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 391,
@@ -26248,7 +26290,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-389.xhtml",
       "english_mtl_blob_sha": "8d8d6aa5824a7d1a163c654e582f2cfd661809c6",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 389,
+        "notes": "Cycle 2 Phase 3 verified target 391 aligns by title/content to recovered English E389; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0391.md",
         "draft_blob_sha": "fbf42899307feeccfd6d1878bedbf145e6494cef",
@@ -26271,9 +26317,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: centipede-like eye-vessel horror, fountain-like blood spray, guards apparently being 'eaten,' and the nauseating spit/soil reaction are generalized or omitted."
+        "Cycle 2 Phase 1 FAIL: centipede-like eye-vessel horror, fountain-like blood spray, guards apparently being 'eaten,' and the nauseating spit/soil reaction are generalized or omitted.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26281,7 +26328,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: centipede-like eye vessels, fountain-like blood spray, guards apparently being 'eaten,' and nauseating spit sound/stench are omitted or generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md",
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 392,
@@ -26300,7 +26349,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-390.xhtml",
       "english_mtl_blob_sha": "db22d351043061614505fed8e8c0926ad1297378",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 390,
+        "notes": "Cycle 2 Phase 3 verified target 392 aligns by title/content to recovered English E390; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0392.md",
         "draft_blob_sha": "faa3c85f9cb321affc003a5c16fd80c02401bc7e",
@@ -26323,9 +26376,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: a specific five-horse dismemberment threat is generalized, and fecal incontinence plus heart-paralysis fear language is reduced to pissing oneself and dying of fright."
+        "Cycle 2 Phase 1 FAIL: a specific five-horse dismemberment threat is generalized, and fecal incontinence plus heart-paralysis fear language is reduced to pissing oneself and dying of fright.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26333,7 +26387,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the five-horse dismemberment threat and full urinary/fecal/heart-paralysis fear response are softened; concrete fake-plague containment/fabrication context is generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md",
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 393,
@@ -26352,7 +26408,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-391.xhtml",
       "english_mtl_blob_sha": "92d20ce231b3746ad0b22a5999134900661e1007",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 391,
+        "notes": "Cycle 2 Phase 3 verified target 393 aligns by title/content to recovered English E391; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0393.md",
         "draft_blob_sha": "6fbf2ceee2e9a0396525f57362b6cbb48f1c8c28",
@@ -26375,9 +26435,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: source-confirmed broken ribs and collarbone are softened to ribs hurting and a collarbone that merely feels fractured."
+        "Cycle 2 Phase 1 FAIL: source-confirmed broken ribs and collarbone are softened to ribs hurting and a collarbone that merely feels fractured.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26385,7 +26446,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: confirmed broken ribs/collarbone are softened to pain/uncertainty, and the source's named Level-Nine prisoner comparison is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md",
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 394,
@@ -26404,7 +26467,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-392.xhtml",
       "english_mtl_blob_sha": "0eb8a7b257bdbb2a267f1c01404df70f5eec381f",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 392,
+        "notes": "Cycle 2 Phase 3 verified target 394 aligns by title/content to recovered English E392; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0394.md",
         "draft_blob_sha": "59009d9420560abd9d49fcb125f334361d67be77",
@@ -26427,9 +26494,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: source-explicit torture/beating that Sakkuth may endure is softened to 'interrogation.'"
+        "Cycle 2 Phase 1 FAIL: source-explicit torture/beating that Sakkuth may endure is softened to 'interrogation.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26437,7 +26505,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-explicit torture/beating is softened to interrogation and labor is substituted into the sequence."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md",
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 395,
@@ -26456,7 +26526,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-393.xhtml",
       "english_mtl_blob_sha": "38ad5acc799c755c0e9c04444286fb1702259924",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 393,
+        "notes": "Cycle 2 Phase 3 verified target 395 aligns by title/content to recovered English E393; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0395.md",
         "draft_blob_sha": "d5cbb8e5d994658c18650ad1998a33d00c707b79",
@@ -26479,9 +26553,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source explicitly identifies Sakkuth's scattered material as a poison mixture, while the draft generalizes it to foul-looking substances."
+        "Cycle 2 Phase 1 FAIL: the source explicitly identifies Sakkuth's scattered material as a poison mixture, while the draft generalizes it to foul-looking substances.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26489,7 +26564,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Sakkuth's scattered material is source-explicitly poison, but the draft generalizes it to foul-looking substances."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md"
+      "completeness_review_file": "qa/cycle2/completeness/worst-torture-0390-0395.md",
+      "boundary_review_file": "qa/cycle2/boundary/worst-torture-0390-0395.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 396,
@@ -26508,7 +26585,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-394.xhtml",
       "english_mtl_blob_sha": "f93bbd9db40fabac1fde654d02ef08dcf26a1bc7",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 394,
+        "notes": "Cycle 2 Phase 3 verified target 396 aligns by title/content to recovered English E394; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0396.md",
         "draft_blob_sha": "5893075e41427caa7c3fd59310505c9529ad52a5",
@@ -26531,9 +26612,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -26541,7 +26623,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md",
+      "boundary_review_file": "qa/cycle2/boundary/dead-man-walking-0396-0398.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 397,
@@ -26560,7 +26644,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-395.xhtml",
       "english_mtl_blob_sha": "b82f6232a072de0e2a329a9b46bc48dde46f1f64",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 395,
+        "notes": "Cycle 2 Phase 3 verified target 397 aligns by title/content to recovered English E395; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0397.md",
         "draft_blob_sha": "6b4ac9950456e83652b7c0becf817e0a276f8d02",
@@ -26583,9 +26671,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Sakkuth's source-explicit cavern-filling terror scream and reduction to a fresh, wriggling piece of meat inside Flubber are softened/generalized."
+        "Cycle 2 Phase 1 FAIL: Sakkuth's source-explicit cavern-filling terror scream and reduction to a fresh, wriggling piece of meat inside Flubber are softened/generalized.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26593,7 +26682,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Sakkuth's source-explicit cavern-filling terror scream and reduction to a fresh, wriggling piece of meat inside Flubber are softened/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md",
+      "boundary_review_file": "qa/cycle2/boundary/dead-man-walking-0396-0398.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 398,
@@ -26612,7 +26703,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-396.xhtml",
       "english_mtl_blob_sha": "022a96f4e386f47275dd82df1b75fbcf2f280aa4",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 396,
+        "notes": "Cycle 2 Phase 3 verified target 398 aligns by title/content to recovered English E396; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0398.md",
         "draft_blob_sha": "3e3ae1d360131f4d6074da4b691f8ff86d8bbc62",
@@ -26635,9 +26730,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -26645,7 +26741,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md"
+      "completeness_review_file": "qa/cycle2/completeness/dead-man-walking-0396-0398.md",
+      "boundary_review_file": "qa/cycle2/boundary/dead-man-walking-0396-0398.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 399,
@@ -26664,7 +26762,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-397.xhtml",
       "english_mtl_blob_sha": "86f1e5e01fcc6d6206b8ff5fa5e067d28cc1dcb2",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 397,
+        "notes": "Cycle 2 Phase 3 verified target 399 aligns by title/content to recovered English E397; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0399.md",
         "draft_blob_sha": "939338acd9d460205c48710f87eeca73cd06c2ca",
@@ -26687,9 +26789,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26697,7 +26800,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the explicit possible-mother clue in Black Tongue's victim list is omitted, and Virginia's offense is rewritten so Colonel D'Ordume's direct role in diverting military supplies disappears."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md"
+      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md",
+      "boundary_review_file": "qa/cycle2/boundary/black-tongue-0399-0402.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 400,
@@ -26716,7 +26821,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-398.xhtml",
       "english_mtl_blob_sha": "7e30c86e0076796345964bd39683b31cdacaa45b",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 398,
+        "notes": "Cycle 2 Phase 3 verified target 400 aligns by title/content to recovered English E398; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0400.md",
         "draft_blob_sha": "e48bc7e4c4600404b34c438200cfc14c7cb92310",
@@ -26739,9 +26848,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26749,7 +26859,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Black Tongue's D'Ordume/Souaré feud history (including blowing away half of Souaré's face and repeated naval clashes) is omitted, and his explicit changed-identity/disguise question is generalized to a turning-point question."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md"
+      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md",
+      "boundary_review_file": "qa/cycle2/boundary/black-tongue-0399-0402.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 401,
@@ -26768,7 +26880,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-399.xhtml",
       "english_mtl_blob_sha": "002614684dd09a6f7692c2ef777d9197d2673e4b",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 399,
+        "notes": "Cycle 2 Phase 3 verified target 401 aligns by title/content to recovered English E399; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0401.md",
         "draft_blob_sha": "0ff2131468c16b8bc530053a55c72d6c15a87d9d",
@@ -26791,9 +26907,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit abdominal palm strike, wall impact, broken ribs, and possible rib-fragment/internal-organ injury to Kirko are omitted."
+        "Cycle 2 Phase 1 FAIL: Black Tongue's source-explicit abdominal palm strike, wall impact, broken ribs, and possible rib-fragment/internal-organ injury to Kirko are omitted.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -26801,7 +26918,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Black Tongue's abdominal palm strike, Kirko's wall impact, broken ribs, and possible rib-fragment/internal-organ injury are omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md"
+      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md",
+      "boundary_review_file": "qa/cycle2/boundary/black-tongue-0399-0402.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 402,
@@ -26820,7 +26939,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-400.xhtml",
       "english_mtl_blob_sha": "256e3a7429855dcd98f9ff289fb5a8584242c30e",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 400,
+        "notes": "Cycle 2 Phase 3 verified target 402 aligns by title/content to recovered English E400; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0402.md",
         "draft_blob_sha": "ef307f0fe33fc6182a5424b3ac54bac6855cf28b",
@@ -26843,9 +26966,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, mistranslation affecting source force, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -26853,7 +26977,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md"
+      "completeness_review_file": "qa/cycle2/completeness/black-tongue-0399-0402.md",
+      "boundary_review_file": "qa/cycle2/boundary/black-tongue-0399-0402.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 403,
@@ -36835,23 +36961,23 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 384,
+    "boundary_alignment_reviewed_count": 402,
     "boundary_alignment_pass_count": 53,
     "boundary_alignment_fail_count": 2,
-    "boundary_alignment_exception_documented_count": 329,
-    "families_reviewed_count": 94,
+    "boundary_alignment_exception_documented_count": 347,
+    "families_reviewed_count": 98,
     "families_pass_count": 14,
     "families_fail_count": 2,
-    "families_exception_documented_count": 78,
+    "families_exception_documented_count": 82,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 317,
+    "new_source_exception_rows": 333,
     "next_family": {
-      "name": "The Rotten Dog of Nouvelle Vague",
-      "start": 385,
-      "end": 389
+      "name": "Jailbreaker",
+      "start": 403,
+      "end": 408
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0384.md",
-    "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 317 Phase-3 additions = 353 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered."
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0402.md",
+    "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 333 Phase-3 additions = 369 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered."
   }
 }
