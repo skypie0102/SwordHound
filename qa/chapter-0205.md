@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/205.txt` — `5d2574f56fcc774d0fcb0a424461585ac2083139`
 - English witness: **E203** — `d5ec3cfda68eb2ee1d6fa22367eb34092ae4f2fc`
-- Draft: `manuscript/drafts/chapter-0205.md` — `c8ba7fe99be05b2db5a3dcbc43b32eec3e3ee467`
+- Draft: `manuscript/drafts/chapter-0205.md` — `1e4ad0e6bf5a062200d99cef51e63d9c7c1e5a63`
 - Boundary: C206 — `86a0e5cf87255b744988fe7b97068b452ad0b76f` / E204 — `ea1e65fd55cdb60c0f1664c66045de88e993247b` begin **Festival Night (1)**.
 
 ## Checks
@@ -25,3 +25,14 @@
 - PASS — Dolores plans to ask the Pope about Saintess awakening / soul resonance.
 - PASS — Vikir is fully recovered by the end and slips away through the window.
 - PASS — target 206 cleanly begins **Festival Night (1)**.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the horizontal paired-Fang mechanism and the source's nonsexual pet-affection beats: careful washing touch, belly rub, foam wiped from the nose, repeated puppy kisses, and the later nose-touch while being held. The source-explicit no-lust framing remains intact; explicit underage nudity wording remains safety-limited and is not expanded.
+
+The complete Mixed Bath family was reread after remediation. Mapping remains **203→E201, 204→E202, 205→E203**; target **206→E204** begins *Festival Night (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation with a documented safety-limited underage-nudity exception.** Final family acceptance is rebound through the refreshed Mixed Bath family QA.
