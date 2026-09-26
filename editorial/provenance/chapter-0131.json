@@ -9,8 +9,8 @@
       132
     ],
     "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
-    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
-    "status": "pass"
+    "family_qa_sha": "d54952148afc8aba53cc230d00694544833c066c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/131.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0131.md",
-    "blob_sha": "9755f192aa86e5c554196ac377297214348dcef1"
+    "blob_sha": "f80f178398f88875e1eb6bfd91ce50386721227b"
   },
   "qa": {
     "path": "qa/chapter-0131.md",
-    "blob_sha": "978183f3c5845472a78e05fe77c739108bc64eb8",
-    "status": "pass"
+    "blob_sha": "c1fa439ce3a5ecff83ef0da5a37a4a8e296a9503",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/133.txt",
     "chinese_sha": "e948d42cd33e78a1da4ad882ff6442f932406edd",
     "english_path": "source/chapters/chapter-132.xhtml",
     "english_sha": "cc299d9aa9e64e9b3427b90c84c8c1402881a502",
     "purpose": "both begin Test Your Skills (1), target133"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      130,
+      132
+    ],
+    "manuscript_changed": true,
+    "note": "restored explicit cruel/brutal/merciless/malicious narrator framing"
   }
 }
