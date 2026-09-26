@@ -732,7 +732,15 @@
         84
       ],
       "boundary_review_file": "qa/cycle2/boundary/lovesickness-0083-0084.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        83,
+        84
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 83-84 remediated and fully rebound; The Illiad 85-89 has no Phase-4 remediation targets."
     },
     {
       "index": 25,
@@ -8435,15 +8443,19 @@
         "Cycle 2 Phase 1 FAIL: severed-limb aftermath and concrete crude/anatomical memory details were generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: explicit severed-limb slave-trader aftermath, Aiyen's wetting-tease memory, boiled-bear-testicle montage detail, and the father's stronger drug-wrongdoing description are generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/lovesickness-0083-0084.md",
       "boundary_review_file": "qa/cycle2/boundary/lovesickness-0083-0084.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 84,
@@ -8494,15 +8506,19 @@
         "Cycle 2 Phase 1 FAIL: Rokoko cannibalism characterization was omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/lovesickness-0083-0084.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Rokoko cannibalism, Ahun's devout-invocation comparison, the willow-leaf/thousands-of-paces archery scale, and Vikir's stronger control/influence intent toward the tribes are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/lovesickness-0083-0084.md",
       "boundary_review_file": "qa/cycle2/boundary/lovesickness-0083-0084.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 85,
@@ -37999,22 +38015,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 30,
-    "remediation_remaining_chapters": 243,
-    "families_completed": 12,
+    "remediation_completed_chapters": 32,
+    "remediation_remaining_chapters": 241,
+    "families_completed": 13,
     "last_completed_family": {
-      "name": "The Saintess",
-      "start": 78,
-      "end": 82
-    },
-    "next_family": {
       "name": "Lovesickness",
       "start": 83,
       "end": 84
     },
-    "earliest_remediation_chapter": 83,
-    "manuscript_edits": 32,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; and The Saintess 78-82 complete",
+    "next_family": {
+      "name": "The Ghosts of the Ancestors",
+      "start": 90,
+      "end": 94
+    },
+    "earliest_remediation_chapter": 94,
+    "manuscript_edits": 34,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; and Lovesickness 83-84 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
