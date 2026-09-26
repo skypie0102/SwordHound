@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/069.txt` — `a773e887b3e8514fbe8f133fefeb31f66ed31a57`
 - Recovered English witness: **E68** `source/chapters/chapter-068.xhtml` — `091517f790c8fd1b7672dce16e7601330e65cfa0`
-- Draft: `manuscript/drafts/chapter-0069.md` — `24da6e2f484446ad806117ba9f3748a78c0ff048`
+- Draft: `manuscript/drafts/chapter-0069.md` — `fc5f09e66d235dc0d3f98efab182f086e8b989e8`
 
 ## Alignment
 
@@ -29,3 +29,14 @@ Target 69 → E68 is verified by the complete sequence: Aiyen reflects on Camus 
 ## Interpretation check
 
 Aiyen's emotional concern about Vikir leaving is retained as nonsexual relationship material. No later relationship outcome is imported.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source-explicit age estimate for the swallowed Rokoko hunter: he was just over twenty and in his physical prime. The full family reread found no additional ordinary omission.
+
+Sanitization fidelity and completeness were rerun across the complete Blood Relatives (68–71) family after remediation. The established shifted witness mapping remains 68→E67, 69→E68, 70→E69, 71→E70, and target 72/E71 begins *The Red Death (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Blood Relatives family QA.
