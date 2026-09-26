@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 37 affected families complete through Tuition (225–233); 109/273 remediation chapters complete; next affected family Suspicion (234–235)
+**Current audit stage:** Phase 4 ACTIVE — 38 affected families complete through Suspicion (234–235); 111/273 remediation chapters complete; next affected family National University League (236–244)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -161,20 +161,19 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 
 ## Phase 4 progress
 
-- Completed affected families: **37**
-- Remediation chapters complete: **109 / 273**
-- Remaining remediation chapters: **164**
-- Phase-4 manuscript edits: **109**
-- Last completed affected family: **Tuition (225–233)**
-- Latest repaired chapters: **225, 229, 230, 231, 232**
-- Next affected family: **Suspicion (234–235)**
-- Earliest remaining remediation target: **234**
+- Completed affected families: **38**
+- Remediation chapters complete: **111 / 273**
+- Remaining remediation chapters: **162**
+- Phase-4 manuscript edits: **111**
+- Last completed affected family: **Suspicion (234–235)**
+- Next affected family: **National University League (236–244)**
+- Earliest remaining remediation target: **236**
 - EPUB assembly remains blocked
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **Suspicion (234–235)**.
-2. Reread both chapters against Chinese-primary source and shifted English witnesses.
-3. Repair queued defects in Chapters **234–235**, rerun both primary gates, and refresh the full evidence chain.
-4. Continue to **National University League (236–244)** after Suspicion closes.
+1. Continue **Phase 4** with **National University League (236–244)**.
+2. Reread the full nine-chapter family against Chinese-primary sources and shifted English witnesses.
+3. Repair queued Chapters **236, 238, and 241**, plus any ordinary defects found during the full-family reread.
+4. Re-run both primary gates and refresh chapter QA, family QA, provenance, acceptance, tracker, ledger, and live docs.
 5. Keep EPUB assembly blocked until Phases 4–6 close.
