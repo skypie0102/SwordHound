@@ -44,13 +44,17 @@ Discipline.
 
 A lifetime of religious acts determined how much divine power a priest could safely draw.
 
-One unit of accumulated grace.
+One point of divine power could produce one miracle.
 
-One unit of miracle.
+Ten points could produce ten miracles.
 
 That was common sense.
 
 Vikir knew a later method that broke the equation.
+
+One point could be stretched into ten miracles.
+
+Ten points could become a hundred.
 
 *Short selling.*
 
@@ -78,9 +82,9 @@ Some called it shorting divine power.
 
 Others called it an overdraft.
 
-In that desperate era, even people who were not priests could sometimes draw a small amount of divine power if they had accumulated enormous merit fighting demons.
+In that desperate era, even people who were not priests could sometimes draw a small amount of divine power if they had accumulated enormous merit killing monsters.
 
-Vikir had killed more demons than he could count.
+Vikir had killed more monsters than he could count.
 
 That merit remained attached to his soul even after regression.
 
@@ -116,9 +120,7 @@ Rather than spreading power across intact skin, he directed it as close as possi
 
 He used a scalpel where necessary.
 
-Small incision.
-
-Direct treatment.
+At a red lesion, he made a small incision and channeled divine power through the blood flowing from it.
 
 Minimal waste.
 
@@ -238,7 +240,7 @@ Vikir's gift was smaller.
 
 But he had emptied his own pocket without hesitation.
 
-Scripture taught that sacrifice was measured by what giving cost the giver.
+Scripture taught that a beggar giving away a single bowl of porridge could make a greater sacrifice than a rich person donating a thousand gold.
 
 Dolores watched his back.
 
