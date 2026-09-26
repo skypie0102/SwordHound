@@ -2,8 +2,8 @@
   "chapter": 47,
   "title": "The Husband Hunt (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "The Husband Hunt",
     "range": [
@@ -11,7 +11,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0047.md",
     "draft_sha": "62398e8c0c50ec82ccf8dfd2d2c0216a0398a650",
     "qa_path": "qa/chapter-0047.md",
-    "qa_sha": "a0426c260d89c76265b9a2280f809799bc99368f",
+    "qa_sha": "24925837664c978173efe27a7db32a08255fa075",
     "provenance_path": "editorial/provenance/chapter-0047.json",
-    "provenance_sha": "b0b043426b5053f39ed078ece22148708a6b05cb"
+    "provenance_sha": "e4ae8f740775f53c97c2d5502757839206bd2261"
   },
   "canonical_checks": [
     "Ballak Tribe",
@@ -39,5 +39,12 @@
     "Recovered-English Gradient, gender flips, and brother drift are rejected.",
     "The silver/black-haired Ballak woman remains unnamed until the source reveal.",
     "Camus is captured only after pushing Vikir out of the lasso's path."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no manuscript correction required"
+  }
 }
