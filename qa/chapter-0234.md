@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/234.txt` — `ed6edd25dd6b29710bed7cce56168a7703b50cee`
 - English witness: **E232** — `95e64595ef6ed13eb15630804de6646698f95e0a`
-- Draft: `manuscript/drafts/chapter-0234.md` — `78be2cb269bab6093a54510c8d3e3d62d00bf0ad`
+- Draft: `manuscript/drafts/chapter-0234.md` — `73a8aab348a80c134556145fdd072fcec58fd933`
 
 ## Checks
 - PASS — Dolores distinguishes formal student-council authority from the noble / power-family factions' informal connection-based influence.
@@ -23,3 +23,14 @@
 - PASS — Pigi reports that Vikir often wanders at night but always returns.
 - PASS — Vikir's room is deliberately sparse enough to feel as though he is ready to leave at any time.
 - PASS — Pigi's closing thought that Dolores may like Vikir is explicitly a plausible misunderstanding, not a confirmed relationship.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the classmate's source-present body appraisal: Vikir's enthusiasm for training is obvious if one **looks at his body**.
+
+Both Suspicion chapters were reread after remediation. Mapping remains **234→E232, 235→E233**; target 236/E234 begins *National University League (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Suspicion family QA.
