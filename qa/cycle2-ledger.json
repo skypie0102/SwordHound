@@ -538,7 +538,16 @@
         66
       ],
       "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        64,
+        65,
+        66
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 64-66 remediated and rebound; Chapter 67 complete-family revalidated unchanged."
     },
     {
       "index": 20,
@@ -565,7 +574,16 @@
         71
       ],
       "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        69,
+        70,
+        71
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 69-71 remediated and rebound; Chapter 68 complete-family revalidated unchanged."
     },
     {
       "index": 21,
@@ -593,7 +611,16 @@
         74
       ],
       "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        72,
+        73,
+        74
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 72 and 74 were queued remediation targets; Chapter 73 gained an additional ordinary omission repair during complete-family reread."
     },
     {
       "index": 22,
@@ -624,7 +651,16 @@
         77
       ],
       "boundary_review_file": "qa/cycle2/boundary/hound-night-0075-0077.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        75,
+        76,
+        77
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 75-77 remediated and fully rebound; combined C075 hybrid handling remains unchanged."
     },
     {
       "index": 23,
@@ -7191,15 +7227,19 @@
         "Cycle 2 Phase 1 sanitization FAIL: Explicit racial degradation was generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-explicit skin-color degradation is compressed to a generic statement that merchants mocked the girl's skin; the separate child-directed sexual harassment remains safety-limited."
       ],
       "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
       "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 65,
@@ -7250,15 +7290,19 @@
         "Cycle 2 Phase 1 sanitization FAIL: Concrete long-term drug-harm consequences were generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source-explicit long-term narcotic consequences—severe debilitation, congenital harm in a later generation, and possible death—are generalized to chronic illness/growing worse."
       ],
       "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
       "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 66,
@@ -7309,15 +7353,19 @@
         "Cycle 2 Phase 1 sanitization FAIL: Direct racial threats and several combat-gore details were generalized.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/unfair-trade-0064-0067.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: direct racist kill threats and explicit arrow-kill details including head/body separation and the mercenary captain losing nearly his entire head are generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
       "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 67,
@@ -7376,7 +7424,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/unfair-trade-0064-0067.md",
       "boundary_review_file": "qa/cycle2/boundary/unfair-trade-0064-0067.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": false,
+      "phase4_remediation_status": "family_revalidated_no_remediation_required"
     },
     {
       "chapter": 68,
@@ -7435,7 +7487,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
       "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": false,
+      "phase4_remediation_status": "family_revalidated_no_remediation_required"
     },
     {
       "chapter": 69,
@@ -7486,15 +7542,19 @@
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source identifies the swallowed Rokoko hunter as just over twenty years old and in his physical prime; the draft generalizes this to a young adult in physical prime."
       ],
       "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
       "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 70,
@@ -7545,15 +7605,19 @@
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's extremely slowed metabolism during Red Death and asserted eye-contact transmission mechanic are omitted/reframed as a mere frightened belief."
       ],
       "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
       "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 71,
@@ -7604,15 +7668,19 @@
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/blood-relatives-0068-0071.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Hugo's source-explicit view of boys/sons/grandsons as more useful combat assets and his treatment of children as tools for battle is omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/blood-relatives-0068-0071.md",
       "boundary_review_file": "qa/cycle2/boundary/blood-relatives-0068-0071.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 72,
@@ -7663,15 +7731,19 @@
         "Cycle 2 Phase 1 direct Chinese-primary sanitization review: no unsupported softening, omission/generalization, or intensification found.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: source mortality is over 40%, but the draft changes it to nearly 40% in some regions; the explicit Black Death comparison is also generalized away."
       ],
       "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md",
       "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 73,
@@ -7723,14 +7795,18 @@
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
-      "rebind_status": "not_applicable_until_edit",
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source review found no missing, materially collapsed, duplicated, or invented ordinary source content within the documented safety rules."
       ],
       "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md",
       "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "family_revalidated_additional_repair"
     },
     {
       "chapter": 74,
@@ -7781,15 +7857,19 @@
         "Cycle 2 Phase 1 sanitization FAIL: explicit degrading spitting action omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/overlap or nontrivial English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/red-death-0072-0074.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Ah'Heman's source-explicit spitting at/on sick Aheul's face is omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/red-death-0072-0074.md",
       "boundary_review_file": "qa/cycle2/boundary/red-death-0072-0074.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 75,
@@ -7841,15 +7921,19 @@
         "Cycle 2 Phase 1 FAIL: floating-corpse footing imagery was generalized away.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: corpse/log flood footing is reduced to logs/debris; Chihuahua's red-eyed remembrance of Vikir and the named Cindywendy/Gambino investment-adviser precedent are omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md",
       "boundary_review_file": "qa/cycle2/boundary/hound-night-0075-0077.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 76,
@@ -7901,15 +7985,19 @@
         "Cycle 2 Phase 1 FAIL: children's collapse/wetting terror response omitted; operational pathogen details remain safety-limited.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the children's collapse/wetting terror response is omitted, Dolores's second-year/young-house-head status is incomplete, and three source-specific petitioner identities/status/offer speeches are compressed into generic summaries; operational pathogen details remain safety-limited."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md",
       "boundary_review_file": "qa/cycle2/boundary/hound-night-0075-0077.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 77,
@@ -7960,15 +8048,19 @@
         "Cycle 2 Phase 1 FAIL: Mozgus cruelty characterization and torture-application memory were softened/omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hound-night-0075-0077.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Mozgus's thousand-li divine-power image, crueler-than-demons justice characterization, solo-thousand-demon heroic death, torture-application memory, roughly-half-strength/near-even matchup assessment, and dozens-of-kilograms scripture weight are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hound-night-0075-0077.md",
       "boundary_review_file": "qa/cycle2/boundary/hound-night-0075-0077.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_manuscript_changed": true,
+      "phase4_remediation_status": "complete"
     },
     {
       "chapter": 78,
@@ -37876,22 +37968,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 14,
-    "remediation_remaining_chapters": 259,
-    "families_completed": 7,
+    "remediation_completed_chapters": 25,
+    "remediation_remaining_chapters": 248,
+    "families_completed": 11,
     "last_completed_family": {
-      "name": "The Protagonist of Hunting",
-      "start": 61,
-      "end": 63
+      "name": "The Hound of the Night",
+      "start": 75,
+      "end": 77
     },
     "next_family": {
-      "name": "Unfair Trade",
-      "start": 64,
-      "end": 67
+      "name": "The Saintess",
+      "start": 78,
+      "end": 82
     },
-    "earliest_remediation_chapter": 64,
-    "manuscript_edits": 15,
-    "evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, The Hunter and the Hunted 55-60, and The Protagonist of Hunting 61-63 complete",
+    "earliest_remediation_chapter": 78,
+    "manuscript_edits": 27,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; and The Hound of the Night 75-77 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
