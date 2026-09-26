@@ -210,9 +210,11 @@ Unworthy nobles.
 
 Bad seedlings.
 
-People who called themselves elite—
+People unfit to be called elite.
 
-but would only hurt more people—
+Pests—
+
+the kind who would only hurt more people
 
 the higher they climbed.
 
@@ -285,6 +287,20 @@ turned honor into humiliation.
 And antagonizing Quovadis—
 
 could destroy an Imperial career before it began.
+
+For their families—
+
+stock prices could collapse.
+
+Market value could evaporate.
+
+Trade channels and employment connections could be cut off.
+
+“We were wrong, President!”
+
+“Please don't give us demerits!”
+
+“My father will beat me to death if I'm expelled! Please!”
 
 Dolores looked down at them.
 
@@ -416,9 +432,13 @@ Baskerville's sword—
 
 resembled the jaws of a hunting hound.
 
-Upper jaw.
+The upper jaw—
 
-Lower jaw.
+incisors, canines, premolars, molars.
+
+The lower jaw—
+
+wisdom teeth, premolars, molars.
 
 Different teeth—
 
@@ -427,6 +447,10 @@ different functions.
 The **Sixth Fang** and **Seventh Fang**—
 
 had to interlock perfectly.
+
+The manuals described their ultimate killing principle as a hidden horizontal paired-Fang configuration—
+
+something that could only be used by understanding the subtle relationship between the Sixth and Seventh.
 
 Vikir's seventh tooth—
 
