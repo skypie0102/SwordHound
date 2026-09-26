@@ -9,7 +9,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "primary_source": {
@@ -53,11 +53,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0055.md",
-    "blob_sha": "e18c5c382ca2fab4bb721c5b33e552f752b986bd"
+    "blob_sha": "4cab7e75783208f932d9d868cbdc57b5b252f57b"
   },
   "qa": {
     "path": "qa/chapter-0055.md",
-    "blob_sha": "2b86dbfce94de0f26e8b77c5960909e35d12eed9",
+    "blob_sha": "c33d943e949c6b3630f0d9b82d03f4104fc5ec65",
     "status": "pass"
   },
   "documented_decisions": [
@@ -78,5 +78,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      55,
+      60
+    ],
+    "manuscript_changed": true,
+    "note": "restored source warning-bell instruction and removed unsupported curse wording"
+  }
 }
