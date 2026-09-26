@@ -2964,7 +2964,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/wandering-knight-0422-0424.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2977,7 +2977,9 @@
         422,
         423,
         424
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/wandering-knight-0422-0424.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 103,
@@ -2994,7 +2996,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/night-walkers-0425-0429.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -3011,7 +3013,9 @@
         427,
         428,
         429
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/night-walkers-0425-0429.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 104,
@@ -3027,7 +3031,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/lion-king-0430-0433.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -3039,7 +3043,9 @@
       "completeness_failures": [
         432,
         433
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/lion-king-0430-0433.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 105,
@@ -3054,7 +3060,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -3064,7 +3070,9 @@
       "completeness_reviewed_date": "2026-09-26",
       "completeness_failures": [
         434
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 106,
@@ -3080,7 +3088,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/dreaming-impossible-dream-0437-0440.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -3092,7 +3100,9 @@
       "completeness_failures": [
         438,
         439
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/dreaming-impossible-dream-0437-0440.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 107,
@@ -3113,7 +3123,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/fall-of-usher-0441-0449.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -3130,7 +3140,9 @@
         446,
         447,
         449
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 108,
@@ -3146,7 +3158,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/declaration-of-war-0450-0453.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -3159,7 +3171,9 @@
         450,
         451,
         453
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/declaration-of-war-0450-0453.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 109,
@@ -28125,7 +28139,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-420.xhtml",
       "english_mtl_blob_sha": "e5549a07072818aa84b4700ed01c8f34870e145d",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 420,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 422 aligns to recovered English E420 after the target-168 witness gap; Chinese remains semantic authority. English witness uses 'How to Live as a Wandering Knight' while the accepted Chinese-derived family title is 'How to Become a Wandering Knight'; title-layer wording drift only."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0422.md",
         "draft_blob_sha": "5e761fed9b98bff6be17b4521a60d47518b2f307",
@@ -28148,9 +28166,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28158,7 +28177,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: distinct tavern political exchanges, collateral-family context, the concrete neighboring-city Night Walkers anecdote, and separate public-reaction/why-not-us dialogue are summary-condensed or omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md",
+      "boundary_review_file": "qa/cycle2/boundary/wandering-knight-0422-0424.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 423,
@@ -28177,7 +28198,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-421.xhtml",
       "english_mtl_blob_sha": "b06155269fd4a604929e59736f8066e11cc4a047",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 421,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 423 aligns to recovered English E421 after the target-168 witness gap; Chinese remains semantic authority. English witness uses 'How to Live as a Wandering Knight' while the accepted Chinese-derived family title is 'How to Become a Wandering Knight'; title-layer wording drift only."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0423.md",
         "draft_blob_sha": "eef5bcafee31a92f16335d32fa5ce8c6f3d5611d",
@@ -28200,9 +28225,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: a source-explicit gnoll head bursting like a watermelon is softened to the creature simply losing its head."
+        "Cycle 2 Phase 1 FAIL: a source-explicit gnoll head bursting like a watermelon is softened to the creature simply losing its head.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28210,7 +28236,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the father's source iron rod is substituted with a pitchfork, the gnoll head bursting like a watermelon is softened to merely losing its head, and Shammua's post-rescue admiration/curiosity reaction is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md",
+      "boundary_review_file": "qa/cycle2/boundary/wandering-knight-0422-0424.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 424,
@@ -28229,7 +28257,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-422.xhtml",
       "english_mtl_blob_sha": "08e2bbb28f07bfb6d063d3d521dd1a9ba1613a79",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 422,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 424 aligns to recovered English E422 after the target-168 witness gap; Chinese remains semantic authority. English witness uses 'How to Live as a Wandering Knight' while the accepted Chinese-derived family title is 'How to Become a Wandering Knight'; title-layer wording drift only."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0424.md",
         "draft_blob_sha": "9d5b5f0a4790366fa442f78c26b2947dad3c6246",
@@ -28252,9 +28284,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: source-explicit burst internal organs in the escalating battlefield aftermath are generalized to nonspecific shattered bodies."
+        "Cycle 2 Phase 1 FAIL: source-explicit burst internal organs in the escalating battlefield aftermath are generalized to nonspecific shattered bodies.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28262,7 +28295,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: burst internal organs are generalized to shattered bodies, the source survival aphorism is omitted, and Tudor's throat-tightening reaction to Shammua's gift is dropped."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md"
+      "completeness_review_file": "qa/cycle2/completeness/wandering-knight-0422-0424.md",
+      "boundary_review_file": "qa/cycle2/boundary/wandering-knight-0422-0424.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 425,
@@ -28281,7 +28316,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-423.xhtml",
       "english_mtl_blob_sha": "77137c9e7ad2108b016b0fa79ff140c937a21863",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 423,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 425 aligns to recovered English E423 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading wording varies among equivalent 'Night Walkers' renderings; content sequence confirms one family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0425.md",
         "draft_blob_sha": "263d17a5882e4243271677613ee3fa41d141b20c",
@@ -28304,9 +28343,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28314,7 +28354,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's Old-Testament-priest learning note is omitted and an unsupported 'low-interest loan' flourish is added to her healing advice."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md",
+      "boundary_review_file": "qa/cycle2/boundary/night-walkers-0425-0429.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 426,
@@ -28333,7 +28375,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-424.xhtml",
       "english_mtl_blob_sha": "e6550fdb5f55f4bfd17a8f4df791ec10b4e9ae7a",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 424,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 426 aligns to recovered English E424 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading wording varies among equivalent 'Night Walkers' renderings; content sequence confirms one family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0426.md",
         "draft_blob_sha": "e838c5f2ab0a76428fa02d982da299d5896be069",
@@ -28356,9 +28402,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source's explicit proposal to assassinate the core figure is softened to generic 'hit the center' wording."
+        "Cycle 2 Phase 1 FAIL: the source's explicit proposal to assassinate the core figure is softened to generic 'hit the center' wording.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28366,7 +28413,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's entire-Empire stockpile scale is generalized, explicit assassination intent is softened to 'hit the center,' and Tudor's wall-smashing departure after the Bianca emergency is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md",
+      "boundary_review_file": "qa/cycle2/boundary/night-walkers-0425-0429.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 427,
@@ -28385,7 +28434,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-425.xhtml",
       "english_mtl_blob_sha": "1b6c1be3b376e6d8ef5b533e9457401545a0f148",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 425,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 427 aligns to recovered English E425 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading wording varies among equivalent 'Night Walkers' renderings; content sequence confirms one family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0427.md",
         "draft_blob_sha": "ce149690bfe03613680bce68ddc51d4d4d2b518c",
@@ -28408,9 +28461,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Pedro's source-specific punishment of having all four limbs cut off before underground imprisonment is generalized to being crippled/imprisoned."
+        "Cycle 2 Phase 1 FAIL: Pedro's source-specific punishment of having all four limbs cut off before underground imprisonment is generalized to being crippled/imprisoned.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28418,7 +28472,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Pedro's source-specific prior punishment of all four limbs being cut off before underground imprisonment is generalized to being crippled/imprisoned."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md",
+      "boundary_review_file": "qa/cycle2/boundary/night-walkers-0425-0429.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 428,
@@ -28437,7 +28493,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-426.xhtml",
       "english_mtl_blob_sha": "499db247e899a9e014451fd63c20f019780d2d6f",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 426,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 428 aligns to recovered English E426 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading wording varies among equivalent 'Night Walkers' renderings; content sequence confirms one family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0428.md",
         "draft_blob_sha": "8f06b012f45993e00d3e5a653121144345d509e3",
@@ -28460,9 +28520,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Sinclaire and Bianca's source-explicit tears-and-snot/nasal-discharge reconciliation detail is sanitized to crying only."
+        "Cycle 2 Phase 1 FAIL: Sinclaire and Bianca's source-explicit tears-and-snot/nasal-discharge reconciliation detail is sanitized to crying only.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28470,7 +28531,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Sinclaire and Bianca's source-explicit tears-and-nasal-discharge reconciliation detail is sanitized to crying only."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md",
+      "boundary_review_file": "qa/cycle2/boundary/night-walkers-0425-0429.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 429,
@@ -28489,7 +28552,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-427.xhtml",
       "english_mtl_blob_sha": "4156aded883b53bf7d79d5b5a4bae5e980a769e8",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 427,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 429 aligns to recovered English E427 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading wording varies among equivalent 'Night Walkers' renderings; content sequence confirms one family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0429.md",
         "draft_blob_sha": "20e57473e95e6dfa793d15643344eb3371cc9d44",
@@ -28512,9 +28579,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Pedro's source-explicit eyeballs actually popping out and the group's severing of his hands/feet are generalized to bulging eyes and destroyed mobility."
+        "Cycle 2 Phase 1 FAIL: Pedro's source-explicit eyeballs actually popping out and the group's severing of his hands/feet are generalized to bulging eyes and destroyed mobility.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28522,7 +28590,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Pedro's eyeballs actually popping out and the explicit severing of his hands/feet/limbs are generalized to bulging eyes and destroyed mobility."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md"
+      "completeness_review_file": "qa/cycle2/completeness/night-walkers-0425-0429.md",
+      "boundary_review_file": "qa/cycle2/boundary/night-walkers-0425-0429.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 430,
@@ -28541,7 +28611,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-428.xhtml",
       "english_mtl_blob_sha": "5d39ce04e15c58d65597b2d5c085b17ae503f50d",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 428,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 430 aligns to recovered English E428 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0430.md",
         "draft_blob_sha": "b1be4c800902dd2ede24d032814d7f84be7a6a51",
@@ -28564,9 +28638,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -28574,7 +28649,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md",
+      "boundary_review_file": "qa/cycle2/boundary/lion-king-0430-0433.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 431,
@@ -28593,7 +28670,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-429.xhtml",
       "english_mtl_blob_sha": "406042322e299a0305c7d7e29a78cfcdee4a7af6",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 429,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 431 aligns to recovered English E429 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0431.md",
         "draft_blob_sha": "df9cbf3fac3f65b1b42adff616842860b88ec6f5",
@@ -28616,9 +28697,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -28626,7 +28708,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md",
+      "boundary_review_file": "qa/cycle2/boundary/lion-king-0430-0433.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 432,
@@ -28645,7 +28729,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-430.xhtml",
       "english_mtl_blob_sha": "31254a3a4408772e5865d57b958d6c8dcbba8206",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 430,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 432 aligns to recovered English E430 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0432.md",
         "draft_blob_sha": "d6df6cbc9ed4f04e3df7e703b6b86c251eb81e16",
@@ -28668,9 +28756,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Chimeries's source-explicit appraisal of Tudor's fresh internal organs and his mind being suitable to swallow/devour in one gulp is softened to healthy organs and a softer mind."
+        "Cycle 2 Phase 1 FAIL: Chimeries's source-explicit appraisal of Tudor's fresh internal organs and his mind being suitable to swallow/devour in one gulp is softened to healthy organs and a softer mind.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28678,7 +28767,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Chimeries's source-explicit appraisal of Tudor's fresh internal organs and his mind being ideal to swallow/devour in one gulp is softened to healthy organs and a far softer mind."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md",
+      "boundary_review_file": "qa/cycle2/boundary/lion-king-0430-0433.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 433,
@@ -28697,7 +28788,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-431.xhtml",
       "english_mtl_blob_sha": "33e8dbf09e4518d9c21aeb07b931e568b52a8214",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 431,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 433 aligns to recovered English E431 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0433.md",
         "draft_blob_sha": "4b1de146736e5902ac39df004fdd186c2db103ff",
@@ -28720,9 +28815,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source-explicit swamp made of blood and flesh in Vikir's copied inner landscape is omitted despite surrounding corpse/blood imagery being retained."
+        "Cycle 2 Phase 1 FAIL: the source-explicit swamp made of blood and flesh in Vikir's copied inner landscape is omitted despite surrounding corpse/blood imagery being retained.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28730,7 +28826,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's blood-and-flesh swamp is omitted from Vikir's copied inner landscape, and the explicit compassionate reaction that Vikir is pitiable/heartbreaking is reduced to merely his name."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md"
+      "completeness_review_file": "qa/cycle2/completeness/lion-king-0430-0433.md",
+      "boundary_review_file": "qa/cycle2/boundary/lion-king-0430-0433.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 434,
@@ -28749,7 +28847,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-432.xhtml",
       "english_mtl_blob_sha": "53eef0dd238396ca804988191916633f2850a619",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 432,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 434 aligns to recovered English E432 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0434.md",
         "draft_blob_sha": "5d97d61f40d639e82dd9bacff16befd658b5d456",
@@ -28772,9 +28874,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage."
+        "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28782,7 +28885,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the empathy resonance's whole-body meat-grinder / being-torn-apart pain image is reduced to generic bodily pain, and Sinclaire's remembered exchange omits Vikir's statement that his goal is very distant and will take a long time plus her response to that scale."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 435,
@@ -28801,7 +28906,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-433.xhtml",
       "english_mtl_blob_sha": "7c55f4cad2d47ed478865964fcfbbb5f8e9696e3",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 433,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 435 aligns to recovered English E433 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0435.md",
         "draft_blob_sha": "47201e19c691380aa8165bb7ed70908a8c34e8ea",
@@ -28824,9 +28933,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -28834,7 +28944,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 436,
@@ -28853,7 +28965,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-434.xhtml",
       "english_mtl_blob_sha": "1b2ff1e9787995c7728fddc5eccb0eb8d5092c27",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 434,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 436 aligns to recovered English E434 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0436.md",
         "draft_blob_sha": "d5482ab287b1fc54121e927a0ccbc78e9c599d58",
@@ -28876,9 +28992,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -28886,7 +29003,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 437,
@@ -28905,7 +29024,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-435.xhtml",
       "english_mtl_blob_sha": "82b3c10e92dc4bdee8eb890ba05fac7d73df4b93",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 435,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 437 aligns to recovered English E435 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0437.md",
         "draft_blob_sha": "6a687909a438e6d0e45380185577d2882c70a7bb",
@@ -28928,9 +29051,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -28938,7 +29062,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md"
+      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md",
+      "boundary_review_file": "qa/cycle2/boundary/dreaming-impossible-dream-0437-0440.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 438,
@@ -28957,7 +29083,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-436.xhtml",
       "english_mtl_blob_sha": "bafb2922c1a1c2524c527d12d2fbda51f278ac16",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 436,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 438 aligns to recovered English E436 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0438.md",
         "draft_blob_sha": "8513d6b3644bff06756e8bbe4fc277789dedcdee",
@@ -28980,9 +29110,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Camus's source-supported mature-curves body descriptor, the sausage/pancake cavalry-impalement image, and Orca's old/lecherous escaped-convict insult are softened or omitted."
+        "Cycle 2 Phase 1 FAIL: Camus's source-supported mature-curves body descriptor, the sausage/pancake cavalry-impalement image, and Orca's old/lecherous escaped-convict insult are softened or omitted.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -28990,7 +29121,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Camus's mature-curves descriptor, the sausage/pancake cavalry image, and Orca's full old/lecherous escaped-convict insult are omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md"
+      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md",
+      "boundary_review_file": "qa/cycle2/boundary/dreaming-impossible-dream-0437-0440.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 439,
@@ -29009,7 +29142,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-437.xhtml",
       "english_mtl_blob_sha": "758e791810d00145299448e5c03fc7d4eaa15ca1",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 437,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 439 aligns to recovered English E437 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0439.md",
         "draft_blob_sha": "a375c293caa5a14fe1a9f2844d27b9d609c469b6",
@@ -29032,9 +29169,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source's explicit image of Orca smashing approaching assassins into meat patties with one blow is generalized to merely crushing them."
+        "Cycle 2 Phase 1 FAIL: the source's explicit image of Orca smashing approaching assassins into meat patties with one blow is generalized to merely crushing them.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29042,7 +29180,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Orca's one-blow 'meat patty' gore image is generalized, and the named Doldium/Souare Nouvelle Vague comparison is reduced to a generic old pairing."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md"
+      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md",
+      "boundary_review_file": "qa/cycle2/boundary/dreaming-impossible-dream-0437-0440.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 440,
@@ -29061,7 +29201,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-438.xhtml",
       "english_mtl_blob_sha": "9e762084932a4d6c4d7d84fbd70897625deaecbf",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 438,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 440 aligns to recovered English E438 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0440.md",
         "draft_blob_sha": "17f98482d39e036691e2c29273d9aa315dac9739",
@@ -29084,9 +29228,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -29094,7 +29239,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md"
+      "completeness_review_file": "qa/cycle2/completeness/dreaming-impossible-dream-0437-0440.md",
+      "boundary_review_file": "qa/cycle2/boundary/dreaming-impossible-dream-0437-0440.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 441,
@@ -29113,7 +29260,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-439.xhtml",
       "english_mtl_blob_sha": "e60f32a144f05a494bc64edba8061b79aed6382b",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 439,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 441 aligns to recovered English E439 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0441.md",
         "draft_blob_sha": "68b8aef0a4c3766516b62b1237235831fd5c0992",
@@ -29136,9 +29287,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -29146,7 +29298,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 442,
@@ -29165,7 +29319,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-440.xhtml",
       "english_mtl_blob_sha": "5c826637cf42f1534e72c80fac7b97e56b910750",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 440,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 442 aligns to recovered English E440 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0442.md",
         "draft_blob_sha": "0e36d373e6a5d50f5fa4cc9e02f4aafbb0c574f8",
@@ -29188,9 +29346,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -29198,7 +29357,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 443,
@@ -29217,7 +29378,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-441.xhtml",
       "english_mtl_blob_sha": "d6932c177ba07a36993ca2b385cf91e262a52917",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 441,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 443 aligns to recovered English E441 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0443.md",
         "draft_blob_sha": "0296a62ddf5d82217089421501e9bb3f76c8c417",
@@ -29240,9 +29405,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -29250,7 +29416,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 444,
@@ -29269,7 +29437,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-442.xhtml",
       "english_mtl_blob_sha": "6ae02c3fb2219546809d7466c8e94a0b7397955c",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 442,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 444 aligns to recovered English E442 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0444.md",
         "draft_blob_sha": "d831b83c38f464833eb7ba143819c83ab6a5c931",
@@ -29292,9 +29464,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Bianca's source-explicit kiss on Tudor's lips is generalized to an unspecified kiss, and beheaded monsters with dripping blood on the cleared escape route are reduced to generic dead monsters."
+        "Cycle 2 Phase 1 FAIL: Bianca's source-explicit kiss on Tudor's lips is generalized to an unspecified kiss, and beheaded monsters with dripping blood on the cleared escape route are reduced to generic dead monsters.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29302,7 +29475,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Bianca's source-specified lip kiss, beheaded/blood-dripping monster remains, and Lovegood's concrete note/fan-gift list are omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 445,
@@ -29321,7 +29496,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-443.xhtml",
       "english_mtl_blob_sha": "90bad3f0002a50129b0ca6cee86b35f215d77993",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 443,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 445 aligns to recovered English E443 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0445.md",
         "draft_blob_sha": "e6d0018e7a307a5942c7ebe3141ef77eb6d614a3",
@@ -29344,9 +29523,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: a source-explicit snot/nasal-discharge trail is omitted, and Madeline's grotesque plan involving consuming/enjoying offspring made from her own blood/flesh is generalized to 'Children. Fresh blood. Fresh flesh.'"
+        "Cycle 2 Phase 1 FAIL: a source-explicit snot/nasal-discharge trail is omitted, and Madeline's grotesque plan involving consuming/enjoying offspring made from her own blood/flesh is generalized to 'Children. Fresh blood. Fresh flesh.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29354,7 +29534,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: nasal-discharge trail detail, Madeline's explicit offspring-consumption fantasy, and her Nouvelle-Vague-prisoner demon-hunter suspicion are omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 446,
@@ -29373,7 +29555,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-444.xhtml",
       "english_mtl_blob_sha": "1706635c6fb5a677a4261511446cf620197b031e",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 444,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 446 aligns to recovered English E444 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0446.md",
         "draft_blob_sha": "c229bde0381b3d82eba45fa3ba3547573321edfc",
@@ -29396,9 +29582,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29406,7 +29593,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the draft omits Vikir's alternate-history explanation that Sade should have died after the failed Nouvelle Vague escape and therefore his strategist/military talent was unavailable to the old Human Alliance."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 447,
@@ -29425,7 +29614,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-445.xhtml",
       "english_mtl_blob_sha": "9a659d7997c3eb2a9d66e349cfda2d79c32a4774",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 445,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 447 aligns to recovered English E445 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0447.md",
         "draft_blob_sha": "2c57dd749645cf86b7fd3b1257f9d183a53d40e2",
@@ -29448,9 +29641,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Daylily meat-patty/minced-body imagery, Isolde's internal-organ spill after skull destruction, and body-fragment handling are materially generalized."
+        "Cycle 2 Phase 1 FAIL: Daylily meat-patty/minced-body imagery, Isolde's internal-organ spill after skull destruction, and body-fragment handling are materially generalized.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29458,7 +29652,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the meat-patty/minced-body image, Daylily size-tradeoff/recovery detail, demon-body-fragment handling, and Isolde internal-organ spill are omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 448,
@@ -29477,7 +29673,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-446.xhtml",
       "english_mtl_blob_sha": "e20a10f872723cd41230b018d39de534379122be",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 446,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 448 aligns to recovered English E446 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0448.md",
         "draft_blob_sha": "536d8242206b04bfe9867c11b4fdbfafe6ec2eb8",
@@ -29500,9 +29700,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -29510,7 +29711,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 449,
@@ -29529,7 +29732,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-447.xhtml",
       "english_mtl_blob_sha": "065f9c9cd7f89f61ed04dc1b92693d4cafa87ec0",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 447,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 449 aligns to recovered English E447 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese/English headings vary in Usher transliteration/pluralization; content sequence confirms one nine-part family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0449.md",
         "draft_blob_sha": "45a8fc4f9c7d55b4d9a617dacf54070cb6e7f027",
@@ -29552,9 +29759,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Roderick's source-explicit broken-internal-organ condition is generalized to a body merely 'falling apart.'"
+        "Cycle 2 Phase 1 FAIL: Roderick's source-explicit broken-internal-organ condition is generalized to a body merely 'falling apart.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29562,7 +29770,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Roderick's source-explicit broken-into-pieces internal-organ condition is generalized to a body already falling apart."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md"
+      "completeness_review_file": "qa/cycle2/completeness/fall-of-usher-0441-0449.md",
+      "boundary_review_file": "qa/cycle2/boundary/fall-of-usher-0441-0449.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 450,
@@ -29581,7 +29791,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-448.xhtml",
       "english_mtl_blob_sha": "3b640c6a9be8e792734ead0f77f894ac6705aeff",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 448,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 450 aligns to recovered English E448 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0450.md",
         "draft_blob_sha": "3b8f754f0e3b8783bab07e88dc2045c918a7858e",
@@ -29604,9 +29818,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: after Juskin is dragged into the Red Death jar, the source explicitly shows his body twisting into a strange/grotesque shape; the draft omits that transformation beat."
+        "Cycle 2 Phase 1 FAIL: after Juskin is dragged into the Red Death jar, the source explicitly shows his body twisting into a strange/grotesque shape; the draft omits that transformation beat.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29614,7 +29829,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Juskin's grotesque body twisting during conversion is omitted, his sibling-specific second-son question is generalized to 'the others,' and the source's prior count of more than ten demon companions is dropped."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md",
+      "boundary_review_file": "qa/cycle2/boundary/declaration-of-war-0450-0453.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 451,
@@ -29633,7 +29850,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-449.xhtml",
       "english_mtl_blob_sha": "133086489d750469e7ff5e61fd5569d40e42bdc8",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 449,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 451 aligns to recovered English E449 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading uses the equivalent 'war oath' wording; content confirms the same Declaration of War family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0451.md",
         "draft_blob_sha": "6d27d4797ee80be5d5dbd8b933f8e3646b92d331",
@@ -29656,9 +29877,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29666,7 +29888,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source states that Varangian Director Dirakium ultimately died from Sadi-inflicted injuries and Basilios succeeded him; the draft omits that death/succession beat."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md",
+      "boundary_review_file": "qa/cycle2/boundary/declaration-of-war-0450-0453.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 452,
@@ -29685,7 +29909,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-450.xhtml",
       "english_mtl_blob_sha": "f56d9bc97fe2de557b673e643818b1fb622575a0",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 450,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 452 aligns to recovered English E450 after the target-168 witness gap; Chinese remains semantic authority. Physical Chinese heading uses the equivalent 'war oath' wording; content confirms the same Declaration of War family."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0452.md",
         "draft_blob_sha": "dc8bddeeea87baf38022bf91650c2317d18fa094",
@@ -29708,9 +29936,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -29718,7 +29947,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct source revalidation plus the documented recovered-witness exception found no material completeness defect."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md",
+      "boundary_review_file": "qa/cycle2/boundary/declaration-of-war-0450-0453.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 453,
@@ -29737,7 +29968,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-451.xhtml",
       "english_mtl_blob_sha": "3b5c92fbbbcf463bbd18434f28ebda86e54bfb3b",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 451,
+        "notes": "Verified by title/content during Cycle 2 Phase 3: target 453 aligns to recovered English E451 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0453.md",
         "draft_blob_sha": "ca2748b89c0cf4690e94d144394fe6fc2a897c18",
@@ -29760,9 +29995,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source explicitly describes a burnt-corpse stench spreading after Vikir ignites the Poison Human bodies; the draft omits the smell."
+        "Cycle 2 Phase 1 FAIL: the source explicitly describes a burnt-corpse stench spreading after Vikir ignites the Poison Human bodies; the draft omits the smell.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -29770,7 +30006,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source-explicit burnt/foul corpse odor spreading after Vikir ignites the Poison Human bodies is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md"
+      "completeness_review_file": "qa/cycle2/completeness/declaration-of-war-0450-0453.md",
+      "boundary_review_file": "qa/cycle2/boundary/declaration-of-war-0450-0453.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 454,
@@ -37100,23 +37338,23 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 421,
+    "boundary_alignment_reviewed_count": 453,
     "boundary_alignment_pass_count": 53,
     "boundary_alignment_fail_count": 2,
-    "boundary_alignment_exception_documented_count": 366,
-    "families_reviewed_count": 101,
+    "boundary_alignment_exception_documented_count": 398,
+    "families_reviewed_count": 108,
     "families_pass_count": 14,
     "families_fail_count": 2,
-    "families_exception_documented_count": 85,
+    "families_exception_documented_count": 92,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 352,
+    "new_source_exception_rows": 384,
     "next_family": {
-      "name": "How to Become a Wandering Knight",
-      "start": 422,
-      "end": 424
+      "name": "Infiltration of the Water Source",
+      "start": 454,
+      "end": 464
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0421.md",
-    "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 352 Phase-3 additions = 388 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered."
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0453.md",
+    "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 384 Phase-3 additions = 420 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered."
   }
 }
