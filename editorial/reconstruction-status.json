@@ -1418,7 +1418,7 @@
     "historical_accepted_count_at_opening": 500,
     "sanitization_revalidated_count": 500,
     "completeness_revalidated_count": 500,
-    "boundary_alignment_revalidated_count": 453,
+    "boundary_alignment_revalidated_count": 500,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -1561,12 +1561,12 @@
         "evidence": "qa/cycle2/sanitization/ghosts-ancestors-0090-0094.md"
       }
     ],
-    "current_phase": "phase_3_boundary_alignment_exception_integrity_pass",
+    "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "Infiltration of the Water Source",
+      "name": "Camus Morgue",
       "range": [
-        454,
-        464
+        20,
+        25
       ]
     },
     "epub_assembly_blocked": true,
@@ -1621,8 +1621,8 @@
       "family_pending": 0,
       "evidence": "qa/cycle2-phase2-checkpoint-0500.md"
     },
-    "phase3_status": "active",
-    "phase3_reviewed_count": 453,
+    "phase3_status": "complete",
+    "phase3_reviewed_count": 500,
     "phase3_start_family": {
       "name": "Hellhound",
       "range": [
@@ -1636,40 +1636,44 @@
     "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary.",
     "phase3_pass_count": 53,
     "phase3_fail_count": 2,
-    "phase3_exception_documented_count": 398,
-    "phase3_families_reviewed_count": 108,
+    "phase3_exception_documented_count": 445,
+    "phase3_families_reviewed_count": 118,
     "phase3_families_pass_count": 14,
     "phase3_families_fail_count": 2,
-    "phase3_new_source_exception_rows": 384,
+    "phase3_new_source_exception_rows": 429,
     "phase3_manuscript_edits": 0,
-    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0453.md",
+    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0500.md",
     "phase3_last_completed_family": {
-      "name": "Declaration of War",
+      "name": "Side Story",
       "range": [
-        450,
-        453
+        496,
+        500
       ],
       "result": "exception-documented",
-      "evidence": "qa/cycle2/boundary/declaration-of-war-0450-0453.md"
+      "evidence": "qa/cycle2/boundary/side-stories-0496-0500.md"
     },
-    "phase3_next_family": {
-      "name": "Infiltration of the Water Source",
-      "range": [
-        454,
-        464
-      ]
-    },
+    "phase3_next_family": null,
     "phase3_open_structural_failures": [
       273,
       283
     ],
     "phase3_exception_table_normalization": {
       "baseline_rows": 36,
-      "current_rows": 420,
-      "genuine_phase3_additions": 384,
+      "current_rows": 465,
+      "genuine_phase3_additions": 429,
       "redundant_rows_removed": 75,
       "baseline_rows_altered": 0
     },
-    "phase3_families_exception_documented_count": 92
+    "phase3_families_exception_documented_count": 102,
+    "phase4_status": "ready_not_started",
+    "phase4_next_family": {
+      "name": "Camus Morgue",
+      "range": [
+        20,
+        25
+      ]
+    },
+    "phase4_earliest_remediation_chapter": 22,
+    "phase4_manuscript_edits": 0
   }
 }
