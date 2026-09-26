@@ -64,11 +64,13 @@ Sir Smuggler drew his sword halfway.
 
 Everyone remembered the soot-blackened boy who had ruined the market.
 
-Several men made racist threats and promised to kill him.
+“That black kid? Fine. Remember him.”
+
+“I'll be the first to put a knife into that arrogant black brat.”
 
 One mercenary hesitated.
 
-“Was he really Ballak? His palms were black too. Maybe it was soot.”
+“Was he really black? His palms were black too. Usually a black man's palms are lighter.”
 
 “He spoke Imperial perfectly.”
 
@@ -130,7 +132,7 @@ Mouth.
 
 Throat.
 
-The smokers dropped.
+The impacts tore heads from bodies, dropping the smokers where they stood.
 
 Sir Smuggler threw his cigarette away.
 
@@ -138,7 +140,7 @@ An arrow struck it the instant it hit the ground.
 
 “Throw away the lights—”
 
-Another speaker took an arrow through the mouth.
+The mercenary captain took an arrow through the mouth. Nearly his entire head disappeared, leaving only his throat and chin as he collapsed into the puddle.
 
 Then the night filled with arrows.
 
