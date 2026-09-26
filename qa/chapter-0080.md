@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/080.txt` — `207f6ca71403141a65fa7b56706adab81cc1d37d`
 - Recovered English witness: **E79** `source/chapters/chapter-079.xhtml` — `f5a35581349ff821b8085433f3f5e7221b3ee5ff`
-- Draft: `manuscript/drafts/chapter-0080.md` — `8587821735a14b453f53a71be1dbbf52823c92c7`
+- Draft: `manuscript/drafts/chapter-0080.md` — `fc4716b18295763912140ab4b84f9a7bd6013479`
 
 ## Alignment
 
@@ -22,10 +22,21 @@ Target 80 → E79 is verified by: rising patient count → 42 registered wells +
 - PASS — Dolores is exhausted enough to stagger and has source-level mild anemia.
 - PASS — the rich/noble followers bring real relief supplies but also express condescension toward slum residents; both facts remain.
 - PASS — ward filth (sweat, blood, vomit, urine, feces) remains explicit/source-faithful without embellishment.
-- PASS — Dolores's distrust concerns men who perform charity for her attention and abandon patients when the work becomes unpleasant.
+- PASS — Dolores's distrust concerns men who perform charity for her attention, openly recoil from patients, and sometimes **secretly send patients away**.
 - PASS — her appearance/attention context is kept nonsexual because she is sixteen.
 - PASS — deepest ward closes on Vikir directing priests, requesting saline/scalpel, and treating patients amid the worst conditions.
 
 ## Corruption check
 
 Recovered-English awkward inheritance/class language and pronoun drift do not control.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the ordinary source fact that some performative volunteer suitors would **secretly send patients away**. The separately documented underage desire-oriented gaze remains safety-limited and is not restored.
+
+The complete Saintess family was reread after remediation. Shifted witness mapping remains **78→E77, 79→E78, 80→E79, 81→E80, 82→E81**; target 83/E82 cleanly begins *Lovesickness (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Saintess family QA.
