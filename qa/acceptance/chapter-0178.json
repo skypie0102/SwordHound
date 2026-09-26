@@ -2,8 +2,8 @@
   "chapter": 178,
   "title": "The 99 Hits With 100 Shots (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The 99 Hits With 100 Shots",
     "range": [
@@ -11,8 +11,8 @@
       178
     ],
     "family_qa_path": "qa/families/99-hits-0176-0178.md",
-    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
-    "status": "pass"
+    "family_qa_sha": "2f3dcc24df17982648fe316ee4cbe2438b6755a9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/178.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-176.xhtml",
     "english_reference_sha": "09b1546722b5c84db469af0e4aa58d4d62c9f03a",
     "draft_path": "manuscript/drafts/chapter-0178.md",
-    "draft_sha": "09b01b431636ee64e515ba57f18e25d2dceee510",
+    "draft_sha": "99154d1e8f7d407b2c446587b6a3bac576e051bb",
     "qa_path": "qa/chapter-0178.md",
-    "qa_sha": "709fb02b2ddeeb7c8272fc3f765011743979011c",
+    "qa_sha": "cd8d46737f84d19d3aa718718ee9c5350529dd60",
     "provenance_path": "editorial/provenance/chapter-0178.json",
-    "provenance_sha": "35327c230fa450101f9dc49ad6d609b019a98089"
+    "provenance_sha": "5169a4d26983811978570b8ae854b9e815fc3b25"
   },
   "canonical_checks": [
     "Granola de Leviathan",
@@ -39,7 +39,15 @@
   "documented_limits": [
     "Tudor/Bianca future romance is prior-life knowledge only.",
     "Observers still underestimate Vikir through the low-mana cover.",
-    "Baby Madam's next feeding is only planned for the midterm practical."
+    "Baby Madam's next feeding is only planned for the midterm practical.",
+    "Physical-resilience explanation explicitly includes three high-level monster souls trapped in Beelzebub and demon-killing experience strengthening Vikir's soul."
   ],
-  "next_family_alignment_note": "Target179→E177 begins Midterm Random Defense (1); determine the complete family boundary before acceptance."
+  "next_family_alignment_note": "Target179→E177 begins Midterm Random Defense (1); determine the complete family boundary before acceptance.",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored three trapped high-level monster souls and demon-killing-experience strengthening the soul"
+  }
 }
