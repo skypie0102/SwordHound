@@ -2,8 +2,8 @@
   "chapter": 165,
   "title": "Sin and Punishment (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Sin and Punishment",
     "range": [
@@ -11,18 +11,18 @@
       169
     ],
     "family_qa_path": "qa/families/sin-punishment-0162-0169.md",
-    "family_qa_sha": "257738c85f7bbfcd020660ae16039ae173acbd3e",
-    "status": "pass"
+    "family_qa_sha": "7d3de1fac432b46b7b3187df56d3ce19a8de336d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/165.txt",
     "primary_source_sha": "273b653625d710a42fb936579b557299162526e3",
     "draft_path": "manuscript/drafts/chapter-0165.md",
-    "draft_sha": "c19ed8dcafe3734723ed01edc078c6e59d5583f3",
+    "draft_sha": "9902b67cf24b03e0336923b1de7e90c5a930ad2e",
     "qa_path": "qa/chapter-0165.md",
-    "qa_sha": "e0b7e02c664b4bdcb79b7e14661ef84cfb5d15c7",
+    "qa_sha": "62d6340d2586c3b512aaf77e145cc7a3506336cd",
     "provenance_path": "editorial/provenance/chapter-0165.json",
-    "provenance_sha": "d5ac1d33415f47a32d76b4344d0194f8cf7af93a",
+    "provenance_sha": "f3df8a2847f17ce9537b24d3fa2691f83ff81fd5",
     "english_reference_path": "source/chapters/chapter-164.xhtml",
     "english_reference_sha": "2cec77c4a60f7c7d1effa3c0e018976f4d0db382"
   },
@@ -37,5 +37,12 @@
     "Execution placard remains unreadable.",
     "Present-Hugo beard detail remains deliberately noncommittal due extraction ambiguity."
   ],
-  "witness_gap": null
+  "witness_gap": null,
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored collaborator executions and Hugo beard/Pomeranian detail"
+  }
 }
