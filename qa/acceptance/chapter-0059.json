@@ -2,8 +2,8 @@
   "chapter": 59,
   "title": "The Hunter and the Hunted (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_e58_completeness_reaudit",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_e58_completeness_reaudit_cycle2_phase4",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -11,7 +11,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0059.md",
     "draft_sha": "98216e73da8172c31c2a0634e4e66ca97dae7d04",
     "qa_path": "qa/chapter-0059.md",
-    "qa_sha": "66ef0ad38b0a7be40e11bdcbff1289aa064f9016",
+    "qa_sha": "9007362bec0ee84d642f169ba067c11942f53662",
     "provenance_path": "editorial/provenance/chapter-0059.json",
-    "provenance_sha": "650b1b38af9b2fea9e3c360b39dcc50d6e16a7f4"
+    "provenance_sha": "1d839687bbbedf250c3f565485a64cec68ce41c1"
   },
   "canonical_checks": [
     "Aiyen",
@@ -38,5 +38,12 @@
     "Target 59 maps to E58 by content.",
     "Post-500 residual audit rebuilt ordinary tracking/camp narration for full source coverage.",
     "Underage sexualized body-contact detail remains safety-limited and summarized nonsexually."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed prior completeness rebuild remains intact"
+  }
 }
