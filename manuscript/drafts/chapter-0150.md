@@ -148,7 +148,7 @@ Pigi.
 
 Even Bianca.
 
-All of them were teary-eyed—
+All of them were crying hard enough to have tears and runny noses—
 
 and all of them were emptying their money into the box.
 
