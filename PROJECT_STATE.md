@@ -19,11 +19,11 @@
 
 ## Current priority
 
-The immediate project focus is a fresh, exhaustive **sanitization + completeness full pass across Chapters 1–500**.
+The immediate project focus is **Cycle 2 Phase 3: full-corpus boundary/alignment/exception integrity verification**.
 
-The 2026-09-20 post-500 completeness audit remains a closed historical cycle. It found and repaired major compression failures, including Chapters 59, 97, 316, 319, and 420, and ended with 500 accepted / 0 known rework.
+Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The current structural pass starts from the corpus beginning and rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
 
-Cycle 2 is stricter in scope: every target chapter must now be freshly reviewed rather than only anomaly-prioritized or residual low-tail families.
+The 2026-09-20 post-500 completeness audit remains a closed historical cycle. It found and repaired major compression failures, including Chapters 59, 97, 316, 319, and 420, and ended with 500 accepted / 0 known rework. Cycle 2 remains a stricter release-blocking revalidation cycle; historical acceptance is evidence, not automatic clearance.
 
 ## Phase 0 result
 
