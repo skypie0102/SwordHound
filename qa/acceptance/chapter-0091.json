@@ -2,8 +2,8 @@
   "chapter": 91,
   "title": "The Ghosts of the Ancestors (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Ghosts of the Ancestors",
     "range": [
@@ -11,8 +11,8 @@
       94
     ],
     "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
-    "family_qa_sha": "707b090616f74e8eaf90a959cdde17d9683329e3",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "af352a71814db16c4072dc5afdee4fd51600f0ff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/091.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0091.md",
     "qa_sha": "9bc740be38d2b59e1a098c1b31699a5b710539fa",
     "provenance_path": "editorial/provenance/chapter-0091.json",
-    "provenance_sha": "5b659c6a5970aff65a4ca2dc3a75d18cf7b7137b"
+    "provenance_sha": "5c103140af55df4b2ac3398570a6742309cfd159"
   },
   "canonical_checks": [
     "Death Knight",
@@ -49,5 +49,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/ghosts-ancestors-0090-0094.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; rebound to refreshed family QA"
   }
 }
