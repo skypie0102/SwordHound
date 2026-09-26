@@ -9,8 +9,8 @@
       178
     ],
     "family_qa_path": "qa/families/99-hits-0176-0178.md",
-    "family_qa_sha": "17d40518db9be33d4468187ec57fd1003a38f4b3",
-    "status": "pass"
+    "family_qa_sha": "2f3dcc24df17982648fe316ee4cbe2438b6755a9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/177.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0177.md",
-    "blob_sha": "2b8149986b97dcf7d01b92d65f32e3a002492506"
+    "blob_sha": "02ad782dd2b930947b9e34ec5ae5b32a63aeaa7b"
   },
   "qa": {
     "path": "qa/chapter-0177.md",
-    "blob_sha": "04de6c9c67d3965fb2c0c8bb4c6e93bb515b58d2",
-    "status": "pass"
+    "blob_sha": "bb7d48ec5f07fbe955c171d69aa4a5be3fc5e88f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/179.txt",
     "chinese_sha": "9f7be636af294cb77ac8f7d884285372d3624e3f",
     "english_path": "source/chapters/chapter-177.xhtml",
     "english_sha": "02950ded3400286a3ab687a8aca2cb78acf74d03",
     "purpose": "both begin Midterm Random Defense (1), target179"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      176,
+      178
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-present back/rump petting in comic dog-form scene without erotic expansion"
   }
 }
