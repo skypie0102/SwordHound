@@ -2,8 +2,8 @@
   "chapter": 46,
   "title": "The Husband Hunt (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "The Husband Hunt",
     "range": [
@@ -11,7 +11,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0046.md",
     "draft_sha": "890f9bc15c6f33da72c3bfb68c0ed17162ac4f97",
     "qa_path": "qa/chapter-0046.md",
-    "qa_sha": "c08b3b3b085c52633f9bc6da22d77fceb90d132b",
+    "qa_sha": "73b1cf568e9b10a22a58c06814f534c6a3793bf9",
     "provenance_path": "editorial/provenance/chapter-0046.json",
-    "provenance_sha": "94f4f89f288f84521ae51562addbf15d023eb300"
+    "provenance_sha": "b9d931ae1b531e0367da15f0cb9dbaee57816d80"
   },
   "canonical_checks": [
     "Camus Morgue",
@@ -39,5 +39,12 @@
     "Recovered-English camel/camouflage and gender corruption do not control semantics.",
     "Recent-bereavement brother wording is normalized to accepted Rosie Morgue continuity.",
     "No later Camus relationship outcome is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no manuscript correction required"
+  }
 }
