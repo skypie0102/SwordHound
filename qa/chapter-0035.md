@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/035.txt` — `6923567bc4710210eaac4dc6b7252d56ea557b7e`
 - Aligned English witness: `source/chapters/chapter-035.xhtml` — `4817a300dea855bc448be223b70c84d69e1ff43f`
-- Final draft: `manuscript/drafts/chapter-0035.md` — `4334e13c2cb25b322af22f13cd90698d44b68026`
+- Final draft: `manuscript/drafts/chapter-0035.md` — `d1097673dedb3f9e694a55bdcf3c4fc20f23f538`
 - Boundary witness: Chinese Ch. 36 continues directly with the shackled boy on the auction stage and identifies him as Vikir.
 
 ## Checks
@@ -42,3 +42,11 @@
 - `animal feces` / decades-unwashed exaggeration where Chinese establishes animal smell plus many days without washing.
 - numerical bid corruption (`250 thousand`, `seven thousand`) where Chinese uses hundreds of millions / +70 million.
 - narration leaks and awkward commodity phrasing that obscure the illegal trafficking context.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Phase 1 found two unsupported intensifications in audience-reaction wording. The draft now removes the added “greedily” characterization from the butterfly-masked noblewoman and replaces “open fascination” at the final-lot reveal with the source-faithful gradual softening/relaxing of the spectators' expressions. Phase 2 completeness had already passed; the full family was reread before rebinding.
+
+## Decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 35–37 family QA.
