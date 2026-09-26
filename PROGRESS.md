@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Suspicion complete
+
+Phase 4 remediation/evidence rebinding is authoritative through **Suspicion (234–235)**.
+
+- remediation chapters complete: **111 / 273**;
+- remediation chapters remaining: **162**;
+- affected families complete: **38**;
+- manuscript edits: **111**;
+- Chapters **234–235** repaired and rebound;
+- next affected family: **National University League (236–244)**, earliest remaining target **236**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — That Day, Him and Me complete
 
 Phase 4 remediation/evidence rebinding is authoritative through **That Day, Him and Me (220–224)**.
