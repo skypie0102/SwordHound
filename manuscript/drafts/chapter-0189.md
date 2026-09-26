@@ -352,7 +352,9 @@ hands trembling.
 >
 > Yesterday morning, students from **Varangian** visiting the Imperial Capital on an educational trip were attacked by a figure identified as the Night Hound…
 >
-> Numerous students suffered minor and serious injuries…
+> **Minor injuries:** XX people.  
+> **Serious injuries:** XX people.  
+> The casualties included the **head of the Varangian training center**…
 >
 > The attacker did not initially appear to be targeting the students. The conflict began when Varangian students noticed a suspicious individual and confronted them…
 >
@@ -362,21 +364,25 @@ hands trembling.
 
 Comments multiplied beneath it.
 
-Fear.
-
-Anger.
-
-Admiration.
-
-People arguing over whether the Night Hound was—
-
-monster.
-
-hero.
-
-terrorist.
-
-symbol.
+> **Cold Department — First Year:** Damn… Varangian students got attacked.
+>
+> **Hot Department — Second Year:** It felt like someone else's problem inside the Academy. People our age getting hit makes it feel different.
+>
+> **Hot Department — First Year:** I'm so scared lately I can't go out at night.
+>
+> **Hot Department — First Year:** Catch that criminal alreadyㅠㅠㅠㅠ
+>
+> **Hot Department — Second Year:** Fuck, that's intense. The Night Hound is a villain, but he's still cool…
+>
+> **Cold Department — First Year:** This guy is crazy.
+>
+> **Cold Department — First Year:** Is he some kind of pervert???
+>
+> **Cold Department — First Year:** There are seriously a lot of Night Hound fans at the Academy.
+>
+> **Hot Department — Third Year:** I'm a Night Hound fan! I support him! Ring the alarm bell for this rotten society, fuck!
+>
+> **Hot Department — Second Year:** Imperial Guard! There's one right here!!!
 
 Dolores's face tightened.
 
@@ -444,7 +450,7 @@ Vikir folded the paper.
 
 *If possible—*
 
-*eliminate the imitators.*
+*catch and kill the imitators.*
 
 False Night Hounds.
 
@@ -454,7 +460,7 @@ tomorrow's Attack test.
 
 Then—
 
-hunt the copycat.
+catch the copycat and kill them.
 
 A job.
 
