@@ -304,6 +304,12 @@ The shelter had already become crowded with Pomeranian.
 
 Aiyen made it worse.
 
+“Don't be too hard on her. At least she can use the toilet by herself now.”
+
+Vikir said nothing.
+
+Aiyen spread her legs again and swished her leather skirt. Vikir could only sigh.
+
 Then the entrance curtain flew open.
 
 Wind and rain burst inside.
