@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/070.txt` — `f06195bc01febbb1caa2989c2719cd04bd674703`
 - Recovered English witness: **E69** `source/chapters/chapter-069.xhtml` — `ddb0367d9f30d1155c665f654bff0037527d6f25`
-- Draft: `manuscript/drafts/chapter-0070.md` — `23ac1fdea81e8a555c3a21f16b4015c9a6871ddb`
+- Draft: `manuscript/drafts/chapter-0070.md` — `981bada0b1ac72388ef6e1daed939c6d03966f09`
 
 ## Alignment
 
@@ -30,3 +30,14 @@ Target 70 → E69 is verified by the complete sequence: dead Rokoko hunters show
 ## Spoiler guard
 
 Pomeranian's later magic, later residence, and later family outcomes are excluded. Penelope/Roxana names are not inserted before target 71's family deduction.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the Red Death mechanics omitted/weakened in the prior draft: infection drives metabolism to an extreme crawl, prolonging death, and the source-recollected contagion is strong enough that eye contact with a sick person can transmit it. No additional ordinary defect was found.
+
+Sanitization fidelity and completeness were rerun across the complete Blood Relatives (68–71) family after remediation. The established shifted witness mapping remains 68→E67, 69→E68, 70→E69, 71→E70, and target 72/E71 begins *The Red Death (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Blood Relatives family QA.
