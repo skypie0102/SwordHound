@@ -1,5 +1,134 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 COMPLETE at 500/500
+
+The corpus-wide boundary/alignment/exception integrity pass is complete.
+
+- targets reviewed: **500 / 500**;
+- title families reviewed: **118 / 118**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **445**;
+- family PASS / FAIL / EXCEPTION-DOCUMENTED: **14 / 2 / 102**;
+- genuine Phase-3 exception additions: **429**;
+- final normalized exception table: **465 rows** = 36 baseline + 429 Phase-3 additions;
+- interrupted/replayed duplicate rows removed: **75**;
+- Phase-3 manuscript edits: **0**;
+- closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`.
+
+The endgame pass verified the intentional Tochka title interruption/resumption at 475→476→478, the main-ending transition into *The Day After the Apocalypse*, and the shared `495.txt` split where target495 ends after both credit-cookie sequences and target496 begins at the Dark Hall 666th-floor Side Story 1 scene. E493 explicitly embeds Side Story Chapters 1–5.
+
+**Phase 4 is ready but not started.** The frozen remediation population remains **273 unique chapters**; begin with **Camus Morgue (20–25)**, earliest failing target **22**.
+
+## 2026-09-26 — Cycle 2 Phase 3 reconciled and advanced through Chapter 453
+
+The live Phase-3 branch already contained boundary evidence and a checkpoint through Chapter 449, while ledger/tracker/handoff bookkeeping had stopped earlier. The interrupted state was reconciled, then **Declaration of War (450–453)** was structurally reviewed.
+
+- boundary/alignment reviewed: **453 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **398**;
+- title families reviewed: **108 / 118**;
+- family EXCEPTION-DOCUMENTED: **92**;
+- genuine new source-exception rows: **384**;
+- normalized exception table: **420 rows** = 36 baseline + 384 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0453.md`;
+- next family: **Infiltration of the Water Source (454–464)**.
+
+The 449→450 and 453→454 seams are clean. Declaration of War remains one four-part family despite local Chinese heading variation between equivalent declaration/oath wording.
+
+## 2026-09-26 — Cycle 2 Phase 3 Wave D closed through Chapter 402
+
+Phase-3 structural review continued through **The Rotten Dog of Nouvelle Vague**, **The Worst Torture**, **Dead Man Walking**, and **Black Tongue**, closing the current 301–402 wave.
+
+- boundary/alignment reviewed: **402 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **347**;
+- title families reviewed: **98 / 118**;
+- family EXCEPTION-DOCUMENTED: **82**;
+- genuine new source-exception rows: **333**;
+- current normalized exception table: **369 rows** = 36 baseline + 333 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0402.md`;
+- next family: **Jailbreaker (403–408)**.
+
+The shared `385.txt` container was revalidated at its explicit Chapter-386 marker and the pre-existing target-385 closing-gap exception remains correctly scoped. Direct checks of the 395→396, 398→399, and 402→403 transitions found no additional displacement or duplication.
+
+## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 384
+
+Phase-3 structural review continued from the Chapter-368 checkpoint through six contiguous Nouvelle Vague families: **The Servant**, **Solitary Confinement**, **Sucker Shark**, **Poseidon**, **The Hounds of Nouvelle Vague**, and **Kennel**.
+
+- boundary/alignment reviewed: **384 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **329**;
+- title families reviewed: **94 / 118**;
+- family EXCEPTION-DOCUMENTED: **78**;
+- genuine new source-exception rows: **317**;
+- current normalized exception table: **353 rows** = 36 baseline + 317 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0384.md`;
+- next family: **The Rotten Dog of Nouvelle Vague (385–389)**.
+
+Chinese title-layer wording varies in several files in this span, but direct title/content alignment confirms continuous target families and the established N−2 recovered-English witness mapping. No new structural failure was found.
+
+## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 368
+
+The live Phase-3 branch was reconciled against the stale merged-main checkpoint. The authoritative frontier was already Chapter 362; structural review then continued through **Ghost Castle of the Ultra-Deep Sea (363–365)** and **The Underground Extension Construction (366–368)**.
+
+- boundary/alignment reviewed: **368 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **313**;
+- title families reviewed: **88 / 118**;
+- family EXCEPTION-DOCUMENTED: **72**;
+- genuine new source-exception rows: **301**;
+- current normalized exception table: **337 rows** = 36 baseline + 301 genuine Phase-3 additions;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0368.md`;
+- next family: **The Servant (369–370)**.
+
+Targets **363–368** retain the established N−2 recovered-English witness mapping after the target-168 witness gap. Their family boundaries are clean, so all six are **EXCEPTION-DOCUMENTED**, not new structural failures. The Phase-4 remediation population remains frozen at **273 unique chapters**.
+
+## 2026-09-26 — Cycle 2 Phase 3 advanced through Chapter 306
+
+Repository/ledger reconciliation found the chat and several live docs stale. The authoritative Phase-3 ledger was already at Chapter 292; review then continued through Chapter 306.
+
+- boundary/alignment reviewed: **306 / 500**;
+- PASS: **53**;
+- FAIL: **3** — Chapters **236, 273, 283**;
+- EXCEPTION-DOCUMENTED: **250**;
+- title families reviewed: **73 / 118**;
+- new source-exception rows: **243**;
+- manuscript edits during Phase 3: **0**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0306.md`;
+- next family: **Hell Tree (307–313)**.
+
+The three structural FAILs are duplicated/displaced-content defects and remain deferred to Phase 4. The recovered-English witness remains two chapters behind after the target-168 witness gap. Historical `Last Semester` QA was also corrected to identify target 299 as *The Age of the Warmonger (1)*.
+
+
+## 2026-09-26 — Cycle 2 Phase 3 cleared Chapters 1–25
+
+Phase-3 structural revalidation is underway on `audit/cycle2-phase3-boundary`.
+
+- boundary/alignment reviewed: **25 / 500**;
+- PASS: **25**;
+- FAIL: **0**;
+- EXCEPTION-DOCUMENTED: **0**;
+- title families reviewed: **7 / 118**;
+- new source-exception rows: **0**;
+- manuscript edits during Phase 3: **0**;
+- Phase-4 remediation population remains frozen at **273 unique chapters**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0025.md`.
+
+Cleared families: **Hellhound (1–3)**, **The Baskerville Dog (4–7)**, **Hounds of Hell (8–11)**, **The Gluttonous Flies (12–13)**, **Solitary (14–17)**, **Bared Teeth (18–19)**, and **Camus Morgue (20–25)**.
+
+Structural notes: Chapter 1→2's Cradle/Styx replay and the Chapter 10→11 Cerberus re-identification are source-authentic repetitions; Chapter 12→13's Beelzebub inscription overlap is source-authentic; recovered English Chapter 16 alone duplicates its fire paragraph, while Chinese and the accepted manuscript contain it once and prior QA/provenance already record the witness defect; Chapter 25→26 is a clean seven-year-timeskip family break.
+
+**Next:** continue with **The Graduate (26–27)**. Keep all manuscript remediation deferred to Phase 4 and EPUB assembly blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 3 handoff integrated to main
 
 Phase 1 and Phase 2 discovery are fully closed, the live documentation is synchronized, and the Phase-3 handoff has been integrated to `main` via PR #147 (merge commit `3c36802516de03e0d2180392ac0e8e4747261ce5`).

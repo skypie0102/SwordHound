@@ -3,7 +3,7 @@
 **Family status:** PASS  
 **Target range:** Chapters 296–298  
 **Mapping:** 296→E294, 297→E295, 298→E296  
-**Following family:** target299→E297 begins *The Prison of Nouvelle Vague (1)*.
+**Following family:** target299→E297 begins *The Age of the Warmonger (1)*.
 
 ## Family decisions
 

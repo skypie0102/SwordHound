@@ -1,7 +1,7 @@
 # Editorial Handoff
 
 **Checkpoint:** 2026-09-26
-**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **ACTIVE / IMMEDIATE PRIORITY**  
+**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 3 COMPLETE / PHASE 4 READY**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 sanitization reviewed:** 500 / 500 — Phase 1 COMPLETE
@@ -9,9 +9,9 @@
 **Cycle-2 sanitization FAIL:** 200 / 500 — queued for Phase 4
 **Cycle-2 sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
-**Cycle-2 boundary/alignment revalidated:** 0 / 500  
+**Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification; begin at the corpus start
+**Current audit stage:** Phase 3 COMPLETE — Phase 4 remediation/evidence rebinding is ready but not started
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -134,13 +134,36 @@ Evidence:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`, family evidence under `qa/cycle2/completeness/`, and `qa/cycle2-ledger.json`.
 
+## Phase 3 progress
+
+**Phase 3 is COMPLETE across Chapters 1–500 and all 118 title families.**
+
+- boundary/alignment reviewed: **500 / 500**;
+- PASS: **53**;
+- FAIL: **2** — Chapters **273, 283**;
+- EXCEPTION-DOCUMENTED: **445**;
+- families reviewed: **118 / 118**;
+- family PASS: **14**;
+- family FAIL: **2**;
+- family EXCEPTION-DOCUMENTED: **102**;
+- genuine new source-exception rows added during Phase 3: **429**;
+- final normalized exception table: **465 rows** = 36 baseline + 429 genuine Phase-3 additions;
+- redundant interrupted/replayed rows removed earlier: **75**;
+- baseline rows altered/lost: **0**;
+- manuscript edits during Phase 3: **0**;
+- closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`.
+
+The end-of-corpus structural pass revalidated the intentional 475→476→478 title interruption/resumption and the shared `495.txt` target495/496 split, with E493 embedding Side Story Chapters 1–5 after the main ending.
+
+The **273-chapter** Phase-4 remediation population remains unchanged. No Phase-4 manuscript repair has begun yet.
+
 ## Exact next actions
 
-1. Continue **Phase 3** on `audit/cycle2-phase3-boundary` with corpus boundary/alignment/exception integrity verification from the start of the corpus.
-2. Recheck all **118 title-family boundaries**, chapter opening/closing transitions, shared/combined Chinese raw containers, shifted English witness mappings, localized source gaps, and Side Story splits/order.
-3. Reconcile every documented exception against `source/chinese/chapter-exceptions.tsv`; add any newly confirmed structural exception only with evidence.
-4. Pay particular attention to duplicated/displaced material already surfaced in Phase 2 (for example Chapters 78, 190, and 236) without editing manuscripts yet.
-5. Keep the **273-chapter** remediation queue frozen until Phase 3 closes; then begin Phase 4 from the earliest affected family.
-6. Keep EPUB assembly blocked.
+1. Begin **Phase 4 — remediation and evidence rebinding** from the earliest affected title family: **Camus Morgue (20–25)**; earliest failing target is **22**.
+2. Review the complete family before editing, then repair all Cycle-2 sanitization/completeness failures in that family from Chinese-primary source.
+3. After each edited chapter/family, refresh chapter QA, provenance, acceptance, family QA where applicable, tracker acceptance SHA, and all dependent hash bindings.
+4. Preserve the two structural Phase-3 FAIL findings at Chapters **273 and 283** as required Phase-4 repair work.
+5. Continue family-by-family through the frozen **273-chapter** remediation population.
+6. Keep EPUB assembly blocked until Phase 4, Phase 5 residual verification, and Phase 6 closure all complete.
 
-The next agent should resume with **Phase 3**, not repeat Phase 1/2 and not begin manuscript repairs yet.
+The next agent should resume with **Phase 4**, not repeat Phases 1–3.

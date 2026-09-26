@@ -6,7 +6,7 @@ Recovered source, reference, reconstruction, QA, and EPUB-preparation material f
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 3 ACTIVE**.
+Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 3 COMPLETE / Phase 4 READY**.
 
 - Target manuscript files present: **500 / 500**
 - Historical accepted state entering Cycle 2: **500 / 500**
@@ -15,8 +15,8 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Phase-1/Phase-2 overlap: **198** completeness failures overlap Phase-1 FAILs
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
-- Cycle-2 boundary/alignment revalidated: **0 / 500**
-- Current stage: **Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity pass, beginning at the corpus start**
+- Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
+- Current stage: **Phase 3 COMPLETE — Phase 4 remediation is ready; next family Camus Morgue (20–25)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -28,7 +28,9 @@ Phase 0 froze the opening baseline at `8177e1c192cd7fcd55b04009fbe826bbd50f586b`
 
 Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. Phase 2 is also complete across Chapters 1–500 at **229 PASS / 271 FAIL**; **198** completeness failures overlap Phase-1 FAILs and **73** are completeness-only additions, producing **273 unique remediation chapters**.
 
-Phase 3 is now the immediate focus. It must structurally revalidate all title-family/chapter boundaries, combined/shared raws, the 54/55 overlap, localized source gaps, shifted/nontrivial English mappings, Side Story ordering, and any duplicated/displaced source blocks before Phase 4 remediation begins. No manuscript remediation is performed during Phase 3 discovery.
+Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
+
+Phase 4 is now ready but has not started. The combined remediation population remains **273 unique chapters**. Begin with the earliest affected family, **Camus Morgue (20–25)**, whose first failing target is Chapter **22**. Phase 3 has already completed the full title-family/chapter-boundary, combined/shared-raw, localized-gap, shifted-English-mapping, Side Story ordering, and duplicated/displaced-source-block revalidation across all 500 targets.
 
 ## Current source policy
 

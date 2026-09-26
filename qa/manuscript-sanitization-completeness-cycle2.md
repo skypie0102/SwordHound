@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity verification
+**Current stage:** Phase 3 COMPLETE — Phase 4 remediation/evidence rebinding READY
 
 ## Progress
 
@@ -45,159 +45,24 @@ Evidence: `qa/cycle2-phase1-summary.md`, the five wave summaries, family evidenc
 
 Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is under `qa/cycle2/completeness/` and the authoritative live ledger is `qa/cycle2-ledger.json`.
 
-### Phase 3 — ACTIVE
+### Phase 3 — COMPLETE
 
-Boundary/alignment review is now the immediate project focus. No target has yet been granted new Cycle-2 Phase-3 clearance at this closure checkpoint.
+Boundary/alignment review is complete. The immediate project focus is Phase 4 remediation and evidence rebinding.
 
-Start from the corpus beginning and verify every title-family boundary, shared/combined raw, overlap container, localized source gap, shifted/nontrivial English mapping, Side Story split, and duplicated/displaced source block before Phase-4 edits begin.
-
-### Phase 0 — COMPLETE
-
-Baseline frozen at main commit `8177e1c192cd7fcd55b04009fbe826bbd50f586b`.
-
-- 500 / 500 targets represented.
-- 118 contiguous title-family units enumerated.
-- 36 source-exception rows reconciled.
-- 500 draft, QA, provenance, and acceptance files verified.
-- 0 acceptance-SHA mismatches.
-- 31 deterministic diagnostic files cover Chapters 1–500 with 0 gaps / 0 overlaps.
-- 0 manuscript/evidence content edits occurred before baseline closure.
-
-Evidence: `qa/cycle2-phase0-baseline.md`, `qa/cycle2-family-index.md`, `qa/cycle2-ledger.json`, and `qa/cycle2-baseline/`.
-
-## Purpose
-
-The previous post-500 completeness audit successfully found and repaired major compression failures, but it was still driven partly by anomaly triage and targeted family review. This new cycle is deliberately broader.
-
-Cycle 2 has two independent goals:
-
-1. **Sanitization fidelity:** verify that the English manuscript has not softened, euphemized, generalized, omitted, or otherwise sanitized source material such as violence, gore, profanity, anatomical language, degradation, coercion, sexual material, bodily detail, horror, cruelty, death, and other harsh content where that material is present in the source.
-2. **Full completeness:** verify every target chapter against its complete Chinese source coverage, not merely low-ratio chapters or previously suspicious families, so that dialogue, narration, description, transitions, information windows, numeric/mechanical details, scene rhythm, and chapter boundaries are all retained.
-
-These are separate gates. A chapter can be complete in broad plot terms and still fail sanitization fidelity; it can preserve explicitness and still fail completeness.
-
-## Governing rules
-
-- The Chinese raw is semantic/narrative authority wherever Chinese exists.
-- The English Fandom wiki remains canonical authority for established English names and terminology, not for plot.
-- The recovered English XHTML is a secondary witness/alignment aid only, except for documented Chinese gaps.
-- **Every target chapter 1–500 must be reviewed.** No chapter is pre-cleared by historical acceptance, prior QA, byte ratio, or earlier audit status.
-- Review proceeds in contiguous title-family order. A title family is the minimum continuity/QA unit.
-- Byte/word/paragraph ratios, lexical overlap, punctuation counts, and other metrics are diagnostic signals only.
-- Sanitization review checks for both **softening** and **unwarranted intensification**.
-- Source gaps, combined raws, overlap containers, and shifted English mappings must use the documented exception workflow.
-- Safety-limited material that cannot be reproduced directly must be recorded explicitly as a safety-limited exception; surrounding ordinary narrative/plot coverage must still be verified in full. A safety limit must never be used to hide unrelated omissions.
-- If one chapter fails either primary gate, review the complete contiguous family before remediation is accepted.
-- Any changed chapter must receive refreshed chapter QA, provenance, acceptance evidence, and affected family-QA/hash bindings before it can clear the audit.
-- EPUB assembly and final layout work remain blocked until Phase 6 closure.
-
-## Audit evidence model
-
-Cycle 2 will maintain a fresh audit ledger rather than rewriting the historical post-500 audit record.
-
-For each target chapter, record at minimum:
-
-- target chapter and title family;
-- Chinese source container(s);
-- verified English witness mapping, if any;
-- sanitization status: **PENDING / PASS / FAIL / SAFETY-LIMITED-REVIEWED**;
-- completeness status: **PENDING / PASS / FAIL**;
-- boundary/alignment status: **PENDING / PASS / FAIL / EXCEPTION-DOCUMENTED**;
-- findings and exact source spans/scenes affected;
-- remediation required;
-- final QA/provenance/acceptance rebinding state.
-
-A family is not Cycle-2 complete until all member chapters have both primary gates resolved and the family boundary/continuity check passes.
-
-## Phase 0 — Baseline freeze and audit inventory
-
-**Goal:** establish an immutable starting point and a complete review map before editing manuscripts.
-
-Tasks:
-
-1. Snapshot the opening main-branch commit and the current draft/QA/provenance/acceptance blob bindings.
-2. Confirm all 500 target manuscript files and all available Chinese source containers.
-3. Reconcile source/chinese/chapter-exceptions.tsv against the live corpus:
-   - overlap containers;
-   - combined raws;
-   - localized Chinese gaps;
-   - shifted/nontrivial English mappings;
-   - Side Story containers.
-4. Enumerate every contiguous title family from Chapter 1 through 500.
-5. Create the Cycle-2 chapter/family ledger with all statuses initially pending.
-6. Record deterministic baseline diagnostics for later comparison:
-   - draft/raw size ratios where valid;
-   - paragraph/line counts;
-   - information-window counts;
-   - quote/dialogue density;
-   - high-risk explicitness term candidates;
-   - chapter opening/closing signatures.
-
-**Exit gate:** all 500 targets are represented in the audit ledger; all special source containers/exceptions are accounted for; no manuscript edits have occurred without a recorded baseline.
-
-## Phase 1 — Full-corpus sanitization fidelity sweep
-
-**Goal:** inspect every chapter for source softening, euphemism, omission, or inappropriate intensification.
-
-Review every title family in target order, Chapters 1–500.
-
-Check specifically for:
-
-- violence, gore, injury, torture, death, mutilation;
-- profanity, insults, threats, humiliating/degrading language;
-- anatomical and medical terms;
-- bodily fluids/functions and visceral detail;
-- coercion, captivity, abuse, fear, horror, cruelty;
-- sexual or suggestive source material where applicable;
-- intoxication/drug/poison descriptions;
-- morally harsh or socially uncomfortable narration/dialogue;
-- system/window language whose force was weakened;
-- culturally blunt wording that may have been over-localized into a softer statement;
-- any place the English adds stronger explicitness than the Chinese supports.
-
-For each suspicious passage, classify it as:
-
-- faithful;
-- softened/euphemized;
-- omitted/generalized;
-- intensified;
-- mistranslated;
-- safety-limited but surrounding coverage intact.
-
-Do not use the English MTL as permission to sanitize Chinese-primary content.
-
-**Exit gate:** every chapter has a recorded sanitization disposition; all failures are entered into the remediation queue with source evidence.
-
-## Phase 2 — True full-corpus completeness pass
-
-**Goal:** independently verify complete source coverage for all 500 chapters.
-
-This phase does **not** use thresholds to decide what gets read. Every chapter receives direct source-to-draft review.
-
-For each chapter verify:
-
-1. opening state and title boundary;
-2. every scene in source order;
-3. all dialogue exchanges and speaker turns;
-4. narrative exposition and descriptive beats;
-5. action choreography and causal transitions;
-6. internal thoughts/recollections;
-7. information windows, lists, ranks, numbers, mechanics, item/skill details;
-8. named entities and continuity-relevant descriptors;
-9. tonal/rhetorical beats that carry information;
-10. final scene and handoff into the next chapter.
-
-Explicitly reject:
-
-- summary-style condensation;
-- merged dialogue that loses distinct information;
-- dropped connective narration;
-- omitted repeated-but-meaningful beats;
-- missing numeric/mechanical details;
-- duplicated material from adjacent chapters;
-- invented connective material used to conceal source gaps.
-
-**Exit gate:** all 500 chapters have a completeness PASS or a documented FAIL requiring remediation.
+- reviewed: **500 / 500** targets;
+- PASS: **53**;
+- FAIL: **2**;
+- EXCEPTION-DOCUMENTED: **445**;
+- families reviewed: **118 / 118**;
+- family PASS: **14**;
+- family FAIL: **2**;
+- family EXCEPTION-DOCUMENTED: **102**;
+- genuine source-exception rows added during Phase 3: **429**;
+- manuscript edits during Phase 3: **0**;
+- open structural FAILs: **273, 283**;
+- closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`;
+- next family: **none — Phase 3 complete**;
+- exception-table normalization: **75 redundant replay rows removed; all 36 baseline rows preserved**.
 
 ## Phase 3 — Corpus boundary, alignment, and exception integrity pass
 
@@ -220,6 +85,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 **Exit gate:** every target chapter has a boundary/alignment PASS or a fully documented exception.
 
 ## Phase 4 — Remediation and evidence rebinding
+
+**Status:** READY — NOT STARTED  
+**Remediation population:** 273 unique chapters  
+**First family:** Camus Morgue (20–25)  
+**Earliest failing target:** Chapter 22
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -306,9 +176,9 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Begin Phase 3 from the start of the corpus and verify chapter/family boundary integrity in target order.
-2. Reconcile all shared/combined Chinese raws, the 54/55 overlap case, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the exception table.
-3. Investigate duplicated/displaced source blocks already identified by Phase 2 without editing manuscript text.
+1. Begin Phase 4 from **Camus Morgue (20–25)**, the earliest affected title family.
+2. Continue reconciling shared/combined Chinese raws, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the normalized exception table.
+3. Preserve open structural FAILs at Chapters **273 and 283** for Phase 4; investigate any newly discovered duplicated/displaced source blocks without editing manuscript text.
 4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
 5. Keep all **273** remediation chapters frozen until Phase 3 closes, then begin Phase 4 from the earliest affected family.
 6. Keep EPUB assembly blocked.
