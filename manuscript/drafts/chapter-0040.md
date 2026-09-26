@@ -137,7 +137,7 @@ The man who had infiltrated the residence had already reached the level of a **S
 
 He was only newly advanced, but the dense aura clinging to his weapon had unmistakably possessed the sticky, liquid quality of that rank.
 
-The attack had caught Vikir at close range, and the dagger had touched his chest.
+The attack had caught Vikir at close range, and the dagger had lightly stabbed him in the chest.
 
 Yet the protection granted by the River Styx and the Infernal Buffalo's Tough Life reinforced one another.
 
