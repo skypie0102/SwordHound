@@ -2,8 +2,8 @@
   "chapter": 213,
   "title": "Festival Night (8)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Festival Night",
     "range": [
@@ -11,8 +11,8 @@
       215
     ],
     "family_qa_path": "qa/families/festival-night-0206-0215.md",
-    "family_qa_sha": "f877d22b2f3b27aeb105b22aae2bf6a3f03d150c",
-    "status": "pass"
+    "family_qa_sha": "d9231075caf781e936b143162cac595cd022fa76",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/213.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-211.xhtml",
     "english_reference_sha": "36fd5ff3f97a0f92030bbb8a26300c8bdeddf913",
     "draft_path": "manuscript/drafts/chapter-0213.md",
-    "draft_sha": "94f3ecdd9e2f5863dd54e908eb52d44a8f537eed",
+    "draft_sha": "aa6145213811320e7261043b034abf002decc743",
     "qa_path": "qa/chapter-0213.md",
-    "qa_sha": "ea47165a41b82bb1eeb13fc0cd3e0345d692b83b",
+    "qa_sha": "00676b2bbb7885476eb3aa17ab693e5066a0e414",
     "provenance_path": "editorial/provenance/chapter-0213.json",
-    "provenance_sha": "2238a90860d6a2ec15de5c0f5e68871d82491a5c"
+    "provenance_sha": "3e1819051b777ad970a9cf1d99b9f504074f123a"
   },
   "canonical_checks": [
     "Corpse Queen",
@@ -38,5 +38,12 @@
     "Dolores's Soulmate answer is her dialogue tied to soul-resonance context, not objective relationship status.",
     "True Night Hound arrives only at chapter end."
   ],
-  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue."
+  "next_family_alignment_note": "Target216→E214 begins My Neck Will Be Your Sheath (1); C216 first explicitly identifies Corpse Queen as Camus Morgue.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored undead-medium decay, suffocation analogy, and exact 99% outsider figure"
+  }
 }
