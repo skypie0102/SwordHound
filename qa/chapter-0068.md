@@ -33,3 +33,14 @@ Target 68 → E67 is verified by the complete sequence: Ahun sparring / wind-pre
 ## Corruption / chronology check
 
 Recovered-English `Perfect Gradient`, `Superior Graduate`, `Sixth Teeth`, gender drift, and similar machine artifacts are rejected.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** A complete family reread reconfirmed the Phase-2 PASS. No ordinary manuscript edit was required; the two-year time skip, rank/technique progression, patrol reports, river contamination, Rokoko disappearance, and Camus-led search endpoint remain complete.
+
+Sanitization fidelity and completeness were rerun across the complete Blood Relatives (68–71) family after remediation. The established shifted witness mapping remains 68→E67, 69→E68, 70→E69, 71→E70, and target 72/E71 begins *The Red Death (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after complete-family revalidation.** Final family acceptance is rebound through the refreshed Blood Relatives family QA.
