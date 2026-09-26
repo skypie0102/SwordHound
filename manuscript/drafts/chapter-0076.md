@@ -184,11 +184,11 @@ At last a gentle but firm voice came from beyond the door.
 
 The visitors erupted.
 
-One recited his noble family connections.
+One announced himself as the eldest son of **House Jonathan**, a son-in-law of **House Alpons**, then kept reciting ties to the Dortmund, Dotte, and Franz houses.
 
-Another listed commercial offices, honorary titles, and past service under Boston Terrier Le Baskerville.
+Another claimed to be general manager of the **Ipsen Guild Union**, a Bourgeois subcontractor, president of the Ipsen town association, an imperial honorary knight, and a former two-year squire to **Boston Terrier Le Baskerville**.
 
-A third promised estates, villas, and carriages in exchange for treatment.
+A third, the second son of **House Childs**, offered fertile granary lands, a villa on the warm southern coast, and private carriages in exchange for treatment.
 
 The door remained closed.
 
