@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/061.txt` — `834abb36714ce9d7329e7854720ea20170ce5586`
 - Recovered English witness: **E60** `source/chapters/chapter-060.xhtml` — `cf367731f723c719b61b06070cb648fa9cf23a95`
-- Draft: `manuscript/drafts/chapter-0061.md` — `12578e5de23cc4c4eb0f279ad14ee20ad1cd5c8b`
+- Draft: `manuscript/drafts/chapter-0061.md` — `522ff4a192bc23b5163edc1bdb73d69c5fed30ea`
 
 ## Alignment
 
@@ -33,3 +33,13 @@ Target 61 → E60 is verified by the complete sequence: Ballak feast → Oxbear 
 ## Corruption / chronology check
 
 E60 is a shifted witness for target 61. It does not control semantics. Later Beelzebub slot upgrades are not imported.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Complete-family reread reconfirmed the Phase-2 findings. The draft now restores the Chinese-source comparison to **runny-nosed children** and removes the unsupported **tools** use from Oxbear bones, claws, and teeth; the source supports only **weapons and ornaments**.
+
+Sanitization remains **SAFETY-LIMITED-REVIEWED** only for the narrow underage reproductive-food implication at the chapter close. All surrounding ordinary content was reread directly against C061 and no further sanitization or completeness defect was found.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Chapters 61–63 family QA.
