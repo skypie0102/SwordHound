@@ -55,15 +55,23 @@ A magically animated still now looped on the sports page.
 
 The comments multiplied even faster than the views.
 
-“Is that image edited?”
+“Is that image edited? How can someone actually look like that?”
 
-“He's really in the Cold Department?”
+“I didn't know the Cold Department had someone that handsome.”
 
-“I was at the game. That's actually him.”
+“He's really a first-year? I would have noticed him at orientation.”
 
-“How did nobody notice him during orientation?”
+“I'm a guy and even I got caught staring.”
 
-“Who is he?”
+“I ran Naphtali with him yesterday. He really looks like that. I kept staring too.”
+
+“Look at that jawline and that messy hair…”
+
+“Water running down his jaw—my heart's going to burst.”
+
+“Tomorrow I'm searching the whole Cold Department until I find him.”
+
+“Calm down. You're about to graduate.”
 
 By morning—
 
@@ -71,9 +79,13 @@ people were actively searching.
 
 “Where's Vikir?”
 
-“I heard that's his name!”
+“Tudor's fine, but I came here to see Vikir!”
 
-“Is he in here?”
+“Vikir! Where are you? I came because of you!”
+
+“I bought ten thousand handkerchiefs just to wipe the water from his face!”
+
+The rumors drew crowds of female students and some male students alike, with the upperclassmen making the loudest fuss.
 
 Inside the classroom—
 
@@ -171,7 +183,7 @@ Today's specimen—
 > A giant scorpion protected by heavy natural armor and exceptionally potent venom.  
 > Its exoskeleton is harder than steel.  
 > Its massive pincers can tear or crush prey.  
-> One drop of venom from the tail is said to be lethal to dozens of humans.
+> One drop of venom from the tail is said to be lethal to **44 people**.
 
 A preserved specimen lay across the laboratory table.
 
