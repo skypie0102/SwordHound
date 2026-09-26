@@ -202,11 +202,11 @@ And about Vikir.
 
 “Even with his pants soaked.”
 
-“The contrast was so strange that it was almost impressive…”
+“The contrast was so strange it made my heart flutter…”
 
 “Somehow it makes me want to protect him.”
 
-“Like—change his diaper or feed him.”
+“Like—change his diaper and breastfeed him.”
 
 The conversation had already wandered somewhere bizarre.
 
@@ -314,7 +314,7 @@ Suspicious.
 
 Unknowable.
 
-And impossible for her to ignore.
+And somehow heart-stirring.
 
 The **Night Hound** moved beneath a moon covered by dark clouds.
 
