@@ -212,9 +212,9 @@ Then lowered his voice.
 
 “Are you training to murder somebody?”
 
-Tudor laughed and prodded Vikir's stomach.
+Tudor laughed and rubbed at Vikir's abdomen, kneading the sharply defined muscles as part of the joke.
 
-Then his eyes narrowed mischievously.
+Then his eyes narrowed mischievously and his voice turned suggestive.
 
 “With a body like that—”
 
