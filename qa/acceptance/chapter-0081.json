@@ -2,8 +2,8 @@
   "chapter": 81,
   "title": "The Saintess (4)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Saintess",
     "range": [
@@ -11,7 +11,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-080.xhtml",
     "english_reference_sha": "292720b33c709d7fb636046cc50c3c3cea2e9eb8",
     "draft_path": "manuscript/drafts/chapter-0081.md",
-    "draft_sha": "9ce5707df73fb578ba50774c09ae0af87193b87b",
+    "draft_sha": "af355913e8f967cbb603c6400e6b49537ca243d2",
     "qa_path": "qa/chapter-0081.md",
-    "qa_sha": "088c15acf8afe22fb7b487d973650fb2c4141750",
+    "qa_sha": "94a33fe7ab2eab7ff2c1df954b19e714fca5d0f5",
     "provenance_path": "editorial/provenance/chapter-0081.json",
-    "provenance_sha": "6a9d62cd12df6549a500c631788f8fe5324d0fb6"
+    "provenance_sha": "0b6ff0362569d1f894fc849de9bb554f8af502fa"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -37,5 +37,12 @@
     "Target 81 maps to E80.",
     "Divine-power borrowing/shorting is fantasy mechanics only.",
     "Closing heartbeat is nonsexual adolescent romantic emotion."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored divine-power arithmetic, broad monster merit, blood-flow treatment image, and concrete sacrifice comparison"
+  }
 }
