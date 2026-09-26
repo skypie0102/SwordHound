@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 25/273 remediation chapters complete through The Hound of the Night (75–77); next family The Saintess (78–82)**
+- Current stage: **Phase 4 ACTIVE — 33/273 remediation chapters complete through The Ghosts of the Ancestors (90–94); next affected family Nostalgia (101–104)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
 
-Phase 4 is active. Eleven affected families are now remediated/revalidated and rebound through **The Hound of the Night (75–77)**. **25 / 273** remediation chapters are complete and **248** remain; Phase 4 has made **27** manuscript edits so far. Continue with **The Saintess (78–82)**, earliest remaining target Chapter **78**. Phase 3 has already completed the full title-family/chapter-boundary, combined/shared-raw, localized-gap, shifted-English-mapping, Side Story ordering, and duplicated/displaced-source-block revalidation across all 500 targets.
+Phase 4 is active. Fourteen affected families are now remediated/revalidated and rebound through **The Ghosts of the Ancestors (90–94)**. **33 / 273** remediation chapters are complete and **240** remain; Phase 4 has made **35** manuscript edits so far. Continue with **Nostalgia (101–104)**, earliest remaining target Chapter **101**. Unaffected intervening families are not counted as Phase-4 remediation completions.
 
 ## Current source policy
 
