@@ -9,7 +9,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "primary_source": {
@@ -72,11 +72,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0051.md",
-    "blob_sha": "429c9af4d1e427789541037036d0647ab63a852d"
+    "blob_sha": "b3453b6e33173b931e7538f697f84cd6020ae8b2"
   },
   "qa": {
     "path": "qa/chapter-0051.md",
-    "blob_sha": "89a7ae8c555c4fbcc4200ad66bb5b75bcc4d51c7",
+    "blob_sha": "456ab7ef05a64cbb4b7ae6714357850de3703e46",
     "status": "pass"
   },
   "documented_decisions": [
@@ -102,5 +102,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      46,
+      51
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-explicit tears-and-nasal-discharge detail during Camus's breakdown"
+  }
 }
