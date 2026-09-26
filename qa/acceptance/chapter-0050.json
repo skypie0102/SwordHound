@@ -2,8 +2,8 @@
   "chapter": 50,
   "title": "The Husband Hunt (5)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
   "title_family": {
     "name": "The Husband Hunt",
     "range": [
@@ -11,7 +11,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0050.md",
     "draft_sha": "767c670a23f2c0e39886220a059f0bac4a754036",
     "qa_path": "qa/chapter-0050.md",
-    "qa_sha": "09f62418b9bb3c03358eb3e96c14cb589a23adbb",
+    "qa_sha": "195cb8c9a12cb68382fab0d64fe5f69323134a0e",
     "provenance_path": "editorial/provenance/chapter-0050.json",
-    "provenance_sha": "b363666411f8beab02efa6dc505b44c09ab1dea3"
+    "provenance_sha": "2fefc4541b2268a939605b823d259908028a5c53"
   },
   "canonical_checks": [
     "Ballak Tribe",
@@ -41,5 +41,12 @@
     "Contemporary Night Fox remains unidentified; later Akwilla/Aiyen succession material is excluded.",
     "境外三灾 remains descriptive as Three Calamities Beyond the Border pending stronger canonical evidence.",
     "Vikir suspects a second poison in Camus, but Adolf explicitly finds none."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no ordinary manuscript correction required; safety-limited material unchanged"
+  }
 }
