@@ -9,8 +9,8 @@
       161
     ],
     "family_qa_path": "qa/families/familiar-face-0158-0161.md",
-    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
-    "status": "pass"
+    "family_qa_sha": "b6965699d7b4e9188b2235fd70eab1596365796b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/158.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0158.md",
-    "blob_sha": "d168adaae4752967b229d2809859a35a6111d53f"
+    "blob_sha": "61fb3eb71aca33115da346ac908c84b1cb438b6a"
   },
   "qa": {
     "path": "qa/chapter-0158.md",
-    "blob_sha": "79ccb43920283742751ca220b7adc528e216ee45",
-    "status": "pass"
+    "blob_sha": "3b1d9c7ae8dc8a10108a5a6ab230d8fee769656c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/162.txt",
     "chinese_sha": "680770fdf7b23729571a227210cf1346b0a82774",
     "english_path": "source/chapters/chapter-161.xhtml",
     "english_sha": "2cce07a6f2cc14c6860fee7a3ca615a3d70e001d",
     "purpose": "both begin Sin and Punishment (1), target162"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      158,
+      161
+    ],
+    "manuscript_changed": true,
+    "note": "restored Seventh Fang painful-death purpose"
   }
 }
