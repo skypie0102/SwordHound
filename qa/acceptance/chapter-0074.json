@@ -2,8 +2,8 @@
   "chapter": 74,
   "title": "The Red Death (3)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Red Death",
     "range": [
@@ -11,7 +11,7 @@
       74
     ],
     "family_qa_path": "qa/families/red-death-0072-0074.md",
-    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "family_qa_sha": "1f6270b8bb0f4cd58054e60039728720f28a5544",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-073.xhtml",
     "english_reference_sha": "db89bc3ca2cd63106daadf11e113fe3a50da3bef",
     "draft_path": "manuscript/drafts/chapter-0074.md",
-    "draft_sha": "7693e61cba97e5a84c8b2c864e91cdf7784d31f1",
+    "draft_sha": "6ae1047f69074da770c16d0d247279d025d5831f",
     "qa_path": "qa/chapter-0074.md",
-    "qa_sha": "8590cd22276c47218e19c1a13a1b9db02a609f87",
+    "qa_sha": "3260f84309e48e6d1163181ca95b0014945129ea",
     "provenance_path": "editorial/provenance/chapter-0074.json",
-    "provenance_sha": "846d4e5f0dc6454e6f114cdd8e4e66286e55853c"
+    "provenance_sha": "cff619e07bfdcae5257109234e8cd589f722b240"
   },
   "canonical_checks": [
     "Aheul",
@@ -40,5 +40,12 @@
     "Target 74 maps to E73.",
     "Aheul is fourteen; illness and demographic/exit-law context remain clinical/nonsexual.",
     "Target 75 begins The Hound of the Night (1) and is not pulled backward."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Ah'Heman spitting at Aheul's face"
+  }
 }
