@@ -9,8 +9,8 @@
       94
     ],
     "family_qa_path": "qa/families/ghosts-ancestors-0090-0094.md",
-    "family_qa_sha": "707b090616f74e8eaf90a959cdde17d9683329e3",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "af352a71814db16c4072dc5afdee4fd51600f0ff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/094.txt",
@@ -32,12 +32,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0094.md",
-    "blob_sha": "6702b7e21087f0aeb6a342d6b18a44e5f562fbae"
+    "blob_sha": "a947f3214ec0b4a3b975d28b05b138f3e0556fec"
   },
   "qa": {
     "path": "qa/chapter-0094.md",
-    "blob_sha": "2171f407becea18abf463b5ab7c3601cdd90f8b5",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "1fa331f306e65cf31584ce2fca5b09e32c122441",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -67,7 +67,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-26",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-18",
@@ -79,5 +79,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/ghosts-ancestors-0090-0094.md"
-  }
+  },
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      90,
+      94
+    ],
+    "manuscript_changed": true,
+    "note": "restored torn-flesh/internal-organ-fragment detail in Thorn-Tree sequence"
+  },
+  "prior_accepted_date": "2026-09-20"
 }
