@@ -9,8 +9,8 @@
       138
     ],
     "family_qa_path": "qa/families/test-your-skills-0133-0138.md",
-    "family_qa_sha": "754d76f9c778e0a4617c0766384e67de87e6f91a",
-    "status": "pass"
+    "family_qa_sha": "dd2dcd14a16c827655d6d39887900d785b46feff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/134.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0134.md",
     "blob_sha": "99e979b4876813558e6d52963c35eec720039237",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -50,12 +50,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/139.txt",
     "chinese_sha": "29e3a8d69342fe6060038c06042102ed6d352146",
     "english_path": "source/chapters/chapter-138.xhtml",
     "english_sha": "a04b8fb16ee9f246de51fbc30247009e6e48e3d8",
     "purpose": "both begin Men are Power (1), target139"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      133,
+      138
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
