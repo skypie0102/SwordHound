@@ -357,6 +357,12 @@ Dolores blinked.
 
 Unexpected.
 
+*Beautiful enough to attract even a demon?*
+
+She knew she should not be thinking about that now—
+
+yet her heart fluttered despite herself.
+
 Quilt kept talking.
 
 “I've wanted Saintess Dolores's face for some time.”
