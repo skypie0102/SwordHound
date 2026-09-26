@@ -2,8 +2,8 @@
   "chapter": 193,
   "title": "Attack Land (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Attack Land",
     "range": [
@@ -11,8 +11,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/193.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-191.xhtml",
     "english_reference_sha": "acd22faad36952bce721780139ef55fffd16ef89",
     "draft_path": "manuscript/drafts/chapter-0193.md",
-    "draft_sha": "9cc370aad266f8adff8cb85cf807e4c217120671",
+    "draft_sha": "fe2779552cdbea14b5de2ffe435915b16ccf6001",
     "qa_path": "qa/chapter-0193.md",
-    "qa_sha": "40915d387dbaa8f3c9f9d70c0a3febb10631fc62",
+    "qa_sha": "9fc7e5b5613861588d3d50c764e27e2f446e0d65",
     "provenance_path": "editorial/provenance/chapter-0193.json",
-    "provenance_sha": "5e1fb4467bdd7b353ac2a09cad8fe88ea627b841"
+    "provenance_sha": "3b9853cf37136c4a4d7a1ecd48573d03948eb36e"
   },
   "canonical_checks": [
     "Pigi",
@@ -51,5 +51,12 @@
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/attack-land-0190-0196.md"
   },
-  "department_note": "Pigi remains Cold Department Class B despite isolated C193 raw label drift."
+  "department_note": "Pigi remains Cold Department Class B despite isolated C193 raw label drift.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored Granola's cracked-teeth detail"
+  }
 }
