@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/129.txt` — `59717ac8c05eadf387b9a817a7e88da66facbf02`
 - English witness: **E128** — `0ee593a03f40125f495585cc02f52eee4d1608ff`
-- Draft: `manuscript/drafts/chapter-0129.md` — `11439549d2139947b6c1b0d68a150b5f9f72b7c7`
+- Draft: `manuscript/drafts/chapter-0129.md` — `a64c45e13d18c06edd020f1f331494e147478b80`
 - Boundary: C130 — `75953e6055debc0292ed261a08a471ff27486894` / E129 — `f5e7eb7711468542d89e43edc619d4c81adf015b` begin **The Freshman Talent Show (1)**.
 
 ## Checks
@@ -23,3 +23,16 @@
 - PASS — Bianca detects Vikir's presence but cannot catch him; her exceptional Usher senses/agility make the escape noteworthy.
 - PASS — the lingering rum smell confirms to Bianca that someone really was present.
 - PASS — target 129 ends on the call that the **freshman talent show** is about to begin, creating a clean boundary into target 130.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored Bartison's source-order execution sequence: both wrists are severed before he can swing; the cut ends are immediately cauterized by heat; both ankles are severed when he tries to retreat; Vikir's blood-red blade pierces his throat; Bartison struggles briefly before dying.
+
+The preceding crime involving an underage victim remains at the existing non-explicit factual level and was not expanded.
+
+The complete Admission to the Academy family was reread after remediation. Chapters 126–128 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **126→E125 through 129→E128**; target 130/E129 begins *The Freshman Talent Show (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Admission to the Academy family QA.
