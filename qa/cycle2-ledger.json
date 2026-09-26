@@ -1838,7 +1838,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/rich-friends-0270-0272.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -1851,7 +1851,9 @@
         270,
         271,
         272
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/rich-friends-0270-0272.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 67,
@@ -1869,7 +1871,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "fail",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -1885,6 +1887,11 @@
         276,
         277,
         278
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26",
+      "boundary_failures": [
+        273
       ]
     },
     {
@@ -1901,7 +1908,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/what-money-cant-buy-0279-0282.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -1915,7 +1922,9 @@
         280,
         281,
         282
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/what-money-cant-buy-0279-0282.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 69,
@@ -1935,7 +1944,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "fail",
       "sanitization_review_file": "qa/cycle2/sanitization/power-inflation-0283-0290.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -1956,6 +1965,11 @@
         288,
         289,
         290
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26",
+      "boundary_failures": [
+        283
       ]
     },
     {
@@ -1970,7 +1984,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/successors-0291-0292.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -1980,7 +1994,9 @@
       "completeness_reviewed_date": "2026-09-25",
       "completeness_failures": [
         291
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/successors-0291-0292.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 71,
@@ -19029,7 +19045,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-268.xhtml",
       "english_mtl_blob_sha": "9c3e9caa4628a20dced6cc3ef844647d5fa0576d",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 268,
+        "notes": "Cycle 2 Phase 3 verified target 270 aligns by title/content to recovered English E268 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0270.md",
         "draft_blob_sha": "31602e213e00a4a308482e1363e0e4158dca8bb6",
@@ -19052,9 +19072,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to her merely never having lived as an assassin."
+        "Cycle 2 Phase 1 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to her merely never having lived as an assassin.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19062,7 +19083,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source explicitly says Dolores has never killed anyone; the draft generalizes this to never having lived as an assassin."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md"
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md",
+      "boundary_review_file": "qa/cycle2/boundary/rich-friends-0270-0272.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 271,
@@ -19081,7 +19104,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-269.xhtml",
       "english_mtl_blob_sha": "8ab8f53a25ed85da48bbbf427448e0648dd4918b",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 269,
+        "notes": "Cycle 2 Phase 3 verified target 271 aligns by title/content to recovered English E269 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0271.md",
         "draft_blob_sha": "9e8bd0aa398d14e98752835446b0868b43342ccb",
@@ -19104,9 +19131,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19114,7 +19142,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the Mock Investment Competition flyer's one-week application deadline and automatic one-week poster disappearance are omitted in the condensed draft flyer."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md"
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md",
+      "boundary_review_file": "qa/cycle2/boundary/rich-friends-0270-0272.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 272,
@@ -19133,7 +19163,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-270.xhtml",
       "english_mtl_blob_sha": "7f70850073256d65fb0305818a94d250235e7426",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 270,
+        "notes": "Cycle 2 Phase 3 verified target 272 aligns by title/content to recovered English E270 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0272.md",
         "draft_blob_sha": "48413bf16b6b4111f94cc266a252c1cc93cff7ee",
@@ -19156,9 +19190,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon."
+        "Cycle 2 Phase 1 FAIL: the source's explicit image of Oracle's real-money blade severing the hidden demon's head is softened to a blade merely aimed at the demon.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19166,7 +19201,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's sharp-blade image explicitly severs the hidden demon's head; the draft softens it to a blade merely aimed at the demon."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md"
+      "completeness_review_file": "qa/cycle2/completeness/rich-friends-0270-0272.md",
+      "boundary_review_file": "qa/cycle2/boundary/rich-friends-0270-0272.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 273,
@@ -19185,7 +19222,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-271.xhtml",
       "english_mtl_blob_sha": "6ece9b4881644926d62bfaa8df4754843e81ca06",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 271,
+        "notes": "Cycle 2 Phase 3 verified target 273 aligns by title/content to recovered English E271 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0273.md",
         "draft_blob_sha": "33c45ce850ee7939557fc5d44333893b1693fc43",
@@ -19208,9 +19249,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "fail",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 FAIL: target 273 imports Dolores's gold/grain/mineral/real-estate/bond prediction-category list from Chinese Chapter 274, where the same material remains, creating duplicated/displaced source content across the 273→274 boundary."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19218,7 +19260,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Chapter 273 imports and duplicates the gold/grain/mineral/real-estate/bond prediction-category list that belongs to Chapter 274."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 274,
@@ -19237,7 +19281,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-272.xhtml",
       "english_mtl_blob_sha": "93baca82256fd412fbb6268ba6e1eaafe6915979",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 272,
+        "notes": "Cycle 2 Phase 3 verified target 274 aligns by title/content to recovered English E272 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0274.md",
         "draft_blob_sha": "97726452059b4bfdd93c79901613afc8d60d20ac",
@@ -19260,9 +19308,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -19270,7 +19319,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 275,
@@ -19289,7 +19340,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-273.xhtml",
       "english_mtl_blob_sha": "3220e237b54c61dcbe3fac52f4b635566c5e6efc",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 273,
+        "notes": "Cycle 2 Phase 3 verified target 275 aligns by title/content to recovered English E273 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0275.md",
         "draft_blob_sha": "eac341322bf3fea51276e2543c69426a5c4aa058",
@@ -19312,9 +19367,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19322,7 +19378,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Saltsail's source-explicit 60,000-ton salt figure is generalized to 'tens of thousands of tons.'"
       ],
-      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 276,
@@ -19341,7 +19399,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-274.xhtml",
       "english_mtl_blob_sha": "68897697181dba1ff283759a93ad5ebe057cd90f",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 274,
+        "notes": "Cycle 2 Phase 3 verified target 276 aligns by title/content to recovered English E274 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0276.md",
         "draft_blob_sha": "84dcae9e073c3407cae41ea5fe14be6ccf85ad8e",
@@ -19364,9 +19426,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing."
+        "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19374,7 +19437,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: direct condemnation of demon-linked lenders as shameless/not worth sympathy and the explicit end-times madness framing are generalized away."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 277,
@@ -19393,7 +19458,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-275.xhtml",
       "english_mtl_blob_sha": "eb33e3fbb03625ce00f9371e7a22b936b301e272",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 275,
+        "notes": "Cycle 2 Phase 3 verified target 277 aligns by title/content to recovered English E275 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0277.md",
         "draft_blob_sha": "06ab98be7725fa579bdb1bc4d400a7c91d64c056",
@@ -19416,9 +19485,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'"
+        "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19426,7 +19496,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: failed succession challengers face death or exile worse than death; the draft softens this to death or something close to it."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 278,
@@ -19445,7 +19517,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-276.xhtml",
       "english_mtl_blob_sha": "6ae905149690b61385e0741056043fa2e4d1fc96",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 276,
+        "notes": "Cycle 2 Phase 3 verified target 278 aligns by title/content to recovered English E276 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0278.md",
         "draft_blob_sha": "8e9142afddcd49e63762eb9495701e31d0924393",
@@ -19468,9 +19544,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'"
+        "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19478,7 +19555,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Damien's weapon is source-explicitly a true killing sword, and Night Hound's danger can rival or even exceed Ms. Ouroboros; both are weakened in the draft."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md"
+      "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
+      "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 279,
@@ -19497,7 +19576,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-277.xhtml",
       "english_mtl_blob_sha": "a2fa0985e10e9b4c5cad00906979ebf07dbcf4ad",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 277,
+        "notes": "Cycle 2 Phase 3 verified target 279 aligns by title/content to recovered English E277 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0279.md",
         "draft_blob_sha": "bcca88522b6e88b2724a0a00efe0c9a8d8d75d5a",
@@ -19520,9 +19603,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source says Damien hired killers/assassins to seize and beat Romeo; the draft sanitizes this to generic 'hired men.'"
+        "Cycle 2 Phase 1 FAIL: the source says Damien hired killers/assassins to seize and beat Romeo; the draft sanitizes this to generic 'hired men.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19530,7 +19614,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Damien hired killers/assassins rather than generic men, and the public-rumor sequence explicitly says Romeo and Juliet died on the spot before Juliet's survival is revealed."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md"
+      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md",
+      "boundary_review_file": "qa/cycle2/boundary/what-money-cant-buy-0279-0282.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 280,
@@ -19549,7 +19635,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-278.xhtml",
       "english_mtl_blob_sha": "96f2f3e5463de65e429dc82a35739d907874e94c",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 278,
+        "notes": "Cycle 2 Phase 3 verified target 280 aligns by title/content to recovered English E278 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0280.md",
         "draft_blob_sha": "c05456bd49423af19ef9f277293e0a394ab4ddd7",
@@ -19572,9 +19662,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized."
+        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit accusation 'You killed him' is softened to 'You're the one who had him beaten,' and the source's harsher incompetent-father framing is generalized.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19582,7 +19673,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir's direct 'You killed him' accusation is softened, Damien's incompetent-father framing is generalized, and the Wraith Tree's Grave-of-Spears provenance is omitted."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md"
+      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md",
+      "boundary_review_file": "qa/cycle2/boundary/what-money-cant-buy-0279-0282.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 281,
@@ -19601,7 +19694,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-279.xhtml",
       "english_mtl_blob_sha": "80127eeab46c88a69566a22a0132fcbc820c4399",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 279,
+        "notes": "Cycle 2 Phase 3 verified target 281 aligns by title/content to recovered English E279 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0281.md",
         "draft_blob_sha": "2f7f73de5ea768c5d7b30367273aff76a84c26d7",
@@ -19624,9 +19721,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19634,7 +19732,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir's source wedding-officiant line is replaced with unsupported 'choice / not possessions' wording."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md"
+      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md",
+      "boundary_review_file": "qa/cycle2/boundary/what-money-cant-buy-0279-0282.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 282,
@@ -19653,7 +19753,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-280.xhtml",
       "english_mtl_blob_sha": "fd019b2361368058e7c9a7044754af21a49e996c",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 280,
+        "notes": "Cycle 2 Phase 3 verified target 282 aligns by title/content to recovered English E280 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0282.md",
         "draft_blob_sha": "9bb8758a11b408783418dd58b820ebf4201fb28e",
@@ -19676,9 +19780,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19686,7 +19791,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Bartolomeo's source-explicit near-Hugo physical benchmark and the Sixth Corpse's explicit Quovadis/Bourgeois dual-target statement are omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md"
+      "completeness_review_file": "qa/cycle2/completeness/what-money-cant-buy-0279-0282.md",
+      "boundary_review_file": "qa/cycle2/boundary/what-money-cant-buy-0279-0282.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 283,
@@ -19705,7 +19812,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-281.xhtml",
       "english_mtl_blob_sha": "072e4288d1954915ff6bc7c50edb4404408bc796",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 281,
+        "notes": "Cycle 2 Phase 3 verified target 283 aligns by title/content to recovered English E281 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0283.md",
         "draft_blob_sha": "1d4a9bd0b35d9c81a230ef0bb5cbc7fb59efe2f5",
@@ -19728,9 +19839,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "fail",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 FAIL: target 283 imports the 'recent mergers involving mercenary guilds' question from Chinese Chapter 292, where target 292 also retains it, creating duplicated/displaced source content."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19738,7 +19850,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the draft inserts an unsupported 'mergers with mercenary guilds' question into Pigi's source-defined question list."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 284,
@@ -19785,9 +19899,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shared 284.txt container seam revalidated; target 284 ends with the scoped E282 'Here I am' bridge and target 285 begins with the first red slash, with no cross-boundary duplication."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -19795,7 +19910,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content; shared 284/285 raw handled by established exception."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 285,
@@ -19842,9 +19959,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source's delayed-cut anecdote where a large piece of thigh flesh falls off after roughly three kilometers and blood gushes out is generalized to delayed bleeding after several steps."
+        "Cycle 2 Phase 1 FAIL: the source's delayed-cut anecdote where a large piece of thigh flesh falls off after roughly three kilometers and blood gushes out is generalized to delayed bleeding after several steps.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shared 284.txt container seam revalidated; target 284 ends with the scoped E282 'Here I am' bridge and target 285 begins with the first red slash, with no cross-boundary duplication."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19852,7 +19970,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's three-kilometer delayed-cut anecdote, large thigh-flesh loss, and gushing blood are compressed to generic delayed bleeding."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 286,
@@ -19871,7 +19991,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-284.xhtml",
       "english_mtl_blob_sha": "0f5f8718a37fcd25db05cad6d61c13d93cbf4bdf",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 284,
+        "notes": "Cycle 2 Phase 3 verified target 286 aligns by title/content to recovered English E284 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0286.md",
         "draft_blob_sha": "ebf4e01dfcac7af68d574ecab7c423d01da17ccd",
@@ -19894,9 +20018,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source says the attack had turned Bartolomeo's human body into a rag/tattered rag; the draft softens this to the body merely 'beginning to fail.'"
+        "Cycle 2 Phase 1 FAIL: the source says the attack had turned Bartolomeo's human body into a rag/tattered rag; the draft softens this to the body merely 'beginning to fail.'",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19904,7 +20029,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's tattered-rag body-destruction image is softened to Bartolomeo's human body merely beginning to fail."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 287,
@@ -19923,7 +20050,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-285.xhtml",
       "english_mtl_blob_sha": "5f0f93bcc10161529d834b6e59ddbce795c31e7e",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 285,
+        "notes": "Cycle 2 Phase 3 verified target 287 aligns by title/content to recovered English E285 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0287.md",
         "draft_blob_sha": "3d5bf477e87d5a829d09131758f578b89b5dba63",
@@ -19946,9 +20077,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Dolores's source-explicit exposed-skin state and bloodsuckers burrowing into pale/soft skin with sharp teeth are generalized to damaged clothing and parasites merely biting/drinking."
+        "Cycle 2 Phase 1 FAIL: Dolores's source-explicit exposed-skin state and bloodsuckers burrowing into pale/soft skin with sharp teeth are generalized to damaged clothing and parasites merely biting/drinking.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -19956,7 +20088,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Dolores's exposed-skin state and bloodsuckers burrowing into pale/soft skin with sharp teeth are generalized away."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 288,
@@ -19975,7 +20109,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-286.xhtml",
       "english_mtl_blob_sha": "ad0d183d8b8faa819745522dacb9b0df40bd86fc",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 286,
+        "notes": "Cycle 2 Phase 3 verified target 288 aligns by title/content to recovered English E286 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0288.md",
         "draft_blob_sha": "291778fe4156e5bbaef3905d0013797079b70721",
@@ -19998,9 +20136,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Belial's source-explicit degrading 'Die, you trash/scum!' insult is reduced to 'DIE!', and the desperate death-cry force is compressed."
+        "Cycle 2 Phase 1 FAIL: Belial's source-explicit degrading 'Die, you trash/scum!' insult is reduced to 'DIE!', and the desperate death-cry force is compressed.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -20008,7 +20147,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Belial's 'Die, you trash/scum!' insult and desperate death-cry force are materially reduced."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 289,
@@ -20027,7 +20168,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-287.xhtml",
       "english_mtl_blob_sha": "7b80fa0ac94f3de9a4c190f25f8780b8716c0732",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 287,
+        "notes": "Cycle 2 Phase 3 verified target 289 aligns by title/content to recovered English E287 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0289.md",
         "draft_blob_sha": "1b0050d414e8cd01ac151d8b0ac20d4ef1b6dbc8",
@@ -20050,9 +20195,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: source-explicit blood spraying from all over Sinclaire's body is softened to blood appearing along several shallow cuts; her direct insult is also toned down."
+        "Cycle 2 Phase 1 FAIL: source-explicit blood spraying from all over Sinclaire's body is softened to blood appearing along several shallow cuts; her direct insult is also toned down.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -20060,7 +20206,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: blood spraying from all over Sinclaire's body is softened to several shallow cuts, and her direct insult is toned down."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 290,
@@ -20079,7 +20227,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-288.xhtml",
       "english_mtl_blob_sha": "cb45f187eace1f2b0f9ed16f1fc90d81ad9920ae",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 288,
+        "notes": "Cycle 2 Phase 3 verified target 290 aligns by title/content to recovered English E288 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0290.md",
         "draft_blob_sha": "d292861e46efd31ec274c74f25d6e8e7907a47f9",
@@ -20102,9 +20254,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened."
+        "Cycle 2 Phase 1 FAIL: Vikir's source-explicit thorn-like muscle fibers straining as if to tear skin and Belial's fountain-like black-blood gush are materially softened.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -20112,7 +20265,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir's thorn-like muscle fibers straining toward torn skin and Belial's fountain-like black-blood gush are softened."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md"
+      "completeness_review_file": "qa/cycle2/completeness/power-inflation-0283-0290.md",
+      "boundary_review_file": "qa/cycle2/boundary/power-inflation-0283-0290.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 291,
@@ -20131,7 +20286,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-289.xhtml",
       "english_mtl_blob_sha": "4f557cd3d083f06c37ac56b7175e15241b4bedc1",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 289,
+        "notes": "Cycle 2 Phase 3 verified target 291 aligns by title/content to recovered English E289 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0291.md",
         "draft_blob_sha": "270d7b714974db47b3eaeb0842d8ee77164722b5",
@@ -20154,9 +20313,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body."
+        "Cycle 2 Phase 1 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -20164,7 +20324,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Bartolomeo's source-explicit corpse lying like a rag is softened to merely a ruined body."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md"
+      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md",
+      "boundary_review_file": "qa/cycle2/boundary/successors-0291-0292.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 292,
@@ -20183,7 +20345,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-290.xhtml",
       "english_mtl_blob_sha": "83c4441c286d7eccb3e2a35f869bc0dd013d53e4",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 290,
+        "notes": "Cycle 2 Phase 3 verified target 292 aligns by title/content to recovered English E290 after the target-168 witness gap; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0292.md",
         "draft_blob_sha": "17c78fe172b9a071786c85e6c53e6b250d3d6e14",
@@ -20206,9 +20372,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -20216,7 +20383,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content; the retrospective mercenary-guild-mergers item correctly belongs here and confirms Chapter 283's earlier duplication."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md"
+      "completeness_review_file": "qa/cycle2/completeness/successors-0291-0292.md",
+      "boundary_review_file": "qa/cycle2/boundary/successors-0291-0292.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 293,
@@ -35948,22 +36117,22 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 269,
+    "boundary_alignment_reviewed_count": 292,
     "boundary_alignment_pass_count": 53,
-    "boundary_alignment_fail_count": 1,
-    "boundary_alignment_exception_documented_count": 215,
-    "families_reviewed_count": 65,
+    "boundary_alignment_fail_count": 3,
+    "boundary_alignment_exception_documented_count": 236,
+    "families_reviewed_count": 70,
     "families_pass_count": 14,
-    "families_fail_count": 1,
-    "families_exception_documented_count": 50,
+    "families_fail_count": 3,
+    "families_exception_documented_count": 53,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 208,
+    "new_source_exception_rows": 229,
     "next_family": {
-      "name": "Rich Friends",
-      "start": 270,
-      "end": 272
+      "name": "Confessions",
+      "start": 293,
+      "end": 295
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0269.md"
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0292.md"
   }
 }
