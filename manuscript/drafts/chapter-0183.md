@@ -304,23 +304,27 @@ the faculty situation became worse.
 
 “That artifact is priceless!”
 
-“Which department pays for it?”
+A professor from the golem-generation side snapped back.
 
-“Golem generation?”
+“This started because your life-detection array malfunctioned!”
 
-“Life detection?”
+Another voice cut in.
 
-“Phase control?”
+“Nonsense. Golem generation layered automation onto the original summoning array this year. If that caused the conflict, your side should pay for the magic stone!”
 
-“Barrier maintenance?”
+“That is not our fault. Life detection is what kept reporting an active combatant after all four HP values hit zero!”
 
-“Determine responsibility first!”
+“Then what about phase control? It should never have advanced freshmen into Phase 2!”
+
+“The phase-control team only reacts to the life signal it receives!”
+
+“Enough. Determine which system actually caused the fault before deciding who pays!”
 
 The students were fighting for their lives.
 
 The adults—
 
-argued about responsibility.
+argued over causal responsibility and liability.
 
 Then someone shouted—
 
