@@ -12,14 +12,14 @@
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
 **Boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
-**Current phase:** Phase 4 ACTIVE — 12/273 remediation chapters complete through The Hunter and the Hunted (55–60); next The Protagonist of Hunting (61–63)
+**Current phase:** Phase 4 ACTIVE — 25/273 remediation chapters complete through The Hound of the Night (75–77); next The Saintess (78–82)
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
 
 ## Current priority
 
-The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**. Six affected families are complete through **The Hunter and the Hunted (55–60)**; continue with **The Protagonist of Hunting (61–63)**.
+The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**. Eleven affected families are complete through **The Hound of the Night (75–77)**; continue with **The Saintess (78–82)**.
 
 Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The structural pass has reviewed Chapters **1–500** across **118 / 118** contiguous title families and is complete. It rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
 
@@ -89,7 +89,7 @@ Phase 2 completeness is **COMPLETE through Chapter 500**:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Phase 3 is complete at **500 / 500** targets across **118 / 118** families with **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, **429 genuine new source-exception rows**, and **0 manuscript edits**. Structural failures at Chapters **273 and 283** are carried into Phase 4. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. Phase 4 is ready and begins with **Camus Morgue (20–25)**.
+Phase 3 is complete at **500 / 500** targets across **118 / 118** families with **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, **429 genuine new source-exception rows**, and **0 manuscript edits**. Structural failures at Chapters **273 and 283** are carried into Phase 4. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. Phase 4 is active and has advanced through **The Hound of the Night (75–77)**.
 
 ## Release gate
 
@@ -100,13 +100,12 @@ Complete-EPUB assembly, presentation QA, and final packaging are deferred until 
 
 - Status: **ACTIVE**
 - Remediation population: **273 unique chapters**
-- Completed remediation chapters: **12**
-- Remaining remediation chapters: **261**
-- Completed affected families: **6**
-- Manuscript edits during Phase 4: **13**
-- Last completed family: **The Hunter and the Hunted (55–60)**
-- Latest repaired chapters: **55, 60**
-- Next affected family: **The Protagonist of Hunting (61–63)**
-- Earliest remaining remediation target: **61**
+- Completed remediation chapters: **25**
+- Remaining remediation chapters: **248**
+- Completed affected families: **11**
+- Manuscript edits during Phase 4: **27**
+- Last completed family: **The Hound of the Night (75–77)**
+- Latest repaired chapters: **75, 76, 77**
+- Next affected family: **The Saintess (78–82)**
+- Earliest remaining remediation target: **78**
 - EPUB assembly remains blocked until Phases 4–6 close.
-
