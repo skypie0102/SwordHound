@@ -2,8 +2,8 @@
   "chapter": 64,
   "title": "Unfair Trade (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Unfair Trade",
     "range": [
@@ -11,7 +11,7 @@
       67
     ],
     "family_qa_path": "qa/families/unfair-trade-0064-0067.md",
-    "family_qa_sha": "af6a0e1829333eae90de2a609db768606177f51e",
+    "family_qa_sha": "03117044c6e71069425a7c247b598e0303263fcc",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-063.xhtml",
     "english_reference_sha": "54c7cd980ebb6bc505aab824a8e5a26bbe40edfd",
     "draft_path": "manuscript/drafts/chapter-0064.md",
-    "draft_sha": "7247c9434ad5695d86de99fd8507c42cc9d90ee1",
+    "draft_sha": "4ddc2d65417c32804078cd0741f488f916e00d30",
     "qa_path": "qa/chapter-0064.md",
-    "qa_sha": "adef0fb58870464bd98f6850b62dad467a9165aa",
+    "qa_sha": "626cc56793e2f2e74e33a19306ba102b056325ee",
     "provenance_path": "editorial/provenance/chapter-0064.json",
-    "provenance_sha": "09439531add507c05a81ede38d65946c3192653f"
+    "provenance_sha": "e2a54d898683191be87d4411e136b0c26a73d7dc"
   },
   "canonical_checks": [
     "Bourgeois Clan",
@@ -37,6 +37,13 @@
   "documented_limits": [
     "Target 64 maps to E63, not E64.",
     "The young Ballak girl is not named until target 65.",
-    "Merchant racism/sexual harassment is preserved as abuse without gratuitous reproduction or sexualization."
-  ]
+    "Source-specific racial degradation is retained; child-directed harassment remains non-explicit and nonsexualized."
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored source-specific racial degradation while keeping child-directed harassment non-explicit"
+  }
 }
