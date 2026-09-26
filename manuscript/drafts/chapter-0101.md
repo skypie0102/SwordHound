@@ -256,7 +256,7 @@ Madam stumbled backward.
 
 She tried to flee.
 
-The ruptured silk sac dragged and leaked behind her.
+The ruptured mucus sac leaked as she fled.
 
 She did not care.
 
@@ -528,7 +528,7 @@ She sat next to Vikir looking as though she might burst into tears at any second
 
 Her mouth moved quickly.
 
-“Can you see me? Hey! Ahun! Over here!”
+“Can you see me? Hey! Hey! Over here! Over here!”
 
 Other voices joined.
 
