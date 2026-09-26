@@ -6,7 +6,7 @@ Recovered source, reference, reconstruction, QA, and EPUB-preparation material f
 
 **Every editorial session must read `HANDOFF.md` first.**
 
-Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 3 COMPLETE / Phase 4 READY**.
+Current checkpoint: **full manuscript sanitization + completeness audit — Cycle 2, Phase 4 ACTIVE**.
 
 - Target manuscript files present: **500 / 500**
 - Historical accepted state entering Cycle 2: **500 / 500**
@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 3 COMPLETE — Phase 4 remediation is ready; next family Camus Morgue (20–25)**
+- Current stage: **Phase 4 ACTIVE — Camus Morgue (20–25) complete; next family Slave Auction (35–37)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
 
-Phase 4 is now ready but has not started. The combined remediation population remains **273 unique chapters**. Begin with the earliest affected family, **Camus Morgue (20–25)**, whose first failing target is Chapter **22**. Phase 3 has already completed the full title-family/chapter-boundary, combined/shared-raw, localized-gap, shifted-English-mapping, Side Story ordering, and duplicated/displaced-source-block revalidation across all 500 targets.
+Phase 4 is active. **Camus Morgue (20–25)** has been remediated and rebound: Chapters **22** and **24** were repaired and the full family evidence chain for Chapters 20–25 was refreshed. **2 / 273** remediation chapters are complete and **271** remain. Continue with **Slave Auction (35–37)**, earliest remaining target Chapter **35**. Phase 3 has already completed the full title-family/chapter-boundary, combined/shared-raw, localized-gap, shifted-English-mapping, Side Story ordering, and duplicated/displaced-source-block revalidation across all 500 targets.
 
 ## Current source policy
 
