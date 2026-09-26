@@ -15,8 +15,8 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Phase-1/Phase-2 overlap: **198** completeness failures overlap Phase-1 FAILs
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
-- Cycle-2 boundary/alignment revalidated: **368 / 500** — **53 PASS / 2 FAIL / 313 EXCEPTION-DOCUMENTED** across **88 / 118 families**
-- Current stage: **Phase 3 ACTIVE — reviewed through Chapter 368; next family The Servant (369–370)**
+- Cycle-2 boundary/alignment revalidated: **384 / 500** — **53 PASS / 2 FAIL / 329 EXCEPTION-DOCUMENTED** across **94 / 118 families**
+- Current stage: **Phase 3 ACTIVE — reviewed through Chapter 384; next family The Rotten Dog of Nouvelle Vague (385–389)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -28,7 +28,7 @@ Phase 0 froze the opening baseline at `8177e1c192cd7fcd55b04009fbe826bbd50f586b`
 
 Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. Phase 2 is also complete across Chapters 1–500 at **229 PASS / 271 FAIL**; **198** completeness failures overlap Phase-1 FAILs and **73** are completeness-only additions, producing **273 unique remediation chapters**.
 
-Phase 3 is now the immediate focus. Chapters **1–368** across **88 / 118** families are structurally reviewed at **53 PASS / 2 FAIL / 313 EXCEPTION-DOCUMENTED**, with **301 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Checkpoint: `qa/cycle2-phase3-checkpoint-0368.md`. Open structural FAILs are Chapters **273 and 283**; both remain reserved for Phase 4. The next family is **The Servant (369–370)**. Phase 3 must still revalidate all remaining title-family/chapter boundaries, combined/shared raws, localized source gaps, shifted/nontrivial English mappings, Side Story ordering, and duplicated/displaced source blocks before Phase 4 remediation begins.
+Phase 3 is now the immediate focus. Chapters **1–384** across **94 / 118** families are structurally reviewed at **53 PASS / 2 FAIL / 329 EXCEPTION-DOCUMENTED**, with **317 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Checkpoint: `qa/cycle2-phase3-checkpoint-0384.md`. Open structural FAILs are Chapters **273 and 283**; both remain reserved for Phase 4. The next family is **The Rotten Dog of Nouvelle Vague (385–389)**. Phase 3 must still revalidate all remaining title-family/chapter boundaries, combined/shared raws, localized source gaps, shifted/nontrivial English mappings, Side Story ordering, and duplicated/displaced source blocks before Phase 4 remediation begins.
 
 ## Current source policy
 
