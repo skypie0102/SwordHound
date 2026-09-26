@@ -36,15 +36,15 @@ the Ryukeion tavern.
 
 “A ghost tavern full of romance and chivalry!”
 
-“Good food!”
+“Friendly side dishes!”
 
-“Better hosts!”
+“Delicious owners!”
 
 Sancho shouted—
 
 “Hey!”
 
-“You changed the slogan!”
+“You switched the side dishes and the owners!”
 
 Tudor—
 
@@ -95,6 +95,8 @@ Someone flexed.
 “Protein and iron?”
 
 “Perfect!”
+
+“Maybe this is enough to challenge three-to-one ton!”
 
 Another laughed.
 
@@ -543,6 +545,12 @@ at the brow.
 Firelight—
 
 across the face.
+
+The effect was almost like a witch bewitching the room—
+
+not with magic,
+
+but by controlling people through food that tasted too good.
 
 Banshee stared.
 
