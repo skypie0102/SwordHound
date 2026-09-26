@@ -751,11 +751,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/returned-hero-0105-0109.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hero-0105-0109.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 30,
@@ -774,11 +776,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/great-banquet-0110-0116.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 31,
@@ -793,11 +797,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/falling-in-love-0117-0119.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/falling-in-love-0117-0119.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 32,
@@ -815,11 +821,13 @@
       ],
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/hunt-second-son-0120-0125.md",
       "sanitization_reviewed_date": "2026-09-23",
       "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
-      "completeness_reviewed_date": "2026-09-23"
+      "completeness_reviewed_date": "2026-09-23",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 33,
@@ -835,7 +843,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/admission-academy-0126-0129.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -845,7 +853,9 @@
       "completeness_reviewed_date": "2026-09-23",
       "completeness_failures": [
         129
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 34,
@@ -860,7 +870,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/freshman-talent-show-0130-0132.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -873,7 +883,9 @@
         131,
         132
       ],
-      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md",
+      "boundary_review_file": "qa/cycle2/boundary/freshman-talent-show-0130-0132.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 35,
@@ -9216,9 +9228,9 @@
       "english_mtl_reference": "source/chapters/chapter-104.xhtml",
       "english_mtl_blob_sha": "69a15a787030595c8f8dd9adad13553f1b978b2d",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 104,
-        "notes": "Verified by title and full opening/closing content: The Returned Hero (1)."
+        "notes": "Cycle 2 Phase 3 verified target 105 aligns by title/content to recovered English E104; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0105.md",
@@ -9242,9 +9254,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9252,7 +9265,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hero-0105-0109.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 106,
@@ -9272,9 +9287,9 @@
       "english_mtl_reference": "source/chapters/chapter-105.xhtml",
       "english_mtl_blob_sha": "a87e013f39bba11650cb28938d27bcc7825e2bd7",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 105,
-        "notes": "Verified by contiguous title-family and full content: The Returned Hero (2)."
+        "notes": "Cycle 2 Phase 3 verified target 106 aligns by title/content to recovered English E105; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0106.md",
@@ -9298,9 +9313,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9308,7 +9324,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hero-0105-0109.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 107,
@@ -9328,9 +9346,9 @@
       "english_mtl_reference": "source/chapters/chapter-106.xhtml",
       "english_mtl_blob_sha": "b580c3cf7d206e90265480540bb08a13aa59549c",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 106,
-        "notes": "Verified by contiguous title-family and full content: The Returned Hero (3)."
+        "notes": "Cycle 2 Phase 3 verified target 107 aligns by title/content to recovered English E106; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0107.md",
@@ -9354,9 +9372,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9364,7 +9383,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hero-0105-0109.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 108,
@@ -9384,9 +9405,9 @@
       "english_mtl_reference": "source/chapters/chapter-107.xhtml",
       "english_mtl_blob_sha": "330e4b2f308c2a16ae51af1c6793714df8ec9621",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 107,
-        "notes": "Verified by contiguous title-family and full content: The Returned Hero (4)."
+        "notes": "Cycle 2 Phase 3 verified target 108 aligns by title/content to recovered English E107; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0108.md",
@@ -9410,9 +9431,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9420,7 +9442,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hero-0105-0109.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 109,
@@ -9440,9 +9464,9 @@
       "english_mtl_reference": "source/chapters/chapter-108.xhtml",
       "english_mtl_blob_sha": "034d1229f1517566c52fedd012b3960b5c6ede7b",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 108,
-        "notes": "Verified by contiguous title-family and full content: The Returned Hero (5)."
+        "notes": "Cycle 2 Phase 3 verified target 109 aligns by title/content to recovered English E108; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0109.md",
@@ -9466,9 +9490,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9476,7 +9501,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md"
+      "completeness_review_file": "qa/cycle2/completeness/returned-hero-0105-0109.md",
+      "boundary_review_file": "qa/cycle2/boundary/returned-hero-0105-0109.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 110,
@@ -9496,9 +9523,9 @@
       "english_mtl_reference": "source/chapters/chapter-109.xhtml",
       "english_mtl_blob_sha": "475816122100c441e23204e7b4d86b18b89a248b",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 109,
-        "notes": "Verified boundary and next-family start: The Great Banquet (1)."
+        "notes": "Cycle 2 Phase 3 verified target 110 aligns by title/content to recovered English E109; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0110.md",
@@ -9522,9 +9549,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9532,7 +9560,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 111,
@@ -9552,9 +9582,9 @@
       "english_mtl_reference": "source/chapters/chapter-110.xhtml",
       "english_mtl_blob_sha": "5725a13f0bc5eab35d7e35851ccb67fe7c62a9f3",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 110,
-        "notes": "Verified title-family mapping: The Great Banquet (2)."
+        "notes": "Cycle 2 Phase 3 verified target 111 aligns by title/content to recovered English E110; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0111.md",
@@ -9578,9 +9608,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9588,7 +9619,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 112,
@@ -9608,9 +9641,9 @@
       "english_mtl_reference": "source/chapters/chapter-111.xhtml",
       "english_mtl_blob_sha": "dbf3dfc9bf766f75ec7c5d546a4f9c96cb177845",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 111,
-        "notes": "Verified title-family mapping: The Great Banquet (3)."
+        "notes": "Cycle 2 Phase 3 verified target 112 aligns by title/content to recovered English E111; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0112.md",
@@ -9634,9 +9667,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9644,7 +9678,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 113,
@@ -9664,9 +9700,9 @@
       "english_mtl_reference": "source/chapters/chapter-112.xhtml",
       "english_mtl_blob_sha": "bee427a5df37d3e8ffa5cf4b4f06670d2ebac34a",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 112,
-        "notes": "Verified title-family mapping: The Great Banquet (4)."
+        "notes": "Cycle 2 Phase 3 verified target 113 aligns by title/content to recovered English E112; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0113.md",
@@ -9690,9 +9726,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9700,7 +9737,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 114,
@@ -9720,9 +9759,9 @@
       "english_mtl_reference": "source/chapters/chapter-113.xhtml",
       "english_mtl_blob_sha": "ad036d95a5a0dfb7f55bbad39e2732221e58a254",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 113,
-        "notes": "Verified title-family mapping: The Great Banquet (5)."
+        "notes": "Cycle 2 Phase 3 verified target 114 aligns by title/content to recovered English E113; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0114.md",
@@ -9746,9 +9785,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9756,7 +9796,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 115,
@@ -9776,9 +9818,9 @@
       "english_mtl_reference": "source/chapters/chapter-114.xhtml",
       "english_mtl_blob_sha": "98c7c43bd36ce01252dbbed237eefa8f3a8439ce",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 114,
-        "notes": "Verified title-family mapping: The Great Banquet (6)."
+        "notes": "Cycle 2 Phase 3 verified target 115 aligns by title/content to recovered English E114; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0115.md",
@@ -9802,9 +9844,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9812,7 +9855,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 116,
@@ -9832,9 +9877,9 @@
       "english_mtl_reference": "source/chapters/chapter-115.xhtml",
       "english_mtl_blob_sha": "0cbdc3ceb45f0eb14d25663c462143e61f017a8d",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 115,
-        "notes": "Verified title-family mapping: The Great Banquet (7)."
+        "notes": "Cycle 2 Phase 3 verified target 116 aligns by title/content to recovered English E115; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0116.md",
@@ -9858,9 +9903,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9868,7 +9914,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md"
+      "completeness_review_file": "qa/cycle2/completeness/great-banquet-0110-0116.md",
+      "boundary_review_file": "qa/cycle2/boundary/great-banquet-0110-0116.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 117,
@@ -9888,9 +9936,9 @@
       "english_mtl_reference": "source/chapters/chapter-116.xhtml",
       "english_mtl_blob_sha": "6f7468972698dfdb50cc6a57c3a9bbd2e3d05be9",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 116,
-        "notes": "Verified following-family boundary: Falling in Love (1)."
+        "notes": "Cycle 2 Phase 3 verified target 117 aligns by title/content to recovered English E116; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0117.md",
@@ -9914,9 +9962,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9924,7 +9973,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md"
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md",
+      "boundary_review_file": "qa/cycle2/boundary/falling-in-love-0117-0119.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 118,
@@ -9944,9 +9995,9 @@
       "english_mtl_reference": "source/chapters/chapter-117.xhtml",
       "english_mtl_blob_sha": "b183d0b0356beabe4356e97edcfdfeb80471f13d",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 117,
-        "notes": "Verified title-family mapping: Falling in Love (2)."
+        "notes": "Cycle 2 Phase 3 verified target 118 aligns by title/content to recovered English E117; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0118.md",
@@ -9970,9 +10021,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -9980,7 +10032,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md"
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md",
+      "boundary_review_file": "qa/cycle2/boundary/falling-in-love-0117-0119.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 119,
@@ -10000,9 +10054,9 @@
       "english_mtl_reference": "source/chapters/chapter-118.xhtml",
       "english_mtl_blob_sha": "6e9ff434920c889f1224ac2272674fb3da0a1c49",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 118,
-        "notes": "Verified title-family mapping: Falling in Love (3)."
+        "notes": "Cycle 2 Phase 3 verified target 119 aligns by title/content to recovered English E118; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0119.md",
@@ -10026,9 +10080,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10036,7 +10091,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md"
+      "completeness_review_file": "qa/cycle2/completeness/falling-in-love-0117-0119.md",
+      "boundary_review_file": "qa/cycle2/boundary/falling-in-love-0117-0119.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 120,
@@ -10056,9 +10113,9 @@
       "english_mtl_reference": "source/chapters/chapter-119.xhtml",
       "english_mtl_blob_sha": "c281f25b7cdd12fa76dee622ac88dd7145c6f545",
       "source_exception": {
-        "raw_status": "normal_shifted_alignment",
+        "raw_status": "shifted_english_alignment",
         "verified_english_mtl_chapter": 119,
-        "notes": "Verified following-family boundary: The Hunt for the Second Son (1)."
+        "notes": "Cycle 2 Phase 3 verified target 120 aligns by title/content to recovered English E119; Chinese remains semantic authority."
       },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0120.md",
@@ -10082,9 +10139,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10092,7 +10150,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md"
+      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 121,
@@ -10111,7 +10171,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-120.xhtml",
       "english_mtl_blob_sha": "ba7c96996f6090d2e596700ab2d88810d6b0d3e7",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 120,
+        "notes": "Cycle 2 Phase 3 verified target 121 aligns by title/content to recovered English E120; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0121.md",
         "draft_blob_sha": "258e14cd08510d9a5790a042d7f77de135e77eeb",
@@ -10134,9 +10198,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10144,7 +10209,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md"
+      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 122,
@@ -10163,7 +10230,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-121.xhtml",
       "english_mtl_blob_sha": "fea7ada031929b77357ff5eee3de89740feef851",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 121,
+        "notes": "Cycle 2 Phase 3 verified target 122 aligns by title/content to recovered English E121; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0122.md",
         "draft_blob_sha": "e602bde57f5b6e492f13b3baa6b0ef10558f700d",
@@ -10186,9 +10257,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10196,7 +10268,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md"
+      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 123,
@@ -10215,7 +10289,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-122.xhtml",
       "english_mtl_blob_sha": "f48004b6caee80cebad06bfbab6d0553bb18006d",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 122,
+        "notes": "Cycle 2 Phase 3 verified target 123 aligns by title/content to recovered English E122; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0123.md",
         "draft_blob_sha": "dee8dcfcab8bbd47556f0bf927aabb9234b1829d",
@@ -10238,9 +10316,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10248,7 +10327,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md"
+      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 124,
@@ -10267,7 +10348,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-123.xhtml",
       "english_mtl_blob_sha": "5ea0de65a922e2948f7ba37fa137a9fe8b3f9578",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 123,
+        "notes": "Cycle 2 Phase 3 verified target 124 aligns by title/content to recovered English E123; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0124.md",
         "draft_blob_sha": "8114a7553a9cd68fcccd49206c4ca54ec7290558",
@@ -10290,9 +10375,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10300,7 +10386,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md"
+      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 125,
@@ -10319,7 +10407,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-124.xhtml",
       "english_mtl_blob_sha": "f9b8cd36750f08861f0feb62a62454ecfbd21496",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 124,
+        "notes": "Cycle 2 Phase 3 verified target 125 aligns by title/content to recovered English E124; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0125.md",
         "draft_blob_sha": "e2ece44fa09a28b1d2304400172db09b1935a85d",
@@ -10342,9 +10434,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10352,7 +10445,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md"
+      "completeness_review_file": "qa/cycle2/completeness/hunt-second-son-0120-0125.md",
+      "boundary_review_file": "qa/cycle2/boundary/hunt-second-son-0120-0125.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 126,
@@ -10371,7 +10466,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-125.xhtml",
       "english_mtl_blob_sha": "8881a27a5c483db63e27b37cac92b8c12a8b7fb2",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 125,
+        "notes": "Cycle 2 Phase 3 verified target 126 aligns by title/content to recovered English E125; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0126.md",
         "draft_blob_sha": "b2bd803effb51401c8dd8c301daa4d198f44a214",
@@ -10394,9 +10493,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10404,7 +10504,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
+      "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 127,
@@ -10423,7 +10525,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-126.xhtml",
       "english_mtl_blob_sha": "21c15f555328a871346f4ead012c35bde5bdaac4",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 126,
+        "notes": "Cycle 2 Phase 3 verified target 127 aligns by title/content to recovered English E126; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0127.md",
         "draft_blob_sha": "7540762d2a61b23a92215dd89805f9af5af746e4",
@@ -10446,9 +10552,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10456,7 +10563,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
+      "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 128,
@@ -10475,7 +10584,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-127.xhtml",
       "english_mtl_blob_sha": "46bf52dc420d5a8993a34b0b009246664b525cb9",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 127,
+        "notes": "Cycle 2 Phase 3 verified target 128 aligns by title/content to recovered English E127; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0128.md",
         "draft_blob_sha": "399ad580996f4b9af70d044694f38a393cfe7005",
@@ -10498,9 +10611,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -10508,7 +10622,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no missing, materially collapsed, duplicated, or invented ordinary source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
+      "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 129,
@@ -10527,7 +10643,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-128.xhtml",
       "english_mtl_blob_sha": "0ee593a03f40125f495585cc02f52eee4d1608ff",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 128,
+        "notes": "Cycle 2 Phase 3 verified target 129 aligns by title/content to recovered English E128; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0129.md",
         "draft_blob_sha": "11439549d2139947b6c1b0d68a150b5f9f72b7c7",
@@ -10550,9 +10670,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Bartison's source-explicit severed wrists/cauterized stumps, severed ankles, throat strike, and death struggle are collapsed to a near-instant generic death."
+        "Cycle 2 Phase 1 FAIL: Bartison's source-explicit severed wrists/cauterized stumps, severed ankles, throat strike, and death struggle are collapsed to a near-instant generic death.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -10560,7 +10681,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Bartison's source-present severed/cauterized wrists, severed ankles, throat impalement, and brief death struggle are omitted and collapsed to an almost-instant generic death."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md"
+      "completeness_review_file": "qa/cycle2/completeness/admission-academy-0126-0129.md",
+      "boundary_review_file": "qa/cycle2/boundary/admission-academy-0126-0129.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 130,
@@ -10579,7 +10702,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-129.xhtml",
       "english_mtl_blob_sha": "f5e7eb7711468542d89e43edc619d4c81adf015b",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 129,
+        "notes": "Cycle 2 Phase 3 verified target 130 aligns by title/content to recovered English E129; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0130.md",
         "draft_blob_sha": "0ee70b6ad7745ca92bf769a2938027ba33666a03",
@@ -10602,9 +10729,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: source-explicit Age-of-Destruction imagery of corpses piled into mountains and blood flowing like rivers is generalized into softer memorial/front-line language."
+        "Cycle 2 Phase 1 FAIL: source-explicit Age-of-Destruction imagery of corpses piled into mountains and blood flowing like rivers is generalized into softer memorial/front-line language.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -10612,7 +10740,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source's Age-of-Destruction image of corpses piled into mountains and blood flowing like a river is omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md",
+      "boundary_review_file": "qa/cycle2/boundary/freshman-talent-show-0130-0132.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 131,
@@ -10631,7 +10761,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-130.xhtml",
       "english_mtl_blob_sha": "b843d5c49b22853b48b21c529c77a2bec5081bc4",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 130,
+        "notes": "Cycle 2 Phase 3 verified target 131 aligns by title/content to recovered English E130; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0131.md",
         "draft_blob_sha": "9755f192aa86e5c554196ac377297214348dcef1",
@@ -10654,9 +10788,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the narrator's explicit characterization of the bullies as cruel, brutal, merciless, malicious, and violent is softened into generic bullying/toy imagery."
+        "Cycle 2 Phase 1 FAIL: the narrator's explicit characterization of the bullies as cruel, brutal, merciless, malicious, and violent is softened into generic bullying/toy imagery.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -10664,7 +10799,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source narrator's explicit characterization of the six second-years as cruel, brutal, merciless, malicious, and violent is generalized to generic bullying/toy imagery."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md",
+      "boundary_review_file": "qa/cycle2/boundary/freshman-talent-show-0130-0132.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 132,
@@ -10683,7 +10820,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-131.xhtml",
       "english_mtl_blob_sha": "ff71c21f20bdaef7ed250fc2cbc15e4b15982226",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 131,
+        "notes": "Cycle 2 Phase 3 verified target 132 aligns by title/content to recovered English E131; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0132.md",
         "draft_blob_sha": "1db9ba952fc5a7ff73a6af89df993c0b147bdcb4",
@@ -10706,9 +10847,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: detailed facial injuries, fear-wetting, knife-cut target marks, and the explicit threat to kill the bullies and their parents are materially generalized/softened."
+        "Cycle 2 Phase 1 FAIL: detailed facial injuries, fear-wetting, knife-cut target marks, and the explicit threat to kill the bullies and their parents are materially generalized/softened.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -10716,7 +10858,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source-present attack/injury sequence, fear-wetting response, concrete X-marking/bleeding aftermath, and explicit threat to kill the students and their parents are materially omitted/generalized."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md"
+      "completeness_review_file": "qa/cycle2/completeness/freshman-talent-show-0130-0132.md",
+      "boundary_review_file": "qa/cycle2/boundary/freshman-talent-show-0130-0132.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 133,
@@ -34796,22 +34940,22 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 104,
+    "boundary_alignment_reviewed_count": 132,
     "boundary_alignment_pass_count": 53,
     "boundary_alignment_fail_count": 0,
-    "boundary_alignment_exception_documented_count": 51,
-    "families_reviewed_count": 28,
+    "boundary_alignment_exception_documented_count": 79,
+    "families_reviewed_count": 34,
     "families_pass_count": 14,
     "families_fail_count": 0,
-    "families_exception_documented_count": 14,
+    "families_exception_documented_count": 20,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 45,
+    "new_source_exception_rows": 73,
     "next_family": {
-      "name": "The Returned Hero",
-      "start": 105,
-      "end": 109
+      "name": "Test Your Skills",
+      "start": 133,
+      "end": 138
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0104.md"
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0132.md"
   }
 }
