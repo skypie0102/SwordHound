@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 integration checkpoint
+
+Phase 1 and Phase 2 discovery are fully closed and the live documentation has been synchronized for the Phase-3 handoff.
+
+- sanitization: **500 / 500 COMPLETE** — **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
+- completeness: **500 / 500 COMPLETE** — **229 PASS / 271 FAIL**;
+- **198** completeness failures overlap Phase-1 FAILs;
+- **73** completeness-only additions raise the Phase-4 remediation population to **273 unique chapters**;
+- Phase-3 boundary/alignment clearance: **0 / 500** at handoff;
+- manuscript edits during Phase-1/Phase-2 discovery: **0**;
+- EPUB assembly remains blocked.
+
+**Next:** integrate this checkpoint into `main`, then continue Phase 3 on `audit/cycle2-phase3-boundary` from the corpus start. Keep the 273-chapter remediation queue frozen until Phase 3 closes.
+
 ## 2026-09-26 — Cycle 2 Phase 2 COMPLETE at 500 / 500
 
 The direct Chinese-primary completeness pass is closed across the entire target corpus.
