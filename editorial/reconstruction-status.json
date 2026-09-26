@@ -1418,7 +1418,7 @@
     "historical_accepted_count_at_opening": 500,
     "sanitization_revalidated_count": 500,
     "completeness_revalidated_count": 500,
-    "boundary_alignment_revalidated_count": 384,
+    "boundary_alignment_revalidated_count": 402,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -1563,10 +1563,10 @@
     ],
     "current_phase": "phase_3_boundary_alignment_exception_integrity_pass",
     "next_family": {
-      "name": "The Rotten Dog of Nouvelle Vague",
+      "name": "Jailbreaker",
       "range": [
-        385,
-        389
+        403,
+        408
       ]
     },
     "epub_assembly_blocked": true,
@@ -1622,7 +1622,7 @@
       "evidence": "qa/cycle2-phase2-checkpoint-0500.md"
     },
     "phase3_status": "active",
-    "phase3_reviewed_count": 384,
+    "phase3_reviewed_count": 402,
     "phase3_start_family": {
       "name": "Hellhound",
       "range": [
@@ -1636,27 +1636,27 @@
     "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary.",
     "phase3_pass_count": 53,
     "phase3_fail_count": 2,
-    "phase3_exception_documented_count": 329,
-    "phase3_families_reviewed_count": 94,
+    "phase3_exception_documented_count": 347,
+    "phase3_families_reviewed_count": 98,
     "phase3_families_pass_count": 14,
     "phase3_families_fail_count": 2,
-    "phase3_new_source_exception_rows": 317,
+    "phase3_new_source_exception_rows": 333,
     "phase3_manuscript_edits": 0,
-    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0384.md",
+    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0402.md",
     "phase3_last_completed_family": {
-      "name": "Kennel",
+      "name": "Black Tongue",
       "range": [
-        382,
-        384
+        399,
+        402
       ],
       "result": "exception-documented",
-      "evidence": "qa/cycle2/boundary/kennel-0382-0384.md"
+      "evidence": "qa/cycle2/boundary/black-tongue-0399-0402.md"
     },
     "phase3_next_family": {
-      "name": "The Rotten Dog of Nouvelle Vague",
+      "name": "Jailbreaker",
       "range": [
-        385,
-        389
+        403,
+        408
       ]
     },
     "phase3_open_structural_failures": [
@@ -1665,11 +1665,11 @@
     ],
     "phase3_exception_table_normalization": {
       "baseline_rows": 36,
-      "current_rows": 353,
-      "genuine_phase3_additions": 317,
+      "current_rows": 369,
+      "genuine_phase3_additions": 333,
       "redundant_rows_removed": 75,
       "baseline_rows_altered": 0
     },
-    "phase3_families_exception_documented_count": 78
+    "phase3_families_exception_documented_count": 82
   }
 }
