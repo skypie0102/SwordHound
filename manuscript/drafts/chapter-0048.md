@@ -276,7 +276,7 @@ Especially the Baskerville triplets.
 
 “Delicious.”
 
-Lowbro's speech still occasionally went strange after the old injury to his fingers, but the three of them clearly meant the same thing.
+Lowbro's speech still occasionally went strange after his right index finger had once been severed, but the three of them clearly meant the same thing.
 
 Then—
 
