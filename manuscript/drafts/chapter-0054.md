@@ -1,6 +1,6 @@
 # Chapter 54: Slaves of the Savage Tribe (3)
 
-> Restarted Chinese-first reconstruction. Primary source: `source/chinese/chapters/054.txt`. Recovered English Chapter 54 is an aligned secondary witness only. Established terminology controls **Aiyen**, **Akwilla**, **Ahun**, **Ballak Tribe**, and the Age-of-Destruction continuity. The chapter's bodily/cultural material is retained factually and non-erotically; recovered-English gender corruption is rejected. Chapter 55 has no Chinese raw and begins the next family, **The Hunter and the Hunted (1)**, in the recovered-English fallback.
+> Restarted Chinese-first reconstruction. Primary source: `source/chinese/chapters/054.txt`. Recovered English Chapter 54 is an aligned secondary witness only. Established terminology controls **Aiyen**, **Akwilla**, **Ahun**, **Ballak Tribe**, and the Age-of-Destruction continuity. The chapter's bodily/cultural material is retained factually and non-erotically; recovered-English gender corruption is rejected. Physical `source/chinese/chapters/054.txt` is a documented 54/55 overlap container: it contains target Chapter 54 and then most of target Chapter 55. Recovered English Chapter 54 supplies only the short missing target-54 closing exchange; target Chapter 55 begins the next family, **The Hunter and the Hunted (1)**, under the documented hybrid-source exception.
 
 Aiyen was Ballak's youngest hunting captain.
 
