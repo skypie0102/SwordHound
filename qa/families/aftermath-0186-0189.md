@@ -9,10 +9,10 @@
 
 | Target | Chinese SHA | English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|
-| 186 | `50e4d6ed09229936a98c12da53190591ce11a402` | E184 | `7a87123315c4960cbf6dfccad9c5c8d866636f5c` | `bd5b059d45d07d8b89ff7c8a885ac7a5535fd6a8` | `51ddb8a2b824d5e0270eefce756173308bb66371` |
-| 187 | `11443659b730d1936b42577d78ec83aa8d772559` | E185 | `d0985074e848b6a865240bee565c275b592ebe57` | `5decd46823aed5348ecd61db63b7db3a9462cf68` | `e826fa2da0ed43b5ab3578a67a393548cbd2f6b0` |
-| 188 | `df4e9687bb105e46b08cbce55b062bdac758b608` | E186 | `b24c6082ca68eac0a5cbcc0a2c11d80571badecc` | `a5acf6864aadc537b94251c915c505b4c1c93de3` | `622f8ee2e4eb5eed4791633f8589512ec6e204b6` |
-| 189 | `2188f948c27048203ba56cbf384f07b1bf694ba1` | E187 | `3119e723eebdb865b487235d4297024272f031f0` | `b8f18cba51c098537ac5d3e77d84af0d817c5adb` | `3bbcb6d8f0592fcfee725ce7f03df050d3de1711` |
+| 186 | `50e4d6ed09229936a98c12da53190591ce11a402` | E184 | `7a87123315c4960cbf6dfccad9c5c8d866636f5c` | `c5a33444c10c049d0331bd268f267c37d43bbda9` | `74588b4091e86d860ee23da8d75983854367f8de` |
+| 187 | `11443659b730d1936b42577d78ec83aa8d772559` | E185 | `d0985074e848b6a865240bee565c275b592ebe57` | `3bee3be0b9a551745d571cbcafe518e6c78c305c` | `e7d6908b8a53ece720abd5e7998c0f48b1967706` |
+| 188 | `df4e9687bb105e46b08cbce55b062bdac758b608` | E186 | `b24c6082ca68eac0a5cbcc0a2c11d80571badecc` | `aff82b2eb1501447578b02e423950a4a3cd09a2e` | `d87341581bce33ae63eff36032007d787829763f` |
+| 189 | `2188f948c27048203ba56cbf384f07b1bf694ba1` | E187 | `3119e723eebdb865b487235d4297024272f031f0` | `a6b1888d88f426cec54a40e04a72e5684a0071c3` | `2927e7ca46d0f07c7ca466ea331a91787234c1c6` |
 | boundary 190 | `090ea8b431f3d46a7c53469a4f2c0b4c621eef38` | E188 | `14dcf17305b925b422bc79656578fb236858c9c3` | next family | next family |
 
 Mapping: **186→E184, 187→E185, 188→E186, 189→E187**.
@@ -59,3 +59,19 @@ Target **197 → E195** begins **Preparing for the Festival (1)**.
 ## Family verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 186 restores the Central Clocktower **death-toll** reference and the omitted public reactions that the strategy explains part of the score, the result is still extraordinary, and even a graduating four-person team might not reach it.
+- Chapter 187 restores the humorous first-year/fourth-year **salmon** teaching analogy and the source's rhetorical line about an age when **survival becomes a vulgar joke**.
+- Chapter 188 restores the attributed allegation that Professor Sadi can beat talented students badly enough to leave them **disabled**, while keeping all abusive-behavior claims explicitly framed as reputation/rumor.
+- Chapter 189 restores the minor/serious injury placeholders, the **Varangian training-center head** among casualties, representative source-level profanity/insult in the public comments, and Vikir's explicit intention to **catch and kill** the false Night Hound(s).
+- Sanitization fidelity and completeness were rerun across Chapters 186–189.
+- Shifted mapping remains **186→E184 through 189→E187**; target 190/E188 begins *Attack Land (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Attack Land (190–196)**.
