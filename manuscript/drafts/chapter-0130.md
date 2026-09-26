@@ -482,7 +482,11 @@ Because the song had never been meant for one person.
 
 In the Age of Destruction—
 
-thousands had sung it together.
+corpses had piled into mountains and blood had run together like rivers.
+
+In that age, everyone who took up a sword against the demons knew this song.
+
+Thousands had sung it together.
 
 Then tens of thousands.
 
