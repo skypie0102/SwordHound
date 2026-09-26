@@ -849,7 +849,15 @@
         103
       ],
       "boundary_review_file": "qa/cycle2/boundary/nostalgia-0101-0104.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        101,
+        103
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 101 and 103 remediated and rebound; Chapters 102 and 104 complete-family revalidated unchanged."
     },
     {
       "index": 29,
@@ -9540,15 +9548,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Madam's leaking mucus sac is changed to a silk sac, and the rescue call invents Ahun as a named addressee where the Chinese has only an unnamed repeated call."
       ],
       "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md",
       "boundary_review_file": "qa/cycle2/boundary/nostalgia-0101-0104.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 102,
@@ -9607,7 +9619,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md",
       "boundary_review_file": "qa/cycle2/boundary/nostalgia-0101-0104.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 103,
@@ -9658,15 +9674,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: structural boundary/alignment revalidated under a documented raw-gap/shared-container or shifted English-witness mapping; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "not_applicable_until_edit",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/nostalgia-0101-0104.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the explicit 7–8 month female-wolf cycle is omitted, and Aiyen's source-specific reproductive-fitness statement is generalized to a strong bloodline."
       ],
       "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md",
       "boundary_review_file": "qa/cycle2/boundary/nostalgia-0101-0104.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 104,
@@ -9725,7 +9745,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/nostalgia-0101-0104.md",
       "boundary_review_file": "qa/cycle2/boundary/nostalgia-0101-0104.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 105,
@@ -38042,22 +38066,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 33,
-    "remediation_remaining_chapters": 240,
-    "families_completed": 14,
+    "remediation_completed_chapters": 35,
+    "remediation_remaining_chapters": 238,
+    "families_completed": 15,
     "last_completed_family": {
-      "name": "The Ghosts of the Ancestors",
-      "start": 90,
-      "end": 94
-    },
-    "next_family": {
       "name": "Nostalgia",
       "start": 101,
       "end": 104
     },
-    "earliest_remediation_chapter": 101,
-    "manuscript_edits": 35,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; and The Ghosts of the Ancestors 90-94 complete",
+    "next_family": {
+      "name": "Admission to the Academy",
+      "start": 126,
+      "end": 129
+    },
+    "earliest_remediation_chapter": 129,
+    "manuscript_edits": 37,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; and Nostalgia 101-104 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
