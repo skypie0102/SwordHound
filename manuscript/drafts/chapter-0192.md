@@ -520,9 +520,9 @@ Even without checking—
 
 Sinclaire knew.
 
-Ribs broken.
+All of her ribs were broken.
 
-Some driven into internal organs.
+Some had been driven into her internal organs.
 
 She flew through the air.
 
