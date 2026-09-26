@@ -2,8 +2,8 @@
   "chapter": 55,
   "title": "The Hunter and the Hunted (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "hybrid_chinese_overlap_plus_english_missing_opening",
+  "accepted_date": "2026-09-26",
+  "review_mode": "hybrid_chinese_overlap_plus_english_missing_opening_cycle2_phase4",
   "title_family": {
     "name": "The Hunter and the Hunted",
     "range": [
@@ -11,7 +11,7 @@
       60
     ],
     "family_qa_path": "qa/families/hunter-hunted-0055-0060.md",
-    "family_qa_sha": "4cc415fa66c3f178af78f7a5130c3058936d88b7",
+    "family_qa_sha": "e838ea65fea66414cc29c2ebe80a6f96d008fb02",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-055.xhtml",
     "english_reference_sha": "b3d243ed6bdbd0268e0281d18589d0b4c308604e",
     "draft_path": "manuscript/drafts/chapter-0055.md",
-    "draft_sha": "e18c5c382ca2fab4bb721c5b33e552f752b986bd",
+    "draft_sha": "4cab7e75783208f932d9d868cbdc57b5b252f57b",
     "qa_path": "qa/chapter-0055.md",
-    "qa_sha": "2b86dbfce94de0f26e8b77c5960909e35d12eed9",
+    "qa_sha": "c33d943e949c6b3630f0d9b82d03f4104fc5ec65",
     "provenance_path": "editorial/provenance/chapter-0055.json",
-    "provenance_sha": "08fe5d4f1b21d508a346d2b60a2d56b3b88885af"
+    "provenance_sha": "867148f6b3e74a6392e7aef7eebbd315f935359c"
   },
   "canonical_checks": [
     "Aiyen",
@@ -37,5 +37,12 @@
     "No standalone 055.txt exists, but most target-55 Chinese body survives appended inside 054.txt.",
     "E55 supplies only the missing opening/title boundary and is secondary wherever Chinese overlap exists.",
     "Body/toilet/slave-punishment material remains non-erotic and unsanitized."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored source warning-bell instruction and removed unsupported curse wording"
+  }
 }
