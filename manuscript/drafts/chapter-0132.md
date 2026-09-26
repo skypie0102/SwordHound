@@ -412,23 +412,41 @@ The **Night Hound**.
 
 Before any of them could gather themselves—
 
-the confrontation ended.
+the first student was punched into the wall.
 
-Fast.
+CRACK.
 
-Overwhelming.
+He had no time even to gather mana.
 
-None of the six had time to mount a meaningful defense.
+One blow shattered his nasal bone and teeth and dropped him to the ground.
 
-Soon—
+Then—
 
-all of them were on the ground—
+THUD.
 
-stunned, frightened, and finally silent.
+THUD.
+
+THUD.
+
+THUD.
+
+CRACK.
+
+The remaining five received the same treatment.
+
+Dragged into the muddy alley, all six stared up in terror.
 
 The Night Hound looked down at them.
 
-One of the students managed to speak.
+The first student's jaw hung dislocated.
+
+Broken teeth had punched through his cheek.
+
+His nose had been broken into three jagged sections.
+
+One cheekbone had collapsed, and blood ran from the openings of his face.
+
+One of the others still found enough courage to speak.
 
 “You…”
 
@@ -458,42 +476,42 @@ Even the names and ranks of their parents.
 
 Color drained from every face.
 
-The Night Hound crouched.
+The Night Hound raised a small, sharp blade.
 
-In one gloved hand—
+The six students wet themselves in fear.
 
-a small blade caught the faint light of the alley.
+They still could not pull away from the strength holding their chins in place.
 
-The six students stopped trying to sound brave.
+Slowly—
 
-He marked each of them.
+the blade crossed each forehead.
 
-A simple **X**.
+One cut.
+
+Then another.
+
+An **X**.
 
 A target sign.
 
-A scar intended to remain visible long enough that they would remember the night.
+A red scar meant to remain visible for years.
+
+Blood ran from their foreheads.
+
+They trembled.
 
 Then the Night Hound spoke.
 
-“Cause trouble inside the Academy again.”
+“Cause trouble inside the Academy one more time.”
 
 His voice was quiet.
 
-“And I will come back.”
+“Next time, not only you—
 
-The six students shook.
-
-The Night Hound leaned closer.
-
-“Next time, your family name will not protect you.”
+your parents will be killed too.”
 
 No one answered.
 
 No one laughed.
 
-The threat was enough.
-
-The lesson—
-
-delivered.
+The warning had been delivered.
