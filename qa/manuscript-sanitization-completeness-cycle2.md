@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 65/273 remediation chapters complete; next affected family The Anti-Columnist (172–175)
+**Current stage:** Phase 4 ACTIVE — 91/273 remediation chapters complete; next affected family Festival Night (206–215)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 65  
-**Remaining remediation chapters:** 208  
-**Completed affected families:** 25  
-**Current next family:** The Anti-Columnist (172–175)  
-**Earliest remaining target:** Chapter 175
+**Completed remediation chapters:** 91  
+**Remaining remediation chapters:** 182  
+**Completed affected families:** 33  
+**Current next family:** Festival Night (206–215)  
+**Earliest remaining target:** Chapter 206
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
