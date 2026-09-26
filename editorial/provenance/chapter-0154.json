@@ -9,8 +9,8 @@
       154
     ],
     "family_qa_path": "qa/families/drinking-game-0152-0154.md",
-    "family_qa_sha": "45747a29f4164d5b928e0d6ab697604c5acff359",
-    "status": "pass"
+    "family_qa_sha": "fb43a12daed632cf6452f5709f04c2bfb7261adb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/154.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0154.md",
-    "blob_sha": "138a97adacfd1ec1c0c3c058890cca0f4940009d"
+    "blob_sha": "74036c2eba0ce0f724dc906e59d11dac8b24bd91"
   },
   "qa": {
     "path": "qa/chapter-0154.md",
-    "blob_sha": "0aab498430c802d24f6581cffd0ed15f24ffa75b",
-    "status": "pass"
+    "blob_sha": "04cfab53e93ede7b67faacc6e291cb096ba3d42b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-26",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/155.txt",
     "chinese_sha": "0443c1fb6b741512ddea3695e4307f9e918a91bc",
     "english_path": "source/chapters/chapter-154.xhtml",
     "english_sha": "3fc2c9eb577199cc82fafb7bd5569b5cc2687d6c",
     "purpose": "both begin How to Keep Your Night Shift Employees Safe (1), target155"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      152,
+      154
+    ],
+    "manuscript_changed": true,
+    "note": "restored whole-body itching and involuntary shiver reaction"
   }
 }
