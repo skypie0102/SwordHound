@@ -5,7 +5,7 @@
 
 ## Evidence
 - Chinese: `source/chinese/chapters/137.txt` — `bed95debde0be4d5d02a1c987a22deef76d7eb9a`
-- Draft: `manuscript/drafts/chapter-0137.md` — `0b9acd70039ff39dbb89e8234376899eae932d99`
+- Draft: `manuscript/drafts/chapter-0137.md` — `2a1763770fe2b08550e578548df3615b58859fc8`
 
 ## Checks
 - PASS — buzzer-beater rule is explained: a ball already released at the end signal may still score afterward.
@@ -18,3 +18,14 @@
 - PASS — Tudor apologizes for targeting Vikir out of jealousy after the theory class.
 - PASS — Vikir remembers Tudor's future heroism in the Age of Destruction without importing later chronology into the present interaction.
 - PASS — Vikir removes his glasses and pushes back wet hair only to wash after the match, creating the visibility spike that closes the chapter.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the bystander's source-level reaction asking whether the person Sancho hit might **die**.
+
+The complete Test Your Skills family was reread after remediation. Chapter 134 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **133→E132 through 138→E137**; target 139/E138 begins *Men are Power (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Test Your Skills family QA.
