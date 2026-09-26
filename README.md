@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 44/273 remediation chapters complete through Test Your Skills (133–138); next affected family Men are Power (139–140)**
+- Current stage: **Phase 4 ACTIVE — 59/273 remediation chapters complete through Familiar Face (158–161); next affected family Sin and Punishment (162–169)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
 
-Phase 4 is active. Eighteen affected families are remediated/revalidated and rebound through **Test Your Skills (133–138)**. **44 / 273** remediation chapters are complete and **229** remain; Phase 4 has made **46** manuscript edits so far. Continue with **Men are Power (139–140)**, earliest remaining target Chapter **139**.
+Phase 4 is active. Twenty-four affected families are remediated/revalidated and rebound through **Familiar Face (158–161)**. **59 / 273** remediation chapters are complete and **214** remain; Phase 4 has made **61** manuscript edits so far. Continue with **Sin and Punishment (162–169)**, earliest remaining target Chapter **162**.
 
 ## Current source policy
 
