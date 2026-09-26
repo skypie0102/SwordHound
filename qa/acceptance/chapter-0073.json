@@ -2,8 +2,8 @@
   "chapter": 73,
   "title": "The Red Death (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Red Death",
     "range": [
@@ -11,7 +11,7 @@
       74
     ],
     "family_qa_path": "qa/families/red-death-0072-0074.md",
-    "family_qa_sha": "8899270579ac4a9d56a5497af6a70523e7c23669",
+    "family_qa_sha": "1f6270b8bb0f4cd58054e60039728720f28a5544",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-072.xhtml",
     "english_reference_sha": "15de32585922e667eeb7508af7c4b04e1c596f79",
     "draft_path": "manuscript/drafts/chapter-0073.md",
-    "draft_sha": "7ec4255821d6d640912a6848faf3394ef416ba2d",
+    "draft_sha": "37727a6a0637277188308d94133c10aed1c452ab",
     "qa_path": "qa/chapter-0073.md",
-    "qa_sha": "bf8efc732b0dac66c449b261357ec75c217950fa",
+    "qa_sha": "b00db11a711b2abbe33bf836f7f3b7a80e239bac",
     "provenance_path": "editorial/provenance/chapter-0073.json",
-    "provenance_sha": "739b2e54793a07ff76b0f5efab2da26d89f1946a"
+    "provenance_sha": "422231db7b00d1c712152085031f3865300f634c"
   },
   "canonical_checks": [
     "Mushuhushu",
@@ -39,5 +39,12 @@
     "Target 73 maps to E72.",
     "Mushuhushu window follows Chinese semantics; recovered-English Monsieur Hushu / Full-body Intestine Snake are rejected.",
     "The local Ka'ah specimen escapes wounded."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "family reread restored omitted toileting remark and leather-skirt gesture"
+  }
 }
