@@ -326,7 +326,9 @@ passed.
 
 “Did you see her jawline?”
 
-“She looks amazing.”
+“Her proportions are incredible too. Those lines are so elegant.”
+
+“We should've said hello.”
 
 The Corpse Queen—
 
@@ -458,11 +460,19 @@ Only slightly.
 
 Geronto tracked.
 
-The Queen—
+Their path wandered through—
 
-somehow—
+a handsome street bard's performance.
 
-accumulated—
+a dance troupe's stage.
+
+a water-balloon throwing game with prizes.
+
+a whack-a-mole stall.
+
+By the time they emerged from the detours—
+
+the Queen had somehow accumulated—
 
 a water balloon.
 
