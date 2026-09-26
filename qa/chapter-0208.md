@@ -19,3 +19,14 @@
 - PASS — Dolores's reaction to witch-costumed Vikir remains appearance comedy without recovered-English oversexualization.
 - PASS — Ryukeion sales explode; kitchen and advertising factions fight over where Vikir is most useful.
 - PASS — chapter ends when a familiar western-front figure removes Vikir from the argument.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** The queued defect consists of repeated sexualized “sexy” hyperbole about an Academy-age character. It remains a documented safety-limited exception rather than being intensified; unrelated source content remains intact.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**EXCEPTION-DOCUMENTED at chapter level after safety-limited revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.
