@@ -2,8 +2,8 @@
   "chapter": 203,
   "title": "Mixed Bath (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Mixed Bath",
     "range": [
@@ -11,8 +11,8 @@
       205
     ],
     "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
-    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
-    "status": "pass"
+    "family_qa_sha": "7b48b13d3c897c92a6dac815bb52ccea7a377c98",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/203.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-201.xhtml",
     "english_reference_sha": "1837e0dd89b14ce0defcd2ab77b7d97cf24971ea",
     "draft_path": "manuscript/drafts/chapter-0203.md",
-    "draft_sha": "7dcf4379def72d981db05036ec9b80867acf030c",
+    "draft_sha": "4e9eb126296597078a788a3fed418f3f6f61166e",
     "qa_path": "qa/chapter-0203.md",
-    "qa_sha": "1257ae702365599e13f251c58d17b49782eb7945",
+    "qa_sha": "c7db90e2a26e3c3d9618da76163b8e035cc80d72",
     "provenance_path": "editorial/provenance/chapter-0203.json",
-    "provenance_sha": "d5bff6aba959a690cdcb429373e94c2ace0783cb"
+    "provenance_sha": "b3fb137dbbda4a68cc002c1d5ada3f80fb02422a"
   },
   "canonical_checks": [
     "Vikir",
@@ -43,5 +43,12 @@
     "Snake's Seere contract remains future-history.",
     "Six bully names are source/witness transliterations only."
   ],
-  "next_family_alignment_note": "Target206→E204 begins Festival Night (1)."
+  "next_family_alignment_note": "Target206→E204 begins Festival Night (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored humiliation/torment force, unknown-retaliator cause-and-effect, and explicit burn-alive threat"
+  }
 }
