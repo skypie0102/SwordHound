@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 111/273 remediation chapters complete through Suspicion (234–235); next affected family National University League (236–244)**
+- Current stage: **Phase 4 ACTIVE — 114/273 remediation chapters complete through National University League (236–244); next affected family Survival Contest (245–249)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
 
-Phase 4 is active. Thirty-eight affected families are remediated/revalidated and rebound through **Suspicion (234–235)**. **111 / 273** remediation chapters are complete and **162** remain; Phase 4 has made **111** manuscript edits so far. Continue with **National University League (236–244)**, earliest remaining target Chapter **236**.
+Phase 4 is active. Thirty-nine affected families are remediated/revalidated and rebound through **National University League (236–244)**. **114 / 273** remediation chapters are complete and **159** remain; Phase 4 has made **114** manuscript edits so far. Continue with **Survival Contest (245–249)**, earliest remaining target Chapter **247**.
 
 ## Current source policy
 
