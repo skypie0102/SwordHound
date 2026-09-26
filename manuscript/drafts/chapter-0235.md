@@ -232,7 +232,7 @@ behind a building.
 
 “That crazy dog again!”
 
-“Get it!”
+“Die! Hurry up and die!”
 
 “It bit me!”
 
@@ -304,21 +304,11 @@ She stopped.
 
 Because—
 
-the six—
+all six—
 
-were the ones bleeding.
+had their clothes in tatters—
 
-Clothes—
-
-torn.
-
-Arms—
-
-scratched.
-
-Legs—
-
-bitten.
+and were covered in blood.
 
 Choco moved—
 
@@ -386,11 +376,11 @@ picked him up.
 
 “Hm?”
 
-She smelled—
+Dolores buried her face between Choco's chin and neck and sniffed his fur.
 
-something familiar—
+Something familiar—
 
-in the fur.
+in the scent.
 
 Not street dirt.
 
