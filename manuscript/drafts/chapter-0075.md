@@ -248,7 +248,7 @@ Vikir entrusted Pomeranian to him.
 
 “She's important. Don't interrogate her. Give her proper food, medicine, and basic education until I return.”
 
-Chihuahua did not hesitate.
+Chihuahua still remembered his absent former deputy so vividly that sometimes, when he drank, his eyes would turn red. He did not hesitate now.
 
 He summoned a city-hall physician.
 
