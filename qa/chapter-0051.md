@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/051.txt` — `0b85b6565e7ac2009d9e413cba72e49e621d5e9e`
 - Recovered English reference: `source/chapters/chapter-051.xhtml` — `63ad5fc0d15370c4c1f12cae2c8c3dace426ca46`
-- Draft: `manuscript/drafts/chapter-0051.md` — `429c9af4d1e427789541037036d0647ab63a852d`
+- Draft: `manuscript/drafts/chapter-0051.md` — `b3453b6e33173b931e7538f697f84cd6020ae8b2`
 - Boundary witness: Chinese/recovered English Ch. 52 begin a new title family.
 
 ## Alignment
@@ -39,3 +39,11 @@ One isolated Chinese line says the confrontation occurs in Madam Eight-Legs' hom
 ## Spoiler / corruption check
 
 No later Madam Eight-Legs titles, offspring, battle outcomes, or later Ballak biography are imported. Recovered-English `teeth`, `Gradual Intermediate`, and gender corruption are rejected in favor of established **Fangs / Mid Sword Graduator** terminology.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored the source-explicit ordinary bodily detail: Camus is covered in tears with snot running from her nose while reaching for Vikir. The complete 46–51 family was reread after repair; no additional Chapter 51 defect remains.
+
+## Phase-4 decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 46–51 family QA.
