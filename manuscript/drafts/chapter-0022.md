@@ -44,9 +44,11 @@ Then the familiar face emerged.
 
 A prodigy from a magical family that had produced countless great mages.
 
-In adulthood, Camus would possess not only exceptional magical ability but also beauty and political skill that made her a formidable presence in high society.
+In adulthood, Camus would wield not only exceptional magical power but beauty that captivated the men of high society, and she was adept at using that beauty as a deliberate seduction tactic.
 
-She would enter several political marriages, each one strengthening the Morgue Clan's position.
+Her mature, curvaceous figure was said to be difficult even for proud imperial nobles to resist, helping turn her into a living embodiment of political power.
+
+She would enter several political marriages, each one greatly strengthening the Morgue Clan's prestige.
 
 At the height of her power, she would personally campaign through Le Rouge et Le Noir Mountain, hunting monsters and barbarians with spear and fire and establishing a frontier marked by blood and ash.
 
