@@ -1418,7 +1418,7 @@
     "historical_accepted_count_at_opening": 500,
     "sanitization_revalidated_count": 500,
     "completeness_revalidated_count": 500,
-    "boundary_alignment_revalidated_count": 362,
+    "boundary_alignment_revalidated_count": 368,
     "confirmed_failures": [
       {
         "chapter": 22,
@@ -1563,10 +1563,10 @@
     ],
     "current_phase": "phase_3_boundary_alignment_exception_integrity_pass",
     "next_family": {
-      "name": "Ghost Castle of the Ultra-Deep Sea",
+      "name": "The Servant",
       "range": [
-        363,
-        365
+        369,
+        370
       ]
     },
     "epub_assembly_blocked": true,
@@ -1622,7 +1622,7 @@
       "evidence": "qa/cycle2-phase2-checkpoint-0500.md"
     },
     "phase3_status": "active",
-    "phase3_reviewed_count": 362,
+    "phase3_reviewed_count": 368,
     "phase3_start_family": {
       "name": "Hellhound",
       "range": [
@@ -1636,27 +1636,27 @@
     "confirmed_failures_note": "The embedded confirmed_failures array is an early Phase-1 detail snapshot only. The authoritative complete Phase-1/Phase-2 failure population and remediation flags are in qa/cycle2-ledger.json; current aggregate counts are recorded in phase1_summary and phase2_summary.",
     "phase3_pass_count": 53,
     "phase3_fail_count": 2,
-    "phase3_exception_documented_count": 307,
-    "phase3_families_reviewed_count": 86,
+    "phase3_exception_documented_count": 313,
+    "phase3_families_reviewed_count": 88,
     "phase3_families_pass_count": 14,
     "phase3_families_fail_count": 2,
-    "phase3_new_source_exception_rows": 295,
+    "phase3_new_source_exception_rows": 301,
     "phase3_manuscript_edits": 0,
-    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0362.md",
+    "phase3_checkpoint": "qa/cycle2-phase3-checkpoint-0368.md",
     "phase3_last_completed_family": {
-      "name": "Voluntary Escort",
+      "name": "The Underground Extension Construction",
       "range": [
-        359,
-        362
+        366,
+        368
       ],
       "result": "exception-documented",
-      "evidence": "qa/cycle2/boundary/voluntary-escort-0359-0362.md"
+      "evidence": "qa/cycle2/boundary/underground-extension-0366-0368.md"
     },
     "phase3_next_family": {
-      "name": "Hell Tree",
+      "name": "The Servant",
       "range": [
-        307,
-        313
+        369,
+        370
       ]
     },
     "phase3_open_structural_failures": [
@@ -1665,10 +1665,11 @@
     ],
     "phase3_exception_table_normalization": {
       "baseline_rows": 36,
-      "current_rows": 331,
-      "genuine_phase3_additions": 295,
+      "current_rows": 337,
+      "genuine_phase3_additions": 301,
       "redundant_rows_removed": 75,
       "baseline_rows_altered": 0
-    }
+    },
+    "phase3_families_exception_documented_count": 72
   }
 }
