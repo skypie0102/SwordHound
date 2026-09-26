@@ -68,7 +68,7 @@ crying.
 
 CRACK.
 
-Granola ground his teeth hard enough to make them hurt.
+Granola ground his teeth until they cracked.
 
 “Shut up.”
 
