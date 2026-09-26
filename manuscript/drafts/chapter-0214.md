@@ -280,6 +280,18 @@ Only Dolores—
 
 knew differently.
 
+She watched the Night Hound with deep affection.
+
+To her—
+
+he was a pilgrim walking a road of sacrifice and suffering,
+
+giving himself for others without complaint.
+
+Seeing him bear all that blood and all those wounds alone—
+
+her gaze softened with pity.
+
 *Please don't get hurt.*
 
 The Queen—
