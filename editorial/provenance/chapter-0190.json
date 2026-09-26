@@ -9,8 +9,8 @@
       196
     ],
     "family_qa_path": "qa/families/attack-land-0190-0196.md",
-    "family_qa_sha": "8220b5dc193098d15d50cdaa603aece714a7702d",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "452f95fd219d05522abb26135f1312dadfa64253",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/190.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0190.md",
-    "blob_sha": "4947fe8cc91d74f0f7f51db1d73afddb722cb3fa"
+    "blob_sha": "663085d1abb1fa10a817b9647c326ce650757850"
   },
   "qa": {
     "path": "qa/chapter-0190.md",
-    "blob_sha": "cf9e56751ea3deacd907ca70c6fa74c70769e6d7",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "1c50ab9c7a6a57fe670cb1c3bf61024b3550c0ba",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,7 +55,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/197.txt",
     "chinese_sha": "38fc85cf2f23fa3794346eb2016bb9804e4d7b8a",
@@ -74,5 +74,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/attack-land-0190-0196.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      190,
+      196
+    ],
+    "manuscript_changed": true,
+    "note": "removed prematurely duplicated remote-body synchronization details"
   }
 }
