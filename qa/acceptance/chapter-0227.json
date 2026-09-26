@@ -2,8 +2,8 @@
   "chapter": 227,
   "title": "Tuition (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Tuition",
     "range": [
@@ -11,8 +11,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/227.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0227.md",
     "qa_sha": "eb53049dd40d6002297bca61c3a1e141df626728",
     "provenance_path": "editorial/provenance/chapter-0227.json",
-    "provenance_sha": "e85fd8c298c51def9e61c3000103c3f5c6e0f663"
+    "provenance_sha": "eadb9481f66f267043836c78b86ed0e9b26b8f17"
   },
   "canonical_checks": [
     "Sherpa Guild",
@@ -50,5 +50,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
