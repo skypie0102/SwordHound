@@ -10,10 +10,10 @@
 |---|---|---|---|---|---|---|
 | 46 | `source/chinese/chapters/046.txt` | `325e92501828c070a163fed83b1ef0089f4beb27` | `source/chapters/chapter-046.xhtml` | `04a250fc2c638a60e88f363a5e85ff81bd838c7f` | `890f9bc15c6f33da72c3bfb68c0ed17162ac4f97` | `qa/chapter-0046.md` — PASS |
 | 47 | `source/chinese/chapters/047.txt` | `34f8dc0298a7c898333b642016e7a3f410729739` | `source/chapters/chapter-047.xhtml` | `12b422a1e79086b317dc58d0d95140005262b0c1` | `62398e8c0c50ec82ccf8dfd2d2c0216a0398a650` | `qa/chapter-0047.md` — PASS |
-| 48 | `source/chinese/chapters/048.txt` | `d6b3593e2fdb18e22f3279872afa515c1f7d6e18` | `source/chapters/chapter-048.xhtml` | `4d2f292ef1a7fc3701b1af13874a27d1b2d2fe81` | `11125e08c987906ac3f57329afa6c9b88681683a` | `qa/chapter-0048.md` — PASS |
+| 48 | `source/chinese/chapters/048.txt` | `d6b3593e2fdb18e22f3279872afa515c1f7d6e18` | `source/chapters/chapter-048.xhtml` | `4d2f292ef1a7fc3701b1af13874a27d1b2d2fe81` | `07b3aca8dac1093c236a062cf8bf017b73f49b3c` | `qa/chapter-0048.md` — PASS |
 | 49 | `source/chinese/chapters/049.txt` | `67bf8cd54a8e9899580d276f31a450f69a80fca0` | `source/chapters/chapter-049.xhtml` | `158d9d8dceeea506dd3355b7d8e906b6b3515f11` | `8d6f0d7d9fec645a15ce543f15f62e8685171120` | `qa/chapter-0049.md` — PASS WITH RAW-GAP RESTORATION |
 | 50 | `source/chinese/chapters/050.txt` | `1b14b2ee6c95ca12e093288ffb064aaedd2220e0` | `source/chapters/chapter-050.xhtml` | `8de87a16c6295969054df6c2de4d0c9d40cedda8` | `767c670a23f2c0e39886220a059f0bac4a754036` | `qa/chapter-0050.md` — PASS |
-| 51 | `source/chinese/chapters/051.txt` | `0b85b6565e7ac2009d9e413cba72e49e621d5e9e` | `source/chapters/chapter-051.xhtml` | `63ad5fc0d15370c4c1f12cae2c8c3dace426ca46` | `429c9af4d1e427789541037036d0647ab63a852d` | `qa/chapter-0051.md` — PASS WITH CONTEXTUAL RAW CORRECTION |
+| 51 | `source/chinese/chapters/051.txt` | `0b85b6565e7ac2009d9e413cba72e49e621d5e9e` | `source/chapters/chapter-051.xhtml` | `63ad5fc0d15370c4c1f12cae2c8c3dace426ca46` | `b3453b6e33173b931e7538f697f84cd6020ae8b2` | `qa/chapter-0051.md` — PASS WITH CONTEXTUAL RAW CORRECTION |
 | boundary | `source/chinese/chapters/052.txt` | `e2bc13949910b9abb7d4085e9cd858de1cca0e25` | `source/chapters/chapter-052.xhtml` | `bfb4389c3f6342b2426691d03ea07af21e3c30cf` | — | new family: *Slaves of the Savage Tribe (1)* |
 
 Target 46→46 through 51→51 are verified by complete content alignment, not numbering alone. Chinese Ch. 47 uses the heading variant `婚姻狩猎 (2)`, while its numbered continuity and recovered-English title firmly place it in the same six-part family.
@@ -71,3 +71,18 @@ PASS. The raid deaths, capture-by-lasso, Camus's bound/naked prisoner state, Ahu
 ## Family acceptance result
 
 **PASS.** Chapters 46–51 form one complete, internally continuous title family and are ready for provenance/acceptance binding.
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 48: corrected Lowbro's injury callback from plural “fingers” to the continuity-supported single **right index finger**.
+- Chapter 51: restored the source-explicit ordinary bodily detail that Camus is covered in tears with **snot running from her nose** while reaching for Vikir.
+- Chapters 46, 47, 49, and 50 were reread with no ordinary manuscript correction required.
+- The Chapter-49 localized Chinese raw-gap exception remains scoped exactly as documented.
+- Safety-limited material in Chapters 48–50 remains unchanged; surrounding ordinary plot/violence/continuity was revalidated.
+- Sanitization and completeness gates were rerun across the complete 46–51 family after the two repairs.
+- Chapter QA, provenance, acceptance, tracker acceptance bindings, and Cycle-2 remediation status are refreshed for all six chapters.
+
+**Phase-4 disposition:** family clear; continue to **Slaves of the Savage Tribe (52–54)**.
