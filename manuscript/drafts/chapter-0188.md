@@ -394,9 +394,9 @@ continued.
 
 “How?”
 
-“Excessive violence during sparring.”
+“Severely beating talented students under the guise of sparring—”
 
-“Serious injuries.”
+“beating them badly enough to leave them disabled.”
 
 “Deliberately leaving students traumatized.”
 
