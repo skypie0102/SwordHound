@@ -26,3 +26,14 @@
 - PASS — her damaged voice briefly resembles a voice from Vikir's past.
 - PASS — second clash cracks the mask further and triggers the childhood memory: “No! Vikir! Please come back!”
 - PASS — **reveal guard:** the draft does not name the Queen. The explicit **Camus Morgue** reveal belongs to target 216.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved/revalidated 2026-09-27.** Complete-family reread passed unchanged; no ordinary defect was found.
+
+The complete Festival Night family was reread. Mapping remains **206→E204 through 215→E213**; target **216→E214** begins *My Neck Will Be Your Sheath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Festival Night family QA.
