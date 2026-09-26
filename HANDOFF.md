@@ -18,7 +18,9 @@
 **Phase-0 merge commit:** 1200bb1183aef5df766be7ed8818f9137cb88254  
 **Wave-A integration:** PR #145 MERGED  
 **Wave-A merge commit:** 8489281a01b025c5effabb172545fc110fc82ae9  
-**Next Phase-3 working branch after integration:** `audit/cycle2-phase3-boundary`
+**Phase-2 integration:** PR #147 MERGED  
+**Phase-2 integration merge commit:** 3c36802516de03e0d2180392ac0e8e4747261ce5  
+**Phase-3 working branch:** `audit/cycle2-phase3-boundary`
 
 ## Why the project focus changed
 
@@ -134,7 +136,7 @@ Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`, family evidence under `
 
 ## Exact next actions
 
-1. After this checkpoint is integrated into `main`, continue **Phase 3** on `audit/cycle2-phase3-boundary` with corpus boundary/alignment/exception integrity verification from the start of the corpus.
+1. Continue **Phase 3** on `audit/cycle2-phase3-boundary` with corpus boundary/alignment/exception integrity verification from the start of the corpus.
 2. Recheck all **118 title-family boundaries**, chapter opening/closing transitions, shared/combined Chinese raw containers, shifted English witness mappings, localized source gaps, and Side Story splits/order.
 3. Reconcile every documented exception against `source/chinese/chapter-exceptions.tsv`; add any newly confirmed structural exception only with evidence.
 4. Pay particular attention to duplicated/displaced material already surfaced in Phase 2 (for example Chapters 78, 190, and 236) without editing manuscripts yet.

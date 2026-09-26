@@ -1,8 +1,8 @@
 # Reconstruction Progress
 
-## 2026-09-26 — Cycle 2 Phase 3 integration checkpoint
+## 2026-09-26 — Cycle 2 Phase 3 handoff integrated to main
 
-Phase 1 and Phase 2 discovery are fully closed and the live documentation has been synchronized for the Phase-3 handoff.
+Phase 1 and Phase 2 discovery are fully closed, the live documentation is synchronized, and the Phase-3 handoff has been integrated to `main` via PR #147 (merge commit `3c36802516de03e0d2180392ac0e8e4747261ce5`).
 
 - sanitization: **500 / 500 COMPLETE** — **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED**;
 - completeness: **500 / 500 COMPLETE** — **229 PASS / 271 FAIL**;
@@ -12,7 +12,7 @@ Phase 1 and Phase 2 discovery are fully closed and the live documentation has be
 - manuscript edits during Phase-1/Phase-2 discovery: **0**;
 - EPUB assembly remains blocked.
 
-**Next:** integrate this checkpoint into `main`, then continue Phase 3 on `audit/cycle2-phase3-boundary` from the corpus start. Keep the 273-chapter remediation queue frozen until Phase 3 closes.
+**Next:** continue Phase 3 on `audit/cycle2-phase3-boundary` from the corpus start. Keep the 273-chapter remediation queue frozen until Phase 3 closes.
 
 ## 2026-09-26 — Cycle 2 Phase 2 COMPLETE at 500 / 500
 
