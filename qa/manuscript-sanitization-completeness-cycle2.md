@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 33/273 remediation chapters complete; next affected family Nostalgia (101–104)
+**Current stage:** Phase 4 ACTIVE — 44/273 remediation chapters complete; next affected family Men are Power (139–140)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 33  
-**Remaining remediation chapters:** 240  
-**Completed affected families:** 14  
-**Current next family:** Nostalgia (101–104)  
-**Earliest remaining target:** Chapter 101
+**Completed remediation chapters:** 44  
+**Remaining remediation chapters:** 229  
+**Completed affected families:** 18  
+**Current next family:** Men are Power (139–140)  
+**Earliest remaining target:** Chapter 139
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Nostalgia (101–104)**.
-2. Reread the complete family and remediate flagged Chapters **101** and **103** only where supported by Chinese-primary source.
-3. Re-run both content gates across the family and refresh all evidence/hash bindings.
-4. Keep EPUB assembly blocked.
+1. Continue Phase 4 with **Men are Power (139–140)**.
+2. Repair all source-supported queued defects after a complete-family reread.
+3. Re-run sanitization fidelity and completeness across the family.
+4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-26
@@ -190,13 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **33**;
-- remaining remediation chapters: **240**;
-- affected families completed: **14**;
-- manuscript edits: **35**;
-- last completed affected family: **The Ghosts of the Ancestors (90–94)**;
-- latest manuscript repair: Chapter **94**;
-- next affected family: **Nostalgia (101–104)**;
-- earliest remaining target: **101**;
-- all completed affected families through Chapter 94 have refreshed evidence/hash bindings;
+- completed remediation chapters: **44**;
+- remaining remediation chapters: **229**;
+- affected families completed: **18**;
+- manuscript edits: **46**;
+- last completed affected family: **Test Your Skills (133–138)**;
+- next affected family: **Men are Power (139–140)**;
+- earliest remaining target: **139**;
+- all completed affected families through Chapter 138 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
