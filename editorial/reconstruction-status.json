@@ -1665,15 +1665,26 @@
       "baseline_rows_altered": 0
     },
     "phase3_families_exception_documented_count": 102,
-    "phase4_status": "ready_not_started",
+    "phase4_status": "active",
     "phase4_next_family": {
-      "name": "Camus Morgue",
+      "name": "The Saintess",
       "range": [
-        20,
-        25
+        78,
+        82
       ]
     },
-    "phase4_earliest_remediation_chapter": 22,
-    "phase4_manuscript_edits": 0
+    "phase4_earliest_remediation_chapter": 78,
+    "phase4_manuscript_edits": 27,
+    "phase4_remediation_completed_chapters": 25,
+    "phase4_remediation_remaining_chapters": 248,
+    "phase4_families_completed": 11,
+    "phase4_last_completed_family": {
+      "name": "The Hound of the Night",
+      "range": [
+        75,
+        77
+      ]
+    },
+    "phase4_checkpoint_date": "2026-09-26"
   }
 }
