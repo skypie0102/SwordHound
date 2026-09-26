@@ -94,6 +94,8 @@ Vikir remembered the newspaper.
 >
 > The target was the historic **Central Clocktower**, long regarded as a symbol of Imperial order and peace.
 >
+> The attack also caused deaths; the exact death toll was still being reported.
+>
 > The Imperial House has announced that every possible measure will be taken to capture the criminal responsible.
 
 The copycat.
@@ -132,9 +134,9 @@ Whatever the motive—
 
 Vikir needed to find the attacker.
 
-And kill them—
+And kill them.
 
-if necessary.
+Nothing was more important right now.
 
 He stood on the broken tower.
 
