@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/166.txt` — `5fb84d087e2a7f3048b3d6fd0096494e7ee95f42`
 - English witness: **E165** — `aff6117fe247984bb19553884da81ab4a3ccdc72`
-- Draft: `manuscript/drafts/chapter-0166.md` — `2cb57d300ba3eb51cc946aa8d80e31e80014a65a`
+- Draft: `manuscript/drafts/chapter-0166.md` — `ac38938c57629d23523022c94574b6405a2bb471`
 
 ## Checks
 - PASS — Vikir's Sack of Love is genuinely empty; the spell succeeds and its mana/backlash prove the absence is meaningful, not a failed cast.
@@ -20,3 +20,14 @@
 - PASS — source explicitly identifies **soul resonance** and a **soulmate** relationship as the Saintess-awakening condition.
 - PASS — Dolores's awakened buff increases dramatically and flows into Vikir.
 - PASS — chapter ends exactly as Vikir crosses the previously impassable wall into the **Sword Master** realm through the temporary buff.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** Restored blood, flesh, and internal-organ fragments spreading across the floor like asphalt; **more than five hundred** brushes with death; and Dolores's concrete impulse to embrace his wounded soul, hold his thorn-cut feet, and take his blade-scarred hands.
+
+The complete Sin and Punishment family was reread after remediation. Chapters 164 and 169 remain unchanged and pass both Cycle-2 content gates. Mapping remains **162→E161 through 167→E166, 168→no recovered-English witness, 169→E167**; target 170/E168 begins *Adorable Pet (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Sin and Punishment family QA.
