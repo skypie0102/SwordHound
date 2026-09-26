@@ -1,5 +1,25 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 3 cleared Chapters 1–25
+
+Phase-3 structural revalidation is underway on `audit/cycle2-phase3-boundary`.
+
+- boundary/alignment reviewed: **25 / 500**;
+- PASS: **25**;
+- FAIL: **0**;
+- EXCEPTION-DOCUMENTED: **0**;
+- title families reviewed: **7 / 118**;
+- new source-exception rows: **0**;
+- manuscript edits during Phase 3: **0**;
+- Phase-4 remediation population remains frozen at **273 unique chapters**;
+- checkpoint: `qa/cycle2-phase3-checkpoint-0025.md`.
+
+Cleared families: **Hellhound (1–3)**, **The Baskerville Dog (4–7)**, **Hounds of Hell (8–11)**, **The Gluttonous Flies (12–13)**, **Solitary (14–17)**, **Bared Teeth (18–19)**, and **Camus Morgue (20–25)**.
+
+Structural notes: Chapter 1→2's Cradle/Styx replay and the Chapter 10→11 Cerberus re-identification are source-authentic repetitions; Chapter 12→13's Beelzebub inscription overlap is source-authentic; recovered English Chapter 16 alone duplicates its fire paragraph, while Chinese and the accepted manuscript contain it once and prior QA/provenance already record the witness defect; Chapter 25→26 is a clean seven-year-timeskip family break.
+
+**Next:** continue with **The Graduate (26–27)**. Keep all manuscript remediation deferred to Phase 4 and EPUB assembly blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 3 handoff integrated to main
 
 Phase 1 and Phase 2 discovery are fully closed, the live documentation is synchronized, and the Phase-3 handoff has been integrated to `main` via PR #147 (merge commit `3c36802516de03e0d2180392ac0e8e4747261ce5`).
