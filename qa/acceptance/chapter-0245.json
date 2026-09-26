@@ -2,8 +2,8 @@
   "chapter": 245,
   "title": "Survival Contest (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Survival Contest",
     "range": [
@@ -11,8 +11,8 @@
       249
     ],
     "family_qa_path": "qa/families/survival-contest-0245-0249.md",
-    "family_qa_sha": "f7eb9e854fc1be7fb6d98d2c9a86e65449c09282",
-    "status": "pass"
+    "family_qa_sha": "1d9204cc4da5b32c361e247c4f705b228df68695",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/245.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0245.md",
     "qa_sha": "d7092afd3aa74b4b6374ad5864e2060db5b58865",
     "provenance_path": "editorial/provenance/chapter-0245.json",
-    "provenance_sha": "b4ff013c5837ff6666ad048824bd8fad06b46d7e"
+    "provenance_sha": "fbe0459fbf1f8c013374066ace49f2ae8c8e3dd7"
   },
   "canonical_checks": [
     "Vikir",
@@ -45,5 +45,12 @@
     "Bakilaga’s Dolores/Vikir relationship claim is a misunderstanding.",
     "Colosseo principal’s absence reason remains unrevealed."
   ],
-  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3)."
+  "next_family_alignment_note": "Target250→E248 begins Recap (1); targets250–252 align to E248–E250, with Chinese C252 titled Celebration Banquet (3) while E250 groups it as Recap (3).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
