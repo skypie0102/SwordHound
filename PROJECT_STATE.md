@@ -10,7 +10,7 @@
 **Sanitization FAIL:** 200 / 500
 **Sanitization SAFETY-LIMITED-REVIEWED:** 18 / 500
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
-**Boundary/alignment revalidated:** 362 / 500 — 53 PASS / 2 FAIL / 307 EXCEPTION-DOCUMENTED across 86 / 118 families  
+**Boundary/alignment revalidated:** 368 / 500 — 53 PASS / 2 FAIL / 313 EXCEPTION-DOCUMENTED across 88 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
 **Current phase:** Phase 3 ACTIVE — full-corpus boundary/alignment/exception integrity pass
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
@@ -21,7 +21,7 @@
 
 The immediate project focus is **Cycle 2 Phase 3: full-corpus boundary/alignment/exception integrity verification**.
 
-Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The current structural pass has cleared Chapters **1–25** across **7 / 118** contiguous title families and now continues with **The Graduate (26–27)**. It rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
+Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The current structural pass has reviewed Chapters **1–368** across **88 / 118** contiguous title families and now continues with **The Servant (369–370)**. It rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
 
 The 2026-09-20 post-500 completeness audit remains a closed historical cycle. It found and repaired major compression failures, including Chapters 59, 97, 316, 319, and 420, and ended with 500 accepted / 0 known rework. Cycle 2 remains a stricter release-blocking revalidation cycle; historical acceptance is evidence, not automatic clearance.
 
@@ -89,7 +89,7 @@ Phase 2 completeness is **COMPLETE through Chapter 500**:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Phase 3 is active and has structurally reviewed **362 / 500** targets across **86 / 118** families with **53 PASS / 2 FAIL / 307 EXCEPTION-DOCUMENTED**, **295 genuine new source-exception rows** after duplicate-ledger normalization, and **0 manuscript edits**. Open structural failures are Chapters **273 and 283** and remain deferred to Phase 4. Checkpoint: `qa/cycle2-phase3-checkpoint-0362.md`. Next: **Ghost Castle of the Ultra-Deep Sea (363–365)**.
+Phase 3 is active and has structurally reviewed **368 / 500** targets across **88 / 118** families with **53 PASS / 2 FAIL / 313 EXCEPTION-DOCUMENTED**, **301 genuine new source-exception rows** after duplicate-ledger normalization, and **0 manuscript edits**. Open structural failures are Chapters **273 and 283** and remain deferred to Phase 4. Checkpoint: `qa/cycle2-phase3-checkpoint-0368.md`. Next: **The Servant (369–370)**.
 
 ## Release gate
 
