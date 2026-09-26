@@ -2,16 +2,53 @@
   "chapter": 41,
   "title": "Morgue's United Front (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Morgue's United Front","range":[40,42],"family_qa_path":"qa/families/morgue-united-front-0040-0042.md","family_qa_sha":"4d9218d405809337682b7f114b055076d970d8e3","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/041.txt","primary_source_sha":"e14c8f6d51bbfff8d70ad08c9210c20c328f35bd",
-    "english_reference_path":"source/chapters/chapter-041.xhtml","english_reference_sha":"6f26e1b0d0263d8058396d8bc88d373cd88f1e11",
-    "draft_path":"manuscript/drafts/chapter-0041.md","draft_sha":"51282f4dc00cd391bdc602e00d221d8bfc896478",
-    "qa_path":"qa/chapter-0041.md","qa_sha":"2331dbecb297a4e3e153f7090edbe5363b1d43fc",
-    "provenance_path":"editorial/provenance/chapter-0041.json","provenance_sha":"d6256a6909b93c4265e500a11f1bf74465ef1774"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Morgue's United Front",
+    "range": [
+      40,
+      42
+    ],
+    "family_qa_path": "qa/families/morgue-united-front-0040-0042.md",
+    "family_qa_sha": "c64367bdad75c36def92638c6428101c21edf167",
+    "status": "pass"
   },
-  "canonical_checks": ["Staffordshire Baskerville","Boston Terrier Le Baskerville","Pit Bull Knights","Morgue Clan","Light Faction","Dark Faction","Highsis Morgue","Middlesis Morgue","Lowsis Morgue","Three Flowers of Morgue","Samhwa / Three Plagues"],
-  "documented_limits": ["Recovered-English Wolfhound rivalry dialogue absent from Chinese is excluded.","Grand/Middle Senator labels remain source-descriptive pending stronger dedicated canonical evidence.","Specific elemental assignments are controlled by the Chinese Chapter 42 scene where the wiki summary conflicts."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/041.txt",
+    "primary_source_sha": "e14c8f6d51bbfff8d70ad08c9210c20c328f35bd",
+    "english_reference_path": "source/chapters/chapter-041.xhtml",
+    "english_reference_sha": "6f26e1b0d0263d8058396d8bc88d373cd88f1e11",
+    "draft_path": "manuscript/drafts/chapter-0041.md",
+    "draft_sha": "51282f4dc00cd391bdc602e00d221d8bfc896478",
+    "qa_path": "qa/chapter-0041.md",
+    "qa_sha": "2331dbecb297a4e3e153f7090edbe5363b1d43fc",
+    "provenance_path": "editorial/provenance/chapter-0041.json",
+    "provenance_sha": "e82df7e5252abd21e092601dc92acbe8a7400abc"
+  },
+  "canonical_checks": [
+    "Staffordshire Baskerville",
+    "Boston Terrier Le Baskerville",
+    "Pit Bull Knights",
+    "Morgue Clan",
+    "Light Faction",
+    "Dark Faction",
+    "Highsis Morgue",
+    "Middlesis Morgue",
+    "Lowsis Morgue",
+    "Three Flowers of Morgue",
+    "Samhwa / Three Plagues"
+  ],
+  "documented_limits": [
+    "Recovered-English Wolfhound rivalry dialogue absent from Chinese is excluded.",
+    "Grand/Middle Senator labels remain source-descriptive pending stronger dedicated canonical evidence.",
+    "Specific elemental assignments are controlled by the Chinese Chapter 42 scene where the wiki summary conflicts."
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_family_revalidation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "family reread confirmed no manuscript correction required"
+  }
 }
