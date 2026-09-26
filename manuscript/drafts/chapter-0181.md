@@ -82,6 +82,20 @@ Bianca.
 
 Vikir had his own small cheering section.
 
+“Keep it up, friend! We're cheering for you!”
+
+“Vikir's quietly stacking a lot of assists. At this rate he'll get a solid score.”
+
+“Wow, Vikir's archery is really good. It isn't flashy, but he's slowing the ants down effectively!”
+
+Sinclaire smiled.
+
+“What a shame. If I were grouped with him, I think we'd coordinate really well.”
+
+Bianca immediately objected.
+
+“What are you talking about? Only an archer understands another archer. If he were in my group, our score would double.”
+
 At Dolores's suggestion—
 
 the first-years had been encouraged to split Cold and Hot Department teams where possible.
@@ -669,3 +683,18 @@ Only an empty shell remained.
 Baby Madam—
 
 had molted.
+
+
+◆◆◆
+
+Elsewhere, Granola continued pestering Sinclaire.
+
+“Hehe. Hey, commoner. Let's do well too.”
+
+Sinclaire ignored him.
+
+“Commoner, are you listening?”
+
+No answer.
+
+“Are you deaf? Hmph. Can't you hear me?”
