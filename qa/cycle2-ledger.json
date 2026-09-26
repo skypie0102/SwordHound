@@ -333,7 +333,14 @@
         42
       ],
       "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        40,
+        42
+      ],
+      "phase4_rebind_complete": true
     },
     {
       "index": 14,
@@ -5687,13 +5694,17 @@
         "Cycle 2 Phase 2 FAIL: the source says the close-range assassin lightly stabs Vikir in the chest; the draft reduces the attack itself to the dagger merely touching his chest, retaining only the resulting scratch.",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 41,
@@ -5747,7 +5758,11 @@
       "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "family_revalidated_no_manuscript_change",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 42,
@@ -5796,13 +5811,17 @@
         "Cycle 2 Phase 2 FAIL: the draft retrospectively invents 'a few fingers' being lost, while source continuity establishes Lowbro's single right index finger as the severed/healed injury.",
         "Cycle 2 Phase 3 PASS: title-family boundary, target-to-source/English alignment, adjacent opening/closing continuity, and exception-table applicability revalidated; no structural remediation required."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/morgue-united-front-0040-0042.md",
       "completeness_review_file": "qa/cycle2/completeness/morgue-united-front-0040-0042.md",
       "completeness_reviewed_date": "2026-09-23",
       "boundary_review_file": "qa/cycle2/boundary/morgue-united-front-0040-0042.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 43,
@@ -37753,22 +37772,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 5,
-    "remediation_remaining_chapters": 268,
-    "families_completed": 2,
+    "remediation_completed_chapters": 7,
+    "remediation_remaining_chapters": 266,
+    "families_completed": 3,
     "last_completed_family": {
-      "name": "Slave Auction",
-      "start": 35,
-      "end": 37
-    },
-    "next_family": {
       "name": "Morgue's United Front",
       "start": 40,
       "end": 42
     },
-    "earliest_remediation_chapter": 40,
-    "manuscript_edits": 5,
-    "evidence_rebind_status": "Camus Morgue 20-25 and Slave Auction 35-37 complete",
+    "next_family": {
+      "name": "The Husband Hunt",
+      "start": 46,
+      "end": 51
+    },
+    "earliest_remediation_chapter": 48,
+    "manuscript_edits": 7,
+    "evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, and Morgue's United Front 40-42 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
