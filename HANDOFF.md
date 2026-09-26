@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — Camus Morgue (20–25) remediated/rebound; next family Slave Auction (35–37)
+**Current audit stage:** Phase 4 ACTIVE — 6 affected families complete through The Hunter and the Hunted (55–60); next family The Protagonist of Hunting (61–63)
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -162,20 +162,26 @@ Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the firs
 ## Phase 4 progress
 
 - **Camus Morgue (20–25): COMPLETE**
-- Manuscript changes: Chapters **22, 24**
-- Family-wide evidence rebound: Chapters **20–25**
-- Remediation chapters complete: **2 / 273**
-- Remaining remediation chapters: **271**
-- Next family: **Slave Auction (35–37)**
-- Earliest remaining target: **35**
+- **Slave Auction (35–37): COMPLETE**
+- **Morgue's United Front (40–42): COMPLETE**
+- **The Husband Hunt (46–51): COMPLETE**
+- **Slaves of the Savage Tribe (52–54): COMPLETE**
+- **The Hunter and the Hunted (55–60): COMPLETE**
+- Latest manuscript repairs: Chapters **55, 60**
+- Remediation chapters complete: **12 / 273**
+- Remaining remediation chapters: **261**
+- Phase-4 families completed: **6**
+- Phase-4 manuscript edits: **13**
+- Next family: **The Protagonist of Hunting (61–63)**
+- Earliest remaining target: **61**
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **Slave Auction (35–37)**, starting at Chapter **35**.
+1. Continue **Phase 4** with **The Protagonist of Hunting (61–63)**, starting at Chapter **61**.
 2. Review all three chapters as a family before editing; repair every Cycle-2 sanitization/completeness finding in the family.
 3. Refresh chapter QA, provenance, acceptance, family QA, tracker acceptance SHAs, ledger remediation/rebind status, and dependent hashes.
-4. Continue in target-family order through the remaining **271** remediation chapters.
+4. Continue in target-family order through the remaining **261** remediation chapters.
 5. Preserve the structural Phase-3 FAIL findings at Chapters **273 and 283** for their Phase-4 repair points.
 6. Keep EPUB assembly blocked until Phase 4, Phase 5 residual verification, and Phase 6 closure complete.
 
-The next agent should resume with **Slave Auction (35–37)**, not repeat Camus Morgue or Phases 1–3.
+The next agent should resume with **The Protagonist of Hunting (61–63)**, not repeat completed Phase-4 families or Phases 1–3.
