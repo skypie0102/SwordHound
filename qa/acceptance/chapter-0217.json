@@ -2,8 +2,8 @@
   "chapter": 217,
   "title": "My Neck Will Be Your Sheath (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "My Neck Will Be Your Sheath",
     "range": [
@@ -11,8 +11,8 @@
       219
     ],
     "family_qa_path": "qa/families/my-neck-sheath-0216-0219.md",
-    "family_qa_sha": "9f9cb7dbcfc65cbc876ad779f0058df916e80670",
-    "status": "pass"
+    "family_qa_sha": "ea001d4edd1e5a219102623181a71547d23a9f62",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/217.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-215.xhtml",
     "english_reference_sha": "1d0cde61f3f2971d05546ffca54359daa43d6639",
     "draft_path": "manuscript/drafts/chapter-0217.md",
-    "draft_sha": "d4b53a7ba674eb2c790437c84165444c0bfdd2a8",
+    "draft_sha": "b0ebe27355764d4b559b3d6f7fdac59201f18955",
     "qa_path": "qa/chapter-0217.md",
-    "qa_sha": "c9cdd032bccc158bdd8f854d03dd1e2724e09a52",
+    "qa_sha": "d187f5091f09079739ccaea1bc5f14b77fc0c731",
     "provenance_path": "editorial/provenance/chapter-0217.json",
-    "provenance_sha": "c9957823b66d06d8522e0129bc302c64550faec8"
+    "provenance_sha": "384b974ea97fcc12f5476f516fdb4fb03f5b49c5"
   },
   "canonical_checks": [
     "Camus Morgue",
@@ -40,5 +40,12 @@
     "Camus/Seere are twelve-hour roommates/co-controllers, not ordinary host possession.",
     "Seere's seductive taunts remain source-scoped and not amplified."
   ],
-  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1)."
+  "next_family_alignment_note": "Targets220-224→E218-E222 are That Day, Him and Me (1)-(5). Target225→E223 begins Tuition (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored cerebral-catastrophe comparison and full-body pore-release mana-surge explosion mechanics"
+  }
 }
