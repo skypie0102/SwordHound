@@ -277,7 +277,7 @@ If it ever began moving in earnest—
 
 humanity would need to prepare.
 
-Neither ordinary blades nor magic could easily kill it.
+No blade or magic could kill it.
 
 One of the three great disasters beyond common measure.
 
