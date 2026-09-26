@@ -1,5 +1,19 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 4 started: Camus Morgue complete
+
+Phase 4 remediation/evidence rebinding is now active.
+
+- first affected family **Camus Morgue (20–25)**: **COMPLETE**;
+- manuscript repairs: Chapters **22** and **24**;
+- Chapter 22 restores the source-explicit future-adult beauty/seduction-as-political-power characterization;
+- Chapter 24 restores the neutral clothing/body-state accident details, including tears/runny nose, underclothes, and Vikir's post-cloak exposed state without eroticization;
+- Chapters 20, 21, 23, and 25 revalidated without manuscript edits;
+- family QA, provenance, acceptance, and tracker acceptance bindings refreshed across Chapters **20–25**;
+- remediation progress: **2 / 273** chapters complete, **271** remain;
+- next affected family: **Slave Auction (35–37)**, earliest remaining target **35**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 3 COMPLETE at 500/500
 
 The corpus-wide boundary/alignment/exception integrity pass is complete.
