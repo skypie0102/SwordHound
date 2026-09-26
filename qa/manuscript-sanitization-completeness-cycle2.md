@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 12/273 remediation chapters complete; next The Protagonist of Hunting (61–63)
+**Current stage:** Phase 4 ACTIVE — 25/273 remediation chapters complete; next The Saintess (78–82)
 
 ## Progress
 
@@ -86,10 +86,13 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 ## Phase 4 — Remediation and evidence rebinding
 
-**Status:** READY — NOT STARTED  
+**Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**First family:** Camus Morgue (20–25)  
-**Earliest failing target:** Chapter 22
+**Completed remediation chapters:** 25  
+**Remaining remediation chapters:** 248  
+**Completed affected families:** 11  
+**Current next family:** The Saintess (78–82)  
+**Earliest remaining target:** Chapter 78
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -176,12 +179,11 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Begin Phase 4 from **Camus Morgue (20–25)**, the earliest affected title family.
-2. Continue reconciling shared/combined Chinese raws, localized Chinese gaps, shifted English mappings, and Side Story boundaries against the normalized exception table.
-3. Preserve open structural FAILs at Chapters **273 and 283** for Phase 4; investigate any newly discovered duplicated/displaced source blocks without editing manuscript text.
-4. Record a Phase-3 PASS / FAIL / EXCEPTION-DOCUMENTED disposition for every target.
-5. Keep all **273** remediation chapters frozen until Phase 3 closes, then begin Phase 4 from the earliest affected family.
-6. Keep EPUB assembly blocked.
+1. Continue Phase 4 with **The Saintess (78–82)**.
+2. Repair all ordinary completeness/sanitization failures from the complete Chinese-primary family review while preserving the safety-limited underage scope.
+3. Re-run both primary gates across the full family.
+4. Rebind chapter QA, family QA, provenance, acceptance, tracker, and Cycle-2 ledger evidence.
+5. Keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-26
@@ -189,14 +191,13 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **12**;
-- remaining remediation chapters: **261**;
-- affected families completed: **6**;
-- manuscript edits: **13**;
-- last completed family: **The Hunter and the Hunted (55–60)**;
-- latest manuscript repairs: Chapters **55** and **60**;
-- next affected family: **The Protagonist of Hunting (61–63)**;
-- earliest remaining target: **61**;
-- all repaired families have refreshed chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger evidence bindings;
+- completed remediation chapters: **25**;
+- remaining remediation chapters: **248**;
+- affected families completed: **11**;
+- manuscript edits: **27**;
+- last completed family: **The Hound of the Night (75–77)**;
+- latest manuscript repairs: Chapters **75, 76, 77**;
+- next affected family: **The Saintess (78–82)**;
+- earliest remaining target: **78**;
+- all completed families through Chapter 77 have refreshed chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger evidence bindings;
 - EPUB assembly remains blocked until Phase 5 independent residual verification and Phase 6 closure.
-
