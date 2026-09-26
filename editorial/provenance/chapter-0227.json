@@ -9,8 +9,8 @@
       233
     ],
     "family_qa_path": "qa/families/tuition-0225-0233.md",
-    "family_qa_sha": "ef916558f9b418e478b2dbd559f541db34d75238",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "eb414a8af2119b91abf36671340b7d5545d63b9e",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/227.txt",
@@ -30,7 +30,7 @@
   "qa": {
     "path": "qa/chapter-0227.md",
     "blob_sha": "eb53049dd40d6002297bca61c3a1e141df626728",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,7 +55,7 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/234.txt",
     "chinese_sha": "ed6edd25dd6b29710bed7cce56168a7703b50cee",
@@ -74,5 +74,16 @@
     "result": "rebuilt_and_passed",
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/tuition-0225-0233.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      225,
+      233
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
