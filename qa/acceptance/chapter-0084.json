@@ -2,8 +2,8 @@
   "chapter": 84,
   "title": "Lovesickness (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Lovesickness",
     "range": [
@@ -11,7 +11,7 @@
       84
     ],
     "family_qa_path": "qa/families/lovesickness-0083-0084.md",
-    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "family_qa_sha": "52b396b6542b8ced014b5aaa78e23ea07cc7ae90",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-083.xhtml",
     "english_reference_sha": "ab01dd2680467843c542744d55429afbe7b48113",
     "draft_path": "manuscript/drafts/chapter-0084.md",
-    "draft_sha": "9808a44919d1c1d0f7e1303087f0487488ea4e2f",
+    "draft_sha": "a6368ad23a357f17e668187937dd43030b696ac7",
     "qa_path": "qa/chapter-0084.md",
-    "qa_sha": "5da7b3d290eed421d5ef58fcc74ebbbe12209744",
+    "qa_sha": "25aefbb1fdbcda453832515a8f8533eb1fb9013e",
     "provenance_path": "editorial/provenance/chapter-0084.json",
-    "provenance_sha": "8d2ca1fe26866818aa7df872437f213f87e49033"
+    "provenance_sha": "16268f8a47bbc652853b3f05d0f81504e8762aec"
   },
   "canonical_checks": [
     "Vikir",
@@ -43,5 +43,12 @@
     "Target 84 maps to E83.",
     "Outside-tribe patient count is thousands, not tens of thousands.",
     "Aiyen's final blush is the Lovesickness payoff, not Red Death."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Ahun reverence, willow-leaf range, strategic influence intent, and Rokoko cannibalism characterization"
+  }
 }
