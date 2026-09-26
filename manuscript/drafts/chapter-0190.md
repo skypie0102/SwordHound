@@ -32,15 +32,7 @@ That created a natural handicap.
 
 Distance.
 
-A professor had to control a remote body against a student while estimating spacing through another set of limbs.
-
-Reach differed.
-
-Height differed.
-
-Mass differed.
-
-Even timing could become distorted.
+A professor had to control a remote body against a student while judging distance through another body.
 
 The students—
 
