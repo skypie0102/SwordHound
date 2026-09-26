@@ -1099,7 +1099,15 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/men-are-power-0139-0140.md",
       "boundary_review_file": "qa/cycle2/boundary/men-are-power-0139-0140.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-26",
+      "phase4_manuscript_changed_chapters": [
+        139,
+        140
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 139-140 remediated and fully rebound."
     },
     {
       "index": 37,
@@ -11885,15 +11893,19 @@
         "Cycle 2 Phase 1 FAIL: Doxeller's source-explicit child-commodification criteria/dehumanizing exchange and the imminent beheading image are materially generalized/omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Doxeller's source-explicit premium-child trafficking criteria/dehumanizing exchange and Vikir's intended decapitation outcome are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/men-are-power-0139-0140.md",
       "boundary_review_file": "qa/cycle2/boundary/men-are-power-0139-0140.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 140,
@@ -11944,15 +11956,19 @@
         "Cycle 2 Phase 1 FAIL: explicit limb-severing intent, Seven-Fang tearing/crushing, impalement, dissection intent, bloody digging, flesh/organ escape traces, children sold as demon food, and crime-scene blood/flesh imagery are materially generalized or omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: nontrivial recovered-English mapping or witness gap and adjacent family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/men-are-power-0139-0140.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: multiple source-present combat, impalement, dissection-intent, bloody-digging, flesh/organ-remnant, demon-food trafficking, and child-remains/crime-scene details are omitted/generalized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/men-are-power-0139-0140.md",
       "boundary_review_file": "qa/cycle2/boundary/men-are-power-0139-0140.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 141,
@@ -38145,22 +38161,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 44,
-    "remediation_remaining_chapters": 229,
-    "families_completed": 18,
+    "remediation_completed_chapters": 46,
+    "remediation_remaining_chapters": 227,
+    "families_completed": 19,
     "last_completed_family": {
-      "name": "Test Your Skills",
-      "start": 133,
-      "end": 138
-    },
-    "next_family": {
       "name": "Men are Power",
       "start": 139,
       "end": 140
     },
-    "earliest_remediation_chapter": 139,
-    "manuscript_edits": 46,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; and Test Your Skills 133-138 complete",
+    "next_family": {
+      "name": "Identity of the Villain",
+      "start": 141,
+      "end": 143
+    },
+    "earliest_remediation_chapter": 141,
+    "manuscript_edits": 48,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; and Men are Power 139-140 complete",
     "checkpoint_date": "2026-09-26",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
   }
