@@ -858,7 +858,7 @@
       "qa": "qa/chapter-0061.md",
       "provenance": "editorial/provenance/chapter-0061.json",
       "acceptance": "qa/acceptance/chapter-0061.json",
-      "acceptance_sha": "afc6ef3cb86bae4c71b1fae831cba3dfdd1e248d",
+      "acceptance_sha": "4dcbaeb5921a879c23dd22f98cd66e971c174474",
       "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
     },
     {
@@ -872,7 +872,7 @@
       "qa": "qa/chapter-0062.md",
       "provenance": "editorial/provenance/chapter-0062.json",
       "acceptance": "qa/acceptance/chapter-0062.json",
-      "acceptance_sha": "7344c28f19984bdae2865c1bfb198b11b6942247",
+      "acceptance_sha": "6855e50be0e095f2de3269100c64c38d9e940497",
       "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
     },
     {
@@ -886,7 +886,7 @@
       "qa": "qa/chapter-0063.md",
       "provenance": "editorial/provenance/chapter-0063.json",
       "acceptance": "qa/acceptance/chapter-0063.json",
-      "acceptance_sha": "4ddaebcbe1b03c59738706bd9d17e4bba5be5828",
+      "acceptance_sha": "ef674b0dcb5e331d75ef3f46f356a855fc6d44c5",
       "family_qa": "qa/families/protagonist-hunting-0061-0063.md"
     },
     {
@@ -7729,10 +7729,10 @@
     ],
     "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "The Protagonist of Hunting",
+      "name": "Unfair Trade",
       "range": [
-        61,
-        63
+        64,
+        67
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7840,24 +7840,24 @@
     "phase3_families_exception_documented_count": 102,
     "phase4_status": "active",
     "phase4_next_family": {
+      "name": "Unfair Trade",
+      "range": [
+        64,
+        67
+      ]
+    },
+    "phase4_earliest_remediation_chapter": 64,
+    "phase4_manuscript_edits": 15,
+    "phase4_remediation_completed_chapters": 14,
+    "phase4_remediation_remaining_chapters": 259,
+    "phase4_families_completed": 7,
+    "phase4_last_completed_family": {
       "name": "The Protagonist of Hunting",
       "range": [
         61,
         63
       ]
     },
-    "phase4_earliest_remediation_chapter": 61,
-    "phase4_manuscript_edits": 13,
-    "phase4_remediation_completed_chapters": 12,
-    "phase4_remediation_remaining_chapters": 261,
-    "phase4_families_completed": 6,
-    "phase4_last_completed_family": {
-      "name": "The Hunter and the Hunted",
-      "range": [
-        55,
-        60
-      ]
-    },
-    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, and The Hunter and the Hunted 55-60 complete"
+    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, The Husband Hunt 46-51, Slaves of the Savage Tribe 52-54, The Hunter and the Hunted 55-60, and The Protagonist of Hunting 61-63 complete"
   }
 }
