@@ -82,7 +82,7 @@ Easy to knock aside.
 
 So on impulse—
 
-he had decided to shoulder-check him.
+he had deliberately decided to hit the seemingly weak Vikir hard enough to make him lose consciousness.
 
 The moment they touched—
 
@@ -92,7 +92,9 @@ He bounced away.
 
 Rolled.
 
-Lost consciousness for a moment.
+Pain ran through injuries across his body.
+
+Then he lost consciousness for a moment.
 
 Vikir—
 
