@@ -36159,22 +36159,22 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 244,
+    "boundary_alignment_reviewed_count": 292,
     "boundary_alignment_pass_count": 53,
-    "boundary_alignment_fail_count": 0,
-    "boundary_alignment_exception_documented_count": 191,
-    "families_reviewed_count": 58,
+    "boundary_alignment_fail_count": 2,
+    "boundary_alignment_exception_documented_count": 237,
+    "families_reviewed_count": 70,
     "families_pass_count": 14,
-    "families_fail_count": 0,
-    "families_exception_documented_count": 44,
+    "families_fail_count": 2,
+    "families_exception_documented_count": 54,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 185,
+    "new_source_exception_rows": 281,
     "next_family": {
-      "name": "Survival Contest",
-      "start": 245,
-      "end": 249
+      "name": "Confessions",
+      "start": 293,
+      "end": 295
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0244.md"
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0292.md"
   }
 }
