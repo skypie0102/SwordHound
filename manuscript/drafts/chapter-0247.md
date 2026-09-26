@@ -296,6 +296,8 @@ Then another.
 
 And another.
 
+She ate ravenously without noticing the red stew mark left at the corner of her mouth.
+
 She stopped counting—
 
 after thirteen bowls.
