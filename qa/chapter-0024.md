@@ -7,7 +7,7 @@
 
 - Primary semantic source: `source/chinese/chapters/024.txt` — `e3d233f295f21607d3202b9c7f22f063554b23dc`
 - Aligned English reference: `source/chapters/chapter-024.xhtml` — `7a799d74556660c1012b4cc784949918c9b60bd4`
-- Reviewed draft: `manuscript/drafts/chapter-0024.md` — `8d651112d999fa468a45ab7c48d385a72ea2607f`
+- Reviewed draft: `manuscript/drafts/chapter-0024.md` — `e4203e868b3bd7b5de201b2bce2619b46267d9e3`
 - Following source: Chapter 25
 
 ## Alignment
@@ -17,7 +17,7 @@ Target 24 → recovered English 24 is **verified** by the spillover explosion, C
 ## QA checks
 
 - **Semantic fidelity:** PASS.
-- **Coverage:** PASS. Accident, match conclusion, mine strategy, extermination doctrine, political settlement, betrothal discussion, and Adolf/Vikir confrontation are all retained.
+- **Coverage:** PASS. Accident details now include Camus's tears/runny-nose state, Vikir explicitly giving up his outer garment and standing in underclothes, the source's neutral child-nudity convention narration, and Vikir's bare-bodied post-smoke state; the match conclusion, mine strategy, extermination doctrine, political settlement, betrothal discussion, and Adolf/Vikir confrontation are all retained.
 - **No invention:** PASS.
 - **Canonical terminology:** PASS for Camus Morgue, Adolf Morgue, Raspane Morgue, Osiris Le Baskerville, Morgue Clan, Red Fang Mountain, Le Rouge et Le Noir Mountain, Van/Le distinction.
 - **Child-content handling:** PASS. Clothing damage and underclothes are described only as the source-relevant accident/humiliation; no erotic detail is added.
@@ -28,7 +28,7 @@ Target 24 → recovered English 24 is **verified** by the spillover explosion, C
 ## Material repairs versus recovered English
 
 1. Corrects Camus's gender/pronouns throughout the explosion aftermath.
-2. Renders the clothing accident neutrally rather than inheriting the MTL's awkward or sexualized wording.
+2. Renders the clothing accident neutrally rather than inheriting the MTL's awkward or sexualized wording, while restoring the concrete source states: tears/runny nose, underclothes after giving Camus the cloak, and bare-bodied exposure when the smoke clears.
 3. Preserves Vikir giving Camus his training cloak and receiving only a minor bleeding forehead wound from flying debris.
 4. Preserves the match ending because Camus loses the will to continue and blood has been drawn in an eight-year-old match.
 5. Rebuilds Vikir's ruby-mine strategy: concede mining rights, let Morgue commit manpower, and push displaced monsters/barbarians toward them while Baskerville expands elsewhere.
@@ -43,6 +43,10 @@ Target 24 → recovered English 24 is **verified** by the spillover explosion, C
 
 The Chinese includes Hugo's deliberately awkward arithmetic jab after Adolf minimizes the 12-year age gap. The draft preserves the source's `forty / fifty-seven` comparison without treating the recovered-English seventeen-year figure as the Camus–Osiris gap.
 
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The Phase-1/Phase-2 defect was over-generalization of the accident scene. The draft now restores the omitted tears/runny-nose detail and Vikir's explicit underclothes/bare-bodied state in neutral, non-erotic prose while retaining the source's embarrassment/rescue context.
+
 ## Decision
 
-**PASS at chapter level.** Final acceptance requires the complete Chapters 20–25 family QA.
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 20–25 family QA.
