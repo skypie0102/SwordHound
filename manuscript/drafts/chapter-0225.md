@@ -274,11 +274,7 @@ unknown.
 
 Witnesses—
 
-none.
-
-Or rather—
-
-none still capable of giving useful testimony.
+all dead.
 
 A faint chill passed through the room.
 
@@ -286,7 +282,7 @@ A Graduator-level combatant was treated with respect almost anywhere in the Empi
 
 If someone at that level deliberately turned their strength against ordinary civilians—
 
-the potential damage was enormous.
+no one could predict how much blood would flow.
 
 Night Hound.
 
@@ -330,7 +326,9 @@ the club members had already moved to another question.
 
 “Who exactly is Ms. Ouroboros?”
 
-“No witnesses.”
+“All the eyewitnesses died.”
+
+“No testimony.”
 
 “No face.”
 
