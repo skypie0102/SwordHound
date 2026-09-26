@@ -9,8 +9,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/182.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0182.md",
-    "blob_sha": "f2b661b7eb5a694fb884c307a3a67f812ad77be8"
+    "blob_sha": "46c997c9369eb54cad87a457247d182b19a9d187"
   },
   "qa": {
     "path": "qa/chapter-0182.md",
-    "blob_sha": "ab8e38afb8a57eee15b2b06b53104abce48e7233",
-    "status": "pass"
+    "blob_sha": "5c8abdf2cc7c6b790881861404262708d57c548b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/186.txt",
     "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
     "english_path": "source/chapters/chapter-184.xhtml",
     "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
     "purpose": "both begin Aftermath (1), target186"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      179,
+      185
+    ],
+    "manuscript_changed": true,
+    "note": "restored correct Pigi/Sancho exchange and four post-record celebration turns"
   }
 }
