@@ -7,7 +7,7 @@
 
 - Primary Chinese: `source/chinese/chapters/037.txt` — `fab7c365f52addab267414058f52bd31ba9515cb`
 - Aligned English witness: `source/chapters/chapter-037.xhtml` — `ad9f97b0e15250e7cf96f301b0aa28c58a58796c`
-- Final draft: `manuscript/drafts/chapter-0037.md` — `bfd323d93a26d6307cf699779e22c519b227075c`
+- Final draft: `manuscript/drafts/chapter-0037.md` — `4dc4c20f894b7ff72a93f44bc05c20bb815bbea7`
 - Boundary witness: Chinese Ch. 38 changes to `赞助商 (1)`; recovered English Ch. 38 is **Sponsored (1)**.
 
 ## Checks
@@ -48,3 +48,11 @@
 - Boston Terrier name corruption (`Count Les Baskervilles, a Boston Terrier`).
 - first-person narration leaks.
 - malformed tribal-language placeholders and broken scene syntax.
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-26.** The fleeing middle-aged man's result now preserves the Chinese source's explicit internal-organ spill instead of generalizing it to being merely cut open. Both sanitization fidelity and completeness were rerun for the full family, with boundary/alignment continuity unchanged.
+
+## Decision
+
+**PASS at chapter level after Phase-4 remediation.** Final acceptance requires the refreshed Chapters 35–37 family QA.
