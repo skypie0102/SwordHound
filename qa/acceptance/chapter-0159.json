@@ -2,8 +2,8 @@
   "chapter": 159,
   "title": "Familiar Face (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Familiar Face",
     "range": [
@@ -11,8 +11,8 @@
       161
     ],
     "family_qa_path": "qa/families/familiar-face-0158-0161.md",
-    "family_qa_sha": "7bbf0675eebad6e338b69dd12f567f6948c561c2",
-    "status": "pass"
+    "family_qa_sha": "b6965699d7b4e9188b2235fd70eab1596365796b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/159.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-158.xhtml",
     "english_reference_sha": "3c7c17917f56fd16b0400a2baa8f8ea093a203d6",
     "draft_path": "manuscript/drafts/chapter-0159.md",
-    "draft_sha": "d3fb44a751ff2cd7e465ebbd35b1c6c8c1076ae8",
+    "draft_sha": "1f0970f348be738bb6d5111d331ff6bc003e423f",
     "qa_path": "qa/chapter-0159.md",
-    "qa_sha": "2d1b7ca6f575e546c5c8595008bc37319d832d43",
+    "qa_sha": "863f45789b24c1463375fe4dd177e64f9407d7c4",
     "provenance_path": "editorial/provenance/chapter-0159.json",
-    "provenance_sha": "ed33afece52f63f37e29b3305e864b2b9f3e743d"
+    "provenance_sha": "59f37c4c8dda4440880a52fa36c35c40722ab19e"
   },
   "canonical_checks": [
     "Mozgus Quovadis",
@@ -41,5 +41,12 @@
     "Ninth Corpse is revealed, but later personal name/epithet remains withheld.",
     "Dolores's Quovadis crisis is her perspective, not narrator condemnation of all factions."
   ],
-  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1)."
+  "next_family_alignment_note": "Sin and Punishment targets162-169: 162→E161,163→E162,164→E163,165→E164,166→E165,167→E166,168→no recovered-English witness in current sequence,169→E167; target170→E168 begins Adorable Pet (1).",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored Dolores beautiful/melancholy/heartache narrator framing"
+  }
 }
