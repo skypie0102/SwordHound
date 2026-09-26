@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/180.txt` — `8421a222f4fabd2308d3818c24736d21477a5b08`
 - English witness: **E178** — `7709c7e0ba246c79b860e8ac497f19c8484ce190`
-- Draft: `manuscript/drafts/chapter-0180.md` — `43cec8f6a8b046666c54a2a928c73d4dbcf619d6`
+- Draft: `manuscript/drafts/chapter-0180.md` — `3b1af4891dada20f97aff8efd783682a25ae0757`
 
 ## Checks
 - PASS — the triplets' public bullying posture is preserved while Vikir immediately clarifies to friends that the team agreement is voluntary.
@@ -19,3 +19,14 @@
 - PASS — Vikir's operational goal is to avoid attention while the triplets carry the visible combat load.
 - PASS — Highbro's exam explanation preserves HP, kill/assist points, real diluted poison, and emergency barrier intervention.
 - PASS — Group **69** is the registered team.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Highbro's full fear reaction before answering Vikir and the source's explicit dog/good-master versus knight/great-master fortune parallel.
+
+The complete Midterm Random Defense family was reread after remediation. Chapter 179 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **179→E177 through 185→E183**; target 186/E184 begins *Aftermath (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Midterm Random Defense family QA.
