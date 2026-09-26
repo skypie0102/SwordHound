@@ -8,12 +8,12 @@
 
 | Target | Chinese source | Chinese SHA | Recovered-English witness | English SHA | Draft SHA | QA SHA |
 |---|---|---|---|---|---|---|
-| 133 | 133.txt | `e948d42cd33e78a1da4ad882ff6442f932406edd` | **E132** | `cc299d9aa9e64e9b3427b90c84c8c1402881a502` | `a80b5d24dc9babec612fe14c63890ad1e8e98509` | `ab9f48fb31ca1ec557bcbb7583cfd82e6b07c02a` |
+| 133 | 133.txt | `e948d42cd33e78a1da4ad882ff6442f932406edd` | **E132** | `cc299d9aa9e64e9b3427b90c84c8c1402881a502` | `3e1c0ff885974ed720848a88f2317909c2ae74e4` | `8651a96e3970e61c8113aca4a936f913e6eafc00` |
 | 134 | 134.txt | `9b9b0af21b579f22a61526f7fdd630b91f36d66a` | **E133** | `94b7abee253add2260a8d236253082e389515ec6` | `7abe385e58ba6218128c3fed6f2abde56a1cca27` | `99e979b4876813558e6d52963c35eec720039237` |
-| 135 | 135.txt | `4fcabd494217aacd467852b46e2f2a0bc6d46250` | **E134** | `0ccf0e0e93ed974e9fc1b1b1647982bc951e7770` | `9f9795b8f89bcbf1aee346b07df2c1e56c4d6b64` | `b5a3b739658f24375a88ed533055f94a871bf671` |
-| 136 | 136.txt | `771c95d5d1b61b44be14f72e8dc1ee2f8a1d72aa` | **E135** | `d73450642b27c0f98aca585daa676d00e2b88ced` | `7d3868ee40c1a4461d22ad560bd78474f63c8eb2` | `de4bb971e54aa571b43c74a0bc96937dec257f33` |
-| 137 | 137.txt | `bed95debde0be4d5d02a1c987a22deef76d7eb9a` | **E136** | `64a089ae2b8dc8db74dd65e9835440020974703f` | `0b9acd70039ff39dbb89e8234376899eae932d99` | `0a9cee0d211b5dcc03c1ffe14f53ef36a0e26b66` |
-| 138 | 138.txt | `6c3c9c144ed48c23b470eac433ee48a6ea89f25c` | **E137** | `158084369fc1fb1a8850fbeeaa56a23a2c2b6820` | `fc2d439fc5c2a83b76640d055bc1f41e5a467f57` | `271010c5ee4fdd38bf10ee18ef67fcf09f84b6d2` |
+| 135 | 135.txt | `4fcabd494217aacd467852b46e2f2a0bc6d46250` | **E134** | `0ccf0e0e93ed974e9fc1b1b1647982bc951e7770` | `2e0768736c2a23b96ebdf252400827341b6274c0` | `65634e3de8715a81d13e6bf480137087af23fdd4` |
+| 136 | 136.txt | `771c95d5d1b61b44be14f72e8dc1ee2f8a1d72aa` | **E135** | `d73450642b27c0f98aca585daa676d00e2b88ced` | `7d46d839f594454f489904646d892d48ce4e9790` | `df547619c7795d158e5f4b8bad6bfce77aaf5886` |
+| 137 | 137.txt | `bed95debde0be4d5d02a1c987a22deef76d7eb9a` | **E136** | `64a089ae2b8dc8db74dd65e9835440020974703f` | `2a1763770fe2b08550e578548df3615b58859fc8` | `f1296f81ed79a8332833db32804f65c2d55673e1` |
+| 138 | 138.txt | `6c3c9c144ed48c23b470eac433ee48a6ea89f25c` | **E137** | `158084369fc1fb1a8850fbeeaa56a23a2c2b6820` | `9bc3efd6d212ac22e6ad3df3347e634617225fa7` | `12f50574b2ddb82df8863ae88fa791225461cccb` |
 | boundary | 139.txt — *Men are Power (1)* | `29e3a8d69342fe6060038c06042102ed6d352146` | **E138** | `a04b8fb16ee9f246de51fbc30247009e6e48e3d8` | next family | next family |
 
 Mapping: **133→E132 through 138→E137; 139→E138**.
@@ -56,8 +56,8 @@ Target 138 ends on Banshee asking what Vikir means by Venomphion's **second stin
 - **Sancho strength test:** Vikir uses no mana and becomes effectively immovable once braced; the strength comes from Styx conditioning, Baskerville body, and prior-life experience.
 - **Golden-goal overtime:** Class B eventually wins through the Baskerville triplets; public credit remains mostly with them.
 - **Tudor apology:** he admits jealousy and the attempt to embarrass Vikir, then recognizes Vikir is more than a bookworm.
-- **Visibility spike:** Vikir's appearance attracts attention only after he removes glasses/pushes back wet hair. This is new to him because his prior-life face was heavily scarred.
-- **Venomphion:** Danger Level A in standard reference; black armored scorpion, about 3 m, Cruel Desert sandfall region, extremely potent venom.
+- **Visibility spike:** Vikir's appearance attracts an intense mixed-gender crowd/newspaper reaction after he removes his glasses and pushes back wet hair; the stronger source attraction/objectification register is retained in non-explicit English. This is new to him because his prior-life face was heavily scarred.
+- **Venomphion:** Danger Level A in standard reference; black armored scorpion, about 3 m, Cruel Desert sandfall region; one drop of tail venom is stated to be lethal to **44 people**.
 - **Sinclaire classification:** brute / erratic / cunning behavioral types with different tactics; Banshee considers it a plausible contribution.
 - **Second stinger:** Vikir casually states that avoiding the tail stinger and an abdominal second stinger reduces practical danger toward B+. Source explanation remains reserved for target 139.
 - **Boundary discipline:** no *Men are Power* material is imported into target 138.
@@ -67,3 +67,21 @@ Target 138 ends on Banshee asking what Vikir means by Venomphion's **second stin
 PASS.
 
 Targets 133–138 form a coherent six-part theory/practical evaluation arc: Ballak knowledge → Banshee confrontation → Naphtali → overtime/social recognition → Venomphion research. Chinese remains semantic authority, canonical project names remain stable, and the family stops exactly on the second-stinger question before *Men are Power (1)*.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 133 restores the full prior-night warning: death for the six and their parents, collective implication if one reoffends, and the source's **meat-paste** description of the beating.
+- Chapter 134 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Chapter 135 restores the source's **beat him up** hostility toward Vikir and the Baskerville triplets' repeated **kill you** aggression toward Tudor.
+- Chapter 136 restores Tudor's deliberate knockout intent plus the broader injury/brief-unconsciousness aftermath.
+- Chapter 137 restores the source-level bystander concern that the person Sancho hit might **die**.
+- Chapter 138 restores the materially broader crowd/newspaper attraction and search reaction in non-explicit English, plus the exact Venomphion figure of **44 people** killed by one drop of tail venom.
+- Sanitization fidelity and completeness were rerun across Chapters 133–138 after repair.
+- Shifted mapping remains **133→E132 through 138→E137**; target 139/E138 begins *Men are Power (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Men are Power (139–140)**.
