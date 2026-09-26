@@ -2,8 +2,8 @@
   "chapter": 220,
   "title": "That Day, Him and Me (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "That Day, Him and Me",
     "range": [
@@ -11,8 +11,8 @@
       224
     ],
     "family_qa_path": "qa/families/that-day-him-me-0220-0224.md",
-    "family_qa_sha": "c19c81072c7046d93d62c86c5c8dec07177a2c30",
-    "status": "pass"
+    "family_qa_sha": "816276c3e4dc9e23dea2d032d1fc5c40d1dc3306",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/220.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0220.md",
     "qa_sha": "8f50fd30c205a36bccc1e266490a6c5e569d5eb3",
     "provenance_path": "editorial/provenance/chapter-0220.json",
-    "provenance_sha": "665bc0e9fbe0bfe74725ffb7b62058e2b44e6166"
+    "provenance_sha": "48f0e446402a9f210cc72675453d73da153855df"
   },
   "canonical_checks": [
     "Camus Morgue",
@@ -38,5 +38,12 @@
     "Camus resurrection/state-function reasoning remains her inference.",
     "Adolf's comfort line is the obsession trigger, not a resurrection doctrine."
   ],
-  "next_family_alignment_note": "Target225→E223 begins Tuition (1)."
+  "next_family_alignment_note": "Target225→E223 begins Tuition (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
