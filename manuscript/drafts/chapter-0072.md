@@ -42,7 +42,7 @@ But those measures protected the Empire first.
 
 The peoples living deep inside Le Rouge et Le Noir Mountain had suffered catastrophic losses.
 
-Nearly forty percent of the population in some regions had died.
+More than forty percent of the indigenous population had died.
 
 That disaster had benefited Baskerville politically.
 
