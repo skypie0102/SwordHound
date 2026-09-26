@@ -12,7 +12,7 @@
 | 172 | 172.txt | `049d9f2c72305e49d4728d8240875954e6b55d4b` | **E170** | `40b561d40785e81c68526d184e508511f3f7c098` | `f0409a70bbfb5bf6fc93b50be2f3274833d1a835` | `3165df5a1d15817e45b9fb9e196d80c0dd477adf` |
 | 173 | 173.txt | `c80561975c5d98528a87bea69710078c732c680b` | **E171** | `3f533b77c37f916a29522fd2d4fd56ed2edcd87d` | `3c01f345b6393b033c9829eece324ddba216ca11` | `73840cbb298f8227e2afbdea16117ce34b593fb4` |
 | 174 | 174.txt | `14dbd097378fb90859f17494de99dda5d0713f8a` | **E172** | `466928bba4b0c1278b9b09832eeb35d65740fad1` | `c46e7115716895a9c33812b5c0840df24a00b63d` | `052100578d1be3441c78ef776397ba1dc6467efa` |
-| 175 | 175.txt | `04b000fa3041b1162c68aee1cccee6de13dcdb8e` | **E173** | `2e5546c26a01b265a53466f0e1b6c85a13fb7930` | `17390a053082bfeffa3909dad990676caaa30b00` | `45dc94863a683656682ba4b42a03c120586f36d2` |
+| 175 | 175.txt | `04b000fa3041b1162c68aee1cccee6de13dcdb8e` | **E173** | `2e5546c26a01b265a53466f0e1b6c85a13fb7930` | `a74a88db744a4fa38390f8ba88e14016a25c2170` | `d6fab0a0ff57aa14f5471dc91593b6033cc25a82` |
 | boundary 176 | 176.txt — *The 99 Hits With 100 Shots (1)* | `94b9589ca40d0c79ed44a8ff83acf2496fc3a197` | **E174** | `199060b0ea9fc4e6989b550d35b0e06b474e7430` | next family | next family |
 | boundary 179 | 179.txt — *Midterm Random Defense (1)* | `9f7be636af294cb77ac8f7d884285372d3624e3f` | **E177** | `02950ded3400286a3ab687a8aca2cb78acf74d03` | later family | later family |
 
@@ -76,3 +76,17 @@ Target **179 → E177** begins **Midterm Random Defense (1)**.
 PASS.
 
 Targets 172–175 form one complete information-war / identity-misdirection family: sensational external coverage → Vikir's deliberate anti-self propaganda and Dolores's censored counter-column → Banshee's academic/eyewitness follow-up → Granola/Baby Madam poison setup and Vikir's cover joke → Dolores's conflicting feelings and decision to seek Vikir at the archery range.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-26  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapters 172–174 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Chapter 175 restores Dolores's source superlative view of the Night Hound, her repeated admission that **she wet herself**, and Vikir's concrete **“diaper” nickname/reputation**.
+- Sanitization fidelity and completeness were rerun across Chapters 172–175.
+- Shifted mapping remains **172→E170, 173→E171, 174→E172, 175→E173**; target 176/E174 begins *The 99 Hits With 100 Shots (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The 99 Hits With 100 Shots (176–178)**.
