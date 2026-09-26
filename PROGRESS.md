@@ -1,5 +1,20 @@
 # Reconstruction Progress
 
+## 2026-09-26 — Cycle 2 Phase 4 — Hunter and Hunted complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Hunter and the Hunted (55–60)**.
+
+- completed affected families: **6**;
+- remediation chapters complete: **12 / 273**;
+- remediation chapters remaining: **261**;
+- manuscript edits during Phase 4: **13**;
+- Chapter **55**: restored the shaman's source-supported **warning-bell** instruction and removed the invented curse;
+- Chapter **60**: restored the eye/nerve churning, high-ranking-demon predator comparison, hellish fang imagery, and charred-brain Incinerate result;
+- Chapters **56–59**: complete-family revalidation found no ordinary manuscript defects;
+- family QA, chapter QA, provenance, acceptance, tracker, and Cycle-2 ledger bindings refreshed across Chapters **55–60**;
+- next affected family: **The Protagonist of Hunting (61–63)**, earliest remaining target **61**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-26 — Cycle 2 Phase 4 started: Camus Morgue complete
 
 Phase 4 remediation/evidence rebinding is now active.
