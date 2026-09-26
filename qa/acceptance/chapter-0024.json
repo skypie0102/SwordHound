@@ -2,16 +2,50 @@
   "chapter": 24,
   "title": "Camus Morgue (5)",
   "accepted": true,
-  "accepted_date": "2026-09-17",
-  "review_mode": "chinese_primary_fandom_canonical",
-  "title_family": {"name":"Camus Morgue","range":[20,25],"family_qa_path":"qa/families/camus-morgue-0020-0025.md","family_qa_sha":"a1e81033e781959beca43cbb497def66252093fc","status":"pass"},
-  "evidence": {
-    "primary_source_path":"source/chinese/chapters/024.txt","primary_source_sha":"e3d233f295f21607d3202b9c7f22f063554b23dc",
-    "english_reference_path":"source/chapters/chapter-024.xhtml","english_reference_sha":"7a799d74556660c1012b4cc784949918c9b60bd4",
-    "draft_path":"manuscript/drafts/chapter-0024.md","draft_sha":"8d651112d999fa468a45ab7c48d385a72ea2607f",
-    "qa_path":"qa/chapter-0024.md","qa_sha":"366de318ba1e583c30dabcd48c94f9748a610609",
-    "provenance_path":"editorial/provenance/chapter-0024.json","provenance_sha":"d9c3bc603ee4c1b6c11ac885b97bf97798c2a06e"
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_fandom_canonical_cycle2_phase4",
+  "title_family": {
+    "name": "Camus Morgue",
+    "range": [
+      20,
+      25
+    ],
+    "family_qa_path": "qa/families/camus-morgue-0020-0025.md",
+    "family_qa_sha": "16c299200a789d322ef0ab5570d1ef54572b772e",
+    "status": "pass"
   },
-  "canonical_checks": ["Camus Morgue","Adolf Morgue","Raspane Morgue","Osiris Le Baskerville","Morgue Clan","Red Fang Mountain","Le Rouge et Le Noir Mountain"],
-  "documented_limits": ["The clothing accident involving eight-year-old characters is rendered neutrally and non-sexually while retaining all source-relevant events.","Camus 8 / Osiris 20 is a 12-year age gap; MTL 17-year wording is rejected.","Hugo's source forty/fifty-seven rhetorical jab is retained as a separate awkward comparison rather than treated as the engagement age gap.","Frontier pursuit/extermination doctrine is preserved without sanitization."]
+  "evidence": {
+    "primary_source_path": "source/chinese/chapters/024.txt",
+    "primary_source_sha": "e3d233f295f21607d3202b9c7f22f063554b23dc",
+    "english_reference_path": "source/chapters/chapter-024.xhtml",
+    "english_reference_sha": "7a799d74556660c1012b4cc784949918c9b60bd4",
+    "draft_path": "manuscript/drafts/chapter-0024.md",
+    "draft_sha": "e4203e868b3bd7b5de201b2bce2619b46267d9e3",
+    "qa_path": "qa/chapter-0024.md",
+    "qa_sha": "87fa8318a8b7dc844cf8c84534b0872fdcc66e70",
+    "provenance_path": "editorial/provenance/chapter-0024.json",
+    "provenance_sha": "1aa06d8c10c6075adefab35aa9062f7004c8b3d2"
+  },
+  "canonical_checks": [
+    "Camus Morgue",
+    "Adolf Morgue",
+    "Raspane Morgue",
+    "Osiris Le Baskerville",
+    "Morgue Clan",
+    "Red Fang Mountain",
+    "Le Rouge et Le Noir Mountain"
+  ],
+  "documented_limits": [
+    "The clothing accident involving eight-year-old characters is rendered neutrally and non-sexually while retaining all source-relevant events.",
+    "Camus 8 / Osiris 20 is a 12-year age gap; MTL 17-year wording is rejected.",
+    "Hugo's source forty/fifty-seven rhetorical jab is retained as a separate awkward comparison rather than treated as the engagement age gap.",
+    "Frontier pursuit/extermination doctrine is preserved without sanitization."
+  ],
+  "prior_accepted_date": "2026-09-17",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored concrete nonsexual clothing/body-state accident details"
+  }
 }
