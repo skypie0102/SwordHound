@@ -18,3 +18,14 @@
 - PASS — Tudor's “final weapon” setup for Sancho and the shared expectation that Sancho could break the individual record are restored before Sadi destroys that expectation.
 - PASS — Sancho's body is visibly bloodied after the exam and Dolores immediately treats him.
 - PASS — chapter ends on Professor Sadi's introduction as the examiner responsible for Sancho's 17-point result.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Removed the prematurely imported reach/height/mass/timing distortion details; Chapter 190 now keeps only the source's distance-sense obstacle while the full remote-body synchronization mechanics remain in Chapter 192.
+
+The complete Attack Land family was reread after remediation. Chapters 194–196 remain unchanged and pass both Cycle-2 content gates. Shifted mapping remains **190→E188 through 196→E194**; target 197/E195 begins *Preparing for the Festival*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Attack Land family QA.
