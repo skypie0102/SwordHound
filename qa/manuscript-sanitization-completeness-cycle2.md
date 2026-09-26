@@ -47,9 +47,20 @@ Closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`. Family evidence is un
 
 ### Phase 3 — ACTIVE
 
-Boundary/alignment review is now the immediate project focus. No target has yet been granted new Cycle-2 Phase-3 clearance at this closure checkpoint.
+Boundary/alignment review is the immediate project focus.
 
-Start from the corpus beginning and verify every title-family boundary, shared/combined raw, overlap container, localized source gap, shifted/nontrivial English mapping, Side Story split, and duplicated/displaced source block before Phase-4 edits begin.
+- reviewed: **25 / 500**
+- PASS: **25**
+- FAIL: **0**
+- EXCEPTION-DOCUMENTED: **0**
+- families reviewed: **7 / 118**
+- new source-exception rows: **0**
+- manuscript edits during Phase 3: **0**
+- checkpoint: `qa/cycle2-phase3-checkpoint-0025.md`
+- family evidence: `qa/cycle2/boundary/`
+- next family: **The Graduate (26–27)**
+
+Continue in target order and verify every remaining title-family boundary, shared/combined raw, overlap container, localized source gap, shifted/nontrivial English mapping, Side Story split, and duplicated/displaced source block before Phase-4 edits begin.
 
 ### Phase 0 — COMPLETE
 
