@@ -2,8 +2,8 @@
   "chapter": 130,
   "title": "The Freshman Talent Show (1)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Freshman Talent Show",
     "range": [
@@ -11,8 +11,8 @@
       132
     ],
     "family_qa_path": "qa/families/freshman-talent-show-0130-0132.md",
-    "family_qa_sha": "b2167dae156913d97fd33e6dfa222984241f8ae0",
-    "status": "pass"
+    "family_qa_sha": "d54952148afc8aba53cc230d00694544833c066c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/130.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-129.xhtml",
     "english_reference_sha": "f5e7eb7711468542d89e43edc619d4c81adf015b",
     "draft_path": "manuscript/drafts/chapter-0130.md",
-    "draft_sha": "0ee70b6ad7745ca92bf769a2938027ba33666a03",
+    "draft_sha": "79352864b7da4189fb2afa70ffc5e8f9f5e7084a",
     "qa_path": "qa/chapter-0130.md",
-    "qa_sha": "7fb8430aac428721d3c55c15e42c761afc519e15",
+    "qa_sha": "0e54fc6bf835dcd564cd1873e5881062f036164a",
     "provenance_path": "editorial/provenance/chapter-0130.json",
-    "provenance_sha": "74982bd230b91c4f2e35f26a37cac51234a7b4f0"
+    "provenance_sha": "8756a6ba758ef8adab52ccfc5da40b9235035282"
   },
   "canonical_checks": [
     "Pigi",
@@ -37,5 +37,12 @@
     "Military-song wording is paraphrased while preserving narrative function.",
     "No target131 professor/Sinclaire reaction is imported backward.",
     "Pigi's later identity material remains excluded."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored corpse-mountain / blood-river Age-of-Destruction imagery"
+  }
 }
