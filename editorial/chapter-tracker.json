@@ -1,5 +1,5 @@
 {
-  "notice": "FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT CYCLE 2 ACTIVE. Phases 1 sanitization, 2 completeness, and 3 boundary/alignment are complete across 500/500. Phase 3 closed at 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118/118 families with 0 manuscript edits. Structural FAILs: 273, 283. Phase 4 remediation is ready but not started; begin with Camus Morgue (20–25), earliest failing target 22. Historical accepted state remains 500/500 evidence only; EPUB assembly stays blocked until Cycle 2 closes.",
+  "notice": "FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT CYCLE 2 ACTIVE. Phases 1-3 are complete. Phase 4 is ACTIVE: Camus Morgue (20-25) is remediated/rebound; Chapters 22 and 24 were repaired, the full family was revalidated, and acceptance bindings for 20-25 were refreshed. Next affected family: Slave Auction (35-37), earliest remaining remediation target 35. EPUB assembly remains blocked until Cycle 2 closes.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
@@ -283,7 +283,7 @@
       "qa": "qa/chapter-0020.md",
       "provenance": "editorial/provenance/chapter-0020.json",
       "acceptance": "qa/acceptance/chapter-0020.json",
-      "acceptance_sha": "22eb767bce2f4ae28d668276b8e406c86dc2e9c0",
+      "acceptance_sha": "e1fcd28f51e06fc1fc72be28b779deb81c7f2d18",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -297,7 +297,7 @@
       "qa": "qa/chapter-0021.md",
       "provenance": "editorial/provenance/chapter-0021.json",
       "acceptance": "qa/acceptance/chapter-0021.json",
-      "acceptance_sha": "5ad09ddc620ff7c891bbc981323e4b923d33bf0a",
+      "acceptance_sha": "9eec4addbe3b6ff36fa3acfba2a9ec8a7f809053",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -311,7 +311,7 @@
       "qa": "qa/chapter-0022.md",
       "provenance": "editorial/provenance/chapter-0022.json",
       "acceptance": "qa/acceptance/chapter-0022.json",
-      "acceptance_sha": "dc3de53413f9fd13374349d151e8b38327bbf999",
+      "acceptance_sha": "81ae654d7d3041c61ae32bf742b19460dd9cb007",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -325,7 +325,7 @@
       "qa": "qa/chapter-0023.md",
       "provenance": "editorial/provenance/chapter-0023.json",
       "acceptance": "qa/acceptance/chapter-0023.json",
-      "acceptance_sha": "34436625a1589dab8034d9dfbc49783aa582f1d3",
+      "acceptance_sha": "3c97f70f65bfb30f44879e4e00b36fc921558b72",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -339,7 +339,7 @@
       "qa": "qa/chapter-0024.md",
       "provenance": "editorial/provenance/chapter-0024.json",
       "acceptance": "qa/acceptance/chapter-0024.json",
-      "acceptance_sha": "69671aec11ba4c4dc750909a4fc086a9fc0c52e4",
+      "acceptance_sha": "29feff8e9ebe79dd86b6b919229a14c0c5f9b8f0",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
@@ -353,7 +353,7 @@
       "qa": "qa/chapter-0025.md",
       "provenance": "editorial/provenance/chapter-0025.json",
       "acceptance": "qa/acceptance/chapter-0025.json",
-      "acceptance_sha": "b443fa796d780d644a824c0892bf55fdff24f7b1",
+      "acceptance_sha": "cb614c29745a7824cc4cfe8826e1b73551f56478",
       "family_qa": "qa/families/camus-morgue-0020-0025.md"
     },
     {
