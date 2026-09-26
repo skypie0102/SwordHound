@@ -9,7 +9,7 @@
       51
     ],
     "family_qa_path": "qa/families/husband-hunt-0046-0051.md",
-    "family_qa_sha": "e0cb8241dea5dc85bd60feb72b992993b04c4689",
+    "family_qa_sha": "c68d6387dad0e0024c2d45396b7abd4b28b922cd",
     "status": "pass"
   },
   "primary_source": {
@@ -55,11 +55,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0048.md",
-    "blob_sha": "11125e08c987906ac3f57329afa6c9b88681683a"
+    "blob_sha": "07b3aca8dac1093c236a062cf8bf017b73f49b3c"
   },
   "qa": {
     "path": "qa/chapter-0048.md",
-    "blob_sha": "a8ce8f8ccda336b45e2f36cb30e7d1eba94b52fc",
+    "blob_sha": "72d6adf6aae31b43f8d244241519f954eddf5a09",
     "status": "pass"
   },
   "documented_decisions": [
@@ -85,5 +85,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      46,
+      51
+    ],
+    "manuscript_changed": true,
+    "note": "corrected Lowbro injury callback to the continuity-supported single right index finger"
+  }
 }
