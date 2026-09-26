@@ -2,8 +2,8 @@
   "chapter": 82,
   "title": "The Saintess (5)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Saintess",
     "range": [
@@ -11,7 +11,7 @@
       82
     ],
     "family_qa_path": "qa/families/saintess-0078-0082.md",
-    "family_qa_sha": "31d39fa90f372040ba6b5867b68f4b5d7ffcf8a7",
+    "family_qa_sha": "a4c71d8d9a59bb0e20628d0e5576d9f454d12610",
     "status": "pass"
   },
   "evidence": {
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-081.xhtml",
     "english_reference_sha": "51f77bde7626a47169fb61b26b27cdbb16fda8b8",
     "draft_path": "manuscript/drafts/chapter-0082.md",
-    "draft_sha": "74a893872c2f5226a35660e2d7b26d07c5f03812",
+    "draft_sha": "9e04f11161a21395bf5dcdd2f298b4c425604926",
     "qa_path": "qa/chapter-0082.md",
-    "qa_sha": "96459e6550502949bd23eb280348ce0a723783ba",
+    "qa_sha": "bfcf46002c6a512804f45beb6fb3d0c45462f837",
     "provenance_path": "editorial/provenance/chapter-0082.json",
-    "provenance_sha": "d1a73da6d14e8fce249f760b762f290bf5b403f4"
+    "provenance_sha": "94ac8803028b47c64437e3d5f1a72cebb14eb33a"
   },
   "canonical_checks": [
     "Plany de la Verge",
@@ -40,5 +40,12 @@
     "Target 82 maps to E81.",
     "Chinese 小妖精 is rendered nonsexually; sexualized English gloss is not reproduced.",
     "Target 83 begins Lovesickness (1)."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": true,
+    "note": "restored first-Saintess lament, two-pillar collapse, and Quovadis political-force statement"
+  }
 }
