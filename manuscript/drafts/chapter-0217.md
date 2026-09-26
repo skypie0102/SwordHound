@@ -358,6 +358,10 @@ overloaded.
 
 A **mana surge**.
 
+Mana tore through blood vessels and ravaged the whole body—
+
+a condition even more dangerous than a cerebral infarction or cerebral hemorrhage.
+
 Most people—
 
 died immediately.
@@ -373,6 +377,10 @@ To lose bodily function.
 To become—
 
 little more than breathing flesh.
+
+Accumulated mana could erupt through pores across the entire body at once—
+
+triggering a terrifying explosion.
 
 Seere looked down—
 
