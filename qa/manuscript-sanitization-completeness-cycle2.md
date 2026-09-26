@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 111/273 remediation chapters complete; next affected family National University League (236–244)
+**Current stage:** Phase 4 ACTIVE — 114/273 remediation chapters complete; next affected family Survival Contest (245–249)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 111  
-**Remaining remediation chapters:** 162  
-**Completed affected families:** 38  
-**Current next family:** National University League (236–244)  
-**Earliest remaining target:** Chapter 236
+**Completed remediation chapters:** 114  
+**Remaining remediation chapters:** 159  
+**Completed affected families:** 39  
+**Current next family:** Survival Contest (245–249)  
+**Earliest remaining target:** Chapter 247
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,9 +179,9 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **National University League (236–244)**.
-2. Repair queued Chapters **236, 238, and 241** after a complete-family reread.
-3. Re-run both primary gates across all nine chapters and refresh all evidence/hash bindings.
+1. Continue Phase 4 with **Survival Contest (245–249)**.
+2. Repair Chapters **247** and **249** after a complete-family reread.
+3. Re-run both primary content gates across the family and refresh every evidence/hash binding.
 4. Keep EPUB assembly blocked.
 
 
@@ -190,12 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **111**;
-- remaining remediation chapters: **162**;
-- affected families completed: **38**;
-- manuscript edits: **111**;
-- last completed affected family: **Suspicion (234–235)**;
-- next affected family: **National University League (236–244)**;
-- earliest remaining target: **236**;
-- all completed affected families through Chapter 235 have refreshed evidence/hash bindings;
+- completed remediation chapters: **114**;
+- remaining remediation chapters: **159**;
+- affected families completed: **39**;
+- manuscript edits: **114**;
+- last completed affected family: **National University League (236–244)**;
+- next affected family: **Survival Contest (245–249)**;
+- earliest remaining target: **247**;
+- all completed affected families through Chapter 244 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
