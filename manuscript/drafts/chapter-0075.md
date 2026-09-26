@@ -166,7 +166,7 @@ Four days.
 
 The flood had actually helped him.
 
-Fast water carried logs and debris.
+Fast water carried floating corpses and logs, letting him move several times faster.
 
 The canopy provided alternate routes over rivers.
 
