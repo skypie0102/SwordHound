@@ -2,8 +2,8 @@
   "chapter": 62,
   "title": "The Protagonist of Hunting (2)",
   "accepted": true,
-  "accepted_date": "2026-09-18",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Protagonist of Hunting",
     "range": [
@@ -11,7 +11,7 @@
       63
     ],
     "family_qa_path": "qa/families/protagonist-hunting-0061-0063.md",
-    "family_qa_sha": "d81ff09d6ec185a8c59730efb8957b7618ebc12c",
+    "family_qa_sha": "43124146b9a0e2786d44678d08296ff46b84561f",
     "status": "pass"
   },
   "evidence": {
@@ -22,9 +22,9 @@
     "draft_path": "manuscript/drafts/chapter-0062.md",
     "draft_sha": "aa267163bf0959623b7adc94f906518e8ac73ada",
     "qa_path": "qa/chapter-0062.md",
-    "qa_sha": "96233c67df63ff633095dc751b8a56f33d01ff41",
+    "qa_sha": "3dfd41cdc72fbdda193ed384c5cc5fb15ece3eaf",
     "provenance_path": "editorial/provenance/chapter-0062.json",
-    "provenance_sha": "992881b23e547e497ed2c0567ded79bd0d9643eb"
+    "provenance_sha": "66742ef167edc6480d63619a0737225c80101d7c"
   },
   "canonical_checks": [
     "Madam Eight-Legs",
@@ -40,5 +40,12 @@
     "Recovered English is shifted by one chapter here: target 62 uses E61.",
     "Chinese coloration/detail controls the Piranha Natteri window where E61 is corrupted.",
     "Mate-selection pressure remains source-level and non-erotic."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family Phase-4 reread reconfirmed prior PASS with no manuscript change"
+  }
 }
