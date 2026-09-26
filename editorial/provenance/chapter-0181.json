@@ -9,8 +9,8 @@
       185
     ],
     "family_qa_path": "qa/families/midterm-random-defense-0179-0185.md",
-    "family_qa_sha": "5e3faad9482fbac0eae393e1b5d7b98293ae7ede",
-    "status": "pass"
+    "family_qa_sha": "dafd62fa6916218737bbd547058b0695c4c74cb9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/181.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0181.md",
-    "blob_sha": "28960f629861883eb9323e493db5fab42e036b0b"
+    "blob_sha": "871289c77a39e95c15f39a52734fea7a28513a7f"
   },
   "qa": {
     "path": "qa/chapter-0181.md",
-    "blob_sha": "4c1c2468186e97e979e1c38c081d270e92da30b7",
-    "status": "pass"
+    "blob_sha": "06d43e62941e5fa78f688bfeff3fddc113af5633",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/186.txt",
     "chinese_sha": "50e4d6ed09229936a98c12da53190591ce11a402",
     "english_path": "source/chapters/chapter-184.xhtml",
     "english_sha": "7a87123315c4960cbf6dfccad9c5c8d866636f5c",
     "purpose": "both begin Aftermath (1), target186"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      179,
+      185
+    ],
+    "manuscript_changed": true,
+    "note": "restored distinct support dialogue, poison-wall containment, and Granola pestering"
   }
 }
