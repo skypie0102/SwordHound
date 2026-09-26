@@ -2508,7 +2508,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/ghost-castle-ultra-deep-sea-0363-0365.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2518,7 +2518,9 @@
       "completeness_reviewed_date": "2026-09-25",
       "completeness_failures": [
         364
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 88,
@@ -2533,7 +2535,7 @@
       ],
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "sanitization_review_file": "qa/cycle2/sanitization/underground-extension-0366-0368.md",
       "sanitization_reviewed_date": "2026-09-23",
       "sanitization_failures": [
@@ -2545,7 +2547,9 @@
       "completeness_failures": [
         367,
         368
-      ]
+      ],
+      "boundary_review_file": "qa/cycle2/boundary/underground-extension-0366-0368.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "index": 89,
@@ -24612,7 +24616,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-361.xhtml",
       "english_mtl_blob_sha": "c29c6fd1e0ee8f294e7b1c4d5401f70261cf81ef",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 361,
+        "notes": "Cycle 2 Phase 3 verified target 363 aligns by title/content to recovered English E361; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0363.md",
         "draft_blob_sha": "560432815970cfea5a9ce8640e2a47923ad02231",
@@ -24635,9 +24643,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -24645,7 +24654,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_review_file": "qa/cycle2/boundary/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 364,
@@ -24664,7 +24675,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-362.xhtml",
       "english_mtl_blob_sha": "a0eb7dbcfa38b119d1d7afbff4bdc27ecba5ccf9",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 362,
+        "notes": "Cycle 2 Phase 3 verified target 364 aligns by title/content to recovered English E362; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0364.md",
         "draft_blob_sha": "ba0f7e5de6a62d7dcd19396c560a660dde5658ca",
@@ -24687,9 +24702,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source explicitly says the axe-blade bridge cuts progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result."
+        "Cycle 2 Phase 1 FAIL: the source explicitly says the axe-blade bridge cuts progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -24697,7 +24713,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the axe-blade bridge is source-explicitly said to cut progressively deeper into prisoners' soles until their feet are severed; the draft omits the severing result."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_review_file": "qa/cycle2/boundary/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 365,
@@ -24716,7 +24734,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-363.xhtml",
       "english_mtl_blob_sha": "e33a2d09c58d34952728c753154f94dd5a1a3708",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 363,
+        "notes": "Cycle 2 Phase 3 verified target 365 aligns by title/content to recovered English E363; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0365.md",
         "draft_blob_sha": "6e5c23223fbb42620ce8c196a2d08ac540a4e508",
@@ -24739,9 +24761,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -24749,7 +24772,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md"
+      "completeness_review_file": "qa/cycle2/completeness/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_review_file": "qa/cycle2/boundary/ghost-castle-ultra-deep-sea-0363-0365.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 366,
@@ -24768,7 +24793,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-364.xhtml",
       "english_mtl_blob_sha": "decf2be4c09e5f86a5e136ead090795a96c50f03",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 364,
+        "notes": "Cycle 2 Phase 3 verified target 366 aligns by title/content to recovered English E364; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0366.md",
         "draft_blob_sha": "95f4bb027db8db07c5650a190c950c8db5f8e271",
@@ -24791,9 +24820,10 @@
       },
       "sanitization_status": "pass",
       "completeness_status": "pass",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification."
+        "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": false,
       "rebind_status": "not_applicable_until_edit",
@@ -24801,7 +24831,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 PASS: direct complete-source revalidation found no material missing, collapsed, duplicated, or invented source content."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md"
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md",
+      "boundary_review_file": "qa/cycle2/boundary/underground-extension-0366-0368.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 367,
@@ -24820,7 +24852,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-365.xhtml",
       "english_mtl_blob_sha": "f8e5fc94abe8995dfe2d508e57768d40ee78062a",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 365,
+        "notes": "Cycle 2 Phase 3 verified target 367 aligns by title/content to recovered English E365; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0367.md",
         "draft_blob_sha": "16c75168cb7029bfb80e885c62111b1272225adc",
@@ -24843,9 +24879,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: the source's explicit image of corpses reduced to meat chunks swallowed in a few bites is generalized to vague hunger after corpse-eating dialogue."
+        "Cycle 2 Phase 1 FAIL: the source's explicit image of corpses reduced to meat chunks swallowed in a few bites is generalized to vague hunger after corpse-eating dialogue.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -24853,7 +24890,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the source explicitly reduces dead inmates to meat chunks swallowed in a few bites; the draft generalizes this to vague hunger."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md"
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md",
+      "boundary_review_file": "qa/cycle2/boundary/underground-extension-0366-0368.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 368,
@@ -24872,7 +24911,11 @@
       ],
       "english_mtl_reference": "source/chapters/chapter-366.xhtml",
       "english_mtl_blob_sha": "d3658eed13f15f035fda9b66845a1d197fe3cb29",
-      "source_exception": null,
+      "source_exception": {
+        "raw_status": "shifted_english_alignment",
+        "verified_english_mtl_chapter": 366,
+        "notes": "Cycle 2 Phase 3 verified target 368 aligns by title/content to recovered English E366; Chinese remains semantic authority."
+      },
       "baseline": {
         "draft_path": "manuscript/drafts/chapter-0368.md",
         "draft_blob_sha": "6ca7d0dc26381fc8b9cbaa391118e6788888e072",
@@ -24895,9 +24938,10 @@
       },
       "sanitization_status": "fail",
       "completeness_status": "fail",
-      "boundary_alignment_status": "pending",
+      "boundary_alignment_status": "exception-documented",
       "findings": [
-        "Cycle 2 Phase 1 FAIL: Vikir source-explicitly crushes a pursuing major's face underfoot and Kirko vomits/rolls after the throat-slam; the draft softens these to the face hitting the ground and Kirko coughing/rolling."
+        "Cycle 2 Phase 1 FAIL: Vikir source-explicitly crushes a pursuing major's face underfoot and Kirko vomits/rolls after the throat-slam; the draft softens these to the face hitting the ground and Kirko coughing/rolling.",
+        "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
       "remediation_required": true,
       "rebind_status": "pending_phase4_remediation",
@@ -24905,7 +24949,9 @@
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Vikir source-explicitly crushes a pursuing major's face underfoot and Kirko vomits/rolls after the throat-slam; the draft softens these to the face hitting the ground and Kirko coughing/rolling."
       ],
-      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md"
+      "completeness_review_file": "qa/cycle2/completeness/underground-extension-0366-0368.md",
+      "boundary_review_file": "qa/cycle2/boundary/underground-extension-0366-0368.md",
+      "boundary_reviewed_date": "2026-09-26"
     },
     {
       "chapter": 369,
@@ -36665,23 +36711,23 @@
   },
   "phase3": {
     "status": "active",
-    "boundary_alignment_reviewed_count": 362,
+    "boundary_alignment_reviewed_count": 368,
     "boundary_alignment_pass_count": 53,
     "boundary_alignment_fail_count": 2,
-    "boundary_alignment_exception_documented_count": 307,
-    "families_reviewed_count": 86,
+    "boundary_alignment_exception_documented_count": 313,
+    "families_reviewed_count": 88,
     "families_pass_count": 14,
     "families_fail_count": 2,
-    "families_exception_documented_count": 70,
+    "families_exception_documented_count": 72,
     "manuscript_edits_during_review": 0,
-    "new_source_exception_rows": 295,
+    "new_source_exception_rows": 301,
     "next_family": {
-      "name": "Ghost Castle of the Ultra-Deep Sea",
-      "start": 363,
-      "end": 368
+      "name": "The Servant",
+      "start": 369,
+      "end": 370
     },
     "checkpoint_date": "2026-09-26",
-    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0362.md",
-    "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 295 Phase-3 additions = 331 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered."
+    "checkpoint_file": "qa/cycle2-phase3-checkpoint-0368.md",
+    "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 301 Phase-3 additions = 337 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered."
   }
 }
