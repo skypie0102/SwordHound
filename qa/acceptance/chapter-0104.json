@@ -2,8 +2,8 @@
   "chapter": 104,
   "title": "Nostalgia (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-26",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Nostalgia",
     "range": [
@@ -11,8 +11,8 @@
       104
     ],
     "family_qa_path": "qa/families/nostalgia-0101-0104.md",
-    "family_qa_sha": "14d09c863dcb4463cc49297ed22adf2203592d18",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "e870a99143b4ab7b382b49df959758e3d3c009e9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/104.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0104.md",
     "qa_sha": "1c2717b5d645b627fb9318e6f4e6987c1fe5a9cd",
     "provenance_path": "editorial/provenance/chapter-0104.json",
-    "provenance_sha": "5188f76c3120e571b166555679c283d09d21b423"
+    "provenance_sha": "2eeac7ca850b6cb12fb64f30022c00150f9af317"
   },
   "canonical_checks": [
     "Anubis",
@@ -54,5 +54,12 @@
     "reviewed_date": "2026-09-20",
     "result": "rebuilt_and_passed",
     "family_evidence": "qa/families/nostalgia-0101-0104.md"
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-26",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
