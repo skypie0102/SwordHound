@@ -1,5 +1,5 @@
 {
-  "notice": "FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT CYCLE 2 ACTIVE. Phases 1-3 are complete. Phase 4 is ACTIVE: Camus Morgue (20-25) is remediated/rebound; Chapters 22 and 24 were repaired, the full family was revalidated, and acceptance bindings for 20-25 were refreshed. Next affected family: Slave Auction (35-37), earliest remaining remediation target 35. EPUB assembly remains blocked until Cycle 2 closes.",
+  "notice": "Cycle 2 Phase 4 remediation active; 9/273 remediation chapters complete. Next affected family: Slaves of the Savage Tribe (52-54), earliest remaining target 52.",
   "target_chapter_count": 500,
   "accepted_count": 500,
   "staged_count": 0,
@@ -647,7 +647,7 @@
       "qa": "qa/chapter-0046.md",
       "provenance": "editorial/provenance/chapter-0046.json",
       "acceptance": "qa/acceptance/chapter-0046.json",
-      "acceptance_sha": "929db290d14d4123900fc820696faf7d8544849d",
+      "acceptance_sha": "02ebb93ca095d6ca9db50509e48bd3d92d0d9015",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -661,7 +661,7 @@
       "qa": "qa/chapter-0047.md",
       "provenance": "editorial/provenance/chapter-0047.json",
       "acceptance": "qa/acceptance/chapter-0047.json",
-      "acceptance_sha": "f6620ca22741e66fba363406eacf3c55ffa6026c",
+      "acceptance_sha": "4c04eeba3413ca199765b47ec71687aaa745a0ef",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -675,7 +675,7 @@
       "qa": "qa/chapter-0048.md",
       "provenance": "editorial/provenance/chapter-0048.json",
       "acceptance": "qa/acceptance/chapter-0048.json",
-      "acceptance_sha": "201da26e8770734bf6b218e69138c2af03ffe193",
+      "acceptance_sha": "92d89ebabcd2b76cdd7a83765ef2dd048cc6c763",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -689,7 +689,7 @@
       "qa": "qa/chapter-0049.md",
       "provenance": "editorial/provenance/chapter-0049.json",
       "acceptance": "qa/acceptance/chapter-0049.json",
-      "acceptance_sha": "03241ea5a3a846cccc86aa847b0fee7128556b9e",
+      "acceptance_sha": "958d08de4bfb7a429d6ecff3480c607ca9831000",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -703,7 +703,7 @@
       "qa": "qa/chapter-0050.md",
       "provenance": "editorial/provenance/chapter-0050.json",
       "acceptance": "qa/acceptance/chapter-0050.json",
-      "acceptance_sha": "156bb34c1737475ba749508d00c3c5ddcccae463",
+      "acceptance_sha": "b7bef41fdd4d3d858241c22edca28155442f3ad0",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -717,7 +717,7 @@
       "qa": "qa/chapter-0051.md",
       "provenance": "editorial/provenance/chapter-0051.json",
       "acceptance": "qa/acceptance/chapter-0051.json",
-      "acceptance_sha": "08ecec3e0fbeb844ad4ccf94e652949ae622bf55",
+      "acceptance_sha": "265e23018428b85901dcefbe1e694a966d61ff6d",
       "family_qa": "qa/families/husband-hunt-0046-0051.md"
     },
     {
@@ -7729,10 +7729,10 @@
     ],
     "current_phase": "phase_4_remediation_and_evidence_rebinding",
     "next_family": {
-      "name": "Camus Morgue",
+      "name": "Slaves of the Savage Tribe",
       "range": [
-        20,
-        25
+        52,
+        54
       ]
     },
     "every_chapter_requires_direct_review": true,
@@ -7838,15 +7838,26 @@
       "baseline_rows_altered": 0
     },
     "phase3_families_exception_documented_count": 102,
-    "phase4_status": "ready_not_started",
+    "phase4_status": "active",
     "phase4_next_family": {
-      "name": "Camus Morgue",
+      "name": "Slaves of the Savage Tribe",
       "range": [
-        20,
-        25
+        52,
+        54
       ]
     },
-    "phase4_earliest_remediation_chapter": 22,
-    "phase4_manuscript_edits": 0
+    "phase4_earliest_remediation_chapter": 52,
+    "phase4_manuscript_edits": 9,
+    "phase4_remediation_completed_chapters": 9,
+    "phase4_remediation_remaining_chapters": 264,
+    "phase4_families_completed": 4,
+    "phase4_last_completed_family": {
+      "name": "The Husband Hunt",
+      "range": [
+        46,
+        51
+      ]
+    },
+    "phase4_evidence_rebind_status": "Camus Morgue 20-25, Slave Auction 35-37, Morgue's United Front 40-42, and The Husband Hunt 46-51 complete"
   }
 }
