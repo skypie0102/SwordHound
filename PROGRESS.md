@@ -1,5 +1,20 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — advanced through Mixed Bath
+
+Phase 4 remediation/evidence rebinding is authoritative through **Mixed Bath (203–205)**.
+
+- **Preparing for the Festival (197): COMPLETE**
+- **The Corpse Queen (198–202): COMPLETE**
+- **Mixed Bath (203–205): COMPLETE**
+- remediation chapters complete: **91 / 273**
+- remediation chapters remaining: **182**
+- affected families complete: **33**
+- manuscript edits: **93**
+- Chapter 205 retains a documented safety-limited underage-nudity exception while all unrelated ordinary source omissions are restored
+- next affected family: **Festival Night (206–215)**
+- EPUB assembly remains blocked
+
 ## 2026-09-26 — Cycle 2 Phase 4 — Sin and Punishment complete
 
 Phase 4 remediation/evidence rebinding advanced through **Sin and Punishment (162–169)**.
