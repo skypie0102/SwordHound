@@ -2,23 +2,106 @@
   "chapter": 40,
   "title": "Morgue's United Front (1)",
   "source_policy": "chinese_semantic_fandom_canonical_2026-09-16",
-  "title_family": {"name":"Morgue's United Front","range":[40,42],"family_qa_path":"qa/families/morgue-united-front-0040-0042.md","family_qa_sha":"4d9218d405809337682b7f114b055076d970d8e3","status":"pass"},
-  "primary_source": {"path":"source/chinese/chapters/040.txt","blob_sha":"d2758d17729fe7ef698710531ee80db1469bd077","authority":"semantic_narrative_primary"},
-  "english_reference": {"path":"source/chapters/chapter-040.xhtml","blob_sha":"13f04369195db38d7375047cf2adb9f93400a5ce","target_alignment":40,"alignment_status":"verified_by_assassin_beelzebub_upgrade_barrymore_hugo_colosseo_ruby_mine_and_joint_expedition_endpoint","authority":"secondary_reference_only"},
-  "boundary_witness": {"path":"source/chinese/chapters/041.txt","blob_sha":"e14c8f6d51bbfff8d70ad08c9210c20c328f35bd","purpose":"continues Morgue's United Front with the joint frontier deployment"},
+  "title_family": {
+    "name": "Morgue's United Front",
+    "range": [
+      40,
+      42
+    ],
+    "family_qa_path": "qa/families/morgue-united-front-0040-0042.md",
+    "family_qa_sha": "c64367bdad75c36def92638c6428101c21edf167",
+    "status": "pass"
+  },
+  "primary_source": {
+    "path": "source/chinese/chapters/040.txt",
+    "blob_sha": "d2758d17729fe7ef698710531ee80db1469bd077",
+    "authority": "semantic_narrative_primary"
+  },
+  "english_reference": {
+    "path": "source/chapters/chapter-040.xhtml",
+    "blob_sha": "13f04369195db38d7375047cf2adb9f93400a5ce",
+    "target_alignment": 40,
+    "alignment_status": "verified_by_assassin_beelzebub_upgrade_barrymore_hugo_colosseo_ruby_mine_and_joint_expedition_endpoint",
+    "authority": "secondary_reference_only"
+  },
+  "boundary_witness": {
+    "path": "source/chinese/chapters/041.txt",
+    "blob_sha": "e14c8f6d51bbfff8d70ad08c9210c20c328f35bd",
+    "purpose": "continues Morgue's United Front with the joint frontier deployment"
+  },
   "canonical_references": [
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"Vikir Van Baskerville/Equipment","retrieval_mode":"indexed_web_result","applies_to":["Tough Life","Infernal Buffalo"]},
-    {"site":"Revenge of the Iron-Blooded Sword Hound Fandom","page_title":"project-established accepted terminology","retrieval_mode":"accepted_project_evidence","applies_to":["Beelzebub","Sword Graduator","Head Butler John Barrymore","Colosseo Academy","Morgue Clan","Highbro","Middlebro","Lowbro"]}
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "Vikir Van Baskerville/Equipment",
+      "retrieval_mode": "indexed_web_result",
+      "applies_to": [
+        "Tough Life",
+        "Infernal Buffalo"
+      ]
+    },
+    {
+      "site": "Revenge of the Iron-Blooded Sword Hound Fandom",
+      "page_title": "project-established accepted terminology",
+      "retrieval_mode": "accepted_project_evidence",
+      "applies_to": [
+        "Beelzebub",
+        "Sword Graduator",
+        "Head Butler John Barrymore",
+        "Colosseo Academy",
+        "Morgue Clan",
+        "Highbro",
+        "Middlebro",
+        "Lowbro"
+      ]
+    }
   ],
-  "draft": {"path":"manuscript/drafts/chapter-0040.md","blob_sha":"36e7e2c1edfcd5c4a58e80ab9e60dd8b9ba4dc93"},
-  "qa": {"path":"qa/chapter-0040.md","blob_sha":"de25334243fd8a9a5c8e26870f2f7d5ae5817833","status":"pass"},
+  "draft": {
+    "path": "manuscript/drafts/chapter-0040.md",
+    "blob_sha": "012ba6328766dde491ca6e740baddfe28cb6e021"
+  },
+  "qa": {
+    "path": "qa/chapter-0040.md",
+    "blob_sha": "3290546ba9677cbe786f0788d497bb193ceca354",
+    "status": "pass"
+  },
   "documented_decisions": [
-    {"topic":"beelzebub_slot2","final":"Tough Life — Infernal Buffalo (A)","basis":"Chinese Chapter 40 info window plus indexed canonical equipment evidence"},
-    {"topic":"replaced_ability","final":"Superspeed Regeneration replaced by Tough Life without inventing an old slot number","basis":"Chinese narrative"},
-    {"topic":"assassin_rank","final":"Sword Graduator","basis":"Chinese liquid-aura description plus established project rank terminology"},
-    {"topic":"academy_reward","final":"Colosseo Academy; <=25 at admission and <=30 at graduation","basis":"Chinese Chapter 40"},
-    {"topic":"family_endpoint","final":"joint punitive expedition","basis":"Chinese 联合讨伐战; recovered-English war-of-attrition wording rejected"}
+    {
+      "topic": "beelzebub_slot2",
+      "final": "Tough Life — Infernal Buffalo (A)",
+      "basis": "Chinese Chapter 40 info window plus indexed canonical equipment evidence"
+    },
+    {
+      "topic": "replaced_ability",
+      "final": "Superspeed Regeneration replaced by Tough Life without inventing an old slot number",
+      "basis": "Chinese narrative"
+    },
+    {
+      "topic": "assassin_rank",
+      "final": "Sword Graduator",
+      "basis": "Chinese liquid-aura description plus established project rank terminology"
+    },
+    {
+      "topic": "academy_reward",
+      "final": "Colosseo Academy; <=25 at admission and <=30 at graduation",
+      "basis": "Chinese Chapter 40"
+    },
+    {
+      "topic": "family_endpoint",
+      "final": "joint punitive expedition",
+      "basis": "Chinese 联合讨伐战; recovered-English war-of-attrition wording rejected"
+    }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      40,
+      42
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-supported close-range chest stabbing before defensive reduction to a faint scratch"
+  }
 }
