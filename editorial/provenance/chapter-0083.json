@@ -9,7 +9,7 @@
       84
     ],
     "family_qa_path": "qa/families/lovesickness-0083-0084.md",
-    "family_qa_sha": "dfea1c85d4071dc8e8cad0bf0f9f1e543a737c5d",
+    "family_qa_sha": "1828b0c512b980d69af558d3517da65ad49330e4",
     "status": "pass"
   },
   "primary_source": {
@@ -49,11 +49,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0083.md",
-    "blob_sha": "3ba29ec77731da0e697b273bf5e92e79daaf3d49"
+    "blob_sha": "19ef63d9a38a59bccb8fa31f179338a75f478494"
   },
   "qa": {
     "path": "qa/chapter-0083.md",
-    "blob_sha": "9a799cfa3169cdcad903a606a36b2875e84abf25",
+    "blob_sha": "4853ce660f9d15a75702eb09a39d58c73bf03c45",
     "status": "pass"
   },
   "documented_decisions": [
@@ -84,5 +84,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      83,
+      84
+    ],
+    "manuscript_changed": true,
+    "note": "restored severed-limb aftermath, wetting/bear-testicle memories, and source-force drug wrongdoing"
+  }
 }
