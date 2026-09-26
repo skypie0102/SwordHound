@@ -132,7 +132,7 @@ wearing Seth Le Baskerville.
 
 Andromalius was dead.
 
-Its collaborators inside Baskerville had been exposed and punished.
+Its collaborators inside Baskerville had been rooted out and executed.
 
 That root had been cut.
 
@@ -234,7 +234,7 @@ softened by his granddaughter—
 
 had become much harder to regard as an untouchable monster.
 
-Even his appearance had begun changing to accommodate Pomeranian's tastes.
+He had even stopped shaving his beard lately to suit Pomeranian's preference.
 
 And Dantalian still lacked enough accumulated power to recreate the full strength of the person drawn from memory.
 
