@@ -9,7 +9,7 @@
       71
     ],
     "family_qa_path": "qa/families/blood-relatives-0068-0071.md",
-    "family_qa_sha": "2b67aae2f051e09387447bd5503e5433b8d8a3bc",
+    "family_qa_sha": "847319fb4a4bd148e80c2915fddb0de0b8be5e75",
     "status": "pass"
   },
   "primary_source": {
@@ -61,11 +61,11 @@
   ],
   "draft": {
     "path": "manuscript/drafts/chapter-0069.md",
-    "blob_sha": "24da6e2f484446ad806117ba9f3748a78c0ff048"
+    "blob_sha": "fc5f09e66d235dc0d3f98efab182f086e8b989e8"
   },
   "qa": {
     "path": "qa/chapter-0069.md",
-    "blob_sha": "87f3043060e5012c8621b340e60297cbf9452b45",
+    "blob_sha": "4819a8212c03786040adde07f75c664b3fa30cbf",
     "status": "pass"
   },
   "documented_decisions": [
@@ -96,5 +96,16 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18"
+  "accepted_date": "2026-09-26",
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-26",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      68,
+      71
+    ],
+    "manuscript_changed": true,
+    "note": "restored just-over-twenty age estimate for the swallowed Rokoko hunter"
+  }
 }
