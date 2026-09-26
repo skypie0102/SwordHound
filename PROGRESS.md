@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Five Stars complete
+
+Phase 4 remediation/evidence rebinding advanced through **Five Stars (253–254)**.
+
+- remediation chapters complete: **117 / 273**;
+- remediation chapters remaining: **156**;
+- affected families complete: **41**;
+- manuscript edits: **117**;
+- Chapter **254** repaired and rebound;
+- Chapter **253** complete-family revalidated unchanged;
+- next affected family: **The Grave of Swords (255–260)**, earliest remaining target **255**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Survival Contest complete
 
 Phase 4 remediation/evidence rebinding advanced through **Survival Contest (245–249)**.
