@@ -2,8 +2,8 @@
   "chapter": 205,
   "title": "Mixed Bath (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Mixed Bath",
     "range": [
@@ -11,8 +11,8 @@
       205
     ],
     "family_qa_path": "qa/families/mixed-bath-0203-0205.md",
-    "family_qa_sha": "10ab8b9cd3551b8768763c50ce7b3d4a4239bc6a",
-    "status": "pass"
+    "family_qa_sha": "7b48b13d3c897c92a6dac815bb52ccea7a377c98",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/205.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-203.xhtml",
     "english_reference_sha": "d5ec3cfda68eb2ee1d6fa22367eb34092ae4f2fc",
     "draft_path": "manuscript/drafts/chapter-0205.md",
-    "draft_sha": "c8ba7fe99be05b2db5a3dcbc43b32eec3e3ee467",
+    "draft_sha": "1e4ad0e6bf5a062200d99cef51e63d9c7c1e5a63",
     "qa_path": "qa/chapter-0205.md",
-    "qa_sha": "197afd2522164c1d16bd02e3b0ca0920ad41ed82",
+    "qa_sha": "3fb7a557fd4b7f10890c2bf8bdd96b2c49fb5215",
     "provenance_path": "editorial/provenance/chapter-0205.json",
-    "provenance_sha": "01a232b2987ee5142a59cc72c8f4931d4d89aeb6"
+    "provenance_sha": "a293ec73e5f6304dc6d254672c65a438446266ea"
   },
   "canonical_checks": [
     "Dolores L. Quovadis",
@@ -41,7 +41,15 @@
   "documented_limits": [
     "Source explicitly denies Vikir lust; do not eroticize the bath comedy.",
     "Dolores's Night Hound interest remains one-sided POV.",
-    "Choco familiarity is not identity recognition."
+    "Choco familiarity is not identity recognition.",
+    "Source-explicit underage nudity wording remains safety-limited and is not expanded; unrelated ordinary source beats are restored."
   ],
-  "next_family_alignment_note": "Target206→E204 begins Festival Night (1)."
+  "next_family_alignment_note": "Target206→E204 begins Festival Night (1).",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored paired-Fang mechanics and nonsexual pet-affection beats; explicit underage nudity wording remains safety-limited"
+  }
 }
