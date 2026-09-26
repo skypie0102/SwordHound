@@ -9,8 +9,8 @@
       189
     ],
     "family_qa_path": "qa/families/aftermath-0186-0189.md",
-    "family_qa_sha": "6eb3b97cbdf0e726c387f4ad5774e43548298cb9",
-    "status": "pass"
+    "family_qa_sha": "2fbe451379e4d70feb63ed5e8d97d30b058c0482",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/187.txt",
@@ -25,12 +25,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0187.md",
-    "blob_sha": "5decd46823aed5348ecd61db63b7db3a9462cf68"
+    "blob_sha": "3bee3be0b9a551745d571cbcafe518e6c78c305c"
   },
   "qa": {
     "path": "qa/chapter-0187.md",
-    "blob_sha": "e826fa2da0ed43b5ab3578a67a393548cbd2f6b0",
-    "status": "pass"
+    "blob_sha": "e7d6908b8a53ece720abd5e7998c0f48b1967706",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "documented_decisions": [
     {
@@ -55,12 +55,23 @@
     }
   ],
   "accepted": true,
-  "accepted_date": "2026-09-18",
+  "accepted_date": "2026-09-27",
   "boundary_witness": {
     "chinese_path": "source/chinese/chapters/190.txt",
     "chinese_sha": "090ea8b431f3d46a7c53469a4f2c0b4c621eef38",
     "english_path": "source/chapters/chapter-188.xhtml",
     "english_sha": "14dcf17305b925b422bc79656578fb236858c9c3",
     "purpose": "both begin Attack Land (1), target190"
+  },
+  "prior_accepted_date": "2026-09-18",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      186,
+      189
+    ],
+    "manuscript_changed": true,
+    "note": "restored first-year/fourth-year salmon teaching analogy and the survival-becomes-a-vulgar-joke line"
   }
 }
