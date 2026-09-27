@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/326.txt` — `c8b718d73bbad080d7cae4b013c0dc7d0874de4c`
 - English witness: **E324** — `14355b10ef022a68beed426b1dd4e4020a7d50cd`
-- Rebuilt draft: `manuscript/drafts/chapter-0326.md` — `29883c38bad8c616412acc11e3e9e579b96f4731`
+- Rebuilt draft: `manuscript/drafts/chapter-0326.md` — `bf2e839f3d827b28ed8cba41bfe9d02e10c7ec8a`
 
 ## Completeness findings
 - Historical draft compressed the full six-stat explanation, Magic Resistance benefits, Camus precedent, extended low-Level reward logic, second no-leveling reason, A+ Blaze item, and ship-sinking reveal.
@@ -18,3 +18,14 @@
 - PASS — triplets receive the complete Level-reward-scaling explanation and the whispered additional anti-leveling reason without invented detail.
 - PASS — **Fire of Inferiority — Blaze** is A+ / Heat+1000 / fueled by inferiority; Vikir explicitly recognizes his own old inferiority as abundant fuel.
 - PASS — Beetlemen's only escape ship is revealed to have sunk in the Black Sea.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the source-explicit Magic Resistance shorthand: it **halves an enemy's magical attack** while suppressing internal mana rampage.
+
+The complete Shadowless King family was reread after remediation. Chapters 327–328 remain manuscript-unchanged and pass both Cycle-2 content gates. Shifted mapping remains **326→E324 through 330→E328**; target 331 begins *Draw (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Shadowless King family QA.
