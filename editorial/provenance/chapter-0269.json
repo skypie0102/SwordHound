@@ -9,8 +9,8 @@
       269
     ],
     "family_qa_path": "qa/families/eucharist-0268-0269.md",
-    "family_qa_sha": "13b3a0271a96562ba70394aee3d0f74d5be06857",
-    "status": "pass"
+    "family_qa_sha": "bf99929c5c51f02cd95ffd22c3cd8026e44648cb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/269.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0269.md",
-    "blob_sha": "ce723694efc6e88d0b2efcdee710c751a6d3d91e"
+    "blob_sha": "4e10eebe1f4d321c02e6266c679622cf7d169d78"
   },
   "qa": {
     "path": "qa/chapter-0269.md",
-    "blob_sha": "eb5aec76ed9f3e192e7bb5f8170585872dac3131",
-    "status": "pass"
+    "blob_sha": "6bd662e309c0ac5f71a4831b75b17ef75658fca6",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Ledger identifies a dominant funding/hiding-place name, but that name is intentionally withheld until the following family reveals it."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Ledger identifies a dominant funding/hiding-place name, but that name is intentionally withheld until the following family reveals it.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      268,
+      269
+    ],
+    "manuscript_changed": true,
+    "note": "restored bodily severing, near-crushing, both leaders' fear-wetting, Ohm mush-state, Elmanny fatal organ burns, and cross-dressing/whipping thought"
+  }
 }
