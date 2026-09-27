@@ -91,11 +91,12 @@ even fairies did not properly understand how to obtain one.
 > The bag-like form is actually part of its egg sac.  
 > It does not harm its host.  
 > Its primary food is Strange Candy.  
-> If it goes too long without consuming candy, it naturally disappears.
+> If it goes too long without consuming candy, it naturally disappears.  
+> Its excretion output is as voracious as its appetite, and its excrement has subtly different properties from what it consumed.
 >
 > **Candy Conversion — Special**
 >
-> **Feed 100 candies of the same color → receive 1 candy of a different random color.**
+> **After eating 100 candies of the same color, it excretes 1 candy of a different random color.**
 
 “…Lottery.”
 
@@ -105,11 +106,13 @@ A tiny parasite moved inside.
 
 Animals hosting it remained healthy.
 
-But gained an unusual function.
+But gained an unusual function—
+
+the ability to eat candy and excrete candy.
 
 Feed the parasite **100 red Strength candies**—
 
-and it might output—
+and it may excrete—
 
 a gold Level candy.
 
@@ -191,7 +194,9 @@ you can eat the stat candies.”
 
 Baby Madam would also grow by consuming them.
 
-The parasite's processing function—
+Eating and excreting were separate processes.
+
+The parasite's conversion through excretion—
 
 was a separate benefit.
 
