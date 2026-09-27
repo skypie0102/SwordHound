@@ -58,6 +58,8 @@ Sweat.
 
 Saliva.
 
+Nasal discharge.
+
 Footprints.
 
 Hair.
@@ -162,11 +164,11 @@ Madeline’s breathing grew excited.
 
 [So many plans.]
 
-[Children.]
+[First, I'll have lots of children!]
 
-[Fresh blood.]
+[Children made from my own blood and flesh—how delicious they will be.]
 
-[Fresh flesh.]
+[I'm already drooling.]
 
 She descended into the dry lakebed.
 
@@ -249,6 +251,10 @@ who had recreated their work?
 [No.]
 
 [A human could not reproduce this so precisely.]
+
+[Could it be the demon hunter rumored to have killed my companions?]
+
+[But he should be imprisoned in Nouvelle Vague.]
 
 Madeline dismissed the concern.
 
