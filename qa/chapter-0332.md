@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/332.txt` — `cacd92387d304768eb9ba2205d75065d13c68e89`
 - English witness: **E330** — `3c7dec499dc916bdf97dd8e44f7d8fde4d6617e9`
-- Draft: `manuscript/drafts/chapter-0332.md` — `6623af63391b8e9c30cfe908c2837c4f10843bf0`
+- Draft: `manuscript/drafts/chapter-0332.md` — `6a5622e35460e37b92f1855a47451760f3112b19`
 
 ## Checks
 - PASS — “draw” means the fairy wants Vikir to skip upcoming managed floors in exchange for ordinary clear rewards so he stops monopolizing hidden stages/pieces.
@@ -21,3 +21,14 @@
 - PASS — the acquisition condition remains fictional tower mechanics rather than practical harm guidance.
 - PASS — Floor5 single-person gate opens at family end; no Mating Room material is imported early.
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local item names remain explicitly unverified where applicable.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the fairy's unusual **twelve-finger anatomy** in the initial offer: it folds down two fingers and holds up the remaining ten.
+
+The complete Draw family was reread after remediation. Shifted mapping remains **331→E329, 332→E330**; target 333/E331 begins *The Mating Room (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Draw family QA.
