@@ -9,8 +9,8 @@
       350
     ],
     "family_qa_path": "qa/families/key-man-0348-0350.md",
-    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
-    "status": "pass"
+    "family_qa_sha": "56c2212b539fa289c866953613a545f356e3180d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/349.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0349.md",
-    "blob_sha": "ee18ad8e283d24b515664cb435c3742b8d06e806"
+    "blob_sha": "a022933d7e60b95420070b5388ca7e8883157b40"
   },
   "qa": {
     "path": "qa/chapter-0349.md",
-    "blob_sha": "e0819fa1445328b56e6aa17b30b04642b4f39397",
-    "status": "pass"
+    "blob_sha": "1257a93ef5f6b57103ae704cf4a571bd9561d9b1",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local terms are not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "uncertainty_guard": "Pigi blood is an observed anti-demon/tower anomaly only; origin/ancestry/species remains unknown."
+  "accepted_date": "2026-09-27",
+  "uncertainty_guard": "Pigi blood is an observed anti-demon/tower anomaly only; origin/ancestry/species remains unknown.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      348,
+      350
+    ],
+    "manuscript_changed": true,
+    "note": "restored internal-organ melting, terrible agony, and final body-splitting fairy death"
+  }
 }
