@@ -508,6 +508,8 @@ Soon—
 
 the corpses burned.
 
+A burnt, foul corpse stench spread through the area.
+
 Vikir waited until the contamination was reduced to ash.
 
 Then turned away.
