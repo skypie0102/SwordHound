@@ -9,8 +9,8 @@
       475
     ],
     "family_qa_path": "qa/families/tochka-annihilation-0471-0475.md",
-    "family_qa_sha": "08babc668e1137750285061091f293ee383f384c",
-    "status": "pass"
+    "family_qa_sha": "b0eba6403c8ea3ba230af8ce22578630048369f7",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/473.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0473.md",
-    "blob_sha": "8edd3453ed2e52fc0a25be5f14b9ca1c02410cff"
+    "blob_sha": "0944fd88a8f83ab89ba2ae628f7ee373b6354130"
   },
   "qa": {
     "path": "qa/chapter-0473.md",
-    "blob_sha": "8b7872284b4f123ff6bddbd103855e3a22583267",
-    "status": "pass"
+    "blob_sha": "4750e00165e136fa617aec3995ad0cc894435adb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary forms and indexed Fandom evidence used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-28",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      471,
+      475
+    ],
+    "manuscript_changed": true,
+    "note": "restored watermelon head-splitting image"
+  }
 }
