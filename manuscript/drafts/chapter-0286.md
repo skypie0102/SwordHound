@@ -296,7 +296,7 @@ One horn fractured.
 
 His ornate armor split.
 
-Bartolomeo’s human body beneath the manifestation began failing too.
+That same attack had once turned Bartolomeo’s human body into something like a tattered rag in an instant.
 
 *The Eighth Form still isn’t fully stable.*
 
