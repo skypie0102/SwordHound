@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/340.txt` — `b4cafb661729e07284366ea5867f2f05b89dd244`
 - English witness: **E338** — `b629f8d5732701bcea53e854f58bfb977f71a45a`
-- Draft: `manuscript/drafts/chapter-0340.md` — `0816e966517c2b4c13fa5692889b238ddc901959`
+- Draft: `manuscript/drafts/chapter-0340.md` — `3ef4f6a4c89132e9617618258834470b421710a5`
 
 ## Checks
 - PASS — Hugo’s great-monster lesson is preserved as an analogy for comfort-induced loss of wildness, not a new tower rule.
@@ -20,3 +20,14 @@
 - PASS — end reveal is unresolved: Dolores addresses Vikir as **Choco**, the name she previously gave his black-dog form, rather than clearly identifying him as Vikir or Night Hound.
 - PASS — noisy witness “Peanutblack/Peanut Sword” wording is not promoted; established project term **Choco** controls.
 - LIMIT — designated Fandom remains robots-blocked; no additional mechanism behind Dolores’s perception is invented before target341.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the one-reply letter limitation, Hugo's high-cholesterol bait detail, and Dolores's explicitly affectionate/loving gaze associated with Night Hound.
+
+The complete Trap family was reread after remediation. Mapping remains **339→E337, 340→E338**; target 341 begins *Private Life (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Trap family QA.
