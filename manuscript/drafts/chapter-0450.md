@@ -310,19 +310,19 @@ Not an admission delivered so casually.
 
 He clenched his teeth.
 
-“What happened to the others?”
+“What happened to my second brother?”
 
 Hopps’s smile did not change.
 
-[One has already become something like Thomas.]
+[That one has already become something like Thomas.]
 
 “Bullshit!”
 
 “Thomas was twisted from the beginning!”
 
-“But he isn’t—”
+“But my second brother isn’t—”
 
-“He’s the kindest of us!”
+“He’s the kindest and purest among us!”
 
 “He would never willingly become a demon—!”
 
@@ -349,6 +349,8 @@ Hopps sighed.
 [What a waste.]
 
 [I had intended to use that body as my next vessel.]
+
+Hopps watched Juskin’s body twist into a strange, grotesque shape beneath the red fluid.
 
 The crimson spirits entered Juskin.
 
@@ -427,6 +429,12 @@ Hopps laughed.
 [But our objective remains the same.]
 
 [Opening the Gate.]
+
+[We once had more than ten companions.]
+
+[Now only you and I remain.]
+
+[It is time we spoke seriously.]
 
 Hopps nodded.
 
