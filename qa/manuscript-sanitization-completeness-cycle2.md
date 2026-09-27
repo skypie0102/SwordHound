@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 228/273 remediation chapters complete; next affected family The Night Walkers (425–429)
+**Current stage:** Phase 4 ACTIVE — 236/273 remediation chapters complete; next affected family Dreaming the Impossible Dream (437–440)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 228  
-**Remaining remediation chapters:** 45  
-**Completed affected families:** 82  
-**Current next family:** The Night Walkers (425–429)  
-**Earliest remaining target:** Chapter 425
+**Completed remediation chapters:** 236  
+**Remaining remediation chapters:** 37  
+**Completed affected families:** 85  
+**Current next family:** Dreaming the Impossible Dream (437–440)  
+**Earliest remaining target:** Chapter 438
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **The Night Walkers (425–429)**.
-2. Repair all source-supported queued defects after a complete-family reread.
-3. Re-run sanitization fidelity and completeness across the family.
-4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
+1. Continue Phase 4 with **Dreaming the Impossible Dream (437–440)**.
+2. Repair queued Chapters **438–439** after a complete-family reread.
+3. Re-run both primary gates and refresh all evidence/hash bindings.
+4. Keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-27
@@ -190,13 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **228**;
-- remaining remediation chapters: **45**;
-- affected families completed: **82**;
-- manuscript edits: **227**;
-- last completed affected family: **How to Become a Wandering Knight (422–424)**;
-- next affected family: **The Night Walkers (425–429)**;
-- earliest remaining target: **425**;
-- open structural failures: **none**;
-- all completed affected families through Chapter 424 have refreshed evidence/hash bindings;
+- completed remediation chapters: **236**;
+- remaining remediation chapters: **37**;
+- affected families completed: **85**;
+- manuscript edits: **235**;
+- last completed affected family: **The Returned Hound (434–436)**;
+- next affected family: **Dreaming the Impossible Dream (437–440)**;
+- earliest remaining target: **438**;
+- all completed affected families through Chapter 436 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
