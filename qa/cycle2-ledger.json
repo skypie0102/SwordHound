@@ -3389,7 +3389,16 @@
         389
       ],
       "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        386,
+        387,
+        389
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 386, 387, and 389 remediated and fully rebound; Chapters 385 and 388 complete-family revalidated unchanged."
     },
     {
       "index": 96,
@@ -27894,7 +27903,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
       "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 386,
@@ -27946,15 +27959,19 @@
         "Cycle 2 Phase 1 FAIL: the source repeatedly calls Garam a 'dog who eats shit,' but the draft sanitizes the scatological nickname to 'Rotten Dog.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Garam's recurring source-explicit 'dog who eats shit' nickname is sanitized to 'Rotten Dog.'"
       ],
       "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
       "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 387,
@@ -28005,15 +28022,19 @@
         "Cycle 2 Phase 1 FAIL: Kirko's source-explicit 'garbage' / 'parasitize society' degradation is omitted, Pal's snot/sweat injury aftermath is reduced, and Garam's scatological nickname is sanitized to 'Rotten Dog.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Kirko's 'garbage' / 'parasitize society' degradation, Pal's snot/sweat injury aftermath, and Garam's scatological nickname are reduced or omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
       "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 388,
@@ -28072,7 +28093,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
       "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 389,
@@ -28123,15 +28148,19 @@
         "Cycle 2 Phase 1 FAIL: Kirko's source proverb that a dog cannot stop eating shit is euphemized to a dog that 'eats filth.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or shared Chinese container/title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/rotten-dog-0385-0389.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Kirko's scatological proverb about D'Ordume is euphemized, and Vikir's gloomy/oppressive birthday framing is neutralized."
       ],
       "completeness_review_file": "qa/cycle2/completeness/rotten-dog-0385-0389.md",
       "boundary_review_file": "qa/cycle2/boundary/rotten-dog-0385-0389.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 390,
@@ -39583,22 +39612,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 200,
-    "remediation_remaining_chapters": 73,
-    "families_completed": 74,
+    "remediation_completed_chapters": 203,
+    "remediation_remaining_chapters": 70,
+    "families_completed": 75,
     "last_completed_family": {
-      "name": "Kennel",
-      "start": 382,
-      "end": 384
-    },
-    "next_family": {
       "name": "The Rotten Dog of Nouvelle Vague",
       "start": 385,
       "end": 389
     },
-    "earliest_remediation_chapter": 386,
-    "manuscript_edits": 199,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete; The Shadowless King of the Black Sea 326-330 complete; Draw 331-332 complete; The Mating Room 333-338 complete; Trap 339-340 complete; Crime and Punishment 356-358 complete; Voluntary Escort 359-362 complete; Ghost Castle of the Ultra-Deep Sea 363-365 complete; The Underground Extension Construction 366-368 complete; The Servant 369-370 complete; Poseidon 375-376 complete; The Hounds of Nouvelle Vague 377-381 complete; Kennel 382-384 complete",
+    "next_family": {
+      "name": "The Worst Torture",
+      "start": 390,
+      "end": 395
+    },
+    "earliest_remediation_chapter": 390,
+    "manuscript_edits": 202,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete; The Shadowless King of the Black Sea 326-330 complete; Draw 331-332 complete; The Mating Room 333-338 complete; Trap 339-340 complete; Crime and Punishment 356-358 complete; Voluntary Escort 359-362 complete; Ghost Castle of the Ultra-Deep Sea 363-365 complete; The Underground Extension Construction 366-368 complete; The Servant 369-370 complete; Poseidon 375-376 complete; The Hounds of Nouvelle Vague 377-381 complete; Kennel 382-384 complete; The Rotten Dog of Nouvelle Vague 385-389 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits.",
     "open_structural_failures": [],
