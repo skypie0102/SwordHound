@@ -2,8 +2,8 @@
   "chapter": 312,
   "title": "Hell Tree (6)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Hell Tree",
     "range": [
@@ -11,8 +11,8 @@
       313
     ],
     "family_qa_path": "qa/families/hell-tree-0307-0313.md",
-    "family_qa_sha": "a986e8c3052a9d6bc03fc1347ec9611720429da9",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "389a7262b3b1e5268f23529e44d7dfa40d31b8b0",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/312.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0312.md",
     "qa_sha": "fc2d11b347837109b6ad53cf5088052db0df043d",
     "provenance_path": "editorial/provenance/chapter-0312.json",
-    "provenance_sha": "de5d1c59136f7d7f1d771cf695a97252080364c2"
+    "provenance_sha": "6561b091523e004545294bfa034cb5998e346f26"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/hell-tree-0307-0313.md",
     "initial_priority_target": true
   },
-  "continuity_correction": "Use Immortality — Gargoyle (S); do not promote local Basilisk-regeneration drift."
+  "continuity_correction": "Use Immortality — Gargoyle (S); do not promote local Basilisk-regeneration drift.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
