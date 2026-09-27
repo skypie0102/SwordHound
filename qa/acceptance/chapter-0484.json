@@ -2,8 +2,8 @@
   "chapter": 484,
   "title": "The Marquis of Discord (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Marquis of Discord",
     "range": [
@@ -11,8 +11,8 @@
       489
     ],
     "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
-    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
-    "status": "pass"
+    "family_qa_sha": "e2fdcab9b47fb4998933f7d1c825fe9193dc3628",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/484.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-482.xhtml",
     "english_reference_sha": "2c37b975c260b70e4cbc66bf622aff6f002fd028",
     "draft_path": "manuscript/drafts/chapter-0484.md",
-    "draft_sha": "b139b8349271c8b9d91ab198b943a0b27fcc8370",
+    "draft_sha": "a47ac78becf6e2256395b480a2bd668a4d91a5f3",
     "qa_path": "qa/chapter-0484.md",
-    "qa_sha": "09b1c71af2408295849c3de696c5d46494ca11f4",
+    "qa_sha": "90ed652a69d750b71fa5d885315f15b669cdfb4b",
     "provenance_path": "editorial/provenance/chapter-0484.json",
-    "provenance_sha": "fce41a8a15cf0871a0b2f8fd0209703ac28010c6"
+    "provenance_sha": "81efd9260be1b243cf254f0688443948d6fe0948"
   },
   "documented_limits": [
     "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused.",
     "No Running Hound material from target490 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored mortality statistics, noble-school volunteering requirement, and No. 7/No. 8 chicken example"
+  }
 }
