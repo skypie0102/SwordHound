@@ -410,6 +410,10 @@ Afraid of being crippled.
 
 Afraid of what might happen to families outside.
 
+As that realization settled over them again—
+
+their faces filled with self-reproach and self-loathing.
+
 Now—
 
 they lowered themselves before the triplets.
