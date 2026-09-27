@@ -9,8 +9,8 @@
       325
     ],
     "family_qa_path": "qa/families/underdogma-0321-0325.md",
-    "family_qa_sha": "43e8526ecc65f43bfa970d7641c90bcb77a19cb0",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "3e5376a445631aaafe49b0617288af3b0b058d93",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/325.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0325.md",
-    "blob_sha": "4ace3d86094bcc148ecf463afc19702790a31393"
+    "blob_sha": "10312e94f938572446cbb848f0a88b7dd40c0562"
   },
   "qa": {
     "path": "qa/chapter-0325.md",
-    "blob_sha": "e5c1c0c29e4b31f3ae6a8d6254ef4e841aee7698",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "347fe72e8ec85ea60d88dcd58614b22b2656e124",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/race forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "key_reveals": [
     "Dogma becomes A+ Majin Underdogma / Blazing Inferiority Complex.",
     "Vikir obtains White Magic Resistance +1 after reverse Candy Shop conversion and Conversion Bug rerolls."
@@ -51,5 +51,17 @@
     "family_evidence": "qa/families/underdogma-0321-0325.md",
     "initial_priority_target": true
   },
-  "progression_guard": "Vikir remains Level1; Magic Resistance +1 unlocks the sixth tower-stat slot."
+  "progression_guard": "Vikir remains Level1; Magic Resistance +1 unlocks the sixth tower-stat slot.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      321,
+      325
+    ],
+    "manuscript_changed": true,
+    "note": "restored Conversion Bug bodily mechanic and adult-partner build descriptor; underage body-attractiveness wording remains safety-limited"
+  },
+  "safety_limited_note": "Dolores is explicitly underage in established continuity; the source's body-attractiveness wording is not sexualized in the English draft. Unrelated ordinary content is retained."
 }
