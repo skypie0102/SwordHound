@@ -2,8 +2,8 @@
   "chapter": 467,
   "title": "The Prelude to a Counterattack (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Prelude to a Counterattack",
     "range": [
@@ -11,8 +11,8 @@
       470
     ],
     "family_qa_path": "qa/families/prelude-counterattack-0465-0470.md",
-    "family_qa_sha": "7a725aedfa48c2d6e5a7a485938b41fd946b0163",
-    "status": "pass"
+    "family_qa_sha": "4c8a5c4d4441b905738ae8106f6cbdfbb839a359",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/467.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-465.xhtml",
     "english_reference_sha": "d9c2c9f10f0240b94ad7ad8d3ea20e956b14d720",
     "draft_path": "manuscript/drafts/chapter-0467.md",
-    "draft_sha": "c3eb095e72eb2e183b37254d05bdb87259c8fbf7",
+    "draft_sha": "dc10e3d97163802da8f906d74314b3f724ae159b",
     "qa_path": "qa/chapter-0467.md",
-    "qa_sha": "b94639c89bd0153b379586be7496c320ce20092e",
+    "qa_sha": "5066977e68eada4b9f780ad3ac8c5cff12b6bfb2",
     "provenance_path": "editorial/provenance/chapter-0467.json",
-    "provenance_sha": "532615c08bf680c94c17ab49758177b9b2f95611"
+    "provenance_sha": "49d3d9b3c8c4061bc4cfa212720204b929f297dd"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
     "No target471-family material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored Vikir resting his head on Dolores's shoulder"
+  }
 }
