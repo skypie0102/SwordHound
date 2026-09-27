@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/350.txt` — `af56e054b4b78bf6d283940bf576f959f8fadc4e`
 - English witness: **E348** — `01ced25b970f6544b8c69addfc33d2d83cc5cb8c`
-- Draft: `manuscript/drafts/chapter-0350.md` — `084d512e30c02cb7d3d6e5076205f1afc4f1bbe5`
+- Draft: `manuscript/drafts/chapter-0350.md` — `e012c66c8ba7091539a6ddb4794fa84634dae138`
 
 ## Checks
 - PASS — Return Scroll returns Vikir to Tutorial and resets Level; Quo Vadis / First Apostle theological callback remains source-timed.
@@ -19,3 +19,14 @@
 - PASS — Amdusias is revealed only at chapter end as Fifth Corpse, Danger Rating S+, Serpent's Womb, giant unicorn, and Winston's corrupter.
 - PASS — The Decalogue line remains 'Reap the first life born that year.'
 - LIMIT — designated Fandom remains robots-blocked; established glossary canon is reused and source-local Serpent's Tongue / Turning the Sky Upside Down are not falsely presented as wiki-confirmed.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored the tutorial fairy's distorted face with **pieces of flesh and internal organs dripping** from it, and restored the complete seven-entry **Titles** field in Vikir's Level-100 status window.
+
+The complete Key man family was reread after remediation. Chapter 348 remains unchanged and passes both Cycle-2 content gates. Shifted mapping remains **348→E346, 349→E347, 350→E348**; target 351 begins *Outside the Tower (1)* from the declared combined Chinese 351+352 container.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Key man family QA.
