@@ -9,8 +9,8 @@
       368
     ],
     "family_qa_path": "qa/families/underground-extension-0366-0368.md",
-    "family_qa_sha": "71737ec5d2a108e6c217b12b66995f7a67409118",
-    "status": "pass"
+    "family_qa_sha": "f56487a25a104421341074ecff54be9907762db9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/366.txt",
@@ -28,10 +28,21 @@
   },
   "qa": {
     "path": "qa/chapter-0366.md",
-    "blob_sha": "1a52625085369c680bf5197eb3ff7f54f70f1f54",
-    "status": "pass"
+    "blob_sha": "8118abc3dbb5aec21d34e427e2da591bb53e457b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference": "Fresh designated-Fandom index checks confirmed Kirko Grimm, D'Ordume D'Orcdile, Garam Nord, Black Tongue, and Lieutenant Bastille; later spoilers were not imported.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      366,
+      368
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
