@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 170/273 remediation chapters complete; next affected family The Mating Room (333–338)
+**Current stage:** Phase 4 ACTIVE — 178/273 remediation chapters complete; next affected family Ballak (343–347)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 170  
-**Remaining remediation chapters:** 103  
-**Completed affected families:** 58  
-**Current next family:** The Mating Room (333–338)  
-**Earliest remaining target:** Chapter 333
+**Completed remediation chapters:** 178  
+**Remaining remediation chapters:** 95  
+**Completed affected families:** 61  
+**Current next family:** Ballak (343–347)  
+**Earliest remaining target:** Chapter 343
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,8 +179,8 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **The Shadowless King of the Black Sea (326–330)**.
-2. Reread the complete family and remediate queued Chapters **326, 329, and 330**.
+1. Continue Phase 4 with **Ballak (343–347)**.
+2. Repair all source-supported queued defects after a complete-family reread.
 3. Re-run sanitization fidelity and completeness across the family.
 4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
@@ -190,14 +190,13 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **165**;
-- remaining remediation chapters: **108**;
-- affected families completed: **56**;
-- manuscript edits: **164**;
-- last completed affected family: **Underdogma (321–325)**;
-- resolved Phase-3 structural failures: **273, 283**;
+- completed remediation chapters: **178**;
+- remaining remediation chapters: **95**;
+- affected families completed: **61**;
+- manuscript edits: **177**;
+- last completed affected family: **Private Life (341–342)**;
+- next affected family: **Ballak (343–347)**;
+- earliest remaining target: **343**;
 - open structural failures: **none**;
-- next affected family: **The Shadowless King of the Black Sea (326–330)**;
-- earliest remaining target: **326**;
-- all completed affected families through Chapter 325 have refreshed evidence/hash bindings;
+- all completed affected families through Chapter 342 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
