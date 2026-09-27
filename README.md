@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 135/273 remediation chapters complete through Money War (273–278); next affected family What Money Can't Buy (279–282)**
+- Current stage: **Phase 4 ACTIVE — 159/273 remediation chapters complete through Hell Tree (307–313); next affected family Surplus Man (314–320)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -28,9 +28,9 @@ Phase 0 froze the opening baseline at `8177e1c192cd7fcd55b04009fbe826bbd50f586b`
 
 Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY-LIMITED-REVIEWED** with no manuscript edits during discovery. Phase 2 is also complete across Chapters 1–500 at **229 PASS / 271 FAIL**; **198** completeness failures overlap Phase-1 FAILs and **73** are completeness-only additions, producing **273 unique remediation chapters**.
 
-Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The only structural FAILs are Chapters **273 and 283**, both already in the Phase-4 remediation population.
+Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The structural FAILs at Chapters **273 and 283** have both been resolved during Phase 4.
 
-Phase 4 is active. Forty-seven affected families are remediated/revalidated and rebound through **Money War (273–278)**. **135 / 273** remediation chapters are complete and **138** remain; Phase 4 has made **134** manuscript edits so far. Chapter **273's** structural duplication is resolved; Chapter **283** remains the only open Phase-3 structural failure. Continue with **What Money Can't Buy (279–282)**.
+Phase 4 is active. Fifty-four affected families are remediated/revalidated and rebound through **Hell Tree (307–313)**. **159 / 273** remediation chapters are complete and **114** remain; Phase 4 has made **158** manuscript edits so far. Both former Phase-3 structural failures (273 and 283) are resolved. Continue with **Surplus Man (314–320)**, earliest remaining target Chapter **316**.
 
 ## Current source policy
 
