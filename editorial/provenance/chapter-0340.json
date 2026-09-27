@@ -9,8 +9,8 @@
       340
     ],
     "family_qa_path": "qa/families/trap-0339-0340.md",
-    "family_qa_sha": "2e975d71a8a9f2f4ca5eb694d9dd8beef90a29eb",
-    "status": "pass"
+    "family_qa_sha": "c44d34273daedc8025d48da8eb4c1ca478fafddd",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/340.txt",
@@ -24,16 +24,27 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0340.md",
-    "blob_sha": "0816e966517c2b4c13fa5692889b238ddc901959"
+    "blob_sha": "3ef4f6a4c89132e9617618258834470b421710a5"
   },
   "qa": {
     "path": "qa/chapter-0340.md",
-    "blob_sha": "31388e51d9d5a621f607c912e459ef8e0ade7b37",
-    "status": "pass"
+    "blob_sha": "b8101d37780691e85972de2e5dbdca9d6f20e52a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "interpretation_guard": "The fake-letter mechanism is Vikir's deduction from the impossible Janet reply, not narrator-confirmed cosmology.",
-  "reveal_guard": "Dolores calling Vikir 'Choco' is left unresolved; no Private Life explanation is imported."
+  "reveal_guard": "Dolores calling Vikir 'Choco' is left unresolved; no Private Life explanation is imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      339,
+      340
+    ],
+    "manuscript_changed": true,
+    "note": "restored one-reply letter limit, high-cholesterol bait, and affectionate/loving gaze toward Vikir"
+  }
 }
