@@ -334,29 +334,29 @@ At the center—
 
 materials corresponding to a human body began reacting.
 
-Water.
+**35 liters of water.**
 
-Carbon.
+**20 kilograms of carbon.**
 
-Ammonia.
+**4 liters of ammonia gas.**
 
-Lime.
+**1.5 kilograms of lime.**
 
-Phosphorus.
+**800 grams of phosphorus.**
 
-Salt.
+**250 grams of salt.**
 
-Potassium nitrate.
+**100 grams of potassium nitrate.**
 
-Sulfur.
+**80 grams of sulfur.**
 
-Fluorine.
+**7.5 grams of fluorine.**
 
-Iron.
+**5 grams of iron.**
 
-Silicon.
+**3 grams of silicon.**
 
-Trace elements.
+**Fifteen other trace elements.**
 
 And above all—
 
