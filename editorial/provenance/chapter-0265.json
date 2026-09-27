@@ -9,8 +9,8 @@
       267
     ],
     "family_qa_path": "qa/families/season-redemption-0264-0267.md",
-    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
-    "status": "pass"
+    "family_qa_sha": "c8458b703c0e032a9d91ec3ce127bba8e220834f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/265.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0265.md",
-    "blob_sha": "3934b934f330352f2ea34eaf4d71650e3cc1ddc6"
+    "blob_sha": "a21803b83bc20be4bf38c6428a05446373792465"
   },
   "qa": {
     "path": "qa/chapter-0265.md",
-    "blob_sha": "9dfc222f0e59c22fef4c44d4bdf91dfb876a4514",
-    "status": "pass"
+    "blob_sha": "ff859ea495a0ee29c99f7ca4129a9c19a6f0f45d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      264,
+      267
+    ],
+    "manuscript_changed": true,
+    "note": "restored tongue-root curling / complete throat-blockage poison mechanism"
+  }
 }
