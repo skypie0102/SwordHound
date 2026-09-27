@@ -154,6 +154,24 @@ without a gap—
 
 hardly looked human.
 
+Vikir watched him for a moment.
+
+Black Tongue had poor relations with nearly every Warden in Nouvelle Vague.
+
+His feuds with **D'Ordume** and **Souaré** were especially bitter.
+
+D'Ordume hated him because Black Tongue repeatedly obstructed his attempts to seize and divert prison supplies and materials.
+
+Souaré's grudge went back to the surface.
+
+Black Tongue was said to have blown away half of Souaré's face.
+
+According to Garam's journals—
+
+the two had clashed repeatedly in famous naval battles and regarded each other as old rivals.
+
+None of that mattered to Vikir's present objective.
+
 Black Tongue sat on one of the swollen parasites.
 
 SQUISH.
@@ -358,9 +376,13 @@ Black Tongue tilted his head.
 
 Black Tongue looked back at the file.
 
-“So that became the turning point?”
+“So because of that—did you change your identity?”
+
+“Disguise yourself as someone else?”
 
 “Yes.”
+
+“That was the turning point.”
 
 That much—
 
