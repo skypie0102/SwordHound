@@ -242,11 +242,11 @@ His words were short.
 
 “Remember this.”
 
-“You exist for each other by choice—
+“My existence is for you—
 
-not as possessions.”
+not your existence for me.”
 
-“Live well.”
+“May you continue to live well.”
 
 There were no hours of noble ceremony.
 
