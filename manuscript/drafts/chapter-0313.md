@@ -10,13 +10,7 @@ Its enormous body collapsed.
 
 The ruined street shook.
 
-Sulfur.
-
-Blood.
-
-Viscera.
-
-The discharge from the dead monster's body washed across the shop floor—
+Sulfur and blood sprayed from its burst abdomen across the shop floor—
 
 clearing away much of the perfume-and-ginkgo mixture.
 
@@ -154,7 +148,9 @@ Vikir already knew what an early-floor fairy could distribute.
 
 “If the quantity is high enough.”
 
-The fairy's mouth tore wider.
+The fairy's mouth tore wider, almost splitting at the corners.
+
+Bloodstains showed along the torn edges.
 
 Then—
 
