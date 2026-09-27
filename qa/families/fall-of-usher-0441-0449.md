@@ -46,3 +46,21 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 444 restores Bianca kissing Tudor **on the lips**, Vikir's route-clearing monsters being **beheaded with blood dripping**, and Lovegood's concrete note plus the long fan-gift list that explains how Love Shield reached Vikir.
+- Chapter 445 restores the **nasal-discharge** pursuit trail, Madeline's explicit plan to have children from her own blood/flesh and consume them, and her suspicion that the demon hunter who killed her companions should still be imprisoned in Nouvelle Vague.
+- Chapter 446 restores the alternate-history causality: Sade should have died after a failed Nouvelle Vague escape roughly **10,000 meters** deep as food for sea monsters, so Vikir's changed timeline newly makes Sade's strategic/military talent available.
+- Chapter 447 restores the Daylily **meat-patty / minced lower-body** image, the breeding-size tradeoff and later generational compensation, demon-body-fragment handling/dancing, and Isolde's skull contents/internal organs spilling out.
+- Chapter 449 restores Roderick's broken-internal-organ condition.
+- Chapters 441–443 and 448 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 441–449 after repair.
+- Shifted mapping remains **441→E439 through 449→E447**; target 450/E448 begins *Declaration of War (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Declaration of War (450–453)**, with queued remediation targets Chapters **450, 451, and 453**.
