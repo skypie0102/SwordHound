@@ -2,8 +2,8 @@
   "chapter": 275,
   "title": "Money War (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Money War",
     "range": [
@@ -11,8 +11,8 @@
       278
     ],
     "family_qa_path": "qa/families/money-war-0273-0278.md",
-    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
-    "status": "pass"
+    "family_qa_sha": "bddac9b4e79e2582574e8f216ef9549e3b9d354a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/275.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-273.xhtml",
     "english_reference_sha": "3220e237b54c61dcbe3fac52f4b635566c5e6efc",
     "draft_path": "manuscript/drafts/chapter-0275.md",
-    "draft_sha": "eac341322bf3fea51276e2543c69426a5c4aa058",
+    "draft_sha": "7d92c4443c714670a26b31fa0aecaad5aa3d45be",
     "qa_path": "qa/chapter-0275.md",
-    "qa_sha": "66bdf4b06bd6221782606563e72ae46eedd047d5",
+    "qa_sha": "a0527e4ee8e29eb69cd4a82adb409320e1127bbb",
     "provenance_path": "editorial/provenance/chapter-0275.json",
-    "provenance_sha": "461082ccfc8f8dd6c1d18484efe29ae7f88a76a5"
+    "provenance_sha": "cfe2793b18b8450e5e03103f9d08c8016e63c891"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No What Money Can't Buy material from target279 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored exact 60,000-ton salt figure"
+  }
 }
