@@ -9,8 +9,8 @@
       395
     ],
     "family_qa_path": "qa/families/worst-torture-0390-0395.md",
-    "family_qa_sha": "f486932b5c01bf79dcbe536eb187ac1c59d67ce5",
-    "status": "pass"
+    "family_qa_sha": "fa32cfb1e4d2d1d87dd5caff0c32f156477bf150",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/391.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0391.md",
-    "blob_sha": "fbf42899307feeccfd6d1878bedbf145e6494cef"
+    "blob_sha": "dab05d2f7ceab65bb373db097d200226b998f596"
   },
   "qa": {
     "path": "qa/chapter-0391.md",
-    "blob_sha": "a64f6e67f9909bb9f80e5147844dcf6429dfeae1",
-    "status": "pass"
+    "blob_sha": "f06128738a79daceb8cc9df101d19ce541248d24",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      390,
+      395
+    ],
+    "manuscript_changed": true,
+    "note": "restored centipede-eye vessels, fountain blood, eaten-guards statement, and nauseating spit details"
+  }
 }
