@@ -291,11 +291,9 @@ Blue scales.
 
 Sharp claws.
 
-One seized the struggling female.
+One hand seized the struggling female by the hindquarters.
 
-The other—
-
-the male.
+The other seized the male the same way.
 
 Both monsters fought.
 
@@ -345,7 +343,7 @@ the same hands returned.
 
 Lifted her.
 
-Transferred her to the adjacent section.
+Transferred the forcibly impregnated female to the adjacent section.
 
 The sign there read—
 
