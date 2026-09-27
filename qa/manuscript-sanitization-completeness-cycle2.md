@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 126/273 remediation chapters complete; next affected family The Eucharist (268–269)
+**Current stage:** Phase 4 ACTIVE — 127/273 remediation chapters complete; next affected family Rich Friends (270–272)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 126  
-**Remaining remediation chapters:** 147  
-**Completed affected families:** 44  
-**Current next family:** The Eucharist (268–269)  
-**Earliest remaining target:** Chapter 269
+**Completed remediation chapters:** 127  
+**Remaining remediation chapters:** 146  
+**Completed affected families:** 45  
+**Current next family:** Rich Friends (270–272)  
+**Earliest remaining target:** Chapter 270
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,7 +179,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **The Eucharist (268–269)**.
+1. Continue Phase 4 with **Rich Friends (270–272)**.
 2. Repair all source-supported queued defects after a complete-family reread.
 3. Re-run sanitization fidelity and completeness across the family.
 4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
@@ -190,12 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **126**;
-- remaining remediation chapters: **147**;
-- affected families completed: **44**;
-- manuscript edits: **125**;
-- last completed affected family: **The Season of Redemption (264–267)**;
-- next affected family: **The Eucharist (268–269)**;
-- earliest remaining target: **269**;
-- all completed affected families through Chapter 267 have refreshed evidence/hash bindings;
+- completed remediation chapters: **127**;
+- remaining remediation chapters: **146**;
+- affected families completed: **45**;
+- manuscript edits: **126**;
+- last completed affected family: **The Eucharist (268–269)**;
+- next affected family: **Rich Friends (270–272)**;
+- earliest remaining target: **270**;
+- all completed affected families through Chapter 269 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
