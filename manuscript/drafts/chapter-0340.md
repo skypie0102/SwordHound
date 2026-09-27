@@ -40,9 +40,9 @@ Entertainment.
 
 Contact with the outside world.
 
-The letter system even allowed replies.
+The letter system allowed only **one reply** to each letter.
 
-Reading one immediately cost another golden candy.
+Reading that reply immediately cost another golden candy.
 
 Waiting thirty days—
 
@@ -118,7 +118,7 @@ Anything unnatural would only create suspicion.
 
 Instead—
 
-fatty meat.
+fatty, high-cholesterol cuts of meat.
 
 Rich.
 
@@ -492,9 +492,11 @@ Or as Night Hound?
 
 Her speech sounded like she was addressing Vikir.
 
-But the warmth in her eyes—
+But the affection in her eyes—
 
-looked much more like the way she treated Night Hound.
+a look filled with love—
+
+was the kind she showed Night Hound.
 
 *Did she discover my identity?*
 
