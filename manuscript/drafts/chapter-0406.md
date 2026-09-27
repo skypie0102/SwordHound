@@ -46,6 +46,8 @@ In Vikir’s previous life—
 
 it had appeared among the demons’ final weapons late in the Age of Destruction.
 
+It had once been one of the **First Corpse’s sacrifices**.
+
 *I never expected to find it here.*
 
 Black Tongue gazed at the wrinkled blade lovingly.
