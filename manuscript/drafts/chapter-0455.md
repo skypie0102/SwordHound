@@ -394,6 +394,10 @@ Explosions chained across the wall.
 
 Metal fragments tore through the Poison Humans below.
 
+Among the shrapnel and debris hurled into the air—
+
+not a single intact limb remained.
+
 Tudor stared.
 
 “There isn’t even some bizarre secret trick.”
