@@ -2,8 +2,8 @@
   "chapter": 479,
   "title": "Downtown Naval Warfare (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Downtown Naval Warfare",
     "range": [
@@ -11,8 +11,8 @@
       482
     ],
     "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
-    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
-    "status": "pass"
+    "family_qa_sha": "dcc1fdb5494ee06f5bc0095ca9439666b5b2db13",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/479.txt",
@@ -24,10 +24,17 @@
     "qa_path": "qa/chapter-0479.md",
     "qa_sha": "6b344387045d04ad4dfd09a6dfe30e673b6bbe63",
     "provenance_path": "editorial/provenance/chapter-0479.json",
-    "provenance_sha": "2ba57112f15d08030a0220c8caf49fe5292dff15"
+    "provenance_sha": "dab16ed8460a02b7a6941d96df8e3969564e358a"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms.",
     "No Marquis of Discord material from target483 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
