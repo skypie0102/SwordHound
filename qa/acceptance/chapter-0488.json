@@ -2,8 +2,8 @@
   "chapter": 488,
   "title": "The Marquis of Discord (6)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-28",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Marquis of Discord",
     "range": [
@@ -11,8 +11,8 @@
       489
     ],
     "family_qa_path": "qa/families/marquis-discord-0483-0489.md",
-    "family_qa_sha": "c66f9e824e177b7b080755602464194b71d1756b",
-    "status": "pass"
+    "family_qa_sha": "e2fdcab9b47fb4998933f7d1c825fe9193dc3628",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/488.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-486.xhtml",
     "english_reference_sha": "50dab847fb7a2706b650417175469d98427b7eb4",
     "draft_path": "manuscript/drafts/chapter-0488.md",
-    "draft_sha": "5c98ddce872de2f831bc0b372a974c4be8fad1af",
+    "draft_sha": "15714f2e31f860e20d7983d3886754f1f018c5c6",
     "qa_path": "qa/chapter-0488.md",
-    "qa_sha": "9294c8fe8421efe1caee5f1e251c69a252e30ead",
+    "qa_sha": "239c4aa886c89a68e028d2d3a5772550e4fdf0e5",
     "provenance_path": "editorial/provenance/chapter-0488.json",
-    "provenance_sha": "c4600da4e4f343980fd556b3820c9396069fe999"
+    "provenance_sha": "d8f8b4e44e164719f8b9f1ce44fa99412264d89a"
   },
   "documented_limits": [
     "Direct Fandom page access remained robots-blocked; established glossary/indexed forms were reused.",
     "No Running Hound material from target490 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-28",
+    "manuscript_changed": true,
+    "note": "restored Baal/Andras foul-stench details"
+  }
 }
