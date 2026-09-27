@@ -134,11 +134,13 @@ Heads flew.
 
 Dozens.
 
+Skull fragments, brain matter, and droplets of blood scattered through the air.
+
 The black end of the club—
 
 marked by two pale spots like an orca’s head—
 
-vanished into blood and gore.
+vanished into the gore.
 
 Where Orca walked—
 
