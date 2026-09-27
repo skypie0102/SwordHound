@@ -12,14 +12,14 @@
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
 **Boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
-**Current phase:** Phase 4 ACTIVE — 135/273 remediation chapters complete through Money War (273–278); next affected family What Money Can't Buy (279–282)
+**Current phase:** Phase 4 ACTIVE — 159/273 remediation chapters complete through Hell Tree (307–313); next affected family Surplus Man (314–320)
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
 
 ## Current priority
 
-The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**. Forty-seven affected families are complete through **Money War (273–278)**; continue with **What Money Can't Buy (279–282)**.
+The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**. Fifty-four affected families are complete through **Hell Tree (307–313)**; continue with **Surplus Man (314–320)**.
 
 Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The structural pass has reviewed Chapters **1–500** across **118 / 118** contiguous title families and is complete. It rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
 
@@ -89,7 +89,7 @@ Phase 2 completeness is **COMPLETE through Chapter 500**:
 
 Closure evidence: `qa/cycle2-phase2-checkpoint-0500.md`.
 
-Phase 3 is complete at **500 / 500** targets across **118 / 118** families with **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, **429 genuine new source-exception rows**, and **0 manuscript edits**. The structural failure at Chapter **273** is now resolved in Phase 4; Chapter **283** remains open. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. Phase 4 is active and has advanced through **The Hound of the Night (75–77)**.
+Phase 3 is complete at **500 / 500** targets across **118 / 118** families with **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, **429 genuine new source-exception rows**, and **0 manuscript edits**. The structural failures at Chapters **273 and 283** are both resolved in Phase 4. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. Phase 4 is active and has advanced through **The Hound of the Night (75–77)**.
 
 ## Release gate
 
@@ -100,13 +100,13 @@ Complete-EPUB assembly, presentation QA, and final packaging are deferred until 
 
 - Status: **ACTIVE**
 - Remediation population: **273 unique chapters**
-- Completed remediation chapters: **135**
-- Remaining remediation chapters: **138**
-- Completed affected families: **47**
-- Manuscript edits during Phase 4: **134**
-- Last completed affected family: **Money War (273–278)**
-- Chapter **273** structural failure: **RESOLVED**
-- Remaining open structural failure: **283**
-- Next affected family: **What Money Can't Buy (279–282)**
-- Earliest remaining remediation target: **279**
+- Completed remediation chapters: **159**
+- Remaining remediation chapters: **114**
+- Completed affected families: **54**
+- Manuscript edits during Phase 4: **158**
+- Last completed affected family: **Hell Tree (307–313)**
+- Resolved structural failures: **273, 283**
+- Open structural failures: **none**
+- Next affected family: **Surplus Man (314–320)**
+- Earliest remaining remediation target: **316**
 - EPUB assembly remains blocked until Phases 4–6 close.
