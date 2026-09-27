@@ -12,14 +12,14 @@
 **Completeness revalidated:** 500 / 500 — COMPLETE — 229 PASS / 271 FAIL
 **Boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed new failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 73 additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499) raise the combined remediation population to 273 unique chapters
-**Current phase:** Phase 4 ACTIVE — 185/273 remediation chapters complete through Outside the Tower (351–355); next affected family Crime and Punishment (356–358)
+**Current phase:** Phase 4 ACTIVE — 193/273 remediation chapters complete through The Servant (369–370); next affected family Solitary Confinement (371–372)
 **Project completion:** NOT RELEASE-COMPLETE while Cycle 2 is active  
 **EPUB assembly:** BLOCKED  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md
 
 ## Current priority
 
-The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**. Sixty-four affected families are complete through **Outside the Tower (351–355)**; continue with **Crime and Punishment (356–358)**.
+The immediate project focus is **Cycle 2 Phase 4: remediation and evidence rebinding**. Sixty-nine affected families are complete through **The Servant (369–370)**; continue with **Solitary Confinement (371–372)**.
 
 Phase 1 sanitization and Phase 2 direct completeness review are both complete across all **500 / 500** targets. The structural pass has reviewed Chapters **1–500** across **118 / 118** contiguous title families and is complete. It rechecks title-family/chapter transitions, shared or combined Chinese raw containers, the 54/55 overlap, localized source gaps, shifted/nontrivial English witness mappings, Side Story boundaries/order, and duplicated/displaced source blocks.
 
@@ -100,12 +100,12 @@ Complete-EPUB assembly, presentation QA, and final packaging are deferred until 
 
 - Status: **ACTIVE**
 - Remediation population: **273 unique chapters**
-- Completed remediation chapters: **185**
-- Remaining remediation chapters: **88**
-- Completed affected families: **64**
-- Manuscript edits during Phase 4: **184**
-- Last completed affected family: **Outside the Tower (351–355)**
-- Next affected family: **Crime and Punishment (356–358)**
-- Earliest remaining remediation target: **356**
+- Completed remediation chapters: **193**
+- Remaining remediation chapters: **80**
+- Completed affected families: **69**
+- Manuscript edits during Phase 4: **192**
+- Last completed affected family: **The Servant (369–370)**
+- Next affected family: **Solitary Confinement (371–372)**
+- Earliest remaining remediation target: **371**
 - Open structural failures: **none**
 - EPUB assembly remains blocked until Phases 4–6 close.
