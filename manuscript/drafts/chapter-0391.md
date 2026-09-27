@@ -62,7 +62,7 @@ He was visibly deranged.
 
 Saliva hung from his mouth.
 
-His bloodshot eyes looked ready to burst.
+The engorged blood vessels in his eyes writhed like centipedes trying to crawl out across the surface of his eyeballs.
 
 BDISSEM chains rattled around his wrists.
 
@@ -96,7 +96,7 @@ The guards recoiled.
 
 Sakkuth bit his tongue.
 
-Then spat blood.
+His blood-filled mouth sprayed like a fountain.
 
 A red mist spread.
 
@@ -124,11 +124,13 @@ An adjutant leaned closer.
 
 “Then Flubber J Tarbond—”
 
-“We already sent people.”
+“We already sent people twice.”
 
 “They haven’t come back.”
 
-“Do not feed more men into that problem.”
+“They were probably ‘eaten.’”
+
+“Do not waste more lives on that mindless monster.”
 
 “BDISSEM?”
 
@@ -247,6 +249,8 @@ Sakkuth laughed.
 He spat on the dirt.
 
 Sssssss—
+
+The spit struck with a nauseating sound and a foul stench.
 
 The ground hissed and began to erode.
 
