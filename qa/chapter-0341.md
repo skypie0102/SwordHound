@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/341.txt` — `36d6b60a97e6600487661992945f1b87e4bf4559`
 - English witness: **E339** — `40a3d680cae8e17a3f464c1ec99a1903cdcdfe79`
-- Draft: `manuscript/drafts/chapter-0341.md` — `3b4cc4f4a71ef03e6816f4223e57ec3fd78ecb4a`
+- Draft: `manuscript/drafts/chapter-0341.md` — `ffd16a2d606bd4c1c0804755d6bebf58e0019b03`
 
 ## Checks
 - PASS — the target340 Choco perception mystery resolves simply because Vikir had not yet canceled Picaresque dog form after escaping the Dragon Majin.
@@ -19,3 +19,14 @@
 - PASS — Vikir deliberately gives young Dolores a teaching spoken by her own older pre-regression self.
 - PASS — chapter ends exactly when Dolores realizes Choco just spoke; full identity disclosure remains for target342.
 - LIMIT — direct Fandom verification remains robots-blocked; established glossary forms are reused.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Dolores holding Choco **tightly against herself** while entering the bath, and restored the weaker students being sacrificed to the Daylily explicitly **as food**.
+
+The complete Private Life family was reread after remediation. Shifted mapping remains **341→E339, 342→E340**; target 343/E341 begins *Ballak (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Private Life family QA.
