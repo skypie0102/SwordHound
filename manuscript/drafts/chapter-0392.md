@@ -192,7 +192,7 @@ Sakkuth grinned.
 
 I break her neck first.”
 
-“Then I tear her apart—”
+“Then I’ll tear her apart by five-horse dismemberment—”
 
 “Wait.”
 
@@ -308,7 +308,7 @@ He shook Kirko by the throat.
 
 “If I grab you—
 
-maybe you piss yourself and die of fright.”
+maybe you wet and soil yourself from fear and suffer heart paralysis.”
 
 “Then you’re worthless.”
 
@@ -364,9 +364,7 @@ Kirko’s eyes tightened.
 
 Sakkuth’s blood had been treated like a highest-grade biological hazard.
 
-If even one drop landed in the wrong place—
-
-guards disinfected the surrounding area violently and completely.
+Even a single drop triggered broad isolation and decontamination of the surrounding area.
 
 Nobody sane would willingly touch a cigarette soaked in it.
 
@@ -452,9 +450,9 @@ the contamination scare—
 
 all of it had been theater.
 
-He had used substances available inside Nouvelle Vague to imitate severe skin disease.
+Using prison-available materials and medical treatment, he had imitated a severe skin disease and kept the false presentation convincing.
 
-Medical injections and his knowledge as a poison specialist helped maintain the deception.
+His knowledge as a poison specialist helped maintain the deception.
 
 And his reputation did the rest.
 
