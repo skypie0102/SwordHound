@@ -9,8 +9,8 @@
       282
     ],
     "family_qa_path": "qa/families/what-money-cant-buy-0279-0282.md",
-    "family_qa_sha": "52aa4e0267c9a84ec650222d8910715c5e9d537b",
-    "status": "pass"
+    "family_qa_sha": "cdbcb4dd08174750e9468f85f74490b5c94cd5f5",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/282.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0282.md",
-    "blob_sha": "9bb8758a11b408783418dd58b820ebf4201fb28e"
+    "blob_sha": "1f0b1255c7812ad24b2240cad8d4da1c2fc5be33"
   },
   "qa": {
     "path": "qa/chapter-0282.md",
-    "blob_sha": "64f6f1b31646cf993018e08d4d70fd73808762a7",
-    "status": "pass"
+    "blob_sha": "9910d3115818e4dba949cd150a84b30477085dff",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Juliet/Romeo/Bartolomeo remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "reveal_guard": "Outside-the-vault plan remains unrevealed; no Time Flies material imported."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Outside-the-vault plan remains unrevealed; no Time Flies material imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      279,
+      282
+    ],
+    "manuscript_changed": true,
+    "note": "restored near-Hugo physical benchmark and explicit Quovadis+Bourgeois dual-target statement"
+  }
 }
