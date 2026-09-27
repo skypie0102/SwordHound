@@ -2,8 +2,8 @@
   "chapter": 463,
   "title": "Infiltration of the Water Source (10)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Infiltration of the Water Source",
     "range": [
@@ -11,8 +11,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/463.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-461.xhtml",
     "english_reference_sha": "2168c643959a08b36e58a0afec64293a9e81a1c2",
     "draft_path": "manuscript/drafts/chapter-0463.md",
-    "draft_sha": "dc1ec8c089b1981b87e98184552b12f4e1c6ad2f",
+    "draft_sha": "c7a475ca0ac0942da9aeb8bb7dc5c52c7d09f984",
     "qa_path": "qa/chapter-0463.md",
-    "qa_sha": "378e63ac23884139c0510fc6bec68c9dae659ad6",
+    "qa_sha": "9cbce74955797e7276d2ffffc8dd51c2aa9b0a1a",
     "provenance_path": "editorial/provenance/chapter-0463.json",
-    "provenance_sha": "ce3a6fc2cf0ef6a09dde8654b43b2b8b2f9e0716"
+    "provenance_sha": "ce0fd185f5b86f839e118fc872edd21c5ba79ad6"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
     "No target465 counterattack-family material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored flying-meat pieces and flesh-and-blood rain"
+  }
 }
