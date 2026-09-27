@@ -9,8 +9,8 @@
       306
     ],
     "family_qa_path": "qa/families/age-warmonger-0299-0306.md",
-    "family_qa_sha": "6c75847573a37c5864587a0a4892066b9ca65bc5",
-    "status": "pass"
+    "family_qa_sha": "655f6980a8a117730fe475539d08eb0495246a73",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/302.txt",
@@ -24,18 +24,29 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0302.md",
-    "blob_sha": "38ef661df59f67b3eb3f51ed16c7cdff19c36a86"
+    "blob_sha": "7398178514a614b804c5ac496fdff3caf2c3f8b0"
   },
   "qa": {
     "path": "qa/chapter-0302.md",
-    "blob_sha": "00ace5ba903af723d8d7a48153bd4e5d5a3925c9",
-    "status": "pass"
+    "blob_sha": "42f5edd610414045f436d1dcf260a9537e82d5bf",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "reveal_guards": [
     "Sadi's whispered Orwell request remains deliberately ambiguous.",
     "Demonic scent from Sadi's left-eye socket remains an unresolved clue."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      299,
+      306
+    ],
+    "manuscript_changed": true,
+    "note": "restored chest-room taunt and internal-organ tearing"
+  }
 }
