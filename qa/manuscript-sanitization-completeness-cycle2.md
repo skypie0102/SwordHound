@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 203/273 remediation chapters complete; next affected family The Worst Torture (390–395)
+**Current stage:** Phase 4 ACTIVE — 209/273 remediation chapters complete; next affected family Dead Man Walking (396–398)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 203  
-**Remaining remediation chapters:** 70  
-**Completed affected families:** 75  
-**Current next family:** The Worst Torture (390–395)  
-**Earliest remaining target:** Chapter 390
+**Completed remediation chapters:** 209  
+**Remaining remediation chapters:** 64  
+**Completed affected families:** 76  
+**Current next family:** Dead Man Walking (396–398)  
+**Earliest remaining target:** Chapter 397
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **The Worst Torture (390–395)**.
-2. Repair all source-supported queued defects after a complete-family reread.
-3. Re-run sanitization fidelity and completeness across the family.
-4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
+1. Continue Phase 4 with **Dead Man Walking (396–398)**.
+2. Reread the complete family and remediate Chapter **397** where supported by the Chinese-primary source.
+3. Re-run both content gates and refresh all evidence/hash bindings.
+4. Keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-27
@@ -190,13 +190,13 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **203**;
-- remaining remediation chapters: **70**;
-- affected families completed: **75**;
-- manuscript edits: **202**;
-- last completed affected family: **The Rotten Dog of Nouvelle Vague (385–389)**;
-- next affected family: **The Worst Torture (390–395)**;
-- earliest remaining target: **390**;
+- completed remediation chapters: **209**;
+- remaining remediation chapters: **64**;
+- affected families completed: **76**;
+- manuscript edits: **208**;
+- last completed affected family: **The Worst Torture (390–395)**;
+- next affected family: **Dead Man Walking (396–398)**;
+- earliest remaining target: **397**;
 - open structural failures: **none**;
-- all completed affected families through Chapter 389 have refreshed evidence/hash bindings;
+- all completed affected families through Chapter 395 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
