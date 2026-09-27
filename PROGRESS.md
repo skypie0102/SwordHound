@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — The Worst Torture complete
+
+Phase 4 remediation/evidence rebinding advanced through **The Worst Torture (390–395)**.
+
+- remediation chapters complete: **209 / 273**;
+- remediation chapters remaining: **64**;
+- affected families complete: **76**;
+- manuscript edits: **208**;
+- Chapters **390–395** repaired and fully rebound;
+- Chapter **395** identifies the poison mixture without reproducing its ingredient recipe;
+- next affected family: **Dead Man Walking (396–398)**, earliest target **397**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Rotten Dog of Nouvelle Vague complete
 
 Phase 4 remediation/evidence rebinding advanced through **The Rotten Dog of Nouvelle Vague (385–389)**.
