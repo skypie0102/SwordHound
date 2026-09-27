@@ -2,8 +2,8 @@
   "chapter": 401,
   "title": "Black Tongue (3)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Black Tongue",
     "range": [
@@ -11,8 +11,8 @@
       402
     ],
     "family_qa_path": "qa/families/black-tongue-0399-0402.md",
-    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
-    "status": "pass"
+    "family_qa_sha": "52a17d3d10f406d9699fcb6a91a29c44d5a9bf17",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/401.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-399.xhtml",
     "english_reference_sha": "002614684dd09a6f7692c2ef777d9197d2673e4b",
     "draft_path": "manuscript/drafts/chapter-0401.md",
-    "draft_sha": "0ff2131468c16b8bc530053a55c72d6c15a87d9d",
+    "draft_sha": "042c2495e2df0aeeb95c8c3ee31fa1165b083e2c",
     "qa_path": "qa/chapter-0401.md",
-    "qa_sha": "504a27209eca590873a488415eb27d9bc0966e2d",
+    "qa_sha": "3cbfb8afa7cb07c80c8b7220b7c088df65147f57",
     "provenance_path": "editorial/provenance/chapter-0401.json",
-    "provenance_sha": "08c5acd558bea993ef4e8d5432ce3506903f8f49"
+    "provenance_sha": "ee61269858a7c2bc4b56a959e290b214aa35c0a9"
   },
   "documented_limits": [
     "Direct Fandom re-check remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
@@ -32,5 +32,12 @@
   ],
   "documented_corrections": [
     "Kirko's parents were consenting junior guards; the earlier prisoner-on-guard rape account was a fabricated disciplinary story."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored abdominal palm strike, wall impact, broken-rib state, and possible internal-organ injury"
+  }
 }
