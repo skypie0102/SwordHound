@@ -9,8 +9,8 @@
       267
     ],
     "family_qa_path": "qa/families/season-redemption-0264-0267.md",
-    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
-    "status": "pass"
+    "family_qa_sha": "c8458b703c0e032a9d91ec3ce127bba8e220834f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/264.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0264.md",
-    "blob_sha": "2d2c07bfc77f9be4dad7b5293261a08ee5ed3d71"
+    "blob_sha": "5d891b703ef80d95e86f27749c369d9b848c749e"
   },
   "qa": {
     "path": "qa/chapter-0264.md",
-    "blob_sha": "c87fce42d8b204a24d2ca48cf910110d9509de31",
-    "status": "pass"
+    "blob_sha": "abb5c21400aab7009b7471604df9e33c5153a857",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      264,
+      267
+    ],
+    "manuscript_changed": true,
+    "note": "restored grasshopper and earthworm-breeding competition details"
+  }
 }
