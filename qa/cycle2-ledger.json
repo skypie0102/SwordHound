@@ -2600,7 +2600,16 @@
         313
       ],
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        307,
+        311,
+        313
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapters 307, 311, and 313 remediated and fully rebound; Chapters 308-310 and 312 complete-family revalidated unchanged."
     },
     {
       "index": 75,
@@ -22797,15 +22806,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Camus's source-explicit recollection that a childhood friend/first love brought her a strange tree and nameless old books is reduced to impersonal old-book provenance."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 308,
@@ -22864,7 +22877,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 309,
@@ -22923,7 +22940,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 310,
@@ -22982,7 +23003,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 311,
@@ -23033,15 +23058,19 @@
         "Cycle 2 Phase 1 FAIL: the source explicitly has surviving Hell Hounds trembling with tails tucked and wetting themselves before Cerberus crushes them; the draft omits the fear-wetting detail.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: surviving Hell Hounds are source-explicitly trembling with tails tucked and wetting themselves; the draft omits the fear-wetting detail."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 312,
@@ -23100,7 +23129,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 313,
@@ -23151,15 +23184,19 @@
         "Cycle 2 Phase 1 FAIL: the source's burst-abdomen sulfur/blood discharge is generalized while the draft adds unsupported viscera, and the fairy's bloodstained split-mouth detail is omitted.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: two-chapter-shifted English witness and adjacent title-family boundaries revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/hell-tree-0307-0313.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Cerberus's burst-abdomen sulfur/blood discharge is generalized with unsupported 'viscera,' and the fairy's bloodstained split-mouth detail is omitted."
       ],
       "completeness_review_file": "qa/cycle2/completeness/hell-tree-0307-0313.md",
       "boundary_review_file": "qa/cycle2/boundary/hell-tree-0307-0313.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 314,
@@ -39101,21 +39138,21 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 156,
-    "remediation_remaining_chapters": 117,
-    "families_completed": 53,
+    "remediation_completed_chapters": 159,
+    "remediation_remaining_chapters": 114,
+    "families_completed": 54,
     "last_completed_family": {
-      "name": "The Age of the Warmonger",
-      "start": 299,
-      "end": 306
-    },
-    "next_family": {
       "name": "Hell Tree",
       "start": 307,
       "end": 313
     },
-    "earliest_remediation_chapter": 307,
-    "manuscript_edits": 155,
+    "next_family": {
+      "name": "Surplus Man",
+      "start": 314,
+      "end": 320
+    },
+    "earliest_remediation_chapter": 316,
+    "manuscript_edits": 158,
     "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits.",
