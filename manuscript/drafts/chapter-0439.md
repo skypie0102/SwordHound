@@ -56,13 +56,13 @@ Orca defended.
 
 Together—
 
-they resembled an even more terrifying version of old Nouvelle Vague combinations.
+they far surpassed the old Nouvelle Vague pairing of **Doldium and Souare**.
 
 And neither man was limited to one role.
 
 Sade’s whip caught arrows.
 
-Orca’s club crushed anyone who approached too closely.
+Orca’s club turned any assassin who approached too closely into a meat patty with a single blow.
 
 A circular dead zone formed around them.
 
