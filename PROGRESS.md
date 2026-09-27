@@ -1,5 +1,18 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Shadowless King and Draw complete
+
+Phase 4 remediation/evidence rebinding advanced through **Draw (331–332)**.
+
+- **The Shadowless King of the Black Sea (326–330): COMPLETE** — Chapters 326, 329, and 330 remediated; Chapters 327–328 revalidated unchanged.
+- **Draw (331–332): COMPLETE** — both completeness-only targets repaired and rebound.
+- remediation chapters complete: **170 / 273**;
+- remediation chapters remaining: **103**;
+- affected families complete: **58**;
+- manuscript edits: **169**;
+- next affected family: **The Mating Room (333–338)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Warmonger and Hell Tree complete
 
 Phase 4 remediation/evidence rebinding advanced through **Hell Tree (307–313)**.
