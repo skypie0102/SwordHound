@@ -190,9 +190,9 @@ Camus shrugged.
 
 “Imperial magical history wouldn't include them.”
 
-She remembered old books from outside the Empire's normal scholarship—
+She remembered her childhood friend and first love—
 
-books connected to the witchcraft traditions of the Red and Black Mountains.
+the one who had once brought her a strange tree and several nameless old books from outside the Empire's normal scholarship.
 
 “This tree appears in the legends of tribes that have lived in **Le Rouge et Le Noir Mountain** for generations.”
 
