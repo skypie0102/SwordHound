@@ -180,7 +180,7 @@ Sakkuth screamed.
 
 “AAAAAAAAAAAAAH!”
 
-The sound filled the enormous hollow.
+It was a horrifying scream that instantly filled the entire cavern with fear.
 
 Even veteran Nouvelle Vague guards covered their ears.
 
@@ -252,7 +252,7 @@ Those things mattered only while one remained alive.
 
 Inside Flubber’s maw—
 
-Sakkuth was merely a fresher-than-usual piece of meat.
+Sakkuth was merely a fresh, wriggling piece of meat.
 
 GRRRR—
 
