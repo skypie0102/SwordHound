@@ -2,8 +2,8 @@
   "chapter": 368,
   "title": "The Underground Extension Construction (3)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Underground Extension Construction",
     "range": [
@@ -11,8 +11,8 @@
       368
     ],
     "family_qa_path": "qa/families/underground-extension-0366-0368.md",
-    "family_qa_sha": "71737ec5d2a108e6c217b12b66995f7a67409118",
-    "status": "pass"
+    "family_qa_sha": "f56487a25a104421341074ecff54be9907762db9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/368.txt",
@@ -20,11 +20,11 @@
     "english_reference_path": "source/chapters/chapter-366.xhtml",
     "english_reference_sha": "d3658eed13f15f035fda9b66845a1d197fe3cb29",
     "draft_path": "manuscript/drafts/chapter-0368.md",
-    "draft_sha": "6ca7d0dc26381fc8b9cbaa391118e6788888e072",
+    "draft_sha": "a5d11756b55726d1237fe9479c5c3bf3c3fd820f",
     "qa_path": "qa/chapter-0368.md",
-    "qa_sha": "679c82dab9dbb3a8e6c39c0e06dcaff3ae684dee",
+    "qa_sha": "19dc8942952409a18822b41499876232ce292484",
     "provenance_path": "editorial/provenance/chapter-0368.json",
-    "provenance_sha": "af2279377c706dc5208591389fc3d14032038e28"
+    "provenance_sha": "a3f776b684e884476bbe433ce66965c3600c6e6f"
   },
   "canonical_checks": [
     "Kirko Grimm",
@@ -33,5 +33,12 @@
     "Black Tongue",
     "Lieutenant Bastille"
   ],
-  "reveal_guard": "No The Servant material from target369 is imported."
+  "reveal_guard": "No The Servant material from target369 is imported.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored crushed-face result and Kirko vomiting aftermath"
+  }
 }
