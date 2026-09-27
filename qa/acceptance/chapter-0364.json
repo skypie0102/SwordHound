@@ -2,8 +2,8 @@
   "chapter": 364,
   "title": "Ghost Castle of the Ultra-Deep Sea (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Ghost Castle of the Ultra-Deep Sea",
     "range": [
@@ -11,8 +11,8 @@
       365
     ],
     "family_qa_path": "qa/families/ghost-castle-0363-0365.md",
-    "family_qa_sha": "5bfd85f722bcb4a4dcac7a39e7b8a9503f11469b",
-    "status": "pass"
+    "family_qa_sha": "5a0005d0a61bde1a6aa1cc508190ccdee5eb3a7c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/364.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-362.xhtml",
     "english_reference_sha": "a0eb7dbcfa38b119d1d7afbff4bdc27ecba5ccf9",
     "draft_path": "manuscript/drafts/chapter-0364.md",
-    "draft_sha": "ba0f7e5de6a62d7dcd19396c560a660dde5658ca",
+    "draft_sha": "fc4359b2fa9fea814327e105411d559beb3b8bba",
     "qa_path": "qa/chapter-0364.md",
-    "qa_sha": "1dedb95a4f287190274e13b8c41676650c9ff080",
+    "qa_sha": "b4f93d5992f227c66deffe9912bedd2edd686396",
     "provenance_path": "editorial/provenance/chapter-0364.json",
-    "provenance_sha": "4c83e8a43c5e6314e71ffe080450dee0ac654982"
+    "provenance_sha": "b83b9eaac187b3fb4daa49282b64f06dcd862c2b"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Underground Extension Construction material from target366 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored axe-bridge progression from deepening sole cuts to severed feet"
+  }
 }
