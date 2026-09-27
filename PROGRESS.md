@@ -1,5 +1,20 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Money War complete
+
+Phase 4 remediation/evidence rebinding advanced through **Money War (273–278)**.
+
+- remediation chapters complete: **135 / 273**;
+- remediation chapters remaining: **138**;
+- affected families complete: **47**;
+- manuscript edits: **134**;
+- Chapters **273, 275, 276, 277, 278** repaired and rebound;
+- Chapter **274** complete-family revalidated unchanged;
+- Chapter **273** Phase-3 duplicated/displaced-material failure is **resolved**;
+- only Chapter **283** remains as an open Phase-3 structural failure;
+- next affected family: **What Money Can't Buy (279–282)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Rich Friends complete
 
 Phase 4 remediation/evidence rebinding advanced through **Rich Friends (270–272)**.
