@@ -9,8 +9,8 @@
       370
     ],
     "family_qa_path": "qa/families/servant-0369-0370.md",
-    "family_qa_sha": "252295d65f520aad8536e16934099c2a0503e56c",
-    "status": "pass"
+    "family_qa_sha": "7defca9b4321d57a082f669a73bb6c2f02a0db15",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/369.txt",
@@ -28,10 +28,21 @@
   },
   "qa": {
     "path": "qa/chapter-0369.md",
-    "blob_sha": "0309f52e6bba4a3f0e3819a7184f2b32cc6ae596",
-    "status": "pass"
+    "blob_sha": "cd8caedf5c425dc7dd680f3abe12e448617d7578",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference": "Designated Fandom index confirms D'Ordume D'Orcdile and Kirko Grimm; later spoilers not imported.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      369,
+      370
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
