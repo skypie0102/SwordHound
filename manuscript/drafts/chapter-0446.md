@@ -80,6 +80,16 @@ Now Vikir returned it to the demons.
 
 Improved.
 
+That improvement existed only because history had changed.
+
+Marquis de Sade should never have been standing here.
+
+In the old timeline, his failed escape from Nouvelle Vague ended with him becoming food for deep-sea monsters roughly ten thousand meters below the surface.
+
+Vikir had changed that fate and brought him out of the deep.
+
+Because of that, the Human Alliance now had access to strategic and military talent it had never possessed in the old Age of Destruction.
+
 “Puhishishi.”
 
 Sade grinned beside him.
