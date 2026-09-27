@@ -9,8 +9,8 @@
       381
     ],
     "family_qa_path": "qa/families/hounds-nouvelle-vague-0377-0381.md",
-    "family_qa_sha": "1b62fe323e66c7b1b144a1ad67b2d3a3badf8c4e",
-    "status": "pass"
+    "family_qa_sha": "853ebd96582ef5f8aa874a73a37d70ad32d8f662",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/378.txt",
@@ -29,8 +29,19 @@
   "qa": {
     "path": "qa/chapter-0378.md",
     "blob_sha": "286fb2258df2ed9a10b731a3d1367151db855565",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      377,
+      381
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
