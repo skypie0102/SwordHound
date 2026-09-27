@@ -444,9 +444,7 @@ Triple.
 
 Layers of suppression.
 
-D'Ordume approached.
-
-Vikir knelt.
+D'Ordume came toward Vikir on his knees.
 
 Then—
 
@@ -454,9 +452,7 @@ BANG!
 
 A full-power punch struck Vikir’s face.
 
-Blood spilled.
-
-Vikir collapsed.
+Vikir fell to the ground covered in blood.
 
 D'Ordume snorted.
 
