@@ -9,8 +9,8 @@
       368
     ],
     "family_qa_path": "qa/families/underground-extension-0366-0368.md",
-    "family_qa_sha": "71737ec5d2a108e6c217b12b66995f7a67409118",
-    "status": "pass"
+    "family_qa_sha": "f56487a25a104421341074ecff54be9907762db9",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/367.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0367.md",
-    "blob_sha": "16c75168cb7029bfb80e885c62111b1272225adc"
+    "blob_sha": "bce3895fdb11cfd1c8232d0462109829b8b12f9a"
   },
   "qa": {
     "path": "qa/chapter-0367.md",
-    "blob_sha": "1efdb12ade23d40871322449f4b2ed93f1baeefe",
-    "status": "pass"
+    "blob_sha": "d25d8e0d93bba1fa09ad6248f09db8d2480ff417",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference": "Fresh designated-Fandom index checks confirmed Kirko Grimm, D'Ordume D'Orcdile, Garam Nord, Black Tongue, and Lieutenant Bastille; later spoilers were not imported.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      366,
+      368
+    ],
+    "manuscript_changed": true,
+    "note": "restored corpse-as-meat / few-bites cannibalism image"
+  }
 }
