@@ -311,13 +311,19 @@ He wanted to break them all.
 
 “You don’t want to?”
 
-Vikir moved a seed closer to her mouth.
+“Want to make this simpler?”
+
+Vikir pushed Daylily seeds into BDISSEM’s mouth.
+
+She writhed in pain.
 
 “I-I’ll do it!”
 
 “I’ll do it!”
 
-“Please!”
+“I’ll do it!”
+
+“Please let me do it!”
 
 “Good.”
 
@@ -351,7 +357,7 @@ Actually laughed.
 
 The effect on BDISSEM was immediate.
 
-She lost control of herself from fear.
+Fear turned the crotch of her pants yellow. Her pants were soaked through, and even her upper clothing became wet.
 
 Vikir lightly touched her throat with the weapon tip.
 
