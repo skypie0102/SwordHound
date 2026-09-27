@@ -2293,7 +2293,22 @@
       "boundary_reviewed_date": "2026-09-26",
       "boundary_failures": [
         273
-      ]
+      ],
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        273,
+        275,
+        276,
+        277,
+        278
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_current_boundary_status": "pass_after_remediation",
+      "phase4_resolved_boundary_failures": [
+        273
+      ],
+      "phase4_note": "Chapters 273 and 275-278 remediated and fully rebound; Chapter 274 complete-family revalidated unchanged. Chapter 273's duplicated/displaced 273→274 material is structurally resolved."
     },
     {
       "index": 68,
@@ -20578,15 +20593,21 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 FAIL: target 273 imports Dolores's gold/grain/mineral/real-estate/bond prediction-category list from Chinese Chapter 274, where the same material remains, creating duplicated/displaced source content across the 273→274 boundary."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Chapter 273 imports and duplicates the gold/grain/mineral/real-estate/bond prediction-category list that belongs to Chapter 274."
       ],
       "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
       "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true,
+      "phase4_boundary_status": "resolved",
+      "phase4_boundary_note": "Removed Chapter-274 prediction-category list from target 273; current 273→274 boundary is clean."
     },
     {
       "chapter": 274,
@@ -20645,7 +20666,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
       "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 275,
@@ -20696,15 +20721,19 @@
         "Cycle 2 Phase 1 PASS: direct Chinese-primary sanitization review found no unsupported softening, omission/generalization, or intensification.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Saltsail's source-explicit 60,000-ton salt figure is generalized to 'tens of thousands of tons.'"
       ],
       "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
       "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 276,
@@ -20755,15 +20784,19 @@
         "Cycle 2 Phase 1 FAIL: the draft drops the source's direct characterization of demon-linked lenders as shameless people unworthy of sympathy and generalizes the source's end-times 'went mad' decadence framing.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: direct condemnation of demon-linked lenders as shameless/not worth sympathy and the explicit end-times madness framing are generalized away."
       ],
       "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
       "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 277,
@@ -20814,15 +20847,19 @@
         "Cycle 2 Phase 1 FAIL: the source says failed succession challengers face death or exile worse than death; the draft softens this to death or 'something close to it.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: failed succession challengers face death or exile worse than death; the draft softens this to death or something close to it."
       ],
       "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
       "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 278,
@@ -20873,15 +20910,19 @@
         "Cycle 2 Phase 1 FAIL: the source explicitly calls Damien's ornate weapon a true killing sword; the draft reduces this to merely 'not decoration.'",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English-witness alignment and adjacent title-family boundaries revalidated; no structural remediation required by the alignment finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/money-war-0273-0278.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: Damien's weapon is source-explicitly a true killing sword, and Night Hound's danger can rival or even exceed Ms. Ouroboros; both are weakened in the draft."
       ],
       "completeness_review_file": "qa/cycle2/completeness/money-war-0273-0278.md",
       "boundary_review_file": "qa/cycle2/boundary/money-war-0273-0278.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 279,
@@ -38881,30 +38922,38 @@
     "bookkeeping_note": "Exception table normalized against main: 36 baseline rows + 429 Phase-3 additions = 465 current rows; 75 redundant interrupted/replayed rows removed, no baseline rows altered.",
     "closed": "2026-09-26",
     "open_structural_failures": [
-      273,
       283
+    ],
+    "phase4_resolved_structural_failures": [
+      273
     ]
   },
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 130,
-    "remediation_remaining_chapters": 143,
-    "families_completed": 46,
+    "remediation_completed_chapters": 135,
+    "remediation_remaining_chapters": 138,
+    "families_completed": 47,
     "last_completed_family": {
-      "name": "Rich Friends",
-      "start": 270,
-      "end": 272
-    },
-    "next_family": {
       "name": "Money War",
       "start": 273,
       "end": 278
     },
-    "earliest_remediation_chapter": 273,
-    "manuscript_edits": 129,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete",
+    "next_family": {
+      "name": "What Money Can't Buy",
+      "start": 279,
+      "end": 282
+    },
+    "earliest_remediation_chapter": 279,
+    "manuscript_edits": 134,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete",
     "checkpoint_date": "2026-09-27",
-    "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits."
+    "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits.",
+    "open_structural_failures": [
+      283
+    ],
+    "resolved_structural_failures": [
+      273
+    ]
   }
 }
