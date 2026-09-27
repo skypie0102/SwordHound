@@ -216,7 +216,7 @@ A lump of flesh appeared.
 
 Distorted features.
 
-Bits of tissue.
+Pieces of flesh and internal organs dripped from the twisted face.
 
 Dried, ugly wings.
 
@@ -313,6 +313,8 @@ Until—
 **<Vikir>**
 
 **LV: 100 — MAX**
+
+**Titles:** Gutter Rat Hunter · Hell’s Dog · Daylily Lumberjack · Majin Executioner · Black Sea King’s Executioner · Demonic Dragon Great Rival · The Leading Boatman
 
 **Stats:**  
 Strength: 1,000 (+98,941) = **99,941**  
