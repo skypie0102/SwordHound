@@ -9,8 +9,8 @@
       267
     ],
     "family_qa_path": "qa/families/season-redemption-0264-0267.md",
-    "family_qa_sha": "d4e724f3a13b95f99493fe03e36c5c1d8eb6c2f8",
-    "status": "pass"
+    "family_qa_sha": "c8458b703c0e032a9d91ec3ce127bba8e220834f",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/267.txt",
@@ -29,13 +29,24 @@
   "qa": {
     "path": "qa/chapter-0267.md",
     "blob_sha": "8c426d67f8f38971734d5ffb4817ddb72392fb22",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and no new wiki-only forms asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "source_exception": {
     "path": "source/chinese/chapter-exceptions.tsv",
     "note": "267.txt is shared by targets267-268 with no internal Chapter-268 heading; target267 uses the Season of Redemption portion plus only the localized E265 closing bridge omitted by Chinese."
+  },
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      264,
+      267
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged under documented shared-source exception"
   }
 }
