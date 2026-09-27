@@ -2,8 +2,8 @@
   "chapter": 262,
   "title": "The Inverted Pentagram (2)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Inverted Pentagram",
     "range": [
@@ -11,8 +11,8 @@
       263
     ],
     "family_qa_path": "qa/families/inverted-pentagram-0261-0263.md",
-    "family_qa_sha": "eeffa8cb036b72104224f4c9bc2720c161a5f0b3",
-    "status": "pass"
+    "family_qa_sha": "6cf478f6c31d186da72a6e0b74cc2835536dcc1a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/262.txt",
@@ -22,12 +22,19 @@
     "draft_path": "manuscript/drafts/chapter-0262.md",
     "draft_sha": "9609f00c75d1057381ec8495165a43b4aa0a1223",
     "qa_path": "qa/chapter-0262.md",
-    "qa_sha": "d5e4baff9ecec61a741b6c530a34d9686bc015f7",
+    "qa_sha": "4235ddd3ddf7cdf44339e8919580052f8bf41fc2",
     "provenance_path": "editorial/provenance/chapter-0262.json",
-    "provenance_sha": "f1fce60892271502139497b643e66d1f4830db14"
+    "provenance_sha": "ab4eb630b559a3d3b269d11894cf31e5963e506e"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Season of Redemption material from target264 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "reconciled stale Phase-1 omission; current draft already preserves tears and snot"
+  }
 }
