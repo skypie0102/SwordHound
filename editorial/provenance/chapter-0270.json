@@ -9,8 +9,8 @@
       272
     ],
     "family_qa_path": "qa/families/rich-friends-0270-0272.md",
-    "family_qa_sha": "40835cea0a3e53dc8d4db523fe458d303d8ca602",
-    "status": "pass"
+    "family_qa_sha": "1b732ea7ca7a1da7aebf0ec80643c48d2034afac",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/270.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0270.md",
-    "blob_sha": "31602e213e00a4a308482e1363e0e4158dca8bb6"
+    "blob_sha": "d32e6c2ca8fc7df8157071c2edcf770b233affce"
   },
   "qa": {
     "path": "qa/chapter-0270.md",
-    "blob_sha": "1b9cfeef36e5f7be743e4754dfa25e72953fbc23",
-    "status": "pass"
+    "blob_sha": "60b73910ea2c9d7fdf9e4b1e4c858c27ab570988",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Winston/Orwell/Nouvelle Vague remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      270,
+      272
+    ],
+    "manuscript_changed": true,
+    "note": "restored explicit fact that Dolores has never killed anyone"
+  }
 }
