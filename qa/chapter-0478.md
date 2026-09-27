@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/478.txt` — `ba2e4040f1c6d1b3569027411fccd5de799cdac5`
 - English witness: **E476** — `e506f9411de7dd867f54b771544e13b9b4de731a`
-- Draft: `manuscript/drafts/chapter-0478.md` — `cf22a73df682478b39bd334136b4fa5e46295509`
+- Draft: `manuscript/drafts/chapter-0478.md` — `304b67e28a98f75a8e0ae012dcd975a2b8a0f59c`
 
 ## Checks
 - PASS — the Great Flood is treated as a disaster that becomes salvation only because wildfire/drought/plague/Long Rain of Terror already exist.
@@ -20,3 +20,12 @@
 - PASS — Flauros’s final death is the soul-feeding mosquito consuming the remaining demonic soul; no later survival is asserted.
 - LIMIT — direct Fandom browsing remains robots-restricted; established project terminology controls recurring monsters/locations.
 
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-28.** Restored the blind old Oxbear's tens-of-tons forepaw strike **completely shattering Flauros's skull**, matching the Chinese source's full injury force.
+
+## Phase-4 decision
+
+**PASS after remediation/revalidation.** Final segment acceptance is rebound through the refreshed Tochka Annihilation Battle (6) QA.
