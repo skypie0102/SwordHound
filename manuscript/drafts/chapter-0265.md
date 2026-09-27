@@ -140,7 +140,7 @@ Clutched his throat.
 
 Nothing helped.
 
-The venom was so violent that the muscles around his tongue and throat seized.
+The venom was so violent that the root of his tongue curled upward and completely blocked his throat.
 
 He tried to wrap aura around his axe.
 
