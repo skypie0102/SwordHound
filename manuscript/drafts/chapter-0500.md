@@ -12,6 +12,8 @@ A long gray-white beard moved in the breeze.
 
 Vikir walked across the white waste.
 
+**Hongmen — Great Door.**
+
 Once—
 
 this land had been green.
@@ -120,15 +122,9 @@ Needle-like stairs rose steeply upward.
 
 The same suffocating loneliness.
 
-The same sharpened pressure.
+With every step—
 
-Every step—
-
-cutting.
-
-Grinding.
-
-Polishing.
+his entire body stung as though his flesh were being cut open.
 
 Countless swords filled floor—
 
@@ -136,7 +132,7 @@ walls—
 
 ceiling.
 
-Red droplets slid along old blades.
+Red, fishy-smelling droplets slid along old blades.
 
 Step.
 
@@ -145,6 +141,14 @@ Step.
 Step.
 
 Vikir climbed.
+
+Honed.
+
+Carved.
+
+Cut.
+
+Worn down.
 
 Upward.
 
