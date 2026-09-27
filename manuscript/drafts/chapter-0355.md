@@ -226,11 +226,9 @@ Now—
 
 they appeared from every direction.
 
-“Move!”
+“Fuck! Hey! Everybody move! I can’t see!”
 
-“I can’t see!”
-
-“Let me through!”
+“Please—let me through!”
 
 Camus and Dolores both tried to force their way toward Vikir.
 
