@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/316.txt",
@@ -24,12 +24,12 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0316.md",
-    "blob_sha": "230dd7b3235fed5d89878c958da1605dc9476b96"
+    "blob_sha": "ab740e9ce6de17485ba87ecda9a2779acbe3d75f"
   },
   "qa": {
     "path": "qa/chapter-0316.md",
-    "blob_sha": "f5c2f064fcd546341362f607fcee77685089e014",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "fbb32554dfd0dbbec8fc859357485825f75d8161",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
@@ -48,6 +48,17 @@
     "initial_priority_target": true,
     "confirmed_failure_resolved": true
   },
-  "accepted_date": "2026-09-20",
-  "failure_resolution": "Confirmed post-500 compression failure resolved by full survivor-debate/voting/social-dynamics rebuild."
+  "accepted_date": "2026-09-27",
+  "failure_resolution": "Confirmed post-500 compression failure resolved by full survivor-debate/voting/social-dynamics rebuild.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      314,
+      320
+    ],
+    "manuscript_changed": true,
+    "note": "restored bloodshot-eye and spittle-flying mob agitation"
+  }
 }
