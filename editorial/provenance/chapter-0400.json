@@ -9,8 +9,8 @@
       402
     ],
     "family_qa_path": "qa/families/black-tongue-0399-0402.md",
-    "family_qa_sha": "c54ff5c043d09d11fba6cd693f0701ae46892bc3",
-    "status": "pass"
+    "family_qa_sha": "52a17d3d10f406d9699fcb6a91a29c44d5a9bf17",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/400.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0400.md",
-    "blob_sha": "e48bc7e4c4600404b34c438200cfc14c7cb92310"
+    "blob_sha": "b53c7855621b71380b3e9daba986ea719ed950b0"
   },
   "qa": {
     "path": "qa/chapter-0400.md",
-    "blob_sha": "7450bf99bb6f7d16007a6b68a0eec2b023fc0cca",
-    "status": "pass"
+    "blob_sha": "7104f2f8976f9d5b70e468a3d2b35cf2f5192373",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained unavailable/robots-blocked for unresolved source-local forms; established accepted terminology was reused.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      399,
+      402
+    ],
+    "manuscript_changed": true,
+    "note": "restored D'Ordume/Souaré feud history and changed-identity/disguise interrogation wording"
+  }
 }
