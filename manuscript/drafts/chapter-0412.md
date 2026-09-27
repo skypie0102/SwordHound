@@ -136,7 +136,7 @@ and won.
 
 “Hehehe.”
 
-“But I only escaped because Andromalius was defeated in the west.”
+“But I only escaped because Amdusias was defeated in the west.”
 
 One day—
 
