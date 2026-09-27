@@ -9,8 +9,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/454.txt",
@@ -29,9 +29,20 @@
   "qa": {
     "path": "qa/chapter-0454.md",
     "blob_sha": "9e6ed31d68e009f18d919aa0089a59cd8106d10e",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      454,
+      464
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
