@@ -16,7 +16,7 @@ Current checkpoint: **full manuscript sanitization + completeness audit — Cycl
 - Completeness-only additions beyond the Phase-1 FAIL queue: **73**
 - Combined Phase-4 remediation population: **273 unique chapters**
 - Cycle-2 boundary/alignment revalidated: **500 / 500** — **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED** across **118 / 118 families**
-- Current stage: **Phase 4 ACTIVE — 210/273 remediation chapters complete through Dead Man Walking (396–398); next affected family Black Tongue (399–402)**
+- Current stage: **Phase 4 ACTIVE — 213/273 remediation chapters complete through Black Tongue (399–402); next affected family Jailbreaker (403–408)**
 - Active Cycle-2 plan: `qa/manuscript-sanitization-completeness-cycle2.md`
 - Phase-2 closure checkpoint: `qa/cycle2-phase2-checkpoint-0500.md`
 - Historical post-500 audit record: `qa/manuscript-completeness-audit.md`
@@ -30,7 +30,7 @@ Phase 1 is complete across Chapters 1–500 at **282 PASS / 200 FAIL / 18 SAFETY
 
 Phase 3 is complete. Chapters **1–500** across **118 / 118** families are structurally resolved at **53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED**, with **429 genuine new source-exception rows** after duplicate-ledger normalization and **0 manuscript edits**. Closure checkpoint: `qa/cycle2-phase3-checkpoint-0500.md`. The structural FAILs at Chapters **273 and 283** have both been resolved during Phase 4.
 
-Phase 4 is active. Seventy-seven affected families are remediated/revalidated and rebound through **Dead Man Walking (396–398)**. **210 / 273** remediation chapters are complete and **63** remain; Phase 4 has made **209** manuscript edits so far. Continue with **Black Tongue (399–402)**, earliest remaining target Chapter **399**.
+Phase 4 is active. Seventy-eight affected families are remediated/revalidated and rebound through **Black Tongue (399–402)**. **213 / 273** remediation chapters are complete and **60** remain; Phase 4 has made **212** manuscript edits so far. Continue with **Jailbreaker (403–408)**, earliest remaining target Chapter **403**.
 
 ## Current source policy
 
