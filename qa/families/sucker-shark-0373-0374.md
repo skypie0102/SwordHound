@@ -21,3 +21,17 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 373 was reread against its Chinese-primary source and remains complete without manuscript changes.
+- Chapter 374 restores Sakkuth's source-explicit threat that Kirko would suffer **urinary incontinence** and **shrivel into jerky** from disease.
+- Sanitization fidelity and completeness were rerun across Chapters 373–374.
+- Mapping remains **373→E371, 374→E372**; target 375/E373 begins *Poseidon (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **Poseidon (375–376)**, with remediation target Chapter **376**.
