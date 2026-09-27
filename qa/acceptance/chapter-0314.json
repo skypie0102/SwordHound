@@ -2,8 +2,8 @@
   "chapter": 314,
   "title": "Surplus Man (1)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "Surplus Man",
     "range": [
@@ -11,8 +11,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/314.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0314.md",
     "qa_sha": "fd01c40fa6b0915303aaa89f32b735be8111cea7",
     "provenance_path": "editorial/provenance/chapter-0314.json",
-    "provenance_sha": "4028e9a2478307ba030794ab5cf020eee29a1c1f"
+    "provenance_sha": "b293465bdff479e19fc201b9111eebb58cd425a2"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/surplus-man-0314-0320.md",
     "initial_priority_target": true,
     "confirmed_failure_resolved": false
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
   }
 }
