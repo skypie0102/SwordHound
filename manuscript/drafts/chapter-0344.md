@@ -186,7 +186,7 @@ Tudor’s jaw was broader.
 
 His voice deeper.
 
-Bianca looked older too.
+Bianca’s body had changed greatly too.
 
 More importantly—
 
