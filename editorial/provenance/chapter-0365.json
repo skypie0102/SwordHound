@@ -9,8 +9,8 @@
       365
     ],
     "family_qa_path": "qa/families/ghost-castle-0363-0365.md",
-    "family_qa_sha": "5bfd85f722bcb4a4dcac7a39e7b8a9503f11469b",
-    "status": "pass"
+    "family_qa_sha": "5a0005d0a61bde1a6aa1cc508190ccdee5eb3a7c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/365.txt",
@@ -28,14 +28,25 @@
   },
   "qa": {
     "path": "qa/chapter-0365.md",
-    "blob_sha": "2016cb79f41aef9dab51d9e0b8c0af1536c32ddd",
-    "status": "pass"
+    "blob_sha": "568b05ec58ae4b0cc247a0190b81b8f5fc1ddb69",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local names were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
+  "accepted_date": "2026-09-27",
   "key_reveals": [
     "Nouvelle Vague is excavating a new Level10 below Level9.",
     "Solitary confinement is foreshadowed as survivable by only one prisoner."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      363,
+      365
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
