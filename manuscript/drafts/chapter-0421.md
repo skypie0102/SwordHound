@@ -498,6 +498,8 @@ The disk accelerated.
 
 Vikir's body tried to tear apart.
 
+It felt as though he were being turned alive into meat paste.
+
 Pressure from below.
 
 Pressure from above.
