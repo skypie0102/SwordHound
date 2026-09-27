@@ -3810,7 +3810,14 @@
         434
       ],
       "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_remediation_status": "complete",
+      "phase4_remediated_date": "2026-09-27",
+      "phase4_manuscript_changed_chapters": [
+        434
+      ],
+      "phase4_rebind_complete": true,
+      "phase4_note": "Chapter 434 remediated and fully rebound; Chapters 435-436 complete-family revalidated unchanged."
     },
     {
       "index": 106,
@@ -31069,15 +31076,19 @@
         "Cycle 2 Phase 1 FAIL: the source's whole-body meat-grinder / being-torn-apart pain image during empathy resonance is softened to generic bodily pain beneath the barrage.",
         "Cycle 2 Phase 3 EXCEPTION-DOCUMENTED: shifted English witness and/or title-layer exception revalidated; no manuscript remediation required by the structural finding."
       ],
-      "remediation_required": true,
-      "rebind_status": "pending_phase4_remediation",
+      "remediation_required": false,
+      "rebind_status": "phase4_rebound",
       "sanitization_review_file": "qa/cycle2/sanitization/returned-hound-0434-0436.md",
       "completeness_findings": [
         "Cycle 2 Phase 2 FAIL: the empathy resonance's whole-body meat-grinder / being-torn-apart pain image is reduced to generic bodily pain, and Sinclaire's remembered exchange omits Vikir's statement that his goal is very distant and will take a long time plus her response to that scale."
       ],
       "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
       "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "complete",
+      "phase4_manuscript_changed": true
     },
     {
       "chapter": 435,
@@ -31136,7 +31147,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
       "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 436,
@@ -31195,7 +31210,11 @@
       ],
       "completeness_review_file": "qa/cycle2/completeness/returned-hound-0434-0436.md",
       "boundary_review_file": "qa/cycle2/boundary/returned-hound-0434-0436.md",
-      "boundary_reviewed_date": "2026-09-26"
+      "boundary_reviewed_date": "2026-09-26",
+      "phase4_family_reviewed": true,
+      "phase4_reviewed_date": "2026-09-27",
+      "phase4_remediation_status": "family_revalidated_no_remediation_required",
+      "phase4_manuscript_changed": false
     },
     {
       "chapter": 437,
@@ -39874,22 +39893,22 @@
   "phase4": {
     "status": "active",
     "remediation_union_count": 273,
-    "remediation_completed_chapters": 235,
-    "remediation_remaining_chapters": 38,
-    "families_completed": 84,
+    "remediation_completed_chapters": 236,
+    "remediation_remaining_chapters": 37,
+    "families_completed": 85,
     "last_completed_family": {
-      "name": "The Lion King",
-      "start": 430,
-      "end": 433
-    },
-    "next_family": {
       "name": "The Returned Hound",
       "start": 434,
       "end": 436
     },
-    "earliest_remediation_chapter": 434,
-    "manuscript_edits": 234,
-    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete; The Shadowless King of the Black Sea 326-330 complete; Draw 331-332 complete; The Mating Room 333-338 complete; Trap 339-340 complete; Crime and Punishment 356-358 complete; Voluntary Escort 359-362 complete; Ghost Castle of the Ultra-Deep Sea 363-365 complete; The Underground Extension Construction 366-368 complete; The Servant 369-370 complete; Poseidon 375-376 complete; The Hounds of Nouvelle Vague 377-381 complete; Kennel 382-384 complete; The Rotten Dog of Nouvelle Vague 385-389 complete; The Worst Torture 390-395 complete; Dead Man Walking 396-398 complete; Black Tongue 399-402 complete; Jailbreaker 403-408 complete; End game 409-418 complete; Goodbye, Nouvelle Vague 419-421 complete; How to Become a Wandering Knight 422-424 complete; The Night Walkers 425-429 complete; The Lion King 430-433 complete",
+    "next_family": {
+      "name": "Dreaming the Impossible Dream",
+      "start": 437,
+      "end": 440
+    },
+    "earliest_remediation_chapter": 438,
+    "manuscript_edits": 235,
+    "evidence_rebind_status": "Camus Morgue 20-25; Slave Auction 35-37; Morgue's United Front 40-42; The Husband Hunt 46-51; Slaves of the Savage Tribe 52-54; The Hunter and the Hunted 55-60; The Protagonist of Hunting 61-63; Unfair Trade 64-67; Blood Relatives 68-71; The Red Death 72-74; The Hound of the Night 75-77; The Saintess 78-82; Lovesickness 83-84; The Ghosts of the Ancestors 90-94; Nostalgia 101-104; Admission to the Academy 126-129; The Freshman Talent Show 130-132; Test Your Skills 133-138; Men are Power 139-140; Identity of the Villain 141-143; Not Brother, But Uncle 150-151; The Drinking Game 152-154; and How to Keep Your Night Shift Employees Safe 155-157 complete; and Familiar Face 158-161 complete; Sin and Punishment 162-169 complete; The Anti-Columnist 172-175 complete; The 99 Hits With 100 Shots 176-178 complete; Midterm Random Defense 179-185 complete; Aftermath 186-189 complete; Attack Land 190-196 complete; Preparing for the Festival 197 complete; The Corpse Queen 198-202 complete; Mixed Bath 203-205 complete; Festival Night 206-215 complete; That Day, Him and Me 220-224 complete; Tuition 225-233 complete; Suspicion 234-235 complete; National University League 236-244 complete; Survival Contest 245-249 complete; Five Stars 253-254 complete; The Grave of Swords 255-260 complete; The Inverted Pentagram 261-263 complete; The Season of Redemption 264-267 complete; The Eucharist 268-269 complete; Rich Friends 270-272 complete; Money War 273-278 complete; What Money Can't Buy 279-282 complete; Power Inflation 283-290 complete; The Successors 291-292 complete; Confessions 293-295 complete; Last Semester 296-298 complete; The Shadowless King of the Black Sea 326-330 complete; Draw 331-332 complete; The Mating Room 333-338 complete; Trap 339-340 complete; Crime and Punishment 356-358 complete; Voluntary Escort 359-362 complete; Ghost Castle of the Ultra-Deep Sea 363-365 complete; The Underground Extension Construction 366-368 complete; The Servant 369-370 complete; Poseidon 375-376 complete; The Hounds of Nouvelle Vague 377-381 complete; Kennel 382-384 complete; The Rotten Dog of Nouvelle Vague 385-389 complete; The Worst Torture 390-395 complete; Dead Man Walking 396-398 complete; Black Tongue 399-402 complete; Jailbreaker 403-408 complete; End game 409-418 complete; Goodbye, Nouvelle Vague 419-421 complete; How to Become a Wandering Knight 422-424 complete; The Night Walkers 425-429 complete; The Lion King 430-433 complete; The Returned Hound 434-436 complete",
     "checkpoint_date": "2026-09-27",
     "rule": "Remediate complete affected title families in target order; refresh QA/provenance/acceptance/family-QA/hash bindings after edits.",
     "open_structural_failures": [],
