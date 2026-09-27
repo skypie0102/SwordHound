@@ -9,8 +9,8 @@
       482
     ],
     "family_qa_path": "qa/families/downtown-naval-warfare-0479-0482.md",
-    "family_qa_sha": "c69cea1b8b595f0b92952cc496aa661957931dc6",
-    "status": "pass"
+    "family_qa_sha": "dcc1fdb5494ee06f5bc0095ca9439666b5b2db13",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/482.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0482.md",
-    "blob_sha": "0d4f9c74c725db3b8cce333fb5ad124dfce643be"
+    "blob_sha": "fca9b5b8c0063236dc8d1cd230a8e44d920665ba"
   },
   "qa": {
     "path": "qa/chapter-0482.md",
-    "blob_sha": "aa13bc01b24ef5caf4c0c13e7a62cd70c17d88f3",
-    "status": "pass"
+    "blob_sha": "fa892e0b11147acf9b2f66ad58afeb29b551420b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms and new source-local maritime terms remain unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "reveal_guard": "Coffin contents remain unrevealed; companions only repeat Vikir's stated 'dead comrades' souls' explanation."
+  "accepted_date": "2026-09-28",
+  "reveal_guard": "Coffin contents remain unrevealed; companions only repeat Vikir's stated 'dead comrades' souls' explanation.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-28",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      479,
+      482
+    ],
+    "manuscript_changed": true,
+    "note": "restored shells/sea-urchin details and living-organism bodily-fluid splatter"
+  }
 }
