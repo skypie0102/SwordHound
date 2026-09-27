@@ -306,13 +306,11 @@ One glance was enough.
 
 Sakkuth’s repeated attacks had destroyed him beyond repair.
 
-Bones crushed into fragments.
+Every bone in his body had been crushed to powder.
 
-Fragments driven through organs.
+Fragments had driven deep into his internal organs.
 
-Pressure ruptures throughout the body.
-
-Vital organs failing.
+The enormous pressure inside his body had ruptured the major organs responsible for metabolism.
 
 Body temperature rising under plague contamination.
 
