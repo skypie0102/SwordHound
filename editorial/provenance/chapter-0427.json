@@ -9,8 +9,8 @@
       429
     ],
     "family_qa_path": "qa/families/night-walkers-0425-0429.md",
-    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
-    "status": "pass"
+    "family_qa_sha": "d4c5af14c23ba4f5ad1aa52ec3831b0e0c454002",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/427.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0427.md",
-    "blob_sha": "ce149690bfe03613680bce68ddc51d4d4d2b518c"
+    "blob_sha": "d653c7140212f0ba1840d1ac1bf7ff1269a7ddb8"
   },
   "qa": {
     "path": "qa/chapter-0427.md",
-    "blob_sha": "a8de09ecdec09dbb5f85b7e92118c0a7b7500cd5",
-    "status": "pass"
+    "blob_sha": "9f8dd3b7178ec6ab52123d358cf83b94aca44b50",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      425,
+      429
+    ],
+    "manuscript_changed": true,
+    "note": "restored all-four-limbs-cut-off punishment"
+  }
 }
