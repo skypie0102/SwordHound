@@ -9,8 +9,8 @@
       278
     ],
     "family_qa_path": "qa/families/money-war-0273-0278.md",
-    "family_qa_sha": "55c4937edaf105e8beca016dc694d4fdedf415f0",
-    "status": "pass"
+    "family_qa_sha": "bddac9b4e79e2582574e8f216ef9549e3b9d354a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/277.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0277.md",
-    "blob_sha": "06ab98be7725fa579bdb1bc4d400a7c91d64c056"
+    "blob_sha": "103008590d4a98536666d35655b9e35ee7a2c031"
   },
   "qa": {
     "path": "qa/chapter-0277.md",
-    "blob_sha": "668f78316d31232be5fead6924f7345db587a2e6",
-    "status": "pass"
+    "blob_sha": "c5befa6fa4d276aa3cc83416833c9e98ad54f1ba",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Bartolomeo / Sinan Saltsail / Puss in Boots / Juliet / Bahamut remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      273,
+      278
+    ],
+    "manuscript_changed": true,
+    "note": "restored death-or-exile-more-miserable-than-death succession stakes"
+  }
 }
