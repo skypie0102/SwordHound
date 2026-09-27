@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Wandering Knight complete
+
+Phase 4 remediation/evidence rebinding advanced through **How to Become a Wandering Knight (422–424)**.
+
+- remediation chapters complete: **228 / 273**;
+- remediation chapters remaining: **45**;
+- affected families complete: **82**;
+- manuscript edits: **227**;
+- Chapters **422–424** repaired and fully rebound;
+- next affected family: **The Night Walkers (425–429)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — End game complete
 
 Phase 4 remediation/evidence rebinding advanced through **End game (409–418)**.
