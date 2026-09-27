@@ -9,8 +9,8 @@
       362
     ],
     "family_qa_path": "qa/families/voluntary-escort-0359-0362.md",
-    "family_qa_sha": "99bc680e15694db0fcb6ed22965693f3e71e34d4",
-    "status": "pass"
+    "family_qa_sha": "79a0832fe13b3a2070f883b785ddbc1ae2d25986",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/361.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0361.md",
-    "blob_sha": "0f01ada1c4ae762472086f6872b5684b662ccd57"
+    "blob_sha": "e078b33d931191f557200c29e92bda500cbcdc7c"
   },
   "qa": {
     "path": "qa/chapter-0361.md",
-    "blob_sha": "a3c4d61b32cb7844e614e0011a4d261af24f8cbd",
-    "status": "pass"
+    "blob_sha": "0d832a5147054388fe6f48ecf82976474fe89615",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local names/forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      359,
+      362
+    ],
+    "manuscript_changed": true,
+    "note": "restored repeated interrogation cuts to Pedro, Isolde, and Thomas with screams"
+  }
 }
