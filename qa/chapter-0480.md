@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/480.txt` — `779343246badf6f6d4f1030779fceb804b719454`
 - English witness: **E478** — `2b16df7b7ef6d83151c2eb989e009313e54bf8c1`
-- Draft: `manuscript/drafts/chapter-0480.md` — `7619817b4bb2a9790d17f850be126937df96597a`
+- Draft: `manuscript/drafts/chapter-0480.md` — `f42e30442d69202e15c6a86143c29a84a389cdf7`
 
 ## Checks
 - PASS — Invincible Armada chain formation and heavy-storm traversal are preserved as fantasy naval tactics without practical enhancement.
@@ -18,3 +18,14 @@
 - PASS — Osiris distinguishes understanding Hugo from empathizing with him; Cindywendy glance remains source-timed.
 - PASS — Central Clock Tower entry into the submerged capital closes the chapter.
 - LIMIT — direct Fandom browsing remains robots-restricted; established glossary canon controls recurring forms and new source-local maritime terms are not falsely presented as wiki-confirmed.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-28.** Restored the tsunami metaphor of the **entire skin of the sea peeling upward in one sheet** and removed the unsupported Dolores interpretation absent from Chinese C480.
+
+The complete Downtown Naval Warfare family was reread after remediation. Chapters 479 and 481 remain unchanged and pass both Cycle-2 content gates. Mapping remains **479→E477 through 482→E480**; target 483/E481 begins *The Marquis of Discord (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation/revalidation.** Final family acceptance is rebound through the refreshed Downtown Naval Warfare family QA.
