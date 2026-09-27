@@ -9,8 +9,8 @@
       389
     ],
     "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
-    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
-    "status": "pass"
+    "family_qa_sha": "61be6e660024c17e9564680ee47b82689b723af2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/385.txt",
@@ -29,10 +29,21 @@
   "qa": {
     "path": "qa/chapter-0385.md",
     "blob_sha": "bd64c24763737840c2cff9394babc340c5d863c8",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_note": "Designated Fandom search confirms Garam Nord, Kirko Grimm, and Lieutenant Colonel Flubber J Tarbond. Pal Euspear remains aligned-witness/source-local because no accessible Fandom entry was found.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "source_exception": "Shared raw 385.txt target385 ends before explicit embedded Chapter386 marker; localized closing public-death/registry/Garam-disguise handoff restored only from aligned E383."
+  "accepted_date": "2026-09-27",
+  "source_exception": "Shared raw 385.txt target385 ends before explicit embedded Chapter386 marker; localized closing public-death/registry/Garam-disguise handoff restored only from aligned E383.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      385,
+      389
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; shared C385 closing-gap exception remains scoped"
+  }
 }
