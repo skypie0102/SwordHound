@@ -222,7 +222,7 @@ Vikir.
 
 SLASH!
 
-Every swing of Beelzebub sent more heads into the air.
+Every swing of Beelzebub sent **more than a dozen heads** flying into the sky.
 
 Then—
 
@@ -284,7 +284,7 @@ Vikir decided immediately.
 
 The six Counts turned without hesitation.
 
-Hundreds of knights shifted with them.
+The **seven hundred knights** following them shifted too.
 
 Vikir redirected the formation across the battlefield.
 
