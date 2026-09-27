@@ -33,3 +33,18 @@
 ## Verdict
 
 PASS.
+
+
+## Cycle-2 Phase 4 remediation and rebind
+
+**Resolved:** 2026-09-27  
+**Family result:** PASS after remediation and complete-family reread.
+
+- Chapter 438 restores Camus's omitted **slender figure with mature curves**, the source's cavalry **sausages / pancakes** grotesque-comedy image, and Orca's full **old, lecherous escaped convict** insult.
+- Chapter 439 restores the named **Doldium and Souare** Nouvelle Vague comparison and the source's **meat patty with one blow** image for Orca's club.
+- Chapters 437 and 440 were reread against their Chinese-primary sources and remain complete without manuscript changes.
+- Sanitization fidelity and completeness were rerun across Chapters 437–440 after repair.
+- Shifted mapping remains **437→E435, 438→E436, 439→E437, 440→E438**; target 441/E439 begins *The Fall of Usher (1)*.
+- Chapter QA, provenance, acceptance, family QA, tracker, and Cycle-2 ledger bindings are refreshed across the family.
+
+**Phase-4 disposition:** family clear; continue to **The Fall of Usher (441–449)**, with queued remediation targets Chapters **444–447 and 449**.
