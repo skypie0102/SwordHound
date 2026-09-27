@@ -2,8 +2,8 @@
   "chapter": 431,
   "title": "The Lion King (2)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_full_coverage_completeness_rebuild",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_full_coverage_completeness_rebuild_cycle2_phase4",
   "title_family": {
     "name": "The Lion King",
     "range": [
@@ -11,8 +11,8 @@
       433
     ],
     "family_qa_path": "qa/families/lion-king-0430-0433.md",
-    "family_qa_sha": "905fa2eded9bd217115181dd2fb730bb4f85d202",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "8c775da59f3dbb74656632fd35eb7866d8e2d705",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/431.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0431.md",
     "qa_sha": "b2a740a6cecbab5d5583f30d9d681125fcba70d9",
     "provenance_path": "editorial/provenance/chapter-0431.json",
-    "provenance_sha": "9f47e366622bce03d4fd1018e42a5e928353da1a"
+    "provenance_sha": "275c4c6e347f8f342afeae48ec04415dbeddeeef"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
@@ -44,5 +44,12 @@
     "family_evidence": "qa/families/lion-king-0430-0433.md",
     "initial_priority_target": true
   },
-  "priority_resolution": "Final initial-priority target431 resolved."
+  "priority_resolution": "Final initial-priority target431 resolved.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
