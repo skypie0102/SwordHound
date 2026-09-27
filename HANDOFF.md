@@ -22,7 +22,10 @@
 **Phase-2 integration merge commit:** 3c36802516de03e0d2180392ac0e8e4747261ce5  
 **Phase-3 integration:** PR #149 MERGED  
 **Phase-3 integration merge commit:** b94da82d837d73e3dba76975d26f70765b5a1ad2  
-**Phase-4 working branch:** `audit/cycle2-phase4-remediation`
+**Phase-4 integration:** PR #151 MERGED  
+**Phase-4 integration merge commit:** `7cc7f9e6c537ff25030c814ea3231948723f2db3`  
+**Phase-4 closure branch:** `audit/cycle2-phase4-remediation` — merged into `main`  
+**Phase-5 working branch:** not started
 
 ## Why the project focus changed
 
