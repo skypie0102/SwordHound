@@ -9,8 +9,8 @@
       389
     ],
     "family_qa_path": "qa/families/rotten-dog-0385-0389.md",
-    "family_qa_sha": "d10f2ad9895b49c51666e0e974439e9f178deb2a",
-    "status": "pass"
+    "family_qa_sha": "61be6e660024c17e9564680ee47b82689b723af2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/388.txt",
@@ -29,10 +29,21 @@
   "qa": {
     "path": "qa/chapter-0388.md",
     "blob_sha": "c5d2fb1888a3106fff27e42e031ce06306444142",
-    "status": "pass"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_note": "Designated Fandom search confirms Garam Nord, Kirko Grimm, and Lieutenant Colonel Flubber J Tarbond. Pal Euspear remains aligned-witness/source-local because no accessible Fandom entry was found.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "localized_repair": "One visibly corrupted mixed-language sentence repaired only from E386 as Kirko wondering whether Garam awakened after Sakkuth's riot."
+  "accepted_date": "2026-09-27",
+  "localized_repair": "One visibly corrupted mixed-language sentence repaired only from E386 as Kirko wondering whether Garam awakened after Sakkuth's riot.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      385,
+      389
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged; mixed-language sentence repair remains correctly scoped"
+  }
 }
