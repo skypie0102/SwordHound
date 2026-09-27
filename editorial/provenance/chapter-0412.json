@@ -9,8 +9,8 @@
       418
     ],
     "family_qa_path": "qa/families/end-game-0409-0418.md",
-    "family_qa_sha": "895bc1e18d7715839983f96ac0c8764b803758f0",
-    "status": "pass"
+    "family_qa_sha": "e7c76ebab3a660563f378fd74e93be4c7e00a91b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/412.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0412.md",
-    "blob_sha": "f0c865e24ac1f3f482138293f2a7bd1807f40a79"
+    "blob_sha": "6ea071dbc5631c95759265eb6c26702979550dfe"
   },
   "qa": {
     "path": "qa/chapter-0412.md",
-    "blob_sha": "a2a8ca7919c5f79ee689972a82de77ec91f37ac6",
-    "status": "pass"
+    "blob_sha": "62ea055bd4e6db10fc4158847fc341b8d40e26b2",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms remain explicitly unverified.",
   "accepted": true,
-  "accepted_date": "2026-09-20"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      409,
+      418
+    ],
+    "manuscript_changed": true,
+    "note": "corrected prototype Hell Tree escape trigger to Amdusias"
+  }
 }
