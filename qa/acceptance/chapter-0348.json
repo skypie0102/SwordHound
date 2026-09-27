@@ -2,8 +2,8 @@
   "chapter": 348,
   "title": "Key man (1)",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Key man",
     "range": [
@@ -11,8 +11,8 @@
       350
     ],
     "family_qa_path": "qa/families/key-man-0348-0350.md",
-    "family_qa_sha": "110ff172bc3f1dade8afa6cc0191200eb7e19227",
-    "status": "pass"
+    "family_qa_sha": "56c2212b539fa289c866953613a545f356e3180d",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/348.txt",
@@ -24,7 +24,7 @@
     "qa_path": "qa/chapter-0348.md",
     "qa_sha": "f61c42d6e6ab621b05b1445f284a5f13e921e639",
     "provenance_path": "editorial/provenance/chapter-0348.json",
-    "provenance_sha": "cb1cd995a770b97f018a153750ba473c27f41c7b"
+    "provenance_sha": "f32582655075412220decac5642d209cde5f8eba"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established project glossary forms were reused.",
@@ -32,5 +32,12 @@
   ],
   "corrections": [
     "Chinese 'we are not human' corrected to 'we are human' from immediate context and aligned E346."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
