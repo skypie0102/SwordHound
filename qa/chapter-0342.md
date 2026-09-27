@@ -6,7 +6,7 @@
 ## Evidence
 - Chinese: `source/chinese/chapters/342.txt` — `0d1e37597924fb48f8aecc41fe95a272892d5f83`
 - English witness: **E340** — `619ee7214ee483c4264127006bd2214e90147e37`
-- Draft: `manuscript/drafts/chapter-0342.md` — `9c3cdc45becb6e37ab49e02afd64489dfef47928`
+- Draft: `manuscript/drafts/chapter-0342.md` — `587871ff537203ab5f75ad30b1a121f2f6d7be4c`
 
 ## Checks
 - PASS — Dolores verifies Choco physically before Vikir speaks; her fear is driven by an apparently talking dog, not prior certainty about his identity.
@@ -21,3 +21,14 @@
 - PASS — both residents choose to leave together; their companionship is framed as comradeship while Dolores’s personal feelings remain hers.
 - PASS — family closes with Vikir and Dolores moving toward Basement Floor11 together; no Ballak-family events are imported.
 - LIMIT — direct Fandom verification remains robots-blocked; no later tower mechanism is invented.
+
+
+## Cycle-2 Phase 4 remediation
+
+**Resolved 2026-09-27.** Restored Vikir's cautious human-like **“Mm.”** response, the narrator's **peeping-tom** framing during Dolores's startled punch, and the Night Hound as the **soulmate** Dolores had long yearned for and wondered about.
+
+The complete Private Life family was reread after remediation. Shifted mapping remains **341→E339, 342→E340**; target 343/E341 begins *Ballak (1)*.
+
+## Phase-4 decision
+
+**PASS at chapter level after remediation.** Final family acceptance is rebound through the refreshed Private Life family QA.
