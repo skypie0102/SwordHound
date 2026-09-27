@@ -9,8 +9,8 @@
       449
     ],
     "family_qa_path": "qa/families/fall-of-usher-0441-0449.md",
-    "family_qa_sha": "0e77f91190c5c40973d293e4c289065460185c47",
-    "status": "pass"
+    "family_qa_sha": "eb58813e9f65cf30b850a97a5f9639853f6af7fb",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/449.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0449.md",
-    "blob_sha": "45a8fc4f9c7d55b4d9a617dacf54070cb6e7f027"
+    "blob_sha": "209f39f7c32557137e9ab80fd18b72f14857c203"
   },
   "qa": {
     "path": "qa/chapter-0449.md",
-    "blob_sha": "fd6c26adb8cb0be5f7740100c0ebe120bb074fd5",
-    "status": "pass"
+    "blob_sha": "a775e4a114ac36c79260fb34b7832a2811d495fe",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Fresh Fandom search indexing confirmed Andrealphus/Madeline Usher, Roderick Usher, Isolde Usher, Masyaf, and Love Shield where applicable. Direct page access remains robots-limited; unsupported local forms remain explicitly source-local.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "boundary_guard": "Family ends with only First and Second Corpses remaining; target450/E448 begins Declaration of War (1)."
+  "accepted_date": "2026-09-27",
+  "boundary_guard": "Family ends with only First and Second Corpses remaining; target450/E448 begins Declaration of War (1).",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      441,
+      449
+    ],
+    "manuscript_changed": true,
+    "note": "restored Roderick's broken-internal-organ condition"
+  }
 }
