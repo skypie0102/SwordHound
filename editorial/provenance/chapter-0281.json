@@ -9,8 +9,8 @@
       282
     ],
     "family_qa_path": "qa/families/what-money-cant-buy-0279-0282.md",
-    "family_qa_sha": "52aa4e0267c9a84ec650222d8910715c5e9d537b",
-    "status": "pass"
+    "family_qa_sha": "cdbcb4dd08174750e9468f85f74490b5c94cd5f5",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/281.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0281.md",
-    "blob_sha": "2f7f73de5ea768c5d7b30367273aff76a84c26d7"
+    "blob_sha": "83b387ed288391a0f9da93d8804ffbc9d34825fa"
   },
   "qa": {
     "path": "qa/chapter-0281.md",
-    "blob_sha": "f7ae58c066394edc11baaa63d0e0894eb5832d0e",
-    "status": "pass"
+    "blob_sha": "f4500b107a6827b47e5ca07dc4f107f44702f751",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused. Juliet/Romeo/Bartolomeo remain source-local pending direct access.",
   "accepted": true,
-  "accepted_date": "2026-09-19",
-  "sensitive_source_note": "Damien ends Juliet's remaining bodily life as part of the source narrative; preserved descriptively without instructional framing."
+  "accepted_date": "2026-09-27",
+  "sensitive_source_note": "Damien ends Juliet's remaining bodily life as part of the source narrative; preserved descriptively without instructional framing.",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      279,
+      282
+    ],
+    "manuscript_changed": true,
+    "note": "restored source-faithful officiant line and removed invented choice/possessions wording"
+  }
 }
