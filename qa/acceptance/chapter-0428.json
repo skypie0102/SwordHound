@@ -2,8 +2,8 @@
   "chapter": 428,
   "title": "The Night Walkers (4)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "The Night Walkers",
     "range": [
@@ -11,8 +11,8 @@
       429
     ],
     "family_qa_path": "qa/families/night-walkers-0425-0429.md",
-    "family_qa_sha": "373ead880992aeca111e0358147b170df4da9168",
-    "status": "pass"
+    "family_qa_sha": "d4c5af14c23ba4f5ad1aa52ec3831b0e0c454002",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/428.txt",
@@ -20,14 +20,21 @@
     "english_reference_path": "source/chapters/chapter-426.xhtml",
     "english_reference_sha": "499db247e899a9e014451fd63c20f019780d2d6f",
     "draft_path": "manuscript/drafts/chapter-0428.md",
-    "draft_sha": "8f06b012f45993e00d3e5a653121144345d509e3",
+    "draft_sha": "c1336861ff03c91da8f2a46d82dce4648e84d8f6",
     "qa_path": "qa/chapter-0428.md",
-    "qa_sha": "342ee6a760847e0348ecccc076749a1a2463207d",
+    "qa_sha": "f8be78b25c6add1f0351a4aadea8ce8979aa4b53",
     "provenance_path": "editorial/provenance/chapter-0428.json",
-    "provenance_sha": "be44081a7bab101aa94f084121ae20614f244284"
+    "provenance_sha": "7420d1dc76ac771de8365909c767e15774e098cb"
   },
   "documented_limits": [
     "Direct Fandom re-check remained robots-blocked; established glossary forms were reused.",
     "No Lion King material from target430 is imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": true,
+    "note": "restored tears-and-snot reconciliation detail"
+  }
 }
