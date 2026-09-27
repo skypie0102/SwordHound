@@ -9,8 +9,8 @@
       440
     ],
     "family_qa_path": "qa/families/dreaming-impossible-dream-0437-0440.md",
-    "family_qa_sha": "fba1238c9a1e3f71257a0ad6fc9d296e49baa11a",
-    "status": "pass"
+    "family_qa_sha": "57a274733cd09bc95422502a2ded79332d2d852b",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/439.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0439.md",
-    "blob_sha": "a375c293caa5a14fe1a9f2844d27b9d609c469b6"
+    "blob_sha": "55b74e599e4739ed7eb8e28409db042545c59073"
   },
   "qa": {
     "path": "qa/chapter-0439.md",
-    "blob_sha": "0ec5e22259f3338638bf9bb0e42328069f8b373e",
-    "status": "pass"
+    "blob_sha": "157c9c30056461a7e8cc1d19c4f289f1815d6cad",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "key_reveal": "Tudor voluntarily accepts demon-hunter causality risk and kills Chimeries with Gungnir coated in Pigi's blood."
+  "accepted_date": "2026-09-27",
+  "key_reveal": "Tudor voluntarily accepts demon-hunter causality risk and kills Chimeries with Gungnir coated in Pigi's blood.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      437,
+      440
+    ],
+    "manuscript_changed": true,
+    "note": "restored Doldium/Souare comparison and meat-patty club image"
+  }
 }
