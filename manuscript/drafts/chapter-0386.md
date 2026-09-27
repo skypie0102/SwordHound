@@ -511,13 +511,13 @@ Nearby guards snickered.
 
 “Did someone steal the proper one again?”
 
-“Rotten Dog.”
+“Dog Who Eats Shit.”
 
 “Same as always.”
 
 **Stupid Garam.**
 
-**Rotten Dog.**
+**Dog Who Eats Shit.**
 
 Names his colleagues had used for years.
 
@@ -553,7 +553,7 @@ So the lower guards continued.
 
 “Then let’s bother Garam.”
 
-“Hey, Rotten Dog.”
+“Hey, shit-eating dog.”
 
 “Where were you during roll call last night?”
 
