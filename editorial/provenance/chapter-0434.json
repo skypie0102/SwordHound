@@ -9,8 +9,8 @@
       436
     ],
     "family_qa_path": "qa/families/returned-hound-0434-0436.md",
-    "family_qa_sha": "8a6a3644f459cc34bc63be301142ea82084f76c0",
-    "status": "pass"
+    "family_qa_sha": "5e797390fa27f3b1f499fe9af2fa782449f74c42",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/434.txt",
@@ -24,15 +24,26 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0434.md",
-    "blob_sha": "5d97d61f40d639e82dd9bacff16befd658b5d456"
+    "blob_sha": "fc0d8a4694768f140e703b7eaed9bb3f0cc5c901"
   },
   "qa": {
     "path": "qa/chapter-0434.md",
-    "blob_sha": "fd07dbbb489c79054a8a97b821219da733398bed",
-    "status": "pass"
+    "blob_sha": "18174b83ff574bdc35e965bf1ab7df194b6fc3ac",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and new wiki-only forms were not asserted.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "reveal_guard": "Opening Vikir is an inner-world remnant; physical Vikir returns only at the chapter end."
+  "accepted_date": "2026-09-27",
+  "reveal_guard": "Opening Vikir is an inner-world remnant; physical Vikir returns only at the chapter end.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      434,
+      436
+    ],
+    "manuscript_changed": true,
+    "note": "restored meat-grinder whole-body pain and the full distant/long-term goal exchange"
+  }
 }
