@@ -1,7 +1,7 @@
 # Editorial Handoff
 
-**Checkpoint:** 2026-09-27
-**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 4 ACTIVE**  
+**Checkpoint:** 2026-09-28
+**Phase:** FULL MANUSCRIPT SANITIZATION + COMPLETENESS AUDIT — CYCLE 2 — **PHASE 4 COMPLETE / PHASE 5 NEXT**  
 **Target manuscript files present:** 500 / 500  
 **Historical accepted state entering Cycle 2:** 500 / 500  
 **Cycle-2 sanitization reviewed:** 500 / 500 — Phase 1 COMPLETE
@@ -11,7 +11,7 @@
 **Cycle-2 completeness revalidated:** 500 / 500 — Phase 2 COMPLETE — 229 PASS / 271 FAIL
 **Cycle-2 boundary/alignment revalidated:** 500 / 500 — 53 PASS / 2 FAIL / 445 EXCEPTION-DOCUMENTED across 118 / 118 families  
 **Confirmed Cycle-2 failures:** 200 Phase-1 sanitization FAIL chapters plus 271 Phase-2 completeness FAIL chapters; 198 completeness failures overlap Phase-1 FAILs and 73 are additions beyond the Phase-1 FAIL queue (42, 48, 55, 61, 63, 69, 70, 71, 72, 78, 79, 80, 82, 101, 103, 141, 150, 151, 152, 153, 154, 156, 165, 168, 175, 178, 180, 181, 182, 183, 184, 187, 190, 192, 193, 200, 207, 211, 212, 216, 217, 236, 259, 264, 266, 271, 273, 275, 281, 282, 283, 300, 307, 326, 329, 331, 332, 335, 399, 400, 403, 406, 412, 422, 425, 446, 451, 471, 483, 496, 497, 498, 499), for 273 unique remediation chapters; remediation deferred to Phase 4
-**Current audit stage:** Phase 4 ACTIVE — 89 affected families complete through Infiltration of the Water Source (454–464); 252/273 remediation chapters complete; next affected family The Prelude to a Counterattack (465–470)
+**Current audit stage:** Phase 4 COMPLETE — **273/273 remediation chapters**, **95/95 affected families**, **0 remaining**; Phase 5 independent residual verification is next
 **EPUB assembly:** BLOCKED until Cycle 2 closes  
 **Audit plan:** qa/manuscript-sanitization-completeness-cycle2.md  
 **Phase-0 integration:** PR #144 MERGED  
@@ -159,22 +159,24 @@ The end-of-corpus structural pass revalidated the intentional 475→476→478 ti
 
 Phase 4 is now active. **Camus Morgue (20–25)** has been completed as the first remediation family. Chapters **22** and **24** were repaired from the Chinese-primary source; Chapters 20, 21, 23, and 25 were revalidated unchanged. Family QA, provenance, acceptance, and tracker acceptance bindings were refreshed for Chapters 20–25. **2 / 273** remediation chapters are complete, **271** remain. The next affected family is **Slave Auction (35–37)**, beginning with Chapter **35**.
 
-## Phase 4 progress
+## Phase 4 closure
 
-- Completed affected families: **89**
-- Remediation chapters complete: **252 / 273**
-- Remaining remediation chapters: **21**
-- Phase-4 manuscript edits: **251**
-- Last completed affected family: **Infiltration of the Water Source (454–464)**
-- Latest repaired chapters: **455, 456, 459, 461, 463, 464**
-- Next affected family: **The Prelude to a Counterattack (465–470)**
-- Earliest remaining remediation target: **466**
-- EPUB assembly remains blocked
+- Status: **COMPLETE**
+- Remediation chapters complete: **273 / 273**
+- Remaining remediation chapters: **0**
+- Affected families complete: **95**
+- Phase-4 manuscript edits: **271**
+- Original Phase-3 structural failures **273** and **283**: **RESOLVED**
+- Final family: **Side Stories (496–500)**
+- Acceptance artifacts: **500 / 500**
+- Tracker entries: **500 / 500**
+- Tracker acceptance-SHA mismatches: **0**
+- Closure checkpoint: `qa/cycle2-phase4-checkpoint-0500.md`
+- EPUB assembly remains blocked until Phases 5–6 close
 
 ## Exact next actions
 
-1. Continue **Phase 4** with **The Prelude to a Counterattack (465–470)**, queued targets **466–469**.
-2. Reread the complete family against Chinese-primary sources and shifted English witnesses.
-3. Repair all source-supported ordinary defects and rerun both primary gates.
-4. Refresh chapter QA, family QA, provenance, acceptance, tracker, Cycle-2 ledger, and live docs before advancing.
-5. Keep EPUB assembly blocked until Phases 4–6 close.
+1. Begin **Phase 5 — independent residual verification and consistency sweep**.
+2. Run post-remediation corpus diagnostics for size/paragraph anomalies, explicitness-sensitive mismatches, dialogue/window-count drops, opening/ending continuity, numeric/rank/item inconsistencies, canonical-name drift, information-window fragmentation, and other credible residual discrepancies.
+3. Re-open any family where the residual sweep finds a credible defect and refresh its full evidence chain after correction.
+4. Keep complete-EPUB assembly **blocked** until Phase 5 clears and Phase 6 closure/hash validation completes.
