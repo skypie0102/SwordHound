@@ -9,8 +9,8 @@
       365
     ],
     "family_qa_path": "qa/families/ghost-castle-0363-0365.md",
-    "family_qa_sha": "5bfd85f722bcb4a4dcac7a39e7b8a9503f11469b",
-    "status": "pass"
+    "family_qa_sha": "5a0005d0a61bde1a6aa1cc508190ccdee5eb3a7c",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/364.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0364.md",
-    "blob_sha": "ba0f7e5de6a62d7dcd19396c560a660dde5658ca"
+    "blob_sha": "fc4359b2fa9fea814327e105411d559beb3b8bba"
   },
   "qa": {
     "path": "qa/chapter-0364.md",
-    "blob_sha": "1dedb95a4f287190274e13b8c41676650c9ff080",
-    "status": "pass"
+    "blob_sha": "b4f93d5992f227c66deffe9912bedd2edd686396",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local names were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      363,
+      365
+    ],
+    "manuscript_changed": true,
+    "note": "restored axe-bridge progression from deepening sole cuts to severed feet"
+  }
 }
