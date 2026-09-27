@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 193/273 remediation chapters complete; next affected family Solitary Confinement (371–372)
+**Current stage:** Phase 4 ACTIVE — 203/273 remediation chapters complete; next affected family The Worst Torture (390–395)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 193  
-**Remaining remediation chapters:** 80  
-**Completed affected families:** 69  
-**Current next family:** Solitary Confinement (371–372)  
-**Earliest remaining target:** Chapter 371
+**Completed remediation chapters:** 203  
+**Remaining remediation chapters:** 70  
+**Completed affected families:** 75  
+**Current next family:** The Worst Torture (390–395)  
+**Earliest remaining target:** Chapter 390
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,10 +179,10 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **Solitary Confinement (371–372)**.
-2. Reread the complete family and remediate flagged Chapter **371** only where supported by Chinese-primary source.
-3. Re-run both content gates across the family and refresh all evidence/hash bindings.
-4. Keep EPUB assembly blocked.
+1. Continue Phase 4 with **The Worst Torture (390–395)**.
+2. Repair all source-supported queued defects after a complete-family reread.
+3. Re-run sanitization fidelity and completeness across the family.
+4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
 
 
 ## Phase 4 live checkpoint — 2026-09-27
@@ -190,13 +190,13 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **193**;
-- remaining remediation chapters: **80**;
-- affected families completed: **69**;
-- manuscript edits: **192**;
-- last completed affected family: **The Servant (369–370)**;
-- next affected family: **Solitary Confinement (371–372)**;
-- earliest remaining target: **371**;
-- all completed affected families through Chapter 370 have refreshed evidence/hash bindings;
-- original structural FAILs at Chapters 273 and 283 remain resolved;
+- completed remediation chapters: **203**;
+- remaining remediation chapters: **70**;
+- affected families completed: **75**;
+- manuscript edits: **202**;
+- last completed affected family: **The Rotten Dog of Nouvelle Vague (385–389)**;
+- next affected family: **The Worst Torture (390–395)**;
+- earliest remaining target: **390**;
+- open structural failures: **none**;
+- all completed affected families through Chapter 389 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
