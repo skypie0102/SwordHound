@@ -9,8 +9,8 @@
       320
     ],
     "family_qa_path": "qa/families/surplus-man-0314-0320.md",
-    "family_qa_sha": "a752f27d99e0be65f4143aed12695b0a4f05a386",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "cfa70c820f5f0717135e28f0a0e256d640343e09",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/319.txt",
@@ -29,7 +29,7 @@
   "qa": {
     "path": "qa/chapter-0319.md",
     "blob_sha": "c09e380b130e7a05d0fc09d705ace8f258f7805a",
-    "status": "pass_after_completeness_rebuild"
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local tower/item forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
@@ -49,6 +49,17 @@
     "initial_priority_target": true,
     "confirmed_failure_resolved": true
   },
-  "accepted_date": "2026-09-20",
-  "failure_resolution": "Confirmed post-500 compression failure resolved by full Daylily fight/pooled-material/reward-sequence rebuild."
+  "accepted_date": "2026-09-27",
+  "failure_resolution": "Confirmed post-500 compression failure resolved by full Daylily fight/pooled-material/reward-sequence rebuild.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      314,
+      320
+    ],
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
