@@ -9,8 +9,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "516fe17093e0673dae9ef1540b53b5e9de18457a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/326.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0326.md",
-    "blob_sha": "29883c38bad8c616412acc11e3e9e579b96f4731"
+    "blob_sha": "bf2e839f3d827b28ed8cba41bfe9d02e10c7ec8a"
   },
   "qa": {
     "path": "qa/chapter-0326.md",
-    "blob_sha": "3324bf27a3fa9e691a913c5705d53ac61d40f8d2",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "5fce8615c54bb2048209c358425e56bf3940c136",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -46,5 +46,16 @@
     "finding": "Historical accepted draft materially compressed Chinese source coverage; rebuilt against complete raw.",
     "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
     "initial_priority_target": false
+  },
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      326,
+      330
+    ],
+    "manuscript_changed": true,
+    "note": "restored one-half magical-attack reduction"
   }
 }
