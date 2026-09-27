@@ -312,19 +312,17 @@ Spread his arms.
 
 [And even that describes the fortunate ones.]
 
-[Most children do not live long.]
+[Most human infants die soon after birth.]
 
-[Infants die.]
+[Do you know the Empire’s infant mortality rate?]
 
-[Orphans die.]
+[It is over eighty percent.]
 
-[War.]
-
-[Disease.]
-
-[Hunger.]
+[In a world where the average human lifespan is only in the thirties, even children who are born safely often drift through orphanages and fail to live past ten because of war, disease, or hunger.]
 
 [You saw what happened in Dantalian’s orphanage.]
+
+[Volunteer service at orphanages has even become a required course at noble schools.]
 
 Darkness gathered around him.
 
@@ -416,7 +414,7 @@ Andras parried another attack.
 
 [The body is slaughtered.]
 
-[Like livestock classified by age and growth.]
+[Like No. 7 and No. 8 chickens classified by stage of growth.]
 
 His smile widened.
 
