@@ -6,7 +6,7 @@
 **Historical accepted state at opening:** 500 / 500  
 **Current audit disposition:** prior acceptance retained as historical evidence, but every chapter requires fresh Cycle-2 revalidation  
 **EPUB assembly:** BLOCKED until this audit is formally closed  
-**Current stage:** Phase 4 ACTIVE — 121/273 remediation chapters complete; next affected family The Inverted Pentagram (261–263)
+**Current stage:** Phase 4 ACTIVE — 123/273 remediation chapters complete; next affected family The Season of Redemption (264–267)
 
 ## Progress
 
@@ -88,11 +88,11 @@ Any new exception must be added to source/chinese/chapter-exceptions.tsv and ref
 
 **Status:** ACTIVE  
 **Remediation population:** 273 unique chapters  
-**Completed remediation chapters:** 121  
-**Remaining remediation chapters:** 152  
-**Completed affected families:** 42  
-**Current next family:** The Inverted Pentagram (261–263)  
-**Earliest remaining target:** Chapter 261
+**Completed remediation chapters:** 123  
+**Remaining remediation chapters:** 150  
+**Completed affected families:** 43  
+**Current next family:** The Season of Redemption (264–267)  
+**Earliest remaining target:** Chapter 264
 
 **Goal:** repair all Cycle-2 failures without fragmenting family continuity.
 
@@ -179,7 +179,7 @@ Each checkpoint must report, at minimum:
 
 ## Immediate next actions
 
-1. Continue Phase 4 with **The Inverted Pentagram (261–263)**.
+1. Continue Phase 4 with **The Season of Redemption (264–267)**.
 2. Repair all source-supported queued defects after a complete-family reread.
 3. Re-run sanitization fidelity and completeness across the family.
 4. Refresh all evidence/hash bindings and keep EPUB assembly blocked.
@@ -190,12 +190,12 @@ Each checkpoint must report, at minimum:
 Phase 4 is **ACTIVE**.
 
 - remediation population: **273 unique chapters**;
-- completed remediation chapters: **121**;
-- remaining remediation chapters: **152**;
-- affected families completed: **42**;
-- manuscript edits: **121**;
-- last completed affected family: **The Grave of Swords (255–260)**;
-- next affected family: **The Inverted Pentagram (261–263)**;
-- earliest remaining target: **261**;
-- all completed affected families through Chapter 260 have refreshed evidence/hash bindings;
+- completed remediation chapters: **123**;
+- remaining remediation chapters: **150**;
+- affected families completed: **43**;
+- manuscript edits: **122**;
+- last completed affected family: **The Inverted Pentagram (261–263)**;
+- next affected family: **The Season of Redemption (264–267)**;
+- earliest remaining target: **264**;
+- all completed affected families through Chapter 263 have refreshed evidence/hash bindings;
 - EPUB assembly remains blocked until Phase 5 residual verification and Phase 6 closure.
