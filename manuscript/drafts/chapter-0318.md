@@ -135,11 +135,9 @@ Features.
 
 Down the neck.
 
-Chest.
+It licked across the smooth chest—
 
-Waist.
-
-Hip.
+then along the contours of the waist and hips.
 
 Long legs.
 
