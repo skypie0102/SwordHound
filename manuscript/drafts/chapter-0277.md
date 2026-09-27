@@ -54,9 +54,11 @@ Someone who challenged for the family throne—
 
 then lost—
 
-normally faced death.
+had only two outcomes waiting.
 
-Or something close to it.
+Death—
+
+or an exile more miserable than death.
 
 Damien—
 
