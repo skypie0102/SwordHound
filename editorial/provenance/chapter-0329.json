@@ -9,8 +9,8 @@
       330
     ],
     "family_qa_path": "qa/families/shadowless-king-black-sea-0326-0330.md",
-    "family_qa_sha": "04dd54bfd7eba8c8c852aed92ff2ec629cf7a578",
-    "status": "pass_after_completeness_rebuild"
+    "family_qa_sha": "516fe17093e0673dae9ef1540b53b5e9de18457a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/329.txt",
@@ -24,16 +24,16 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0329.md",
-    "blob_sha": "5699fc3e9bc5acf8cb64ca2479144b0ff0fe3116"
+    "blob_sha": "c4f5c22866850b9c7c9fbc1061318e6ddb59ff62"
   },
   "qa": {
     "path": "qa/chapter-0329.md",
-    "blob_sha": "0be7cebbe4ce7d16ef3c291174e7aa02ddfaae83",
-    "status": "pass_after_completeness_rebuild"
+    "blob_sha": "dfa3da608b4e3cb20061911984ec202af90430e8",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused and source-local deep-sea/tower forms were not falsely presented as wiki-confirmed.",
   "accepted": true,
-  "accepted_date": "2026-09-20",
+  "accepted_date": "2026-09-27",
   "historical_acceptance": {
     "accepted": true,
     "accepted_date": "2026-09-19",
@@ -47,5 +47,16 @@
     "family_evidence": "qa/families/shadowless-king-black-sea-0326-0330.md",
     "initial_priority_target": false
   },
-  "pressure_guard": "Rapid-ascent damage retained as story-world pressure-change mechanics without overclaiming real-world physiology."
+  "pressure_guard": "Rapid-ascent damage retained as story-world pressure-change mechanics without overclaiming real-world physiology.",
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      326,
+      330
+    ],
+    "manuscript_changed": true,
+    "note": "restored Random Box provenance and instant Beetlemen fainting"
+  }
 }
