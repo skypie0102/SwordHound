@@ -258,19 +258,15 @@ Whip.
 
 Crack.
 
-A barbed lash swept through them like a serpent.
+A barbed lash coiled through them like a serpent.
 
-Arms.
+Soldiers' arms, legs, and bodies were cut apart as easily as slicing cucumbers.
 
-Legs.
-
-Bodies.
-
-Armor split under purple-black aura.
+Purple-black aura tore across the scene.
 
 Every strike against the stone ground sent a tremor through the area.
 
-Heavily armored paladins were smashed aside.
+Heavily armored paladins were almost crushed to death.
 
 The cult leaders went pale.
 
@@ -374,9 +370,9 @@ Then stopped.
 
 Shock from blood loss killed him.
 
-Elmanny and Ohm curled in terror.
+Elmanny and Ohm curled into themselves in terror.
 
-One of them wet himself.
+Both wet their pants.
 
 Ms. Ouroboros hummed.
 
@@ -410,7 +406,7 @@ Thigh.
 
 By the time she stopped—
 
-his lower body was mangled beyond use.
+his lower body from toes through thigh had been crushed into a pile of mush.
 
 Ms. Ouroboros smiled.
 
@@ -492,11 +488,11 @@ Elmanny clawed at his face.
 
 The liquid burned deeper.
 
-Through flesh.
+It destroyed his flesh.
 
-Into bone.
+Bored countless holes into his bones.
 
-Toward the organs beneath.
+And burned into his internal organs.
 
 Ms. Ouroboros blinked.
 
@@ -505,6 +501,8 @@ Ms. Ouroboros blinked.
 “I seem to have mistaken hydrochloric acid for holy water.”
 
 She tapped one fist lightly against her head.
+
+Elmanny died in terrible agony.
 
 The remaining leaders went white.
 
@@ -652,11 +650,11 @@ she tended to follow.
 
 Vikir had therefore considered imitating **her** this time.
 
-A disguise.
+Cross-dressing.
 
-A whip.
+A little whipping.
 
-It would not have been especially difficult.
+Neither would have been especially difficult.
 
 But Ms. Ouroboros had appeared in person.
 
