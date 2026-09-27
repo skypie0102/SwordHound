@@ -9,8 +9,8 @@
       342
     ],
     "family_qa_path": "qa/families/private-life-0341-0342.md",
-    "family_qa_sha": "16ec368c5a8b210a2b81391bf1434893f84147a1",
-    "status": "pass"
+    "family_qa_sha": "9665af7554cf8aec6d77516d5779fc90494d1759",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "primary_source": {
     "path": "source/chinese/chapters/341.txt",
@@ -24,14 +24,25 @@
   },
   "draft": {
     "path": "manuscript/drafts/chapter-0341.md",
-    "blob_sha": "3b4cc4f4a71ef03e6816f4223e57ec3fd78ecb4a"
+    "blob_sha": "ffd16a2d606bd4c1c0804755d6bebf58e0019b03"
   },
   "qa": {
     "path": "qa/chapter-0341.md",
-    "blob_sha": "44cdfc6c8537972e1ecd5d2de4b0ef86dd6cfe5e",
-    "status": "pass"
+    "blob_sha": "2460f4da60c5b1718ca0b8cab8c52efb72ef0009",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "canonical_reference_limit": "Direct Fandom verification remained robots-blocked; established glossary forms were reused without false wiki claims.",
   "accepted": true,
-  "accepted_date": "2026-09-19"
+  "accepted_date": "2026-09-27",
+  "prior_accepted_date": "2026-09-19",
+  "cycle2_phase4": {
+    "date": "2026-09-27",
+    "status": "remediated_and_rebound",
+    "family_reviewed": [
+      341,
+      342
+    ],
+    "manuscript_changed": true,
+    "note": "restored tight-embrace bath entry and Daylily victims as food"
+  }
 }
