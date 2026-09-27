@@ -214,8 +214,6 @@ Pigi was writing a list of questions.
 
 “Promising small merchant guilds.”
 
-“Mergers with mercenary guilds…”
-
 He paused.
 
 “And whether tycoons eat chicken.”
