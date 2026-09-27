@@ -2,8 +2,8 @@
   "chapter": 458,
   "title": "Infiltration of the Water Source (5)",
   "accepted": true,
-  "accepted_date": "2026-09-20",
-  "review_mode": "chinese_primary_shifted_english_alignment",
+  "accepted_date": "2026-09-27",
+  "review_mode": "chinese_primary_shifted_english_alignment_cycle2_phase4",
   "title_family": {
     "name": "Infiltration of the Water Source",
     "range": [
@@ -11,8 +11,8 @@
       464
     ],
     "family_qa_path": "qa/families/infiltration-water-source-0454-0464.md",
-    "family_qa_sha": "95b46b995f843a4467756c139716f759468af4ad",
-    "status": "pass"
+    "family_qa_sha": "bbb073de678ceaf62268d2d5c0a853937007fa6a",
+    "status": "pass_after_cycle2_phase4_revalidation"
   },
   "evidence": {
     "primary_source_path": "source/chinese/chapters/458.txt",
@@ -24,10 +24,17 @@
     "qa_path": "qa/chapter-0458.md",
     "qa_sha": "19477f21a9959dad533e98dc038abd7a0ed0f76e",
     "provenance_path": "editorial/provenance/chapter-0458.json",
-    "provenance_sha": "8512557c93f62a1c16fd9144c2dc422556c58b12"
+    "provenance_sha": "4afb11e9a74d5f92c421435154ca7d21ed64da8e"
   },
   "documented_limits": [
     "Direct Fandom browsing remains robots-restricted; indexed Fandom evidence and established glossary forms used.",
     "No target465 counterattack-family material imported."
-  ]
+  ],
+  "prior_accepted_date": "2026-09-20",
+  "cycle2_phase4": {
+    "status": "accepted_after_remediation_rebind",
+    "date": "2026-09-27",
+    "manuscript_changed": false,
+    "note": "complete-family reread passed unchanged"
+  }
 }
