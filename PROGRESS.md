@@ -1,5 +1,17 @@
 # Reconstruction Progress
 
+## 2026-09-27 — Cycle 2 Phase 4 — Private Life complete
+
+Phase 4 remediation/evidence rebinding advanced through **Private Life (341–342)**.
+
+- remediation chapters complete: **178 / 273**;
+- remediation chapters remaining: **95**;
+- affected families complete: **61**;
+- manuscript edits: **177**;
+- Chapters **341–342** repaired and fully rebound;
+- next affected family: **Ballak (343–347)**;
+- EPUB assembly remains blocked.
+
 ## 2026-09-27 — Cycle 2 Phase 4 — Shadowless King and Draw complete
 
 Phase 4 remediation/evidence rebinding advanced through **Draw (331–332)**.
