@@ -210,7 +210,7 @@ CRACK!
 
 Winston staggered.
 
-Blood spilled from his mouth.
+Blood and fragments of internal organs sprayed from his lips.
 
 Amdusias threw its black mane forward.
 
